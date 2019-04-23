@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `HasBorderOutline`
+_expression_.**HasBorderOutline**
 
  _expression_ A variable that represents a '[DataTable](Word.DataTable.md)' object.
 

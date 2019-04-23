@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DataTable.Delete
 ms.assetid: a5f3c5d3-6f8d-2a59-1329-9d6a1e2b528c
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Deletes the object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [DataTable](Excel.DataTable-graph-property.md) object.
+_expression_ A variable that represents a **[DataTable](excel.datatable(object).md)** object.
 
 
-## See also
 
-
-[DataTable Object](Excel.DataTable(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `HasBorderHorizontal`
+_expression_.**HasBorderHorizontal**
 
 _expression_ A variable that represents a '[DataTable](PowerPoint.DataTable.md)' object.
 
