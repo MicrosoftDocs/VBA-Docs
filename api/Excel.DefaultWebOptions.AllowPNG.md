@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `AllowPNG`
+_expression_.**AllowPNG**
 
 _expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
 
