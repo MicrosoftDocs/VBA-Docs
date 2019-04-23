@@ -7,31 +7,33 @@ ms.prod: excel
 api_name:
 - Excel.ConnectorFormat.EndConnect
 ms.assetid: c8cc392c-8a54-99ed-ffdd-e5173792408f
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
 
 # ConnectorFormat.EndConnect method (Excel)
 
-Attaches the end of the specified connector to a specified shape. If there's already a connection between the end of the connector and another shape, that connection is broken. If the end of the connector isn't already positioned at the specified connecting site, this method moves the end of the connector to the connecting site and adjusts the size and position of the connector. Use the  **[BeginConnect](Excel.ConnectorFormat.BeginConnect.md)** method to attach the beginning of the connector to a shape.
+Attaches the end of the specified connector to a specified shape. If there's already a connection between the end of the connector and another shape, that connection is broken. 
+
+If the end of the connector isn't already positioned at the specified connecting site, this method moves the end of the connector to the connecting site and adjusts the size and position of the connector. 
+
+Use the **[BeginConnect](Excel.ConnectorFormat.BeginConnect.md)** method to attach the beginning of the connector to a shape.
 
 
 ## Syntax
 
-_expression_. `EndConnect`( `_ConnectedShape_` , `_ConnectionSite_` )
+_expression_.**EndConnect** (_ConnectedShape_, _ConnectionSite_)
 
 _expression_ A variable that represents a **[ConnectorFormat](Excel.ConnectorFormat.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ConnectedShape_|Required| **[Shape](Excel.Shape.md)**|The shape to attach the end of the connector to. The specified  **Shape** object must be in the same **[Shapes](Excel.Shapes.md)** collection as the connector.|
-| _ConnectionSite_|Required| **Long**|Must be an integer between 1 and the integer returned by the  **ConnectionSiteCount** property of the specified shape. If you want the connector to automatically find the shortest path between the two shapes it connects, specify any valid integer for this argument and then use the **[RerouteConnections](Excel.Shape.RerouteConnections.md)** method after the connector is attached to shapes at both ends.|
+| _ConnectedShape_|Required| **[Shape](Excel.Shape.md)**|The shape to attach the end of the connector to. The specified **Shape** object must be in the same **[Shapes](Excel.Shapes.md)** collection as the connector.|
+| _ConnectionSite_|Required| **Long**|Must be an integer between 1 and the integer returned by the **ConnectionSiteCount** property of the specified shape. If you want the connector to automatically find the shortest path between the two shapes it connects, specify any valid integer for this argument and then use the **[RerouteConnections](Excel.Shape.RerouteConnections.md)** method after the connector is attached to shapes at both ends.|
 
 ## Remarks
 
@@ -40,8 +42,7 @@ When you attach a connector to an object, the size and position of the connector
 
 ## Example
 
-This example adds two rectangles to  _myDocument_ and connects them with a curved connector. Notice that the **RerouteConnections** method makes it irrelevant what values you supply for the _ConnectionSite_ arguments used with the **BeginConnect** and **EndConnect** methods.
-
+This example adds two rectangles to _myDocument_ and connects them with a curved connector. Notice that the **RerouteConnections** method makes it irrelevant what values you supply for the _ConnectionSite_ arguments used with the **BeginConnect** and **EndConnect** methods.
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -57,9 +58,6 @@ End With
 ```
 
 
-## See also
 
-
-[ConnectorFormat Object](Excel.ConnectorFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Comment.Text
 ms.assetid: 6a79c275-ba8e-799a-2e53-96347b1783a4
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[Comment](Excel.Comment.md)** object
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Text_|Optional| **Variant**|The text to be added.|
@@ -39,9 +37,6 @@ _expression_ A variable that represents a **[Comment](Excel.Comment.md)** object
 String
 
 
-## See also
 
-
-[Comment Object](Excel.Comment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

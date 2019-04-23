@@ -6,3 +6,5 @@ For more information, see the [Code of Conduct FAQ](https://opensource.microsoft
 
 The live docs for this repo can be accessed at https://docs.microsoft.com/office/vba/api/overview/.
 
+For information about how to contribute to this documentation, see [Contributing](contributing.md).
+

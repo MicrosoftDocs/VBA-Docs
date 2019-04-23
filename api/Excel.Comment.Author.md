@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Comment.Author
 ms.assetid: ac964a80-1646-41a0-8b3a-941c800395e7
-ms.date: 11/09/2018
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -18,7 +18,7 @@ Returns the author of the comment. Read-only **String**.
 
 ## Syntax
 
-_expression_. Author
+_expression_.**Author**
 
 _expression_ A variable that represents a **[Comment](Excel.Comment.md)** object.
 

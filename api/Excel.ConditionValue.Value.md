@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.ConditionValue.Value
 ms.assetid: 376dccc8-2d47-c7ed-1b14-d41dcdd1a8ff
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
 
 # ConditionValue.Value property (Excel)
 
-Returns or sets the shortest bar or longest bar threshold value for a data bar conditional format. Read/write  **Variant**.
+Returns or sets the shortest bar or longest bar threshold value for a data bar conditional format. Read/write **Variant**.
 
 
 ## Syntax
@@ -26,14 +26,11 @@ _expression_ A variable that represents a **[ConditionValue](Excel.ConditionValu
 
 ## Remarks
 
-You can set the value only if the  **[ConditionValue.Type](Excel.ConditionValue.Type.md)** property for the conditional format is set to one of the following constants: **xlConditionValueNumber**, **xlConditionValuePercent**, **xlConditionValuePercentile**, or **xlConditionValueFormula**.
+You can set the value only if the **[Type](Excel.ConditionValue.Type.md)** property for the conditional format is set to one of the following constants: **xlConditionValueNumber**, **xlConditionValuePercent**, **xlConditionValuePercentile**, or **xlConditionValueFormula**.
 
-If the threshold type is a formula, you can set the formula as a  **String**. The formula must return a single number.
-
-
-## See also
+If the threshold type is a formula, you can set the formula as a **String**. The formula must return a single number.
 
 
-[ConditionValue Object](Excel.ConditionValue.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

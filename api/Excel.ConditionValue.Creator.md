@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.ConditionValue.Creator
 ms.assetid: 74c0263a-5f2a-3a44-b3ff-4a5b7cddf13a
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
 
 # ConditionValue.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only **Long**.
 
 
 ## Syntax
@@ -26,12 +26,8 @@ _expression_ A variable that represents a **[ConditionValue](Excel.ConditionValu
 
 ## Remarks
 
-If the object was created in Microsoft Excel, this property returns the string XCEL, which is equivalent to the hexadecimal number 5843454C. The  **Creator** property is designed to be used in Microsoft Excel for the Macintosh, where each application has a four-character creator code. For example, Microsoft Excel has the creator code XCEL.
+If the object was created in Microsoft Excel, this property returns the string XCEL, which is equivalent to the hexadecimal number 5843454C. The **Creator** property is designed to be used in Microsoft Excel for the Macintosh, where each application has a four-character creator code. For example, Microsoft Excel has the creator code XCEL.
 
 
-## See also
-
-
-[ConditionValue Object](Excel.ConditionValue.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

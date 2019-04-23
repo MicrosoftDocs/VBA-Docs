@@ -7,21 +7,21 @@ ms.prod: excel
 api_name:
 - Excel.Comment.Previous
 ms.assetid: b7854b0f-0e88-6749-2e62-6d45add8b945
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
 
 # Comment.Previous method (Excel)
 
-Returns a  **[Comment](Excel.Comment.md)** object that represents the previous comment.
+Returns a **Comment** object that represents the previous comment.
 
 
 ## Syntax
 
 _expression_.**Previous**
 
- _expression_ An expression that returns a **[Comment](Excel.Comment.md)** object.
+_expression_ An expression that returns a **[Comment](Excel.Comment.md)** object.
 
 
 ## Return value
@@ -31,15 +31,15 @@ Comment
 
 ## Remarks
 
-This method works only on one sheet. Using this method on the first comment on a sheet returns  **Null** (not the last comment on the previous sheet).
+This method works only on one sheet. Using this method on the first comment on a sheet returns **Null** (not the last comment on the previous sheet).
 
 
 ## Example
 
-This example deletes every second comment, navigating with the  **Previous** method.
+This example deletes every second comment, navigating with the **Previous** method.
 
-
- **Note**  Please test in a new workbook with no existing comments. To clear all comments from a workbook use  `Selection.SpecialCells(xlCellTypeComments).Delete` in the **Immediate Pane**.
+> [!NOTE] 
+> Test this example in a new workbook with no existing comments. To clear all the comments from a workbook, use  `Selection.SpecialCells(xlCellTypeComments).delete` in the Immediate pane.
 
 
 ```vb
@@ -61,9 +61,6 @@ MsgBox "Deleted every second comment"
 ```
 
 
-## See also
 
-
-[Comment Object](Excel.Comment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
