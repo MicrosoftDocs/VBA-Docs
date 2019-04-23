@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.CustomView.Parent
 ms.assetid: 6851dc99-ef6f-e002-9e67-97bcafd5f2c0
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[CustomView](Excel.CustomView.md)** object.
 
 
-## See also
 
-
-[CustomView Object](Excel.CustomView.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

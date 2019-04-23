@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.CustomView.Delete
 ms.assetid: bcfdea3b-0d7e-8dd2-230a-d318f638945e
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Delete**
 _expression_ A variable that represents a **[CustomView](Excel.CustomView.md)** object.
 
 
-## See also
 
-
-[CustomView Object](Excel.CustomView.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.CustomProperties.Item
 ms.assetid: f2b9890b-2a25-e192-323b-dca72b461229
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[CustomProperties](Excel.CustomPrope
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Integer**|The index number of the object.|
@@ -35,7 +33,6 @@ _expression_ A variable that represents a **[CustomProperties](Excel.CustomPrope
 ## Example
 
 The following example demonstrates this feature. In this example, Microsoft Excel adds identifier information to the active worksheet and returns the name and value to the user.
-
 
 ```vb
 Sub CheckCustomProperties() 
@@ -57,9 +54,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[CustomProperties Object](Excel.CustomProperties.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

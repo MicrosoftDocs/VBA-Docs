@@ -5454,6 +5454,7 @@
 #### [CustomProperties object](Excel.CustomProperties.md)
 ##### Methods
 ###### [Add](Excel.CustomProperties.Add.md)
+##### Properties
 ###### [Application](Excel.CustomProperties.Application.md)
 ###### [Count](Excel.CustomProperties.Count.md)
 ###### [Creator](Excel.CustomProperties.Creator.md)
