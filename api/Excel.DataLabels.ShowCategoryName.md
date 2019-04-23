@@ -14,25 +14,24 @@ localization_priority: Normal
 
 # DataLabels.ShowCategoryName property (Excel)
 
- **True** to display the category name for the data labels on a chart. **False** to hide. Read/write **Boolean**.
+**True** to display the category name for the data labels on a chart. **False** to hide. Read/write **Boolean**.
 
 
 ## Syntax
 
 _expression_.**ShowCategoryName**
 
- _expression_ An expression that returns a **[DataLabels](Excel.DataLabels(object).md)** object.
+_expression_ An expression that returns a **[DataLabels](Excel.DataLabels(object).md)** object.
 
 
 ## Remarks
 
-The chart must first be active before you can access the data labels programmatically or a run-time error will occur.
+The chart must first be active before you can access the data labels programmatically, or a run-time error will occur.
 
 
 ## Example
 
-This example shows the category name for the data labels of the first series on the first chart. This example assumes a chart exists on the active worksheet.
-
+This example shows the category name for the data labels of the first series on the first chart. This example assumes that a chart exists on the active worksheet.
 
 ```vb
 Sub UseCategoryName() 
@@ -44,10 +43,5 @@ Sub UseCategoryName()
 End Sub
 ```
 
-
-## See also
-
-
-[DataLabels Object](Excel.DataLabels(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

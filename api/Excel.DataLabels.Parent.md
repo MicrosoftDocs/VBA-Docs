@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object).md)** object.
 
 
-## See also
 
-
-[DataLabels Object](Excel.DataLabels(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # DataLabels.ShowRange property (Excel)
 
-Used to toggle the  **Range** field if it exists on the data label range. Read/write **Boolean**.
+Used to toggle the **Range** field if it exists on the data label range. Read/write **Boolean**.
 
 
 ## Syntax
@@ -24,17 +24,14 @@ _expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object
 
 ## Remarks
 
-The  **Range** object maps an arbitrary range of cells to a range of data labels, so that each data label corresponds to one of the cells in the range.
+The **[Range](excel.range(object).md)** object maps an arbitrary range of cells to a range of data labels, so that each data label corresponds to one of the cells in the range.
 
 
 ## Property value
 
- **BOOL**
+**BOOL**
 
 
-## See also
 
-
-[DataLabels Object](Excel.DataLabels(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

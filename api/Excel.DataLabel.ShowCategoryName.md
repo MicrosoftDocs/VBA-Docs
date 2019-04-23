@@ -31,7 +31,7 @@ The chart must first be active before you can access the data labels programmati
 
 ## Example
 
-This example shows the category name for the data labels of the first series on the first chart. This example assumes a chart exists on the active worksheet.
+This example shows the category name for the data labels of the first series on the first chart. This example assumes that a chart exists on the active worksheet.
 
 ```vb
 Sub UseCategoryName() 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataLabels.Name property (Excel)
 
-Returns a  **String** value that represents the name of the object.
+Returns a **String** value that represents the name of the object.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Name**
 _expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object).md)** object.
 
 
-## See also
 
-
-[DataLabels Object](Excel.DataLabels(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

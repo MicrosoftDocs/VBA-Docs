@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataLabels.ShowLegendKey property (Excel)
 
- **True** if the data label legend key is visible. Read/write **Boolean**.
+**True** if the data label legend key is visible. Read/write **Boolean**.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object
 
 This example sets the data labels for series one in Chart1 to show values and the legend key.
 
-
 ```vb
 With Charts("Chart1").SeriesCollection(1).DataLabels 
  .ShowLegendKey = True 
@@ -37,9 +36,6 @@ End With
 ```
 
 
-## See also
 
-
-[DataLabels Object](Excel.DataLabels(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

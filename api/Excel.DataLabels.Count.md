@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataLabels.Count property (Excel)
 
-Returns a  **Long** value that represents the number of objects in the collection.
+Returns a **Long** value that represents the number of objects in the collection.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Count**
 _expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object).md)** object.
 
 
-## See also
 
-
-[DataLabels Object](Excel.DataLabels(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

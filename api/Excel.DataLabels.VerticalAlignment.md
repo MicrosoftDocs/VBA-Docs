@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataLabels.VerticalAlignment property (Excel)
 
-Returns or sets a  **Variant** value that represents the vertical alignment of the specified object.
+Returns or sets a **Variant** value that represents the vertical alignment of the specified object.
 
 
 ## Syntax
@@ -28,9 +28,6 @@ _expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object
 
 The value of this property can be set to one of the **[XlVAlign](excel.xlvalign.md)** constants.
 
-## See also
 
-
-[DataLabels Object](Excel.DataLabels(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

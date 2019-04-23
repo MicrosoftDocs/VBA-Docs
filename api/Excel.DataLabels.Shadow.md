@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataLabels.Shadow property (Excel)
 
-Returns or sets a  **Boolean** value that determines if the object has a shadow.
+Returns or sets a **Boolean** value that determines if the object has a shadow.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Shadow**
 _expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object).md)** object.
 
 
-## See also
 
-
-[DataLabels Object](Excel.DataLabels(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

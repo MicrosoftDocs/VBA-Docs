@@ -26,21 +26,18 @@ _expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The index number for the object.|
 
 ## Return value
 
-A  **[DataLabel](Excel.DataLabel(object).md)** object contained by the collection.
+A **[DataLabel](Excel.DataLabel(object).md)** object contained by the collection.
 
 
 ## Example
 
 This example sets the number format for the fifth data label in series one in embedded chart one on worksheet one.
-
 
 ```vb
 Worksheets(1).ChartObjects(1).Chart _ 
@@ -48,9 +45,6 @@ Worksheets(1).ChartObjects(1).Chart _
 ```
 
 
-## See also
 
-
-[DataLabels Object](Excel.DataLabels(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
