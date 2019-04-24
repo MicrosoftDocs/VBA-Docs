@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DisplayUnitLabel.Height
 ms.assetid: adb3c4a2-b9d3-783d-cd90-5f73d46132bd
-ms.date: 06/08/2017
+ms.date: 04/25/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns the height, in [points](../language/glossary/vbe-glossary.md#point), of 
 
 _expression_.**Height**
 
-_expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLabel-graph-property.md) object.
+_expression_ A variable that represents a **[DisplayUnitLabel](excel.displayunitlabel(object).md)** object.
 
 
 ## Return value
@@ -29,9 +29,6 @@ _expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLa
 Double
 
 
-## See also
 
-
-[DisplayUnitLabel Object](Excel.DisplayUnitLabel(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

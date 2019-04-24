@@ -26,7 +26,8 @@ _expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object
 
 ## Remarks
 
-The value of this property can be set to an integer value from -90 to 90 degrees or to one of the **[XlOrientation](excel.xlorientation.md)** constants.
+The value of this property can be set to an integer value from -90 to 90 degrees or to one of the **[XlOrientation](Excel.XlOrientation.md)** constants.
+
 
 
 

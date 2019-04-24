@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DisplayUnitLabel.Parent
 ms.assetid: 01e71cee-ebdc-da46-cfe2-6c49b3cdb1bf
-ms.date: 06/08/2017
+ms.date: 04/25/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLabel-graph-property.md) object.
+_expression_ A variable that represents a **[DisplayUnitLabel](excel.displayunitlabel(object).md)** object.
 
 
-## See also
 
-
-[DisplayUnitLabel Object](Excel.DisplayUnitLabel(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,18 +26,8 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 ## Remarks
 
-The value of this property can be set to an integer value from -90 to 90 degrees or to one of the following constants:
+The value of this property can be set to an integer value from -90 to 90 degrees or to one of the **[XlOrientation](Excel.XlOrientation.md)** constants.
 
 
-
-| **xlDownward**|
-| **xlHorizontal**|
-| **xlUpward**|
-| **xlVertical**|
-
-## See also
-
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
