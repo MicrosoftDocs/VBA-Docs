@@ -109,6 +109,7 @@ ActiveWindow.Selection.ShapeRange(1).Fill.ForeColor.RGB = _
 - [Fill](Excel.Shape.Fill.md)
 - [FormControlType](Excel.Shape.FormControlType.md)
 - [Glow](Excel.Shape.Glow.md)
+- [GraphicStyle](Excel.Shape.GraphicStyle.md)
 - [GroupItems](Excel.Shape.GroupItems.md)
 - [HasChart](Excel.Shape.HasChart.md)
 - [HasSmartArt](Excel.Shape.HasSmartArt.md)

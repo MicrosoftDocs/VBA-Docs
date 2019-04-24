@@ -143,6 +143,7 @@ Windows(1).Selection.ShapeRange(2).Fill.ForeColor _
 |[CustomerData](./PowerPoint.ShapeRange.CustomerData.md)|
 |[Fill](./PowerPoint.ShapeRange.Fill.md)|
 |[Glow](./PowerPoint.ShapeRange.Glow.md)|
+|[GraphicStyle](./PowerPoint.ShapeRange.GraphicStyle.md)|
 |[GroupItems](./PowerPoint.ShapeRange.GroupItems.md)|
 |[HasChart](./PowerPoint.ShapeRange.HasChart.md)|
 |[HasInkXML](./PowerPoint.shaperange.hasinkxml.md)|

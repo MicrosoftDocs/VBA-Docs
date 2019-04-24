@@ -177,6 +177,7 @@ Use the [Group](./PowerPoint.ShapeRange.Group.md) or [Regroup](./PowerPoint.Shap
 |[CustomerData](./PowerPoint.Shape.CustomerData.md)|
 |[Fill](./PowerPoint.Shape.Fill.md)|
 |[Glow](./PowerPoint.Shape.Glow.md)|
+|[GraphicStyle](./PowerPoint.Shape.GraphicStyle.md)|
 |[GroupItems](./PowerPoint.Shape.GroupItems.md)|
 |[HasChart](./PowerPoint.Shape.HasChart.md)|
 |[HasInkXML](./PowerPoint.shape.hasinkxml.md)|
