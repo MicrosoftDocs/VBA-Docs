@@ -1,18 +1,18 @@
 ---
-title: Databar.Delete method (Excel)
+title: DataBar.Delete method (Excel)
 keywords: vbaxl10.chm810086
 f1_keywords:
 - vbaxl10.chm810086
 ms.prod: excel
 api_name:
-- Excel.Databar.Delete
+- Excel.DataBar.Delete
 ms.assetid: 6f3a71f2-c6c3-875e-083a-ade8b415cd9d
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
 
-# Databar.Delete method (Excel)
+# DataBar.Delete method (Excel)
 
 Deletes the specified conditional formatting rule object.
 
@@ -21,12 +21,9 @@ Deletes the specified conditional formatting rule object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a **[Databar](Excel.Databar.md)** object.
+_expression_ A variable that represents a **[DataBar](Excel.DataBar.md)** object.
 
 
-## See also
 
-
-[Databar Object](Excel.Databar.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

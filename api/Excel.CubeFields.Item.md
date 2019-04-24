@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.CubeFields.Item
 ms.assetid: d068ccda-13e0-9938-7945-e8639e79d089
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -26,16 +26,13 @@ _expression_ A variable that represents a **[CubeFields](Excel.CubeFields.md)** 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The name or index number of the object.|
 
 ## Example
 
-This example finds the first PivotTable report whose first cube field name contains the string ?Paris?. The  **Boolean** variable `blnFoundName` is set to **True** if the name is found.
-
+This example finds the first PivotTable report whose first cube field name contains the string Paris. The **Boolean** variable `blnFoundName` is set to **True** if the name is found.
 
 ```vb
 blnFoundName = False 
@@ -50,9 +47,6 @@ Next objPT
 ```
 
 
-## See also
 
-
-[CubeFields Object](Excel.CubeFields.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

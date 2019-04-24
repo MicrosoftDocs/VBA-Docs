@@ -7,32 +7,31 @@ ms.prod: excel
 api_name:
 - Excel.DataLabel.ShowSeriesName
 ms.assetid: 95fd3b99-1ea5-5b51-7048-1dfba228aaa6
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
 
 # DataLabel.ShowSeriesName property (Excel)
 
-Returns or sets a  **Boolean** to indicate the series name display behavior for the data labels on a chart. **True** to show the series name. **False** to hide. Read/write.
+Returns or sets a **Boolean** to indicate the series name display behavior for the data labels on a chart. **True** to show the series name. **False** to hide. Read/write.
 
 
 ## Syntax
 
-_expression_. `ShowSeriesName`
+_expression_.**ShowSeriesName**
 
-_expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
+_expression_ A variable that represents a **[DataLabel](excel.datalabel(object).md)** object.
 
 
 ## Remarks
 
-The chart must first be active before you can access the data labels programmatically or a run-time error will occur.
+The chart must first be active before you can access the data labels programmatically, or a run-time error will occur.
 
 
 ## Example
 
-This example enables the series name to be shown for the data labels of the first series on the first chart. This example assumes a chart exists on the active worksheet.
-
+This example enables the series name to be shown for the data labels of the first series on the first chart. This example assumes that a chart exists on the active worksheet.
 
 ```vb
 Sub UseSeriesName() 
@@ -45,9 +44,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[DataLabel Object](Excel.DataLabel(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

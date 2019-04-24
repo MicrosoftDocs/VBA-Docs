@@ -1,18 +1,18 @@
 ---
-title: Databar.Parent property (Excel)
+title: DataBar.Parent property (Excel)
 keywords: vbaxl10.chm809075
 f1_keywords:
 - vbaxl10.chm809075
 ms.prod: excel
 api_name:
-- Excel.Databar.Parent
+- Excel.DataBar.Parent
 ms.assetid: 9055825f-bdf1-98c4-87d7-c6a0aa19d029
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
 
-# Databar.Parent property (Excel)
+# DataBar.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 
@@ -21,12 +21,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a **[Databar](Excel.Databar.md)** object.
+_expression_ A variable that represents a **[DataBar](Excel.DataBar.md)** object.
 
 
-## See also
 
-
-[Databar Object](Excel.Databar.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

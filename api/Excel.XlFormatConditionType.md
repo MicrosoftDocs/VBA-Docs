@@ -19,7 +19,7 @@ Specifies whether the conditional format is based on a cell value or an expressi
 | **xlBlanksCondition**|10|Blanks condition|
 | **xlCellValue**|1|Cell value|
 | **xlColorScale**|3|Color scale|
-| **xlDatabar**|4|Databar|
+| **xlDataBar**|4|DataBar|
 | **xlErrorsCondition**|16|Errors condition|
 | **xlExpression**|2|Expression|
 | **xlIconSet**|6|Icon set|

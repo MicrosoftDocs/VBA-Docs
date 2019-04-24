@@ -21,7 +21,7 @@ Returns the parent for the specified object. Read-only  **Object**.
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a '[DataLabels](Word.DataLabels.md)' object.
+ _expression_ A variable that represents a **[DataLabels](Word.DataLabels.md)** object.
 
 
 ## See also

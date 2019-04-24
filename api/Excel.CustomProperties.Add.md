@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.CustomProperties.Add
 ms.assetid: 11165b03-e459-51c4-505f-67260ab8aaf9
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[CustomProperties](Excel.CustomPrope
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the custom property.|
@@ -35,13 +33,12 @@ _expression_ A variable that represents a **[CustomProperties](Excel.CustomPrope
 
 ## Return value
 
-A  **[CustomProperty](Excel.CustomProperty.md)** object that represents the custom property information.
+A **[CustomProperty](Excel.CustomProperty.md)** object that represents the custom property information.
 
 
 ## Example
 
 This example adds identifier information to the active worksheet and returns the name and value to the user.
-
 
 ```vb
 Sub CheckCustomProperties() 
@@ -63,9 +60,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[CustomProperties Object](Excel.CustomProperties.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

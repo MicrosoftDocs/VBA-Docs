@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.CustomViews.Add
 ms.assetid: 134d9969-048b-6a53-4f2c-cc83589c5a70
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -34,22 +34,17 @@ _expression_ A variable that represents a **[CustomViews](Excel.CustomViews.md)*
 
 ## Return value
 
-A  **[CustomView](Excel.CustomView.md)** object that represents the new custom view.
+A **[CustomView](Excel.CustomView.md)** object that represents the new custom view.
 
 
 ## Example
 
-This example creates a new custom view named "Summary" in the active workbook.
-
+This example creates a new custom view named Summary in the active workbook.
 
 ```vb
 ActiveWorkbook.CustomViews.Add "Summary", True, True
 ```
 
 
-## See also
-
-
-[CustomViews Object](Excel.CustomViews.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

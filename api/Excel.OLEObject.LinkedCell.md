@@ -19,7 +19,7 @@ Returns or sets the worksheet range linked to the control's value. If you place 
 
 ## Syntax
 
-_expression_. `LinkedCell`
+_expression_.**LinkedCell**
 
 _expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
 

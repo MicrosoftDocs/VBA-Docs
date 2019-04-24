@@ -7,32 +7,31 @@ ms.prod: excel
 api_name:
 - Excel.DataLabels.ShowValue
 ms.assetid: e078ade5-d3d0-5b5c-8b40-667e69e38793
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
 
 # DataLabels.ShowValue property (Excel)
 
-Returns or sets a  **Boolean** corresponding to a specified chart's data label values display behavior. **True** displays the values. **False** to hide. Read/write.
+Returns or sets a **Boolean** corresponding to a specified chart's data label values display behavior. **True** displays the values. **False** to hide. Read/write.
 
 
 ## Syntax
 
-_expression_. `ShowValue`
+_expression_.**ShowValue**
 
-_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object).md)** object.
 
 
 ## Remarks
 
-The specified chart must first be active before you can access the data labels programmatically or a run-time error will occur.
+The specified chart must first be active before you can access the data labels programmatically, or a run-time error will occur.
 
 
 ## Example
 
-This example enables the value to be shown for the data labels of the first series, on the first chart. This example assumes a chart exists on the active worksheet.
-
+This example enables the value to be shown for the data labels of the first series, on the first chart. This example assumes that a chart exists on the active worksheet.
 
 ```vb
 Sub UseValue() 
@@ -45,9 +44,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[DataLabels Object](Excel.DataLabels(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

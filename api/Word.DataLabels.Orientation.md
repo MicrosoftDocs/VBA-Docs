@@ -21,7 +21,7 @@ Returns or sets the text orientation. Read/write  **Long**.
 
 _expression_.**Orientation**
 
- _expression_ A variable that represents a '[DataLabels](Word.DataLabels.md)' object.
+ _expression_ A variable that represents a **[DataLabels](Word.DataLabels.md)** object.
 
 
 ## Remarks

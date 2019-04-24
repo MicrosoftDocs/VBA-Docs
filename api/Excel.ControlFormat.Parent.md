@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ControlFormat.Parent
 ms.assetid: 8e2957a7-53f4-22d2-fba6-0de5a6e90be8
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,5 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[ControlFormat](Excel.ControlFormat.md)** object.
 
 
-## See also
-
-
-[ControlFormat Object](Excel.ControlFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

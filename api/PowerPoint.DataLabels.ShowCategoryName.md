@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `ShowCategoryName`
+_expression_.**ShowCategoryName**
 
 _expression_ A variable that represents a '[DataLabels](PowerPoint.DataLabels.md)' object.
 

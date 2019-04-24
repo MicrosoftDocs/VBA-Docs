@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataLabels method (Excel Graph)
 
-Returns an object that represents either a single data label or a collection of all the data labels for the series.
+Returns an object that represents either a single data label (a **[DataLabel](Excel.DataLabel-graph-object.md)** object) or a collection of all the data labels for the series (a **[DataLabels](Excel.datalabels(collection).md)** collection).
 
 ## Syntax
 

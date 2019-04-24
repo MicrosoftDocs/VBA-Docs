@@ -21,7 +21,7 @@ Returns or sets a value that indicates whether the object has a shadow. Read/wri
 
 _expression_.**Shadow**
 
- _expression_ A variable that represents a '[DataLabels](Word.DataLabels.md)' object.
+ _expression_ A variable that represents a **[DataLabels](Word.DataLabels.md)** object.
 
 
 ## See also

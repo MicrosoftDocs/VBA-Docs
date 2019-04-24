@@ -19,7 +19,7 @@ Removes the specified item from the list.
 
 ## Syntax
 
-_expression_. `RemoveItem` (_Index_)
+_expression_.**RemoveItem** (_Index_)
 
 _expression_ A variable that represents an [OlkListBox](Outlook.OlkListBox.md) object.
 

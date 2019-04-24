@@ -17,7 +17,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `List`
+_expression_.**List**
 
 _expression_ A variable that represents a [SlicerCache](Excel.SlicerCache.md) object.
 

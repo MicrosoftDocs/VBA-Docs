@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `ShowValue`
+_expression_.**ShowValue**
 
 _expression_ A variable that represents a '[DataLabel](PowerPoint.DataLabel.md)' object.
 
