@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.SaveHiddenData
 ms.assetid: b1c09c39-3510-263c-3403-6e48d125279d
-ms.date: 06/08/2017
+ms.date: 04/25/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `SaveHiddenData`
+_expression_.**SaveHiddenData**
 
-_expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
+_expression_ A variable that represents a **[DefaultWebOptions](Excel.DefaultWebOptions.md)** object.
 
 
 ## Remarks

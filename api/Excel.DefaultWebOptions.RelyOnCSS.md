@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.RelyOnCSS
 ms.assetid: 7700b648-9313-db23-bf27-5b73f21e5bce
-ms.date: 06/08/2017
+ms.date: 04/25/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `RelyOnCSS`
+_expression_.**RelyOnCSS**
 
-_expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
+_expression_ A variable that represents a **[DefaultWebOptions](Excel.DefaultWebOptions.md)** object.
 
 
 ## Remarks

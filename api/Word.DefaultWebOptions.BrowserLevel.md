@@ -21,7 +21,7 @@ Returns or sets a  **WdBrowserLevel** constant that represents the level of the 
 
 _expression_. `BrowserLevel`
 
-_expression_ Required. A variable that represents a '[DefaultWebOptions](Word.DefaultWebOptions.md)' collection.
+_expression_ Required. A variable that represents a **[DefaultWebOptions](Word.DefaultWebOptions.md)** collection.
 
 
 ## Remarks

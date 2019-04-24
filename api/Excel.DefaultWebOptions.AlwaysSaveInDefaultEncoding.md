@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.AlwaysSaveInDefaultEncoding
 ms.assetid: 7da4191e-4502-0005-1577-ac9a872f9cfa
-ms.date: 06/08/2017
+ms.date: 04/25/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `AlwaysSaveInDefaultEncoding`
+_expression_.**AlwaysSaveInDefaultEncoding**
 
-_expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
+_expression_ A variable that represents a **[DefaultWebOptions](Excel.DefaultWebOptions.md)** object.
 
 
 ## Remarks

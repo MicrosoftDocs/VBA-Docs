@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `OptimizeForBrowser`
 
-_expression_ Required. A variable that represents a '[DefaultWebOptions](Word.DefaultWebOptions.md)' collection.
+_expression_ Required. A variable that represents a **[DefaultWebOptions](Word.DefaultWebOptions.md)** collection.
 
 
 ## Example

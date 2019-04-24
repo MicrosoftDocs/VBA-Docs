@@ -21,7 +21,7 @@ Sets the folder suffix for the specified document to the default suffix for the 
 
 _expression_. `UseDefaultFolderSuffix`
 
-_expression_ A variable that represents a [WebOptions](Excel.WebOptions.md) object.
+_expression_ A variable that represents a **[WebOptions](Excel.WebOptions.md)** object.
 
 
 ## Remarks

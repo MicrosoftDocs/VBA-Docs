@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.ScreenSize
 ms.assetid: 45a5689d-caac-a4ec-4bc4-e0e90065f798
-ms.date: 06/08/2017
+ms.date: 04/25/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns or sets the ideal minimum screen size (width by height, in pixels) that 
 
 ## Syntax
 
-_expression_. `ScreenSize`
+_expression_.**ScreenSize**
 
-_expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
+_expression_ A variable that represents a **[DefaultWebOptions](Excel.DefaultWebOptions.md)** object.
 
 
 ## See also

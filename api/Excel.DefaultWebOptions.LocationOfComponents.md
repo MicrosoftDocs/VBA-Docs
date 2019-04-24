@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.LocationOfComponents
 ms.assetid: a3f1571d-9301-4e3f-7467-f7716f26e45f
-ms.date: 06/08/2017
+ms.date: 04/25/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns or sets the central URL (on the intranet or Web) or path (local or netwo
 
 ## Syntax
 
-_expression_. `LocationOfComponents`
+_expression_.**LocationOfComponents**
 
-_expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
+_expression_ A variable that represents a **[DefaultWebOptions](Excel.DefaultWebOptions.md)** object.
 
 
 ## Remarks

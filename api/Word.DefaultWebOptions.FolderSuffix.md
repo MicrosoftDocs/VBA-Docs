@@ -19,9 +19,9 @@ Returns a  **String** that represents the folder suffix that Microsoft Word uses
 
 ## Syntax
 
-_expression_. `FolderSuffix`
+_expression_.**FolderSuffix**
 
-_expression_ Required. A variable that represents a '[DefaultWebOptions](Word.DefaultWebOptions.md)' collection.
+_expression_ Required. A variable that represents a **[DefaultWebOptions](Word.DefaultWebOptions.md)** collection.
 
 
 ## Remarks

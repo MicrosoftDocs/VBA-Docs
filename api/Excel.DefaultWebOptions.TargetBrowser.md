@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.TargetBrowser
 ms.assetid: 785efc30-ef17-1745-874d-a3be861d450b
-ms.date: 06/08/2017
+ms.date: 04/25/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns or sets an  **[MsoTargetBrowser](Office.MsoTargetBrowser.md)** constant 
 
 ## Syntax
 
-_expression_. `TargetBrowser`
+_expression_.**TargetBrowser**
 
-_expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
+_expression_ A variable that represents a **[DefaultWebOptions](Excel.DefaultWebOptions.md)** object.
 
 
 ## Remarks

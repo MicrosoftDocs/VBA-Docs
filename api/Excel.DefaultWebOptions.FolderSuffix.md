@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.FolderSuffix
 ms.assetid: ff0821ab-a2fd-58bc-058c-2abdaefbf04d
-ms.date: 06/08/2017
+ms.date: 04/25/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns the folder suffix that Microsoft Excel uses when you save a document as 
 
 ## Syntax
 
-_expression_. `FolderSuffix`
+_expression_.**FolderSuffix**
 
-_expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
+_expression_ A variable that represents a **[DefaultWebOptions](Excel.DefaultWebOptions.md)** object.
 
 
 ## Remarks

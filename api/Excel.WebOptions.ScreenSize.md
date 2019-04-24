@@ -19,9 +19,9 @@ Returns or sets the ideal minimum screen size (width by height, in pixels) that 
 
 ## Syntax
 
-_expression_. `ScreenSize`
+_expression_.**ScreenSize**
 
-_expression_ A variable that represents a [WebOptions](Excel.WebOptions.md) object.
+_expression_ A variable that represents a **[WebOptions](Excel.WebOptions.md)** object.
 
 
 ## See also

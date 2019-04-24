@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[Connections](Excel.Connections.md)*
 | _CommandText_|Required| **Variant**|The command text to create the connection.|
 | _lCmdtype_|Optional| **Variant**|Command type.|
 | _CreateModelConnection_|Optional| **Boolean**|Specifies whether to create a connection to the PowerPivot model.|
-| _ImportRelationships]_|Optional| **Boolean**|Specifies whether to import any existing relationships.|
+| _ImportRelationships_|Optional| **Boolean**|Specifies whether to import any existing relationships.|
 
 ## Return value
 

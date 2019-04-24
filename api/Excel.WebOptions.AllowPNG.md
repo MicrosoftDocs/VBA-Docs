@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**AllowPNG**
 
-_expression_ A variable that represents a [WebOptions](Excel.WebOptions.md) object.
+_expression_ A variable that represents a **[WebOptions](Excel.WebOptions.md)** object.
 
 
 ## Remarks

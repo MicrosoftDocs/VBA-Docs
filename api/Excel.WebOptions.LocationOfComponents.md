@@ -19,9 +19,9 @@ Returns or sets the central URL (on the intranet or Web) or path (local or netwo
 
 ## Syntax
 
-_expression_. `LocationOfComponents`
+_expression_.**LocationOfComponents**
 
-_expression_ A variable that represents a [WebOptions](Excel.WebOptions.md) object.
+_expression_ A variable that represents a **[WebOptions](Excel.WebOptions.md)** object.
 
 
 ## Remarks

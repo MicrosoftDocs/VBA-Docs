@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.PixelsPerInch
 ms.assetid: 9264ea44-cfc7-8640-4606-71a17b806a48
-ms.date: 06/08/2017
+ms.date: 04/25/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns or sets the density (pixels per inch) of graphics images and table cells
 
 ## Syntax
 
-_expression_. `PixelsPerInch`
+_expression_.**PixelsPerInch**
 
-_expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
+_expression_ A variable that represents a **[DefaultWebOptions](Excel.DefaultWebOptions.md)** object.
 
 
 ## Remarks

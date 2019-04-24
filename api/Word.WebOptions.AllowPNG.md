@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**AllowPNG**
 
- _expression_ A variable that represents a '[WebOptions](Word.WebOptions.md)' collection.
+ _expression_ A variable that represents a **[WebOptions](Word.WebOptions.md)** collection.
 
 
 ## Remarks

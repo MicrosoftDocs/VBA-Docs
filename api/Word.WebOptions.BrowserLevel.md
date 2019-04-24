@@ -21,7 +21,7 @@ Returns or sets  **WdBrowserLevel** that represents the level of Web browser at 
 
 _expression_. `BrowserLevel`
 
-_expression_ Required. A variable that represents a '[WebOptions](Word.WebOptions.md)' collection.
+_expression_ Required. A variable that represents a **[WebOptions](Word.WebOptions.md)** collection.
 
 
 ## Remarks

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.Fonts
 ms.assetid: a1b79e75-98a4-a784-522c-0aa72fd65b5c
-ms.date: 06/08/2017
+ms.date: 04/25/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns the  **[WebPageFonts](Office.WebPageFonts.md)** collection representing 
 
 ## Syntax
 
-_expression_. `Fonts`
+_expression_.**Fonts**
 
-_expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
+_expression_ A variable that represents a **[DefaultWebOptions](Excel.DefaultWebOptions.md)** object.
 
 
 ## Example

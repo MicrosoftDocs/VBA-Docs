@@ -19,9 +19,9 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `RelyOnCSS`
+_expression_.**RelyOnCSS**
 
-_expression_ A variable that represents a [WebOptions](Excel.WebOptions.md) object.
+_expression_ A variable that represents a **[WebOptions](Excel.WebOptions.md)** object.
 
 
 ## Remarks

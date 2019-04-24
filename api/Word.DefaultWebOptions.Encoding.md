@@ -19,9 +19,9 @@ Returns or sets the document encoding (code page or character set) to be used by
 
 ## Syntax
 
-_expression_. `Encoding`
+_expression_.**Encoding**
 
-_expression_ Required. A variable that represents a '[DefaultWebOptions](Word.DefaultWebOptions.md)' collection.
+_expression_ Required. A variable that represents a **[DefaultWebOptions](Word.DefaultWebOptions.md)** collection.
 
 
 ## Example

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.Encoding
 ms.assetid: 53164ab3-b0f5-ed8e-76f8-840cbd8e23bc
-ms.date: 06/08/2017
+ms.date: 04/25/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns or sets the document encoding (code page or character set) to be used by
 
 ## Syntax
 
-_expression_. `Encoding`
+_expression_.**Encoding**
 
-_expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
+_expression_ A variable that represents a **[DefaultWebOptions](Excel.DefaultWebOptions.md)** object.
 
 
 ## Remarks

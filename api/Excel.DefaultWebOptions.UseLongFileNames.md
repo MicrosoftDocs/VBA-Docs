@@ -7,21 +7,21 @@ ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.UseLongFileNames
 ms.assetid: b594ad04-866a-b811-338b-73d45352866b
-ms.date: 06/08/2017
+ms.date: 04/25/2019
 localization_priority: Normal
 ---
 
 
 # DefaultWebOptions.UseLongFileNames property (Excel)
 
- **True** if long file names are used when you save the document as a web page. **False** if long file names are not used and the DOS file name format (8.3) is used. The default value is **True**. Read/write **Boolean**.
+**True** if long file names are used when you save the document as a web page. **False** if long file names are not used and the DOS file name format (8.3) is used. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `UseLongFileNames`
+_expression_.**UseLongFileNames**
 
-_expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
+_expression_ A variable that represents a **[DefaultWebOptions](Excel.DefaultWebOptions.md)** object.
 
 
 ## Remarks

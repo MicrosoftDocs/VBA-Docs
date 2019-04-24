@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[CubeField](Excel.CubeField.md)** ob
 
 ## Remarks
 
-You can delete cube fields only if you have created the cube fields yourself by using the **[Add](Excel.CalculatedMembers.Add.md)** method with the **xlCalculatedSet** constant (**[XlCalculatedMemberType](excel.xlcalculatedmembertype.md)**).
+You can delete cube fields only if you have created the cube fields yourself by using the **[Add](Excel.CalculatedMembers.Add.md)** method with the **xlCalculatedSet** constant (**[XlCalculatedMemberType](excel.xlcalculatedmembertype.md)** enumeration).
 
 
 
