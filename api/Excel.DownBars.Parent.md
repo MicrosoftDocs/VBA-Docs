@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DownBars.Parent
 ms.assetid: 04c8449e-0fc2-296d-1629-ab3e15168fe6
-ms.date: 06/08/2017
+ms.date: 04/25/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [DownBars](Excel.DownBars-graph-property.md) object.
+_expression_ A variable that represents a **[DownBars](excel.downbars(object).md)** object.
 
 
-## See also
 
-
-[DownBars Object](Excel.DownBars(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
