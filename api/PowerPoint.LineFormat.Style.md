@@ -19,7 +19,7 @@ Returns or sets the line style. Read/write.
 
 ## Syntax
 
-_expression_. `Style`
+_expression_.**Style**
 
  _expression_ A variable that represents a [LineFormat](./PowerPoint.LineFormat.md) object.
 

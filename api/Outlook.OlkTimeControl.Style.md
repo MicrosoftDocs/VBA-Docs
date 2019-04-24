@@ -19,7 +19,7 @@ Returns or sets an  **[OlTimeStyle](Outlook.OlTimeStyle.md)** constant that spec
 
 ## Syntax
 
-_expression_. `Style`
+_expression_.**Style**
 
 _expression_ A variable that represents an [OlkTimeControl](Outlook.OlkTimeControl.md) object.
 

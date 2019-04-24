@@ -19,7 +19,7 @@ Returns or sets the style for the specified object. Read/write  **Variant**.
 
 ## Syntax
 
-_expression_. `Style`
+_expression_.**Style**
 
 _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
