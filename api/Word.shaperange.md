@@ -118,6 +118,7 @@ The recorder always uses the **ShapeRange** property when recording shapes.
 |[Creator](Word.ShapeRange.Creator.md)|
 |[Fill](Word.ShapeRange.Fill.md)|
 |[Glow](Word.ShapeRange.Glow.md)|
+|[GraphicStyle](Word.ShapeRange.GraphicStyle.md)|
 |[GroupItems](Word.ShapeRange.GroupItems.md)|
 |[Height](Word.ShapeRange.Height.md)|
 |[HeightRelative](Word.ShapeRange.HeightRelative.md)|
