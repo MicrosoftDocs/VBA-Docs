@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebPageFont object (Office)
 
-Represents the default font used when documents are saved as web pages for a particular character set.
+Represents the default font used when documents are saved as webpages for a particular character set.
 
 
 ## Remarks

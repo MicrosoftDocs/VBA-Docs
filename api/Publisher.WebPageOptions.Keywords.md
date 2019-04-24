@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebPageOptions.Keywords property (Publisher)
 
-Returns or sets a  **String** that represents the keywords for a Web page within a Web publication. Read/write.
+Returns or sets a  **String** that represents the keywords for a webpage within a web publication. Read/write.
 
 
 ## Syntax

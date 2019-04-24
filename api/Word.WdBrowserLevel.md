@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WdBrowserLevel enumeration (Word)
 
-Specifies the version of Web browser at which you want to target new Web pages created in Microsoft Word.
+Specifies the version of web browser at which you want to target new Web pages created in Microsoft Word.
 
 
 

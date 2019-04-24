@@ -34,7 +34,7 @@ _expression_.**ConvertPublicationType**(**_Value_**)
 
 ## Remarks
 
-When a publication is converted, any settings that apply to its previous type remain, but are ignored. For example, converting a print publication to a Web publication results in any advanced print settings being ignored. If the publication is converted back to a print publication, the settings take effect again.
+When a publication is converted, any settings that apply to its previous type remain, but are ignored. For example, converting a print publication to a web publication results in any advanced print settings being ignored. If the publication is converted back to a print publication, the settings take effect again.
 
 Use the  **[PublicationType](Publisher.Document.PublicationType.md)** property of the **[Document](Publisher.Document.md)** object to determine the publication type of a publication.
 
@@ -47,7 +47,7 @@ The Value parameter can be one of the following  **PbPublicationType** constants
 
 ## Example
 
-The following example determines if the active publication is a print publication. If it is, the publication is converted to a Web publication.
+The following example determines if the active publication is a print publication. If it is, the publication is converted to a web publication.
 
 
 ```vb

@@ -9,18 +9,18 @@ localization_priority: Normal
 
 # VisWebPageSettings Object (Visio Save As Web)
 
-Contains the settings for the web page.
+Contains the settings for the webpage.
 
 
 ## Remarks
 
-The  **VisWebPageSettings** object serves as a container for a web page's properties.
+The  **VisWebPageSettings** object serves as a container for a webpage's properties.
 
 Many of the properties of the  **VisWebPageSettings** object correspond to the settings available in the **Save As** dialog box when a user clicks the **File** tab, clicks **Export**, clicks  **Change File Type**, clicks  **Web Page (*.htm)**, and then clicks  **Save As**.
 
-For example, the  **[PageTitle](Visio.PageTitle.md)** property, which contains the title that appears in the title bar when a web page is displayed in a browser, corresponds to the value in the **Page title** box in the **Set Page Title** dialog box (in the **Save As** dialog box, click **Change Title**). Also, the  **[DispScreenRes](Visio.DispScreenRes.md)** property corresponds to the value selected in the **Target Monitor** list on the **Advanced** tab of the **Save As Web Page** dialog box (in the **Save As** dialog box, in the **Save as type** list, select **Web Page (*.htm;*.html)**, and then click  **Publish**).
+For example, the  **[PageTitle](Visio.PageTitle.md)** property, which contains the title that appears in the title bar when a webpage is displayed in a browser, corresponds to the value in the **Page title** box in the **Set Page Title** dialog box (in the **Save As** dialog box, click **Change Title**). Also, the  **[DispScreenRes](Visio.DispScreenRes.md)** property corresponds to the value selected in the **Target Monitor** list on the **Advanced** tab of the **Save As Web Page** dialog box (in the **Save As** dialog box, in the **Save as type** list, select **Web Page (*.htm;*.html)**, and then click  **Publish**).
 
-When you want to create a web page, use the  **[WebPageSettings](Visio.WebPageSettings.md)** property of the **[VisSaveAsWeb](overview/Visio.md)** object to get a reference to the **VisWebPageSettings** object, which you can use to set the web page's properties, as shown in the following example.
+When you want to create a webpage, use the  **[WebPageSettings](Visio.WebPageSettings.md)** property of the **[VisSaveAsWeb](overview/Visio.md)** object to get a reference to the **VisWebPageSettings** object, which you can use to set the webpage's properties, as shown in the following example.
 
 
 

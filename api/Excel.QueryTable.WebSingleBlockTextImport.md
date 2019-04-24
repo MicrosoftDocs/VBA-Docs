@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # QueryTable.WebSingleBlockTextImport property (Excel)
 
- **True** if data from the HTML <PRE> tags in the specified web page is processed all at once when you import the page into a query table. **False** if the data is imported in blocks of contiguous rows so that header rows will be recognized as such. The default value is **False**. Read/write **Boolean**.
+ **True** if data from the HTML <PRE> tags in the specified webpage is processed all at once when you import the page into a query table. **False** if the data is imported in blocks of contiguous rows so that header rows will be recognized as such. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -28,9 +28,9 @@ _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) obje
 
 Use this property only when the query table's  **[QueryType](Excel.QueryTable.QueryType.md)** property is set to **xlWebQuery** and the query returns an HTML document.
 
-If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
+If you import data using the user interface, data from a web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
+If you import data using the object model, data from a web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 The  **WebSingleBlockTextImport** property applies only to **QueryTable** objects.
 

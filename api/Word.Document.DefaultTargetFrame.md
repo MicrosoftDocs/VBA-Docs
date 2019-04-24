@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.DefaultTargetFrame property (Word)
 
-Returns or sets a  **String** indicating the browser frame in which to display a Web page reached through a hyperlink. Read/write.
+Returns or sets a  **String** indicating the browser frame in which to display a webpage reached through a hyperlink. Read/write.
 
 
 ## Syntax

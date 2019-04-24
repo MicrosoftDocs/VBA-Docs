@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebPageOptions.IncludePageOnNewWebNavigationBars property (Publisher)
 
-Returns or sets a  **Boolean** value that specifies whether a link to a Web page will be added to the automatic navigation bars of new pages. Read/write.
+Returns or sets a  **Boolean** value that specifies whether a link to a webpage will be added to the automatic navigation bars of new pages. Read/write.
 
 
 ## Syntax
@@ -35,14 +35,14 @@ The default value of the  **IncludePageOnNewWebNavigationBars** property is **Fa
 
 Setting this property to  **False** does not remove links to the specified page from any automatic navigation bars that already include them, but it does prevent links to the page from being added to automatic navigation bars of new pages.
 
-Setting this property to  **True** applies only to automatic navigation bars of new pages, and does not update existing automatic navigation bars within the Web publication.
+Setting this property to  **True** applies only to automatic navigation bars of new pages, and does not update existing automatic navigation bars within the web publication.
 
-When adding a new page to the Web publication by using the  **[Pages.Add](Publisher.Pages.Add.md)** method, the optional **AddHyperlinkToWebNavBar** parameter can be used to specify whether links to the new page will be added to existing automatic navigation bars. The value of this parameter is used to populate the value of the **IncludePageOnNewWebNavigationBars** property.
+When adding a new page to the web publication by using the  **[Pages.Add](Publisher.Pages.Add.md)** method, the optional **AddHyperlinkToWebNavBar** parameter can be used to specify whether links to the new page will be added to existing automatic navigation bars. The value of this parameter is used to populate the value of the **IncludePageOnNewWebNavigationBars** property.
 
 
 ## Example
 
-The following example specifies that links to page two of the active Web publication should be added to the automatic navigation bars of new pages. Note that if a new page is added to the publication after this point, the  **IncludePageOnNewWebNavigationBars** property will be **False**.
+The following example specifies that links to page two of the active web publication should be added to the automatic navigation bars of new pages. Note that if a new page is added to the publication after this point, the  **IncludePageOnNewWebNavigationBars** property will be **False**.
 
 
 ```vb

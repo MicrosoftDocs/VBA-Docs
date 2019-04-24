@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[DefaultWebOptions](Excel.DefaultWebOptions.md)** object.
 
 
-## See also
 
-
-[DefaultWebOptions Object](Excel.DefaultWebOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

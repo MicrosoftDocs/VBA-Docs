@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebOptions.AllowPNG property (Word)
 
- **True** if PNG (Portable Network Graphics) is allowed as an image format when you save a document as a Web page. **False** if PNG is not allowed as an output format. The default value is **False**. Read/write **Boolean**.
+ **True** if PNG (Portable Network Graphics) is allowed as an image format when you save a document as a webpage. **False** if PNG is not allowed as an output format. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_.**AllowPNG**
 
 ## Remarks
 
-If you save images in the PNG format and if the Web browsers you are targeting support the PNG format, you might improve the image quality or reduce the size of those image files, and therefore decrease the download time.
+If you save images in the PNG format and if the web browsers you are targeting support the PNG format, you might improve the image quality or reduce the size of those image files, and therefore decrease the download time.
 
 
 ## Example

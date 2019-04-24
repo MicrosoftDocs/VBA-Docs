@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.AlternativeText property (Word)
 
-Returns or sets the alternative text associated with a shape in a Web page. Read/write  **String**.
+Returns or sets the alternative text associated with a shape in a webpage. Read/write  **String**.
 
 
 ## Syntax

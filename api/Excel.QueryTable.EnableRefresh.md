@@ -30,9 +30,9 @@ The  **[RefreshOnFileOpen](Excel.QueryTable.RefreshOnFileOpen.md)** property is 
 
 For OLAP data sources, setting this property to  **False** disables updates.
 
-If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
+If you import data using the user interface, data from a web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
+If you import data using the object model, data from a web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 You can use the  **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **EnableRefresh** property.
 

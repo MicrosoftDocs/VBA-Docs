@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PublishObject.Publish method (Excel)
 
-Saves an item or a collection of items in a document to a web page.
+Saves an item or a collection of items in a document to a webpage.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ The  **[FileName](Excel.PublishObject.Filename.md)** property returns or sets th
 
 ## Example
 
-This example saves the range D5:D9 on the First Quarter worksheet in the active workbook to a web page named stockreport.htm. The Spreadsheet component is used to make the web page interactive.
+This example saves the range D5:D9 on the First Quarter worksheet in the active workbook to a webpage named stockreport.htm. The Spreadsheet component is used to make the webpage interactive.
 
 
 ```vb

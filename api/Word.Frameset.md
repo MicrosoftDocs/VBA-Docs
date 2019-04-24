@@ -57,7 +57,7 @@ ActiveWindow.Document.Frameset _
  .ChildFramesetItem(3).FrameName = "BottomFrame"
 ```
 
-This example links the specified frame to a local file called "Order.htm." It sets the frame to be resizable, to appear with scrollbars in a Web browser, and to be 25% as high as the active window.
+This example links the specified frame to a local file called "Order.htm." It sets the frame to be resizable, to appear with scrollbars in a web browser, and to be 25% as high as the active window.
 
 
 

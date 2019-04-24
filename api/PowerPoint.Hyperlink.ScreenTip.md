@@ -31,7 +31,7 @@ String
 
 ## Remarks
 
-ScreenTip text appears, for example, when you save a presentation to HTML, view it in a Web browser, and rest the mouse pointer over a hyperlink. Some browsers may not support ScreenTips.
+ScreenTip text appears, for example, when you save a presentation to HTML, view it in a web browser, and rest the mouse pointer over a hyperlink. Some browsers may not support ScreenTips.
 
 
 ## Example

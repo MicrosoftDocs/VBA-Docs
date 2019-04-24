@@ -34,7 +34,7 @@ _expression_ A variable that represents an [OutlookBarShortcut](Outlook.OutlookB
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates a group called MicrosoftSites and adds a shortcut to the Microsoft Network web page. Then it sets the icon of the shortcut to the icon image MSN.ico located on the user's computer. The example assumes that this icon exists in the specified location.
+The following Microsoft Visual Basic for Applications (VBA) example creates a group called MicrosoftSites and adds a shortcut to the Microsoft Network webpage. Then it sets the icon of the shortcut to the icon image MSN.ico located on the user's computer. The example assumes that this icon exists in the specified location.
 
 
 ```vb

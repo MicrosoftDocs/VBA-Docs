@@ -39,7 +39,7 @@ Setting the  **StoreInFolder** property to `True` is the equivalent of selecting
 
 ## Example
 
-The following macro shows how to set the  **StoreInFolder** property so that a subfolder that contains all a Web page's supporting files and has the same name as the .htm file is created.
+The following macro shows how to set the  **StoreInFolder** property so that a subfolder that contains all a webpage's supporting files and has the same name as the .htm file is created.
 
 Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the filename that you want to assign to your Web page.
 

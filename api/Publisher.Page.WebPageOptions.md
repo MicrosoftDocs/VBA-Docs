@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Page.WebPageOptions property (Publisher)
 
-Returns a  **[WebPageOptions](Publisher.WebPageOptions.md)** object, which represents the properties of a single Web page within a Web publication. Read-only.
+Returns a  **[WebPageOptions](Publisher.WebPageOptions.md)** object, which represents the properties of a single Web page within a web publication. Read-only.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ WebPageOptions
 
 ## Example
 
-The following example sets the description and the background sound for the fourth page of the active Web publication.
+The following example sets the description and the background sound for the fourth page of the active web publication.
 
 
 ```vb

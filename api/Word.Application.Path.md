@@ -29,7 +29,7 @@ _expression_.**Path**
 The path doesn't include a trailing character — for example, "C:\MSOffice" or "https://MyServer". Use the  **[PathSeparator](Word.Application.PathSeparator.md)** property to add the character that separates folders and drive letters. Use the **[Name](Word.Document.Name.md)** property of the **[Document](Word.Document.md)** object to return the file name without the path and use the **[FullName](Word.Document.FullName.md)** property to return the file name and the path together.
 
 
- **Note**  You can use the  **PathSeparator** property to build Web addresses even though they contain forward slashes (/) and the **PathSeparator** property defaults to a backslash (\).
+ **Note**  You can use the  **PathSeparator** property to build web addresses even though they contain forward slashes (/) and the **PathSeparator** property defaults to a backslash (\).
 
 
 ## Example

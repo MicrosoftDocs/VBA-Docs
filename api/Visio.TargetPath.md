@@ -28,14 +28,14 @@ _expression_.**TargetPath**
 
 ## Remarks
 
-When you save a drawing as a Web page, you must use the  **TargetPath** property to supply the full target path. The **TargetPath** property is reset to a null value after each export: each time you save a drawing as a Web page you must explicitly supply the target path. In addition, the **TargetPath** value is not persisted between sessions of Visio.
+When you save a drawing as a webpage, you must use the  **TargetPath** property to supply the full target path. The **TargetPath** property is reset to a null value after each export: each time you save a drawing as a webpage you must explicitly supply the target path. In addition, the **TargetPath** value is not persisted between sessions of Visio.
 
 The value of the **TargetPath** property corresponds to the folder name and file name selected in the **Save As** dialog box (click the **BackstageButton** tab, and then click **Save As**).
 
 
 ## Example
 
-The following macro shows how to save the active document as a Web page and place the resulting HTML file and supporting files as flat files in the  _targetpath_ folder. Because the **[StoreInFolder](Visio.StoreInFolder.md)** property is set to **False**, the supporting files are placed in the same folder as the root HTML file, instead of in a separate folder that has the name  _filename_files_ or _filename.files_, depending on the language.
+The following macro shows how to save the active document as a webpage and place the resulting HTML file and supporting files as flat files in the  _targetpath_ folder. Because the **[StoreInFolder](Visio.StoreInFolder.md)** property is set to **False**, the supporting files are placed in the same folder as the root HTML file, instead of in a separate folder that has the name  _filename_files_ or _filename.files_, depending on the language.
 
 
 ```vb

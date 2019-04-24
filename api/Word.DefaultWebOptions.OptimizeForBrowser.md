@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DefaultWebOptions.OptimizeForBrowser property (Word)
 
- **True** if Microsoft Word optimizes new Web pages created in Word for the Web browser specified by the **[BrowserLevel](Word.DefaultWebOptions.BrowserLevel.md)** property. Read/write **Boolean**.
+ **True** if Microsoft Word optimizes new Web pages created in Word for the web browser specified by the **[BrowserLevel](Word.DefaultWebOptions.BrowserLevel.md)** property. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[DefaultWebOptions](Word.D
 
 ## Example
 
-This example sets Word to optimize new Web pages for Microsoft Internet Explorer 5 and creates a Web page based on this setting.
+This example sets Word to optimize new Web pages for Microsoft Internet Explorer 5 and creates a webpage based on this setting.
 
 
 ```vb

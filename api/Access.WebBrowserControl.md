@@ -19,7 +19,7 @@ Represents a web browser control on a form.
 
 ## Remarks
 
-Use the **[ControlSource](Access.WebBrowserControl.ControlSource.md)** property to specify the web page to load in the control.
+Use the **[ControlSource](Access.WebBrowserControl.ControlSource.md)** property to specify the webpage to load in the control.
 
 
 ## Events

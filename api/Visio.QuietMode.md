@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # VisWebPageSettings.QuietMode Property (Visio Save As Web)
 
-Determines whether dialog boxes are displayed in the Visio user interface when you save a drawing as a Web page. Read/write.
+Determines whether dialog boxes are displayed in the Visio user interface when you save a drawing as a webpage. Read/write.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_.**QuietMode**
 
 ## Remarks
 
-Set  **QuietMode** to a non-zero value (**True**) to prevent modal dialog boxes from appearing in the user interface when a drawing is saved as a Web page; set it to zero (**False**) to display dialog boxes with default settings. The default is  **False**.
+Set  **QuietMode** to a non-zero value (**True**) to prevent modal dialog boxes from appearing in the user interface when a drawing is saved as a webpage; set it to zero (**False**) to display dialog boxes with default settings. The default is  **False**.
 
 Setting the  **QuietMode** property to **True** prevents modal dialog boxes from appearing in the Microsoft Visio user interface; however, the **Save As Web Page** progress bar is displayed while the page is being created.
 
@@ -39,7 +39,7 @@ If both the  **QuietMode** and **SilentMode** properties are set to **True**, th
 
 ## Example
 
-The following macro shows how to set the  **QuietMode** property to **True** before saving the drawing as a Web page. Setting this value to **True** prevents modal dialog boxes from appearing in the user interface—only the progress bar appears. Because the **[OpenBrowser](Visio.OpenBrowser.md)** property is set to **True**, the drawing opens in the browser.
+The following macro shows how to set the  **QuietMode** property to **True** before saving the drawing as a webpage. Setting this value to **True** prevents modal dialog boxes from appearing in the user interface—only the progress bar appears. Because the **[OpenBrowser](Visio.OpenBrowser.md)** property is set to **True**, the drawing opens in the browser.
 
 Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the filename that you want to assign to your Web page.
 

@@ -26,24 +26,19 @@ _expression_ A variable that represents a **[DefaultWebOptions](Excel.DefaultWeb
 
 ## Remarks
 
-This property is used only if the Web browser you are using supports HTML editing and HTML editors.
+This property is used only if the web browser that you are using supports HTML editing and HTML editors.
 
-To use a different HTML editor, you must set this property to  **False** and then register the editor as the default system HTML editor.
+To use a different HTML editor, you must set this property to **False** and then register the editor as the default system HTML editor.
 
 
 ## Example
 
-This example causes Microsoft Excel not to check to see whether it is the default HTML editor.
-
+This example causes Excel not to check to see whether it is the default HTML editor.
 
 ```vb
 Application.DefaultWebOptions.CheckIfOfficeIsHTMLEditor = False
 ```
 
 
-## See also
-
-
-[DefaultWebOptions Object](Excel.DefaultWebOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

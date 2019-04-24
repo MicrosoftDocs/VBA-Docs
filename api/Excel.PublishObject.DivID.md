@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PublishObject.DivID property (Excel)
 
-Returns the unique identifier used for identifying an HTML <DIV> tag on a web page. The tag is associated with an item in a document that you have saved to a web page. An item can be an entire workbook, a worksheet, a selected print range, an AutoFilter range, a range of cells, a chart, a PivotTable report, or a query table. Read-only  **String**.
+Returns the unique identifier used for identifying an HTML <DIV> tag on a webpage. The tag is associated with an item in a document that you have saved to a webpage. An item can be an entire workbook, a worksheet, a selected print range, an AutoFilter range, a range of cells, a chart, a PivotTable report, or a query table. Read-only  **String**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [PublishObject](Excel.PublishObject.md
 
 ## Example
 
-This example saves a range of cells to a web page, and then it obtains the identifier from the <DIV> tag of this item and finds the line on the saved web page (q198.htm). The example also creates a copy of the web page (newq1.htm) and inserts a comment line before the <DIV> tag in the copy of the file.
+This example saves a range of cells to a webpage, and then it obtains the identifier from the <DIV> tag of this item and finds the line on the saved webpage (q198.htm). The example also creates a copy of the webpage (newq1.htm) and inserts a comment line before the <DIV> tag in the copy of the file.
 
 
 ```vb

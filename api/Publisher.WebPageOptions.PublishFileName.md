@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebPageOptions.PublishFileName property (Publisher)
 
-Returns or sets a  **String** that represents the file name of a Web page (within a Web publication) that is being saved as filtered HTML.
+Returns or sets a  **String** that represents the file name of a webpage (within a web publication) that is being saved as filtered HTML.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ String
 
 ## Remarks
 
-Specifying a file name for a Web page is optional. When a publication is saved as filtered HTML, Microsoft Publisher automatically generates a file name for any Web page that does not have a file name specified. Use the  **[SaveAs](Publisher.Document.SaveAs.md)** method of the **[Document](Publisher.Document.md)** object to save a publication as filtered HTML.
+Specifying a file name for a webpage is optional. When a publication is saved as filtered HTML, Microsoft Publisher automatically generates a file name for any Web page that does not have a file name specified. Use the  **[SaveAs](Publisher.Document.SaveAs.md)** method of the **[Document](Publisher.Document.md)** object to save a publication as filtered HTML.
 
 User-defined file names are used only when a publication is saved as filtered HTML.
 
@@ -53,7 +53,7 @@ This property corresponds to the  **File name** text box in the **Publish to the
 
 ## Example
 
-The following example sets the file name and description of the second page in the active publication. The example assumes the active publication is a Web publication containing at least two pages.
+The following example sets the file name and description of the second page in the active publication. The example assumes the active publication is a web publication containing at least two pages.
 
 
 ```vb

@@ -26,7 +26,7 @@ Use the **SharedWorkspaceLink** object to manage links to additional documents a
 
 Use the **Item** (_index_) property of the **SharedWorkspaceLinks** collection to return a specific **SharedWorkspaceLink** object.
 
-Use the **Description** property to set the link description that appears on the **Links** tab of the **Shared Workspace** pane and on the workspace web page. Use the **URL** property to set the destination address of the link. Use the **Notes** property to supply additional information about the link.
+Use the **Description** property to set the link description that appears on the **Links** tab of the **Shared Workspace** pane and on the workspace webpage. Use the **URL** property to set the destination address of the link. Use the **Notes** property to supply additional information about the link.
 
 Use the **Save** method to upload changes to the server after you modify properties of the **SharedWorkspaceLink** object.
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # InlineShape.AlternativeText property (Word)
 
-Returns or sets a  **String** that represents the alternative text associated with a shape in a Web page. Read/write.
+Returns or sets a  **String** that represents the alternative text associated with a shape in a webpage. Read/write.
 
 
 ## Syntax

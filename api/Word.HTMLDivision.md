@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # HTMLDivision object (Word)
 
-Represents a single HTML DIV element within a Web document. The  **HTMLDivision** object is a member of the **HTMLDivisions** collection.
+Represents a single HTML DIV element within a web document. The  **HTMLDivision** object is a member of the **HTMLDivisions** collection.
 
 
 ## Remarks

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # VisWebPageSettings.EndPage Property (Visio Save As Web)
 
-Specifies the page number of the last page in the range when you save a range of pages as a Web page. Read/write.
+Specifies the page number of the last page in the range when you save a range of pages as a webpage. Read/write.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ The  **EndPage** property value corresponds to the value in the **to** box on th
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **EndPage** property to save a range of pages in a drawing (in this case, from page 2 to page 3) as a Web page instead of the complete drawing.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **EndPage** property to save a range of pages in a drawing (in this case, from page 2 to page 3) as a webpage instead of the complete drawing.
 
 This macro assumes that the current Visio drawing contains at least three pages.
 

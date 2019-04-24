@@ -30,12 +30,12 @@ _expression_.**CreatePages**
 
 Because the  **VisSaveAsWeb** object uses the settings in its **[VisWebPageSettings](overview/Visio.md)** object to create the Web page, you should call the **CreatePages** method after you make any required changes to the **VisWebPageSettings** object.
 
-To specify which document to save as a Web page, use the  **[AttachToVisioDoc](Visio.AttachToVisioDoc.md)** method. If no document is specified, Microsoft Visio saves the active document by default.
+To specify which document to save as a webpage, use the  **[AttachToVisioDoc](Visio.AttachToVisioDoc.md)** method. If no document is specified, Microsoft Visio saves the active document by default.
 
 
 ## Example
 
-The following example shows how to open an existing file and save it as a Web page by using the Save as Web Page feature's default settings and the  **AttachToVisioDoc** and **CreatePages** methods. Before running this example, replace _path\filename_ with a valid path and file name for a Visio document to pass to the **Open** method. In addition, replace _targetpath\filename_ with a valid target path and a file name for the Web page project files.
+The following example shows how to open an existing file and save it as a webpage by using the Save as Web Page feature's default settings and the  **AttachToVisioDoc** and **CreatePages** methods. Before running this example, replace _path\filename_ with a valid path and file name for a Visio document to pass to the **Open** method. In addition, replace _targetpath\filename_ with a valid target path and a file name for the Web page project files.
 
 
 ```vb

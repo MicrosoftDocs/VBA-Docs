@@ -14,17 +14,17 @@ localization_priority: Normal
 
 # WebOptions object (Publisher)
 
-Represents the properties of a Web publication, including options for saving and encoding the publication, and enabling Web-safe fonts and font schemes. The  **WebOptions** object is a member of the **[Application](Publisher.Application.md)** object.
+Represents the properties of a web publication, including options for saving and encoding the publication, and enabling Web-safe fonts and font schemes. The  **WebOptions** object is a member of the **[Application](Publisher.Application.md)** object.
  
 
 
 ## Remarks
 
-The properties of the  **WebOptions** object are used to specify the behavior of Web publications. This means that when any of these properties are modified, newly created Web publications inherit the modified properties.
+The properties of the  **WebOptions** object are used to specify the behavior of web publications. This means that when any of these properties are modified, newly created web publications inherit the modified properties.
  
 
  
-Note that the  **WebOptions** object is available from print publications and Web publications. However, the properties of this object have no effect on print publications.
+Note that the  **WebOptions** object is available from print publications and web publications. However, the properties of this object have no effect on print publications.
  
 
  

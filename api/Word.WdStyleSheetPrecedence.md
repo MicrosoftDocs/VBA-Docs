@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WdStyleSheetPrecedence enumeration (Word)
 
-Specifies the level of importance of a style sheet compared with other cascading style sheets attached to the Web document.
+Specifies the level of importance of a style sheet compared with other cascading style sheets attached to the web document.
 
 
 

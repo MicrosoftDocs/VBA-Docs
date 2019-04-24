@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.DefaultWebOptions property (Excel)
 
-Returns the **[DefaultWebOptions](Excel.DefaultWebOptions.md)** object that contains global application-level attributes used by Microsoft Excel whenever you save a document as a web page or open a web page. Read-only.
+Returns the **[DefaultWebOptions](Excel.DefaultWebOptions.md)** object that contains global application-level attributes used by Microsoft Excel whenever you save a document as a webpage or open a webpage. Read-only.
 
 
 ## Syntax

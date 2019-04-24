@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Example
 
-This example publishes all static  **PublishObject** objects in the active workbook to the web page.
+This example publishes all static  **PublishObject** objects in the active workbook to the webpage.
 
 
 ```vb

@@ -22,6 +22,6 @@ Specifies the type of query used by Microsoft Excel to populate the query table 
 | **xlODBCQuery**|1|Based on an ODBC data source|
 | **xlOLEDBQuery**|5|Based on an OLE DB query, including OLAP data sources|
 | **xlTextImport**|6|Based on a text file, for query tables only|
-| **xlWebQuery**|4|Based on a web page, for query tables only|
+| **xlWebQuery**|4|Based on a webpage, for query tables only|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

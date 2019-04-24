@@ -81,7 +81,7 @@ Set shpCheckBox = ActiveDocument.Pages(1).Shapes.AddWebControl _
 
 ```
 
-The following example adds hot spots to a shape on page four of the active Web publication. First, a four-point star AutoShape is added to the page. Next, a hot spot is added to each arm of the star by using the  **AddWebControl** method with a Type of **pbWebControlHotSpot**. Finally, a hyperlink is added to each hot spot by using the  **Hyperlink** property of each hot spot shape.
+The following example adds hot spots to a shape on page four of the active web publication. First, a four-point star AutoShape is added to the page. Next, a hot spot is added to each arm of the star by using the  **AddWebControl** method with a Type of **pbWebControlHotSpot**. Finally, a hyperlink is added to each hot spot by using the  **Hyperlink** property of each hot spot shape.
 
 
 

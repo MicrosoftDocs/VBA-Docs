@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Hyperlink.Follow method (Access)
 
-The **Follow** method opens the document or web page specified by a hyperlink address associated with a control on a form or report.
+The **Follow** method opens the document or webpage specified by a hyperlink address associated with a control on a form or report.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ _expression_ A variable that represents a **[Hyperlink](Access.Hyperlink.md)** o
 
 The **Follow** method has the same effect as choosing a hyperlink.
 
-You can include the **Follow** method in an event procedure if you want to open a hyperlink in response to a user action. For example, you may want to open a web page with reference information when a user opens a particular form.
+You can include the **Follow** method in an event procedure if you want to open a hyperlink in response to a user action. For example, you may want to open a webpage with reference information when a user opens a particular form.
 
 When you use the **Follow** method, you don't need to know the address specified by a control's **HyperlinkAddress** property. You only need to know the name of the control that contains the hyperlink. Conversely, when you use the **[FollowHyperlink](Access.Application.FollowHyperlink.md)** method, you need to specify the address for the particular hyperlink that you wish to follow.
 

@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[WebOptions](Excel.WebOptions.md)** 
 
 ## Remarks
 
-Microsoft Excel uses the folder suffix when you save a document as a web page, use long file names, and choose to save supporting files in a separate folder (that is, if the  **[UseLongFileNames](Excel.WebOptions.UseLongFileNames.md)** and **[OrganizeInFolder](Excel.WebOptions.OrganizeInFolder.md)** properties are set to **True**).
+Microsoft Excel uses the folder suffix when you save a document as a webpage, use long file names, and choose to save supporting files in a separate folder (that is, if the  **[UseLongFileNames](Excel.WebOptions.UseLongFileNames.md)** and **[OrganizeInFolder](Excel.WebOptions.OrganizeInFolder.md)** properties are set to **True**).
 
 The suffix appears in the folder name after the document name. For example, if the document is called "Book1" and the language is English, the folder name is Book1_files. The available folder suffixes are listed in the  **[FolderSuffix](Excel.WebOptions.FolderSuffix.md)** property topic.
 

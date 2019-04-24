@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DefaultWebOptions.SaveNewWebPagesAsWebArchives property (Excel)
 
- **True** if new web pages can be saved as Web archives. Read/write **Boolean**.
+ **True** if new webpages can be saved as Web archives. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[DefaultWebOptions](Excel.DefaultWeb
 
 ## Example
 
-In this example, Microsoft Excel determines the settings for saving new web pages as Web archives and notifies the user.
+In this example, Microsoft Excel determines the settings for saving new webpages as Web archives and notifies the user.
 
 
 ```vb
@@ -34,9 +34,9 @@ Sub DetermineSettings()
  
  ' Determine settings and notify user. 
  If Application.DefaultWebOptions.SaveNewWebPagesAsWebArchives = True Then 
- MsgBox "New web pages will be saved as Web archives." 
+ MsgBox "New webpages will be saved as Web archives." 
  Else 
- MsgBox "New web pages will not be saved as Web archives." 
+ MsgBox "New webpages will not be saved as Web archives." 
  End If 
  
 End Sub

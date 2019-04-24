@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' obj
 
 ## Remarks
 
-In order to use this property, a folder must be using a folder home page, or you can set the  **[WebViewURL](Outlook.Folder.WebViewURL.md)** property of the **[Folder](Outlook.Folder.md)** object to a web page.
+In order to use this property, a folder must be using a folder home page, or you can set the  **[WebViewURL](Outlook.Folder.WebViewURL.md)** property of the **[Folder](Outlook.Folder.md)** object to a webpage.
 
 
 ## Example

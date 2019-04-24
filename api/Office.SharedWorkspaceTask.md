@@ -26,7 +26,7 @@ Use the **SharedWorkspaceTask** object to manage tasks assigned to the members w
 
 Use the **Item** (_index_) property of the **SharedWorkspaceTasks** collection to return a specific **SharedWorkspaceTask** object.
 
-Use the **Title** property to set the text of the task that appears on the **Tasks** tab of the **Shared Workspace** task pane and on the shared workspace web page. Use the **Description** property to supply additional information about the task.
+Use the **Title** property to set the text of the task that appears on the **Tasks** tab of the **Shared Workspace** task pane and on the shared workspace webpage. Use the **Description** property to supply additional information about the task.
 
 Assign the task to a member of the workspace by using the **AssignedTo** property and the member's domain user name. Specify a due date for the task by using the **DueDate** property.
 

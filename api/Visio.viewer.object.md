@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Viewer Object (Visio Viewer)
 
-The  **Viewer** object is a programmable ActiveX control that enables you to display Visio drawings (with limited functionality) on web pages and in Windows Forms, so that users who do not have Visio installed on their computers can view and interact with them.
+The  **Viewer** object is a programmable ActiveX control that enables you to display Visio drawings (with limited functionality) on webpages and in Windows Forms, so that users who do not have Visio installed on their computers can view and interact with them.
 
 
 ## Remarks

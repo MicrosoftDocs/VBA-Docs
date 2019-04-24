@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DefaultWebOptions.UpdateLinksOnSave property (Word)
 
- **True** if hyperlinks and paths to all supporting files are automatically updated before you save the document as a Web page. Read/write **Boolean**.
+ **True** if hyperlinks and paths to all supporting files are automatically updated before you save the document as a webpage. Read/write **Boolean**.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_.**UpdateLinksOnSave**
 
 The  **UpdateLinksOnSave** property ensures that the links are up-to-date at the time the document is saved. The default value for the **UpdateLinksOnSave** property is **True**.
 
-A value of  **False** indicates that the links are not updated. You should set this property to **False** if the location where the document is saved is different from the final location on the Web server and the supporting files are not available at the first location.
+A value of  **False** indicates that the links are not updated. You should set this property to **False** if the location where the document is saved is different from the final location on the web server and the supporting files are not available at the first location.
 
 
 ## Example

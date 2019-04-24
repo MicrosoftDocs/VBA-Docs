@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # XlWebSelectionType enumeration (Excel)
 
-Specifies whether an entire web page, all tables on the web page, or only a specific table is imported into a query table.
+Specifies whether an entire webpage, all tables on the webpage, or only a specific table is imported into a query table.
 
 
 

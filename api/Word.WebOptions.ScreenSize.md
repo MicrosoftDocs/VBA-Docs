@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebOptions.ScreenSize property (Word)
 
-Returns or sets the ideal minimum screen size (width by height, in pixels) that you should use when viewing the saved document in a Web browser. Read/write  **MsoScreenSize**.
+Returns or sets the ideal minimum screen size (width by height, in pixels) that you should use when viewing the saved document in a web browser. Read/write  **MsoScreenSize**.
 
 
 ## Syntax

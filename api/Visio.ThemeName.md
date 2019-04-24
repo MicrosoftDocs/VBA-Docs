@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # VisWebPageSettings.ThemeName Property (Visio Save As Web)
 
-Assigns a Web page theme to the page you are creating. Read/write.
+Assigns a webpage theme to the page you are creating. Read/write.
 
 
 ## Syntax

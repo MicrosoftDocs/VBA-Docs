@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Frameset.FrameResizable property (Word)
 
- **True** if the user can resize the specified frame when the frames page is viewed in a Web browser. Read/write **Boolean**.
+ **True** if the user can resize the specified frame when the frames page is viewed in a web browser. Read/write **Boolean**.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ For more information on creating frames pages, see [Creating Frames Pages](../wo
 
 ## Example
 
-This example sets the specified frame to be resizable when viewed in a Web browser.
+This example sets the specified frame to be resizable when viewed in a web browser.
 
 
 ```vb

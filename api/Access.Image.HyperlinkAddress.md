@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Image.HyperlinkAddress property (Access)
 
-You can use the **HyperlinkAddress** property to specify or determine the path to an object, document, web page, or other destination for a hyperlink associated with the specified control. Read/write **String**.
+You can use the **HyperlinkAddress** property to specify or determine the path to an object, document, webpage, or other destination for a hyperlink associated with the specified control. Read/write **String**.
 
 
 ## Syntax
@@ -26,16 +26,16 @@ _expression_ A variable that represents an **[Image](Access.Image.md)** object.
 
 ## Remarks
 
-The **HyperlinkAddress** property is a string expression representing the path to a file (UNC path) or web page (URL).
+The **HyperlinkAddress** property is a string expression representing the path to a file (UNC path) or webpage (URL).
 
 When you set the **HyperlinkAddress** property, you automatically specify the **Address** property for the **[Hyperlink](access.hyperlink.md)** object associated with the control.
 
 > [!NOTE] 
-> When you create a hyperlink by using the **Insert Hyperlink** dialog box, Microsoft Access automatically sets the **HyperlinkAddress** property and **HyperlinkSubAddress** to the location specified in the **Type the file or web page name** box. The **HyperlinkSubAddress** property can also be set to the location specified in the **Select an object in this database** box.
+> When you create a hyperlink by using the **Insert Hyperlink** dialog box, Microsoft Access automatically sets the **HyperlinkAddress** property and **HyperlinkSubAddress** to the location specified in the **Type the file or webpage name** box. The **HyperlinkSubAddress** property can also be set to the location specified in the **Select an object in this database** box.
 
 If you copy a hyperlink from another application and paste it into a form or report, Access creates a label control with its **Caption** property, **HyperlinkAddress** property, and **HyperlinkSubAddress** property automatically set.
 
-When you move the cursor over a command button, image control, or label control whose **HyperlinkAddress** property is set, the cursor changes to an upward-pointing hand. Choosing the control displays the object or web page specified by the link.
+When you move the cursor over a command button, image control, or label control whose **HyperlinkAddress** property is set, the cursor changes to an upward-pointing hand. Choosing the control displays the object or webpage specified by the link.
 
 To open objects in the current database, leave the **HyperlinkAddress** property blank and specify the object type and object name that you want to open in the **HyperlinkSubAddress** property by using the syntax _objecttype objectname_. If you want to open an object contained in another Access database, enter the database path and file name in the **HyperlinkAddress** property and specify the database object to open by using the **HyperlinkSubAddress** property.
 

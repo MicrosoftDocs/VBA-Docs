@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebPageOptions.Description property (Publisher)
 
-Returns or sets a  **String** that represents the description of a Web page within a Web publication. Read/write.
+Returns or sets a  **String** that represents the description of a webpage within a web publication. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_.**Description**
 
 ## Example
 
-This example sets the description for page two of the active Web publication.
+This example sets the description for page two of the active web publication.
 
 
 ```vb

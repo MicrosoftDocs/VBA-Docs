@@ -35,7 +35,7 @@ _expression_ A variable that represents an [Application](./PowerPoint.Applicatio
 
 ## Example
 
-This example finds the file name (without its extension) for the presentation in the window that is being deactivated. It then appends the .htm extension to the file name and saves it as a web page in the same folder as the presentation.
+This example finds the file name (without its extension) for the presentation in the window that is being deactivated. It then appends the .htm extension to the file name and saves it as a webpage in the same folder as the presentation.
 
 
 ```vb

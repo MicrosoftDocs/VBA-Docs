@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebPageOptions.SetBackgroundSoundRepeat method (Publisher)
 
-Specifies whether the background sound attached to a Web page should be played infinitely after the page is loaded in a Web browser, and if it should not, optionally specifies the number of times the background sound should be played.
+Specifies whether the background sound attached to a webpage should be played infinitely after the page is loaded in a web browser, and if it should not, optionally specifies the number of times the background sound should be played.
 
 
 ## Syntax
@@ -42,7 +42,7 @@ If the  **_RepeatForever_** parameter is set to **False**, the optional  **_Repe
 
 ## Example
 
-The following example sets the background sound for page four of the active Web publication to a .wav file on the local computer. If  **BackgroundSoundLoopForever** is **False**, the  **SetBackgroundSoundRepeat** method is used to specify that the background sound be repeated infinitely (note the omission of the **_RepeatTimes_** parameter). If **BackgroundSoundLoopForever** is **True**, the  **SetBackgroundSoundRepeat** method is used to specify that the background sound not be repeated infinitely, but that it should be repeated twice.
+The following example sets the background sound for page four of the active web publication to a .wav file on the local computer. If  **BackgroundSoundLoopForever** is **False**, the  **SetBackgroundSoundRepeat** method is used to specify that the background sound be repeated infinitely (note the omission of the **_RepeatTimes_** parameter). If **BackgroundSoundLoopForever** is **True**, the  **SetBackgroundSoundRepeat** method is used to specify that the background sound not be repeated infinitely, but that it should be repeated twice.
 
 
 ```vb

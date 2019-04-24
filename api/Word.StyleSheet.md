@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # StyleSheet object (Word)
 
-Represents a single cascading style sheet attached to a Web document. The  **StyleSheet** object is a member of the **[StyleSheets](Word.StyleSheets.md)** collection. The **StyleSheets** collection contains all the cascading style sheets attached to a specified document.
+Represents a single cascading style sheet attached to a web document. The  **StyleSheet** object is a member of the **[StyleSheets](Word.StyleSheets.md)** collection. The **StyleSheets** collection contains all the cascading style sheets attached to a specified document.
 
 
 ## Remarks

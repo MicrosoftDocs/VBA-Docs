@@ -33,7 +33,7 @@ String
 
 This property is only accessible for shapes that represent an instance of a Web navigation bar set. Use the  **[Type](Publisher.Shape.Type.md)** property of the **[Shape](Publisher.Shape.md)** object to determine if a shape represents an instance of a Web navigation bar set.
 
-Use the  **WebNavigationBarSetName** property to return the name of a **[WebNavigationBarSet](Publisher.WebNavigationBarSet.md)** object. Multiple pages in a Web publication can each have a shape representing an instance of the same Web navigation bar set. Changes made to a **WebNavigationBarSet** object are reflected in all the shapes representing instances of that Web navigation bar set.
+Use the  **WebNavigationBarSetName** property to return the name of a **[WebNavigationBarSet](Publisher.WebNavigationBarSet.md)** object. Multiple pages in a web publication can each have a shape representing an instance of the same Web navigation bar set. Changes made to a **WebNavigationBarSet** object are reflected in all the shapes representing instances of that Web navigation bar set.
 
 
 ## Example

@@ -27,6 +27,6 @@ Constants that indicate the file format of the specified document.
 | **pbFilePublisher98**|2|The file was saved in a Publisher 98 file format.|
 | **pbFileRTF**|6|The file was saved in Rich Text Format.|
 | **pbFileUnicodeText**|9|The file was saved in Unicode Text Format.|
-| **pbFileWebArchive**|5|The file was saved in the MHTML format that allows users to save a Web page and all its related files as a single file.|
+| **pbFileWebArchive**|5|The file was saved in the MHTML format that allows users to save a webpage and all its related files as a single file.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebHiddenFields object (Publisher)
 
-Represents hidden Web fields that allow a Web page to pass non-visible data to the Web server when a Web page is submitted. The  **WebHiddenFields** object enables control of all the hidden fields attached to a Submit command button.
+Represents hidden Web fields that allow a webpage to pass non-visible data to the web server when a webpage is submitted. The  **WebHiddenFields** object enables control of all the hidden fields attached to a Submit command button.
  
 
 

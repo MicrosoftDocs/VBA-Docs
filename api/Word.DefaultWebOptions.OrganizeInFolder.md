@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DefaultWebOptions.OrganizeInFolder property (Word)
 
- **True** if all supporting files, such as background textures and graphics, are organized in a separate folder when you save the specified document as a Web page. **False** if supporting files are saved in the same folder as the Web page. The default value is **True**. Read/write **Boolean**.
+ **True** if all supporting files, such as background textures and graphics, are organized in a separate folder when you save the specified document as a webpage. **False** if supporting files are saved in the same folder as the Web page. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ If you don't use long file names (that is, if the  **UseLongFileNames** property
 
 ## Example
 
-This example specifies that all supporting files are saved in the same folder when the document is saved as a Web page.
+This example specifies that all supporting files are saved in the same folder when the document is saved as a webpage.
 
 
 ```vb

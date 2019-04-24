@@ -31,7 +31,7 @@ _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) obje
 | **xlQueryType** can be one of these **xlQueryType** constants.|
 | **xlTextImport**. Based on a text file, for query tables only|
 | **xlOLEDBQuery**. Based on an OLE DB query, including OLAP data sources|
-| **xlWebQuery**. Based on a web page, for query tables only|
+| **xlWebQuery**. Based on a webpage, for query tables only|
 | **xlADORecordset**. Based on an ADO recordset query|
 | **xlDAORecordSet**. Based on a DAO recordset query, for query tables only|
 | **xlODBCQuery**. Based on an ODBC data source|

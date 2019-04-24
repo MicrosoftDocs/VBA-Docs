@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.WebPagePreview method (Publisher)
 
-Generates a Web page preview of the specified publication in Internet Explorer.
+Generates a webpage preview of the specified publication in Internet Explorer.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ A Web preview can be generated for print publications. However, the appearance o
 
 The Web preview opens with the active page displayed. Preview Web pages are generated for each page in the publication. However, if the publication is a print publication or otherwise lacks a navigation bar, there may be no way to navigate to those pages.
 
-Use the  **[PublicationType](Publisher.Document.PublicationType.md)** property to determine if a publication is a print publication or a Web publication.
+Use the  **[PublicationType](Publisher.Document.PublicationType.md)** property to determine if a publication is a print publication or a web publication.
 
 This method corresponds to the  **Web Page Preview** command on the **File** menu.
 

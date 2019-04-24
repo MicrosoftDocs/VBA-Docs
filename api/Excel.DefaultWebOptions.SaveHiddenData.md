@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DefaultWebOptions.SaveHiddenData property (Excel)
 
- **True** if data outside of the specified range is saved when you save the document as a web page. This data may be necessary for maintaining formulas. **False** if data outside of the specified range is not saved with the web page. The default value is **True**. Read/write **Boolean**.
+ **True** if data outside of the specified range is saved when you save the document as a webpage. This data may be necessary for maintaining formulas. **False** if data outside of the specified range is not saved with the webpage. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ If you choose not to save data outside of the specified range, references to tha
 
 ## Example
 
-This example prevents hidden data from being saved with web pages.
+This example prevents hidden data from being saved with webpages.
 
 
 ```vb

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DefaultWebOptions object (Excel)
 
-Contains global application-level attributes used by Microsoft Excel when you save a document as a web page or open a web page. You can return or set attributes either at the application (global) level or at the workbook level.
+Contains global application-level attributes used by Microsoft Excel when you save a document as a webpage or open a webpage. You can return or set attributes either at the application (global) level or at the workbook level.
 
 
 ## Remarks

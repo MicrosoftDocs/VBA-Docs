@@ -31,7 +31,7 @@ String
 
 ## Remarks
 
-You can use  **PathSeparator** to build Web addresses even though they contain forward slashes (/).
+You can use  **PathSeparator** to build web addresses even though they contain forward slashes (/).
 
 The  **[FullName](Publisher.Document.FullName.md)** property returns the path and file name as a single string.
 

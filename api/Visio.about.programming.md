@@ -82,13 +82,13 @@ End Sub
 
 ## Programming Visio Viewer on an HTML (Web) page
 
-You can use the Visio Viewer control to embed a Visio drawing into a Web page, by manually inserting tags and parameters in the source code of the page. To write the source code, you can use a text editor, such as Notepad, or any other application that creates Web pages, such as Microsoft Expression Web 3 or SharePoint Designer.
+You can use the Visio Viewer control to embed a Visio drawing into a webpage, by manually inserting tags and parameters in the source code of the page. To write the source code, you can use a text editor, such as Notepad, or any other application that creates Web pages, such as Microsoft Expression Web 3 or SharePoint Designer.
 
 You can set any of the properties of Visio Viewer by using the PARAM tag, as shown in the following sample code, which sets the  **Src** property of Visio Viewer.
 
 Remember that because Visio Viewer is an ActiveX control, its behavior is influenced by Internet Explorer security settings.
 
-The following code shows how to open a Visio drawing file in a Visio Viewer control on a Web page. It sets the height and width of the Visio Viewer control on the page and loads a source document into the control.
+The following code shows how to open a Visio drawing file in a Visio Viewer control on a webpage. It sets the height and width of the Visio Viewer control on the page and loads a source document into the control.
 
 Copy the code into a file in a text editor, and save the resulting document as an HTM file. The Visio document "SalesData.vsd" referenced by the  **Src** parameter should be in the same folder as the HTM file.
 

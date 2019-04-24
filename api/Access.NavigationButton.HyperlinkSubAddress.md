@@ -31,11 +31,11 @@ The **HyperlinkSubAddress** property can be an object within a Microsoft Access 
 The **HyperlinkSubAddress** property is a string expression that represents a named location within the target document specified by the **HyperlinkAddress** property.
 
 > [!NOTE] 
-> When you create a hyperlink by using the **Insert Hyperlink** dialog box, Access automatically sets the **HyperlinkAddress** property and **HyperlinkSubAddress** to the location specified in the **Type the file or web page name** box. The **HyperlinkSubAddress** property can also be set to the location specified in the **Select an object in this database** box.
+> When you create a hyperlink by using the **Insert Hyperlink** dialog box, Access automatically sets the **HyperlinkAddress** property and **HyperlinkSubAddress** to the location specified in the **Type the file or webpage name** box. The **HyperlinkSubAddress** property can also be set to the location specified in the **Select an object in this database** box.
 
 If you copy a hyperlink from another application and paste it into a form or report, Access creates a label control with its **Caption** property, **HyperlinkAddress** property, and **HyperlinkSubAddress** property automatically set.
 
-When you move the cursor over a command button, image control, or label control whose **HyperlinkAddress** property is set, the cursor changes to an upward-pointing hand. Choosing the control displays the object or web page specified by the link.
+When you move the cursor over a command button, image control, or label control whose **HyperlinkAddress** property is set, the cursor changes to an upward-pointing hand. Choosing the control displays the object or webpage specified by the link.
 
 To open objects in the current database, leave the **HyperlinkAddress** property blank and specify the object type and object name that you want to open in the **HyperlinkSubAddress** property by using the syntax _objecttype objectname_. If you want to open an object contained in another Access database, enter the database path and file name in the **HyperlinkAddress** property and specify the database object to open by using the **HyperlinkSubAddress** property.
 

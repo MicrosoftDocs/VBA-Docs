@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.WebPagePreview method (Word)
 
-Displays a preview of the current document as it would look if saved as a Web page.
+Displays a preview of the current document as it would look if saved as a webpage.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Example
 
-This example displays the current document as it would appear if saved as a Web page.
+This example displays the current document as it would appear if saved as a webpage.
 
 
 ```vb

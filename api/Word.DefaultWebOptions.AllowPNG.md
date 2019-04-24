@@ -26,9 +26,9 @@ _expression_.**AllowPNG**
 
 ## Remarks
 
- **True** if PNG is allowed as an image format when you save a document as a Web page. The default value is **False**.
+ **True** if PNG is allowed as an image format when you save a document as a webpage. The default value is **False**.
 
-If you save images in the PNG format and if the Web browsers you are targeting support the PNG format, you might improve the image quality or reduce the size of those image files, and therefore decrease the download time.
+If you save images in the PNG format and if the web browsers you are targeting support the PNG format, you might improve the image quality or reduce the size of those image files, and therefore decrease the download time.
 
 
 ## Example
