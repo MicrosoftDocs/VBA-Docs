@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Dialogs.Item
 ms.assetid: f9200ca3-711b-92ee-81b2-7c9cf1d104af
-ms.date: 06/08/2017
+ms.date: 04/25/2019
 localization_priority: Normal
 ---
 
@@ -21,30 +21,24 @@ Returns a single object from a collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [Dialogs](Excel.Dialogs.md) object.
+_expression_ A variable that represents a **[Dialogs](Excel.Dialogs.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **xlBuiltInDialog**| **Variant**. The name or index number of the object.|
+| _Index_|Required| **[XlBuiltInDialog](excel.xlbuiltindialog.md)** | **Variant**. The name or index number of the object.|
 
 ## Example
 
-This example displays the  **Open** dialog box and selects the **Read-Only** option.
-
+This example displays the **Open** dialog box and selects the **Read-Only** option.
 
 ```vb
 Application.Dialogs.Item(xlDialogOpen).Show arg3:=True
 ```
 
 
-## See also
 
-
-[Dialogs Object](Excel.Dialogs.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[DefaultWebOptions](Excel.DefaultWeb
 
 ## Remarks
 
-If you don't use long file names and your document has supporting files, Microsoft Excel automatically organizes those files in a separate folder. Otherwise, use the  **[OrganizeInFolder](Excel.DefaultWebOptions.OrganizeInFolder.md)** property to determine whether supporting files are organized in a separate folder.
+If you don't use long file names and your document has supporting files, Microsoft Excel automatically organizes those files in a separate folder. Otherwise, use the **[OrganizeInFolder](Excel.DefaultWebOptions.OrganizeInFolder.md)** property to determine whether supporting files are organized in a separate folder.
 
 
 ## Example
 
 This example disallows the use of long file names as the global default for the application.
-
 
 ```vb
 Application.DefaultWebOptions.UseLongFileNames = False 
@@ -40,9 +39,5 @@ Application.DefaultWebOptions.UseLongFileNames = False
 ```
 
 
-## See also
-
-
-[DefaultWebOptions Object](Excel.DefaultWebOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
