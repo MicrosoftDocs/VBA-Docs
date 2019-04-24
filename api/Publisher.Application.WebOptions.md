@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.WebOptions property (Publisher)
 
-Returns a  **[WebOptions](Publisher.WebOptions.md)** object, which represents the properties of Web publications. Read-only.
+Returns a  **[WebOptions](Publisher.WebOptions.md)** object, which represents the properties of web publications. Read-only.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ WebOptions
 
 ## Example
 
-The following example specifies that Web publications should not always be saved in default encoding, and that the encoding should be Unicode (UTF-8).
+The following example specifies that web publications should not always be saved in default encoding, and that the encoding should be Unicode (UTF-8).
 
 
 ```vb

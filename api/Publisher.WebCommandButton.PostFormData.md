@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebCommandButton.PostFormData property (Publisher)
 
-Returns or sets an  **MsoTriState** constant indicating whether the specified Web command button control uses the Microsoft Visual Basic **Get** or **Post** method when submitting form data to a Web server. Read/write.
+Returns or sets an  **MsoTriState** constant indicating whether the specified Web command button control uses the Microsoft Visual Basic **Get** or **Post** method when submitting form data to a web server. Read/write.
 
 
 ## Syntax

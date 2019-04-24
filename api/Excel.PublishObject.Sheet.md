@@ -26,7 +26,7 @@ _expression_ A variable that represents a [PublishObject](Excel.PublishObject.md
 
 ## Remarks
 
-This example determines the name of the worksheet that contains the first  **PublishObject** object that is saved as static HTML in the web page. The example then sets the **Boolean** variable `blnSheetFound` to **True**. If no items in the document have been saved as static HTML, `blnSheetFound` is **False**.
+This example determines the name of the worksheet that contains the first  **PublishObject** object that is saved as static HTML on the webpage. The example then sets the **Boolean** variable `blnSheetFound` to **True**. If no items in the document have been saved as static HTML, `blnSheetFound` is **False**.
 
 
 ## Example

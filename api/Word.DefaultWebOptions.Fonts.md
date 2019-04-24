@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # DefaultWebOptions.Fonts property (Word)
 
-Returns the  **WebPageFonts** collection representing the set of fonts that Microsoft Word uses when you open a Web page in Word.
+Returns the  **WebPageFonts** collection representing the set of fonts that Microsoft Word uses when you open a webpage in Word.
 
 
 ## Syntax
 
-_expression_. `Fonts`
+_expression_.**Fonts**
 
  _expression_ An expression that returns a '[DefaultWebOptions](Word.DefaultWebOptions.md)' object.
 

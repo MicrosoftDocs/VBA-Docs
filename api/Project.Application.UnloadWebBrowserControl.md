@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.UnloadWebBrowserControl method (Project)
 
-Unloads the Web browser control and returns to the regular Project interface.
+Unloads the web browser control and returns to the regular Project interface.
 
 
 ## Syntax

@@ -24,7 +24,7 @@ The Save as Web Page model contains two classes:  **VisSaveAsWeb** and **VisWebP
 - A  **VisWebPageSettings** object contains the properties of your Web page project.
     
 
-When you create a Web page and its supporting files (also called a Web page project), you'll typically follow these steps.
+When you create a webpage and its supporting files (also called a webpage project), you'll typically follow these steps.
 
 
 1. Use the  **SaveAsWebObject** property of the Visio **Application** object to get an instance of a **VisSaveAsWeb** object.
@@ -34,7 +34,7 @@ When you create a Web page and its supporting files (also called a Web page proj
 3. Set the properties of the  **VisWebPageSettings** object.
     
      **Note**  You must always provide a target path for your files.
-4. Call the  **AttachToVisioDoc** method to identify the document to save as a Web page. If you don't specify which document to save, the active drawing is saved.
+4. Call the  **AttachToVisioDoc** method to identify the document to save as a webpage. If you don't specify which document to save, the active drawing is saved.
     
 5. Call the  **CreatePages** method to begin the Save as Web Page operation.
     

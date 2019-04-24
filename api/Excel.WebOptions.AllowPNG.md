@@ -14,19 +14,19 @@ localization_priority: Normal
 
 # WebOptions.AllowPNG property (Excel)
 
- **True** if PNG (Portable Network Graphics) is allowed as an image format when you save documents as a web page. **False** if PNG is not allowed as an output format. The default value is **False**. Read/write **Boolean**.
+ **True** if PNG (Portable Network Graphics) is allowed as an image format when you save documents as a webpage. **False** if PNG is not allowed as an output format. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `AllowPNG`
+_expression_.**AllowPNG**
 
-_expression_ A variable that represents a [WebOptions](Excel.WebOptions.md) object.
+_expression_ A variable that represents a **[WebOptions](Excel.WebOptions.md)** object.
 
 
 ## Remarks
 
-If you save images in the PNG format as opposed to any other file format, you might improve the image quality or reduce the size of those image files, and therefore decrease the download time, assuming that the Web browsers you are targeting support the PNG format.
+If you save images in the PNG format as opposed to any other file format, you might improve the image quality or reduce the size of those image files, and therefore decrease the download time, assuming that the web browsers you are targeting support the PNG format.
 
 
 ## Example

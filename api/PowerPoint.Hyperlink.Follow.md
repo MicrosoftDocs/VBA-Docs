@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Hyperlink.Follow method (PowerPoint)
 
-Displays the HTML document associated with the specified hyperlink in a new Web browser window.
+Displays the HTML document associated with the specified hyperlink in a new web browser window.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_. `Follow`
 
 ## Example
 
-This example loads the document associated with the first hyperlink on slide one in a new instance of the Web browser.
+This example loads the document associated with the first hyperlink on slide one in a new instance of the web browser.
 
 
 ```vb

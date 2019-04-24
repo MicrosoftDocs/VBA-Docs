@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotItem.SourceName property (Excel)
 
-Returns a  **Variant** value that represents the specified object?s name as it appears in the original source data for the specified PivotTable report.
+Returns a  **Variant** value that represents the specified object's name as it appears in the original source data for the specified PivotTable report.
 
 
 ## Syntax

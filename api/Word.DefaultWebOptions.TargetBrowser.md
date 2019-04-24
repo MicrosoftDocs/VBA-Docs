@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # DefaultWebOptions.TargetBrowser property (Word)
 
-Sets or returns an  **MsoTargetBrowser** constant representing the target browser for documents viewed in a Web browser. Read/write.
+Sets or returns an  **MsoTargetBrowser** constant representing the target browser for documents viewed in a web browser. Read/write.
 
 
 ## Syntax
 
-_expression_. `TargetBrowser`
+_expression_.**TargetBrowser**
 
-_expression_ Required. A variable that represents a '[DefaultWebOptions](Word.DefaultWebOptions.md)' collection.
+_expression_ Required. A variable that represents a **[DefaultWebOptions](Word.DefaultWebOptions.md)** collection.
 
 
 ## Example

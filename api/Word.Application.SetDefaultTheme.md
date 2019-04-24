@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.SetDefaultTheme method (Word)
 
-Sets a default theme for Word to use with new documents, email messages, or web pages.
+Sets a default theme for Word to use with new documents, email messages, or webpages.
 
 ## Syntax
 
@@ -56,7 +56,7 @@ This example specifies that Word use the Blueprint theme for all new email messa
 Application.SetDefaultTheme "blueprnt", wdEmailMessage
 ```
 
-This example specifies that Word use the Expedition theme with Active Graphics for all new web pages.
+This example specifies that Word use the Expedition theme with Active Graphics for all new webpages.
 
 ```vb
 Application.SetDefaultTheme "expeditn 010", wdWebPage

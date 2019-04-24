@@ -26,7 +26,7 @@ _expression_. `PathSeparator`
 
 ## Remarks
 
-You can use  **PathSeparator** property to build Web addresses even though they contain forward slashes (/).
+You can use  **PathSeparator** property to build web addresses even though they contain forward slashes (/).
 
 
  **Note**  The  **[FullName](Word.Document.FullName.md)** property returns the path and file name, including the path separator, as a single string.

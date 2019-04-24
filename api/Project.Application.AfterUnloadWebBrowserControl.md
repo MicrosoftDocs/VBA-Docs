@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.AfterUnloadWebBrowserControl method (Project)
 
-Occurs after Project unloads a web page.
+Occurs after Project unloads a webpage.
 
 
 ## Syntax

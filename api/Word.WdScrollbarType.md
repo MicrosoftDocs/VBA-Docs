@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WdScrollbarType enumeration (Word)
 
-Specifies when scroll bars are available for the specified frame when viewing its frames page in a Web browser.
+Specifies when scroll bars are available for the specified frame when viewing its frames page in a web browser.
 
 
 

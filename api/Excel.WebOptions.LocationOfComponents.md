@@ -19,14 +19,14 @@ Returns or sets the central URL (on the intranet or Web) or path (local or netwo
 
 ## Syntax
 
-_expression_. `LocationOfComponents`
+_expression_.**LocationOfComponents**
 
-_expression_ A variable that represents a [WebOptions](Excel.WebOptions.md) object.
+_expression_ A variable that represents a **[WebOptions](Excel.WebOptions.md)** object.
 
 
 ## Remarks
 
-Office Web components are automatically downloaded with the specified web page if the  **[DownloadComponents](Excel.WebOptions.DownloadComponents.md)** property is set to **True**, the components are not already installed, the path is valid and points to a location that contains the necessary components, and the user has a valid Microsoft Office license.
+Office Web components are automatically downloaded with the specified webpage if the  **[DownloadComponents](Excel.WebOptions.DownloadComponents.md)** property is set to **True**, the components are not already installed, the path is valid and points to a location that contains the necessary components, and the user has a valid Microsoft Office license.
 
 
 ## See also

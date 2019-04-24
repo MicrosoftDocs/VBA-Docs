@@ -9,21 +9,21 @@ localization_priority: Normal
 
 # VisSaveAsWeb Object (Visio Save As Web)
 
-Contains the web page property settings and methods used when a Visio drawing is saved as a web page. 
+Contains the webpage property settings and methods used when a Visio drawing is saved as a webpage. 
 
 
 ## Remarks
 
-The **VisSaveAsWeb** object contains the methods and property settings that are used when a selected Visio drawing is saved as a web page. The web page project includes the following files:
+The **VisSaveAsWeb** object contains the methods and property settings that are used when a selected Visio drawing is saved as a webpage. The webpage project includes the following files:
 
 - An HTML version of the drawing (including shape data, formerly called custom properties, and multiple drawing pages, if applicable).
     
 - The supporting files associated with the project, for example, the graphics files (GIFs and JPGs), script files, data (XML) files, and cascading style sheet (CSS) files.
     
-To set the properties for your web page, use the **[WebPageSettings](Visio.WebPageSettings.md)** property of the **VisSaveAsWeb** object to get a **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object. After the properties are set, perform the following steps.
+To set the properties for your webpage, use the **[WebPageSettings](Visio.WebPageSettings.md)** property of the **VisSaveAsWeb** object to get a **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object. After the properties are set, perform the following steps.
 
 
-1. Call the **[AttachToVisioDoc](Visio.AttachToVisioDoc.md)** method to specify the drawing to be saved as a web page. For example:
+1. Call the **[AttachToVisioDoc](Visio.AttachToVisioDoc.md)** method to specify the drawing to be saved as a webpage. For example:
     
    ```vb
       vsoSaveAsWeb.AttachToVisioDoc _ 
@@ -32,7 +32,7 @@ To set the properties for your web page, use the **[WebPageSettings](Visio.WebPa
    
    If you don't call this method, Visio creates the page from the active document by default.
     
-2. Call the **[CreatePages](Visio.CreatePages.md)** method to create the web page. For example:
+2. Call the **[CreatePages](Visio.CreatePages.md)** method to create the webpage. For example:
     
    ```vb
       vsoSaveAsWeb.CreatePages vsoSaveAsWeb.CreatePages

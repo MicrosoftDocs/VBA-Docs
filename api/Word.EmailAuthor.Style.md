@@ -19,7 +19,7 @@ Returns a  **Style** object that represents the style associated with the curren
 
 ## Syntax
 
-_expression_. `Style`
+_expression_.**Style**
 
 _expression_ Required. A variable that represents an '[EmailAuthor](Word.EmailAuthor.md)' object.
 

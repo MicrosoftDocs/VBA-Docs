@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # DefaultWebOptions object (Word)
 
-Contains global application-level attributes used by Microsoft Word when you open a Web page or save a document as a Web page.
+Contains global application-level attributes used by Microsoft Word when you open a webpage or save a document as a webpage.
 
 
 ## Remarks

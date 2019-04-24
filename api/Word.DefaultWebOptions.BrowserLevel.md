@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # DefaultWebOptions.BrowserLevel property (Word)
 
-Returns or sets a  **WdBrowserLevel** constant that represents the level of the Web browser for which you want to target new Web pages created in Microsoft Word. Read/write.
+Returns or sets a  **WdBrowserLevel** constant that represents the level of the web browser for which you want to target new Web pages created in Microsoft Word. Read/write.
 
 
 ## Syntax
 
 _expression_. `BrowserLevel`
 
-_expression_ Required. A variable that represents a '[DefaultWebOptions](Word.DefaultWebOptions.md)' collection.
+_expression_ Required. A variable that represents a **[DefaultWebOptions](Word.DefaultWebOptions.md)** collection.
 
 
 ## Remarks
@@ -31,7 +31,7 @@ After you set the  **BrowserLevel** property on the **DefaultWebOptions** object
 
 ## Example
 
-This example sets Word to optimize new Web pages for Microsoft Internet Explorer 5 and creates a Web page based on this setting.
+This example sets Word to optimize new Web pages for Microsoft Internet Explorer 5 and creates a webpage based on this setting.
 
 
 ```vb

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebOptions.Encoding property (Publisher)
 
-Returns an  **MsoEncoding** constant that specifies the encoding of the Web publication. Read/write.
+Returns an  **MsoEncoding** constant that specifies the encoding of the web publication. Read/write.
 
 
 ## Syntax
@@ -40,7 +40,7 @@ The  **Encoding** property value can be one of the **[MsoEncoding](Office.MsoEnc
 
 ## Example
 
-The following example tests whether the Web publication is currently set to be saved using default encoding. If so, the  **AlwaysSaveInDefaultEncoding** property is set to **False**, and the  **Encoding** property is used to set the encoding to Unicode (UTF-8).
+The following example tests whether the web publication is currently set to be saved using default encoding. If so, the  **AlwaysSaveInDefaultEncoding** property is set to **False**, and the  **Encoding** property is used to set the encoding to Unicode (UTF-8).
 
 
 ```vb

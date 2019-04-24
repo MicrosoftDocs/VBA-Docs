@@ -26,7 +26,9 @@ _expression_ A variable that represents a **[CellFormat](Excel.CellFormat.md)** 
 
 ## Remarks
 
-This property returns **True** if the formula will be hidden when the worksheet is protected. It returns **Null** if the specified range contains some cells with **FormulaHidden** equal to **True** and some cells with **FormulaHidden** equal to **False**.
+Returns **True** if the formula will be hidden when the worksheet is protected. 
+
+Returns **Null** if the specified range contains some cells with **FormulaHidden** equal to **True** and some cells with **FormulaHidden** equal to **False**.
 
 Don't confuse this property with the **[Hidden](Excel.Range.Hidden.md)** property. The formula will not be hidden if the workbook is protected and the worksheet is not, but only if the worksheet is protected.
 

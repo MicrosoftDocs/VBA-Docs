@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.WebBrowserControlWindow method (Project)
 
-Returns the DOM object for the Microsoft Internet Explorer window loaded in the Web browser control that is hosted within the specified window in Project.
+Returns the DOM object for the Microsoft Internet Explorer window loaded in the web browser control that is hosted within the specified window in Project.
 
 
 ## Syntax

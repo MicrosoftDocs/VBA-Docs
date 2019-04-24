@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape
 ms.assetid: 8f01fcd1-b7d9-5216-2de5-40fb6648a403
-ms.date: 04/02/2019
+ms.date: 04/25/2019
 localization_priority: Normal
 ---
 
@@ -109,6 +109,7 @@ ActiveWindow.Selection.ShapeRange(1).Fill.ForeColor.RGB = _
 - [Fill](Excel.Shape.Fill.md)
 - [FormControlType](Excel.Shape.FormControlType.md)
 - [Glow](Excel.Shape.Glow.md)
+- [GraphicStyle](Excel.Shape.GraphicStyle.md)
 - [GroupItems](Excel.Shape.GroupItems.md)
 - [HasChart](Excel.Shape.HasChart.md)
 - [HasSmartArt](Excel.Shape.HasSmartArt.md)

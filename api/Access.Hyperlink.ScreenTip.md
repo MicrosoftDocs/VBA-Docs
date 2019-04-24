@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Hyperlink](Access.Hyperlink.md)** o
 
 ## Remarks
 
-When you move the cursor over a hyperlink control whose **HyperlinkSubAddress** property is set, Microsoft Access changes the cursor to an upward-pointing hand and displays the text string defined by the **ScreenTip** property. Choosing the control displays the object or web page specified by the link.
+When you move the cursor over a hyperlink control whose **HyperlinkSubAddress** property is set, Microsoft Access changes the cursor to an upward-pointing hand and displays the text string defined by the **ScreenTip** property. Choosing the control displays the object or webpage specified by the link.
 
 For more information about hyperlink addresses and their format, see the **[Hyperlink.Address](Access.Hyperlink.Address.md)** and **[Hyperlink.SubAddress](Access.Hyperlink.SubAddress.md)** property topics.
 

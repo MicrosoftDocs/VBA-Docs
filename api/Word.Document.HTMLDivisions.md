@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.HTMLDivisions property (Word)
 
-Returns an  **[HTMLDivisions](Word.HTMLDivisions.md)** collection that represents the HTML DIV elements in a Web document.
+Returns an  **[HTMLDivisions](Word.HTMLDivisions.md)** collection that represents the HTML DIV elements in a web document.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebOptions.EnableIncrementalUpload property (Publisher)
 
-Returns or sets a  **Boolean** value that specifies whether changes made to a Web publication can be uploaded to a Web server independent of the entire publication. If **True**, only changes made to a publication will be uploaded to the Web server when published. If  **False**, the entire publication will be uploaded to the Web server. The default value is  **True**. Read/write.
+Returns or sets a  **Boolean** value that specifies whether changes made to a web publication can be uploaded to a web server independent of the entire publication. If **True**, only changes made to a publication will be uploaded to the web server when published. If  **False**, the entire publication will be uploaded to the web server. The default value is  **True**. Read/write.
 
 
 ## Syntax
@@ -31,12 +31,12 @@ Boolean
 
 ## Remarks
 
-The  **EnableIncrementalUpload** property applies only to Web publications that have already been published to a Web server. If a Web publication has not already been published to a Web server, the entire publication will be published to the server during the initial publishing process, regardless of whether the **EnableIncrementalUpload** property is set to **True**. If a Web publication has already been published to a Web server and the  **EnableIncrementalUpload** property is then set to **True**, only changes made to the Web publication, and not the entire publication, after this point will be published to the server.
+The  **EnableIncrementalUpload** property applies only to web publications that have already been published to a web server. If a web publication has not already been published to a web server, the entire publication will be published to the server during the initial publishing process, regardless of whether the **EnableIncrementalUpload** property is set to **True**. If a web publication has already been published to a web server and the  **EnableIncrementalUpload** property is then set to **True**, only changes made to the web publication, and not the entire publication, after this point will be published to the server.
 
 
 ## Example
 
-The following example tests whether the Web publication is set to upload only changes made to the publication. If not, the  **EnableIncrementalUpload** property is set to **True** to specify that only changes to the publication be uploaded to the Web server.
+The following example tests whether the web publication is set to upload only changes made to the publication. If not, the  **EnableIncrementalUpload** property is set to **True** to specify that only changes to the publication be uploaded to the web server.
 
 
 ```vb

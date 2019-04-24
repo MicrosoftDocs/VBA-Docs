@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DisplayFormat.MergeCells
 ms.assetid: ae8686ac-8244-dc6a-3f99-6326e090b143
-ms.date: 06/08/2017
+ms.date: 04/25/2019
 localization_priority: Normal
 ---
 

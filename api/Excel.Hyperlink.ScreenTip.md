@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Hyperlink](Excel.Hyperlink.md) object
 
 ## Remarks
 
-After the document has been saved to a web page, the ScreenTip text may appear (for example) when the mouse pointer is positioned over the hyperlink while the document is being viewed in a Web browser. Some Web browsers may not support ScreenTips.
+After the document has been saved to a webpage, the ScreenTip text may appear (for example) when the mouse pointer is positioned over the hyperlink while the document is being viewed in a web browser. Some web browsers may not support ScreenTips.
 
 
 ## Example

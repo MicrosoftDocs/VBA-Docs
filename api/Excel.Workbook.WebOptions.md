@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Workbook.WebOptions property (Excel)
 
-Returns the  **[WebOptions](Excel.WebOptions.md)** collection, which contains workbook-level attributes used by Microsoft Excel when you save a document as a web page or open a web page. Read-only.
+Returns the  **[WebOptions](Excel.WebOptions.md)** collection, which contains workbook-level attributes used by Microsoft Excel when you save a document as a webpage or open a webpage. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Example
 
-This example specifies that cascading style sheets and Western document encoding be used when items in the first workbook are saved to a web page.
+This example specifies that cascading style sheets and Western document encoding be used when items in the first workbook are saved to a webpage.
 
 
 ```vb

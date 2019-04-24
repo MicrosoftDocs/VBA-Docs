@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Range.ID property (Excel)
 
-Returns or sets a  **String** value that represents the identifying label for the specified cell when the page is saved as a web page.
+Returns or sets a  **String** value that represents the identifying label for the specified cell when the page is saved as a webpage.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 ## Remarks
 
-You can use an ID label as a hyperlink reference in other HTML documents or on the same web page.
+You can use an ID label as a hyperlink reference in other HTML documents or on the same webpage.
 
 
 ## Example
@@ -38,7 +38,7 @@ This example sets the ID of cell A1 on the active worksheet to "target".
 ActiveSheet.Range("A1").ID = "target"
 ```
 
-Later, the document is saved as a web page, and the following line of HTML is added to the web page. When the user then views the page in a Web browser and clicks the hyperlink, the browser displays the cell.
+Later, the document is saved as a webpage, and the following line of HTML is added to the webpage. When the user then views the page in a web browser and clicks the hyperlink, the browser displays the cell.
 
 
 

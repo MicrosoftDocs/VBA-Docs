@@ -19,7 +19,7 @@ Returns a  **[TableStyle](PowerPoint.TableStyle.md)** object that contains infor
 
 ## Syntax
 
-_expression_. `Style`
+_expression_.**Style**
 
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 

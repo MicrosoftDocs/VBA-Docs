@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebOptions.AlwaysSaveInDefaultEncoding property (Publisher)
 
-Returns or sets a  **Boolean** value that specifies whether Web pages within a Web publication should always be saved using default encoding. If **True**, Web pages within a publication will always be saved using the default encoding of the client computer. If  **False**, Web pages will not be saved using default encoding. The default value is  **False**. Read/write.
+Returns or sets a  **Boolean** value that specifies whether Web pages within a web publication should always be saved using default encoding. If **True**, Web pages within a publication will always be saved using the default encoding of the client computer. If  **False**, Web pages will not be saved using default encoding. The default value is  **False**. Read/write.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ If the  **AlwaysSaveInDefaultEncoding** property is set to **True** on a given *
 
 ## Example
 
-The following example tests whether the Web publication is currently set to be saved using default encoding. If so, the  **AlwaysSaveInDefaultEncoding** property is set to **False**, and the  **Encoding** property is used to set the encoding to Unicode (UTF-8).
+The following example tests whether the web publication is currently set to be saved using default encoding. If so, the  **AlwaysSaveInDefaultEncoding** property is set to **False**, and the  **Encoding** property is used to set the encoding to Unicode (UTF-8).
 
 
 ```vb

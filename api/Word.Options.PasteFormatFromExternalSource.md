@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Options.PasteFormatFromExternalSource property (Word)
 
-Returns or sets a  **[WdPasteOptions](Word.WdPasteOptions.md)** constant that represents how text is pasted when text is copied from an external source, such as a Web page. Read/write.
+Returns or sets a  **[WdPasteOptions](Word.WdPasteOptions.md)** constant that represents how text is pasted when text is copied from an external source, such as a webpage. Read/write.
 
 
 ## Syntax

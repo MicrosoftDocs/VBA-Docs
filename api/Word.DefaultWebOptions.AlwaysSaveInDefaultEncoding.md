@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # DefaultWebOptions.AlwaysSaveInDefaultEncoding property (Word)
 
- **True** if the default encoding is used when you save a Web page or plain text document, independent of the file's original encoding when opened. Read/write **Boolean**.
+ **True** if the default encoding is used when you save a webpage or plain text document, independent of the file's original encoding when opened. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `AlwaysSaveInDefaultEncoding`
+_expression_.**AlwaysSaveInDefaultEncoding**
 
  _expression_ A variable that represents a '[DefaultWebOptions](Word.DefaultWebOptions.md)' object.
 
@@ -33,7 +33,7 @@ _expression_. `AlwaysSaveInDefaultEncoding`
 
 ## Example
 
-This example sets the encoding to the default encoding. The encoding is used when you save the document as a Web page.
+This example sets the encoding to the default encoding. The encoding is used when you save the document as a webpage.
 
 
 ```vb

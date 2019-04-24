@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Workbook.WebPagePreview method (Excel)
 
-Displays a preview of the specified workbook as it would look if saved as a web page.
+Displays a preview of the specified workbook as it would look if saved as a webpage.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Example
 
-This example displays a preview of the first workbook as a web page.
+This example displays a preview of the first workbook as a webpage.
 
 
 ```vb

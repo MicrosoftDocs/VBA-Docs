@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Range.HTMLDivisions property (Word)
 
-Returns an  **HTMLDivisions** object that represents an HTML division in a Web document.
+Returns an  **HTMLDivisions** object that represents an HTML division in a web document.
 
 
 ## Syntax

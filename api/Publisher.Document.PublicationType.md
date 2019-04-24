@@ -40,7 +40,7 @@ The  **PublicationType** property value can be one of these **PbPublicationType*
 
 ## Example
 
-The following example determines if the active publication is a print publication. If it is, the publication is converted to a Web publication.
+The following example determines if the active publication is a print publication. If it is, the publication is converted to a web publication.
 
 
 ```vb

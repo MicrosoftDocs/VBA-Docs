@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebPageFonts object (Office)
 
-A collection of **[WebPageFont](office.webpagefont.md)** objects that describe the proportional font, proportional font size, fixed-width font, and fixed-width font size used when documents are saved as web pages. You can specify a different set of web page font properties for each available character set.
+A collection of **[WebPageFont](office.webpagefont.md)** objects that describe the proportional font, proportional font size, fixed-width font, and fixed-width font size used when documents are saved as webpages. You can specify a different set of webpage font properties for each available character set.
 
 
 ## Remarks

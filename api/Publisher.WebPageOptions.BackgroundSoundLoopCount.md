@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebPageOptions.BackgroundSoundLoopCount property (Publisher)
 
-Returns a  **Long** value that specifies the number of times the background sound attached to a Web page is played when the page is loaded in a Web browser. Read-only.
+Returns a  **Long** value that specifies the number of times the background sound attached to a webpage is played when the page is loaded in a web browser. Read-only.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Until the  **SetBackgroundSoundRepeat** method is used to change the number of t
 
 ## Example
 
-The following example sets the background sound for page four of the active Web publication to a .wav file on the local computer. If  **BackgroundSoundLoopCount** is less than three, the **SetBackgroundSoundRepeat** method is used to specify that the background sound be repeated three times. The **BackgroundSoundLoopCount** property will now be three.
+The following example sets the background sound for page four of the active web publication to a .wav file on the local computer. If  **BackgroundSoundLoopCount** is less than three, the **SetBackgroundSoundRepeat** method is used to specify that the background sound be repeated three times. The **BackgroundSoundLoopCount** property will now be three.
 
 
 ```vb

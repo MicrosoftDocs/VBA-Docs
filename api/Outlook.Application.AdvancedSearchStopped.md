@@ -34,7 +34,7 @@ _expression_ A variable that represents an [Application](Outlook.Application.md)
 
 ## Remarks
 
-After this event is fired, the  **Search** object?s **[Results](Outlook.Results.md)** collection will no longer be updated. This event can only be triggered programmatically.
+After this event is fired, the  **Search** object's **[Results](Outlook.Results.md)** collection will no longer be updated. This event can only be triggered programmatically.
 
 
 ## Example

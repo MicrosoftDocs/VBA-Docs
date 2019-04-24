@@ -40,7 +40,7 @@ String
 ## Remarks
 
 > [!IMPORTANT]
-> The TRIM function in Excel was designed to trim the 7-bit ASCII space character (value 32) from text. In the Unicode character set, there is an additional space character called the nonbreaking space character that has a decimal value of 160. This character is commonly used in web pages as the HTML entity, **&nbsp;**. By itself, the TRIM function and **WorksheetFunction.Trim** method do not remove this nonbreaking space character.
+> The TRIM function in Excel was designed to trim the 7-bit ASCII space character (value 32) from text. In the Unicode character set, there is an additional space character called the nonbreaking space character that has a decimal value of 160. This character is commonly used in webpages as the HTML entity, **&nbsp;**. By itself, the TRIM function and **WorksheetFunction.Trim** method do not remove this nonbreaking space character.
 
 
 The **WorksheetFunction.Trim** method in Excel differs from the **[Trim](https://msdn.microsoft.com/vba/language-reference-vba/articles/ltrim-rtrim-and-trim-functions)** function in VBA, which removes only leading and trailing spaces.

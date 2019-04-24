@@ -36,7 +36,7 @@ The  **[SetBackgroundSoundRepeat](Publisher.WebPageOptions.SetBackgroundSoundRep
 
 ## Example
 
-The following example sets the background sound for page four of the active Web publication to a .wav file on the local computer. If  **BackgroundSoundLoopForever** is **False**, the  **SetBackgroundSoundRepeat** method is used to specify that the background sound should be repeated infinitely. The **BackgroundSoundLoopForever** property will now be **True**.
+The following example sets the background sound for page four of the active web publication to a .wav file on the local computer. If  **BackgroundSoundLoopForever** is **False**, the  **SetBackgroundSoundRepeat** method is used to specify that the background sound should be repeated infinitely. The **BackgroundSoundLoopForever** property will now be **True**.
 
 
 ```vb

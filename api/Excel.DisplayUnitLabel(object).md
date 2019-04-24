@@ -24,7 +24,7 @@ Unit labels are useful for charting large values—for example, in the millions 
 
 ## Example
 
-Use the **[DisplayUnitLabel](Excel.Axis.DisplayUnitLabel.md)** property of the **Axis** object to return the **DisplayUnitLabel** object. The following example sets the display label caption to "Millions" on the value axis in Chart1, and then it turns off automatic font scaling.
+Use the **[DisplayUnitLabel](Excel.Axis.DisplayUnitLabel.md)** property of the **Axis** object to return the **DisplayUnitLabel** object. The following example sets the display label caption to Millions on the value axis in Chart1, and then it turns off automatic font scaling.
 
 ```vb
 With Charts("Chart1").Axes(xlValue) 

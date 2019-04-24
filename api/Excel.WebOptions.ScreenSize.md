@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # WebOptions.ScreenSize property (Excel)
 
-Returns or sets the ideal minimum screen size (width by height, in pixels) that you should use when viewing the saved document in a Web browser. Can be one of the  **[MsoScreenSize](Office.MsoScreenSize.md)** constants. The default constant is **msoScreenSize800x600**. Read/write **MsoScreenSize**.
+Returns or sets the ideal minimum screen size (width by height, in pixels) that you should use when viewing the saved document in a web browser. Can be one of the  **[MsoScreenSize](Office.MsoScreenSize.md)** constants. The default constant is **msoScreenSize800x600**. Read/write **MsoScreenSize**.
 
 
 ## Syntax
 
-_expression_. `ScreenSize`
+_expression_.**ScreenSize**
 
-_expression_ A variable that represents a [WebOptions](Excel.WebOptions.md) object.
+_expression_ A variable that represents a **[WebOptions](Excel.WebOptions.md)** object.
 
 
 ## See also

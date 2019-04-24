@@ -33,9 +33,9 @@ Boolean
 
 This property can increase your message's compatibility with older email clients, but may result in larger file size.
 
-This property is accessible for print publications in addition to Web publications.
+This property is accessible for print publications in addition to web publications.
 
-The properties of the  **[WebOptions](Publisher.WebOptions.md)** object are used to specify the behavior of Web publications. This means that when any of these properties are modified, newly created Web publications will inherit the modified properties.
+The properties of the  **[WebOptions](Publisher.WebOptions.md)** object are used to specify the behavior of web publications. This means that when any of these properties are modified, newly created web publications will inherit the modified properties.
 
 This property corresponds to the check box in the  **E-Mail Options** section of the **Web** tab of the **Options** dialog box.
 

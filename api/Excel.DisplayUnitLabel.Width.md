@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DisplayUnitLabel.Width
 ms.assetid: 092eb5e0-2f9f-9ea2-2fb0-759a781b771b
-ms.date: 06/08/2017
+ms.date: 04/25/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns the width, in [points](../language/glossary/vbe-glossary.md#point), of t
 
 _expression_.**Width**
 
-_expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLabel-graph-property.md) object.
+_expression_ A variable that represents a **[DisplayUnitLabel](excel.displayunitlabel(object).md)** object.
 
 
 ## Return value
@@ -29,9 +29,5 @@ _expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLa
 Double
 
 
-## See also
-
-
-[DisplayUnitLabel Object](Excel.DisplayUnitLabel(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

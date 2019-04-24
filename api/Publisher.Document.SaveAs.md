@@ -71,7 +71,7 @@ This example saves the active publication as Test.rtf in Rich Text Format (RTF).
 ActiveDocument.SaveAs FileName:="Test.rtf", Format:=pbFileRTF
 ```
 
-This example saves the active Web publication as a set of filtered HTML pages and supporting files. Note that the .htm extension is automatically added to the value of the Filename parameter if the value of the Format parameter is  **pbFileHTMLFiltered**.
+This example saves the active web publication as a set of filtered HTML pages and supporting files. Note that the .htm extension is automatically added to the value of the Filename parameter if the value of the Format parameter is  **pbFileHTMLFiltered**.
 
 
 

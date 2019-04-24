@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebOptions object (Word)
 
-Contains document-level attributes used by Microsoft Word when you save a document as a Web page or open a Web page.
+Contains document-level attributes used by Microsoft Word when you save a document as a webpage or open a webpage.
 
 
 ## Remarks

@@ -19,7 +19,7 @@ Represents one of the workflows available for the current document.
 
 ## Remarks
 
-A **WorkflowTemplate** object corresponds to one of the options displayed in the **Start New Workflow** dialog box. On a web page, the workflow templates are displayed as a list of options.
+A **WorkflowTemplate** object corresponds to one of the options displayed in the **Start New Workflow** dialog box. On a webpage, the workflow templates are displayed as a list of options.
 
 
 ## Example

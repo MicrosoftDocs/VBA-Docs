@@ -58,7 +58,7 @@ Sub WebOpen_Hyperlink()
  SelectRow Row:=2, RowRelative:=False 
  InsertHyperlink Name:="https://MSDN/", Address:="https://msdn.microsoft.com/", SubAddress:="", ScreenTip:="" 
  
- 'Open the web page 
+ 'Open the webpage 
  WebOpenHyperlink Address:="https://msdn.microsoft.com/", SubAddress:="" 
 End Sub
 ```

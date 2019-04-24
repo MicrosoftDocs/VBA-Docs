@@ -14,21 +14,21 @@ localization_priority: Normal
 
 # WebOptions.PixelsPerInch property (Excel)
 
-Returns or sets the density (pixels per inch) of graphics images and table cells on a web page. The range of settings is usually from 19 to 480, and common settings for popular screen sizes are 72, 96, and 120. The default setting is 96. Read/write  **Long**.
+Returns or sets the density (pixels per inch) of graphics images and table cells on a webpage. The range of settings is usually from 19 to 480, and common settings for popular screen sizes are 72, 96, and 120. The default setting is 96. Read/write  **Long**.
 
 
 ## Syntax
 
-_expression_. `PixelsPerInch`
+_expression_.**PixelsPerInch**
 
-_expression_ A variable that represents a [WebOptions](Excel.WebOptions.md) object.
+_expression_ A variable that represents a **[WebOptions](Excel.WebOptions.md)** object.
 
 
 ## Remarks
 
-This property determines the size of the images and cells on the specified web page relative to the size of text whenever you view the saved document in a Web browser. The physical dimensions of the resulting image or cell are the result of the original dimensions (in inches) multiplied by the number of pixels per inch.
+This property determines the size of the images and cells on the specified webpage relative to the size of text whenever you view the saved document in a web browser. The physical dimensions of the resulting image or cell are the result of the original dimensions (in inches) multiplied by the number of pixels per inch.
 
-You use the  **[ScreenSize](Excel.WebOptions.ScreenSize.md)** property to set the optimum screen size for the targeted Web browsers.
+You use the  **[ScreenSize](Excel.WebOptions.ScreenSize.md)** property to set the optimum screen size for the targeted web browsers.
 
 
 ## Example

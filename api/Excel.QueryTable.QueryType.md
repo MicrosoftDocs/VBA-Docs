@@ -31,23 +31,23 @@ _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) obje
 | **xlQueryType** can be one of these **xlQueryType** constants.|
 | **xlTextImport**. Based on a text file, for query tables only|
 | **xlOLEDBQuery**. Based on an OLE DB query, including OLAP data sources|
-| **xlWebQuery**. Based on a web page, for query tables only|
+| **xlWebQuery**. Based on a webpage, for query tables only|
 | **xlADORecordset**. Based on an ADO recordset query|
 | **xlDAORecordSet**. Based on a DAO recordset query, for query tables only|
 | **xlODBCQuery**. Based on an ODBC data source|
 
 You specify the data source in the prefix for the  **[Connection](Excel.QueryTable.Connection.md)** property's value.
 
-If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
+If you import data using the user interface, data from a web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
+If you import data using the object model, data from a web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 You can use the  **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **QueryType** property.
 
 
 ## Example
 
-This example refreshes the first query table on the first worksheet if the table is based on a web page.
+This example refreshes the first query table on the first worksheet if the table is based on a webpage.
 
 
 ```vb

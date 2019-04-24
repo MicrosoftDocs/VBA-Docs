@@ -19,12 +19,12 @@ A collection of all **[PublishObject](Excel.PublishObject.md)** objects in the w
 
 ## Remarks
 
-Each **PublishObject** object represents an item in a workbook that has been saved to a web page and can be refreshed according to values specified by the properties and methods of the object.
+Each **PublishObject** object represents an item in a workbook that has been saved to a webpage and can be refreshed according to values specified by the properties and methods of the object.
 
 
 ## Example
 
-Use the **[PublishObjects](Excel.Workbook.PublishObjects.md)** property of the **Workbook** object to return the **PublishObjects** collection. The following example saves all static **PublishObject** objects in the active workbook to the web page.
+Use the **[PublishObjects](Excel.Workbook.PublishObjects.md)** property of the **Workbook** object to return the **PublishObjects** collection. The following example saves all static **PublishObject** objects in the active workbook to the webpage.
 
 ```vb
 Set objPObjs = ActiveWorkbook.PublishObjects 

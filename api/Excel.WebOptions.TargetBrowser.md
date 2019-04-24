@@ -19,9 +19,9 @@ Returns or sets an  **[MsoTargetBrowser](Office.MsoTargetBrowser.md)** constant 
 
 ## Syntax
 
-_expression_. `TargetBrowser`
+_expression_.**TargetBrowser**
 
-_expression_ A variable that represents a [WebOptions](Excel.WebOptions.md) object.
+_expression_ A variable that represents a **[WebOptions](Excel.WebOptions.md)** object.
 
 
 ## Remarks

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [PublishObject](Excel.PublishObject.md
 
 ## Example
 
-This example publishes a range on a worksheet to an HTML file on the C: drive. When the user saves the workbook containing the worksheet, Excel will automatically republish the range to the same HTML file. This example assumes that the user has read/write access to the web page and that cells A1 through D10 in the worksheet have values in them.
+This example publishes a range on a worksheet to an HTML file on the C: drive. When the user saves the workbook containing the worksheet, Excel will automatically republish the range to the same HTML file. This example assumes that the user has read/write access to the webpage and that cells A1 through D10 in the worksheet have values in them.
 
 
 ```vb

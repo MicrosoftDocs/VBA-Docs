@@ -30,7 +30,7 @@ The **SubAddress** property can be an object within a Microsoft Access database,
 
 The **SubAddress** property represents the **HyperlinkSubAddress** property of a named location within the target document specified by the **HyperlinkAddress** property.
 
-When you move the cursor over a command button, image control, or label control whose **HyperlinkSubAddress** property is set, the cursor changes to an upward-pointing hand. Clicking the control displays the object or web page specified by the link.
+When you move the cursor over a command button, image control, or label control whose **HyperlinkSubAddress** property is set, the cursor changes to an upward-pointing hand. Clicking the control displays the object or webpage specified by the link.
 
 For more information about hyperlink addresses and their format, see the **[Hyperlink.Address](Access.Hyperlink.Address.md)** property topic.
 

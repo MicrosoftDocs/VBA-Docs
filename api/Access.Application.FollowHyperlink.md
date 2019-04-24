@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.FollowHyperlink method (Access)
 
-The **FollowHyperlink** method opens the document or web page specified by a hyperlink address.
+The **FollowHyperlink** method opens the document or webpage specified by a hyperlink address.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # VisSaveAsWeb.AttachToVisioDoc Method (Visio Save As Web)
 
-Indicates which document to save as a Web page.
+Indicates which document to save as a webpage.
 
 
 ## Syntax
@@ -43,7 +43,7 @@ The  **AttachToVisioDoc** method queries the **IUnknown** interface for the pres
 
 ## Example
 
-The following example shows how to open an existing file and save it as a Web page by using the Save as Web Page feature's default settings and the  **AttachToVisioDoc** and **[CreatePages](Visio.CreatePages.md)** methods. Before running this example, replace _path\filename_ with a valid path and file name for a Visio document to pass to the **Open** method. In addition, replace _targetpath\filename_ with a valid target path and a file name for the Web page project files.
+The following example shows how to open an existing file and save it as a webpage by using the Save as Web Page feature's default settings and the  **AttachToVisioDoc** and **[CreatePages](Visio.CreatePages.md)** methods. Before running this example, replace _path\filename_ with a valid path and file name for a Visio document to pass to the **Open** method. In addition, replace _targetpath\filename_ with a valid target path and a file name for the Web page project files.
 
 
 ```vb

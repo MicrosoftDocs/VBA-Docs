@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # WebOptions.OptimizeForBrowser property (Word)
 
- **True** if Word optimizes the specified Web page for the Web browser specified by the **[BrowserLevel](Word.WebOptions.BrowserLevel.md)** property. Read/write **Boolean**.
+ **True** if Word optimizes the specified Web page for the web browser specified by the **[BrowserLevel](Word.WebOptions.BrowserLevel.md)** property. Read/write **Boolean**.
 
 
 ## Syntax
 
 _expression_. `OptimizeForBrowser`
 
-_expression_ Required. A variable that represents a '[WebOptions](Word.WebOptions.md)' collection.
+_expression_ Required. A variable that represents a **[WebOptions](Word.WebOptions.md)** collection.
 
 
 ## Example

@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # VISWEB_DISP_RES Enumeration (Visio Save as Web)
 
-Specifies the screen resolution for a Web page.
+Specifies the screen resolution for a webpage.
 
 
 

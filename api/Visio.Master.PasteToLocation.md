@@ -30,8 +30,8 @@ _expression_. `PasteToLocation`( `_xPos_` , `_yPos_` , `_Flags_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _xPos_|Required| **Double**|The x-coordinate at which to place the center of the object?s width or PinX, in inches.|
-| _yPos_|Required| **Double**|The y-coordinate at which to place the center of the object?s height or PinY, in inches.|
+| _xPos_|Required| **Double**|The x-coordinate at which to place the center of the object's width or PinX, in inches.|
+| _yPos_|Required| **Double**|The y-coordinate at which to place the center of the object's height or PinY, in inches.|
 | _Flags_|Required| **Long**|The default is zero.|
 
 ## Return value

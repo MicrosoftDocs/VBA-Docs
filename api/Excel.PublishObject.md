@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PublishObject object (Excel)
 
-Represents an item in a workbook that has been saved to a web page and can be refreshed according to values specified by the properties and methods of the **PublishObject** object.
+Represents an item in a workbook that has been saved to a webpage and can be refreshed according to values specified by the properties and methods of the **PublishObject** object.
 
 
 ## Remarks

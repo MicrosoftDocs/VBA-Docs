@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # HTMLDivision.HTMLDivisions property (Word)
 
-Returns an  **[HTMLDivisions](Word.HTMLDivisions.md)** object that represents an HTML division in a Web document.
+Returns an  **[HTMLDivisions](Word.HTMLDivisions.md)** object that represents an HTML division in a web document.
 
 
 ## Syntax

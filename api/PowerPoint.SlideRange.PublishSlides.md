@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SlideRange.PublishSlides method (PowerPoint)
 
-Creates a Web presentation (in HTML format) from any loaded presentation. You can view the published presentation in a Web browser.
+Creates a Web presentation (in HTML format) from any loaded presentation. You can view the published presentation in a web browser.
 
 
 ## Syntax

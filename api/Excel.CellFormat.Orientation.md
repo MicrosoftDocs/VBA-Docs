@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[CellFormat](Excel.CellFormat.md)** 
 
 ## Remarks
 
-The value of this property can be set to an integer value from -90 to 90 degrees or to one of the **[XlOrientation](Excel.xlorientation.md)** constants.
+The value of this property can be set to an integer value from -90 to 90 degrees or to one of the **[XlOrientation](Excel.XlOrientation.md)** constants.
 
 
 

@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object
 
 ## Remarks
 
-If you use a string, you will get a string as the separator. If you use **xlDataLabelSeparatorDefault** (= 1) (see the **[XlDataLabelSeparator](excel.xldatalabelseparator.md)** enumeration), you will get the default data label separator, which is either a comma or a newline, depending on the data label.
+If you use a string, you will get a string as the separator. If you use **xlDataLabelSeparatorDefault** (= 1) (**[XlDataLabelSeparator](excel.xldatalabelseparator.md)** enumeration), you will get the default data label separator, which is either a comma or a newline, depending on the data label.
 
 When a value of "1" is returned, it indicates that the user has not changed the default separator, which is a comma ",". You can also pass a value of "1" to change the separator back to the default separator.
 

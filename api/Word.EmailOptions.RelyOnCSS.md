@@ -14,21 +14,21 @@ localization_priority: Normal
 
 # EmailOptions.RelyOnCSS property (Word)
 
- **True** if cascading style sheets (CSS) are used for font formatting when you view a saved document in a Web browser. Read/write **Boolean**.
+ **True** if cascading style sheets (CSS) are used for font formatting when you view a saved document in a web browser. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `RelyOnCSS`
+_expression_.**RelyOnCSS**
 
 _expression_ Required. A variable that represents an '[EmailOptions](Word.EmailOptions.md)' collection.
 
 
 ## Remarks
 
-Microsoft Word creates a cascading style sheet file and saves it either to the specified folder or to the same folder as your Web page, depending on the value of the  **OrganizeInFolder** property of the **[WebOptions](Word.WebOptions.md)** or **[DefaultWebOptions](Word.DefaultWebOptions.md)** object. This property returns **False** if HTML <FONT> tags and cascading style sheets are used. The default value is **True**.
+Microsoft Word creates a cascading style sheet file and saves it either to the specified folder or to the same folder as your Web page, depending on the value of the  **OrganizeInFolder** property of the **[WebOptions](Word.WebOptions.md)** or **[DefaultWebOptions](Word.DefaultWebOptions.md)** object. This property returns **False** if HTML `<FONT>` tags and cascading style sheets are used. The default value is **True**.
 
-You should set this property to  **True** if your Web browser supports cascading style sheets because this will give you more precise layout and formatting control on your Web page and make it look more like your document (as it appears in Microsoft Word).
+You should set this property to  **True** if your web browser supports cascading style sheets because this will give you more precise layout and formatting control on your Web page and make it look more like your document (as it appears in Microsoft Word).
 
 
 ## Example

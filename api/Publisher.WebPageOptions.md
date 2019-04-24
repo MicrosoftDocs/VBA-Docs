@@ -14,20 +14,20 @@ localization_priority: Normal
 
 # WebPageOptions object (Publisher)
 
-Represents the properties of a single Web page within a Web publication, including options for adding the title and description of the page, background sounds, in addition to other options. The  **WebPageOptions** object is a member of the **[Page](Publisher.Page.md)** object.
+Represents the properties of a single Web page within a web publication, including options for adding the title and description of the page, background sounds, in addition to other options. The  **WebPageOptions** object is a member of the **[Page](Publisher.Page.md)** object.
  
 
 
 ## Remarks
 
-Note that the  **WebPageOptions** object is only available when the active publication is a Web publication. A run-time error is returned if trying to access this object from a print publication.
+Note that the  **WebPageOptions** object is only available when the active publication is a web publication. A run-time error is returned if trying to access this object from a print publication.
  
 
  
 
 ## Example
 
-Use the  **[WebPageOptions](Publisher.Page.WebPageOptions.md)** property on the **Page** object to return a **WebPageOptions** object. Use the **[Description](Publisher.WebPageOptions.Description.md)** property to set the description of a specified Web page. The following example sets the description for the second page of the active Web publication.
+Use the  **[WebPageOptions](Publisher.Page.WebPageOptions.md)** property on the **Page** object to return a **WebPageOptions** object. Use the **[Description](Publisher.WebPageOptions.Description.md)** property to set the description of a specified Web page. The following example sets the description for the second page of the active web publication.
  
 
  

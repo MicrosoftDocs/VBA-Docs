@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.AlternativeText property (Publisher)
 
-Returns or sets a  **String** representing the text displayed by a Web browser in place of the **Shape** object while the **Shape** object is being downloaded or when graphics are turned off. Read/write.
+Returns or sets a  **String** representing the text displayed by a web browser in place of the **Shape** object while the **Shape** object is being downloaded or when graphics are turned off. Read/write.
 
 
 ## Syntax

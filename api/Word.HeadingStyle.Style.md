@@ -19,7 +19,7 @@ Returns or sets the style for a heading. Read/write  **Variant**.
 
 ## Syntax
 
-_expression_. `Style`
+_expression_.**Style**
 
 _expression_ Required. A variable that represents a '[HeadingStyle](Word.HeadingStyle.md)' object.
 
