@@ -6,21 +6,21 @@ f1_keywords:
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.GraphicStyle
-ms.date: 04/22/2019
+ms.date: 04/25/2019
 localization_priority: Normal
 ---
 
 
 # ShapeRange.GraphicStyle property (PowerPoint)
 
-Returns or sets an  **[MsoGraphicStyleIndex](Office.MsoGraphicStyleIndex.md)** that represents the style of a shape range containing one or more SVG graphic(s). Read/write.
+Returns or sets an **[MsoGraphicStyleIndex](Office.MsoGraphicStyleIndex.md)** constant that represents the style of a shape range containing one or more SVG graphics. Read/write.
 
 
 ## Syntax
 
-_expression_. `GraphicStyle`
+_expression_.**GraphicStyle**
 
- _expression_ An expression that returns a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

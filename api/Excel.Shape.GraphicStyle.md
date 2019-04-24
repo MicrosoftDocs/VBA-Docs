@@ -6,21 +6,35 @@ f1_keywords:
 ms.prod: excel
 api_name:
 - Excel.Shape.GraphicStyle
-ms.date: 06/08/2017
+ms.date: 04/25/2019
 localization_priority: Normal
 ---
 
 
 # Shape.GraphicStyle property (Excel)
 
-Returns or sets an  **[MsoGraphicStyleIndex](Office.MsoGraphicStyleIndex.md)** that represents the style of an SVG graphic. Read/write.
+Returns or sets an **[MsoGraphicStyleIndex](Office.MsoGraphicStyleIndex.md)** constant that represents the style of an SVG graphic. Read/write.
 
 
 ## Syntax
 
-_expression_. `GraphicStyle`
+_expression_.**GraphicStyle**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object containing an SVG graphic.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
+
+
+## Example
+
+The following code example changes the graphic style for the first shape in the active document.
+
+```vb
+Dim myShape As Shape 
+ 
+Set myShape = ActiveDocument.Shapes(1) 
+ 
+myShape.GraphicStyle = msoGraphicStylePreset22
+```
+
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
