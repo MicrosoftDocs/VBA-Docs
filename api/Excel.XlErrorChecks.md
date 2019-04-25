@@ -11,9 +11,9 @@ localization_priority: Normal
 
 # XlErrorChecks enumeration (Excel)
 
-Specifies the type of error object to be retrieved from the  **Errors** collection.
+Specifies the type of error object to be retrieved from the **Errors** collection.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

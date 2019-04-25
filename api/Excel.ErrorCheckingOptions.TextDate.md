@@ -7,27 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.ErrorCheckingOptions.TextDate
 ms.assetid: eb251a44-4dac-01e5-1d01-b4e8bd71e8e2
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
 
 # ErrorCheckingOptions.TextDate property (Excel)
 
-When set to  **True** (default), Microsoft Excel identifies, with an **AutoCorrect Options** button, cells that contain a text date with a two-digit year. **False** disables error checking for cells containing a text date with a two-digit year. Read/write **Boolean**.
+When set to **True** (default), Microsoft Excel identifies, with an **AutoCorrect Options** button, cells that contain a text date with a two-digit year. **False** disables error checking for cells containing a text date with a two-digit year. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `TextDate`
+_expression_.**TextDate**
 
-_expression_ A variable that represents an [ErrorCheckingOptions](Excel.ErrorCheckingOptions.md) object.
+_expression_ A variable that represents an **[ErrorCheckingOptions](Excel.ErrorCheckingOptions.md)** object.
 
 
 ## Example
 
-In the following example, the AutoCorrect Options button appears for cell A1, which contains a text date with a two-digit year.
-
+In the following example, the **AutoCorrect Options** button appears for cell A1, which contains a text date with a two-digit year.
 
 ```vb
 Sub CheckTextDate() 
@@ -40,9 +39,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[ErrorCheckingOptions Object](Excel.ErrorCheckingOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

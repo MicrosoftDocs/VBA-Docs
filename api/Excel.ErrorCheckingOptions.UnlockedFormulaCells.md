@@ -7,27 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.ErrorCheckingOptions.UnlockedFormulaCells
 ms.assetid: 0b7c038d-41d8-aeb8-3e15-3105d6e65c02
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
 
 # ErrorCheckingOptions.UnlockedFormulaCells property (Excel)
 
-When set to  **True** (default), Microsoft Excel identifies selected cells that are unlocked and contain a formula. **False** disables error checking for unlocked cells that contain formulas. Read/write **Boolean**.
+When set to **True** (default), Microsoft Excel identifies selected cells that are unlocked and contain a formula. **False** disables error checking for unlocked cells that contain formulas. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `UnlockedFormulaCells`
+_expression_.**UnlockedFormulaCells**
 
-_expression_ A variable that represents an [ErrorCheckingOptions](Excel.ErrorCheckingOptions.md) object.
+_expression_ A variable that represents an **[ErrorCheckingOptions](Excel.ErrorCheckingOptions.md)** object.
 
 
 ## Example
 
-In the following example, the  **AutoCorrect Options** button appears for cell A3, an unlocked cell containing a formula.
-
+In the following example, the **AutoCorrect Options** button appears for cell A3, which is an unlocked cell containing a formula.
 
 ```vb
 Sub CheckUnlockedCell() 
@@ -42,9 +41,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[ErrorCheckingOptions Object](Excel.ErrorCheckingOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

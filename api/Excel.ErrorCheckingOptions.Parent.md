@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ErrorCheckingOptions.Parent
 ms.assetid: 604897be-baec-313a-dbda-8b2a107ce4d6
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents an [ErrorCheckingOptions](Excel.ErrorCheckingOptions.md) object.
+_expression_ A variable that represents an **[ErrorCheckingOptions](Excel.ErrorCheckingOptions.md)** object.
 
 
-## See also
 
-
-[ErrorCheckingOptions Object](Excel.ErrorCheckingOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

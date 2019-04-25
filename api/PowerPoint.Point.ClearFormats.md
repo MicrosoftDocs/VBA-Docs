@@ -16,7 +16,7 @@ Clears the formatting of the object.
 
 ## Syntax
 
-_expression_. `ClearFormats`
+_expression_.**ClearFormats**
 
  _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 

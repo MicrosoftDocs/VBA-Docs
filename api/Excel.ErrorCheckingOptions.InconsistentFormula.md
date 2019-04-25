@@ -7,32 +7,31 @@ ms.prod: excel
 api_name:
 - Excel.ErrorCheckingOptions.InconsistentFormula
 ms.assetid: 84e482f8-9995-eb26-c4c2-8b258ac1ef9c
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
 
 # ErrorCheckingOptions.InconsistentFormula property (Excel)
 
-When set to  **True** (default), Microsoft Excel identifies cells containing an inconsistent formula in a region. **False** disables the inconsistent formula check. Read/write **Boolean**.
+When set to **True** (default), Microsoft Excel identifies cells containing an inconsistent formula in a region. **False** disables the inconsistent formula check. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `InconsistentFormula`
+_expression_.**InconsistentFormula**
 
-_expression_ A variable that represents an [ErrorCheckingOptions](Excel.ErrorCheckingOptions.md) object.
+_expression_ A variable that represents an **[ErrorCheckingOptions](Excel.ErrorCheckingOptions.md)** object.
 
 
 ## Remarks
 
-Consistent formulas in the region must reside to the left and right or above and below the cell containing the inconsistent formula for the  **InconsistentFormula** property to work properly.
+Consistent formulas in the region must reside to the left and right or above and below the cell containing the inconsistent formula for the **InconsistentFormula** property to work properly.
 
 
 ## Example
 
-In the following example, when the user selects cell B4 (which contains an inconsistent formula), the  **AutoCorrect Options** button appears.
-
+In the following example, when the user selects cell B4 (which contains an inconsistent formula), the **AutoCorrect Options** button appears.
 
 ```vb
 Sub CheckFormula() 
@@ -51,9 +50,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[ErrorCheckingOptions Object](Excel.ErrorCheckingOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
