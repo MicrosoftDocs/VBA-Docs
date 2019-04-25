@@ -7,26 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.FileExportConverters.Application
 ms.assetid: 5f8343b4-40d8-1129-237f-e778ef68cc20
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
 
 # FileExportConverters.Application property (Excel)
 
-Returns an  **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. Read-only.
+Returns an **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. Read-only.
 
 
 ## Syntax
 
 _expression_.**Application**
 
-_expression_ A variable that represents a '[FileExportConverters](Excel.FileExportConverters.md)' collection.
+_expression_ A variable that represents a **[FileExportConverters](Excel.FileExportConverters.md)** object.
 
 
-## See also
 
-
-[FileExportConverters Collection](Excel.FileExportConverters.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

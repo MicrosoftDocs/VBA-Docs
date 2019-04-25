@@ -19,7 +19,7 @@ Gets or sets the description of the individual entry. Read/write  **String**.
 
 ## Syntax
 
-_expression_. `Description`
+_expression_.**Description**
 
  _expression_ A variable that represents a [LookupTableEntry](./Project.LookupTableEntry.md) object.
 
