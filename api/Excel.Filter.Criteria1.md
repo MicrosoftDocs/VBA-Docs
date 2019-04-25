@@ -7,27 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.Filter.Criteria1
 ms.assetid: c1414fe3-92fd-e5cd-c60b-64e00cdf4973
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
 
 # Filter.Criteria1 property (Excel)
 
-Returns the first filtered value for the specified column in a filtered range. Read-only  **Variant**.
+Returns the first filtered value for the specified column in a filtered range. Read-only **Variant**.
 
 
 ## Syntax
 
-_expression_. `Criteria1`
+_expression_.**Criteria1**
 
-_expression_ A variable that represents a [Filter](Excel.Filter.md) object.
+_expression_ A variable that represents a **[Filter](Excel.Filter.md)** object.
 
 
 ## Example
 
-The following example sets a variable to the value of the  **Criteria1** property of the filter for the first column in the filtered range on the Crew worksheet.
-
+The following example sets a variable to the value of the **Criteria1** property of the filter for the first column in the filtered range on the Crew worksheet.
 
 ```vb
 With Worksheets("Crew") 
@@ -40,9 +39,6 @@ End With
 ```
 
 
-## See also
 
-
-[Filter Object](Excel.Filter.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,7 +19,7 @@ Returns or sets a  **Long** value that represents the size (in points) of the fo
 
 ## Syntax
 
-_expression_. `Size`
+_expression_.**Size**
 
 _expression_ A variable that represents a [ViewFont](Outlook.ViewFont.md) object.
 

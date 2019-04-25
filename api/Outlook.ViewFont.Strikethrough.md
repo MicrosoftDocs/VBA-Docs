@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** value that indicates if the font is struck throug
 
 ## Syntax
 
-_expression_. `Strikethrough`
+_expression_.**Strikethrough**
 
 _expression_ A variable that represents a [ViewFont](Outlook.ViewFont.md) object.
 

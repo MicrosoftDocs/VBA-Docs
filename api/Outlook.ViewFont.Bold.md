@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** value that indicates if the font is bold in the *
 
 ## Syntax
 
-_expression_. `Bold`
+_expression_.**Bold**
 
 _expression_ A variable that represents a [ViewFont](Outlook.ViewFont.md) object.
 

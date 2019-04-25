@@ -19,7 +19,7 @@ Returns or sets a  **[XlChartPictureType](Excel.XlChartPictureType.md)** value t
 
 ## Syntax
 
-_expression_. `PictureType`
+_expression_.**PictureType**
 
 _expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
 

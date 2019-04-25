@@ -19,7 +19,7 @@ Returns or sets the thickness of the floor. Read/write  **Long**.
 
 ## Syntax
 
-_expression_. `Thickness`
+_expression_.**Thickness**
 
  _expression_ A variable that represents a '[Floor](Word.Floor.md)' object.
 

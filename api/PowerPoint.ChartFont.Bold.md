@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `Bold`
+_expression_.**Bold**
 
 _expression_ A variable that represents a '[ChartFont](PowerPoint.ChartFont.md)' object.
 

@@ -7,27 +7,28 @@ ms.prod: excel
 api_name:
 - Excel.Floor.Application
 ms.assetid: a700b313-c760-5626-aecf-2e06d6904152
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
 
 # Floor.Application property (Excel)
 
-When used without an object qualifier, this property returns an  **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object (you can use this property with an OLE Automation object to return the application of that object). Read-only.
+When used without an object qualifier, this property returns an **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. 
+
+When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object (you can use this property with an OLE Automation object to return the application of that object). Read-only.
 
 
 ## Syntax
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [Floor](Excel.Floor-graph-property.md) object.
+_expression_ A variable that represents a **[Floor](excel.floor(object).md)** object.
 
 
 ## Example
 
 This example displays a message about the application that created _myObject_.
-
 
 ```vb
 Set myObject = ActiveWorkbook 
@@ -39,9 +40,6 @@ End If
 ```
 
 
-## See also
 
-
-[Floor Object](Excel.Floor(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

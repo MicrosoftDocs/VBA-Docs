@@ -7,26 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.Filter.Operator
 ms.assetid: 98f56294-f36b-3766-5a4c-b416f2f85399
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
 
 # Filter.Operator property (Excel)
 
-Returns an  **[XlAutoFilterOperator](Excel.XlAutoFilterOperator.md)** value that represents the operator that associates the two criteria applied by the specified filter.
+Returns an **[XlAutoFilterOperator](Excel.XlAutoFilterOperator.md)** value that represents the operator that associates the two criteria applied by the specified filter.
 
 
 ## Syntax
 
-_expression_. `Operator`
+_expression_.**Operator**
 
-_expression_ A variable that represents a [Filter](Excel.Filter.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[Filter](Excel.Filter.md)** object.
 
 
-[Filter Object](Excel.Filter.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

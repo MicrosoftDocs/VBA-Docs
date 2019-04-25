@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Floor.Parent
 ms.assetid: f9bd1657-b572-fda5-34d4-50366321c478
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [Floor](Excel.Floor-graph-property.md) object.
+_expression_ A variable that represents a **[Floor](excel.floor(object).md)** object.
 
 
-## See also
 
-
-[Floor Object](Excel.Floor(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

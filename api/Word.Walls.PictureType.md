@@ -14,24 +14,20 @@ localization_priority: Normal
 
 # Walls.PictureType property (Word)
 
-Returns or sets a value that specifies how pictures are displayed on the walls and faces of a 3D chart. Read/write  **Variant**.
+Returns or sets a value that specifies how pictures are displayed on the walls and faces of a 3D chart. Read/write **Variant**.
 
 
 ## Syntax
 
-_expression_. `PictureType`
+_expression_.**PictureType**
 
- _expression_ A variable that represents a '[Walls](Word.Walls.md)' object.
+_expression_ A variable that represents a '[Walls](Word.Walls.md)' object.
 
 
 ## Remarks
 
-You can set this property to one of the following  **[XlChartPictureType](Word.xlchartpicturetype.md)** constants: **xlStack** or **xlStretch**.
+You can set this property to one of the following **[XlChartPictureType](Word.xlchartpicturetype.md)** constants: **xlStack** or **xlStretch**.
 
 
-## See also
-
-
-[Walls Object](Word.Walls.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

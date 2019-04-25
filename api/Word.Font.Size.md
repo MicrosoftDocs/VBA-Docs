@@ -19,7 +19,7 @@ Returns or sets the font size, in points. Read/write  **Single**.
 
 ## Syntax
 
-_expression_. `Size`
+_expression_.**Size**
 
 _expression_ Required. A variable that represents a '[Font](Word.Font.md)' object.
 

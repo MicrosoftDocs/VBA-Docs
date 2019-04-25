@@ -16,7 +16,7 @@ Returns or sets the thickness of the wall. Read/write  **Long**.
 
 ## Syntax
 
-_expression_. `Thickness`
+_expression_.**Thickness**
 
  _expression_ A variable that represents a '[Walls](PowerPoint.Walls.md)' object.
 

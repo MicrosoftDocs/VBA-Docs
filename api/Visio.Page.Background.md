@@ -19,7 +19,7 @@ Determines whether a page is a background page. Read/write.
 
 ## Syntax
 
-_expression_. `Background`
+_expression_.**Background**
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
