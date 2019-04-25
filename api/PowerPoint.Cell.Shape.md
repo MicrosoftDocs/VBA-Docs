@@ -19,7 +19,7 @@ Returns a  **[Shape](PowerPoint.Shape.md)** object that represents a shape in a 
 
 ## Syntax
 
-_expression_. `Shape`
+_expression_.**Shape**
 
 _expression_ A variable that represents a [Cell](./PowerPoint.Cell.md) object.
 

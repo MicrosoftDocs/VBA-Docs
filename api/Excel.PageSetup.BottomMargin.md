@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PageSetup.BottomMargin property (Excel)
 
-Returns or sets the size of the bottom margin, in points. Read/write  **Double**.
+Returns or sets the size of the bottom margin, in [points](../language/glossary/vbe-glossary.md#point). Read/write  **Double**.
 
 
 ## Syntax

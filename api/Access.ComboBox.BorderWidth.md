@@ -31,7 +31,7 @@ The **BorderWidth** property uses the following settings.
 |Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Hairline|0|(Default) The narrowest border possible on your system.|
-|1 pt to 6 pt|1 to 6|The width as indicated in points.|
+|1 pt to 6 pt|1 to 6|The width as indicated in [points](../language/glossary/vbe-glossary.md#point).|
 
 You can set the default for this property by using the control's default control style or the **[DefaultControl](access.form.defaultcontrol.md)** property in Visual Basic.
 

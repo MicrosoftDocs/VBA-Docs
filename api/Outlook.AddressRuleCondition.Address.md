@@ -19,7 +19,7 @@ Returns or sets an array of  **String** elements to evaluate the address rule co
 
 ## Syntax
 
-_expression_. `Address`
+_expression_.**Address**
 
 _expression_ A variable that represents an [AddressRuleCondition](Outlook.AddressRuleCondition.md) object.
 

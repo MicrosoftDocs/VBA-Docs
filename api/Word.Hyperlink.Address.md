@@ -19,7 +19,7 @@ Returns or sets the address (for example, a file name or URL) of the specified h
 
 ## Syntax
 
-_expression_. `Address`
+_expression_.**Address**
 
 _expression_ Required. A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
 

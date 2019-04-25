@@ -7,26 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.GroupShapes.Range
 ms.assetid: b02b1915-2cd2-353b-0243-a5d60470e897
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
 
 # GroupShapes.Range property (Excel)
 
-Returns a  **[ShapeRange](Excel.ShapeRange.md)** object that represents a subset of the shapes in a **[Shapes](Excel.Shapes.md)** collection.
+Returns a **[ShapeRange](Excel.ShapeRange.md)** object that represents a subset of the shapes in a **[Shapes](Excel.Shapes.md)** collection.
 
 
 ## Syntax
 
 _expression_.**Range** (_Index_)
 
-_expression_ A variable that represents a [GroupShapes](Excel.GroupShapes.md) object.
+_expression_ A variable that represents a **[GroupShapes](Excel.GroupShapes.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,13 +32,12 @@ _expression_ A variable that represents a [GroupShapes](Excel.GroupShapes.md) ob
 
 ## Remarks
 
-Although you can use the  **[Range](Excel.GroupShapes.Range.md)** property to return any number of shapes, it is simpler to use the **[Item](Excel.GroupShapes.Item.md)** method if you want to return only a single member of the collection. For example, `Shapes(1)` is simpler than `Shapes.Range(1)`.
+Although you can use the **Range** property to return any number of shapes, it is simpler to use the **[Item](Excel.GroupShapes.Item.md)** method if you want to return only a single member of the collection. For example, `Shapes(1)` is simpler than `Shapes.Range(1)`.
 
 
 ## Example
 
-This example sets the fill pattern for shapes one and three on  _myDocument_.
-
+This example sets the fill pattern for shapes one and three on _myDocument_.
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -48,10 +45,9 @@ myDocument.Shapes.Range(Array(1, 3)) _
  .Fill.Patterned msoPatternHorizontalBrick
 ```
 
-To specify an array of integers or strings for  **Index**, you can use the **Array** function. For example, the following instruction returns two shapes specified by name.
+<br/>
 
-
-
+To specify an array of integers or strings for _Index_, you can use the **Array** function. For example, the following instruction returns two shapes specified by name.
 
 ```vb
 Dim arShapes() As Variant 
@@ -61,10 +57,9 @@ Set objRange = ActiveSheet.Shapes.Range(arShapes)
  
 ```
 
-In Microsoft Excel, you cannot use this property to return a  **ShapeRange** object containing all the **Shape** objects on a worksheet. Instead, use the following code:
+<br/>
 
-
-
+In Microsoft Excel, you cannot use this property to return a **ShapeRange** object containing all the **Shape** objects on a worksheet. Instead, use the following code.
 
 ```vb
 Worksheets(1).Shapes.SelectAll ' select all shapes 
@@ -72,10 +67,9 @@ set sr = Selection.ShapeRange ' create ShapeRange
  
 ```
 
-This example sets the fill pattern for the shapes named "Oval 4" and "Rectangle 5" on  _myDocument_.
+<br/>
 
-
-
+This example sets the fill pattern for the shapes named Oval 4 and Rectangle 5 on _myDocument_.
 
 ```vb
 Dim arShapes() As Variant 
@@ -86,10 +80,9 @@ Set objRange = myDocument.Shapes.Range(arShapes)
 objRange.Fill.Patterned msoPatternHorizontalBrick
 ```
 
-This example sets the fill pattern for shape one on  _myDocument_.
+<br/>
 
-
-
+This example sets the fill pattern for shape one on _myDocument_.
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -97,10 +90,9 @@ Set myRange = myDocument.Shapes.Range(1)
 myRange.Fill.Patterned msoPatternHorizontalBrick
 ```
 
-This example creates an array that contains all the AutoShapes on  _myDocument_, uses that array to define a shape range, and then distributes all the shapes in that range horizontally.
+<br/>
 
-
-
+This example creates an array that contains all the AutoShapes on _myDocument_, uses that array to define a shape range, and then distributes all the shapes in that range horizontally.
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -125,9 +117,5 @@ End With
 ```
 
 
-## See also
-
-
-[GroupShapes Object](Excel.GroupShapes.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

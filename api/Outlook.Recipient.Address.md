@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # Recipient.Address property (Outlook)
 
-Returns a  **String** representing the email address of the **[Recipient](Outlook.Recipient.md)**. Read-only.
+Returns a **String** representing the email address of the **Recipient**. Read-only.
 
 
 ## Syntax
 
-_expression_. `Address`
+_expression_.**Address**
 
-_expression_ A variable that represents a [Recipient](Outlook.Recipient.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[Recipient](Outlook.Recipient.md)** object.
 
 
-[Recipient Object](Outlook.Recipient.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

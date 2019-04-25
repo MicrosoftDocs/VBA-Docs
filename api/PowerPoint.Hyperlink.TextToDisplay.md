@@ -19,7 +19,7 @@ Returns or sets the display text for a hyperlink not associated with a graphic. 
 
 ## Syntax
 
-_expression_. `TextToDisplay`
+_expression_.**TextToDisplay**
 
  _expression_ A variable that represents a [Hyperlink](./PowerPoint.Hyperlink.md) object.
 

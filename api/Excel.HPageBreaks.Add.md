@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.HPageBreaks.Add
 ms.assetid: 58aabcbf-7a9f-96a5-c91e-7311e397cffe
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
@@ -21,26 +21,23 @@ Adds a horizontal page break.
 
 _expression_.**Add** (_Before_)
 
-_expression_ A variable that represents a [HPageBreaks](Excel.HPageBreaks.md) object.
+_expression_ A variable that represents an **[HPageBreaks](Excel.HPageBreaks.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Before_|Required| **Object**|A  **[Range](Excel.Range(object).md)** object. The range above which the new page break will be added.|
+| _Before_|Required| **Object**|A **[Range](Excel.Range(object).md)** object. The range above which the new page break will be added.|
 
 ## Return value
 
-A  **[HPageBreak](Excel.HPageBreak.md)** object that represents the new horizontal page break.
+An **[HPageBreak](Excel.HPageBreak.md)** object that represents the new horizontal page break.
 
 
 ## Example
 
 This example adds a horizontal page break above cell F25 and adds a vertical page break to the left of this cell.
-
 
 ```vb
 With Worksheets(1) 
@@ -50,9 +47,6 @@ End With
 ```
 
 
-## See also
 
-
-[HPageBreaks Object](Excel.HPageBreaks.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

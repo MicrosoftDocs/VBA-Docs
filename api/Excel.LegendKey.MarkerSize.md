@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # LegendKey.MarkerSize property (Excel)
 
-Returns or sets the data-marker size, in points. Can be a value from 2 through 72. Read/write  **Long**.
+Returns or sets the data-marker size, in [points](../language/glossary/vbe-glossary.md#point). Can be a value from 2 through 72. Read/write  **Long**.
 
 
 ## Syntax

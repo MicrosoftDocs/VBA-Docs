@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.HPageBreak.Delete
 ms.assetid: 27eaaae7-ddc7-a663-b577-b1554a25b5e6
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Deletes the object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [HPageBreak](Excel.HPageBreak.md) object.
+_expression_ A variable that represents an **[HPageBreak](Excel.HPageBreak.md)** object.
 
 
-## See also
 
-
-[HPageBreak Object](Excel.HPageBreak.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

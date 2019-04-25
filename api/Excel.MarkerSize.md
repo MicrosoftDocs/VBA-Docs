@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MarkerSize property (Excel Graph)
 
-Returns or sets the data-marker size, in points. Read/write **Long**.
+Returns or sets the data-marker size, in [points](../language/glossary/vbe-glossary.md#point). Read/write **Long**.
 
 
 ## Syntax

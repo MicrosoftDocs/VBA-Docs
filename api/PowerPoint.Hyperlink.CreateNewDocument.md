@@ -19,7 +19,7 @@ Creates a new Web presentation associated with the specified hyperlink.
 
 ## Syntax
 
-_expression_. `CreateNewDocument`( `_FileName_`, `_EditNow_`, `_Overwrite_` )
+_expression_.**CreateNewDocument**( `_FileName_`, `_EditNow_`, `_Overwrite_` )
 
  _expression_ A variable that represents a [Hyperlink](./PowerPoint.Hyperlink.md) object.
 

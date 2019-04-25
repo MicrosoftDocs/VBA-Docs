@@ -19,7 +19,7 @@ Returns or sets the text string for the specified hyperlink's subject line. Read
 
 ## Syntax
 
-_expression_. `EmailSubject`
+_expression_.**EmailSubject**
 
  _expression_ A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
 

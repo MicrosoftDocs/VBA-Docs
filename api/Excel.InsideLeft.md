@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # InsideLeft property (Excel Graph)
 
-Returns the distance from the chart edge to the inside left edge of the plot area, in points. Read-only **Double**.
+Returns the distance from the chart edge to the inside left edge of the plot area, in [points](../language/glossary/vbe-glossary.md#point). Read-only **Double**.
 
 ## Syntax
 

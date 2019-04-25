@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # InsideWidth property (Excel Graph)
 
-Returns the inside width of the plot area, in points. Read-only **Double**.
+Returns the inside width of the plot area, in [points](../language/glossary/vbe-glossary.md#point). Read-only **Double**.
 
 ## Syntax
 

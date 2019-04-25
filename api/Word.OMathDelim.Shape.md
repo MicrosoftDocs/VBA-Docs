@@ -19,7 +19,7 @@ Returns or sets a  **[WdOMathShapeType](Word.WdOMathShapeType.md)** constant tha
 
 ## Syntax
 
-_expression_. `Shape`
+_expression_.**Shape**
 
  _expression_ An expression that returns an '[OMathDelim](Word.OMathDelim.md)' object.
 
