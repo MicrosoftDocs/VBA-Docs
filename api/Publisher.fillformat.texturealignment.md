@@ -19,7 +19,7 @@ Returns or sets the alignment (the origin of the coordinate grid) for the tiling
 
 _expression_.**TextureAlignment**
 
- _expression_ A variable that represents a  **FillFormat** object.
+_expression_ A variable that represents a **[FillFormat](publisher.fillformat.md)** object.
 
 
 ## Property value

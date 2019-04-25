@@ -21,7 +21,7 @@ Sets the specified fill to a uniform color. Use this method to convert a gradien
 
 _expression_.**Solid**
 
- _expression_ A variable that represents a  **FillFormat** object.
+_expression_ A variable that represents a **[FillFormat](publisher.fillformat.md)** object.
 
 
 ## Example

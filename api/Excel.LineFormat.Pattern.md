@@ -19,7 +19,7 @@ Returns or sets an  **[MsoPatternType](Excel.LineFormat.Pattern.md)** value that
 
 ## Syntax
 
-_expression_. `Pattern`
+_expression_.**Pattern**
 
 _expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) object.
 

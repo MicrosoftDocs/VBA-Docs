@@ -19,7 +19,7 @@ Returns or sets the degree of transparency of the specified fill for a shape as 
 
 _expression_.**Transparency**
 
- _expression_ A variable that represents a  **FillFormat** object.
+_expression_ A variable that represents a **[FillFormat](publisher.fillformat.md)** object.
 
 
 ## Return value

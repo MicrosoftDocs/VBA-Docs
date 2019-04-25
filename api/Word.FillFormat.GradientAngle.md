@@ -19,9 +19,9 @@ Returns or sets the angle of the gradient fill for the specified fill format. Re
 
 ## Syntax
 
-_expression_. `GradientAngle`
+_expression_.**GradientAngle**
 
- _expression_ An expression that returns a '[FillFormat](Word.FillFormat.md)' object.
+ _expression_ An expression that returns a **[FillFormat](word.fillformat.md)** object.
 
 
 ## Return value

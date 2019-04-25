@@ -21,7 +21,7 @@ Returns or sets a  **[ColorFormat](Word.ColorFormat.md)** object that represents
 
 _expression_. `BackColor`
 
- _expression_ A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
+ _expression_ A variable that represents a **[FillFormat](word.fillformat.md)** object.
 
 
 ## Example

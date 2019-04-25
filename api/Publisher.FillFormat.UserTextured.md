@@ -19,14 +19,12 @@ Fills the specified shape with small tiles of an image.
 
 ## Syntax
 
-_expression_.**UserTextured**(**_TextureFile_**)
+_expression_.**UserTextured** (_TextureFile_)
 
- _expression_ A variable that represents a  **FillFormat** object.
+_expression_ A variable that represents a **[FillFormat](publisher.fillformat.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

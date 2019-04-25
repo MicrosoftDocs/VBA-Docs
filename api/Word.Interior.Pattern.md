@@ -19,7 +19,7 @@ Returns or sets a  **Variant** value, containing an **[XlPattern](Word.xlpattern
 
 ## Syntax
 
-_expression_. `Pattern`
+_expression_.**Pattern**
 
  _expression_ A variable that represents an '[Interior](Word.Interior.md)' object.
 

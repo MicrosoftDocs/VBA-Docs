@@ -19,14 +19,12 @@ Sets the specified fill to a two-color gradient. The two fill colors are specifi
 
 ## Syntax
 
-_expression_.**TwoColorGradient**(**_Style_**,  **_Variant_**)
+_expression_.**TwoColorGradient** (_Style_, _Variant_)
 
- _expression_ A variable that represents a  **FillFormat** object.
+_expression_ A variable that represents a **[FillFormat](publisher.fillformat.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

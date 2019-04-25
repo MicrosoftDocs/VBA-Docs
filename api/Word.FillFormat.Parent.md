@@ -21,7 +21,7 @@ Returns an  **Object** that represents the parent object of the specified **Fill
 
 _expression_.**Parent**
 
-_expression_ Required. A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
+_expression_ Required. A variable that represents a **[FillFormat](word.fillformat.md)** object.
 
 
 ## See also

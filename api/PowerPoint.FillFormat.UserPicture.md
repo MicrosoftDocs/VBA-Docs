@@ -19,14 +19,12 @@ Fills the specified shape with one large image.
 
 ## Syntax
 
-_expression_. `UserPicture`( `_PictureFile_` )
+_expression_.**UserPicture** (_PictureFile_)
 
- _expression_ A variable that represents an [FillFormat](./PowerPoint.FillFormat.md) object.
+_expression_ A variable that represents a **[FillFormat](powerpoint.fillformat.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,13 +32,12 @@ _expression_. `UserPicture`( `_PictureFile_` )
 
 ## Remarks
 
-If you want to fill the shape with small tiles of an image, use the  **[UserTextured](PowerPoint.FillFormat.UserTextured.md)** method.
+If you want to fill the shape with small tiles of an image, use the **[UserTextured](PowerPoint.FillFormat.UserTextured.md)** method.
 
 
 ## Example
 
-This example adds two rectangles to  _myDocument_. The rectangle on the left is filled with one large image of the picture in Tiles.bmp; the rectangle on the right is filled with many small tiles of the picture in Tiles.bmp
-
+This example adds two rectangles to _myDocument_. The rectangle on the left is filled with one large image of the picture in Tiles.bmp; the rectangle on the right is filled with many small tiles of the picture in Tiles.bmp.
 
 ```vb
 Set myDocument = ActivePresentation.Slides(1)
@@ -54,9 +51,6 @@ End With
 ```
 
 
-## See also
 
-
-[FillFormat Object](PowerPoint.FillFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

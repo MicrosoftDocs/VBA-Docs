@@ -19,9 +19,9 @@ Returns or sets a  **MsoPatternType** constant that represents the pattern appli
 
 ## Syntax
 
-_expression_. `Pattern`
+_expression_.**Pattern**
 
- _expression_ An expression that returns a '[FillFormat](Word.FillFormat.md)' object.
+ _expression_ An expression that returns a **[FillFormat](word.fillformat.md)** object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Specifies that the shape's fill should match the slide background. If you change
 
 _expression_. `Background`
 
- _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
+_expression_ A variable that represents a **[FillFormat](powerpoint.fillformat.md)** object.
 
 
 ## Remarks
