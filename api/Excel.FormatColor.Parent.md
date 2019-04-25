@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.FormatColor.Parent
 ms.assetid: fae66f99-e47c-fda8-a542-8a6e3ec584f4
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [FormatColor](Excel.FormatColor.md) object.
+_expression_ A variable that represents a **[FormatColor](Excel.FormatColor.md)** object.
 
 
-## See also
 
-
-[FormatColor Object](Excel.FormatColor.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

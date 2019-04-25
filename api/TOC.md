@@ -5924,7 +5924,7 @@
 ###### [Add](Excel.FormatConditions.Add.md)
 ###### [AddAboveAverage](Excel.FormatConditions.AddAboveAverage.md)
 ###### [AddColorScale](Excel.FormatConditions.AddColorScale.md)
-###### [AddDatabar](Excel.FormatConditions.AddDatabar.md)
+###### [AddDataBar](Excel.FormatConditions.AddDatabar.md)
 ###### [AddIconSetCondition](Excel.FormatConditions.AddIconSetCondition.md)
 ###### [AddTop10](Excel.FormatConditions.AddTop10.md)
 ###### [AddUniqueValues](Excel.FormatConditions.AddUniqueValues.md)
