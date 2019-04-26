@@ -19,7 +19,7 @@ Returns or sets the marker style for a point or series in a line chart, scatter 
 
 ## Syntax
 
-_expression_. `MarkerStyle`
+_expression_.**MarkerStyle**
 
  _expression_ A variable that represents a '[LegendKey](Word.LegendKey.md)' object.
 

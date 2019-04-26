@@ -19,7 +19,7 @@ Returns or sets the data-marker size, in points. Can be a value from 2 through 7
 
 ## Syntax
 
-_expression_. `MarkerSize`
+_expression_.**MarkerSize**
 
 _expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 

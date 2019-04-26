@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.LegendEntry.Delete
 ms.assetid: 1967ac14-e375-9308-bd53-fbfd1e71ac69
-ms.date: 06/08/2017
+ms.date: 04/27/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Deletes the object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [LegendEntry](Excel.LegendEntry-graph-object.md) object.
+_expression_ A variable that represents a **[LegendEntry](excel.legendentry(object).md)** object.
 
 
 ## Return value
@@ -29,9 +29,6 @@ _expression_ A variable that represents a [LegendEntry](Excel.LegendEntry-graph-
 Variant
 
 
-## See also
 
-
-[LegendEntry Object](Excel.LegendEntry(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

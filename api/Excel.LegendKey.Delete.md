@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.LegendKey.Delete
 ms.assetid: b93ad1e1-48d2-8076-7151-b43b27faa773
-ms.date: 06/08/2017
+ms.date: 04/27/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Deletes the object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [LegendKey](Excel.LegendKey-graph-property.md) object.
+_expression_ A variable that represents a **[LegendKey](excel.legendkey(object).md)** object.
 
 
 ## Return value
@@ -31,12 +31,9 @@ Variant
 
 ## Remarks
 
-Deleting a  **[LegendKey](Excel.LegendKey(object).md)** object deletes the entire series.
+Deleting a **LegendKey** object deletes the entire series.
 
 
-## See also
 
-
-[LegendKey Object](Excel.LegendKey(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

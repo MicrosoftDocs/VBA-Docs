@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.LeaderLines.Delete
 ms.assetid: 57b6cb0c-f0fe-70b7-4958-cfdfd20ee059
-ms.date: 06/08/2017
+ms.date: 04/27/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Deletes the object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [LeaderLines](Excel.LeaderLines-graph-property.md) object.
+_expression_ A variable that represents a **[LeaderLines](excel.leaderlines(object).md)** object.
 
 
-## See also
 
-
-[LeaderLines Object](Excel.LeaderLines(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

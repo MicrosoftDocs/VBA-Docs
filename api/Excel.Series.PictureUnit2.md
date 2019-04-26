@@ -19,7 +19,7 @@ Returns or sets the unit for each picture on the chart if the  **[PictureType](E
 
 ## Syntax
 
-_expression_. `PictureUnit2`
+_expression_.**PictureUnit2**
 
 _expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 

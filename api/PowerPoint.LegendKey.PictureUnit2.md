@@ -16,7 +16,7 @@ Returns or sets the unit for each picture on the chart if the  **[PictureType](P
 
 ## Syntax
 
-_expression_. `PictureUnit2`
+_expression_.**PictureUnit2**
 
  _expression_ A variable that represents a '[LegendKey](PowerPoint.LegendKey.md)' object.
 

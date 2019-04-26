@@ -7,26 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.Legend.Name
 ms.assetid: fae7ab35-988b-e106-0596-71cce035ff72
-ms.date: 06/08/2017
+ms.date: 04/27/2019
 localization_priority: Normal
 ---
 
 
 # Legend.Name property (Excel)
 
-Returns a  **String** value that represents the name of the object.
+Returns a **String** value that represents the name of the object.
 
 
 ## Syntax
 
 _expression_.**Name**
 
-_expression_ A variable that represents a [Legend](Excel.Legend-graph-property.md) object.
+_expression_ A variable that represents a **[Legend](excel.legend(object).md)** object.
 
 
-## See also
 
-
-[Legend Object](Excel.Legend(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
