@@ -19,7 +19,7 @@ Returns or sets the color of the interior pattern as an RGB value. Read/write  *
 
 ## Syntax
 
-_expression_. `PatternColor`
+_expression_.**PatternColor**
 
  _expression_ A variable that represents an '[Interior](Word.Interior.md)' object.
 

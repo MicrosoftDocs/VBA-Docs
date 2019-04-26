@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Interior.InvertIfNegative
 ms.assetid: 4b803a8b-5e30-8f90-2f26-a37d2dada48b
-ms.date: 06/08/2017
+ms.date: 04/27/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,11 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `InvertIfNegative`
+_expression_.**InvertIfNegative**
 
-_expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
-
-
-## See also
+_expression_ A variable that represents an **[Interior](excel.interior(object).md)** object.
 
 
-[Interior Object](Excel.Interior(object).md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
