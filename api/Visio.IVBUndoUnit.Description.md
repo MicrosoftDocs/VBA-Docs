@@ -19,7 +19,7 @@ Gets the description of an  **IVBUndoUnit** interface. Read-only.
 
 ## Syntax
 
-_expression_. `Description`
+_expression_.**Description**
 
  _expression_ A variable that represents an 'IVBUndoUnit' object.
 

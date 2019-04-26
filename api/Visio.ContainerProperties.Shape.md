@@ -19,7 +19,7 @@ Returns the Microsoft Visio  **[Shape](Visio.Shape.md)** object that is associat
 
 ## Syntax
 
-_expression_. `Shape`
+_expression_.**Shape**
 
  _expression_ An expression that returns a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.FormatCondition.Delete
 ms.assetid: 37bc4259-9b1a-adda-5839-a19972011ec2
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Deletes the object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [FormatCondition](Excel.FormatCondition.md) object.
+_expression_ A variable that represents a **[FormatCondition](Excel.FormatCondition.md)** object.
 
 
-## See also
 
-
-[FormatCondition Object](Excel.FormatCondition.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

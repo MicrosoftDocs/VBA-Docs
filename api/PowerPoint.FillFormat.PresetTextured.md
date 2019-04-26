@@ -19,9 +19,9 @@ Sets the specified fill to a preset texture.
 
 ## Syntax
 
-_expression_. `PresetTextured`( `_PresetTexture_` )
+_expression_.**PresetTextured** (_PresetTexture_)
 
- _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
+ _expression_ A variable that represents a **[FillFormat](powerpoint.fillformat.md)** object.
 
 
 ## Parameters
@@ -30,40 +30,9 @@ _expression_. `PresetTextured`( `_PresetTexture_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _PresetTexture_|Required|**MsoPresetTexture**|The preset texture.|
-
-## Remarks
-
-The value of the PresetTexturedargument can be one of these  **MsoPresetTexture** constants.
+| _PresetTexture_|Required|**[MsoPresetTexture](Office.MsoPresetTexture.md)**|The preset texture.|
 
 
-||
-|:-----|
-|**msoPresetTextureMixed**|
-|**msoTextureBlueTissuePaper**|
-|**msoTextureBouquet**|
-|**msoTextureBrownMarble**|
-|**msoTextureCanvas**|
-|**msoTextureCork**|
-|**msoTextureDenim**|
-|**msoTextureFishFossil**|
-|**msoTextureGranite**|
-|**msoTextureGreenMarble**|
-|**msoTextureMediumWood**|
-|**msoTextureNewsprint**|
-|**msoTextureOak**|
-|**msoTexturePaperBag**|
-|**msoTexturePapyrus**|
-|**msoTextureParchment**|
-|**msoTexturePinkTissuePaper**|
-|**msoTexturePurpleMesh**|
-|**msoTextureRecycledPaper**|
-|**msoTextureSand**|
-|**msoTextureStationery**|
-|**msoTextureWalnut**|
-|**msoTextureWaterDroplets**|
-|**msoTextureWhiteMarble**|
-|**msoTextureWovenMat**|
 
 ## Example
 

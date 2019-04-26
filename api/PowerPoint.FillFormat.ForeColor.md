@@ -19,9 +19,9 @@ Returns or sets a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that repr
 
 ## Syntax
 
-_expression_. `ForeColor`
+_expression_.**ForeColor**
 
- _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
+_expression_ A variable that represents a **[FillFormat](powerpoint.fillformat.md)** object.
 
 
 ## Return value

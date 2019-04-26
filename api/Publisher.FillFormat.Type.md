@@ -21,7 +21,7 @@ Returns an  **MsoFillType** constant that represents the fill format type of a s
 
 _expression_.**Type**
 
- _expression_ A variable that represents a  **FillFormat** object.
+_expression_ A variable that represents a **[FillFormat](publisher.fillformat.md)** object.
 
 
 ## Remarks

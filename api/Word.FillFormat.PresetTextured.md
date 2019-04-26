@@ -19,9 +19,9 @@ Sets the specified fill to a preset texture.
 
 ## Syntax
 
-_expression_. `PresetTextured`( `_PresetTexture_` )
+_expression_.**PresetTextured** (_PresetTexture_)
 
-_expression_ Required. A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
+_expression_ Required. A variable that represents a **[FillFormat](word.fillformat.md)** object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a '[FillFormat](Word.FillForma
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _PresetTexture_|Required| **MsoPresetTexture**|The preset texture.|
+| _PresetTexture_|Required| **[MsoPresetTexture](Office.MsoPresetTexture.md)**|The preset texture.|
 
 ## Example
 

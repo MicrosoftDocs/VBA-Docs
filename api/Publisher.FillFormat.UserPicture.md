@@ -19,14 +19,12 @@ Fills the specified shape with one large image.
 
 ## Syntax
 
-_expression_.**UserPicture**(**_PictureFile_**)
+_expression_.**UserPicture** (_PictureFile_)
 
- _expression_ A variable that represents a  **FillFormat** object.
+_expression_ A variable that represents a **[FillFormat](publisher.fillformat.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

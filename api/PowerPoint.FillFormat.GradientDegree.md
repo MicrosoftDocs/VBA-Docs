@@ -19,9 +19,9 @@ Returns a value that indicates how dark or light a one-color gradient fill is. R
 
 ## Syntax
 
-_expression_. `GradientDegree`
+_expression_.**GradientDegree**
 
- _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
+_expression_ A variable that represents a **[FillFormat](powerpoint.fillformat.md)** object.
 
 
 ## Return value

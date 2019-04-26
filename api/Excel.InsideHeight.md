@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # InsideHeight property (Excel Graph)
 
-Returns the inside height of the plot area, in points. Read-only **Double**.
+Returns the inside height of the plot area, in [points](../language/glossary/vbe-glossary.md#point). Read-only **Double**.
 
 ## Syntax
 

@@ -19,9 +19,9 @@ Returns or sets the alignment (the origin of the coordinate grid) for the tiling
 
 ## Syntax
 
-_expression_. `TextureAlignment`
+_expression_.**TextureAlignment**
 
- _expression_ An expression that returns a [FillFormat](./PowerPoint.FillFormat.md) object.
+ _expression_ An expression that returns a **[FillFormat](powerpoint.fillformat.md)** object.
 
 
 ## Return value

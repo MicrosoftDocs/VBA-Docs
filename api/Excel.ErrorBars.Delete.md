@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ErrorBars.Delete
 ms.assetid: 30764496-1311-da45-5d1d-6efe243dcd73
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Deletes the object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents an [ErrorBars](Excel.ErrorBars-graph-property.md) object.
+_expression_ A variable that represents an **[ErrorBars](excel.errorbars(object).md)** object.
 
 
 ## Return value
@@ -29,9 +29,6 @@ _expression_ A variable that represents an [ErrorBars](Excel.ErrorBars-graph-pro
 Variant
 
 
-## See also
 
-
-[ErrorBars Object](Excel.ErrorBars(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

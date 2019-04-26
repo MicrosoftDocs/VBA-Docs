@@ -7,48 +7,30 @@ ms.prod: excel
 api_name:
 - Excel.Errors.Item
 ms.assetid: e7182924-48cb-d97d-93b4-b4f53542013e
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
 
 # Errors.Item property (Excel)
 
-Returns a single member of the  **[Error](Excel.Error.md)** object.
+Returns a single member of the **[Error](Excel.Error.md)** object.
 
 
 ## Syntax
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents an [Errors](Excel.Errors.md) object.
+_expression_ A variable that represents an **[Errors](Excel.Errors.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|The index of the member.|
-
-## Remarks
-
- _Index_ can also be one the following constants.
-
-| **Constant** | **Description** |
-|:----|:----|
-| **xlEvaluateToError** | The cell evaluates to an error value.|
-| **xlTextDate** | The cell contains a text date with 2 digit years.|
-| **xlNumberAsText** | The cell contains a number stored as text.|
-| **xlInconsistentFormula** | The cell contains an inconsistent formula for a region.|
-| **xlOmittedCells** | The cell contains a formula omitting a cell for a region.|
-| **xlUnlockedFormulaCells** | The cell which is unlocked contains a formula.|
-| **xlEmptyCellReferences** | The cell contains a formula referring to empty cells.|
-
-## See also
+| _Index_|Required| **Variant**|The index of the member. Can also be one the **[XlErrorChecks](excel.xlerrorchecks.md)** constants.|
 
 
-[Errors Object](Excel.Errors.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

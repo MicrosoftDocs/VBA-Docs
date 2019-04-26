@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Floor.Select
 ms.assetid: 53e8a6da-d198-af5d-596e-507c8eacda18
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Selects the object.
 
 _expression_.**Select**
 
-_expression_ A variable that represents a [Floor](Excel.Floor-graph-property.md) object.
+_expression_ A variable that represents a **[Floor](excel.floor(object).md)** object.
 
 
 ## Return value
@@ -29,9 +29,5 @@ _expression_ A variable that represents a [Floor](Excel.Floor-graph-property.md)
 Variant
 
 
-## See also
-
-
-[Floor Object](Excel.Floor(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

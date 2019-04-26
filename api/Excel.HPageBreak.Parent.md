@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.HPageBreak.Parent
 ms.assetid: 76a50c18-50fe-029c-7541-9db6586174ef
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [HPageBreak](Excel.HPageBreak.md) object.
+_expression_ A variable that represents an **[HPageBreak](Excel.HPageBreak.md)** object.
 
 
-## See also
 
-
-[HPageBreak Object](Excel.HPageBreak.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

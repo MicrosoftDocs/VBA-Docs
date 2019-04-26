@@ -19,7 +19,7 @@ Returns the file format and/or type of the workbook. Read-only  **[XlFileFormat]
 
 ## Syntax
 
-_expression_. `FileFormat`
+_expression_.**FileFormat**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

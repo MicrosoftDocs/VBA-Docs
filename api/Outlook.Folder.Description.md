@@ -19,7 +19,7 @@ Returns or sets a  **String** representing the description of the folder. Read/w
 
 ## Syntax
 
-_expression_. `Description`
+_expression_.**Description**
 
 _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 

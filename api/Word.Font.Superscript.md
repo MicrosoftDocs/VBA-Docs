@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `Superscript`
+_expression_.**Superscript**
 
  _expression_ An expression that returns a '[Font](Word.Font.md)' object.
 

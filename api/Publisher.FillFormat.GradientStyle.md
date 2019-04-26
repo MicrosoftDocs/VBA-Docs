@@ -21,7 +21,7 @@ Returns an  **MsoGradientStyle** constant indicating the gradient style for the 
 
 _expression_.**GradientStyle**
 
- _expression_ A variable that represents a  **FillFormat** object.
+_expression_ A variable that represents a **[FillFormat](publisher.fillformat.md)** object.
 
 
 ## Return value

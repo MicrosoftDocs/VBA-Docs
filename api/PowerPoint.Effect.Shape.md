@@ -19,7 +19,7 @@ Returns a  **[Shape](PowerPoint.Shape.md)** object that represents an animated s
 
 ## Syntax
 
-_expression_. `Shape`
+_expression_.**Shape**
 
 _expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
 

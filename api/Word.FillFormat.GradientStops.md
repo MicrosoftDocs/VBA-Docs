@@ -19,9 +19,9 @@ Returns the [GradientStops](Office.GradientStops.md) collection associated with 
 
 ## Syntax
 
-_expression_. `GradientStops`
+_expression_.**GradientStops**
 
- _expression_ An expression that returns a [FillFormat](./Word.FillFormat.md) object.
+_expression_ An expression that returns a **[FillFormat](Word.FillFormat.md)** object.
 
 
 ## Remarks

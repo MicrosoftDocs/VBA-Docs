@@ -19,9 +19,9 @@ Returns or sets the angle of the gradient fill for the specified fill format. Re
 
 ## Syntax
 
-_expression_. `GradientAngle`
+_expression_.**GradientAngle**
 
- _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
+_expression_ A variable that represents a **[FillFormat](powerpoint.fillformat.md)** object.
 
 
 ## Return value

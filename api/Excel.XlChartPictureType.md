@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Specifies how pictures are displayed on a column, bar picture chart, or legend key.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

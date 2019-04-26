@@ -21,7 +21,7 @@ Returns an  **MsoTextureType** constant indicating the texture type for the spec
 
 _expression_.**TextureType**
 
- _expression_ A variable that represents a  **FillFormat** object.
+_expression_ A variable that represents a **[FillFormat](publisher.fillformat.md)** object.
 
 
 ## Return value

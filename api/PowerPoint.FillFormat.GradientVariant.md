@@ -19,9 +19,9 @@ Returns the gradient variant for the specified fill as an integer value from 1 t
 
 ## Syntax
 
-_expression_. `GradientVariant`
+_expression_.**GradientVariant**
 
- _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
+_expression_ A variable that represents a **[FillFormat](powerpoint.fillformat.md)** object.
 
 
 ## Return value

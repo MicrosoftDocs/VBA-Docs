@@ -21,7 +21,7 @@ Returns a  **String** indicating the name of the custom texture file for the spe
 
 _expression_.**TextureName**
 
- _expression_ A variable that represents a  **FillFormat** object.
+_expression_ A variable that represents a **[FillFormat](publisher.fillformat.md)** object.
 
 
 ## Return value

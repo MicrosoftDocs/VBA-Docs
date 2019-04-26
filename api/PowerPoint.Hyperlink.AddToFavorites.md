@@ -19,7 +19,7 @@ Adds a shortcut that represents the specified hyperlink's target document to the
 
 ## Syntax
 
-_expression_. `AddToFavorites`
+_expression_.**AddToFavorites**
 
  _expression_ A variable that represents a [Hyperlink](./PowerPoint.Hyperlink.md) object.
 

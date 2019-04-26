@@ -7,32 +7,31 @@ ms.prod: excel
 api_name:
 - Excel.FillFormat.PresetTexture
 ms.assetid: 3ed8dc1b-f816-ece8-6238-44d5d8f51378
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
 
 # FillFormat.PresetTexture property (Excel)
 
-Returns the preset texture for the specified fill. Read-only  **[MsoPresetTexture](Office.MsoPresetTexture.md)**.
+Returns the preset texture for the specified fill. Read-only **[MsoPresetTexture](Office.MsoPresetTexture.md)**.
 
 
 ## Syntax
 
-_expression_. `PresetTexture`
+_expression_.**PresetTexture**
 
-_expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
+_expression_ A variable that represents a **[FillFormat](Excel.FillFormat.md)** object.
 
 
 ## Remarks
 
-Use the  **[PresetTextured](Excel.FillFormat.PresetTextured.md)** method to set the preset texture for the fill.
+Use the **[PresetTextured](Excel.FillFormat.PresetTextured.md)** method to set the preset texture for the fill.
 
 
 ## Example
 
 This example sets the fill format for chart two to the same style used for chart one.
-
 
 ```vb
 Set c1f = Charts(1).ChartArea.Fill 
@@ -49,9 +48,6 @@ End If
 ```
 
 
-## See also
 
-
-[FillFormat Object](Excel.FillFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

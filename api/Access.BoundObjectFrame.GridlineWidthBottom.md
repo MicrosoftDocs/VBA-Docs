@@ -31,7 +31,7 @@ The **GridlineWidthBottom** property uses the following settings.
 |Setting|Description|
 |:-----|:-----|
 |0| Hairline. This is the narrowest border possible on your system.|
-|1 to 6|The width as indicated in points. The default setting is 1 point.|
+|1 to 6|The width as indicated in [points](../language/glossary/vbe-glossary.md#point). The default setting is 1 point.|
 
 
 

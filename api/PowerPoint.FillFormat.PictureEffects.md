@@ -19,9 +19,9 @@ Returns an object that represents the picture or texture fill for the specified 
 
 ## Syntax
 
-_expression_. `PictureEffects`
+_expression_.**PictureEffects**
 
- _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
+ _expression_ A variable that represents a **[FillFormat](powerpoint.fillformat.md)** object.
 
 
 ## Return value

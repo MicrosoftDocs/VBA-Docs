@@ -7,27 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.Filter.On
 ms.assetid: 3e325750-2fdc-631f-e116-90769958366c
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
 
 # Filter.On property (Excel)
 
- **True** if the specified filter is on. Read-only **Boolean**.
+**True** if the specified filter is on. Read-only **Boolean**.
 
 
 ## Syntax
 
-_expression_. `On`
+_expression_.**On**
 
-_expression_ A variable that represents a [Filter](Excel.Filter.md) object.
+_expression_ A variable that represents a **[Filter](Excel.Filter.md)** object.
 
 
 ## Example
 
-The following example sets a variable to the value of the  **Criteria1** property of the filter for the first column in the filtered range on the Crew worksheet.
-
+The following example sets a variable to the value of the **Criteria1** property of the filter for the first column in the filtered range on the Crew worksheet.
 
 ```vb
 With Worksheets("Crew") 
@@ -40,9 +39,6 @@ End With
 ```
 
 
-## See also
 
-
-[Filter Object](Excel.Filter.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

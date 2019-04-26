@@ -19,7 +19,7 @@ Returns or sets a value that represents the pattern applied to the specified lin
 
 ## Syntax
 
-_expression_. `Pattern`
+_expression_.**Pattern**
 
 _expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
 

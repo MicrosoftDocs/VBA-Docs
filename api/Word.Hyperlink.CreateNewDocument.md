@@ -19,7 +19,7 @@ Creates a new document linked to the specified hyperlink.
 
 ## Syntax
 
-_expression_. `CreateNewDocument`( `_FileName_` , `_EditNow_` , `_Overwrite_` )
+_expression_.**CreateNewDocument**( `_FileName_` , `_EditNow_` , `_Overwrite_` )
 
 _expression_ Required. A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
 

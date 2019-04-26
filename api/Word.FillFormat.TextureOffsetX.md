@@ -19,9 +19,9 @@ Returns or sets a  **Long** that specifies the horizontal offset of the texture 
 
 ## Syntax
 
-_expression_. `TextureOffsetX`
+_expression_.**TextureOffsetX**
 
- _expression_ An expression that returns a '[FillFormat](Word.FillFormat.md)' object.
+ _expression_ An expression that returns a **[FillFormat](word.fillformat.md)** object.
 
 
 ## Remarks

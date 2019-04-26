@@ -17,7 +17,7 @@ The description of the model measure. Read/write  **String**.
 
 ## Syntax
 
-_expression_. `Description`
+_expression_.**Description**
 
 _expression_ A variable that represents a 'ModelMeasure' object.
 

@@ -19,20 +19,19 @@ Fills the specified shape with small tiles of an image.
 
 ## Syntax
 
-_expression_. `UserTextured`( `_TextureFile_` )
+_expression_.**UserTextured** (_TextureFile_)
 
- _expression_ A variable that represents an [FillFormat](./PowerPoint.FillFormat.md) object.
+_expression_ A variable that represents a **[FillFormat](powerpoint.fillformat.md)** object.
 
 
 ## Remarks
 
-If you want to fill the shape with one large image, use the  **UserPicture** method.
+If you want to fill the shape with one large image, use the **UserPicture** method.
 
 
 ## Example
 
-This example adds two rectangles to  _myDocument_. The rectangle on the left is filled with one large image of the picture in Tiles.bmp; the rectangle on the right is filled with many small tiles of the picture in Tiles.bmp
-
+This example adds two rectangles to _myDocument_. The rectangle on the left is filled with one large image of the picture in Tiles.bmp; the rectangle on the right is filled with many small tiles of the picture in Tiles.bmp.
 
 ```vb
 Set myDocument = ActivePresentation.Slides(1)
@@ -49,9 +48,6 @@ End With
 ```
 
 
-## See also
 
-
-[FillFormat Object](PowerPoint.FillFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

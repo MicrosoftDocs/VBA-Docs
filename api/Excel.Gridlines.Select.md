@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Gridlines.Select
 ms.assetid: 186e7b88-99ee-6afa-23ab-864be0471ef1
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Selects the object.
 
 _expression_.**Select**
 
-_expression_ A variable that represents a [Gridlines](Excel.Gridlines-graph-object.md) object.
+_expression_ A variable that represents a **[Gridlines](excel.gridlines(object).md)** object.
 
 
 ## Return value
@@ -29,9 +29,6 @@ _expression_ A variable that represents a [Gridlines](Excel.Gridlines-graph-obje
 Variant
 
 
-## See also
 
-
-[Gridlines Object](Excel.Gridlines(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

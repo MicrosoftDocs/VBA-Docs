@@ -19,7 +19,7 @@ Returns or sets a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that repr
 
 ## Syntax
 
-_expression_. `ForeColor`
+_expression_.**ForeColor**
 
  _expression_ A variable that represents a [ShadowFormat](./PowerPoint.ShadowFormat.md) object.
 

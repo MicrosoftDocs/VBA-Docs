@@ -19,7 +19,7 @@ Returns or sets whether the fill rotates with the specified shape. Read/write.
 
 _expression_.**RotateWithObject**
 
- _expression_ A variable that represents a  **FillFormat** object.
+_expression_ A variable that represents a **[FillFormat](publisher.fillformat.md)** object.
 
 
 ## Return value

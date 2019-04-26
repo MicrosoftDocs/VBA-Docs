@@ -19,14 +19,12 @@ Sets the specified fill to a preset texture.
 
 ## Syntax
 
-_expression_.**PresetTextured**(**_PresetTexture_**)
+_expression_.**PresetTextured** (_PresetTexture_)
 
- _expression_ A variable that represents a  **FillFormat** object.
+_expression_ A variable that represents a **[FillFormat](publisher.fillformat.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

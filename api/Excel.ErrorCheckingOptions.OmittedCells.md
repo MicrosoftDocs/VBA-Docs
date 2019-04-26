@@ -7,27 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.ErrorCheckingOptions.OmittedCells
 ms.assetid: a337da5d-4f02-d24c-c59a-288b4a9c9117
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
 
 # ErrorCheckingOptions.OmittedCells property (Excel)
 
-When set to  **True** (default), Microsoft Excel identifies, with an AutoCorrect Options button, the selected cells that contain formulas referring to a range that omits adjacent cells that could be included. **False** disables error checking for omitted cells. Read/write **Boolean**.
+When set to **True** (default), Microsoft Excel identifies, with an **AutoCorrect Options** button, the selected cells that contain formulas referring to a range that omits adjacent cells that could be included. **False** disables error checking for omitted cells. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `OmittedCells`
+_expression_.**OmittedCells**
 
-_expression_ A variable that represents an [ErrorCheckingOptions](Excel.ErrorCheckingOptions.md) object.
+_expression_ A variable that represents an **[ErrorCheckingOptions](Excel.ErrorCheckingOptions.md)** object.
 
 
 ## Example
 
-In the following example, the  **AutoCorrect Options** button appears for cell A4, which contains a formula.
-
+In the following example, the **AutoCorrect Options** button appears for cell A4, which contains a formula.
 
 ```vb
 Sub CheckOmittedCells() 
@@ -42,9 +41,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[ErrorCheckingOptions Object](Excel.ErrorCheckingOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

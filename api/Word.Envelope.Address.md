@@ -19,7 +19,7 @@ Returns the envelope delivery address as a  **Range** object. Read-only.
 
 ## Syntax
 
-_expression_. `Address`
+_expression_.**Address**
 
 _expression_ Required. A variable that represents an '[Envelope](Word.Envelope.md)' object.
 

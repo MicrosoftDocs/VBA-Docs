@@ -19,7 +19,7 @@ Returns or sets the size of the reflection as a percentage of the reflected shap
 
 ## Syntax
 
-_expression_. `Size`
+_expression_.**Size**
 
  _expression_ An expression that returns a '[ReflectionFormat](Word.ReflectionFormat.md)' object.
 

@@ -19,9 +19,9 @@ Returns or sets the degree of transparency of the specified fillfor a shape as a
 
 ## Syntax
 
-_expression_. `Transparency`
+_expression_.**Transparency**
 
-_expression_ Required. A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
+_expression_ Required. A variable that represents a **[FillFormat](word.fillformat.md)** object.
 
 
 ## Remarks

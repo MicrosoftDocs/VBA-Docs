@@ -19,72 +19,23 @@ Sets the specified fill to a preset gradient.
 
 ## Syntax
 
-_expression_. `PresetGradient`( `_Style_`, `_Variant_`, `_PresetGradientType_` )
+_expression_.**PresetGradient** (_Style_, _Variant_, _PresetGradientType_)
 
- _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
+_expression_ A variable that represents a **[FillFormat](powerpoint.fillformat.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Style_|Required|**MsoGradientStyle**|The gradient style.|
-| _Variant_|Required|**Integer**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the  **Gradient** subtab on the **Shape Fill** tab. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
-| _PresetGradientType_|Required|**MsoPresetGradientType**|The gradient type.|
+| _Style_|Required|**[MsoGradientStyle](office.msogradientstyle.md)**|The gradient style.|
+| _Variant_|Required|**Integer**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the **Gradient** subtab on the **Shape Fill** tab. If _Style_ is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
+| _PresetGradientType_|Required|**[MsoPresetGradientType](office.msopresetgradienttype.md)**|The gradient type.|
 
-## Remarks
-
-The  _Style_ parameter value can be one of these **MsoGradientStyle** constants.
-
-
-||
-|:-----|
-|**msoGradientDiagonalDown**|
-|**msoGradientDiagonalUp**|
-|**msoGradientFromCenter**|
-|**msoGradientFromCorner**|
-|**msoGradientFromTitle**|
-|**msoGradientHorizontal**|
-|**msoGradientMixed**|
-|**msoGradientVertical**|
-
-The  _PresetGradientType_ parameter value can be one of these **MsoPresetGradientType** constants.
-
-
-||
-|:-----|
-|**msoGradientBrass**|
-|**msoGradientCalmWater**|
-|**msoGradientChrome**|
-|**msoGradientChromeII**|
-|**msoGradientDaybreak**|
-|**msoGradientDesert**|
-|**msoGradientEarlySunset**|
-|**msoGradientFire**|
-|**msoGradientFog**|
-|**msoGradientGold**|
-|**msoGradientGoldII**|
-|**msoGradientHorizon**|
-|**msoGradientLateSunset**|
-|**msoGradientMahogany**|
-|**msoGradientMoss**|
-|**msoGradientNightfall**|
-|**msoGradientOcean**|
-|**msoGradientParchment**|
-|**msoGradientPeacock**|
-|**msoGradientRainbow**|
-|**msoGradientRainbowII**|
-|**msoGradientSapphire**|
-|**msoGradientSilver**|
-|**msoGradientWheat**|
-|**msoPresetGradientMixed**|
 
 ## Example
 
-This example adds a rectangle with a preset gradient fill to  _myDocument_.
-
+This example adds a rectangle with a preset gradient fill to _myDocument_.
 
 ```vb
 Set myDocument = ActivePresentation.Slides(1)
@@ -93,9 +44,5 @@ myDocument.Shapes.AddShape(msoShapeRectangle, 90, 90, 140, 80).Fill.PresetGradie
 ```
 
 
-## See also
-
-
-[FillFormat Object](PowerPoint.FillFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

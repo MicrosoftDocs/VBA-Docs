@@ -19,7 +19,7 @@ Returns or sets the degree of transparency for the reflection effect as a value 
 
 ## Syntax
 
-_expression_. `Transparency`
+_expression_.**Transparency**
 
  _expression_ An expression that returns a '[ReflectionFormat](Word.ReflectionFormat.md)' object.
 

@@ -19,7 +19,7 @@ Determines whether the specified text (for the  **Font** object) or the font sty
 
 ## Syntax
 
-_expression_. `Underline`
+_expression_.**Underline**
 
  _expression_ A variable that represents an [Font](./PowerPoint.Font.md) object.
 

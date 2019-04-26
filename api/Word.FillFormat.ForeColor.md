@@ -19,9 +19,9 @@ Returns or sets a  **[ColorFormat](Word.ColorFormat.md)** object that represents
 
 ## Syntax
 
-_expression_. `ForeColor`
+_expression_.**ForeColor**
 
- _expression_ A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
+ _expression_ A variable that represents a **[FillFormat](word.fillformat.md)** object.
 
 
 ## Example

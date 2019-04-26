@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Graphic.Parent
 ms.assetid: b3592a6c-e7e3-a95a-9b7b-393c35dbba76
-ms.date: 06/08/2017
+ms.date: 04/26/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [Graphic](Excel.Graphic.md) object.
+_expression_ A variable that represents a **[Graphic](Excel.Graphic.md)** object.
 
 
-## See also
 
-
-[Graphic Object](Excel.Graphic.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

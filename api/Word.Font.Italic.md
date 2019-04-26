@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `Italic`
+_expression_.**Italic**
 
  _expression_ A variable that represents a '[Font](Word.Font.md)' object.
 

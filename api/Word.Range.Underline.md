@@ -19,7 +19,7 @@ Returns or sets the type of underline applied to a range. Read/write  **WdUnderl
 
 ## Syntax
 
-_expression_. `Underline`
+_expression_.**Underline**
 
 _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 

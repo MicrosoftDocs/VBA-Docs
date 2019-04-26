@@ -19,7 +19,7 @@ Gets or sets the address for a shape's  **Hyperlink** object, the address to whi
 
 ## Syntax
 
-_expression_. `Address`
+_expression_.**Address**
 
  _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 

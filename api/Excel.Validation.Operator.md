@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # Validation.Operator property (Excel)
 
-Returns a  **Long** value that represents the operator for the data validation.
+Returns a **Long** value that represents the operator for the data validation.
 
 
 ## Syntax
 
-_expression_. `Operator`
+_expression_.**Operator**
 
-_expression_ A variable that represents a [Validation](Excel.Validation.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[Validation](Excel.Validation.md)** object.
 
 
-[Validation Object](Excel.Validation.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

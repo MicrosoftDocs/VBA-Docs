@@ -19,43 +19,23 @@ Sets the specified fill to a two-color gradient.
 
 ## Syntax
 
-_expression_. `TwoColorGradient`( `_Style_`, `_Variant_` )
+_expression_.**TwoColorGradient** (_Style_, _Variant_)
 
- _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
+_expression_ A variable that represents a **[FillFormat](powerpoint.fillformat.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Style_|Required|**MsoGradientStyle**|The gradient style.|
-| _Variant_|Required|**Long**|The gradient variant. |
+| _Style_|Required|**[MsoGradientStyle](Office.MsoGradientStyle.md)**|The gradient style.|
+| _Variant_|Required|**Long**|The gradient variant. Can be from 1 to 4, corresponding to the four variants on the **Gradient** sub-tab on the **Shape Fill** tab. If _Style_ is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
 
-## Remarks
-
-The  _Style_ parameter value can be one of these **MsoGradientStyle** constants.
-
-
-||
-|:-----|
-|**msoGradientDiagonalDown**|
-|**msoGradientDiagonalUp**|
-|**msoGradientFromCenter**|
-|**msoGradientFromCorner**|
-|**msoGradientFromTitle**|
-|**msoGradientHorizontal**|
-|**msoGradientMixed**|
-|**msoGradientVertical**|
-
-The Variant parameter value can be from 1 to 4, corresponding to the four variants on the  **Gradient** sub-tab on the **Shape Fill** tab. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.
 
 
 ## Example
 
-This example adds a rectangle with a two-color gradient fill to  _myDocument_ and sets the background and foreground color for the fill.
-
+This example adds a rectangle with a two-color gradient fill to _myDocument_ and sets the background and foreground color for the fill.
 
 ```vb
 Set myDocument = ActivePresentation.Slides(1)
@@ -71,9 +51,5 @@ End With
 ```
 
 
-## See also
-
-
-[FillFormat Object](PowerPoint.FillFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
