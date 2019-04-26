@@ -24,7 +24,7 @@ _expression_ A variable that represents a [TextConnection](Excel.textconnection.
 
 ## Remarks
 
-Because the object was created in Microsoft Excel, this property returns the hexadecimal value, 5843454C, which represents the string "XCEL".
+Because the object was created in Microsoft Excel, this property returns the hexadecimal value, 5843454C, which represents the string XCEL.
 
 
 ## Property value
