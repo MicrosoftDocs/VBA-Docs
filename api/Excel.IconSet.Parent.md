@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.IconSet.Parent
 ms.assetid: 2bd54b76-c705-f833-3204-859fc779f83c
-ms.date: 06/08/2017
+ms.date: 04/27/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents an [IconSet](Excel.IconSet.md) object.
+_expression_ A variable that represents an **[IconSet](Excel.IconSet.md)** object.
 
 
-## See also
 
-
-[IconSet Object](Excel.IconSet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,26 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.IRTDUpdateEvent.Disconnect
 ms.assetid: 4d0c5438-5049-3b34-69d4-38dabd625b1f
-ms.date: 06/08/2017
+ms.date: 04/27/2019
 localization_priority: Normal
 ---
 
 
 # IRTDUpdateEvent.Disconnect method (Excel)
 
-Instructs the real-time data server (RTD) to disconnect from the specified  **IRTDUpdateEvent** object.
+Instructs the real-time data (RTD) server to disconnect from the specified **IRTDUpdateEvent** object.
 
 
 ## Syntax
 
-_expression_. `Disconnect`
+_expression_.**Disconnect**
 
-_expression_ A variable that represents an [IRTDUpdateEvent](Excel.IRTDUpdateEvent.md) object.
-
-
-## See also
+_expression_ A variable that represents an **[IRTDUpdateEvent](Excel.IRTDUpdateEvent.md)** object.
 
 
-[IRTDUpdateEvent Object](Excel.IRTDUpdateEvent.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

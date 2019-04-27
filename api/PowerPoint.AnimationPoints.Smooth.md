@@ -19,7 +19,7 @@ Determines whether the transition from one animation point to another is smoothe
 
 ## Syntax
 
-_expression_. `Smooth`
+_expression_.**Smooth**
 
 _expression_ A variable that represents a [AnimationPoints](./PowerPoint.AnimationPoints.md) object.
 

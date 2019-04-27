@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # FillFormat.PictureEffects property (Excel)
 
-Returns an object that represents the picture or texture fill for the specified fill format. Read-only.
+Returns a **[PictureEffects](Office.PictureEffects.md)** object that represents the picture or texture fill for the specified fill format. Read-only.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[FillFormat](Excel.FillFormat.md)** 
 
 ## Return value
 
-[PictureEffects](Office.PictureEffects.md)
+**PictureEffects** object
 
 
 ## Remarks

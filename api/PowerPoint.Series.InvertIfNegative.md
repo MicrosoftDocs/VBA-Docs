@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `InvertIfNegative`
+_expression_.**InvertIfNegative**
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

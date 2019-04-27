@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.IconSetCondition.Parent
 ms.assetid: fa2260b1-f987-25c6-29d1-ac3786599fe4
-ms.date: 06/08/2017
+ms.date: 04/27/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
+_expression_ A variable that represents an **[IconSetCondition](Excel.IconSetCondition.md)** object.
 
 
-## See also
 
-
-[IconSetCondition Object](Excel.IconSetCondition.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.LegendKey.InvertIfNegative
 ms.assetid: f0c6cd77-b24f-f0ce-36da-117f5f291858
-ms.date: 06/08/2017
+ms.date: 04/27/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,11 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `InvertIfNegative`
+_expression_.**InvertIfNegative**
 
-_expression_ A variable that represents a [LegendKey](Excel.LegendKey-graph-property.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[LegendKey](excel.legendkey(object).md)** object.
 
 
-[LegendKey Object](Excel.LegendKey(object).md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

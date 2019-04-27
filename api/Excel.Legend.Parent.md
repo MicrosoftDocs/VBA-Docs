@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Legend.Parent
 ms.assetid: c419b373-af3a-faa9-6934-2aa53bcdd555
-ms.date: 06/08/2017
+ms.date: 04/27/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [Legend](Excel.Legend-graph-property.md) object.
+_expression_ A variable that represents a **[Legend](excel.legend(object).md)** object.
 
 
-## See also
 
-
-[Legend Object](Excel.Legend(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.LegendEntries.Item
 ms.assetid: 8f7250b8-1c52-3e8a-4b09-906e917fdcac
-ms.date: 06/08/2017
+ms.date: 04/27/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,10 @@ Returns a single object from a collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [LegendEntries](Excel.LegendEntries(object).md) object.
+_expression_ A variable that represents a **[LegendEntries](Excel.LegendEntries(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,13 +32,12 @@ _expression_ A variable that represents a [LegendEntries](Excel.LegendEntries(ob
 
 ## Return value
 
-A  **[LegendEntry](Excel.LegendEntry(object).md)** object contained by the collection.
+A **[LegendEntry](Excel.LegendEntry(object).md)** object contained by the collection.
 
 
 ## Example
 
 This example changes the font for the text of the legend entry at the top of the legend (this is usually the legend for series one) in embedded chart one on Sheet1.
-
 
 ```vb
 Worksheets("sheet1").ChartObjects(1).Chart _ 
@@ -48,9 +45,5 @@ Worksheets("sheet1").ChartObjects(1).Chart _
 ```
 
 
-## See also
-
-
-[LegendEntries Object](Excel.LegendEntries(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

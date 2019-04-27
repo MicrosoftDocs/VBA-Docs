@@ -7,26 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.Legend.Width
 ms.assetid: 267e2f8f-5299-15d9-65e2-886e9f59c5e8
-ms.date: 06/08/2017
+ms.date: 04/27/2019
 localization_priority: Normal
 ---
 
 
 # Legend.Width property (Excel)
 
-Returns or sets a  **Double** value that represents the width, in [points](../language/glossary/vbe-glossary.md#point), of the object.
+Returns or sets a **Double** value that represents the width, in [points](../language/glossary/vbe-glossary.md#point), of the object.
 
 
 ## Syntax
 
 _expression_.**Width**
 
-_expression_ A variable that represents a [Legend](Excel.Legend-graph-property.md) object.
+_expression_ A variable that represents a **[Legend](excel.legend(object).md)** object.
 
 
-## See also
 
-
-[Legend Object](Excel.Legend(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,32 +7,33 @@ ms.prod: excel
 api_name:
 - Excel.IconCriterion.Icon
 ms.assetid: bcf25274-2dbb-535d-404c-0eec0f312a15
-ms.date: 06/08/2017
+ms.date: 04/27/2019
 localization_priority: Normal
 ---
 
 
 # IconCriterion.Icon property (Excel)
 
-Returns or specifies the icon for a criterion in an icon set conditional formatting rule. Read/write
+Returns or specifies the icon for a criterion in an icon set conditional formatting rule. Read/write.
 
 
 ## Syntax
 
-_expression_. `Icon`
+_expression_.**Icon**
 
-_expression_ A variable that represents an '[IconCriterion](Excel.IconCriterion.md)' object.
+_expression_ A variable that represents an **[IconCriterion](Excel.IconCriterion.md)** object.
 
 
 ## Remarks
 
-After you set the  **Icon** property for the icon criterion in an icon set conditional formatting rule, the **[IconSet](Excel.IconSetCondition.IconSet.md)** property is changed to **xlCustomSet**.
+After you set the **Icon** property for the icon criterion in an icon set conditional formatting rule, the **[IconSet](Excel.IconSetCondition.IconSet.md)** property of the **IconSetCondition** object is changed to **xlCustomSet**.
 
 
 ## Example
 
-The following code example creates an icon set conditional formatting rule that displays four icons split across the specified percentages. The icon set is initially set to use the  **4 Arrows (Colored)** icon set, but the **Icon** property is used to override which icons are used for the first and third criteria. After running the code, the icon for the first criterion is the **Red Cross** icon, the icon for the second criterion is the second arrow from the **4 Arrows (Colored)** icon set, the icon for the third criterion is the **Yellow Traffic Light** icon, and the icon for the fourth criterion is the fourth arrow from **4 Arrows (Colored)** icon set.
+The following code example creates an icon set conditional formatting rule that displays four icons split across the specified percentages. The icon set is initially set to use the **4 Arrows (Colored)** icon set, but the **Icon** property is used to override which icons are used for the first and third criteria. 
 
+After running the code, the icon for the first criterion is the **Red Cross** icon, the icon for the second criterion is the second arrow from the **4 Arrows (Colored)** icon set, the icon for the third criterion is the **Yellow Traffic Light** icon, and the icon for the fourth criterion is the fourth arrow from **4 Arrows (Colored)** icon set.
 
 ```vb
 Range("A1:A10").Select 
@@ -70,9 +71,5 @@ End With
 ```
 
 
-## See also
-
-
-[IconCriterion Object](Excel.IconCriterion.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

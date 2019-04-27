@@ -16,7 +16,7 @@ Returns or sets the marker foreground color as an index into the current color p
 
 ## Syntax
 
-_expression_. `MarkerForegroundColorIndex`
+_expression_.**MarkerForegroundColorIndex**
 
  _expression_ A variable that represents a '[LegendKey](PowerPoint.LegendKey.md)' object.
 

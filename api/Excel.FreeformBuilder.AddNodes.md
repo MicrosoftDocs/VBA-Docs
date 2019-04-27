@@ -39,7 +39,7 @@ _expression_ A variable that represents a **[FreeformBuilder](Excel.FreeformBuil
 
 ## Remarks
 
-Cannot be **msoEditingSmooth** or **msoEditingSymmetric**. If _SegmentType_ is **msoSegmentLine**, _EditingType_ must be **msoEditingAuto**.
+**MsoEditingType** cannot be **msoEditingSmooth** or **msoEditingSymmetric**. If _SegmentType_ is **msoSegmentLine**, _EditingType_ must be **msoEditingAuto**.
 
 ## Example
 
