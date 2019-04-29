@@ -72,6 +72,7 @@ You can also specify keys combined with Shift and/or Ctrl and/or Alt. To specify
 |Shift| `+` (plus sign)|
 |Ctrl| `^` (caret)|
 |Alt| `%` (percent sign)|
+|Command|`*` (asterisk) Only applies to Mac; may only work on Excel 2011 for Mac and not later versions.|
 
 To assign a procedure to one of the special characters (+, ^, %, and so on), enclose the character in braces. For details, see the example.
 
