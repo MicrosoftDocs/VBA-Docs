@@ -65,7 +65,7 @@ To specify characters that aren't displayed when you press the corresponding key
 
 <br/>
 
-You can also specify keys combined with Shift and/or Ctrl and/or Alt. To specify a key combined with another key or keys, use the following table.
+You can also specify keys combined with Shift and/or Ctrl and/or Alt and/or Command. To specify a key combined with another key or keys, use the following table.
 
 |To combine keys with|Precede the key code by|
 |:-----|:-----|

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ListColumn.Delete
 ms.assetid: d3c62503-0a49-afc2-8f26-224bdf13b50c
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Deletes the column of data in the list.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [ListColumn](Excel.ListColumn.md) object.
+_expression_ A variable that represents a **[ListColumn](Excel.ListColumn.md)** object.
 
 
 ## Remarks
@@ -29,9 +29,6 @@ _expression_ A variable that represents a [ListColumn](Excel.ListColumn.md) obje
 This method does not remove the column from the sheet. If the list is linked to a Microsoft SharePoint Foundation site, the column cannot be removed from the server, and an error is generated.
 
 
-## See also
 
-
-[ListColumn Object](Excel.ListColumn.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
