@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ListObject.ShowTableStyleLastColumn
 ms.assetid: 5808ce55-d7a2-aac4-eb5a-6b24b1052332
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns or sets if the last column is displayed for the specified  **ListObject*
 
 _expression_. `ShowTableStyleLastColumn`
 
-_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## See also

@@ -7,21 +7,21 @@ ms.prod: excel
 api_name:
 - Excel.ListObject.Active
 ms.assetid: abe995da-6471-e611-ee04-d24f8518327c
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
 
 # ListObject.Active property (Excel)
 
- Returns a **Boolean** value indicating whether a **[ListObject](Excel.ListObject.md)** object in a worksheet is active—that is, whether the active cell is inside the range of the **ListObject** object. Read-only **Boolean**.
+Returns a **Boolean** value indicating whether a **[ListObject](Excel.ListObject.md)** object in a worksheet is active—that is, whether the active cell is inside the range of the **ListObject** object. Read-only **Boolean**.
 
 
 ## Syntax
 
 _expression_.**Active**
 
-_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Remarks

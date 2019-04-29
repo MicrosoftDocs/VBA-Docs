@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ListObject.Unlist
 ms.assetid: 030f8f78-08e1-8a49-ee06-a7b4254aa5fc
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Removes the list functionality from a  **[ListObject](Excel.ListObject.md)** obj
 
 _expression_. `Unlist`
 
-_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Remarks

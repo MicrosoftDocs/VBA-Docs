@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ListObject.HeaderRowRange
 ms.assetid: af7ca1d5-f72f-f369-9946-c64eb0cf9da0
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the range 
 
 _expression_. `HeaderRowRange`
 
-_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Example

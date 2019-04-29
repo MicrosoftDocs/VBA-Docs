@@ -21,7 +21,7 @@ Returns a  **Long** that represents the number of protected view windows in the 
 
 _expression_.**Count**
 
- _expression_ An expression that returns a [ProtectedViewWindows](./Word.ProtectedViewWindows.md) object.
+_expression_ An expression that returns a **[ProtectedViewWindows](Word.ProtectedViewWindows.md)** object.
 
 
 ## Example

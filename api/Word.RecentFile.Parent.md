@@ -21,7 +21,7 @@ Returns an  **Object** that represents the parent object of the specified **Rece
 
 _expression_.**Parent**
 
-_expression_ Required. A variable that represents a '[RecentFile](Word.RecentFile.md)' object.
+_expression_ Required. A variable that represents a **[RecentFile](Word.RecentFile.md)** object.
 
 
 ## See also

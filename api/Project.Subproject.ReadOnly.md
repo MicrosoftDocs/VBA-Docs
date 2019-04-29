@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `ReadOnly`
+_expression_.**ReadOnly**
 
  _expression_ A variable that represents a [Subproject](./Project.Subproject.md) object.
 

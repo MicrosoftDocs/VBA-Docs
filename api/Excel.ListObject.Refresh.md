@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ListObject.Refresh
 ms.assetid: 7827a116-0ba4-9855-e0e9-550a85d36ed3
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Retrieves the current data and schema for the list from the server that is runni
 
 _expression_.**Refresh**
 
-_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Remarks

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ListObjects.Item
 ms.assetid: 39f00da9-170d-e62b-4beb-38e06a8ba533
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a single object from a collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [ListObjects](Excel.ListObjects.md) object.
+_expression_ A variable that represents a **[ListObjects](Excel.ListObjects.md)** object.
 
 
 ## Parameters

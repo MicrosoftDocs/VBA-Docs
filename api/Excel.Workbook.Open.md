@@ -19,7 +19,7 @@ Occurs when the workbook is opened.
 
 ## Syntax
 
-_expression_. `Open`
+_expression_.**Open**
 
  _expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
 

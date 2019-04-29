@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ListObject.ShowTableStyleRowStripes
 ms.assetid: e4853b8a-862f-857b-2d61-a0da3a78e40d
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns or sets if the Row Stripes table style is used for the specified  **List
 
 _expression_. `ShowTableStyleRowStripes`
 
-_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## See also

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ListObject.InsertRowRange
 ms.assetid: 5957f802-96b8-60a3-74e4-d7abcea7544b
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `InsertRowRange`
 
-_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Remarks

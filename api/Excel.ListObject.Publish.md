@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ListObject.Publish
 ms.assetid: 8b25819d-51c3-f505-8b9c-184355c48055
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Publishes the  **[ListObject](Excel.ListObject.md)** object to a server that is 
 
 _expression_. `Publish`( `_Target_` , `_LinkSource_` )
 
-_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Parameters

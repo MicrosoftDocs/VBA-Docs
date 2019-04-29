@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ListObject.ShowHeaders
 ms.assetid: 9b22396b-766d-7ff3-6d18-a6e5bf4bcc57
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns or sets if the header information should be displayed for the specified 
 
 _expression_. `ShowHeaders`
 
-_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## See also

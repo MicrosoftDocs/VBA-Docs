@@ -7,34 +7,33 @@ ms.prod: excel
 api_name:
 - Excel.ListDataFormat.DefaultValue
 ms.assetid: 503de2f7-878e-a946-9138-10922082bc0d
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
 
 # ListDataFormat.DefaultValue property (Excel)
 
- Returns **Variant** representing the default data type value for a new row in a column. The **Nothing** object is returned when the schema does not specify a default value. Read-only **Variant**.
+Returns **Variant** representing the default data type value for a new row in a column. The **Nothing** object is returned when the schema does not specify a default value. Read-only **Variant**.
 
 
 ## Syntax
 
 _expression_.**DefaultValue**
 
-_expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
+_expression_ A variable that represents a **[ListDataFormat](Excel.ListDataFormat.md)** object.
 
 
 ## Remarks
 
 This property is used only for tables linked to a Microsoft SharePoint Foundation site.
 
-In Excel, you cannot set any of the properties associated with the  **[ListDataFormat](Excel.ListDataFormat.md)** object. You can set these properties, however, by modifying the list on the SharePoint site.
+In Excel, you cannot set any of the properties associated with the **ListDataFormat** object. However, you can set these properties by modifying the list on the SharePoint site.
 
 
 ## Example
 
-The following example displays the setting of the  **DefaultValue** property for the third column of the table in Sheet1 of the active workbook. This code requires a list linked to a SharePoint site.
-
+The following example displays the setting of the **DefaultValue** property for the third column of the table on Sheet1 of the active workbook. This code requires a list linked to a SharePoint site.
 
 ```vb
 Sub ShowDefaultSetting() 
@@ -53,9 +52,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[ListDataFormat Object](Excel.ListDataFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

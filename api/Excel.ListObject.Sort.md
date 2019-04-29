@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ListObject.Sort
 ms.assetid: 92c96e0f-354f-231a-ccff-8ff1a3049ddf
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Gets or sets the sort column or columns, and sort order for the  **ListObject** 
 
 _expression_.**Sort**
 
-_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## See also

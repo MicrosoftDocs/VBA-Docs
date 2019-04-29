@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ListObject.Delete
 ms.assetid: cd621c14-5e13-b51b-2b39-29118aeac3c8
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Deletes the  **[ListObject](Excel.ListObject.md)** object and clears the cell da
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Remarks

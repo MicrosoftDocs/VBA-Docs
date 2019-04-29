@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ListObject.Name
 ms.assetid: fbbdf2f9-6c5f-6ebe-35b1-74aab63971a4
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the name of the **[ListObjec
 
 _expression_.**Name**
 
- _expression_ An expression that returns a [ListObject](Excel.ListObject.md) object.
+ _expression_ An expression that returns a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Return value

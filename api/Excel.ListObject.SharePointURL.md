@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ListObject.SharePointURL
 ms.assetid: a5b19612-c8e8-4952-e15c-a60da10f65d1
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `SharePointURL`
 
-_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Deletes the specified file on the list of recent files.
 
 _expression_.**Delete**
 
-_expression_ Required. A variable that represents a '[RecentFile](Word.RecentFile.md)' object.
+_expression_ Required. A variable that represents a **[RecentFile](Word.RecentFile.md)** object.
 
 
 ## See also

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ListObject.ExportToVisio
 ms.assetid: 2f4f1079-9971-d7ac-5bf5-3bcc4e68e804
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Exports a  **ListObject** object to Visio.
 
 _expression_. `ExportToVisio`
 
-_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## See also

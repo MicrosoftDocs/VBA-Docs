@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ListObject.Creator
 ms.assetid: 39d04a9a-c36e-5d09-df79-cbb802ddbe28
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a 32-bit integer that indicates the application in which this object was
 
 _expression_.**Creator**
 
-_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Remarks

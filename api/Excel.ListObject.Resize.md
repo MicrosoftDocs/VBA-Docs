@@ -21,7 +21,7 @@ The  **Resize** method allows a **[ListObject](Excel.ListObject.md)** object to 
 
 _expression_.**Resize** (_Range_)
 
- _expression_ An expression that returns a [ListObject](Excel.ListObject.md) object.
+ _expression_ An expression that returns a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Parameters
@@ -39,7 +39,7 @@ For tables that are linked to a server that is running Microsoft SharePoint Foun
 
 ## Example
 
-The following example uses the  **Resize** method to resize the default **ListObject** object in Sheet1 of the active workbook.
+The following example uses the  **Resize** method to resize the default **ListObject** object on Sheet1 of the active workbook.
 
 
 ```vb

@@ -19,14 +19,12 @@ Open and return a  **ProtectedViewWindow** object from the **ProtectedViewWindow
 
 ## Syntax
 
-_expression_. `Open`( `_FileName_`, `_ReadPassword_`, `_OpenAndRepair_` )
+_expression_.**Open** (_FileName_, _ReadPassword_, _OpenAndRepair_)
 
  _expression_ A variable that represents a [ProtectedViewWindows](./PowerPoint.ProtectedViewWindows.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

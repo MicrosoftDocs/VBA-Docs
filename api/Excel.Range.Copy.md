@@ -51,7 +51,7 @@ Worksheets("Sheet1").Range("A1:D4").Copy _
 
  **Sample code provided by:** Bill Jelen, [MrExcel.com](https://www.mrexcel.com/)
 
-The following code example inspects the value in column D for each row in Sheet1. If the value in column D equals "A" the entire row is copied onto SheetA, in the next empty row. If the value equals "B" the row is copied onto SheetB.
+The following code example inspects the value in column D for each row on Sheet1. If the value in column D equals "A" the entire row is copied onto SheetA, in the next empty row. If the value equals "B" the row is copied onto SheetB.
 
 
 

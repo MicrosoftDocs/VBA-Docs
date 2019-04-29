@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ListObject.ListColumns
 ms.assetid: 64cefe01-b0e6-1cdd-3eec-7cb8389666dc
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a  **[ListColumns](Excel.ListColumns.md)** collection that represents al
 
 _expression_. `ListColumns`
 
-_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Example

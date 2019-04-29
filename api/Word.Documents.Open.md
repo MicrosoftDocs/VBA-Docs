@@ -19,14 +19,12 @@ Opens the specified document and adds it to the  **Documents** collection. Retur
 
 ## Syntax
 
-_expression_. `Open`( `_FileName_` , `_ConfirmConversions_` , `_ReadOnly_` , `_AddToRecentFiles_` , `_PasswordDocument_` , `_PasswordTemplate_` , `_Revert_` , `_WritePasswordDocument_` , `_WritePasswordTemplate_` , `_Format_` , `_Encoding_` , `_Visible_` , `_OpenConflictDocument_` , `_OpenAndRepair_` , `_DocumentDirection_` , `_NoEncodingDialog_` )
+_expression_.**Open** (_FileName_, _ConfirmConversions_, _ReadOnly_, _AddToRecentFiles_, _PasswordDocument_, _PasswordTemplate_, _Revert_, _WritePasswordDocument_, _WritePasswordTemplate_, _Format_, _Encoding_, _Visible_, _OpenConflictDocument_, _OpenAndRepair_, _DocumentDirection_, _NoEncodingDialog_)
 
 _expression_ Required. A variable that represents a '[Documents](Word.documents.md)' collection.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

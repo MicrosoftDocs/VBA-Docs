@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ListObjects.Add
 ms.assetid: 764dafed-d4e3-82b9-df8c-68a358319491
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Creates a new list object.
 
 _expression_.**Add**( `_SourceType_` , `_Source_` , `_LinkSource_` , `_XlListObjectHasHeaders_` , `_Destination_` , `_TableStyleName_` )
 
-_expression_ A variable that represents a [ListObjects](Excel.ListObjects.md) object.
+_expression_ A variable that represents a **[ListObjects](Excel.ListObjects.md)** object.
 
 
 ## Parameters

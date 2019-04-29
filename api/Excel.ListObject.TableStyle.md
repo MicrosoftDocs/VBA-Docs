@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ListObject.TableStyle
 ms.assetid: e9c2d152-e060-3132-d27c-35020d3380ab
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Gets or sets the table style for the specified  **ListObject** object. Read/writ
 
 _expression_. `TableStyle`
 
-_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## See also

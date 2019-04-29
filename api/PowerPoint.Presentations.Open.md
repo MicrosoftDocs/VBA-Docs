@@ -19,14 +19,12 @@ Opens the specified presentation. Returns a  **[Presentation](PowerPoint.Present
 
 ## Syntax
 
-_expression_. `Open`( `_FileName_`, `_ReadOnly_`, `_Untitled_`, `_WithWindow_` )
+_expression_.**Open** (_FileName_, _ReadOnly_, _Untitled_, _WithWindow_)
 
- _expression_ A variable that represents an [Presentations](./PowerPoint.Presentations.md) object.
+_expression_ A variable that represents an [Presentations](./PowerPoint.Presentations.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

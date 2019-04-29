@@ -21,7 +21,7 @@ Returns an  **Object** that represents the parent object of the specified **Prot
 
 _expression_.**Parent**
 
- _expression_ An expression that returns a [ProtectedViewWindows](./Word.ProtectedViewWindows.md) object.
+_expression_ An expression that returns a **[ProtectedViewWindows](Word.ProtectedViewWindows.md)** object.
 
 
 ## See also
