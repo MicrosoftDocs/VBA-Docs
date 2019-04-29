@@ -19,7 +19,7 @@ Returns or sets the style of the arrowhead at the end of the specified line. Rea
 
 ## Syntax
 
-_expression_. `EndArrowheadStyle`
+_expression_.**EndArrowheadStyle**
 
  _expression_ A variable that represents an [LineFormat](./PowerPoint.LineFormat.md) object.
 
@@ -46,7 +46,7 @@ The  **EndArrowheadStyle** property value can be one of these **MsoArrowheadStyl
 
 ## Example
 
-This example adds a line to  _myDocument_. There's a short, narrow oval on the line's starting point and a long, wide triangle on its endpoint.
+This example adds a line to _myDocument_. There's a short, narrow oval on the line's starting point and a long, wide triangle on its endpoint.
 
 
 ```vb

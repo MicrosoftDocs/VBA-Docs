@@ -26,7 +26,7 @@ _expression_. `TextFrame`
 
 ## Example
 
-This example adds a rectangle to  _myDocument_ , adds text to the rectangle, and sets the margins for the text frame.
+This example adds a rectangle to _myDocument_, adds text to the rectangle, and sets the margins for the text frame.
 
 
 ```vb

@@ -36,7 +36,7 @@ Because a group of shapes is treated as a single shape, grouping and ungrouping 
 
 ## Example
 
-This example adds two shapes to  _myDocument_, groups the two new shapes, sets the fill for the group, rotates the group, and sends the group to the back of the drawing layer.
+This example adds two shapes to _myDocument_, groups the two new shapes, sets the fill for the group, rotates the group, and sends the group to the back of the drawing layer.
 
 
 ```vb

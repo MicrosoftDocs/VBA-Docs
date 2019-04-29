@@ -19,7 +19,7 @@ Updates the result of the field. Returns  **True** if the field is updated succe
 
 ## Syntax
 
-_expression_. `Update`
+_expression_.**Update**
 
 _expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
 

@@ -31,7 +31,7 @@ ColorFormat
 
 ## Example
 
-This example adds a rectangle to  _myDocument_ and then sets the foreground color, background color, and gradient for the rectangle's fill.
+This example adds a rectangle to _myDocument_ and then sets the foreground color, background color, and gradient for the rectangle's fill.
 
 
 ```vb
@@ -45,7 +45,7 @@ With myDocument.Shapes.AddShape(msoShapeRectangle, _
 End With
 ```
 
-This example adds a patterned line to  _myDocument_.
+This example adds a patterned line to _myDocument_.
 
 
 

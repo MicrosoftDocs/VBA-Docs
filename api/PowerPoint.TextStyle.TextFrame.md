@@ -38,7 +38,7 @@ Use the  **HasTextFrame** property to determine whether a shape contains a text 
 
 ## Example
 
-This example adds a rectangle to  _myDocument_, adds text to the rectangle, and sets the top margin for the text frame.
+This example adds a rectangle to _myDocument_, adds text to the rectangle, and sets the top margin for the text frame.
 
 
 ```vb

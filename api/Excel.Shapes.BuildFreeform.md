@@ -41,7 +41,7 @@ FreeformBuilder
 
 ## Example
 
-This example adds a freeform with five vertices to  _myDocument_.
+This example adds a freeform with five vertices to _myDocument_.
 
 
 ```vb

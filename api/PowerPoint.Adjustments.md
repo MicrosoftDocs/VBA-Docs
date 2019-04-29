@@ -45,7 +45,7 @@ The following table summarizes the ranges of valid adjustment values for differe
 
 ## Example
 
-The following example adds a right-arrow callout to  _myDocument_ and sets adjustment values for the callout. Note that although the shape has only three adjustment handles, it has four adjustments. Adjustments three and four both correspond to the handle between the head and neck of the arrow.
+The following example adds a right-arrow callout to _myDocument_ and sets adjustment values for the callout. Note that although the shape has only three adjustment handles, it has four adjustments. Adjustments three and four both correspond to the handle between the head and neck of the arrow.
 
 
 ```vb

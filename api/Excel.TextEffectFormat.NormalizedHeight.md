@@ -39,7 +39,7 @@ _expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFor
 
 ## Example
 
-This example adds WordArt that contains the text "Test Effect" to  _myDocument_ and gives the new WordArt the name "texteff1." The code then makes all characters in the shape named "texteff1" the same height.
+This example adds WordArt that contains the text "Test Effect" to _myDocument_ and gives the new WordArt the name "texteff1." The code then makes all characters in the shape named "texteff1" the same height.
 
 
 ```vb

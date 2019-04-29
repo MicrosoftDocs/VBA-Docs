@@ -33,7 +33,7 @@ The  **[Flip](PowerPoint.Shape.Flip.md)** method and **[Rotation](PowerPoint.Sha
 
 ## Example
 
-This example adds WordArt that contains the text "Test" to  _myDocument_, and switches from horizontal text flow (the default for the specified WordArt style,  **msoTextEffect1**) to vertical text flow.
+This example adds WordArt that contains the text "Test" to _myDocument_, and switches from horizontal text flow (the default for the specified WordArt style,  **msoTextEffect1**) to vertical text flow.
 
 
 ```vb

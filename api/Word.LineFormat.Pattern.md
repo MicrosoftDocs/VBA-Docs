@@ -21,12 +21,12 @@ Returns or sets a value that represents the pattern applied to the specified lin
 
 _expression_.**Pattern**
 
-_expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
+_expression_ Required. A variable that represents a **[LineFormat](Word.LineFormat.md)** object.
 
 
 ## Example
 
-This example adds a patterned line to  _myDocument_.
+This example adds a patterned line to _myDocument_.
 
 
 ```vb

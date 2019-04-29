@@ -39,7 +39,7 @@ _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** 
 
 ## Example
 
-This example adds a cube to  _myDocument_. The cube can be moved and resized, but not reproportioned.
+This example adds a cube to _myDocument_. The cube can be moved and resized, but not reproportioned.
 
 
 ```vb

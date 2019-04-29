@@ -48,7 +48,7 @@ To change the type of an AutoShape that you have added, set the  **[AutoShapeTyp
 
 ## Example
 
-This example adds a rectangle to  _myDocument_.
+This example adds a rectangle to _myDocument_.
 
 
 ```vb

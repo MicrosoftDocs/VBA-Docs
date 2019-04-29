@@ -53,7 +53,7 @@ Use the  **ZOrderPosition** property to determine a shape's current position in 
 
 ## Example
 
-This example adds an oval to  _myDocument_ and then places the oval second from the back in the z-order if there is at least one other shape on the slide.
+This example adds an oval to _myDocument_ and then places the oval second from the back in the z-order if there is at least one other shape on the slide.
 
 
 ```vb

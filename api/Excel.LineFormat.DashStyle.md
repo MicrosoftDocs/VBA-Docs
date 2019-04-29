@@ -7,27 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.LineFormat.DashStyle
 ms.assetid: b1a6f135-ca68-5399-9156-3044e99bf3ab
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
 
 # LineFormat.DashStyle property (Excel)
 
-Returns or sets the dash style for the specified line. Can be one of the  **[MsoLineDashStyle](Office.MsoLineDashStyle.md)** contants. Read/write **Long**.
+Returns or sets the dash style for the specified line. Can be one of the **[MsoLineDashStyle](Office.MsoLineDashStyle.md)** contants. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `DashStyle`
+_expression_.**DashStyle**
 
-_expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) object.
+_expression_ A variable that represents a **[LineFormat](Excel.LineFormat.md)** object.
 
 
 ## Example
 
-This example adds a blue dashed line to  _myDocument_.
-
+This example adds a blue dashed line to _myDocument_.
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -38,9 +37,6 @@ End With
 ```
 
 
-## See also
 
-
-[LineFormat Object](Excel.LineFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

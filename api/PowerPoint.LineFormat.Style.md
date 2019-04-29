@@ -45,7 +45,7 @@ The value of the  **Style** property can be one of these **MsoLineStyle** consta
 
 ## Example
 
-This example adds a thick, blue, compound line to  _myDocument_. The compound line consists of a thick line with a thin line on either side of it.
+This example adds a thick, blue, compound line to _myDocument_. The compound line consists of a thick line with a thin line on either side of it.
 
 
 ```vb

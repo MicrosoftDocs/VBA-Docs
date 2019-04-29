@@ -42,7 +42,7 @@ The  **[Flip](Excel.Shape.Flip.md)** method and **[Rotation](Excel.Shape.Rotatio
 
 ## Example
 
-This example adds WordArt that contains the text "Test" to  _myDocument_ and rotates the characters 90 degrees counterclockwise.
+This example adds WordArt that contains the text "Test" to _myDocument_ and rotates the characters 90 degrees counterclockwise.
 
 
 ```vb

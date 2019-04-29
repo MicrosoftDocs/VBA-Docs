@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `AutoUpdate`
+_expression_.**AutoUpdate**
 
  _expression_ A variable that represents a '[LinkFormat](Word.LinkFormat.md)' object.
 

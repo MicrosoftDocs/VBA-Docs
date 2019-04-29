@@ -36,7 +36,7 @@ The  **Depth** property value can be from - 600 through 9600 (positive values pr
 
 ## Example
 
-This example adds an oval to  _myDocument_, and then specifies that the oval be extruded to a depth of 50 points and that the extrusion be purple.
+This example adds an oval to _myDocument_, and then specifies that the oval be extruded to a depth of 50 points and that the extrusion be purple.
 
 
 ```vb

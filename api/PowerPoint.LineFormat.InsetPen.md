@@ -19,7 +19,7 @@ Determines whether to draw lines on the inside of a specified shape. Read/write.
 
 ## Syntax
 
-_expression_. `InsetPen`
+_expression_.**InsetPen**
 
  _expression_ A variable that represents an [LineFormat](./PowerPoint.LineFormat.md) object.
 

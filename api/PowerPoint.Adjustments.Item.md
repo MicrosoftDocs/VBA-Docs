@@ -46,7 +46,7 @@ AutoShapes, connectors, and WordArt objects can have up to eight adjustments.
 
 ## Example
 
-This example adds two crosses to  _myDocument_ and then sets the value for adjustment one (the only one on this type of AutoShape) on each cross.
+This example adds two crosses to _myDocument_ and then sets the value for adjustment one (the only one on this type of AutoShape) on each cross.
 
 
 ```vb

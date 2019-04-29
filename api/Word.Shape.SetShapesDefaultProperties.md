@@ -31,7 +31,7 @@ New shapes inherit many of their attributes from the default shape.
 
 ## Example
 
-This example adds a rectangle to  _myDocument_ , formats the rectangle's fill, applies the rectangle's formatting to the default shape, and then adds another (smaller) rectangle to the document. The second rectangle has the same fill as the first one.
+This example adds a rectangle to _myDocument_ , formats the rectangle's fill, applies the rectangle's formatting to the default shape, and then adds another (smaller) rectangle to the document. The second rectangle has the same fill as the first one.
 
 
 ```vb

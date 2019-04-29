@@ -31,7 +31,7 @@ For a line, the  **LineFormat** object represents the line itself; for a shape w
 
 ## Example
 
-This example adds a blue dashed line to  _myDocument_.
+This example adds a blue dashed line to _myDocument_.
 
 
 ```vb
@@ -42,7 +42,7 @@ With myDocument.Shapes.AddLine(10, 10, 250, 250).Line
 End With
 ```
 
-This example adds a cross to  _myDocument_ and then sets its border to be 8 points thick and red.
+This example adds a cross to _myDocument_ and then sets its border to be 8 points thick and red.
 
 
 

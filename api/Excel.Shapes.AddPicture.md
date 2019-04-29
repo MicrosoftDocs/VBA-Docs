@@ -66,7 +66,7 @@ Shape
 
 ## Example
 
-This example adds a picture created from the file Music.bmp to  _myDocument_. The inserted picture is linked to the file from which it was created and is saved with  _myDocument_.
+This example adds a picture created from the file Music.bmp to _myDocument_. The inserted picture is linked to the file from which it was created and is saved with  _myDocument_.
 
 
 ```vb

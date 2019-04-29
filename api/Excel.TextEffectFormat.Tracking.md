@@ -40,7 +40,7 @@ The following table gives the values of the  **Tracking** property that correspo
 
 ## Example
 
-This example adds WordArt that contains the text "Test" to  _myDocument_ and specifies that the characters be very tightly spaced.
+This example adds WordArt that contains the text "Test" to _myDocument_ and specifies that the characters be very tightly spaced.
 
 
 ```vb

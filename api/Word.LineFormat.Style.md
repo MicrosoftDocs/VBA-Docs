@@ -21,7 +21,7 @@ Returns or sets the line format style. Read/write  **MsoLineStyle**.
 
 _expression_.**Style**
 
-_expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
+_expression_ Required. A variable that represents a **[LineFormat](Word.LineFormat.md)** object.
 
 
 ## See also

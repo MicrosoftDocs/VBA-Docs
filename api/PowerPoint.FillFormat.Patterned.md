@@ -93,7 +93,7 @@ The value of the Pattern parameter can be one of these  **MsoPatternType** const
 
 ## Example
 
-This example adds an oval with a patterned fill to  _myDocument_.
+This example adds an oval with a patterned fill to _myDocument_.
 
 
 ```vb

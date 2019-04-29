@@ -21,7 +21,7 @@ Returns or sets a  **[ColorFormat](Word.ColorFormat.md)** object that represents
 
 _expression_. `BackColor`
 
- _expression_ A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
+ _expression_ A variable that represents a **[LineFormat](Word.LineFormat.md)** object.
 
 
 ## Example

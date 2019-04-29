@@ -42,7 +42,7 @@ The value of the  **NormalizedHeight** property can be one of these **MsoTriStat
 
 ## Example
 
-This example adds WordArt that contains the text "Test Effect" to  _myDocument_ and gives the new WordArt the name "texteff1." The code then makes all characters in the shape named "texteff1" the same height.
+This example adds WordArt that contains the text "Test Effect" to _myDocument_ and gives the new WordArt the name "texteff1." The code then makes all characters in the shape named "texteff1" the same height.
 
 
 ```vb

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 ## Example
 
-This example adds three triangles to  _myDocument_, groups them, sets a color for the entire group, and then changes the color for the second triangle only.
+This example adds three triangles to _myDocument_, groups them, sets a color for the entire group, and then changes the color for the second triangle only.
 
 
 ```vb
