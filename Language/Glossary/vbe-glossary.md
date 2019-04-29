@@ -3,7 +3,7 @@ title: VBE Glossary
 ms.prod: office
 ms.assetid: b8bdf64f-5920-1ae9-16d0-b26d09524a30
 description: Glossary of terms for Visual Basic Editor (VBE).
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Priority
 ---
 
