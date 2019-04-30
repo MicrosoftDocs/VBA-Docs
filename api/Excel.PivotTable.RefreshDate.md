@@ -19,7 +19,7 @@ Returns the date on which the PivotTable report was last refreshed. Read-only  *
 
 ## Syntax
 
-_expression_. `RefreshDate`
+_expression_.**RefreshDate**
 
 _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 

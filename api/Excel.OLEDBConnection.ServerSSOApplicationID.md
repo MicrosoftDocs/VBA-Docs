@@ -21,7 +21,7 @@ Returns or sets a single sign-on application (SSO) identifier that is used to pe
 
 _expression_. `ServerSSOApplicationID`
 
-_expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
+_expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnection.md)** object.
 
 
 ## See also

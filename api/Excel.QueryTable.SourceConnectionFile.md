@@ -19,9 +19,9 @@ Returns or sets a  **String** indicating the Microsoft Office Data Connection fi
 
 ## Syntax
 
-_expression_. `SourceConnectionFile`
+_expression_.**SourceConnectionFile**
 
-_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
 
 ## Remarks

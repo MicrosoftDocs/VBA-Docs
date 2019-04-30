@@ -21,7 +21,7 @@ Returns the cell in the upper-left corner of the query table destination range (
 
 _expression_. `Destination`
 
-_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
 
 ## Remarks

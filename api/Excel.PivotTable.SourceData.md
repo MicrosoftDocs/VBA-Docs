@@ -19,7 +19,7 @@ Returns the data source for the PivotTable report, as shown in the following tab
 
 ## Syntax
 
-_expression_. `SourceData`
+_expression_.**SourceData**
 
 _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 

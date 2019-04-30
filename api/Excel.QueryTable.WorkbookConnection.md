@@ -21,7 +21,7 @@ Returns the  **[WorkbookConnection](Excel.WorkbookConnection.md)** object that t
 
 _expression_. `WorkbookConnection`
 
-_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
 
 ## Remarks

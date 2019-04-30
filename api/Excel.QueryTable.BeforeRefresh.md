@@ -21,7 +21,7 @@ Occurs before any refreshes of the query table. This includes refreshes resultin
 
 _expression_. `BeforeRefresh`( `_Cancel_` )
 
-_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
 
 ## Parameters

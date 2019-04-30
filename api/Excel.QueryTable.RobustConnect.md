@@ -21,7 +21,7 @@ Returns or sets how the query table connects to its data source. Read/write  **[
 
 _expression_. `RobustConnect`
 
-_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
 
 ## Remarks

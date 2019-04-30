@@ -21,7 +21,7 @@ Returns or sets an ordered array of constants that specify the data types applie
 
 _expression_. `TextFileColumnDataTypes`
 
-_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
 
 ## Remarks

@@ -19,14 +19,12 @@ Saves the OLE DB connection as an Microsoft Office Data Connection file.
 
 ## Syntax
 
-_expression_. `SaveAsODC`( `_ODCFileName_` , `_Description_` , `_Keywords_` )
+_expression_.**SaveAsODC** (_ODCFileName_, _Description_, _Keywords_)
 
-_expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
+_expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnection.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
