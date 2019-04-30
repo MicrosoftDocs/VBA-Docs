@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Name.Delete
 ms.assetid: 429a5d17-8f34-9a04-d744-66ce1e9e39a7
-ms.date: 06/08/2017
+ms.date: 05/01/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Deletes the object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [Name](Excel.Name.md) object.
+_expression_ A variable that represents a **[Name](Excel.Name.md)** object.
 
 
-## See also
 
-
-[Name Object](Excel.Name.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

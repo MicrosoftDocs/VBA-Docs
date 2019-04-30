@@ -19,7 +19,7 @@ Returns or sets an  **[OlCategoryShortcutKey](Outlook.OlCategoryShortcutKey.md)*
 
 ## Syntax
 
-_expression_. `ShortcutKey`
+_expression_.**ShortcutKey**
 
 _expression_ A variable that represents a [Category](Outlook.Category.md) object.
 
