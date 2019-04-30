@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm963073
 ms.prod: excel
 ms.assetid: 09a0a219-b4eb-4ead-f058-5b9a04e98dc9
-ms.date: 06/08/2017
+ms.date: 05/01/2019
 localization_priority: Normal
 ---
 
@@ -22,6 +22,11 @@ _expression_.**Application**
 _expression_ A variable that represents a **[ModelColumnNames](Excel.modelcolumnnames.md)** object.
 
 
+## Property value
+
+**APPLICATION**
+
+
 ## Example
 
 This example displays a message about the application that created _myObject_.
@@ -34,13 +39,6 @@ Else
  MsgBox "This is not an Excel Application object." 
 End If
 ```
-
-
-## Property value
-
-**APPLICATION**
-
-
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
