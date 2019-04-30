@@ -76,6 +76,8 @@ You can also specify keys combined with Shift and/or Ctrl and/or Alt and/or Comm
 
 To assign a procedure to one of the special characters (+, ^, %, and so on), enclose the character in braces. For details, see the example.
 
+> [!NOTE] 
+> There is no way to currently detect the Command key in recent versions of Office VBA. Microsoft is aware of this and is looking into it.
 
 ## Example
 
