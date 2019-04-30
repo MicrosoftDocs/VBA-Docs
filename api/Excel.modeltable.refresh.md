@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm934078
 ms.prod: excel
 ms.assetid: 341e82f4-a885-6c95-850d-21703bb27995
-ms.date: 06/08/2017
+ms.date: 05/01/2019
 localization_priority: Normal
 ---
 
@@ -24,13 +24,8 @@ _expression_ A variable that represents a **[ModelTable](Excel.modeltable.md)** 
 
 ## Return value
 
- **VOID**
+**VOID**
 
 
-## See also
-
-
-
-[ModelTable Object](Excel.modeltable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
