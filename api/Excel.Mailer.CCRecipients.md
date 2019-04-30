@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Mailer.CCRecipients
 ms.assetid: efcceedd-dc35-a683-bdc1-50b8b8368f31
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,11 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 
 ## Syntax
 
-_expression_. `CCRecipients`
+_expression_.**CCRecipients**
 
-_expression_ A variable that represents a [Mailer](Excel.Mailer.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[Mailer](Excel.Mailer.md)** object.
 
 
-[Mailer Object](Excel.Mailer.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

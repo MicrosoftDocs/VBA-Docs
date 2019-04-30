@@ -2,7 +2,7 @@
 title: Model.CreateModelWorkbookConnection method (Excel)
 ms.prod: excel
 ms.assetid: cd8c35e6-91ee-5d46-cc98-199b8916ecdd
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,7 @@ Returns a **[WorkbookConnection](Excel.WorkbookConnection.md)** object of type *
 
 _expression_.**CreateModelWorkbookConnection** (_ModelTable_)
 
-_expression_ A variable that represents an object.
+_expression_ A variable that represents a **[Model](Excel.Model.md)** object.
 
 
 ## Parameters
