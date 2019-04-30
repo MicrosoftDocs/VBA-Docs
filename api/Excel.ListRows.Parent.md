@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ListRows.Parent
 ms.assetid: 556ddca2-3cc6-43be-3fbc-6ec0782a4c9a
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [ListRows](Excel.ListRows.md) object.
+_expression_ A variable that represents a **[ListRows](Excel.ListRows.md)** object.
 
 
-## See also
 
-
-[ListRows Object](Excel.ListRows.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
