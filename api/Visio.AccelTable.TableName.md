@@ -19,7 +19,7 @@ Gets or sets the name of an  **AccelTable** object. Read/write.
 
 ## Syntax
 
-_expression_. `TableName`
+_expression_.**TableName**
 
  _expression_ A variable that represents an [AccelTable](./Visio.AccelTable.md) object.
 

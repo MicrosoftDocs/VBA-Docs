@@ -5,14 +5,14 @@ f1_keywords:
 - vbaxl10.chm967074
 ms.prod: excel
 ms.assetid: 19baf46f-b517-0bf6-aaaa-ab3794296e97
-ms.date: 06/08/2017
+ms.date: 05/01/2019
 localization_priority: Normal
 ---
 
 
 # ModelColumnChanges.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only **Long**.
 
 
 ## Syntax
@@ -29,13 +29,9 @@ Because the object was created in Microsoft Excel, this property returns the hex
 
 ## Property value
 
- **XLCREATOR**
-
-
-## See also
+**XLCREATOR**
 
 
 
-[ModelColumnChanges Object](Excel.modelcolumnchanges.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

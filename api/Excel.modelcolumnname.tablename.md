@@ -17,7 +17,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `TableName`
+_expression_.**TableName**
 
 _expression_ A variable that represents a [ModelColumnName](Excel.modelcolumnname.md) object.
 
