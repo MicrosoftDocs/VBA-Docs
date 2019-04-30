@@ -19,7 +19,7 @@ Updates the specified link format.
 
 ## Syntax
 
-_expression_. `Update`
+_expression_.**Update**
 
 _expression_ Required. A variable that represents a '[LinkFormat](Word.LinkFormat.md)' object.
 

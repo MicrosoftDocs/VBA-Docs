@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Mailer
 ms.assetid: bd6b8c82-3d2e-e029-58b3-525049b1e03c
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,7 @@ localization_priority: Normal
 
 You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about this keyword, consult the language reference Help included with Microsoft Office Macintosh Edition.
 
-## Properties (Mailer)
+## Properties
 
 - [Application](Excel.Mailer.Application.md)
 - [BCCRecipients](Excel.Mailer.BCCRecipients.md)
@@ -31,31 +31,6 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 - [ToRecipients](Excel.Mailer.ToRecipients.md)
 - [WhichAddress](Excel.Mailer.WhichAddress.md)
 
-## Methods (model)
-
-- [AddConnection](Excel.model.addconnection.md)
-- [CreateModelWorkbookConnection](Excel.model.createmodelworkbookconnection.md)
-- [Initialize](Excel.model.initialize.md)
-- [Refresh](Excel.model.refresh.md)
-
-## Properties (Model)
-
-- [Application](Excel.model.application.md)
-- [Creator](Excel.model.creator.md)
-- [DataModelConnection](Excel.model.datamodelconnection.md)
-- [ModelFormatBoolean](Excel.model.modelformatboolean.md)
-- [ModelFormatCurrency](Excel.model.modelformatcurrency.md)
-- [ModelFormatDate](Excel.model.modelformatdate.md)
-- [ModelFormatDecimalNumber](Excel.model.modelformatdecimalnumber.md)
-- [ModelFormatGeneral](Excel.model.modelformatgeneral.md)
-- [ModelFormatPercentageNumber](Excel.model.modelformatpercentagenumber.md)
-- [ModelFormatScientificNumber](Excel.model.modelformatscientificnumber.md)
-- [ModelFormatWholeNumber](Excel.model.modelformatwholenumber.md)
-- [ModelMeasures](Excel.model.modelmeasures.md)
-- [ModelRelationships](Excel.model.modelrelationships.md)
-- [ModelTables](Excel.model.modeltables.md)
-- [Name](Excel.model.name.md)
-- [Parent](Excel.model.parent.md)
 
 
 ## See also

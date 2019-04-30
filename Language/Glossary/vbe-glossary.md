@@ -3,7 +3,7 @@ title: VBE Glossary
 ms.prod: office
 ms.assetid: b8bdf64f-5920-1ae9-16d0-b26d09524a30
 description: Glossary of terms for Visual Basic Editor (VBE).
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Priority
 ---
 
@@ -162,8 +162,7 @@ A pane contained in a code window that is used for entering and editing code. A 
 
 ## collection
 
-An object that contains a set of related objects. An object's position in the collection can change whenever a change occurs in the collection; therefore, the position of any specific object in the collection can vary.
-
+An object that contains a set of related objects. An object's position in the collection can change whenever a change occurs in the collection; therefore, the position of any specific object in the collection can vary. The **[Collection](../reference/user-interface-help/collection-object.md)** object is the standard example of a collection class; instances of the class are collections. Collections must implement a method called **NewEnum** that accepts no arguments, returns an appropriate **IUnknown** object, and has its **VB_UserMemId** attribute set to `-4`.
 
 ## command line
 

@@ -4,37 +4,36 @@ ms.prod: excel
 api_name:
 - Excel.LineFormat.InsetPen
 ms.assetid: 7a9999ad-b3a5-bae5-e068-8d85cab5ecb5
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
 
 # LineFormat.InsetPen property (Excel)
 
-Returns or sets whether lines are drawn inside the specified shape's boundaries. Read/write
+Returns or sets whether lines are drawn inside the specified shape's boundaries. Read/write.
 
 
 ## Syntax
 
-_expression_. `InsetPen`
+_expression_.**InsetPen**
 
-_expression_ A variable that represents a '[LineFormat](Excel.LineFormat.md)' object.
+_expression_ A variable that represents a **[LineFormat](Excel.LineFormat.md)** object.
 
 
 ## Return value
 
- **[MsoTriState](Office.MsoTriState.md)**
+**[MsoTriState](Office.MsoTriState.md)**
 
 
 ## Remarks
 
- **msoTrue** (-1) if lines are drawn inside the shape's boundaries; otherwise **msoFalse** (0).
+**msoTrue** (-1) if lines are drawn inside the shape's boundaries; otherwise **msoFalse** (0).
 
 
 ## Example
 
 The following code example adds two rectangles to the active worksheet, the first with its lines drawn inside its boundaries, and the second with its lines drawn on its boundaries.
-
 
 ```vb
 Dim shpNew As Shape 
@@ -57,9 +56,6 @@ End With
 ```
 
 
-## See also
 
-
-[LineFormat Object](Excel.LineFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

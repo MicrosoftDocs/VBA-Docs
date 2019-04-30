@@ -19,9 +19,9 @@ Returns or sets the width of the arrowhead at the end of the specified line. Rea
 
 ## Syntax
 
-_expression_. `EndArrowheadWidth`
+_expression_.**EndArrowheadWidth**
 
-_expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
+_expression_ Required. A variable that represents a **[LineFormat](Word.LineFormat.md)** object.
 
 
 ## Example

@@ -38,7 +38,7 @@ This property is read-only. Use the  **[OneColorGradient](PowerPoint.FillFormat.
 
 ## Example
 
-This example adds a rectangle to  _myDocument_ and sets the degree of its fill gradient to match that of the shape named "Rectangle 2." If Rectangle 2 doesn't have a one-color gradient fill, this example fails.
+This example adds a rectangle to _myDocument_ and sets the degree of its fill gradient to match that of the shape named "Rectangle 2." If Rectangle 2 doesn't have a one-color gradient fill, this example fails.
 
 
 ```vb

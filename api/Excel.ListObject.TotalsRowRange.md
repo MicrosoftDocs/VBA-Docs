@@ -14,20 +14,19 @@ localization_priority: Normal
 
 # ListObject.TotalsRowRange property (Excel)
 
- Returns a **[Range](Excel.Range(object).md)** representing the Total row, if any, from a specified **ListObject** object. Read-only.
+Returns a **[Range](Excel.Range(object).md)** object representing the Total row, if any, from a specified **ListObject** object. Read-only.
 
 
 ## Syntax
 
-_expression_. `TotalsRowRange`
+_expression_.**TotalsRowRange**
 
-_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Example
 
-The following sample code returns the address of the Total row in the default list in Sheet1 of the active workbook. The code displays the Total row if it is not displayed already.
-
+The following sample code returns the address of the Total row in the default list on Sheet1 of the active workbook. The code displays the Total row if it is not displayed already.
 
 ```vb
 Sub DisplayTotalsRowAddress() 
@@ -42,9 +41,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[ListObject Object](Excel.ListObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

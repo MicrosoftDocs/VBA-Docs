@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** 
 
 ## Example
 
-This example adds a rectangle to  _myDocument_ and then sets the foreground color, background color, and gradient for the rectangle's fill.
+This example adds a rectangle to _myDocument_ and then sets the foreground color, background color, and gradient for the rectangle's fill.
 
 
 ```vb

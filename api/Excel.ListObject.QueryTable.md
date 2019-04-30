@@ -7,27 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.ListObject.QueryTable
 ms.assetid: fe019d61-654a-9c87-0bf4-30590a1274ca
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
 
 # ListObject.QueryTable property (Excel)
 
-Returns the  **[QueryTable](Excel.QueryTable.md)** object that provides a link for the **[ListObject](Excel.ListObject.md)** object to the list server. Read-only.
+Returns the **[QueryTable](Excel.QueryTable.md)** object that provides a link for the **ListObject** object to the list server. Read-only.
 
 
 ## Syntax
 
-_expression_. `QueryTable`
+_expression_.**QueryTable**
 
-_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Example
 
-The following example creates a connection to a SharePoint site and publishes the  **ListObject** object named `List1` to the server. A reference to the **QueryTable** object for the list object is created and the **MaintainConnection** property of the **QueryTable** object is set to **True** so that the connection to the SharePoint site is maintained between trips to the server.
-
+The following example creates a connection to a SharePoint site and publishes the **ListObject** object named `List1` to the server. A reference to the **QueryTable** object for the list object is created, and the **MaintainConnection** property of the **QueryTable** object is set to **True** so that the connection to the SharePoint site is maintained between trips to the server.
 
 ```vb
 Dim wrksht As Worksheet 
@@ -53,9 +52,6 @@ Dim wrksht As Worksheet
 ```
 
 
-## See also
 
-
-[ListObject Object](Excel.ListObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

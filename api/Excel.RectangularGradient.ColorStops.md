@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # RectangularGradient.ColorStops property (Excel)
 
-Returns the  **[ColorStops](Excel.ColorStops.md)** collection for the **RectangularGradient** object. Read-only
+Returns the **[ColorStops](Excel.ColorStops.md)** collection for the **RectangularGradient** object. Read-only
 
 
 ## Syntax
 
-_expression_. `ColorStops`
+_expression_.**ColorStops**
 
 _expression_ A variable that represents a [RectangularGradient](Excel.RectangularGradient.md) object.
 

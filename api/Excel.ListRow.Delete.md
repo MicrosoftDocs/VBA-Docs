@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ListRow.Delete
 ms.assetid: fdba9c37-b1a7-3ed7-2665-9f2720ac7d8a
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Deletes the cells of the list row and shifts upward any remaining cells below th
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [ListRow](Excel.ListRow.md) object.
+_expression_ A variable that represents a **[ListRow](Excel.ListRow.md)** object.
 
 
-## See also
 
-
-[ListRow Object](Excel.ListRow.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

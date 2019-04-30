@@ -19,14 +19,12 @@ Opens the specified document in a new protected view window.
 
 ## Syntax
 
-_expression_. `Open`( `_FileName_` , `_AddToRecentFiles_` , `_PasswordDocument_` , `_Visible_` , `_OpenAndRepair_` )
+_expression_.**Open** (_FileName_, _AddToRecentFiles_, _PasswordDocument_, _Visible_, _OpenAndRepair_)
 
- _expression_ An expression that returns a [ProtectedViewWindows](./Word.ProtectedViewWindows.md) object.
+_expression_ An expression that returns a **[ProtectedViewWindows](Word.ProtectedViewWindows.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

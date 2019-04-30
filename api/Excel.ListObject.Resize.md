@@ -14,19 +14,17 @@ localization_priority: Normal
 
 # ListObject.Resize method (Excel)
 
-The  **Resize** method allows a **[ListObject](Excel.ListObject.md)** object to be resized over a new range. No cells are inserted or moved.
+The **Resize** method allows a **ListObject** object to be resized over a new range. No cells are inserted or moved.
 
 
 ## Syntax
 
 _expression_.**Resize** (_Range_)
 
- _expression_ An expression that returns a [ListObject](Excel.ListObject.md) object.
+_expression_ An expression that returns a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,13 +32,12 @@ _expression_.**Resize** (_Range_)
 
 ## Remarks
 
-For tables that are linked to a server that is running Microsoft SharePoint Foundation, you can resize the list using this method by providing a  _Range_ argument that differs from the current range of the **ListObject** only in the number of rows it contains. Attempting to resize lists linked to SharePoint Foundation by adding or deleting columns (in the _Range_ argument) results in a run-time error.
+For tables that are linked to a server that is running Microsoft SharePoint Foundation, you can resize the list using this method by providing a _Range_ argument that differs from the current range of the **ListObject** only in the number of rows it contains. Attempting to resize lists linked to SharePoint Foundation by adding or deleting columns (in the _Range_ argument) results in a run-time error.
 
 
 ## Example
 
-The following example uses the  **Resize** method to resize the default **ListObject** object in Sheet1 of the active workbook.
-
+The following example uses the **Resize** method to resize the default **ListObject** object on Sheet1 of the active workbook.
 
 ```vb
 Sub ResizeList() 
@@ -55,9 +52,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[ListObject Object](Excel.ListObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -43,7 +43,7 @@ Shape
 
 ## Example
 
-This example adds the movie named "Clock.avi" to  _myDocument_.
+This example adds the movie named "Clock.avi" to _myDocument_.
 
 
 ```vb

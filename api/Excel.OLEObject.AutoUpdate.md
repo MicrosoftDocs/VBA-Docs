@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # OLEObject.AutoUpdate property (Excel)
 
- **True** if the OLE object is updated automatically when the source changes. Valid only if the object is linked (its **OLEType** property must be **xlOLELink**). Read-only **Boolean**.
+**True** if the OLE object is updated automatically when the source changes. Valid only if the object is linked (its **OLEType** property must be **xlOLELink**). Read-only **Boolean**.
 
 
 ## Syntax
 
-_expression_. `AutoUpdate`
+_expression_.**AutoUpdate**
 
 _expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
 

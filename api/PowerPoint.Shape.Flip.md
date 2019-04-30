@@ -44,7 +44,7 @@ The  _FlipCmd_ parameter value can be one of these **MsoFlipCmd** constants.
 
 ## Example
 
-This example adds a triangle to  _myDocument_, duplicates the triangle, and then flips the duplicate triangle vertically and makes it red.
+This example adds a triangle to _myDocument_, duplicates the triangle, and then flips the duplicate triangle vertically and makes it red.
 
 
 ```vb

@@ -7,21 +7,21 @@ ms.prod: excel
 api_name:
 - Excel.ListObject.SharePointURL
 ms.assetid: a5b19612-c8e8-4952-e15c-a60da10f65d1
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
 
 # ListObject.SharePointURL property (Excel)
 
- Returns a **String** representing the URL of the SharePoint list for a given **[ListObject](Excel.ListObject.md)** object. Read-only **String**.
+Returns a **String** representing the URL of the SharePoint list for a given **ListObject** object. Read-only **String**.
 
 
 ## Syntax
 
-_expression_. `SharePointURL`
+_expression_.**SharePointURL**
 
-_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Remarks
@@ -31,8 +31,7 @@ Accessing this property generates a run-time error if the list is not linked to 
 
 ## Example
 
-The following example sets elements of the  _Target_ parameter of the **[Publish](Excel.ListObject.Publish.md)** method to push the **ListObject** object to a SharePoint site. The code sample uses the **SharePointURL** property to assign the URL to the array and the **Name** property to assign the name of the list. The information in the array is then passed to the SharePoint site using the **Publish** method.
-
+The following example sets elements of the _Target_ parameter of the **[Publish](Excel.ListObject.Publish.md)** method to push the **ListObject** object to a SharePoint site. The code sample uses the **SharePointURL** property to assign the URL to the array and the **Name** property to assign the name of the list. The information in the array is then passed to the SharePoint site by using the **Publish** method.
 
 ```vb
 Sub PublishList() 
@@ -54,9 +53,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[ListObject Object](Excel.ListObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

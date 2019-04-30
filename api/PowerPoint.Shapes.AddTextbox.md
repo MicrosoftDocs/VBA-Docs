@@ -43,7 +43,7 @@ Shape
 
 ## Example
 
-This example adds a text box that contains the text "Test Box" to  _myDocument_.
+This example adds a text box that contains the text "Test Box" to _myDocument_.
 
 
 ```vb

@@ -40,7 +40,7 @@ This property is read-only. Use the [OneColorGradient](PowerPoint.FillFormat.One
 
 ## Example
 
-This example adds a rectangle to  _myDocument_ and sets its fill gradient variant to match that of the shape named "rect1." For the example to work, rect1 must have a gradient fill.
+This example adds a rectangle to _myDocument_ and sets its fill gradient variant to match that of the shape named "rect1." For the example to work, rect1 must have a gradient fill.
 
 
 ```vb

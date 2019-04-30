@@ -7,21 +7,21 @@ ms.prod: excel
 api_name:
 - Excel.LinearGradient.ColorStops
 ms.assetid: 99db35d4-f2ae-b1e4-6fed-98e3ecd49cfd
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
 
 # LinearGradient.ColorStops property (Excel)
 
-Returns the  **[ColorStops](Excel.ColorStops.md)** for the **LinearGradient** object. Read-only
+Returns the **[ColorStops](Excel.ColorStops.md)** object for the **LinearGradient** object. Read-only.
 
 
 ## Syntax
 
-_expression_. `ColorStops`
+_expression_.**ColorStops**
 
-_expression_ A variable that represents a [LinearGradient](Excel.LinearGradient.md) object.
+_expression_ A variable that represents a **[LinearGradient](Excel.LinearGradient.md)** object.
 
 
 ## Return value
@@ -29,9 +29,6 @@ _expression_ A variable that represents a [LinearGradient](Excel.LinearGradient.
 ColorStops
 
 
-## See also
 
-
-[LinearGradient Object](Excel.LinearGradient.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

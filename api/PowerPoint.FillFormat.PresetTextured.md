@@ -36,7 +36,7 @@ _expression_.**PresetTextured** (_PresetTexture_)
 
 ## Example
 
-This example adds a rectangle with a green-marble textured fill to  _myDocument_.
+This example adds a rectangle with a green-marble textured fill to _myDocument_.
 
 
 ```vb

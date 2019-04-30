@@ -31,7 +31,7 @@ To set the rotation of the extruded shape around the x-axis, use the  **[Rotatio
 
 ## Example
 
-This example adds three identical extruded ovals to  _myDocument_ and sets their rotation around the y-axis to - 30, 0, and 30 degrees, respectively.
+This example adds three identical extruded ovals to _myDocument_ and sets their rotation around the y-axis to - 30, 0, and 30 degrees, respectively.
 
 
 ```vb

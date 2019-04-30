@@ -16,7 +16,7 @@ Occurs when an instance of the parent object is being opened in an  **[Inspector
 
 ## Syntax
 
-_expression_. `Open`( `_Cancel_` )
+_expression_.**Open** (_Cancel_)
 
 _expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 

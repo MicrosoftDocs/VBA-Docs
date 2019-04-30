@@ -66,7 +66,7 @@ The value of the PresetThreeDFormat parameter can be one of these  **MsoPresetTh
 
 ## Example
 
-This example adds an oval to  _myDocument_ and sets its extrusion format to 3D Style 12.
+This example adds an oval to _myDocument_ and sets its extrusion format to 3D Style 12.
 
 
 ```vb

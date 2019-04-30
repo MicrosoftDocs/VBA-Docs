@@ -43,7 +43,7 @@ Shape
 
 ## Example
 
-This example adds a vertical label that contains the text "Test Label" to  _myDocument_.
+This example adds a vertical label that contains the text "Test Label" to _myDocument_.
 
 
 ```vb

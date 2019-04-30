@@ -46,7 +46,7 @@ The value of the  **RotatedChars** property can be one of these **MsoTriState** 
 
 ## Example
 
-This example adds WordArt that contains the text "Test" to  _myDocument_ and rotates the characters 90 degrees counterclockwise.
+This example adds WordArt that contains the text "Test" to _myDocument_ and rotates the characters 90 degrees counterclockwise.
 
 
 ```vb

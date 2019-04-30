@@ -39,7 +39,7 @@ This method sets the  **[PresetThreeDFormat](Excel.ThreeDFormat.PresetThreeDForm
 
 ## Example
 
-This example adds an oval to  _myDocument_ and sets its extrusion format to 3D Style 12.
+This example adds an oval to _myDocument_ and sets its extrusion format to 3D Style 12.
 
 
 ```vb

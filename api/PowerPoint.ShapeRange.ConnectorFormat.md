@@ -31,7 +31,7 @@ ConnectorFormat
 
 ## Example
 
-This example adds two rectangles to  _myDocument_, attaches them with a connector, automatically reroutes the connector along the shortest path, and then detaches the connector from the rectangles.
+This example adds two rectangles to _myDocument_, attaches them with a connector, automatically reroutes the connector along the shortest path, and then detaches the connector from the rectangles.
 
 
 ```vb

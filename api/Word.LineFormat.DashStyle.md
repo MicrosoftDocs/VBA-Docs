@@ -19,9 +19,9 @@ Returns or sets the dash style for the specified line. Read/write  **MsoLineDash
 
 ## Syntax
 
-_expression_. `DashStyle`
+_expression_.**DashStyle**
 
-_expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
+_expression_ Required. A variable that represents a **[LineFormat](Word.LineFormat.md)** object.
 
 
 ## Example

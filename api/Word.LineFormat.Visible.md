@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**Visible**
 
-_expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
+_expression_ Required. A variable that represents a **[LineFormat](Word.LineFormat.md)** object.
 
 
 ## Remarks

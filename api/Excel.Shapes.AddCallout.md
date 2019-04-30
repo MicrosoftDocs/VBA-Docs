@@ -57,7 +57,7 @@ You can insert a greater variety of callouts by using the  **[AddShape](Excel.Sh
 
 ## Example
 
-This example adds a borderless callout with a freely rotating one-segment callout line to  _myDocument_ and then sets the callout angle to 30 degrees.
+This example adds a borderless callout with a freely rotating one-segment callout line to _myDocument_ and then sets the callout angle to 30 degrees.
 
 
 ```vb

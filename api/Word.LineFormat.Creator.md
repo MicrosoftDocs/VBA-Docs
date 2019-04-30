@@ -21,7 +21,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
 _expression_.**Creator**
 
-_expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
+_expression_ Required. A variable that represents a **[LineFormat](Word.LineFormat.md)** object.
 
 
 ## Remarks

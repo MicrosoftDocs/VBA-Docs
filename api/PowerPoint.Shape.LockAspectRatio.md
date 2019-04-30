@@ -42,7 +42,7 @@ The value of the  **LockAspectRatio** property can be one of these **MsoTriState
 
 ## Example
 
-This example adds a cube to  _myDocument_. The cube can be moved and resized, but not reproportioned.
+This example adds a cube to _myDocument_. The cube can be moved and resized, but not reproportioned.
 
 
 ```vb

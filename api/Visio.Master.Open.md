@@ -19,7 +19,7 @@ Opens an existing master so that it can be edited.
 
 ## Syntax
 
-_expression_. `Open`
+_expression_.**Open**
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

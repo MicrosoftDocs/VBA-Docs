@@ -7,26 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.ListObject.ShowTableStyleColumnStripes
 ms.assetid: 30e2236b-df82-0fa2-e820-a0fc8978ced1
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
 
 # ListObject.ShowTableStyleColumnStripes property (Excel)
 
-Returns or sets if the Column Stripes table style is used for the specified  **ListObject** object. Read/write **Boolean**.
+Returns or sets if the Column Stripes table style is used for the specified **ListObject** object. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `ShowTableStyleColumnStripes`
+_expression_.**ShowTableStyleColumnStripes**
 
-_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
-[ListObject Object](Excel.ListObject.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

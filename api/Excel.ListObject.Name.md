@@ -7,21 +7,21 @@ ms.prod: excel
 api_name:
 - Excel.ListObject.Name
 ms.assetid: fbbdf2f9-6c5f-6ebe-35b1-74aab63971a4
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
 
 # ListObject.Name property (Excel)
 
-Returns or sets a  **String** value that represents the name of the **[ListObject](Excel.ListObject.md)** object.
+Returns or sets a **String** value that represents the name of the **ListObject** object.
 
 
 ## Syntax
 
 _expression_.**Name**
 
- _expression_ An expression that returns a [ListObject](Excel.ListObject.md) object.
+_expression_ An expression that returns a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Return value
@@ -31,15 +31,14 @@ String
 
 ## Remarks
 
-This name is used solely as a unique identifier for the  **[Item](Excel.ListObjects.Item.md)** property of the **[ListObjects](Excel.ListObjects.md)** collection objects. This property can only be set through the object model.
+This name is used solely as a unique identifier for the **[Item](Excel.ListObjects.Item.md)** property of the **ListObjects** collection objects. This property can only be set through the object model.
 
-By default, each  **ListObject** object name begins with the word "List", followed by a number (no spaces). If an attempt is made to set the **Name** property to a name already used by another **ListObject** object, a run-time error is thrown.
+By default, each **ListObject** object name begins with the word "List", followed by a number (no spaces). If an attempt is made to set the **Name** property to a name already used by another **ListObject** object, a run-time error is thrown.
 
 
 ## Example
 
-The following example displays the name of the default ListObject object in sheet1 of the active workbook.
-
+The following example displays the name of the default **ListObject** object on Sheet1 of the active workbook.
 
 ```vb
 Sub Test 
@@ -54,9 +53,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[ListObject Object](Excel.ListObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

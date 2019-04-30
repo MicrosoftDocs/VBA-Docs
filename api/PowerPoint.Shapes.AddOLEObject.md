@@ -49,7 +49,7 @@ Shape
 
 ## Example
 
-This example adds a linked Word document to  _myDocument_.
+This example adds a linked Word document to _myDocument_.
 
 
 ```vb
@@ -59,7 +59,7 @@ myDocument.Shapes.AddOLEObject Left:=100, Top:=100, _
     FileName:="c:\my documents\testing.doc", Link:=msoTrue
 ```
 
-This example adds a new Microsoft Excel worksheet to  _myDocument_. The worksheet will be displayed as an icon.
+This example adds a new Microsoft Excel worksheet to _myDocument_. The worksheet will be displayed as an icon.
 
 
 
@@ -71,7 +71,7 @@ myDocument.Shapes.AddOLEObject Left:=100, Top:=100, _
     ClassName:="Excel.Sheet", DisplayAsIcon:=True
 ```
 
-This example adds a command button to  _myDocument_.
+This example adds a command button to _myDocument_.
 
 
 

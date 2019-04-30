@@ -31,7 +31,7 @@ LineFormat
 
 ## Example
 
-This example adds a blue dashed line to  _myDocument_.
+This example adds a blue dashed line to _myDocument_.
 
 
 ```vb

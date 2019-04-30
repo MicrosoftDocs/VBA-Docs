@@ -19,7 +19,7 @@ Returns or sets the length of the arrowhead at the end of the specified line. Re
 
 ## Syntax
 
-_expression_. `EndArrowheadLength`
+_expression_.**EndArrowheadLength**
 
  _expression_ A variable that represents an [LineFormat](./PowerPoint.LineFormat.md) object.
 
@@ -43,7 +43,7 @@ The  **EndArrowheadLength** property value can be one of these **MsoArrowheadLen
 
 ## Example
 
-This example adds a line to  _myDocument_. There's a short, narrow oval on the line's starting point and a long, wide triangle on its endpoint.
+This example adds a line to _myDocument_. There's a short, narrow oval on the line's starting point and a long, wide triangle on its endpoint.
 
 
 ```vb

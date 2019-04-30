@@ -42,7 +42,7 @@ To change the direction of the extrusion's sweep path without rotating the front
 
 ## Example
 
-This example adds three identical extruded ovals to  _myDocument_ and sets their rotation around the y-axis to - 30, 0, and 30 degrees, respectively.
+This example adds three identical extruded ovals to _myDocument_ and sets their rotation around the y-axis to - 30, 0, and 30 degrees, respectively.
 
 
 ```vb

@@ -42,7 +42,7 @@ Whenever you add a new shape to a collection, it is added to the front of the z-
 
 ## Example
 
-This example adds an oval to  _myDocument_ and then places the oval second from the back in the z-order if there is at least one other shape on the slide.
+This example adds an oval to _myDocument_ and then places the oval second from the back in the z-order if there is at least one other shape on the slide.
 
 
 ```vb

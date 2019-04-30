@@ -31,7 +31,7 @@ Single
 
 ## Example
 
-This example adds a green dashed line two points thick to  _myDocument_.
+This example adds a green dashed line two points thick to _myDocument_.
 
 
 ```vb

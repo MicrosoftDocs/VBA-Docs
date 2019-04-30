@@ -19,14 +19,12 @@ Opens the specified workbook in a new Protected View window.
 
 ## Syntax
 
-_expression_. `Open`( `_FileName_` , `_Password_` , `_AddToMru_` , `_RepairMode_` )
+_expression_.**Open** (_FileName_, _Password_, _AddToMru_, _RepairMode_)
 
 _expression_ A variable that represents a '[ProtectedViewWindows](Excel.ProtectedViewWindows.md)' object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

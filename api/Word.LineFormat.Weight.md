@@ -21,7 +21,7 @@ Returns or sets the thickness of the specified line in points. Read/write  **Sin
 
 _expression_.**Weight**
 
- _expression_ An expression that returns a '[LineFormat](Word.LineFormat.md)' object.
+ _expression_ An expression that returns a **[LineFormat](Word.LineFormat.md)** object.
 
 
 ## Example

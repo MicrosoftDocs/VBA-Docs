@@ -19,14 +19,12 @@ Occurs when the project opens, but before the  **Activate** event.
 
 ## Syntax
 
-_expression_. `Open`( `_pj_` )
+_expression_.**Open** (_pj_)
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

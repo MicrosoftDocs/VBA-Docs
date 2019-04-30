@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Mailer.Received
 ms.assetid: 7a04539a-a45b-3f34-ae42-10ab71c26443
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 
 ## Syntax
 
-_expression_. `Received`
+_expression_.**Received**
 
- _expression_ An expression that returns a [Mailer](Excel.Mailer.md) object.
+_expression_ An expression that returns a **[Mailer](Excel.Mailer.md)** object.
 
 
 ## Return value
@@ -29,9 +29,6 @@ _expression_. `Received`
 Boolean
 
 
-## See also
 
-
-[Mailer Object](Excel.Mailer.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

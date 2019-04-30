@@ -42,7 +42,7 @@ The value of the  **WordWrap** property can be one of these **MsoTriState** cons
 
 ## Example
 
-This example adds a rectangle that contains text to  _myDocument_ and then turns off word wrapping in the new rectangle.
+This example adds a rectangle that contains text to _myDocument_ and then turns off word wrapping in the new rectangle.
 
 
 ```vb

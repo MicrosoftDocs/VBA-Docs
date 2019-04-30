@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.LinkFormat.Parent
 ms.assetid: 37d31c34-01a7-0995-ccf0-6b18c623ebae
-ms.date: 06/08/2017
+ms.date: 04/30/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [LinkFormat](Excel.LinkFormat.md) object.
+_expression_ A variable that represents a **[LinkFormat](Excel.LinkFormat.md)** object.
 
 
-## See also
 
-
-[LinkFormat Object](Excel.LinkFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

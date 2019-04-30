@@ -52,7 +52,7 @@ The  _Style_ parameter value can be one of these **MsoGradientStyle** constants.
 
 ## Example
 
-This example adds a rectangle with a one-color gradient fill to  _myDocument_.
+This example adds a rectangle with a one-color gradient fill to _myDocument_.
 
 
 ```vb

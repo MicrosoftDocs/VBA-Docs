@@ -44,7 +44,7 @@ To form a closed polygon, assign the same coordinates to the first and last vert
 
 ## Example
 
-This example adds a triangle to  _myDocument_. Because the first and last points have the same coordinates, the polygon is closed and filled. The color of the triangle's interior will be the same as the default shape's fill color.
+This example adds a triangle to _myDocument_. Because the first and last points have the same coordinates, the polygon is closed and filled. The color of the triangle's interior will be the same as the default shape's fill color.
 
 
 ```vb
