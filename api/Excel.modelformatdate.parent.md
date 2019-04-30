@@ -4,7 +4,7 @@ keywords: vbaxl10.chm983075
 f1_keywords:
 - vbaxl10.chm983075
 ms.assetid: 064b3651-ad76-c8fd-1250-b25fa669cf92
-ms.date: 06/08/2017
+ms.date: 05/01/2019
 ms.prod: excel
 localization_priority: Normal
 ---
@@ -19,12 +19,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a 'ModelFormatDate' object.
+_expression_ A variable that represents a **[ModelFormatDate](Excel.modelformatdate.md)** object.
 
 
-## See also
 
-
-[ModelFormatDate Object](Excel.modelformatdate.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
