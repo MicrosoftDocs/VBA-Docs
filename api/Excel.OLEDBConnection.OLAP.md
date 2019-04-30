@@ -19,7 +19,7 @@ Returns  **True** if the OLE DB connection is connected to an Online Analytical 
 
 ## Syntax
 
-_expression_. `OLAP`
+_expression_.**OLAP**
 
 _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnection.md)** object.
 

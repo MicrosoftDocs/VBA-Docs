@@ -21,7 +21,7 @@ Creates a cube file from a PivotTable report connected to an Online Analytical P
 
 _expression_. `CreateCubeFile`( `_File_` , `_Measures_` , `_Levels_` , `_Members_` , `_Properties_` )
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Parameters

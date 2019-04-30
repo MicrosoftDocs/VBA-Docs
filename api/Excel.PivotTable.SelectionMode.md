@@ -21,7 +21,7 @@ Returns or sets the PivotTable report structured selection mode. Read/write  **[
 
 _expression_. `SelectionMode`
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Remarks

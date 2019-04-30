@@ -21,7 +21,7 @@ Creates and returns a  **[PivotTable](Excel.PivotTable.md)** object. This method
 
 _expression_. `PivotTableWizard`( `_SourceType_` , `_SourceData_` , `_TableDestination_` , `_TableName_` , `_RowGrand_` , `_ColumnGrand_` , `_SaveData_` , `_HasAutoFormat_` , `_AutoPage_` , `_Reserved_` , `_BackgroundQuery_` , `_OptimizeCache_` , `_PageFieldOrder_` , `_PageFieldWrapCount_` , `_ReadData_` , `_Connection_` )
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Parameters

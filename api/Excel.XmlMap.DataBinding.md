@@ -21,7 +21,7 @@ Returns an  **[XmlDataBinding](Excel.XmlDataBinding.md)** object that represents
 
 _expression_. `DataBinding`
 
-_expression_ A variable that represents a [XmlMap](Excel.XmlMap.md) object.
+_expression_ A variable that represents an **[XmlMap](Excel.XmlMap.md)** object.
 
 
 ## See also

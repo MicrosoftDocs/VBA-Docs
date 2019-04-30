@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `DisplayGridlines`
 
-_expression_ A variable that represents a [WorksheetView](Excel.WorksheetView.md) object.
+_expression_ A variable that represents a **[WorksheetView](Excel.WorksheetView.md)** object.
 
 
 ## Remarks

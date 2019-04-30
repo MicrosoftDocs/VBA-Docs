@@ -21,7 +21,7 @@ Returns the kind of data source the slicer is connected to. Read-only
 
 _expression_. `SourceType`
 
-_expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
+_expression_ A variable that represents a **[SlicerCache](Excel.SlicerCache.md)** object.
 
 
 ## Return value

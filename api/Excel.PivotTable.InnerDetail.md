@@ -21,7 +21,7 @@ Returns or sets the name of the field that will be shown as detail when the  **S
 
 _expression_. `InnerDetail`
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Remarks

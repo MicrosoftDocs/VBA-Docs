@@ -21,7 +21,7 @@ Changes the connection of the specified  **[PivotTable](Excel.PivotTable.md)**.
 
 _expression_. `ChangeConnection`( `_conn_` )
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Parameters

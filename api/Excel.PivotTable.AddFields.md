@@ -21,7 +21,7 @@ Adds row, column, and page fields to a PivotTable report or PivotChart report.
 
 _expression_. `AddFields`( `_RowFields_` , `_ColumnFields_` , `_PageFields_` , `_AddToTable_` )
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Parameters

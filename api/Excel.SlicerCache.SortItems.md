@@ -21,7 +21,7 @@ Returns or sets the sort order of the items in the slicer. Read/write  **[XlSlic
 
 _expression_. `SortItems`
 
-_expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
+_expression_ A variable that represents a **[SlicerCache](Excel.SlicerCache.md)** object.
 
 
 ## Return value

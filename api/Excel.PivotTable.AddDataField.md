@@ -21,7 +21,7 @@ Adds a data field to a PivotTable report. Returns a  **[PivotField](Excel.PivotF
 
 _expression_. `AddDataField`( `_Field_` , `_Caption_` , `_Function_` )
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Parameters

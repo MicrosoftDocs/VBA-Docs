@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # WorksheetView.Sheet property (Excel)
 
-Returns the sheet name for the specified  **[WorksheetView](Excel.WorksheetView.md)** object. Read-only.
+Returns the sheet name for the specified **WorksheetView** object. Read-only.
 
 
 ## Syntax
 
 _expression_.**Sheet**
 
-_expression_ A variable that represents a [WorksheetView](Excel.WorksheetView.md) object.
+_expression_ A variable that represents a **[WorksheetView](Excel.WorksheetView.md)** object.
 
 
 ## See also

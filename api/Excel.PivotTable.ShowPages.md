@@ -21,7 +21,7 @@ Creates a new PivotTable report for each item in the page field. Each new report
 
 _expression_. `ShowPages`( `_PageField_` )
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Parameters

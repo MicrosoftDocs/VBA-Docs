@@ -21,7 +21,7 @@ Returns the collection of  **[SlicerCacheLevel](Excel.SlicerCacheLevel.md)** obj
 
 _expression_. `SlicerCacheLevels`
 
-_expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
+_expression_ A variable that represents a **[SlicerCache](Excel.SlicerCache.md)** object.
 
 
 ## Remarks

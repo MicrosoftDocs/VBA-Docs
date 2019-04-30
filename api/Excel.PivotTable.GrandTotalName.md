@@ -21,7 +21,7 @@ Returns or sets the text string label that is displayed in the grand total colum
 
 _expression_. `GrandTotalName`
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Example

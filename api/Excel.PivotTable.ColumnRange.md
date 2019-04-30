@@ -21,7 +21,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the range 
 
 _expression_. `ColumnRange`
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Example

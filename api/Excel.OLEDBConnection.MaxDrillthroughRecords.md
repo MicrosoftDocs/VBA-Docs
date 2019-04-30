@@ -19,7 +19,7 @@ Returns or sets the maximum number of records to retrieve. Read/write  **Long**.
 
 ## Syntax
 
-_expression_. `MaxDrillthroughRecords`
+_expression_.**MaxDrillthroughRecords**
 
 _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnection.md)** object.
 

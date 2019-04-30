@@ -21,7 +21,7 @@ Changes the  **[PivotCache](Excel.PivotCache.md)** of the specified **[PivotTabl
 
 _expression_. `ChangePivotCache`( `_bstr_` )
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Parameters

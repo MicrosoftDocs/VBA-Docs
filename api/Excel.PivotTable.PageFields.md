@@ -21,7 +21,7 @@ Returns an object that represents either a single PivotTable field (a  **[PivotF
 
 _expression_. `PageFields` (_Index_)
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Parameters
