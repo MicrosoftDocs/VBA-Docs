@@ -4,7 +4,7 @@ keywords: vbaxl10.chm995075
 f1_keywords:
 - vbaxl10.chm995075
 ms.assetid: b581cf67-d77b-c17b-1878-1029d73682ff
-ms.date: 06/08/2017
+ms.date: 05/01/2019
 ms.prod: excel
 localization_priority: Normal
 ---
@@ -19,12 +19,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a 'ModelFormatBoolean' object.
+_expression_ A variable that represents a **[ModelFormatBoolean](Excel.modelformatboolean.md)** object.
 
 
-## See also
 
-
-[ModelFormatBoolean Object](Excel.modelformatboolean.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

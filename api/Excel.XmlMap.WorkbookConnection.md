@@ -19,9 +19,9 @@ Returns a new connection for the specified  **XMLMap** object. Read-only.
 
 ## Syntax
 
-_expression_. `WorkbookConnection`
+_expression_.**WorkbookConnection**
 
-_expression_ A variable that represents a [XmlMap](Excel.XmlMap.md) object.
+_expression_ A variable that represents an **[XmlMap](Excel.XmlMap.md)** object.
 
 
 ## See also

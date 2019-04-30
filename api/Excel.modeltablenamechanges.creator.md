@@ -5,14 +5,14 @@ f1_keywords:
 - vbaxl10.chm957074
 ms.prod: excel
 ms.assetid: 42ed6b08-659d-3cec-c619-2def633ae2f9
-ms.date: 06/08/2017
+ms.date: 05/01/2019
 localization_priority: Normal
 ---
 
 
 # ModelTableNameChanges.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only **Long**.
 
 
 ## Syntax
@@ -29,13 +29,9 @@ Because the object was created in Microsoft Excel, this property returns the hex
 
 ## Property value
 
- **XLCREATOR**
-
-
-## See also
+**XLCREATOR**
 
 
 
-[ModelTableNameChanges Object](Excel.modeltablenamechanges.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

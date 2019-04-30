@@ -19,7 +19,7 @@ Gets or sets the value of a document's category, one of the document properties.
 
 ## Syntax
 
-_expression_. `Category`
+_expression_.**Category**
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

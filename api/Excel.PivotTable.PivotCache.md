@@ -21,7 +21,7 @@ Returns a  **[PivotCache](Excel.PivotCache.md)** object that represents the cach
 
 _expression_. `PivotCache`
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Return value

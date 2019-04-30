@@ -21,7 +21,7 @@ Returns a  **PivotAxis** object representing the entire column axis. Read-only *
 
 _expression_. `PivotColumnAxis`
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## See also

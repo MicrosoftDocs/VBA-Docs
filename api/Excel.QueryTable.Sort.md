@@ -21,7 +21,7 @@ Returns the sort criteria for the query table range. Read-only.
 
 _expression_.**Sort**
 
-_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
 
 ## Remarks

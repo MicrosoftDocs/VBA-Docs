@@ -7,27 +7,28 @@ ms.prod: excel
 api_name:
 - Excel.ODBCError.Application
 ms.assetid: b89dce82-77cc-deec-1ee4-cfe4db4bf785
-ms.date: 06/08/2017
+ms.date: 05/01/2019
 localization_priority: Normal
 ---
 
 
 # ODBCError.Application property (Excel)
 
-When used without an object qualifier, this property returns an  **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object (you can use this property with an OLE Automation object to return the application of that object). Read-only.
+When used without an object qualifier, this property returns an **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. 
+
+When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object (you can use this property with an OLE Automation object to return the application of that object). Read-only.
 
 
 ## Syntax
 
 _expression_.**Application**
 
-_expression_ A variable that represents an [ODBCError](Excel.ODBCError.md) object.
+_expression_ A variable that represents an **[ODBCError](Excel.ODBCError.md)** object.
 
 
 ## Example
 
 This example displays a message about the application that created _myObject_.
-
 
 ```vb
 Set myObject = ActiveWorkbook 
@@ -39,9 +40,6 @@ End If
 ```
 
 
-## See also
 
-
-[ODBCError Object](Excel.ODBCError.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

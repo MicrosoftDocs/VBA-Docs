@@ -21,7 +21,7 @@ Returns or sets the decimal separator character that Microsoft Excel uses when y
 
 _expression_. `TextFileDecimalSeparator`
 
-_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
 
 ## Remarks

@@ -19,7 +19,7 @@ Represents the text displayed in the  **Category** column of the **Issues** wind
 
 ## Syntax
 
-_expression_. `Category`
+_expression_.**Category**
 
  _expression_ A variable that represents a '[ValidationRule](Visio.ValidationRule.md)' object.
 

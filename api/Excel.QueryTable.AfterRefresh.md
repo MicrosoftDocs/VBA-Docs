@@ -21,7 +21,7 @@ Occurs after a query is completed or canceled.
 
 _expression_. `AfterRefresh`( `_Success_` )
 
-_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
 
 ## Parameters

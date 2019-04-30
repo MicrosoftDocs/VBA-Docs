@@ -19,9 +19,9 @@ Returns or sets a  **String** value that represents the string displayed in cell
 
 ## Syntax
 
-_expression_. `ErrorString`
+_expression_.**ErrorString**
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Remarks

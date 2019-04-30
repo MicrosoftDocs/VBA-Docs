@@ -19,7 +19,7 @@ Returns a  **String** value that indicates the source data file for the cache of
 
 ## Syntax
 
-_expression_. `SourceDataFile`
+_expression_.**SourceDataFile**
 
 _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 

@@ -21,7 +21,7 @@ Returns or sets a value that determines how much formatting from a webpage, if a
 
 _expression_. `WebFormatting`
 
-_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
 
 ## Remarks

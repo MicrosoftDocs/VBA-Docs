@@ -19,14 +19,12 @@ Saves the PivotTable cache source as an Microsoft Office Data Connection file.
 
 ## Syntax
 
-_expression_. `SaveAsODC`( `_ODCFileName_` , `_Description_` , `_Keywords_` )
+_expression_.**SaveAsODC** (_ODCFileName_, _Description_, _Keywords_)
 
 _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

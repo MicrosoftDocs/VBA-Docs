@@ -21,7 +21,7 @@ Returns or sets the name of the slicer cache.
 
 _expression_.**Name**
 
-_expression_ A variable that returns a '[SlicerCache](Excel.SlicerCache.md)' object.
+_expression_ A variable that returns a **[SlicerCache](Excel.SlicerCache.md)** object.
 
 
 ## Return value

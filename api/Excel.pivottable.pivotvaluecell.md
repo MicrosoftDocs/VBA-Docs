@@ -19,7 +19,7 @@ Retrieve the [PivotValueCell](Excel.pivotvaluecell.md) object for a given PivotT
 
 _expression_. `PivotValueCell`_(rowline,_ _columnline)_
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Parameters

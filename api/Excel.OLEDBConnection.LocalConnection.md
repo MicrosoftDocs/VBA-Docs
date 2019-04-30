@@ -21,7 +21,7 @@ Returns or sets the connection string to an offline cube file. Read/write  **Str
 
 _expression_. `LocalConnection`
 
-_expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
+_expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnection.md)** object.
 
 
 ## Remarks

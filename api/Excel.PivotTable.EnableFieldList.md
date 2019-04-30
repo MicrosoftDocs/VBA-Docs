@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `EnableFieldList`
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Example

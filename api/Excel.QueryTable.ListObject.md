@@ -21,7 +21,7 @@ Returns a  **[ListObject](Excel.ListObject.md)** object for the **[QueryTable](E
 
 _expression_. `ListObject`
 
-_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
 
 ## Remarks

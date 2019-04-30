@@ -19,7 +19,7 @@ Returns an  **ADO Connection** object if the PivotTable cache is connected to an
 
 ## Syntax
 
-_expression_. `ADOConnection`
+_expression_.**ADOConnection**
 
 _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 

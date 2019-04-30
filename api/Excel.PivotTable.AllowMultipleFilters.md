@@ -21,7 +21,7 @@ Sets or retrieves a value that indicates whether a PivotField can have multiple 
 
 _expression_. `AllowMultipleFilters`
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Remarks

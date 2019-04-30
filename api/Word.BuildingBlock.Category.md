@@ -19,7 +19,7 @@ Returns a  **[Category](Word.Category.md)** object that represents the category 
 
 ## Syntax
 
-_expression_. `Category`
+_expression_.**Category**
 
  _expression_ An expression that returns a '[BuildingBlock](Word.BuildingBlock.md)' object.
 

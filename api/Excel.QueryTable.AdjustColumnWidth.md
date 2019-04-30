@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `AdjustColumnWidth`
 
-_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
 
 ## Remarks

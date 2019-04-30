@@ -65,11 +65,11 @@ End Sub
 
 ## Using a For Each...Next loop to iterate over a VBA class
 
-**For Each...Next** loops don't only iterate over arrays and instances of the **[Collection](../../reference/user-interface-help/collection-object.md)**  object. **For Each...Next** loops can also iterate over a VBA class that you have written yourself.
+**For Each...Next** loops don't only iterate over arrays and instances of the **[Collection](../../reference/user-interface-help/collection-object.md)**  object. **For Each...Next** loops can also iterate over a VBA class that you have written.
 
 Following is an example demonstrating how you can do this.
 
-1. Create a [class module](../../glossary/vbe-glossary.md#class-module) in the VBE (Visual Basic Editor), and rename it **CustomCollection**<sup>[cc1](#cc1)</sup>.
+1. Create a [class module](../../glossary/vbe-glossary.md#class-module) in the VBE (Visual Basic Editor), and rename it **CustomCollection**.<sup>[cc1](#cc1)</sup>
 
 2. Place the following code in the newly created module.
 
@@ -97,7 +97,7 @@ Following is an example demonstrating how you can do this.
     End Property
     ```
 
-3. Export this module to a file and store it locally<sup>[cc2](#cc2)</sup>.
+3. Export this module to a file and store it locally.<sup>[cc2](#cc2)</sup>
 
 4. After you export the module, open the exported file by using a text editor (Window's _Notepad_ software should be sufficient). The file contents should look like the following.
 
@@ -136,9 +136,9 @@ Following is an example demonstrating how you can do this.
 
 5. Using the text editor, remove the `'` character from the first line under the `Property Get NewEnum() As IUnknown` text in the file. Save the modified file.
 
-6. Back in the VBE, remove the class that you created from your VBA project and don't choose to export it when prompted<sup>[cc3](#cc3)</sup>.
+6. Back in the VBE, remove the class that you created from your VBA project and don't choose to export it when prompted.<sup>[cc3](#cc3)</sup>
 
-7. Import the file that you removed the `'` character from back into the VBE<sup>[cc4](#cc4)</sup>.
+7. Import the file that you removed the `'` character from back into the VBE.<sup>[cc4](#cc4)</sup>
 
 8. Run the following code to see that you can now iterate over your custom VBA class that you have written by using both the VBE and a text editor.
 
@@ -152,10 +152,10 @@ Following is an example demonstrating how you can do this.
 
 |Footnotes|Description|
 |:--------|:----------|
-| <sup><a name="cc1">[**cc1**]</a></sup> | <sup>You can create a [class module](../../glossary/vbe-glossary.md#class-module) by choosing **Class Module** on the **[Insert](../../reference/user-interface-help/insert-menu.md)** menu. You can rename a class module by modifying its properties in the [Properties](../../reference/user-interface-help/use-the-properties-window.md) window.</sup> |
-| <sup><a name="cc2">[**cc2**]</a></sup> | <sup>You can activate the **[Export File](../../reference/user-interface-help/export-file-dialog-box.md)** dialog box by choosing **[Export File](../../reference/user-interface-help/file-menu.md#import-file-export-file)** on the **[File](../../reference/user-interface-help/file-menu.md)** menu.</sup> |
-| <sup><a name="cc3">[**cc3**]</a></sup> | <sup>You can remove a class module from the VBE by choosing **[Remove Item](../../reference/user-interface-help/file-menu.md#remove-item)** on the **File** menu.</sup> |
-| <sup><a name="cc4">[**cc4**]</a></sup> | <sup>You can import an external class-module file by activating the **[Import File](../../reference/user-interface-help/import-file-dialog-box.md)** dialog box (choose **[Import File](../../reference/user-interface-help/file-menu.md#import-file-export-file)** on the **File** menu).</sup> |
+| <sup><a name="cc1">[**cc1**]</a></sup> | You can create a [class module](../../glossary/vbe-glossary.md#class-module) by choosing **Class Module** on the **[Insert](../../reference/user-interface-help/insert-menu.md)** menu. You can rename a class module by modifying its properties in the [Properties](../../reference/user-interface-help/use-the-properties-window.md) window. |
+| <sup><a name="cc2">[**cc2**]</a></sup> | You can activate the **[Export File](../../reference/user-interface-help/export-file-dialog-box.md)** dialog box by choosing **[Export File](../../reference/user-interface-help/file-menu.md#import-file-export-file)** on the **[File](../../reference/user-interface-help/file-menu.md)** menu. |
+| <sup><a name="cc3">[**cc3**]</a></sup> | You can remove a class module from the VBE by choosing **[Remove Item](../../reference/user-interface-help/file-menu.md#remove-item)** on the **File** menu. |
+| <sup><a name="cc4">[**cc4**]</a></sup> | You can import an external class-module file by activating the **[Import File](../../reference/user-interface-help/import-file-dialog-box.md)** dialog box (choose **[Import File](../../reference/user-interface-help/file-menu.md#import-file-export-file)** on the **File** menu). |
 
 
 ## See also

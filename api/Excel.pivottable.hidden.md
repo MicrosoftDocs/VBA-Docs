@@ -19,7 +19,7 @@ Checks whether the PivotTable exists at the worksheet level.  **Boolean**. Read-
 
 _expression_. `Hidden`
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Remarks

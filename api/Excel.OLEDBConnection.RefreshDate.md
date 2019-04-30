@@ -19,9 +19,9 @@ Returns the date on which the OLE DB connection was last refreshed. Read-only  *
 
 ## Syntax
 
-_expression_. `RefreshDate`
+_expression_.**RefreshDate**
 
-_expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
+_expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnection.md)** object.
 
 
 ## Remarks

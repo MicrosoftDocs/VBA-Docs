@@ -4,7 +4,7 @@ keywords: vbaxl10.chm985075
 f1_keywords:
 - vbaxl10.chm985075
 ms.assetid: f45fe29b-d869-e439-0aae-ab1bbe3b0793
-ms.date: 06/08/2017
+ms.date: 05/01/2019
 ms.prod: excel
 localization_priority: Normal
 ---
@@ -19,12 +19,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a 'ModelFormatDecimalNumber' object.
+_expression_ A variable that represents a **[ModelFormatDecimalNumber](Excel.modelformatdecimalnumber.md)** object.
 
 
-## See also
 
-
-[ModelFormatDecimalNumber Object](Excel.modelformatdecimalnumber.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

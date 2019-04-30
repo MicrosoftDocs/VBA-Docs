@@ -50,7 +50,7 @@ When the list has headers, the first row of cells will be converted to **Text**,
 The following example adds a new **ListObject** object based on data from a Microsoft SharePoint Foundation site to the default **ListObjects** collection and places the list in cell A1 in the first worksheet of the workbook.
 
 > [!NOTE] 
-> The following code example assumes that you will substitute a valid server name and the list guid in the variables  `strServerName` and `strListGUID`. Additionally, the server name must be followed by "/_vti_bin" (`strListName`) or the sample will not work.|
+> The following code example assumes that you will substitute a valid server name and the list guid in the variables  `strServerName` and `strListGUID`. Additionally, the server name must be followed by `"/_vti_bin" (strListName)` or the sample will not work.
 
 
 ```vb

@@ -19,7 +19,7 @@ Returns a [Shape](Excel.Shape.md) object that represents the standalone PivotCha
 
 _expression_. `PivotChart`
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Returns

@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the friendly name used to un
 
 _expression_.**Name**
 
-_expression_ A variable that represents a [XmlMap](Excel.XmlMap.md) object.
+_expression_ A variable that represents an **[XmlMap](Excel.XmlMap.md)** object.
 
 
 ## Remarks

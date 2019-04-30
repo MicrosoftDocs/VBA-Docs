@@ -12,8 +12,7 @@ localization_priority: Normal
 
 # Model.ModelRelationships property (Excel)
 
-Returns a collection of relationships between Data Model tables. Read-only.
-
+Returns a **[ModelRelationships](Excel.modelrelationships.md)** object that represents the collection of relationships between data model tables. Read-only.
 
 ## Syntax
 

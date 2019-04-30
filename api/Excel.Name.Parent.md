@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Name.Parent
 ms.assetid: 83d46498-bf9c-6285-189b-47f6e8cd41ee
-ms.date: 06/08/2017
+ms.date: 05/01/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [Name](Excel.Name.md) object.
+_expression_ A variable that represents a **[Name](Excel.Name.md)** object.
 
 
-## See also
 
-
-[Name Object](Excel.Name.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

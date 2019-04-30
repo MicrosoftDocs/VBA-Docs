@@ -19,9 +19,9 @@ Returns an ADO connection object if the PivotTable cache is connected to an OLE 
 
 ## Syntax
 
-_expression_. `ADOConnection`
+_expression_.**ADOConnection**
 
-_expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
+_expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnection.md)** object.
 
 
 ## Remarks

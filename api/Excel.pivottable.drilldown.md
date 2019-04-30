@@ -19,7 +19,7 @@ Enables you to drill down into the data within an OLAP or PowerPivot based cube 
 
 _expression_. `DrillDown`_(PivotItem,_ _PivotLine)_
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Parameters

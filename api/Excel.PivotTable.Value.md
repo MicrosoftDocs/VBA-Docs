@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the name of the PivotTable r
 
 _expression_.**Value**
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## See also

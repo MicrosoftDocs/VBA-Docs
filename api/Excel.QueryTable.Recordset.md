@@ -21,7 +21,7 @@ Returns or sets a  **Recordset** object that's used as the data source for the s
 
 _expression_. `Recordset`
 
-_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
 
 ## Remarks

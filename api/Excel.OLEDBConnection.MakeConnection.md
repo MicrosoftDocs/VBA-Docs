@@ -21,7 +21,7 @@ Establishes a connection for the specified OLE DB connection.
 
 _expression_. `MakeConnection`
 
-_expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
+_expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnection.md)** object.
 
 
 ## Return value

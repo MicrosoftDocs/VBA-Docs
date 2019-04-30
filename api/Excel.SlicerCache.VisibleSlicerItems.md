@@ -21,7 +21,7 @@ Returns a  **[SlicerItems](Excel.SlicerItems.md)** collection that contains the 
 
 _expression_. `VisibleSlicerItems`
 
-_expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
+_expression_ A variable that represents a **[SlicerCache](Excel.SlicerCache.md)** object.
 
 
 ## Return value

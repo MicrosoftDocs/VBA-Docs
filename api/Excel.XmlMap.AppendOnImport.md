@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `AppendOnImport`
 
-_expression_ A variable that represents a [XmlMap](Excel.XmlMap.md) object.
+_expression_ A variable that represents an **[XmlMap](Excel.XmlMap.md)** object.
 
 
 ## See also

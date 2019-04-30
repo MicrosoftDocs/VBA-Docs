@@ -21,7 +21,7 @@ When used without an object qualifier, this property returns an  **[Application]
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [XmlDataBinding](Excel.XmlDataBinding.md) object.
+_expression_ A variable that represents an **[XmlDataBinding](Excel.XmlDataBinding.md)** object.
 
 
 ## Example

@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `SourceUrl`
 
-_expression_ A variable that represents a [XmlDataBinding](Excel.XmlDataBinding.md) object.
+_expression_ A variable that represents an **[XmlDataBinding](Excel.XmlDataBinding.md)** object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns or sets the column format for the data in the text file that you are imp
 
 _expression_. `TextFileParseType`
 
-_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
 
 ## Remarks

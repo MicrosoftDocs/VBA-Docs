@@ -21,7 +21,7 @@ Initializes the specified data binding with settings from an XML data file or a 
 
 _expression_. `LoadSettings`( `_Url_` )
 
-_expression_ A variable that represents a [XmlDataBinding](Excel.XmlDataBinding.md) object.
+_expression_ A variable that represents an **[XmlDataBinding](Excel.XmlDataBinding.md)** object.
 
 
 ## Parameters

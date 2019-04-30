@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that indicates whether items in the row and colum
 
 _expression_. `DisplayImmediateItems`
 
-_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Example

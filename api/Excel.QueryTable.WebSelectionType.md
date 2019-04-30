@@ -21,7 +21,7 @@ Returns or sets a value that determines whether an entire webpage, all tables on
 
 _expression_. `WebSelectionType`
 
-_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
 
 ## Remarks

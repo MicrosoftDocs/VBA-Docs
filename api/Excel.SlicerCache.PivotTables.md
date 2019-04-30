@@ -21,7 +21,7 @@ Returns a  **[SlicerPivotTables](Excel.SlicerPivotTables.md)** collection that c
 
 _expression_. `PivotTables`
 
-_expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
+_expression_ A variable that represents a **[SlicerCache](Excel.SlicerCache.md)** object.
 
 
 ## Return value

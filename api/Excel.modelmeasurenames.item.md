@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm972074
 ms.prod: excel
 ms.assetid: 812fbcc5-157c-d675-efc2-3df855e656e1
-ms.date: 06/08/2017
+ms.date: 05/01/2019
 localization_priority: Normal
 ---
 
@@ -24,21 +24,16 @@ _expression_ A variable that represents a **[ModelMeasureNames](Excel.modelmeasu
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The index number for the object.|
 
+
 ## Return value
 
-A [ModelMeasureName](Excel.modelmeasurename.md) object contained in the collection.
-
-
-## See also
+A **[ModelMeasureName](Excel.modelmeasurename.md)** object contained in the collection.
 
 
 
-[ModelMeasureNames Object](Excel.modelmeasurenames.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

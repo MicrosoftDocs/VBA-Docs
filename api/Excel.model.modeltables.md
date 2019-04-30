@@ -12,8 +12,7 @@ localization_priority: Normal
 
 # Model.ModelTables property (Excel)
 
-Returns a collection of tables inside the Data Model. Read-only.
-
+Returns a **[ModelTables](Excel.modeltables.md)** object that represents a collection of tables inside the data model. Read-only.
 
 ## Syntax
 
