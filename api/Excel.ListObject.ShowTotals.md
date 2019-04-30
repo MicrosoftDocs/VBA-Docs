@@ -14,20 +14,19 @@ localization_priority: Normal
 
 # ListObject.ShowTotals property (Excel)
 
-Gets or sets a  **Boolean** to indicate whether the Total row is visible. Read/write **Boolean**.
+Gets or sets a **Boolean** to indicate whether the Total row is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `ShowTotals`
+_expression_.**ShowTotals**
 
 _expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Example
 
-The following code sample displays the current setting of the  **ShowTotals** property of the default list on Sheet1 of the active workbook.
-
+The following code sample displays the current setting of the **ShowTotals** property of the default list on Sheet1 of the active workbook.
 
 ```vb
  
@@ -42,9 +41,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[ListObject Object](Excel.ListObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

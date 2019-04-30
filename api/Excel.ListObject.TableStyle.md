@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # ListObject.TableStyle property (Excel)
 
-Gets or sets the table style for the specified  **ListObject** object. Read/write **Variant**.
+Gets or sets the table style for the specified **ListObject** object. Read/write **Variant**.
 
 
 ## Syntax
 
-_expression_. `TableStyle`
+_expression_.**TableStyle**
 
 _expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
-## See also
 
-
-[ListObject Object](Excel.ListObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

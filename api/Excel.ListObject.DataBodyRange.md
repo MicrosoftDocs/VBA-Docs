@@ -28,10 +28,11 @@ _expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** 
 
 This example selects the active data range in the list.
 
-
 ```vb
 Worksheets("Sheet1").Activate 
 ActiveSheet.ListObjects.Item(1).DataBodyRange.Select
 ```
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

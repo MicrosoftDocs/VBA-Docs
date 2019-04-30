@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[ListObjects](Excel.ListObjects.md)*
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The name or index number of the object.|
@@ -36,7 +34,6 @@ _expression_ A variable that represents a **[ListObjects](Excel.ListObjects.md)*
 
 The following example displays the name of the default list object on Sheet1 of the active workbook.
 
-
 ```vb
  
  Set wrksht = ActiveWorkbook.Worksheets("Sheet1") 
@@ -44,9 +41,6 @@ The following example displays the name of the default list object on Sheet1 of 
 ```
 
 
-## See also
 
-
-[ListObjects Object](Excel.ListObjects.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # ListObject.AutoFilter property (Excel)
 
-Filters a  **table** using the AutoFilter feature. Read-only.
+Filters a table using the AutoFilter feature. Read-only.
 
 
 ## Syntax
 
-_expression_. `AutoFilter`
+_expression_.**AutoFilter**
 
 _expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
-## See also
 
-
-[ListObject Object](Excel.ListObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

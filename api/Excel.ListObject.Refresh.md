@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ListObject.Refresh method (Excel)
 
-Retrieves the current data and schema for the list from the server that is running Microsoft SharePoint Foundation. This method can be used only with lists that are linked to a SharePoint site. If the SharePoint site is not available, calling this method will return an error.
+Retrieves the current data and schema for the list from the server that is running Microsoft SharePoint Foundation. This method can be used only with lists that are linked to a SharePoint site. If the SharePoint site is not available, calling this method returns an error.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** 
 
 ## Remarks
 
-Calling the  **Refresh** method does not commit changes to the list in the Excel workbook. Uncommitted changes in the list in Excel are discarded when the **Refresh** method is called.
+Calling the **Refresh** method does not commit changes to the list in the Excel workbook. Uncommitted changes in the list in Excel are discarded when the **Refresh** method is called.
 
 
-## See also
 
-
-[ListObject Object](Excel.ListObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

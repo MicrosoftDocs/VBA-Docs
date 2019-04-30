@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # ListObject.XmlMap property (Excel)
 
-Returns an  **XmlMap** object that represents the schema map used for the specified table. Read-only.
+Returns an **[XmlMap](excel.xmlmap.md)** object that represents the schema map used for the specified table. Read-only.
 
 
 ## Syntax
 
-_expression_. `XmlMap`
+_expression_.**XmlMap**
 
 _expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
-## See also
 
-
-[ListObject Object](Excel.ListObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,19 +14,15 @@ localization_priority: Normal
 
 # ListObject.ShowTableStyleFirstColumn property (Excel)
 
-Returns or sets if the first column is formatted for the specified  **ListObject** object. Read/write **Boolean**.
+Returns or sets if the first column is formatted for the specified **ListObject** object. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `ShowTableStyleFirstColumn`
+_expression_.**ShowTableStyleFirstColumn**
 
 _expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
-## See also
-
-
-[ListObject Object](Excel.ListObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

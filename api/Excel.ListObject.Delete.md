@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ListObject.Delete method (Excel)
 
-Deletes the  **[ListObject](Excel.ListObject.md)** object and clears the cell data from the worksheet.
+Deletes the **ListObject** object and clears the cell data from the worksheet.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** 
 
 ## Remarks
 
-If the list is linked to a SharePoint site, deleting it does not affect data on the server that is running SharePoint Foundation. Any uncommitted changes made to the local list are not sent to the SharePoint list. (There is no warning that these uncommitted changes are lost.)
+If the list is linked to a SharePoint site, deleting it does not affect data on the server that is running SharePoint Foundation. Any uncommitted changes made to the local list are not sent to the SharePoint list. There is no warning that these uncommitted changes are lost.
 
 
-## See also
 
-
-[ListObject Object](Excel.ListObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

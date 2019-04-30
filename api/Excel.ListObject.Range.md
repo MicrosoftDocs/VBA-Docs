@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ListObject.Range property (Excel)
 
-Returns a  **[Range](Excel.Range(object).md)** object that represents the range to which the specified list object in the above list applies.
+Returns a **[Range](Excel.Range(object).md)** object that represents the range to which the specified list object in the list applies.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Range**
 _expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
-## See also
 
-
-[ListObject Object](Excel.ListObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

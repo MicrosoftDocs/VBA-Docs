@@ -12,29 +12,26 @@ localization_priority: Normal
 
 # ListObject.Slicers property (Excel)
 
-Returns a list of the table slicers associated with a  **ListObject**. Read-only
+Returns a list of the table slicers associated with a **ListObject**. Read-only.
 
 
 ## Syntax
 
-_expression_. `Slicers`
+_expression_.**Slicers**
 
 _expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Remarks
 
-A  **ListObject** is essentially a table.
+A **ListObject** is essentially a table.
 
 
 ## Property value
 
- **SLICERS**
+**SLICERS**
 
 
-## See also
 
-
-[ListObject Object](Excel.ListObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

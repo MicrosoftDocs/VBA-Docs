@@ -12,24 +12,21 @@ localization_priority: Normal
 
 # ListObject.ShowAutoFilterDropDown property (Excel)
 
- **True** when the AutoFilter drop down for the **ListObject** object is displayed. Read/write **Boolean**.
+**True** when the AutoFilter drop-down for the **ListObject** object is displayed. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `ShowAutoFilterDropDown`
+_expression_.**ShowAutoFilterDropDown**
 
 _expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Property value
 
- **BOOL**
+**BOOL**
 
 
-## See also
 
-
-[ListObject Object](Excel.ListObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

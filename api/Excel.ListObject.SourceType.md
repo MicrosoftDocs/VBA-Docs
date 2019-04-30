@@ -14,20 +14,19 @@ localization_priority: Normal
 
 # ListObject.SourceType property (Excel)
 
-Returns a  **[XlListObjectSourceType](Excel.XlListObjectSourceType.md)** value that represents the current source of the list.
+Returns an **[XlListObjectSourceType](Excel.XlListObjectSourceType.md)** value that represents the current source of the list.
 
 
 ## Syntax
 
-_expression_. `SourceType`
+_expression_.**SourceType**
 
 _expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Example
 
-The following sample code returns a  **xlListObjectSourceType** constant indicating the source of the default list on Sheet1 of the active workbook.
-
+The following sample code returns an **XlListObjectSourceType** constant indicating the source of the default list on Sheet1 of the active workbook.
 
 ```vb
 Sub Test () 
@@ -42,9 +41,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[ListObject Object](Excel.ListObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

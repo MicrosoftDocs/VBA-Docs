@@ -14,20 +14,19 @@ localization_priority: Normal
 
 # ListObject.HeaderRowRange property (Excel)
 
-Returns a  **[Range](Excel.Range(object).md)** object that represents the range of the header row for a list. Read-only **Range**.
+Returns a **[Range](Excel.Range(object).md)** object that represents the range of the header row for a list. Read-only **Range**.
 
 
 ## Syntax
 
-_expression_. `HeaderRowRange`
+_expression_.**HeaderRowRange**
 
 _expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Example
 
-The following example activates the range specified by the  **HeaderRowRange** property of the default **[ListObject](Excel.ListObject.md)** object in the first worksheet of the active workbook.
-
+The following example activates the range specified by the **HeaderRowRange** property of the default **ListObject** object in the first worksheet of the active workbook.
 
 ```vb
 Sub ActivateHeaderRow() 
@@ -44,9 +43,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[ListObject Object](Excel.ListObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

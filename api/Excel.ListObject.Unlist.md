@@ -14,25 +14,24 @@ localization_priority: Normal
 
 # ListObject.Unlist method (Excel)
 
-Removes the list functionality from a  **[ListObject](Excel.ListObject.md)** object. After you use this method, the range of cells that made up the list will be a regular range of data.
+Removes the list functionality from a **ListObject** object. After you use this method, the range of cells that made up the list will be a regular range of data.
 
 
 ## Syntax
 
-_expression_. `Unlist`
+_expression_.**Unlist**
 
 _expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Remarks
 
-Running this method leaves the cell data, formatting, and formulas in the worksheet. The  **Total row** is also left intact. This method removes any link to a Microsoft SharePoint Foundation site. **AutoFilter** is also removed from the list.
+Running this method leaves the cell data, formatting, and formulas in the worksheet. The Total row is also left intact. This method removes any link to a Microsoft SharePoint Foundation site. **AutoFilter** is also removed from the list.
 
 
 ## Example
 
 The following example removes the list features from a list on a worksheet.
-
 
 ```vb
 Sub DeList() 
@@ -46,9 +45,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[ListObject Object](Excel.ListObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

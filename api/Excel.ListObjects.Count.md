@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ListObjects.Count property (Excel)
 
-Returns an  **Integer** value that represents the number of objects in the collection.
+Returns an **Integer** value that represents the number of objects in the collection.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Count**
 _expression_ A variable that represents a **[ListObjects](Excel.ListObjects.md)** object.
 
 
-## See also
 
-
-[ListObjects Object](Excel.ListObjects.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

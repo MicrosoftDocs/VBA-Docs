@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[ListObjects](Excel.ListObjects.md)** object.
 
 
-## See also
 
-
-[ListObjects Object](Excel.ListObjects.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

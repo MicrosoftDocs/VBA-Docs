@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # ListObject.ExportToVisio method (Excel)
 
-Exports a  **ListObject** object to Visio.
+Exports a **ListObject** object to Visio.
 
 
 ## Syntax
 
-_expression_. `ExportToVisio`
+_expression_.**ExportToVisio**
 
 _expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
-## See also
 
-
-[ListObject Object](Excel.ListObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

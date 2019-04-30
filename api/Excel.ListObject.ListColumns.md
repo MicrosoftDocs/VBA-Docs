@@ -14,20 +14,19 @@ localization_priority: Normal
 
 # ListObject.ListColumns property (Excel)
 
-Returns a  **[ListColumns](Excel.ListColumns.md)** collection that represents all the columns in a **[ListObject](Excel.ListObject.md)** object. Read-only.
+Returns a **[ListColumns](Excel.ListColumns.md)** collection that represents all the columns in a **ListObject** object. Read-only.
 
 
 ## Syntax
 
-_expression_. `ListColumns`
+_expression_.**ListColumns**
 
 _expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Example
 
-The following example displays the name of the second column in the  **ListColumns** collection object as created by a call to the **ListColumns** property. For this code to run, the Sheet1 worksheet must contain a table.
-
+The following example displays the name of the second column in the **ListColumns** collection object as created by a call to the **ListColumns** property. For this code to run, the Sheet1 worksheet must contain a table.
 
 ```vb
 Sub DisplayColumnName 
@@ -44,9 +43,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[ListObject Object](Excel.ListObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

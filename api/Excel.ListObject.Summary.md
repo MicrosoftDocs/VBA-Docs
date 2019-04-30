@@ -14,31 +14,26 @@ localization_priority: Normal
 
 # ListObject.Summary property (Excel)
 
-Returns or sets the description associated with the alternative text string for the specified table. Read/write
+Returns or sets the description associated with the alternative text string for the specified table. Read/write.
 
 
 ## Syntax
 
-_expression_. `Summary`
+_expression_.**Summary**
 
-_expression_ A variable that represents a '[ListObject](Excel.ListObject.md)' object.
+_expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Return value
 
- **String**
+**String**
 
 
 ## Remarks
 
-The value of the  **Summary** property corresponds to the setting of the **Description** box in the **Alternative Text** dialog box, which is displayed by right-clicking a table, pointing to **Table**, and then clicking  **Alternative Text**.
+The value of the **Summary** property corresponds to the setting of the **Description** box in the **Alternative Text** dialog box, which is displayed by right-clicking a table, pointing to **Table**, and then choosing **Alternative Text**.
 
 
-## See also
 
-
-[PivotTable Object](Excel.PivotTable.md)
-[Range Object](Excel.Range(object).md)
-[ListObject Object](Excel.ListObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
