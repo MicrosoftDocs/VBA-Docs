@@ -7,26 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.Page.LeftFooter
 ms.assetid: ec88bfe1-039e-7d8d-43c3-d8b1771f7f36
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
 
 # Page.LeftFooter property (Excel)
 
-Specifies a picture or text to be left aligned in the page footer.
+Specifies a picture or text to be left-aligned in the page footer.
 
 
 ## Syntax
 
-_expression_. `LeftFooter`
+_expression_.**LeftFooter**
 
-_expression_ A variable that represents a [Page](Excel.Page.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[Page](Excel.Page.md)** object.
 
 
-[Page Object](Excel.Page.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
