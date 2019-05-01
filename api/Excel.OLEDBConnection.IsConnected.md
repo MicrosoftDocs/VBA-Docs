@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEDBConnection.IsConnected property (Excel)
 
-Returns  **True** if the **[MaintainConnection](Excel.OLEDBConnection.MaintainConnection.md)** property is **True**. Returns **False** if it is not currently connected to its source. Read-only **Boolean**.
+Returns **True** if the **[MaintainConnection](Excel.OLEDBConnection.MaintainConnection.md)** property is **True**. Returns **False** if it is not currently connected to its source. Read-only **Boolean**.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnec
 
 ## Remarks
 
-The  **IsConnected** property does not check to see if the connection is connected. Even if this property returns **True**, sending commands to the provider could result in an error if the connection is no longer valid.
+The **IsConnected** property does not check to see if the connection is connected. Even if this property returns **True**, sending commands to the provider could result in an error if the connection is no longer valid.
 
 
-## See also
 
-
-[OLEDBConnection Object](Excel.OLEDBConnection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

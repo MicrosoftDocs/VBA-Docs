@@ -21,22 +21,18 @@ Drops and then reconnects the specified connection.
 
 _expression_.**Reconnect**
 
-_expression_ A variable that represents an '[OLEDBConnection](Excel.OLEDBConnection.md)' object.
+_expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnection.md)** object.
 
 
 ## Example
 
 The following code example causes the specified connection to reconnect.
 
-
 ```vb
 ThisWorkbook.Connections(1).Reconnect
 ```
 
 
-## See also
 
-
-[OLEDBConnection Object](Excel.OLEDBConnection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

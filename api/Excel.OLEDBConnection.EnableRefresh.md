@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEDBConnection.EnableRefresh property (Excel)
 
- **True** if the connection can be refreshed by the user. The default value is **True**. Read/write **Boolean**.
+**True** if the connection can be refreshed by the user. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnec
 
 ## Remarks
 
-The  **[RefreshOnFileOpen](Excel.OLEDBConnection.RefreshOnFileOpen.md)** property is ignored if the **EnableRefresh** property is set to **False**.
+The **[RefreshOnFileOpen](Excel.OLEDBConnection.RefreshOnFileOpen.md)** property is ignored if the **EnableRefresh** property is set to **False**.
 
 
-## See also
 
-
-[OLEDBConnection Object](Excel.OLEDBConnection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

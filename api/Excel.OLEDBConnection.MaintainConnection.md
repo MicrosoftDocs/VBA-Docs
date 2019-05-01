@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEDBConnection.MaintainConnection property (Excel)
 
-Returns  **True** if the connection to the specified data source is maintained after the refresh operation and until the workbook is closed. Read/write **Boolean**.
+Returns **True** if the connection to the specified data source is maintained after the refresh operation and until the workbook is closed. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnec
 
 ## Remarks
 
-The default value is  **True**. If you anticipate frequent queries to a server, setting this property to **True** might improve performance by reducing reconnection time. Setting this property to **False** causes an open connection to be closed.
+The default value is **True**. If you anticipate frequent queries to a server, setting this property to **True** might improve performance by reducing reconnection time. Setting this property to **False** causes an open connection to be closed.
 
 
-## See also
 
-
-[OLEDBConnection Object](Excel.OLEDBConnection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

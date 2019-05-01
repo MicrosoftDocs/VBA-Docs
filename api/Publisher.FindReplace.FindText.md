@@ -33,7 +33,7 @@ String
 
 The  **FindText** property returns the plain, unformatted text of the selection. When you set this property, the search text is specified. You can search for special characters by specifying appropriate character codes. For example, "^p" corresponds to a paragraph mark and "^t" corresponds to a tab character.
 
-The default value for the  **FindText** property is an empty string. Because only text searching is supported, **FindText** must be explicitly set to avoid a runtime error.
+The default value for the  **FindText** property is an empty string. Because only text searching is supported, **FindText** must be explicitly set to avoid a run-time error.
 
 
 ## Example

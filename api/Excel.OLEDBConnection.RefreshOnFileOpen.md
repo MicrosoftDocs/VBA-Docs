@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEDBConnection.RefreshOnFileOpen property (Excel)
 
- **True** if the connection is automatically updated each time the workbook is opened. The default value is **False**. Read/write **Boolean**.
+**True** if the connection is automatically updated each time the workbook is opened. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnec
 
 ## Remarks
 
-The connections are not automatically refreshed when you open the workbook by using the  **[Open](Excel.Workbooks.Open.md)** method in Visual Basic. Use the **[Refresh](Excel.OLEDBConnection.Refresh.md)** method to refresh the data after the workbook is open.
+The connections are not automatically refreshed when you open the workbook by using the **[Open](Excel.Workbooks.Open.md)** method in Visual Basic. Use the **[Refresh](Excel.OLEDBConnection.Refresh.md)** method to refresh the data after the workbook is open.
 
 
-## See also
 
-
-[OLEDBConnection Object](Excel.OLEDBConnection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

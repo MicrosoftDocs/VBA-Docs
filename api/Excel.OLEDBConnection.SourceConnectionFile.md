@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEDBConnection.SourceConnectionFile property (Excel)
 
-Returns or sets a  **String** indicating the Microsoft Office Data Connection file or similar file that was used to create the connection. Read/write.
+Returns or sets a **String** indicating the Microsoft Office Data Connection file or similar file that was used to create the connection. Read/write.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**SourceConnectionFile**
 _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnection.md)** object.
 
 
-## See also
 
-
-[OLEDBConnection Object](Excel.OLEDBConnection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,7 +41,7 @@ _expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFun
 
 ## Remarks
 
- It isn't necessary to sort the timeline ( _Arg2_), because  **Forecast_ETS_STAT** sorts it implicitly for calculations. If **Forecast_ETS_STAT** can't identify a constant step in the timeline, it returns runtime error ?1004?. If the timeline contains duplicate values, **Forecast_ETS_STAT** also returns an error. If the ranges of the timeline and values aren't all of the same size, **Forecast_ETS_STAT** returns runtime error ?1004?.
+ It isn't necessary to sort the timeline ( _Arg2_), because  **Forecast_ETS_STAT** sorts it implicitly for calculations. If **Forecast_ETS_STAT** can't identify a constant step in the timeline, it returns run-time error 1004. If the timeline contains duplicate values, **Forecast_ETS_STAT** also returns an error. If the ranges of the timeline and values aren't all of the same size, **Forecast_ETS_STAT** returns run-time error 1004.
 
 The statistic_type parameter ( _Arg3_) indicates which statistic is requested by this function. The following optional statistics can be returned:
 
@@ -66,7 +66,7 @@ A confidence interval ( _Arg4_) of 95% means that 95% of future points are expec
 
 For example, for a 90% confidence interval, a 90% confidence level is computed (90% of future points are to fall within this radius from prediction). The default value is 95%. For numbers outside of the range (0,1),  **Forecast_ETS_STAT** returns an error.
 
-Passing 0 for the data completions parameter ( _Arg5_) instructs the algorithm to account for missing points as zeros. The default value of 1 accounts for missing points by computing them to be the average of the neighboring points. If there is more than 30% missing data,  **Forecast_ETS_STAT** returns runtime error ?1004?.
+Passing 0 for the data completions parameter ( _Arg5_) instructs the algorithm to account for missing points as zeros. The default value of 1 accounts for missing points by computing them to be the average of the neighboring points. If there is more than 30% missing data,  **Forecast_ETS_STAT** returns run-time error 1004.
 
 The aggregation parameter ( _Arg6_) is a numeric value specifying the method to use to aggregate several values that have the same time stamp. The default value of 0 specifies AVERAGE, while other numbers between 1 and 6 specify SUM, COUNT, COUNTA, MIN, MAX, and MEDIAN.
 

@@ -33,13 +33,13 @@ _expression_ A variable that represents a [XPath](Excel.XPath.md) object.
 | _Map_|Required| **[XmlMap](Excel.XmlMap.md)**|The map info that the mapped range will be associated with.|
 | _XPath_|Required| **String**|A valid XPath expression that tells Excel what XML data should appear in this mapped range. The XPath string can also contain valid filters, in which case, only a subset of the data that the XPath points to will ever appear in this mapped range.|
 | _SelectionNamespace_|Optional| **Variant**|Specifies any namespace prefixes used in the XPath argument. This argument can be omitted if the  **XPath** object doesn't contain any prefixes, or if the **XPath** object uses the Microsoft Excel internal prefixes.|
-| _Repeating_|Optional| **Variant**|Specifies whether the  **XPath** object is to be bound to a column in an XML list, or mapped to a single cell. Set to **True** to bind the **XPath** object to a column in an XML list. **False** forces a non-repeating cell to be created. If the range is greater than a single cell and **False** is specified, a runtime error will occur.|
+| _Repeating_|Optional| **Variant**|Specifies whether the  **XPath** object is to be bound to a column in an XML list, or mapped to a single cell. Set to **True** to bind the **XPath** object to a column in an XML list. **False** forces a non-repeating cell to be created. If the range is greater than a single cell and **False** is specified, a run-time error will occur.|
 
 ## Remarks
 
-See  **[IsExportable](Excel.XmlMap.IsExportable.md)** Property for a discussion on XPath support in Excel. If the XPath expression is invalid or if the XPath specified has already been mapped, a runtime error will occur.
+See  **[IsExportable](Excel.XmlMap.IsExportable.md)** Property for a discussion on XPath support in Excel. If the XPath expression is invalid or if the XPath specified has already been mapped, a run-time error will occur.
 
-If Excel cannot resolve the namespace, a runtime error will occur.
+If Excel cannot resolve the namespace, a run-time error will occur.
 
 This method will produce an error if any of the following conditions are true:
 

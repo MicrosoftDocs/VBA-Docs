@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEDBConnection.UseLocalConnection property (Excel)
 
- **True** if the **[LocalConnection](Excel.OLEDBConnection.LocalConnection.md)** property is used to specify the string that enables Microsoft Excel to connect to a data source. **False** if the connection string specified by the **[Connection](Excel.OLEDBConnection.Connection.md)** property is used. Read/write **Boolean**.
+**True** if the **[LocalConnection](Excel.OLEDBConnection.LocalConnection.md)** property is used to specify the string that enables Microsoft Excel to connect to a data source. **False** if the connection string specified by the **[Connection](Excel.OLEDBConnection.Connection.md)** property is used. Read/write **Boolean**.
 
 
 ## Syntax
@@ -24,13 +24,9 @@ _expression_.**UseLocalConnection**
 _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnection.md)** object.
 
 
-## Remarks
-
-This example sets the connection string of the first PivotTable cache to reference an offline cube file.
-
-
 ## Example
 
+This example sets the connection string of the first PivotTable cache to reference an offline cube file.
 
 ```vb
 With ActiveWorkbook.PivotCaches(1) 
@@ -42,9 +38,6 @@ End With
 ```
 
 
-## See also
 
-
-[OLEDBConnection Object](Excel.OLEDBConnection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

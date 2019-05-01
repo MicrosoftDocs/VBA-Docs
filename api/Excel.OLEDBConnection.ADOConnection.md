@@ -31,9 +31,6 @@ The **ADOConnection** property exposes the Microsoft Excel connection to the dat
 The **ADOConnection** property is available only for sessions where the data source is an OLE DB data source. When there is no ADO session, the query will result in a run-time error. The **ADOConnection** property can be used for any OLE DB-based cache with ADO. The ADO connection object can be used with ADO MD for finding information about OLAP cubes on which the cache is based.
 
 
-## See also
 
-
-[OLEDBConnection Object](Excel.OLEDBConnection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEDBConnection.Connection property (Excel)
 
-Returns or sets a string that contains OLE DB settings that enable Microsoft Excel to connect to an OLE DB data source. Read/write  **Variant**.
+Returns or sets a string that contains OLE DB settings that enable Microsoft Excel to connect to an OLE DB data source. Read/write **Variant**.
 
 
 ## Syntax
@@ -26,13 +26,12 @@ _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnec
 
 ## Remarks
 
-Setting the  **Connection** property does not immediately initiate the connection to the data source. You must use the **[Refresh](Excel.OLEDBConnection.Refresh.md)** method to make the connection and retrieve the data. When using an offline cube file, set the **[UseLocalConnection](Excel.OLEDBConnection.UseLocalConnection.md)** property to **True** and use the **[LocalConnection](Excel.OLEDBConnection.LocalConnection.md)** property instead of the **Connection** property.
+Setting the **Connection** property does not immediately initiate the connection to the data source. You must use the **[Refresh](Excel.OLEDBConnection.Refresh.md)** method to make the connection and retrieve the data. When using an offline cube file, set the **[UseLocalConnection](Excel.OLEDBConnection.UseLocalConnection.md)** property to **True** and use the **[LocalConnection](Excel.OLEDBConnection.LocalConnection.md)** property instead of the **Connection** property.
 
 
 ## Example
 
-This example creates a PivotTable cache based on an OLAP provider, and then it creates a PivotTable report based on the cache, at cell A3 on the active worksheet.
-
+This example creates a PivotTable cache based on an OLAP provider, and then it creates a PivotTable report based on the cache at cell A3 on the active worksheet.
 
 ```vb
 With ActiveWorkbook.PivotCaches.Add(SourceType:=xlExternal) 
@@ -58,9 +57,6 @@ End With
 ```
 
 
-## See also
 
-
-[OLEDBConnection Object](Excel.OLEDBConnection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

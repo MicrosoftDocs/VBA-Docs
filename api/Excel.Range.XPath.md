@@ -40,7 +40,7 @@ The **XPath** property is valid when the range it contains meets the following c
     
 > [!NOTE] 
 > The header and totals row of a table are considered to contain XPath information.
-Any ranges that don't meet the above conditions returns a runtime error.
+Any ranges that don't meet the above conditions returns a run-time error.
 
 If the range selection is valid, but none of the cells are mapped, Excel returns an **XPath** object so that you can access the **SetValue** method to create a mapping.
 

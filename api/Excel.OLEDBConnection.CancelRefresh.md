@@ -26,12 +26,9 @@ _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnec
 
 ## Remarks
 
-Use the  **[Refreshing](Excel.OLEDBConnection.Refreshing.md)** property to determine whether a refresh operation is currently in progress.
+Use the **[Refreshing](Excel.OLEDBConnection.Refreshing.md)** property to determine whether a refresh operation is currently in progress.
 
 
-## See also
 
-
-[OLEDBConnection Object](Excel.OLEDBConnection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

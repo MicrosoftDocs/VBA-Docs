@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEDBConnection.AlwaysUseConnectionFile property (Excel)
 
- **True** if the connection file is always used to establish connection to the data source. Read/write **Boolean**.
+**True** if the connection file is always used to establish a connection to the data source. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnec
 
 ## Remarks
 
-When this property is  **True** the connection file will always be used to establish the connection to the data source. If the connection embedded within the workbook is different from the external connection file, the embedded connection will be ignored and the external connection file will be the only version considered.
+When this property is **True** the connection file will always be used to establish the connection to the data source. If the connection embedded within the workbook is different from the external connection file, the embedded connection will be ignored and the external connection file will be the only version considered.
 
 
-## See also
 
-
-[OLEDBConnection Object](Excel.OLEDBConnection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

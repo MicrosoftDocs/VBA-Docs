@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 ## Remarks
 
-Setting this property to **True** will result in a runtime error if the active workbook is not a smart document.
+Setting this property to **True** will result in a run-time error if the active workbook is not a smart document.
 
 
 

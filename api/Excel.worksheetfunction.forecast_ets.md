@@ -48,11 +48,11 @@ The predicted value is a continuation of the historical values in the specified 
 
 If the target date parameter value ( _Arg1_) is chronologically before the end of the historical timeline,  **Forecast_ETS** returns an error.
 
- It isn't necessary to sort the timeline ( _Arg3_), because  **Forecast_ETS** sorts it implicitly for calculations. If **Forecast_ETS** can't identify a constant step in the timeline, it returns runtime error ?1004?. If the timeline contains duplicate values, **Forecast_ETS** also returns an error. If the ranges of the timeline and values aren't all of the same size, **Forecast_ETS** returns runtime error ?1004?.
+It isn't necessary to sort the timeline ( _Arg3_), because  **Forecast_ETS** sorts it implicitly for calculations. If **Forecast_ETS** can't identify a constant step in the timeline, it returns run-time error 1004. If the timeline contains duplicate values, **Forecast_ETS** also returns an error. If the ranges of the timeline and values aren't all of the same size, **Forecast_ETS** returns run-time error 1004.
 
 The default value of 1 for seasonality ( _Arg4_) means Excel detects seasonality automatically for the forecast and uses positive, whole numbers for the length of the seasonal pattern. 0 indicates no seasonality, meaning the prediction will be linear. Positive whole numbers indicate to the algorithm to use patterns of this length as the seasonality. For any other value,  **Forecast_ETS** returns an error. Maximum supported seasonality is 8,760 (the number of hours in a year). Any seasonality value above that number results in an error.
 
-Passing 0 for the data completions parameter ( _Arg5_) instructs the algorithm to account for missing points as zeros. The default value of 1 accounts for missing points by computing them to be the average of the neighboring points. If there is more than 30% missing data,  **Forecast_ETS** returns runtime error ?1004?.
+Passing 0 for the data completions parameter ( _Arg5_) instructs the algorithm to account for missing points as zeros. The default value of 1 accounts for missing points by computing them to be the average of the neighboring points. If there is more than 30% missing data,  **Forecast_ETS** returns run-time error 1004.
 
 The aggregation parameter ( _Arg6_) is a numeric value specifying the method to use to aggregate several values that have the same time stamp. The default value of 0 specifies AVERAGE, while other numbers between 1 and 6 specify SUM, COUNT, COUNTA, MIN, MAX, and MEDIAN.
 

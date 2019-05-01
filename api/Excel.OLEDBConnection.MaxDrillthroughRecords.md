@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEDBConnection.MaxDrillthroughRecords property (Excel)
 
-Returns or sets the maximum number of records to retrieve. Read/write  **Long**.
+Returns or sets the maximum number of records to retrieve. Read/write **Long**.
 
 
 ## Syntax
@@ -24,9 +24,5 @@ _expression_.**MaxDrillthroughRecords**
 _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnection.md)** object.
 
 
-## See also
-
-
-[OLEDBConnection Object](Excel.OLEDBConnection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

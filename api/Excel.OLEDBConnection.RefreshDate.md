@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEDBConnection.RefreshDate property (Excel)
 
-Returns the date on which the OLE DB connection was last refreshed. Read-only  **Date**.
+Returns the date on which the OLE DB connection was last refreshed. Read-only **Date**.
 
 
 ## Syntax
@@ -29,9 +29,6 @@ _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnec
 For OLAP data sources, this property is updated after each query.
 
 
-## See also
 
-
-[OLEDBConnection Object](Excel.OLEDBConnection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

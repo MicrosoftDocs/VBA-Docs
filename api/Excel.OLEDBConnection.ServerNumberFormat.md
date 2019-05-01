@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEDBConnection.ServerNumberFormat property (Excel)
 
- **True** if the number format for the OLAP server is retrieved from the server when using the specified connection. Read/write **Boolean**.
+**True** if the number format for the OLAP server is retrieved from the server when using the specified connection. Read/write **Boolean**.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**ServerNumberFormat**
 _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnection.md)** object.
 
 
-## See also
 
-
-[OLEDBConnection Object](Excel.OLEDBConnection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

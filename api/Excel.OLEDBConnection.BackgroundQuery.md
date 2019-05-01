@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEDBConnection.BackgroundQuery property (Excel)
 
- **True** if queries for the OLE DB connection are performed asynchronously (in the background). Read/write **Boolean**.
+**True** if queries for the OLE DB connection are performed asynchronously (in the background). Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnec
 
 ## Remarks
 
-For OLAP data sources, this property is read-only and always returns  **False**.
+For OLAP data sources, this property is read-only and always returns **False**.
 
 
-## See also
 
-
-[OLEDBConnection Object](Excel.OLEDBConnection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -33,7 +33,7 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 ## Remarks
 
-If the list that you are trying to add already exists, this method throws a runtime error 1004. Catch the error with an **On Error** statement.
+If the list that you are trying to add already exists, this method throws a run-time error 1004. Catch the error with an **On Error** statement.
 
 
 ## Example
