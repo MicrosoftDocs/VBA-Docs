@@ -19,7 +19,7 @@ Returns a  **[XlSourceType](Excel.XlSourceType.md)** value that represents the t
 
 ## Syntax
 
-_expression_. `SourceType`
+_expression_.**SourceType**
 
 _expression_ A variable that represents a **[PublishObject](Excel.PublishObject.md)** object.
 

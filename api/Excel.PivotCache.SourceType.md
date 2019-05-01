@@ -19,7 +19,7 @@ Returns a  **[XlPivotTableSourceType](Excel.XlPivotTableSourceType.md)** value t
 
 ## Syntax
 
-_expression_. `SourceType`
+_expression_.**SourceType**
 
 _expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** object.
 
