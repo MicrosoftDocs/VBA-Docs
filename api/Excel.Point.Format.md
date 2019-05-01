@@ -21,7 +21,7 @@ Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 
 _expression_.**Format**
 
-_expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
+_expression_ A variable that represents a **[Point](Excel.Point(object).md)** object.
 
 
 ## See also

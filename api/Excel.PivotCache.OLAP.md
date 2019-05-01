@@ -21,7 +21,7 @@ Returns  **True** if the PivotTable cache is connected to an Online Analytical P
 
 _expression_.**OLAP**
 
-_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** object.
 
 
 ## Example

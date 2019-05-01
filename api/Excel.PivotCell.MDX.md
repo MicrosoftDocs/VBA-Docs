@@ -21,7 +21,7 @@ Returns a tuple that provides the full MDX coordinates of the specified value ce
 
 _expression_. `MDX`
 
-_expression_ A variable that represents a '[PivotCell](Excel.PivotCell.md)' object.
+_expression_ A variable that represents a **[PivotCell](Excel.PivotCell.md)** object.
 
 
 ## Return value

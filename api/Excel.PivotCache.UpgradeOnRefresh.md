@@ -21,7 +21,7 @@ Contains information on whether to upgrade the PivotCache and all connected Pivo
 
 _expression_. `UpgradeOnRefresh`
 
-_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** object.
 
 
 ## Remarks

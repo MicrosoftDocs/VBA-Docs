@@ -21,7 +21,7 @@ Returns the unique identifier used for identifying an HTML <DIV> tag on a webpag
 
 _expression_. `DivID`
 
-_expression_ A variable that represents a [PublishObject](Excel.PublishObject.md) object.
+_expression_ A variable that represents a **[PublishObject](Excel.PublishObject.md)** object.
 
 
 ## Example

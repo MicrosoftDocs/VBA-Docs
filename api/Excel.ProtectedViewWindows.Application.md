@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [ProtectedViewWindows](Excel.ProtectedViewWindows.md) object.
+_expression_ A variable that represents a **[ProtectedViewWindows](Excel.ProtectedViewWindows.md)** object.
 
 
 ## Return value

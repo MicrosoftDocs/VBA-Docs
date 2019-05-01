@@ -21,7 +21,7 @@ Returns or sets the number of minutes between refreshes. Read/write  **Long**.
 
 _expression_.**RefreshPeriod**
 
-_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** object.
 
 
 ## Remarks

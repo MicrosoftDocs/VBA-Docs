@@ -21,7 +21,7 @@ Returns or sets the first page number that will be used when this sheet is print
 
 _expression_. `FirstPageNumber`
 
-_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 
 
 ## Example

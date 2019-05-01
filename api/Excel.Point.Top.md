@@ -21,7 +21,7 @@ Returns a value that represents the distance, in [points](../language/glossary/v
 
 _expression_.**Top**
 
-_expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
+_expression_ A variable that represents a **[Point](Excel.Point(object).md)** object.
 
 
 ## Return value

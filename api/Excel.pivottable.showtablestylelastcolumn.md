@@ -16,6 +16,6 @@ Returns or sets if the last column is displayed for the specified  **PivotTable*
 
 _expression_. `ShowTableStyleLastColumn`
 
-_expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

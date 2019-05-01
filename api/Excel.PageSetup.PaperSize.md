@@ -21,7 +21,7 @@ Returns or sets the size of the paper. Read/write [XlPaperSize](Excel.XlPaperSiz
 
 _expression_. `PaperSize`
 
-_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 
 
 ## Remarks

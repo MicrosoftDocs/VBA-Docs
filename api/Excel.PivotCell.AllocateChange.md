@@ -21,7 +21,7 @@ Performs a writeback operation on the specified cell in a PivotTable report base
 
 _expression_. `AllocateChange`
 
-_expression_ A variable that represents a '[PivotCell](Excel.PivotCell.md)' object.
+_expression_ A variable that represents a **[PivotCell](Excel.PivotCell.md)** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Deletes the object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
+_expression_ A variable that represents a **[PivotItem](Excel.PivotItem.md)** object.
 
 
 ## See also

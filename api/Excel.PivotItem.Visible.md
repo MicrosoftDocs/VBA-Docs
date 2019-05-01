@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that determines whether the object is visib
 
 _expression_.**Visible**
 
-_expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
+_expression_ A variable that represents a **[PivotItem](Excel.PivotItem.md)** object.
 
 
 ## Remarks

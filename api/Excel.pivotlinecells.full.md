@@ -19,7 +19,7 @@ When  **True**, all of the  **PivotLineCells** in the **PivotLine** (including t
 
 _expression_. `Full`
 
-_expression_ A variable that represents a [PivotLineCells](Excel.PivotLineCells.md) object.
+_expression_ A variable that represents a **[PivotLineCells](Excel.PivotLineCells.md)** object.
 
 
 ## Property value

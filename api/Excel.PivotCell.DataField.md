@@ -21,7 +21,7 @@ Returns a  **[PivotField](Excel.PivotField.md)** object that corresponds to the 
 
 _expression_. `DataField`
 
-_expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
+_expression_ A variable that represents a **[PivotCell](Excel.PivotCell.md)** object.
 
 
 ## Remarks

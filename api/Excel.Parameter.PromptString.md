@@ -21,7 +21,7 @@ Returns the phrase that prompts the user for a parameter value in a parameter qu
 
 _expression_. `PromptString`
 
-_expression_ A variable that represents a [Parameter](Excel.Parameter.md) object.
+_expression_ A variable that represents a **[Parameter](Excel.Parameter.md)** object.
 
 
 ## Example

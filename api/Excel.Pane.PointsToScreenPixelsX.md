@@ -21,7 +21,7 @@ Returns or sets a pixel point on the screen.
 
 _expression_. `PointsToScreenPixelsX`( `_Points_` )
 
-_expression_ A variable that represents a [Pane](Excel.Pane.md) object.
+_expression_ A variable that represents a **[Pane](Excel.Pane.md)** object.
 
 
 ## Parameters

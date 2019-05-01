@@ -21,7 +21,7 @@ Returns or sets the rows that contain the cells to be repeated at the top of eac
 
 _expression_. `PrintTitleRows`
 
-_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 
 
 ## Remarks

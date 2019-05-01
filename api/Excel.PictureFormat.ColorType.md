@@ -21,7 +21,7 @@ Returns or sets the type of color transformation applied to the specified pictur
 
 _expression_. `ColorType`
 
- _expression_ An expression that returns a [PictureFormat](Excel.PictureFormat.md) object.
+ _expression_ An expression that returns a **[PictureFormat](Excel.PictureFormat.md)** object.
 
 
 ## Example

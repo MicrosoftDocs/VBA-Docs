@@ -21,7 +21,7 @@ Changes the contrast of the picture by the specified amount. Use the  **[Contras
 
 _expression_. `IncrementContrast`( `_Increment_` )
 
-_expression_ A variable that represents a [PictureFormat](Excel.PictureFormat.md) object.
+_expression_ A variable that represents a **[PictureFormat](Excel.PictureFormat.md)** object.
 
 
 ## Parameters

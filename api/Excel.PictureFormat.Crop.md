@@ -18,7 +18,7 @@ Returns an  **[Crop](Office.Crop.md)** object that represents the cropping setti
 
 _expression_. `Crop`
 
-_expression_ A variable that represents a [PictureFormat](Excel.PictureFormat.md) object.
+_expression_ A variable that represents a **[PictureFormat](Excel.PictureFormat.md)** object.
 
 
 ## See also

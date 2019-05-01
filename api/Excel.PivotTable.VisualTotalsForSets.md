@@ -21,7 +21,7 @@ Returns or sets whether to include filtered items in the totals of named sets fo
 
 _expression_. `VisualTotalsForSets`
 
-_expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Return value

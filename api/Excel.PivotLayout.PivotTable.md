@@ -21,7 +21,7 @@ Returns a  **[PivotTable](Excel.PivotTable.md)** object that represents the Pivo
 
 _expression_. `PivotTable`
 
-_expression_ A variable that represents a [PivotLayout](Excel.PivotLayout.md) object.
+_expression_ A variable that represents a **[PivotLayout](Excel.PivotLayout.md)** object.
 
 
 ## Example

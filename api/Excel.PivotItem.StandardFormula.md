@@ -21,7 +21,7 @@ Returns or sets a  **String** specifying formulas with standard English (United 
 
 _expression_. `StandardFormula`
 
-_expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
+_expression_ A variable that represents a **[PivotItem](Excel.PivotItem.md)** object.
 
 
 ## Remarks

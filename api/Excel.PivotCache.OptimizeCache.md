@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `OptimizeCache`
 
-_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns  **True** if the **MaintainConnection** property is **True** and the Piv
 
 _expression_.**IsConnected**
 
-_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** object.
 
 
 ## Remarks

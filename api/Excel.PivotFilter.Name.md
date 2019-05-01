@@ -21,7 +21,7 @@ This property provides the option of naming filters for reference. You cannot re
 
 _expression_.**Name**
 
-_expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
+_expression_ A variable that represents a **[PivotFilter](Excel.PivotFilter.md)** object.
 
 
 ## See also

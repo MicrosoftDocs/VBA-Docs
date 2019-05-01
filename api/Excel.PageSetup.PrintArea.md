@@ -21,7 +21,7 @@ Returns or sets the range to be printed, as a string using A1-style references i
 
 _expression_. `PrintArea`
 
-_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 
 
 ## Remarks

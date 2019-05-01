@@ -21,7 +21,7 @@ Returns or sets whether to run an  **UPDATE CUBE** statement for each cell is ed
 
 _expression_. `Allocation`
 
-_expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Return value

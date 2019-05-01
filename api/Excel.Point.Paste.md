@@ -21,7 +21,7 @@ Pastes a picture from the Clipboard as the marker on the selected point.
 
 _expression_.**Paste**
 
-_expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
+_expression_ A variable that represents a **[Point](Excel.Point(object).md)** object.
 
 
 ## Return value

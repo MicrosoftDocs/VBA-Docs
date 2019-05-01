@@ -21,7 +21,7 @@ Returns the height, in [points](../language/glossary/vbe-glossary.md#point), of 
 
 _expression_.**Height**
 
-_expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
+_expression_ A variable that represents a **[Point](Excel.Point(object).md)** object.
 
 
 ## Return value

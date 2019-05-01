@@ -19,7 +19,7 @@ Sets or gets the filtering semantics for date filters. Read/write **Boolean**.
 
 _expression_. `WholeDayFilter`
 
-_expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
+_expression_ A variable that represents a **[PivotFilter](Excel.PivotFilter.md)** object.
 
 
 ## Remarks

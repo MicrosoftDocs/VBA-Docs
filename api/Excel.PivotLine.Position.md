@@ -21,7 +21,7 @@ Returns or sets the position of the  **PivotLine** object. Read-only.
 
 _expression_.**Position**
 
-_expression_ A variable that represents a [PivotLine](Excel.PivotLine.md) object.
+_expression_ A variable that represents a **[PivotLine](Excel.PivotLine.md)** object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Causes the specified chart to be redrawn immediately.
 
 _expression_.**Refresh**
 
-_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** object.
 
 
 ## Example

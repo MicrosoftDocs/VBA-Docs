@@ -21,7 +21,7 @@ Returns whether a PivotTable value cell has been edited or recalculated since th
 
 _expression_. `CellChanged`
 
-_expression_ A variable that represents a '[PivotCell](Excel.PivotCell.md)' object.
+_expression_ A variable that represents a **[PivotCell](Excel.PivotCell.md)** object.
 
 
 ## Return value

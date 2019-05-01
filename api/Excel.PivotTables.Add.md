@@ -21,7 +21,7 @@ Adds a new PivotTable report. Returns a  **[PivotTable](Excel.PivotTable.md)** o
 
 _expression_.**Add**( `_PivotCache_` , `_TableDestination_` , `_TableName_` , `_ReadData_` , `_DefaultVersion_` )
 
-_expression_ A variable that represents a [PivotTables](Excel.PivotTables.md) object.
+_expression_ A variable that represents a **[PivotTables](Excel.PivotTables.md)** object.
 
 
 ## Parameters

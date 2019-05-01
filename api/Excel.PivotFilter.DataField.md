@@ -21,7 +21,7 @@ This property is applicable only to non-OLAP PivotTables and provides the  **Val
 
 _expression_. `DataField`
 
-_expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
+_expression_ A variable that represents a **[PivotFilter](Excel.PivotFilter.md)** object.
 
 
 ## See also

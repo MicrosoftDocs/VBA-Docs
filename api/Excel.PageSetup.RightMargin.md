@@ -21,7 +21,7 @@ Returns or sets the size of the right margin, in points. Read/write  **Double**.
 
 _expression_.**RightMargin**
 
-_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 
 
 ## Remarks

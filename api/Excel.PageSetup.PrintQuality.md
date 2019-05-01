@@ -21,7 +21,7 @@ Returns or sets the print quality. Read/write  **Variant**.
 
 _expression_. `PrintQuality` (_Index_)
 
-_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `PrintHeadings`
 
-_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 
 
 ## Remarks

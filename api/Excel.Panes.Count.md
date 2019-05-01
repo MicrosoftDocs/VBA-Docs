@@ -21,7 +21,7 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 _expression_.**Count**
 
-_expression_ A variable that represents a [Panes](Excel.Panes.md) object.
+_expression_ A variable that represents a **[Panes](Excel.Panes.md)** object.
 
 
 ## See also

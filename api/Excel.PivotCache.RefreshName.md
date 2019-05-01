@@ -21,7 +21,7 @@ Returns the name of the person who last refreshed the PivotTable cache. Read-onl
 
 _expression_. `RefreshName`
 
-_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** object.
 
 
 ## Remarks

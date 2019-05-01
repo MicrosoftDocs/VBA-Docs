@@ -21,7 +21,7 @@ Returns  **True** if the **[LocalConnection](Excel.PivotCache.LocalConnection.md
 
 _expression_.**UseLocalConnection**
 
-_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** object.
 
 
 ## Example

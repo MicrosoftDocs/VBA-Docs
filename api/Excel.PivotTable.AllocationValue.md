@@ -21,7 +21,7 @@ Returns or sets what value to allocate when performing what-if analysis on a Piv
 
 _expression_. `AllocationValue`
 
-_expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Return value

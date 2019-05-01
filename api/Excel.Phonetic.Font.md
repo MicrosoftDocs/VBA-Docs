@@ -21,7 +21,7 @@ Returns a  **[Font](Excel.Font(object).md)** object that represents the font of 
 
 _expression_.**Font**
 
-_expression_ A variable that represents a [Phonetic](Excel.Phonetic.md) object.
+_expression_ A variable that represents a **[Phonetic](Excel.Phonetic.md)** object.
 
 
 ## See also

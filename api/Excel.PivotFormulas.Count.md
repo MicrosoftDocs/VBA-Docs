@@ -21,7 +21,7 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 _expression_.**Count**
 
-_expression_ A variable that represents a [PivotFormulas](Excel.PivotFormulas.md) object.
+_expression_ A variable that represents a **[PivotFormulas](Excel.PivotFormulas.md)** object.
 
 
 ## See also

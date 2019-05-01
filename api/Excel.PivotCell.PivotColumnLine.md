@@ -21,7 +21,7 @@ Returns the  **PivotLine** on a column for a specific **PivotCell** object. Read
 
 _expression_. `PivotColumnLine`
 
-_expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
+_expression_ A variable that represents a **[PivotCell](Excel.PivotCell.md)** object.
 
 
 ## Remarks

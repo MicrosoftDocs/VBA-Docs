@@ -21,7 +21,7 @@ Returns or sets the title of the webpage when the document is saved as a webpage
 
 _expression_.**Title**
 
-_expression_ A variable that represents a [PublishObject](Excel.PublishObject.md) object.
+_expression_ A variable that represents a **[PublishObject](Excel.PublishObject.md)** object.
 
 
 ## Remarks

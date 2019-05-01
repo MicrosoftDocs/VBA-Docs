@@ -21,7 +21,7 @@ Returns the inside height of the plot area, in points. Read-write  **Double**.
 
 _expression_. `InsideHeight`
 
-_expression_ A variable that represents a [PlotArea](Excel.PlotArea-graph-property.md) object.
+_expression_ A variable that represents a **[PlotArea](Excel.PlotArea(object).md)** object.
 
 
 ## Remarks

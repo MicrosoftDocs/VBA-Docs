@@ -21,7 +21,7 @@ Activates the pane.
 
 _expression_.**Activate**
 
-_expression_ A variable that represents a [Pane](Excel.Pane.md) object.
+_expression_ A variable that represents a **[Pane](Excel.Pane.md)** object.
 
 
 ## Return value

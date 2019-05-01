@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `DrilledDown`
 
-_expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
+_expression_ A variable that represents a **[PivotItem](Excel.PivotItem.md)** object.
 
 
 ## Remarks
