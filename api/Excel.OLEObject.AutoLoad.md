@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEObject.AutoLoad
 ms.assetid: cf57d137-8b26-5f19-29a0-13e350cfd32a
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**AutoLoad**
 
-_expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
+_expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** object.
 
 
 ## Remarks

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEObject.TopLeftCell
 ms.assetid: a040afe1-71a9-7d3f-fc48-74f49c75df76
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the cell t
 
 _expression_.**TopLeftCell**
 
-_expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
+_expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** object.
 
 
 ## See also

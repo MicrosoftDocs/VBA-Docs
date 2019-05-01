@@ -21,7 +21,7 @@ Returns a single object from a collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents an [OLEObjects](Excel.OLEObjects.md) object.
+_expression_ A variable that represents an **[OLEObjects](Excel.OLEObjects.md)** object.
 
 
 ## Parameters

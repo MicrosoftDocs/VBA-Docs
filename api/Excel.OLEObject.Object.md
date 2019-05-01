@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEObject.Object
 ms.assetid: f49881b7-a793-8431-e50d-d56282004699
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns the OLE Automation object associated with this OLE object. Read-only  **
 
 _expression_.**Object**
 
-_expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
+_expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** object.
 
 
 ## Example

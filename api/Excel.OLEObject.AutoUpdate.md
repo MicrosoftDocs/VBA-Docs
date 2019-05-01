@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEObject.AutoUpdate
 ms.assetid: 3834c552-a282-ab75-781e-42c055346b7d
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**AutoUpdate**
 
-_expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
+_expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** object.
 
 
 ## Example

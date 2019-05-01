@@ -21,7 +21,7 @@ Displays the specified number of row and/or column levels of an outline.
 
 _expression_.**ShowLevels** (_RowLevels_, _ColumnLevels_)
 
-_expression_ A variable that represents an [Outline](Excel.Outline.md) object.
+_expression_ A variable that represents an **[Outline](Excel.Outline.md)** object.
 
 
 ## Parameters

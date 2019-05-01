@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**AutomaticStyles**
 
-_expression_ A variable that represents an [Outline](Excel.Outline.md) object.
+_expression_ A variable that represents an **[Outline](Excel.Outline.md)** object.
 
 
 ## Example

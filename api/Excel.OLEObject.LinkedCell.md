@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEObject.LinkedCell
 ms.assetid: 6f45dffd-5d16-de5a-ec7c-7fd45f1116f0
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns or sets the worksheet range linked to the control's value. If you place 
 
 _expression_.**LinkedCell**
 
-_expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
+_expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** object.
 
 
 ## Remarks

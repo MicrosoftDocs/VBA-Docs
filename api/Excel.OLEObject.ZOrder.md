@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEObject.ZOrder
 ms.assetid: dd7c2c81-6582-5de9-d254-66061d4345ef
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns the z-order position of the object. Read-only  **Long**.
 
 _expression_.**ZOrder**
 
-_expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
+_expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** object.
 
 
 ## Remarks

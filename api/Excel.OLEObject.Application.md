@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEObject.Application
 ms.assetid: fe0c0640-9e9b-ba8e-6689-12b0bdaa27ba
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ When used without an object qualifier, this property returns an  **[Application]
 
 _expression_.**Application**
 
-_expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
+_expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** object.
 
 
 ## Example

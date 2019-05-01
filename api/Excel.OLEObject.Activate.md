@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEObject.Activate
 ms.assetid: 046c97b6-89a6-0455-088a-cc54dd176d35
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Activates the object.
 
 _expression_.**Activate**
 
-_expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
+_expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** object.
 
 
 ## Return value

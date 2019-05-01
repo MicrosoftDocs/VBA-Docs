@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**Enabled**
 
-_expression_ A variable that represents an [OLEObjects](Excel.OLEObjects.md) object.
+_expression_ A variable that represents an **[OLEObjects](Excel.OLEObjects.md)** object.
 
 
 ## See also

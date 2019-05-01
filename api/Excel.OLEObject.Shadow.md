@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEObject.Shadow
 ms.assetid: 02974bd4-cb9d-99fb-8f41-d80168dcdc94
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that determines if the object has a shadow.
 
 _expression_.**Shadow**
 
-_expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
+_expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** object.
 
 
 ## See also

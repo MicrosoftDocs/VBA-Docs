@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEObject.LostFocus
 ms.assetid: 9d8004be-97f5-54d2-3826-210f7cf0569f
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Occurs when an ActiveX control loses input focus.
 
 _expression_.**LostFocus**
 
-_expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
+_expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** object.
 
 
 ## Return value

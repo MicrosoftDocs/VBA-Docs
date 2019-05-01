@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEObject.Name
 ms.assetid: 856bccb3-5677-af49-fe39-89b31203eadc
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** value representing the name of the object.
 
 _expression_.**Name**
 
-_expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
+_expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** object.
 
 
 ## See also

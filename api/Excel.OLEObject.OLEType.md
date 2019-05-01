@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEObject.OLEType
 ms.assetid: ec26dc86-5a31-ca8b-97c7-fe513fb283b1
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns the OLE object type. Can be one of the following  **xlOLEType** constant
 
 _expression_.**OLEType** 
 
-_expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
+_expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** object.
 
 
 ## Example

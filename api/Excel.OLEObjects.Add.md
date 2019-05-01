@@ -21,7 +21,7 @@ Adds a new OLE object to a sheet.
 
 _expression_.**Add**( `_ClassType_` , `_FileName_` , `_Link_` , `_DisplayAsIcon_` , `_IconFileName_` , `_IconIndex_` , `_IconLabel_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
 
-_expression_ A variable that represents an [OLEObjects](Excel.OLEObjects.md) object.
+_expression_ A variable that represents an **[OLEObjects](Excel.OLEObjects.md)** object.
 
 
 ## Parameters

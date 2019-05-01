@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEObject.GotFocus
 ms.assetid: 2bd9a3d8-9305-2354-5ddd-262f4720b444
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Occurs when an ActiveX control gets input focus.
 
 _expression_.**GotFocus**
 
-_expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
+_expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** object.
 
 
 ## Return value
