@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # OLEFormat.Activate method (Excel)
 
-Activates the current ole object.
+Activates the current OLE object.
 
 
 ## Syntax
 
 _expression_.**Activate**
 
-_expression_ A variable that represents an [OLEFormat](Excel.OLEFormat.md) object.
+_expression_ A variable that represents an **[OLEFormat](Excel.OLEFormat.md)** object.
 
 
-## See also
 
-
-[OLEFormat Object](Excel.OLEFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
