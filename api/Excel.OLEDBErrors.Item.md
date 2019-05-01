@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEDBErrors.Item
 ms.assetid: b5635b91-19ac-7915-ccb5-3bcb3d5d208a
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,10 @@ Returns a single object from a collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents an [OLEDBErrors](Excel.OLEDBErrors.md) object.
+_expression_ A variable that represents an **[OLEDBErrors](Excel.OLEDBErrors.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,13 +32,12 @@ _expression_ A variable that represents an [OLEDBErrors](Excel.OLEDBErrors.md) o
 
 ## Return value
 
-An  **[OLEDBError](Excel.OLEDBError.md)** object contained by the collection.
+An **[OLEDBError](Excel.OLEDBError.md)** object contained by the collection.
 
 
 ## Example
 
 This example displays an OLE DB error.
-
 
 ```vb
 Set objEr = Application.OLEDBErrors.Item(1) 
@@ -49,9 +46,6 @@ MsgBox "The following error occurred:" & _
 ```
 
 
-## See also
 
-
-[OLEDBErrors Object](Excel.OLEDBErrors.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
