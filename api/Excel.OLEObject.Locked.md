@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** o
 
 ## Remarks
 
-This property returns **True** if the object is locked or **False** if the object can be modified when the sheet is protected.
+This property returns **True** if the object is locked, or **False** if the object can be modified when the sheet is protected.
 
 
 

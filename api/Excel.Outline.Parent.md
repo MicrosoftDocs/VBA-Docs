@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Outline.Parent
 ms.assetid: 9a42fb74-6508-27f2-f874-254b7c33b084
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents an **[Outline](Excel.Outline.md)** object.
 
 
-## See also
 
-
-[Outline Object](Excel.Outline.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
