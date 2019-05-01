@@ -19,7 +19,7 @@ Returns or sets the inside height, in [points](../language/glossary/vbe-glossary
 
 ## Syntax
 
-_expression_. `InsideHeight`
+_expression_.**InsideHeight**
 
  _expression_ A variable that represents a '[PlotArea](Word.PlotArea.md)' object.
 

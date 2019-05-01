@@ -19,7 +19,7 @@ The  **ClearTable** method is used for clearing a PivotTable. Clearing PivotTabl
 
 ## Syntax
 
-_expression_. `ClearTable`
+_expression_.**ClearTable**
 
 _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 

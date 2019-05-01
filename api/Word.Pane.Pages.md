@@ -19,7 +19,7 @@ Returns a  **[Pages](Word.pages.md)** collection that represents the pages in a 
 
 ## Syntax
 
-_expression_. `Pages`
+_expression_.**Pages**
 
  _expression_ An expression that returns a '[Pane](Word.Pane.md)' object.
 

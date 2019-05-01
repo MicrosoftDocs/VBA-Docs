@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `HasDataLabel`
+_expression_.**HasDataLabel**
 
 _expression_ A variable that represents a **[Point](Excel.Point(object).md)** object.
 

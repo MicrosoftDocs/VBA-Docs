@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `OddAndEvenPagesHeaderFooter`
+_expression_.**OddAndEvenPagesHeaderFooter**
 
 _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 

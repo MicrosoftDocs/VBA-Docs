@@ -19,7 +19,7 @@ Returns the  **[CubeField](Excel.CubeField.md)** object from which the specified
 
 ## Syntax
 
-_expression_. `CubeField`
+_expression_.**CubeField**
 
 _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 

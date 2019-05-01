@@ -19,7 +19,7 @@ Returns or sets the type of phonetic text in the specified cell. Read/write  **[
 
 ## Syntax
 
-_expression_. `CharacterType`
+_expression_.**CharacterType**
 
 _expression_ A variable that represents a **[Phonetics](Excel.Phonetics.md)** object.
 

@@ -19,7 +19,7 @@ Scrolls the contents of the window by rows or columns.
 
 ## Syntax
 
-_expression_. `SmallScroll`( `_Down_` , `_Up_` , `_ToRight_` , `_ToLeft_` )
+_expression_.**SmallScroll** (_Down_, _Up_, _ToRight_, _ToLeft_)
 
 _expression_ A variable that represents a **[Pane](Excel.Pane.md)** object.
 

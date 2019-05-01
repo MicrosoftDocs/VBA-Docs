@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `RefreshOnChange`
+_expression_.**RefreshOnChange**
 
 _expression_ A variable that represents a **[Parameter](Excel.Parameter.md)** object.
 

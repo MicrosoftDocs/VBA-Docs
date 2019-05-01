@@ -19,7 +19,7 @@ Scrolls the document window so that the contents of a specified rectangular area
 
 ## Syntax
 
-_expression_. `ScrollIntoView`( `_Left_` , `_Top_` , `_Width_` , `_Height_` , `_Start_` )
+_expression_.**ScrollIntoView** (_Left_, _Top_, _Width_, _Height_, _Start_)
 
 _expression_ A variable that represents a [Window](Excel.Window.md) object.
 

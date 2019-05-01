@@ -19,7 +19,7 @@ Returns or sets the distance (in points) between the right edge of the page and 
 
 ## Syntax
 
-_expression_. `RightFooter`
+_expression_.**RightFooter**
 
 _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 

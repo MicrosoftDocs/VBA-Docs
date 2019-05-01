@@ -19,7 +19,7 @@ Returns the Microsoft PowerPoint version number. Read-only.
 
 ## Syntax
 
-_expression_. `Version`
+_expression_.**Version**
 
 _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 

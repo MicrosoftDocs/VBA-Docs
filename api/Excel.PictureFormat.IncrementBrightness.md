@@ -19,7 +19,7 @@ Changes the brightness of the picture by the specified amount. Use the  **[Brigh
 
 ## Syntax
 
-_expression_. `IncrementBrightness`( `_Increment_` )
+_expression_.**IncrementBrightness** (_Increment_)
 
 _expression_ A variable that represents a **[PictureFormat](Excel.PictureFormat.md)** object.
 

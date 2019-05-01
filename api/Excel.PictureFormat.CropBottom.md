@@ -19,7 +19,7 @@ Returns or sets the number of points that are cropped off the bottom of the spec
 
 ## Syntax
 
-_expression_. `CropBottom`
+_expression_.**CropBottom**
 
  _expression_ An expression that returns a **[PictureFormat](Excel.PictureFormat.md)** object.
 

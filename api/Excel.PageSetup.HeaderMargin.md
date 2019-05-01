@@ -19,7 +19,7 @@ Returns or sets the distance from the top of the page to the header, in points. 
 
 ## Syntax
 
-_expression_. `HeaderMargin`
+_expression_.**HeaderMargin**
 
 _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 

@@ -19,14 +19,12 @@ Gets or sets the margin of a document's footer. Read/write.
 
 ## Syntax
 
-_expression_. `FooterMargin`( `_UnitsNameOrCode_` )
+_expression_.**FooterMargin** (_UnitsNameOrCode_)
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

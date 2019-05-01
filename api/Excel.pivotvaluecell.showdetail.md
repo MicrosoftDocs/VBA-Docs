@@ -17,7 +17,7 @@ Puts the individual rows of an OLAP data source which contribute to an aggregate
 
 ## Syntax
 
-_expression_. `ShowDetail`
+_expression_.**ShowDetail**
 
 _expression_ A variable that represents a **[PivotValueCell](Excel.pivotvaluecell.md)** object.
 

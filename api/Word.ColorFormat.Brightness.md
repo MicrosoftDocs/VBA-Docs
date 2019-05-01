@@ -19,7 +19,7 @@ Returns a  **Single** that represents the brightness of a specified shape color.
 
 ## Syntax
 
-_expression_. `Brightness`
+_expression_.**Brightness**
 
  _expression_ A variable that represents a '[ColorFormat](Word.ColorFormat.md)' object.
 

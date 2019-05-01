@@ -19,7 +19,7 @@ Returns or sets a  **WdHorizontalLineAlignment** constant that represents the al
 
 ## Syntax
 
-_expression_. `Alignment`
+_expression_.**Alignment**
 
 _expression_ Required. A variable that represents a '[HorizontalLineFormat](Word.HorizontalLineFormat.md)' object.
 

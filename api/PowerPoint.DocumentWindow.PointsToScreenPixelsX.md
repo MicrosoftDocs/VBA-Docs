@@ -19,7 +19,7 @@ Converts a horizontal measurement from points to pixels. Used to return a horizo
 
 ## Syntax
 
-_expression_. `PointsToScreenPixelsX`( `_Points_` )
+_expression_.**PointsToScreenPixelsX** (_Points_)
 
 _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 

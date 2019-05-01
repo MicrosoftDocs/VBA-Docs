@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `ServerBased`
+_expression_.**ServerBased**
 
 _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 

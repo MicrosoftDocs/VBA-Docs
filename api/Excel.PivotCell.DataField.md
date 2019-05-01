@@ -19,7 +19,7 @@ Returns a  **[PivotField](Excel.PivotField.md)** object that corresponds to the 
 
 ## Syntax
 
-_expression_. `DataField`
+_expression_.**DataField**
 
 _expression_ A variable that represents a **[PivotCell](Excel.PivotCell.md)** object.
 

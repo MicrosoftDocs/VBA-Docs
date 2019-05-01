@@ -19,7 +19,7 @@ Returns or sets a [Crop](Office.Crop.md) object that represents an image croppin
 
 ## Syntax
 
-_expression_. `Crop`
+_expression_.**Crop**
 
  _expression_ An expression that returns a [PictureFormat](./Word.PictureFormat.md) object.
 

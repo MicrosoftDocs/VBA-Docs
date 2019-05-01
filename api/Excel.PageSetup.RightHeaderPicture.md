@@ -19,7 +19,7 @@ Specifies the graphic image that should be displayed in the right header. Read-o
 
 ## Syntax
 
-_expression_. `RightHeaderPicture`
+_expression_.**RightHeaderPicture**
 
 _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 

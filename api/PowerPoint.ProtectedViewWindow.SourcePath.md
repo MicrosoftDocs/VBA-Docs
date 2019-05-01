@@ -19,7 +19,7 @@ Returns the source path of the current  **ProtectedViewWindow** object. Read-onl
 
 ## Syntax
 
-_expression_. `SourcePath`
+_expression_.**SourcePath**
 
  _expression_ A variable that represents a [ProtectedViewWindow](./PowerPoint.ProtectedViewWindow.md) object.
 

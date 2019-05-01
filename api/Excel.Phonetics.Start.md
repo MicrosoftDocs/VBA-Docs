@@ -19,7 +19,7 @@ Returns the position that represents the first character of a phonetic text stri
 
 ## Syntax
 
-_expression_. `Start`
+_expression_.**Start**
 
 _expression_ A variable that represents a **[Phonetics](Excel.Phonetics.md)** object.
 

@@ -19,7 +19,7 @@ Returns the placement of the specified field within a group of fields (if the fi
 
 ## Syntax
 
-_expression_. `GroupLevel`
+_expression_.**GroupLevel**
 
 _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 

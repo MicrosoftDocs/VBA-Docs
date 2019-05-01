@@ -17,7 +17,7 @@ Returns the [PivotCell](Excel.PivotCell.md) that specifies the location of the *
 
 ## Syntax
 
-_expression_. `PivotCell`
+_expression_.**PivotCell**
 
 _expression_ A variable that represents a **[PivotValueCell](Excel.pivotvaluecell.md)** object.
 

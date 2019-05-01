@@ -19,7 +19,7 @@ Returns or sets the trendline order (an integer greater than 1) when the trendli
 
 ## Syntax
 
-_expression_. `Order`
+_expression_.**Order**
 
  _expression_ A variable that represents a '[Trendline](Word.Trendline.md)' object.
 

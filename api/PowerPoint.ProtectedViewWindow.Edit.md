@@ -19,14 +19,12 @@ Changes the password of the  **ProtectedViewWindow** object.
 
 ## Syntax
 
-_expression_. `Edit`( `_ModifyPassword_` )
+_expression_.**Edit** (_ModifyPassword_)
 
  _expression_ A variable that represents a [ProtectedViewWindow](./PowerPoint.ProtectedViewWindow.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -19,7 +19,7 @@ Scrolls the contents of the window by pages.
 
 ## Syntax
 
-_expression_. `LargeScroll`( `_Down_` , `_Up_` , `_ToRight_` , `_ToLeft_` )
+_expression_.**LargeScroll** (_Down_, _Up_, _ToRight_, _ToLeft_)
 
 _expression_ A variable that represents a [Window](Excel.Window.md) object.
 

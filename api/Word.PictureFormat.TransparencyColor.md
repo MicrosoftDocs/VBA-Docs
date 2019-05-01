@@ -19,7 +19,7 @@ Returns or sets the transparent color for the specified picture as a red-green-b
 
 ## Syntax
 
-_expression_. `TransparencyColor`
+_expression_.**TransparencyColor**
 
  _expression_ An expression that returns a '[PictureFormat](Word.PictureFormat.md)' object.
 

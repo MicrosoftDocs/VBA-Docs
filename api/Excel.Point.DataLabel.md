@@ -19,7 +19,7 @@ Returns a  **[DataLabel](Excel.DataLabel(object).md)** object that represents th
 
 ## Syntax
 
-_expression_. `DataLabel`
+_expression_.**DataLabel**
 
 _expression_ A variable that represents a **[Point](Excel.Point(object).md)** object.
 

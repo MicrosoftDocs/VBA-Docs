@@ -19,7 +19,7 @@ Returns or sets a  **Date** indicating the starting date and time for the Outloo
 
 ## Syntax
 
-_expression_. `Start`
+_expression_.**Start**
 
 _expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 

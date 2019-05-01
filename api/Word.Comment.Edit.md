@@ -19,7 +19,7 @@ Opens the specified OLE object for editing in the application it was created in.
 
 ## Syntax
 
-_expression_. `Edit`
+_expression_.**Edit**
 
 _expression_ Required. A variable that represents a '[Comment](Word.Comment.md)' object.
 

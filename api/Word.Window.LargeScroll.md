@@ -19,7 +19,7 @@ Scrolls a window or pane by the specified number of screens.
 
 ## Syntax
 
-_expression_. `LargeScroll`( `_Down_` , `_Up_` , `_ToRight_` , `_ToLeft_` )
+_expression_.**LargeScroll** (_Down_, _Up_, _ToRight_, _ToLeft_)
 
 _expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
 

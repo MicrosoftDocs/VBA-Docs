@@ -19,7 +19,7 @@ Returns or sets whether slicers connected to the specified slicer cache display 
 
 ## Syntax
 
-_expression_. `ShowAllItems`
+_expression_.**ShowAllItems**
 
 _expression_ A variable that represents a **[SlicerCache](Excel.SlicerCache.md)** object.
 

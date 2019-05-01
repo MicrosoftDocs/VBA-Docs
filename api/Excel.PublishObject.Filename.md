@@ -19,7 +19,7 @@ Returns or sets the URL (on the intranet or the Web) or path (local or network) 
 
 ## Syntax
 
-_expression_. `Filename`
+_expression_.**Filename**
 
 _expression_ A variable that represents a **[PublishObject](Excel.PublishObject.md)** object.
 

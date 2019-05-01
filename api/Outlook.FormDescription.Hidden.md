@@ -19,7 +19,7 @@ Returns a  **Boolean** value that indicates **True** to cause the specified cust
 
 ## Syntax
 
-_expression_. `Hidden`
+_expression_.**Hidden**
 
 _expression_ A variable that represents a [FormDescription](Outlook.FormDescription.md) object.
 

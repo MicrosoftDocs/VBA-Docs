@@ -19,7 +19,7 @@ Returns a **[Graphic](Excel.Graphic.md)** object that represents the picture for
 
 ## Syntax
 
-_expression_. `CenterHeaderPicture`
+_expression_.**CenterHeaderPicture**
 
 _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 

@@ -17,7 +17,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `IsTotal`
+_expression_.**IsTotal**
 
 _expression_ A variable that represents a **[Point](Excel.Point(object).md)** object.
 

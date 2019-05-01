@@ -19,7 +19,7 @@ Returns or sets the cell value. Read/write  **Variant**.
 
 ## Syntax
 
-_expression_. `Value2`
+_expression_.**Value2**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 

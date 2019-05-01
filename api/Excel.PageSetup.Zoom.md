@@ -19,7 +19,7 @@ Returns or sets a  **Variant** value that represents a percentage (between 10 an
 
 ## Syntax
 
-_expression_. `Zoom`
+_expression_.**Zoom**
 
 _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 

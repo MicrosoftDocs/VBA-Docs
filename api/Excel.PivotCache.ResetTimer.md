@@ -19,7 +19,7 @@ Resets the refresh timer for the specified query table or PivotTable report to t
 
 ## Syntax
 
-_expression_. `ResetTimer`
+_expression_.**ResetTimer**
 
 _expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** object.
 

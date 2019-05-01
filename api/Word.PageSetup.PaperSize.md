@@ -19,7 +19,7 @@ Returns or sets the paper size. Read/write  **WdPaperSize**.
 
 ## Syntax
 
-_expression_. `PaperSize`
+_expression_.**PaperSize**
 
 _expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
 

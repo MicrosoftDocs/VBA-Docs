@@ -19,7 +19,7 @@ Returns or sets the zoom setting of the specified view as a percentage of normal
 
 ## Syntax
 
-_expression_. `Zoom`
+_expression_.**Zoom**
 
  _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 

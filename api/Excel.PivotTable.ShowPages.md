@@ -19,14 +19,12 @@ Creates a new PivotTable report for each item in the page field. Each new report
 
 ## Syntax
 
-_expression_. `ShowPages`( `_PageField_` )
+_expression_.**ShowPages** (_PageField_)
 
 _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -19,7 +19,7 @@ Returns or sets the number of points that are cropped off the right side of the 
 
 ## Syntax
 
-_expression_. `CropRight`
+_expression_.**CropRight**
 
  _expression_ An expression that returns a **[PictureFormat](Excel.PictureFormat.md)** object.
 

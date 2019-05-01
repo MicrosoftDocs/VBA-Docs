@@ -19,14 +19,12 @@ Closes the object.
 
 ## Syntax
 
-_expression_. `Close`( `_SaveChanges_` , `_FileName_` , `_RouteWorkbook_` )
+_expression_.**Close** (_SaveChanges_, _FileName_, _RouteWorkbook_)
 
 _expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -19,7 +19,7 @@ Converts a vertical measurement from points (document coordinates) to screen pix
 
 ## Syntax
 
-_expression_. `PointsToScreenPixelsY`( `_Points_` )
+_expression_.**PointsToScreenPixelsY** (_Points_)
 
 _expression_ A variable that represents a [Window](Excel.Window.md) object.
 

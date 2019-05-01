@@ -19,7 +19,7 @@ The  **DrillTo** method supports drilling to a specified PivotField from another
 
 ## Syntax
 
-_expression_. `DrillTo`( `_PivotFieldName_` )
+_expression_.**DrillTo** (_PivotFieldName_)
 
 _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 

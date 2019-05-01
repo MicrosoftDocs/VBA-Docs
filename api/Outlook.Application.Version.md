@@ -19,7 +19,7 @@ Returns or sets a  **String** indicating the number of the version. Read-only.
 
 ## Syntax
 
-_expression_. `Version`
+_expression_.**Version**
 
 _expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
