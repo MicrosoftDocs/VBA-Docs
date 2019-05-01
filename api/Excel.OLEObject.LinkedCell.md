@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEObject.LinkedCell property (Excel)
 
-Returns or sets the worksheet range linked to the control's value. If you place a value in the cell, the control takes this value. Likewise, if you change the value of the control, that value is also placed in the cell. Read/write  **String**.
+Returns or sets the worksheet range linked to the control's value. If you place a value in the cell, the control takes this value. Likewise, if you change the value of the control, that value is also placed in the cell. Read/write **String**.
 
 
 ## Syntax
@@ -29,9 +29,6 @@ _expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** o
 You cannot use this property with multiselect list boxes.
 
 
-## See also
 
-
-[OLEObject Object](Excel.OLEObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

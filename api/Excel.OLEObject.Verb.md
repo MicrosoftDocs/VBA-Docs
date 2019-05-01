@@ -26,11 +26,9 @@ _expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** o
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Verb_|Optional| **[XlOLEVerb](Excel.XlOLEVerb.md)**|The verb that the server of the OLE object should act on. If this argument is omitted, the default verb is sent. The available verbs are determined by the object's source application. Typical verbs for an OLE object are Open and Primary (represented by the  **xlOLEVerb** constants **xlOpen** and **xlPrimary**).|
+| _Verb_|Optional| **[XlOLEVerb](Excel.XlOLEVerb.md)**|The verb that the server of the OLE object should act on. If this argument is omitted, the default verb is sent.<br/><br/> The available verbs are determined by the object's source application. Typical verbs for an OLE object are Open and Primary (represented by the **XlOLEVerb** constants **xlOpen** and **xlPrimary**).|
 
 ## Return value
 
@@ -41,15 +39,11 @@ Variant
 
 This example sends the default verb to the server for OLE object one on Sheet1.
 
-
 ```vb
 Worksheets("Sheet1").OLEObjects(1).Verb
 ```
 
 
-## See also
 
-
-[OLEObject Object](Excel.OLEObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

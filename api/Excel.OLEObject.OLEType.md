@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEObject.OLEType property (Excel)
 
-Returns the OLE object type. Can be one of the following  **xlOLEType** constants: **xlOLELink** or **xlOLEEmbed**. Returns **xlOLELink** if the object is linked (it exists outside of the file), or returns **xlOLEEmbed** if the object is embedded (it's entirely contained within the file). Read-only **Long**.
+Returns the OLE object type. Can be one of the following **[XlOLEType](excel.xloletype.md)** constants: **xlOLELink** or **xlOLEEmbed**. Returns **xlOLELink** if the object is linked (it exists outside of the file), or returns **xlOLEEmbed** if the object is embedded (it's entirely contained within the file). Read-only **Long**.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** o
 ## Example
 
 This example creates a list of link types for OLE objects on Sheet1. The list appears on a new worksheet created by the example.
-
 
 ```vb
 Set newSheet = Worksheets.Add 
@@ -46,9 +45,6 @@ Next
 ```
 
 
-## See also
 
-
-[OLEObject Object](Excel.OLEObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

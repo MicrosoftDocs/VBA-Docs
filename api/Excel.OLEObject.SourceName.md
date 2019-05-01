@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEObject.SourceName property (Excel)
 
-Returns or sets a  **String** value that represents the specified object's link source name.
+Returns or sets a **String** value that represents the specified object's link source name.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**SourceName**
 _expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** object.
 
 
-## See also
 
-
-[OLEObject Object](Excel.OLEObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

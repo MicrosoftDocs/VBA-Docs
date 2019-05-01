@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEObject.Placement property (Excel)
 
-Returns or sets a  **Variant** value, containing an **[XlPlacement](Excel.XlPlacement.md)** constant, that represents the way the object is attached to the cells below it.
+Returns or sets a **Variant** value containing an **[XlPlacement](Excel.XlPlacement.md)** constant that represents the way the object is attached to the cells below it.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Placement**
 _expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** object.
 
 
-## See also
 
-
-[OLEObject Object](Excel.OLEObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

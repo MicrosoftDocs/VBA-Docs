@@ -33,7 +33,6 @@ Nothing
 
 This example runs when ListBox1 loses the focus.
 
-
 ```vb
 Private Sub ListBox1_LostFocus() 
  ' runs when list box loses the focus 
@@ -41,9 +40,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[OLEObject Object](Excel.OLEObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

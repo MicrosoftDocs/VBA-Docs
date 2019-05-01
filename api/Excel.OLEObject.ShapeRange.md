@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # OLEObject.ShapeRange property (Excel)
 
-Returns a  **[ShapeRange](Excel.ShapeRange.md)** object that represents the specified object or objects. Read-only.
+Returns a **[ShapeRange](Excel.ShapeRange.md)** object that represents the specified object or objects. Read-only.
 
 
 ## Syntax
 
 _expression_.**ShapeRange**
 
- _expression_ An expression that returns a [OLEObject](Excel.OLEObject.md) object.
+_expression_ An expression that returns an **[OLEObject](Excel.OLEObject.md)** object.
 
 
-## See also
 
-
-[OLEObject Object](Excel.OLEObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEObject.Enabled property (Excel)
 
- **True** if the object is enabled. Read/write **Boolean**.
+**True** if the object is enabled. Read/write **Boolean**.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Enabled**
 _expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** object.
 
 
-## See also
 
-
-[OLEObject Object](Excel.OLEObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

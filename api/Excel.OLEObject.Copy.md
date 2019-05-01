@@ -29,9 +29,5 @@ _expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** o
 Variant
 
 
-## See also
-
-
-[OLEObject Object](Excel.OLEObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

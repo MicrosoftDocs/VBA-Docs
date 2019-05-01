@@ -33,15 +33,11 @@ Variant
 
 This example updates the link to OLE object one on Sheet1.
 
-
 ```vb
 Worksheets("Sheet1").OLEObjects(1).Update
 ```
 
 
-## See also
 
-
-[OLEObject Object](Excel.OLEObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

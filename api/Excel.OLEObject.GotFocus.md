@@ -33,7 +33,6 @@ Nothing
 
 This example runs when ListBox1 gets the focus.
 
-
 ```vb
 Private Sub ListBox1_GotFocus() 
  ' runs when list box gets the focus 
@@ -41,9 +40,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[OLEObject Object](Excel.OLEObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
