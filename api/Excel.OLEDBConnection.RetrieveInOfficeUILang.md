@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.RetrieveInOfficeUILang
 ms.assetid: 51d2a8b7-75e6-c503-895b-0f5ab8d66265
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `RetrieveInOfficeUILang`
+_expression_.**RetrieveInOfficeUILang**
 
 _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnection.md)** object.
 

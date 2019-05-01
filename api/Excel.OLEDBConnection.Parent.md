@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.Parent
 ms.assetid: 2970c4a7-f1d2-1010-4bb2-55a2d8ffc0f6
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 

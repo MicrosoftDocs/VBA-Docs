@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.MaintainConnection
 ms.assetid: ce913d74-d86d-006c-4def-da04a8c630b6
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns  **True** if the connection to the specified data source is maintained a
 
 ## Syntax
 
-_expression_. `MaintainConnection`
+_expression_.**MaintainConnection**
 
 _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnection.md)** object.
 

@@ -19,7 +19,7 @@ Returns a  **Variant** value that represents the specified object's name as it a
 
 ## Syntax
 
-_expression_. `SourceName`
+_expression_.**SourceName**
 
 _expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
 

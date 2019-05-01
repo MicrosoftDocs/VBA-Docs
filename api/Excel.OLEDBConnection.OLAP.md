@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.OLAP
 ms.assetid: 6ebbea3a-b4f1-bc80-f425-ce837182b299
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 

@@ -19,7 +19,7 @@ Returns or sets the location of the summary columns in the outline. Read/write  
 
 ## Syntax
 
-_expression_. `SummaryColumn`
+_expression_.**SummaryColumn**
 
 _expression_ A variable that represents an [Outline](Excel.Outline.md) object.
 

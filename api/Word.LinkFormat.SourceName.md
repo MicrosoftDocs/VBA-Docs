@@ -19,7 +19,7 @@ Returns the name of the source file for the specified linked OLE object, picture
 
 ## Syntax
 
-_expression_. `SourceName`
+_expression_.**SourceName**
 
  _expression_ An expression that returns a '[LinkFormat](Word.LinkFormat.md)' object.
 

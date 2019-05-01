@@ -38,4 +38,4 @@ The formatting of the model measure can be of type:
 
 
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)**]
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

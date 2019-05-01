@@ -19,7 +19,7 @@ Returns or sets the connection string to an offline cube file. Read/write  **Str
 
 ## Syntax
 
-_expression_. `LocalConnection`
+_expression_.**LocalConnection**
 
 _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 

@@ -19,7 +19,7 @@ Establishes a connection for the specified PivotTable cache.
 
 ## Syntax
 
-_expression_. `MakeConnection`
+_expression_.**MakeConnection**
 
 _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 

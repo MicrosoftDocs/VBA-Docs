@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.ServerSSOApplicationID
 ms.assetid: 7feb84b6-cd30-86f2-a9af-31bca655f05d
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns or sets a single sign-on application (SSO) identifier that is used to pe
 
 ## Syntax
 
-_expression_. `ServerSSOApplicationID`
+_expression_.**ServerSSOApplicationID**
 
 _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnection.md)** object.
 

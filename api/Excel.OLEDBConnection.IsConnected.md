@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.IsConnected
 ms.assetid: 3538c8bd-5027-8f48-d6b5-b18de0db4159
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns  **True** if the **[MaintainConnection](Excel.OLEDBConnection.MaintainCo
 
 ## Syntax
 
-_expression_. `IsConnected`
+_expression_.**IsConnected**
 
 _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnection.md)** object.
 

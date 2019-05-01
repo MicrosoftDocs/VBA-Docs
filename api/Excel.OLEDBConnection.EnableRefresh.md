@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.EnableRefresh
 ms.assetid: 080b6002-303e-62ce-f19e-0cb7af6a5291
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 

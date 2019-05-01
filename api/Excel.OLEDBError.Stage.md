@@ -19,7 +19,7 @@ Returns a numeric value specifying the stage of an error that resulted after the
 
 ## Syntax
 
-_expression_. `Stage`
+_expression_.**Stage**
 
 _expression_ A variable that represents an [OLEDBError](Excel.OLEDBError.md) object.
 

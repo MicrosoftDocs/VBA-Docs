@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.MakeConnection
 ms.assetid: ff618eae-1593-aabc-dbcb-427291caf923
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Establishes a connection for the specified OLE DB connection.
 
 ## Syntax
 
-_expression_. `MakeConnection`
+_expression_.**MakeConnection**
 
 _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnection.md)** object.
 

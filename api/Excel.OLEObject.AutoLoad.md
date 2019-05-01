@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `AutoLoad`
+_expression_.**AutoLoad**
 
 _expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
 
