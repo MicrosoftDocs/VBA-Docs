@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** 
 
 ## Example
 
-This example sets the font style to bold for shape three on  _myDocument_ if the shape is WordArt.
+This example sets the font style to bold for shape three on _myDocument_ if the shape is WordArt.
 
 
 ```vb

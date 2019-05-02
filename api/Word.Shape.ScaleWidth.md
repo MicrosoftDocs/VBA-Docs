@@ -21,7 +21,7 @@ Scales the width of the shape by a specified factor.
 
 _expression_. `ScaleWidth`( `_Factor_` , `_RelativeToOriginalSize_` , `_Scale_` )
 
-_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a **[Shape](Word.Shape.md)** object.
 
 
 ## Parameters
@@ -41,7 +41,7 @@ For pictures and OLE objects, you can indicate whether you want to scale the sha
 
 ## Example
 
-This example scales all pictures and OLE objects on  _myDocument_ to 175 percent of their original height and width, and it scales all other shapes to 175 percent of their current height and width.
+This example scales all pictures and OLE objects on _myDocument_ to 175 percent of their original height and width, and it scales all other shapes to 175 percent of their current height and width.
 
 
 ```vb

@@ -34,7 +34,7 @@ _expression_ A variable that represents a [ShadowFormat](Excel.ShadowFormat.md) 
 
 ## Example
 
-This example moves the shadow on shape three on  _myDocument_ to the left by 3 points.
+This example moves the shadow on shape three on _myDocument_ to the left by 3 points.
 
 
 ```vb

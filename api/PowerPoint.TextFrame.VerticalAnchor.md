@@ -46,7 +46,7 @@ The value of the  **VerticalAnchor** property can be one of these **MsoVerticalA
 
 ## Example
 
-This example sets the alignment of the text in shape one on  _myDocument_ to top centered.
+This example sets the alignment of the text in shape one on _myDocument_ to top centered.
 
 
 ```vb

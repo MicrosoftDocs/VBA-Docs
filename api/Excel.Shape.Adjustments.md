@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 ## Example
 
-This example sets to 0.25 the value of adjustment one on shape one on  _myDocument_.
+This example sets to 0.25 the value of adjustment one on shape one on _myDocument_.
 
 
 ```vb

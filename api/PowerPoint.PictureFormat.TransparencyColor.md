@@ -40,7 +40,7 @@ If you want to be able to see through the transparent parts of the picture all t
 
 ## Example
 
-This example sets the color that has the RGB value returned by the function RGB(0, 0, 255) as the transparent color for shape one on  _myDocument_. For the example to work, shape one must be a bitmap.
+This example sets the color that has the RGB value returned by the function RGB(0, 0, 255) as the transparent color for shape one on _myDocument_. For the example to work, shape one must be a bitmap.
 
 
 ```vb

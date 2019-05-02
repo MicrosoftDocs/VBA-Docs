@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[ShapeRange](Word.shaperan
 
 ## Example
 
-This example restores each shape on  _myDocument_ to its original state if it has been flipped horizontally or vertically.
+This example restores each shape on _myDocument_ to its original state if it has been flipped horizontally or vertically.
 
 
 ```vb

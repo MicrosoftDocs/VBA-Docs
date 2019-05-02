@@ -42,7 +42,7 @@ The value returned by the  **HorizontalAnchor** property can be one of these **M
 
 ## Example
 
-This example sets the alignment of the text in shape one on  _myDocument_ to top centered.
+This example sets the alignment of the text in shape one on _myDocument_ to top centered.
 
 
 ```vb

@@ -21,12 +21,12 @@ Returns a  **ThreeDFormat** object that contains 3D formatting properties for th
 
 _expression_.**ThreeD**
 
- _expression_ A variable that represents a '[Shape](Word.Shape.md)' object.
+ _expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
 
 
 ## Example
 
-This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3D effects applied to shape one on  _myDocument_.
+This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3D effects applied to shape one on _myDocument_.
 
 
 ```vb

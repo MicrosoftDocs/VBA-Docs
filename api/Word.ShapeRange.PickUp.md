@@ -31,7 +31,7 @@ Use the  **[Apply](Word.ShapeRange.Apply.md)** method to apply the copied format
 
 ## Example
 
-This example copies the formatting of shape one on  _myDocument_ and then applies the copied formatting to shape two.
+This example copies the formatting of shape one on _myDocument_ and then applies the copied formatting to shape two.
 
 
 ```vb

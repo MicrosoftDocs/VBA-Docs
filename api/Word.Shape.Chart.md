@@ -21,7 +21,7 @@ Returns a  **Chart** object that represents a chart within the collection of sha
 
 _expression_.**Chart**
 
- _expression_ An expression that returns a '[Shape](Word.Shape.md)' object.
+ _expression_ An expression that returns a **[Shape](Word.Shape.md)** object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns a  **[SoftEdgeFormat](Word.SoftEdgeFormat.md)** object that represents t
 
 _expression_.**SoftEdge**
 
- _expression_ An expression that returns a '[Shape](Word.Shape.md)' object.
+ _expression_ An expression that returns a **[Shape](Word.Shape.md)** object.
 
 
 ## See also

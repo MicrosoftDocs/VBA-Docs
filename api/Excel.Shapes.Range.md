@@ -47,7 +47,7 @@ In Microsoft Excel, you cannot use this property to return a  **ShapeRange** obj
 
 ## Example
 
-This example sets the fill pattern for shapes one and three on  _myDocument_.
+This example sets the fill pattern for shapes one and three on _myDocument_.
 
 
 ```vb
@@ -56,7 +56,7 @@ myDocument.Shapes.Range(Array(1, 3)) _
  .Fill.Patterned msoPatternHorizontalBrick
 ```
 
-This example sets the fill pattern for the shapes named "Oval 4" and "Rectangle 5" on  _myDocument_.
+This example sets the fill pattern for the shapes named "Oval 4" and "Rectangle 5" on _myDocument_.
 
 
 
@@ -70,7 +70,7 @@ Set objRange = myDocument.Shapes.Range(arShapes)
 objRange.Fill.Patterned msoPatternHorizontalBrick
 ```
 
-This example sets the fill pattern for shape one on  _myDocument_.
+This example sets the fill pattern for shape one on _myDocument_.
 
 
 
@@ -81,7 +81,7 @@ Set myRange = myDocument.Shapes.Range(1)
 myRange.Fill.Patterned msoPatternHorizontalBrick
 ```
 
-This example creates an array that contains all the AutoShapes on  _myDocument_, uses that array to define a shape range, and then distributes all the shapes in that range horizontally.
+This example creates an array that contains all the AutoShapes on _myDocument_, uses that array to define a shape range, and then distributes all the shapes in that range horizontally.
 
 
 

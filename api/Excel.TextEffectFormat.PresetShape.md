@@ -76,7 +76,7 @@ Setting the  **[PresetTextEffect](Excel.TextEffectFormat.PresetTextEffect.md)** 
 
 ## Example
 
-This example sets the shape of all WordArt on  _myDocument_ to a chevron whose center points down.
+This example sets the shape of all WordArt on _myDocument_ to a chevron whose center points down.
 
 
 ```vb

@@ -21,7 +21,7 @@ Returns a  **TextEffectFormat** object that contains text-effect formatting prop
 
 _expression_. `TextEffect`
 
- _expression_ A variable that represents a '[Shape](Word.Shape.md)' object.
+ _expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
 
 
 ## Remarks
@@ -31,7 +31,7 @@ This property applies to  **Shape** objects that represent WordArt.
 
 ## Example
 
-This example sets the font style to bold for shape three on  _myDocument_ if the shape is WordArt.
+This example sets the font style to bold for shape three on _myDocument_ if the shape is WordArt.
 
 
 ```vb

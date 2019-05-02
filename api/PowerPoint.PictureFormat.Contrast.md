@@ -36,7 +36,7 @@ The value for this property must be a number from 0.0 (the least contrast) to 1.
 
 ## Example
 
-This example sets the contrast for shape one on  _myDocument_. Shape one must be either a picture or an OLE object.
+This example sets the contrast for shape one on _myDocument_. Shape one must be either a picture or an OLE object.
 
 
 ```vb

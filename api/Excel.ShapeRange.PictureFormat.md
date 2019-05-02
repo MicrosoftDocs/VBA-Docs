@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** 
 
 ## Example
 
-This example sets the brightness and contrast for shape one on  _myDocument_. Shape one must be a picture or an OLE object.
+This example sets the brightness and contrast for shape one on _myDocument_. Shape one must be a picture or an OLE object.
 
 
 ```vb

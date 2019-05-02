@@ -38,7 +38,7 @@ _expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) 
 
 ## Example
 
-This example specifies that the extrusion for shape one on  _myDocument_ be lit brightly from the left.
+This example specifies that the extrusion for shape one on _myDocument_ be lit brightly from the left.
 
 
 ```vb

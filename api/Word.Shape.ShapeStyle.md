@@ -21,7 +21,7 @@ Returns or sets the shape style for the specified shape. Read/write  **[MsoShape
 
 _expression_. `ShapeStyle`
 
- _expression_ A variable that represents a '[Shape](Word.Shape.md)' object.
+ _expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
 
 
 ## Example

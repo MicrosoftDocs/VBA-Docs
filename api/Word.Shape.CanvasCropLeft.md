@@ -21,7 +21,7 @@ Crops a percentage of the width of a drawing canvas from the left side of the ca
 
 _expression_. `CanvasCropBottom`( `_Increment_` )
 
-_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a **[Shape](Word.Shape.md)** object.
 
 
 ## Parameters

@@ -37,7 +37,7 @@ _expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) 
 
 ## Example
 
-If shape one on  _myDocument_ has an automatic extrusion color, this example gives the extrusion a custom yellow color.
+If shape one on _myDocument_ has an automatic extrusion color, this example gives the extrusion a custom yellow color.
 
 
 ```vb
