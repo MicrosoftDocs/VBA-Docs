@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PageSetup.PrintErrors
 ms.assetid: 4a864a1e-cbdb-8ef7-536d-d2c5f518f9db
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 

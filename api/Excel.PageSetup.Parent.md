@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PageSetup.Parent
 ms.assetid: 9dc9d85b-5abd-a33d-c044-95f56612ddc1
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 

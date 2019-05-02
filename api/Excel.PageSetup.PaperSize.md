@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PageSetup.PaperSize
 ms.assetid: 7c26e996-8399-31b4-8e53-772de8bf8eb2
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 

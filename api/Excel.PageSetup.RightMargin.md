@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PageSetup.RightMargin
 ms.assetid: 9c392522-2a06-c76f-2f7a-0fb93c947d39
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 

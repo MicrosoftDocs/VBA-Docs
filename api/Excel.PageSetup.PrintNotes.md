@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PageSetup.PrintNotes
 ms.assetid: 6609fe58-6015-9ae2-4cc0-107e29cd7b9d
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 

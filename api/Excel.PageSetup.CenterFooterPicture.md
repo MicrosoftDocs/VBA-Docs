@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PageSetup.CenterFooterPicture
 ms.assetid: 6df72e33-29d2-a638-7e42-2749a61ff9a3
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 

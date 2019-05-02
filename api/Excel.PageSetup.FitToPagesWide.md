@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PageSetup.FitToPagesWide
 ms.assetid: 162bd2d2-35fa-8133-ab1c-27dcfc173317
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
