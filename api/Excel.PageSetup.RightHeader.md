@@ -19,9 +19,9 @@ Returns or sets the right part of the header. Read/write  **String**.
 
 ## Syntax
 
-_expression_. `RightHeader`
+_expression_.**RightHeader**
 
-_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 
 
 ## Example

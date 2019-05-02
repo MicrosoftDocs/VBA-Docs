@@ -21,7 +21,7 @@ Returns a  **[Range](Excel.Range(object).md)** object as shown in the following 
 
 _expression_. `DataRange`
 
-_expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
+_expression_ A variable that represents a **[PivotItem](Excel.PivotItem.md)** object.
 
 
 ## Remarks

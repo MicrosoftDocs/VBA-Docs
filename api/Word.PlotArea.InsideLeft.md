@@ -19,7 +19,7 @@ Returns or sets the distance, in [points](../language/glossary/vbe-glossary.md#p
 
 ## Syntax
 
-_expression_. `InsideLeft`
+_expression_.**InsideLeft**
 
  _expression_ A variable that represents a '[PlotArea](Word.PlotArea.md)' object.
 

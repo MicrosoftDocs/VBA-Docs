@@ -19,7 +19,7 @@ Returns the  **Pages** collection for a document. Read-only.
 
 ## Syntax
 
-_expression_. `Pages`
+_expression_.**Pages**
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

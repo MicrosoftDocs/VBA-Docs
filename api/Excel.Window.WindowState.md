@@ -19,7 +19,7 @@ Returns or sets the state of the window. Read/write  **[XlWindowState](Excel.XlW
 
 ## Syntax
 
-_expression_. `WindowState`
+_expression_.**WindowState**
 
 _expression_ A variable that represents a [Window](Excel.Window.md) object.
 

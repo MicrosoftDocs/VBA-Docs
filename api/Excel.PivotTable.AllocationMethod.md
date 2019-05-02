@@ -21,7 +21,7 @@ Returns or sets what method to use to allocate values when performing what-if an
 
 _expression_. `AllocationMethod`
 
-_expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
+_expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Return value

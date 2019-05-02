@@ -19,9 +19,9 @@ Returns or sets a  **[XlParameterDataType](Excel.XlParameterDataType.md)** value
 
 ## Syntax
 
-_expression_. `DataType`
+_expression_.**DataType**
 
-_expression_ A variable that represents a [Parameter](Excel.Parameter.md) object.
+_expression_ A variable that represents a **[Parameter](Excel.Parameter.md)** object.
 
 
 ## See also

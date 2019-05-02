@@ -19,9 +19,9 @@ Returns the version of Microsoft Excel in which the PivotCache was created. Read
 
 ## Syntax
 
-_expression_. `Version`
+_expression_.**Version**
 
-_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** object.
 
 
 ## Remarks

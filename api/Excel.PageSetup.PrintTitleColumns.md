@@ -19,9 +19,9 @@ Returns or sets the columns that contain the cells to be repeated on the left si
 
 ## Syntax
 
-_expression_. `PrintTitleColumns`
+_expression_.**PrintTitleColumns**
 
-_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 
 
 ## Remarks

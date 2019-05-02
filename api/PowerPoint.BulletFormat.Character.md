@@ -21,7 +21,7 @@ Returns or sets the Unicode character value that is used for bullets in the spec
 
 _expression_. `Character`
 
-_expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
+_expression_ A variable that represents a **[BulletFormat](PowerPoint.BulletFormat.md)** object.
 
 
 ## Return value

@@ -19,7 +19,7 @@ Returns the number of the first slide in the range of slides to be printed. Read
 
 ## Syntax
 
-_expression_. `Start`
+_expression_.**Start**
 
  _expression_ A variable that represents a [PrintRange](./PowerPoint.PrintRange.md) object.
 

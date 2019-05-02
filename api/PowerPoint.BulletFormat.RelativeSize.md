@@ -21,7 +21,7 @@ Returns or sets the bullet size relative to the size of the first text character
 
 _expression_. `RelativeSize`
 
-_expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
+_expression_ A variable that represents a **[BulletFormat](PowerPoint.BulletFormat.md)** object.
 
 
 ## Return value

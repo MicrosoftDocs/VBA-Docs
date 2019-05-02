@@ -21,7 +21,7 @@ Returns the parent object for the specified  **PivotFilter** object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
+_expression_ A variable that represents a **[PivotFilter](Excel.PivotFilter.md)** object.
 
 
 ## See also

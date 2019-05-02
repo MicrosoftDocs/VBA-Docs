@@ -21,7 +21,7 @@ Establishes a connection between the current workbook and the  **PivotCache** ob
 
 _expression_.**WorkbookConnection**
 
-_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** object.
 
 
 ## Remarks

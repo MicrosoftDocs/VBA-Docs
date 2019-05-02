@@ -19,7 +19,7 @@ Returns the workbook that contains the chart data associated with the chart. Rea
 
 ## Syntax
 
-_expression_. `Workbook`
+_expression_.**Workbook**
 
 _expression_ A variable that represents a '[ChartData](PowerPoint.ChartData.md)' object.
 

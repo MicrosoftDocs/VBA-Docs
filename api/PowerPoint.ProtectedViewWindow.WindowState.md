@@ -19,7 +19,7 @@ Returns or sets the state of the specified window. Read/write.
 
 ## Syntax
 
-_expression_. `WindowState`
+_expression_.**WindowState**
 
  _expression_ A variable that represents a [ProtectedViewWindow](./PowerPoint.ProtectedViewWindow.md) object.
 

@@ -19,9 +19,9 @@ Returns or sets the brightness of the specified picture or OLE object. The value
 
 ## Syntax
 
-_expression_. `Brightness`
+_expression_.**Brightness**
 
-_expression_ A variable that represents a [PictureFormat](Excel.PictureFormat.md) object.
+_expression_ A variable that represents a **[PictureFormat](Excel.PictureFormat.md)** object.
 
 
 ## Example

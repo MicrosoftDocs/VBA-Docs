@@ -21,7 +21,7 @@ Returns the date on which the cache was last refreshed. Read-only  **Date**.
 
 _expression_.**RefreshDate**
 
-_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** object.
 
 
 ## Remarks

@@ -19,9 +19,9 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `PrintNotes`
+_expression_.**PrintNotes**
 
-_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 
 
 ## Remarks

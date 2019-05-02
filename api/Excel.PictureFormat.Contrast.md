@@ -19,9 +19,9 @@ Returns or sets the contrast for the specified picture or OLE object. The value 
 
 ## Syntax
 
-_expression_. `Contrast`
+_expression_.**Contrast**
 
- _expression_ An expression that returns a [PictureFormat](Excel.PictureFormat.md) object.
+ _expression_ An expression that returns a **[PictureFormat](Excel.PictureFormat.md)** object.
 
 
 ## Example

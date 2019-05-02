@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `EnableResize`
+_expression_.**EnableResize**
 
 _expression_ A variable that represents a **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object.
 

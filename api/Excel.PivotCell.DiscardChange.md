@@ -19,9 +19,9 @@ Discards changes to the specified cell in a PivotTable report.
 
 ## Syntax
 
-_expression_. `DiscardChange`
+_expression_.**DiscardChange**
 
-_expression_ A variable that represents a '[PivotCell](Excel.PivotCell.md)' object.
+_expression_ A variable that represents a **[PivotCell](Excel.PivotCell.md)** object.
 
 
 ## Return value

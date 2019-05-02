@@ -19,7 +19,7 @@ Closes and optionally saves changes to the  **[SharingItem](Outlook.SharingItem.
 
 ## Syntax
 
-_expression_. `Close`( `_SaveMode_` )
+_expression_.**Close** (_SaveMode_)
 
 _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 

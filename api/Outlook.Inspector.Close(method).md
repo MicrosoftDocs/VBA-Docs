@@ -19,7 +19,7 @@ Closes the  **[Inspector](Outlook.Inspector.md)** and optionally saves changes t
 
 ## Syntax
 
-_expression_. `Close`( `_SaveMode_` )
+_expression_.**Close** (_SaveMode_)
 
 _expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 

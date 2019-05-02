@@ -19,7 +19,7 @@ The  **ClearAllFilters** method deletes all filters currently applied to the Piv
 
 ## Syntax
 
-_expression_. `ClearAllFilters`
+_expression_.**ClearAllFilters**
 
 _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 

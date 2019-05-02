@@ -19,9 +19,9 @@ Returns or sets the alignment of text on the left header of a workbook or sectio
 
 ## Syntax
 
-_expression_. `LeftHeader`
+_expression_.**LeftHeader**
 
-_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 
 
 ## See also

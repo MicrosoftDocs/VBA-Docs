@@ -19,9 +19,9 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `ShowDetail`
+_expression_.**ShowDetail**
 
-_expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
+_expression_ A variable that represents a **[PivotItem](Excel.PivotItem.md)** object.
 
 
 ## Remarks

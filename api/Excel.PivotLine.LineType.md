@@ -19,9 +19,9 @@ Returns an  **[XlPivotLineType](Excel.XlPivotLineType.md)** constant that indica
 
 ## Syntax
 
-_expression_. `LineType`
+_expression_.**LineType**
 
-_expression_ A variable that represents a [PivotLine](Excel.PivotLine.md) object.
+_expression_ A variable that represents a **[PivotLine](Excel.PivotLine.md)** object.
 
 
 ## See also

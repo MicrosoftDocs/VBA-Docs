@@ -21,7 +21,7 @@ Adds new filters to the  **PivotFilters** collection.
 
 _expression_. `Add2`( `_Type_` , `_DataField_` , `_Value1_` , `_Value2_` , `_Order_` , `_Name_` , `_Description_` , `_MemberPropertyField_` , `_WholeDayFilter_` )
 
-_expression_ A variable that represents a [PivotFilters](Excel.PivotFilters.md) object.
+_expression_ A variable that represents a **[PivotFilters](Excel.PivotFilters.md)** object.
 
 
 ## Parameters

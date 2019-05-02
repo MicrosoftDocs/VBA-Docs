@@ -30,7 +30,7 @@ _expression_ A variable that represents an object that implements the 'FormRegio
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _FormRegionName_|Required| **String**|The internal name of the form region. This can be indicated by the <name> tag in the corresponding form region XML manifest.|
+| _FormRegionName_|Required| **String**|The internal name of the form region. This can be indicated by the `<name>` tag in the corresponding form region XML manifest.|
 | _Item_|Required| **Object**|The Outlook item object that caused the loading of the form region.|
 | _LCID_|Required| **Long**|The current locale ID.|
 | _FormRegionMode_|Required| **[OlFormRegionMode](Outlook.OlFormRegionMode.md)**|The mode that the form region is being loaded into.|

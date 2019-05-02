@@ -19,14 +19,12 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `Edit`( `_PasswordTemplate_` , `_WritePasswordDocument_` , `_WritePasswordTemplate_` )
+_expression_.**Edit** (_PasswordTemplate_, _WritePasswordDocument_, _WritePasswordTemplate_)
 
- _expression_ An expression that returns a [ProtectedViewWindow](./Word.ProtectedViewWindow.md) object.
+_expression_ An expression that returns a [ProtectedViewWindow](./Word.ProtectedViewWindow.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

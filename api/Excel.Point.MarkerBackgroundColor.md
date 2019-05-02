@@ -21,7 +21,7 @@ Sets the marker background color as an RGB value or returns the corresponding co
 
 _expression_.**MarkerBackgroundColor**
 
-_expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
+_expression_ A variable that represents a **[Point](Excel.Point(object).md)** object.
 
 
 ## Example

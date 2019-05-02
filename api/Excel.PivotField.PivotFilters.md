@@ -19,7 +19,7 @@ Returns or sets the PivotFilters for the specified  **PivotField** object. Read-
 
 ## Syntax
 
-_expression_. `PivotFilters`
+_expression_.**PivotFilters**
 
 _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 

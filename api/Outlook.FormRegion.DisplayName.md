@@ -26,9 +26,9 @@ _expression_ A variable that represents a [FormRegion](Outlook.FormRegion.md) ob
 
 ## Remarks
 
-The display name is optional for a form region. If you have defined a value for the <formRegionName> tag in the corresponding form region manifest XML file, this value will map to the value of the  **DisplayName** property. For more information on the XML schema for form regions, see the Microsoft Outlook 2010 XML Schema Reference in the [MSDN Library](https://msdn.microsoft.com/library).
+The display name is optional for a form region. If you have defined a value for the `<formRegionName>` tag in the corresponding form region manifest XML file, this value will map to the value of the  **DisplayName** property. For more information on the XML schema for form regions, see the Microsoft Outlook 2010 XML Schema Reference in the [MSDN Library](https://msdn.microsoft.com/library).
 
-The value of the  **DisplayName** property is displayed at runtime in the **Show** tab of the ribbon for a separate form region, or in the header of an adjoining form region. It is used for the default locale, and can be overridden by the <stringOverride> tag in the corresponding form region manifest XML file. The string is case-insensitive, and its maximum length is 256 characters.
+The value of the  **DisplayName** property is displayed at runtime in the **Show** tab of the ribbon for a separate form region, or in the header of an adjoining form region. It is used for the default locale, and can be overridden by the `<stringOverride>` tag in the corresponding form region manifest XML file. The string is case-insensitive, and its maximum length is 256 characters.
 
 
 ## See also

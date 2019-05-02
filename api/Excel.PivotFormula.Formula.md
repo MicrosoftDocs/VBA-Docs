@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the object's formula in A1-s
 
 _expression_.**Formula**
 
-_expression_ A variable that represents a [PivotFormula](Excel.PivotFormula.md) object.
+_expression_ A variable that represents a **[PivotFormula](Excel.PivotFormula.md)** object.
 
 
 ## Remarks

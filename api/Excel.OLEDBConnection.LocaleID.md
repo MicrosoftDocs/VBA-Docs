@@ -7,37 +7,36 @@ ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.LocaleID
 ms.assetid: 6a92f9ca-247a-8da8-a32e-ec239380894a
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
 
 # OLEDBConnection.LocaleID property (Excel)
 
-Returns or sets the locale identifier for the specified connection. Read/write
+Returns or sets the locale identifier for the specified connection. Read/write.
 
 
 ## Syntax
 
-_expression_. `LocaleID`
+_expression_.**LocaleID**
 
-_expression_ A variable that represents an '[OLEDBConnection](Excel.OLEDBConnection.md)' object.
+_expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnection.md)** object.
 
 
 ## Return value
 
- **Integer**
+**Integer**
 
 
 ## Remarks
 
-Before you set the  **LocaleID** property to a new locale, you must set the **[RetrieveInOfficeUILang](Excel.OLEDBConnection.RetrieveInOfficeUILang.md)** property of the **OLEDBConnection** object to **False**. For more information about valid Locale ID (LCID) values, search the MSDN Web site for "Locale IDs Assigned by Microsoft".
+Before you set the **LocaleID** property to a new locale, you must set the **[RetrieveInOfficeUILang](Excel.OLEDBConnection.RetrieveInOfficeUILang.md)** property to **False**. For more information about valid Locale ID (LCID) values, see the [LCID-Locale Mapping Table](https://docs.microsoft.com/openspecs/windows_protocols/ms-adts/a29e5c28-9fb9-4c49-8e43-4b9b8e733a05).
 
 
 ## Example
 
 The following code example switches the language of the connection to Spanish.
-
 
 ```vb
 Dim myConnection As OLEDBConnection 
@@ -50,9 +49,6 @@ End With
 ```
 
 
-## See also
 
-
-[OLEDBConnection Object](Excel.OLEDBConnection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

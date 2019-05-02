@@ -36,7 +36,7 @@ _expression_ Required. A variable that represents a **[FileDialogFilters](Office
 
 Each filter in a list is made up of two parts: the file name extension (that is, .txt) and the text description of the file name extension (that is, Text Files). Together, the file filter would appear in the **Files of type** list as: Text Files (*.txt). 
 
-Note that when a filter is added to the list, the default filters are not removed. Filters are only displayed when the **Windows** option is checked. If _Position_ is invalid, an out-of-range runtime error is displayed. If the _Description_ and _Extensions_ values are invalid, a runtime error (parse) is displayed.
+Note that when a filter is added to the list, the default filters are not removed. Filters are only displayed when the **Windows** option is checked. If _Position_ is invalid, an out-of-range run-time error is displayed. If the _Description_ and _Extensions_ values are invalid, a run-time error (parse) is displayed.
 
 
 ## See also

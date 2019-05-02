@@ -19,9 +19,9 @@ Returns the number of records in the PivotTable cache or the number of cache rec
 
 ## Syntax
 
-_expression_. `RecordCount`
+_expression_.**RecordCount**
 
-_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** object.
 
 
 ## Remarks

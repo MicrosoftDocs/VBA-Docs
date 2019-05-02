@@ -19,7 +19,7 @@ Returns or sets the property with a constant in the  **[OlWindowState](Outlook.O
 
 ## Syntax
 
-_expression_. `WindowState`
+_expression_.**WindowState**
 
 _expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 

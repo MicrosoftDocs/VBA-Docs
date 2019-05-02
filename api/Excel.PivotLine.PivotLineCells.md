@@ -21,7 +21,7 @@ Returns a collection of  **PivotCell** objects in a PivotLine. Read-only.
 
 _expression_. `PivotLineCells`
 
-_expression_ A variable that represents a [PivotLine](Excel.PivotLine.md) object.
+_expression_ A variable that represents a **[PivotLine](Excel.PivotLine.md)** object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns a single object from a collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [PublishObjects](Excel.PublishObjects.md) object.
+_expression_ A variable that represents a **[PublishObjects](Excel.PublishObjects.md)** object.
 
 
 ## Parameters
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [PublishObjects](Excel.PublishObjects.
 
 ## Example
 
-This example obtains the identifier from a <DIV> tag and finds the line in a webpage (q198.htm) that you saved from a workbook. The example then creates a copy of the webpage (newq1.htm) and inserts a comment line before the <DIV> tag in the copy of the file.
+This example obtains the identifier from a `<DIV>` tag and finds the line in a webpage (q198.htm) that you saved from a workbook. The example then creates a copy of the webpage (newq1.htm) and inserts a comment line before the `<DIV>` tag in the copy of the file.
 
 
 ```vb

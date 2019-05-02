@@ -19,7 +19,7 @@ Returns or sets a  **WdRowAlignment** constant that represents the alignment for
 
 ## Syntax
 
-_expression_. `Alignment`
+_expression_.**Alignment**
 
 _expression_ Required. A variable that represents a '[TableStyle](Word.TableStyle.md)' object.
 

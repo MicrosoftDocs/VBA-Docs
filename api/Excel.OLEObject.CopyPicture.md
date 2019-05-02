@@ -7,40 +7,36 @@ ms.prod: excel
 api_name:
 - Excel.OLEObject.CopyPicture
 ms.assetid: 2a4d8e14-5dfe-74f1-6ffe-7501c46e90ca
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
 
 # OLEObject.CopyPicture method (Excel)
 
-Copies the selected object to the Clipboard as a picture.  **Variant**.
+Copies the selected object to the Clipboard as a picture. **Variant**.
 
 
 ## Syntax
 
 _expression_.**CopyPicture** (_Appearance_, _Format_)
 
-_expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
+_expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Appearance_|Optional| **[XlPictureAppearance](Excel.XlPictureAppearance.md)**| Specifies how the picture should be copied. The default value is  **xlScreen**.|
-| _Format_|Optional| **[XlCopyPictureFormat](Excel.XlCopyPictureFormat.md)**| The format of the picture. The default value is  **xlPicture**.|
+| _Appearance_|Optional| **[XlPictureAppearance](Excel.XlPictureAppearance.md)**| Specifies how the picture should be copied. The default value is **xlScreen**.|
+| _Format_|Optional| **[XlCopyPictureFormat](Excel.XlCopyPictureFormat.md)**| The format of the picture. The default value is **xlPicture**.|
+
 
 ## Return value
 
 Variant
 
 
-## See also
 
-
-[OLEObject Object](Excel.OLEObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

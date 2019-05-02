@@ -19,9 +19,9 @@ Returns or sets if the header and footer should be scaled with the document when
 
 ## Syntax
 
-_expression_. `ScaleWithDocHeaderFooter`
+_expression_.**ScaleWithDocHeaderFooter**
 
-_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 
 
 ## See also

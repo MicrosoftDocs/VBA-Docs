@@ -19,9 +19,9 @@ Specifies the evaluation order of the filter among all Value filters applied to 
 
 ## Syntax
 
-_expression_. `Order`
+_expression_.**Order**
 
-_expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
+_expression_ A variable that represents a **[PivotFilter](Excel.PivotFilter.md)** object.
 
 
 ## Remarks

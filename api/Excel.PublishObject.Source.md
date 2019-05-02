@@ -19,9 +19,9 @@ Returns a  **Variant** value that represents the unique name that identifies ite
 
 ## Syntax
 
-_expression_. `Source`
+_expression_.**Source**
 
-_expression_ A variable that represents a [PublishObject](Excel.PublishObject.md) object.
+_expression_ A variable that represents a **[PublishObject](Excel.PublishObject.md)** object.
 
 
 ## Remarks

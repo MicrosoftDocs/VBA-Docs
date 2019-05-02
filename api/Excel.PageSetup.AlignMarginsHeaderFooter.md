@@ -19,9 +19,9 @@ Returns  **True** for Excel to align the header and the footer with the margins 
 
 ## Syntax
 
-_expression_. `AlignMarginsHeaderFooter`
+_expression_.**AlignMarginsHeaderFooter**
 
-_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 
 
 ## See also

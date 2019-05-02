@@ -19,9 +19,9 @@ Returns or sets the number of pages tall the worksheet will be scaled to when it
 
 ## Syntax
 
-_expression_. `FitToPagesTall`
+_expression_.**FitToPagesTall**
 
-_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 
 
 ## Remarks

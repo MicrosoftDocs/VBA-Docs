@@ -19,14 +19,12 @@ Returns a  **[Range](Excel.Range(object).md)** object with information about a d
 
 ## Syntax
 
-_expression_. `GetPivotData`( `_DataField_` , `_Field1_` , `_Item1_` , `_Field2_` , `_Item2_` , `_Field3_` , `_Item3_` , `_Field4_` , `_Item4_` , `_Field5_` , `_Item5_` , `_Field6_` , `_Item6_` , `_Field7_` , `_Item7_` , `_Field8_` , `_Item8_` , `_Field9_` , `_Item9_` , `_Field10_` , `_Item10_` , `_Field11_` , `_Item11_` , `_Field12_` , `_Item12_` , `_Field13_` , `_Item13_` , `_Field14_` , `_Item14_` )
+_expression_.**GetPivotData** (_DataField_, _Field1_, _Item1_, _Field2_, _Item2_, _Field3_, _Item3_, _Field4_, _Item4_, _Field5_, _Item5_, _Field6_, _Item6_, _Field7_, _Item7_, _Field8_, _Item8_, _Field9_, _Item9_, _Field10_, _Item10_, _Field11_, _Item11_, _Field12_, _Item12_, _Field13_, _Item13_, _Field14_, _Item14_)
 
 _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

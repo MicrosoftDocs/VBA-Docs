@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `OddAndEvenPagesHeaderFooter`
+_expression_.**OddAndEvenPagesHeaderFooter**
 
  _expression_ An expression that returns a '[PageSetup](Word.PageSetup.md)' object.
 

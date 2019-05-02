@@ -21,7 +21,7 @@ Returns  **True** if the user is allowed to manipulate PivotTables on a protecte
 
 _expression_. `AllowUsingPivotTables`
 
-_expression_ A variable that represents a [Protection](Excel.Protection.md) object.
+_expression_ A variable that represents a **[Protection](Excel.Protection.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Clears the formatting of the object.
 
 _expression_.**ClearFormats**
 
-_expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
+_expression_ A variable that represents a **[Point](Excel.Point(object).md)** object.
 
 
 ## Return value

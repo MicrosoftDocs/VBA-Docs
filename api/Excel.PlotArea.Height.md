@@ -21,7 +21,7 @@ Returns or sets a  **Double** value that represents the height, in [points](../l
 
 _expression_.**Height**
 
-_expression_ A variable that represents a [PlotArea](Excel.PlotArea-graph-property.md) object.
+_expression_ A variable that represents a **[PlotArea](Excel.PlotArea(object).md)** object.
 
 
 ## See also

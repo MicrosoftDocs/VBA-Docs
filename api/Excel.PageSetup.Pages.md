@@ -19,9 +19,9 @@ Returns or sets the count or item number of the pages in  **Pages** collection.
 
 ## Syntax
 
-_expression_. `Pages`
+_expression_.**Pages**
 
-_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 
 
 ## See also

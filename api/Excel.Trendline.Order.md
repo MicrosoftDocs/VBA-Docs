@@ -19,7 +19,7 @@ Returns or sets a  **Long** value that represents the trendline order (an intege
 
 ## Syntax
 
-_expression_. `Order`
+_expression_.**Order**
 
 _expression_ A variable that represents a [Trendline](Excel.Trendline-graph-object.md) object.
 

@@ -19,7 +19,7 @@ Returns the name of the person who last refreshed the PivotTable report data. Re
 
 ## Syntax
 
-_expression_. `RefreshName`
+_expression_.**RefreshName**
 
 _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 

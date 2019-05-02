@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `ShowAllItems`
+_expression_.**ShowAllItems**
 
 _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 

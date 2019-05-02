@@ -19,9 +19,9 @@ Returns or sets a  **Long** value that represents the alignment for the specifie
 
 ## Syntax
 
-_expression_. `Alignment`
+_expression_.**Alignment**
 
-_expression_ A variable that represents a [Phonetic](Excel.Phonetic.md) object.
+_expression_ A variable that represents a **[Phonetic](Excel.Phonetic.md)** object.
 
 
 ## See also

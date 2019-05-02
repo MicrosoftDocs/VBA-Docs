@@ -19,9 +19,9 @@ Returns the PivotLines attached to the specified  **PivotAxis** object. Read-onl
 
 ## Syntax
 
-_expression_. `PivotLines`
+_expression_.**PivotLines**
 
-_expression_ A variable that represents a [PivotAxis](Excel.PivotAxis.md) object.
+_expression_ A variable that represents a **[PivotAxis](Excel.PivotAxis.md)** object.
 
 
 ## See also

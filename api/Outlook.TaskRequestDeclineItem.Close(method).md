@@ -19,7 +19,7 @@ Closes and optionally saves changes to the displayed Outlook item.
 
 ## Syntax
 
-_expression_. `Close`( `_SaveMode_` )
+_expression_.**Close** (_SaveMode_)
 
 _expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 

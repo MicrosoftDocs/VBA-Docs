@@ -17,14 +17,12 @@ Enables you to drill up into the data within an OLAP or PowerPivot based cube hi
 
 ## Syntax
 
-_expression_. `DrillUp`_(PivotItem,_ _PivotLine,_ _LevelUniqueName)_
+_expression_.**DrillUp** (_PivotItem_, _PivotLine_, _LevelUniqueName_)
 
 _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

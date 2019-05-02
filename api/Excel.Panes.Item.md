@@ -21,7 +21,7 @@ Returns a single object from a collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [Panes](Excel.Panes.md) object.
+_expression_ A variable that represents a **[Panes](Excel.Panes.md)** object.
 
 
 ## Parameters

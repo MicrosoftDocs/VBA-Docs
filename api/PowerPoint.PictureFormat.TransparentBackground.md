@@ -19,7 +19,7 @@ Determines whether parts of the picture that are the color defined as the transp
 
 ## Syntax
 
-_expression_. `TransparentBackground`
+_expression_.**TransparentBackground**
 
  _expression_ A variable that represents a [PictureFormat](./PowerPoint.PictureFormat.md) object.
 

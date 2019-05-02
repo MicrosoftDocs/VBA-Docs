@@ -21,7 +21,7 @@ Returns or sets the unit for each picture on the chart if the  **[PictureType](E
 
 _expression_.**PictureUnit2**
 
-_expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
+_expression_ A variable that represents a **[Point](Excel.Point(object).md)** object.
 
 
 ## See also

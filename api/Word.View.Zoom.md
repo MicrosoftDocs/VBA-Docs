@@ -19,7 +19,7 @@ Returns a  **[Zoom](Word.Zoom.md)** object that represents the magnification for
 
 ## Syntax
 
-_expression_. `Zoom`
+_expression_.**Zoom**
 
  _expression_ An expression that returns one of a '[View](Word.View.md)' object.
 

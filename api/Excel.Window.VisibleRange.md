@@ -19,7 +19,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the range 
 
 ## Syntax
 
-_expression_. `VisibleRange`
+_expression_.**VisibleRange**
 
 _expression_ A variable that represents a [Window](Excel.Window.md) object.
 

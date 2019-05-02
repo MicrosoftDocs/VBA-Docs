@@ -21,7 +21,7 @@ Represents the type of bullet. Read/write.
 
 _expression_.**Type**
 
-_expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
+_expression_ A variable that represents a **[BulletFormat](PowerPoint.BulletFormat.md)** object.
 
 
 ## Return value

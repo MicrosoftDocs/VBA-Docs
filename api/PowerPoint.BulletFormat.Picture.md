@@ -21,7 +21,7 @@ Sets the graphics file to be used for bullets in a bulleted list when the  **[Ty
 
 _expression_. `Picture`
 
-_expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
+_expression_ A variable that represents a **[BulletFormat](PowerPoint.BulletFormat.md)** object.
 
 
 ## Remarks

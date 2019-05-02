@@ -19,9 +19,9 @@ When a workbook is saved, Microsoft Excel determines if any item in the  **[Publ
 
 ## Syntax
 
-_expression_. `AutoRepublish`
+_expression_.**AutoRepublish**
 
-_expression_ A variable that represents a [PublishObject](Excel.PublishObject.md) object.
+_expression_ A variable that represents a **[PublishObject](Excel.PublishObject.md)** object.
 
 
 ## Example

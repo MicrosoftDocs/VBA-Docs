@@ -19,7 +19,7 @@ Returns or sets the starting character position of a selection. Read/write  **Lo
 
 ## Syntax
 
-_expression_. `Start`
+_expression_.**Start**
 
 _expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 

@@ -19,9 +19,9 @@ Returns or sets the alignment of text on the even page of a workbook or section.
 
 ## Syntax
 
-_expression_. `EvenPage`
+_expression_.**EvenPage**
 
-_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 
 
 ## See also

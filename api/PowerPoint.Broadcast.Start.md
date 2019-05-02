@@ -19,7 +19,7 @@ Returns a list of supported functionality and the maximum allowed file size.
 
 ## Syntax
 
-_expression_. `Start`( `_serverUrl_` )
+_expression_.**Start** (_serverUrl_)
 
 _expression_ A variable that represents a [Broadcast](./PowerPoint.Broadcast.md) object.
 

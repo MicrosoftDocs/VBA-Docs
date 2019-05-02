@@ -21,7 +21,7 @@ Creates a new query parameter.
 
 _expression_.**Add**( `_Name_` , `_iDataType_` )
 
-_expression_ A variable that represents a [Parameters](Excel.Parameters.md) object.
+_expression_ A variable that represents a **[Parameters](Excel.Parameters.md)** object.
 
 
 ## Parameters

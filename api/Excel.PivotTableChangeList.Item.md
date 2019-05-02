@@ -21,7 +21,7 @@ Returns a single  **[ValueChange](Excel.ValueChange.md)** object from the specif
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that returns a [PivotTableChangeList](Excel.PivotTableChangeList.md) object.
+_expression_ A variable that returns a **[PivotTableChangeList](Excel.PivotTableChangeList.md)** object.
 
 
 ## Parameters

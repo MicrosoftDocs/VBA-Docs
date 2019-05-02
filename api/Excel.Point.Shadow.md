@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that determines if the object has a shadow.
 
 _expression_.**Shadow**
 
-_expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
+_expression_ A variable that represents a **[Point](Excel.Point(object).md)** object.
 
 
 ## See also

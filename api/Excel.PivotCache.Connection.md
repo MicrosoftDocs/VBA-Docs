@@ -21,7 +21,7 @@ Returns or sets a string that contains one of the following: OLE DB settings tha
 
 _expression_.**Connection**
 
- _expression_ An expression that returns a [PivotCache](Excel.PivotCache.md) object.
+ _expression_ An expression that returns a **[PivotCache](Excel.PivotCache.md)** object.
 
 
 ## Remarks

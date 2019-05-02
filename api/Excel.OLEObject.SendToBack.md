@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEObject.SendToBack
 ms.assetid: c500dfd8-9176-49ae-23a2-24f64ef897b3
-ms.date: 06/08/2017
+ms.date: 05/02/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Sends the object to the back of the z-order.
 
 _expression_.**SendToBack**
 
-_expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
+_expression_ A variable that represents an **[OLEObject](Excel.OLEObject.md)** object.
 
 
 ## Return value
@@ -29,9 +29,6 @@ _expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) objec
 Variant
 
 
-## See also
 
-
-[OLEObject Object](Excel.OLEObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

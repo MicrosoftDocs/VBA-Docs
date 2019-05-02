@@ -19,7 +19,7 @@ Changes the brightness of the picture by the specified amount.
 
 ## Syntax
 
-_expression_. `IncrementBrightness`( `_Increment_` )
+_expression_.**IncrementBrightness** (_Increment_)
 
 _expression_ Required. A variable that represents a '[PictureFormat](Word.PictureFormat.md)' object.
 

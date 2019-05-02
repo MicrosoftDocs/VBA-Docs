@@ -19,7 +19,7 @@ Returns the Microsoft Word version number. Read-only  **String**.
 
 ## Syntax
 
-_expression_. `Version`
+_expression_.**Version**
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 

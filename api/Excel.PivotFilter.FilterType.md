@@ -21,7 +21,7 @@ Specifies the type of filter to be applied. Read-only  **xlPivotFilterType**.
 
 _expression_. `FilterType`
 
-_expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
+_expression_ A variable that represents a **[PivotFilter](Excel.PivotFilter.md)** object.
 
 
 ## Remarks

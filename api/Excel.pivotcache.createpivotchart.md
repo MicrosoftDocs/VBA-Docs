@@ -12,19 +12,17 @@ localization_priority: Normal
 
 # PivotCache.CreatePivotChart method (Excel)
 
-Creates a standalone PivotChart from a [PivotCache](Excel.PivotCache.md) object. A [Shape](Excel.Shape.md) object is returned.
+Creates a standalone PivotChart from a **[PivotCache](Excel.PivotCache.md)** object. A [Shape](Excel.Shape.md) object is returned.
 
 
 ## Syntax
 
-_expression_. `CreatePivotChart`_(ChartDestination,_ _XlChartType,_ _Left,_ _Top,_ _Width,_ _Height)_
+_expression_.**CreatePivotChart** (_ChartDestination_, _XlChartType_, _Left_, _Top_, _Width_, _Height_)
 
-_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

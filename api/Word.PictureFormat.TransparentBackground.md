@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `TransparentBackground`
+_expression_.**TransparentBackground**
 
 _expression_ Required. A variable that represents a '[PictureFormat](Word.PictureFormat.md)' object.
 

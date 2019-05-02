@@ -19,9 +19,9 @@ Returns an object that represents either a single PivotTable field (a  **[PivotF
 
 ## Syntax
 
-_expression_. `PivotFields` (_Index_)
+_expression_.**PivotFields** (_Index_)
 
- _expression_ An expression that returns a **[PivotTable](Excel.PivotTable.md)** object.
+_expression_ An expression that returns a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Parameters

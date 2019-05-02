@@ -19,9 +19,9 @@ Returns a  **[PivotTable](Excel.PivotTable.md)** object that represents the Pivo
 
 ## Syntax
 
-_expression_. `PivotTable`
+_expression_.**PivotTable**
 
-_expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
+_expression_ A variable that represents a **[PivotCell](Excel.PivotCell.md)** object.
 
 
 ## Example

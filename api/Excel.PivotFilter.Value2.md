@@ -19,9 +19,9 @@ This property is a user-supplied parameter to define a filter for a PivotField. 
 
 ## Syntax
 
-_expression_. `Value2`
+_expression_.**Value2**
 
-_expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
+_expression_ A variable that represents a **[PivotFilter](Excel.PivotFilter.md)** object.
 
 
 ## See also

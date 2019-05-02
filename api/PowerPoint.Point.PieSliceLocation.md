@@ -19,7 +19,7 @@ Returns the vertical or horizontal position, in [points](../language/glossary/vb
 
 ## Syntax
 
-_expression_. `PieSliceLocation`( `_loc_`, `_Index_` )
+_expression_.**PieSliceLocation** (_loc_, _Index_)
 
  _expression_ A variable that represents a [Point](./PowerPoint.Point.md) object.
 

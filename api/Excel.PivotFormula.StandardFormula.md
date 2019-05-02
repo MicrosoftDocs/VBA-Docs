@@ -19,9 +19,9 @@ Returns or sets a  **String** specifying formulas with standard English (United 
 
 ## Syntax
 
-_expression_. `StandardFormula`
+_expression_.**StandardFormula**
 
-_expression_ A variable that represents a [PivotFormula](Excel.PivotFormula.md) object.
+_expression_ A variable that represents a **[PivotFormula](Excel.PivotFormula.md)** object.
 
 
 ## Remarks

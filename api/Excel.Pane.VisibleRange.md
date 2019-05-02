@@ -19,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the range 
 
 ## Syntax
 
-_expression_. `VisibleRange`
+_expression_.**VisibleRange**
 
-_expression_ A variable that represents a [Pane](Excel.Pane.md) object.
+_expression_ A variable that represents a **[Pane](Excel.Pane.md)** object.
 
 
 ## Example

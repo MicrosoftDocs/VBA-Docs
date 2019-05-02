@@ -19,7 +19,7 @@ Returns or sets whether item labels are repeated in the PivotTable for the speci
 
 ## Syntax
 
-_expression_. `RepeatLabels`
+_expression_.**RepeatLabels**
 
 _expression_ A variable that represents a '[PivotField](Excel.PivotField.md)' object.
 

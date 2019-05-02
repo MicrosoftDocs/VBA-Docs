@@ -19,7 +19,7 @@ Returns or sets the number of points that are cropped off the top of the specifi
 
 ## Syntax
 
-_expression_. `CropTop`
+_expression_.**CropTop**
 
  _expression_ A variable that represents a [PictureFormat](./PowerPoint.PictureFormat.md) object.
 

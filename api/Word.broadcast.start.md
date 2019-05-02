@@ -17,18 +17,15 @@ Initiates the specified broadcast session.
 
 ## Syntax
 
-_expression_. `Start`_(serverUrl)_
+_expression_.**Start** (_serverUrl_)
 
  _expression_ A variable that represents a 'Broadcast' object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|||||
 | _serverUrl_|Required|**String**|The URL of the broadcast server.|
 
 ## Return value

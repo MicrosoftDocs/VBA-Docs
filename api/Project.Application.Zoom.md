@@ -19,7 +19,7 @@ Displays the  **Zoom** dialog box, which prompts the user to change the timescal
 
 ## Syntax
 
-_expression_. `Zoom`
+_expression_.**Zoom**
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

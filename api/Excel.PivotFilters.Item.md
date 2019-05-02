@@ -21,7 +21,7 @@ Returns a specific element of the  **PivotFilters** collection object by its pos
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [PivotFilters](Excel.PivotFilters.md) object.
+_expression_ A variable that represents a **[PivotFilters](Excel.PivotFilters.md)** object.
 
 
 ## Parameters

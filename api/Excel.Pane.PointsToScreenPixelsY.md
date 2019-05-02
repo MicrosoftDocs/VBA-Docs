@@ -19,9 +19,9 @@ Returns or sets the location of the pixel on the screen.
 
 ## Syntax
 
-_expression_. `PointsToScreenPixelsY`( `_Points_` )
+_expression_.**PointsToScreenPixelsY** (_Points_)
 
-_expression_ A variable that represents a [Pane](Excel.Pane.md) object.
+_expression_ A variable that represents a **[Pane](Excel.Pane.md)** object.
 
 
 ## Parameters

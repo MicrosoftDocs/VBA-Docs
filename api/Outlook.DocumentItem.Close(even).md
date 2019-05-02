@@ -16,7 +16,7 @@ Occurs when the inspector associated with an item (which is an instance of the p
 
 ## Syntax
 
-_expression_. `Close`( `_Cancel_` )
+_expression_.**Close** (_Cancel_)
 
 _expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 

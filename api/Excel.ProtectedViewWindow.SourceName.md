@@ -19,7 +19,7 @@ Returns the name of the source file that is open in the specified Protected View
 
 ## Syntax
 
-_expression_. `SourceName`
+_expression_.**SourceName**
 
 _expression_ A variable that represents a **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object.
 

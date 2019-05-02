@@ -21,7 +21,7 @@ Returns the parent object for the specified  **PivotLines** object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [PivotLines](Excel.PivotLines.md) object.
+_expression_ A variable that represents a **[PivotLines](Excel.PivotLines.md)** object.
 
 
 ## See also

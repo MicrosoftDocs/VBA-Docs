@@ -21,7 +21,7 @@ Selects the object.
 
 _expression_.**Select**
 
-_expression_ A variable that represents a [PlotArea](Excel.PlotArea-graph-property.md) object.
+_expression_ A variable that represents a **[PlotArea](Excel.PlotArea(object).md)** object.
 
 
 ## Return value

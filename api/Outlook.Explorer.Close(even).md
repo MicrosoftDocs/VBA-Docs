@@ -19,7 +19,7 @@ Occurs when an explorer is being closed.
 
 ## Syntax
 
-_expression_. `Close`( `_Cancel_` )
+_expression_.**Close** (_Cancel_)
 
 _expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
