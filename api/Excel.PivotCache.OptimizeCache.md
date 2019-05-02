@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # PivotCache.OptimizeCache property (Excel)
 
- **True** if the PivotTable cache is optimized when it's constructed. The default value is **False**. Read/write **Boolean**.
+**True** if the PivotTable cache is optimized when it's constructed. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `OptimizeCache`
+_expression_.**OptimizeCache**
 
 _expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** object.
 
@@ -28,13 +28,12 @@ _expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** 
 
 Cache optimization results in additional queries and degrades initial performance of the PivotTable report.
 
-For OLE DB data sources, this property is read-only and always returns  **False**.
+For OLE DB data sources, this property is read-only and always returns **False**.
 
 
 ## Example
 
 This example causes the PivotTable cache for the first PivotTable report on worksheet one to be optimized when it's constructed.
-
 
 ```vb
 Worksheets(1).PivotTables("Pivot1") _ 
@@ -42,9 +41,6 @@ Worksheets(1).PivotTables("Pivot1") _
 ```
 
 
-## See also
 
-
-[PivotCache Object](Excel.PivotCache.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

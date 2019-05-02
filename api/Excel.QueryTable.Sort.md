@@ -26,9 +26,9 @@ _expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** 
 
 ## Remarks
 
-If you import data using the user interface, data from Web queries or text queries is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
+If you import data by using the user interface, data from Web queries or text queries is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from Web queries or text queries must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
+If you import data by using the object model, data from Web queries or text queries must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 You can use the  **QueryTable** property of the **ListObject** to access the **Sort** property.
 

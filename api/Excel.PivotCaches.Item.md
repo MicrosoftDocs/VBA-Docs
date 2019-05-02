@@ -26,30 +26,23 @@ _expression_ A variable that represents a **[PivotCaches](Excel.PivotCaches.md)*
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The name or index number for the object.|
 
 ## Return value
 
-A  **[PivotCache](Excel.PivotCache.md)** object contained by the collection.
+A **[PivotCache](Excel.PivotCache.md)** object contained by the collection.
 
 
 ## Example
 
 This example refreshes cache one.
 
-
 ```vb
 ActiveWorkbook.PivotCaches.Item(1).Refresh
 ```
 
 
-## See also
-
-
-[PivotCaches Object](Excel.PivotCaches.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

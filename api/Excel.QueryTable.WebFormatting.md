@@ -35,9 +35,9 @@ Use this property only when the query table's  **[QueryType](Excel.QueryTable.Qu
 | **xlWebFormattingRTF**|
 | **xlWebFormattingNone**_default_|
 
-If you import data using the user interface, data from a web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
+If you import data by using the user interface, data from a web query or a text query is imported as a **QueryTable** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
+If you import data by using the object model, data from a web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 The  **WebFormatting** property applies only to **QueryTable** objects.
 

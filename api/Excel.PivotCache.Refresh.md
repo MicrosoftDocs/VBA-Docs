@@ -28,15 +28,11 @@ _expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** 
 
 This example refreshes the PivotTable cache for the first PivotTable report on the first worksheet in a workbook.
 
-
 ```vb
 Worksheets(1).PivotTables(1).PivotCache.Refresh
 ```
 
 
-## See also
 
-
-[PivotCache Object](Excel.PivotCache.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

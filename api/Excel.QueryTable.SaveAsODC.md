@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # QueryTable.SaveAsODC method (Excel)
 
-Saves the QueryTable cache source as an Microsoft Office Data Connection file.
+Saves the QueryTable cache source as a Microsoft Office Data Connection file.
 
 
 ## Syntax
@@ -32,9 +32,6 @@ _expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** 
 | _Description_|Optional| **Variant**|Description that will be saved in the file.|
 | _Keywords_|Optional| **Variant**|Space-separated keywords that can be used to search for this file.|
 
-## See also
 
-
-[QueryTable Object](Excel.QueryTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

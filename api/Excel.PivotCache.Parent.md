@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** object.
 
 
-## See also
 
-
-[PivotCache Object](Excel.PivotCache.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

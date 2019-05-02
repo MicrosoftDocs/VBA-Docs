@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotCache.ResetTimer method (Excel)
 
-Resets the refresh timer for the specified query table or PivotTable report to the last interval you set using the  **[RefreshPeriod](Excel.PivotCache.RefreshPeriod.md)** property.
+Resets the refresh timer for the specified query table or PivotTable report to the last interval that you set by using the **[RefreshPeriod](Excel.PivotCache.RefreshPeriod.md)** property.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**ResetTimer**
 _expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** object.
 
 
-## See also
 
-
-[PivotCache Object](Excel.PivotCache.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

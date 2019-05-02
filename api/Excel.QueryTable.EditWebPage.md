@@ -30,9 +30,9 @@ The  **EditWebPage** property returns **null** if not set. The **EditWebPage** p
 
 If the  **EditWebPage** is not null then ignore the **[WebTables](Excel.QueryTable.WebTables.md)** property for refreshing. As a result an XML query and the **[WebTable](Excel.QueryTable.WebTables.md)** property refers to the table in the original webpage and should only be used in the edit case to pre-populate the **Web Query** dialog box.
 
-If you import data using the user interface, data from a web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
+If you import data by using the user interface, data from a web query or a text query is imported as a **QueryTable** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
+If you import data by using the object model, data from a web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 The  **EditWebPage** property applies only to **QueryTable** objects.
 

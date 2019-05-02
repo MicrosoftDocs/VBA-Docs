@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnec
 
 ## Remarks
 
-This property is used in both ODBC and OLEDB queries, and by both PivotTables and QueryTables.
+This property is used in both ODBC and OLE DB queries, and by both PivotTables and QueryTables.
 
 
 

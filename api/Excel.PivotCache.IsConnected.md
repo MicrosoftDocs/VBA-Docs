@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotCache.IsConnected property (Excel)
 
-Returns  **True** if the **MaintainConnection** property is **True** and the PivotTable cache is currently connected to its source. Returns **False** if it is not currently connected to its source. Read-only **Boolean**.
+Returns **True** if the **[MaintainConnection](excel.pivotcache.maintainconnection.md)** property is **True**, and the PivotTable cache is currently connected to its source. Returns **False** if it is not currently connected to its source. Read-only **Boolean**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** 
 
 ## Remarks
 
-The  **IsConnected** property does not check to see if the connection is connected. Even if this property returns **True**, sending commands to the provider could result in an error if the connection is no longer valid.
+The **IsConnected** property does not check to see if the connection is connected. Even if this property returns **True**, sending commands to the provider could result in an error if the connection is no longer valid.
 
 Requires that the cache source type is external and that it is an OLE DB data source.
 
@@ -34,7 +34,6 @@ Requires that the cache source type is external and that it is an OLE DB data so
 ## Example
 
 The following example determines if the cache is connected to its source and notifies the user. This example assumes that a PivotTable exists on the active worksheet.
-
 
 ```vb
 Sub CheckIsConnected() 
@@ -57,9 +56,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[PivotCache Object](Excel.PivotCache.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

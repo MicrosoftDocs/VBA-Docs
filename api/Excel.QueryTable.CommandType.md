@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # QueryTable.CommandType property (Excel)
 
-Returns or sets one of the  **[XlCmdType](Excel.XlCmdType.md)** constants listed in the following table in the remarks section. The constant that is returned or set describes the value of the **[CommandText](Excel.QueryTable.CommandText.md)** property. The default value is **xlCmdSQL**. Read/write **xlCmdType**.
+Returns or sets one of the **[XlCmdType](Excel.XlCmdType.md)** constants listed in the following table in the remarks section. The constant that is returned or set describes the value of the **[CommandText](Excel.QueryTable.CommandText.md)** property. The default value is **xlCmdSQL**. Read/write **xlCmdType**.
 
 
 ## Syntax
@@ -34,15 +34,15 @@ _expression_.**CommandType**
 | **xlCmdSql**. Contains an SQL statement.|
 | **xlCmdTable**. Contains a table name for accessing OLE DB data sources.|
 
-You can set the  **CommandType** property only if the value of the **[QueryType](Excel.QueryTable.QueryType.md)** property for the query table or PivotTable cache is **xlOLEDBQuery**.
+You can set the **CommandType** property only if the value of the **[QueryType](Excel.QueryTable.QueryType.md)** property for the query table or PivotTable cache is **xlOLEDBQuery**.
 
-If the value of the  **CommandType** property is **xlCmdCube**, you cannot change this value if there is a PivotTable report associated with the query table.
+If the value of the **CommandType** property is **xlCmdCube**, you cannot change this value if there is a PivotTable report associated with the query table.
 
-If you import data using the user interface, data from a web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
+If you import data by using the user interface, data from a web query or a text query is imported as a **QueryTable** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
+If you import data by using the object model, data from a web query or a text query must be imported as a **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
-You can use the  **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **CommandType** property.
+You can use the **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **CommandType** property.
 
 
 ## Example

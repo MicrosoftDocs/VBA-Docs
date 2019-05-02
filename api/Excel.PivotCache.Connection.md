@@ -14,27 +14,34 @@ localization_priority: Normal
 
 # PivotCache.Connection property (Excel)
 
-Returns or sets a string that contains one of the following: OLE DB settings that enable Microsoft Excel to connect to an OLE DB data source; ODBC settings that enable Microsoft Excel to connect to an ODBC data source; a URL that enables Microsoft Excel to connect to a Web data source; the path to and file name of a text file, or the path to and file name of a file that specifies a database or Web query. Read/write  **Variant**.
+Returns or sets a string that contains one of the following: 
+
+- OLE DB settings that enable Microsoft Excel to connect to an OLE DB data source
+- ODBC settings that enable Excel to connect to an ODBC data source
+- A URL that enables Excel to connect to a web data source
+- The path to and file name of a text file
+- The path to and file name of a file that specifies a database or web query 
+
+Read/write **Variant**.
 
 
 ## Syntax
 
 _expression_.**Connection**
 
- _expression_ An expression that returns a **[PivotCache](Excel.PivotCache.md)** object.
+_expression_ An expression that returns a **[PivotCache](Excel.PivotCache.md)** object.
 
 
 ## Remarks
 
-When using an offline cube file, set the  **[UseLocalConnection](Excel.PivotCache.UseLocalConnection.md)** property to **True** and use the **[LocalConnection](Excel.PivotCache.LocalConnection.md)** property instead of the **Connection** property.
+When using an offline cube file, set the **[UseLocalConnection](Excel.PivotCache.UseLocalConnection.md)** property to **True** and use the **[LocalConnection](Excel.PivotCache.LocalConnection.md)** property instead of the **Connection** property.
 
 Alternatively, you may choose to access a data source directly by using the Microsoft ActiveX Data Objects (ADO) library instead.
 
 
 ## Example
 
-This example creates a new PivotTable cache based on an OLAP provider, and then it creates a new PivotTable report based on the cache, at cell A3 on the active worksheet.
-
+This example creates a new PivotTable cache based on an OLAP provider, and then it creates a new PivotTable report based on the cache at cell A3 on the active worksheet.
 
 ```vb
 With ActiveWorkbook.PivotCaches.Add(SourceType:=xlExternal) 
@@ -59,9 +66,5 @@ End With
 ```
 
 
-## See also
-
-
-[PivotCache Object](Excel.PivotCache.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

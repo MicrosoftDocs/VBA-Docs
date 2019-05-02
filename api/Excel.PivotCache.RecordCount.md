@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotCache.RecordCount property (Excel)
 
-Returns the number of records in the PivotTable cache or the number of cache records that contain the specified item. Read-only  **Long**.
+Returns the number of records in the PivotTable cache or the number of cache records that contain the specified item. Read-only **Long**.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ This property reflects the transient state of the cache at the time that it's qu
 
 ## Example
 
-This example displays the number of cache records that contain "Kiwi" in the "Products" field.
-
+This example displays the number of cache records that contain Kiwi in the Products field.
 
 ```vb
 MsgBox Worksheets(1).PivotTables("Pivot1") _ 
@@ -40,9 +39,6 @@ MsgBox Worksheets(1).PivotTables("Pivot1") _
 ```
 
 
-## See also
 
-
-[PivotCache Object](Excel.PivotCache.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

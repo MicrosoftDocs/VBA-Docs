@@ -14,26 +14,23 @@ localization_priority: Normal
 
 # PivotCache.CommandText property (Excel)
 
-Returns or sets the command string for the specified data source. Read/write  **Variant**.
+Returns or sets the command string for the specified data source. Read/write **Variant**.
 
 
 ## Syntax
 
 _expression_.**CommandText**
 
- _expression_ An expression that returns a **[PivotCache](Excel.PivotCache.md)** object.
+_expression_ An expression that returns a **[PivotCache](Excel.PivotCache.md)** object.
 
 
 ## Remarks
 
-For OLE DB sources, the  **[CommandType](Excel.PivotCache.CommandType.md)** property describes the value of the **CommandText** property.
+For OLE DB sources, the **[CommandType](Excel.PivotCache.CommandType.md)** property describes the value of the **CommandText** property.
 
-For ODBC sources, setting the  **CommandText** causes the data to be refreshed.
-
-
-## See also
+For ODBC sources, setting the **CommandText** property causes the data to be refreshed.
 
 
-[PivotCache Object](Excel.PivotCache.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotCache.WorkbookConnection property (Excel)
 
-Establishes a connection between the current workbook and the  **PivotCache** object. Read-only.
+Establishes a connection between the current workbook and the **PivotCache** object. Read-only.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** 
 
 ## Remarks
 
-The  **WorkbookConnection** object represents a connection to an external data source.
+The **[WorkbookConnection](excel.workbookconnection.md)** object represents a connection to an external data source.
 
 
-## See also
 
-
-[PivotCache Object](Excel.PivotCache.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

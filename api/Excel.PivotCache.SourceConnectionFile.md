@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotCache.SourceConnectionFile property (Excel)
 
-Returns or sets a  **String** indicating the Microsoft Office Data Connection file or similar file that was used to create the PivotTable. Read/write.
+Returns or sets a **String** indicating the Microsoft Office Data Connection file or similar file that was used to create the PivotTable. Read/write.
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** 
 
 ## Example
 
-This example determines if a connection exists for the PivotTable cache and, if there is a connection, displays the file name. If no connection exists, the code handles the run-time error and notifies the user. This example assumes a PivotTable exists on the active worksheet.
-
+This example determines if a connection exists for the PivotTable cache and, if there is a connection, displays the file name. If no connection exists, the code handles the run-time error and notifies the user. This example assumes that a PivotTable exists on the active worksheet.
 
 ```vb
 Sub CheckSourceConnection() 
@@ -48,9 +47,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[PivotCache Object](Excel.PivotCache.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

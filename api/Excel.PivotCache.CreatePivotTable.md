@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotCache.CreatePivotTable method (Excel)
 
-Creates a PivotTable report based on a  **[PivotCache](Excel.PivotCache.md)** object. Returns a **[PivotTable](Excel.PivotTable.md)** object.
+Creates a PivotTable report based on a **PivotCache** object. Returns a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Syntax
@@ -28,9 +28,9 @@ _expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _TableDestination_|Required| **Variant**|The cell in the upper-left corner of the PivotTable report?s destination range (the range on the worksheet where the resulting PivotTable report will be placed). The destination range must be on a worksheet in the workbook that contains the  **PivotCache** object specified by_expression_.|
+| _TableDestination_|Required| **Variant**|The cell in the upper-left corner of the PivotTable report's destination range (the range on the worksheet where the resulting PivotTable report will be placed). The destination range must be on a worksheet in the workbook that contains the **PivotCache** object specified by _expression_.|
 | _TableName_|Optional| **Variant**|The name of the new PivotTable report.|
-| _ReadData_|Optional| **Variant**| **True** to create a PivotTable cache that contains all of the records from the external database; this cache can be very large. **False** to enable setting some of the fields as server-based page fields before the data is actually read.|
+| _ReadData_|Optional| **Variant**| **True** to create a PivotTable cache that contains all the records from the external database; this cache can be very large. **False** to enable setting some of the fields as server-based page fields before the data is actually read.|
 | _DefaultVersion_|Optional| **Variant**|The default version of the PivotTable report.|
 
 ## Return value
@@ -40,13 +40,12 @@ PivotTable
 
 ## Remarks
 
-For an alternative way to create a PivotTable report based on a PivotTable cache, see the  **[Add](Excel.PivotTables.Add.md)** method of the **[PivotTables](Excel.PivotTables.md)** object.
+For an alternative way to create a PivotTable report based on a PivotTable cache, see the **[Add](Excel.PivotTables.Add.md)** method of the **PivotTables** object.
 
 
 ## Example
 
-This example creates a new PivotTable cache based on an OLAP provider, and then it creates a new PivotTable report based on the cache, at cell A3 on the active worksheet.
-
+This example creates a new PivotTable cache based on an OLAP provider, and then it creates a new PivotTable report based on the cache at cell A3 on the active worksheet.
 
 ```vb
 With ActiveWorkbook.PivotCaches.Add(SourceType:=xlExternal) 
@@ -72,10 +71,9 @@ With ActiveSheet.PivotTables("PivotTable1")
 End With
 ```
 
-This example creates a new PivotTable cache using an ADO connection to Microsoft Jet, and then it creates a new PivotTable report based on the cache, at cell A3 on the active worksheet.
+<br/>
 
-
-
+This example creates a new PivotTable cache by using an ADO connection to Microsoft Jet, and then it creates a new PivotTable report based on the cache at cell A3 on the active worksheet.
 
 ```vb
 Dim cnnConn As ADODB.Connection 
@@ -137,9 +135,6 @@ Set cnnConn = Nothing
 ```
 
 
-## See also
 
-
-[PivotCache Object](Excel.PivotCache.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
