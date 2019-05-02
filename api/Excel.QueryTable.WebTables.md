@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.QueryTable.WebTables
 ms.assetid: d60eb457-6276-2d86-bbd8-c2050b0695c9
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 

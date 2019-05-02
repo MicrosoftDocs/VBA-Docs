@@ -7,26 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.QueryTables.Count
 ms.assetid: bdd952ef-a8b2-66ac-42ab-8bf9f4f912e9
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
 
 # QueryTables.Count property (Excel)
 
-Returns a  **Long** value that represents the number of objects in the collection.
+Returns a **Long** value that represents the number of objects in the collection.
 
 
 ## Syntax
 
 _expression_.**Count**
 
-_expression_ A variable that represents a [QueryTables](Excel.QueryTables.md) object.
+_expression_ A variable that represents a **[QueryTables](Excel.QueryTables.md)** object.
 
 
-## See also
 
-
-[QueryTables Object](Excel.QueryTables.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

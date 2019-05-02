@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.QueryTables.Parent
 ms.assetid: c12b6aca-8e95-5560-647b-f63259ef9584
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [QueryTables](Excel.QueryTables.md) object.
+_expression_ A variable that represents a **[QueryTables](Excel.QueryTables.md)** object.
 
 
-## See also
 
-
-[QueryTables Object](Excel.QueryTables.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

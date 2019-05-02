@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.QueryTable.RefreshOnFileOpen
 ms.assetid: 25ee4493-1738-66ce-09d3-9e0e83a677b7
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 

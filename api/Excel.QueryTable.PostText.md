@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.QueryTable.PostText
 ms.assetid: f89c21bb-2b51-49b2-b986-8c3aca2038c1
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.QueryTable.PreserveColumnInfo
 ms.assetid: 736b5b43-17f5-84ca-6e79-e9eca12fe077
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.QueryTable.TextFileParseType
 ms.assetid: 58117c6a-bfe4-190b-ab72-1a26e961d25d
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 

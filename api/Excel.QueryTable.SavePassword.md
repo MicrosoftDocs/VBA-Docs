@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.QueryTable.SavePassword
 ms.assetid: c17250b1-9f80-12ed-1cbf-9f54a05ebaf3
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 

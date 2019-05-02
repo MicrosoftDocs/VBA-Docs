@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.QueryTable.EnableRefresh
 ms.assetid: 79a0b628-b90d-1795-830f-e05bc6043517
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
