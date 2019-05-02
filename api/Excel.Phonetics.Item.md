@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Phonetics.Item
 ms.assetid: 41c2df73-fb88-fe1a-a4ff-4562441b1510
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[Phonetics](Excel.Phonetics.md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The index number of the object.|
@@ -36,15 +34,11 @@ _expression_ A variable that represents a **[Phonetics](Excel.Phonetics.md)** ob
 
 This example makes the first phonetic text string in the active cell visible.
 
-
 ```vb
 ActiveCell.Phonetics.Item(1).Visible = True
 ```
 
 
-## See also
 
-
-[Phonetics Object](Excel.Phonetics.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Phonetics.Text
 ms.assetid: fe420ad7-d945-2009-5a91-13653d5316d9
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
 
 # Phonetics.Text property (Excel)
 
-Returns or sets the text for the specified object. Read/write  **String**.
+Returns or sets the text for the specified object. Read/write **String**.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents a **[Phonetics](Excel.Phonetics.md)** ob
 
 ## Remarks
 
-For the  **[Phonetic](Excel.Phonetic.md)** object, this property returns or sets its phonetic text. You cannot set this property to **Null**.
+For the **[Phonetic](Excel.Phonetic.md)** object, this property returns or sets its phonetic text. You cannot set this property to **Null**.
 
 
-## See also
 
-
-[Phonetics Object](Excel.Phonetics.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

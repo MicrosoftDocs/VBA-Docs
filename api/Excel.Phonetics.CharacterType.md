@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Phonetics.CharacterType
 ms.assetid: b61c3bd5-86dc-baed-e47f-62d522fca290
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
 
 # Phonetics.CharacterType property (Excel)
 
-Returns or sets the type of phonetic text in the specified cell. Read/write  **[XlPhoneticCharacterType](Excel.XlPhoneticCharacterType.md)**.
+Returns or sets the type of phonetic text in the specified cell. Read/write **[XlPhoneticCharacterType](Excel.XlPhoneticCharacterType.md)**.
 
 
 ## Syntax
@@ -28,15 +28,11 @@ _expression_ A variable that represents a **[Phonetics](Excel.Phonetics.md)** ob
 
 This example changes the first phonetic text string in the active cell from Furigana to Hiragana.
 
-
 ```vb
 ActiveCell.Phonetics(1).CharacterType = xlHiragana
 ```
 
 
-## See also
 
-
-[Phonetics Object](Excel.Phonetics.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

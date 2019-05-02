@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Parameter.SetParam
 ms.assetid: af1f5b0a-75a1-ae85-b291-cc3ab514b0a3
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
@@ -28,24 +28,13 @@ _expression_ A variable that represents a **[Parameter](Excel.Parameter.md)** ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **[XlParameterType](Excel.XlParameterType.md)**|One of the constants of  **xlParameterType** which specifies the parameter type.|
-| _Value_|Required| **Variant**|The value of the specified parameter, as shown in the description of the  _Type_ argument.|
+| _Type_|Required| **[XlParameterType](Excel.XlParameterType.md)**|One of the constants of **XlParameterType**, which specifies the parameter type.|
+| _Value_|Required| **Variant**|The value of the specified parameter, as shown in the description of the _Type_ argument.|
 
-## Remarks
-
-
-
-
-
-| **xlParameterType** can be one of these **xlParameterType** constants.|
-| **xlConstant**. Uses the value specified by the _Value_ argument.|
-| **xlPrompt**. Displays a dialog box that prompts the user for the value. The _Value_ argument specifies the text shown in the dialog box.|
-| **xlRange**. Uses the value of the cell in the upper-left corner of the range. The _Value_ argument specifies a **[Range](Excel.Range(object).md)** object|
 
 ## Example
 
-This example changes the SQL statement for query table one. The clause ?(city=?)? indicates that the query is a parameter query, and the example sets the value of city to the constant ?Oakland.?
-
+This example changes the SQL statement for query table one. The clause `(city=?)` indicates that the query is a parameter query, and the example sets the value of city to the constant `Oakland`.
 
 ```vb
 Set qt = Sheets("sheet1").QueryTables(1) 
@@ -57,9 +46,6 @@ qt.Refresh
 ```
 
 
-## See also
 
-
-[Parameter Object](Excel.Parameter.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
