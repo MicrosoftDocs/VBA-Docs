@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Pane.LargeScroll
 ms.assetid: e785bf52-d19b-a6e6-212b-0c5b5de88910
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
@@ -40,16 +40,13 @@ Variant
 
 ## Remarks
 
-If  _Down_ and _Up_ are both specified, the contents of the window are scrolled by the difference of the arguments. For example, if _Down_ is 3 and _Up_ is 6, the contents are scrolled up three pages.
+If _Down_ and _Up_ are both specified, the contents of the window are scrolled by the difference of the arguments. For example, if _Down_ is 3 and _Up_ is 6, the contents are scrolled up three pages.
 
-If  _ToLeft_ and _ToRight_ are both specified, the contents of the window are scrolled by the difference of the arguments. For example, if _ToLeft_ is 3 and _ToRight_ is 6, the contents are scrolled to the right three pages.
+If _ToLeft_ and _ToRight_ are both specified, the contents of the window are scrolled by the difference of the arguments. For example, if _ToLeft_ is 3 and _ToRight_ is 6, the contents are scrolled to the right three pages.
 
 Any of the arguments can be a negative number.
 
 
-## See also
 
-
-[Pane Object](Excel.Pane.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

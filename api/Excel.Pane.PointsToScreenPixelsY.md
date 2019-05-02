@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Pane.PointsToScreenPixelsY
 ms.assetid: f90f957e-a233-a3fc-a774-1ba784265214
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[Pane](Excel.Pane.md)** object.
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Points_|Required| **Long**|Location of the starting point.|
@@ -37,9 +35,6 @@ _expression_ A variable that represents a **[Pane](Excel.Pane.md)** object.
 Long
 
 
-## See also
 
-
-[Pane Object](Excel.Pane.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

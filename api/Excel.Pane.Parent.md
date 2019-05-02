@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Pane.Parent
 ms.assetid: 1c7f390f-6515-bf7f-baba-df05bdc57982
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[Pane](Excel.Pane.md)** object.
 
 
-## See also
 
-
-[Pane Object](Excel.Pane.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
