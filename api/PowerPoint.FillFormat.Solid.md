@@ -26,7 +26,7 @@ _expression_.**Solid**
 
 ## Example
 
-This example converts all fills on  _myDocument_ to uniform red fills.
+This example converts all fills on _myDocument_ to uniform red fills.
 
 
 ```vb

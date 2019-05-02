@@ -42,7 +42,7 @@ The value of the  **Perspective** property can be one of these **MsoTriState** c
 
 ## Example
 
-This example sets the extrusion depth for shape one on  _myDocument_ to 100 points and specifies that the extrusion be parallel, or orthographic.
+This example sets the extrusion depth for shape one on _myDocument_ to 100 points and specifies that the extrusion be parallel, or orthographic.
 
 
 ```vb

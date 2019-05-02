@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PageSetup.CenterFooterPicture
 ms.assetid: 6df72e33-29d2-a638-7e42-2749a61ff9a3
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
 
 # PageSetup.CenterFooterPicture property (Excel)
 
-Returns a  **[Graphic](Excel.Graphic.md)** object that represents the picture for the center section of the footer. Used to set attributes about the picture.
+Returns a **[Graphic](Excel.Graphic.md)** object that represents the picture for the center section of the footer. Used to set attributes about the picture.
 
 
 ## Syntax
@@ -26,15 +26,14 @@ _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** ob
 
 ## Remarks
 
-The  **CenterFooterPicture** property is read-only, but the properties on it are not all read-only.
+The **CenterFooterPicture** property is read-only, but the properties on it are not all read-only.
 
-It is required that "&G" is a part of the  **CenterFooter** property string in order for the image to show up in the center footer.
+It is required that `"&G"` be a part of the **CenterFooter** property string for the image to show up in the center footer.
 
 
 ## Example
 
-The following example adds a picture titled: Sample.jpg from the C:\ drive to the center section of the footer. This example assumes that a file called Sample.jpg exists on the C:\ drive.
-
+The following example adds a picture titled Sample.jpg from the C:\ drive to the center section of the footer. This example assumes that a file called Sample.jpg exists on the C:\ drive.
 
 ```vb
 Sub InsertPicture() 
@@ -59,9 +58,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[PageSetup Object](Excel.PageSetup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

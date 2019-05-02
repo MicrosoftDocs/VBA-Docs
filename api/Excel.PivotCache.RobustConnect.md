@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotCache.RobustConnect
 ms.assetid: 354d0124-e178-342b-9565-fa74e9dae5d5
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
 
 # PivotCache.RobustConnect property (Excel)
 
-Returns or sets how the PivotTable cache connects to its data source. Read/write  **[XlRobustConnect](Excel.XlRobustConnect.md)**.
+Returns or sets how the PivotTable cache connects to its data source. Read/write **[XlRobustConnect](Excel.XlRobustConnect.md)**.
 
 
 ## Syntax
@@ -24,21 +24,9 @@ _expression_.**RobustConnect**
 _expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** object.
 
 
-## Remarks
-
-
-
-
-
-| **xlRobustConnect** can be one of these **xlRobustConnect** constants.|
-| **xlAlways**. The cache always uses external source information (as defined by the **[SourceConnectionFile](Excel.PivotCache.SourceConnectionFile.md)** or **[SourceDataFile](Excel.PivotCache.SourceDataFile.md)** property) to reconnect.|
-| **xlAsRequired**. The cache uses external source info to reconnect using the **[Connection](Excel.PivotCache.Connection.md)** property.|
-| **xlNever**. The cache never uses source info to reconnect.|
-
 ## Example
 
-The following example determines the setting for the cache connection and notifies the user. The example assumes a PivotTable exists on the active worksheet.
-
+The following example determines the setting for the cache connection and notifies the user. The example assumes that a PivotTable exists on the active worksheet.
 
 ```vb
 Sub CheckRobustConnect() 
@@ -61,9 +49,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[PivotCache Object](Excel.PivotCache.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

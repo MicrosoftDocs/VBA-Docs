@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Phonetics.Delete
 ms.assetid: 0dab7f60-d6e5-efa1-e58a-92f3f0de9cc5
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Delete**
 _expression_ A variable that represents a **[Phonetics](Excel.Phonetics.md)** object.
 
 
-## See also
 
-
-[Phonetics Object](Excel.Phonetics.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

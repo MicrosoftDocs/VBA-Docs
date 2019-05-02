@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** 
 
 ## Example
 
-This example adds the PivotTable report?s row field names to a list on a new worksheet.
+This example adds the PivotTable report's row field names to a list on a new worksheet.
 
 
 ```vb

@@ -21,7 +21,7 @@ Copies the formatting of the specified shape.
 
 _expression_. `PickUp`
 
-_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a **[Shape](Word.Shape.md)** object.
 
 
 ## Remarks
@@ -31,7 +31,7 @@ Use the  **[Apply](Word.Shape.Apply.md)** method to apply the copied formatting 
 
 ## Example
 
-This example copies the formatting of shape one on  _myDocument_ and then applies the copied formatting to shape two.
+This example copies the formatting of shape one on _myDocument_ and then applies the copied formatting to shape two.
 
 
 ```vb

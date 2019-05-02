@@ -21,12 +21,12 @@ localization_priority: Normal
 
 _expression_. `VerticalFlip`
 
-_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a **[Shape](Word.Shape.md)** object.
 
 
 ## Example
 
-This example restores each shape on  _myDocument_ to its original state if it has been flipped horizontally or vertically.
+This example restores each shape on _myDocument_ to its original state if it has been flipped horizontally or vertically.
 
 
 ```vb

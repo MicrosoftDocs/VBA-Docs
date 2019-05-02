@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFor
 
 ## Example
 
-This example sets the font name to "Courier New" for shape three on  _myDocument_ if the shape is WordArt.
+This example sets the font name to "Courier New" for shape three on _myDocument_ if the shape is WordArt.
 
 
 ```vb

@@ -7,42 +7,35 @@ ms.prod: excel
 api_name:
 - Excel.PivotCache.CommandType
 ms.assetid: bbe0ba26-efb9-428d-de2c-576116d92747
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
 
 # PivotCache.CommandType property (Excel)
 
-Returns or sets one of the  **[XlCmdType](Excel.XlCmdType.md)** constants listed in the following table in the remarks section. The constant that is returned or set describes the value of the **[CommandText](Excel.PivotCache.CommandText.md)** property. The default value is **xlCmdSQL**. Read/write **xlCmdType**.
+Returns or sets one of these **[XlCmdType](Excel.XlCmdType.md)** constants: **xlCmdCube**, **xlCmdDefault**, **xlCmdSql**, or **xlCmdTable**. 
+
+The constant that is returned or set describes the value of the **[CommandText](Excel.PivotCache.CommandText.md)** property. The default value is **xlCmdSQL**. Read/write **XlCmdType**.
 
 
 ## Syntax
 
 _expression_.**CommandType**
 
- _expression_ An expression that returns a **[PivotCache](Excel.PivotCache.md)** object.
+_expression_ An expression that returns a **[PivotCache](Excel.PivotCache.md)** object.
 
 
 ## Remarks
 
+You can set the **CommandType** property only if the value of the **[QueryType](Excel.PivotCache.QueryType.md)** property for the query table or PivotTable cache is **xlOLEDBQuery**.
 
-
-| **xlCmdType** can be one of these **xlCmdType** constants.|
-| **xlCmdCube**. Contains a cube name for an OLAP data source.|
-| **xlCmdDefault**. Contains command text that the OLE DB provider understands.|
-| **xlCmdSql**. Contains an SQL statement.|
-| **xlCmdTable**. Contains a table name for accessing OLE DB data sources.|
-
-You can set the  **CommandType** property only if the value of the **[QueryType](Excel.PivotCache.QueryType.md)** property for the query table or PivotTable cache is **xlOLEDBQuery**.
-
-If the value of the  **CommandType** property is **xlCmdCube**, you cannot change this value if there is a PivotTable report associated with the query table.
+If the value of the **CommandType** property is **xlCmdCube**, you cannot change this value if there is a PivotTable report associated with the query table.
 
 
 ## Example
 
 This example sets the command string for the first query table's ODBC data source. The command string is an SQL statement.
-
 
 ```vb
 Set qtQtrResults = _ 
@@ -56,9 +49,6 @@ End With
 ```
 
 
-## See also
 
-
-[PivotCache Object](Excel.PivotCache.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

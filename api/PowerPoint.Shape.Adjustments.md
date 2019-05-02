@@ -31,7 +31,7 @@ Adjustments
 
 ## Example
 
-This example sets to 0.25 the value of adjustment one for shape three on  _myDocument_.
+This example sets to 0.25 the value of adjustment one for shape three on _myDocument_.
 
 
 ```vb

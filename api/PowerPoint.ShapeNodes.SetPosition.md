@@ -36,7 +36,7 @@ _expression_. `SetPosition`( `_Index_`, `_X1_`, `_Y1_` )
 
 ## Example
 
-This example moves node two in shape three on  _myDocument_ to the right 200 points and down 300 points. Shape three must be a freeform drawing.
+This example moves node two in shape three on _myDocument_ to the right 200 points and down 300 points. Shape three must be a freeform drawing.
 
 
 ```vb

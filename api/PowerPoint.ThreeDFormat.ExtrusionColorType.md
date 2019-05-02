@@ -43,7 +43,7 @@ The value of the  **ExtrusionColorType** property can be one of these **MsoExtru
 
 ## Example
 
-If shape one on  _myDocument_ has an automatic extrusion color, this example gives the extrusion a custom yellow color.
+If shape one on _myDocument_ has an automatic extrusion color, this example gives the extrusion a custom yellow color.
 
 
 ```vb

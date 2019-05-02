@@ -7,27 +7,28 @@ ms.prod: excel
 api_name:
 - Excel.QueryTables.Application
 ms.assetid: 428b9fbb-8119-0de6-d86a-719edbe5d667
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
 
 # QueryTables.Application property (Excel)
 
-When used without an object qualifier, this property returns an  **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object (you can use this property with an OLE Automation object to return the application of that object). Read-only.
+When used without an object qualifier, this property returns an **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. 
+
+When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object (you can use this property with an OLE Automation object to return the application of that object). Read-only.
 
 
 ## Syntax
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [QueryTables](Excel.QueryTables.md) object.
+_expression_ A variable that represents a **[QueryTables](Excel.QueryTables.md)** object.
 
 
 ## Example
 
 This example displays a message about the application that created _myObject_.
-
 
 ```vb
 Set myObject = ActiveWorkbook 
@@ -39,9 +40,6 @@ End If
 ```
 
 
-## See also
 
-
-[QueryTables Object](Excel.QueryTables.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

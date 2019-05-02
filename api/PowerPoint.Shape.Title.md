@@ -31,7 +31,7 @@ You can also use the  **[Item](PowerPoint.Placeholders.Item.md)** method of the 
 
 ## Example
 
-The following example sets the title text on  _myDocument_.
+The following example sets the title text on _myDocument_.
 
 
 ```vb

@@ -31,7 +31,7 @@ Applying this method sets the [AutoLength](PowerPoint.CalloutFormat.AutoLength.m
 
 ## Example
 
-This example switches between an automatically scaling first segment and one with a fixed length for the callout line for shape one on  _myDocument_. For the example to work, shape one must be a callout.
+This example switches between an automatically scaling first segment and one with a fixed length for the callout line for shape one on _myDocument_. For the example to work, shape one must be a callout.
 
 
 ```vb

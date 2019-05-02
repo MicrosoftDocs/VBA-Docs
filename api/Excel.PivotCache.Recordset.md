@@ -7,32 +7,31 @@ ms.prod: excel
 api_name:
 - Excel.PivotCache.Recordset
 ms.assetid: 25f2eb4f-d78c-21e2-9d26-c8ebc3404607
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
 
 # PivotCache.Recordset property (Excel)
 
-Returns or sets a  **Recordset** object that's used as the data source for the specified PivotTable cache. Read/write.
+Returns or sets a **Recordset** object that's used as the data source for the specified PivotTable cache. Read/write.
 
 
 ## Syntax
 
-_expression_. `Recordset`
+_expression_.**Recordset**
 
 _expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** object.
 
 
 ## Remarks
 
-If this property is used to overwrite an existing recordset, the change takes effect when the  **[Refresh](Excel.PivotCache.Refresh.md)** method is run.
+If this property is used to overwrite an existing recordset, the change takes effect when the **[Refresh](Excel.PivotCache.Refresh.md)** method is run.
 
 
 ## Example
 
-This example creates a new PivotTable cache using an ADO connection to Microsoft Jet, and then it creates a new PivotTable report based on the cache, at cell A3 on the active worksheet.
-
+This example creates a new PivotTable cache by using an ADO connection to Microsoft Jet, and then it creates a new PivotTable report based on the cache at cell A3 on the active worksheet.
 
 ```vb
 Dim cnnConn As ADODB.Connection 
@@ -94,9 +93,6 @@ Set cnnConn = Nothing
 ```
 
 
-## See also
 
-
-[PivotCache Object](Excel.PivotCache.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotCache.Parent
 ms.assetid: b0b2c1c7-56fc-a9ac-418a-d14dc6673d97
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** object.
 
 
-## See also
 
-
-[PivotCache Object](Excel.PivotCache.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

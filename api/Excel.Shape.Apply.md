@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 ## Example
 
-This example copies the formatting of shape one on  _myDocument_ and then applies the copied formatting to shape two.
+This example copies the formatting of shape one on _myDocument_ and then applies the copied formatting to shape two.
 
 
 ```vb

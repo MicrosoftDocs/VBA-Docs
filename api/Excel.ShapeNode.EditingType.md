@@ -31,7 +31,7 @@ This property is read-only. Use the  **[SetEditingType](Excel.ShapeNodes.SetEdit
 
 ## Example
 
-This example changes all corner nodes to smooth nodes in shape three on  _myDocument_. Shape three must be a freeform drawing.
+This example changes all corner nodes to smooth nodes in shape three on _myDocument_. Shape three must be a freeform drawing.
 
 
 ```vb

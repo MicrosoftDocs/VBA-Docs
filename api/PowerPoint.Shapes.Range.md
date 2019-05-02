@@ -48,7 +48,7 @@ To specify an array of integers or strings for  **Index**, you can use the **Arr
 
 ## Example
 
-This example sets the fill pattern for shapes one and three on  _myDocument_.
+This example sets the fill pattern for shapes one and three on _myDocument_.
 
 
 ```vb

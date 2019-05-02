@@ -21,7 +21,7 @@ Creates a duplicate of the specified  **Shape** object, adds the new shape to th
 
 _expression_.**Duplicate**
 
-_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a **[Shape](Word.Shape.md)** object.
 
 
 ## Example

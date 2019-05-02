@@ -21,7 +21,7 @@ Returns a  **PictureFormat** object that contains picture formatting properties 
 
 _expression_. `PictureFormat`
 
- _expression_ A variable that represents a '[Shape](Word.Shape.md)' object.
+ _expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
 
 
 ## Remarks
@@ -31,7 +31,7 @@ This property applies to  **Shape** objects that represent pictures or OLE objec
 
 ## Example
 
-This example sets the brightness and contrast for shape one on  _myDocument_. Shape one must be a picture or an OLE object.
+This example sets the brightness and contrast for shape one on _myDocument_. Shape one must be a picture or an OLE object.
 
 
 ```vb

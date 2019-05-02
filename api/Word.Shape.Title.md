@@ -21,7 +21,7 @@ Returns or sets a  **String** that contains a title for the specified shape. Rea
 
 _expression_.**Title**
 
- _expression_ A variable that represents a '[Shape](Word.Shape.md)' object.
+ _expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
 
 
 ## Remarks

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PageSetup.LeftFooter
 ms.assetid: 68dfe26d-9e03-c219-a3c4-96702d0e3723
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**LeftFooter**
 _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 
 
-## See also
 
-
-[PageSetup Object](Excel.PageSetup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

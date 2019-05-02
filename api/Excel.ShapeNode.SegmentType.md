@@ -37,7 +37,7 @@ Use the  **[SetSegmentType](Excel.ShapeNodes.SetSegmentType.md)** method to set 
 
 ## Example
 
-This example changes all straight segments to curved segments in shape three on  _myDocument_. Shape three must be a freeform drawing.
+This example changes all straight segments to curved segments in shape three on _myDocument_. Shape three must be a freeform drawing.
 
 
 ```vb

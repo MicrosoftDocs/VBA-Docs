@@ -21,7 +21,7 @@ Returns  **True** if there is a SmartArt diagram present on the shape. Read-only
 
 _expression_. `HasSmartArt`
 
- _expression_ A variable that represents a '[Shape](Word.Shape.md)' object.
+ _expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
 
 
 ## Example

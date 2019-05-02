@@ -21,7 +21,7 @@ Selects the specified shape.
 
 _expression_.**Select** (_Replace_)
 
-_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a **[Shape](Word.Shape.md)** object.
 
 
 ## Parameters

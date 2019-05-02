@@ -72,7 +72,7 @@ The value of the  **PresetTextEffect** property can be one of these **MsoPresetT
 
 ## Example
 
-This example sets the style for all WordArt on  _myDocument_ to the first style listed in the **WordArt Quick Styles** tab.
+This example sets the style for all WordArt on _myDocument_ to the first style listed in the **WordArt Quick Styles** tab.
 
 
 ```vb

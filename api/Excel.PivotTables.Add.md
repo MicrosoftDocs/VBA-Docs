@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[PivotTables](Excel.PivotTables.md)*
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PivotCache_|Required| **[PivotCache](Excel.PivotCache.md)**|The PivotTable cache on which the new PivotTable report is based. The cache provides data for the report.|
-| _TableDestination_|Required| **Variant**|The cell in the upper-left corner of the PivotTable report's destination range (the range on the worksheet where the resulting report will be placed). You must specify a destination range on the worksheet that contains the  **PivotTables** object specified by_expression_.|
+| _TableDestination_|Required| **Variant**|The cell in the upper-left corner of the PivotTable report's destination range (the range on the worksheet where the resulting report will be placed). You must specify a destination range on the worksheet that contains the  **PivotTables** object specified by _expression_.|
 | _TableName_|Optional| **Variant**|The name of the new PivotTable report.|
 | _ReadData_|Optional| **Variant**| **True** to create a PivotTable cache that contains all records from the external database; this cache can be very large. **False** to enable setting some of the fields as server-based page fields before the data is actually read.|
 | _DefaultVersion_|Optional| **Variant**|The version of Microsoft Excel the PivotTable was originally created in.|

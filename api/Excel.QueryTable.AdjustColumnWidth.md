@@ -7,19 +7,19 @@ ms.prod: excel
 api_name:
 - Excel.QueryTable.AdjustColumnWidth
 ms.assetid: 2901cc84-92d2-7021-2360-9c31dc1153b3
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
 
 # QueryTable.AdjustColumnWidth property (Excel)
 
- **True** if the column widths are automatically adjusted for the best fit each time you refresh the specified query table. **False** if the column widths are not automatically adjusted with each refresh. The default value is **True**. Read/write **Boolean**.
+**True** if the column widths are automatically adjusted for the best fit each time you refresh the specified query table. **False** if the column widths are not automatically adjusted with each refresh. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `AdjustColumnWidth`
+_expression_.**AdjustColumnWidth**
 
 _expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
@@ -28,17 +28,16 @@ _expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** 
 
 The maximum column width is two-thirds the width of the screen.
 
-If you import data using the user interface, data from a web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
+If you import data by using the user interface, data from a web query or a text query is imported as a **QueryTable** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
+If you import data by using the object model, data from a web query or a text query must be imported as a **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
-You can use the  **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **AdjustColumnWidth** property.
+You can use the **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **AdjustColumnWidth** property.
 
 
 ## Example
 
 This example turns off automatic column-width adjustment for the newly added query table on the first worksheet in the first workbook.
-
 
 ```vb
 With Workbooks(1).Worksheets(1).QueryTables _ 
@@ -52,9 +51,6 @@ End With
 ```
 
 
-## See also
 
-
-[QueryTable Object](Excel.QueryTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -35,7 +35,7 @@ _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** 
 
 ## Example
 
-This example defines a shape range that contains all the AutoShapes on  _myDocument_ and then horizontally distributes the shapes in this range. The leftmost shape retains its position.
+This example defines a shape range that contains all the AutoShapes on _myDocument_ and then horizontally distributes the shapes in this range. The leftmost shape retains its position.
 
 
 ```vb

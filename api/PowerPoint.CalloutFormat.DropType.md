@@ -48,7 +48,7 @@ The value returned by the  **DropType** property can be one of these **MsoCallou
 
 ## Example
 
-This example checks to determine whether shape three on  _myDocument_ is a callout with a custom drop. If it is, the code replaces the custom drop with one of two preset drops, depending on whether the custom drop value is greater than or less than half the height of the callout text box.
+This example checks to determine whether shape three on _myDocument_ is a callout with a custom drop. If it is, the code replaces the custom drop with one of two preset drops, depending on whether the custom drop value is greater than or less than half the height of the callout text box.
 
 
 ```vb

@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotCache.UseLocalConnection
 ms.assetid: ce54adf2-22f3-f4dc-8b97-276d6ca53478
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
 
 # PivotCache.UseLocalConnection property (Excel)
 
-Returns  **True** if the **[LocalConnection](Excel.PivotCache.LocalConnection.md)** property is used to specify the string that enables Microsoft Excel to connect to a data source. Returns **False** if the connection string specified by the **Connection** property is used. Read/write **Boolean**.
+Returns **True** if the **[LocalConnection](Excel.PivotCache.LocalConnection.md)** property is used to specify the string that enables Microsoft Excel to connect to a data source. Returns **False** if the connection string specified by the **[Connection](Excel.PivotCache.Connection.md)** property is used. Read/write **Boolean**.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** 
 
 This example sets the connection string of the first PivotTable cache to reference an offline cube file.
 
-
 ```vb
 With ActiveWorkbook.PivotCaches(1) 
  .LocalConnection = _ 
@@ -39,9 +38,6 @@ End With
 ```
 
 
-## See also
 
-
-[PivotCache Object](Excel.PivotCache.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

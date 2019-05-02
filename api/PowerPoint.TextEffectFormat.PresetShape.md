@@ -82,7 +82,7 @@ The value of the  **PresetShape** property can be one of these **MsoPresetTextEf
 
 ## Example
 
-This example sets the shape of all WordArt on  _myDocument_ to a chevron whose center points down.
+This example sets the shape of all WordArt on _myDocument_ to a chevron whose center points down.
 
 
 ```vb

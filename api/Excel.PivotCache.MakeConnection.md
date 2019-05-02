@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotCache.MakeConnection
 ms.assetid: d0b29374-4d5a-7d9e-630a-500b505da1bd
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
@@ -26,20 +26,19 @@ _expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** 
 
 ## Remarks
 
-The  **MakeConnection** method can be used after the cache drops a connection and the user wants to reestablish the connection.
+The **MakeConnection** method can be used after the cache drops a connection and the user wants to reestablish the connection.
 
 Various objects and methods might return a run-time error if the cache is not connected. Use of this method assures a connection before executing other objects or methods.
 
-This method will result in a run-time error if the  **MaintainConnection** property of the specified PivotTable cache has been set to **False**, the **SourceType** property of the specified PivotTable cache has not been set to xlExternal, or if the connection is not to an OLE DB data source.
+This method will result in a run-time error if the **[MaintainConnection](excel.pivotcache.maintainconnection.md)** property of the specified PivotTable cache has been set to **False**, the **[SourceType](excel.pivotcache.sourcetype.md)** property of the specified PivotTable cache has not been set to **xlExternal**, or if the connection is not to an OLE DB data source.
 
-
- **Note**  Microsoft Excel might drop a connection temporarily in the course of a session (unknown to the VBA programmer), so this method proves useful.
+> [!NOTE] 
+> Microsoft Excel might drop a connection temporarily in the course of a session (unknown to the VBA programmer), so this method proves useful.
 
 
 ## Example
 
 The following example determines if the cache is connected to its source and makes a connection to the source if necessary. This example assumes that a PivotTable cache exists on the active worksheet.
-
 
 ```vb
 Sub UseMakeConnection() 
@@ -67,9 +66,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[PivotCache Object](Excel.PivotCache.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

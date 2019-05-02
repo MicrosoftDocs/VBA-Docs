@@ -42,7 +42,7 @@ The value of the  **HasText** property can be one of these **MsoTriState** const
 
 ## Example
 
-If shape two on  _myDocument_ contains text, this example resizes the shape to fit the text.
+If shape two on _myDocument_ contains text, this example resizes the shape to fit the text.
 
 
 ```vb

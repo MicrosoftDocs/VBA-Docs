@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `AdjustColumnWidth`
+_expression_.**AdjustColumnWidth**
 
 _expression_ A variable that represents an **[XmlMap](Excel.XmlMap.md)** object.
 
