@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # QueryTable.FillAdjacentFormulas property (Excel)
 
- **True** if formulas to the right of the specified query table are automatically updated whenever the query table is refreshed. Read/write **Boolean**.
+**True** if formulas to the right of the specified query table are automatically updated whenever the query table is refreshed. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `FillAdjacentFormulas`
+_expression_.**FillAdjacentFormulas**
 
 _expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
@@ -28,24 +28,19 @@ _expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** 
 
 If you import data by using the user interface, data from a web query or a text query is imported as a **QueryTable** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data by using the object model, data from a web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
+If you import data by using the object model, data from a web query or a text query must be imported as a **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
-The  **FillAdjacentFormulas** property applies only to **QueryTable** objects.
+The **FillAdjacentFormulas** property applies only to **QueryTable** objects.
 
 
 ## Example
 
 This example sets query table one so that formulas to the right of it are automatically updated whenever the query table is refreshed.
 
-
 ```vb
 Sheets("sheet1").QueryTables(1).FillAdjacentFormulas = True
 ```
 
 
-## See also
-
-
-[QueryTable Object](Excel.QueryTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

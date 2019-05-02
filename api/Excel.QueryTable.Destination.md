@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # QueryTable.Destination property (Excel)
 
-Returns the cell in the upper-left corner of the query table destination range (the range where the resulting query table will be placed). The destination range must be on the worksheet that contains the  **QueryTable** object. Read-only **[Range](Excel.Range(object).md)**.
+Returns the cell in the upper-left corner of the query table destination range (the range where the resulting query table will be placed). The destination range must be on the worksheet that contains the **QueryTable** object. Read-only **[Range](Excel.Range(object).md)**.
 
 
 ## Syntax
 
-_expression_. `Destination`
+_expression_.**Destination**
 
 _expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
@@ -28,15 +28,14 @@ _expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** 
 
 If you import data by using the user interface, data from a web query or a text query is imported as a **QueryTable** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data by using the object model, data from a web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
+If you import data by using the object model, data from a web query or a text query must be imported as a **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
-You can use the  **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **Destination** property.
+You can use the **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **Destination** property.
 
 
 ## Example
 
 This example scrolls through the active window until the upper-left corner of query table one is in the upper-left corner of the window.
-
 
 ```vb
 Set d = Worksheets(1).QueryTables(1).Destination 
@@ -47,9 +46,6 @@ End With
 ```
 
 
-## See also
 
-
-[QueryTable Object](Excel.QueryTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

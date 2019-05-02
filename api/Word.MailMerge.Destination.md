@@ -19,7 +19,7 @@ Returns or sets the destination of the mail merge results. Read/write  **WdMailM
 
 ## Syntax
 
-_expression_. `Destination`
+_expression_.**Destination**
 
 _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 

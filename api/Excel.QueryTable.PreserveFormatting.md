@@ -41,15 +41,13 @@ You can use the **[QueryTable](Excel.ListObject.QueryTable.md)** property of the
 
 This example preserves the formatting of the first PivotTable report on worksheet one.
 
-
 ```vb
 Worksheets(1).PivotTables("Pivot1").PreserveFormatting = True
 ```
 
+<br/>
+
 This example demonstrates how setting **PreserveFormatting** to **False** causes the AutoFormat to be set to **xlRangeAutoFormatNone** instead of the specified **xlRangeAutoFormatColor1** format.
-
-
-
 
 ```vb
 With Workbooks(1).Worksheets(1).QueryTables(1) 
@@ -60,9 +58,6 @@ End With
 ```
 
 
-## See also
 
-
-[QueryTable Object](Excel.QueryTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

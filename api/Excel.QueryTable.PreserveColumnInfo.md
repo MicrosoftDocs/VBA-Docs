@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # QueryTable.PreserveColumnInfo property (Excel)
 
- **True** if column sorting, filtering, and layout information is preserved whenever a query table is refreshed. The default value is **True**. Read/write **Boolean**.
+**True** if column sorting, filtering, and layout information is preserved whenever a query table is refreshed. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `PreserveColumnInfo`
+_expression_.**PreserveColumnInfo**
 
 _expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
@@ -28,19 +28,18 @@ _expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** 
 
 This property has an effect only when the query table is using a database connection.
 
-You can set this property to  **False** for compatibility with earlier versions of Microsoft Excel.
+You can set this property to **False** for compatibility with earlier versions of Microsoft Excel.
 
 If you import data by using the user interface, data from a web query or a text query is imported as a **QueryTable** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data by using the object model, data from a web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
+If you import data by using the object model, data from a web query or a text query must be imported as a **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
-You can use the  **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **PreserveColumnInfo** property.
+You can use the **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **PreserveColumnInfo** property.
 
 
 ## Example
 
 This example preserves column sorting, filtering, and layout information for compatibility with earlier versions of Microsoft Excel.
-
 
 ```vb
 Dim cnnConnect As ADODB.Connection 
@@ -80,9 +79,6 @@ End With
 ```
 
 
-## See also
 
-
-[QueryTable Object](Excel.QueryTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

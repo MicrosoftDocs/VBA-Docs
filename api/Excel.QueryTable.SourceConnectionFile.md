@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # QueryTable.SourceConnectionFile property (Excel)
 
-Returns or sets a  **String** indicating the Microsoft Office Data Connection file or similar file that was used to create the QueryTable. Read/write.
+Returns or sets a **String** indicating the Microsoft Office Data Connection file or similar file that was used to create the QueryTable. Read/write.
 
 
 ## Syntax
@@ -26,18 +26,13 @@ _expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** 
 
 ## Remarks
 
-Data from Web queries or text queries is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object. You can use the **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **SourceConnectionFile** property.
-
 If you import data by using the user interface, data from a web query or a text query is imported as a **QueryTable** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data by using the object model, data from a web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
+If you import data by using the object model, data from a web query or a text query must be imported as a **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
-You can use the  **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **SourceConnectionFile** property.
-
-
-## See also
+You can use the **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **SourceConnectionFile** property.
 
 
-[QueryTable Object](Excel.QueryTable.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

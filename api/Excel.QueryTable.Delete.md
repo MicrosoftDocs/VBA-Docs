@@ -24,9 +24,6 @@ _expression_.**Delete**
 _expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
 
-## See also
 
-
-[QueryTable Object](Excel.QueryTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

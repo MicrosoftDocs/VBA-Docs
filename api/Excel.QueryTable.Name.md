@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # QueryTable.Name property (Excel)
 
-Returns or sets a  **String** value representing the name of the object.
+Returns or sets a **String** value representing the name of the object.
 
 
 ## Syntax
@@ -26,11 +26,9 @@ _expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** 
 
 ## Remarks
 
-The following table shows example values of the  **Name** property and related properties given an OLAP data source with the unique name "[Europe].[France].[Paris]" and a non-OLAP data source with the item name "Paris".
+The following table shows example values of the **Name** property and related properties given an OLAP data source with the unique name "[Europe].[France].[Paris]" and a non-OLAP data source with the item name "Paris".
 
-
-
-|**Property**|**Value (OLAP data source)**|**Value (non-OLAP data source)**|
+|Property|Value (OLAP data source)|Value (non-OLAP data source)|
 |:-----|:-----|:-----|
 | **Caption**|Paris|Paris|
 | **Name**|[Europe].[France].[Paris] &nbsp;(read-only)|Paris|
@@ -39,14 +37,10 @@ The following table shows example values of the  **Name** property and related p
 
 If you import data by using the user interface, data from a web query or a text query is imported as a **QueryTable** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data by using the object model, data from a web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
+If you import data by using the object model, data from a web query or a text query must be imported as a **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
-The  **Name** property applies only to **QueryTable** objects.
-
-
-## See also
+The **Name** property applies only to **QueryTable** objects.
 
 
-[QueryTable Object](Excel.QueryTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,15 +41,11 @@ This property is ignored if the **ListObject** is connected to a SharePoint list
 
 This example causes password information to be removed from the ODBC connection string whenever query table one is saved.
 
-
 ```vb
 Worksheets(1).QueryTables(1).SavePassword = False
 ```
 
 
-## See also
 
-
-[QueryTable Object](Excel.QueryTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

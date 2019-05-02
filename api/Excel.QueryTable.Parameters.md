@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # QueryTable.Parameters property (Excel)
 
-Returns a  **[Parameters](Excel.Parameters.md)** collection that represents the query table parameters. Read-only.
+Returns a **[Parameters](Excel.Parameters.md)** collection that represents the query table parameters. Read-only.
 
 
 ## Syntax
 
-_expression_. `Parameters`
+_expression_.**Parameters**
 
 _expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
@@ -28,15 +28,14 @@ _expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** 
 
 If you import data by using the user interface, data from a web query or a text query is imported as a **QueryTable** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data by using the object model, data from a web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
+If you import data by using the object model, data from a web query or a text query must be imported as a **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
-You can use the  **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **Parameters** property.
+You can use the **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **Parameters** property.
 
 
 ## Example
 
-This example returns the  **Parameters** collection from an existing parameter query. If the first parameter uses the character data type, the user is instructed to enter characters only in the prompt dialog box.
-
+This example returns the **Parameters** collection from an existing parameter query. If the first parameter uses the character data type, the user is instructed to enter characters only in the prompt dialog box.
 
 ```vb
 With Sheets("sheet1").QueryTables(1).Parameters(1) 
@@ -47,9 +46,6 @@ End With
 ```
 
 
-## See also
 
-
-[QueryTable Object](Excel.QueryTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
