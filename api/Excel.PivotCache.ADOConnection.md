@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotCache.ADOConnection
 ms.assetid: 410a3eee-0dda-4be1-45c4-809893de624e
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 

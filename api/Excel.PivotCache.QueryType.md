@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotCache.QueryType
 ms.assetid: 61346ed2-1ada-a105-1894-b22861047c4f
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 

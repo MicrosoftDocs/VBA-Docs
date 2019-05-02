@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotCache.RefreshPeriod
 ms.assetid: 6357769c-e73e-2388-962a-f3bb790c423e
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 

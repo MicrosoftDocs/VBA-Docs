@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotCache.MemoryUsed
 ms.assetid: f68731ec-053e-79e9-861f-2c225b827e96
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 

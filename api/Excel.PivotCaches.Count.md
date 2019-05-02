@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotCaches.Count
 ms.assetid: 6ab97937-7002-b940-9b76-34a816b823b8
-ms.date: 06/08/2017
+ms.date: 05/03/2019
 localization_priority: Normal
 ---
 
