@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PageSetup.DifferentFirstPageHeaderFooter property (Excel)
 
- **True** if a different header or footer is used on the first page. Read/write **Boolean**.
+**True** if a different header or footer is used on the first page. Read/write **Boolean**.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**DifferentFirstPageHeaderFooter**
 _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 
 
-## See also
 
-
-[PageSetup Object](Excel.PageSetup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

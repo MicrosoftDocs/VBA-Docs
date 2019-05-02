@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PageSetup.RightHeader property (Excel)
 
-Returns or sets the right part of the header. Read/write  **String**.
+Returns or sets the right part of the header. Read/write **String**.
 
 
 ## Syntax
@@ -28,15 +28,11 @@ _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** ob
 
 This example prints the file name in the upper-right corner of every page.
 
-
 ```vb
 Worksheets("Sheet1").PageSetup.RightHeader = "&F"
 ```
 
 
-## See also
 
-
-[PageSetup Object](Excel.PageSetup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

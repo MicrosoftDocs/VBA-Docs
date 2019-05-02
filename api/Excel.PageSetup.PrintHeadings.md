@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PageSetup.PrintHeadings property (Excel)
 
- **True** if row and column headings are printed with this page. Applies only to worksheets. Read/write **Boolean**.
+**True** if row and column headings are printed with this page. Applies only to worksheets. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,22 +26,18 @@ _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** ob
 
 ## Remarks
 
-The  **[DisplayHeadings](Excel.Window.DisplayHeadings.md)** property controls the on-screen display of headings.
+The **[DisplayHeadings](Excel.Window.DisplayHeadings.md)** property of the **Window** object controls the on-screen display of headings.
 
 
 ## Example
 
 This example turns off the printing of headings for Sheet1.
 
-
 ```vb
 Worksheets("Sheet1").PageSetup.PrintHeadings = False
 ```
 
 
-## See also
 
-
-[PageSetup Object](Excel.PageSetup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

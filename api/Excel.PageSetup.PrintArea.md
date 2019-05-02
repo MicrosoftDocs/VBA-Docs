@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PageSetup.PrintArea property (Excel)
 
-Returns or sets the range to be printed, as a string using A1-style references in the language of the macro. Read/write  **String**.
+Returns or sets the range to be printed as a **String** using A1-style references in the language of the macro. Read/write **String**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** ob
 
 ## Remarks
 
-Set this property to  **False** or to the empty string ("") to set the print area to the entire sheet.
+Set this property to **False** or to the empty string ("") to set the print area to the entire sheet.
 
 This property applies only to worksheet pages.
 
@@ -35,15 +35,13 @@ This property applies only to worksheet pages.
 
 This example sets the print area to cells A1:C5 on Sheet1.
 
-
 ```vb
 Worksheets("Sheet1").PageSetup.PrintArea = "$A$1:$C$5"
 ```
 
-This example sets the print area to the current region on Sheet1. Note that you use the  **Address** property to return an A1-style address.
+<br/>
 
-
-
+This example sets the print area to the current region on Sheet1. Note that you use the **Address** property to return an A1-style address.
 
 ```vb
 Worksheets("Sheet1").Activate 
@@ -52,9 +50,5 @@ ActiveSheet.PageSetup.PrintArea = _
 ```
 
 
-## See also
-
-
-[PageSetup Object](Excel.PageSetup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

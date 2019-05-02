@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PageSetup.BottomMargin property (Excel)
 
-Returns or sets the size of the bottom margin, in [points](../language/glossary/vbe-glossary.md#point). Read/write  **Double**.
+Returns or sets the size of the bottom margin, in [points](../language/glossary/vbe-glossary.md#point). Read/write **Double**.
 
 
 ## Syntax
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** ob
 
 ## Remarks
 
-Margins are set or returned in points. Use either the  **[InchesToPoints](Excel.Application.InchesToPoints.md)** method or the **[CentimetersToPoints](Excel.Application.CentimetersToPoints.md)** method to do the conversion.
+Margins are set or returned in points. Use either the **[InchesToPoints](Excel.Application.InchesToPoints.md)** method or the **[CentimetersToPoints](Excel.Application.CentimetersToPoints.md)** method to do the conversion.
 
 
 ## Example
 
 These two examples set the bottom margin of Sheet1 to 0.5 inch (36 points).
-
 
 ```vb
 Worksheets("Sheet1").PageSetup.BottomMargin = _ 
@@ -41,10 +40,9 @@ Worksheets("Sheet1").PageSetup.BottomMargin = _
 Worksheets("Sheet1").PageSetup.BottomMargin = 36
 ```
 
+<br/>
+
 This example displays the current setting for the bottom margin on Sheet1.
-
-
-
 
 ```vb
 marginInches = Worksheets("Sheet1").PageSetup.BottomMargin / _ 
@@ -53,9 +51,5 @@ MsgBox "The current bottom margin is " & marginInches & " inches"
 ```
 
 
-## See also
-
-
-[PageSetup Object](Excel.PageSetup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PageSetup.Draft property (Excel)
 
- **True** if the sheet will be printed without graphics. Read/write **Boolean**.
+**True** if the sheet will be printed without graphics. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,22 +26,18 @@ _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** ob
 
 ## Remarks
 
-Setting this property to  **True** makes printing faster (at the expense of not printing graphics).
+Setting this property to **True** makes printing faster (at the expense of not printing graphics).
 
 
 ## Example
 
 This example turns off graphics printing for Sheet1.
 
-
 ```vb
 Worksheets("Sheet1").PageSetup.Draft = True
 ```
 
 
-## See also
 
-
-[PageSetup Object](Excel.PageSetup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PageSetup.FirstPageNumber property (Excel)
 
-Returns or sets the first page number that will be used when this sheet is printed. If  **xlAutomatic**, Microsoft Excel chooses the first page number. The default is **xlAutomatic**. Read/write **Long**.
+Returns or sets the first page number that will be used when this sheet is printed. If **xlAutomatic**, Microsoft Excel chooses the first page number. The default is **xlAutomatic** ([Constants](excel.constants.md)). Read/write **Long**.
 
 
 ## Syntax
@@ -28,15 +28,11 @@ _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** ob
 
 This example sets the first page number of Sheet1 to 100.
 
-
 ```vb
 Worksheets("Sheet1").PageSetup.FirstPageNumber = 100
 ```
 
 
-## See also
 
-
-[PageSetup Object](Excel.PageSetup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

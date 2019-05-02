@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PageSetup.PrintGridlines property (Excel)
 
- **True** if cell gridlines are printed on the page. Applies only to worksheets. Read/write **Boolean**.
+**True** if cell gridlines are printed on the page. Applies only to worksheets. Read/write **Boolean**.
 
 
 ## Syntax
@@ -28,15 +28,11 @@ _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** ob
 
 This example prints cell gridlines when Sheet1 is printed.
 
-
 ```vb
 Worksheets("Sheet1").PageSetup.PrintGridlines = True
 ```
 
 
-## See also
 
-
-[PageSetup Object](Excel.PageSetup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

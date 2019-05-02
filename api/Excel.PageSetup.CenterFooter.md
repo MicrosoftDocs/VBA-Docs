@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PageSetup.CenterFooter property (Excel)
 
-Center aligns the footer information in the  **PageSetup** object. Read/write **String**.
+Center aligns the footer information in the **PageSetup** object. Read/write **String**.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**CenterFooter**
 _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 
 
-## See also
 
-
-[PageSetup Object](Excel.PageSetup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

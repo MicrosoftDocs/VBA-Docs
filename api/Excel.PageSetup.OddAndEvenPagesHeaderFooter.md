@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PageSetup.OddAndEvenPagesHeaderFooter property (Excel)
 
- **True** if the specified **PageSetup** object has different headers and footers for odd-numbered and even-numbered pages. Read/write **Boolean**.
+**True** if the specified **PageSetup** object has different headers and footers for odd-numbered and even-numbered pages. Read/write **Boolean**.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**OddAndEvenPagesHeaderFooter**
 _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 
 
-## See also
 
-
-[PageSetup Object](Excel.PageSetup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

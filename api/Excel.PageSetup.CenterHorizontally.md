@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PageSetup.CenterHorizontally property (Excel)
 
- **True** if the sheet is centered horizontally on the page when it's printed. Read/write **Boolean**.
+**True** if the sheet is centered horizontally on the page when it's printed. Read/write **Boolean**.
 
 
 ## Syntax
@@ -28,15 +28,11 @@ _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** ob
 
 This example centers Sheet1 horizontally when it's printed.
 
-
 ```vb
 Worksheets("Sheet1").PageSetup.CenterHorizontally = True
 ```
 
 
-## See also
 
-
-[PageSetup Object](Excel.PageSetup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

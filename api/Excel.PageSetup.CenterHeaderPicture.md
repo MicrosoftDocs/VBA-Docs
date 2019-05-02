@@ -28,13 +28,12 @@ _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** ob
 
 The **CenterHeaderPicture** property is read-only, but the properties on it are not all read-only.
 
-It is required that "&G" is a part of the **CenterHeader** property string in order for the image to show up in the center header.
+It is required that `"&G"` be a part of the **CenterHeader** property string for the image to show up in the center header.
 
 
 ## Example
 
-The following example adds a picture titled: Sample.jpg from the C:\ drive to the center section of the header. This example assumes that a file called Sample.jpg exists on the C:\ drive.
-
+The following example adds a picture titled Sample.jpg from the C:\ drive to the center section of the header. This example assumes that a file called Sample.jpg exists on the C:\ drive.
 
 ```vb
 Sub InsertPicture() 
@@ -59,9 +58,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[PageSetup Object](Excel.PageSetup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

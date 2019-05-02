@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PageSetup.Pages property (Excel)
 
-Returns or sets the count or item number of the pages in  **Pages** collection.
+Returns or sets the count or item number of the pages in the **[Pages](excel.pages.md)** collection.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Pages**
 _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** object.
 
 
-## See also
 
-
-[PageSetup Object](Excel.PageSetup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
