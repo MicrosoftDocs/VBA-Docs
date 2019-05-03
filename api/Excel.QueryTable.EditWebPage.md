@@ -39,7 +39,7 @@ The **EditWebPage** property applies only to **QueryTable** objects.
 
 ## Example
 
-In this example, Microsoft Excel displays to the user a webpage URL. This example assumes a **QueryTable** object in cell A1 exists in the active worksheet and that a file called MyHomepage.htm exists on the C:\ drive.
+In this example, Microsoft Excel displays to the user a webpage URL. This example assumes a **QueryTable** object in cell A1 exists on the active worksheet and that a file called MyHomepage.htm exists on the C:\ drive.
 
 ```vb
 Sub ReturnURL() 

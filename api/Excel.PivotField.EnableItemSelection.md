@@ -31,7 +31,7 @@ A run-time error will occur if the OLAP PivotTable field is not the highest leve
 
 ## Example
 
-This example determines the setting for selecting items using the field dropdown and enables the feature, if necessary. The example assumes a PivotTable exists on the active worksheet.
+This example determines the setting for selecting items using the field dropdown and enables the feature, if necessary. The example assumes that a PivotTable exists on the active worksheet.
 
 
 ```vb

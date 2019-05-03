@@ -19,7 +19,7 @@ Represents a sort of a range of data.
 
 ## Example
 
-The following procedure builds and sorts data in a range in the active worksheet.
+The following procedure builds and sorts data in a range on the active worksheet.
 
 ```vb
 Sub SortData() 

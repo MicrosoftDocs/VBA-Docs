@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Selection property (Excel)
 
-Returns the currently selected object in the active worksheet for an **Application** object. Returns **Nothing** if no objects are selected. Use the **Select** method to set the selection, and use the **[TypeName](../Language/Reference/User-Interface-Help/typename-function.md)** function to discover the kind of object that is selected. 
+Returns the currently selected object on the active worksheet for an **Application** object. Returns **Nothing** if no objects are selected. Use the **Select** method to set the selection, and use the **[TypeName](../Language/Reference/User-Interface-Help/typename-function.md)** function to discover the kind of object that is selected. 
 
 
 ## Syntax

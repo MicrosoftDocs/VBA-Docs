@@ -31,7 +31,7 @@ Any editing performed on data values is lost upon refresh.
 
 ## Example
 
-This example determines the alert setting for overwriting values in the data area and notifies the user. The example assumes a PivotTable exists on the active worksheet.
+This example determines the alert setting for overwriting values in the data area and notifies the user. The example assumes that a PivotTable exists on the active worksheet.
 
 
 ```vb

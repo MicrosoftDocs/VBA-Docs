@@ -7,48 +7,31 @@ ms.prod: excel
 api_name:
 - Excel.PivotCell.CustomSubtotalFunction
 ms.assetid: 35c031a2-7ad4-9cbb-c57b-1f529368d307
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 
 
 # PivotCell.CustomSubtotalFunction property (Excel)
 
-Returns the custom subtotal function field setting of a  **PivotCell** object. Read-only **[XlConsolidationFunction](Excel.XlConsolidationFunction.md)**.
+Returns the custom subtotal function field setting of a **PivotCell** object. Read-only **[XlConsolidationFunction](Excel.XlConsolidationFunction.md)**.
 
 
 ## Syntax
 
-_expression_. `CustomSubtotalFunction`
+_expression_.**CustomSubtotalFunction**
 
 _expression_ A variable that represents a **[PivotCell](Excel.PivotCell.md)** object.
 
 
 ## Remarks
 
-
-
-| **xlConsolidationFunction** can be one of these **xlConsolidationFunction** constants.|
-| **xlAverage**|
-| **xlCount**|
-| **xlCountNums**|
-| **xlMax**|
-| **xlMin**|
-| **xlProduct**|
-| **xlStDev**|
-| **xlStDevP**|
-| **xlSum**|
-| **xlUnknown**|
-| **xlVar**|
-| **xlVarP**|
-
-The  **CustomSubtotalFunction** property will return an error if the **PivotCell** object type is not a custom subtotal. This property applies only to non-OLAP source data.
+The **CustomSubtotalFunction** property returns an error if the **PivotCell** object type is not a custom subtotal. This property applies only to non-OLAP source data.
 
 
 ## Example
 
-This example determines if cell C20 contains a custom subtotal function that uses a consolidation function of count and then it notifies the user. The example assumes a PivotTable exists on the active worksheet.
-
+This example determines if cell C20 contains a custom subtotal function that uses a consolidation function of count, and then it notifies the user. The example assumes that a PivotTable exists on the active worksheet.
 
 ```vb
 Sub UseCustomSubtotalFunction() 
@@ -70,9 +53,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[PivotCell Object](Excel.PivotCell.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
