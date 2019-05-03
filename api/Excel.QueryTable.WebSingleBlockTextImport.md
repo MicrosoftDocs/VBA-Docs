@@ -14,31 +14,30 @@ localization_priority: Normal
 
 # QueryTable.WebSingleBlockTextImport property (Excel)
 
-**True** if data from the HTML `<PRE>` tags in the specified webpage is processed all at once when you import the page into a query table. **False** if the data is imported in blocks of contiguous rows so that header rows will be recognized as such. The default value is **False**. Read/write **Boolean**.
+**True** if data from the HTML `<PRE>` tags on the specified webpage is processed all at once when you import the page into a query table. **False** if the data is imported in blocks of contiguous rows so that header rows will be recognized as such. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `WebSingleBlockTextImport`
+_expression_.**WebSingleBlockTextImport**
 
 _expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
 
 ## Remarks
 
-Use this property only when the query table's  **[QueryType](Excel.QueryTable.QueryType.md)** property is set to **xlWebQuery** and the query returns an HTML document.
+Use this property only when the query table's **[QueryType](Excel.QueryTable.QueryType.md)** property is set to **xlWebQuery**, and the query returns an HTML document.
 
 If you import data by using the user interface, data from a web query or a text query is imported as a **QueryTable** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data by using the object model, data from a web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
+If you import data by using the object model, data from a web query or a text query must be imported as a **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
-The  **WebSingleBlockTextImport** property applies only to **QueryTable** objects.
+The **WebSingleBlockTextImport** property applies only to **QueryTable** objects.
 
 
 ## Example
 
-This example adds a new Web query table to the first worksheet in the first workbook and then imports all of the HTML `<PRE>` tag data all at once.
-
+This example adds a new web query table to the first worksheet in the first workbook, and then imports all the HTML `<PRE>` tag data all at once.
 
 ```vb
 Set shFirstQtr = Workbooks(1).Worksheets(1) 
@@ -52,9 +51,6 @@ End With
 ```
 
 
-## See also
 
-
-[QueryTable Object](Excel.QueryTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
