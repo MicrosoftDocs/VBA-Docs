@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # QueryTable object (Excel)
 
-Represents a worksheet table built from data returned from an external data source, such as an SQL server or a Microsoft Access database.
+Represents a worksheet table built from data returned from an external data source, such as a SQL server or a Microsoft Access database.
 
 
 ## Remarks

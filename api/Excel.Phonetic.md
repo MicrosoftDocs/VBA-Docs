@@ -32,6 +32,8 @@ The following example sets the first phonetic text string in the active cell to 
 ActiveCell.Phonetics(1).Text = "フリガナ"
 ```
 
+<br/>
+
 The **[Phonetic](Excel.Range.Phonetic.md)** property of the **Range** object provides compatibility with earlier versions of Microsoft Excel. You should use **Phonetics** (_index_), where _index_ is the index number of the phonetic text, to return a single **Phonetic** object. To demonstrate compatibility with earlier versions of Microsoft Excel, the following example adds Furigana characters to the range A1:C4. If you add Furigana characters to a range, a new **Phonetic** object is automatically created.
 
 ```vb
