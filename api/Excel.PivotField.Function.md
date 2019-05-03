@@ -14,25 +14,24 @@ localization_priority: Normal
 
 # PivotField.Function property (Excel)
 
-Returns or sets the function used to summarize the PivotTable field (data fields only). Read/write  **[XlConsolidationFunction](Excel.XlConsolidationFunction.md)**.
+Returns or sets the function used to summarize the PivotTable field (data fields only). Read/write **[XlConsolidationFunction](Excel.XlConsolidationFunction.md)**.
 
 
 ## Syntax
 
-_expression_. `Function`
+_expression_.**Function**
 
 _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
 
-For OLAP data sources, this property is read-only and always returns  **xlUnknown**. For other data sources, this property cannot be set to **xlUnknown**.
+For OLAP data sources, this property is read-only and always returns **xlUnknown**. For other data sources, this property cannot be set to **xlUnknown**.
 
 
 ## Example
 
-This example sets the Sum of 1994 field in the first PivotTable report on the active sheet to use the SUM function.
-
+This example sets the "Sum of 1994" field in the first PivotTable report on the active sheet to use the SUM function.
 
 ```vb
 ActiveSheet.PivotTables("PivotTable1") _ 
@@ -40,9 +39,6 @@ ActiveSheet.PivotTables("PivotTable1") _
 ```
 
 
-## See also
 
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

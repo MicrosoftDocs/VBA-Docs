@@ -14,25 +14,24 @@ localization_priority: Normal
 
 # PivotField.IsCalculated property (Excel)
 
- **True** if the PivotTable field is a calculated field or item. Read-only **Boolean**.
+**True** if the PivotTable field is a calculated field or item. Read-only **Boolean**.
 
 
 ## Syntax
 
-_expression_. `IsCalculated`
+_expression_.**IsCalculated**
 
 _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
 
-For OLAP data sources, this property always returns  **False**.
+For OLAP data sources, this property always returns **False**.
 
 
 ## Example
 
-This example disables the  **PivotTable Field** dialog box if the specified PivotTable report contains any calculated fields.
-
+This example disables the **PivotTable Field** dialog box if the specified PivotTable report contains any calculated fields.
 
 ```vb
 set pt = Worksheets(1).PivotTables("Pivot1") 
@@ -42,9 +41,5 @@ Next
 ```
 
 
-## See also
-
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

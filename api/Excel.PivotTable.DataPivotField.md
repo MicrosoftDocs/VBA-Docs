@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** 
 
 ## Example
 
-This example moves the second  **PivotItem** object to the first position. It assumes a PivotTable exists on the active worksheet and that the PivotTable contains data fields.
+This example moves the second  **PivotItem** object to the first position. It assumes that a PivotTable exists on the active worksheet and that the PivotTable contains data fields.
 
 
 ```vb

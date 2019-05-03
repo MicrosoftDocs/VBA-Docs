@@ -14,20 +14,19 @@ localization_priority: Normal
 
 # PivotField.AutoSortOrder property (Excel)
 
-Returns the order used to sort the specified PivotTable field automatically. Can be one of the constants of **[XlSortOrder](Excel.XlSortOrder.md)**. Read-only **Long**.
+Returns the order used to sort the specified PivotTable field automatically. Can be one of the **[XlSortOrder](Excel.XlSortOrder.md)** constants. Read-only **Long**.
 
 
 ## Syntax
 
-_expression_. `AutoSortOrder`
+_expression_.**AutoSortOrder**
 
 _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Example
 
-This example displays a message box showing the AutoSort parameters for the Product field.
-
+This example displays a message box showing the **AutoSort** parameters for the Product field.
 
 ```vb
 With Worksheets(1).PivotTables(1).PivotFields("product") 

@@ -24,9 +24,6 @@ _expression_.**Delete**
 _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
-## See also
 
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,89 +14,80 @@ localization_priority: Normal
 
 # PivotField.ClearLabelFilters method (Excel)
 
-This method deletes all label filters or all date filters in the  **PivotFilters** collection of the PivotField.
+This method deletes all label filters or all date filters in the **[PivotFilters](excel.pivotfilters.md)** collection of the PivotField.
 
 
 ## Syntax
 
-_expression_. `ClearLabelFilters`
+_expression_.**ClearLabelFilters**
 
 _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
 
-The following table lists the different label filter types that will be deleted by this method.
+The following list contains the different label filter types that will be deleted by this method:
+
+- **xlCaptionEquals**
+- **xlCaptionDoesNotEqual**
+- **xlCaptionIsGreaterThan**
+- **xlCaptionIsGreaterThanOrEqualTo**
+- **xlCaptionIsLessThan**
+- **xlCaptionIsLessThanOrEqualTo**
+- **xlCaptionBeginsWith**
+- **xlCaptionDoesNotBeginWith**
+- **xlCaptionEndsWith**
+- **xlCaptionDoesNotEndWith**
+- **xlCaptionContains**
+- **xlCaptionDoesNotContain**
+- **xlCaptionIsBetween**
+- **xlCaptionIsNotBetween**
+
+<br/>
+
+The following list contains the different date filter types that will be deleted by this method:
+
+- **xlSpecificDate**
+- **xlNotSpecificDate**
+- **xlBefore**
+- **xlBeforeOrEqualTo**
+- **xlAfter**
+- **xlAfterOrEqualTo**
+- **xlDateBetween**
+- **xlDateNotBetween**
+- **xlDateToday**
+- **xlDateYesterday**
+- **xlDateTomorrow**
+- **xlDateThisWeek**
+- **xlDateLastWeek**
+- **xlDateNextWeek**
+- **xlDateThisMonth**
+- **xlDateLastMonth**
+- **xlDateNextMonth**
+- **xlDateThisQuarter**
+- **xlDateLastQuarter**
+- **xlDateNextQuarter**
+- **xlDateThisYear**
+- **xlDateLastYear**
+- **xlDateNextYear**
+- **xlYearToDate**
+- **xlAllDatesInPeriodQuarter1**
+- **xlAllDatesInPeriodQuarter2**
+- **xlAllDatesInPeriodQuarter3**
+- **xlAllDatesInPeriodQuarter4**
+- **xlAllDatesInPeriodJanuary**
+- **xlAllDatesInPeriodFebruary**
+- **xlAllDatesInPeriodMarch**
+- **xlAllDatesInPeriodApril**
+- **xlAllDatesInPeriodMay**
+- **xlAllDatesInPeriodJune**
+- **xlAllDatesInPeriodJuly**
+- **xlAllDatesInPeriodAugust**
+- **xlAllDatesInPeriodSeptember**
+- **xlAllDatesInPeriodOctober**
+- **xlAllDatesInPeriodNovember**
+- **xlAllDatesInPeriodDecember**
 
 
-
-||
-| **xlCaptionEquals**|
-| **xlCaptionDoesNotEqual**|
-| **xlCaptionIsGreaterThan**|
-| **xlCaptionIsGreaterThanOrEqualTo**|
-| **xlCaptionIsLessThan**|
-| **xlCaptionIsLessThanOrEqualTo**|
-| **xlCaptionBeginsWith**|
-| **xlCaptionDoesNotBeginWith**|
-| **xlCaptionEndsWith**|
-| **xlCaptionDoesNotEndWith**|
-| **xlCaptionContains**|
-| **xlCaptionDoesNotContain**|
-| **xlCaptionIsBetween**|
-| **xlCaptionIsNotBetween**|
-||
-||
-
-The following table lists the different date filter types that will be deleted by this method.
-
-
-
-||
-| **xlSpecificDate**|
-| **xlNotSpecificDate**|
-| **xlBefore**|
-| **xlBeforeOrEqualTo**|
-| **xlAfter**|
-| **xlAfterOrEqualTo**|
-| **xlDateBetween**|
-| **xlDateNotBetween**|
-| **xlDateToday**|
-| **xlDateYesterday**|
-| **xlDateTomorrow**|
-| **xlDateThisWeek**|
-| **xlDateLastWeek**|
-| **xlDateNextWeek**|
-| **xlDateThisMonth**|
-| **xlDateLastMonth**|
-| **xlDateNextMonth**|
-| **xlDateThisQuarter**|
-| **xlDateLastQuarter**|
-| **xlDateNextQuarter**|
-| **xlDateThisYear**|
-| **xlDateLastYear**|
-| **xlDateNextYear**|
-| **xlYearToDate**|
-| **xlAllDatesInPeriodQuarter1**|
-| **xlAllDatesInPeriodQuarter2**|
-| **xlAllDatesInPeriodQuarter3**|
-| **xlAllDatesInPeriodQuarter4**|
-| **xlAllDatesInPeriodJanuary**|
-| **xlAllDatesInPeriodFebruary**|
-| **xlAllDatesInPeriodMarch**|
-| **xlAllDatesInPeriodApril**|
-| **xlAllDatesInPeriodMay**|
-| **xlAllDatesInPeriodJune**|
-| **xlAllDatesInPeriodJuly**|
-| **xlAllDatesInPeriodAugust**|
-| **xlAllDatesInPeriodSeptember**|
-| **xlAllDatesInPeriodOctober**|
-| **xlAllDatesInPeriodNovember**|
-| **xlAllDatesInPeriodDecember**|
-
-## See also
-
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

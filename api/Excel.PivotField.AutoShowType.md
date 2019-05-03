@@ -14,20 +14,19 @@ localization_priority: Normal
 
 # PivotField.AutoShowType property (Excel)
 
-Returns  **xlAutomatic** if **AutoShow** is enabled for the specified PivotTable field; returns **xlManual** if **AutoShow** is disabled. Read-only **Long**.
+Returns the **xlAutomatic** [constant](excel.constants.md) if **AutoShow** is enabled for the specified PivotTable field; returns **xlManual** if **AutoShow** is disabled. Read-only **Long**.
 
 
 ## Syntax
 
-_expression_. `AutoShowType`
+_expression_.**AutoShowType**
 
 _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Example
 
-This example displays a message box showing the  **AutoShow** parameters for the Salesman field.
-
+This example displays a message box showing the **AutoShow** parameters for the Salesman field.
 
 ```vb
 With Worksheets(1).PivotTables(1).PivotFields("salesman") 
@@ -48,9 +47,6 @@ End With
 ```
 
 
-## See also
 
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

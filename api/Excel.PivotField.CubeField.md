@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotField.CubeField property (Excel)
 
-Returns the  **[CubeField](Excel.CubeField.md)** object from which the specified PivotTable field is descended. Read-only.
+Returns the **[CubeField](Excel.CubeField.md)** object from which the specified PivotTable field is descended. Read-only.
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** 
 
 ## Example
 
-This example creates a list of the cube field names for all the hierarchy fields in the first Online Analytical Processing (OLAP) -based PivotTable report on the first worksheet. This example assumes a PivotTable report exists in the first worksheet.
-
+This example creates a list of the cube field names for all the hierarchy fields in the first Online Analytical Processing (OLAP) -based PivotTable report on the first worksheet. This example assumes that a PivotTable report exists in the first worksheet.
 
 ```vb
 Sub UseCubeField() 
@@ -49,9 +48,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

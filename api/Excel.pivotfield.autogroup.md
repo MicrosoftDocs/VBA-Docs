@@ -17,14 +17,11 @@ Automatically groups the pivot fields in a PivotTable.
 
 ## Syntax
 
-_expression_. `AutoGroup`
+_expression_.**AutoGroup**
 
 _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
-## See also
 
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,43 +14,35 @@ localization_priority: Normal
 
 # PivotField.ClearValueFilters method (Excel)
 
-Calling this method deletes all value filters in the  **PivotFilters** collection of the PivotField.
+Calling this method deletes all value filters in the **[PivotFilters](excel.pivotfilters.md)** collection of the PivotField.
 
 
 ## Syntax
 
-_expression_. `ClearValueFilters`
+_expression_.**ClearValueFilters**
 
 _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
 
-The following table lists the different value filter types that will be deleted by this method.
+The following list contains the different value filter types that will be deleted by this method:
+
+- **xlTopCount**
+- **xlBottomCount**
+- **xlTopPercent**
+- **xlBottomPercent**
+- **xlTopSum**
+- **xlBottomSum**
+- **xlValueEquals**
+- **xlValueDoesNotEqual**
+- **xlValueIsGreaterThan**
+- **xlValueIsGreaterThanOrEqualTo**
+- **xlValueIsLessThan**
+- **xlValueIsLessThanOrEqualTo**
+- **xlValueIsBetween**
+- **xlValueIsNotBetween**
 
 
-
-||
-| **xlTopCount**|
-| **xlBottomCount**|
-| **xlTopPercent**|
-| **xlBottomPercent**|
-| **xlTopSum**|
-| **xlBottomSum**|
-| **xlValueEquals**|
-| **xlValueDoesNotEqual**|
-| **xlValueIsGreaterThan**|
-| **xlValueIsGreaterThanOrEqualTo**|
-| **xlValueIsLessThan**|
-| **xlValueIsLessThanOrEqualTo**|
-| **xlValueIsBetween**|
-| **xlValueIsNotBetween**|
-||
-||
-
-## See also
-
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

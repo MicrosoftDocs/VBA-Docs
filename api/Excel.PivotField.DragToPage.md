@@ -14,25 +14,24 @@ localization_priority: Normal
 
 # PivotField.DragToPage property (Excel)
 
- **True** if the field can be dragged to the page position. The default value is **True**. Read/write **Boolean**.
+**True** if the field can be dragged to the page position. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `DragToPage`
+_expression_.**DragToPage**
 
 _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
 
-For OLAP data sources, the value is  **False** for measure fields.
+For OLAP data sources, the value is **False** for measure fields.
 
 
 ## Example
 
 This example prevents the Year field in the PivotTable report on worksheet one from being dragged to the page position.
-
 
 ```vb
 Worksheets(1).PivotTables("Pivot1") _ 
@@ -40,9 +39,5 @@ Worksheets(1).PivotTables("Pivot1") _
 ```
 
 
-## See also
-
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

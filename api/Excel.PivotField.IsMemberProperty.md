@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotField.IsMemberProperty property (Excel)
 
-Returns  **True** when the PivotField contains member properties. Read-only **Boolean**.
+Returns **True** when the PivotField contains member properties. Read-only **Boolean**.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ This property will return a run-time error if an Online Analytical Processing (O
 ## Example
 
 This example determines if the PivotTable field contains member properties and notifies the user. It assumes that a PivotTable exists on the active worksheet and that it is connected to an OLAP data source.
-
 
 ```vb
 Sub CheckForMembers() 
@@ -54,9 +53,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

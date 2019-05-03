@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotField.CurrentPage property (Excel)
 
-Returns or sets the current page showing for the page field (valid only for page fields). Read/write  **[PivotItem](Excel.PivotItem.md)**.
+Returns or sets the current page showing for the page field (valid only for page fields). Read/write **[PivotItem](Excel.PivotItem.md)**.
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** 
 
 ## Example
 
-This example returns the current page name for the PivotTable report on Sheet1 in the string variable  `strPgName`.
-
+This example returns the current page name for the PivotTable report on Sheet1 in the string variable `strPgName`.
 
 ```vb
 Set pvtTable = Worksheets("Sheet1").Range("A3").PivotTable 
@@ -35,9 +34,6 @@ strPgName = pvtTable.PivotFields("Country").CurrentPage.Name
 ```
 
 
-## See also
 
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

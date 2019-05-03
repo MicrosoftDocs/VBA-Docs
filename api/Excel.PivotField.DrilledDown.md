@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotField.DrilledDown property (Excel)
 
- **True** if the flag for the specified PivotTable field or PivotTable item is set to "drilled" (expanded, or visible). Read/write **Boolean**.
+**True** if the flag for the specified PivotTable field or PivotTable item is set to "drilled" (expanded, or visible). Read/write **Boolean**.
 
 
 ## Syntax
@@ -35,16 +35,11 @@ You cannot set this property if the field or item is hidden.
 
 This example sets the flags to "not drilled" for all items in the state field in the third PivotTable report on the active worksheet.
 
-
 ```vb
 ActiveSheet.PivotTables("PivotTable3") _ 
  .PivotFields("state").DrilledDown = False
 ```
 
 
-## See also
-
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

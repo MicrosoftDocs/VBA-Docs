@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # PivotField.DisplayInReport property (Excel)
 
-This property is used to specify whether the specified member property PivotField is displayed in the PivotTable or not. Read/write  **Boolean**.
+This property is used to specify whether the specified member property PivotField is displayed in the PivotTable or not. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `DisplayInReport`
+_expression_.**DisplayInReport**
 
 _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
-## See also
 
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
