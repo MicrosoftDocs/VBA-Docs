@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.LayoutForm
 ms.assetid: 5e0fee89-111f-0bd4-e880-72cc0925c364
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 

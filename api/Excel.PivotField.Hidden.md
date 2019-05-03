@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.Hidden
 ms.assetid: c4fbed72-f3e5-fc5a-53c7-133003b53eee
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 

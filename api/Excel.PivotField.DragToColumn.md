@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.DragToColumn
 ms.assetid: 1e3ce788-5484-2504-37bb-a08770871c98
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 

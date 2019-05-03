@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.CubeField
 ms.assetid: d49d9454-6505-b892-a3c5-32c002326a31
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 

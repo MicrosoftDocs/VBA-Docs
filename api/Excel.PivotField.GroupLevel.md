@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.GroupLevel
 ms.assetid: fc017652-bded-4655-03df-79cfa733b12e
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 

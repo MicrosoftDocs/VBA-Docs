@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.IncludeNewItemsInFilter
 ms.assetid: af77670a-a7ae-4797-6afb-1be17e611a99
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 

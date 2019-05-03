@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.AutoShowType
 ms.assetid: a8146e5c-b1b4-7ff4-d2d7-bc98b863681d
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 

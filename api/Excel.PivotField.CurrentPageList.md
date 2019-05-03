@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.CurrentPageList
 ms.assetid: 3efde5a2-4cf3-b95d-e7ba-65ea8e184e64
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 

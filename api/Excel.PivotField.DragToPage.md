@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.DragToPage
 ms.assetid: 3bca0805-8f9f-099a-cd9f-3621025654e5
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 

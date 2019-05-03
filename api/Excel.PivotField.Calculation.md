@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.Calculation
 ms.assetid: abdf0109-da46-1cf6-6f09-c4ba7a3baebd
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 

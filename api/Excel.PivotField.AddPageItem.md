@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.AddPageItem
 ms.assetid: c7f63c9f-9ad2-fcd9-13de-e9e46c40b8dc
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 

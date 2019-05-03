@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.LayoutCompactRow
 ms.assetid: f4969f85-9278-517f-f367-b0d58b3daafb
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 
