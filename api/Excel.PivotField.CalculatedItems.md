@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.CalculatedItems
 ms.assetid: 89818448-9a1e-0dcd-5e0f-479bf051d590
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 
 
 # PivotField.CalculatedItems method (Excel)
 
-Returns a  **[CalculatedItems](Excel.CalculatedItems.md)** collection that represents all the calculated items in the specified PivotTable report. Read-only.
+Returns a **[CalculatedItems](Excel.CalculatedItems.md)** collection that represents all the calculated items in the specified PivotTable report. Read-only.
 
 
 ## Syntax
@@ -38,7 +38,6 @@ For OLAP data sources, this method returns a zero-length collection.
 
 This example creates a list of calculated items and their formulas.
 
-
 ```vb
 Set pt = Worksheets(1).PivotTables(1) 
 For Each ci In pt.PivotFields("Sales").CalculatedItems 
@@ -51,9 +50,6 @@ Next
 ```
 
 
-## See also
 
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

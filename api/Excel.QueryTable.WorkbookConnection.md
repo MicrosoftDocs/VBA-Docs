@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # QueryTable.WorkbookConnection property (Excel)
 
-Returns the  **[WorkbookConnection](Excel.WorkbookConnection.md)** object that the query table uses. Read-only.
+Returns the **[WorkbookConnection](Excel.WorkbookConnection.md)** object that the query table uses. Read-only.
 
 
 ## Syntax
@@ -28,14 +28,10 @@ _expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** 
 
 If you import data by using the user interface, data from a web query or a text query is imported as a **QueryTable** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data by using the object model, data from a web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
+If you import data by using the object model, data from a web query or a text query must be imported as a **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
-The  **WorkbookConnection** property applies only to **QueryTable** objects.
-
-
-## See also
+The **WorkbookConnection** property applies only to **QueryTable** objects.
 
 
-[QueryTable Object](Excel.QueryTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

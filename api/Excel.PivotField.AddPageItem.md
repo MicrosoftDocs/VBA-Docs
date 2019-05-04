@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.AddPageItem
 ms.assetid: c7f63c9f-9ad2-fcd9-13de-e9e46c40b8dc
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 
@@ -19,29 +19,26 @@ Adds an additional item to a multiple item page field.
 
 ## Syntax
 
-_expression_. `AddPageItem`( `_Item_` , `_ClearList_` )
+_expression_.**AddPageItem** (_Item_, _ClearList_)
 
 _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Item_|Required| **String**| Source name of a **PivotItem** object, corresponding to the specific Online Analytical Processing (OLAP) member unique name.|
-| _ClearList_|Optional| **Variant**|If  **False** (default), adds a page item to the existing list. If **True**, deletes all current items and adds _Item_.|
+| _Item_|Required| **String**| Source name of a **[PivotItem](excel.pivotitem.md)** object, corresponding to the specific Online Analytical Processing (OLAP) member unique name.|
+| _ClearList_|Optional| **Variant**|If **False** (default), adds a page item to the existing list. If **True**, deletes all current items and adds _Item_.|
 
 ## Remarks
 
-To avoid run-time errors, the data source must be an OLAP source, the field chosen must currently be in the page position, and the  **[EnableMultiplePageItems](Excel.PivotField.EnableMultiplePageItems.md)** property must be set to **True**.
+To avoid run-time errors, the data source must be an OLAP source, the field chosen must currently be in the page position, and the **[EnableMultiplePageItems](Excel.PivotField.EnableMultiplePageItems.md)** property must be set to **True**.
 
 
 ## Example
 
-In this example, Microsoft Excel adds a page item with a source name titled "[Product].[All Products].[Food].[Eggs]". This example assumes an OLAP PivotTable exists on the active worksheet.
-
+In this example, Microsoft Excel adds a page item with a source name titled "[Product].[All Products].[Food].[Eggs]". This example assumes that an OLAP PivotTable exists on the active worksheet.
 
 ```vb
 Sub UseAddPageItem() 
@@ -58,9 +55,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

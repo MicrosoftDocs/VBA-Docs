@@ -14,40 +14,32 @@ localization_priority: Normal
 
 # QueryTable.TextFilePlatform property (Excel)
 
-Returns or sets the origin of the text file you are importing into the query table. This property determines which code page is used during the data import. Read/write  **[XlPlatform](Excel.XlPlatform.md)**.
+Returns or sets the origin of the text file that you are importing into the query table. This property determines which code page is used during the data import. Read/write **[XlPlatform](Excel.XlPlatform.md)**.
 
 
 ## Syntax
 
-_expression_. `TextFilePlatform`
+_expression_.**TextFilePlatform**
 
 _expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
 
 ## Remarks
 
-The default value is the current setting of the  **File Origin** option in the **Text File Import Wizard**.
+The default value is the current setting of the **File Origin** option in the **Text File Import Wizard**.
 
-
-
-| **xlPlatform** can be one of these **xlPlatform** constants.|
-| **xlMacintosh**|
-| **xlMSDOS**|
-| **xlWindows**|
-
-Use this property only when your query table is based on data from a text file (with the  **[QueryType](Excel.QueryTable.QueryType.md)** property set to **xlTextImport**).
+Use this property only when your query table is based on data from a text file (with the **[QueryType](Excel.QueryTable.QueryType.md)** property set to **xlTextImport**).
 
 If you import data by using the user interface, data from a web query or a text query is imported as a **QueryTable** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data by using the object model, data from a web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
+If you import data by using the object model, data from a web query or a text query must be imported as a **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
-The  **TextFilePlatform** property applies only to **QueryTable** objects.
+The **TextFilePlatform** property applies only to **QueryTable** objects.
 
 
 ## Example
 
 This example imports an MS-DOS text file into the query table on the first worksheet in the first workbook, and then it refreshes the query table.
-
 
 ```vb
 Set shFirstQtr = Workbooks(1).Worksheets(1) 
@@ -63,9 +55,6 @@ End With
 ```
 
 
-## See also
 
-
-[QueryTable Object](Excel.QueryTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

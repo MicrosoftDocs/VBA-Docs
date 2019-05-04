@@ -14,25 +14,23 @@ localization_priority: Normal
 
 # QueryTable.TextFileThousandsSeparator property (Excel)
 
-Returns or sets the thousands separator character thatMicrosoft Excel uses when you import a text file into a query table. The default is the system thousands separator character. Read/write  **String**.
+Returns or sets the thousands separator character that Microsoft Excel uses when you import a text file into a query table. The default is the system thousands separator character. Read/write **String**.
 
 
 ## Syntax
 
-_expression_. `TextFileThousandsSeparator`
+_expression_.**TextFileThousandsSeparator**
 
 _expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** object.
 
 
 ## Remarks
 
-Use this property only when your query table is based on data from a text file (with the  **[QueryTable](Excel.QueryTable.md)** property set to **xlTextImport**), especially when the file contains decimal and thousands separators that are different from those used on the computer, due to a different language setting being used.
+Use this property only when your query table is based on data from a text file (with the **[QueryType](Excel.QueryTable.QueryType.md)** property set to **xlTextImport**) when the file contains decimal and thousands separators that are different from those used on the computer due to a different language setting being used.
 
-The following table shows the results when you import text into Microsoft Excel using various separators. Numeric results are displayed in the rightmost column.
+The following table shows the results when you import text into Microsoft Excel by using various separators. Numeric results are displayed in the rightmost column.
 
-
-
-|**System decimal separator**|**System thousands separator**|**TextFileDecimalSeparator value**|**TextFileThousandsSeparator value**|**Text imported**|**Cell value (data type)**|
+|System decimal separator|System thousands separator|TextFileDecimalSeparator value|TextFileThousandsSeparator value|Text imported|Cell value (data type)|
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |Period|Comma|Comma|Period|123.123,45|123,123.45 (numeric)|
 |Period|Comma|Comma|Comma|123.123,45|123.123,45 (text)|
@@ -42,15 +40,14 @@ The following table shows the results when you import text into Microsoft Excel 
 
 If you import data by using the user interface, data from a web query or a text query is imported as a **QueryTable** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data by using the object model, data from a web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
+If you import data by using the object model, data from a web query or a text query must be imported as a **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
-The  **TextFileThousandsSeparator** property applies only to **QueryTable** objects.
+The **TextFileThousandsSeparator** property applies only to **QueryTable** objects.
 
 
 ## Example
 
 This example saves the original thousands separator and sets it to a period for the first query table on Sheet1, in preparation for importing a French text file (for example) into the U.S. English version of Microsoft Excel.
-
 
 ```vb
 strDecSep = Worksheets("Sheet1").QueryTables(1) _ 
@@ -60,9 +57,5 @@ Worksheets("Sheet1").QueryTables(1) _
 ```
 
 
-## See also
-
-
-[QueryTable Object](Excel.QueryTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

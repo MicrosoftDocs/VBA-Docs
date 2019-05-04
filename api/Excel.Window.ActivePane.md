@@ -33,7 +33,7 @@ This property returns a  **Pane** object. You must use the **[Index](Excel.Pane.
 
 ## Example
 
-This example activates the next pane of the active window in Book1.xls. You cannot activate the next pane if the panes are frozen. The example must be run from a workbook other than Book1.xls. Before running the example, make sure that Book1.xls has either two or four panes in the active worksheet.
+This example activates the next pane of the active window in Book1.xls. You cannot activate the next pane if the panes are frozen. The example must be run from a workbook other than Book1.xls. Before running the example, make sure that Book1.xls has either two or four panes on the active worksheet.
 
 
 ```vb

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.AutoSortCustomSubtotal
 ms.assetid: 9f930467-25ca-bf09-da3e-da7d3c9e6b70
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 
@@ -19,17 +19,17 @@ Returns the name of the custom subtotal used to sort the specified PivotTable fi
 
 ## Syntax
 
-_expression_. `AutoSortCustomSubtotal`
+_expression_.**AutoSortCustomSubtotal**
 
 _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
 
-The default value is 1 (Automatic). When the  **AutoSortCustomSubtotal** property is set to 1 (Automatic), the data is sorted by the regular subtotals. The **AutoSortCustomSubtotal** property can have one of the index values listed in the following table.
+The default value is 1 (Automatic). When the **AutoSortCustomSubtotal** property is set to 1 (Automatic), the data is sorted by the regular subtotals. The **AutoSortCustomSubtotal** property can have one of the index values listed in the following table.
 
-
-
+|Index value|Description|
+|:----------|:----------|
 |1|Automatic|
 |2|Sum|
 |3|Count|
@@ -43,14 +43,11 @@ The default value is 1 (Automatic). When the  **AutoSortCustomSubtotal** propert
 |11|Var|
 |12|Varp|
 
-Sorting is supported only by custom subtotals that are actually displayed in the PivotTable, so trying to set  **AutoSortCustomSubtotal** to a value representing a custom subtotal not in the PivotTable view will return a run-time error.
+Sorting is supported only by custom subtotals that are actually displayed in the PivotTable, so trying to set **AutoSortCustomSubtotal** to a value representing a custom subtotal not in the PivotTable view will return a run-time error.
 
-If sorting is applied based on a custom subtotal, and that subtotal is removed from the PivotTable, the  **AutoSortCustomSubtotal** property will automatically be set to the default value (1).
-
-
-## See also
+If sorting is applied based on a custom subtotal, and that subtotal is removed from the PivotTable, the **AutoSortCustomSubtotal** property will automatically be set to the default value (1).
 
 
-[PivotField Object](Excel.PivotField.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

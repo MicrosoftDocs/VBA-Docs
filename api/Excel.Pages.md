@@ -19,7 +19,7 @@ A collection of pages in a document. Use the **Pages** collection and the relate
 
 ## Remarks
 
-Use the **[Pages](excel.pagesetup.pages.md)** property of the **PageSetup** object to return a **Pages** collection. The following example accesses all pages in the active worksheet.
+Use the **[Pages](excel.pagesetup.pages.md)** property of the **PageSetup** object to return a **Pages** collection. The following example accesses all pages on the active worksheet.
 
 ```vb
 Dim objPages As Pages 
@@ -30,7 +30,7 @@ Set objPage = ActiveWorksheet. _
 
 <br/>
 
-Use the **Item** method to access an individual **Page** object that represents an individual page in a worksheet. The following example accesses the first page in the active worksheet.
+Use the **Item** method to access an individual **Page** object that represents an individual page in a worksheet. The following example accesses the first page on the active worksheet.
 
 ```vb
 Dim objPage As Page 

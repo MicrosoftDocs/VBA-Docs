@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotCell.Parent
 ms.assetid: f2c0da6f-52ca-d6b2-26bf-d3c3f315160c
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[PivotCell](Excel.PivotCell.md)** object.
 
 
-## See also
 
-
-[PivotCell Object](Excel.PivotCell.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

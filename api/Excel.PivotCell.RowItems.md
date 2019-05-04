@@ -7,27 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.PivotCell.RowItems
 ms.assetid: 4833f772-9abd-a2fa-e3f0-e86f54caf05e
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 
 
 # PivotCell.RowItems property (Excel)
 
-Returns a  **[PivotItemList](Excel.PivotItemList.md)** collection that corresponds to the items on the category axis that represent the selected cell.
+Returns a **[PivotItemList](Excel.PivotItemList.md)** collection that corresponds to the items on the category axis that represent the selected cell.
 
 
 ## Syntax
 
-_expression_. `RowItems`
+_expression_.**RowItems**
 
 _expression_ A variable that represents a **[PivotCell](Excel.PivotCell.md)** object.
 
 
 ## Example
 
-This example determines if the data item in cell B5 is under the Inventory item in the first row field and notifies the user. The example assumes a PivotTable exists on the active worksheet and that column B of the worksheet contains a row item of the PivotTable.
-
+This example determines if the data item in cell B5 is under the Inventory item in the first row field and notifies the user. The example assumes that a PivotTable exists on the active worksheet, and that column B of the worksheet contains a row item of the PivotTable.
 
 ```vb
 Sub CheckRowItems() 
@@ -43,9 +42,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[PivotCell Object](Excel.PivotCell.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

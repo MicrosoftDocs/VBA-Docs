@@ -7,32 +7,31 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.HiddenItemsList
 ms.assetid: 279eeb80-75cd-c758-98b5-668754417482
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 
 
 # PivotField.HiddenItemsList property (Excel)
 
-Returns or sets a  **Variant** specifying an array of strings that are hidden items for a PivotTable field. Read/write.
+Returns or sets a **Variant** specifying an array of strings that are hidden items for a PivotTable field. Read/write.
 
 
 ## Syntax
 
-_expression_. `HiddenItemsList`
+_expression_.**HiddenItemsList**
 
 _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
 
-The  **HiddenItemsList** property is only valid for Online Analytical Processing (OLAP) data sources; using this property on non-OLAP data sources will return a run-time error.
+The **HiddenItemsList** property is only valid for Online Analytical Processing (OLAP) data sources; using this property on non-OLAP data sources will return a run-time error.
 
 
 ## Example
 
-The example sets the item list so that only certain items are displayed. It assumes an OLAP PivotTable exists on the active worksheet.
-
+The example sets the item list so that only certain items are displayed. It assumes that an OLAP PivotTable exists on the active worksheet.
 
 ```vb
 Sub UseHiddenItemsList() 
@@ -45,9 +44,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

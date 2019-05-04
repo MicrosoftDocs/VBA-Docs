@@ -7,32 +7,31 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.EnableItemSelection
 ms.assetid: ae55f88a-618f-3063-2019-a993a3146b67
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 
 
 # PivotField.EnableItemSelection property (Excel)
 
-When set to  **False**, disables the ability to use the field dropdown in the user interface. The default value is **True**. Read/write **Boolean**.
+When set to **False**, disables the ability to use the field dropdown in the user interface. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `EnableItemSelection`
+_expression_.**EnableItemSelection**
 
 _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
 
-A run-time error will occur if the OLAP PivotTable field is not the highest level for the hierarchy.
+A run-time error occurs if the OLAP PivotTable field is not the highest level for the hierarchy.
 
 
 ## Example
 
-This example determines the setting for selecting items using the field dropdown and enables the feature, if necessary. The example assumes a PivotTable exists on the active worksheet.
-
+This example determines the setting for selecting items by using the field dropdown and enables the feature, if necessary. The example assumes that a PivotTable exists on the active worksheet.
 
 ```vb
 Sub UseEnableItemSelection() 
@@ -55,9 +54,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

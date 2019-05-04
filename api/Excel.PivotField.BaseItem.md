@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.BaseItem
 ms.assetid: 11561507-043a-2b64-1b60-3cdbd93a656c
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 
 
 # PivotField.BaseItem property (Excel)
 
-Returns or sets the item in the base field for a custom calculation. Valid only for data fields. Read/write  **Variant**.
+Returns or sets the item in the base field for a custom calculation. Valid only for data fields. Read/write **Variant**.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ This property is not available for OLAP data sources.
 
 ## Example
 
-This example sets the data field in the PivotTable report on Sheet1 to calculate the difference from the base field, sets the base field to the field named "ORDER_DATE," and then sets the base item to the item named "5/16/89."
-
+This example sets the data field in the PivotTable report on Sheet1 to calculate the difference from the base field, sets the base field to the field named ORDER_DATE, and then sets the base item to the item named 5/16/89.
 
 ```vb
 With Worksheets("Sheet1").Range("A3").PivotField 
@@ -43,9 +42,6 @@ End With
 ```
 
 
-## See also
 
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

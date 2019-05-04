@@ -7,27 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.AutoShowCount
 ms.assetid: bbf7d754-04b3-d729-cf44-994fdc62db16
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 
 
 # PivotField.AutoShowCount property (Excel)
 
-Returns the number of top or bottom items that are automatically shown in the specified PivotTable field. Read-only  **Long**.
+Returns the number of top or bottom items that are automatically shown in the specified PivotTable field. Read-only **Long**.
 
 
 ## Syntax
 
-_expression_. `AutoShowCount`
+_expression_.**AutoShowCount**
 
 _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Example
 
-This example displays a message box showing the  **AutoShow** parameters for the Salesman field.
-
+This example displays a message box showing the **AutoShow** parameters for the Salesman field.
 
 ```vb
 With Worksheets(1).PivotTables(1).PivotFields("salesman") 
@@ -48,9 +47,5 @@ End With
 ```
 
 
-## See also
-
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

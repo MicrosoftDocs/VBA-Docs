@@ -29,7 +29,7 @@ Use the **[DifferentFirstPageHeaderFooter](excel.pagesetup.differentfirstpagehea
 
 ## Example
 
-The following example adds the date and time to the center header in the active worksheet.
+The following example adds the date and time to the center header on the active worksheet.
 
 ```vb
 With ActiveSheet.PageSetup 

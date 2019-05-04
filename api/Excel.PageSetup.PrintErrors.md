@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** ob
 
 ## Example
 
-In this example, Microsoft Excel uses a formula that returns an error in the active worksheet. The **PrintErrors** property is set to display dashes. A Print Preview window displays the dashes for the print error. This example assumes that a printer driver has been installed.
+In this example, Microsoft Excel uses a formula that returns an error on the active worksheet. The **PrintErrors** property is set to display dashes. A Print Preview window displays the dashes for the print error. This example assumes that a printer driver has been installed.
 
 ```vb
 Sub UsePrintErrors() 

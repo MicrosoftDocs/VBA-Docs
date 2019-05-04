@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.LabelRange
 ms.assetid: be06bf39-d970-316e-6833-65efde85ddc8
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 
 
 # PivotField.LabelRange property (Excel)
 
-Returns a  **[Range](Excel.Range(object).md)** object that represents the cell (or cells) that contain the field label. Read-only
+Returns a **[Range](Excel.Range(object).md)** object that represents the cell (or cells) that contain the field label. Read-only.
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** 
 
 ## Example
 
-This example selects the field button for the field named "ORDER_DATE."
-
+This example selects the field button for the field named ORDER_DATE.
 
 ```vb
 Set pvtTable = Worksheets("Sheet1").Range("A3").PivotTable 
@@ -37,9 +36,6 @@ pvtField.LabelRange.Select
 ```
 
 
-## See also
 
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** 
 
 ## Remarks
 
-The  **ChangePivotCache** method can only be used with a **PivotTable** that uses data stored on a worksheet as its data source. A run-time error will occur if the **ChangePivotCache** method is used with a **PivotTable** that is connected to an external data source.
+The  **ChangePivotCache** method can only be used with a **PivotTable** that uses data stored on a worksheet as its data source. A run-time error occurs if the **ChangePivotCache** method is used with a **PivotTable** that is connected to an external data source.
 
 
 ## See also

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.GroupLevel
 ms.assetid: fc017652-bded-4655-03df-79cfa733b12e
-ms.date: 06/08/2017
+ms.date: 05/04/2019
 localization_priority: Normal
 ---
 
@@ -35,7 +35,6 @@ The highest-level parent field (leftmost parent field) is level one, its child i
 
 This example displays a message box if the field that contains the active cell is the highest-level parent field.
 
-
 ```vb
 Worksheets("Sheet1").Activate 
 If ActiveCell.PivotField.GroupLevel = 1 Then 
@@ -44,9 +43,6 @@ End If
 ```
 
 
-## See also
 
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,7 +31,7 @@ The  **PivotSelectionStandard** property is "international-friendly" whereas the
 
 ## Example
 
-This example selects a field titled "1.57" in the PivotTable and inserts a blank column field before it. The example assumes a PivotTable exists on the active worksheet that contains a column field titled "1.57".
+This example selects a field titled "1.57" in the PivotTable and inserts a blank column field before it. The example assumes that a PivotTable exists on the active worksheet that contains a column field titled "1.57".
 
 
 ```vb

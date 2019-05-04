@@ -33,7 +33,7 @@ The value for this property must be a number from 0.0 (dimmest) to 1.0 (brightes
 
 ## Example
 
-The following code example sets the brightness of the fill color for the first shape in the active worksheet.
+The following code example sets the brightness of the fill color for the first shape on the active worksheet.
 
 ```vb
 ActiveSheet.Shapes(1).Fill.ForeColor.Brightness = 0.5
