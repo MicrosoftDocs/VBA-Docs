@@ -23,7 +23,7 @@ The following table compares the five sets of data types that correspond to each
 - The fifth column lists the corresponding Jet database engine SQL data types defined by the Access database engine along with their valid synonyms.
 
 
-|**Table fields**|**Query parameters**|**Visual Basic**|**ADO Data Type property constants**|**Access database engine SQL and synonyms**|
+|Table fields|Query parameters|Visual Basic|ADO Data Type property constants|Access database engine SQL and synonyms|
 |:-----|:-----|:-----|:-----|:-----|
 | _Not supported_|Binary| _Not supported_|**adBinary**|<p>BINARY (See Notes)</p><p>(Synonym: VARBINARY)</p>|
 |Yes/No|Yes/No|**Boolean**|**adBoolean**|<p>BOOLEAN</p><p>(Synonyms: BIT, LOGICAL, LOGICAL1, YESNO)</p>|

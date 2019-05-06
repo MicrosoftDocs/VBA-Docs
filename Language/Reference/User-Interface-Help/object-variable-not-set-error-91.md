@@ -16,7 +16,7 @@ There are two steps to creating an [object variable](../../Glossary/vbe-glossary
 
 - You attempted to use an object variable that isn't yet referencing a valid object.
     
-  Specify or respecify a reference for the object variable. For example, if the **Set** statement is omitted in the following code, an error would be generated on the reference to `MyObject`:
+  Specify or respecify a reference for the object variable. For example, if the **Set** statement is omitted in the following code, an error would be generated on the reference to _MyObject_:
     
   ```vb
     Dim MyObject As Object    ' Create object variable. 

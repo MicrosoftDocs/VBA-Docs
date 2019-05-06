@@ -47,7 +47,7 @@ You can't use the **For...Each...Next** statement with an array of user-defined 
 
 ## Example
 
-This example uses the **For Each...Next** statement to search the **Text** property of all elements in a collection for the existence of the string "Hello". In the example, `MyObject` is a text-related object and is an element of the collection `MyCollection`. Both are generic names used for illustration purposes only.
+This example uses the **For Each...Next** statement to search the **Text** property of all elements in a collection for the existence of the string "Hello". In the example, _MyObject_ is a text-related object and is an element of the collection _MyCollection_. Both are generic names used for illustration purposes only.
 
 
 ```vb

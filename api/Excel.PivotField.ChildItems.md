@@ -37,7 +37,7 @@ This property is not available for OLAP data sources.
 
 ## Example
 
-This example adds the names of all the child items of the item named "vegetables" to a list on a new worksheet.
+This example adds the names of all the child items of the item named Vegetables to a list on a new worksheet.
 
 ```vb
 Set nwSheet = Worksheets.Add 

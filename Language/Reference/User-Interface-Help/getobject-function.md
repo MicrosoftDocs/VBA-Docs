@@ -65,7 +65,7 @@ Set MyObject = GetObject("C:\DRAWINGS\SAMPLE.DRW", "FIGMENT.DRAWING")
 ```
 
 In the example, `FIGMENT` is the name of a drawing application and `DRAWING` is one of the object types it supports.
-After an object is activated, you reference it in code by using the object variable you defined. In the preceding example, you access [properties](../../Glossary/vbe-glossary.md#property) and [methods](../../Glossary/vbe-glossary.md#method) of the new object by using the object variable `MyObject`. For example:
+After an object is activated, you reference it in code by using the object variable you defined. In the preceding example, you access [properties](../../Glossary/vbe-glossary.md#property) and [methods](../../Glossary/vbe-glossary.md#method) of the new object by using the object variable _MyObject_. For example:
 
 ```vb
 MyObject.Line 9, 90

@@ -33,7 +33,7 @@ The required _identifier_ [argument](../../Glossary/vbe-glossary.md#argument) is
 
 ## Example
 
-This example uses the **IsObject** function to determine if an identifier represents an object variable. `MyObject` and `YourObject` are object variables of the same type. They are generic names used for illustration purposes only.
+This example uses the **IsObject** function to determine if an identifier represents an object variable. _MyObject_ and _YourObject_ are object variables of the same type. They are generic names used for illustration purposes only.
 
 
 ```vb
