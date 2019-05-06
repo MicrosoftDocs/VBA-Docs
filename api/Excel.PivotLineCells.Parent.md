@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotLineCells.Parent
 ms.assetid: a7a710b8-c80b-33fe-4bb1-fca15adbbb1a
-ms.date: 06/08/2017
+ms.date: 05/07/2019
 localization_priority: Normal
 ---
 
 
 # PivotLineCells.Parent property (Excel)
 
-Returns the parent object for the specified  **PivotLineCells** object. Read-only.
+Returns the parent object for the specified **PivotLineCells** object. Read-only.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[PivotLineCells](Excel.PivotLineCells.md)** object.
 
 
-## See also
 
-
-[PivotLineCells Object](Excel.PivotLineCells.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
