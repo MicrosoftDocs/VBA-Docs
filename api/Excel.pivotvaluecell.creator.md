@@ -5,14 +5,14 @@ f1_keywords:
 - vbaxl10.chm917074
 ms.prod: excel
 ms.assetid: 85b4c0bf-3654-af39-413e-8c22c00626f3
-ms.date: 06/08/2017
+ms.date: 05/07/2019
 localization_priority: Normal
 ---
 
 
 # PivotValueCell.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only **Long**.
 
 
 ## Syntax
@@ -27,10 +27,14 @@ _expression_ A variable that represents a **[PivotValueCell](Excel.pivotvaluecel
 Because the object was created in Microsoft Excel, this property returns the hexadecimal value, 5843454C, which represents the string XCEL.
 
 
+## Property value
+
+**XLCREATOR**
+
+
 ## Example
 
-The following code uses the  **Creator** property to check whether the specified object is an Excel object.
-
+The following code uses the **Creator** property to check whether the specified object is an Excel object.
 
 ```vb
 Sub FindCreator() 
@@ -45,15 +49,5 @@ End Sub
 ```
 
 
-## Property value
-
- **XLCREATOR**
-
-
-## See also
-
-
-
-[PivotValueCell Object](Excel.pivotvaluecell.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
