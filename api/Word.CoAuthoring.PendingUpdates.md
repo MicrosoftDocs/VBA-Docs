@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CoAuthoring.PendingUpdates property (Word)
 
-Returns  **true** if the document has pending updates that have not been accepted. Read-only.
+Returns  **True** if the document has pending updates that have not been accepted. Read-only.
 
 
 ## Syntax

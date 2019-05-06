@@ -56,7 +56,7 @@ End Function
 
 The **Seek** method always starts searching for records at the beginning of the **Recordset** object. If you use the **Seek** method with the same arguments more than once on the same **Recordset**, it finds the same record.
 
-You can use the **[NoMatch](../../../api/overview/Access.md)** property on the **Recordset** object to test whether a record matching the search criteria was found. If the record matching the criteria was found, the **NoMatch** property will be **False**; otherwise it will be **True**.
+You can use the **[NoMatch](../../../api/overview/Access.md)** property on the **Recordset** object to test whether a record matching the search criteria was found. If the record matching the criteria was found, the **NoMatch** property will be **False**; otherwise, it will be **True**.
 
 The following code example shows how you can create a function that uses the **Seek** method to locate a record by using a multiple-field index.
 

@@ -31,7 +31,7 @@ _expression_. `ProjectMove`( `_Date_`, `_MoveDeadline_` )
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Date_|Optional|**Variant**|Specifies the new project start date.|
-| _MoveDeadline_|Optional|**Boolean**|**True** if deadlines are also moved; otherwise **false**. The default is **true**.|
+| _MoveDeadline_|Optional|**Boolean**|**True** if deadlines are also moved; otherwise, **False**. The default is **True**.|
 
 ## Return value
 

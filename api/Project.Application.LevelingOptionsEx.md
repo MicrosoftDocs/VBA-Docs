@@ -38,7 +38,7 @@ _expression_. `LevelingOptionsEx`( `_Automatic_`, `_DelayInSlack_`, `_AutoClearL
 | _FromDate_|Optional|**Variant**|The starting date of a range within which overallocated resources are leveled. The  _FromDate_ argument is ignored if _LevelEntireProject_ is **True**.|
 | _ToDate_|Optional|**Variant**|The ending date of a range within which overallocated resources are leveled. The  _ToDate_ argument is ignored if _LevelEntireProject_ is **True**.|
 | _PeriodBasis_|Optional|**Integer**|Specifies how often Project should look for overallocated resources. Can be one of the  **[PjLevelPeriodBasis](Project.PjLevelPeriodBasis.md)** constants. The default value is **pjDayByDay**.|
-| _LevelIndividualAssignments_|Optional|**Boolean**|**True** if leveling can adjust individual assignments on a task; otherwise, **false**. The default value is **True**.|
+| _LevelIndividualAssignments_|Optional|**Boolean**|**True** if leveling can adjust individual assignments on a task; otherwise, **False**. The default value is **True**.|
 | _LevelingCanSplit_|Optional|**Boolean**|**True** if leveling can create splits in remaining work; otherwise, **False**. The default value is **True**.|
 | _LevelProposedBookings_|Optional|**Boolean**|**True** if leveling includes proposed resource bookings; otherwise, **False**. The default value is **False**.|
 | _LevelPinnedTasks_|Optional|**Boolean**|**True** if manually scheduled tasks are leveled; otherwise, **False**. The default value is **False**.|

@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.ParentItems
 ms.assetid: 361db264-aa5a-9547-5405-41203fe3df0a
-ms.date: 06/08/2017
+ms.date: 05/07/2019
 localization_priority: Normal
 ---
 
 
 # PivotField.ParentItems property (Excel)
 
-Returns an object that represents either a single PivotTable item (a  **[PivotItem](Excel.PivotItem.md)** object) or a collection of all the items (a **[PivotItems](Excel.PivotItems.md)** object) that are group parents in the specified field. The specified field must be a group parent of another field. Read-only.
+Returns an object that represents either a single PivotTable item (a **[PivotItem](Excel.PivotItem.md)** object) or a collection of all the items (a **[PivotItems](Excel.PivotItems.md)** object) that are group parents in the specified field. The specified field must be a group parent of another field. Read-only.
 
 
 ## Syntax
@@ -25,8 +25,6 @@ _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** 
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -39,7 +37,7 @@ This property isn't available for OLAP data sources.
 
 ## Example
 
-This example creates a list containing the names of all the items that are group parents in the field named "product".
+This example creates a list containing the names of all the items that are group parents in the field named Product.
 
 
 ```vb
@@ -54,9 +52,6 @@ Next pvtItem
 ```
 
 
-## See also
 
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

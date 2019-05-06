@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[SpellingOptions](Excel.SpellingOptio
 
 ## Remarks
 
- **True** if the spelling checker uses rules to flag Arabic words ending with haa instead of taa marboota; otherwise **False**.
+ **True** if the spelling checker uses rules to flag Arabic words ending with haa instead of taa marboota; otherwise, **False**.
 
 
 ## See also

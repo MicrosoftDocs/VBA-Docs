@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.EnterpriseTeamMember method (Project)
 
-Indicates whether the resource belongs to the project.  **True** if the resource is a member of the team for the specified project; otherwise **False**. Available in Project Professional only.
+Indicates whether the resource belongs to the project.  **True** if the resource is a member of the team for the specified project; otherwise, **False**. Available in Project Professional only.
 
 
 ## Syntax

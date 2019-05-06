@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[LineFormat](Excel.LineFormat.md)** 
 
 ## Remarks
 
-**msoTrue** (-1) if lines are drawn inside the shape's boundaries; otherwise **msoFalse** (0).
+**msoTrue** (-1) if lines are drawn inside the shape's boundaries; otherwise, **msoFalse** (0).
 
 
 ## Example

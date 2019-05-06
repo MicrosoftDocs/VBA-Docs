@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' 
 
 ## Remarks
 
-Return  **True** if the cell (tuple) is currently visible in the PivotTable report; otherwise **False**.
+Return  **True** if the cell (tuple) is currently visible in the PivotTable report; otherwise, **False**.
 
 
 ## See also

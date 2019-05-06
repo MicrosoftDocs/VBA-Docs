@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** 
 
 ## Remarks
 
- **True** if calculated members are evaluated in filters; otherwise **False**.
+ **True** if calculated members are evaluated in filters; otherwise, **False**.
 
 The value of this property corresponds to the setting of the  **Evaluate calculated members from OLAP servers in filters** check box on the **Totals & Filters** tab of the **PivotTable Options** dialog box for a PivotTable report based on an OLAP data source.
 

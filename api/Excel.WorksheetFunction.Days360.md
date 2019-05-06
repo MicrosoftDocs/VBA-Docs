@@ -48,7 +48,7 @@ The following tables contains the values for  _Arg3_ .
 
 |**Method**|**Defined**|
 |:-----|:-----|
-|FALSE or omitted|U.S. (NASD) method. If the starting date is the 31st of a month, it becomes equal to the 30th of the same month. If the ending date is the 31st of a month and the starting date is earlier than the 30th of a month, the ending date becomes equal to the 1st of the next month; otherwise the ending date becomes equal to the 30th of the same month.|
+|FALSE or omitted|U.S. (NASD) method. If the starting date is the 31st of a month, it becomes equal to the 30th of the same month. If the ending date is the 31st of a month and the starting date is earlier than the 30th of a month, the ending date becomes equal to the 1st of the next month; otherwise, the ending date becomes equal to the 30th of the same month.|
 |TRUE|European method. Starting dates and ending dates that occur on the 31st of a month become equal to the 30th of the same month.|
 
  **Caution**  When you use the DAYS360 function to calculate the number of days between two dates, an unexpected value is returned. For example, when you use the DAYS360 function with a start date of February 28 and with an end date of March 28, a value of 28 days is returned. You expect a value of 30 days to be returned for every full month.To work around this behavior, use the following formula: =DAYS360(start_date,end_date,IF(method=TRUE,TRUE,IF(AND(method=FALSE,MONTH(start_date)=2,DAY(start_date)>=28,MONTH(end_date)=2,DAY(end_date)>=28),TRUE,FALSE)))

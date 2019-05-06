@@ -31,7 +31,7 @@ _expression_. `IncludeAttachments`
 
 ## Remarks
 
-This property must be set to  **false** if the **[CalendarDetail](Outlook.CalendarSharing.CalendarDetail.md)** property of the **CalendarSharing** object is set to **olFreeBusyOnly** or **olFreeBusyAndSubject**.
+This property must be set to  **False** if the **[CalendarDetail](Outlook.CalendarSharing.CalendarDetail.md)** property of the **CalendarSharing** object is set to **olFreeBusyOnly** or **olFreeBusyAndSubject**.
 
 
 ## See also
