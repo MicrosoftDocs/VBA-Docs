@@ -19,7 +19,7 @@ This property specifies the layout settings for PivotFields when they are added 
 
 ## Syntax
 
-_expression_. `LayoutRowDefault`
+_expression_.**LayoutRowDefault**
 
 _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 

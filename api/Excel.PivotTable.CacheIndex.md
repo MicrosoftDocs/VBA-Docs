@@ -19,7 +19,7 @@ Returns or sets the index number of the PivotTable cache. Read/write  **Long**.
 
 ## Syntax
 
-_expression_. `CacheIndex`
+_expression_.**CacheIndex**
 
 _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 

@@ -19,7 +19,7 @@ The  **ShowTableStyleRowHeaders** property is set to **True** if the row headers
 
 ## Syntax
 
-_expression_. `ShowTableStyleRowHeaders`
+_expression_.**ShowTableStyleRowHeaders**
 
 _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 

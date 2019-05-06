@@ -14,18 +14,19 @@ localization_priority: Normal
 
 # PivotTable.Summary property (Excel)
 
-Returns or sets the description associated with the alternative text string for the specified PivotTable. Read/write
+Returns or sets the description associated with the alternative text string for the specified PivotTable. Read/write.
 
 
 ## Syntax
 
-_expression_. `Summary`
+_expression_.**Summary**
 
 _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Remarks
 
-The value of the  **Summary** property corresponds to the value in the **Description** box on the **Alt Text** tab of the **PivotTable Options** dialog box.
+The value of the **Summary** property corresponds to the value in the **Description** box on the **Alt Text** tab of the **PivotTable Options** dialog box.
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
