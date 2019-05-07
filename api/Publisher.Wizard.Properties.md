@@ -21,7 +21,7 @@ Returns a  **[WizardProperties](Publisher.WizardProperties.md)** collection repr
 
 _expression_.**Properties**
 
- _expression_ A variable that represents a  **Wizard** object.
+_expression_ A variable that represents a  **Wizard** object.
 
 
 ## Return value

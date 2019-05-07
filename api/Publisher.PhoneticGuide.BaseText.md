@@ -21,7 +21,7 @@ Returns a  **String** that represents the text to which the specified phonetic t
 
 _expression_.**BaseText**
 
- _expression_ A variable that represents a  **PhoneticGuide** object.
+_expression_ A variable that represents a  **PhoneticGuide** object.
 
 
 ## Return value

@@ -18,7 +18,7 @@ Resets the  **WeekDay** item of a resource calendar to the value in the correspo
 
 _expression_. `Default`
 
- _expression_ A variable that represents a [WeekDay](./Project.WeekDay.md) object.
+_expression_ A variable that represents a [WeekDay](./Project.WeekDay.md) object.
 
 
 ## Remarks

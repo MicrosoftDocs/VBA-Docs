@@ -21,7 +21,7 @@ Specifies a document as the Start Page in Microsoft Internet Explorer.
 
 _expression_. `WebSetStartPage`( `_Address_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

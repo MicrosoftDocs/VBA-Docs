@@ -21,6 +21,6 @@ Gets or sets a value that indicates whether the project is a template. Read/writ
 
 _expression_. `IsTemplate`
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

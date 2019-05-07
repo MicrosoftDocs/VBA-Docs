@@ -21,7 +21,7 @@ Sets the formulas of one or more cells.
 
 _expression_. `SetFormulas`( `_SRCStream()_` , `_formulaArray()_` , `_Flags_` )
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters

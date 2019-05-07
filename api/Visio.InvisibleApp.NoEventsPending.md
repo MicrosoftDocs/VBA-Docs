@@ -18,7 +18,7 @@ Occurs after the Microsoft Visio instance flushes its event queue.
 
 Private Sub  _expression_ _'NoEventsPending'(**_ByVal app As [IVAPPLICATION]_**)
 
- _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ## Parameters

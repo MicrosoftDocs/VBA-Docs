@@ -21,7 +21,7 @@ Returns the parent of the  **[PageSizes](Publisher.PageSizes.md)** collection. R
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a  **PageSizes** collection.
+_expression_ A variable that represents a  **PageSizes** collection.
 
 
 ## Return value

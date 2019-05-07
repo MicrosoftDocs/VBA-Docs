@@ -21,7 +21,7 @@ Returns or sets a  **Variant** value representing the size, in [points](../langu
 
 _expression_.**SizeBi**
 
- _expression_ A variable that represents a  **Font** object.
+_expression_ A variable that represents a  **Font** object.
 
 
 ## Return value

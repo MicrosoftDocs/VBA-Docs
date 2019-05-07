@@ -18,7 +18,7 @@ Gets the name of a  **Group** object. Read/write **String**.
 
 _expression_.**Name**
 
- _expression_ A variable that represents a [Group](./Project.Group.md) object.
+_expression_ A variable that represents a [Group](./Project.Group.md) object.
 
 
 ## Remarks

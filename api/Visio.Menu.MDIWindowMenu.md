@@ -21,7 +21,7 @@ Determines whether this menu can be used by the MDI window manager to list the c
 
 _expression_. `MDIWindowMenu`
 
- _expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
+_expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
 
 
 ## Return value

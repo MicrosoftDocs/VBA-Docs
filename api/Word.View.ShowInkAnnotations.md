@@ -21,7 +21,7 @@ Returns or sets  **Boolean** that shows or hides handwritten ink annotations. **
 
 _expression_. `ShowInkAnnotations`
 
- _expression_ A variable that represents a '[View](Word.View.md)' object.
+_expression_ A variable that represents a '[View](Word.View.md)' object.
 
 
 ## Remarks

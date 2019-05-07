@@ -17,7 +17,7 @@ Returns or sets a Boolean; **True** if Microsoft Word identifies the document au
 
 _expression_. `UseLocalUserInfo`
 
- _expression_ A variable that represents a [Options](./Word.Options.md) object.
+_expression_ A variable that represents a [Options](./Word.Options.md) object.
  
 ## Remarks
 Corresponds to setting of the Always use these values regardless of sign in to Office check box on the General tab of the Word Options dialog box.

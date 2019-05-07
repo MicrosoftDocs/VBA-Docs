@@ -21,7 +21,7 @@ Returns or sets an  **MsoTriState** constant indicating whether the specified We
 
 _expression_.**PostFormData**
 
- _expression_ A variable that represents a  **WebCommandButton** object.
+_expression_ A variable that represents a  **WebCommandButton** object.
 
 
 ## Return value

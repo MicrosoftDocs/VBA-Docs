@@ -21,7 +21,7 @@ Returns a  **[ShapeNodes](Publisher.ShapeNodes.md)** collection that represents 
 
 _expression_.**Nodes**
 
- _expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a  **Shape** object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Occurs when a publication is opening.
 
 _expression_.**Open**
 
- _expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a  **Document** object.
 
 
 ## Remarks

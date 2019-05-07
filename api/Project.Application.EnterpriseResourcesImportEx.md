@@ -21,7 +21,7 @@ Imports local resources to the enterprise resource pool, or starts the  **Resour
 
 _expression_. `EnterpriseResourcesImportEx`( `_LocalRUIDs_`, `_UseImportColumn_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

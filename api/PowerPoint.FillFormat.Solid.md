@@ -21,7 +21,7 @@ Sets the specified fill to a uniform color. Use this method to convert a gradien
 
 _expression_.**Solid**
 
- _expression_ A variable that represents a **[FillFormat](powerpoint.fillformat.md)** object.
+_expression_ A variable that represents a **[FillFormat](powerpoint.fillformat.md)** object.
 
 
 ## Example

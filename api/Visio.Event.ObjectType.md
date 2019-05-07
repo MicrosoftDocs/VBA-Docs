@@ -21,7 +21,7 @@ Returns an object's type. Read-only.
 
 _expression_. `ObjectType`
 
- _expression_ A variable that represents an [Event](./Visio.Event.md) object.
+_expression_ A variable that represents an [Event](./Visio.Event.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Determines whether connectors are deleted when a shape to which they are connect
 
 _expression_. `DeleteConnectorsEnabled`
 
- _expression_ A variable that represents an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
+_expression_ A variable that represents an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 
 
 ## Return value

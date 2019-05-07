@@ -14,7 +14,7 @@ Selects each shape in a shape range.
 
 _expression_.**Select** _(Replace)_
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Parameters

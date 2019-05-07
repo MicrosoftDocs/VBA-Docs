@@ -18,6 +18,6 @@ Gets or sets the value of the  **Cost9** custom field for the resource. Read/wri
 
 _expression_. `Cost9`
 
- _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
+_expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

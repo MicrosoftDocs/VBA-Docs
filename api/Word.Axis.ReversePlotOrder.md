@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**ReversePlotOrder**
 
- _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
+_expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Remarks

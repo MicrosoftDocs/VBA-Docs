@@ -21,7 +21,7 @@ Specifies the font used for the header and footer text. Read/write.
 
 _expression_. `HeaderFooterFont`
 
- _expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ## Return value

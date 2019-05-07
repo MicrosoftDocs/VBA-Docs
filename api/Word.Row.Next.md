@@ -21,7 +21,7 @@ Returns a  **Row** object that represents the table row that is next in the coll
 
 _expression_.**Next**
 
- _expression_ A variable that represents a '[Row](Word.Row.md)' object.
+_expression_ A variable that represents a '[Row](Word.Row.md)' object.
 
 
 ## Example

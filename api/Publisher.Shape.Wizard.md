@@ -21,7 +21,7 @@ Returns a  **[Wizard](Publisher.Wizard.md)** object representing the publication
 
 _expression_.**Wizard**
 
- _expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a  **Shape** object.
 
 
 ## Remarks

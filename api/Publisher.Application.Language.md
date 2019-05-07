@@ -21,7 +21,7 @@ Returns a  **Long** that represents the language selected for the Microsoft Publ
 
 _expression_.**Language**
 
- _expression_ A variable that represents a  **Application** object.
+_expression_ A variable that represents a  **Application** object.
 
 
 ## Return value

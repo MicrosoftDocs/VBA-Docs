@@ -21,7 +21,7 @@ Returns a  **Single** indicating the height, in [points](../language/glossary/vb
 
 _expression_.**BoundHeight**
 
- _expression_ A variable that represents a  **TextRange** object.
+_expression_ A variable that represents a  **TextRange** object.
 
 
 ## Return value

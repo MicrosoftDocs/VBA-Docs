@@ -19,7 +19,7 @@ Returns the available members of the  **[BuildingBlocks](Publisher.BuildingBlock
 
 _expression_.**AvailableBuildingBlocks**
 
- _expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a  **Document** object.
 
 
 ## Return value

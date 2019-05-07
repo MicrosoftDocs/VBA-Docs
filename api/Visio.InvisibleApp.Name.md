@@ -21,7 +21,7 @@ Specifies the name of an object. Read-only.
 
 _expression_.**Name**
 
- _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ## Return value

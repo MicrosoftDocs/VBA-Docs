@@ -16,7 +16,7 @@ Returns  **visObjTypeComments**, the type of a  **Comments** object. Read-only.
 
 _expression_. `ObjectType`
 
- _expression_ A variable that represents a 'Comments' object.
+_expression_ A variable that represents a 'Comments' object.
 
 
 ## Remarks

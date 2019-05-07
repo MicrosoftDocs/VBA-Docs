@@ -21,7 +21,7 @@ Returns or sets a  **[Dictionary](Word.Dictionary.md)** object that represents t
 
 _expression_. `ActiveCustomDictionary`
 
- _expression_ A variable that represents a '[HangulHanjaConversionDictionaries](Word.hangulhanjaconversiondictionaries.md)' collection.
+_expression_ A variable that represents a '[HangulHanjaConversionDictionaries](Word.hangulhanjaconversiondictionaries.md)' collection.
 
 
 ## Example

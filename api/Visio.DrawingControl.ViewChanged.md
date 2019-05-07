@@ -18,7 +18,7 @@ Occurs when the zoom level or scroll position of a drawing window changes.
 
 Private Sub  _expression_ _'ViewChanged'(**_ByVal Window As [IVWINDOW]_**)
 
- _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
+_expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 
 
 ## Parameters

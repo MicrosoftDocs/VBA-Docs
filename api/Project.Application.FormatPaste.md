@@ -21,7 +21,7 @@ Pastes formats (copied with the  **FormatCopy** method) into the selected cells.
 
 _expression_. `FormatPaste`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Return value

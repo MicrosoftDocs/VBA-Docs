@@ -21,7 +21,7 @@ Returns or sets a  **[Font](Word.Font.md)** object that represents the character
 
 _expression_.**Font**
 
- _expression_ A variable that represents a '[ListLevel](Word.ListLevel.md)' object.
+_expression_ A variable that represents a '[ListLevel](Word.ListLevel.md)' object.
 
 
 ## Remarks

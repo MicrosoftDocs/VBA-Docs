@@ -21,7 +21,7 @@ Determines if a given  _x,y_ position hits outside, inside, or on the boundary o
 
 _expression_. `HitTest`( `_xPos_` , `_yPos_` , `_Tolerance_` )
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters

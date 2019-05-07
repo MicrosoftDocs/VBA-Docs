@@ -21,7 +21,7 @@ Returns or sets the line break based upon Asian character level. Read/write.
 
 _expression_. `FarEastLineBreakLevel`
 
- _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ## Return value

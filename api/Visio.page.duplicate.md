@@ -19,7 +19,7 @@ Duplicates the specified page and returns the new page.
 
 _expression_.**Duplicate**
 
- _expression_ A variable that represents a [Page](./Visio.Page.md) object.
+_expression_ A variable that represents a **[Page](Visio.Page.md)** object.
 
 
 ## Return value

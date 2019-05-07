@@ -18,7 +18,7 @@ Gets the parent of the  **Days** object. Read-only **Month**.
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a 'Days' object.
+_expression_ A variable that represents a 'Days' object.
 
 
 ## Remarks

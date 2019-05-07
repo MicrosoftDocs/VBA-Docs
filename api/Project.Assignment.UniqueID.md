@@ -18,7 +18,7 @@ Gets the unique identification number of the assignment. Read-only  **Long**.
 
 _expression_. `UniqueID`
 
- _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
+_expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 
 ## Remarks

@@ -18,7 +18,7 @@ Gets or sets the day of the week value for a monthly type of exception. Read/wri
 
 _expression_. `MonthItem`
 
- _expression_ A variable that represents an [Exception](./Project.Exception.md) object.
+_expression_ A variable that represents an [Exception](./Project.Exception.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `DisplayAsIcon`
 
- _expression_ A variable that represents a '[OLEFormat](Word.OLEFormat.md)' object.
+_expression_ A variable that represents a '[OLEFormat](Word.OLEFormat.md)' object.
 
 
 ## Example

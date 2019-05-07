@@ -21,7 +21,7 @@ Returns the icon contained in a master. Read/write.
 
 _expression_. `Icon`
 
- _expression_ A variable that represents a [Master](./Visio.Master.md) object.
+_expression_ A variable that represents a **[Master](Visio.Master.md)** object.
 
 
 ## Return value

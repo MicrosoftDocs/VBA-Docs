@@ -21,7 +21,7 @@ Returns the  **Masters** collection for a document's stencil. Read-only.
 
 _expression_. `Masters`
 
- _expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ## Return value

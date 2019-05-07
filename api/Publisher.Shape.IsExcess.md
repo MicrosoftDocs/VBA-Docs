@@ -21,7 +21,7 @@ Indicates whether the parent  **Shape** object is an excess shape after the docu
 
 _expression_.**IsExcess**
 
- _expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a  **Shape** object.
 
 
 ## Return value

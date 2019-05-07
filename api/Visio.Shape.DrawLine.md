@@ -21,7 +21,7 @@ Adds a line to the  **Shapes** collection of a group shape.
 
 _expression_. `DrawLine`( `_xBegin_` , `_yBegin_` , `_xEnd_` , `_yEnd_` )
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters

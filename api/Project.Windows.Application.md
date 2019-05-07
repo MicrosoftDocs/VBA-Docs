@@ -18,7 +18,7 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 
 _expression_.**Application**
 
- _expression_ A variable that represents a 'Windows' object.
+_expression_ A variable that represents a 'Windows' object.
 
 
 ## See also

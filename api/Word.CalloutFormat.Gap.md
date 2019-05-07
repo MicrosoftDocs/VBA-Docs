@@ -21,7 +21,7 @@ Returns or sets the horizontal distance (in points) between the end of the callo
 
 _expression_.**Gap**
 
- _expression_ A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
+_expression_ A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Returns a  **Single** that represents the distance (in points) from the top edge
 
 _expression_.**YOffsetWithinReaderSpread**
 
- _expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a  **Page** object.
 
 
 ## Return value

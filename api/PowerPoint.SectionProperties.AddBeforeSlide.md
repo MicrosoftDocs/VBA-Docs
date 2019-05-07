@@ -21,7 +21,7 @@ Adds a section immediately before the specified slide index, and returns the ind
 
 _expression_. `AddBeforeSlide`( `_SlideIndex_`, `_sectionName_` )
 
- _expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
+_expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
 
 
 ## Parameters

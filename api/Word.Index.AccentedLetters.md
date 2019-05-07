@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `AccentedLetters`
 
- _expression_ A variable that represents a '[Index](Word.Index.md)' object.
+_expression_ A variable that represents a '[Index](Word.Index.md)' object.
 
 
 ## Example

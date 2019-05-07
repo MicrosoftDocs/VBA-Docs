@@ -18,7 +18,7 @@ Gets or sets the actual cost for the assignment. Read/write  **Variant**.
 
 _expression_. `ActualCost`
 
- _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
+_expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 
 ## Remarks

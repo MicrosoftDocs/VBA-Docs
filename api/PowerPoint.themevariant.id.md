@@ -16,7 +16,7 @@ Returns a string that represents the ID of the theme variation. Read-only.
 
 _expression_. `Id`
 
- _expression_ A variable that represents a 'ThemeVariant' object.
+_expression_ A variable that represents a 'ThemeVariant' object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Converts text in a  **Shape** object to a SmartArt diagram.
 
 _expression_. `ConvertTextToSmartArt`( `_Layout_` )
 
- _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
+_expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
 ## Parameters

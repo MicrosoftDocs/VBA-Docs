@@ -21,7 +21,7 @@ Applies the formatting for the specified shape or shape range to the default sha
 
 _expression_.**SetShapesDefaultProperties**
 
- _expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Return value

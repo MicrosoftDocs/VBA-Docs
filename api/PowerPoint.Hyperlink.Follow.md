@@ -21,7 +21,7 @@ Displays the HTML document associated with the specified hyperlink in a new web 
 
 _expression_.**Follow**
 
- _expression_ A variable that represents a [Hyperlink](./PowerPoint.Hyperlink.md) object.
+_expression_ A variable that represents a [Hyperlink](./PowerPoint.Hyperlink.md) object.
 
 
 ## Example

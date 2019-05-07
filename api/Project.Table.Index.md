@@ -21,7 +21,7 @@ Gets the index of a  **Table** object in the **Tables** containing object. Read-
 
 _expression_.**Index**
 
- _expression_ A variable that represents a [Table](./Project.Table.md) object.
+_expression_ A variable that represents a [Table](./Project.Table.md) object.
 
 
 ## Remarks

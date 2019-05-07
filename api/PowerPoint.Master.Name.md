@@ -21,7 +21,7 @@ Returns or sets the name of the specified object. Read/write.
 
 _expression_.**Name**
 
- _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
+_expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 
 
 ## Return value

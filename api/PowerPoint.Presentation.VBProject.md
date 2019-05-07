@@ -21,7 +21,7 @@ Returns a  **VBProject** object that represents the individual Visual Basic proj
 
 _expression_. `VBProject`
 
- _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ## Return value

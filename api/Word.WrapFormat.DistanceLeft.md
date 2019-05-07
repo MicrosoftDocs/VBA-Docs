@@ -21,7 +21,7 @@ Returns or sets the distance (in points) between the document text and the left 
 
 _expression_. `DistanceLeft`
 
- _expression_ A variable that represents a '[WrapFormat](Word.WrapFormat.md)' object.
+_expression_ A variable that represents a '[WrapFormat](Word.WrapFormat.md)' object.
 
 
 ## Remarks

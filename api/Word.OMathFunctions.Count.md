@@ -21,7 +21,7 @@ Returns the number of items in the  **OMathFunctions** collection. Read-only **L
 
 _expression_.**Count**
 
- _expression_ A variable that represents a '[OMathFunctions](Word.OMathFunctions.md)' object.
+_expression_ A variable that represents a '[OMathFunctions](Word.OMathFunctions.md)' object.
 
 
 ## See also

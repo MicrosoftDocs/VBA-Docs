@@ -21,7 +21,7 @@ Returns a  **[FileConverters](Word.fileconverters.md)** collection that represen
 
 _expression_. `FileConverters`
 
- _expression_ A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Remarks

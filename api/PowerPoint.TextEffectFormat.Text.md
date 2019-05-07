@@ -21,7 +21,7 @@ Returns or sets a  **String** that represents the text contained in the specifie
 
 _expression_.**Text**
 
- _expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
+_expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
 
 
 ## Return value

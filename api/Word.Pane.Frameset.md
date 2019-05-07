@@ -21,7 +21,7 @@ Returns a  **[Frameset](Word.Frameset.md)** object that represents an entire fra
 
 _expression_. `Frameset`
 
- _expression_ A variable that represents a '[Pane](Word.Pane.md)' object.
+_expression_ A variable that represents a '[Pane](Word.Pane.md)' object.
 
 
 ## Remarks

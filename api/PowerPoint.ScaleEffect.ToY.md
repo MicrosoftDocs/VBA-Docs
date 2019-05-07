@@ -21,7 +21,7 @@ Returns or sets a  **Single** that represents the ending height of a **[ScaleEff
 
 _expression_. `ToY`
 
- _expression_ A variable that represents a [ScaleEffect](./PowerPoint.ScaleEffect.md) object.
+_expression_ A variable that represents a [ScaleEffect](./PowerPoint.ScaleEffect.md) object.
 
 
 ## Return value

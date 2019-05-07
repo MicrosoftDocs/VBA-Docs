@@ -21,7 +21,7 @@ Returns the presenter view of the  **SlideShowSettings** object. Read/write.
 
 _expression_. `ShowPresenterView`
 
- _expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
+_expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
 
 
 ## See also

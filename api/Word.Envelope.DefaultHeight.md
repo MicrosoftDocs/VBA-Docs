@@ -21,7 +21,7 @@ Returns or sets the default envelope height, in points. Read/write  **Single**.
 
 _expression_. `DefaultHeight`
 
- _expression_ A variable that represents a '[Envelope](Word.Envelope.md)' object.
+_expression_ A variable that represents a '[Envelope](Word.Envelope.md)' object.
 
 
 ## Remarks

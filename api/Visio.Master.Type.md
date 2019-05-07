@@ -21,7 +21,7 @@ Returns the type of the  **Master** object. Read-only.
 
 _expression_.**Type**
 
- _expression_ A variable that represents a [Master](./Visio.Master.md) object.
+_expression_ A variable that represents a **[Master](Visio.Master.md)** object.
 
 
 ## Return value

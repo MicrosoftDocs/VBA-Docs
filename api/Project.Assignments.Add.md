@@ -18,7 +18,7 @@ Adds an  **Assignment** object to an **Assignments** collection.
 
 _expression_.**Add** (_TaskID_, _ResourceID_, _Units_)
 
- _expression_ A variable that represents an 'Assignments' object.
+_expression_ A variable that represents an 'Assignments' object.
 
 
 ## Parameters

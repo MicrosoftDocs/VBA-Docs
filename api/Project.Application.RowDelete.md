@@ -21,7 +21,7 @@ Deletes the active row or the row that contains the active cell.
 
 _expression_. `RowDelete`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Return value

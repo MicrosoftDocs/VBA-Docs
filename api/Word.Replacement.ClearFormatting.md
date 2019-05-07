@@ -21,7 +21,7 @@ Removes text and paragraph formatting from the text specified in a replace opera
 
 _expression_.**ClearFormatting**
 
- _expression_ A variable that represents a '[Replacement](Word.Replacement.md)' object.
+_expression_ A variable that represents a '[Replacement](Word.Replacement.md)' object.
 
 
 ## Example

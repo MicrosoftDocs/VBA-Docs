@@ -21,7 +21,7 @@ Returns the  **[WebTextBox](Publisher.WebTextBox.md)** object associated with th
 
 _expression_.**WebTextBox**
 
- _expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a  **Shape** object.
 
 
 ## Return value

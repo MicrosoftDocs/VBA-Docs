@@ -21,7 +21,7 @@ Returns the time and date the document was last validated. Read-only.
 
 _expression_. `LastValidatedDate`
 
- _expression_ A variable that represents a '[Validation](Visio.Validation.md)' object.
+_expression_ A variable that represents a '[Validation](Visio.Validation.md)' object.
 
 
 ## Remarks

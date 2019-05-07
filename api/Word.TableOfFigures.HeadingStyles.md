@@ -21,7 +21,7 @@ Returns a  **[HeadingStyles](Word.headingstyles.md)** object that represents add
 
 _expression_. `HeadingStyles`
 
- _expression_ A variable that represents a '[TableOfFigures](Word.TableOfFigures.md)' collection.
+_expression_ A variable that represents a '[TableOfFigures](Word.TableOfFigures.md)' collection.
 
 
 ## See also

@@ -18,7 +18,7 @@ Links a deliverable or a dependency to a project.
 
 _expression_. `DeliverableLinkToProject`( `_DeliverableGuid_` )
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Parameters

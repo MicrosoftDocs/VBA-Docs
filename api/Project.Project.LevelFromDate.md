@@ -18,7 +18,7 @@ Gets or sets the starting date of a range in which overallocated resources are l
 
 _expression_. `LevelFromDate`
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

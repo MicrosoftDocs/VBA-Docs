@@ -21,7 +21,7 @@ Returns a  **[TextRange](PowerPoint.TextRange.md)** object that represents the s
 
 _expression_. `TextRange`
 
- _expression_ A variable that represents a [Selection](./PowerPoint.Selection.md) object.
+_expression_ A variable that represents a [Selection](./PowerPoint.Selection.md) object.
 
 
 ## Return value

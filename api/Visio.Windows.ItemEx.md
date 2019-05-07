@@ -21,7 +21,7 @@ Returns a  **Window** object from a collection. Read-only.
 
 _expression_. `ItemEx`( `_CaptionOrIndex_` )
 
- _expression_ A variable that represents a [Windows](./Visio.Windows.md) object.
+_expression_ A variable that represents a [Windows](./Visio.Windows.md) object.
 
 
 ## Parameters

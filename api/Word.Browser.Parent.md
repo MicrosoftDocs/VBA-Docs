@@ -21,7 +21,7 @@ Returns an  **Object** that represents the parent object of the specified **Brow
 
 _expression_.**Parent**
 
- _expression_ A variable that represents an '[Browser](Word.Browser.md)' object.
+_expression_ A variable that represents an '[Browser](Word.Browser.md)' object.
 
 
 ## See also

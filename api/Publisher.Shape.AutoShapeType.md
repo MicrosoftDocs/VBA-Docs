@@ -21,7 +21,7 @@ Returns or sets an  **MsoAutoShapeType**constant that specifies a  **Shape** obj
 
 _expression_.**AutoShapeType**
 
- _expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a  **Shape** object.
 
 
 ## Remarks

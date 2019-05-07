@@ -21,7 +21,7 @@ Returns or sets all the category names as a text array for the specified axis. R
 
 _expression_.**CategoryNames**
 
- _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
+_expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Example

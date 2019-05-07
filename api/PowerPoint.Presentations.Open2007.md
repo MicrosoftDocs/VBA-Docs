@@ -21,7 +21,7 @@ Opens the specified presentation and provides the option to repair the presentat
 
 _expression_. `Open2007`( `_FileName_`, `_ReadOnly_`, `_Untitled_`, `_WithWindow_`, `_OpenAndRepair_` )
 
- _expression_ A variable that represents a [Presentations](./PowerPoint.Presentations.md) object.
+_expression_ A variable that represents a [Presentations](./PowerPoint.Presentations.md) object.
 
 
 ## Parameters

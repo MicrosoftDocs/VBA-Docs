@@ -21,7 +21,7 @@ Returns the universal names of all items in a collection.
 
 _expression_. `GetNamesU`( `_localeIndependentNameArray()_` )
 
- _expression_ A variable that represents a [MasterShortcuts](./Visio.MasterShortcuts.md) collection.
+_expression_ A variable that represents a [MasterShortcuts](./Visio.MasterShortcuts.md) collection.
 
 
 ## Parameters

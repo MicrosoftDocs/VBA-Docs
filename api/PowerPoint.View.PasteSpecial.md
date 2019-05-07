@@ -21,7 +21,7 @@ Pastes the current contents of the Clipboard into the view represented by the  *
 
 _expression_. `PasteSpecial`( `_DataType_`, `_DisplayAsIcon_`, `_IconFileName_`, `_IconIndex_`, `_IconLabel_`, `_Link_` )
 
- _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
+_expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 
 
 ## Parameters

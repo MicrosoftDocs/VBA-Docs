@@ -21,7 +21,7 @@ Deletes the text from a text frame and all the associated properties of the text
 
 _expression_. `DeleteText`
 
- _expression_ A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
+_expression_ A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
 
 
 ## Example

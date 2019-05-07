@@ -18,7 +18,7 @@ Returns the specified  **[CaptionStyle](Publisher.CaptionStyle.md)** object from
 
 _expression_.**Item**(**_Index_**)
 
- _expression_ A variable that represents a  **CaptionStyles** object.
+_expression_ A variable that represents a  **CaptionStyles** object.
 
 
 ## Parameters

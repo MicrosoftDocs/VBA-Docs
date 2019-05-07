@@ -14,7 +14,7 @@ Copies the shape range to the Clipboard.
 
 _expression_.**Copy**
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns an  **[Adjustments](Word.Adjustments.md)** object that contains adjustme
 
 _expression_. `Adjustments`
 
- _expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
+_expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
 
 
 ## Example

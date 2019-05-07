@@ -21,7 +21,7 @@ Returns or sets the shape of the specified WordArt. Read/write.
 
 _expression_. `PresetShape`
 
- _expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
+_expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
 
 
 ## Return value

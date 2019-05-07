@@ -18,6 +18,6 @@ Gets the largest unit percentage of a resource used at one time. Read-only  **Va
 
 _expression_. `PeakUnits`
 
- _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
+_expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

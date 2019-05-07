@@ -21,7 +21,7 @@ Sets the width and height of the active window.
 
 _expression_. `DocSize`( `_Width_`, `_Height_`, `_Points_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

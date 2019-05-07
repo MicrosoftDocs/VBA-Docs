@@ -18,7 +18,7 @@ Gets or sets the bit mask used for calendar exceptions of type  **pjWeekly**, in
 
 _expression_. `DaysOfWeek`
 
- _expression_ A variable that represents an [Exception](./Project.Exception.md) object.
+_expression_ A variable that represents an [Exception](./Project.Exception.md) object.
 
 
 ## Remarks

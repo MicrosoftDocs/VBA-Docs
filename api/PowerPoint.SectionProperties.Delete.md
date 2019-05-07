@@ -21,7 +21,7 @@ Deletes the section break that sets off the specified section, and optionally de
 
 _expression_.**Delete**( `_sectionIndex_`, `_deleteSlides_` )
 
- _expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
+_expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Determines which calendar is used when determining when and how dates are shaded
 
 _expression_. `CalendarDateShading`( `_BaseCalendarName_`, `_ResourceUniqueID_`, `_ProjectIndex_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

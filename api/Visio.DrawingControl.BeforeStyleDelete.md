@@ -18,7 +18,7 @@ Occurs before a style is deleted.
 
 Private Sub  _expression_ _'BeforeStyleDelete'(**_ByVal Style As [IVSTYLE]_**)
 
- _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
+_expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 
 
 ## Parameters

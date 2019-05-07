@@ -18,7 +18,7 @@ Gets a  **[Task](Project.Task.md)** object representing the parent of a task in 
 
 _expression_. `OutlineParent`
 
- _expression_ A variable that represents a [Task](./Project.Task.md) object.
+_expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Example

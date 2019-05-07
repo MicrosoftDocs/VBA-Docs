@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `DistanceRight`
 
- _expression_ A variable that represents a '[WrapFormat](Word.WrapFormat.md)' object.
+_expression_ A variable that represents a '[WrapFormat](Word.WrapFormat.md)' object.
 
 
 ## Remarks

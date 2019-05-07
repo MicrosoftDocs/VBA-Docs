@@ -21,7 +21,7 @@ Selects the object.
 
 _expression_.**Select**
 
- _expression_ A variable that represents a '[HiLoLines](Word.HiLoLines.md)' object.
+_expression_ A variable that represents a '[HiLoLines](Word.HiLoLines.md)' object.
 
 
 ## See also

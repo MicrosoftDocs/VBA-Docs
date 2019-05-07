@@ -21,7 +21,7 @@ Returns the formulas of many cells.
 
 _expression_. `GetFormulasU`( `_SID_SRCStream()_` , `_formulaArray()_` )
 
- _expression_ A variable that represents a [Page](./Visio.Page.md) object.
+_expression_ A variable that represents a **[Page](Visio.Page.md)** object.
 
 
 ## Parameters

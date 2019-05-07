@@ -18,7 +18,7 @@ Selects the object.
 
 _expression_.**Select**
 
- _expression_ A variable that represents a '[LegendEntry](PowerPoint.LegendEntry.md)' object.
+_expression_ A variable that represents a '[LegendEntry](PowerPoint.LegendEntry.md)' object.
 
 
 ## See also

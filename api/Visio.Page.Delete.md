@@ -21,7 +21,7 @@ Deletes a  **Page** object. Can also renumber remaining pages.
 
 _expression_.**Delete**( `_fRenumberPages_` )
 
- _expression_ A variable that represents a [Page](./Visio.Page.md) object.
+_expression_ A variable that represents a **[Page](Visio.Page.md)** object.
 
 
 ## Parameters

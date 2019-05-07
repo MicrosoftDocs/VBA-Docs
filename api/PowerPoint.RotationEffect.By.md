@@ -21,7 +21,7 @@ Sets or returns a  **Single** that represents the rotation of an object by the s
 
 _expression_. `By`
 
- _expression_ A variable that represents a [RotationEffect](./PowerPoint.RotationEffect.md) object.
+_expression_ A variable that represents a [RotationEffect](./PowerPoint.RotationEffect.md) object.
 
 
 ## Remarks

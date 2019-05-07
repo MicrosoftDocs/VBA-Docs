@@ -21,7 +21,7 @@ Returns a  **TextFrame** object that represents the previous text frame in a col
 
 _expression_.**Previous**
 
- _expression_ A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
+_expression_ A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
 
 
 ## See also

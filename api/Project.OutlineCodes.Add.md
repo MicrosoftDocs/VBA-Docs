@@ -18,7 +18,7 @@ Adds an  **OutlineCode** object to an **OutlineCodes** collection.
 
 _expression_.**Add** (_FieldID_, _Name_)
 
- _expression_ A variable that represents an 'OutlineCodes' object.
+_expression_ A variable that represents an 'OutlineCodes' object.
 
 
 ## Parameters

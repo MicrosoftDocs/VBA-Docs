@@ -16,7 +16,7 @@ The UniqueID property for the Engagements object. Introduced in Office 2016.
 
 _expression_. `UniqueID`
 
- _expression_ A variable that represents a 'Engagements' object.
+_expression_ A variable that represents a 'Engagements' object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Gets or sets a  **String** value that represents the formula of the object using
 
 _expression_.**Formula**
 
- _expression_ A variable that represents an '[AxisTitle](Word.AxisTitle.md)' object.
+_expression_ A variable that represents an '[AxisTitle](Word.AxisTitle.md)' object.
 
 
 ## Return value

@@ -18,7 +18,7 @@ Occurs before a shape is deleted.
 
 Private Sub  _expression_ _'BeforeShapeDelete'(**_ByVal Shape As [IVSHAPE]_**)
 
- _expression_ A variable that represents an [Application](./Visio.Application.md) object.
+_expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Copies the object to the Clipboard.
 
 _expression_.**Copy**
 
- _expression_ A variable that represents a '[ChartArea](Word.ChartArea.md)' object.
+_expression_ A variable that represents a '[ChartArea](Word.ChartArea.md)' object.
 
 
 ## See also

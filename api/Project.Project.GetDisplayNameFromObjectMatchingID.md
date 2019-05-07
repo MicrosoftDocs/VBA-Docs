@@ -18,7 +18,7 @@ Returns the display name of an object.
 
 _expression_. `GetDisplayNameFromObjectMatchingID`( `_ObjectType_`, `_MatchingID_` )
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Parameters

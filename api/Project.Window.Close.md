@@ -18,7 +18,7 @@ Closes a pane or window.
 
 _expression_.**Close**
 
- _expression_ A variable that represents a [Window](./Project.Window.md) object.
+_expression_ A variable that represents a [Window](./Project.Window.md) object.
 
 
 ## Example

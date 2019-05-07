@@ -21,7 +21,7 @@ Groups the objects that are selected in a selection, or it converts a shape into
 
 _expression_. `Group`
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Return value

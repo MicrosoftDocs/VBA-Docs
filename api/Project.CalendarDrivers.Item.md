@@ -18,7 +18,7 @@ Gets a single  **Resource** object from the **CalendarDrivers** collection. Read
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a 'CalendarDrivers' object.
+_expression_ A variable that represents a 'CalendarDrivers' object.
 
 
 ## Parameters

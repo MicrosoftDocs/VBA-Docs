@@ -18,7 +18,7 @@ Gets the task outline number of the assignment. Read-only  **String**.
 
 _expression_. `TaskOutlineNumber`
 
- _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
+_expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 
 ## Remarks

@@ -18,6 +18,6 @@ Gets a  **[Window](Project.Window.md)** object that represents the active window
 
 _expression_. `ActiveWindow`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

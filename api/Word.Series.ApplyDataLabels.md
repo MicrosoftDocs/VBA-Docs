@@ -21,7 +21,7 @@ Applies data labels to a series.
 
 _expression_. `ApplyDataLabels`(`Type`, `LegendKey`, `AutoText`, `HasLeaderLines`, `ShowSeriesName`, `ShowCategoryName`, `ShowValue`, `ShowPercentage`, `ShowBubbleSize`, `Separator`)
 
- _expression_ A variable that represents a [Series](Word.Series.md) object.
+_expression_ A variable that represents a [Series](Word.Series.md) object.
 
 
 ## Parameters

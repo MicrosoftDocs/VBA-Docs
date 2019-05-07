@@ -21,7 +21,7 @@ Returns a  **Selection** object that represents a selected range or the insertio
 
 _expression_.**Selection**
 
- _expression_ A variable that represents a '[Global](Word.Global.md)' object.
+_expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Example

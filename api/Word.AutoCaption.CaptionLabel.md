@@ -21,7 +21,7 @@ Returns or sets the caption label ("Figure," "Table," or "Equation," for example
 
 _expression_. `CaptionLabel`
 
- _expression_ A variable that represents an '[AutoCaption](Word.AutoCaption.md)' object.
+_expression_ A variable that represents an '[AutoCaption](Word.AutoCaption.md)' object.
 
 
 ## Remarks

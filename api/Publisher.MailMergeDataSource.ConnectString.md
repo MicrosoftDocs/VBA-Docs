@@ -21,7 +21,7 @@ Returns a  **String** that represents the connection to the specified mail merge
 
 _expression_.**ConnectString**
 
- _expression_ A variable that represents a  **MailMergeDataSource** object.
+_expression_ A variable that represents a  **MailMergeDataSource** object.
 
 
 ## Return value

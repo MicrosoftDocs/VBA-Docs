@@ -21,7 +21,7 @@ Creates a new shape from the perimeter of selected shapes.
 
 _expression_. `Union`
 
- _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
+_expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
 ## Return value

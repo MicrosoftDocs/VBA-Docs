@@ -21,7 +21,7 @@ Returns or sets a value that indicates whether an axis is multilevel. Read/write
 
 _expression_. `MultiLevel`
 
- _expression_ A variable that represents a '[TickLabels](Word.TickLabels.md)' object.
+_expression_ A variable that represents a '[TickLabels](Word.TickLabels.md)' object.
 
 
 ## Remarks

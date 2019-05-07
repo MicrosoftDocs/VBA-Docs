@@ -21,7 +21,7 @@ Moves the specified section to the specified index position, moving the slides i
 
 _expression_. `Move`( `_sectionIndex_`, `_toPos_` )
 
- _expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
+_expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Moves a shape so that its pin is positioned at the coordinates represented by  _
 
 _expression_. `SetCenter`( `_xPos_` , `_yPos_` )
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters

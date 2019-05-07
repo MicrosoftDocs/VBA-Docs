@@ -18,7 +18,7 @@ Returns or sets the distance, in [points](../language/glossary/vbe-glossary.md#p
 
 _expression_.**Top**
 
- _expression_ A variable that represents a '[Legend](PowerPoint.Legend.md)' object.
+_expression_ A variable that represents a '[Legend](PowerPoint.Legend.md)' object.
 
 
 ## See also

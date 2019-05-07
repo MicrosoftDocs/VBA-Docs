@@ -18,7 +18,7 @@ Deletes the object.
 
 _expression_.**Delete**
 
- _expression_ A variable that represents a '[LegendEntry](PowerPoint.LegendEntry.md)' object.
+_expression_ A variable that represents a '[LegendEntry](PowerPoint.LegendEntry.md)' object.
 
 
 ## See also

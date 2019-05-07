@@ -18,7 +18,7 @@ Gets the name of a  **View** object. Read/write **String**.
 
 _expression_.**Name**
 
- _expression_ A variable that represents a [View](./Project.View.md) object.
+_expression_ A variable that represents a [View](./Project.View.md) object.
 
 
 ## Remarks

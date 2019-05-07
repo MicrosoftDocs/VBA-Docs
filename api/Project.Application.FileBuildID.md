@@ -18,7 +18,7 @@ Gets the file build identification number (ID) of the specified project. The bui
 
 _expression_. `FileBuildID`( `_Name_`, `_UserID_`, `_DatabasePassWord_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

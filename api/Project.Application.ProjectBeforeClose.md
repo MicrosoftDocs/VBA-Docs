@@ -18,7 +18,7 @@ Occurs before a project is closed.
 
 _expression_. `ProjectBeforeClose`( `_pj_`, `_Cancel_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

@@ -18,7 +18,7 @@ Returns or sets the unit for each picture on the chart if the  **[PictureType](P
 
 _expression_.**PictureUnit2**
 
- _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
+_expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 
 
 ## See also

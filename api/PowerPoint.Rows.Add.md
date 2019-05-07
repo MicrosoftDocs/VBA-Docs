@@ -21,7 +21,7 @@ Returns a  **[Row](PowerPoint.Row.md)** object that represents a row being added
 
 _expression_.**Add** (_BeforeRow_)
 
- _expression_ A variable that represents a [Rows](./PowerPoint.Rows.md) object.
+_expression_ A variable that represents a [Rows](./PowerPoint.Rows.md) object.
 
 
 ## Parameters

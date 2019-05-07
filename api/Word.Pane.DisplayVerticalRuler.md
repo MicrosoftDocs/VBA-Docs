@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `DisplayVerticalRuler`
 
- _expression_ A variable that represents a '[Pane](Word.Pane.md)' object.
+_expression_ A variable that represents a '[Pane](Word.Pane.md)' object.
 
 
 ## Remarks

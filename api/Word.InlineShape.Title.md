@@ -21,7 +21,7 @@ Returns or sets a  **String** that contains a title for the specified inline sha
 
 _expression_.**Title**
 
- _expression_ A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
+_expression_ A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 
 
 ## Remarks

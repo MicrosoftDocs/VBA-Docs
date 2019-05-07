@@ -14,7 +14,7 @@ Copies the formatting of the shape range.
 
 _expression_. `PickUp`
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Return value

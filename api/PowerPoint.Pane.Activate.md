@@ -21,7 +21,7 @@ Activates the specified object.
 
 _expression_.**Activate**
 
- _expression_ A variable that represents a [Pane](./PowerPoint.Pane.md) object.
+_expression_ A variable that represents a [Pane](./PowerPoint.Pane.md) object.
 
 
 ## See also

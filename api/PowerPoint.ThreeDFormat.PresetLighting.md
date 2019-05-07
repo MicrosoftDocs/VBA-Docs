@@ -21,7 +21,7 @@ Returns or sets the effects lighting used by the specified  **ThreeDFormat** obj
 
 _expression_. `PresetLighting`
 
- _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
 
 ## Return value

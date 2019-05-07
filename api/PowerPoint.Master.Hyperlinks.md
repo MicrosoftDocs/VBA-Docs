@@ -21,7 +21,7 @@ Returns a  **[Hyperlinks](PowerPoint.Hyperlinks.md)** collection that represents
 
 _expression_.**Hyperlinks**
 
- _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
+_expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 
 
 ## Return value

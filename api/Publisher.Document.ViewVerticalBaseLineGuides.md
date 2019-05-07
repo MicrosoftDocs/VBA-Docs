@@ -21,7 +21,7 @@ Sets or returns a  **Boolean** that represents whether or not the vertical basel
 
 _expression_.**ViewVerticalBaseLineGuides**
 
- _expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a  **Document** object.
 
 
 ## Return value

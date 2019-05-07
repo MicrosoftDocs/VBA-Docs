@@ -21,6 +21,6 @@ Returns a  **Single** that represents the printable rectangle. Read-only.
 
 _expression_.**Width**
 
- _expression_ A variable that represents a  **PrintableRect** object.
+_expression_ A variable that represents a  **PrintableRect** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

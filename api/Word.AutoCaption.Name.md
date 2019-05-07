@@ -21,7 +21,7 @@ Returns or sets the name of the specified object. Read-only  **String**.
 
 _expression_.**Name**
 
- _expression_ A variable that represents an '[AutoCaption](Word.AutoCaption.md)' object.
+_expression_ A variable that represents an '[AutoCaption](Word.AutoCaption.md)' object.
 
 
 ## See also

@@ -21,7 +21,7 @@ In an event handler, the  **Cancel** property gets or sets a value that specifie
 
 _expression_. `Cancel`
 
- _expression_ A variable that represents an [EventInfo](./Project.EventInfo.md) object.
+_expression_ A variable that represents an [EventInfo](./Project.EventInfo.md) object.
 
 
 ## Remarks

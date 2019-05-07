@@ -21,7 +21,7 @@ Gets or sets a constraint type for a task. Read/write  **Variant**.
 
 _expression_. `ConstraintType`
 
- _expression_ A variable that represents a [Task](./Project.Task.md) object.
+_expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Remarks

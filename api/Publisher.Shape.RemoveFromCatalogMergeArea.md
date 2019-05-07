@@ -21,7 +21,7 @@ Removes a shape from the specified page's catalog merge area. Removed shapes are
 
 _expression_.**RemoveFromCatalogMergeArea**
 
- _expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a  **Shape** object.
 
 
 ## Return value

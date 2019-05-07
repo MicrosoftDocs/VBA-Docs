@@ -21,7 +21,7 @@ Returns a  **[LayoutGuides](Publisher.LayoutGuides.md)** object consisting of th
 
 _expression_.**LayoutGuides**
 
- _expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a  **Document** object.
 
 
 ## Example

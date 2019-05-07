@@ -18,7 +18,7 @@ Occurs before a master is deleted from a document.
 
 Private Sub  _expression_ _'BeforeMasterDelete'(**_ByVal master As [IVMASTER]_**)
 
- _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
+_expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 
 
 ## Parameters

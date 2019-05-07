@@ -18,6 +18,6 @@ Deletes the  **PayRate** object from a **PayRates** collection.
 
 _expression_.**Delete**
 
- _expression_ A variable that represents a [PayRate](./Project.PayRate.md) object.
+_expression_ A variable that represents a [PayRate](./Project.PayRate.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

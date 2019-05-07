@@ -21,7 +21,7 @@ Returns a  **Long** value indicating the length of the specified text range, in 
 
 _expression_.**Length**
 
- _expression_ A variable that represents a  **TextRange** object.
+_expression_ A variable that represents a  **TextRange** object.
 
 
 ## Example

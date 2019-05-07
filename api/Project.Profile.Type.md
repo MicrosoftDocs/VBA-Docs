@@ -18,7 +18,7 @@ localization_priority: Normal
 
 _expression_.**Type**
 
- _expression_ A variable that represents a [Profile](./Project.Profile.md) object.
+_expression_ A variable that represents a [Profile](./Project.Profile.md) object.
 
 
 ## Remarks

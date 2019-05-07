@@ -21,7 +21,7 @@ Returns or sets a  **Single** that represents the height (in points) of the spec
 
 _expression_.**Height**
 
- _expression_ A variable that represents a '[Frame](Word.Frame.md)' object.
+_expression_ A variable that represents a '[Frame](Word.Frame.md)' object.
 
 
 ## See also

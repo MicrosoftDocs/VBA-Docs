@@ -21,7 +21,7 @@ Controls whether Microsoft Visio recalculates shape properties during drag opera
 
 _expression_. `LiveDynamics`
 
- _expression_ A variable that represents an [Application](./Visio.Application.md) object.
+_expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ## Return value

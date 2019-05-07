@@ -18,7 +18,7 @@ Gets or sets the type of deliverable for the task. Read/write  **Integer**.
 
 _expression_. `DeliverableType`
 
- _expression_ A variable that represents a [Task](./Project.Task.md) object.
+_expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Remarks

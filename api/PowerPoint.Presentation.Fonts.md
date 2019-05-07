@@ -21,7 +21,7 @@ Returns a  **[Fonts](PowerPoint.Fonts.md)** collection that represents all fonts
 
 _expression_.**Fonts**
 
- _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ## Example

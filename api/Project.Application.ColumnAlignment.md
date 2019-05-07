@@ -21,7 +21,7 @@ Sets the alignment of text in the active columns.
 
 _expression_. `ColumnAlignment`( `_Align_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

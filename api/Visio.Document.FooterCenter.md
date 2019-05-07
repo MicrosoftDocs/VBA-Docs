@@ -21,7 +21,7 @@ Gets or sets the text string that appears in the center portion of a document's 
 
 _expression_. `FooterCenter`
 
- _expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ## Return value

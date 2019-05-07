@@ -18,7 +18,7 @@ Gets a single  **Filter** object from the **Filters** collection. Read-only **Fi
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a 'Filters' object.
+_expression_ A variable that represents a 'Filters' object.
 
 
 ## Parameters

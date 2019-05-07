@@ -21,7 +21,7 @@ Returns a  **[Tags](PowerPoint.Tags.md)** object that represents the tags for th
 
 _expression_. `Tags`
 
- _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
+_expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
 
 ## Return value

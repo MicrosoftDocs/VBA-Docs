@@ -21,7 +21,7 @@ Sets the segment type of the segment that follows the specified node.
 
 _expression_. `SetSegmentType`( `_Index_`, `_SegmentType_` )
 
- _expression_ A variable that represents a [ShapeNodes](./PowerPoint.ShapeNodes.md) object.
+_expression_ A variable that represents a [ShapeNodes](./PowerPoint.ShapeNodes.md) object.
 
 
 ## Parameters

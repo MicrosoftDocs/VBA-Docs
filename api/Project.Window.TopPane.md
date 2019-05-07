@@ -21,6 +21,6 @@ Gets a  **[Pane](Project.Pane.md)** object representing the top pane of the wind
 
 _expression_. `TopPane`
 
- _expression_ A variable that represents a [Window](./Project.Window.md) object.
+_expression_ A variable that represents a [Window](./Project.Window.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

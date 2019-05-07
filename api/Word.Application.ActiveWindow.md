@@ -21,7 +21,7 @@ Returns a  **[Window](Word.Window.md)** object that represents the active window
 
 _expression_. `ActiveWindow`
 
- _expression_ A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Example

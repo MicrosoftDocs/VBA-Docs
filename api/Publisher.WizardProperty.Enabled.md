@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**Enabled**
 
- _expression_ A variable that represents an  **WizardProperty** object.
+_expression_ A variable that represents an  **WizardProperty** object.
 
 
 ## Return value

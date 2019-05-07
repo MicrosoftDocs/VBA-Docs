@@ -21,7 +21,7 @@ Selects the object.
 
 _expression_.**Select**
 
- _expression_ A variable that represents a '[Series](Word.Series.md)' object.
+_expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
 
 ## See also

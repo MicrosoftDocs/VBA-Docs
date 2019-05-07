@@ -14,7 +14,7 @@ Gets or sets the rotation of the shape range, in degrees. Read/write  **Single**
 
 _expression_.**Rotation**
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Property value

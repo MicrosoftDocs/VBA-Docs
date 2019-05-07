@@ -21,7 +21,7 @@ Determines whether Microsoft Visio prompts for document properties when it saves
 
 _expression_. `PromptForSummary`
 
- _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ## Return value

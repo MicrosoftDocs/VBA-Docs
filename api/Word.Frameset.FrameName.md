@@ -21,7 +21,7 @@ Returns or sets the name of the specified frame on a frames page. Read/write  **
 
 _expression_. `FrameName`
 
- _expression_ A variable that represents a '[Frameset](Word.Frameset.md)' object.
+_expression_ A variable that represents a '[Frameset](Word.Frameset.md)' object.
 
 
 ## Remarks

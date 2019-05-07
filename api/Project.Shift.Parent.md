@@ -18,7 +18,7 @@ Gets the parent of the  **Shift** object. Read-only **Object**.
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a [Shift](./Project.Shift.md) object.
+_expression_ A variable that represents a [Shift](./Project.Shift.md) object.
 
 
 ## Remarks

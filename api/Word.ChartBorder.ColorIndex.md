@@ -21,7 +21,7 @@ Returns or sets the color of the border. Read/write  **Variant**.
 
 _expression_.**ColorIndex**
 
- _expression_ A variable that represents a '[ChartBorder](Word.ChartBorder.md)' object.
+_expression_ A variable that represents a '[ChartBorder](Word.ChartBorder.md)' object.
 
 
 ## Remarks

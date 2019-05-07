@@ -21,7 +21,7 @@ Returns an  **[Application](Word.Application.md)** object that represents the Mi
 
 _expression_.**Application**
 
- _expression_ A variable that represents a '[Categories](Word.Categories.md)' collection.
+_expression_ A variable that represents a '[Categories](Word.Categories.md)' collection.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns the tick-mark labels for the specified axis. Read-only  **[TickLabels](W
 
 _expression_. `TickLabels`
 
- _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
+_expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Displays the  **Recipients** dialog box for a mail merge publication.
 
 _expression_.**OpenRecipientsDialog**
 
- _expression_ A variable that represents a  **MailMergeDataSource** object.
+_expression_ A variable that represents a  **MailMergeDataSource** object.
 
 
 ## Example

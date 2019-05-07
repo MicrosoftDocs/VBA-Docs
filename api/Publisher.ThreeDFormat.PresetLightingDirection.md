@@ -21,7 +21,7 @@ Returns or sets an  **MsoPresetLightingDirection** constant that represents the 
 
 _expression_.**PresetLightingDirection**
 
- _expression_ A variable that represents a  **ThreeDFormat** object.
+_expression_ A variable that represents a  **ThreeDFormat** object.
 
 
 ## Return value

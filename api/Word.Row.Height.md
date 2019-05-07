@@ -21,7 +21,7 @@ Returns or sets the height (in points) of the specified row in a table. Read/wri
 
 _expression_.**Height**
 
- _expression_ A variable that represents a '[Row](Word.Row.md)' object.
+_expression_ A variable that represents a '[Row](Word.Row.md)' object.
 
 
 ## Remarks

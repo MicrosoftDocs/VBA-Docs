@@ -21,7 +21,7 @@ Gets the results or formulas of many cells.
 
 _expression_. `GetResults`( `_SRCStream()_` , `_Flags_` , `_UnitsNamesOrCodes()_` , `_resultArray()_` )
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters

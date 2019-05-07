@@ -21,7 +21,7 @@ Moves the active window within the application window.
 
 _expression_. `DocMove`( `_XPosition_`, `_YPosition_`, `_Points_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

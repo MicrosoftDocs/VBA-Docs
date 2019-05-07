@@ -18,7 +18,7 @@ Gets the total number of actual start drivers that affect the start date of a ta
 
 _expression_. `TotalDetectedCount`
 
- _expression_ A variable that represents an 'ActualStartDrivers' object.
+_expression_ A variable that represents an 'ActualStartDrivers' object.
 
 
 ## Remarks

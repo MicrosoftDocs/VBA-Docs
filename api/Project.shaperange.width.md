@@ -14,7 +14,7 @@ Gets or sets the width, in [points](../language/glossary/vbe-glossary.md#point),
 
 _expression_.**Width**
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Property value

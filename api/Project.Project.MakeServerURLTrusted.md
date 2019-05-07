@@ -21,7 +21,7 @@ Adds the URL specified in the  **[ServerURL](overview/Project.md)** property to 
 
 _expression_. `MakeServerURLTrusted`
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Clears all the custom tab stops from the specified paragraphs.
 
 _expression_.**ClearAll**
 
- _expression_ A variable that represents a  **TabStops** object.
+_expression_ A variable that represents a  **TabStops** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns a  **TextEffectFormat** object that contains text-effect formatting prop
 
 _expression_. `TextEffect`
 
- _expression_ A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
+_expression_ A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 
 
 ## Example

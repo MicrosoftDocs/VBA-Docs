@@ -21,7 +21,7 @@ Returns or sets the series type. Read/write  **Long**.
 
 _expression_.**Type**
 
- _expression_ A variable that represents a '[Series](Word.Series.md)' object.
+_expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
 
 ## Remarks

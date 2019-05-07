@@ -21,7 +21,7 @@ Returns an  **Object** that represents the parent object of the specified **Char
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a '[Characters](Word.characters.md)' collection.
+_expression_ A variable that represents a '[Characters](Word.characters.md)' collection.
 
 
 ## See also

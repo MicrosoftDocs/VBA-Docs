@@ -18,6 +18,6 @@ Indicates whether the  **Resource** object contains fields that are linked to ot
 
 _expression_. `LinkedFields`
 
- _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
+_expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

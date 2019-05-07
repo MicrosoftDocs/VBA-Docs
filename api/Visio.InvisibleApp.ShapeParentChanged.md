@@ -18,7 +18,7 @@ Occurs after shapes are grouped or a group is ungrouped.
 
 Private Sub  _expression_ _'ShapeParentChanged'(**_ByVal Shape As [IVSHAPE]_**)
 
- _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ## Parameters

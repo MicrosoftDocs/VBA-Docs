@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `ProjectGuideUseDefaultContent`
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

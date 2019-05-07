@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**AttachedToText**
 
- _expression_ A variable that represents a  **Font** object.
+_expression_ A variable that represents a  **Font** object.
 
 
 ## Example

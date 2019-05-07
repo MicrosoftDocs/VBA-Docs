@@ -21,7 +21,7 @@ Returns a  **Variant** that represents, in [points](../language/glossary/vbe-glo
 
 _expression_.**OriginalWidth**
 
- _expression_ A variable that represents an  **PictureFormat** object.
+_expression_ A variable that represents an  **PictureFormat** object.
 
 
 ## Return value

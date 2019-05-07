@@ -18,7 +18,7 @@ localization_priority: Normal
 
 _expression_.**Find**
 
- _expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a  **Document** object.
 
 
 ## Example

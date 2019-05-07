@@ -21,7 +21,7 @@ Returns a single  **ResampleMediaTask** object from the specified **ResampleMedi
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [ResampleMediaTasks](./PowerPoint.ResampleMediaTasks.md) object.
+_expression_ A variable that represents a [ResampleMediaTasks](./PowerPoint.ResampleMediaTasks.md) object.
 
 
 ## Parameters

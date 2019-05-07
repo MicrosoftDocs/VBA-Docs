@@ -19,7 +19,7 @@ Ends the specified broadcast session.
 
 _expression_. `End`
 
- _expression_ A variable that represents a 'Broadcast' object.
+_expression_ A variable that represents a 'Broadcast' object.
 
 
 ## Return value

@@ -18,6 +18,6 @@ Gets the budgeted cost of work performed for the resource. Read-only  **Variant*
 
 _expression_. `BCWP`
 
- _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
+_expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

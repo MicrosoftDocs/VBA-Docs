@@ -21,7 +21,7 @@ Displays the  **Send To Exchange Folder** dialog box to post a document to Micro
 
 _expression_. `MailPostDocument`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Return value

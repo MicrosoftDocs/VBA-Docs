@@ -18,7 +18,7 @@ Pastes a picture from the Clipboard on the walls of the specified chart.
 
 _expression_.**Paste**
 
- _expression_ A variable that represents a '[Walls](PowerPoint.Walls.md)' object.
+_expression_ A variable that represents a '[Walls](PowerPoint.Walls.md)' object.
 
 
 ## Remarks

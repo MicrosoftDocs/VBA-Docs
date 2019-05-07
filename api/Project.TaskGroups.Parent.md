@@ -18,7 +18,7 @@ Gets the parent of the  **TaskGroups** object. Read-only **Project**.
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a 'TaskGroups' object.
+_expression_ A variable that represents a 'TaskGroups' object.
 
 
 ## Remarks

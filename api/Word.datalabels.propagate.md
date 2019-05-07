@@ -19,7 +19,7 @@ Propagates the contents and formatting of the specified data label to all the ot
 
 _expression_.**Propagate** (_Index_)
 
- _expression_ A variable that represents a [DataLabels](./Word.DataLabels.md) object.
+_expression_ A variable that represents a [DataLabels](./Word.DataLabels.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Occurs when reversing the last action that was undone.
 
 _expression_.**Redo**
 
- _expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a  **Document** object.
 
 
 ## Remarks

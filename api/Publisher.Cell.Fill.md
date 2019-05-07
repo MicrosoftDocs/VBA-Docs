@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**Fill**
 
- _expression_ A variable that represents a  **Cell** object.
+_expression_ A variable that represents a  **Cell** object.
 
 
 ## Example

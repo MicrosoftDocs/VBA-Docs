@@ -21,7 +21,7 @@ Determines whether a ShapeSheet cell exists in the scope of a search. Read-only.
 
 _expression_. `CellsSRCExists`( `_Section_` , `_Row_` , `_Column_` , `_fExistsLocally_` )
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters

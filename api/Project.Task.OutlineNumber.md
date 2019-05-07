@@ -18,7 +18,7 @@ Gets a value that indicates the position of the task in the outline hierarchy. R
 
 _expression_. `OutlineNumber`
 
- _expression_ A variable that represents a [Task](./Project.Task.md) object.
+_expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns or sets the interval at which Microsoft Word displays horizontal charact
 
 _expression_. `GridSpaceBetweenHorizontalLines`
 
- _expression_ A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example

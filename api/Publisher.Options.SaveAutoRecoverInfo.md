@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**SaveAutoRecoverInfo**
 
- _expression_ A variable that represents a  **Options** object.
+_expression_ A variable that represents a  **Options** object.
 
 
 ## Return value

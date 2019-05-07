@@ -21,7 +21,7 @@ Returns a single tag from the specified  **[Tags](PowerPoint.Tags.md)** collecti
 
 _expression_. `Item`( `_Name_` )
 
- _expression_ A variable that represents a [Tags](./PowerPoint.Tags.md) object.
+_expression_ A variable that represents a [Tags](./PowerPoint.Tags.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns or sets the height of the specified object, in points. Read/write.
 
 _expression_.**Height**
 
- _expression_ A variable that represents a [SlideShowWindow](./PowerPoint.SlideShowWindow.md) object.
+_expression_ A variable that represents a [SlideShowWindow](./PowerPoint.SlideShowWindow.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Determines whether Microsoft Visio shows alerts and modal dialog boxes to the us
 
 _expression_. `AlertResponse`
 
- _expression_ A variable that represents an [Application](./Visio.Application.md) object.
+_expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ## Return value

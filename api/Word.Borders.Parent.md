@@ -21,7 +21,7 @@ Returns an  **Object** that represents the parent object of the specified **Bord
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a '[Borders](Word.borders.md)' collection.
+_expression_ A variable that represents a '[Borders](Word.borders.md)' collection.
 
 
 ## See also

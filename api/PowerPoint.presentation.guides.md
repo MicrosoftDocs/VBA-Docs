@@ -19,7 +19,7 @@ Returns the [Guides](overview/PowerPoint.md) collection associated with a custom
 
 _expression_. `Guides`
 
- _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ## Property value

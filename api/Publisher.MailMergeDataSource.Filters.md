@@ -21,7 +21,7 @@ Returns a  **[MailMergeFilters](Publisher.MailMergeFilters.md)** object that rep
 
 _expression_.**Filters**
 
- _expression_ A variable that represents a  **MailMergeDataSource** object.
+_expression_ A variable that represents a  **MailMergeDataSource** object.
 
 
 ## Return value

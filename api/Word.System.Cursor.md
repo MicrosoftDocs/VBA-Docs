@@ -21,7 +21,7 @@ Returns or sets the state (shape) of the pointer. Can be one of the following  *
 
 _expression_. `Cursor`
 
- _expression_ A variable that represents a '[System](Word.System.md)' object.
+_expression_ A variable that represents a '[System](Word.System.md)' object.
 
 
 ## Example

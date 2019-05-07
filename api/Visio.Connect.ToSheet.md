@@ -21,7 +21,7 @@ Returns the shape to which one or more connections are made. Read-only.
 
 _expression_. `ToSheet`
 
- _expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
+_expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
 
 
 ## Return value

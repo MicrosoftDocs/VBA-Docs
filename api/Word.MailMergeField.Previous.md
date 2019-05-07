@@ -21,7 +21,7 @@ Returns the previous mail merge field in the collection of mail merge fields. Re
 
 _expression_.**Previous**
 
- _expression_ A variable that represents a '[MailMergeField](Word.MailMergeField.md)' object.
+_expression_ A variable that represents a '[MailMergeField](Word.MailMergeField.md)' object.
 
 
 ## See also

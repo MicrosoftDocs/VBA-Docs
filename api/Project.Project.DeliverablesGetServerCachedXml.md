@@ -18,7 +18,7 @@ Gets the cached XML data from Project Server for all of the deliverables and dep
 
 _expression_. `DeliverablesGetServerCachedXml`
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Return value

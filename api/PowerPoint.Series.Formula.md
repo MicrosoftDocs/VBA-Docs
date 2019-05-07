@@ -21,7 +21,7 @@ Returns or sets the object's formula in A1-style notation and in the language of
 
 _expression_.**Formula**
 
- _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
+_expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 
 
 ## Remarks

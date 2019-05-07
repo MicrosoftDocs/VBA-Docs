@@ -21,7 +21,7 @@ Returns a  **String** indicating the full path to the file of the saved active p
 
 _expression_.**Path**
 
- _expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an  **Application** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Expands the specified range or selection. Returns or sets a  **Long** that repre
 
 _expression_.**Expand**(**_Unit_**)
 
- _expression_ A variable that represents a  **TextRange** object.
+_expression_ A variable that represents a  **TextRange** object.
 
 
 ## Parameters

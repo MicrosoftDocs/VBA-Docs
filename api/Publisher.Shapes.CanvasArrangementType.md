@@ -21,6 +21,6 @@ A  **[pbCanvasArrangementType](Publisher.pbcanvasarrangementtype.md)** constant 
 
 _expression_.**CanvasArrangementType**
 
- _expression_ A variable that represents a  **[Shapes](Publisher.Shapes.md)** object.
+_expression_ A variable that represents a  **[Shapes](Publisher.Shapes.md)** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,7 +21,7 @@ Selects the specified object.
 
 _expression_.**Select** (_Replace_)
 
- _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
+_expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
 ## Parameters

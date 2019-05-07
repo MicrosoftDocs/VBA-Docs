@@ -21,7 +21,7 @@ Shows or hides outline symbols.
 
 _expression_. `OutlineSymbolsToggle`( `_Show_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

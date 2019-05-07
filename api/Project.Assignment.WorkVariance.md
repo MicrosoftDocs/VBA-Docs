@@ -18,6 +18,6 @@ Gets the variance between the baseline work and the work for the assignment. Rea
 
 _expression_. `WorkVariance`
 
- _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
+_expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

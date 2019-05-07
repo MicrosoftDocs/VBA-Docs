@@ -21,7 +21,7 @@ Returns a  **[Columns](Word.columns.md)** collection that represents all the tab
 
 _expression_. `Columns`
 
- _expression_ A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns the name of the algorithm encryption provider that Microsoft PowerPoint 
 
 _expression_. `PasswordEncryptionProvider`
 
- _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ## Return value

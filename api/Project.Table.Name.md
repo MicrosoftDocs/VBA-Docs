@@ -21,7 +21,7 @@ Gets the name of a  **Table** object. Read/write **String**.
 
 _expression_.**Name**
 
- _expression_ A variable that represents a [Table](./Project.Table.md) object.
+_expression_ A variable that represents a [Table](./Project.Table.md) object.
 
 
 ## Remarks

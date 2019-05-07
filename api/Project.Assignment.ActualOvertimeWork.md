@@ -18,6 +18,6 @@ Gets or sets the actual overtime work (in minutes) for an assignment. Read/write
 
 _expression_. `ActualOvertimeWork`
 
- _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
+_expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,7 +21,7 @@ Displays the  **Convert** dialog box, which prompts the user to convert the acti
 
 _expression_. `ObjectConvert`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Return value

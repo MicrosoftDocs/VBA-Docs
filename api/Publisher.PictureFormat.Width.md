@@ -21,6 +21,6 @@ Returns a  **Variant** that represents the width, in [points](../language/glossa
 
 _expression_.**Width**
 
- _expression_ A variable that represents a  **PictureFormat** object.
+_expression_ A variable that represents a  **PictureFormat** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

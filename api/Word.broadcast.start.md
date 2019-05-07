@@ -19,7 +19,7 @@ Initiates the specified broadcast session.
 
 _expression_.**Start** (_serverUrl_)
 
- _expression_ A variable that represents a 'Broadcast' object.
+_expression_ A variable that represents a 'Broadcast' object.
 
 
 ## Parameters

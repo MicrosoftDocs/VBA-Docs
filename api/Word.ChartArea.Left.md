@@ -21,7 +21,7 @@ Returns or sets the distance, in [points](../language/glossary/vbe-glossary.md#p
 
 _expression_.**Left**
 
- _expression_ A variable that represents a '[ChartArea](Word.ChartArea.md)' object.
+_expression_ A variable that represents a '[ChartArea](Word.ChartArea.md)' object.
 
 
 ## See also

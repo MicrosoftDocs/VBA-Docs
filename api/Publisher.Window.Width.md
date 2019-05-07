@@ -21,7 +21,7 @@ Returns or sets a  **Long** that represents the width (in points) of the window.
 
 _expression_.**Width**
 
- _expression_ A variable that represents a  **Window** object.
+_expression_ A variable that represents a  **Window** object.
 
 
 ## Example

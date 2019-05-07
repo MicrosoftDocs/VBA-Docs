@@ -21,7 +21,7 @@ Gets the  **Document** object that is associated with an object. Read-only.
 
 _expression_. `Document`
 
- _expression_ A variable that represents a [Layers](./Visio.Layers.md) object.
+_expression_ A variable that represents a [Layers](./Visio.Layers.md) object.
 
 
 ## Return value

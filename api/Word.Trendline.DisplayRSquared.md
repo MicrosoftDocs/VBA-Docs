@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `DisplayRSquared`
 
- _expression_ A variable that represents a '[Trendline](Word.Trendline.md)' object.
+_expression_ A variable that represents a '[Trendline](Word.Trendline.md)' object.
 
 
 ## Remarks

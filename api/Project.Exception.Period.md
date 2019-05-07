@@ -18,7 +18,7 @@ Gets or sets the period for calendar exception recurrences, specified as the num
 
 _expression_. `Period`
 
- _expression_ A variable that represents an [Exception](./Project.Exception.md) object.
+_expression_ A variable that represents an [Exception](./Project.Exception.md) object.
 
 
 ## See also

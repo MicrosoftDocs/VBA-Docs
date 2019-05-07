@@ -21,7 +21,7 @@ Returns a  **[TextRetrievalMode](Word.TextRetrievalMode.md)** object that contro
 
 _expression_. `TextRetrievalMode`
 
- _expression_ A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Example

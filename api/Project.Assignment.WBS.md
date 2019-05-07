@@ -18,6 +18,6 @@ Gets or sets the work breakdown structure (WBS) code of the assignment. Read/wri
 
 _expression_. `WBS`
 
- _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
+_expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

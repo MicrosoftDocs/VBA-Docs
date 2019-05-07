@@ -21,7 +21,7 @@ Brings the shape or selected shapes to the front of the z-order.
 
 _expression_.**BringToFront**
 
- _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
+_expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
 ## Return value

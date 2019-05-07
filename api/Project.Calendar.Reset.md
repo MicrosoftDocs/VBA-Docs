@@ -21,7 +21,7 @@ Resets base calendar properties to their default values; resets resource calenda
 
 _expression_. `Reset`
 
- _expression_ A variable that represents a [Calendar](./Project.Calendar.md) object.
+_expression_ A variable that represents a [Calendar](./Project.Calendar.md) object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Creates a Visual Reports template for Microsoft Excel or Microsoft Visio.
 
 _expression_. `VisualReportsNewTemplate`( `_PjVisualReportsTemplateType_`, `_PjVisualReportsCubeType_`, `_ReportAlLFields_`, `_PjVisualReportsDataLevel_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns an  **[InlineShapes](Word.Document.InlineShapes.md)** collection that re
 
 _expression_. `InlineShapes`
 
- _expression_ A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

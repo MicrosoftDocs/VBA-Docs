@@ -21,7 +21,7 @@ Returns an  **InlineShapes** collection that represents all the **InlineShape** 
 
 _expression_. `InlineShapes`
 
- _expression_ A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks

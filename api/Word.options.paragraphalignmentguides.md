@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that specifies whether paragraph alignment guides
 
 _expression_. `ParagraphAlignmentGuides`
 
- _expression_ A variable that represents an [Options](./Word.Options.md) object.
+_expression_ A variable that represents an [Options](./Word.Options.md) object.
 
 
 ## Remarks

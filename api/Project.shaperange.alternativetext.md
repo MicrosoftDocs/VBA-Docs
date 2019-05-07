@@ -14,7 +14,7 @@ Gets or sets the descriptive (alternative) text string for a  **ShapeRange** obj
 
 _expression_. `AlternativeText`
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Remarks

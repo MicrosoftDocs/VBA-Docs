@@ -21,7 +21,7 @@ Selects a column containing task information.
 
 _expression_. `SelectTaskColumn`( `_Column_`, `_Additional_`, `_Extend_`, `_Add_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns or sets the primary color of the object. Read/write  **Variant**.
 
 _expression_.**Color**
 
- _expression_ A variable that represents an '[Interior](Word.Interior.md)' object.
+_expression_ A variable that represents an '[Interior](Word.Interior.md)' object.
 
 
 ## See also

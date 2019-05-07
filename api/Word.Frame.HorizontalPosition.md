@@ -21,7 +21,7 @@ Returns or sets the horizontal distance between the edge of the frame and the it
 
 _expression_. `HorizontalPosition`
 
- _expression_ A variable that represents a '[Frame](Word.Frame.md)' object.
+_expression_ A variable that represents a '[Frame](Word.Frame.md)' object.
 
 
 ## Remarks

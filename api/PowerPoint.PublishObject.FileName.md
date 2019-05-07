@@ -21,7 +21,7 @@ Returns or sets the path and file name of the Web presentation created when all 
 
 _expression_. `FileName`
 
- _expression_ A variable that represents a [PublishObject](./PowerPoint.PublishObject.md) object.
+_expression_ A variable that represents a [PublishObject](./PowerPoint.PublishObject.md) object.
 
 
 ## Return value

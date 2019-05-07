@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `HalfWidthPunctuationOnTopOfLine`
 
- _expression_ A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
+_expression_ A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 
 
 ## Example

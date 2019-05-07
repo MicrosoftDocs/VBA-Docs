@@ -21,7 +21,7 @@ Returns an  **[AddIns](Word.addins.md)** collection that represents all availabl
 
 _expression_. `AddIns`
 
- _expression_ A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Remarks

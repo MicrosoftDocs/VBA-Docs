@@ -21,7 +21,7 @@ Returns a  **[Document](Word.Document.md)** object associated with the specified
 
 _expression_. `Document`
 
- _expression_ A variable that represents a '[Window](Word.Window.md)' object.
+_expression_ A variable that represents a '[Window](Word.Window.md)' object.
 
 
 ## Example

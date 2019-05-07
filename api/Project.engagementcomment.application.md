@@ -16,7 +16,7 @@ The Application property for the EngagementComment object. Introduced in Office 
 
 _expression_.**Application**
 
- _expression_ A variable that represents a 'EngagementComment' object.
+_expression_ A variable that represents a 'EngagementComment' object.
 
 
 ## See also

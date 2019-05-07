@@ -18,7 +18,7 @@ Returns or sets name of the object. Read/write  **String**.
 
 _expression_.**Name**
 
- _expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)' object.
+_expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)' object.
 
 
 ## See also

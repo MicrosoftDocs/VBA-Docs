@@ -21,7 +21,7 @@ Returns the nesting level of the specified cells. Read-only  **Long**.
 
 _expression_. `NestingLevel`
 
- _expression_ A variable that represents a '[Cells](Word.cells.md)' collection.
+_expression_ A variable that represents a '[Cells](Word.cells.md)' collection.
 
 
 ## Remarks

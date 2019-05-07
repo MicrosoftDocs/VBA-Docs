@@ -21,7 +21,7 @@ Repeats the most recent editing action one or more times. Returns  **True** if t
 
 _expression_.**Repeat** (_Times_)
 
- _expression_ A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Parameters

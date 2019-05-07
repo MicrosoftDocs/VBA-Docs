@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `IncludeChapterNumber`
 
- _expression_ A variable that represents a '[PageNumbers](Word.pagenumbers.md)' object.
+_expression_ A variable that represents a '[PageNumbers](Word.pagenumbers.md)' object.
 
 
 ## Example

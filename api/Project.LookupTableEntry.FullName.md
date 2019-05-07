@@ -21,7 +21,7 @@ Gets the full name for the specified level and parent levels of the  **LookupTab
 
 _expression_.**FullName**
 
- _expression_ A variable that represents a [LookupTableEntry](./Project.LookupTableEntry.md) object.
+_expression_ A variable that represents a [LookupTableEntry](./Project.LookupTableEntry.md) object.
 
 
 ## Example

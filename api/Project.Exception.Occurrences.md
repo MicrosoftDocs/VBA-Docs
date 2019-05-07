@@ -18,7 +18,7 @@ Gets the number of occurrences of the calendar exception. Read/write  **Long**.
 
 _expression_. `Occurrences`
 
- _expression_ A variable that represents an [Exception](./Project.Exception.md) object.
+_expression_ A variable that represents an [Exception](./Project.Exception.md) object.
 
 
 ## See also

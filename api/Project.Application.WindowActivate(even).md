@@ -18,7 +18,7 @@ Occurs when any window within Project is activated. The  **WindowActivate** even
 
 _expression_. `WindowActivate`( `_activatedWindow_`, )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

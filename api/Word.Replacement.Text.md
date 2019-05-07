@@ -21,7 +21,7 @@ Returns or sets the text to replace. Read/write  **String**.
 
 _expression_.**Text**
 
- _expression_ A variable that represents a '[Replacement](Word.Replacement.md)' object.
+_expression_ A variable that represents a '[Replacement](Word.Replacement.md)' object.
 
 
 ## Example

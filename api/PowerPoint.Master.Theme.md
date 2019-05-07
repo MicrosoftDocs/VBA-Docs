@@ -21,7 +21,7 @@ Returns a  **Theme** object that represents the theme used by the specified slid
 
 _expression_. `Theme`
 
- _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
+_expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 
 
 ## Return value

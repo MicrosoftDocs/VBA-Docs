@@ -21,7 +21,7 @@ Ungroups the specified group of shapes or any groups of shapes in the specified 
 
 _expression_.**Ungroup**
 
- _expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a  **Shape** object.
 
 
 ## Return value

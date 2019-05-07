@@ -14,7 +14,7 @@ Gets or sets the shadow formatting properties for the shape range. Read-only  **
 
 _expression_.**Shadow**
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Property value

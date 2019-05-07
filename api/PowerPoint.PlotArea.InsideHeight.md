@@ -21,7 +21,7 @@ Returns or sets the inside height, in [points](../language/glossary/vbe-glossary
 
 _expression_.**InsideHeight**
 
- _expression_ A variable that represents a '[PlotArea](PowerPoint.PlotArea.md)' object.
+_expression_ A variable that represents a '[PlotArea](PowerPoint.PlotArea.md)' object.
 
 
 ## Remarks

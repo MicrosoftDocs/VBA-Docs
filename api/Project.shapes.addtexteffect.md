@@ -14,7 +14,7 @@ The  **AddTextEffect** method is not implemented in Project.
 
 _expression_. `AddTextEffect` _(PresetTextEffect,_ _Text,_ _FontName,_ _FontSize,_ _FontBold,_ _FontItalic,_ _Left,_ _Top)_
 
- _expression_ A variable that represents a 'Shapes' object.
+_expression_ A variable that represents a 'Shapes' object.
 
 
 ## Parameters

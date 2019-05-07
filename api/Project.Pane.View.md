@@ -18,7 +18,7 @@ Returns the active  **View** object.
 
 _expression_. `View`
 
- _expression_ A variable that represents a [Pane](./Project.Pane.md) object.
+_expression_ A variable that represents a [Pane](./Project.Pane.md) object.
 
 
 ## Return value

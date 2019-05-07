@@ -21,7 +21,7 @@ Selects the object.
 
 _expression_.**Select**
 
- _expression_ A variable that represents a '[DataLabel](Word.DataLabel.md)' object.
+_expression_ A variable that represents a '[DataLabel](Word.DataLabel.md)' object.
 
 
 ## See also

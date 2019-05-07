@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**ViewMailMergeFieldCodes**
 
- _expression_ A variable that represents a  **MailMerge** object.
+_expression_ A variable that represents a  **MailMerge** object.
 
 
 ## Return value

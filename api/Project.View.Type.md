@@ -18,7 +18,7 @@ Gets the type of item in the view, such as tasks or resources. Read-only  **PjIt
 
 _expression_.**Type**
 
- _expression_ A variable that represents a [View](./Project.View.md) object.
+_expression_ A variable that represents a [View](./Project.View.md) object.
 
 
 ## Remarks

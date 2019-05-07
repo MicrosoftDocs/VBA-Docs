@@ -18,7 +18,7 @@ Adds an account  **[Profile](Project.Profile.md)** object to the **Profiles** co
 
 _expression_.**Add** (_Name_, _Server_, _LoginType_, _UserName_)
 
- _expression_ A variable that represents a 'Profiles' object.
+_expression_ A variable that represents a 'Profiles' object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns or sets an  **MsoBlackWhiteMode**constant indicating how the specified s
 
 _expression_.**BlackWhiteMode**
 
- _expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Remarks

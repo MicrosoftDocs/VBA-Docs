@@ -18,7 +18,7 @@ Gets the path and file name of a project. Read-only  **String**.
 
 _expression_.**FullName**
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Specifies the universal name of a  **Master** object. Read/write.
 
 _expression_. `NameU`
 
- _expression_ A variable that represents a [Master](./Visio.Master.md) object.
+_expression_ A variable that represents a **[Master](Visio.Master.md)** object.
 
 
 ## Return value

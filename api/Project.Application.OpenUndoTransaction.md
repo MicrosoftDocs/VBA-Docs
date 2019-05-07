@@ -18,7 +18,7 @@ Create an undo transaction set for a series of operations.
 
 _expression_. `OpenUndoTransaction`( `_Label_`, `_guid_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

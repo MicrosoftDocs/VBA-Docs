@@ -21,7 +21,7 @@ Returns an  **[Application](PowerPoint.Application.md)** object that represents 
 
 _expression_.**Application**
 
- _expression_ A variable that represents an [ObjectVerbs](./PowerPoint.ObjectVerbs.md) object.
+_expression_ A variable that represents an [ObjectVerbs](./PowerPoint.ObjectVerbs.md) object.
 
 
 ## Return value

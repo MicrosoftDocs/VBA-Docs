@@ -21,7 +21,7 @@ Returns or sets the distance (in points) between the right edge of the page and 
 
 _expression_.**RightMargin**
 
- _expression_ A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
+_expression_ A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
 
 
 ## Remarks

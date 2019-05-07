@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**HasDataLabel**
 
- _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
+_expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 
 
 ## Example

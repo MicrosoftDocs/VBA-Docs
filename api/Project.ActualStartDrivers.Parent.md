@@ -18,7 +18,7 @@ Gets the parent task of the  **ActualStartDrivers** object. Read-only **Task**.
 
 _expression_.**Parent**
 
- _expression_ A variable that represents an 'ActualStartDrivers' object.
+_expression_ A variable that represents an 'ActualStartDrivers' object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns or sets the name of the font for the dropped capital letter. Read/write 
 
 _expression_. `FontName`
 
- _expression_ A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
+_expression_ A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
 
 
 ## Example

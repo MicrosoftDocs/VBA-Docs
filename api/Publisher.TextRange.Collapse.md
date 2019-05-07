@@ -21,7 +21,7 @@ Collapses a range or selection to the starting position or ending position. Afte
 
 _expression_.**Collapse**(**_Direction_**)
 
- _expression_ A variable that represents a  **TextRange** object.
+_expression_ A variable that represents a  **TextRange** object.
 
 
 ## Parameters

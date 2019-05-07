@@ -18,7 +18,7 @@ Gets the finish date of a task before leveling occurred. Read-only  **Variant**.
 
 _expression_. `PreleveledFinish`
 
- _expression_ A variable that represents a [Task](./Project.Task.md) object.
+_expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Example

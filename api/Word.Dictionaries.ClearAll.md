@@ -21,7 +21,7 @@ Unloads all of the custom or conversion dictionaries.
 
 _expression_. `ClearAll`
 
- _expression_ A variable that represents a '[Dictionaries](Word.dictionaries.md)' object.
+_expression_ A variable that represents a '[Dictionaries](Word.dictionaries.md)' object.
 
 
 ## Example

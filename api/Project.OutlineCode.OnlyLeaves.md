@@ -18,7 +18,7 @@ localization_priority: Normal
 
 _expression_. `OnlyLeaves`
 
- _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
+_expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
 
 
 ## Remarks

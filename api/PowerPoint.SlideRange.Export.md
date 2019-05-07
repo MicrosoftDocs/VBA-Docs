@@ -21,7 +21,7 @@ Exports a range of slides, using the specified graphics filter, and saves the ex
 
 _expression_.**Export** (_FileName_, _FilterName_, _ScaleWidth_, _ScaleHeight_)
 
- _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
+_expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
 
 ## Parameters

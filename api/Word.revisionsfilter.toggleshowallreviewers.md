@@ -19,7 +19,7 @@ Shows or hides all revisions in a document that contains comments and tracked ch
 
 _expression_. `ToggleShowAllReviewers`
 
- _expression_ A variable that represents a 'RevisionsFilter' object.
+_expression_ A variable that represents a 'RevisionsFilter' object.
 
 
 ## Return value

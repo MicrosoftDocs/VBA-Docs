@@ -21,7 +21,7 @@ Deletes a ShapeSheet section.
 
 _expression_. `DeleteSection`( `_Section_` )
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters

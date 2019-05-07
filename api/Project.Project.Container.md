@@ -18,7 +18,7 @@ Gets the object that contains the embedded project. Read-only  **Object**.
 
 _expression_. `Container`
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Increases the font size to the next available size.
 
 _expression_.**Grow**
 
- _expression_ A variable that represents a  **Font** object.
+_expression_ A variable that represents a  **Font** object.
 
 
 ## Remarks

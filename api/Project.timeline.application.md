@@ -16,7 +16,7 @@ Gets the [Application](Project.Application.md) object. Read-only. Introduced in 
 
 _expression_.**Application**
 
- _expression_ A variable that represents a 'Timeline' object.
+_expression_ A variable that represents a 'Timeline' object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns a single text style from the specified  **[TextStyles](PowerPoint.TextSt
 
 _expression_. `Item`( `_Type_` )
 
- _expression_ A variable that represents a [TextStyles](./PowerPoint.TextStyles.md) object.
+_expression_ A variable that represents a [TextStyles](./PowerPoint.TextStyles.md) object.
 
 
 ## Parameters

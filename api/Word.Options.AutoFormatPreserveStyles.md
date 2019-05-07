@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `AutoFormatPreserveStyles`
 
- _expression_ A variable that represents an '[Options](Word.Options.md)' object.
+_expression_ A variable that represents an '[Options](Word.Options.md)' object.
 
 
 ## Example

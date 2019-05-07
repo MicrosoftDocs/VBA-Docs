@@ -21,7 +21,7 @@ Adds a guide to a master.
 
 _expression_. `AddGuide`( `_Type_` , `_xPos_` , `_yPos_` )
 
- _expression_ A variable that represents a [Master](./Visio.Master.md) object.
+_expression_ A variable that represents a **[Master](Visio.Master.md)** object.
 
 
 ## Parameters

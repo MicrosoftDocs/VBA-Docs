@@ -21,7 +21,7 @@ Sets or returns a  **Long** that represents the yellow component of a CMYK color
 
 _expression_.**Yellow**
 
- _expression_ A variable that represents a  **ColorCMYK** object.
+_expression_ A variable that represents a  **ColorCMYK** object.
 
 
 ## Return value

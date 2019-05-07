@@ -18,7 +18,7 @@ Returns the data label associated with the point. Read-only  **[DataLabel](Power
 
 _expression_.**DataLabel**
 
- _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
+_expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 
 
 ## Example

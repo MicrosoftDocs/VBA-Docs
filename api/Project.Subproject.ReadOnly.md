@@ -18,7 +18,7 @@ localization_priority: Normal
 
 _expression_.**ReadOnly**
 
- _expression_ A variable that represents a [Subproject](./Project.Subproject.md) object.
+_expression_ A variable that represents a [Subproject](./Project.Subproject.md) object.
 
 
 ## Example

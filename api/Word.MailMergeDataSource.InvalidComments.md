@@ -21,7 +21,7 @@ If the  **[InvalidAddress](Word.MailMergeDataSource.InvalidAddress.md)** propert
 
 _expression_. `InvalidComments`
 
- _expression_ A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
+_expression_ A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 
 
 ## Remarks

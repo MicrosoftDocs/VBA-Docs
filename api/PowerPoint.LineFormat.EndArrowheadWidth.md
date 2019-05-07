@@ -21,7 +21,7 @@ Returns or sets the width of the arrowhead at the end of the specified line. Rea
 
 _expression_.**EndArrowheadWidth**
 
- _expression_ A variable that represents an [LineFormat](./PowerPoint.LineFormat.md) object.
+_expression_ A variable that represents an [LineFormat](./PowerPoint.LineFormat.md) object.
 
 
 ## Return value

@@ -14,7 +14,7 @@ Gets the number of connection sites on the shape. Read-only  **Long**.
 
 _expression_. `ConnectionSiteCount`
 
- _expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a 'Shape' object.
 
 
 ## Property value

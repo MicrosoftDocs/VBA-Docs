@@ -18,7 +18,7 @@ Gets the number of days in the  **Year** object. Read-only **Integer**.
 
 _expression_.**Count**
 
- _expression_ A variable that represents a [Year](./Project.Year.md) object.
+_expression_ A variable that represents a [Year](./Project.Year.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns or sets an  **MsoPresetMaterial** constant that represents the extrusion
 
 _expression_.**PresetMaterial**
 
- _expression_ A variable that represents a  **ThreeDFormat** object.
+_expression_ A variable that represents a  **ThreeDFormat** object.
 
 
 ## Return value

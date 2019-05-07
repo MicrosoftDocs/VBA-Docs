@@ -21,7 +21,7 @@ Returns a  **[CustomLayout](PowerPoint.CustomLayout.md)** object that represents
 
 _expression_. `CustomLayout`
 
- _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
+_expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
 
 ## Return value

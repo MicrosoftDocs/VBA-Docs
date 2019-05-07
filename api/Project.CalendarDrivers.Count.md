@@ -18,7 +18,7 @@ Gets the number of items in the  **CalendarDrivers** collection. Read-only **Lon
 
 _expression_.**Count**
 
- _expression_ A variable that represents a 'CalendarDrivers' object.
+_expression_ A variable that represents a 'CalendarDrivers' object.
 
 
 ## Remarks

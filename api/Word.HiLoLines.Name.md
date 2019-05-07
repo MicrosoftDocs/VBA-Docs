@@ -21,7 +21,7 @@ Returns the name of the object. Read-only  **String**.
 
 _expression_.**Name**
 
- _expression_ A variable that represents a '[HiLoLines](Word.HiLoLines.md)' object.
+_expression_ A variable that represents a '[HiLoLines](Word.HiLoLines.md)' object.
 
 
 ## See also

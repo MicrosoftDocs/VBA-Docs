@@ -18,7 +18,7 @@ Removes one or more successors from the task.
 
 _expression_. `UnlinkSuccessors`( `_Tasks_` )
 
- _expression_ A variable that represents a [Task](./Project.Task.md) object.
+_expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Parameters

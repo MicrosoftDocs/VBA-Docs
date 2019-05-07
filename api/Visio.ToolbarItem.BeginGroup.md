@@ -21,7 +21,7 @@ Determines whether a toolbar item appears at the beginning of a group of items o
 
 _expression_. `BeginGroup`
 
- _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
+_expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 
 
 ## Return value

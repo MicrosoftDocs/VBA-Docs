@@ -21,7 +21,7 @@ Returns or sets a value that indicates how the slide show advances. Read/write.
 
 _expression_. `AdvanceMode`
 
- _expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
+_expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
 
 
 ## Remarks

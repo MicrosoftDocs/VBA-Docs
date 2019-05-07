@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `Found`
 
- _expression_ A variable that represents a '[Find](Word.Find.md)' object.
+_expression_ A variable that represents a '[Find](Word.Find.md)' object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Returns an  **Object** that represents the parent object of the specified **Sour
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a '[Sources](Word.Sources.md)' object.
+_expression_ A variable that represents a '[Sources](Word.Sources.md)' object.
 
 
 ## See also

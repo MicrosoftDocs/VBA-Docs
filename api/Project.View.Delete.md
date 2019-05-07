@@ -18,6 +18,6 @@ Deletes the  **View** object from a **Views** collection.
 
 _expression_.**Delete**
 
- _expression_ A variable that represents a [View](./Project.View.md) object.
+_expression_ A variable that represents a [View](./Project.View.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

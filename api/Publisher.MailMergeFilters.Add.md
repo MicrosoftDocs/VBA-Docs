@@ -21,7 +21,7 @@ Adds a new filter criterion to the specified  **MailMergeFilters** object.
 
 _expression_.**Add** (_Column_, _Comparison_, _Conjunction_, _bstrCompareTo_, _DeferUpdate_)
 
- _expression_ A variable that represents a  **MailMergeFilters** object.
+_expression_ A variable that represents a  **MailMergeFilters** object.
 
 
 ## Parameters

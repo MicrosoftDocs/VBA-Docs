@@ -16,7 +16,7 @@ Adds a chart to the document. Returns a [Shape](PowerPoint.Shape.md) object that
 
 _expression_. `AddChart2`_(Style,_ _Type,_ _Left,_ _Top,_ _Width,_ _Height,_ _NewLayout)_
 
- _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
+_expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
 ## Parameters

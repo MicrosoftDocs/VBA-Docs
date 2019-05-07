@@ -14,7 +14,7 @@ Gets the coordinates of the vertices (and control points for a Bézier curve) as
 
 _expression_. `Vertices`
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Remarks

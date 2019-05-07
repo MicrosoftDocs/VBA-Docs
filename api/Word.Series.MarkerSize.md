@@ -21,7 +21,7 @@ Returns or sets the data-marker size, in points. Read/write  **Long**.
 
 _expression_.**MarkerSize**
 
- _expression_ A variable that represents a '[Series](Word.Series.md)' object.
+_expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
 
 ## Remarks

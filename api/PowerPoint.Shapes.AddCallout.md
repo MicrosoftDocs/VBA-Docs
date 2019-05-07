@@ -21,7 +21,7 @@ Creates a borderless line callout. Returns a  **[Shape](PowerPoint.Shape.md)** o
 
 _expression_. `AddCallout`( `_Type_`, `_Left_`, `_Top_`, `_Width_`, `_Height_` )
 
- _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
+_expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
 ## Parameters

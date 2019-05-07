@@ -18,7 +18,7 @@ Occurs before the operating system enters a suspended state. If any event handle
 
 Private Sub  _expression_ _'QueryCancelSuspend'(**_ByVal app As [IVAPPLICATION]_**)
 
- _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ## Parameters

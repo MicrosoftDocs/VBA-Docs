@@ -18,7 +18,7 @@ Gets or sets the overtime rate for a  **PayRate** object. Read/write **Variant**
 
 _expression_. `OvertimeRate`
 
- _expression_ A variable that represents a [PayRate](./Project.PayRate.md) object.
+_expression_ A variable that represents a [PayRate](./Project.PayRate.md) object.
 
 
 ## Remarks

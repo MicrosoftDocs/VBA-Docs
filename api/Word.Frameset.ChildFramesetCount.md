@@ -21,7 +21,7 @@ Returns the number of child  **Frameset** objects associated with the specified 
 
 _expression_. `ChildFramesetCount`
 
- _expression_ A variable that represents a '[Frameset](Word.Frameset.md)' object.
+_expression_ A variable that represents a '[Frameset](Word.Frameset.md)' object.
 
 
 ## Remarks

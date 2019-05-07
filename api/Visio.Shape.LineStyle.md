@@ -21,7 +21,7 @@ Specifies the line style for an object. Read/write.
 
 _expression_.**LineStyle**
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Return value

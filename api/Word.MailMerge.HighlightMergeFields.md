@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `HighlightMergeFields`
 
- _expression_ A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
+_expression_ A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 
 
 ## Example

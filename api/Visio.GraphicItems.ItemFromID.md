@@ -24,7 +24,7 @@ Returns a  **GraphicItem** object from the **GraphicItems** collection by using 
 
 _expression_. `ItemFromID`( `_ObjectID_` )
 
- _expression_ A variable that represents a [GraphicItems](./Visio.GraphicItems.md) object.
+_expression_ A variable that represents a [GraphicItems](./Visio.GraphicItems.md) object.
 
 
 ## Parameters

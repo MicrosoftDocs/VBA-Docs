@@ -21,7 +21,7 @@ Determines whether connection points are shown in a window. Read/write.
 
 _expression_. `ShowConnectPoints`
 
- _expression_ A variable that represents a [Window](./Visio.Window.md) object.
+_expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
 ## Return value

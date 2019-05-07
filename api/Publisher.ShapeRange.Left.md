@@ -21,6 +21,6 @@ Returns a  **Variant** indicating the distance from the left edge of the page to
 
 _expression_.**Left**
 
- _expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a  **ShapeRange** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

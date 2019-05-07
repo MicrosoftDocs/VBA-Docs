@@ -18,7 +18,7 @@ Gets a single  **Project** object from the **Projects** collection. Read-only **
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a 'Projects' object.
+_expression_ A variable that represents a 'Projects' object.
 
 
 ## Parameters

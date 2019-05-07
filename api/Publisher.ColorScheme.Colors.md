@@ -21,7 +21,7 @@ Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object representing a col
 
 _expression_.**Colors**(**_ColorIndex_**)
 
- _expression_ A variable that represents a  **ColorScheme** object.
+_expression_ A variable that represents a  **ColorScheme** object.
 
 
 ## Parameters

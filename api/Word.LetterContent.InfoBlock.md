@@ -21,7 +21,7 @@ Associated with the Letter Wizard in Microsoft Word. Not used in the U.S. Englis
 
 _expression_. `InfoBlock`
 
- _expression_ A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
+_expression_ A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 
 
 ## Remarks

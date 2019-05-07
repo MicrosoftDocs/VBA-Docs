@@ -21,7 +21,7 @@ Returns or sets the starting character position of a bookmark. Read/write  **Lon
 
 _expression_.**Start**
 
- _expression_ A variable that represents a '[Bookmark](Word.Bookmark.md)' object.
+_expression_ A variable that represents a '[Bookmark](Word.Bookmark.md)' object.
 
 
 ## Remarks

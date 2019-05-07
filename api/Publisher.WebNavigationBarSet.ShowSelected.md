@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**ShowSelected**
 
- _expression_ A variable that represents a  **WebNavigationBarSet** object.
+_expression_ A variable that represents a  **WebNavigationBarSet** object.
 
 
 ## Return value

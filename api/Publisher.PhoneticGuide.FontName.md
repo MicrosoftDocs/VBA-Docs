@@ -21,6 +21,6 @@ Returns a  **String** that represents the name of the font applied to phonetic i
 
 _expression_.**FontName**
 
- _expression_ A variable that represents a  **PhoneticGuide** object.
+_expression_ A variable that represents a  **PhoneticGuide** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

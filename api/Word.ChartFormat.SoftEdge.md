@@ -21,7 +21,7 @@ Returns the soft edge formatting for a shape. Read-only  **[SoftEdgeFormat](Word
 
 _expression_.**SoftEdge**
 
- _expression_ A variable that represents a '[ChartFormat](Word.ChartFormat.md)' object.
+_expression_ A variable that represents a '[ChartFormat](Word.ChartFormat.md)' object.
 
 
 ## See also

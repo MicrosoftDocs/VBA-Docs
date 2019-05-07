@@ -18,7 +18,7 @@ Selects the object.
 
 _expression_.**Select**
 
- _expression_ A variable that represents a '[SeriesLines](PowerPoint.SeriesLines.md)' object.
+_expression_ A variable that represents a '[SeriesLines](PowerPoint.SeriesLines.md)' object.
 
 
 ## See also

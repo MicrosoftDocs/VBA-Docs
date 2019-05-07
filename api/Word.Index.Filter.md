@@ -21,7 +21,7 @@ Returns or sets a value that specifies how Microsoft Word classifies the first c
 
 _expression_. `Filter`
 
- _expression_ A variable that represents an '[Index](Word.Index.md)' object.
+_expression_ A variable that represents an '[Index](Word.Index.md)' object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Returns a  **[Range](Word.Range.md)** object that represents the portion of a do
 
 _expression_.**Range**
 
- _expression_ A variable that represents a '[Bookmark](Word.Bookmark.md)' object.
+_expression_ A variable that represents a '[Bookmark](Word.Bookmark.md)' object.
 
 
 ## Remarks

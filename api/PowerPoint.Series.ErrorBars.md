@@ -21,7 +21,7 @@ Returns the error bars for the series. Read-only  **[ErrorBars](PowerPoint.Error
 
 _expression_. `ErrorBars`
 
- _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
+_expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 
 
 ## Example

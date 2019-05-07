@@ -21,7 +21,7 @@ Opens an existing master so that it can be edited.
 
 _expression_.**Open**
 
- _expression_ A variable that represents a [Master](./Visio.Master.md) object.
+_expression_ A variable that represents a **[Master](Visio.Master.md)** object.
 
 
 ## Return value

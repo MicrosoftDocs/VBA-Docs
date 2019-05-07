@@ -21,7 +21,7 @@ Returns or sets the position of the chart title on the chart. Read/write  **[XlC
 
 _expression_.**Position**
 
- _expression_ A variable that represents a '[ChartTitle](Word.ChartTitle.md)' object.
+_expression_ A variable that represents a '[ChartTitle](Word.ChartTitle.md)' object.
 
 
 ## See also

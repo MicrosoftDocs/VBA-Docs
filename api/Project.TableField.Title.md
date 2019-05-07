@@ -21,7 +21,7 @@ Gets or sets the title of the field in a table. Read/write  **String**.
 
 _expression_.**Title**
 
- _expression_ A variable that represents a [TableField](./Project.TableField.md) object.
+_expression_ A variable that represents a [TableField](./Project.TableField.md) object.
 
 
 ## Remarks

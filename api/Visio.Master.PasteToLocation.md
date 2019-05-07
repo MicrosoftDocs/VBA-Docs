@@ -21,7 +21,7 @@ Pastes a shape to the specified location.
 
 _expression_. `PasteToLocation`( `_xPos_` , `_yPos_` , `_Flags_` )
 
- _expression_ A variable that represents a '[Master](Visio.Master.md)' object.
+_expression_ A variable that represents a '[Master](Visio.Master.md)' object.
 
 
 ## Parameters

@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that specifies whether margin alignment guides ar
 
 _expression_. `MarginAlignmentGuides`
 
- _expression_ A variable that represents an [Options](./Word.Options.md) object.
+_expression_ A variable that represents an [Options](./Word.Options.md) object.
 
 
 ## Remarks

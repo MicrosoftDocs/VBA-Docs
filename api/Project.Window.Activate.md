@@ -18,6 +18,6 @@ Activates the window, bringing the window to the front of the z-order.
 
 _expression_.**Activate**
 
- _expression_ A variable that represents a [Window](./Project.Window.md) object.
+_expression_ A variable that represents a [Window](./Project.Window.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

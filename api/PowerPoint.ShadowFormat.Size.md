@@ -21,7 +21,7 @@ Returns or sets the size of the specified shadow as a percentage of the shape si
 
 _expression_.**Size**
 
- _expression_ A variable that represents a [ShadowFormat](./PowerPoint.ShadowFormat.md) object.
+_expression_ A variable that represents a [ShadowFormat](./PowerPoint.ShadowFormat.md) object.
 
 
 ## Return value

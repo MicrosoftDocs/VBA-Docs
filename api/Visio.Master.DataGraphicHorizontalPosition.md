@@ -24,7 +24,7 @@ Gets or sets the default horizontal callout position for members of the  **Graph
 
 _expression_. `DataGraphicHorizontalPosition`
 
- _expression_ An expression that returns a [Master](./Visio.Master.md) object.
+ _expression_ An expression that returns a **[Master](Visio.Master.md)** object.
 
 
 ## Return value

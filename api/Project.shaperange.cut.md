@@ -14,7 +14,7 @@ Cuts the shape range to the Clipboard.
 
 _expression_.**Cut**
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Return value

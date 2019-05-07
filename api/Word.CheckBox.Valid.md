@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `Valid`
 
- _expression_ A variable that represents a '[CheckBox](Word.CheckBox.md)' object.
+_expression_ A variable that represents a '[CheckBox](Word.CheckBox.md)' object.
 
 
 ## Example

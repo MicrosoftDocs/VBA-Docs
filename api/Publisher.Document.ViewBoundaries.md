@@ -21,7 +21,7 @@ Returns  **True** if object boundaries are visible in the specified publication.
 
 _expression_.**ViewBoundaries**
 
- _expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a  **Document** object.
 
 
 ## Return value

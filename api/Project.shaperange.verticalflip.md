@@ -14,7 +14,7 @@ Gets a value that indicates whether the shape range is flipped around the vertic
 
 _expression_. `VerticalFlip`
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Property value

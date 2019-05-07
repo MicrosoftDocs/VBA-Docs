@@ -19,7 +19,7 @@ Returns or sets an  **MsoReflectionType** constant that represents the type and 
 
 _expression_.**Type**
 
- _expression_ A variable that represents a  **ReflectionFormat** object.
+_expression_ A variable that represents a  **ReflectionFormat** object.
 
 
 ## Return value

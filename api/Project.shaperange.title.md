@@ -14,7 +14,7 @@ Gets or sets the title of the shapes in the shape range. Read/write  **String**.
 
 _expression_.**Title**
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Property value

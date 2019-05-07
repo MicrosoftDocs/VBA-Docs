@@ -21,7 +21,7 @@ Shows or hides the Web toolbar. Obsolete in Project.
 
 _expression_. `WebToolbar`( `_Show_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

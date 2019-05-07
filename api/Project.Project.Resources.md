@@ -18,7 +18,7 @@ Gets a  **[Resources](Project.resources(object).md)** collection representing th
 
 _expression_. `Resources`
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

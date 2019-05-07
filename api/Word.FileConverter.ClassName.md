@@ -21,7 +21,7 @@ Returns a unique name that identifies the file converter. Read-only  **String**.
 
 _expression_. `ClassName`
 
- _expression_ A variable that represents a '[FileConverter](Word.FileConverter.md)' object.
+_expression_ A variable that represents a '[FileConverter](Word.FileConverter.md)' object.
 
 
 ## Example

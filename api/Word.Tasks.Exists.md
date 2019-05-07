@@ -21,7 +21,7 @@ Determines whether the specified task exists. Returns  **True** if the task exis
 
 _expression_. `Exists`( `_Name_` )
 
- _expression_ A variable that represents a '[Tasks](Word.tasks.md)' collection.
+_expression_ A variable that represents a '[Tasks](Word.tasks.md)' collection.
 
 
 ## Parameters

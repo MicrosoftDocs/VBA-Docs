@@ -21,7 +21,7 @@ Displays the  **Project Statistics** dialog box.
 
 _expression_. `ProjectStatistics`( `_Project_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

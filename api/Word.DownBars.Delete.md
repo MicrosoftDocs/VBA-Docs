@@ -21,7 +21,7 @@ Deletes the object.
 
 _expression_.**Delete**
 
- _expression_ A variable that represents a '[DownBars](Word.DownBars.md)' object.
+_expression_ A variable that represents a '[DownBars](Word.DownBars.md)' object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Opens a ShapeSheet window for a  **Shape** object.
 
 _expression_. `OpenSheetWindow`
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Return value

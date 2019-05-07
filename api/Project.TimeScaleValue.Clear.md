@@ -18,7 +18,7 @@ Clears the value of a timescaled data item.
 
 _expression_.**Clear**
 
- _expression_ A variable that represents a [TimeScaleValue](./Project.TimeScaleValue.md) object.
+_expression_ A variable that represents a [TimeScaleValue](./Project.TimeScaleValue.md) object.
 
 
 ## Example

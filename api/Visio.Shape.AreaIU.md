@@ -21,7 +21,7 @@ Returns the area of a  **Shape** object in internal units (square inches). Read-
 
 _expression_. `AreaIU`( `_fIncludeSubShapes_` )
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters

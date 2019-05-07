@@ -21,7 +21,7 @@ Returns a  **[BorderArts](Publisher.BorderArts.md)** collection that represents 
 
 _expression_.**BorderArts**
 
- _expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a  **Document** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns  **True** if Microsoft PowerPoint can check in a specified presentation 
 
 _expression_. `CanCheckIn`
 
- _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ## Return value

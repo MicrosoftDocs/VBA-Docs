@@ -21,7 +21,7 @@ Returns or sets the type of minor tick mark for the specified axis. Read/write  
 
 _expression_. `MinorTickMark`
 
- _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
+_expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Remarks

@@ -18,7 +18,7 @@ Gets the index of a  **Task** object in the **Tasks** containing object. Read-on
 
 _expression_.**Index**
 
- _expression_ A variable that represents a [Task](./Project.Task.md) object.
+_expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Remarks

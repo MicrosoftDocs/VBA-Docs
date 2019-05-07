@@ -21,7 +21,7 @@ Ensures that all media is up to date in a  **Presentation** object.
 
 _expression_. `EnsureAllMediaUpgraded`
 
- _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ## See also

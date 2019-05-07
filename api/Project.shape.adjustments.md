@@ -14,7 +14,7 @@ Gets an  **[Adjustments](https://msdn.microsoft.com/library/office/ff838852%28v=
 
 _expression_. `Adjustments`
 
- _expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a 'Shape' object.
 
 
 ## Property value

@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that specifies whether sub-pixel positioning is e
 
 _expression_. `UseSubPixelPositioning`
 
- _expression_ A variable that represents an [Options](./Word.Options.md) object.
+_expression_ A variable that represents an [Options](./Word.Options.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns a  **Single** that represents the horizontal baseline spacing of the spe
 
 _expression_.**HorizontalBaseLineSpacing**
 
- _expression_ A variable that represents a  **LayoutGuides** object.
+_expression_ A variable that represents a  **LayoutGuides** object.
 
 
 ## Return value

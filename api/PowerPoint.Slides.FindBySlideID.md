@@ -21,7 +21,7 @@ Returns a  **[Slide](PowerPoint.Slide.md)** object that represents the slide wit
 
 _expression_. `FindBySlideID`( `_SlideID_` )
 
- _expression_ A variable that represents a [Slides](./PowerPoint.Slides.md) object.
+_expression_ A variable that represents a [Slides](./PowerPoint.Slides.md) object.
 
 
 ## Parameters

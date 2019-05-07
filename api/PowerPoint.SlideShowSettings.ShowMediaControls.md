@@ -21,7 +21,7 @@ Allows access to the media controls in the  **SlideShowSettings** object. Read/w
 
 _expression_. `ShowMediaControls`
 
- _expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
+_expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
 
 
 ## See also

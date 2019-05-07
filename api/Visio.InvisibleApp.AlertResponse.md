@@ -21,7 +21,7 @@ Determines whether Microsoft Visio shows alerts and modal dialog boxes to the us
 
 _expression_. `AlertResponse`( `_lpi2Ret_` )
 
- _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ## Return value

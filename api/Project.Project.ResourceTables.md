@@ -21,6 +21,6 @@ Gets a  **[Tables](Project.tables.md)** collection that contains the resource ta
 
 _expression_. `ResourceTables`
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

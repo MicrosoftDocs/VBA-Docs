@@ -18,7 +18,7 @@ Gets a single  **SplitPart** object from the **SplitParts** collection. Read-onl
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a 'SplitParts' object.
+_expression_ A variable that represents a 'SplitParts' object.
 
 
 ## Parameters

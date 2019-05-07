@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**Perspective**
 
- _expression_ A variable that represents a  **ThreeDFormat** object.
+_expression_ A variable that represents a  **ThreeDFormat** object.
 
 
 ## Return value

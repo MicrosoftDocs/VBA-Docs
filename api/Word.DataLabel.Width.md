@@ -21,7 +21,7 @@ Gets or sets the width, in [points](../language/glossary/vbe-glossary.md#point),
 
 _expression_.**Width**
 
- _expression_ A variable that represents a '[DataLabel](Word.DataLabel.md)' object.
+_expression_ A variable that represents a '[DataLabel](Word.DataLabel.md)' object.
 
 
 ## See also

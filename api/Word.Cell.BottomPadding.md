@@ -21,7 +21,7 @@ Returns or sets the amount of space (in points) to add below the contents of a s
 
 _expression_.**BottomPadding**
 
- _expression_ A variable that represents a '[Cell](Word.Cell.md)' object.
+_expression_ A variable that represents a '[Cell](Word.Cell.md)' object.
 
 
 ## Remarks

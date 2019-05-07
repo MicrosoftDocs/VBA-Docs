@@ -18,7 +18,7 @@ Specifies the security mode that Microsoft Publisher uses when programmatically 
 
 _expression_.**AutomationSecurity**
 
- _expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an  **Application** object.
 
 
 ## Return value

@@ -14,7 +14,7 @@ Gets a  **ThreeDFormat** object that contains 3D formatting properties for the s
 
 _expression_.**ThreeD**
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Remarks

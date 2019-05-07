@@ -21,7 +21,7 @@ Returns or sets the default language of a presentation. Read/write.
 
 _expression_. `DefaultLanguageID`
 
- _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ## Return value

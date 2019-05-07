@@ -18,7 +18,7 @@ Returns a  **Long** that represents the four-character creator code for the appl
 
 _expression_.**Creator**
 
- _expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
+_expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns a  **[ColorFormat](Word.ColorFormat.md)** object that represents the col
 
 _expression_. `ExtrusionColor`
 
- _expression_ A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
+_expression_ A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
 ## Example

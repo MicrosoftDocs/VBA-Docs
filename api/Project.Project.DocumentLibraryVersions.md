@@ -21,7 +21,7 @@ Gets a  **DocumentLibraryVersions** collection for the specified project. Read-o
 
 _expression_. `DocumentLibraryVersions`
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

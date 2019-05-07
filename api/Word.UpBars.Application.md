@@ -21,7 +21,7 @@ When used without an object qualifier, returns an  **[Application](Word.Applicat
 
 _expression_.**Application**
 
- _expression_ A variable that represents an '[UpBars](Word.UpBars.md)' object.
+_expression_ A variable that represents an '[UpBars](Word.UpBars.md)' object.
 
 
 ## Example

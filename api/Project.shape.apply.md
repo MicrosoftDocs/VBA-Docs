@@ -14,7 +14,7 @@ Applies formatting to a shape, where the formatting information has been copied 
 
 _expression_.**Apply**
 
- _expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a 'Shape' object.
 
 
 ## Return value

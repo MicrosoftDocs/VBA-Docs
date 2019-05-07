@@ -21,7 +21,7 @@ Returns a  **ThreeDFormat** object that contains 3D formatting properties for th
 
 _expression_.**ThreeD**
 
- _expression_ A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
+_expression_ A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## See also

@@ -18,7 +18,7 @@ Occurs before an assignment is removed or replaced. Uses the  **EventInfo** obje
 
 _expression_. `ProjectBeforeAssignmentDelete2`( `_asg_`, `_Info_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

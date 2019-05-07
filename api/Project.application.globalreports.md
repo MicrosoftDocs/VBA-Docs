@@ -14,7 +14,7 @@ Gets the collection of global (built-in) reports. Read-only  **Reports**.
 
 _expression_. `GlobalReports`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Example

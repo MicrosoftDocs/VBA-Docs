@@ -21,7 +21,7 @@ Returns or sets a  **Single** that represents the length of the radius for a sof
 
 _expression_. `Radius`
 
- _expression_ A variable that represents a '[SoftEdgeFormat Object](Word.SoftEdgeFormat.md)' object.
+_expression_ A variable that represents a '[SoftEdgeFormat Object](Word.SoftEdgeFormat.md)' object.
 
 
 ## See also

@@ -14,7 +14,7 @@ Gets the parent object of the shape. Read-only  **Object**.
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Property value

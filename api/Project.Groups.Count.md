@@ -18,7 +18,7 @@ Gets the number of items in the  **Groups** collection. Read-only **Long**. .
 
 _expression_.**Count**
 
- _expression_ A variable that represents a 'Groups' object.
+_expression_ A variable that represents a 'Groups' object.
 
 
 ## Example

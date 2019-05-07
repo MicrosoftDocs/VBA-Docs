@@ -21,7 +21,7 @@ Returns or sets the name of the specified object. Read/write  **String**.
 
 _expression_.**Name**
 
- _expression_ A variable that represents an '[AutoCorrectEntry](Word.AutoCorrectEntry.md)' object.
+_expression_ A variable that represents an '[AutoCorrectEntry](Word.AutoCorrectEntry.md)' object.
 
 
 ## See also

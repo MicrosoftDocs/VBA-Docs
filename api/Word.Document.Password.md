@@ -21,7 +21,7 @@ Sets a password that must be supplied to open the specified document. Write-only
 
 _expression_. `Password`
 
- _expression_ A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

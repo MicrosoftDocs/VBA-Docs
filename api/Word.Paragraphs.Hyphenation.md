@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `Hyphenation`
 
- _expression_ A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
+_expression_ A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Notifies an undo unit that another undo unit has been added to the undo stack. R
 
 _expression_. `OnNextAdd`
 
- _expression_ A variable that represents an 'IVBUndoUnit' object.
+_expression_ A variable that represents an 'IVBUndoUnit' object.
 
 
 ## Return value

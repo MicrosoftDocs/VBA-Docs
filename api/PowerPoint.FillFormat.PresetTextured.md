@@ -21,7 +21,7 @@ Sets the specified fill to a preset texture.
 
 _expression_.**PresetTextured** (_PresetTexture_)
 
- _expression_ A variable that represents a **[FillFormat](powerpoint.fillformat.md)** object.
+_expression_ A variable that represents a **[FillFormat](powerpoint.fillformat.md)** object.
 
 
 ## Parameters

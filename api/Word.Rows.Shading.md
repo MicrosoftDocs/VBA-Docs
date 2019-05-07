@@ -21,7 +21,7 @@ Returns a  **[Shading](Word.Shading.md)** object that refers to the shading form
 
 _expression_. `Shading`
 
-_expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
+_expression_ Required. A variable that represents a **[Rows](Word.Rows.md)** object.
 
 
 ## Example

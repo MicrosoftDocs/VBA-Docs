@@ -21,7 +21,7 @@ Gets the root object of the object model exposed by Microsoft Visual Basic for A
 
 _expression_. `Vbe`
 
- _expression_ A variable that represents a [Global](./Visio.Global.md) object.
+_expression_ A variable that represents a [Global](./Visio.Global.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns or sets a  **[ParagraphFormat](Word.ParagraphFormat.md)** object that re
 
 _expression_. `ParagraphFormat`
 
- _expression_ A variable that represents a '[ConditionalStyle](Word.ConditionalStyle.md)' object.
+_expression_ A variable that represents a '[ConditionalStyle](Word.ConditionalStyle.md)' object.
 
 
 ## Example

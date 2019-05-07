@@ -21,7 +21,7 @@ Returns a  **Boolean** that indicates whether a transparency color has been appl
 
 _expression_.**HasTransparencyColor**
 
- _expression_ A variable that represents a  **PictureFormat** object.
+_expression_ A variable that represents a  **PictureFormat** object.
 
 
 ## Return value

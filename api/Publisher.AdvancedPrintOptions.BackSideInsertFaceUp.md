@@ -21,7 +21,7 @@ Gets or sets whether envelopes fed to the printer's manual feed should be insert
 
 _expression_.**BackSideInsertFaceUp**
 
- _expression_ A variable that represents an  **AdvancedPrintOptions** object.
+_expression_ A variable that represents an  **AdvancedPrintOptions** object.
 
 
 ## Return value

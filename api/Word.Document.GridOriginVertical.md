@@ -21,7 +21,7 @@ Returns or sets a  **Single** that represents the point, relative to the top of 
 
 _expression_. `GridOriginVertical`
 
- _expression_ A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example

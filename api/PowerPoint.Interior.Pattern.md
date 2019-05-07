@@ -21,7 +21,7 @@ Returns or sets a  **Variant** value, containing an **[XlPattern](PowerPoint.XlP
 
 _expression_.**Pattern**
 
- _expression_ A variable that represents an '[Interior](PowerPoint.Interior.md)' object.
+_expression_ A variable that represents an '[Interior](PowerPoint.Interior.md)' object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Returns an individual  **Cell** object in the specified **CellRange** collection
 
 _expression_.**Item**(**_Index_**)
 
- _expression_ A variable that represents a  **CellRange** object.
+_expression_ A variable that represents a  **CellRange** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Determines whether Microsoft Visio defers recalculating shape sizes and relation
 
 _expression_. `DeferRelationshipRecalc`
 
- _expression_ A variable that represents an '[InvisibleApp](Visio.InvisibleApp.md)' object.
+_expression_ A variable that represents an '[InvisibleApp](Visio.InvisibleApp.md)' object.
 
 
 ## Return value

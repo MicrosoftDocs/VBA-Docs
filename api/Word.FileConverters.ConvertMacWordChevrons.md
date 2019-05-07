@@ -21,7 +21,7 @@ Controls whether text enclosed in chevron characters (« ») is converted to mer
 
 _expression_. `ConvertMacWordChevrons`
 
- _expression_ A variable that represents a '[FileConverters](Word.fileconverters.md)' collection.
+_expression_ A variable that represents a '[FileConverters](Word.fileconverters.md)' collection.
 
 
 ## Remarks

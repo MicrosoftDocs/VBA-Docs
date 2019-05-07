@@ -21,7 +21,7 @@ Customizes which IME mode is used on a given field.
 
 _expression_. `CustomizeIMEMode`( `_FieldID_`, `_IMEMode_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

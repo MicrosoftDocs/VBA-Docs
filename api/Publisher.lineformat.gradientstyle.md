@@ -19,7 +19,7 @@ Returns the gradient style for the specified line. Read-only.
 
 _expression_.**GradientStyle**
 
- _expression_ A variable that represents a  **LineFormat** object.
+_expression_ A variable that represents a  **LineFormat** object.
 
 
 ## Return value

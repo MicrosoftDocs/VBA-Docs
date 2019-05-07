@@ -21,6 +21,6 @@ Gets the column title of the field in the active cell. If the title does not exi
 
 _expression_. `FieldName`
 
- _expression_ A variable that represents a [Cell](./Project.Cell.md) object.
+_expression_ A variable that represents a [Cell](./Project.Cell.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

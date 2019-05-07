@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `BuiltIn`
 
- _expression_ A variable that represents a '[CaptionLabel](Word.CaptionLabel.md)' object.
+_expression_ A variable that represents a '[CaptionLabel](Word.CaptionLabel.md)' object.
 
 
 ## Remarks

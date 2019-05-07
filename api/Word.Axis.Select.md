@@ -21,7 +21,7 @@ Selects the object.
 
 _expression_.**Select**
 
- _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
+_expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## See also

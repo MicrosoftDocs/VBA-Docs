@@ -21,7 +21,7 @@ Returns the path to the specified custom stencil used to populate certain galler
 
 _expression_. `GetCustomStencilFile`( `_StencilType_` )
 
- _expression_ A variable that represents an '[Application](Visio.Application.md)' object.
+_expression_ A variable that represents an '[Application](Visio.Application.md)' object.
 
 
 ## Parameters

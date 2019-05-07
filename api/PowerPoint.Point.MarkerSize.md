@@ -18,7 +18,7 @@ Returns or sets the data-marker size, in points. Read/write  **Long**.
 
 _expression_.**MarkerSize**
 
- _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
+_expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 
 
 ## Remarks

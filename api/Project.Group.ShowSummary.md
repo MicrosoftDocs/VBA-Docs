@@ -18,6 +18,6 @@ localization_priority: Normal
 
 _expression_. `ShowSummary`
 
- _expression_ A variable that represents a [Group](./Project.Group.md) object.
+_expression_ A variable that represents a [Group](./Project.Group.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

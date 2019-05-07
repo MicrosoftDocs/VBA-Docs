@@ -21,7 +21,7 @@ Reroutes connectors so that they take the shortest possible path between the sha
 
 _expression_.**RerouteConnections**
 
- _expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a  **Shape** object.
 
 
 ## Remarks

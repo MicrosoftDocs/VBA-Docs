@@ -18,7 +18,7 @@ localization_priority: Normal
 
 _expression_. `GroupBySummary`
 
- _expression_ A variable that represents a [Task](./Project.Task.md) object.
+_expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Remarks

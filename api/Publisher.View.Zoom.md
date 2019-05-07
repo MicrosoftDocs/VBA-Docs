@@ -21,7 +21,7 @@ Returns or sets a  **PbZoom** constant or a value between 10 and 400 indicating 
 
 _expression_.**Zoom**
 
- _expression_ A variable that represents a  **View** object.
+_expression_ A variable that represents a  **View** object.
 
 
 ## Return value

@@ -21,6 +21,6 @@ Returns a  **Long** that represents the type of mail merge or catalog merge data
 
 _expression_.**Type**
 
- _expression_ A variable that represents a  **MailMergeDataSource** object.
+_expression_ A variable that represents a  **MailMergeDataSource** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

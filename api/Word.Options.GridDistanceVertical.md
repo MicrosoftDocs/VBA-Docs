@@ -21,7 +21,7 @@ Returns or sets the amount of vertical space between the invisible gridlines tha
 
 _expression_. `GridDistanceVertical`
 
- _expression_ A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Example

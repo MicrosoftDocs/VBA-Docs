@@ -21,7 +21,7 @@ Gets or sets the index of a master or master shortcut object within its stencil.
 
 _expression_. `IndexInStencil`
 
- _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
+_expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 
 
 ## Return value

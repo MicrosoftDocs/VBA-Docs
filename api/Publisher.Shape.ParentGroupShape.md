@@ -21,7 +21,7 @@ Returns a  **[Shape](Publisher.Shape.md)** object that represents the common par
 
 _expression_.**ParentGroupShape**
 
- _expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a  **Shape** object.
 
 
 ## Return value

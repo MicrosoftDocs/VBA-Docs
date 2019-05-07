@@ -18,7 +18,7 @@ Returns the MAPI mail session number as a hexadecimal string if there is an acti
 
 _expression_. `MailSession`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Return value

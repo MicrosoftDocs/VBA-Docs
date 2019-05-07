@@ -21,7 +21,7 @@ Returns or sets a  **PbLineSpacingRule** that represents the line spacing for th
 
 _expression_.**LineSpacingRule**
 
- _expression_ A variable that represents a  **ParagraphFormat** object.
+_expression_ A variable that represents a  **ParagraphFormat** object.
 
 
 ## Return value

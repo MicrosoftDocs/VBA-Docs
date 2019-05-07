@@ -21,7 +21,7 @@ Returns an [Application](Word.Application.md)object that represents the Microsof
 
 _expression_.**Application**
 
- _expression_ A variable that represents a '[AutoCaptions](Word.autocaptions.md)' object.
+_expression_ A variable that represents a '[AutoCaptions](Word.autocaptions.md)' object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns or sets the width of the specified  **Task** object, in points. Read/wri
 
 _expression_.**Width**
 
- _expression_ A variable that represents a '[Task](Word.Task.md)' object.
+_expression_ A variable that represents a '[Task](Word.Task.md)' object.
 
 
 ## See also

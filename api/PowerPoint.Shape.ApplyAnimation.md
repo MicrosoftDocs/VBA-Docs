@@ -21,7 +21,7 @@ Applies the last picked up animation to the  **Shape** object.
 
 _expression_. `ApplyAnimation`
 
- _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
+_expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
 ## See also

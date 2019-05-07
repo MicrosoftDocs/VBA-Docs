@@ -14,7 +14,7 @@ Gets the type of shape in the shape range. Read-only  **[MsoShapeType](https://m
 
 _expression_.**Type**
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Property value

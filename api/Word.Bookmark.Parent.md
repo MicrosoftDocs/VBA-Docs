@@ -21,7 +21,7 @@ Returns an  **Object** that represents the parent object of the specified **Book
 
 _expression_.**Parent**
 
- _expression_ A variable that represents an '[Bookmark](Word.Bookmark.md)' object.
+_expression_ A variable that represents an '[Bookmark](Word.Bookmark.md)' object.
 
 
 ## See also

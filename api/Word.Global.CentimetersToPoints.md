@@ -21,7 +21,7 @@ Converts a measurement from centimeters to points (1 cm = 28.35 points). Returns
 
 _expression_. `CentimetersToPoints`( `_Centimeters_` )
 
- _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
+_expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
 
 ## Parameters

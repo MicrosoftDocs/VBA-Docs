@@ -21,7 +21,7 @@ Determines whether a Microsoft Visio instance fires events. Read/write.
 
 _expression_. `EventsEnabled`
 
- _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ## Return value

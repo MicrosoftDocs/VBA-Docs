@@ -18,7 +18,7 @@ Occurs before an assignment is removed or replaced.
 
 _expression_. `ProjectBeforeAssignmentDelete`( `_asg_`, `_Cancel_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

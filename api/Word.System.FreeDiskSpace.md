@@ -21,7 +21,7 @@ Returns the available disk space for the current drive, in bytes. Use the ChDriv
 
 _expression_. `FreeDiskSpace`
 
- _expression_ A variable that represents a '[System](Word.System.md)' object.
+_expression_ A variable that represents a '[System](Word.System.md)' object.
 
 
 ## Remarks

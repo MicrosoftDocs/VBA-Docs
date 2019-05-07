@@ -21,7 +21,7 @@ Gets or sets the command ID associated with a toolbar item. Read/write.
 
 _expression_. `CmdNum`
 
- _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
+_expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 
 
 ## Return value

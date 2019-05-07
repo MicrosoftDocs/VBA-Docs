@@ -21,7 +21,7 @@ Deselects all shapes in a window or selection.
 
 _expression_. `DeselectAll`
 
- _expression_ A variable that represents a [Window](./Visio.Window.md) object.
+_expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
 ## Return value

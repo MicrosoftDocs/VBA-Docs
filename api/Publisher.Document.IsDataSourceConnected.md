@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**IsDataSourceConnected**
 
- _expression_ A variable that represents an  **Document** object.
+_expression_ A variable that represents an  **Document** object.
 
 
 ## Remarks

@@ -19,6 +19,6 @@ Returns the draft work for the engagement. Read-only  **Double**. Introduced in 
 
 _expression_. `EngagementDraftWork`
 
- _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
+_expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

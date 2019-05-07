@@ -18,6 +18,6 @@ Gets the results of task assignments in a Project mail message.  **True** if a r
 
 _expression_. `Confirmed`
 
- _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
+_expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

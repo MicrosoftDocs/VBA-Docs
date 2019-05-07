@@ -21,7 +21,7 @@ Returns or sets the distance (in points) between the left edge of the envelope a
 
 _expression_. `AddressFromLeft`
 
- _expression_ A variable that represents a '[Envelope](Word.Envelope.md)' object.
+_expression_ A variable that represents a '[Envelope](Word.Envelope.md)' object.
 
 
 ## Remarks

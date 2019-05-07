@@ -21,7 +21,7 @@ Returns an individual  **Row** object in a collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
+_expression_ Required. A variable that represents a **[Rows](Word.Rows.md)** object.
 
 
 ## Parameters

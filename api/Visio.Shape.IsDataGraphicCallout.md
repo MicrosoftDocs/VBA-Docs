@@ -21,7 +21,7 @@ Specifies whether a shape is a data graphic callout. Read-only.
 
 _expression_. `IsDataGraphicCallout`
 
- _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
+ _expression_ An expression that returns a **[Shape](Visio.Shape.md)** object.
 
 
 ## Return value

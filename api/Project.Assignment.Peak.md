@@ -18,7 +18,7 @@ Gets the largest number of resource units for the assignment. Read-only  **Varia
 
 _expression_. `Peak`
 
- _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
+_expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 
 ## Example

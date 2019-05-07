@@ -18,7 +18,7 @@ Gets a single  **LookupTableEntry** object from the **LookupTable** collection o
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a 'LookupTable' object.
+_expression_ A variable that represents a 'LookupTable' object.
 
 
 ## Parameters

@@ -19,7 +19,7 @@ Set to  **True** to display the **Value From Cells** range field in all the char
 
 _expression_.**ShowRange**
 
- _expression_ A variable that represents a [DataLabels](./Word.DataLabels.md) object.
+_expression_ A variable that represents a [DataLabels](./Word.DataLabels.md) object.
 
 
 ## Example

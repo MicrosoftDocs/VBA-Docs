@@ -21,7 +21,7 @@ Returns a single text style level from the specified  **TextStyleLevels** collec
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [TextStyleLevels](./PowerPoint.TextStyleLevels.md) object.
+_expression_ A variable that represents a [TextStyleLevels](./PowerPoint.TextStyleLevels.md) object.
 
 
 ## Parameters

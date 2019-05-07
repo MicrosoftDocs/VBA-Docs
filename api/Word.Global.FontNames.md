@@ -21,7 +21,7 @@ Returns a  **[FontNames](Word.FontNames.md)** object that includes the names of 
 
 _expression_. `FontNames`
 
- _expression_ A variable that represents a '[Global](Word.Global.md)' object.
+_expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Example

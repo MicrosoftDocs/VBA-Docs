@@ -21,7 +21,7 @@ Returns or sets the label that identifies the items to be included in a table of
 
 _expression_.**Caption**
 
- _expression_ A variable that represents a '[TableOfFigures](Word.TableOfFigures.md)' collection.
+_expression_ A variable that represents a '[TableOfFigures](Word.TableOfFigures.md)' collection.
 
 
 ## Remarks

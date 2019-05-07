@@ -21,7 +21,7 @@ Gets or sets the height of the printed page in points. Read/write.
 
 _expression_.**PaperHeight**
 
- _expression_ A variable that represents a  **Printer** object.
+_expression_ A variable that represents a  **Printer** object.
 
 
 ## Return value

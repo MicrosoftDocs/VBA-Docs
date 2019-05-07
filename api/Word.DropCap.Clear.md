@@ -21,7 +21,7 @@ Removes the dropped capital letter formatting.
 
 _expression_.**Clear**
 
- _expression_ A variable that represents a '[DropCap](Word.DropCap.md)' object.
+_expression_ A variable that represents a '[DropCap](Word.DropCap.md)' object.
 
 
 ## Example

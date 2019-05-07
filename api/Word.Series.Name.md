@@ -21,7 +21,7 @@ Returns or sets the name of the object. Read/write  **String**.
 
 _expression_.**Name**
 
- _expression_ A variable that represents a '[Series](Word.Series.md)' object.
+_expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
 
 ## See also

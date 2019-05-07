@@ -21,7 +21,7 @@ Returns the row in a section specified by row index number. Read-only.
 
 _expression_. `Row` (_Index_)
 
- _expression_ A variable that represents a [Section](./Visio.Section.md) object.
+_expression_ A variable that represents a [Section](./Visio.Section.md) object.
 
 
 ## Parameters

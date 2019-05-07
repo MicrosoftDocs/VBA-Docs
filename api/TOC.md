@@ -26057,6 +26057,7 @@
 ###### [VisualBoundingBox](Visio.master.visualboundingbox.md)
 ##### Properties
 ###### [AlignName](Visio.Master.AlignName.md)
+###### [AlternativeText](Visio.Master.AlternativeText.md)
 ###### [Application](Visio.Master.Application.md)
 ###### [BaseID](Visio.Master.BaseID.md)
 ###### [Connects](Visio.Master.Connects.md)
@@ -26094,6 +26095,7 @@
 ###### [Shapes](Visio.Master.Shapes.md)
 ###### [SpatialSearch](Visio.Master.SpatialSearch.md)
 ###### [Stat](Visio.Master.Stat.md)
+###### [Title](Visio.Master.Title.md)
 ###### [Type](Visio.Master.Type.md)
 ###### [UniqueID](Visio.Master.UniqueID.md)
 #### [Masters object](Visio.Masters.md)
@@ -26427,6 +26429,7 @@
 ###### [UniqueIDsToShapeIDs](Visio.Page.UniqueIDsToShapeIDs.md)
 ###### [VisualBoundingBox](Visio.page.visualboundingbox.md)
 ##### Properties
+###### [AlternativeText](Visio.Page.AlternativeText.md)
 ###### [Application](Visio.Page.Application.md)
 ###### [AutoSize](Visio.page.autosize.md)
 ###### [Background](Visio.Page.Background.md)
@@ -26455,6 +26458,7 @@
 ###### [Stat](Visio.Page.Stat.md)
 ###### [ThemeColors](Visio.Page.ThemeColors.md)
 ###### [ThemeEffects](Visio.Page.ThemeEffects.md)
+###### [Title](Visio.Page.Title.md)
 ###### [Type](Visio.Page.Type.md)
 #### [Pages object](Visio.Pages.md)
 ##### Events
@@ -26800,6 +26804,7 @@
 ###### [XYFromPage](Visio.Shape.XYFromPage.md)
 ###### [XYToPage](Visio.Shape.XYToPage.md)
 ##### Properties
+###### [AlternativeText](Visio.Shape.AlternativeText.md)
 ###### [Application](Visio.Shape.Application.md)
 ###### [AreaIU](Visio.Shape.AreaIU.md)
 ###### [CalloutsAssociated](Visio.Shape.CalloutsAssociated.md)
@@ -26856,6 +26861,7 @@
 ###### [Name](Visio.Shape.Name.md)
 ###### [NameID](Visio.Shape.NameID.md)
 ###### [NameU](Visio.Shape.NameU.md)
+###### [NavigationIndex](Visio.Shape.NavigationIndex.md)
 ###### [Object](Visio.Shape.Object.md)
 ###### [ObjectIsInherited](Visio.Shape.ObjectIsInherited.md)
 ###### [ObjectType](Visio.Shape.ObjectType.md)
@@ -26883,6 +26889,7 @@
 ###### [Text](Visio.Shape.Text.md)
 ###### [TextStyle](Visio.Shape.TextStyle.md)
 ###### [TextStyleKeepFmt](Visio.Shape.TextStyleKeepFmt.md)
+###### [Title](Visio.Shape.Title.md)
 ###### [Type](Visio.Shape.Type.md)
 ###### [UniqueID](Visio.Shape.UniqueID.md)
 #### [Shapes object](Visio.Shapes.md)

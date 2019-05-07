@@ -21,7 +21,7 @@ Adds a new section at the specified index position and returns the index of the 
 
 _expression_. `AddSection`( `_sectionIndex_`, `_sectionName_` )
 
- _expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
+_expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
 
 
 ## Parameters

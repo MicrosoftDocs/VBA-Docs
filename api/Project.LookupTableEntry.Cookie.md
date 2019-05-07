@@ -21,6 +21,6 @@ Represents a token for the lookup table structure. Read-only  **String**.
 
 _expression_. `Cookie`
 
- _expression_ A variable that represents a [LookupTableEntry](./Project.LookupTableEntry.md) object.
+_expression_ A variable that represents a [LookupTableEntry](./Project.LookupTableEntry.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

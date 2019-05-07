@@ -21,7 +21,7 @@ When the  **[Type](Publisher.WrapFormat.Type.md)** property of the **[WrapFormat
 
 _expression_.**DistanceBottom**
 
- _expression_ A variable that represents a  **WrapFormat** object.
+_expression_ A variable that represents a  **WrapFormat** object.
 
 
 ## Example

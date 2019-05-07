@@ -21,7 +21,7 @@ Returns the number of cells in a row of a ShapeSheet section. Read-only.
 
 _expression_. `RowsCellCount`( `_Section_` , `_Row_` )
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters

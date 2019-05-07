@@ -21,7 +21,7 @@ Returns an  **[EmailAuthor](Word.EmailAuthor.md)** object that represents the au
 
 _expression_. `CurrentEmailAuthor`
 
- _expression_ A variable that represents a '[Email](Word.Email.md)' object.
+_expression_ A variable that represents a '[Email](Word.Email.md)' object.
 
 
 ## Example

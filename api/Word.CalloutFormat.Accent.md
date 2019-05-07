@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**Accent**
 
- _expression_ A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
+_expression_ A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Sets or returns a  **String** that represents the subject for email messages gen
 
 _expression_.**EmailSubject**
 
- _expression_ A variable that represents a  **WebCommandButton** object.
+_expression_ A variable that represents a  **WebCommandButton** object.
 
 
 ## Example

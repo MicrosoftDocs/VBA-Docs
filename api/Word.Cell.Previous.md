@@ -21,7 +21,7 @@ Returns a  **Cell** object that represents the previous table cell in the **[Cel
 
 _expression_.**Previous**
 
- _expression_ A variable that represents a '[Cell](Word.Cell.md)' object.
+_expression_ A variable that represents a '[Cell](Word.Cell.md)' object.
 
 
 ## Example

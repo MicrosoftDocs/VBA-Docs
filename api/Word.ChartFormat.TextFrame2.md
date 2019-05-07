@@ -21,7 +21,7 @@ Returns the text formatting for the specified chart element. Read-only  **TextFr
 
 _expression_. `TextFrame2`
 
- _expression_ A variable that represents a '[ChartFormat](Word.ChartFormat.md)' object.
+_expression_ A variable that represents a '[ChartFormat](Word.ChartFormat.md)' object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Centers a page's, master's, or group's shapes with respect to the extent of the 
 
 _expression_. `CenterDrawing`
 
- _expression_ A variable that represents a [Page](./Visio.Page.md) object.
+_expression_ A variable that represents a **[Page](Visio.Page.md)** object.
 
 
 ## Return value

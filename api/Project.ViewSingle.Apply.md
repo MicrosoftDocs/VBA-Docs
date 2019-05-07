@@ -18,7 +18,7 @@ Applies the single view.
 
 _expression_.**Apply**
 
- _expression_ A variable that represents a [ViewSingle](./Project.ViewSingle.md) object.
+_expression_ A variable that represents a [ViewSingle](./Project.ViewSingle.md) object.
 
 
 ## Return value

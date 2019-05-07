@@ -21,7 +21,7 @@ Deletes an item from the Organizer.
 
 _expression_. `OrganizerDeleteItem`( `_Type_`, `_FileName_`, `_Name_`, `_Task_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

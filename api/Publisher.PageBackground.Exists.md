@@ -21,6 +21,6 @@ localization_priority: Normal
 
 _expression_.**Exists**
 
- _expression_ A variable that represents a  **PageBackground** object.
+_expression_ A variable that represents a  **PageBackground** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

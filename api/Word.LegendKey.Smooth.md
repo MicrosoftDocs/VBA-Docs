@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**Smooth**
 
- _expression_ A variable that represents a '[LegendKey](Word.LegendKey.md)' object.
+_expression_ A variable that represents a '[LegendKey](Word.LegendKey.md)' object.
 
 
 ## See also

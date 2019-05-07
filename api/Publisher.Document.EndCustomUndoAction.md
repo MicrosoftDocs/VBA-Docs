@@ -21,7 +21,7 @@ Specifies the endpoint of a group of actions that are wrapped to create a single
 
 _expression_.**EndCustomUndoAction**
 
- _expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a  **Document** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns the  **Selection** object that represents a selected range or the insert
 
 _expression_.**Selection**
 
- _expression_ A variable that represents a '[Window](Word.Window.md)' object.
+_expression_ A variable that represents a '[Window](Word.Window.md)' object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Returns an  **[Envelope](Word.Envelope.md)** object that represents an envelope 
 
 _expression_. `Envelope`
 
- _expression_ A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example

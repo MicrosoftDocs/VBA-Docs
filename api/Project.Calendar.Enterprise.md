@@ -18,7 +18,7 @@ localization_priority: Normal
 
 _expression_. `Enterprise`
 
- _expression_ A variable that represents a [Calendar](./Project.Calendar.md) object.
+_expression_ A variable that represents a [Calendar](./Project.Calendar.md) object.
 
 
 ## Remarks

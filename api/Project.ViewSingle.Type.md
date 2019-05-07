@@ -18,7 +18,7 @@ Gets the type of item in the single view, such as tasks or resources. Read-only 
 
 _expression_.**Type**
 
- _expression_ A variable that represents a [ViewSingle](./Project.ViewSingle.md) object.
+_expression_ A variable that represents a [ViewSingle](./Project.ViewSingle.md) object.
 
 
 ## Remarks

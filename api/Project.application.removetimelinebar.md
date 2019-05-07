@@ -19,7 +19,7 @@ Removes a  **Timeline** bar from the view. Introduced in Office 2016.
 
 _expression_. `RemoveTimelineBar` _(BarIndex) _
 
- _expression_ A variable that represents a [Application](./Project.Application.md) object.
+_expression_ A variable that represents a [Application](./Project.Application.md) object.
 
 
 ## Parameters

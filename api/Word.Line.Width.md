@@ -21,7 +21,7 @@ Returns or sets the width, in [points](../language/glossary/vbe-glossary.md#poin
 
 _expression_.**Width**
 
- _expression_ A variable that represents a '[Line](Word.Line.md)' object.
+_expression_ A variable that represents a '[Line](Word.Line.md)' object.
 
 
 ## See also

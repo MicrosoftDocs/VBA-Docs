@@ -18,7 +18,7 @@ Gets the total number of predecessor tasks that affect the start date of a task.
 
 _expression_. `TotalDetectedCount`
 
- _expression_ A variable that represents a 'PredecessorDrivers' object.
+_expression_ A variable that represents a 'PredecessorDrivers' object.
 
 
 ## Remarks

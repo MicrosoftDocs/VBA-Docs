@@ -18,7 +18,7 @@ Gets or sets the height of a project window in points. Read/write  **Long**.
 
 _expression_.**Height**
 
- _expression_ A variable that represents a [Window](./Project.Window.md) object.
+_expression_ A variable that represents a [Window](./Project.Window.md) object.
 
 
 ## Remarks

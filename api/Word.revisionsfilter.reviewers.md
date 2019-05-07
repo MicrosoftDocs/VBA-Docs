@@ -19,7 +19,7 @@ Returns a [Reviewers](Word.Reviewers.md) object that represents the collection o
 
 _expression_. `Reviewers`
 
- _expression_ A variable that represents a 'RevisionsFilter' object.
+_expression_ A variable that represents a 'RevisionsFilter' object.
 
 
 ## Remarks

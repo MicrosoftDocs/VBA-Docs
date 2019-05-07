@@ -21,7 +21,7 @@ Returns or sets the name for the default mailing label. Read/write  **String**.
 
 _expression_. `DefaultLabelName`
 
- _expression_ A variable that represents a '[MailingLabel](Word.MailingLabel.md)' object.
+_expression_ A variable that represents a '[MailingLabel](Word.MailingLabel.md)' object.
 
 
 ## Remarks

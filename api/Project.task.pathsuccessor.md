@@ -14,7 +14,7 @@ Gets a value that indicates whether the task is a successor of the selected task
 
 _expression_. `PathSuccessor`
 
- _expression_ A variable that represents a [Task](./Project.Task.md) object.
+_expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Remarks

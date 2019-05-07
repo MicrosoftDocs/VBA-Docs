@@ -21,7 +21,7 @@ Returns an  **Application** object that represents the creator of the parent **P
 
 _expression_.**Application**
 
- _expression_ A variable that represents a  **PageSizes** collection.
+_expression_ A variable that represents a  **PageSizes** collection.
 
 
 ## Return value

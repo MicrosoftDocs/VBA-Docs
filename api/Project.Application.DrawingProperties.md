@@ -21,7 +21,7 @@ Displays the  **Format Drawing** dialog box, which prompts the user to customize
 
 _expression_. `DrawingProperties`( `_SizePositionTab_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

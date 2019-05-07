@@ -16,7 +16,7 @@ The ProposedStart property for the Engagement object. Introduced in Office 2016.
 
 _expression_. `ProposedStart`
 
- _expression_ A variable that represents a 'Engagement' object.
+_expression_ A variable that represents a 'Engagement' object.
 
 
 ## See also

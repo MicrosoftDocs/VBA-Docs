@@ -21,7 +21,7 @@ Returns the parent of the  **[Attachments](Publisher.Attachments.md)** collectio
 
 _expression_.**Parent**
 
- _expression_ A variable that represents an  **Attachments** object.
+_expression_ A variable that represents an  **Attachments** object.
 
 
 ## Return value

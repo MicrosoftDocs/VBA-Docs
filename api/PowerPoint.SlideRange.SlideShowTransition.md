@@ -21,7 +21,7 @@ Returns a  **[SlideShowTransition](PowerPoint.SlideShowTransition.md)** object t
 
 _expression_. `SlideShowTransition`
 
- _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
+_expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
 
 ## Return value

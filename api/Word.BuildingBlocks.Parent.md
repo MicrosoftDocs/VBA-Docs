@@ -18,7 +18,7 @@ Returns an  **Object** that represents the parent object of the specified **Buil
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a '[BuildingBlocks](Word.BuildingBlocks.md)' object.
+_expression_ A variable that represents a '[BuildingBlocks](Word.BuildingBlocks.md)' object.
 
 
 ## See also

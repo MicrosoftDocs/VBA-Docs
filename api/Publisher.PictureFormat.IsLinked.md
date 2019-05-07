@@ -21,7 +21,7 @@ Returns a  **MsoTriState** constant indicating whether the specified picture is 
 
 _expression_.**IsLinked**
 
- _expression_ A variable that represents an  **PictureFormat** object.
+_expression_ A variable that represents an  **PictureFormat** object.
 
 
 ## Return value

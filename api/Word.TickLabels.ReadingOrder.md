@@ -21,7 +21,7 @@ Returns or sets an  **[XlReadingOrder](Word.XlReadingOrder.md)** constant that r
 
 _expression_.**ReadingOrder**
 
- _expression_ A variable that represents a '[TickLabels](Word.TickLabels.md)' object.
+_expression_ A variable that represents a '[TickLabels](Word.TickLabels.md)' object.
 
 
 ## See also

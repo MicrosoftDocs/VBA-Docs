@@ -18,7 +18,7 @@ Gets or sets the character that separates the levels of a code mask Read/write  
 
 _expression_.**Separator**
 
- _expression_ A variable that represents a [CodeMaskLevel](./Project.CodeMaskLevel.md) object.
+_expression_ A variable that represents a [CodeMaskLevel](./Project.CodeMaskLevel.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns or sets the position of the unit label on an axis in the chart. Read/wri
 
 _expression_.**Position**
 
- _expression_ A variable that represents a '[DisplayUnitLabel](Word.DisplayUnitLabel.md)' object.
+_expression_ A variable that represents a '[DisplayUnitLabel](Word.DisplayUnitLabel.md)' object.
 
 
 ## See also

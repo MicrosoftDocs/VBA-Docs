@@ -21,7 +21,7 @@ Activates a window or OLE object.
 
 _expression_.**Activate**
 
- _expression_ A variable that represents an  **OLEFormat** object.
+_expression_ A variable that represents an  **OLEFormat** object.
 
 
 ## Remarks

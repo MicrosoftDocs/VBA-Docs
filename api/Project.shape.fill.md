@@ -14,7 +14,7 @@ Gets a  **FillFormat** object for the shape, if the shape contains fill formatti
 
 _expression_. `Fill`
 
- _expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a 'Shape' object.
 
 
 ## Property value

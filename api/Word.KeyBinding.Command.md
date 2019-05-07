@@ -21,7 +21,7 @@ Returns the command assigned to the specified key combination. Read-only  **Stri
 
 _expression_. `Command`
 
- _expression_ A variable that represents a '[KeyBinding](Word.KeyBinding.md)' object.
+_expression_ A variable that represents a '[KeyBinding](Word.KeyBinding.md)' object.
 
 
 ## Example

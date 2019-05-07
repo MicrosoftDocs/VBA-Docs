@@ -18,7 +18,7 @@ Gets a  **[Tasks](Project.Task.md)** collection representing the tasks in the pr
 
 _expression_. `Tasks`
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Saves a presentation that's never been saved, or saves a previously saved presen
 
 _expression_. `SaveAs`( `_FileName_`, `_FileFormat_`, `_EmbedFonts_` )
 
- _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ## Parameters

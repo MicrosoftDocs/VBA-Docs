@@ -21,7 +21,7 @@ Creates a new object with a specified ID in a collection.
 
 _expression_. `AddAtID`( `_lID_` )
 
- _expression_ A variable that represents an [AccelTables](./Visio.AccelTables.md) object.
+_expression_ A variable that represents an [AccelTables](./Visio.AccelTables.md) object.
 
 
 ## Parameters

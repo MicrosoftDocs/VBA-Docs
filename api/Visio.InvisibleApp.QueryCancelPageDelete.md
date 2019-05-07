@@ -18,7 +18,7 @@ Occurs before the application deletes a page in response to a user action in the
 
 Private Sub  _expression_ _'QueryCancelPageDelete'(**_ByVal Page As [IVPAGE]_**)
 
- _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ## Parameters

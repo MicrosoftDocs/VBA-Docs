@@ -21,7 +21,7 @@ Adjusts the height of the specified rows or cells so that they're equal.
 
 _expression_. `DistributeHeight`
 
-_expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
+_expression_ Required. A variable that represents a **[Rows](Word.Rows.md)** object.
 
 
 ## Example

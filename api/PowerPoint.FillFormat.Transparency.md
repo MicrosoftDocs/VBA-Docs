@@ -21,7 +21,7 @@ Returns or sets the degree of transparency of the specified fill, shadow, or lin
 
 _expression_.**Transparency**
 
- _expression_ A variable that represents a **[FillFormat](powerpoint.fillformat.md)** object.
+_expression_ A variable that represents a **[FillFormat](powerpoint.fillformat.md)** object.
 
 
 ## Return value

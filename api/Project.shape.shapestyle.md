@@ -14,7 +14,7 @@ Gets or sets the style of the shape. Read/write  **[MsoShapeStyleIndex](https://
 
 _expression_. `ShapeStyle`
 
- _expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a 'Shape' object.
 
 
 ## Property value

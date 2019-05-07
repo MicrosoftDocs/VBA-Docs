@@ -21,7 +21,7 @@ Returns an  **Object** that represents the parent object of the specified **Book
 
 _expression_.**Parent**
 
- _expression_ A variable that represents an '[Bookmarks](Word.bookmarks.md)' collection.
+_expression_ A variable that represents an '[Bookmarks](Word.bookmarks.md)' collection.
 
 
 ## See also

@@ -18,7 +18,7 @@ Gets or sets a friendly name representing a hyperlink address. The name may also
 
 _expression_.**Hyperlink**
 
- _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
+_expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 
 ## Example

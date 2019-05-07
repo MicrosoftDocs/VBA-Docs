@@ -21,7 +21,7 @@ Returns a  **[Comments](PowerPoint.Comments.md)** object that represents a colle
 
 _expression_. `Comments`
 
- _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
+_expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
 
 ## Return value

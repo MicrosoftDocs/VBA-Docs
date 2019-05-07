@@ -18,7 +18,7 @@ Gets a single  **Task** object from the **Tasks** collection. Read-only **Task**
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a 'Tasks' object.
+_expression_ A variable that represents a 'Tasks' object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Sets the position of the specified node. Depending on the editing type of the no
 
 _expression_.**SetPosition**(**_Index_**,  **_X1_**,  **_Y1_**)
 
- _expression_ A variable that represents a  **ShapeNodes** object.
+_expression_ A variable that represents a  **ShapeNodes** object.
 
 
 ## Parameters

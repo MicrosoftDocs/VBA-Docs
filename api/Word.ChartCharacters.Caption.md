@@ -21,7 +21,7 @@ Returns the text of this range of characters. Read-only  **String**.
 
 _expression_.**Caption**
 
- _expression_ A variable that represents a '[ChartCharacters](Word.ChartCharacters.md)' object.
+_expression_ A variable that represents a '[ChartCharacters](Word.ChartCharacters.md)' object.
 
 
 ## See also

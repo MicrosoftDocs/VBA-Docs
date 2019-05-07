@@ -21,7 +21,7 @@ Changes the list numbers and LISTNUM fields in the specified  **List** object.
 
 _expression_. `ConvertNumbersToText`
 
- _expression_ A variable that represents a '[List](Word.List.md)' object.
+_expression_ A variable that represents a '[List](Word.List.md)' object.
 
 
 ## Example

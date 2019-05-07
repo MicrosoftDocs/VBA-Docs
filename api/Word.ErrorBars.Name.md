@@ -21,7 +21,7 @@ Returns the name of the object. Read-only  **String**.
 
 _expression_.**Name**
 
- _expression_ A variable that represents an '[ErrorBars](Word.ErrorBars.md)' object.
+_expression_ A variable that represents an '[ErrorBars](Word.ErrorBars.md)' object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns or sets a value that specifies whether to add a center line between the 
 
 _expression_.**GutterCenterlines**
 
- _expression_ A variable that represents a  **LayoutGuides** object.
+_expression_ A variable that represents a  **LayoutGuides** object.
 
 
 ## Return value

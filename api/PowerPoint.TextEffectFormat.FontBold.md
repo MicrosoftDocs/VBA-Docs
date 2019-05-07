@@ -21,7 +21,7 @@ Determines whether the font in the specified WordArt is bold. Read/write.
 
 _expression_.**FontBold**
 
- _expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
+_expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
 
 
 ## Return value

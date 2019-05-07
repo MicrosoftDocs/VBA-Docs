@@ -18,6 +18,6 @@ Returns the parent of the  **CaptionStyles** collection. Read-only.
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a  **CaptionStyles** object.
+_expression_ A variable that represents a  **CaptionStyles** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

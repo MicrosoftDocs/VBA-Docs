@@ -18,6 +18,6 @@ Gets an  **[Assignments](Project.Assignment.md)** collection representing the as
 
 _expression_. `Assignments`
 
- _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
+_expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

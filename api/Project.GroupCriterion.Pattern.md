@@ -18,7 +18,7 @@ Gets or sets the pattern of the cell for a field used as a criterion in a group 
 
 _expression_.**Pattern**
 
- _expression_ A variable that represents a [GroupCriterion](./Project.GroupCriterion.md) object.
+_expression_ A variable that represents a [GroupCriterion](./Project.GroupCriterion.md) object.
 
 
 ## Remarks

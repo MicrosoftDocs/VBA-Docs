@@ -21,7 +21,7 @@ Creates a shape that has the geometric characteristics of the specified  **[Free
 
 _expression_.**ConvertToShape**
 
- _expression_ A variable that represents a  **FreeformBuilder** object.
+_expression_ A variable that represents a  **FreeformBuilder** object.
 
 
 ## Return value

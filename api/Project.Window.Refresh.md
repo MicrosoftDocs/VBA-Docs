@@ -21,7 +21,7 @@ Refreshes the window.
 
 _expression_.**Refresh**
 
- _expression_ A variable that represents a [Window](./Project.Window.md) object.
+_expression_ A variable that represents a [Window](./Project.Window.md) object.
 
 
 ## Return value

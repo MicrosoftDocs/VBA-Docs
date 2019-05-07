@@ -21,7 +21,7 @@ Specifies the shape type. Read-only.
 
 _expression_.**Type**
 
- _expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Remarks

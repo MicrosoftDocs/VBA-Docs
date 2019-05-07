@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**IsTwoPageMaster**
 
- _expression_ A variable that represents an  **Page** object.
+_expression_ A variable that represents an  **Page** object.
 
 
 ## Return value

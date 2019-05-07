@@ -14,7 +14,7 @@ The  **RerouteConnections** method is not implemented in Project.
 
 _expression_. `RerouteConnections`
 
- _expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a 'Shape' object.
 
 
 ## Return value

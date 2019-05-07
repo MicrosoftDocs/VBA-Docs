@@ -21,7 +21,7 @@ Converts a measurement from points to inches (1 inch = 72 points). Returns the c
 
 _expression_. `PointsToInches`( `_Points_` )
 
- _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
+_expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
 
 ## Parameters

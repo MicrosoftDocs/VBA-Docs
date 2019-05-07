@@ -21,7 +21,7 @@ Determines whether the date and time object contains automatically updated infor
 
 _expression_. `UseFormat`
 
- _expression_ A variable that represents an [HeaderFooter](./PowerPoint.HeaderFooter.md) object.
+_expression_ A variable that represents an [HeaderFooter](./PowerPoint.HeaderFooter.md) object.
 
 
 ## Return value

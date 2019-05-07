@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `ApplyPictToEnd`
 
- _expression_ A variable that represents a '[Point](Word.Point.md)' object.
+_expression_ A variable that represents a '[Point](Word.Point.md)' object.
 
 
 ## Example

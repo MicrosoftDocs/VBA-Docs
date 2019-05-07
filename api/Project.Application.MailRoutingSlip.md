@@ -21,7 +21,7 @@ Adds a mail routing slip for the active project.
 
 _expression_. `MailRoutingSlip`( `_To_`, `_Subject_`, `_Body_`, `_AllAtOnce_`, `_ReturnWhenDone_`, `_TrackStatus_`, `_Clear_`, `_SendNow_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

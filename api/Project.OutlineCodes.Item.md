@@ -18,7 +18,7 @@ Gets a single  **OutlineCode** object from the **OutlineCodes** collection. Read
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents an 'OutlineCodes' object.
+_expression_ A variable that represents an 'OutlineCodes' object.
 
 
 ## Parameters

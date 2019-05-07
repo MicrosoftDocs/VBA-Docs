@@ -21,7 +21,7 @@ Returns the number of bulleted or numbered items and LISTNUM fields in the speci
 
 _expression_. `CountNumberedItems`
 
- _expression_ A variable that represents a '[List](Word.List.md)' object.
+_expression_ A variable that represents a '[List](Word.List.md)' object.
 
 
 ## Example

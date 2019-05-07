@@ -16,7 +16,7 @@ Returns a **[GlowFormat](Publisher.glowformat.md)** object that represents the g
 
 _expression_.**Glow**
 
- _expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a  **Shape** object.
 
 
 ## Return value

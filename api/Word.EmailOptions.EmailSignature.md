@@ -21,7 +21,7 @@ Returns an  **[EmailSignature](Word.EmailSignature.md)** object that represents 
 
 _expression_. `EmailSignature`
 
- _expression_ A variable that represents a '[EmailOptions](Word.EmailOptions.md)' object.
+_expression_ A variable that represents a '[EmailOptions](Word.EmailOptions.md)' object.
 
 
 ## Example

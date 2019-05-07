@@ -21,7 +21,7 @@ Determines whether to display banded columns, in which even columns are formatte
 
 _expression_. `VertBanding`
 
- _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
+_expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 
 
 ## Return value

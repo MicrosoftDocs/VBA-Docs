@@ -21,7 +21,7 @@ Closes the specified dynamic data exchange (DDE) channel to another application.
 
 _expression_. `DDETerminate`( `_Channel_` )
 
- _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
+_expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
 
 ## Parameters

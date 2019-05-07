@@ -21,7 +21,7 @@ Returns or sets the heading style that marks a new chapter when chapter numbers 
 
 _expression_. `ChapterStyleLevel`
 
- _expression_ A variable that represents a '[CaptionLabel](Word.CaptionLabel.md)' object.
+_expression_ A variable that represents a '[CaptionLabel](Word.CaptionLabel.md)' object.
 
 
 ## Remarks

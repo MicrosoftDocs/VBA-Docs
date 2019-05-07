@@ -21,7 +21,7 @@ Creates a shape whose path is defined by the supplied sequence of Bezier control
 
 _expression_. `DrawBezier`( `_xyArray()_` , `_degree_` , `_Flags_` )
 
- _expression_ A variable that represents a [Master](./Visio.Master.md) object.
+_expression_ A variable that represents a **[Master](Visio.Master.md)** object.
 
 
 ## Parameters

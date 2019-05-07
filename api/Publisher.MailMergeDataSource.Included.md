@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**Included**
 
- _expression_ A variable that represents an  **MailMergeDataSource** object.
+_expression_ A variable that represents an  **MailMergeDataSource** object.
 
 
 ## Return value

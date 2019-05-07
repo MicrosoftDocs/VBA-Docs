@@ -18,7 +18,7 @@ Gets a single  **Profile** object from the **Profiles** collection. Read-only **
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a 'Profiles' object.
+_expression_ A variable that represents a 'Profiles' object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns or sets a string that contains the OLE verb that will be run when the sp
 
 _expression_. `ActionVerb`
 
- _expression_ A variable that represents a [PlaySettings](./PowerPoint.PlaySettings.md) object.
+_expression_ A variable that represents a [PlaySettings](./PowerPoint.PlaySettings.md) object.
 
 
 ## Remarks

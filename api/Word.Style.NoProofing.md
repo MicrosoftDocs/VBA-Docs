@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `NoProofing`
 
- _expression_ A variable that represents a '[Style](Word.Style.md)' object.
+_expression_ A variable that represents a '[Style](Word.Style.md)' object.
 
 
 ## Example

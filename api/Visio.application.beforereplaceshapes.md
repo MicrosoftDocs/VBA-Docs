@@ -16,7 +16,7 @@ Occurs just before a shape-replacement operation.
 
 _expression_. `BeforeReplaceShapes`_(replaceShapes)_
 
- _expression_ A variable that represents a [Application](./Visio.Application.md) object.
+_expression_ A variable that represents a [Application](./Visio.Application.md) object.
 
 
 ## Parameters

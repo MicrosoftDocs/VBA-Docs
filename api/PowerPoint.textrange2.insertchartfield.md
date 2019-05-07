@@ -17,7 +17,7 @@ This method applies only to data labels in a chart. Calling this method on any o
 
 _expression_. `InsertChartField`_(ChartFieldType,_ _Formula,_ _Position)_
 
- _expression_ A variable that represents a 'TextRange2' object.
+_expression_ A variable that represents a 'TextRange2' object.
 
 
 ## Parameters

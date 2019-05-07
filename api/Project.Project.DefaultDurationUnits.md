@@ -18,7 +18,7 @@ Gets or sets the default duration units. Read/write  **PjUnit**.
 
 _expression_. `DefaultDurationUnits`
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

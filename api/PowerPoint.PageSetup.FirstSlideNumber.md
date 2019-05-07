@@ -21,7 +21,7 @@ Returns or sets the slide number for the first slide in the presentation. Read/w
 
 _expression_. `FirstSlideNumber`
 
- _expression_ A variable that represents a [PageSetup](./PowerPoint.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](./PowerPoint.PageSetup.md) object.
 
 
 ## Return value

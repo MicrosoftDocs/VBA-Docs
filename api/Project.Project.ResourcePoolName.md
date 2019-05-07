@@ -21,7 +21,7 @@ Gets the name of the enterprise resource pool that a project uses in Project Pro
 
 _expression_. `ResourcePoolName`
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns the name of the template from which the document was created. Read-only.
 
 _expression_. `Template`
 
- _expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ## Return value

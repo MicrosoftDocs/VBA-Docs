@@ -21,7 +21,7 @@ Displays online Help information.
 
 _expression_.**Help**(**_HelpType_**)
 
- _expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an  **Application** object.
 
 
 ## Parameters

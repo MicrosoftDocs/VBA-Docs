@@ -21,7 +21,7 @@ Specifies whether the  **Links between Projects** dialog box appears when openin
 
 _expression_. `LinksBetweenProjects`( `_AcceptAll_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

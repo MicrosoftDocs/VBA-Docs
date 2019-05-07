@@ -21,7 +21,7 @@ Prints the specified presentation.
 
 _expression_. `PrintOut`( `_From_`, `_To_`, `_PrintToFile_`, `_Copies_`, `_Collate_` )
 
- _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ## Parameters

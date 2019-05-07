@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `AddSpaceBetweenFarEastAndDigit`
 
- _expression_ A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
+_expression_ A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Example

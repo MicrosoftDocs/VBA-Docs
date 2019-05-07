@@ -21,7 +21,7 @@ Returns the window associated with a  **KeyboardEvent** object. Read-only.
 
 _expression_. `Window`
 
- _expression_ A variable that represents a [KeyboardEvent](./Visio.KeyboardEvent.md) object.
+_expression_ A variable that represents a [KeyboardEvent](./Visio.KeyboardEvent.md) object.
 
 
 ## Return value

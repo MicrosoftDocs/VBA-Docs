@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `FrameResizable`
 
- _expression_ A variable that represents a '[Frameset](Word.Frameset.md)' object.
+_expression_ A variable that represents a '[Frameset](Word.Frameset.md)' object.
 
 
 ## Remarks

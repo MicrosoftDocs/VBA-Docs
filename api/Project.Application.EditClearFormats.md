@@ -21,7 +21,7 @@ Clears the format of the active cells.
 
 _expression_. `EditClearFormats`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Deletes the specified  **SlideRange** object.
 
 _expression_.**Delete**
 
- _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
+_expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
 
 ## See also

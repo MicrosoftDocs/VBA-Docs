@@ -21,7 +21,7 @@ Returns the full build number of the instance last used to edit the document. Re
 
 _expression_. `FullBuildNumberEdited`
 
- _expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ## Return value

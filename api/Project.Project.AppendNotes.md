@@ -18,7 +18,7 @@ Appends text to the Notes field.
 
 _expression_. `AppendNotes`( `_Value_` )
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Parameters

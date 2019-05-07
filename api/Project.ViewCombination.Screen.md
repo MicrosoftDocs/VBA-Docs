@@ -18,7 +18,7 @@ Gets the screen type for the combination view. Read-only  **PjViewScreen**.
 
 _expression_. `Screen`
 
- _expression_ A variable that represents a [ViewCombination](./Project.ViewCombination.md) object.
+_expression_ A variable that represents a [ViewCombination](./Project.ViewCombination.md) object.
 
 
 ## Remarks

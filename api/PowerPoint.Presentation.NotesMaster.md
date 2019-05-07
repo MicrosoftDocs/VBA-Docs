@@ -21,7 +21,7 @@ Returns a  **[Master](PowerPoint.Master.md)** object that represents the notes m
 
 _expression_. `NotesMaster`
 
- _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ## Return value

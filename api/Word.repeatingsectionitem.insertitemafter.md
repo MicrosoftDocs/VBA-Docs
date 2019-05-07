@@ -19,7 +19,7 @@ Adds a repeating section item after the specified item and returns the new item.
 
 _expression_. `InsertItemAfter`
 
- _expression_ A variable that represents a 'RepeatingSectionItem' object.
+_expression_ A variable that represents a 'RepeatingSectionItem' object.
 
 
 ## Return value

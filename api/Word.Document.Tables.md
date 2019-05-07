@@ -21,7 +21,7 @@ Returns a  **[Table](Word.Table.md)** collection that represents all the tables 
 
 _expression_. `Tables`
 
- _expression_ A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

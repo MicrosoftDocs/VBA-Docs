@@ -21,7 +21,7 @@ Returns the class ID string of the container application in which the document i
 
 _expression_. `ClassID`
 
- _expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ## Return value

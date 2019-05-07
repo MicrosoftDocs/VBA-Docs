@@ -21,7 +21,7 @@ Returns the ID of the page that is associated with the validation issue. Read-on
 
 _expression_. `TargetPageID`
 
- _expression_ A variable that represents a '[ValidationIssue](Visio.ValidationIssue.md)' object.
+_expression_ A variable that represents a '[ValidationIssue](Visio.ValidationIssue.md)' object.
 
 
 ## Return value

@@ -18,7 +18,7 @@ Gets the parent of the  **CalendarDrivers** object. Read-only **Task**.
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a 'CalendarDrivers' object.
+_expression_ A variable that represents a 'CalendarDrivers' object.
 
 
 ## Remarks

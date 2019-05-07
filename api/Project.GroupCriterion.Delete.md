@@ -18,6 +18,6 @@ Deletes the  **GroupCriterion** object from a **GroupCriteria** collection.
 
 _expression_.**Delete**
 
- _expression_ A variable that represents a [GroupCriterion](./Project.GroupCriterion.md) object.
+_expression_ A variable that represents a [GroupCriterion](./Project.GroupCriterion.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

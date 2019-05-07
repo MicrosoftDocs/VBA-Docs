@@ -21,7 +21,7 @@ This object or member has been deprecated, but it remains part of the object mod
 
 Private Sub  _expression_ _'Sync'(**_SyncEventType_**)
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object that has been declared using the **WithEvents** keyword in a class module. For information about using events with the **Document** object, see [Using Events with the Document Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md).
+_expression_ A variable that represents a '[Document](Word.Document.md)' object that has been declared using the **WithEvents** keyword in a class module. For information about using events with the **Document** object, see [Using Events with the Document Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md).
 
 
 ## Parameters

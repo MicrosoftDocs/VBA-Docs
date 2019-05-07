@@ -21,7 +21,7 @@ Sets the BorderArt on the specified shape back to its default thickness.
 
 _expression_.**RevertToDefaultWeight**
 
- _expression_ A variable that represents a  **BorderArtFormat** object.
+_expression_ A variable that represents a  **BorderArtFormat** object.
 
 
 ## Remarks

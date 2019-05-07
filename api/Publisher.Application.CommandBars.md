@@ -21,7 +21,7 @@ Sets or returns a  **CommandBars** collection that represents the menu bar and a
 
 _expression_.**CommandBars**
 
- _expression_ A variable that represents a  **Application** object.
+_expression_ A variable that represents a  **Application** object.
 
 
 ## Return value

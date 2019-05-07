@@ -21,7 +21,7 @@ Indicates the file format of the specified document. Read-only.
 
 _expression_.**SaveFormat**
 
- _expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a  **Document** object.
 
 
 ## Return value
