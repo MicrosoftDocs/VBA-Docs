@@ -54,7 +54,7 @@ ActiveCell.PivotField.PivotFilters.Add FilterType := xlTopCount DataField := MyP
  
 ActiveCell.PivotField.PivotFilters.Add FilterType := xlCaptionIsNotBetween Value1 := "A" Value2 := "G" 
  
-ActiveCell.PivotField.PivotFilters.Add FilterType := xlValueIsGreaterThanOrEqualTo DataField := MyPivotField2 Value1 := 10000 
+ActiveCell.PivotField.PivotFilters.Add FilterType := xlValueIsGreaterThanOrEqualTo DataField := MyPivotField2 Value1 := 10000  
 
 ```
 
@@ -63,7 +63,8 @@ ActiveCell.PivotField.PivotFilters.Add FilterType := xlValueIsGreaterThanOrEqual
 The following example returns a run-time error because the data type of _Value1_ is invalid.
 
 ```vb
-ActiveCell.PivotField.PivotFilters.Add FilterType := xlValueIsGreaterThanOrEqualTo DataField := MyPivotField2 Value1 := Allan
+ActiveCell.PivotField.PivotFilters.Add FilterType := xlValueIsGreaterThanOrEqualTo DataField := MyPivotField2 Value1 := Allan  
+
 ```
 
 

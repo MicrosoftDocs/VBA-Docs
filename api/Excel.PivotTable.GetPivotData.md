@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotTable.GetPivotData
 ms.assetid: 2d4600dd-6ca4-569a-6f93-79f6dbd43a09
-ms.date: 06/08/2017
+ms.date: 05/08/2019
 localization_priority: Normal
 ---
 
 
 # PivotTable.GetPivotData method (Excel)
 
-Returns a  **[Range](Excel.Range(object).md)** object with information about a data item in a PivotTable report.
+Returns a **[Range](Excel.Range(object).md)** object with information about a data item in a PivotTable report.
 
 
 ## Syntax
@@ -65,8 +65,7 @@ Range
 
 ## Example
 
-In this example, Microsoft Excel returns the quantity of chairs in the warehouse to the user. This example assumes a PivotTable report exists on the active worksheet. Also, this example assumes that, in the report, the title of the data field is "Quantity", a field titled "Warehouse" exists, and a data item titled "Chairs" exists in the Warehouse field.
-
+In this example, Microsoft Excel returns the quantity of chairs in the warehouse to the user. This example assumes that a PivotTable report exists on the active worksheet. Also, this example assumes that, in the report, the title of the data field is Quantity, a field titled Warehouse exists, and a data item titled Chairs exists in the Warehouse field.
 
 ```vb
 Sub UseGetPivotData() 
@@ -83,9 +82,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[PivotTable Object](Excel.PivotTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

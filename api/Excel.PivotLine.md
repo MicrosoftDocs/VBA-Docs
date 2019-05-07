@@ -19,7 +19,7 @@ A **PivotLine** object is a line of rows or columns in an Excel PivotTable.
 
 ## Remarks
 
-PivotLines contain only visible items, so collapsed children of items and items in hidden levels are not present in the **PivotLine** collection.
+PivotLines contain only visible items, so collapsed children of items and items in hidden levels are not present in the **[PivotLines](excel.pivotlines.md)** collection.
 
 PivotLines always have a PivotItem in all positions. This means that the PivotLines representing subtotals in the PivotTable contain fewer PivotItems than regular PivotLines.
 
