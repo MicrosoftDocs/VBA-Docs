@@ -19,14 +19,12 @@ Creates an object that represents an item in a document saved to a webpage. Such
 
 ## Syntax
 
-_expression_.**Add**( `_SourceType_` , `_FileName_` , `_Sheet_` , `_Source_` , `_HtmlType_` , `_DivID_` , `_Title_` )
+_expression_.**Add** (_SourceType_, _FileName_, _Sheet_, _Source_, _HtmlType_, _DivID_, _Title_)
 
 _expression_ A variable that represents a **[PublishObjects](Excel.PublishObjects.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -19,14 +19,12 @@ Returns an  **[AddIn](Word.AddIn.md)** object that represents an add-in added to
 
 ## Syntax
 
-_expression_.**Add**( `_FileName_` , `_Install_` )
+_expression_.**Add** (_FileName_, _Install_)
 
 _expression_ Required. A variable that represents an '[AddIns](Word.addins.md)' collection.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

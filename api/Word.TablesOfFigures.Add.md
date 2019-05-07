@@ -19,14 +19,12 @@ Returns a  **TableOfFigures** object that represents a table of figures added to
 
 ## Syntax
 
-_expression_.**Add**( `_Range_` , `_Caption_` , `_IncludeLabel_` , `_UseHeadingStyles_` , `_UpperHeadingLevel_` , `_LowerHeadingLevel_` , `_UseFields_` , `_TableID_` , `_RightAlignPageNumbers_` , `_IncludePageNumbers_` , `_AddedStyles_` , `_UseHyperlinks_` , `_HidePageNumbersInWeb_` )
+_expression_.**Add** (_Range_, _Caption_, _IncludeLabel_, _UseHeadingStyles_, _UpperHeadingLevel_, _LowerHeadingLevel_, _UseFields_, _TableID_, _RightAlignPageNumbers_, _IncludePageNumbers_, _AddedStyles_, _UseHyperlinks_, _HidePageNumbersInWeb_)
 
 _expression_ Required. A variable that represents a '[TablesOfFigures](Word.tablesoffigures.md)' collection.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -19,7 +19,7 @@ Returns an  **Editor** object that represents a new permission for a specified u
 
 ## Syntax
 
-_expression_.**Add**( `_EditorID_` )
+_expression_.**Add** (_EditorID_)
 
 _expression_ Required. A variable that represents an '[Editors](Word.Editors.md)' collection.
 

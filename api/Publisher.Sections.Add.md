@@ -19,7 +19,7 @@ Adds a new  **Section** object to the specified **Sections** collection and retu
 
 ## Syntax
 
-_expression_.**Add**(**_StartPageIndex_**)
+_expression_.**Add** (_StartPageIndex_)
 
  _expression_ A variable that represents a  **Sections** object.
 

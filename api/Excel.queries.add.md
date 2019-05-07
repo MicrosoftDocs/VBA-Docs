@@ -24,8 +24,8 @@ _expression_ A variable that represents a 'Queries' object.
 
 ## Parameters
 
-
-
+|Name|Required/Optional|Data type|Description|
+|:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the query.|
 | _Formula_|Required|**String**|The Power Query M formula for the new query.|
 | _Description_|Optional|**Variant**|The description of the query.|

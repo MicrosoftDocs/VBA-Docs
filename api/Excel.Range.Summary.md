@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `Summary`
+_expression_.**Summary**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 

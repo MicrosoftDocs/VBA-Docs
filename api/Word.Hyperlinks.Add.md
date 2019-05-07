@@ -19,7 +19,7 @@ Returns a  **Hyperlink** object that represents a new hyperlink added to a range
 
 ## Syntax
 
-_expression_.**Add**( `_Anchor_` , `_Address_` , `_SubAddress_` , `_ScreenTip_` , `_TextToDisplay_` , `_Target_` )
+_expression_.**Add** (_Anchor_, _Address_, _SubAddress_, _ScreenTip_, _TextToDisplay_, _Target_)
 
 _expression_ Required. A variable that represents a '[Hyperlinks](Word.hyperlinks.md)' collection.
 

@@ -19,7 +19,7 @@ Returns a  **MailMergeField** object that represents a mail merge field added to
 
 ## Syntax
 
-_expression_.**Add**( `_Range_` , `_Name_` )
+_expression_.**Add** (_Range_, _Name_)
 
 _expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
 

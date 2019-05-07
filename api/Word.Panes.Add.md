@@ -19,7 +19,7 @@ Returns a  **Pane** object that represents a new pane to a window.
 
 ## Syntax
 
-_expression_.**Add**( `_SplitVertical_` )
+_expression_.**Add** (_SplitVertical_)
 
 _expression_ Required. A variable that represents a '[Panes](Word.panes.md)' collection.
 

@@ -19,7 +19,7 @@ Adds a new file type to a file search.
 
 ## Syntax
 
-_expression_.**Add**(_FileType_)
+_expression_.**Add** (_FileType_)
 
 _expression_ Required. A variable that represents a **[FileTypes](Office.FileTypes.md)** object.
 

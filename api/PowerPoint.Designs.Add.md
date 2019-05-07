@@ -19,14 +19,12 @@ Returns a  **[Design](PowerPoint.Design.md)** object that represents a new slide
 
 ## Syntax
 
-_expression_.**Add**( `_designName_`, `_Index_` )
+_expression_.**Add** (_designName_, _Index_)
 
 _expression_ A variable that represents a [Designs](./PowerPoint.Designs.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

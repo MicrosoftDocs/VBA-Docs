@@ -21,7 +21,7 @@ Occurs when an Outlook item is cut from a folder.
 
 _expression_. `BeforeItemCut`( `_Cancel_` )
 
-_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
+_expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
 
 
 ## Parameters

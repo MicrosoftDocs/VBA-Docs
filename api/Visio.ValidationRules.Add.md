@@ -19,7 +19,7 @@ Adds a new, empty **[ValidationRule](Visio.ValidationRule.md)** object to the **
 
 ## Syntax
 
-_expression_.**Add**( `_NameU_` )
+_expression_.**Add** (_NameU_)
 
  _expression_ A variable that represents a [ValidationRules](./Visio.ValidationRules.md) object.
 

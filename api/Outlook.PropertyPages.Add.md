@@ -19,7 +19,7 @@ Adds a new custom property page to the Microsoft Outlook **Options** dialog box 
 
 ## Syntax
 
-_expression_.**Add**( `_Page_` , `_Title_` )
+_expression_.**Add** (_Page_, _Title_)
 
 _expression_ A variable that represents a [PropertyPages](Outlook.PropertyPages.md) object.
 

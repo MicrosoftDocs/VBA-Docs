@@ -14,14 +14,12 @@ Adds a  **[Page](Outlook.page.md)** to a **[Pages](Outlook.pages(object).md)** c
 
 ## Syntax
 
-_expression_.**Add**(**_bstrName_**,  **_bstrCaption_**,  **_lIndex_**)
+_expression_.**Add** (_bstrName_, _bstrCaption_, _lIndex_)
 
 _expression_ A variable that represents a  **Pages** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

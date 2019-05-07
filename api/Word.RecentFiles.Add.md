@@ -19,7 +19,7 @@ Returns a  **RecentFile** object that represents a file added to the list of rec
 
 ## Syntax
 
-_expression_.**Add**( `_Document_` , `_ReadOnly_` )
+_expression_.**Add** (_Document_, _ReadOnly_)
 
 _expression_ Required. A variable that represents a '[RecentFiles](Word.recentfiles.md)' collection.
 

@@ -19,7 +19,7 @@ Adds a new content control, of the type specified, into the active document and 
 
 ## Syntax
 
-_expression_.**Add**( `_Type_` , `_Range_` )
+_expression_.**Add** (_Type_, _Range_)
 
  _expression_ An expression that returns a [ContentControls](./Word.ContentControls.md) object.
 

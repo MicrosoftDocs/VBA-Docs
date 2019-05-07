@@ -16,7 +16,7 @@ Creates a new sort field and returns a **SortFields** object.
 
 ## Syntax
 
-_expression_.**Add**( `Key` , `SortOn` , `Order` , `CustomOrder` , `DataOption` )
+_expression_.**Add** (_Key_, _SortOn_, _Order_, _CustomOrder_, _DataOption_)
 
 _expression_ A variable that represents a [SortFields](Excel.SortFields.md) object.
 
