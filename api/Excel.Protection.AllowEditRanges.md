@@ -19,7 +19,7 @@ Returns an  **[AllowEditRanges](Excel.AllowEditRanges.md)** object.
 
 ## Syntax
 
-_expression_. `AllowEditRanges`
+_expression_.**AllowEditRanges**
 
 _expression_ A variable that represents a **[Protection](Excel.Protection.md)** object.
 

@@ -50,7 +50,7 @@ Generally, when you use **Set** to assign an object reference to a variable, no 
 
 ## Example
 
-This example uses the **Set** statement to assign object references to variables. `YourObject` is assumed to be a valid object with a **Text** property.
+This example uses the **Set** statement to assign object references to variables. _YourObject_ is assumed to be a valid object with a **Text** property.
 
 
 ```vb

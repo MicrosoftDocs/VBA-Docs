@@ -16,7 +16,7 @@ Adds a  **TaskDependency** object to a **TaskDependencies** collection.
 
 ## Syntax
 
-_expression_.**Add**( `_From_`, `_Type_`, `_Lag_` )
+_expression_.**Add** (_From_, _Type_, _Lag_)
 
  _expression_ A variable that represents a 'TaskDependencies' object.
 

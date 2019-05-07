@@ -19,7 +19,7 @@ The  **ShowTableStyleColumnStripes** property displays banded columns in which e
 
 ## Syntax
 
-_expression_. `ShowTableStyleColumnStripes`
+_expression_.**ShowTableStyleColumnStripes**
 
 _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 

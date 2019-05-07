@@ -32,7 +32,7 @@ The following table shows example values of the **Name** property and related pr
 |:-----|:-----|:-----|
 | **Caption**|Paris|Paris|
 | **Name**|[Europe].[France].[Paris] &nbsp;(read-only)|Paris|
-| **SourceName**|[Europe].[France].[Paris] &nbsp;(read-only)|(Same as SQL property value, read-only)|
+| **SourceName**|[Europe].[France].[Paris] &nbsp;(read-only)|Same as the SQL property value (read-only)|
 | **Value**|[Europe].[France].[Paris] &nbsp;(read-only)|Paris|
 
 If you import data by using the user interface, data from a web query or a text query is imported as a **QueryTable** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.

@@ -19,14 +19,12 @@ Returns an  **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** object that
 
 ## Syntax
 
-_expression_.**Add**( `_Type_`, `_Index_` )
+_expression_.**Add** (_Type_, _Index_)
 
 _expression_ A variable that represents an [AnimationBehaviors](./PowerPoint.AnimationBehaviors.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

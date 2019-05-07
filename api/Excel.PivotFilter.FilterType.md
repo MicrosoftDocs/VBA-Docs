@@ -7,19 +7,19 @@ ms.prod: excel
 api_name:
 - Excel.PivotFilter.FilterType
 ms.assetid: 0c7b7a0c-1472-8a36-2876-62353568ec90
-ms.date: 06/08/2017
+ms.date: 05/07/2019
 localization_priority: Normal
 ---
 
 
 # PivotFilter.FilterType property (Excel)
 
-Specifies the type of filter to be applied. Read-only  **xlPivotFilterType**.
+Specifies the type of filter to be applied. Read-only **[XlPivotFilterType](excel.xlpivotfiltertype.md)**.
 
 
 ## Syntax
 
-_expression_. `FilterType`
+_expression_.**FilterType**
 
 _expression_ A variable that represents a **[PivotFilter](Excel.PivotFilter.md)** object.
 
@@ -28,9 +28,7 @@ _expression_ A variable that represents a **[PivotFilter](Excel.PivotFilter.md)*
 
 The following table shows the new filter types, the arguments that must be supplied, and the arguments that cannot be supplied (Unavailable) for each filter type.
 
-
-
-|**xlPivotFilterType**|**DataField**|**DataCubeField (OLAP)**|**Value1**|**Value2**|
+|XlPivotFilterType|DataField|DataCubeField (OLAP)|Value1|Value2|
 |:-----|:-----|:-----|:-----|:-----|
 |xlTopCount|Required|Required|Required|Unavailable|
 |xlBottomCount|Required|Required|Required|Unavailable|
@@ -101,9 +99,6 @@ The following table shows the new filter types, the arguments that must be suppl
 |xlFilterAllDatesInPeriodNovember|Unavailable|Unavailable|Unavailable|Unavailable|
 |xlFilterAllDatesInPeriodDecember|Unavailable|Unavailable|Unavailable|Unavailable|
 
-## See also
 
-
-[PivotFilter Object](Excel.PivotFilter.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,19 +7,19 @@ ms.prod: excel
 api_name:
 - Excel.PivotItem.DrilledDown
 ms.assetid: 863909c6-7d2c-4b54-7fb9-de79a6487e4d
-ms.date: 06/08/2017
+ms.date: 05/07/2019
 localization_priority: Normal
 ---
 
 
 # PivotItem.DrilledDown property (Excel)
 
- **True** if the flag for the specified PivotTable field or PivotTable item is set to "drilled" (expanded, or visible). Read/write **Boolean**.
+**True** if the flag for the specified PivotTable field or PivotTable item is set to "drilled" (expanded or visible). Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `DrilledDown`
+_expression_.**DrilledDown**
 
 _expression_ A variable that represents a **[PivotItem](Excel.PivotItem.md)** object.
 
@@ -35,16 +35,12 @@ You cannot set this property if the field or item is hidden.
 
 This example sets the flags to "not drilled" for all items in the state field in the third PivotTable report on the active worksheet.
 
-
 ```vb
 ActiveSheet.PivotTables("PivotTable3") _ 
  .PivotFields("state").DrilledDown = False
 ```
 
 
-## See also
 
-
-[PivotItem Object](Excel.PivotItem.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

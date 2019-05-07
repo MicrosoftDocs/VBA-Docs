@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotLayout.PivotTable
 ms.assetid: b4393cb2-33d2-453b-81ef-4fada332539b
-ms.date: 06/08/2017
+ms.date: 05/07/2019
 localization_priority: Normal
 ---
 
 
 # PivotLayout.PivotTable property (Excel)
 
-Returns a  **[PivotTable](Excel.PivotTable.md)** object that represents the PivotTable report associated with the PivotChart report.
+Returns a **[PivotTable](Excel.PivotTable.md)** object that represents the PivotTable report associated with the PivotChart report.
 
 
 ## Syntax
@@ -26,18 +26,16 @@ _expression_ A variable that represents a **[PivotLayout](Excel.PivotLayout.md)*
 
 ## Example
 
-This example sets the current page for the PivotTable report on Sheet1 to the page named "Canada."
-
+This example sets the current page for the PivotTable report on Sheet1 to the page named Canada.
 
 ```vb
 Set pvtTable = Worksheets("Sheet1").Range("A3").PivotTable 
 pvtTable.PivotFields("Country").CurrentPage = "Canada"
 ```
 
-This example determines the PivotTable report associated with the Sales chart on the active worksheet, and then it sets the page named "Oregon" as the current page for the PivotTable report.
+<br/>
 
-
-
+This example determines the PivotTable report associated with the Sales chart on the active worksheet, and then it sets the page named Oregon as the current page for the PivotTable report.
 
 ```vb
 Set objPT = _ 
@@ -46,9 +44,5 @@ objPT.PivotFields("State").CurrentPageName = "Oregon"
 ```
 
 
-## See also
-
-
-[PivotLayout Object](Excel.PivotLayout.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

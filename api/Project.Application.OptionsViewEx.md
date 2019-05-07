@@ -52,7 +52,7 @@ _expression_. `OptionsViewEx`( `_DefaultView_`, `_DateFormat_`, `_ProjectSummary
 | _DisplayWindowsInTaskbar_|Optional|**Boolean**|**True** if project windows appear on the task bar and in the task list.|
 | _DisplayScreentips_|Optional|**Boolean**|**True** if Project displays screen tips for items such as link lines or column headers.|
 | _CalendarType_|Optional|**Integer**|Sets the type of calendar for displaying Project content on the screen. Can be one of the  **[pjCalendarType](Project.PjCalendarType.md)** values.|
-| _Use3DLook_|Optional|**Boolean**|**True** if bars and shapes in Gantt views have a 3-dimensional appearance; otherwise **False**.|
+| _Use3DLook_|Optional|**Boolean**|**True** if bars and shapes in Gantt views have a 3-dimensional appearance; otherwise, **False**.|
 
 ## Return value
 

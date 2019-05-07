@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[SparkHorizontalAxis](Excel.SparkHori
 
 ## Remarks
 
- **True** if the horizontal axis is based on date values; otherwise **False**.
+ **True** if the horizontal axis is based on date values; otherwise, **False**.
 
 
 ## See also

@@ -28,7 +28,7 @@ _expression_ A variable that represents a '[TextFrame2](Excel.TextFrame2.md)' ob
 
 ## Remarks
 
- **msoTrue** (-1) if text will remain flat when the text frame is rotated; otherwise **msoFalse** (0).
+ **msoTrue** (-1) if text will remain flat when the text frame is rotated; otherwise, **msoFalse** (0).
 
 
 ## See also

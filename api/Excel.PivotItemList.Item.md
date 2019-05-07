@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotItemList.Item
 ms.assetid: 69d0c71b-aa5a-b6cd-41d7-825197af869e
-ms.date: 06/08/2017
+ms.date: 05/07/2019
 localization_priority: Normal
 ---
 
@@ -26,26 +26,23 @@ _expression_ A variable that represents a **[PivotItemList](Excel.PivotItemList.
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The name or index number for the object.|
 
 ## Return value
 
-A  **[PivotItem](Excel.PivotItem.md)** object contained by the collection.
+A **[PivotItem](Excel.PivotItem.md)** object contained by the collection.
 
 
 ## Remarks
 
-The text name of the object is the value of the  **[Name](Excel.PivotItem.Name.md)** and **[Value](Excel.PivotItem.Value.md)** properties.
+The text name of the object is the value of the **[Name](Excel.PivotItem.Name.md)** and **[Value](Excel.PivotItem.Value.md)** properties.
 
 
 ## Example
 
 This example hides calculated item one.
-
 
 ```vb
 Worksheets(1).PivotTables(1).PivotFields("year") _ 
@@ -53,9 +50,6 @@ Worksheets(1).PivotTables(1).PivotFields("year") _
 ```
 
 
-## See also
 
-
-[PivotItemList Object](Excel.PivotItemList.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

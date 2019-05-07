@@ -21,7 +21,7 @@ Returns or sets a  **Long** specifying the position (in pixels) of the left vert
 
 _expression_.**Left**
 
-_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
+_expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
 
 
 ## See also

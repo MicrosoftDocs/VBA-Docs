@@ -21,7 +21,7 @@ Occurs when an explorer stops being the active window, either as a result of use
 
 _expression_.**Deactivate**
 
-_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
+_expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
 
 
 ## Remarks

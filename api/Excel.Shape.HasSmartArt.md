@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[Shape](Excel.Shape.md)' object.
 
 ## Remarks
 
- **msoTrue** (-1) if there is a SmartArt diagram present on the shape; otherwise **msoFalse** (0).
+ **msoTrue** (-1) if there is a SmartArt diagram present on the shape; otherwise, **msoFalse** (0).
 
 
 ## See also

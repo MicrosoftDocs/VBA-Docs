@@ -85,7 +85,7 @@ After you have identified a built-in action in an  **action** element, you can m
     
 2. Specify the internal name of the action as the value of the  **name** attribute of the **action** element.
     
-3. Specify  **true** as the value of the disabled attribute of the **action** element.
+3. Specify  **True** as the value of the disabled attribute of the **action** element.
     
 The following example identifies the built-in action,  `replyToFolder`, and disables it:
 
@@ -99,7 +99,7 @@ The following example identifies the built-in action,  `replyToFolder`, and disa
 </customActions>
 ```
 
-
- **Note**  You can assign  **disabled** either a string value or an integer value. The default value is **false** or **0**. To disable a built-in action for a form region, assign  **disabled** either **true** or **1**.
+> [!NOTE] 
+> You can assign  **disabled** either a string value or an integer value. The default value is **False** or **0**. To disable a built-in action for a form region, assign  **disabled** either **True** or **1**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

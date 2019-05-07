@@ -16,14 +16,12 @@ Adds a  **Group** object to a **Groups** collection.
 
 ## Syntax
 
-_expression_.**Add**( `_Name_`, `_FieldName_` )
+_expression_.**Add** (_Name_, _FieldName_)
 
  _expression_ A variable that represents a 'Groups' object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

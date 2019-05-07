@@ -19,7 +19,7 @@ The  **TableStyle2** property specifies the PivotTable style currently applied t
 
 ## Syntax
 
-_expression_. `TableStyle2`
+_expression_.**TableStyle2**
 
 _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 

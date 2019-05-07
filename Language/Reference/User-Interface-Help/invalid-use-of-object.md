@@ -20,7 +20,7 @@ You tried to use an object in an incorrect way. This error has the following cau
     MyObject = Nothing 
   ```
 
-  Use the **Set** statement to set an object to **Nothing**. Assuming `MyObject` is an object, you must set it to **Nothing** with the **Set** statement:
+  Use the **Set** statement to set an object to **Nothing**. Assuming _MyObject_ is an object, you must set it to **Nothing** with the **Set** statement:
     
   ```vb
     Set MyObject = Nothing 

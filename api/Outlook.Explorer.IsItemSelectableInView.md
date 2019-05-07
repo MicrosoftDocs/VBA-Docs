@@ -39,7 +39,7 @@ A  **Boolean** value that indicates whether the specified item can be selected i
 
 ## Remarks
 
-Returns  **True** if the item can be selected in the current view; otherwise returns **False**.
+Returns  **True** if the item can be selected in the current view; otherwise, returns **False**.
 
  The method returns **True** or **False** depending on whether the item is selectable in the view. It does not indicate whether the item is visible in the view. If the item is contained within a collapsed group in the view, the method returns **False**.
 

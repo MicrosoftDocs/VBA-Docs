@@ -16,14 +16,12 @@ Adds an  **Assignment** object to an **Assignments** collection.
 
 ## Syntax
 
-_expression_.**Add**( `_TaskID_`, `_ResourceID_`, `_Units_` )
+_expression_.**Add** (_TaskID_, _ResourceID_, _Units_)
 
  _expression_ A variable that represents an 'Assignments' object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

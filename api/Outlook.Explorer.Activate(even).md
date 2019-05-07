@@ -21,7 +21,7 @@ Occurs when an explorer becomes the active window, either as a result of user ac
 
 _expression_.**Activate**
 
-_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
+_expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
 
 
 ## Remarks

@@ -54,7 +54,7 @@ The following table lists some standard colors and the red, green, and blue valu
 
 ## Example
 
-This example shows how the **RGB** function is used to return a whole number representing an **RGB** color value. It is used for those application methods and properties that accept a color specification. The object `MyObject` and its property are used for illustration purposes only. If `MyObject` does not exist, or if it does not have a **Color** property, an error occurs.
+This example shows how the **RGB** function is used to return a whole number representing an **RGB** color value. It is used for those application methods and properties that accept a color specification. The object _MyObject_ and its property are used for illustration purposes only. If _MyObject_ does not exist, or if it does not have a **Color** property, an error occurs.
 
 
 ```vb

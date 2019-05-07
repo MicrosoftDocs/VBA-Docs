@@ -21,7 +21,7 @@ Occurs when the active explorer is minimized by the user.
 
 _expression_. `BeforeMinimize`( `_Cancel_` )
 
-_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
+_expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
 
 
 ## Parameters

@@ -35,16 +35,16 @@ _expression_. `CustomOutlineCodeEditEx`( `_FieldID_`, `_Level_`, `_Sequence_`, `
 | _Sequence_|Optional|**PjCustomOutlineCodeSequence**|The sequence for the level specified in Level. Can be one of the  **[PjCustomOutlineCodeSequence](Project.PjCustomOutlineCodeSequence.md)** constants. The default value is **pjCustomOutlineCodeNumbers**.|
 | _Length_|Optional|**Variant**|Specifies the length for a given level. Can be the string "Any" or an integer value from 1 through 255. The default value is "Any".|
 | _Separator_|Optional|**String**|The character that separates the level specified in Level from the next. Can be one of ".", "-", "+", or "/". The default value is ".".|
-| _OnlyLookUpTableCodes_|Optional|**Boolean**|**True** if only codes listed in the lookup table can be used; otherwise **false**. The default value is **false**, which allows additional items to be added.|
-| _OnlyCompleteCodes_|Optional|**Boolean**|**True** if only codes with values at all levels of the mask can be used; otherwise **false**. The default value is **false**.|
+| _OnlyLookUpTableCodes_|Optional|**Boolean**|**True** if only codes listed in the lookup table can be used; otherwise, **False**. The default value is **False**, which allows additional items to be added.|
+| _OnlyCompleteCodes_|Optional|**Boolean**|**True** if only codes with values at all levels of the mask can be used; otherwise, **False**. The default value is **False**.|
 | _LookupTableLink_|Optional|**Long**|Deprecated in Project and later versions. Local outline codes cannot share lookup tables.
  **Caution**  Do not use  _LookupTableLink_ with the enterprise global or enterprise lookup tables. Data corruption can result.
 
 |
-| _OnlyLeaves_|Optional|**Boolean**|**True** if only outline code values without subordinate values can be selected; otherwise **false**. The default is **false**.|
-| _MatchGeneric_|Optional|**Boolean**|**True** if Project uses the outline code in the Resource Substitution Wizard; otherwise **false**. The default is **false**.|
-| _RequiredCode_|Optional|**Boolean**|**True** if the outline code must be present before save is allowed; otherwise **false**. The default is **false**.|
-| _LookupDefault_|Optional|**Boolean**|**True** if the outline code has a default value; otherwise **false**. The default is **false**.|
+| _OnlyLeaves_|Optional|**Boolean**|**True** if only outline code values without subordinate values can be selected; otherwise, **False**. The default is **False**.|
+| _MatchGeneric_|Optional|**Boolean**|**True** if Project uses the outline code in the Resource Substitution Wizard; otherwise, **False**. The default is **False**.|
+| _RequiredCode_|Optional|**Boolean**|**True** if the outline code must be present before save is allowed; otherwise, **False**. The default is **False**.|
+| _LookupDefault_|Optional|**Boolean**|**True** if the outline code has a default value; otherwise, **False**. The default is **False**.|
 | _DefaultValue_|Optional|**String**|Specifies the default value of the outline code.|
 | _SortOrder_|Optional|**Long**|Specifies whether sorting is ascending, descending, or the lookup table row order. Can be one of the  **[PjListOrder](Project.PjListOrder.md)** constants. The default is **pjListOrderDefault**.|
 

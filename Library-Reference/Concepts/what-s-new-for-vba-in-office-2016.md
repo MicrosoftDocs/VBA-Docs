@@ -15,8 +15,8 @@ The following tables summarize the new VBA language updates for Office 2016.
 
 |Name|Description|
 |:-----|:-----|
-|**[CodeProject.IsSQLBackend property (Access)](../../api/overview/Library-Reference.md)**|Returns the **Boolean** value **true** if the code project was created in Access 2013 and newer, and **false** if otherwise.|
-|**[CurrentProject.IsSQLBackend property (Access)](../../api/overview/Library-Reference.md)**|Returns **true** if the current project was created in Access 2013 and onwards and **false** if the current project was created prior to Access 2013. Read-only **Boolean**.|
+|**[CodeProject.IsSQLBackend property (Access)](../../api/overview/Library-Reference.md)**|Returns the **Boolean** value **True** if the code project was created in Access 2013 and newer, and **False** if otherwise.|
+|**[CurrentProject.IsSQLBackend property (Access)](../../api/overview/Library-Reference.md)**|Returns **True** if the current project was created in Access 2013 and onwards and **False** if the current project was created prior to Access 2013. Read-only **Boolean**.|
 
 ## Excel
 
@@ -311,7 +311,7 @@ The following tables summarize the new VBA language updates for Office 2016.
 |**[ShapeRange.InkXML property (PowerPoint)](../../api/PowerPoint.shaperange.inkxml.md)**|Returns a **String** that contains the InkActionML associated with the specified shape range. Read-only. If the specified shape range does not contain a ink object more than one ink object occurs , an error is returned.|
 |**[ShapeRange.IsNarration property (PowerPoint)](../../api/PowerPoint.shaperange.isnarration.md)**|Specifies whether the specified shape range contains a narration. Read/write. |
 |**[Shapes.AddInkShapeFromXML method (PowerPoint)](../../api/PowerPoint.shapes.addinkshapefromxml.md)**|Creates an ink shape. Returns a [Shape](../../api/PowerPoint.Shape.md) object that represents the new ink shape.|
-|**[SlideShowView.LaserPointerEnabled property (PowerPoint)](../../api/PowerPoint.slideshowview.laserpointerenabled.md)**|Returns **true** if the current slide show pointer is a laser pointer. This property is applicable only while the slide show is running. Read/write. This property allows a user to programmatically query and set the state of the pointer shown during slide show. The property will return false for all other pointer types. Users can also change the state of the current pointer by setting this property to **true** to turn on the laser pointer or **false** to turn off the laser pointer.|
+|**[SlideShowView.LaserPointerEnabled property (PowerPoint)](../../api/PowerPoint.slideshowview.laserpointerenabled.md)**|Returns **True** if the current slide show pointer is a laser pointer. This property is applicable only while the slide show is running. Read/write. This property allows a user to programmatically query and set the state of the pointer shown during slide show. The property will return false for all other pointer types. Users can also change the state of the current pointer by setting this property to **True** to turn on the laser pointer or **False** to turn off the laser pointer.|
 |**[XlBinsType enumeration (PowerPoint)](../../api/PowerPoint.xlbinstype.md)**|Constants passed to and returned by the [ChartGroup.BinsType](../../api/Excel.chartgroup.binstype.md) property.|
 |**[XlParentDataLabelOptions enumeration (PowerPoint)](../../api/PowerPoint.xlparentdatalabeloptions.md)**|Constants passed to and returned by the **Series.ParentDataLabelOption** property.|
 

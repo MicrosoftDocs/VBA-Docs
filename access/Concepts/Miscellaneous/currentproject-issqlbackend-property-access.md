@@ -13,7 +13,7 @@ localization_priority: Normal
 
 # CurrentProject.IsSQLBackend property (Access)
 
-Returns **true** if the current project was created in Access 2013 and onwards and **false** if the current project was created prior to Access 2013 . Read-only **Boolean** Introduced in Office 2016.
+Returns **True** if the current project was created in Access 2013 and onwards and **False** if the current project was created prior to Access 2013 . Read-only **Boolean** Introduced in Office 2016.
 
 
 ## Syntax

@@ -14,19 +14,17 @@ localization_priority: Normal
 
 # WebNavigationBarHyperlinks.Add method (Publisher)
 
-Adds a new  **Hyperlink** object to the specified **WebNavigationBarHyperlinks** collection and returns the new **Hyperlink** object. .
+Adds a new  **Hyperlink** object to the specified **WebNavigationBarHyperlinks** collection and returns the new **Hyperlink** object. 
 
 
 ## Syntax
 
-_expression_.**Add**(**_Address_**,  **_RelativePage_**,  **_PageID_**,  **_TextToDisplay_**,  **_Index_**)
+_expression_.**Add** (_Address_, _RelativePage_, _PageID_, _TextToDisplay_, _Index_)
 
- _expression_ A variable that represents a  **WebNavigationBarHyperlinks** object.
+_expression_ A variable that represents a **[WebNavigationBarHyperlinks](publisher.webnavigationbarhyperlinks.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

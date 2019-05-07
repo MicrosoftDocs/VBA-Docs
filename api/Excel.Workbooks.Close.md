@@ -19,7 +19,7 @@ Closes the object.
 
 ## Syntax
 
-_expression_. `Close`
+_expression_.**Close**
 
 _expression_ A variable that represents a [Workbooks](Excel.Workbooks.md) object.
 

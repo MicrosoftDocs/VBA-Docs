@@ -31,7 +31,7 @@ Variant
 
 ## Example
 
-This example clears formulas and values from cells A1:G37 on `Sheet1`, but leaves the cell formatting and conditional formatting intact.
+This example clears formulas and values from cells A1:G37 on Sheet1, but leaves the cell formatting and conditional formatting intact.
 
 
 ```vb

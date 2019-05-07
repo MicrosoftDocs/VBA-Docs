@@ -19,14 +19,12 @@ The  **ConvertToFormulas** method is new in Microsoft Office Excel 2007 and is u
 
 ## Syntax
 
-_expression_. `ConvertToFormulas`( `_ConvertFilters_` )
+_expression_.**ConvertToFormulas** (_ConvertFilters_)
 
 _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

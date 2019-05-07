@@ -7,26 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.PivotTableChangeList.Add
 ms.assetid: d871f244-a669-9508-a006-bb36e693a288
-ms.date: 06/08/2017
+ms.date: 05/07/2019
 localization_priority: Normal
 ---
 
 
 # PivotTableChangeList.Add method (Excel)
 
-Adds a  **[ValueChange](Excel.ValueChange.md)** object to the specified **[PivotTableChangeList](Excel.PivotTableChangeList.md)** collection.
+Adds a **[ValueChange](Excel.ValueChange.md)** object to the specified **PivotTableChangeList** collection.
 
 
 ## Syntax
 
-_expression_.**Add**( `_Tuple_` , `_Value_` , `_AllocationValue_` , `_AllocationMethod_` , `_AllocationWeightExpression_` )
+_expression_.**Add** (_Tuple_, _Value_, _AllocationValue_, _AllocationMethod_, _AllocationWeightExpression_)
 
 _expression_ A variable that represents a **[PivotTableChangeList](Excel.PivotTableChangeList.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -43,12 +41,9 @@ ValueChange
 
 ## Remarks
 
-The  **Add** method enables you to add **ValueChange** objects that represent changes to the PivotTable report through code. Doing so will add to the **UPDATE CUBE** statement that Excel constructs based on this change list. Note that if the user changes the allocation settings so that not all changes have the same settings, Excel will run multiple **UPDATE CUBE** statements, one for each group of changes that were made while the same settings were applied.
+The **Add** method enables you to add **ValueChange** objects that represent changes to the PivotTable report through code. Doing so will add to the **UPDATE CUBE** statement that Excel constructs based on this change list. Note that if the user changes the allocation settings so that not all changes have the same settings, Excel will run multiple **UPDATE CUBE** statements, one for each group of changes that were made while the same settings were applied.
 
 
-## See also
 
-
-[PivotTableChangeList Object](Excel.PivotTableChangeList.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

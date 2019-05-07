@@ -19,7 +19,7 @@ Returns  **True** if the formatting of cells is allowed on a protected worksheet
 
 ## Syntax
 
-_expression_. `AllowFormattingCells`
+_expression_.**AllowFormattingCells**
 
 _expression_ A variable that represents a **[Protection](Excel.Protection.md)** object.
 

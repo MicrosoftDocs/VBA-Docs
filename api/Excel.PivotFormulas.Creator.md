@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotFormulas.Creator
 ms.assetid: 23be5a99-984e-1c8b-ceb3-17e101b442d5
-ms.date: 06/08/2017
+ms.date: 05/07/2019
 localization_priority: Normal
 ---
 
 
 # PivotFormulas.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only **Long**.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents a **[PivotFormulas](Excel.PivotFormulas.
 
 ## Remarks
 
-If the object was created in Microsoft Excel, this property returns the string XCEL, which is equivalent to the hexadecimal number 5843454C. The  **Creator** property is designed to be used in Microsoft Excel for the Macintosh, where each application has a four-character creator code. For example, Microsoft Excel has the creator code XCEL.
+If the object was created in Microsoft Excel, this property returns the string XCEL, which is equivalent to the hexadecimal number 5843454C. The **Creator** property is designed to be used in Microsoft Excel for the Macintosh, where each application has a four-character creator code. For example, Microsoft Excel has the creator code XCEL.
 
 
-## See also
 
-
-[PivotFormulas Object](Excel.PivotFormulas.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

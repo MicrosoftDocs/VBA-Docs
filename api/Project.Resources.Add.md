@@ -16,9 +16,9 @@ Adds a  **Resource** object to a **Resources** collection.
 
 ## Syntax
 
-_expression_.**Add**( `_Name_`, `_Before_` )
+_expression_.**Add** (_Name_, _Before_)
 
- _expression_ A variable that represents a 'Resources' object.
+_expression_ A variable that represents a 'Resources' object.
 
 
 ## Parameters

@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.Orientation
 ms.assetid: 1b3e0867-3a44-a908-ef1b-90ab21653ab9
-ms.date: 06/08/2017
+ms.date: 05/07/2019
 localization_priority: Normal
 ---
 
 
 # PivotField.Orientation property (Excel)
 
-Returns or sets a  **[XlPivotFieldOrientation](Excel.XlPivotFieldOrientation.md)** value that represents the location of the field in the specified PivotTable report.
+Returns or sets an **[XlPivotFieldOrientation](Excel.XlPivotFieldOrientation.md)** value that represents the location of the field in the specified PivotTable report.
 
 
 ## Syntax
@@ -26,13 +26,14 @@ _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** 
 
 ## Remarks
 
-For OLAP data sources, setting this property for one field in a hierarchy sets the orientation for the other fields in the same hierarchy. Dimension fields can only be oriented in the row, column, and page field areas of the PivotTable report. Measure fields can only be oriented in the data area. Setting a hierarchy or data field to  **xlHidden** removes the hierarchy or field from the PivotTable report.
+For OLAP data sources, setting this property for one field in a hierarchy sets the orientation for the other fields in the same hierarchy. Dimension fields can only be oriented in the row, column, and page field areas of the PivotTable report. Measure fields can only be oriented in the data area. 
+
+Setting a hierarchy or data field to **xlHidden** removes the hierarchy or field from the PivotTable report.
 
 
 ## Example
 
 This example displays the orientation for the ORDER_DATE field.
-
 
 ```vb
 Set pvtTable = Worksheets("Sheet1").Range("A3").PivotTable 
@@ -52,9 +53,6 @@ End Select
 ```
 
 
-## See also
 
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

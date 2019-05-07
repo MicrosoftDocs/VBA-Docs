@@ -19,7 +19,7 @@ Creates an equation, from the text equation contained within the specified range
 
 ## Syntax
 
-_expression_.**Add**( `_Range_` )
+_expression_.**Add** (_Range_)
 
  _expression_ An expression that returns an [OMaths](./Word.OMaths.md) object.
 

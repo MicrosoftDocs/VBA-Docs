@@ -19,7 +19,7 @@ Returns  **True** when the non-empty MDX keyword is included in the query to the
 
 ## Syntax
 
-_expression_. `DisplayEmptyRow`
+_expression_.**DisplayEmptyRow**
 
 _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 

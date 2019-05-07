@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.PropertyOrder
 ms.assetid: b938d2bd-3e64-a861-c058-96daa81830bf
-ms.date: 06/08/2017
+ms.date: 05/07/2019
 localization_priority: Normal
 ---
 
 
 # PivotField.PropertyOrder property (Excel)
 
-Valid only for PivotTable fields that are member property fields. Returns a  **Long** indicating the display position of the member property within the cube field to which it belongs. Read/write.
+Valid only for PivotTable fields that are member property fields. Returns a **Long** indicating the display position of the member property within the cube field to which it belongs. Read/write.
 
 
 ## Syntax
@@ -28,13 +28,12 @@ _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** 
 
 Setting this property will rearrange the order of the properties for this cube field. This property is one-based. The allowable range is from one to the maximum number of member property fields being displayed for the hierarchy. 
 
-If the  **[IsMemberProperty](Excel.PivotField.IsMemberProperty.md)** property is **False**, using the **PropertyOrder** property will create a run-time error.
+If the **[IsMemberProperty](Excel.PivotField.IsMemberProperty.md)** property is **False**, using the **PropertyOrder** property creates a run-time error.
 
 
 ## Example
 
 This example determines if there are member properties in the fourth field and, if there are, displays the position of the member properties. Depending on the findings, Excel notifies the user. This example assumes that a PivotTable exists on the active worksheet and that it is based on an Online Analytical Processing (OLAP) data source.
-
 
 ```vb
 Sub CheckPropertyOrder() 
@@ -57,9 +56,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

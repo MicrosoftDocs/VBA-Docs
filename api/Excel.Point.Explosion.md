@@ -19,7 +19,7 @@ Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Ret
 
 ## Syntax
 
-_expression_. `Explosion`
+_expression_.**Explosion**
 
 _expression_ A variable that represents a **[Point](Excel.Point(object).md)** object.
 

@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.Subtotals
 ms.assetid: 1086c36f-e792-b2a5-848a-efd2c7e49d46
-ms.date: 06/08/2017
+ms.date: 05/07/2019
 localization_priority: Normal
 ---
 
 
 # PivotField.Subtotals property (Excel)
 
-Returns or sets subtotals displayed with the specified field. Valid only for nondata fields. Read/write  **Variant**.
+Returns or sets subtotals displayed with the specified field. Valid only for nondata fields. Read/write **Variant**.
 
 
 ## Syntax
@@ -26,20 +26,16 @@ _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Optional| **Variant**|A subtotal index, as shown in the following table. If this argument is omitted, the  **Subtotals** method returns an array that contains a Boolean value for each subtotal.|
+| _Index_|Optional| **Variant**|A subtotal index, as shown in the following table. If this argument is omitted, the **Subtotals** method returns an array that contains a **Boolean** value for each subtotal.|
 
 ## Remarks
 
-If an index is  **True**, the field shows that subtotal. If index 1 (Automatic) is **True**, all other values are set to **False**.
+If an index is **True**, the field shows that subtotal. If index 1 (Automatic) is **True**, all other values are set to **False**.
 
-
-
-|**Index**|**Meaning**|
-|:-----|:-----|
+|Index|Description|
+|:----|:----------|
 |1|Automatic|
 |2|Sum|
 |3|Count|
@@ -53,13 +49,12 @@ If an index is  **True**, the field shows that subtotal. If index 1 (Automatic) 
 |11|Var|
 |12|Varp|
 
-For OLAP data sources,  _Index_ can only return or be set to 1 (Automatic). The returned array always contains **True** or **False** for the first array element, and it contains **False** for all other elements. An array of element values that are all **False** indicates that there are no subtotals.
+For OLAP data sources, _Index_ can only return or be set to 1 (Automatic). The returned array always contains **True** or **False** for the first array element, and it contains **False** for all other elements. An array of element values that are all **False** indicates that there are no subtotals.
 
 
 ## Example
 
 This example sets the field that contains the active cell to show Sum subtotals.
-
 
 ```vb
 Worksheets("Sheet1").Activate 
@@ -67,9 +62,6 @@ ActiveCell.PivotField.Subtotals(2) = True
 ```
 
 
-## See also
 
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

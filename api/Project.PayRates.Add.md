@@ -16,14 +16,12 @@ Adds a  **PayRate** object to a **PayRates** collection.
 
 ## Syntax
 
-_expression_.**Add**( `_EffectiveDate_`, `_StdRate_`, `_OvtRate_`, `_CostPerUse_` )
+_expression_.**Add** (_EffectiveDate_, _StdRate_, _OvtRate_, _CostPerUse_)
 
  _expression_ A variable that represents a 'PayRates' object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

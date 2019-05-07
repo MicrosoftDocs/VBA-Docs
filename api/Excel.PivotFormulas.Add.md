@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotFormulas.Add
 ms.assetid: 53969cea-74e5-7102-9a80-89b854006edd
-ms.date: 06/08/2017
+ms.date: 05/07/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Creates a new PivotTable formula.
 
 ## Syntax
 
-_expression_.**Add**( `_Formula_` , `_UseStandardFormula_` )
+_expression_.**Add** (_Formula_, _UseStandardFormula_)
 
 _expression_ A variable that represents a **[PivotFormulas](Excel.PivotFormulas.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -35,13 +33,12 @@ _expression_ A variable that represents a **[PivotFormulas](Excel.PivotFormulas.
 
 ## Return value
 
-A  **[PivotFormula](Excel.PivotFormula.md)** object that represents the new PivotTable formula.
+A **[PivotFormula](Excel.PivotFormula.md)** object that represents the new PivotTable formula.
 
 
 ## Example
 
 This example creates a new PivotTable formula for the first PivotTable report on worksheet one.
-
 
 ```vb
 Worksheets(1).PivotTables(1).PivotFormulas _ 
@@ -49,9 +46,6 @@ Worksheets(1).PivotTables(1).PivotFormulas _
 ```
 
 
-## See also
 
-
-[PivotFormulas Object](Excel.PivotFormulas.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

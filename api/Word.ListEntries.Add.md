@@ -19,7 +19,7 @@ Returns a  **ListEntry** object that represents an item added to a drop-down for
 
 ## Syntax
 
-_expression_.**Add**( `_Name_` , `_Index_` )
+_expression_.**Add** (_Name_, _Index_)
 
 _expression_ Required. A variable that represents a '[ListEntries](Word.listentries.md)' collection.
 

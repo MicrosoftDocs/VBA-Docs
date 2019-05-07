@@ -31,7 +31,7 @@ _expression_. `TimelineFormat`( `_NumLines_`, `_Minimized_` )
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NumLines_|Optional|**Variant**|Number of text lines to show in tasks on the timeline. Values can be 1 through 10; other values are ignored.|
-| _Minimized_|Optional|**Boolean**|If  **true**, minimizes the timeline so that tasks do not show details. If **false**, vertically expands the timeline so that tasks show detail text lines.|
+| _Minimized_|Optional|**Boolean**|If  **True**, minimizes the timeline so that tasks do not show details. If **False**, vertically expands the timeline so that tasks show detail text lines.|
 
 ## Return value
 

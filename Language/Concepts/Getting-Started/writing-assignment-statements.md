@@ -32,7 +32,7 @@ Let yourName = InputBox("What is your name?").
 
 ```
 
-The **[Set](../../reference/user-interface-help/set-statement.md)** statement is used to assign an object to a variable that has been declared as an object. The **Set** keyword is required. In the following example, the **Set** statement assigns a range on `Sheet1` to the object variable `myCell`.
+The **[Set](../../reference/user-interface-help/set-statement.md)** statement is used to assign an object to a variable that has been declared as an object. The **Set** keyword is required. In the following example, the **Set** statement assigns a range on Sheet1 to the object variable `myCell`.
 
 ```vb
 Sub ApplyFormat() 

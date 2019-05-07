@@ -21,7 +21,7 @@ Occurs when an Outlook item is pasted.
 
 _expression_. `BeforeItemPaste`( `_ClipboardContent_` , `_Target_` , `_Cancel_` )
 
-_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
+_expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
 
 
 ## Parameters

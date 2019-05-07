@@ -19,7 +19,7 @@ Closes the specified Mail Merge data source.
 
 ## Syntax
 
-_expression_. `Close`
+_expression_.**Close**
 
 _expression_ Required. A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 

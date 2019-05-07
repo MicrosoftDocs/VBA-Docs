@@ -86,7 +86,7 @@ The following example assigns `replyToBlog` as the internal name of a custom act
     
 2. Specify the internal name of the action as the value of the **name** attribute of the **action** element.
     
-3. Specify **true** as the value of the child **showOnRibbon** element of the **action** element.
+3. Specify **True** as the value of the child **showOnRibbon** element of the **action** element.
     
 The following example assigns `replyToBlog` as the internal name of a custom action and specifies that it should not be displayed in the ribbon of an inspector:
 
@@ -100,7 +100,7 @@ The following example assigns `replyToBlog` as the internal name of a custom act
 ```
 
 > [!NOTE] 
-> You can assign **showOnRibbon** either a string value or an integer value. Specifying **true** or **1** will display the action on the ribbon; specifying **false** or **0** will prevent it from being displayed on the ribbon.
+> You can assign **showOnRibbon** either a string value or an integer value. Specifying **True** or **1** will display the action on the ribbon; specifying **False** or **0** will prevent it from being displayed on the ribbon.
 
 
 ### To specify the way that a resulting item will be addressed

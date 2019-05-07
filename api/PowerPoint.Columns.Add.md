@@ -19,7 +19,7 @@ Adds a new column to an existing table. Returns a  **[Column](PowerPoint.Column.
 
 ## Syntax
 
-_expression_.**Add**( `_BeforeColumn_` )
+_expression_.**Add** (_BeforeColumn_)
 
 _expression_ A variable that represents a [Columns](./PowerPoint.Columns.md) object.
 

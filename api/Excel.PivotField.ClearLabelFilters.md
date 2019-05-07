@@ -43,7 +43,6 @@ The following list contains the different label filter types that will be delete
 - **xlCaptionIsBetween**
 - **xlCaptionIsNotBetween**
 
-<br/>
 
 The following list contains the different date filter types that will be deleted by this method:
 

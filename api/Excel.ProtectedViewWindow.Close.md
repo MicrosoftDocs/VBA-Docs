@@ -19,7 +19,7 @@ Closes the specified Protected View window.
 
 ## Syntax
 
-_expression_. `Close`
+_expression_.**Close**
 
 _expression_ A variable that represents a **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object.
 

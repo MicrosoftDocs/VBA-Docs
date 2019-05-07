@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `SubtotalHiddenPageItems`
+_expression_.**SubtotalHiddenPageItems**
 
 _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 

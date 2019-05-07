@@ -7,26 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.ShowDetail
 ms.assetid: 35e7b0b9-dae4-57d9-258f-d97316496ac2
-ms.date: 06/08/2017
+ms.date: 05/07/2019
 localization_priority: Normal
 ---
 
 
 # PivotField.ShowDetail property (Excel)
 
-Gets or sets whether the specified  **[PivotField](Excel.PivotField.md)** is showing detail. Read/write **Boolean**.
+Gets or sets whether the specified **PivotField** object is showing detail. Read/write **Boolean**.
 
 
 ## Syntax
 
 _expression_.**ShowDetail**
 
- _expression_ An expression that returns a **[PivotField](Excel.PivotField.md)** object.
+_expression_ An expression that returns a **[PivotField](Excel.PivotField.md)** object.
 
 
-## See also
 
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

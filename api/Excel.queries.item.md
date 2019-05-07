@@ -17,16 +17,15 @@ Returns a single object from a collection.
 
 ## Syntax
 
-_expression_. `Item`_(NameOrIndex)_
+_expression_.**Item** (_NameOrIndex_)
 
 _expression_ A variable that represents a 'Queries' object.
 
 
 ## Parameters
 
-
-
-|||||
+|Name|Required/Optional|Data type|Description|
+|:-----|:-----|:-----|:-----|
 | _NameOrIndex_|Required|**Variant**|The name or index number of the item.|
 
 ## Return value

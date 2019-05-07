@@ -5,14 +5,14 @@ f1_keywords:
 - vbaxl10.chm762077
 ms.prod: excel
 ms.assetid: 6ed4ce25-f832-a0b5-b1ed-4b9956c100ef
-ms.date: 06/08/2017
+ms.date: 05/07/2019
 localization_priority: Normal
 ---
 
 
 # PivotLineCells.Full property (Excel)
 
-When  **True**, all of the  **PivotLineCells** in the **PivotLine** (including those that are hidden in compact form) are retrieved. Read-only **Boolean**.
+When **True**, all of the **PivotLineCells** in the **PivotLine** (including those that are hidden in compact form) are retrieved. Read-only **Boolean**.
 
 
 ## Syntax
@@ -24,12 +24,9 @@ _expression_ A variable that represents a **[PivotLineCells](Excel.PivotLineCell
 
 ## Property value
 
- **BOOL**
+**BOOL**
 
 
-## See also
 
-
-[PivotLineCells Object](Excel.PivotLineCells.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

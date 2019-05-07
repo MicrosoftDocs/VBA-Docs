@@ -19,7 +19,7 @@ Adds a new hidden field to a Web form and returns a  **Long** indicating the num
 
 ## Syntax
 
-_expression_.**Add**(**_Name_**,  **_Value_**)
+_expression_.**Add** (_Name_, _Value_)
 
  _expression_ A variable that represents a  **WebHiddenFields** object.
 

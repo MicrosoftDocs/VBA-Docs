@@ -30,7 +30,7 @@ _expression_ A variable that represents a '[Workbook](Excel.Workbook.md)' object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Success_|Required| **Boolean**|Returns  **True** if the save operation was successful; otherwise **False**.|
+| _Success_|Required| **Boolean**|Returns  **True** if the save operation was successful; otherwise, **False**.|
 
 ## Return value
 

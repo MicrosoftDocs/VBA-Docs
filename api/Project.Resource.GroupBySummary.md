@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.GroupBySummary property (Project)
 
- **True** if the selected item in a resource view is in a group summary row; otherwise, **false**. Read-only **Boolean**.
+ **True** if the selected item in a resource view is in a group summary row; otherwise, **False**. Read-only **Boolean**.
 
 
 ## Syntax

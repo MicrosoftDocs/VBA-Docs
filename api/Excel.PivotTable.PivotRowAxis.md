@@ -19,7 +19,7 @@ Returns a  **PivotAxis** object representing the entire row axis. Read-only **Pi
 
 ## Syntax
 
-_expression_. `PivotRowAxis`
+_expression_.**PivotRowAxis**
 
 _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 

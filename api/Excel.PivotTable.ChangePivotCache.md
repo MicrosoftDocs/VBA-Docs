@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # PivotTable.ChangePivotCache method (Excel)
 
-Changes the  **[PivotCache](Excel.PivotCache.md)** of the specified **[PivotTable](Excel.PivotTable.md)**.
+Changes the  **[PivotCache](Excel.PivotCache.md)** of the specified **PivotTable**.
 
 
 ## Syntax
 
-_expression_. `ChangePivotCache`( `_bstr_` )
+_expression_.**ChangePivotCache** (_bstr_)
 
 _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 

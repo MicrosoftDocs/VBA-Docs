@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotField.Parent
 ms.assetid: 7c1941d8-6d4c-a061-d8ef-68a7781d9134
-ms.date: 06/08/2017
+ms.date: 05/07/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
-## See also
 
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

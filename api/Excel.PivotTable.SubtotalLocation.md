@@ -19,14 +19,12 @@ This method changes the subtotal location for all existing PivotFields. Changing
 
 ## Syntax
 
-_expression_. `SubtotalLocation`( `_Location_` )
+_expression_.**SubtotalLocation** (_Location_)
 
 _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
