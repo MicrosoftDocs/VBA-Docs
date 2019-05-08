@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PublishObject.Sheet
 ms.assetid: 37aedf9e-01e1-0790-d141-6d2490e3eab2
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 

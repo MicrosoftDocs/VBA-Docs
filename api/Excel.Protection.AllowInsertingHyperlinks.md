@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Protection.AllowInsertingHyperlinks
 ms.assetid: ef334ce3-a8d3-d9db-e48b-739f150cfb98
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
 
 # Protection.AllowInsertingHyperlinks property (Excel)
 
-Returns  **True** if the insertion of hyperlinks is allowed on a protected worksheet. Read-only **Boolean**.
+Returns **True** if the insertion of hyperlinks is allowed on a protected worksheet. Read-only **Boolean**.
 
 
 ## Syntax
@@ -28,13 +28,12 @@ _expression_ A variable that represents a **[Protection](Excel.Protection.md)** 
 
 Hyperlinks can only be inserted in unlocked or unprotected cells on a protected worksheet.
 
-The  **AllowInsertingHyperlinks** property can be set by using the **[Protect](Excel.Worksheet.Protect.md)** method arguments.
+The **AllowInsertingHyperlinks** property can be set by using the **[Protect](Excel.Worksheet.Protect.md)** method arguments.
 
 
 ## Example
 
 This example allows the user to insert a hyperlink in cell A1 on the protected worksheet and notifies the user.
-
 
 ```vb
 Sub ProtectionOptions() 
@@ -55,9 +54,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Protection Object](Excel.Protection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

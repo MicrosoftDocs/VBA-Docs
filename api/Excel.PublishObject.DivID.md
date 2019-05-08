@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PublishObject.DivID
 ms.assetid: a60bb113-e04f-7de7-98f0-3ddb0e51dcdc
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 

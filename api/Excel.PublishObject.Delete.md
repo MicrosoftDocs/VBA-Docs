@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PublishObject.Delete
 ms.assetid: c774e567-e7e6-4a0f-508b-4b2ad4a5e40b
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 

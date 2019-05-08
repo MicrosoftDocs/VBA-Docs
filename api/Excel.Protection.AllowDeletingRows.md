@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Protection.AllowDeletingRows
 ms.assetid: da418f4e-ca3e-b0f2-4b12-fe578b0bf20b
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
 
 # Protection.AllowDeletingRows property (Excel)
 
-Returns  **True** if the deletion of rows is allowed on a protected worksheet. Read-only **Boolean**.
+Returns **True** if the deletion of rows is allowed on a protected worksheet. Read-only **Boolean**.
 
 
 ## Syntax
@@ -26,15 +26,14 @@ _expression_ A variable that represents a **[Protection](Excel.Protection.md)** 
 
 ## Remarks
 
-The  **AllowDeletingRows** property can be set by using the **[Protect](Excel.Worksheet.Protect.md)** method arguments.
+The **AllowDeletingRows** property can be set by using the **[Protect](Excel.Worksheet.Protect.md)** method arguments.
 
 The rows containing the cells to be deleted must be unlocked when the sheet is protected.
 
 
 ## Example
 
-This example unlocks row 1 then allows the user to delete row 1 on the protected worksheet and notifies the user.
-
+This example unlocks row 1, and then allows the user to delete row 1 on the protected worksheet.
 
 ```vb
 Sub ProtectionOptions() 
@@ -55,9 +54,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[Protection Object](Excel.Protection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Protection.AllowFiltering
 ms.assetid: dc0b8ab3-ea28-0692-9474-8f81cc395599
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
 
 # Protection.AllowFiltering property (Excel)
 
-Returns  **True** if the user is allowed to make use of an AutoFilter that was created before the sheet was protected. Read-only **Boolean**.
+Returns **True** if the user is allowed to make use of an AutoFilter that was created before the sheet was protected. Read-only **Boolean**.
 
 
 ## Syntax
@@ -26,9 +26,9 @@ _expression_ A variable that represents a **[Protection](Excel.Protection.md)** 
 
 ## Remarks
 
-The  **AllowFiltering** property can be set by using the **[Protect](Excel.Worksheet.Protect.md)** method arguments.
+The **AllowFiltering** property can be set by using the **[Protect](Excel.Worksheet.Protect.md)** method arguments.
 
-The  **AllowFiltering** property allows the user to change filter criteria on an existing AutoFilter. The user cannot create or remove an AutoFilter on a protected worksheet.
+The **AllowFiltering** property allows the user to change filter criteria on an existing AutoFilter. The user cannot create or remove an AutoFilter on a protected worksheet.
 
 The cells to be filtered must be unlocked when the sheet is protected.
 
@@ -36,7 +36,6 @@ The cells to be filtered must be unlocked when the sheet is protected.
 ## Example
 
 This example allows the user to filter row 1 on the protected worksheet and notifies the user.
-
 
 ```vb
 Sub ProtectionOptions() 
@@ -57,9 +56,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Protection Object](Excel.Protection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

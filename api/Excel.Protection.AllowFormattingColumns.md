@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Protection.AllowFormattingColumns
 ms.assetid: 1cdfeea0-5c5e-1f6c-47c7-a351bb6745b7
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
 
 # Protection.AllowFormattingColumns property (Excel)
 
-Returns  **True** if the formatting of columns is allowed on a protected worksheet. Read-only **Boolean**.
+Returns **True** if the formatting of columns is allowed on a protected worksheet. Read-only **Boolean**.
 
 
 ## Syntax
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[Protection](Excel.Protection.md)** 
 
 ## Remarks
 
-The  **AllowFormattingColumns** property can be set by using the **[Protect](Excel.Worksheet.Protect.md)** method arguments.
+The **AllowFormattingColumns** property can be set by using the **[Protect](Excel.Worksheet.Protect.md)** method arguments.
 
 
 ## Example
 
 This example allows the user to format columns on the protected worksheet and notifies the user.
-
 
 ```vb
 Sub ProtectionOptions() 
@@ -50,9 +49,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Protection Object](Excel.Protection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
