@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PublishObjects.Publish method (Excel)
 
-Saves a copy of the item or items in the spreadsheet that have been added to the  **PublishObjects** collection to a webpage.
+Saves a copy of the item or items in the spreadsheet that have been added to the **PublishObjects** collection to a webpage.
 
 
 ## Syntax
@@ -22,5 +22,7 @@ Saves a copy of the item or items in the spreadsheet that have been added to the
 _expression_.**Publish**
 
 _expression_ A variable that represents a **[PublishObjects](Excel.PublishObjects.md)** object.
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

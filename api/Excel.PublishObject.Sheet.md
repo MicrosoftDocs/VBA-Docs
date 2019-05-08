@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PublishObject.Sheet property (Excel)
 
-Returns the sheet name for the specified  **[PublishObject](Excel.PublishObject.md)** object. Read-only **String**.
+Returns the sheet name for the specified **PublishObject** object. Read-only **String**.
 
 
 ## Syntax
@@ -24,13 +24,10 @@ _expression_.**Sheet**
 _expression_ A variable that represents a **[PublishObject](Excel.PublishObject.md)** object.
 
 
-## Remarks
-
-This example determines the name of the worksheet that contains the first  **PublishObject** object that is saved as static HTML on the webpage. The example then sets the **Boolean** variable `blnSheetFound` to **True**. If no items in the document have been saved as static HTML, `blnSheetFound` is **False**.
-
 
 ## Example
 
+This example determines the name of the worksheet that contains the first **PublishObject** object that is saved as static HTML on the webpage. The example then sets the **Boolean** variable `blnSheetFound` to **True**. If no items in the document have been saved as static HTML, `blnSheetFound` is **False**.
 
 ```vb
 blnSheetFound = False 
@@ -45,9 +42,5 @@ Next objPO
 ```
 
 
-## See also
-
-
-[PublishObject Object](Excel.PublishObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

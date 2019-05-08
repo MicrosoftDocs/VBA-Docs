@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[PublishObjects](Excel.PublishObject
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The name or index number of the object.|
@@ -35,7 +33,6 @@ _expression_ A variable that represents a **[PublishObjects](Excel.PublishObject
 ## Example
 
 This example obtains the identifier from a `<DIV>` tag and finds the line in a webpage (q198.htm) that you saved from a workbook. The example then creates a copy of the webpage (newq1.htm) and inserts a comment line before the `<DIV>` tag in the copy of the file.
-
 
 ```vb
 strTargetDivID = ActiveWorkbook.PublishObjects.Item(1).DivID 
@@ -54,9 +51,5 @@ Close #1
 ```
 
 
-## See also
-
-
-[PublishObjects Object](Excel.PublishObjects.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[PublishObject](Excel.PublishObject.md)** object.
 
 
-## See also
 
-
-[PublishObject Object](Excel.PublishObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
