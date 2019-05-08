@@ -18,6 +18,6 @@ localization_priority: Normal
 
 _expression_. `HighlightFilter`
 
- _expression_ A variable that represents a [ViewSingle](./Project.ViewSingle.md) object.
+_expression_ A variable that represents a [ViewSingle](./Project.ViewSingle.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,7 +21,7 @@ Cancels the last user-interface action.
 
 _expression_. `EditUndo`( `_fUndo_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

@@ -18,7 +18,7 @@ Applies the view.
 
 _expression_.**Apply**
 
- _expression_ A variable that represents a [View](./Project.View.md) object.
+_expression_ A variable that represents a [View](./Project.View.md) object.
 
 
 ## Return value

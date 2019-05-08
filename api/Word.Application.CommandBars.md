@@ -21,7 +21,7 @@ Returns a  **CommandBars** collection that represents the menu bar and all the t
 
 _expression_. `CommandBars`
 
- _expression_ A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns a  **[Field](Publisher.Field.md)** object that represents the next field
 
 _expression_.**Next**
 
- _expression_ A variable that represents a  **Field** object.
+_expression_ A variable that represents a  **Field** object.
 
 
 ## Return value

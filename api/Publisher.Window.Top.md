@@ -21,7 +21,7 @@ Returns or sets a  **Long** that represents the distance between the top edge of
 
 _expression_.**Top**
 
- _expression_ A variable that represents a  **Window** object.
+_expression_ A variable that represents a  **Window** object.
 
 
 ## Example

@@ -14,7 +14,7 @@ Gets or sets the name of the report. Read/write  **String**.
 
 _expression_.**Name**
 
- _expression_ A variable that represents a 'Report' object.
+_expression_ A variable that represents a 'Report' object.
 
 
 ## Example

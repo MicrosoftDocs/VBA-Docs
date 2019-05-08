@@ -18,7 +18,7 @@ Returns or sets the width, in [points](../language/glossary/vbe-glossary.md#poin
 
 _expression_.**Width**
 
- _expression_ A variable that represents a '[Legend](PowerPoint.Legend.md)' object.
+_expression_ A variable that represents a '[Legend](PowerPoint.Legend.md)' object.
 
 
 ## See also

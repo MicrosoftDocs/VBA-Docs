@@ -21,7 +21,7 @@ Displays on-line Help information.
 
 _expression_. `Help`( `_HelpType_` )
 
- _expression_ A variable that represents a '[Global](Word.Global.md)' object.
+_expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Parameters

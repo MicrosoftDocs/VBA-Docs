@@ -21,7 +21,7 @@ Returns a  **[Range](Word.Range.md)** object that represents a field's code. Rea
 
 _expression_. `Code`
 
- _expression_ A variable that represents a '[Field](Word.Field.md)' object.
+_expression_ A variable that represents a '[Field](Word.Field.md)' object.
 
 
 ## Remarks

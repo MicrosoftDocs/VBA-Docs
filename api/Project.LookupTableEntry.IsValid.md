@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `IsValid`
 
- _expression_ A variable that represents a [LookupTableEntry](./Project.LookupTableEntry.md) object.
+_expression_ A variable that represents a [LookupTableEntry](./Project.LookupTableEntry.md) object.
 
 
 ## Remarks

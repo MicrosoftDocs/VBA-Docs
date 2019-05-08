@@ -21,7 +21,7 @@ Sets or returns a  **PbPageNumberFormat** constant that represents the formattin
 
 _expression_.**PageNumberFormat**
 
- _expression_ A variable that represents a  **Section** object.
+_expression_ A variable that represents a  **Section** object.
 
 
 ## Return value

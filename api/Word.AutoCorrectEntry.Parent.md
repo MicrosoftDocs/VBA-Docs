@@ -21,7 +21,7 @@ Returns an  **Object** that represents the parent object of the specified **Auto
 
 _expression_.**Parent**
 
- _expression_ A variable that represents an '[AutoCorrectEntry](Word.AutoCorrectEntry.md)' object.
+_expression_ A variable that represents an '[AutoCorrectEntry](Word.AutoCorrectEntry.md)' object.
 
 
 ## See also

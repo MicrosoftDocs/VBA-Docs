@@ -21,7 +21,7 @@ Offsets a selection a specified amount.
 
 _expression_. `Offset`( `_Distance_` )
 
- _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
+_expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
 ## Parameters

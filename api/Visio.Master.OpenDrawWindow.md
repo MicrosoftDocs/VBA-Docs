@@ -21,7 +21,7 @@ Opens a new drawing window that displays a master.
 
 _expression_. `OpenDrawWindow`
 
- _expression_ A variable that represents a [Master](./Visio.Master.md) object.
+_expression_ A variable that represents a **[Master](Visio.Master.md)** object.
 
 
 ## Return value

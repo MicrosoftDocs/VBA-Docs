@@ -21,7 +21,7 @@ Returns the previous form field in the collection. Read-only.
 
 _expression_.**Previous**
 
- _expression_ A variable that represents a '[FormField](Word.FormField.md)' object.
+_expression_ A variable that represents a '[FormField](Word.FormField.md)' object.
 
 
 ## Example

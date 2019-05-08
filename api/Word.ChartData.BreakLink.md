@@ -21,7 +21,7 @@ Removes the link between the data for a chart and a Microsoft Excel workbook.
 
 _expression_. `BreakLink`
 
- _expression_ A variable that represents a '[ChartData](Word.ChartData.md)' object.
+_expression_ A variable that represents a '[ChartData](Word.ChartData.md)' object.
 
 
 ## Remarks

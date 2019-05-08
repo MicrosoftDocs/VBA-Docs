@@ -21,7 +21,7 @@ Returns an array of cell ranges and a  **True** or **False** value indicating wh
 
 _expression_. `GetFilterSRC`
 
- _expression_ A variable that represents an [Event](./Visio.Event.md) object.
+_expression_ A variable that represents an [Event](./Visio.Event.md) object.
 
 
 ## Return value

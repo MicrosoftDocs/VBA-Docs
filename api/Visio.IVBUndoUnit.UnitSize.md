@@ -21,7 +21,7 @@ Returns the size of the undo unit in memory, in bytes. Read-only.
 
 _expression_. `UnitSize`
 
- _expression_ A variable that represents a 'IVBUndoUnit' object.
+_expression_ A variable that represents a 'IVBUndoUnit' object.
 
 
 ## Return value

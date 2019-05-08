@@ -19,6 +19,6 @@ Returns the proposed maximum units for the engagement. Read-only  **Integer**. I
 
 _expression_. `EngagementProposedMaxUnits`
 
- _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
+_expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

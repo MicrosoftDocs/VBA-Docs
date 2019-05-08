@@ -21,7 +21,7 @@ Returns or sets a  **Single** that represents the amount of horizontal space bet
 
 _expression_. `GridDistanceHorizontal`
 
- _expression_ A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example

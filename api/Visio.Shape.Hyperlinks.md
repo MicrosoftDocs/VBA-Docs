@@ -21,7 +21,7 @@ Returns the  **Hyperlinks** collection for a **Shape** object. Read-only.
 
 _expression_.**Hyperlinks**
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Return value

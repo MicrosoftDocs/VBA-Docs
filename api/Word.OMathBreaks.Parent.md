@@ -21,7 +21,7 @@ Returns an  **Object** that represents the parent object of the specified **OMat
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a '[OMathBreaks](Word.OMathBreaks.md)' object.
+_expression_ A variable that represents a '[OMathBreaks](Word.OMathBreaks.md)' object.
 
 
 ## See also

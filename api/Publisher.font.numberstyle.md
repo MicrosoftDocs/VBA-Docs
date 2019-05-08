@@ -19,7 +19,7 @@ Returns or sets a  **[pbNumberStyles](Publisher.pbnumberstylestype.md)** constan
 
 _expression_.  **NumberStyles**
 
- _expression_ A variable that represents a  **[Font](Publisher.Font.md)** object.
+_expression_ A variable that represents a  **[Font](Publisher.Font.md)** object.
 
 
 ## Return value

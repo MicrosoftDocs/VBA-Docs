@@ -18,7 +18,7 @@ Selects the object.
 
 _expression_.**Select**
 
- _expression_ A variable that represents an '[UpBars](PowerPoint.UpBars.md)' object.
+_expression_ A variable that represents an '[UpBars](PowerPoint.UpBars.md)' object.
 
 
 ## See also

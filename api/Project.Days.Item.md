@@ -18,7 +18,7 @@ Gets a single  **Day** object from the **Days** collection. Read-only **Day**.
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a 'Days' object.
+_expression_ A variable that represents a 'Days' object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Sets or returns a  **String** representing the email address to use when process
 
 _expression_.**EmailAddress**
 
- _expression_ A variable that represents an  **WebCommandButton** object.
+_expression_ A variable that represents an  **WebCommandButton** object.
 
 
 ## Return value

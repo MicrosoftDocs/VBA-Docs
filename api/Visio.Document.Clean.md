@@ -21,7 +21,7 @@ Examines, reports, and repairs selected conditions in a document.
 
 _expression_. `Clean`( `_nTargets_` , `_nActions_` , `_nAlerts_` , `_nFixes_` , `_bStopOnError_` , `_bLogFileName_` , `_nReserved_` )
 
- _expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns or sets a  **Long** indicating the current Mail Merge Wizard step for a 
 
 _expression_. `WizardState`
 
- _expression_ A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
+_expression_ A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 
 
 ## Example

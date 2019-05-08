@@ -21,7 +21,7 @@ Clears all the print ranges from the  **[PrintRanges](PowerPoint.PrintRanges.md)
 
 _expression_. `ClearAll`
 
- _expression_ A variable that represents a [PrintRanges](./PowerPoint.PrintRanges.md) object.
+_expression_ A variable that represents a [PrintRanges](./PowerPoint.PrintRanges.md) object.
 
 
 ## Return value

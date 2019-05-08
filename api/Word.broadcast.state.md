@@ -19,7 +19,7 @@ Returns an [MSOBroadcastState](overview/Library-Reference/msobroadcaststate-enum
 
 _expression_. `State`
 
- _expression_ A variable that represents a 'Broadcast' object.
+_expression_ A variable that represents a 'Broadcast' object.
 
 
 ## Remarks

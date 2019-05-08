@@ -21,7 +21,7 @@ Gets or sets the text string that appears in the left portion of a document's he
 
 _expression_. `HeaderLeft`
 
- _expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ## Return value

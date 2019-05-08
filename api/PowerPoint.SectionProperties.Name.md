@@ -21,7 +21,7 @@ Returns the name of the specified section as a  **String**.
 
 _expression_.**Name**( `_sectionIndex_` )
 
- _expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
+_expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
 
 
 ## Parameters

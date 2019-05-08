@@ -21,7 +21,7 @@ Performs operations that involve the Microsoft Visio Help system.
 
 _expression_. `InvokeHelp`( `_bstrHelpFileName_` , `_Command_` , `_Data_` )
 
- _expression_ A variable that represents an [Application](./Visio.Application.md) object.
+_expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ## Parameters

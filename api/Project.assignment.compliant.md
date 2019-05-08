@@ -16,7 +16,7 @@ Gets the compliant for a task assignment in Project. Read-only Introduced in Off
 
 _expression_. `Compliant`
 
- _expression_ A variable that represents a [Assignment](./Project.Assignment.md) object.
+_expression_ A variable that represents a [Assignment](./Project.Assignment.md) object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns a  **PageSetup** object that is associated with the specified document.
 
 _expression_.**PageSetup**
 
- _expression_ A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example

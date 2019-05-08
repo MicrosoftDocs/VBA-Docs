@@ -21,7 +21,7 @@ Returns a  **[Dictionaries](Word.dictionaries.md)** object that represents the c
 
 _expression_. `CustomDictionaries`
 
- _expression_ A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Remarks

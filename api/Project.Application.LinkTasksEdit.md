@@ -21,7 +21,7 @@ Edits task dependencies (task links).
 
 _expression_. `LinkTasksEdit`( `_From_`, `_To_`, `_Delete_`, `_Type_`, `_Lag_`, `_PredecessorProjectName_`, `_SuccessorProjectName_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns or sets the distance (in points) between the right edge of line numbers 
 
 _expression_. `DistanceFromText`
 
- _expression_ A variable that represents a '[LineNumbering](Word.LineNumbering.md)' object.
+_expression_ A variable that represents a '[LineNumbering](Word.LineNumbering.md)' object.
 
 
 ## Example

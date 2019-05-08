@@ -21,7 +21,7 @@ Changes the current publication to one that uses the wizard, and optionally the 
 
 _expression_.**ChangeDocument**(**_Wizard_**,  **_Design_**)
 
- _expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a  **Document** object.
 
 
 ## Parameters

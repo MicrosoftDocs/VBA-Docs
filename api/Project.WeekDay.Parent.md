@@ -18,7 +18,7 @@ Gets the parent of the  **WeekDay** object. Read-only **Calendar**.
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a [WeekDay](./Project.WeekDay.md) object.
+_expression_ A variable that represents a [WeekDay](./Project.WeekDay.md) object.
 
 
 ## Remarks

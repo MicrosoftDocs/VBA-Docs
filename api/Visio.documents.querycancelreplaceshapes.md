@@ -16,7 +16,7 @@ Occurs immediately after a shape-replacement operation is requested. If any even
 
 _expression_. `QueryCancelReplaceShapes`( _replaceShapes_)
 
- _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
+_expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
 
 ## Parameters

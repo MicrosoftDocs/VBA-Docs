@@ -24,7 +24,7 @@ Breaks the link between the shape and the data row to which it is linked in the 
 
 _expression_. `BreakLinkToData`( `_DataRecordsetID_` )
 
- _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
+ _expression_ An expression that returns a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters

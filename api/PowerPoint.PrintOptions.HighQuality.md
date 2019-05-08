@@ -21,7 +21,7 @@ Indicates whether to print in high quality. Read/write.
 
 _expression_. `HighQuality`
 
- _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
+_expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 
 
 ## See also

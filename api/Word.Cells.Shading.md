@@ -21,7 +21,7 @@ Returns a  **[Shading](Word.Shading.md)** object that refers to the shading form
 
 _expression_. `Shading`
 
- _expression_ A variable that represents a '[Cells](Word.cells.md)' object.
+_expression_ A variable that represents a '[Cells](Word.cells.md)' object.
 
 
 ## Example

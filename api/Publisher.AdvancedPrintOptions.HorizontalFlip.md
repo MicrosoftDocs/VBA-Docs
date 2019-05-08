@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**HorizontalFlip**
 
- _expression_ A variable that represents an  **AdvancedPrintOptions** object.
+_expression_ A variable that represents an  **AdvancedPrintOptions** object.
 
 
 ## Remarks

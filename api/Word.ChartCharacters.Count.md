@@ -21,7 +21,7 @@ Returns the number of objects in the collection. Read-only  **Long**.
 
 _expression_.**Count**
 
- _expression_ A variable that represents a '[ChartCharacters](Word.ChartCharacters.md)' object.
+_expression_ A variable that represents a '[ChartCharacters](Word.ChartCharacters.md)' object.
 
 
 ## Example

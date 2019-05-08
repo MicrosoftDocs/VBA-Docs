@@ -18,7 +18,7 @@ Gets the  **[ChildDrivers](Project.childdrivers.md)** object for the task **Star
 
 _expression_. `ChildTaskDrivers`
 
- _expression_ A variable that represents a [StartDriver](./Project.StartDriver.md) object.
+_expression_ A variable that represents a [StartDriver](./Project.StartDriver.md) object.
 
 
 ## See also

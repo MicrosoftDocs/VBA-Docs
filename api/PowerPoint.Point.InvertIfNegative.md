@@ -18,7 +18,7 @@ localization_priority: Normal
 
 _expression_.**InvertIfNegative**
 
- _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
+_expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 
 
 ## See also

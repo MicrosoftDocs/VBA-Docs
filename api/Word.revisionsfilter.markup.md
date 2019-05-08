@@ -16,7 +16,7 @@ Returns or sets a [WdRevisionsMarkup](Word.wdrevisionsmarkup.md) constant that s
 
 _expression_. `Markup`
 
- _expression_ A variable that represents a 'RevisionsFilter' object.
+_expression_ A variable that represents a 'RevisionsFilter' object.
 
 
 ## Example

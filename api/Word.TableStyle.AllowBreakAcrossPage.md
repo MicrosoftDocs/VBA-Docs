@@ -21,7 +21,7 @@ Sets or returns a  **Long** indicating whether lines in the rows of tables forma
 
 _expression_. `AllowBreakAcrossPage`
 
- _expression_ A variable that represents a '[TableStyle](Word.TableStyle.md)' object.
+_expression_ A variable that represents a '[TableStyle](Word.TableStyle.md)' object.
 
 
 ## Remarks

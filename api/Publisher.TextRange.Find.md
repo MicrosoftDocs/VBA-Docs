@@ -21,6 +21,6 @@ Returns a  **FindReplace** object from the specified **TextRange** object. The *
 
 _expression_.**Find**
 
- _expression_ A variable that represents a  **TextRange** object.
+_expression_ A variable that represents a  **TextRange** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

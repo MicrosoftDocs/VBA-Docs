@@ -21,7 +21,7 @@ Returns the workbook that contains the chart data associated with the chart. Rea
 
 _expression_.**Workbook**
 
- _expression_ A variable that represents a '[ChartData](Word.ChartData.md)' object.
+_expression_ A variable that represents a '[ChartData](Word.ChartData.md)' object.
 
 
 ## Remarks

@@ -16,7 +16,7 @@ Returns a single  **[ThemeVariant](PowerPoint.themevariant.md)** object from the
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a 'ThemeVariants' object.
+_expression_ A variable that represents a 'ThemeVariants' object.
 
 
 ## Parameters

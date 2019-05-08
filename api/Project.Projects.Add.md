@@ -18,7 +18,7 @@ Adds a  **Project** object to a **Projects** collection.
 
 _expression_.**Add** (_DisplayProjectInfo_, _Template_, _FileNewDialog_)
 
- _expression_ A variable that represents a 'Projects' object.
+_expression_ A variable that represents a 'Projects' object.
 
 
 ## Parameters

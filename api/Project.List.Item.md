@@ -18,7 +18,7 @@ Gets a single item from the **List** object. Read-only **String**.
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [List](./Project.List.md) object.
+_expression_ A variable that represents a [List](./Project.List.md) object.
 
 
 ## Parameters

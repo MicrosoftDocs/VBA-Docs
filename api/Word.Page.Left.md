@@ -21,7 +21,7 @@ Returns a  **Long** that represents the left edge of the page. Read-only.
 
 _expression_.**Left**
 
- _expression_ A variable that represents a '[Page](Word.Page.md)' object.
+_expression_ A variable that represents a '[Page](Word.Page.md)' object.
 
 
 ## Remarks

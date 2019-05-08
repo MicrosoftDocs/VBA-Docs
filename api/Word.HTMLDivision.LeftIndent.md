@@ -21,7 +21,7 @@ Returns or sets a  **Single** that represents the left indent value (in points) 
 
 _expression_. `LeftIndent`
 
- _expression_ A variable that represents an '[HTMLDivision](Word.HTMLDivision.md)' object.
+_expression_ A variable that represents an '[HTMLDivision](Word.HTMLDivision.md)' object.
 
 
 ## See also

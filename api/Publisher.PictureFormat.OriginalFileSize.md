@@ -21,7 +21,7 @@ Returns a  **Long** representing the size, in bytes, of the linked picture or OL
 
 _expression_.**OriginalFileSize**
 
- _expression_ A variable that represents an  **PictureFormat** object.
+_expression_ A variable that represents an  **PictureFormat** object.
 
 
 ## Remarks

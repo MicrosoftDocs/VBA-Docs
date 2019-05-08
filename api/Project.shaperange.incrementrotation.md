@@ -14,7 +14,7 @@ Rotates each shape in the shape range around the z-axis by the specified number 
 
 _expression_. `IncrementRotation` _(Increment)_
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns or sets a  **String** that represents the alternative text associated wi
 
 _expression_. `AlternativeText`
 
- _expression_ A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
+_expression_ A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Returns a  **[Dictionary](Word.Dictionary.md)** object that represents the activ
 
 _expression_. `ActiveGrammarDictionary`
 
- _expression_ A variable that represents a '[Language](Word.Language.md)' object.
+_expression_ A variable that represents a '[Language](Word.Language.md)' object.
 
 
 ## Remarks

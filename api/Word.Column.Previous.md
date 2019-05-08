@@ -21,7 +21,7 @@ Returns the previous column in a collection of table columns. Read-only.
 
 _expression_.**Previous**
 
- _expression_ A variable that represents a '[Column](Word.Column.md)' object.
+_expression_ A variable that represents a '[Column](Word.Column.md)' object.
 
 
 ## Example

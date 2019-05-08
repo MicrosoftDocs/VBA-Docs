@@ -21,7 +21,7 @@ Redoes the top item on the redo stack.
 
 _expression_. `EditRedo`( `_fRedo_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

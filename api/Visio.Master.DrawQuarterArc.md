@@ -21,7 +21,7 @@ Creates a shape whose path consists of an elliptical arc defined by the two poin
 
 _expression_. `DrawQuarterArc`( `_xBegin_` , `_yBegin_` , `_xEnd_` , `_yEnd_` , `_SweepFlag_` )
 
- _expression_ A variable that represents a [Master](./Visio.Master.md) object.
+_expression_ A variable that represents a **[Master](Visio.Master.md)** object.
 
 
 ## Parameters

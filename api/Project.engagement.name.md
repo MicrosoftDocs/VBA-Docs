@@ -16,7 +16,7 @@ localization_priority: Normal
 
 _expression_.**Name**
 
- _expression_ A variable that represents a 'Engagement' object.
+_expression_ A variable that represents a 'Engagement' object.
 
 
 ## See also

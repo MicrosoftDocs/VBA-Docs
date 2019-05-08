@@ -14,7 +14,7 @@ Gets a  **ThreeDFormat** object that contains three-dimensional formatting prope
 
 _expression_.**ThreeD**
 
- _expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a 'Shape' object.
 
 
 ## Remarks

@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotTable.AddDataField
 ms.assetid: 768b1eb7-80ea-fb0f-0de5-803ec19bbe18
-ms.date: 06/08/2017
+ms.date: 05/08/2019
 localization_priority: Normal
 ---
 
 
 # PivotTable.AddDataField method (Excel)
 
-Adds a data field to a PivotTable report. Returns a  **[PivotField](Excel.PivotField.md)** object that represents the new data field.
+Adds a data field to a PivotTable report. Returns a **[PivotField](Excel.PivotField.md)** object that represents the new data field.
 
 
 ## Syntax
@@ -39,11 +39,7 @@ PivotField
 
 ## Example
 
-This example adds a data field titled "Total Score" to a PivotTable called "PivotTable1".
-
-
- **Note**   This example assumes a table exists in which one of the columns contains a column titled "Score".
-
+This example adds a data field titled Total Score to a PivotTable called PivotTable1. This example assumes that a table exists in which one of the columns contains a column titled Score.
 
 ```vb
 Sub AddMoreFields() 
@@ -57,9 +53,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[PivotTable Object](Excel.PivotTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

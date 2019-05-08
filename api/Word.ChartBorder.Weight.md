@@ -21,7 +21,7 @@ Returns or sets the weight of the border. Read/write  **[XlBorderWeight](Word.xl
 
 _expression_.**Weight**
 
- _expression_ A variable that represents a '[ChartBorder](Word.ChartBorder.md)' object.
+_expression_ A variable that represents a '[ChartBorder](Word.ChartBorder.md)' object.
 
 
 ## Example

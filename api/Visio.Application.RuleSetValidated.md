@@ -18,7 +18,7 @@ Occurs when a rule set is validated.
 
 Private Sub  _expression_ _'RuleSetValidated'(**_ByVal RuleSet As ValidationRuleSet_**)
 
- _expression_ A variable that represents an '[Application](Visio.Application.md)' object.
+_expression_ A variable that represents an '[Application](Visio.Application.md)' object.
 
 
 ## Parameters

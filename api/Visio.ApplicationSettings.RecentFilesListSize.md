@@ -21,7 +21,7 @@ Determines the number of entries in the  **Recent Documents** list in the Micros
 
 _expression_. `RecentFilesListSize`
 
- _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
+_expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
 ## Return value

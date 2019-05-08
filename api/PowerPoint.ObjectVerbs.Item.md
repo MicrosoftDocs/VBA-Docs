@@ -21,7 +21,7 @@ Returns a single object from the specified  **ObjectVerbs** collection.
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents an [ObjectVerbs](./PowerPoint.ObjectVerbs.md) object.
+_expression_ A variable that represents an [ObjectVerbs](./PowerPoint.ObjectVerbs.md) object.
 
 
 ## Parameters

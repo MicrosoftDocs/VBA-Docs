@@ -21,7 +21,7 @@ Adds a row that has the specified name to the specified ShapeSheet section.
 
 _expression_. `AddNamedRow`( `_Section_` , `_RowName_` , `_RowTag_` )
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters

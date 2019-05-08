@@ -21,7 +21,7 @@ Occurs after one or more shapes are added to a document.
 
 Private Sub  _expression_ _'SelectionAdded'(**_ByVal Selection As [IVSELECTION]_**)
 
- _expression_ A variable that represents a [Master](./Visio.Master.md) object.
+_expression_ A variable that represents a **[Master](Visio.Master.md)** object.
 
 
 ## Parameters

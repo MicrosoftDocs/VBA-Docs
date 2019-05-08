@@ -21,7 +21,7 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 
 _expression_.**Application**
 
- _expression_ A variable that represents a '[Walls](PowerPoint.Walls.md)' object.
+_expression_ A variable that represents a '[Walls](PowerPoint.Walls.md)' object.
 
 
 ## See also

@@ -18,7 +18,7 @@ Gets the index of a  **Pane** object in the containing object. Read-only **Varia
 
 _expression_.**Index**
 
- _expression_ A variable that represents a [Pane](./Project.Pane.md) object.
+_expression_ A variable that represents a [Pane](./Project.Pane.md) object.
 
 
 ## Remarks

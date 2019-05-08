@@ -21,7 +21,7 @@ Specifies whether a user may select more than one item in a Web list box control
 
 _expression_.**MultiSelect**
 
- _expression_ A variable that represents a  **WebListBox** object.
+_expression_ A variable that represents a  **WebListBox** object.
 
 
 ## Return value

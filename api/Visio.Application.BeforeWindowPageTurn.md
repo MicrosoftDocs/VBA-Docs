@@ -18,7 +18,7 @@ Occurs before a window is about to show a different page.
 
 Private Sub  _expression_ _'BeforeWindowPageTurn'(**_ByVal Window As [IVWINDOW]_**)
 
- _expression_ A variable that represents an [Application](./Visio.Application.md) object.
+_expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ## Parameters

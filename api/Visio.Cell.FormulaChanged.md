@@ -21,7 +21,7 @@ Occurs after a formula changes in a cell in the object that receives the event.
 
 Private Sub  _expression_ _'FormulaChanged'(**_ByVal Cell As [IVCELL]_**)
 
- _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
+_expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
 ## Parameters

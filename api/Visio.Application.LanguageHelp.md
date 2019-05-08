@@ -21,7 +21,7 @@ Represents the language ID of the Help in the version of the Microsoft Visio ins
 
 _expression_. `LanguageHelp`
 
- _expression_ A variable that represents an [Application](./Visio.Application.md) object.
+_expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ## Return value

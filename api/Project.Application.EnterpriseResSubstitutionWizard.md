@@ -21,7 +21,7 @@ Runs the  **Resource Substitution Wizard**. Available in Project Professional on
 
 _expression_. `EnterpriseResSubstitutionWizard`( `_ProjectList_`, `_PoolOption_`, `_RBSorResourceList_`, `_FreezeHorizonDate_`, `_UpdateProjects_`, `_SaveReport_`, `_Path_`, `_AssignProposedResources_`, `_LevelProposedBookings_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

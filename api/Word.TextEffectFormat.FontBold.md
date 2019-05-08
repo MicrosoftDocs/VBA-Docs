@@ -21,7 +21,7 @@ Sets the font to bold for the specified Word Art shape. Read/write  **MsoTriStat
 
 _expression_.**FontBold**
 
- _expression_ A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
+_expression_ A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
 
 
 ## Example

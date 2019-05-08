@@ -21,7 +21,7 @@ Fires when the string that appears as the fourth item under  **Prepare to follow
 
 _expression_.**MailMergeWizardFollowUpCustom**(**_Doc_**)
 
- _expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an  **Application** object.
 
 
 ## Parameters

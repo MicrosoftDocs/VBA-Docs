@@ -21,7 +21,7 @@ Displays information about resource assignments and predecessor tasks in the act
 
 _expression_. `ViewShowResourcesPredecessors`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Return value

@@ -14,7 +14,7 @@ Changes the view to display the report.
 
 _expression_.**Apply**
 
- _expression_ A variable that represents a 'Report' object.
+_expression_ A variable that represents a 'Report' object.
 
 
 ## Return value

@@ -18,7 +18,7 @@ Gets a single  **Table** object from the **Tables** collection. Read-only **Tabl
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a 'Tables' object.
+_expression_ A variable that represents a 'Tables' object.
 
 
 ## Parameters

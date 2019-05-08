@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `Expanded`
 
- _expression_ A variable that represents a '[Subdocument](Word.Subdocument.md)' object.
+_expression_ A variable that represents a '[Subdocument](Word.Subdocument.md)' object.
 
 
 ## Example

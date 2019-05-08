@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**IsHorizontal**
 
- _expression_ A variable that represents an  **WebNavigationBarSet** object.
+_expression_ A variable that represents an  **WebNavigationBarSet** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns or sets an exit macro name for the specified form field (CheckBox, DropD
 
 _expression_. `ExitMacro`
 
- _expression_ A variable that represents a '[FormField](Word.FormField.md)' object.
+_expression_ A variable that represents a '[FormField](Word.FormField.md)' object.
 
 
 ## Remarks

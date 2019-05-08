@@ -21,7 +21,7 @@ Returns or sets the format code for the object. Read/write  **String**.
 
 _expression_.**NumberFormat**
 
- _expression_ A variable that represents a '[TickLabels](PowerPoint.TickLabels.md)' object.
+_expression_ A variable that represents a '[TickLabels](PowerPoint.TickLabels.md)' object.
 
 
 ## Remarks

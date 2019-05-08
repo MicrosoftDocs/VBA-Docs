@@ -18,7 +18,7 @@ Gets or sets the month number for the start of the fiscal year for new projects.
 
 _expression_. `StartYearIn`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

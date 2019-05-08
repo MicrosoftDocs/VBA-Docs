@@ -21,7 +21,7 @@ Displays the  **Bar Styles**, **Box Styles**, or **Detail Styles** dialog box, w
 
 _expression_. `BarBoxStyles`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Return value

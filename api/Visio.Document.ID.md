@@ -21,7 +21,7 @@ Gets the ID of an object. Read-only.
 
 _expression_. `ID`
 
- _expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ## Return value

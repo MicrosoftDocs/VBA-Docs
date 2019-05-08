@@ -21,7 +21,7 @@ Returns or sets a  **Variant** that represents the amount of space (in points) b
 
 _expression_.**MarginLeft**
 
- _expression_ A variable that represents a  **TextFrame** object.
+_expression_ A variable that represents a  **TextFrame** object.
 
 
 ## Example

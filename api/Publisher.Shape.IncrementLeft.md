@@ -21,7 +21,7 @@ Moves the specified shape or shape range horizontally by the specified distance.
 
 _expression_.**IncrementLeft**(**_Increment_**)
 
- _expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a  **Shape** object.
 
 
 ## Parameters

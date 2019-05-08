@@ -14,7 +14,7 @@ Gets or sets the style of the shape range. Read/write  **[MsoShapeStyleIndex](ht
 
 _expression_. `ShapeStyle`
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Property value

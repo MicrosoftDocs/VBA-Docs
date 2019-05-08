@@ -21,7 +21,7 @@ String representation of the GUID of the host application of the Microsoft Visio
 
 _expression_. `HostID`
 
- _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
+_expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 
 
 ## Return value

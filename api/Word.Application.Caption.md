@@ -21,7 +21,7 @@ Returns or sets the text displayed in the Title bar of the application window. R
 
 _expression_.**Caption**
 
- _expression_ A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Remarks

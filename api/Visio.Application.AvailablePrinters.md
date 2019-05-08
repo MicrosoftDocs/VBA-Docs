@@ -21,7 +21,7 @@ Returns a list of installed printers. Read-only.
 
 _expression_. `AvailablePrinters`
 
- _expression_ A variable that represents an [Application](./Visio.Application.md) object.
+_expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Sets or returns a  **Boolean** indicating whether a document stores the date and
 
 _expression_. `RemoveDateAndTime`
 
- _expression_ A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

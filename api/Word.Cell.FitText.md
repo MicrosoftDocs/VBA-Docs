@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `FitText`
 
- _expression_ A variable that represents a '[Cell](Word.Cell.md)' object.
+_expression_ A variable that represents a '[Cell](Word.Cell.md)' object.
 
 
 ## Remarks

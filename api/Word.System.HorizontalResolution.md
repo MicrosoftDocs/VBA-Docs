@@ -21,7 +21,7 @@ Returns the horizontal display resolution, in pixels. Read-only  **Long**.
 
 _expression_. `HorizontalResolution`
 
- _expression_ A variable that represents a '[System](Word.System.md)' object.
+_expression_ A variable that represents a '[System](Word.System.md)' object.
 
 
 ## Example

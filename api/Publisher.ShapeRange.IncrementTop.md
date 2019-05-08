@@ -21,7 +21,7 @@ Moves the specified shape or shape range vertically by the specified distance.
 
 _expression_.**IncrementTop**(**_Increment_**)
 
- _expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Parameters

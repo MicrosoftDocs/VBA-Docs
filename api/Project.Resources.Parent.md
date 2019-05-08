@@ -18,7 +18,7 @@ Gets the parent of the  **Resources** object. Read-only **Project**.
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a 'Resources' object.
+_expression_ A variable that represents a 'Resources' object.
 
 
 ## Remarks

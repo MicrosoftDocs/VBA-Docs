@@ -19,7 +19,7 @@ Returns a  **Long** that represents the number of full series in the collection.
 
 _expression_.**Count**
 
- _expression_ A variable that represents a 'FullSeriesCollection' object.
+_expression_ A variable that represents a 'FullSeriesCollection' object.
 
 
 ## Property value

@@ -21,7 +21,7 @@ Returns an  **Object** that represents the specified OLE object's top-level inte
 
 _expression_.**Object**
 
- _expression_ A variable that represents an  **OLEFormat** object.
+_expression_ A variable that represents an  **OLEFormat** object.
 
 
 ## Return value

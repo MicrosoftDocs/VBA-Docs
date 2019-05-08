@@ -21,7 +21,7 @@ Sets the folder in which Word searches for documents.
 
 _expression_. `ChangeFileOpenDirectory`( `_Path_` )
 
- _expression_ A variable that represents an '[Application](Word.Application.md)' object. Optional.
+_expression_ A variable that represents an '[Application](Word.Application.md)' object. Optional.
 
 
 ## Parameters

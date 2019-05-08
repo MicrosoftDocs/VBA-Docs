@@ -18,7 +18,7 @@ Gets a single  **Task** object from the **ChildDrivers** collection. Read-only *
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a 'ChildDrivers' object.
+_expression_ A variable that represents a 'ChildDrivers' object.
 
 
 ## Parameters

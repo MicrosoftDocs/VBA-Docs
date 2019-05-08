@@ -18,7 +18,7 @@ Resets the  **Year** item of a resource calendar to the value in the correspondi
 
 _expression_. `Default`
 
- _expression_ A variable that represents a [Year](./Project.Year.md) object.
+_expression_ A variable that represents a [Year](./Project.Year.md) object.
 
 
 ## Remarks

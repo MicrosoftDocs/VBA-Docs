@@ -21,7 +21,7 @@ Replaces the specified field or  **[Fields](Publisher.Fields.md)** collection wi
 
 _expression_.**Unlink**
 
- _expression_ A variable that represents a  **Fields** object.
+_expression_ A variable that represents a  **Fields** object.
 
 
 ## Return value

@@ -18,7 +18,7 @@ Occurs after a set of shapes selected in a window changes.
 
 Private Sub  _expression_ _'SelectionChanged'(**_ByVal Window As [IVWINDOW]_**)
 
- _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
+_expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 
 
 ## Parameters

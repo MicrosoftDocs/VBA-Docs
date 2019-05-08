@@ -18,7 +18,7 @@ Occurs when Project Professional successfully puts the  **Project Save** job in 
 
 _expression_. `SaveCompletedToServer`( `_bstrName_`, `_bstrprojGuid_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns a  **Rows** collection that represents all the table rows in a range. Re
 
 _expression_. `Rows`
 
- _expression_ A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks

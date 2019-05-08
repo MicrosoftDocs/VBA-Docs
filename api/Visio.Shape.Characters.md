@@ -21,7 +21,7 @@ Returns a  **Characters** object that represents the text of a shape. Read-only.
 
 _expression_. `Characters`
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Return value

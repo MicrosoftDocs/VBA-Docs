@@ -21,7 +21,7 @@ Returns the DOM object for the Microsoft Internet Explorer window loaded in the 
 
 _expression_. `WebBrowserControlWindow`
 
- _expression_ A variable that represents a [Window](./Project.Window.md) object.
+_expression_ A variable that represents a [Window](./Project.Window.md) object.
 
 
 ## Return value

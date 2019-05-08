@@ -21,7 +21,7 @@ Converts a string or number into an equivalent number in different measurement u
 
 _expression_. `ConvertResult`( `_StringOrNumber_` , `_UnitsIn_` , `_UnitsOut_` )
 
- _expression_ A variable that represents an [Application](./Visio.Application.md) object.
+_expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ## Parameters

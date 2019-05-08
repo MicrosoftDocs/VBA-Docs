@@ -21,7 +21,7 @@ Returns or sets a  **String** that represents the keywords for a webpage within 
 
 _expression_.**Keywords**
 
- _expression_ A variable that represents a  **WebPageOptions** object.
+_expression_ A variable that represents a  **WebPageOptions** object.
 
 
 ## Return value

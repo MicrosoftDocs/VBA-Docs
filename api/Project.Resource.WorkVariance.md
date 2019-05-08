@@ -18,6 +18,6 @@ Gets the variance between the baseline work and the work for the resource. Read-
 
 _expression_. `WorkVariance`
 
- _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
+_expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

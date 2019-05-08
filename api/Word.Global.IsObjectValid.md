@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `IsObjectValid`( `_Object_` )
 
- _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
+_expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
 
 ## Parameters

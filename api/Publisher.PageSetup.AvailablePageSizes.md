@@ -21,7 +21,7 @@ Returns the  **PageSizes** collection that contains all the **[PageSize](Publish
 
 _expression_.**AvailablePageSizes**
 
- _expression_ A variable that represents a  **PageSetup** object.
+_expression_ A variable that represents a  **PageSetup** object.
 
 
 ## Return value

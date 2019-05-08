@@ -21,7 +21,7 @@ Returns the interior of the object. Read-only  **[Interior](Word.Interior.md)**.
 
 _expression_.**Interior**
 
- _expression_ A variable that represents an '[UpBars](Word.UpBars.md)' object.
+_expression_ A variable that represents an '[UpBars](Word.UpBars.md)' object.
 
 
 ## Example

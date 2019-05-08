@@ -21,7 +21,7 @@ Returns the nesting level of the specified table rows. Read-only  **Long**.
 
 _expression_. `NestingLevel`
 
-_expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
+_expression_ Required. A variable that represents a **[Rows](Word.Rows.md)** object.
 
 
 ## Remarks

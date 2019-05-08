@@ -21,6 +21,6 @@ Removes the specified search criteria in a find or replace operation.
 
 _expression_.**Clear**
 
- _expression_ A variable that represents a  **FindReplace** object.
+_expression_ A variable that represents a  **FindReplace** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,7 +21,7 @@ Returns or sets an  **MsoPictureColorType** constant indicating the type of colo
 
 _expression_.**ColorType**
 
- _expression_ A variable that represents a  **PictureFormat** object.
+_expression_ A variable that represents a  **PictureFormat** object.
 
 
 ## Return value

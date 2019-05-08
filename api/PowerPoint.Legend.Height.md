@@ -18,7 +18,7 @@ Returns or sets the height, in [points](../language/glossary/vbe-glossary.md#poi
 
 _expression_.**Height**
 
- _expression_ A variable that represents a '[Legend](PowerPoint.Legend.md)' object.
+_expression_ A variable that represents a '[Legend](PowerPoint.Legend.md)' object.
 
 
 ## See also

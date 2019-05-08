@@ -21,7 +21,7 @@ Moves an item in the Organizer.
 
 _expression_. `OrganizerMoveItem`( `_Type_`, `_FileName_`, `_ToFileName_`, `_Name_`, `_Task_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Gets or sets a  **String** value that represents the formula of the object using
 
 _expression_.**Formula**
 
- _expression_ A variable that represents a '[DisplayUnitLabel](Word.DisplayUnitLabel.md)' object.
+_expression_ A variable that represents a '[DisplayUnitLabel](Word.DisplayUnitLabel.md)' object.
 
 
 ## Return value

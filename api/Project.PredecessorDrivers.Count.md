@@ -18,7 +18,7 @@ Gets the number of items in the  **[PredecessorDrivers](Project.predecessordrive
 
 _expression_.**Count**
 
- _expression_ A variable that represents a 'PredecessorDrivers' object.
+_expression_ A variable that represents a 'PredecessorDrivers' object.
 
 
 ## Remarks

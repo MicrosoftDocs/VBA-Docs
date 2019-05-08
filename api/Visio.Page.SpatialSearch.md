@@ -21,7 +21,7 @@ Returns a  **Selection** object whose shapes meet certain criteria in relation t
 
 _expression_. `SpatialSearch`( `_x_` , `_y_` , `_Relation_` , `_Tolerance_` , `_Flags_` )
 
- _expression_ A variable that represents a [Page](./Visio.Page.md) object.
+_expression_ A variable that represents a **[Page](Visio.Page.md)** object.
 
 
 ## Parameters

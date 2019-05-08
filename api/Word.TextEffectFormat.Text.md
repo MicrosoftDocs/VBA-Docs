@@ -21,7 +21,7 @@ Returns or sets the text in the specified object. Read/write  **String**.
 
 _expression_.**Text**
 
- _expression_ A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
+_expression_ A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `CorrectSentenceCaps`
 
- _expression_ A variable that represents an '[AutoCorrect](Word.AutoCorrect.md)' object.
+_expression_ A variable that represents an '[AutoCorrect](Word.AutoCorrect.md)' object.
 
 
 ## Example

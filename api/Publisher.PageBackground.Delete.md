@@ -21,7 +21,7 @@ Deletes the specified object.
 
 _expression_.**Delete**
 
- _expression_ A variable that represents a  **PageBackground** object.
+_expression_ A variable that represents a  **PageBackground** object.
 
 
 ## Remarks

@@ -18,7 +18,7 @@ Gets a single  **Subproject** object from the **Subprojects** collection. Read-o
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a 'Subprojects' object.
+_expression_ A variable that represents a 'Subprojects' object.
 
 
 ## Parameters

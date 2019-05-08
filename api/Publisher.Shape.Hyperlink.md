@@ -21,7 +21,7 @@ Returns a  **[Hyperlink](Publisher.Hyperlink.md)** object representing the hyper
 
 _expression_.**Hyperlink**
 
- _expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a  **Shape** object.
 
 
 ## Example

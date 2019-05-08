@@ -21,7 +21,7 @@ Occurs when the editing area of a document window is right-clicked, before the d
 
 Private Sub  _expression_ ._'WindowBeforeRightClick'(**_ByVal Sel As Selection_**, **_Cancel As Boolean_**)
 
- _expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module.
+_expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module.
 
 
 ## Parameters

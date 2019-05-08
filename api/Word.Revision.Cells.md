@@ -21,7 +21,7 @@ Returns a  **Cells** collection that represents the table cells that have been m
 
 _expression_.**Cells**
 
- _expression_ A variable that represents a '[Revision](Word.Revision.md)' object.
+_expression_ A variable that represents a '[Revision](Word.Revision.md)' object.
 
 
 ## Remarks

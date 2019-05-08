@@ -21,7 +21,7 @@ Converts a measurement from points to picas (1 pica = 12 points). Returns the co
 
 _expression_. `PointsToPicas`( `_Points_` )
 
- _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
+_expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
 
 ## Parameters

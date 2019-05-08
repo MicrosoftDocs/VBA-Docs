@@ -19,9 +19,9 @@ Gets or sets the current theme effect for the page. Read/write.
 
 ## Syntax
 
-_expression_. `ThemeEffects`
+_expression_.**ThemeEffects**
 
- _expression_ An expression that returns a [Page](./Visio.Page.md) object.
+_expression_ An expression that returns a **[Page](Visio.Page.md)** object.
 
 
 ## Return value
@@ -31,19 +31,17 @@ Variant
 
 ## Remarks
 
-You can set the  **ThemeEffects** property value to any one of the following:
-
-
-
+You can set the **ThemeEffects** property value to any one of the following:
 
 - The name or universal name of the theme effect (strings)
     
-- An enumerated value from the  **[VisThemeEffects](Visio.visthemeeffects.md)** enumeration
+- An enumerated value from the **[VisThemeEffects](Visio.visthemeeffects.md)** enumeration
     
-- A  **Master** object of type **visTypeThemeEffects**
+- A **Master** object of type **visTypeThemeEffects**
     
 
+The **ThemeEffects** property always returns the universal name of the current theme effect.
 
-The  **ThemeEffects** property always returns the universal name of the current theme effect.
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

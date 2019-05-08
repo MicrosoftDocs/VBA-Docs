@@ -21,7 +21,7 @@ Returns a  **[Slide](PowerPoint.Slide.md)** object that represents the slide vie
 
 _expression_. `LastSlideViewed`
 
- _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
+_expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns the index number of the object within the collection of similar objects.
 
 _expression_.**Index**
 
- _expression_ A variable that represents a '[LegendEntry](Word.LegendEntry.md)' object.
+_expression_ A variable that represents a '[LegendEntry](Word.LegendEntry.md)' object.
 
 
 ## See also

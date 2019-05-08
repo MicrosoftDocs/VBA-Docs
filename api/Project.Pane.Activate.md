@@ -18,6 +18,6 @@ Activates the pane. If the pane isn't in the active window, the window to which 
 
 _expression_.**Activate**
 
- _expression_ A variable that represents a [Pane](./Project.Pane.md) object.
+_expression_ A variable that represents a [Pane](./Project.Pane.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

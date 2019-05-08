@@ -19,7 +19,7 @@ Specifies the number of bins in the histogram chart. Read/write  **Long**.
 
 _expression_.**BinsCountValue**
 
- _expression_ A variable that represents a [ChartGroup](./Word.ChartGroup.md) object.
+_expression_ A variable that represents a [ChartGroup](./Word.ChartGroup.md) object.
 
 
 ## See also

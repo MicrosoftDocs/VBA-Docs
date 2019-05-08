@@ -18,7 +18,7 @@ Gets a  **[Resources](Project.Resource.md)** collection that contains the resour
 
 _expression_. `Resources`
 
- _expression_ A variable that represents a [Selection](./Project.Selection.md) object.
+_expression_ A variable that represents a [Selection](./Project.Selection.md) object.
 
 
 ## Remarks

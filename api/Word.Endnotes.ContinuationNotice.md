@@ -21,7 +21,7 @@ Returns a  **Range** object that represents the endnote continuation notice. Rea
 
 _expression_. `ContinuationNotice`
 
- _expression_ A variable that represents an '[Endnotes](Word.endnotes.md)' collection.
+_expression_ A variable that represents an '[Endnotes](Word.endnotes.md)' collection.
 
 
 ## Example

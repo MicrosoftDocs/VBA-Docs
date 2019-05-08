@@ -21,7 +21,7 @@ Deletes a project stored in a database.
 
 _expression_. `DeleteFromDatabase`( `_Name_`, `_UserID_`, `_DatabasePassWord_`, `_FormatID_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

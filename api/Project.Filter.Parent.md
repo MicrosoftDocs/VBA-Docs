@@ -18,7 +18,7 @@ Gets the parent of the  **Filter** object. Read-only **Project**.
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a [Filter](./Project.Filter.md) object.
+_expression_ A variable that represents a [Filter](./Project.Filter.md) object.
 
 
 ## Remarks

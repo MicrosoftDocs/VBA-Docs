@@ -21,7 +21,7 @@ Returns a  **Single** indicating the distance, in [points](../language/glossary/
 
 _expression_.**BoundTop**
 
- _expression_ A variable that represents a  **TextRange** object.
+_expression_ A variable that represents a  **TextRange** object.
 
 
 ## Return value

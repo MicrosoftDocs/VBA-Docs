@@ -18,7 +18,7 @@ localization_priority: Normal
 
 _expression_. `TeamStatusPending`
 
- _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
+_expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 
 ## Remarks

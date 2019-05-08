@@ -18,7 +18,7 @@ Project property for the three-character ISO standard currency code of the proje
 
 _expression_. `CurrencyCode`
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Example

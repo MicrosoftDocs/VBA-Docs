@@ -21,7 +21,7 @@ Returns the vertical distance (in points) from the edge of the text bounding box
 
 _expression_.**Drop**
 
- _expression_ A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
+_expression_ A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
 
 
 ## Remarks

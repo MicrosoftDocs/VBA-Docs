@@ -21,7 +21,7 @@ Adds the selection of shapes to all underlying containers that allow it as a mem
 
 _expression_. `AddToContainers`
 
- _expression_ A variable that represents a '[Selection](Visio.Selection.md)' object.
+_expression_ A variable that represents a '[Selection](Visio.Selection.md)' object.
 
 
 ## Return value

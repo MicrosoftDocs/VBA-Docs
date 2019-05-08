@@ -21,7 +21,7 @@ Returns or sets the distance (in points) between the top edge of the envelope an
 
 _expression_. `AddressFromTop`
 
- _expression_ A variable that represents a '[Envelope](Word.Envelope.md)' object.
+_expression_ A variable that represents a '[Envelope](Word.Envelope.md)' object.
 
 
 ## Remarks

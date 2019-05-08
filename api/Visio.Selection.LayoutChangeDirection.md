@@ -21,7 +21,7 @@ Revises the layout of a selection of connected shapes by rotating or flipping th
 
 _expression_. `LayoutChangeDirection`( `_Direction_` )
 
- _expression_ A variable that represents a '[Selection](Visio.Selection.md)' object.
+_expression_ A variable that represents a '[Selection](Visio.Selection.md)' object.
 
 
 ## Parameters

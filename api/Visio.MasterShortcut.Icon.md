@@ -21,7 +21,7 @@ Returns the icon contained in a master shortcut. Read/write.
 
 _expression_. `Icon`
 
- _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
+_expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 
 
 ## Return value

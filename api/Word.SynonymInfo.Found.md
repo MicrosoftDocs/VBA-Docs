@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `Found`
 
- _expression_ A variable that represents a '[SynonymInfo](Word.SynonymInfo.md)' object.
+_expression_ A variable that represents a '[SynonymInfo](Word.SynonymInfo.md)' object.
 
 
 ## Example

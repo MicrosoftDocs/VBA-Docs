@@ -21,7 +21,7 @@ Changes the rotation of the specified shape around the z-axis (extends outward f
 
 _expression_.**IncrementRotation**(**_Increment_**)
 
- _expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a  **Shape** object.
 
 
 ## Parameters

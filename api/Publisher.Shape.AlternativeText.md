@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the text displayed by a web browser i
 
 _expression_.**AlternativeText**
 
- _expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a  **Shape** object.
 
 
 ## Remarks

@@ -19,7 +19,7 @@ Adds a new drawing guide to the presentation, slide master, or custom layout.
 
 _expression_.**Add**_(Orientation,_ _Position)_
 
- _expression_ A variable that represents a 'Guides' object.
+_expression_ A variable that represents a 'Guides' object.
 
 
 ## Parameters

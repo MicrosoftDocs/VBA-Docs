@@ -21,7 +21,7 @@ Returns the beginning index of a type of run?a sequence of characters that share
 
 _expression_. `RunBegin`( `_RunType_` )
 
- _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
+_expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
 
 ## Parameters

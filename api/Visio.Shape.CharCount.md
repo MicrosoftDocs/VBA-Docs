@@ -21,7 +21,7 @@ Returns the number of characters in an object. Read-only.
 
 _expression_. `CharCount`
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Return value

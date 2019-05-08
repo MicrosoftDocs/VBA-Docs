@@ -21,7 +21,7 @@ Deletes an object.
 
 _expression_.**Delete**
 
- _expression_ A variable that represents an [AccelTable](./Visio.AccelTable.md) object.
+_expression_ A variable that represents an [AccelTable](./Visio.AccelTable.md) object.
 
 
 ## Return value

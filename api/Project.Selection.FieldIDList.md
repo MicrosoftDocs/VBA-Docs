@@ -21,6 +21,6 @@ Gets a  **[List](Project.List.md)** object representing all field identification
 
 _expression_. `FieldIDList`
 
- _expression_ A variable that represents a [Selection](./Project.Selection.md) object.
+_expression_ A variable that represents a [Selection](./Project.Selection.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,7 +21,7 @@ Returns or sets a  **Long** indicating the position (in points) of the left edge
 
 _expression_.**Left**
 
- _expression_ A variable that represents a  **Window** object.
+_expression_ A variable that represents a  **Window** object.
 
 
 ## Example

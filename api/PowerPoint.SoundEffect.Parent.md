@@ -21,7 +21,7 @@ Returns the parent object for the specified object.
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a [SoundEffect](./PowerPoint.SoundEffect.md) object.
+_expression_ A variable that represents a [SoundEffect](./PowerPoint.SoundEffect.md) object.
 
 
 ## Return value

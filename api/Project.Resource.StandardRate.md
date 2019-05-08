@@ -18,6 +18,6 @@ Gets or sets the standard rate of the resource. Read/write  **Variant**.
 
 _expression_. `StandardRate`
 
- _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
+_expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

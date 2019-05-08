@@ -18,7 +18,7 @@ Gets the character that separates the whole and fractional parts of a number. Re
 
 _expression_. `DecimalSeparator`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

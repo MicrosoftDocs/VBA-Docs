@@ -19,7 +19,7 @@ Returns a [CoAuthor](Word.CoAuthor.md) object that represents the author of the 
 
 _expression_. `Contact`
 
- _expression_ A variable that represents a [Comment](./Word.Comment.md) object.
+_expression_ A variable that represents a [Comment](./Word.Comment.md) object.
 
 
 ## Property value

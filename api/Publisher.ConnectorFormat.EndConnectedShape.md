@@ -21,7 +21,7 @@ Returns a  **[Shape](Publisher.Shape.md)** object that represents the shape to w
 
 _expression_.**EndConnectedShape**
 
- _expression_ A variable that represents an  **ConnectorFormat** object.
+_expression_ A variable that represents an  **ConnectorFormat** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Gets the index of an  **OutlineCode** object in the containing **OutlineCodes** 
 
 _expression_.**Index**
 
- _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
+_expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
 
 
 ## Remarks

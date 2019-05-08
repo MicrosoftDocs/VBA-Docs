@@ -21,7 +21,7 @@ Deletes the object.
 
 _expression_.**Delete**
 
- _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
+_expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## See also

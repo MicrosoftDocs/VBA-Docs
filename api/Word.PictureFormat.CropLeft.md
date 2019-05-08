@@ -21,7 +21,7 @@ Returns or sets the number of points that are cropped off the left side of the s
 
 _expression_.**CropLeft**
 
- _expression_ A variable that represents a '[PictureFormat](Word.PictureFormat.md)' object.
+_expression_ A variable that represents a '[PictureFormat](Word.PictureFormat.md)' object.
 
 
 ## Remarks

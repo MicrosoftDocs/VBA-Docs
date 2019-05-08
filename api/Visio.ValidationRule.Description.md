@@ -21,7 +21,7 @@ Specifies the description of the  **[ValidationRule](Visio.ValidationRule.md)** 
 
 _expression_.**Description**
 
- _expression_ A variable that represents a [ValidationRule](./Visio.ValidationRule.md) object.
+_expression_ A variable that represents a [ValidationRule](./Visio.ValidationRule.md) object.
 
 
 ## Return value

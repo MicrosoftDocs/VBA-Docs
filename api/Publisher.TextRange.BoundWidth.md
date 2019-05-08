@@ -21,7 +21,7 @@ Returns a  **Single** indicating the width, in [points](../language/glossary/vbe
 
 _expression_.**BoundWidth**
 
- _expression_ A variable that represents a  **TextRange** object.
+_expression_ A variable that represents a  **TextRange** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Adds a guide to a drawing page.
 
 _expression_. `AddGuide`( `_Type_` , `_xPos_` , `_yPos_` )
 
- _expression_ A variable that represents a [Page](./Visio.Page.md) object.
+_expression_ A variable that represents a **[Page](Visio.Page.md)** object.
 
 
 ## Parameters

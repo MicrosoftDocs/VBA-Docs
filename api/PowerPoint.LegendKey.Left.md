@@ -18,7 +18,7 @@ Returns the distance, in [points](../language/glossary/vbe-glossary.md#point), f
 
 _expression_.**Left**
 
- _expression_ A variable that represents a '[LegendKey](PowerPoint.LegendKey.md)' object.
+_expression_ A variable that represents a '[LegendKey](PowerPoint.LegendKey.md)' object.
 
 
 ## See also

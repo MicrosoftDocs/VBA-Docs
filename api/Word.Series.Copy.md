@@ -21,7 +21,7 @@ If the series has a picture fill, copies the picture to the Clipboard.
 
 _expression_.**Copy**
 
- _expression_ A variable that represents a '[Series](Word.Series.md)' object.
+_expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
 
 ## See also

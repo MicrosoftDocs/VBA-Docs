@@ -21,7 +21,7 @@ Occurs when the size or position of a window changes.
 
 Private Sub  _expression_ _'WindowChanged'(**_ByVal Window As [IVWINDOW]_**)
 
- _expression_ A variable that represents a [Windows](./Visio.Windows.md) object.
+_expression_ A variable that represents a [Windows](./Visio.Windows.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Sets the preset extrusion format.
 
 _expression_. `SetThreeDFormat`( `_PresetThreeDFormat_` )
 
- _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
 
 ## Parameters

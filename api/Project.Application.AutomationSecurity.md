@@ -18,7 +18,7 @@ Gets or sets a value that represents the security mode that Project uses when pr
 
 _expression_. `AutomationSecurity`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

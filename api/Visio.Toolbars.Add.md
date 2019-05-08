@@ -21,7 +21,7 @@ Adds a new object to a collection.
 
 _expression_.**Add**
 
- _expression_ A variable that represents a [Toolbars](./Visio.Toolbars.md) collection.
+_expression_ A variable that represents a [Toolbars](./Visio.Toolbars.md) collection.
 
 
 ## Return value

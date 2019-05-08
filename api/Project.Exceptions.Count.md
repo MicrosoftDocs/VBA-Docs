@@ -18,7 +18,7 @@ Gets the number of  **[Exception](Project.exceptions.md)** objects in the calend
 
 _expression_.**Count**
 
- _expression_ A variable that represents an 'Exceptions' object.
+_expression_ A variable that represents an 'Exceptions' object.
 
 
 ## Remarks

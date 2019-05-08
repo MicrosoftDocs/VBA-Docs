@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**AutoSelectWord**
 
- _expression_ A variable that represents an  **Options** object.
+_expression_ A variable that represents an  **Options** object.
 
 
 ## Return value

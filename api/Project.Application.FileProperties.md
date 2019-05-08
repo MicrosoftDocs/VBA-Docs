@@ -21,7 +21,7 @@ Displays the  **Properties** dialog box for the active project file.
 
 _expression_. `FileProperties`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Return value

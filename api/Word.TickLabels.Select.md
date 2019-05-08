@@ -21,7 +21,7 @@ Selects the object.
 
 _expression_.**Select**
 
- _expression_ A variable that represents a '[TickLabels](Word.TickLabels.md)' object.
+_expression_ A variable that represents a '[TickLabels](Word.TickLabels.md)' object.
 
 
 ## See also

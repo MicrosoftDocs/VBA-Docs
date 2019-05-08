@@ -21,7 +21,7 @@ Returns or sets the width of the contour around the specified  **ThreeDFormat** 
 
 _expression_. `ContourWidth`
 
- _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
 
 ## Return value

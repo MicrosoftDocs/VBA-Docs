@@ -21,7 +21,7 @@ Gets or sets the  **time** member of the **MSG** structure being wrapped. Read/w
 
 _expression_. `posttime`
 
- _expression_ A variable that represents a [MSGWrap](./Visio.MSGWrap.md) object.
+_expression_ A variable that represents a [MSGWrap](./Visio.MSGWrap.md) object.
 
 
 ## Return value

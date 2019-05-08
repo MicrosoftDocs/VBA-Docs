@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `HeadingFormat`
 
- _expression_ A variable that represents a '[Rows](Word.rows.md)' collection.
+_expression_ A variable that represents a **[Rows](Word.Rows.md)** object.
 
 
 ## Remarks

@@ -18,7 +18,7 @@ Gets or sets the actual cost for the task. Read/write  **Variant**.
 
 _expression_. `ActualCost`
 
- _expression_ A variable that represents a [Task](./Project.Task.md) object.
+_expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Remarks

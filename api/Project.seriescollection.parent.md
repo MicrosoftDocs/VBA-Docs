@@ -14,7 +14,7 @@ Gets the parent object of the  **SeriesCollection** object. Read-only **Object**
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a 'SeriesCollection' object.
+_expression_ A variable that represents a 'SeriesCollection' object.
 
 
 ## Remarks

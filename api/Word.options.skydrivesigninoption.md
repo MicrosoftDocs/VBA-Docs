@@ -19,7 +19,7 @@ localization_priority: Normal
 
 _expression_. `SkyDriveSignInOption`
 
- _expression_ A variable that represents a [Options](./Word.Options.md) object.
+_expression_ A variable that represents a [Options](./Word.Options.md) object.
 
 
 ## Remarks

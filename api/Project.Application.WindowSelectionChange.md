@@ -18,7 +18,7 @@ Occurs when the selection handle is changed within a window in Project.
 
 _expression_. `WindowSelectionChange`( `_Window_`, `_sel_`, `_selType_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

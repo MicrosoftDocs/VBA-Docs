@@ -21,7 +21,7 @@ Returns a  **[Page](Publisher.Page.md)** object that represents the page current
 
 _expression_.**ActivePage**
 
- _expression_ A variable that represents a  **View** object.
+_expression_ A variable that represents a  **View** object.
 
 
 ## Return value

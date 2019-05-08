@@ -21,7 +21,7 @@ Returns or sets an  **MsoLineDashStyle** constant indicating the dash style for 
 
 _expression_.**DashStyle**
 
- _expression_ A variable that represents a  **LineFormat** object.
+_expression_ A variable that represents a  **LineFormat** object.
 
 
 ## Return value

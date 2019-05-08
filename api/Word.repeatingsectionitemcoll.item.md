@@ -19,7 +19,7 @@ Returns an individual repeating section item.
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a 'RepeatingSectionItemColl' object.
+_expression_ A variable that represents a 'RepeatingSectionItemColl' object.
 
 
 ## Parameters

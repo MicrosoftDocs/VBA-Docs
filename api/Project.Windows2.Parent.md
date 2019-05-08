@@ -18,7 +18,7 @@ Gets the parent of the  **Windows2** object. Read-only **Object**.
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a 'Windows2' object.
+_expression_ A variable that represents a 'Windows2' object.
 
 
 ## Remarks

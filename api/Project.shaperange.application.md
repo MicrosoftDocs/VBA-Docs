@@ -14,7 +14,7 @@ Gets the [Application object (Project)](Project.Application.md) object. Read-onl
 
 _expression_.**Application**
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Property value

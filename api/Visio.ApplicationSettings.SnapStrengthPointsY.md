@@ -21,7 +21,7 @@ Specifies the distance in pixels along the y-axis that points pull when snapping
 
 _expression_. `SnapStrengthPointsY`
 
- _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
+_expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
 ## Return value

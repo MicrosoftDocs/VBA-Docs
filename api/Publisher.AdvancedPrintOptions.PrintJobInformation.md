@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**PrintJobInformation**
 
- _expression_ A variable that represents a  **AdvancedPrintOptions** object.
+_expression_ A variable that represents a  **AdvancedPrintOptions** object.
 
 
 ## Return value

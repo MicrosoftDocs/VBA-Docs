@@ -18,7 +18,7 @@ Gets a  **[Days](Project.Day.md)** collection representing the days in the month
 
 _expression_. `Days`
 
- _expression_ A variable that represents a [Month](./Project.Month.md) object.
+_expression_ A variable that represents a [Month](./Project.Month.md) object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Returns a [SmartArt](Office.SmartArt.md) object that provides a way to work with
 
 _expression_. `SmartArt`
 
- _expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
+_expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
 
 
 ## Remarks

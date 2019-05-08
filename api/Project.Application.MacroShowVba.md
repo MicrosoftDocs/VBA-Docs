@@ -21,7 +21,7 @@ Starts the Visual Basic Editor.
 
 _expression_. `MacroShowVba`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Return value

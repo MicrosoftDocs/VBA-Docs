@@ -21,7 +21,7 @@ Specifies the distance in pixels along the y-axis that rulers pull when snapping
 
 _expression_. `SnapStrengthRulerY`
 
- _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
+_expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
 ## Return value

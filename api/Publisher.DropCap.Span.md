@@ -21,7 +21,7 @@ Returns or sets a  **Long** that represents the number of letters included in th
 
 _expression_.**Span**
 
- _expression_ A variable that represents a  **DropCap** object.
+_expression_ A variable that represents a  **DropCap** object.
 
 
 ## Return value

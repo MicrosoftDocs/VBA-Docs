@@ -21,7 +21,7 @@ Returns an  **[Application](Word.Application.md)** object that represents the Mi
 
 _expression_.**Application**
 
- _expression_ A variable that represents a '[Break](Word.Break.md)' object.
+_expression_ A variable that represents a '[Break](Word.Break.md)' object.
 
 
 ## See also

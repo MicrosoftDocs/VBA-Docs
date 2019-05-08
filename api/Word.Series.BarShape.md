@@ -21,7 +21,7 @@ Returns or sets the shape used for a single series in a 3D bar or column chart. 
 
 _expression_. `BarShape`
 
- _expression_ A variable that represents a '[Series](Word.Series.md)' object.
+_expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
 
 ## Example

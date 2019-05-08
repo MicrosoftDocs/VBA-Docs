@@ -21,7 +21,7 @@ Starts the GanttChartWizard.
 
 _expression_. `GanttChartWizard`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Return value

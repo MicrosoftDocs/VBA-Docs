@@ -21,7 +21,7 @@ Returns the height of the media control bounding box. Read-only.
 
 _expression_. `MediaControlsHeight`
 
- _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
+_expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
 ## Return value

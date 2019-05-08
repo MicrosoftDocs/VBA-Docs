@@ -21,7 +21,7 @@ Generates a new base ID for a master. Read-only.
 
 _expression_. `NewBaseID`
 
- _expression_ A variable that represents a [Master](./Visio.Master.md) object.
+_expression_ A variable that represents a **[Master](Visio.Master.md)** object.
 
 
 ## Return value

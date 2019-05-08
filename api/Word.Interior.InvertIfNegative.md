@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**InvertIfNegative**
 
- _expression_ A variable that represents an '[Interior](Word.Interior.md)' object.
+_expression_ A variable that represents an '[Interior](Word.Interior.md)' object.
 
 
 ## See also

@@ -19,7 +19,7 @@ Returns  **False** if the most recent firing of the [Application.DocumentBeforeS
 
 _expression_. `IsInAutosave`
 
- _expression_ A variable that represents a [Document](./Word.Document.md) object.
+_expression_ A variable that represents a [Document](./Word.Document.md) object.
 
 
 ## Property value

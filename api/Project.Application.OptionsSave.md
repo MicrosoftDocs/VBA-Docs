@@ -21,7 +21,7 @@ Sets save options for project files.
 
 _expression_. `OptionsSave`( `_DefaultSaveFormat_`, `_DefaultProjectsPath_`, `_DefaultUserTemplatesPath_`, `_DefaultWorkgroupTemplatesPath_`, `_ExpandDatabaseTimephasedData_`, `_AutomaticSave_`, `_AutomaticSaveInterval_`, `_AutomaticSaveOptions_`, `_AutomaticSavePrompt_`, `_SetDefaultsDatabase_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

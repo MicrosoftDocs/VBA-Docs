@@ -21,7 +21,7 @@ Creates a video in a  **Presentation** object.
 
 _expression_. `CreateVideo`( `_FileName_`, `_UseTimingsAndNarrations_`, `_DefaultSlideDuration_`, `_VertResolution_`, `_FramesPerSecond_`, `_Quality_` )
 
- _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ## Parameters

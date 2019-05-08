@@ -21,7 +21,7 @@ Returns or sets the kinsoku characters before which Microsoft Word will not brea
 
 _expression_. `NoLineBreakBefore`
 
- _expression_ A variable that represents a '[Template](Word.Template.md)' object.
+_expression_ A variable that represents a '[Template](Word.Template.md)' object.
 
 
 ## Example

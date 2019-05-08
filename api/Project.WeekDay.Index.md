@@ -18,7 +18,7 @@ Gets the index of a  **WeekDay** object in the **WeekDays** containing object. R
 
 _expression_.**Index**
 
- _expression_ A variable that represents a [WeekDay](./Project.WeekDay.md) object.
+_expression_ A variable that represents a [WeekDay](./Project.WeekDay.md) object.
 
 
 ## Remarks

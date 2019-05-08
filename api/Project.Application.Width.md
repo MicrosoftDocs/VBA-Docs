@@ -18,7 +18,7 @@ Gets or sets the width in points of the main window in the Project application. 
 
 _expression_.**Width**
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

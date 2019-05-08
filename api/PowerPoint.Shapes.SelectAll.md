@@ -21,7 +21,7 @@ Selects all the shapes in a  **[Shapes](PowerPoint.Shapes.md)** collection.
 
 _expression_. `SelectAll`
 
- _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
+_expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
 ## Example

@@ -18,6 +18,6 @@ Returns a  **Long** that represents the number of items in the specified collect
 
 _expression_.**Count**
 
- _expression_ A variable that represents a  **CaptionStyles** object.
+_expression_ A variable that represents a  **CaptionStyles** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

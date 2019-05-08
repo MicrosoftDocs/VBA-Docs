@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**IsHeader**
 
- _expression_ A variable that represents an  **HeaderFooter** object.
+_expression_ A variable that represents an  **HeaderFooter** object.
 
 
 ## Return value

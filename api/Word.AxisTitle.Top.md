@@ -21,7 +21,7 @@ Returns or sets the distance, in [points](../language/glossary/vbe-glossary.md#p
 
 _expression_.**Top**
 
- _expression_ A variable that represents an '[AxisTitle](Word.AxisTitle.md)' object.
+_expression_ A variable that represents an '[AxisTitle](Word.AxisTitle.md)' object.
 
 
 ## See also

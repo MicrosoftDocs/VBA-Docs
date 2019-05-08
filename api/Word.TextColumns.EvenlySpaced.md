@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `EvenlySpaced`
 
- _expression_ A variable that represents a '[TextColumns](Word(textcolumns).md)' object.
+_expression_ A variable that represents a '[TextColumns](Word(textcolumns).md)' object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 
 _expression_.**Application**
 
- _expression_ A variable that represents an '[Interior](PowerPoint.Interior.md)' object.
+_expression_ A variable that represents an '[Interior](PowerPoint.Interior.md)' object.
 
 
 ## See also

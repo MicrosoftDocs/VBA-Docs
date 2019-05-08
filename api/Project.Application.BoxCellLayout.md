@@ -21,7 +21,7 @@ Sets the cell layout and size properties for a data template in the Network Diag
 
 _expression_. `BoxCellLayout`( `_Name_`, `_CellRows_`, `_CellColumns_`, `_CellWidth_`, `_MergeCells_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

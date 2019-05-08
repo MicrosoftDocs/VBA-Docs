@@ -16,7 +16,7 @@ Returns or sets the text of the specified comment. Read/write  **String**.
 
 _expression_.**Text**
 
- _expression_ A variable that represents a 'Comment' object.
+_expression_ A variable that represents a 'Comment' object.
 
 
 ## Property value

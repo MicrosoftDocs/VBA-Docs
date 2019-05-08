@@ -16,7 +16,7 @@ Gets the specified field of an Engagement object for the resource plan view. Int
 
 _expression_. `GetField` _(FieldID) _
 
- _expression_ A variable that represents a 'Engagement' object.
+_expression_ A variable that represents a 'Engagement' object.
 
 
 ## Return value

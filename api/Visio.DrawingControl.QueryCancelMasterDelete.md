@@ -18,7 +18,7 @@ Occurs before the application deletes a master in response to a user action in t
 
 Private Sub  _expression_ _'QueryCancelMasterDelete'(**_ByVal master As [IVMASTER]_**)
 
- _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
+_expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 
 
 ## Parameters

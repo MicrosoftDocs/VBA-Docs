@@ -21,7 +21,7 @@ Returns the line formatting properties for the specified chart element. Read-onl
 
 _expression_.**Line**
 
- _expression_ A variable that represents a '[ChartFormat](Word.ChartFormat.md)' object.
+_expression_ A variable that represents a '[ChartFormat](Word.ChartFormat.md)' object.
 
 
 ## Remarks

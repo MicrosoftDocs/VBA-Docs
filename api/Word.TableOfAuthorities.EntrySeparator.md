@@ -21,7 +21,7 @@ Returns or sets the characters (up to five) that separate a table of authorities
 
 _expression_. `EntrySeparator`
 
- _expression_ A variable that represents a '[TableOfAuthorities](Word.TableOfAuthorities.md)' object.
+_expression_ A variable that represents a '[TableOfAuthorities](Word.TableOfAuthorities.md)' object.
 
 
 ## Remarks

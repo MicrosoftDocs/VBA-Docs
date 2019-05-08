@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**Width**
 
- _expression_ A variable that represents a '[Column](Word.Column.md)' object.
+_expression_ A variable that represents a '[Column](Word.Column.md)' object.
 
 
 ## See also

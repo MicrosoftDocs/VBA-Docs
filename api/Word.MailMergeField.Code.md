@@ -21,7 +21,7 @@ Returns a  **[Range](Word.Range.md)** object that represents a field's code. Rea
 
 _expression_. `Code`
 
- _expression_ A variable that represents a '[MailMergeField](Word.MailMergeField.md)' object.
+_expression_ A variable that represents a '[MailMergeField](Word.MailMergeField.md)' object.
 
 
 ## Remarks

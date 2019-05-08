@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that is **True** if users are notified if Word is
 
 _expression_. `AlertIfNotDefault`
 
- _expression_ A variable that represents a [Options](./Word.Options.md) object.
+_expression_ A variable that represents a [Options](./Word.Options.md) object.
 
 
 ## Remarks

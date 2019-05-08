@@ -21,7 +21,7 @@ Returns the number of the table column that contains the specified cell. Read-on
 
 _expression_. `ColumnIndex`
 
- _expression_ A variable that represents a '[Cell](Word.Cell.md)' object.
+_expression_ A variable that represents a '[Cell](Word.Cell.md)' object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Adds list items to a Web list box control.
 
 _expression_.**AddItem** (_Item_, _Index_, _SelectState_, _ItemValue_)
 
- _expression_ A variable that represents a  **WebListBoxItems** object.
+_expression_ A variable that represents a  **WebListBoxItems** object.
 
 
 ## Parameters

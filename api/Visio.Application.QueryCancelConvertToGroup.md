@@ -18,7 +18,7 @@ Occurs before the application converts a selection of shapes to a group in respo
 
 Private Sub  _expression_ _'QueryCancelConvertToGroup'(**_ByVal Selection As [IVSELECTION]_**)
 
- _expression_ A variable that represents an [Application](./Visio.Application.md) object.
+_expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ## Parameters

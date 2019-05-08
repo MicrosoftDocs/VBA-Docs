@@ -21,7 +21,7 @@ Returns an  **Object** that represents the parent object of the specified **Bibl
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a '[Bibliography](Word.Bibliography.md)' object.
+_expression_ A variable that represents a '[Bibliography](Word.Bibliography.md)' object.
 
 
 ## See also

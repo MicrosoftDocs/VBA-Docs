@@ -21,7 +21,7 @@ Updates the specified linked OLE object.
 
 _expression_.**Update**
 
- _expression_ A variable that represents a **[LinkFormat](PowerPoint.LinkFormat.md)** object.
+_expression_ A variable that represents a **[LinkFormat](PowerPoint.LinkFormat.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Uses the local name or index of a cell to return the cell. Read-only.
 
 _expression_. `Cell`( `_NameOrIndex_` )
 
- _expression_ A variable that represents a [Row](./Visio.Row.md) object.
+_expression_ A variable that represents a [Row](./Visio.Row.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns or sets an  **MsoTriState** constant indicating whether an appropriate d
 
 _expression_.**DistanceAuto**
 
- _expression_ A variable that represents a  **WrapFormat** object.
+_expression_ A variable that represents a  **WrapFormat** object.
 
 
 ## Return value

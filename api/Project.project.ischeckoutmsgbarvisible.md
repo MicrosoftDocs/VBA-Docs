@@ -14,7 +14,7 @@ Gets whether the checkout message bar is visible. Read-only  **Boolean**.
 
 _expression_. `IsCheckoutMsgBarVisible`
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

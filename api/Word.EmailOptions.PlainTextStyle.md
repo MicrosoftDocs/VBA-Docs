@@ -21,7 +21,7 @@ Returns the  **[Style](Word.Style.md)** object that represents the text attribut
 
 _expression_. `PlainTextStyle`
 
- _expression_ A variable that represents a '[EmailOptions](Word.EmailOptions.md)' object.
+_expression_ A variable that represents a '[EmailOptions](Word.EmailOptions.md)' object.
 
 
 ## Example

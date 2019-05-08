@@ -21,7 +21,7 @@ Displays the previously viewed document, without reading it from the cache.
 
 _expression_. `WebRefresh`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Return value

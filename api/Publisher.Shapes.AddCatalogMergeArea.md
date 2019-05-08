@@ -21,7 +21,7 @@ Adds a  **Shape** object that represents the specified publication's catalog mer
 
 _expression_.**AddCatalogMergeArea**
 
- _expression_ A variable that represents a  **Shapes** object.
+_expression_ A variable that represents a  **Shapes** object.
 
 
 ## Return value

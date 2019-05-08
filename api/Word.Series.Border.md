@@ -21,7 +21,7 @@ Returns the border of the object. Read-only  **[ChartBorder](Word.ChartBorder.md
 
 _expression_.**Border**
 
- _expression_ A variable that represents a '[Series](Word.Series.md)' object.
+_expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
 
 ## See also

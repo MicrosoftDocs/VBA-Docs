@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**AutoText**
 
- _expression_ A variable that represents a **[DataLabels](Word.DataLabels.md)** object.
+_expression_ A variable that represents a **[DataLabels](Word.DataLabels.md)** object.
 
 
 ## Remarks

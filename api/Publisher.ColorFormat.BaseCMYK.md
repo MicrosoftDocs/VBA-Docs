@@ -21,7 +21,7 @@ Returns the base cyan-magenta-yellow-black (CMYK) color value of the parent  **C
 
 _expression_.**BaseCMYK**
 
- _expression_ A variable that represents a  **ColorFormat** object.
+_expression_ A variable that represents a  **ColorFormat** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Zooms in to or out from the Network Diagram.
 
 _expression_. `BoxZoom`( `_Percent_`, `_Entire_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

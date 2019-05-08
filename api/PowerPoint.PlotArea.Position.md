@@ -18,7 +18,7 @@ Returns or sets the position of the plot area on the chart. Read/write  **[XlCha
 
 _expression_.**Position**
 
- _expression_ A variable that represents a '[PlotArea](PowerPoint.PlotArea.md)' object.
+_expression_ A variable that represents a '[PlotArea](PowerPoint.PlotArea.md)' object.
 
 
 ## See also

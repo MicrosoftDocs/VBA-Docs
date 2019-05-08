@@ -18,7 +18,7 @@ Gets or sets the color of the font. Read/write  **PjColor**.
 
 _expression_. `FontColor`
 
- _expression_ A variable that represents a [Cell](./Project.Cell.md) object.
+_expression_ A variable that represents a [Cell](./Project.Cell.md) object.
 
 
 ## Remarks

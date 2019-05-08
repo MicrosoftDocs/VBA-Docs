@@ -18,7 +18,7 @@ Gets the parent of the  **PayRate** object. Read-only **Resource**.
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a [PayRate](./Project.PayRate.md) object.
+_expression_ A variable that represents a [PayRate](./Project.PayRate.md) object.
 
 
 ## Remarks

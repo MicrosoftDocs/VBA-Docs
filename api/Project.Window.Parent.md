@@ -18,7 +18,7 @@ Gets the parent of the  **Window** object. Read-only **Object**.
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a [Window](./Project.Window.md) object.
+_expression_ A variable that represents a [Window](./Project.Window.md) object.
 
 
 ## Remarks

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 _expression_.**Visible**
 
- _expression_ A variable that represents a  **ReflectionFormat** object.
+_expression_ A variable that represents a  **ReflectionFormat** object.
 
 
 ## Return value

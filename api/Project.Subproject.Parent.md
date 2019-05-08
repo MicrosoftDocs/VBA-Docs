@@ -18,7 +18,7 @@ Gets the parent of the  **Subproject** object. Read-only **Project**.
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a [Subproject](./Project.Subproject.md) object.
+_expression_ A variable that represents a [Subproject](./Project.Subproject.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Specifies the left-to-right tab position of a merged anchored window. Read/write
 
 _expression_. `MergePosition`
 
- _expression_ A variable that represents a [Window](./Visio.Window.md) object.
+_expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
 ## Return value

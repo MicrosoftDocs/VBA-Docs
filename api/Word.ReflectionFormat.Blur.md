@@ -21,7 +21,7 @@ Returns or sets a  **Single** that specifies the degree of blur effect applied t
 
 _expression_. `Blur`
 
- _expression_ A variable that represents a '[ReflectionFormat](Word.ReflectionFormat.md)' object.
+_expression_ A variable that represents a '[ReflectionFormat](Word.ReflectionFormat.md)' object.
 
 
 ## See also

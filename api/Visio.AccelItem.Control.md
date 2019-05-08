@@ -21,7 +21,7 @@ Determines whether the CTRL key modifies the accelerator key in an  **AccelItem*
 
 _expression_. `Control`
 
- _expression_ A variable that represents an [AccelItem](./Visio.AccelItem.md) object.
+_expression_ A variable that represents an [AccelItem](./Visio.AccelItem.md) object.
 
 
 ## Return value

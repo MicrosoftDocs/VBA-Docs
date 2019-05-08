@@ -18,7 +18,7 @@ Sets the matching identification value of an object in the  **Organizer** dialog
 
 _expression_. `SetObjectMatchingID`( `_ObjectType_`, `_ObjectName_`, `_MatchingID_` )
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Parameters

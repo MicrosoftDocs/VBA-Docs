@@ -18,7 +18,7 @@ Gets the index of a  **Project** object in the containing **Projects** collectio
 
 _expression_.**Index**
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Example

@@ -18,6 +18,6 @@ Gets or sets the name of the resource for the assignment. Read/write  **String**
 
 _expression_. `ResourceName`
 
- _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
+_expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

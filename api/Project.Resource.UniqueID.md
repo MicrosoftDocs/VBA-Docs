@@ -18,7 +18,7 @@ Gets the unique identification number of the resource. Read-only  **Long**.
 
 _expression_. `UniqueID`
 
- _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
+_expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 
 ## Remarks

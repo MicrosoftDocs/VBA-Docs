@@ -21,7 +21,7 @@ Returns a  **String** that represents the command assigned to the specified key 
 
 _expression_. `Command`
 
- _expression_ A variable that represents a '[KeysBoundTo](Word.keysboundto.md)' object.
+_expression_ A variable that represents a '[KeysBoundTo](Word.keysboundto.md)' object.
 
 
 ## Example

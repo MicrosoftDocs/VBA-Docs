@@ -18,6 +18,6 @@ Gets or sets the baseline start date of a task  **Assignment**. Read/write **Var
 
 _expression_. `Baseline3Start`
 
- _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
+_expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

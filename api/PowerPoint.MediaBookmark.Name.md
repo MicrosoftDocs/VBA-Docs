@@ -21,7 +21,7 @@ Returns the name of the bookmark. Read-only.
 
 _expression_.**Name**
 
- _expression_ A variable that represents a [MediaBookmark](./PowerPoint.MediaBookmark.md) object.
+_expression_ A variable that represents a [MediaBookmark](./PowerPoint.MediaBookmark.md) object.
 
 
 ## See also

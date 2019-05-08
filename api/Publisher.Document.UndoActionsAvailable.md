@@ -21,7 +21,7 @@ Returns the number of actions available on the undo stack. Read-only  **Long**.
 
 _expression_.**UndoActionsAvailable**
 
- _expression_ A variable that represents an  **Document** object.
+_expression_ A variable that represents an  **Document** object.
 
 
 ## Return value

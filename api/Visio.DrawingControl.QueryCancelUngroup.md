@@ -18,7 +18,7 @@ Occurs before the application ungroups a selection of shapes in response to a us
 
 Private Sub  _expression_ _'QueryCancelUngroup'(**_ByVal selection As [IVSELECTION]_**)
 
- _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
+_expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 
 
 ## Parameters

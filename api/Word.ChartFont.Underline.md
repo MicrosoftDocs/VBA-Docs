@@ -21,7 +21,7 @@ Returns or sets the type of underline applied to the font. Can be one of the  **
 
 _expression_.**Underline**
 
- _expression_ A variable that represents a '[ChartFont](Word.ChartFont.md)' object.
+_expression_ A variable that represents a '[ChartFont](Word.ChartFont.md)' object.
 
 
 ## Example

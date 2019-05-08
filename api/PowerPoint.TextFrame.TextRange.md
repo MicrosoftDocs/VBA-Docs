@@ -21,7 +21,7 @@ Returns a  **[TextRange](PowerPoint.TextRange.md)** object that represents the t
 
 _expression_. `TextRange`
 
- _expression_ A variable that represents a [TextFrame](./PowerPoint.TextFrame.md) object.
+_expression_ A variable that represents a [TextFrame](./PowerPoint.TextFrame.md) object.
 
 
 ## Return value

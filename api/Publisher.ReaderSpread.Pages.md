@@ -21,7 +21,7 @@ Returns a  **[Page](Publisher.Page.md)** object representing one of the pages th
 
 _expression_.**Pages**(**_Index_**)
 
- _expression_ A variable that represents a  **ReaderSpread** object.
+_expression_ A variable that represents a  **ReaderSpread** object.
 
 
 ## Parameters

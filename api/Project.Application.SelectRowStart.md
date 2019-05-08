@@ -21,7 +21,7 @@ Selects the first cell in the row containing the active cell.
 
 _expression_. `SelectRowStart`( `_Extend_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

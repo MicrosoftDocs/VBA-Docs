@@ -18,7 +18,7 @@ Returns the parent of the  **Group** object. Read-only **Project**.
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a [Group](./Project.Group.md) object.
+_expression_ A variable that represents a [Group](./Project.Group.md) object.
 
 
 ## Remarks

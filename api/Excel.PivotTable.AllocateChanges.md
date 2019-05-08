@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotTable.AllocateChanges
 ms.assetid: 6eb2d6b6-7340-fe63-611c-0972b9ccf496
-ms.date: 06/08/2017
+ms.date: 05/08/2019
 localization_priority: Normal
 ---
 
@@ -31,12 +31,11 @@ Nothing
 
 ## Remarks
 
-The  **AllocateChanges** method will execute an **UPDATE CUBE** statement for all changes made in the values area of the PivotTable since the last apply changes operation was committed, or since the PivotTable was created if commiting apply changes has never been performed. This method generates a run-time error if it is executed on a PivotTable report based on a non-OLAP data source.
+The **AllocateChanges** method will execute an **UPDATE CUBE** statement for all changes made in the values area of the PivotTable since the last apply changes operation was committed, or since the PivotTable was created if commiting apply changes has never been performed. 
+
+This method generates a run-time error if it is executed on a PivotTable report based on a non-OLAP data source.
 
 
-## See also
 
-
-[PivotTable Object](Excel.PivotTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

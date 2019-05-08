@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotTable.EnableWizard
 ms.assetid: 3e87af08-711d-cddb-bcc1-0b9179e71cb1
-ms.date: 06/08/2017
+ms.date: 05/08/2019
 localization_priority: Normal
 ---
 
 
 # PivotTable.EnableWizard property (Excel)
 
- **True** if the **PivotTable Wizard** is available. The default value is **True**. Read/write **Boolean**.
+**True** if the PivotTable Wizard is available. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -33,15 +33,11 @@ When this property is set, the field wells aren't displayed on the worksheet.
 
 This example disables the PivotTable Wizard for the first PivotTable report on worksheet one.
 
-
 ```vb
 Worksheets(1).PivotTables("Pivot1").EnableWizard = False
 ```
 
 
-## See also
 
-
-[PivotTable Object](Excel.PivotTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

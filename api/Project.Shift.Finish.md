@@ -18,6 +18,6 @@ Gets or sets the finish date of a  **Shift**. Read/write **Variant**.
 
 _expression_. `Finish`
 
- _expression_ A variable that represents a [Shift](./Project.Shift.md) object.
+_expression_ A variable that represents a [Shift](./Project.Shift.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

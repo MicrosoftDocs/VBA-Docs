@@ -21,7 +21,7 @@ Returns  **msoTrue** if the specified shape has been flipped around its vertical
 
 _expression_.**VerticalFlip**
 
- _expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Remarks

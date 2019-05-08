@@ -21,7 +21,7 @@ Returns a  **String** that represents the result of the specified field. Read-on
 
 _expression_.**Result**
 
- _expression_ A variable that represents a  **Field** object.
+_expression_ A variable that represents a  **Field** object.
 
 
 ## Return value

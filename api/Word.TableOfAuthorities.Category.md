@@ -21,7 +21,7 @@ Returns or sets the category of entries to be included in a table of authorities
 
 _expression_.**Category**
 
- _expression_ A variable that represents a '[TableOfAuthorities](Word.TableOfAuthorities.md)' collection.
+_expression_ A variable that represents a '[TableOfAuthorities](Word.TableOfAuthorities.md)' collection.
 
 
 ## Remarks

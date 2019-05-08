@@ -21,7 +21,7 @@ Creates a duplicate of the specified  **[Shape](Publisher.Shape.md)** or **[Shap
 
 _expression_.**Duplicate**
 
- _expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Return value

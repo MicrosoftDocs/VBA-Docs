@@ -21,7 +21,7 @@ Returns or sets a  **Long** that represents the corresponding field number in th
 
 _expression_. `DataFieldIndex`
 
- _expression_ A variable that represents a '[MappedDataField](Word.MappedDataField.md)' object.
+_expression_ A variable that represents a '[MappedDataField](Word.MappedDataField.md)' object.
 
 
 ## Remarks

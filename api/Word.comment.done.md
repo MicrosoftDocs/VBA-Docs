@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** whose value is **True** if the specified comment 
 
 _expression_. `Done`
 
- _expression_ A variable that represents a [Comment](./Word.Comment.md) object.
+_expression_ A variable that represents a [Comment](./Word.Comment.md) object.
 
 
 ## Property value

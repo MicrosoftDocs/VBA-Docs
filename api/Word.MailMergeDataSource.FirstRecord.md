@@ -21,7 +21,7 @@ Returns or sets the number of the first record to be merged in a mail merge oper
 
 _expression_. `FirstRecord`
 
- _expression_ A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
+_expression_ A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 
 
 ## Example

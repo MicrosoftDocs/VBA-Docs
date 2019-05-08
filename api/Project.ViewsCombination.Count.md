@@ -18,7 +18,7 @@ Gets the number of items in the  **ViewsCombination** collection. Read-only **Lo
 
 _expression_.**Count**
 
- _expression_ A variable that represents a 'ViewsCombination' object.
+_expression_ A variable that represents a 'ViewsCombination' object.
 
 
 ## Remarks

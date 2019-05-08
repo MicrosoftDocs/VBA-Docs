@@ -21,7 +21,7 @@ Changes the list numbers and LISTNUM fields in the specified  **ListFormat** obj
 
 _expression_. `ConvertNumbersToText`
 
- _expression_ A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
+_expression_ A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 
 
 ## Example

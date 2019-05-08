@@ -21,7 +21,7 @@ Returns the font of the specified object. Read-only  **[ChartFont](PowerPoint.Ch
 
 _expression_.**Font**
 
- _expression_ A variable that represents a '[TickLabels](PowerPoint.TickLabels.md)' object.
+_expression_ A variable that represents a '[TickLabels](PowerPoint.TickLabels.md)' object.
 
 
 ## See also

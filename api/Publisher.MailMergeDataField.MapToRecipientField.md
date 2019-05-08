@@ -21,7 +21,7 @@ Maps a field (column) in a particular data source represented by the parent  **M
 
 _expression_.**MapToRecipientField**(**_bstrValue_**)
 
- _expression_ A variable that represents a  **MailMergeDataField** object.
+_expression_ A variable that represents a  **MailMergeDataField** object.
 
 
 ## Parameters

@@ -19,7 +19,7 @@ Returns the collection of repeating section items in the specified repeating sec
 
 _expression_. `RepeatingSectionItems`
 
- _expression_ A variable that represents a [ContentControl](./Word.ContentControl.md) object.
+_expression_ A variable that represents a [ContentControl](./Word.ContentControl.md) object.
 
 
 ## Remarks

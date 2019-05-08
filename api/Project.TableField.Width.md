@@ -21,6 +21,6 @@ Gets or sets the width in points of the field column in a table. Read/write  **L
 
 _expression_.**Width**
 
- _expression_ A variable that represents a [TableField](./Project.TableField.md) object.
+_expression_ A variable that represents a [TableField](./Project.TableField.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

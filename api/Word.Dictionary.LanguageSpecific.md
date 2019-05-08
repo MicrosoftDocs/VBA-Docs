@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `LanguageSpecific`
 
- _expression_ A variable that represents a '[Dictionary](Word.Dictionary.md)' object.
+_expression_ A variable that represents a '[Dictionary](Word.Dictionary.md)' object.
 
 
 ## Example

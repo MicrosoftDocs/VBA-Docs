@@ -21,7 +21,7 @@ Returns or sets the font size for the specified WordArt, in points. Read/write  
 
 _expression_. `FontSize`
 
- _expression_ A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
+_expression_ A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
 
 
 ## Example

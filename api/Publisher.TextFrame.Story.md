@@ -21,7 +21,7 @@ Returns a  **Story** object that represents the story properties in a text range
 
 _expression_.**Story**
 
- _expression_ A variable that represents a  **TextFrame** object.
+_expression_ A variable that represents a  **TextFrame** object.
 
 
 ## Example

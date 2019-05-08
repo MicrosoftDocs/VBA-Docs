@@ -18,7 +18,7 @@ Gets or sets the percentage of time the resource is available during the availab
 
 _expression_. `AvailableUnit`
 
- _expression_ A variable that represents an [Availability](./Project.Availability.md) object.
+_expression_ A variable that represents an [Availability](./Project.Availability.md) object.
 
 
 ## Remarks

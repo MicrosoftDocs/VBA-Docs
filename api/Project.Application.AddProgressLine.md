@@ -21,7 +21,7 @@ Enters interactive progress line mode, enabling the user to manually draw progre
 
 _expression_. `AddProgressLine`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Return value

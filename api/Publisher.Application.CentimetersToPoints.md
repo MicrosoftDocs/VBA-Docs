@@ -21,7 +21,7 @@ Converts a measurement from centimeters to points (1 cm = 28.35 points). Returns
 
 _expression_.**CentimetersToPoints**(**_Value_**)
 
- _expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an  **Application** object.
 
 
 ## Parameters

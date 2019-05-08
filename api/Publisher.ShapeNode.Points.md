@@ -21,7 +21,7 @@ Gets the  _x-_ and _y-_ coordinates of the shape node. Read-only.
 
 _expression_.**Points**
 
- _expression_ A variable that represents a  **ShapeNode** object.
+_expression_ A variable that represents a  **ShapeNode** object.
 
 
 ## Remarks

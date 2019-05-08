@@ -18,7 +18,7 @@ Gets the parent of the  **PredecessorDrivers** object. Read-only **Task**.
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a 'PredecessorDrivers' object.
+_expression_ A variable that represents a 'PredecessorDrivers' object.
 
 
 ## Remarks

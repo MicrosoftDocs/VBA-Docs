@@ -18,6 +18,6 @@ Gets or sets when the  **Task** baseline10 accrues fixed costs. Read/write **Lon
 
 _expression_. `Baseline10FixedCostAccrual`
 
- _expression_ A variable that represents a [Task](./Project.Task.md) object.
+_expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

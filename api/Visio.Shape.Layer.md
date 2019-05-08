@@ -21,7 +21,7 @@ Returns the layer to which a shape is assigned. Read-only.
 
 _expression_. `Layer` (_Index_)
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters

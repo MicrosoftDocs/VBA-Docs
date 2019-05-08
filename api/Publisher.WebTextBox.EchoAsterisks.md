@@ -21,7 +21,7 @@ Specifies whether asterisks should be displayed in place of text that is entered
 
 _expression_.**EchoAsterisks**
 
- _expression_ A variable that represents an  **WebTextBox** object.
+_expression_ A variable that represents an  **WebTextBox** object.
 
 
 ## Return value

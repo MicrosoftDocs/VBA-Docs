@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `AutoFormatAsYouTypeReplaceQuotes`
 
- _expression_ A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Example

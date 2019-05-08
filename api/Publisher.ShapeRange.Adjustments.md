@@ -21,7 +21,7 @@ Returns an  **[Adjustments](Publisher.Adjustments.md)** collection representing 
 
 _expression_.**Adjustments**
 
- _expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Remarks

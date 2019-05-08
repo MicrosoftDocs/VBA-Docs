@@ -18,6 +18,6 @@ Gets the earned value scheduled variance (SV) of the assignment. Read-only  **Va
 
 _expression_. `SV`
 
- _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
+_expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

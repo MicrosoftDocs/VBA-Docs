@@ -21,7 +21,7 @@ Gets the ordinal position of a  **Font** object in the **Fonts** collection. Rea
 
 _expression_.**Index**
 
- _expression_ A variable that represents a [Font](./Visio.Font.md) object.
+_expression_ A variable that represents a [Font](./Visio.Font.md) object.
 
 
 ## Return value

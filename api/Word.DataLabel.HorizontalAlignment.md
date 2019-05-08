@@ -21,7 +21,7 @@ Returns or sets the horizontal alignment for the specified object. Read/write  *
 
 _expression_.**HorizontalAlignment**
 
- _expression_ A variable that represents a '[DataLabel](Word.DataLabel.md)' object.
+_expression_ A variable that represents a '[DataLabel](Word.DataLabel.md)' object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Customizes the top and bottom bands of date boxes in the Calendar view.
 
 _expression_. `CalendarDateBoxes`( `_TopLeft_`, `_TopRight_`, `_BottomLeft_`, `_BottomRight_`, `_TopColor_`, `_BottomColor_`, `_TopPattern_`, `_BottomPattern_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

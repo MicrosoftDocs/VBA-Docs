@@ -21,7 +21,7 @@ Returns an  **MsoTriState** constant indicating whether the specified picture or
 
 _expression_.**IsTrueColor**
 
- _expression_ A variable that represents an  **PictureFormat** object.
+_expression_ A variable that represents an  **PictureFormat** object.
 
 
 ## Return value

@@ -18,7 +18,7 @@ Gets the current actual cost for the resource on the project. Read-only  **Varia
 
 _expression_. `ActualCost`
 
- _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
+_expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 
 ## Remarks

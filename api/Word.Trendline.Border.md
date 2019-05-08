@@ -21,7 +21,7 @@ Returns the border of the object. Read-only  **[ChartBorder](Word.ChartBorder.md
 
 _expression_.**Border**
 
- _expression_ A variable that represents a '[Trendline](Word.Trendline.md)' object.
+_expression_ A variable that represents a '[Trendline](Word.Trendline.md)' object.
 
 
 ## See also

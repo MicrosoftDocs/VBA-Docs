@@ -21,7 +21,7 @@ Returns the number of characters in the  **Characters** collection. Read-only **
 
 _expression_.**Count**
 
- _expression_ A variable that represents a '[Characters](Word.characters.md)' collection.
+_expression_ A variable that represents a '[Characters](Word.characters.md)' collection.
 
 
 ## See also

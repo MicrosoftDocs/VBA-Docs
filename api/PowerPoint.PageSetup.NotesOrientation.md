@@ -21,7 +21,7 @@ Returns or sets the on-screen and printed orientation of notes pages, handouts, 
 
 _expression_. `NotesOrientation`
 
- _expression_ A variable that represents a [PageSetup](./PowerPoint.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](./PowerPoint.PageSetup.md) object.
 
 
 ## Return value

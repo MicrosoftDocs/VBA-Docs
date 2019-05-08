@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `AllowBreakAcrossPages`
 
-_expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
+_expression_ Required. A variable that represents a **[Rows](Word.Rows.md)** object.
 
 
 ## Remarks

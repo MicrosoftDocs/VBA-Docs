@@ -21,7 +21,7 @@ Determines whether large toolbar buttons are shown. Read/write.
 
 _expression_. `LargeButtons`
 
- _expression_ A variable that represents a [UIObject](./Visio.UIObject.md) object.
+_expression_ A variable that represents a [UIObject](./Visio.UIObject.md) object.
 
 
 ## Return value

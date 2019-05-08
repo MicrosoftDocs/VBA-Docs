@@ -18,7 +18,7 @@ Gets a  **[List](Project.List.md)** object representing all resource tables in t
 
 _expression_. `ResourceTableList`
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Example

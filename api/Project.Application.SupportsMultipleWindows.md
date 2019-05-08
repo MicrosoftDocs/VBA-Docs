@@ -21,7 +21,7 @@ Always  **True** for Project and any other application that can have more than o
 
 _expression_. `SupportsMultipleWindows`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

@@ -14,34 +14,30 @@ localization_priority: Normal
 
 # WrapFormat.AllowOverlap property (Word)
 
-Returns or sets a value that specifies whether a given shape can overlap other shapes. Read/write  **Long**.
+Returns or sets a value that specifies whether a given shape can overlap other shapes. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `AllowOverlap`
+_expression_.**AllowOverlap**
 
- _expression_ A variable that represents a '[WrapFormat](Word.WrapFormat.md)' object.
+_expression_ A variable that represents a **[WrapFormat](Word.WrapFormat.md)** object.
 
 
 ## Remarks
 
-This property can be set to either  **True** or **False**. Because HTML doesn't support overlapping tables or shapes, **AllowOverlap** is ignored in Web layout view.
+This property can be set to either **True** or **False**. Because HTML doesn't support overlapping tables or shapes, **AllowOverlap** is ignored in web layout view.
 
 
 ## Example
 
 This example specifies that the first shape in the active document can overlap other shapes.
 
-
 ```vb
 ActiveDocument.Shapes(1).WrapFormat.AllowOverlap = True
 ```
 
 
-## See also
 
-
-[WrapFormat Object](Word.WrapFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

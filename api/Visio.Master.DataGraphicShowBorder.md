@@ -24,7 +24,7 @@ Gets or sets whether a border is displayed around the graphic items contained in
 
 _expression_. `DataGraphicShowBorder`
 
- _expression_ An expression that returns a [Master](./Visio.Master.md) object.
+ _expression_ An expression that returns a **[Master](Visio.Master.md)** object.
 
 
 ## Return value

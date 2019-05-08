@@ -21,7 +21,7 @@ Determine whether to display special formatting for the first row of the specifi
 
 _expression_. `FirstRow`
 
- _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
+_expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 
 
 ## Return value

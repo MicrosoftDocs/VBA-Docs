@@ -18,7 +18,7 @@ Returns a single  **[Axis](Word.Axis.md)** object from an **Axes** collection.
 
 _expression_.**Item** (_Type_, _AxisGroup_)
 
- _expression_ A variable that represents an '[Axes](Word.Axes.md)' object.
+_expression_ A variable that represents an '[Axes](Word.Axes.md)' object.
 
 
 ## Parameters

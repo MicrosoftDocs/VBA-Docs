@@ -21,7 +21,7 @@ Returns an  **[AutoCorrectEntries](Word.autocorrectentries.md)** collection that
 
 _expression_. `Entries`
 
- _expression_ A variable that represents an '[AutoCorrect](Word.AutoCorrect.md)' object.
+_expression_ A variable that represents an '[AutoCorrect](Word.AutoCorrect.md)' object.
 
 
 ## Remarks

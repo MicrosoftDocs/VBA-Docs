@@ -21,7 +21,7 @@ Creates a duplicate of the specified  **[Font](Publisher.Font.md)** object and t
 
 _expression_.**Duplicate**
 
- _expression_ A variable that represents a  **Font** object.
+_expression_ A variable that represents a  **Font** object.
 
 
 ## Return value

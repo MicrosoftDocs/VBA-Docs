@@ -18,6 +18,6 @@ localization_priority: Normal
 
 _expression_. `ShowInMenu`
 
- _expression_ A variable that represents a [ViewCombination](./Project.ViewCombination.md) object.
+_expression_ A variable that represents a [ViewCombination](./Project.ViewCombination.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

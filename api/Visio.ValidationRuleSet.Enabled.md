@@ -21,7 +21,7 @@ Determines whether the rules in the specified validation rule set are checked wh
 
 _expression_.**Enabled**
 
- _expression_ A variable that represents a '[ValidationRuleSet](Visio.ValidationRuleSet.md)' object.
+_expression_ A variable that represents a '[ValidationRuleSet](Visio.ValidationRuleSet.md)' object.
 
 
 ## Return value

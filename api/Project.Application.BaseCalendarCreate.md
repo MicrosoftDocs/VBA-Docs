@@ -21,7 +21,7 @@ Creates a base calendar.
 
 _expression_. `BaseCalendarCreate`( `_Name_`, `_FromName_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

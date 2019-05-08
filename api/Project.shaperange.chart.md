@@ -14,7 +14,7 @@ Gets a  **Chart** object that represents the chart contained in the shape range.
 
 _expression_.**Chart**
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Property value

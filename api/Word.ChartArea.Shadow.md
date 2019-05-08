@@ -21,7 +21,7 @@ Returns or sets a value that determines whether the object has a shadow. Read/wr
 
 _expression_.**Shadow**
 
- _expression_ A variable that represents a '[ChartArea](Word.ChartArea.md)' object.
+_expression_ A variable that represents a '[ChartArea](Word.ChartArea.md)' object.
 
 
 ## See also

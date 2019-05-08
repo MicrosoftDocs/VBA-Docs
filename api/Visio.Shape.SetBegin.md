@@ -21,7 +21,7 @@ Moves the begin point of a one-dimensional (1D) shape to the coordinates represe
 
 _expression_. `SetBegin`( `_xPos_` , `_yPos_` )
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters

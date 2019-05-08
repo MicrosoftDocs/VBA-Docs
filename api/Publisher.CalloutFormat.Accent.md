@@ -21,7 +21,7 @@ Returns or sets an  **MsoTriState**constant indicating whether a vertical accent
 
 _expression_.**Accent**
 
- _expression_ A variable that represents a  **CalloutFormat** object.
+_expression_ A variable that represents a  **CalloutFormat** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ If the specified node is a vertex, this property returns an  **MsoEditingType** 
 
 _expression_.**EditingType**
 
- _expression_ A variable that represents an  **ShapeNode** object.
+_expression_ A variable that represents an  **ShapeNode** object.
 
 
 ## Return value

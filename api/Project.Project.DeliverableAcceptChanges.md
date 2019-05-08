@@ -18,7 +18,7 @@ Accepts the changes on the server for a deliverable.
 
 _expression_. `DeliverableAcceptChanges`( `_DeliverableGuid_` )
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Parameters

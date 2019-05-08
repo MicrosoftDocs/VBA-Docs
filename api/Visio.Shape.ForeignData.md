@@ -21,7 +21,7 @@ Returns metafile, bitmap, or OLE data for a shape that represents a foreign obje
 
 _expression_. `ForeignData`
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Occurs after properties of a master are changed and propagated to its instances.
 
 Private Sub  _expression_ _'MasterChanged'(**_ByVal Master As [IVMASTER]_**)
 
- _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
+_expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
 
 ## Parameters

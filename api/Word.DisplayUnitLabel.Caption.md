@@ -21,7 +21,7 @@ Returns or sets the display unit label text. Read/write  **String**.
 
 _expression_.**Caption**
 
- _expression_ A variable that represents a '[DisplayUnitLabel](Word.DisplayUnitLabel.md)' object.
+_expression_ A variable that represents a '[DisplayUnitLabel](Word.DisplayUnitLabel.md)' object.
 
 
 ## See also

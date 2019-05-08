@@ -18,7 +18,7 @@ Gets or sets the ending date of a range in which overallocated resources are lev
 
 _expression_. `LevelToDate`
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

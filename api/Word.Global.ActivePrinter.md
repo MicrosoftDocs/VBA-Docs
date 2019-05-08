@@ -21,7 +21,7 @@ Returns or sets the name of the active printer. Read/write  **String**.
 
 _expression_. `ActivePrinter`
 
- _expression_ A variable that represents a '[Global](Word.Global.md)' object.
+_expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Remarks

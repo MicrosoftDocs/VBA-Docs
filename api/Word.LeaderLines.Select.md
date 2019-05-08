@@ -21,7 +21,7 @@ Selects the object.
 
 _expression_.**Select**
 
- _expression_ A variable that represents a '[LeaderLines](Word.LeaderLines.md)' object.
+_expression_ A variable that represents a '[LeaderLines](Word.LeaderLines.md)' object.
 
 
 ## See also

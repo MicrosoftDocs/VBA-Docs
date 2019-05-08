@@ -14,7 +14,7 @@ Gets the  **ReportTable** object in the shape range. Read-only[ReportTable](Proj
 
 _expression_. `Table`
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Property value

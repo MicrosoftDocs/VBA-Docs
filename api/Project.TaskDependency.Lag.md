@@ -21,7 +21,7 @@ The duration of lag time between linked tasks. Read/write  **Variant**.
 
 _expression_. `Lag`
 
- _expression_ A variable that represents a [TaskDependency](./Project.TaskDependency.md) object.
+_expression_ A variable that represents a [TaskDependency](./Project.TaskDependency.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Indicates whether drawings are centered between the top and bottom edges of the 
 
 _expression_. `PrintCenteredV`
 
- _expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ## Return value

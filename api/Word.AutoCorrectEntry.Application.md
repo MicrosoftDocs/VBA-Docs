@@ -21,7 +21,7 @@ Returns an  **[Application](Word.Application.md)** object that represents the Mi
 
 _expression_.**Application**
 
- _expression_ A variable that represents an '[AutoCorrectEntry](Word.AutoCorrectEntry.md)' object.
+_expression_ A variable that represents an '[AutoCorrectEntry](Word.AutoCorrectEntry.md)' object.
 
 
 ## See also

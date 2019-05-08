@@ -21,7 +21,7 @@ Returns a  **Range** object that represents the footnote continuation separator.
 
 _expression_. `ContinuationSeparator`
 
- _expression_ A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
+_expression_ A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
 
 
 ## Example

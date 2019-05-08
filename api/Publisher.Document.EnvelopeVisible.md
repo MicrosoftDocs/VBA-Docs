@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** indicating whether the email message header is vi
 
 _expression_.**EnvelopeVisible**
 
- _expression_ A variable that represents an  **Document** object.
+_expression_ A variable that represents an  **Document** object.
 
 
 ## Return value

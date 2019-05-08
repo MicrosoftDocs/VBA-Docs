@@ -21,7 +21,7 @@ Returns or sets a value that determines whether the object has a shadow. Read/wr
 
 _expression_.**Shadow**
 
- _expression_ A variable that represents an '[AxisTitle](Word.AxisTitle.md)' object.
+_expression_ A variable that represents an '[AxisTitle](Word.AxisTitle.md)' object.
 
 
 ## See also

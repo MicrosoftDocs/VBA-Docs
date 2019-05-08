@@ -18,7 +18,7 @@ Gets or sets the local name of the current user. Read/write  **String**.
 
 _expression_. `UserName`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

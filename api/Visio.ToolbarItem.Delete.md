@@ -21,7 +21,7 @@ Deletes an object.
 
 _expression_.**Delete**
 
- _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
+_expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 
 
 ## Return value

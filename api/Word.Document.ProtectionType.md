@@ -21,7 +21,7 @@ Returns the protection type for the specified document. Can be one of the follow
 
 _expression_. `ProtectionType`
 
- _expression_ A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example

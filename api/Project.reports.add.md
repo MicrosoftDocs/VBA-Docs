@@ -14,7 +14,7 @@ Adds a custom report to the  **Reports** collection.
 
 _expression_.**Add** _(Name)_
 
- _expression_ A variable that represents a 'Reports' object.
+_expression_ A variable that represents a 'Reports' object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns the height (in points) of the text bounding box for the specified text f
 
 _expression_. `BoundHeight`
 
- _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
+_expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
 
 ## Return value

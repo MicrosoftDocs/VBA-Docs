@@ -24,7 +24,7 @@ Returns status information for an object. Read-only.
 
 _expression_. `Stat`
 
- _expression_ A variable that represents a [GraphicItem](./Visio.GraphicItem.md) object.
+_expression_ A variable that represents a [GraphicItem](./Visio.GraphicItem.md) object.
 
 
 ## Return value

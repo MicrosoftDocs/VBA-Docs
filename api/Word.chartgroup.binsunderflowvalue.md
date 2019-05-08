@@ -19,7 +19,7 @@ If an [BinsUnderflowEnabled](Word.chartgroup.binsunderflowenabled.md) is **True*
 
 _expression_.**BinsUnderflowValue**
 
- _expression_ A variable that represents a [ChartGroup](./Word.ChartGroup.md) object.
+_expression_ A variable that represents a [ChartGroup](./Word.ChartGroup.md) object.
 
 
 ## See also

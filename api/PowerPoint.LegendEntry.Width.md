@@ -18,7 +18,7 @@ Returns the width, in [points](../language/glossary/vbe-glossary.md#point), of t
 
 _expression_.**Width**
 
- _expression_ A variable that represents a '[LegendEntry](PowerPoint.LegendEntry.md)' object.
+_expression_ A variable that represents a '[LegendEntry](PowerPoint.LegendEntry.md)' object.
 
 
 ## See also

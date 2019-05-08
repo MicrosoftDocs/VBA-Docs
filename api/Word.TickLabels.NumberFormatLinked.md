@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**NumberFormatLinked**
 
- _expression_ A variable that represents a '[TickLabels](Word.TickLabels.md)' object.
+_expression_ A variable that represents a '[TickLabels](Word.TickLabels.md)' object.
 
 
 ## Example

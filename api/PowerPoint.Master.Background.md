@@ -21,7 +21,7 @@ Returns a  **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents the
 
 _expression_.**Background**
 
- _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
+_expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 
 
 ## Return value

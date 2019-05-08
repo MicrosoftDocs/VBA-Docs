@@ -18,7 +18,7 @@ Gets or sets the finish date for a project. Read/write  **Variant**.
 
 _expression_. `ProjectFinish`
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

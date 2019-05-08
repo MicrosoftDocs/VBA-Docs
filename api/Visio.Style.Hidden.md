@@ -21,7 +21,7 @@ Hides or shows a master on a stencil or a style in the user interface. Read/writ
 
 _expression_.**Hidden**
 
- _expression_ A variable that represents a [Style](./Visio.Style.md) object.
+_expression_ A variable that represents a [Style](./Visio.Style.md) object.
 
 
 ## Return value

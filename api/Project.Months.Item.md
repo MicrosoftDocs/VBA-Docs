@@ -18,7 +18,7 @@ Gets a single  **Month** object from the **Months** collection. Read-only **Mont
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a 'Months' object.
+_expression_ A variable that represents a 'Months' object.
 
 
 ## Parameters

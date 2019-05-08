@@ -21,7 +21,7 @@ Specifies the universal name of the  **[ValidationRuleSet](Visio.ValidationRuleS
 
 _expression_. `NameU`
 
- _expression_ A variable that represents a [ValidationRuleSet](./Visio.ValidationRuleSet.md) object.
+_expression_ A variable that represents a [ValidationRuleSet](./Visio.ValidationRuleSet.md) object.
 
 
 ## Return value

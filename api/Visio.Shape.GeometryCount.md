@@ -21,7 +21,7 @@ Returns the number of Geometry sections for a shape. Read-only.
 
 _expression_. `GeometryCount`
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Return value

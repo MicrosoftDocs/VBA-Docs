@@ -21,7 +21,7 @@ Returns the number of objects in a collection. Read-only.
 
 _expression_.**Count**
 
- _expression_ A variable that represents an [EventList](./Visio.EventList.md) object.
+_expression_ A variable that represents an [EventList](./Visio.EventList.md) object.
 
 
 ## Return value

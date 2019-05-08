@@ -21,7 +21,7 @@ Gets or sets the name of the row that contains the  **Cell** object. Read/write.
 
 _expression_. `RowName`
 
- _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
+_expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
 ## Return value

@@ -18,6 +18,6 @@ Sets or gets the identifier for the unit or organization that tracks costs for t
 
 _expression_. `CostCenter`
 
- _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
+_expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

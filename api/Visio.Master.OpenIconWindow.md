@@ -21,7 +21,7 @@ Opens an icon window that shows a master's icon.
 
 _expression_. `OpenIconWindow`
 
- _expression_ A variable that represents a [Master](./Visio.Master.md) object.
+_expression_ A variable that represents a **[Master](Visio.Master.md)** object.
 
 
 ## Return value

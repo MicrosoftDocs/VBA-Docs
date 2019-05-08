@@ -21,7 +21,7 @@ Gets the table type for the specified table. Read-only  **PjItemType**.
 
 _expression_. `TableType`
 
- _expression_ A variable that represents a [Table](./Project.Table.md) object.
+_expression_ A variable that represents a [Table](./Project.Table.md) object.
 
 
 ## Remarks

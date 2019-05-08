@@ -18,7 +18,7 @@ Gets a  **[List](Project.List.md)** object representing all task filters in the 
 
 _expression_. `TaskFilterList`
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Example

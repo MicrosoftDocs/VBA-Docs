@@ -21,7 +21,7 @@ Brings the shape or selected shapes forward one position in the z-order.
 
 _expression_. `BringForward`
 
- _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
+_expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
 ## Return value

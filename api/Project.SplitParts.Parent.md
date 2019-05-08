@@ -18,7 +18,7 @@ Gets the parent of the  **SplitParts** object. Read-only **Task**.
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a 'SplitParts' object.
+_expression_ A variable that represents a 'SplitParts' object.
 
 
 ## Remarks

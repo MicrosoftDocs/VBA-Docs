@@ -21,7 +21,7 @@ Returns a  **[FillFormat](Word.FillFormat.md)** object for the parent chart elem
 
 _expression_. `Fill`
 
- _expression_ A variable that represents a '[ChartFormat](Word.ChartFormat.md)' object.
+_expression_ A variable that represents a '[ChartFormat](Word.ChartFormat.md)' object.
 
 
 ## See also

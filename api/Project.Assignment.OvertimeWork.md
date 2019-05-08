@@ -18,6 +18,6 @@ Gets or sets the overtime work for an assignment. Read/write  **Variant**.
 
 _expression_. `OvertimeWork`
 
- _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
+_expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

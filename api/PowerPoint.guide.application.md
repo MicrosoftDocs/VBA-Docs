@@ -19,6 +19,6 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 
 _expression_.**Application**
 
- _expression_ A variable that represents a [Guide](PowerPoint.guide.md) object.
+_expression_ A variable that represents a [Guide](PowerPoint.guide.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

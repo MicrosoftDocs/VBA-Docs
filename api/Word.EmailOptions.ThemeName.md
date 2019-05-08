@@ -21,7 +21,7 @@ Returns or sets the name of the theme plus any theme formatting options to use f
 
 _expression_. `ThemeName`
 
- _expression_ A variable that represents a '[EmailOptions](Word.EmailOptions.md)' object.
+_expression_ A variable that represents a '[EmailOptions](Word.EmailOptions.md)' object.
 
 
 ## Remarks

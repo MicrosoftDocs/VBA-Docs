@@ -21,7 +21,7 @@ Pauses the media.
 
 _expression_. `Pause`
 
- _expression_ A variable that represents a [Player](./PowerPoint.Player.md) object.
+_expression_ A variable that represents a [Player](./PowerPoint.Player.md) object.
 
 
 ## See also

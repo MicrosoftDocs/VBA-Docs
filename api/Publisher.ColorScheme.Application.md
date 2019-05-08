@@ -21,7 +21,7 @@ Used without an object qualifier, this property returns an  **[Application](Publ
 
 _expression_.**Application**
 
- _expression_ A variable that represents a  **ColorScheme** object.
+_expression_ A variable that represents a  **ColorScheme** object.
 
 
 ## Example

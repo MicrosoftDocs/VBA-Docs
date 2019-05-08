@@ -21,7 +21,7 @@ Returns the index of a row to which a cell belongs. Read-only.
 
 _expression_. `CellsRowIndex`( `_localeSpecificCellName_` )
 
- _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
+ _expression_ An expression that returns a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters

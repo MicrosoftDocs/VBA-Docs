@@ -18,7 +18,7 @@ Returns or sets the marker background color as an index into the current color p
 
 _expression_.**MarkerBackgroundColorIndex**
 
- _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
+_expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 
 
 ## Remarks

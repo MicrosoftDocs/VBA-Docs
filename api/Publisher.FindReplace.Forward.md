@@ -21,7 +21,7 @@ Sets or retrieves a  **Boolean** representing the direction of the text search. 
 
 _expression_.**Forward**
 
- _expression_ A variable that represents a  **FindReplace** object.
+_expression_ A variable that represents a  **FindReplace** object.
 
 
 ## Return value

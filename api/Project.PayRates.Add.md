@@ -18,7 +18,7 @@ Adds a  **PayRate** object to a **PayRates** collection.
 
 _expression_.**Add** (_EffectiveDate_, _StdRate_, _OvtRate_, _CostPerUse_)
 
- _expression_ A variable that represents a 'PayRates' object.
+_expression_ A variable that represents a 'PayRates' object.
 
 
 ## Parameters

@@ -18,7 +18,7 @@ Occurs when the Project Guide is hidden or shown.
 
 _expression_. `WorkpaneDisplayChange`( `_DisplayState_`, )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

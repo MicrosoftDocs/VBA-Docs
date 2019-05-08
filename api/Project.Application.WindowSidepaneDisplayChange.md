@@ -18,7 +18,7 @@ Occurs when the user shows or hides the Project Guide.
 
 _expression_. `WindowSidepaneDisplayChange`( `_Window_`, `_Close_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

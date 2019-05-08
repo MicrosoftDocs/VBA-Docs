@@ -21,7 +21,7 @@ Scrolls the publication window so that the specified shape is displayed in the p
 
 _expression_.**ScrollShapeIntoView**(**_Shape_**)
 
- _expression_ A variable that represents a  **View** object.
+_expression_ A variable that represents a  **View** object.
 
 
 ## Parameters

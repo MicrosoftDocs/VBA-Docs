@@ -21,7 +21,7 @@ Returns or sets the end style for the error bars. Read/write  **Long**.
 
 _expression_.**EndStyle**
 
- _expression_ A variable that represents an '[ErrorBars](Word.ErrorBars.md)' object.
+_expression_ A variable that represents an '[ErrorBars](Word.ErrorBars.md)' object.
 
 
 ## Remarks

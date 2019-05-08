@@ -21,7 +21,7 @@ Returns an Automation object (Word.Basic) that includes methods for all the Word
 
 _expression_. `WordBasic`
 
- _expression_ A variable that represents a '[Global](Word.Global.md)' object.
+_expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Remarks

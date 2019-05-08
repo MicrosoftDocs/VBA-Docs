@@ -18,7 +18,7 @@ Creates a deliverable for a published project that has a project workspace.
 
 _expression_. `DeliverableCreate`( `_DeliverableName_`, `_DeliverableStartDate_`, `_DeliverableFinishDate_`, `_TaskGuid_` )
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Parameters

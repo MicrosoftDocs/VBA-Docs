@@ -18,7 +18,7 @@ Gets a  **[Shift](Project.Shift.md)** object representing the second work shift 
 
 _expression_. `Shift2`
 
- _expression_ A variable that represents a [Month](./Project.Month.md) object.
+_expression_ A variable that represents a [Month](./Project.Month.md) object.
 
 
 ## Example

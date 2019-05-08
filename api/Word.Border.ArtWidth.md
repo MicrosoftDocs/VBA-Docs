@@ -21,7 +21,7 @@ Returns or sets the width (in points) of the specified graphical page border. Re
 
 _expression_. `ArtWidth`
 
- _expression_ A variable that represents a '[Border](Word.Border.md)' object.
+_expression_ A variable that represents a '[Border](Word.Border.md)' object.
 
 
 ## Example

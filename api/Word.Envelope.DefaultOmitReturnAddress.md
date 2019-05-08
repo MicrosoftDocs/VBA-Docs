@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `DefaultOmitReturnAddress`
 
- _expression_ A variable that represents a '[Envelope](Word.Envelope.md)' object.
+_expression_ A variable that represents a '[Envelope](Word.Envelope.md)' object.
 
 
 ## Example

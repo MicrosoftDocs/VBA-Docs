@@ -21,7 +21,7 @@ Returns or sets the active window pane. Read/write  **WdSpecialPane**.
 
 _expression_. `SplitSpecial`
 
- _expression_ A variable that represents a '[View](Word.View.md)' object.
+_expression_ A variable that represents a '[View](Word.View.md)' object.
 
 
 ## Example

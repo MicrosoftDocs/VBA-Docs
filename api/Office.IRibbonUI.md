@@ -18,7 +18,7 @@ The object that is returned by the **onLoad** procedure specified on the **custo
 
 The **IRibbonUI** object does not generate events in its interaction with the user. Instead, ribbon elements perform *callbacks* to your code, and the linkage between ribbon elements and your code is defined in the XML that describes your ribbon additions. 
 
-For information about the callback functions available for each UI element, see [Customizing the 2007 Office Fluent Ribbon for Developers](https://docs.microsoft.com/previous-versions/office/developer/office-2007/aa722523(v=office.12)) and search for "How can I determine the correct signatures for each callback procedure?".
+For information about the callback functions available for each UI element, search for "How can I determine the correct signatures for each callback procedure?" in [Customizing the 2007 Office Fluent Ribbon for Developers](https://docs.microsoft.com/previous-versions/office/developer/office-2007/aa722523(v=office.12)).
 
 
 ## Remarks

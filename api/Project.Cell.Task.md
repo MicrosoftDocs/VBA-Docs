@@ -18,7 +18,7 @@ Gets a  **[Task](Project.Task.md)** object representing the task in the active c
 
 _expression_. `Task`
 
- _expression_ A variable that represents a [Cell](./Project.Cell.md) object.
+_expression_ A variable that represents a [Cell](./Project.Cell.md) object.
 
 
 ## Example

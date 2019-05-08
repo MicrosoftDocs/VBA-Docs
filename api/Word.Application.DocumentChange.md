@@ -21,7 +21,7 @@ Occurs when a new document is created, when an existing document is opened, or w
 
 Private Sub  _expression_ _'DocumentChange'()
 
- _expression_ A variable that represents an '[Application](Word.Application.md)' object declared with events in a class module.
+_expression_ A variable that represents an '[Application](Word.Application.md)' object declared with events in a class module.
 
 
 ## Remarks

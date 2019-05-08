@@ -21,7 +21,7 @@ Returns an  **IDataObject** interface representing the active **Connector** tool
 
 _expression_. `ConnectorToolDataObject`
 
- _expression_ A variable that represents an [Application](./Visio.Application.md) object.
+_expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ## Return value

@@ -18,7 +18,7 @@ localization_priority: Normal
 
 _expression_. `Working`
 
- _expression_ A variable that represents a [Month](./Project.Month.md) object.
+_expression_ A variable that represents a [Month](./Project.Month.md) object.
 
 
 ## Example

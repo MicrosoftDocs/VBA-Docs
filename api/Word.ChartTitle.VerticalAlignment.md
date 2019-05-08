@@ -21,7 +21,7 @@ Returns or sets the vertical alignment of the specified object. Read/write  **Va
 
 _expression_.**VerticalAlignment**
 
- _expression_ A variable that represents a '[ChartTitle](Word.ChartTitle.md)' object.
+_expression_ A variable that represents a '[ChartTitle](Word.ChartTitle.md)' object.
 
 
 ## Remarks

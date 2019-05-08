@@ -18,7 +18,7 @@ Deletes the object.
 
 _expression_.**Delete**
 
- _expression_ A variable that represents an '[UpBars](PowerPoint.UpBars.md)' object.
+_expression_ A variable that represents an '[UpBars](PowerPoint.UpBars.md)' object.
 
 
 ## See also

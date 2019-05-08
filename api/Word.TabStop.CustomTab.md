@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `CustomTab`
 
- _expression_ A variable that represents a '[TabStop](Word.TabStop.md)' object.
+_expression_ A variable that represents a '[TabStop](Word.TabStop.md)' object.
 
 
 ## Example

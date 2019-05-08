@@ -18,7 +18,7 @@ Occurs when a user selects different items in the  **Next Steps and Related Acti
 
 _expression_. `WindowSidepaneTaskChange`( `_Window_`, `_ID_`, `_IsGoalArea_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

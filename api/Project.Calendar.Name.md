@@ -18,7 +18,7 @@ Gets the name of a  **Calendar** object. Read-only **String**.
 
 _expression_.**Name**
 
- _expression_ A variable that represents a [Calendar](./Project.Calendar.md) object.
+_expression_ A variable that represents a [Calendar](./Project.Calendar.md) object.
 
 
 ## Remarks

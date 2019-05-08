@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotTable.DisplayEmptyRow
 ms.assetid: c1e20ff1-44db-47a0-8e4b-7db7d2ad7cb2
-ms.date: 06/08/2017
+ms.date: 05/08/2019
 localization_priority: Normal
 ---
 
 
 # PivotTable.DisplayEmptyRow property (Excel)
 
-Returns  **True** when the non-empty MDX keyword is included in the query to the OLAP provider for the category axis. The OLAP provider will not return empty rows in the result set. Returns **False** when the non-empty keyword is omitted. Read/write **Boolean**.
+Returns **True** when the non-empty MDX keyword is included in the query to the OLAP provider for the category axis. The OLAP provider will not return empty rows in the result set. Returns **False** when the non-empty keyword is omitted. Read/write **Boolean**.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ The PivotTable must be connected to an Online Analytical Processing (OLAP) data 
 
 ## Example
 
-This example determines the display settings for empty rows in a PivotTable. It assumes a PivotTable connected to an OLAP data source exists on the active worksheet.
-
+This example determines the display settings for empty rows in a PivotTable. It assumes that a PivotTable connected to an OLAP data source exists on the active worksheet.
 
 ```vb
 Sub CheckSetting() 
@@ -52,9 +51,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[PivotTable Object](Excel.PivotTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

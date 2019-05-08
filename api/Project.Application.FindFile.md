@@ -21,7 +21,7 @@ Displays the  **File Open** dialog box, which allows the user to search for a fi
 
 _expression_. `FindFile`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Return value

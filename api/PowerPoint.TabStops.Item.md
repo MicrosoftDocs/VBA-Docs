@@ -21,7 +21,7 @@ Returns a single tab stop from the specified  **TabStops** collection.
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [TabStops](./PowerPoint.TabStops.md) object.
+_expression_ A variable that represents a [TabStops](./PowerPoint.TabStops.md) object.
 
 
 ## Parameters

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 _expression_.**Visible**
 
- _expression_ A variable that represents a  **SoftEdgeFormat** object.
+_expression_ A variable that represents a  **SoftEdgeFormat** object.
 
 
 ## Return value

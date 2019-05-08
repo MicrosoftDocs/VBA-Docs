@@ -18,7 +18,7 @@ Occurs when Project loads a Web pane for  **Task Drivers**,  **Deliverables**, o
 
 _expression_. `LoadWebPane`( `_Window_`, `_TargetPage_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

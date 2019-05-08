@@ -21,7 +21,7 @@ The date and time that the document version was saved. Read-only  **Date**.
 
 _expression_. `Date`
 
- _expression_ A variable that represents a '[Version](Word.Version.md)' object.
+_expression_ A variable that represents a '[Version](Word.Version.md)' object.
 
 
 ## Example

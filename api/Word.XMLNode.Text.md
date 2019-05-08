@@ -21,7 +21,7 @@ Returns or sets the text contained within the XML element. Read/write  **String*
 
 _expression_.**Text**
 
- _expression_ A variable that represents a '[XMLNode](Word.XMLNode.md)' object.
+_expression_ A variable that represents a '[XMLNode](Word.XMLNode.md)' object.
 
 
 ## Remarks

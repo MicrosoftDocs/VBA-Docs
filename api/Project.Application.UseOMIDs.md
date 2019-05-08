@@ -21,7 +21,7 @@ Gets or sets the corresponding  **Use internal IDs** option on the **Advanced** 
 
 _expression_. `UseOMIDs`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

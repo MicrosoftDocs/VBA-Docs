@@ -21,7 +21,7 @@ Returns the collection of all the validation issues in the document. Read-only.
 
 _expression_. `Issues`
 
- _expression_ A variable that represents a '[Validation](Visio.Validation.md)' object.
+_expression_ A variable that represents a '[Validation](Visio.Validation.md)' object.
 
 
 ## Return value

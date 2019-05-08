@@ -21,7 +21,7 @@ Returns or sets the ratio of the horizontal space allotted to each character in 
 
 _expression_. `Tracking`
 
- _expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
+_expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
 
 
 ## Return value

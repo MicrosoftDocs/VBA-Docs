@@ -21,7 +21,7 @@ Returns or sets the distance, in [points](../language/glossary/vbe-glossary.md#p
 
 _expression_.**Top**
 
- _expression_ A variable that represents a '[DisplayUnitLabel](Word.DisplayUnitLabel.md)' object.
+_expression_ A variable that represents a '[DisplayUnitLabel](Word.DisplayUnitLabel.md)' object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Makes small adjustments to selected shapes to move them off page breaks.
 
 _expression_. `AvoidPageBreaks`
 
- _expression_ A variable that represents a '[Selection](Visio.Selection.md)' object.
+_expression_ A variable that represents a '[Selection](Visio.Selection.md)' object.
 
 
 ## Return value

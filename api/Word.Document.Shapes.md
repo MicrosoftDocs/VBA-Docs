@@ -21,7 +21,7 @@ Returns a  **[Shapes](Word.shapes.md)** collection that represents all the **Sha
 
 _expression_.**Shapes**
 
- _expression_ A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

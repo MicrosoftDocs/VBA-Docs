@@ -21,7 +21,7 @@ Returns a  **[Style](Word.Style.md)** object that represents the style used to c
 
 _expression_. `ComposeStyle`
 
- _expression_ A variable that represents a '[EmailOptions](Word.EmailOptions.md)' object.
+_expression_ A variable that represents a '[EmailOptions](Word.EmailOptions.md)' object.
 
 
 ## Example

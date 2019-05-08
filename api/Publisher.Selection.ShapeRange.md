@@ -21,7 +21,7 @@ Returns a  **[ShapeRange](Publisher.ShapeRange.md)** collection that represents 
 
 _expression_.**ShapeRange**
 
- _expression_ A variable that represents a  **Selection** object.
+_expression_ A variable that represents a  **Selection** object.
 
 
 ## Return value

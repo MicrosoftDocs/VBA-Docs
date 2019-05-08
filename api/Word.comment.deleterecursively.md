@@ -19,7 +19,7 @@ Deletes the specified comment and all replies associated with it.
 
 _expression_. `DeleteRecursively`
 
- _expression_ A variable that represents a [Comment](./Word.Comment.md) object.
+_expression_ A variable that represents a [Comment](./Word.Comment.md) object.
 
 
 ## Return value

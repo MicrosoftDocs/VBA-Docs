@@ -21,7 +21,7 @@ Occurs immediately before any open document closes.
 
 _expression_.**BeforeClose**(**_Cancel_**)
 
- _expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a  **Document** object.
 
 
 ## Parameters

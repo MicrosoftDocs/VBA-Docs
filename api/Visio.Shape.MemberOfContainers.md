@@ -21,7 +21,7 @@ Returns an array of  **Long** values that represent the identifiers of the conta
 
 _expression_. `MemberOfContainers`
 
- _expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
+_expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
 
 
 ## Return value

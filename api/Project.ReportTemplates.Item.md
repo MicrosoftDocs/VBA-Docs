@@ -18,7 +18,7 @@ Gets a single  **ReportTemplate** object from a **[ReportTemplates](Project.repo
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a 'ReportTemplates' object.
+_expression_ A variable that represents a 'ReportTemplates' object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns or sets the position of the data label. Read/write  **[XlDataLabelPositi
 
 _expression_.**Position**
 
- _expression_ A variable that represents a '[DataLabel](Word.DataLabel.md)' object.
+_expression_ A variable that represents a '[DataLabel](Word.DataLabel.md)' object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns the key combination string for the specified keys (for example, CTRL+SHI
 
 _expression_. `KeyString`( `_KeyCode_` , `_KeyCode2_` )
 
- _expression_ A variable that represents a '[Global](Word.Global.md)' object.
+_expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Parameters

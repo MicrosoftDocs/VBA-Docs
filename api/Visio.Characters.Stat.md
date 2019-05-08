@@ -21,7 +21,7 @@ Returns status information for an object. Read-only.
 
 _expression_. `Stat`
 
- _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
+_expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
 
 ## Return value

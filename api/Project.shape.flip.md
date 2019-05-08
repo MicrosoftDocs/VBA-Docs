@@ -14,7 +14,7 @@ Flips the shape around its horizontal or vertical axis.
 
 _expression_. `Flip` _(FlipCmd)_
 
- _expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a 'Shape' object.
 
 
 ## Parameters

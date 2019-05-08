@@ -22,7 +22,7 @@ localization_priority: Normal
 
 _expression_. `Permission`
 
- _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ## Return value

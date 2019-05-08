@@ -21,7 +21,7 @@ Returns a  **[Languages](Word.languages.md)** collection that represents the pro
 
 _expression_. `Languages`
 
- _expression_ A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Remarks

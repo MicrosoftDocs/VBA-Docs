@@ -14,7 +14,7 @@ Copies a custom report and creates a new report with the same content.
 
 _expression_.**Copy** (_Source_, _NewName_)
 
- _expression_ A variable that represents a 'Reports' object.
+_expression_ A variable that represents a 'Reports' object.
 
 
 ## Parameters

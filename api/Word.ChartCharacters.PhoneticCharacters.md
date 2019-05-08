@@ -21,7 +21,7 @@ Returns or sets the phonetic text for the object. Read/write  **String**.
 
 _expression_.**PhoneticCharacters**
 
- _expression_ A variable that represents a '[ChartCharacters](Word.ChartCharacters.md)' object.
+_expression_ A variable that represents a '[ChartCharacters](Word.ChartCharacters.md)' object.
 
 
 ## Example

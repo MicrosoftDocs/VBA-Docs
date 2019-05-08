@@ -21,7 +21,7 @@ Resizes the page, or the master's page, to fit tightly around the shapes or mast
 
 _expression_. `ResizeToFitContents`
 
- _expression_ A variable that represents a [Master](./Visio.Master.md) object.
+_expression_ A variable that represents a **[Master](Visio.Master.md)** object.
 
 
 ## Return value

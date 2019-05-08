@@ -21,7 +21,7 @@ Occurs when one or more new shapes are added to a publication. This event occurs
 
 _expression_.**ShapesAdded**
 
- _expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a  **Document** object.
 
 
 ## Example

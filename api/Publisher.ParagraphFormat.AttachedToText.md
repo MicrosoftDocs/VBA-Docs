@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**AttachedToText**
 
- _expression_ A variable that represents a  **ParagraphFormat** object.
+_expression_ A variable that represents a  **ParagraphFormat** object.
 
 
 ## Example

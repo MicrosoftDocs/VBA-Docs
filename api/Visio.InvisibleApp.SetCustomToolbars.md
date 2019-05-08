@@ -21,7 +21,7 @@ Replaces the current built-in or custom toolbars of an application or document.
 
 _expression_. `SetCustomToolbars`( `_ToolbarsObject_` )
 
- _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ## Parameters

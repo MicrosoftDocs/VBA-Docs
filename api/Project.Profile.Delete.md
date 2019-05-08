@@ -18,7 +18,7 @@ Deletes an account profile from the  **[Profiles](Project.profiles.md)** collect
 
 _expression_.**Delete**
 
- _expression_ A variable that represents a [Profile](./Project.Profile.md) object.
+_expression_ A variable that represents a [Profile](./Project.Profile.md) object.
 
 
 ## Remarks

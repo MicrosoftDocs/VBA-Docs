@@ -21,7 +21,7 @@ Gets or sets the abbreviation for "month" that is displayed for values such as d
 
 _expression_. `MonthLabelDisplay`
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

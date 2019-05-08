@@ -21,7 +21,7 @@ Returns or sets the width of the table cells, in points. Read/write  **Long**.
 
 _expression_.**Width**
 
- _expression_ A variable that represents a '[Cells](Word.cells.md)' object.
+_expression_ A variable that represents a '[Cells](Word.cells.md)' object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Returns  **True** if the specified page is a Microsoft Publisher wizard page. Re
 
 _expression_.**IsWizardPage**
 
- _expression_ A variable that represents an  **Page** object.
+_expression_ A variable that represents an  **Page** object.
 
 
 ## Return value

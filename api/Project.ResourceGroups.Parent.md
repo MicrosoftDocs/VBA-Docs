@@ -18,7 +18,7 @@ Gets the parent of the  **ResourceGroups** object. Read-only **Project**.
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a 'ResourceGroups' object.
+_expression_ A variable that represents a 'ResourceGroups' object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns or sets an  **MsoTriState** constant indicating whether the specified ob
 
 _expression_.**Visible**
 
- _expression_ A variable that represents a  **ShadowFormat** object.
+_expression_ A variable that represents a  **ShadowFormat** object.
 
 
 ## Remarks

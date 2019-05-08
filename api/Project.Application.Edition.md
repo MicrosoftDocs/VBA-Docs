@@ -21,7 +21,7 @@ Gets the edition of the Project application, either Project Standard or Project 
 
 _expression_. `Edition`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

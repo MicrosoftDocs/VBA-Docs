@@ -18,7 +18,7 @@ Gets the number of items in the  **TimeScaleValues** collection. Read-only **Lon
 
 _expression_.**Count**
 
- _expression_ A variable that represents a 'TimeScaleValues' object.
+_expression_ A variable that represents a 'TimeScaleValues' object.
 
 
 ## Remarks

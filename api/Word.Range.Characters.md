@@ -21,7 +21,7 @@ Returns a  **[Characters](Word.characters.md)** collection that represents the c
 
 _expression_. `Characters`
 
- _expression_ A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks

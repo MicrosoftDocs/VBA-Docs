@@ -18,6 +18,6 @@ Gets the number of OLE objects contained within a  **Resource** object. Any obje
 
 _expression_. `Objects`
 
- _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
+_expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,7 +21,7 @@ Flips an object horizontally.
 
 _expression_. `FlipHorizontal`
 
- _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
+_expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
 ## Return value

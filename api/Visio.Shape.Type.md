@@ -21,7 +21,7 @@ Returns the type of the object. Read-only.
 
 _expression_.**Type**
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Return value

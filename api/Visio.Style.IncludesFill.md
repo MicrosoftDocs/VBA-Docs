@@ -21,7 +21,7 @@ Indicates whether the style includes fill attributes. Read/write.
 
 _expression_. `IncludesFill`
 
- _expression_ A variable that represents a [Style](./Visio.Style.md) object.
+_expression_ A variable that represents a [Style](./Visio.Style.md) object.
 
 
 ## Return value

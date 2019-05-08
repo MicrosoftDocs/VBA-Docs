@@ -21,7 +21,7 @@ Returns or sets  **True** to include page backgrounds when printing pages from t
 
 _expression_.**PrintPageBackgrounds**
 
- _expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a  **Document** object.
 
 
 ## Return value

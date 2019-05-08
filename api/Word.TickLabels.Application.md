@@ -21,7 +21,7 @@ When used without an object qualifier, returns an  **[Application](Word.Applicat
 
 _expression_.**Application**
 
- _expression_ A variable that represents a '[TickLabels](Word.TickLabels.md)' object.
+_expression_ A variable that represents a '[TickLabels](Word.TickLabels.md)' object.
 
 
 ## Example

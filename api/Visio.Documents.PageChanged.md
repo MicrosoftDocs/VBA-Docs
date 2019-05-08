@@ -21,7 +21,7 @@ Occurs after the name of a page, the background page associated with a page, or 
 
 Private Sub  _expression_ _'PageChanged'(**_ByVal Page As [IVPAGE]_**)
 
- _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
+_expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
 
 ## Parameters

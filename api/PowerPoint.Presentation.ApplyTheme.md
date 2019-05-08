@@ -21,7 +21,7 @@ Applies a theme or design template to the specified presentation.
 
 _expression_. `ApplyTheme`( `_themeName_` )
 
- _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ## Parameters

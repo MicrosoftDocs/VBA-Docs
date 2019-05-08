@@ -21,7 +21,7 @@ Adds new data points to an existing series collection.
 
 _expression_. `Extend`( `_Source_`, `_Rowcol_`, `_CategoryLabels_` )
 
- _expression_ A variable that represents a '[SeriesCollection](PowerPoint.SeriesCollection.md)' object.
+_expression_ A variable that represents a '[SeriesCollection](PowerPoint.SeriesCollection.md)' object.
 
 
 ## Parameters

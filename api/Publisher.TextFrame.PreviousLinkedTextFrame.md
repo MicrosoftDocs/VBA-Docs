@@ -21,7 +21,7 @@ Returns a  **[TextFrame](Publisher.TextFrame.md)** object representing the text 
 
 _expression_.**PreviousLinkedTextFrame**
 
- _expression_ A variable that represents a  **TextFrame** object.
+_expression_ A variable that represents a  **TextFrame** object.
 
 
 ## Return value

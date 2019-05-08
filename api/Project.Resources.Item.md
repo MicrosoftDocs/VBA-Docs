@@ -18,7 +18,7 @@ Gets a single  **Resource** object from the **Resources** collection. Read-only 
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a 'Resources' object.
+_expression_ A variable that represents a 'Resources' object.
 
 
 ## Parameters

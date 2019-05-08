@@ -21,7 +21,7 @@ Converts a measurement from points to inches (1 inch = 72 points). Returns the c
 
 _expression_. `PointsToInches`( `_Points_` )
 
- _expression_ A variable that represents an '[Application](Word.Application.md)' object. Optional.
+_expression_ A variable that represents an '[Application](Word.Application.md)' object. Optional.
 
 
 ## Parameters

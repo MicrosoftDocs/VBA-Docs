@@ -18,7 +18,7 @@ Returns or sets the thickness of the floor. Read/write  **Long**.
 
 _expression_.**Thickness**
 
- _expression_ A variable that represents a '[Floor](PowerPoint.Floor.md)' object.
+_expression_ A variable that represents a '[Floor](PowerPoint.Floor.md)' object.
 
 
 ## Remarks

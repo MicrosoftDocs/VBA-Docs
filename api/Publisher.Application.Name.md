@@ -21,7 +21,7 @@ Returns a  **String** value indicating the name of the specified object. Read-on
 
 _expression_.**Name**
 
- _expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an  **Application** object.
 
 
 ## Remarks

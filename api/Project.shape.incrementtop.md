@@ -14,7 +14,7 @@ Moves the shape vertically by the specified number of points.
 
 _expression_. `IncrementTop` _(Increment)_
 
- _expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a 'Shape' object.
 
 
 ## Parameters

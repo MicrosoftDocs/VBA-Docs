@@ -21,7 +21,7 @@ Returns or sets the name of the object. Read/write  **String**.
 
 _expression_.**Name**
 
- _expression_ A variable that represents a '[ChartFont](Word.ChartFont.md)' object.
+_expression_ A variable that represents a '[ChartFont](Word.ChartFont.md)' object.
 
 
 ## See also

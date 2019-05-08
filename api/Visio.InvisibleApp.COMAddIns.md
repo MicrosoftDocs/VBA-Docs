@@ -21,7 +21,7 @@ Returns a reference to the  **COMAddIns** collection that represents all the Com
 
 _expression_. `COMAddIns`
 
- _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ## Return value

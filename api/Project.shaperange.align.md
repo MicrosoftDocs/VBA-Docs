@@ -14,7 +14,7 @@ The  **Align** method is not implemented in Project.
 
 _expression_. `Align` _(AlignCmd,_ _RelativeTo)_
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Return value

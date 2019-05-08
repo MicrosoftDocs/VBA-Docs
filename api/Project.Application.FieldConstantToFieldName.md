@@ -18,7 +18,7 @@ Returns a custom field name for the specified field constant.
 
 _expression_. `FieldConstantToFieldName`( `_Field_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

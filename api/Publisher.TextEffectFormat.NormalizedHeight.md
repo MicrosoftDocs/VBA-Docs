@@ -21,7 +21,7 @@ Specifies whether all characters (both uppercase and lowercase) in the specified
 
 _expression_.**NormalizedHeight**
 
- _expression_ A variable that represents a  **TextEffectFormat** object.
+_expression_ A variable that represents a  **TextEffectFormat** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns or sets a  **Template** or **[Document](Word.Document.md)** object that 
 
 _expression_. `CustomizationContext`
 
- _expression_ A variable that represents a '[Global](Word.Global.md)' object.
+_expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Remarks

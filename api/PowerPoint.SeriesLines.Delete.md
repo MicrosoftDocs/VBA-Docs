@@ -18,7 +18,7 @@ Deletes the object.
 
 _expression_.**Delete**
 
- _expression_ A variable that represents a '[SeriesLines](PowerPoint.SeriesLines.md)' object.
+_expression_ A variable that represents a '[SeriesLines](PowerPoint.SeriesLines.md)' object.
 
 
 ## See also

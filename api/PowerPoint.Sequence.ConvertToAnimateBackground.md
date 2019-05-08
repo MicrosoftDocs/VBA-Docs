@@ -21,7 +21,7 @@ Determines whether the background will be animated separately from, or in additi
 
 _expression_. `ConvertToAnimateBackground`( `_Effect_`, `_AnimateBackground_` )
 
- _expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
+_expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
 
 
 ## Parameters

@@ -19,6 +19,6 @@ Returns the committed max units for the engagement. Read-only  **Integer**. Intr
 
 _expression_. `EngagementCommittedMaxUnits`
 
- _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
+_expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,7 +21,7 @@ Gets or sets the target shape that is associated with the callout shape by a cal
 
 _expression_. `CalloutTarget`
 
- _expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
+_expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
 
 
 ## Return value

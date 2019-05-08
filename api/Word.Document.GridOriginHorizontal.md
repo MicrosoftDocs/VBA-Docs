@@ -21,7 +21,7 @@ Returns or sets a  **Single** that represents the point, relative to the left ed
 
 _expression_. `GridOriginHorizontal`
 
- _expression_ A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example

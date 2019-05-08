@@ -21,7 +21,7 @@ Sets the compatibility mode for the document.
 
 _expression_. `SetCompatibilityMode`( `_Mode_` )
 
- _expression_ A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters

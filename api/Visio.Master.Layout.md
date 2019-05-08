@@ -21,7 +21,7 @@ Lays out the shapes and/or reroutes the connectors for the page, master, group, 
 
 _expression_.**Layout**
 
- _expression_ A variable that represents a [Master](./Visio.Master.md) object.
+_expression_ A variable that represents a **[Master](Visio.Master.md)** object.
 
 
 ## Return value

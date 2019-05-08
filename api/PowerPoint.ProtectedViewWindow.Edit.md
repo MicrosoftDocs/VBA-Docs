@@ -21,7 +21,7 @@ Changes the password of the  **ProtectedViewWindow** object.
 
 _expression_.**Edit** (_ModifyPassword_)
 
- _expression_ A variable that represents a [ProtectedViewWindow](./PowerPoint.ProtectedViewWindow.md) object.
+_expression_ A variable that represents a [ProtectedViewWindow](./PowerPoint.ProtectedViewWindow.md) object.
 
 
 ## Parameters

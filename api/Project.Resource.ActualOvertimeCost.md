@@ -18,7 +18,7 @@ Gets the actual overtime cost for a resource. Read-only  **Variant**.
 
 _expression_. `ActualOvertimeCost`
 
- _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
+_expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 
 ## Remarks

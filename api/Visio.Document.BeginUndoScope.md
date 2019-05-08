@@ -21,7 +21,7 @@ Starts a transaction with a unique scope ID for an instance of Microsoft Visio.
 
 _expression_. `BeginUndoScope`( `_bstrUndoScopeName_` )
 
- _expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ## Parameters

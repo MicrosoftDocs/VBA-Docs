@@ -14,7 +14,7 @@ Gets the horizontal (X) axis values for the data series on a chart. Read-only  *
 
 _expression_. `XValues`
 
- _expression_ A variable that represents a 'Series' object.
+_expression_ A variable that represents a 'Series' object.
 
 
 ## Remarks

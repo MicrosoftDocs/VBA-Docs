@@ -21,7 +21,7 @@ Returns a  **[Frame](Word.Frame.md)** object that represents the frame formattin
 
 _expression_. `Frame`
 
- _expression_ A variable that represents a '[Find](Word.Find.md)' object.
+_expression_ A variable that represents a '[Find](Word.Find.md)' object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Returns a  **[Range](Word.Range.md)** object that represents the entire story in
 
 _expression_. `ContainingRange`
 
- _expression_ A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
+_expression_ A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
 
 
 ## Example

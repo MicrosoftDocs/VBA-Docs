@@ -21,7 +21,7 @@ Allows you to temporarily disable automatic layout functionality in Microsoft Vi
 
 _expression_. `AutoLayout`
 
- _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ## Return value

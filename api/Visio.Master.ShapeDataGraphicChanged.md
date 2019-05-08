@@ -24,7 +24,7 @@ Occurs after a data graphic is applied to or deleted from a shape.
 
 Private Sub  _expression_ _'ShapeDataGraphicChanged'(**_ByVal Shape As IVSHAPE_**)
 
- _expression_ An expression that returns a [Master](./Visio.Master.md) object.
+ _expression_ An expression that returns a **[Master](Visio.Master.md)** object.
 
 
 ## Parameters

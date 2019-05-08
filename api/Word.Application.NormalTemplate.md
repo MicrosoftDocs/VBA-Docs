@@ -21,7 +21,7 @@ Returns a  **[Template](Word.Template.md)** object that represents the Normal te
 
 _expression_. `NormalTemplate`
 
- _expression_ A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Adds a new object to a collection.
 
 _expression_.**Add**
 
- _expression_ A variable that represents an [AccelTables](./Visio.AccelTables.md) collection.
+_expression_ A variable that represents an [AccelTables](./Visio.AccelTables.md) collection.
 
 
 ## Return value

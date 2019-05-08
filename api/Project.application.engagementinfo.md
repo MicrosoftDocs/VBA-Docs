@@ -19,7 +19,7 @@ Displays the engagement information dialog box user interface for the  **Resourc
 
 _expression_. `EngagementInfo`( _EngagementUniqueID_,  _EngagementUniqueID_,  _ResourceUniqueID_,  _Description_,  _StartDate_,  _FinishDate_,  _Units_,  _Work_,  _ShowDialog_)
 
- _expression_ A variable that represents a [Application](./Project.Application.md) object.
+_expression_ A variable that represents a [Application](./Project.Application.md) object.
 
 
 ## Parameters

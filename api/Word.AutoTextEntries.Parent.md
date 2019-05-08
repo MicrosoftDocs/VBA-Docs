@@ -21,7 +21,7 @@ Returns an  **Object** that represents the parent object of the specified **Auto
 
 _expression_.**Parent**
 
- _expression_ A variable that represents an '[AutoTextEntries](Word.autotextentries.md)' collection.
+_expression_ A variable that represents an '[AutoTextEntries](Word.autotextentries.md)' collection.
 
 
 ## See also

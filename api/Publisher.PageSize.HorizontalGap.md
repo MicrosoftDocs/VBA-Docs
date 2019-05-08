@@ -21,7 +21,7 @@ Returns a  **Variant** that represents the distance between the right edge of on
 
 _expression_.**HorizontalGap**
 
- _expression_ A variable that represents a  **PageSize** object.
+_expression_ A variable that represents a  **PageSize** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns a  **[Sequences](PowerPoint.Sequences.md)** object that represents anima
 
 _expression_. `InteractiveSequences`
 
- _expression_ A variable that represents an [TimeLine](./PowerPoint.TimeLine.md) object.
+_expression_ A variable that represents an [TimeLine](./PowerPoint.TimeLine.md) object.
 
 
 ## Return value

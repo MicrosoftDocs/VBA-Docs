@@ -18,7 +18,7 @@ Gets the number of items in the  **Months** collection for a specified year from
 
 _expression_.**Count**
 
- _expression_ A variable that represents a 'Months' object.
+_expression_ A variable that represents a 'Months' object.
 
 
 ## Examples

@@ -21,7 +21,7 @@ Removes the selection of shapes from all lists and containers of which the selec
 
 _expression_. `RemoveFromContainers`
 
- _expression_ A variable that represents a '[Selection](Visio.Selection.md)' object.
+_expression_ A variable that represents a '[Selection](Visio.Selection.md)' object.
 
 
 ## Return value

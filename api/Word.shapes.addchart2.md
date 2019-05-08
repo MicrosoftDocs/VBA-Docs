@@ -19,7 +19,7 @@ Adds a chart to the document. Returns a [Shape](Word.Shape.md) object that repre
 
 _expression_. `AddChart2`_(Style,_ _Type,_ _Left,_ _Top,_ _Width,_ _Height,_ _Anchor,_ _NewLayout)_
 
- _expression_ A variable that represents a 'Shapes' object.
+_expression_ A variable that represents a 'Shapes' object.
 
 
 ## Parameters

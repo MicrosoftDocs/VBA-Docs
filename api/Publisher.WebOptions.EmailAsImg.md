@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**EmailAsImg**
 
- _expression_ A variable that represents an  **WebOptions** object.
+_expression_ A variable that represents an  **WebOptions** object.
 
 
 ## Return value

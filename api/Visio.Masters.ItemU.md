@@ -21,7 +21,7 @@ Returns an object from a collection. Read-only.
 
 _expression_. `ItemU`( `_NameUIDOrIndex_` )
 
- _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
+_expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 
 
 ## Parameters

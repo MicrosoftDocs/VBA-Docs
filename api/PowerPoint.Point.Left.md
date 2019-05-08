@@ -21,7 +21,7 @@ Returns a value that represents the distance, in [points](../language/glossary/v
 
 _expression_.**Left**
 
- _expression_ A variable that represents a [Point](./PowerPoint.Point.md) object.
+_expression_ A variable that represents a [Point](./PowerPoint.Point.md) object.
 
 
 ## Return value

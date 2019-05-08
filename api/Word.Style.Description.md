@@ -21,7 +21,7 @@ Returns the description of the specified style. Read-only  **String**.
 
 _expression_.**Description**
 
- _expression_ A variable that represents a '[Style](Word.Style.md)' object.
+_expression_ A variable that represents a '[Style](Word.Style.md)' object.
 
 
 ## Remarks

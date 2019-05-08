@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotTable.ListFormulas
 ms.assetid: 48e2ac3c-25c7-2e41-177a-97954569d3ee
-ms.date: 06/08/2017
+ms.date: 05/08/2019
 localization_priority: Normal
 ---
 
@@ -33,15 +33,11 @@ This method isn't available for OLAP data sources.
 
 This example creates a list of calculated items and fields for the first PivotTable report on worksheet one.
 
-
 ```vb
 Worksheets(1).PivotTables(1).ListFormulas
 ```
 
 
-## See also
 
-
-[PivotTable Object](Excel.PivotTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

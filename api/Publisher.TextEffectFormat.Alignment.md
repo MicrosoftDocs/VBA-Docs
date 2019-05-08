@@ -21,7 +21,7 @@ Returns or sets a  **MsoTextEffectAlignment** constant that represents the align
 
 _expression_.**Alignment**
 
- _expression_ A variable that represents a  **TextEffectFormat** object.
+_expression_ A variable that represents a  **TextEffectFormat** object.
 
 
 ## Remarks

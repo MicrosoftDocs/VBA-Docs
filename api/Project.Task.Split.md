@@ -18,7 +18,7 @@ Splits the task into two portions.
 
 _expression_. `Split`( `_StartSplitOn_`, `_EndSplitOn_` )
 
- _expression_ A variable that represents a [Task](./Project.Task.md) object.
+_expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Parameters

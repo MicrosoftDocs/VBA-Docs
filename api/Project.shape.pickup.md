@@ -14,7 +14,7 @@ Copies the formatting of a shape.
 
 _expression_. `PickUp`
 
- _expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a 'Shape' object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Positions the vertical split bar in a sheet view to display the specified number
 
 _expression_. `SetSplitBar`( `_ShowColumns_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

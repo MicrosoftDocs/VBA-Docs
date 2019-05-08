@@ -21,7 +21,7 @@ Sends a command or series of commands to an application through the specified dy
 
 _expression_. `DDEExecute`( `_Channel_` , `_Command_` )
 
- _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
+_expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
 
 ## Parameters

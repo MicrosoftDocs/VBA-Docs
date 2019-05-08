@@ -21,7 +21,7 @@ Returns or sets the single character used to separate text into cells when text 
 
 _expression_. `DefaultTableSeparator`
 
- _expression_ A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Remarks

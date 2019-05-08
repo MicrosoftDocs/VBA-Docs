@@ -19,7 +19,7 @@ Protects the specified document from unauthorized changes.
 
 _expression_. `Protect`_(Type,_ _NoReset,_ _Password,_ _UseIRM,_ _EnforceStyleLock)_
 
- _expression_ A variable that represents a [Document](./Word.Document.md) object.
+_expression_ A variable that represents a [Document](./Word.Document.md) object.
 
 
 ## Parameters

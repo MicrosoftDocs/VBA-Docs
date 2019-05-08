@@ -21,7 +21,7 @@ Returns a  **ShapeRange** object representing one or all of the shapes placed in
 
 _expression_.**FindShapeByWizardTag**(**_WizardTag_**,  **_Instance_**)
 
- _expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a  **Document** object.
 
 
 ## Parameters

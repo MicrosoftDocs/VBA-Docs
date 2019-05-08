@@ -18,6 +18,6 @@ Deletes the  **SplitPart** object from a **SplitParts** collection.
 
 _expression_.**Delete**
 
- _expression_ A variable that represents a [SplitPart](./Project.SplitPart.md) object.
+_expression_ A variable that represents a [SplitPart](./Project.SplitPart.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

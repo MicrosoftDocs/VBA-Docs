@@ -16,7 +16,7 @@ Returns a [Selection](Visio.Selection.md) object that represents the source shap
 
 _expression_. `SelectionSource`
 
- _expression_ A variable that represents a 'ReplaceShapesEvent' object.
+_expression_ A variable that represents a 'ReplaceShapesEvent' object.
 
 
 ## Property value

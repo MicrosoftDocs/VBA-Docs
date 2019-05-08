@@ -21,7 +21,7 @@ Returns the  **MenuSets** collection of a **UIObject** object. Read-only.
 
 _expression_. `MenuSets`
 
- _expression_ A variable that represents a [UIObject](./Visio.UIObject.md) object.
+_expression_ A variable that represents a [UIObject](./Visio.UIObject.md) object.
 
 
 ## Return value

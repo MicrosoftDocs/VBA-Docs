@@ -14,7 +14,7 @@ Gets a  **ConnectorFormat** object that contains connector formatting properties
 
 _expression_. `ConnectorFormat`
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Remarks

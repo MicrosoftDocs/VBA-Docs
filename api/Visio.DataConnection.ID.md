@@ -24,7 +24,7 @@ Gets the unique identifier of the  **DataConnection** object assigned by Visio. 
 
 _expression_. `ID`
 
- _expression_ A variable that represents a [DataConnection](./Visio.DataConnection.md) object.
+_expression_ A variable that represents a [DataConnection](./Visio.DataConnection.md) object.
 
 
 ## Return value

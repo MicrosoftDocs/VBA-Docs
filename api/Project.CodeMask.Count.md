@@ -18,7 +18,7 @@ Gets the number of items in the  **CodeMask** object. Read-only **Long**.
 
 _expression_.**Count**
 
- _expression_ A variable that represents a 'CodeMask' object.
+_expression_ A variable that represents a 'CodeMask' object.
 
 
 ## Remarks

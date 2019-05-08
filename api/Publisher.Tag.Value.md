@@ -21,7 +21,7 @@ Returns or sets a  **Variant** that represents the value of a tag of a shape, pa
 
 _expression_.**Value**
 
- _expression_ A variable that represents a  **Tag** object.
+_expression_ A variable that represents a  **Tag** object.
 
 
 ## Example

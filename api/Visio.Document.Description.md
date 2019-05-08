@@ -21,7 +21,7 @@ Gets or sets the description of a document, one of a document's properties. Read
 
 _expression_.**Description**
 
- _expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ## Return value

@@ -18,7 +18,7 @@ Adds one or more predecessors to the task.
 
 _expression_. `LinkPredecessors`( `_Tasks_`, `_Link_`, `_Lag_` )
 
- _expression_ A variable that represents a [Task](./Project.Task.md) object.
+_expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Parameters

@@ -18,7 +18,7 @@ Returns a list of all of the projects that have deliverables.
 
 _expression_. `DeliverablesGetProviderProjects`
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Return value

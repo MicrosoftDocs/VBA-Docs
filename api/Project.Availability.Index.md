@@ -18,7 +18,7 @@ Gets the index of an  **Availability** object in the containing **Availabilities
 
 _expression_.**Index**
 
- _expression_ A variable that represents an [Availability](./Project.Availability.md) object.
+_expression_ A variable that represents an [Availability](./Project.Availability.md) object.
 
 
 ## Remarks

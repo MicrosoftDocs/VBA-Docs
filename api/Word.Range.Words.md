@@ -21,7 +21,7 @@ Returns a  **Words** collection that represents all the words in a range. Read-o
 
 _expression_. `Words`
 
- _expression_ A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks

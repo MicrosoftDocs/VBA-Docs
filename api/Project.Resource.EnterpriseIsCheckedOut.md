@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `EnterpriseIsCheckedOut`
 
- _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
+_expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 
 ## Remarks

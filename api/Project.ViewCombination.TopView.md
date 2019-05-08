@@ -21,6 +21,6 @@ Gets or sets a  **[ViewSingle](Project.ViewSingle.md)** object representing the 
 
 _expression_. `TopView`
 
- _expression_ A variable that represents a [ViewCombination](./Project.ViewCombination.md) object.
+_expression_ A variable that represents a [ViewCombination](./Project.ViewCombination.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

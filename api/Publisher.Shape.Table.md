@@ -21,7 +21,7 @@ Returns a  **Table** object that represents a table in Microsoft Publisher.
 
 _expression_.**Table**
 
- _expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a  **Shape** object.
 
 
 ## Example

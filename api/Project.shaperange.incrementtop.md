@@ -14,7 +14,7 @@ Moves each shape in the shape range vertically by the specified number of points
 
 _expression_. `IncrementTop` _(Increment)_
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Parameters

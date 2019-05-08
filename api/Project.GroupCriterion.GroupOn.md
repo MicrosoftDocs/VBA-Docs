@@ -18,7 +18,7 @@ Gets or sets the type of grouping for a field used as a criterion in a group def
 
 _expression_. `GroupOn`
 
- _expression_ A variable that represents an [GroupCriterion](./Project.GroupCriterion.md) object.
+_expression_ A variable that represents an [GroupCriterion](./Project.GroupCriterion.md) object.
 
 
 ## Remarks

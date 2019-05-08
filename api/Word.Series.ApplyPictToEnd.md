@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `ApplyPictToEnd`
 
- _expression_ A variable that represents a '[Series](Word.Series.md)' object.
+_expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
 
 ## Example

@@ -18,7 +18,7 @@ Occurs before one or more assignments are created. Uses the  **EventInfo** objec
 
 _expression_. `ProjectBeforeAssignmentNew2`( `_pj_`, `_Info_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

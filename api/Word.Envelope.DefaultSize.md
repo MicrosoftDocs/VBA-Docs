@@ -21,7 +21,7 @@ Returns or sets the default envelope size. Read/write  **String**.
 
 _expression_. `DefaultSize`
 
- _expression_ A variable that represents a '[Envelope](Word.Envelope.md)' object.
+_expression_ A variable that represents a '[Envelope](Word.Envelope.md)' object.
 
 
 ## Remarks

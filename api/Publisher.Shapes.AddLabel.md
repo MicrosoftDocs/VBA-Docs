@@ -21,7 +21,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing a text label to 
 
 _expression_.**AddLabel**(**_Orientation_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
 
- _expression_ A variable that represents a  **Shapes** object.
+_expression_ A variable that represents a  **Shapes** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Describes the position of tick-mark labels on the specified axis. Read/write  **
 
 _expression_. `TickLabelPosition`
 
- _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
+_expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Example

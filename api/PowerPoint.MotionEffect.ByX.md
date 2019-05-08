@@ -21,7 +21,7 @@ Sets or returns a  **Single** that represents scaling or moving an object horizo
 
 _expression_. `ByX`
 
- _expression_ A variable that represents a [MotionEffect](./PowerPoint.MotionEffect.md) object.
+_expression_ A variable that represents a [MotionEffect](./PowerPoint.MotionEffect.md) object.
 
 
 ## Return value

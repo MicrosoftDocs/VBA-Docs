@@ -21,7 +21,7 @@ Removes all items from a drop-down form field.
 
 _expression_.**Clear**
 
- _expression_ A variable that represents a '[ListEntries](Word.listentries.md)' object.
+_expression_ A variable that represents a '[ListEntries](Word.listentries.md)' object.
 
 
 ## Example

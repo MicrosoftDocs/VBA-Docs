@@ -21,7 +21,7 @@ Specifies whether you can execute macros and process events in a document's Micr
 
 _expression_. `MacrosEnabled`
 
- _expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ## Return value

@@ -14,7 +14,7 @@ Gets a value that indicates whether the shape contains a table. Read-only  **[Ms
 
 _expression_. `HasTable`
 
- _expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a 'Shape' object.
 
 
 ## Property value

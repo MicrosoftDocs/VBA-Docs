@@ -18,7 +18,7 @@ Returns the border of the object. Read-only  **[ChartBorder](PowerPoint.ChartBor
 
 _expression_.**Border**
 
- _expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)' object.
+_expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)' object.
 
 
 ## See also

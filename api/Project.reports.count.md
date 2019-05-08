@@ -14,7 +14,7 @@ Gets the number of items in the  **Reports** collection. Read-only **Long**.
 
 _expression_.**Count**
 
- _expression_ A variable that represents a 'Reports' object.
+_expression_ A variable that represents a 'Reports' object.
 
 
 ## Remarks

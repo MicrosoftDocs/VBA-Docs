@@ -21,7 +21,7 @@ Returns the path and file name of the header source attached to the specified ma
 
 _expression_. `HeaderSourceName`
 
- _expression_ A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
+_expression_ A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 
 
 ## Example

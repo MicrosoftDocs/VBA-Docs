@@ -18,7 +18,7 @@ Occurs before the application closes a document in response to a user action in 
 
 Private Sub  _expression_ _'QueryCancelDocumentClose'(**_ByVal doc As [IVDOCUMENT]_**)
 
- _expression_ A variable that represents an [Application](./Visio.Application.md) object.
+_expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ## Parameters

@@ -14,7 +14,7 @@ Gets the parent of the  **Report** object. Read-only **Project**.
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a 'Report' object.
+_expression_ A variable that represents a 'Report' object.
 
 
 ## Remarks

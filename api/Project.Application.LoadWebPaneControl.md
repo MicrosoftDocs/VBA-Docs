@@ -21,7 +21,7 @@ Supports the Web pane that hosts the  **Task Drivers**,  **Project/Resource Impo
 
 _expression_. `LoadWebPaneControl`( `_TargetPage_`, `_WrapperPage_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

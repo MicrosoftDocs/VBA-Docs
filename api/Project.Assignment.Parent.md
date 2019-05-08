@@ -18,7 +18,7 @@ Gets the parent of the  **Assignment** object. Read-only **Object**.
 
 _expression_.**Parent**
 
- _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
+_expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns an  **[Application](PowerPoint.Application.md)** object that represents 
 
 _expression_.**Application**
 
- _expression_ A variable that represents a [Panes](./PowerPoint.Panes.md) object.
+_expression_ A variable that represents a [Panes](./PowerPoint.Panes.md) object.
 
 
 ## Return value

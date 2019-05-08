@@ -21,7 +21,7 @@ Returns a  **Revisions** collection that represents the tracked changes in the d
 
 _expression_. `Revisions`
 
- _expression_ A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

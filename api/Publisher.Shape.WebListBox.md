@@ -21,7 +21,7 @@ Returns the  **[WebListBox](Publisher.WebListBox.md)** object associated with th
 
 _expression_.**WebListBox**
 
- _expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a  **Shape** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns a  **PageSetup** object that's associated with the specified document, r
 
 _expression_.**PageSetup**
 
- _expression_ A variable that represents a '[Sections](Word.sections.md)' collection.
+_expression_ A variable that represents a '[Sections](Word.sections.md)' collection.
 
 
 ## Example

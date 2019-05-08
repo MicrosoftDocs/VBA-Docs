@@ -21,7 +21,7 @@ Returns or sets the height, in [points](../language/glossary/vbe-glossary.md#poi
 
 _expression_.**Height**
 
- _expression_ A variable that represents a '[ChartArea](Word.ChartArea.md)' object.
+_expression_ A variable that represents a '[ChartArea](Word.ChartArea.md)' object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns or sets a  **TabStops** collection that represents all the custom tab st
 
 _expression_. `TabStops`
 
- _expression_ A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
+_expression_ A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
 ## Remarks

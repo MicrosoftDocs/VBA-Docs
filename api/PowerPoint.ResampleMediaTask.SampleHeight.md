@@ -21,7 +21,7 @@ Returns the resolution height of the sample. Read-only.
 
 _expression_. `SampleHeight`
 
- _expression_ A variable that represents a [ResampleMediaTask](./PowerPoint.ResampleMediaTask.md) object.
+_expression_ A variable that represents a [ResampleMediaTask](./PowerPoint.ResampleMediaTask.md) object.
 
 
 ## See also

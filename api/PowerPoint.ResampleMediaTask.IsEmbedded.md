@@ -21,7 +21,7 @@ Returns whether the sample is embedded. Read-only.
 
 _expression_. `IsEmbedded`
 
- _expression_ A variable that represents a [ResampleMediaTask](./PowerPoint.ResampleMediaTask.md) object.
+_expression_ A variable that represents a [ResampleMediaTask](./PowerPoint.ResampleMediaTask.md) object.
 
 
 ## See also

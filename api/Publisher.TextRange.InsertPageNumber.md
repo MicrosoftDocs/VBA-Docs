@@ -21,7 +21,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents a page
 
 _expression_.**InsertPageNumber**(**_Type_**)
 
- _expression_ A variable that represents a  **TextRange** object.
+_expression_ A variable that represents a  **TextRange** object.
 
 
 ## Parameters

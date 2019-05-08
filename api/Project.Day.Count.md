@@ -18,7 +18,7 @@ Gets the number of days in the  **Day** object, which is the value 1. Read-only 
 
 _expression_.**Count**
 
- _expression_ A variable that represents a [Day](./Project.Day.md) object.
+_expression_ A variable that represents a [Day](./Project.Day.md) object.
 
 
 ## Example

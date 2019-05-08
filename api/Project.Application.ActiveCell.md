@@ -21,7 +21,7 @@ Gets a  **[Cell](Project.Cell.md)** object that represents the active cell. Read
 
 _expression_. `ActiveCell`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Gets the ordinal position of a  **Menu** object in a **Menus** collection. Read-
 
 _expression_.**Index**
 
- _expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
+_expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
 
 
 ## Return value

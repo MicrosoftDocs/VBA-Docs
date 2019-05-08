@@ -18,7 +18,7 @@ localization_priority: Normal
 
 _expression_. `DisplayRecentFiles`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

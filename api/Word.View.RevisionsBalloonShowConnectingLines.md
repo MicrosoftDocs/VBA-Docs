@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `RevisionsBalloonShowConnectingLines`
 
- _expression_ A variable that represents a '[View](Word.View.md)' object.
+_expression_ A variable that represents a '[View](Word.View.md)' object.
 
 
 ## Example

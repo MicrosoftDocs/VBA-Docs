@@ -21,7 +21,7 @@ Gets or sets the blank page size for the current publication. Read/write.
 
 _expression_.**PageSize**
 
- _expression_ A variable that represents a  **PageSetup** object.
+_expression_ A variable that represents a  **PageSetup** object.
 
 
 ## Return value

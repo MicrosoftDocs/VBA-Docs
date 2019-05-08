@@ -21,7 +21,7 @@ Indicates whether the media controls are visible. Read-only.
 
 _expression_. `MediaControlsVisible`
 
- _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
+_expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
 ## Return value

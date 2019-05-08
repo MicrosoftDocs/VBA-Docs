@@ -18,7 +18,7 @@ Indicates whether the assignment is on a summary task. Read-only  **String**.
 
 _expression_.**Summary**
 
- _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
+_expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 
 ## Remarks

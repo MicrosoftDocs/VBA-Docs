@@ -21,7 +21,7 @@ Returns a  **Pane** object that represents the next document pane in the collect
 
 _expression_.**Next**
 
- _expression_ A variable that represents a '[Pane](Word.Pane.md)' object.
+_expression_ A variable that represents a '[Pane](Word.Pane.md)' object.
 
 
 ## See also

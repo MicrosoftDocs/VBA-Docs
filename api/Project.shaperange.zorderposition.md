@@ -14,7 +14,7 @@ Gets the position of the shape range in the z-order. Read-only  **Long**.
 
 _expression_. `ZOrderPosition`
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Remarks

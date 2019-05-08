@@ -14,7 +14,7 @@ Gets a  **TextFrame** object that contains the alignment and anchoring propertie
 
 _expression_. `TextFrame`
 
- _expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Property value

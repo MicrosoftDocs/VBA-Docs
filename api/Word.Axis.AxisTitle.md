@@ -21,7 +21,7 @@ Returns the title of the specified axis. Read-only  **[AxisTitle](Word.AxisTitle
 
 _expression_.**AxisTitle**
 
- _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
+_expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Example

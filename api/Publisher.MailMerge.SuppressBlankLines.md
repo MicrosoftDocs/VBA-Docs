@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**SuppressBlankLines**
 
- _expression_ A variable that represents a  **MailMerge** object.
+_expression_ A variable that represents a  **MailMerge** object.
 
 
 ## Return value

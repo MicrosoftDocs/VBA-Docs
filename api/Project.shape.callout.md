@@ -14,7 +14,7 @@ Gets callout formatting properties for the shape, when the  **Shape** object rep
 
 _expression_. `Callout`
 
- _expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a 'Shape' object.
 
 
 ## Property value

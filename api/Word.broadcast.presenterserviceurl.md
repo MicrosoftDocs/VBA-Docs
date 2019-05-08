@@ -19,7 +19,7 @@ If a broadcast is in progress, returns a  **String** that represents the URL of 
 
 _expression_. `PresenterServiceUrl`
 
- _expression_ A variable that represents a 'Broadcast' object.
+_expression_ A variable that represents a 'Broadcast' object.
 
 
 ## Remarks

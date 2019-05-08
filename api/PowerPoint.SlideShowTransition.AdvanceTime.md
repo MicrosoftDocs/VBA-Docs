@@ -21,7 +21,7 @@ Returns or sets the amount of time, in seconds, after which the specified slide 
 
 _expression_. `AdvanceTime`
 
- _expression_ A variable that represents a [SlideShowTransition](./PowerPoint.SlideShowTransition.md) object.
+_expression_ A variable that represents a [SlideShowTransition](./PowerPoint.SlideShowTransition.md) object.
 
 
 ## Return value

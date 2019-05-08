@@ -21,7 +21,7 @@ Returns the master from which the  **Shape** object was created. Read-only.
 
 _expression_. `Master`
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Return value

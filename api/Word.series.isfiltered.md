@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that determines whether the specified chart serie
 
 _expression_. `IsFiltered`
 
- _expression_ A variable that represents a [Series](./Word.Series.md) object.
+_expression_ A variable that represents a [Series](./Word.Series.md) object.
 
 
 ## Property value

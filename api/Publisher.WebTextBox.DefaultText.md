@@ -21,7 +21,7 @@ Returns or sets a  **String** that represents the default text in a Web text box
 
 _expression_.**DefaultText**
 
- _expression_ A variable that represents a  **WebTextBox** object.
+_expression_ A variable that represents a  **WebTextBox** object.
 
 
 ## Return value

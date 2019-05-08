@@ -21,7 +21,7 @@ Swaps the begin and endpoints of a one-dimensional (1D) shape.
 
 _expression_. `SwapEnds`
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Return value

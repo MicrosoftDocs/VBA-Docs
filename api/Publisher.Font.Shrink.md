@@ -21,7 +21,7 @@ Decreases the font size to the next available size. If the selection or range co
 
 _expression_.**Shrink**
 
- _expression_ A variable that represents a  **Font** object.
+_expression_ A variable that represents a  **Font** object.
 
 
 ## Remarks

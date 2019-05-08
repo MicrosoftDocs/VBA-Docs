@@ -21,7 +21,7 @@ Returns the number of items in the  **[AutoTextEntries](Word.autotextentries.md)
 
 _expression_.**Count**
 
- _expression_ A variable that represents a '[AutoTextEntries](Word.autotextentries.md)' object.
+_expression_ A variable that represents a '[AutoTextEntries](Word.autotextentries.md)' object.
 
 
 ## See also

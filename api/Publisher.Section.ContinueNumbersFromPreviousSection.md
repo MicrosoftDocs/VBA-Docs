@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**ContinueNumbersFromPreviousSection**
 
- _expression_ A variable that represents a  **Section** object.
+_expression_ A variable that represents a  **Section** object.
 
 
 ## Return value

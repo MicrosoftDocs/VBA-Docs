@@ -14,7 +14,7 @@ Adds a Bézier curve to a report, and returns a  **Shape** object that represent
 
 _expression_. `AddCurve` _(SafeArrayOfPoints)_
 
- _expression_ A variable that represents a 'Shapes' object.
+_expression_ A variable that represents a 'Shapes' object.
 
 
 ## Parameters

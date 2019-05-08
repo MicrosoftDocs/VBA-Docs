@@ -21,7 +21,7 @@ Returns a  **[CodeMaskLevel](Project.CodeMaskLevel.md)** object.
 
 _expression_.**Add** (_Sequence_, _Length_, _Separator_)
 
- _expression_ A variable that represents a 'CodeMask' object.
+_expression_ A variable that represents a 'CodeMask' object.
 
 
 ## Parameters

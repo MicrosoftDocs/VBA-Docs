@@ -21,7 +21,7 @@ Returns the class ID string of a shape that represents an ActiveX control or an 
 
 _expression_. `ClassID`
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Return value

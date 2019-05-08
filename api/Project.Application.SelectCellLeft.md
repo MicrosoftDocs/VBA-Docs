@@ -21,7 +21,7 @@ Selects cells to the left of the current selection.
 
 _expression_. `SelectCellLeft`( `_NumCells_`, `_Extend_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

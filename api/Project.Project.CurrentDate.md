@@ -21,7 +21,7 @@ Gets or sets the current date for a project. Read/write  **Variant**.
 
 _expression_. `CurrentDate`
 
- _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

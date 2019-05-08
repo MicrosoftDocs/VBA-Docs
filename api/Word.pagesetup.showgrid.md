@@ -19,7 +19,7 @@ localization_priority: Normal
 
 _expression_. `ShowGrid`
 
- _expression_ A variable that represents a [PageSetup](./Word.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](./Word.PageSetup.md) object.
 
 
 ## Property value

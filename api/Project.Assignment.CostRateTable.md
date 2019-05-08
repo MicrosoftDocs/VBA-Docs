@@ -18,6 +18,6 @@ Gets or sets the cost rate table in effect for the assignment. Read/write  **Var
 
 _expression_. `CostRateTable`
 
- _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
+_expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

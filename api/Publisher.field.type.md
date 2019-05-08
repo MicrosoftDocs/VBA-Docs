@@ -19,7 +19,7 @@ Specifies the field type. Read-only.
 
 _expression_.**Type**
 
- _expression_ A variable that represents a  **Field** object.
+_expression_ A variable that represents a  **Field** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Determines whether the text frame of one shape can be linked to the text frame o
 
 _expression_.**ValidLinkTarget**(**_LinkTarget_**)
 
- _expression_ A variable that represents a  **TextFrame** object.
+_expression_ A variable that represents a  **TextFrame** object.
 
 
 ## Parameters

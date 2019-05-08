@@ -21,7 +21,7 @@ Gets a  **[Project](Project.Project.md)** object that represents the active proj
 
 _expression_. `ActiveProject`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Example

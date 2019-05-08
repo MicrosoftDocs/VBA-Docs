@@ -21,7 +21,7 @@ Sets the value of a local custom field or enterprise custom field for the select
 
 _expression_. `SetField`( `_Field_`, `_Value_`, `_Create_` )
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters

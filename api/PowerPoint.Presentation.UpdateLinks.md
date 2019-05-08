@@ -21,7 +21,7 @@ Updates linked OLE objects in the specified presentation.
 
 _expression_. `UpdateLinks`
 
- _expression_ A variable that represents an [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents an [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ## Example

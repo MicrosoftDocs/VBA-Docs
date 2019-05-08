@@ -21,7 +21,7 @@ Returns or sets the color of the font. Read/write  **Variant**.
 
 _expression_.**ColorIndex**
 
- _expression_ A variable that represents a '[ChartFont](Word.ChartFont.md)' object.
+_expression_ A variable that represents a '[ChartFont](Word.ChartFont.md)' object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns or sets a  **Long** that represents the number of the first record to be
 
 _expression_.**FirstRecord**
 
- _expression_ A variable that represents a  **MailMergeDataSource** object.
+_expression_ A variable that represents a  **MailMergeDataSource** object.
 
 
 ## Return value

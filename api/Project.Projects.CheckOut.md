@@ -21,7 +21,7 @@ Checks out the specified file if it is stored in a SharePoint document library.
 
 _expression_. `CheckOut`( `_FileName_` )
 
- _expression_ A variable that represents a 'Projects' object.
+_expression_ A variable that represents a 'Projects' object.
 
 
 ## Parameters

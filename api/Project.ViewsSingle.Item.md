@@ -18,7 +18,7 @@ Gets a single  **View** object from the **ViewsSingle** collection. Read-only **
 
 _expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a 'ViewsSingle' object.
+_expression_ A variable that represents a 'ViewsSingle' object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns or sets the formula for the object, using R1C1-style notation in the lan
 
 _expression_.**FormulaR1C1**
 
- _expression_ A variable that represents a '[DataLabel](Word.DataLabel.md)' object.
+_expression_ A variable that represents a '[DataLabel](Word.DataLabel.md)' object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `CalculateOnExit`
 
- _expression_ A variable that represents a '[FormField](Word.FormField.md)' object.
+_expression_ A variable that represents a '[FormField](Word.FormField.md)' object.
 
 
 ## Remarks

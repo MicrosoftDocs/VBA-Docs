@@ -21,7 +21,7 @@ Determines whether toolbars and menu bars are visible. Read/write.
 
 _expression_. `ShowToolbar`
 
- _expression_ A variable that represents an [Application](./Visio.Application.md) object.
+_expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ## Return value

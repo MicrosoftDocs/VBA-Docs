@@ -21,7 +21,7 @@ Gets or sets the additional path for Visual Reports templates. Read/write  **Str
 
 _expression_. `VisualReportsAdditionalTemplatePath`
 
- _expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

@@ -19,7 +19,7 @@ Specifies whether a bin for values above the [BinsOverflowValue](Excel.chartgrou
 
 _expression_.**BinsOverflowEnabled**
 
- _expression_ A variable that represents a [ChartGroup](./Word.ChartGroup.md) object.
+_expression_ A variable that represents a [ChartGroup](./Word.ChartGroup.md) object.
 
 
 ## See also

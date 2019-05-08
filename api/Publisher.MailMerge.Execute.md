@@ -21,7 +21,7 @@ Performs the specified mail merge or catalog merge operation. Returns a  **[Docu
 
 _expression_.**Execute**(**_Pause_**,  **_Destination_**,  **_FileName_**)
 
- _expression_ A variable that represents a  **MailMerge** object.
+_expression_ A variable that represents a  **MailMerge** object.
 
 
 ## Parameters

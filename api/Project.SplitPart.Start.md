@@ -18,6 +18,6 @@ Gets or sets the start date of the task split part. Read/write  **Variant**.
 
 _expression_.**Start**
 
- _expression_ A variable that represents a [SplitPart](./Project.SplitPart.md) object.
+_expression_ A variable that represents a [SplitPart](./Project.SplitPart.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

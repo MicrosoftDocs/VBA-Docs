@@ -21,7 +21,7 @@ Returns a  **LinkFormat** object that represents the link options of the specifi
 
 _expression_. `LinkFormat`
 
- _expression_ A variable that represents a '[Field](Word.Field.md)' object.
+_expression_ A variable that represents a '[Field](Word.Field.md)' object.
 
 
 ## Example
