@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Options.PageAlignmentGuides property (Word)
 
-Returns or sets a  **Boolean** that specifies whether page alignment guides are displayed in the user interface. Read-write.
+Returns or sets a  **Boolean** that specifies whether page alignment guides are displayed in the user interface. Read/write.
 
 
 ## Syntax

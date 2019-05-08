@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Document.ChartDataPointTrack property (Word)
 
-Returns or sets a  **Boolean** that specifies whether charts in the active document use cell-reference data-point tracking. Read-write.
+Returns or sets a  **Boolean** that specifies whether charts in the active document use cell-reference data-point tracking. Read/write.
 
 
 ## Syntax

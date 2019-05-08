@@ -22,7 +22,7 @@ _expression_.**SlicerCacheType**
 _expression_ A variable that represents a **[SlicerCache](Excel.SlicerCache.md)** object.
 
 
-## Returns
+## Return value
 
 **[XlSlicerCacheType](Excel.xlslicercachetype.md)** enumeration
 

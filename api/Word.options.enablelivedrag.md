@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Options.EnableLiveDrag property (Word)
 
-Returns or sets a  **Boolean** that is **True** if live drag is enabled. Read-write.
+Returns or sets a  **Boolean** that is **True** if live drag is enabled. Read/write.
 
 
 ## Syntax

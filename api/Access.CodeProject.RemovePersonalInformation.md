@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CodeProject.RemovePersonalInformation property (Access)
 
-Returns or sets a **Boolean** indicating whether personal information about the user is stored in the specified project. **True** if personal information is removed. Read-write.
+Returns or sets a **Boolean** indicating whether personal information about the user is stored in the specified project. **True** if personal information is removed. Read/write.
 
 
 ## Syntax

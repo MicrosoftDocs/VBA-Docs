@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Options.EnableProofingToolsAdvertisement property (Word)
 
-Returns or sets a  **Boolean** value that, when **True**, specifies that users be notified when additional proofing tools are available for download. Read-write.
+Returns or sets a  **Boolean** value that, when **True**, specifies that users be notified when additional proofing tools are available for download. Read/write.
 
 
 ## Syntax

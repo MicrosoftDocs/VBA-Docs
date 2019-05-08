@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotTable.PivotSelectionStandard
 ms.assetid: 72252681-65ec-885b-466d-fb890db812a4
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
 
 # PivotTable.PivotSelectionStandard property (Excel)
 
-Returns or sets a  **String** indicating the PivotTable selection in standard PivotTable report format using English (United States) settings. Read/write.
+Returns or sets a **String** indicating the PivotTable selection in standard PivotTable report format using English (United States) settings. Read/write.
 
 
 ## Syntax
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** 
 
 ## Remarks
 
-The  **PivotSelectionStandard** property is "international-friendly" whereas the **PivotSelection** method is not.
+The **PivotSelectionStandard** property is "international-friendly" whereas the **[PivotSelection](excel.pivottable.pivotselection.md)** property is not.
 
 
 ## Example
 
-This example selects a field titled "1.57" in the PivotTable and inserts a blank column field before it. The example assumes that a PivotTable exists on the active worksheet that contains a column field titled "1.57".
-
+This example selects a field titled 1.57 in the PivotTable and inserts a blank column field before it. The example assumes that a PivotTable exists on the active worksheet that contains a column field titled 1.57.
 
 ```vb
 Sub CheckPivotSelectionStandard() 
@@ -48,9 +47,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[PivotTable Object](Excel.PivotTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotTable.PageFieldStyle
 ms.assetid: 8871fad2-211f-8c25-efe8-09d385c02a4e
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
 
 # PivotTable.PageFieldStyle property (Excel)
 
-Returns or sets the style used in the bound page field area. The default value is a null string (no style is applied by default). Read/write  **String**.
+Returns or sets the style used in the bound page field area. The default value is a **null** string (no style is applied by default). Read/write **String**.
 
 
 ## Syntax
@@ -33,16 +33,12 @@ This style is used as the default style for the background area, and it's applie
 
 This example sets the page field area of the first PivotTable report on worksheet one to the PurpleAndGold style.
 
-
 ```vb
 Worksheets(1).PivotTables("Pivot1") _ 
  .PageFieldStyle = "PurpleAndGold"
 ```
 
 
-## See also
 
-
-[PivotTable Object](Excel.PivotTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

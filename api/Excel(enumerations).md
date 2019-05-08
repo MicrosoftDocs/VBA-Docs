@@ -245,7 +245,7 @@ This section contains documentation for the enumerations in the Excel object mod
 - [XlSpecialCellsValue](Excel.XlSpecialCellsValue.md)               
 - [XlStdColorScale](Excel.XlStdColorScale.md)                       
 - [XlSubscribeToFormat](Excel.XlSubscribeToFormat.md)               
-- [XlSubtototalLocationType](Excel.XlSubtototalLocationType.md)     
+- [XlSubtotalLocationType](Excel.XlSubtotalLocationType.md)     
 - [XlSummaryColumn](Excel.XlSummaryColumn.md)                       
 - [XlSummaryReportType](Excel.XlSummaryReportType.md)               
 - [XlSummaryRow](Excel.XlSummaryRow.md)                             

@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotTable.PrintTitles
 ms.assetid: a8138146-bfe9-1af9-c101-0c095c4a91a5
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
 
 # PivotTable.PrintTitles property (Excel)
 
- **True** if the print titles for the worksheet are set based on the PivotTable report. **False** if the print titles for the worksheet are used. The default value is **False**. Read/write **Boolean**.
+**True** if the print titles for the worksheet are set based on the PivotTable report. **False** if the print titles for the worksheet are used. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -33,15 +33,11 @@ The row print titles are set to the rows that contain the PivotTable report's co
 
 This example specifies that the print title set for the worksheet is printed when the fourth PivotTable report on the active worksheet is printed.
 
-
 ```vb
 ActiveSheet.PivotTables("PivotTable4").PrintTitles = True
 ```
 
 
-## See also
 
-
-[PivotTable Object](Excel.PivotTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

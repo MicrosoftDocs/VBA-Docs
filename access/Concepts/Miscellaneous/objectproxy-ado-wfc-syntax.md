@@ -31,7 +31,7 @@ public Object ObjectProxy .call( String method , Object[] args )
 ```
 
 
-## Returns
+## Return value
 
 Object
     

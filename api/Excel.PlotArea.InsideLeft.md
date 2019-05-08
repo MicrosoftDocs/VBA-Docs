@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PlotArea.InsideLeft property (Excel)
 
-Returns the distance from the chart edge to the inside left edge of the plot area, in points. Read-write  **Double**.
+Returns the distance from the chart edge to the inside left edge of the plot area, in points. Read/write  **Double**.
 
 
 ## Syntax

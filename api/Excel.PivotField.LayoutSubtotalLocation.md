@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotField.LayoutSubtotalLocation property (Excel)
 
-Returns or sets the position of the PivotTable field subtotals in relation to (either above or below) the specified field. Read/write **[XlSubtototalLocationType](Excel.XlSubtototalLocationType.md)**.
+Returns or sets the position of the PivotTable field subtotals in relation to (either above or below) the specified field. Read/write **[XlSubtotalLocationType](Excel.XlSubtotalLocationType.md)**.
 
 
 ## Syntax

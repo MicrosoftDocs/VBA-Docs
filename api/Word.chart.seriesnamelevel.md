@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Chart.SeriesNameLevel property (Word)
 
-Returns or sets an [XlSeriesNameLevel](Word.xlseriesnamelevel.md) constant that specifies the source level of the series names. Read-write.
+Returns or sets an [XlSeriesNameLevel](Word.xlseriesnamelevel.md) constant that specifies the source level of the series names. Read/write.
 
 
 ## Syntax

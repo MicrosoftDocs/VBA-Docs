@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotTable.ViewCalculatedMembers
 ms.assetid: 2d1f752a-0bab-baa6-a9b0-e158cc9a4f09
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
 
 # PivotTable.ViewCalculatedMembers property (Excel)
 
-When set to  **True** (default), calculated members for Online Analytical Processing (OLAP) PivotTables can be viewed. Read/write **Boolean**.
+When set to **True** (default), calculated members for Online Analytical Processing (OLAP) PivotTables can be viewed. Read/write **Boolean**.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** 
 ## Example
 
 This example determines if calculated members can be viewed on the PivotTable and notifies the user. It assumes that a PivotTable exists on the active worksheet.
-
 
 ```vb
 Sub CheckViewCalculatedMembers() 
@@ -47,9 +46,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[PivotTable Object](Excel.PivotTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

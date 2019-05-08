@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotTable.RefreshTable
 ms.assetid: 778743e3-c53a-23e3-73c6-c18339cd1ac2
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
 
 # PivotTable.RefreshTable method (Excel)
 
-Refreshes the PivotTable report from the source data. Returns  **True** if it's successful.
+Refreshes the PivotTable report from the source data. Returns **True** if it's successful.
 
 
 ## Syntax
@@ -33,16 +33,11 @@ Boolean
 
 This example refreshes the PivotTable report.
 
-
 ```vb
 Set pvtTable = Worksheets("Sheet1").Range("A3").PivotTable 
 pvtTable.RefreshTable
 ```
 
 
-## See also
-
-
-[PivotTable Object](Excel.PivotTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

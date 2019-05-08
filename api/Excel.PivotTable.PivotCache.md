@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotTable.PivotCache
 ms.assetid: 82602154-783d-3f78-b354-0dabfdc34c98
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
 
 # PivotTable.PivotCache method (Excel)
 
-Returns a  **[PivotCache](Excel.PivotCache.md)** object that represents the cache for the specified PivotTable report. Read-only.
+Returns a **[PivotCache](Excel.PivotCache.md)** object that represents the cache for the specified PivotTable report. Read-only.
 
 
 ## Syntax
@@ -33,7 +33,6 @@ PivotCache
 
 This example causes the PivotTable cache for the first PivotTable report on worksheet one to be optimized when it's constructed.
 
-
 ```vb
 Worksheets(1).PivotTables("Pivot1") _ 
  .PivotCache.OptimizeCache = True 
@@ -41,9 +40,6 @@ Worksheets(1).PivotTables("Pivot1") _
 ```
 
 
-## See also
 
-
-[PivotTable Object](Excel.PivotTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

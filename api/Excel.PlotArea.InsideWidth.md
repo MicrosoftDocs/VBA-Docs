@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PlotArea.InsideWidth property (Excel)
 
-Returns the inside width of the plot area, in points. Read-write  **Double**.
+Returns the inside width of the plot area, in points. Read/write  **Double**.
 
 
 ## Syntax

@@ -79,7 +79,7 @@ To verify data types, see the following functions:
 - [IsNumeric](isnumeric-function.md)
 - [IsObject](isobject-function.md)
 
-## Returns for CStr
+## Return values for CStr
 
 |If _expression_ is|CStr returns|
 |:-----------------|:-----------|

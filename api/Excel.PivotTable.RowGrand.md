@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotTable.RowGrand
 ms.assetid: 9d016b8d-4c2b-86a3-bcf1-a9a7356b825d
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
 
 # PivotTable.RowGrand property (Excel)
 
- **True** if the PivotTable report shows grand totals for rows. Read/write **Boolean**.
+**True** if the PivotTable report shows grand totals for rows. Read/write **Boolean**.
 
 
 ## Syntax
@@ -28,16 +28,11 @@ _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** 
 
 This example sets the PivotTable report to show grand totals for rows.
 
-
 ```vb
 Set pvtTable = Worksheets("Sheet1").Range("A3").PivotTable 
 pvtTable.RowGrand = True
 ```
 
 
-## See also
-
-
-[PivotTable Object](Excel.PivotTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

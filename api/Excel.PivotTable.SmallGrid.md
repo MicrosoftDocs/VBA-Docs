@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotTable.SmallGrid
 ms.assetid: ade36fce-e511-f95c-db92-e64271646687
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
@@ -31,8 +31,7 @@ You should use the stencil outline. The grid is provided only because it enables
 
 ## Example
 
-This example creates a new PivotTable cache based on an OLAP provider, and then it creates a new PivotTable report based on this cache, at cell A3 on the active worksheet. The example uses the stencil outline instead of the cell grid.
-
+This example creates a new PivotTable cache based on an OLAP provider, and then it creates a new PivotTable report based on this cache at cell A3 on the active worksheet. The example uses the stencil outline instead of the cell grid.
 
 ```vb
 With ActiveWorkbook.PivotCaches.Add(SourceType:=xlExternal) 
@@ -57,9 +56,6 @@ End With
 ```
 
 
-## See also
 
-
-[PivotTable Object](Excel.PivotTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

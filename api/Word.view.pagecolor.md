@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # View.PageColor property (Word)
 
-Returns and sets the page color in Reading mode. Read-write [WdPageColor](Word.wdpagecolor.md).
+Returns and sets the page color in Reading mode. Read/write [WdPageColor](Word.wdpagecolor.md).
 
 
 ## Syntax

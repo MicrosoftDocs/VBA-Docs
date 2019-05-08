@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Options.DisplayAlignmentGuides property (Word)
 
-Returns or sets a  **Boolean** that specifies whether alignment guides are enabled in the user interface. Read-write.
+Returns or sets a  **Boolean** that specifies whether alignment guides are enabled in the user interface. Read/write.
 
 
 ## Syntax

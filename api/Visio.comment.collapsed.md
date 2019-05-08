@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Comment.Collapsed property (Visio)
 
-Returns or sets whether the specified comment is collapsed. Read-write  **Boolean**.
+Returns or sets whether the specified comment is collapsed. Read/write  **Boolean**.
 
 
 ## Syntax

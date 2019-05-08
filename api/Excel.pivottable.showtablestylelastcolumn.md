@@ -1,7 +1,7 @@
 ---
 title: PivotTable.ShowTableStyleLastColumn property (Excel)
 ms.assetid: 4e266260-dae7-46af-bdb7-0972b186b382
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 ms.prod: excel
 localization_priority: Normal
 ---
@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # PivotTable.ShowTableStyleLastColumn property (Excel)
 
-Returns or sets if the last column is displayed for the specified  **PivotTable** object. Read/Write. **Boolean**.
+Returns or sets if the last column is displayed for the specified **PivotTable** object. Read/write **Boolean**.
 
 
 ## Syntax
