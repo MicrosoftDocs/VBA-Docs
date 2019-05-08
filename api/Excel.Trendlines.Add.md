@@ -45,7 +45,7 @@ A  **[Trendline](Excel.Trendline(object).md)** object that represents the new tr
 
 ## Example
 
-This example creates a new linear trendline in Chart1.
+This example creates a new linear trendline on Chart1.
 
 
 ```vb

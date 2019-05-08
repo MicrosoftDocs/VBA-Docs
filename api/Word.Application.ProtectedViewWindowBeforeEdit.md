@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ProtectedViewWindowBeforeEdit event (Word)
 
-Occurs immediately before editing is enabled on the document in the specified protected view window.
+Occurs immediately before editing is enabled on the document in the specified Protected View window.
 
 
 ## Syntax
@@ -30,12 +30,12 @@ _expression_. `ProtectedViewWindowBeforeEdit`( `_PvWindow_` , `_Cancel_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _PvWindow_|Required| **[ProtectedViewWindow](Word.ProtectedViewWindow.md)**|The protected view window that contains the document that is enabled for editing.|
+| _PvWindow_|Required| **[ProtectedViewWindow](Word.ProtectedViewWindow.md)**|The Protected View window that contains the document that is enabled for editing.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, editing is not enabled on the document.|
 
 ## Example
 
-The following code example prompts the user for a yes or no response before enabling editing on a document in a protected view window. This code must be placed in a class module, and an instance of the class must be correctly initialized for this code example to work correctly. For more information about how to do this, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
+The following code example prompts the user for a yes or no response before enabling editing on a document in a Protected View window. This code must be placed in a class module, and an instance of the class must be correctly initialized for this code example to work correctly. For more information about how to do this, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
 The following code example assumes that you have declared an application variable called "App" in your general declarations and have set the variable equal to the Word Application object.
 

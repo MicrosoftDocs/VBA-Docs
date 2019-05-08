@@ -27,11 +27,11 @@ _expression_. `ProtectedViewWindowSize`( `_PvWindow_` , )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _PvWindow_|Required| **[ProtectedViewWindow](Word.ProtectedViewWindow.md)**|The protected view window that is sized.|
+| _PvWindow_|Required| **[ProtectedViewWindow](Word.ProtectedViewWindow.md)**|The Protected View window that is sized.|
 
 ## Example
 
-The following code example displays a message every time a protected view window is moved or resized. This code must be placed in a class module, and an instance of the class must be correctly initialized for this code example to work correctly. For more information about how to do this, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
+The following code example displays a message every time a Protected View window is moved or resized. This code must be placed in a class module, and an instance of the class must be correctly initialized for this code example to work correctly. For more information about how to do this, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
 The following code example assumes that you have declared an application variable called "App" in your general declarations and have set the variable equal to the Word Application object.
 

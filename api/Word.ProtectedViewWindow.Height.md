@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ProtectedViewWindow.Height property (Word)
 
-Returns or sets the height of the protected view window. Read/write  **Long**.
+Returns or sets the height of the Protected View window. Read/write  **Long**.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ You cannot set this property if the window is maximized or minimized. Use the  *
 
 ## Example
 
-The following code example changes the height of the active protected view window to fill the application window area.
+The following code example changes the height of the active Protected View window to fill the application window area.
 
 
 ```vb

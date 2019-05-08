@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ProtectedViewWindow.Activate method (Word)
 
-Activates the specified protected view window.
+Activates the specified Protected View window.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Nothing
 
 ## Example
 
-The following code example activates the next protected view window in the [ProtectedViewWindows](Word.ProtectedViewWindows.md) collection.
+The following code example activates the next Protected View window in the [ProtectedViewWindows](Word.ProtectedViewWindows.md) collection.
 
 
 ```vb

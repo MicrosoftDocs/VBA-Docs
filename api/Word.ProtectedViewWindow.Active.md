@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ProtectedViewWindow.Active property (Word)
 
- **True** if the specified protected view window is active. Read-only **Boolean**.
+ **True** if the specified Protected View window is active. Read-only **Boolean**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_.**Active**
 
 ## Example
 
-The following code example activates the first protected view window in the [ProtectedViewWindows](Word.ProtectedViewWindows.md) collection if the window is not currently active.
+The following code example activates the first Protected View window in the [ProtectedViewWindows](Word.ProtectedViewWindows.md) collection if the window is not currently active.
 
 
 ```vb

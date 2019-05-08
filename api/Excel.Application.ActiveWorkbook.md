@@ -17,7 +17,7 @@ localization_priority: Normal
 Returns a **[Workbook](Excel.Workbook.md)** object that represents the workbook in the active window (the window on top). Returns **Nothing** if there are no windows open or if either the Info window or the Clipboard window is the active window. Read-only. 
 
 > [!NOTE] 
-> The document in the active protected view window cannot be accessed by using this property. Instead, use the **[Workbook](Excel.ProtectedViewWindow.Workbook.md)** property of the **ProtectedViewWindow** object.
+> The document in the active Protected View window cannot be accessed by using this property. Instead, use the **[Workbook](Excel.ProtectedViewWindow.Workbook.md)** property of the **ProtectedViewWindow** object.
 
 
 ## Syntax

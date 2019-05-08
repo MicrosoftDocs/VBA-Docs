@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ProtectedViewWindow.SourcePath property (Word)
 
-Returns the path of the source file for the specified protected view window. Read-only  **String**.
+Returns the path of the source file for the specified Protected View window. Read-only  **String**.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ The path does not include a trailing character (for example, "C:\MSOffice"). Use
 
 ## Example
 
-The following code example returns the path and name of the document associated with the specified protected view window.
+The following code example returns the path and name of the document associated with the specified Protected View window.
 
 
 ```vb

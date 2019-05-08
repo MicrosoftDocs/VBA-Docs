@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ProtectedViewWindow.Close method (Word)
 
-Closes the specified protected view window.
+Closes the specified Protected View window.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Nothing
 
 ## Example
 
-The following code example closes the active protected view window.
+The following code example closes the active Protected View window.
 
 
 ```vb

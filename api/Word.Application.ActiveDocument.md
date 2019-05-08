@@ -17,7 +17,7 @@ localization_priority: Normal
 Returns a  **[Document](Word.Document.md)** object that represents the active document (the document with the focus). If there are no documents open, an error occurs. Read-only.
 
 
- **Note**  The document in the active protected view window cannot be accessed using this property. Instead, use the [Document](Word.Document.md) property of the **[ActiveProtectedViewWindow](Word.Application.ActiveProtectedViewWindow.md)** object.
+ **Note**  The document in the active Protected View window cannot be accessed using this property. Instead, use the [Document](Word.Document.md) property of the **[ActiveProtectedViewWindow](Word.Application.ActiveProtectedViewWindow.md)** object.
 
 
 ## Syntax

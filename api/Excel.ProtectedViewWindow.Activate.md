@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ProtectedViewWindow.Activate
 ms.assetid: 1dac3a2b-c00f-d032-b089-6f89e83bc52d
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[ProtectedViewWindow](Excel.Protecte
 Nothing
 
 
-## See also
 
-
-[ProtectedViewWindow Object](Excel.ProtectedViewWindow.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,12 +21,12 @@ Use the  **ProtectedViewWindows** property to return the **ProtectedViewWindows*
 
 ## Example
 
-The following code example displays the number of protected view windows that are open.
+The following code example displays the number of Protected View windows that are open.
 
 
 ```vb
 MsgBox "There are " & ProtectedViewWindows.Count & _ 
- " protected view windows currently open."
+ " Protected View windows currently open."
 ```
 
 

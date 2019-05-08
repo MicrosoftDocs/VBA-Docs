@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ProtectedViewWindow.SourceName property (Word)
 
-Returns the name of the source file for the specified protected view window. Read-only  **String**.
+Returns the name of the source file for the specified Protected View window. Read-only  **String**.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ This property does not return the path for the source file.
 
 ## Example
 
-The following code example returns the path and name of the document associated with the specified protected view window.
+The following code example returns the path and name of the document associated with the specified Protected View window.
 
 
 ```vb
