@@ -9,6 +9,8 @@ localization_priority: Normal
 
 # Shape.NavigationIndex property (Visio)
 
+<!--We had to remove the NavigationIndex property as there is a bug we need to fix for this API to work. We will update this at a later point. (5-7-19)-->
+
 Returns or sets the alternative text description associated with an object. Read/write.
 
 ## Syntax

@@ -211,7 +211,6 @@ If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** r
 - [Name](Visio.Shape.Name.md)
 - [NameID](Visio.Shape.NameID.md)
 - [NameU](Visio.Shape.NameU.md)
-- [NavigationIndex](Visio.Shape.NavigationIndex.md)
 - [Object](Visio.Shape.Object.md)
 - [ObjectIsInherited](Visio.Shape.ObjectIsInherited.md)
 - [ObjectType](Visio.Shape.ObjectType.md)

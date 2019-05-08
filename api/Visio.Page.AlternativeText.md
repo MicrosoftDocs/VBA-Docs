@@ -28,5 +28,9 @@ Use this property to create accessible diagrams by using Visio.
 > [!NOTE] 
 > Beginning with Microsoft Visio 2016 C2R, you can use **AlternativeText** on **Page**, **[Shape](visio.shape.md)**, and **[Master](visio.master.md)** objects. 
 
+## Example
+
+For an example of how to use this with the **Shape** object, see [Shape.AlternativeText](Visio.Shape.AlternativeText.md#example).
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

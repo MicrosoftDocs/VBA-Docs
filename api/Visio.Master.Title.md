@@ -32,5 +32,9 @@ Use this property to create accessible diagrams by using Visio.
 > Beginning with Microsoft Visio 2016 C2R, you can use **Title** on **[Page](visio.page.md)**, **[Shape](visio.shape.md)**, and **Master** objects. 
 
 
+## Example
+
+For an example of how to use this with the **Shape** object, see [Shape.Title](Visio.Shape.Title.md#example).
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
