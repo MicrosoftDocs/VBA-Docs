@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ChartGroup](Excel.ChartGroup(object
 
 ## Example
 
-This example sets the angle for the first slice in chart group one in Chart1. The example should be run on a 2D pie chart.
+This example sets the angle for the first slice in chart group one on Chart1. The example should be run on a 2D pie chart.
 
 ```vb
 Charts("Chart1").ChartGroups(1).FirstSliceAngle = 15

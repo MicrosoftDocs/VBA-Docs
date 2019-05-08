@@ -31,7 +31,7 @@ _expression_ A variable that represents a [TickLabels](Excel.TickLabels-graph-pr
 
 ## Example
 
-This example sets the label spacing of the category axis in Chart1 to twice the current setting, if the offset is less than 500.
+This example sets the label spacing of the category axis on Chart1 to twice the current setting, if the offset is less than 500.
 
 
 ```vb

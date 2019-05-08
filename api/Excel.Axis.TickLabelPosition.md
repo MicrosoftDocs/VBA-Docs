@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** obj
 
 ## Example
 
-This example sets tick-mark labels on the category axis in Chart1 to the high position (above the chart).
+This example sets tick-mark labels on the category axis on Chart1 to the high position (above the chart).
 
 ```vb
 Charts("Chart1").Axes(xlCategory) _ 

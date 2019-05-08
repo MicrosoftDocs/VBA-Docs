@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** obj
 
 ## Example
 
-This example adds an axis label to the category axis in Chart1.
+This example adds an axis label to the category axis on Chart1.
 
 ```vb
 With Charts("Chart1").Axes(xlCategory) 

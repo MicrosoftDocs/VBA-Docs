@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Series](Excel.Series-graph-object.md)
 
 ## Example
 
-This example sets series one in Chart1 to stretch pictures. The example should be run on a 2D column chart with picture data markers.
+This example sets series one on Chart1 to stretch pictures. The example should be run on a 2D column chart with picture data markers.
 
 
 ```vb

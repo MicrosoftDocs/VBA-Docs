@@ -24,7 +24,7 @@ Each **Trendline** object represents a trendline in a chart. A trendline shows t
 
 ## Example
 
-Use the **[Trendlines](Excel.Series.Trendlines.md)** method of the **Series** object to return the **Trendlines** collection. The following example displays the number of trendlines for series one in Chart1.
+Use the **[Trendlines](Excel.Series.Trendlines.md)** method of the **Series** object to return the **Trendlines** collection. The following example displays the number of trendlines for series one on Chart1.
 
 ```vb
 MsgBox Charts(1).SeriesCollection(1).Trendlines.Count

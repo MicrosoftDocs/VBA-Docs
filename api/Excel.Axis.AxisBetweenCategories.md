@@ -31,7 +31,7 @@ This property applies only to category axes, and it doesn't apply to 3D charts.
 
 ## Example
 
-This example causes the value axis in Chart1 to cross the category axis between categories.
+This example causes the value axis on Chart1 to cross the category axis between categories.
 
 ```vb
 Charts("Chart1").Axes(xlCategory).AxisBetweenCategories = True

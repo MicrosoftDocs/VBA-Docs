@@ -37,7 +37,7 @@ _expression_ An expression that returns an **[Interior](excel.interior(object).m
 
 ## Example
 
-This example sets the color of the tick-mark labels on the value axis in Chart1.
+This example sets the color of the tick-mark labels on the value axis on Chart1.
 
 ```vb
 Charts("Chart1").Axes(xlValue).TickLabels.Font.Color = _ 

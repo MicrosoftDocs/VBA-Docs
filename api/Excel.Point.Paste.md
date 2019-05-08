@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Point.Paste
 ms.assetid: 0a984f1c-54de-d49f-8677-43d513a0f9fc
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
@@ -31,22 +31,18 @@ Variant
 
 ## Remarks
 
-This method can be used on column, bar, line, or radar charts, and it sets the  **[MarkerStyle](Excel.Point.MarkerStyle.md)** property to **xlMarkerStylePicture**.
+This method can be used on column, bar, line, or radar charts, and it sets the **[MarkerStyle](Excel.Point.MarkerStyle.md)** property to **xlMarkerStylePicture**.
 
 
 ## Example
 
-This example pastes a picture from the Clipboard into series one in Chart1.
-
+This example pastes a picture from the Clipboard into series one on Chart1.
 
 ```vb
 Charts("Chart1").SeriesCollection(1).Paste
 ```
 
 
-## See also
 
-
-[Point Object](Excel.Point(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

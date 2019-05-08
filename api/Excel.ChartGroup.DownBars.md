@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ChartGroup](Excel.ChartGroup(object
 
 ## Example
 
-This example turns on up bars and down bars for chart group one in Chart1 and then sets their colors. The example should be run on a 2D line chart that has two series that cross each other at one or more data points.
+This example turns on up bars and down bars for chart group one on Chart1 and then sets their colors. The example should be run on a 2D line chart that has two series that cross each other at one or more data points.
 
 ```vb
 With Charts("Chart1").ChartGroups(1) 

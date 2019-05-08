@@ -37,7 +37,7 @@ Note that **xlMinimum** and **xlMaximum** can have different meanings, depending
 
 ## Example
 
-This example sets the value axis in Chart1 to cross the category axis at the maximum x value.
+This example sets the value axis on Chart1 to cross the category axis at the maximum x value.
 
 ```vb
 Charts("Chart1").Axes(xlCategory).Crosses = xlMaximum

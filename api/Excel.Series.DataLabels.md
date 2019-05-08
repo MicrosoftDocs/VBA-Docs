@@ -46,7 +46,7 @@ If the series is on an area chart and has the  **Show Label** option turned on f
 
 ## Example
 
-This example sets the data labels for series one in Chart1 to show their key, assuming that their values are visible when the example runs.
+This example sets the data labels for series one on Chart1 to show their key, assuming that their values are visible when the example runs.
 
 
 ```vb

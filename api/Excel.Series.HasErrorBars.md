@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Series](Excel.Series-graph-object.md)
 
 ## Example
 
-This example removes error bars from series one in Chart1. The example should be run on a 2D line chart that has error bars for series one.
+This example removes error bars from series one on Chart1. The example should be run on a 2D line chart that has error bars for series one.
 
 
 ```vb

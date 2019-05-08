@@ -31,7 +31,7 @@ The plot area used for this measurement doesn't include the axis labels. The **H
 
 ## Example
 
-This example draws a dotted rectangle around the inside of the plot area in Chart1.
+This example draws a dotted rectangle around the inside of the plot area on Chart1.
 
 ```vb
 With Charts("chart1") 

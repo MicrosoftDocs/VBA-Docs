@@ -46,7 +46,7 @@ This method does not actually return a  **Series** object as stated in the Objec
 
 ## Example
 
-This example creates a new series in Chart1. The data source for the new series is range B1:B10 on Sheet1.
+This example creates a new series on Chart1. The data source for the new series is range B1:B10 on Sheet1.
 
 
 ```vb

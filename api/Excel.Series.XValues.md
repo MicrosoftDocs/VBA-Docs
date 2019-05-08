@@ -31,7 +31,7 @@ For PivotChart reports, this property is read-only.
 
 ## Example
 
-This example sets the x values for series one in Chart1 to the range B1:B5 on Sheet1.
+This example sets the x values for series one on Chart1 to the range B1:B5 on Sheet1.
 
 
 ```vb
@@ -39,7 +39,7 @@ Charts("Chart1").SeriesCollection(1).XValues = _
  Worksheets("Sheet1").Range("B1:B5")
 ```
 
-This example uses an array to set values for the individual points in series one in Chart1.
+This example uses an array to set values for the individual points in series one on Chart1.
 
 
 

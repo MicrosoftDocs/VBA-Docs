@@ -28,7 +28,7 @@ _expression_ A variable that represents a [Series](Excel.Series-graph-object.md)
 
 ## Example
 
-This example sets the marker style for series one in Chart1. The example should be run on a 2D line chart.
+This example sets the marker style for series one on Chart1. The example should be run on a 2D line chart.
 
 
 ```vb

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Series](Excel.Series-graph-object.md)
 
 ## Example
 
-This example turns on data labels for series three in Chart1.
+This example turns on data labels for series three on Chart1.
 
 
 ```vb

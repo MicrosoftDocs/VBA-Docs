@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Series](Excel.Series-graph-object.md)
 
 ## Example
 
-This example inverts the pattern for negative values in series one in Chart1. The example should be run on a 2D column chart.
+This example inverts the pattern for negative values in series one on Chart1. The example should be run on a 2D column chart.
 
 
 ```vb

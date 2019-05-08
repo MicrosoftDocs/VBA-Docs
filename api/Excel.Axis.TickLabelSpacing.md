@@ -31,7 +31,7 @@ Tick-mark label spacing on the value axis is always calculated by Microsoft Exce
 
 ## Example
 
-This example sets the number of categories between tick-mark labels on the category axis in Chart1.
+This example sets the number of categories between tick-mark labels on the category axis on Chart1.
 
 ```vb
 Charts("Chart1").Axes(xlCategory).TickLabelSpacing = 10 

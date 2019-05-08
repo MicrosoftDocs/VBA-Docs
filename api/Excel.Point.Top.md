@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Point.Top
 ms.assetid: 328ff726-4c34-a55a-35ce-1d7bdd06643a
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[Point](Excel.Point(object).md)** ob
 Double
 
 
-## See also
 
-
-[Point Object](Excel.Point(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

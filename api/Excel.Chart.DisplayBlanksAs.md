@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Example
 
-This example sets Microsoft Excel to not plot blank cells in Chart1.
+This example sets Microsoft Excel to not plot blank cells on Chart1.
 
 ```vb
 Charts("Chart1").DisplayBlanksAs = xlNotPlotted

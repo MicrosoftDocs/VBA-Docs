@@ -31,7 +31,7 @@ Setting this property sets the **[MinimumScaleIsAuto](Excel.Axis.MinimumScaleIsA
 
 ## Example
 
-This example sets the minimum and maximum values for the value axis in Chart1.
+This example sets the minimum and maximum values for the value axis on Chart1.
 
 ```vb
 With Charts("Chart1").Axes(xlValue) 

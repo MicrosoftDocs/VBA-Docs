@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TickLabels](Excel.TickLabels-graph-pr
 
 ## Example
 
-This example links the number format for tick-mark labels to its cells for the value axis in Chart1.
+This example links the number format for tick-mark labels to its cells for the value axis on Chart1.
 
 
 ```vb

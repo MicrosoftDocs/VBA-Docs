@@ -40,7 +40,7 @@ _expression_.**Color**
 
 ## Example
 
-This example sets the color of the tick-mark labels on the value axis in Chart1.
+This example sets the color of the tick-mark labels on the value axis on Chart1.
 
 
 ```vb

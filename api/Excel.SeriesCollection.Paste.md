@@ -43,7 +43,7 @@ Variant
 
 ## Example
 
-This example pastes data from the Clipboard into a new series in Chart1.
+This example pastes data from the Clipboard into a new series on Chart1.
 
 
 ```vb

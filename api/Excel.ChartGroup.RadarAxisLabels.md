@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ChartGroup](Excel.ChartGroup(object
 
 ## Example
 
-This example turns on radar axis labels for chart group one in Chart1, and then sets the color for the labels. The example should be run on a radar chart.
+This example turns on radar axis labels for chart group one on Chart1, and then sets the color for the labels. The example should be run on a radar chart.
 
 ```vb
 With Charts("Chart1").ChartGroups(1) 

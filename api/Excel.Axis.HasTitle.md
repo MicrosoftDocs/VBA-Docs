@@ -31,7 +31,7 @@ An axis title is represented by an **[AxisTitle](Excel.AxisTitle(object).md)** o
 
 ## Example
 
-This example adds an axis label to the category axis in Chart1.
+This example adds an axis label to the category axis on Chart1.
 
 ```vb
 With Charts("Chart1").Axis(xlCategory) 

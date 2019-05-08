@@ -31,7 +31,7 @@ If this property is **True**, the **[Perspective](Excel.Chart.Perspective.md)** 
 
 ## Example
 
-This example sets the axes in Chart1 to intersect at right angles. The example should be run on a 3D chart.
+This example sets the axes on Chart1 to intersect at right angles. The example should be run on a 3D chart.
 
 ```vb
 Charts("Chart1").RightAngleAxes = True

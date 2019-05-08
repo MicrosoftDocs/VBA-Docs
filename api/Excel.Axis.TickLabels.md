@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** obj
 
 ## Example
 
-This example sets the color of the tick-mark label font for the value axis in Chart1.
+This example sets the color of the tick-mark label font for the value axis on Chart1.
 
 ```vb
 Charts("Chart1").Axes(xlValue).TickLabels.Font.ColorIndex = 3

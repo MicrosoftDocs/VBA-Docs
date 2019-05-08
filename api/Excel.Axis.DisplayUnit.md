@@ -35,7 +35,7 @@ Using unit labels when charting large values makes your tick mark labels easier 
 
 ## Example
 
-This example sets the units displayed on the value axis in Chart1 to hundreds.
+This example sets the units displayed on the value axis on Chart1 to hundreds.
 
 ```vb
 With Charts("Chart1").Axes(xlValue) 
