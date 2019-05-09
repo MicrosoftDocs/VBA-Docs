@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Range.FormulaArray
 ms.assetid: a0c8bafb-294c-32ff-0591-1a798aebb4b4
-ms.date: 06/08/2017
+ms.date: 05/10/2019
 localization_priority: Normal
 ---
 
 
 # Range.FormulaArray property (Excel)
 
-Returns or sets the array formula of a range. Returns (or can be set to) a single formula or a Visual Basic array. If the specified range doesn't contain an array formula, this property returns  **null**. Read/write **Variant**.
+Returns or sets the array formula of a range. Returns (or can be set to) a single formula or a Visual Basic array. If the specified range doesn't contain an array formula, this property returns **null**. Read/write **Variant**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ . A variable that represents a **[Range](excel.range(object).md)** 
 
 ## Remarks
 
-The  **FormulaArray** property also has a character limit of 255.
+The **FormulaArray** property also has a character limit of 255.
 
 
 ## Example
@@ -47,9 +47,5 @@ Worksheets("Sheet1").Range("E1:E3").FormulaArray = _
 ```
 
 
-## See also
-
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

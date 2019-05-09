@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Range.FormulaR1C1
 ms.assetid: 76f41bf6-94e2-2e6a-30e4-012a735a3374
-ms.date: 06/08/2017
+ms.date: 05/10/2019
 localization_priority: Priority
 ---
 
 
 # Range.FormulaR1C1 property (Excel)
 
-Returns or sets the formula for the object, using R1C1-style notation in the language of the macro. Read/write  **Variant**.
+Returns or sets the formula for the object, using R1C1-style notation in the language of the macro. Read/write **Variant**.
 
 
 ## Syntax
@@ -39,15 +39,9 @@ Setting the formula of a multiple-cell range fills all cells in the range with t
 
 This example sets the formula for cell B1 on Sheet1.
 
-
 ```vb
 Worksheets("Sheet1").Range("B1").FormulaR1C1 = "=SQRT(R1C1)"
 ```
 
-
-## See also
-
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.Dirty
 ms.assetid: c3f177ef-19b9-07e7-a42f-978874528207
-ms.date: 06/08/2017
+ms.date: 05/10/2019
 localization_priority: Normal
 ---
 
@@ -26,15 +26,14 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 ## Remarks
 
-The  **[Calculate](Excel.Range.Calculate.md)** method forces the specified range to be recalculated, for cells that Microsoft Excel understands as needing recalculation.
+The **[Calculate](Excel.Range.Calculate.md)** method forces the specified range to be recalculated for cells that Microsoft Excel understands as needing recalculation.
 
-If the application is in manual calculation mode, using the  **Dirty** method instructs Excel to identify the specified cell to be recalculated. If the application is in automatic calculation mode, using the **Dirty** method instructs Excel to perform a recalculation.
+If the application is in manual calculation mode, using the **Dirty** method instructs Excel to identify the specified cell to be recalculated. If the application is in automatic calculation mode, using the **Dirty** method instructs Excel to perform a recalculation.
 
 
 ## Example
 
-In this example, Microsoft Excel enters a formula in cell A3, saves the changes, and then recalculates cell A3.
-
+In this example, Excel enters a formula in cell A3, saves the changes, and then recalculates cell A3.
 
 ```vb
 Sub UseDirtyMethod() 
@@ -57,9 +56,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

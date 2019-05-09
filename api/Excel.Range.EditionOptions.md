@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.EditionOptions
 ms.assetid: 5997563b-7f39-6f2d-9265-c72a2d138548
-ms.date: 06/08/2017
+ms.date: 05/10/2019
 localization_priority: Normal
 ---
 
@@ -28,22 +28,19 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **xlEditionType**|See help included with Microsoft Office Macintosh Edition.|
-| _Option_|Required| **xlEditionOptionsOption**|See help included with Microsoft Office Macintosh Edition.|
-| _Name_|Optional| **Variant**|See help included with Microsoft Office Macintosh Edition.|
-| _Reference_|Optional| **Variant**|See help included with Microsoft Office Macintosh Edition.|
-| _Appearance_|Optional| **xlPictureAppearance**|See help included with Microsoft Office Macintosh Edition.|
-| _ChartSize_|Optional| **xlPictureAppearance**|See help included with Microsoft Office Macintosh Edition.|
-| _Format_|Optional| **Variant**|See help included with Microsoft Office Macintosh Edition.|
+| _Type_|Required| **xlEditionType**|See the Help included with Microsoft Office Macintosh Edition.|
+| _Option_|Required| **xlEditionOptionsOption**|See the Help included with Microsoft Office Macintosh Edition.|
+| _Name_|Optional| **Variant**|See the Help included with Microsoft Office Macintosh Edition.|
+| _Reference_|Optional| **Variant**|See the Help included with Microsoft Office Macintosh Edition.|
+| _Appearance_|Optional| **xlPictureAppearance**|See the Help included with Microsoft Office Macintosh Edition.|
+| _ChartSize_|Optional| **xlPictureAppearance**|See the Help included with Microsoft Office Macintosh Edition.|
+| _Format_|Optional| **Variant**|See the Help included with Microsoft Office Macintosh Edition.|
 
 ## Return value
 
 Variant
 
 
-## See also
 
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
