@@ -17,7 +17,7 @@ TRUE indicates that the Excel Flash Fill feature has been enabled and active.
 
 ## Syntax
 
-_expression_. `FlashFill`
+_expression_.**FlashFill**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 

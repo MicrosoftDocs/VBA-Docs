@@ -19,14 +19,12 @@ Replaces a font in the  **Fonts** collection.
 
 ## Syntax
 
-_expression_. `Replace`( `_Original_`, `_Replacement_` )
+_expression_.**Replace** (_Original_, _Replacement_)
 
 _expression_ A variable that represents a [Fonts](./PowerPoint.Fonts.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

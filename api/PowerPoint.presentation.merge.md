@@ -17,14 +17,12 @@ Merges the changes in one presentation with another.
 
 ## Syntax
 
-_expression_. `Merge`_(Path)_
+_expression_.**Merge** (_Path_)
 
 _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

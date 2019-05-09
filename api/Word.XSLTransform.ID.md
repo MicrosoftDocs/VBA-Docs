@@ -19,7 +19,7 @@ Returns a  **String** containing the GUID assigned to the current[XSLTransform](
 
 ## Syntax
 
-_expression_. `ID`
+_expression_.**ID**
 
  _expression_ An expression that returns a '[XSLTransform](Word.XSLTransform.md)' object.
 

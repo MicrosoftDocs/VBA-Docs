@@ -19,7 +19,7 @@ Separates a merged area into individual cells.
 
 ## Syntax
 
-_expression_. `UnMerge`
+_expression_.**UnMerge**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 

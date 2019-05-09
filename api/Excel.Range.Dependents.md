@@ -19,7 +19,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the range 
 
 ## Syntax
 
-_expression_. `Dependents`
+_expression_.**Dependents**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 

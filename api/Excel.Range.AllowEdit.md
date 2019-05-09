@@ -7,27 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.Range.AllowEdit
 ms.assetid: 9f03054c-190f-ce3b-54db-bc6e19b7e1c6
-ms.date: 06/08/2017
+ms.date: 05/10/2019
 localization_priority: Normal
 ---
 
 
 # Range.AllowEdit property (Excel)
 
-Returns a  **Boolean** value that indicates if the range can be edited on a protected worksheet.
+Returns a **Boolean** value that indicates if the range can be edited on a protected worksheet.
 
 
 ## Syntax
 
-_expression_. `AllowEdit`
+_expression_.**AllowEdit**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Example
 
-In this example, Microsoft Excel notifies the user if cell A1 can be edited or not on a protected worksheet.
-
+In this example, Microsoft Excel notifies the user whether cell A1 can be edited on a protected worksheet.
 
 ```vb
 Sub UseAllowEdit() 
@@ -50,9 +49,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

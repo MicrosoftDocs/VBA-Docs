@@ -19,7 +19,7 @@ Returns the  **[Phonetics](Excel.Phonetics.md)** collection of the range. Read o
 
 ## Syntax
 
-_expression_. `Phonetics`
+_expression_.**Phonetics**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 

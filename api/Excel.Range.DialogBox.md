@@ -19,7 +19,7 @@ Displays a dialog box defined by a dialog box definition table on a Microsoft Ex
 
 ## Syntax
 
-_expression_. `DialogBox`
+_expression_.**DialogBox**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 

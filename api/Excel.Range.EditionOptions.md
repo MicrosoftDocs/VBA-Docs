@@ -19,14 +19,12 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 
 ## Syntax
 
-_expression_. `EditionOptions`( `_Type_` , `_Option_` , `_Name_` , `_Reference_` , `_Appearance_` , `_ChartSize_` , `_Format_` )
+_expression_.**EditionOptions** (_Type_, _Option_, _Name_, _Reference_, _Appearance_, _ChartSize_, _Format_)
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

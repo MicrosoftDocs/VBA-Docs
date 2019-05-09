@@ -19,14 +19,12 @@ Creates names in the specified range, based on text labels in the sheet.
 
 ## Syntax
 
-_expression_. `CreateNames`( `_Top_` , `_Left_` , `_Bottom_` , `_Right_` )
+_expression_.**CreateNames** (_Top_, _Left_, _Bottom_, _Right_)
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

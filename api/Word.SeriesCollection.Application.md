@@ -21,7 +21,7 @@ When used without an object qualifier, returns an  **[Application](Word.Applicat
 
 _expression_.**Application**
 
-_expression_ A variable that represents a '[SeriesCollection](Word.SeriesCollection.md)' object.
+_expression_ A variable that represents a **[SeriesCollection](Word.SeriesCollection.md)** object.
 
 
 ## Example

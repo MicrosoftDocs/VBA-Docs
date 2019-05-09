@@ -19,7 +19,7 @@ Returns a **Range** object that represents a range at an offset to the specified
 
 ## Syntax
 
-_expression_.**Item**(_RowIndex_, _ColumnIndex_)
+_expression_.**Item** (_RowIndex_, _ColumnIndex_)
 
 _expression_ A variable that represents a [Range](Excel.Range(object).md) object.
 

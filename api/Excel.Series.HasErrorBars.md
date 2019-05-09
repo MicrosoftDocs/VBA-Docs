@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `HasErrorBars`
+_expression_.**HasErrorBars**
 
 _expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 

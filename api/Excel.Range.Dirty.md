@@ -19,7 +19,7 @@ Designates a range to be recalculated when the next recalculation occurs.
 
 ## Syntax
 
-_expression_. `Dirty`
+_expression_.**Dirty**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 

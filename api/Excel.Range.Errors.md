@@ -19,7 +19,7 @@ Allows the user to access error checking options.
 
 ## Syntax
 
-_expression_. `Errors`
+_expression_.**Errors**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 

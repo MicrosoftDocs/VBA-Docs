@@ -19,14 +19,12 @@ Specifies a research query.
 
 ## Syntax
 
-_expression_. `Query`( `_ServiceID_` , `_QueryString_` , `_QueryLanguage_` , `_UseSelection_` , `_RequeryContextXML_` , `_NewQueryContextXML_` , `_LaunchQuery_` )
+_expression_.**Query** (_ServiceID_, _QueryString_, _QueryLanguage_, _UseSelection_, _RequeryContextXML_, _NewQueryContextXML_, _LaunchQuery_)
 
 _expression_ A variable that represents a [Research](Excel.Research.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

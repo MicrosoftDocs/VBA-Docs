@@ -19,14 +19,12 @@ Pastes the contents of the Clipboard, using a special format.
 
 ## Syntax
 
-_expression_. `PasteSpecial`(`_DataType_`, `_DisplayAsIcon_`, `_IconFileName_`, `_IconIndex_`, `_IconLabel_`, `_Link_`)
+_expression_.**PasteSpecial** (_DataType_, _DisplayAsIcon_, _IconFileName_, _IconIndex_, _IconLabel_, _Link_)
 
 _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

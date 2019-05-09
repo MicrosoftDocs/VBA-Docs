@@ -14,18 +14,18 @@ localization_priority: Normal
 
 # Application.FindNext method (Project)
 
-Repeats the last search and returns  **True** if the search value is found.
+Repeats the last search and returns **True** if the search value is found.
 
 
 ## Syntax
 
-_expression_. `FindNext`
+_expression_.**FindNext**
 
 _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Return value
 
- **Boolean**
+**Boolean**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,7 +19,7 @@ Returns a  **LeaderLines** object that represents the leader lines for the serie
 
 ## Syntax
 
-_expression_. `LeaderLines`
+_expression_.**LeaderLines**
 
 _expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 

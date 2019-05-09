@@ -19,14 +19,12 @@ Merges one table cell with another. The result is a single table cell.
 
 ## Syntax
 
-_expression_. `Merge`( `_MergeTo_` )
+_expression_.**Merge** (_MergeTo_)
 
 _expression_ A variable that represents a [Cell](./PowerPoint.Cell.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

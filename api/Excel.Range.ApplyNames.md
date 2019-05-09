@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.ApplyNames
 ms.assetid: 3798ecfb-c839-64a9-1088-d7752a3e81ae
-ms.date: 06/08/2017
+ms.date: 05/10/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Applies names to the cells in the specified range.
 
 ## Syntax
 
-_expression_. `ApplyNames`( `_Names_` , `_IgnoreRelativeAbsolute_` , `_UseRowColumnNames_` , `_OmitColumn_` , `_OmitRow_` , `_Order_` , `_AppendLast_` )
+_expression_.**ApplyNames** (_Names_, _IgnoreRelativeAbsolute_, _UseRowColumnNames_, _OmitColumn_, _OmitRow_, _Order_, _AppendLast_)
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -45,26 +43,21 @@ Variant
 
 ## Remarks
 
-You can use the  **Array** function to create the list of names for the _Names_ argument.
+You can use the **Array** function to create the list of names for the _Names_ argument.
 
-If you want to apply names to the entire sheet, use  `Cells.ApplyNames`.
+If you want to apply names to the entire sheet, use **Cells.ApplyNames**.
 
-You cannot "unapply" names; to delete names, use the  **Delete** method.
+You cannot "unapply" names; to delete names, use the **Delete** method.
 
 
 ## Example
 
 This example applies names to the entire sheet.
 
-
 ```vb
 Cells.ApplyNames Names:=Array("Sales", "Profits")
 ```
 
 
-## See also
-
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

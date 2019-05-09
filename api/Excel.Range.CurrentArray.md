@@ -19,7 +19,7 @@ If the specified cell is part of an array, returns a  **[Range](Excel.Range(obje
 
 ## Syntax
 
-_expression_. `CurrentArray`
+_expression_.**CurrentArray**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 

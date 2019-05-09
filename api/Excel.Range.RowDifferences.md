@@ -19,14 +19,12 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents all the ce
 
 ## Syntax
 
-_expression_. `RowDifferences`( `_Comparison_` )
+_expression_.**RowDifferences** (_Comparison_)
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

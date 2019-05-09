@@ -24154,7 +24154,7 @@
 ###### [Story](Publisher.TextFrame.Story.md)
 ###### [TextRange](Publisher.TextFrame.TextRange.md)
 ###### [VerticalTextAlignment](Publisher.TextFrame.VerticalTextAlignment.md)
-##### [TextRange object](Publisher.TextRange.md)
+#### [TextRange object](Publisher.TextRange.md)
 ##### Methods
 ###### [Characters](Publisher.TextRange.Characters.md)
 ###### [Collapse](Publisher.TextRange.Collapse.md)

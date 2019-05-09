@@ -19,7 +19,7 @@ Fills right from the leftmost cell or cells in the specified range. The contents
 
 ## Syntax
 
-_expression_. `FillRight`
+_expression_.**FillRight**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 

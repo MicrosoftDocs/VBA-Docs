@@ -19,7 +19,7 @@ Returns a  **[DisplayFormat](Excel.DisplayFormat.md)** object that represents th
 
 ## Syntax
 
-_expression_. `DisplayFormat`
+_expression_.**DisplayFormat**
 
 _expression_ A variable that represents a '[Range](Excel.Range(object).md)' object.
 

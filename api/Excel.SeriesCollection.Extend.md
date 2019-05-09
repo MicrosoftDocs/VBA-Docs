@@ -19,14 +19,12 @@ Adds new data points to an existing series collection.
 
 ## Syntax
 
-_expression_. `Extend`( `_Source_` , `_Rowcol_` , `_CategoryLabels_` )
+_expression_.**Extend** (_Source_, _Rowcol_, _CategoryLabels_)
 
 _expression_ A variable that represents a [SeriesCollection](Excel.SeriesCollection.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

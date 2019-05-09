@@ -19,7 +19,7 @@ Returns or sets the height, in [points](../language/glossary/vbe-glossary.md#poi
 
 ## Syntax
 
-_expression_. `RowHeight`
+_expression_.**RowHeight**
 
 _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 

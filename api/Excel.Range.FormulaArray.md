@@ -19,9 +19,9 @@ Returns or sets the array formula of a range. Returns (or can be set to) a singl
 
 ## Syntax
 
-_expression_. `FormulaArray`
+_expression_.**FormulaArray**
 
- _expression_ . A variable that represents a **[Range](excel.range(object).md)** object.
+_expression_ . A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -33,15 +33,13 @@ The  **FormulaArray** property also has a character limit of 255.
 
 This example enters the number 3 as an array constant in cells A1:C5 on Sheet1.
 
-
 ```vb
 Worksheets("Sheet1").Range("A1:C5").FormulaArray = "=3"
 ```
 
+<br/>
+
 This example enters the array formula =SUM(A1:C3) in cells E1:E3 on Sheet1.
-
-
-
 
 ```vb
 Worksheets("Sheet1").Range("E1:E3").FormulaArray = _ 

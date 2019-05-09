@@ -19,14 +19,12 @@ Creates a new worksheet that contains a summary report for the scenarios on the 
 
 ## Syntax
 
-_expression_. `CreateSummary`( `_ReportType_` , `_ResultCells_` )
+_expression_.**CreateSummary** (_ReportType_, _ResultCells_)
 
 _expression_ A variable that represents a [Scenarios](Excel.Scenarios.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -19,7 +19,7 @@ Discards all changes in the edited cells of the range.
 
 ## Syntax
 
-_expression_. `DiscardChanges`
+_expression_.**DiscardChanges**
 
 _expression_ A variable that represents a '[Range](Excel.Range(object).md)' object.
 

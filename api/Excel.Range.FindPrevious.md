@@ -19,14 +19,12 @@ Continues a search that was begun with the  **[Find](Excel.Range.Find.md)** meth
 
 ## Syntax
 
-_expression_. `FindPrevious`( `_After_` )
+_expression_.**FindPrevious** (_After_)
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

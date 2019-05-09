@@ -19,7 +19,7 @@ Returns a  **WdCaptionLabelID** constant that represents the type for the specif
 
 ## Syntax
 
-_expression_. `ID`
+_expression_.**ID**
 
 _expression_ Required. A variable that represents a '[CaptionLabel](Word.CaptionLabel.md)' object.
 

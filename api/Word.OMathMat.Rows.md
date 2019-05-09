@@ -19,7 +19,7 @@ Returns an  **[OMathMatRows](Word.OMathMatRows.md)** object that represents the 
 
 ## Syntax
 
-_expression_. `Rows`
+_expression_.**Rows**
 
  _expression_ An expression that returns an '[OMathMat](Word.OMathMat.md)' object.
 

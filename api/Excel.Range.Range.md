@@ -19,7 +19,7 @@ Returns a **Range** object that represents a cell or a range of cells.
 
 ## Syntax
 
-_expression_.**Range**(_Cell1_, _Cell2_)
+_expression_.**Range** (_Cell1_, _Cell2_)
 
 _expression_ A variable that represents a [Range](Excel.Range(object).md) object.
 

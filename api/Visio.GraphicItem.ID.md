@@ -22,7 +22,7 @@ Gets the unique identifier of the  **GraphicItem** object. Read-only.
 
 ## Syntax
 
-_expression_. `ID`
+_expression_.**ID**
 
 _expression_ A variable that represents a [GraphicItem](./Visio.GraphicItem.md) object.
 

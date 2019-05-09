@@ -19,7 +19,7 @@ Promotes a range in an outline (that is, decreases its outline level). The speci
 
 ## Syntax
 
-_expression_. `Ungroup`
+_expression_.**Ungroup**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
