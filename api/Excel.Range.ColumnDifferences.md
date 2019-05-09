@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Range.ColumnDifferences
 ms.assetid: 483995e1-9c8d-c171-4c72-17afd5918d49
-ms.date: 06/08/2017
+ms.date: 05/10/2019
 localization_priority: Normal
 ---
 
 
 # Range.ColumnDifferences method (Excel)
 
-Returns a  **[Range](Excel.Range(object).md)** object that represents all the cells whose contents are different from the comparison cell in each column.
+Returns a **Range** object that represents all the cells whose contents are different from the comparison cell in each column.
 
 
 ## Syntax
@@ -39,7 +39,6 @@ Range
 
 This example selects the cells in column A on Sheet1 whose contents are different from cell A4.
 
-
 ```vb
 Sub CompDiff() 
 'Setting up data to be compared 
@@ -63,9 +62,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

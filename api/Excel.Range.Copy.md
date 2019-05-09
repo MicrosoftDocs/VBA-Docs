@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.Copy
 ms.assetid: ac5207ac-6be5-3c7e-2c61-67954a59e9df
-ms.date: 06/08/2017
+ms.date: 05/10/2019
 localization_priority: Priority
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Destination_|Optional| **Variant**|Specifies the new range to which the specified range will be copied. If this argument is omitted, Microsoft Excel copies the range to the Clipboard.|
@@ -41,20 +39,14 @@ Variant
 
 The following code example copies the formulas in cells A1:D4 on Sheet1 into cells E5:H8 on Sheet2.
 
-
 ```vb
 Worksheets("Sheet1").Range("A1:D4").Copy _ 
     destination:=Worksheets("Sheet2").Range("E5")
 ```
 
+<br/>
 
-
- **Sample code provided by:** Bill Jelen, [MrExcel.com](https://www.mrexcel.com/)
-
-The following code example inspects the value in column D for each row on Sheet1. If the value in column D equals "A" the entire row is copied onto SheetA, in the next empty row. If the value equals "B" the row is copied onto SheetB.
-
-
-
+The following code example inspects the value in column D for each row on Sheet1. If the value in column D equals A, the entire row is copied onto SheetA in the next empty row. If the value equals B, the row is copied onto SheetB.
 
 ```vb
 Public Sub CopyRows() 
@@ -85,14 +77,6 @@ End Sub
 ```
 
 
-### About the contributor
 
-MVP Bill Jelen is the author of more than two dozen books about Microsoft Excel. He is a regular guest on TechTV with Leo Laporte and is the host of MrExcel.com, which includes more than 300,000 questions and answers about Excel. 
-
-
-## See also
-
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

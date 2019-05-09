@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Range.Calculate
 ms.assetid: 7c29afda-4980-6992-fc8d-b4caf2f74660
-ms.date: 06/08/2017
+ms.date: 05/10/2019
 localization_priority: Normal
 ---
 
 
 # Range.Calculate method (Excel)
 
-Calculates all open workbooks, a specific worksheet in a workbook, or a specified range of cells on a worksheet, as shown in the following table.
+Calculates all open workbooks, a specific worksheet in a workbook, or a specified range of cells on a worksheet, as shown in the table in the Remarks section.
 
 
 ## Syntax
@@ -31,29 +31,22 @@ Variant
 
 ## Remarks
 
-
-
-
-
-|**To calculate**|**Follow this example**|
+|To calculate|Follow this example|
 |:-----|:-----|
 |All open workbooks| `Application.Calculate` (or just `Calculate`)|
 |A specific worksheet| `Worksheets(1).Calculate`|
 |A specified range| `Worksheets(1).Rows(2).Calculate`|
 
+
 ## Example
 
 This example calculates the formulas in columns A, B, and C in the used range on Sheet1.
-
 
 ```vb
 Worksheets("Sheet1").UsedRange.Columns("A:C").Calculate
 ```
 
 
-## See also
 
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.ClearFormats
 ms.assetid: 37777379-857a-f4c7-86aa-b109d5f25757
-ms.date: 06/08/2017
+ms.date: 05/10/2019
 localization_priority: Normal
 ---
 
@@ -33,24 +33,18 @@ Variant
 
 This example clears all formatting from cells A1:G37 on Sheet1.
 
-
 ```vb
 Worksheets("Sheet1").Range("A1:G37").ClearFormats
 ```
 
+<br/>
+
 This example clears the formatting from embedded chart one on Sheet1.
-
-
-
 
 ```vb
 Worksheets("Sheet1").ChartObjects(1).Chart.ChartArea.ClearFormats
 ```
 
 
-## See also
-
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
