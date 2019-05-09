@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shape.LockAspectRatio property (Project)
-Gets or sets a value that indicates whether the shape retains its original proportions when you resize it; that is, whether the aspect ratio of the shape is locked. Read-write  **[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**
+Gets or sets a value that indicates whether the shape retains its original proportions when you resize it; that is, whether the aspect ratio of the shape is locked. Read/write  **[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**
 
 ## Syntax
 

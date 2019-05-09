@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Workbook.PersonalViewPrintSettings property (Excel)
 
- **True** if print settings are included in the user's personal view of the shared workbook. Read-write **Boolean**.
+ **True** if print settings are included in the user's personal view of the shared workbook. Read/write **Boolean**.
 
 
 ## Syntax

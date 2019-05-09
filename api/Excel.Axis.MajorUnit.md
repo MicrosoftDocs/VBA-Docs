@@ -33,7 +33,7 @@ Use the **[TickMarkSpacing](Excel.Axis.TickMarkSpacing.md)** property to set tic
 
 ## Example
 
-This example sets the major and minor units for the value axis in Chart1.
+This example sets the major and minor units for the value axis on Chart1.
 
 ```vb
 With Charts("Chart1").Axes(xlValue) 

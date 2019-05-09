@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ProtectedViewWindow.Close
 ms.assetid: 3deaea3c-3c73-76c9-0ca1-ce1bb452c6c2
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[ProtectedViewWindow](Excel.Protecte
 Boolean
 
 
-## See also
 
-
-[ProtectedViewWindow Object](Excel.ProtectedViewWindow.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

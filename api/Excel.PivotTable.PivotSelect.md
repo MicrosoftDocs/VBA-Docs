@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotTable.PivotSelect
 ms.assetid: e9beda74-c022-3ba7-b3af-d607024846f2
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
@@ -34,22 +34,17 @@ _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** 
 
 ## Remarks
 
-You can use the specified mode only to select the corresponding item in the PivotTable report. For example, you cannot select data and labels by using  **xlButton** mode; likewise, you cannot select buttons by using **xlDataOnly** mode.
+You can use the specified mode only to select the corresponding item in the PivotTable report. For example, you cannot select data and labels by using **xlButton** mode; likewise, you cannot select buttons by using **xlDataOnly** mode.
 
 
 ## Example
 
 This example selects all date labels in the first PivotTable report on worksheet one.
 
-
 ```vb
 Worksheets(1).PivotTables(1).PivotSelect "date[All]", xlLabelOnly
 ```
 
 
-## See also
-
-
-[PivotTable Object](Excel.PivotTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

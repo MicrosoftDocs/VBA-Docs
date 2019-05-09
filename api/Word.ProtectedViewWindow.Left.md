@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ProtectedViewWindow.Left property (Word)
 
-Returns or sets a  **Long**, in [points](../language/glossary/vbe-glossary.md#point), that represents the horizontal position of the specified protected view window. Read/write.
+Returns or sets a  **Long**, in [points](../language/glossary/vbe-glossary.md#point), that represents the horizontal position of the specified Protected View window. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_.**Left**
 
 ## Example
 
-The following code example sets the horizontal position of the active protected view window to 100 point.
+The following code example sets the horizontal position of the active Protected View window to 100 point.
 
 
 ```vb

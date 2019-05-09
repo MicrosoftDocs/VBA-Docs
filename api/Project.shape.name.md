@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shape.Name property (Project)
-Gets or sets the name of the shape. Read-write  **String**.
+Gets or sets the name of the shape. Read/write  **String**.
 
 ## Syntax
 

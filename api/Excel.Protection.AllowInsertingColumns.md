@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Protection.AllowInsertingColumns
 ms.assetid: 87938c66-e48a-dd1d-934e-08752bbf3e03
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
 
 # Protection.AllowInsertingColumns property (Excel)
 
-Returns  **True** if the insertion of columns is allowed on a protected worksheet. Read-only **Boolean**.
+Returns **True** if the insertion of columns is allowed on a protected worksheet. Read-only **Boolean**.
 
 
 ## Syntax
@@ -28,13 +28,12 @@ _expression_ A variable that represents a **[Protection](Excel.Protection.md)** 
 
 An inserted column inherits its formatting (by default) from the column to its left, which means that it may have locked cells. In other words, users may not be able to delete columns that they have inserted.
 
-The  **AllowInsertingColumns** property can be set by using the **[Protect](Excel.Worksheet.Protect.md)** method arguments.
+The **AllowInsertingColumns** property can be set by using the **[Protect](Excel.Worksheet.Protect.md)** method arguments.
 
 
 ## Example
 
 This example allows the user to insert columns on the protected worksheet and notifies the user.
-
 
 ```vb
 Sub ProtectionOptions() 
@@ -52,9 +51,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Protection Object](Excel.Protection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

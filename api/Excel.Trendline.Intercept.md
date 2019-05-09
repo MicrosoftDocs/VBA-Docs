@@ -36,7 +36,7 @@ Setting this property sets the  **[InterceptIsAuto](Excel.Trendline.InterceptIsA
 
 ## Example
 
-This example sets trendline one in Chart1 to cross the value axis at 5. The example should be run on a 2D column chart that contains a single series with a trendline.
+This example sets trendline one on Chart1 to cross the value axis at 5. The example should be run on a 2D column chart that contains a single series with a trendline.
 
 
 ```vb

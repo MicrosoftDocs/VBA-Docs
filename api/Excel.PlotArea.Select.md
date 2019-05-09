@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PlotArea.Select
 ms.assetid: 0aa567a6-b6d6-633a-e2b2-6ef07431692a
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[PlotArea](Excel.PlotArea(object).md
 Variant
 
 
-## See also
 
-
-[PlotArea Object](Excel.PlotArea(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

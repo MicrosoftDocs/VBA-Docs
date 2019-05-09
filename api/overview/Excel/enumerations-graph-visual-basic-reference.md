@@ -787,7 +787,7 @@ For more detailed descriptions, see the following:
 |xlSizeIsArea |1|
 |xlSizeIsWidth |2|
 
-## XlSubtototalLocationType
+## XlSubtotalLocationType
 
 
 |Name|Value|

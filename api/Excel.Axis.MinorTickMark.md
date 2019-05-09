@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** obj
 
 ## Example
 
-This example sets the minor tick marks for the value axis in Chart1 to be inside the axis.
+This example sets the minor tick marks for the value axis on Chart1 to be inside the axis.
 
 ```vb
 Charts("Chart1").Axes(xlValue).MinorTickMark = xlTickMarkInside

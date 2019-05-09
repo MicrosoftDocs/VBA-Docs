@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ProtectedViewWindowDeactivate event (PowerPoint)
 
-Occurs when a protected view window is deactivated.
+Occurs when a Protected View window is deactivated.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents an [Application](./PowerPoint.Applicatio
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ProtViewWindow_|Required|**ProtectedViewWindow**|The deactivated protected view window.|
+| _ProtViewWindow_|Required|**ProtectedViewWindow**|The deactivated Protected View window.|
 
 ## Return value
 

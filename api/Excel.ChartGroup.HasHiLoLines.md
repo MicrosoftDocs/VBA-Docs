@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ChartGroup](Excel.ChartGroup(object
 
 ## Example
 
-This example turns on high-low lines for chart group one in Chart1, and then sets line style, weight, and color. The example should be run on a 2D line chart that has three series of stock-quote-like data (high-low-close).
+This example turns on high-low lines for chart group one on Chart1, and then sets line style, weight, and color. The example should be run on a 2D line chart that has three series of stock-quote-like data (high-low-close).
 
 ```vb
 With Charts("Chart1").ChartGroups(1) 

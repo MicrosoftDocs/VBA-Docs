@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ProtectedViewWindow.WindowState property (Word)
 
-Returns or sets the state of the specified protected view window. Read/write [WdWindowState](Word.WdWindowState.md).
+Returns or sets the state of the specified Protected View window. Read/write [WdWindowState](Word.WdWindowState.md).
 
 
 ## Syntax
@@ -31,7 +31,7 @@ The  **wdWindowStateNormal** constant indicates a window that is not maximized o
 
 ## Example
 
-The following code example minimizes the active protected view window.
+The following code example minimizes the active Protected View window.
 
 
 ```vb

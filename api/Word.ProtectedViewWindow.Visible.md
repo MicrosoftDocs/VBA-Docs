@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ProtectedViewWindow.Visible property (Word)
 
- **True** if the specified protected view window is visible. Read/write. **Boolean**.
+ **True** if the specified Protected View window is visible. Read/write. **Boolean**.
 
 
 ## Syntax

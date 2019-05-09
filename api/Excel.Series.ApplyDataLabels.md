@@ -57,7 +57,7 @@ _expression_ A variable that represents a [Series](Excel.Series-graph-object.md)
 
 ## Example
 
-This example applies category labels to series one in Chart1.
+This example applies category labels to series one on Chart1.
 
 
 ```vb

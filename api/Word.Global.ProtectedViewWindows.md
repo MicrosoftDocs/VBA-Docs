@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Global.ProtectedViewWindows property (Word)
 
-Returns a [ProtectedViewWindows](Word.ProtectedViewWindows.md) object that represents the open protected view windows. Read-only.
+Returns a [ProtectedViewWindows](Word.ProtectedViewWindows.md) object that represents the open Protected View windows. Read-only.
 
 
 ## Syntax

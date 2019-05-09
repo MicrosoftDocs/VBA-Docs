@@ -31,7 +31,7 @@ Use the **[MajorUnit](Excel.Axis.MajorUnit.md)** and **[MinorUnit](Excel.Axis.Mi
 
 ## Example
 
-This example sets the number of categories between tick marks on the category axis in Chart1.
+This example sets the number of categories between tick marks on the category axis on Chart1.
 
 ```vb
 Charts("Chart1").Axes(xlCategory).TickMarkSpacing = 10

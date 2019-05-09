@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ProtectedViewWindowDeactivate event (Word)
 
-Occurs when a protected view window is deactivated.
+Occurs when a Protected View window is deactivated.
 
 
 ## Syntax
@@ -30,11 +30,11 @@ _expression_. `ProtectedViewWindowDeactivate`( `_PvWindow_` , )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _PvWindow_|Required| **[ProtectedViewWindow](Word.ProtectedViewWindow.md)**|The deactivated protected view window.|
+| _PvWindow_|Required| **[ProtectedViewWindow](Word.ProtectedViewWindow.md)**|The deactivated Protected View window.|
 
 ## Example
 
-The following code example minimizes an open protected view window when it is deactivated. This code must be placed in a class module, and an instance of the class must be correctly initialized for this code example to work correctly. For more information about how to do this, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
+The following code example minimizes an open Protected View window when it is deactivated. This code must be placed in a class module, and an instance of the class must be correctly initialized for this code example to work correctly. For more information about how to do this, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
 The following code example assumes that you have declared an application variable called "App" in your general declarations and have set the variable equal to the Word Application object.
 

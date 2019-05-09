@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PublishObject.DivID
 ms.assetid: a60bb113-e04f-7de7-98f0-3ddb0e51dcdc
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
 
 # PublishObject.DivID property (Excel)
 
-Returns the unique identifier used for identifying an HTML `<DIV>` tag on a webpage. The tag is associated with an item in a document that you have saved to a webpage. An item can be an entire workbook, a worksheet, a selected print range, an AutoFilter range, a range of cells, a chart, a PivotTable report, or a query table. Read-only  **String**.
+Returns the unique identifier used for identifying an HTML `<DIV>` tag on a webpage. The tag is associated with an item in a document that you have saved to a webpage. An item can be an entire workbook, a worksheet, a selected print range, an AutoFilter range, a range of cells, a chart, a PivotTable report, or a query table. Read-only **String**.
 
 
 ## Syntax
@@ -53,9 +53,6 @@ Close #1
 ```
 
 
-## See also
 
-
-[PublishObject Object](Excel.PublishObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

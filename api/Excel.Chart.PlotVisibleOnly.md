@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Example
 
-This example causes Microsoft Excel to plot only visible cells in Chart1.
+This example causes Microsoft Excel to plot only visible cells on Chart1.
 
 ```vb
 Charts("Chart1").PlotVisibleOnly = True

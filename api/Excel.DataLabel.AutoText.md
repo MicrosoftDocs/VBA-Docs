@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[DataLabel](excel.datalabel(object).
 
 ## Example
 
-This example sets the data labels for series one in Chart1 to automatically generate appropriate text.
+This example sets the data labels for series one on Chart1 to automatically generate appropriate text.
 
 ```vb
 Charts("Chart1").SeriesCollection(1).DataLabels.AutoText = True

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ProtectedViewWindowActivate event (PowerPoint)
 
-Occurs when any protected view window is activated.
+Occurs when any Protected View window is activated.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents an [Application](./PowerPoint.Applicatio
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ProtViewWindow_|Required|**ProtectedViewWindow**|The protected view window that is activated.|
+| _ProtViewWindow_|Required|**ProtectedViewWindow**|The Protected View window that is activated.|
 
 ## Return value
 

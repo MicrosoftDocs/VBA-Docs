@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotCache.SourceData property (Excel)
 
-Returns the data source for the PivotTable report, as shown in the following table. Read-write **Variant**.
+Returns the data source for the PivotTable report, as shown in the following table. Read/write **Variant**.
 
 
 ## Syntax

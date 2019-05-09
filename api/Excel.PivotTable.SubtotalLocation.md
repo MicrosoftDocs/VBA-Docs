@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotTable.SubtotalLocation
 ms.assetid: df2655d8-9e5f-e9d2-ba88-f92a1d843dfb
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
@@ -28,16 +28,13 @@ _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Location_|Required| **xlSubtototalLocationType**|xlSubtotalLocationType can be either  **xlAtTop** or **xlAtBottom**.|
+| _Location_|Required| **[XlSubtotalLocationType](excel.xlsubtotallocationtype.md)** | **XlSubtotalLocationType** can be either **xlAtTop** or **xlAtBottom**.|
 
 ## Remarks
 
-The  **SubtotalLocation** method sets the **LayoutSubtotalLocation** property for all existing PivotFields automatically.
+The **SubtotalLocation** method sets the **LayoutSubtotalLocation** property for all existing PivotFields automatically.
 
 
-## See also
 
-
-[PivotTable Object](Excel.PivotTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,7 +31,7 @@ Setting the **[MajorUnit](Excel.Axis.MajorUnit.md)** property sets this property
 
 ## Example
 
-This example automatically sets the major and minor units for the value axis in Chart1.
+This example automatically sets the major and minor units for the value axis on Chart1.
 
 ```vb
 With Charts("Chart1").Axes(xlValue) 

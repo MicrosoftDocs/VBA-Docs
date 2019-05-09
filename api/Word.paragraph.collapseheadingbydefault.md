@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Paragraph.CollapseHeadingByDefault property (Word)
 
-Returns or sets whether the specified paragraph is collapsed by default when the document loads. Read-write  **Boolean**.
+Returns or sets whether the specified paragraph is collapsed by default when the document loads. Read/write  **Boolean**.
 
 
 ## Syntax

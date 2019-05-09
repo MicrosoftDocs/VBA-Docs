@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[ErrorBars](excel.errorbars(object)
 
 ## Example
 
-This example sets the end style for the error bars for series one in Chart1. The example should be run on a 2D line chart that has Y error bars for the first series.
+This example sets the end style for the error bars for series one on Chart1. The example should be run on a 2D line chart that has Y error bars for the first series.
 
 ```vb
 Charts("Chart1").SeriesCollection(1).ErrorBars.EndStyle = xlCap

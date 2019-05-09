@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Example
 
-This example sets the distance between the data series in Chart1 to 200 percent of the marker width. The example should be run on a 3D chart (the **GapDepth** property fails on 2D charts).
+This example sets the distance between the data series on Chart1 to 200 percent of the marker width. The example should be run on a 3D chart (the **GapDepth** property fails on 2D charts).
 
 ```vb
 Charts("Chart1").GapDepth = 200

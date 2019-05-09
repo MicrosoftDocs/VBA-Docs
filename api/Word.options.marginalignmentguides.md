@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Options.MarginAlignmentGuides property (Word)
 
-Returns or sets a  **Boolean** that specifies whether margin alignment guides are displayed in the user interface. Read-write.
+Returns or sets a  **Boolean** that specifies whether margin alignment guides are displayed in the user interface. Read/write.
 
 
 ## Syntax

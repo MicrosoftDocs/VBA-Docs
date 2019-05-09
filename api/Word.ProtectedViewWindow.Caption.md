@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ProtectedViewWindow.Caption property (Word)
 
-Returns or sets the caption text that is displayed in the title bar of the document or protected view window. Read/write  **String**.
+Returns or sets the caption text that is displayed in the title bar of the document or Protected View window. Read/write  **String**.
 
 
 ## Syntax
@@ -26,12 +26,12 @@ _expression_.**Caption**
 
 ## Remarks
 
-To change the caption of the protected view window to the default text, set this property to an empty string ("").
+To change the caption of the Protected View window to the default text, set this property to an empty string ("").
 
 
 ## Example
 
-The following code example displays the caption for the active protected view window.
+The following code example displays the caption for the active Protected View window.
 
 
 ```vb
@@ -40,7 +40,7 @@ MsgBox "The caption for the active protected " & _
 
 ```
 
-The following code example changes the caption for the active protected view window.
+The following code example changes the caption for the active Protected View window.
 
 
 

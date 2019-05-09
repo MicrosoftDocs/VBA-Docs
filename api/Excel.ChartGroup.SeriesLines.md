@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ChartGroup](Excel.ChartGroup(object
 
 ## Example
 
-This example turns on series lines for chart group one in Chart1, and then sets their line style, weight, and color. The example should be run on a 2D stacked column chart that has two or more series.
+This example turns on series lines for chart group one on Chart1, and then sets their line style, weight, and color. The example should be run on a 2D stacked column chart that has two or more series.
 
 ```vb
 With Charts("Chart1").ChartGroups(1) 

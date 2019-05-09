@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # ShapeRange.Height property (Project)
-Gets or sets the height of the shape range, in points. Read-write  **Single**.
+Gets or sets the height of the shape range, in points. Read/write  **Single**.
 
 ## Syntax
 

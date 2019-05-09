@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ProtectedViewWindows.Count property (Word)
 
-Returns a  **Long** that represents the number of protected view windows in the collection. Read-only.
+Returns a  **Long** that represents the number of Protected View windows in the collection. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ An expression that returns a **[ProtectedViewWindows](Word.Protecte
 
 ## Example
 
-The following code example displays the number of protected view windows that are currently open.
+The following code example displays the number of Protected View windows that are currently open.
 
 
 ```vb

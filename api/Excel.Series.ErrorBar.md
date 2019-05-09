@@ -43,7 +43,7 @@ Variant
 
 ## Example
 
-This example applies standard error bars in the Y direction for series one in Chart1. The error bars are applied in the positive and negative directions. The example should be run on a 2D line chart.
+This example applies standard error bars in the Y direction for series one on Chart1. The error bars are applied in the positive and negative directions. The example should be run on a 2D line chart.
 
 
 ```vb

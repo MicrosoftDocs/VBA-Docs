@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[AxisTitle](Excel.AxisTitle(object)
 
 ## Example
 
-This example sets the axis title text for the category axis in Chart1.
+This example sets the axis title text for the category axis on Chart1.
 
 ```vb
 With Charts("Chart1").Axes(xlCategory) 

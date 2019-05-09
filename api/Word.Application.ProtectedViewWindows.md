@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ProtectedViewWindows property (Word)
 
-Returns a [ProtectedViewWindows](Word.ProtectedViewWindows.md) collection that represents all protected view windows. Read-only.
+Returns a [ProtectedViewWindows](Word.ProtectedViewWindows.md) collection that represents all Protected View windows. Read-only.
 
 
 ## Syntax
@@ -26,12 +26,12 @@ _expression_. `ProtectedViewWindows`
 
 ## Example
 
-The following code example displays the number of protected view windows that are open.
+The following code example displays the number of Protected View windows that are open.
 
 
 ```vb
 MsgBox "There are " & ProtectedViewWindows.Count & _ 
- " protected view windows open."
+ " Protected View windows open."
 ```
 
 

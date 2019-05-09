@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.ProtectedViewWindowActivate event (Word)
 
-Occurs when any protected view window is activated.
+Occurs when any Protected View window is activated.
 
 
 ## Syntax
@@ -27,11 +27,11 @@ _expression_. `ProtectedViewWindowActivate`( `_PvWindow_` , )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _PvWindow_|Required| **[ProtectedViewWindow](Word.ProtectedViewWindow.md)**|The protected view window that is activated.|
+| _PvWindow_|Required| **[ProtectedViewWindow](Word.ProtectedViewWindow.md)**|The Protected View window that is activated.|
 
 ## Example
 
-The following code example maximizes any protected view window when it is activated. This code must be placed in a class module, and an instance of the class must be correctly initialized to see this example work. For more information about how to do this, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
+The following code example maximizes any Protected View window when it is activated. This code must be placed in a class module, and an instance of the class must be correctly initialized to see this example work. For more information about how to do this, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
 The following code example assumes that you have declared an application variable called "App" in your general declarations and have set the variable equal to the Word Application object.
 

@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** obj
 
 ## Example
 
-This example sets the label caption to Millions for the value axis in Chart1, and then it turns off automatic font scaling.
+This example sets the label caption to Millions for the value axis on Chart1, and then it turns off automatic font scaling.
 
 ```vb
 With Charts("Chart1").Axes(xlValue).DisplayUnitLabel 

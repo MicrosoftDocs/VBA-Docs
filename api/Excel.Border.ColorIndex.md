@@ -33,7 +33,7 @@ The color is specified as an index value into the current color palette, or as o
 
 ## Example
 
-This example sets the color of the major gridlines for the value axis in Chart1.
+This example sets the color of the major gridlines for the value axis on Chart1.
 
 ```vb
 With Charts("Chart1").Axes(xlValue) 

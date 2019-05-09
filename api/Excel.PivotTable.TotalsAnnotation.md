@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotTable.TotalsAnnotation
 ms.assetid: ce225526-f4b9-8b6a-0b19-21bea06cd728
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 

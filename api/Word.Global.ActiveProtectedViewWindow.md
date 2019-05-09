@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Global.ActiveProtectedViewWindow property (Word)
 
-Returns a [ProtectedViewWindow](Word.ProtectedViewWindow.md) object that represents the active protected view window (the protected view window with the focus). Read-only.
+Returns a [ProtectedViewWindow](Word.ProtectedViewWindow.md) object that represents the active Protected View window (the Protected View window with the focus). Read-only.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ If there are no windows open, using this property causes an error.
 
 ## Example
 
-The following code example displays the caption text for the active protected view window.
+The following code example displays the caption text for the active Protected View window.
 
 
 ```vb

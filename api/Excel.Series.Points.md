@@ -39,7 +39,7 @@ Object
 
 ## Example
 
-This example applies a data label to point one in series one in Chart1.
+This example applies a data label to point one in series one on Chart1.
 
 
 ```vb

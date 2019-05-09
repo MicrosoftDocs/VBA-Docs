@@ -22,7 +22,7 @@ _expression_. `PivotTables`
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
-## Returns
+## Return value
 
 [PivotTables](Excel.PivotTables.md)
 

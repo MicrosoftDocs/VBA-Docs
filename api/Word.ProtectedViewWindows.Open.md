@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ProtectedViewWindows.Open method (Word)
 
-Opens the specified document in a new protected view window.
+Opens the specified document in a new Protected View window.
 
 
 ## Syntax
@@ -46,7 +46,7 @@ Avoid using hard-coded passwords in your applications. If a password is required
 
 ## Example
 
-The following code example opens a document in a new protected view window.
+The following code example opens a document in a new Protected View window.
 
 
 ```vb

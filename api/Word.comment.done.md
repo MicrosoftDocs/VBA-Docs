@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Comment.Done property (Word)
 
-Returns or sets a  **Boolean** whose value is **True** if the specified comment has been marked closed. Read-write.
+Returns or sets a  **Boolean** whose value is **True** if the specified comment has been marked closed. Read/write.
 
 
 ## Syntax

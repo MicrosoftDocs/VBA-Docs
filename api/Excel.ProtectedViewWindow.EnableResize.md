@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.ProtectedViewWindow.EnableResize
 ms.assetid: 110c4080-7dea-e34d-224b-47337e5d6777
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
 
 # ProtectedViewWindow.EnableResize property (Excel)
 
- **True** if the Protected View window can be resized. Read/write
+**True** if the Protected View window can be resized. Read/write.
 
 
 ## Syntax
@@ -26,22 +26,17 @@ _expression_ A variable that represents a **[ProtectedViewWindow](Excel.Protecte
 
 ## Return value
 
- **Boolean**
+**Boolean**
 
 
 ## Example
 
 The following code example sets the active Protected View window so that it cannot be resized.
 
-
 ```vb
 ActiveProtectedViewWindow.EnableResize = False
 ```
 
 
-## See also
-
-
-[ProtectedViewWindow Object](Excel.ProtectedViewWindow.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

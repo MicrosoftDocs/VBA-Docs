@@ -31,7 +31,7 @@ If the ribbon is visible, the  **ToggleRibbon** method hides it; if the ribbon i
 
 ## Example
 
-The following code example toggles the ribbon for the active protected view window.
+The following code example toggles the ribbon for the active Protected View window.
 
 
 ```vb

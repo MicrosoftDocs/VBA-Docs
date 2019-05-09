@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** obj
 
 ## Example
 
-This example sets the units on the value axis in Chart1 to increments of 500, but keeps the unit label hidden.
+This example sets the units on the value axis on Chart1 to increments of 500, but keeps the unit label hidden.
 
 ```vb
 With Charts("Chart1").Axes(xlValue) 

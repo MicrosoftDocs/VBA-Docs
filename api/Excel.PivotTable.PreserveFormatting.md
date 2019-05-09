@@ -7,14 +7,18 @@ ms.prod: excel
 api_name:
 - Excel.PivotTable.PreserveFormatting
 ms.assetid: d37d215a-b031-5a20-f302-471df3a3b2a2
-ms.date: 06/08/2017
+ms.date: 05/09/2019
 localization_priority: Normal
 ---
 
 
 # PivotTable.PreserveFormatting property (Excel)
 
-**True** if formatting is preserved when the report is refreshed or recalculated by operations such as pivoting, sorting, or changing page field items.For query tables, this property is **True** if any formatting common to the first five rows of data are applied to new rows of data in the query table. Unused cells aren't formatted. The property is **False** if the last AutoFormat applied to the query table is applied to new rows of data. The default value is **True**.
+**True** if formatting is preserved when the report is refreshed or recalculated by operations such as pivoting, sorting, or changing page field items.
+
+For query tables, this property is **True** if any formatting common to the first five rows of data are applied to new rows of data in the query table. Unused cells aren't formatted. 
+
+The property is **False** if the last AutoFormat applied to the query table is applied to new rows of data. The default value is **True**.
 
 
 ## Syntax
@@ -35,15 +39,13 @@ The new AutoFormat style is applied to the query table when the table is refresh
 
 This example preserves the formatting of the first PivotTable report on worksheet one.
 
-
 ```vb
 Worksheets(1).PivotTables("Pivot1").PreserveFormatting = True
 ```
 
-This example demonstrates how setting **PreserveFormatting** to **False** causes the AutoFormat to be set to **xlRangeAutoFormatNone** instead of the specified **xlRangeAutoFormatColor1** format.
+<br/>
 
-
-
+This example demonstrates how setting **PreserveFormatting** to **False** causes the AutoFormat to be set to the **[XlRangeAutoFormat](excel.xlrangeautoformat.md)** value **xlRangeAutoFormatNone** instead of the specified **xlRangeAutoFormatColor1** format.
 
 ```vb
 With Workbooks(1).Worksheets(1).QueryTables(1) 
@@ -54,9 +56,5 @@ End With
 ```
 
 
-## See also
-
-
-[PivotTable Object](Excel.PivotTable.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

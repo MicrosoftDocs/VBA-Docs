@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Chart.ChartColor property (Excel)
 
-Returns or sets an **Integer** that represents the color scheme for the chart. Read-write.
+Returns or sets an **Integer** that represents the color scheme for the chart. Read/write.
 
 
 ## Syntax

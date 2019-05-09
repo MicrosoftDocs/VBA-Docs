@@ -36,7 +36,7 @@ This method can be used on column, bar, line, or radar charts, and it sets the  
 
 ## Example
 
-This example pastes a picture from the Clipboard into series one in Chart1.
+This example pastes a picture from the Clipboard into series one on Chart1.
 
 
 ```vb

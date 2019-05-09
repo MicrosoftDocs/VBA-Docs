@@ -31,7 +31,7 @@ Setting the **[MinimumScale](Excel.Axis.MinimumScale.md)** property sets this pr
 
 ## Example
 
-This example automatically calculates the minimum scale and the maximum scale for the value axis in Chart1.
+This example automatically calculates the minimum scale and the maximum scale for the value axis on Chart1.
 
 ```vb
 With Charts("Chart1").Axes(xlValue) 

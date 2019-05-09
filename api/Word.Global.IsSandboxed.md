@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Global.IsSandboxed property (Word)
 
- **True** if the application window is a protected view window. Read-only.
+ **True** if the application window is a Protected View window. Read-only.
 
 
 ## Syntax
@@ -26,18 +26,18 @@ _expression_. `IsSandboxed`
 
 ## Example
 
-The following code example displays whether or not the document referenced by  _doc_ is in a protected view window.
+The following code example displays whether or not the document referenced by  _doc_ is in a Protected View window.
 
 
 ```vb
 If doc.Application.IsSandboxed Then 
  MsgBox "The document " & _ 
  """" & doc.Name & """" & _ 
- " is in a protected view window." 
+ " is in a Protected View window." 
 Else 
  MsgBox "The document " & _ 
  """" & doc.Name & """" & _ 
- " is not in a protected view window." 
+ " is not in a Protected View window." 
 End If
 ```
 

@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # LineFormat.CapStyle property (Publisher)
 
-Specifies the style of line endings, as well as the format of dashed lines. Read-write.
+Specifies the style of line endings, as well as the format of dashed lines. Read/write.
 
 
 ## Syntax

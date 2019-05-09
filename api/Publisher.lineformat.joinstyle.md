@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # LineFormat.JoinStyle property (Publisher)
 
-Returns of sets the join style for the specified line. Read-write.
+Returns of sets the join style for the specified line. Read/write.
 
 
 ## Syntax

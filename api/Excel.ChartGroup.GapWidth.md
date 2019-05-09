@@ -33,7 +33,7 @@ The value of this property must be between 0 and 500.
 
 ## Example
 
-This example sets the space between column clusters in Chart1 to be 50 percent of the column width.
+This example sets the space between column clusters on Chart1 to be 50 percent of the column width.
 
 ```vb
 Charts("Chart1").ChartGroups(1).GapWidth = 50

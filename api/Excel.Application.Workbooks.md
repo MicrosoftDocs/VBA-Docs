@@ -31,7 +31,7 @@ Using this property without an object qualifier is equivalent to using Applicati
 The collection returned by the **Workbooks** property doesn't include open add-ins, which are a special kind of hidden workbook. You can, however, return a single open add-in if you know the file name. For example, `Workbooks("Oscar.xla")` returns the open add-in named "Oscar.xla" as a **Workbook** object.
 
 > [!NOTE] 
-> A workbook displayed in a protected view window is not a member of the **Workbooks** collection. Instead, use the **[Workbook](Excel.ProtectedViewWindow.Workbook.md)** property of the **ProtectedViewWindow** object to access a workbook that is displayed in a protected view window.
+> A workbook displayed in a Protected View window is not a member of the **Workbooks** collection. Instead, use the **[Workbook](Excel.ProtectedViewWindow.Workbook.md)** property of the **ProtectedViewWindow** object to access a workbook that is displayed in a Protected View window.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ProtectedViewWindowBeforeClose event (PowerPoint)
 
-Occurs immediately before a protected view window or a document in a protected view window closes.
+Occurs immediately before a Protected View window or a document in a Protected View window closes.
 
 
 ## Syntax
@@ -30,8 +30,8 @@ _expression_ A variable that represents an [Application](./PowerPoint.Applicatio
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ProtViewWindow_|Required|**ProtectedViewWindow**|The protected view window that is closed.|
-| _ProtectedViewCloseReason_|Required|**PpProtectedViewCloseReason**|A constant that specifies the reason the protected view window is closed.|
+| _ProtViewWindow_|Required|**ProtectedViewWindow**|The Protected View window that is closed.|
+| _ProtectedViewCloseReason_|Required|**PpProtectedViewCloseReason**|A constant that specifies the reason the Protected View window is closed.|
 | _Cancel_|Required|**Boolean**|**False** when the event occurs. If the event procedure sets this argument to **True**, the window does not close when the procedure is finished.|
 
 ## Return value

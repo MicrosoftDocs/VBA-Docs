@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[DataLabel](excel.datalabel(object).
 
 ## Example
 
-This example sets the data labels for series one in Chart1 to show values and the legend key.
+This example sets the data labels for series one on Chart1 to show values and the legend key.
 
 ```vb
 With Charts("Chart1").SeriesCollection(1).DataLabels 

@@ -22,7 +22,7 @@ _expression_. `TimelineState`
 _expression_ A variable that represents a [SlicerCache](Excel.SlicerCache.md) object.
 
 
-## Returns
+## Return value
 
 [TimelineState](Excel.timelinestate.md)
 

@@ -39,7 +39,7 @@ Object
 
 ## Example
 
-This example adds a linear trendline to series one in Chart1.
+This example adds a linear trendline to series one on Chart1.
 
 
 ```vb

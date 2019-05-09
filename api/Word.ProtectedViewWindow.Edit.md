@@ -44,7 +44,7 @@ Avoid using hard-coded passwords in your applications. If a password is required
 
 ## Example
 
-The following code example opens (for editing) the document associated with the active protected view window.
+The following code example opens (for editing) the document associated with the active Protected View window.
 
 
 ```vb

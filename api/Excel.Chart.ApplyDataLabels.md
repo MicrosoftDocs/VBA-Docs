@@ -42,7 +42,7 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Example
 
-This example applies category labels to series one in Chart1.
+This example applies category labels to series one on Chart1.
 
 ```vb
 Charts("Chart1").SeriesCollection(1). _ 
