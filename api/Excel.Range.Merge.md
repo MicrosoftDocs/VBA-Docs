@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Range.Merge
 ms.assetid: eff315d8-fa8f-e452-2bcd-15be4d97a077
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
 
 # Range.Merge method (Excel)
 
-Creates a merged cell from the specified  **[Range](Excel.Range(object).md)** object.
+Creates a merged cell from the specified **Range** object.
 
 
 ## Syntax
@@ -35,9 +35,6 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 The value of a merged range is specified in the cell of the range's upper-left corner.
 
 
-## See also
 
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Range.Orientation
 ms.assetid: 4f0588b6-2570-fe2f-0cbe-09868b77cff3
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
 
 # Range.Orientation property (Excel)
 
-Returns or sets a  **Variant** value that represents the text orientation.
+Returns or sets a **Variant** value that represents the text orientation.
 
 
 ## Syntax
