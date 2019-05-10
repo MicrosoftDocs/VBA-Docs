@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.RecentFiles.Parent
 ms.assetid: a0479299-eb8a-3825-ee65-6accea2254e4
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [RecentFiles](Excel.RecentFiles.md) object.
+_expression_ A variable that represents a **[RecentFiles](Excel.RecentFiles.md)** object.
 
 
-## See also
 
-
-[RecentFiles Object](Excel.RecentFiles.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.RecentFiles.Item
 ms.assetid: f153bdeb-6c13-2ea8-506a-2b762b211c67
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,10 @@ Returns a single object from a collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [RecentFiles](Excel.RecentFiles.md) object.
+_expression_ A variable that represents a **[RecentFiles](Excel.RecentFiles.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -36,15 +34,10 @@ _expression_ A variable that represents a [RecentFiles](Excel.RecentFiles.md) ob
 
 This example opens file two in the list of recently used files.
 
-
 ```vb
 Application.RecentFiles.Item(2).Open
 ```
 
 
-## See also
-
-
-[RecentFiles Object](Excel.RecentFiles.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

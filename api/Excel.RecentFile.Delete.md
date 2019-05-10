@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.RecentFile.Delete
 ms.assetid: 3e37b557-56a1-a8c0-dcd6-17945a1bc8d4
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Deletes the object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [RecentFile](Excel.RecentFile.md) object.
+_expression_ A variable that represents a **[RecentFile](Excel.RecentFile.md)** object.
 
 
-## See also
 
-
-[RecentFile Object](Excel.RecentFile.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
