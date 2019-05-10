@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Range.PivotCell
 ms.assetid: 976f6393-db3b-d52a-0cbc-88a73bb7c070
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
 
 # Range.PivotCell property (Excel)
 
-Returns a  **[PivotCell](Excel.PivotCell.md)** object that represents a cell in a PivotTable report.
+Returns a **[PivotCell](Excel.PivotCell.md)** object that represents a cell in a PivotTable report.
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 ## Example
 
-This example determines the name of the PivotTable the  **PivotCell** object is located in and notifies the user. The example assumes that a PivotTable exists on the active worksheet and that cell A3 is located in the PivotTable.
-
+This example determines the name of the PivotTable that the **PivotCell** object is located in and notifies the user. The example assumes that a PivotTable exists on the active worksheet and that cell A3 is located in the PivotTable.
 
 ```vb
 Sub CheckPivotCell() 
@@ -40,10 +39,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Range Object](Excel.Range(object).md)
-[ValueChange Object](Excel.ValueChange.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
