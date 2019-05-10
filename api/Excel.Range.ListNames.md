@@ -19,7 +19,7 @@ Pastes a list of all nonhidden names onto the worksheet, beginning with the firs
 
 ## Syntax
 
-_expression_. `ListNames`
+_expression_.**ListNames**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 

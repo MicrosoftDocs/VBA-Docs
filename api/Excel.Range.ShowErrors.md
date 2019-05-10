@@ -19,7 +19,7 @@ Draws tracer arrows through the precedents tree to the cell that's the source of
 
 ## Syntax
 
-_expression_. `ShowErrors`
+_expression_.**ShowErrors**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 

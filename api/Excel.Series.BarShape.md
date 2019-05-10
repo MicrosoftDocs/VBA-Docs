@@ -19,7 +19,7 @@ Returns or sets the shape used with the 3D bar or column chart. Read/write  **[X
 
 ## Syntax
 
-_expression_. `BarShape`
+_expression_.**BarShape**
 
 _expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 

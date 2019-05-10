@@ -19,9 +19,9 @@ Creates a new series.
 
 ## Syntax
 
-_expression_. `NewSeries`
+_expression_.**NewSeries**
 
-_expression_ A variable that represents a '[SeriesCollection](Word.SeriesCollection.md)' object.
+_expression_ A variable that represents a **[SeriesCollection](Word.SeriesCollection.md)** object.
 
 
 ## Return value

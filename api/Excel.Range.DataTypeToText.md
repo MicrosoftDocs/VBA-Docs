@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: excel
 api_name:
 - Excel.Range.DataTypeToText
-ms.date: 09/12/2018
+ms.date: 05/10/2019
 localization_priority: Normal
 ---
 
@@ -17,28 +17,22 @@ If any of the cells in the range are a Linked data type such as [Stocks or Geogr
 
 ## Syntax
 
-_expression_. `DataTypeToText`
+_expression_.**DataTypeToText**
 
-_expression_ A variable that represents a [Range](Excel.Range(Object).md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 ## Remarks
 
-The call can fail if _none_ of the cells in the range are a Linked data type. In this case, it will throw runtime exception '1004'.
+The call can fail if _none_ of the cells in the range are a Linked data type. In this case, it will throw runtime exception 1004.
 
 ## Example
 
-This code will convert the range E5:G10 into text:
+This code will convert the range E5:G10 into text.
 
 ```vb
 Worksheets(1).Range("E5:G10").DataTypeToText
 ```
 
-## See also
 
-- [Range.ConvertToLinkedDataType](Excel.Range.ConvertToLinkedDataType.md)
-- [Range.SetCellDataTypeFromCell](Excel.Range.SetCellDataTypeFromCell.md)
-- [Range.HasRichDataType](Excel.Range.HasRichDataType.md)
-- [Range.LinkedDataTypeState](Excel.Range.LinkedDataTypeState.md)
-- [Range.ShowCard](Excel.Range.ShowCard.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

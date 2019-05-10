@@ -19,7 +19,7 @@ Returns a  **Rows** collection that represents all the table rows within a table
 
 ## Syntax
 
-_expression_. `Rows`
+_expression_.**Rows**
 
 _expression_ A variable that represents a '[Table](Word.Table.md)' object.
 
@@ -32,7 +32,6 @@ For information about returning a single member of a collection, see [Returning 
 ## Example
 
 This example deletes the second row from the first table in the active document.
-
 
 ```vb
 ActiveDocument.Tables(1).Rows(2).Delete

@@ -7,19 +7,19 @@ ms.prod: excel
 api_name:
 - Excel.Range.Column
 ms.assetid: 4f540fae-fc9f-30de-5d71-f6496b78930b
-ms.date: 06/08/2017
+ms.date: 05/10/2019
 localization_priority: Normal
 ---
 
 
 # Range.Column property (Excel)
 
-Returns the number of the first column in the first area in the specified range. Read-only  **Long**.
+Returns the number of the first column in the first area in the specified range. Read-only **Long**.
 
 
 ## Syntax
 
-_expression_. `Column`
+_expression_.**Column**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
@@ -30,13 +30,12 @@ Column A returns 1, column B returns 2, and so on.
 
 To return the number of the last column in the range, use the following expression.
 
- `myRange.Columns(myRange.Columns.Count).Column`
+`myRange.Columns(myRange.Columns.Count).Column`
 
 
 ## Example
 
 This example sets the column width of every other column on Sheet1 to 4 points.
-
 
 ```vb
 For Each col In Worksheets("Sheet1").Columns 
@@ -46,12 +45,9 @@ For Each col In Worksheets("Sheet1").Columns
 Next col
 ```
 
- **Sample code provided by:** Dennis Wallentin, [VSTO & .NET & Excel](https://xldennis.wordpress.com/)
+<br/>
 
 This example deletes the empty columns from a selected range.
-
-
-
 
 ```vb
 Sub Delete_Empty_Columns()
@@ -97,14 +93,6 @@ End Sub
 ```
 
 
-### About the contributor
 
-Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
-
-
-## See also
-
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

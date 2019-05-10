@@ -18,7 +18,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `HasRichDataType`
+_expression_.**HasRichDataType**
 
 _expression_ A variable that represents a [Range](Excel.Range(Object).md) object.
 

@@ -19,7 +19,7 @@ Returns or sets the shape used for a single series in a 3D bar or column chart. 
 
 ## Syntax
 
-_expression_. `BarShape`
+_expression_.**BarShape**
 
 _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 
@@ -32,9 +32,6 @@ _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' objec
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the shape used for the first series of the first chart in the active document.
-
-
-
 
 ```vb
 With ActiveDocument.InlineShapes(1)

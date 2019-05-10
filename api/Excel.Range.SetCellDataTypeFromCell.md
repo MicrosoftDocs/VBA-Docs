@@ -17,7 +17,7 @@ Creates another instance of a Linked data type such as [Stocks or Geography](htt
 
 ## Syntax
 
-_expression_. `SetCellDataTypeFromCell`( `Range`, `LanguageCulture` )
+_expression_.**SetCellDataTypeFromCell** (_Range_, _LanguageCulture_)
 
 _expression_ A variable that represents the [Range](Excel.Range(Object).md) _to_ which you want to copy the Linked data type.
 

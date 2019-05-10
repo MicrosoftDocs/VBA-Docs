@@ -19,7 +19,7 @@ Returns the endpoint of a  **Curve** object. Read-only.
 
 ## Syntax
 
-_expression_. `End`
+_expression_.**End**
 
 _expression_ A variable that represents a [Curve](./Visio.Curve.md) object.
 

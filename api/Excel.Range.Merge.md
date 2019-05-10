@@ -19,14 +19,12 @@ Creates a merged cell from the specified  **[Range](Excel.Range(object).md)** ob
 
 ## Syntax
 
-_expression_. `Merge`( `_Across_` )
+_expression_.**Merge** (_Across_)
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -19,14 +19,12 @@ Merges the changes marked with revision marks from one document to another.
 
 ## Syntax
 
-_expression_. `Merge`( `_Name_` , `_MergeTarget_` , `_DetectFormatChanges_` , `_UseFormattingFrom_` , `_AddToRecentFiles_` )
+_expression_.**Merge** (_Name_, _MergeTarget_, _DetectFormatChanges_, _UseFormattingFrom_, _AddToRecentFiles_)
 
 _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

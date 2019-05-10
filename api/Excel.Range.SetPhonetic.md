@@ -19,7 +19,7 @@ Creates  **[Phonetic](Excel.Phonetic.md)** objects for all the cells in the spec
 
 ## Syntax
 
-_expression_. `SetPhonetic`
+_expression_.**SetPhonetic**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 

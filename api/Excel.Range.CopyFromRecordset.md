@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.CopyFromRecordset
 ms.assetid: cec7fded-f4e0-1b1c-5374-8a860828c9cc
-ms.date: 06/08/2017
+ms.date: 05/10/2019
 localization_priority: Normal
 ---
 
@@ -46,7 +46,6 @@ Copying begins at the current row of the **Recordset** object. After copying is 
 
 This example copies the field names from a DAO **Recordset** object into the first row of a worksheet and formats the names as bold. The example then copies the recordset onto the worksheet, beginning at cell A2.
 
-
 ```vb
 For iCols = 0 to rs.Fields.Count - 1 
  ws.Cells(1, iCols + 1).Value = rs.Fields(iCols).Name 
@@ -57,8 +56,5 @@ ws.Range("A2").CopyFromRecordset rs
 ```
 
 
-## See also
-
-- [Range object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

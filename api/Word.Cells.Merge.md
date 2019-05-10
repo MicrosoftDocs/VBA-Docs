@@ -19,7 +19,7 @@ Merges the specified table cells with one another. The result is a single table 
 
 ## Syntax
 
-_expression_. `Merge`
+_expression_.**Merge**
 
 _expression_ Required. A variable that represents a '[Cells](Word.cells.md)' collection.
 

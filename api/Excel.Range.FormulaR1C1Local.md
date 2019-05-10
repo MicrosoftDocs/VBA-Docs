@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Range.FormulaR1C1Local
 ms.assetid: be0e3270-43fd-e6c7-1209-11ed3204e563
-ms.date: 06/08/2017
+ms.date: 05/10/2019
 localization_priority: Normal
 ---
 
 
 # Range.FormulaR1C1Local property (Excel)
 
-Returns or sets the formula for the object, using R1C1-style notation in the language of the user. Read/write  **Variant**.
+Returns or sets the formula for the object, using R1C1-style notation in the language of the user. Read/write **Variant**.
 
 
 ## Syntax
@@ -39,15 +39,9 @@ Setting the formula of a multiple-cell range fills all cells in the range with t
 
 Assume that you enter the formula =SUM(A1:A10) in cell A11 on worksheet one, using the American English version of Microsoft Excel. If you then open the workbook on a computer that's running the German version and run the following example, the example displays the formula =SUMME(Z1S1:Z10S1) in a message box.
 
-
 ```vb
 MsgBox Worksheets(1).Range("A11").FormulaR1C1Local
 ```
 
-
-## See also
-
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

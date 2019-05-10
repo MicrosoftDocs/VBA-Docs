@@ -19,14 +19,12 @@ Draws tracer arrows to the direct precedents of the range.
 
 ## Syntax
 
-_expression_. `ShowPrecedents`( `_Remove_` )
+_expression_.**ShowPrecedents** (_Remove_)
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

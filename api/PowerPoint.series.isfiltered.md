@@ -17,7 +17,7 @@ Returns or sets a  **Boolean** that determines whether the specified chart serie
 
 ## Syntax
 
-_expression_. `IsFiltered`
+_expression_.**IsFiltered**
 
 _expression_ A variable that represents a [Series](./PowerPoint.Series.md) object.
 

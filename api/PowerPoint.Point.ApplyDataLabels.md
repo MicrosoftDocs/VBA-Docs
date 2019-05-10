@@ -19,14 +19,12 @@ Applies data labels to a point.
 
 ## Syntax
 
-_expression_. `ApplyDataLabels`( `_Type_`, `_LegendKey_`, `_AutoText_`, `_HasLeaderLines_`, `_ShowSeriesName_`, `_ShowCategoryName_`, `_ShowValue_`, `_ShowPercentage_`, `_ShowBubbleSize_`, `_Separator_` )
+_expression_.**ApplyDataLabels** (_Type_, _LegendKey_, _AutoText_, _HasLeaderLines_, _ShowSeriesName_, _ShowCategoryName_, _ShowValue_, _ShowPercentage_, _ShowBubbleSize_, _Separator_)
 
 _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

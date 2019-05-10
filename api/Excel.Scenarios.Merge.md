@@ -19,14 +19,12 @@ Merges the scenarios from another sheet into the  **[Scenarios](Excel.Scenarios.
 
 ## Syntax
 
-_expression_. `Merge`( `_Source_` )
+_expression_.**Merge** (_Source_)
 
 _expression_ A variable that represents a [Scenarios](Excel.Scenarios.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

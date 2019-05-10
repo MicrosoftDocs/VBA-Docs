@@ -33,7 +33,7 @@ _expression_ A variable that represents a **[ProtectedViewWindow](Excel.Protecte
 
 ## Return value
 
-[Workbook](Excel.Workbook.md)
+**[Workbook](Excel.Workbook.md)**
 
 
 ## Remarks

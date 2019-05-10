@@ -19,7 +19,7 @@ Returns the maximum number of custom or conversion dictionaries allowed. Read-on
 
 ## Syntax
 
-_expression_. `Maximum`
+_expression_.**Maximum**
 
 _expression_ Required. A variable that represents a '[Dictionaries](Word.dictionaries.md)' collection.
 

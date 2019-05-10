@@ -19,7 +19,7 @@ Returns a  **String** that represents the XPath for the XML mapping, which evalu
 
 ## Syntax
 
-_expression_. `XPath`
+_expression_.**XPath**
 
  _expression_ An expression that returns an '[XMLMapping](Word.XMLMapping.md)' object.
 

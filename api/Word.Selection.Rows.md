@@ -19,7 +19,7 @@ Returns a  **[Rows](Word.rows.md)** collection that represents all the table row
 
 ## Syntax
 
-_expression_. `Rows`
+_expression_.**Rows**
 
 _expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 

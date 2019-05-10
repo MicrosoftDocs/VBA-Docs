@@ -19,7 +19,7 @@ Returns a  **String** that represents the internal identification number for a b
 
 ## Syntax
 
-_expression_. `ID`
+_expression_.**ID**
 
  _expression_ An expression that returns a [BuildingBlock](./Word.BuildingBlock.md) object.
 

@@ -19,7 +19,7 @@ Returns an **[XPath](Excel.XPath.md)** object that represents the Xpath of the e
 
 ## Syntax
 
-_expression_. `XPath`
+_expression_.**XPath**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 

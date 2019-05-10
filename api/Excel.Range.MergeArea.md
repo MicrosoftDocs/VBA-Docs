@@ -19,7 +19,7 @@ Returns a  **Range** object that represents the merged range containing the spec
 
 ## Syntax
 
-_expression_. `MergeArea`
+_expression_.**MergeArea**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 

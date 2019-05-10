@@ -19,7 +19,7 @@ Returns or sets the amount of separation, in [points](../language/glossary/vbe-g
 
 ## Syntax
 
-_expression_. `Offset`
+_expression_.**Offset**
 
  _expression_ An expression that returns a '[ReflectionFormat](Word.ReflectionFormat.md)' object.
 

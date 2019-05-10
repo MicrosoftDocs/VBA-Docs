@@ -7,30 +7,28 @@ ms.prod: excel
 api_name:
 - Excel.Range.FindPrevious
 ms.assetid: c03f2e17-d28c-8b0d-b8c8-024863523c99
-ms.date: 06/08/2017
+ms.date: 05/10/2019
 localization_priority: Normal
 ---
 
 
 # Range.FindPrevious method (Excel)
 
-Continues a search that was begun with the  **[Find](Excel.Range.Find.md)** method. Finds the previous cell that matches those same conditions and returns a **[Range](Excel.Range(object).md)** object that represents that cell. Doesn't affect the selection or the active cell.
+Continues a search that was begun with the **[Find](Excel.Range.Find.md)** method. Finds the previous cell that matches those same conditions and returns a **Range** object that represents that cell. Doesn't affect the selection or the active cell.
 
 
 ## Syntax
 
-_expression_. `FindPrevious`( `_After_` )
+_expression_.**FindPrevious** (_Before_)
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _After_|Optional| **Variant**|The cell before which you want to search. This corresponds to the position of the active cell when a search is done from the user interface. Note that  _After_ must be a single cell in the range. Remember that the search begins before this cell; the specified cell isn't searched until the method wraps back around to this cell. If this argument isn't specified, the search starts before the upper- left cell in the range.|
+| _Before_|Optional| **Variant**|The cell before which you want to search. This corresponds to the position of the active cell when a search is done from the user interface. Note that _Before_ must be a single cell in the range.<br/><br/>Remember that the search begins before this cell; the specified cell isn't searched until the method wraps back around to this cell. If this argument isn't specified, the search starts before the upper-left cell in the range.|
 
 ## Return value
 
@@ -44,8 +42,7 @@ When the search reaches the beginning of the specified search range, it wraps ar
 
 ## Example
 
-This example shows how the  **FindPrevious** method is used with the **Find** and **[FindNext](Excel.Range.FindNext.md)** methods. Before running this example, make sure that Sheet1 contains at least two occurrences of the word ?Phoenix? in column B.
-
+This example shows how the **FindPrevious** method is used with the **Find** and **[FindNext](Excel.Range.FindNext.md)** methods. Before running this example, make sure that Sheet1 contains at least two occurrences of the word Phoenix in column B.
 
 ```vb
 Sub FindTest() 
@@ -60,9 +57,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

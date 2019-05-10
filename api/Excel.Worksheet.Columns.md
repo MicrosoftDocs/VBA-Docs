@@ -19,7 +19,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents all the co
 
 ## Syntax
 
-_expression_. `Columns`
+_expression_.**Columns**
 
 _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 

@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Series.HasDataLabels property (Word)
 
- **True** if the series has data labels. Read/write **Boolean**.
+**True** if the series has data labels. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `HasDataLabels`
+_expression_.**HasDataLabels**
 
 _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 

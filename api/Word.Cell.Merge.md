@@ -19,14 +19,12 @@ Merges the specified table cell with another table cell. The result is a single 
 
 ## Syntax
 
-_expression_. `Merge`( `_MergeTo_` )
+_expression_.**Merge** (_MergeTo_)
 
 _expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

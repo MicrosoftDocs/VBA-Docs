@@ -19,7 +19,7 @@ Returns or sets the plot order for the selected series within the chart group. R
 
 ## Syntax
 
-_expression_. `PlotOrder`
+_expression_.**PlotOrder**
 
 _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 

@@ -19,7 +19,7 @@ Returns the identification type for the range of shapes. Read-only  **Long**.
 
 ## Syntax
 
-_expression_. `ID`
+_expression_.**ID**
 
 _expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 

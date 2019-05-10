@@ -16,7 +16,7 @@ Gets or sets the phonetic representation of a resource name. Read/write  **Strin
 
 ## Syntax
 
-_expression_. `Phonetics`
+_expression_.**Phonetics**
 
 _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

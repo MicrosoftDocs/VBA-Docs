@@ -19,7 +19,7 @@ Returns a  **[QueryTable](Excel.QueryTable.md)** object that represents the quer
 
 ## Syntax
 
-_expression_. `QueryTable`
+_expression_.**QueryTable**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 

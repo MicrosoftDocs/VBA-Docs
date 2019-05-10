@@ -19,7 +19,7 @@ Returns a  **[SparklineGroups](Excel.SparklineGroups.md)** object that represent
 
 ## Syntax
 
-_expression_. `SparklineGroups`
+_expression_.**SparklineGroups**
 
 _expression_ A variable that represents a '[Range](Excel.Range(object).md)' object.
 

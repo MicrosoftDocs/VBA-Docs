@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.ApplyOutlineStyles
 ms.assetid: eab9b4ed-5d4c-8205-63f2-fa8e4539da73
-ms.date: 06/08/2017
+ms.date: 05/10/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Applies outlining styles to the specified range.
 
 ## Syntax
 
-_expression_. `ApplyOutlineStyles`
+_expression_.**ApplyOutlineStyles**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
@@ -33,15 +33,11 @@ Variant
 
 The following example applies automatic outlining styles to the selection. The selection must include the entire outline range on a worksheet.
 
-
 ```vb
 Selection.ApplyOutlineStyles
 ```
 
 
-## See also
 
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

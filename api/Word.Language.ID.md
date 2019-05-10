@@ -19,7 +19,7 @@ Returns a number that identifies the specified language. Read-only  **WdLanguage
 
 ## Syntax
 
-_expression_. `ID`
+_expression_.**ID**
 
 _expression_ Required. A variable that represents a '[Language](Word.Language.md)' object.
 
