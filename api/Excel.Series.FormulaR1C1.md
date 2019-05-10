@@ -7,21 +7,21 @@ ms.prod: excel
 api_name:
 - Excel.Series.FormulaR1C1
 ms.assetid: d7b821f2-6e5c-21bc-b080-ddf666b466c4
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
 
 # Series.FormulaR1C1 property (Excel)
 
-Returns or sets the formula for the object, using R1C1-style notation in the language of the macro. Read/write  **String**.
+Returns or sets the formula for the object, using R1C1-style notation in the language of the macro. Read/write **String**.
 
 
 ## Syntax
 
 _expression_.**FormulaR1C1**
 
-_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a **[Series](Excel.Series(object).md)** object.
 
 
 ## Remarks
@@ -35,9 +35,5 @@ If the range is a one- or two-dimensional range, you can set the formula to a Vi
 Setting the formula of a multiple-cell range fills all cells in the range with the formula.
 
 
-## See also
-
-
-[Series Object](Excel.Series(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

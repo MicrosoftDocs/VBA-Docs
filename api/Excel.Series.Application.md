@@ -7,27 +7,28 @@ ms.prod: excel
 api_name:
 - Excel.Series.Application
 ms.assetid: b36ee17b-a3dd-7458-6b65-8fb7723f41bd
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
 
 # Series.Application property (Excel)
 
-When used without an object qualifier, this property returns an  **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object (you can use this property with an OLE Automation object to return the application of that object). Read-only.
+When used without an object qualifier, this property returns an **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. 
+
+When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object (you can use this property with an OLE Automation object to return the application of that object). Read-only.
 
 
 ## Syntax
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a **[Series](Excel.Series(object).md)** object.
 
 
 ## Example
 
 This example displays a message about the application that created _myObject_.
-
 
 ```vb
 Set myObject = ActiveWorkbook 
@@ -39,9 +40,6 @@ End If
 ```
 
 
-## See also
 
-
-[Series Object](Excel.Series(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Series.ClearFormats
 ms.assetid: 0c94178c-493b-9738-3b85-67448d13a458
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Clears the formatting of the object.
 
 _expression_.**ClearFormats**
 
-_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a **[Series](Excel.Series(object).md)** object.
 
 
 ## Return value
@@ -29,9 +29,6 @@ _expression_ A variable that represents a [Series](Excel.Series-graph-object.md)
 Variant
 
 
-## See also
 
-
-[Series Object](Excel.Series(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
