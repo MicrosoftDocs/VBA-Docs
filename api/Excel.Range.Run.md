@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.Run
 ms.assetid: b7a0480a-9f10-8aad-6592-3cbde72720cd
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -26,11 +26,9 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg30_|Optional| **Variant**|The arguments that should be passed to the function.|
+| _Arg1_ &ndash; _Arg30_|Optional| **Variant**|The arguments that should be passed to the function.|
 
 ## Return value
 
@@ -41,12 +39,8 @@ Variant
 
 You cannot use named arguments with this method. Arguments must be passed by position.
 
-The  **Run** method returns whatever the called macro returns. Objects passed as arguments to the macro are converted to values (by applying the **Value** property to the object). This means that you cannot pass objects to macros by using the **Run** method.
+The **Run** method returns whatever the called macro returns. Objects passed as arguments to the macro are converted to values (by applying the **Value** property to the object). This means that you cannot pass objects to macros by using the **Run** method.
 
 
-## See also
-
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

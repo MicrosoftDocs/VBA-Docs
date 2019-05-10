@@ -12,20 +12,16 @@ localization_priority: Normal
 
 # PreviewPane.Parent property (Outlook)
 
-Returns the parent property for the [PreviewPane](Outlook.previewpane.md) Object. Read only.
+Returns the parent property for the **PreviewPane** object. Read-only.
 
 
 ## Syntax
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a 'PreviewPane' object.
-
-
-## See also
+_expression_ A variable that represents a **[PreviewPane](Outlook.previewpane.md)** object.
 
 
 
-[PreviewPane object (Outlook)](Outlook.previewpane.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

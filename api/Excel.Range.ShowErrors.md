@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.ShowErrors
 ms.assetid: 02366ef0-b4dc-a10c-e186-d9392a8b656c
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -33,7 +33,6 @@ Variant
 
 This example displays a red tracer arrow if there's an error in the active cell on Sheet1.
 
-
 ```vb
 Worksheets("Sheet1").Activate 
 If IsError(ActiveCell.Value) Then 
@@ -42,9 +41,5 @@ End If
 ```
 
 
-## See also
-
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.Select
 ms.assetid: 46c12f85-fae5-15ea-3500-81ff8be49cdb
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -31,12 +31,9 @@ Variant
 
 ## Remarks
 
-To select a cell or a range of cells, use the  **Select** method. To make a single cell the active cell, use the **[Activate](Excel.Range.Activate.md)** method.
+To select a cell or a range of cells, use the **Select** method. To make a single cell the active cell, use the **[Activate](Excel.Range.Activate.md)** method.
 
 
-## See also
 
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
