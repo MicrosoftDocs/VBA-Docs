@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.HorizontalAlignment
 ms.assetid: 6689de5b-60de-07db-d2b4-114f0a343ebc
-ms.date: 08/24/2018
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -30,8 +30,6 @@ The value of this property can be set to one of the **[XlHAlign](excel.xlhalign.
 Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
 
-## See also
 
-- [Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

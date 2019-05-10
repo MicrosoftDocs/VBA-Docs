@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.InsertIndent
 ms.assetid: 1e004333-a64e-55e4-cf8a-d15e47236f94
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -34,13 +34,12 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 Using this method to set the indent level to a number less than 0 (zero) or greater than 15 causes an error.
 
-Use the  **IndentLevel** property to return the indent level for a range.
+Use the **[IndentLevel](excel.range.indentlevel.md)** property to return the indent level for a range.
 
 
 ## Example
 
 This example decreases the indent level in cell A10.
-
 
 ```vb
 With Range("a10") 
@@ -49,9 +48,6 @@ End With
 ```
 
 
-## See also
 
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

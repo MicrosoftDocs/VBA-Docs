@@ -13,7 +13,7 @@ localization_priority: Normal
 
 # Range.DataTypeToText method (Excel)
 
-If any of the cells in the range are a Linked data type such as [Stocks or Geography](https://support.office.com/article/stock-quotes-and-geographic-data-61a33056-9935-484f-8ac8-f1a89e210877), this call will convert their values to text. 
+If any of the cells in the range are a Linked data type, such as [Stocks or Geography](https://support.office.com/article/stock-quotes-and-geographic-data-61a33056-9935-484f-8ac8-f1a89e210877), this call will convert their values to text. 
 
 ## Syntax
 

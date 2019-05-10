@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Range.Hidden
 ms.assetid: 7e785c38-a8ae-3810-a88a-0bfb7b74e2d6
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
 
 # Range.Hidden property (Excel)
 
-Returns or sets a  **Variant** value that indicates if the rows or columns are hidden.
+Returns or sets a **Variant** value that indicates if the rows or columns are hidden.
 
 
 ## Syntax
@@ -26,24 +26,19 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 ## Remarks
 
-Set this property to  **True** to hide a row or column. The specified range must span an entire column or row.
+Set this property to **True** to hide a row or column. The specified range must span an entire column or row.
 
-Don't confuse this property with the  **[FormulaHidden](Excel.Range.FormulaHidden.md)** property.
+Don't confuse this property with the **[FormulaHidden](Excel.Range.FormulaHidden.md)** property.
 
 
 ## Example
 
 This example hides column C on Sheet1.
 
-
 ```vb
 Worksheets("Sheet1").Columns("C").Hidden = True
 ```
 
 
-## See also
-
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
