@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.Insert
 ms.assetid: e612bbc8-3942-3349-f157-c0459805794a
-ms.date: 09/19/2018
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -37,7 +37,7 @@ Variant
 
 ## Remarks
 
-There is not a value for _CopyOrigin_ that is equivalent to _Clear Formatting_ when inserting cells interactively in Excel. To achieve this, use the **[ClearFormats](Excel.Range.ClearFormats.md)** method:
+There is no value for _CopyOrigin_ that is equivalent to _Clear Formatting_ when inserting cells interactively in Excel. To achieve this, use the **[ClearFormats](Excel.Range.ClearFormats.md)** method.
 
 ```vb
 With Range("B2:E5")
@@ -50,13 +50,10 @@ End With
 
 This example inserts a row above row 2, copying the format from the row below (row 3) instead of from the header row.
 
-
 ```vb
 Range("2:2").Insert CopyOrigin:=xlFormatFromRightOrBelow
 ```
 
-## See also
 
-- [Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Range.ID
 ms.assetid: 0ff7f261-8829-2858-5097-a638c01e5f3c
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
 
 # Range.ID property (Excel)
 
-Returns or sets a  **String** value that represents the identifying label for the specified cell when the page is saved as a webpage.
+Returns or sets a **String** value that represents the identifying label for the specified cell when the page is saved as a webpage.
 
 
 ## Syntax
@@ -31,26 +31,21 @@ You can use an ID label as a hyperlink reference in other HTML documents or on t
 
 ## Example
 
-This example sets the ID of cell A1 on the active worksheet to "target".
-
+This example sets the ID of cell A1 on the active worksheet to Target.
 
 ```vb
 ActiveSheet.Range("A1").ID = "target"
 ```
 
-Later, the document is saved as a webpage, and the following line of HTML is added to the webpage. When the user then views the page in a web browser and clicks the hyperlink, the browser displays the cell.
+<br/>
 
-
-
+Later, the document is saved as a webpage, and the following line of HTML is added to the webpage. When the user then views the page in a web browser and chooses the hyperlink, the browser displays the cell.
 
 ```vb
 <A HREF="#target">Quarterly earnings</A>
 ```
 
 
-## See also
 
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

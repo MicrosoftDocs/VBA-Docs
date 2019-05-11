@@ -13,11 +13,13 @@ localization_priority: Normal
 
 Specifies the new access mode for the object.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **xlReadOnly**|3|Read only.|
-| **xlReadWrite**|2|Read/write.|
+| **xlReadOnly**|3|Read-only|
+| **xlReadWrite**|2|Read/write|
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

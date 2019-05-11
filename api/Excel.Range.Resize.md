@@ -7,26 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.Range.Resize
 ms.assetid: 05af0539-8aa3-c83c-1972-dfac618929b9
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
 
 # Range.Resize property (Excel)
 
-Resizes the specified range. Returns a  **[Range](Excel.Range(object).md)** object that represents the resized range.
+Resizes the specified range. Returns a **Range** object that represents the resized range.
 
 
 ## Syntax
 
 _expression_.**Resize** (_RowSize_, _ColumnSize_)
 
- _expression_ An expression that returns a **[Range](excel.range(object).md)** object.
+_expression_ An expression that returns a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -42,7 +40,6 @@ Range
 
 This example resizes the selection on Sheet1 to extend it by one row and one column.
 
-
 ```vb
 Worksheets("Sheet1").Activate 
 numRows = Selection.Rows.Count 
@@ -50,10 +47,9 @@ numColumns = Selection.Columns.Count
 Selection.Resize(numRows + 1, numColumns + 1).Select
 ```
 
-This example assumes that you have a table on Sheet1 that has a header row. The example selects the table, without selecting the header row. The active cell must be somewhere in the table before you run the example.
+<br/>
 
-
-
+This example assumes that you have a table on Sheet1 that has a header row. The example selects the table without selecting the header row. The active cell must be somewhere in the table before you run the example.
 
 ```vb
 Set tbl = ActiveCell.CurrentRegion 
@@ -62,9 +58,5 @@ tbl.Offset(1, 0).Resize(tbl.Rows.Count - 1, _
 ```
 
 
-## See also
-
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

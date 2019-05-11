@@ -7,26 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.RecentFile.Name
 ms.assetid: 54bde128-8f11-7bd3-9e17-f6a81f7e6b82
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
 
 # RecentFile.Name property (Excel)
 
-Returns a  **String** value that represents the name of the object.
+Returns a **String** value that represents the name of the object.
 
 
 ## Syntax
 
 _expression_.**Name**
 
-_expression_ A variable that represents a [RecentFile](Excel.RecentFile.md) object.
+_expression_ A variable that represents a **[RecentFile](Excel.RecentFile.md)** object.
 
 
-## See also
 
-
-[RecentFile Object](Excel.RecentFile.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

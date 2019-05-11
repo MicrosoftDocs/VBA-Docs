@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Range.SpecialCells
 ms.assetid: 30c2035c-34e3-3b1a-f243-69a9fed97f3b
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
 
 # Range.SpecialCells method (Excel)
 
-Returns a  **[Range](Excel.Range(object).md)** object that represents all the cells that match the specified type and value.
+Returns a **Range** object that represents all the cells that match the specified type and value.
 
 
 ## Syntax
@@ -26,12 +26,10 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **[XlCellType](Excel.XlCellType.md)**|The cells to include.|
-| _Value_|Optional| **Variant**|If  _Type_ is either **xlCellTypeConstants** or **xlCellTypeFormulas**, this argument is used to determine which types of cells to include in the result. These values can be added together to return more than one type. The default is to select all constants or formulas, no matter what the type.|
+| _Value_|Optional| **Variant**|If _Type_ is either **xlCellTypeConstants** or **xlCellTypeFormulas**, this argument is used to determine which types of cells to include in the result. These values can be added together to return more than one type. The default is to select all constants or formulas, no matter what the type.|
 
 ## Return value
 
@@ -40,35 +38,11 @@ Range
 
 ## Remarks
 
-
-
-
-
-|**xlCellType constants**|**Value**|
-|:-----|:-----|
-| **xlCellTypeAllFormatConditions**. Cells of any format|-4172|
-| **xlCellTypeAllValidation**. Cells having validation criteria|-4174|
-| **xlCellTypeBlanks**. Empty cells|4|
-| **xlCellTypeComments**. Cells containing notes|-4144|
-| **xlCellTypeConstants**. Cells containing constants|2|
-| **xlCellTypeFormulas**. Cells containing formulas|-4123|
-| **xlCellTypeLastCell**. The last cell in the used range|11|
-| **xlCellTypeSameFormatConditions**. Cells having the same format|-4173|
-| **xlCellTypeSameValidation**. Cells having the same validation criteria|-4175|
-| **xlCellTypeVisible**. All visible cells|12|
-
-
-|** XlSpecialCellsValue constants**|**Value**|
-|:-----|:-----|
-| **xlErrors**|16|
-| **xlLogical**|4|
-| **xlNumbers**|1|
-| **xlTextValues**|2|
+Use the **[XlSpecialCellsValue](excel.xlspecialcellsvalue.md)** enumeration to specify cells with a particular type of value to include in the result.
 
 ## Example
 
 This example selects the last cell in the used range of Sheet1.
-
 
 ```vb
 Worksheets("Sheet1").Activate 
@@ -76,9 +50,5 @@ ActiveSheet.Cells.SpecialCells(xlCellTypeLastCell).Activate
 ```
 
 
-## See also
-
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

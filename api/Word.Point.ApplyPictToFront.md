@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Point.ApplyPictToFront property (Word)
 
- **True** if a picture is applied to the front of the point or all points in the series. Read/write **Boolean**.
+**True** if a picture is applied to the front of the point or all points in the series. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `ApplyPictToFront`
+_expression_.**ApplyPictToFront**
 
 _expression_ A variable that represents a '[Point](Word.Point.md)' object.
 

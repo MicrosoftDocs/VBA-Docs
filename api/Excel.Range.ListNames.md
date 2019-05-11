@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.ListNames
 ms.assetid: 0523f9b3-d422-76b6-889c-75619cb5b9a6
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -31,22 +31,18 @@ Variant
 
 ## Remarks
 
-Use the  **[Names](Excel.Worksheet.Names.md)** property to return a collection of all the names on a worksheet.
+Use the **[Names](Excel.Worksheet.Names.md)** property to return a collection of all the names on a worksheet.
 
 
 ## Example
 
 This example pastes a list of defined names into cell A1 on Sheet1. The example pastes both workbook-level names and sheet-level names defined on Sheet1.
 
-
 ```vb
 Worksheets("Sheet1").Range("A1").ListNames
 ```
 
 
-## See also
 
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

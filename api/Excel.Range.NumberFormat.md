@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.NumberFormat
 ms.assetid: 351247d2-e4b9-64a0-6dbe-0df535fa701c
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Priority
 ---
 
@@ -27,6 +27,8 @@ This property returns **Null** if all cells in the specified range don't have th
 
 The format code is the same string as the **Format Codes** option in the **Format Cells** dialog box. The **Format** function uses different format code strings than do the **NumberFormat** and **[NumberFormatLocal](Excel.Range.NumberFormatLocal.md)** properties.
 
+For more information, see [Number format codes (Microsoft Support)](https://support.office.com/article/number-format-codes-5026bbd6-04bc-48cd-bf33-80f18b4eae68).
+
 ## Example
 
 These examples set the number format for cell A17, row one, and column C (respectively) on Sheet1.
@@ -38,9 +40,6 @@ Worksheets("Sheet1").Columns("C"). _
  NumberFormat = "$#,##0.00_);[Red]($#,##0.00)"
 ```
 
-## See also
 
-- [Range object](Excel.Range(object).md)
-- [Number format codes (Microsoft Support)](https://support.office.com/article/number-format-codes-5026bbd6-04bc-48cd-bf33-80f18b4eae68)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

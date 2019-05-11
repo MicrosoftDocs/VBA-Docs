@@ -7,21 +7,21 @@ ms.prod: excel
 api_name:
 - Excel.Series.Copy
 ms.assetid: 4a9261ae-9ad9-b591-f326-6f78e42637bf
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
 
 # Series.Copy method (Excel)
 
-If the series has a picture fill, then this method copies the picture to the Clipboard.
+If the series has a picture fill, this method copies the picture to the Clipboard.
 
 
 ## Syntax
 
 _expression_.**Copy**
 
-_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a **[Series](Excel.Series(object).md)** object.
 
 
 ## Return value
@@ -29,9 +29,6 @@ _expression_ A variable that represents a [Series](Excel.Series-graph-object.md)
 Variant
 
 
-## See also
 
-
-[Series Object](Excel.Series(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

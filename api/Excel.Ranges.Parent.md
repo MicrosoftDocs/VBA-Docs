@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Ranges.Parent
 ms.assetid: c93dacfe-e619-083d-df4e-645c501329fd
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[Ranges](Excel.Ranges.md)** object.
 
 
-## See also
 
-
-[Ranges Object](Excel.Ranges.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

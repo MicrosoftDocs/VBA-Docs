@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # QueryTable.Refreshing property (Excel)
 
-**True** if there is a background query in progress for the specified query table. Read only **Boolean**.
+**True** if there is a background query in progress for the specified query table. Read-only **Boolean**.
 
 
 ## Syntax

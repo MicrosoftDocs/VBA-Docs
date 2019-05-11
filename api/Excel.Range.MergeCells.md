@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.MergeCells
 ms.assetid: 42904357-5e55-1eb0-9b06-83b446fc6275
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -39,7 +39,6 @@ If Range("a3").MergeCells Then
  ma.Cells(1, 1).Value = "42" 
 End If
 ```
-
 
 
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.Justify
 ms.assetid: f8b4d48b-8cbb-977a-fd44-d354661182d2
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -31,22 +31,17 @@ Variant
 
 ## Remarks
 
-If the range isn't large enough, Microsoft Excel displays a message telling you that text will extend below the range. If you click the  **OK** button, justified text will replace the contents in cells that extend beyond the selected range. To prevent this message from appearing, set the **[DisplayAlerts](Excel.Application.DisplayAlerts.md)** property to **False**. After you set this property, text will always replace the contents in cells below the range.
+If the range isn't large enough, Microsoft Excel displays a message telling you that text will extend below the range. If you choose the **OK** button, justified text replaces the contents in cells that extend beyond the selected range. To prevent this message from appearing, set the **[DisplayAlerts](Excel.Application.DisplayAlerts.md)** property to **False**. After you set this property, text will always replace the contents in cells below the range.
 
 
 ## Example
 
 This example justifies the text in cell A1 on Sheet1.
 
-
 ```vb
 Worksheets("Sheet1").Range("A1").Justify
 ```
 
 
-## See also
-
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

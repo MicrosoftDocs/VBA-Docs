@@ -11,12 +11,12 @@ localization_priority: Normal
 
 # Point.Explosion property (PowerPoint)
 
-Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Read/write  **Long**.
+Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `Explosion`
+_expression_.**Explosion**
 
 _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 

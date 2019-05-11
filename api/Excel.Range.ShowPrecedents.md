@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.ShowPrecedents
 ms.assetid: 02b8ca94-d251-a6be-1551-1ba769c3c0fa
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -39,16 +39,14 @@ Variant
 
 This example draws tracer arrows to the precedents of the active cell on Sheet1.
 
-
 ```vb
 Worksheets("Sheet1").Activate 
 ActiveCell.ShowPrecedents
 ```
 
+<br/>
+
 This example removes the tracer arrow for one level of precedents of the active cell on Sheet1.
-
-
-
 
 ```vb
 Worksheets("Sheet1").Activate 
@@ -56,9 +54,5 @@ ActiveCell.ShowPrecedents remove:=True
 ```
 
 
-## See also
-
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

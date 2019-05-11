@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Range.Phonetics
 ms.assetid: fdc05b76-b574-63ec-045a-42fdcfae8a9e
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
 
 # Range.Phonetics property (Excel)
 
-Returns the  **[Phonetics](Excel.Phonetics.md)** collection of the range. Read only.
+Returns the **[Phonetics](Excel.Phonetics.md)** collection of the range. Read-only.
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 ## Example
 
-This example displays all of the  **Phonetic** objects in the active cell.
-
+This example displays all the **Phonetic** objects in the active cell.
 
 ```vb
 Set objPhon = ActiveCell.Phonetics 
@@ -39,9 +38,6 @@ End With
 ```
 
 
-## See also
 
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

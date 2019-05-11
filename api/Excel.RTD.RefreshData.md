@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.RTD.RefreshData
 ms.assetid: fa2ddf47-1821-25b6-fcd9-b42853c2689a
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -21,17 +21,14 @@ Requests an update of real-time data from the real-time data server.
 
 _expression_.**RefreshData**
 
-_expression_ A variable that represents a [RTD](Excel.RTD.md) object.
+_expression_ A variable that represents an **[RTD](Excel.RTD.md)** object.
 
 
 ## Remarks
 
-Avoid using the  **RefreshData** method in user-defined functions because this method will fail if it is called during recalculation.
+Avoid using the **RefreshData** method in user-defined functions because this method will fail if it is called during recalculation.
 
 
-## See also
 
-
-[RTD Object](Excel.RTD.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

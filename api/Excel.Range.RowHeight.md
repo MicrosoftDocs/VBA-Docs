@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Range.RowHeight
 ms.assetid: 103c7209-9a4f-8f9c-7bdc-3013113867a5
-ms.date: 09/05/2018
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
 
 # Range.RowHeight property (Excel)
 
-Returns or sets the height of the first row in the range specified, measured in points. Read/write **Double**.
+Returns or sets the height of the first row in the range specified, measured in [points](../language/glossary/vbe-glossary.md#point). Read/write **Double**.
 
 
 ## Syntax
@@ -26,21 +26,18 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 ## Remarks
 
-**RowHeight** property sets the height for all rows in a range of cells.
+The **RowHeight** property sets the height for all rows in a range of cells.
 
 Use the **[AutoFit](Excel.Range.AutoFit.md)** method to set row heights based on the contents of cells.
 
-> [!NOTE]
-> If a merged cell is in the range, **RowHeight** returns **Null** for varied row heights.	Use the **[Height](Excel.Range.Height.md)** property to return the total height of a range of cells.
+If a merged cell is in the range, **RowHeight** returns **Null** for varied row heights. Use the **[Height](Excel.Range.Height.md)** property to return the total height of a range of cells.
 
-> [!NOTE]
-> When a range contains rows of different heights, **RowHeight** might return the height of the first row or might return **Null**.
+When a range contains rows of different heights, **RowHeight** might return the height of the first row or might return **Null**.
 
 
 ## Example
 
 This example doubles the height of row one on Sheet1.
-
 
 ```vb
 With Worksheets("Sheet1").Rows(1) 
@@ -49,9 +46,5 @@ End With
 ```
 
 
-## See also
-
-- [Slicer.RowHeight property](Excel.Slicer.RowHeight.md)
-- [Range object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

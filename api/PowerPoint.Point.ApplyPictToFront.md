@@ -11,27 +11,23 @@ localization_priority: Normal
 
 # Point.ApplyPictToFront property (PowerPoint)
 
- **True** if a picture is applied to the front of the point or all points in the series. Read/write **Boolean**.
+**True** if a picture is applied to the front of the point or all points in the series. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `ApplyPictToFront`
+_expression_.**ApplyPictToFront**
 
 _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 
 
 ## Example
 
-
-
-
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> 
+Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example applies pictures to the front of all points in the first series of the first chart in the active document. The series must already have pictures applied to it (setting this property changes the picture orientation).
-
-
-
 
 ```vb
 With ActiveDocument.InlineShapes(1)

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.Table
 ms.assetid: 804b0e1d-e92d-387d-1054-90643bfd16ff
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -45,7 +45,6 @@ Use data tables to perform a what-if analysis by changing certain constant value
 
 This example creates a formatted multiplication table in cells A1:K11 on Sheet1.
 
-
 ```vb
 Set dataTableRange = Worksheets("Sheet1").Range("A1:K11") 
 Set rowInputCell = Worksheets("Sheet1").Range("A12") 
@@ -65,9 +64,5 @@ End With
 ```
 
 
-## See also
-
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.Subtotal
 ms.assetid: b4b7b640-5a6c-8c94-d9ab-c9a557190829
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -25,8 +25,6 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -46,7 +44,6 @@ Variant
 
 This example creates subtotals for the selection on Sheet1. The subtotals are sums grouped by each change in field one, with the subtotals added to fields two and three.
 
-
 ```vb
 Worksheets("Sheet1").Activate 
 Selection.Subtotal GroupBy:=1, Function:=xlSum, _ 
@@ -54,9 +51,5 @@ Selection.Subtotal GroupBy:=1, Function:=xlSum, _
 ```
 
 
-## See also
-
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

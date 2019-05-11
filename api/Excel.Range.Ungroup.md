@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.Ungroup
 ms.assetid: ac20c780-1a8e-2709-13c4-a6ca8220fb0a
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -38,7 +38,6 @@ If the active cell is in a field header of a parent field, all the groups in tha
 
 This example ungroups the ORDER_DATE field.
 
-
 ```vb
 Set pvtTable = Worksheets("Sheet1").Range("A3").PivotTable 
 Set groupRange = pvtTable.PivotFields("ORDER_DATE").DataRange 
@@ -46,9 +45,5 @@ groupRange.Cells(1).Ungroup
 ```
 
 
-## See also
-
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

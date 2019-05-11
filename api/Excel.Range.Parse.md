@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.Parse
 ms.assetid: 3580aeb7-e868-894a-9dd5-8e37475fb267
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -29,7 +29,7 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ParseLine_|Optional| **Variant**|A string that contains left and right brackets to indicate where the cells should be split.|
-| _Destination_|Optional| **Variant**|A [Range](Excel.Range(object).md) object that represents the upper-left corner of the destination range for the parsed data. If this argument is omitted, Microsoft Excel parses in place.|
+| _Destination_|Optional| **Variant**|A **Range** object that represents the upper-left corner of the destination range for the parsed data. If this argument is omitted, Microsoft Excel parses in place.|
 
 ## Return value
 
@@ -38,13 +38,14 @@ Variant
 
 ## Remarks
 
-" `[xxx][xxx]`" would insert the first three characters into the first column of the destination range, and it would insert the next three characters into the second column. If this argument is omitted, Microsoft Excel guesses where to split the columns based on the spacing of the top left cell in the range. If you want to use a different range to guess the parse line, use a  **Range** object as the _ParseLine_ argument. That range must be one of the cells that's being parsed. The _ParseLine_ argument cannot be longer than 255 characters, including the brackets and spaces.
+The _ParseLine_ `[xxx][xxx]` would insert the first three characters into the first column of the destination range, and it would insert the next three characters into the second column. If this argument is omitted, Microsoft Excel guesses where to split the columns based on the spacing of the top-left cell in the range. 
+
+If you want to use a different range to guess the parse line, use a **Range** object as the _ParseLine_ argument. That range must be one of the cells that's being parsed. The _ParseLine_ argument cannot be longer than 255 characters, including the brackets and spaces.
 
 
 ## Example
 
 This example divides telephone numbers of the form 206-555-1212 into two columns. The first column contains only the area code, and the second column contains the seven-digit telephone number with the embedded hyphen.
-
 
 ```vb
 Worksheets("Sheet1").Columns("A").Parse _ 
@@ -53,9 +54,5 @@ Worksheets("Sheet1").Columns("A").Parse _
 ```
 
 
-## See also
-
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.Range
 ms.assetid: 7edbda7c-98d9-143d-7b5e-bcfb7f237818
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a **Range** object that represents a cell or a range of cells.
 
 _expression_.**Range** (_Cell1_, _Cell2_)
 
-_expression_ A variable that represents a [Range](Excel.Range(object).md) object.
+_expression_ A variable that represents a **[Range](Excel.Range(object).md)** object.
 
 
 ## Parameters
@@ -33,7 +33,7 @@ _expression_ A variable that represents a [Range](Excel.Range(object).md) object
 
 ## Remarks
 
-When used without an object qualifier, this property is a shortcut for `ActiveSheet.Range` (it returns a range from the active sheet; if the active sheet isn't a worksheet, the property fails).
+When used without an object qualifier, this property is a shortcut for **ActiveSheet.Range** (it returns a range from the active sheet; if the active sheet isn't a worksheet, the property fails).
 
 When applied to a **Range** object, the property is relative to the **Range** object. For example, if the selection is cell C3, `Selection.Range("B1")` returns cell D3 because it's relative to the **Range** object returned by the **Selection** property. On the other hand, the code `ActiveSheet.Range("B1")` always returns cell B1.
 
@@ -68,7 +68,7 @@ Next c
 
 <br/>
 
-This example loops on the range named "TestRange" and displays the number of empty cells in the range.
+This example loops on the range named TestRange and displays the number of empty cells in the range.
 
 ```vb
 numBlanks = 0 
@@ -89,5 +89,7 @@ Worksheets("Sheet1").Range(Cells(1, 1), Cells(5, 3)). _
  Font.Italic = True 
 
 ```
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

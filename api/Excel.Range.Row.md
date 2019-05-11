@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.Row
 ms.assetid: 3c8d7351-4fc6-748b-c2a8-de3dab4b964e
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[Range](Excel.Range(object).md)** ob
 
 ## Example
 
-This example sets the row height of every other row on Sheet1 to 4 points.
-
+This example sets the row height of every other row on Sheet1 to 4 [points](../language/glossary/vbe-glossary.md#point).
 
 ```vb
 For Each rw In Worksheets("Sheet1").Rows 
@@ -37,12 +36,9 @@ For Each rw In Worksheets("Sheet1").Rows
 Next rw
 ```
 
-**Sample code provided by** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&p=1) | [About the Contributors](#about-the-contributors)
+<br/>
 
-This example uses the **BeforeDoubleClick** worksheet event to copy a row of data from one worksheet to another. To run this code, the name of the target worksheet must be in column A. When you double click a cell that contains data, this example gets the target worksheet name from column A and copies the entire row of data into the next available row on the target worksheet. This example accesses the active row using the **Target** keyword.
-
-
-
+This example uses the **BeforeDoubleClick** worksheet event to copy a row of data from one worksheet to another. To run this code, the name of the target worksheet must be in column A. When you double-click a cell that contains data, this example gets the target worksheet name from column A and copies the entire row of data into the next available row on the target worksheet. This example accesses the active row by using the **Target** keyword.
 
 ```vb
 Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean)
@@ -75,12 +71,10 @@ Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean
 End Sub
 ```
 
-**Sample code provided by** Dennis Wallentin, [VSTO & .NET & Excel](https://xldennis.wordpress.com/) | [About the Contributors](#about-the-contributors)
+
+<br/>
 
 This example deletes the empty rows from a selected range.
-
-
-
 
 ```vb
 Sub Delete_Empty_Rows()
@@ -125,14 +119,6 @@ Sub Delete_Empty_Rows()
 
 End Sub
 ```
-
-
-### About the contributors
-
-Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
-
-Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
-
 
 
 

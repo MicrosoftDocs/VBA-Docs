@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Range.IndentLevel
 ms.assetid: f4d5af31-904a-27eb-fb2d-e5ae38a7ebb9
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
 
 # Range.IndentLevel property (Excel)
 
-Returns or sets a  **Variant** value that represents the indent level for the cell or range. Can be an integer from 0 to 15.
+Returns or sets a **Variant** value that represents the indent level for the cell or range. Can be an integer from 0 to 15.
 
 
 ## Syntax
@@ -33,7 +33,6 @@ Using this property to set the indent level to a number less than 0 (zero) or gr
 
 This example increases the indent level to 15 in cell A10.
 
-
 ```vb
 With Range("A10") 
  .IndentLevel = 15 
@@ -41,9 +40,6 @@ End With
 ```
 
 
-## See also
 
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

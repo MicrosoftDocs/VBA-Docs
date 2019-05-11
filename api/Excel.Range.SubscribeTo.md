@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.SubscribeTo
 ms.assetid: 6120c474-f4a9-0dce-dae4-a8b39f3d3656
-ms.date: 06/08/2017
+ms.date: 05/11/2019
 localization_priority: Normal
 ---
 
@@ -26,21 +26,16 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Edition_|Required| **String**|See help included with Microsoft Office Macintosh Edition.|
-| _Format_|Optional| **xlSubscribeToFormat**|See help included with Microsoft Office Macintosh Edition.|
+| _Format_|Optional| **[XlSubscribeToFormat](excel.xlsubscribetoformat.md)**|See help included with Microsoft Office Macintosh Edition.|
 
 ## Return value
 
 Variant
 
 
-## See also
 
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
