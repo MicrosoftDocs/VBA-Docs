@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.RerouteConnections
 ms.assetid: 12e6a6aa-1ddb-392d-14c1-9d57de465c66
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ This method reroutes all connectors attached to the specified shape; if the spec
 
 ## Syntax
 
-_expression_. `RerouteConnections`
+_expression_.**RerouteConnections**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Remarks

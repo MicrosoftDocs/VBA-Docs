@@ -19,9 +19,9 @@ Returns the position of the specified shape in the z-order. Read-only.
 
 ## Syntax
 
-_expression_. `ZOrderPosition`
+_expression_.**ZOrderPosition**
 
-_expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
+_expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** object.
 
 
 ## Return value

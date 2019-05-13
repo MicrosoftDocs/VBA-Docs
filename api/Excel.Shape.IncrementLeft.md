@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.IncrementLeft
 ms.assetid: 2e9081f0-c11a-7c42-486e-53cb32d6d99c
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Moves the specified shape horizontally by the specified number of points.
 
 ## Syntax
 
-_expression_. `IncrementLeft`( `_Increment_` )
+_expression_.**IncrementLeft** (_Increment_)
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Parameters

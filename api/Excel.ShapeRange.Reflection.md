@@ -19,7 +19,7 @@ Returns a  **[ReflectionFormat](Office.ReflectionFormat.md)** object for a speci
 
 ## Syntax
 
-_expression_. `Reflection`
+_expression_.**Reflection**
 
 _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 

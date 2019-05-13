@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.Line
 ms.assetid: 0db51c52-c77c-9c0d-9945-e467dbcce3a9
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a  **[LineFormat](Excel.LineFormat.md)** object that contains line forma
 
 _expression_.**Line**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Example

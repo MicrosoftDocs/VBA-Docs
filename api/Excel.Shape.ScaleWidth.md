@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.ScaleWidth
 ms.assetid: e96bdabb-b633-28de-5ceb-75edb8c5dcfb
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Scales the width of the shape by a specified factor. For pictures and OLE object
 
 ## Syntax
 
-_expression_. `ScaleWidth`( `_Factor_` , `_RelativeToOriginalSize_` , `_Scale_` )
+_expression_.**ScaleWidth** (_Factor_, _RelativeToOriginalSize_, _Scale_)
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Parameters

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.Title
 ms.assetid: 98bd93a8-f4bb-9b73-b092-35c820586939
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns or sets the title of the alternative text associated with the specified 
 
 _expression_.**Title**
 
-_expression_ A variable that represents a '[Shape](Excel.Shape.md)' object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Return value

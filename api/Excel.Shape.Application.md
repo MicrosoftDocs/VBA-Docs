@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.Application
 ms.assetid: 6d86a0a4-b9ed-0ba1-22c3-30e2f100901b
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ When used without an object qualifier, this property returns an  **[Application]
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Example

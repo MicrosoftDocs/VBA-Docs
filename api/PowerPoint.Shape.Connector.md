@@ -19,9 +19,9 @@ Determines whether the specified shape is a connector. Read-only.
 
 ## Syntax
 
-_expression_. `Connector`
+_expression_.**Connector**
 
-_expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
+_expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** object.
 
 
 ## Return value

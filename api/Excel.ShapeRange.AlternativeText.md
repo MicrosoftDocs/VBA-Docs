@@ -19,7 +19,7 @@ Returns or sets the descriptive (alternative) text string for a  **[ShapeRange](
 
 ## Syntax
 
-_expression_. `AlternativeText`
+_expression_.**AlternativeText**
 
 _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 

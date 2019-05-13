@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.IncrementRotation
 ms.assetid: 3b9f1ae0-da53-b0e7-6569-dc3cd4595b12
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Changes the rotation of the specified shape around the z-axis by the specified n
 
 ## Syntax
 
-_expression_. `IncrementRotation`( `_Increment_` )
+_expression_.**IncrementRotation** (_Increment_)
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Parameters

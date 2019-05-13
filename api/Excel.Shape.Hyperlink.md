@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.Hyperlink
 ms.assetid: 97c87fda-91a5-b5db-a82b-6ba1465442fa
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a  **[Hyperlink](Excel.Hyperlink.md)** object that represents the hyperl
 
 _expression_.**Hyperlink**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Example

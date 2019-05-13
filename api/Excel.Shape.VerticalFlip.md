@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.VerticalFlip
 ms.assetid: 3b50edac-a167-8e07-3286-6ced14bb715d
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `VerticalFlip`
+_expression_.**VerticalFlip**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Example

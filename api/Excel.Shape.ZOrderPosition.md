@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.ZOrderPosition
 ms.assetid: aaf86516-bf5d-bdb5-1d88-eb1784f9b26f
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns the position of the specified shape in the z-order. Read-only  **Long**.
 
 ## Syntax
 
-_expression_. `ZOrderPosition`
+_expression_.**ZOrderPosition**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Remarks

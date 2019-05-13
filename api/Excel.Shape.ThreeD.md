@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.ThreeD
 ms.assetid: 4513383f-6edc-8810-4155-4188221253b6
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a  **[ThreeDFormat](Excel.ThreeDFormat.md)** object that contains 3D - e
 
 _expression_.**ThreeD**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Example

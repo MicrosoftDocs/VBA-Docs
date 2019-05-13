@@ -19,9 +19,9 @@ Returns a  **[FillFormat](PowerPoint.FillFormat.md)** object that contains fill 
 
 ## Syntax
 
-_expression_. `Fill`
+_expression_.**Fill**
 
-_expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
+_expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** object.
 
 
 ## Return value

@@ -14,7 +14,7 @@ Gets a value that indicates whether the shape is flipped around the horizontal a
 
 _expression_. `HorizontalFlip`
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Property value

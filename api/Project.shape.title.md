@@ -14,7 +14,7 @@ Gets or sets the title of the shape. Read/write  **String**.
 
 _expression_.**Title**
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Property value

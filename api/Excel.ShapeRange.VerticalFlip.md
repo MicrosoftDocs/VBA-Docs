@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `VerticalFlip`
+_expression_.**VerticalFlip**
 
 _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 

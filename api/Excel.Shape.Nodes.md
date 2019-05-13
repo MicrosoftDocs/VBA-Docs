@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.Nodes
 ms.assetid: 476b7ac6-d45c-c7a5-ef93-0cbe0c19ec15
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns a  **[ShapeNodes](Excel.ShapeNodes.md)** collection that represents the 
 
 ## Syntax
 
-_expression_. `Nodes`
+_expression_.**Nodes**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Remarks

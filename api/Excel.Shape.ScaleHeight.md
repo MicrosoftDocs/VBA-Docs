@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.ScaleHeight
 ms.assetid: 6802f478-f86e-56ca-ca80-195a40e5879c
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Scales the height of the shape by a specified factor. For pictures and OLE objec
 
 ## Syntax
 
-_expression_. `ScaleHeight`( `_Factor_` , `_RelativeToOriginalSize_` , `_Scale_` )
+_expression_.**ScaleHeight** (_Factor_, _RelativeToOriginalSize_, _Scale_)
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Parameters

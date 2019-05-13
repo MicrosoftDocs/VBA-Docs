@@ -21,7 +21,7 @@ Creates an open polyline or a closed polygon drawing. Returns a  **[Shape](Excel
 
 _expression_. `AddPolyline`( `_SafeArrayOfPoints_` )
 
-_expression_ A variable that represents a [Shapes](Excel.Shapes.md) object.
+_expression_ A variable that represents a **[Shapes](Excel.Shapes.md)** object.
 
 
 ## Parameters

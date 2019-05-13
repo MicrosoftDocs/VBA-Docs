@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.TextEffect
 ms.assetid: 4e2920c3-340c-c113-2667-4d4779cfb59f
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns a  **[TextEffectFormat](Excel.TextEffectFormat.md)** object that contain
 
 ## Syntax
 
-_expression_. `TextEffect`
+_expression_.**TextEffect**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Example

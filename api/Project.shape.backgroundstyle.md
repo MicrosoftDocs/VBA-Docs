@@ -12,9 +12,9 @@ Gets or sets the background style. Read/write  **MsoBackgroundStyleIndex**.
 
 ## Syntax
 
-_expression_. `BackgroundStyle`
+_expression_.**BackgroundStyle**
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Property value

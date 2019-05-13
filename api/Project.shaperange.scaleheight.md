@@ -12,7 +12,7 @@ Scales the height of the range of shapes by a specified factor.
 
 ## Syntax
 
-_expression_. `ScaleHeight` _(Factor,_ _RelativeToOriginalSize,_ _fScale)_
+_expression_.**ScaleHeight** (_Factor_, _RelativeToOriginalSize_, _fScale_)
 
 _expression_ A variable that represents a 'ShapeRange' object.
 
@@ -26,10 +26,8 @@ _expression_ A variable that represents a 'ShapeRange' object.
 | _Factor_|Required|**Single**|The ratio between the height of the shape after you resize it and the current height. For example, to make a rectangle 50 percent higher, specify 1.5 for the  _Factor_ parameter.|
 | _RelativeToOriginalSize_|Required|**[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**|**msoFalse** scales each shape relative to its current size. For Project, the value must be **msoFalse**.|
 | _fScale_|Optional|**[MsoScaleFrom](https://msdn.microsoft.com/library/office/ff863348%28v=office.15%29)**|Specifies which part of the shape retains its position when the shape is scaled.|
-| _Factor_|Required|FLOAT||
-| _RelativeToOriginalSize_|Required|MSOTRISTATE||
-| _fScale_|Optional|MSOSCALEFROM||
-|Name|Required/Optional|Data type|Description|
+
+
 
 ## Return value
 

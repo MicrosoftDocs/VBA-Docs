@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.IncrementTop
 ms.assetid: 84aa117d-5309-ea33-e21a-5fc5ef1d6123
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Moves the specified shape vertically by the specified number of points.
 
 ## Syntax
 
-_expression_. `IncrementTop`( `_Increment_` )
+_expression_.**IncrementTop** (_Increment_)
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Parameters

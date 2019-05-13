@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.TextFrame2
 ms.assetid: a52b559f-62d2-0a60-241d-0faff1cd68f1
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns a  **[TextFrame2](Excel.TextFrame2.md)** object that contains text forma
 
 ## Syntax
 
-_expression_. `TextFrame2`
+_expression_.**TextFrame2**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## See also

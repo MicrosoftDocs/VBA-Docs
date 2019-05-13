@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.PictureFormat
 ms.assetid: 35a910e8-beac-e4e0-4862-20980d9d633c
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns a  **[PictureFormat](Excel.PictureFormat.md)** object that contains pict
 
 ## Syntax
 
-_expression_. `PictureFormat`
+_expression_.**PictureFormat**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Example

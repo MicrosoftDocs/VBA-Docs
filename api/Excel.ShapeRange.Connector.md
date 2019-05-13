@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `Connector`
+_expression_.**Connector**
 
  _expression_ An expression that returns a **[ShapeRange](Excel.shaperange.md)** object.
 

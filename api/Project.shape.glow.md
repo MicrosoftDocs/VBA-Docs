@@ -14,7 +14,7 @@ Gets a **GlowFormat** object for the shape, if the shape contains glow formattin
 
 _expression_.**Glow**
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Property value

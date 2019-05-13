@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.BlackWhiteMode
 ms.assetid: 95a00870-82c2-d193-6971-9f92aeed6532
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns or sets a value that indicates how the specified shape appears when the 
 
 ## Syntax
 
-_expression_. `BlackWhiteMode`
+_expression_.**BlackWhiteMode**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Example

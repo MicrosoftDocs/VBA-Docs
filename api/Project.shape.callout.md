@@ -12,9 +12,9 @@ Gets callout formatting properties for the shape, when the  **Shape** object rep
 
 ## Syntax
 
-_expression_. `Callout`
+_expression_.**Callout**
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Property value

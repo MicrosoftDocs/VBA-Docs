@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `LockAspectRatio`
+_expression_.**LockAspectRatio**
 
 _expression_ Required. A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 

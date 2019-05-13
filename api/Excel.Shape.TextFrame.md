@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.TextFrame
 ms.assetid: cc2fbe92-e0c4-f0d5-52a3-a675d4baf573
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns a  **[TextFrame](Excel.TextFrame.md)** object that contains the alignmen
 
 ## Syntax
 
-_expression_. `TextFrame`
+_expression_.**TextFrame**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Example

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.Rotation
 ms.assetid: 336d7d04-9c22-c632-5d85-feefff22023c
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns or sets the rotation of the shape, in degrees. Read/write  **Single**.
 
 _expression_.**Rotation**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Remarks

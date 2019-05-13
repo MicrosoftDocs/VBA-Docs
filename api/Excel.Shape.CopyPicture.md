@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.CopyPicture
 ms.assetid: 276cd993-18b1-8c5b-3618-95e5b5c9a773
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Copies the selected object to the Clipboard as a picture.
 
 _expression_.**CopyPicture** (_Appearance_, _Format_)
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Parameters

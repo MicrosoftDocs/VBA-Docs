@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.Left
 ms.assetid: 4bd1971f-8669-adcf-3b79-8a7985b17d7a
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns or sets a  **Single** value that represents the distance, in [points](..
 
 _expression_.**Left**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## See also

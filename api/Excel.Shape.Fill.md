@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.Fill
 ms.assetid: b533b463-51c5-f59e-c3ba-cfe7512daa53
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns a  **[FillFormat](Excel.FillFormat.md)** object for a specified shape or
 
 ## Syntax
 
-_expression_. `Fill`
+_expression_.**Fill**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Example

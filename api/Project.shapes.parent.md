@@ -14,7 +14,7 @@ Gets an object that represents the parent of the  **Shapes** object. Read-only *
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a 'Shapes' object.
+_expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object.
 
 
 ## Property value

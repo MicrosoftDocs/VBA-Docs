@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.BottomRightCell
 ms.assetid: 351b78a1-7e46-dba4-ae5e-cbd32f9785eb
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the cell t
 
 _expression_.**BottomRightCell**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## See also

@@ -14,7 +14,7 @@ Returns an individual  **Shape** object in the **Shapes** collection.
 
 _expression_. `Item` _(Index)_
 
-_expression_ A variable that represents a 'Shapes' object.
+_expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object.
 
 
 ## Parameters

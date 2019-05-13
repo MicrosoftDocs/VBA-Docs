@@ -12,7 +12,7 @@ Gets an  **[Adjustments](https://msdn.microsoft.com/library/office/ff838852%28v=
 
 ## Syntax
 
-_expression_. `Adjustments`
+_expression_.**Adjustments**
 
 _expression_ A variable that represents a 'ShapeRange' object.
 

@@ -19,9 +19,9 @@ Reroutes connectors so that they take the shortest possible path between the sha
 
 ## Syntax
 
-_expression_. `RerouteConnections`
+_expression_.**RerouteConnections**
 
-_expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
+_expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** object.
 
 
 ## Remarks

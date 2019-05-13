@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.Flip
 ms.assetid: 6ba41c89-878e-d9e1-5594-0cf45411b608
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Flips the specified shape around its horizontal or vertical axis.
 
 ## Syntax
 
-_expression_. `Flip`( `_FlipCmd_` )
+_expression_.**Flip** (_FlipCmd_)
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

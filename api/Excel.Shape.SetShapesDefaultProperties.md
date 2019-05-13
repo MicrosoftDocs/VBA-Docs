@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.SetShapesDefaultProperties
 ms.assetid: 7fee7695-99ea-5094-002a-f21f280d5541
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Makes the formatting of the specified shape the default formatting for the shape
 
 ## Syntax
 
-_expression_. `SetShapesDefaultProperties`
+_expression_.**SetShapesDefaultProperties**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Example

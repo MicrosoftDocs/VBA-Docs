@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.LinkFormat
 ms.assetid: f364d08e-aafd-1555-34ee-f0682cde7e19
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns a  **[LinkFormat](Excel.LinkFormat.md)** object that contains linked OLE
 
 ## Syntax
 
-_expression_. `LinkFormat`
+_expression_.**LinkFormat**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Example

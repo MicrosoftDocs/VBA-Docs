@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: excel
 api_name:
 - Excel.Shape.Model3D
-ms.date: 04/11/2019
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 

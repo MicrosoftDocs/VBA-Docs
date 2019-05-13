@@ -14,7 +14,7 @@ Gets or sets the vertical distance, in [points](../language/glossary/vbe-glossar
 
 _expression_.**Top**
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Property value

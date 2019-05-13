@@ -19,9 +19,9 @@ Returns a  **[TextFrame](PowerPoint.TextFrame.md)** object that contains the ali
 
 ## Syntax
 
-_expression_. `TextFrame`
+_expression_.**TextFrame**
 
-_expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
+_expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** object.
 
 
 ## Return value

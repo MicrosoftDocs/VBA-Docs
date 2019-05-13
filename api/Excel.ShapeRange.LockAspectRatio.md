@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `LockAspectRatio`
+_expression_.**LockAspectRatio**
 
 _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 

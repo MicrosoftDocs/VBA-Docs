@@ -21,7 +21,7 @@ Converts a legacy media object to an updated media object.
 
 _expression_. `UpgradeMedia`
 
-_expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
+_expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** object.
 
 
 ## See also

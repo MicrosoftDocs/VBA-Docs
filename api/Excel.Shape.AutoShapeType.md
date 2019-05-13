@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.AutoShapeType
 ms.assetid: 3fdc36be-dd08-4fa1-8cef-a5ecf913eae0
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns or sets the shape type for the specified  **[Shape](Excel.Shape.md)** or
 
 ## Syntax
 
-_expression_. `AutoShapeType`
+_expression_.**AutoShapeType**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Remarks

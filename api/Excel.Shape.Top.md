@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.Top
 ms.assetid: e8251127-f583-8147-c1ff-05bba86860be
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns or sets a  **Single** value that represents the distance, in [points](..
 
 _expression_.**Top**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## See also

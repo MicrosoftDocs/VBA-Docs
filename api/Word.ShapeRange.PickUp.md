@@ -19,7 +19,7 @@ Copies the formatting of the specified shape.
 
 ## Syntax
 
-_expression_. `PickUp`
+_expression_.**PickUp**
 
 _expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 

@@ -21,7 +21,7 @@ Deprecated in PowerPoint 2013. See [Shapes.AddMediaObject2 method (PowerPoint)](
 
 _expression_. `AddMediaObject`( `_FileName_`, `_Left_`, `_Top_`, `_Width_`, `_Height_` )
 
-_expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
+_expression_ A variable that represents a **[Shapes](PowerPoint.Shapes.md)** object.
 
 
 ## Parameters

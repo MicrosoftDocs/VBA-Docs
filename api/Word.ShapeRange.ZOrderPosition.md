@@ -19,7 +19,7 @@ Returns a  **Long** that represents the position of the specified shape in the z
 
 ## Syntax
 
-_expression_. `ZOrderPosition`
+_expression_.**ZOrderPosition**
 
  _expression_ An expression that returns a 'ShapeRange' object.
 

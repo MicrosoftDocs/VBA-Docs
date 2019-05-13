@@ -19,7 +19,7 @@ Returns a  **ShapeNodes** collection that represents the geometric description o
 
 ## Syntax
 
-_expression_. `Nodes`
+_expression_.**Nodes**
 
 _expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.ParentGroup
 ms.assetid: 6c43979d-fe16-4093-9eb2-78863230e6d2
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns a  **[Shape](Excel.Shape.md)** object that represents the common parent 
 
 ## Syntax
 
-_expression_. `ParentGroup`
+_expression_.**ParentGroup**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Example

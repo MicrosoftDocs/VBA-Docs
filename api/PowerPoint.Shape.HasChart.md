@@ -19,9 +19,9 @@ Returns whether the shape represented by the specified object contains a chart. 
 
 ## Syntax
 
-_expression_. `HasChart`
+_expression_.**HasChart**
 
- _expression_ An expression that returns a [Shape](./PowerPoint.Shape.md) object.
+ _expression_ An expression that returns a **[Shape](PowerPoint.Shape.md)** object.
 
 
 ## Return value

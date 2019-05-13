@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.Callout
 ms.assetid: 80c67ea9-7e55-9841-bbed-302cbd669ce5
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns a  **[CalloutFormat](Excel.CalloutFormat.md)** object that contains call
 
 ## Syntax
 
-_expression_. `Callout`
+_expression_.**Callout**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Example

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.ZOrder
 ms.assetid: e2eede8f-6e8f-2219-2cb2-47db93e9f90a
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Moves the specified shape in front of or behind other shapes in the collection (
 
 _expression_.**ZOrder** (_ZOrderCmd_)
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Parameters

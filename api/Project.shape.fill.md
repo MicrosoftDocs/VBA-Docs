@@ -12,9 +12,9 @@ Gets a  **FillFormat** object for the shape, if the shape contains fill formatti
 
 ## Syntax
 
-_expression_. `Fill`
+_expression_.**Fill**
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Property value

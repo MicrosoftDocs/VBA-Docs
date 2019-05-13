@@ -19,7 +19,7 @@ Returns a  **[TextEffectFormat](Excel.TextEffectFormat.md)** object that contain
 
 ## Syntax
 
-_expression_. `TextEffect`
+_expression_.**TextEffect**
 
 _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 

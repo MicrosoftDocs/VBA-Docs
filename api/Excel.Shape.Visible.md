@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.Visible
 ms.assetid: d84b0e36-7ce1-d34a-45d6-8ab9895cf617
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns or sets a  **[MsoTriState](Office.MsoTriState.md)** value that determine
 
 _expression_.**Visible**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## See also

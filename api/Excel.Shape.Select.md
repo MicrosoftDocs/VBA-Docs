@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.Select
 ms.assetid: 615af356-45f9-a36f-9a1d-b09f216c6fae
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Selects the object.
 
 _expression_.**Select** (_Replace_)
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Parameters

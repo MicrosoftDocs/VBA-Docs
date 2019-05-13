@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.PickUp
 ms.assetid: 77da5d6d-35f8-71c3-70ee-481f59c5674b
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Copies the formatting of the specified shape. Use the  **[Apply](Excel.Shape.App
 
 ## Syntax
 
-_expression_. `PickUp`
+_expression_.**PickUp**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Example

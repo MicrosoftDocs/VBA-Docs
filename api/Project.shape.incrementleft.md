@@ -14,7 +14,7 @@ Moves the shape horizontally by the specified number of points.
 
 _expression_. `IncrementLeft` _(Increment)_
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Parameters

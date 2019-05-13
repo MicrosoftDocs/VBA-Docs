@@ -19,9 +19,9 @@ Applies the formatting for the specified shape to the default shape. Shapes crea
 
 ## Syntax
 
-_expression_. `SetShapesDefaultProperties`
+_expression_.**SetShapesDefaultProperties**
 
-_expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
+_expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** object.
 
 
 ## Example

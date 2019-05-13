@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.OnAction
 ms.assetid: 7b278ba3-75d3-1f97-dbe2-181485a88365
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns or sets the name of a macro that's run when the specified object is clic
 
 ## Syntax
 
-_expression_. `OnAction`
+_expression_.**OnAction**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Remarks

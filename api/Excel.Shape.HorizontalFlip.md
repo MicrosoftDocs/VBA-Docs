@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.HorizontalFlip
 ms.assetid: e9b64a81-3aef-5d42-0a65-5d03d564a71f
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `HorizontalFlip`
+_expression_.**HorizontalFlip**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Example

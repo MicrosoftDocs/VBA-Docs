@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.Ungroup
 ms.assetid: 678ff982-25c7-cbaa-7cc5-011b53ecf6b6
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Ungroups any grouped shapes in the specified shape or range of shapes. Disassemb
 
 _expression_.**Ungroup**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Return value

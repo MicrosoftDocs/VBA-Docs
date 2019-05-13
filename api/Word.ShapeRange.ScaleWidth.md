@@ -19,14 +19,12 @@ Scales the width of a shape by a specified factor.
 
 ## Syntax
 
-_expression_. `ScaleWidth`( `_Factor_` , `_RelativeToOriginalSize_` , `_Scale_` )
+_expression_.**ScaleWidth** (_Factor_, _RelativeToOriginalSize_, _Scale_)
 
 _expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.Height
 ms.assetid: b0b7ee95-509d-edff-f371-e57685ac2ddc
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns or sets a  **Single** value that represents the height, in [points](../l
 
 _expression_.**Height**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## See also

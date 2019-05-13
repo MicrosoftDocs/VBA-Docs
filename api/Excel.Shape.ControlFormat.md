@@ -7,21 +7,21 @@ ms.prod: excel
 api_name:
 - Excel.Shape.ControlFormat
 ms.assetid: e874098f-ea8c-93ff-f746-a0d568bec5b5
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
 
 # Shape.ControlFormat property (Excel)
 
-Returns a  **[ControlFormat](Excel.ControlFormat.md)** object that contains Microsoft Excel control properties. Read-only.
+Returns a **[ControlFormat](Excel.ControlFormat.md)** object that contains Microsoft Excel control properties. Read-only.
 
 
 ## Syntax
 
-_expression_. `ControlFormat`
+_expression_.**ControlFormat**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Example

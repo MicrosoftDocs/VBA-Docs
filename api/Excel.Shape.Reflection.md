@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.Reflection
 ms.assetid: 8f5a23a9-0245-224f-2827-982ef2814ad0
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns a  **[ReflectionFormat](Office.ReflectionFormat.md)** object for a speci
 
 ## Syntax
 
-_expression_. `Reflection`
+_expression_.**Reflection**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## See also

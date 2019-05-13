@@ -12,9 +12,9 @@ Gets the geometric description of nodes or control points in the shape. Read-onl
 
 ## Syntax
 
-_expression_. `Nodes`
+_expression_.**Nodes**
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Property value

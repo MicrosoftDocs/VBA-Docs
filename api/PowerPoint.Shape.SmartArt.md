@@ -19,9 +19,9 @@ Returns a Microsoft Office [SmartArt](Office.SmartArt.md) object that represents
 
 ## Syntax
 
-_expression_. `SmartArt`
+_expression_.**SmartArt**
 
-_expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
+_expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** object.
 
 
 ## Remarks

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.Vertices
 ms.assetid: b0525a81-a1fa-62b1-17aa-28f99fb33045
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns the coordinates of the specified freeform drawing's vertices (and contro
 
 ## Syntax
 
-_expression_. `Vertices`
+_expression_.**Vertices**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Remarks
