@@ -26,21 +26,16 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Appearance_|Optional| **Variant**|A [XlPictureAppearance](Excel.XlPictureAppearance.md) constant that specifies how the picture should be copied. The default value is **xlScreen**.|
-| _Format_|Optional| **Variant**|A [XlCopyPictureFormat](Excel.XlCopyPictureFormat.md) constant that specifies the format of the picture. The default value is **xlPicture**.|
+| _Appearance_|Optional| **Variant**|An **[XlPictureAppearance](Excel.XlPictureAppearance.md)** constant that specifies how the picture should be copied. The default value is **xlScreen**.|
+| _Format_|Optional| **Variant**|An **[XlCopyPictureFormat](Excel.XlCopyPictureFormat.md)** constant that specifies the format of the picture. The default value is **xlPicture**.|
 
 ## Remarks
 
 If you copy a range, it must be made up of adjacent cells.
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

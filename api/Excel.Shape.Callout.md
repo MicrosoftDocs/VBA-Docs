@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Callout property (Excel)
 
-Returns a  **[CalloutFormat](Excel.CalloutFormat.md)** object that contains callout formatting properties for the specified shape. Applies to a **[Shape](Excel.Shape.md)** object that represent line callouts. Read-only.
+Returns a **[CalloutFormat](Excel.CalloutFormat.md)** object that contains callout formatting properties for the specified shape. Applies to a **Shape** object that represent line callouts. Read-only.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 ## Example
 
 This example adds to _myDocument_ an oval and a callout that points to the oval. The callout text won't have a border, but it will have a vertical accent bar that separates the text from the callout line.
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -44,9 +43,6 @@ End With
 ```
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

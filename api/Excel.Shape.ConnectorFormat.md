@@ -14,20 +14,19 @@ localization_priority: Normal
 
 # Shape.ConnectorFormat property (Excel)
 
-Returns a  **[ConnectorFormat](Excel.ConnectorFormat.md)** object that contains connector formatting properties. Applies to a **[Shape](Excel.Shape.md)** that represent connectors. Read-only.
+Returns a **[ConnectorFormat](Excel.ConnectorFormat.md)** object that contains connector formatting properties. Applies to a **Shape** object that represents connectors. Read-only.
 
 
 ## Syntax
 
 _expression_.**ConnectorFormat**
 
- _expression_ An expression that returns a **[Shape](Excel.Shape.md)** object.
+_expression_ An expression that returns a **[Shape](Excel.Shape.md)** object.
 
 
 ## Example
 
 This example adds two rectangles to _myDocument_, attaches them with a connector, automatically reroutes the connector along the shortest path, and then detaches the connector from the rectangles.
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -45,9 +44,5 @@ End With
 ```
 
 
-## See also
-
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

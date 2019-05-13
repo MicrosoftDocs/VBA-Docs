@@ -34,7 +34,6 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 This example adds a triangle to _myDocument_, duplicates the triangle, and then flips the duplicate triangle vertically and makes it red.
 
-
 ```vb
 Set myDocument = Worksheets(1) 
 With myDocument.Shapes.AddShape(msoShapeRightTriangle, _ 
@@ -45,9 +44,6 @@ End With
 ```
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

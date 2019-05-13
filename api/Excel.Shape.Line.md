@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Line property (Excel)
 
-Returns a  **[LineFormat](Excel.LineFormat.md)** object that contains line formatting properties for the specified shape. (For a line, the **LineFormat** object represents the line itself; for a shape with a border, the **LineFormat** object represents the border). Read-only.
+Returns a **[LineFormat](Excel.LineFormat.md)** object that contains line formatting properties for the specified shape. (For a line, the **LineFormat** object represents the line itself; for a shape with a border, the **LineFormat** object represents the border). Read-only.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 This example adds a blue dashed line to _myDocument_.
 
-
 ```vb
 Set myDocument = Worksheets(1) 
 With myDocument.Shapes.AddLine(10, 10, 250, 250).Line 
@@ -37,10 +36,9 @@ With myDocument.Shapes.AddLine(10, 10, 250, 250).Line
 End With
 ```
 
-This example adds a cross to _myDocument_ and then sets its border to be 8 points thick and red.
+<br/>
 
-
-
+This example adds a cross to _myDocument_ and then sets its border to be 8 [points](../language/glossary/vbe-glossary.md#point) thick and red.
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -51,9 +49,6 @@ End With
 ```
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

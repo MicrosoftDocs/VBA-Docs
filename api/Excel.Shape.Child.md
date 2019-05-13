@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Child property (Excel)
 
-Returns  **msoTrue** if the specified shape is a child shape or if all shapes in a shape range are child shapes of the same parent. Read-only **[MsoTriState](Office.MsoTriState.md)**.
+Returns **msoTrue** if the specified shape is a child shape or if all shapes in a shape range are child shapes of the same parent. Read-only **[MsoTriState](Office.MsoTriState.md)**.
 
 
 ## Syntax
@@ -26,20 +26,10 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 ## Remarks
 
+**msoFalse** = If the selected shape is not a child shape.
+**msoTriStateMixed** = If only some of the selected shapes are child shapes.
+**msoTrue** = If the selected shape is a child shape.
 
 
-
-
-| **MsoTriState** can be one of these **MsoTriState** constants.|
-| **msoCTrue**. Does not apply to this property.|
-| **msoFalse**. If the selected shape is not a child shape.|
-| **msoTriStateMixed**. If only some of the selected shapes are child shapes.|
-| **msoTriStateToggle**. Does not apply to this property.|
-| **msoTrue**. If the selected shape is a child shape.|
-
-## See also
-
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.FormControlType property (Excel)
 
-Returns the Microsoft Excel control type. Read-only  **[XlFormControl](Excel.XlFormControl.md)**.
+Returns the Microsoft Excel control type. Read-only **[XlFormControl](Excel.XlFormControl.md)**.
 
 
 ## Syntax
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 ## Remarks
 
-You cannot use this property with ActiveX controls (the  **[Type](Excel.Shape.Type.md)** property for the **[Shape](Excel.Shape.md)** object must return **msoFormControl**).
+You cannot use this property with ActiveX controls (the **[Type](Excel.Shape.Type.md)** property of the **Shape** object must return **msoFormControl**).
 
 
 ## Example
 
 This example clears all the Microsoft Excel check boxes on worksheet one.
-
 
 ```vb
 For Each s In Worksheets(1).Shapes 
@@ -44,9 +43,6 @@ Next
 ```
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

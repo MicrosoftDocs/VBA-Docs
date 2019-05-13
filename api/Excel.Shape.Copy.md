@@ -24,9 +24,6 @@ _expression_.**Copy**
 _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

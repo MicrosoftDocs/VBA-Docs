@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Nodes property (Excel)
 
-Returns a  **[ShapeNodes](Excel.ShapeNodes.md)** collection that represents the geometric description of the specified shape.
+Returns a **[ShapeNodes](Excel.ShapeNodes.md)** collection that represents the geometric description of the specified shape.
 
 
 ## Syntax
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 ## Remarks
 
-This property applies to  **[Shape](Excel.Shape.md)** or **[ShapeRange](Excel.ShapeRange.md)** objects that represent freeform drawings.
+This property applies to **Shape** or **[ShapeRange](Excel.ShapeRange.md)** objects that represent freeform drawings.
 
 
 ## Example
 
 This example adds a smooth node with a curved segment after node four in shape three on _myDocument_. Shape three must be a freeform drawing with at least four nodes.
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -42,9 +41,6 @@ End With
 ```
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

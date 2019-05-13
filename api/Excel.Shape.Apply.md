@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Apply method (Excel)
 
-Applies to the specified shape formatting that's been copied by using the  **[PickUp](Excel.Shape.PickUp.md)** method.
+Applies to the specified shape formatting that's been copied by using the **[PickUp](Excel.Shape.PickUp.md)** method.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 This example copies the formatting of shape one on _myDocument_ and then applies the copied formatting to shape two.
 
-
 ```vb
 Set myDocument = Worksheets(1) 
 With myDocument 
@@ -38,9 +37,6 @@ End With
 ```
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

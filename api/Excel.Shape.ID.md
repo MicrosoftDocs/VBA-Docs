@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 You can use an ID label as a hyperlink reference in other HTML documents or on the same webpage.
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

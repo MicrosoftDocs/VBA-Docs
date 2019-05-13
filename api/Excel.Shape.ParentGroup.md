@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.ParentGroup property (Excel)
 
-Returns a  **[Shape](Excel.Shape.md)** object that represents the common parent shape of a child shape or a range of child shapes.
+Returns a **Shape** object that represents the common parent shape of a child shape or a range of child shapes.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 ## Example
 
 In this example, Microsoft Excel adds two shapes to the active worksheet and then removes both shapes by deleting the parent shape of the group.
-
 
 ```vb
 Sub ParentGroup() 
@@ -54,9 +53,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

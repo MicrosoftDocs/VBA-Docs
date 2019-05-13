@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.OnAction property (Excel)
 
-Returns or sets the name of a macro that's run when the specified object is clicked. Read/write  **String**.
+Returns or sets the name of a macro that's run when the specified object is chosen. Read/write **String**.
 
 
 ## Syntax
@@ -31,17 +31,13 @@ Setting this property for a menu item overrides any custom help information set 
 
 ## Example
 
-This example causes Microsoft Excel to run the ShapeClick procedure whenever shape one is clicked.
-
+This example causes Microsoft Excel to run the ShapeClick procedure whenever shape one is chosen.
 
 ```vb
 Worksheets(1).Shapes(1).OnAction = "ShapeClick"
 ```
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

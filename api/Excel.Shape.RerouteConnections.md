@@ -26,15 +26,16 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 ## Remarks
 
-Reroutes connectors so that they take the shortest possible path between the shapes they connect. To do this, the  **RerouteConnections** method may detach the ends of a connector and reattach them to different connecting sites on the connected shapes.
+Reroutes connectors so that they take the shortest possible path between the shapes they connect. To do this, the **RerouteConnections** method may detach the ends of a connector and reattach them to different connecting sites on the connected shapes.
 
 If this method is applied to a connector, only that connector will be rerouted. If this method is applied to a connected shape, all connectors to that shape will be rerouted.
 
 
 ## Example
 
-This example adds two rectangles to _myDocument_, connects them with a curved connector, and then reroutes the connector so that it takes the shortest possible path between the two rectangles. Note that the  **RerouteConnections** method adjusts the size and position of the connector and determines which connecting sites it attaches to, so the values you initially specify for the _ConnectionSite_ arguments used with the **[BeginConnect](Excel.ConnectorFormat.BeginConnect.md)** and **[EndConnect](Excel.ConnectorFormat.EndConnect.md)** methods are irrelevant.
+This example adds two rectangles to _myDocument_, connects them with a curved connector, and then reroutes the connector so that it takes the shortest possible path between the two rectangles. 
 
+Note that the **RerouteConnections** method adjusts the size and position of the connector and determines which connecting sites it attaches to, so the values you initially specify for the _ConnectionSite_ arguments used with the **[BeginConnect](Excel.ConnectorFormat.BeginConnect.md)** and **[EndConnect](Excel.ConnectorFormat.EndConnect.md)** methods are irrelevant.
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -53,9 +54,5 @@ newConnector.RerouteConnections
 ```
 
 
-## See also
-
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

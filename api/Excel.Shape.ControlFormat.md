@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 ## Example
 
-This example removes the selected item from a list box. If  `Shapes(2)` doesn't represent a list box, this example fails.
-
+This example removes the selected item from a list box. If `Shapes(2)` doesn't represent a list box, this example fails.
 
 ```vb
 Set lbcf = Worksheets(1).Shapes(2).ControlFormat 
@@ -35,9 +34,5 @@ lbcf.RemoveItem lbcf.ListIndex
 ```
 
 
-## See also
-
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

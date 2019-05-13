@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Rotation property (Excel)
 
-Returns or sets the rotation of the shape, in degrees. Read/write  **Single**.
+Returns or sets the rotation of the shape, in degrees. Read/write **Single**.
 
 
 ## Syntax
@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 Rotations are always rounded to the nearest integer.
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

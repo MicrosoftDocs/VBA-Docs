@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.IncrementTop method (Excel)
 
-Moves the specified shape vertically by the specified number of points.
+Moves the specified shape vertically by the specified number of [points](../language/glossary/vbe-glossary.md#point).
 
 
 ## Syntax
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Increment_|Required| **Single**|Specifies how far the shape object is to be moved vertically, in points. A positive value moves the shape down; a negative value moves it up.|
@@ -35,7 +33,6 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 ## Example
 
 This example duplicates shape one on _myDocument_, sets the fill for the duplicate, moves it 70 points to the right and 50 points up, and rotates it 30 degrees clockwise.
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -48,9 +45,6 @@ End With
 ```
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

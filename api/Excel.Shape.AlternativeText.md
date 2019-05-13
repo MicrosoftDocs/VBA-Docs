@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.AlternativeText property (Excel)
 
-Returns or sets the descriptive (alternative) text string for a  **[Shape](Excel.Shape.md)** object when the object is saved to a webpage. Read/write **String**.
+Returns or sets the descriptive (alternative) text string for a **Shape** object when the object is saved to a webpage. Read/write **String**.
 
 
 ## Syntax
@@ -33,15 +33,11 @@ The alternative text can be displayed either in place of the shape's image in th
 
 This example sets the alternative text for the first shape on the first worksheet to a description of the shape.
 
-
 ```vb
 Worksheets(1).Shapes(1).AlternativeText = "Concentric circles"
 ```
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

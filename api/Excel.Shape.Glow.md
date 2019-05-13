@@ -29,9 +29,5 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 The glow effect adds a vibrant colored edge to graphics.
 
 
-## See also
-
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

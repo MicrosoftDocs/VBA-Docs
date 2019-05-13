@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Hyperlink property (Excel)
 
-Returns a  **[Hyperlink](Excel.Hyperlink.md)** object that represents the hyperlink for the shape.
+Returns a **[Hyperlink](Excel.Hyperlink.md)** object that represents the hyperlink for the shape.
 
 
 ## Syntax
@@ -28,15 +28,11 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 This example loads the document attached to the hyperlink on shape one.
 
-
 ```vb
 Worksheets(1).Shapes(1).Hyperlink.Follow NewWindow:=True
 ```
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

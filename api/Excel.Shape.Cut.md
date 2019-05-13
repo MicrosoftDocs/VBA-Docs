@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 Nothing
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

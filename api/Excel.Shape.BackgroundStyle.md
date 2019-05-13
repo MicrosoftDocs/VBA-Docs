@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.BackgroundStyle property (Excel)
 
-Returns or sets the background style. Read/write  **[MsoBackgroundStyleIndex](Office.MsoBackgroundStyleIndex.md)**.
+Returns or sets the background style. Read/write **[MsoBackgroundStyleIndex](Office.MsoBackgroundStyleIndex.md)**.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**BackgroundStyle**
 _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

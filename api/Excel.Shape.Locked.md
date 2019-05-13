@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Locked property (Excel)
 
-Returns or sets a  **Boolean** value that indicates if the object is locked.
+Returns or sets a **Boolean** value that indicates if the object is locked.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 ## Remarks
 
-This property returns  **True** if the object is locked or **False** if the object can be modified when the sheet is protected.
+This property returns **True** if the object is locked or **False** if the object can be modified when the sheet is protected.
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

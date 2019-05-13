@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.OLEFormat property (Excel)
 
-Returns an  **[OLEFormat](Excel.OLEFormat.md)** object that contains OLE object properties. Read-only.
+Returns an **[OLEFormat](Excel.OLEFormat.md)** object that contains OLE object properties. Read-only.
 
 
 ## Syntax
@@ -26,17 +26,12 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 ## Example
 
-This example activates an OLE object. If  `Shapes(1)` doesn't represent an embedded OLE object, this example fails..
-
+This example activates an OLE object. If `Shapes(1)` doesn't represent an embedded OLE object, this example fails.
 
 ```vb
 Worksheets(1).Shapes(1).OLEFormat.Activate
 ```
 
 
-## See also
-
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

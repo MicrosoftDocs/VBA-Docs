@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.LinkFormat property (Excel)
 
-Returns a  **[LinkFormat](Excel.LinkFormat.md)** object that contains linked OLE object properties. Read-only.
+Returns a **[LinkFormat](Excel.LinkFormat.md)** object that contains linked OLE object properties. Read-only.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 This example updates all linked OLE objects on worksheet one.
 
-
 ```vb
 For Each s In Worksheets(1).Shapes 
  If s.Type = msoLinkedOLEObject Then s.LinkFormat.Update 
@@ -36,9 +35,6 @@ Next
 ```
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

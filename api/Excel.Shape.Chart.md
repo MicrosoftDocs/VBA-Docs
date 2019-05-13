@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Chart property (Excel)
 
-Returns a  **[Chart](Excel.Chart(object).md)** object that represents the chart contained in the shape. Read-only.
+Returns a **[Chart](Excel.Chart(object).md)** object that represents the chart contained in the shape. Read-only.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Chart**
 _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

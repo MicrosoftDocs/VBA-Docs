@@ -33,16 +33,12 @@ Shape
 
 This example duplicates embedded chart one on Sheet1 and then selects the copy.
 
-
 ```vb
 Set dChart = Worksheets("Sheet1").ChartObjects(1).Duplicate 
 dChart.Select
 ```
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Reflection property (Excel)
 
-Returns a  **[ReflectionFormat](Office.ReflectionFormat.md)** object for a specified shape that contains reflection formatting properties for the shape. Read-only.
+Returns a **[ReflectionFormat](Office.ReflectionFormat.md)** object for a specified shape that contains reflection formatting properties for the shape. Read-only.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Reflection**
 _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

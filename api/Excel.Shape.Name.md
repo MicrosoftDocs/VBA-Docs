@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Name property (Excel)
 
-Returns or sets a  **String** value representing the name of the object.
+Returns or sets a **String** value representing the name of the object.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Name**
 _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
