@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Shadow property (Excel)
 
-Returns a read-only  **[ShadowFormat](Excel.ShadowFormat.md)** object that contains shadow formatting properties for the specified shape or shapes.
+Returns a read-only **[ShadowFormat](Excel.ShadowFormat.md)** object that contains shadow formatting properties for the specified shape or shapes.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Shadow**
 _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

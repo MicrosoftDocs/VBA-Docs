@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.SoftEdge property (Excel)
 
-Returns a  **[SoftEdgeFormat](Office.SoftEdgeFormat.md)** object for a specified shape that contains soft edge formatting properties for the shape. Read-only.
+Returns a **[SoftEdgeFormat](Office.SoftEdgeFormat.md)** object for a specified shape that contains soft edge formatting properties for the shape. Read-only.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**SoftEdge**
 _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

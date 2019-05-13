@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.ShapeStyle property (Excel)
 
-Returns or sets an  **[MsoShapeStyleIndex](Office.MsoShapeStyleIndex.md)** that represents the shape style of shape range. Read/write.
+Returns or sets an **[MsoShapeStyleIndex](Office.MsoShapeStyleIndex.md)** that represents the shape style of the shape range. Read/write.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**ShapeStyle**
 _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

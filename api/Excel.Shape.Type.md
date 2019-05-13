@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Type property (Excel)
 
-Returns or sets a  **[MsoShapeType](Office.MsoShapeType.md)** value that represents the shape type.
+Returns or sets an **[MsoShapeType](Office.MsoShapeType.md)** value that represents the shape type.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Type**
 _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Top property (Excel)
 
-Returns or sets a  **Single** value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the top edge of the topmost shape in the shape range to the top edge of the worksheet.
+Returns or sets a **Single** value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the top edge of the topmost shape in the shape range to the top edge of the worksheet.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Top**
 _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.TextEffect property (Excel)
 
-Returns a  **[TextEffectFormat](Excel.TextEffectFormat.md)** object that contains text-effect formatting properties for the specified shape. Read-only.
+Returns a **[TextEffectFormat](Excel.TextEffectFormat.md)** object that contains text-effect formatting properties for the specified shape. Read-only.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 This example sets the font style to bold for shape three on _myDocument_ if the shape is WordArt.
 
-
 ```vb
 Set myDocument = Worksheets(1) 
 With myDocument.Shapes(3) 
@@ -39,9 +38,6 @@ End With
 ```
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

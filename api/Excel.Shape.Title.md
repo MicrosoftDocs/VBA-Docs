@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Title property (Excel)
 
-Returns or sets the title of the alternative text associated with the specified shape. Read/write
+Returns or sets the title of the alternative text associated with the specified shape. Read/write.
 
 
 ## Syntax
@@ -26,17 +26,14 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 ## Return value
 
- **String**
+**String**
 
 
 ## Remarks
 
-To set the descriptive text string of the alternative text for a shape, use the  **[AlternativeText](Excel.Shape.AlternativeText.md)** property.
+To set the descriptive text string of the alternative text for a shape, use the **[AlternativeText](Excel.Shape.AlternativeText.md)** property.
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

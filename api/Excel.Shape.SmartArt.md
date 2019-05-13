@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.SmartArt property (Excel)
 
-Returns an object that represents the SmartArt associated with the shape. Read-only
+Returns an object that represents the SmartArt associated with the shape. Read-only.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 ## Return value
 
- **[SmartArt](Office.SmartArt.md)**
+**[SmartArt](Office.SmartArt.md)**
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

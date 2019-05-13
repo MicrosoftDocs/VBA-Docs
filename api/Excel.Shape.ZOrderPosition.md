@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.ZOrderPosition property (Excel)
 
-Returns the position of the specified shape in the z-order. Read-only  **Long**.Read-only
+Returns the position of the specified shape in the z-order. Read-only **Long**.
 
 
 ## Syntax
@@ -26,9 +26,9 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 ## Remarks
 
-To set the shape's position in the z-order, use the  **[ZOrder](Excel.Shape.ZOrder.md)** method.
+To set the shape's position in the z-order, use the **[ZOrder](Excel.Shape.ZOrder.md)** method.
 
-A shape's position in the z-order corresponds to the shape's index number in the  **Shapes** collection. For example, if there are four shapes on _myDocument_, the expression  `myDocument.Shapes(1)` returns the shape at the back of the z-order, and the expression `myDocument.Shapes(4)` returns the shape at the front of the z-order.
+A shape's position in the z-order corresponds to the shape's index number in the **Shapes** collection. For example, if there are four shapes on _myDocument_, the expression  `myDocument.Shapes(1)` returns the shape at the back of the z-order, and the expression `myDocument.Shapes(4)` returns the shape at the front of the z-order.
 
 Whenever you add a new shape to a collection, it's added to the front of the z-order by default.
 
@@ -36,7 +36,6 @@ Whenever you add a new shape to a collection, it's added to the front of the z-o
 ## Example
 
 This example adds an oval to _myDocument_ and then places the oval second from the back in the z-order if there is at least one other shape on the document.
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -48,9 +47,5 @@ End With
 ```
 
 
-## See also
-
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.TopLeftCell property (Excel)
 
-Returns a  **[Range](Excel.Range(object).md)** object that represents the cell that lies under the upper-left corner of the specified object. Read-only.
+Returns a **[Range](Excel.Range(object).md)** object that represents the cell that lies under the upper-left corner of the specified object. Read-only.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**TopLeftCell**
 _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

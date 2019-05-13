@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Visible property (Excel)
 
-Returns or sets a  **[MsoTriState](Office.MsoTriState.md)** value that determines whether the object is visible. Read/write.
+Returns or sets an **[MsoTriState](Office.MsoTriState.md)** value that determines whether the object is visible. Read/write.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Visible**
 _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

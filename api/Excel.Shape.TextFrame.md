@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.TextFrame property (Excel)
 
-Returns a  **[TextFrame](Excel.TextFrame.md)** object that contains the alignment and anchoring properties for the specified shape. Read-only.
+Returns a **[TextFrame](Excel.TextFrame.md)** object that contains the alignment and anchoring properties for the specified shape. Read-only.
 
 
 ## Syntax
@@ -28,16 +28,11 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 This example causes text in the text frame in shape one to be justified. If shape one doesn't have a text frame, this example fails.
 
-
 ```vb
 Worksheets(1).Shapes(1).TextFrame _ 
  .HorizontalAlignment = xlHAlignJustify
 ```
 
 
-## See also
-
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

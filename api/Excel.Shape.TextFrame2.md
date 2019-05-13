@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.TextFrame2 property (Excel)
 
-Returns a  **[TextFrame2](Excel.TextFrame2.md)** object that contains text formatting for the specified shape. Read-only.
+Returns a **[TextFrame2](Excel.TextFrame2.md)** object that contains text formatting for the specified shape. Read-only.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**TextFrame2**
 _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
