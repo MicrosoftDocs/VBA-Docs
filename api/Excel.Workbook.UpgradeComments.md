@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Workbook.UpgradeComments method (Excel)
 
-Upgrade all legacy comments to modern comments.
+Upgrade all legacy comments and notes to modern comments.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Example
 
-This example upgrades all legacy comments in the active workbook
+This example upgrades all legacy comments and notes in the active workbook
 
 
 ```vb
