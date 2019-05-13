@@ -19,9 +19,9 @@ Returns or sets a  **Single** that represents the blur level for a shadow format
 
 ## Syntax
 
-_expression_. `Blur`
+_expression_.**Blur**
 
- _expression_ An expression that returns a '[ShadowFormat](Word.ShadowFormat.md)' object.
+ _expression_ An expression that returns a **[ShadowFormat](Word.ShadowFormat.md)** object.
 
 
 ## See also

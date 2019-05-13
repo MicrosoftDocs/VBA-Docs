@@ -19,14 +19,12 @@ Changes the horizontal offset of the shadow by the specified number of points.
 
 ## Syntax
 
-_expression_. `IncrementOffsetX`( `_Increment_` )
+_expression_.**IncrementOffsetX** (_Increment_)
 
 _expression_ A variable that represents an [ShadowFormat](./PowerPoint.ShadowFormat.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

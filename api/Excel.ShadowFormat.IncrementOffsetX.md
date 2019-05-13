@@ -7,26 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.ShadowFormat.IncrementOffsetX
 ms.assetid: eaa71500-16dd-5df1-cf32-920ab71d77bb
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
 
 # ShadowFormat.IncrementOffsetX method (Excel)
 
-Changes the horizontal offset of the shadow by the specified number of points. Use the  **[OffsetX](Excel.ShadowFormat.OffsetX.md)** property to set the absolute horizontal shadow offset.
+Changes the horizontal offset of the shadow by the specified number of [points](../language/glossary/vbe-glossary.md#point). Use the **[OffsetX](Excel.ShadowFormat.OffsetX.md)** property to set the absolute horizontal shadow offset.
 
 
 ## Syntax
 
-_expression_. `IncrementOffsetX`( `_Increment_` )
+_expression_.**IncrementOffsetX** (_Increment_)
 
-_expression_ A variable that represents a [ShadowFormat](Excel.ShadowFormat.md) object.
+_expression_ A variable that represents a **[ShadowFormat](Excel.ShadowFormat.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -36,16 +34,12 @@ _expression_ A variable that represents a [ShadowFormat](Excel.ShadowFormat.md) 
 
 This example moves the shadow on shape three on _myDocument_ to the left by 3 points.
 
-
 ```vb
 Set myDocument = Worksheets(1) 
 myDocument.Shapes(3).Shadow.IncrementOffsetX -3
 ```
 
 
-## See also
 
-
-[ShadowFormat Object](Excel.ShadowFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
