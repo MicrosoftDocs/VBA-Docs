@@ -14,36 +14,34 @@ localization_priority: Normal
 
 # Shapes.AddCallout method (Word)
 
-Adds a borderless line callout to a drawing canvas. .
+Adds a borderless line callout to a drawing canvas. 
 
 
 ## Syntax
 
-_expression_. `AddCallout`( `_Type_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
+_expression_.**AddCallout** (_Type_, _Left_, _Top_, _Width_, _Height_)
 
-_expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
+_expression_ Required. A variable that represents a **[Shapes](Word.Shapes.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **MsoCalloutType**|The type of callout.|
 | _Left_|Required| **Single**|The position, in [points](../language/glossary/vbe-glossary.md#point), of the left edge of the callout's bounding box.|
-| _Top_|Required| **Single**|The position, in [points](../language/glossary/vbe-glossary.md#point), of the top edge of the callout's bounding box.|
-| _Width_|Required| **Single**|The width, in [points](../language/glossary/vbe-glossary.md#point), of the callout's bounding box.|
-| _Height_|Required| **Single**|The height, in [points](../language/glossary/vbe-glossary.md#point), of the callout's bounding box.|
+| _Top_|Required| **Single**|The position, in points, of the top edge of the callout's bounding box.|
+| _Width_|Required| **Single**|The width, in points, of the callout's bounding box.|
+| _Height_|Required| **Single**|The height, in points, of the callout's bounding box.|
 
 ## Return value
 
- **[Shape](Word.Shape.md)**
+**[Shape](Word.Shape.md)**
 
 
 ## Remarks
 
-You can insert a greater variety of callouts, such as balloons and clouds, using the  **AddShape** method.
+You can insert a greater variety of callouts, such as balloons and clouds, by using the **AddShape** method.
 
 
 ## Example

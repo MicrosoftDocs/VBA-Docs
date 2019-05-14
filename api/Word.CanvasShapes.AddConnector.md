@@ -19,14 +19,12 @@ Returns a  **[Shape](Word.Shape.md)** object that represents a connecting line b
 
 ## Syntax
 
-_expression_. `AddConnector`( `_Type_` , `_BeginX_` , `_BeginY_` , `_EndX_` , `_EndY_` )
+_expression_.**AddConnector** (_Type_, _BeginX_, _BeginY_, _EndX_, _EndY_)
 
-_expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
+_expression_ Required. A variable that represents a **[CanvasShapes](Word.CanvasShapes.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

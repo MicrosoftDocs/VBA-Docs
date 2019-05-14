@@ -19,13 +19,12 @@ Creates a text box. Returns a  **[Shape](Excel.Shape.md)** object that represent
 
 ## Syntax
 
-_expression_. `AddTextbox`( `_Orientation_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
+_expression_.**AddTextbox**(_Orientation_, _Left_, _Top_, _Width_, _Height_)
 
 _expression_ A variable that represents a **[Shapes](Excel.Shapes.md)** object.
 
 
 ## Parameters
-
 
 
 |Name|Required/Optional|Data type|Description|

@@ -19,7 +19,7 @@ Selects all the shapes in a  **[Shapes](PowerPoint.Shapes.md)** collection.
 
 ## Syntax
 
-_expression_. `SelectAll`
+_expression_.**SelectAll**
 
 _expression_ A variable that represents a **[Shapes](PowerPoint.Shapes.md)** object.
 

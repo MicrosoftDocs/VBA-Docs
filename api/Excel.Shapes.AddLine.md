@@ -14,23 +14,21 @@ localization_priority: Normal
 
 # Shapes.AddLine method (Excel)
 
-As it applies to the  **Shapes** object, returns a **[Shape](Excel.Shape.md)** object that represents the new line in a worksheet.
+As it applies to the **Shapes** object, returns a **[Shape](Excel.Shape.md)** object that represents the new line in a worksheet.
 
 
 ## Syntax
 
-_expression_. `AddLine`( `_BeginX_` , `_BeginY_` , `_EndX_` , `_EndY_` )
+_expression_.**AddLine** (_BeginX_, _BeginY_, _EndX_, _EndY_)
 
 _expression_ A variable that represents a **[Shapes](Excel.Shapes.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _BeginX_|Required| **Single**|The position (in points) of the line's starting point relative to the upper-left corner of the document.|
+| _BeginX_|Required| **Single**|The position (in [points](../language/glossary/vbe-glossary.md#point)) of the line's starting point relative to the upper-left corner of the document.|
 | _BeginY_|Required| **Single**|The position (in points) of the line's starting point relative to the upper-left corner of the document.|
 | _EndX_|Required| **Single**|The position (in points) of the line's end point relative to the upper-left corner of the document.|
 | _EndY_|Required| **Single**|The position (in points) of the line's end point relative to the upper-left corner of the document.|

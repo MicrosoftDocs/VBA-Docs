@@ -19,14 +19,12 @@ Returns a  **[Shape](Excel.Shape.md)** object that represents a Bézier curve in
 
 ## Syntax
 
-_expression_. `AddCurve`( `_SafeArrayOfPoints_` )
+_expression_.**AddCurve** (_SafeArrayOfPoints_)
 
 _expression_ A variable that represents a **[Shapes](Excel.Shapes.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

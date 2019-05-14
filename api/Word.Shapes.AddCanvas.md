@@ -21,7 +21,7 @@ Adds a drawing canvas to a document. Returns a  **[Shape](Word.Shape.md)** objec
 
 _expression_. `AddCanvas`( `_Left_` , `_Top_` , `_Width_` , `_Height_` , `_Anchor_` )
 
-_expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
+_expression_ Required. A variable that represents a **[Shapes](Word.Shapes.md)** object.
 
 
 ## Parameters
