@@ -48,7 +48,6 @@ Worksheets(1).CommentsThreaded(2).Text "Updated Text"
 ```
 
 
-
 ## Methods
 
 - [Item](Excel.CommentsThreaded.Item.md)
@@ -58,6 +57,7 @@ Worksheets(1).CommentsThreaded(2).Text "Updated Text"
 - [Application](Excel.CommentsThreaded.Application.md)
 - [Count](Excel.CommentsThreaded.Count.md)
 - [Creator](Excel.CommentsThreaded.Creator.md)
+- [Parent](Excel.CommentsThreaded.Parent.md)
 
 
 ## See also

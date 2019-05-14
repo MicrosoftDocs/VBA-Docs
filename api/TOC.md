@@ -5365,6 +5365,7 @@
 ###### [Application](Excel.CommentsThreaded.Application.md)
 ###### [Count](Excel.CommentsThreaded.Count.md)
 ###### [Creator](Excel.CommentsThreaded.Creator.md)
+###### [Parent](Excel.CommentsThreaded.Parent.md)
 #### [ConditionValue object](Excel.ConditionValue.md)
 ##### Methods
 ###### [Modify](Excel.ConditionValue.Modify.md)
