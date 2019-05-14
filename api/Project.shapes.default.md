@@ -14,7 +14,7 @@ The  **Shapes.Default** property is not implemented for Office Art in the Office
 
 _expression_. `Default`
 
-_expression_ A variable that represents a 'Shapes' object.
+_expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object.
 
 
 ## Remarks

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.Cut
 ms.assetid: 2b9ee596-4f61-1881-65e6-d786cf43061e
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Cuts the object to the Clipboard.
 
 _expression_.**Cut**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Return value
@@ -29,9 +29,6 @@ _expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 Nothing
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

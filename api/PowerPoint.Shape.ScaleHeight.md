@@ -19,14 +19,12 @@ Scales the height of the shape by a specified factor.
 
 ## Syntax
 
-_expression_. `ScaleHeight`( `_Factor_`, `_RelativeToOriginalSize_`, `_fScale_` )
+_expression_.**ScaleHeight** (_Factor_, _RelativeToOriginalSize_, _fScale_)
 
-_expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
+_expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

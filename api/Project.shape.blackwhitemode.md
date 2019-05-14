@@ -12,9 +12,9 @@ Gets or sets a value that indicates how the shape appears when it is viewed in b
 
 ## Syntax
 
-_expression_. `BlackWhiteMode`
+_expression_.**BlackWhiteMode**
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Property value

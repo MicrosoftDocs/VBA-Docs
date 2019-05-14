@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.SetShapesDefaultProperties
 ms.assetid: 7fee7695-99ea-5094-002a-f21f280d5541
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,15 +19,14 @@ Makes the formatting of the specified shape the default formatting for the shape
 
 ## Syntax
 
-_expression_. `SetShapesDefaultProperties`
+_expression_.**SetShapesDefaultProperties**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Example
 
 This example adds a rectangle to _myDocument_, formats the rectangle's fill, sets the rectangle's formatting as the default shape formatting, and then adds another smaller rectangle to the document. The second rectangle has the same fill as the first one.
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -47,9 +46,5 @@ End With
 ```
 
 
-## See also
-
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

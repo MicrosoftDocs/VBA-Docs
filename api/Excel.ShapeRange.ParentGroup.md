@@ -7,19 +7,19 @@ ms.prod: excel
 api_name:
 - Excel.ShapeRange.ParentGroup
 ms.assetid: b4e8b015-9380-734a-b7e3-74f73c5613fc
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
 
 # ShapeRange.ParentGroup property (Excel)
 
-Returns a  **[Shape](Excel.Shape.md)** object that represents the common parent shape of a child shape or a range of child shapes.
+Returns a **[Shape](Excel.Shape.md)** object that represents the common parent shape of a child shape or a range of child shapes.
 
 
 ## Syntax
 
-_expression_. `ParentGroup`
+_expression_.**ParentGroup**
 
 _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** 
 ## Example
 
 In this example, Microsoft Excel adds two shapes to the active worksheet and then removes both shapes by deleting the parent shape of the group.
-
 
 ```vb
 Sub ParentGroup() 
@@ -54,9 +53,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[ShapeRange Object](Excel.ShapeRange.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

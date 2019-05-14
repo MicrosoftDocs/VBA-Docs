@@ -19,7 +19,7 @@ Returns or sets the shape type for the specified  **ShapeRange** object, which m
 
 ## Syntax
 
-_expression_. `AutoShapeType`
+_expression_.**AutoShapeType**
 
 _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
@@ -36,7 +36,7 @@ Use the  **Type** property of the **[ConnectorFormat](PowerPoint.ConnectorFormat
 
 ## Example
 
-This example replaces all 16-point stars with 32-point stars in  _myDocument_.
+This example replaces all 16-point stars with 32-point stars in _myDocument_.
 
 
 ```vb

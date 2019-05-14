@@ -39,7 +39,7 @@ _expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) 
 
 ## Example
 
-This example specifies that the extrusion surface for shape one in  _myDocument_ be wire frame.
+This example specifies that the extrusion surface for shape one in _myDocument_ be wire frame.
 
 
 ```vb

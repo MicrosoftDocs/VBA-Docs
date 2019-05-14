@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ShapeNodes.Delete
 ms.assetid: 985a1bed-4c40-e169-42de-fce59eca8b79
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -21,20 +21,15 @@ Deletes the object.
 
 _expression_.**Delete** (_Index_)
 
-_expression_ A variable that represents a [ShapeNodes](Excel.ShapeNodes.md) object.
+_expression_ A variable that represents a **[ShapeNodes](Excel.ShapeNodes.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Integer**|The index of the object to delete.|
 
-## See also
 
-
-[ShapeNodes Object](Excel.ShapeNodes.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

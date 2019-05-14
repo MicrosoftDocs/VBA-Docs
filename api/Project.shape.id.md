@@ -14,7 +14,7 @@ Gets the identification type for the shape. Read-only  **Long**.
 
 _expression_.**ID**
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Property value

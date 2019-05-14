@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ShapeRange.ScaleHeight
 ms.assetid: 93687481-8c24-d002-19de-1b60cdfade06
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,38 +19,23 @@ Scales the height of the shape by a specified factor. For pictures and OLE objec
 
 ## Syntax
 
-_expression_. `ScaleHeight`( `_Factor_` , `_RelativeToOriginalSize_` , `_Scale_` )
+_expression_.**ScaleHeight** (_Factor_, _RelativeToOriginalSize_, _Scale_)
 
 _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Factor_|Required| **Single**|Specifies the ratio between the height of the shape after you resize it and the current or original height. For example, to make a rectangle 50 percent larger, specify 1.5 for this argument.|
 | _RelativeToOriginalSize_|Required| **[MsoTriState](Office.MsoTriState.md)**| **msoTrue** to scale the shape relative to its original size. **msoFalse** to scale it relative to its current size. You can specify **msoTrue** for this argument only if the specified shape is a picture or an OLE object.|
-| _Scale_|Optional| **Variant**|One of the constants of  **[MsoScaleFrom](Office.MsoScaleFrom.md)** which specifies which part of the shape retains its position when the shape is scaled.|
+| _Scale_|Optional| **Variant**|One of the constants of **[MsoScaleFrom](Office.MsoScaleFrom.md)**, which specifies which part of the shape retains its position when the shape is scaled.|
 
-## Remarks
-
-
-
-
-
-| **MsoTriState** can be one of these **MsoTriState** constants.|
-| **msoCTrue**. Does not apply to this property.|
-| **msoFalse**. Scale the shape relative to its current size.|
-| **msoTriStateMixed**. Does not apply to this property.|
-| **msoTriStateToggle**. Does not apply to this property.|
-| **msoTrue**. Scale the shape relative to its original size.|
 
 ## Example
 
 This example scales all pictures and OLE objects on _myDocument_ to 175 percent of their original height and width, and it scales all other shapes to 175 percent of their current height and width.
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -70,9 +55,6 @@ Next
 ```
 
 
-## See also
 
-
-[ShapeRange Object](Excel.ShapeRange.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

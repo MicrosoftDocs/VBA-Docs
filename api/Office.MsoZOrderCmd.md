@@ -18,10 +18,11 @@ Specifies where in the z-order a shape should be moved relative to other shapes.
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBringForward**|2|Bring shape forward.|
-|**msoBringInFrontOfText**|4|Bring shape in front of text.|
+|**msoBringInFrontOfText**|4|Bring shape in front of text. Used only in Microsoft Word.|
 |**msoBringToFront**|0|Bring shape to the front.|
 |**msoSendBackward**|3|Send shape backward.|
-|**msoSendBehindText**|5|Send shape behind text.|
+|**msoSendBehindText**|5|Send shape behind text. Used only in Microsoft Word.|
 |**msoSendToBack**|1|Send shape to the back.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

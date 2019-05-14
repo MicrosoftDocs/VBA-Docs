@@ -14,7 +14,7 @@ Gets the  **[Application object (Project)](Project.Application.md)** object. Rea
 
 _expression_.**Application**
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Property value

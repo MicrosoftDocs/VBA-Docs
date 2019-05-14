@@ -7,27 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.Shape.Fill
 ms.assetid: b533b463-51c5-f59e-c3ba-cfe7512daa53
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
 
 # Shape.Fill property (Excel)
 
-Returns a  **[FillFormat](Excel.FillFormat.md)** object for a specified shape or a **[ChartFillFormat](Excel.ChartFillFormat.md)** object for a specified chart that contains fill formatting properties for the shape or chart. Read-only.
+Returns a **[FillFormat](Excel.FillFormat.md)** object for a specified shape or a **[ChartFillFormat](Excel.ChartFillFormat.md)** object for a specified chart that contains fill formatting properties for the shape or chart. Read-only.
 
 
 ## Syntax
 
-_expression_. `Fill`
+_expression_.**Fill**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Example
 
 This example adds a rectangle to _myDocument_ and then sets the foreground color, background color, and gradient for the rectangle's fill.
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -40,9 +39,6 @@ End With
 ```
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

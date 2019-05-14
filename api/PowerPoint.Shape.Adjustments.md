@@ -19,9 +19,9 @@ Returns an  **[Adjustments](PowerPoint.Adjustments.md)** object that contains ad
 
 ## Syntax
 
-_expression_. `Adjustments`
+_expression_.**Adjustments**
 
-_expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
+_expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** object.
 
 
 ## Return value

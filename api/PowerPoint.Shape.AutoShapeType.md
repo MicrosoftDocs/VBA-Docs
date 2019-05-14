@@ -19,9 +19,9 @@ Returns or sets the shape type for the specified  **Shape** object, which must r
 
 ## Syntax
 
-_expression_. `AutoShapeType`
+_expression_.**AutoShapeType**
 
-_expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
+_expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** object.
 
 
 ## Return value
@@ -36,7 +36,7 @@ Use the  **Type** property of the **[ConnectorFormat](PowerPoint.ConnectorFormat
 
 ## Example
 
-This example replaces all 16-point stars with 32-point stars in  _myDocument_.
+This example replaces all 16-point stars with 32-point stars in _myDocument_.
 
 
 ```vb

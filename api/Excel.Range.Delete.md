@@ -19,7 +19,7 @@ Deletes the object.
 
 ## Syntax
 
-_expression_.**Delete** ( _Shift_ )
+_expression_.**Delete** (_Shift_)
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 

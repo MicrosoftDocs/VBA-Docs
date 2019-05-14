@@ -12,9 +12,9 @@ Scales the height of the shape by a specified factor.
 
 ## Syntax
 
-_expression_. `ScaleHeight` _(Factor,_ _RelativeToOriginalSize,_ _fScale)_
+_expression_.**ScaleHeight** (_Factor_, _RelativeToOriginalSize_, _fScale_)
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Parameters

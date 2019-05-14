@@ -7,37 +7,34 @@ ms.prod: excel
 api_name:
 - Excel.ShapeNodes.SetPosition
 ms.assetid: ad76e3d9-51d2-51fd-2af1-9eee7b62e52c
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
 
 # ShapeNodes.SetPosition method (Excel)
 
-Sets the location of the node specified by  _Index_. Note that, depending on the editing type of the node, this method may affect the position of adjacent nodes.
+Sets the location of the node specified by _Index_. Note that, depending on the editing type of the node, this method may affect the position of adjacent nodes.
 
 
 ## Syntax
 
-_expression_. `SetPosition`( `_Index_` , `_X1_` , `_Y1_` )
+_expression_.**SetPosition** (_Index_, _X1_, _Y1_)
 
-_expression_ A variable that represents a [ShapeNodes](Excel.ShapeNodes.md) object.
+_expression_ A variable that represents a **[ShapeNodes](Excel.ShapeNodes.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The node whose position is to be set.|
-| _X1_|Required| **Single**|The position (in points) of the new node relative to the upper-left corner of the document.|
+| _X1_|Required| **Single**|The position (in [points](../language/glossary/vbe-glossary.md#point)) of the new node relative to the upper-left corner of the document.|
 | _Y1_|Required| **Single**|The position (in points) of the new node relative to the upper-left corner of the document.|
 
 ## Example
 
 This example moves node two in shape three on _myDocument_ to the right 200 points and down 300 points. Shape three must be a freeform drawing.
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -50,9 +47,5 @@ End With
 ```
 
 
-## See also
-
-
-[ShapeNodes Object](Excel.ShapeNodes.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

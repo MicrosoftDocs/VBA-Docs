@@ -14,7 +14,7 @@ Gets or sets the horizontal distance, in [points](../language/glossary/vbe-gloss
 
 _expression_.**Left**
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Property value

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.HasChart
 ms.assetid: fa795ef7-78a4-15f2-f745-94163f9dcf08
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,11 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `HasChart`
+_expression_.**HasChart**
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
-[Shape Object](Excel.Shape.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

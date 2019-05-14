@@ -7,26 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.Shape.IncrementTop
 ms.assetid: 84aa117d-5309-ea33-e21a-5fc5ef1d6123
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
 
 # Shape.IncrementTop method (Excel)
 
-Moves the specified shape vertically by the specified number of points.
+Moves the specified shape vertically by the specified number of [points](../language/glossary/vbe-glossary.md#point).
 
 
 ## Syntax
 
-_expression_. `IncrementTop`( `_Increment_` )
+_expression_.**IncrementTop** (_Increment_)
 
-_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -35,7 +33,6 @@ _expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 ## Example
 
 This example duplicates shape one on _myDocument_, sets the fill for the duplicate, moves it 70 points to the right and 50 points up, and rotates it 30 degrees clockwise.
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -48,9 +45,6 @@ End With
 ```
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

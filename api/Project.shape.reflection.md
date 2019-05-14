@@ -12,9 +12,9 @@ Gets the reflection formatting for the shape. Read-only  **[ReflectionFormat](ht
 
 ## Syntax
 
-_expression_. `Reflection`
+_expression_.**Reflection**
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Property value

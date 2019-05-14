@@ -12,9 +12,9 @@ Gets or sets the shape type for the  **Shape** object, which must represent an A
 
 ## Syntax
 
-_expression_. `AutoShapeType`
+_expression_.**AutoShapeType**
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Remarks

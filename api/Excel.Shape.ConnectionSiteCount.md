@@ -7,27 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.Shape.ConnectionSiteCount
 ms.assetid: a1ee6e8f-7e3d-4ef8-49e8-e4c328e4fff1
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
 
 # Shape.ConnectionSiteCount property (Excel)
 
-Returns the number of connection sites on the specified shape. Read-only  **Long**.
+Returns the number of connection sites on the specified shape. Read-only **Long**.
 
 
 ## Syntax
 
-_expression_. `ConnectionSiteCount`
+_expression_.**ConnectionSiteCount**
 
- _expression_ An expression that returns a [Shape](Excel.Shape.md) object.
+_expression_ An expression that returns a **[Shape](Excel.Shape.md)** object.
 
 
 ## Example
 
 This example adds two rectangles to _myDocument_ and joins them with two connectors. The beginnings of both connectors attach to connection site one on the first rectangle; the ends of the connectors attach to the first and last connection sites of the second rectangle.
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -54,9 +53,6 @@ End With
 ```
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

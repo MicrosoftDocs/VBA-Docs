@@ -19,7 +19,7 @@ Returns or sets whether the specified shadow rotates when the shape it is associ
 
 ## Syntax
 
-_expression_. `RotateWithShape`
+_expression_.**RotateWithShape**
 
  _expression_ An expression that returns a [ShadowFormat](./PowerPoint.ShadowFormat.md) object.
 

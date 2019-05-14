@@ -19,7 +19,7 @@ Returns or sets the shape type for the specified  **ShapeRange** object, which m
 
 ## Syntax
 
-_expression_. `AutoShapeType`
+_expression_.**AutoShapeType**
 
 _expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 

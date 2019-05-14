@@ -21,7 +21,7 @@ Applies to the specified shape formatting that's been copied by using the  **Pic
 
 _expression_.**Apply**
 
-_expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
+_expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** object.
 
 
 ## Example

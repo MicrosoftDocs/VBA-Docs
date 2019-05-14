@@ -12,9 +12,9 @@ Gets a  **ConnectorFormat** object that contains connector formatting properties
 
 ## Syntax
 
-_expression_. `ConnectorFormat`
+_expression_.**ConnectorFormat**
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Remarks

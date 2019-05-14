@@ -12,9 +12,9 @@ Applies the formatting of a default shape to the shape.
 
 ## Syntax
 
-_expression_. `SetShapesDefaultProperties`
+_expression_.**SetShapesDefaultProperties**
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Return value

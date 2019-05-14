@@ -19,9 +19,9 @@ Returns a value that indicates whether the segment associated with the specified
 
 ## Syntax
 
-_expression_. `SegmentType`
+_expression_.**SegmentType**
 
-_expression_ Required. A variable that represents a '[ShapeNode](Word.ShapeNode.md)' object.
+_expression_ Required. A variable that represents a **[ShapeNode](Word.ShapeNode.md)** object.
 
 
 ## Remarks

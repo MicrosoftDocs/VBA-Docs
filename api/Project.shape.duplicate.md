@@ -14,7 +14,7 @@ Duplicates a shape and returns a reference to the copy.
 
 _expression_.**Duplicate**
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Return value

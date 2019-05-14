@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFor
 
 ## Example
 
-This example sets the font size to 16 points for the shape named "WordArt 4" in  _myDocument_.
+This example sets the font size to 16 points for the shape named "WordArt 4" in _myDocument_.
 
 
 ```vb

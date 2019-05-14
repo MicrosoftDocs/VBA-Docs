@@ -19,7 +19,7 @@ Returns the text formatting for the specified chart element. Read-only  **[TextF
 
 ## Syntax
 
-_expression_. `TextFrame2`
+_expression_.**TextFrame2**
 
 _expression_ A variable that represents a '[ChartFormat](PowerPoint.ChartFormat.md)' object.
 

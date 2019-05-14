@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ShapeRange.Glow
 ms.assetid: d2b7670f-2715-51f6-1c67-434e3ab39a67
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** 
 The glow effect adds a vibrant colored edge to graphics.
 
 
-## See also
 
-
-[ShapeRange Object](Excel.ShapeRange.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

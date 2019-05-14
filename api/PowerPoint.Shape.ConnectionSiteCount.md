@@ -19,9 +19,9 @@ Returns the number of connection sites on the specified shape. Read-only.
 
 ## Syntax
 
-_expression_. `ConnectionSiteCount`
+_expression_.**ConnectionSiteCount**
 
-_expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
+_expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** object.
 
 
 ## Return value

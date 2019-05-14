@@ -66,7 +66,7 @@ The value of the  **PresetGradientType** property can be one of these **MsoPrese
 
 ## Example
 
-This example changes the fill for all shapes in  _myDocument_ with the Moss preset gradient fill to the Fog preset gradient fill.
+This example changes the fill for all shapes in _myDocument_ with the Moss preset gradient fill to the Fog preset gradient fill.
 
 
 ```vb

@@ -12,7 +12,7 @@ Copies the formatting of the shape range.
 
 ## Syntax
 
-_expression_. `PickUp`
+_expression_.**PickUp**
 
 _expression_ A variable that represents a 'ShapeRange' object.
 

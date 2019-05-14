@@ -7,27 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.Shape.Connector
 ms.assetid: 757505bd-4c45-9d54-a5ac-94e251b351be
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
 
 # Shape.Connector property (Excel)
 
- **True** if the specified shape is a connector. Read-only **[MsoTriState](Office.MsoTriState.md)**.
+**True** if the specified shape is a connector. Read-only **[MsoTriState](Office.MsoTriState.md)**.
 
 
 ## Syntax
 
-_expression_. `Connector`
+_expression_.**Connector**
 
- _expression_ An expression that returns a [Shape](Excel.Shape.md) object.
+_expression_ An expression that returns a **[Shape](Excel.Shape.md)** object.
 
 
 ## Example
 
 This example deletes all connectors on _myDocument_.
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -41,9 +40,6 @@ End With
 ```
 
 
-## See also
 
-
-[Shape Object](Excel.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -12,9 +12,9 @@ The  **RerouteConnections** method is not implemented in Project.
 
 ## Syntax
 
-_expression_. `RerouteConnections`
+_expression_.**RerouteConnections**
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Return value

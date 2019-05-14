@@ -14,7 +14,7 @@ Gets the  **ReportTable** object in the shape. Read-only[ReportTable](Project.re
 
 _expression_. `Table`
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Property value

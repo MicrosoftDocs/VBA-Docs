@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ShapeRange.Flip
 ms.assetid: 65f8066d-a522-ac67-662b-8c31a47fb725
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Flips the specified shape around its horizontal or vertical axis.
 
 ## Syntax
 
-_expression_. `Flip`( `_FlipCmd_` )
+_expression_.**Flip** (_FlipCmd_)
 
 _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -35,7 +33,6 @@ _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** 
 ## Example
 
 This example adds a triangle to _myDocument_, duplicates the triangle, and then flips the duplicate triangle vertically and makes it red.
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -47,9 +44,5 @@ End With
 ```
 
 
-## See also
-
-
-[ShapeRange Object](Excel.ShapeRange.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

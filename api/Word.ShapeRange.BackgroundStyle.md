@@ -19,7 +19,7 @@ Sets or returns the background style of the shapes in the specified shape range.
 
 ## Syntax
 
-_expression_. `BackgroundStyle`
+_expression_.**BackgroundStyle**
 
 _expression_ A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 

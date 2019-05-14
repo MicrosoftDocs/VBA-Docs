@@ -12,9 +12,9 @@ Gets the common parent shape of a child shape or a range of child shapes. Read-o
 
 ## Syntax
 
-_expression_. `ParentGroup`
+_expression_.**ParentGroup**
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Property value

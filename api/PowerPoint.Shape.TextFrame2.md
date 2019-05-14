@@ -19,9 +19,9 @@ Returns the  **[TextFrame2](PowerPoint.TextFrame2.md)** object associated with t
 
 ## Syntax
 
-_expression_. `TextFrame2`
+_expression_.**TextFrame2**
 
- _expression_ An expression that returns a [Shape](./PowerPoint.Shape.md) object.
+ _expression_ An expression that returns a **[Shape](PowerPoint.Shape.md)** object.
 
 
 ## Return value

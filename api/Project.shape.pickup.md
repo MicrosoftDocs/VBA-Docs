@@ -12,9 +12,9 @@ Copies the formatting of a shape.
 
 ## Syntax
 
-_expression_. `PickUp`
+_expression_.**PickUp**
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Return value

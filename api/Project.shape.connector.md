@@ -12,9 +12,9 @@ Gets a value that indicates whether the shape is a connector. Read-only  **[MsoT
 
 ## Syntax
 
-_expression_. `Connector`
+_expression_.**Connector**
 
-_expression_ A variable that represents a 'Shape' object.
+_expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 ## Property value

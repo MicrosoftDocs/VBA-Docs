@@ -19,9 +19,9 @@ Copies the formatting of the specified shape. Use the  **Apply** method to apply
 
 ## Syntax
 
-_expression_. `PickUp`
+_expression_.**PickUp**
 
-_expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
+_expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** object.
 
 
 ## Example
