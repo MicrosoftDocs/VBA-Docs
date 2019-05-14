@@ -29,7 +29,7 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Factor_|Required| **Single**|Specifies the ratio between the width of the shape after you resize it and the current or original width. For example, to make a rectangle 50 percent larger, specify 1.5 for this argument.|
-| _RelativeToOriginalSize_|Required| **[MsoTriState](Office.MsoTriState.md)**| **False** to scale it relative to its current size. You can specify **True** for this argument only if the specified shape is a picture or an OLE object.|
+| _RelativeToOriginalSize_|Required| **[MsoTriState](Office.MsoTriState.md)**| **msoFalse** to scale it relative to its current size. You can specify **msoTrue** for this argument only if the specified shape is a picture or an OLE object.|
 | _Scale_|Optional| **Variant**|One of the constants of **[MsoScaleFrom](Office.MsoScaleFrom.md)**, which specifies which part of the shape retains its position when the shape is scaled.|
 
 

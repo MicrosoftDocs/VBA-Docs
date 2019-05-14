@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ShapeRange.Ungroup
 ms.assetid: d7794250-e4b4-6998-e43d-4b41475ac6c9
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -26,18 +26,17 @@ _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** 
 
 ## Return value
 
-A  **[ShapeRange](Excel.ShapeRange.md)** object that represents the ungrouped shapes.
+A **ShapeRange** object that represents the ungrouped shapes.
 
 
 ## Remarks
 
-Because a group of shapes is treated as a single object, grouping and ungrouping shapes changes the number of items in the  **Shapes** collection and changes the index numbers of items that come after the affected items in the collection.
+Because a group of shapes is treated as a single object, grouping and ungrouping shapes changes the number of items in the **[Shapes](excel.shapes.md)** collection, and changes the index numbers of items that come after the affected items in the collection.
 
 
 ## Example
 
 This example ungroups any grouped shapes and disassembles any pictures or OLE objects on _myDocument_.
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -46,10 +45,9 @@ For Each s In myDocument.Shapes
 Next
 ```
 
+<br/>
+
 This example ungroups any grouped shapes on _myDocument_ without disassembling pictures or OLE objects on the document.
-
-
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -58,9 +56,6 @@ For Each s In myDocument.Shapes
 ```
 
 
-## See also
 
-
-[ShapeRange Object](Excel.ShapeRange.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

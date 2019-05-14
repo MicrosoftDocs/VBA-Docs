@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.ShapeRange.Nodes
 ms.assetid: 6005d3f3-2c08-f539-87fc-51425ce81e0e
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
 
 # ShapeRange.Nodes property (Excel)
 
-Returns a  **[ShapeNodes](Excel.ShapeNodes.md)** collection that represents the geometric description of the specified shape.
+Returns a **[ShapeNodes](Excel.ShapeNodes.md)** collection that represents the geometric description of the specified shape.
 
 
 ## Syntax
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** 
 
 ## Remarks
 
-This property applies to  **[Shape](Excel.Shape.md)** or **[ShapeRange](Excel.ShapeRange.md)** objects that represent freeform drawings.
+This property applies to **[Shape](Excel.Shape.md)** or **ShapeRange** objects that represent freeform drawings.
 
 
 ## Example
 
 This example adds a smooth node with a curved segment after node four in shape three on _myDocument_. Shape three must be a freeform drawing with at least four nodes.
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -42,9 +41,5 @@ End With
 ```
 
 
-## See also
-
-
-[ShapeRange Object](Excel.ShapeRange.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,7 +36,7 @@ Use the  **Type** property of the **[ConnectorFormat](PowerPoint.ConnectorFormat
 
 ## Example
 
-This example replaces all 16-point stars with 32-point stars in  _myDocument_.
+This example replaces all 16-point stars with 32-point stars in _myDocument_.
 
 
 ```vb

@@ -7,27 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.ShapeRange.ConnectionSiteCount
 ms.assetid: ce638d98-1db8-3f76-3f83-a38c62a04a1e
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
 
 # ShapeRange.ConnectionSiteCount property (Excel)
 
-Returns the number of connection sites on the specified shape. Read-only  **Long**.
+Returns the number of connection sites on the specified shape. Read-only **Long**.
 
 
 ## Syntax
 
 _expression_.**ConnectionSiteCount**
 
- _expression_ An expression that returns a **[ShapeRange](Excel.shaperange.md)** object.
+_expression_ An expression that returns a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Example
 
 This example adds two rectangles to _myDocument_ and joins them with two connectors. The beginnings of both connectors attach to connection site one on the first rectangle; the ends of the connectors attach to the first and last connection sites of the second rectangle.
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -54,9 +53,5 @@ End With
 ```
 
 
-## See also
-
-
-[ShapeRange Object](Excel.ShapeRange.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

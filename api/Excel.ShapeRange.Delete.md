@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ShapeRange.Delete
 ms.assetid: 6417fd0d-d7ed-3a76-262d-0426a2243100
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Delete**
 _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
-## See also
 
-
-[ShapeRange Object](Excel.ShapeRange.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

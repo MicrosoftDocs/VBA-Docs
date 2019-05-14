@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.ShapeRange.Rotation
 ms.assetid: 17ec0cd5-99be-f02d-8733-a74e2eb2342f
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
 
 # ShapeRange.Rotation property (Excel)
 
-Returns or sets the rotation of the shape, in degrees. Read/write  **Single**.
+Returns or sets the rotation of the shape, in degrees. Read/write **Single**.
 
 
 ## Syntax
@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** 
 Rotations are always rounded to the nearest integer.
 
 
-## See also
 
-
-[ShapeRange Object](Excel.ShapeRange.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

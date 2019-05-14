@@ -7,19 +7,19 @@ ms.prod: excel
 api_name:
 - Excel.ShapeRange.GroupItems
 ms.assetid: daf6d12c-409a-cf0a-989f-319333d24596
-ms.date: 06/08/2017
+ms.date: 05/14/2019
 localization_priority: Normal
 ---
 
 
 # ShapeRange.GroupItems property (Excel)
 
-Returns a  **[GroupShapes](Excel.GroupShapes.md)** object that represents the individual shapes in the specified group. Use the **[Item](Excel.GroupShapes.Item.md)** method of the **GroupShapes** object to return a single shape from the group. Applies to **ShapeRange** objects that represent grouped shapes. Read-only.
+Returns a **[GroupShapes](Excel.GroupShapes.md)** object that represents the individual shapes in the specified group. Use the **[Item](Excel.GroupShapes.Item.md)** method of the **GroupShapes** object to return a single shape from the group. Applies to **ShapeRange** objects that represent grouped shapes. Read-only.
 
 
 ## Syntax
 
-_expression_. `GroupItems`
+_expression_.**GroupItems**
 
 _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** 
 ## Example
 
 This example adds three triangles to _myDocument_, groups them, sets a color for the entire group, and then changes the color for the second triangle only.
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -46,9 +45,6 @@ End With
 ```
 
 
-## See also
 
-
-[ShapeRange Object](Excel.ShapeRange.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
