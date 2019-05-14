@@ -1,13 +1,9 @@
 ---
-title: Comment Threaded object (Excel)
-keywords:
-f1_keywords:
--
+title: CommentThreaded object (Excel)
 ms.prod: excel
 api_name:
 - Excel.CommentThreaded
-ms.assetid:
-ms.date: 05/08/2019
+ms.date: 05/15/2019
 localization_priority: Normal
 ---
 
@@ -24,23 +20,23 @@ The **CommentThreaded** object is a member of the **[CommentsThreaded](Excel.Com
 
 ## Example
 
-Use the **[CommentThreaded](Excel.Range.CommentThreaded.md)** property of the **Range** object to return a **CommentThreaded** object. The following example changes the text in the comment in cell E5.
+Use the **[CommentThreaded](Excel.Range.CommentThreaded.md)** property of the **Range** object to return a **CommentThreaded** object. The following example changes the text in the threaded comment in cell E5.
 
 ```vb
-Worksheets(1).Range("E5").CommentThreaded.Text "reviewed on " &amp; Date
+Worksheets(1).Range("E5").CommentThreaded.Text "reviewed on " & Date
 ```
 
 <br/>
 
-Use **CommentsThreaded** (_index_), where _index_ is the CommentThreaded number, to return a single CommentThreaded from the **CommentsThreaded** collection. The following example updates CommentThreaded two's text on worksheet one.
+Use **CommentsThreaded** (_index_), where _index_ is the threaded comment number, to return a single threaded comment from the **CommentsThreaded** collection. The following example updates the text of threaded comment two on worksheet one.
 
 ```vb
-Worksheets(1).CommentsThreaded(2).Text "reviewed on " &amp; Date
+Worksheets(1).CommentsThreaded(2).Text "reviewed on " & Date
 ```
 
 <br/>
 
-Use the **[AddCommentThreaded](Excel.Range.AddCommentThreaded.md)** method of the **Range** object to add a comment to a range. The following example adds a comment to cell E5 on worksheet one.
+Use the **[AddCommentThreaded](Excel.Range.AddCommentThreaded.md)** method of the **Range** object to add a comment to a range. The following example adds a threaded comment to cell E5 on worksheet one.
 
 ```vb
 Worksheets(1).Range("E5").AddCommentThreaded "Current Sales"

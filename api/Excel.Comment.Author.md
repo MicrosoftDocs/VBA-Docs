@@ -25,7 +25,7 @@ _expression_ A variable that represents a **[Comment](Excel.Comment.md)** object
 
 ## Example
 
-This example deletes all comments added by Jean Selva on the active sheet.
+This example deletes all comments added by author Jean Selva on the active sheet.
 
 ```vb
 For Each c in ActiveSheet.Comments 

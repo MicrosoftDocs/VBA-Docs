@@ -1,24 +1,23 @@
 ---
-title: Author.Parent property (Excel)
+title: Author.ProviderID property (Excel)
 ms.prod: excel
 api_name:
-- Excel.Author.Parent
+- Excel.Author.ProviderID
 ms.date: 05/15/2019
 localization_priority: Normal
 ---
 
 
-# Author.Parent property (Excel)
+# Author.ProviderID property (Excel)
 
-Returns the parent object for the specified object. Read-only.
+Returns a **String** that represents the ID of the service providing the contact information. Read-only. 
 
 
 ## Syntax
 
-_expression_.**Parent**
+_expression_.**ProviderID**
 
 _expression_ A variable that represents an **[Author](Excel.Author.md)** object.
-
 
 
 

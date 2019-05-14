@@ -27,7 +27,7 @@ The **Comment** object is a member of the **[Comments](Excel.Comments.md)** coll
 Use the **[Comment](Excel.Range.Comment.md)** property of the **Range** object to return a **Comment** object. The following example changes the text in the comment in cell E5.
 
 ```vb
-Worksheets(1).Range("E5").Comment.Text "reviewed on " &amp; Date
+Worksheets(1).Range("E5").Comment.Text "reviewed on " & Date
 ```
 
 <br/>
@@ -45,7 +45,7 @@ Use the **[AddComment](Excel.Range.AddComment.md)** method of the **Range** obje
 ```vb
 With Worksheets(1).Range("e5").AddComment 
  .Visible = False 
- .Text "reviewed on " &amp; Date 
+ .Text "reviewed on " & Date 
 End With
 ```
 

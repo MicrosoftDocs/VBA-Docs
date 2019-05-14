@@ -1,13 +1,9 @@
 ---
 title: CommentsThreaded.Count property (Excel)
-keywords:
-f1_keywords:
--
 ms.prod: excel
 api_name:
 - Excel.CommentsThreaded.Count
-ms.assetid:
-ms.date: 05/08/2019
+ms.date: 05/15/2019
 localization_priority: Normal
 ---
 

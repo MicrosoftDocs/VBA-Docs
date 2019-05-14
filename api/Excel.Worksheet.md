@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet
 ms.assetid: 182b705e-854a-81cc-a4b0-59b942de55ae
-ms.date: 04/03/2019
+ms.date: 05/15/2019
 localization_priority: Normal
 ---
 
@@ -165,6 +165,7 @@ End Sub
 - [CodeName](Excel.Worksheet.CodeName.md)
 - [Columns](Excel.Worksheet.Columns.md)
 - [Comments](Excel.Worksheet.Comments.md)
+- [CommentsThreaded](Excel.Worksheet.CommentsThreaded.md)
 - [ConsolidationFunction](Excel.Worksheet.ConsolidationFunction.md)
 - [ConsolidationOptions](Excel.Worksheet.ConsolidationOptions.md)
 - [ConsolidationSources](Excel.Worksheet.ConsolidationSources.md)

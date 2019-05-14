@@ -1,13 +1,9 @@
 ---
 title: CommentThreaded.Parent property (Excel)
-keywords:
-f1_keywords:
--
 ms.prod: excel
 api_name:
 - Excel.CommentThreaded.Parent
-ms.assetid:
-ms.date: 05/08/2019
+ms.date: 05/15/2019
 localization_priority: Normal
 ---
 

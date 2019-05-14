@@ -1,13 +1,9 @@
 ---
-title: Comment.Application property (Excel)
-keywords:
-f1_keywords:
--
+title: CommentThreaded.Application property (Excel)
 ms.prod: excel
 api_name:
 - Excel.Comment.Application
-ms.assetid:
-ms.date: 05/08/2019
+ms.date: 05/15/2019
 localization_priority: Normal
 ---
 
@@ -23,7 +19,7 @@ When used with an object qualifier, this property returns an **Application** obj
 
 _expression_.**Application**
 
-_expression_ A variable that represents a **[Comment](Excel.CommentThreaded.md)** object.
+_expression_ A variable that represents a **[CommentThreaded](Excel.CommentThreaded.md)** object.
 
 
 ## Example

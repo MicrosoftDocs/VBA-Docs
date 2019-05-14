@@ -1,42 +1,33 @@
 ---
 title: Workbook.UpgradeComments method (Excel)
-keywords: 
-f1_keywords:
-- 
 ms.prod: excel
 api_name:
 - Excel.Workbook.UpgradeComments
-ms.assetid: 
-ms.date: 05/08/2019
+ms.date: 05/15/2019
 localization_priority: Normal
 ---
 
 
 # Workbook.UpgradeComments method (Excel)
 
-Upgrade all legacy comments and notes to modern comments.
+Upgrades all legacy comments and notes to modern comments.
 
 
 ## Syntax
 
-_expression_. `UpgradeComments`
+_expression_.**UpgradeComments**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example
 
-This example upgrades all legacy comments and notes in the active workbook
-
+This example upgrades all legacy comments and notes in the active workbook.
 
 ```vb
 ActiveWorkbook.UpgradeComments
 ```
 
 
-## See also
-
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

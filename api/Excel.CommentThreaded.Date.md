@@ -1,20 +1,16 @@
 ---
 title: CommentThreaded.Date property (Excel)
-keywords:
-f1_keywords:
--
 ms.prod: excel
 api_name:
 - Excel.CommentThreaded.Parent
-ms.assetid:
-ms.date: 05/08/2019
+ms.date: 05/15/2019
 localization_priority: Normal
 ---
 
 
 # CommentThreaded.Date property (Excel)
 
-Returns a Date **String** that represents the date and time that a comment was added in local time. Read-only. 
+Returns a date **String** that represents the date and time that a threaded comment was added in local time. Read-only. 
 
 
 ## Syntax

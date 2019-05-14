@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range
 ms.assetid: b8207778-0dcc-4570-1234-f130532cc8cd
-ms.date: 04/02/2019
+ms.date: 05/15/2019
 localization_priority: Priority
 ---
 
@@ -221,6 +221,7 @@ End Sub
 
 - [Activate](Excel.Range.Activate.md)
 - [AddComment](Excel.Range.AddComment.md)
+- [AddCommentThreaded](Excel.Range.AddCommentThreaded.md)
 - [AdvancedFilter](Excel.Range.AdvancedFilter.md)
 - [AllocateChanges](Excel.Range.AllocateChanges.md)
 - [ApplyNames](Excel.Range.ApplyNames.md)
@@ -317,6 +318,7 @@ End Sub
 - [Columns](Excel.Range.Columns.md)
 - [ColumnWidth](Excel.Range.ColumnWidth.md)
 - [Comment](Excel.Range.Comment.md)
+- [CommentThreaded](Excel.Range.CommentThreaded.md)
 - [Count](Excel.Range.Count.md)
 - [CountLarge](Excel.Range.CountLarge.md)
 - [Creator](Excel.Range.Creator.md)

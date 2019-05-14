@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook
 ms.assetid: 8c00aa60-c974-eed3-0812-3c9625eb0d4c
-ms.date: 04/03/2019
+ms.date: 05/15/2019
 localization_priority: Normal
 ---
 
@@ -187,6 +187,7 @@ End Sub
 - [UnprotectSharing](Excel.Workbook.UnprotectSharing.md)
 - [UpdateFromFile](Excel.Workbook.UpdateFromFile.md)
 - [UpdateLink](Excel.Workbook.UpdateLink.md)
+- [UpgradeComments](Excel.Workbook.UpgradeComments.md)
 - [WebPagePreview](Excel.Workbook.WebPagePreview.md)
 - [XmlImport](Excel.Workbook.XmlImport.md)
 - [XmlImportXml](Excel.Workbook.XmlImportXml.md)

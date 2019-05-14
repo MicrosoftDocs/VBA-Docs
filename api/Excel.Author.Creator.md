@@ -1,13 +1,9 @@
 ---
 title: Author.Creator property (Excel)
-keywords:
-f1_keywords:
--
 ms.prod: excel
 api_name:
 - Excel.Author.Creator
-ms.assetid:
-ms.date: 05/08/2019
+ms.date: 05/15/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +17,7 @@ Returns a 32-bit integer that indicates the application in which this object was
 
 _expression_.**Creator**
 
-_expression_ A variable that represents a **[Author](Excel.Author.md)** object.
+_expression_ A variable that represents an **[Author](Excel.Author.md)** object.
 
 
 ## Remarks

@@ -1,20 +1,16 @@
 ---
-title: Comment.Delete method (Excel)
-keywords:
-f1_keywords:
--
+title: CommentThreaded.Delete method (Excel)
 ms.prod: excel
 api_name:
 - Excel.CommentThreaded.Delete
-ms.assetid:
-ms.date: 05/08/2019
+ms.date: 05/15/2019
 localization_priority: Normal
 ---
 
 
 # CommentThreaded.Delete method (Excel)
 
-Deletes the specified comment and all replies associated with that comment (if any exist). 
+Deletes the specified threaded comment and all replies associated with that comment (if any exist). 
 
 
 ## Syntax
@@ -26,8 +22,7 @@ _expression_ A variable that represents a **[CommentThreaded](Excel.CommentThrea
 
 ## Example
 
-This example deletes the CommentThreaded on cell E5 on worksheet one.
-
+This example deletes the threaded comment on cell E5 on worksheet one.
 
 ```vb
 Worksheets(1).Range("E5").CommentThreaded.Delete

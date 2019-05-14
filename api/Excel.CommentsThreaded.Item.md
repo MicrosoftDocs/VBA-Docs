@@ -1,13 +1,9 @@
 ---
 title: CommentsThreaded.Item method (Excel)
-keywords:
-f1_keywords:
--
 ms.prod: excel
 api_name:
 - Excel.CommentsThreaded.Item
-ms.assetid:
-ms.date: 05/08/2019
+ms.date: 05/15/2019
 localization_priority: Normal
 ---
 
@@ -37,7 +33,7 @@ A **[CommentThreaded](Excel.CommentThreaded.md)** object contained by the collec
 
 ## Example
 
-This example update's comment two's text.
+This example updates the text of threaded comment two.
 
 ```vb
 Worksheets(1).CommentsThreaded.Item(2).Text "Updated Comment"
