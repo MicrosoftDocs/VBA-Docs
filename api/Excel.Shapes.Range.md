@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Shapes.Range
 ms.assetid: 8158e8aa-76e3-4d11-860d-aa3dcde6e0ca
-ms.date: 06/08/2017
+ms.date: 05/15/2019
 localization_priority: Normal
 ---
 
 
 # Shapes.Range property (Excel)
 
-Returns a  **[ShapeRange](Excel.ShapeRange.md)** object that represents a subset of the shapes in a **Shapes** collection.
+Returns a **[ShapeRange](Excel.ShapeRange.md)** object that represents a subset of the shapes in a **Shapes** collection.
 
 
 ## Syntax
@@ -26,29 +26,34 @@ _expression_ A variable that represents a **[Shapes](Excel.Shapes.md)** object.
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The individual shapes to be included in the range. Can be an integer that specifies the index number of the shape, a string that specifies the name of the shape, or an array that contains either integers or strings.|
 
 ## Remarks
 
-Although you can use the  **[Range](Excel.Shapes.Range.md)** property to return any number of shapes, it's simpler to use the **[Item](Excel.Shapes.Item.md)** method if you only want to return a single member of the collection. For example, `Shapes(1)` is simpler than `Shapes.Range(1)`.
+Although you can use the **Range** property to return any number of shapes, it's simpler to use the **[Item](Excel.Shapes.Item.md)** method if you only want to return a single member of the collection. For example, `Shapes(1)` is simpler than `Shapes.Range(1)`.
 
-To specify an array of integers or strings for  **Index**, you can use the **Array** function. For example, the following instruction returns two shapes specified by name.
+To specify an array of integers or strings for _Index_, you can use the **Array** function. For example, the following instruction returns two shapes specified by name.
 
- `Dim arShapes() As Variant Dim objRange As Object arShapes = Array("Oval 4", "Rectangle 5") Set objRange = ActiveSheet.Shapes.Range(arShapes)`
+```vb
+ Dim arShapes() As Variant 
+ Dim objRange As Object 
+ arShapes = Array("Oval 4", "Rectangle 5") 
+ Set objRange = ActiveSheet.Shapes.Range(arShapes)
+```
 
-In Microsoft Excel, you cannot use this property to return a  **ShapeRange** object containing all the **Shape** objects on a worksheet. Instead, use the following code:
+<br/>
 
- `Worksheets(1).Shapes.SelectAll ' select all shapes set sr = Selection.ShapeRange ' create ShapeRange`
+In Microsoft Excel, you cannot use this property to return a **ShapeRange** object containing all the **Shape** objects on a worksheet. Instead, use the following code.
 
+```vb
+ Worksheets(1).Shapes.SelectAll ' select all shapes set sr = Selection.ShapeRange ' create ShapeRange
+```
 
 ## Example
 
 This example sets the fill pattern for shapes one and three on _myDocument_.
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -56,10 +61,9 @@ myDocument.Shapes.Range(Array(1, 3)) _
  .Fill.Patterned msoPatternHorizontalBrick
 ```
 
-This example sets the fill pattern for the shapes named "Oval 4" and "Rectangle 5" on _myDocument_.
+<br/>
 
-
-
+This example sets the fill pattern for the shapes named Oval 4 and Rectangle 5 on _myDocument_.
 
 ```vb
 Dim arShapes() As Variant 
@@ -68,12 +72,12 @@ Set myDocument = Worksheets(1)
 arShapes = Array("Oval 4", "Rectangle 5") 
 Set objRange = myDocument.Shapes.Range(arShapes) 
 objRange.Fill.Patterned msoPatternHorizontalBrick
+
 ```
 
+<br/>
+
 This example sets the fill pattern for shape one on _myDocument_.
-
-
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -81,10 +85,9 @@ Set myRange = myDocument.Shapes.Range(1)
 myRange.Fill.Patterned msoPatternHorizontalBrick
 ```
 
+<br/>
+
 This example creates an array that contains all the AutoShapes on _myDocument_, uses that array to define a shape range, and then distributes all the shapes in that range horizontally.
-
-
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -109,9 +112,6 @@ End With
 ```
 
 
-## See also
 
-
-[Shapes Object](Excel.Shapes.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

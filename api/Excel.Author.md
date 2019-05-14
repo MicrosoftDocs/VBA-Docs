@@ -22,7 +22,7 @@ Use the **[Author](Excel.CommentThreaded.Author.md)** property of the **CommentT
 The following example shows how to get the author's name from the threaded comment on cell A1 on worksheet one.
 
 ```vb
-Worksheets(1).Range("A1").CommentThreaded.Author
+Worksheets(1).Range("A1").CommentThreaded.Author.Name
 ```
 
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shapes.AddLine
 ms.assetid: f2186af3-c28a-4196-a00e-00cc66d28f71
-ms.date: 06/08/2017
+ms.date: 05/15/2019
 localization_priority: Normal
 ---
 
@@ -35,13 +35,12 @@ _expression_ A variable that represents a **[Shapes](Excel.Shapes.md)** object.
 
 ## Return value
 
-Shape
+**Shape**
 
 
 ## Example
 
 This example adds a blue dashed line to _myDocument_.
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -52,9 +51,6 @@ End With
 ```
 
 
-## See also
 
-
-[Shapes Object](Excel.Shapes.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

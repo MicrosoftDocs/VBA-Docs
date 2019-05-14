@@ -1,12 +1,8 @@
 ---
 title: Range.AddCommentThreaded method (Excel)
-keywords: 
-f1_keywords:
-- 
 ms.prod: excel
 api_name:
 - Excel.Range.AddCommentThreaded
-ms.assetid: 
 ms.date: 05/15/2019
 localization_priority: Normal
 ---
