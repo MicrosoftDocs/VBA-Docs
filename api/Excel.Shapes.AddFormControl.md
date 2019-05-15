@@ -30,13 +30,14 @@ _expression_ A variable that represents a **[Shapes](Excel.Shapes.md)** object.
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **[XlFormControl](Excel.XlFormControl.md)**|The Microsoft Excel control type. You cannot create an edit box on a worksheet.|
 | _Left_|Required| **Long**|The initial coordinates of the new object (in [points](../language/glossary/vbe-glossary.md#point)) relative to the upper-left corner of cell A1 on a worksheet or to the upper-left corner of a chart.|
-| _Top_|Required| **Long**|The initial coordinates of the new object (in points) relative to the upper-left corner of cell A1 on a worksheet or to the upper-left corner of a chart.|
+| _Top_|Required| **Long**|The initial coordinates of the new object (in points) relative to the top of row 1 on a worksheet, or to the top of the chart area on a chart.|
 | _Width_|Required| **Long**|The initial size of the new object, in points.|
 | _Height_|Required| **Long**|The initial size of the new object, in points.|
 
+
 ## Return value
 
-Shape
+**Shape**
 
 
 ## Remarks

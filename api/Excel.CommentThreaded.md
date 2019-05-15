@@ -10,7 +10,7 @@ localization_priority: Normal
 
 # CommentThreaded object (Excel)
 
-Represents a cell's threaded comment. This object can represent both a top level comment or its replies.
+Represents a cell's threaded comment. This object can represent both a top-level comment or its replies.
 
 
 ## Remarks

@@ -40,7 +40,7 @@ The root node has no parent node and only contains children if there are childre
 
 ## Example
 
-The following code adds a top level node in Microsoft PowerPoint.
+The following code adds a top-level node in Microsoft PowerPoint.
 
 
 ```vb

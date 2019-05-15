@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[SeriesCollection](Excel.SeriesColle
 
 ## Return value
 
-Series
+**Series**
 
 
 ## Remarks
