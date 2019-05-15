@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Slicer.Left
 ms.assetid: e9099a6b-b2f0-e7c4-c9fd-d47ffbf279f4
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns or sets the horizontal position of the specified slicer, in [points](../
 
 _expression_.**Left**
 
-_expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
+_expression_ A variable that represents a **[Slicer](Excel.Slicer.md)** object.
 
 
 ## Return value
@@ -29,9 +29,6 @@ _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 Double
 
 
-## See also
 
-
-[Slicer Object](Excel.Slicer.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

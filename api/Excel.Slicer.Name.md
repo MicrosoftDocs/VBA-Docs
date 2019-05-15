@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Slicer.Name
 ms.assetid: cc8508d3-82fc-365b-c632-2565fd0071c5
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -21,22 +21,21 @@ Returns or sets the name of the specified slicer. Read/write.
 
 _expression_.**Name**
 
-_expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
+_expression_ A variable that represents a **[Slicer](Excel.Slicer.md)** object.
 
 
 ## Return value
 
-String
+**String**
 
 
 ## Remarks
 
-The name must be unique across all slicers within a workbook. The default name uses the text the field name of the PivotField on which the slicer is based, and if necessary, appends a space and number to make the name unique.
+The name must be unique across all slicers within a workbook. 
+
+The default name uses the text of the field name of the PivotField on which the slicer is based, and if necessary, appends a space and number to make the name unique.
 
 
-## See also
 
-
-[Slicer Object](Excel.Slicer.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

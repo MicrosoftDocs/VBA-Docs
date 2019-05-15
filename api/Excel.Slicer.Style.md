@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Slicer.Style
 ms.assetid: def64adc-46db-a54f-539b-fbe8fcc1b22e
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -21,17 +21,14 @@ Returns or sets the style currently applied to the specified slicer. Read/write.
 
 _expression_.**Style**
 
-_expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
+_expression_ A variable that represents a **[Slicer](Excel.Slicer.md)** object.
 
 
 ## Return value
 
-Variant
+**Variant**
 
 
-## See also
 
-
-[Slicer Object](Excel.Slicer.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

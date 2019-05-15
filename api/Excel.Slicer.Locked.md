@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Slicer.Locked
 ms.assetid: 4d59178b-9cb9-0a9e-76cc-1b5c4547b3dd
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -21,22 +21,19 @@ Returns or sets whether the specified slicer can be modified when the sheet that
 
 _expression_.**Locked**
 
-_expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
+_expression_ A variable that represents a **[Slicer](Excel.Slicer.md)** object.
 
 
 ## Return value
 
-Boolean
+**Boolean**
 
 
 ## Remarks
 
- **True** if the slicer is locked when the sheet is protected. **False** if the slicer can be modified when the sheet is protected. The default value is **True**.
+**True** if the slicer is locked when the sheet is protected. **False** if the slicer can be modified when the sheet is protected. The default value is **True**.
 
 
-## See also
 
-
-[Slicer Object](Excel.Slicer.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
