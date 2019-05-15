@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SparkPoints.Lowpoint
 ms.assetid: 9f2dade8-4d8b-d5cd-816d-18ac6da120cb
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns a  **[SparkColor](Excel.SparkColor.md)** object that represents the colo
 
 ## Syntax
 
-_expression_. `Lowpoint`
+_expression_.**Lowpoint**
 
-_expression_ A variable that represents a '[SparkPoints](Excel.SparkPoints.md)' object.
+_expression_ A variable that represents a **[SparkPoints](Excel.SparkPoints.md)** object.
 
 
 ## Return value

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Sparkline.Creator
 ms.assetid: 8353b55b-5494-4101-b5e1-78b0f2fdf152
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a 32-bit integer that indicates the application in which this object was
 
 _expression_.**Creator**
 
-_expression_ A variable that represents a '[Sparkline](Excel.Sparkline.md)' object.
+_expression_ A variable that represents a **[Sparkline](Excel.Sparkline.md)** object.
 
 
 ## Remarks

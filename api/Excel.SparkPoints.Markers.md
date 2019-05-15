@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SparkPoints.Markers
 ms.assetid: 13d678b9-c0d1-93d1-3c0a-6c2b9a33cdc2
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns a  **[SparkColor](Excel.SparkColor.md)** object that represents the colo
 
 ## Syntax
 
-_expression_. `Markers`
+_expression_.**Markers**
 
-_expression_ A variable that represents a '[SparkPoints](Excel.SparkPoints.md)' object.
+_expression_ A variable that represents a **[SparkPoints](Excel.SparkPoints.md)** object.
 
 
 ## Return value

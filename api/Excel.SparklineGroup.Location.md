@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SparklineGroup.Location
 ms.assetid: 3548cc42-dbab-636f-0dcf-2f38ad4a2db5
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Gets or sets the  **[Range](Excel.Range(object).md)** object that represents the
 
 _expression_.**Location** 
 
-_expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
+_expression_ A variable that represents a **[SparklineGroup](Excel.SparklineGroup.md)** object.
 
 
 ## Return value

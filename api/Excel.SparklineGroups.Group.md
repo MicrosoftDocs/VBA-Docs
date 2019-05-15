@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SparklineGroups.Group
 ms.assetid: a5e01669-1922-4b26-158d-3c3aa70a101a
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Groups the selected sparklines.
 
 ## Syntax
 
-_expression_.**Group**( `_Location_` )
+_expression_.**Group** (_Location_)
 
-_expression_ A variable that represents a '[SparklineGroups](Excel.SparklineGroups.md)' object.
+_expression_ A variable that represents a **[SparklineGroups](Excel.SparklineGroups.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -40,7 +38,6 @@ Nothing
 ## Example
 
 This example selects the range A1:A4 and groups the sparklines in that range.
-
 
 ```vb
 Range("A1:A4").Select 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SparkHorizontalAxis.IsDateAxis
 ms.assetid: eb6b66ca-c5f1-15ec-ef3f-c748698e4dad
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns whether the horizontal axis of the sparkline is based on date values. Re
 
 ## Syntax
 
-_expression_. `IsDateAxis`
+_expression_.**IsDateAxis**
 
-_expression_ A variable that represents a '[SparkHorizontalAxis](Excel.SparkHorizontalAxis.md)' object.
+_expression_ A variable that represents a **[SparkHorizontalAxis](Excel.SparkHorizontalAxis.md)** object.
 
 
 ## Return value

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SparkAxes.Application
 ms.assetid: ee7a581a-e0f8-a5bb-0ba6-01f0674da347
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ When used without an object qualifier, this property returns an  **[Application]
 
 _expression_.**Application**
 
-_expression_ A variable that represents a '[SparkAxes](Excel.SparkAxes.md)' object.
+_expression_ A variable that represents a **[SparkAxes](Excel.SparkAxes.md)** object.
 
 
 ## See also

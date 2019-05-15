@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SparklineGroup.SeriesColor
 ms.assetid: 12087bd4-64bd-b701-006a-eac47deb2e17
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns a  **[FormatColor](Excel.FormatColor.md)** object that represents the ma
 
 ## Syntax
 
-_expression_. `SeriesColor`
+_expression_.**SeriesColor**
 
-_expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
+_expression_ A variable that represents a **[SparklineGroup](Excel.SparklineGroup.md)** object.
 
 
 ## Return value

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SparkAxes.Creator
 ms.assetid: a5a60f1d-acb4-18f2-178a-4a71338ad606
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a 32-bit integer that indicates the application in which this object was
 
 _expression_.**Creator**
 
-_expression_ A variable that represents a '[SparkAxes](Excel.SparkAxes.md)' object.
+_expression_ A variable that represents a **[SparkAxes](Excel.SparkAxes.md)** object.
 
 
 ## Remarks

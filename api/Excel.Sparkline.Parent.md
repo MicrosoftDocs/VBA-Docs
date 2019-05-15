@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Sparkline.Parent
 ms.assetid: 2e225931-d0a8-5431-9ee3-071aa631db68
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns the parent  **[SparklineGroup](Excel.SparklineGroup.md)** object for the
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a '[Sparkline](Excel.Sparkline.md)' object.
+_expression_ A variable that represents a **[Sparkline](Excel.Sparkline.md)** object.
 
 
 ## See also

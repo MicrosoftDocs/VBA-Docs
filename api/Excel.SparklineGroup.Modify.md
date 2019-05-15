@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SparklineGroup.Modify
 ms.assetid: 596cdecb-dd03-0a63-e2b8-9aa459ff719c
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Sets the location and the source data for the sparkline group.
 
 ## Syntax
 
-_expression_. `Modify`( `_Location_` , `_SourceData_` )
+_expression_.**Modify** (_Location_, _SourceData_)
 
-_expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
+_expression_ A variable that represents a **[SparklineGroup](Excel.SparklineGroup.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

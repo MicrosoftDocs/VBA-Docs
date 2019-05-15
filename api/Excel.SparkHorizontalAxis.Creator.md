@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SparkHorizontalAxis.Creator
 ms.assetid: 2420bb92-b37e-cbd2-22d3-906cdc039afa
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a 32-bit integer that indicates the application in which this object was
 
 _expression_.**Creator**
 
-_expression_ A variable that represents a '[SparkHorizontalAxis](Excel.SparkHorizontalAxis.md)' object.
+_expression_ A variable that represents a **[SparkHorizontalAxis](Excel.SparkHorizontalAxis.md)** object.
 
 
 ## Remarks

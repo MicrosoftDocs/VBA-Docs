@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SparkHorizontalAxis.RightToLeftPlotOrder
 ms.assetid: 75515893-aab3-379f-26c6-31145493a592
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns or sets whether the points on the horizontal axis are plotted in right-t
 
 ## Syntax
 
-_expression_. `RightToLeftPlotOrder`
+_expression_.**RightToLeftPlotOrder**
 
-_expression_ A variable that represents a '[SparkHorizontalAxis](Excel.SparkHorizontalAxis.md)' object.
+_expression_ A variable that represents a **[SparkHorizontalAxis](Excel.SparkHorizontalAxis.md)** object.
 
 
 ## Return value

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SparkVerticalAxis.MinScaleType
 ms.assetid: e3a306db-fe5d-fe5b-23bb-b3e8b70a516c
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns or sets how the minimum value of the vertical axis of the sparkline is s
 
 ## Syntax
 
-_expression_. `MinScaleType`
+_expression_.**MinScaleType**
 
-_expression_ A variable that represents a '[SparkVerticalAxis](Excel.SparkVerticalAxis.md)' object.
+_expression_ A variable that represents a **[SparkVerticalAxis](Excel.SparkVerticalAxis.md)** object.
 
 
 ## Return value

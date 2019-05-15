@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SparklineGroup.ModifyLocation
 ms.assetid: 8f6ca2cb-b0cc-a0bf-efc0-ee30ca3888e6
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -18,7 +18,7 @@ Sets the associated **[Range](excel.range-graph-object.md)** object to modify th
 
 ## Syntax
 
-_expression_. `ModifyLocation`( `_Location_` )
+_expression_.**ModifyLocation** (_Location_)
 
 _expression_ A variable that represents a [SparklineGroup](Excel.SparklineGroup.md) object.
 

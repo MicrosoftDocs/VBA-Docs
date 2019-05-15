@@ -4,7 +4,7 @@ keywords: vbaxl10.chm257074
 f1_keywords:
 - vbaxl10.chm257074
 ms.assetid: 3b59f17a-56ca-16b0-4094-ead8e42ffd89
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 ms.prod: excel
 localization_priority: Normal
 ---
@@ -15,7 +15,7 @@ localization_priority: Normal
 > [!NOTE] 
 > This property should not be used. Sound notes have been removed from Microsoft Excel.
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only **Long**.
 
 
 ## Syntax

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SparkHorizontalAxis.Axis
 ms.assetid: 5b16a855-df0b-566a-86ef-399ae75b58db
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns a  **[SparkColor](Excel.SparkColor.md)** object that specifies the color
 
 ## Syntax
 
-_expression_. `Axis`
+_expression_.**Axis**
 
-_expression_ A variable that represents a '[SparkHorizontalAxis](Excel.SparkHorizontalAxis.md)' object.
+_expression_ A variable that represents a **[SparkHorizontalAxis](Excel.SparkHorizontalAxis.md)** object.
 
 
 ## See also

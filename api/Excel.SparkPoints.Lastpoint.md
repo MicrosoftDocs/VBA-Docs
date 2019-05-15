@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SparkPoints.Lastpoint
 ms.assetid: 33ad7c29-1538-1825-b94a-55fd65d7610e
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns a  **[SparkColor](Excel.SparkColor.md)** object that represents the colo
 
 ## Syntax
 
-_expression_. `Lastpoint`
+_expression_.**Lastpoint**
 
-_expression_ A variable that represents a '[SparkPoints](Excel.SparkPoints.md)' object.
+_expression_ A variable that represents a **[SparkPoints](Excel.SparkPoints.md)** object.
 
 
 ## Return value

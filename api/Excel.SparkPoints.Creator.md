@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SparkPoints.Creator
 ms.assetid: 65ad69c7-3c71-f844-2cef-325d707a225d
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a 32-bit integer that indicates the application in which this object was
 
 _expression_.**Creator**
 
-_expression_ A variable that represents a '[SparkPoints](Excel.SparkPoints.md)' object.
+_expression_ A variable that represents a **[SparkPoints](Excel.SparkPoints.md)** object.
 
 
 ## Remarks

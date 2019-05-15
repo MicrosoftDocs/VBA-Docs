@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SparkColor.Parent
 ms.assetid: d19a836e-3d73-b8ea-6c5f-0d7f085ce614
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns the parent  **[SparklineGroup](Excel.SparklineGroup.md)** object for the
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a '[SparkColor](Excel.SparkColor.md)' object.
+_expression_ A variable that represents a **[SparkColor](Excel.SparkColor.md)** object.
 
 
 ## See also

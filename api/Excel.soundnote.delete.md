@@ -4,7 +4,7 @@ keywords: vbaxl10.chm258073
 f1_keywords:
 - vbaxl10.chm258073
 ms.assetid: a5700e45-9ee6-8aba-205d-fe7927b367d2
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 ms.prod: excel
 localization_priority: Normal
 ---

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SparklineGroups.Application
 ms.assetid: 0de3aeb0-f344-c89c-6806-2c569ca1a7a9
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ When used without an object qualifier, this property returns an  **[Application]
 
 _expression_.**Application**
 
-_expression_ A variable that represents a '[SparklineGroups](Excel.SparklineGroups.md)' object.
+_expression_ A variable that represents a **[SparklineGroups](Excel.SparklineGroups.md)** object.
 
 
 ## See also
