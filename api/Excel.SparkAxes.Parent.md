@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SparkAxes.Parent property (Excel)
 
-Returns the parent  **[SparklineGroup](Excel.SparklineGroup.md)** object for the specified **[SparkAxes](Excel.SparkAxes.md)** object. Read-only.
+Returns the parent **[SparklineGroup](Excel.SparklineGroup.md)** object for the specified **SparkAxes** object. Read-only.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents a **[SparkAxes](Excel.SparkAxes.md)** ob
 
 ## Return value
 
- **SparklineGroup**
+**SparklineGroup**
 
 
-## See also
 
-
-[SparkAxes Object](Excel.SparkAxes.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

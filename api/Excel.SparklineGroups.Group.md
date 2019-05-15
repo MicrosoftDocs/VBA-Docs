@@ -45,9 +45,6 @@ Selection.SparklineGroups.Group Location:=Range("A1")
 ```
 
 
-## See also
 
-
-[SparklineGroups Object](Excel.SparklineGroups.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

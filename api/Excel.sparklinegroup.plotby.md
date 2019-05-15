@@ -24,24 +24,21 @@ _expression_ A variable that represents a **[SparklineGroup](Excel.SparklineGrou
 
 ## Return value
 
- **[XlSparklineRowCol](Excel.XlSparklineRowCol.md)**
+**[XlSparklineRowCol](Excel.XlSparklineRowCol.md)**
 
 
 ## Remarks
 
 This property can only be set if the data on which the sparkline is based is in a square-shaped range, for example if the data is in the range A1:B2. 
 
-The default value for sp data in a square-shaped range is to plot the data by rows (**xlSparklineRowsSquare**).
+The default value for `sp` data in a square-shaped range is to plot the data by rows (**xlSparklineRowsSquare**).
 
 
 ## Property value
 
- **XLSPARKLINEROWCOL**
+**XLSPARKLINEROWCOL**
 
 
-## See also
 
-
-[SparklineGroup Object](Excel.SparklineGroup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

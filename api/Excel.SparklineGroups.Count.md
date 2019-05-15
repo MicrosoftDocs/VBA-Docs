@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SparklineGroups.Count property (Excel)
 
-Returns the count of sparkline groups in the associated  **[Range](Excel.Range(object).md)** object. Read-only.
+Returns the count of sparkline groups in the associated **[Range](Excel.Range(object).md)** object. Read-only.
 
 
 ## Syntax
@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[SparklineGroups](Excel.SparklineGro
 Long
 
 
-## See also
 
-
-[SparklineGroups Object](Excel.SparklineGroups.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

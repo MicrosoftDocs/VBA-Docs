@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SparkHorizontalAxis.RightToLeftPlotOrder property (Excel)
 
-Returns or sets whether the points on the horizontal axis are plotted in right-to-left order. Read/write
+Returns or sets whether the points on the horizontal axis are plotted in right-to-left order. Read/write.
 
 
 ## Syntax
@@ -26,17 +26,14 @@ _expression_ A variable that represents a **[SparkHorizontalAxis](Excel.SparkHor
 
 ## Return value
 
- **Boolean**
+**Boolean**
 
 
 ## Remarks
 
-Set the  **RightToLeftPlotOrder** property to **True** to plot the values on the horizontal axis in right-to-left order.
+Set the **RightToLeftPlotOrder** property to **True** to plot the values on the horizontal axis in right-to-left order.
 
 
-## See also
 
-
-[SparkHorizontalAxis Object](Excel.SparkHorizontalAxis.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

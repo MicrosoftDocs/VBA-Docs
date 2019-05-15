@@ -33,16 +33,12 @@ Nothing
 
 The following code example selects the range A1:A4 and ungroups the sparklines in that range.
 
-
 ```vb
 Range("A1:A4").Select 
 Selection.SparklineGroups.Ungroup
 ```
 
 
-## See also
 
-
-[SparklineGroups Object](Excel.SparklineGroups.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

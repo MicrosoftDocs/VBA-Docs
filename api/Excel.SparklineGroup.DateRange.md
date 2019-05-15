@@ -31,18 +31,15 @@ String
 
 ## Remarks
 
-To clear the date range set this property to an empty string.
+To clear the date range, set this property to an empty string.
 
-The date range must be a continuous one dimensional range.
+The date range must be a continuous one-dimensional range.
 
-The date range can be located on a different sheet than the  **[Location](Excel.SparklineGroup.Location.md)** and **[SourceData](Excel.SparklineGroup.SourceData.md)** properties.
+The date range can be located on a different sheet than the **[Location](Excel.SparklineGroup.Location.md)** and **[SourceData](Excel.SparklineGroup.SourceData.md)** properties.
 
 Empty cells and non-date values in the date range are not displayed.
 
 
-## See also
 
-
-[SparklineGroup Object](Excel.SparklineGroup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

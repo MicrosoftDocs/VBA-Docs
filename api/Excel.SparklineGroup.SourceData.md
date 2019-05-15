@@ -31,14 +31,11 @@ String
 
 ## Remarks
 
-The number of rows or columns in the source data range must equal the number of cells in the  **[Location](Excel.SparklineGroup.Location.md)** property range.
+The number of rows or columns in the source data range must equal the number of cells in the **[Location](Excel.SparklineGroup.Location.md)** property range.
 
 The data source range for a single sparkline in the sparkline group must be continuous.
 
 
-## See also
 
-
-[SparklineGroup Object](Excel.SparklineGroup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

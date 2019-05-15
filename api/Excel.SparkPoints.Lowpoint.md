@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SparkPoints.Lowpoint property (Excel)
 
-Returns a  **[SparkColor](Excel.SparkColor.md)** object that represents the color and visibility of the marker for the lowest point of data on a sparkline. Read-only
+Returns a **[SparkColor](Excel.SparkColor.md)** object that represents the color and visibility of the marker for the lowest point of data on a sparkline. Read-only.
 
 
 ## Syntax
@@ -26,17 +26,14 @@ _expression_ A variable that represents a **[SparkPoints](Excel.SparkPoints.md)*
 
 ## Return value
 
- **SparkColor**
+**SparkColor**
 
 
 ## Remarks
 
- The **Lowpoint** property corresponds to the setting of the **Low Point** check box in the **Show** section, and of the **Low Point** item on the **Marker Color** drop-down list in the **Style** section of the **Sparkline Tools Design** tab of the ribbon.
+The **Lowpoint** property corresponds to the setting of the **Low Point** check box in the **Show** section, and of the **Low Point** item on the **Marker Color** drop-down list in the **Style** section of the **Sparkline Tools Design** tab of the ribbon.
 
 
-## See also
 
-
-[SparkPoints Object](Excel.SparkPoints.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

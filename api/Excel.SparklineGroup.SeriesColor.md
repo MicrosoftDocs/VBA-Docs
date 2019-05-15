@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SparklineGroup.SeriesColor property (Excel)
 
-Returns a  **[FormatColor](Excel.FormatColor.md)** object that represents the main series color for the sparkline group. Read-only.
+Returns a **[FormatColor](Excel.FormatColor.md)** object that represents the main series color for the sparkline group. Read-only.
 
 
 ## Syntax
@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[SparklineGroup](Excel.SparklineGrou
 FormatColor
 
 
-## See also
 
-
-[SparklineGroup Object](Excel.SparklineGroup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

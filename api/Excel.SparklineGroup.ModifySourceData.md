@@ -37,8 +37,7 @@ Nothing
 
 ## Example
 
-This example selects a sparkline group in the location A1:A4 and modifies the source data to include an additional column using the data in the range B1:D4.
-
+This example selects a sparkline group in the location A1:A4, and modifies the source data to include an additional column by using the data in the range B1:D4.
 
 ```vb
 Range("A1:A4").Select 
@@ -46,9 +45,5 @@ ActiveCell.SparklineGroups.Item(1).ModifySourceData "B1:D4"
 ```
 
 
-## See also
-
-
-[SparklineGroup Object](Excel.SparklineGroup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

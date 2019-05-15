@@ -40,9 +40,6 @@ Nothing
 The data source range for a single sparkline must be continuous.
 
 
-## See also
 
-
-[Sparkline Object](Excel.Sparkline.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

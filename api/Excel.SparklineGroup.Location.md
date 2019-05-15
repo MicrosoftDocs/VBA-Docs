@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SparklineGroup.Location property (Excel)
 
-Gets or sets the  **[Range](Excel.Range(object).md)** object that represents the location of the sparkline group. Read/write.
+Gets or sets the **[Range](Excel.Range(object).md)** object that represents the location of the sparkline group. Read/write.
 
 
 ## Syntax
@@ -26,24 +26,21 @@ _expression_ A variable that represents a **[SparklineGroup](Excel.SparklineGrou
 
 ## Return value
 
-Range
+**Range**
 
 
 ## Remarks
 
 The location for all sparklines in a sparkline group must be on the same sheet, but the source data for the sparkline group can be on a different sheet or workbook.
 
-The size of the range that represents the  **Location** property must equal the number of rows or columns in the **[SourceData](Excel.SparklineGroup.SourceData.md)** property for the **SparklineGroup** object.
+The size of the range that represents the **Location** property must equal the number of rows or columns in the **[SourceData](Excel.SparklineGroup.SourceData.md)** property.
 
-A continuous range associated with a sparkline group can only be one dimensional. If the range is not continuous, each cell must be specified individually.
+A continuous range associated with a sparkline group can only be one-dimensional. If the range is not continuous, each cell must be specified individually.
 
-
- **Note**  Do not use the  **[Union](Excel.Application.Union.md)** method to create a non-continuous range because the **Union** method returns a single range reference.
-
-
-## See also
+> [!NOTE] 
+> Do not use the **[Union](Excel.Application.Union.md)** method to create a non-continuous range because the **Union** method returns a single range reference.
 
 
-[SparklineGroup Object](Excel.SparklineGroup.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SparkPoints.Highpoint property (Excel)
 
-Returns a  **[SparkColor](Excel.SparkColor.md)** object that represents the color and visibility of the marker for the highest point of data on a sparkline. Read-only
+Returns a **[SparkColor](Excel.SparkColor.md)** object that represents the color and visibility of the marker for the highest point of data on a sparkline. Read-only.
 
 
 ## Syntax
@@ -26,17 +26,14 @@ _expression_ A variable that represents a **[SparkPoints](Excel.SparkPoints.md)*
 
 ## Return value
 
- **SparkColor**
+**SparkColor**
 
 
 ## Remarks
 
- The **Highpoint** property corresponds to the setting of the **High Point** check box in the **Show** section, and of the **High Point** item on the **Marker Color** drop-down list in the **Style** section of the **Sparkline Tools Design** tab of the ribbon.
+The **Highpoint** property corresponds to the setting of the **High Point** check box in the **Show** section, and of the **High Point** item on the **Marker Color** drop-down list in the **Style** section of the **Sparkline Tools Design** tab of the ribbon.
 
 
-## See also
 
-
-[SparkPoints Object](Excel.SparkPoints.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

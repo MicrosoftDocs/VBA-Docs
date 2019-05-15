@@ -37,8 +37,7 @@ Nothing
 
 ## Example
 
-This example selects a sparkline group in the location A2:A5 and sets the date range equal to B1:E1. If the cells in range B1:E1 do not contain date values the data is not displayed.
-
+This example selects a sparkline group in the location A2:A5 and sets the date range equal to B1:E1. If the cells in range B1:E1 do not contain date values, the data is not displayed.
 
 ```vb
 Range("A2:A5").Select 
@@ -46,9 +45,6 @@ ActiveCell.SparklineGroups.Item(1).ModifyDateRange "Sheet1!B1:E1"
 ```
 
 
-## See also
 
-
-[SparklineGroup Object](Excel.SparklineGroup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

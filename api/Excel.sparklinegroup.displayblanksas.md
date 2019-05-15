@@ -16,11 +16,13 @@ localization_priority: Normal
 
 _expression_.**DisplayBlanksAs**
 
-_expression_ A variable that represents a [SparklineGroup](Excel.SparklineGroup.md) object.
+_expression_ A variable that represents a **[SparklineGroup](Excel.SparklineGroup.md)** object.
 
 
 ## Property value
 
- **XLDISPLAYBLANKSAS**
+**XLDISPLAYBLANKSAS**
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

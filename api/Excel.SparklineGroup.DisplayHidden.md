@@ -31,12 +31,8 @@ Boolean
 
 ## Remarks
 
- **True** if hidden cells are shown in the sparkline group.
+**True** if hidden cells are shown in the sparkline group.
 
 
-## See also
-
-
-[SparklineGroup Object](Excel.SparklineGroup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

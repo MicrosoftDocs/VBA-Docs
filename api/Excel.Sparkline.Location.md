@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Sparkline.Location property (Excel)
 
-Returns or sets the location of a single sparkline. Read/write
+Returns or sets the location of a single sparkline. Read/write.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents a **[Sparkline](Excel.Sparkline.md)** ob
 
 ## Return value
 
-[Range](Excel.Range(object).md)
+**[Range](Excel.Range(object).md)**
 
 
-## See also
 
-
-[Sparkline Object](Excel.Sparkline.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

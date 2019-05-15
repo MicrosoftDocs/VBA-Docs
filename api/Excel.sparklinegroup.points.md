@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # SparklineGroup.Points property (Excel)
 
-Returns the associated  **[SparkPoints](Excel.SparkPoints.md)** object for the sparkline group. Read-only.
+Returns the associated **[SparkPoints](Excel.SparkPoints.md)** object for the sparkline group. Read-only.
 
 
 ## Syntax
@@ -24,17 +24,14 @@ _expression_ A variable that represents a **[SparklineGroup](Excel.SparklineGrou
 
 ## Return value
 
-SparkPoints
+**SparkPoints**
 
 
 ## Property value
 
- **SPARKPOINTS**
+**SPARKPOINTS**
 
 
-## See also
 
-
-[SparklineGroup Object](Excel.SparklineGroup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

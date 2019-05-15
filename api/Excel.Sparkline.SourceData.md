@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Sparkline.SourceData property (Excel)
 
-Returns or sets the range the contains the source data for a single sparkline. Read/write
+Returns or sets the range that contains the source data for a single sparkline. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Sparkline](Excel.Sparkline.md)** ob
 
 ## Return value
 
- **String**
+**String**
 
 
 ## Remarks
@@ -34,9 +34,6 @@ _expression_ A variable that represents a **[Sparkline](Excel.Sparkline.md)** ob
 The data source range for a single sparkline must be continuous.
 
 
-## See also
 
-
-[Sparkline Object](Excel.Sparkline.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

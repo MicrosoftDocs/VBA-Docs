@@ -24,9 +24,5 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[SparklineGroup](Excel.SparklineGroup.md)** object.
 
 
-## See also
-
-
-[SparklineGroup Object](Excel.SparklineGroup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

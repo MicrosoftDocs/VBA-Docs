@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SparklineGroups.Item property (Excel)
 
-Returns a  **[SparklineGroup](Excel.SparklineGroup.md)** object from a collection. Read-only.
+Returns a **[SparklineGroup](Excel.SparklineGroup.md)** object from a collection. Read-only.
 
 
 ## Syntax
@@ -26,20 +26,15 @@ _expression_ A variable that represents a **[SparklineGroups](Excel.SparklineGro
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Specifies the position of an element in the collection.|
 
 ## Return value
 
-SparklineGroup
+**SparklineGroup**
 
 
-## See also
 
-
-[SparklineGroups Object](Excel.SparklineGroups.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

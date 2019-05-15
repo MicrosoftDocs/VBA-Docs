@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SparkHorizontalAxis.IsDateAxis property (Excel)
 
-Returns whether the horizontal axis of the sparkline is based on date values. Read-only
+Returns whether the horizontal axis of the sparkline is based on date values. Read-only.
 
 
 ## Syntax
@@ -26,17 +26,14 @@ _expression_ A variable that represents a **[SparkHorizontalAxis](Excel.SparkHor
 
 ## Return value
 
- **Boolean**
+**Boolean**
 
 
 ## Remarks
 
- **True** if the horizontal axis is based on date values; otherwise, **False**.
+**True** if the horizontal axis is based on date values; otherwise, **False**.
 
 
-## See also
 
-
-[SparkHorizontalAxis Object](Excel.SparkHorizontalAxis.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

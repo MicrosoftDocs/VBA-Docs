@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SparkColor.Visible property (Excel)
 
-Returns of sets whether the point is visible. Read/write
+Returns or sets whether the point is visible. Read/write.
 
 
 ## Syntax
@@ -31,12 +31,11 @@ Boolean
 
 ## Remarks
 
-The setting of the  **Visible** property corresponds to the settings of the **High Point**,  **Low Point**,  **Negative Point**,  **First Point**,  **Last Point**, and  **Markers** check boxes in the **Show** section of the **Sparkline Tools Design** tab of the ribbon. Use the corresponding properties of the **[SparkPoints](Excel.SparkPoints.md)** object to set the state of these check boxes.
+The setting of the **Visible** property corresponds to the settings of the **High Point**, **Low Point**, **Negative Point**, **First Point**, **Last Point**, and **Markers** check boxes in the **Show** section of the **Sparkline Tools Design** tab of the ribbon. 
+
+Use the corresponding properties of the **[SparkPoints](Excel.SparkPoints.md)** object to set the state of these check boxes.
 
 
-## See also
 
-
-[SparkColor Object](Excel.SparkColor.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

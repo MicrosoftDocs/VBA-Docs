@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SparklineGroup.Axes property (Excel)
 
-Returns the associated  **[SparkAxes](Excel.SparkAxes.md)** object. Read-only.
+Returns the associated **[SparkAxes](Excel.SparkAxes.md)** object. Read-only.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents a **[SparklineGroup](Excel.SparklineGrou
 
 ## Return value
 
-SparkAxes
+**SparkAxes**
 
 
-## See also
 
-
-[SparklineGroup Object](Excel.SparklineGroup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

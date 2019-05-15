@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Sparkline.Parent property (Excel)
 
-Returns the parent  **[SparklineGroup](Excel.SparklineGroup.md)** object for the specified object. Read-only.
+Returns the parent **[SparklineGroup](Excel.SparklineGroup.md)** object for the specified object. Read-only.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[Sparkline](Excel.Sparkline.md)** object.
 
 
-## See also
 
-
-[Sparkline Object](Excel.Sparkline.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

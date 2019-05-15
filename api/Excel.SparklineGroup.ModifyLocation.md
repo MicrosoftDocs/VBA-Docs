@@ -14,20 +14,20 @@ localization_priority: Normal
 
 # SparklineGroup.ModifyLocation method (Excel)
 
-Sets the associated **[Range](excel.range-graph-object.md)** object to modify the location of the sparkline group.
+Sets the associated **[Range](excel.range(object).md)** object to modify the location of the sparkline group.
 
 ## Syntax
 
 _expression_.**ModifyLocation** (_Location_)
 
-_expression_ A variable that represents a [SparklineGroup](Excel.SparklineGroup.md) object.
+_expression_ A variable that represents a **[SparklineGroup](Excel.SparklineGroup.md)** object.
 
 
 ## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Location_|Required| **Range**|The **Range** that represents the location of the sparkline group.|
+| _Location_|Required| **Range**|The range that represents the location of the sparkline group.|
 
 ## Return value
 
@@ -42,8 +42,5 @@ Range("A1:A4").Select
 ActiveCell.SparklineGroups.Item(1).ModifyLocation Range("$A$10:$A$14")
 ```
 
-## See also
-
-- [SparklineGroup object](Excel.SparklineGroup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SparkVerticalAxis.MinScaleType property (Excel)
 
-Returns or sets how the minimum value of the vertical axis of the sparkline is scaled relative to other sparklines in the group. Read/write
+Returns or sets how the minimum value of the vertical axis of the sparkline is scaled relative to other sparklines in the group. Read/write.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents a **[SparkVerticalAxis](Excel.SparkVerti
 
 ## Return value
 
- **[XlSparkScale](Excel.XlSparkScale.md)**
+**[XlSparkScale](Excel.XlSparkScale.md)**
 
 
-## See also
 
-
-[SparkVerticalAxis Object](Excel.SparkVerticalAxis.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
