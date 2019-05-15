@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SpellingOptions.DictLang property (Excel)
 
-Selects the dictionary language used when Microsoft Excel performs spelling checks. Read/write  **Long**.
+Selects the dictionary language used when Microsoft Excel performs spelling checks. Read/write **Long**.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[SpellingOptions](Excel.SpellingOpti
 
 This example sets the Excel dictionary to use the English (United States) language.
 
-
 ```vb
 Sub LanguageSpellCheck() 
  
@@ -41,9 +40,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[SpellingOptions Object](Excel.SpellingOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

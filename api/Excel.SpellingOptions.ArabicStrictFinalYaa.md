@@ -14,29 +14,26 @@ localization_priority: Normal
 
 # SpellingOptions.ArabicStrictFinalYaa property (Excel)
 
-Returns or sets whether the spelling checker uses rules regarding Arabic words ending with the letter yaa. Read/write
+Returns or sets whether the spelling checker uses rules regarding Arabic words ending with the letter yaa. Read/write.
 
 
 ## Syntax
 
 _expression_.**ArabicStrictFinalYaa**
 
-_expression_ A variable that represents a '[SpellingOptions](Excel.SpellingOptions.md)' object.
+_expression_ A variable that represents a **[SpellingOptions](Excel.SpellingOptions.md)** object.
 
 
 ## Return value
 
- **Boolean**
+**Boolean**
 
 
 ## Remarks
 
- **True** if the spelling checker uses rules regarding Arabic words ending with the letter yaa; otherwise, **False**.
+**True** if the spelling checker uses rules regarding Arabic words ending with the letter yaa; otherwise, **False**.
 
 
-## See also
 
-
-[SpellingOptions Object](Excel.SpellingOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

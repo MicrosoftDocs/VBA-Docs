@@ -14,32 +14,26 @@ localization_priority: Normal
 
 # SpellingOptions.PortugalReform property (Excel)
 
-Returns or sets the mode for checking the spelling of European Portuguese. Read/write
+Returns or sets the mode for checking the spelling of European Portuguese. Read/write.
 
 
 ## Syntax
 
 _expression_.**PortugalReform**
 
-_expression_ A variable that represents a '[SpellingOptions](Excel.SpellingOptions.md)' object.
+_expression_ A variable that represents a **[SpellingOptions](Excel.SpellingOptions.md)** object.
 
 
 ## Return value
 
- **[XlPortugueseReform](Excel.XlPortugueseReform.md)**
+**[XlPortugueseReform](Excel.XlPortugueseReform.md)**
 
 
 ## Remarks
 
+This property does not set the mode for checking the spelling of Brazilian Portuguese. To do that, use the **[BrazilReform](Excel.SpellingOptions.BrazilReform.md)** property.
 
 
 
- **Note**  This property does not set the mode for checking the spelling of Brazilian Portuguese. To do that, use the  **[BrazilReform](Excel.SpellingOptions.BrazilReform.md)** property.
-
-
-## See also
-
-
-[SpellingOptions Object](Excel.SpellingOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

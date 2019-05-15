@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SpellingOptions.GermanPostReform property (Excel)
 
- **True** to check the spelling of words using the German post-reform rules. **False** cancels this feature. Read/write **Boolean**.
+**True** to check the spelling of words by using the German post-reform rules. **False** cancels this feature. Read/write **Boolean**.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[SpellingOptions](Excel.SpellingOpti
 ## Example
 
 In this example, Microsoft Excel determines if the checking of spelling for German words is using post-reform rules and enables this feature if it's not enabled, and then notifies the user of the status.
-
 
 ```vb
 Sub SpellingCheck() 
@@ -44,9 +43,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[SpellingOptions Object](Excel.SpellingOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

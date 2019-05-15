@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SpellingOptions.KoreanCombineAux property (Excel)
 
-When set to  **True**, Microsoft Excel combines Korean auxiliary verbs and adjectives when spelling is checked. Read/write **Boolean**.
+When set to **True**, Microsoft Excel combines Korean auxiliary verbs and adjectives when spelling is checked. Read/write **Boolean**.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[SpellingOptions](Excel.SpellingOpti
 ## Example
 
 In this example, Microsoft Excel checks to see if the option to combine Korean auxiliary verbs and adjectives when checking spelling is on or off and notifies the user accordingly.
-
 
 ```vb
 Sub KoreanSpellCheck() 
@@ -42,9 +41,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[SpellingOptions Object](Excel.SpellingOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

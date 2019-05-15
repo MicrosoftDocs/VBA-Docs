@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SpellingOptions.SuggestMainOnly property (Excel)
 
-When set to  **True**, instructs Microsoft Excel to suggest words from only the main dictionary, for using the spelling checker. **False** removes the limits of suggesting words from only the main dictionary, for using the spelling checker. Read/write **Boolean**.
+When set to **True**, instructs Microsoft Excel to suggest words from only the main dictionary when using the spelling checker. **False** removes the limits of suggesting words from only the main dictionary when using the spelling checker. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[SpellingOptions](Excel.SpellingOpti
 
 ## Example
 
-In this example, Microsoft Excel checks the spell checking options for suggesting words only from the main dictionary and reports the status to the user.
-
+In this example, Microsoft Excel checks the spelling checking options for suggesting words only from the main dictionary and reports the status to the user.
 
 ```vb
 Sub UsingMainDictionary() 
@@ -43,9 +42,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[SpellingOptions Object](Excel.SpellingOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SpellingOptions.IgnoreMixedDigits property (Excel)
 
- **False** instructs Microsoft Excel to check for mixed digits, **True** instructs Excel to ignore mixed digits when checking spelling. Read/write **Boolean**.
+**False** instructs Microsoft Excel to check for mixed digits; **True** instructs Excel to ignore mixed digits when checking spelling. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[SpellingOptions](Excel.SpellingOpti
 
 ## Example
 
-In this example, Microsoft Excel determines what the setting is for the checking of spelling for mixed digits and notifies the user.
-
+In this example, Excel determines what the setting is for checking the spelling of mixed digits and notifies the user.
 
 ```vb
 Sub SpellingOptionsCheck() 
@@ -42,9 +41,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[SpellingOptions Object](Excel.SpellingOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

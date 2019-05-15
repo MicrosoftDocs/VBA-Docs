@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SpellingOptions.UserDict property (Excel)
 
-Instructs Microsoft Excel to create a custom dictionary to which new words can be added to, when performing spelling checks on a worksheet. Read/write  **String**.
+Instructs Microsoft Excel to create a custom dictionary to which new words can be added when performing spelling checks on a worksheet. Read/write **String**.
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[SpellingOptions](Excel.SpellingOpti
 
 ## Example
 
-This example instructs Microsoft Excel to create custom dictionary called "Custom1.dic" in the spelling options feature and notifies the user.
-
+This example instructs Excel to create a custom dictionary called Custom1.dic in the spelling options feature and notifies the user.
 
 ```vb
 Sub SpecialWord() 
@@ -40,9 +39,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[SpellingOptions Object](Excel.SpellingOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
