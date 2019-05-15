@@ -41,7 +41,7 @@ WebNavigationBarSet
 
 ## Remarks
 
-The  **Name** parameter must be unique to avoid a run time error.
+The  **Name** parameter must be unique to avoid a run-time error.
 
 
 ## Example

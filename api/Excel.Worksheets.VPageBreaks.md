@@ -21,7 +21,7 @@ Returns a **[VPageBreaks](excel.vpagebreaks.md)** collection that represents the
 
 _expression_.**VPageBreaks**
 
-_expression_ A variable that represents a [Worksheets](Excel.Worksheets.md) object.
+_expression_ A variable that represents a **[Worksheets](Excel.Worksheets.md)** object.
 
 
 ## Example

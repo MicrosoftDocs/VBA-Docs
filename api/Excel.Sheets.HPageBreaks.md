@@ -7,21 +7,21 @@ ms.prod: excel
 api_name:
 - Excel.Sheets.HPageBreaks
 ms.assetid: 5c7671c6-a00e-5183-db25-898509c7f8e8
-ms.date: 06/08/2017
+ms.date: 05/15/2019
 localization_priority: Normal
 ---
 
 
 # Sheets.HPageBreaks property (Excel)
 
-Returns an  **[HPageBreaks](Excel.HPageBreaks.md)** collection that represents the horizontal page breaks on the sheet. Read-only.
+Returns an **[HPageBreaks](Excel.HPageBreaks.md)** collection that represents the horizontal page breaks on the sheet. Read-only.
 
 
 ## Syntax
 
 _expression_.**HPageBreaks**
 
-_expression_ A variable that represents a [Sheets](Excel.Sheets.md) object.
+_expression_ A variable that represents a **[Sheets](Excel.Sheets.md)** object.
 
 
 ## Remarks
@@ -32,7 +32,6 @@ There is a limit of 1026 horizontal page breaks per sheet.
 ## Example
 
 This example displays the number of full-screen and print-area horizontal page breaks.
-
 
 ```vb
 For Each pb in Worksheets(1).HPageBreaks 
@@ -47,9 +46,6 @@ MsgBox cFull & " full-screen page breaks, " & cPartial & _
 ```
 
 
-## See also
 
-
-[Sheets Object](Excel.Sheets.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
