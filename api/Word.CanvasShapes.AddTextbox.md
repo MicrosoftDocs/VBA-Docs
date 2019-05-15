@@ -21,7 +21,7 @@ Adds a text box to a drawing canvas. Returns a  **Shape** object that represents
 
 _expression_. `AddTextbox`( `_Orientation_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
 
-_expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
+_expression_ Required. A variable that represents a **[CanvasShapes](Word.CanvasShapes.md)** object.
 
 
 ## Parameters

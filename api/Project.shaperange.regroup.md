@@ -8,28 +8,26 @@ localization_priority: Normal
 
 
 # ShapeRange.Regroup method (Project)
-The  **Regroup** method is not implemented in Project.
+
+The **Regroup** method is not implemented in Project.
 
 ## Syntax
 
-_expression_. `Regroup`
+_expression_.**Regroup**
 
-_expression_ A variable that represents a 'ShapeRange' object.
+_expression_ A variable that represents a **[ShapeRange](Project.ShapeRange.md)** object.
 
 
 ## Return value
 
- **Shape**
+**Shape**
 
 
 ## Remarks
 
-In general for applications that implement Office Art, the  **Regroup** method recreates the group that the shape range previously belonged to, and returns the grouped shapes as a single **Shape** object. Project does not support automatic grouping of shapes in a report.
+In general, for applications that implement Office Art, the **Regroup** method recreates the group that the shape range previously belonged to, and returns the grouped shapes as a single **Shape** object. Project does not support automatic grouping of shapes in a report.
 
 
-## See also
 
-
-[ShapeRange Object](Project.shaperange.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

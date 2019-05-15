@@ -21,7 +21,7 @@ Adds an open or closed polygon to a drawing canvas. Returns a  **Shape** object 
 
 _expression_. `AddPolyline`( `_SafeArrayOfPoints_` )
 
-_expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
+_expression_ Required. A variable that represents a **[CanvasShapes](Word.CanvasShapes.md)** object.
 
 
 ## Parameters

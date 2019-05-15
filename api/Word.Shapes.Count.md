@@ -21,7 +21,7 @@ Returns a  **Long** that represents the number of shapes in the collection. Read
 
 _expression_.**Count**
 
-_expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
+_expression_ Required. A variable that represents a **[Shapes](Word.Shapes.md)** object.
 
 
 ## See also

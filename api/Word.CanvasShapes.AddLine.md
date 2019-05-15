@@ -19,9 +19,9 @@ Adds a line to a drawing canvas. Returns a  **[Shape](Word.Shape.md)** object th
 
 ## Syntax
 
-_expression_. `AddLine`( `_BeginX_` , `_BeginY_` , `_EndX_` , `_EndY_` )
+_expression_.**AddLine** (_BeginX_, _BeginY_, _EndX_, _EndY_)
 
-_expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
+_expression_ Required. A variable that represents a **[CanvasShapes](Word.CanvasShapes.md)** object.
 
 
 ## Parameters

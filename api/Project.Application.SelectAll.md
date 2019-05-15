@@ -19,7 +19,7 @@ Selects all cells on the active sheet.
 
 ## Syntax
 
-_expression_. `SelectAll`
+_expression_.**SelectAll**
 
 _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

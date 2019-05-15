@@ -19,9 +19,9 @@ Selects all the shapes in a canvas.
 
 ## Syntax
 
-_expression_. `SelectAll`
+_expression_.**SelectAll**
 
-_expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
+_expression_ Required. A variable that represents a **[CanvasShapes](Word.CanvasShapes.md)** object.
 
 
 ## Remarks

@@ -19,19 +19,16 @@ Selects all the shapes in a document that were inserted or edited by a single us
 
 ## Syntax
 
-_expression_. `SelectAll`
+_expression_.**SelectAll**
 
 _expression_ Required. A variable that represents an '[Editor](Word.Editor.md)' object.
 
 
 ## Remarks
 
-This method doesn't select  **InlineShape** objects.
+This method doesn't select **InlineShape** objects.
 
 
-## See also
 
-
-[Editor Object](Word.Editor.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

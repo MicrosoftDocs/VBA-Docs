@@ -7,27 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.Comments
 ms.assetid: c2ad8ea7-0fa3-7cde-e3f2-49bbdb81d261
-ms.date: 06/08/2017
+ms.date: 05/15/2019
 localization_priority: Normal
 ---
 
 
 # Worksheet.Comments property (Excel)
 
-Returns a  **[Comments](Excel.Comments.md)** collection that represents all the comments for the specified worksheet. Read-only.
+Returns a **[Comments](Excel.Comments.md)** collection that represents all the comments for the specified worksheet. Read-only.
 
 
 ## Syntax
 
-_expression_. `Comments`
+_expression_.**Comments**
 
 _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Example
 
-This example deletes all comments added by Jean Selva on the active sheet.
-
+This example deletes all comments added by author Jean Selva on the active sheet.
 
 ```vb
 For Each c in ActiveSheet.Comments 
@@ -36,9 +35,6 @@ Next
 ```
 
 
-## See also
 
-
-[Worksheet Object](Excel.Worksheet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

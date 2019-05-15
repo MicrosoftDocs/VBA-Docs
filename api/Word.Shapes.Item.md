@@ -21,7 +21,7 @@ Returns an individual  **Shape** object in a collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
+_expression_ Required. A variable that represents a **[Shapes](Word.Shapes.md)** object.
 
 
 ## Parameters
