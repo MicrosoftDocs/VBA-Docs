@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # SlicerCache object (Excel)
 
-Represents the current filter state for a slicer and information about which **[PivotCache](Excel.PivotCache.md)** or **[WorkbookConnection](Excel.WorkbookConnection.md)** object the slicer is connected to.
+Represents the current filter state for a slicer, and information about which **[PivotCache](Excel.PivotCache.md)** or **[WorkbookConnection](Excel.WorkbookConnection.md)** object the slicer is connected to.
 
 
 ## Remarks
 
-Use the **[SlicerCaches](Excel.Workbook.SlicerCaches.md)** property of the **Workbook** object to access the collection of **SlicerCache** objects in a workbook.
+Use the **[SlicerCaches](Excel.Workbook.SlicerCaches.md)** property of the **Workbook** object to access the **[SlicerCaches](excel.slicercaches.md)** collection of **SlicerCache** objects in a workbook.
 
 Each slicer has a base **SlicerCache** object that represents the items displayed in the slicer and the current user interface state of the tiles displayed with their corresponding item captions. Each slicer control that the user sees in Excel is represented by a **[Slicer](Excel.Slicer.md)** object that has a **SlicerCache** object associated with it.
 
