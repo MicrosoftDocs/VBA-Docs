@@ -7,30 +7,28 @@ ms.prod: excel
 api_name:
 - Excel.SlicerPivotTables.AddPivotTable
 ms.assetid: c5fc95c6-0fb9-1c8f-5b12-8a4c0f9f10c7
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
 
 # SlicerPivotTables.AddPivotTable method (Excel)
 
-Adds a reference to a PivotTable to the  **[SlicerPivotTables](Excel.SlicerPivotTables.md)** collection.
+Adds a reference to a PivotTable to the **SlicerPivotTables** collection.
 
 
 ## Syntax
 
-_expression_. `AddPivotTable`( `_PivotTable_` )
+_expression_.**AddPivotTable** (_PivotTable_)
 
-_expression_ A variable that represents a [SlicerPivotTables](Excel.SlicerPivotTables.md) object.
+_expression_ A variable that represents a **[SlicerPivotTables](Excel.SlicerPivotTables.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _PivotTable_|Required| **PivotTable**|A  **[PivotTable](Excel.PivotTable.md)** object that represents the PivotTable to add.|
+| _PivotTable_|Required| **PivotTable**|A **[PivotTable](Excel.PivotTable.md)** object that represents the PivotTable to add.|
 
 ## Return value
 
@@ -39,13 +37,12 @@ Nothing
 
 ## Remarks
 
-When a PivotTable is added to the  **SlicerPivotTables** collection, it can be filtered by its parent **[SlicerCache](Excel.SlicerCache.md)** and the slicers associated with it.
+When a PivotTable is added to the **SlicerPivotTables** collection, it can be filtered by its parent **[SlicerCache](Excel.SlicerCache.md)** and the slicers associated with it.
 
 
 ## Example
 
 The following code example adds PivotTable1 to the slicer cache associated with the Customer slicer.
-
 
 ```vb
 Dim pvts As SlicerPivotTables 
@@ -54,9 +51,6 @@ pvts.AddPivotTable(ActiveSheet.PivotTables("PivotTable1"))
 ```
 
 
-## See also
 
-
-[SlicerPivotTables Object](Excel.SlicerPivotTables.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
