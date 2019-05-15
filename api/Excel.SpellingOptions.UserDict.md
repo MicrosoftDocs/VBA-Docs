@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SpellingOptions.UserDict
 ms.assetid: 8816b44e-98e5-8829-cb6e-af4ac4040838
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Instructs Microsoft Excel to create a custom dictionary to which new words can b
 
 ## Syntax
 
-_expression_. `UserDict`
+_expression_.**UserDict**
 
-_expression_ A variable that represents a [SpellingOptions](Excel.SpellingOptions.md) object.
+_expression_ A variable that represents a **[SpellingOptions](Excel.SpellingOptions.md)** object.
 
 
 ## Example

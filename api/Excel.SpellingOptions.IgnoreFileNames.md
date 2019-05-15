@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SpellingOptions.IgnoreFileNames
 ms.assetid: 346b454b-b501-9836-4d45-dbe551f4c2cb
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `IgnoreFileNames`
+_expression_.**IgnoreFileNames**
 
-_expression_ A variable that represents a [SpellingOptions](Excel.SpellingOptions.md) object.
+_expression_ A variable that represents a **[SpellingOptions](Excel.SpellingOptions.md)** object.
 
 
 ## Example

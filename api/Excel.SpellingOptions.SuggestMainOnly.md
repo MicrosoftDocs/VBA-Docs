@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SpellingOptions.SuggestMainOnly
 ms.assetid: f4a5aa0a-78be-bd98-22e8-b85eac0f4428
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ When set to  **True**, instructs Microsoft Excel to suggest words from only the 
 
 ## Syntax
 
-_expression_. `SuggestMainOnly`
+_expression_.**SuggestMainOnly**
 
-_expression_ A variable that represents a [SpellingOptions](Excel.SpellingOptions.md) object.
+_expression_ A variable that represents a **[SpellingOptions](Excel.SpellingOptions.md)** object.
 
 
 ## Example

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SpellingOptions.HebrewModes
 ms.assetid: b8ecfa29-7ec4-180b-fb37-6876ab6c0cc7
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns or sets the mode for the Hebrew spelling checker. Read/write  **[XlHebre
 
 ## Syntax
 
-_expression_. `HebrewModes`
+_expression_.**HebrewModes**
 
-_expression_ A variable that represents a [SpellingOptions](Excel.SpellingOptions.md) object.
+_expression_ A variable that represents a **[SpellingOptions](Excel.SpellingOptions.md)** object.
 
 
 ## Remarks

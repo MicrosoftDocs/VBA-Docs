@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SpellingOptions.IgnoreMixedDigits
 ms.assetid: 6803fa80-3850-5b34-d22b-3d617c14e537
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `IgnoreMixedDigits`
+_expression_.**IgnoreMixedDigits**
 
-_expression_ A variable that represents a [SpellingOptions](Excel.SpellingOptions.md) object.
+_expression_ A variable that represents a **[SpellingOptions](Excel.SpellingOptions.md)** object.
 
 
 ## Example

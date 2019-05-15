@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SpellingOptions.BrazilReform
 ms.assetid: cafc2331-aa68-367a-7b88-c95edb9191ec
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns or sets the mode for checking the spelling of Brazilian Portuguese. Read
 
 ## Syntax
 
-_expression_. `BrazilReform`
+_expression_.**BrazilReform**
 
 _expression_ A variable that represents a '[SpellingOptions](Excel.SpellingOptions.md)' object.
 

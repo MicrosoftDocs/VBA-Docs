@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SpellingOptions.KoreanProcessCompound
 ms.assetid: c6bb9d79-d464-1644-4873-5f3ccf84e487
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ When set to  **True**, this enables Microsoft Excel to process Korean compound n
 
 ## Syntax
 
-_expression_. `KoreanProcessCompound`
+_expression_.**KoreanProcessCompound**
 
-_expression_ A variable that represents a [SpellingOptions](Excel.SpellingOptions.md) object.
+_expression_ A variable that represents a **[SpellingOptions](Excel.SpellingOptions.md)** object.
 
 
 ## Example

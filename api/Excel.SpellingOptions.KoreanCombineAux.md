@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SpellingOptions.KoreanCombineAux
 ms.assetid: 9e858f87-e302-2d51-aa9e-383352b534e2
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ When set to  **True**, Microsoft Excel combines Korean auxiliary verbs and adjec
 
 ## Syntax
 
-_expression_. `KoreanCombineAux`
+_expression_.**KoreanCombineAux**
 
-_expression_ A variable that represents a [SpellingOptions](Excel.SpellingOptions.md) object.
+_expression_ A variable that represents a **[SpellingOptions](Excel.SpellingOptions.md)** object.
 
 
 ## Example
