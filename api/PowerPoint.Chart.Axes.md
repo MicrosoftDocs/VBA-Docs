@@ -19,14 +19,12 @@ Returns a collection of axes on the chart.
 
 ## Syntax
 
-_expression_. `Axes`( `_Type_`, `_AxisGroup_` )
+_expression_.**Axes** (_Type_, _AxisGroup_)
 
 _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

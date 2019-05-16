@@ -44,7 +44,7 @@ Variant
 
 ## Remarks
 
-"Pages" in the descriptions of  _From_ and _To_ refers to printed pages ? not overall pages in the sheet or workbook.
+"Pages" in the descriptions of  _From_ and _To_ refers to printed pages, not overall pages in the sheet or workbook.
 
 
 ## Example

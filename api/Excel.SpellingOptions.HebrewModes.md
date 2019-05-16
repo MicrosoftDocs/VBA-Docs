@@ -7,32 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.SpellingOptions.HebrewModes
 ms.assetid: b8ecfa29-7ec4-180b-fb37-6876ab6c0cc7
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
 
 # SpellingOptions.HebrewModes property (Excel)
 
-Returns or sets the mode for the Hebrew spelling checker. Read/write  **[XlHebrewModes](Excel.XlHebrewModes.md)**.
+Returns or sets the mode for the Hebrew spelling checker. Read/write **[XlHebrewModes](Excel.XlHebrewModes.md)**.
 
 
 ## Syntax
 
-_expression_. `HebrewModes`
+_expression_.**HebrewModes**
 
-_expression_ A variable that represents a [SpellingOptions](Excel.SpellingOptions.md) object.
+_expression_ A variable that represents a **[SpellingOptions](Excel.SpellingOptions.md)** object.
 
 
 ## Remarks
-
-
-
-| **xlHebrewModes** can be one of these **xlHebrewModes** constants.|
-| **xlHebrewFullScript** (default) The conventional script type as required by the Hebrew Language Academy when writing non-diacritisized text.|
-| **xlHebrewMixedAuthorizedScript** The Hebrew traditional script.|
-| **xlHebrewMixedScript** In this mode the speller accepts any word recognized as Hebrew, whether in Full Script, Partial Script, or any non-conventional spelling variation what is known to the speller.|
-| **xlHebrewPartialScript** In this mode the speller accepts words both in Full Script and Partial Script. Some words will be flagged since this spelling is not authorized in either Full script or Partial script.|
 
 A legitimate Hebrew word can be a basic dictionary entry or any inflection.
 
@@ -40,7 +32,6 @@ A legitimate Hebrew word can be a basic dictionary entry or any inflection.
 ## Example
 
 In this example, Microsoft Excel determines the setting for the Hebrew spelling mode and notifies the user.
-
 
 ```vb
 Sub CheckHebrewMode() 
@@ -61,9 +52,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[SpellingOptions Object](Excel.SpellingOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SlicerItem.Caption
 ms.assetid: 27e4bcc0-da55-d79e-a020-85e32c5381d3
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns the label text for the slicer item. Read-only.
 
 _expression_.**Caption**
 
-_expression_ A variable that represents a '[SlicerItem](Excel.SlicerItem.md)' object.
+_expression_ A variable that represents a **[SlicerItem](Excel.SlicerItem.md)** object.
 
 
 ## Return value
@@ -29,9 +29,5 @@ _expression_ A variable that represents a '[SlicerItem](Excel.SlicerItem.md)' ob
 String
 
 
-## See also
-
-
-[SlicerItem Object](Excel.SlicerItem.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

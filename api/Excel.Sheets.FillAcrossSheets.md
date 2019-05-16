@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Sheets.FillAcrossSheets
 ms.assetid: eee9b0a2-0727-dfc8-ea7b-d7c582466d5c
-ms.date: 06/08/2017
+ms.date: 05/15/2019
 localization_priority: Normal
 ---
 
@@ -19,24 +19,22 @@ Copies a range to the same area on all other worksheets in a collection.
 
 ## Syntax
 
-_expression_. `FillAcrossSheets`( `_Range_` , `_Type_` )
+_expression_.**FillAcrossSheets** (_Range_, _Type_)
 
-_expression_ A variable that represents a [Sheets](Excel.Sheets.md) object.
+_expression_ A variable that represents a **[Sheets](Excel.Sheets.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range**|The range to fill on all the worksheets in the collection. The range must be from a worksheet within the collection.|
 | _Type_|Optional| **[XlFillWith](Excel.XlFillWith.md)**|Specifies how to copy the range.|
 
+
 ## Example
 
 This example fills the range A1:C5 on Sheet1, Sheet5, and Sheet7 with the contents of the same range on Sheet1.
-
 
 ```vb
 x = Array("Sheet1", "Sheet5", "Sheet7") 
@@ -45,9 +43,5 @@ Sheets(x).FillAcrossSheets _
 ```
 
 
-## See also
-
-
-[Sheets Object](Excel.Sheets.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

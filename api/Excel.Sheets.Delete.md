@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Sheets.Delete
 ms.assetid: 9b657a8e-d3fe-c8ec-6145-701442035a83
-ms.date: 06/08/2017
+ms.date: 05/15/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Deletes the object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [Sheets](Excel.Sheets.md) object.
+_expression_ A variable that represents a **[Sheets](Excel.Sheets.md)** object.
 
 
-## See also
 
-
-[Sheets Object](Excel.Sheets.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

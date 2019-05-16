@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SortFields.Parent
 ms.assetid: 66b972e9-5ec9-5c1c-5bea-a76b118b9d0d
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [SortFields](Excel.SortFields.md) object.
+_expression_ A variable that represents a **[SortFields](Excel.SortFields.md)** object.
 
 
-## See also
 
-
-[SortFields Object](Excel.SortFields.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

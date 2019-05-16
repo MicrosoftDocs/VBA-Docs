@@ -24,7 +24,7 @@ Use the **[Speech](Excel.Application.Speech.md)** property of the **Application*
 
 ## Example
 
-After a **Speech** object is returned, you can use the **Speak** method of **Speech** object to play back the contents of a string. In the following example, Microsoft Excel plays back "Hello". This example assumes speech features have been installed on the host system.
+After a **Speech** object is returned, you can use the **Speak** method of the **Speech** object to play back the contents of a string. In the following example, Microsoft Excel plays back "Hello". This example assumes that speech features have been installed on the host system.
 
 > [!NOTE] 
 > There is a speech feature in the setup tree that pertains to Dictation and Command & Control that does not have to be installed.

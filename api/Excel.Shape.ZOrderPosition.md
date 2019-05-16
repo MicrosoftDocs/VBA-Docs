@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
 
 To set the shape's position in the z-order, use the **[ZOrder](Excel.Shape.ZOrder.md)** method.
 
-A shape's position in the z-order corresponds to the shape's index number in the **Shapes** collection. For example, if there are four shapes on _myDocument_, the expression  `myDocument.Shapes(1)` returns the shape at the back of the z-order, and the expression `myDocument.Shapes(4)` returns the shape at the front of the z-order.
+A shape's position in the z-order corresponds to the shape's index number in the **[Shapes](Excel.Shapes.md)** collection. For example, if there are four shapes on _myDocument_, the expression  `myDocument.Shapes(1)` returns the shape at the back of the z-order, and the expression `myDocument.Shapes(4)` returns the shape at the front of the z-order.
 
 Whenever you add a new shape to a collection, it's added to the front of the z-order by default.
 

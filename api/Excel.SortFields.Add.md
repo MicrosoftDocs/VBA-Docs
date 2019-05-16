@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: excel
 api_name:
 - Excel.SortFields.Add
-ms.date: 09/26/2018
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -18,7 +18,7 @@ Creates a new sort field and returns a **SortFields** object.
 
 _expression_.**Add** (_Key_, _SortOn_, _Order_, _CustomOrder_, _DataOption_)
 
-_expression_ A variable that represents a [SortFields](Excel.SortFields.md) object.
+_expression_ A variable that represents a **[SortFields](Excel.SortFields.md)** object.
 
 ## Parameters
 
@@ -32,19 +32,20 @@ _expression_ A variable that represents a [SortFields](Excel.SortFields.md) obje
 
 ## Return value
 
-SortField
+**SortField**
 
 ## Remarks
 
-This API does not include support for data types, such as Geography or Stocks. To define a sort order based off a SubField of one of these types, see [SortFields.Add2](Excel.SortFields.Add2.md).
+This API does not include support for data types, such as Geography or Stocks. To define a sort order based off a SubField of one of these types, see the **[Add2](Excel.SortFields.Add2.md)** method.
 
-## Examples
+## Example
 
-This example sorts a Table, "Table1" on "Sheet1" by "Column1", in ascending order.
+This example sorts a table, Table1 on Sheet1, by Column1 in ascending order.
 
-[SortFields.Clear](Excel.SortFields.Clear.md) is called before to ensure that the previous sort is cleared so that a new one can be applied.
+The **[Clear](Excel.SortFields.Clear.md)** method is called before to ensure that the previous sort is cleared so that a new one can be applied.
 
-[Sort](Excel.Sort.md) is called to apply the added sort to "Table1".
+The **[Sort](Excel.Sort.md)** object is called to apply the added sort to Table1.
+
 
 ```vb
 ActiveWorkbook.Worksheets("Sheet1").ListObjects("Table1").Sort.SortFields.Clear
@@ -61,5 +62,6 @@ With ActiveWorkbook.Worksheets("Sheet1").ListObjects("Table1").Sort
  .Apply
 End With
 ```
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

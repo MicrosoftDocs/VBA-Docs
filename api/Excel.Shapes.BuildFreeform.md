@@ -36,7 +36,7 @@ _expression_ A variable that represents a **[Shapes](Excel.Shapes.md)** object.
 
 ## Return value
 
-FreeformBuilder
+**FreeformBuilder**
 
 
 ## Example

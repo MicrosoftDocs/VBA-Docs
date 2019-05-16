@@ -5,15 +5,14 @@ f1_keywords:
 - vbaxl10.chm897093
 ms.prod: excel
 ms.assetid: aa26c507-e223-fdd7-1bf6-82b35b206298
-ms.date: 04/19/2019
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
 
 # SlicerCache.SlicerCacheType property (Excel)
 
-Returns the type of the slicer cache: slicer or timeline. Read-only.
-
+Returns the type of the slicer cache: slicer (**xlSlicer**) or timeline (**xlTimeline**) . Read-only **[XlSlicerCacheType](excel.xlslicercachetype.md)**.
 
 ## Syntax
 
@@ -24,7 +23,7 @@ _expression_ A variable that represents a **[SlicerCache](Excel.SlicerCache.md)*
 
 ## Return value
 
-**[XlSlicerCacheType](Excel.xlslicercachetype.md)** enumeration
+**XlSlicerCacheType**
 
 
 ## Property value

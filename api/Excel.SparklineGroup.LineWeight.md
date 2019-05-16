@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SparklineGroup.LineWeight
 ms.assetid: 5fabc5d1-dcb4-e786-998f-9a44da0f5a28
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Gets or sets the thickness of the sparklines in the sparkline group. Read/write.
 
 ## Syntax
 
-_expression_. `LineWeight`
+_expression_.**LineWeight**
 
-_expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
+_expression_ A variable that represents a **[SparklineGroup](Excel.SparklineGroup.md)** object.
 
 
 ## Return value
@@ -29,9 +29,6 @@ _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup
 Variant
 
 
-## See also
 
-
-[SparklineGroup Object](Excel.SparklineGroup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

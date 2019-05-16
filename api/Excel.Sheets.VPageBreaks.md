@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Sheets.VPageBreaks
 ms.assetid: 98de4186-6900-b53b-4d4d-91bb8131180f
-ms.date: 06/08/2017
+ms.date: 05/15/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Returns a **[VPageBreaks](excel.vpagebreaks.md)** collection that represents the
 
 _expression_.**VPageBreaks**
 
-_expression_ A variable that represents a [Sheets](Excel.Sheets.md) object.
+_expression_ A variable that represents a **[Sheets](Excel.Sheets.md)** object.
 
 
-## See also
 
-
-[Sheets Object](Excel.Sheets.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

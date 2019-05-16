@@ -7,39 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.SpellingOptions.ArabicModes
 ms.assetid: 0b4fb37e-e5f4-318b-27c1-a90adf39938e
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
 
 # SpellingOptions.ArabicModes property (Excel)
 
-Returns or sets the mode for the Arabic spelling checker. Read/write  **[XlArabicModes](Excel.XlArabicModes.md)**.
+Returns or sets the mode for the Arabic spelling checker. Read/write **[XlArabicModes](Excel.XlArabicModes.md)**.
 
 
 ## Syntax
 
-_expression_. `ArabicModes`
+_expression_.**ArabicModes**
 
-_expression_ A variable that represents a [SpellingOptions](Excel.SpellingOptions.md) object.
+_expression_ A variable that represents a **[SpellingOptions](Excel.SpellingOptions.md)** object.
 
-
-## Remarks
-
-
-
-
-
-| **xlArabicModes** can be one of these **xlArabicModes** constants.|
-| **xlArabicNone**. The spelling checker ignores spelling rules regarding either Arabic words ending with the letter yaa or Arabic words beginning with an alef hamza.|
-| **xlArabicBothStrict**. The spelling checker uses spelling rules regarding both Arabic words ending with the letter yaa and Arabic words beginning with an alef hamza.|
-| **xlArabicStrictAlefHamza**. The spelling checker uses spelling rules regarding Arabic words beginning with an alef hamza.|
-| **xlArabicStrictFinalYaa**. The spelling checker uses spelling rules regarding Arabic words ending with the letter yaa.|
 
 ## Example
 
 In this example, Microsoft Excel checks the setting for the spell checking option for Arabic mode and sets it to check for words ending with the letter yaa and words beginning with an alef hamza, if the Arabic mode is not set to this already. Before running this code example, the Arabic modes option must be enabled in the spelling options.
-
 
 ```vb
 Sub SpellCheck() 
@@ -55,9 +42,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[SpellingOptions Object](Excel.SpellingOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Sheets.Add
 ms.assetid: db5de750-fd09-2b18-c52b-98d88eeb0ffc
-ms.date: 01/09/2019
+ms.date: 05/15/2019
 localization_priority: Normal
 ---
 
@@ -59,5 +59,6 @@ ActiveWorkbook.Sheets.Add(After:=Worksheets(Worksheets.Count))
 
 > [!NOTE] 
 > In 32-bit Excel 2010, this method cannot create more than 255 sheets at one time.
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

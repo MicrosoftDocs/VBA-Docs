@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Sparkline.ModifyLocation
 ms.assetid: 39b4b0cc-5d3a-0f0b-c57e-d0d4f2cc4244
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Modifies the location of a single sparkline.
 
 ## Syntax
 
-_expression_. `ModifyLocation`( `_Range_` )
+_expression_.**ModifyLocation** (_Range_)
 
-_expression_ A variable that represents a '[Sparkline](Excel.Sparkline.md)' object.
+_expression_ A variable that represents a **[Sparkline](Excel.Sparkline.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -37,9 +35,6 @@ _expression_ A variable that represents a '[Sparkline](Excel.Sparkline.md)' obje
 Nothing
 
 
-## See also
 
-
-[Sparkline Object](Excel.Sparkline.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -35,7 +35,7 @@ MsgBox ActiveDocument.Variables("Temp2").Value
 ```
 
 
- **Caution**  The value of a  **[Variable](Word.Variable.md)** object cannot be set to a zero-length string. Setting a **[Variable](Word.Variable.md)** object to a zero-length string results in a run time error.
+ **Caution**  The value of a  **[Variable](Word.Variable.md)** object cannot be set to a zero-length string. Setting a **[Variable](Word.Variable.md)** object to a zero-length string results in a run-time error.
 
 
 ## See also

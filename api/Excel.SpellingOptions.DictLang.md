@@ -7,27 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.SpellingOptions.DictLang
 ms.assetid: 3564b149-5d37-88b4-a0b1-73398e9373c5
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
 
 # SpellingOptions.DictLang property (Excel)
 
-Selects the dictionary language used when Microsoft Excel performs spelling checks. Read/write  **Long**.
+Selects the dictionary language used when Microsoft Excel performs spelling checks. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `DictLang`
+_expression_.**DictLang**
 
-_expression_ A variable that represents a [SpellingOptions](Excel.SpellingOptions.md) object.
+_expression_ A variable that represents a **[SpellingOptions](Excel.SpellingOptions.md)** object.
 
 
 ## Example
 
 This example sets the Excel dictionary to use the English (United States) language.
-
 
 ```vb
 Sub LanguageSpellCheck() 
@@ -41,9 +40,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[SpellingOptions Object](Excel.SpellingOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
