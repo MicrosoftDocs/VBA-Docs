@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ApplicationSettings.SnapStrengthExtensionsX property (Visio)
 
-Specifies the distance in pixels along the  _x_ -axis that shape extension lines pull when snapping is enabled. Read/Write.
+Specifies the distance in pixels along the  _x_ -axis that shape extension lines pull when snapping is enabled. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FindReplace.MatchWidth property (Publisher)
 
-Sets or returns a  **Boolean** representing whether or not a search operation will match the character width of the searched text. Read/Write.
+Sets or returns a  **Boolean** representing whether or not a search operation will match the character width of the searched text. Read/write.
 
 
 ## Syntax

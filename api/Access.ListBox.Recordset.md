@@ -32,8 +32,8 @@ The read/write behavior of the **Recordset** property is determined by the type 
 
 |Recordset type|Based on SQL data|Based on data stored by the Access database engine|
 |:-----|:-----|:-----|
-|**ADO**|Read/Write|Read/Write|
-|**DAO**|N/A|Read/Write|
+|**ADO**|Read/write|Read/write|
+|**DAO**|N/A|Read/write|
 
 The following example opens a form, opens a recordset, and then binds the form to the recordset by setting the form's **Recordset** property to the newly created **Recordset** object.
 

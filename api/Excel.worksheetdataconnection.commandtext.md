@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # WorksheetDataConnection.CommandText property (Excel)
 
-Returns or sets the command string for the specified data source.  **Variant** Read/Write
+Returns or sets the command string for the specified data source.  **Variant** Read/write
 
 
 ## Syntax

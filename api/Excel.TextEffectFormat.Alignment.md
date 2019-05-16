@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.TextEffectFormat.Alignment
 ms.assetid: 0a86ac22-9496-d801-0cfb-a9fca5c30fec
-ms.date: 06/08/2017
+ms.date: 05/17/2019
 localization_priority: Normal
 ---
 

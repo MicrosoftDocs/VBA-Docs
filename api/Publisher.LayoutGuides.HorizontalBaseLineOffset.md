@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # LayoutGuides.HorizontalBaseLineOffset property (Publisher)
 
-Returns a  **Single** that represents the horizontal baseline offset of the specified **LayoutGuides** object. Read/Write.
+Returns a  **Single** that represents the horizontal baseline offset of the specified **LayoutGuides** object. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BuildingBlock.Category property (Publisher)
 
-Gets or sets a string that represents the category for the building block. Read/Write.
+Gets or sets a string that represents the category for the building block. Read/write.
 
 
 ## Syntax
