@@ -19,7 +19,7 @@ Returns or sets the name of the object, in the language of the user. Read-only  
 
 ## Syntax
 
-_expression_. `NameLocal`
+_expression_.**NameLocal**
 
 _expression_ A variable that represents a [TableStyle](Excel.TableStyle.md) object.
 

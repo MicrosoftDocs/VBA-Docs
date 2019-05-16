@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `BuiltIn`
+_expression_.**BuiltIn**
 
 _expression_ A variable that represents a [TableStyle](Excel.TableStyle.md) object.
 

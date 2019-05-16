@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Style.Delete
 ms.assetid: 9248eac2-9d36-4366-11de-4755581d2ad7
-ms.date: 06/08/2017
+ms.date: 05/16/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Deletes the object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [Style](Excel.Style.md) object.
+_expression_ A variable that represents a **[Style](Excel.Style.md)** object.
 
 
 ## Return value
@@ -29,9 +29,6 @@ _expression_ A variable that represents a [Style](Excel.Style.md) object.
 Variant
 
 
-## See also
 
-
-[Style Object](Excel.Style.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
