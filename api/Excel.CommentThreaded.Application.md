@@ -1,5 +1,8 @@
 ---
 title: CommentThreaded.Application property (Excel)
+keywords: vbaxl10.chm1009073
+f1_keywords:
+- vbaxl10.chm1009073
 ms.prod: excel
 api_name:
 - Excel.Comment.Application

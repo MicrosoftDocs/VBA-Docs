@@ -1,5 +1,8 @@
 ---
 title: CommentsThreaded.Parent property (Excel)
+keywords: vbaxl10.chm1007075
+f1_keywords:
+- vbaxl10.chm1007075
 ms.prod: excel
 api_name:
 - Excel.CommentsThreaded.Parent

@@ -1,5 +1,8 @@
 ---
 title: Author.UserID property (Excel)
+keywords: vbaxl10.chm1012075
+f1_keywords:
+- vbaxl10.chm1012075
 ms.prod: excel
 api_name:
 - Excel.Author.UserID

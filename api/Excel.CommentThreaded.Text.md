@@ -1,5 +1,8 @@
 ---
 title: CommentThreaded.Text method (Excel)
+keywords: vbaxl10.chm1010075
+f1_keywords:
+- vbaxl10.chm1010075
 ms.prod: excel
 api_name:
 - Excel.CommentThreaded.Text

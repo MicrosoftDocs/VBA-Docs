@@ -1,5 +1,8 @@
 ---
 title: CommentThreaded.Delete method (Excel)
+keywords: vbaxl10.chm1010074
+f1_keywords:
+- vbaxl10.chm1010074
 ms.prod: excel
 api_name:
 - Excel.CommentThreaded.Delete
