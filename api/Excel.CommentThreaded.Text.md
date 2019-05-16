@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: excel
 api_name:
 - Excel.CommentThreaded.Text
-ms.date: 05/15/2019
+ms.date: 05/17/2019
 localization_priority: Normal
 ---
 
@@ -29,11 +29,12 @@ _expression_ A variable that represents a **[CommentThreaded](Excel.CommentThrea
 |:-----|:-----|:-----|:-----|
 | _Text_|Optional| **Variant**|The text to be added.|
 | _Start_|Optional| **Variant**|The character number where the added text will be placed. If this argument is omitted, any existing text in the threaded comment is deleted.|
-| _Overwrite_|Optional| **Variant**| **True** to overwrite the existing text. The default value is **False** (text is inserted).|
+| _Overwrite_|Optional| **Variant**| **False** to insert the text. The default value is **True** (text is overwritten).|
+
 
 ## Return value
 
-String
+**String**
 
 
 

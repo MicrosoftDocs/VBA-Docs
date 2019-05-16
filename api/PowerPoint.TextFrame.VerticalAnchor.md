@@ -21,7 +21,7 @@ Returns or sets the vertical alignment of text in a text frame. Read/write.
 
 _expression_.**VerticalAnchor**
 
-_expression_ A variable that represents a [TextFrame](./PowerPoint.TextFrame.md) object.
+_expression_ A variable that represents a **[TextFrame](PowerPoint.TextFrame.md)** object.
 
 
 ## Return value

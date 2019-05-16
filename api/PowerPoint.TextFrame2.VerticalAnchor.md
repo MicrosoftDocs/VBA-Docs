@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**VerticalAnchor**
 
- _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
+ _expression_ An expression that returns a **[TextFrame2](PowerPoint.TextFrame2.md)** object.
 
 
 ## Remarks

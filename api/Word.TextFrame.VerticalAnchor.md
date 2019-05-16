@@ -21,7 +21,7 @@ Returns or sets an  **MsoVerticalAnchor** constant that represents the vertical 
 
 _expression_.**VerticalAnchor**
 
- _expression_ An expression that returns a '[TextFrame](Word.TextFrame.md)' object.
+ _expression_ An expression that returns a **[TextFrame](Word.TextFrame.md)** object.
 
 
 ## See also

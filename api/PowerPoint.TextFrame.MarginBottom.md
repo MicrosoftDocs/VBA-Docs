@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # TextFrame.MarginBottom property (PowerPoint)
 
-Returns or sets the distance (in points) between the bottom of the text frame and the bottom of the inscribed rectangle of the shape that contains the text. Read/write.
+Returns or sets the distance (in [points](../language/glossary/vbe-glossary.md#point)) between the bottom of the text frame and the bottom of the inscribed rectangle of the shape that contains the text. Read/write.
 
 
 ## Syntax
 
-_expression_. `MarginBottom`
+_expression_.**MarginBottom**
 
-_expression_ A variable that represents a [TextFrame](./PowerPoint.TextFrame.md) object.
+_expression_ A variable that represents a **[TextFrame](PowerPoint.TextFrame.md)** object.
 
 
 ## Return value

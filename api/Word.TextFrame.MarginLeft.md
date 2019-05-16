@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # TextFrame.MarginLeft property (Word)
 
-Returns or sets the distance (in points) between the left edge of the text frame and the left edge of the inscribed rectangle of the shape that contains the text. Read/write  **Single**.
+Returns or sets the distance (in [points](../language/glossary/vbe-glossary.md#point)) between the left edge of the text frame and the left edge of the inscribed rectangle of the shape that contains the text. Read/write  **Single**.
 
 
 ## Syntax
 
-_expression_. `MarginLeft`
+_expression_.**MarginLeft**
 
- _expression_ An expression that returns a '[TextFrame](Word.TextFrame.md)' object.
+ _expression_ An expression that returns a **[TextFrame](Word.TextFrame.md)** object.
 
 
 ## Example

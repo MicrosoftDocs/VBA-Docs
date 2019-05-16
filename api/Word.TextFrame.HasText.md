@@ -19,9 +19,9 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `HasText`
+_expression_.**HasText**
 
-_expression_ A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
+_expression_ A variable that represents a **[TextFrame](Word.TextFrame.md)** object.
 
 
 ## Example

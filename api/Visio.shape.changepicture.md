@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Shape.ChangePicture method (Visio)
 
-Replaces the specified shape?s current picture with a new picture.
+Replaces the specified shape's current picture with a new picture.
 
 
 ## Syntax

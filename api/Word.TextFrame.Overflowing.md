@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `Overflowing`
 
- _expression_ An expression that returns a '[TextFrame](Word.TextFrame.md)' object.
+ _expression_ An expression that returns a **[TextFrame](Word.TextFrame.md)** object.
 
 
 ## Example

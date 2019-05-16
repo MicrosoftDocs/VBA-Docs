@@ -21,7 +21,7 @@ Returns or sets the horizontal alignment of text in a text frame. Read/write  **
 
 _expression_.**HorizontalAnchor**
 
-_expression_ A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
+_expression_ A variable that represents a **[TextFrame](Word.TextFrame.md)** object.
 
 
 ## Example

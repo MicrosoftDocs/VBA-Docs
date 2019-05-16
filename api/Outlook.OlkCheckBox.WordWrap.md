@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that specifies whether the contents of a control 
 
 ## Syntax
 
-_expression_. `WordWrap`
+_expression_.**WordWrap**
 
 _expression_ A variable that represents an [OlkCheckBox](Outlook.OlkCheckBox.md) object.
 

@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # TextFrame.MarginRight property (PowerPoint)
 
-Returns or sets the distance (in points) between the right edge of the text frame and the right edge of the inscribed rectangle of the shape that contains the text. Read/write.
+Returns or sets the distance (in [points](../language/glossary/vbe-glossary.md#point)) between the right edge of the text frame and the right edge of the inscribed rectangle of the shape that contains the text. Read/write.
 
 
 ## Syntax
 
-_expression_. `MarginRight`
+_expression_.**MarginRight**
 
-_expression_ A variable that represents a [TextFrame](./PowerPoint.TextFrame.md) object.
+_expression_ A variable that represents a **[TextFrame](PowerPoint.TextFrame.md)** object.
 
 
 ## Return value
