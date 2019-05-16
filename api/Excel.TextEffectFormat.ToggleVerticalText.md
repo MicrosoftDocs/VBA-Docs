@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.TextEffectFormat.ToggleVerticalText
 ms.assetid: 9b4312b8-1642-9a49-6395-b49b129f44f2
-ms.date: 06/08/2017
+ms.date: 05/17/2019
 localization_priority: Normal
 ---
 
@@ -19,22 +19,21 @@ Switches the text flow in the specified WordArt from horizontal to vertical, or 
 
 ## Syntax
 
-_expression_. `ToggleVerticalText`
+_expression_.**ToggleVerticalText**
 
-_expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFormat.md) object.
+_expression_ A variable that represents a **[TextEffectFormat](Excel.TextEffectFormat.md)** object.
 
 
 ## Remarks
 
-Using the  **ToggleVerticalText** method swaps the values of the **[Width](Excel.Shape.Width.md)** and **[Height](Excel.Shape.Height.md)** properties of the **[Shape](Excel.Shape.md)** object that represents the WordArt and leaves the **[Left](Excel.Shape.Left.md)** and **[Top](Excel.Shape.Top.md)** properties unchanged.
+Using the **ToggleVerticalText** method swaps the values of the **[Width](Excel.Shape.Width.md)** and **[Height](Excel.Shape.Height.md)** properties of the **Shape** object that represents the WordArt, and leaves the **[Left](Excel.Shape.Left.md)** and **[Top](Excel.Shape.Top.md)** properties unchanged.
 
-The  **[Flip](Excel.Shape.Flip.md)** method and **[Rotation](Excel.Shape.Rotation.md)** property of the **Shape** object and the **[RotatedChars](Excel.TextEffectFormat.RotatedChars.md)** property and **[ToggleVerticalText](Excel.TextEffectFormat.ToggleVerticalText.md)** method of the **[TextEffectFormat](Excel.TextEffectFormat.md)** object all affect the character orientation and the direction of text flow in a **Shape** object that represents WordArt. You may have to experiment to find out how to combine the effects of these properties and methods to get the result you want.
+The **[Flip](Excel.Shape.Flip.md)** method and **[Rotation](Excel.Shape.Rotation.md)** property of the **Shape** object and the **[RotatedChars](Excel.TextEffectFormat.RotatedChars.md)** property and **ToggleVerticalText** method of the **TextEffectFormat** object all affect the character orientation and the direction of text flow in a **Shape** object that represents WordArt. You may have to experiment to find out how to combine the effects of these properties and methods to get the result you want.
 
 
 ## Example
 
-This example adds WordArt that contains the text "Test" to _myDocument_ and switches from horizontal text flow (the default for the specified WordArt style, **msoTextEffect1**) to vertical text flow.
-
+This example adds WordArt that contains the text Test to _myDocument_ and switches from horizontal text flow (the default for the specified WordArt style, **msoTextEffect1**) to vertical text flow.
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -47,9 +46,6 @@ newWordArt.TextEffect.ToggleVerticalText
 ```
 
 
-## See also
 
-
-[TextEffectFormat Object](Excel.TextEffectFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,30 +7,28 @@ ms.prod: excel
 api_name:
 - Excel.TextEffectFormat.Tracking
 ms.assetid: b5190203-66c4-238b-e5b4-b61a9c70d99c
-ms.date: 06/08/2017
+ms.date: 05/17/2019
 localization_priority: Normal
 ---
 
 
 # TextEffectFormat.Tracking property (Excel)
 
-Returns or sets the ratio of the horizontal space allotted to each character in the specified WordArt to the width of the character. Can be a value from 0 (zero) through 5. (Large values for this property specify ample space between characters; values less than 1 can produce character overlap.) Read/write  **Single**.
+Returns or sets the ratio of the horizontal space allotted to each character in the specified WordArt to the width of the character. Can be a value from 0 (zero) through 5. Large values for this property specify ample space between characters; values less than 1 can produce character overlap. Read/write **Single**.
 
 
 ## Syntax
 
-_expression_. `Tracking`
+_expression_.**Tracking**
 
-_expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFormat.md) object.
+_expression_ A variable that represents a **[TextEffectFormat](Excel.TextEffectFormat.md)** object.
 
 
 ## Remarks
 
-The following table gives the values of the  **Tracking** property that correspond to the settings available in the user interface.
+The following table gives the values of the **Tracking** property that correspond to the settings available in the user interface.
 
-
-
-|**User interface setting**|**Equivalent Tracking property value**|
+|User interface setting|Equivalent Tracking property value|
 |:-----|:-----|
 |Very Tight|0.8|
 |Tight|0.9|
@@ -40,8 +38,7 @@ The following table gives the values of the  **Tracking** property that correspo
 
 ## Example
 
-This example adds WordArt that contains the text "Test" to _myDocument_ and specifies that the characters be very tightly spaced.
-
+This example adds WordArt that contains the text Test to _myDocument_ and specifies that the characters be very tightly spaced.
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -54,9 +51,5 @@ newWordArt.TextEffect.Tracking =0.8
 ```
 
 
-## See also
-
-
-[TextEffectFormat Object](Excel.TextEffectFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

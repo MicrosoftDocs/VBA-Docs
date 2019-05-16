@@ -14,20 +14,19 @@ localization_priority: Normal
 
 # TextEffectFormat.Alignment property (Excel)
 
-Returns or sets an  **[MsoTextEffectAlignment](Office.MsoTextEffectAlignment.md)** value that represents the alignment for WordArt.
+Returns or sets an **[MsoTextEffectAlignment](Office.MsoTextEffectAlignment.md)** value that represents the alignment for WordArt.
 
 
 ## Syntax
 
 _expression_.**Alignment**
 
-_expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFormat.md) object.
+_expression_ A variable that represents a **[TextEffectFormat](Excel.TextEffectFormat.md)** object.
 
 
 ## Example
 
 This example adds a WordArt object to worksheet one and then right aligns the WordArt.
-
 
 ```vb
 Set mySh = Worksheets(1).Shapes 
@@ -38,9 +37,6 @@ myTE.TextEffect.Alignment = msoTextEffectAlignmentRight
 ```
 
 
-## See also
 
-
-[TextEffectFormat Object](Excel.TextEffectFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.TextEffectFormat.Parent
 ms.assetid: d9b81d86-978c-6161-d708-c3e1b7cd70b2
-ms.date: 06/08/2017
+ms.date: 05/17/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,8 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFormat.md) object.
+_expression_ A variable that represents a **[TextEffectFormat](Excel.TextEffectFormat.md)** object.
 
 
-## See also
-
-
-[TextEffectFormat Object](Excel.TextEffectFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
