@@ -36,7 +36,7 @@ _expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFun
 
 ## Return value
 
-Double 
+**Double** 
 
 
 ## Remarks
