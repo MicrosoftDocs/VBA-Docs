@@ -19,7 +19,7 @@ Returns or sets a  **Single** that represents the inset size for the top bevel. 
 
 ## Syntax
 
-_expression_. `BevelTopInset`
+_expression_.**BevelTopInset**
 
  _expression_ An expression that returns a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 

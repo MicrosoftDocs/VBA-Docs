@@ -7,27 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.ExtrusionColor
 ms.assetid: d9c76fe5-69dc-5bdd-8882-7f06ba083947
-ms.date: 06/08/2017
+ms.date: 05/17/2019
 localization_priority: Normal
 ---
 
 
 # ThreeDFormat.ExtrusionColor property (Excel)
 
-Returns a  **[ColorFormat](Excel.ColorFormat.md)** object that represents the color of the shape's extrusion. Read-only.
+Returns a **[ColorFormat](Excel.ColorFormat.md)** object that represents the color of the shape's extrusion. Read-only.
 
 
 ## Syntax
 
-_expression_. `ExtrusionColor`
+_expression_.**ExtrusionColor**
 
-_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a **[ThreeDFormat](Excel.ThreeDFormat.md)** object.
 
 
 ## Example
 
 This example adds an oval to _myDocument_ and then specifies that the oval be extruded to a depth of 50 points and that the extrusion be purple.
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -42,9 +41,6 @@ End With
 ```
 
 
-## See also
 
-
-[ThreeDFormat Object](Excel.ThreeDFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
