@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # TimelineState.FilterValue2 property (Excel)
 
-Returns the 2nd value associated with the date filter (semantics vary by filter type).  **Variant** Read-only
+Returns the 2nd value associated with the date filter (semantics vary by filter type).  Read-only **Variant**.
 
 
 ## Syntax

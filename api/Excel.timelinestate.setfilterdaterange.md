@@ -17,14 +17,12 @@ Sets the Timeline?s filter.
 
 ## Syntax
 
-_expression_. `SetFilterDateRange`_(StartDate,_ _EndDate)_
+_expression_.**SetFilterDateRange** (_StartDate_, _EndDate_)
 
 _expression_ A variable that represents a [TimelineState](Excel.timelinestate.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -12,12 +12,12 @@ localization_priority: Normal
 
 # TimelineState.EndDate property (Excel)
 
-Returns the end of the filtering date range (equals to [TimelineState.StartDate property (Excel)](Excel.timelinestate.startdate.md) if range is a single day). **Variant** Read-only
+Returns the end of the filtering date range (equals to [TimelineState.StartDate property (Excel)](Excel.timelinestate.startdate.md) if range is a single day). Read-only **Variant**.
 
 
 ## Syntax
 
-_expression_. `EndDate`
+_expression_.**EndDate**
 
 _expression_ A variable that represents a [TimelineState](Excel.timelinestate.md) object.
 

@@ -27,14 +27,12 @@ For more information about the new functions, see the [Rank_Eq](Excel.WorksheetF
 
 ## Syntax
 
-_expression_. `Rank`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_.**Rank** (_Arg1_, _Arg2_, _Arg3_)
 
 _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

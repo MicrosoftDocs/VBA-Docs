@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDF
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Increment_|Required| **Single**|Specifies how much (in degrees) the rotation of the shape around the x-axis is to be changed. Can be a value from ?90 through 90. A positive value tilts the shape up; a negative value tilts it down.|
+| _Increment_|Required| **Single**|Specifies how much (in degrees) the rotation of the shape around the x-axis is to be changed. Can be a value from -90 through 90. A positive value tilts the shape up; a negative value tilts it down.|
 
 ## Remarks
 
