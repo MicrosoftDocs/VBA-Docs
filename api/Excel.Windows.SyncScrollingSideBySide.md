@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Windows.SyncScrollingSideBySide
 ms.assetid: 1cbc5a51-c4a3-dd30-42d1-e66c1e95c33a
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 localization_priority: Normal
 ---
 
