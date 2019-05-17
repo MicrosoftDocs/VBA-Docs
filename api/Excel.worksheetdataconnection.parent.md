@@ -5,32 +5,27 @@ f1_keywords:
 - vbaxl10.chm923075
 ms.prod: excel
 ms.assetid: 927da93a-e63a-7cda-24c2-c34a39eaffcb
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 localization_priority: Normal
 ---
 
 
 # WorksheetDataConnection.Parent property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified [WorksheetDataConnection](Excel.worksheetdataconnection.md) object. Read-only.
+Returns an **Object** that represents the parent object of the specified **WorksheetDataConnection** object. Read-only.
 
 
 ## Syntax
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [WorksheetDataConnection](Excel.worksheetdataconnection.md) object.
+_expression_ A variable that represents a **[WorksheetDataConnection](Excel.worksheetdataconnection.md)** object.
 
 
 ## Property value
 
- **OBJECT**
+**OBJECT**
 
 
-## See also
-
-
-
-[WorksheetDataConnection Object](Excel.worksheetdataconnection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetView.DisplayZeros
 ms.assetid: 7adc9302-f937-326b-40b1-feb031799736
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 localization_priority: Normal
 ---
 
 
 # WorksheetView.DisplayZeros property (Excel)
 
- **True** if zero values are displayed. Read/write **Boolean**.
+**True** if zero values are displayed. Read/write **Boolean**.
 
 
 ## Syntax
@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[WorksheetView](Excel.WorksheetView.
 This property applies only to worksheets and macro sheets.
 
 
-## See also
 
-
-[WorksheetView Object](Excel.WorksheetView.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
