@@ -21,7 +21,7 @@ Occurs after changes to a PivotTable.
 
 _expression_. `SheetPivotTableChangeSync`( `_Sh_` , `_Target_` )
 
-_expression_ A variable that represents a '[Workbook](Excel.Workbook.md)' object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
