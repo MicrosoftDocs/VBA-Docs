@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Validation.Operator
 ms.assetid: 1e21c1e5-4210-7a15-3b8f-d016e35be857
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 localization_priority: Normal
 ---
 
 
 # Validation.Operator property (Excel)
 
-Returns a **Long** value that represents the operator for the data validation.
+Returns a **Long** value that represents the operator for the data validation. See **[XlFormatConditionOperator](Excel.XlFormatConditionOperator.md)**.
 
 
 ## Syntax

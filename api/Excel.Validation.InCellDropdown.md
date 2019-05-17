@@ -7,34 +7,33 @@ ms.prod: excel
 api_name:
 - Excel.Validation.InCellDropdown
 ms.assetid: 019cf85b-831f-38f0-ea69-a30066acf30e
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 localization_priority: Normal
 ---
 
 
 # Validation.InCellDropdown property (Excel)
 
- **True** if data validation displays a drop-down list that contains acceptable values. Read/write **Boolean**.
+**True** if data validation displays a drop-down list that contains acceptable values. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `InCellDropdown`
+_expression_.**InCellDropdown**
 
-_expression_ A variable that represents a [Validation](Excel.Validation.md) object.
+_expression_ A variable that represents a **[Validation](Excel.Validation.md)** object.
 
 
 ## Remarks
 
-This property is ignored if the validation type isn't  **xlValidateList**.
+This property is ignored if the validation type isn't **xlValidateList**.
 
-Use the  _Formula1_ argument of the **Add** or **Modify** method of the **Validation** object to specify the range that contains valid data.
+Use the _Formula1_ argument of the **Add** or **Modify** method of the **Validation** object to specify the range that contains valid data.
 
 
 ## Example
 
-This example adds data validation to cell E5. The range A1:A10 contains the acceptable values for the cell and the cell displays a drop-down list that contains those values.
-
+This example adds data validation to cell E5. The range A1:A10 contains the acceptable values for the cell, and the cell displays a drop-down list that contains those values.
 
 ```vb
 With Range("e5").Validation 
@@ -43,10 +42,5 @@ With Range("e5").Validation
 End With
 ```
 
-
-## See also
-
-
-[Validation Object](Excel.Validation.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
