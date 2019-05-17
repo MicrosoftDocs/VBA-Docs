@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.UniqueValues.Parent
 ms.assetid: df768e21-93c4-cd68-cb5a-6caa6dcd8699
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[UniqueValues](Excel.UniqueValues.md)** object.
 
 
-## See also
 
-
-[UniqueValues Object](Excel.UniqueValues.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

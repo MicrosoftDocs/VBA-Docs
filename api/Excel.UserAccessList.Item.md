@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.UserAccessList.Item
 ms.assetid: 03395dce-ae25-771e-688c-19f74fd70921
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,10 @@ Returns a single object from a collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents an [UserAccessList](Excel.UserAccessList.md) object.
+_expression_ A variable that represents a **[UserAccessList](Excel.UserAccessList.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,12 +32,9 @@ _expression_ A variable that represents an [UserAccessList](Excel.UserAccessList
 
 ## Remarks
 
-For more information about returning a single member of a collection, see [Returning an Object from a Collection](../excel/Concepts/Workbooks-and-Worksheets/returning-an-object-from-a-collection-excel.md) .
+For more information about returning a single member of a collection, see [Returning an object from a collection](../excel/Concepts/Workbooks-and-Worksheets/returning-an-object-from-a-collection-excel.md).
 
 
-## See also
 
-
-[UserAccessList Object](Excel.UserAccessList.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

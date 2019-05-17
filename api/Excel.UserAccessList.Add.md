@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.UserAccessList.Add
 ms.assetid: dd3b3bc4-8618-b680-7409-c431a12374b0
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,10 @@ Adds a user access list.
 
 _expression_.**Add** (_Name_, _AllowEdit_)
 
-_expression_ A variable that represents an [UserAccessList](Excel.UserAccessList.md) object.
+_expression_ A variable that represents a **[UserAccessList](Excel.UserAccessList.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -35,12 +33,9 @@ _expression_ A variable that represents an [UserAccessList](Excel.UserAccessList
 
 ## Return value
 
-A  **[UserAccess](Excel.UserAccess.md)** object that represents the new user access list.
+A **[UserAccess](Excel.UserAccess.md)** object that represents the new user access list.
 
 
-## See also
 
-
-[UserAccessList Object](Excel.UserAccessList.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
