@@ -54,7 +54,7 @@ If either of the following conditions is true, a run-time error will occur. If m
 
 - If the XML data contains syntactical errors.
     
-- If import is cancelled because not all of the data could fit in the worksheet.
+- If import is cancelled because not all of the data could fit on the worksheet.
     
 
 ## See also

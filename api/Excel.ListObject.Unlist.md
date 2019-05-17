@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ListObject](Excel.ListObject.md)** 
 
 ## Remarks
 
-Running this method leaves the cell data, formatting, and formulas in the worksheet. The Total row is also left intact. This method removes any link to a Microsoft SharePoint Foundation site. **AutoFilter** is also removed from the list.
+Running this method leaves the cell data, formatting, and formulas on the worksheet. The Total row is also left intact. This method removes any link to a Microsoft SharePoint Foundation site. **AutoFilter** is also removed from the list.
 
 
 ## Example

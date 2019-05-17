@@ -51,7 +51,7 @@ Sub MakeBold()
  " font is what the search criteria will replace cell formats with." 
  End With 
  
- ' Make the replacements in the worksheet. 
+ ' Make the replacements on the worksheet. 
  Cells.Replace What:="", Replacement:="", _ 
  SearchFormat:=True, ReplaceFormat:=True 
  

@@ -30,7 +30,7 @@ Set objPage = ActiveWorksheet. _
 
 <br/>
 
-Use the **Item** method to access an individual **Page** object that represents an individual page in a worksheet. The following example accesses the first page on the active worksheet.
+Use the **Item** method to access an individual **Page** object that represents an individual page on a worksheet. The following example accesses the first page on the active worksheet.
 
 ```vb
 Dim objPage As Page 

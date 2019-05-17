@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ColorScale](Excel.ColorScale.md)** 
 
 ## Remarks
 
-The actual value of the priority will be equal to the total number of conditional formatting rules on the worksheet. When you have multiple conditional formatting rules in a worksheet, this method will cause the priority of rules that had a priority value greater than this rule to be decreased by one.
+The actual value of the priority will be equal to the total number of conditional formatting rules on the worksheet. When you have multiple conditional formatting rules on a worksheet, this method will cause the priority of rules that had a priority value greater than this rule to be decreased by one.
 
 > [!NOTE] 
 > Priority levels for conditional formatting rules are applied on a worksheet-level basis.

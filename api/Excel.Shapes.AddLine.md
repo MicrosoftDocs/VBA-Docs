@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shapes.AddLine method (Excel)
 
-As it applies to the **Shapes** object, returns a **[Shape](Excel.Shape.md)** object that represents the new line in a worksheet.
+As it applies to the **Shapes** object, returns a **[Shape](Excel.Shape.md)** object that represents the new line on a worksheet.
 
 
 ## Syntax

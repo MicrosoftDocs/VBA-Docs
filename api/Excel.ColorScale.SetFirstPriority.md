@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ColorScale](Excel.ColorScale.md)** 
 
 ## Remarks
 
-When you have multiple conditional formatting rules in a worksheet, if the rule was not previously set to priority "1", this method will cause the priority of all other existing rules on the worksheet to be increased by one.
+When you have multiple conditional formatting rules on a worksheet, if the rule was not previously set to priority "1", this method will cause the priority of all other existing rules on the worksheet to be increased by one.
 
 > [!NOTE] 
 > Priority levels for conditional formatting rules are applied on a worksheet-level basis.

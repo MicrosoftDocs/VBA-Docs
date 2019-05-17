@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ListObject.Active property (Excel)
 
-Returns a **Boolean** value indicating whether a **ListObject** object in a worksheet is active—that is, whether the active cell is inside the range of the **ListObject** object. Read-only **Boolean**.
+Returns a **Boolean** value indicating whether a **ListObject** object on a worksheet is active—that is, whether the active cell is inside the range of the **ListObject** object. Read-only **Boolean**.
 
 
 ## Syntax

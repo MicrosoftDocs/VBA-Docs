@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AboveAverage.Priority property (Excel)
 
-Returns or sets the priority value of the conditional formatting rule. The priority determines the order of evaluation when multiple conditional formatting rules exist in a worksheet.
+Returns or sets the priority value of the conditional formatting rule. The priority determines the order of evaluation when multiple conditional formatting rules exist on a worksheet.
 
 
 ## Syntax

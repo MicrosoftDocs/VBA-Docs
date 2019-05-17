@@ -21,7 +21,7 @@ Represents the user access for a protected range.
 
 Use the **[Add](Excel.UserAccessList.Add.md)** method or the **[Item](Excel.UserAccessList.Item.md)** property of the **UserAccessList** collection to return a **UserAccess** object.
 
-After a **UserAccess** object is returned, you can determine if access is allowed for a particular range in a worksheet by using the **AllowEdit** property. 
+After a **UserAccess** object is returned, you can determine if access is allowed for a particular range on a worksheet by using the **AllowEdit** property. 
 
 The following example adds a range that can be edited on a protected worksheet and notifies the user of the title of that range.
 

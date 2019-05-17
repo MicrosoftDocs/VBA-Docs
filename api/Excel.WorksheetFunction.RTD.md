@@ -31,35 +31,35 @@ _expression_. `RTD`( `_progID_` , `_server_` , `_topic1_` , `_topic2_` , `_topic
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _progID_|Required| **Variant**|A string representing the real-time server programmatic identifier.|
-| _server_|Required| **Variant**|A server name,  **Null** string or **vbNullString** constant.|
-| _topic1_|Required| **Variant**|A  **String** representing a topic.|
-| _topic2_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic3_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic4_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic5_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic6_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic7_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic8_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic9_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic10_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic11_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic12_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic13_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic14_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic15_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic16_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic17_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic18_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic19_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic20_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic21_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic22_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic23_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic24_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic25_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic26_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic27_|Optional| **Variant**|A  **String** representing a topic.|
-| _topic28_|Optional| **Variant**|A  **String** representing a topic.|
+| _server_|Required| **Variant**|A server name, **Null** string or **vbNullString** constant.|
+| _topic1_|Required| **Variant**|A **String** representing a topic.|
+| _topic2_|Optional| **Variant**|A **String** representing a topic.|
+| _topic3_|Optional| **Variant**|A **String** representing a topic.|
+| _topic4_|Optional| **Variant**|A **String** representing a topic.|
+| _topic5_|Optional| **Variant**|A **String** representing a topic.|
+| _topic6_|Optional| **Variant**|A **String** representing a topic.|
+| _topic7_|Optional| **Variant**|A **String** representing a topic.|
+| _topic8_|Optional| **Variant**|A **String** representing a topic.|
+| _topic9_|Optional| **Variant**|A **String** representing a topic.|
+| _topic10_|Optional| **Variant**|A **String** representing a topic.|
+| _topic11_|Optional| **Variant**|A **String** representing a topic.|
+| _topic12_|Optional| **Variant**|A **String** representing a topic.|
+| _topic13_|Optional| **Variant**|A **String** representing a topic.|
+| _topic14_|Optional| **Variant**|A **String** representing a topic.|
+| _topic15_|Optional| **Variant**|A **String** representing a topic.|
+| _topic16_|Optional| **Variant**|A **String** representing a topic.|
+| _topic17_|Optional| **Variant**|A **String** representing a topic.|
+| _topic18_|Optional| **Variant**|A **String** representing a topic.|
+| _topic19_|Optional| **Variant**|A **String** representing a topic.|
+| _topic20_|Optional| **Variant**|A **String** representing a topic.|
+| _topic21_|Optional| **Variant**|A **String** representing a topic.|
+| _topic22_|Optional| **Variant**|A **String** representing a topic.|
+| _topic23_|Optional| **Variant**|A **String** representing a topic.|
+| _topic24_|Optional| **Variant**|A **String** representing a topic.|
+| _topic25_|Optional| **Variant**|A **String** representing a topic.|
+| _topic26_|Optional| **Variant**|A **String** representing a topic.|
+| _topic27_|Optional| **Variant**|A **String** representing a topic.|
+| _topic28_|Optional| **Variant**|A **String** representing a topic.|
 
 ## Return value
 
@@ -68,7 +68,7 @@ Variant
 
 ## Remarks
 
-The  _server_ argument is required in Visual Basic for Applications (VBA), even though it can be omitted within a worksheet.
+The _server_ argument is required in Visual Basic for Applications (VBA), even though it can be omitted on a worksheet.
 
 
 ## See also
