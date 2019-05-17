@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.VPageBreak.DragOff
 ms.assetid: 93e169e8-e2d6-4cca-bd82-2d11fdc1ae4c
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Drags a page break out of the print area.
 
 ## Syntax
 
-_expression_. `DragOff`( `_Direction_` , `_RegionIndex_` )
+_expression_.**DragOff** (_Direction_, _RegionIndex_)
 
-_expression_ A variable that represents a [VPageBreak](Excel.VPageBreak.md) object.
+_expression_ A variable that represents a **[VPageBreak](Excel.VPageBreak.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -35,22 +33,18 @@ _expression_ A variable that represents a [VPageBreak](Excel.VPageBreak.md) obje
 
 ## Remarks
 
-This method exists primarily for the macro recorder. You can use the  **[Delete](Excel.VPageBreak.Delete.md)** method to delete a page break in Visual Basic.
+This method exists primarily for the macro recorder. You can use the **[Delete](Excel.VPageBreak.Delete.md)** method to delete a page break in Visual Basic.
 
 
 ## Example
 
-This example deletes vertical page break one from the active sheet by dragging it off the right edge of print region one.
-
+This example deletes vertical page-break one from the active sheet by dragging it off the right edge of print region one.
 
 ```vb
 ActiveSheet.VPageBreaks(1).DragOff xlToRight, 1
 ```
 
 
-## See also
 
-
-[VPageBreak Object](Excel.VPageBreak.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
