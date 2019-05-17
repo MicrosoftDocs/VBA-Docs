@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Workbook.DefaultTimelineStyle property (Excel)
 
-The name of the default slicer style of the workbook.  **Variant**. Read/Write
+The name of the default slicer style of the workbook.  **Variant**. Read/write
 
 
 ## Syntax

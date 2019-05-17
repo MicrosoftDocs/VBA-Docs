@@ -7,21 +7,21 @@ ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.Depth
 ms.assetid: 1fce69d1-6813-1f92-d457-6a6c36de7dba
-ms.date: 06/08/2017
+ms.date: 05/17/2019
 localization_priority: Normal
 ---
 
 
 # ThreeDFormat.Depth property (Excel)
 
-Returns or sets a  **Single** value that represents the depth of the shape's extrusion.
+Returns or sets a **Single** value that represents the depth of the shape's extrusion.
 
 
 ## Syntax
 
-_expression_. `Depth`
+_expression_.**Depth**
 
-_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a **[ThreeDFormat](Excel.ThreeDFormat.md)** object.
 
 
 ## Remarks
@@ -32,7 +32,6 @@ The value of this property can be a value from -600 through 9600 (positive value
 ## Example
 
 This example adds an oval to myDocument and then specifies that the oval be extruded to a depth of 50 points and that the extrusion be purple.
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -47,9 +46,6 @@ End With
 ```
 
 
-## See also
 
-
-[ThreeDFormat Object](Excel.ThreeDFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

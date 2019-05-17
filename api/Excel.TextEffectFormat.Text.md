@@ -7,26 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.TextEffectFormat.Text
 ms.assetid: f2d870d3-52c0-547c-78b9-4bba7aff06bb
-ms.date: 06/08/2017
+ms.date: 05/17/2019
 localization_priority: Normal
 ---
 
 
 # TextEffectFormat.Text property (Excel)
 
-Returns or sets the text for the specified object. Read/write  **String**.
+Returns or sets the text for the specified object. Read/write **String**.
 
 
 ## Syntax
 
 _expression_.**Text**
 
-_expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFormat.md) object.
+_expression_ A variable that represents a **[TextEffectFormat](Excel.TextEffectFormat.md)** object.
 
 
-## See also
 
-
-[TextEffectFormat Object](Excel.TextEffectFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

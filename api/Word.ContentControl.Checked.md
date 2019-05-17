@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContentControl.Checked property (Word)
 
-Returns or sets a  **Boolean** that represents the current state (checked/unchecked) for a check box. Read/Write.
+Returns or sets a  **Boolean** that represents the current state (checked/unchecked) for a check box. Read/write.
 
 
 ## Syntax

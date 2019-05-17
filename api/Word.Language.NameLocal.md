@@ -19,7 +19,7 @@ Returns the name of a proofing tool language in the language of the user. Read-o
 
 ## Syntax
 
-_expression_. `NameLocal`
+_expression_.**NameLocal**
 
 _expression_ Required. A variable that represents a '[Language](Word.Language.md)' object.
 

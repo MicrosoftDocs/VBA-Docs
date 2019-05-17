@@ -19,9 +19,9 @@ Determines whether lines of text break automatically to fit inside the shape. Re
 
 ## Syntax
 
-_expression_. `WordWrap`
+_expression_.**WordWrap**
 
- _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
+ _expression_ An expression that returns a **[TextFrame2](PowerPoint.TextFrame2.md)** object.
 
 
 ## Return value

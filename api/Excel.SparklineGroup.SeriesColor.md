@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[SparklineGroup](Excel.SparklineGrou
 
 ## Return value
 
-FormatColor
+**FormatColor**
 
 
 

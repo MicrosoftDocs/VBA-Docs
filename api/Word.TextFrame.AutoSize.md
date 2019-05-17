@@ -19,9 +19,9 @@ Returns or sets a  **Long** that represents whether a text frame is sized automa
 
 ## Syntax
 
-_expression_. `AutoSize`
+_expression_.**AutoSize**
 
-_expression_ Required. A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
+_expression_ Required. A variable that represents a **[TextFrame](Word.TextFrame.md)** object.
 
 
 ## See also

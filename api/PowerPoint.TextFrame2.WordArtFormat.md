@@ -21,7 +21,7 @@ Returns or sets the WordArt type for the specified text frame. Read/write.
 
 _expression_. `WordArtFormat`
 
- _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
+ _expression_ An expression that returns a **[TextFrame2](PowerPoint.TextFrame2.md)** object.
 
 
 ## Return value

@@ -1,5 +1,8 @@
 ---
 title: Author.ProviderID property (Excel)
+keywords: vbaxl10.chm1012074
+f1_keywords:
+- vbaxl10.chm1012074
 ms.prod: excel
 api_name:
 - Excel.Author.ProviderID

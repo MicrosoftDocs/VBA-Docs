@@ -1,5 +1,8 @@
 ---
 title: Range.CommentThreaded property (Excel)
+keywords: vbaxl10.chm144260
+f1_keywords:
+- vbaxl10.chm144260
 ms.prod: excel
 api_name:
 - Excel.Range.CommentThreaded

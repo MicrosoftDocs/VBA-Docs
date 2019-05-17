@@ -1,5 +1,8 @@
 ---
 title: Workbook.ConvertComments method (Excel)
+keywords: vbaxl10.chm199288
+f1_keywords:
+- vbaxl10.chm199288
 ms.prod: excel
 api_name:
 - Excel.Workbook.ConvertComments

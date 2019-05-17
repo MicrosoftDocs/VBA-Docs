@@ -36,7 +36,7 @@ _expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFun
 
 ## Return value
 
-A Double value that represents the subtotal.
+A **Double** value that represents the subtotal.
 
 
 ## See also

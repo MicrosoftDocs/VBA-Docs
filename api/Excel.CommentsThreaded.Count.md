@@ -1,5 +1,8 @@
 ---
 title: CommentsThreaded.Count property (Excel)
+keywords: vbaxl10.chm1008073
+f1_keywords:
+- vbaxl10.chm1008073
 ms.prod: excel
 api_name:
 - Excel.CommentsThreaded.Count

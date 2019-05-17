@@ -21,7 +21,7 @@ Breaks the forward link for the specified text frame, if such a link exists.
 
 _expression_. `BreakForwardLink`
 
-_expression_ Required. A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
+_expression_ Required. A variable that represents a **[TextFrame](Word.TextFrame.md)** object.
 
 
 ## Remarks

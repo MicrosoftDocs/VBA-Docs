@@ -7,30 +7,25 @@ ms.prod: excel
 api_name:
 - Excel.Tab.Color
 ms.assetid: f1ae9dad-2476-8594-9a89-6cf126854169
-ms.date: 08/29/2018
+ms.date: 05/17/2019
 localization_priority: Normal
 ---
 
 
 # Tab.Color property (Excel)
 
-Returns or sets the primary color of the object, as shown in the table in the remarks section. Use the  **RGB** function to create a color value. Read/write **Variant**.
-
+Returns or sets the primary color of the object, as shown in the table in the remarks section. Use the **[RGB](../Language/Reference/User-Interface-Help/rgb-function.md)** function to create a color value. Read/write **Variant**.
 
 ## Syntax
 
 _expression_.**Color**
 
- _expression_ An expression that returns a [Tab](Excel.Tab.md) object.
+_expression_ An expression that returns a **[Tab](Excel.Tab.md)** object.
 
 
 ## Remarks
 
-
-
-
-
-|**Object**|**Color**|
+|Object|Color|
 |:-----|:-----|
 | **Border**|The color of the border.|
 | **Borders**|The color of all four borders of a range. If they're not all the same color, **Color** returns 0 (zero).|
@@ -42,17 +37,11 @@ _expression_.**Color**
 
 This example sets the color of the tick-mark labels on the value axis on Chart1.
 
-
 ```vb
 Charts("Chart1").Axes(xlValue).TickLabels.Font.Color = _ 
  RGB(0, 255, 0)
 ```
 
 
-## See also
-
-[Tab Object](Excel.Tab.md)
-
-[RGB Function](../Language/Reference/User-Interface-Help/rgb-function.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

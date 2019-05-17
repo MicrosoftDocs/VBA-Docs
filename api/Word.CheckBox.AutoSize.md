@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `AutoSize`
+_expression_.**AutoSize**
 
 _expression_ Required. A variable that represents a '[CheckBox](Word.CheckBox.md)' object.
 

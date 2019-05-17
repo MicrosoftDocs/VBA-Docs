@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Options.UseWizardForBlankPublication property (Publisher)
 
-Gets or sets whether to use a wizard for blank publications. Read/Write.
+Gets or sets whether to use a wizard for blank publications. Read/write.
 
 
 ## Syntax

@@ -19,9 +19,9 @@ Returns a  **[Range](Word.Range.md)** object that represents the text in the spe
 
 ## Syntax
 
-_expression_. `TextRange`
+_expression_.**TextRange**
 
- _expression_ An expression that returns a '[TextFrame](Word.TextFrame.md)' object.
+ _expression_ An expression that returns a **[TextFrame](Word.TextFrame.md)** object.
 
 
 ## Example

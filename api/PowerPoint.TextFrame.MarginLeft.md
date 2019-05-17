@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # TextFrame.MarginLeft property (PowerPoint)
 
-Returns or sets the distance (in points) between the left edge of the text frame and the left edge of the inscribed rectangle of the shape that contains the text. Read/write.
+Returns or sets the distance (in [points](../language/glossary/vbe-glossary.md#point)) between the left edge of the text frame and the left edge of the inscribed rectangle of the shape that contains the text. Read/write.
 
 
 ## Syntax
 
-_expression_. `MarginLeft`
+_expression_.**MarginLeft**
 
-_expression_ A variable that represents a [TextFrame](./PowerPoint.TextFrame.md) object.
+_expression_ A variable that represents a **[TextFrame](PowerPoint.TextFrame.md)** object.
 
 
 ## Return value

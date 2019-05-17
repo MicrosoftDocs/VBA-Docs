@@ -7,39 +7,27 @@ ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.PresetLightingSoftness
 ms.assetid: e63a483b-16c6-edab-6a16-b539f0a424cb
-ms.date: 06/08/2017
+ms.date: 05/17/2019
 localization_priority: Normal
 ---
 
 
 # ThreeDFormat.PresetLightingSoftness property (Excel)
 
-Returns or sets the intensity of the extrusion lighting. Read/write  **MsoPresetLightingSoftness**.
+Returns or sets the intensity of the extrusion lighting. Read/write **[MsoPresetLightingSoftness](office.msopresetlightingsoftness.md)**.
 
 
 ## Syntax
 
-_expression_. `PresetLightingSoftness`
+_expression_.**PresetLightingSoftness**
 
-_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
-
-
-## Remarks
+_expression_ A variable that represents a **[ThreeDFormat](Excel.ThreeDFormat.md)** object.
 
 
-
-
-
-| **MsoPresetLightingSoftness** can be one of these **MsoPresetLightingSoftness** constants.|
-| **msoLightingBright**|
-| **msoLightingDim**|
-| **msoLightingNormal**|
-| **msoPresetLightingSoftnessMixed**|
 
 ## Example
 
 This example specifies that the extrusion for shape one on _myDocument_ be lit brightly from the left.
-
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -51,9 +39,6 @@ End With
 ```
 
 
-## See also
 
-
-[ThreeDFormat Object](Excel.ThreeDFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

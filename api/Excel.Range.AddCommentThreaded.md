@@ -1,5 +1,8 @@
 ---
 title: Range.AddCommentThreaded method (Excel)
+keywords: vbaxl10.chm144259
+f1_keywords:
+- vbaxl10.chm144259
 ms.prod: excel
 api_name:
 - Excel.Range.AddCommentThreaded

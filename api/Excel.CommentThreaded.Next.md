@@ -1,5 +1,8 @@
 ---
 title: CommentThreaded.Next method (Excel)
+keywords: vbaxl10.chm1010079
+f1_keywords:
+- vbaxl10.chm1010079
 ms.prod: excel
 api_name:
 - Excel.CommentThreaded.Next

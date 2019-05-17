@@ -21,7 +21,7 @@ Returns a  **Shape** object that represents the parent shape of the text frame.
 
 _expression_.**Parent**
 
-_expression_ Required. A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
+_expression_ Required. A variable that represents a **[TextFrame](Word.TextFrame.md)** object.
 
 
 ## See also

@@ -1,5 +1,8 @@
 ---
 title: CommentsThreaded.Item method (Excel)
+keywords: vbaxl10.chm1008074
+f1_keywords:
+- vbaxl10.chm1008074
 ms.prod: excel
 api_name:
 - Excel.CommentsThreaded.Item
