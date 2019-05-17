@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Watches.Parent
 ms.assetid: a3b33f25-1f10-db42-e5a8-7c3dbe121933
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [Watches](Excel.Watches.md) object.
+_expression_ A variable that represents a **[Watches](Excel.Watches.md)** object.
 
 
-## See also
 
-
-[Watches Object](Excel.Watches.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
