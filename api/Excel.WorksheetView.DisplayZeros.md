@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `DisplayZeros`
+_expression_.**DisplayZeros**
 
 _expression_ A variable that represents a **[WorksheetView](Excel.WorksheetView.md)** object.
 

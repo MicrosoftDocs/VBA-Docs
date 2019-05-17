@@ -17,7 +17,7 @@ Sets or returns a [WdRevisionsView](Word.WdRevisionsView.md) constant that repre
 
 ## Syntax
 
-_expression_. `View`
+_expression_.**View**
 
 _expression_ A variable that represents a 'RevisionsFilter' object.
 

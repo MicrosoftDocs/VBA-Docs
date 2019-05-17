@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `DisplayGridlines`
+_expression_.**DisplayGridlines**
 
 _expression_ A variable that represents a **[WorksheetView](Excel.WorksheetView.md)** object.
 

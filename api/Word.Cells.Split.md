@@ -19,14 +19,12 @@ Splits a range of table cells.
 
 ## Syntax
 
-_expression_. `Split`( `_NumRows_` , `_NumColumns_` , `_MergeBeforeSplit_` )
+_expression_.**Split** (_NumRows_, _NumColumns_, _MergeBeforeSplit_)
 
 _expression_ Required. A variable that represents a '[Cells](Word.cells.md)' collection.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

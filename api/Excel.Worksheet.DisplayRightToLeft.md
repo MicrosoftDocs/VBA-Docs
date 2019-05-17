@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `DisplayRightToLeft`
+_expression_.**DisplayRightToLeft**
 
 _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 

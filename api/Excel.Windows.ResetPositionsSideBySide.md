@@ -21,7 +21,7 @@ Resets the position of two worksheet windows that are being compared side by sid
 
 _expression_. `ResetPositionsSideBySide`
 
-_expression_ A variable that represents a [Windows](Excel.Windows.md) object.
+_expression_ A variable that represents a **[Windows](Excel.Windows.md)** object.
 
 
 ## Remarks

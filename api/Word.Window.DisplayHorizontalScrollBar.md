@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `DisplayHorizontalScrollBar`
+_expression_.**DisplayHorizontalScrollBar**
 
 _expression_ A variable that represents a '[Window](Word.Window.md)' object.
 

@@ -21,7 +21,7 @@ Returns or sets the number of the row that appears at the top of the pane or win
 
 _expression_.**ScrollRow**
 
-_expression_ A variable that represents a [Window](Excel.Window.md) object.
+_expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 
 ## Remarks

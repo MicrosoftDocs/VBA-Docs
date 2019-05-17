@@ -21,7 +21,7 @@ Occurs before changes are committed against the OLAP data source for a PivotTabl
 
 _expression_. `SheetPivotTableBeforeCommitChanges`( `_Sh_` , `_TargetPivotTable_` , `_ValueChangeStart_` , `_ValueChangeEnd_` , `_Cancel_` )
 
-_expression_ A variable that represents a '[Workbook](Excel.Workbook.md)' object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters

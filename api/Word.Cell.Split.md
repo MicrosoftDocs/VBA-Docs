@@ -19,14 +19,12 @@ Splits a single table cell into multiple cells.
 
 ## Syntax
 
-_expression_. `Split`( `_NumRows_` , `_NumColumns_` )
+_expression_.**Split** (_NumRows_, _NumColumns_)
 
 _expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

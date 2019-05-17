@@ -19,7 +19,7 @@ Returns a  **[View](Word.View.md)** object that represents the view for the spec
 
 ## Syntax
 
-_expression_. `View`
+_expression_.**View**
 
 _expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
 

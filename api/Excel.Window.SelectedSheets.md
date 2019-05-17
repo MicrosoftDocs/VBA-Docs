@@ -21,7 +21,7 @@ Returns a  **[Sheets](Excel.Sheets.md)** collection that represents all the sele
 
 _expression_. `SelectedSheets`
 
-_expression_ A variable that represents a [Window](Excel.Window.md) object.
+_expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 
 ## Example

@@ -19,7 +19,7 @@ Returns a  **[Panes](PowerPoint.Panes.md)** collection that represents the panes
 
 ## Syntax
 
-_expression_. `Panes`
+_expression_.**Panes**
 
 _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 

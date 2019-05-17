@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Windows.SyncScrollingSideBySide property (Excel)
 
- **True** enables scrolling the contents of windows at the same time when documents are being compared side by side. **False** disables scrolling the windows at the same time.
+**True** enables scrolling the contents of windows at the same time when documents are being compared side by side. **False** disables scrolling the windows at the same time.
 
 
 ## Syntax
 
-_expression_. `SyncScrollingSideBySide`
+_expression_.**SyncScrollingSideBySide**
 
-_expression_ A variable that represents a [Windows](Excel.Windows.md) object.
+_expression_ A variable that represents a **[Windows](Excel.Windows.md)** object.
 
 
 ## See also

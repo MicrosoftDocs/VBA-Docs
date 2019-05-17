@@ -19,7 +19,7 @@ Divides an existing subdocument into two subdocuments at the same level in maste
 
 ## Syntax
 
-_expression_. `Split`( `_Range_` )
+_expression_.**Split** (_Range_)
 
 _expression_ Required. A variable that represents a '[Subdocument](Word.Subdocument.md)' object.
 

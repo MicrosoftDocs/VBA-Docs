@@ -19,14 +19,12 @@ Splits a single table cell into multiple cells.
 
 ## Syntax
 
-_expression_. `Split`( `_NumRows_`, `_NumColumns_` )
+_expression_.**Split** (_NumRows_, _NumColumns_)
 
 _expression_ A variable that represents a [Cell](./PowerPoint.Cell.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

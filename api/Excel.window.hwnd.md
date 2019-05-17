@@ -19,7 +19,7 @@ Returns a  **Long** that indicates the window handle of the specified window. Re
 
 _expression_.**hWnd**
 
-_expression_ A variable that represents a [Window](Excel.Window.md) object.
+_expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 
 ## Property value

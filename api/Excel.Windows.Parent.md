@@ -21,7 +21,7 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [Windows](Excel.Windows.md) object.
+_expression_ A variable that represents a **[Windows](Excel.Windows.md)** object.
 
 
 ## See also
