@@ -7,26 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.Trendline.Format
 ms.assetid: 46c65fb6-98d3-4549-c63d-37c919f99ade
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 localization_priority: Normal
 ---
 
 
 # Trendline.Format property (Excel)
 
-Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
+Returns the **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 
 
 ## Syntax
 
 _expression_.**Format**
 
-_expression_ A variable that represents a [Trendline](Excel.Trendline-graph-object.md) object.
+_expression_ A variable that represents a **[Trendline](Excel.Trendline(object).md)** object.
 
 
-## See also
 
-
-[Trendline Object](Excel.Trendline(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
