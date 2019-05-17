@@ -7,26 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.Workbooks.CheckOut
 ms.assetid: 11b9eb2a-8c9a-6e61-63e2-554030243388
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 localization_priority: Normal
 ---
 
 
 # Workbooks.CheckOut method (Excel)
 
-Returns a  **String** representing a specified workbook from a server to a local computer for editing.
+Returns a **String** representing a specified workbook from a server to a local computer for editing.
 
 
 ## Syntax
 
-_expression_. `CheckOut`( `_FileName_` )
+_expression_.**CheckOut** (_FileName_)
 
-_expression_ A variable that represents a [Workbooks](Excel.Workbooks.md) object.
+_expression_ A variable that represents a **[Workbooks](Excel.Workbooks.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -35,7 +33,6 @@ _expression_ A variable that represents a [Workbooks](Excel.Workbooks.md) object
 ## Example
 
 This example verifies that a workbook is not checked out by another user and can be checked out. If the workbook can be checked out, it copies the workbook to the local computer for editing.
-
 
 ```vb
 Sub UseCheckOut(docCheckOut As String) 
@@ -51,9 +48,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[Workbooks Object](Excel.Workbooks.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -4,7 +4,7 @@ keywords: vbaxl10.chm973075
 f1_keywords:
 - vbaxl10.chm973075
 ms.assetid: 246acb77-2a0b-b988-48ba-a18f0d6e0361
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 ms.prod: excel
 localization_priority: Normal
 ---
@@ -19,12 +19,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a 'WorkbookQuery' object.
+_expression_ A variable that represents a **[WorkbookQuery](Excel.WorkbookQuery.md)** object.
 
 
-## See also
 
-
-[WorkbookQuery Object](Excel.workbookquery.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

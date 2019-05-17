@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbooks.CanCheckOut
 ms.assetid: 06259bbd-2e55-3fbe-d08c-094985cb9fff
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `CanCheckOut`( `_FileName_` )
+_expression_.**CanCheckOut** (_FileName_)
 
-_expression_ A variable that represents a [Workbooks](Excel.Workbooks.md) object.
+_expression_ A variable that represents a **[Workbooks](Excel.Workbooks.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -40,7 +38,6 @@ Boolean
 ## Example
 
 This example verifies that a workbook is not checked out by another user and can be checked out. If the workbook can be checked out, it copies the workbook to the local computer for editing.
-
 
 ```vb
 Sub UseCanCheckOut(docCheckOut As String) 
@@ -56,9 +53,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[Workbooks Object](Excel.Workbooks.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
