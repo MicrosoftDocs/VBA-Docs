@@ -35,7 +35,7 @@ Setting the  **SubAddress** property of a shape's **Hyperlink** object is option
 
 Setting a hyperlink's  **SubAddress** property is equivalent to entering information in the **Sub-address** box in the **Hyperlinks** dialog box (on the **Insert** tab, click **Hyperlink**). This is also equivalent to setting the result of the SubAddress cell in the shape's Hyperlink. _name_ row in the ShapeSheet window.
 
-The  **SubAddress** property for a **Hyperlink** object specifies a sublocation within the hyperlink's address. For Microsoft Visio files, this can be a page name. For Microsoft Excel, this can be a worksheet or a range within a worksheet. For HTML pages, this can be a subanchor.
+The  **SubAddress** property for a **Hyperlink** object specifies a sublocation within the hyperlink's address. For Microsoft Visio files, this can be a page name. For Microsoft Excel, this can be a worksheet or a range on a worksheet. For HTML pages, this can be a subanchor.
 
 The hyperlink address for which a subaddress is being supplied must support subaddress linking.
 

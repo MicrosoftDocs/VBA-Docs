@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Worksheet.ListObjects property (Excel)
 
-Returns a collection of  **[ListObject](Excel.ListObject.md)** objects in the worksheet. Read-only **ListObjects** collection.
+Returns a collection of  **[ListObject](Excel.ListObject.md)** objects on the worksheet. Read-only **ListObjects** collection.
 
 
 ## Syntax

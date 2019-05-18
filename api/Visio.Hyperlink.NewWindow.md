@@ -19,7 +19,7 @@ Determines whether Microsoft Visio opens a window in a new location when it foll
 
 ## Syntax
 
-_expression_. `NewWindow`
+_expression_.**NewWindow**
 
 _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 

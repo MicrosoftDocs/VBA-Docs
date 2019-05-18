@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shapes.AddShape method (Excel)
 
-Returns a **[Shape](Excel.Shape.md)** object that represents the new AutoShape in a worksheet.
+Returns a **[Shape](Excel.Shape.md)** object that represents the new AutoShape on a worksheet.
 
 
 ## Syntax

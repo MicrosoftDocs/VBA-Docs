@@ -21,7 +21,7 @@ Occurs after the workbook is saved.
 
 _expression_. `AfterSave`( `_Success_` )
 
-_expression_ A variable that represents a '[Workbook](Excel.Workbook.md)' object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters

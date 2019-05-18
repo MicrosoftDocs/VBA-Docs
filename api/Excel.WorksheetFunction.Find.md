@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WorksheetFunction.Find method (Excel)
 
-Finds specific information in a worksheet.
+Finds specific information on a worksheet.
 
 
 ## Syntax

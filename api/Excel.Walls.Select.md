@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Walls.Select
 ms.assetid: 4851d3e4-b119-8c40-47f6-60d21766ffb1
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Selects the object.
 
 _expression_.**Select**
 
-_expression_ A variable that represents a [Walls](Excel.Walls-graph-property.md) object.
+_expression_ A variable that represents a **[Walls](Excel.Walls(object).md)** object.
 
 
 ## Return value
@@ -29,9 +29,6 @@ _expression_ A variable that represents a [Walls](Excel.Walls-graph-property.md)
 Variant
 
 
-## See also
 
-
-[Walls Object](Excel.Walls(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shapes.AddCurve method (Excel)
 
-Returns a **[Shape](Excel.Shape.md)** object that represents a Bézier curve in a worksheet.
+Returns a **[Shape](Excel.Shape.md)** object that represents a Bézier curve on a worksheet.
 
 
 ## Syntax

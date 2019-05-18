@@ -14,19 +14,19 @@ localization_priority: Normal
 
 # Windows.SyncScrollingSideBySide property (Word)
 
- **True** enables scrolling the contents of the windows at the same time. Read/write **Boolean**.
+**True** enables scrolling the contents of the windows at the same time. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `SyncScrollingSideBySide`
+_expression_.**SyncScrollingSideBySide**
 
- _expression_ An expression that returns a 'Windows' collection.
+_expression_ An expression that returns a **[Windows](Word.Windows.md)** object.
 
 
 ## Remarks
 
- **False** disables scrolling the windows at the same time.
+**False** disables scrolling the windows at the same time.
 
 
 ## Example

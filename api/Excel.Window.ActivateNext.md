@@ -19,9 +19,9 @@ Activates the specified window and then sends it to the back of the window z-ord
 
 ## Syntax
 
-_expression_. `ActivateNext`
+_expression_.**ActivateNext**
 
-_expression_ A variable that represents a [Window](Excel.Window.md) object.
+_expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 
 ## Return value
@@ -33,15 +33,10 @@ Variant
 
 This example sends the active window to the back of the z-order.
 
-
 ```vb
 ActiveWindow.ActivateNext
 ```
 
 
-## See also
-
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

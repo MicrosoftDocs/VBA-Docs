@@ -19,9 +19,9 @@ Returns a  **[Panes](Excel.Panes.md)** collection that represents all the panes 
 
 ## Syntax
 
-_expression_. `Panes`
+_expression_.**Panes**
 
-_expression_ A variable that represents a [Window](Excel.Window.md) object.
+_expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 
 ## Remarks

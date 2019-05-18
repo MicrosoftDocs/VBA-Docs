@@ -19,7 +19,7 @@ Returns a **[Worksheet](excel.worksheet.md)** object that represents the active 
 
 ## Syntax
 
-_expression_. `ActiveSheet`
+_expression_.**ActiveSheet**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

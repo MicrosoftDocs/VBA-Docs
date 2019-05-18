@@ -78,7 +78,7 @@ Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean
    Cancel = True
    
    'Set the path to the files, the path to Notepad, the file extension of the files, and the names of the files,
-   'based on the information in the worksheet.
+   'based on the information on the worksheet.
    sPath = Range("D1").Value
    sExe = Range("D2").Value
    sSfx = Range("D3").Value

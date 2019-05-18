@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Walls.PictureType
 ms.assetid: 832115e2-1711-9952-d845-d56aa16808cd
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns or sets a **Variant** value that represents the way pictures are display
 
 _expression_.**PictureType**
 
-_expression_ A variable that represents a [Walls](Excel.Walls-graph-property.md) object.
+_expression_ A variable that represents a **[Walls](Excel.Walls(object).md)** object.
 
 
 ## Remarks

@@ -7,32 +7,31 @@ ms.prod: excel
 api_name:
 - Excel.TickLabels.Offset
 ms.assetid: a353b803-34a3-0ff9-83d2-3318c308ec35
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 localization_priority: Normal
 ---
 
 
 # TickLabels.Offset property (Excel)
 
-Returns or sets a  **Long** value that represents the distance between the levels of labels, and the distance between the first level and the axis line.
+Returns or sets a **Long** value that represents the distance between the levels of labels, and the distance between the first level and the axis line.
 
 
 ## Syntax
 
 _expression_.**Offset**
 
-_expression_ A variable that represents a [TickLabels](Excel.TickLabels-graph-property.md) object.
+_expression_ A variable that represents a **[TickLabels](Excel.TickLabels(object).md)** object.
 
 
 ## Remarks
 
- The default distance is 100 percent, which represents the default spacing between the axis labels and the axis line. The value can be an integer percentage from 0 through 1000, relative to the axis label's font size.
+The default distance is 100 percent, which represents the default spacing between the axis labels and the axis line. The value can be an integer percentage from 0 through 1000, relative to the axis label's font size.
 
 
 ## Example
 
-This example sets the label spacing of the category axis on Chart1 to twice the current setting, if the offset is less than 500.
-
+This example sets the label spacing of the category axis on Chart1 to twice the current setting if the offset is less than 500.
 
 ```vb
 With Charts("Chart1").Axes(xlCategory).TickLabels 
@@ -43,9 +42,6 @@ End With
 ```
 
 
-## See also
 
-
-[TickLabels Object](Excel.TickLabels(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

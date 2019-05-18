@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ListObjects object (Excel)
 
-A collection of all the **[ListObject](Excel.ListObject.md)** objects on a worksheet. Each **ListObject** object represents a table in the worksheet.
+A collection of all the **[ListObject](Excel.ListObject.md)** objects on a worksheet. Each **ListObject** object represents a table on the worksheet.
 
 
 ## Remarks
@@ -24,7 +24,7 @@ Use the **[ListObjects](Excel.Worksheet.ListObjects.md)** property of the **Work
 
 ## Example
 
-The following example creates a new **ListObjects** collection that represents all the tables in a worksheet.
+The following example creates a new **ListObjects** collection that represents all the tables on a worksheet.
 
 ```vb
 Set myWorksheetLists = Worksheets(1).ListObjects

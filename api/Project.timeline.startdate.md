@@ -14,7 +14,7 @@ Indicates the start date for a  **Timeline** bar based on the input argument. In
 
 ## Syntax
 
-_expression_. `StartDate`
+_expression_.**StartDate**
 
 _expression_ A variable that represents a 'Timeline' object.
 

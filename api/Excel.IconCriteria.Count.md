@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # IconCriteria.Count property (Excel)
 
-Returns a **Long** value that specifies the number of criteria for an icon set conditional format rule. Read-only.
+Returns a **Long** value that specifies the number of criteria for an icon set conditional formatting rule. Read-only.
 
 
 ## Syntax

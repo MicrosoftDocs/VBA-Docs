@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.VPageBreaks.Item
 ms.assetid: 88e9cc81-409b-52ca-3d4e-54d3d28f186c
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,10 @@ Returns a single object from a collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [VPageBreaks](Excel.VPageBreaks.md) object.
+_expression_ A variable that represents a **[VPageBreaks](Excel.VPageBreaks.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,17 +32,12 @@ _expression_ A variable that represents a [VPageBreaks](Excel.VPageBreaks.md) ob
 
 ## Example
 
-This example changes the location of vertical page break one.
-
+This example changes the location of vertical page-break one.
 
 ```vb
 Worksheets(1).VPageBreaks.Item(1).Location = .Range("e5")
 ```
 
 
-## See also
-
-
-[VPageBreaks Object](Excel.VPageBreaks.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -38,7 +38,7 @@ Nothing
 
 ## Remarks
 
-The **WorkbookNewChart** event occurs when a new chart is inserted or pasted in a worksheet, a chart sheet, or other sheet types. If multiple charts are inserted or pasted, the event will occur for each chart in the order they are inserted or pasted. 
+The **WorkbookNewChart** event occurs when a new chart is inserted or pasted on a worksheet, a chart sheet, or other sheet types. If multiple charts are inserted or pasted, the event will occur for each chart in the order they are inserted or pasted. 
 
 If a chart object or chart sheet is moved from one location to another, the event will not occur. However, if the chart is moved between a chart object and a chart sheet, the event will occur because a new chart must be created.
 

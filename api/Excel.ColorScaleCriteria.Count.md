@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ColorScaleCriteria.Count property (Excel)
 
-Returns a **Long** value that specifies the number of criteria for a color scale conditional format rule. Read-only.
+Returns a **Long** value that specifies the number of criteria for a color scale conditional formatting rule. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ColorScaleCriteria](Excel.ColorScal
 
 ## Remarks
 
-The number of criteria is equivalent to the number of threshold values assigned for a color scale. This will be either two or three, depending on whether you use a two-color scale or three-color scale for the conditional format rule.
+The number of criteria is equivalent to the number of threshold values assigned for a color scale. This will be either two or three, depending on whether you use a two-color scale or a three-color scale for the conditional formatting rule.
 
 
 

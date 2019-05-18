@@ -7,26 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.WorkbookConnection.OLEDBConnection
 ms.assetid: bc010d24-cb32-11b9-0851-556d68c11ec9
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 localization_priority: Normal
 ---
 
 
 # WorkbookConnection.OLEDBConnection property (Excel)
 
-Returns the OLEDB Connection details for the specified  **WorkbookConnection** object. Read-only **OLEDBConnection**.
+Returns the OLEDB connection details for the specified **WorkbookConnection** object. Read-only **OLEDBConnection**.
 
 
 ## Syntax
 
-_expression_. `OLEDBConnection`
+_expression_.**OLEDBConnection**
 
-_expression_ A variable that represents a [WorkbookConnection](Excel.WorkbookConnection.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[WorkbookConnection](Excel.WorkbookConnection.md)** object.
 
 
-[WorkbookConnection Object](Excel.WorkbookConnection.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

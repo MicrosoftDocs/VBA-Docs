@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ValueChange.Parent
 ms.assetid: 386e01d9-1e88-861a-c6f2-7658f3f53903
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [ValueChange](Excel.ValueChange.md) object.
+_expression_ A variable that represents a **[ValueChange](Excel.ValueChange.md)** object.
 
 
-## See also
 
-
-[ValueChange Object](Excel.ValueChange.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.WebOptions.FolderSuffix
 ms.assetid: 5361e4db-4f08-ab6c-1259-d04170879c99
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 localization_priority: Normal
 ---
 
 
 # WebOptions.FolderSuffix property (Excel)
 
-Returns the folder suffix that Microsoft Excel uses when you save a document as a webpage, use long file names, and choose to save supporting files in a separate folder (that is, if the  **[UseLongFileNames](Excel.WebOptions.UseLongFileNames.md)** and **[OrganizeInFolder](Excel.WebOptions.OrganizeInFolder.md)** properties are set to **True**). Read-only **String**.
+Returns the folder suffix that Microsoft Excel uses when you save a document as a webpage, use long file names, and choose to save supporting files in a separate folder (that is, if the **[UseLongFileNames](Excel.WebOptions.UseLongFileNames.md)** and **[OrganizeInFolder](Excel.WebOptions.OrganizeInFolder.md)** properties are set to **True**). Read-only **String**.
 
 
 ## Syntax
@@ -26,15 +26,13 @@ _expression_ A variable that represents a **[WebOptions](Excel.WebOptions.md)** 
 
 ## Remarks
 
-Newly created documents use the suffix returned by the  **FolderSuffix** property of the **DefaultWebOptions** object. The value of the **FolderSuffix** property of the **WebOptions** object may differ from that of the **DefaultWebOptions** object if the document was previously edited in a different language version of Microsoft Excel. You can use the **[UseDefaultFolderSuffix](Excel.WebOptions.UseDefaultFolderSuffix.md)** method to change the suffix to the language you are currently using in Microsoft Office.
+Newly created documents use the suffix returned by the **[FolderSuffix](excel.defaultweboptions.foldersuffix.md)** property of the **DefaultWebOptions** object. The value of the **FolderSuffix** property of the **WebOptions** object may differ from that of the **DefaultWebOptions** object if the document was previously edited in a different language version of Microsoft Excel. You can use the **[UseDefaultFolderSuffix](Excel.WebOptions.UseDefaultFolderSuffix.md)** method to change the suffix to the language that you are currently using in Microsoft Office.
 
-By default, the name of the supporting folder is the name of the webpage plus an underscore (_), a period (.), or a hyphen (-) and the word "files" (appearing in the language of the version of Excel in which the file was saved as a webpage). For example, suppose that you use the Dutch language version of Excel to save a file called "Page1" as a webpage. The default name of the supporting folder is Page1_bestanden.
+By default, the name of the supporting folder is the name of the webpage plus an underscore (_), a period (.), or a hyphen (-) and the word "files" (appearing in the language of the version of Excel in which the file was saved as a webpage). For example, suppose that you use the Dutch language version of Excel to save a file called Page1 as a webpage. The default name of the supporting folder is Page1_bestanden.
 
-The following table lists each language version of Office, and gives its corresponding  **LanguageID** property value and folder suffix. For the languages that are not listed in the table, the suffix ".files" is used.
+The following table lists each language version of Office, and gives its corresponding **LanguageID** property value and folder suffix. For the languages that are not listed in the table, the suffix .files is used.
 
-
-
-|**Language**|**LanguageID**|**Folder suffix**|
+|Language|LanguageID|Folder suffix|
 |:-----|:-----|:-----|
 |Arabic|1025|.files|
 |Basque (Basque)|1069|_fitxategiak|
@@ -80,15 +78,11 @@ The following table lists each language version of Office, and gives its corresp
 
 This example returns the folder suffix used by the first workbook. The suffix is returned in the string variable  `strFolderSuffix`.
 
-
 ```vb
 strFolderSuffix = Workbooks(1).WebOptions.FolderSuffix
 ```
 
 
-## See also
 
-
-[WebOptions Object](Excel.WebOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

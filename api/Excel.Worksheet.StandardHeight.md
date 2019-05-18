@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Worksheet.StandardHeight property (Excel)
 
-Returns the standard (default) height of all the rows in the worksheet, in points. Read-only  **Double**.
+Returns the standard (default) height of all the rows on the worksheet, in points. Read-only  **Double**.
 
 
 ## Syntax

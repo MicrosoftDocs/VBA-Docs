@@ -17,10 +17,11 @@ Specifies target browser for documents viewed in a web browser.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-|**msoTargetBrowserIE4**|2|Microsoft Internet Explorer 4.0 |
-|**msoTargetBrowserIE5**|3|Microsoft Internet Explorer 5 |
-|**msoTargetBrowserIE6**|4|Microsoft Internet Explorer 6 |
-|**msoTargetBrowserV3**|0|Netscape Navigator 3 |
-|**msoTargetBrowserV4**|1|Netscape Navigator 4 |
+|**msoTargetBrowserIE4**|2|Microsoft Internet Explorer 4.0 or later |
+|**msoTargetBrowserIE5**|3|Microsoft Internet Explorer 5 or later |
+|**msoTargetBrowserIE6**|4|Microsoft Internet Explorer 6 or later |
+|**msoTargetBrowserV3**|0|Microsoft Internet Explorer 3.0, Netscape Navigator 3, or later |
+|**msoTargetBrowserV4**|1|Microsoft Internet Explorer 4.0, Netscape Navigator 4, or later |
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

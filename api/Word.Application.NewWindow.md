@@ -19,7 +19,7 @@ Opens a new window with the same document as the specified window. Returns a  **
 
 ## Syntax
 
-_expression_. `NewWindow`
+_expression_.**NewWindow**
 
 _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Worksheets.Delete
 ms.assetid: 57f4066a-2b94-a27a-f9f1-43e77357c740
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Delete**
 _expression_ A variable that represents a **[Worksheets](Excel.Worksheets.md)** object.
 
 
-## See also
 
-
-[Worksheets Object](Excel.Worksheets.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

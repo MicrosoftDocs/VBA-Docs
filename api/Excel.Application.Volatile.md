@@ -32,7 +32,7 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 ## Example
 
-This example marks the user-defined function _My\_Func_ as volatile. The function will be recalculated when any cell in any workbook in the application window changes value. Recalculation of the function is not restricted to changes or calculation cycles in the worksheet for which this function applies. Therefore, use it moderately to avoid calculation lag.
+This example marks the user-defined function _My\_Func_ as volatile. The function will be recalculated when any cell in any workbook in the application window changes value. Recalculation of the function is not restricted to changes or calculation cycles on the worksheet for which this function applies. Therefore, use it moderately to avoid calculation lag.
 
 ```vb
 Function My_Func() 

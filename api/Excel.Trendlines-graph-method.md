@@ -20,7 +20,7 @@ Returns an object that represents a single trendline or a collection of all the 
 
 _expression_.**Trendlines** (_Index_)
 
-_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns a **[Trendlines](Excel.trendlines(collection).md)** collection.
 
 
 ## Parameters

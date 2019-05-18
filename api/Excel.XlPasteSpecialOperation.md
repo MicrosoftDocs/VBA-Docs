@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # XlPasteSpecialOperation enumeration (Excel)
 
-Specifies how numeric data will be calculated with the destinations cells in the worksheet.
+Specifies how numeric data will be calculated with the destinations cells on the worksheet.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

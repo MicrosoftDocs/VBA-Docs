@@ -21,7 +21,7 @@ Returns the  **[SheetViews](Excel.SheetViews.md)** object for the specified wind
 
 _expression_. `SheetViews`
 
-_expression_ A variable that represents a [Window](Excel.Window.md) object.
+_expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 
 ## See also

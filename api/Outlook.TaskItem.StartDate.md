@@ -19,7 +19,7 @@ Returns or sets a  **Date** indicating the start date for the task. Read/write.
 
 ## Syntax
 
-_expression_. `StartDate`
+_expression_.**StartDate**
 
  _expression_ An expression that returns a [TaskItem](Outlook.TaskItem.md) object.
 

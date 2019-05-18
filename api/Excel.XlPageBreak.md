@@ -11,14 +11,15 @@ localization_priority: Normal
 
 # XlPageBreak enumeration (Excel)
 
-Specifies page break location in the worksheet.
+Specifies page break location on the worksheet.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlPageBreakAutomatic**|-4105|Excel will automatically add page breaks.|
 | **xlPageBreakManual**|-4135|Page breaks are manually inserted.|
-| **xlPageBreakNone**|-4142|Page breaks are not inserted in the worksheet.|
+| **xlPageBreakNone**|-4142|Page breaks are not inserted on the worksheet.|
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

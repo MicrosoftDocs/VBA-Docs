@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ColorScaleCriterion](Excel.ColorSca
 
 ## Remarks
 
-For a two-color scale conditional format rule, this property will return a value of "1" for the minimum threshold and "2" for the maximum threshold. When using a three-color scale rule, the values will be "1" for the minimum, "2" for the midpoint, and "3" for the maximum thresholds.
+For a two-color scale conditional formatting rule, this property will return a value of "1" for the minimum threshold and "2" for the maximum threshold. When using a three-color scale rule, the values will be "1" for the minimum, "2" for the midpoint, and "3" for the maximum thresholds.
 
 
 

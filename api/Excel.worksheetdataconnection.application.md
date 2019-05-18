@@ -5,27 +5,31 @@ f1_keywords:
 - vbaxl10.chm923073
 ms.prod: excel
 ms.assetid: 79545289-efa9-ce0b-3268-4f73c410fb55
-ms.date: 06/08/2017
+ms.date: 05/18/2019
 localization_priority: Normal
 ---
 
 
 # WorksheetDataConnection.Application property (Excel)
 
-Returns an  **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. Read-only.
+Returns an **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. Read-only.
 
 
 ## Syntax
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [WorksheetDataConnection](Excel.worksheetdataconnection.md) object.
+_expression_ A variable that represents a **[WorksheetDataConnection](Excel.worksheetdataconnection.md)** object.
+
+
+## Property value
+
+**APPLICATION**
 
 
 ## Example
 
 This example displays a message about the application that created _myObject_.
-
 
 ```vb
 Set myObject = ActiveWorkbook 
@@ -37,15 +41,5 @@ End If
 ```
 
 
-## Property value
-
- **APPLICATION**
-
-
-## See also
-
-
-
-[WorksheetDataConnection Object](Excel.worksheetdataconnection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
