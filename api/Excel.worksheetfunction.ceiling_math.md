@@ -19,7 +19,7 @@ Rounds a number up, to the nearest integer or to the nearest multiple of signifi
 
 _expression_. `Ceiling_Math`_(Arg1,_ _Arg2,_ _Arg3)_
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

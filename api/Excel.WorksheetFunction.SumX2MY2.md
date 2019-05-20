@@ -19,9 +19,9 @@ Returns the sum of the difference of squares of corresponding values in two arra
 
 ## Syntax
 
-_expression_. `SumX2MY2`( `_Arg1_` , `_Arg2_` )
+_expression_. `SumX2MY2` (_Arg1_, _Arg2_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

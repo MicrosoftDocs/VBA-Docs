@@ -19,7 +19,7 @@ Returns the value you specify if the expression resolves to #N/A, otherwise retu
 
 _expression_. `IfNa`_(Arg1,_ _Arg2)_
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

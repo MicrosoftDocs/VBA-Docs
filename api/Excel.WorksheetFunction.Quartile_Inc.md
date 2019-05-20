@@ -19,7 +19,7 @@ Returns the quartile of a data set based on percentile values from 0..1, inclusi
 
 ## Syntax
 
-_expression_. `Quartile_Inc`( `_Arg1_` , `_Arg2_` )
+_expression_. `Quartile_Inc` (_Arg1_, _Arg2_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

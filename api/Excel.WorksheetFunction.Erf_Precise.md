@@ -19,7 +19,7 @@ Returns the error function integrated between zero and lower_limit.
 
 ## Syntax
 
-_expression_. `Erf_Precise`( `_Arg1_` )
+_expression_. `Erf_Precise` (_Arg1_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

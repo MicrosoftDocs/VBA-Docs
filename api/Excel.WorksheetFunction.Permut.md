@@ -19,9 +19,9 @@ Returns the number of permutations for a given number of objects that can be sel
 
 ## Syntax
 
-_expression_. `Permut`( `_Arg1_` , `_Arg2_` )
+_expression_. `Permut` (_Arg1_, _Arg2_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

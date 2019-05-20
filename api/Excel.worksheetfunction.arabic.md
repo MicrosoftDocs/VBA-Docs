@@ -17,9 +17,9 @@ Converts a Roman numeral to an Arabic numeral.
 
 ## Syntax
 
-_expression_. `Arabic`_(Arg1)_
+_expression_.**Arabic** (_Arg1_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

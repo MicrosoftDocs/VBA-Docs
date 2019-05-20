@@ -19,9 +19,9 @@ Returns the internal rate of return for a schedule of cash flows that is not nec
 
 ## Syntax
 
-_expression_. `Xirr`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `Xirr` (_Arg1_, _Arg2_, _Arg3_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

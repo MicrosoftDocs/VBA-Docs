@@ -17,9 +17,9 @@ Returns 0.5 less than the standard normal cumulative distribution.
 
 ## Syntax
 
-_expression_. `Gauss`_(Arg1)_
+_expression_.**Gauss** (_Arg1_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

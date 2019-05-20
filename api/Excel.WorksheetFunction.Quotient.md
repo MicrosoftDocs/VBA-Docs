@@ -19,9 +19,9 @@ Returns the integer portion of a division. Use this function when you want to di
 
 ## Syntax
 
-_expression_. `Quotient`( `_Arg1_` , `_Arg2_` )
+_expression_. `Quotient` (_Arg1_, _Arg2_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

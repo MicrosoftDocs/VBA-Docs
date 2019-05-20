@@ -19,9 +19,9 @@ The function described in this Help topic converts a number to text format and a
 
 ## Syntax
 
-_expression_. `Dollar`( `_Arg1_` , `_Arg2_` )
+_expression_. `Dollar` (_Arg1_, _Arg2_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

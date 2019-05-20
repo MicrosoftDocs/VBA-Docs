@@ -19,9 +19,9 @@ Returns the mean of the interior of a data set. TRIMMEAN calculates the mean tak
 
 ## Syntax
 
-_expression_. `TrimMean`( `_Arg1_` , `_Arg2_` )
+_expression_. `TrimMean` (_Arg1_, _Arg2_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

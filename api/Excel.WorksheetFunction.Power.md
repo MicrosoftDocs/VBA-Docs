@@ -19,9 +19,9 @@ Returns the result of a number raised to a power.
 
 ## Syntax
 
-_expression_. `Power`( `_Arg1_` , `_Arg2_` )
+_expression_. `Power` (_Arg1_, _Arg2_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

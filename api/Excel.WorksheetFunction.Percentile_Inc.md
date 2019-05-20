@@ -19,7 +19,7 @@ Returns the k-th percentile of values in a range. You can use this function to e
 
 ## Syntax
 
-_expression_. `Percentile_Inc`( `_Arg1_` , `_Arg2_` )
+_expression_. `Percentile_Inc` (_Arg1_, _Arg2_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

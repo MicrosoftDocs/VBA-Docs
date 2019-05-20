@@ -23,7 +23,7 @@ For more information about the new function, see the [Erf_Precise](Excel.Workshe
 
 ## Syntax
 
-_expression_. `Erf`( `_Arg1_` , `_Arg2_` )
+_expression_. `Erf` (_Arg1_, _Arg2_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

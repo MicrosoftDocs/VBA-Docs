@@ -17,9 +17,9 @@ Returns the cotangent of an angle.
 
 ## Syntax
 
-_expression_. `Cot`_(Arg1)_
+_expression_.**Cot** (_Arg1_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

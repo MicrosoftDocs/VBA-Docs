@@ -19,9 +19,9 @@ Returns the double factorial of a number.
 
 ## Syntax
 
-_expression_. `FactDouble`( `_Arg1_` )
+_expression_. `FactDouble` (_Arg1_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

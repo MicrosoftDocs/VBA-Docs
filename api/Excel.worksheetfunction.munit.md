@@ -17,9 +17,9 @@ Returns the unit matrix for the specified dimension.
 
 ## Syntax
 
-_expression_. `Munit`_(Arg1)_
+_expression_.**Munit** (_Arg1_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

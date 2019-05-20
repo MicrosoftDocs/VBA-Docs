@@ -17,9 +17,9 @@ Returns the hyperbolic cosine of a complex number.
 
 ## Syntax
 
-_expression_. `ImCosh`_(Arg1)_
+_expression_.**ImCosh** (_Arg1_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

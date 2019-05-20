@@ -19,9 +19,9 @@ Returns the natural logarithm of a complex number in x + yi or x + yj text forma
 
 ## Syntax
 
-_expression_. `ImLn`( `_Arg1_` )
+_expression_. `ImLn` (_Arg1_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

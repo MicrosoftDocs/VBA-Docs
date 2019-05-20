@@ -21,7 +21,7 @@ Calculates the point at which a line will intersect the y-axis by using existing
 
 _expression_. `Intercept`(`Arg1`, `Arg2`)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

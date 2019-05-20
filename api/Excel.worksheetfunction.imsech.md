@@ -17,9 +17,9 @@ Returns the secant of a complex number.
 
 ## Syntax
 
-_expression_. `ImSech`_(Arg1)_
+_expression_.**ImSech** (_Arg1_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

@@ -25,7 +25,7 @@ Returns the Weibull distribution. Use this distribution in reliability analysis,
 
 ## Syntax
 
-_expression_. `Weibull`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `Weibull` (_Arg1_, _Arg2_, _Arg3_, _Arg4_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

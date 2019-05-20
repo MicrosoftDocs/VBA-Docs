@@ -25,7 +25,7 @@ Returns the t-value of the Student's t-distribution as a function of the probabi
 
 ## Syntax
 
-_expression_. `TInv`( `_Arg1_` , `_Arg2_` )
+_expression_. `TInv` (_Arg1_, _Arg2_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

@@ -19,9 +19,9 @@ Repeats text a given number of times. Use REPT to fill a cell with a number of i
 
 ## Syntax
 
-_expression_. `Rept`( `_Arg1_` , `_Arg2_` )
+_expression_. `Rept` (_Arg1_, _Arg2_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

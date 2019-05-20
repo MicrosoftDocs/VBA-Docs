@@ -19,9 +19,9 @@ Returns the arccosine, or inverse cosine, of a number. The arccosine is the angl
 
 ## Syntax
 
-_expression_. `Acos`( `_Arg1_` )
+_expression_.**Acos** (_Arg1_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

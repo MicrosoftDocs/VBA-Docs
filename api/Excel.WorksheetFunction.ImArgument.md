@@ -23,9 +23,9 @@ Returns the argument
 
 ## Syntax
 
-_expression_. `ImArgument`( `_Arg1_` )
+_expression_. `ImArgument` (_Arg1_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

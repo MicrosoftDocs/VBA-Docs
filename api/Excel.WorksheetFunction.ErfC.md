@@ -23,9 +23,9 @@ For more information about the new function, see the [ErfC_Precise](Excel.Worksh
 
 ## Syntax
 
-_expression_. `ErfC`( `_Arg1_` , `_Arg2_` )
+_expression_. `ErfC` (_Arg1_, _Arg2_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
