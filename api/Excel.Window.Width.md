@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Window.Width
 ms.assetid: 5271dd4c-2e0f-cad1-fbe8-dda602202dc1
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 

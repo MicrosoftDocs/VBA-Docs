@@ -21,7 +21,7 @@ Returns the standard normal cumulative distribution function. The distribution h
 
 _expression_. `Norm_S_Dist`( `_Arg1_` )
 
-_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

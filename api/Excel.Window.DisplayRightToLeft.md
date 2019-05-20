@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Window.DisplayRightToLeft
 ms.assetid: 8aed55f5-bab5-6af9-b959-f1b736b5e62b
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 

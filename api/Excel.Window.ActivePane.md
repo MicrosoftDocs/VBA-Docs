@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Window.ActivePane
 ms.assetid: f518802d-8624-6e61-d76a-d318149e0142
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Window.AutoFilterDateGrouping
 ms.assetid: 0f0d875d-3ae3-2aaa-9d38-78e65373573e
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 

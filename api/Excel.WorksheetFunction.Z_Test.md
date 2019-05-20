@@ -21,7 +21,7 @@ Returns the one-tailed probability-value of a z-test. For a given hypothesized p
 
 _expression_. `Z_Test`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
-_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

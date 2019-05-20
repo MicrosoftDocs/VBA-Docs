@@ -21,7 +21,7 @@ Returns the quartile of the data set, based on percentile values from 0..1, excl
 
 _expression_. `Quartile_Exc`( `_Arg1_` , `_Arg2_` )
 
-_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

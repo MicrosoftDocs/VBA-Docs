@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Window.Height
 ms.assetid: abfbd7ee-a983-cfb1-51c3-09159c8ba08c
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Window.NewWindow
 ms.assetid: e9891c74-e2c7-8e33-a1b8-85ec76ee75be
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 

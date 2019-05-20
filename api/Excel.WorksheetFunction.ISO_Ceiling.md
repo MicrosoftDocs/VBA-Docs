@@ -21,7 +21,7 @@ Returns a number that is rounded up to the nearest integer or to the nearest mul
 
 _expression_. `ISO_Ceiling`( `_Arg1_` , `_Arg2_` )
 
-_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

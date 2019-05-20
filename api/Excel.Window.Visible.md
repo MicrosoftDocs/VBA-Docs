@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Window.Visible
 ms.assetid: c075d99a-eebd-f70d-51a0-e2b8d60457ec
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 

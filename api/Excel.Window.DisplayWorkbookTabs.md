@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Window.DisplayWorkbookTabs
 ms.assetid: abb7580a-bca0-5940-4b41-4dfbaf52514a
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
