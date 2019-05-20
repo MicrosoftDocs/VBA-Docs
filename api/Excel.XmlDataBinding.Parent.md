@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents an **[XmlDataBinding](Excel.XmlDataBinding.md)** object.
 
 
-## See also
 
-
-[XmlDataBinding Object](Excel.XmlDataBinding.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

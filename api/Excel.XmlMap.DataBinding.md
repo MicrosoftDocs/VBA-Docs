@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XmlMap.DataBinding property (Excel)
 
-Returns an  **[XmlDataBinding](Excel.XmlDataBinding.md)** object that represents the binding associated with the specified schema map. Read-only.
+Returns an **[XmlDataBinding](Excel.XmlDataBinding.md)** object that represents the binding associated with the specified schema map. Read-only.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**DataBinding**
 _expression_ A variable that represents an **[XmlMap](Excel.XmlMap.md)** object.
 
 
-## See also
 
-
-[XmlMap Object](Excel.XmlMap.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

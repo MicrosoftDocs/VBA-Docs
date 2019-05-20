@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XmlMap.PreserveColumnFilter property (Excel)
 
-Returns or sets whether filtering is preserved when the specified XML map is refreshed. Read/write  **Boolean**.
+Returns or sets whether filtering is preserved when the specified XML map is refreshed. Read/write **Boolean**.
 
 
 ## Syntax
@@ -24,9 +24,5 @@ _expression_.**PreserveColumnFilter**
 _expression_ A variable that represents an **[XmlMap](Excel.XmlMap.md)** object.
 
 
-## See also
-
-
-[XmlMap Object](Excel.XmlMap.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

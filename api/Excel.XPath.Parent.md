@@ -24,9 +24,5 @@ _expression_.**Parent**
 _expression_ A variable that represents an **[XPath](Excel.XPath.md)** object.
 
 
-## See also
-
-
-[XPath Object](Excel.XPath.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

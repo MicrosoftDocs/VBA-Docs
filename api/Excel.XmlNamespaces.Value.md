@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XmlNamespaces.Value property (Excel)
 
-Returns a  **String** value that represents the XML namespaces that have been added to the workbook.
+Returns a **String** value that represents the XML namespaces that have been added to the workbook.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents an **[XmlNamespaces](Excel.XmlNamespaces
 
 ## Remarks
 
-If the workbook contains more than one namespace, then the namespaces are seperated by a blank space in the string returned by the  **Value** property.
+If the workbook contains more than one namespace, the namespaces are separated by a blank space in the string returned by the **Value** property.
 
 
-## See also
 
-
-[XmlNamespaces Object](Excel.XmlNamespaces.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

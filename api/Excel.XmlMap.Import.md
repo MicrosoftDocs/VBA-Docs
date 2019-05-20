@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XmlMap.Import method (Excel)
 
-Imports data from the specified XML data file into cells that have been mapped to the specified  **[XmlMap](Excel.XmlMap.md)** object.
+Imports data from the specified XML data file into cells that have been mapped to the specified **XmlMap** object.
 
 
 ## Syntax
@@ -29,34 +29,20 @@ _expression_ A variable that represents an **[XmlMap](Excel.XmlMap.md)** object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Url_|Required| **String**|The path to the XML data to import. The path can be specified in Universal Naming convention (UNC) or Uniform Resource Locator (URL) format. The file can be an XML data file.|
-| _Overwrite_|Optional| **Variant**|Set to  **True** to overwrite existing data. Set to **False** to append to existing data. The default value is **False**.|
+| _Overwrite_|Optional| **Variant**|Set to **True** to overwrite existing data. Set to **False** to append to existing data. The default value is **False**.|
 
 ## Return value
 
-A  **[XlXmlImportResult](Excel.XlXmlImportResult.md)** value that indicates the result of the method.
+An **[XlXmlImportResult](Excel.XlXmlImportResult.md)** value that indicates the result of the method.
 
 
 ## Remarks
 
-This method returns one of the following  **xlXmlImportResult** constants:
+If either of the following conditions is **True**, a run-time error occurs. If more than one condition is **True**, Excel returns a run-time error for the most severe (they are listed with the most severe listed first):
 
-
-
-| **xlXmlImportElementsTruncated** The contents of the specified XML data file have been truncated because the XML data file is too large for the worksheet.|
-| **xlXmlImportSuccess** The XML data file was successfully imported.|
-| **xlXmlImportValidationFailed** The data being imported failed schema validation, but was imported anyway.|
-
-If either of the following conditions is true, a run-time error will occur. If more than one condition is true, Excel returns a run-time error for the most severe (they are listed below with the most severe listed first):
-
-
-- If the XML data contains syntactical errors.
-    
-- If import is cancelled because not all of the data could fit on the worksheet.
+- If the XML data contains syntactical errors. 
+- If the import is cancelled because not all the data could fit on the worksheet.
     
 
-## See also
-
-
-[XmlMap Object](Excel.XmlMap.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

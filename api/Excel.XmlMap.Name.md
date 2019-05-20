@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XmlMap.Name property (Excel)
 
-Returns or sets a  **String** value that represents the friendly name used to uniquely identify a mapping in the workbook.
+Returns or sets a **String** value that represents the friendly name used to uniquely identify a mapping in the workbook.
 
 
 ## Syntax
@@ -26,12 +26,8 @@ _expression_ A variable that represents an **[XmlMap](Excel.XmlMap.md)** object.
 
 ## Remarks
 
-The string specified for the  **Name** property must be unique within the workbook, and cannot exceed 255 characters.
+The string specified for the **Name** property must be unique within the workbook, and cannot exceed 255 characters.
 
 
-## See also
-
-
-[XmlMap Object](Excel.XmlMap.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

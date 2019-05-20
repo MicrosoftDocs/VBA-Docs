@@ -29,20 +29,19 @@ _expression_ A variable that represents an **[XmlNamespaces](Excel.XmlNamespaces
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **String**|The path and file name of the XML expansion pack.|
-| _InstallForAllUsers_|Optional| **Variant**| **True** installs the XML expansion pack and makes it available to all users on a machine. **False** makes the XML expansion pack available for the current user only. Default is **False**.|
+| _InstallForAllUsers_|Optional| **Variant**| **True** installs the XML expansion pack and makes it available to all users on a machine. **False** makes the XML expansion pack available for the current user only. The default is **False**.|
 
 ## Remarks
 
-For security purposes, you cannot install an unsigned manifest. For more information about manifests, see the Smart Document Software Development Kit (SDK) on the Microsoft Developer Network (MSDN) Web site.
+For security purposes, you cannot install an unsigned manifest. For more information about manifests, see the [Smart Document Software Development Kit (SDK)](https://www.microsoft.com/download/details.aspx?id=3929).
 
 
 ## Example
 
 The following example installs the SimpleSample smart document solution on the user's computer and makes it available only to the current user.
 
-
- **Note**  The SimpleSample schema is included in the Smart Document Software Development Kit (SDK). For more information, see the Smart Document SDK.
-
+> [!NOTE] 
+> The SimpleSample schema is included in the Smart Document Software Development Kit (SDK). 
 
 ```vb
 Application.XMLNamespaces.InstallManifest _ 
@@ -50,9 +49,5 @@ Application.XMLNamespaces.InstallManifest _
 ```
 
 
-## See also
-
-
-[XmlNamespaces Object](Excel.XmlNamespaces.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XPath.Map property (Excel)
 
-Returns an  **[XmlMap](Excel.XmlMap.md)** object that represents the schema map that contains the specified **[XPath](Excel.XPath.md)** object. Read-only.
+Returns an **[XmlMap](Excel.XmlMap.md)** object that represents the schema map that contains the specified **XPath** object. Read-only.
 
 
 ## Syntax
@@ -24,9 +24,5 @@ _expression_.**Map**
 _expression_ A variable that represents an **[XPath](Excel.XPath.md)** object.
 
 
-## See also
-
-
-[XPath Object](Excel.XPath.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

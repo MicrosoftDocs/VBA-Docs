@@ -26,15 +26,10 @@ _expression_ A variable that represents an **[XmlNamespaces](Excel.XmlNamespaces
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The name or index number of the object.|
 
-## See also
 
-
-[XmlNamespaces Object](Excel.XmlNamespaces.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

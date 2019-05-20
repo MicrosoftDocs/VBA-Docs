@@ -26,15 +26,11 @@ _expression_ A variable that represents an **[XmlSchemas](Excel.XmlSchemas.md)**
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The name or index number of the object.|
 
-## See also
 
 
-[XmlSchemas Object](Excel.XmlSchemas.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

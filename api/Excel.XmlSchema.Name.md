@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XmlSchema.Name property (Excel)
 
-Returns a  **String** value that represents the friendly name used to identify an XML schema in an **[XmlMap](Excel.XmlMap.md)** object.
+Returns a **String** value that represents the friendly name used to identify an XML schema in an **[XmlMap](Excel.XmlMap.md)** object.
 
 
 ## Syntax
@@ -24,9 +24,5 @@ _expression_.**Name**
 _expression_ A variable that represents an **[XmlSchema](Excel.XmlSchema.md)** object.
 
 
-## See also
-
-
-[XmlSchema Object](Excel.XmlSchema.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

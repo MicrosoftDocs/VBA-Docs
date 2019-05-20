@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XmlMap.PreserveNumberFormatting property (Excel)
 
- **True** if number formatting on cells mapped to the specified XML schema map will be preserved when the schema map is refreshed. The default value is **False**. Read/write **Boolean**.
+**True** if number formatting on cells mapped to the specified XML schema map are preserved when the schema map is refreshed. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**PreserveNumberFormatting**
 _expression_ A variable that represents an **[XmlMap](Excel.XmlMap.md)** object.
 
 
-## See also
 
-
-[XmlMap Object](Excel.XmlMap.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

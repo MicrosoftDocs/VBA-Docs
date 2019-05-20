@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XmlMap.SaveDataSourceDefinition property (Excel)
 
- **True** if the data source definition of the specified XML schema map is saved with the workbook. The default value is **True**. Read/write **Boolean**.
+**True** if the data source definition of the specified XML schema map is saved with the workbook. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**SaveDataSourceDefinition**
 _expression_ A variable that represents an **[XmlMap](Excel.XmlMap.md)** object.
 
 
-## See also
 
-
-[XmlMap Object](Excel.XmlMap.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

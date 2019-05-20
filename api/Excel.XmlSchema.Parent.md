@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents an **[XmlSchema](Excel.XmlSchema.md)** object.
 
 
-## See also
 
-
-[XmlSchema Object](Excel.XmlSchema.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XPath.Value property (Excel)
 
-Returns a  **String** that represents the XPath for the specified object.
+Returns a **String** that represents the XPath for the specified object.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Value**
 _expression_ A variable that represents an **[XPath](Excel.XPath.md)** object.
 
 
-## See also
 
-
-[XPath Object](Excel.XPath.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

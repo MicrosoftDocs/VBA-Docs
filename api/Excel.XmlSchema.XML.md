@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XmlSchema.XML property (Excel)
 
-Returns a  **String** value that represents the content of the specified schema.
+Returns a **String** value that represents the content of the specified schema.
 
 
 ## Syntax
@@ -24,9 +24,5 @@ _expression_.**XML**
 _expression_ A variable that represents an **[XmlSchema](Excel.XmlSchema.md)** object.
 
 
-## See also
-
-
-[XmlSchema Object](Excel.XmlSchema.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

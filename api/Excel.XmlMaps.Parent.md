@@ -24,9 +24,5 @@ _expression_.**Parent**
 _expression_ A variable that represents an **[XmlMaps](Excel.XmlMaps.md)** object.
 
 
-## See also
-
-
-[XmlMaps Object](Excel.XmlMaps.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

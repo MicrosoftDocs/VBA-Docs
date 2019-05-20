@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XmlSchemas.Count property (Excel)
 
-Returns a  **Long** value that represents the number of objects in the collection.
+Returns a **Long** value that represents the number of objects in the collection.
 
 
 ## Syntax
@@ -24,9 +24,5 @@ _expression_.**Count**
 _expression_ A variable that represents an **[XmlSchemas](Excel.XmlSchemas.md)** object.
 
 
-## See also
-
-
-[XmlSchemas Object](Excel.XmlSchemas.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

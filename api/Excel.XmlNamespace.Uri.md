@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XmlNamespace.Uri property (Excel)
 
-Returns a  **String** that represents the Uniform Resource Identifier (URI) for the specified XML namespace. Read-only.
+Returns a **String** that represents the Uniform Resource Identifier (URI) for the specified XML namespace. Read-only.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Uri**
 _expression_ A variable that represents an **[XmlNamespace](Excel.XmlNamespace.md)** object.
 
 
-## See also
 
-
-[XmlNamespace Object](Excel.XmlNamespace.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

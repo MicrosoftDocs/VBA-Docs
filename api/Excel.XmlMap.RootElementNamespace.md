@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XmlMap.RootElementNamespace property (Excel)
 
-Returns an  **[XmlNamespace](Excel.XmlNamespace.md)** object that represents the root element for the specified XML schema map. Read-only.
+Returns an **[XmlNamespace](Excel.XmlNamespace.md)** object that represents the root element for the specified XML schema map. Read-only.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**RootElementNamespace**
 _expression_ A variable that represents an **[XmlMap](Excel.XmlMap.md)** object.
 
 
-## See also
 
-
-[XmlMap Object](Excel.XmlMap.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
