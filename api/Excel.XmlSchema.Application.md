@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlSchema.Application
 ms.assetid: c9a4dd13-acb4-b841-3099-70872547156e
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ When used without an object qualifier, this property returns an  **[Application]
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [XmlSchema](Excel.XmlSchema.md) object.
+_expression_ A variable that represents an **[XmlSchema](Excel.XmlSchema.md)** object.
 
 
 ## Example

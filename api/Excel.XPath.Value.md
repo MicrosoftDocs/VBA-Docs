@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XPath.Value
 ms.assetid: 66dd0dc1-2dd7-5e08-5ffc-101b6621bc74
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a  **String** that represents the XPath for the specified object.
 
 _expression_.**Value**
 
-_expression_ A variable that represents a [XPath](Excel.XPath.md) object.
+_expression_ A variable that represents an **[XPath](Excel.XPath.md)** object.
 
 
 ## See also

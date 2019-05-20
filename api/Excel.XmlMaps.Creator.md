@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlMaps.Creator
 ms.assetid: f0973a6d-dc2a-11ae-3c52-d73807098d62
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a 32-bit integer that indicates the application in which this object was
 
 _expression_.**Creator**
 
-_expression_ A variable that represents a [XmlMaps](Excel.XmlMaps.md) object.
+_expression_ A variable that represents an **[XmlMaps](Excel.XmlMaps.md)** object.
 
 
 ## Remarks

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XPath.Clear
 ms.assetid: 8d9e0c70-c77e-257f-6ac7-7a8577282ab1
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Clears all XPath schema information for the mapped range.
 
 _expression_.**Clear**
 
-_expression_ A variable that represents a [XPath](Excel.XPath.md) object.
+_expression_ A variable that represents an **[XPath](Excel.XPath.md)** object.
 
 
 ## Remarks

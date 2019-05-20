@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlSchemas.Creator
 ms.assetid: c9000e23-0426-9571-8104-6b4542f661fa
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a 32-bit integer that indicates the application in which this object was
 
 _expression_.**Creator**
 
-_expression_ A variable that represents a [XmlSchemas](Excel.XmlSchemas.md) object.
+_expression_ A variable that represents an **[XmlSchemas](Excel.XmlSchemas.md)** object.
 
 
 ## Remarks

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlNamespace.Prefix
 ms.assetid: d9242695-7db0-5d8a-1692-ca53597168a2
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `Prefix`
+_expression_.**Prefix**
 
-_expression_ A variable that represents a [XmlNamespace](Excel.XmlNamespace.md) object.
+_expression_ A variable that represents an **[XmlNamespace](Excel.XmlNamespace.md)** object.
 
 
 ## See also

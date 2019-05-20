@@ -19,14 +19,12 @@ Imports a file into the current document.
 
 ## Syntax
 
-_expression_. `Import`( `_FileName_` )
+_expression_.**Import** (_FileName_)
 
 _expression_ A variable that represents a **[Master](Visio.Master.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

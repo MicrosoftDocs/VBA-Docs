@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlNamespaces.Value
 ms.assetid: 68eeae19-06d9-27c4-e256-e383999c3d9c
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a  **String** value that represents the XML namespaces that have been ad
 
 _expression_.**Value**
 
-_expression_ A variable that represents a [XmlNamespaces](Excel.XmlNamespaces.md) object.
+_expression_ A variable that represents an **[XmlNamespaces](Excel.XmlNamespaces.md)** object.
 
 
 ## Remarks

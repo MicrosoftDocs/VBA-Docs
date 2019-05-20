@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlMap.Export
 ms.assetid: 174f902f-7244-866d-b16c-6a6bcf0ae58b
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Exports the contents of cells mapped to the specified  **[XmlMap](Excel.XmlMap.m
 
 _expression_.**Export** (_Url_, _Overwrite_)
 
- _expression_ An expression that returns an [XmlMap](Excel.XmlMap.md) object.
+ _expression_ An expression that returns an **[XmlMap](Excel.XmlMap.md)** object.
 
 
 ## Parameters

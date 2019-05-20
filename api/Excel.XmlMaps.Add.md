@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlMaps.Add
 ms.assetid: 0197c932-73bf-024e-35b1-aba984175aee
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Adds an XML map to the specified workbook.
 
 _expression_.**Add** (_Schema_, _RootElementName_)
 
- _expression_ An expression that returns a [XmlMaps](Excel.XmlMaps.md) object.
+ _expression_ An expression that returns an **[XmlMaps](Excel.XmlMaps.md)** object.
 
 
 ## Parameters

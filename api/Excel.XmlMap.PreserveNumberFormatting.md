@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlMap.PreserveNumberFormatting
 ms.assetid: 2eb38b1b-a2d0-ac24-2bfa-4bc24819d2af
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `PreserveNumberFormatting`
+_expression_.**PreserveNumberFormatting**
 
 _expression_ A variable that represents an **[XmlMap](Excel.XmlMap.md)** object.
 

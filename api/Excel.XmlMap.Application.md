@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlMap.Application
 ms.assetid: b0601b57-e301-17b9-2574-34122fed4b8b
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 

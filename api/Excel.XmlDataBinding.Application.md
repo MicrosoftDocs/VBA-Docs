@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlDataBinding.Application
 ms.assetid: 7cde1f38-aeb5-049a-361f-df1feb6dbc35
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 

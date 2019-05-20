@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlMaps.Application
 ms.assetid: 50919081-1345-78ef-fae6-66814db6aee6
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ When used without an object qualifier, this property returns an  **[Application]
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [XmlMaps](Excel.XmlMaps.md) object.
+_expression_ A variable that represents an **[XmlMaps](Excel.XmlMaps.md)** object.
 
 
 ## Example

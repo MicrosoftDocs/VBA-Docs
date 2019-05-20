@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XPath.SetValue
 ms.assetid: 9d7e9eea-0962-cff8-6909-b31d349eb78a
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Maps the specified  **[XPath](Excel.XPath.md)** object to a **[ListColumn](Excel
 
 ## Syntax
 
-_expression_. `SetValue`( `_Map_` , `_XPath_` , `_SelectionNamespace_` , `_Repeating_` )
+_expression_.**SetValue** (_Map_, _XPath_, _SelectionNamespace_, _Repeating_)
 
-_expression_ A variable that represents a [XPath](Excel.XPath.md) object.
+_expression_ A variable that represents an **[XPath](Excel.XPath.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

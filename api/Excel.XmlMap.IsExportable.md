@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlMap.IsExportable
 ms.assetid: 4f26b59c-14da-3646-c051-88f4d173a861
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns **True** if Microsoft Excel can use the **[XPath](Excel.XPath.md)** obje
 
 ## Syntax
 
-_expression_. `IsExportable`
+_expression_.**IsExportable**
 
 _expression_ A variable that represents an **[XmlMap](Excel.XmlMap.md)** object.
 

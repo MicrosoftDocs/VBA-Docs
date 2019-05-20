@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlMap.Schemas
 ms.assetid: 9027625d-3eb2-216d-5b50-a4bb84c19a8a
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `Schemas`
+_expression_.**Schemas**
 
 _expression_ A variable that represents an **[XmlMap](Excel.XmlMap.md)** object.
 

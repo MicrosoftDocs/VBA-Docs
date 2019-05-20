@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlMap.ShowImportExportValidationErrors
 ms.assetid: 0a0ece1c-f069-714d-79fa-a6ab564470fc
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `ShowImportExportValidationErrors`
+_expression_.**ShowImportExportValidationErrors**
 
 _expression_ A variable that represents an **[XmlMap](Excel.XmlMap.md)** object.
 

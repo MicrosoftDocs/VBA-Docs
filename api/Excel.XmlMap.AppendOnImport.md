@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlMap.AppendOnImport
 ms.assetid: b00eeaeb-1750-e5a9-85b5-7323ea766ead
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `AppendOnImport`
+_expression_.**AppendOnImport**
 
 _expression_ A variable that represents an **[XmlMap](Excel.XmlMap.md)** object.
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlMap.SaveDataSourceDefinition
 ms.assetid: 9a87b243-1d38-17b2-cbfa-ce5747a30674
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `SaveDataSourceDefinition`
+_expression_.**SaveDataSourceDefinition**
 
 _expression_ A variable that represents an **[XmlMap](Excel.XmlMap.md)** object.
 

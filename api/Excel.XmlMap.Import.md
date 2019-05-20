@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlMap.Import
 ms.assetid: 60265bbd-4994-8fba-7072-ec5dada885d3
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Imports data from the specified XML data file into cells that have been mapped t
 
 ## Syntax
 
-_expression_. `Import`( `_Url_` , `_Overwrite_` )
+_expression_.**Import** (_Url_, _Overwrite_)
 
 _expression_ A variable that represents an **[XmlMap](Excel.XmlMap.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

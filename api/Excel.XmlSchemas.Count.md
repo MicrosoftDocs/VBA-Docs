@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlSchemas.Count
 ms.assetid: c43c1b5d-ed70-8437-e232-03850c1a3699
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 _expression_.**Count**
 
-_expression_ A variable that represents a [XmlSchemas](Excel.XmlSchemas.md) object.
+_expression_ A variable that represents an **[XmlSchemas](Excel.XmlSchemas.md)** object.
 
 
 ## See also

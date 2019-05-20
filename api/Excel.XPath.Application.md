@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XPath.Application
 ms.assetid: f22f8f93-6bcf-2691-6848-674ca301cb96
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ When used without an object qualifier, this property returns an  **[Application]
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [XPath](Excel.XPath.md) object.
+_expression_ A variable that represents an **[XPath](Excel.XPath.md)** object.
 
 
 ## Example

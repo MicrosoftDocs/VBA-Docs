@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlNamespaces.Application
 ms.assetid: c885b4c1-429d-8318-5898-8f1a881163ba
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ When used without an object qualifier, this property returns an  **[Application]
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [XmlNamespaces](Excel.XmlNamespaces.md) object.
+_expression_ A variable that represents an **[XmlNamespaces](Excel.XmlNamespaces.md)** object.
 
 
 ## Example

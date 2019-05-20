@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlNamespaces.InstallManifest
 ms.assetid: e462d627-d4d1-b3e9-4d6c-ae7ed91665ad
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Installs the specified XML expansion pack on the user's computer, making an XML 
 
 ## Syntax
 
-_expression_. `InstallManifest`( `_Path_` , `_InstallForAllUsers_` )
+_expression_.**InstallManifest** (_Path_, _InstallForAllUsers_)
 
-_expression_ A variable that represents a [XmlNamespaces](Excel.XmlNamespaces.md) object.
+_expression_ A variable that represents an **[XmlNamespaces](Excel.XmlNamespaces.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
