@@ -19,7 +19,7 @@ Returns or sets the number of days shown in the shared workbook's change history
 
 ## Syntax
 
-_expression_. `ChangeHistoryDuration`
+_expression_.**ChangeHistoryDuration**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

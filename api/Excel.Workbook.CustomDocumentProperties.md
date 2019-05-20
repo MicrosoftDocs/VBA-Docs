@@ -19,7 +19,7 @@ Returns or sets a  **[DocumentProperties](Office.DocumentProperties.md)** collec
 
 ## Syntax
 
-_expression_. `CustomDocumentProperties`
+_expression_.**CustomDocumentProperties**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

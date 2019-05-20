@@ -19,14 +19,12 @@ Saves a workbook to a server from a local computer, and sets the local workbook 
 
 ## Syntax
 
-_expression_. `CheckInWithVersion`( `_SaveChanges_` , `_Comments_` , `_MakePublic_` , `_VersionType_` )
+_expression_.**CheckInWithVersion** (_SaveChanges_, _Comments_, _MakePublic_, _VersionType_)
 
 _expression_ A variable that returns a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

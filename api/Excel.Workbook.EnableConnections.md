@@ -19,7 +19,7 @@ The  **EnableConnections** method allows developers to programmatically enable d
 
 ## Syntax
 
-_expression_. `EnableConnections`
+_expression_.**EnableConnections**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

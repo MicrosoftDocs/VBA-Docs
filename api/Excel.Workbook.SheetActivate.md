@@ -19,14 +19,12 @@ Occurs when any sheet is activated.
 
 ## Syntax
 
-_expression_. `SheetActivate`( `_Sh_` )
+_expression_.**SheetActivate** (_Sh_)
 
  _expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

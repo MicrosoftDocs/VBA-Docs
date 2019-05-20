@@ -19,7 +19,7 @@ Occurs when you click any hyperlink on a worksheet. For application- and workboo
 
 ## Syntax
 
-_expression_. `FollowHyperlink`( `_Target_` )
+_expression_.**FollowHyperlink** (_Target_)
 
  _expression_ An expression that returns a **[Worksheet](Excel.Worksheet.md)** object.
 

@@ -19,14 +19,12 @@ Occurs after the workbook is saved.
 
 ## Syntax
 
-_expression_. `AfterSave`( `_Success_` )
+_expression_.**AfterSave** (_Success_)
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

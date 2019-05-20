@@ -17,7 +17,7 @@ Occurs after the Excel data model is changed.
 
 ## Syntax
 
-_expression_. `ModelChange`_(Changes)_
+_expression_.**ModelChange** (_Changes_)
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Changes_|Required|MODELCHANGES|[ModelChanges](Excel.modelchanges.md) object which includes changes made to the Excel data model during the last transaction.|
+| _Changes_|Required|MODELCHANGES|**[ModelChanges](Excel.modelchanges.md)** object that includes changes made to the Excel data model during the last transaction.|
 
 ## See also
 

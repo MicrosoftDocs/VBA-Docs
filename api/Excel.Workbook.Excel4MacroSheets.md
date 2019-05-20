@@ -19,7 +19,7 @@ Returns a  **[Sheets](Excel.Sheets.md)** collection that represents all the Micr
 
 ## Syntax
 
-_expression_. `Excel4MacroSheets`
+_expression_.**Excel4MacroSheets**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

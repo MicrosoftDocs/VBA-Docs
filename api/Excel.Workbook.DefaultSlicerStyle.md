@@ -19,7 +19,7 @@ Specifies the style from the  **[TableStyles](Excel.TableStyles.md)** object tha
 
 ## Syntax
 
-_expression_. `DefaultSlicerStyle`
+_expression_.**DefaultSlicerStyle**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

@@ -19,14 +19,12 @@ Occurs after a cell or range of cells inside a PivotTable are edited or recalcul
 
 ## Syntax
 
-_expression_. `SheetPivotTableAfterValueChange`( `_Sh_` , `_TargetPivotTable_` , `_TargetRange_` )
+_expression_.**SheetPivotTableAfterValueChange** (_Sh_, _TargetPivotTable_, _TargetRange_)
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

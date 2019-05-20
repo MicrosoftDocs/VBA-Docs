@@ -19,7 +19,7 @@ Returns a  **[Windows](Excel.Windows.md)** collection that represents all the wi
 
 ## Syntax
 
-_expression_. `Windows`
+_expression_.**Windows**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

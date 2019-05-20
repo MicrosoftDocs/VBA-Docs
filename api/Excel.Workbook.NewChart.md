@@ -19,14 +19,12 @@ Occurs when a new chart is created in the workbook.
 
 ## Syntax
 
-_expression_. `NewChart`( `_Ch_` )
+_expression_.**NewChart** (_Ch_)
 
 _expression_ A variable that returns a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -19,14 +19,12 @@ Occurs before the workbook (or anything in it) is printed.
 
 ## Syntax
 
-_expression_. `BeforePrint`( `_Cancel_` )
+_expression_.**BeforePrint** (_Cancel_)
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

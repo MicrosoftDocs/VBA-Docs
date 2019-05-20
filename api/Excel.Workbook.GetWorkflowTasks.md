@@ -19,7 +19,7 @@ Returns the collection of  **[WorkflowTask](Office.WorkflowTask.md)** objects fo
 
 ## Syntax
 
-_expression_. `GetWorkflowTasks`
+_expression_.**GetWorkflowTasks**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

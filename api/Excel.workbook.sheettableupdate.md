@@ -17,14 +17,12 @@ Occurs after the sheet table has been updated.
 
 ## Syntax
 
-_expression_. `SheetTableUpdate`_(Sh,_ _Target)_
+_expression_.**SheetTableUpdate** (_Sh_, _Target_)
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

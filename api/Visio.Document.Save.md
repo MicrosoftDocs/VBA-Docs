@@ -19,7 +19,7 @@ Saves a document.
 
 ## Syntax
 
-_expression_. `Save`
+_expression_.**Save**
 
 _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

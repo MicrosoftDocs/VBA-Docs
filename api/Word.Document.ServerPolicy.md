@@ -19,7 +19,7 @@ Returns a  **ServerPolicy** object that represents a policy specified for a docu
 
 ## Syntax
 
-_expression_. `ServerPolicy`
+_expression_.**ServerPolicy**
 
  _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 

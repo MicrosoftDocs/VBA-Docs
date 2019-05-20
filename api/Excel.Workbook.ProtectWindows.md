@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Workbook.ProtectWindows property (Excel)
 
- **True** if the windows of the workbook are protected. Read-only **Boolean**.
+**True** if the windows of the workbook are protected. Read-only **Boolean**.
 
 
 ## Syntax
 
-_expression_. `ProtectWindows`
+_expression_.**ProtectWindows**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

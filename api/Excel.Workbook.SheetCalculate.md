@@ -19,9 +19,9 @@ Occurs after any worksheet is recalculated or after any changed data is plotted 
 
 ## Syntax
 
-_expression_. `SheetCalculate`( `_Sh_` , )
+_expression_.**SheetCalculate** (_Sh_)
 
- _expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
+_expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters

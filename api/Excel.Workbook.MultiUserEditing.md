@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `MultiUserEditing`
+_expression_.**MultiUserEditing**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

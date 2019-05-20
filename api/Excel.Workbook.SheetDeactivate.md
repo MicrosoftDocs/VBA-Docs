@@ -19,14 +19,12 @@ Occurs when any sheet is deactivated.
 
 ## Syntax
 
-_expression_. `SheetDeactivate`( `_Sh_` , )
+_expression_.**SheetDeactivate** (_Sh_)
 
- _expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
+_expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

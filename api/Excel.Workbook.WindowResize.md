@@ -19,7 +19,7 @@ Occurs when any workbook window is resized.
 
 ## Syntax
 
-_expression_. `WindowResize`(_Wn_)
+_expression_.**WindowResize** (_Wn_)
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

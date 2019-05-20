@@ -19,14 +19,12 @@ Imports an XML data file into the current workbook.
 
 ## Syntax
 
-_expression_. `XmlImport`( `_Url_` , `_ImportMap_` , `_Overwrite_` , `_Destination_` )
+_expression_.**XmlImport** (_Url_, _ImportMap_, _Overwrite_, _Destination_)
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -19,7 +19,7 @@ Occurs when a worksheet is double-clicked, before the default double-click actio
 
 ## Syntax
 
-_expression_. `BeforeDoubleClick`( `_Target_` , `_Cancel_` )
+_expression_.**BeforeDoubleClick** (_Target_ , _Cancel_)
 
 _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
