@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.FreezePanes property (Excel)
 
- **True** if split panes are frozen. Read/write **Boolean**.
+**True** if split panes are frozen. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 ## Remarks
 
-It's possible for  **FreezePanes** to be **True** and **[Split](Excel.Window.Split.md)** to be **False**, or vice versa.
+It's possible for **FreezePanes** to be **True** and **[Split](Excel.Window.Split.md)** to be **False**, or vice versa.
 
 This property applies only to worksheets and macro sheets.
 
@@ -35,16 +35,11 @@ This property applies only to worksheets and macro sheets.
 
 This example freezes split panes in the active window in Book1.xls.
 
-
 ```vb
 Workbooks("BOOK1.XLS").Worksheets("Sheet1").Activate 
 ActiveWindow.FreezePanes = True
 ```
 
 
-## See also
-
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

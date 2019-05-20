@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.VisibleRange property (Excel)
 
-Returns a  **[Range](Excel.Range(object).md)** object that represents the range of cells that are visible in the window or pane. If a column or row is partially visible, it's included in the range. Read-only.
+Returns a **[Range](Excel.Range(object).md)** object that represents the range of cells that are visible in the window or pane. If a column or row is partially visible, it's included in the range. Read-only.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**VisibleRange**
 _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 
-## See also
 
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.ActiveCell property (Excel)
 
-Returns a  **[Range](Excel.Range(object).md)** object that represents the active cell in the active window (the window on top) or in the specified window. If the window isn't displaying a worksheet, this property fails. Read-only.
+Returns a **[Range](Excel.Range(object).md)** object that represents the active cell in the active window (the window on top) or in the specified window. If the window isn't displaying a worksheet, this property fails. Read-only.
 
 
 ## Syntax
@@ -32,9 +32,6 @@ Be careful to distinguish between the active cell and the selection. The active 
 
 The following expressions all return the active cell, and are all equivalent.
 
-
-
-
 ```vb
 ActiveCell 
 Application.ActiveCell 
@@ -45,18 +42,16 @@ Application.ActiveWindow.ActiveCell
 
 ## Example
 
-This example uses a message box to display the value in the active cell. Because the  **ActiveCell** property fails if the active sheet isn't a worksheet, the example activates Sheet1 before using the **ActiveCell** property.
-
+This example uses a message box to display the value in the active cell. Because the **ActiveCell** property fails if the active sheet isn't a worksheet, the example activates Sheet1 before using the **ActiveCell** property.
 
 ```vb
 Worksheets("Sheet1").Activate 
 MsgBox ActiveCell.Value
 ```
 
+<br/>
+
 This example changes the font formatting for the active cell.
-
-
-
 
 ```vb
 Worksheets("Sheet1").Activate 
@@ -67,9 +62,5 @@ End With
 ```
 
 
-## See also
-
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

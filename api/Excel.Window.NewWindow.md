@@ -26,12 +26,9 @@ _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 ## Return value
 
-Window
+**Window**
 
 
-## See also
 
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

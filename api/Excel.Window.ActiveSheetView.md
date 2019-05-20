@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.ActiveSheetView property (Excel)
 
- Returns an object that represents the view of the active sheet in the specified window. Read-only.
+Returns an object that represents the view of the active sheet in the specified window. Read-only.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**ActiveSheetView**
 _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 
-## See also
 
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

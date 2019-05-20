@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.DisplayWhitespace property (Excel)
 
- **True** if whitespace is displayed. Read/write **Boolean**.
+**True** if whitespace is displayed. Read/write **Boolean**.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**DisplayWhitespace**
 _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 
-## See also
 
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

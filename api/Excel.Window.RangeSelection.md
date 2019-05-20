@@ -37,15 +37,9 @@ If the active sheet in the specified window isn't a worksheet, this property fai
 
 This example displays the address of the selected cells on the worksheet in the active window.
 
-
 ```vb
 MsgBox ActiveWindow.RangeSelection.Address
 ```
 
-
-## See also
-
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

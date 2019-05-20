@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Down_|Optional| **Variant**|The number of rows to scroll the contents down.|
@@ -42,9 +40,9 @@ Variant
 
 ## Remarks
 
-If  _Down_ and _Up_ are both specified, the contents of the window are scrolled by the difference of the arguments. For example, if _Down_ is 3 and _Up_ is 6, the contents are scrolled up three rows.
+If _Down_ and _Up_ are both specified, the contents of the window are scrolled by the difference of the arguments. For example, if _Down_ is 3 and _Up_ is 6, the contents are scrolled up three rows.
 
-If  _ToLeft_ and _ToRight_ are both specified, the contents of the window are scrolled by the difference of the arguments. For example, if _ToLeft_ is 3 and _ToRight_ is 6, the contents are scrolled to the right three columns.
+If _ToLeft_ and _ToRight_ are both specified, the contents of the window are scrolled by the difference of the arguments. For example, if _ToLeft_ is 3 and _ToRight_ is 6, the contents are scrolled to the right three columns.
 
 Any of these arguments can be a negative number.
 
@@ -53,16 +51,11 @@ Any of these arguments can be a negative number.
 
 This example scrolls the contents of the active window of Sheet1 down three rows.
 
-
 ```vb
 Worksheets("Sheet1").Activate 
 ActiveWindow.SmallScroll down:=3
 ```
 
 
-## See also
-
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

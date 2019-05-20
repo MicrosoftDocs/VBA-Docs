@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.ScrollRow property (Excel)
 
-Returns or sets the number of the row that appears at the top of the pane or window. Read/write  **Long**.
+Returns or sets the number of the row that appears at the top of the pane or window. Read/write **Long**.
 
 
 ## Syntax
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 ## Remarks
 
-If the window is split, the  **ScrollRow** property of the **[Window](Excel.Window.md)** object refers to the upper-left pane. If the panes are frozen, the **ScrollRow** property of the **Window** object excludes the frozen areas.
+If the window is split, the **ScrollRow** property of the **Window** object refers to the upper-left pane. If the panes are frozen, the **ScrollRow** property of the **Window** object excludes the frozen areas.
 
 
 ## Example
 
 This example moves row ten to the top of the window.
-
 
 ```vb
 Worksheets("Sheet1").Activate 
@@ -40,9 +39,5 @@ ActiveWindow.ScrollRow = 10
 ```
 
 
-## See also
-
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

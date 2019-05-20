@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.Left property (Excel)
 
-Returns or sets a  **Double** value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the left edge of the client area to the left edge of the window.
+Returns or sets a **Double** value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the left edge of the client area to the left edge of the window.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Left**
 _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 
-## See also
 
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

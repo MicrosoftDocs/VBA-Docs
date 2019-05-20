@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.DisplayZeros property (Excel)
 
- **True** if zero values are displayed. Read/write **Boolean**.
+**True** if zero values are displayed. Read/write **Boolean**.
 
 
 ## Syntax
@@ -33,7 +33,6 @@ This property applies only to worksheets and macro sheets.
 
 This example sets the active window in Book1.xls to display zero values.
 
-
 ```vb
 Workbooks("BOOK1.XLS").Worksheets("Sheet1").Activate 
 ActiveWindow.DisplayZeros = True 
@@ -41,9 +40,5 @@ ActiveWindow.DisplayZeros = True
 ```
 
 
-## See also
-
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

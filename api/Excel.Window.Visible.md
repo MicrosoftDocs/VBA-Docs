@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.Visible property (Excel)
 
-Returns or sets a  **Boolean** value that determines whether the object is visible. Read/write.
+Returns or sets a **Boolean** value that determines whether the object is visible. Read/write.
 
 
 ## Syntax
@@ -24,9 +24,5 @@ _expression_.**Visible**
 _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 
-## See also
-
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

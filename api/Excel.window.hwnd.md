@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Window.hWnd property (Excel)
 
-Returns a  **Long** that indicates the window handle of the specified window. Read-only.
+Returns a **Long** that indicates the window handle of the specified window. Read-only.
 
 
 ## Syntax
@@ -24,12 +24,9 @@ _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 ## Property value
 
- **INT32**
+**INT32**
 
 
-## See also
 
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

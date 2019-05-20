@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.ActiveSheet property (Excel)
 
-Returns an object that represents the active sheet (the sheet on top) in the active workbook or in the specified window or workbook. Returns  **Nothing** if no sheet is active.
+Returns an object that represents the active sheet (the sheet on top) in the active workbook or in the specified window or workbook. Returns **Nothing** if no sheet is active.
 
 
 ## Syntax
@@ -28,22 +28,18 @@ _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 If you don't specify an object qualifier, this property returns the active sheet in the active workbook.
 
-If a workbook appears in more than one window, the  **ActiveSheet** property may be different in different windows.
+If a workbook appears in more than one window, the **ActiveSheet** property may be different in different windows.
 
 
 ## Example
 
 This example displays the name of the active sheet.
 
-
 ```vb
 MsgBox "The name of the active sheet is " & ActiveSheet.Name
 ```
 
 
-## See also
 
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

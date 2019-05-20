@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Window.SelectedSheets property (Excel)
 
-Returns a  **[Sheets](Excel.Sheets.md)** collection that represents all the selected sheets in the specified window. Read-only.
+Returns a **[Sheets](Excel.Sheets.md)** collection that represents all the selected sheets in the specified window. Read-only.
 
 
 ## Syntax
 
-_expression_. `SelectedSheets`
+_expression_.**SelectedSheets**
 
 _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 ## Example
 
 This example displays a message if Sheet1 is selected in Book1.xls.
-
 
 ```vb
 For Each sh In Workbooks("BOOK1.XLS").Windows(1).SelectedSheets 
@@ -39,9 +38,5 @@ Next
 ```
 
 
-## See also
-
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

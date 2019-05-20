@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.DisplayHorizontalScrollBar property (Excel)
 
- **True** if the horizontal scroll bar is displayed. Read/write **Boolean**.
+**True** if the horizontal scroll bar is displayed. Read/write **Boolean**.
 
 
 ## Syntax
@@ -28,15 +28,10 @@ _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 This example turns on the horizontal scroll bar for the active window.
 
-
 ```vb
 ActiveWindow.DisplayHorizontalScrollBar = True
 ```
 
 
-## See also
-
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

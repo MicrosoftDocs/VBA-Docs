@@ -33,15 +33,11 @@ Variant
 
 This example activates the window at the back of the z-order.
 
-
 ```vb
 ActiveWindow.ActivatePrevious
 ```
 
 
-## See also
 
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

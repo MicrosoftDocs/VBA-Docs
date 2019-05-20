@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # Window.SheetViews property (Excel)
 
-Returns the  **[SheetViews](Excel.SheetViews.md)** object for the specified window. Read-only.
+Returns the **[SheetViews](Excel.SheetViews.md)** object for the specified window. Read-only.
 
 
 ## Syntax
 
-_expression_. `SheetViews`
+_expression_.**SheetViews**
 
 _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 
-## See also
 
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

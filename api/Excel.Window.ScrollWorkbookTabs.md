@@ -28,8 +28,8 @@ _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Sheets_|Optional| **Variant**|The number of sheets to scroll by. Use a positive number to scroll forward, a negative number to scroll backward, or 0 (zero) to not scroll at all. You must specify  _Sheets_ if you don't specify _Position_.|
-| _Position_|Optional| **Variant**|Use  **xlFirst** to scroll to the first sheet, or use **xlLast** to scroll to the last sheet. You must specify _Position_ if you don't specify _Sheets_.|
+| _Sheets_|Optional| **Variant**|The number of sheets to scroll by. Use a positive number to scroll forward, a negative number to scroll backward, or 0 (zero) to not scroll at all. You must specify _Sheets_ if you don't specify _Position_.|
+| _Position_|Optional| **Variant**|Use **xlFirst** to scroll to the first sheet, or use **xlLast** to scroll to the last sheet. You must specify _Position_ if you don't specify _Sheets_.|
 
 ## Return value
 
@@ -40,15 +40,10 @@ Variant
 
 This example scrolls through the workbook tabs to the last sheet in the workbook.
 
-
 ```vb
 ActiveWindow.ScrollWorkbookTabs position:=xlLast
 ```
 
 
-## See also
-
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

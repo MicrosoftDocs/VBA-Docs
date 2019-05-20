@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.View property (Excel)
 
-Returns or sets the view showing in the window. Read/write  **[XlWindowView](Excel.XlWindowView.md)**.
+Returns or sets the view showing in the window. Read/write **[XlWindowView](Excel.XlWindowView.md)**.
 
 
 ## Syntax
@@ -24,30 +24,15 @@ _expression_.**View**
 _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 
-## Remarks
-
-
-
-
-
-| **xlWindowView** can be one of these **xlWindowView** constants.|
-| **xlNormalView**|
-| **xlPageBreakPreview**|
-| **xlPageLayoutView**|
-
 ## Example
 
 This example switches the view in the active window to page break preview.
-
 
 ```vb
 ActiveWindow.View = xlPageBreakPreview
 ```
 
 
-## See also
 
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

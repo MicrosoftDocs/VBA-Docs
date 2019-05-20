@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.ActiveChart property (Excel)
 
-Returns a  **[Chart](Excel.Chart(object).md)** object that represents the active chart (either an embedded chart or a chart sheet). An embedded chart is considered active when it's either selected or activated. When no chart is active, this property returns **Nothing**.
+Returns a **[Chart](Excel.Chart(object).md)** object that represents the active chart (either an embedded chart or a chart sheet). An embedded chart is considered active when it's either selected or activated. When no chart is active, this property returns **Nothing**.
 
 
 ## Syntax
@@ -33,15 +33,11 @@ If you don't specify an object qualifier, this property returns the active chart
 
 This example turns on the legend for the active chart.
 
-
 ```vb
 ActiveChart.HasLegend = True
 ```
 
 
-## See also
 
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

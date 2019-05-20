@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.UsableWidth property (Excel)
 
-Returns the maximum width of the space that a window can occupy in the application window area, in points. Read-only  **Double**.
+Returns the maximum width of the space that a window can occupy in the application window area, in [points](../language/glossary/vbe-glossary.md#point). Read-only **Double**.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 This example expands the active window to the maximum size available (assuming that the window isn't already maximized).
 
-
 ```vb
 With ActiveWindow 
  .WindowState = xlNormal 
@@ -40,9 +39,5 @@ End With
 ```
 
 
-## See also
-
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

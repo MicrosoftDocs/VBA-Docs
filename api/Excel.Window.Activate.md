@@ -31,12 +31,9 @@ Variant
 
 ## Remarks
 
-This won't run any Auto_Activate or Auto_Deactivate macros that might be attached to the workbook (use the  **[RunAutoMacros](Excel.Workbook.RunAutoMacros.md)** method to run those macros).
+This won't run any Auto_Activate or Auto_Deactivate macros that might be attached to the workbook (use the **[RunAutoMacros](Excel.Workbook.RunAutoMacros.md)** method to run those macros).
 
 
-## See also
 
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

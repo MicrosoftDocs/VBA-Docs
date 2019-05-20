@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.Type property (Excel)
 
-Returns or sets a  **[XlWindowType](Excel.XlWindowType.md)** value that represents the window type.
+Returns or sets an **[XlWindowType](Excel.XlWindowType.md)** value that represents the window type.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Type**
 _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 
-## See also
 
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

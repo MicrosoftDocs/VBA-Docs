@@ -26,11 +26,9 @@ _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _EnableChanges_|Optional| **Variant**|Pass a  **Boolean** value to specify if the user can change the margins and other page setup options available in print preview.|
+| _EnableChanges_|Optional| **Variant**|Pass a **Boolean** value to specify if the user can change the margins and other page setup options available in print preview.|
 
 ## Return value
 
@@ -41,15 +39,10 @@ Variant
 
 This example displays Sheet1 in print preview.
 
-
 ```vb
 Worksheets("Sheet1").PrintPreview
 ```
 
 
-## See also
-
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

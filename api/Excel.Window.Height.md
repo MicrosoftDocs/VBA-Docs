@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.Height property (Excel)
 
-Returns or sets a  **Double** value that represents the height, in [points](../language/glossary/vbe-glossary.md#point), of the window.
+Returns or sets a **Double** value that represents the height, in [points](../language/glossary/vbe-glossary.md#point), of the window.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 ## Remarks
 
-Use the  **[UsableHeight](Excel.Window.UsableHeight.md)** property to determine the maximum size for the window. You cannot set this property if the window is maximized or minimized. Use the **[WindowState](Excel.Window.WindowState.md)** property to determine the window state.
+Use the **[UsableHeight](Excel.Window.UsableHeight.md)** property to determine the maximum size for the window. You cannot set this property if the window is maximized or minimized. Use the **[WindowState](Excel.Window.WindowState.md)** property to determine the window state.
 
 
-## See also
 
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

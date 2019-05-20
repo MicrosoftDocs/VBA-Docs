@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.DisplayOutline property (Excel)
 
- **True** if outline symbols are displayed. Read/write **Boolean**.
+**True** if outline symbols are displayed. Read/write **Boolean**.
 
 
 ## Syntax
@@ -33,7 +33,6 @@ This property applies only to worksheets and macro sheets.
 
 This example displays outline symbols for the active window in Book1.xls.
 
-
 ```vb
 Workbooks("BOOK1.XLS").Worksheets("Sheet1").Activate 
 ActiveWindow.DisplayOutline = True 
@@ -41,9 +40,5 @@ ActiveWindow.DisplayOutline = True
 ```
 
 
-## See also
-
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.EnableResize property (Excel)
 
- **True** if the window can be resized. Read/write **Boolean**.
+**True** if the window can be resized. Read/write **Boolean**.
 
 
 ## Syntax
@@ -28,15 +28,11 @@ _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 This example sets the active window so that it cannot be resized.
 
-
 ```vb
 ActiveWindow.EnableResize = False
 ```
 
 
-## See also
 
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
