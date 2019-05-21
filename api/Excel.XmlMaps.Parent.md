@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlMaps.Parent
 ms.assetid: 177f48d2-5e30-802e-6c5f-8c7ba16b4b74
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,8 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [XmlMaps](Excel.XmlMaps.md) object.
+_expression_ A variable that represents an **[XmlMaps](Excel.XmlMaps.md)** object.
 
 
-## See also
-
-
-[XmlMaps Object](Excel.XmlMaps.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

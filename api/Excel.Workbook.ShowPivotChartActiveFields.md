@@ -19,7 +19,7 @@ This property controls the visibility of the PivotChart Filter Pane. Read/write 
 
 ## Syntax
 
-_expression_. `ShowPivotChartActiveFields`
+_expression_.**ShowPivotChartActiveFields**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

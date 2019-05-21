@@ -20,7 +20,7 @@ Version Added: Outlook 2013
 
 ## Syntax
 
-_expression_. `Save`
+_expression_.**Save**
 
 _expression_ A variable that represents a 'PeopleView' object.
 

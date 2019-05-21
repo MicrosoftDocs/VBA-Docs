@@ -16,16 +16,16 @@ localization_priority: Normal
 
 Returns the hypergeometric distribution. HYPGEOMDIST returns the probability of a given number of sample successes, given the sample size, population successes, and population size. Use HYPGEOMDIST for problems with a finite population, where each observation is either a success or a failure, and where each subset of a given size is chosen with equal likelihood.
 
-
- **Important**  This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
-
-For more information about the new function, see the [HypGeom_Dist](Excel.WorksheetFunction.HypGeom_Dist.md) method.
+> [!IMPORTANT] 
+> This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
+> 
+, see the [HypGeom_Dist](Excel.WorksheetFunction.HypGeom_Dist.md) method.
 
 ## Syntax
 
-_expression_. `HypGeomDist`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `HypGeomDist` (_Arg1_, _Arg2_, _Arg3_, _Arg4_)
 
-_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

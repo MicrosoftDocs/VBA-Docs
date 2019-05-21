@@ -19,7 +19,7 @@ Resets the color palette to the default colors.
 
 ## Syntax
 
-_expression_. `ResetColors`
+_expression_.**ResetColors**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

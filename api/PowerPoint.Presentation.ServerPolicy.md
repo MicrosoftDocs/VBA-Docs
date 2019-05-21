@@ -19,7 +19,7 @@ Returns a Microsoft Office  **[ServerPolicy](Office.ServerPolicy.md)** object. R
 
 ## Syntax
 
-_expression_. `ServerPolicy`
+_expression_.**ServerPolicy**
 
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 

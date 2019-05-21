@@ -17,9 +17,9 @@ Returns the secant of an angle.
 
 ## Syntax
 
-_expression_. `Sec`_(Arg1)_
+_expression_.**Sec** (_Arg1_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

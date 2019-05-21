@@ -19,9 +19,9 @@ Returns the right-tailed Student t-distribution where a numeric value (x) is a c
 
 ## Syntax
 
-_expression_. `T_Dist_RT`( `_Arg1_` , `_Arg2_` )
+_expression_. `T_Dist_RT` (_Arg1_, _Arg2_)
 
-_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

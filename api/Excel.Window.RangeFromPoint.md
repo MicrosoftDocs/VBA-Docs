@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Window.RangeFromPoint
 ms.assetid: ece6172d-013d-5175-55e3-4968947d9e4e
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
 
 # Window.RangeFromPoint method (Excel)
 
-Returns the  **[Shape](Excel.Shape.md)** or **[Range](Excel.Range(object).md)** object that is positioned at the specified pair of screen coordinates. If there isn't a shape located at the specified coordinates, this method returns **Nothing**.
+Returns the **[Shape](Excel.Shape.md)** or **[Range](Excel.Range(object).md)** object that is positioned at the specified pair of screen coordinates. If there isn't a shape located at the specified coordinates, this method returns **Nothing**.
 
 
 ## Syntax
@@ -25,8 +25,6 @@ _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -41,7 +39,6 @@ Object
 ## Example
 
 This example returns the alternative text for the shape immediately below the mouse pointer if the shape is a chart, line, or picture.
-
 
 ```vb
 Private Function AltText(ByVal intMouseX As Integer, _ 
@@ -64,9 +61,5 @@ End Function
 ```
 
 
-## See also
-
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

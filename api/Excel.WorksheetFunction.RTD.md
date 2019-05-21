@@ -21,7 +21,7 @@ This method connects to a source to receive real-time data.
 
 _expression_. `RTD`( `_progID_` , `_server_` , `_topic1_` , `_topic2_` , `_topic3_` , `_topic4_` , `_topic5_` , `_topic6_` , `_topic7_` , `_topic8_` , `_topic9_` , `_topic10_` , `_topic11_` , `_topic12_` , `_topic13_` , `_topic14_` , `_topic15_` , `_topic16_` , `_topic17_` , `_topic18_` , `_topic19_` , `_topic20_` , `_topic21_` , `_topic22_` , `_topic23_` , `_topic24_` , `_topic25_` , `_topic26_` , `_topic27_` , `_topic28_` )
 
- _expression_ An expression that returns a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+ _expression_ An expression that returns a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

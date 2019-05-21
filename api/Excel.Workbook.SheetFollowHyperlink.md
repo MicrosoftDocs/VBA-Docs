@@ -19,14 +19,12 @@ Occurs when you click any hyperlink in Microsoft Excel. For worksheet-level even
 
 ## Syntax
 
-_expression_. `SheetFollowHyperlink`( `_Sh_` , `_Target_` )
+_expression_.**SheetFollowHyperlink** (_Sh_, _Target_)
 
- _expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
+_expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Window.Activate
 ms.assetid: 7e0fdc4e-6399-62a8-f706-1653eb9217a2
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -31,12 +31,9 @@ Variant
 
 ## Remarks
 
-This won't run any Auto_Activate or Auto_Deactivate macros that might be attached to the workbook (use the  **[RunAutoMacros](Excel.Workbook.RunAutoMacros.md)** method to run those macros).
+This won't run any Auto_Activate or Auto_Deactivate macros that might be attached to the workbook (use the **[RunAutoMacros](Excel.Workbook.RunAutoMacros.md)** method to run those macros).
 
 
-## See also
 
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

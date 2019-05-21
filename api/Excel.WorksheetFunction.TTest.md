@@ -16,18 +16,17 @@ localization_priority: Normal
 
 Returns the probability associated with a Student's t-Test. Use TTEST to determine whether two samples are likely to have come from the same two underlying populations that have the same mean.
 
-
-
-
-
- **Important**  This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.For more information about the new function, see the [T_Test](Excel.WorksheetFunction.T_Test.md) method.
+> [!IMPORTANT] 
+> This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
+> 
+> For more information about the new function, see the [T_Test](Excel.WorksheetFunction.T_Test.md) method.
 
 
 ## Syntax
 
-_expression_. `TTest`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `TTest` (_Arg1_, _Arg2_, _Arg3_, _Arg4_)
 
-_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

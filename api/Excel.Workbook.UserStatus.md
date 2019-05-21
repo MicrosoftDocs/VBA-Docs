@@ -19,7 +19,7 @@ Returns a 1-based, two-dimensional array that provides information about each us
 
 ## Syntax
 
-_expression_. `UserStatus`
+_expression_.**UserStatus**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

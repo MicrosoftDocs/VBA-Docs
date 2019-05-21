@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlMaps.Add
 ms.assetid: 0197c932-73bf-024e-35b1-aba984175aee
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -21,26 +21,21 @@ Adds an XML map to the specified workbook.
 
 _expression_.**Add** (_Schema_, _RootElementName_)
 
- _expression_ An expression that returns a [XmlMaps](Excel.XmlMaps.md) object.
+_expression_ An expression that returns an **[XmlMaps](Excel.XmlMaps.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Schema_|Required| **String**|The schema to be added as an XML map. The string can be a path to a schema file, or the schema itself. The path can be specified in the Universal Naming Convention (UNC) or Uniform Resource Locator (URL) format.|
 | _RootElementName_|Optional| **Variant**|The name of the root element. This argument can be ignored if the schema contains only one root element.|
 
+
 ## Return value
 
-An  **[XmlMap](Excel.XmlMap.md)** object that represents the new XML map.
+An **[XmlMap](Excel.XmlMap.md)** object that represents the new XML map.
 
 
-## See also
-
-
-[XmlMaps Object](Excel.XmlMaps.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

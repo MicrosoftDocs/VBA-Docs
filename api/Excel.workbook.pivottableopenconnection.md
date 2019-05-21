@@ -17,7 +17,7 @@ Occurs after a PivotTable report opens the connection to its data source.
 
 ## Syntax
 
-_expression_. `PivotTableOpenConnection`( `_Target_` )
+_expression_.**PivotTableOpenConnection** (_Target_)
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

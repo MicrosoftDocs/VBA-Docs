@@ -16,23 +16,20 @@ localization_priority: Normal
 
 Returns the one-tailed probability-value of a z-test. For a given hypothesized population mean, ZTEST returns the probability that the sample mean would be greater than the average of observations in the data set (array) ? that is, the observed sample mean.
 
-
-
-
-
- **Important**  This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.For more information about the new function, see the [Z_Test](Excel.WorksheetFunction.Z_Test.md) method.
+> [!IMPORTANT] 
+> This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
+> 
+> For more information about the new function, see the [Z_Test](Excel.WorksheetFunction.Z_Test.md) method.
 
 
 ## Syntax
 
-_expression_. `ZTest`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_.**ZTest** (_Arg1_, _Arg2_, _Arg3_)
 
-_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -46,9 +43,6 @@ Double
 
 
 ## Remarks
-
-
-
 
 - If array is empty, ZTEST returns the #N/A error value.
     

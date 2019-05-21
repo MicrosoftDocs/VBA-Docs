@@ -19,14 +19,12 @@ Occurs after changes to a PivotTable.
 
 ## Syntax
 
-_expression_. `SheetPivotTableChangeSync`( `_Sh_` , `_Target_` )
+_expression_.**SheetPivotTableChangeSync** (_Sh_, _Target_)
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

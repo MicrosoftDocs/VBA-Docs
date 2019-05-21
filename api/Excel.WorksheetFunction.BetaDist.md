@@ -16,16 +16,16 @@ localization_priority: Normal
 
 Returns the beta cumulative distribution function.
 
-
- **Important**  This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
-
-For more information about the new function, see the [Beta_Dist](Excel.WorksheetFunction.Beta_Dist.md) method.
+> [!IMPORTANT] 
+> This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
+> 
+> For more information about the new function, see the [Beta_Dist](Excel.WorksheetFunction.Beta_Dist.md) method.
 
 ## Syntax
 
-_expression_. `BetaDist`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
+_expression_.**BetaDist** (_Arg1_, _Arg2_, _Arg3_, _Arg4_, _Arg5_)
 
-_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

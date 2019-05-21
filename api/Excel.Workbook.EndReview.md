@@ -19,7 +19,7 @@ Terminates a review of a file that has been sent for review using the  **[SendFo
 
 ## Syntax
 
-_expression_. `EndReview`
+_expression_.**EndReview**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

@@ -19,7 +19,7 @@ Returns a  **SignatureSet** collection that represents the digital signatures fo
 
 ## Syntax
 
-_expression_. `Signatures`
+_expression_.**Signatures**
 
  _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 

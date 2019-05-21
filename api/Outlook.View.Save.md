@@ -19,7 +19,7 @@ Saves the view, or saves the changes to a view.
 
 ## Syntax
 
-_expression_. `Save`
+_expression_.**Save**
 
 _expression_ A variable that represents a [View](Outlook.View.md) object.
 

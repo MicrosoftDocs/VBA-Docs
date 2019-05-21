@@ -17,14 +17,12 @@ Returns the cosecant of an angle.
 
 ## Syntax
 
-_expression_. `Csc`_(Arg1)_
+_expression_.**Csc** (_Arg1_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

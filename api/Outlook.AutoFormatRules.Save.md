@@ -19,7 +19,7 @@ Save all changes to  **[AutoFormatRule](Outlook.AutoFormatRule.md)** objects wit
 
 ## Syntax
 
-_expression_. `Save`
+_expression_.**Save**
 
 _expression_ A variable that represents an [AutoFormatRules](Outlook.AutoFormatRules.md) object.
 

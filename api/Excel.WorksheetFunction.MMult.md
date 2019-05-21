@@ -20,7 +20,7 @@ Returns the matrix product of two arrays. The result is an array with the same n
 
 _expression_. `MMult`(`Arg1`, `Arg2`)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

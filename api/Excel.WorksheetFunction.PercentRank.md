@@ -16,16 +16,16 @@ localization_priority: Normal
 
 Returns the rank of a value in a data set as a percentage of the data set. This function can be used to evaluate the relative standing of a value within a data set. For example, you can use PERCENTRANK to evaluate the standing of an aptitude test score among all scores for the test.
 
-
- **Important**  This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
-
-For more information about the new functions, see the [Percentile_Inc](Excel.WorksheetFunction.Percentile_Inc.md) and [Percentile_Exc](Excel.WorksheetFunction.Percentile_Exc.md) method.
+> [!IMPORTANT] 
+> This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
+> 
+> For more information about the new functions, see the [Percentile_Inc](Excel.WorksheetFunction.Percentile_Inc.md) and [Percentile_Exc](Excel.WorksheetFunction.Percentile_Exc.md) method.
 
 ## Syntax
 
-_expression_. `PercentRank`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `PercentRank` (_Arg1_, _Arg2_, _Arg3_)
 
-_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

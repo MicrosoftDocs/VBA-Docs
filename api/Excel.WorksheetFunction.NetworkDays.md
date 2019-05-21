@@ -19,9 +19,9 @@ Returns the number of whole working days between start_date and end_date. Workin
 
 ## Syntax
 
-_expression_. `NetworkDays`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `NetworkDays` (_Arg1_, _Arg2_, _Arg3_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

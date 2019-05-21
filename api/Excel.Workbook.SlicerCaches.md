@@ -19,7 +19,7 @@ Returns the  **[SlicerCaches](Excel.SlicerCaches.md)** object associated with th
 
 ## Syntax
 
-_expression_. `SlicerCaches`
+_expression_.**SlicerCaches**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

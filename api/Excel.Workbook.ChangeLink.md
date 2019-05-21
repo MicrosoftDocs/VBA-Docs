@@ -19,14 +19,12 @@ Changes a link from one document to another.
 
 ## Syntax
 
-_expression_. `ChangeLink`( `_Name_` , `_NewName_` , `_Type_` )
+_expression_.**ChangeLink** (_Name_, _NewName_, _Type_)
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

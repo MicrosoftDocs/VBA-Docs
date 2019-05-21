@@ -19,7 +19,7 @@ Returns a  **[CommandBars](Office.CommandBars.md)** object that represents the M
 
 ## Syntax
 
-_expression_. `CommandBars`
+_expression_.**CommandBars**
 
  _expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
 

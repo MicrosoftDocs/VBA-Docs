@@ -19,14 +19,12 @@ Turns off protection for sharing and saves the workbook.
 
 ## Syntax
 
-_expression_. `UnprotectSharing`( `_SharingPassword_` )
+_expression_.**UnprotectSharing** (_SharingPassword_)
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

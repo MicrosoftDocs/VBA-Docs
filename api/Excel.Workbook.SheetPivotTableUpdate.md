@@ -19,14 +19,12 @@ Occurs after the sheet of the PivotTable report has been updated.
 
 ## Syntax
 
-_expression_. `SheetPivotTableUpdate`( `_Sh_` , `_Target_` )
+_expression_.**SheetPivotTableUpdate** (_Sh_, _Target_)
 
  _expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

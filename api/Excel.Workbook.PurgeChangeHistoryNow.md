@@ -19,14 +19,12 @@ Removes entries from the change log for the specified workbook.
 
 ## Syntax
 
-_expression_. `PurgeChangeHistoryNow`( `_Days_` , `_SharingPassword_` )
+_expression_.**PurgeChangeHistoryNow** (_Days_, _SharingPassword_)
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

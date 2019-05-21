@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Window.Top
 ms.assetid: e04d6641-9788-1e0b-9343-011c414c31fc
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
 
 # Window.Top property (Excel)
 
-Returns or sets a  **Double** value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the top edge of the window to the top edge of the usable area (below the menus, any toolbars docked at the top, and the formula bar).
+Returns or sets a **Double** value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the top edge of the window to the top edge of the usable area (below the menus, any toolbars docked at the top, and the formula bar).
 
 
 ## Syntax
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 ## Remarks
 
-You cannot set this property for a maximized window. Use the  **[WindowState](Excel.Window.WindowState.md)** property to return or set the state of the window.
+You cannot set this property for a maximized window. Use the **[WindowState](Excel.Window.WindowState.md)** property to return or set the state of the window.
 
 
 ## Example
 
 This example arranges windows one and two horizontally; in other words, each window occupies half the available vertical space and all the available horizontal space in the application window's client area. For this example to work, there must be only two worksheet windows open.
-
 
 ```vb
 Windows.Arrange xlArrangeTiled 
@@ -52,9 +51,5 @@ End With
 ```
 
 
-## See also
-
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

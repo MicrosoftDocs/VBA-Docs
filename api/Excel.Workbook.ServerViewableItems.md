@@ -19,7 +19,7 @@ Allows a developer to interact with the list of published objects in the workboo
 
 ## Syntax
 
-_expression_. `ServerViewableItems`
+_expression_.**ServerViewableItems**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

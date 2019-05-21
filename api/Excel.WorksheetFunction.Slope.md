@@ -20,7 +20,7 @@ Returns the slope of the linear regression line through data points in known_y's
 
 _expression_. `Slope`(`Arg1`, `Arg2`)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

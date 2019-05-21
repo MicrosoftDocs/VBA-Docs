@@ -19,7 +19,7 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 
 ## Syntax
 
-_expression_. `Mailer`
+_expression_.**Mailer**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

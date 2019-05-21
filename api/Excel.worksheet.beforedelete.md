@@ -17,7 +17,7 @@ Occurs before the worksheet is deleted.
 
 ## Syntax
 
-_expression_. `BeforeDelete`
+_expression_.**BeforeDelete**
 
 _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 

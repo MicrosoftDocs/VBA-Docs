@@ -19,7 +19,7 @@ localization_priority: Normal
 
 _expression_.**AutoSaveOn**
 
-_expression_ A variable that represents a **Workbook** object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 ## Remarks
 

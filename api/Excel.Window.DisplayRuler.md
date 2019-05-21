@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Window.DisplayRuler
 ms.assetid: 16cf207e-6d11-2689-9b04-5f9b9a65d848
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
 
 # Window.DisplayRuler property (Excel)
 
- **True** if a ruler is displayed for the specified window. Read/write **Boolean**.
+**True** if a ruler is displayed for the specified window. Read/write **Boolean**.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**DisplayRuler**
 _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 
-## See also
 
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

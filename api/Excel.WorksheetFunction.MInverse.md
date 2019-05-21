@@ -19,9 +19,9 @@ Returns the inverse matrix for the matrix stored in an array.
 
 ## Syntax
 
-_expression_. `MInverse`( `_Arg1_` )
+_expression_. `MInverse` (_Arg1_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

@@ -17,14 +17,12 @@ Returns the hyperbolic cotangent of a number
 
 ## Syntax
 
-_expression_. `Coth`_(Arg1)_
+_expression_.**Coth** (_Arg1_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

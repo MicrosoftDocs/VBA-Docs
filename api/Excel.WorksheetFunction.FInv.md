@@ -16,16 +16,16 @@ localization_priority: Normal
 
 Returns the inverse of the F probability distribution. If p = FDIST(x,...), then FINV(p,...) = x.
 
-
- **Important**  This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
-
-For more information about the new functions, see the [F_Inv_RT](Excel.WorksheetFunction.F_Inv_RT.md) and [F_Inv](Excel.WorksheetFunction.F_Inv.md) methods.
+> [!IMPORTANT] 
+> This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
+> 
+> For more information about the new functions, see the [F_Inv_RT](Excel.WorksheetFunction.F_Inv_RT.md) and [F_Inv](Excel.WorksheetFunction.F_Inv.md) methods.
 
 ## Syntax
 
-_expression_. `FInv`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `FInv` (_Arg1_, _Arg2_, _Arg3_)
 
-_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

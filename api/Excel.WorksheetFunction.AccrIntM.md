@@ -19,9 +19,9 @@ Returns the accrued interest for a security that pays interest at maturity.
 
 ## Syntax
 
-_expression_. `AccrIntM`(`Arg1`, `Arg2`, `Arg3`, `Arg4`, `Arg5`)
+_expression_.**AccrIntM** (_Arg1_, _Arg2_, _Arg3_, _Arg4_, _Arg5_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
@@ -33,6 +33,7 @@ _expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFun
 | _Arg3_|Required| **Variant**|The security's annual coupon rate.|
 | _Arg4_|Required| **Variant**|The security's par value. If you omit par, ACCRINTM uses $1,000.|
 | _Arg5_|Optional| **Variant**|The type of day count basis to use.|
+
 
 ## Return value
 

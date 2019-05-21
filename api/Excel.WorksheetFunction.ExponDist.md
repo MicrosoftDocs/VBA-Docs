@@ -16,16 +16,16 @@ localization_priority: Normal
 
 Returns the exponential distribution. Use EXPONDIST to model the time between events, such as how long an automated bank teller takes to deliver cash. For example, you can use EXPONDIST to determine the probability that the process takes at most 1 minute.
 
-
- **Important**  This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
-
-For more information about the new function, see the [Expon_Dist](Excel.WorksheetFunction.Expon_Dist.md) method.
+> [!IMPORTANT] 
+> This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
+> 
+> For more information about the new function, see the [Expon_Dist](Excel.WorksheetFunction.Expon_Dist.md) method.
 
 ## Syntax
 
-_expression_. `ExponDist`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_.**ExponDist** (_Arg1_, _Arg2_, _Arg3_)
 
-_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

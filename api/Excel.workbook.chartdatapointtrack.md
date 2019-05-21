@@ -17,7 +17,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `ChartDataPointTrack`
+_expression_.**ChartDataPointTrack**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

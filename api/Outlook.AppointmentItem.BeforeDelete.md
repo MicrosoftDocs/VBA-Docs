@@ -16,7 +16,7 @@ Occurs before an item (which is an instance of the parent object) is deleted.
 
 ## Syntax
 
-_expression_. `BeforeDelete`( `_Item_` , `_Cancel_` )
+_expression_.**BeforeDelete** (_Item_, _Cancel_)
 
 _expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 

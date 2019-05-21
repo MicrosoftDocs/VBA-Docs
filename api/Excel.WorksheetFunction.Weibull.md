@@ -16,18 +16,17 @@ localization_priority: Normal
 
 Returns the Weibull distribution. Use this distribution in reliability analysis, such as calculating a device's mean time to failure.
 
-
-
-
-
- **Important**  This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.For more information about the new function, see the [Weibull_Dist](Excel.WorksheetFunction.Weibull_Dist.md) method.
+> [!IMPORTANT] 
+> This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
+> 
+> For more information about the new function, see the [Weibull_Dist](Excel.WorksheetFunction.Weibull_Dist.md) method.
 
 
 ## Syntax
 
-_expression_. `Weibull`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `Weibull` (_Arg1_, _Arg2_, _Arg3_, _Arg4_)
 
-_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

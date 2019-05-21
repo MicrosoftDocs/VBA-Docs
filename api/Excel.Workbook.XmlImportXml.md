@@ -19,14 +19,12 @@ Imports an XML data stream that has been previously loaded into memory. Excel us
 
 ## Syntax
 
-_expression_. `XmlImportXml`( `_Data_` , `_ImportMap_` , `_Overwrite_` , `_Destination_` )
+_expression_.**XmlImportXml** (_Data_, _ImportMap_, _Overwrite_, _Destination_)
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -19,7 +19,7 @@ Specifies the table style from the  **TableStyles** collection that is used as t
 
 ## Syntax
 
-_expression_. `DefaultTableStyle`
+_expression_.**DefaultTableStyle**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

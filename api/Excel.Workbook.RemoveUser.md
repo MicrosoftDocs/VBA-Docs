@@ -19,7 +19,7 @@ Disconnects the specified user from the shared workbook.
 
 ## Syntax
 
-_expression_. `RemoveUser` (_Index_)
+_expression_.**RemoveUser** (_Index_)
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

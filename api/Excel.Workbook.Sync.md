@@ -16,10 +16,13 @@ localization_priority: Normal
 
 This object or member has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 
+## Syntax
 
-## See also
+_expression_.**Sync**
+
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
-[Workbook Object](Excel.Workbook.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.XmlDataBinding.LoadSettings
 ms.assetid: 218026ec-829b-048d-2429-6983ecfc26fd
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -19,22 +19,17 @@ Initializes the specified data binding with settings from an XML data file or a 
 
 ## Syntax
 
-_expression_. `LoadSettings`( `_Url_` )
+_expression_.**LoadSettings** (_Url_)
 
 _expression_ A variable that represents an **[XmlDataBinding](Excel.XmlDataBinding.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Url_|Required| **String**|The path to the XML data file. The path is specified in the Uniform Resource Locator (URL) or universal naming convention (UNC) format.|
 
-## See also
 
-
-[XmlDataBinding Object](Excel.XmlDataBinding.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

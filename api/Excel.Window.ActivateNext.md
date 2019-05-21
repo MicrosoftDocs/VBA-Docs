@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Window.ActivateNext
 ms.assetid: eeef1ef2-b1c5-6618-1f66-827bc64e2033
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
@@ -36,7 +36,6 @@ This example sends the active window to the back of the z-order.
 ```vb
 ActiveWindow.ActivateNext
 ```
-
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

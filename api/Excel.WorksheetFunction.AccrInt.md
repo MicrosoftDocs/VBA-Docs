@@ -19,14 +19,12 @@ Returns the accrued interest for a security that pays periodic interest.
 
 ## Syntax
 
-_expression_. `AccrInt`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` , `_Arg7_` )
+_expression_.**AccrInt** (_Arg1_, _Arg2_, _Arg3_, _Arg4_, _Arg5_, _Arg6_, _Arg7_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -37,6 +35,7 @@ _expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFun
 | _Arg5_|Required| **Variant**|Par - Security's par value.|
 | _Arg6_|Required| **Variant**|Frequency - Number of coupon payments per year.|
 | _Arg7_|Optional| **Variant**|Basis - The type of day count basis to use.|
+
 
 ## Return value
 

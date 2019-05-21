@@ -19,9 +19,9 @@ Returns the chi-squared distribution.
 
 ## Syntax
 
-_expression_. `ChiSq_Dist`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_.**ChiSq_Dist** (_Arg1_, _Arg2_, _Arg3_)
 
-_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

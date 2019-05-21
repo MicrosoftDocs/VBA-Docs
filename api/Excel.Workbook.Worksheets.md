@@ -19,7 +19,7 @@ Returns a  **[Sheets](Excel.Sheets.md)** collection that represents all the work
 
 ## Syntax
 
-_expression_. `Worksheets`
+_expression_.**Worksheets**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

@@ -24,9 +24,6 @@ _expression_.**SyncScrollingSideBySide**
 _expression_ A variable that represents a **[Windows](Excel.Windows.md)** object.
 
 
-## See also
 
-
-[Windows Object](Excel.Windows.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

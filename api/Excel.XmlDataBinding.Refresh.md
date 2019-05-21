@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.XmlDataBinding.Refresh
 ms.assetid: b396a071-87b1-2a89-9176-81e6dbc7efca
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
 
 # XmlDataBinding.Refresh method (Excel)
 
-Retrieves XML data using the current connection settings of the specified  **[XmlDataBinding](Excel.XmlDataBinding.md)** object.
+Retrieves XML data by using the current connection settings of the specified **XmlDataBinding** object.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents an **[XmlDataBinding](Excel.XmlDataBindi
 
 ## Return value
 
-An  **[XlXmlImportResult](Excel.XlXmlImportResult.md)** value that indicates the result of the method.
+An **[XlXmlImportResult](Excel.XlXmlImportResult.md)** value that indicates the result of the method.
 
 
-## See also
 
-
-[XmlDataBinding Object](Excel.XmlDataBinding.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

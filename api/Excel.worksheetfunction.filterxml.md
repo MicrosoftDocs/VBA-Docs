@@ -17,7 +17,7 @@ Get specific data from the returned XML, typically from a  **WebService** functi
 
 ## Syntax
 
-_expression_. `FilterXML`_(Arg1,_ _Arg2)_
+_expression_.**FilterXML** (_Arg1_, _Arg2_)
 
 _expression_ A variable that represents a object.
 

@@ -19,14 +19,12 @@ Controls how changes are shown in a shared workbook.
 
 ## Syntax
 
-_expression_. `HighlightChangesOptions`( `_When_` , `_Who_` , `_Where_` )
+_expression_.**HighlightChangesOptions** (_When_, _Who_, _Where_)
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

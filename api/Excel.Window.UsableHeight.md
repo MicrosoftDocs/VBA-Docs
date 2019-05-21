@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Window.UsableHeight
 ms.assetid: e1cbcaa1-779a-1757-0a95-9e53e374ef7c
-ms.date: 06/08/2017
+ms.date: 05/21/2019
 localization_priority: Normal
 ---
 
 
 # Window.UsableHeight property (Excel)
 
-Returns the maximum height of the space that a window can occupy in the application window area, in points. Read-only  **Double**.
+Returns the maximum height of the space that a window can occupy in the application window area, in [points](../language/glossary/vbe-glossary.md#point). Read-only **Double**.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[Window](Excel.Window.md)** object.
 
 This example expands the active window to the maximum size available (assuming that the window isn't already maximized).
 
-
 ```vb
 With ActiveWindow 
  .WindowState = xlNormal 
@@ -40,9 +39,5 @@ End With
 ```
 
 
-## See also
-
-
-[Window Object](Excel.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

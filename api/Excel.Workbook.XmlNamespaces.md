@@ -19,7 +19,7 @@ Returns an  **[XmlNamespaces](Excel.XmlNamespaces.md)** collection that represen
 
 ## Syntax
 
-_expression_. `XmlNamespaces`
+_expression_.**XmlNamespaces**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

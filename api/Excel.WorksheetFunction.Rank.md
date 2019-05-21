@@ -16,20 +16,17 @@ localization_priority: Normal
 
 Returns the rank of a number in a list of numbers. The rank of a number is its size relative to other values in a list. (If you were to sort the list, the rank of the number would be its position.)
 
-
-
-
-
- **Important**  This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
-
-For more information about the new functions, see the [Rank_Eq](Excel.WorksheetFunction.Rank_Eq.md) and [Rank_Avg](Excel.WorksheetFunction.Rank_Avg.md) methods.
+> [!IMPORTANT] 
+> This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
+> 
+> For more information about the new functions, see the [Rank_Eq](Excel.WorksheetFunction.Rank_Eq.md) and [Rank_Avg](Excel.WorksheetFunction.Rank_Avg.md) methods.
 
 
 ## Syntax
 
 _expression_.**Rank** (_Arg1_, _Arg2_, _Arg3_)
 
-_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters

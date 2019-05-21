@@ -17,14 +17,12 @@ Returns the inverse hyperbolic cotangent of a number.
 
 ## Syntax
 
-_expression_. `Acoth`_(Arg1)_
+_expression_.**Acoth** (_Arg1_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

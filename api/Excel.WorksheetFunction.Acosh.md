@@ -19,14 +19,12 @@ Returns the inverse hyperbolic cosine of a number. Number must be greater than o
 
 ## Syntax
 
-_expression_. `Acosh`( `_Arg1_` )
+_expression_.**Acosh** (_Arg1_)
 
-_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
