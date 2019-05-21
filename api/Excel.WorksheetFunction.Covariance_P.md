@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Covariance_P
 ms.assetid: a1cc46fe-e725-3d29-d3d3-1c6a56a67abf
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|The first cell range of integers.|
@@ -35,29 +33,24 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
- Use Covariance_P to determine the relationship between two data sets. For example, you can examine whether greater income accompanies greater levels of education:
+Use **Covariance_P** to determine the relationship between two data sets. For example, you can examine whether greater income accompanies greater levels of education.
 
-
-- The arguments must either be numbers or be names, arrays, or references that contain numbers.
+The arguments must either be numbers or be names, arrays, or references that contain numbers.
     
-- If an array or reference argument contains text, logical values, or empty cells, those values are ignored; however, cells with the value zero are included.
+If an array or reference argument contains text, logical values, or empty cells, those values are ignored; however, cells with the value zero are included.
     
-- If  _Arg1_ and _Arg2_ have different numbers of data points, Covariance_P generates an error.
+If _Arg1_ and _Arg2_ have different numbers of data points, **Covariance_P** generates an error.
     
-- If either  _Arg1_ or _Arg2_ is empty, Covariance_P generates an error.
+If either _Arg1_ or _Arg2_ is empty, **Covariance_P** generates an error.
     
-- The covariance is:
-![Formula](../images/awfcovar_ZA06051128.gif)where x and y are the sample means AVERAGE(array1) and AVERAGE(array2), and n is the sample size. 
+The covariance is ![Formula](../images/awfcovar_ZA06051128.gif) where x and y are the sample means AVERAGE(array1) and AVERAGE(array2), and n is the sample size. 
     
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

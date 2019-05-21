@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm137426
 ms.prod: excel
 ms.assetid: c120de83-d567-c719-21af-625ca9f318b1
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -26,16 +26,13 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required|DOUBLE|The angle in radians for which you want the hyperbolic cosecant.|
+| _Arg1_|Required|**Double**|The angle in radians for which you want the hyperbolic cosecant.|
 
 ## Return value
 
- **DOUBLE**
+**Double**
 
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Ddb
 ms.assetid: 7514f3b3-ca21-ec3f-28c5-f34281fc1a1f
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
 
 # WorksheetFunction.Ddb method (Excel)
 
-Returns the depreciation of an asset for a specified period using the double-declining balance method or some other method you specify.
+Returns the depreciation of an asset for a specified period by using the double-declining balance method or some other method that you specify.
 
 
 ## Syntax
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Cost - the initial cost of the asset.|
@@ -38,25 +36,23 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
+> [!IMPORTANT] 
+> All five arguments must be positive numbers.
 
- **Important**  All five arguments must be positive numbers.
+The double-declining balance method computes depreciation at an accelerated rate. Depreciation is highest in the first period and decreases in successive periods. **Ddb** uses the following formula to calculate depreciation for a period:
 
-
-- The double-declining balance method computes depreciation at an accelerated rate. Depreciation is highest in the first period and decreases in successive periods. DDB uses the following formula to calculate depreciation for a period: `Min( (cost - total depreciation from prior periods) * (factor/life), (cost - salvage - total depreciation from prior periods) )`
+> `Min( (cost - total depreciation from prior periods) * (factor/life), (cost - salvage - total depreciation from prior periods) )`
     
-- Change factor if you do not want to use the double-declining balance method.
+Change factor if you do not want to use the double-declining balance method.
     
-- Use the VDB function if you want to switch to the straight-line depreciation method when depreciation is greater than the declining balance calculation.
+Use the **[VDB](excel.worksheetfunction.vdb.md)** function if you want to switch to the straight-line depreciation method when depreciation is greater than the declining balance calculation.
     
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

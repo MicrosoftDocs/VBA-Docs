@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Dec2Hex
 ms.assetid: 32e8f754-9d67-1b99-08d3-1eee27237369
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -26,39 +26,30 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required| **Variant**|Number - the decimal integer you want to convert. If number is negative, places is ignored and DEC2HEX returns a 10-character (40-bit) hexadecimal number in which the most significant bit is the sign bit. The remaining 39 bits are magnitude bits. Negative numbers are represented using two's-complement notation.|
-| _Arg2_|Optional| **Variant**|Places - the number of characters to use. If places is omitted, DEC2HEX uses the minimum number of characters necessary. Places is useful for padding the return value with leading 0s (zeros).|
+| _Arg1_|Required| **Variant**|Number - the decimal integer that you want to convert. If number is negative, places is ignored and **Dec2Hex** returns a 10-character (40-bit) hexadecimal number in which the most significant bit is the sign bit. The remaining 39 bits are magnitude bits. Negative numbers are represented using two's-complement notation.|
+| _Arg2_|Optional| **Variant**|Places - the number of characters to use. If places is omitted, **Dec2Hex** uses the minimum number of characters necessary. Places is useful for padding the return value with leading 0s (zeros).|
 
 ## Return value
 
-String
+**String**
 
 
 ## Remarks
 
-
-
-
-- If number < -549,755,813,888 or if number > 549,755,813,887, DEC2HEX returns the #NUM! error value.
+If number < -549,755,813,888 or if number > 549,755,813,887, **Dec2Hex** returns the #NUM! error value.
     
-- If number is nonnumeric, DEC2HEX returns the #VALUE! error value.
+If number is nonnumeric, **Dec2Hex** returns the #VALUE! error value.
     
-- If DEC2HEX requires more than places characters, it returns the #NUM! error value.
+If **Dec2Hex** requires more than places characters, it returns the #NUM! error value.
     
-- If places is not an integer, it is truncated.
+If places is not an integer, it is truncated.
     
-- If places is nonnumeric, DEC2HEX returns the #VALUE! error value.
+If places is nonnumeric, **Dec2Hex** returns the #VALUE! error value.
     
-- If places is negative, DEC2HEX returns the #NUM! error value.
+If places is negative, **Dec2Hex** returns the #NUM! error value.
     
 
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
