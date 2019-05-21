@@ -36,6 +36,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 | _Arg6_|Required| **Variant**|Frequency - Number of coupon payments per year.|
 | _Arg7_|Optional| **Variant**|Basis - The type of day count basis to use.|
 
+
 ## Return value
 
 Double

@@ -32,6 +32,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|The cosine of the angle you want and must be from -1 to 1.|
 
+
 ## Return value
 
 Double

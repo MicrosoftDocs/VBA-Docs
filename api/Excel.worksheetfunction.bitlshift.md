@@ -17,14 +17,12 @@ Returns a value number shifted left by shift_amount bits.
 
 ## Syntax
 
-_expression_. `Bitlshift`_(Arg1,_ _Arg2)_
+_expression_.**Bitlshift** (_Arg1_, _Arg2_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

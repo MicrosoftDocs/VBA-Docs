@@ -19,7 +19,7 @@ Returns the inverse hyperbolic sine of a number. The inverse hyperbolic sine is 
 
 ## Syntax
 
-_expression_. `Asinh` (_Arg1_)
+_expression_.**Asinh** (_Arg1_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

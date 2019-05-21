@@ -16,14 +16,14 @@ localization_priority: Normal
 
 Returns the inverse of the cumulative distribution function for a specified beta distribution. That is, if probability = BetaDist(x,...), then BetaInv(probability,...) = x.
 
-
- **Important**  This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
-
-For more information about the new function, see the [Beta_Inv](Excel.WorksheetFunction.Beta_Inv.md) method.
+> [!IMPORTANT] 
+> This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
+> 
+> For more information about the new function, see the [Beta_Inv](Excel.WorksheetFunction.Beta_Inv.md) method.
 
 ## Syntax
 
-_expression_. `BetaInv`(_Arg1_, _Arg2_, _Arg3_, _Arg4_, _Arg5_)
+_expression_.**BetaInv** (_Arg1_, _Arg2_, _Arg3_, _Arg4_, _Arg5_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

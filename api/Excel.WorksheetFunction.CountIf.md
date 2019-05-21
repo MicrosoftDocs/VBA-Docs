@@ -19,7 +19,7 @@ Counts the number of cells within a range that meet the given criteria.
 
 ## Syntax
 
-_expression_. `CountIf` (_Arg1_, _Arg2_)
+_expression_.**CountIf** (_Arg1_, _Arg2_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

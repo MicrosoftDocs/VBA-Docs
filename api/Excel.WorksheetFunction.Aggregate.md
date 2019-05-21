@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Function_num - A number from 1 to 19 that specifies which function to use.<table><tr><th>**Function_num**</th><th>**Function**</th></tr><tr><td>1</td><td>AVERAGE</td></tr><tr><td>2</td><td>COUNT</td></tr><tr><td>3</td><td>COUNTA</td></tr><tr><td>4</td><td>MAX</td></tr><tr><td>5</td><td>MIN</td></tr><tr><td>6</td><td>PRODUCT</td></tr><tr><td>7</td><td>STDEV.S</td></tr><tr><td>8</td><td>STDEV.P</td></tr><tr><td>9</td><td>SUM</td></tr><tr><td>10</td><td>VAR.S</td></tr><tr><td>11</td><td>VAR.P</td></tr><tr><td>2</td><td>MEDIAN</td></tr><tr><td>13</td><td>MODE.SNGL</td></tr><tr><td>14</td><td>LARGE</td></tr><tr><td>15</td><td>SMALL</td></tr><tr><td>16</td><td>PERCENTILE.INC </td></tr><tr><td>17</td><td>QUARTILE.INC</td></tr><tr><td>18</td><td>PERCENTILE.EXC</td></tr><tr><td>19</td><td>QUARTILE.EXC</td></tr></table>|

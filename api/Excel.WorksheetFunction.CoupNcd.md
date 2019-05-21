@@ -19,7 +19,7 @@ Returns a number that represents the next coupon date after the settlement date.
 
 ## Syntax
 
-_expression_. `CoupNcd` (_Arg1_, _Arg2_, _Arg3_, _Arg4_)
+_expression_.**CoupNcd** (_Arg1_, _Arg2_, _Arg3_, _Arg4_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

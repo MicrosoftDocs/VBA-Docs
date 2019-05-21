@@ -17,7 +17,7 @@ Returns an equivalent interest rate for the growth of an investment.
 
 ## Syntax
 
-_expression_. `Rri`_(Arg1,_ _Arg2,_ _Arg3)_
+_expression_. `Rri` (_Arg1_, _Arg2_, _Arg3_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

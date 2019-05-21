@@ -19,7 +19,7 @@ Counts empty cells in a specified range of cells.
 
 ## Syntax
 
-_expression_. `CountBlank` (_Arg1_)
+_expression_.**CountBlank** (_Arg1_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

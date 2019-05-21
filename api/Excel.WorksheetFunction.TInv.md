@@ -16,11 +16,10 @@ localization_priority: Normal
 
 Returns the t-value of the Student's t-distribution as a function of the probability and the degrees of freedom.
 
-
-
-
-
- **Important**  This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.For more information about the new functions, see the [T_Inv](Excel.WorksheetFunction.T_Inv.md) and [T_Inv_2T](Excel.WorksheetFunction.T_Inv_2T.md) methods.
+> [!IMPORTANT] 
+> This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
+> 
+> For more information about the new functions, see the [T_Inv](Excel.WorksheetFunction.T_Inv.md) and [T_Inv_2T](Excel.WorksheetFunction.T_Inv_2T.md) methods.
 
 
 ## Syntax

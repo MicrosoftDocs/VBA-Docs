@@ -19,7 +19,7 @@ Estimates the standard deviation of a population based on a sample by using the 
 
 ## Syntax
 
-_expression_. `DStDev` (_Arg1_, _Arg2_, _Arg3_)
+_expression_.**DStDev** (_Arg1_, _Arg2_, _Arg3_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

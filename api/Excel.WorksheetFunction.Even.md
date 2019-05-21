@@ -19,7 +19,7 @@ Returns number rounded up to the nearest even integer. You can use this function
 
 ## Syntax
 
-_expression_. `Even` (_Arg1_)
+_expression_.**Even** (_Arg1_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

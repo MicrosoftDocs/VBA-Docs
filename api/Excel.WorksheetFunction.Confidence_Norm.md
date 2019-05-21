@@ -19,7 +19,7 @@ Returns a value that you can use to construct a confidence interval for a popula
 
 ## Syntax
 
-_expression_. `Confidence_Norm` (_Arg1_, _Arg2_, _Arg3_)
+_expression_.**Confidence_Norm** (_Arg1_, _Arg2_, _Arg3_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

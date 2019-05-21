@@ -16,10 +16,10 @@ localization_priority: Normal
 
 Returns the inverse of the normal cumulative distribution for the specified mean and standard deviation.
 
-
- **Important**  This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
-
-For more information about the new function, see the [Norm_Inv](Excel.WorksheetFunction.Norm_Inv.md) method.
+> [!IMPORTANT] 
+> This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
+> 
+> For more information about the new function, see the [Norm_Inv](Excel.WorksheetFunction.Norm_Inv.md) method.
 
 ## Syntax
 

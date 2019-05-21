@@ -19,7 +19,7 @@ Returns the smallest value for which the cumulative binomial distribution is gre
 
 ## Syntax
 
-_expression_. `CritBinom` (_Arg1_, _Arg2_, _Arg3_)
+_expression_.**CritBinom** (_Arg1_, _Arg2_, _Arg3_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

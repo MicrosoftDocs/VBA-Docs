@@ -19,7 +19,7 @@ Estimates the variance of a population based on a sample by using the numbers in
 
 ## Syntax
 
-_expression_. `DVar` (_Arg1_, _Arg2_, _Arg3_)
+_expression_.**DVar** (_Arg1_, _Arg2_, _Arg3_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
