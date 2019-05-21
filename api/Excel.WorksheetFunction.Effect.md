@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Effect
 ms.assetid: cbd5be5b-a1ee-addf-f0d9-01c4e4e0273b
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Nominal_rate - the nominal interest rate.|
@@ -35,29 +33,21 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
 - Npery is truncated to an integer.
     
-- If either argument is nonnumeric, EFFECT returns the #VALUE! error value.
+- If either argument is nonnumeric, **Effect** returns the #VALUE! error value.
     
-- If nominal_rate ? 0 or if npery < 1, EFFECT returns the #NUM! error value.
+- If nominal_rate ≤ 0 or if npery < 1, **Effect** returns the #NUM! error value.
     
-- EFFECT is calculated as follows:
-![Formula](../images/awfefect_ZA06051135.gif)
+- **Effect** is calculated as follows ![Formula](../images/awfefect_ZA06051135.gif)
 
 
     
 
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

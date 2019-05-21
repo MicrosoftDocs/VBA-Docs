@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Expon_Dist
 ms.assetid: 19627dab-1c33-2348-389e-18a76604b237
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
 
 # WorksheetFunction.Expon_Dist method (Excel)
 
-Returns the exponential distribution. Use EXPON_DIST to model the time between events, such as how long an automated bank teller takes to deliver cash. For example, you can use EXPON_DIST to determine the probability that the process takes at most 1 minute.
+Returns the exponential distribution. Use **Expon_Dist** to model the time between events, such as how long an automated bank teller takes to deliver cash. For example, you can use **Expon_Dist** to determine the probability that the process takes at most 1 minute.
 
 
 ## Syntax
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - the value of the function.|
@@ -36,34 +34,23 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- If x or lambda is nonnumeric, EXPON_DIST returns the #VALUE! error value.
+If x or lambda is nonnumeric, **Expon_Dist** returns the #VALUE! error value.
     
-- If x < 0, EXPON_DIST returns the #NUM! error value.
+If x < 0, **Expon_Dist** returns the #NUM! error value.
     
-- If lambda ? 0, EXPON_DIST returns the #NUM! error value.
+If lambda ≤ 0, **Expon_Dist** returns the #NUM! error value.
     
-- The equation for the probability density function is:
-![Formula](../images/awfxpnd1_ZA06051267.gif)
-
-
-    
-- The equation for the cumulative distribution function is:
-![Formula](../images/awfxpnd2_ZA06051268.gif)
+The equation for the probability density function is ![Formula](../images/awfxpnd1_ZA06051267.gif)
+  
+The equation for the cumulative distribution function is ![Formula](../images/awfxpnd2_ZA06051268.gif)
 
 
     
 
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

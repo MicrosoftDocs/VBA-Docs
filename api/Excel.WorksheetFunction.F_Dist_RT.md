@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.F_Dist_RT
 ms.assetid: 307f9afa-3e15-edce-cabb-dd96b351cdab
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Returns the right-tailed F probability distribution. You can use this function t
 
 ## Syntax
 
-_expression_. `F_Dist_RT` (_Arg1_, _Arg2_, _Arg3_)
+_expression_.**F_Dist_RT** (_Arg1_, _Arg2_, _Arg3_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -36,30 +34,24 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- If any argument is nonnumeric, F_DIST_RT returns the #VALUE! error value.
+If any argument is nonnumeric, **F_Dist_RT** returns the #VALUE! error value.
     
-- If x is negative, F_DIST_RT returns the #NUM! error value.
+If x is negative, **F_Dist_RT** returns the #NUM! error value.
     
-- If degrees_freedom1 or degrees_freedom2 is not an integer, it is truncated.
+If degrees_freedom1 or degrees_freedom2 is not an integer, it is truncated.
     
-- If degrees_freedom1 < 1 or degrees_freedom1 ? 10^10, F_DIST_RT returns the #NUM! error value.
+If degrees_freedom1 < 1 or degrees_freedom1 ≥ 10^10, **F_Dist_RT** returns the #NUM! error value.
     
-- If degrees_freedom2 < 1 or degrees_freedom2 ? 10^10, F_DIST_RT returns the #NUM! error value.
+If degrees_freedom2 < 1 or degrees_freedom2 ≥ 10^10, **F_Dist_RT** returns the #NUM! error value.
     
-- F_DIST_RT is calculated as F_DIST_RT=P( F>x ), where F is a random variable that has an F distribution with degrees_freedom1 and degrees_freedom2 degrees of freedom.
+**F_Dist_RT** is calculated as F_DIST_RT=P( F>x ), where F is a random variable that has an F distribution with degrees_freedom1 and degrees_freedom2 degrees of freedom.
     
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

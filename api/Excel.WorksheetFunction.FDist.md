@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.FDist
 ms.assetid: ddbcd66e-d85c-4f69-1ba9-138c30a3f7d4
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -19,18 +19,16 @@ Returns the F probability distribution. You can use this function to determine w
 > [!IMPORTANT] 
 > This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
 > 
-> For more information about the new functions, see the [F_Dist_RT](Excel.WorksheetFunction.F_Dist_RT.md) and [F_Dist](Excel.WorksheetFunction.F_Dist.md) methods.
+> For more information about the new functions, see the **[F_Dist_RT](Excel.WorksheetFunction.F_Dist_RT.md)** and **[F_Dist](Excel.WorksheetFunction.F_Dist.md)** methods.
 
 ## Syntax
 
-_expression_. `FDist` (_Arg1_, _Arg2_, _Arg3_)
+_expression_.**FDist** (_Arg1_, _Arg2_, _Arg3_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -40,30 +38,23 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- If any argument is nonnumeric, FDIST returns the #VALUE! error value.
+If any argument is nonnumeric, **FDist** returns the #VALUE! error value.
     
-- If x is negative, FDIST returns the #NUM! error value.
+If x is negative, **FDist** returns the #NUM! error value.
     
-- If degrees_freedom1 or degrees_freedom2 is not an integer, it is truncated.
+If degrees_freedom1 or degrees_freedom2 is not an integer, it is truncated.
     
-- If degrees_freedom1 < 1 or degrees_freedom1 ? 10^10, FDIST returns the #NUM! error value.
+If degrees_freedom1 < 1 or degrees_freedom1 ≥ 10^10, **FDist** returns the #NUM! error value.
     
-- If degrees_freedom2 < 1 or degrees_freedom2 ? 10^10, FDIST returns the #NUM! error value.
+If degrees_freedom2 < 1 or degrees_freedom2 ≥ 10^10, **FDist** returns the #NUM! error value.
     
-- FDIST is calculated as FDIST=P( F>x ), where F is a random variable that has an F distribution with degrees_freedom1 and degrees_freedom2 degrees of freedom.
+**FDist** is calculated as FDIST=P( F>x ), where F is a random variable that has an F distribution with degrees_freedom1 and degrees_freedom2 degrees of freedom.
     
 
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
