@@ -38,9 +38,9 @@ If the shape is a group, the text returned is dependent on the value of the IsTe
 
 
 
-- If IsTextEditTarget is TRUE, the  **Text** property of the **Shape** object returns the text of the group.
+- If IsTextEditTarget is **True**, the  **Text** property of the **Shape** object returns the text of the group.
     
-- If IsTextEditTarget is FALSE, the  **Text** property of the **Shape** object returns the text of the shape in the group at the top of the stacking order.
+- If IsTextEditTarget is **False**, the  **Text** property of the **Shape** object returns the text of the shape in the group at the top of the stacking order.
     
 
 

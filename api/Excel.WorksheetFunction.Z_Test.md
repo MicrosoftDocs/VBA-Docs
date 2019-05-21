@@ -49,9 +49,11 @@ Z_TEST is calculated as follows when _sigma_ is omitted:
 
 ![The Z_TEST calculation when sigma is omitted](../images/Z_TEST_ZA10391000.jpg), where _x_ is the sample mean AVERAGE(_array_); _s_ is the sample standard deviation STDEV_S(_array_); and _n_ is the number of observations in the sample COUNT(_array_). 
     
-Z_TEST represents the probability that the sample mean would be greater than the observed value AVERAGE(_array_), when the underlying population mean is ? 0 . From the symmetry of the Normal distribution, if AVERAGE(_array_) < ?0 , Z_TEST will return a value greater than 0.5.
+Z_TEST represents the probability that the sample mean would be greater than the observed value AVERAGE(_array_), when the underlying population mean is μ0 . From the symmetry of the Normal distribution, if AVERAGE(_array_) < μ0 , Z_TEST will return a value greater than 0.5.
     
-The following Excel formula can be used to calculate the two-tailed probability that the sample mean would be further from ? 0 (in either direction) than AVERAGE(_array_), when the underlying population mean is ?0 : =2 * MIN(Z_TEST(_array_,?0,_sigma_), 1 - Z_TEST(_array_,?0,_sigma_)).
+The following Excel formula can be used to calculate the two-tailed probability that the sample mean would be further from μ0 (in either direction) than AVERAGE(_array_), when the underlying population mean is μ0: 
+
+=2 * MIN(Z_TEST(_array_,μ0,_sigma_), 1 - Z_TEST(_array_,μ0,_sigma_)).
     
 
 

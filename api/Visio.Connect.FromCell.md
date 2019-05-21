@@ -80,7 +80,7 @@ The  **FromCell** property returns the Alignment cell that is glued to the guide
 
 -  **A connection point cell:** The **FromCell** property returns the Controls.X _i_ cell.
     
--  **A cell of a guide or guide point:** When a control point is glued to a cell of a guide or guide point other than a connection point cell, two connections are created. The **FromCell** property of one **Connect** object returns Controls.X _i_ and the second **Connect** object returns Controls.Y _i_ .
+-  **A cell of a guide or guide point:** When a control point is glued to a cell of a guide or guide point other than a connection point cell, two connections are created. The **FromCell** property of one **Connect** object returns Controls.X _i_ and the second **Connect** object returns Controls.Y _i_.
     
 -  **Any cell of a vertex row in a Geometry section:** The **FromCell** property returns the Controls.X _i_ cell.
     

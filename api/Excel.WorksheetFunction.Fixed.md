@@ -50,7 +50,7 @@ String
     
 - If you omit decimals, it is assumed to be 2.
     
-- If no_commas is FALSE or omitted, then the returned text includes commas as usual.
+- If no_commas is **False** or omitted, then the returned text includes commas as usual.
     
 - The major difference between formatting a cell containing a number with the  **Cells** command (**Format** menu) and formatting a number directly with the FIXED function is that FIXED converts its result to text. A number formatted with the **Cells** command is still a number.
     

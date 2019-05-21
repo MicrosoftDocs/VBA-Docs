@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Items.Find method (Outlook)
 
-Locates and returns a Microsoft Outlook item object that satisfies the given  _Filter_ .
+Locates and returns a Microsoft Outlook item object that satisfies the given  _Filter_.
 
 
 ## Syntax

@@ -36,7 +36,7 @@ _expression_ A variable that represents a [TimeZones](Outlook.TimeZones.md) obje
 
 ## Return value
 
-A  **Date** value that represents the date and time expressed in the _DestinationTimeZone_ .
+A  **Date** value that represents the date and time expressed in the _DestinationTimeZone_.
 
 
 ## See also

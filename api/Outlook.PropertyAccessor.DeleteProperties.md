@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PropertyAccessor.DeleteProperties method (Outlook)
 
-Deletes the properties specified in the array  _SchemaNames_ .
+Deletes the properties specified in the array  _SchemaNames_.
 
 
 ## Syntax

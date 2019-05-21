@@ -42,7 +42,7 @@ A  **SharingItem** object that represents a sharing message for the specified co
 
 If a  **String** value is specified in _Context_ , the method assumes that a URL has been provided as a sharing context. If a **[Folder](Outlook.Folder.md)** object is specified in _Context_ , the method attempts to discover the sharing context from the folder. If no sharing context exists, or if more than one sharing context exists, an error occurs.
 
-If  _Provider_ is not specified, the method attempts to use the appropriate sharing provider for the value specified in _Context_ .
+If  _Provider_ is not specified, the method attempts to use the appropriate sharing provider for the value specified in _Context_.
 
 
 ## See also

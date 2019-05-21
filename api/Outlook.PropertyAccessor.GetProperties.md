@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PropertyAccessor.GetProperties method (Outlook)
 
-Obtains the values of the properties specified by the one-dimensional array  _SchemaNames_ .
+Obtains the values of the properties specified by the one-dimensional array  _SchemaNames_.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [PropertyAccessor](Outlook.PropertyAcc
 
 ## Return value
 
-A Variant that represents an array of values of the properties specified in the parameter  _SchemaNames_ . The number of elements in the returned array equals the number of elements in the _SchemaNames_ array. If an error occurs for getting a specific property, the **Err** value will be returned in the corresponding location in the returned array.
+A Variant that represents an array of values of the properties specified in the parameter  _SchemaNames_. The number of elements in the returned array equals the number of elements in the _SchemaNames_ array. If an error occurs for getting a specific property, the **Err** value will be returned in the corresponding location in the returned array.
 
 
 ## Remarks

@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Z - The value for which you want the distribution.|
-| _Arg2_|Optional| **Variant**|Cumulative - A logical value that determines the form of the function. If cumulative is TRUE, NORM_S_DIST returns the cumulative distribution function; if FALSE, it returns the probability mass function.|
+| _Arg2_|Optional| **Variant**|Cumulative - A logical value that determines the form of the function. If cumulative is **True**, NORM_S_DIST returns the cumulative distribution function; if **False**, it returns the probability mass function.|
 
 ## Return value
 

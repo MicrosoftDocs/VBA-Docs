@@ -33,7 +33,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 | _Arg1_|Required| **Double**|X - The value at which to evaluate the function.|
 | _Arg2_|Required| **Double**|Deg_freedom1 - The numerator degrees of freedom.|
 | _Arg3_|Required| **Double**|Deg_freedom2 - The denominator degrees of freedom.|
-| _Arg4_|Optional| **Variant**|Cumulative - A logical value that determines the form of the function. If cumulative is TRUE, F_DIST returns the cumulative distribution function; if FALSE, it returns the probability density function.|
+| _Arg4_|Optional| **Variant**|Cumulative - A logical value that determines the form of the function. If cumulative is **True**, F_DIST returns the cumulative distribution function; if **False**, it returns the probability density function.|
 
 ## Return value
 

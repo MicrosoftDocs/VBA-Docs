@@ -46,9 +46,9 @@ Double
 ## Remarks
 
 
-- If no_switch is TRUE, Microsoft Excel does not switch to straight-line depreciation even when the depreciation is greater than the declining balance calculation.
+- If no_switch is **True**, Microsoft Excel does not switch to straight-line depreciation even when the depreciation is greater than the declining balance calculation.
     
-- If no_switch is FALSE or omitted, Excel switches to straight-line depreciation when depreciation is greater than the declining balance calculation.
+- If no_switch is **False** or omitted, Excel switches to straight-line depreciation when depreciation is greater than the declining balance calculation.
     
 All arguments except no_switch must be positive numbers.
 

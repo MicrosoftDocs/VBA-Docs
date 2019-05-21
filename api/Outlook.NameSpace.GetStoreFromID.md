@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.GetStoreFromID method (Outlook)
 
-Returns a  **[Store](Outlook.Store.md)** object that represents the store specified by _ID_ .
+Returns a  **[Store](Outlook.Store.md)** object that represents the store specified by _ID_.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) obje
 
 ## Return value
 
-A  **Store** object that has the **[StoreID](Outlook.Store.StoreID.md)** property matching _ID_ .
+A  **Store** object that has the **[StoreID](Outlook.Store.StoreID.md)** property matching _ID_.
 
 
 ## Remarks

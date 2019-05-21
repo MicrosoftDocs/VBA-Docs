@@ -18,9 +18,9 @@ Indicates the display mode: Normal, Portrait View, or Portrait Reading Pane.
 
 ## Syntax
 
- _expression_ .
+_expression_.**DisplayMode**
 
-_expression_ A variable that 'DisplayMode'represents a  **Explorer** object.
+_expression_ A variable that represents an  **[Explorer](Outlook.Explorer.md)** object.
 
 
 ## Modes

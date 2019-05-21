@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Store](Outlook.Store.md) object.
 
 ## Return value
 
-A  **Folder** object that represents a special folder specified by the _FolderType_ .
+A  **Folder** object that represents a special folder specified by the _FolderType_.
 
 
 ## Remarks

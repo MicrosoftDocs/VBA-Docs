@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 | _Arg2_|Required| **Double**|Number_sample - the size of the sample.|
 | _Arg3_|Required| **Double**|Population_s - the number of successes in the population.|
 | _Arg4_|Required| **Double**|Number_population - the population size.|
-| _Arg5_|Optional| **Variant**|Cumulative - a logical value that determines the form of the function. If cumulative is TRUE, then HYPGEOM_DIST returns the cumulative distribution function; if FALSE, it returns the probability mass function.|
+| _Arg5_|Optional| **Variant**|Cumulative - a logical value that determines the form of the function. If cumulative is **True**, then HYPGEOM_DIST returns the cumulative distribution function; if **False**, it returns the probability mass function.|
 
 ## Return value
 

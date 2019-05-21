@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Columns.Item method (Outlook)
 
-Obtains a  **[Column](Outlook.Column.md)** object specified by _Index_ .
+Obtains a  **[Column](Outlook.Column.md)** object specified by _Index_.
 
 
 ## Syntax

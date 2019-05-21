@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WorksheetFunction.Or method (Excel)
 
-Returns TRUE if any argument is TRUE; returns FALSE if all arguments are FALSE.
+Returns TRUE if any argument is **True**; returns FALSE if all arguments are FALSE.
 
 
 ## Syntax

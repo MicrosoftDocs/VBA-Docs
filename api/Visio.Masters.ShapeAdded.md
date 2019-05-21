@@ -51,7 +51,7 @@ This VBA example shows how to count shapes added to a drawing that are based on 
 
 The  **DocumentSaved** event handler runs when the active document is saved. The handler initializes an integer variable, _intNumberOfSquares_ , which is used to store the count.
 
-The  **ShapeAdded** event handler runs each time a shape is added to the drawing page, whether the shape is dragged from a stencil, drawn with a drawing tool, or pasted from the Clipboard. The handler checks the **Master** property of the new shape and, if the shape is based on the **Square** master, increments _intNumberOfSquares_ .
+The  **ShapeAdded** event handler runs each time a shape is added to the drawing page, whether the shape is dragged from a stencil, drawn with a drawing tool, or pasted from the Clipboard. The handler checks the **Master** property of the new shape and, if the shape is based on the **Square** master, increments _intNumberOfSquares_.
 
 
 

@@ -49,7 +49,7 @@ The following example shows how to use the  **Add** method to add **Shape** obje
 
 In the example, two new layers are created. Two rectangle shapes are drawn and then added to the first layer. Subsequently, the rectangles are grouped into a group shape. The group shape is then selected and duplicated, and the duplicate group shapes are added to the second layer in two different ways.
 
-Layer assignments of the component shapes of  _vsoShapeGroup2_ are retained by passing a non-zero value for the _fPresMems_ argument of the **Add** method, but previous layer assignments of the component shapes of _vsoShapeGroup1_ are lost when zero is passed to the **Add** method for that argument. As a result, the component shapes of _vsoShapeGroup1_ are assigned only to _vsoLayer2_ , while the components of _vsoShapeGroup2_ are assigned to both _vsoLayer1_ and _vsoLayer2_ .
+Layer assignments of the component shapes of  _vsoShapeGroup2_ are retained by passing a non-zero value for the _fPresMems_ argument of the **Add** method, but previous layer assignments of the component shapes of _vsoShapeGroup1_ are lost when zero is passed to the **Add** method for that argument. As a result, the component shapes of _vsoShapeGroup1_ are assigned only to _vsoLayer2_ , while the components of _vsoShapeGroup2_ are assigned to both _vsoLayer1_ and _vsoLayer2_.
 
 
 

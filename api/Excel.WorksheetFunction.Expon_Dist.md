@@ -32,7 +32,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - the value of the function.|
 | _Arg2_|Required| **Double**|Lambda - the parameter value.|
-| _Arg3_|Required| **Boolean**|Cumulative - a logical value that indicates which form of the exponential function to provide. If cumulative is TRUE, EXPONDIST returns the cumulative distribution function; if FALSE, it returns the probability density function.|
+| _Arg3_|Required| **Boolean**|Cumulative - a logical value that indicates which form of the exponential function to provide. If cumulative is **True**, EXPONDIST returns the cumulative distribution function; if **False**, it returns the probability density function.|
 
 ## Return value
 

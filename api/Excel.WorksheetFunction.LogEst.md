@@ -55,13 +55,13 @@ where the dependent y-value is a function of the independent x-values. The m-val
     
 - If known_x's is omitted, it is assumed to be the array {1,2,3,...} that is the same size as known_y's.
     
-  - If const is TRUE or omitted, b is calculated normally. 
+  - If const is **True** or omitted, b is calculated normally. 
     
-  - If const is FALSE, b is set equal to 1, and the m-values are fitted to y = m^x. 
+  - If const is **False**, b is set equal to 1, and the m-values are fitted to y = m^x. 
     
-- If stats is TRUE, LOGEST returns the additional regression statistics, so the returned array is {mn,mn-1,...,m1,b;sen,sen-1,...,se1,seb;r 2,sey; F,df;ssreg,ssresid}.
+- If stats is **True**, LOGEST returns the additional regression statistics, so the returned array is {mn,mn-1,...,m1,b;sen,sen-1,...,se1,seb;r 2,sey; F,df;ssreg,ssresid}.
     
-- If stats is FALSE or omitted, LOGEST returns only the m-coefficients and the constant b.
+- If stats is **False** or omitted, LOGEST returns only the m-coefficients and the constant b.
     
   For more information about additional regression statistics, see LINEST.
 

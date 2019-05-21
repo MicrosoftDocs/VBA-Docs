@@ -57,7 +57,7 @@ Outlook ignores the following elements when the add-in provides the XML manifest
     
 -  **addin** : Outlook uses the value that is preceded by an equal sign (**=**) in the registry as the  **ProgID** of the add-in.
     
--  **file** attribute of **stringOverride** : Outlook ignores any secondary localization file specified by the **stringOverride** element. The add-in can implement **GetFormRegionManifest** to return inline the XML manifest for string localization for the specified _LCID_ , or manage string localization in another way, for example, using .NET Framework localization, and then return the appropriate XML manifest for the specified _LCID_ .
+-  **file** attribute of **stringOverride** : Outlook ignores any secondary localization file specified by the **stringOverride** element. The add-in can implement **GetFormRegionManifest** to return inline the XML manifest for string localization for the specified _LCID_ , or manage string localization in another way, for example, using .NET Framework localization, and then return the appropriate XML manifest for the specified _LCID_.
     
 
 

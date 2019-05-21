@@ -42,7 +42,7 @@ Double
 
  Use this function to help compute payments if your accounting system is based on twelve 30-day months.
 
-The following tables contains the values for  _Arg3_ .
+The following tables contains the values for  _Arg3_.
 
 
 

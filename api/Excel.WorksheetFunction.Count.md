@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Count
 ms.assetid: e64d9378-c1ae-4800-092b-cbdfb9c80c3a
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -32,28 +32,24 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
- Use Count to get the number of entries in a number field that is in a range or array of numbers.
+Use **Count** to get the number of entries in a number field that is in a range or array of numbers.
+
+Arguments that are numbers, dates, or text representation of numbers are counted.
+    
+Logical values and text representations of numbers that you type directly into the list of arguments are counted.
+    
+Arguments that are error values or text that cannot be translated into numbers are ignored.
+    
+If an argument is an array or reference, only numbers in that array or reference are counted. Empty cells, logical values, text, or error values in the array or reference are ignored. 
+    
+If you want to count logical values, text, or error values, use the **[CountA](excel.worksheetfunction.counta.md)** function.
+    
 
 
-- Arguments that are numbers, dates, or text representation of numbers are counted.
-    
-- Logical values and text representations of numbers that you type directly into the list of arguments are counted.
-    
-- Arguments that are error values or text that cannot be translated into numbers are ignored.
-    
-- If an argument is an array or reference, only numbers in that array or reference are counted. Empty cells, logical values, text, or error values in the array or reference are ignored. 
-    
-- If you want to count logical values, text, or error values, use the CountA function.
-    
-
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

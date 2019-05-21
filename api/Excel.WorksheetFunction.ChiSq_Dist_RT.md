@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ChiSq_Dist_RT
 ms.assetid: 65b8bd60-c13f-9f64-58c3-cc0ce582f939
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|The value at which you want to evaluate the distribution.|
@@ -35,30 +33,25 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-The ? 2 distribution is associated with a ?2 test. Use the ?2 test to compare observed and expected values.
+The χ2 distribution is associated with an χ2 test. Use the χ2 test to compare observed and expected values.
 
- For example, a genetic experiment might hypothesize that the next generation of plants will exhibit a certain set of colors. By comparing the observed results with the expected ones, you can decide whether your original hypothesis is valid:
+For example, a genetic experiment might hypothesize that the next generation of plants will exhibit a certain set of colors. By comparing the observed results with the expected ones, you can decide whether your original hypothesis is valid.
 
-
-- If either argument is nonnumeric, ChiSq_Dist_RT generates an error.
+If either argument is nonnumeric, **ChiSq_Dist_RT** generates an error.
     
-- If x is negative, ChiSq_Dist_RT generates an error.
+If x is negative, **ChiSq_Dist_RT** generates an error.
     
-- If degrees_freedom is not an integer, it is truncated.
+If degrees_freedom is not an integer, it is truncated.
     
-- If degrees_freedom < 1 or degrees_freedom > 10^10, ChiSq_Dist_RT generates an error.
+If degrees_freedom < 1 or degrees_freedom > 10^10, **ChiSq_Dist_RT** generates an error.
     
-- ChiSq_Dist_RT is calculated as ChiSq_Dist_RT = P(X>x), where X is a ?2 random variable.
+**ChiSq_Dist_RT** is calculated as ChiSq_Dist_RT = P(X>x), where X is an χ2 random variable.
     
 
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

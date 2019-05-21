@@ -52,7 +52,7 @@ Possible values for _StringOrNumber_ include:
 
 The _UnitsIn_ and _UnitsOut_ arguments can be strings such as "inches", "inch", "in.", or "i". Strings may be used for all supported Microsoft Office Visio units such as centimeters, meters, miles, and so on. You can also use any of the unit constants declared by the Visio type library in [VisUnitCodes](Visio.visunitcodes.md). A list of valid units is also included in [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 
-If _StringOrNumber_ is a string, _UnitsIn_ specifies how to interpret the evaluated result and is only used if the result is a scalar. For example, the expression `"4 * 5 cm"` evaluates to 20 cm, which is not a scalar, so _UnitsIn_ is ignored. The expression `"4 * 5"` evaluates to 20, which is a scalar and is interpreted using the specified _UnitsIn_ .
+If _StringOrNumber_ is a string, _UnitsIn_ specifies how to interpret the evaluated result and is only used if the result is a scalar. For example, the expression `"4 * 5 cm"` evaluates to 20 cm, which is not a scalar, so _UnitsIn_ is ignored. The expression `"4 * 5"` evaluates to 20, which is a scalar and is interpreted using the specified _UnitsIn_.
 
 The _UnitsOut_ argument specifies the units in which the returned string should be expressed. If you want the results expressed in the same units as the evaluated expression, pass "NOCAST" or **visNoCast**.
 

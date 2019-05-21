@@ -42,7 +42,7 @@ Double
 
 ## Remarks
 
-The following tables lists values used in  _Arg6_ .
+The following tables lists values used in  _Arg6_.
 
 
 
@@ -51,7 +51,7 @@ The following tables lists values used in  _Arg6_ .
 |0 (zero)|Payment at the end of the period|
 |1|Payment at the beginning of the period|
 
-- Make sure that you are consistent about the units you use for specifying rate and nper. If you make monthly payments on a four-year loan at an annual interest rate of 12 percent, use 12%/12 for rate and 4*12 for  _Arg2_ . If you make annual payments on the same loan, use 12% for rate and 4 for _Arg2_ .
+- Make sure that you are consistent about the units you use for specifying rate and nper. If you make monthly payments on a four-year loan at an annual interest rate of 12 percent, use 12%/12 for rate and 4*12 for  _Arg2_. If you make annual payments on the same loan, use 12% for rate and 4 for _Arg2_.
     
 -  _Arg2_ , _Arg4_ , _Arg5_ , and type are truncated to integers.
     

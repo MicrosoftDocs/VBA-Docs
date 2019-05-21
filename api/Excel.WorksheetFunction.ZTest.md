@@ -54,9 +54,11 @@ ZTEST is calculated as follows when _sigma_ is omitted:
 
 ![Formula](../images/awfztsta_ZA06054798.gif), where _x_ is the sample mean AVERAGE(_array_), _s_ is the sample standard deviation STDEV(_array_), and _n_ is the number of observations in the sample COUNT(_array_). 
     
-ZTEST represents the probability that the sample mean would be greater than the observed value AVERAGE(_array_), when the underlying population mean is ? 0. From the symmetry of the Normal distribution, if AVERAGE(_array_) < ?0 , ZTEST will return a value greater than 0.5.
+ZTEST represents the probability that the sample mean would be greater than the observed value AVERAGE(_array_), when the underlying population mean is μ0. From the symmetry of the Normal distribution, if AVERAGE(_array_) < μ0 , ZTEST will return a value greater than 0.5.
     
-The following Excel formula can be used to calculate the two-tailed probability that the sample mean would be further from ? 0 (in either direction) than AVERAGE(_array_), when the underlying population mean is ?0 : =2 * MIN(ZTEST(_array_,?0,_sigma_), 1 - ZTEST(_array_,?0,_sigma_)).
+The following Excel formula can be used to calculate the two-tailed probability that the sample mean would be further from μ0 (in either direction) than AVERAGE(_array_), when the underlying population mean is μ0: 
+
+=2 * MIN(ZTEST(_array_,μ0,_sigma_), 1 - ZTEST(_array_,μ0,_sigma_)).
     
 
 

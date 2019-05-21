@@ -64,9 +64,9 @@ Variant
 - If both known_x's and new_x's are omitted, they are assumed to be the array {1,2,3,...} that is the same size as known_y's.
     
 
-- If const is TRUE or omitted, b is calculated normally.
+- If const is **True** or omitted, b is calculated normally.
     
-- If const is FALSE, b is set equal to 1 and the m-values are adjusted so that y = m^x.
+- If const is **False**, b is set equal to 1 and the m-values are adjusted so that y = m^x.
     
 
 - Formulas that return arrays must be entered as array formulas after selecting the correct number of cells.

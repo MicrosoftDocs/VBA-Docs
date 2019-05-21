@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.AccrInt
 ms.assetid: 17444208-5141-3ffe-1802-b19be0defc52
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -39,19 +39,17 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double** 
 
 
 ## Remarks
 
+> [!IMPORTANT] 
+> Dates should be entered by using the DATE function, or as results of other formulas or functions. For example, use DATE(2008,5,23) for the 23rd day of May, 2008. Problems can occur if dates are entered as text.
 
- **Important**  Dates should be entered using the DATE function, or as results of other formulas or functions. For example, use DATE(2008,5,23) for the 23rd day of May, 2008. Problems can occur if dates are entered as text.
+The following table describes the values that can be used for _Arg5_.
 
-The following table describes the values that can be used for  _Arg5_ .
-
-
-
-|**Basis**|**Day count basis**|
+|Basis|Day count basis|
 |:-----|:-----|
 |0 or omitted|US (NASD) 30/360|
 |1|Actual/actual|
@@ -59,9 +57,6 @@ The following table describes the values that can be used for  _Arg5_ .
 |3|Actual/365|
 |4|European 30/360|
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

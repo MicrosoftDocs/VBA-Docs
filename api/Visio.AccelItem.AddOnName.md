@@ -31,11 +31,11 @@ String
 
 ## Remarks
 
-Assuming that the name of the add-on in the  **Addons** collection is _string_ , if the project of the currently active document (or another project if it is referenced) does not have a procedure named _string_ , or if the arguments passed in _string_ do not match those specified in the procedure, Microsoft Visio runs the add-on named _string_ . If no add-on named _string_ can be found, Visio does nothing and reports no error. (You can use the **TraceFlags** property to monitor the procedures and add-ons that Visio attempts to run.)
+Assuming that the name of the add-on in the  **Addons** collection is _string_ , if the project of the currently active document (or another project if it is referenced) does not have a procedure named _string_ , or if the arguments passed in _string_ do not match those specified in the procedure, Microsoft Visio runs the add-on named _string_. If no add-on named _string_ can be found, Visio does nothing and reports no error. (You can use the **TraceFlags** property to monitor the procedures and add-ons that Visio attempts to run.)
 
 If  _string_ is an add-on, use the **AddOnArgs** property to specify arguments to send to the add-on when it is run.
 
-If  _string_ is a procedure, specify arguments using _procname(arguments)_ or _procname arguments_ .
+If  _string_ is a procedure, specify arguments using _procname(arguments)_ or _procname arguments_.
 
 When calling a procedure in a standard module it is recommended that you prefix the string with the module name that contains the procedure (for example,  _moduleName.procName_ ) because more than one module can have a procedure with the same name.
 

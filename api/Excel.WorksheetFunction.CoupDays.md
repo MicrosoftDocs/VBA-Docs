@@ -45,7 +45,7 @@ Double
 
  **Important**  Dates should be entered by using the DATE function, or as results of other formulas or functions. For example, use DATE(2008,5,23) for the 23rd day of May, 2008. Problems can occur if dates are entered as text.
 
-The following table contains the values used in  _Arg4_ .
+The following table contains the values used in  _Arg4_.
 
 
 
