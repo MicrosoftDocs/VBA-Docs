@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.IsNumber
 ms.assetid: f2159d1b-4f56-e64e-3a08-bafbb688a683
-ms.date: 06/08/2017
+ms.date: 05/23/2019
 localization_priority: Normal
 ---
 

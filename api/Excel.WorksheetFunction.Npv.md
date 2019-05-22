@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Rate - the rate of discount over the length of one period.|
-| _Arg2 - Arg30_|Required| **Variant**|Value1, value2, ... - 1 to 29 arguments representing the payments and income.|
+| _Arg2 - Arg30_|Required| **Variant**|Value1, value2,... - 1 to 29 arguments representing the payments and income.|
 
 ## Return value
 

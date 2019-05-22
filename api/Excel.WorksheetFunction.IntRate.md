@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.IntRate
 ms.assetid: cf5c96e2-6f5e-dcaa-7682-fd925c76d2c6
-ms.date: 06/08/2017
+ms.date: 05/23/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Returns the interest rate for a fully invested security.
 
 ## Syntax
 
-_expression_. `IntRate`(_Arg1_, _Arg2_, _Arg3_, _Arg4_, _Arg5_)
+_expression_.**IntRate** (_Arg1_, _Arg2_, _Arg3_, _Arg4_, _Arg5_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

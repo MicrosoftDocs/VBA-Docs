@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ISO_Ceiling
 ms.assetid: e7011c98-0165-a333-6b99-b455913e8575
-ms.date: 06/08/2017
+ms.date: 05/23/2019
 localization_priority: Normal
 ---
 

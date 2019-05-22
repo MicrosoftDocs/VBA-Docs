@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 30 number arguments that correspond to a population.|
+| _Arg1 - Arg30_|Required| **Variant**|Number1, number2,... - 1 to 30 number arguments that correspond to a population.|
 
 ## Return value
 

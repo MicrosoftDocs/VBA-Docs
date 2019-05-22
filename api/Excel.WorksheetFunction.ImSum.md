@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ImSum
 ms.assetid: 154d2034-8933-7b20-2cae-92580ada7250
-ms.date: 06/08/2017
+ms.date: 05/23/2019
 localization_priority: Normal
 ---
 
@@ -26,33 +26,22 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1 - Arg30_|Required| **Variant**|Inumber1,inumber2,... - 1 to 29 complex numbers to add.|
+| _Arg1 - Arg30_|Required| **Variant**|Inumber1, inumber2,... - 1 to 29 complex numbers to add.|
 
 ## Return value
 
-String
+**String**
 
 
 ## Remarks
 
-
-
-
-- Use COMPLEX to convert real and imaginary coefficients into a complex number.
+Use the **[Complex](excel.worksheetfunction.complex.md)** method to convert real and imaginary coefficients into a complex number.
     
-- The sum of two complex numbers is:
-![Formula](../images/awfimsum_ZA06051172.gif)
+The sum of two complex numbers is &nbsp; ![Formula](../images/awfimsum_ZA06051172.gif)
 
 
-    
 
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

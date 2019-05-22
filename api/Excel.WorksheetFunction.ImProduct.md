@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ImProduct
 ms.assetid: 62733d0c-118b-1382-6c54-e8bc358c702c
-ms.date: 06/08/2017
+ms.date: 05/23/2019
 localization_priority: Normal
 ---
 
@@ -26,33 +26,21 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1 - Arg30_|Required| **Variant**|Inumber1, inumber2,? - 1 to 29 complex numbers to multiply.|
+| _Arg1 - Arg30_|Required| **Variant**|Inumber1, inumber2,... - 1 to 29 complex numbers to multiply.|
 
 ## Return value
 
-String
+**String**
 
 
 ## Remarks
 
-
-
-
-- Use COMPLEX to convert real and imaginary coefficients into a complex number.
+Use the **[Complex](excel.worksheetfunction.complex.md)** method to convert real and imaginary coefficients into a complex number.
     
-- The product of two complex numbers is: 
-![Formula](../images/awfimprd_ZA06051163.gif)
+The product of two complex numbers is &nbsp; ![Formula](../images/awfimprd_ZA06051163.gif)
 
 
-    
-
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -5,14 +5,14 @@ f1_keywords:
 - vbaxl10.chm137460
 ms.prod: excel
 ms.assetid: c257e779-e28f-e729-526a-52805f98e3a9
-ms.date: 06/08/2017
+ms.date: 05/23/2019
 localization_priority: Normal
 ---
 
 
 # WorksheetFunction.IfNa method (Excel)
 
-Returns the value you specify if the expression resolves to #N/A, otherwise returns the result of the expression.
+Returns the value that you specify if the expression resolves to #N/A; otherwise, returns the result of the expression.
 
 
 ## Syntax
@@ -24,8 +24,6 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|**Variant**|value: Any value or expression or reference.|
@@ -33,12 +31,9 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
- **VARIANT**
+**Variant**
 
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
