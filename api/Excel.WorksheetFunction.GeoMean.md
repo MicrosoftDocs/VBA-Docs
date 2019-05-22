@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.GeoMean
 ms.assetid: 9b999236-a220-10b2-890e-8d863c74bc74
-ms.date: 06/08/2017
+ms.date: 05/23/2019
 localization_priority: Normal
 ---
 
 
 # WorksheetFunction.GeoMean method (Excel)
 
-Returns the geometric mean of an array or range of positive data. For example, you can use GEOMEAN to calculate average growth rate given compound interest with variable rates.
+Returns the geometric mean of an array or range of positive data. For example, you can use **GeoMean** to calculate average growth rate given compound interest with variable rates.
 
 
 ## Syntax
@@ -26,41 +26,32 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 30 arguments for which you want to calculate the mean. You can also use a single array or a reference to an array instead of arguments separated by commas.|
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- Arguments can either be numbers or names, arrays, or references that contain numbers.
+Arguments can either be numbers or names, arrays, or references that contain numbers.
     
-- Logical values and text representations of numbers that you type directly into the list of arguments are counted.
+Logical values and text representations of numbers that you type directly into the list of arguments are counted.
     
-- If an array or reference argument contains text, logical values, or empty cells, those values are ignored; however, cells with the value zero are included.
+If an array or reference argument contains text, logical values, or empty cells, those values are ignored; however, cells with the value zero are included.
     
-- Arguments that are error values or text that cannot be translated into numbers cause errors.
+Arguments that are error values or text that cannot be translated into numbers cause errors.
     
-- If any data point ? 0, GEOMEAN returns the #NUM! error value.
+If any data point ≤ 0, **GeoMean** returns the #NUM! error value.
     
-- The equation for the geometric mean is:
-![Formula](../images/awfgeomn_ZA06051145.gif)
+The equation for the geometric mean is:
+
+> ![Formula](../images/awfgeomn_ZA06051145.gif)
 
 
-    
 
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
