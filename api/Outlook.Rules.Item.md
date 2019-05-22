@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Rules](Outlook.Rules.md) object.
 
 ## Return value
 
-A  **Rule** object that matches the rule specified by _Index_ .
+A  **Rule** object that matches the rule specified by _Index_.
 
 
 ## Remarks

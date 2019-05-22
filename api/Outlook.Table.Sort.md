@@ -39,7 +39,7 @@ _expression_ A variable that represents a [Table](Outlook.Table.md) object.
 
 Sorting the table is equivalent to calling a  **[MoveToStart](Outlook.Table.MoveToStart.md)** method. The cursor will be positioned to the start of the Table.
 
-If  **Table.Sort** and then **[Table.Restrict](Outlook.Table.Restrict.md)** are called, the filtered items in the new **Table** will be sorted by the same _SortProperty_ and _SortOrder_ .
+If  **Table.Sort** and then **[Table.Restrict](Outlook.Table.Restrict.md)** are called, the filtered items in the new **Table** will be sorted by the same _SortProperty_ and _SortOrder_.
 
  **Table.Sort** only supports sorting on a single column.
 

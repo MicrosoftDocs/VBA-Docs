@@ -45,11 +45,11 @@ Variant
 
 
 
-- If HLOOKUP can't find lookup_value, and range_lookup is TRUE, it uses the largest value that is less than lookup_value.
+- If HLOOKUP can't find lookup_value, and range_lookup is **True**, it uses the largest value that is less than lookup_value.
     
 - If lookup_value is smaller than the smallest value in the first row of table_array, HLOOKUP returns the #N/A error value.
     
-- If range_lookup is FALSE and lookup_value is text, you can use the wildcard characters, question mark (?) and asterisk (*), in lookup_value. A question mark matches any single character; an asterisk matches any sequence of characters. If you want to find an actual question mark or asterisk, type a tilde (~) before the character.
+- If range_lookup is **False** and lookup_value is text, you can use the wildcard characters, question mark (?) and asterisk (*), in lookup_value. A question mark matches any single character; an asterisk matches any sequence of characters. If you want to find an actual question mark or asterisk, type a tilde (~) before the character.
     
 
 ## See also

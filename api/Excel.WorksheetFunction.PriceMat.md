@@ -49,7 +49,7 @@ Double
 
 
 
-|**Basis**|**Day count basis**|
+|Basis|Day count basis|
 |:-----|:-----|
 |0 (zero) or omitted|US (NASD) 30/360|
 |1|Actual/actual|

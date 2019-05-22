@@ -37,7 +37,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 | _Arg1_|Required| **Double**|X - the value at which you want to evaluate the distribution.|
 | _Arg2_|Required| **Double**|Alpha - a parameter to the distribution.|
 | _Arg3_|Required| **Double**|Beta - a parameter to the distribution. If beta = 1, GAMMADIST returns the standard gamma distribution.|
-| _Arg4_|Required| **Boolean**|Cumulative - a logical value that determines the form of the function. If cumulative is TRUE, GAMMADIST returns the cumulative distribution function; if FALSE, it returns the probability density function.|
+| _Arg4_|Required| **Boolean**|Cumulative - a logical value that determines the form of the function. If cumulative is **True**, GAMMADIST returns the cumulative distribution function; if **False**, it returns the probability density function.|
 
 ## Return value
 

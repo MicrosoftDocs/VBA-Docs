@@ -56,20 +56,20 @@ where the dependent y-value is a function of the independent x-values. The m-val
     
 - If known_x's is omitted, it is assumed to be the array {1,2,3,...} that is the same size as known_y's.  
 
-- If const is TRUE or omitted, b is calculated normally.
+- If const is **True** or omitted, b is calculated normally.
     
-- If const is FALSE, b is set equal to 0 and the m-values are adjusted to fit y = mx.
+- If const is **False**, b is set equal to 0 and the m-values are adjusted to fit y = mx.
     
-- If stats is TRUE, LINEST returns the additional regression statistics, so the returned array is {mn,mn-1,...,m1,b;sen,sen-1,...,se1,seb;r2,sey;F,df;ssreg,ssresid}.
+- If stats is **True**, LINEST returns the additional regression statistics, so the returned array is {mn,mn-1,...,m1,b;sen,sen-1,...,se1,seb;r2,sey;F,df;ssreg,ssresid}.
     
-- If stats is FALSE or omitted, LINEST returns only the m-coefficients and the constant b.
+- If stats is **False** or omitted, LINEST returns only the m-coefficients and the constant b.
     
 The additional regression statistics are as follows. 
 
 |**Statistic**|**Description**|
 |:-----|:-----|
 |se1,se2,...,sen|The standard error values for the coefficients m1,m2,...,mn.|
-|seb|The standard error value for the constant b (seb = #N/A when const is FALSE).|
+|seb|The standard error value for the constant b (seb = #N/A when const is **False**).|
 |r2|The coefficient of determination. Compares estimated and actual y-values, and ranges in value from 0 to 1. If it is 1, there is a perfect correlation in the sample ? there is no difference between the estimated y-value and the actual y-value. At the other extreme, if the coefficient of determination is 0, the regression equation is not helpful in predicting a y-value. For information about how r2 is calculated, see "Remarks" later in this topic.|
 |sey|The standard error for the y estimate.|
 |F|The F statistic, or the F-observed value. Use the F statistic to determine whether the observed relationship between the dependent and independent variables occurs by chance.|

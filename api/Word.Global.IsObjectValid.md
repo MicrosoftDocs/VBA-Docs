@@ -39,7 +39,7 @@ This property returns  **False** if the object referenced by the variable has be
 
 ## Example
 
-This example adds a table to the active document and assigns it to the variable  _aTable_ . The example then deletes the first table from the document. If the table that _aTable_ refers to was not the first table in the document (that is, if _aTable_ is still a valid object), the example also removes any borders from that table.
+This example adds a table to the active document and assigns it to the variable  _aTable_. The example then deletes the first table from the document. If the table that _aTable_ refers to was not the first table in the document (that is, if _aTable_ is still a valid object), the example also removes any borders from that table.
 
 
 ```vb

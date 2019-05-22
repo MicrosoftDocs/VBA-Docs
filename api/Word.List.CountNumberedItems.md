@@ -45,7 +45,7 @@ Msgbox ActiveDocument.Content.ListFormat _
     .CountNumberedItems(Level:=1)
 ```
 
-This example counts the number of LISTNUM fields in the variable  _myRange_ .
+This example counts the number of LISTNUM fields in the variable  _myRange_.
 
  The result is displayed in a message box.
 

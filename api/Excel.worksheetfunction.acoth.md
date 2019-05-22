@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm137422
 ms.prod: excel
 ms.assetid: 05c3d305-b838-753a-fc8c-409b049f10ed
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -26,16 +26,13 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required|DOUBLE|The hyperbolic cotangent of the angle that you want.|
+| _Arg1_|Required|**Double**|The hyperbolic cotangent of the angle that you want.|
 
 ## Return value
 
- **DOUBLE**
+**Double**
 
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

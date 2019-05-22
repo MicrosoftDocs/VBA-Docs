@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Binom_Inv
 ms.assetid: 30af29b2-fc97-656b-d703-905caf7fcbb5
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Trials - the number of Bernoulli trials.|
@@ -36,28 +34,22 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- If Trials, Probability_s, or Alpha is nonnumeric, the  **Binom_Inv** method generates an error.
+If trials, probability_s, or alpha is nonnumeric, the **Binom_Inv** method generates an error.
     
-- If Trials is not an integer, it is truncated.
+If trials is not an integer, it is truncated.
     
-- If Trials < 0, the  **Binom_Inv** method generates an error.
+If trials < 0, the **Binom_Inv** method generates an error.
     
-- If Probability_s < 0 or Probability_s > 1, the  **Binom_Inv** method generates an error.
+If probability_s < 0 or probability_s > 1, the **Binom_Inv** method generates an error.
     
-- If Alpha < 0 or Alpha > 1, the  **Binom_Inv** method generates an error.
+If alpha < 0 or alpha > 1, the **Binom_Inv** method generates an error.
     
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

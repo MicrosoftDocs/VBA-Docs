@@ -40,7 +40,7 @@ Shape
 
 ## Remarks
 
-The  **DrawPolyline** method creates a new shape whose path consists of a sequence of line segments and whose endpoints match the points specified in _xyArray_ . Calling the **DrawPolyline** method is equivalent to calling the **DrawSpline** method with a tolerance of zero (0) and a flag of **visSplineAbrupt**.
+The  **DrawPolyline** method creates a new shape whose path consists of a sequence of line segments and whose endpoints match the points specified in _xyArray_. Calling the **DrawPolyline** method is equivalent to calling the **DrawSpline** method with a tolerance of zero (0) and a flag of **visSplineAbrupt**.
 
 The control points should be in internal drawing units (inches) with respect to the coordinate space of the page, master, or group in which the new shape is being created. The passed array should be a type SAFEARRAY of 8-byte floating point values passed by reference (VT_R8|VT_ARRAY|VT_BYREF). This is how Microsoft Visual Basic passes arrays to Automation objects.
 

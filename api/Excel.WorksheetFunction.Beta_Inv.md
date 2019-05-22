@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Beta_Inv
 ms.assetid: f652b2b8-a966-1b1e-bfcd-1554923c1740
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|A probability associated with the beta distribution.|
@@ -38,28 +36,24 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
- The beta distribution can be used in project planning to model probable completion times given an expected completion time and variability:
+The beta distribution can be used in project planning to model probable completion times given an expected completion time and variability.
 
-
-- If any argument is nonnumeric, Beta_Inv generates an error value.
+If any argument is nonnumeric, **Beta_Inv** generates an error value.
     
-- If alpha ? 0 or beta ? 0, Beta_Inv generates an error value.
+If alpha ≤ 0 or beta ≤ 0, **Beta_Inv** generates an error value.
     
-- If probability ? 0 or probability > 1, Beta_Inv generates an error value.
+If probability ≤ 0 or probability > 1, **Beta_Inv** generates an error value.
     
-- If you omit values for A and B (lower and upper bound), Beta_Inv uses the standard cumulative beta distribution, so that A = 0 and B = 1.
+If you omit values for A and B (lower and upper bound), **Beta_Inv** uses the standard cumulative beta distribution, so that A = 0 and B = 1.
     
-Given a value for probability, Beta_Inv seeks that value x such that Beta_Dist(x, alpha, beta, TRUE, A, B) = probability. Thus, precision of Beta_Inv depends on precision of Beta_Dist. Beta_Inv uses an iterative search technique.
+Given a value for probability, **Beta_Inv** seeks that value x such that Beta_Dist(x, alpha, beta, TRUE, A, B) = probability. Thus, the precision of **Beta_Inv** depends on the precision of **Beta_Dist**. **Beta_Inv** uses an iterative search technique.
 
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

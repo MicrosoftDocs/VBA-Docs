@@ -66,7 +66,7 @@ Documents.OpenEx(fileName , visOpenMacrosDisabled)
 
 ## Example
 
-The following example shows how use to open a document from an add-on and use the  **MacrosEnabled** property to determine whether macros are enabled. If macros are disabled, a message box appears warning the user of limited functionality. Before running this example, supply a valid document file name for the variable _filename_ .
+The following example shows how use to open a document from an add-on and use the  **MacrosEnabled** property to determine whether macros are enabled. If macros are disabled, a message box appears warning the user of limited functionality. Before running this example, supply a valid document file name for the variable _filename_.
 
 
 ```vb

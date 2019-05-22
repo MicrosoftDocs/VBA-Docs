@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Table.FindRow method (Outlook)
 
-Finds the first row in the  **[Table](Outlook.Table.md)** that meets the criteria specified in _Filter_ .
+Finds the first row in the  **[Table](Outlook.Table.md)** that meets the criteria specified in _Filter_.
 
 
 ## Syntax

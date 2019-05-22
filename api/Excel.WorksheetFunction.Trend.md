@@ -62,9 +62,9 @@ Variant
 - If you omit both known_x's and new_x's, they are assumed to be the array {1,2,3,...} that is the same size as known_y's.
     
 
-- If const is TRUE or omitted, b is calculated normally.
+- If const is **True** or omitted, b is calculated normally.
     
-- If const is FALSE, b is set equal to 0 (zero), and the m-values are adjusted so that y = mx.
+- If const is **False**, b is set equal to 0 (zero), and the m-values are adjusted so that y = mx.
     
 
 - For information about how Microsoft Excel fits a line to data, see LINEST.

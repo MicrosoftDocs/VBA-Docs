@@ -34,7 +34,7 @@ _expression_ A variable that represents a [RuleActions](Outlook.RuleActions.md) 
 
 ## Return value
 
-A  **RuleAction** object that matches the rule action specified by _Index_ .
+A  **RuleAction** object that matches the rule action specified by _Index_.
 
 
 ## Remarks

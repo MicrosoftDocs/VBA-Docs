@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm137425
 ms.prod: excel
 ms.assetid: 92eb3bc6-afa3-ca11-6eeb-26d3c8c4ca6d
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -26,16 +26,13 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required|DOUBLE|The angle in radians for which you want the cosecant.|
+| _Arg1_|Required|**Double**|The angle in radians for which you want the cosecant.|
+
 
 ## Return value
 
- **DOUBLE**
+**Double**
 
 
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

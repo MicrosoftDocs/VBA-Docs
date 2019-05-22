@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.CritBinom
 ms.assetid: df9bb77f-b3b5-3e2b-d0b1-f42aabe9c14a
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|The number of Bernoulli trials.|
@@ -36,28 +34,23 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
- Use this function for quality assurance applications. For example, use CritBinom to determine the greatest number of defective parts that are allowed to come off an assembly line run without rejecting the entire lot.
+Use this function for quality assurance applications. For example, use **CritBinom** to determine the greatest number of defective parts that are allowed to come off an assembly line run without rejecting the entire lot.
 
+If any argument is nonnumeric, **CritBinom** generates an error.
+    
+If trials is not an integer, it is truncated.
+    
+If trials < 0, **CritBinom** generates an error.
+    
+If probability_s is < 0 or probability_s > 1, **CritBinom** generates an error.
+    
+If alpha < 0 or alpha > 1, **CritBinom** generates an error.
+    
 
-- If any argument is nonnumeric, CritBinom generates an error.
-    
-- If trials is not an integer, it is truncated.
-    
-- If trials < 0, CritBinom generates an error.
-    
-- If probability_s is < 0 or probability_s > 1, CritBinom generates an error.
-    
-- If alpha < 0 or alpha > 1, CritBinom generates an error.
-    
-
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

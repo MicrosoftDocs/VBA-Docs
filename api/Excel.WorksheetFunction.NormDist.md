@@ -37,7 +37,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 | _Arg1_|Required| **Double**|X - the value for which you want the distribution.|
 | _Arg2_|Required| **Double**|Mean - the arithmetic mean of the distribution.|
 | _Arg3_|Required| **Double**|Standard_dev - the standard deviation of the distribution.|
-| _Arg4_|Required| **Boolean**|Cumulative - a logical value that determines the form of the function. If cumulative is TRUE, NORMDIST returns the cumulative distribution function; if FALSE, it returns the probability mass function.|
+| _Arg4_|Required| **Boolean**|Cumulative - a logical value that determines the form of the function. If cumulative is **True**, NORMDIST returns the cumulative distribution function; if **False**, it returns the probability mass function.|
 
 ## Return value
 

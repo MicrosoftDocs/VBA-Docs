@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Erf_Precise
 ms.assetid: 1a34f60c-b5e9-f18f-2d0e-4ebe770edd59
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -26,34 +26,28 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required| **Variant**|Lower_limit - the lower bound for integrating ERF.|
+| _Arg1_|Required| **Variant**|Lower_limit - the lower bound for integrating **Erf**.|
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-- If lower_limit is nonnumeric,  **Erf_Precise** generates an error.
+If lower_limit is nonnumeric, **Erf_Precise** generates an error.
     
-- If lower_limit is negative,  **Erf_Precise** generates an error.
+If lower_limit is negative, **Erf_Precise** generates an error.
+
 ![Formula](../images/awferf1_ZA06051136.gif)
 
 
-    
-
- **Note**  If you previously used the  **[Erf](Excel.WorksheetFunction.Erf.md)** method, which provides an optional upper_limit parameter, using the **Erf_Precise** method is equivalent to calling Erf(lower_limit) or Erf(0, upper_limit)
-
-
-## See also
+> [!NOTE] 
+> If you previously used the **[Erf](Excel.WorksheetFunction.Erf.md)** method, which provides an optional upper_limit parameter, using the **Erf_Precise** method is equivalent to calling Erf(lower_limit) or Erf(0, upper_limit).
 
 
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

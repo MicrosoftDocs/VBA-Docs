@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.DevSq
 ms.assetid: 9f74f91c-f9c0-4ffb-1145-32f010bcc257
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -28,35 +28,25 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - are 1 to 30 arguments for which you want to calculate the sum of squared deviations. You can also use a single array or a reference to an array instead of arguments separated by commas.|
+| _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 30 arguments for which you want to calculate the sum of squared deviations. You can also use a single array or a reference to an array instead of arguments separated by commas.|
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- Arguments can either be numbers or names, arrays, or references that contain numbers.
+Arguments can either be numbers or names, arrays, or references that contain numbers.
     
-- Logical values and text representations of numbers that you type directly into the list of arguments are counted.
+Logical values and text representations of numbers that you type directly into the list of arguments are counted.
     
-- If an array or reference argument contains text, logical values, or empty cells, those values are ignored; however, cells with the value zero are included.
+If an array or reference argument contains text, logical values, or empty cells, those values are ignored; however, cells with the value zero are included.
     
-- Arguments that are error values or text that cannot be translated into numbers cause errors.
+Arguments that are error values or text that cannot be translated into numbers cause errors.
     
-- The equation for the sum of squared deviations is:
-![Formula](../images/awfdevsq_ZA06051133.gif)
+The equation for the sum of squared deviations is ![Formula](../images/awfdevsq_ZA06051133.gif)
 
 
-    
-
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

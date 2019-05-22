@@ -39,7 +39,7 @@ _expression_ A variable that represents an '[UndoRecord](Word.UndoRecord.md)' ob
 
 ## Remarks
 
- **StartCustomRecord** begins the creation of a custom undo record, which records all actions done to the application while it is active under a record defined by _Name_ .
+ **StartCustomRecord** begins the creation of a custom undo record, which records all actions done to the application while it is active under a record defined by _Name_.
 
 
 ## Example

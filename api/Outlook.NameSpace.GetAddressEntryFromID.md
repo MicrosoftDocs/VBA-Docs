@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.GetAddressEntryFromID method (Outlook)
 
-Returns an  **[AddressEntry](Outlook.AddressEntry.md)** object that represents the address entry for the specified _ID_ .
+Returns an  **[AddressEntry](Outlook.AddressEntry.md)** object that represents the address entry for the specified _ID_.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' ob
 
 ## Return value
 
-An  **AddressEntry** that has the **[ID](Outlook.AddressEntry.ID.md)** property that matches the specified _ID_ .
+An  **AddressEntry** that has the **[ID](Outlook.AddressEntry.ID.md)** property that matches the specified _ID_.
 
 
 ## Remarks

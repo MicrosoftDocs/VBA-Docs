@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Dollar
 ms.assetid: 246988c8-568a-640b-affb-fd1cd8907889
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number - a number, a reference to a cell containing a number, or a formula that evaluates to a number.|
@@ -35,17 +33,14 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-String
+**String**
 
 
 ## Remarks
 
-The major difference between formatting a cell that contains a number with the  **Cells** command (**Format** menu) and formatting a number directly with the DOLLAR function is that DOLLAR converts its result to text. A number formatted with the **Cells** command is still a number. You can continue to use numbers formatted with DOLLAR in formulas, because Microsoft Excel converts numbers entered as text values to numbers when it calculates.
+The major difference between formatting a cell that contains a number with the  **Cells** command (**Format** menu) and formatting a number directly with the **Dollar** function is that **Dollar** converts its result to text. A number formatted with the **Cells** command is still a number. You can continue to use numbers formatted with **Dollar** in formulas because Microsoft Excel converts numbers entered as text values to numbers when it calculates.
 
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

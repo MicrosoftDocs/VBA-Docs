@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Atanh
 ms.assetid: 4399ebf8-5eff-9ec0-421e-1fe3f5fdc5c1
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -26,25 +26,20 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Any real number between 1 and -1.|
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-The inverse hyperbolic tangent is the value whose hyperbolic tangent is  _Arg1_ , so Atanh(Tanh(number)) equals _Arg1_ .
+The inverse hyperbolic tangent is the value whose hyperbolic tangent is _Arg1_, so Atanh(Tanh(number)) equals _Arg1_.
 
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

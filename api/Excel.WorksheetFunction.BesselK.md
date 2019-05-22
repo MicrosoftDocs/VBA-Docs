@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.BesselK
 ms.assetid: 9b2eb52e-2b8a-3608-6410-52abccc886b3
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -26,36 +26,27 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required| **Variant**| the value at which to evaluate the function.|
-| _Arg2_|Required| **Variant**|the order of the function. If n is not an integer, it is truncated.|
+| _Arg1_|Required| **Variant**|The value at which to evaluate the function.|
+| _Arg2_|Required| **Variant**|The order of the function. If n is not an integer, it is truncated.|
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- If x is nonnumeric, BesselK generates an error value.
+If x is nonnumeric, **BesselK** generates an error value.
     
-- If n is nonnumeric, BesselK generates an error value.
+If n is nonnumeric, **BesselK** generates an error value.
     
-- If n < 0, BesselK generates an error value.
+If n < 0, **BesselK** generates an error value.
     
-- The n-th order modified Bessel function of the variable x is:
-![Bessel function](../images/awfbeslk_ZA06051112.gif)where Jn and Yn are the J and Y Bessel functions, respectively. 
+The n-th order modified Bessel function of the variable x is ![Bessel function](../images/awfbeslk_ZA06051112.gif) where Jn and Yn are the J and Y Bessel functions, respectively. 
     
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

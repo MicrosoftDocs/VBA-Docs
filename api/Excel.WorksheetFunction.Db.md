@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Db
 ms.assetid: 09c56126-ab90-1bb2-44e9-3d5346ddc72d
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Cost - the initial cost of the asset.|
@@ -38,24 +36,24 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
+The fixed-declining balance method computes depreciation at a fixed rate. **Db** uses the following formulas to calculate depreciation for a period: 
 
-
-
-- The fixed-declining balance method computes depreciation at a fixed rate. DB uses the following formulas to calculate depreciation for a period: `(cost - total depreciation from prior periods) * rate` where: `rate = 1 - ((salvage / cost) ^ (1 / life))`, rounded to three decimal places 
+> `(cost - total depreciation from prior periods) * rate` where: `rate = 1 - ((salvage / cost) ^ (1 / life))`, rounded to three decimal places 
     
-- Depreciation for the first and last periods is a special case. For the first period, DB uses this formula: `cost * rate * month / 12`
+Depreciation for the first and last periods is a special case. For the first period, **Db** uses this formula: 
+
+> `cost * rate * month / 12`
     
-- For the last period, DB uses this formula: `((cost - total depreciation from prior periods) * rate * (12 - month)) / 12`
+For the last period, **Db** uses this formula: 
+
+> `((cost - total depreciation from prior periods) * rate * (12 - month)) / 12`
     
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

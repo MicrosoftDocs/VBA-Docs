@@ -49,7 +49,7 @@ To convert between shape IDs and unique IDs, you can use two methods of the  **P
 
 By default, a shape does not have a unique ID. A shape acquires a unique ID only if you set its  **[Shape.UniqueID](Visio.Shape.UniqueID.md)** property. If a **Shape** object has a unique ID, no other shape in any other document will have the same ID.
 
-The  _UniqueIDArgs_ parameter sets and controls the behavior of the **UniqueID** property for all the shapes in _ShapeIDs()_ . _UniqueIDArgs_ should have one of the following values declared in the Visio type library in **VisUniqueIDArgs**.
+The  _UniqueIDArgs_ parameter sets and controls the behavior of the **UniqueID** property for all the shapes in _ShapeIDs()_. _UniqueIDArgs_ should have one of the following values declared in the Visio type library in **VisUniqueIDArgs**.
 
 
 

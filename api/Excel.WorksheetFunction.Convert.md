@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Convert
 ms.assetid: 3fb95208-6419-da1c-008d-dc00e836183e
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
 
 # WorksheetFunction.Convert method (Excel)
 
-Converts a number from one measurement system to another. For example, Convert can translate a table of distances in miles to a table of distances in kilometers.
+Converts a number from one measurement system to another. For example, **Convert** can translate a table of distances in miles to a table of distances in kilometers.
 
 
 ## Syntax
@@ -26,24 +26,20 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|The value in from_units to convert.|
 | _Arg2_|Required| **Variant**|The units for number.|
-| _Arg3_|Required| **Variant**|The units for the result. Convert accepts the following text values (in quotation marks) for from_unit and to_unit which are listed in the Remarks section below.|
+| _Arg3_|Required| **Variant**|The units for the result. **Convert** accepts the following text values (in quotation marks) for from_unit and to_unit, which are listed in the Remarks section.|
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-|**Weight and mass**|**From_unit or to_unit**|
+|Weight and mass|From_unit or to_unit |
 |:-----|:-----|
 |Gram|"g"|
 |Slug|"sg"|
@@ -51,8 +47,9 @@ Double
 |U (atomic mass unit)|"u"|
 |Ounce mass (avoirdupois)|"ozm"|
 
+<br/>
 
-|**Distance**|**From_unit or to_unit**|
+|Distance|From_unit or to_unit |
 |:-----|:-----|
 |Meter|"m"|
 |Statute mile|"mi"|
@@ -63,8 +60,9 @@ Double
 |Angstrom|"ang"|
 |Pica (1/72 in.)|"Pica"|
 
+<br/>
 
-|**Time**|**From_unit or to_unit**|
+|Time|From_unit or to_unit |
 |:-----|:-----|
 |Year|"yr"|
 |Day|"day"|
@@ -72,22 +70,25 @@ Double
 |Minute|"mn"|
 |Second|"sec"|
 
+<br/>
 
-|**Pressure**|**From_unit or to_unit**|
+|Pressure|From_unit or to_unit |
 |:-----|:-----|
 |Pascal|"Pa" (or "p")|
 |Atmosphere|"atm" (or "at")|
 |mm of Mercury|"mmHg"|
 
+<br/>
 
-|**Force**|**From_unit or to_unit**|
+|Force|From_unit or to_unit |
 |:-----|:-----|
 |Newton|"N"|
 |Dyne|"dyn" (or "dy")|
 |Pound force|"lbf"|
 
+<br/>
 
-|**Energy**|**From_unit or to_unit**|
+|Energy|From_unit or to_unit |
 |:-----|:-----|
 |Joule|"J"|
 |Erg|"e"|
@@ -99,27 +100,31 @@ Double
 |Foot-pound|"flb"|
 |BTU|"BTU" (or "btu")|
 
+<br/>
 
-|**Power**|**From_unit or to_unit**|
+|Power|From_unit or to_unit |
 |:-----|:-----|
 |Horsepower|"HP" (or "h")|
 |Watt|"W" (or "w")|
 
+<br/>
 
-|**Magnetism**|**From_unit or to_unit**|
+|Magnetism|From_unit or to_unit |
 |:-----|:-----|
 |Tesla|"T"|
 |Gauss|"ga"|
 
+<br/>
 
-|**Temperature**|**From_unit or to_unit**|
+|Temperature|From_unit or to_unit |
 |:-----|:-----|
 |Degree Celsius|"C" (or "cel")|
 |Degree Fahrenheit|"F" (or "fah")|
 |Kelvin|"K" (or "kel")|
 
+<br/>
 
-|**Liquid measure**|**From_unit or to_unit**|
+|Liquid measure|From_unit or to_unit |
 |:-----|:-----|
 |Teaspoon|"tsp"|
 |Tablespoon|"tbs"|
@@ -131,11 +136,11 @@ Double
 |Gallon|"gal"|
 |Liter|"l" (or "lt")|
 
+<br/>
+
 The following abbreviated unit prefixes can be prepended to any metric from_unit or to_unit. 
 
-
-
-|**Prefix**|**Multiplier**|**Abbreviation**|
+|Prefix|Multiplier|Abbreviation|
 |:-----|:-----|:-----|
 |exa|1E+18|"E"|
 |peta|1E+15|"P"|
@@ -154,20 +159,19 @@ The following abbreviated unit prefixes can be prepended to any metric from_unit
 |femto|1E-15|"f"|
 |atto|1E-18|"a"|
 
-- If the input data types are incorrect, Convert generates an error.
+<br/>
+
+If the input data types are incorrect, **Convert** generates an error.
     
-- If the unit does not exist, Convert generates an error.
+If the unit does not exist, **Convert** generates an error.
     
-- If the unit does not support an abbreviated unit prefix, Convert generates an error.
+If the unit does not support an abbreviated unit prefix, **Convert** generates an error.
     
-- If the units are in different groups, Convert generates an error.
+If the units are in different groups, **Convert** generates an error.
     
-- Unit names and prefixes are case-sensitive.
+Unit names and prefixes are case-sensitive.
     
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

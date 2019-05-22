@@ -50,16 +50,16 @@ The V in  **VLookup** stands for vertical. Use the **VLookup** method instead of
 - If Col_index_num is greater than the number of columns in table_array, the  **VLookup** method generates an error.
     
 
--  If Range_lookup is TRUE or omitted, an exact or approximate match is returned. If an exact match is not found, the next largest value that is less than lookup_value is returned. The values in the first column of table_array must be placed in ascending sort order; otherwise, the **VLookup** method may not give the correct value.
+-  If Range_lookup is **True** or omitted, an exact or approximate match is returned. If an exact match is not found, the next largest value that is less than lookup_value is returned. The values in the first column of table_array must be placed in ascending sort order; otherwise, the **VLookup** method may not give the correct value.
     
-- If Range_lookup is FALSE, the  **VLookup** method will only find an exact match. In this case, the values in the first column of table_array do not need to be sorted. If there are two or more values in the first column of table_array that match the lookup_value, the first value found is used. If an exact match is not found, an error is generated.
+- If Range_lookup is **False**, the  **VLookup** method will only find an exact match. In this case, the values in the first column of table_array do not need to be sorted. If there are two or more values in the first column of table_array that match the lookup_value, the first value found is used. If an exact match is not found, an error is generated.
     
 
 - When searching text values in the first column of table_array, ensure that the data in the first column of table_array does not have leading spaces, trailing spaces, inconsistent use of straight ( ' or " ) and curly ( ? or ?) quotation marks, or nonprinting characters. In these cases, the  **VLookup** method may give an incorrect or unexpected value. For information about how to clean or trim values, see the **[Clean](Excel.WorksheetFunction.Clean.md)** and **[Trim](Excel.WorksheetFunction.Trim.md)** methods.
     
 - When searching number or date values, ensure that the data in the first column of table_array is not stored as text values. In this case, the  **VLookup** method may give an incorrect or unexpected value.
     
-- If range_lookup is FALSE and lookup_value is text, then you can use the wildcard characters, question mark (?) and asterisk (*), in lookup_value. A question mark matches any single character; an asterisk matches any sequence of characters. If you want to find an actual question mark or asterisk, type a tilde (~) preceding the character.
+- If range_lookup is **False** and lookup_value is text, then you can use the wildcard characters, question mark (?) and asterisk (*), in lookup_value. A question mark matches any single character; an asterisk matches any sequence of characters. If you want to find an actual question mark or asterisk, type a tilde (~) preceding the character.
     
 
 ## See also

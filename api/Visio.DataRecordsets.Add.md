@@ -56,7 +56,7 @@ An easy way to reuse an existing data connection is to pass the  **DataConnectio
 NewDataRecordset  = DataRecordsets.Add(ExistingDataRecordset .DataConnection.ID, CommandString, AddOptions, Name)
 ```
 
-For the ConnectionIDOrString parameter, if you pass the ID of an existing  **DataConnection** object that is currently being used by one or more other data recordsets, all the data recordsets become a _transacted group recordset_ . All data recordsets in the group are refreshed whenever a data-refresh operation occurs.
+For the ConnectionIDOrString parameter, if you pass the ID of an existing  **DataConnection** object that is currently being used by one or more other data recordsets, all the data recordsets become a _transacted group recordset_. All data recordsets in the group are refreshed whenever a data-refresh operation occurs.
 
 The AddOptions parameter can be a combination of one or more of the following values from the  **VisDataRecordsetAddOptions** enumeration, which is declared in the Visio type library. The default is zero (0), which specifies that none of the options be set.
 

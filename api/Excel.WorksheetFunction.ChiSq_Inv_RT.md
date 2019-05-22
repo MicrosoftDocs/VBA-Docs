@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ChiSq_Inv_RT
 ms.assetid: 4c92ac86-6f3b-6bdb-cae9-5790db659e2a
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|A probability associated with the chi-squared distribution.|
@@ -35,28 +33,24 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
- If probability = ChiSq_Dist_RT(x,...), then ChiSq_Inv_RT(probability,...) = x. Use this function to compare observed results with expected ones in order to decide whether your original hypothesis is valid:
+If probability = ChiSq_Dist_RT(x,...), then ChiSq_Inv_RT(probability,...) = x. Use this function to compare observed results with expected ones to decide whether your original hypothesis is valid.
 
-
-- If either argument is nonnumeric, ChiSq_Inv_RT generates an error.
+If either argument is nonnumeric, **ChiSq_Inv_RT** generates an error.
     
-- If probability < 0 or probability > 1, ChiSq_Inv_RT generates an error.
+If probability < 0 or probability > 1, **ChiSq_Inv_RT** generates an error.
     
-- If degrees_freedom is not an integer, it is truncated.
+If degrees_freedom is not an integer, it is truncated.
     
-- If degrees_freedom < 1 or degrees_freedom ? 10^10, ChiSq_Inv_RT generates an error.
+If degrees_freedom < 1 or degrees_freedom ≥ 10^10, **ChiSq_Inv_RT** generates an error.
     
-Given a value for probability, ChiSq_Inv_RT seeks that value x such that ChiSq_Dist_RT(x, degrees_freedom) = probability. Thus, precision of ChiSq_Inv_RT depends on precision of ChiSq_Dist_RT. ChiSq_Inv_RT uses an iterative search technique. If the search has not converged after 64 iterations, the function generates an error.
+Given a value for probability, **ChiSq_Inv_RT** seeks that value x such that ChiSq_Dist_RT(x, degrees_freedom) = probability. Thus, precision of **ChiSq_Inv_RT** depends on precision of **ChiSq_Dist_RT**. **ChiSq_Inv_RT** uses an iterative search technique. If the search has not converged after 64 iterations, the function generates an error.
 
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

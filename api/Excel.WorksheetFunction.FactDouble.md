@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.FactDouble
 ms.assetid: 71d8d537-b06c-7614-d6d6-b6c57ed8c68f
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Returns the double factorial of a number.
 
 ## Syntax
 
-_expression_. `FactDouble` (_Arg1_)
+_expression_.**FactDouble** (_Arg1_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,32 +32,20 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- If number is nonnumeric, FACTDOUBLE returns the #VALUE! error value.
+If number is nonnumeric, **FactDouble** returns the #VALUE! error value.
     
-- If number is negative, FACTDOUBLE returns the #NUM! error value.
+If number is negative, **FactDouble** returns the #NUM! error value.
     
-- If number is even:
-![Formula](../images/awffdbl1_ZA06051139.gif)
+If number is even ![Formula](../images/awffdbl1_ZA06051139.gif)
+
+If number is odd ![Formula](../images/awffdbl2_ZA06051140.gif)
 
 
-    
-- If number is odd:
-![Formula](../images/awffdbl2_ZA06051140.gif)
 
-
-    
-
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

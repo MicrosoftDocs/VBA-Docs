@@ -40,7 +40,7 @@ _expression_ A variable that represents a '[Validation](Visio.Validation.md)' ob
 
 ## Remarks
 
-To validate all rule sets active in the document, pass  **Nothing** for _RuleSet_ .
+To validate all rule sets active in the document, pass  **Nothing** for _RuleSet_.
 
  _Flags_ must be one of the following **VisValidationFlags** constants.
 

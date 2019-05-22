@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.CountIfs
 ms.assetid: 399dcc8e-2523-8aa5-8112-b4cbc572d34e
-ms.date: 01/18/2019
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -29,20 +29,20 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Range**|One or more ranges in which to evaluate the associated criteria.|
-| _Arg2_&ndash;_Arg30_|Required| **Variant**|One or more criteria in the form of a number, expression, cell reference, or text that define which cells will be counted. For example, criteria can be expressed as 32, "32", ">32", "apples", or B4.|
+| _Arg2_ &ndash; _Arg30_|Required| **Variant**|One or more criteria in the form of a number, expression, cell reference, or text that define which cells will be counted. For example, criteria can be expressed as 32, "32", ">32", "apples", or B4.|
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-- Each cell in a range is counted only if all of the corresponding criteria specified are true for that cell.
+Each cell in a range is counted only if all of the corresponding criteria specified are **True** for that cell.
     
-- If a cell in any argument is an empty cell, **CountIfs** treats it as a 0 value.
+If a cell in any argument is an empty cell, **CountIfs** treats it as a 0 value.
     
-- You can use the wildcard characters, question mark (?) and asterisk (*), in criteria. A question mark matches any single character; an asterisk matches any sequence of characters. If you want to find an actual question mark or asterisk, type a tilde (~) before the character.
+You can use the wildcard characters, question mark (?) and asterisk (*), in criteria. A question mark matches any single character; an asterisk matches any sequence of characters. If you want to find an actual question mark or asterisk, type a tilde (~) before the character.
     
 ## See also
 

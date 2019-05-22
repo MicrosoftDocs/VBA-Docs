@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PropertyAccessor.SetProperty method (Outlook)
 
-Sets the property specified by  _SchemaName_ to the value specified by _Value_ .
+Sets the property specified by  _SchemaName_ to the value specified by _Value_.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ _expression_ A variable that represents a [PropertyAccessor](Outlook.PropertyAcc
 
 ## Remarks
 
-If the property does not exist and the  _SchemaName_ contains a valid property specifier, then **SetProperty** creates the property and assigns the value specified by _Value_ . If the property does exist and _SchemaName_ is valid, then **SetProperty** assigns the property with the value specified by _Value_ .
+If the property does not exist and the  _SchemaName_ contains a valid property specifier, then **SetProperty** creates the property and assigns the value specified by _Value_. If the property does exist and _SchemaName_ is valid, then **SetProperty** assigns the property with the value specified by _Value_.
 
 Note that a custom property created by using the  **[PropertyAccessor](Outlook.PropertyAccessor.md)** is not supported in a custom view. If you want to view a custom property on an item, create the property by using the **[Add](Outlook.UserProperties.Add.md)** method of the **[UserProperties](Outlook.UserProperties.md)** object.
 
