@@ -46,7 +46,9 @@ If _Arg1_ and _Arg2_ have a different number of data points, **Correl** generate
     
 If either _Arg1_ or _Arg2_ is empty, or if _s_ (the standard deviation) of their values equals zero, **Correl** generates an error.
     
-The equation for the correlation coefficient is ![Formula](../images/awfcrrl1_ZA06051129.gif) where x and y are the sample means Average(_Arg1_) and Average(_Arg2_). 
+The equation for the correlation coefficient is as follows, where x and y are the sample means Average(_Arg1_) and Average(_Arg2_):
+
+> ![Formula](../images/awfcrrl1_ZA06051129.gif)
     
 
 

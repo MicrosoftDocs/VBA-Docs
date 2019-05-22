@@ -44,8 +44,7 @@ If _known_y_ and _known_x_ parameters are empty or contain a different number of
     
 If the variance of _known_x_ parameters equals zero, **Forecast_Linear** returns the #DIV/0! error value.
     
-The equation for **Forecast_Linear** is a+bx, where ![Formula](../images/awfintc1_ZA06051174.gif) and 
-![Formula](../images/awfintc2_ZA06051175.gif) and where x and y are the sample means AVERAGE(all _known_x_) and AVERAGE(all _known_y_).
+The equation for **Forecast_Linear** is a+bx, where &nbsp; ![Formula](../images/awfintc1_ZA06051174.gif) &nbsp; and &nbsp; ![Formula](../images/awfintc2_ZA06051175.gif) &nbsp; and where x and y are the sample means AVERAGE(all _known_x_) and AVERAGE(all _known_y_).
     
 
 ## Example

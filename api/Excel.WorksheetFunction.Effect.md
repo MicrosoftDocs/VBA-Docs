@@ -38,13 +38,15 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Remarks
 
-- Npery is truncated to an integer.
+Npery is truncated to an integer.
     
-- If either argument is nonnumeric, **Effect** returns the #VALUE! error value.
+If either argument is nonnumeric, **Effect** returns the #VALUE! error value.
     
-- If nominal_rate ≤ 0 or if npery < 1, **Effect** returns the #NUM! error value.
+If nominal_rate ≤ 0 or if npery < 1, **Effect** returns the #NUM! error value.
     
-- **Effect** is calculated as follows ![Formula](../images/awfefect_ZA06051135.gif)
+**Effect** is calculated as follows:
+
+>  ![Formula](../images/awfefect_ZA06051135.gif)
 
 
     

@@ -50,7 +50,7 @@ The following table contains the values for _Arg3_.
 > [!CAUTION] 
 > When you use the **Days360** function to calculate the number of days between two dates, an unexpected value is returned. For example, when you use the **Days360** function with a start date of February 28 and with an end date of March 28, a value of 28 days is returned. You expect a value of 30 days to be returned for every full month. To work around this behavior, use the following formula: 
 > 
-> =DAYS360(start_date,end_date,IF(method=TRUE,TRUE,IF(AND(method=FALSE,MONTH(start_date)=2,DAY(start_date)>=28,MONTH(end_date)=2,DAY(end_date)>=28),TRUE,FALSE)))
+> `=DAYS360(start_date,end_date,IF(method=TRUE,TRUE,IF(AND(method=FALSE,MONTH(start_date)=2,DAY(start_date)>=28,MONTH(end_date)=2,DAY(end_date)>=28),TRUE,FALSE)))`
 
 Microsoft Excel stores dates as sequential serial numbers so they can be used in calculations. By default, January 1, 1900 is serial number 1, and January 1, 2008 is serial number 39448 because it is 39,448 days after January 1, 1900. Microsoft Excel for the Macintosh uses a different date system as its default. 
 

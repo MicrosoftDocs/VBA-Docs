@@ -43,7 +43,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 The fixed-declining balance method computes depreciation at a fixed rate. **Db** uses the following formulas to calculate depreciation for a period: 
 
-> `(cost - total depreciation from prior periods) * rate` where: `rate = 1 - ((salvage / cost) ^ (1 / life))`, rounded to three decimal places 
+> `(cost - total depreciation from prior periods) * rate` &nbsp; where &nbsp; `rate = 1 - ((salvage / cost) ^ (1 / life))`, rounded to three decimal places 
     
 Depreciation for the first and last periods is a special case. For the first period, **Db** uses this formula: 
 
