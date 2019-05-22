@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.FTest
 ms.assetid: e1f01a38-2957-a97c-d84b-f6efdec88631
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -19,18 +19,16 @@ Returns the result of an F-test. An F-test returns the two-tailed probability th
 > [!IMPORTANT] 
 > This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
 > 
-> For more information about the new function, see the [F_Test](Excel.WorksheetFunction.F_Test.md) method.
+> For more information about the new function, see the **[F_Test](Excel.WorksheetFunction.F_Test.md)** method.
 
 ## Syntax
 
-_expression_. `FTest` (_Arg1_, _Arg2_)
+_expression_.**FTest** (_Arg1_, _Arg2_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -39,24 +37,18 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- The arguments must be either numbers or names, arrays, or references that contain numbers.
+The arguments must be either numbers or names, arrays, or references that contain numbers.
     
-- If an array or reference argument contains text, logical values, or empty cells, those values are ignored; however, cells with the value zero are included.
+If an array or reference argument contains text, logical values, or empty cells, those values are ignored; however, cells with the value zero are included.
     
-- If the number of data points in array1 or array2 is less than 2, or if the variance of array1 or array2 is zero, FTEST returns the #DIV/0! error value.
+If the number of data points in array1 or array2 is less than 2, or if the variance of array1 or array2 is zero, **FTest** returns the #DIV/0! error value.
     
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

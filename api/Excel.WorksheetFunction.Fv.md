@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Fv
 ms.assetid: 0f2cedc5-2f10-0ad1-b140-cdbbfa6af8ce
-ms.date: 06/08/2017
+ms.date: 05/22/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Returns the future value of an investment based on periodic, constant payments a
 
 ## Syntax
 
-_expression_. `Fv`(_Arg1_, _Arg2_, _Arg3_, _Arg4_, _Arg5_)
+_expression_.**Fv** (_Arg1_, _Arg2_, _Arg3_, _Arg4_, _Arg5_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -38,28 +36,25 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-For a more complete description of the arguments in FV and for more information on annuity functions, see PV.
+For a more complete description of the arguments in **Fv** and for more information about annuity functions, see **[Pv](excel.worksheetfunction.pv.md)**.
 
-
-
-|**Set type equal to**|**If payments are due**|
+|Set type equal to|If payments are due|
 |:-----|:-----|
 |0|At the end of the period|
 |1|At the beginning of the period|
 
-- Make sure that you are consistent about the units you use for specifying rate and nper. If you make monthly payments on a four-year loan at 12 percent annual interest, use 12%/12 for rate and 4*12 for nper. If you make annual payments on the same loan, use 12% for rate and 4 for nper.
+Make sure that you are consistent about the units you use for specifying rate and nper. If you make monthly payments on a four-year loan at 12 percent annual interest, use 12%/12 for rate and 4*12 for nper. If you make annual payments on the same loan, use 12% for rate and 4 for nper.
     
-- For all the arguments, cash you pay out, such as deposits to savings, is represented by negative numbers; cash you receive, such as dividend checks, is represented by positive numbers.
+For all the arguments, cash you pay out, such as deposits to savings, is represented by negative numbers; cash you receive, such as dividend checks, is represented by positive numbers.
     
 
-## See also
 
 
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
