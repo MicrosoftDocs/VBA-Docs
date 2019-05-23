@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1 - Arg30_|Required| **Variant**|Inumber1, inumber2,... - 1 to 29 complex numbers to multiply.|
+| _Arg1 - Arg30_|Required| **Variant**|Inumber1, inumber2, ... - 1 to 29 complex numbers to multiply.|
 
 ## Return value
 

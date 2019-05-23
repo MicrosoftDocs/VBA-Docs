@@ -18,7 +18,7 @@ Returns the matrix product of two arrays. The result is an array with the same n
 
 ## Syntax
 
-_expression_. `MMult`(`Arg1`, `Arg2`)
+_expression_. `MMult` (_Arg1_, _Arg2_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

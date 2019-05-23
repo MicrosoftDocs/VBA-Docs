@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1 - Arg30_|Required| **Variant**|Number1, number2,... - 1 to 30 arguments for which you want the total value or sum.|
+| _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 30 arguments for which you want the total value or sum.|
 
 ## Return value
 
