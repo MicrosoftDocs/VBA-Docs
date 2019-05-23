@@ -48,7 +48,7 @@ A combination is any set or subset of items, regardless of their internal order.
     
 The number of combinations is as follows, where number = n and number_chosen = k:
 
-![Formula](../images/awfcmbn1_ZA06051122.gif) where ![Formula](../images/awfcmbn2_ZA06051123.gif)
+> ![Formula](../images/awfcmbn1_ZA06051122.gif) &nbsp; where &nbsp; ![Formula](../images/awfcmbn2_ZA06051123.gif)
 
 
     

@@ -21,7 +21,7 @@ Moves the start position of the specified range.
 
 _expression_. `MoveStart`( `_Unit_` , `_Count_` )
 
-_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Parameters

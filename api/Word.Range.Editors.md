@@ -21,7 +21,7 @@ Returns an  **Editors** object that represents all the users authorized to modif
 
 _expression_. `Editors`
 
-_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Example

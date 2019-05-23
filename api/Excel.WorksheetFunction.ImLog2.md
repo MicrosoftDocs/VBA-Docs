@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ImLog2
 ms.assetid: 7eb55cd5-fec2-c110-981b-81c55b241900
-ms.date: 06/08/2017
+ms.date: 05/23/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Returns the base-2 logarithm of a complex number in x + yi or x + yj text format
 
 ## Syntax
 
-_expression_. `ImLog2` (_Arg1_)
+_expression_.**ImLog2** (_Arg1_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,25 +32,18 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-String
+**String**
 
 
 ## Remarks
 
-
-
-
-- Use COMPLEX to convert real and imaginary coefficients into a complex number.
+Use the **[Complex](excel.worksheetfunction.complex.md)** method to convert real and imaginary coefficients into a complex number.
     
-- The base-2 logarithm of a complex number can be calculated from the natural logarithm as follows:
-![Formula](../images/awfimlg2_ZA06051161.gif)
+The base-2 logarithm of a complex number can be calculated from the natural logarithm as follows:
+
+> ![Formula](../images/awfimlg2_ZA06051161.gif)
 
 
-    
 
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,7 +21,7 @@ Returns the selection type. Read-only  **[WdSelectionType](Word.WdSelectionType.
 
 _expression_.**Type**
 
- _expression_ An expression that returns a '[Selection](Word.Selection.md)' object.
+ _expression_ An expression that returns a **[Selection](Word.Selection.md)** object.
 
 
 ## Example

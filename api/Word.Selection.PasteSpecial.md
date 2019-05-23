@@ -21,7 +21,7 @@ Inserts the contents of the Clipboard.
 
 _expression_.**PasteSpecial** (_IconIndex_, _Link_, _Placement_, _DisplayAsIcon_, _DataType_, _IconFileName_, _IconLabel_)
 
-_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Parameters

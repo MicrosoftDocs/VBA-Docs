@@ -21,7 +21,7 @@ Inserts rows below the current selection.
 
 _expression_. `InsertRowsBelow`
 
-_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks

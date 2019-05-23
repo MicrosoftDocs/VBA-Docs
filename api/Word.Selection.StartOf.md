@@ -21,7 +21,7 @@ Moves or extends the start position of the specified range or selection to the b
 
 _expression_. `StartOf`( `_Unit_` , `_Extend_` )
 
-_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Parameters

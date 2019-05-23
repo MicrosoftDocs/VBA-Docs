@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm137432
 ms.prod: excel
 ms.assetid: 0e42cbdf-b8cd-8d46-1d6f-4fe152558fdb
-ms.date: 06/08/2017
+ms.date: 05/23/2019
 localization_priority: Normal
 ---
 
@@ -24,20 +24,14 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|**String**|Complex number for which you want the hyperbolic cosecant.|
 
 ## Return value
 
- **STRING**
+**String**
 
 
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,7 +21,7 @@ Deletes the character preceding a collapsed selection (an insertion point).
 
 _expression_. `TypeBackspace`
 
-_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks

@@ -41,9 +41,9 @@ If number is nonnumeric, **FactDouble** returns the #VALUE! error value.
     
 If number is negative, **FactDouble** returns the #NUM! error value.
     
-If number is even ![Formula](../images/awffdbl1_ZA06051139.gif)
+If number is even: &nbsp; ![Formula](../images/awffdbl1_ZA06051139.gif)
 
-If number is odd ![Formula](../images/awffdbl2_ZA06051140.gif)
+If number is odd: &nbsp; ![Formula](../images/awffdbl2_ZA06051140.gif)
 
 
 

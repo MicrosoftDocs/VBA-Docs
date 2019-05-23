@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm137464
 ms.prod: excel
 ms.assetid: 5feb6d77-8fcc-4c1e-99e1-3d3addbe4902
-ms.date: 06/08/2017
+ms.date: 05/23/2019
 localization_priority: Normal
 ---
 
@@ -24,20 +24,15 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|**String**|Complex number for which you want the hyperbolic cosine.|
 
 ## Return value
 
- **STRING**
+**String**
 
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

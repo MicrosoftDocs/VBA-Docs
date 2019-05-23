@@ -21,7 +21,7 @@ Returns or sets a  **WdCharacterCase** constant that represents the case of the 
 
 _expression_. `Case`
 
-_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Remarks

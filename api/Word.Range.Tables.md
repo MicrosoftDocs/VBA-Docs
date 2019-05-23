@@ -21,7 +21,7 @@ Returns a  **Tables** collection that represents all the tables in the specified
 
 _expression_. `Tables`
 
-_expression_ A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Remarks

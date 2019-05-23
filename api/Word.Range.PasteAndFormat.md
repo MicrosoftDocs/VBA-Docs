@@ -21,7 +21,7 @@ Pastes the selected table cells and formats them as specified.
 
 _expression_. `PasteAndFormat`( `_Type_` )
 
-_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Parameters

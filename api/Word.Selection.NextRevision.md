@@ -21,7 +21,7 @@ Locates and returns the next tracked change as a  **Revision** object.
 
 _expression_. `NextRevision`( `_Wrap_` )
 
-_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Parameters

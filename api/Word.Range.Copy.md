@@ -21,7 +21,7 @@ Copies the specified range to the Clipboard.
 
 _expression_.**Copy**
 
-_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Example

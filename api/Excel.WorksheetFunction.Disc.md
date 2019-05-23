@@ -61,9 +61,9 @@ If basis < 0 or if basis > 4, **Disc** returns the #NUM! error value.
     
 If settlement ≥ maturity, **Disc** returns the #NUM! error value.
     
-**Disc** is calculated as follows ![Formula](../images/awfdisc_ZA06051134.gif) where B = number of days in a year, depending on the year basis, and DSM = number of days between settlement and maturity. 
+**Disc** is calculated as follows, where B = number of days in a year, depending on the year basis, and DSM = number of days between settlement and maturity: 
     
-
+> ![Formula](../images/awfdisc_ZA06051134.gif)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

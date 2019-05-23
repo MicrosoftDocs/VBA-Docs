@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required| **Variant**|Logical1,logical2,... - 1 to 30 conditions you want to test that can be either TRUE or FALSE.|
+| _Arg1_|Required| **Variant**|Logical1, logical2,... - 1 to 30 conditions you want to test that can be either TRUE or FALSE.|
 
 ## Return value
 

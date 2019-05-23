@@ -21,7 +21,7 @@ Inserts a new page at the position of the Insertion Point.
 
 _expression_. `InsertNewPage`
 
- _expression_ An expression that returns a '[Selection](Word.Selection.md)' object.
+ _expression_ An expression that returns a **[Selection](Word.Selection.md)** object.
 
 
 ## See also

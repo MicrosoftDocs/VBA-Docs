@@ -5,14 +5,14 @@ f1_keywords:
 - vbaxl10.chm137448
 ms.prod: excel
 ms.assetid: 8b66ad0f-36a2-a01e-a0fa-926a6b5a4454
-ms.date: 06/08/2017
+ms.date: 05/23/2019
 localization_priority: Normal
 ---
 
 
 # WorksheetFunction.Gamma method (Excel)
 
-Returns the Gamma function value.
+Returns the gamma function value.
 
 
 ## Syntax
@@ -24,20 +24,15 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required|DOUBLE|The value for which you want to calculate Gamma.|
+| _Arg1_|Required|**Double**|The value for which you want to calculate gamma.|
 
 ## Return value
 
- **DOUBLE**
+**Double**
 
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

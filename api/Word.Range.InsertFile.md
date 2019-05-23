@@ -21,7 +21,7 @@ Inserts all or part of the specified file.
 
 _expression_. `InsertFile`( `_FileName_` , `_Range_` , `_ConfirmConversions_` , `_Link_` , `_Attachment_` )
 
-_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Parameters

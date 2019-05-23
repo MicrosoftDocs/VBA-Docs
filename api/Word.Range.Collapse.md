@@ -21,7 +21,7 @@ Collapses a range or selection to the starting or ending position. After a range
 
 _expression_. `Collapse`( `_Direction_` )
 
-_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Parameters

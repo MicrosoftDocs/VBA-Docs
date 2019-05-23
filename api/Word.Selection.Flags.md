@@ -21,7 +21,7 @@ Returns or sets properties of the selection. Read/write  **WdSelectionFlags**.
 
 _expression_. `Flags`
 
-_expression_ Required. An expression that returns a '[Selection](Word.Selection.md)' object.
+_expression_ Required. An expression that returns a **[Selection](Word.Selection.md)** object.
 
 
 ## Example

@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `CombineCharacters`
 
- _expression_ An expression that returns a '[Range](Word.Range.md)' object.
+ _expression_ An expression that returns a **[Range](Word.Range.md)** object.
 
 
 ## Example

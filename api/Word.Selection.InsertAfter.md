@@ -21,7 +21,7 @@ Inserts the specified text at the end of a range or selection.
 
 _expression_. `InsertAfter`( `_Text_` )
 
-_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Parameters

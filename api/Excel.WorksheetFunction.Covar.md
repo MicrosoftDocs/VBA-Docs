@@ -52,8 +52,9 @@ If _Arg1_ and _Arg2_ have different numbers of data points, **Covar** generates 
     
 If either _Arg1_ or _Arg2_ is empty, **Covar** generates an error.
     
-The covariance is ![Formula](../images/awfcovar_ZA06051128.gif) where x and y are the sample means AVERAGE(array1) and AVERAGE(array2), and n is the sample size. 
+The covariance is as follows, where x and y are the sample means AVERAGE(array1) and AVERAGE(array2), and n is the sample size: 
     
+> ![Formula](../images/awfcovar_ZA06051128.gif)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

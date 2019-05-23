@@ -41,7 +41,9 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 Because the equal sign is used to indicate a formula when you type text or a value in a cell, Microsoft Excel evaluates what you type; however, this may cause unexpected filter results. To indicate an equality comparison operator for either text or a value, type the criteria as a string expression in the appropriate cell in the criteria range: 
 
-> ="=_entry_", where _entry_ is the text or value that you want to find. For example:
+> ="=_entry_", where _entry_ is the text or value that you want to find. 
+
+For example:
     
 |What you type in the cell|What Excel evaluates and displays|
 |:-----|:-----|

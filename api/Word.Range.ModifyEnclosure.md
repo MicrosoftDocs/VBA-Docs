@@ -21,7 +21,7 @@ Adds, modifies, or removes an enclosure around the specified character or charac
 
 _expression_. `ModifyEnclosure`( `_Style_` , `_Symbol_` , `_EnclosedText_` )
 
-_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Parameters

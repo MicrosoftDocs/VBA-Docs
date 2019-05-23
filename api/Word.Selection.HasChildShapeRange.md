@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `HasChildShapeRange`
 
- _expression_ An expression that returns a '[Selection](Word.Selection.md)' object.
+ _expression_ An expression that returns a **[Selection](Word.Selection.md)** object.
 
 
 ## Example

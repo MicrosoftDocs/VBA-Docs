@@ -40,7 +40,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Remarks
 
-The following table contains the list of values for  _Arg4_.
+The following table contains the list of values for _Arg4_.
 
 |Basis|Day count basis|
 |:-----|:-----|

@@ -21,7 +21,7 @@ Pastes a cell or group of cells as a nested table into the selection.
 
 _expression_. `PasteAsNestedTable`
 
-_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `GrammarChecked`
 
-_expression_ A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Attempts to match the text in the specified range or the text surrounding the ra
 
 _expression_. `InsertAutoText`
 
-_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Remarks

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Gcd
 ms.assetid: 243cc3ae-d35d-66a1-2db5-d5542dec548e
-ms.date: 06/08/2017
+ms.date: 05/23/2019
 localization_priority: Normal
 ---
 
@@ -28,30 +28,24 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 29 values. If any value is not an integer, it is truncated.|
+| _Arg1 - Arg30_|Required| **Variant**|Number1, number2,... - 1 to 29 values. If any value is not an integer, it is truncated.|
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- If any argument is nonnumeric, GCD returns the #VALUE! error value.
+If any argument is nonnumeric, **Gcd** returns the #VALUE! error value.
     
-- If any argument is less than zero, GCD returns the #NUM! error value.
+If any argument is less than zero, **Gcd** returns the #NUM! error value.
     
-- One divides any value evenly.
+One divides any value evenly.
     
-- A prime number has only itself and one as even divisors.
+A prime number has only itself and one as even divisors.
     
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

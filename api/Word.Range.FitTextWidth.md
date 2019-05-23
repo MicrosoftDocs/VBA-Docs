@@ -21,7 +21,7 @@ Returns or sets the width (in the current measurement units) in which Microsoft 
 
 _expression_. `FitTextWidth`
 
-_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Example

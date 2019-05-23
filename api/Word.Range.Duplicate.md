@@ -21,7 +21,7 @@ Returns a read-only  **Range** object that represents all the properties of the 
 
 _expression_.**Duplicate**
 
-_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Remarks
