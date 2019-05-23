@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # WorksheetFunction.ImSec method (Excel)
 
-Returns the hyperbolic cosecant of a complex number.
+Returns the secant of a complex number.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required|**String**|Complex number for which you want the hyperbolic cosecant.|
+| _Arg1_|Required|**String**|Complex number for which you want the secant.|
 
 ## Return value
 

@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm137428
 ms.prod: excel
 ms.assetid: 7cca57cb-9a80-e315-365e-699b1b87ecb6
-ms.date: 06/08/2017
+ms.date: 05/23/2019
 localization_priority: Normal
 ---
 
@@ -24,20 +24,15 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required|DOUBLE|Angle in radians for which you want the hyperbolic secant.|
+| _Arg1_|Required|**Double**|Angle in radians for which you want the hyperbolic secant.|
 
 ## Return value
 
- **DOUBLE**
+**Double**
 
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

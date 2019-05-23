@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # WorksheetFunction.ImSech method (Excel)
 
-Returns the secant of a complex number.
+Returns the hyperbolic secant of a complex number.
 
 
 ## Syntax
