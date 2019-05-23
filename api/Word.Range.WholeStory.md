@@ -21,7 +21,7 @@ Expands a range to include the entire story.
 
 _expression_. `WholeStory`
 
-_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Remarks

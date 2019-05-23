@@ -21,7 +21,7 @@ Returns a  **PageSetup** object that's associated with the specified range.
 
 _expression_.**PageSetup**
 
-_expression_ A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## See also

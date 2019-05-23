@@ -21,7 +21,7 @@ Returns a  **Sentences** collection that represents all the sentences in the ran
 
 _expression_. `Sentences`
 
-_expression_ A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Remarks

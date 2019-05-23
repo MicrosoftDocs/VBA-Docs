@@ -21,7 +21,7 @@ Merges pasted cells into an existing table by inserting the pasted rows between 
 
 _expression_. `PasteAppendTable`
 
-_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Example

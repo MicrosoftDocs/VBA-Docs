@@ -21,7 +21,7 @@ Returns or sets the orientation of text in a range when the Text Direction featu
 
 _expression_.**Orientation**
 
-_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Remarks

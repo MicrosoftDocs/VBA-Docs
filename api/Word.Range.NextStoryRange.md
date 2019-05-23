@@ -21,7 +21,7 @@ Returns a  **Range** object that refers to the next story. Read-only **Range**.
 
 _expression_. `NextStoryRange`
 
-_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns a  **[CoAuthLocks](Word.CoAuthLocks.md)** collection object that represe
 
 _expression_. `Locks`
 
- _expression_ An expression that returns a '[Range](Word.Range.md)' object.
+ _expression_ An expression that returns a **[Range](Word.Range.md)** object.
 
 
 ## Remarks

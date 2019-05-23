@@ -21,7 +21,7 @@ Returns a  **Scripts** collection that represents the collection of HTML scripts
 
 _expression_. `Scripts`
 
-_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Example

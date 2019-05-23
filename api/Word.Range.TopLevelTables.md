@@ -21,7 +21,7 @@ Returns a  **Tables** collection that represents the tables at the outermost nes
 
 _expression_. `TopLevelTables`
 
-_expression_ A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns a  **Long** that represents a statistic based on the contents of the spe
 
 _expression_. `ComputeStatistics`( `_Statistic_` )
 
-_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Parameters

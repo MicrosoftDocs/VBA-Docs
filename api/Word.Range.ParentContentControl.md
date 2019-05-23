@@ -21,7 +21,7 @@ Returns a  **ContentControl** object that represents the parent content control 
 
 _expression_. `ParentContentControl`
 
- _expression_ An expression that returns a '[Range](Word.Range.md)' object.
+ _expression_ An expression that returns a **[Range](Word.Range.md)** object.
 
 
 ## Remarks

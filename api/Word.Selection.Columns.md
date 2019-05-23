@@ -21,7 +21,7 @@ Returns a  **Columns** collection that represents all the table columns in a sel
 
 _expression_.**Columns**
 
- _expression_ An expression that returns a '[Selection](Word.Selection.md)' object.
+ _expression_ An expression that returns a **[Selection](Word.Selection.md)** object.
 
 
 ## Example

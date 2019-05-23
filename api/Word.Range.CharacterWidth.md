@@ -21,7 +21,7 @@ Returns or sets the character width of the specified range. Read/write  **WdChar
 
 _expression_. `CharacterWidth`
 
-_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Example

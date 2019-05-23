@@ -21,7 +21,7 @@ Moves the selection to the next subdocument.
 
 _expression_. `NextSubdocument`
 
-_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns a  **[Cells](Word.cells.md)** collection that represents the table cells
 
 _expression_.**Cells**
 
-_expression_ A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Remarks

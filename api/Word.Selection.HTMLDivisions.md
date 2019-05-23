@@ -21,7 +21,7 @@ Returns an  **[HTMLDivisions](Word.HTMLDivisions.md)** object that represents an
 
 _expression_. `HTMLDivisions`
 
-_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Expands a selection to include the entire story.
 
 _expression_. `WholeStory`
 
-_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns a  **Revisions** collection that represents the tracked changes in the r
 
 _expression_. `Revisions`
 
-_expression_ A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Remarks

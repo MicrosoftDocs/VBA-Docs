@@ -21,7 +21,7 @@ Returns a [CoAuthUpdates](overview/Word.md) collection object that represents al
 
 _expression_. `Updates`
 
- _expression_ An expression that returns a '[Range](Word.Range.md)' object.
+ _expression_ An expression that returns a **[Range](Word.Range.md)** object.
 
 
 ## Remarks

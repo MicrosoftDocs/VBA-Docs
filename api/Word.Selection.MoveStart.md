@@ -21,7 +21,7 @@ Moves the start position of the specified selection.
 
 _expression_. `MoveStart`( `_Unit_` , `_Count_` )
 
-_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Parameters

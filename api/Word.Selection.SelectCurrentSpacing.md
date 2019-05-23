@@ -21,7 +21,7 @@ Extends the selection forward until a paragraph with different line spacing is e
 
 _expression_. `SelectCurrentSpacing`
 
-_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Example

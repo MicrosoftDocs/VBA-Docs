@@ -21,7 +21,7 @@ Looks up a name in the global address book list and displays the  **Properties**
 
 _expression_. `LookupNameProperties`
 
-_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Remarks

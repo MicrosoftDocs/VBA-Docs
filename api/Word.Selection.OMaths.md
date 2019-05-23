@@ -21,7 +21,7 @@ Returns an  **[OMaths](Word.OMaths.md)** collection that represents the **[OMath
 
 _expression_. `OMaths`
 
- _expression_ An expression that returns a '[Selection](Word.Selection.md)' object.
+ _expression_ An expression that returns a **[Selection](Word.Selection.md)** object.
 
 
 ## See also
