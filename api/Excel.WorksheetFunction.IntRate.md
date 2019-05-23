@@ -36,12 +36,12 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
+The following table describes the values that can be used for _Arg5_.
 
 |Basis|Day count basis|
 |:-----|:-----|
@@ -51,28 +51,28 @@ Double
 |3|Actual/365|
 |4|European 30/360|
 
-- Microsoft Excel stores dates as sequential serial numbers so they can be used in calculations. By default, January 1, 1900 is serial number 1, and January 1, 2008 is serial number 39448 because it is 39,448 days after January 1, 1900. Microsoft Excel for the Macintosh uses a different date system as its default.
+Microsoft Excel stores dates as sequential serial numbers so they can be used in calculations. By default, January 1, 1900 is serial number 1, and January 1, 2008 is serial number 39448 because it is 39,448 days after January 1, 1900. Microsoft Excel for the Macintosh uses a different date system as its default.
     
-     **Note**  Visual Basic for Applications (VBA) calculates serial dates differently than Excel. In VBA, serial number 1 is December 31, 1899, rather than January 1, 1900. 
-- The settlement date is the date a buyer purchases a coupon, such as a bond. The maturity date is the date when a coupon expires. For example, suppose a 30-year bond is issued on January 1, 2008, and is purchased by a buyer six months later. The issue date would be January 1, 2008, the settlement date would be July 1, 2008, and the maturity date would be January 1, 2038, which is 30 years after the January 1, 2008, issue date.
+> [!NOTE] 
+> Visual Basic for Applications (VBA) calculates serial dates differently than Excel. In VBA, serial number 1 is December 31, 1899, rather than January 1, 1900. 
+
+The settlement date is the date a buyer purchases a coupon, such as a bond. The maturity date is the date when a coupon expires. For example, suppose a 30-year bond is issued on January 1, 2008, and is purchased by a buyer six months later. The issue date would be January 1, 2008, the settlement date would be July 1, 2008, and the maturity date would be January 1, 2038, which is 30 years after the January 1, 2008, issue date.
     
-- Settlement, maturity, and basis are truncated to integers.
+Settlement, maturity, and basis are truncated to integers.
     
-- If settlement or maturity is not a valid date, INTRATE returns the #VALUE! error value.
+If settlement or maturity is not a valid date, **IntRate** returns the #VALUE! error value.
     
-- If investment ? 0 or if redemption ? 0, INTRATE returns the #NUM! error value.
+If investment ≤ 0 or if redemption ≤ 0, **IntRate** returns the #NUM! error value.
     
-- If basis < 0 or if basis > 4, INTRATE returns the #NUM! error value.
+If basis < 0 or if basis > 4, **IntRate** returns the #NUM! error value.
     
-- If settlement ? maturity, INTRATE returns the #NUM! error value.
+If settlement ≥ maturity, **IntRate** returns the #NUM! error value.
     
-- INTRATE is calculated as follows:
-![Formula](../images/awfintrt_ZA06051176.gif)where: B = number of days in a year, depending on the year basis. DIM = number of days from settlement to maturity. 
+**IntRate** is calculated as follows, where B = number of days in a year, depending on the year basis, and DIM = number of days from settlement to maturity:
+
+> ![Formula](../images/awfintrt_ZA06051176.gif)
     
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
