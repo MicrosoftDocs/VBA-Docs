@@ -7,19 +7,19 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Match
 ms.assetid: 901cdd78-e8fc-f149-66ff-5887f7099c96
-ms.date: 12/05/2018
+ms.date: 05/24/2019
 localization_priority: Normal
 ---
 
 
 # WorksheetFunction.Match method (Excel)
 
-Returns the relative position of an item in an array that matches a specified value in a specified order. Use MATCH instead of one of the LOOKUP functions when you need the position of an item in a range instead of the item itself.
+Returns the relative position of an item in an array that matches a specified value in a specified order. Use **Match** instead of one of the **Lookup** functions when you need the position of an item in a range instead of the item itself.
 
 
 ## Syntax
 
-_expression_.**Match**( _Arg1_, _Arg2_, _Arg3_ )
+_expression_.**Match** (_Arg1_, _Arg2_, _Arg3_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
@@ -28,41 +28,39 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required| **Variant**|Lookup_value: the value you use to find the value you want in a table.|
+| _Arg1_|Required| **Variant**|Lookup_value: the value that you use to find the value that you want in a table.|
 | _Arg2_|Required| **Variant**|Lookup_array: a contiguous range of cells containing possible lookup values. Lookup_array must be an array or an array reference.|
 | _Arg3_|Optional| **Variant**|Match_type: the number -1, 0, or 1. Match_type specifies how Microsoft Excel matches lookup_value with values in lookup_array.|
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-- Lookup_value is the value you want to match in lookup_array. For example, when you look up a number in a telephone book, you are using the person's name as the lookup value, but the telephone number is the value you want. 
+Lookup_value is the value that you want to match in lookup_array. For example, when you look up a number in a telephone book, you are using the person's name as the lookup value, but the telephone number is the value that you want. 
     
-- Lookup_value can be a value (number, text, or logical value) or a cell reference to a number, text, or logical value. 
+Lookup_value can be a value (number, text, or logical value) or a cell reference to a number, text, or logical value. 
     
-- If match_type is 1, MATCH finds the largest value that is less than or equal to lookup_value. Lookup_array must be placed in ascending order: ...-2, -1, 0, 1, 2, ..., A-Z, FALSE, TRUE. 
+If match_type is 1, **Match** finds the largest value that is less than or equal to lookup_value. Lookup_array must be placed in ascending order: ...-2, -1, 0, 1, 2, ..., A-Z, FALSE, TRUE. 
     
-- If match_type is 0, MATCH finds the first value that is exactly equal to lookup_value. Lookup_array can be in any order. Note that MATCH is case-insensitive.
+If match_type is 0, **Match** finds the first value that is exactly equal to lookup_value. Lookup_array can be in any order. Note that **Match** is case-insensitive.
     
-- If match_type is -1, MATCH finds the smallest value that is greater than or equal to lookup_value. Lookup_array must be placed in descending order: TRUE, FALSE, Z-A, ...2, 1, 0, -1, -2, ..., and so on.
+If match_type is -1, **Match** finds the smallest value that is greater than or equal to lookup_value. Lookup_array must be placed in descending order: TRUE, FALSE, Z-A, ...2, 1, 0, -1, -2, ..., and so on.
     
-- If match_type is omitted, it is assumed to be 1. 
+If match_type is omitted, it is assumed to be 1. 
     
-- MATCH returns the position of the matched value within lookup_array, not the value itself. For example, MATCH("b",{"a","b","c"},0) returns 2, the relative position of "b" within the array {"a","b","c"}.
+**Match** returns the position of the matched value within lookup_array, not the value itself. For example, `MATCH("b",{"a","b","c"},0)` returns 2, the relative position of "b" within the array `{"a","b","c"}`.
     
-- MATCH does not distinguish between uppercase and lowercase letters when matching text values.
+**Match** does not distinguish between uppercase and lowercase letters when matching text values.
     
-- If MATCH is unsuccessful in finding a match, it returns the #N/A error value.
+If **Match** is unsuccessful in finding a match, it returns the #N/A error value.
     
-- If match_type is 0 and lookup_value is text, you can use the wildcard characters, question mark (?) and asterisk (\*), in lookup_value. A question mark matches any single character; an asterisk matches any sequence of characters. If you want to find an actual question mark or asterisk, type a tilde (~) before the character.
+If match_type is 0 and lookup_value is text, you can use the wildcard characters, question mark (?) and asterisk (\*), in lookup_value. A question mark matches any single character; an asterisk matches any sequence of characters. If you want to find an actual question mark or asterisk, type a tilde (~) before the character.
     
 
 ## Example
-
-**Sample code provided by** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
 For each value in the first column of the first worksheet, this example searches through the entire workbook for a matching value. If the macro finds a matching value, it sets the original value on the first worksheet to be bold.
 
@@ -108,8 +106,5 @@ End Sub
 ```
 
 
-### About the contributor
-
-Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

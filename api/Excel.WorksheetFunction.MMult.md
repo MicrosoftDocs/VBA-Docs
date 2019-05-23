@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.MMult
 ms.assetid: 8f410152-5682-2d71-007a-5fba5f884860
-ms.date: 06/08/2017
+ms.date: 05/24/2019
 localization_priority: Normal
 ---
 
@@ -18,7 +18,7 @@ Returns the matrix product of two arrays. The result is an array with the same n
 
 ## Syntax
 
-_expression_. `MMult` (_Arg1_, _Arg2_)
+_expression_.**MMult** (_Arg1_, _Arg2_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
@@ -31,31 +31,30 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Variant
+**Variant**
 
 
 ## Remarks
 
-- The number of columns in array1 must be the same as the number of rows in array2, and both arrays must contain only numbers. 
+The number of columns in array1 must be the same as the number of rows in array2, and both arrays must contain only numbers. 
     
-- Array1 and array2 can be given as cell ranges, array constants, or references.
+Array1 and array2 can be given as cell ranges, array constants, or references.
     
-- MMULT returns the #VALUE! error when:
+**MMult** returns the #VALUE! error when:
     
-  - Any cells are empty or contain text.
+- Any cells are empty or contain text.
     
-  - The number of columns in array1 is different from the number of rows in array2.
+- The number of columns in array1 is different from the number of rows in array2.
     
-  - The size of the resulting array is equal to or greater than a total of 5,461 cells.
+- The size of the resulting array is equal to or greater than a total of 5,461 cells.
     
-- The matrix product array a of two arrays b and c is:
-![Formula](../images/awfmmult_ZA06051209.gif)where i is the row number, and j is the column number. 
+The matrix product array _a_ of two arrays _b_ and _c_ is as follows, where _i_ is the row number, and _j_ is the column number:
+
+> ![Formula](../images/awfmmult_ZA06051209.gif)
     
-- Formulas that return arrays must be entered as array formulas.
+Formulas that return arrays must be entered as array formulas.
     
 
-## See also
 
-- [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

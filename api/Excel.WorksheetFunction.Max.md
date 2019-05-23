@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Max
 ms.assetid: f0b2df1d-3b0e-2387-fa91-f8bf8cb6c4da
-ms.date: 06/08/2017
+ms.date: 05/24/2019
 localization_priority: Normal
 ---
 
@@ -32,30 +32,24 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- Arguments can either be numbers or names, arrays, or references that contain numbers.
+Arguments can either be numbers or names, arrays, or references that contain numbers.
     
-- Logical values and text representations of numbers that you type directly into the list of arguments are counted. 
+Logical values and text representations of numbers that you type directly into the list of arguments are counted. 
     
-- If an argument is an array or reference, only numbers in that array or reference are used. Empty cells, logical values, or text in the array or reference are ignored.
+If an argument is an array or reference, only numbers in that array or reference are used. Empty cells, logical values, or text in the array or reference are ignored.
     
-- If the arguments contain no numbers, MAX returns 0 (zero).
+If the arguments contain no numbers, **Max** returns 0 (zero).
     
-- Arguments that are error values or text that cannot be translated into numbers cause errors. 
+Arguments that are error values or text that cannot be translated into numbers cause errors. 
     
-- If you want to include logical values and text representations of numbers in a reference as part of the calculation, use the MAXA function.
+If you want to include logical values and text representations of numbers in a reference as part of the calculation, use the MAXA function.
     
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

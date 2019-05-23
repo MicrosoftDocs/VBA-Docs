@@ -41,7 +41,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 If any argument is nonnumeric, **LogNorm_Inv** returns the #VALUE! error value.
     
-If probability ≤ 0 or probability >= 1, **LogNorm_Inv** returns the #NUM! error value.
+If probability ≤ 0 or probability ≥ 1, **LogNorm_Inv** returns the #NUM! error value.
     
 If standard_dev ≤ 0, **LogNorm_Inv** returns the #NUM! error value.
     
