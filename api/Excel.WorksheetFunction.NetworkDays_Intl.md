@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.NetworkDays_Intl
 ms.assetid: 04f1b585-396c-f981-9491-70d1b7948e6e
-ms.date: 06/08/2017
+ms.date: 05/24/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns the number of whole workdays between two dates using parameters to indic
 
 ## Syntax
 
-_expression_. `NetworkDays_Intl` (_Arg1_, _Arg2_, _Arg3_, _Arg4_)
+_expression_.**NetworkDays_Intl** (_Arg1_, _Arg2_, _Arg3_, _Arg4_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
@@ -35,26 +35,20 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- If start_date is later than end_date, the return value will be negative, and the magnitude will be the number of whole workdays.
+If start_date is later than end_date, the return value will be negative, and the magnitude will be the number of whole workdays.
     
--  If start_date is out of range for the current date base value, NETWORKDAYS_INTL returns the #NUM! error value.
+If start_date is out of range for the current date base value, **NetworkDays_Intl** returns the #NUM! error value.
     
-- If end_date is out of range for the current date base value, NETWORKDAYS_INTL returns the #NUM! error value.
+If end_date is out of range for the current date base value, **NetworkDays_Intl** returns the #NUM! error value.
     
-- If a weekend string is of invalid length or contains invalid characters, NETWORKDAYS_INTL returns the #VALUE! error value.
+If a weekend string is of invalid length or contains invalid characters, **NetworkDays_Intl** returns the #VALUE! error value.
     
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

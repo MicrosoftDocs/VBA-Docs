@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Oct2Bin
 ms.assetid: a11c26e2-1320-f76f-547e-fa9e0ac20087
-ms.date: 06/08/2017
+ms.date: 05/24/2019
 localization_priority: Normal
 ---
 

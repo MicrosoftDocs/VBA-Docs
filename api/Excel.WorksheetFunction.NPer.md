@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.NPer
 ms.assetid: ea610791-bed5-d2d3-6405-6372f46e28d8
-ms.date: 06/08/2017
+ms.date: 05/24/2019
 localization_priority: Normal
 ---
 
@@ -19,42 +19,35 @@ Returns the number of periods for an investment based on periodic, constant paym
 
 ## Syntax
 
-_expression_. `NPer`(_Arg1_, _Arg2_, _Arg3_, _Arg4_, _Arg5_)
+_expression_.**NPer** (_Arg1_, _Arg2_, _Arg3_, _Arg4_, _Arg5_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Rate - the interest rate per period.|
 | _Arg2_|Required| **Double**|Pmt - the payment made each period; it cannot change over the life of the annuity. Typically, pmt contains principal and interest but no other fees or taxes.|
 | _Arg3_|Required| **Double**|Pv - the present value, or the lump-sum amount that a series of future payments is worth right now.|
-| _Arg4_|Optional| **Variant**|Fv - the future value, or a cash balance you want to attain after the last payment is made. If fv is omitted, it is assumed to be 0 (the future value of a loan, for example, is 0).|
+| _Arg4_|Optional| **Variant**|Fv - the future value, or a cash balance that you want to attain after the last payment is made. If fv is omitted, it is assumed to be 0 (the future value of a loan, for example, is 0).|
 | _Arg5_|Optional| **Variant**|Type - the number 0 or 1 and indicates when payments are due.|
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
+The following table describes the values that can be used for _Arg5_.
 
-
-
-
-|**Set type equal to**|**If payments are due**|
+|Set type equal to|If payments are due|
 |:-----|:-----|
 |0 or omitted|At the end of the period|
 |1|At the beginning of the period|
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

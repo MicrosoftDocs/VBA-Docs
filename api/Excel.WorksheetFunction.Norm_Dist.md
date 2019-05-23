@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Norm_Dist
 ms.assetid: 68208573-94ef-aab3-42d0-dee396b7504d
-ms.date: 06/08/2017
+ms.date: 05/24/2019
 localization_priority: Normal
 ---
 
@@ -19,49 +19,39 @@ Returns the normal distribution for the specified mean and standard deviation. T
 
 ## Syntax
 
-_expression_. `Norm_Dist` (_Arg1_, _Arg2_, _Arg3_, _Arg4_)
+_expression_.**Norm_Dist** (_Arg1_, _Arg2_, _Arg3_, _Arg4_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - The value for which you want the distribution.|
 | _Arg2_|Required| **Double**|Mean - The arithmetic mean of the distribution.|
 | _Arg3_|Required| **Double**|Standard_dev - The standard deviation of the distribution.|
-| _Arg4_|Required| **Boolean**|Cumulative - A logical value that determines the form of the function. If cumulative is **True**, NORM_DIST returns the cumulative distribution function; if **False**, it returns the probability mass function.|
+| _Arg4_|Required| **Boolean**|Cumulative - A logical value that determines the form of the function. If cumulative is **True**, **Norm_Dist** returns the cumulative distribution function; if **False**, it returns the probability mass function.|
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- If mean or standard_dev is nonnumeric, NORM_DIST returns the #VALUE! error value.
+If mean or standard_dev is nonnumeric, **Norm_Dist** returns the #VALUE! error value.
     
-- If standard_dev ? 0, NORM_DIST returns the #NUM! error value.
+If standard_dev ≤ 0, **Norm_Dist** returns the #NUM! error value.
     
-- If mean = 0, standard_dev = 1, and cumulative = TRUE, NORM_DIST returns the standard normal distribution, NORM_S_DIST.
+If mean = 0, standard_dev = 1, and cumulative = TRUE, **Norm_Dist** returns the standard normal distribution, **[Norm_S_Dist](excel.worksheetfunction.norm_s_dist.md)**.
     
-- The equation for the normal density function (cumulative = FALSE) is:
-![Formula](../images/awfnrmdi_ZA06051213.gif)
+The equation for the normal density function (cumulative = FALSE) is:
+
+> ![Formula](../images/awfnrmdi_ZA06051213.gif)
 
 
+When cumulative = TRUE, the formula is the integral from negative infinity to x of the given formula. 
     
-- When cumulative = TRUE, the formula is the integral from negative infinity to x of the given formula. 
-    
-
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

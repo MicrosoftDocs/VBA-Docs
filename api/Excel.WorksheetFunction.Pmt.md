@@ -45,9 +45,9 @@ Double
 
 For a more complete description of the arguments in PMT, see the PV function.
 
+The following table describes the values that can be used for _Arg5_.
 
-
-|**Set type equal to**|**If payments are due**|
+|Set type equal to|If payments are due|
 |:-----|:-----|
 |0 or omitted|At the end of the period|
 |1|At the beginning of the period|

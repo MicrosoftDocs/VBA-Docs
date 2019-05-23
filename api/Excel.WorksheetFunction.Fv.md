@@ -43,6 +43,8 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 For a more complete description of the arguments in **Fv** and for more information about annuity functions, see **[Pv](excel.worksheetfunction.pv.md)**.
 
+The following table describes the values that can be used for _Arg5_.
+
 |Set type equal to|If payments are due|
 |:-----|:-----|
 |0|At the end of the period|
