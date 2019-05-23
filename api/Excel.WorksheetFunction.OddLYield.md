@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.OddLYield
 ms.assetid: a87c0300-e63f-6e57-4f95-0f1a22622dfa
-ms.date: 06/08/2017
+ms.date: 05/24/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Returns the yield of a security that has an odd (short or long) last period.
 
 ## Syntax
 
-_expression_. `OddLYield`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` , `_Arg7_` , `_Arg8_` )
+_expression_.**OddLYield** (_Arg1_, _Arg2_, _Arg3_, _Arg4_, _Arg5_, _Arg6_, _Arg7_, _Arg8_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -41,7 +39,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
@@ -59,28 +57,35 @@ The following table describes the values that can be used for _Arg8_.
 |3|Actual/365|
 |4|European 30/360|
 
-- Microsoft Excel stores dates as sequential serial numbers so they can be used in calculations. By default, January 1, 1900 is serial number 1, and January 1, 2008 is serial number 39448 because it is 39,448 days after January 1, 1900. Microsoft Excel for the Macintosh uses a different date system as its default.
+Microsoft Excel stores dates as sequential serial numbers so they can be used in calculations. By default, January 1, 1900 is serial number 1, and January 1, 2008 is serial number 39448 because it is 39,448 days after January 1, 1900. Microsoft Excel for the Macintosh uses a different date system as its default.
     
-     **Note**  Visual Basic for Applications (VBA) calculates serial dates differently than Excel. In VBA, serial number 1 is December 31, 1899, rather than January 1, 1900. 
-- The settlement date is the date a buyer purchases a coupon, such as a bond. The maturity date is the date when a coupon expires. For example, suppose a 30-year bond is issued on January 1, 2008, and is purchased by a buyer six months later. The issue date would be January 1, 2008, the settlement date would be July 1, 2008, and the maturity date would be January 1, 2038, which is 30 years after the January 1, 2008, issue date.
+> [!NOTE] 
+> Visual Basic for Applications (VBA) calculates serial dates differently than Excel. In VBA, serial number 1 is December 31, 1899, rather than January 1, 1900. 
+
+The settlement date is the date a buyer purchases a coupon, such as a bond. The maturity date is the date when a coupon expires. For example, suppose a 30-year bond is issued on January 1, 2008, and is purchased by a buyer six months later. The issue date would be January 1, 2008, the settlement date would be July 1, 2008, and the maturity date would be January 1, 2038, which is 30 years after the January 1, 2008, issue date.
     
-- Settlement, maturity, last_interest, and basis are truncated to integers.
+Settlement, maturity, last_interest, and basis are truncated to integers.
     
-- If settlement, maturity, or last_interest is not a valid date, ODDLYIELD returns the #VALUE! error value.
+If settlement, maturity, or last_interest is not a valid date, **OddLYield** returns the #VALUE! error value.
     
-- If rate < 0 or if pr ? 0, ODDLYIELD returns the #NUM! error value.
+If rate < 0 or if pr ≤ 0, **OddLYield** returns the #NUM! error value.
     
-- If basis < 0 or if basis > 4, ODDLYIELD returns the #NUM! error value.
+If basis < 0 or if basis > 4, **OddLYield** returns the #NUM! error value.
     
-- The following date condition must be satisfied; otherwise, ODDLYIELD returns the #NUM! error value: maturity > settlement > last_interest 
+The following date condition must be satisfied; otherwise, **OddLYield** returns the #NUM! error value: maturity > settlement > last_interest. 
     
-- ODDLYIELD is calculated as follows:
-![Formula](../images/awfodyd_ZA06051229.gif)where: Ai = number of accrued days for the ith, or last, quasi-coupon period within odd period counting forward from last interest date before redemption. DCi = number of days counted in the ith, or last, quasi-coupon period as delimited by the length of the actual coupon period. NC = number of quasi-coupon periods that fit in odd period; if this number contains a fraction it will be raised to the next whole number. NLi = normal length in days of the ith, or last, quasi-coupon period within odd coupon period. 
+**OddLYield** is calculated as follows:
+
+> ![Formula](../images/awfodyd_ZA06051229.gif)
+
+where: 
+
+- Ai = number of accrued days for the ith, or last, quasi-coupon period within odd period counting forward from last interest date before redemption. 
+- DCi = number of days counted in the ith, or last, quasi-coupon period as delimited by the length of the actual coupon period. 
+- NC = number of quasi-coupon periods that fit in odd period; if this number contains a fraction, it will be raised to the next whole number. 
+- NLi = normal length in days of the ith, or last, quasi-coupon period within odd coupon period. 
     
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
