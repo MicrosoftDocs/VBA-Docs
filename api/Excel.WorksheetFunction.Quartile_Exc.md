@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Quartile_Exc
 ms.assetid: 2b33be15-7d3c-d8be-aae1-de100de8083c
-ms.date: 06/08/2017
+ms.date: 05/24/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Returns the quartile of the data set, based on percentile values from 0..1, excl
 
 ## Syntax
 
-_expression_. `Quartile_Exc` (_Arg1_, _Arg2_)
+_expression_.**Quartile_Exc** (_Arg1_, _Arg2_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -35,28 +33,18 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- If array is empty, QUARTILE_EXC returns the #NUM! error value.
+If array is empty, **Quartile_Exc** returns the #NUM! error value.
     
-- If quart is not an integer, it is truncated. 
+If quart is not an integer, it is truncated. 
     
-- If quart ? 0 or if quart ? 4, QUARTILE_EXC returns the #NUM! error value.
+If quart ≤ 0 or if quart ≥ 4, **Quartile_Exc** returns the #NUM! error value.
     
-- MIN, MEDIAN, and MAX return the same value as QUARTILE_EXC when quart is equal to 0 (zero), 2, and 4, respectively.
-    
+**Min**, **Median**, and **Max** return the same value as **Quartile_Exc** when quart is equal to 0 (zero), 2, and 4, respectively.
 
-
-
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

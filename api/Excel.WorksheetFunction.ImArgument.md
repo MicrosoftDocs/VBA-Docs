@@ -41,7 +41,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 Use the **[Complex](excel.worksheetfunction.complex.md)** method to convert real and imaginary coefficients into a complex number.
     
-**ImArgument**is calculated as follows:
+**ImArgument** is calculated as follows:
 
 > ![Formula](../images/awfimar2_ZA06051154.gif) &nbsp; where &nbsp; ![Formula](../images/awfimar3_ZA06051155.gif) &nbsp; and z = x + yi
     

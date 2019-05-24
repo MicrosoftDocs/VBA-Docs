@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Permut
 ms.assetid: dbef7a0f-bab9-83c0-9840-bb5948114b5e
-ms.date: 06/08/2017
+ms.date: 05/24/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Returns the number of permutations for a given number of objects that can be sel
 
 ## Syntax
 
-_expression_. `Permut` (_Arg1_, _Arg2_)
+_expression_.**Permut** (_Arg1_, _Arg2_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -35,31 +33,22 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- Both arguments are truncated to integers.
+Both arguments are truncated to integers.
     
-- If number or number_chosen is nonnumeric, PERMUT returns the #VALUE! error value.
+If number or number_chosen is nonnumeric, **Permut** returns the #VALUE! error value.
     
-- If number ? 0 or if number_chosen < 0, PERMUT returns the #NUM! error value.
+If number ≤ 0 or if number_chosen < 0, **Permut** returns the #NUM! error value.
     
-- If number < number_chosen, PERMUT returns the #NUM! error value.
+If number < number_chosen, **Permut** returns the #NUM! error value.
     
-- The equation for the number of permutations is:
-![Formula](../images/awfpermu_ZA06051231.gif)
+The equation for the number of permutations is &nbsp; ![Formula](../images/awfpermu_ZA06051231.gif)
 
 
-    
 
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

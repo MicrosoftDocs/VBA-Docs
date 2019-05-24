@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Proper
 ms.assetid: b90b6fbd-dab0-2ef3-77a8-e39f22b61414
-ms.date: 06/08/2017
+ms.date: 05/24/2019
 localization_priority: Normal
 ---
 
@@ -19,27 +19,21 @@ Capitalizes the first letter in a text string and any other letters in text that
 
 ## Syntax
 
-_expression_. `Proper` (_Arg1_)
+_expression_.**Proper** (_Arg1_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required| **String**|Text - text enclosed in quotation marks, a formula that returns text, or a reference to a cell containing the text you want to partially capitalize.|
+| _Arg1_|Required| **String**|Text - text enclosed in quotation marks, a formula that returns text, or a reference to a cell containing the text that you want to partially capitalize.|
 
 ## Return value
 
-String
+**String**
 
 
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

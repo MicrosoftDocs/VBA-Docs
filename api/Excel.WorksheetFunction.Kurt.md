@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Kurt
 ms.assetid: 46ff116f-9d74-e59c-d238-4a3c6d55677a
-ms.date: 06/08/2017
+ms.date: 05/24/2019
 localization_priority: Normal
 ---
 
@@ -26,39 +26,32 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1 - Arg30_|Required| **Variant**|Number1, number2,... - 1 to 30 arguments for which you want to calculate kurtosis. You can also use a single array or a reference to an array instead of arguments separated by commas.|
+| _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 30 arguments for which you want to calculate kurtosis. You can also use a single array or a reference to an array instead of arguments separated by commas.|
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
+Arguments can either be numbers or names, arrays, or references that contain numbers.
+    
+Logical values and text representations of numbers that you type directly into the list of arguments are counted.
+    
+If an array or reference argument contains text, logical values, or empty cells, those values are ignored; however, cells with the value zero are included.
+    
+Arguments that are error values or text that cannot be translated into numbers cause errors.
+    
+If there are fewer than four data points, or if the standard deviation of the sample equals zero, **Kurt** returns the #DIV/0! error value.
+    
+Kurtosis is defined as follows, where _s_ is the sample standard deviation:
 
-
-
-- Arguments can either be numbers or names, arrays, or references that contain numbers.
-    
-- Logical values and text representations of numbers that you type directly into the list of arguments are counted.
-    
-- If an array or reference argument contains text, logical values, or empty cells, those values are ignored; however, cells with the value zero are included.
-    
-- Arguments that are error values or text that cannot be translated into numbers cause errors.
-    
-- If there are fewer than four data points, or if the standard deviation of the sample equals zero, KURT returns the #DIV/0! error value.
-    
-- Kurtosis is defined as:
-![Formula](../images/awfkurt_ZA06051177.gif)where s is the sample standard deviation.
+> ![Formula](../images/awfkurt_ZA06051177.gif)
     
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.MDeterm
 ms.assetid: 90d7be4e-308a-3641-2371-819b1687df79
-ms.date: 06/08/2017
+ms.date: 05/24/2019
 localization_priority: Normal
 ---
 
@@ -18,7 +18,7 @@ Returns the matrix determinant of an array.
 
 ## Syntax
 
-_expression_. `MDeterm`(`Arg1`)
+_expression_.**MDeterm** (_Arg1_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
@@ -31,30 +31,26 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-- Array can be given as a cell range, for example, A1:C3; as an array constant, such as {1,2,3;4,5,6;7,8,9}; or as a name to either of these. 
+Array can be given as a cell range, for example, A1:C3; as an array constant, such as {1,2,3;4,5,6;7,8,9}; or as a name to either of these. 
     
-- MDTERM returns the #VALUE! error when:
+**MDeterm** returns the #VALUE! error when:
     
-  - Any cells in array are empty or contain text.
+- Any cells in array are empty or contain text.    
+- Array does not have an equal number of rows and columns.   
+- The size of array exceeds 73 columns by 73 rows.
     
-  - Array does not have an equal number of rows and columns.
+The matrix determinant is a number derived from the values in array. For a three-row, three-column array, A1:C3, the determinant is defined as: `MDETERM(A1:C3)` equals `A1*(B2*C3-B3*C2) + A2*(B3*C1-B1*C3) + A3*(B1*C2-B2*C1)`
     
-  - The size of array exceeds 73 columns by 73 rows.
+Matrix determinants are generally used for solving systems of mathematical equations that involve several variables.
     
-- The matrix determinant is a number derived from the values in array. For a three-row, three-column array, A1:C3, the determinant is defined as: `MDETERM(A1:C3)` equals `A1*(B2*C3-B3*C2) + A2*(B3*C1-B1*C3) + A3*(B1*C2-B2*C1)`
-    
-- Matrix determinants are generally used for solving systems of mathematical equations that involve several variables.
-    
-- MDETERM is calculated with an accuracy of approximately 16 digits, which may lead to a small numeric error when the calculation is not complete. For example, the determinant of a singular matrix may differ from zero by 1E-16.
+**MDeterm** is calculated with an accuracy of approximately 16 digits, which may lead to a small numeric error when the calculation is not complete. For example, the determinant of a singular matrix may differ from zero by 1E-16.
     
 
-## See also
 
-- [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

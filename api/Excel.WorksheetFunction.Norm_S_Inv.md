@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Norm_S_Inv
 ms.assetid: 731c1354-2f2e-8fa8-3ced-576dd4d3ce1c
-ms.date: 06/08/2017
+ms.date: 05/24/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Returns the inverse of the standard normal cumulative distribution. The distribu
 
 ## Syntax
 
-_expression_. `Norm_S_Inv` (_Arg1_)
+_expression_.**Norm_S_Inv** (_Arg1_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,22 +32,17 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-- If probability is non-numeric, NORM_S_INV returns the #VALUE! error value.
+If probability is non-numeric, **Norm_S_Inv** returns the #VALUE! error value.
     
-- If probability < 0 or if probability > 1, NORM_S_INV returns the #NUM! error value.
+If probability < 0 or if probability > 1, **Norm_S_Inv** returns the #NUM! error value.
     
-Given a value for probability, NORM_S_INV seeks that value z such that NORM_S_DIST(z) = probability. Thus, precision of NORM_S_INV depends on precision of NORM_S_DIST. NORM_S_INV uses an iterative search technique. If the search has not converged after 100 iterations, the function returns the #N/A error value.
+Given a value for probability, **Norm_S_Inv** seeks that value z such that NORM_S_DIST(z) = probability. Thus, precision of **Norm_S_Inv** depends on precision of **Norm_S_Dist**. **Norm_S_Inv** uses an iterative search technique. If the search has not converged after 100 iterations, the function returns the #N/A error value.
 
 
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
