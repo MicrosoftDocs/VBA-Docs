@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.AfterXmlImport
 ms.assetid: b43adf53-6b67-6127-e69d-6ea05f68b7f6
-ms.date: 06/08/2017
+ms.date: 05/25/2019
 localization_priority: Normal
 ---
 
@@ -34,18 +34,8 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Return value
 
-Nothing
+**Nothing**
 
 
-## Remarks
-
-
-
-
-
-| **xlXmlImportResult** can be one of the following **xlXmlImportResult** constants:|
-| **xlXmlImportElementsTruncated**. The contents of the specified XML data file have been truncated because the XML data file is too large for the worksheet.|
-| **xlXmlImportSuccess**. The XML data file was successfully imported.|
-| **xlXmlImportValidationFailed**. The contents of the XML data file do not match the specified schema map.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

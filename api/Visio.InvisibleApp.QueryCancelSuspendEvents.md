@@ -31,7 +31,7 @@ Private Sub  _expression_ _'QueryCancelSuspendEvents'(**_ByVal app As [IVAPPLICA
 
 ## Return value
 
-nothing
+**Nothing**
 
 
 ## Remarks

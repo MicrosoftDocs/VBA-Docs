@@ -33,7 +33,7 @@ _expression_ A variable that represents an [Application](./Project.Application.m
 
 ## Return value
 
-nothing
+**Nothing**
 
 
 ## Remarks

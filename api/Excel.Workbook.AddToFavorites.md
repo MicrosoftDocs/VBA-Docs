@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.AddToFavorites
 ms.assetid: 14e1cd5a-41be-fc9a-61fa-df87698110e8
-ms.date: 06/08/2017
+ms.date: 05/25/2019
 localization_priority: Normal
 ---
 
@@ -28,15 +28,11 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 This example adds a shortcut to the active workbook to the Favorites folder.
 
-
 ```vb
 ActiveWorkbook.AddToFavorites
 ```
 
 
-## See also
 
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

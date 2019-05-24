@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Return value
 
-nothing
+**Nothing**
 
 
 ## Example

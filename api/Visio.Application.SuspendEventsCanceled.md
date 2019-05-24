@@ -31,7 +31,7 @@ Private Sub  _expression_ _'SuspendEventsCanceled'(**_ByVal app As_**)
 
 ## Return value
 
-nothing
+**Nothing**
 
 
 ## Remarks
