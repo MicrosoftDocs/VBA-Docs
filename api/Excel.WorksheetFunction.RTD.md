@@ -29,9 +29,9 @@ _expression_ An expression that returns a **[WorksheetFunction](Excel.WorksheetF
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _progID_|Required| **Variant**|A string representing the real-time server programmatic identifier.|
-| _server_|Required| **Variant**|A server name, **Null** string or **vbNullString** constant.|
-| _topic1_ &ndash; _topic28_|Required| **Variant**|A **String** representing a topic.|
-
+| _server_|Required| **Variant**|A server name, **Null** string, or **vbNullString** constant.|
+| _topic1_|Required| **Variant**|A **String** representing a topic.|
+| _topic2_ &ndash; _topic28_|Optional| **Variant**|A **String** representing a topic.|
 
 ## Return value
 

@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cset_|Required| **Variant**|One or more characters. This argument is case sensitive.|
+| _Cset_|Required| **Variant**|One or more characters. This argument is case-sensitive.|
 | _Count_|Optional| **Variant**|The maximum number of characters by which the specified selection is to be moved. Can be a number or either  **wdForward** or **wdBackward**. If Count is a positive number, the selection is moved forward in the document. If it is a negative number, the selection is moved backward. The default value is **wdForward**.|
 
 ## Return value

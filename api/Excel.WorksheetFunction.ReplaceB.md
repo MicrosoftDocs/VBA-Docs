@@ -46,7 +46,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
     
 - **ReplaceB** counts each double-byte character as 2 when you have enabled the editing of a language that supports DBCS, and then sets it as the default language. Otherwise, **ReplaceB** counts each character as 1.
     
-The languages that support DBCS include Japanese, Chinese (Simplified), Chinese (Traditional), and Korean. 
+- The languages that support DBCS include Japanese, Chinese (Simplified), Chinese (Traditional), and Korean. 
 
 
 

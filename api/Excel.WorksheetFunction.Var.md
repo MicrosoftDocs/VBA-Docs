@@ -35,7 +35,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 30 number arguments corresponding to a sample of a population.|
+| _Arg1 - Arg30_|Required| **Variant**|Number1, number2... - 1 to 30 number arguments corresponding to a sample of a population.|
 
 ## Return value
 
@@ -51,7 +51,7 @@ Double
     
 - Arguments can either be numbers or names, arrays, or references that contain numbers. 
     
-- Logical values, and text representations of numbers that you type directly into the list of arguments are counted. 
+- Logical values and text representations of numbers that you type directly into the list of arguments are counted. 
     
 - If an argument is an array or reference, only numbers in that array or reference are counted. Empty cells, logical values, text, or error values in the array or reference are ignored. 
     

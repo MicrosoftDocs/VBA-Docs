@@ -38,7 +38,7 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 | _Order3_|Optional| **xlSortOrder**|The sort order for the field or range specified in the _Key3_ argument. Cannot be used when sorting PivotTable reports.|
 | _Header_|Optional| **[XlYesNoGuess](Excel.XlYesNoGuess.md)**|Specifies whether or not the first row contains headers. Cannot be used when sorting PivotTable reports.|
 | _OrderCustom_|Optional| **Variant**|This argument is a one-based integer offset to the list of custom sort orders. If you omit _OrderCustom_, (normal sort order) is used.|
-| _MatchCase_|Optional| **Variant**| **True** to do a case-sensitive sort; **False** to do a sort that's not case sensitive. Cannot be used when sorting PivotTable reports.|
+| _MatchCase_|Optional| **Variant**| **True** to do a case-sensitive sort; **False** to do a sort that's not case-sensitive. Cannot be used when sorting PivotTable reports.|
 | _Orientation_|Optional| **[XlSortOrientation](Excel.XlSortOrientation.md)**|The sort orientation.|
 | _DataOption1_|Optional| **[XlSortDataOption](Excel.XlSortDataOption.md)**|Specifies how to sort text in _Key1_. Cannot be used when sorting PivotTable reports.|
 | _DataOption2_|Optional| **xlSortDataOption**|Specifies how to sort text in _Key2_. Cannot be used when sorting PivotTable reports.|

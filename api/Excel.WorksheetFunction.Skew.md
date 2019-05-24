@@ -7,14 +7,16 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Skew
 ms.assetid: cf10325a-0cb3-4779-d792-af365a830af9
-ms.date: 06/08/2017
+ms.date: 05/25/2019
 localization_priority: Normal
 ---
 
 
 # WorksheetFunction.Skew method (Excel)
 
-Returns the skewness of a distribution. Skewness characterizes the degree of asymmetry of a distribution around its mean. Positive skewness indicates a distribution with an asymmetric tail extending toward more positive values. Negative skewness indicates a distribution with an asymmetric tail extending toward more negative values.
+Returns the skewness of a distribution. Skewness characterizes the degree of asymmetry of a distribution around its mean. 
+
+Positive skewness indicates a distribution with an asymmetric tail extending toward more positive values. Negative skewness indicates a distribution with an asymmetric tail extending toward more negative values.
 
 
 ## Syntax
@@ -26,41 +28,33 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1 - Arg30_|Required| **Variant**|Number1, number2 ... - 1 to 30 arguments for which you want to calculate skewness. You can also use a single array or a reference to an array instead of arguments separated by commas.|
+| _Arg1 - Arg30_|Required| **Variant**|Number1, number2... - 1 to 30 arguments for which you want to calculate skewness. You can also use a single array or a reference to an array instead of arguments separated by commas.|
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
+Arguments can either be numbers or names, arrays, or references that contain numbers.
+    
+Logical values and text representations of numbers that you type directly into the list of arguments are counted.
+    
+If an array or reference argument contains text, logical values, or empty cells, those values are ignored; however, cells with the value zero are included.
+    
+Arguments that are error values or text that cannot be translated into numbers cause errors.
+    
+If there are fewer than three data points, or the sample standard deviation is zero, **Skew** returns the #DIV/0! error value.
+    
+The equation for skewness is defined as:
 
-
-
-- Arguments can either be numbers or names, arrays, or references that contain numbers.
-    
-- Logical values and text representations of numbers that you type directly into the list of arguments are counted.
-    
-- If an array or reference argument contains text, logical values, or empty cells, those values are ignored; however, cells with the value zero are included.
-    
-- Arguments that are error values or text that cannot be translated into numbers cause errors.
-    
-- If there are fewer than three data points, or the sample standard deviation is zero, SKEW returns the #DIV/0! error value.
-    
-- The equation for skewness is defined as:
-![Formula](../images/awfskew_ZA06051241.gif)
+> ![Formula](../images/awfskew_ZA06051241.gif)
 
 
     
 
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

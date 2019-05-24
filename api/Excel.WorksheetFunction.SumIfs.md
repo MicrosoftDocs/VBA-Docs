@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.SumIfs
 ms.assetid: 02ed74ac-0402-35fa-92d3-657de7b435ea
-ms.date: 06/08/2017
+ms.date: 05/25/2019
 localization_priority: Normal
 ---
 
@@ -26,43 +26,34 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Range**|Sum_range - the range to sum.|
-| _Arg2_|Required| **Range**|Criteria_range1, criteria_range2, ? - one or more ranges in which to evaluate the associated criteria.|
-| _Arg3 - Arg30_|Required| **Variant**|Criteria1, criteria2, ? - one or more criteria in the form of a number, expression, cell reference, or text that define which cells will be added. For example, criteria can be expressed as 32, "32", ">32", "apples", or B4.|
+| _Arg2_|Required| **Range**|Criteria_range1, criteria_range2... - One or more ranges in which to evaluate the associated criteria.|
+| _Arg3 - Arg30_|Required| **Variant**|Criteria1, criteria2... - One or more criteria in the form of a number, expression, cell reference, or text that define which cells will be added. For example, criteria can be expressed as 32, "32", ">32", "apples", or B4.|
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- Each cell in sum_range is summed only if all of the corresponding criteria specified are true for that cell.
+Each cell in sum_range is summed only if all the corresponding criteria specified are true for that cell.
     
-- Cells in sum_range that contain TRUE evaluate as 1; cells in sum_range that contain FALSE evaluate as 0 (zero).
+Cells in sum_range that contain TRUE evaluate as 1; cells in sum_range that contain FALSE evaluate as 0 (zero).
     
-- You can use the wildcard characters, question mark (?) and asterisk (*), in criteria. A question mark matches any single character; an asterisk matches any sequence of characters. If you want to find an actual question mark or asterisk, type a tilde (~) before the character.
+You can use the wildcard characters, question mark (?) and asterisk (*), in criteria. A question mark matches any single character; an asterisk matches any sequence of characters. If you want to find an actual question mark or asterisk, type a tilde (~) before the character.
     
-- Each criteria_range does not have to be the same size and shape as sum_range. The actual cells that are added are determined by using the top, left cell in that criteria_range as the beginning cell, and then including cells that correspond in size and shape to sum_range. For example:
+Each criteria_range does not have to be the same size and shape as sum_range. The actual cells that are added are determined by using the top, left cell in that criteria_range as the beginning cell, and then including cells that correspond in size and shape to sum_range. For example:
     
-
-|**If sum_range is**|**And a criteria_range is**|**Then the actual cells evaluated are**|
+|If sum_range is|And criteria_range is|The actual cells evaluated are|
 |:-----|:-----|:-----|
 |A1:A5|B1:B5|B1:B5|
 |A1:A5|B1:B3|B1:B5|
 |A1:B4|C1:D4|C1:D4|
 |A1:B4|C1:C2|C1:D4|
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

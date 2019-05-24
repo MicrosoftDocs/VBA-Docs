@@ -28,8 +28,8 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _PasswordEncryptionProvider_|Optional| **Variant**|A case sensitive string of the encryption provider.|
-| _PasswordEncryptionAlgorithm_|Optional| **Variant**|A case sensitive string of the algorithmic short name (i.e. "RC4").|
+| _PasswordEncryptionProvider_|Optional| **Variant**|A case-sensitive string of the encryption provider.|
+| _PasswordEncryptionAlgorithm_|Optional| **Variant**|A case-sensitive string of the algorithmic short name (i.e. "RC4").|
 | _PasswordEncryptionKeyLength_|Optional| **Variant**|The encryption key length which is a multiple of 8 (40 or greater).|
 | _PasswordEncryptionFileProperties_|Optional| **Variant**| **True** (default) to encrypt file properties.|
 

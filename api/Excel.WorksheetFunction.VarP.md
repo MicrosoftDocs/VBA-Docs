@@ -35,7 +35,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 30 number arguments corresponding to a population.|
+| _Arg1 - Arg30_|Required| **Variant**|Number1, number2... - 1 to 30 number arguments corresponding to a population.|
 
 ## Return value
 
@@ -44,26 +44,20 @@ Double
 
 ## Remarks
 
+VARP assumes that its arguments are the entire population. If your data represents a sample of the population, then compute the variance by using VAR.
+    
+Arguments can either be numbers or names, arrays, or references that contain numbers.
+    
+Logical values and text representations of numbers that you type directly into the list of arguments are counted. 
+    
+If an argument is an array or reference, only numbers in that array or reference are counted. Empty cells, logical values, text, or error values in the array or reference are ignored. 
+    
+Arguments that are error values or text that cannot be translated into numbers cause errors.
+    
+The equation for VARP is as follows, where x is the sample mean AVERAGE(number1,number2,...) and n is the sample size. 
+
+> ![Formula](../images/awfvar_ZA06051258.gif)   
 
 
-
-- VARP assumes that its arguments are the entire population. If your data represents a sample of the population, then compute the variance by using VAR.
-    
-- Arguments can either be numbers or names, arrays, or references that contain numbers.
-    
-- Logical values, and text representations of numbers that you type directly into the list of arguments are counted. 
-    
-- If an argument is an array or reference, only numbers in that array or reference are counted. Empty cells, logical values, text, or error values in the array or reference are ignored. 
-    
-- Arguments that are error values or text that cannot be translated into numbers cause errors.
-    
-- The equation for VARP is:
-![Formula](../images/awfvar_ZA06051258.gif)where x is the sample mean AVERAGE(number1,number2,?) and n is the sample size. 
-    
-
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

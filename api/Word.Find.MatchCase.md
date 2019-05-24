@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Find.MatchCase property (Word)
 
- **True** if the find operation is case sensitive. The default is **False**. Read/write **Boolean**.
+ **True** if the find operation is case-sensitive. The default is **False**. Read/write **Boolean**.
 
 
 ## Syntax

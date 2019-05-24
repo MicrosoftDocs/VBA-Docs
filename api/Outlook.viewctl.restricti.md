@@ -27,7 +27,7 @@ A filter clause is a simple expression that evaluates to  **True** or **False**;
 
 Note that property names can be used in the expression and are identified and delimited by square brackets. Except for these bracketed property names, only literals are allowed within the expression; variables and constants are not evaluated as part of the expression.
 
-Comparison operators allowed within the filter expression include >, <, >=, <=, = and <>. Comparisons are not case sensitive and do not include subject prefixes that are added when a message is replied to or forwarded. 
+Comparison operators allowed within the filter expression include >, <, >=, <=, = and <>. Comparisons are not case-sensitive and do not include subject prefixes that are added when a message is replied to or forwarded. 
 
 Note that "=" is not interpreted as "equals" in  **String** comparisons, but as "contains" instead, so that `[Subject] = 'Outlook'` matches all items that have "Outlook" or "outlook" anywhere in the Subject field. To create a true equality filter, you must use <= and >= together, as in the following example.
 

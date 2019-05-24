@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.SumSq
 ms.assetid: 63e68e24-459a-d8bb-21b2-e9905a3c14ff
-ms.date: 06/08/2017
+ms.date: 05/25/2019
 localization_priority: Normal
 ---
 
@@ -26,34 +26,26 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required| **Variant**|Number1, number2, ... - 1 to 30 arguments for which you want the sum of the squares. You can also use a single array or a reference to an array instead of arguments separated by commas.|
+| _Arg1_|Required| **Variant**|Number1, number2... - 1 to 30 arguments for which you want the sum of the squares. You can also use a single array or a reference to an array instead of arguments separated by commas.|
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- Arguments can either be numbers or names, arrays, or references that contain numbers.
+Arguments can either be numbers or names, arrays, or references that contain numbers.
     
-- Numbers, logical values, and text representations of numbers that you type directly into the list of arguments are counted. 
+Numbers, logical values, and text representations of numbers that you type directly into the list of arguments are counted. 
     
-- If an argument is an array or reference, only numbers in that array or reference are counted. Empty cells, logical values, text, or error values in the array or reference are ignored. 
+If an argument is an array or reference, only numbers in that array or reference are counted. Empty cells, logical values, text, or error values in the array or reference are ignored. 
     
-- Arguments that are error values or text that cannot be translated into numbers cause errors. 
+Arguments that are error values or text that cannot be translated into numbers cause errors. 
     
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

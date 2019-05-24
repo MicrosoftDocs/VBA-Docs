@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Subtotal
 ms.assetid: ec854287-1b12-8195-6b30-9101140d642e
-ms.date: 06/08/2017
+ms.date: 05/25/2019
 localization_priority: Normal
 ---
 
@@ -26,22 +26,15 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|A number indicating the aggregation function to be used by the method.|
-| _Arg2_|Required| **Range**|The first  **[Range](Excel.Range(object).md)** object for which a subtotal is to be calculated.|
-| _Arg3-Arg30_|Optional| **Variant**|Subsequent  **[Range](Excel.Range(object).md)** objects for which a subtotal is to be calculated.|
+| _Arg2_|Required| **[Range](Excel.Range(object).md)**|The first **Range** object for which a subtotal is to be calculated.|
+| _Arg3 - Arg30_|Optional| **Variant**|Subsequent  **Range** objects for which a subtotal is to be calculated.|
 
 ## Return value
 
 A **Double** value that represents the subtotal.
 
-
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
