@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.T_Dist_2T
 ms.assetid: e4927634-d94c-5bcc-7bef-ad35a315bc69
-ms.date: 06/08/2017
+ms.date: 05/25/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Returns the two-tailed Student t-distribution.
 
 ## Syntax
 
-_expression_. `T_Dist_2T` (_Arg1_, _Arg2_)
+_expression_.**T_Dist_2T** (_Arg1_, _Arg2_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -35,26 +33,17 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- If any argument is non-numeric, T_DIST_2T returns the #VALUE! error value.
+If any argument is non-numeric, **T_Dist_2T** returns the #VALUE! error value.
     
-- If deg_freedom < 1, T_DIST_2T returns the #NUM! error value.
+If deg_freedom < 1, **T_Dist_2T** returns the #NUM! error value.
     
-- If x < 0, then T_DIST_2T returns the #NUM! error value.
+If x < 0, **T_Dist_2T** returns the #NUM! error value.
     
 
-
-
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

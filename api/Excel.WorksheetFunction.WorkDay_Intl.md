@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.WorkDay_Intl
 ms.assetid: 0a9091a1-c6d4-06c4-a00d-7477474bddf0
-ms.date: 06/08/2017
+ms.date: 05/25/2019
 localization_priority: Normal
 ---
 

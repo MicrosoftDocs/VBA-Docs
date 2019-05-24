@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.VLookup
 ms.assetid: 1b84b1f5-b557-3a5c-0787-7c19a9800580
-ms.date: 06/08/2017
+ms.date: 05/25/2019
 localization_priority: Normal
 ---
 

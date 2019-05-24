@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.YearFrac
 ms.assetid: 01c2b4c9-5a9b-6fa1-c189-7210a31583d1
-ms.date: 06/08/2017
+ms.date: 05/25/2019
 localization_priority: Normal
 ---
 

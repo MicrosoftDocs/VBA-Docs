@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.USDollar
 ms.assetid: d09c7356-d6c1-0290-5ed8-ed9c3732a21b
-ms.date: 06/08/2017
+ms.date: 05/25/2019
 localization_priority: Normal
 ---
 
