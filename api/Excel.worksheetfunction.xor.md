@@ -17,56 +17,22 @@ Returns a logical exclusive OR of all arguments.
 
 ## Syntax
 
-_expression_. `Xor`_(Arg1,_ _Arg2,_ _Arg3,_ _Arg4,_ _Arg5,_ _Arg6,_ _Arg7,_ _Arg8,_ _Arg9,_ _Arg10,_ _Arg11,_ _Arg12,_ _Arg13,_ _Arg14,_ _Arg15,_ _Arg16,_ _Arg17,_ _Arg18,_ _Arg19,_ _Arg20,_ _Arg21,_ _Arg22,_ _Arg23,_ _Arg24,_ _Arg25,_ _Arg26,_ _Arg27,_ _Arg28,_ _Arg29,_ _Arg30)_
+_expression_.**Xor** (_Arg1_, _Arg2_, _Arg3_, _Arg4_, _Arg5_, _Arg6_, _Arg7_, _Arg8_, _Arg9_, _Arg10_, _Arg11_, _Arg12_, _Arg13_, _Arg14_, _Arg15_, _Arg16_, _Arg17_, _Arg18_, _Arg19_, _Arg20_, _Arg21_, _Arg22_, _Arg23_, _Arg24_, _Arg25_, _Arg26_, _Arg27_, _Arg28_, _Arg29_, _Arg30_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg2_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg3_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg4_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg5_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg6_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg7_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg8_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg9_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg10_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg11_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg12_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg13_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg14_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg15_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg16_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg17_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg18_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg19_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg20_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg21_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg22_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg23_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg24_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg25_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg26_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg27_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg28_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg29_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
-| _Arg30_|Optional|**Variant**|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
+| _Arg1_|Required|**Variant**|1 to 254 conditions that you want to test that can be either **True** or **False**; can be logical values, arrays, or references.|
+| _Arg2_ - _Arg30_|Optional|**Variant**|1 to 254 conditions that you want to test that can be either **True** or **False**; can be logical values, arrays, or references.|
+
 
 ## Return value
 
- **BOOL**
+**Boolean**
 
-
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

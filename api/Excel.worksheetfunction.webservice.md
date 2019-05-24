@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm137466
 ms.prod: excel
 ms.assetid: 7b7be122-2b68-0431-6687-cc5dad897274
-ms.date: 03/26/2019
+ms.date: 05/25/2019
 localization_priority: Normal
 ---
 
@@ -28,14 +28,14 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 |:-----|:-----|:-----|:-----|
 | _Url_|Required|**String**|The URL of the web service to make the HTTP GET request to.|
 
-### Remarks
+## Remarks
 
 The URL parameter is limited to 2048 characters.
 
 
 ## Return value
 
-**VARIANT**
+**Variant**
 
 
 ## See also

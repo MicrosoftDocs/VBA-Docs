@@ -26,20 +26,18 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|Number1, number2... - 1 to 30 number arguments that correspond to a population.|
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-VAR_P assumes that its arguments are the entire population. If your data represents a sample of the population, then compute the variance by using VAR_S.
+**Var_P** assumes that its arguments are the entire population. If your data represents a sample of the population, compute the variance by using **Var_S**.
     
 Arguments can either be numbers or names, arrays, or references that contain numbers.
     
@@ -49,7 +47,7 @@ If an argument is an array or reference, only numbers in that array or reference
     
 Arguments that are error values or text that cannot be translated into numbers cause errors.
     
-The equation for VAR_P is as follows, where x is the sample mean AVERAGE(number1,number2,...) and n is the sample size. 
+The equation for **Var_P** is as follows, where x is the sample mean AVERAGE(number1,number2,...) and n is the sample size: 
     
 > ![Formula](../images/awfvar_ZA06051258.gif)
 

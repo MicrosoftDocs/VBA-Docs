@@ -19,14 +19,12 @@ Returns a number that indicates where the week falls numerically within a year.
 
 ## Syntax
 
-_expression_. `WeekNum` (_Arg1_, _Arg2_)
+_expression_.**WeekNum** (_Arg1_, _Arg2_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -35,30 +33,27 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
+> [!IMPORTANT] 
+> The **WeekNum** function considers the week containing January 1 to be the first week of the year. However, there is a European standard that defines the first week as the one with the majority of days (four or more) falling in the new year. This means that for years in which there are three days or less in the first week of January, the **WeekNum** function returns week numbers that are incorrect according to the European standard.
 
- **Important**   The WEEKNUM function considers the week containing January 1 to be the first week of the year. However, there is a European standard that defines the first week as the one with the majority of days (four or more) falling in the new year. This means that for years in which there are three days or less in the first week of January, the WEEKNUM function returns week numbers that are incorrect according to the European standard.
+The following table represents possible values for _Arg2_.
 
-
-
-|**Return_type**|**Week Begins**|
+|Return_type|Week begins|
 |:-----|:-----|
 |1|Week begins on Sunday. Weekdays are numbered 1 through 7.|
 |2|Week begins on Monday. Weekdays are numbered 1 through 7.|
 
 Microsoft Excel stores dates as sequential serial numbers so they can be used in calculations. By default, January 1, 1900 is serial number 1, and January 1, 2008 is serial number 39448 because it is 39,448 days after January 1, 1900. Microsoft Excel for the Macintosh uses a different date system as its default.
 
-
- **Note**  Visual Basic for Applications (VBA) calculates serial dates differently than Excel. In VBA, serial number 1 is December 31, 1899, rather than January 1, 1900. 
-
-
-## See also
+> [!NOTE] 
+> Visual Basic for Applications (VBA) calculates serial dates differently than Excel. In VBA, serial number 1 is December 31, 1899, rather than January 1, 1900. 
 
 
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
