@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Replace
 ms.assetid: 1cca39db-c4ab-f7d4-dd71-0844d0bb44cd
-ms.date: 06/08/2017
+ms.date: 05/25/2019
 localization_priority: Normal
 ---
 
 
 # WorksheetFunction.Replace method (Excel)
 
-Replaces part of a text string, based on the number of characters you specify, with a different text string.
+Replaces part of a text string, based on the number of characters that you specify, with a different text string.
 
 
 ## Syntax
@@ -29,19 +29,18 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **String**|Text in which you want to replace some characters.|
-| _Arg2_|Required| **Double**|The position of the character in  **Arg1** that you want to replace with **Arg4**.|
-| _Arg3_|Required| **Double**|The number of characters in  **Arg1** that you want the **Replace** method to replace with **Arg4**.|
-| _Arg4_|Required| **String**|Text that will replace characters in  **Arg1**.|
+| _Arg2_|Required| **Double**|The position of the character in _Arg1_ that you want to replace with _Arg4_.|
+| _Arg3_|Required| **Double**|The number of characters in _Arg1_ that you want the **Replace** method to replace with _Arg4_.|
+| _Arg4_|Required| **String**|Text that will replace characters in _Arg1_.|
 
 ## Return value
 
-A String value that represents the new string, after replacement.
+A **String** value that represents the new string, after replacement.
 
 
 ## Example
 
 This example replaces abcdef with ac-ef and notifies the user during this process.
-
 
 ```vb
 Sub UseReplace() 
@@ -66,9 +65,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
