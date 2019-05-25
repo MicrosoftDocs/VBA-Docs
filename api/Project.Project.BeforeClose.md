@@ -31,7 +31,7 @@ _expression_. `BeforeClose`( `_pj_` )
 
 ## Return value
 
-nothing
+**Nothing**
 
 
 ## Remarks

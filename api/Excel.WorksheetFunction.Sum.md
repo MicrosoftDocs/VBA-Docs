@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Sum
 ms.assetid: bbaf28fa-ca79-4b2d-4ace-153ca931a8c4
-ms.date: 06/08/2017
+ms.date: 05/25/2019
 localization_priority: Normal
 ---
 
@@ -26,32 +26,23 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 30 arguments for which you want the total value or sum.|
+| _Arg1 - Arg30_|Required| **Variant**|Number1, number2... - 1 to 30 arguments for which you want the total value or sum.|
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- Numbers, logical values, and text representations of numbers that you type directly into the list of arguments are counted. See the first and second examples following.
+Numbers, logical values, and text representations of numbers that you type directly into the list of arguments are counted. 
     
-- If an argument is an array or reference, only numbers in that array or reference are counted. Empty cells, logical values, or text in the array or reference are ignored. See the third example following.
+If an argument is an array or reference, only numbers in that array or reference are counted. Empty cells, logical values, or text in the array or reference are ignored. 
     
-- Arguments that are error values or text that cannot be translated into numbers cause errors.
+Arguments that are error values or text that cannot be translated into numbers cause errors.
     
 
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

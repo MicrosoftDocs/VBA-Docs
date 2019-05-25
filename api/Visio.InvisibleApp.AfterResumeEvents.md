@@ -31,7 +31,7 @@ Occurs after firing of events is resumed.
 
 ## Return value
 
-nothing
+**Nothing**
 
 
 ## Remarks

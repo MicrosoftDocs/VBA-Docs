@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm137427
 ms.prod: excel
 ms.assetid: f8a1019f-01c0-73fc-5f1d-5962f9f4e703
-ms.date: 06/08/2017
+ms.date: 05/25/2019
 localization_priority: Normal
 ---
 
@@ -24,20 +24,15 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required|DOUBLE|Angle in radians for which you want the secant.|
+| _Arg1_|Required|**Double**|Angle in radians for which you want the secant.|
 
 ## Return value
 
- **DOUBLE**
+**Double**
 
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

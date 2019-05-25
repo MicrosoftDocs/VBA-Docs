@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.SumProduct
 ms.assetid: 26562c80-1575-3019-f98c-9c974a9b863f
-ms.date: 06/08/2017
+ms.date: 05/25/2019
 localization_priority: Normal
 ---
 
@@ -26,30 +26,22 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1 - Arg30_|Required| **Variant**|Array1, array2, array3, ... - 2 to 30 arrays whose components you want to multiply and then add.|
+| _Arg1 - Arg30_|Required| **Variant**|Array1, array2, array3... - 2 to 30 arrays whose components you want to multiply and then add.|
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- The array arguments must have the same dimensions. If they do not, SUMPRODUCT returns the #VALUE! error value.
+The array arguments must have the same dimensions. If they do not, **SumProduct** returns the #VALUE! error value.
     
-- SUMPRODUCT treats array entries that are not numeric as if they were zeros.
+**SumProduct** treats array entries that are not numeric as if they were zeros.
     
 
-## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

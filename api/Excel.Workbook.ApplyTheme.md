@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.ApplyTheme
 ms.assetid: 11580293-22da-9154-20a0-6435b8870ac9
-ms.date: 06/08/2017
+ms.date: 05/25/2019
 localization_priority: Normal
 ---
 
@@ -30,9 +30,7 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|Name of the theme.|
 
-## See also
 
 
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

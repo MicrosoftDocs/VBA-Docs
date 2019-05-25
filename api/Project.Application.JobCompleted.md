@@ -35,6 +35,6 @@ _expression_ A variable that represents an [Application](./Project.Application.m
 
 ## Return value
 
-nothing
+**Nothing**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

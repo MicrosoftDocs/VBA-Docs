@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required| **Variant**|Number1, number2, ... - 1 to 29 values for which you want the least common multiple. If value is not an integer, it is truncated.|
+| _Arg1_|Required| **Variant**|Number1, number2... - 1 to 29 values for which you want the least common multiple. If value is not an integer, it is truncated.|
 
 ## Return value
 

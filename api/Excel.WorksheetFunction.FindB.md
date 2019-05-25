@@ -39,16 +39,15 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Remarks
 
-> [!IMPORTANT] 
-> **Find** is intended for use with languages that use the single-byte character set (SBCS), whereas **FindB** is intended for use with languages that use the double-byte character set (DBCS). The default language setting on your computer affects the return value in the following way:
+**Find** is intended for use with languages that use the single-byte character set (SBCS), whereas **FindB** is intended for use with languages that use the double-byte character set (DBCS). The default language setting on your computer affects the return value in the following way:
 
 - **Find** always counts each character, whether single-byte or double-byte, as 1, no matter what the default language setting is.
     
 - **FindB** counts each double-byte character as 2 when you have enabled the editing of a language that supports DBCS, and then sets it as the default language. Otherwise, **FindB** counts each character as 1.
     
-The languages that support DBCS include Japanese, Chinese (Simplified), Chinese (Traditional), and Korean.
+- The languages that support DBCS include Japanese, Chinese (Simplified), Chinese (Traditional), and Korean.
 
-**Find** and **FindB** are case sensitive and don't allow wildcard characters. If you don't want to do a case sensitive search or use wildcard characters, you can use SEARCH and SEARCHB.
+**Find** and **FindB** are case-sensitive and don't allow wildcard characters. If you don't want to do a case-sensitive search or use wildcard characters, you can use **Search** and **SearchB**.
     
 If find_text is "" (empty text), **Find** matches the first character in the search string (that is, the character numbered start_num or 1).
     
@@ -60,7 +59,9 @@ If start_num is not greater than zero, **Find** and **FindB** return the #VALUE!
     
 If start_num is greater than the length of within_text, **Find** and **FindB** return the #VALUE! error value.
     
-Use start_num to skip a specified number of characters. Using **Find** as an example, suppose you are working with the text string AYF0093.YoungMensApparel. To **Find** the number of the first "Y" in the descriptive part of the text string, set start_num equal to 8 so that the serial-number portion of the text is not searched. **Find** begins with character 8, finds find_text at the next character, and returns the number 9. **Find** always returns the number of characters from the start of within_text, counting the characters that you skip if start_num is greater than 1.
+Use start_num to skip a specified number of characters. Using **Find** as an example, suppose you are working with the text string `AYF0093.YoungMensApparel`. To **Find** the number of the first `"Y"` in the descriptive part of the text string, set start_num equal to 8 so that the serial-number portion of the text is not searched. **Find** begins with character 8, finds find_text at the next character, and returns the number 9. 
+
+**Find** always returns the number of characters from the start of within_text, counting the characters that you skip if start_num is greater than 1.
     
 
 

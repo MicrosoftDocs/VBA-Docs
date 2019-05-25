@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Standardize
 ms.assetid: b268e2f8-e206-37a6-93a1-fdff7b88d4db
-ms.date: 06/08/2017
+ms.date: 05/25/2019
 localization_priority: Normal
 ---
 
@@ -19,42 +19,31 @@ Returns a normalized value from a distribution characterized by mean and standar
 
 ## Syntax
 
-_expression_. `Standardize` (_Arg1_, _Arg2_, _Arg3_)
+_expression_.**Standardize** (_Arg1_, _Arg2_, _Arg3_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required| **Double**|X - the value you want to normalize.|
+| _Arg1_|Required| **Double**|X - the value that you want to normalize.|
 | _Arg2_|Required| **Double**|Mean - the arithmetic mean of the distribution.|
 | _Arg3_|Required| **Double**|Standard_dev - the standard deviation of the distribution.|
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- If standard_dev ? 0, STANDARDIZE returns the #NUM! error value.
+If standard_dev ≤ 0, **Standardize** returns the #NUM! error value.
     
-- The equation for the normalized value is:
-![Formula](../images/awfstand_ZA06051247.gif)
+The equation for the normalized value is &nbsp; ![Formula](../images/awfstand_ZA06051247.gif)
 
 
     
-
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

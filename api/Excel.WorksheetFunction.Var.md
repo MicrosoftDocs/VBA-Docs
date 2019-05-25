@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Var
 ms.assetid: 8e6871ad-ed1e-cc64-3bf1-5470c41cbb96
-ms.date: 06/08/2017
+ms.date: 05/25/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Estimates variance based on a sample.
 > [!IMPORTANT] 
 > This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
 > 
-> For more information about the new function, see the [Var_S](Excel.WorksheetFunction.Var_S.md) method.
+> For more information about the new function, see the **[Var_S](Excel.WorksheetFunction.Var_S.md)** method.
 
 
 ## Syntax
@@ -31,39 +31,30 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 30 number arguments corresponding to a sample of a population.|
+| _Arg1 - Arg30_|Required| **Variant**|Number1, number2... - 1 to 30 number arguments corresponding to a sample of a population.|
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- VAR assumes that its arguments are a sample of the population. If your data represents the entire population, then compute the variance by using VARP.
+**Var** assumes that its arguments are a sample of the population. If your data represents the entire population, compute the variance by using **VarP**.
     
-- Arguments can either be numbers or names, arrays, or references that contain numbers. 
+Arguments can either be numbers or names, arrays, or references that contain numbers. 
     
-- Logical values, and text representations of numbers that you type directly into the list of arguments are counted. 
+Logical values and text representations of numbers that you type directly into the list of arguments are counted. 
     
-- If an argument is an array or reference, only numbers in that array or reference are counted. Empty cells, logical values, text, or error values in the array or reference are ignored. 
+If an argument is an array or reference, only numbers in that array or reference are counted. Empty cells, logical values, text, or error values in the array or reference are ignored. 
     
-- Arguments that are error values or text that cannot be translated into numbers cause errors.
+Arguments that are error values or text that cannot be translated into numbers cause errors.
     
-- VAR uses the following formula:
-![Formula](../images/awfvarp_ZA06051259.gif)where x is the sample mean AVERAGE(number1,number2,?) and n is the sample size. 
+**Var** uses the following formula, where x is the sample mean AVERAGE(number1,number2,...) and n is the sample size: 
     
+> ![Formula](../images/awfvarp_ZA06051259.gif)
 
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Z_Test
 ms.assetid: 86c2af95-965f-f249-7775-65ff5c41785d
-ms.date: 06/08/2017
+ms.date: 05/25/2019
 localization_priority: Normal
 ---
 
 
 # WorksheetFunction.Z_Test method (Excel)
 
-Returns the one-tailed probability-value of a z-test. For a given hypothesized population mean, Z_TEST returns the probability that the sample mean would be greater than the average of observations in the data set (_array_); that is, the observed sample mean.
+Returns the one-tailed probability-value of a z-test. For a given hypothesized population mean, **Z_Test** returns the probability that the sample mean would be greater than the average of observations in the data set (_array_); that is, the observed sample mean.
 
 
 ## Syntax
@@ -34,26 +34,26 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-If _array_ is empty, Z_TEST returns the #N/A error value.
+If _array_ is empty, **Z_Test** returns the #N/A error value.
     
-Z_TEST is calculated as follows when _sigma_ is not omitted:
+**Z_Test** is calculated as follows when _sigma_ is not omitted:
 
-![The Z_TEST calculation when sigma is not omitted](../images/Z_TEST_SIGMA_ZA10391001.jpg)
+> ![The Z_TEST calculation when sigma is not omitted](../images/Z_TEST_SIGMA_ZA10391001.jpg)
 
-Z_TEST is calculated as follows when _sigma_ is omitted: 
+**Z_Test** is calculated as follows when _sigma_ is omitted, where _x_ is the sample mean AVERAGE(_array_); _s_ is the sample standard deviation STDEV_S(_array_); and _n_ is the number of observations in the sample COUNT(_array_): 
 
-![The Z_TEST calculation when sigma is omitted](../images/Z_TEST_ZA10391000.jpg), where _x_ is the sample mean AVERAGE(_array_); _s_ is the sample standard deviation STDEV_S(_array_); and _n_ is the number of observations in the sample COUNT(_array_). 
+> ![The Z_TEST calculation when sigma is omitted](../images/Z_TEST_ZA10391000.jpg)
     
-Z_TEST represents the probability that the sample mean would be greater than the observed value AVERAGE(_array_), when the underlying population mean is μ0 . From the symmetry of the Normal distribution, if AVERAGE(_array_) < μ0 , Z_TEST will return a value greater than 0.5.
+**Z_Test** represents the probability that the sample mean would be greater than the observed value AVERAGE(_array_), when the underlying population mean is μ0. From the symmetry of the Normal distribution, if AVERAGE(_array_) < μ0, **Z_Test** will return a value greater than 0.5.
     
 The following Excel formula can be used to calculate the two-tailed probability that the sample mean would be further from μ0 (in either direction) than AVERAGE(_array_), when the underlying population mean is μ0: 
 
-=2 * MIN(Z_TEST(_array_,μ0,_sigma_), 1 - Z_TEST(_array_,μ0,_sigma_)).
+> `=2 * MIN(Z_TEST(_array_,μ0,_sigma_), 1 - Z_TEST(_array_,μ0,_sigma_))`
     
 
 

@@ -47,7 +47,9 @@ If any argument is nonnumeric, **LogNormDist** returns the #VALUE! error value.
     
 If x ≤ 0 or if standard_dev ≤ 0, **LogNormDist** returns the #NUM! error value.
     
-The equation for the lognormal cumulative distribution function is &nbsp; ![Formula](../images/awflgnmd_ZA06051179.gif)
+The equation for the lognormal cumulative distribution function is:
+
+> ![Formula](../images/awflgnmd_ZA06051179.gif)
 
 
 

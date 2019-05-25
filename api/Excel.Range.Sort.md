@@ -37,7 +37,7 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 | _Order3_|Optional| **XlSortOrder**|Determines the sort order for the values specified in _Key3_.|
 | _Header_|Optional| **[XlYesNoGuess](excel.xlyesnoguess.md)**|Specifies whether the first row contains header information. **xlNo** is the default value; specify **xlGuess** if you want Excel to attempt to determine the header.|
 | _OrderCustom_|Optional| **Variant**|Specifies a one-based integer offset into the list of custom sort orders.|
-| _MatchCase_|Optional| **Variant**|Set to **True** to perform a case-sensitive sort, **False** to perform a non-case sensitive sort; cannot be used with PivotTables.|
+| _MatchCase_|Optional| **Variant**|Set to **True** to perform a case-sensitive sort, **False** to perform a non-case-sensitive sort; cannot be used with PivotTables.|
 | _Orientation_|Optional| **[XlSortOrientation](excel.xlsortorientation.md)**|Specifies if the sort should be by row (default) or column. Set **xlSortColumns** value to	1 to sort by column. Set **xlSortRows** value to 2 to sort by row (this is the default value). |
 | _SortMethod_|Optional| **[XlSortMethod](excel.xlsortmethod.md)**|Specifies the sort method.|
 | _DataOption1_|Optional| **[XlSortDataOption](excel.xlsortdataoption.md)**|Specifies how to sort text in the range specified in _Key1_; does not apply to PivotTable sorting.|

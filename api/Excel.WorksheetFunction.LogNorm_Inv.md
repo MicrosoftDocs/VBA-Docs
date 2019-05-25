@@ -45,7 +45,9 @@ If probability ≤ 0 or probability ≥ 1, **LogNorm_Inv** returns the #NUM! err
     
 If standard_dev ≤ 0, **LogNorm_Inv** returns the #NUM! error value.
     
-The inverse of the lognormal distribution function is &nbsp; ![Inverse of the lognormal distribution function.](../images/LOGNORM_INV_ZA10390997.jpg)
+The inverse of the lognormal distribution function is:
+
+> ![Inverse of the lognormal distribution function.](../images/LOGNORM_INV_ZA10390997.jpg)
 
 
     

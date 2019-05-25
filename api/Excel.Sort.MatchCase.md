@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Sort.MatchCase property (Excel)
 
-Set to **True** to perform a case-sensitive sort, or set to **False** to perform a non-case sensitive sort. Read/write.
+Set to **True** to perform a case-sensitive sort, or set to **False** to perform a non-case-sensitive sort. Read/write.
 
 
 ## Syntax

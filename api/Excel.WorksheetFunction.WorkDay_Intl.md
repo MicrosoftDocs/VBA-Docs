@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.WorkDay_Intl
 ms.assetid: 0a9091a1-c6d4-06c4-a00d-7477474bddf0
-ms.date: 06/08/2017
+ms.date: 05/25/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Returns the serial number of the date before or after a specified number of work
 
 ## Syntax
 
-_expression_. `WorkDay_Intl` (_Arg1_, _Arg2_, _Arg3_, _Arg4_)
+_expression_.**WorkDay_Intl** (_Arg1_, _Arg2_, _Arg3_, _Arg4_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -37,28 +35,20 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
-
-
-
-- If start_date is out of range for the current date base value, WORKDAY_INTL returns the #NUM! error value.
+If start_date is out of range for the current date base value, **WorkDay_Intl** returns the #NUM! error value.
     
-- If any date in holidays is out of range for the current date base value, WORKDAY_INTL returns the #NUM! error value.
+If any date in holidays is out of range for the current date base value, **WorkDay_Intl** returns the #NUM! error value.
     
-- If start_date plus day-offset yields an invalid date, WORKDAY_INTL returns the #NUM! error value.
+If start_date plus day-offset yields an invalid date, **WorkDay_Intl** returns the #NUM! error value.
     
-- If a weekend string is of invalid length or contains invalid characters, WORKDAY_INTL returns the #VALUE! error value.
+If a weekend string is of invalid length or contains invalid characters, **WorkDay_Intl** returns the #VALUE! error value.
     
 
 
-
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

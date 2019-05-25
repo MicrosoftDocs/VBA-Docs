@@ -31,7 +31,7 @@ Private Sub  _expression_ _'BeforeSuspendEvents'(**_ByVal app As [IVAPPLICATION]
 
 ## Return value
 
-nothing
+**Nothing**
 
 
 ## Remarks

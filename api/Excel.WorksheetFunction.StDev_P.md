@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.StDev_P
 ms.assetid: bbbfd24a-aaa9-d63d-9fa3-966949299214
-ms.date: 06/08/2017
+ms.date: 05/25/2019
 localization_priority: Normal
 ---
 
@@ -26,43 +26,36 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 30 number arguments corresponding to a population. You can also use a single array or a reference to an array instead of arguments separated by commas (,).|
+| _Arg1 - Arg30_|Required| **Variant**|Number1, number2... - 1 to 30 number arguments corresponding to a population. You can also use a single array or a reference to an array instead of arguments separated by commas (,).|
 
 ## Return value
 
-Double
+**Double**
 
 
 ## Remarks
 
+**StDev_P** assumes that its arguments are the entire population. If your data represents a sample of the population, compute the standard deviation by using **StDev_S**.
+    
+For large sample sizes, **StDev_S** and **StDev_P** return approximately equal values.
+    
+The standard deviation is calculated by using the "biased" or "n" method.
+    
+Arguments can either be numbers or names, arrays, or references that contain numbers.
+    
+Logical values and text representations of numbers that you type directly into the list of arguments are counted. 
+    
+If an argument is an array or reference, only numbers in that array or reference are counted. Empty cells, logical values, text, or error values in the array or reference are ignored. 
+    
+Arguments that are error values or text that cannot be translated into numbers cause errors.
+    
+**StDev_P**  uses the following formula, where x is the sample mean AVERAGE(number1,number2,...) and n is the sample size:
+
+> ![Formula](../images/awfstdv2_ZA06051249.gif)
+    
 
 
-
-- STDEV_P assumes that its arguments are the entire population. If your data represents a sample of the population, then compute the standard deviation using STDEV_S.
-    
-- For large sample sizes, STDEV_S and STDEV_P return approximately equal values.
-    
-- The standard deviation is calculated using the "biased" or "n" method.
-    
-- Arguments can either be numbers or names, arrays, or references that contain numbers.
-    
-- Logical values, and text representations of numbers that you type directly into the list of arguments are counted. 
-    
-- If an argument is an array or reference, only numbers in that array or reference are counted. Empty cells, logical values, text, or error values in the array or reference are ignored. 
-    
-- Arguments that are error values or text that cannot be translated into numbers cause errors.
-    
-- STDEV_P uses the following formula:
-![Formula](../images/awfstdv2_ZA06051249.gif)where x is the sample mean AVERAGE(number1,number2,?) and n is the sample size. 
-    
-
-## See also
-
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

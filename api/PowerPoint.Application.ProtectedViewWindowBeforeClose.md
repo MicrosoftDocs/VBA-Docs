@@ -36,7 +36,7 @@ _expression_ A variable that represents an [Application](./PowerPoint.Applicatio
 
 ## Return value
 
-nothing
+**Nothing**
 
 
 ## Remarks

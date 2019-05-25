@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 29 values for which you want the multinomial.|
+| _Arg1 - Arg30_|Required| **Variant**|Number1, number2... - 1 to 30 values for which you want the multinomial.|
 
 ## Return value
 
