@@ -14,7 +14,8 @@ localization_priority: Normal
 
 # CoAuthLock.HeaderFooter property (Word)
 
-This object or member has been deprecated. You should not use it in new applications.
+> [!NOTE] 
+> This object or member has been deprecated. You should not use it in new applications.
 
 This property will always return  **False**.
 

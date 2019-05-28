@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.SheetPivotTableAfterValueChange
 ms.assetid: 8460f5f1-d415-7aac-6a3d-fa0944036e9c
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
@@ -34,17 +34,12 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Return value
 
- **Nothing**
+**Nothing**
 
 
 ## Remarks
 
-The  **PivotTableAfterValueChange** event does not occur under any conditions other than editing or recalculating cells. For example, it will not occur when the PivotTable is refreshed, sorted, filtered, or drilled down on, even though those operations move cells and potentially retrieve new values from the OLAP data source.
+The **PivotTableAfterValueChange** event does not occur under any conditions other than editing or recalculating cells. For example, it will not occur when the PivotTable is refreshed, sorted, filtered, or drilled down on, even though those operations move cells and potentially retrieve new values from the OLAP data source.
 
-
-## See also
-
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

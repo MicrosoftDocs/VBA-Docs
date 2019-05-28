@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.SaveCopyAs
 ms.assetid: 84f58488-6a2b-7fef-1472-e1b9771a60b0
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **Variant**|Specifies the file name for the copy.|
@@ -36,15 +34,11 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 This example saves a copy of the active workbook.
 
-
 ```vb
 ActiveWorkbook.SaveCopyAs "C:\TEMP\XXXX.XLS"
 ```
 
 
-## See also
 
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

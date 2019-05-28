@@ -14,34 +14,29 @@ localization_priority: Normal
 
 # Document.SmartDocument property (Word)
 
-Returns a  **SmartDocument** object that represents the settings for a smart document solution.
+Returns a **[SmartDocument](office.smartdocument.md)** object that represents the settings for a smart document solution.
 
 
 ## Syntax
 
 _expression_.**SmartDocument**
 
- _expression_ An expression that returns a **[Document](Word.Document.md)** object.
+_expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
 
-For more information on smart documents, please see the Smart Document Software Development Kit on the Microsoft Developer Network (MSDN) Web site.
+For more information about smart documents, see [Use smart documents](https://support.office.com/article/use-smart-documents-7dc5fb76-4bc3-4583-b4ac-d94001f3dd51) on the Microsoft Support site.
 
 
 ## Example
 
 The following example displays a dialog box that contains a list of valid XML expansion packs for the active document.
 
-
 ```vb
 ActiveDocument.SmartDocument.PickSolution
 ```
 
 
-## See also
-
-
-[Document Object](Word.Document.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

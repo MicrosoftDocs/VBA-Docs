@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.SaveAsXMLData
 ms.assetid: 7c4c1be3-d3a5-6e90-7750-9f371f008541
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
@@ -33,13 +33,12 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Remarks
 
-This method will result in a run-time error if Excel cannot export data with the specified schema map. To check whether Excel can use the specified schema map to export data, use the  **[IsExportable](Excel.XmlMap.IsExportable.md)** property.
+This method results in a run-time error if Excel cannot export data with the specified schema map. To check whether Excel can use the specified schema map to export data, use the **[IsExportable](Excel.XmlMap.IsExportable.md)** property.
 
 
 ## Example
 
-The following example verifies that Excel can use the schema map "Customer" to export data, and then exports the data mapped to the "Customer" schema map to a file named "Customer Data.xml".
-
+The following example verifies that Excel can use the schema map Customer to export data, and then exports the data mapped to the Customer schema map to a file named Customer Data.xml.
 
 ```vb
 Sub ExportAsXMLData() 
@@ -58,9 +57,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

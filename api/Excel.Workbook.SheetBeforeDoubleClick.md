@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.SheetBeforeDoubleClick
 ms.assetid: 69d21025-78ef-deab-39be-b7a092d611f5
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
@@ -41,7 +41,6 @@ This event doesn't occur on chart sheets.
 
 This example disables the default double-click action.
 
-
 ```vb
 Private Sub Workbook_SheetBeforeDoubleClick(ByVal Sh As Object, _ 
  ByVal Target As Range, ByVal Cancel As Boolean) 
@@ -50,9 +49,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
