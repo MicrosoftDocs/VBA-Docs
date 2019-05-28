@@ -21,7 +21,7 @@ Disables all features introduced after a the specified version for all documents
 
 _expression_. `DisableFeaturesIntroducedAfterbyDefault`
 
-_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an **[Options](Word.Options.md)** object.
 
 
 ## Remarks

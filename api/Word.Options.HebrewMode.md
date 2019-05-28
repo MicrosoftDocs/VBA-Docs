@@ -21,7 +21,7 @@ Returns or sets the mode for the Hebrew spelling checker. Read/write  **WdHebSpe
 
 _expression_. `HebrewMode`
 
-_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an **[Options](Word.Options.md)** object.
 
 
 ## Example

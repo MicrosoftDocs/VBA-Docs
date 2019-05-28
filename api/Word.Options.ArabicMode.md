@@ -14,29 +14,25 @@ localization_priority: Normal
 
 # Options.ArabicMode property (Word)
 
-Returns or sets the mode for the Arabic spelling checker. Read/write  **WdAraSpeller**.
+Returns or sets the mode for the Arabic spelling checker. Read/write **[WdAraSpeller](word.wdaraspeller.md)**.
 
 
 ## Syntax
 
-_expression_. `ArabicMode`
+_expression_.**ArabicMode**
 
-_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an **[Options](Word.Options.md)** object.
 
 
 ## Example
 
 This example sets the spelling checker to ignore spelling rules regarding Arabic words beginning with an alef hamza.
 
-
 ```vb
 Options.ArabicMode = wdInitialAlef
 ```
 
 
-## See also
 
-
-[Options Object](Word.Options.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
