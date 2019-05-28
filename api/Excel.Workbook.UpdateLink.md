@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.UpdateLink
 ms.assetid: 2aef72cc-a820-3e91-1f46-50c739faf2bb
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
@@ -28,27 +28,22 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Name_|Optional| **Variant**|The name of the Microsoft Excel or DDE/OLE link to be updated, as returned from the  **[LinkSources](Excel.Workbook.LinkSources.md)** method.|
-| _Type_|Optional| **Variant**|One of the constants of  **[XlLinkType](Excel.XlLinkType.md)** specifying the type of link.|
+| _Name_|Optional| **Variant**|The name of the Microsoft Excel or DDE/OLE link to be updated, as returned from the **[LinkSources](Excel.Workbook.LinkSources.md)** method.|
+| _Type_|Optional| **Variant**|One of the constants of **[XlLinkType](Excel.XlLinkType.md)** specifying the type of link.|
 
 ## Remarks
 
-When the  **UpdateLink** method is called without any parameters, Excel defaults to updating all worksheet links.
+When the **UpdateLink** method is called without any parameters, Excel defaults to updating all worksheet links.
 
 
 ## Example
 
 This example updates all links in the active workbook.
 
-
 ```vb
 ActiveWorkbook.UpdateLink Name:=ActiveWorkbook.LinkSources
 ```
 
 
-## See also
-
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

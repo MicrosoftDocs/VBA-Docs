@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.UserStatus
 ms.assetid: 0df24f8a-b60b-fd8c-3436-903652487a09
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
 
 # Workbook.UserStatus property (Excel)
 
-Returns a 1-based, two-dimensional array that provides information about each user who has the workbook open as a shared list. Read-only  **Variant**.
+Returns a 1-based, two-dimensional array that provides information about each user who has the workbook open as a shared list. Read-only **Variant**.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 The first element of the second dimension is the name of the user, the second element is the date and time when the user last opened the workbook, and the third element is a number indicating the type of list (1 indicates exclusive, and 2 indicates shared).
 
-The  **UserStatus** property doesn't return information about users who have the specified workbook open as read-only.
+The **UserStatus** property doesn't return information about users who have the specified workbook open as read-only.
 
 
 ## Example
@@ -53,9 +53,6 @@ End With
 ```
 
 
-## See also
 
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

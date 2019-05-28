@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.WriteReservedBy
 ms.assetid: f053c197-3af3-9ab7-bee1-f72ee311a5b8
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
 
 # Workbook.WriteReservedBy property (Excel)
 
-Returns the name of the user who currently has write permission for the workbook. Read-only  **String**.
+Returns the name of the user who currently has write permission for the workbook. Read-only **String**.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 If the active workbook is write-reserved, this example displays a message that contains the name of the user who saved the workbook as write-reserved.
 
-
 ```vb
 With ActiveWorkbook 
  If .WriteReserved = True Then 
@@ -39,9 +38,5 @@ End With
 ```
 
 
-## See also
-
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
