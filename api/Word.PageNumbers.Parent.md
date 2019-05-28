@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # PageNumbers.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **PageNumbers** object.
+Returns an **Object** that represents the parent object of the specified **PageNumbers** object.
 
 
 ## Syntax
 
 _expression_.**Parent**
 
-_expression_ Required. A variable that represents a '[PageNumbers](Word.pagenumbers.md)' collection.
+_expression_ Required. A variable that represents a **[PageNumbers](Word.PageNumbers.md)** object.
 
 
-## See also
 
-
-[PageNumbers Collection Object](Word.pagenumbers.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
