@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.Deactivate
 ms.assetid: 6bd5411c-ac43-95cf-6755-49780ac765e9
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
@@ -41,9 +41,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

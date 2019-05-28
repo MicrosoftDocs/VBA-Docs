@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **xlFixedFormatType**|The type of file format to export to.|
+| _Type_|Required| **[XlFixedFormatType](excel.xlfixedformattype.md)**|The type of file format to export to.|
 | _FileName_|Optional| **Variant**|The file name of the file to be saved. You can include a full path, or Excel saves the file in the current folder.|
 | _Quality_|Optional| **Variant**|Optional  **[XlFixedFormatQuality](Excel.XlFixedFormatQuality.md)**. Specifies the quality of the published file.|
 | _IncludeDocProperties_|Optional| **Variant**| **True** to include the document properties; otherwise, **False**.|

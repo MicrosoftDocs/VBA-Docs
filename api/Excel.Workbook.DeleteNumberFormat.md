@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.DeleteNumberFormat
 ms.assetid: d56c2e4c-5de2-fecf-6a1f-a9fdc79943cb
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
@@ -34,15 +34,11 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 This example deletes the number format "000-00-0000" from the active workbook.
 
-
 ```vb
 ActiveWorkbook.DeleteNumberFormat("000-00-0000")
 ```
 
 
-## See also
 
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
