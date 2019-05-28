@@ -19,14 +19,12 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the cells 
 
 ## Syntax
 
-_expression_. `XmlMapQuery`( `_XPath_` , `_SelectionNamespaces_` , `_Map_` )
+_expression_.**XmlMapQuery** (_XPath_, _SelectionNamespaces_, _Map_)
 
 _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

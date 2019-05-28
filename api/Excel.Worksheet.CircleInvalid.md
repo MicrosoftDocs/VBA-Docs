@@ -19,7 +19,7 @@ Circles invalid entries on the worksheet.
 
 ## Syntax
 
-_expression_. `CircleInvalid`
+_expression_.**CircleInvalid**
 
 _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 

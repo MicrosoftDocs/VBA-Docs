@@ -19,7 +19,7 @@ Returns a three-element array of consolidation options, as shown in the followin
 
 ## Syntax
 
-_expression_. `ConsolidationOptions`
+_expression_.**ConsolidationOptions**
 
 _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 

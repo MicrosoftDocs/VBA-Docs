@@ -19,14 +19,12 @@ Occurs before changes to a PivotTable are discarded.
 
 ## Syntax
 
-_expression_. `PivotTableBeforeDiscardChanges`( `_TargetPivotTable_` , `_ValueChangeStart_` , `_ValueChangeEnd_` )
+_expression_.**PivotTableBeforeDiscardChanges** (_TargetPivotTable_, _ValueChangeStart_, _ValueChangeEnd_)
 
 _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
