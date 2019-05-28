@@ -21,7 +21,7 @@ Returns or sets the name of the font in a right-to-left language document. Read/
 
 _expression_. `NameBi`
 
- _expression_ An expression that returns a '[Font](Word.Font.md)' object.
+ _expression_ An expression that returns a **[Font](Word.Font.md)** object.
 
 
 ## Example

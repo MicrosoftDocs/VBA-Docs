@@ -21,7 +21,7 @@ Returns a  **Shading** object that refers to the shading formatting for the spec
 
 _expression_. `Shading`
 
-_expression_ Required. A variable that represents a '[Font](Word.Font.md)' object.
+_expression_ Required. A variable that represents a **[Font](Word.Font.md)** object.
 
 
 ## See also

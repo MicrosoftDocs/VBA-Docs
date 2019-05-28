@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**Subscript**
 
- _expression_ An expression that returns a '[Font](Word.Font.md)' object.
+ _expression_ An expression that returns a **[Font](Word.Font.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns or sets the 24-bit color of the underline for the specified  **Font** ob
 
 _expression_. `UnderlineColor`
 
-_expression_ Required. A variable that represents a '[Font](Word.Font.md)' object.
+_expression_ Required. A variable that represents a **[Font](Word.Font.md)** object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a copy of a **Font** object that represents the character formatting of 
 
 _expression_.**Duplicate**
 
-_expression_ Required. A variable that represents a '[Font](Word.Font.md)' object.
+_expression_ Required. A variable that represents a **[Font](Word.Font.md)** object.
 
 
 ## Remarks

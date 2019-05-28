@@ -21,7 +21,7 @@ Returns or sets the position of text (in points) relative to the base line. Read
 
 _expression_.**Position**
 
-_expression_ Required. A variable that represents a '[Font](Word.Font.md)' object.
+_expression_ Required. A variable that represents a **[Font](Word.Font.md)** object.
 
 
 ## Remarks

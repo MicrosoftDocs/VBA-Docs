@@ -21,7 +21,7 @@ Returns a [ShadowFormat](Word.ShadowFormat.md) object that specifies the shadow 
 
 _expression_. `TextShadow`
 
- _expression_ An expression that returns a '[Font](Word.Font.md)' object.
+ _expression_ An expression that returns a **[Font](Word.Font.md)** object.
 
 
 ## See also

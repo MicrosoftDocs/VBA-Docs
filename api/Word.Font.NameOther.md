@@ -21,7 +21,7 @@ Returns or sets the font used for characters with character codes from 128 throu
 
 _expression_. `NameOther`
 
- _expression_ An expression that returns a '[Font](Word.Font.md)' object.
+ _expression_ An expression that returns a **[Font](Word.Font.md)** object.
 
 
 ## Remarks
