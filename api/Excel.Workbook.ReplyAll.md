@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.ReplyAll
 ms.assetid: c378da35-1778-44db-5c58-8d6992ca0c93
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**ReplyAll**
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
-## See also
 
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
