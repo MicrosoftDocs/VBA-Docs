@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.MergeWorkbook
 ms.assetid: 393790c6-3c19-7149-a999-b8712e7a6855
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
@@ -34,15 +34,11 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 This example merges changes from Book1.xls into the active workbook.
 
-
 ```vb
 ActiveWorkbook.MergeWorkbook "Book1.xls"
 ```
 
 
-## See also
 
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
