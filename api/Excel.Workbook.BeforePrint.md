@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.BeforePrint
 ms.assetid: 2c97cb32-2bb3-2848-b5ed-32d9129af080
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
@@ -32,13 +32,12 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Return value
 
-Nothing
+**Nothing**
 
 
 ## Example
 
 This example recalculates all worksheets in the active workbook before printing anything.
-
 
 ```vb
 Private Sub Workbook_BeforePrint(Cancel As Boolean) 
@@ -49,9 +48,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

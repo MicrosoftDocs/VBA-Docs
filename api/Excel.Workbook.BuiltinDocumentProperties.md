@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.BuiltinDocumentProperties
 ms.assetid: 3efffd7d-0681-ecbc-000a-b71eceb3f92a
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
 
 # Workbook.BuiltinDocumentProperties property (Excel)
 
-Returns a  **[DocumentProperties](Office.DocumentProperties.md)** collection that represents all the built-in document properties for the specified workbook. Read-only.
+Returns a **[DocumentProperties](Office.DocumentProperties.md)** collection that represents all the built-in document properties for the specified workbook. Read-only.
 
 
 ## Syntax
@@ -26,33 +26,56 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Remarks
 
-This property returns the entire collection of built-in document properties. Use the  **Item** method to return a single member of the collection (a **[DocumentProperty](Office.DocumentProperty.md)** object) by specifying either the name of the property or the collection index (as a number).
+This property returns the entire collection of built-in document properties. Use the **Item** method to return a single member of the collection (a **[DocumentProperty](Office.DocumentProperty.md)** object) by specifying either the name of the property or the collection index (as a number).
 
 You can refer to document properties either by index value or by name. The following list shows the available built-in document property names:
 
+- Title
+- Subject
+- Author
+- Keywords
+- Comments 
+- Template 
+- Last Author 
+- Revision Number 
+- Application Name 
+- Last Print Date
+- Creation Date 
+- Last Save Time 
+- Total Editing Time 
+- Number of Pages 
+- Number of Words 
+- Number of Characters 
+- Security 
+- Category 
+- Format 
+- Manager
+- Company 
+- Number of Bytes 
+- Number of Lines 
+- Number of Paragraphs 
+- Number of Slides 
+- Number of Notes 
+- Number of Hidden Slides 
+- Number of Multimedia Clips 
+- Hyperlink Base 
+- Number of Characters (with spaces)
 
+Container applications aren't required to define values for every built-in document property. If Microsoft Excel doesn't define a value for one of the built-in document properties, reading the **Value** property for that document property causes an error.
 
-|Title Subject Author Keywords Comments Template Last Author Revision Number Application Name Last Print Date|Creation Date Last Save Time Total Editing Time Number of Pages Number of Words Number of Characters Security Category Format Manager|Company Number of Bytes Number of Lines Number of Paragraphs Number of Slides Number of Notes Number of Hidden Slides Number of Multimedia Clips Hyperlink Base Number of Characters (with spaces)|
-
-Container applications aren't required to define values for every built-in document property. If Microsoft Excel doesn't define a value for one of the built-in document properties, reading the  **Value** property for that document property causes an error.
-
-Because the  **Item** method is the default method for the **DocumentProperties** collection, the following statements are identical:
-
-
-
+Because the **Item** method is the default method for the **DocumentProperties** collection, the following statements are identical.
 
 ```vb
 BuiltinDocumentProperties.Item(1) 
 BuiltinDocumentProperties(1)
 ```
 
-Use the  **[CustomDocumentProperties](Excel.Workbook.CustomDocumentProperties.md)** property to return the collection of custom document properties.
+Use the **[CustomDocumentProperties](Excel.Workbook.CustomDocumentProperties.md)** property to return the collection of custom document properties.
 
 
 ## Example
 
 This example displays the names of the built-in document properties as a list on worksheet one.
-
 
 ```vb
 rw = 1 
@@ -64,9 +87,5 @@ Next
 ```
 
 
-## See also
-
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

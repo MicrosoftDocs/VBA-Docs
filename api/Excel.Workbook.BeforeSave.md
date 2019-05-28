@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.BeforeSave
 ms.assetid: dfa3e20f-1fb2-f84f-4b92-a98f22b6e637
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
@@ -28,18 +28,17 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _SaveAsUI_|Required| **Boolean**| **True** if the **Save As** dialog box will be displayed due to changes made that need to be saved in the workbook.|
+| _SaveAsUI_|Required| **Boolean**| **True** if the **Save As** dialog box is displayed due to changes made that need to be saved in the workbook.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the workbook isn't saved when the procedure is finished.|
 
 ## Return value
 
-Nothing
+**Nothing**
 
 
 ## Example
 
 This example prompts the user for a yes or no response before saving the workbook.
-
 
 ```vb
 Private Sub Workbook_BeforeSave(ByVal SaveAsUI As Boolean, _ 
@@ -49,12 +48,9 @@ Private Sub Workbook_BeforeSave(ByVal SaveAsUI As Boolean, _
 End Sub
 ```
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! it's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&p=1)
+<br/>
 
-This example uses the  **BeforeSave** event to verify that certain cells contain data before the workbook can be saved. The workbook cannot be saved until there is data in each of the following cells: D5, D7, D9, D11, D13, and D15.
-
-
-
+This example uses the **BeforeSave** event to verify that certain cells contain data before the workbook can be saved. The workbook cannot be saved until there is data in each of the following cells: D5, D7, D9, D11, D13, and D15.
 
 ```vb
 Private Sub Workbook_BeforeSave(ByVal SaveAsUI As Boolean, Cancel As Boolean)
@@ -69,14 +65,5 @@ End Sub
 ```
 
 
-### About the contributor
-
-Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
-
-
-## See also
-
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
