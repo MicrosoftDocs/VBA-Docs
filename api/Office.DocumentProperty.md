@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DocumentProperty object (Office)
 
-Represents a custom or built-in document property of a container document. The **DocumentProperty** object is a member of the **DocumentProperties** collection.
+Represents a custom or built-in document property of a container document. The **DocumentProperty** object is a member of the **[DocumentProperties](Office.DocumentProperties.md)** collection.
 
 
 ## Remarks
@@ -24,7 +24,7 @@ Use the Microsoft Word **Document.BuiltinDocumentProperties**(_index_) property,
 Use the Word **Document.CustomDocumentProperties**(_index_) property, where _index_ is the name or index number of the custom document property, to return a **DocumentProperty** object that represents a specific custom document property.
 
 > [!NOTE] 
-> Properties of type **[msoPropertyTypeString](office.msodocproperties.md)** are limited in length to 255 characters.
+> Properties of type **msoPropertyTypeString** (**[MsoDocProperties](office.msodocproperties.md)**) are limited in length to 255 characters.
 
 
 ## See also

@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.CustomDocumentProperties
 ms.assetid: 8470adbb-5b10-96ba-71f7-c667c33b6707
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
 
 # Workbook.CustomDocumentProperties property (Excel)
 
-Returns or sets a  **[DocumentProperties](Office.DocumentProperties.md)** collection that represents all the custom document properties for the specified workbook.
+Returns or sets a **[DocumentProperties](Office.DocumentProperties.md)** collection that represents all the custom document properties for the specified workbook.
 
 
 ## Syntax
@@ -26,23 +26,24 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Remarks
 
-This property returns the entire collection of custom document properties. Use the  **Item** method to return a single member of the collection (a **DocumentProperty** object) by specifying either the name of the property or the collection index (as a number).
+This property returns the entire collection of custom document properties. Use the **Item** method to return a single member of the collection (a **[DocumentProperty](Office.DocumentProperty.md)** object) by specifying either the name of the property or the collection index (as a number).
 
-Because the  **Item** method is the default method for the **DocumentProperties** collection, the following statements are identical:
+Because the **Item** method is the default method for the **DocumentProperties** collection, the following statements are identical.
 
- `CustomDocumentProperties.Item("Complete")`
+```vb
+CustomDocumentProperties.Item("Complete")
+CustomDocumentProperties("Complete")
+```
 
- `CustomDocumentProperties("Complete")`
 
-Use the  **[BuiltinDocumentProperties](Excel.Workbook.BuiltinDocumentProperties.md)** property to return the collection of built-in document properties.
+Use the **[BuiltinDocumentProperties](Excel.Workbook.BuiltinDocumentProperties.md)** property to return the collection of built-in document properties.
 
-Properties of type  **msoPropertyTypeString** cannot exceed 255 characters in length.
+Properties of type **msoPropertyTypeString** (**[MsoDocProperties](office.msodocproperties.md)**) cannot exceed 255 characters in length.
 
 
 ## Example
 
 This example displays the names and values of the custom document properties as a list on worksheet one.
-
 
 ```vb
 rw = 1 
@@ -55,9 +56,6 @@ Next
 ```
 
 
-## See also
 
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
