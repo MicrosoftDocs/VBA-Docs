@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.LinkSources
 ms.assetid: 6466bea0-5af8-7af0-e9d7-7595133073ae
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
 
 # Workbook.LinkSources method (Excel)
 
-Returns an array of links in the workbook. The names in the array are the names of the linked documents, editions, or DDE or OLE servers. Returns  **Empty** if there are no links.
+Returns an array of links in the workbook. The names in the array are the names of the linked documents, editions, or DDE or OLE servers. Returns **Empty** if there are no links.
 
 
 ## Syntax
@@ -28,16 +28,16 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **Variant**|One of the constants of  **[XlLink](Excel.XlLink.md)** which specifies the type of link to return.|
+| _Type_|Optional| **Variant**|One of the constants of **[XlLink](Excel.XlLink.md)**, which specifies the type of link to return.|
 
 ## Return value
 
-Variant
+**Variant**
 
 
 ## Remarks
 
-The format of the array is a one-dimensional array for all types but publisher and subscriber. The returned strings contain the name of the link source, in the appropriate notation for the link type. For example, DDE links use the "Server|Document!Item" syntax.
+The format of the array is a one-dimensional array for all types except publisher and subscriber. The returned strings contain the name of the link source, in the appropriate notation for the link type. For example, DDE links use the "Server|Document!Item" syntax.
 
 For publisher and subscriber links, the returned array is two-dimensional. The first column of the array contains the names of the edition, and the second column contains the references of the editions as text.
 
@@ -45,7 +45,6 @@ For publisher and subscriber links, the returned array is two-dimensional. The f
 ## Example
 
 This example displays a list of OLE and DDE links in the active workbook. The example should be run on a workbook that contains one or more linked Word objects.
-
 
 ```vb
 aLinks = ActiveWorkbook.LinkSources(xlOLELinks) 
@@ -57,9 +56,5 @@ End If
 ```
 
 
-## See also
-
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

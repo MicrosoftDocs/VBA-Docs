@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.KeepChangeHistory
 ms.assetid: 3dbc322e-2b93-ae3d-cb9e-64c657fc0f80
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
 
 # Workbook.KeepChangeHistory property (Excel)
 
- **True** if change tracking is enabled for the shared workbook. Read/write **Boolean**.
+**True** if change tracking is enabled for the shared workbook. Read/write **Boolean**.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 This example sets the number of days shown in the change history for the active workbook if change tracking is enabled.
 
-
 ```vb
 With ActiveWorkbook 
  If .KeepChangeHistory Then 
@@ -38,9 +37,5 @@ End With
 ```
 
 
-## See also
-
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
