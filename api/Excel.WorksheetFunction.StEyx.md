@@ -50,7 +50,7 @@ If known_y's and known_x's have a different number of data points, **StEyx** ret
     
 If known_y's and known_x's are empty or have less than three data points, **StEyx** returns the #DIV/0! error value.
     
-The equation for the standard error of the predicted y is as follows, where x and y are the sample means AVERAGE(known_x's) and AVERAGE(known_y's), and n is the sample size. 
+The equation for the standard error of the predicted y is as follows, where x and y are the sample means AVERAGE(known_x's) and AVERAGE(known_y's), and n is the sample size: 
     
 > ![Formula](../images/awfsteyx_ZA06051250.gif)
 

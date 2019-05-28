@@ -56,7 +56,7 @@ If an argument is an array or reference, only numbers in that array or reference
     
 Arguments that are error values or text that cannot be translated into numbers cause errors.
     
-**StDevP** uses the following formula, where x is the sample mean AVERAGE(number1,number2,...) and n is the sample size. 
+**StDevP** uses the following formula, where x is the sample mean AVERAGE(number1,number2,...) and n is the sample size: 
     
 > ![Formula](../images/awfstdv2_ZA06051249.gif)
 

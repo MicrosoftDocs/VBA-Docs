@@ -55,7 +55,7 @@ If pr ≤ 0, **TBillYield** returns the #NUM! error value.
     
 If settlement ≥ maturity, or if maturity is more than one year after settlement, **TBillYield** returns the #NUM! error value.
     
-**TBillYield** is calculated as follows, where DSM = number of days from settlement to maturity, excluding any maturity date that is more than one calendar year after the settlement date. 
+**TBillYield** is calculated as follows, where DSM = number of days from settlement to maturity, excluding any maturity date that is more than one calendar year after the settlement date: 
 
 > ![Formula](../images/awftbyd_ZA06051257.gif)   
 

@@ -52,7 +52,7 @@ If an argument is an array or reference, only numbers in that array or reference
     
 Arguments that are error values or text that cannot be translated into numbers cause errors.
     
-The equation for **VarP** is as follows, where x is the sample mean AVERAGE(number1,number2,...) and n is the sample size. 
+The equation for **VarP** is as follows, where x is the sample mean AVERAGE(number1,number2,...) and n is the sample size: 
 
 > ![Formula](../images/awfvar_ZA06051258.gif)   
 

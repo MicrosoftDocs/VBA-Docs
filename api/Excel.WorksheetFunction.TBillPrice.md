@@ -55,7 +55,7 @@ If discount ≤ 0, **TBillPrice** returns the #NUM! error value.
     
 If settlement > maturity, or if maturity is more than one year after settlement, **TBillPrice** returns the #NUM! error value.
     
-**TBillPrice** is calculated as follows, where DSM = number of days from settlement to maturity, excluding any maturity date that is more than one calendar year after the settlement date. 
+**TBillPrice** is calculated as follows, where DSM = number of days from settlement to maturity, excluding any maturity date that is more than one calendar year after the settlement date: 
     
 > ![Formula](../images/awftbpr_ZA06051256.gif)
 
