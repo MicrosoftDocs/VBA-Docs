@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm199275
 ms.prod: excel
 ms.assetid: b11795e0-22c8-f089-c59a-5e3d7a09d5de
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
@@ -24,17 +24,14 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Return value
 
-[PivotTables](Excel.PivotTables.md)
+**[PivotTables](Excel.PivotTables.md)**
 
 
 ## Property value
 
- **OBJECT**
+**OBJECT**
 
 
-## See also
 
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

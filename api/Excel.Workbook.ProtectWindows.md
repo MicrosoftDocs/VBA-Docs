@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.ProtectWindows
 ms.assetid: 0f285fbe-2545-5c7d-9e3d-f08d57e78092
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 This example displays a message if the windows in the active workbook are protected.
 
-
 ```vb
 If ActiveWorkbook.ProtectWindows = True Then 
  MsgBox "Remember, you cannot rearrange any" & _ 
@@ -38,9 +37,5 @@ End If
 ```
 
 
-## See also
-
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

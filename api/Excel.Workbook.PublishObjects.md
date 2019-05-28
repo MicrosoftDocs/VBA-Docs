@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.PublishObjects
 ms.assetid: b6418f80-5154-6e3f-7313-222e6438c0e1
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
 
 # Workbook.PublishObjects property (Excel)
 
-Returns the  **[PublishObjects](Excel.PublishObjects.md)** collection. Read-only.
+Returns the **[PublishObjects](Excel.PublishObjects.md)** collection. Read-only.
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Example
 
-This example publishes all static  **PublishObject** objects in the active workbook to the webpage.
-
+This example publishes all static **PublishObject** objects in the active workbook to the webpage.
 
 ```vb
 Set objPObjs = ActiveWorkbook.PublishObjects 
@@ -39,9 +38,5 @@ Next objPO
 ```
 
 
-## See also
-
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
