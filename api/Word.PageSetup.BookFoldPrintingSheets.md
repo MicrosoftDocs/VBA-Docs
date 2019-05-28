@@ -21,7 +21,7 @@ Returns or sets a  **Long** which represents the number of pages for each bookle
 
 _expression_. `BookFoldPrintingSheets`
 
- _expression_ An expression that returns a '[PageSetup](Word.PageSetup.md)' object.
+ _expression_ An expression that returns a **[PageSetup](Word.PageSetup.md)** object.
 
 
 ## Example

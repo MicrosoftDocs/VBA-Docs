@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `TwoPagesOnOne`
 
- _expression_ An expression that returns a '[PageSetup](Word.PageSetup.md)' object.
+ _expression_ An expression that returns a **[PageSetup](Word.PageSetup.md)** object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Returns or sets the distance (in points) between the left edge of the page and t
 
 _expression_.**LeftMargin**
 
- _expression_ An expression that returns a '[PageSetup](Word.PageSetup.md)' object.
+ _expression_ An expression that returns a **[PageSetup](Word.PageSetup.md)** object.
 
 
 ## Remarks

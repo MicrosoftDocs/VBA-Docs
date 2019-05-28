@@ -21,7 +21,7 @@ Returns or sets the vertical alignment of text on each page in a document or sec
 
 _expression_.**VerticalAlignment**
 
-_expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
+_expression_ Required. A variable that represents a **[PageSetup](Word.PageSetup.md)** object.
 
 
 ## Example
