@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.HPageBreaks
 ms.assetid: 0d26aa71-714f-a6a0-8a10-4ea6bd7d852d
-ms.date: 06/08/2017
+ms.date: 05/30/2019
 localization_priority: Normal
 ---
 
 
 # Worksheet.HPageBreaks property (Excel)
 
-Returns an  **[HPageBreaks](Excel.HPageBreaks.md)** collection that represents the horizontal page breaks on the sheet. Read-only.
+Returns an **[HPageBreaks](Excel.HPageBreaks.md)** collection that represents the horizontal page breaks on the sheet. Read-only.
 
 
 ## Syntax
@@ -33,7 +33,6 @@ There is a limit of 1,026 horizontal page breaks per sheet.
 
 The following code example displays the number of full-screen and print-area horizontal page breaks.
 
-
 ```vb
 For Each pb in Worksheets(1).HPageBreaks 
     If pb.Extent = xlPageBreakFull Then 
@@ -47,13 +46,9 @@ MsgBox cFull & " full-screen page breaks, " & cPartial & _
 ```
 
 
-
- **Sample code provided by:** Bill Jelen, [MrExcel.com](https://www.mrexcel.com/)
+<br/>
 
 The following code example adds a page break when the value of a cell in column A changes.
-
-
-
 
 ```vb
 Sub AddPageBreaks() 
@@ -71,14 +66,5 @@ End Sub
 ```
 
 
-### About the contributor
-
-MVP Bill Jelen is the author of more than two dozen books about Microsoft Excel. He is a regular guest on TechTV with Leo Laporte and is the host of MrExcel.com, which includes more than 300,000 questions and answers about Excel. 
-
-
-## See also
-
-
-[Worksheet Object](Excel.Worksheet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

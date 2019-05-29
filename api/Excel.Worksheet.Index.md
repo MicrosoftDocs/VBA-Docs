@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.Index
 ms.assetid: 970065b3-f9bd-d518-261a-f5f704c350df
-ms.date: 06/08/2017
+ms.date: 05/30/2019
 localization_priority: Normal
 ---
 
 
 # Worksheet.Index property (Excel)
 
-Returns a  **Long** value that represents the index number of the object within the collection of similar objects.
+Returns a **Long** value that represents the index number of the object within the collection of similar objects.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 This example displays the tab number of the sheet specified by the name that you type. For example, if Sheet4 is the third tab in the active workbook, the example displays "3" in a message box.
 
-
 ```vb
 Sub DisplayTabNumber() 
  Dim strSheetName as String 
@@ -40,9 +39,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[Worksheet Object](Excel.Worksheet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

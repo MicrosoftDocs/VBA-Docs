@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.Hyperlinks
 ms.assetid: ac2fe50a-23a0-9982-d448-b18a91092624
-ms.date: 06/08/2017
+ms.date: 05/30/2019
 localization_priority: Normal
 ---
 
 
 # Worksheet.Hyperlinks property (Excel)
 
-Returns a  **[Hyperlinks](Excel.Hyperlinks.md)** collection that represents the hyperlinks for the worksheet.
+Returns a **[Hyperlinks](Excel.Hyperlinks.md)** collection that represents the hyperlinks for the worksheet.
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 ## Example
 
-This example checks to see whether any of the hyperlinks on worksheet one contain the word "Microsoft."
-
+This example checks to see whether any of the hyperlinks on worksheet one contain the word Microsoft.
 
 ```vb
 For Each h in Worksheets(1).Hyperlinks 
@@ -36,9 +35,6 @@ Next
 ```
 
 
-## See also
 
-
-[Worksheet Object](Excel.Worksheet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
