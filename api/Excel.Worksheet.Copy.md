@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.Copy
 ms.assetid: ace07575-34f4-a4ae-0922-a2671f2df1ba
-ms.date: 03/04/2019
+ms.date: 05/30/2019
 localization_priority: Normal
 ---
 
@@ -33,7 +33,7 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 ## Remarks
 
-If you don't specify either _Before_ or _After_, Microsoft Excel creates a new workbook that contains the copied **Worksheet** object. The newly created workbook holds the **[Application.ActiveWorkbook](Excel.Application.ActiveWorkbook.md)** property and contains a single worksheet. The single worksheet retains the **[Worksheet.Name](Excel.Worksheet.Name.md)** and **[Worksheet.CodeName](Excel.Worksheet.CodeName.md)** properties of the source worksheet. If the copied worksheet held a worksheet code sheet in a VBA project, that is also carried into the new workbook.
+If you don't specify either _Before_ or _After_, Microsoft Excel creates a new workbook that contains the copied **Worksheet** object. The newly created workbook holds the **[Application.ActiveWorkbook](Excel.Application.ActiveWorkbook.md)** property and contains a single worksheet. The single worksheet retains the **[Name](Excel.Worksheet.Name.md)** and **[CodeName](Excel.Worksheet.CodeName.md)** properties of the source worksheet. If the copied worksheet held a worksheet code sheet in a VBA project, that is also carried into the new workbook.
 
 An array selection of multiple worksheets can be copied to a new blank **[Workbook](Excel.Workbook.md)** object in a similar manner.
 

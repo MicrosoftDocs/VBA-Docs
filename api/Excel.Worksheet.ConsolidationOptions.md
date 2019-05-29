@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.ConsolidationOptions
 ms.assetid: 8c09aa4d-86fc-701f-3b89-f8e2be38b948
-ms.date: 06/08/2017
+ms.date: 05/30/2019
 localization_priority: Normal
 ---
 
 
 # Worksheet.ConsolidationOptions property (Excel)
 
-Returns a three-element array of consolidation options, as shown in the following table. If the element is  **True**, that option is set. Read-only **Variant**.
+Returns a three-element array of consolidation options, as shown in the following table. If the element is **True**, that option is set. Read-only **Variant**.
 
 
 ## Syntax
@@ -26,20 +26,15 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 ## Remarks
 
-
-
-
-
-|**Element**|**Meaning**|
+|Element|Description|
 |:-----|:-----|
-|1|Use labels in top row|
-|2|Use labels in left column|
-|3|Create links to source data|
+|1|Use labels in top row.|
+|2|Use labels in left column.|
+|3|Create links to source data.|
 
 ## Example
 
 This example displays the consolidation options for Sheet1. The list appears on a new worksheet created by the example.
-
 
 ```vb
 Set newSheet = Worksheets.Add 
@@ -58,9 +53,6 @@ newSheet.Columns("A:B").AutoFit
 ```
 
 
-## See also
 
-
-[Worksheet Object](Excel.Worksheet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

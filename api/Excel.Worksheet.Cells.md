@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.Cells
 ms.assetid: 19c14e41-7d8e-b56f-fd60-717df64edee8
-ms.date: 06/08/2017
+ms.date: 05/30/2019
 localization_priority: Normal
 ---
 
 
 # Worksheet.Cells property (Excel)
 
-Returns a  **[Range](Excel.Range(object).md)** object that represents all the cells on the worksheet (not just the cells that are currently in use).
+Returns a **[Range](Excel.Range(object).md)** object that represents all the cells on the worksheet (not just the cells that are currently in use).
 
 
 ## Syntax
@@ -26,33 +26,30 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 ## Remarks
 
-Because the  **[Item](Excel.Range.Item.md)** property is the default property for the **Range** object, you can specify the row and column index immediately after the **Cells** keyword. For more information, see the **Item** property and the examples for this topic.
+Because the **[Item](Excel.Range.Item.md)** property is the default property for the **Range** object, you can specify the row and column index immediately after the **Cells** keyword. For more information, see the **Item** property and the examples for this topic.
 
-Using this property without an object qualifier returns a  **Range** object that represents all the cells on the active worksheet.
+Using this property without an object qualifier returns a **Range** object that represents all the cells on the active worksheet.
 
 
 ## Example
 
 This example sets the font size for cell C5 on Sheet1 to 14 points.
 
-
 ```vb
 Worksheets("Sheet1").Cells(5, 3).Font.Size = 14
 ```
 
+<br/>
+
 This example clears the formula in cell one on Sheet1.
-
-
-
 
 ```vb
 Worksheets("Sheet1").Cells(1).ClearContents
 ```
 
-This example sets the font and font size for every cell on Sheet1 to 8-point Arial
+<br/>
 
-
-
+This example sets the font and font size for every cell on Sheet1 to 8-point Arial.
 
 ```vb
 With Worksheets("Sheet1").Cells.Font 
@@ -61,12 +58,9 @@ With Worksheets("Sheet1").Cells.Font
 End With
 ```
 
- **Sample code provided by:** Tom Urtis, [Atlas Programming Management](https://www.atlaspm.com/)
+<br/>
 
 This example toggles a sort between ascending and descending order when you double-click any cell in the data range. The data is sorted based on the column of the cell that is double-clicked.
-
-
-
 
 ```vb
 Option Explicit
@@ -101,14 +95,6 @@ End Sub
 ```
 
 
-### About the contributor
 
-MVP Tom Urtis is the founder of Atlas Programming Management, a full-service Microsoft Office and Excel business solutions company in Silicon Valley. Tom has over 25 years of experience in business management and developing Microsoft Office applications, and is the co author of "Holy Macro! It's 2,500 Excel VBA Examples." 
-
-
-## See also
-
-
-[Worksheet Object](Excel.Worksheet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

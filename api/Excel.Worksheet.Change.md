@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.Change
 ms.assetid: d9e11d08-41ba-f0a8-dc55-6c6cd4e76dd0
-ms.date: 04/11/2019
+ms.date: 05/30/2019
 localization_priority: Normal
 ---
 
@@ -33,7 +33,7 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 ## Return value
 
-Nothing
+**Nothing**
 
 
 ## Remarks
