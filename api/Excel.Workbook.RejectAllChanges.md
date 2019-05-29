@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.RejectAllChanges
 ms.assetid: a53670da-370c-9ac8-75b8-008625495c2b
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
@@ -36,15 +36,10 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 This example rejects all changes in the active workbook.
 
-
 ```vb
 ActiveWorkbook.RejectAllChanges
 ```
 
 
-## See also
-
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

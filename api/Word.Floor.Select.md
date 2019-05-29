@@ -21,12 +21,9 @@ Selects the object.
 
 _expression_.**Select**
 
-_expression_ A variable that represents a '[Floor](Word.Floor.md)' object.
+_expression_ A variable that represents a **[Floor](Word.Floor.md)** object.
 
 
-## See also
 
-
-[Floor Object](Word.Floor.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

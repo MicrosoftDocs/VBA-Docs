@@ -21,7 +21,7 @@ Returns or sets the number of lines per page in the document grid. Read/write  *
 
 _expression_. `LinesPage`
 
- _expression_ An expression that returns a '[PageSetup](Word.PageSetup.md)' object.
+ _expression_ An expression that returns a **[PageSetup](Word.PageSetup.md)** object.
 
 
 ## Example

@@ -5,14 +5,14 @@ f1_keywords:
 - vbaxl10.chm199274
 ms.prod: excel
 ms.assetid: 92e7463c-6dbe-c409-461a-ca730402ad62
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
 
 # Workbook.UseWildcards property (Excel)
 
- **True** if the workbook enables wildcards for character string comparisons and searching. Read-only **Boolean**
+**True** if the workbook enables wildcards for character string comparisons and searching. Read-only **Boolean**.
 
 
 ## Syntax
@@ -24,12 +24,9 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Property value
 
- **BOOL**
+**BOOL**
 
 
-## See also
 
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

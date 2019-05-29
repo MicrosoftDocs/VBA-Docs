@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `ProtectScenarios`
+_expression_.**ProtectScenarios**
 
 _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 

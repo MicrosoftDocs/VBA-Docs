@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.IsInplace
 ms.assetid: f492c09f-79d1-cde0-6cf1-db9644e41589
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
 
 # Workbook.IsInplace property (Excel)
 
- **True** if the specified workbook is being edited in place. **False** if the workbook has been opened in Microsoft Excel for editing. Read-only **Boolean**.
+**True** if the specified workbook is being edited in place. **False** if the workbook has been opened in Microsoft Excel for editing. Read-only **Boolean**.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 This example indicates whether the workbook was opened for editing in place or in Microsoft Excel.
 
-
 ```vb
 Private Sub Workbook_Open() 
  If ThisWorkbook.IsInPlace = True Then 
@@ -40,9 +39,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

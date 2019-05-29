@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.ChangeHistoryDuration
 ms.assetid: 5ebc3cc5-dffa-60cf-08cb-b2f84424c4b4
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
 
 # Workbook.ChangeHistoryDuration property (Excel)
 
-Returns or sets the number of days shown in the shared workbook's change history. Read/write  **Long**.
+Returns or sets the number of days shown in the shared workbook's change history. Read/write **Long**.
 
 
 ## Syntax
@@ -33,7 +33,6 @@ Any changes in the change history older than the setting for this property are r
 
 This example sets the number of days shown in the change history for the active workbook if change tracking is enabled. Any changes in the change history older than the setting for this property are removed when the workbook is closed.
 
-
 ```vb
 With ActiveWorkbook 
  If .KeepChangeHistory Then 
@@ -43,9 +42,6 @@ End With
 ```
 
 
-## See also
 
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

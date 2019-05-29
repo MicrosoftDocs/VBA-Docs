@@ -21,7 +21,7 @@ Returns or sets the direction for conversion between Hangul and Hanja. Read/writ
 
 _expression_. `MonthNames`
 
-_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an **[Options](Word.Options.md)** object.
 
 
 ## Example

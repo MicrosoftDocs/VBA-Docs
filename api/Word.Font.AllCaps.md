@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `AllCaps`
 
-_expression_ A variable that represents a '[Font](Word.Font.md)' object.
+_expression_ A variable that represents a **[Font](Word.Font.md)** object.
 
 
 ## Remarks

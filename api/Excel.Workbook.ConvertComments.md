@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: excel
 api_name:
 - Excel.Workbook.ConvertComments
-ms.date: 05/16/2019
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 

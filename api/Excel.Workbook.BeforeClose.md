@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.BeforeClose
 ms.assetid: 1c440637-8289-c6dd-24e0-1b2764fd1694
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
@@ -32,13 +32,12 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Return value
 
-Nothing
+**Nothing**
 
 
 ## Example
 
-This example always saves the workbook if it's been changed.
-
+This example always saves the workbook if it has been changed.
 
 ```vb
 Private Sub Workbook_BeforeClose(Cancel as Boolean) 
@@ -47,9 +46,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.ReloadAs
 ms.assetid: ce6a9d1a-7945-3dca-ff2d-a42289c2ccf9
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
@@ -32,22 +32,18 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Remarks
 
-Only  **msoEncoding** constants that are applicable to HTML work with the **ReloadAs** method.
+Only **MsoEncoding** constants that are applicable to HTML work with the **ReloadAs** method.
 
 
 ## Example
 
 This example reloads the first workbook, using Western document encoding.
 
-
 ```vb
 Workbooks(1).ReloadAs Encoding:=msoEncodingWestern
 ```
 
 
-## See also
 
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

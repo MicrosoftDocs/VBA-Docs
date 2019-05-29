@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Worksheet.Outline property (Excel)
 
-Returns an  **[Outline](Excel.Outline.md)** object that represents the outline for the specified worksheet. Read-only.
+Returns an **[Outline](Excel.Outline.md)** object that represents the outline for the specified worksheet. Read-only.
 
 
 ## Syntax
 
-_expression_. `Outline`
+_expression_.**Outline**
 
 _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
@@ -28,15 +28,10 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 This example sets the outline on Sheet1 to use automatic styles.
 
-
 ```vb
 Worksheets("Sheet1").Outline.AutomaticStyles = True
 ```
 
 
-## See also
-
-
-[Worksheet Object](Excel.Worksheet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

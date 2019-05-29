@@ -21,7 +21,7 @@ Removes the specified object from the document and places it on the Clipboard.
 
 _expression_.**Cut**
 
-_expression_ Required. A variable that represents a '[PageNumber](Word.PageNumber.md)' object.
+_expression_ Required. A variable that represents a **[PageNumber](Word.PageNumber.md)** object.
 
 
 ## Remarks

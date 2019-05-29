@@ -21,7 +21,7 @@ Returns or sets the point, relative to the left edge of the page, where you want
 
 _expression_. `GridOriginHorizontal`
 
-_expression_ A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ A variable that represents an **[Options](Word.Options.md)** object.
 
 
 ## Example

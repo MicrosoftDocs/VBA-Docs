@@ -21,7 +21,7 @@ Returns or sets the paper tray to use for the first page of a document or sectio
 
 _expression_. `FirstPageTray`
 
-_expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
+_expression_ Required. A variable that represents a **[PageSetup](Word.PageSetup.md)** object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Returns or sets default folders for items such as documents, templates, and grap
 
 _expression_. `DefaultFilePath`( `_Path_` )
 
-_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an **[Options](Word.Options.md)** object.
 
 
 ## Parameters

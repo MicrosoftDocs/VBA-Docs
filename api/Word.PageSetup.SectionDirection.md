@@ -21,7 +21,7 @@ Returns or sets the reading order and alignment for the specified sections. Read
 
 _expression_. `SectionDirection`
 
-_expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
+_expression_ Required. A variable that represents a **[PageSetup](Word.PageSetup.md)** object.
 
 
 ## Example

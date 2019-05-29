@@ -21,7 +21,7 @@ Returns or sets the format of text that is deleted while change tracking is enab
 
 _expression_. `DeletedTextMark`
 
-_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an **[Options](Word.Options.md)** object.
 
 
 ## Example

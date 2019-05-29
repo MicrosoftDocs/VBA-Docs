@@ -21,7 +21,7 @@ Returns or sets an East Asian font name. Read/write  **String**.
 
 _expression_. `NameFarEast`
 
- _expression_ An expression that returns a '[Font](Word.Font.md)' object.
+ _expression_ An expression that returns a **[Font](Word.Font.md)** object.
 
 
 ## Remarks

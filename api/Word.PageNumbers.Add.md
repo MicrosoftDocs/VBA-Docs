@@ -21,7 +21,7 @@ Returns a  **PageNumber** object that represents page numbers added to a header 
 
 _expression_.**Add** (_PageNumberAlignment_, _FirstPage_)
 
-_expression_ Required. A variable that represents a '[PageNumbers](Word.pagenumbers.md)' collection.
+_expression_ Required. A variable that represents a **[PageNumbers](Word.PageNumbers.md)** object.
 
 
 ## Parameters

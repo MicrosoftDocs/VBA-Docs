@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.ShowPivotTableFieldList
 ms.assetid: 33c74c54-27ea-d230-c640-47109bdfd4a2
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
 
 # Workbook.ShowPivotTableFieldList property (Excel)
 
- **True** (default) if the PivotTable field list can be shown. Read/write **Boolean**.
+**True** (default) if the PivotTable field list can be shown. Read/write **Boolean**.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 ## Example
 
 In this example, Microsoft Excel determines if the PivotTable field list can be shown and notifies the user.
-
 
 ```vb
 Sub UseShowPivotTableFieldList() 
@@ -47,9 +46,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,7 +21,7 @@ Returns or sets a  **WdEmphasisMark** constant that represents the emphasis mark
 
 _expression_. `EmphasisMark`
 
-_expression_ Required. A variable that represents a '[Font](Word.Font.md)' object.
+_expression_ Required. A variable that represents a **[Font](Word.Font.md)** object.
 
 
 ## Example

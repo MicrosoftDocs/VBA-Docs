@@ -14,20 +14,19 @@ localization_priority: Normal
 
 # PageSetup.BookFoldPrinting property (Word)
 
- **True** for Microsoft Word to print a document in a series of booklets so the printed pages can be folded and read as a book. Read/write **Boolean**.
+**True** for Microsoft Word to print a document in a series of booklets so that the printed pages can be folded and read as a book. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `BookFoldPrinting`
+_expression_.**BookFoldPrinting**
 
- _expression_ An expression that returns a '[PageSetup](Word.PageSetup.md)' object.
+_expression_ An expression that returns a **[PageSetup](Word.PageSetup.md)** object.
 
 
 ## Example
 
 This example turns the active document into a booklet that prints in four-page increments.
-
 
 ```vb
 Sub Booklet() 
@@ -39,9 +38,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[PageSetup Object](Word.PageSetup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

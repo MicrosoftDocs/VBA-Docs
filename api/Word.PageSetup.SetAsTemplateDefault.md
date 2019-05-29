@@ -21,7 +21,7 @@ Sets the specified page setup formatting as the default for the active document 
 
 _expression_. `SetAsTemplateDefault`
 
-_expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
+_expression_ Required. A variable that represents a **[PageSetup](Word.PageSetup.md)** object.
 
 
 ## Example

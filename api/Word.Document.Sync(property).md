@@ -14,7 +14,8 @@ localization_priority: Normal
 
 # Document.Sync property (Word)
 
-This object or member has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
+> [!NOTE] 
+> This object or member has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 
 
 ## Syntax
@@ -27,7 +28,6 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 ## Example
 
 The following example displays the name of the last person to modify the active document if the active document is a shared document in a Document Workspace.
-
 
 ```vb
 Dim eStatus As MsoSyncStatusType 
@@ -43,9 +43,5 @@ End If
 ```
 
 
-## See also
-
-
-[Document Object](Word.Document.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

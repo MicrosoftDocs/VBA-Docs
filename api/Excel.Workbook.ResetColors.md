@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.ResetColors
 ms.assetid: 1b56a4e9-0645-fa1e-55cc-09069c6a0ff1
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
@@ -28,15 +28,11 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 This example resets the color palette in the active workbook.
 
-
 ```vb
 ActiveWorkbook.ResetColors
 ```
 
 
-## See also
 
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

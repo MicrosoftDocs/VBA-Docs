@@ -21,7 +21,7 @@ Returns or sets the type of section break for the specified object. Read/write  
 
 _expression_. `SectionStart`
 
-_expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
+_expression_ Required. A variable that represents a **[PageSetup](Word.PageSetup.md)** object.
 
 
 ## Example

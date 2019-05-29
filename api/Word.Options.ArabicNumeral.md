@@ -21,7 +21,7 @@ Returns or sets the numeral style for an Arabic language document. Read/write  *
 
 _expression_. `ArabicNumeral`
 
-_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an **[Options](Word.Options.md)** object.
 
 
 ## Example

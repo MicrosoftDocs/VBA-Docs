@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.PasswordEncryptionProvider
 ms.assetid: d5bcbbf2-8de9-6725-9cac-679d6c023b34
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
 
 # Workbook.PasswordEncryptionProvider property (Excel)
 
-Returns a  **String** specifying the name of the algorithm encryption provider that Microsoft Excel uses when encrypting passwords for the specified workbook. Read-only.
+Returns a **String** specifying the name of the algorithm encryption provider that Microsoft Excel uses when encrypting passwords for the specified workbook. Read-only.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 ## Example
 
 This example sets the password encryption options for the specified workbook, if the file properties are not encrypted for password-protected workbooks.
-
 
 ```vb
 Sub SetPasswordOptions() 
@@ -46,9 +45,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

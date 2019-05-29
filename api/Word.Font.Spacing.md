@@ -21,7 +21,7 @@ Returns or sets the spacing (in points) between characters. Read/write  **Single
 
 _expression_. `Spacing`
 
-_expression_ Required. A variable that represents a '[Font](Word.Font.md)' object.
+_expression_ Required. A variable that represents a **[Font](Word.Font.md)** object.
 
 
 ## Example

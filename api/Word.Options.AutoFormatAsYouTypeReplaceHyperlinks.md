@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `AutoFormatAsYouTypeReplaceHyperlinks`
 
-_expression_ A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ A variable that represents an **[Options](Word.Options.md)** object.
 
 
 ## Remarks

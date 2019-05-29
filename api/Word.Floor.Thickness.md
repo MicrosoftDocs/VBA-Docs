@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Floor.Thickness property (Word)
 
-Returns or sets the thickness of the floor. Read/write  **Long**.
+Returns or sets the thickness of the floor. Read/write **Long**.
 
 
 ## Syntax
 
 _expression_.**Thickness**
 
-_expression_ A variable that represents a '[Floor](Word.Floor.md)' object.
+_expression_ A variable that represents a **[Floor](Word.Floor.md)** object.
 
 
 ## Remarks
@@ -29,9 +29,6 @@ _expression_ A variable that represents a '[Floor](Word.Floor.md)' object.
 Use this property to set the thickness of the floor. The default thickness is zero (0).
 
 
-## See also
 
-
-[Floor Object](Word.Floor.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

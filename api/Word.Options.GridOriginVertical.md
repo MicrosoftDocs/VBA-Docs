@@ -21,7 +21,7 @@ Returns or sets the point, relative to the top of the page, where you want the i
 
 _expression_. `GridOriginVertical`
 
-_expression_ A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ A variable that represents an **[Options](Word.Options.md)** object.
 
 
 ## Example

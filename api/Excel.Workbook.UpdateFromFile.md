@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.UpdateFromFile
 ms.assetid: f5148b60-9b25-8a12-5cf3-40103dcff2a3
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
@@ -26,22 +26,17 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Remarks
 
-This method is useful when a workbook is opened as read-only by user A and opened as read/write by user B. If user B saves a newer version of the workbook to disk while user A still has the workbook open, user A cannot get the updated copy without closing and reopening the workbook and losing view settings. The  **UpdateFromFile** method updates the in-memory copy of the workbook from the disk file.
+This method is useful when a workbook is opened as read-only by user A and opened as read/write by user B. If user B saves a newer version of the workbook to disk while user A still has the workbook open, user A cannot get the updated copy without closing and reopening the workbook and losing view settings. The **UpdateFromFile** method updates the in-memory copy of the workbook from the disk file.
 
 
 ## Example
 
 This example updates the active workbook from the disk version of the file.
 
-
 ```vb
 ActiveWorkbook.UpdateFromFile
 ```
 
 
-## See also
-
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

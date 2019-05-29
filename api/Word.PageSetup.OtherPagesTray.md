@@ -21,7 +21,7 @@ Returns or sets the paper tray to be used for all but the first page of a docume
 
 _expression_. `OtherPagesTray`
 
-_expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
+_expression_ Required. A variable that represents a **[PageSetup](Word.PageSetup.md)** object.
 
 
 ## Example

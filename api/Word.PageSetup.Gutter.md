@@ -14,25 +14,24 @@ localization_priority: Normal
 
 # PageSetup.Gutter property (Word)
 
-Returns or sets the amount (in points) of extra margin space added to each page in a document or section for binding. Read/write  **Single**.
+Returns or sets the amount (in points) of extra margin space added to each page in a document or section for binding. Read/write **Single**.
 
 
 ## Syntax
 
-_expression_. `Gutter`
+_expression_.**Gutter**
 
-_expression_ A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
+_expression_ A variable that represents a **[PageSetup](Word.PageSetup.md)** object.
 
 
 ## Remarks
 
-If the  **[MirrorMargins](Word.PageSetup.MirrorMargins.md)** property is set to **True**, the **Gutter** property adds the extra space to the inside margins. Otherwise, the extra space is added to the left margin.
+If the **[MirrorMargins](Word.PageSetup.MirrorMargins.md)** property is set to **True**, the **Gutter** property adds the extra space to the inside margins. Otherwise, the extra space is added to the left margin.
 
 
 ## Example
 
 This example adds 1 inch (72 points) to the inside margins of the active document.
-
 
 ```vb
 With ActiveDocument.PageSetup 
@@ -42,9 +41,6 @@ End With
 ```
 
 
-## See also
 
-
-[PageSetup Object](Word.PageSetup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

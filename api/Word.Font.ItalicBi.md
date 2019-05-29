@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `ItalicBi`
 
-_expression_ Required. A variable that represents a '[Font](Word.Font.md)' object.
+_expression_ Required. A variable that represents a **[Font](Word.Font.md)** object.
 
 
 ## Remarks

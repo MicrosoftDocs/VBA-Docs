@@ -21,7 +21,7 @@ Returns or sets the mark used to show formatting changes while change tracking i
 
 _expression_. `RevisedPropertiesMark`
 
-_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an **[Options](Word.Options.md)** object.
 
 
 ## Example

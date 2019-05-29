@@ -17,9 +17,13 @@ localization_priority: Normal
 > [!NOTE] 
 > This object or member has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 
+## Syntax
 
-## See also
+_expression_.**WorkbookSync**
 
-- [Application object](Excel.Application(object).md)
+_expression_ A variable that represents a **[Application](Excel.Application(object).md)** object.
+
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

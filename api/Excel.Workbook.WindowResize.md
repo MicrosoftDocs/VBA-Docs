@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.WindowResize
 ms.assetid: 6e473482-fe16-03a2-7a27-b0cd9535c3e6
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wn_|Required| **Window**|The resized window.|
@@ -36,7 +34,6 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 This example runs when any workbook window is resized.
 
-
 ```vb
 Private Sub Workbook_WindowResize(ByVal Wn As Excel.Window) 
  Application.StatusBar = Wn.Caption & " resized" 
@@ -44,9 +41,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

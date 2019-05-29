@@ -21,7 +21,7 @@ Returns a [ColorFormat](Word.ColorFormat.md) object that represents the color fo
 
 _expression_. `TextColor`
 
- _expression_ An expression that returns a '[Font](Word.Font.md)' object.
+ _expression_ An expression that returns a **[Font](Word.Font.md)** object.
 
 
 ## See also

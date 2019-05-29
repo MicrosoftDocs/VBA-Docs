@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.CheckInWithVersion
 ms.assetid: 3b37cea5-8795-bcbb-9c4b-d30b2b9a095e
-ms.date: 06/08/2017
+ms.date: 05/29/2019
 localization_priority: Normal
 ---
 
@@ -29,30 +29,27 @@ _expression_ A variable that returns a **[Workbook](Excel.Workbook.md)** object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SaveChanges_|Optional| **Variant**| **True** to save the workbook to the server location. The default is **True**.|
-| _Comments_|Optional| **Variant**|Comments for the revision of the workbook being checked in (applies only if  _SaveChanges_ is set to **True**).|
+| _Comments_|Optional| **Variant**|Comments for the revision of the workbook being checked in (applies only if _SaveChanges_ is set to **True**).|
 | _MakePublic_|Optional| **Variant**| **True** to allow the user to publish the workbook after it is checked in.|
 | _VersionType_|Optional| **Variant**|Specifies versioning information for the workbook. |
 
 ## Return value
 
-Nothing
+**Nothing**
 
 
 ## Remarks
 
-Setting the  _MakePublic_ parameter to **True** submits the workbook for the approval process, which can eventually result in a version of the workbook being published to users with read-only rights to the workbook (applies only if _SaveChanges_ is set to **True**).
+Setting the _MakePublic_ parameter to **True** submits the workbook for the approval process, which can eventually result in a version of the workbook being published to users with read-only rights to the workbook (applies only if _SaveChanges_ is set to **True**).
 
 To take advantage of the collaboration features built into Microsoft Excel, documents must be stored on a Microsoft SharePoint Server. 
 
 
 ## Example
 
-The following example uses the  **[CanCheckIn](Excel.Workbook.CanCheckIn.md)** method to determine whether the workbook has been stored on a Microsoft SharePoint Server. If the workbook has been stored on a server, the example calls the **CheckInWithVersion** method to check in the workbook along with the specified comments and version number, save changes to the server location, and submit the workbook for the approval process.
+The following example uses the **[CanCheckIn](Excel.Workbook.CanCheckIn.md)** method to determine whether the workbook has been stored on a Microsoft SharePoint Server. If the workbook has been stored on a server, the example calls the **CheckInWithVersion** method to check in the workbook along with the specified comments and version number, save changes to the server location, and submit the workbook for the approval process.
 
 This example is for a workbook-level customization.
-
-
-
 
 ```vb
 Private Sub WorkbookCheckIn() 
@@ -69,9 +66,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
