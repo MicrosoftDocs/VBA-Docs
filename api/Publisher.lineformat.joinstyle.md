@@ -19,7 +19,7 @@ Returns of sets the join style for the specified line. Read/write.
 
 _expression_.**JoinStyle**
 
-_expression_ A variable that represents a  **LineFormat** object.
+_expression_ A variable that represents a **[LineFormat](Publisher.LineFormat.md)** object.
 
 
 ## Return value

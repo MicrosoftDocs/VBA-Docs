@@ -21,7 +21,7 @@ Returns the  **EmailMergeEnvelope** object associated with the parent **MailMerg
 
 _expression_.**EmailMergeEnvelope**
 
-_expression_ A variable that represents a  **MailMerge** object.
+_expression_ A variable that represents a **[MailMerge](Publisher.MailMerge.md)** object.
 
 
 ## Return value

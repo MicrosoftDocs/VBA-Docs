@@ -21,7 +21,7 @@ Returns an individual object from a specified collection. Read-only.
 
 _expression_.**Item**(**_Index_**)
 
-_expression_ A variable that represents a  **Hyperlinks** object.
+_expression_ A variable that represents a **[Hyperlinks](Publisher.Hyperlinks.md)** object.
 
 
 ## Parameters

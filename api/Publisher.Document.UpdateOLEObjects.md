@@ -21,7 +21,7 @@ Updates linked and embedded OLE objects.
 
 _expression_.**UpdateOLEObjects**
 
-_expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a **[Document](Publisher.Document.md)** object.
 
 
 ## Example

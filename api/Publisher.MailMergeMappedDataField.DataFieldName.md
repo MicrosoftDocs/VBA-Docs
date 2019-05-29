@@ -21,7 +21,7 @@ Returns or sets a  **String** which represents the name of the field in the mail
 
 _expression_.**DataFieldName**
 
-_expression_ A variable that represents a  **MailMergeMappedDataField** object.
+_expression_ A variable that represents a **[MailMergeMappedDataField](Publisher.MailMergeMappedDataField.md)** object.
 
 
 ## Return value

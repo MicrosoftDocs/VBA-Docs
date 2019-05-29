@@ -21,7 +21,7 @@ Returns or sets an  **MsoConnectorType** constant that represents the connector 
 
 _expression_.**Type**
 
-_expression_ A variable that represents a  **ConnectorFormat** object.
+_expression_ A variable that represents a **[ConnectorFormat](Publisher.ConnectorFormat.md)** object.
 
 
 ## Remarks

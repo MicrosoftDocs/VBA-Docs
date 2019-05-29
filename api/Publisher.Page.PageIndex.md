@@ -21,7 +21,7 @@ Gets the index of the page in the  **Pages** collection of the active document. 
 
 _expression_.**PageIndex**
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **[Page](Publisher.Page.md)** object.
 
 
 ## Remarks

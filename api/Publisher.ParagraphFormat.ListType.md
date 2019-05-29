@@ -21,7 +21,7 @@ Returns a  **PbListType** constant from the specified **ParagraphFormat** object
 
 _expression_.**ListType**
 
-_expression_ A variable that represents a  **ParagraphFormat** object.
+_expression_ A variable that represents a **[ParagraphFormat](Publisher.ParagraphFormat.md)** object.
 
 
 ## Return value

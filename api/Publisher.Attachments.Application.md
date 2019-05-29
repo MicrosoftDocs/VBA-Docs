@@ -21,7 +21,7 @@ Returns an  **Application** object that represents the creator of the parent **A
 
 _expression_.**Application**
 
-_expression_ A variable that represents an  **Attachments** collection.
+_expression_ A variable that represents an **[Attachments](Publisher.Attachments.md)** object.
 
 
 ## Return value

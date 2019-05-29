@@ -21,7 +21,7 @@ Returns a  **Long** indicating the unique identifier for a page in a publication
 
 _expression_.**PageID**
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **[Page](Publisher.Page.md)** object.
 
 
 ## Remarks

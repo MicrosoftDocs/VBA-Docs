@@ -21,7 +21,7 @@ Returns a  **Variant** indicating the length (in points) of the first segment of
 
 _expression_.**Length**
 
-_expression_ A variable that represents a  **CalloutFormat** object.
+_expression_ A variable that represents a **[CalloutFormat](Publisher.CalloutFormat.md)** object.
 
 
 ## Remarks

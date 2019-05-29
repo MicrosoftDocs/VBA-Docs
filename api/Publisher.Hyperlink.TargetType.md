@@ -21,7 +21,7 @@ Returns a  **PbHlinkTargetType** constant that represents the type of hyperlink.
 
 _expression_.**TargetType**
 
-_expression_ A variable that represents a  **Hyperlink** object.
+_expression_ A variable that represents a **[Hyperlink](Publisher.Hyperlink.md)** object.
 
 
 ## Return value

@@ -21,6 +21,7 @@ Returns an object that represents the parent object of the specified object. Rea
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a  **PrintableRect** object.
+_expression_ A variable that represents a **[PrintableRect](Publisher.PrintableRect.md)** object.
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

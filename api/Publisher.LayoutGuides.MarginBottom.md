@@ -21,7 +21,7 @@ Returns or sets a  **Variant** that represents the amount of space (in points) b
 
 _expression_.**MarginBottom**
 
-_expression_ A variable that represents a  **LayoutGuides** object.
+_expression_ A variable that represents a **[LayoutGuides](Publisher.LayoutGuides.md)** object.
 
 
 ## Example

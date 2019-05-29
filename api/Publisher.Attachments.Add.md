@@ -21,7 +21,7 @@ Adds an  **Attachment** object to the **Attachments** collection of a Microsoft 
 
 _expression_.**Add** (_FileName_)
 
-_expression_ A variable that represents an  **Attachments** collection.
+_expression_ A variable that represents an **[Attachments](Publisher.Attachments.md)** object.
 
 
 ## Parameters

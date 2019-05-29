@@ -21,7 +21,7 @@ Returns a  **Long** that represents the position of a particular item in a speci
 
 _expression_.**Index**
 
-_expression_ A variable that represents a  **MailMergeFilterCriterion** object.
+_expression_ A variable that represents a **[MailMergeFilterCriterion](Publisher.MailMergeFilterCriterion.md)** object.
 
 
 ## Example

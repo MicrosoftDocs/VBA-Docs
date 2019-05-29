@@ -14,18 +14,18 @@ localization_priority: Normal
 
 # InstalledPrinters.Parent property (Publisher)
 
-Returns the parent of the  **[InstalledPrinters](Publisher.InstalledPrinters.md)** object. Read-only.
+Returns the parent of the **InstalledPrinters** object. Read-only.
 
 
 ## Syntax
 
 _expression_.**Parent**
 
-_expression_ A variable that represents an  **InstalledPrinters** object.
+_expression_ A variable that represents an **[InstalledPrinters](Publisher.InstalledPrinters.md)** object.
 
 
 ## Return value
 
-Object
+**Object**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

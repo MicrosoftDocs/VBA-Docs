@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Fields.AddHorizontalInVertical method (Publisher)
 
-Inserts horizontal text into a stream of vertical text and returns the new horizontal text as a  **Field** object.
+Inserts horizontal text into a stream of vertical text and returns the new horizontal text as a **[Field](Publisher.Field.md)** object.
 
 
 ## Syntax
 
 _expression_.**AddHorizontalInVertical**(**_Range_**,  **_Text_**)
 
-_expression_ A variable that represents a  **Fields** object.
+_expression_ A variable that represents a **[Fields](Publisher.Fields.md)** object.
 
 
 ## Parameters

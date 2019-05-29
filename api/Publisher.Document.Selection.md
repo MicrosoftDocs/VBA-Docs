@@ -21,7 +21,7 @@ Returns a  **[Selection](Publisher.Selection.md)** object that represents a sele
 
 _expression_.**Selection**
 
-_expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a **[Document](Publisher.Document.md)** object.
 
 
 ## Example

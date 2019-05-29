@@ -21,7 +21,7 @@ Creates a duplicate of the specified  **Page** object and then returns the new *
 
 _expression_.**Duplicate**
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **[Page](Publisher.Page.md)** object.
 
 
 ## Return value

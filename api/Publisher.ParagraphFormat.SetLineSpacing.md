@@ -21,7 +21,7 @@ Formats the line spacing of specified paragraphs.
 
 _expression_.**SetLineSpacing**(**_Rule_**,  **_Spacing_**)
 
-_expression_ A variable that represents a  **ParagraphFormat** object.
+_expression_ A variable that represents a **[ParagraphFormat](Publisher.ParagraphFormat.md)** object.
 
 
 ## Parameters

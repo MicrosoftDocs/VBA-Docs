@@ -21,6 +21,6 @@ Returns the a  **Single** that represents the distance (in points) from the top 
 
 _expression_.**Top**
 
-_expression_ A variable that represents a  **PrintableRect** object.
+_expression_ A variable that represents a **[PrintableRect](Publisher.PrintableRect.md)** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

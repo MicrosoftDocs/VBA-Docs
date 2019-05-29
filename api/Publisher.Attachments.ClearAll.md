@@ -21,7 +21,7 @@ Clears (deletes) all the  **Attachment** objects in the parent **Attachments** c
 
 _expression_.**ClearAll**
 
-_expression_ A variable that represents an  **Attachments** collection.
+_expression_ A variable that represents an **[Attachments](Publisher.Attachments.md)** object.
 
 
 ## Remarks

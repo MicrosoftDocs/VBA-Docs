@@ -21,7 +21,7 @@ Occurs after each record in the data source successfully merges in a mail merge.
 
 _expression_.**MailMergeAfterRecordMerge**(**_Doc_**)
 
-_expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters

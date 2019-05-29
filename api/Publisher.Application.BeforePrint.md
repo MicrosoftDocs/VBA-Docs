@@ -21,7 +21,7 @@ Occurs before the publication is printed or previewed. .
 
 _expression_.**BeforePrint**(**_Doc_**,  **_Cancel_**)
 
- _expression_ An expression that returns an  **Application** object.
+ _expression_ An expression that returns an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters

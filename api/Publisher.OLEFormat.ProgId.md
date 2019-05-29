@@ -21,7 +21,7 @@ Returns a  **String** that represents the programmatic identifier (ProgID) for t
 
 _expression_.**ProgId**
 
-_expression_ A variable that represents an  **OLEFormat** object.
+_expression_ A variable that represents an **[OLEFormat](Publisher.OLEFormat.md)** object.
 
 
 ## Return value

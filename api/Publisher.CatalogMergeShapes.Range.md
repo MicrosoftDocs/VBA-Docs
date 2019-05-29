@@ -21,7 +21,7 @@ Returns a **[ShapeRange](Publisher.ShapeRange.md)** object that represents a sub
 
 _expression_.**Range**(**_Index_**)
 
-_expression_ A variable that represents a **CatalogMergeShapes** object.
+_expression_ A variable that represents a **[CatalogMergeShapes](Publisher.CatalogMergeShapes.md)** object.
 
 
 ## Parameters

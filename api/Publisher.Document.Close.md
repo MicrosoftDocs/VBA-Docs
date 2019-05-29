@@ -21,7 +21,7 @@ Closes the current publication and creates a blank publication in its place.
 
 _expression_.**Close**
 
-_expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a **[Document](Publisher.Document.md)** object.
 
 
 ## Remarks

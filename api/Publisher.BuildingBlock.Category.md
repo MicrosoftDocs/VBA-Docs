@@ -21,6 +21,6 @@ Gets or sets a string that represents the category for the building block. Read/
 
 _expression_.**Category**
 
-_expression_ A variable that represents a  **BuildingBlock** object.
+_expression_ A variable that represents a **[BuildingBlock](Publisher.BuildingBlock.md)** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

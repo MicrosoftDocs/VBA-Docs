@@ -21,7 +21,7 @@ Gets or sets the priority of the merged email message represented by the parent 
 
 _expression_.**Priority**
 
-_expression_ A variable that represents an  **EmailMergeEnvelope** object.
+_expression_ A variable that represents an **[EmailMergeEnvelope](Publisher.EmailMergeEnvelope.md)** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns a  **HeaderFooter** object representing the footer of the specified **Pa
 
 _expression_.**Footer**
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **[Page](Publisher.Page.md)** object.
 
 
 ## Return value

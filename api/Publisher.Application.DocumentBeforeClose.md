@@ -21,7 +21,7 @@ Occurs immediately before any open document closes.
 
 _expression_.**DocumentBeforeClose**(**_Doc_**,  **_Cancel_**)
 
-_expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters

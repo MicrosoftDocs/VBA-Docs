@@ -21,7 +21,7 @@ Returns a  **Variant** that represents the height, in [points](../language/gloss
 
 _expression_.**Height**
 
-_expression_ A variable that represents a  **PictureFormat** object.
+_expression_ A variable that represents a **[PictureFormat](Publisher.PictureFormat.md)** object.
 
 
 ## Remarks

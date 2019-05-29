@@ -21,7 +21,7 @@ Returns an  **MsoHyperlinkType** constant that represents the hyperlink type. Re
 
 _expression_.**Type**
 
-_expression_ A variable that represents a  **Hyperlink** object.
+_expression_ A variable that represents a **[Hyperlink](Publisher.Hyperlink.md)** object.
 
 
 ## Remarks

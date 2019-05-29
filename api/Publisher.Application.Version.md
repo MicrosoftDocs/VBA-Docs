@@ -21,7 +21,7 @@ Returns a  **String** indicating the version number of the currently-installed c
 
 _expression_.**Version**
 
-_expression_ A variable that represents a  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Return value

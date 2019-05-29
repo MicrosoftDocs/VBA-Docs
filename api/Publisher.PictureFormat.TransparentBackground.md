@@ -21,7 +21,7 @@ Indicates whether the parts of the specified picture that are defined as the tra
 
 _expression_.**TransparentBackground**
 
-_expression_ A variable that represents a  **PictureFormat** object.
+_expression_ A variable that represents a **[PictureFormat](Publisher.PictureFormat.md)** object.
 
 
 ## Return value

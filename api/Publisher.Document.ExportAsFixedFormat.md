@@ -21,7 +21,7 @@ Saves a Microsoft Publisher publication in PDF or XPS format. The conversion rea
 
 _expression_.**ExportAsFixedFormat**(**_Format_**,  **_FileName_**,  **_Intent_**,  **_IncludeDocumentProperties_**,  **_ColorDownsampleTarget_**,  **_ColorDownsampleThreshold_**,  **_OneBitDownsampleTarget_**,  **_OneBitDownsampleThreshold_**, **_From_**, **_To_**, **_Copies_**, **_Collate_**, **_PrintStyle_**, **_DocStructureTags_**, **_BitmapMissingFonts_**, **_UseISO19005_1_**, **_ExternalExporter_**)
 
-_expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a **[Document](Publisher.Document.md)** object.
 
 
 ## Parameters

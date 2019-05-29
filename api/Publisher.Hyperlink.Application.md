@@ -21,7 +21,7 @@ Used without an object qualifier, this property returns an  **[Application](Publ
 
 _expression_.**Application**
 
-_expression_ A variable that represents a  **Hyperlink** object.
+_expression_ A variable that represents a **[Hyperlink](Publisher.Hyperlink.md)** object.
 
 
 ## Example

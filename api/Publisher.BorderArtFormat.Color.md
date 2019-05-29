@@ -21,7 +21,7 @@ Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object representing the c
 
 _expression_.**Color**
 
-_expression_ A variable that represents a  **BorderArtFormat** object.
+_expression_ A variable that represents a **[BorderArtFormat](Publisher.BorderArtFormat.md)** object.
 
 
 ## Example

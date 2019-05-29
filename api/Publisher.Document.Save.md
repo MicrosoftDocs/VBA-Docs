@@ -21,7 +21,7 @@ Saves the specified publication.
 
 _expression_.**Save**
 
-_expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a **[Document](Publisher.Document.md)** object.
 
 
 ## Remarks

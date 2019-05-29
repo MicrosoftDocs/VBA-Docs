@@ -21,7 +21,7 @@ Returns or sets a  **Variant** indicating the thickness of the specified line or
 
 _expression_.**Weight**
 
-_expression_ A variable that represents a  **BorderArtFormat** object.
+_expression_ A variable that represents a **[BorderArtFormat](Publisher.BorderArtFormat.md)** object.
 
 
 ## Remarks

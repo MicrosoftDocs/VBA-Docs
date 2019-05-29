@@ -21,7 +21,7 @@ Returns or sets an  **MsoFilterComparison** constant that represents how to comp
 
 _expression_.**Comparison**
 
-_expression_ A variable that represents a  **MailMergeFilterCriterion** object.
+_expression_ A variable that represents a **[MailMergeFilterCriterion](Publisher.MailMergeFilterCriterion.md)** object.
 
 
 ## Return value

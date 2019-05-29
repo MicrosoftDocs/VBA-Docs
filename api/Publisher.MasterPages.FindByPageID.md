@@ -21,7 +21,7 @@ Returns a  **[Page](Publisher.Page.md)** object that represents the page with th
 
 _expression_.**FindByPageID**(**_PageID_**)
 
-_expression_ A variable that represents a  **MasterPages** object.
+_expression_ A variable that represents a **[MasterPages](Publisher.MasterPages.md)** object.
 
 
 ## Parameters

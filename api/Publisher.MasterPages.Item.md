@@ -21,7 +21,7 @@ Returns the specified  **[Page](Publisher.Page.md)** object from a **Pages** or 
 
 _expression_.**Item**(**_Item_**)
 
-_expression_ A variable that represents a  **MasterPages** object.
+_expression_ A variable that represents a **[MasterPages](Publisher.MasterPages.md)** object.
 
 
 ## Parameters

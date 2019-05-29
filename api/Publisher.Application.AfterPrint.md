@@ -21,7 +21,7 @@ Fires after all variables and fields print.
 
 _expression_.**AfterPrint**(**_Doc_**)
 
- _expression_ An expression that returns an  **Application** object.
+ _expression_ An expression that returns an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters

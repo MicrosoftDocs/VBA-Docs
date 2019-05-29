@@ -21,7 +21,7 @@ Sets or returns a  **Long** that represents the number of rows in a layout guide
 
 _expression_.**Rows**
 
-_expression_ A variable that represents a  **LayoutGuides** object.
+_expression_ A variable that represents a **[LayoutGuides](Publisher.LayoutGuides.md)** object.
 
 
 ## Example

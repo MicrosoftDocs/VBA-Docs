@@ -21,7 +21,7 @@ Adds a new  **Hyperlink** object to the specified **Hyperlinks** collection and 
 
 _expression_.**Add** (_Text_, _Address_, _RelativePage_, _PageID_, _TextToDisplay_)
 
-_expression_ A variable that represents a  **Hyperlinks** object.
+_expression_ A variable that represents a **[Hyperlinks](Publisher.Hyperlinks.md)** object.
 
 
 ## Parameters

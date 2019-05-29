@@ -21,7 +21,7 @@ Sets or retrieves a  **String** representing the replacement text in the specifi
 
 _expression_.**ReplaceWithText**
 
-_expression_ A variable that represents a  **FindReplace** object.
+_expression_ A variable that represents a **[FindReplace](Publisher.FindReplace.md)** object.
 
 
 ## Return value

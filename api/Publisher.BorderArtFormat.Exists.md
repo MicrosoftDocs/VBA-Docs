@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**Exists**
 
-_expression_ A variable that represents a  **BorderArtFormat** object.
+_expression_ A variable that represents a **[BorderArtFormat](Publisher.BorderArtFormat.md)** object.
 
 
 ## See also

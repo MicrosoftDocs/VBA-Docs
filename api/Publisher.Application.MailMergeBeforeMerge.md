@@ -21,7 +21,7 @@ Occurs when a merge is executed before any records in a mail merge have merged.
 
 _expression_.**MailMergeBeforeMerge**(**_Doc_**,  **_StartRecord_**,  **_EndRecord_**,  **_Cancel_**)
 
-_expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters

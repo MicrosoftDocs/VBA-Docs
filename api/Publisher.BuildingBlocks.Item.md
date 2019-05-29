@@ -18,7 +18,7 @@ Returns the specified  **[BuildingBlock](Publisher.BuildingBlock.md)** object fr
 
 _expression_.**Item**(**_Item_**)
 
-_expression_ A variable that represents a  **BuildingBlocks** object.
+_expression_ A variable that represents a **[BuildingBlocks](Publisher.BuildingBlocks.md)** object.
 
 
 ## Parameters

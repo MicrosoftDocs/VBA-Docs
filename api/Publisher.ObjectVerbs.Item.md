@@ -21,7 +21,7 @@ Returns an individual object in a specified collection.
 
 _expression_.**Item**(**_Index_**)
 
-_expression_ A variable that represents an  **ObjectVerbs** object.
+_expression_ A variable that represents an **[ObjectVerbs](Publisher.ObjectVerbs.md)** object.
 
 
 ## Parameters

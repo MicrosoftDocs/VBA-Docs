@@ -21,7 +21,7 @@ Returns or sets a  **PbTextDirection** constant indicating the direction in whic
 
 _expression_.**TextDirection**
 
-_expression_ A variable that represents a  **ParagraphFormat** object.
+_expression_ A variable that represents a **[ParagraphFormat](Publisher.ParagraphFormat.md)** object.
 
 
 ## Return value

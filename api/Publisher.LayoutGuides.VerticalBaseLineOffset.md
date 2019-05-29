@@ -21,7 +21,7 @@ Returns a  **Single** that represents the vertical baseline offset of the specif
 
 _expression_.**VerticalBaseLineOffset**
 
-_expression_ A variable that represents a  **LayoutGuides** object.
+_expression_ A variable that represents a **[LayoutGuides](Publisher.LayoutGuides.md)** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns or sets a  **[ColorFormat](Publisher.ColorFormat.md)** object that repre
 
 _expression_.**FontColor**
 
-_expression_ A variable that represents a  **DropCap** object.
+_expression_ A variable that represents a **[DropCap](Publisher.DropCap.md)** object.
 
 
 ## Return value

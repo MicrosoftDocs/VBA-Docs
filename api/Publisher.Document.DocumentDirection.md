@@ -21,7 +21,7 @@ Returns or sets a  **PbDirectionType** constant that indicates whether text in t
 
 _expression_.**DocumentDirection**
 
-_expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a **[Document](Publisher.Document.md)** object.
 
 
 ## Return value

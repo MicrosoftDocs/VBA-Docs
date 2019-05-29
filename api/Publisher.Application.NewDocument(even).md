@@ -21,7 +21,7 @@ Occurs when a new publication is created.
 
 _expression_.**NewDocument**(**_Doc_**, )
 
-_expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters

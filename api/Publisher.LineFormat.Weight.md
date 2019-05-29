@@ -21,7 +21,7 @@ Returns or sets a  **Variant** indicating the thickness of the specified line or
 
 _expression_.**Weight**
 
-_expression_ A variable that represents a  **LineFormat** object.
+_expression_ A variable that represents a **[LineFormat](Publisher.LineFormat.md)** object.
 
 
 ## Remarks

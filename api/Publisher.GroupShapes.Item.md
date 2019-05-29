@@ -21,7 +21,7 @@ Returns an individual object in a specified collection.
 
 _expression_.**Item**(**_Index_**)
 
-_expression_ A variable that represents a  **GroupShapes** object.
+_expression_ A variable that represents a **[GroupShapes](Publisher.GroupShapes.md)** object.
 
 
 ## Parameters

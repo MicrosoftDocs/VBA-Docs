@@ -21,7 +21,7 @@ Occurs when a user performs address verification by clicking  **Validate** in th
 
 _expression_.**MailMergeDataSourceValidate**(**_Doc_**,  **_Handled_**)
 
-_expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters

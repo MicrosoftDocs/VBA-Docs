@@ -19,7 +19,7 @@ localization_priority: Normal
 
 _expression_.**Visible**
 
-_expression_ A variable that represents a  **GlowFormat** object.
+_expression_ A variable that represents a **[GlowFormat](Publisher.GlowFormat.md)** object.
 
 
 ## Return value

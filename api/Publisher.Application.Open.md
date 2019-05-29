@@ -21,7 +21,7 @@ Returns a  **[Document](Publisher.Document.md)** object that represents the newl
 
 _expression_.**Open** (_FileName_, _ReadOnly_, _AddToRecentFiles_, _SaveChanges_)
 
-_expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Searches the contents of the specified mail merge data source for text in a part
 
 _expression_.**FindRecord**(**_FindText_**,  **_Field_**)
 
-_expression_ A variable that represents a  **MailMergeDataSource** object.
+_expression_ A variable that represents a **[MailMergeDataSource](Publisher.MailMergeDataSource.md)** object.
 
 
 ## Parameters

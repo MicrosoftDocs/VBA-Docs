@@ -19,7 +19,7 @@ Returns the gradient variant for the specified line as an integer value, usually
 
 _expression_.**GradientVariant**
 
-_expression_ A variable that represents a  **LineFormat** object.
+_expression_ A variable that represents a **[LineFormat](Publisher.LineFormat.md)** object.
 
 
 ## Return value

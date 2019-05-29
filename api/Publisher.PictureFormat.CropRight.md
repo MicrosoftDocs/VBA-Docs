@@ -21,7 +21,7 @@ Returns or sets a  **Variant** indicating the amount by which the right edge of 
 
 _expression_.**CropRight**
 
-_expression_ A variable that represents a  **PictureFormat** object.
+_expression_ A variable that represents a **[PictureFormat](Publisher.PictureFormat.md)** object.
 
 
 ## Return value

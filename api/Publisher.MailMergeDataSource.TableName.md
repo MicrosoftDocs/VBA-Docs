@@ -21,7 +21,7 @@ Returns a  **String** that represents the name of the table within the data sour
 
 _expression_.**TableName**
 
-_expression_ A variable that represents a  **MailMergeDataSource** object.
+_expression_ A variable that represents a **[MailMergeDataSource](Publisher.MailMergeDataSource.md)** object.
 
 
 ## Return value

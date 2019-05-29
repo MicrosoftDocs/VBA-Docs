@@ -21,7 +21,7 @@ Saves the specified publication with a new name or format.
 
 _expression_.**SaveAs**(**_FileName_**,  **_Format_**,  **_AddToRecentFiles_**)
 
-_expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a **[Document](Publisher.Document.md)** object.
 
 
 ## Parameters

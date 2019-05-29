@@ -21,7 +21,7 @@ Generates a webpage preview of the specified publication in Internet Explorer.
 
 _expression_.**WebPagePreview**
 
-_expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a **[Document](Publisher.Document.md)** object.
 
 
 ## Remarks

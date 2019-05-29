@@ -21,7 +21,7 @@ Occurs when the application window is deactivated.
 
 _expression_.**WindowDeactivate**(**_Wn_**, )
 
-_expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters

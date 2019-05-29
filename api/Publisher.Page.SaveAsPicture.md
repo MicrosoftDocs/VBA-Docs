@@ -21,7 +21,7 @@ Saves a page as a picture file.
 
 _expression_.**SaveAsPicture**(**_FileName_**,  **_pbResolution_**)
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **[Page](Publisher.Page.md)** object.
 
 
 ## Parameters

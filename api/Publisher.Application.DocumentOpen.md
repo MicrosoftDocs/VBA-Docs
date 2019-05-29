@@ -21,7 +21,7 @@ Occurs when opening a document.
 
 _expression_.**DocumentOpen**(**_Doc_**)
 
-_expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters

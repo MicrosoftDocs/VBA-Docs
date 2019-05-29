@@ -21,7 +21,7 @@ Returns a  **Variant** that represents the distance (in points) between the left
 
 _expression_.**LeftMargin**
 
-_expression_ A variable that represents a  **PageSetup** object.
+_expression_ A variable that represents a **[PageSetup](Publisher.PageSetup.md)** object.
 
 
 ## Return value

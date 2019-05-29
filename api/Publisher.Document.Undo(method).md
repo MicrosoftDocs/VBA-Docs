@@ -21,7 +21,7 @@ Undoes the last action or a specified number of actions. Corresponds to the list
 
 _expression_.**Undo**(**_Count_**)
 
-_expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a **[Document](Publisher.Document.md)** object.
 
 
 ## Parameters

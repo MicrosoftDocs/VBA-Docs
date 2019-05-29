@@ -21,7 +21,7 @@ Returns an individual object in a specified collection.
 
 _expression_.**Item**(**_Index_**)
 
-_expression_ A variable that represents a  **Fields** object.
+_expression_ A variable that represents a **[Fields](Publisher.Fields.md)** object.
 
 
 ## Parameters
@@ -39,7 +39,7 @@ Field
 
 ## Example
 
-This example returns the first field from a  **Fields** object.
+This example returns the first field from a **[Fields](Publisher.Fields.md)** object.
 
 
 ```vb
