@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.SetBackgroundPicture
 ms.assetid: 5cff4730-24ba-6147-76c9-e1f9eb970989
-ms.date: 06/08/2017
+ms.date: 05/30/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The name of the graphic file.|
@@ -36,15 +34,10 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 This example sets the background graphic for worksheet one.
 
-
 ```vb
 Worksheets(1).SetBackgroundPicture "c:\graphics\watermark.gif"
 ```
 
 
-## See also
-
-
-[Worksheet Object](Excel.Worksheet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

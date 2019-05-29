@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.StandardWidth
 ms.assetid: 6792ce79-0a73-fcbd-ea52-7d7aee7b9932
-ms.date: 06/08/2017
+ms.date: 05/30/2019
 localization_priority: Normal
 ---
 
 
 # Worksheet.StandardWidth property (Excel)
 
-Returns or sets the standard (default) width of all the columns on the worksheet. Read/write  **Double**.
+Returns or sets the standard (default) width of all the columns on the worksheet. Read/write **Double**.
 
 
 ## Syntax
@@ -33,16 +33,11 @@ One unit of column width is equal to the width of one character in the Normal st
 
 This example sets the width of column one on Sheet1 to the standard width.
 
-
 ```vb
 Worksheets("Sheet1").Columns(1).ColumnWidth = _ 
  Worksheets("Sheet1").StandardWidth
 ```
 
 
-## See also
-
-
-[Worksheet Object](Excel.Worksheet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.ShowDataForm
 ms.assetid: 587a5446-d97e-51d1-d1d9-f5113f8afc0f
-ms.date: 06/08/2017
+ms.date: 05/30/2019
 localization_priority: Normal
 ---
 
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 ## Remarks
 
-The macro pauses while you are using the data form. When you close the data form, the macro resumes at the line following the  **ShowDataForm** method.
+The macro pauses while you are using the data form. When you close the data form, the macro resumes at the line following the **ShowDataForm** method.
 
 This method runs the custom data form, if one exists.
 
@@ -35,15 +35,10 @@ This method runs the custom data form, if one exists.
 
 This example displays the data form for Sheet1.
 
-
 ```vb
 Worksheets(1).ShowDataForm
 ```
 
 
-## See also
-
-
-[Worksheet Object](Excel.Worksheet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
