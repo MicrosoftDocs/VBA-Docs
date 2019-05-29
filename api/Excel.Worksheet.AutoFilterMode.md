@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.AutoFilterMode
 ms.assetid: 63f33ea5-c9a5-0096-0191-1590cda9d0e1
-ms.date: 06/08/2017
+ms.date: 05/30/2019
 localization_priority: Normal
 ---
 
 
 # Worksheet.AutoFilterMode property (Excel)
 
- **True** if the AutoFilter drop-down arrows are currently displayed on the sheet. This property is independent of the **FilterMode** property. Read/write **Boolean**.
+**True** if the AutoFilter drop-down arrows are currently displayed on the sheet. This property is independent of the **FilterMode** property. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 ## Remarks
 
-This property returns  **True** if the drop-down arrows are currently displayed. You can set this property to **False** to remove the arrows, but you cannot set it to **True**. Use the **[AutoFilter](Excel.Worksheet.AutoFilter.md)** method to filter a list and display the drop-down arrows.
+This property returns **True** if the drop-down arrows are currently displayed. You can set this property to **False** to remove the arrows, but you cannot set it to **True**. Use the **[AutoFilter](Excel.Worksheet.AutoFilter.md)** method to filter a list and display the drop-down arrows.
 
 
 ## Example
 
-This example displays the current status of the  **AutoFilterMode** property on Sheet1.
-
+This example displays the current status of the **AutoFilterMode** property on Sheet1.
 
 ```vb
 If Worksheets("Sheet1").AutoFilterMode Then 
@@ -44,9 +43,5 @@ MsgBox "AutoFilterMode is " & isOn
 ```
 
 
-## See also
-
-
-[Worksheet Object](Excel.Worksheet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -4,7 +4,7 @@ keywords: vbaxl10.chm502089
 f1_keywords:
 - vbaxl10.chm502089
 ms.assetid: 19ea840c-8156-4d9b-8e82-00a687dbc2dc
-ms.date: 06/08/2017
+ms.date: 05/30/2019
 ms.prod: excel
 localization_priority: Normal
 ---
@@ -27,9 +27,6 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 None
 
 
-## See also
 
-
-[Worksheet Object](Excel.Worksheet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

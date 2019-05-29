@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.BeforeRightClick
 ms.assetid: 0263dd09-1648-d3c4-007e-15ef7b82092a
-ms.date: 06/08/2017
+ms.date: 05/30/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Target_|Required| **Range**|The cell nearest to the mouse pointer when the right-click occurs.|
@@ -41,7 +39,6 @@ Like other worksheet events, this event doesn't occur if you right-click while t
 ## Example
 
 This example adds a new menu item to the shortcut menu for cells B1:B10.
-
 
 ```vb
 Private Sub Worksheet_BeforeRightClick(ByVal Target As Range, _ 
@@ -64,9 +61,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Worksheet Object](Excel.Worksheet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
