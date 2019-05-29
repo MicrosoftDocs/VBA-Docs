@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.PivotTableUpdate
 ms.assetid: 66186c97-6855-b360-a6c0-56da617d24a6
-ms.date: 06/08/2017
+ms.date: 05/30/2019
 localization_priority: Normal
 ---
 
@@ -32,13 +32,12 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 ## Return value
 
-Nothing
+**Nothing**
 
 
 ## Example
 
-This example displays a message stating that the PivotTable report has been updated. This example assumes you have declared an object of type  **Worksheet** with events in a class module.
-
+This example displays a message stating that the PivotTable report has been updated. This example assumes that you have declared an object of type **Worksheet** with events in a class module.
 
 ```vb
 Private Sub Worksheet_PivotTableUpdate(ByVal Target As PivotTable) 
@@ -49,9 +48,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[Worksheet Object](Excel.Worksheet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

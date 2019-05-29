@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextFrame.Next property (Word)
 
-Returns a  **TextFrame** object that represents the next text frame in a collection of shapes. Read-only.
+Returns a **TextFrame** object that represents the next text frame in a collection of shapes. Read-only.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Next**
 _expression_ A variable that represents a **[TextFrame](Word.TextFrame.md)** object.
 
 
-## See also
 
-
-[TextFrame Object](Word.TextFrame.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # Pane.Next property (Word)
 
-Returns a  **Pane** object that represents the next document pane in the collection. Read-only.
+Returns a **Pane** object that represents the next document pane in the collection. Read-only.
 
 
 ## Syntax
 
 _expression_.**Next**
 
-_expression_ A variable that represents a '[Pane](Word.Pane.md)' object.
+_expression_ A variable that represents a **[Pane](Word.Pane.md)** object.
 
 
-## See also
 
-
-[Pane Object](Word.Pane.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

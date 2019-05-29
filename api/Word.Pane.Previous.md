@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # Pane.Previous property (Word)
 
-Returns a  **Pane** object that represents the previous document pane in the collection. Read-only.
+Returns a **Pane** object that represents the previous document pane in the collection. Read-only.
 
 
 ## Syntax
 
 _expression_.**Previous**
 
-_expression_ A variable that represents a '[Pane](Word.Pane.md)' object.
+_expression_ A variable that represents a **[Pane](Word.Pane.md)** object.
 
 
-## See also
 
-
-[Pane Object](Word.Pane.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

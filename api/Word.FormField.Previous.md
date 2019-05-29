@@ -21,13 +21,12 @@ Returns the previous form field in the collection. Read-only.
 
 _expression_.**Previous**
 
-_expression_ A variable that represents a '[FormField](Word.FormField.md)' object.
+_expression_ A variable that represents a **[FormField](Word.FormField.md)** object.
 
 
 ## Example
 
 This example displays the field code of the second-to-last form field in the active document.
-
 
 ```vb
 Set aField = ActiveDocument _ 
@@ -36,9 +35,6 @@ MsgBox "Form field code = " & aField.Code
 ```
 
 
-## See also
 
-
-[FormField Object](Word.FormField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

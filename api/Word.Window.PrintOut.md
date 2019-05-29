@@ -21,7 +21,7 @@ Prints all or part of the document displayed in the specified window.
 
 _expression_.**PrintOut** (_Background_, _Append_, _Range_, _OutputFileName_, _From_, _To_, _Item_, _Copies_, _Pages_, _PageType_, _PrintToFile_, _Collate_, _FileName_, _ActivePrinterMacGX_, _ManualDuplexPrint_, _PrintZoomColumn_, _PrintZoomRow_, _PrintZoomPaperWidth_, _PrintZoomPaperHeight_)
 
-_expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
+_expression_ Required. A variable that represents a **[Window](Word.Window.md)** object.
 
 
 ## Parameters

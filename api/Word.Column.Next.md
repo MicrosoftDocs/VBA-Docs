@@ -21,13 +21,12 @@ Returns the next column in a collection of table columns. Read-only.
 
 _expression_.**Next**
 
-_expression_ A variable that represents a '[Column](Word.Column.md)' object.
+_expression_ A variable that represents a **[Column](Word.Column.md)** object.
 
 
 ## Example
 
 If the selection is in a table, this example selects the contents of the next table column.
-
 
 ```vb
 If Selection.Information(wdWithInTable) = True Then 
@@ -36,9 +35,5 @@ End If
 ```
 
 
-## See also
-
-
-[Column Object](Word.Column.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

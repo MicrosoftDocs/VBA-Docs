@@ -40,10 +40,10 @@ _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** 
 | _Reserved_|Optional| **Variant**|Not used by Excel.|
 | _BackgroundQuery_|Optional| **Variant**| **True** to have Excel perform queries for the report asynchronously (in the background). The default value is **False**.|
 | _OptimizeCache_|Optional| **Variant**| **True** to optimize the PivotTable cache when it's constructed. The default value is **False**.|
-| _PageFieldOrder_|Optional| **Variant**|The order in which page fields are added to the PivotTable report's layout. Can be one of the following **[XlOrder](excel.xlorder.md)** constants: **xlDownThenOver** or **xlOverThenDown**. The default value is **xlDownThenOver**.|
+| _PageFieldOrder_|Optional| **Variant**|The order in which page fields are added to the PivotTable report's layout. Can be one of the following **[XlOrder](excel.xlorder.md)** constants: **xlDownThenOver** (default) or **xlOverThenDown**. |
 | _PageFieldWrapCount_|Optional| **Variant**|The number of page fields in each column or row in the PivotTable report. The default value is 0 (zero).|
 | _ReadData_|Optional| **Variant**| **True** to create a PivotTable cache that contains all records from the external database; this cache can be very large. If _ReadData_ is **False**, you can set some of the fields as server-based page fields before the data is actually read.|
-| _Connection_|Optional| **Variant**|A string that contains ODBC settings that allow Excel to connect to an ODBC data source. The connection string has the form `"ODBC;<connection string>"`. This argument overrides any previous setting for the **PivotCache** object's **[Connection](Excel.PivotCache.Connection.md)** property.|
+| _Connection_|Optional| **Variant**|A string that contains ODBC settings that allow Excel to connect to an ODBC data source. The connection string has the form `ODBC;<connection string>`. This argument overrides any previous setting for the **PivotCache** object's **[Connection](Excel.PivotCache.Connection.md)** property.|
 
 
 

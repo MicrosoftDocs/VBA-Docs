@@ -14,20 +14,19 @@ localization_priority: Normal
 
 # Row.Previous property (Word)
 
-Returns a  **Row** object that represents the table row that is previous to the specified row. Read-only.
+Returns a **Row** object that represents the table row that is previous to the specified row. Read-only.
 
 
 ## Syntax
 
 _expression_.**Previous**
 
-_expression_ A variable that represents a '[Row](Word.Row.md)' object.
+_expression_ A variable that represents a **[Row](Word.Row.md)** object.
 
 
 ## Example
 
 If the selection is in a table, this example selects the contents of the previous row.
-
 
 ```vb
 If Selection.Information(wdWithInTable) = True Then 
@@ -36,9 +35,6 @@ End If
 ```
 
 
-## See also
 
-
-[Row Object](Word.Row.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,13 +21,12 @@ Returns the previous object in the collection. Read-only.
 
 _expression_.**Previous**
 
-_expression_ A variable that represents a '[Field](Word.Field.md)' object.
+_expression_ A variable that represents a **[Field](Word.Field.md)** object.
 
 
 ## Example
 
 This example displays the field code of the second-to-last field in the active document.
-
 
 ```vb
 Set aField = ActiveDocument _ 
@@ -36,9 +35,6 @@ MsgBox "Field code = " & aField.Code
 ```
 
 
-## See also
 
-
-[Field Object](Word.Field.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

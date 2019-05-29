@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.Previous property (Excel)
 
-Returns a **[Worksheet](Excel.Worksheet.md)** object that represents the next sheet.
+Returns a **[Worksheet](Excel.Worksheet.md)** object that represents the previous sheet.
 
 
 ## Syntax

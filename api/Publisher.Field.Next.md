@@ -14,25 +14,24 @@ localization_priority: Normal
 
 # Field.Next property (Publisher)
 
-Returns a  **[Field](Publisher.Field.md)** object that represents the next field in a text range.
+Returns a **Field** object that represents the next field in a text range.
 
 
 ## Syntax
 
 _expression_.**Next**
 
-_expression_ A variable that represents a  **Field** object.
+_expression_ A variable that represents a **[Field](Publisher.Field.md)** object.
 
 
 ## Return value
 
-Field
+**Field**
 
 
 ## Example
 
 This example makes the field next to the first field in the specified text range bold. This assumes that there are at least two fields in the specified text range.
-
 
 ```vb
 Sub GoToNextField() 
@@ -40,5 +39,6 @@ Sub GoToNextField()
  .Fields(1).Next.TextRange.Font.Bold = msoTrue 
 End Sub
 ```
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

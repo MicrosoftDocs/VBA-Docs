@@ -21,12 +21,9 @@ Returns the next tabstop in the collection. Read-only.
 
 _expression_.**Next**
 
-_expression_ A variable that represents a '[TabStop](Word.TabStop.md)' object.
+_expression_ A variable that represents a **[TabStop](Word.TabStop.md)** object.
 
 
-## See also
 
-
-[TabStop Object](Word.TabStop.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

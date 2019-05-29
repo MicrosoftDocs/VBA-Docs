@@ -21,7 +21,7 @@ Returns the screen coordinates of the specified range or shape.
 
 _expression_. `GetPoint`( `_ScreenPixelsLeft_` , `_ScreenPixelsTop_` , `_ScreenPixelsWidth_` , `_ScreenPixelsHeight_` , `_obj_` )
 
-_expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
+_expression_ Required. A variable that represents a **[Window](Word.Window.md)** object.
 
 
 ## Parameters

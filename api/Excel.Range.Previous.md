@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Range.Previous property (Excel)
 
-Returns a **Range** object that represents the next cell.
+Returns a **Range** object that represents the previous cell.
 
 
 ## Syntax

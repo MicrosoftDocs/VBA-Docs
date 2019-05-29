@@ -21,7 +21,7 @@ Shows or hides the ribbon.
 
 _expression_. `ToggleRibbon`
 
- _expression_ An expression that returns a '[Window](Word.Window.md)' object.
+ _expression_ An expression that returns a **[Window](Word.Window.md)** object.
 
 
 ## Remarks

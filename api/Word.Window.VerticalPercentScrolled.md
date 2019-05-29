@@ -21,7 +21,7 @@ Returns or sets the vertical scroll position as a percentage of the document len
 
 _expression_. `VerticalPercentScrolled`
 
-_expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
+_expression_ Required. A variable that represents a **[Window](Word.Window.md)** object.
 
 
 ## Example

@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Window.Caption property (Word)
 
-Returns or sets the caption text for the window that is displayed in the title bar of the document or application window. Read/write  **String**.
+Returns or sets the caption text for the window that is displayed in the title bar of the document or application window. Read/write **String**.
 
 
 ## Syntax
 
 _expression_.**Caption**
 
-_expression_ A variable that represents a '[Window](Word.Window.md)' object.
+_expression_ A variable that represents a **[Window](Word.Window.md)** object.
 
 
 ## Remarks
@@ -31,8 +31,7 @@ To change the caption of the application window to the default text, set this pr
 
 ## Example
 
-This example displays the caption of each window in the  **Windows** collection.
-
+This example displays the caption of each window in the **Windows** collection.
 
 ```vb
 Count = 1 
@@ -43,37 +42,33 @@ For Each win In Windows
 Next win
 ```
 
+<br/>
+
 This example resets the caption of the application window.
-
-
-
 
 ```vb
 Application.Caption = ""
 ```
 
+<br/>
+
 This example sets the caption of the active window to the active document name.
-
-
-
 
 ```vb
 ActiveDocument.ActiveWindow.Caption = ActiveDocument.FullName
 ```
 
+<br/>
+
 This example changes the caption of the Word application window to include the user name.
-
-
-
 
 ```vb
 Application.Caption = UserName & "'s copy of Word"
 ```
 
-This example inserts a Table caption and then changes the caption of the first table of figures to "Table."
+<br/>
 
-
-
+This example inserts a Table caption and then changes the caption of the first table of figures to Table.
 
 ```vb
 Selection.Collapse Direction:=wdCollapseStart 
@@ -84,9 +79,5 @@ End If
 ```
 
 
-## See also
-
-
-[Window Object](Word.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
