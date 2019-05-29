@@ -21,7 +21,7 @@ Returns a  **Long** that represents the type of a shape, range of shapes, or pro
 
 _expression_.**ID**
 
-_expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object.
 
 
 ## Example

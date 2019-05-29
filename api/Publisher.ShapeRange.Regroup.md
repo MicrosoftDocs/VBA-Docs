@@ -21,7 +21,7 @@ Regroups the group that the specified shape range belonged to previously. Return
 
 _expression_.**Regroup**
 
-_expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md)** object.
 
 
 ## Return value

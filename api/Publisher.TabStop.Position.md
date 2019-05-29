@@ -21,7 +21,7 @@ Returns or sets a  **Variant** representing the font position relative to the ba
 
 _expression_.**Position**
 
-_expression_ A variable that represents a  **TabStop** object.
+_expression_ A variable that represents a **[TabStop](Publisher.TabStop.md)** object.
 
 
 ## Example

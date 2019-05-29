@@ -21,7 +21,7 @@ Pastes the text on the Clipboard into the specified text range, and returns a  *
 
 _expression_.**Paste**
 
-_expression_ A variable that represents a  **TextRange** object.
+_expression_ A variable that represents a **[TextRange](Publisher.TextRange.md)** object.
 
 
 ## Return value

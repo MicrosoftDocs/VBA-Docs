@@ -21,7 +21,7 @@ Saves a range of one or more shapes as a picture file.
 
 _expression_.**SaveAsPicture**(**_FileName_**,  **_pbResolution_**)
 
-_expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md)** object.
 
 
 ## Parameters

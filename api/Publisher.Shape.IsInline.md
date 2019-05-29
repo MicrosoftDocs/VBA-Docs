@@ -21,7 +21,7 @@ Returns an  **MsoTriState** constant that specifies whether a shape is inline (c
 
 _expression_.**IsInline**
 
-_expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object.
 
 
 ## Example

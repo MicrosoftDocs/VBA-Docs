@@ -21,7 +21,7 @@ Returns or sets a  **PbInlineAlignment** constant that indicates whether an inli
 
 _expression_.**InlineAlignment**
 
-_expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object.
 
 
 ## Remarks

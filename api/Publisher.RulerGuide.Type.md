@@ -21,7 +21,7 @@ Returns or sets a  **PbRulerGuideType** constant that represents the ruler guide
 
 _expression_.**Type**
 
-_expression_ A variable that represents a  **RulerGuide** object.
+_expression_ A variable that represents a **[RulerGuide](Publisher.RulerGuide.md)** object.
 
 
 ## Remarks

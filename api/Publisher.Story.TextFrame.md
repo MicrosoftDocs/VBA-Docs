@@ -21,7 +21,7 @@ Returns a  **[TextFrame](Publisher.TextFrame.md)** object that represents the te
 
 _expression_.**TextFrame**
 
-_expression_ A variable that represents a  **Story** object.
+_expression_ A variable that represents a **[Story](Publisher.Story.md)** object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Moves a given shape into the text flow defined by  **[TextRange Object](Publishe
 
 _expression_.**MoveIntoTextFlow**(**_Range_**)
 
-_expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md)** object.
 
 
 ## Parameters

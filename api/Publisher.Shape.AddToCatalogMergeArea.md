@@ -21,7 +21,7 @@ Adds the specified shape or shapes to the publication page's catalog merge area.
 
 _expression_.**AddToCatalogMergeArea**
 
-_expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object.
 
 
 ## Return value

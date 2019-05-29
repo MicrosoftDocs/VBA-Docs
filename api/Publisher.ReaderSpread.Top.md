@@ -21,6 +21,6 @@ Returns the a  **Single** that represents the distance (in points) from the top 
 
 _expression_.**Top**
 
-_expression_ A variable that represents a  **ReaderSpread** object.
+_expression_ A variable that represents a **[ReaderSpread](Publisher.ReaderSpread.md)** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

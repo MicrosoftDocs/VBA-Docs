@@ -21,7 +21,7 @@ Aligns all the shapes in the specified  **ShapeRange** object.
 
 _expression_.**Align**(**_AlignCmd_**,  **_RelativeTo_**)
 
-_expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md)** object.
 
 
 ## Parameters

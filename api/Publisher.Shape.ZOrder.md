@@ -21,7 +21,7 @@ Moves the specified shape in front of or behind other shapes in the collection (
 
 _expression_.**ZOrder**(**_ZOrderCmd_**)
 
-_expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object.
 
 
 ## Parameters

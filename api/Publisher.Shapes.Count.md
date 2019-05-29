@@ -21,7 +21,7 @@ Returns a  **Long** that represents the number of items in the specified collect
 
 _expression_.**Count**
 
-_expression_ A variable that represents a  **Shapes** object.
+_expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** object.
 
 
 ## Example

@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**ShowHeaderFooterOnFirstPage**
 
-_expression_ A variable that represents a  **Section** object.
+_expression_ A variable that represents a **[Section](Publisher.Section.md)** object.
 
 
 ## Return value

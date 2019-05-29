@@ -21,7 +21,7 @@ Returns a  **Single** that represents the height, in [points](../language/glossa
 
 _expression_.**Height**
 
-_expression_ A variable that represents a  **ReaderSpread** object.
+_expression_ A variable that represents a **[ReaderSpread](Publisher.ReaderSpread.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns a  **[Font](Publisher.Font.md)** object that represents the font name mo
 
 _expression_.**MajorityFont**
 
-_expression_ A variable that represents a  **TextRange** object.
+_expression_ A variable that represents a **[TextRange](Publisher.TextRange.md)** object.
 
 
 ## Return value

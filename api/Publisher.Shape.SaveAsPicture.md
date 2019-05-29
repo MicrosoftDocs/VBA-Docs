@@ -21,7 +21,7 @@ Saves a single shape as a picture file.
 
 _expression_.**SaveAsPicture**(**_FileName_**,  **_pbResolution_**)
 
-_expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object.
 
 
 ## Parameters

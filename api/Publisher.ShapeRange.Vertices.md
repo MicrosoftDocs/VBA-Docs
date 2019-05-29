@@ -21,7 +21,7 @@ Returns the coordinates of the specified freeform drawing's vertices (and contro
 
 _expression_.**Vertices**
 
-_expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md)** object.
 
 
 ## Remarks

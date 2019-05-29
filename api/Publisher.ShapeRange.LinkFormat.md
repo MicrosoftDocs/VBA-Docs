@@ -21,7 +21,7 @@ Returns a  [LinkFormat](Publisher.LinkFormat.md)object that contains the propert
 
 _expression_.**LinkFormat**
 
-_expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md)** object.
 
 
 ## Example

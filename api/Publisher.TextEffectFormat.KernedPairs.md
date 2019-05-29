@@ -21,7 +21,7 @@ Sets or returns an  **MsoTriState** constant that indicates whether character pa
 
 _expression_.**KernedPairs**
 
-_expression_ A variable that represents a  **TextEffectFormat** object.
+_expression_ A variable that represents a **[TextEffectFormat](Publisher.TextEffectFormat.md)** object.
 
 
 ## Return value

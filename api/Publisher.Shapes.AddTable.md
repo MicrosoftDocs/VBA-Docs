@@ -21,7 +21,7 @@ Adds a new  **Shape** object representing a table to the specified **Shapes** co
 
 _expression_.**AddTable**(**_NumRows_**,  **_NumColumns_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_FixedSize_**,  **_Direction_**)
 
-_expression_ A variable that represents a  **Shapes** object.
+_expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** object.
 
 
 ## Parameters

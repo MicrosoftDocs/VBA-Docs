@@ -21,7 +21,7 @@ Returns or sets a  **Variant** indicating the depth of the shape's extrusion. Re
 
 _expression_.**Depth**
 
-_expression_ A variable that represents a  **ThreeDFormat** object.
+_expression_ A variable that represents a **[ThreeDFormat](Publisher.ThreeDFormat.md)** object.
 
 
 ## Return value

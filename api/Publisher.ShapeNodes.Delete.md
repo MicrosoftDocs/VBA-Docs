@@ -21,7 +21,7 @@ Deletes the specified shape node object.
 
 _expression_.**Delete**(**_Index_**)
 
-_expression_ A variable that represents a  **ShapeNodes** object.
+_expression_ A variable that represents a **[ShapeNodes](Publisher.ShapeNodes.md)** object.
 
 
 ## Parameters

@@ -19,7 +19,7 @@ Returns or sets a  **Single** that represents the depth of the top bevel. Read/w
 
 _expression_.**BevelTopInset**
 
-_expression_ A variable that represents a  **ThreeDFormat** object.
+_expression_ A variable that represents a **[ThreeDFormat](Publisher.ThreeDFormat.md)** object.
 
 
 ## Return value

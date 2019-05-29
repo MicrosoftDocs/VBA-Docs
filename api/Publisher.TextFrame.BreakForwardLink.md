@@ -21,7 +21,7 @@ Breaks the forward link for the specified text frame, if such a link exists.
 
 _expression_.**BreakForwardLink**
 
-_expression_ A variable that represents a  **TextFrame** object.
+_expression_ A variable that represents a **[TextFrame](Publisher.TextFrame.md)** object.
 
 
 ## Remarks

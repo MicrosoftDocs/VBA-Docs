@@ -21,7 +21,7 @@ Returns a  **String** that represents the name of a hidden Web field for a Web c
 
 _expression_.**Name**(**_Index_**)
 
-_expression_ A variable that represents a  **WebHiddenFields** object.
+_expression_ A variable that represents a **[WebHiddenFields](Publisher.WebHiddenFields.md)** object.
 
 
 ## Parameters

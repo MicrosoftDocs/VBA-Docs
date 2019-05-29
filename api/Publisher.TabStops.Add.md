@@ -21,7 +21,7 @@ Adds a new tab stop to the specified  **TabStops** collection.
 
 _expression_.**Add** (_Position_, _Alignment_, _Leader_)
 
-_expression_ A variable that represents a  **TabStops** object.
+_expression_ A variable that represents a **[TabStops](Publisher.TabStops.md)** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Inserts a bar code field at the end of the text range represented by the parent 
 
 _expression_.**InsertBarcode**
 
-_expression_ A variable that represents a  **TextRange** object.
+_expression_ A variable that represents a **[TextRange](Publisher.TextRange.md)** object.
 
 
 ## Return value

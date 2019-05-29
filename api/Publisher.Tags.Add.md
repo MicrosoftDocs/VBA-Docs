@@ -21,7 +21,7 @@ Adds a new  **Tag** object to the specified **Tags** object and returns the new 
 
 _expression_.**Add** (_Name_, _Value_)
 
-_expression_ A variable that represents a  **Tags** object.
+_expression_ A variable that represents a **[Tags](Publisher.Tags.md)** object.
 
 
 ## Parameters

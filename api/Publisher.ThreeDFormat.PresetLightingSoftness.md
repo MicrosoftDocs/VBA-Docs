@@ -21,7 +21,7 @@ Returns or sets a  **MsoPresetLightingSoftness** constant that represents the in
 
 _expression_.**PresetLightingSoftness**
 
-_expression_ A variable that represents a  **ThreeDFormat** object.
+_expression_ A variable that represents a **[ThreeDFormat](Publisher.ThreeDFormat.md)** object.
 
 
 ## Return value

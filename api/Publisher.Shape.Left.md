@@ -21,7 +21,7 @@ Returns or sets a  **Variant** indicating the distance from the left edge of the
 
 _expression_.**Left**
 
-_expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Returns a  **[Tags](Publisher.Tags.md)** collection representing tags or custom 
 
 _expression_.**Tags**
 
-_expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object.
 
 
 ## Example

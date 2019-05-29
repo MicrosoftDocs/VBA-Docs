@@ -21,6 +21,6 @@ Removes the specified custom tab stop.
 
 _expression_.**Clear**
 
-_expression_ A variable that represents a  **TabStop** object.
+_expression_ A variable that represents a **[TabStop](Publisher.TabStop.md)** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,7 +21,7 @@ Returns or sets a  **[ColorFormat](Publisher.ColorFormat.md)** object representi
 
 _expression_.**ForeColor**
 
-_expression_ A variable that represents a  **ShadowFormat** object.
+_expression_ A variable that represents a **[ShadowFormat](Publisher.ShadowFormat.md)** object.
 
 
 ## Remarks

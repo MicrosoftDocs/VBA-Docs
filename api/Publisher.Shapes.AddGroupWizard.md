@@ -21,7 +21,7 @@ Adds a  **Shape** object representing a Design Gallery object to the publication
 
 _expression_.**AddGroupWizard**(**_Wizard_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_Design_**)
 
-_expression_ A variable that represents a  **Shapes** object.
+_expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** object.
 
 
 ## Parameters

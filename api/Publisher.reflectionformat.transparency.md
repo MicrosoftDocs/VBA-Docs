@@ -19,7 +19,7 @@ Returns or sets the degree of transparency for the reflection effect as a value 
 
 _expression_.**Transparency**
 
-_expression_ A variable that represents a  **ReflectionFormat** object.
+_expression_ A variable that represents a **[ReflectionFormat](Publisher.ReflectionFormat.md)** object.
 
 
 ## Return value

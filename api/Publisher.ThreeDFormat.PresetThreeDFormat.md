@@ -21,7 +21,7 @@ Returns an  **MsoPresetThreeDFormat** constant that represents the preset extrus
 
 _expression_.**PresetThreeDFormat**
 
-_expression_ A variable that represents a  **ThreeDFormat** object.
+_expression_ A variable that represents a **[ThreeDFormat](Publisher.ThreeDFormat.md)** object.
 
 
 ## Return value

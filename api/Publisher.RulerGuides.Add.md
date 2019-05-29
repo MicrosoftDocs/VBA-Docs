@@ -21,7 +21,7 @@ Adds a new ruler guide to the specified  **RulerGuides** collection.
 
 _expression_.**Add** (_Position_, _Type_)
 
-_expression_ A variable that represents a  **RulerGuides** object.
+_expression_ A variable that represents a **[RulerGuides](Publisher.RulerGuides.md)** object.
 
 
 ## Parameters

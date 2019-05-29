@@ -21,7 +21,7 @@ Sets or returns the page number that the specified section starts with. Read/wri
 
 _expression_.**PageNumberStart**
 
-_expression_ A variable that represents a  **Section** object.
+_expression_ A variable that represents a **[Section](Publisher.Section.md)** object.
 
 
 ## Return value

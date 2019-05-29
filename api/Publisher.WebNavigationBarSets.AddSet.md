@@ -21,7 +21,7 @@ Adds a new  **WebNavigationBarSet** object representing a Web navigation bar set
 
 _expression_.**AddSet**(**_Name_**,  **_Design_**,  **_AutoUpdate_**)
 
-_expression_ A variable that represents a  **WebNavigationBarSets** object.
+_expression_ A variable that represents a **[WebNavigationBarSets](Publisher.WebNavigationBarSets.md)** object.
 
 
 ## Parameters

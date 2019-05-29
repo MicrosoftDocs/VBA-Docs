@@ -21,7 +21,7 @@ Indicates whether the specified shape has been flipped around its horizontal axi
 
 _expression_.**HorizontalFlip**
 
-_expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md)** object.
 
 
 ## Remarks

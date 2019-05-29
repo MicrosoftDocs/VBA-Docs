@@ -21,7 +21,7 @@ Switches the text flow in the specified WordArt from horizontal to vertical, or 
 
 _expression_.**ToggleVerticalText**
 
-_expression_ A variable that represents a  **TextEffectFormat** object.
+_expression_ A variable that represents a **[TextEffectFormat](Publisher.TextEffectFormat.md)** object.
 
 
 ## Remarks

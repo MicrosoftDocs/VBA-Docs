@@ -21,7 +21,7 @@ Deletes the specified object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a  **RulerGuide** object.
+_expression_ A variable that represents a **[RulerGuide](Publisher.RulerGuide.md)** object.
 
 
 ## Remarks
