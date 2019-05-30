@@ -53,7 +53,7 @@ End With
 ActivePresentation.PrintOut
 ```
 
-Use  **Ranges** (index), where index is the print range index number, to return a single **PrintRange** object. The following example displays a message that indicates the starting and ending slide numbers for print range one in the active presentation.
+Use  **Ranges** (_index_), where _index_ is the print range index number, to return a single **PrintRange** object. The following example displays a message that indicates the starting and ending slide numbers for print range one in the active presentation.
 
 
 

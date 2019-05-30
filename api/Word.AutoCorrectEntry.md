@@ -19,7 +19,7 @@ Represents a single AutoCorrect entry. The  **AutoCorrectEntry** object is a mem
 
 ## Remarks
 
-Use  **[Entries](Word.AutoCorrect.Entries.md)** (index), where index is the AutoCorrect entry name or index number, to return a single **AutoCorrectEntry** object. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown under **Replace** in the **AutoCorrect** dialog box. The following example sets the value of the AutoCorrect entry named "teh."
+Use  **[Entries](Word.AutoCorrect.Entries.md)** (_index_), where _index_ is the AutoCorrect entry name or index number, to return a single **AutoCorrectEntry** object. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown under **Replace** in the **AutoCorrect** dialog box. The following example sets the value of the AutoCorrect entry named "teh."
 
 
 ```vb

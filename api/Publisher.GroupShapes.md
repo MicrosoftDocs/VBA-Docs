@@ -20,7 +20,7 @@ Represents the individual shapes within a grouped shape. Each shape is represent
 
 ## Example
 
-Use the  **[GroupItems](Publisher.Shape.GroupItems.md)** property to return a **GroupShapes** collection. Use **GroupItems** (index), where index is the number of the individual shape within the grouped shape, to return a single shape from the **GroupShapes** collection. The following example adds three triangles to the active document, groups them, sets a color for the entire group, and then changes the color for the third triangle only.
+Use the  **[GroupItems](Publisher.Shape.GroupItems.md)** property to return a **GroupShapes** collection. Use **GroupItems** (_index_), where _index_ is the number of the individual shape within the grouped shape, to return a single shape from the **GroupShapes** collection. The following example adds three triangles to the active document, groups them, sets a color for the entire group, and then changes the color for the third triangle only.
  
 
  
@@ -61,5 +61,11 @@ End Sub
 |[Application](Publisher.GroupShapes.Application.md)|
 |[Count](Publisher.GroupShapes.Count.md)|
 |[Parent](Publisher.GroupShapes.Parent.md)|
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

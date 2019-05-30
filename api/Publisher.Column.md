@@ -20,7 +20,7 @@ Represents a single table column. The  **Column** object is a member of the **[C
 
 ## Example
 
-Use  **Columns** (index), where index is the column number, to return a single **Column** object. The index number represents the position of the column in the **Columns** collection (counting from left to right). This example selects column three in the first shape in the active publication. This example assumes the first shape is a table and not another type of shape.
+Use  **Columns** (_index_), where _index_ is the column number, to return a single **Column** object. The index number represents the position of the column in the **Columns** collection (counting from left to right). This example selects column three in the first shape in the active publication. This example assumes the first shape is a table and not another type of shape.
  
 
  
@@ -81,5 +81,11 @@ End Sub
 |[Cells](Publisher.Column.Cells.md)|
 |[Parent](Publisher.Column.Parent.md)|
 |[Width](Publisher.Column.Width.md)|
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

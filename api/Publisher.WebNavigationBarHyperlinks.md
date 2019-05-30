@@ -74,4 +74,10 @@ MsgBox ActiveDocument.WebNavigationBarSets(1).Links.Item(1).TextToDisplay
 |[Count](Publisher.WebNavigationBarHyperlinks.Count.md)|
 |[Parent](Publisher.WebNavigationBarHyperlinks.Parent.md)|
 
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

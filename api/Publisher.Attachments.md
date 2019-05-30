@@ -101,4 +101,10 @@ End Sub
 |[Item](Publisher.Attachments.Item.md)|
 |[Parent](Publisher.Attachments.Parent.md)|
 
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

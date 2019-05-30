@@ -105,4 +105,10 @@ End Sub
 |[UseCharBasedFirstLineIndent](./Publisher.ParagraphFormat.UseCharBasedFirstLineIndent.md)|
 |[WidowControl](./Publisher.ParagraphFormat.WidowControl.md)|
 
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -70,4 +70,10 @@ End Sub
 |[Parent](Publisher.OLEFormat.Parent.md)|
 |[ProgId](Publisher.OLEFormat.ProgId.md)|
 
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

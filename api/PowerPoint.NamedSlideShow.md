@@ -24,7 +24,7 @@ The  **NamedSlideShow** object is a member of the **[NamedSlideShows](PowerPoint
 
 ## Example
 
-Use  **NamedSlideShows** (index), where index is the custom slide show name or index number, to return a single **NamedSlideShow** object. The following example deletes the custom slide show named "Quick Show."
+Use  **NamedSlideShows** (_index_), where _index_ is the custom slide show name or index number, to return a single **NamedSlideShow** object. The following example deletes the custom slide show named "Quick Show."
 
 
 ```vb

@@ -47,7 +47,8 @@ End With
 
 ## See also
 
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
- [PageSetup object (Publisher)](Publisher.PageSetup.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

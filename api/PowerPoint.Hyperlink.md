@@ -39,7 +39,7 @@ With ActivePresentation.Slides(1).Shapes(3) _
 End With
 ```
 
-A slide can contain more than one hyperlink. Each non-placeholder shape can have a hyperlink; the text within a shape can have its own hyperlink; and each individual character can have its own hyperlink. Use  **Hyperlinks** (index), where index is the hyperlink number, to return a single **Hyperlink** object. The following example adds the shape three mouse-click hyperlink to the Favorites folder.
+A slide can contain more than one hyperlink. Each non-placeholder shape can have a hyperlink; the text within a shape can have its own hyperlink; and each individual character can have its own hyperlink. Use  **Hyperlinks** (_index_), where _index_ is the hyperlink number, to return a single **Hyperlink** object. The following example adds the shape three mouse-click hyperlink to the Favorites folder.
 
 
 

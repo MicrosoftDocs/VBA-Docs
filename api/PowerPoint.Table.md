@@ -19,7 +19,7 @@ Represents a table shape on a slide. The  **Table** object is a member of the **
 
 ## Example
 
-Use  **Shapes** (index), where index is a number, to return a shape containing a table. Use the [HasTable](./PowerPoint.Shape.HasTable.md)property to see if a shape contains a table. This example walks through the shapes on slide one, checks to see if each shape has a table, and then sets the mouse click action for each table shape to advance to the next slide.
+Use  **Shapes** (_index_), where _index_ is a number, to return a shape containing a table. Use the [HasTable](./PowerPoint.Shape.HasTable.md)property to see if a shape contains a table. This example walks through the shapes on slide one, checks to see if each shape has a table, and then sets the mouse click action for each table shape to advance to the next slide.
 
 
 ```vb

@@ -33,7 +33,7 @@ Use the [Add](PowerPoint.Tags.Add.md) method to add a tag to an object. The foll
 ActivePresentation.Slides(1).Tags.Add "Region", "East"
 ```
 
-Use  **Tags** (index), where index is the name of a tag, to return a the tag value. The following example tests the value of the Region tag for all slides in the active presentation and hides any slides that don't pertain to the East Coast (denoted by the value "East").
+Use  **Tags** (_index_), where _index_ is the name of a tag, to return a the tag value. The following example tests the value of the Region tag for all slides in the active presentation and hides any slides that don't pertain to the East Coast (denoted by the value "East").
 
 
 

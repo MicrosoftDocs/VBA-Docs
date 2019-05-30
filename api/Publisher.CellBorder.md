@@ -61,4 +61,10 @@ cbTemp.Weight = 2
 |[Parent](Publisher.CellBorder.Parent.md)|
 |[Weight](Publisher.CellBorder.Weight.md)|
 
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

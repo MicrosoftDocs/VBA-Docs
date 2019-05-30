@@ -35,7 +35,7 @@ Represents an object in the drawing layer, such as an AutoShape, freeform, OLE o
 
 ## Example
 
-Use  **[Shapes](./Publisher.Shapes.md)** (index), where index is the name or the index number, to return a single **Shape** object. The following example horizontally flips shape one on the active document.
+Use  **[Shapes](./Publisher.Shapes.md)** (_index_), where _index_ is the name or the index number, to return a single **Shape** object. The following example horizontally flips shape one on the active document.
 
 
 ```vb
@@ -58,7 +58,7 @@ End Sub
 
 Each shape is assigned a default name when it is created. For example, if you add three different shapes to a document, they might be named "Rectangle 2," "TextBox 3," and "Oval 4." To give a shape a more meaningful name, set the  **Name** property of the shape.
 
-Use  **Selection.ShapeRange** (index), where index is the name or the index number, to return a **Shape** object that represents a shape within a selection. The following example sets the fill for the first shape in the selection, assuming that the selection contains at least one shape.
+Use  **Selection.ShapeRange** (_index_), where _index_ is the name or the index number, to return a **Shape** object that represents a shape within a selection. The following example sets the fill for the first shape in the selection, assuming that the selection contains at least one shape.
 
 
 
@@ -109,7 +109,7 @@ Sub AddNewShape()
 End Sub
 ```
 
-Use  **[GroupItems](./Publisher.Shape.GroupItems.md)** (index), where index is the shape name or the index number within the group, to return a **Shape** object that represents a single shape in a grouped shape. Use the **[Group](./Publisher.ShapeRange.Group.md)** or **[Regroup](./Publisher.ShapeRange.Regroup.md)** method to group a range of shapes and return a single **Shape** object that represents the newly formed group. After a group has been formed, you can work with the group the same way you work with any other shape. This example adds three shapes to the active publication, groups the shapes, and sets the fill color for each of the shapes in the group
+Use  **[GroupItems](./Publisher.Shape.GroupItems.md)** (_index_), where _index_ is the shape name or the index number within the group, to return a **Shape** object that represents a single shape in a grouped shape. Use the **[Group](./Publisher.ShapeRange.Group.md)** or **[Regroup](./Publisher.ShapeRange.Regroup.md)** method to group a range of shapes and return a single **Shape** object that represents the newly formed group. After a group has been formed, you can work with the group the same way you work with any other shape. This example adds three shapes to the active publication, groups the shapes, and sets the fill color for each of the shapes in the group
 
 
 
@@ -277,5 +277,11 @@ End Sub
 |[WizardTag](./Publisher.Shape.WizardTag.md)|
 |[WizardTagInstance](./Publisher.Shape.WizardTagInstance.md)|
 |[ZOrderPosition](./Publisher.Shape.ZOrderPosition.md)|
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

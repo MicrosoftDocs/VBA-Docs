@@ -93,4 +93,10 @@ Next objDocument
 |[Item](./Publisher.Documents.Item.md)|
 |[Parent](./Publisher.Documents.Parent.md)|
 
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

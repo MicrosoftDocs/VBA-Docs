@@ -53,7 +53,7 @@ Sub ShowFieldNames()
 End Sub
 ```
 
-Use  **DataFields** (index), where index is the data field name or the index number, to return a single **MailMergeDataField** object. The index number represents the position of the data field in the mail merge data source. This example retrieves the name of the first field and value of the first record of the FirstName field in the data source attached to the active publication.
+Use  **DataFields** (_index_), where _index_ is the data field name or the index number, to return a single **MailMergeDataField** object. The index number represents the position of the data field in the mail merge data source. This example retrieves the name of the first field and value of the first record of the FirstName field in the data source attached to the active publication.
  
 
  
@@ -89,5 +89,11 @@ End Sub
 |[Count](Publisher.MailMergeDataFields.Count.md)|
 |[Creator](Publisher.MailMergeDataFields.Creator.md)|
 |[Parent](Publisher.MailMergeDataFields.Parent.md)|
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

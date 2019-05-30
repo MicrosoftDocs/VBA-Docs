@@ -52,4 +52,10 @@ End Sub
 |[Top](Publisher.ReaderSpread.Top.md)|
 |[Width](Publisher.ReaderSpread.Width.md)|
 
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

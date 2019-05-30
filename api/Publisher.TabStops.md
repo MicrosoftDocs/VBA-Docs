@@ -73,7 +73,7 @@ Sub AddNewTabs()
 End Sub
 ```
 
-Use  **[Tabs](Publisher.ParagraphFormat.Tabs.md)** (index), where index is the location of the tab stop (in points) or the index number, to return a single **TabStop** object. Tab stops are indexed numerically from left to right along the ruler. The following example removes the first custom tab stop from the first paragraph in the active publication.
+Use  **[Tabs](Publisher.ParagraphFormat.Tabs.md)** (_index_), where _index_ is the location of the tab stop (in points) or the index number, to return a single **TabStop** object. Tab stops are indexed numerically from left to right along the ruler. The following example removes the first custom tab stop from the first paragraph in the active publication.
  
 
  
@@ -121,5 +121,11 @@ End Sub
 |[Application](Publisher.TabStops.Application.md)|
 |[Count](Publisher.TabStops.Count.md)|
 |[Parent](Publisher.TabStops.Parent.md)|
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

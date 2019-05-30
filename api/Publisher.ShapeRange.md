@@ -29,7 +29,7 @@ Represents a shape range, which is a set of shapes on a document. A shape range 
 
 ## Example
 
-Use  **Shapes.Range** (index), where index is the index number of the shape or an array that contains index numbers of shapes, to return a **ShapeRange** collection that represents a set of shapes in a publication. You can use Visual Basic's **Array** function to construct an array of index numbers. The following example sets the fill pattern for shapes one through three on the active publication.
+Use  **Shapes.Range** (_index_), where _index_ is the index number of the shape or an array that contains index numbers of shapes, to return a **ShapeRange** collection that represents a set of shapes in a publication. You can use Visual Basic's **Array** function to construct an array of index numbers. The following example sets the fill pattern for shapes one through three on the active publication.
 
 
 ```vb
@@ -42,7 +42,7 @@ End Sub
 
 Although you can use the  **[Range](./Publisher.Shapes.Range.md)** method to return any number of shapes, it is simpler to use the **[Item](./Publisher.ShapeRange.Item.md)** method if you want to return only a single member of the collection. For example, **Shapes** (1) is simpler than **Shapes.Range** (1).
 
-Use  **Selection.ShapeRange** (index), where index is the index number of the shape, to return a **Shape** object that represents a shape within a selection. The following example selects the first two shapes on the first page of the active publication and then sets the fill for the first shape in the selection.
+Use  **Selection.ShapeRange** (_index_), where _index_ is the index number of the shape, to return a **Shape** object that represents a shape within a selection. The following example selects the first two shapes on the first page of the active publication and then sets the fill for the first shape in the selection.
 
 
 
@@ -200,5 +200,11 @@ End Sub
 |[WizardTag](./Publisher.ShapeRange.WizardTag.md)|
 |[WizardTagInstance](./Publisher.ShapeRange.WizardTagInstance.md)|
 |[ZOrderPosition](./Publisher.ShapeRange.ZOrderPosition.md)|
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

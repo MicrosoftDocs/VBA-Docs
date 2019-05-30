@@ -96,4 +96,10 @@ End Sub
 |[Count](Publisher.TextStyles.Count.md)|
 |[Parent](Publisher.TextStyles.Parent.md)|
 
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -46,7 +46,7 @@ Sub AddCanvasShapes()
 End Sub
 ```
 
-Use  **CanvasItems** (index), where index is the name or the index number, to return a single shape in the **CanvasShapes** collection. The following example sets the **Line** and **Fill** properties and vertically flips the third shape in a drawing canvas.
+Use  **CanvasItems** (_index_), where _index_ is the name or the index number, to return a single shape in the **CanvasShapes** collection. The following example sets the **Line** and **Fill** properties and vertically flips the third shape in a drawing canvas.
 
 
 

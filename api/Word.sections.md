@@ -50,7 +50,7 @@ Selection.Paragraphs(1).Range.InsertBreak _
 MsgBox ActiveDocument.Sections.Count &amp; " sections"
 ```
 
-Use  **Sections** (index), where index is the index number, to return a single **Section** object. The following example changes the left and right page margins for the first section in the active document.
+Use  **Sections** (_index_), where _index_ is the index number, to return a single **Section** object. The following example changes the left and right page margins for the first section in the active document.
 
 
 

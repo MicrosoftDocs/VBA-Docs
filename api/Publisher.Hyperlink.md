@@ -28,7 +28,7 @@ Sub DeleteHyperlink()
 End Sub
 ```
 
-Use  **Hyperlinks** (index), where index is the index number, to return a single **Hyperlink** object from a document, range, or selection. The following example deletes the first hyperlink in the selection.
+Use  **Hyperlinks** (_index_), where _index_ is the index number, to return a single **Hyperlink** object from a document, range, or selection. The following example deletes the first hyperlink in the selection.
 
 
 
@@ -94,5 +94,11 @@ End Sub
 |[TargetType](./Publisher.Hyperlink.TargetType.md)|
 |[TextToDisplay](./Publisher.Hyperlink.TextToDisplay.md)|
 |[Type](./Publisher.Hyperlink.Type.md)|
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,7 +26,7 @@ If you've set properties of the  **ActionSetting** object that don't seem to be 
 
 ## Example
 
-Use  **ActionSettings** (index), where index is the either **ppMouseClick** or **ppMouseOver**, to return a single **ActionSetting** object. The following example sets the mouse-click action for the text in the third shape on slide one in the active presentation to an Internet link.
+Use  **ActionSettings** (_index_), where _index_ is the either **ppMouseClick** or **ppMouseOver**, to return a single **ActionSetting** object. The following example sets the mouse-click action for the text in the third shape on slide one in the active presentation to an Internet link.
 
 
 ```vb

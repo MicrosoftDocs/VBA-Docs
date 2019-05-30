@@ -27,7 +27,7 @@ Set the  **[DefaultTabStop](Publisher.Document.DefaultTabStop.md)** property to 
 
 ## Example
 
-Use  **[Tabs](Publisher.TabStops.Add.md)** (index), where index is the location of the tab stop (in points) or the index number, to return a single **TabStop** object. Tab stops are indexed numerically from left to right along the ruler. The following example removes the first custom tab stop from the selected paragraphs.
+Use  **[Tabs](Publisher.TabStops.Add.md)** (_index_), where _index_ is the location of the tab stop (in points) or the index number, to return a single **TabStop** object. Tab stops are indexed numerically from left to right along the ruler. The following example removes the first custom tab stop from the selected paragraphs.
  
 
  
@@ -90,5 +90,11 @@ End Sub
 |[Leader](Publisher.TabStop.Leader.md)|
 |[Parent](Publisher.TabStop.Parent.md)|
 |[Position](Publisher.TabStop.Position.md)|
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,7 +20,7 @@ Represents a single built-in or user-defined style. The  **TextStyle** object in
 
 ## Example
 
-Use  **TextStyles** (index), where index is the text style number or name, to return a single **TextStyle** object. You must exactly match the spelling and spacing of the style name, but not necessarily its capitalization.
+Use  **TextStyles** (_index_), where _index_ is the text style number or name, to return a single **TextStyle** object. You must exactly match the spelling and spacing of the style name, but not necessarily its capitalization.
  
 
  
@@ -98,5 +98,11 @@ End Sub
 |[NextParagraphStyle](Publisher.TextStyle.NextParagraphStyle.md)|
 |[ParagraphFormat](Publisher.TextStyle.ParagraphFormat.md)|
 |[Parent](Publisher.TextStyle.Parent.md)|
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

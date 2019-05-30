@@ -38,7 +38,7 @@ newPres.Slides.Add 1, 1
 newPres.SaveAs "Sample"
 ```
 
-Use  **Presentations** (index), where index is the presentation's name or index number, to return a single **Presentation** object. The following example prints presentation one.
+Use  **Presentations** (_index_), where _index_ is the presentation's name or index number, to return a single **Presentation** object. The following example prints presentation one.
 
 
 

@@ -56,4 +56,10 @@ End Sub
 |[Count](Publisher.ObjectVerbs.Count.md)|
 |[Parent](Publisher.ObjectVerbs.Parent.md)|
 
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

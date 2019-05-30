@@ -62,7 +62,7 @@ Next cfLoop
 End Sub
 ```
 
-Use  **ColorsInUse** (index), where index is the color index number, to return a single **ColorFormat** object. The following example returns properties for the second color in the publication.
+Use  **ColorsInUse** (_index_), where _index_ is the color index number, to return a single **ColorFormat** object. The following example returns properties for the second color in the publication.
  
 
  
@@ -93,5 +93,11 @@ End Sub
 |[Count](Publisher.ColorsInUse.Count.md)|
 |[Item](Publisher.ColorsInUse.Item.md)|
 |[Parent](Publisher.ColorsInUse.Parent.md)|
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

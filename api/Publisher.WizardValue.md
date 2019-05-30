@@ -54,4 +54,10 @@ End With
 |[Name](Publisher.WizardValue.Name.md)|
 |[Parent](Publisher.WizardValue.Parent.md)|
 
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

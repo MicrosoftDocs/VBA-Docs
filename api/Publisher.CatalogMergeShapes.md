@@ -81,7 +81,7 @@ Use the  **[AddToCatalogMergeArea](Publisher.Shape.AddToCatalogMergeArea.md)** m
 ThisDocument.Pages(1).Shapes.AddShape(1, 80, 75, 450, 125).AddToCatalogMergeArea
 ```
 
-Use  **CatalogMergeItems** (index), where index is index number, to return a single catalog merge area shape. The following example removes the first shape from the catalog merge area.
+Use  **CatalogMergeItems** (_index_), where _index_ is index number, to return a single catalog merge area shape. The following example removes the first shape from the catalog merge area.
  
 
  
@@ -148,5 +148,11 @@ Sub DeleteCatalogMergeAreaAndAllShapesWithin()
 |[HorizontalRepeat](Publisher.CatalogMergeShapes.HorizontalRepeat.md)|
 |[Parent](Publisher.CatalogMergeShapes.Parent.md)|
 |[VerticalRepeat](Publisher.CatalogMergeShapes.VerticalRepeat.md)|
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

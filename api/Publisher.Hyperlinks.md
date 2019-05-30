@@ -58,7 +58,7 @@ Sub AddHyperlink()
 End Sub
 ```
 
-Use  **Hyperlinks** (index), where index is the index number, to return a single **Hyperlink** object in a publication, range, or selection. This example displays the address for the first hyperlink if the specified selection contains hyperlinks.
+Use  **Hyperlinks** (_index_), where _index_ is the index number, to return a single **Hyperlink** object in a publication, range, or selection. This example displays the address for the first hyperlink if the specified selection contains hyperlinks.
 
 
 
@@ -93,5 +93,11 @@ The  **[Count](./Publisher.Hyperlinks.Count.md)** property for this collection r
 |[Count](./Publisher.Hyperlinks.Count.md)|
 |[Item](./Publisher.Hyperlinks.Item.md)|
 |[Parent](./Publisher.Hyperlinks.Parent.md)|
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

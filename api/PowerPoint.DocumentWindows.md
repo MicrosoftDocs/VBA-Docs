@@ -43,7 +43,7 @@ Use the  **[NewWindow](PowerPoint.DocumentWindow.NewWindow.md)** method to creat
 ActivePresentation.NewWindow
 ```
 
-Use  **Windows** (index), where index is the window index number, to return a single **DocumentWindow** object. The following example closes document window two.
+Use  **Windows** (_index_), where _index_ is the window index number, to return a single **DocumentWindow** object. The following example closes document window two.
 
 
 

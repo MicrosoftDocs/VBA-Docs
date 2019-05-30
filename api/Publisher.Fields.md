@@ -27,7 +27,7 @@ The  **[Count](Publisher.Fields.Count.md)** property for this collection in a pu
 
 ## Example
 
-Use the  **[Fields](Publisher.TextRange.Fields.md)** property to return the **Fields** collection. Use **Fields** (index), where index is the index number, to return a single **Field** object. The index number represents the position of the field in the selection, range, or publication. The following example displays the field code and the result of the first field in each text box in the active publication.
+Use the  **[Fields](Publisher.TextRange.Fields.md)** property to return the **Fields** collection. Use **Fields** (_index_), where _index_ is the index number, to return a single **Field** object. The index number represents the position of the field in the selection, range, or publication. The following example displays the field code and the result of the first field in each text box in the active publication.
  
 
  
@@ -73,5 +73,11 @@ End Sub
 |[Application](Publisher.Fields.Application.md)|
 |[Count](Publisher.Fields.Count.md)|
 |[Parent](Publisher.Fields.Parent.md)|
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -48,7 +48,7 @@ Sub AddNewShape()
 End Sub
 ```
 
-Use  **Shapes** (index), where index is the index number, to return a single **Shape** object. The following example horizontally flips shape one on the first page of the active publication.
+Use  **Shapes** (_index_), where _index_ is the index number, to return a single **Shape** object. The following example horizontally flips shape one on the first page of the active publication.
 
 
 
@@ -104,5 +104,11 @@ End Sub
 |[CanvasesCount](./Publisher.Shapes.CanvasesCount.md)|
 |[Count](./Publisher.Shapes.Count.md)|
 |[Parent](./Publisher.Shapes.Parent.md)|
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

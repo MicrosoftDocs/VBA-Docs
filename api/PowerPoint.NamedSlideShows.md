@@ -19,7 +19,7 @@ A collection of all the  **[NamedSlideShow](PowerPoint.NamedSlideShow.md)** obje
 
 ## Example
 
-Use the [NamedSlideShows](PowerPoint.SlideShowSettings.NamedSlideShows.md)property to return the  **NamedSlideShows** collection. Use **NamedSlideShows** (index), where index is the custom slide show name or index number, to return a single **NamedSlideShow** object. The following example deletes the custom slide show named "Quick Show."
+Use the [NamedSlideShows](PowerPoint.SlideShowSettings.NamedSlideShows.md)property to return the  **NamedSlideShows** collection. Use **NamedSlideShows** (_index_), where _index_ is the custom slide show name or index number, to return a single **NamedSlideShow** object. The following example deletes the custom slide show named "Quick Show."
 
 
 ```vb

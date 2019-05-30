@@ -24,7 +24,7 @@ You cannot programmatically add cells to or delete cells from a PowerPoint table
 
 ## Example
 
-Use  **Cell** (row, column), where row is the row number and column is the column number, or **Cells** (index), where index is the number of the cell in the specified row or column, to return a single **Cell** object. Cells are numbered from left to right in rows and from top to bottom in columns. With right-to-left language settings, this scheme is reversed. The following example merges the first two cells in row one of the table in shape five on slide two.
+Use  **Cell** (row, column), where row is the row number and column is the column number, or **Cells** (_index_), where _index_ is the number of the cell in the specified row or column, to return a single **Cell** object. Cells are numbered from left to right in rows and from top to bottom in columns. With right-to-left language settings, this scheme is reversed. The following example merges the first two cells in row one of the table in shape five on slide two.
 
 
 ```vb

@@ -40,7 +40,7 @@ Set myTable = ActiveDocument.Tables(1)
 myTable.Range.Cells.Add BeforeCell:=myTable.Cell(1, 1)
 ```
 
-Use  **Cell** (row, column), where row is the row number and column is the column number, or **Cells** (index), where index is the index number, to return a **Cell** object. The following example applies shading to the second cell in the first row in table one.
+Use  **Cell** (row, column), where row is the row number and column is the column number, or **Cells** (_index_), where _index_ is the index number, to return a **Cell** object. The following example applies shading to the second cell in the first row in table one.
 
 
 

@@ -83,4 +83,10 @@ End Sub
 |[Name](Publisher.ColorScheme.Name.md)|
 |[Parent](Publisher.ColorScheme.Parent.md)|
 
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

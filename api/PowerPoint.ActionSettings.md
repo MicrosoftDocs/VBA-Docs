@@ -19,7 +19,7 @@ A collection that contains the two  **[ActionSetting](PowerPoint.ActionSetting.m
 
 ## Example
 
-Use the [ActionSettings](PowerPoint.Shape.ActionSettings.md)property to return the  **ActionSettings** collection. Use **ActionSettings** (index), where index is either **ppMouseClick** or **ppMouseOver**, to return a single **ActionSetting** object. The following example specifies that the CalculateTotal macro be run whenever the mouse pointer passes over the shape during a slide show.
+Use the [ActionSettings](PowerPoint.Shape.ActionSettings.md)property to return the  **ActionSettings** collection. Use **ActionSettings** (_index_), where _index_ is either **ppMouseClick** or **ppMouseOver**, to return a single **ActionSetting** object. The following example specifies that the CalculateTotal macro be run whenever the mouse pointer passes over the shape during a slide show.
 
 
 ```vb

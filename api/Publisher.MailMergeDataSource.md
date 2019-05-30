@@ -93,4 +93,10 @@ End Sub
 |[Type](Publisher.MailMergeDataSource.Type.md)|
 |[ValidatedClean](Publisher.MailMergeDataSource.ValidatedClean.md)|
 
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

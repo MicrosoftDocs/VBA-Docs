@@ -33,7 +33,7 @@ The following examples describe how to:
 
 ## Example
 
-Use  **Presentations** (index), where index is the presentation's name or index number, to return a single **Presentation** object. The name of the presentation is the file name, with or without the file name extension, and without the path. The following example adds a slide to the beginning of Sample Presentation.
+Use  **Presentations** (_index_), where _index_ is the presentation's name or index number, to return a single **Presentation** object. The name of the presentation is the file name, with or without the file name extension, and without the path. The following example adds a slide to the beginning of Sample Presentation.
 
 
 ```vb

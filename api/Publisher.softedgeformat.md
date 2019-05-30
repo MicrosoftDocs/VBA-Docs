@@ -26,4 +26,10 @@ Represents the soft edge formatting for a shape or range of shapes.
 |[Type](Publisher.softedgeformat.type.md)|
 |[Visible](Publisher.softedgeformat.visible.md)|
 
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

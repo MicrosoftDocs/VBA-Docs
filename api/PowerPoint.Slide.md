@@ -36,7 +36,7 @@ The following examples describe how to:
 
 ## Example
 
-Use  **Slides** (index), where index is the slide name or index number, or use **Slides.FindBySlideID** (index), where index is the slide ID number, to return a single **Slide** object. The following example sets the layout for slide one in the active presentation.
+Use  **Slides** (_index_), where _index_ is the slide name or index number, or use **Slides.FindBySlideID** (_index_), where _index_ is the slide ID number, to return a single **Slide** object. The following example sets the layout for slide one in the active presentation.
 
 
 ```vb
@@ -52,7 +52,7 @@ The following example sets the layout for the slide with the ID number 265.
 ActivePresentation.Slides.FindBySlideID(265).Layout = ppLayoutTitle
 ```
 
-Use  **Selection.SlideRange** (index), where index is the slide name or index number within the selection, to return a single **Slide** object. The following example sets the layout for slide one in the selection in the active window, assuming that there's at least one slide selected.
+Use  **Selection.SlideRange** (_index_), where _index_ is the slide name or index number within the selection, to return a single **Slide** object. The following example sets the layout for slide one in the selection in the active window, assuming that there's at least one slide selected.
 
 
 

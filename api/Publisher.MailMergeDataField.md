@@ -27,7 +27,7 @@ You cannot add fields to the  **MailMergeDataFields** collection. All data field
 
 ## Example
 
-Use  **[DataFields](Publisher.MailMergeDataSource.DataFields.md)** (index), where index is the data field name or index number, to return a single **MailMergeDataField** object. The index number represents the position of the data field in the mail merge data source. This example retrieves the name of the first field and value of the first record of the FirstName field in the data source attached to the active publication.
+Use  **[DataFields](Publisher.MailMergeDataSource.DataFields.md)** (_index_), where _index_ is the data field name or index number, to return a single **MailMergeDataField** object. The index number represents the position of the data field in the mail merge data source. This example retrieves the name of the first field and value of the first record of the FirstName field in the data source attached to the active publication.
  
 
  
@@ -68,5 +68,11 @@ End Sub
 |[Name](Publisher.MailMergeDataField.Name.md)|
 |[Parent](Publisher.MailMergeDataField.Parent.md)|
 |[Value](Publisher.MailMergeDataField.Value.md)|
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

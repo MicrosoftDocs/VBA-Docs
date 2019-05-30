@@ -19,7 +19,7 @@ Represents a single AutoText entry. The  **AutoTextEntry** object is a member of
 
 ## Remarks
 
-Use  **[AutoTextEntries](Word.AutoTextEntries.Item.md)** (index), where index is the AutoText entry name or index number, to return a single **AutoTextEntry** object. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown on the **AutoText** tab in the **AutoCorrect** dialog box. The following example sets the value of an existing AutoText entry named "cName."
+Use  **[AutoTextEntries](Word.AutoTextEntries.Item.md)** (_index_), where _index_ is the AutoText entry name or index number, to return a single **AutoTextEntry** object. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown on the **AutoText** tab in the **AutoCorrect** dialog box. The following example sets the value of an existing AutoText entry named "cName."
 
 
 ```vb

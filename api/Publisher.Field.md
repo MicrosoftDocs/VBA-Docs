@@ -27,7 +27,7 @@ The  **pbFieldPageNumber** constant is a member of the **PbFieldType** group of 
 
 ## Example
 
-Use  **[Fields](Publisher.TextRange.Fields.md)** (index), where index is the index number, to return a single **Field** object. The index number represents the position of the field in the selection, range, or publication. The following counts the number of fields in the active publication and displays the count in a message.
+Use  **[Fields](Publisher.TextRange.Fields.md)** (_index_), where _index_ is the index number, to return a single **Field** object. The index number represents the position of the field in the selection, range, or publication. The following counts the number of fields in the active publication and displays the count in a message.
  
 
  
@@ -78,5 +78,11 @@ End Sub
 |[Result](Publisher.Field.Result.md)|
 |[TextRange](Publisher.Field.TextRange.md)|
 |[Type](Publisher.field.type.md)|
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

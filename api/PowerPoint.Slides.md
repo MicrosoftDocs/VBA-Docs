@@ -45,7 +45,7 @@ Use the [Slides](PowerPoint.Presentation.Slides.md) property to return a **Slide
 ActivePresentation.Slides.Add 2, ppLayoutBlank
 ```
 
-Use  **Slides** (index), where index is the slide name or index number, or use the **Slides.FindBySlideID** (index), where index is the slide ID number, to return a single **Slide** object. The following example sets the layout for slide one in the active presentation.
+Use  **Slides** (_index_), where _index_ is the slide name or index number, or use the **Slides.FindBySlideID** (_index_), where _index_ is the slide ID number, to return a single **Slide** object. The following example sets the layout for slide one in the active presentation.
 
 
 
@@ -63,7 +63,7 @@ The following example sets the layout for the slide named "Big Chart" in the act
 ActivePresentation.Slides("Big Chart").Layout = ppLayoutTitle
 ```
 
-Use  **Slides.Range** (index), where index is the slide index number or name or an array of slide index numbers or an array of slide names, to return a **[SlideRange](PowerPoint.SlideRange.md)** object that represents a subset of the **Slides** collection. The following example sets the background fill for slides one and three in the active presentation.
+Use  **Slides.Range** (_index_), where _index_ is the slide index number or name or an array of slide index numbers or an array of slide names, to return a **[SlideRange](PowerPoint.SlideRange.md)** object that represents a subset of the **Slides** collection. The following example sets the background fill for slides one and three in the active presentation.
 
 
 

@@ -64,7 +64,7 @@ Sub NewShapeAndEffect()
 End Sub
 ```
 
-To refer to an existing  **Effect** object, use **[MainSequence](./PowerPoint.TimeLine.MainSequence.md)** (index), where index is the number of the **Effect** object in the **[Sequence](./PowerPoint.Sequence.md)** collection. This example changes the effect for the first sequence and specifies the behavior for that effect.
+To refer to an existing  **Effect** object, use **[MainSequence](./PowerPoint.TimeLine.MainSequence.md)** (_index_), where _index_ is the number of the **Effect** object in the **[Sequence](./PowerPoint.Sequence.md)** collection. This example changes the effect for the first sequence and specifies the behavior for that effect.
 
 
 

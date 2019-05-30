@@ -36,4 +36,10 @@ Represents the collection of all 37 of the  **[CaptionStyle](Publisher.CaptionSt
 |[Count](Publisher.CaptionStyles.Count.md)|
 |[Parent](Publisher.CaptionStyles.Parent.md)|
 
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,10 @@ Represents a collection of one or more  **[BuildingBlock](Publisher.BuildingBloc
 |[Item](Publisher.BuildingBlocks.Item.md)|
 |[Parent](Publisher.BuildingBlocks.Parent.md)|
 
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

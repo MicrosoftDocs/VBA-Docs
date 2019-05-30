@@ -66,4 +66,10 @@ End Sub
 |[Text](Publisher.TextEffectFormat.Text.md)|
 |[Tracking](Publisher.TextEffectFormat.Tracking.md)|
 
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -86,4 +86,10 @@ End Sub
 |[Parent](Publisher.View.Parent.md)|
 |[Zoom](Publisher.View.Zoom.md)|
 
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

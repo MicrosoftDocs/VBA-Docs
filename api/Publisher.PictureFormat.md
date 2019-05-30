@@ -98,4 +98,10 @@ End Sub
 |[VerticalScale](./Publisher.PictureFormat.VerticalScale.md)|
 |[Width](./Publisher.PictureFormat.Width.md)|
 
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

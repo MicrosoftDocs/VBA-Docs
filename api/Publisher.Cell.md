@@ -19,7 +19,7 @@ Represents a single table cell. The  **Cell** object is a member of the **[CellR
 
 ## Example
 
-Use  **Cells** (index), where index is the cell number, to return a **Cell** object. This example merges the first two cells of the first column of the specified table.
+Use  **Cells** (_index_), where _index_ is the cell number, to return a **Cell** object. This example merges the first two cells of the first column of the specified table.
 
 
 ```vb
@@ -85,5 +85,11 @@ End Sub
 |[TextRange](./Publisher.Cell.TextRange.md)|
 |[VerticalTextAlignment](./Publisher.Cell.VerticalTextAlignment.md)|
 |[Width](./Publisher.Cell.Width.md)|
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

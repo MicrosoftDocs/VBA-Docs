@@ -28,4 +28,10 @@ Represents a single caption style. The  **CaptionStyle** object is a member of t
 |[Name](Publisher.CaptionStyle.Name.md)|
 |[Parent](Publisher.CaptionStyle.Parent.md)|
 
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

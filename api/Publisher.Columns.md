@@ -64,7 +64,7 @@ Sub CountCellsByColumn()
 End Sub
 ```
 
-Use  **Columns** (index), where index is the index number, to return a single **Column** object. The index number represents the position of the column in the **Columns** collection (counting from left to right). The following example selects the third column in the specified table.
+Use  **Columns** (_index_), where _index_ is the index number, to return a single **Column** object. The index number represents the position of the column in the **Columns** collection (counting from left to right). The following example selects the third column in the specified table.
  
 
  
@@ -117,5 +117,11 @@ End Sub
 |[Application](Publisher.Columns.Application.md)|
 |[Count](Publisher.Columns.Count.md)|
 |[Parent](Publisher.Columns.Parent.md)|
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

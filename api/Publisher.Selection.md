@@ -88,4 +88,10 @@ End Sub
 |[TextRange](Publisher.Selection.TextRange.md)|
 |[Type](Publisher.Selection.Type.md)|
 
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
+
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
