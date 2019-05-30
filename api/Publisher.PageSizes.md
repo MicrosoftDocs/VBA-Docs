@@ -44,14 +44,10 @@ End Sub
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](./Publisher.PageSizes.Application.md)|
-|[Count](./Publisher.PageSizes.Count.md)|
-|[Item](./Publisher.PageSizes.Item.md)|
-|[Parent](./Publisher.PageSizes.Parent.md)|
+- [Application](Publisher.PageSizes.Application.md)
+- [Count](Publisher.PageSizes.Count.md)
+- [Item](Publisher.PageSizes.Item.md)
+- [Parent](Publisher.PageSizes.Parent.md)
 
 ## See also
 

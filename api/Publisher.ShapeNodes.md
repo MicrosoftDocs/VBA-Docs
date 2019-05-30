@@ -66,26 +66,18 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Publisher.ShapeNodes.Delete.md)|
-|[Insert](Publisher.ShapeNodes.Insert.md)|
-|[Item](Publisher.ShapeNodes.Item.md)|
-|[SetEditingType](Publisher.ShapeNodes.SetEditingType.md)|
-|[SetPosition](Publisher.ShapeNodes.SetPosition.md)|
-|[SetSegmentType](Publisher.ShapeNodes.SetSegmentType.md)|
+- [Delete](Publisher.ShapeNodes.Delete.md)
+- [Insert](Publisher.ShapeNodes.Insert.md)
+- [Item](Publisher.ShapeNodes.Item.md)
+- [SetEditingType](Publisher.ShapeNodes.SetEditingType.md)
+- [SetPosition](Publisher.ShapeNodes.SetPosition.md)
+- [SetSegmentType](Publisher.ShapeNodes.SetSegmentType.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.ShapeNodes.Application.md)|
-|[Count](Publisher.ShapeNodes.Count.md)|
-|[Parent](Publisher.ShapeNodes.Parent.md)|
+- [Application](Publisher.ShapeNodes.Application.md)
+- [Count](Publisher.ShapeNodes.Count.md)
+- [Parent](Publisher.ShapeNodes.Parent.md)
 
 ## See also
 

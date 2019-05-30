@@ -46,24 +46,20 @@ With wizTemp
 End With
 ```
 
-
- **Note**  Depending on the language version of Microsoft Publisher that you are using, you may receive an error when using the above code. If this occurs, you will need to build in error handlers to circumvent the errors. For more information, see  **[Wizard Object](Publisher.Wizard.md)**.
+> [!NOTE] 
+> Depending on the language version of Microsoft Publisher that you are using, you may receive an error when using the above code. If this occurs, you will need to build in error handlers to circumvent the errors. For more information, see  **[Wizard Object](Publisher.Wizard.md)**.
  
 
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.WizardProperty.Application.md)|
-|[CurrentValueId](Publisher.WizardProperty.CurrentValueId.md)|
-|[Enabled](Publisher.WizardProperty.Enabled.md)|
-|[ID](Publisher.WizardProperty.ID.md)|
-|[Name](Publisher.WizardProperty.Name.md)|
-|[Parent](Publisher.WizardProperty.Parent.md)|
-|[Values](Publisher.WizardProperty.Values.md)|
+- [Application](Publisher.WizardProperty.Application.md)
+- [CurrentValueId](Publisher.WizardProperty.CurrentValueId.md)
+- [Enabled](Publisher.WizardProperty.Enabled.md)
+- [ID](Publisher.WizardProperty.ID.md)
+- [Name](Publisher.WizardProperty.Name.md)
+- [Parent](Publisher.WizardProperty.Parent.md)
+- [Values](Publisher.WizardProperty.Values.md)
 
 ## See also
 

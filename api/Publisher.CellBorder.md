@@ -52,14 +52,10 @@ cbTemp.Weight = 2
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.CellBorder.Application.md)|
-|[Color](Publisher.CellBorder.Color.md)|
-|[Parent](Publisher.CellBorder.Parent.md)|
-|[Weight](Publisher.CellBorder.Weight.md)|
+- [Application](Publisher.CellBorder.Application.md)
+- [Color](Publisher.CellBorder.Color.md)
+- [Parent](Publisher.CellBorder.Parent.md)
+- [Weight](Publisher.CellBorder.Weight.md)
 
 ## See also
 

@@ -46,48 +46,40 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[OneColorGradient](Publisher.FillFormat.OneColorGradient.md)|
-|[Patterned](Publisher.FillFormat.Patterned.md)|
-|[PresetGradient](Publisher.FillFormat.PresetGradient.md)|
-|[PresetTextured](Publisher.FillFormat.PresetTextured.md)|
-|[Solid](Publisher.FillFormat.Solid.md)|
-|[TwoColorGradient](Publisher.FillFormat.TwoColorGradient.md)|
-|[UserPicture](Publisher.FillFormat.UserPicture.md)|
-|[UserTextured](Publisher.FillFormat.UserTextured.md)|
+- [OneColorGradient](Publisher.FillFormat.OneColorGradient.md)
+- [Patterned](Publisher.FillFormat.Patterned.md)
+- [PresetGradient](Publisher.FillFormat.PresetGradient.md)
+- [PresetTextured](Publisher.FillFormat.PresetTextured.md)
+- [Solid](Publisher.FillFormat.Solid.md)
+- [TwoColorGradient](Publisher.FillFormat.TwoColorGradient.md)
+- [UserPicture](Publisher.FillFormat.UserPicture.md)
+- [UserTextured](Publisher.FillFormat.UserTextured.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.FillFormat.Application.md)|
-|[BackColor](Publisher.FillFormat.BackColor.md)|
-|[ForeColor](Publisher.FillFormat.ForeColor.md)|
-|[GradientAngle](Publisher.fillformat.gradientangle.md)|
-|[GradientColorType](Publisher.FillFormat.GradientColorType.md)|
-|[GradientDegree](Publisher.FillFormat.GradientDegree.md)|
-|[GradientStyle](Publisher.FillFormat.GradientStyle.md)|
-|[GradientVariant](Publisher.FillFormat.GradientVariant.md)|
-|[Parent](Publisher.FillFormat.Parent.md)|
-|[Pattern](Publisher.FillFormat.Pattern.md)|
-|[PresetGradientType](Publisher.FillFormat.PresetGradientType.md)|
-|[PresetTexture](Publisher.FillFormat.PresetTexture.md)|
-|[RotateWithObject](Publisher.fillformat.rotatewithobject.md)|
-|[TextureAlignment](Publisher.fillformat.texturealignment.md)|
-|[TextureHorizontalScale](Publisher.fillformat.texturehorizontalscale.md)|
-|[TextureName](Publisher.FillFormat.TextureName.md)|
-|[TextureOffsetX](Publisher.fillformat.textureoffsetx.md)|
-|[TextureOffsetY](Publisher.fillformat.textureoffsety.md)|
-|[TextureType](Publisher.FillFormat.TextureType.md)|
-|[TextureVerticalScale](Publisher.fillformat.textureverticalscale.md)|
-|[Transparency](Publisher.fillformat.transparency.md)|
-|[Type](Publisher.FillFormat.Type.md)|
-|[Visible](Publisher.FillFormat.Visible.md)|
+- [Application](Publisher.FillFormat.Application.md)
+- [BackColor](Publisher.FillFormat.BackColor.md)
+- [ForeColor](Publisher.FillFormat.ForeColor.md)
+- [GradientAngle](Publisher.fillformat.gradientangle.md)
+- [GradientColorType](Publisher.FillFormat.GradientColorType.md)
+- [GradientDegree](Publisher.FillFormat.GradientDegree.md)
+- [GradientStyle](Publisher.FillFormat.GradientStyle.md)
+- [GradientVariant](Publisher.FillFormat.GradientVariant.md)
+- [Parent](Publisher.FillFormat.Parent.md)
+- [Pattern](Publisher.FillFormat.Pattern.md)
+- [PresetGradientType](Publisher.FillFormat.PresetGradientType.md)
+- [PresetTexture](Publisher.FillFormat.PresetTexture.md)
+- [RotateWithObject](Publisher.fillformat.rotatewithobject.md)
+- [TextureAlignment](Publisher.fillformat.texturealignment.md)
+- [TextureHorizontalScale](Publisher.fillformat.texturehorizontalscale.md)
+- [TextureName](Publisher.FillFormat.TextureName.md)
+- [TextureOffsetX](Publisher.fillformat.textureoffsetx.md)
+- [TextureOffsetY](Publisher.fillformat.textureoffsety.md)
+- [TextureType](Publisher.FillFormat.TextureType.md)
+- [TextureVerticalScale](Publisher.fillformat.textureverticalscale.md)
+- [Transparency](Publisher.fillformat.transparency.md)
+- [Type](Publisher.FillFormat.Type.md)
+- [Visible](Publisher.FillFormat.Visible.md)
 
 ## See also
 

@@ -20,14 +20,10 @@ Represents a collection of one or more  **[BuildingBlock](Publisher.BuildingBloc
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.BuildingBlocks.Application.md)|
-|[Count](Publisher.BuildingBlocks.Count.md)|
-|[Item](Publisher.BuildingBlocks.Item.md)|
-|[Parent](Publisher.BuildingBlocks.Parent.md)|
+- [Application](Publisher.BuildingBlocks.Application.md)
+- [Count](Publisher.BuildingBlocks.Count.md)
+- [Item](Publisher.BuildingBlocks.Item.md)
+- [Parent](Publisher.BuildingBlocks.Parent.md)
 
 ## See also
 

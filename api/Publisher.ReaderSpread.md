@@ -39,18 +39,14 @@ End Sub
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.ReaderSpread.Application.md)|
-|[Height](Publisher.ReaderSpread.Height.md)|
-|[Left](Publisher.ReaderSpread.Left.md)|
-|[PageCount](Publisher.ReaderSpread.PageCount.md)|
-|[Pages](Publisher.ReaderSpread.Pages.md)|
-|[Parent](Publisher.ReaderSpread.Parent.md)|
-|[Top](Publisher.ReaderSpread.Top.md)|
-|[Width](Publisher.ReaderSpread.Width.md)|
+- [Application](Publisher.ReaderSpread.Application.md)
+- [Height](Publisher.ReaderSpread.Height.md)
+- [Left](Publisher.ReaderSpread.Left.md)
+- [PageCount](Publisher.ReaderSpread.PageCount.md)
+- [Pages](Publisher.ReaderSpread.Pages.md)
+- [Parent](Publisher.ReaderSpread.Parent.md)
+- [Top](Publisher.ReaderSpread.Top.md)
+- [Width](Publisher.ReaderSpread.Width.md)
 
 ## See also
 

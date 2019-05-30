@@ -35,28 +35,20 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[ApplyCustomDropCap](Publisher.DropCap.ApplyCustomDropCap.md)|
-|[Clear](Publisher.DropCap.Clear.md)|
+- [ApplyCustomDropCap](Publisher.DropCap.ApplyCustomDropCap.md)
+- [Clear](Publisher.DropCap.Clear.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.DropCap.Application.md)|
-|[FontBold](Publisher.DropCap.FontBold.md)|
-|[FontColor](Publisher.DropCap.FontColor.md)|
-|[FontItalic](Publisher.DropCap.FontItalic.md)|
-|[FontName](Publisher.DropCap.FontName.md)|
-|[LinesUp](Publisher.DropCap.LinesUp.md)|
-|[Parent](Publisher.DropCap.Parent.md)|
-|[Size](Publisher.DropCap.Size.md)|
-|[Span](Publisher.DropCap.Span.md)|
+- [Application](Publisher.DropCap.Application.md)
+- [FontBold](Publisher.DropCap.FontBold.md)
+- [FontColor](Publisher.DropCap.FontColor.md)
+- [FontItalic](Publisher.DropCap.FontItalic.md)
+- [FontName](Publisher.DropCap.FontName.md)
+- [LinesUp](Publisher.DropCap.LinesUp.md)
+- [Parent](Publisher.DropCap.Parent.md)
+- [Size](Publisher.DropCap.Size.md)
+- [Span](Publisher.DropCap.Span.md)
 
 ## See also
 

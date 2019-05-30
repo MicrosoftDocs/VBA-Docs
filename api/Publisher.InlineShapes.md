@@ -94,22 +94,14 @@ End With
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Item](Publisher.InlineShapes.Item.md)|
+- [Item](Publisher.InlineShapes.Item.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.InlineShapes.Application.md)|
-|[Count](Publisher.InlineShapes.Count.md)|
-|[Parent](Publisher.InlineShapes.Parent.md)|
-|[Range](Publisher.InlineShapes.Range.md)|
+- [Application](Publisher.InlineShapes.Application.md)
+- [Count](Publisher.InlineShapes.Count.md)
+- [Parent](Publisher.InlineShapes.Parent.md)
+- [Range](Publisher.InlineShapes.Range.md)
 
 ## See also
 

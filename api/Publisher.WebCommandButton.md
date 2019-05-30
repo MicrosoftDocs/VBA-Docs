@@ -41,22 +41,18 @@ End Sub
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[ActionURL](Publisher.WebCommandButton.ActionURL.md)|
-|[Application](Publisher.WebCommandButton.Application.md)|
-|[ButtonText](Publisher.WebCommandButton.ButtonText.md)|
-|[ButtonType](Publisher.WebCommandButton.ButtonType.md)|
-|[DataFileFormat](Publisher.WebCommandButton.DataFileFormat.md)|
-|[DataFileName](Publisher.WebCommandButton.DataFileName.md)|
-|[DataRetrievalMethod](Publisher.WebCommandButton.DataRetrievalMethod.md)|
-|[EmailAddress](Publisher.WebCommandButton.EmailAddress.md)|
-|[EmailSubject](Publisher.WebCommandButton.EmailSubject.md)|
-|[HiddenFields](Publisher.WebCommandButton.HiddenFields.md)|
-|[Parent](Publisher.WebCommandButton.Parent.md)|
-|[PostFormData](Publisher.WebCommandButton.PostFormData.md)|
+- [ActionURL](Publisher.WebCommandButton.ActionURL.md)
+- [Application](Publisher.WebCommandButton.Application.md)
+- [ButtonText](Publisher.WebCommandButton.ButtonText.md)
+- [ButtonType](Publisher.WebCommandButton.ButtonType.md)
+- [DataFileFormat](Publisher.WebCommandButton.DataFileFormat.md)
+- [DataFileName](Publisher.WebCommandButton.DataFileName.md)
+- [DataRetrievalMethod](Publisher.WebCommandButton.DataRetrievalMethod.md)
+- [EmailAddress](Publisher.WebCommandButton.EmailAddress.md)
+- [EmailSubject](Publisher.WebCommandButton.EmailSubject.md)
+- [HiddenFields](Publisher.WebCommandButton.HiddenFields.md)
+- [Parent](Publisher.WebCommandButton.Parent.md)
+- [PostFormData](Publisher.WebCommandButton.PostFormData.md)
 
 ## See also
 

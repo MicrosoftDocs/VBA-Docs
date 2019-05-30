@@ -40,21 +40,13 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Item](Publisher.ObjectVerbs.Item.md)|
+- [Item](Publisher.ObjectVerbs.Item.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.ObjectVerbs.Application.md)|
-|[Count](Publisher.ObjectVerbs.Count.md)|
-|[Parent](Publisher.ObjectVerbs.Parent.md)|
+- [Application](Publisher.ObjectVerbs.Application.md)
+- [Count](Publisher.ObjectVerbs.Count.md)
+- [Parent](Publisher.ObjectVerbs.Parent.md)
 
 ## See also
 

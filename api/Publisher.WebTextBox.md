@@ -41,17 +41,13 @@ End Sub
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.WebTextBox.Application.md)|
-|[DefaultText](Publisher.WebTextBox.DefaultText.md)|
-|[EchoAsterisks](Publisher.WebTextBox.EchoAsterisks.md)|
-|[Limit](Publisher.WebTextBox.Limit.md)|
-|[Parent](Publisher.WebTextBox.Parent.md)|
-|[RequiredControl](Publisher.WebTextBox.RequiredControl.md)|
-|[ReturnDataLabel](Publisher.WebTextBox.ReturnDataLabel.md)|
+- [Application](Publisher.WebTextBox.Application.md)
+- [DefaultText](Publisher.WebTextBox.DefaultText.md)
+- [EchoAsterisks](Publisher.WebTextBox.EchoAsterisks.md)
+- [Limit](Publisher.WebTextBox.Limit.md)
+- [Parent](Publisher.WebTextBox.Parent.md)
+- [RequiredControl](Publisher.WebTextBox.RequiredControl.md)
+- [ReturnDataLabel](Publisher.WebTextBox.ReturnDataLabel.md)
 
 ## See also
 

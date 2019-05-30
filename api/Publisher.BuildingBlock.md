@@ -20,25 +20,17 @@ Represents a single building block. The  **BuildingBlock** object is a member of
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Publisher.BuildingBlock.Delete.md)|
+- [Delete](Publisher.BuildingBlock.Delete.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Category](Publisher.BuildingBlock.Category.md)|
-|[Description](Publisher.BuildingBlock.Description.md)|
-|[Gallery](Publisher.BuildingBlock.Gallery.md)|
-|[Keywords](Publisher.buildingblock.keywords.md)|
-|[Name](Publisher.BuildingBlock.Name.md)|
-|[ShowInGallery](Publisher.BuildingBlock.ShowInGallery.md)|
-|[Type](Publisher.BuildingBlock.Type.md)|
+- [Category](Publisher.BuildingBlock.Category.md)
+- [Description](Publisher.BuildingBlock.Description.md)
+- [Gallery](Publisher.BuildingBlock.Gallery.md)
+- [Keywords](Publisher.buildingblock.keywords.md)
+- [Name](Publisher.BuildingBlock.Name.md)
+- [ShowInGallery](Publisher.BuildingBlock.ShowInGallery.md)
+- [Type](Publisher.BuildingBlock.Type.md)
 
 ## See also
 

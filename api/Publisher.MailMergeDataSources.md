@@ -87,22 +87,14 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Item](Publisher.MailMergeDataSources.Item.md)|
+- [Item](Publisher.MailMergeDataSources.Item.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.MailMergeDataSources.Application.md)|
-|[Count](Publisher.MailMergeDataSources.Count.md)|
-|[Creator](Publisher.MailMergeDataSources.Creator.md)|
-|[Parent](Publisher.MailMergeDataSources.Parent.md)|
+- [Application](Publisher.MailMergeDataSources.Application.md)
+- [Count](Publisher.MailMergeDataSources.Count.md)
+- [Creator](Publisher.MailMergeDataSources.Creator.md)
+- [Parent](Publisher.MailMergeDataSources.Parent.md)
 
 ## See also
 

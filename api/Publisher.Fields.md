@@ -55,24 +55,16 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[AddHorizontalInVertical](Publisher.Fields.AddHorizontalInVertical.md)|
-|[AddPhoneticGuide](Publisher.Fields.AddPhoneticGuide.md)|
-|[Item](Publisher.Fields.Item.md)|
-|[Unlink](Publisher.Fields.Unlink.md)|
+- [AddHorizontalInVertical](Publisher.Fields.AddHorizontalInVertical.md)
+- [AddPhoneticGuide](Publisher.Fields.AddPhoneticGuide.md)
+- [Item](Publisher.Fields.Item.md)
+- [Unlink](Publisher.Fields.Unlink.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.Fields.Application.md)|
-|[Count](Publisher.Fields.Count.md)|
-|[Parent](Publisher.Fields.Parent.md)|
+- [Application](Publisher.Fields.Application.md)
+- [Count](Publisher.Fields.Count.md)
+- [Parent](Publisher.Fields.Parent.md)
 
 ## See also
 

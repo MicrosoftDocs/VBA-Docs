@@ -43,15 +43,11 @@ End Sub
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.WebCheckBox.Application.md)|
-|[Parent](Publisher.WebCheckBox.Parent.md)|
-|[ReturnDataLabel](Publisher.WebCheckBox.ReturnDataLabel.md)|
-|[Selected](Publisher.WebCheckBox.Selected.md)|
-|[Value](Publisher.WebCheckBox.Value.md)|
+- [Application](Publisher.WebCheckBox.Application.md)
+- [Parent](Publisher.WebCheckBox.Parent.md)
+- [ReturnDataLabel](Publisher.WebCheckBox.ReturnDataLabel.md)
+- [Selected](Publisher.WebCheckBox.Selected.md)
+- [Value](Publisher.WebCheckBox.Value.md)
 
 ## See also
 

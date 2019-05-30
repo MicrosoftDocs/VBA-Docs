@@ -21,10 +21,6 @@ Represents the color of a one-color object or the foreground or background color
 ## Remarks
 
 Use one of the properties listed in the following table to return a **[ColorFormat](Publisher.ColorFormat.md)** object.
- 
-
- 
-
 
 |**Use this property**|**With this object**|**To return a ColorFormat object that represents this**|
 |:-----|:-----|:-----|
@@ -38,8 +34,6 @@ Use one of the properties listed in the following table to return a **[ColorForm
 ## Example
 
 Use the  **RGB** property to set a color to an explicit red-green-blue value. The following example adds a rectangle to the active publication and then sets the foreground color, background color, and gradient for the rectangle's fill.
- 
-
  
 
 ```vb
@@ -57,21 +51,17 @@ End Sub
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.ColorFormat.Application.md)|
-|[BaseCMYK](Publisher.ColorFormat.BaseCMYK.md)|
-|[BaseRGB](Publisher.ColorFormat.BaseRGB.md)|
-|[CMYK](Publisher.ColorFormat.CMYK.md)|
-|[Ink](Publisher.ColorFormat.Ink.md)|
-|[Parent](Publisher.ColorFormat.Parent.md)|
-|[RGB](Publisher.ColorFormat.RGB.md)|
-|[SchemeColor](Publisher.ColorFormat.SchemeColor.md)|
-|[TintAndShade](Publisher.ColorFormat.TintAndShade.md)|
-|[Transparency](Publisher.ColorFormat.Transparency.md)|
-|[Type](Publisher.ColorFormat.Type.md)|
+- [Application](Publisher.ColorFormat.Application.md)
+- [BaseCMYK](Publisher.ColorFormat.BaseCMYK.md)
+- [BaseRGB](Publisher.ColorFormat.BaseRGB.md)
+- [CMYK](Publisher.ColorFormat.CMYK.md)
+- [Ink](Publisher.ColorFormat.Ink.md)
+- [Parent](Publisher.ColorFormat.Parent.md)
+- [RGB](Publisher.ColorFormat.RGB.md)
+- [SchemeColor](Publisher.ColorFormat.SchemeColor.md)
+- [TintAndShade](Publisher.ColorFormat.TintAndShade.md)
+- [Transparency](Publisher.ColorFormat.Transparency.md)
+- [Type](Publisher.ColorFormat.Type.md)
 
 ## See also
 

@@ -63,24 +63,16 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Publisher.MailMergeFilters.Add.md)|
-|[Delete](Publisher.MailMergeFilters.Delete.md)|
-|[Item](Publisher.MailMergeFilters.Item.md)|
+- [Add](Publisher.MailMergeFilters.Add.md)
+- [Delete](Publisher.MailMergeFilters.Delete.md)
+- [Item](Publisher.MailMergeFilters.Item.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.MailMergeFilters.Application.md)|
-|[Count](Publisher.MailMergeFilters.Count.md)|
-|[Creator](Publisher.MailMergeFilters.Creator.md)|
-|[Parent](Publisher.MailMergeFilters.Parent.md)|
+- [Application](Publisher.MailMergeFilters.Application.md)
+- [Count](Publisher.MailMergeFilters.Count.md)
+- [Creator](Publisher.MailMergeFilters.Creator.md)
+- [Parent](Publisher.MailMergeFilters.Parent.md)
 
 ## See also
 

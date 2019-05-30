@@ -63,27 +63,19 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Item](Publisher.CellRange.Item.md)|
-|[Merge](Publisher.CellRange.Merge.md)|
-|[Select](Publisher.CellRange.Select.md)|
+- [Item](Publisher.CellRange.Item.md)
+- [Merge](Publisher.CellRange.Merge.md)
+- [Select](Publisher.CellRange.Select.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.CellRange.Application.md)|
-|[Column](Publisher.CellRange.Column.md)|
-|[Count](Publisher.CellRange.Count.md)|
-|[Height](Publisher.CellRange.Height.md)|
-|[Parent](Publisher.CellRange.Parent.md)|
-|[Row](Publisher.CellRange.Row.md)|
-|[Width](Publisher.CellRange.Width.md)|
+- [Application](Publisher.CellRange.Application.md)
+- [Column](Publisher.CellRange.Column.md)
+- [Count](Publisher.CellRange.Count.md)
+- [Height](Publisher.CellRange.Height.md)
+- [Parent](Publisher.CellRange.Parent.md)
+- [Row](Publisher.CellRange.Row.md)
+- [Width](Publisher.CellRange.Width.md)
 
 ## See also
 

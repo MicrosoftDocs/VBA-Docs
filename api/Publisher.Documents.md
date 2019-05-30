@@ -76,22 +76,14 @@ Next objDocument
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](./Publisher.Documents.Add.md)|
+- [Add](Publisher.Documents.Add.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](./Publisher.Documents.Application.md)|
-|[Count](./Publisher.Documents.Count.md)|
-|[Item](./Publisher.Documents.Item.md)|
-|[Parent](./Publisher.Documents.Parent.md)|
+- [Application](Publisher.Documents.Application.md)
+- [Count](Publisher.Documents.Count.md)
+- [Item](Publisher.Documents.Item.md)
+- [Parent](Publisher.Documents.Parent.md)
 
 ## See also
 

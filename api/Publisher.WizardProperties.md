@@ -45,29 +45,21 @@ With wizTemp
 End With
 ```
 
-
- **Note**  Depending on the language version of Microsoft Publisher that you are using, you may receive an error when using the above code. If this occurs, you will need to build in error handlers to circumvent the errors. For more information, see  **[Wizard Object](Publisher.Wizard.md)**.
+> [!NOTE] 
+> Depending on the language version of Microsoft Publisher that you are using, you may receive an error when using the above code. If this occurs, you will need to build in error handlers to circumvent the errors. For more information, see  **[Wizard Object](Publisher.Wizard.md)**.
  
 
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[FindPropertyById](Publisher.WizardProperties.FindPropertyById.md)|
+- [FindPropertyById](Publisher.WizardProperties.FindPropertyById.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.WizardProperties.Application.md)|
-|[Count](Publisher.WizardProperties.Count.md)|
-|[Item](Publisher.WizardProperties.Item.md)|
-|[Parent](Publisher.WizardProperties.Parent.md)|
+- [Application](Publisher.WizardProperties.Application.md)
+- [Count](Publisher.WizardProperties.Count.md)
+- [Item](Publisher.WizardProperties.Item.md)
+- [Parent](Publisher.WizardProperties.Parent.md)
 
 ## See also
 

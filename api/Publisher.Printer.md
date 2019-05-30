@@ -55,25 +55,21 @@ End Sub
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](./Publisher.Printer.Application.md)|
-|[DriverType](./Publisher.Printer.DriverType.md)|
-|[Index](./Publisher.Printer.Index.md)|
-|[IsActivePrinter](./Publisher.Printer.IsActivePrinter.md)|
-|[IsColor](./Publisher.Printer.IsColor.md)|
-|[IsDuplex](./Publisher.Printer.IsDuplex.md)|
-|[PaperHeight](./Publisher.Printer.PaperHeight.md)|
-|[PaperOrientation](./Publisher.Printer.PaperOrientation.md)|
-|[PaperSize](./Publisher.Printer.PaperSize.md)|
-|[PaperSource](./Publisher.Printer.PaperSource.md)|
-|[PaperWidth](./Publisher.Printer.PaperWidth.md)|
-|[Parent](./Publisher.Printer.Parent.md)|
-|[PrintableRect](./Publisher.Printer.PrintableRect.md)|
-|[PrinterName](./Publisher.Printer.PrinterName.md)|
-|[PrintMode](./Publisher.Printer.Printer.PrintMode.md)|
+- [Application](Publisher.Printer.Application.md)
+- [DriverType](Publisher.Printer.DriverType.md)
+- [Index](Publisher.Printer.Index.md)
+- [IsActivePrinter](Publisher.Printer.IsActivePrinter.md)
+- [IsColor](Publisher.Printer.IsColor.md)
+- [IsDuplex](Publisher.Printer.IsDuplex.md)
+- [PaperHeight](Publisher.Printer.PaperHeight.md)
+- [PaperOrientation](Publisher.Printer.PaperOrientation.md)
+- [PaperSize](Publisher.Printer.PaperSize.md)
+- [PaperSource](Publisher.Printer.PaperSource.md)
+- [PaperWidth](Publisher.Printer.PaperWidth.md)
+- [Parent](Publisher.Printer.Parent.md)
+- [PrintableRect](Publisher.Printer.PrintableRect.md)
+- [PrinterName](Publisher.Printer.PrinterName.md)
+- [PrintMode](Publisher.Printer.Printer.PrintMode.md)
 
 ## See also
 

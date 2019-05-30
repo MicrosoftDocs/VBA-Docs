@@ -79,22 +79,14 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Publisher.TextStyles.Add.md)|
-|[Item](Publisher.TextStyles.Item.md)|
+- [Add](Publisher.TextStyles.Add.md)
+- [Item](Publisher.TextStyles.Item.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.TextStyles.Application.md)|
-|[Count](Publisher.TextStyles.Count.md)|
-|[Parent](Publisher.TextStyles.Parent.md)|
+- [Application](Publisher.TextStyles.Application.md)
+- [Count](Publisher.TextStyles.Count.md)
+- [Parent](Publisher.TextStyles.Parent.md)
 
 ## See also
 

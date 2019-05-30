@@ -83,13 +83,9 @@ End Sub
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.BorderArt.Application.md)|
-|[Name](Publisher.BorderArt.Name.md)|
-|[Parent](Publisher.BorderArt.Parent.md)|
+- [Application](Publisher.BorderArt.Application.md)
+- [Name](Publisher.BorderArt.Name.md)
+- [Parent](Publisher.BorderArt.Parent.md)
 
 ## See also
 

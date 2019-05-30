@@ -46,29 +46,25 @@ End Sub
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[AllowBleeds](Publisher.AdvancedPrintOptions.AllowBleeds.md)|
-|[Application](Publisher.AdvancedPrintOptions.Application.md)|
-|[BackSideInsertFaceUp](Publisher.AdvancedPrintOptions.BackSideInsertFaceUp.md)|
-|[GraphicsResolution](Publisher.AdvancedPrintOptions.GraphicsResolution.md)|
-|[HorizontalFlip](Publisher.AdvancedPrintOptions.HorizontalFlip.md)|
-|[IsPostscriptPrinter](Publisher.AdvancedPrintOptions.IsPostscriptPrinter.md)|
-|[ManualFeedAlign](Publisher.AdvancedPrintOptions.ManualFeedAlign.md)|
-|[ManualFeedDirection](Publisher.AdvancedPrintOptions.ManualFeedDirection.md)|
-|[NegativeImage](Publisher.AdvancedPrintOptions.NegativeImage.md)|
-|[PageRotated](Publisher.AdvancedPrintOptions.PageRotated.md)|
-|[Parent](Publisher.AdvancedPrintOptions.Parent.md)|
-|[PrintBleedMarks](Publisher.AdvancedPrintOptions.PrintBleedMarks.md)|
-|[PrintCropMarks](Publisher.AdvancedPrintOptions.PrintCropMarks.md)|
-|[PrintDensityBars](Publisher.AdvancedPrintOptions.PrintDensityBars.md)|
-|[PrintJobInformation](Publisher.AdvancedPrintOptions.PrintJobInformation.md)|
-|[PrintRegistrationMarks](Publisher.AdvancedPrintOptions.PrintRegistrationMarks.md)|
-|[Resolution](Publisher.AdvancedPrintOptions.Resolution.md)|
-|[UseOnlyPublicationFonts](Publisher.AdvancedPrintOptions.UseOnlyPublicationFonts.md)|
-|[VerticalFlip](Publisher.AdvancedPrintOptions.VerticalFlip.md)|
+- [AllowBleeds](Publisher.AdvancedPrintOptions.AllowBleeds.md)
+- [Application](Publisher.AdvancedPrintOptions.Application.md)
+- [BackSideInsertFaceUp](Publisher.AdvancedPrintOptions.BackSideInsertFaceUp.md)
+- [GraphicsResolution](Publisher.AdvancedPrintOptions.GraphicsResolution.md)
+- [HorizontalFlip](Publisher.AdvancedPrintOptions.HorizontalFlip.md)
+- [IsPostscriptPrinter](Publisher.AdvancedPrintOptions.IsPostscriptPrinter.md)
+- [ManualFeedAlign](Publisher.AdvancedPrintOptions.ManualFeedAlign.md)
+- [ManualFeedDirection](Publisher.AdvancedPrintOptions.ManualFeedDirection.md)
+- [NegativeImage](Publisher.AdvancedPrintOptions.NegativeImage.md)
+- [PageRotated](Publisher.AdvancedPrintOptions.PageRotated.md)
+- [Parent](Publisher.AdvancedPrintOptions.Parent.md)
+- [PrintBleedMarks](Publisher.AdvancedPrintOptions.PrintBleedMarks.md)
+- [PrintCropMarks](Publisher.AdvancedPrintOptions.PrintCropMarks.md)
+- [PrintDensityBars](Publisher.AdvancedPrintOptions.PrintDensityBars.md)
+- [PrintJobInformation](Publisher.AdvancedPrintOptions.PrintJobInformation.md)
+- [PrintRegistrationMarks](Publisher.AdvancedPrintOptions.PrintRegistrationMarks.md)
+- [Resolution](Publisher.AdvancedPrintOptions.Resolution.md)
+- [UseOnlyPublicationFonts](Publisher.AdvancedPrintOptions.UseOnlyPublicationFonts.md)
+- [VerticalFlip](Publisher.AdvancedPrintOptions.VerticalFlip.md)
 
 ## See also
 

@@ -63,18 +63,14 @@ End Sub
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.MailMergeFilterCriterion.Application.md)|
-|[Column](Publisher.MailMergeFilterCriterion.Column.md)|
-|[CompareTo](Publisher.MailMergeFilterCriterion.CompareTo.md)|
-|[Comparison](Publisher.MailMergeFilterCriterion.Comparison.md)|
-|[Conjunction](Publisher.MailMergeFilterCriterion.Conjunction.md)|
-|[Creator](Publisher.MailMergeFilterCriterion.Creator.md)|
-|[Index](Publisher.MailMergeFilterCriterion.Index.md)|
-|[Parent](Publisher.MailMergeFilterCriterion.Parent.md)|
+- [Application](Publisher.MailMergeFilterCriterion.Application.md)
+- [Column](Publisher.MailMergeFilterCriterion.Column.md)
+- [CompareTo](Publisher.MailMergeFilterCriterion.CompareTo.md)
+- [Comparison](Publisher.MailMergeFilterCriterion.Comparison.md)
+- [Conjunction](Publisher.MailMergeFilterCriterion.Conjunction.md)
+- [Creator](Publisher.MailMergeFilterCriterion.Creator.md)
+- [Index](Publisher.MailMergeFilterCriterion.Index.md)
+- [Parent](Publisher.MailMergeFilterCriterion.Parent.md)
 
 ## See also
 

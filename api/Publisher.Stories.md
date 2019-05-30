@@ -15,41 +15,17 @@ localization_priority: Normal
 # Stories object (Publisher)
 
 Represents all the text in a publication.
- 
 
 
 ## Example
 
 Use the  **Stories** property of a **Document** object to return a **Stories** collection. Use the **Item** method of the **Stories** collection to access individual **Story** objects.
  
-
- 
-
- 
-
- 
 The  **Stories** collection enables efficient access to text in a publication. A simple loop through the **Stories** collection can scan all text in text frames or tables without the need to search each shape on every page of a publication.
  
-
- 
-
- 
-
- 
 The  **Stories** collection contains one **Story** object for each unlinked text frame, each chain of linked text frames, and each table in a publication. Text in WordArt frames, OLE objects, and pictures are not included in the **Stories** collection.
- 
 
- 
-
- 
-
- 
 This example assigns the first story in the active publication to an object variable.
- 
-
- 
-
-
 
 ```vb
 Dim stFirst As Story 
@@ -60,21 +36,13 @@ stFirst = Application.ActiveDocument.Stories(1)
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Item](Publisher.Stories.Item.md)|
+- [Item](Publisher.Stories.Item.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.Stories.Application.md)|
-|[Count](Publisher.Stories.Count.md)|
-|[Parent](Publisher.Stories.Parent.md)|
+- [Application](Publisher.Stories.Application.md)
+- [Count](Publisher.Stories.Count.md)
+- [Parent](Publisher.Stories.Parent.md)
 
 ## See also
 

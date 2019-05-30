@@ -64,22 +64,14 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Publisher.RulerGuides.Add.md)|
+- [Add](Publisher.RulerGuides.Add.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.RulerGuides.Application.md)|
-|[Count](Publisher.RulerGuides.Count.md)|
-|[Item](Publisher.RulerGuides.Item.md)|
-|[Parent](Publisher.RulerGuides.Parent.md)|
+- [Application](Publisher.RulerGuides.Application.md)
+- [Count](Publisher.RulerGuides.Count.md)
+- [Item](Publisher.RulerGuides.Item.md)
+- [Parent](Publisher.RulerGuides.Parent.md)
 
 ## See also
 

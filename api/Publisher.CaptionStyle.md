@@ -20,13 +20,9 @@ Represents a single caption style. The  **CaptionStyle** object is a member of t
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.CaptionStyle.Application.md)|
-|[Name](Publisher.CaptionStyle.Name.md)|
-|[Parent](Publisher.CaptionStyle.Parent.md)|
+- [Application](Publisher.CaptionStyle.Application.md)
+- [Name](Publisher.CaptionStyle.Name.md)
+- [Parent](Publisher.CaptionStyle.Parent.md)
 
 ## See also
 

@@ -104,23 +104,15 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Publisher.TabStops.Add.md)|
-|[ClearAll](Publisher.TabStops.ClearAll.md)|
-|[Item](Publisher.TabStops.Item.md)|
+- [Add](Publisher.TabStops.Add.md)
+- [ClearAll](Publisher.TabStops.ClearAll.md)
+- [Item](Publisher.TabStops.Item.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.TabStops.Application.md)|
-|[Count](Publisher.TabStops.Count.md)|
-|[Parent](Publisher.TabStops.Parent.md)|
+- [Application](Publisher.TabStops.Application.md)
+- [Count](Publisher.TabStops.Count.md)
+- [Parent](Publisher.TabStops.Parent.md)
 
 ## See also
 

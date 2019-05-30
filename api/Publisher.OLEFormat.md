@@ -51,24 +51,16 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Activate](Publisher.OLEFormat.Activate.md)|
-|[DoVerb](Publisher.OLEFormat.DoVerb.md)|
+- [Activate](Publisher.OLEFormat.Activate.md)
+- [DoVerb](Publisher.OLEFormat.DoVerb.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.OLEFormat.Application.md)|
-|[Object](Publisher.OLEFormat.Object.md)|
-|[ObjectVerbs](Publisher.OLEFormat.ObjectVerbs.md)|
-|[Parent](Publisher.OLEFormat.Parent.md)|
-|[ProgId](Publisher.OLEFormat.ProgId.md)|
+- [Application](Publisher.OLEFormat.Application.md)
+- [Object](Publisher.OLEFormat.Object.md)
+- [ObjectVerbs](Publisher.OLEFormat.ObjectVerbs.md)
+- [Parent](Publisher.OLEFormat.Parent.md)
+- [ProgId](Publisher.OLEFormat.ProgId.md)
 
 ## See also
 

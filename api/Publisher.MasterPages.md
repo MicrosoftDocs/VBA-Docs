@@ -63,23 +63,15 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Publisher.MasterPages.Add.md)|
-|[FindByPageID](Publisher.MasterPages.FindByPageID.md)|
+- [Add](Publisher.MasterPages.Add.md)
+- [FindByPageID](Publisher.MasterPages.FindByPageID.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.MasterPages.Application.md)|
-|[Count](Publisher.MasterPages.Count.md)|
-|[Item](Publisher.MasterPages.Item.md)|
-|[Parent](Publisher.MasterPages.Parent.md)|
+- [Application](Publisher.MasterPages.Application.md)
+- [Count](Publisher.MasterPages.Count.md)
+- [Item](Publisher.MasterPages.Item.md)
+- [Parent](Publisher.MasterPages.Parent.md)
 
 ## See also
 

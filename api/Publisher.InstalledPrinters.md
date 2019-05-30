@@ -60,14 +60,10 @@ End Sub
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.InstalledPrinters.Application.md)|
-|[Count](Publisher.InstalledPrinters.Count.md)|
-|[Item](Publisher.InstalledPrinters.Item.md)|
-|[Parent](Publisher.InstalledPrinters.Parent.md)|
+- [Application](Publisher.InstalledPrinters.Application.md)
+- [Count](Publisher.InstalledPrinters.Count.md)
+- [Item](Publisher.InstalledPrinters.Item.md)
+- [Parent](Publisher.InstalledPrinters.Parent.md)
 
 ## See also
 

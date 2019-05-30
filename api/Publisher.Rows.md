@@ -76,22 +76,14 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Publisher.Rows.Add.md)|
-|[Item](Publisher.Rows.Item.md)|
+- [Add](Publisher.Rows.Add.md)
+- [Item](Publisher.Rows.Item.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.Rows.Application.md)|
-|[Count](Publisher.Rows.Count.md)|
-|[Parent](Publisher.Rows.Parent.md)|
+- [Application](Publisher.Rows.Application.md)
+- [Count](Publisher.Rows.Count.md)
+- [Parent](Publisher.Rows.Parent.md)
 
 ## See also
 

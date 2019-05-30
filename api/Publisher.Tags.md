@@ -63,22 +63,14 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Publisher.Tags.Add.md)|
-|[Item](Publisher.Tags.Item.md)|
+- [Add](Publisher.Tags.Add.md)
+- [Item](Publisher.Tags.Item.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.Tags.Application.md)|
-|[Count](Publisher.Tags.Count.md)|
-|[Parent](Publisher.Tags.Parent.md)|
+- [Application](Publisher.Tags.Application.md)
+- [Count](Publisher.Tags.Count.md)
+- [Parent](Publisher.Tags.Parent.md)
 
 ## See also
 

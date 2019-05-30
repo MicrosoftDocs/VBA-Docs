@@ -83,32 +83,24 @@ End With
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Clear](Publisher.FindReplace.Clear.md)|
-|[Execute](Publisher.FindReplace.Execute.md)|
+- [Clear](Publisher.FindReplace.Clear.md)
+- [Execute](Publisher.FindReplace.Execute.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.FindReplace.Application.md)|
-|[FindText](Publisher.FindReplace.FindText.md)|
-|[Forward](Publisher.FindReplace.Forward.md)|
-|[FoundTextRange](Publisher.FindReplace.FoundTextRange.md)|
-|[MatchAlefHamza](Publisher.FindReplace.MatchAlefHamza.md)|
-|[MatchCase](Publisher.FindReplace.MatchCase.md)|
-|[MatchDiacritics](Publisher.FindReplace.MatchDiacritics.md)|
-|[MatchKashida](Publisher.FindReplace.MatchKashida.md)|
-|[MatchWholeWord](Publisher.FindReplace.MatchWholeWord.md)|
-|[MatchWidth](Publisher.FindReplace.MatchWidth.md)|
-|[Parent](Publisher.FindReplace.Parent.md)|
-|[ReplaceScope](Publisher.FindReplace.ReplaceScope.md)|
-|[ReplaceWithText](Publisher.FindReplace.ReplaceWithText.md)|
+- [Application](Publisher.FindReplace.Application.md)
+- [FindText](Publisher.FindReplace.FindText.md)
+- [Forward](Publisher.FindReplace.Forward.md)
+- [FoundTextRange](Publisher.FindReplace.FoundTextRange.md)
+- [MatchAlefHamza](Publisher.FindReplace.MatchAlefHamza.md)
+- [MatchCase](Publisher.FindReplace.MatchCase.md)
+- [MatchDiacritics](Publisher.FindReplace.MatchDiacritics.md)
+- [MatchKashida](Publisher.FindReplace.MatchKashida.md)
+- [MatchWholeWord](Publisher.FindReplace.MatchWholeWord.md)
+- [MatchWidth](Publisher.FindReplace.MatchWidth.md)
+- [Parent](Publisher.FindReplace.Parent.md)
+- [ReplaceScope](Publisher.FindReplace.ReplaceScope.md)
+- [ReplaceWithText](Publisher.FindReplace.ReplaceWithText.md)
 
 ## See also
 

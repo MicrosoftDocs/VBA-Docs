@@ -44,27 +44,19 @@ Use the  **[FindPlateByInkName](Publisher.Plates.FindPlateByInkName.md)** method
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[ConvertToProcess](Publisher.Plate.ConvertToProcess.md)|
-|[Delete](Publisher.Plate.Delete.md)|
+- [ConvertToProcess](Publisher.Plate.ConvertToProcess.md)
+- [Delete](Publisher.Plate.Delete.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.Plate.Application.md)|
-|[Color](Publisher.Plate.Color.md)|
-|[Index](Publisher.Plate.Index.md)|
-|[InkName](Publisher.Plate.InkName.md)|
-|[InUse](Publisher.Plate.InUse.md)|
-|[Luminance](Publisher.Plate.Luminance.md)|
-|[Name](Publisher.Plate.Name.md)|
-|[Parent](Publisher.Plate.Parent.md)|
+- [Application](Publisher.Plate.Application.md)
+- [Color](Publisher.Plate.Color.md)
+- [Index](Publisher.Plate.Index.md)
+- [InkName](Publisher.Plate.InkName.md)
+- [InUse](Publisher.Plate.InUse.md)
+- [Luminance](Publisher.Plate.Luminance.md)
+- [Name](Publisher.Plate.Name.md)
+- [Parent](Publisher.Plate.Parent.md)
 
 ## See also
 

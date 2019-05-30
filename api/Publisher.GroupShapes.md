@@ -46,21 +46,13 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Item](Publisher.GroupShapes.Item.md)|
+- [Item](Publisher.GroupShapes.Item.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.GroupShapes.Application.md)|
-|[Count](Publisher.GroupShapes.Count.md)|
-|[Parent](Publisher.GroupShapes.Parent.md)|
+- [Application](Publisher.GroupShapes.Application.md)
+- [Count](Publisher.GroupShapes.Count.md)
+- [Parent](Publisher.GroupShapes.Parent.md)
 
 ## See also
 

@@ -38,15 +38,11 @@ End Sub
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.ShapeNode.Application.md)|
-|[EditingType](Publisher.ShapeNode.EditingType.md)|
-|[Parent](Publisher.ShapeNode.Parent.md)|
-|[Points](Publisher.ShapeNode.Points.md)|
-|[SegmentType](Publisher.ShapeNode.SegmentType.md)|
+- [Application](Publisher.ShapeNode.Application.md)
+- [EditingType](Publisher.ShapeNode.EditingType.md)
+- [Parent](Publisher.ShapeNode.Parent.md)
+- [Points](Publisher.ShapeNode.Points.md)
+- [SegmentType](Publisher.ShapeNode.SegmentType.md)
 
 ## See also
 

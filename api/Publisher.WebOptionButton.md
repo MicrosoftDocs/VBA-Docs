@@ -43,15 +43,11 @@ End Sub
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.WebOptionButton.Application.md)|
-|[Parent](Publisher.WebOptionButton.Parent.md)|
-|[ReturnDataLabel](Publisher.WebOptionButton.ReturnDataLabel.md)|
-|[Selected](Publisher.WebOptionButton.Selected.md)|
-|[Value](Publisher.WebOptionButton.Value.md)|
+- [Application](Publisher.WebOptionButton.Application.md)
+- [Parent](Publisher.WebOptionButton.Parent.md)
+- [ReturnDataLabel](Publisher.WebOptionButton.ReturnDataLabel.md)
+- [Selected](Publisher.WebOptionButton.Selected.md)
+- [Value](Publisher.WebOptionButton.Value.md)
 
 ## See also
 

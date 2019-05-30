@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Hyperlink object (Publisher)
 
-Represents a hyperlink. The  **Hyperlink** object is a member of the **[Hyperlinks](Publisher.Hyperlinks.md)** collection and the **[Shape](./Publisher.Shape.md)** and **[ShapeRange](Publisher.ShapeRange.md)** objects.
+Represents a hyperlink. The  **Hyperlink** object is a member of the **[Hyperlinks](Publisher.Hyperlinks.md)** collection and the **[Shape](Publisher.Shape.md)** and **[ShapeRange](Publisher.ShapeRange.md)** objects.
 
 
 ## Example
 
-Use the  **[Hyperlink](./Publisher.Shape.Hyperlink.md)** property to return a **Hyperlink** object associated with a shape (a shape can have only one hyperlink). The following example deletes the hyperlink associated with the first shape in the active document.
+Use the  **[Hyperlink](Publisher.Shape.Hyperlink.md)** property to return a **Hyperlink** object associated with a shape (a shape can have only one hyperlink). The following example deletes the hyperlink associated with the first shape in the active document.
 
 
 ```vb
@@ -41,7 +41,7 @@ Sub DeleteSelectedHyperlink()
 End Sub
 ```
 
-Use the  **[Add](./Publisher.Hyperlinks.Add.md)** method to add a hyperlink. The following example adds a hyperlink to the selected text.
+Use the  **[Add](Publisher.Hyperlinks.Add.md)** method to add a hyperlink. The following example adds a hyperlink to the selected text.
 
 
 
@@ -53,7 +53,7 @@ Sub AddHyperlinkToSelectedText()
 End Sub
 ```
 
-Use the  **[Address](./Publisher.Hyperlink.Address.md)** property to add or change the address to a hyperlink. The following example adds a shape to the active publication and then adds a hyperlink to the shape.
+Use the  **[Address](Publisher.Hyperlink.Address.md)** property to add or change the address to a hyperlink. The following example adds a shape to the active publication and then adds a hyperlink to the shape.
 
 
 
@@ -71,29 +71,21 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](./Publisher.Hyperlink.Delete.md)|
-|[SetPageRelative](./Publisher.Hyperlink.SetPageRelative.md)|
+- [Delete](Publisher.Hyperlink.Delete.md)
+- [SetPageRelative](Publisher.Hyperlink.SetPageRelative.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Address](./Publisher.Hyperlink.Address.md)|
-|[Application](./Publisher.Hyperlink.Application.md)|
-|[EmailSubject](./Publisher.Hyperlink.EmailSubject.md)|
-|[PageID](./Publisher.Hyperlink.PageID.md)|
-|[Parent](./Publisher.Hyperlink.Parent.md)|
-|[Range](./Publisher.Hyperlink.Range.md)|
-|[Shape](./Publisher.Hyperlink.Shape.md)|
-|[TargetType](./Publisher.Hyperlink.TargetType.md)|
-|[TextToDisplay](./Publisher.Hyperlink.TextToDisplay.md)|
-|[Type](./Publisher.Hyperlink.Type.md)|
+- [Address](Publisher.Hyperlink.Address.md)
+- [Application](Publisher.Hyperlink.Application.md)
+- [EmailSubject](Publisher.Hyperlink.EmailSubject.md)
+- [PageID](Publisher.Hyperlink.PageID.md)
+- [Parent](Publisher.Hyperlink.Parent.md)
+- [Range](Publisher.Hyperlink.Range.md)
+- [Shape](Publisher.Hyperlink.Shape.md)
+- [TargetType](Publisher.Hyperlink.TargetType.md)
+- [TextToDisplay](Publisher.Hyperlink.TextToDisplay.md)
+- [Type](Publisher.Hyperlink.Type.md)
 
 ## See also
 

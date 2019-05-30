@@ -83,23 +83,15 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Publisher.Attachments.Add.md)|
-|[ClearAll](Publisher.Attachments.ClearAll.md)|
+- [Add](Publisher.Attachments.Add.md)
+- [ClearAll](Publisher.Attachments.ClearAll.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.Attachments.Application.md)|
-|[Count](Publisher.Attachments.Count.md)|
-|[Item](Publisher.Attachments.Item.md)|
-|[Parent](Publisher.Attachments.Parent.md)|
+- [Application](Publisher.Attachments.Application.md)
+- [Count](Publisher.Attachments.Count.md)
+- [Item](Publisher.Attachments.Item.md)
+- [Parent](Publisher.Attachments.Parent.md)
 
 ## See also
 

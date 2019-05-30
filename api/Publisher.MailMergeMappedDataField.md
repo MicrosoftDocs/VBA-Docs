@@ -45,16 +45,12 @@ End Sub
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.MailMergeMappedDataField.Application.md)|
-|[DataFieldName](Publisher.MailMergeMappedDataField.DataFieldName.md)|
-|[Index](Publisher.MailMergeMappedDataField.Index.md)|
-|[Name](Publisher.MailMergeMappedDataField.Name.md)|
-|[Parent](Publisher.MailMergeMappedDataField.Parent.md)|
-|[Value](Publisher.MailMergeMappedDataField.Value.md)|
+- [Application](Publisher.MailMergeMappedDataField.Application.md)
+- [DataFieldName](Publisher.MailMergeMappedDataField.DataFieldName.md)
+- [Index](Publisher.MailMergeMappedDataField.Index.md)
+- [Name](Publisher.MailMergeMappedDataField.Name.md)
+- [Parent](Publisher.MailMergeMappedDataField.Parent.md)
+- [Value](Publisher.MailMergeMappedDataField.Value.md)
 
 ## See also
 

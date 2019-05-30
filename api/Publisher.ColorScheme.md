@@ -74,14 +74,10 @@ End Sub
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.ColorScheme.Application.md)|
-|[Colors](Publisher.ColorScheme.Colors.md)|
-|[Name](Publisher.ColorScheme.Name.md)|
-|[Parent](Publisher.ColorScheme.Parent.md)|
+- [Application](Publisher.ColorScheme.Application.md)
+- [Colors](Publisher.ColorScheme.Colors.md)
+- [Name](Publisher.ColorScheme.Name.md)
+- [Parent](Publisher.ColorScheme.Parent.md)
 
 ## See also
 

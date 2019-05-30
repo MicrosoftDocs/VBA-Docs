@@ -101,22 +101,14 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Publisher.Columns.Add.md)|
-|[Item](Publisher.Columns.Item.md)|
+- [Add](Publisher.Columns.Add.md)
+- [Item](Publisher.Columns.Item.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.Columns.Application.md)|
-|[Count](Publisher.Columns.Count.md)|
-|[Parent](Publisher.Columns.Parent.md)|
+- [Application](Publisher.Columns.Application.md)
+- [Count](Publisher.Columns.Count.md)
+- [Parent](Publisher.Columns.Parent.md)
 
 ## See also
 

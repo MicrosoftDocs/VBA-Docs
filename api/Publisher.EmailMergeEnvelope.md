@@ -87,18 +87,14 @@ End Sub
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.EmailMergeEnvelope.Application.md)|
-|[Attachments](Publisher.EmailMergeEnvelope.Attachments.md)|
-|[Bcc](Publisher.EmailMergeEnvelope.Bcc.md)|
-|[Cc](Publisher.EmailMergeEnvelope.Cc.md)|
-|[Parent](Publisher.EmailMergeEnvelope.Parent.md)|
-|[Priority](Publisher.EmailMergeEnvelope.Priority.md)|
-|[Subject](Publisher.EmailMergeEnvelope.Subject.md)|
-|[To](Publisher.EmailMergeEnvelope.To.md)|
+- [Application](Publisher.EmailMergeEnvelope.Application.md)
+- [Attachments](Publisher.EmailMergeEnvelope.Attachments.md)
+- [Bcc](Publisher.EmailMergeEnvelope.Bcc.md)
+- [Cc](Publisher.EmailMergeEnvelope.Cc.md)
+- [Parent](Publisher.EmailMergeEnvelope.Parent.md)
+- [Priority](Publisher.EmailMergeEnvelope.Priority.md)
+- [Subject](Publisher.EmailMergeEnvelope.Subject.md)
+- [To](Publisher.EmailMergeEnvelope.To.md)
 
 ## See also
 

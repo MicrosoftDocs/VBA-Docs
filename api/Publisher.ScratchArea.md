@@ -22,19 +22,8 @@ Represents the area outside the boundaries of publication pages where layout ele
 
 Use the  **[ScratchArea](Publisher.Document.ScratchArea.md)** property of the **Document** object to return a scratch area. Use the **Shapes** property of the **ScratchArea** object to return the collection of shapes that are currently on a scratch area.
  
-
- 
-
- 
-
- 
 This example assigns the first shape on the scratch area of the active document to a variable.
  
-
- 
-
-
-
 ```vb
 Dim saPage As ScratchArea 
 Dim objFirst As Object 
@@ -46,12 +35,13 @@ objFirst = saPage.Shapes(1)
 
 ## Properties
 
+- [Application](Publisher.ScratchArea.Application.md)
+- [Parent](Publisher.ScratchArea.Parent.md)
+- [Shapes](Publisher.ScratchArea.Shapes.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.ScratchArea.Application.md)|
-|[Parent](Publisher.ScratchArea.Parent.md)|
-|[Shapes](Publisher.ScratchArea.Shapes.md)|
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

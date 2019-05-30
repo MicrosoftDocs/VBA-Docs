@@ -85,14 +85,10 @@ End Sub
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.ColorsInUse.Application.md)|
-|[Count](Publisher.ColorsInUse.Count.md)|
-|[Item](Publisher.ColorsInUse.Item.md)|
-|[Parent](Publisher.ColorsInUse.Parent.md)|
+- [Application](Publisher.ColorsInUse.Application.md)
+- [Count](Publisher.ColorsInUse.Count.md)
+- [Item](Publisher.ColorsInUse.Item.md)
+- [Parent](Publisher.ColorsInUse.Parent.md)
 
 ## See also
 

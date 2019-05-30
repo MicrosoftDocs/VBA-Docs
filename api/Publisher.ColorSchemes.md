@@ -72,14 +72,10 @@ End Sub
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.ColorSchemes.Application.md)|
-|[Count](Publisher.ColorSchemes.Count.md)|
-|[Item](Publisher.ColorSchemes.Item.md)|
-|[Parent](Publisher.ColorSchemes.Parent.md)|
+- [Application](Publisher.ColorSchemes.Application.md)
+- [Count](Publisher.ColorSchemes.Count.md)
+- [Item](Publisher.ColorSchemes.Item.md)
+- [Parent](Publisher.ColorSchemes.Parent.md)
 
 ## See also
 

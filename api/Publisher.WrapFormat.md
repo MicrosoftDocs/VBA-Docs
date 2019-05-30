@@ -46,19 +46,15 @@ End Sub
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.WrapFormat.Application.md)|
-|[DistanceAuto](Publisher.WrapFormat.DistanceAuto.md)|
-|[DistanceBottom](Publisher.WrapFormat.DistanceBottom.md)|
-|[DistanceLeft](Publisher.WrapFormat.DistanceLeft.md)|
-|[DistanceRight](Publisher.WrapFormat.DistanceRight.md)|
-|[DistanceTop](Publisher.WrapFormat.DistanceTop.md)|
-|[Parent](Publisher.WrapFormat.Parent.md)|
-|[Side](Publisher.WrapFormat.Side.md)|
-|[Type](Publisher.WrapFormat.Type.md)|
+- [Application](Publisher.WrapFormat.Application.md)
+- [DistanceAuto](Publisher.WrapFormat.DistanceAuto.md)
+- [DistanceBottom](Publisher.WrapFormat.DistanceBottom.md)
+- [DistanceLeft](Publisher.WrapFormat.DistanceLeft.md)
+- [DistanceRight](Publisher.WrapFormat.DistanceRight.md)
+- [DistanceTop](Publisher.WrapFormat.DistanceTop.md)
+- [Parent](Publisher.WrapFormat.Parent.md)
+- [Side](Publisher.WrapFormat.Side.md)
+- [Type](Publisher.WrapFormat.Type.md)
 
 ## See also
 

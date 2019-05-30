@@ -42,24 +42,16 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Publisher.WebHiddenFields.Add.md)|
-|[Delete](Publisher.WebHiddenFields.Delete.md)|
-|[Item](Publisher.WebHiddenFields.Item.md)|
-|[Name](Publisher.WebHiddenFields.Name.md)|
+- [Add](Publisher.WebHiddenFields.Add.md)
+- [Delete](Publisher.WebHiddenFields.Delete.md)
+- [Item](Publisher.WebHiddenFields.Item.md)
+- [Name](Publisher.WebHiddenFields.Name.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.WebHiddenFields.Application.md)|
-|[Count](Publisher.WebHiddenFields.Count.md)|
-|[Parent](Publisher.WebHiddenFields.Parent.md)|
+- [Application](Publisher.WebHiddenFields.Application.md)
+- [Count](Publisher.WebHiddenFields.Count.md)
+- [Parent](Publisher.WebHiddenFields.Parent.md)
 
 ## See also
 

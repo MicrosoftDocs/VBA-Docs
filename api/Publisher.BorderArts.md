@@ -60,21 +60,13 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Item](Publisher.BorderArts.Item.md)|
+- [Item](Publisher.BorderArts.Item.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.BorderArts.Application.md)|
-|[Count](Publisher.BorderArts.Count.md)|
-|[Parent](Publisher.BorderArts.Parent.md)|
+- [Application](Publisher.BorderArts.Application.md)
+- [Count](Publisher.BorderArts.Count.md)
+- [Parent](Publisher.BorderArts.Parent.md)
 
 ## See also
 

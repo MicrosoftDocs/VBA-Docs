@@ -22,27 +22,12 @@ Contains properties and methods that apply to connectors. A connector is a line 
 
 Use the  **ConnectorFormat** property of the **[Shape](Publisher.Shape.md)** object or the **[ShapeRange](Publisher.ShapeRange.md)** collection to return a **ConnectorFormat** object. Use the **[BeginConnect](Publisher.ConnectorFormat.BeginConnect.md)** and **[EndConnect](Publisher.ConnectorFormat.EndConnect.md)** methods of the **ConnectorFormat** object to attach the ends of the connector to other shapes in the publication. Use the **[RerouteConnections](Publisher.Shape.RerouteConnections.md)** method of the **Shape** object and **ShapeRange** collection to automatically find the shortest path between the two shapes connected by the connector. Use the **[Connector](Publisher.Shape.Connector.md)** property to see whether a shape is a connector.
  
-
- 
-
- 
-
  
 Note that you assign a size and a position when you add a connector to the  **Shapes** collection, but the size and position are automatically adjusted when you attach the beginning and end of the connector to other shapes in the collection. Therefore, if you intend to attach a connector to other shapes, the initial size and position you specify are irrelevant. Likewise, you specify which connection sites on a shape to attach the connector to when you attach the connector, but using the **RerouteConnections** method after the connector is attached may change which connection sites the connector attaches to, making your original choice of connection sites irrelevant.
  
 
- 
-
- 
-
- 
 The following example adds two rectangles to the active publication and connects them with a curved connector.
  
-
- 
-
-
-
 ```vb
 Dim shpAll As Shapes 
 Dim firstRect As Shape 
@@ -71,30 +56,22 @@ End With
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[BeginConnect](Publisher.ConnectorFormat.BeginConnect.md)|
-|[BeginDisconnect](Publisher.ConnectorFormat.BeginDisconnect.md)|
-|[EndConnect](Publisher.ConnectorFormat.EndConnect.md)|
-|[EndDisconnect](Publisher.ConnectorFormat.EndDisconnect.md)|
+- [BeginConnect](Publisher.ConnectorFormat.BeginConnect.md)
+- [BeginDisconnect](Publisher.ConnectorFormat.BeginDisconnect.md)
+- [EndConnect](Publisher.ConnectorFormat.EndConnect.md)
+- [EndDisconnect](Publisher.ConnectorFormat.EndDisconnect.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.ConnectorFormat.Application.md)|
-|[BeginConnected](Publisher.ConnectorFormat.BeginConnected.md)|
-|[BeginConnectedShape](Publisher.ConnectorFormat.BeginConnectedShape.md)|
-|[BeginConnectionSite](Publisher.ConnectorFormat.BeginConnectionSite.md)|
-|[EndConnected](Publisher.ConnectorFormat.EndConnected.md)|
-|[EndConnectedShape](Publisher.ConnectorFormat.EndConnectedShape.md)|
-|[EndConnectionSite](Publisher.ConnectorFormat.EndConnectionSite.md)|
-|[Parent](Publisher.ConnectorFormat.Parent.md)|
-|[Type](Publisher.ConnectorFormat.Type.md)|
+- [Application](Publisher.ConnectorFormat.Application.md)
+- [BeginConnected](Publisher.ConnectorFormat.BeginConnected.md)
+- [BeginConnectedShape](Publisher.ConnectorFormat.BeginConnectedShape.md)
+- [BeginConnectionSite](Publisher.ConnectorFormat.BeginConnectionSite.md)
+- [EndConnected](Publisher.ConnectorFormat.EndConnected.md)
+- [EndConnectedShape](Publisher.ConnectorFormat.EndConnectedShape.md)
+- [EndConnectionSite](Publisher.ConnectorFormat.EndConnectionSite.md)
+- [Parent](Publisher.ConnectorFormat.Parent.md)
+- [Type](Publisher.ConnectorFormat.Type.md)
 
 ## See also
 

@@ -46,8 +46,8 @@ With wizTemp
 End With
 ```
 
-
- **Note**  Depending on the language version of Microsoft Publisher that you are using, you may receive an error when using the above code. If this occurs, you will need to build in error handlers to circumvent the errors. The following example functions as the code above but has error handlers built in for this situation.
+> [!NOTE] 
+> Depending on the language version of Microsoft Publisher that you are using, you may receive an error when using the above code. If this occurs, you will need to build in error handlers to circumvent the errors. The following example functions as the code above but has error handlers built in for this situation.
  
 
 
@@ -87,23 +87,15 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[SetId](Publisher.Wizard.SetId.md)|
+- [SetId](Publisher.Wizard.SetId.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.Wizard.Application.md)|
-|[ID](Publisher.Wizard.ID.md)|
-|[Name](Publisher.Wizard.Name.md)|
-|[Parent](Publisher.Wizard.Parent.md)|
-|[Properties](Publisher.Wizard.Properties.md)|
+- [Application](Publisher.Wizard.Application.md)
+- [ID](Publisher.Wizard.ID.md)
+- [Name](Publisher.Wizard.Name.md)
+- [Parent](Publisher.Wizard.Parent.md)
+- [Properties](Publisher.Wizard.Properties.md)
 
 ## See also
 

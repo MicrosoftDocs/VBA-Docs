@@ -46,21 +46,13 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[AddNodes](Publisher.FreeformBuilder.AddNodes.md)|
-|[ConvertToShape](Publisher.FreeformBuilder.ConvertToShape.md)|
+- [AddNodes](Publisher.FreeformBuilder.AddNodes.md)
+- [ConvertToShape](Publisher.FreeformBuilder.ConvertToShape.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.FreeformBuilder.Application.md)|
-|[Parent](Publisher.FreeformBuilder.Parent.md)|
+- [Application](Publisher.FreeformBuilder.Application.md)
+- [Parent](Publisher.FreeformBuilder.Parent.md)
 
 ## See also
 

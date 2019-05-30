@@ -73,23 +73,15 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Clear](Publisher.TabStop.Clear.md)|
+- [Clear](Publisher.TabStop.Clear.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Alignment](Publisher.TabStop.Alignment.md)|
-|[Application](Publisher.TabStop.Application.md)|
-|[Leader](Publisher.TabStop.Leader.md)|
-|[Parent](Publisher.TabStop.Parent.md)|
-|[Position](Publisher.TabStop.Position.md)|
+- [Alignment](Publisher.TabStop.Alignment.md)
+- [Application](Publisher.TabStop.Application.md)
+- [Leader](Publisher.TabStop.Leader.md)
+- [Parent](Publisher.TabStop.Parent.md)
+- [Position](Publisher.TabStop.Position.md)
 
 ## See also
 

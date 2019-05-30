@@ -19,7 +19,7 @@ Contains font attributes (font name, font size, color, and so on) for an object.
 
 ## Example
 
-Use the  **[Font](./Publisher.TextStyle.Font.md)** property to return the **Font** object. The following instruction applies bold formatting to the selection.
+Use the  **[Font](Publisher.TextStyle.Font.md)** property to return the **Font** object. The following instruction applies bold formatting to the selection.
 
 
 ```vb
@@ -60,7 +60,7 @@ Sub FormatStyle()
 End Sub
 ```
 
-You can also duplicate a  **Font** object by using the **[Duplicate](./Publisher.TextRange.Duplicate.md)** property. The following example creates a new character style with the character formatting from the selection in addition to italic formatting. The formatting of the selection is not changed.
+You can also duplicate a  **Font** object by using the **[Duplicate](Publisher.TextRange.Duplicate.md)** property. The following example creates a new character style with the character formatting from the selection in addition to italic formatting. The formatting of the selection is not changed.
 
 
 
@@ -77,60 +77,52 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Duplicate](./Publisher.Font.Duplicate.md)|
-|[GetScriptName](./Publisher.Font.GetScriptName.md)|
-|[Grow](./Publisher.Font.Grow.md)|
-|[Reset](./Publisher.Font.Reset.md)|
-|[SetScriptName](./Publisher.Font.SetScriptName.md)|
-|[Shrink](./Publisher.Font.Shrink.md)|
+- [Duplicate](Publisher.Font.Duplicate.md)
+- [GetScriptName](Publisher.Font.GetScriptName.md)
+- [Grow](Publisher.Font.Grow.md)
+- [Reset](Publisher.Font.Reset.md)
+- [SetScriptName](Publisher.Font.SetScriptName.md)
+- [Shrink](Publisher.Font.Shrink.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[AllCaps](./Publisher.Font.AllCaps.md)|
-|[Application](./Publisher.Font.Application.md)|
-|[AttachedToText](./Publisher.Font.AttachedToText.md)|
-|[AutomaticPairKerningThreshold](./Publisher.Font.AutomaticPairKerningThreshold.md)|
-|[Bold](./Publisher.Font.Bold.md)|
-|[BoldBi](./Publisher.Font.BoldBi.md)|
-|[ContextualAlternates](./Publisher.Font.ContextualAlternates.md)|
-|[DiacriticColor](./Publisher.Font.DiacriticColor.md)|
-|[ExpandUsingKashida](./Publisher.Font.ExpandUsingKashida.md)|
-|[Fill](./Publisher.font.fill.md)|
-|[Glow](./Publisher.font.glow.md)|
-|[Italic](./Publisher.Font.Italic.md)|
-|[ItalicBi](./Publisher.Font.ItalicBi.md)|
-|[Kerning](./Publisher.Font.Kerning.md)|
-|[Ligature](./Publisher.font.ligature.md)|
-|[Line](./Publisher.font.line.md)|
-|[Name](./Publisher.Font.Name.md)|
-|[NumberStyle](./Publisher.font.numberstyle.md)|
-|[Parent](./Publisher.Font.Parent.md)|
-|[Position](./Publisher.Font.Position.md)|
-|[Reflection](./Publisher.font.reflection.md)|
-|[Scaling](./Publisher.Font.Scaling.md)|
-|[Size](./Publisher.Font.Size.md)|
-|[SizeBi](./Publisher.Font.SizeBi.md)|
-|[SmallCaps](./Publisher.Font.SmallCaps.md)|
-|[StrikeThrough](./Publisher.font.strikethrough.md)|
-|[StylisticAlternates](./Publisher.Font.StylisticAlternates.md)|
-|[StylisticSets](./Publisher.Font.StylisticSets.md)|
-|[SubScript](./Publisher.Font.SubScript.md)|
-|[SuperScript](./Publisher.Font.SuperScript.md)|
-|[Swash](./Publisher.Font.Swash.md)|
-|[TextShadow](./Publisher.font.textshadow.md)|
-|[ThreeD](./Publisher.font.threed.md)|
-|[Tracking](./Publisher.Font.Tracking.md)|
-|[TrackingPreset](./Publisher.Font.TrackingPreset.md)|
-|[Underline](./Publisher.Font.Underline.md)|
-|[UseDiacriticColor](./Publisher.Font.UseDiacriticColor.md)|
+- [AllCaps](Publisher.Font.AllCaps.md)
+- [Application](Publisher.Font.Application.md)
+- [AttachedToText](Publisher.Font.AttachedToText.md)
+- [AutomaticPairKerningThreshold](Publisher.Font.AutomaticPairKerningThreshold.md)
+- [Bold](Publisher.Font.Bold.md)
+- [BoldBi](Publisher.Font.BoldBi.md)
+- [ContextualAlternates](Publisher.Font.ContextualAlternates.md)
+- [DiacriticColor](Publisher.Font.DiacriticColor.md)
+- [ExpandUsingKashida](Publisher.Font.ExpandUsingKashida.md)
+- [Fill](Publisher.font.fill.md)
+- [Glow](Publisher.font.glow.md)
+- [Italic](Publisher.Font.Italic.md)
+- [ItalicBi](Publisher.Font.ItalicBi.md)
+- [Kerning](Publisher.Font.Kerning.md)
+- [Ligature](Publisher.font.ligature.md)
+- [Line](Publisher.font.line.md)
+- [Name](Publisher.Font.Name.md)
+- [NumberStyle](Publisher.font.numberstyle.md)
+- [Parent](Publisher.Font.Parent.md)
+- [Position](Publisher.Font.Position.md)
+- [Reflection](Publisher.font.reflection.md)
+- [Scaling](Publisher.Font.Scaling.md)
+- [Size](Publisher.Font.Size.md)
+- [SizeBi](Publisher.Font.SizeBi.md)
+- [SmallCaps](Publisher.Font.SmallCaps.md)
+- [StrikeThrough](Publisher.font.strikethrough.md)
+- [StylisticAlternates](Publisher.Font.StylisticAlternates.md)
+- [StylisticSets](Publisher.Font.StylisticSets.md)
+- [SubScript](Publisher.Font.SubScript.md)
+- [SuperScript](Publisher.Font.SuperScript.md)
+- [Swash](Publisher.Font.Swash.md)
+- [TextShadow](Publisher.font.textshadow.md)
+- [ThreeD](Publisher.font.threed.md)
+- [Tracking](Publisher.Font.Tracking.md)
+- [TrackingPreset](Publisher.Font.TrackingPreset.md)
+- [Underline](Publisher.Font.Underline.md)
+- [UseDiacriticColor](Publisher.Font.UseDiacriticColor.md)
 
 ## See also
 

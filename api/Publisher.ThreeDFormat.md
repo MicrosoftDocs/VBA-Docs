@@ -53,45 +53,37 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[IncrementRotationX](Publisher.ThreeDFormat.IncrementRotationX.md)|
-|[IncrementRotationY](Publisher.ThreeDFormat.IncrementRotationY.md)|
-|[ResetRotation](Publisher.ThreeDFormat.ResetRotation.md)|
-|[SetExtrusionDirection](Publisher.ThreeDFormat.SetExtrusionDirection.md)|
-|[SetThreeDFormat](Publisher.ThreeDFormat.SetThreeDFormat.md)|
+- [IncrementRotationX](Publisher.ThreeDFormat.IncrementRotationX.md)
+- [IncrementRotationY](Publisher.ThreeDFormat.IncrementRotationY.md)
+- [ResetRotation](Publisher.ThreeDFormat.ResetRotation.md)
+- [SetExtrusionDirection](Publisher.ThreeDFormat.SetExtrusionDirection.md)
+- [SetThreeDFormat](Publisher.ThreeDFormat.SetThreeDFormat.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.ThreeDFormat.Application.md)|
-|[BevelBottomDepth](Publisher.threedformat.bevelbottomdepth.md)|
-|[BevelBottomInset](Publisher.threedformat.bevelbottominset.md)|
-|[BevelBottomType](Publisher.threedformat.bevelbottomtype.md)|
-|[BevelTopDepth](Publisher.threedformat.beveltopdepth.md)|
-|[BevelTopInset](Publisher.threedformat.beveltopinset.md)|
-|[BevelTopType](Publisher.threedformat.beveltoptype.md)|
-|[ContourColor](Publisher.threedformat.contourcolor.md)|
-|[ContourWidth](Publisher.threedformat.contourwidth.md)|
-|[Depth](Publisher.ThreeDFormat.Depth.md)|
-|[ExtrusionColor](Publisher.ThreeDFormat.ExtrusionColor.md)|
-|[ExtrusionColorType](Publisher.ThreeDFormat.ExtrusionColorType.md)|
-|[FieldOfView](Publisher.threedformat.fieldofview.md)|
-|[Parent](Publisher.ThreeDFormat.Parent.md)|
-|[Perspective](Publisher.ThreeDFormat.Perspective.md)|
-|[PresetExtrusionDirection](Publisher.ThreeDFormat.PresetExtrusionDirection.md)|
-|[PresetLightingDirection](Publisher.ThreeDFormat.PresetLightingDirection.md)|
-|[PresetLightingSoftness](Publisher.ThreeDFormat.PresetLightingSoftness.md)|
-|[PresetMaterial](Publisher.ThreeDFormat.PresetMaterial.md)|
-|[PresetThreeDFormat](Publisher.ThreeDFormat.PresetThreeDFormat.md)|
-|[RotationX](Publisher.ThreeDFormat.RotationX.md)|
-|[RotationY](Publisher.ThreeDFormat.RotationY.md)|
-|[Visible](Publisher.ThreeDFormat.Visible.md)|
+- [Application](Publisher.ThreeDFormat.Application.md)
+- [BevelBottomDepth](Publisher.threedformat.bevelbottomdepth.md)
+- [BevelBottomInset](Publisher.threedformat.bevelbottominset.md)
+- [BevelBottomType](Publisher.threedformat.bevelbottomtype.md)
+- [BevelTopDepth](Publisher.threedformat.beveltopdepth.md)
+- [BevelTopInset](Publisher.threedformat.beveltopinset.md)
+- [BevelTopType](Publisher.threedformat.beveltoptype.md)
+- [ContourColor](Publisher.threedformat.contourcolor.md)
+- [ContourWidth](Publisher.threedformat.contourwidth.md)
+- [Depth](Publisher.ThreeDFormat.Depth.md)
+- [ExtrusionColor](Publisher.ThreeDFormat.ExtrusionColor.md)
+- [ExtrusionColorType](Publisher.ThreeDFormat.ExtrusionColorType.md)
+- [FieldOfView](Publisher.threedformat.fieldofview.md)
+- [Parent](Publisher.ThreeDFormat.Parent.md)
+- [Perspective](Publisher.ThreeDFormat.Perspective.md)
+- [PresetExtrusionDirection](Publisher.ThreeDFormat.PresetExtrusionDirection.md)
+- [PresetLightingDirection](Publisher.ThreeDFormat.PresetLightingDirection.md)
+- [PresetLightingSoftness](Publisher.ThreeDFormat.PresetLightingSoftness.md)
+- [PresetMaterial](Publisher.ThreeDFormat.PresetMaterial.md)
+- [PresetThreeDFormat](Publisher.ThreeDFormat.PresetThreeDFormat.md)
+- [RotationX](Publisher.ThreeDFormat.RotationX.md)
+- [RotationY](Publisher.ThreeDFormat.RotationY.md)
+- [Visible](Publisher.ThreeDFormat.Visible.md)
 
 ## See also
 

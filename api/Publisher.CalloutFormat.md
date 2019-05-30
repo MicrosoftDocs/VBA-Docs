@@ -21,13 +21,6 @@ Contains properties and methods that apply to line callouts.
 ## Example
 
 Use the  **[Callout](Publisher.Shape.Callout.md)** property to return a **CalloutFormat** object. The following example adds a callout to the active publication, adds text to the callout, then specifies the following attributes for the callout:
- 
-
- 
-
- 
-
- 
 
 - a vertical accent bar that separates the text from the callout line (**Accent** property)
     
@@ -73,33 +66,25 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[AutomaticLength](Publisher.CalloutFormat.AutomaticLength.md)|
-|[CustomDrop](Publisher.CalloutFormat.CustomDrop.md)|
-|[CustomLength](Publisher.CalloutFormat.CustomLength.md)|
-|[PresetDrop](Publisher.CalloutFormat.PresetDrop.md)|
+- [AutomaticLength](Publisher.CalloutFormat.AutomaticLength.md)
+- [CustomDrop](Publisher.CalloutFormat.CustomDrop.md)
+- [CustomLength](Publisher.CalloutFormat.CustomLength.md)
+- [PresetDrop](Publisher.CalloutFormat.PresetDrop.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Accent](Publisher.CalloutFormat.Accent.md)|
-|[Angle](Publisher.CalloutFormat.Angle.md)|
-|[Application](Publisher.CalloutFormat.Application.md)|
-|[AutoAttach](Publisher.CalloutFormat.AutoAttach.md)|
-|[AutoLength](Publisher.CalloutFormat.AutoLength.md)|
-|[Border](Publisher.CalloutFormat.Border.md)|
-|[Drop](Publisher.CalloutFormat.Drop.md)|
-|[DropType](Publisher.CalloutFormat.DropType.md)|
-|[Gap](Publisher.CalloutFormat.Gap.md)|
-|[Length](Publisher.CalloutFormat.Length.md)|
-|[Parent](Publisher.CalloutFormat.Parent.md)|
-|[Type](Publisher.CalloutFormat.Type.md)|
+- [Accent](Publisher.CalloutFormat.Accent.md)
+- [Angle](Publisher.CalloutFormat.Angle.md)
+- [Application](Publisher.CalloutFormat.Application.md)
+- [AutoAttach](Publisher.CalloutFormat.AutoAttach.md)
+- [AutoLength](Publisher.CalloutFormat.AutoLength.md)
+- [Border](Publisher.CalloutFormat.Border.md)
+- [Drop](Publisher.CalloutFormat.Drop.md)
+- [DropType](Publisher.CalloutFormat.DropType.md)
+- [Gap](Publisher.CalloutFormat.Gap.md)
+- [Length](Publisher.CalloutFormat.Length.md)
+- [Parent](Publisher.CalloutFormat.Parent.md)
+- [Type](Publisher.CalloutFormat.Type.md)
 
 ## See also
 

@@ -19,7 +19,7 @@ Represents the collection of  **[Hyperlink](Publisher.Hyperlink.md)** objects in
 
 ## Example
 
-Use the  **[Hyperlinks](./Publisher.TextRange.Hyperlinks.md)** property to return the **Hyperlinks** collection. The following example deletes all text hyperlinks in the active publication that contain the word "Tailspin" in the address.
+Use the  **[Hyperlinks](Publisher.TextRange.Hyperlinks.md)** property to return the **Hyperlinks** collection. The following example deletes all text hyperlinks in the active publication that contain the word "Tailspin" in the address.
 
 
 ```vb
@@ -46,7 +46,7 @@ Sub DeleteMSHyperlinks()
 End Sub
 ```
 
-Use the  **[Add](./Publisher.Hyperlinks.Add.md)** method to create a hyperlink and add it to the **Hyperlinks** collection. The following example creates a new hyperlink to the specified Web site.
+Use the  **[Add](Publisher.Hyperlinks.Add.md)** method to create a hyperlink and add it to the **Hyperlinks** collection. The following example creates a new hyperlink to the specified Web site.
 
 
 
@@ -72,27 +72,19 @@ Sub DisplayHyperlinkAddress()
 End Sub
 ```
 
-The  **[Count](./Publisher.Hyperlinks.Count.md)** property for this collection returns the number of hyperlinks in the specified shape or selection only.
+The  **[Count](Publisher.Hyperlinks.Count.md)** property for this collection returns the number of hyperlinks in the specified shape or selection only.
 
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](./Publisher.Hyperlinks.Add.md)|
+- [Add](Publisher.Hyperlinks.Add.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](./Publisher.Hyperlinks.Application.md)|
-|[Count](./Publisher.Hyperlinks.Count.md)|
-|[Item](./Publisher.Hyperlinks.Item.md)|
-|[Parent](./Publisher.Hyperlinks.Parent.md)|
+- [Application](Publisher.Hyperlinks.Application.md)
+- [Count](Publisher.Hyperlinks.Count.md)
+- [Item](Publisher.Hyperlinks.Item.md)
+- [Parent](Publisher.Hyperlinks.Parent.md)
 
 ## See also
 

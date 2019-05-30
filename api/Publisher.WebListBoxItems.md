@@ -46,6 +46,20 @@ Sub CreateWebListBox()
 End Sub
 ```
 
+## Methods
+
+- [AddItem](Publisher.WebListBoxItems.AddItem.md)
+- [Delete](Publisher.WebListBoxItems.Delete.md)
+- [Item](Publisher.WebListBoxItems.Item.md)
+- [Selected](Publisher.WebListBoxItems.Selected.md)
+
+## Properties
+
+- [Application](Publisher.WebListBoxItems.Application.md)
+- [Count](Publisher.WebListBoxItems.Count.md)
+- [Parent](Publisher.WebListBoxItems.Parent.md)
+
+
 ## See also
 
 - [Publisher Object Model Reference](overview/publisher/object-model.md)

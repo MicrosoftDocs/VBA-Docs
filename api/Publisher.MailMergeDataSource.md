@@ -53,45 +53,37 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[ApplyFilter](Publisher.MailMergeDataSource.ApplyFilter.md)|
-|[Close](Publisher.MailMergeDataSource.Close.md)|
-|[EditRecord](Publisher.MailMergeDataSource.EditRecord.md)|
-|[FindRecord](Publisher.MailMergeDataSource.FindRecord.md)|
-|[OpenRecipientsDialog](Publisher.MailMergeDataSource.OpenRecipientsDialog.md)|
-|[SetAllErrorFlags](Publisher.MailMergeDataSource.SetAllErrorFlags.md)|
-|[SetAllIncludedFlags](Publisher.MailMergeDataSource.SetAllIncludedFlags.md)|
-|[SetSortOrder](Publisher.MailMergeDataSource.SetSortOrder.md)|
+- [ApplyFilter](Publisher.MailMergeDataSource.ApplyFilter.md)
+- [Close](Publisher.MailMergeDataSource.Close.md)
+- [EditRecord](Publisher.MailMergeDataSource.EditRecord.md)
+- [FindRecord](Publisher.MailMergeDataSource.FindRecord.md)
+- [OpenRecipientsDialog](Publisher.MailMergeDataSource.OpenRecipientsDialog.md)
+- [SetAllErrorFlags](Publisher.MailMergeDataSource.SetAllErrorFlags.md)
+- [SetAllIncludedFlags](Publisher.MailMergeDataSource.SetAllIncludedFlags.md)
+- [SetSortOrder](Publisher.MailMergeDataSource.SetSortOrder.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[ActiveRecord](Publisher.MailMergeDataSource.ActiveRecord.md)|
-|[Application](Publisher.MailMergeDataSource.Application.md)|
-|[ConnectString](Publisher.MailMergeDataSource.ConnectString.md)|
-|[DataFields](Publisher.MailMergeDataSource.DataFields.md)|
-|[DataSources](Publisher.MailMergeDataSource.DataSources.md)|
-|[EverValidated](Publisher.MailMergeDataSource.EverValidated.md)|
-|[Filters](Publisher.MailMergeDataSource.Filters.md)|
-|[FirstRecord](Publisher.MailMergeDataSource.FirstRecord.md)|
-|[Included](Publisher.MailMergeDataSource.Included.md)|
-|[InvalidAddress](Publisher.MailMergeDataSource.InvalidAddress.md)|
-|[InvalidComments](Publisher.MailMergeDataSource.InvalidComments.md)|
-|[IsMaster](Publisher.MailMergeDataSource.IsMaster.md)|
-|[LastRecord](Publisher.MailMergeDataSource.LastRecord.md)|
-|[MappedDataFields](Publisher.MailMergeDataSource.MappedDataFields.md)|
-|[Name](Publisher.MailMergeDataSource.Name.md)|
-|[Parent](Publisher.MailMergeDataSource.Parent.md)|
-|[RecordCount](Publisher.MailMergeDataSource.RecordCount.md)|
-|[TableName](Publisher.MailMergeDataSource.TableName.md)|
-|[Type](Publisher.MailMergeDataSource.Type.md)|
-|[ValidatedClean](Publisher.MailMergeDataSource.ValidatedClean.md)|
+- [ActiveRecord](Publisher.MailMergeDataSource.ActiveRecord.md)
+- [Application](Publisher.MailMergeDataSource.Application.md)
+- [ConnectString](Publisher.MailMergeDataSource.ConnectString.md)
+- [DataFields](Publisher.MailMergeDataSource.DataFields.md)
+- [DataSources](Publisher.MailMergeDataSource.DataSources.md)
+- [EverValidated](Publisher.MailMergeDataSource.EverValidated.md)
+- [Filters](Publisher.MailMergeDataSource.Filters.md)
+- [FirstRecord](Publisher.MailMergeDataSource.FirstRecord.md)
+- [Included](Publisher.MailMergeDataSource.Included.md)
+- [InvalidAddress](Publisher.MailMergeDataSource.InvalidAddress.md)
+- [InvalidComments](Publisher.MailMergeDataSource.InvalidComments.md)
+- [IsMaster](Publisher.MailMergeDataSource.IsMaster.md)
+- [LastRecord](Publisher.MailMergeDataSource.LastRecord.md)
+- [MappedDataFields](Publisher.MailMergeDataSource.MappedDataFields.md)
+- [Name](Publisher.MailMergeDataSource.Name.md)
+- [Parent](Publisher.MailMergeDataSource.Parent.md)
+- [RecordCount](Publisher.MailMergeDataSource.RecordCount.md)
+- [TableName](Publisher.MailMergeDataSource.TableName.md)
+- [Type](Publisher.MailMergeDataSource.Type.md)
+- [ValidatedClean](Publisher.MailMergeDataSource.ValidatedClean.md)
 
 ## See also
 

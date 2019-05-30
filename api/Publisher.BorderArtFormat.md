@@ -130,28 +130,20 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Publisher.BorderArtFormat.Delete.md)|
-|[RevertToDefaultWeight](Publisher.BorderArtFormat.RevertToDefaultWeight.md)|
-|[RevertToOriginalColor](Publisher.BorderArtFormat.RevertToOriginalColor.md)|
-|[Set](Publisher.BorderArtFormat.Set.md)|
+- [Delete](Publisher.BorderArtFormat.Delete.md)
+- [RevertToDefaultWeight](Publisher.BorderArtFormat.RevertToDefaultWeight.md)
+- [RevertToOriginalColor](Publisher.BorderArtFormat.RevertToOriginalColor.md)
+- [Set](Publisher.BorderArtFormat.Set.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.BorderArtFormat.Application.md)|
-|[Color](Publisher.BorderArtFormat.Color.md)|
-|[Exists](Publisher.BorderArtFormat.Exists.md)|
-|[Name](Publisher.BorderArtFormat.Name.md)|
-|[Parent](Publisher.BorderArtFormat.Parent.md)|
-|[StretchPictures](Publisher.BorderArtFormat.StretchPictures.md)|
-|[Weight](Publisher.BorderArtFormat.Weight.md)|
+- [Application](Publisher.BorderArtFormat.Application.md)
+- [Color](Publisher.BorderArtFormat.Color.md)
+- [Exists](Publisher.BorderArtFormat.Exists.md)
+- [Name](Publisher.BorderArtFormat.Name.md)
+- [Parent](Publisher.BorderArtFormat.Parent.md)
+- [StretchPictures](Publisher.BorderArtFormat.StretchPictures.md)
+- [Weight](Publisher.BorderArtFormat.Weight.md)
 
 ## See also
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Cell object (Publisher)
 
-Represents a single table cell. The  **Cell** object is a member of the **[CellRange](./Publisher.CellRange.md)** collection. The **CellRange** collection represents all the cells in the specified object.
+Represents a single table cell. The  **Cell** object is a member of the **[CellRange](Publisher.CellRange.md)** collection. The **CellRange** collection represents all the cells in the specified object.
 
 
 ## Example
@@ -49,42 +49,34 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Merge](./Publisher.Cell.Merge.md)|
-|[Select](./Publisher.Cell.Select.md)|
-|[Split](./Publisher.Cell.Split.md)|
+- [Merge](Publisher.Cell.Merge.md)
+- [Select](Publisher.Cell.Select.md)
+- [Split](Publisher.Cell.Split.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](./Publisher.Cell.Application.md)|
-|[BorderBottom](./Publisher.Cell.BorderBottom.md)|
-|[BorderDiagonal](./Publisher.Cell.BorderDiagonal.md)|
-|[BorderLeft](./Publisher.Cell.BorderLeft.md)|
-|[BorderRight](./Publisher.Cell.BorderRight.md)|
-|[BorderTop](./Publisher.Cell.BorderTop.md)|
-|[CellTextOrientation](./Publisher.Cell.CellTextOrientation.md)|
-|[Column](./Publisher.Cell.Column.md)|
-|[Diagonal](./Publisher.Cell.Diagonal.md)|
-|[Fill](./Publisher.Cell.Fill.md)|
-|[HasText](./Publisher.Cell.HasText.md)|
-|[Height](./Publisher.Cell.Height.md)|
-|[MarginBottom](./Publisher.Cell.MarginBottom.md)|
-|[MarginLeft](./Publisher.Cell.MarginLeft.md)|
-|[MarginRight](./Publisher.Cell.MarginRight.md)|
-|[MarginTop](./Publisher.Cell.MarginTop.md)|
-|[Parent](./Publisher.Cell.Parent.md)|
-|[Row](./Publisher.Cell.Row.md)|
-|[Selected](./Publisher.Cell.Selected.md)|
-|[TextRange](./Publisher.Cell.TextRange.md)|
-|[VerticalTextAlignment](./Publisher.Cell.VerticalTextAlignment.md)|
-|[Width](./Publisher.Cell.Width.md)|
+- [Application](Publisher.Cell.Application.md)
+- [BorderBottom](Publisher.Cell.BorderBottom.md)
+- [BorderDiagonal](Publisher.Cell.BorderDiagonal.md)
+- [BorderLeft](Publisher.Cell.BorderLeft.md)
+- [BorderRight](Publisher.Cell.BorderRight.md)
+- [BorderTop](Publisher.Cell.BorderTop.md)
+- [CellTextOrientation](Publisher.Cell.CellTextOrientation.md)
+- [Column](Publisher.Cell.Column.md)
+- [Diagonal](Publisher.Cell.Diagonal.md)
+- [Fill](Publisher.Cell.Fill.md)
+- [HasText](Publisher.Cell.HasText.md)
+- [Height](Publisher.Cell.Height.md)
+- [MarginBottom](Publisher.Cell.MarginBottom.md)
+- [MarginLeft](Publisher.Cell.MarginLeft.md)
+- [MarginRight](Publisher.Cell.MarginRight.md)
+- [MarginTop](Publisher.Cell.MarginTop.md)
+- [Parent](Publisher.Cell.Parent.md)
+- [Row](Publisher.Cell.Row.md)
+- [Selected](Publisher.Cell.Selected.md)
+- [TextRange](Publisher.Cell.TextRange.md)
+- [VerticalTextAlignment](Publisher.Cell.VerticalTextAlignment.md)
+- [Width](Publisher.Cell.Width.md)
 
 ## See also
 

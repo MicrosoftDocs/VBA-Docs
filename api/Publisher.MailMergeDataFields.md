@@ -73,22 +73,14 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Item](Publisher.MailMergeDataFields.Item.md)|
+- [Item](Publisher.MailMergeDataFields.Item.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.MailMergeDataFields.Application.md)|
-|[Count](Publisher.MailMergeDataFields.Count.md)|
-|[Creator](Publisher.MailMergeDataFields.Creator.md)|
-|[Parent](Publisher.MailMergeDataFields.Parent.md)|
+- [Application](Publisher.MailMergeDataFields.Application.md)
+- [Count](Publisher.MailMergeDataFields.Count.md)
+- [Creator](Publisher.MailMergeDataFields.Creator.md)
+- [Parent](Publisher.MailMergeDataFields.Parent.md)
 
 ## See also
 

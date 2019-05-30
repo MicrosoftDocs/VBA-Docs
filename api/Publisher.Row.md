@@ -97,22 +97,14 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Publisher.Row.Delete.md)|
+- [Delete](Publisher.Row.Delete.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.Row.Application.md)|
-|[Cells](Publisher.Row.Cells.md)|
-|[Height](Publisher.Row.Height.md)|
-|[Parent](Publisher.Row.Parent.md)|
+- [Application](Publisher.Row.Application.md)
+- [Cells](Publisher.Row.Cells.md)
+- [Height](Publisher.Row.Height.md)
+- [Parent](Publisher.Row.Parent.md)
 
 ## See also
 

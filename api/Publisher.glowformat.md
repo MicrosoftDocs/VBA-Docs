@@ -18,14 +18,10 @@ Represents the glow formatting for a shape or a range of shapes.
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Color](Publisher.glowformat.color.md)|
-|[Radius](Publisher.glowformat.radius.md)|
-|[Transparency](Publisher.glowformat.transparency.md)|
-|[Visible](Publisher.glowformat.visible.md)|
+- [Color](Publisher.glowformat.color.md)
+- [Radius](Publisher.glowformat.radius.md)
+- [Transparency](Publisher.glowformat.transparency.md)
+- [Visible](Publisher.glowformat.visible.md)
 
 ## See also
 

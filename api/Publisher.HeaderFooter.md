@@ -66,22 +66,14 @@ End With
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Publisher.HeaderFooter.Delete.md)|
+- [Delete](Publisher.HeaderFooter.Delete.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.HeaderFooter.Application.md)|
-|[IsHeader](Publisher.HeaderFooter.IsHeader.md)|
-|[Parent](Publisher.HeaderFooter.Parent.md)|
-|[TextRange](Publisher.HeaderFooter.TextRange.md)|
+- [Application](Publisher.HeaderFooter.Application.md)
+- [IsHeader](Publisher.HeaderFooter.IsHeader.md)
+- [Parent](Publisher.HeaderFooter.Parent.md)
+- [TextRange](Publisher.HeaderFooter.TextRange.md)
 
 ## See also
 

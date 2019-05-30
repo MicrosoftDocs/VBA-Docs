@@ -47,30 +47,22 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Activate](Publisher.Window.Activate.md)|
-|[Move](Publisher.Window.Move.md)|
-|[Resize](Publisher.Window.Resize.md)|
+- [Activate](Publisher.Window.Activate.md)
+- [Move](Publisher.Window.Move.md)
+- [Resize](Publisher.Window.Resize.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.Window.Application.md)|
-|[Caption](Publisher.Window.Caption.md)|
-|[Height](Publisher.Window.Height.md)|
-|[Hwnd](Publisher.Window.Hwnd.md)|
-|[Left](Publisher.Window.Left.md)|
-|[Parent](Publisher.Window.Parent.md)|
-|[Top](Publisher.Window.Top.md)|
-|[Visible](Publisher.Window.Visible.md)|
-|[Width](Publisher.Window.Width.md)|
-|[WindowState](Publisher.Window.WindowState.md)|
+- [Application](Publisher.Window.Application.md)
+- [Caption](Publisher.Window.Caption.md)
+- [Height](Publisher.Window.Height.md)
+- [Hwnd](Publisher.Window.Hwnd.md)
+- [Left](Publisher.Window.Left.md)
+- [Parent](Publisher.Window.Parent.md)
+- [Top](Publisher.Window.Top.md)
+- [Visible](Publisher.Window.Visible.md)
+- [Width](Publisher.Window.Width.md)
+- [WindowState](Publisher.Window.WindowState.md)
 
 ## See also
 

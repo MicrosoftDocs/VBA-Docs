@@ -101,22 +101,14 @@ ActiveDocument.WebNavigationBarSets.Item _
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[AddSet](Publisher.WebNavigationBarSets.AddSet.md)|
-|[Item](Publisher.WebNavigationBarSets.Item.md)|
+- [AddSet](Publisher.WebNavigationBarSets.AddSet.md)
+- [Item](Publisher.WebNavigationBarSets.Item.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.WebNavigationBarSets.Application.md)|
-|[Count](Publisher.WebNavigationBarSets.Count.md)|
-|[Parent](Publisher.WebNavigationBarSets.Parent.md)|
+- [Application](Publisher.WebNavigationBarSets.Application.md)
+- [Count](Publisher.WebNavigationBarSets.Count.md)
+- [Parent](Publisher.WebNavigationBarSets.Parent.md)
 
 ## See also
 

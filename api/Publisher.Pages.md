@@ -41,24 +41,16 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Publisher.Pages.Add.md)|
-|[AddWizardPage](Publisher.Pages.AddWizardPage.md)|
-|[FindByPageID](Publisher.Pages.FindByPageID.md)|
+- [Add](Publisher.Pages.Add.md)
+- [AddWizardPage](Publisher.Pages.AddWizardPage.md)
+- [FindByPageID](Publisher.Pages.FindByPageID.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.Pages.Application.md)|
-|[Count](Publisher.Pages.Count.md)|
-|[Item](Publisher.Pages.Item.md)|
-|[Parent](Publisher.Pages.Parent.md)|
+- [Application](Publisher.Pages.Application.md)
+- [Count](Publisher.Pages.Count.md)
+- [Item](Publisher.Pages.Item.md)
+- [Parent](Publisher.Pages.Parent.md)
 
 ## See also
 

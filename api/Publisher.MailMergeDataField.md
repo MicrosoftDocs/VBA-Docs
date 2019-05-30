@@ -44,30 +44,22 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[AddToRecipientFields](Publisher.MailMergeDataField.AddToRecipientFields.md)|
-|[Insert](Publisher.MailMergeDataField.Insert.md)|
-|[MapToRecipientField](Publisher.MailMergeDataField.MapToRecipientField.md)|
-|[UnMapRecipientField](Publisher.MailMergeDataField.UnMapRecipientField.md)|
+- [AddToRecipientFields](Publisher.MailMergeDataField.AddToRecipientFields.md)
+- [Insert](Publisher.MailMergeDataField.Insert.md)
+- [MapToRecipientField](Publisher.MailMergeDataField.MapToRecipientField.md)
+- [UnMapRecipientField](Publisher.MailMergeDataField.UnMapRecipientField.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.MailMergeDataField.Application.md)|
-|[Creator](Publisher.MailMergeDataField.Creator.md)|
-|[FieldType](Publisher.Field.FieldType.md)|
-|[Index](Publisher.MailMergeDataField.Index.md)|
-|[IsMapped](Publisher.MailMergeDataField.IsMapped.md)|
-|[MappedTo](Publisher.MailMergeDataField.MappedTo.md)|
-|[Name](Publisher.MailMergeDataField.Name.md)|
-|[Parent](Publisher.MailMergeDataField.Parent.md)|
-|[Value](Publisher.MailMergeDataField.Value.md)|
+- [Application](Publisher.MailMergeDataField.Application.md)
+- [Creator](Publisher.MailMergeDataField.Creator.md)
+- [FieldType](Publisher.Field.FieldType.md)
+- [Index](Publisher.MailMergeDataField.Index.md)
+- [IsMapped](Publisher.MailMergeDataField.IsMapped.md)
+- [MappedTo](Publisher.MailMergeDataField.MappedTo.md)
+- [Name](Publisher.MailMergeDataField.Name.md)
+- [Parent](Publisher.MailMergeDataField.Parent.md)
+- [Value](Publisher.MailMergeDataField.Value.md)
 
 ## See also
 

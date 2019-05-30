@@ -46,20 +46,16 @@ Dim cmykColor As ColorCMYK Set cmykColor = ActiveDocument.Pages(1).Shapes(1).Fil
 
 |Name|
 |:-----|
-|[SetCMYK](Publisher.ColorCMYK.SetCMYK.md)|
+- [SetCMYK](Publisher.ColorCMYK.SetCMYK.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.ColorCMYK.Application.md)|
-|[Black](Publisher.ColorCMYK.Black.md)|
-|[Cyan](Publisher.ColorCMYK.Cyan.md)|
-|[Magenta](Publisher.ColorCMYK.Magenta.md)|
-|[Parent](Publisher.ColorCMYK.Parent.md)|
-|[Yellow](Publisher.ColorCMYK.Yellow.md)|
+- [Application](Publisher.ColorCMYK.Application.md)
+- [Black](Publisher.ColorCMYK.Black.md)
+- [Cyan](Publisher.ColorCMYK.Cyan.md)
+- [Magenta](Publisher.ColorCMYK.Magenta.md)
+- [Parent](Publisher.ColorCMYK.Parent.md)
+- [Yellow](Publisher.ColorCMYK.Yellow.md)
 
 ## See also
 

@@ -45,14 +45,10 @@ End With
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.WizardValues.Application.md)|
-|[Count](Publisher.WizardValues.Count.md)|
-|[Item](Publisher.WizardValues.Item.md)|
-|[Parent](Publisher.WizardValues.Parent.md)|
+- [Application](Publisher.WizardValues.Application.md)
+- [Count](Publisher.WizardValues.Count.md)
+- [Item](Publisher.WizardValues.Item.md)
+- [Parent](Publisher.WizardValues.Parent.md)
 
 ## See also
 

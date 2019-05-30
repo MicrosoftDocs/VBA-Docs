@@ -65,22 +65,14 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Publisher.Column.Delete.md)|
+- [Delete](Publisher.Column.Delete.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.Column.Application.md)|
-|[Cells](Publisher.Column.Cells.md)|
-|[Parent](Publisher.Column.Parent.md)|
-|[Width](Publisher.Column.Width.md)|
+- [Application](Publisher.Column.Application.md)
+- [Cells](Publisher.Column.Cells.md)
+- [Parent](Publisher.Column.Parent.md)
+- [Width](Publisher.Column.Width.md)
 
 ## See also
 

@@ -58,16 +58,12 @@ End Sub
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.PrintableRect.Application.md)|
-|[Height](Publisher.PrintableRect.Height.md)|
-|[Left](Publisher.PrintableRect.Left.md)|
-|[Parent](Publisher.PrintableRect.Parent.md)|
-|[Top](Publisher.PrintableRect.Top.md)|
-|[Width](Publisher.PrintableRect.Width.md)|
+- [Application](Publisher.PrintableRect.Application.md)
+- [Height](Publisher.PrintableRect.Height.md)
+- [Left](Publisher.PrintableRect.Left.md)
+- [Parent](Publisher.PrintableRect.Parent.md)
+- [Top](Publisher.PrintableRect.Top.md)
+- [Width](Publisher.PrintableRect.Width.md)
 
 ## See also
 

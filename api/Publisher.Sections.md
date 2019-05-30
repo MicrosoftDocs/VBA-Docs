@@ -88,22 +88,14 @@ Next i
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Publisher.Sections.Add.md)|
+- [Add](Publisher.Sections.Add.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.Sections.Application.md)|
-|[Count](Publisher.Sections.Count.md)|
-|[Item](Publisher.Sections.Item.md)|
-|[Parent](Publisher.Sections.Parent.md)|
+- [Application](Publisher.Sections.Application.md)
+- [Count](Publisher.Sections.Count.md)
+- [Item](Publisher.Sections.Item.md)
+- [Parent](Publisher.Sections.Parent.md)
 
 ## See also
 

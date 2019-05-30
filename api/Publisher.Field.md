@@ -58,26 +58,18 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Unlink](Publisher.Field.Unlink.md)|
+- [Unlink](Publisher.Field.Unlink.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.Field.Application.md)|
-|[Code](Publisher.Field.Code.md)|
-|[Next](Publisher.Field.Next.md)|
-|[Parent](Publisher.Field.Parent.md)|
-|[PhoneticGuide](Publisher.Field.PhoneticGuide.md)|
-|[Result](Publisher.Field.Result.md)|
-|[TextRange](Publisher.Field.TextRange.md)|
-|[Type](Publisher.field.type.md)|
+- [Application](Publisher.Field.Application.md)
+- [Code](Publisher.Field.Code.md)
+- [Next](Publisher.Field.Next.md)
+- [Parent](Publisher.Field.Parent.md)
+- [PhoneticGuide](Publisher.Field.PhoneticGuide.md)
+- [Result](Publisher.Field.Result.md)
+- [TextRange](Publisher.Field.TextRange.md)
+- [Type](Publisher.field.type.md)
 
 ## See also
 

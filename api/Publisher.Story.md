@@ -52,18 +52,14 @@ End Sub
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](./Publisher.Story.Application.md)|
-|[HasTable](./Publisher.Story.HasTable.md)|
-|[HasTextFrame](./Publisher.Story.HasTextFrame.md)|
-|[Parent](./Publisher.Story.Parent.md)|
-|[Table](./Publisher.Story.Table.md)|
-|[TextFrame](./Publisher.Story.TextFrame.md)|
-|[TextRange](./Publisher.Story.TextRange.md)|
-|[Type](./Publisher.Story.Type.md)|
+- [Application](Publisher.Story.Application.md)
+- [HasTable](Publisher.Story.HasTable.md)
+- [HasTextFrame](Publisher.Story.HasTextFrame.md)
+- [Parent](Publisher.Story.Parent.md)
+- [Table](Publisher.Story.Table.md)
+- [TextFrame](Publisher.Story.TextFrame.md)
+- [TextRange](Publisher.Story.TextRange.md)
+- [Type](Publisher.Story.Type.md)
 
 ## See also
 

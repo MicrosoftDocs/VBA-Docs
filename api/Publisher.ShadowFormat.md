@@ -42,30 +42,22 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[IncrementOffsetX](Publisher.ShadowFormat.IncrementOffsetX.md)|
-|[IncrementOffsetY](Publisher.ShadowFormat.IncrementOffsetY.md)|
+- [IncrementOffsetX](Publisher.ShadowFormat.IncrementOffsetX.md)
+- [IncrementOffsetY](Publisher.ShadowFormat.IncrementOffsetY.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.ShadowFormat.Application.md)|
-|[Blur](Publisher.shadowformat.blur.md)|
-|[ForeColor](Publisher.ShadowFormat.ForeColor.md)|
-|[Obscured](Publisher.ShadowFormat.Obscured.md)|
-|[OffsetX](Publisher.PictureFormat.OffsetX.md)|
-|[OffsetY](Publisher.PictureFormat.OffsetY.md)|
-|[Parent](Publisher.ShadowFormat.Parent.md)|
-|[RotateWithShape](Publisher.shadowformat.rotatewithshape.md)|
-|[Size](Publisher.shadowformat.size.md)|
-|[Type](Publisher.ShadowFormat.Type.md)|
-|[Visible](Publisher.ShadowFormat.Visible.md)|
+- [Application](Publisher.ShadowFormat.Application.md)
+- [Blur](Publisher.shadowformat.blur.md)
+- [ForeColor](Publisher.ShadowFormat.ForeColor.md)
+- [Obscured](Publisher.ShadowFormat.Obscured.md)
+- [OffsetX](Publisher.PictureFormat.OffsetX.md)
+- [OffsetY](Publisher.PictureFormat.OffsetY.md)
+- [Parent](Publisher.ShadowFormat.Parent.md)
+- [RotateWithShape](Publisher.shadowformat.rotatewithshape.md)
+- [Size](Publisher.shadowformat.size.md)
+- [Type](Publisher.ShadowFormat.Type.md)
+- [Visible](Publisher.ShadowFormat.Visible.md)
 
 ## See also
 

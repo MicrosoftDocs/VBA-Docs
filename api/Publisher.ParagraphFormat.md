@@ -19,7 +19,7 @@ Represents all the formatting for a paragraph.
 
 ## Example
 
-Use the  **[ParagraphFormat](./Publisher.TextStyle.ParagraphFormat.md)** property to return the **ParagraphFormat** object for a paragraph or paragraphs. The **ParagraphFormat** property returns the **ParagraphFormat** object for a selection, range, or style. The following example centers the paragraph at the cursor position. This example assumes that the first shape is a text box and not another type of shape.
+Use the  **[ParagraphFormat](Publisher.TextStyle.ParagraphFormat.md)** property to return the **ParagraphFormat** object for a paragraph or paragraphs. The **ParagraphFormat** property returns the **ParagraphFormat** object for a selection, range, or style. The following example centers the paragraph at the cursor position. This example assumes that the first shape is a text box and not another type of shape.
 
 
 ```vb
@@ -29,7 +29,7 @@ Sub CenterParagraph()
 End Sub
 ```
 
-Use the  **[Duplicate](./Publisher.TextRange.Duplicate.md)** property to copy an existing **ParagraphFormat** object. The following example duplicates the paragraph formatting of the first paragraph in the active publication and stores the formatting in a variable. This example duplicates an existing **ParagraphFormat** object and then changes the left indent to one inch, creates a new textbox, inserts text into it, and applies the paragraph formatting of the duplicated paragraph format to the text.
+Use the  **[Duplicate](Publisher.TextRange.Duplicate.md)** property to copy an existing **ParagraphFormat** object. The following example duplicates the paragraph formatting of the first paragraph in the active publication and stores the formatting in a variable. This example duplicates an existing **ParagraphFormat** object and then changes the left indent to one inch, creates a new textbox, inserts text into it, and applies the paragraph formatting of the duplicated paragraph format to the text.
 
 
 
@@ -60,50 +60,42 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Duplicate](./Publisher.ParagraphFormat.Duplicate.md)|
-|[Reset](./Publisher.ParagraphFormat.Reset.md)|
-|[SetLineSpacing](./Publisher.ParagraphFormat.SetLineSpacing.md)|
-|[SetListType](./Publisher.ParagraphFormat.SetListType.md)|
+- [Duplicate](Publisher.ParagraphFormat.Duplicate.md)
+- [Reset](Publisher.ParagraphFormat.Reset.md)
+- [SetLineSpacing](Publisher.ParagraphFormat.SetLineSpacing.md)
+- [SetListType](Publisher.ParagraphFormat.SetListType.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Alignment](./Publisher.ParagraphFormat.Alignment.md)|
-|[Application](./Publisher.ParagraphFormat.Application.md)|
-|[AttachedToText](./Publisher.ParagraphFormat.AttachedToText.md)|
-|[CharBasedFirstLineIndent](./Publisher.ParagraphFormat.CharBasedFirstLineIndent.md)|
-|[FirstLineIndent](./Publisher.ParagraphFormat.FirstLineIndent.md)|
-|[KashidaPercentage](./Publisher.ParagraphFormat.KashidaPercentage.md)|
-|[KeepLinesTogether](./Publisher.ParagraphFormat.KeepLinesTogether.md)|
-|[KeepWithNext](./Publisher.ParagraphFormat.KeepWithNext.md)|
-|[LeftIndent](./Publisher.ParagraphFormat.LeftIndent.md)|
-|[LineSpacing](./Publisher.ParagraphFormat.LineSpacing.md)|
-|[LineSpacingRule](./Publisher.ParagraphFormat.LineSpacingRule.md)|
-|[ListBulletFontName](./Publisher.ParagraphFormat.ListBulletFontName.md)|
-|[ListBulletFontSize](./Publisher.ParagraphFormat.ListBulletFontSize.md)|
-|[ListBulletText](./Publisher.ParagraphFormat.ListBulletText.md)|
-|[ListIndent](./Publisher.ParagraphFormat.ListIndent.md)|
-|[ListNumberSeparator](./Publisher.ParagraphFormat.ListNumberSeparator.md)|
-|[ListNumberStart](./Publisher.ParagraphFormat.ListNumberStart.md)|
-|[ListType](./Publisher.ParagraphFormat.ListType.md)|
-|[LockToBaseLine](./Publisher.ParagraphFormat.LockToBaseLine.md)|
-|[Parent](./Publisher.ParagraphFormat.Parent.md)|
-|[RightIndent](./Publisher.ParagraphFormat.RightIndent.md)|
-|[SpaceAfter](./Publisher.ParagraphFormat.SpaceAfter.md)|
-|[SpaceBefore](./Publisher.ParagraphFormat.SpaceBefore.md)|
-|[StartInNextTextBox](./Publisher.ParagraphFormat.StartInNextTextBox.md)|
-|[Tabs](./Publisher.ParagraphFormat.Tabs.md)|
-|[TextDirection](./Publisher.ParagraphFormat.TextDirection.md)|
-|[TextStyle](./Publisher.ParagraphFormat.TextStyle.md)|
-|[UseCharBasedFirstLineIndent](./Publisher.ParagraphFormat.UseCharBasedFirstLineIndent.md)|
-|[WidowControl](./Publisher.ParagraphFormat.WidowControl.md)|
+- [Alignment](Publisher.ParagraphFormat.Alignment.md)
+- [Application](Publisher.ParagraphFormat.Application.md)
+- [AttachedToText](Publisher.ParagraphFormat.AttachedToText.md)
+- [CharBasedFirstLineIndent](Publisher.ParagraphFormat.CharBasedFirstLineIndent.md)
+- [FirstLineIndent](Publisher.ParagraphFormat.FirstLineIndent.md)
+- [KashidaPercentage](Publisher.ParagraphFormat.KashidaPercentage.md)
+- [KeepLinesTogether](Publisher.ParagraphFormat.KeepLinesTogether.md)
+- [KeepWithNext](Publisher.ParagraphFormat.KeepWithNext.md)
+- [LeftIndent](Publisher.ParagraphFormat.LeftIndent.md)
+- [LineSpacing](Publisher.ParagraphFormat.LineSpacing.md)
+- [LineSpacingRule](Publisher.ParagraphFormat.LineSpacingRule.md)
+- [ListBulletFontName](Publisher.ParagraphFormat.ListBulletFontName.md)
+- [ListBulletFontSize](Publisher.ParagraphFormat.ListBulletFontSize.md)
+- [ListBulletText](Publisher.ParagraphFormat.ListBulletText.md)
+- [ListIndent](Publisher.ParagraphFormat.ListIndent.md)
+- [ListNumberSeparator](Publisher.ParagraphFormat.ListNumberSeparator.md)
+- [ListNumberStart](Publisher.ParagraphFormat.ListNumberStart.md)
+- [ListType](Publisher.ParagraphFormat.ListType.md)
+- [LockToBaseLine](Publisher.ParagraphFormat.LockToBaseLine.md)
+- [Parent](Publisher.ParagraphFormat.Parent.md)
+- [RightIndent](Publisher.ParagraphFormat.RightIndent.md)
+- [SpaceAfter](Publisher.ParagraphFormat.SpaceAfter.md)
+- [SpaceBefore](Publisher.ParagraphFormat.SpaceBefore.md)
+- [StartInNextTextBox](Publisher.ParagraphFormat.StartInNextTextBox.md)
+- [Tabs](Publisher.ParagraphFormat.Tabs.md)
+- [TextDirection](Publisher.ParagraphFormat.TextDirection.md)
+- [TextStyle](Publisher.ParagraphFormat.TextStyle.md)
+- [UseCharBasedFirstLineIndent](Publisher.ParagraphFormat.UseCharBasedFirstLineIndent.md)
+- [WidowControl](Publisher.ParagraphFormat.WidowControl.md)
 
 ## See also
 

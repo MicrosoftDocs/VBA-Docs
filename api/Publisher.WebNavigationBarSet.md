@@ -68,31 +68,23 @@ End With
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[AddToEveryPage](Publisher.WebNavigationBarSet.AddToEveryPage.md)|
-|[ChangeOrientation](Publisher.WebNavigationBarSet.ChangeOrientation.md)|
-|[DeleteSetAndInstances](Publisher.WebNavigationBarSet.DeleteSetAndInstances.md)|
+- [AddToEveryPage](Publisher.WebNavigationBarSet.AddToEveryPage.md)
+- [ChangeOrientation](Publisher.WebNavigationBarSet.ChangeOrientation.md)
+- [DeleteSetAndInstances](Publisher.WebNavigationBarSet.DeleteSetAndInstances.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.WebNavigationBarSet.Application.md)|
-|[AutoUpdate](Publisher.WebNavigationBarSet.AutoUpdate.md)|
-|[ButtonStyle](Publisher.WebNavigationBarSet.ButtonStyle.md)|
-|[Design](Publisher.WebNavigationBarSet.Design.md)|
-|[HorizontalAlignment](Publisher.WebNavigationBarSet.HorizontalAlignment.md)|
-|[HorizontalButtonCount](Publisher.WebNavigationBarSet.HorizontalButtonCount.md)|
-|[IsHorizontal](Publisher.WebNavigationBarSet.IsHorizontal.md)|
-|[Links](Publisher.WebNavigationBarSet.Links.md)|
-|[Name](Publisher.WebNavigationBarSet.Name.md)|
-|[Parent](Publisher.WebNavigationBarSet.Parent.md)|
-|[ShowSelected](Publisher.WebNavigationBarSet.ShowSelected.md)|
+- [Application](Publisher.WebNavigationBarSet.Application.md)
+- [AutoUpdate](Publisher.WebNavigationBarSet.AutoUpdate.md)
+- [ButtonStyle](Publisher.WebNavigationBarSet.ButtonStyle.md)
+- [Design](Publisher.WebNavigationBarSet.Design.md)
+- [HorizontalAlignment](Publisher.WebNavigationBarSet.HorizontalAlignment.md)
+- [HorizontalButtonCount](Publisher.WebNavigationBarSet.HorizontalButtonCount.md)
+- [IsHorizontal](Publisher.WebNavigationBarSet.IsHorizontal.md)
+- [Links](Publisher.WebNavigationBarSet.Links.md)
+- [Name](Publisher.WebNavigationBarSet.Name.md)
+- [Parent](Publisher.WebNavigationBarSet.Parent.md)
+- [ShowSelected](Publisher.WebNavigationBarSet.ShowSelected.md)
 
 ## See also
 

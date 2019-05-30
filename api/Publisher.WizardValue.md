@@ -45,14 +45,10 @@ End With
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.WizardValue.Application.md)|
-|[ID](Publisher.WizardValue.ID.md)|
-|[Name](Publisher.WizardValue.Name.md)|
-|[Parent](Publisher.WizardValue.Parent.md)|
+- [Application](Publisher.WizardValue.Application.md)
+- [ID](Publisher.WizardValue.ID.md)
+- [Name](Publisher.WizardValue.Name.md)
+- [Parent](Publisher.WizardValue.Parent.md)
 
 ## See also
 

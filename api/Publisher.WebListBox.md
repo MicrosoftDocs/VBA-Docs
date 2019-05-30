@@ -15,25 +15,14 @@ localization_priority: Normal
 # WebListBox object (Publisher)
 
 Represents a Web list box control. The  **WebListBox** object is a member of the **Shape** object.
- 
 
 
 ## Example
 
 Use the  **[AddWebControl](Publisher.Shapes.AddWebControl.md)** method to create a new Web list box. Use the **[WebListBox](Publisher.Shape.WebListBox.md)** property to access a Web list box control shape. Use the **[AddItem](Publisher.WebListBoxItems.AddItem.md)** method of the **[WebListBoxItems](Publisher.WebListBoxItems.md)** object to add items to a Web list box. This example creates a new Web list box and adds several items to it. Note that when initially created, a Web list box control contains three default items. This example includes a routine that deletes the default list box items before adding new items.
  
-
- 
-
- 
-
- 
-
- **Note**  When you create a Web list box, its initial width is 300 points. However, Microsoft Publisher automatically changes this width based on the width of the items in the list.
- 
-
-
-
+> [!NOTE] 
+> When you create a Web list box, its initial width is 300 points. However, Microsoft Publisher automatically changes this width based on the width of the items in the list.
 
 ```vb
 Sub CreateWebListBox() 
@@ -59,15 +48,11 @@ End Sub
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.WebListBox.Application.md)|
-|[ListBoxItems](Publisher.WebListBox.ListBoxItems.md)|
-|[MultiSelect](Publisher.WebListBox.MultiSelect.md)|
-|[Parent](Publisher.WebListBox.Parent.md)|
-|[ReturnDataLabel](Publisher.WebListBox.ReturnDataLabel.md)|
+- [Application](Publisher.WebListBox.Application.md)
+- [ListBoxItems](Publisher.WebListBox.ListBoxItems.md)
+- [MultiSelect](Publisher.WebListBox.MultiSelect.md)
+- [Parent](Publisher.WebListBox.Parent.md)
+- [ReturnDataLabel](Publisher.WebListBox.ReturnDataLabel.md)
 
 ## See also
 

@@ -22,11 +22,8 @@ Represents the properties of a web publication, including options for saving and
 
 The properties of the  **WebOptions** object are used to specify the behavior of web publications. This means that when any of these properties are modified, newly created web publications inherit the modified properties.
  
-
- 
-Note that the  **WebOptions** object is available from print publications and web publications. However, the properties of this object have no effect on print publications.
- 
-
+> [!NOTE] 
+> The  **WebOptions** object is available from print publications and web publications. However, the properties of this object have no effect on print publications.
  
 
 ## Example
@@ -45,19 +42,15 @@ Set theWO = Application.WebOptions
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[AlwaysSaveInDefaultEncoding](Publisher.WebOptions.AlwaysSaveInDefaultEncoding.md)|
-|[Application](Publisher.WebOptions.Application.md)|
-|[EmailAsImg](Publisher.WebOptions.EmailAsImg.md)|
-|[EnableIncrementalUpload](Publisher.WebOptions.EnableIncrementalUpload.md)|
-|[Encoding](Publisher.WebOptions.Encoding.md)|
-|[OrganizeInFolder](Publisher.WebOptions.OrganizeInFolder.md)|
-|[Parent](Publisher.WebOptions.Parent.md)|
-|[RelyOnVML](Publisher.WebOptions.RelyOnVML.md)|
-|[ShowOnlyWebFonts](Publisher.WebOptions.ShowOnlyWebFonts.md)|
+- [AlwaysSaveInDefaultEncoding](Publisher.WebOptions.AlwaysSaveInDefaultEncoding.md)
+- [Application](Publisher.WebOptions.Application.md)
+- [EmailAsImg](Publisher.WebOptions.EmailAsImg.md)
+- [EnableIncrementalUpload](Publisher.WebOptions.EnableIncrementalUpload.md)
+- [Encoding](Publisher.WebOptions.Encoding.md)
+- [OrganizeInFolder](Publisher.WebOptions.OrganizeInFolder.md)
+- [Parent](Publisher.WebOptions.Parent.md)
+- [RelyOnVML](Publisher.WebOptions.RelyOnVML.md)
+- [ShowOnlyWebFonts](Publisher.WebOptions.ShowOnlyWebFonts.md)
 
 ## See also
 

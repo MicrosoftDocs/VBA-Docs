@@ -20,21 +20,13 @@ Represents the collection of all 37 of the  **[CaptionStyle](Publisher.CaptionSt
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Item](Publisher.CaptionStyles.Item.md)|
+- [Item](Publisher.CaptionStyles.Item.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.CaptionStyles.Application.md)|
-|[Count](Publisher.CaptionStyles.Count.md)|
-|[Parent](Publisher.CaptionStyles.Parent.md)|
+- [Application](Publisher.CaptionStyles.Application.md)
+- [Count](Publisher.CaptionStyles.Count.md)
+- [Parent](Publisher.CaptionStyles.Parent.md)
 
 ## See also
 

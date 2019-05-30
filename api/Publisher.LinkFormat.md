@@ -51,21 +51,13 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Update](Publisher.LinkFormat.Update.md)|
+- [Update](Publisher.LinkFormat.Update.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.LinkFormat.Application.md)|
-|[Parent](Publisher.LinkFormat.Parent.md)|
-|[SourceFullName](Publisher.LinkFormat.SourceFullName.md)|
+- [Application](Publisher.LinkFormat.Application.md)
+- [Parent](Publisher.LinkFormat.Parent.md)
+- [SourceFullName](Publisher.LinkFormat.SourceFullName.md)
 
 ## See also
 

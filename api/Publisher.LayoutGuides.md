@@ -21,19 +21,8 @@ Represents the measurement grid that appears superimposed on publication pages a
 ## Example
 
 Use the  **[LayoutGuides](Publisher.Document.LayoutGuides.md)** property of the **Document** object to return a **LayoutGuides** object. Use the **LayoutGuide** object's margin properties and **Rows** and **Columns** properties to set how many rows and columns are displayed in the layout guides and where they appear on a page.
- 
 
- 
-
- 
-
- 
 This example sets the margins of the active presentation to two inches.
- 
-
- 
-
-
 
 ```vb
 With ActiveDocument.LayoutGuides 
@@ -47,26 +36,22 @@ End With
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.LayoutGuides.Application.md)|
-|[ColumnGutterWidth](Publisher.LayoutGuides.ColumnGutterWidth.md)|
-|[Columns](Publisher.LayoutGuides.Columns.md)|
-|[GutterCenterlines](Publisher.LayoutGuides.GutterCenterlines.md)|
-|[HorizontalBaseLineOffset](Publisher.LayoutGuides.HorizontalBaseLineOffset.md)|
-|[HorizontalBaseLineSpacing](Publisher.LayoutGuides.HorizontalBaseLineSpacing.md)|
-|[MarginBottom](Publisher.LayoutGuides.MarginBottom.md)|
-|[MarginLeft](Publisher.LayoutGuides.MarginLeft.md)|
-|[MarginRight](Publisher.LayoutGuides.MarginRight.md)|
-|[MarginTop](Publisher.LayoutGuides.MarginTop.md)|
-|[MirrorGuides](Publisher.LayoutGuides.MirrorGuides.md)|
-|[Parent](Publisher.LayoutGuides.Parent.md)|
-|[RowGutterWidth](Publisher.LayoutGuides.RowGutterWidth.md)|
-|[Rows](Publisher.LayoutGuides.Rows.md)|
-|[VerticalBaseLineOffset](Publisher.LayoutGuides.VerticalBaseLineOffset.md)|
-|[VerticalBaseLineSpacing](Publisher.LayoutGuides.VerticalBaseLineSpacing.md)|
+- [Application](Publisher.LayoutGuides.Application.md)
+- [ColumnGutterWidth](Publisher.LayoutGuides.ColumnGutterWidth.md)
+- [Columns](Publisher.LayoutGuides.Columns.md)
+- [GutterCenterlines](Publisher.LayoutGuides.GutterCenterlines.md)
+- [HorizontalBaseLineOffset](Publisher.LayoutGuides.HorizontalBaseLineOffset.md)
+- [HorizontalBaseLineSpacing](Publisher.LayoutGuides.HorizontalBaseLineSpacing.md)
+- [MarginBottom](Publisher.LayoutGuides.MarginBottom.md)
+- [MarginLeft](Publisher.LayoutGuides.MarginLeft.md)
+- [MarginRight](Publisher.LayoutGuides.MarginRight.md)
+- [MarginTop](Publisher.LayoutGuides.MarginTop.md)
+- [MirrorGuides](Publisher.LayoutGuides.MirrorGuides.md)
+- [Parent](Publisher.LayoutGuides.Parent.md)
+- [RowGutterWidth](Publisher.LayoutGuides.RowGutterWidth.md)
+- [Rows](Publisher.LayoutGuides.Rows.md)
+- [VerticalBaseLineOffset](Publisher.LayoutGuides.VerticalBaseLineOffset.md)
+- [VerticalBaseLineSpacing](Publisher.LayoutGuides.VerticalBaseLineSpacing.md)
 
 ## See also
 

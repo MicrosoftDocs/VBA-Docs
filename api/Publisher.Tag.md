@@ -63,22 +63,14 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Publisher.Tag.Delete.md)|
+- [Delete](Publisher.Tag.Delete.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.Tag.Application.md)|
-|[Name](Publisher.Tag.Name.md)|
-|[Parent](Publisher.Tag.Parent.md)|
-|[Value](Publisher.Tag.Value.md)|
+- [Application](Publisher.Tag.Application.md)
+- [Name](Publisher.Tag.Name.md)
+- [Parent](Publisher.Tag.Parent.md)
+- [Value](Publisher.Tag.Value.md)
 
 ## See also
 

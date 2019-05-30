@@ -44,43 +44,35 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[PresetGradient](Publisher.lineformat.presetgradient.md)|
+- [PresetGradient](Publisher.lineformat.presetgradient.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Publisher.LineFormat.Application.md)|
-|[BackColor](Publisher.LineFormat.BackColor.md)|
-|[BeginArrowheadLength](Publisher.LineFormat.BeginArrowheadLength.md)|
-|[BeginArrowheadStyle](Publisher.LineFormat.BeginArrowheadStyle.md)|
-|[BeginArrowheadWidth](Publisher.LineFormat.BeginArrowheadWidth.md)|
-|[CapStyle](Publisher.lineformat.capstyle.md)|
-|[DashStyle](Publisher.LineFormat.DashStyle.md)|
-|[EndArrowheadLength](Publisher.LineFormat.EndArrowheadLength.md)|
-|[EndArrowheadStyle](Publisher.LineFormat.EndArrowheadStyle.md)|
-|[EndArrowheadWidth](Publisher.LineFormat.EndArrowheadWidth.md)|
-|[ForeColor](Publisher.LineFormat.ForeColor.md)|
-|[GradientAngle](Publisher.lineformat.gradientangle.md)|
-|[GradientColorType](Publisher.lineformat.gradientcolortype.md)|
-|[GradientStyle](Publisher.lineformat.gradientstyle.md)|
-|[GradientVariant](Publisher.lineformat.gradientvariant.md)|
-|[InsetPen](Publisher.LineFormat.InsetPen.md)|
-|[JoinStyle](Publisher.lineformat.joinstyle.md)|
-|[Parent](Publisher.LineFormat.Parent.md)|
-|[Pattern](Publisher.LineFormat.Pattern.md)|
-|[PresetGradientType](Publisher.lineformat.presetgradienttype.md)|
-|[Style](Publisher.LineFormat.Style.md)|
-|[Transparency](Publisher.lineformat.transparency.md)|
-|[Type](Publisher.lineformat.type.md)|
-|[Visible](Publisher.LineFormat.Visible.md)|
-|[Weight](Publisher.LineFormat.Weight.md)|
+- [Application](Publisher.LineFormat.Application.md)
+- [BackColor](Publisher.LineFormat.BackColor.md)
+- [BeginArrowheadLength](Publisher.LineFormat.BeginArrowheadLength.md)
+- [BeginArrowheadStyle](Publisher.LineFormat.BeginArrowheadStyle.md)
+- [BeginArrowheadWidth](Publisher.LineFormat.BeginArrowheadWidth.md)
+- [CapStyle](Publisher.lineformat.capstyle.md)
+- [DashStyle](Publisher.LineFormat.DashStyle.md)
+- [EndArrowheadLength](Publisher.LineFormat.EndArrowheadLength.md)
+- [EndArrowheadStyle](Publisher.LineFormat.EndArrowheadStyle.md)
+- [EndArrowheadWidth](Publisher.LineFormat.EndArrowheadWidth.md)
+- [ForeColor](Publisher.LineFormat.ForeColor.md)
+- [GradientAngle](Publisher.lineformat.gradientangle.md)
+- [GradientColorType](Publisher.lineformat.gradientcolortype.md)
+- [GradientStyle](Publisher.lineformat.gradientstyle.md)
+- [GradientVariant](Publisher.lineformat.gradientvariant.md)
+- [InsetPen](Publisher.LineFormat.InsetPen.md)
+- [JoinStyle](Publisher.lineformat.joinstyle.md)
+- [Parent](Publisher.LineFormat.Parent.md)
+- [Pattern](Publisher.LineFormat.Pattern.md)
+- [PresetGradientType](Publisher.lineformat.presetgradienttype.md)
+- [Style](Publisher.LineFormat.Style.md)
+- [Transparency](Publisher.lineformat.transparency.md)
+- [Type](Publisher.lineformat.type.md)
+- [Visible](Publisher.LineFormat.Visible.md)
+- [Weight](Publisher.LineFormat.Weight.md)
 
 ## See also
 
