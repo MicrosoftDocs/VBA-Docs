@@ -21,7 +21,7 @@ Returns an  **Object** that represents the object that contains the text range. 
 
 _expression_.**ContainingObject**
 
-_expression_ A variable that represents a  **TextRange** object.
+_expression_ A variable that represents a **[TextRange](Publisher.TextRange.md)** object.
 
 
 ## Return value

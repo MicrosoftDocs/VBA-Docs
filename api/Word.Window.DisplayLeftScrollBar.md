@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `DisplayLeftScrollBar`
 
- _expression_ An expression that returns a '[Window](Word.Window.md)' object.
+ _expression_ An expression that returns a **[Window](Word.Window.md)** object.
 
 
 ## Example

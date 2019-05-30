@@ -21,7 +21,7 @@ Returns a  **[LineFormat](Publisher.LineFormat.md)** object that contains line f
 
 _expression_.**Line**
 
-_expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md)** object.
 
 
 ## Example

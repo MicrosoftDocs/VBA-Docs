@@ -21,7 +21,7 @@ Changes one of the data fields in one of the records in the master data source (
 
 _expression_.**EditRecord**(**_lRec_**,  **_varField_**,  **_Value_**)
 
-_expression_ A variable that represents a  **MailMergeDataSource** object.
+_expression_ A variable that represents a **[MailMergeDataSource](Publisher.MailMergeDataSource.md)** object.
 
 
 ## Parameters
@@ -32,7 +32,7 @@ _expression_ A variable that represents a  **MailMergeDataSource** object.
 |:-----|:-----|:-----|:-----|
 |lRec|Required| **Long**|The ID of the record you want to edit.|
 |varField|Required| **Variant**|The data field (column) that contains the value you want to change.|
-|Value|Required| **Variant**|The value to be changed.|
+|_Value_|Required| **Variant**|The value to be changed.|
 
 ## Remarks
 

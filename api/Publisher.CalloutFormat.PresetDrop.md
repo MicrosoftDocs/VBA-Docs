@@ -21,7 +21,7 @@ Specifies whether the callout line attaches to the top, bottom, or center of the
 
 _expression_.**PresetDrop**(**_DropType_**)
 
-_expression_ A variable that represents a  **CalloutFormat** object.
+_expression_ A variable that represents a **[CalloutFormat](Publisher.CalloutFormat.md)** object.
 
 
 ## Parameters

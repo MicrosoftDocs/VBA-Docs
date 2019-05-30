@@ -21,7 +21,7 @@ Returns a  **[WrapFormat](Publisher.WrapFormat.md)** object that represents the 
 
 _expression_.**TextWrap**
 
-_expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md)** object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Sets or returns a  **PbTabLeaderType** constant that represents the leader chara
 
 _expression_.**Leader**
 
-_expression_ A variable that represents a  **TabStop** object.
+_expression_ A variable that represents a **[TabStop](Publisher.TabStop.md)** object.
 
 
 ## Return value

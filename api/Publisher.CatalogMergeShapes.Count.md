@@ -21,7 +21,7 @@ Returns a  **Long** that represents the number of items in the specified collect
 
 _expression_.**Count**
 
-_expression_ A variable that represents a  **CatalogMergeShapes** object.
+_expression_ A variable that represents a **[CatalogMergeShapes](Publisher.CatalogMergeShapes.md)** object.
 
 
 ## Example

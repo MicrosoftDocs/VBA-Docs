@@ -21,7 +21,7 @@ Returns a  **Plate** object that represents the plate of the specified ink name.
 
 _expression_.**FindPlateByInkName**(**_InkName_**)
 
- _expression_ An expression that returns a  **Plates** object.
+ _expression_ An expression that returns a **[Plates](Publisher.Plates.md)** object.
 
 
 ## Parameters

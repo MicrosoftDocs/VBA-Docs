@@ -21,7 +21,7 @@ Returns the name of the blank page size represented by the parent  **PageSize** 
 
 _expression_.**Name**
 
-_expression_ A variable that represents a  **PageSize** object.
+_expression_ A variable that represents a **[PageSize](Publisher.PageSize.md)** object.
 
 
 ## Return value

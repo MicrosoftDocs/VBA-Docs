@@ -21,7 +21,7 @@ Used without an object qualifier, this property returns an  **[Application](Publ
 
 _expression_.**Application**
 
-_expression_ A variable that represents a  **MailMergeMappedDataField** object.
+_expression_ A variable that represents a **[MailMergeMappedDataField](Publisher.MailMergeMappedDataField.md)** object.
 
 
 ## Example

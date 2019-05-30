@@ -21,7 +21,7 @@ Replaces the specified picture. Returns  **Nothing**.
 
 _expression_.**Replace**(**_Pathname_**,  **_InsertAs_**)
 
-_expression_ A variable that represents a  **PictureFormat** object.
+_expression_ A variable that represents a **[PictureFormat](Publisher.PictureFormat.md)** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns a  **[Documents](Publisher.Documents.md)** collection that represents al
 
 _expression_.**Documents**
 
-_expression_ A variable that represents a  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Return value

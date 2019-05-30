@@ -21,7 +21,7 @@ Returns a  **String** that represents the description of the specified style. Fo
 
 _expression_.**Description**
 
-_expression_ A variable that represents a  **TextStyle** object.
+_expression_ A variable that represents a **[TextStyle](Publisher.TextStyle.md)** object.
 
 
 ## Example

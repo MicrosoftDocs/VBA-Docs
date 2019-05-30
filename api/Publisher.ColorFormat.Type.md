@@ -14,19 +14,19 @@ localization_priority: Normal
 
 # ColorFormat.Type property (Publisher)
 
-Returns or sets a  **PbColorType** constant that represents the shape color type. Read-only.
+Returns or sets a **PbColorType** constant that represents the shape color type. Read-only.
 
 
 ## Syntax
 
 _expression_.**Type**
 
-_expression_ A variable that represents a  **ColorFormat** object.
+_expression_ A variable that represents a **[ColorFormat](Publisher.ColorFormat.md)** object.
 
 
 ## Remarks
 
-The  **Type** property value can be one of these **PbColorType** constants.
+The **Type** property value can be one of these **PbColorType** constants.
 
 
 

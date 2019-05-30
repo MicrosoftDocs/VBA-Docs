@@ -21,7 +21,7 @@ Sets or returns a  **Boolean** that represents whether thumbnail images of the p
 
 _expression_. `Thumbnails`
 
- _expression_ An expression that returns a '[Window](Word.Window.md)' object.
+ _expression_ An expression that returns a **[Window](Word.Window.md)** object.
 
 
 ## Example

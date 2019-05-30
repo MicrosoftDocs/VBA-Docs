@@ -19,9 +19,9 @@ Converts a measurement from lines to points (1 line = 12 points). Returns the co
 
 ## Syntax
 
-_expression_.**LinesToPoints**(**_Value_**)
+_expression_.**LinesToPoints** (_Value_)
 
-_expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents an  **Application** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Value|Required| **Single**|The line value to be converted to points.|
+|_Value_|Required| **Single**|The line value to be converted to points.|
 
 ## Return value
 

@@ -21,7 +21,7 @@ Returns or sets a  **PbVerticalTextAlignmentType**constant that represents the v
 
 _expression_.**VerticalTextAlignment**
 
-_expression_ A variable that represents a  **Cell** object.
+_expression_ A variable that represents a **[Cell](Publisher.Cell.md)** object.
 
 
 ## Remarks

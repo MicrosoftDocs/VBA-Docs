@@ -21,7 +21,7 @@ Returns an  **Application** object that represents the creator of the parent **P
 
 _expression_.**Application**
 
-_expression_ A variable that represents a  **PageSize** object.
+_expression_ A variable that represents a **[PageSize](Publisher.PageSize.md)** object.
 
 
 ## Return value

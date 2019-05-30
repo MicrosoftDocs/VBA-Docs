@@ -21,7 +21,7 @@ Adds a new  **Shape** object representing a Web form control to the specified **
 
 _expression_.**AddWebControl**(**_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_LaunchPropertiesWindow_**)
 
-_expression_ A variable that represents a  **Shapes** object.
+_expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** object.
 
 
 ## Parameters

@@ -19,7 +19,7 @@ Publishes a copy of a Microsoft PowerPoint presentation as a file in a fixed for
 
 ## Syntax
 
-_expression_.**ExportAsFixedFormat** (_Path_, _FixedFormatType_, _Intent_, _FrameSlides_, _HandoutOrder_, _OutputType_, _PrintHiddenSlides_, _PrintRange_, _RangeType_, _SlideShowName_, _IncludeDocProperties_, _KeepIRMSettings_)
+_expression_.**ExportAsFixedFormat** (_Path_, _FixedFormatType_, _Intent_, _FrameSlides_, _HandoutOrder_, _OutputType_, _PrintHiddenSlides_, _PrintRange_, _RangeType_, _SlideShowName_, _IncludeDocProperties_, _KeepIRMSettings_, _DocStructureTags_, _BitmapMissingFonts_, _UseISO19005\_1_, _ExternalExporter_)
 
 _expression_ An expression that returns a **[Presentation](PowerPoint.Presentation.md)** object.
 
@@ -42,7 +42,7 @@ _expression_ An expression that returns a **[Presentation](PowerPoint.Presentati
 | _KeepIRMSettings_|Optional|**Boolean**|Whether the IRM settings should also be exported. The default is **True**.|
 | _DocStructureTags_|Optional|**Boolean**|Whether to include document structure tags to improve document accessibility. The default is **True**.|
 | _BitmapMissingFonts_|Optional|**Boolean**|Whether to include a bitmap of the text. The default is **True**.|
-| *UseISO19005_1* |Optional|**Boolean**|Whether the resulting document is compliant with ISO 19005-1 (PDF/A). The default is **False**.|
+| _UseISO19005\_1_ |Optional|**Boolean**|Whether the resulting document is compliant with ISO 19005-1 (PDF/A). The default is **False**.|
 | _ExternalExporter_|Optional|**Variant**|A pointer to an Office add-in that implements the **IMsoDocExporter** COM interface and allows calls to an alternate implementation of code. The default is a null pointer.|
 
 ## Remarks

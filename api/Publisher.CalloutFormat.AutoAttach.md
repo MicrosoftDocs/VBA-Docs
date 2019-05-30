@@ -21,7 +21,7 @@ Returns or sets an  **MsoTriState**constant indicating whether the place where t
 
 _expression_.**AutoAttach**
 
-_expression_ A variable that represents a  **CalloutFormat** object.
+_expression_ A variable that represents a **[CalloutFormat](Publisher.CalloutFormat.md)** object.
 
 
 ## Return value

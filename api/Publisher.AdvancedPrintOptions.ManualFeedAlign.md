@@ -21,7 +21,7 @@ Gets or sets the alignment (left, right, or center) of where envelopes are fed t
 
 _expression_.**ManualFeedAlign**
 
-_expression_ A variable that represents an  **AdvancedPrintOptions** object.
+_expression_ A variable that represents an **[AdvancedPrintOptions](Publisher.AdvancedPrintOptions.md)** object.
 
 
 ## Return value

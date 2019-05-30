@@ -11,13 +11,13 @@ localization_priority: Normal
 
 # CaptionStyles.Parent property (Publisher)
 
-Returns the parent of the  **CaptionStyles** collection. Read-only.
+Returns the parent of the **CaptionStyles** collection. Read-only.
 
 
 ## Syntax
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a  **CaptionStyles** object.
+_expression_ A variable that represents a **[CaptionStyles](Publisher.CaptionStyles.md)** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -16,7 +16,7 @@ localization_priority: Normal
 
 _expression_.**PresetGradient**(Style, Style, Variant, PresetGradientType)
 
-_expression_ A variable that represents a  **LineFormat** object.
+_expression_ A variable that represents a **[LineFormat](Publisher.LineFormat.md)** object.
 
 
 ## Parameters

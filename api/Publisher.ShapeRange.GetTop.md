@@ -21,7 +21,7 @@ Returns the distance of the shape's or shape range's top edge from the top edge 
 
 _expression_.**GetTop**(**_Unit_**)
 
-_expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md)** object.
 
 
 ## Parameters

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.ResetAllPageBreaks
 ms.assetid: caebf657-3c5b-e465-43e0-88aa3250ba2a
-ms.date: 06/08/2017
+ms.date: 05/30/2019
 localization_priority: Normal
 ---
 
@@ -28,15 +28,11 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 This example resets all page breaks on worksheet one.
 
-
 ```vb
 Worksheets(1).ResetAllPageBreaks
 ```
 
 
-## See also
 
-
-[Worksheet Object](Excel.Worksheet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

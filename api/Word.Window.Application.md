@@ -21,7 +21,7 @@ Returns an  **[Application](Word.Application.md)** object that represents the Mi
 
 _expression_.**Application**
 
-_expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
+_expression_ Required. A variable that represents a **[Window](Word.Window.md)** object.
 
 
 ## Remarks

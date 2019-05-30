@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**PrintPreview**
 
-_expression_ A variable that represents a  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Return value

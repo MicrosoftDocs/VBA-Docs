@@ -21,7 +21,7 @@ Incrementally changes the horizontal offset of the shadow by the specified dista
 
 _expression_.**IncrementOffsetX**(**_Increment_**)
 
-_expression_ A variable that represents a  **ShadowFormat** object.
+_expression_ A variable that represents a **[ShadowFormat](Publisher.ShadowFormat.md)** object.
 
 
 ## Parameters

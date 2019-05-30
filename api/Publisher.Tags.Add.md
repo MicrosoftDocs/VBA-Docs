@@ -21,7 +21,7 @@ Adds a new  **Tag** object to the specified **Tags** object and returns the new 
 
 _expression_.**Add** (_Name_, _Value_)
 
-_expression_ A variable that represents a  **Tags** object.
+_expression_ A variable that represents a **[Tags](Publisher.Tags.md)** object.
 
 
 ## Parameters
@@ -30,8 +30,8 @@ _expression_ A variable that represents a  **Tags** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Name|Required| **String**|The name of the tag to add. If a tag already exists with the same name, an error occurs.|
-|Value|Required| **Variant**|The value to assign to the tag.|
+|_Name_|Required| **String**|The name of the tag to add. If a tag already exists with the same name, an error occurs.|
+|_Value_|Required| **Variant**|The value to assign to the tag.|
 
 ## Return value
 

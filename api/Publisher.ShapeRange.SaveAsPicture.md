@@ -19,9 +19,9 @@ Saves a range of one or more shapes as a picture file.
 
 ## Syntax
 
-_expression_.**SaveAsPicture**(**_FileName_**,  **_pbResolution_**)
+_expression_.**SaveAsPicture**(_FileName_, _pbResolution_)
 
-_expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md)** object.
 
 
 ## Parameters
@@ -30,8 +30,8 @@ _expression_ A variable that represents a  **ShapeRange** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Filename|Required| **String**|The path and file name of the new picture file you want to create. The graphics format the picture is saved in is determined by the file name extension (such as .jpg or .gif) you specify.|
-|pbResolution|Optional| **PbPictureResolution**|The resolution in which you want the picture to be saved. See Remarks for possible values.|
+|_FileName_|Required| **String**|The path and file name of the new picture file you want to create. The graphics format the picture is saved in is determined by the file name extension (such as .jpg or .gif) you specify.|
+|_pbResolution_|Optional| **PbPictureResolution**|The resolution in which you want the picture to be saved. See Remarks for possible values.|
 
 ## Remarks
 

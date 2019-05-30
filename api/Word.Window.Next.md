@@ -21,22 +21,17 @@ Returns the next document window in the collection of open document windows. Rea
 
 _expression_.**Next**
 
-_expression_ A variable that represents a '[Window](Word.Window.md)' object.
+_expression_ A variable that represents a **[Window](Word.Window.md)** object.
 
 
 ## Example
 
 This example activates the next window.
 
-
 ```vb
 If Windows.Count > 1 Then ActiveDocument.ActiveWindow.Next.Activate
 ```
 
 
-## See also
-
-
-[Window Object](Word.Window.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

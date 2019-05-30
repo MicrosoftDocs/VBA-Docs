@@ -21,7 +21,7 @@ Returns a  **String** that represents the text displayed when the page view is s
 
 _expression_.**Code**
 
-_expression_ A variable that represents a  **Field** object.
+_expression_ A variable that represents a **[Field](Publisher.Field.md)** object.
 
 
 ## Return value

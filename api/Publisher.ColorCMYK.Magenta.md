@@ -21,7 +21,7 @@ Sets or returns a  **Long** that represents the magenta component of a CMYK colo
 
 _expression_.**Magenta**
 
-_expression_ A variable that represents a  **ColorCMYK** object.
+_expression_ A variable that represents a **[ColorCMYK](Publisher.ColorCMYK.md)** object.
 
 
 ## Return value

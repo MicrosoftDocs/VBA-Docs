@@ -19,9 +19,9 @@ Occurs when the application window is activated.
 
 ## Syntax
 
-_expression_.**WindowActivate**(**_Wn_**, )
+_expression_.**WindowActivate** (_Wn_)
 
-_expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents an  **Application** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Wn|Required| **Window**|The window that is being activated.|
+|_Wn_|Required| **Window**|The window that is being activated.|
 
 ## Remarks
 

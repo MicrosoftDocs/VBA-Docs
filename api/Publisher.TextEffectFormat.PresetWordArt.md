@@ -14,13 +14,13 @@ localization_priority: Normal
 
 # TextEffectFormat.PresetWordArt property (Publisher)
 
-A  **[pbPresetWordArt](Publisher.pbpresetwordart.md)** constant that indicates the type of preset WordArt associated with the specified object. Read/write.
+A **[pbPresetWordArt](Publisher.pbpresetwordart.md)** constant that indicates the type of preset WordArt associated with the specified object. Read/write.
 
 
 ## Syntax
 
 _expression_.**PresetWordArt**
 
-_expression_ A variable that represents a  **[TextEffectFormat](Publisher.TextEffectFormat.md)** object.
+_expression_ A variable that represents a **[TextEffectFormat](Publisher.TextEffectFormat.md)** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

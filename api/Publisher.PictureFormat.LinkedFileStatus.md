@@ -21,7 +21,7 @@ Returns a  **PbLinkedFileStatus** constant that indicates the status of the file
 
 _expression_.**LinkedFileStatus**
 
-_expression_ A variable that represents a  **PictureFormat** object.
+_expression_ A variable that represents a **[PictureFormat](Publisher.PictureFormat.md)** object.
 
 
 ## Return value

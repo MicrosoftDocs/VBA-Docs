@@ -19,9 +19,9 @@ Deletes the specified hidden Web field or Web list box item object.
 
 ## Syntax
 
-_expression_.**Delete**(**_Index_**)
+_expression_.**Delete** (_Index_)
 
-_expression_ A variable that represents a  **WebHiddenFields** object.
+_expression_ A variable that represents a **[WebHiddenFields](Publisher.WebHiddenFields.md)** object.
 
 
 ## Parameters
@@ -30,6 +30,6 @@ _expression_ A variable that represents a  **WebHiddenFields** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The number of the Web field or list box item to delete.|
+|_Index_|Required| **Long**|The number of the Web field or list box item to delete.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

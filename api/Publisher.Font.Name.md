@@ -21,7 +21,7 @@ Indicates the name of the specified font. Read/write.
 
 _expression_.**Name**
 
- _expression_ An expression that returns a  **Font** object.
+ _expression_ An expression that returns a **[Font](Publisher.Font.md)** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns the page number of the page that the specified  **Section** object begin
 
 _expression_.**StartPageIndex**
 
-_expression_ A variable that represents a  **Section** object.
+_expression_ A variable that represents a **[Section](Publisher.Section.md)** object.
 
 
 ## Return value

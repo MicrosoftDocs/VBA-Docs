@@ -21,7 +21,7 @@ Restores the original colors of a picture that was recolored.
 
 _expression_.**RestoreOriginalColors**
 
-_expression_ A variable that represents a  **PictureFormat** object.
+_expression_ A variable that represents a **[PictureFormat](Publisher.PictureFormat.md)** object.
 
 
 ## Remarks

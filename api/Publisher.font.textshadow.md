@@ -19,7 +19,7 @@ Returns a  [ShadowFormat](Publisher.ShadowFormat.md) object that specifies the s
 
 _expression_.**TextShadow**
 
-_expression_ A variable that represents a  **Font** object.
+_expression_ A variable that represents a **[Font](Publisher.Font.md)** object.
 
 
 ## Return value

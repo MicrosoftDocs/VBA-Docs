@@ -21,7 +21,7 @@ Converts the specified plate from spot color to process.
 
 _expression_.**ConvertToProcess**
 
-_expression_ A variable that represents a  **Plate** object.
+_expression_ A variable that represents a **[Plate](Publisher.Plate.md)** object.
 
 
 ## Remarks

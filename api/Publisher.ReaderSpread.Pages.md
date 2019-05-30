@@ -19,9 +19,9 @@ Returns a  **[Page](Publisher.Page.md)** object representing one of the pages th
 
 ## Syntax
 
-_expression_.**Pages**(**_Index_**)
+_expression_.**Pages** (_Index_)
 
-_expression_ A variable that represents a  **ReaderSpread** object.
+_expression_ A variable that represents a **[ReaderSpread](Publisher.ReaderSpread.md)** object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents a  **ReaderSpread** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The page from the reader spread to return. Can be either 1 or 2.|
+|_Index_|Required| **Long**|The page from the reader spread to return. Can be either 1 or 2.|
 
 ## Remarks
 

@@ -21,7 +21,7 @@ Returns an  **MsoPresetExtrusionDirection** constant that represents the directi
 
 _expression_.**PresetExtrusionDirection**
 
-_expression_ A variable that represents a  **ThreeDFormat** object.
+_expression_ A variable that represents a **[ThreeDFormat](Publisher.ThreeDFormat.md)** object.
 
 
 ## Return value

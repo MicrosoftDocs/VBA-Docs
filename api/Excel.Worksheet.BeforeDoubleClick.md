@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.BeforeDoubleClick
 ms.assetid: 36e23bc8-0b49-2e22-bfb0-cfff24a82fda
-ms.date: 06/08/2017
+ms.date: 05/30/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Target_|Required| **Range**|The cell nearest to the mouse pointer when the double-click occurs.|
@@ -35,14 +33,11 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 ## Remarks
 
-The  **[DoubleClick](Excel.Application.DoubleClick.md)** method doesn't cause this event to occur.
+The **[DoubleClick](Excel.Application.DoubleClick.md)** method doesn't cause this event to occur.
 
 This event doesn't occur when the user double-clicks the border of a cell.
 
 
-## See also
 
-
-[Worksheet Object](Excel.Worksheet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

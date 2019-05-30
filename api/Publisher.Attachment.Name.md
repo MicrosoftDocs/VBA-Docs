@@ -21,7 +21,7 @@ Returns the name of the attachment. Read-only.
 
 _expression_.**Name**
 
-_expression_ A variable that represents an  **Attachment** object.
+_expression_ A variable that represents an **[Attachment](Publisher.Attachment.md)** object.
 
 
 ## Return value

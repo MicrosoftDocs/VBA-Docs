@@ -19,9 +19,9 @@ Occurs before the publication is printed or previewed. .
 
 ## Syntax
 
-_expression_.**BeforePrint**(**_Doc_**,  **_Cancel_**)
+_expression_.**BeforePrint** (_Doc_, _Cancel_)
 
- _expression_ An expression that returns an  **Application** object.
+ _expression_ An expression that returns an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters
@@ -30,8 +30,8 @@ _expression_.**BeforePrint**(**_Doc_**,  **_Cancel_**)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Doc|Required| **Document**|The current publication.|
-|Cancel|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this parameter to **True**, the publication is not printed when the procedure finishes running.|
+|_Doc_|Required| **Document**|The current publication.|
+|_Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this parameter to **True**, the publication is not printed when the procedure finishes running.|
 
 ## Remarks
 

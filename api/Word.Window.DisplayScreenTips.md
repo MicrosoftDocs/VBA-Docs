@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `DisplayScreenTips`
 
-_expression_ A variable that represents a '[Window](Word.Window.md)' object.
+_expression_ A variable that represents a **[Window](Word.Window.md)** object.
 
 
 ## Remarks

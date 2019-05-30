@@ -16,9 +16,9 @@ Returns the specified  **[BuildingBlock](Publisher.BuildingBlock.md)** object fr
 
 ## Syntax
 
-_expression_.**Item**(**_Item_**)
+_expression_.**Item** (_Item_)
 
-_expression_ A variable that represents a  **BuildingBlocks** object.
+_expression_ A variable that represents a **[BuildingBlocks](Publisher.BuildingBlocks.md)** object.
 
 
 ## Parameters
@@ -27,6 +27,6 @@ _expression_ A variable that represents a  **BuildingBlocks** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Item|Required| **Long**|The number of the building block object to return.|
+|_Item_|Required| **Long**|The number of the building block object to return.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

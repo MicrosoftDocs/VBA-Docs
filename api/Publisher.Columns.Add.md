@@ -21,7 +21,7 @@ Adds a new  **Column** object to the specified **Columns** collection and return
 
 _expression_.**Add** (_BeforeColumn_)
 
-_expression_ A variable that represents a  **Columns** object.
+_expression_ A variable that represents a **[Columns](Publisher.Columns.md)** object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents a  **Columns** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|BeforeColumn|Optional| **Long**|The number of the column before which to insert the new column. If this argument is omitted, the new column is added after the existing columns. An error occurs if the value of this argument does not correspond to an existing column in the table.|
+|_BeforeColumn_|Optional| **Long**|The number of the column before which to insert the new column. If this argument is omitted, the new column is added after the existing columns. An error occurs if the value of this argument does not correspond to an existing column in the table.|
 
 ## Return value
 

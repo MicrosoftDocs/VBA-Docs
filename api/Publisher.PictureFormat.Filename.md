@@ -21,7 +21,7 @@ Returns a  **String** that represents the file name of the specified picture or 
 
 _expression_.**Filename**
 
-_expression_ A variable that represents a  **PictureFormat** object.
+_expression_ A variable that represents a **[PictureFormat](Publisher.PictureFormat.md)** object.
 
 
 ## Return value

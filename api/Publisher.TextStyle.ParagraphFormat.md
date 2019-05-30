@@ -21,7 +21,7 @@ Returns a  **[ParagraphFormat](Publisher.ParagraphFormat.md)** object representi
 
 _expression_.**ParagraphFormat**
 
-_expression_ A variable that represents a  **TextStyle** object.
+_expression_ A variable that represents a **[TextStyle](Publisher.TextStyle.md)** object.
 
 
 ## Example

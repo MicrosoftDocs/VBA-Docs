@@ -21,7 +21,7 @@ Determines whether the text "Continued on page  _pagenumber_" appears in a text 
 
 _expression_.**IncludeContinuedOnPage**
 
-_expression_ A variable that represents a  **TextFrame** object.
+_expression_ A variable that represents a **[TextFrame](Publisher.TextFrame.md)** object.
 
 
 ## Return value

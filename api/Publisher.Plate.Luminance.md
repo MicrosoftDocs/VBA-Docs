@@ -21,7 +21,7 @@ Returns or sets a  **Long** indicating a calculated luminance value for the spec
 
 _expression_.**Luminance**
 
-_expression_ A variable that represents a  **Plate** object.
+_expression_ A variable that represents a **[Plate](Publisher.Plate.md)** object.
 
 
 ## Return value

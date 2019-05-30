@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.CircleInvalid
 ms.assetid: d0e697a4-0c8a-bf2a-06a1-e162696a64dd
-ms.date: 06/08/2017
+ms.date: 05/30/2019
 localization_priority: Normal
 ---
 
@@ -28,15 +28,11 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 This example circles invalid entries on worksheet one.
 
-
 ```vb
 Worksheets(1).CircleInvalid
 ```
 
 
-## See also
 
-
-[Worksheet Object](Excel.Worksheet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

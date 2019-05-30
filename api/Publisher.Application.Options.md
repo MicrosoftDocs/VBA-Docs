@@ -21,7 +21,7 @@ Returns an  **[Options](Publisher.Options.md)** object that represents applicati
 
 _expression_.**Options**
 
-_expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Return value

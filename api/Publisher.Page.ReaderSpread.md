@@ -21,7 +21,7 @@ Returns a  **[ReaderSpread](Publisher.ReaderSpread.md)** object that represents 
 
 _expression_.**ReaderSpread**
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **[Page](Publisher.Page.md)** object.
 
 
 ## Return value

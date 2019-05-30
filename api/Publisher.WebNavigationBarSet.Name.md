@@ -21,7 +21,7 @@ Indicates the name of the specified Web navigation bar set. Read/write.
 
 _expression_.**Name**
 
- _expression_ An expression that returns a  **WebNavigationBarSet** object.
+ _expression_ An expression that returns a **[WebNavigationBarSet](Publisher.WebNavigationBarSet.md)** object.
 
 
 ## Return value

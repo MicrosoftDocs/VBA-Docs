@@ -21,7 +21,7 @@ Gets or sets the subject line of the merged email message. Read/write.
 
 _expression_.**Subject**
 
-_expression_ A variable that represents an  **EmailMergeEnvelope** object.
+_expression_ A variable that represents an **[EmailMergeEnvelope](Publisher.EmailMergeEnvelope.md)** object.
 
 
 ## Return value

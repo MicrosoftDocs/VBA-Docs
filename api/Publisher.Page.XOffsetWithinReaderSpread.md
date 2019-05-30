@@ -21,7 +21,7 @@ Returns a  **Single** that represents the distance (in points) from the left edg
 
 _expression_.**XOffsetWithinReaderSpread**
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **[Page](Publisher.Page.md)** object.
 
 
 ## Return value

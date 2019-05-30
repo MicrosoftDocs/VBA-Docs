@@ -19,9 +19,9 @@ Returns the specified  **[Page](Publisher.Page.md)** object from a **Pages** or 
 
 ## Syntax
 
-_expression_.**Item**(**_Item_**)
+_expression_.**Item** (_Item_)
 
-_expression_ A variable that represents a  **MasterPages** object.
+_expression_ A variable that represents a **[MasterPages](Publisher.MasterPages.md)** object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents a  **MasterPages** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Item|Required| **Long**|The number of the page to return. For  **MasterPages** collections, Item can either be 1 or 2 for the left and right master pages, respectively. For **Pages** collections, Item corresponds to a **Page** object's **[PageIndex](Publisher.Page.PageIndex.md)** property.|
+|_Item_|Required| **Long**|The number of the page to return. For  **MasterPages** collections, Item can either be 1 or 2 for the left and right master pages, respectively. For **Pages** collections, Item corresponds to a **Page** object's **[PageIndex](Publisher.Page.PageIndex.md)** property.|
 
 ## Example
 

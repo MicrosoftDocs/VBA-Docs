@@ -21,7 +21,7 @@ Sets or retrieves a  **PbListSeparator** constant that represents the list separ
 
 _expression_.**ListNumberSeparator**
 
-_expression_ A variable that represents a  **ParagraphFormat** object.
+_expression_ A variable that represents a **[ParagraphFormat](Publisher.ParagraphFormat.md)** object.
 
 
 ## Return value

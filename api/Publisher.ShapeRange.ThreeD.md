@@ -21,7 +21,7 @@ Returns a  **[ThreeDFormat](Publisher.ThreeDFormat.md)** object.
 
 _expression_.**ThreeD**
 
-_expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md)** object.
 
 
 ## Remarks

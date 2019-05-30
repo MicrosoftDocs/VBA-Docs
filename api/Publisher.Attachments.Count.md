@@ -21,7 +21,7 @@ Returns the number of  **[Attachment](Publisher.Attachment.md)** objects in the 
 
 _expression_.**Count**
 
-_expression_ A variable that represents an  **Attachments** collection.
+_expression_ A variable that represents an **[Attachments](Publisher.Attachments.md)** object.
 
 
 ## Return value

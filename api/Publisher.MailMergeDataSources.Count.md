@@ -21,7 +21,7 @@ Returns the number of  **MailMergeDataSource** objects in the **MailMergeDataSou
 
 _expression_.**Count**
 
-_expression_ A variable that represents a  **MailMergeDataSources** collection.
+_expression_ A variable that represents a **[MailMergeDataSources](Publisher.MailMergeDataSources.md)** object.
 
 
 ## Return value

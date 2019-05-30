@@ -18,6 +18,6 @@ Used without an object qualifier, this property returns an  **[Application](Publ
 
 _expression_.**Application**
 
-_expression_ A variable that represents a  **CaptionStyle** object.
+_expression_ A variable that represents a **[CaptionStyle](Publisher.CaptionStyle.md)** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

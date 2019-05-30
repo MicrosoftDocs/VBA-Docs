@@ -19,6 +19,6 @@ A string that represents the search keywords associated with the building block.
 
 _expression_.**Keywords**
 
-_expression_ A variable that represents a  **BuildingBlock** object.
+_expression_ A variable that represents a **[BuildingBlock](Publisher.BuildingBlock.md)** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

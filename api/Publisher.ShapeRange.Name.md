@@ -21,7 +21,7 @@ Returns or sets a  **String** value indicating the name of the specified object.
 
 _expression_.**Name**
 
-_expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md)** object.
 
 
 ## Remarks

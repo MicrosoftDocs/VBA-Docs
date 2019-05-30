@@ -21,7 +21,7 @@ Returns a  **PbSelectionType** constant that represents the selection type. Read
 
 _expression_.**Type**
 
-_expression_ A variable that represents a  **Selection** object.
+_expression_ A variable that represents a **[Selection](Publisher.Selection.md)** object.
 
 
 ## Remarks

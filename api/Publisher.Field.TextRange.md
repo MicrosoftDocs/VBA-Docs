@@ -21,7 +21,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the te
 
 _expression_.**TextRange**
 
-_expression_ A variable that represents a  **Field** object.
+_expression_ A variable that represents a **[Field](Publisher.Field.md)** object.
 
 
 ## Example

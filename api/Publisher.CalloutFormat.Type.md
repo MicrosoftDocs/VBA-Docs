@@ -14,19 +14,19 @@ localization_priority: Normal
 
 # CalloutFormat.Type property (Publisher)
 
-Returns or sets an  **MsoCalloutType** constant that represents the callout type. Read/write.
+Returns or sets an **MsoCalloutType** constant that represents the callout type. Read/write.
 
 
 ## Syntax
 
 _expression_.**Type**
 
-_expression_ A variable that represents a  **CalloutFormat** object.
+_expression_ A variable that represents a **[CalloutFormat](Publisher.CalloutFormat.md)** object.
 
 
 ## Remarks
 
-The  **Type** property value can be one of these **MsoCalloutType** constants.
+The **Type** property value can be one of these **MsoCalloutType** constants.
 
 
 

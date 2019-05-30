@@ -21,7 +21,7 @@ Returns a  **PbInkName** constant that represents the name of the ink to be prin
 
 _expression_.**InkName**
 
-_expression_ A variable that represents a  **Plate** object.
+_expression_ A variable that represents a **[Plate](Publisher.Plate.md)** object.
 
 
 ## Remarks

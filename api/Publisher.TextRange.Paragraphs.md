@@ -21,7 +21,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the sp
 
 _expression_.**Paragraphs**(**_Start_**,  **_Length_**)
 
-_expression_ A variable that represents a  **TextRange** object.
+_expression_ A variable that represents a **[TextRange](Publisher.TextRange.md)** object.
 
 
 ## Parameters

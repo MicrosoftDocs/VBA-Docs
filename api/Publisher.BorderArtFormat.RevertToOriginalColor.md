@@ -21,7 +21,7 @@ Sets the BorderArt on the specified shape back to its default color.
 
 _expression_.**RevertToOriginalColor**
 
-_expression_ A variable that represents a  **BorderArtFormat** object.
+_expression_ A variable that represents a **[BorderArtFormat](Publisher.BorderArtFormat.md)** object.
 
 
 ## Remarks

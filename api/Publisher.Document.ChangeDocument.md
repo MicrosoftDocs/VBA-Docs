@@ -19,9 +19,9 @@ Changes the current publication to one that uses the wizard, and optionally the 
 
 ## Syntax
 
-_expression_.**ChangeDocument**(**_Wizard_**,  **_Design_**)
+_expression_.**ChangeDocument** (_Wizard_, _Design_)
 
-_expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a **[Document](Publisher.Document.md)** object.
 
 
 ## Parameters
@@ -30,8 +30,8 @@ _expression_ A variable that represents a  **Document** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Wizard|Required| **PbWizard**|The type of wizard. See Remarks for possible values.|
-|Design|Optional| **Long**|The design type.|
+|_Wizard_|Required| **PbWizard**|The type of wizard. See Remarks for possible values.|
+|_Design_|Optional| **Long**|The design type.|
 
 ## Remarks
 

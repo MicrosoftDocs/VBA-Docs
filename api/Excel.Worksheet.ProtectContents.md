@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.ProtectContents
 ms.assetid: 807717f6-1265-2d5d-5221-bc46b24d8281
-ms.date: 06/08/2017
+ms.date: 05/30/2019
 localization_priority: Normal
 ---
 
 
 # Worksheet.ProtectContents property (Excel)
 
- **True** if the contents of the sheet are protected. This protects the individual cells. To turn on content protection, use the **[Protect](Excel.Worksheet.Protect.md)** method with the _Contents_ argument set to **True**. Read-only **Boolean**.
+**True** if the contents of the sheet are protected. This protects the individual cells. To turn on content protection, use the **[Protect](Excel.Worksheet.Protect.md)** method with the _Contents_ argument set to **True**. Read-only **Boolean**.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 This example displays a message box if the contents of Sheet1 are protected.
 
-
 ```vb
 If Worksheets("Sheet1").ProtectContents = True Then 
  MsgBox "The contents of Sheet1 are protected." 
@@ -36,9 +35,5 @@ End If
 ```
 
 
-## See also
-
-
-[Worksheet Object](Excel.Worksheet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

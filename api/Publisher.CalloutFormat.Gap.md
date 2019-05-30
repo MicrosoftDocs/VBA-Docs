@@ -21,7 +21,7 @@ Returns or sets a  **Variant** indicating the horizontal distance between the en
 
 _expression_.**Gap**
 
-_expression_ A variable that represents a  **CalloutFormat** object.
+_expression_ A variable that represents a **[CalloutFormat](Publisher.CalloutFormat.md)** object.
 
 
 ## Return value

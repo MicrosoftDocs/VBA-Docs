@@ -21,7 +21,7 @@ Gets or sets whether to use a wizard for blank publications. Read/write.
 
 _expression_.**UseWizardForBlankPublication**
 
-_expression_ A variable that represents an  **Options** object.
+_expression_ A variable that represents an **[Options](Publisher.Options.md)** object.
 
 
 ## Return value

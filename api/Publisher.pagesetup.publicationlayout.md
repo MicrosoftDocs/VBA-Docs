@@ -19,7 +19,7 @@ Returns or sets a  [PbPublicationLayout enumeration (Publisher)](Publisher.pbpub
 
 _expression_.**PublicationLayout**
 
-_expression_ A variable that represents a  **PageSetup** object.
+_expression_ A variable that represents a **[PageSetup](Publisher.PageSetup.md)** object.
 
 
 ## Return value

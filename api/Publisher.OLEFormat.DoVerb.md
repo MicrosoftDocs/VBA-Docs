@@ -21,7 +21,7 @@ Requests that an OLE object perform one of its verbs.
 
 _expression_.**DoVerb**(**_iVerb_**)
 
-_expression_ A variable that represents an  **OLEFormat** object.
+_expression_ A variable that represents an **[OLEFormat](Publisher.OLEFormat.md)** object.
 
 
 ## Parameters

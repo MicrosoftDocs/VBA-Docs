@@ -21,7 +21,7 @@ Returns an  **MsoSegmentType** constant that indicates whether the segment assoc
 
 _expression_.**SegmentType**
 
-_expression_ A variable that represents a  **ShapeNode** object.
+_expression_ A variable that represents a **[ShapeNode](Publisher.ShapeNode.md)** object.
 
 
 ## Return value

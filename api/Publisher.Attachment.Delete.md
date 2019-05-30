@@ -21,7 +21,7 @@ Deletes an  **Attachment** object from the **Attachments** collection of an emai
 
 _expression_.**Delete**
 
-_expression_ A variable that represents an  **Attachment** object.
+_expression_ A variable that represents an **[Attachment](Publisher.Attachment.md)** object.
 
 
 ## Remarks

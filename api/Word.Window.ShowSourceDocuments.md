@@ -21,7 +21,7 @@ Returns or sets a  **[WdShowSourceDocuments](Word.WdShowSourceDocuments.md)** co
 
 _expression_. `ShowSourceDocuments`
 
- _expression_ An expression that returns a '[Window](Word.Window.md)' object.
+ _expression_ An expression that returns a **[Window](Word.Window.md)** object.
 
 
 ## See also

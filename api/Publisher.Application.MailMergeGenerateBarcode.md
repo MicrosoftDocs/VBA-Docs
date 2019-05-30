@@ -19,19 +19,17 @@ Occurs when Microsoft Publisher requires data to generate barcodes in a mail-mer
 
 ## Syntax
 
-_expression_.**MailMergeGenerateBarcode**(**_Doc_**,  **_bstrString_**)
+_expression_.**MailMergeGenerateBarcode** (_Doc_, _bstrString_)
 
-_expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Doc|Required| **Document**|The current publication.|
-|bstrString|Required| **String**|Output parameter. A string representation of the barcode.|
+|_Doc_|Required| **Document**|The current publication.|
+|_bstrString_|Required| **String**|Output parameter. A string representation of the barcode.|
 
 ## Remarks
 

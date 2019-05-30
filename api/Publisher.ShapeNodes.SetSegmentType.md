@@ -21,7 +21,7 @@ Sets the segment type of the segment that follows the specified node. If the nod
 
 _expression_.**SetSegmentType**(**_Index_**,  **_SegmentType_**)
 
-_expression_ A variable that represents a  **ShapeNodes** object.
+_expression_ A variable that represents a **[ShapeNodes](Publisher.ShapeNodes.md)** object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents a  **ShapeNodes** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The node whose segment type is to be set. Must be a number from 1 to the number of nodes in the specified shape; otherwise, an error occurs.|
+|_Index_|Required| **Long**|The node whose segment type is to be set. Must be a number from 1 to the number of nodes in the specified shape; otherwise, an error occurs.|
 |SegmentType|Required| **MsoSegmentType**|Specifies the segment type.|
 
 ## Remarks

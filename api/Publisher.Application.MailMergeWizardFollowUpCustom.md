@@ -19,9 +19,9 @@ Fires when the string that appears as the fourth item under  **Prepare to follow
 
 ## Syntax
 
-_expression_.**MailMergeWizardFollowUpCustom**(**_Doc_**)
+_expression_.**MailMergeWizardFollowUpCustom** (_Doc_)
 
-_expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents an  **Application** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Doc|Required| **Document**|The current publication.|
+|_Doc_|Required| **Document**|The current publication.|
 
 ## Remarks
 

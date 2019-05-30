@@ -21,14 +21,14 @@ Inserts a new segment after the specified node of the freeform drawing.
 
 _expression_.**Insert** (_Index_, _SegmentType_, _EditingType_, _X1_, _Y1_, _X2_, _Y2_, _X3_, _Y3_)
 
-_expression_ A variable that represents a  **ShapeNodes** object.
+_expression_ A variable that represents a **[ShapeNodes](Publisher.ShapeNodes.md)** object.
 
 
 ## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The number of the node after which the new node is to be inserted.|
+|_Index_|Required| **Long**|The number of the node after which the new node is to be inserted.|
 |SegmentType|Required| **MsoSegmentType**|The type of segment to be added.|
 |EditingType|Required| **MsoEditingType**|Specifies the editing type of the new node.|
 |X1|Required| **Variant**|If the EditingType of the new segment is  **msoEditingAuto**, this argument specifies the horizontal distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new node is  **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the first control point for the new segment.|

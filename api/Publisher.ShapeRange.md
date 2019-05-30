@@ -24,7 +24,7 @@ Represents a shape range, which is a set of shapes on a document. A shape range 
     
 - Return a  **ShapeRange** object within a selection or range.
     
-- Align, distribute, and group shapes in a  **ShapeRange** object.
+- Align, distribute, and group shapes in a **[ShapeRange](Publisher.ShapeRange.md)** object.
     
 
 ## Example

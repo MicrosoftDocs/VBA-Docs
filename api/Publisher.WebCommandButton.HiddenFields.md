@@ -21,7 +21,7 @@ Returns a  **WebHiddenFields** object that represents hidden Web fields attached
 
 _expression_.**HiddenFields**
 
-_expression_ A variable that represents a  **WebCommandButton** object.
+_expression_ A variable that represents a **[WebCommandButton](Publisher.WebCommandButton.md)** object.
 
 
 ## Return value

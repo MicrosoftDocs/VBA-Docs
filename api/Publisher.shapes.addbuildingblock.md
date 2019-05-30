@@ -19,7 +19,7 @@ Adds a  **[BuildingBlock](Publisher.BuildingBlock.md)** object and returns a **[
 
 _expression_.**AddBuildingBlock**(**_BBlockIn_**,  **_Left_**,  **_Top_**)
 
-_expression_ A variable that represents a  **Shapes** object.
+_expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** object.
 
 
 ## Parameters

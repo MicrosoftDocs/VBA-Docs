@@ -21,7 +21,7 @@ Returns a  **PbPublicationType** constant that represents the type of the specif
 
 _expression_.**PublicationType**
 
-_expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a **[Document](Publisher.Document.md)** object.
 
 
 ## Return value

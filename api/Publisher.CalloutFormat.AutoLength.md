@@ -21,7 +21,7 @@ Returns an  **MsoTriState**constant indicating whether the first segment of the 
 
 _expression_.**AutoLength**
 
-_expression_ A variable that represents a  **CalloutFormat** object.
+_expression_ A variable that represents a **[CalloutFormat](Publisher.CalloutFormat.md)** object.
 
 
 ## Return value

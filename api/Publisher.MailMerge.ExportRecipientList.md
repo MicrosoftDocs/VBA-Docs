@@ -21,7 +21,7 @@ Exports the list of mail-merge recipients to a Microsoft Office Access (.mdb) fi
 
 _expression_.**ExportRecipientList**(**_FileName_**,  **_FileType_**,  **_IncludedOnly_**)
 
-_expression_ A variable that represents a  **MailMerge** object.
+_expression_ A variable that represents a **[MailMerge](Publisher.MailMerge.md)** object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents a  **MailMerge** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Filename|Required| **String**|The name of the file that will contain the list of recipients.|
+|_FileName_|Required| **String**|The name of the file that will contain the list of recipients.|
 |FileType|Optional| **PbRecipientListFileType**|The type of file to save. See Remarks for possible values.|
 |IncludedOnly|Optional| **Boolean**|Whether to restrict entries in the recipient list to specific recipients.|
 

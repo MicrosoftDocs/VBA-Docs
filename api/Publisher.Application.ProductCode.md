@@ -21,7 +21,7 @@ Returns a  **String** indicating the Microsoft Publisher globally unique identif
 
 _expression_.**ProductCode**
 
-_expression_ A variable that represents a  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Return value

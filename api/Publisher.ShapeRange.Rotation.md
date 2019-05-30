@@ -21,7 +21,7 @@ Returns or sets a  **Single** that represents the number of degrees the specifie
 
 _expression_.**Rotation**
 
-_expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md)** object.
 
 
 ## Remarks

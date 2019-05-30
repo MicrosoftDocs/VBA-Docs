@@ -21,7 +21,7 @@ Returns or sets a  **Long** that represents the number of the last record to be 
 
 _expression_.**LastRecord**
 
-_expression_ A variable that represents a  **MailMergeDataSource** object.
+_expression_ A variable that represents a **[MailMergeDataSource](Publisher.MailMergeDataSource.md)** object.
 
 
 ## Return value

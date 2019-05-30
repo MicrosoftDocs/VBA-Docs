@@ -19,7 +19,7 @@ Returns the preset gradient type for the specified line. Read-only.
 
 _expression_.**PresetGradientType**
 
-_expression_ A variable that represents a  **LineFormat** object.
+_expression_ A variable that represents a **[LineFormat](Publisher.LineFormat.md)** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns a  **Boolean** value indicating whether the specified cell contains any 
 
 _expression_.**HasText**
 
-_expression_ A variable that represents a  **Cell** object.
+_expression_ A variable that represents a **[Cell](Publisher.Cell.md)** object.
 
 
 ## Example

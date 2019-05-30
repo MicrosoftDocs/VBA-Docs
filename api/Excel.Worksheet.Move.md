@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.Move
 ms.assetid: 808e6eb8-7811-6f72-5acc-b3779587aa52
-ms.date: 06/08/2017
+ms.date: 05/30/2019
 localization_priority: Normal
 ---
 
@@ -26,22 +26,19 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Before_|Optional| **Variant**|The sheet before which the moved sheet will be placed. You cannot specify  _Before_ if you specify _After_.|
+| _Before_|Optional| **Variant**|The sheet before which the moved sheet will be placed. You cannot specify _Before_ if you specify _After_.|
 | _After_|Optional| **Variant**| The sheet after which the moved sheet will be placed. You cannot specify _After_ if you specify _Before_.|
 
 ## Remarks
 
-If you don't specify either  _Before_ or _After_, Microsoft Excel creates a new workbook that contains the moved sheet.
+If you don't specify either _Before_ or _After_, Microsoft Excel creates a new workbook that contains the moved sheet.
 
 
 ## Example
 
 This example moves Sheet1 after Sheet3 in the active workbook.
-
 
 ```vb
 Worksheets("Sheet1").Move _ 
@@ -49,9 +46,6 @@ Worksheets("Sheet1").Move _
 ```
 
 
-## See also
 
-
-[Worksheet Object](Excel.Worksheet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

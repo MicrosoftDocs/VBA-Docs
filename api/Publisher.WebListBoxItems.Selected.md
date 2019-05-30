@@ -21,7 +21,7 @@ Selects or cancels the selection of an item in a Web list box control.
 
 _expression_.**Selected** (_Index_, _SelectState_)
 
-_expression_ A variable that represents a  **WebListBoxItems** object.
+_expression_ A variable that represents a **[WebListBoxItems](Publisher.WebListBoxItems.md)** object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents a  **WebListBoxItems** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The number of the Web list box item.|
+|_Index_|Required| **Long**|The number of the Web list box item.|
 |SelectState|Required| **Boolean**| **True** to select the list item.|
 
 ## Example

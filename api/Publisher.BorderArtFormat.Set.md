@@ -19,9 +19,9 @@ Sets the type of BorderArt applied to the specified shape.
 
 ## Syntax
 
-_expression_.**Set**(**_BorderArtName_**)
+_expression_.**Set** (_BorderArtName_)
 
-_expression_ A variable that represents a  **BorderArtFormat** object.
+_expression_ A variable that represents a **[BorderArtFormat](Publisher.BorderArtFormat.md)** object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents a  **BorderArtFormat** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|BorderArtName|Required| **Variant**|The name of the BorderArt type applied to the specified shape.|
+|_BorderArtName_|Required| **Variant**|The name of the BorderArt type applied to the specified shape.|
 
 ## Remarks
 

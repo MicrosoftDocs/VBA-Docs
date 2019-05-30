@@ -19,9 +19,9 @@ Converts a measurement from points to millimeters (1 mm = 2.835 points). Returns
 
 ## Syntax
 
-_expression_.**PointsToMillimeters**(**_Value_**)
+_expression_.**PointsToMillimeters** (_Value_)
 
-_expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents an  **Application** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Value|Required| **Single**|The point value to be converted to millimeters.|
+|_Value_|Required| **Single**|The point value to be converted to millimeters.|
 
 ## Return value
 

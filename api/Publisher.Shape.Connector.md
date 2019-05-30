@@ -21,7 +21,7 @@ Returns an  **MsoTriState**value indicating whether the specified shape is a con
 
 _expression_.**Connector**
 
-_expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object.
 
 
 ## Remarks

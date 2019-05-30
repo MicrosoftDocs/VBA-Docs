@@ -21,6 +21,6 @@ Returns a  **Variant** that represents the distance between the top of the page 
 
 _expression_.**Top**
 
-_expression_ A variable that represents a  **ShapeRange** object.
+_expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md)** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

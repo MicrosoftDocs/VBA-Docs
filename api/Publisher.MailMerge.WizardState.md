@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # MailMerge.WizardState property (Publisher)
 
-Returns or sets a  **Long** indicating the current Mail Merge wizard step for a publication. The **WizardState** property returns a number that equates to the current Mail Merge wizard step; a zero (0) means the Mail Merge wizard is closed. Read/write.
+Returns or sets a **Long** indicating the current Mail Merge wizard step for a publication. The **WizardState** property returns a number that equates to the current Mail Merge wizard step; a zero (0) means the Mail Merge wizard is closed. Read/write.
 
 
 ## Syntax
 
 _expression_.**WizardState**
 
-_expression_ A variable that represents a  **MailMerge** object.
+_expression_ A variable that represents a **[MailMerge](Publisher.MailMerge.md)** object.
 
 
 ## Return value

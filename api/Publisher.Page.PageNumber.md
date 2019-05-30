@@ -21,7 +21,7 @@ Returns a  **String** that represents the current page number. Read-only.
 
 _expression_.**PageNumber**
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **[Page](Publisher.Page.md)** object.
 
 
 ## Return value

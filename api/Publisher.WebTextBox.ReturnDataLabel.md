@@ -14,19 +14,19 @@ localization_priority: Normal
 
 # WebTextBox.ReturnDataLabel property (Publisher)
 
-Returns or sets a  **String** that represents the text used by the Web page to label the specified Web object when the page is submitted. Read/write.
+Returns or sets a **String** that represents the text used by the web page to label the specified web object when the page is submitted. Read/write.
 
 
 ## Syntax
 
 _expression_.**ReturnDataLabel**
 
-_expression_ A variable that represents a  **WebTextBox** object.
+_expression_ A variable that represents a **[WebTextBox](Publisher.WebTextBox.md)** object.
 
 
 ## Example
 
-This example creates a new Web text box and specifies the label for the text in the text box when the page is submitted.
+This example creates a new web text box and specifies the label for the text in the text box when the page is submitted.
 
 
 ```vb

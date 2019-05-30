@@ -21,7 +21,7 @@ Returns  **True** if no changes have been made to a publication since it was las
 
 _expression_.**Saved**
 
-_expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a **[Document](Publisher.Document.md)** object.
 
 
 ## Return value

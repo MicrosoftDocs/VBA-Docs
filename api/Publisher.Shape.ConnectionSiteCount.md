@@ -21,7 +21,7 @@ Returns a  **Long** indicating the count of connection sites on the current **Sh
 
 _expression_.**ConnectionSiteCount**
 
-_expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object.
 
 
 ## Remarks

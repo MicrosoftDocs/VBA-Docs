@@ -19,9 +19,9 @@ Returns a  **[ShapeRange](Publisher.ShapeRange.md)** collection that represents 
 
 ## Syntax
 
-_expression_.**Range**(**_Index_**)
+_expression_.**Range** (_Index_)
 
-_expression_ A variable that represents an  **InlineShapes** object.
+_expression_ A variable that represents an **[InlineShapes](Publisher.InlineShapes.md)** object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents an  **InlineShapes** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Optional| **Long**|The index position of the inline shape within the  **ShapeRange** collection.|
+|_Index_|Optional| **Long**|The index position of the inline shape within the  **ShapeRange** collection.|
 
 ## Example
 

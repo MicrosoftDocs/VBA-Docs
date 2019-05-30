@@ -21,7 +21,7 @@ Returns a  **Long** that represents the number of items in the specified collect
 
 _expression_.**Count**
 
-_expression_ A variable that represents a  **Rows** object.
+_expression_ A variable that represents a **[Rows](Publisher.Rows.md)** object.
 
 
 ## Example

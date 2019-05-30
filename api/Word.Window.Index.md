@@ -21,7 +21,7 @@ Returns a  **Long** that represents the position of an item in a collection. Rea
 
 _expression_.**Index**
 
-_expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
+_expression_ Required. A variable that represents a **[Window](Word.Window.md)** object.
 
 
 ## See also

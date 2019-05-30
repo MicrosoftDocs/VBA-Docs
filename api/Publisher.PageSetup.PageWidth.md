@@ -21,7 +21,7 @@ Returns or sets a  **Variant** that represents the width of the pages in a publi
 
 _expression_.**PageWidth**
 
-_expression_ A variable that represents a  **PageSetup** object.
+_expression_ A variable that represents a **[PageSetup](Publisher.PageSetup.md)** object.
 
 
 ## Return value

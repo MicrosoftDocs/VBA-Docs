@@ -19,9 +19,9 @@ Deletes the specified shape node object.
 
 ## Syntax
 
-_expression_.**Delete**(**_Index_**)
+_expression_.**Delete** (_Index_)
 
-_expression_ A variable that represents a  **ShapeNodes** object.
+_expression_ A variable that represents a **[ShapeNodes](Publisher.ShapeNodes.md)** object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents a  **ShapeNodes** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **[INT]**| **Long**. The number of the shape node to delete.|
+|_Index_|Required| **[INT]**| **Long**. The number of the shape node to delete.|
 
 ## Example
 

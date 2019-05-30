@@ -19,9 +19,9 @@ Returns an individual object from a specified collection. Read-only.
 
 ## Syntax
 
-_expression_.**Item**(**_Index_**)
+_expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a  **WizardProperties** object.
+_expression_ A variable that represents a **[WizardProperties](Publisher.WizardProperties.md)** object.
 
 
 ## Parameters
@@ -30,6 +30,6 @@ _expression_ A variable that represents a  **WizardProperties** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Item|Required| **Long**|The number of the object to return.|
+|_Item_|Required| **Long**|The number of the object to return.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

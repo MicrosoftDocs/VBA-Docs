@@ -21,7 +21,7 @@ Changes the rotation of the specified shape around the x-axis (horizontal) by th
 
 _expression_.**IncrementRotationX**(**_Increment_**)
 
-_expression_ A variable that represents a  **ThreeDFormat** object.
+_expression_ A variable that represents a **[ThreeDFormat](Publisher.ThreeDFormat.md)** object.
 
 
 ## Parameters

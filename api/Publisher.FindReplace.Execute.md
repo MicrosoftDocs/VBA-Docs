@@ -21,7 +21,7 @@ Performs the specified Find or Replace operation.
 
 _expression_.**Execute**
 
-_expression_ A variable that represents a  **FindReplace** object.
+_expression_ A variable that represents a **[FindReplace](Publisher.FindReplace.md)** object.
 
 
 ## Return value

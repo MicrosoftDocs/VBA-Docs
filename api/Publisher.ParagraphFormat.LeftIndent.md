@@ -21,7 +21,7 @@ Returns or sets a  **Variant** that represents the left indent value (in points)
 
 _expression_.**LeftIndent**
 
-_expression_ A variable that represents a  **ParagraphFormat** object.
+_expression_ A variable that represents a **[ParagraphFormat](Publisher.ParagraphFormat.md)** object.
 
 
 ## Return value

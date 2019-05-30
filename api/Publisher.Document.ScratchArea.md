@@ -21,7 +21,7 @@ Returns a  **[ScratchArea](Publisher.ScratchArea.md)** object for an a given doc
 
 _expression_.**ScratchArea**
 
-_expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a **[Document](Publisher.Document.md)** object.
 
 
 ## Return value

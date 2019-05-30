@@ -14,13 +14,14 @@ localization_priority: Normal
 
 # ReaderSpread.Width property (Publisher)
 
-Returns a  **Single** that represents the width, in [points](../language/glossary/vbe-glossary.md#point), of the page. Read-only.
+Returns a **Single** that represents the width, in [points](../language/glossary/vbe-glossary.md#point), of the page. Read-only.
 
 
 ## Syntax
 
 _expression_.**Width**
 
-_expression_ A variable that represents a  **ReaderSpread** object.
+_expression_ A variable that represents a **[ReaderSpread](Publisher.ReaderSpread.md)** object.
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

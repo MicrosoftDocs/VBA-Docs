@@ -21,7 +21,7 @@ Returns or sets a  **PbTextOrientation** that represents the flow of text in a s
 
 _expression_.**CellTextOrientation**
 
-_expression_ A variable that represents a  **Cell** object.
+_expression_ A variable that represents a **[Cell](Publisher.Cell.md)** object.
 
 
 ## Return value

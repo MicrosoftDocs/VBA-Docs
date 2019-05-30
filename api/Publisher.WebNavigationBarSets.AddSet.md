@@ -19,9 +19,9 @@ Adds a new  **WebNavigationBarSet** object representing a Web navigation bar set
 
 ## Syntax
 
-_expression_.**AddSet**(**_Name_**,  **_Design_**,  **_AutoUpdate_**)
+_expression_.**AddSet** (_Name_, _Design_, _AutoUpdate_)
 
-_expression_ A variable that represents a  **WebNavigationBarSets** object.
+_expression_ A variable that represents a **[WebNavigationBarSets](Publisher.WebNavigationBarSets.md)** object.
 
 
 ## Parameters
@@ -31,8 +31,8 @@ _expression_ A variable that represents a  **WebNavigationBarSets** object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Name|Required| **String**|The name of the Web navigation bar to be added. This parameter must be unique.|
-|Design|Optional| **PbWizardNavBarDesign**|Specifies the navigation bar design scheme.|
-|AutoUpdate|Optional| **Boolean**| **True** if all pages with the **AddHyperlinkToWebNavBar** property set to **True**are added as links to the navigation bar and the navigation bar is kept updated.|
+|_Design_|Optional| **PbWizardNavBarDesign**|Specifies the navigation bar design scheme.|
+|_AutoUpdate_|Optional| **Boolean**| **True** if all pages with the **AddHyperlinkToWebNavBar** property set to **True**are added as links to the navigation bar and the navigation bar is kept updated.|
 
 ## Return value
 

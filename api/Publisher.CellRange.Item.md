@@ -19,9 +19,9 @@ Returns an individual  **Cell** object in the specified **CellRange** collection
 
 ## Syntax
 
-_expression_.**Item**(**_Index_**)
+_expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a  **CellRange** object.
+_expression_ A variable that represents a **[CellRange](Publisher.CellRange.md)** object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents a  **CellRange** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The number of the object to return.|
+|_Index_|Required| **Long**|The number of the object to return.|
 
 ## Return value
 

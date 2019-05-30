@@ -18,6 +18,6 @@ A string that represents the unique name of the building block. Read/write.
 
 _expression_.**Name**
 
-_expression_ A variable that represents a  **BuildingBlock** object.
+_expression_ A variable that represents a **[BuildingBlock](Publisher.BuildingBlock.md)** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

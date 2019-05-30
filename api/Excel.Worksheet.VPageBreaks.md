@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.VPageBreaks
 ms.assetid: 2a8d5c77-a609-4995-7216-de71295eda9a
-ms.date: 06/08/2017
+ms.date: 05/30/2019
 localization_priority: Normal
 ---
 
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 This example displays the total number of full-screen and print-area vertical page breaks.
 
-
 ```vb
 For Each pb in Worksheets(1).VPageBreaks 
  If pb.Extent = xlPageBreakFull Then 
@@ -42,9 +41,6 @@ MsgBox cFull & " full-screen page breaks, " & cPartial & _
 ```
 
 
-## See also
 
-
-[Worksheet Object](Excel.Worksheet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

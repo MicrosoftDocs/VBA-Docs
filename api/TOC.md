@@ -23718,6 +23718,7 @@
 ###### [Item](Publisher.Plates.Item.md)
 ###### [Parent](Publisher.Plates.Parent.md)
 #### [PrintablePlate object](Publisher.printablePlate.md)
+#### [PrintablePlates object](Publisher.printablePlates.md)
 #### [PrintableRect object](Publisher.PrintableRect.md)
 ##### Properties
 ###### [Application](Publisher.PrintableRect.Application.md)
@@ -23726,7 +23727,6 @@
 ###### [Parent](Publisher.PrintableRect.Parent.md)
 ###### [Top](Publisher.PrintableRect.Top.md)
 ###### [Width](Publisher.PrintableRect.Width.md)
-#### [PrintablePlates object](Publisher.printablePlates.md)
 #### [Printer object](Publisher.Printer.md)
 ##### Properties
 ###### [Application](Publisher.Printer.Application.md)

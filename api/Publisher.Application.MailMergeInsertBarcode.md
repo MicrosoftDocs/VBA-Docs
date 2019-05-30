@@ -19,9 +19,9 @@ Occurs when the user issues the command to insert postal barcodes into a mail-me
 
 ## Syntax
 
-_expression_.**MailMergeInsertBarcode**(**_Doc_**,  **_OkToInsert_**)
+_expression_.**MailMergeInsertBarcode** (_Doc_, _OkToInsert_)
 
-_expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters
@@ -30,8 +30,8 @@ _expression_ A variable that represents an  **Application** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Doc|Required| **Document**|The current publication.|
-|OkToInsert|Required| **Boolean**|Output parameter.  **True** if it is okay to insert barcodes.|
+|_Doc_|Required| **Document**|The current publication.|
+|_OkToInsert_|Required| **Boolean**|Output parameter.  **True** if it is okay to insert barcodes.|
 
 ## Remarks
 

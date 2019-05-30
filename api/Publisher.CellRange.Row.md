@@ -21,7 +21,7 @@ Returns a  **Long** that represents the row number containing the specified cell
 
 _expression_.**Row**
 
-_expression_ A variable that represents a  **CellRange** object.
+_expression_ A variable that represents a **[CellRange](Publisher.CellRange.md)** object.
 
 
 ## Example

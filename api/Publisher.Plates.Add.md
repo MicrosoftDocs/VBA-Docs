@@ -21,7 +21,7 @@ Adds a new color plate to the specified  **Plates** object.
 
 _expression_.**Add** (_PlateColor_)
 
-_expression_ A variable that represents a  **Plates** object.
+_expression_ A variable that represents a **[Plates](Publisher.Plates.md)** object.
 
 
 ## Parameters

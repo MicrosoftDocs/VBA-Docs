@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**RotatedChars**
 
-_expression_ A variable that represents a  **TextEffectFormat** object.
+_expression_ A variable that represents a **[TextEffectFormat](Publisher.TextEffectFormat.md)** object.
 
 
 ## Return value

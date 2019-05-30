@@ -16,9 +16,9 @@ Returns the specified  **[CaptionStyle](Publisher.CaptionStyle.md)** object from
 
 ## Syntax
 
-_expression_.**Item**(**_Index_**)
+_expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a  **CaptionStyles** object.
+_expression_ A variable that represents a **[CaptionStyles](Publisher.CaptionStyles.md)** object.
 
 
 ## Parameters
@@ -27,7 +27,7 @@ _expression_ A variable that represents a  **CaptionStyles** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The index number in the collection of the caption style to return.|
+|_Index_|Required| **Long**|The index number in the collection of the caption style to return.|
 
 ## Return value
 

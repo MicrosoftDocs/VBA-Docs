@@ -15,19 +15,17 @@ Occurs when the user performs an action that causes an inline response to appear
 
 ## Syntax
 
-_expression_. `InlineResponse`_(Item)_
+_expression_.**InlineResponse** (_Item_)
 
 _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Item|Required| **Object**|Represents the inline response item.|
-| _Item_|Required|OBJECT||
+|_Item_|Required| **Object**|Represents the inline response item.|
+
 
 ## Remarks
 

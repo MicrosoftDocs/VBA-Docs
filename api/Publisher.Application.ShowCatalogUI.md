@@ -21,7 +21,7 @@ Fires when the catalog of publication wizards is displayed in the Microsoft Publ
 
 _expression_.**ShowCatalogUI**
 
- _expression_ An expression that returns a  **Application** object.
+ _expression_ An expression that returns an **[Application](Publisher.Application.md)** object.
 
 
 ## Remarks

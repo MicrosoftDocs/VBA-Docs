@@ -21,7 +21,7 @@ Returns or sets a  **String** that represents the text displayed for a hyperlink
 
 _expression_.**TextToDisplay**
 
-_expression_ A variable that represents a  **Hyperlink** object.
+_expression_ A variable that represents a **[Hyperlink](Publisher.Hyperlink.md)** object.
 
 
 ## Return value

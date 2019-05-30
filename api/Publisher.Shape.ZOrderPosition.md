@@ -21,7 +21,7 @@ Returns a  **Long** indicating the position of the specified shape or shape rang
 
 _expression_.**ZOrderPosition**
 
-_expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object.
 
 
 ## Remarks

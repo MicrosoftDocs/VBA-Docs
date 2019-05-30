@@ -21,7 +21,7 @@ Returns  **True** if, when you recolor the image represented by the parent **Pic
 
 _expression_.**LeaveBlackAsBlack**
 
-_expression_ A variable that represents a  **PictureFormat** object.
+_expression_ A variable that represents a **[PictureFormat](Publisher.PictureFormat.md)** object.
 
 
 ## Return value

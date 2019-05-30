@@ -21,7 +21,7 @@ Returns the window type. Read-only  **[WdWindowType](Word.WdWindowType.md)**.
 
 _expression_.**Type**
 
-_expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
+_expression_ Required. A variable that represents a **[Window](Word.Window.md)** object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns a  [CellBorder](Publisher.CellBorder.md)object that represents the top b
 
 _expression_.**BorderTop**
 
-_expression_ A variable that represents a  **Cell** object.
+_expression_ A variable that represents a **[Cell](Publisher.Cell.md)** object.
 
 
 ## Return value

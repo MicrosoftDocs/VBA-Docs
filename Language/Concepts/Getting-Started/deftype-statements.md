@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1008787
 ms.prod: office
 ms.assetid: 14396fc2-494a-9025-d8a5-86174fcc8a74
-ms.date: 12/21/2018
+ms.date: 05/30/2019
 localization_priority: Normal
 ---
 
@@ -16,22 +16,22 @@ Used at the [module level](../../Glossary/vbe-glossary.md#module-level) to set t
 
 ## Syntax
 
-**DefBool**_letterrange_, [ _letterrange_ ] **. . .** <br/>
-**DefByte**_letterrange_, [ _letterrange_ ] **. . .** <br/>
-**DefInt**_letterrange_, [ _letterrange_ ] **. . .** <br/>
-**DefLng**_letterrange_, [ _letterrange_ ] **. . .** <br/>
-**DefLngLng**_letterrange_, [ _letterrange_ ] **. . .** (valid on 64-bit platforms only) <br/> 
-**DefLngPtr**_letterrange_, [ _letterrange_ ] **. . .** <br/>
-**DefCur**_letterrange_, [ _letterrange_ ] **. . .** <br/>
-**DefSng**_letterrange_, [ _letterrange_ ] **. . .** <br/>
-**DefDbl**_letterrange_, [ _letterrange_ ] **. . .** <br/>
-**DefDec**_letterrange_, [ _letterrange_ ] **. . .** <br/>
-**DefDate**_letterrange_, [ _letterrange_ ] **. . .** <br/>
-**DefStr**_letterrange_, [ _letterrange_ ] **. . .** <br/>
-**DefObj**_letterrange_, [ _letterrange_ ] **. . .** <br/>
-**DefVar**_letterrange_, [ _letterrange_ ] **. . .**
+**DefBool** _letterrange_, [ _letterrange_ ] **. . .** <br/>
+**DefByte** _letterrange_, [ _letterrange_ ] **. . .** <br/>
+**DefInt** _letterrange_, [ _letterrange_ ] **. . .** <br/>
+**DefLng** _letterrange_, [ _letterrange_ ] **. . .** <br/>
+**DefLngLng** _letterrange_, [ _letterrange_ ] **. . .** (valid on 64-bit platforms only) <br/> 
+**DefLngPtr** _letterrange_, [ _letterrange_ ] **. . .** <br/>
+**DefCur** _letterrange_, [ _letterrange_ ] **. . .** <br/>
+**DefSng** _letterrange_, [ _letterrange_ ] **. . .** <br/>
+**DefDbl** _letterrange_, [ _letterrange_ ] **. . .** <br/>
+**DefDec** _letterrange_, [ _letterrange_ ] **. . .** <br/>
+**DefDate** _letterrange_, [ _letterrange_ ] **. . .** <br/>
+**DefStr** _letterrange_, [ _letterrange_ ] **. . .** <br/>
+**DefObj** _letterrange_, [ _letterrange_ ] **. . .** <br/>
+**DefVar** _letterrange_, [ _letterrange_ ] **. . .**
 
-The required _letterrange_ argument has the following syntax: _letter1_ [ **-**_letter2_ ]
+The required _letterrange_ argument has the following syntax: _letter1_ [ **-** _letter2_ ]
 
 The _letter1_ and _letter2_ arguments specify the name range for which you can set a default data type. Each argument represents the first letter of the variable, argument, **Function** procedure, or **Property Get** procedure name, and can be any letter of the alphabet. The case of letters in _letterrange_ isn't significant.
 
@@ -60,7 +60,7 @@ The statement name determines the data type.
 
 <br/>
 
-For example, in the following program fragment, `Message` is a string variable:
+For example, in the following program fragment, `Message` is a string variable.
 
 ```vb
 DefStr A-Q
@@ -74,7 +74,7 @@ When you specify a letter range, it usually defines the data type for variables 
 
 After the range A-Z has been specified, you can't further redefine any subranges of variables by using **Def**_type_ statements. After a range has been specified, if you include a previously defined letter in another **Def**_type_ statement, an error occurs. However, you can explicitly specify the data type of any variable, defined or not, by using a **[Dim](../../reference/user-interface-help/dim-statement.md)** statement with an **As** _type_ clause. 
 
-For example, you can use the following code at the module level to define a variable as a **Double** even though the default data type is **Integer**: 
+For example, you can use the following code at the module level to define a variable as a **Double** even though the default data type is **Integer**. 
 
 ```vb
 DefInt A-Z

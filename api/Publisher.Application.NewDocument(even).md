@@ -19,9 +19,9 @@ Occurs when a new publication is created.
 
 ## Syntax
 
-_expression_.**NewDocument**(**_Doc_**, )
+_expression_.**NewDocument** (_Doc_)
 
-_expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents an  **Application** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Doc|Required| **Document**|The new document.|
+|_Doc_|Required| **Document**|The new document.|
 
 ## Example
 

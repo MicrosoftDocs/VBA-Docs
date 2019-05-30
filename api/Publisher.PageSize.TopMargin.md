@@ -21,7 +21,7 @@ Specifies the distance between the top edge of the printer sheet and the top edg
 
 _expression_.**TopMargin**
 
-_expression_ A variable that represents a  **PageSize** object.
+_expression_ A variable that represents a **[PageSize](Publisher.PageSize.md)** object.
 
 
 ## Return value

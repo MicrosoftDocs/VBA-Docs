@@ -21,7 +21,7 @@ Occurs when the catalog of publication wizards is hidden in the Microsoft Publis
 
 _expression_.**HideCatalogUI**
 
- _expression_ An expression that returns a  **Application** object.
+ _expression_ An expression that returns an **[Application](Publisher.Application.md)** object.
 
 
 ## Remarks

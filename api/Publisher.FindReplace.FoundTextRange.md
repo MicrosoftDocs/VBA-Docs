@@ -21,7 +21,7 @@ Returns a  **TextRange** object that represents the found text or replaced text 
 
 _expression_.**FoundTextRange**
 
-_expression_ A variable that represents a  **FindReplace** object.
+_expression_ A variable that represents a **[FindReplace](Publisher.FindReplace.md)** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**ColorsInPalette**
 
-_expression_ A variable that represents a  **PictureFormat** object.
+_expression_ A variable that represents a **[PictureFormat](Publisher.PictureFormat.md)** object.
 
 
 ## Return value

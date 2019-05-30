@@ -14,26 +14,26 @@ localization_priority: Normal
 
 # PageSizes.Item property (Publisher)
 
-Returns the  **[PageSize](Publisher.PageSize.md)** object with the specified name or at the specified index position in the **[PageSizes](Publisher.PageSizes.md)** collection. Read-only.
+Returns the **[PageSize](Publisher.PageSize.md)** object with the specified name or at the specified index position in the **PageSizes** collection. Read-only.
 
 
 ## Syntax
 
-_expression_.**Item**(**_Index_**)
+_expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a  **PageSizes** collection.
+_expression_ A variable that represents a **[PageSizes](Publisher.PageSizes.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Variant**|The name or index position of a  **PageSize** object.|
+|_Index_|Required| **Variant**|The name or index position of a **PageSize** object.|
+
 
 ## Return value
 
-PageSize
+**PageSize**
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

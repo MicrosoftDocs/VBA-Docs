@@ -21,7 +21,7 @@ Returns an  **MsoEnvelope** object that represents an email header for a publica
 
 _expression_.**MailEnvelope**
 
-_expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a **[Document](Publisher.Document.md)** object.
 
 
 ## Return value

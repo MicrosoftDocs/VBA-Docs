@@ -21,7 +21,7 @@ Returns a  **[PictureFormat](Publisher.PictureFormat.md)** object that contains 
 
 _expression_.**PictureFormat**
 
-_expression_ A variable that represents a  **Shape** object.
+_expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object.
 
 
 ## Example

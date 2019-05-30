@@ -19,18 +19,16 @@ Occurs when switching the view from one page to another page in a publication.
 
 ## Syntax
 
-_expression_.**WindowPageChange**(**_Vw_**, )
+_expression_.**WindowPageChange** (_Vw_)
 
-_expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Vw|Required| **View**|The new view that includes the page to which the view has been switched.|
+|_Vw_|Required| **View**|The new view that includes the page to which the view has been switched.|
 
 ## Example
 

@@ -21,7 +21,7 @@ Returns or sets a  **Variant** value that represents the point size above which 
 
 _expression_.**AutomaticPairKerningThreshold**
 
-_expression_ A variable that represents a  **Font** object.
+_expression_ A variable that represents a **[Font](Publisher.Font.md)** object.
 
 
 ## Return value

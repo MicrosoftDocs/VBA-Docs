@@ -21,7 +21,7 @@ Returns an object that represents the parent object of the specified object. For
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a  **WebOptionButton** object.
+_expression_ A variable that represents a **[WebOptionButton](Publisher.WebOptionButton.md)** object.
 
 
 ## Example

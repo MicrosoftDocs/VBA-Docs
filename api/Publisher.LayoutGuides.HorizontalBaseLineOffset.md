@@ -21,7 +21,7 @@ Returns a  **Single** that represents the horizontal baseline offset of the spec
 
 _expression_.**HorizontalBaseLineOffset**
 
-_expression_ A variable that represents a  **LayoutGuides** object.
+_expression_ A variable that represents a **[LayoutGuides](Publisher.LayoutGuides.md)** object.
 
 
 ## Return value

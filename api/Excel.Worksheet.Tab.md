@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.Tab
 ms.assetid: 386edcb0-868e-3f24-b4f0-8e52b9fcffcb
-ms.date: 06/08/2017
+ms.date: 05/30/2019
 localization_priority: Normal
 ---
 
 
 # Worksheet.Tab property (Excel)
 
-Returns a  **[Tab](Excel.Tab.md)** object for a worksheet.
+Returns a **[Tab](Excel.Tab.md)** object for a worksheet.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 ## Example
 
 In this example, Microsoft Excel determines if the worksheet's first tab color index is set to none and notifies the user.
-
 
 ```vb
 Sub CheckTab() 
@@ -45,9 +44,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[Worksheet Object](Excel.Worksheet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

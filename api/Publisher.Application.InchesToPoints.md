@@ -19,9 +19,9 @@ Converts a measurement from inches to points (1 inch = 72 points). Returns the c
 
 ## Syntax
 
-_expression_.**InchesToPoints**(**_Value_**)
+_expression_.**InchesToPoints** (_Value_)
 
-_expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents an  **Application** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Value|Required| **Single**|The inches value to be converted to points.|
+|_Value_|Required| **Single**|The inches value to be converted to points.|
 
 ## Return value
 

@@ -21,7 +21,7 @@ Returns an  **MsoTriState** constant indicating whether the specified shape has 
 
 _expression_.**HasText**
 
-_expression_ A variable that represents a  **TextFrame** object.
+_expression_ A variable that represents a **[TextFrame](Publisher.TextFrame.md)** object.
 
 
 ## Example

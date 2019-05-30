@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**GrowToFitText**
 
-_expression_ A variable that represents a  **Table** object.
+_expression_ A variable that represents a **[Table](Publisher.Table.md)** object.
 
 
 ## Return value

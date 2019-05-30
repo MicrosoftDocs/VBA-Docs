@@ -21,7 +21,7 @@ Returns a  **[RulerGuides](Publisher.RulerGuides.md)** collection that represent
 
 _expression_.**RulerGuides**
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **[Page](Publisher.Page.md)** object.
 
 
 ## Return value

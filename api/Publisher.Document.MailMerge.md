@@ -21,7 +21,7 @@ Returns a  **[MailMerge](Publisher.MailMerge.md)** object that represents the ma
 
 _expression_.**MailMerge**
 
-_expression_ A variable that represents a  **Document** object.
+_expression_ A variable that represents a **[Document](Publisher.Document.md)** object.
 
 
 ## Return value

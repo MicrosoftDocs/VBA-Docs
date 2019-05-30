@@ -21,7 +21,7 @@ Adds a new hidden field to a Web form and returns a  **Long** indicating the num
 
 _expression_.**Add** (_Name_, _Value_)
 
-_expression_ A variable that represents a  **WebHiddenFields** object.
+_expression_ A variable that represents a **[WebHiddenFields](Publisher.WebHiddenFields.md)** object.
 
 
 ## Parameters
@@ -30,8 +30,8 @@ _expression_ A variable that represents a  **WebHiddenFields** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Name|Required| **String**|The name of the new field.|
-|Value|Required| **String**|The value of the new field.|
+|_Name_|Required| **String**|The name of the new field.|
+|_Value_|Required| **String**|The value of the new field.|
 
 ## Return value
 

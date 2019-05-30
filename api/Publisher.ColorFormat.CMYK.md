@@ -21,7 +21,7 @@ Returns a  **ColorCMYK** object that represents CMYK color properties.
 
 _expression_.**CMYK**
 
-_expression_ A variable that represents a  **ColorFormat** object.
+_expression_ A variable that represents a **[ColorFormat](Publisher.ColorFormat.md)** object.
 
 
 ## Return value

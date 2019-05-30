@@ -21,6 +21,6 @@ Returns a  **String** that represents the contents of phonetic text. Read-only.
 
 _expression_.**Text**
 
-_expression_ A variable that represents a  **PhoneticGuide** object.
+_expression_ A variable that represents a **[PhoneticGuide](Publisher.PhoneticGuide.md)** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

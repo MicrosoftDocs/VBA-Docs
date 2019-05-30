@@ -21,7 +21,7 @@ Returns an  **[InstalledPrinters](Publisher.InstalledPrinters.md)** collection t
 
 _expression_.**InstalledPrinters**
 
-_expression_ A variable that represents an  **Application** object.
+_expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Return value

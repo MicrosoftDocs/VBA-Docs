@@ -19,9 +19,9 @@ Returns an individual object in a specified collection.
 
 ## Syntax
 
-_expression_.**Item**(**_Index_**)
+_expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a  **Fields** object.
+_expression_ A variable that represents a **[Fields](Publisher.Fields.md)** object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents a  **Fields** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The number of the object to return.|
+|_Index_|Required| **Long**|The number of the object to return.|
 
 ## Return value
 
@@ -39,7 +39,7 @@ Field
 
 ## Example
 
-This example returns the first field from a  **Fields** object.
+This example returns the first field from a **[Fields](Publisher.Fields.md)** object.
 
 
 ```vb

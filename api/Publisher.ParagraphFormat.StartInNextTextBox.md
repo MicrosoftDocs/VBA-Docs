@@ -21,7 +21,7 @@ Returns or sets an  **MsoTriState** constant that represents whether to always s
 
 _expression_.**StartInNextTextBox**
 
-_expression_ A variable that represents a  **ParagraphFormat** object.
+_expression_ A variable that represents a **[ParagraphFormat](Publisher.ParagraphFormat.md)** object.
 
 
 ## Return value

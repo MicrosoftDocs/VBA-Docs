@@ -21,12 +21,9 @@ Returns the next form field in the collection. Read-only.
 
 _expression_.**Next**
 
-_expression_ A variable that represents a '[FormField](Word.FormField.md)' object.
+_expression_ A variable that represents a **[FormField](Word.FormField.md)** object.
 
 
-## See also
 
-
-[FormField Object](Word.FormField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
