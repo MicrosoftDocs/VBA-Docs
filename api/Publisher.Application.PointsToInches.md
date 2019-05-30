@@ -19,7 +19,7 @@ Converts a measurement from points to inches (1 in = 72 points). Returns the con
 
 ## Syntax
 
-_expression_.**PointsToInches**(**_Value_**)
+_expression_.**PointsToInches** (_Value_)
 
 _expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Value|Required| **Single**|The point value to be converted to inches.|
+|_Value_|Required| **Single**|The point value to be converted to inches.|
 
 ## Return value
 

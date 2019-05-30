@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**Visible**
 
-_expression_ A variable that represents a  **Window** object.
+_expression_ A variable that represents a **[Window](Publisher.Window.md)** object.
 
 
 ## Example

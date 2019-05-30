@@ -19,21 +19,19 @@ Occurs when a merge is executed before any records in a mail merge have merged.
 
 ## Syntax
 
-_expression_.**MailMergeBeforeMerge**(**_Doc_**,  **_StartRecord_**,  **_EndRecord_**,  **_Cancel_**)
+_expression_.**MailMergeBeforeMerge** (_Doc_, _StartRecord_, _EndRecord_, _Cancel_)
 
 _expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Doc|Required| **Document**|The mail merge main document.|
-|StartRecord|Required| **Long**|The first record in the data source to include in the mail merge.|
-|EndRecord|Required| **Long**|The last record in the data source to include in the mail merge.|
-|Cancel|Required| **Boolean**|Stops the mail merge process before it starts.|
+|_Doc_|Required| **Document**|The mail merge main document.|
+|_StartRecord_|Required| **Long**|The first record in the data source to include in the mail merge.|
+|_EndRecord_|Required| **Long**|The last record in the data source to include in the mail merge.|
+|_Cancel_|Required| **Boolean**|Stops the mail merge process before it starts.|
 
 ## Remarks
 

@@ -19,7 +19,7 @@ Returns the  **[Printer](Publisher.Printer.md)** object with the specified name 
 
 ## Syntax
 
-_expression_.**Item**(**_Index_**)
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that represents an  **InstalledPrinters** collection.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents an  **InstalledPrinters** collection.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Variant**|The name or index position of the installed printer.|
+|_Index_|Required| **Variant**|The name or index position of the installed printer.|
 
 ## Return value
 

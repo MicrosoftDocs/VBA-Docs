@@ -19,7 +19,7 @@ Returns an individual object from a specified collection. Read-only.
 
 ## Syntax
 
-_expression_.**Item**(**_Index_**)
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that represents a **[RulerGuides](Publisher.RulerGuides.md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[RulerGuides](Publisher.RulerGuides.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Item|Required| **Long**|The number of the object to return.|
+|_Item_|Required| **Long**|The number of the object to return.|
 
 ## Example
 

@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[ShapeNodes](Publisher.ShapeNodes.md
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The node whose editing type is to be set. Must be a number from 1 to the number of nodes in the specified shape; otherwise, an error occurs.|
+|_Index_|Required| **Long**|The node whose editing type is to be set. Must be a number from 1 to the number of nodes in the specified shape; otherwise, an error occurs.|
 |EditingType|Required| **MsoEditingType**|The editing property of the node.|
 
 ## Remarks

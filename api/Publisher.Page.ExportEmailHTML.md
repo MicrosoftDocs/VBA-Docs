@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Page](Publisher.Page.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Filename|Required| **String**|The name of the file to which to export the HTML.|
+|_FileName_|Required| **String**|The name of the file to which to export the HTML.|
 
 ## Remarks
 

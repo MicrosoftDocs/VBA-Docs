@@ -19,7 +19,7 @@ Occurs when opening a document.
 
 ## Syntax
 
-_expression_.**DocumentOpen**(**_Doc_**)
+_expression_.**DocumentOpen** (_Doc_)
 
 _expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Doc|Required| **Document**|The document that's being opened.|
+|_Doc_|Required| **Document**|The document that's being opened.|
 
 ## Example
 

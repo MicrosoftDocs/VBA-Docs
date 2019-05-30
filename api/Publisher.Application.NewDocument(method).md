@@ -19,7 +19,7 @@ Returns a  **Document** object that represents a new publication.
 
 ## Syntax
 
-_expression_.**NewDocument**(**_Wizard_**,  **_Design_**)
+_expression_.**NewDocument**(_Wizard_, _Design_)
 
 _expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
@@ -28,8 +28,8 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Wizard|Optional| **PbWizard**|The wizard to use to create the new publication.|
-|Design|Optional| **Long**|The design to apply to the new publication.|
+|_Wizard_|Optional| **PbWizard**|The wizard to use to create the new publication.|
+|_Design_|Optional| **Long**|The design to apply to the new publication.|
 
 ## Return value
 

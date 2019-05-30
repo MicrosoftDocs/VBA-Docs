@@ -21,7 +21,7 @@ Returns or sets a  **String** that represents the file name of a webpage (within
 
 _expression_.**PublishFileName**
 
-_expression_ A variable that represents a  **WebPageOptions** object.
+_expression_ A variable that represents a **[WebPageOptions](Publisher.WebPageOptions.md)** object.
 
 
 ## Return value

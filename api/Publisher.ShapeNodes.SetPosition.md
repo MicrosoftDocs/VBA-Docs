@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[ShapeNodes](Publisher.ShapeNodes.md
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **[INT]**|The node whose position is to be set. Must be a number from 1 to the number of nodes in the specified shape; otherwise, an error occurs.|
+|_Index_|Required| **[INT]**|The node whose position is to be set. Must be a number from 1 to the number of nodes in the specified shape; otherwise, an error occurs.|
 |X1|Required| **Variant**|The horizontal position of the node relative to the upper-left corner of the page.|
 |Y1|Required| **Variant**|The vertical position of the node relative to the upper-left corner of the page.|
 

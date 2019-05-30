@@ -19,7 +19,7 @@ Returns an individual object in a specified collection.
 
 ## Syntax
 
-_expression_.**Item**(**_Index_**)
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that represents a **[WebNavigationBarHyperlinks](publisher.webnavigationbarhyperlinks.md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[WebNavigationBarHyperlinks](publish
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**| **Variant**. The number or name of the field or list box item to return.|
+|_Index_|Required| **Long**| **Variant**. The number or name of the field or list box item to return.|
 
 ## Return value
 

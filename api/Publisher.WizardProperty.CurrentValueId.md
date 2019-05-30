@@ -21,7 +21,7 @@ Returns or sets a  **Long** indicating the value of a setting in the specified p
 
 _expression_.**CurrentValueId**
 
-_expression_ A variable that represents a  **WizardProperty** object.
+_expression_ A variable that represents a **[WizardProperty](Publisher.WizardProperty.md)** object.
 
 
 ## Return value

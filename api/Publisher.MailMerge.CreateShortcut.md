@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[MailMerge](Publisher.MailMerge.md)*
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Filename|Required| **String**|Name of the mailing list or product list file for which the shortcut should be created.|
+|_FileName_|Required| **String**|Name of the mailing list or product list file for which the shortcut should be created.|
 
 ## Remarks
 

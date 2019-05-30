@@ -19,7 +19,7 @@ Converts a measurement from points to lines (1 line = 12 points). Returns the co
 
 ## Syntax
 
-_expression_.**PointsToLines**(**_Value_**)
+_expression_.**PointsToLines** (_Value_)
 
 _expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Value|Required| **Single**|The point value to be converted to lines.|
+|_Value_|Required| **Single**|The point value to be converted to lines.|
 
 ## Return value
 

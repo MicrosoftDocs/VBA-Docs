@@ -19,7 +19,7 @@ Specifies the starting point and label (textual description) of a group of actio
 
 ## Syntax
 
-_expression_.**BeginCustomUndoAction**(**_ActionName_**)
+_expression_.**BeginCustomUndoAction**(_ActionName_)
 
 _expression_ A variable that represents a **[Document](Publisher.Document.md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Document](Publisher.Document.md)** 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|ActionName|Required| **String**|The label that corresponds to the single undo action. This label appears when you click the arrow beside the Undo button on the Standard toolbar.|
+|_ActionName_|Required| **String**|The label that corresponds to the single undo action. This label appears when you click the arrow beside the Undo button on the Standard toolbar.|
 
 ## Remarks
 

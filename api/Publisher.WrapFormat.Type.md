@@ -21,7 +21,7 @@ Specifies how text wraps around the specified shape. Read/write.
 
 _expression_.**Type**
 
-_expression_ A variable that represents a  **WrapFormat** object.
+_expression_ A variable that represents a **[WrapFormat](Publisher.WrapFormat.md)** object.
 
 
 ## Remarks

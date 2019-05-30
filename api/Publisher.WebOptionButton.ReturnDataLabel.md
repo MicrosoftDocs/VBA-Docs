@@ -21,7 +21,7 @@ Returns or sets a  **String** that represents the text used by the Web page to l
 
 _expression_.**ReturnDataLabel**
 
-_expression_ A variable that represents a  **WebOptionButton** object.
+_expression_ A variable that represents a **[WebOptionButton](Publisher.WebOptionButton.md)** object.
 
 
 ## Example

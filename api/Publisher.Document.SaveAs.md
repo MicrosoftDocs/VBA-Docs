@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Document](Publisher.Document.md)** 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Filename|Optional| **Variant**|The name for the publication. The default is the current folder and file name. If the publication has never been saved, the default name is used, for example, Publication1.pub. If a publication with the specified file name already exists, the publication is overwritten without the user being prompted first.|
+|_FileName_|Optional| **Variant**|The name for the publication. The default is the current folder and file name. If the publication has never been saved, the default name is used, for example, Publication1.pub. If a publication with the specified file name already exists, the publication is overwritten without the user being prompted first.|
 |Format|Optional| **PbFileFormat**|The format in which the publication is saved.|
 |AddToRecentFiles|Optional| **Boolean**| **True** to add the publication to the list of recently used files on the File menu. Default is **True**.|
 

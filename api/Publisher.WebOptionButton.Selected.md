@@ -21,7 +21,7 @@ Specifies whether a Web check box or option button is selected. Read/write.
 
 _expression_.**Selected**
 
-_expression_ A variable that represents a  **WebOptionButton** object.
+_expression_ A variable that represents a **[WebOptionButton](Publisher.WebOptionButton.md)** object.
 
 
 ## Remarks

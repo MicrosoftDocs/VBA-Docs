@@ -19,7 +19,7 @@ Converts a measurement from points to emus (12700 emus = 1 point). Returns the c
 
 ## Syntax
 
-_expression_.**PointsToEmus**(**_Value_**)
+_expression_.**PointsToEmus** (_Value_)
 
 _expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Value|Required| **Single**|The point value to be converted to emus.|
+|_Value_|Required| **Single**|The point value to be converted to emus.|
 
 ## Return value
 

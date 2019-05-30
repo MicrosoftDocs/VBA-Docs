@@ -19,7 +19,7 @@ Returns an individual object in a specified collection.
 
 ## Syntax
 
-_expression_.**Item**(**_Index_**)
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that represents a **[TabStops](Publisher.TabStops.md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[TabStops](Publisher.TabStops.md)** 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The number of the object to return.|
+|_Index_|Required| **Long**|The number of the object to return.|
 
 ## Return value
 

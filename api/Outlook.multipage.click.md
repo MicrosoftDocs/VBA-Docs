@@ -25,7 +25,7 @@ _expression_ A variable that represents a  **MultiPage** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**||
+|_Index_|Required| **Long**||
 
 ## Remarks
 

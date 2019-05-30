@@ -26,11 +26,9 @@ _expression_ A variable that represents an **[Attachments](Publisher.Attachments
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Filename|Required| **String**|File name of the attachment.|
+|_FileName_|Required| **String**|File name of the attachment.|
 
 ## Return value
 

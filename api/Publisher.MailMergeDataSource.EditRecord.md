@@ -32,7 +32,7 @@ _expression_ A variable that represents a **[MailMergeDataSource](Publisher.Mail
 |:-----|:-----|:-----|:-----|
 |lRec|Required| **Long**|The ID of the record you want to edit.|
 |varField|Required| **Variant**|The data field (column) that contains the value you want to change.|
-|Value|Required| **Variant**|The value to be changed.|
+|_Value_|Required| **Variant**|The value to be changed.|
 
 ## Remarks
 

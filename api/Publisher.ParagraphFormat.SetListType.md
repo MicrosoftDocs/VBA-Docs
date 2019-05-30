@@ -19,7 +19,7 @@ Sets the list type of the specified  **ParagraphFormat** object. .
 
 ## Syntax
 
-_expression_.**SetListType**(**_Value_**,  **_BulletText_**)
+_expression_.**SetListType** (_Value_, _BulletText_)
 
 _expression_ A variable that represents a **[ParagraphFormat](Publisher.ParagraphFormat.md)** object.
 
@@ -30,8 +30,8 @@ _expression_ A variable that represents a **[ParagraphFormat](Publisher.Paragrap
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Value|Required| **PbListType**|Represents the list type of the specified  **ParagraphFormat** object.|
-|BulletText|Optional| **String**| **String** that represents the text of the list bullet.|
+|_Value_|Required| **PbListType**|Represents the list type of the specified  **ParagraphFormat** object.|
+|_BulletText_|Optional| **String**| **String** that represents the text of the list bullet.|
 
 ## Remarks
 

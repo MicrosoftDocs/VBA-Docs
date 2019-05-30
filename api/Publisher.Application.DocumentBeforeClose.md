@@ -19,7 +19,7 @@ Occurs immediately before any open document closes.
 
 ## Syntax
 
-_expression_.**DocumentBeforeClose**(**_Doc_**,  **_Cancel_**)
+_expression_.**DocumentBeforeClose** (_Doc_, _Cancel_)
 
 _expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
@@ -30,8 +30,8 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Doc|Required| **Document**|The document that is being closed.|
-|Cancel|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the document does not close when the procedure is finished.|
+|_Doc_|Required| **Document**|The document that is being closed.|
+|_Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the document does not close when the procedure is finished.|
 
 ## Remarks
 

@@ -30,6 +30,6 @@ _expression_ A variable that represents a **[WebListBoxItems](Publisher.WebListB
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The number of the Web field or list box item to delete.|
+|_Index_|Required| **Long**|The number of the Web field or list box item to delete.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

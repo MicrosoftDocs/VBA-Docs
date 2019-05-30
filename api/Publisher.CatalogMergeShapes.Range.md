@@ -19,7 +19,7 @@ Returns a **[ShapeRange](Publisher.ShapeRange.md)** object that represents a sub
 
 ## Syntax
 
-_expression_.**Range**(**_Index_**)
+_expression_.**Range** (_Index_)
 
 _expression_ A variable that represents a **[CatalogMergeShapes](Publisher.CatalogMergeShapes.md)** object.
 
@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[CatalogMergeShapes](Publisher.Catal
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Variant**|The individual shapes that are to be included in the range. Can be an integer that specifies the index number of the shape, a string that specifies the name of the shape, or an array that contains either integers or strings. If Index is omitted, the **Range** method returns all the objects in the specified collection.|
+|_Index_|Required| **Variant**|The individual shapes that are to be included in the range. Can be an integer that specifies the index number of the shape, a string that specifies the name of the shape, or an array that contains either integers or strings. If Index is omitted, the **Range** method returns all the objects in the specified collection.|
 
 ## Return value
 

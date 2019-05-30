@@ -32,7 +32,7 @@ _expression_ A variable that represents a **[WebNavigationBarHyperlinks](publish
 |RelativePage|Optional| **PbHlinkTargetType**|The type of hyperlink to add.|
 |PageID|Optional| **Long**|The page ID of the destination page for the new hyperlink. If RelativePage is  **pbHlinkTargetTypePageID**, PageID must be specified or an error occurs. The page ID corresponds to the  [PageID](Publisher.Page.PageID.md) property of the destination page.|
 |TextToDisplay|Optional| **String**|The display text of the new hyperlink. |
-|Index|Optional| **Long**|The index of the new  **Hyperlink** object in the **WebNavigationBarHyperlinks** collection.|
+|_Index_|Optional| **Long**|The index of the new  **Hyperlink** object in the **WebNavigationBarHyperlinks** collection.|
 
 ## Return value
 

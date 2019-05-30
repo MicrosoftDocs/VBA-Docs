@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[Document](Publisher.Document.md)** 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Format|Required| **PbFixedFormatType**|The format in which you want to export the publication. See Remarks for possible values.|
-|Filename|Required| **String**|The file name for the exported file.|
+|_FileName_|Required| **String**|The file name for the exported file.|
 |Intent|Optional| **PbFixedFormatIntent**|The output quality of the exported file. See Remarks for possible values.|
 |IncludeDocumentProperties|Optional| **Boolean**| **True** if you want to save the document properties with the PDF file.|
 |ColorDownsampleTarget|Optional| **Long**|The target for down-sampling of colored images. Measured in dots per inch. Must be greater than 96 |

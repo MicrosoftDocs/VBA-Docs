@@ -32,7 +32,7 @@ _expression_ A variable that represents a **[MailMerge](Publisher.MailMerge.md)*
 |:-----|:-----|:-----|:-----|
 |Pause|Required| **Boolean**| **True** to have Microsoft Publisher pause and display a troubleshooting dialog box if a merge error is found. **False** to ignore errors during mail merge or catalog merge.|
 |Destination|Optional| **PbMailMergeDestination**|The destination of the mail merge or catalog merge results. Specifying  **pbSendToPrinter** for a catalog merge results in a run-time error.|
-|Filename|Optional| **String**|The file name of the publication to which you want to append the catalog merge results.|
+|_FileName_|Optional| **String**|The file name of the publication to which you want to append the catalog merge results.|
 
 ## Return value
 

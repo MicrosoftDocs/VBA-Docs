@@ -21,7 +21,7 @@ Specifies whether an entry into a Web text box control is required. Read/write.
 
 _expression_.**RequiredControl**
 
-_expression_ A variable that represents a  **WebTextBox** object.
+_expression_ A variable that represents a **[WebTextBox](Publisher.WebTextBox.md)** object.
 
 
 ## Return value

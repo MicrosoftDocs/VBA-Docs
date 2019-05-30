@@ -19,7 +19,7 @@ Converts a measurement from points to pixels (1 pixel = 0.75 points). Returns th
 
 ## Syntax
 
-_expression_.**PointsToPixels**(**_Value_**)
+_expression_.**PointsToPixels** (_Value_)
 
 _expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Value|Required| **Single**|The point value to be converted to pixels.|
+|_Value_|Required| **Single**|The point value to be converted to pixels.|
 
 ## Return value
 

@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[WebListBoxItems](Publisher.WebListB
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Variant**|The number or name of the field or list box item to return.|
+|_Index_|Required| **Variant**|The number or name of the field or list box item to return.|
 
 ## Return value
 

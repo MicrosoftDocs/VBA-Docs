@@ -19,7 +19,7 @@ Converts a measurement from picas to points (1 pica = 12 points). Returns the co
 
 ## Syntax
 
-_expression_.**PicasToPoints**(**_Value_**)
+_expression_.**PicasToPoints** (_Value_)
 
 _expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Value|Required| **Single**|The pica value to be converted to points.|
+|_Value_|Required| **Single**|The pica value to be converted to points.|
 
 ## Return value
 

@@ -19,7 +19,7 @@ Returns a  **[ShapeRange](Publisher.ShapeRange.md)** collection that represents 
 
 ## Syntax
 
-_expression_.**Range**(**_Index_**)
+_expression_.**Range** (_Index_)
 
 _expression_ A variable that represents an **[InlineShapes](Publisher.InlineShapes.md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[InlineShapes](Publisher.InlineShap
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Optional| **Long**|The index position of the inline shape within the  **ShapeRange** collection.|
+|_Index_|Optional| **Long**|The index position of the inline shape within the  **ShapeRange** collection.|
 
 ## Example
 

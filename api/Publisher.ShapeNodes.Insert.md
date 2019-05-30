@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[ShapeNodes](Publisher.ShapeNodes.md
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The number of the node after which the new node is to be inserted.|
+|_Index_|Required| **Long**|The number of the node after which the new node is to be inserted.|
 |SegmentType|Required| **MsoSegmentType**|The type of segment to be added.|
 |EditingType|Required| **MsoEditingType**|Specifies the editing type of the new node.|
 |X1|Required| **Variant**|If the EditingType of the new segment is  **msoEditingAuto**, this argument specifies the horizontal distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new node is  **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the first control point for the new segment.|

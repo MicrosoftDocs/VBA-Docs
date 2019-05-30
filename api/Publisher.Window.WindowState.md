@@ -21,7 +21,7 @@ Returns or sets a  **PbWindowState** constant indicating the state of the Micros
 
 _expression_.**WindowState**
 
-_expression_ A variable that represents a  **Window** object.
+_expression_ A variable that represents a **[Window](Publisher.Window.md)** object.
 
 
 ## Return value

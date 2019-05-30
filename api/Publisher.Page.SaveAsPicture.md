@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Page](Publisher.Page.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Filename|Required| **String**|The path and file name of the new picture file you want to create. The graphics format the picture is saved in is determined by the file name extension (such as .jpg or .gif) you specify.|
+|_FileName_|Required| **String**|The path and file name of the new picture file you want to create. The graphics format the picture is saved in is determined by the file name extension (such as .jpg or .gif) you specify.|
 |pbResolution|Optional| **PbPictureResolution**|The resolution in which you want the picture to be saved. See Remarks for possible values.|
 
 ## Remarks

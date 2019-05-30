@@ -19,7 +19,7 @@ Occurs after all records in a mail merge have merged successfully.
 
 ## Syntax
 
-_expression_.**MailMergeAfterMerge**(**_Doc_**)
+_expression_.**MailMergeAfterMerge** (_Doc_)
 
 _expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Doc|Required| **Document**|The mail merge main document.|
+|_Doc_|Required| **Document**|The mail merge main document.|
 
 ## Remarks
 

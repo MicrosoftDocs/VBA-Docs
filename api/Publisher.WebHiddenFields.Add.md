@@ -30,8 +30,8 @@ _expression_ A variable that represents a **[WebHiddenFields](Publisher.WebHidde
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Name|Required| **String**|The name of the new field.|
-|Value|Required| **String**|The value of the new field.|
+|_Name_|Required| **String**|The name of the new field.|
+|_Value_|Required| **String**|The value of the new field.|
 
 ## Return value
 

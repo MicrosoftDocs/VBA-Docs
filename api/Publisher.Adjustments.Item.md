@@ -28,7 +28,7 @@ _expression_ A variable that represents an **[Adjustments](Publisher.Adjustments
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Integer**|The index number of the adjustment.|
+|_Index_|Required| **Integer**|The index number of the adjustment.|
 
 ## Remarks
 

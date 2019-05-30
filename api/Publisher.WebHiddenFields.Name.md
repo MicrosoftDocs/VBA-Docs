@@ -19,7 +19,7 @@ Returns a  **String** that represents the name of a hidden Web field for a Web c
 
 ## Syntax
 
-_expression_.**Name**(**_Index_**)
+_expression_.**Name** (_Index_)
 
 _expression_ A variable that represents a **[WebHiddenFields](Publisher.WebHiddenFields.md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[WebHiddenFields](Publisher.WebHidde
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The index number of the hidden field.|
+|_Index_|Required| **Long**|The index number of the hidden field.|
 
 ## Return value
 

@@ -19,7 +19,7 @@ Occurs as a merge is executed for the individual records in a merge.
 
 ## Syntax
 
-_expression_.**MailMergeBeforeRecordMerge**(**_Doc_**,  **_Cancel_**)
+_expression_.**MailMergeBeforeRecordMerge** (_Doc_, _Cancel_)
 
 _expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
@@ -30,8 +30,8 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Doc|Required| **Document**|The mail merge main document.|
-|Cancel|Required| **Boolean**|Stops the mail merge process, for the current record only, before it starts.|
+|_Doc_|Required| **Document**|The mail merge main document.|
+|_Cancel_|Required| **Boolean**|Stops the mail merge process, for the current record only, before it starts.|
 
 ## Remarks
 

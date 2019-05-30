@@ -19,7 +19,7 @@ Converts the specified publication to the specified publication type.
 
 ## Syntax
 
-_expression_.**ConvertPublicationType**(**_Value_**)
+_expression_.**ConvertPublicationType** (_Value_)
 
 _expression_ A variable that represents a **[Document](Publisher.Document.md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Document](Publisher.Document.md)** 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Value|Required| **PbPublicationType**|The type of publication to which you want the publication converted.|
+|_Value_|Required| **PbPublicationType**|The type of publication to which you want the publication converted.|
 
 ## Remarks
 

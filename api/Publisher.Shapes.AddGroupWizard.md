@@ -30,12 +30,12 @@ _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Wizard|Required| **PbWizardGroup**|The type of Design Gallery object to add to the publication.|
+|_Wizard_|Required| **PbWizardGroup**|The type of Design Gallery object to add to the publication.|
 |Left|Required| **Variant**|The position of the Design Gallery object's left edge relative to the left edge of the page, measured in points.|
 |Top|Required| **Variant**|The position of the Design Gallery object's top edge relative to the top edge of the page, measured in points.|
 |Width|Optional| **Variant**|The width of the new Design Gallery object.|
 |Height|Optional| **Variant**|The height of the new Design Gallery object.|
-|Design|Optional| **Long**|The design of the object to be added.|
+|_Design_|Optional| **Long**|The design of the object to be added.|
 
 ## Return value
 

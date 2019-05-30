@@ -19,18 +19,16 @@ Occurs immediately before any open document closes.
 
 ## Syntax
 
-_expression_.**BeforeClose**(**_Cancel_**)
+_expression_.**BeforeClose** (_Cancel_)
 
 _expression_ A variable that represents a **[Document](Publisher.Document.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Cancel|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the document doesn't close when the procedure is finished.|
+|_Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the document doesn't close when the procedure is finished.|
 
 ## Remarks
 

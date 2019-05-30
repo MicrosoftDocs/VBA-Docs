@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[WebListBoxItems](Publisher.WebListB
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The number of the Web list box item.|
+|_Index_|Required| **Long**|The number of the Web list box item.|
 |SelectState|Required| **Boolean**| **True** to select the list item.|
 
 ## Example

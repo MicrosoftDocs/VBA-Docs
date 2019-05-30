@@ -19,18 +19,16 @@ Displays the  **Publication Types** catalog for the wizard of the specified type
 
 ## Syntax
 
-_expression_.**ShowWizardCatalog**(**_Wizard_**)
+_expression_.**ShowWizardCatalog** (_Wizard_)
 
 _expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Wizard|Optional| **PbWizard**|The type of wizard catalog to be displayed.|
+|_Wizard_|Optional| **PbWizard**|The type of wizard catalog to be displayed.|
 
 ## Example
 

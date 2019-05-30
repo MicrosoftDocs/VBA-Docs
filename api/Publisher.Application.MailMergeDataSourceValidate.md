@@ -19,19 +19,17 @@ Occurs when a user performs address verification by clicking  **Validate** in th
 
 ## Syntax
 
-_expression_.**MailMergeDataSourceValidate**(**_Doc_**,  **_Handled_**)
+_expression_.**MailMergeDataSourceValidate** (_Doc_, _Handled_)
 
 _expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Doc|Required| **Document**|The mail merge main document.|
-|Handled|Required| **Boolean**| **True** runs the accompanying validation code against the mail merge data source. **False** cancels the data source validation.|
+|_Doc_|Required| **Document**|The mail merge main document.|
+|_Handled_|Required| **Boolean**| **True** runs the accompanying validation code against the mail merge data source. **False** cancels the data source validation.|
 
 ## Remarks
 

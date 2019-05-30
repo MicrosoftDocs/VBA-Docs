@@ -19,7 +19,7 @@ Returns the  **[Attachment](Publisher.Attachment.md)** object at the specified i
 
 ## Syntax
 
-_expression_.**Item**(**_Item_**)
+_expression_.**Item** (_Item_)
 
 _expression_ A variable that represents an **[Attachments](Publisher.Attachments.md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Attachments](Publisher.Attachments
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Item|Required| **Long**|The index position of the attachment to be returned.|
+|_Item_|Required| **Long**|The index position of the attachment to be returned.|
 
 ## Return value
 

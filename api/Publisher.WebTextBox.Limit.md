@@ -21,7 +21,7 @@ Returns or sets a  **Long** that represents the maximum number of characters tha
 
 _expression_.**Limit**
 
-_expression_ A variable that represents a  **WebTextBox** object.
+_expression_ A variable that represents a **[WebTextBox](Publisher.WebTextBox.md)** object.
 
 
 ## Return value

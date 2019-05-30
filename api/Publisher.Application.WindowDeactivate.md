@@ -19,18 +19,16 @@ Occurs when the application window is deactivated.
 
 ## Syntax
 
-_expression_.**WindowDeactivate**(**_Wn_**, )
+_expression_.**WindowDeactivate** (_Wn_)
 
 _expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Wn|Required| **Window**|The window that is being deactivated.|
+|_Wn_|Required| **Window**|The window that is being deactivated.|
 
 ## Remarks
 

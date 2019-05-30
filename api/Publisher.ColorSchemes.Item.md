@@ -19,7 +19,7 @@ Returns the specified  **[ColorScheme](Publisher.ColorScheme.md)** object from a
 
 ## Syntax
 
-_expression_.**Item**(**_Index_**)
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that represents a **[ColorSchemes](Publisher.ColorSchemes.md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[ColorSchemes](Publisher.ColorScheme
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Variant**|The color scheme to return. Can be either the name of the color scheme as a string or the corresponding  **PbColorScheme** constant.|
+|_Index_|Required| **Variant**|The color scheme to return. Can be either the name of the color scheme as a string or the corresponding  **PbColorScheme** constant.|
 
 ## Remarks
 

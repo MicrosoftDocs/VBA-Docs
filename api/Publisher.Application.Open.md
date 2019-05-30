@@ -28,7 +28,7 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Filename|Required| **String**|The name of the publication (paths are accepted).|
+|_FileName_|Required| **String**|The name of the publication (paths are accepted).|
 |ReadOnly|Optional| **Boolean**| **True** to open the publication as read-only. Default is **False**.|
 |AddToRecentFiles|Optional| **Boolean**| **True** (default) to add the file name to the list of recently used files at the bottom of the File menu.|
 |SaveChanges|Optional| **PbSaveOptions**|Specifies what Microsoft Publisher should do if there is already an open publication with unsaved changes.|

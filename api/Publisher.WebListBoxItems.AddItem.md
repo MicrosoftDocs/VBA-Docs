@@ -30,10 +30,10 @@ _expression_ A variable that represents a **[WebListBoxItems](Publisher.WebListB
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Item|Required| **String**|The name of the item as it appears in the list.|
-|Index|Optional| **Long**|The number of the list item. If Index is not specified or it is out of range of the indices of existing list box items, the new item will be added to the end of the list box. Otherwise the new item will be inserted at the position specified by Index and the index position of all items after it will be increased by one.|
-|SelectState|Optional| **Boolean**| **True** if the item is selected when the list box is initially displayed. Default value is **False**.|
-|ItemValue|Optional| **String**|The value of the list box item. If not specified, the new item's value will be the same as the item name.|
+|_Item_|Required| **String**|The name of the item as it appears in the list.|
+|_Index_|Optional| **Long**|The number of the list item. If Index is not specified or it is out of range of the indices of existing list box items, the new item will be added to the end of the list box. Otherwise the new item will be inserted at the position specified by Index and the index position of all items after it will be increased by one.|
+|_SelectState_|Optional| **Boolean**| **True** if the item is selected when the list box is initially displayed. Default value is **False**.|
+|_ItemValue_|Optional| **String**|The value of the list box item. If not specified, the new item's value will be the same as the item name.|
 
 ## Remarks
 

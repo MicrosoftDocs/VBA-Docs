@@ -21,7 +21,7 @@ Returns a  **Long** indicating the handle to the Microsoft Publisher application
 
 _expression_.**Hwnd**
 
-_expression_ A variable that represents a  **Window** object.
+_expression_ A variable that represents a **[Window](Publisher.Window.md)** object.
 
 
 ## Return value
