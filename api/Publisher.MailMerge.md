@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMerge
 ms.assetid: 028e1e42-c61c-9b2b-4aec-d6a184504ec1
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
@@ -16,11 +16,13 @@ localization_priority: Normal
 
 Represents the mail merge and catalog merge functionality in Microsoft Publisher.
 
+## Remarks
+
+Use the **[Document.MailMerge](Publisher.Document.MailMerge.md)** property to return the **MailMerge** object. The **MailMerge** object is always available regardless of whether the mail merge or catalog merge operation has begun. 
 
 ## Example
 
-Use the  **[MailMerge](Publisher.Document.MailMerge.md)** property to return the **MailMerge** object. The **MailMerge** object is always available regardless of whether the mail merge or catalog merge operation has begun. The following example merges and prints the main publication with the first three records in the attached data source.
-
+The following example merges and prints the main publication with the first three records in the attached data source.
 
 ```vb
 Sub SelectiveMerge() 

@@ -7,23 +7,24 @@ ms.prod: publisher
 api_name:
 - Publisher.MasterPages
 ms.assetid: 3a7e6021-cbe4-4700-018c-c91d2f7d908a
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
 
 # MasterPages object (Publisher)
 
-Represents the page master for a publication after which all pages in the publication will be designed. The  **MasterPages** object is a collection of **[Page](Publisher.Page.md)** objects.
+Represents the page master for a publication after which all pages in the publication will be designed. The **MasterPages** object is a collection of **[Page](Publisher.Page.md)** objects.
  
+## Remarks
 
+Use the **[Document.MasterPages](Publisher.Document.MasterPages.md)** property to return a **MasterPages** object.
+
+Use the **[Page.Shapes](Publisher.Page.Shapes.md)** property to work with AutoShapes and text boxes on the master page. 
 
 ## Example
 
-Use the  **[MasterPages](Publisher.Document.MasterPages.md)** property to return a **MasterPages** object. The following example adds two ruler guides to the master page so that each page in the active publication is divided into quarters.
- 
-
- 
+The following example adds two ruler guides to the master page so that each page in the active publication is divided into quarters.
 
 ```vb
 Sub ChangeMasterPage() 
@@ -45,12 +46,9 @@ Sub ChangeMasterPage()
 End Sub
 ```
 
-Use the  **[Shapes](Publisher.Page.Shapes.md)** property to work with AutoShapes and text boxes on the master page. This example adds a small red heart shape to the upper-left corner of the master page that will appear on each page in the active publication.
- 
+<br/>
 
- 
-
-
+This example adds a small red heart shape to the upper-left corner of the master page that will appear on each page in the active publication.
 
 ```vb
 Sub AddShapeToMasterPage() 

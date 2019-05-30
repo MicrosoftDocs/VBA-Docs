@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Font
 ms.assetid: 992fda94-2820-d665-0d78-efd4b5434731
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
@@ -16,11 +16,13 @@ localization_priority: Normal
 
 Contains font attributes (font name, font size, color, and so on) for an object.
 
+## Remarks
+
+Use the **[TextStyle.Font](Publisher.TextStyle.Font.md)** property to return the **Font** object. 
 
 ## Example
 
-Use the  **[Font](Publisher.TextStyle.Font.md)** property to return the **Font** object. The following instruction applies bold formatting to the selection.
-
+The following instruction applies bold formatting to the selection.
 
 ```vb
 Sub BoldText() 
@@ -28,10 +30,9 @@ Sub BoldText()
 End Sub
 ```
 
+<br/>
+
 The following example formats the first paragraph in the active publication as 24-point Arial and italic.
-
-
-
 
 ```vb
 Sub FormatText() 
@@ -45,10 +46,9 @@ Sub FormatText()
 End Sub
 ```
 
+<br/>
+
 The following example changes the formatting of the Heading 2 style in the active publication to Arial and bold.
-
-
-
 
 ```vb
 Sub FormatStyle() 
@@ -60,10 +60,9 @@ Sub FormatStyle()
 End Sub
 ```
 
-You can also duplicate a  **Font** object by using the **[Duplicate](Publisher.TextRange.Duplicate.md)** property. The following example creates a new character style with the character formatting from the selection in addition to italic formatting. The formatting of the selection is not changed.
+<br/>
 
-
-
+You can also duplicate a **Font** object by using the **[TextRange.Duplicate](Publisher.TextRange.Duplicate.md)** property. The following example creates a new character style with the character formatting from the selection in addition to italic formatting. The formatting of the selection is not changed.
 
 ```vb
 Sub DuplicateFont() 

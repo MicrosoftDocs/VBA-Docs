@@ -7,22 +7,20 @@ ms.prod: publisher
 api_name:
 - Publisher.ColorFormat
 ms.assetid: 659069e1-e359-94d7-de06-a1d98378193b
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
 
 # ColorFormat object (Publisher)
 
-Represents the color of a one-color object or the foreground or background color of an object with a gradient or patterned fill. You can set colors to an explicit red-green-blue value by using the  **[RGB](Publisher.ColorFormat.RGB.md)** property.
- 
-
+Represents the color of a one-color object or the foreground or background color of an object with a gradient or patterned fill. You can set colors to an explicit red-green-blue value by using the **[RGB](Publisher.ColorFormat.RGB.md)** property.
 
 ## Remarks
 
-Use one of the properties listed in the following table to return a **[ColorFormat](Publisher.ColorFormat.md)** object.
+Use one of the properties listed in the following table to return a **ColorFormat** object.
 
-|**Use this property**|**With this object**|**To return a ColorFormat object that represents this**|
+|Use this property|With this object|To return a ColorFormat object that represents this|
 |:-----|:-----|:-----|
 |**[BackColor](Publisher.FillFormat.BackColor.md)**|**[FillFormat](Publisher.FillFormat.md)**|Background fill color (used in a shaded or patterned fill)|
 |**[ForeColor](Publisher.FillFormat.ForeColor.md)**|**FillFormat**|Foreground fill color (or the fill color for a solid fill)|
@@ -31,10 +29,11 @@ Use one of the properties listed in the following table to return a **[ColorForm
 |**[ForeColor](Publisher.ShadowFormat.ForeColor.md)**|**[ShadowFormat](Publisher.ShadowFormat.md)**|Shadow color|
 |**[ExtrusionColor](Publisher.ThreeDFormat.ExtrusionColor.md)**|**[ThreeDFormat](Publisher.ThreeDFormat.md)**|Color of the sides of an extruded object|
 
+Use the **RGB** property to set a color to an explicit red-green-blue value. 
+
 ## Example
 
-Use the  **RGB** property to set a color to an explicit red-green-blue value. The following example adds a rectangle to the active publication and then sets the foreground color, background color, and gradient for the rectangle's fill.
- 
+The following example adds a rectangle to the active publication and then sets the foreground color, background color, and gradient for the rectangle's fill.
 
 ```vb
 Sub GradientFill() 

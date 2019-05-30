@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.FillFormat
 ms.assetid: 0a5d4f7a-c42a-28ad-c86d-ac9828a3b874
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
@@ -17,20 +17,16 @@ localization_priority: Normal
 Represents fill formatting for a shape. A shape can have a solid, gradient, texture, pattern, picture, or semitransparent fill.
  
 
-
 ## Remarks
 
-Many of the properties of the  **FillFormat** object are read-only. To set one of these properties, you have to apply the corresponding method.
+Many of the properties of the **FillFormat** object are read-only. To set one of these properties, you have to apply the corresponding method.
  
-
+Use the **[Shape.Fill](Publisher.Shape.Fill.md)** property to return a **FillFormat** object. 
  
 
 ## Example
 
-Use the  **[Fill](Publisher.Shape.Fill.md)** property to return a **FillFormat** object. The following example adds a shape to the active document and then sets the gradient and color for the shape's fill.
- 
-
- 
+The following example adds a shape to the active document and then sets the gradient and color for the shape's fill.
 
 ```vb
 Sub AddShapeAndSetFill() 

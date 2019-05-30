@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.LayoutGuides
 ms.assetid: 7430c1c4-c7f5-d9b6-cea8-b21fe9e2905f
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
@@ -16,11 +16,13 @@ localization_priority: Normal
 
 Represents the measurement grid that appears superimposed on publication pages as an aid to laying out design elements.
  
+## Remarks
 
+Use the **[LayoutGuides](Publisher.Document.LayoutGuides.md)** property of the **Document** object to return a **LayoutGuides** object. 
+
+Use the **LayoutGuide** object's margin properties and **Rows** and **Columns** properties to set how many rows and columns are displayed in the layout guides and where they appear on a page.
 
 ## Example
-
-Use the  **[LayoutGuides](Publisher.Document.LayoutGuides.md)** property of the **Document** object to return a **LayoutGuides** object. Use the **LayoutGuide** object's margin properties and **Rows** and **Columns** properties to set how many rows and columns are displayed in the layout guides and where they appear on a page.
 
 This example sets the margins of the active presentation to two inches.
 

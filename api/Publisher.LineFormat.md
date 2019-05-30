@@ -7,24 +7,23 @@ ms.prod: publisher
 api_name:
 - Publisher.LineFormat
 ms.assetid: 9c973f5a-b2d2-78b1-24c3-350f1ba4c2ab
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
 
 # LineFormat object (Publisher)
 
-Represents line and arrowhead formatting. For a line, the  **LineFormat** object contains formatting information for the line itself; for a shape with a border, this object contains formatting information for the shape's border.
+Represents line and arrowhead formatting. For a line, the **LineFormat** object contains formatting information for the line itself; for a shape with a border, this object contains formatting information for the shape's border.
+
+## Remarks
+
+Use the **[Shape.Line](Publisher.Shape.Line.md)** property to return a **LineFormat** object. 
  
-
-
 ## Example
 
-Use the  **[Line](Publisher.Shape.Line.md)** property to return a **LineFormat** object. The following example adds a blue, dashed line to the active document. There is a short, narrow oval at the line's starting point and a long, wide triangle at its endpoint.
+The following example adds a blue, dashed line to the active document. There is a short, narrow oval at the line's starting point and a long, wide triangle at its endpoint.
  
-
- 
-
 ```vb
 Sub FormatLine() 
  With ActiveDocument.Pages(1).Shapes.AddLine(BeginX:=100, _ 

@@ -7,23 +7,26 @@ ms.prod: publisher
 api_name:
 - Publisher.ColorSchemes
 ms.assetid: f5002de1-5e91-fc92-eedb-0e13dce57802
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
 
 # ColorSchemes object (Publisher)
 
-A collection of all the  **[ColorScheme](Publisher.ColorScheme.md)** objects in Microsoft Publisher. Each **ColorScheme** object represents a color scheme, which is a set of colors that are used in a publication.
+A collection of all the **[ColorScheme](Publisher.ColorScheme.md)** objects in Microsoft Publisher. Each **ColorScheme** object represents a color scheme, which is a set of colors that are used in a publication.
  
+## Remarks
 
+Use the **Count** property to return the number of color schemes available to Publisher. 
+
+Use the **Item** property to return a specific color scheme from the **ColorSchemes** collection. The _Index_ argument of the **Item** property can be the number or name of the color scheme or a **[PbColorScheme](publisher.pbcolorscheme.md)** constant. 
+
+Use the **[Name](Publisher.ColorScheme.Name.md)** property to return a color scheme name. 
 
 ## Example
 
-Use the  **[Count](Publisher.ColorSchemes.Count.md)** property to return the number of color schemes available to Publisher. The following example displays the number of color schemes.
- 
-
- 
+The following example displays the number of color schemes.
 
 ```vb
 Sub CountColorSchemes() 
@@ -31,12 +34,9 @@ Sub CountColorSchemes()
 End Sub
 ```
 
-Use the  **[Item](Publisher.ColorSchemes.Item.md)** property to return a specific color scheme from the **ColorSchemes** collection. The ** _Index_** argument of the **Item** property can be the number or name of the color scheme, or a **PbColorScheme** constant. The follow example sets the color scheme of the active publication to Wildflower.
- 
+<br/>
 
- 
-
-
+The follow example sets the color scheme of the active publication to Wildflower.
 
 ```vb
 Sub SetColorScheme() 
@@ -45,12 +45,9 @@ Sub SetColorScheme()
 End Sub
 ```
 
-Use the  **[Name](Publisher.ColorScheme.Name.md)** property to return a color scheme name. The following example lists in a text box all the color schemes available to Publisher.
- 
+<br/>
 
- 
-
-
+The following example lists in a text box all the color schemes available to Publisher.
 
 ```vb
 Sub ListColorShemes() 

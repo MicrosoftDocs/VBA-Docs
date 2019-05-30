@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Document
 ms.assetid: 44f02255-ff5b-bcfe-900f-61c8fdf61ef3
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
@@ -16,11 +16,13 @@ localization_priority: Normal
 
 Represents a publication. 
 
+## Remarks
+
+Use the **[ActiveDocument](Publisher.Application.ActiveDocument.md)** property to refer to the current publication. 
 
 ## Example
 
-Use the  **[ActiveDocument](Publisher.Application.ActiveDocument.md)** property to refer to the current publication. This example adds a table to the first page of the active publication.
-
+This example adds a table to the first page of the active publication.
 
 ```vb
 Sub NewTable() 
@@ -36,10 +38,9 @@ Sub NewTable()
 End Sub
 ```
 
-You can also write the above routine by using a reference to the  **ThisDocument** module. This example uses a **ThisDocument** reference instead of **ActiveDocument**.
+<br/>
 
-
-
+You can also write the previous routine by using a reference to the **ThisDocument** module. This example uses a **ThisDocument** reference instead of **ActiveDocument**.
 
 ```vb
 Sub PrintPublication() 

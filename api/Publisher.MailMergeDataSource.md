@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource
 ms.assetid: a02eb4fb-7db7-e533-c3ca-95bc4ca68e82
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
@@ -16,14 +16,13 @@ localization_priority: Normal
 
 Represents the data source in a mail merge or catalog merge operation.
  
+## Remarks
 
+Use the **[MailMerge.DataSource](Publisher.MailMerge.DataSource.md)** property to return the **MailMergeDataSource** object. 
 
 ## Example
 
-Use the  **[DataSource](Publisher.MailMerge.DataSource.md)** property to return the **MailMergeDataSource** object. The following example displays the name of the data source associated with the active publication.
- 
-
- 
+The following example displays the name of the data source associated with the active publication.
 
 ```vb
 Sub ShowDataSourceName() 
@@ -32,12 +31,9 @@ Sub ShowDataSourceName()
 End Sub
 ```
 
+<br/>
+
 The following example tests the open data source associated with the active publication to determine whether the LastName field includes the name Fuller.
- 
-
- 
-
-
 
 ```vb
 Sub FindSelectedRecord() 

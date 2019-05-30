@@ -7,30 +7,24 @@ ms.prod: publisher
 api_name:
 - Publisher.Field
 ms.assetid: 93da311a-b834-f990-60e9-786d4f6a16f1
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
 
 # Field object (Publisher)
 
-Represents a field. The  **Field** object is a member of the **[Fields](Publisher.Fields.md)** collection. The **Fields** collection represents the fields in a selection, range, or publication.
+Represents a field. The **Field** object is a member of the **[Fields](Publisher.Fields.md)** collection. The **Fields** collection represents the fields in a selection, range, or publication.
  
-
-
 ## Remarks
 
-The  **pbFieldPageNumber** constant is a member of the **PbFieldType** group of constants, which includes all the various field types.
- 
+The **pbFieldPageNumber** constant is a member of the **[PbFieldType](publisher.pbfieldtype.md)** group of constants, which includes all the various field types.
 
+Use **[TextRange.Fields](Publisher.TextRange.Fields.md)** (_index_), where _index_ is the index number, to return a single **Field** object. The index number represents the position of the field in the selection, range, or publication. 
  
-
 ## Example
 
-Use  **[Fields](Publisher.TextRange.Fields.md)** (_index_), where _index_ is the index number, to return a single **Field** object. The index number represents the position of the field in the selection, range, or publication. The following counts the number of fields in the active publication and displays the count in a message.
- 
-
- 
+The following example counts the number of fields in the active publication and displays the count in a message.
 
 ```vb
 Sub CountFields() 

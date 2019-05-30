@@ -16,24 +16,15 @@ localization_priority: Normal
 
 Represents a cyan-magenta-yellow-black (CMYK) color value.
  
+## Remarks
 
+Use the **[CMYK](publisher.colorformat.cmyk.md)** property of the **ColorFormat** object to return a **ColorCMYK** object.
+
+Use the **Cyan**, **Magenta**, **Yellow**, and **Black** properties to individually set each of the four colors in the CMYK color value. Use the **SetCMYK** method to set all four colors at once.
 
 ## Example
 
-Use the  **CMYK** property of a **ColorFormat** object to return a **ColorCMYK** object. Use the **Cyan**, **Magenta**, **Yellow**, and **Black** properties of the **ColorCMYK** object to individually set each of the four colors in the CMYK color value. Use the **SetCMYK** method on a **ColorCMYK** object to set all four colors at once.
- 
-
- 
-
- 
-
- 
 The following example retrieves the CMYK color value of shape one's fill and changes it to another CMYK color value.
- 
-
- 
-
-
 
 ```vb
 Dim cmykColor As ColorCMYK Set cmykColor = ActiveDocument.Pages(1).Shapes(1).Fill.ForeColor.CMYK cmykColor.SetCMYK Cyan:=0, Magenta:=255, Yellow:=255, Black:=50
@@ -42,10 +33,6 @@ Dim cmykColor As ColorCMYK Set cmykColor = ActiveDocument.Pages(1).Shapes(1).Fil
 
 ## Methods
 
-
-
-|Name|
-|:-----|
 - [SetCMYK](Publisher.ColorCMYK.SetCMYK.md)
 
 ## Properties
