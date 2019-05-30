@@ -50,7 +50,7 @@ To determine the specific data row in the data recordset shapes are linked to, u
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **GetShapesLinkedToData** method to determine the shape IDs of the shapes on the page linked to data in the data recordset most recently added to the **DataRecordsets** collection of the current document. It prints the shape IDs in the **Immediate** window.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **GetShapesLinkedToData** method to determine the shape IDs of the shapes on the page linked to data in the data recordset most recently added to the **DataRecordsets** collection of the current document. It prints the shape IDs in the Immediate window.
 
 Before running this macro, use the  **[DataRecordsets.Add](Visio.DataRecordsets.Add.md)** method or another means to add at least one data recordset to the **DataRecordsets** collection, and make sure there is at least one shape on the active page linked to data in the data recordset.
 

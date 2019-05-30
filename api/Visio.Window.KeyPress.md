@@ -115,6 +115,6 @@ Private Sub Document_BeforeDocumentClose(ByVal doc As IVDocument)
 End Sub
 ```
 
-Save the document to initialize the class, and then press any key to fire a  **KeyPress** event. In the **Immediate** window, the handler prints the ASCII code of the key that was pressed to fire the event.
+Save the document to initialize the class, and then press any key to fire a  **KeyPress** event. In the Immediate window, the handler prints the ASCII code of the key that was pressed to fire the event.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

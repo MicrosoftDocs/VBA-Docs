@@ -73,7 +73,7 @@ The following Microsoft Visual Basic for Applications (VBA) macro shows how to u
 
  **Note**  You can determine the name of an existing data graphic master by moving your mouse over the master in the  **Data Graphics** task pane in the Visio user interface.
 
-Then it closes the master and uses the  **GetExpression** method to get the mostly recently applied expression for the graphic item. Finally, it prints the field type and the value of the expression in the **Immediate** window.
+Then it closes the master and uses the  **GetExpression** method to get the mostly recently applied expression for the graphic item. Finally, it prints the field type and the value of the expression in the Immediate window.
 
 The macro assumes that a data graphic named "Data Graphic" exists in the current document. For more information about adding a data graphic master to the  **Masters** collection of the current document, see **[Masters.AddEx](Visio.Masters.AddEx.md)**.
 

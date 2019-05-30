@@ -46,7 +46,7 @@ The  **OnReviewerChanged** event occurs when markup overlays of a specific revie
 
 ## Example
 
-The following code shows how to use the  **OnReviewerChanged** event to print a message in the **Immediate** window identifying the reviewer and stating the visibility status of the reviewer's markup.
+The following code shows how to use the  **OnReviewerChanged** event to print a message in the Immediate window identifying the reviewer and stating the visibility status of the reviewer's markup.
 
 
 ```vb

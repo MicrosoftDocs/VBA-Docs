@@ -24,7 +24,7 @@ The page size represented by the  **PageSize** object corresponds to one of the 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Name** property of the **PageSize** object to get a list of the names of all the page sizes available in the current document and print the list in the **Immediate** window.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Name** property of the **PageSize** object to get a list of the names of all the page sizes available in the current document and print the list in the Immediate window.
 
 
 ```vb

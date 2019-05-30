@@ -43,7 +43,7 @@ You can change the page programmatically in Visio Viewer by setting the value of
 
 ## Example
 
-The following code shows how to use the  **OnPageChanged** event to print a message in the **Immediate** window stating that the page has changed and identifying the new page.
+The following code shows how to use the  **OnPageChanged** event to print a message in the Immediate window stating that the page has changed and identifying the new page.
 
 
 ```vb

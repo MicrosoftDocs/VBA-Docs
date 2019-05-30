@@ -7,16 +7,15 @@ ms.prod: publisher
 api_name:
 - Publisher.BuildingBlock
 ms.assetid: e0ffded4-2fc7-b163-a12b-a06cf75c2826
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
 
 # BuildingBlock object (Publisher)
 
-Represents a single building block. The  **BuildingBlock** object is a member of the **[BuildingBlocks](Publisher.BuildingBlocks.md)** collection.
+Represents a single building block. The **BuildingBlock** object is a member of the **[BuildingBlocks](Publisher.BuildingBlocks.md)** collection.
  
-
 
 ## Methods
 

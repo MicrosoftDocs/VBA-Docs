@@ -50,7 +50,7 @@ The build number of the running instance is written to the  **FullBuildNumberCre
 
 ## Example
 
-The following Microsoft Visual Basic procedures show how to use the  **FullBuild** property to get the full build number of the current instance of Visio. Once the full build number has been obtained, the **ParseFullBuildProperty** procedure parses the number and prints the results in the **Immediate** window.
+The following Microsoft Visual Basic procedures show how to use the  **FullBuild** property to get the full build number of the current instance of Visio. Once the full build number has been obtained, the **ParseFullBuildProperty** procedure parses the number and prints the results in the Immediate window.
 
 
 ```vb

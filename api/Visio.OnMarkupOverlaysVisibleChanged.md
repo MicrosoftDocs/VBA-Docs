@@ -38,7 +38,7 @@ The  **OnMarkupOverlaysVisibleChanged** event occurs when markup overlays for al
 
 ## Example
 
-The following code shows how to use the  **OnMarkupOverlaysVisibleChanged** event to display the visibility status of markup overlays in the **Immediate** window.
+The following code shows how to use the  **OnMarkupOverlaysVisibleChanged** event to display the visibility status of markup overlays in the Immediate window.
 
 
 ```vb

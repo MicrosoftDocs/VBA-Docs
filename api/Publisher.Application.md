@@ -7,25 +7,30 @@ ms.prod: publisher
 api_name:
 - Publisher.Application
 ms.assetid: acfc7efb-e6a5-a89a-3aee-3cb4af2f3508
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
 
 # Application object (Publisher)
 
-Represents the Microsoft Publisher application. The  **Application** object includes properties and methods that return top-level objects. For example, the **ActiveDocument** property returns a **Document** object.
+Represents the Microsoft Publisher application. The **Application** object includes properties and methods that return top-level objects. For example, the **ActiveDocument** property returns a **Document** object.
 
 
 ## Remarks
 
-When using Microsoft Visual Basic for Applications in Publisher, all of the properties and methods of the  **Application** object can be used without the **Application** object qualifier. For example, instead of typing `Application.ActiveDocument.PrintOut`, you can type  `ActiveDocument.PrintOut`. Properties and methods that can be used without the  **Application** object qualifier are considered "global." To view the global properties and methods in the Object Browser, click **<globals>** at the top of the list in the **Classes** box. When accessing the Publisher object model from a non-Publisher project, all properties and methods must be fully qualified.
+When using Microsoft Visual Basic for Applications in Publisher, all the properties and methods of the **Application** object can be used without the **Application** object qualifier. For example, instead of typing **Application.ActiveDocument.PrintOut**, you can type **ActiveDocument.PrintOut**. 
+
+Properties and methods that can be used without the **Application** object qualifier are considered _global_. To view the global properties and methods in the Object Browser, choose `<globals>` at the top of the list in the **Classes** box. 
+
+When accessing the Publisher object model from a non-Publisher project, all properties and methods must be fully qualified.
+
+Use the **[Application](Publisher.Application.Application.md)** property to return the **Application** object.
 
 
 ## Example
 
-Use the  **[Application](Publisher.Application.Application.md)** property to return the **Application** object. The following example displays the application name.
-
+The following example displays the application name.
 
 ```vb
 Sub ShowAppName() 

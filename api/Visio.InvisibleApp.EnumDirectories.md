@@ -51,7 +51,7 @@ The  _NameArray()_ parameter is an out parameter that is allocated by the **Enum
 
 ## Example
 
-The following example shows how to use the  **EnumDirectories** method to print in the **Immediate** window a list of all the folders Visio searches for add-ons.
+The following example shows how to use the  **EnumDirectories** method to print in the Immediate window a list of all the folders Visio searches for add-ons.
 
 
 ```vb

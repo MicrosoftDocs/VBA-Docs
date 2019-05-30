@@ -38,7 +38,7 @@ The minimum allowable value for the  **SnapStrengthGridY** property is 0 (zero),
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **SnapStrengthGridY** property to print the current snap strength grid _y_ -axis setting in the **Immediate** window. It also shows how to get an **ApplicationSettings** object from the Visio **Application** object.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **SnapStrengthGridY** property to print the current snap strength grid _y_ -axis setting in the Immediate window. It also shows how to get an **ApplicationSettings** object from the Visio **Application** object.
 
 
 ```vb

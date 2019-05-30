@@ -48,7 +48,7 @@ In addition, for Visio, to obtain the correct full build number, it is necessary
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) procedures show how to use the  **FullBuildNumberCreated** property to get the full build number of the instance of Visio used to create the document. Once the full build number has been obtained, the **ParseFullBuildNumberCreatedProperty** procedure parses the number and prints the results in the **Immediate** window.
+The following Microsoft Visual Basic for Applications (VBA) procedures show how to use the  **FullBuildNumberCreated** property to get the full build number of the instance of Visio used to create the document. Once the full build number has been obtained, the **ParseFullBuildNumberCreatedProperty** procedure parses the number and prints the results in the Immediate window.
 
 
 ```vb

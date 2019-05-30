@@ -55,7 +55,7 @@ Knowing how shapes are linked to data can help prevent conflicts and broken link
 
  The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **IsCustomPropertyLinked** method to determine whether a shape's custom property row is linked to a data row in a data recordset.
 
-Before running this macro, add at least one data recordset to the  **[DataRecordsets](Visio.DataRecordsets.md)** collection of the document. The macro drops a shape and then tests whether the shape's first shape data item is linked to a data row in the data recordset most recently added to the collection, printing the result in the **Immediate** window. The test will fail, because the shape has not been linked to data. Then the shape is linked to data in the most recently added data recordset, and the test is run again.
+Before running this macro, add at least one data recordset to the  **[DataRecordsets](Visio.DataRecordsets.md)** collection of the document. The macro drops a shape and then tests whether the shape's first shape data item is linked to a data row in the data recordset most recently added to the collection, printing the result in the Immediate window. The test will fail, because the shape has not been linked to data. Then the shape is linked to data in the most recently added data recordset, and the test is run again.
 
 
 

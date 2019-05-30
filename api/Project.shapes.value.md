@@ -27,7 +27,7 @@ _expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object
 
 ## Remarks
 
- **Value** is the default property for the **Shapes** object. For example, create a report namedTable Tests that contains a table. The following statement in the **Immediate** window of the VBE prints the name of the table.
+ **Value** is the default property for the **Shapes** object. For example, create a report namedTable Tests that contains a table. The following statement in the Immediate window of the VBE prints the name of the table.
 
 
 ```vb

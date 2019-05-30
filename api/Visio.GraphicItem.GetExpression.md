@@ -54,7 +54,7 @@ The Field value returned as an out parameter is one of the following values from
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **GetExpression** method to get the value of the expression string for a data graphic item. It gets the most recently applied expression for the first graphic item in the **GraphicItems** collection of the **Master** object of type **visTypeDataGraphic** (commonly called a data graphic) named "Data Graphic," and prints the field and the expression in the **Immediate** window.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **GetExpression** method to get the value of the expression string for a data graphic item. It gets the most recently applied expression for the first graphic item in the **GraphicItems** collection of the **Master** object of type **visTypeDataGraphic** (commonly called a data graphic) named "Data Graphic," and prints the field and the expression in the Immediate window.
 
 
  **Note**  You can determine the name of an existing data graphic master by moving your mouse over the master in the  **Data Graphics** task pane in the Visio user interface.
