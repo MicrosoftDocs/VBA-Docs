@@ -46,7 +46,7 @@ Sub AddCurvedSmoothSegment()
 End Sub
 ```
 
-Use  **Nodes** (index), where index is the node index number, to return a single **ShapeNode** object. If node one in shape three on the active document is a corner point, the following example makes it a smooth point. For this example to work, shape three must be a freeform.
+Use  **Nodes** (_index_), where _index_ is the node index number, to return a single **ShapeNode** object. If node one in shape three on the active document is a corner point, the following example makes it a smooth point. For this example to work, shape three must be a freeform.
  
 
  
@@ -66,25 +66,23 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Publisher.ShapeNodes.Delete.md)|
-|[Insert](Publisher.ShapeNodes.Insert.md)|
-|[Item](Publisher.ShapeNodes.Item.md)|
-|[SetEditingType](Publisher.ShapeNodes.SetEditingType.md)|
-|[SetPosition](Publisher.ShapeNodes.SetPosition.md)|
-|[SetSegmentType](Publisher.ShapeNodes.SetSegmentType.md)|
+- [Delete](Publisher.ShapeNodes.Delete.md)
+- [Insert](Publisher.ShapeNodes.Insert.md)
+- [Item](Publisher.ShapeNodes.Item.md)
+- [SetEditingType](Publisher.ShapeNodes.SetEditingType.md)
+- [SetPosition](Publisher.ShapeNodes.SetPosition.md)
+- [SetSegmentType](Publisher.ShapeNodes.SetSegmentType.md)
 
 ## Properties
 
+- [Application](Publisher.ShapeNodes.Application.md)
+- [Count](Publisher.ShapeNodes.Count.md)
+- [Parent](Publisher.ShapeNodes.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.ShapeNodes.Application.md)|
-|[Count](Publisher.ShapeNodes.Count.md)|
-|[Parent](Publisher.ShapeNodes.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

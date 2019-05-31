@@ -46,21 +46,19 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Publisher.RulerGuide.Delete.md)|
+- [Delete](Publisher.RulerGuide.Delete.md)
 
 ## Properties
 
+- [Application](Publisher.RulerGuide.Application.md)
+- [Parent](Publisher.RulerGuide.Parent.md)
+- [Position](Publisher.RulerGuide.Position.md)
+- [Type](Publisher.RulerGuide.Type.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.RulerGuide.Application.md)|
-|[Parent](Publisher.RulerGuide.Parent.md)|
-|[Position](Publisher.RulerGuide.Position.md)|
-|[Type](Publisher.RulerGuide.Type.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

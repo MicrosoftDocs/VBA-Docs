@@ -24,7 +24,7 @@ The  **AddIn** object is a member of the **[AddIns](PowerPoint.AddIns.md)** coll
 
 ## Example
 
-Use  **AddIns** (index), where index is the add-in's title or index number, to return a single **AddIn** object. The following example loads the My Ppt Tools add-in.
+Use  **AddIns** (_index_), where _index_ is the add-in's title or index number, to return a single **AddIn** object. The following example loads the My Ppt Tools add-in.
 
 
 ```vb
@@ -55,7 +55,7 @@ Use the [Add](PowerPoint.AddIns.Add.md)method to add a PowerPoint-specific add-i
 AddIns.Add("generic.ppa").Loaded = True
 ```
 
-Use  **AddIns** (index), where index is the add-in's title, to return a reference to the loaded add-in. The following example sets the `presAddin` variable to the add-in titled "my ppt tools" and sets the `myName` variable to the name of the add-in.
+Use  **AddIns** (_index_), where _index_ is the add-in's title, to return a reference to the loaded add-in. The following example sets the `presAddin` variable to the add-in titled "my ppt tools" and sets the `myName` variable to the name of the add-in.
 
 
 

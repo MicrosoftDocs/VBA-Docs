@@ -50,7 +50,7 @@ The following Microsoft Visual Basic for Applications (VBA) macro shows how to g
 
 If one or more data sources is connected, the macro uses the  **Count** property of the **MailMergeDataSources** collection to determine how many data sources are connected.
 
-If just one data source is connected, the macro prints the name of that data source in the  **Immediate** window; if more than one data source is connected, the macro uses the **Item** method of the **MailMergeDataSources** collection to iterate through the collection and the **Name** property of the **MailMergeDataSource** object to print the name of each connected data source in the **Immediate** window.
+If just one data source is connected, the macro prints the name of that data source in the  **Immediate** window; if more than one data source is connected, the macro uses the **Item** method of the **MailMergeDataSources** collection to iterate through the collection and the **Name** property of the **MailMergeDataSource** object to print the name of each connected data source in the Immediate window.
 
 
 

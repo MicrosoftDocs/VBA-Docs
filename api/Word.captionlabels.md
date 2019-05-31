@@ -25,7 +25,7 @@ Use the  **[Add](Word.CaptionLabels.Add.md)** method to add a custom caption lab
 CaptionLabels.Add Name:="Photo"
 ```
 
-Use  **CaptionLabels** (index), where index is the caption label name or index number, to return a single **CaptionLabel** object. The following example sets the numbering style for the Figure caption label.
+Use  **CaptionLabels** (_index_), where _index_ is the caption label name or index number, to return a single **CaptionLabel** object. The following example sets the numbering style for the Figure caption label.
 
 
 

@@ -53,7 +53,7 @@ You can use the  **[Shapes.ItemFromID](Visio.Shapes.ItemFromID.md)** property to
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **GetContainers** method to get the IDs of all the containers on a page, loop through those containers, and print each container name in the **Immediate** window. The example includes nested containers.
+The following Visual Basic for Applications (VBA) example shows how to use the  **GetContainers** method to get the IDs of all the containers on a page, loop through those containers, and print each container name in the Immediate window. The example includes nested containers.
 
 
 ```vb

@@ -19,7 +19,7 @@ Represents the extra colors in a presentation. The object can contain up to eigh
 
 ## Example
 
-Use the [ExtraColors](PowerPoint.Presentation.ExtraColors.md)property to return the  **ExtraColors** object. Use **ExtraColors** (index), where index is the extra color index number, to return the red-green-blue (RGB) value for a single extra color. The following example adds a rectangle to slide one in the active presentation and sets its fill foreground color to the first extra color. If there hasn't been at least one extra color defined for the presentation, this example will fail.
+Use the [ExtraColors](PowerPoint.Presentation.ExtraColors.md)property to return the  **ExtraColors** object. Use **ExtraColors** (_index_), where _index_ is the extra color index number, to return the red-green-blue (RGB) value for a single extra color. The following example adds a rectangle to slide one in the active presentation and sets its fill foreground color to the first extra color. If there hasn't been at least one extra color defined for the presentation, this example will fail.
 
 
 ```vb

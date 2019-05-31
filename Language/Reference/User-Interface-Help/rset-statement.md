@@ -16,7 +16,7 @@ Right aligns a string within a string [variable](../../Glossary/vbe-glossary.md#
 
 ## Syntax
 
-**RSet**_stringvar_ **=** _string_
+**RSet** _stringvar_ **=** _string_
 
 <br/>
 

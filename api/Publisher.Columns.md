@@ -7,23 +7,26 @@ ms.prod: publisher
 api_name:
 - Publisher.Columns
 ms.assetid: 3fe6ddce-a598-a967-fc89-7296c18a6a55
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
 
 # Columns object (Publisher)
 
-A collection of  **[Column](Publisher.Column.md)** objects that represent the columns in a table.
+A collection of **[Column](Publisher.Column.md)** objects that represent the columns in a table.
  
+## Remarks
 
+Use the **[Columns](Publisher.Table.Columns.md)** property of the **Table** object to return the **Columns** collection.
+
+Use **Columns** (_index_), where _index_ is the index number, to return a single **Column** object. The index number represents the position of the column in the **Columns** collection (counting from left to right). 
+
+Use the **Add** method to add a column to a table. 
 
 ## Example
 
-Use the  **[Columns](Publisher.Table.Columns.md)** property of the **[Table](Publisher.Table.md)** object to return the **Columns** collection. The following example displays the number of **[Column](Publisher.Column.md)** objects in the **Columns** collection for the first table in the active document.
- 
-
- 
+The following example displays the number of **Column** objects in the **Columns** collection for the first table in the active document.
 
 ```vb
 Sub CountColumns() 
@@ -32,12 +35,9 @@ Sub CountColumns()
 End Sub
 ```
 
-This example enters a bold number into each cell in the specified table. This example assumes the specified shape is a table and not another type of shape.
- 
+<br/>
 
- 
-
-
+This example enters a bold number into each cell in the specified table. It assumes that the specified shape is a table and not another type of shape.
 
 ```vb
 Sub CountCellsByColumn() 
@@ -64,12 +64,9 @@ Sub CountCellsByColumn()
 End Sub
 ```
 
-Use  **Columns** (index), where index is the index number, to return a single **Column** object. The index number represents the position of the column in the **Columns** collection (counting from left to right). The following example selects the third column in the specified table.
- 
+<br/>
 
- 
-
-
+The following example selects the third column in the specified table.
 
 ```vb
 Sub SelectColumns() 
@@ -77,12 +74,9 @@ Sub SelectColumns()
 End Sub
 ```
 
-Use the  **[Add](Publisher.Columns.Add.md)** method to add a column to a table. This example adds a column to the specified table on the second page of the active publication, and then adjusts the width, merges the cells, and sets the fill color. This example assumes the first shape is a table and not another type of shape.
- 
+<br/>
 
- 
-
-
+This example adds a column to the specified table on the second page of the active publication, and then adjusts the width, merges the cells, and sets the fill color. This example assumes that the first shape is a table and not another type of shape.
 
 ```vb
 Sub NewColumn() 
@@ -101,21 +95,19 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Publisher.Columns.Add.md)|
-|[Item](Publisher.Columns.Item.md)|
+- [Add](Publisher.Columns.Add.md)
+- [Item](Publisher.Columns.Item.md)
 
 ## Properties
 
+- [Application](Publisher.Columns.Application.md)
+- [Count](Publisher.Columns.Count.md)
+- [Parent](Publisher.Columns.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.Columns.Application.md)|
-|[Count](Publisher.Columns.Count.md)|
-|[Parent](Publisher.Columns.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -45,7 +45,7 @@ You can get the current page view in Visio Viewer by using the  **[GetPageView](
 
 ## Example
 
-The following code shows how to use the  **OnViewChanged** event to display the new page-view data in the **Immediate** window.
+The following code shows how to use the  **OnViewChanged** event to display the new page-view data in the Immediate window.
 
 
 ```vb

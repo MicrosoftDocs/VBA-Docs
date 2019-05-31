@@ -48,7 +48,7 @@ In addition, for Visio, to obtain the correct full build number, it is necessary
 
 ## Example
 
-The following Microsoft Visual Basic procedures show how to use the  **FullBuildNumberEdited** property to get the full build number of the instance of Visio last used to edit the document. When the full build number has been obtained, the **ParseFullBuildNumberEditedProperty** procedure parses the number and prints the result in the **Immediate** window.
+The following Microsoft Visual Basic procedures show how to use the  **FullBuildNumberEdited** property to get the full build number of the instance of Visio last used to edit the document. When the full build number has been obtained, the **ParseFullBuildNumberEditedProperty** procedure parses the number and prints the result in the Immediate window.
 
 
 ```vb

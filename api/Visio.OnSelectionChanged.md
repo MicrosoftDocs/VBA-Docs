@@ -43,7 +43,7 @@ You can change the selected shape in Visio Viewer programmatically by using the 
 
 ## Example
 
-The following code shows how to use the  **OnSelectionChanged** event to print the ID of the newly selected shape in Visio Viewer in the **Immediate** window.
+The following code shows how to use the  **OnSelectionChanged** event to print the ID of the newly selected shape in Visio Viewer in the Immediate window.
 
 
 ```vb

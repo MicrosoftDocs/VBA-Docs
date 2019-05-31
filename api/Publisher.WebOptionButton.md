@@ -43,14 +43,16 @@ End Sub
 
 ## Properties
 
+- [Application](Publisher.WebOptionButton.Application.md)
+- [Parent](Publisher.WebOptionButton.Parent.md)
+- [ReturnDataLabel](Publisher.WebOptionButton.ReturnDataLabel.md)
+- [Selected](Publisher.WebOptionButton.Selected.md)
+- [Value](Publisher.WebOptionButton.Value.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.WebOptionButton.Application.md)|
-|[Parent](Publisher.WebOptionButton.Parent.md)|
-|[ReturnDataLabel](Publisher.WebOptionButton.ReturnDataLabel.md)|
-|[Selected](Publisher.WebOptionButton.Selected.md)|
-|[Value](Publisher.WebOptionButton.Value.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

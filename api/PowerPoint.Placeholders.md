@@ -26,7 +26,7 @@ You can delete individual placeholders by using the [Delete](PowerPoint.ShapeNod
 
 ## Example
 
-Use the [Placeholders](PowerPoint.Shapes.Placeholders.md)property to return the  **Placeholders** collection. Use **Placeholders** (index), where index is the placeholder index number, to return a **Shape** object that represents a single placeholder. Note that for any slide that has a title, `Shapes`.Title is equivalent to  `Shapes.Placeholders(1)`.The following example adds a new slide with a Bulleted List slide layout to the beginning of the presentation, sets the text for the title, and then adds two paragraphs to the text placeholder.
+Use the [Placeholders](PowerPoint.Shapes.Placeholders.md)property to return the  **Placeholders** collection. Use **Placeholders** (_index_), where _index_ is the placeholder index number, to return a **Shape** object that represents a single placeholder. Note that for any slide that has a title, `Shapes`.Title is equivalent to  `Shapes.Placeholders(1)`.The following example adds a new slide with a Bulleted List slide layout to the beginning of the presentation, sets the text for the title, and then adds two paragraphs to the text placeholder.
 
 
 ```vb

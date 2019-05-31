@@ -32,7 +32,7 @@ Use the  **[View](./PowerPoint.DocumentWindow.View.md)** property to return the 
 
 ## Example
 
-Use  **Windows** (index), where index is the document window index number, to return a single **DocumentWindow** object. The following example activates document window two.
+Use  **Windows** (_index_), where _index_ is the document window index number, to return a single **DocumentWindow** object. The following example activates document window two.
 
 
 ```vb
@@ -48,7 +48,7 @@ The first member of the  **DocumentWindows** collection, `Windows(1)`, always re
 ActiveWindow.WindowState = ppWindowMaximized
 ```
 
-Use  **Panes** (index), where index is the pane index number, to manipulate panes within normal, slide, outline, or notes page views of the document window. The following example activates pane three, which is the notes pane.
+Use  **Panes** (_index_), where _index_ is the pane index number, to manipulate panes within normal, slide, outline, or notes page views of the document window. The following example activates pane three, which is the notes pane.
 
 
 

@@ -45,7 +45,7 @@ With ActivePresentation.PublishObjects(1)
 End With
 ```
 
-Use  **Item** (index), where index is always "1", to return the single **PublishObject** object for a loaded presentation. There can be only one **PublishObject** object for each loaded presentation.
+Use  **Item** (_index_), where _index_ is always "1", to return the single **PublishObject** object for a loaded presentation. There can be only one **PublishObject** object for each loaded presentation.
 
 This example defines the  **PublishObject** object to be the entire active presentation by setting the **SourceType** property to **ppPublishAll**.
 

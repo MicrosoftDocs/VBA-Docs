@@ -35,7 +35,7 @@ You can customize the toolbar programmatically by using the  **[ToolbarButtons](
 
 ## Example
 
-The following code shows how to use the  **OnToolbarCustomized** event to display a message in the **Immediate** window when the user customizes the toolbar in Visio Viewer.
+The following code shows how to use the  **OnToolbarCustomized** event to display a message in the Immediate window when the user customizes the toolbar in Visio Viewer.
 
 
 ```vb

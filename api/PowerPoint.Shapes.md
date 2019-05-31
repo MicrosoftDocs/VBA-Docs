@@ -48,7 +48,7 @@ ActivePresentation.Slides(1).Shapes.AddShape Type:=msoShapeRectangle, _
     Left:=50, Top:=50, Width:=100, Height:=200
 ```
 
-Use  **Shapes** (index), where index is the shape's name or index number, to return a single **Shape** object. The following example sets the fill to a preset shade for shape one in the active presentation.
+Use  **Shapes** (_index_), where _index_ is the shape's name or index number, to return a single **Shape** object. The following example sets the fill to a preset shade for shape one in the active presentation.
 
 
 
@@ -61,7 +61,7 @@ ActivePresentation.Slides(1).Shapes(1).Fill _
     PresetGradientType:=msoGradientBrass
 ```
 
-Use  **Shapes.Range** (index), where index is the shape's name or index number or an array of shape names or index numbers, to return a **[ShapeRange](PowerPoint.ShapeRange.md)** collection that represents a subset of the **Shapes** collection. The following example sets the fill pattern for shapes one and three in the active presentation.
+Use  **Shapes.Range** (_index_), where _index_ is the shape's name or index number or an array of shape names or index numbers, to return a **[ShapeRange](PowerPoint.ShapeRange.md)** collection that represents a subset of the **Shapes** collection. The following example sets the fill pattern for shapes one and three in the active presentation.
 
 
 
@@ -72,7 +72,7 @@ ActivePresentation.Slides(1).Shapes.Range(Array(1, 3)).Fill _
     .Patterned Pattern:=msoPatternHorizontalBrick
 ```
 
-Use  **Shapes.Placeholders** (index), where index is the placeholder number, to return a **Shape** object that represents a placeholder. If the specified slide has a title, use **Shapes.Placeholders(1)** or **Shapes.Title** to return the title placeholder. The following example adds a slide to the active presentation and then adds text to both the title and the subtitle (the subtitle is the second placeholder on a slide with this layout).
+Use  **Shapes.Placeholders** (_index_), where _index_ is the placeholder number, to return a **Shape** object that represents a placeholder. If the specified slide has a title, use **Shapes.Placeholders(1)** or **Shapes.Title** to return the title placeholder. The following example adds a slide to the active presentation and then adds text to both the title and the subtitle (the subtitle is the second placeholder on a slide with this layout).
 
 
 

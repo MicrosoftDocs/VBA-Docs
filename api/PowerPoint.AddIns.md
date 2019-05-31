@@ -39,7 +39,7 @@ Use the  **[Add](PowerPoint.AddIns.Add.md)** method to add a PowerPoint-specific
 AddIns.Add("graphdrs.ppa").Loaded = True
 ```
 
-Use  **AddIns** (index), where index is the add-in's title or index number, to return a single **AddIn** object. The following example loads the hypothetical add-in titled "my ppt tools".
+Use  **AddIns** (_index_), where _index_ is the add-in's title or index number, to return a single **AddIn** object. The following example loads the hypothetical add-in titled "my ppt tools".
 
 
 

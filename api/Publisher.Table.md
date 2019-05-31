@@ -19,7 +19,7 @@ Represents a single table.
 
 ## Example
 
-Use the  **[Table](./Publisher.Shape.Table.md)** property to return a **Table** object. The following example selects the specified table in the active publication.
+Use the  **[Table](Publisher.Shape.Table.md)** property to return a **Table** object. The following example selects the specified table in the active publication.
 
 
 ```vb
@@ -31,7 +31,7 @@ Sub SelectTable()
 End Sub
 ```
 
-Use the  **[AddTable](./Publisher.Shapes.AddTable.md)** method to add a **Shape** object representing a table at the specified range. The following example adds a 5x5 table on the first page of the active publication, and then selects the first column of the new table.
+Use the  **[AddTable](Publisher.Shapes.AddTable.md)** method to add a **Shape** object representing a table at the specified range. The following example adds a 5x5 table on the first page of the active publication, and then selects the first column of the new table.
 
 
 
@@ -48,24 +48,22 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[ApplyAutoFormat](./Publisher.Table.ApplyAutoFormat.md)|
+- [ApplyAutoFormat](Publisher.Table.ApplyAutoFormat.md)
 
 ## Properties
 
+- [Application](Publisher.Table.Application.md)
+- [Cells](Publisher.Table.Cells.md)
+- [Columns](Publisher.Table.Columns.md)
+- [GrowToFitText](Publisher.Table.GrowToFitText.md)
+- [Parent](Publisher.Table.Parent.md)
+- [Rows](Publisher.Table.Rows.md)
+- [TableDirection](Publisher.Table.TableDirection.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](./Publisher.Table.Application.md)|
-|[Cells](./Publisher.Table.Cells.md)|
-|[Columns](./Publisher.Table.Columns.md)|
-|[GrowToFitText](./Publisher.Table.GrowToFitText.md)|
-|[Parent](./Publisher.Table.Parent.md)|
-|[Rows](./Publisher.Table.Rows.md)|
-|[TableDirection](./Publisher.Table.TableDirection.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -45,13 +45,15 @@ End With
 
 ## Properties
 
+- [Application](Publisher.WizardValue.Application.md)
+- [ID](Publisher.WizardValue.ID.md)
+- [Name](Publisher.WizardValue.Name.md)
+- [Parent](Publisher.WizardValue.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.WizardValue.Application.md)|
-|[ID](Publisher.WizardValue.ID.md)|
-|[Name](Publisher.WizardValue.Name.md)|
-|[Parent](Publisher.WizardValue.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

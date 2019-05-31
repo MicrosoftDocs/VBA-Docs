@@ -49,7 +49,7 @@ If you pass a row ID of zero for the DataRowID parameter, the  **GetRowData** me
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how you can use the  **GetDataRowIDs** and **GetRowData** methods to return the row ID of each row and then get the data stored in each column in every row of the specified data recordset. The macro gets the count of all data recordsets associated with the current document and gets row data for the one most recently added. It iterates through all the rows in the data recordset and then, for each row, iterates through all the columns in that row. The code displays the information returned in the **Immediate** window.
+This Microsoft Visual Basic for Applications (VBA) macro shows how you can use the  **GetDataRowIDs** and **GetRowData** methods to return the row ID of each row and then get the data stored in each column in every row of the specified data recordset. The macro gets the count of all data recordsets associated with the current document and gets row data for the one most recently added. It iterates through all the rows in the data recordset and then, for each row, iterates through all the columns in that row. The code displays the information returned in the Immediate window.
 
 Before running this macro, create at least one data recordset in the current document.
 

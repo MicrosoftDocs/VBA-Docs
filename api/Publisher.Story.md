@@ -31,7 +31,7 @@ Sub AddTextToStory()
 End Sub
 ```
 
-Use  **Stories** (index), where index is the number of the story, to return an individual **Story** object. This example determines if the first story in the active publication has a text frame and, if it does, formats the paragraphs in the story with a half inch first line indent and a six-point spacing before each paragraph.
+Use  **Stories** (_index_), where _index_ is the number of the story, to return an individual **Story** object. This example determines if the first story in the active publication has a text frame and, if it does, formats the paragraphs in the story with a half inch first line indent and a six-point spacing before each paragraph.
 
 
 
@@ -52,17 +52,19 @@ End Sub
 
 ## Properties
 
+- [Application](Publisher.Story.Application.md)
+- [HasTable](Publisher.Story.HasTable.md)
+- [HasTextFrame](Publisher.Story.HasTextFrame.md)
+- [Parent](Publisher.Story.Parent.md)
+- [Table](Publisher.Story.Table.md)
+- [TextFrame](Publisher.Story.TextFrame.md)
+- [TextRange](Publisher.Story.TextRange.md)
+- [Type](Publisher.Story.Type.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](./Publisher.Story.Application.md)|
-|[HasTable](./Publisher.Story.HasTable.md)|
-|[HasTextFrame](./Publisher.Story.HasTextFrame.md)|
-|[Parent](./Publisher.Story.Parent.md)|
-|[Table](./Publisher.Story.Table.md)|
-|[TextFrame](./Publisher.Story.TextFrame.md)|
-|[TextRange](./Publisher.Story.TextRange.md)|
-|[Type](./Publisher.Story.Type.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

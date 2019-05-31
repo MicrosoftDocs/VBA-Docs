@@ -67,23 +67,21 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[ScrollShapeIntoView](Publisher.View.ScrollShapeIntoView.md)|
-|[ZoomIn](Publisher.View.ZoomIn.md)|
-|[ZoomOut](Publisher.View.ZoomOut.md)|
+- [ScrollShapeIntoView](Publisher.View.ScrollShapeIntoView.md)
+- [ZoomIn](Publisher.View.ZoomIn.md)
+- [ZoomOut](Publisher.View.ZoomOut.md)
 
 ## Properties
 
+- [ActivePage](Publisher.View.ActivePage.md)
+- [Application](Publisher.View.Application.md)
+- [Parent](Publisher.View.Parent.md)
+- [Zoom](Publisher.View.Zoom.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[ActivePage](Publisher.View.ActivePage.md)|
-|[Application](Publisher.View.Application.md)|
-|[Parent](Publisher.View.Parent.md)|
-|[Zoom](Publisher.View.Zoom.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

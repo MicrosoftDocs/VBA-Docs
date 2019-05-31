@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.FreeformBuilder
 ms.assetid: 542df9f7-f636-a98e-01de-11005b5797cc
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
@@ -16,14 +16,15 @@ localization_priority: Normal
 
 Represents the geometry of a freeform while it is being built.
  
+## Remarks
 
+Use the **[BuildFreeform](Publisher.Shapes.BuildFreeform.md)** method of the **Shapes** collection to return a **FreeformBuilder** object.
+
+Use the **AddNodes** method to add nodes to the freeform. Use the **ConvertToShape** method to create the shape defined in the **FreeformBuilder** object and add it to the **Shapes** collection. 
 
 ## Example
 
-Use the  **[BuildFreeform](Publisher.Shapes.BuildFreeform.md)** method of the **[Shapes](Publisher.Shapes.md)** collection to return a **FreeformBuilder** object. Use the **[AddNodes](Publisher.FreeformBuilder.AddNodes.md)** method to add nodes to the freeform. Use the **[ConvertToShape](Publisher.FreeformBuilder.ConvertToShape.md)** method to create the shape defined in the **FreeformBuilder** object and add it to the **Shapes** collection. The following example adds a freeform with four segments to the active document.
- 
-
- 
+The following example adds a freeform with four segments to the active document.
 
 ```vb
 Sub CreateNewFreeFormShape() 
@@ -46,20 +47,18 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[AddNodes](Publisher.FreeformBuilder.AddNodes.md)|
-|[ConvertToShape](Publisher.FreeformBuilder.ConvertToShape.md)|
+- [AddNodes](Publisher.FreeformBuilder.AddNodes.md)
+- [ConvertToShape](Publisher.FreeformBuilder.ConvertToShape.md)
 
 ## Properties
 
+- [Application](Publisher.FreeformBuilder.Application.md)
+- [Parent](Publisher.FreeformBuilder.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.FreeformBuilder.Application.md)|
-|[Parent](Publisher.FreeformBuilder.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

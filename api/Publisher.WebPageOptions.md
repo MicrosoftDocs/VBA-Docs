@@ -45,26 +45,24 @@ End With
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[SetBackgroundSoundRepeat](Publisher.WebPageOptions.SetBackgroundSoundRepeat.md)|
+- [SetBackgroundSoundRepeat](Publisher.WebPageOptions.SetBackgroundSoundRepeat.md)
 
 ## Properties
 
+- [Application](Publisher.WebPageOptions.Application.md)
+- [BackgroundSound](Publisher.WebPageOptions.BackgroundSound.md)
+- [BackgroundSoundLoopCount](Publisher.WebPageOptions.BackgroundSoundLoopCount.md)
+- [BackgroundSoundLoopForever](Publisher.WebPageOptions.BackgroundSoundLoopForever.md)
+- [Description](Publisher.WebPageOptions.Description.md)
+- [IncludePageOnNewWebNavigationBars](Publisher.WebPageOptions.IncludePageOnNewWebNavigationBars.md)
+- [Keywords](Publisher.WebPageOptions.Keywords.md)
+- [Parent](Publisher.WebPageOptions.Parent.md)
+- [PublishFileName](Publisher.WebPageOptions.PublishFileName.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.WebPageOptions.Application.md)|
-|[BackgroundSound](Publisher.WebPageOptions.BackgroundSound.md)|
-|[BackgroundSoundLoopCount](Publisher.WebPageOptions.BackgroundSoundLoopCount.md)|
-|[BackgroundSoundLoopForever](Publisher.WebPageOptions.BackgroundSoundLoopForever.md)|
-|[Description](Publisher.WebPageOptions.Description.md)|
-|[IncludePageOnNewWebNavigationBars](Publisher.WebPageOptions.IncludePageOnNewWebNavigationBars.md)|
-|[Keywords](Publisher.WebPageOptions.Keywords.md)|
-|[Parent](Publisher.WebPageOptions.Parent.md)|
-|[PublishFileName](Publisher.WebPageOptions.PublishFileName.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

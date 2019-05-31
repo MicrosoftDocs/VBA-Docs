@@ -22,18 +22,9 @@ Represents base text with supplementary text appearing above it as a guide to pr
 
 Use the  **PhoneticGuide** property of a **Field** object to return an existing **PhoneticGuide** object. Use the **AddPhoneticGuide** method of a **Fields** collection to create a new **PhoneticGuide** object.
  
-
- 
-
- 
-
  
 The following example adds a new  **PhoneticGuide** object to the active publication.
  
-
- 
-
-
 
 ```vb
 Selection.TextRange.Fields.AddPhoneticGuide _ 
@@ -45,25 +36,23 @@ Selection.TextRange.Fields.AddPhoneticGuide _
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Clear](Publisher.PhoneticGuide.Clear.md)|
+- [Clear](Publisher.PhoneticGuide.Clear.md)
 
 ## Properties
 
+- [Alignment](Publisher.PhoneticGuide.Alignment.md)
+- [Application](Publisher.PhoneticGuide.Application.md)
+- [BaseText](Publisher.PhoneticGuide.BaseText.md)
+- [FontName](Publisher.PhoneticGuide.FontName.md)
+- [FontSize](Publisher.PhoneticGuide.FontSize.md)
+- [Parent](Publisher.PhoneticGuide.Parent.md)
+- [Raise](Publisher.PhoneticGuide.Raise.md)
+- [Text](Publisher.PhoneticGuide.Text.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Alignment](Publisher.PhoneticGuide.Alignment.md)|
-|[Application](Publisher.PhoneticGuide.Application.md)|
-|[BaseText](Publisher.PhoneticGuide.BaseText.md)|
-|[FontName](Publisher.PhoneticGuide.FontName.md)|
-|[FontSize](Publisher.PhoneticGuide.FontSize.md)|
-|[Parent](Publisher.PhoneticGuide.Parent.md)|
-|[Raise](Publisher.PhoneticGuide.Raise.md)|
-|[Text](Publisher.PhoneticGuide.Text.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

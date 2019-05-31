@@ -63,21 +63,19 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Publisher.Tag.Delete.md)|
+- [Delete](Publisher.Tag.Delete.md)
 
 ## Properties
 
+- [Application](Publisher.Tag.Application.md)
+- [Name](Publisher.Tag.Name.md)
+- [Parent](Publisher.Tag.Parent.md)
+- [Value](Publisher.Tag.Value.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.Tag.Application.md)|
-|[Name](Publisher.Tag.Name.md)|
-|[Parent](Publisher.Tag.Parent.md)|
-|[Value](Publisher.Tag.Value.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

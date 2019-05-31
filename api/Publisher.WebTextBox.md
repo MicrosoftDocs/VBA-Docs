@@ -41,16 +41,18 @@ End Sub
 
 ## Properties
 
+- [Application](Publisher.WebTextBox.Application.md)
+- [DefaultText](Publisher.WebTextBox.DefaultText.md)
+- [EchoAsterisks](Publisher.WebTextBox.EchoAsterisks.md)
+- [Limit](Publisher.WebTextBox.Limit.md)
+- [Parent](Publisher.WebTextBox.Parent.md)
+- [RequiredControl](Publisher.WebTextBox.RequiredControl.md)
+- [ReturnDataLabel](Publisher.WebTextBox.ReturnDataLabel.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.WebTextBox.Application.md)|
-|[DefaultText](Publisher.WebTextBox.DefaultText.md)|
-|[EchoAsterisks](Publisher.WebTextBox.EchoAsterisks.md)|
-|[Limit](Publisher.WebTextBox.Limit.md)|
-|[Parent](Publisher.WebTextBox.Parent.md)|
-|[RequiredControl](Publisher.WebTextBox.RequiredControl.md)|
-|[ReturnDataLabel](Publisher.WebTextBox.ReturnDataLabel.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

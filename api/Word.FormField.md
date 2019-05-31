@@ -19,7 +19,7 @@ Represents a single form field. The  **FormField** object is a member of the **F
 
 ## Remarks
 
-Use  **FormFields** (index), where index is a bookmark name or index number, to return a single **FormField** object. The following example sets the result of the Text1 form field to "Don Funk."
+Use  **FormFields** (_index_), where _index_ is a bookmark name or index number, to return a single **FormField** object. The following example sets the result of the Text1 form field to "Don Funk."
 
 
 ```vb

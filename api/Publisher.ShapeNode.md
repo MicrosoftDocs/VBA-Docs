@@ -20,7 +20,7 @@ Represents the geometry and the geometry-editing properties of the nodes in a us
 
 ## Example
 
-Use  **Nodes** (index), where index is the node index number, to return a single **ShapeNode** object. If node one in shape three on the active document is a corner point, the following example makes it a smooth point. For this example to work, shape one must be a freeform.
+Use  **Nodes** (_index_), where _index_ is the node index number, to return a single **ShapeNode** object. If node one in shape three on the active document is a corner point, the following example makes it a smooth point. For this example to work, shape one must be a freeform.
  
 
  
@@ -38,14 +38,16 @@ End Sub
 
 ## Properties
 
+- [Application](Publisher.ShapeNode.Application.md)
+- [EditingType](Publisher.ShapeNode.EditingType.md)
+- [Parent](Publisher.ShapeNode.Parent.md)
+- [Points](Publisher.ShapeNode.Points.md)
+- [SegmentType](Publisher.ShapeNode.SegmentType.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.ShapeNode.Application.md)|
-|[EditingType](Publisher.ShapeNode.EditingType.md)|
-|[Parent](Publisher.ShapeNode.Parent.md)|
-|[Points](Publisher.ShapeNode.Points.md)|
-|[SegmentType](Publisher.ShapeNode.SegmentType.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

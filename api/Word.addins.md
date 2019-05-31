@@ -45,7 +45,7 @@ To install an add-in shown in the list of available add-ins, use the  **Installe
 AddIns("Letter.dot").Installed = True
 ```
 
-Use  **AddIns** (index), where index is the add-in name or index number, to return a single **[AddIn](Word.AddIn.md)** object. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown in the **Templates and Add-ins** dialog box. To install an add-in shown in the list of available add-ins, use the **Installed** property. The following example loads the Letter.dot template as a global template.
+Use  **AddIns** (_index_), where _index_ is the add-in name or index number, to return a single **[AddIn](Word.AddIn.md)** object. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown in the **Templates and Add-ins** dialog box. To install an add-in shown in the list of available add-ins, use the **Installed** property. The following example loads the Letter.dot template as a global template.
 
 
 

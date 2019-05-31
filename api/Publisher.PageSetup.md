@@ -19,7 +19,7 @@ Contains information about the page setup for the pages in a publication.
 
 ## Example
 
-Use the  **[PageSetup](./Publisher.Document.PageSetup.md)** property to return the **PageSetup** object. The following example sets all pages in the active publication to be 8.5 inches wide and 11 inches high.
+Use the  **[PageSetup](Publisher.Document.PageSetup.md)** property to return the **PageSetup** object. The following example sets all pages in the active publication to be 8.5 inches wide and 11 inches high.
 
 
 ```vb
@@ -34,20 +34,22 @@ End Sub
 
 ## Properties
 
+- [Application](Publisher.PageSetup.Application.md)
+- [AvailablePageSizes](Publisher.PageSetup.AvailablePageSizes.md)
+- [HorizontalGap](Publisher.PageSetup.HorizontalGap.md)
+- [LeftMargin](Publisher.PageSetup.LeftMargin.md)
+- [PageHeight](Publisher.PageSetup.PageHeight.md)
+- [PageSize](Publisher.PageSetup.PageSize.md)
+- [PageWidth](Publisher.PageSetup.PageWidth.md)
+- [Parent](Publisher.PageSetup.Parent.md)
+- [PublicationLayout](Publisher.pagesetup.publicationlayout.md)
+- [TopMargin](Publisher.PageSetup.TopMargin.md)
+- [VerticalGap](Publisher.PageSetup.VerticalGap.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](./Publisher.PageSetup.Application.md)|
-|[AvailablePageSizes](./Publisher.PageSetup.AvailablePageSizes.md)|
-|[HorizontalGap](./Publisher.PageSetup.HorizontalGap.md)|
-|[LeftMargin](./Publisher.PageSetup.LeftMargin.md)|
-|[PageHeight](./Publisher.PageSetup.PageHeight.md)|
-|[PageSize](./Publisher.PageSetup.PageSize.md)|
-|[PageWidth](./Publisher.PageSetup.PageWidth.md)|
-|[Parent](./Publisher.PageSetup.Parent.md)|
-|[PublicationLayout](./Publisher.pagesetup.publicationlayout.md)|
-|[TopMargin](./Publisher.PageSetup.TopMargin.md)|
-|[VerticalGap](./Publisher.PageSetup.VerticalGap.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

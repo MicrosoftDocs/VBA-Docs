@@ -20,7 +20,7 @@ Represents a row in a table. The  **Row** object is a member of the **[Rows](Pub
 
 ## Example
 
-Use  **Rows** (index), where index is the row number, to return a single **Row** object. The index number represents the position of the row in the **Rows** collection (counting from left to right). This example selects the first row in the first shape on the second of the active publication. This example assumes the specified shape is a table and not another type of shape.
+Use  **Rows** (_index_), where _index_ is the row number, to return a single **Row** object. The index number represents the position of the row in the **Rows** collection (counting from left to right). This example selects the first row in the first shape on the second of the active publication. This example assumes the specified shape is a table and not another type of shape.
  
 
  
@@ -97,21 +97,19 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Publisher.Row.Delete.md)|
+- [Delete](Publisher.Row.Delete.md)
 
 ## Properties
 
+- [Application](Publisher.Row.Application.md)
+- [Cells](Publisher.Row.Cells.md)
+- [Height](Publisher.Row.Height.md)
+- [Parent](Publisher.Row.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.Row.Application.md)|
-|[Cells](Publisher.Row.Cells.md)|
-|[Height](Publisher.Row.Height.md)|
-|[Parent](Publisher.Row.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

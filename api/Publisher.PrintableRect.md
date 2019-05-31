@@ -58,15 +58,17 @@ End Sub
 
 ## Properties
 
+- [Application](Publisher.PrintableRect.Application.md)
+- [Height](Publisher.PrintableRect.Height.md)
+- [Left](Publisher.PrintableRect.Left.md)
+- [Parent](Publisher.PrintableRect.Parent.md)
+- [Top](Publisher.PrintableRect.Top.md)
+- [Width](Publisher.PrintableRect.Width.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.PrintableRect.Application.md)|
-|[Height](Publisher.PrintableRect.Height.md)|
-|[Left](Publisher.PrintableRect.Left.md)|
-|[Parent](Publisher.PrintableRect.Parent.md)|
-|[Top](Publisher.PrintableRect.Top.md)|
-|[Width](Publisher.PrintableRect.Width.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

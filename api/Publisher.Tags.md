@@ -63,21 +63,19 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Publisher.Tags.Add.md)|
-|[Item](Publisher.Tags.Item.md)|
+- [Add](Publisher.Tags.Add.md)
+- [Item](Publisher.Tags.Item.md)
 
 ## Properties
 
+- [Application](Publisher.Tags.Application.md)
+- [Count](Publisher.Tags.Count.md)
+- [Parent](Publisher.Tags.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.Tags.Application.md)|
-|[Count](Publisher.Tags.Count.md)|
-|[Parent](Publisher.Tags.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

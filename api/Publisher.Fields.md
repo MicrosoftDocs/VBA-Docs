@@ -7,30 +7,26 @@ ms.prod: publisher
 api_name:
 - Publisher.Fields
 ms.assetid: fd7c95d9-bc34-95ee-180d-b99f3629eb33
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
 
 # Fields object (Publisher)
 
-A collection of  **[Field](Publisher.Field.md)** objects that represent all the fields in a text range.
+A collection of **[Field](Publisher.Field.md)** objects that represent all the fields in a text range.
  
-
 
 ## Remarks
 
-The  **[Count](Publisher.Fields.Count.md)** property for this collection in a publication returns the number of items in a specified shape or selection.
+The **Count** property for this collection in a publication returns the number of items in a specified shape or selection.
  
-
+Use the **[TextRange.Fields](Publisher.TextRange.Fields.md)** property to return the **Fields** collection. Use **Fields** (_index_), where _index_ is the index number, to return a single **Field** object. The index number represents the position of the field in the selection, range, or publication. 
  
 
 ## Example
 
-Use the  **[Fields](Publisher.TextRange.Fields.md)** property to return the **Fields** collection. Use **Fields** (index), where index is the index number, to return a single **Field** object. The index number represents the position of the field in the selection, range, or publication. The following example displays the field code and the result of the first field in each text box in the active publication.
- 
-
- 
+The following example displays the field code and the result of the first field in each text box in the active publication.
 
 ```vb
 Sub ShowFieldCodes() 
@@ -55,23 +51,21 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[AddHorizontalInVertical](Publisher.Fields.AddHorizontalInVertical.md)|
-|[AddPhoneticGuide](Publisher.Fields.AddPhoneticGuide.md)|
-|[Item](Publisher.Fields.Item.md)|
-|[Unlink](Publisher.Fields.Unlink.md)|
+- [AddHorizontalInVertical](Publisher.Fields.AddHorizontalInVertical.md)
+- [AddPhoneticGuide](Publisher.Fields.AddPhoneticGuide.md)
+- [Item](Publisher.Fields.Item.md)
+- [Unlink](Publisher.Fields.Unlink.md)
 
 ## Properties
 
+- [Application](Publisher.Fields.Application.md)
+- [Count](Publisher.Fields.Count.md)
+- [Parent](Publisher.Fields.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.Fields.Application.md)|
-|[Count](Publisher.Fields.Count.md)|
-|[Parent](Publisher.Fields.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

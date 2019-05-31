@@ -18,7 +18,7 @@ Resumes execution after an error-handling routine is finished.
 
 **Resume** [ **0** ]<br/>
 **Resume Next**<br/>
-**Resume**_line_
+**Resume** _line_
 
 <br/>
 
@@ -28,7 +28,7 @@ The **Resume** statement syntax can have any of the following forms:
 |:-----|:-----|
 |**Resume**|If the error occurred in the same [procedure](../../Glossary/vbe-glossary.md#procedure) as the error handler, execution resumes with the statement that caused the error. If the error occurred in a called procedure, execution resumes at the [statement](../../Glossary/vbe-glossary.md#statement) that last called out of the procedure containing the error-handling routine.|
 |**Resume Next**|If the error occurred in the same procedure as the error handler, execution resumes with the statement immediately following the statement that caused the error. If the error occurred in a called procedure, execution resumes with the statement immediately following the statement that last called out of the procedure containing the error-handling routine (or the **[On Error Resume Next](on-error-statement.md)** statement).|
-|**Resume**_line_|Execution resumes at the _line_ specified in the required _line_ [argument](../../Glossary/vbe-glossary.md#argument). The _line_ argument is a [line label](../../Glossary/vbe-glossary.md#line-label) or [line number](../../Glossary/vbe-glossary.md#line-number) and must be in the same procedure as the error handler.|
+|**Resume** _line_|Execution resumes at the _line_ specified in the required _line_ [argument](../../Glossary/vbe-glossary.md#argument). The _line_ argument is a [line label](../../Glossary/vbe-glossary.md#line-label) or [line number](../../Glossary/vbe-glossary.md#line-number) and must be in the same procedure as the error handler.|
 
 
 ## Remarks

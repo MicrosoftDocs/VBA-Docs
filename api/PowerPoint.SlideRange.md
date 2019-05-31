@@ -50,7 +50,7 @@ The following examples describe how to:
 
 ## Example
 
-Use  **Slides.Range** (index), where index is the name or index number of the slide or an array that contains either names or index numbers of slides, to return a **SlideRange** collection that represents a set of slides in a presentation. You can use the **Array** function to construct an array of names or index numbers. The following example sets the background fill for slides one and three in the active presentation.
+Use  **Slides.Range** (_index_), where _index_ is the name or index number of the slide or an array that contains either names or index numbers of slides, to return a **SlideRange** collection that represents a set of slides in a presentation. You can use the **Array** function to construct an array of names or index numbers. The following example sets the background fill for slides one and three in the active presentation.
 
 
 ```vb
@@ -95,7 +95,7 @@ With Windows(1).Selection.SlideRange
 End With
 ```
 
-Use  **Selection.SlideRange** (index), where index is the slide name or index number, to return a single slide from the selection. The following example sets the background fill for slide two in the collection of selected slides in window one, assuming that there are at least two slides selected.
+Use  **Selection.SlideRange** (_index_), where _index_ is the slide name or index number, to return a single slide from the selection. The following example sets the background fill for slide two in the collection of selected slides in window one, assuming that there are at least two slides selected.
 
 
 

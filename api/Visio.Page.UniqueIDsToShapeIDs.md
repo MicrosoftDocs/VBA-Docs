@@ -56,7 +56,7 @@ If a  **Shape** object has a unique ID, no other shape in any other document wil
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **UniqueIDsToShapeIDs** method to determine the shape IDs of the shapes on the page passed to the method as unique IDs. It iterates through all the shapes on the active drawing page, using the **UniqueID** property of each shape to get the unique IDs of the shapes. Then it passes those unique IDs to the **UniqueIDsToShapeIDs** method to return the shape IDs of the shapes. It prints the unique IDs and shape IDs to the **Immediate** window.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **UniqueIDsToShapeIDs** method to determine the shape IDs of the shapes on the page passed to the method as unique IDs. It iterates through all the shapes on the active drawing page, using the **UniqueID** property of each shape to get the unique IDs of the shapes. Then it passes those unique IDs to the **UniqueIDsToShapeIDs** method to return the shape IDs of the shapes. It prints the unique IDs and shape IDs to the Immediate window.
 
 Before running this macro, open a Visio drawing and place several shapes on the active drawing page.
 

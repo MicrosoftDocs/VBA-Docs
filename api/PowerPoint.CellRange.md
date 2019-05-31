@@ -46,7 +46,7 @@ This example returns the number of cells in row one of the selected table.
 num = ActiveWindow.Selection.ShapeRange.Table.Rows(1).Cells.Count
 ```
 
-Use  **Cell** (row, column), where row is the row number and column is the column number, or **Cells** (index), where index is the number of the cell in the specified row or column, to return a single **Cell** object. Cells are numbered from left to right in rows and from top to bottom in columns. With right-to-left language settings, this scheme is reversed. The example below merges the first two cells in row one of the table in shape five on slide two.
+Use  **Cell** (row, column), where row is the row number and column is the column number, or **Cells** (_index_), where _index_ is the number of the cell in the specified row or column, to return a single **Cell** object. Cells are numbered from left to right in rows and from top to bottom in columns. With right-to-left language settings, this scheme is reversed. The example below merges the first two cells in row one of the table in shape five on slide two.
 
 
 

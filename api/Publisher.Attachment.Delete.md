@@ -37,7 +37,7 @@ To delete all attachments to the current email merge message, use the  **[ClearA
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to delete an attachment to the message in an email merge. The code deletes the attachment at the first index position in the  **Attachments** collection and then prints the name of the deleted attachment and the number of current attachments to the message in the **Immediate** window.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to delete an attachment to the message in an email merge. The code deletes the attachment at the first index position in the  **Attachments** collection and then prints the name of the deleted attachment and the number of current attachments to the message in the Immediate window.
 
 Before running this code, ensure that there is at least one attachment to the current email merge message.
 

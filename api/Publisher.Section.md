@@ -45,24 +45,22 @@ Set objSection = ActiveDocument.Sections.Add(StartPageIndex:=2)
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Publisher.Section.Delete.md)|
+- [Delete](Publisher.Section.Delete.md)
 
 ## Properties
 
+- [Application](Publisher.Section.Application.md)
+- [ContinueNumbersFromPreviousSection](Publisher.Section.ContinueNumbersFromPreviousSection.md)
+- [PageNumberFormat](Publisher.Section.PageNumberFormat.md)
+- [PageNumberStart](Publisher.Section.PageNumberStart.md)
+- [Parent](Publisher.Section.Parent.md)
+- [ShowHeaderFooterOnFirstPage](Publisher.Section.ShowHeaderFooterOnFirstPage.md)
+- [StartPageIndex](Publisher.Section.StartPageIndex.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.Section.Application.md)|
-|[ContinueNumbersFromPreviousSection](Publisher.Section.ContinueNumbersFromPreviousSection.md)|
-|[PageNumberFormat](Publisher.Section.PageNumberFormat.md)|
-|[PageNumberStart](Publisher.Section.PageNumberStart.md)|
-|[Parent](Publisher.Section.Parent.md)|
-|[ShowHeaderFooterOnFirstPage](Publisher.Section.ShowHeaderFooterOnFirstPage.md)|
-|[StartPageIndex](Publisher.Section.StartPageIndex.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -46,18 +46,20 @@ End Sub
 
 ## Properties
 
+- [Application](Publisher.WrapFormat.Application.md)
+- [DistanceAuto](Publisher.WrapFormat.DistanceAuto.md)
+- [DistanceBottom](Publisher.WrapFormat.DistanceBottom.md)
+- [DistanceLeft](Publisher.WrapFormat.DistanceLeft.md)
+- [DistanceRight](Publisher.WrapFormat.DistanceRight.md)
+- [DistanceTop](Publisher.WrapFormat.DistanceTop.md)
+- [Parent](Publisher.WrapFormat.Parent.md)
+- [Side](Publisher.WrapFormat.Side.md)
+- [Type](Publisher.WrapFormat.Type.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.WrapFormat.Application.md)|
-|[DistanceAuto](Publisher.WrapFormat.DistanceAuto.md)|
-|[DistanceBottom](Publisher.WrapFormat.DistanceBottom.md)|
-|[DistanceLeft](Publisher.WrapFormat.DistanceLeft.md)|
-|[DistanceRight](Publisher.WrapFormat.DistanceRight.md)|
-|[DistanceTop](Publisher.WrapFormat.DistanceTop.md)|
-|[Parent](Publisher.WrapFormat.Parent.md)|
-|[Side](Publisher.WrapFormat.Side.md)|
-|[Type](Publisher.WrapFormat.Type.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

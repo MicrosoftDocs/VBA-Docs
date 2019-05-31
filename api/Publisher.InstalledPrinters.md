@@ -7,34 +7,26 @@ ms.prod: publisher
 api_name:
 - Publisher.InstalledPrinters
 ms.assetid: 8cf9b194-70bc-7963-6a08-d08401d4b6f3
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
 
 # InstalledPrinters object (Publisher)
 
-Represents the collection of all  **Printer** objects, each of which represents one of the printers installed on the computer.
+Represents the collection of all **[Printer](publisher.printer.md)** objects, each of which represents one of the printers installed on the computer.
  
-
 
 ## Remarks
 
-To provide the user a choice of printers to print a publication, you can iterate through the  **InstalledPrinters** collection to get a list of the names of all the printers installed on the computer, as shown in the following example.
- 
+To provide the user with a choice of printers to print a publication, you can iterate through the **InstalledPrinters** collection to get a list of the names of all the printers installed on the computer.
 
- 
-The default property of the  **InstalledPrinters** collection is **Item**.
- 
-
+The default property of the **InstalledPrinters** collection is **Item**.
  
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how you can use the  **[PrinterName](Publisher.Printer.PrinterName.md)** and **[IsActivePrinter](Publisher.Printer.IsActivePrinter.md)** properties of the **Printer** object to get a list of all the installed printers on the computer and to determine which of them is currently the active printer.
- 
-
- 
+The following Microsoft Visual Basic for Applications (VBA) macro shows how you can use the **[PrinterName](Publisher.Printer.PrinterName.md)** and **[IsActivePrinter](Publisher.Printer.IsActivePrinter.md)** properties of the **Printer** object to get a list of all the installed printers on the computer and to determine which of them is currently the active printer.
 
 ```vb
 Public Sub InstalledPrinters_Example() 
@@ -60,13 +52,15 @@ End Sub
 
 ## Properties
 
+- [Application](Publisher.InstalledPrinters.Application.md)
+- [Count](Publisher.InstalledPrinters.Count.md)
+- [Item](Publisher.InstalledPrinters.Item.md)
+- [Parent](Publisher.InstalledPrinters.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.InstalledPrinters.Application.md)|
-|[Count](Publisher.InstalledPrinters.Count.md)|
-|[Item](Publisher.InstalledPrinters.Item.md)|
-|[Parent](Publisher.InstalledPrinters.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

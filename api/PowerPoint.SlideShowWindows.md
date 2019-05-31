@@ -19,7 +19,7 @@ A collection of all the  **[SlideShowWindow](PowerPoint.SlideShowWindow.md)** ob
 
 ## Example
 
-Use the [SlideShowWindows](PowerPoint.Application.SlideShowWindows.md)property to return the  **SlideShowWindows** collection. Use **SlideShowWindows** (index), where index is the window index number, to return a single **SlideShowWindow** object. The following example reduces the height of slide show window one if it is a full-screen window.
+Use the [SlideShowWindows](PowerPoint.Application.SlideShowWindows.md)property to return the  **SlideShowWindows** collection. Use **SlideShowWindows** (_index_), where _index_ is the window index number, to return a single **SlideShowWindow** object. The following example reduces the height of slide show window one if it is a full-screen window.
 
 
 ```vb

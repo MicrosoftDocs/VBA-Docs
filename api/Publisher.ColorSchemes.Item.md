@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ColorSchemes.Item property (Publisher)
 
-Returns the specified  **[ColorScheme](Publisher.ColorScheme.md)** object from a **ColorSchemes** collection. Read-only.
+Returns the specified **[ColorScheme](Publisher.ColorScheme.md)** object from a **ColorSchemes** collection. Read-only.
 
 
 ## Syntax
@@ -26,21 +26,18 @@ _expression_ A variable that represents a **[ColorSchemes](Publisher.ColorScheme
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|_Index_|Required| **Variant**|The color scheme to return. Can be either the name of the color scheme as a string or the corresponding  **PbColorScheme** constant.|
+|_Index_|Required| **Variant**|The color scheme to return. Can be either the name of the color scheme as a string or the corresponding **[PbColorScheme](publisher.pbcolorscheme.md)** constant.|
 
 ## Remarks
 
-The  **Item** property value can be one of the **[PbColorScheme](Publisher.PbColorScheme.md)** constants declared in the Microsoft Publisher type library.
+The **Item** property value can be one of the **PbColorScheme** constants declared in the Microsoft Publisher type library.
 
 
 ## Example
 
 This example sets the color scheme of the active publication to the Aqua color scheme.
-
 
 ```vb
 ActiveDocument.ColorScheme = ColorSchemes.Item(Index:=pbColorSchemeAqua)

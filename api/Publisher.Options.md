@@ -19,7 +19,7 @@ Represents application and publication options in Microsoft Publisher. Many of t
 
 ## Example
 
-Use the  **[Options](./Publisher.Application.Options.md)** property to return the **Options** object. The following example sets four application options for Publisher.
+Use the  **[Options](Publisher.Application.Options.md)** property to return the **Options** object. The following example sets four application options for Publisher.
 
 
 ```vb
@@ -36,43 +36,41 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[ResetTips](./Publisher.Options.ResetTips.md)|
-|[ResetWizardSynchronizing](./Publisher.Options.ResetWizardSynchronizing.md)|
+- [ResetTips](Publisher.Options.ResetTips.md)
+- [ResetWizardSynchronizing](Publisher.Options.ResetWizardSynchronizing.md)
 
 ## Properties
 
+- [AddHebDoubleQuote](Publisher.Options.AddHebDoubleQuote.md)
+- [AllowBackgroundSave](Publisher.Options.AllowBackgroundSave.md)
+- [Application](Publisher.Options.Application.md)
+- [AutoFormatWord](Publisher.Options.AutoFormatWord.md)
+- [AutoHyphenate](Publisher.Options.AutoHyphenate.md)
+- [AutoKeyboardSwitching](Publisher.Options.AutoKeyboardSwitching.md)
+- [AutoSelectWord](Publisher.Options.AutoSelectWord.md)
+- [DefaultPubDirection](Publisher.Options.DefaultPubDirection.md)
+- [DefaultTextFlowDirection](Publisher.Options.DefaultTextFlowDirection.md)
+- [DisplayStatusBar](Publisher.Options.DisplayStatusBar.md)
+- [DragAndDropText](Publisher.Options.DragAndDropText.md)
+- [HyphenationZone](Publisher.Options.HyphenationZone.md)
+- [MeasurementUnit](Publisher.Options.MeasurementUnit.md)
+- [Parent](Publisher.Options.Parent.md)
+- [PathForPictures](Publisher.Options.PathForPictures.md)
+- [PathForPublications](Publisher.Options.PathForPublications.md)
+- [SaveAutoRecoverInfo](Publisher.Options.SaveAutoRecoverInfo.md)
+- [SaveAutoRecoverInfoInterval](Publisher.Options.SaveAutoRecoverInfoInterval.md)
+- [SequenceCheck](Publisher.Options.SequenceCheck.md)
+- [ShowBasicColors](Publisher.Options.ShowBasicColors.md)
+- [ShowScreenTipsOnObjects](Publisher.Options.ShowScreenTipsOnObjects.md)
+- [ShowTipPages](Publisher.Options.ShowTipPages.md)
+- [TypeNReplace](Publisher.Options.TypeNReplace.md)
+- [UseCatalogAtStartup](Publisher.Options.UseCatalogAtStartup.md)
+- [UseWizardForBlankPublication](Publisher.Options.UseWizardForBlankPublication.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[AddHebDoubleQuote](./Publisher.Options.AddHebDoubleQuote.md)|
-|[AllowBackgroundSave](./Publisher.Options.AllowBackgroundSave.md)|
-|[Application](./Publisher.Options.Application.md)|
-|[AutoFormatWord](./Publisher.Options.AutoFormatWord.md)|
-|[AutoHyphenate](./Publisher.Options.AutoHyphenate.md)|
-|[AutoKeyboardSwitching](./Publisher.Options.AutoKeyboardSwitching.md)|
-|[AutoSelectWord](./Publisher.Options.AutoSelectWord.md)|
-|[DefaultPubDirection](./Publisher.Options.DefaultPubDirection.md)|
-|[DefaultTextFlowDirection](./Publisher.Options.DefaultTextFlowDirection.md)|
-|[DisplayStatusBar](./Publisher.Options.DisplayStatusBar.md)|
-|[DragAndDropText](./Publisher.Options.DragAndDropText.md)|
-|[HyphenationZone](./Publisher.Options.HyphenationZone.md)|
-|[MeasurementUnit](./Publisher.Options.MeasurementUnit.md)|
-|[Parent](./Publisher.Options.Parent.md)|
-|[PathForPictures](./Publisher.Options.PathForPictures.md)|
-|[PathForPublications](./Publisher.Options.PathForPublications.md)|
-|[SaveAutoRecoverInfo](./Publisher.Options.SaveAutoRecoverInfo.md)|
-|[SaveAutoRecoverInfoInterval](./Publisher.Options.SaveAutoRecoverInfoInterval.md)|
-|[SequenceCheck](./Publisher.Options.SequenceCheck.md)|
-|[ShowBasicColors](./Publisher.Options.ShowBasicColors.md)|
-|[ShowScreenTipsOnObjects](./Publisher.Options.ShowScreenTipsOnObjects.md)|
-|[ShowTipPages](./Publisher.Options.ShowTipPages.md)|
-|[TypeNReplace](./Publisher.Options.TypeNReplace.md)|
-|[UseCatalogAtStartup](./Publisher.Options.UseCatalogAtStartup.md)|
-|[UseWizardForBlankPublication](./Publisher.Options.UseWizardForBlankPublication.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,7 +26,7 @@ The collection of all the printers installed on your computer is represented by 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how you can use the  **PrinterName** and **IsActivePrinter** properties of the **Printer** object to get a list of all the installed printers on the computer, determine which of them is currently the active printer, and get some of the settings of the active printer. The macro displays the results in the **Immediate** window.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how you can use the  **PrinterName** and **IsActivePrinter** properties of the **Printer** object to get a list of all the installed printers on the computer, determine which of them is currently the active printer, and get some of the settings of the active printer. The macro displays the results in the Immediate window.
 
 
 ```vb
@@ -55,24 +55,26 @@ End Sub
 
 ## Properties
 
+- [Application](Publisher.Printer.Application.md)
+- [DriverType](Publisher.Printer.DriverType.md)
+- [Index](Publisher.Printer.Index.md)
+- [IsActivePrinter](Publisher.Printer.IsActivePrinter.md)
+- [IsColor](Publisher.Printer.IsColor.md)
+- [IsDuplex](Publisher.Printer.IsDuplex.md)
+- [PaperHeight](Publisher.Printer.PaperHeight.md)
+- [PaperOrientation](Publisher.Printer.PaperOrientation.md)
+- [PaperSize](Publisher.Printer.PaperSize.md)
+- [PaperSource](Publisher.Printer.PaperSource.md)
+- [PaperWidth](Publisher.Printer.PaperWidth.md)
+- [Parent](Publisher.Printer.Parent.md)
+- [PrintableRect](Publisher.Printer.PrintableRect.md)
+- [PrinterName](Publisher.Printer.PrinterName.md)
+- [PrintMode](Publisher.Printer.Printer.PrintMode.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](./Publisher.Printer.Application.md)|
-|[DriverType](./Publisher.Printer.DriverType.md)|
-|[Index](./Publisher.Printer.Index.md)|
-|[IsActivePrinter](./Publisher.Printer.IsActivePrinter.md)|
-|[IsColor](./Publisher.Printer.IsColor.md)|
-|[IsDuplex](./Publisher.Printer.IsDuplex.md)|
-|[PaperHeight](./Publisher.Printer.PaperHeight.md)|
-|[PaperOrientation](./Publisher.Printer.PaperOrientation.md)|
-|[PaperSize](./Publisher.Printer.PaperSize.md)|
-|[PaperSource](./Publisher.Printer.PaperSource.md)|
-|[PaperWidth](./Publisher.Printer.PaperWidth.md)|
-|[Parent](./Publisher.Printer.Parent.md)|
-|[PrintableRect](./Publisher.Printer.PrintableRect.md)|
-|[PrinterName](./Publisher.Printer.PrinterName.md)|
-|[PrintMode](./Publisher.Printer.Printer.PrintMode.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

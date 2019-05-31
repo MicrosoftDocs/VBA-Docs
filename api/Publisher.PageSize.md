@@ -24,7 +24,7 @@ The page size represented by the  **PageSize** object corresponds to one of the 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Name** property of the **PageSize** object to get a list of the names of all the page sizes available in the current document and print the list in the **Immediate** window.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Name** property of the **PageSize** object to get a list of the names of all the page sizes available in the current document and print the list in the Immediate window.
 
 
 ```vb
@@ -44,19 +44,21 @@ End Sub
 
 ## Properties
 
+- [Application](Publisher.PageSize.Application.md)
+- [HasBackgroundImage](Publisher.PageSize.HasBackgroundImage.md)
+- [HorizontalGap](Publisher.PageSize.HorizontalGap.md)
+- [LeftMargin](Publisher.PageSize.LeftMargin.md)
+- [Name](Publisher.PageSize.Name.md)
+- [PageHeight](Publisher.PageSize.PageHeight.md)
+- [PageWidth](Publisher.PageSize.PageWidth.md)
+- [Parent](Publisher.PageSize.Parent.md)
+- [TopMargin](Publisher.PageSize.TopMargin.md)
+- [VerticalGap](Publisher.PageSize.VerticalGap.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](./Publisher.PageSize.Application.md)|
-|[HasBackgroundImage](./Publisher.PageSize.HasBackgroundImage.md)|
-|[HorizontalGap](./Publisher.PageSize.HorizontalGap.md)|
-|[LeftMargin](./Publisher.PageSize.LeftMargin.md)|
-|[Name](./Publisher.PageSize.Name.md)|
-|[PageHeight](./Publisher.PageSize.PageHeight.md)|
-|[PageWidth](./Publisher.PageSize.PageWidth.md)|
-|[Parent](./Publisher.PageSize.Parent.md)|
-|[TopMargin](./Publisher.PageSize.TopMargin.md)|
-|[VerticalGap](./Publisher.PageSize.VerticalGap.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

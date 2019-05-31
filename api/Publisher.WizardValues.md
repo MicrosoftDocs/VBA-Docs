@@ -45,13 +45,15 @@ End With
 
 ## Properties
 
+- [Application](Publisher.WizardValues.Application.md)
+- [Count](Publisher.WizardValues.Count.md)
+- [Item](Publisher.WizardValues.Item.md)
+- [Parent](Publisher.WizardValues.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.WizardValues.Application.md)|
-|[Count](Publisher.WizardValues.Count.md)|
-|[Item](Publisher.WizardValues.Item.md)|
-|[Parent](Publisher.WizardValues.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

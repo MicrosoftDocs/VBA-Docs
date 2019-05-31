@@ -7,33 +7,29 @@ ms.prod: publisher
 api_name:
 - Publisher.CaptionStyles
 ms.assetid: 43978df8-0c1c-ab0b-deda-211fad29f5c2
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
 
 # CaptionStyles object (Publisher)
 
-Represents the collection of all 37 of the  **[CaptionStyle](Publisher.CaptionStyle.md)** objects available in Publisher.
+Represents the collection of all 37 **[CaptionStyle](Publisher.CaptionStyle.md)** objects available in Publisher.
  
-
-
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Item](Publisher.CaptionStyles.Item.md)|
+- [Item](Publisher.CaptionStyles.Item.md)
 
 ## Properties
 
+- [Application](Publisher.CaptionStyles.Application.md)
+- [Count](Publisher.CaptionStyles.Count.md)
+- [Parent](Publisher.CaptionStyles.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.CaptionStyles.Application.md)|
-|[Count](Publisher.CaptionStyles.Count.md)|
-|[Parent](Publisher.CaptionStyles.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

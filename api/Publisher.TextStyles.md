@@ -79,21 +79,19 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Publisher.TextStyles.Add.md)|
-|[Item](Publisher.TextStyles.Item.md)|
+- [Add](Publisher.TextStyles.Add.md)
+- [Item](Publisher.TextStyles.Item.md)
 
 ## Properties
 
+- [Application](Publisher.TextStyles.Application.md)
+- [Count](Publisher.TextStyles.Count.md)
+- [Parent](Publisher.TextStyles.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.TextStyles.Application.md)|
-|[Count](Publisher.TextStyles.Count.md)|
-|[Parent](Publisher.TextStyles.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

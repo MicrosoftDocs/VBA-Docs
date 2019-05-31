@@ -61,7 +61,7 @@ To get locale-independent themes in the document, use the  **[Document.GetThemeN
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **GetThemeNames** method to get the list of locale-specific theme color and theme effect names in the active document. It prints the list in the **Immediate** window.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **GetThemeNames** method to get the list of locale-specific theme color and theme effect names in the active document. It prints the list in the Immediate window.
 
 
 ```vb

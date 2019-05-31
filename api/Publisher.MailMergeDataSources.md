@@ -7,44 +7,29 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSources
 ms.assetid: 9eff8354-fbc3-7f55-ba6e-738a60f41259
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
 
 # MailMergeDataSources object (Publisher)
 
-Represents the collection of all  **MailMergeDataSource** objects in the active Microsoft Publisher document, each of which represents one of the data sources in a mail merge operation.
+Represents the collection of all **[MailMergeDataSource](Publisher.MailMergeDataSource.md)** objects in the active Microsoft Publisher document, each of which represents one of the data sources in a mail merge operation.
  
-
 
 ## Remarks
 
-The default member of the  **MailMergeDataSources** collection is the **Item** method, which returns the **MailMergeDataSource** object at the index position you specify.
- 
+The default member of the **MailMergeDataSources** collection is the **Item** method, which returns the **MailMergeDataSource** object at the index position that you specify.
 
- 
-If there is only a single  **MailMergeDataSource** object in the active document, the **MailMergeDataSources** collection is empty. In that case, if you attempt to get the value of the **DataSources** property of the **MailMergeDataSource** object, Publisher returns an error.
- 
-
- 
+If there is only a single **MailMergeDataSource** object in the active document, the **MailMergeDataSources** collection is empty. In that case, if you attempt to get the value of the **[DataSources](publisher.mailmergedatasource.datasources.md)** property of the **MailMergeDataSource** object, Publisher returns an error. 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to get the names of all the connected data sources in the  **MailMergeDataSources** collection in the active document. It uses the **IsDataSourceConnected** property of the active document to determine if a data source is connected.
- 
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to get the names of all the connected data sources in the **MailMergeDataSources** collection in the active document. It uses the **IsDataSourceConnected** property of the active document to determine if a data source is connected.
 
- 
-If one or more data sources is connected, the macro uses the  **Count** property of the **MailMergeDataSources** collection to determine how many data sources are connected.
- 
+If one or more data sources is connected, the macro uses the **Count** property of the **MailMergeDataSources** collection to determine how many data sources are connected.
 
- 
-If just one data source is connected, the macro prints the name of that data source in the  **Immediate** window; if more than one data source is connected, it uses the **Item** method of the **MailMergeDataSources** collection to iterate through the collection and the **Name** property of the **MailMergeDataSource** object to print the name of each connected data source in the **Immediate** window.
- 
-
- 
-
-
+If just one data source is connected, the macro prints the name of that data source in the Immediate window. If more than one data source is connected, it uses the **Item** method to iterate through the collection and the **[Name](publisher.mailmergedatasource.name.md)** property of the **MailMergeDataSource** object to print the name of each connected data source in the Immediate window.
 
 ```vb
 Public Sub MailMergeDataSources_Example() 
@@ -87,21 +72,19 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Item](Publisher.MailMergeDataSources.Item.md)|
+- [Item](Publisher.MailMergeDataSources.Item.md)
 
 ## Properties
 
+- [Application](Publisher.MailMergeDataSources.Application.md)
+- [Count](Publisher.MailMergeDataSources.Count.md)
+- [Creator](Publisher.MailMergeDataSources.Creator.md)
+- [Parent](Publisher.MailMergeDataSources.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.MailMergeDataSources.Application.md)|
-|[Count](Publisher.MailMergeDataSources.Count.md)|
-|[Creator](Publisher.MailMergeDataSources.Creator.md)|
-|[Parent](Publisher.MailMergeDataSources.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

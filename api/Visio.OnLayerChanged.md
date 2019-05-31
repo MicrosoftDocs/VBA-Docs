@@ -40,7 +40,7 @@ You can change a layer either in the  **Layer Properties** dialog box, or progra
 
 ## Example
 
-The following code shows how to use the  **OnLayerChanged** event to display the new transparency percentage of the changed layer in the **Immediate** window.
+The following code shows how to use the  **OnLayerChanged** event to display the new transparency percentage of the changed layer in the Immediate window.
 
 
 ```vb

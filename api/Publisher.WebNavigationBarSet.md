@@ -68,30 +68,28 @@ End With
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[AddToEveryPage](Publisher.WebNavigationBarSet.AddToEveryPage.md)|
-|[ChangeOrientation](Publisher.WebNavigationBarSet.ChangeOrientation.md)|
-|[DeleteSetAndInstances](Publisher.WebNavigationBarSet.DeleteSetAndInstances.md)|
+- [AddToEveryPage](Publisher.WebNavigationBarSet.AddToEveryPage.md)
+- [ChangeOrientation](Publisher.WebNavigationBarSet.ChangeOrientation.md)
+- [DeleteSetAndInstances](Publisher.WebNavigationBarSet.DeleteSetAndInstances.md)
 
 ## Properties
 
+- [Application](Publisher.WebNavigationBarSet.Application.md)
+- [AutoUpdate](Publisher.WebNavigationBarSet.AutoUpdate.md)
+- [ButtonStyle](Publisher.WebNavigationBarSet.ButtonStyle.md)
+- [Design](Publisher.WebNavigationBarSet.Design.md)
+- [HorizontalAlignment](Publisher.WebNavigationBarSet.HorizontalAlignment.md)
+- [HorizontalButtonCount](Publisher.WebNavigationBarSet.HorizontalButtonCount.md)
+- [IsHorizontal](Publisher.WebNavigationBarSet.IsHorizontal.md)
+- [Links](Publisher.WebNavigationBarSet.Links.md)
+- [Name](Publisher.WebNavigationBarSet.Name.md)
+- [Parent](Publisher.WebNavigationBarSet.Parent.md)
+- [ShowSelected](Publisher.WebNavigationBarSet.ShowSelected.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.WebNavigationBarSet.Application.md)|
-|[AutoUpdate](Publisher.WebNavigationBarSet.AutoUpdate.md)|
-|[ButtonStyle](Publisher.WebNavigationBarSet.ButtonStyle.md)|
-|[Design](Publisher.WebNavigationBarSet.Design.md)|
-|[HorizontalAlignment](Publisher.WebNavigationBarSet.HorizontalAlignment.md)|
-|[HorizontalButtonCount](Publisher.WebNavigationBarSet.HorizontalButtonCount.md)|
-|[IsHorizontal](Publisher.WebNavigationBarSet.IsHorizontal.md)|
-|[Links](Publisher.WebNavigationBarSet.Links.md)|
-|[Name](Publisher.WebNavigationBarSet.Name.md)|
-|[Parent](Publisher.WebNavigationBarSet.Parent.md)|
-|[ShowSelected](Publisher.WebNavigationBarSet.ShowSelected.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -86,22 +86,20 @@ ActiveDocument.Pages(1).Background.Delete
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Create](Publisher.PageBackground.Create.md)|
-|[Delete](Publisher.PageBackground.Delete.md)|
+- [Create](Publisher.PageBackground.Create.md)
+- [Delete](Publisher.PageBackground.Delete.md)
 
 ## Properties
 
+- [Application](Publisher.PageBackground.Application.md)
+- [Exists](Publisher.PageBackground.Exists.md)
+- [Fill](Publisher.PageBackground.Fill.md)
+- [Parent](Publisher.PageBackground.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.PageBackground.Application.md)|
-|[Exists](Publisher.PageBackground.Exists.md)|
-|[Fill](Publisher.PageBackground.Fill.md)|
-|[Parent](Publisher.PageBackground.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

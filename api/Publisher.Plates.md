@@ -75,22 +75,20 @@ Use the  **[FindPlateByInkName](Publisher.Plates.FindPlateByInkName.md)** method
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Publisher.Plates.Add.md)|
-|[FindPlateByInkName](Publisher.Plates.FindPlateByInkName.md)|
+- [Add](Publisher.Plates.Add.md)
+- [FindPlateByInkName](Publisher.Plates.FindPlateByInkName.md)
 
 ## Properties
 
+- [Application](Publisher.Plates.Application.md)
+- [Count](Publisher.Plates.Count.md)
+- [Item](Publisher.Plates.Item.md)
+- [Parent](Publisher.Plates.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.Plates.Application.md)|
-|[Count](Publisher.Plates.Count.md)|
-|[Item](Publisher.Plates.Item.md)|
-|[Parent](Publisher.Plates.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

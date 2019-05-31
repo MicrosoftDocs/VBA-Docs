@@ -7,23 +7,22 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMergeMappedDataFields
 ms.assetid: 7f33bf07-9cbb-e171-d276-d5ccb06abb95
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
 
 # MailMergeMappedDataFields object (Publisher)
 
-A collection of  **[MailMergeMappedDataField](Publisher.MailMergeMappedDataField.md)** objects that represents the mapped data fields available in Microsoft Publisher.
+A collection of **[MailMergeMappedDataField](Publisher.MailMergeMappedDataField.md)** objects that represents the mapped data fields available in Microsoft Publisher.
  
+## Remarks
 
+Use the **[MappedDataFields](Publisher.MailMergeDataSource.MappedDataFields.md)** property of the **MailMergeDataSource** object to return the **MailMergeMappedDataFields** collection. 
 
 ## Example
 
-Use the  **[MappedDataFields](Publisher.MailMergeDataSource.MappedDataFields.md)** property of the **[MailMergeDataSource](Publisher.MailMergeDataSource.md)** object to return the **MailMergeMappedDataFields** collection. This example creates a table on a new page of the current publication and lists the mapped data fields available in Publisher and the fields in the data source to which they are mapped. This example assumes that the current publication is a mail merge publication and that the data source fields have corresponding mapped data fields.
- 
-
- 
+This example creates a table on a new page of the current publication and lists the mapped data fields available in Publisher and the fields in the data source to which they are mapped. This example assumes that the current publication is a mail merge publication and that the data source fields have corresponding mapped data fields.
 
 ```vb
 Sub MappedFields() 
@@ -72,20 +71,18 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Item](Publisher.MailMergeMappedDataFields.Item.md)|
+- [Item](Publisher.MailMergeMappedDataFields.Item.md)
 
 ## Properties
 
+- [Application](Publisher.MailMergeMappedDataFields.Application.md)
+- [Count](Publisher.MailMergeMappedDataFields.Count.md)
+- [Parent](Publisher.MailMergeMappedDataFields.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.MailMergeMappedDataFields.Application.md)|
-|[Count](Publisher.MailMergeMappedDataFields.Count.md)|
-|[Parent](Publisher.MailMergeMappedDataFields.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

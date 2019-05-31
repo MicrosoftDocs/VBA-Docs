@@ -37,7 +37,7 @@ Dim objWebNavBarSets As WebNavigationBarSets
 Set objWebNavBarSets = ActiveDocument.WebNavigationBarSets
 ```
 
-Use  **WebNavigationBarSets** **.Item** (index), where index is the index number, to return a **WebNavigationBarSet** object from the collection. The following example returns the first Web navigation bar set from the **WebNavigationBarSets** collection.
+Use  **WebNavigationBarSets** **.Item** (_index_), where _index_ is the index number, to return a **WebNavigationBarSet** object from the collection. The following example returns the first Web navigation bar set from the **WebNavigationBarSets** collection.
  
 
  
@@ -49,7 +49,7 @@ Dim objWebNavBarSet As WebNavigationBarSet
 Set objWebNavBarSet = ActiveDocument.WebNavigationBarSets.Item(1)
 ```
 
-The previous example can also be accomplished using  **WebNavigationBarSets** (index), where index is the index number, to return a **WebNavigationBarSet** object.
+The previous example can also be accomplished using  **WebNavigationBarSets** (_index_), where _index_ is the index number, to return a **WebNavigationBarSet** object.
  
 
  
@@ -101,21 +101,19 @@ ActiveDocument.WebNavigationBarSets.Item _
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[AddSet](Publisher.WebNavigationBarSets.AddSet.md)|
-|[Item](Publisher.WebNavigationBarSets.Item.md)|
+- [AddSet](Publisher.WebNavigationBarSets.AddSet.md)
+- [Item](Publisher.WebNavigationBarSets.Item.md)
 
 ## Properties
 
+- [Application](Publisher.WebNavigationBarSets.Application.md)
+- [Count](Publisher.WebNavigationBarSets.Count.md)
+- [Parent](Publisher.WebNavigationBarSets.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.WebNavigationBarSets.Application.md)|
-|[Count](Publisher.WebNavigationBarSets.Count.md)|
-|[Parent](Publisher.WebNavigationBarSets.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

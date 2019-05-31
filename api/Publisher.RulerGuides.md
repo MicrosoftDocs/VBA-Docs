@@ -64,21 +64,19 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Publisher.RulerGuides.Add.md)|
+- [Add](Publisher.RulerGuides.Add.md)
 
 ## Properties
 
+- [Application](Publisher.RulerGuides.Application.md)
+- [Count](Publisher.RulerGuides.Count.md)
+- [Item](Publisher.RulerGuides.Item.md)
+- [Parent](Publisher.RulerGuides.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.RulerGuides.Application.md)|
-|[Count](Publisher.RulerGuides.Count.md)|
-|[Item](Publisher.RulerGuides.Item.md)|
-|[Parent](Publisher.RulerGuides.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

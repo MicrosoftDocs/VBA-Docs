@@ -40,20 +40,18 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Item](Publisher.ObjectVerbs.Item.md)|
+- [Item](Publisher.ObjectVerbs.Item.md)
 
 ## Properties
 
+- [Application](Publisher.ObjectVerbs.Application.md)
+- [Count](Publisher.ObjectVerbs.Count.md)
+- [Parent](Publisher.ObjectVerbs.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.ObjectVerbs.Application.md)|
-|[Count](Publisher.ObjectVerbs.Count.md)|
-|[Parent](Publisher.ObjectVerbs.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

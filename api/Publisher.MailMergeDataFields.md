@@ -7,40 +7,27 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataFields
 ms.assetid: 44ae8a3c-b8a8-fc57-9d02-d71dcffc21ef
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
 
 # MailMergeDataFields object (Publisher)
 
-A collection of  **[MailMergeDataField](Publisher.MailMergeDataField.md)** objects that represent the data fields in a mail merge or catalog merge data source.
+A collection of **[MailMergeDataField](Publisher.MailMergeDataField.md)** objects that represent the data fields in a mail merge or catalog merge data source.
  
-
 
 ## Remarks
 
-You cannot add fields to the  **MailMergeDataFields** collection. When a data field is added to a data source, the field is automatically included in the **MailMergeDataFields** collection.
+You cannot add fields to the **MailMergeDataFields** collection. When a data field is added to a data source, the field is automatically included in the **MailMergeDataFields** collection.
  
+Use the **[MailMergeDataSource.DataFields](Publisher.MailMergeDataSource.DataFields.md)** property to return the **MailMergeDataFields** collection.
 
- 
+Use **DataFields** (_index_), where _index_ is the data field name or the index number, to return a single **MailMergeDataField** object. The index number represents the position of the data field in the mail merge data source. 
 
 ## Example
 
-Use the  **[DataFields](Publisher.MailMergeDataSource.DataFields.md)** property to return the **MailMergeDataFields** collection.
- 
-
- 
-
- 
-
- 
 The following example displays the field names in the data source attached to the active publication.
- 
-
- 
-
-
 
 ```vb
 Sub ShowFieldNames() 
@@ -53,12 +40,9 @@ Sub ShowFieldNames()
 End Sub
 ```
 
-Use  **DataFields** (index), where index is the data field name or the index number, to return a single **MailMergeDataField** object. The index number represents the position of the data field in the mail merge data source. This example retrieves the name of the first field and value of the first record of the FirstName field in the data source attached to the active publication.
- 
+<br/>
 
- 
-
-
+This example retrieves the name of the first field and value of the first record of the FirstName field in the data source attached to the active publication.
 
 ```vb
 Sub GetDataFromSource() 
@@ -73,21 +57,19 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Item](Publisher.MailMergeDataFields.Item.md)|
+- [Item](Publisher.MailMergeDataFields.Item.md)
 
 ## Properties
 
+- [Application](Publisher.MailMergeDataFields.Application.md)
+- [Count](Publisher.MailMergeDataFields.Count.md)
+- [Creator](Publisher.MailMergeDataFields.Creator.md)
+- [Parent](Publisher.MailMergeDataFields.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.MailMergeDataFields.Application.md)|
-|[Count](Publisher.MailMergeDataFields.Count.md)|
-|[Creator](Publisher.MailMergeDataFields.Creator.md)|
-|[Parent](Publisher.MailMergeDataFields.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

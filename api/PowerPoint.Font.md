@@ -51,7 +51,7 @@ With ActivePresentation.Slides(1).Shapes.Title _
 End With
 ```
 
-Use  **Fonts** (index), where index is the font's name or index number, to return a single **Font** object. The following example checks to see whether font one in the active presentation is embedded in the presentation.
+Use  **Fonts** (_index_), where _index_ is the font's name or index number, to return a single **Font** object. The following example checks to see whether font one in the active presentation is embedded in the presentation.
 
 
 

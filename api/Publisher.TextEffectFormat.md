@@ -38,32 +38,30 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[ToggleVerticalText](Publisher.TextEffectFormat.ToggleVerticalText.md)|
+- [ToggleVerticalText](Publisher.TextEffectFormat.ToggleVerticalText.md)
 
 ## Properties
 
+- [Alignment](Publisher.TextEffectFormat.Alignment.md)
+- [Application](Publisher.TextEffectFormat.Application.md)
+- [FontBold](Publisher.TextEffectFormat.FontBold.md)
+- [FontItalic](Publisher.TextEffectFormat.FontItalic.md)
+- [FontName](Publisher.TextEffectFormat.FontName.md)
+- [FontSize](Publisher.TextEffectFormat.FontSize.md)
+- [KernedPairs](Publisher.TextEffectFormat.KernedPairs.md)
+- [NormalizedHeight](Publisher.TextEffectFormat.NormalizedHeight.md)
+- [Parent](Publisher.TextEffectFormat.Parent.md)
+- [PresetShape](Publisher.TextEffectFormat.PresetShape.md)
+- [PresetTextEffect](Publisher.TextEffectFormat.PresetTextEffect.md)
+- [PresetWordArt](Publisher.TextEffectFormat.PresetWordArt.md)
+- [RotatedChars](Publisher.TextEffectFormat.RotatedChars.md)
+- [Text](Publisher.TextEffectFormat.Text.md)
+- [Tracking](Publisher.TextEffectFormat.Tracking.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Alignment](Publisher.TextEffectFormat.Alignment.md)|
-|[Application](Publisher.TextEffectFormat.Application.md)|
-|[FontBold](Publisher.TextEffectFormat.FontBold.md)|
-|[FontItalic](Publisher.TextEffectFormat.FontItalic.md)|
-|[FontName](Publisher.TextEffectFormat.FontName.md)|
-|[FontSize](Publisher.TextEffectFormat.FontSize.md)|
-|[KernedPairs](Publisher.TextEffectFormat.KernedPairs.md)|
-|[NormalizedHeight](Publisher.TextEffectFormat.NormalizedHeight.md)|
-|[Parent](Publisher.TextEffectFormat.Parent.md)|
-|[PresetShape](Publisher.TextEffectFormat.PresetShape.md)|
-|[PresetTextEffect](Publisher.TextEffectFormat.PresetTextEffect.md)|
-|[PresetWordArt](Publisher.TextEffectFormat.PresetWordArt.md)|
-|[RotatedChars](Publisher.TextEffectFormat.RotatedChars.md)|
-|[Text](Publisher.TextEffectFormat.Text.md)|
-|[Tracking](Publisher.TextEffectFormat.Tracking.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

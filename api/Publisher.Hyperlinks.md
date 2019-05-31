@@ -7,20 +7,28 @@ ms.prod: publisher
 api_name:
 - Publisher.Hyperlinks
 ms.assetid: a82724b9-e792-b0e6-d1c3-25ce6021ad29
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
 
 # Hyperlinks object (Publisher)
 
-Represents the collection of  **[Hyperlink](Publisher.Hyperlink.md)** objects in a text range.
+Represents the collection of **[Hyperlink](Publisher.Hyperlink.md)** objects in a text range.
 
+## Remarks
+
+Use the **[TextRange.Hyperlinks](Publisher.TextRange.Hyperlinks.md)** property to return the **Hyperlinks** collection. 
+
+Use the **Add** method to create a hyperlink and add it to the **Hyperlinks** collection. 
+
+Use **Hyperlinks** (_index_), where _index_ is the index number, to return a single **Hyperlink** object in a publication, range, or selection. 
+
+The **Count** property for this collection returns the number of hyperlinks in the specified shape or selection only.
 
 ## Example
 
-Use the  **[Hyperlinks](./Publisher.TextRange.Hyperlinks.md)** property to return the **Hyperlinks** collection. The following example deletes all text hyperlinks in the active publication that contain the word "Tailspin" in the address.
-
+The following example deletes all text hyperlinks in the active publication that contain the word Tailspin in the address.
 
 ```vb
 Sub DeleteMSHyperlinks() 
@@ -46,10 +54,9 @@ Sub DeleteMSHyperlinks()
 End Sub
 ```
 
-Use the  **[Add](./Publisher.Hyperlinks.Add.md)** method to create a hyperlink and add it to the **Hyperlinks** collection. The following example creates a new hyperlink to the specified Web site.
+<br/>
 
-
-
+The following example creates a new hyperlink to the specified website.
 
 ```vb
 Sub AddHyperlink() 
@@ -58,10 +65,9 @@ Sub AddHyperlink()
 End Sub
 ```
 
-Use  **Hyperlinks** (index), where index is the index number, to return a single **Hyperlink** object in a publication, range, or selection. This example displays the address for the first hyperlink if the specified selection contains hyperlinks.
+<br/>
 
-
-
+This example displays the address for the first hyperlink if the specified selection contains hyperlinks.
 
 ```vb
 Sub DisplayHyperlinkAddress() 
@@ -72,26 +78,24 @@ Sub DisplayHyperlinkAddress()
 End Sub
 ```
 
-The  **[Count](./Publisher.Hyperlinks.Count.md)** property for this collection returns the number of hyperlinks in the specified shape or selection only.
+
 
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](./Publisher.Hyperlinks.Add.md)|
+- [Add](Publisher.Hyperlinks.Add.md)
 
 ## Properties
 
+- [Application](Publisher.Hyperlinks.Application.md)
+- [Count](Publisher.Hyperlinks.Count.md)
+- [Item](Publisher.Hyperlinks.Item.md)
+- [Parent](Publisher.Hyperlinks.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](./Publisher.Hyperlinks.Application.md)|
-|[Count](./Publisher.Hyperlinks.Count.md)|
-|[Item](./Publisher.Hyperlinks.Item.md)|
-|[Parent](./Publisher.Hyperlinks.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

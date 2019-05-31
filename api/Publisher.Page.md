@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Page object (Publisher)
 
-Represents a page in a publication. The  **[Pages](./Publisher.Pages.md)** collection contains all the **Page** objects in a publication.
+Represents a page in a publication. The  **[Pages](Publisher.Pages.md)** collection contains all the **Page** objects in a publication.
 
 
 ## Example
@@ -31,7 +31,7 @@ Sub AddPageNumberField()
 End Sub
 ```
 
-Use the  **[FindByPageID](./Publisher.Pages.FindByPageID.md)** property to locate a **Page** object using the application assigned page ID. Use the **[Add](./Publisher.Pages.Add.md)** method to create a new page and add it to the publication. The following example adds a new page to the active publication and then looks for that page using the page ID.
+Use the  **[FindByPageID](Publisher.Pages.FindByPageID.md)** property to locate a **Page** object using the application assigned page ID. Use the **[Add](Publisher.Pages.Add.md)** method to create a new page and add it to the publication. The following example adds a new page to the active publication and then looks for that page using the page ID.
 
 
 
@@ -54,48 +54,46 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](./Publisher.Page.Delete.md)|
-|[Duplicate](./Publisher.Page.Duplicate.md)|
-|[ExportEmailHTML](./Publisher.Page.ExportEmailHTML.md)|
-|[Move](./Publisher.Page.Move.md)|
-|[SaveAsPicture](./Publisher.Page.SaveAsPicture.md)|
+- [Delete](Publisher.Page.Delete.md)
+- [Duplicate](Publisher.Page.Duplicate.md)
+- [ExportEmailHTML](Publisher.Page.ExportEmailHTML.md)
+- [Move](Publisher.Page.Move.md)
+- [SaveAsPicture](Publisher.Page.SaveAsPicture.md)
 
 ## Properties
 
+- [Application](Publisher.Page.Application.md)
+- [Background](Publisher.Page.Background.md)
+- [Footer](Publisher.Page.Footer.md)
+- [Header](Publisher.Page.Header.md)
+- [Height](Publisher.Page.Height.md)
+- [IgnoreMaster](Publisher.Page.IgnoreMaster.md)
+- [IsLeading](Publisher.Page.IsLeading.md)
+- [IsTrailing](Publisher.Page.IsTrailing.md)
+- [IsTwoPageMaster](Publisher.Page.IsTwoPageMaster.md)
+- [IsWizardPage](Publisher.Page.IsWizardPage.md)
+- [LayoutGuides](Publisher.Page.LayoutGuides.md)
+- [Master](Publisher.Page.Master.md)
+- [Name](Publisher.Page.Name.md)
+- [PageID](Publisher.Page.PageID.md)
+- [PageIndex](Publisher.Page.PageIndex.md)
+- [PageNumber](Publisher.Page.PageNumber.md)
+- [PageType](Publisher.Page.PageType.md)
+- [Parent](Publisher.Page.Parent.md)
+- [ReaderSpread](Publisher.Page.ReaderSpread.md)
+- [RulerGuides](Publisher.Page.RulerGuides.md)
+- [Shapes](Publisher.Page.Shapes.md)
+- [Tags](Publisher.Page.Tags.md)
+- [WebPageOptions](Publisher.Page.WebPageOptions.md)
+- [Width](Publisher.Page.Width.md)
+- [Wizard](Publisher.Page.Wizard.md)
+- [XOffsetWithinReaderSpread](Publisher.Page.XOffsetWithinReaderSpread.md)
+- [YOffsetWithinReaderSpread](Publisher.Page.YOffsetWithinReaderSpread.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](./Publisher.Page.Application.md)|
-|[Background](./Publisher.Page.Background.md)|
-|[Footer](./Publisher.Page.Footer.md)|
-|[Header](./Publisher.Page.Header.md)|
-|[Height](./Publisher.Page.Height.md)|
-|[IgnoreMaster](./Publisher.Page.IgnoreMaster.md)|
-|[IsLeading](./Publisher.Page.IsLeading.md)|
-|[IsTrailing](./Publisher.Page.IsTrailing.md)|
-|[IsTwoPageMaster](./Publisher.Page.IsTwoPageMaster.md)|
-|[IsWizardPage](./Publisher.Page.IsWizardPage.md)|
-|[LayoutGuides](./Publisher.Page.LayoutGuides.md)|
-|[Master](./Publisher.Page.Master.md)|
-|[Name](./Publisher.Page.Name.md)|
-|[PageID](./Publisher.Page.PageID.md)|
-|[PageIndex](./Publisher.Page.PageIndex.md)|
-|[PageNumber](./Publisher.Page.PageNumber.md)|
-|[PageType](./Publisher.Page.PageType.md)|
-|[Parent](./Publisher.Page.Parent.md)|
-|[ReaderSpread](./Publisher.Page.ReaderSpread.md)|
-|[RulerGuides](./Publisher.Page.RulerGuides.md)|
-|[Shapes](./Publisher.Page.Shapes.md)|
-|[Tags](./Publisher.Page.Tags.md)|
-|[WebPageOptions](./Publisher.Page.WebPageOptions.md)|
-|[Width](./Publisher.Page.Width.md)|
-|[Wizard](./Publisher.Page.Wizard.md)|
-|[XOffsetWithinReaderSpread](./Publisher.Page.XOffsetWithinReaderSpread.md)|
-|[YOffsetWithinReaderSpread](./Publisher.Page.YOffsetWithinReaderSpread.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

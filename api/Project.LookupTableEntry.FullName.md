@@ -26,7 +26,7 @@ _expression_ A variable that represents a [LookupTableEntry](./Project.LookupTab
 
 ## Example
 
-The  **CreateLocationOutlineCode** macro example sets three **LookupTableEntry** levels for a custom task outline code named **Location**. After the **CreateLocationOutlineCode** macro is executed, entering the following line in the **Immediate** window of the Visual Basic Editor (VBE) returns the result shown.
+The  **CreateLocationOutlineCode** macro example sets three **LookupTableEntry** levels for a custom task outline code named **Location**. After the **CreateLocationOutlineCode** macro is executed, entering the following line in the Immediate window of the Visual Basic Editor (VBE) returns the result shown.
 
 
 ```vb

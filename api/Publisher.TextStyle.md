@@ -20,20 +20,9 @@ Represents a single built-in or user-defined style. The  **TextStyle** object in
 
 ## Example
 
-Use  **TextStyles** (index), where index is the text style number or name, to return a single **TextStyle** object. You must exactly match the spelling and spacing of the style name, but not necessarily its capitalization.
- 
-
- 
-
- 
-
+Use  **TextStyles** (_index_), where _index_ is the text style number or name, to return a single **TextStyle** object. You must exactly match the spelling and spacing of the style name, but not necessarily its capitalization.
  
 The following example displays the style name and base style of the first style in the  **TextStyles** collection.
- 
-
- 
-
-
 
 ```vb
 Sub BaseStyleName() 
@@ -45,11 +34,6 @@ End Sub
 ```
 
 Use the  **[Add](Publisher.TextStyles.Add.md)** method to create a new style. To apply a style to a range, paragraph, or multiple paragraphs, set the **[TextStyle](Publisher.ParagraphFormat.TextStyle.md)** property to a user-defined or built-in style name. The following example creates a new style and applies it to the paragraph at the cursor position.
- 
-
- 
-
-
 
 ```vb
 Sub ApplyTextStyle() 
@@ -78,25 +62,23 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Publisher.TextStyle.Delete.md)|
+- [Delete](Publisher.TextStyle.Delete.md)
 
 ## Properties
 
+- [Application](Publisher.TextStyle.Application.md)
+- [BaseStyle](Publisher.TextStyle.BaseStyle.md)
+- [Description](Publisher.TextStyle.Description.md)
+- [Font](Publisher.TextStyle.Font.md)
+- [Name](Publisher.TextStyle.Name.md)
+- [NextParagraphStyle](Publisher.TextStyle.NextParagraphStyle.md)
+- [ParagraphFormat](Publisher.TextStyle.ParagraphFormat.md)
+- [Parent](Publisher.TextStyle.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.TextStyle.Application.md)|
-|[BaseStyle](Publisher.TextStyle.BaseStyle.md)|
-|[Description](Publisher.TextStyle.Description.md)|
-|[Font](Publisher.TextStyle.Font.md)|
-|[Name](Publisher.TextStyle.Name.md)|
-|[NextParagraphStyle](Publisher.TextStyle.NextParagraphStyle.md)|
-|[ParagraphFormat](Publisher.TextStyle.ParagraphFormat.md)|
-|[Parent](Publisher.TextStyle.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

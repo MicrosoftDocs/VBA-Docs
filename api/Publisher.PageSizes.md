@@ -24,7 +24,7 @@ The page sizes represented by the  **PageSizes** collection correspond to the ic
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **PageSizes** collection to get all the page sizes available in the current document and print the list in the **Immediate** window.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **PageSizes** collection to get all the page sizes available in the current document and print the list in the Immediate window.
 
 
 ```vb
@@ -44,13 +44,15 @@ End Sub
 
 ## Properties
 
+- [Application](Publisher.PageSizes.Application.md)
+- [Count](Publisher.PageSizes.Count.md)
+- [Item](Publisher.PageSizes.Item.md)
+- [Parent](Publisher.PageSizes.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](./Publisher.PageSizes.Application.md)|
-|[Count](./Publisher.PageSizes.Count.md)|
-|[Item](./Publisher.PageSizes.Item.md)|
-|[Parent](./Publisher.PageSizes.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

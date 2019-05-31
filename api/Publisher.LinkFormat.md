@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.LinkFormat
 ms.assetid: 5b588edd-b026-cfc7-4acb-77290ae4d297
-ms.date: 06/08/2017
+ms.date: 05/31/2019
 localization_priority: Normal
 ---
 
@@ -17,24 +17,18 @@ localization_priority: Normal
 Represents the linking characteristics for an OLE object or picture.
  
 
-
 ## Remarks
 
-Not all types of shapes and fields can be linked to a source. Use the  **[Type](Publisher.Shape.Type.md)** property for the **[Shape](Publisher.Shape.md)** object to determine whether a particular shape can be linked.
+Not all types of shapes and fields can be linked to a source. Use the **[Type](Publisher.Shape.Type.md)** property of the **Shape** object to determine whether a particular shape can be linked.
  
-
+Use the **Update** method to update links. To return or set the full path for a particular link's source file, use the **SourceFullName** property.
  
-Use the  **[Update](Publisher.LinkFormat.Update.md)** method to update links. To return or set the full path for a particular link's source file, use the **[SourceFullName](Publisher.LinkFormat.SourceFullName.md)** property.
- 
-
+Use the **[Shape.LinkFormat](Publisher.Shape.LinkFormat.md)** property for a shape or field to return a **LinkFormat** object. 
  
 
 ## Example
 
-Use the  **[LinkFormat](Publisher.Shape.LinkFormat.md)** property for a shape or field to return a **LinkFormat** object. The following example updates the links to all linked OLE objects on the first page of the active publication.
- 
-
- 
+The following example updates the links to all linked OLE objects on the first page of the active publication.
 
 ```vb
 Sub FindOLEObjects() 
@@ -51,20 +45,18 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Update](Publisher.LinkFormat.Update.md)|
+- [Update](Publisher.LinkFormat.Update.md)
 
 ## Properties
 
+- [Application](Publisher.LinkFormat.Application.md)
+- [Parent](Publisher.LinkFormat.Parent.md)
+- [SourceFullName](Publisher.LinkFormat.SourceFullName.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.LinkFormat.Application.md)|
-|[Parent](Publisher.LinkFormat.Parent.md)|
-|[SourceFullName](Publisher.LinkFormat.SourceFullName.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

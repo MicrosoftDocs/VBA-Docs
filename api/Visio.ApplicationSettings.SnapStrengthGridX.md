@@ -38,7 +38,7 @@ The minimum allowable value for the  **SnapStrengthGridX** property is 0 (zero),
 
 ## Example
 
-ThisMicrosoft Visual Basic for Applications (VBA) macro shows how to use the  **SnapStrengthGridX** property to print the current snap strength grid _x_ -axis setting in the **Immediate** window. It also shows how to get an **ApplicationSettings** object from the Visio **Application** object.
+ThisMicrosoft Visual Basic for Applications (VBA) macro shows how to use the  **SnapStrengthGridX** property to print the current snap strength grid _x_ -axis setting in the Immediate window. It also shows how to get an **ApplicationSettings** object from the Visio **Application** object.
 
 
 ```vb

@@ -68,24 +68,22 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Unselect](Publisher.Selection.Unselect.md)|
+- [Unselect](Publisher.Selection.Unselect.md)
 
 ## Properties
 
+- [Application](Publisher.Selection.Application.md)
+- [ChildShapeRange](Publisher.Selection.ChildShapeRange.md)
+- [Parent](Publisher.Selection.Parent.md)
+- [ShapeRange](Publisher.Selection.ShapeRange.md)
+- [TableCellRange](Publisher.Selection.TableCellRange.md)
+- [TextRange](Publisher.Selection.TextRange.md)
+- [Type](Publisher.Selection.Type.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.Selection.Application.md)|
-|[ChildShapeRange](Publisher.Selection.ChildShapeRange.md)|
-|[Parent](Publisher.Selection.Parent.md)|
-|[ShapeRange](Publisher.Selection.ShapeRange.md)|
-|[TableCellRange](Publisher.Selection.TableCellRange.md)|
-|[TextRange](Publisher.Selection.TextRange.md)|
-|[Type](Publisher.Selection.Type.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

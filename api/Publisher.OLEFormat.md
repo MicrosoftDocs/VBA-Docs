@@ -51,23 +51,21 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Activate](Publisher.OLEFormat.Activate.md)|
-|[DoVerb](Publisher.OLEFormat.DoVerb.md)|
+- [Activate](Publisher.OLEFormat.Activate.md)
+- [DoVerb](Publisher.OLEFormat.DoVerb.md)
 
 ## Properties
 
+- [Application](Publisher.OLEFormat.Application.md)
+- [Object](Publisher.OLEFormat.Object.md)
+- [ObjectVerbs](Publisher.OLEFormat.ObjectVerbs.md)
+- [Parent](Publisher.OLEFormat.Parent.md)
+- [ProgId](Publisher.OLEFormat.ProgId.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.OLEFormat.Application.md)|
-|[Object](Publisher.OLEFormat.Object.md)|
-|[ObjectVerbs](Publisher.OLEFormat.ObjectVerbs.md)|
-|[Parent](Publisher.OLEFormat.Parent.md)|
-|[ProgId](Publisher.OLEFormat.ProgId.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

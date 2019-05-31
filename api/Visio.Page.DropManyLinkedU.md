@@ -69,7 +69,7 @@ For the ShapeIDs() parameter, pass an empty, dimensionless array of type  **Long
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **DropManyLinkedU** method to create several shapes on the active drawing page, centered at specified coordinates, and linked to a data rows in the data recordset most recently added to the active document. It prints the number of shapes created and their ID numbers to the **Immediate** window.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **DropManyLinkedU** method to create several shapes on the active drawing page, centered at specified coordinates, and linked to a data rows in the data recordset most recently added to the active document. It prints the number of shapes created and their ID numbers to the Immediate window.
 
 The shapes passed to the  **DropManyLinkedU** method are simple forms from the **Basic Shapes (US units)** stencil. Before running this macro, use the **[DataRecordsets.Add](Visio.DataRecordsets.Add.md)** method or another means to add at least one data recordset to the **DataRecordsets** collection, and make sure that the **Basic Shapes (US units)** stencil is open in the Visio drawing window.
 

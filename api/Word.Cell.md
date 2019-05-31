@@ -19,7 +19,7 @@ Represents a single table cell. The  **Cell** object is a member of the **[Cells
 
 ## Remarks
 
-Use  **[Cell](Word.Table.Cell.md)** (row, column), where row is the row number and column is the column number, or **Cells** (index), where index is the index number, to return a **Cell** object. The following example applies shading to the second cell in the first row.
+Use  **[Cell](Word.Table.Cell.md)** (row, column), where row is the row number and column is the column number, or **Cells** (_index_), where _index_ is the index number, to return a **Cell** object. The following example applies shading to the second cell in the first row.
 
 
 ```vb

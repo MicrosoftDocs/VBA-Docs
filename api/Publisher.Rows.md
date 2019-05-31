@@ -60,7 +60,7 @@ Sub FillCellsByRow()
 End Sub
 ```
 
-Use  **Rows** (index), where index is the index number, to return a single **Row** object. The index number represents the position of the row in the **Rows** collection (counting from left to right). The following example selects the third row in the specified table.
+Use  **Rows** (_index_), where _index_ is the index number, to return a single **Row** object. The index number represents the position of the row in the **Rows** collection (counting from left to right). The following example selects the third row in the specified table.
  
 
  
@@ -76,21 +76,19 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Publisher.Rows.Add.md)|
-|[Item](Publisher.Rows.Item.md)|
+- [Add](Publisher.Rows.Add.md)
+- [Item](Publisher.Rows.Item.md)
 
 ## Properties
 
+- [Application](Publisher.Rows.Application.md)
+- [Count](Publisher.Rows.Count.md)
+- [Parent](Publisher.Rows.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.Rows.Application.md)|
-|[Count](Publisher.Rows.Count.md)|
-|[Parent](Publisher.Rows.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

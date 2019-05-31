@@ -35,7 +35,7 @@ The shape that is specified by the  _Index_ parameter.
 
 ## Remarks
 
-The  **Item** method acts like the default **[Shapes.Value](Project.shapes.value.md)** property. For example, create a report namedTable Tests that contains a table. The following statement in the **Immediate** window of the VBE prints the name of the table.
+The  **Item** method acts like the default **[Shapes.Value](Project.shapes.value.md)** property. For example, create a report namedTable Tests that contains a table. The following statement in the Immediate window of the VBE prints the name of the table.
 
 
 ```vb

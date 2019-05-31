@@ -57,21 +57,19 @@ MsgBox ActiveDocument.WebNavigationBarSets(1).Links.Item(1).TextToDisplay
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Publisher.WebNavigationBarHyperlinks.Add.md)|
-|[Item](Publisher.WebNavigationBarHyperlinks.Item.md)|
+- [Add](Publisher.WebNavigationBarHyperlinks.Add.md)
+- [Item](Publisher.WebNavigationBarHyperlinks.Item.md)
 
 ## Properties
 
+- [Application](Publisher.WebNavigationBarHyperlinks.Application.md)
+- [Count](Publisher.WebNavigationBarHyperlinks.Count.md)
+- [Parent](Publisher.WebNavigationBarHyperlinks.Parent.md)
+
+## See also
+
+- [Publisher Object Model Reference](overview/publisher/object-model.md)
 
 
-|Name|
-|:-----|
-|[Application](Publisher.WebNavigationBarHyperlinks.Application.md)|
-|[Count](Publisher.WebNavigationBarHyperlinks.Count.md)|
-|[Parent](Publisher.WebNavigationBarHyperlinks.Parent.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

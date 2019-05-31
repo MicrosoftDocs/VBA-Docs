@@ -26,7 +26,7 @@ _expression_ A variable that represents a [UserDefinedProperty](Outlook.UserDefi
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example displays the name of a specified  **[Folder](Outlook.Folder.md)** object, as well as the name and type of every **UserDefinedProperty** object contained in the **[UserDefinedProperties](Outlook.Folder.UserDefinedProperties.md)** collection of the specified **Folder** object, to the **Immediate** window.
+The following Visual Basic for Applications (VBA) example displays the name of a specified  **[Folder](Outlook.Folder.md)** object, as well as the name and type of every **UserDefinedProperty** object contained in the **[UserDefinedProperties](Outlook.Folder.UserDefinedProperties.md)** collection of the specified **Folder** object, to the Immediate window.
 
 
 ```vb
