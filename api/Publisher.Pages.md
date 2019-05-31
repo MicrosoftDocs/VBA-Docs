@@ -7,23 +7,22 @@ ms.prod: publisher
 api_name:
 - Publisher.Pages
 ms.assetid: d6b7262c-015c-dcf3-bff4-0091dd32b78f
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 
 
 # Pages object (Publisher)
 
-Represents all the pages in a publication. The  **Pages** collection contains all the **[Page](Publisher.Page.md)** objects in a publication.
+Represents all the pages in a publication. The **Pages** collection contains all the **[Page](Publisher.Page.md)** objects in a publication.
  
+## Remarks
 
+Use the **Add** method to add a new page to a publication. 
 
 ## Example
 
-Use the  **[Add](Publisher.Pages.Add.md)** method to add a new page to a publication. The following example adds a new page and a shape to the active publication.
- 
-
- 
+The following example adds a new page and a shape to the active publication.
 
 ```vb
 Sub AddPageAndShape() 

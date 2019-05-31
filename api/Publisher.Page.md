@@ -7,20 +7,26 @@ ms.prod: publisher
 api_name:
 - Publisher.Page
 ms.assetid: 9b2e8f29-26c3-1008-0ffd-eea2147abca4
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 
 
 # Page object (Publisher)
 
-Represents a page in a publication. The  **[Pages](Publisher.Pages.md)** collection contains all the **Page** objects in a publication.
+Represents a page in a publication. The **[Pages](Publisher.Pages.md)** collection contains all the **Page** objects in a publication.
 
+## Remarks
+
+Use **Pages** (_index_) to return a single **Page** object. 
+
+Use the **[FindByPageID](Publisher.Pages.FindByPageID.md)** property of the **Pages** object to locate a **Page** object by using the application assigned page ID. 
+
+Use the **[Add](Publisher.Pages.Add.md)** method to create a new page and add it to the publication. 
 
 ## Example
 
-Use  **Pages** (index) to return a single **Page** object. The following example adds new text to the first shape on the first page in the active publication.
-
+The following example adds new text to the first shape on the first page in the active publication.
 
 ```vb
 Sub AddPageNumberField() 
@@ -31,10 +37,9 @@ Sub AddPageNumberField()
 End Sub
 ```
 
-Use the  **[FindByPageID](Publisher.Pages.FindByPageID.md)** property to locate a **Page** object using the application assigned page ID. Use the **[Add](Publisher.Pages.Add.md)** method to create a new page and add it to the publication. The following example adds a new page to the active publication and then looks for that page using the page ID.
+<br/>
 
-
-
+The following example adds a new page to the active publication and then looks for that page by using the page ID.
 
 ```vb
 Sub FindPage() 

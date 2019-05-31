@@ -7,23 +7,34 @@ ms.prod: publisher
 api_name:
 - Publisher.Plates
 ms.assetid: 7da44b06-c94f-dadc-da91-09b757d5a076
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 
 
 # Plates object (Publisher)
 
-A collection of  **Plate** objects in a publication.
+A collection of **[Plate](Publisher.Plate.md)** objects in a publication.
  
+## Remarks
 
+The **Plates** collection is made up of **Plate** objects for the various publication color modes. Each publication can only use one color mode. For example, you can't specify the spot-color mode in a procedure and then later specify the process-color mode. 
+
+<!-- NO LINK EXISTS
+Use the **[CreatePlateCollection](overview/Publisher.md)** method of the **[Document](Publisher.Document.md)** object to specify which color mode to use in a publication's plate collection. -->
+
+Use the **Add** method to add a new plate to the **Plates** collection. 
+
+<!-- NO LINK EXISTS
+Use the **[EnterColorMode](overview/Publisher.md)** method of the **[Document](Publisher.Document.md)** object to the specify the color mode and the **Plates** collection to use with the color mode. Use the **[ColorMode](overview/Publisher.md)** property to determine which color mode is in use in a publication. -->
+
+Use the **FindPlateByInkName** method to return a specific plate by referencing its ink name. Process colors are assigned different index numbers in the **Plates** collection than in the **[PrintablePlates](Publisher.PrintablePlates.md)** collection. 
+
+Use the **FindPlateByInkName** method to ensure that the desired **Plate** object is accessed.
 
 ## Example
 
-The  **Plates** collection is made up of **Plate** objects for the various publication color modes. Each publication can only use one color mode. For example, you can't specify the spot-color mode in a procedure and then later specify the process-color mode. Use the **[CreatePlateCollection](overview/Publisher.md)** method of the **[Document](Publisher.Document.md)** object to specify which color mode to use in a publication's plate collection. Use the **[Add](Publisher.Plates.Add.md)** method of the **Plates** collection to add a new plate to the **Plates** collection. This example creates a new spot-color plate collection and adds a plate to it.
- 
-
- 
+This example creates a new spot-color plate collection and adds a plate to it.
 
 ```vb
 Sub AddNewPlates() 
@@ -37,12 +48,9 @@ Sub AddNewPlates()
 End Sub
 ```
 
-Use the  **[EnterColorMode](overview/Publisher.md)** method of the **[Document](Publisher.Document.md)** object to the specify the color mode and the **Plates** collection to use with the color mode. Use the **[ColorMode](overview/Publisher.md)** property to determine which color mode is in use in a publication. This example creates a spot-color plate collection, adds two plates to it, and then enters those plates into the spot-color mode.
- 
+<br/>
 
- 
-
-
+This example creates a spot-color plate collection, adds two plates to it, and then enters those plates into the spot-color mode.
 
 ```vb
 Sub CreateSpotColorMode() 
@@ -67,11 +75,6 @@ Sub CreateSpotColorMode()
  End With 
 End Sub
 ```
-
-Use the  **[FindPlateByInkName](Publisher.Plates.FindPlateByInkName.md)** method to return a specific plate by referencing its ink name. Process colors are assigned different index numbers in the **Plates** collection than in the **[PrintablePlates](Publisher.PrintablePlates.md)** collection. Use the **FindPlateByInkName** method to insure the desired **[Plate](Publisher.Plate.md)** or **[PrintablePlate](Publisher.PrintablePlate.md)** object is accessed.
- 
-
- 
 
 ## Methods
 

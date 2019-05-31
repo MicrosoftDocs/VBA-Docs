@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.ScratchArea
 ms.assetid: 41856866-c1d8-2550-1b4c-28886ed2b714
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 

@@ -7,24 +7,26 @@ ms.prod: publisher
 api_name:
 - Publisher.ReaderSpread
 ms.assetid: 32c55e79-2217-654f-730c-9abaa2cfb9de
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 
 
 # ReaderSpread object (Publisher)
 
-Represents the reader spread (not the printer spread) for the page. A reader spread generally contains one or two pages. The  **ReaderSpread** object properties provide information about whether pages are facing and how those pages are laid out. For example, in facing page view, pages two and three can be side-by-side or one on top of the other.
+Represents the reader spread (not the printer spread) for the page. A reader spread generally contains one or two pages. The **ReaderSpread** object properties provide information about whether pages are facing and how those pages are laid out. For example, in facing page view, pages two and three can be side-by-side or one on top of the other.
  
+## Remarks
+
+Use the **[Page.ReaderSpread](Publisher.Page.ReaderSpread.md)** property to access the **ReaderSpread** object for a page. 
+
+Use the **PageCount** property to determine if the reader spread includes one page or two facing pages. 
 
 
 ## Example
 
-Use the  **[ReaderSpread](Publisher.Page.ReaderSpread.md)** property to access the **ReaderSpread** object for a page. Use the **[PageCount](Publisher.ReaderSpread.PageCount.md)** property to determine if the reader spread includes one page or two facing pages. This example checks to see if the reader spread includes less than two pages. If it does, it changes the reader spread to include two pages.
+This example checks to see if the reader spread includes fewer than two pages. If it does, it changes the reader spread to include two pages.
  
-
- 
-
 ```vb
 Sub SetFacingPages() 
  With ActiveDocument 

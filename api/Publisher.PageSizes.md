@@ -7,25 +7,24 @@ ms.prod: publisher
 api_name:
 - Publisher.PageSizes
 ms.assetid: f31b08cc-2c76-e2d6-d1ae-6dcf2ac5824c
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 
 
 # PageSizes object (Publisher)
 
-Represents the collection of all  **PageSize** objects in the parent **Document** object, where each **PageSize** object represents one of the page sizes available in the current Microsoft Publisher document.
+Represents the collection of all **[PageSize](Publisher.PageSize.md)** objects in the parent **Document** object, where each **PageSize** object represents one of the page sizes available in the current Microsoft Publisher document.
 
 
 ## Remarks
 
-The page sizes represented by the  **PageSizes** collection correspond to the icons displayed under **Blank Page Sizes** in the **Page Setup** dialog box in the Publisher user interface.
+The page sizes represented by the **PageSizes** collection correspond to the icons displayed under **Blank Page Sizes** in the **Page Setup** dialog box in the Publisher user interface.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **PageSizes** collection to get all the page sizes available in the current document and print the list in the Immediate window.
-
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **PageSizes** collection to get all the page sizes available in the current document and print the list in the Immediate window.
 
 ```vb
 Public Sub PageSizes_Example() 
