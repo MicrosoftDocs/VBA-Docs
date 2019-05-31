@@ -7,20 +7,25 @@ ms.prod: publisher
 api_name:
 - Publisher.Story
 ms.assetid: 0385b4be-0046-9198-a186-0d992601780e
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 
 
 # Story object (Publisher)
 
-Represents the text in an unlinked text frame, text flowing between linked text frames, or text in a table cell. The  **Story** object is a member of the **TextFrame** and **TextRange** objects and the **Stories** collection.
+Represents the text in an unlinked text frame, text flowing between linked text frames, or text in a table cell. The **Story** object is a member of the **[TextFrame](publisher.textframe.md)** and **[TextRange](publisher.textrange.md)** objects and the **[Stories](Publisher.Stories.md)** collection.
+
+## Remarks
+
+Use the **[Story](publisher.textframe.story.md)** property of the **TextFrame** or **TextRange** object to return the **Story** object in a text frame or text range. 
+
+Use **[Stories](publisher.document.stories.md)** (_index_), where _index_ is the number of the story, to return an individual **Story** object. 
 
 
 ## Example
 
-Use the  **Story** property to return the **Story** object in a text range or text frame. This example returns the story in the selected text range and, if it is in a text frame, inserts text into the text range.
-
+This example returns the story in the selected text range and, if it is in a text frame, inserts text into the text range.
 
 ```vb
 Sub AddTextToStory() 
@@ -31,10 +36,9 @@ Sub AddTextToStory()
 End Sub
 ```
 
-Use  **Stories** (_index_), where _index_ is the number of the story, to return an individual **Story** object. This example determines if the first story in the active publication has a text frame and, if it does, formats the paragraphs in the story with a half inch first line indent and a six-point spacing before each paragraph.
+<br/>
 
-
-
+This example determines if the first story in the active publication has a text frame and, if it does, formats the paragraphs in the story with a half inch first line indent and a six-point spacing before each paragraph.
 
 ```vb
 Sub StoryParagraphFirstLineIndent() 

@@ -16,11 +16,13 @@ localization_priority: Normal
 
 Represents the area outside the boundaries of publication pages where layout elements may be stored with no effect on publication output.
  
+## Remarks
 
+Use the **[ScratchArea](Publisher.Document.ScratchArea.md)** property of the **Document** object to return a scratch area. 
+
+Use the **Shapes** property to return the collection of shapes that are currently on a scratch area.
 
 ## Example
-
-Use the  **[ScratchArea](Publisher.Document.ScratchArea.md)** property of the **Document** object to return a scratch area. Use the **Shapes** property of the **ScratchArea** object to return the collection of shapes that are currently on a scratch area.
  
 This example assigns the first shape on the scratch area of the active document to a variable.
  

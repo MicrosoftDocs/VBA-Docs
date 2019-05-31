@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Table
 ms.assetid: 09da4a0a-2230-067e-1cac-55321ea044c5
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 
@@ -16,11 +16,16 @@ localization_priority: Normal
 
 Represents a single table.
 
+## Remarks
+
+Use the **[Shape.Table](Publisher.Shape.Table.md)** property to return a **Table** object. 
+
+Use the **[Shapes.AddTable](Publisher.Shapes.AddTable.md)** method to add a **Shape** object representing a table at the specified range. 
+
 
 ## Example
 
-Use the  **[Table](Publisher.Shape.Table.md)** property to return a **Table** object. The following example selects the specified table in the active publication.
-
+The following example selects the specified table in the active publication.
 
 ```vb
 Sub SelectTable() 
@@ -31,10 +36,9 @@ Sub SelectTable()
 End Sub
 ```
 
-Use the  **[AddTable](Publisher.Shapes.AddTable.md)** method to add a **Shape** object representing a table at the specified range. The following example adds a 5x5 table on the first page of the active publication, and then selects the first column of the new table.
+<br/>
 
-
-
+The following example adds a 5x5 table on the first page of the active publication, and then selects the first column of the new table.
 
 ```vb
 Sub NewTable() 

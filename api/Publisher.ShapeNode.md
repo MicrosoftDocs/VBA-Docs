@@ -7,23 +7,25 @@ ms.prod: publisher
 api_name:
 - Publisher.ShapeNode
 ms.assetid: 8246e1fd-2477-91f4-490b-2d2b6032fccd
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 
 
 # ShapeNode object (Publisher)
 
-Represents the geometry and the geometry-editing properties of the nodes in a user-defined freeform. Nodes include the vertices between the segments of the freeform and the control points for curved segments. The  **ShapeNode** object is a member of the **[ShapeNodes](Publisher.ShapeNodes.md)** collection. The **ShapeNodes** collection contains all the nodes in a freeform.
- 
+Represents the geometry and the geometry-editing properties of the nodes in a user-defined freeform. Nodes include the vertices between the segments of the freeform and the control points for curved segments. 
 
+The **ShapeNode** object is a member of the **[ShapeNodes](Publisher.ShapeNodes.md)** collection. The **ShapeNodes** collection contains all the nodes in a freeform.
+
+## Remarks
+
+Use **[Shape.Nodes](Publisher.Shape.Nodes.md)** (_index_), where _index_ is the node index number, to return a single **ShapeNode** object. 
+ 
 
 ## Example
 
-Use  **Nodes** (_index_), where _index_ is the node index number, to return a single **ShapeNode** object. If node one in shape three on the active document is a corner point, the following example makes it a smooth point. For this example to work, shape one must be a freeform.
- 
-
- 
+If node one in shape three on the active document is a corner point, the following example makes it a smooth point. For this example to work, shape one must be a freeform.
 
 ```vb
 Sub ChangeNodeType() 

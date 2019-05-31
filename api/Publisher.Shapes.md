@@ -7,23 +7,42 @@ ms.prod: publisher
 api_name:
 - Publisher.Shapes
 ms.assetid: 52e069a6-d54b-a11a-1cba-96174329cb02
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 
 
 # Shapes object (Publisher)
 
-A collection of  **[Shape](Publisher.Shape.md)** objects that represent all the shapes on a page of a publication. Each **Shape** object represents an object in the drawing layer, such as an AutoShape, freeform, OLE object, or picture.
+A collection of **[Shape](Publisher.Shape.md)** objects that represent all the shapes on a page of a publication. Each **Shape** object represents an object in the drawing layer, such as an AutoShape, freeform, OLE object, or picture.
 
 > [!NOTE] 
-> If you want to work with a subset of the shapes on a document — for example, to do something to only the AutoShapes on the document or to only the selected shapes — you must construct a  **[ShapeRange](Publisher.ShapeRange.md)** collection that contains the shapes with which you want to work.
+> If you want to work with a subset of the shapes on a document&mdash;for example, to do something to only the AutoShapes on the document or to only the selected shapes&mdash;you must construct a **[ShapeRange](Publisher.ShapeRange.md)** collection that contains the shapes with which you want to work.
+
+## Remarks
+
+Use the **[Page.Shapes](Publisher.Page.Shapes.md)** property to return the **Shapes** collection. Use **Shapes** (_index_), where _index_ is the index number, to return a single **Shape** object. 
+
+> [!NOTE] 
+> If you want to do something (such as delete or set a property) to all the shapes in a publication at the same time, use the **[Range](Publisher.Shapes.Range.md)** method to create a **ShapeRange** object that contains all the shapes in the **Shapes** collection, and then apply the appropriate property or method to the **ShapeRange** object.
+
+Use one of the following methods of the **Shapes** collection to add a shape to a publication and return a **Shape** object that represents the newly created shape: 
+
+- **[AddCallout](Publisher.Shapes.AddCallout.md)**
+- **[AddConnector](Publisher.Shapes.AddConnector.md)**
+- **[AddCurve](Publisher.Shapes.AddCurve.md)**
+- **[AddLabel](Publisher.Shapes.AddLabel.md)**
+- **[AddLine](Publisher.Shapes.AddLine.md)**
+- **[AddOLEObject](Publisher.Shapes.AddOLEObject.md)**
+- **[AddPolyline](Publisher.Shapes.AddPolyline.md)**
+- **[AddShape](Publisher.Shapes.AddShape.md)**
+- **[AddTextbox](Publisher.Shapes.AddTextbox.md)**
+- **[AddTextEffect](Publisher.Shapes.AddTextEffect.md)** 
 
 
 ## Example
 
-Use the  **[Shapes](Publisher.Page.Shapes.md)** property to return the **Shapes** collection. The following example selects all the shapes on the first page of the active publication.
-
+The following example selects all the shapes on the first page of the active publication.
 
 ```vb
 Sub SelectAllShapes() 
@@ -31,15 +50,9 @@ Sub SelectAllShapes()
 End Sub
 ```
 
-> [!NOTE] 
-> If you want to do something (like delete or set a property) to all the shapes in a publication at the same time, use the  **[Range](Publisher.Shapes.Range.md)** method to create a **ShapeRange** object that contains all the shapes in the **Shapes** collection, and then apply the appropriate property or method to the **ShapeRange** object.
+<br/>
 
-
-
-Use one of the following methods of the  **Shapes** collection: **[AddCallout](Publisher.Shapes.AddCallout.md)**, **[AddConnector](Publisher.Shapes.AddConnector.md)**, **[AddCurve](Publisher.Shapes.AddCurve.md)**, **[AddLabel](Publisher.Shapes.AddLabel.md)**, **[AddLine](Publisher.Shapes.AddLine.md)**, **[AddOLEObject](Publisher.Shapes.AddOLEObject.md)**, **[AddPolyline](Publisher.Shapes.AddPolyline.md)**, **[AddShape](Publisher.Shapes.AddShape.md)**, **[AddTextbox](Publisher.Shapes.AddTextbox.md)**, or **[AddTextEffect](Publisher.Shapes.AddTextEffect.md)** to add a shape to a publication and return a **Shape** object that represents the newly created shape. The following example adds a new shape to the active publication.
-
-
-
+The following example adds a new shape to the active publication.
 
 ```vb
 Sub AddNewShape() 
@@ -48,10 +61,9 @@ Sub AddNewShape()
 End Sub
 ```
 
-Use  **Shapes** (_index_), where _index_ is the index number, to return a single **Shape** object. The following example horizontally flips shape one on the first page of the active publication.
+<br/>
 
-
-
+The following example horizontally flips shape one on the first page of the active publication.
 
 ```vb
 Sub FlipShape() 

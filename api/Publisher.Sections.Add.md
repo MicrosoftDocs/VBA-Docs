@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Sections](Publisher.Sections.md)** 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|StartPageIndex|Required| **Long**|The page number of the publication page that the new section begins on.|
+|_StartPageIndex_|Required| **Long**|The page number of the publication page that the new section begins on.|
 
 ## Return value
 
