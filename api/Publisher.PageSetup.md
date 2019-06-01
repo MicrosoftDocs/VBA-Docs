@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.PageSetup
 ms.assetid: 23fe3235-88ea-ac93-6d7d-850298263046
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 
@@ -16,11 +16,13 @@ localization_priority: Normal
 
 Contains information about the page setup for the pages in a publication.
 
+## Remarks
+
+Use the **[Document.PageSetup](Publisher.Document.PageSetup.md)** property to return the **PageSetup** object. 
 
 ## Example
 
-Use the  **[PageSetup](Publisher.Document.PageSetup.md)** property to return the **PageSetup** object. The following example sets all pages in the active publication to be 8.5 inches wide and 11 inches high.
-
+The following example sets all pages in the active publication to be 8.5 inches wide and 11 inches high.
 
 ```vb
 Sub SetPageSetupOptions() 

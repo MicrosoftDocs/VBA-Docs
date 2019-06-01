@@ -7,23 +7,24 @@ ms.prod: publisher
 api_name:
 - Publisher.Rows
 ms.assetid: 31b04a41-9005-8f51-87ab-426af0e901ed
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 
 
 # Rows object (Publisher)
 
-A collection of  **[Row](Publisher.Row.md)** objects that represent the rows in a table.
+A collection of **[Row](Publisher.Row.md)** objects that represent the rows in a table.
  
+## Remarks
 
+Use the **[Rows](Publisher.Table.Rows.md)** property of the **Table** object to return the **Rows** collection. 
+
+Use **Rows** (_index_), where _index_ is the index number, to return a single **Row** object. The index number represents the position of the row in the **Rows** collection (counting from left to right). 
 
 ## Example
 
-Use the  **[Rows](Publisher.Table.Rows.md)** property of the **[Table](Publisher.Table.md)** object to return the **Rows** collection. The following example displays the number of **[Row](Publisher.Row.md)** objects in the **Rows** collection for the first table in the active document.
- 
-
- 
+The following example displays the number of **Row** objects in the **Rows** collection for the first table in the active document.
 
 ```vb
 Sub CountRows() 
@@ -31,12 +32,9 @@ Sub CountRows()
 End Sub
 ```
 
-This example sets the fill for all even-numbered rows and clears the fill for all odd-numbered rows in the specified table. This example assumes the specified shape is a table and not another type of shape.
- 
+<br/>
 
- 
-
-
+This example sets the fill for all even-numbered rows, and clears the fill for all odd-numbered rows in the specified table. This example assumes that the specified shape is a table and not another type of shape.
 
 ```vb
 Sub FillCellsByRow() 
@@ -60,12 +58,9 @@ Sub FillCellsByRow()
 End Sub
 ```
 
-Use  **Rows** (_index_), where _index_ is the index number, to return a single **Row** object. The index number represents the position of the row in the **Rows** collection (counting from left to right). The following example selects the third row in the specified table.
- 
+<br/>
 
- 
-
-
+The following example selects the third row in the specified table.
 
 ```vb
 Sub SelectRows() 

@@ -7,30 +7,26 @@ ms.prod: publisher
 api_name:
 - Publisher.TabStop
 ms.assetid: 74e71d75-503f-ef57-ddeb-24a788402df2
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 
 
 # TabStop object (Publisher)
 
-Represents a single tab stop. The  **TabStop** object is a member of the **[TabStops](Publisher.TabStops.md)** collection. The **TabStops** collection represents all the custom and default tab stops in a paragraph or group of paragraphs.
+Represents a single tab stop. The **TabStop** object is a member of the **[TabStops](Publisher.TabStops.md)** collection. The **TabStops** collection represents all the custom and default tab stops in a paragraph or group of paragraphs.
  
-
-
 ## Remarks
 
-Set the  **[DefaultTabStop](Publisher.Document.DefaultTabStop.md)** property to adjust the spacing of default tab stops.
+Set the **[Document.DefaultTabStop](Publisher.Document.DefaultTabStop.md)** property to adjust the spacing of default tab stops.
  
+Use **[Tabs](Publisher.ParagraphFormat.Tabs.md)** (_index_), where _index_ is the location of the tab stop (in [points](../language/glossary/vbe-glossary.md#point)) or the index number, to return a single **TabStop** object. Tab stops are indexed numerically from left to right along the ruler. 
 
- 
+Use the **[Add](Publisher.TabStops.Add.md)** method to add a tab stop. 
 
 ## Example
 
-Use  **[Tabs](Publisher.TabStops.Add.md)** (_index_), where _index_ is the location of the tab stop (in points) or the index number, to return a single **TabStop** object. Tab stops are indexed numerically from left to right along the ruler. The following example removes the first custom tab stop from the selected paragraphs.
- 
-
- 
+The following example removes the first custom tab stop from the selected paragraphs.
 
 ```vb
 Sub ClearTabStop() 
@@ -38,12 +34,9 @@ Sub ClearTabStop()
 End Sub
 ```
 
+<br/>
+
 The following example adds a right-aligned tab stop positioned at 2 inches to the selected paragraphs.
- 
-
- 
-
-
 
 ```vb
 Sub ChangeTabStop() 
@@ -52,12 +45,9 @@ Sub ChangeTabStop()
 End Sub
 ```
 
-Use the  **[Add](Publisher.TabStops.Add.md)** method to add a tab stop. The following example adds two tab stops to the selected paragraphs. The first tab stop is a left-aligned tab with a dotted tab leader positioned at 1 inch (72 points). The second tab stop is centered and is positioned at 2 inches.
- 
+<br/>
 
- 
-
-
+The following example adds two tab stops to the selected paragraphs. The first tab stop is a left-aligned tab with a dotted tab leader positioned at 1 inch (72 points). The second tab stop is centered and is positioned at 2 inches.
 
 ```vb
 Sub AddNewTabs() 

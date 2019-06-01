@@ -7,23 +7,30 @@ ms.prod: publisher
 api_name:
 - Publisher.RulerGuide
 ms.assetid: 6400c368-02e9-169c-c675-9416cd361384
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 
 
 # RulerGuide object (Publisher)
 
-Represents a gridline used to align objects on a page. The  **RulerGuide** object is a member of the **[RulerGuides](Publisher.RulerGuides.md)** collection.
+Represents a gridline used to align objects on a page. The **RulerGuide** object is a member of the **[RulerGuides](Publisher.RulerGuides.md)** collection.
  
+## Remarks
+
+Use the **[Add](Publisher.RulerGuides.Add.md)** method of the **RulerGuides** collection to create a new ruler gridline. 
+
+Use the **[Item](Publisher.RulerGuides.Item.md)** property to reference a ruler guide. 
+
+Use the **Position** property to change the position of a gridline.
+
+Use the **Delete** method to remove a gridline. 
+
 
 
 ## Example
 
-Use the  **[Add](Publisher.RulerGuides.Add.md)** method of the **RulerGuides** collection to create a new ruler gridline. Use the **[Item](Publisher.RulerGuides.Item.md)** property to reference a ruler guide. Use the **[Position](Publisher.RulerGuide.Position.md)** property to change the position of a gridline, and use the **[Delete](Publisher.RulerGuide.Delete.md)** method to remove a gridline. This example creates a new ruler guide, moves it, and then deletes it.
- 
-
- 
+This example creates a new ruler guide, moves it, and then deletes it.
 
 ```vb
 Sub AddChangeDeleteGuide() 

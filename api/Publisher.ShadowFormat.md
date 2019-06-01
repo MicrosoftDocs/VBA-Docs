@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.ShadowFormat
 ms.assetid: b23ab92e-5e49-8d8d-69d5-93d391a9edb2
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 
@@ -16,14 +16,13 @@ localization_priority: Normal
 
 Represents shadow formatting for a shape.
  
+## Remarks
 
+Use the **[Shadow](publisher.shape.shadow.md)** property of the **Shape** or **[ShapeRange](publisher.shaperange.shadow.md)** object to return a **ShadowFormat** object. 
 
 ## Example
 
-Use the  **Shadow** property to return a **ShadowFormat** object. The following example adds a shadowed rectangle to the active document. The pink shadow is offset 7 points to the right of the rectangle and 7 points above it.
- 
-
- 
+The following example adds a shadowed rectangle to the active document. The pink shadow is offset 7 points to the right of the rectangle and 7 points above it.
 
 ```vb
 Sub FormatShadow() 

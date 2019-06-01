@@ -7,23 +7,23 @@ ms.prod: publisher
 api_name:
 - Publisher.Selection
 ms.assetid: 1ebee88b-a39e-ea3a-48b0-6205621853af
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 
 
 # Selection object (Publisher)
 
-Represents the current selection in a window or pane. A selection represents either a selected (or highlighted) area in the publication, or it represents the cursor if nothing in the publication is selected. There can only be one  **Selection** object per publication window pane, and only one **Selection** object in the entire application can be active.
+Represents the current selection in a window or pane. A selection represents either a selected (or highlighted) area in the publication, or it represents the cursor if nothing in the publication is selected. There can only be one **Selection** object per publication window pane, and only one **Selection** object in the entire application can be active.
  
+## Remarks
+
+Use the **[Document.Selection](Publisher.Document.Selection.md)** property to return the **Selection** object. If no object qualifier is used with the **Selection** property, Microsoft Publisher returns the selection from the active pane of the active publication window. 
 
 
 ## Example
 
-Use the  **[Selection](Publisher.Document.Selection.md)** property to return the **Selection** object. If no object qualifier is used with the **Selection** property, Microsoft Publisher returns the selection from the active pane of the active publication window. The following example copies the current selection from the active publication.
- 
-
- 
+The following example copies the current selection from the active publication.
 
 ```vb
 Sub CopySelection() 
@@ -31,12 +31,9 @@ Sub CopySelection()
 End Sub
 ```
 
-The following example determines what type of item is selected and, if it is an autoshape, fills the first shape in the selection with color. This example assumes there is at least one item selected in the active publication.
- 
+<br/>
 
- 
-
-
+The following example determines what type of item is selected and, if it is an autoshape, fills the first shape in the selection with color. This example assumes that there is at least one item selected in the active publication.
 
 ```vb
 Sub SelectedShape() 
@@ -47,12 +44,9 @@ Sub SelectedShape()
 End Sub
 ```
 
+<br/>
+
 The following example copies the selection and pastes it into the first shape on the second page of the active publication.
- 
-
- 
-
-
 
 ```vb
 Sub CopyPasteSelection() 

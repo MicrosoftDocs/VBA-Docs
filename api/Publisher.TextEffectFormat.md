@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.TextEffectFormat
 ms.assetid: 672d0ef0-cbcd-05ef-9aa5-b986c7b045ac
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 
@@ -16,14 +16,13 @@ localization_priority: Normal
 
 Contains properties and methods that apply to WordArt objects.
  
+## Remarks
 
+Use the **[TextEffect](publisher.shape.texteffect.md)** property of the **Shape** or **[ShapeRange](publisher.shaperange.texteffect.md)** object to return a **TextEffectFormat** object. 
 
 ## Example
 
-Use the  **TextEffect** property to return a **TextEffectFormat** object. The following example sets the font name and formatting for shape one on the first page of the active publication. For this example to work, shape one must be a WordArt object.
- 
-
- 
+The following example sets the font name and formatting for shape one on the first page of the active publication. For this example to work, shape one must be a WordArt object.
 
 ```vb
 Sub FormatWordArt() 

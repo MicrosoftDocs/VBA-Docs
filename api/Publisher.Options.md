@@ -7,20 +7,23 @@ ms.prod: publisher
 api_name:
 - Publisher.Options
 ms.assetid: 2554cd33-9d94-2622-6fab-19ca33d5a561
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 
 
 # Options object (Publisher)
 
-Represents application and publication options in Microsoft Publisher. Many of the properties for the  **Options** object correspond to items in the **Options** dialog box (**Tools** menu).
+Represents application and publication options in Microsoft Publisher. Many of the properties for the **Options** object correspond to items in the **Options** dialog box (**Tools** menu).
+
+## Remarks
+
+Use the **[Application.Options](Publisher.Application.Options.md)** property to return the **Options** object. 
 
 
 ## Example
 
-Use the  **[Options](Publisher.Application.Options.md)** property to return the **Options** object. The following example sets four application options for Publisher.
-
+The following example sets four application options for Publisher.
 
 ```vb
 Sub SetSpecialOptions() 

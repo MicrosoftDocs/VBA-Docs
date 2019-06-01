@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat
 ms.assetid: 0e5b1c20-564e-ef5c-f24d-1143dcaadcd8
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 
@@ -16,11 +16,15 @@ localization_priority: Normal
 
 Represents all the formatting for a paragraph.
 
+## Remarks
+
+Use the **[TextStyle.ParagraphFormat](Publisher.TextStyle.ParagraphFormat.md)** property to return the **ParagraphFormat** object for a paragraph or paragraphs. The **ParagraphFormat** property returns the **ParagraphFormat** object for a selection, range, or style. 
+
+Use the **Duplicate** method to copy an existing **ParagraphFormat** object. 
 
 ## Example
 
-Use the  **[ParagraphFormat](Publisher.TextStyle.ParagraphFormat.md)** property to return the **ParagraphFormat** object for a paragraph or paragraphs. The **ParagraphFormat** property returns the **ParagraphFormat** object for a selection, range, or style. The following example centers the paragraph at the cursor position. This example assumes that the first shape is a text box and not another type of shape.
-
+The following example centers the paragraph at the cursor position. This example assumes that the first shape is a text box and not another type of shape.
 
 ```vb
 Sub CenterParagraph() 
@@ -29,10 +33,9 @@ Sub CenterParagraph()
 End Sub
 ```
 
-Use the  **[Duplicate](Publisher.TextRange.Duplicate.md)** property to copy an existing **ParagraphFormat** object. The following example duplicates the paragraph formatting of the first paragraph in the active publication and stores the formatting in a variable. This example duplicates an existing **ParagraphFormat** object and then changes the left indent to one inch, creates a new textbox, inserts text into it, and applies the paragraph formatting of the duplicated paragraph format to the text.
+<br/>
 
-
-
+The following example duplicates the paragraph formatting of the first paragraph in the active publication and stores the formatting in a variable. This example duplicates an existing **ParagraphFormat** object and then changes the left indent to one inch, creates a new textbox, inserts text into it, and applies the paragraph formatting of the duplicated paragraph format to the text.
 
 ```vb
 Sub DuplicateParagraphFormating() 
@@ -47,7 +50,7 @@ Sub DuplicateParagraphFormating()
  With .Shapes.AddTextbox(pbTextOrientationHorizontal, _ 
  Left:=72, Top:=72, Width:=200, Height:=100) 
  With .TextFrame.TextRange 
- .Text = "This is a test of how to use " &amp; _ 
+ .Text = "This is a test of how to use " & _ 
  "the ParagraphFormat object." 
  .ParagraphFormat = pfmtDup 
  End With 

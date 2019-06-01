@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.ObjectVerbs
 ms.assetid: e04cf7db-ee56-7d95-9f5c-7ecee1844866
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 
@@ -16,15 +16,14 @@ localization_priority: Normal
 
 Represents the collection of OLE verbs for the specified OLE object. OLE verbs are the operations supported by an OLE object. Commonly used OLE verbs are play and edit.
  
+## Remarks
 
+Use the **[OLEFormat.ObjectVerbs](Publisher.OLEFormat.ObjectVerbs.md)** property to return an **ObjectVerbs** object. 
 
 ## Example
 
-Use the  **[ObjectVerbs](Publisher.OLEFormat.ObjectVerbs.md)** property to return an **ObjectVerbs** object. The following example displays all the available verbs for the OLE object contained in the first shape on first page in the active publication. For this example to work, the specified shape must contain an OLE object.
+The following example displays all the available verbs for the OLE object contained in the first shape on the first page in the active publication. For this example to work, the specified shape must contain an OLE object.
  
-
- 
-
 ```vb
 Sub GetVerbs() 
  Dim intCount As Integer 

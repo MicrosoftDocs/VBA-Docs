@@ -7,23 +7,29 @@ ms.prod: publisher
 api_name:
 - Publisher.Row
 ms.assetid: 11f4688b-b94e-fa09-7c1b-4cbcca330936
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 
 
 # Row object (Publisher)
 
-Represents a row in a table. The  **Row** object is a member of the **[Rows](Publisher.Rows.md)** collection. The **Rows** collection includes all the rows in a specified table.
+Represents a row in a table. The **Row** object is a member of the **[Rows](Publisher.Rows.md)** collection. The **Rows** collection includes all the rows in a specified table.
  
+## Remarks
+
+Use **Rows** (_index_), where _index_ is the row number, to return a single **Row** object. The index number represents the position of the row in the **Rows** collection (counting from left to right). 
+
+Use the **[Item](Publisher.Rows.Item.md)** method of a **Rows** collection to return a **Row** object. 
+
+Use the **[Add](Publisher.Rows.Add.md)** method to add a row to a table. 
+
+Use the **Delete** method to delete a row from a table. 
 
 
 ## Example
 
-Use  **Rows** (_index_), where _index_ is the row number, to return a single **Row** object. The index number represents the position of the row in the **Rows** collection (counting from left to right). This example selects the first row in the first shape on the second of the active publication. This example assumes the specified shape is a table and not another type of shape.
- 
-
- 
+This example selects the first row in the first shape on the second page of the active publication. This example assumes that the specified shape is a table and not another type of shape.
 
 ```vb
 Sub SelectRow() 
@@ -31,12 +37,9 @@ Sub SelectRow()
 End Sub
 ```
 
-Use the  **[Item](Publisher.Rows.Item.md)** method of a **[Rows](Publisher.Rows.md)** collection to return a **Row** object. This example sets the fill for all even numbered rows and clears the fill for all odd numbered rows in the specified table. This example assumes the specified shape is a table and not another type of shape.
- 
+<br/>
 
- 
-
-
+This example sets the fill for all even-numbered rows, and clears the fill for all odd-numbered rows in the specified table. This example assumes that the specified shape is a table and not another type of shape.
 
 ```vb
 Sub FillCellsByRow() 
@@ -60,12 +63,9 @@ Sub FillCellsByRow()
 End Sub
 ```
 
-Use the  **[Add](Publisher.Rows.Add.md)** method to add a row to a table. This example adds a row to the specified table on the second page of the active publication, and then adjusts the width, merges the cells, and sets the fill color. This example assumes the first shape is a table and not another type of shape.
- 
+<br/>
 
- 
-
-
+This example adds a row to the specified table on the second page of the active publication, and then adjusts the width, merges the cells, and sets the fill color. This example assumes that the first shape is a table and not another type of shape.
 
 ```vb
 Sub NewRow() 
@@ -81,12 +81,9 @@ Sub NewRow()
 End Sub
 ```
 
-Use the  **[Delete](Publisher.Row.Delete.md)** method to delete a row from a table. This example deletes the row added in the above example.
- 
+<br/>
 
- 
-
-
+This example deletes the row added in the previous example.
 
 ```vb
 Sub DeleteRow() 

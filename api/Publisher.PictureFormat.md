@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.PictureFormat
 ms.assetid: aa30ea9d-b91f-acdf-2e60-8a9f506f28b4
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 
@@ -16,11 +16,13 @@ localization_priority: Normal
 
 Contains properties and methods that apply to pictures.
 
+## Remarks
+
+Use the **[Shape.PictureFormat](Publisher.Shape.PictureFormat.md)** property to return a **PictureFormat** object. 
 
 ## Example
 
-Use the  **[PictureFormat](Publisher.Shape.PictureFormat.md)** property to return a **PictureFormat** object. The following example sets the brightness, contrast, and color transformation for shape one on the active document and crops 18 points off the bottom of the shape. For this example to work, shape one must be either a picture or an OLE object.
-
+The following example sets the brightness, contrast, and color transformation for shape one on the active document and crops 18 points off the bottom of the shape. For this example to work, shape one must be either a picture or an OLE object.
 
 ```vb
 Sub FormatPicture() 
