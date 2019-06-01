@@ -7,23 +7,27 @@ ms.prod: publisher
 api_name:
 - Publisher.Tags
 ms.assetid: 76cccc1e-4623-af8b-f0f8-e6cc245b94fd
-ms.date: 06/08/2017
+ms.date: 06/01/2019
 localization_priority: Normal
 ---
 
 
 # Tags object (Publisher)
 
-A collection of  **Tag** objects that represents tags or custom properties applied to a shape, shape range, page, or publication.
+A collection of **[Tag](Publisher.Tag.md)** objects that represent tags or custom properties applied to a shape, shape range, page, or publication.
  
+## Remarks
+
+Use the **[Shape.Tags](Publisher.Shape.Tags.md)** property to access the **Tags** collection. 
+
+Use the **Add** method to add a **Tag** object to a shape, shape range, page, or publication. 
+
+Use the **Count** property to determine if a shape, shape range, page, or publication contains one or more **Tag** objects. 
 
 
 ## Example
 
-Use the  **[Tags](Publisher.Shape.Tags.md)** property to access the **Tags** collection. Use the **[Add](Publisher.Tags.Add.md)** method of the **Tags** collection to add a **Tag** object to a shape, shape range, page, or publication. This example adds a tag to each oval shape on the first page of the active publication.
- 
-
- 
+This example adds a tag to each oval shape on the first page of the active publication.
 
 ```vb
 Sub AddNewTag() 
@@ -38,12 +42,9 @@ Sub AddNewTag()
 End Sub
 ```
 
-Use the  **[Count](Publisher.Tags.Count.md)** property to determine if a shape, shape range, page, or publication contains one or more **Tag** objects. This example fills all shapes on the first page of the active publication if the shape's first tag has a value of Oval.
- 
+<br/>
 
- 
-
-
+This example fills all shapes on the first page of the active publication if the shape's first tag has a value of Oval.
 
 ```vb
 Sub FormatTaggedShapes() 

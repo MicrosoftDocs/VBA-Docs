@@ -14,17 +14,20 @@ localization_priority: Normal
 
 # Tag object (Publisher)
 
-Represents a tag or a custom property that you can create for a shape, shape range, page, or publication. Each  **Tag** object contains the name of a custom property and a value for that property. **Tag** objects are members of the **[Tags](Publisher.Tags.md)** collection. Create a tag when you want to be able to selectively work with specific members of a collection, based on an attribute that isn't already represented by a built-in property.
- 
+Represents a tag or a custom property that you can create for a shape, shape range, page, or publication. Each **Tag** object contains the name of a custom property and a value for that property. **Tag** objects are members of the **[Tags](Publisher.Tags.md)** collection. 
 
+Create a tag when you want to be able to selectively work with specific members of a collection, based on an attribute that isn't already represented by a built-in property.
+ 
+## Remarks
+
+Use the **[Tags.Item](Publisher.Tags.Item.md)** method to return a **Tag** object. 
+
+Use the **[Tags.Add](Publisher.Tags.Add.md)** method to add a **Tag** object. 
 
 ## Example
 
-Use the  **[Item](Publisher.Tags.Item.md)** method of the **[Tags](Publisher.Tags.md)** collection to return a **Tag** object. This example fills all shapes on the first page of the active publication if the shape's first tag has a value of Oval.
+This example fills all shapes on the first page of the active publication if the shape's first tag has a value of Oval.
  
-
- 
-
 ```vb
 Sub FormatTaggedShapes() 
  Dim shp As Shape 
@@ -40,12 +43,9 @@ Sub FormatTaggedShapes()
 End Sub
 ```
 
-Use the  **[Add](Publisher.Tags.Add.md)** method to add a Tag object. This example adds a tag to all oval shapes in the active publication.
- 
+<br/>
 
- 
-
-
+This example adds a tag to all oval shapes in the active publication.
 
 ```vb
 Sub TagShapes() 
