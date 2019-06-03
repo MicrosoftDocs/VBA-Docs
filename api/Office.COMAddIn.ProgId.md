@@ -30,9 +30,9 @@ The following example displays the ProgID and GUID for COM add-in one in a messa
 
 
 ```vb
-MsgBox "My ProgID is " &amp; _ 
- Application.COMAddIns(1).ProgID &amp; _ 
- " and my GUID is " &amp; _ 
+MsgBox "My ProgID is " & _ 
+ Application.COMAddIns(1).ProgID & _ 
+ " and my GUID is " & _ 
  Application.COMAddIns(1).Guid
 ```
 

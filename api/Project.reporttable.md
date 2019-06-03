@@ -67,9 +67,9 @@ Sub TestReportTable()
     Set theReportTable = theShape.Table
     
     With theReportTable
-        Debug.Print "Rows: " &amp; .RowsCount
-        Debug.Print "Columns: " &amp; .ColumnsCount
-        Debug.Print "Table contents:" &amp; vbCrLf &amp; .GetCellText(1, 1)
+        Debug.Print "Rows: " & .RowsCount
+        Debug.Print "Columns: " & .ColumnsCount
+        Debug.Print "Table contents:" & vbCrLf & .GetCellText(1, 1)
     End With
 End Sub
 ```
@@ -135,7 +135,7 @@ Sub DeleteTheReport()
     reportName = "Table Tests"
     
     ' To delete the active report, change to another view.
-    ViewApplyEx Name:="&amp;Gantt Chart"
+    ViewApplyEx Name:="&Gantt Chart"
     
     ActiveProject.Reports(reportName).Delete
 End Sub

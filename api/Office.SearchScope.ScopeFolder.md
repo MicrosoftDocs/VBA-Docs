@@ -48,7 +48,7 @@ Sub DisplayRootScopeFolders()
  'the ScopeFolders collection of the 
  'SearchScope object and display the path. 
  For Each sf In ss.ScopeFolder.ScopeFolders 
- MsgBox "Path: " &amp; sf.Path 
+ MsgBox "Path: " & sf.Path 
  Next sf 
  
  Case Else 

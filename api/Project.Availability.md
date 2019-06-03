@@ -24,9 +24,9 @@ Use  **Availabilities(***Index* **)**, where*Index* is the availability index nu
 
 
 ```vb
-MsgBox ActiveProject.Resources("Tom").Name &amp; " is available from " &amp; _ 
-    ActiveProject.Resources("Tom").Availabilities(1).AvailableFrom &amp; " to " &amp; _ 
-    ActiveProject.Resources("Tom").Availabilities(1).AvailableTo &amp; "." 
+MsgBox ActiveProject.Resources("Tom").Name & " is available from " & _ 
+    ActiveProject.Resources("Tom").Availabilities(1).AvailableFrom & " to " & _ 
+    ActiveProject.Resources("Tom").Availabilities(1).AvailableTo & "." 
 
 ```
 
@@ -39,7 +39,7 @@ Use the  **[Availabilities](Project.Resource.Availabilities.md)** property to re
 Dim Avail As Availability 
  
 For Each Avail In ActiveProject.Resources("Tom").Availabilities 
-    MsgBox "From " &amp; Avail.AvailableFrom &amp; " to " &amp; Avail.AvailableTo 
+    MsgBox "From " & Avail.AvailableFrom & " to " & Avail.AvailableTo 
 Next Avail 
 
 ```

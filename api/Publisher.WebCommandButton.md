@@ -34,7 +34,7 @@ Sub CreateActionWebButton()
  .ButtonText = "Submit" 
  .ButtonType = pbCommandButtonSubmit 
  .ActionURL = "https://www.tailspintoys.com/" _ 
- &amp; "scripts/ispscript.cgi" 
+ & "scripts/ispscript.cgi" 
  End With 
 End Sub
 ```

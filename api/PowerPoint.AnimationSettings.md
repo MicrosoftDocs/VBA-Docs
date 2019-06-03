@@ -31,7 +31,7 @@ With sObjs.Placeholders(2)
 
     .TextFrame.TextRange.Text = _
 
-        "Reason 1" &amp; VBNewLine &amp; "Reason 2" &amp; VBNewLine &amp; "Reason 3"
+        "Reason 1" & VBNewLine & "Reason 2" & VBNewLine & "Reason 3"
 
     With .AnimationSettings
 

@@ -54,7 +54,7 @@ This example uses the **FindControls** method to return all members of the **Com
 ```vb
 Dim myControls As CommandBarControls 
 Set myControls = CommandBars.FindControls(Type:=msoControlButton, ID:=18) 
-MsgBox "There are " &amp; myControls.Count &amp; _ 
+MsgBox "There are " & myControls.Count & _ 
     " controls that meet the search criteria."
 ```
 

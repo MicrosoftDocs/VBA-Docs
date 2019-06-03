@@ -47,7 +47,7 @@ EndRoutine:
  Exit Sub 
   
 ErrRoutine: 
- MsgBox Err.Description, vbOKOnly, Err.Number &amp; " - " &amp; Err.Source  
+ MsgBox Err.Description, vbOKOnly, Err.Number & " - " & Err.Source  
  Resume EndRoutine 
  
 End Sub 

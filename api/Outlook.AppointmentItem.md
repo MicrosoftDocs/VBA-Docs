@@ -103,7 +103,7 @@ Sub TestExceptions()
  
  Debug.Print oItemOriginal.subject 
  
- Debug.Print " Original item exceptions: " &amp; oEx.Count 
+ Debug.Print " Original item exceptions: " & oEx.Count 
  
  
  
@@ -119,7 +119,7 @@ Sub TestExceptions()
  
  Set oEx2 = oItemNew.GetRecurrencePattern().Exceptions 
  
- Debug.Print " New item exceptions: " &amp; oEx2.Count 
+ Debug.Print " New item exceptions: " & oEx2.Count 
  
  
  
@@ -129,7 +129,7 @@ Sub TestExceptions()
  
  Set oEx = oItemOriginal.GetRecurrencePattern().Exceptions 
  
- Debug.Print " Original item exceptions: " &amp; oEx.Count 
+ Debug.Print " Original item exceptions: " & oEx.Count 
  
  
  
@@ -175,7 +175,7 @@ Sub TestExceptions()
  
  Set oEx2 = oItemNew.GetRecurrencePattern().Exceptions 
  
- Debug.Print " New item exceptions: " &amp; oEx2.Count 
+ Debug.Print " New item exceptions: " & oEx2.Count 
  
  
  
@@ -185,7 +185,7 @@ Sub TestExceptions()
  
  Set oEx = oItemOriginal.GetRecurrencePattern().Exceptions 
  
- Debug.Print " Original item exceptions: " &amp; oEx.Count 
+ Debug.Print " Original item exceptions: " & oEx.Count 
  
 End Sub
 ```

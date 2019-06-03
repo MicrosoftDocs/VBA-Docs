@@ -45,7 +45,7 @@ The following example displays the URL of the shared workspace file.
 
 
 ```vb
-MsgBox "URL: " &amp; ActiveWorkbook.SharedWorkspaceFile.URL, _ 
+MsgBox "URL: " & ActiveWorkbook.SharedWorkspaceFile.URL, _ 
         vbInformation + vbOKOnly, "Shared Workspace File URL"
 ```
 

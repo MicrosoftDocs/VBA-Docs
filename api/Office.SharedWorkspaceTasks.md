@@ -28,7 +28,7 @@ Use the **[Tasks](Office.SharedWorkspace.Tasks.md)** property of the **[SharedWo
 ```vb
     Dim swsTasks As Office.SharedWorkspaceTasks 
     Set swsTasks = ActiveWorkbook.SharedWorkspace.Tasks 
-    MsgBox "There are " &amp; swsTasks.Count &amp; _ 
+    MsgBox "There are " & swsTasks.Count & _ 
         " task(s) in the current shared workspace.", _ 
         vbInformation + vbOKOnly, _ 
         "Collection Information" 

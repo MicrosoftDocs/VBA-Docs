@@ -27,12 +27,12 @@ Use **Application.LanguageSettings.LanguageID**(_MsoAppLanguageID_), where [MsoA
 The following example returns the install language, user interface language, and Help language LCIDs in a message box.
 
 ```vb
-MsgBox "The following locale IDs are registered " &amp; _ 
- "for this application: Install Language - " &amp; _ 
- Application.LanguageSettings.LanguageID(msoLanguageIDInstall) &amp; _ 
- " User Interface Language - " &amp; _ 
- Application.LanguageSettings.LanguageID(msoLanguageIDUI) &amp; _ 
- " Help Language - " &amp; _ 
+MsgBox "The following locale IDs are registered " & _ 
+ "for this application: Install Language - " & _ 
+ Application.LanguageSettings.LanguageID(msoLanguageIDInstall) & _ 
+ " User Interface Language - " & _ 
+ Application.LanguageSettings.LanguageID(msoLanguageIDUI) & _ 
+ " Help Language - " & _ 
  Application.LanguageSettings.LanguageID(msoLanguageIDHelp)
 ```
 

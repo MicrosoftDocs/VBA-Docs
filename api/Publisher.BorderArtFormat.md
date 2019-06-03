@@ -39,7 +39,7 @@ The following example returns the BorderArt of the first shape on the first page
 Dim bdaTemp As BorderArtFormat 
  
 Set bdaTemp = ActiveDocument.Pages(1).Shapes(1).BorderArt 
-MsgBox "BorderArt name is: " &amp;bdaTemp.Name
+MsgBox "BorderArt name is: " &bdaTemp.Name
 ```
 
 <br/>

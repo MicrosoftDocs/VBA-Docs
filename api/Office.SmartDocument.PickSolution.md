@@ -54,8 +54,8 @@ The following example checks the **SolutionID** property to determine whether th
  objSmartDoc.PickSolution True 
  End If 
  If objSmartDoc.SolutionID > "None" And objSmartDoc.SolutionID > "" Then 
- strSmartDocInfo = "SolutionID: " &amp; objSmartDoc.SolutionID &amp; vbCrLf &amp; _ 
- "SolutionURL: " &amp; objSmartDoc.SolutionURL 
+ strSmartDocInfo = "SolutionID: " & objSmartDoc.SolutionID & vbCrLf & _ 
+ "SolutionURL: " & objSmartDoc.SolutionURL 
  MsgBox strSmartDocInfo, vbInformation + vbOKOnly, "Smart Doc Properties" 
  Else 
  MsgBox "The user clicked Cancel." 

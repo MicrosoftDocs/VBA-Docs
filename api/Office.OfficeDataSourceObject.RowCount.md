@@ -35,7 +35,7 @@ Sub OfficeFilters()
  Dim appFilters As ODSOFilters 
  
  Set appOffice = Application.OfficeDataSourceObject 
- appOffice.Open bstrConnect:="DRIVER=SQL Server;SERVER=ServerName;" &amp; _ 
+ appOffice.Open bstrConnect:="DRIVER=SQL Server;SERVER=ServerName;" & _ 
  "UID=user;PWD=;DATABASE=Northwind", bstrTable:="Employees" 
  
  Set appFilters = appOffice.Filters 

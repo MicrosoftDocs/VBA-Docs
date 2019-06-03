@@ -32,7 +32,7 @@ Sub SetDataSortOrder()
  Dim appOffice As OfficeDataSourceObject 
  
  Set appOffice = Application.OfficeDataSourceObject 
- appOffice.Open bstrConnect:="DRIVER=SQL Server;SERVER=ServerName;" &amp; _ 
+ appOffice.Open bstrConnect:="DRIVER=SQL Server;SERVER=ServerName;" & _ 
  "UID=user;PWD=;DATABASE=Northwind", bstrTable:="Employees" 
  
  appOffice.SetSortOrder SortField1:="ZipCode", _ 
@@ -50,7 +50,7 @@ Sub SetQueryCriterion()
  Dim appOffice As Office.OfficeDataSourceObject 
  Dim intItem As Integer 
  
- appOffice.Open bstrConnect:="DRIVER=SQL Server;SERVER=ServerName;" &amp; _ 
+ appOffice.Open bstrConnect:="DRIVER=SQL Server;SERVER=ServerName;" & _ 
  "UID=user;PWD=;DATABASE=Northwind", bstrTable:="Employees" 
  
  With appOffice.Filters 

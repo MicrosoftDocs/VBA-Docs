@@ -28,7 +28,7 @@ Use the **[Links](Office.SharedWorkspace.Links.md)** property of the **[SharedWo
 ```vb
     Dim swsLinks As Office.SharedWorkspaceLinks 
     Set swsLinks = ActiveWorkbook.SharedWorkspace.Links 
-    MsgBox "There are " &amp; swsLinks.Count &amp; _ 
+    MsgBox "There are " & swsLinks.Count & _ 
         " link(s) in the current shared workspace.", _ 
         vbInformation + vbOKOnly, _ 
         "Collection Information" 

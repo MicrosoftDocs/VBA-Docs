@@ -67,7 +67,7 @@ Use the  **[Information](Word.Selection.Information.md)** property with a **[Sel
 If Selection.Information(wdWithInTable) = True Then 
  Selection.Columns(1).Select 
  MsgBox "Column " _ 
- &amp; Selection.Information(wdStartOfRangeColumnNumber) 
+ & Selection.Information(wdStartOfRangeColumnNumber) 
 End If
 ```
 
