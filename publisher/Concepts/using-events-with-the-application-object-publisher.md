@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Using events with the Application object (Publisher)
 
-To create an event handler for an event of the **[Application](publisher.application.md)** object, you need to complete the following three steps:
+To create an event handler for an event of the **[Application](../../api/publisher.application.md)** object, you need to complete the following three steps:
 
 1. Declare an object variable in a class module to respond to the events.
     

@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[AdvancedPrintOptions](Publisher.Ad
 
 ## Return value
 
-**[PbOrientationType](pborientationtype.md)**
+**[PbOrientationType](publisher.pborientationtype.md)**
 
 
 ## Remarks
