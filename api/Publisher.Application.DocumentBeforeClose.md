@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Application.DocumentBeforeClose
 ms.assetid: d3ca4397-4df3-dc77-b758-d47e0bf13fe5
-ms.date: 06/08/2017
+ms.date: 06/04/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |_Doc_|Required| **Document**|The document that is being closed.|
@@ -35,13 +33,14 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 ## Remarks
 
-To access the  **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft Publisher **Application** object, see [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-application-object-publisher.md).
+To access the **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events. 
+
+For information about using events with the Microsoft Publisher **Application** object, see [Using events with the Application object](../publisher/Concepts/using-events-with-the-application-object-publisher.md).
 
 
 ## Example
 
-This example prompts the user for a yes or no response before closing a document. To see this example work, this code must be placed in a class module and an instance of the class must be correctly initialized, using an example similar to the  **SetPubApp** routine below.
-
+This example prompts the user for a yes or no response before closing a document. To see this example work, this code must be placed in a class module and an instance of the class must be correctly initialized, using an example similar to the **SetPubApp** routine below.
 
 ```vb
 Private WithEvents PubApp As Application 
@@ -63,9 +62,6 @@ End Sub
 ```
 
 
-## See also
 
-
- [Application Object](Publisher.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

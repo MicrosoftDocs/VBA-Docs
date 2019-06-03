@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Application.Documents
 ms.assetid: dd48d68f-a6ae-b5c0-2a85-90abff1e6c5a
-ms.date: 06/08/2017
+ms.date: 06/04/2019
 localization_priority: Normal
 ---
 
 
 # Application.Documents property (Publisher)
 
-Returns a  **[Documents](Publisher.Documents.md)** collection that represents all open publications. Read-only.
+Returns a **[Documents](Publisher.Documents.md)** collection that represents all open publications. Read-only.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ Documents
 
 ## Example
 
-The following example lists all of the open publications.
-
+The following example lists all the open publications.
 
 ```vb
 Dim objDocument As Document 
@@ -44,9 +43,6 @@ MsgBox Prompt:=strMsg, Title:="Current Documents Open", Buttons:=vbOKOnly
 ```
 
 
-## See also
 
-
- [Application Object](Publisher.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

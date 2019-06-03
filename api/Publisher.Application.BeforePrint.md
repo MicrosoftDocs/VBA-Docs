@@ -7,26 +7,24 @@ ms.prod: publisher
 api_name:
 - Publisher.Application.BeforePrint
 ms.assetid: 4d819aab-726e-ab00-89e0-aedcb62d834e
-ms.date: 06/08/2017
+ms.date: 06/04/2019
 localization_priority: Normal
 ---
 
 
 # Application.BeforePrint event (Publisher)
 
-Occurs before the publication is printed or previewed. .
+Occurs before the publication is printed or previewed.
 
 
 ## Syntax
 
 _expression_.**BeforePrint** (_Doc_, _Cancel_)
 
- _expression_ An expression that returns an **[Application](Publisher.Application.md)** object.
+_expression_ An expression that returns an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -35,15 +33,14 @@ _expression_.**BeforePrint** (_Doc_, _Cancel_)
 
 ## Remarks
 
-The  **BeforePrint** event fires only after the document is fully loaded and the onload events have returned. Printing does not occur until the event handler is executed.
+The **BeforePrint** event fires only after the document is fully loaded and the onload events have returned. Printing does not occur until the event handler is executed.
 
-For more information about using events with the  **Application** object, see [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-application-object-publisher.md).
+For more information about using events with the **Application** object, see [Using events with the Application object](../publisher/Concepts/using-events-with-the-application-object-publisher.md).
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to handle the  **BeforePrint** event. It displays a message notifying the user that the document is about to be printed.
-
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to handle the **BeforePrint** event. It displays a message notifying the user that the document is about to be printed.
 
 ```vb
 Private Sub pubApplication_BeforePrint(ByVal Doc As Document, Cancel As Boolean ) 
@@ -51,19 +48,17 @@ Private Sub pubApplication_BeforePrint(ByVal Doc As Document, Cancel As Boolean 
 End Sub
 ```
 
-For this event to occur, you must place the following line of code in the  **General Declarations** section of your module.
+<br/>
 
-
-
+For this event to occur, you must place the following line of code in the **General Declarations** section of your module.
 
 ```vb
 Private WithEvents pubApplication As Application
 ```
 
+<br/>
+
 Then run the following initialization procedure.
-
-
-
 
 ```vb
 Public Sub Initialize_pubApplication() 
@@ -72,9 +67,6 @@ End Sub
 ```
 
 
-## See also
 
-
- [Application Object](Publisher.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

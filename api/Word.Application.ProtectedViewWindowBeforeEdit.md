@@ -35,7 +35,7 @@ _expression_. `ProtectedViewWindowBeforeEdit`( `_PvWindow_` , `_Cancel_` )
 
 ## Example
 
-The following code example prompts the user for a yes or no response before enabling editing on a document in a Protected View window. This code must be placed in a class module, and an instance of the class must be correctly initialized for this code example to work correctly. For more information about how to do this, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
+The following code example prompts the user for a yes or no response before enabling editing on a document in a Protected View window. This code must be placed in a class module, and an instance of the class must be correctly initialized for this code example to work correctly. For more information about how to do this, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
 The following code example assumes that you have declared an application variable called "App" in your general declarations and have set the variable equal to the Word Application object.
 

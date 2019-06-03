@@ -35,7 +35,7 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 If you do not have address verification software installed on your computer, use the  **MailMergeDataSourceValidate** event to create simple filtering routines, such as looping through records to check the postal codes and remove any that are non-U.S. Non-U.S. users can filter out all U.S. postal codes by modifying the code sample below and using Microsoft Visual Basic commands to search for text or special characters.
 
-To access the  **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft Publisher **Application** object, see [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-application-object-publisher.md).
+To access the  **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft Publisher **Application** object, see [Using events with the Application object](../publisher/Concepts/using-events-with-the-application-object-publisher.md).
 
 
 ## Example

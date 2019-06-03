@@ -21,7 +21,7 @@ Occurs when the editing area of a document window is double-clicked, before the 
 
 _expression_. `Private Sub object_WindowBeforeDoubleClick`( `_ByVal Sel As Selection_` , `_Cancel As Boolean_` )
 
-_expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module. For more information about using events with the **Application** object, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
+_expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module. For more information about using events with the **Application** object, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
 
 ## Parameters
@@ -35,7 +35,7 @@ _expression_ A variable that represents an '[Application](Word.Application.md)' 
 
 ## Example
 
-This example prompts the user for a yes or no response before executing the default double-click action. This code must be placed in a class module, and an instance of the class must be correctly initialized to see this example work; see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md)for directions on how to accomplish this.
+This example prompts the user for a yes or no response before executing the default double-click action. This code must be placed in a class module, and an instance of the class must be correctly initialized to see this example work; see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md)for directions on how to accomplish this.
 
 
 ```vb
