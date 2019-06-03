@@ -49,11 +49,11 @@ Private Sub cmdSearch_Click()
     On Error GoTo 0
     
     vWhere = Null
-    vWhere = vWhere &amp; " AND [PymtTypeID]=" + Me.cboPaymentTypes
-    vWhere = vWhere &amp; " AND [RefundTypeID]=" + Me.cboRefundType
-    vWhere = vWhere &amp; " AND [RefundCDMID]=" + Me.cboRefundCDM
-    vWhere = vWhere &amp; " AND [RefundOptionID]=" + Me.cboRefundOption
-    vWhere = vWhere &amp; " AND [RefundCodeID]=" + Me.cboRefundCode
+    vWhere = vWhere &amp; " AND [PymtTypeID]=" & Me.cboPaymentTypes
+    vWhere = vWhere &amp; " AND [RefundTypeID]=" & Me.cboRefundType
+    vWhere = vWhere &amp; " AND [RefundCDMID]=" & Me.cboRefundCDM
+    vWhere = vWhere &amp; " AND [RefundOptionID]=" & Me.cboRefundOption
+    vWhere = vWhere &amp; " AND [RefundCodeID]=" & Me.cboRefundCode
     
     If Nz(vWhere, "") = "" Then
         MsgBox "There are no search criteria selected." &amp; vbCrLf &amp; vbCrLf &amp; _
@@ -114,13 +114,13 @@ Private Sub cboMainCategory_NotInList(NewData As String, Response As Integer)
     On Error GoTo Error_Handler
     Dim intAnswer As Integer
     intAnswer = MsgBox("""" &amp; NewData &amp; """ is not an approved category. " &amp; vbcrlf _
-        &amp; "Do you want to add it now?" _ vbYesNo + vbQuestion, "Invalid Category")
+        &amp; "Do you want to add it now?", vbYesNo + vbQuestion, "Invalid Category")
 
     Select Case intAnswer
         Case vbYes
             DoCmd.SetWarnings False
-            DoCmd.RunSQL "INSERT INTO tlkpCategoryNotInList (Category) "
-                &amp; _ "Select """ &amp; NewData &amp; """;"
+            DoCmd.RunSQL "INSERT INTO tlkpCategoryNotInList (Category) " &amp; _ 
+                         "Select """ &amp; NewData &amp; """;"
             DoCmd.SetWarnings True
             Response = acDataErrAdded
         Case vbNo
@@ -135,7 +135,7 @@ Private Sub cboMainCategory_NotInList(NewData As String, Response As Integer)
         Exit Sub
 
     Error_Handler:
-        MsgBox Err.Number &amp; ", " &amp; Error Description
+        MsgBox Err.Number &amp; ", " &amp; Err.Description
         Resume Exit_Procedure
         Resume
 
