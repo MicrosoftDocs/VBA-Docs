@@ -49,11 +49,11 @@ Private Sub cmdSearch_Click()
     On Error GoTo 0
     
     vWhere = Null
-    vWhere = vWhere &amp; " AND [PymtTypeID]=" + Me.cboPaymentTypes
-    vWhere = vWhere &amp; " AND [RefundTypeID]=" + Me.cboRefundType
-    vWhere = vWhere &amp; " AND [RefundCDMID]=" + Me.cboRefundCDM
-    vWhere = vWhere &amp; " AND [RefundOptionID]=" + Me.cboRefundOption
-    vWhere = vWhere &amp; " AND [RefundCodeID]=" + Me.cboRefundCode
+    vWhere = vWhere &amp; " AND [PymtTypeID]=" & Me.cboPaymentTypes
+    vWhere = vWhere &amp; " AND [RefundTypeID]=" & Me.cboRefundType
+    vWhere = vWhere &amp; " AND [RefundCDMID]=" & Me.cboRefundCDM
+    vWhere = vWhere &amp; " AND [RefundOptionID]=" & Me.cboRefundOption
+    vWhere = vWhere &amp; " AND [RefundCodeID]=" & Me.cboRefundCode
     
     If Nz(vWhere, "") = "" Then
         MsgBox "There are no search criteria selected." &amp; vbCrLf &amp; vbCrLf &amp; _
