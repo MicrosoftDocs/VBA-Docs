@@ -26,7 +26,7 @@ _expression_ A variable that represents an [Application](./PowerPoint.Applicatio
 
 ## Remarks
 
-For information about returning a single member of a collection, see [Returning an Object from a Collection](../powerpoint/How-to/return-objects-from-collections.md).
+For information about returning a single member of a collection, see [Returning an object from a collection](../powerpoint/How-to/return-objects-from-collections.md).
 
 
 ## See also

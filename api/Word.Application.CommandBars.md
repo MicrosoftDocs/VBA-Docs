@@ -28,7 +28,7 @@ _expression_ A variable that represents an '[Application](Word.Application.md)' 
 
 Use the  **[CustomizationContext](Word.Application.CustomizationContext.md)** property to set the template or document context prior to accessing the **CommandBars** collection.
 
-For information about returning a single member of a collection, see [Returning an Object from a Collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
+For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 
 
 ## Example

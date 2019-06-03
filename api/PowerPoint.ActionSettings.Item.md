@@ -64,7 +64,7 @@ ActivePresentation.Slides.Item(1)
 ActivePresentation.Slides(1)
 ```
 
-For more information about returning a single member of a collection, see [Returning an Object from a Collection](../powerpoint/How-to/return-objects-from-collections.md).
+For more information about returning a single member of a collection, see [Returning an object from a collection](../powerpoint/How-to/return-objects-from-collections.md).
 
 
 ## Example
