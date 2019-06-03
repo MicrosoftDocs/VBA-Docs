@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Adjustments.Count
 ms.assetid: 1b32f1c3-0bbc-a175-4f59-36cc76df12fd
-ms.date: 06/08/2017
+ms.date: 06/04/2019
 localization_priority: Normal
 ---
 
 
 # Adjustments.Count property (Publisher)
 
-Returns a  **Long** that represents the number of items in the specified collection.
+Returns a **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents an **[Adjustments](Publisher.Adjustments
 
 This example displays the number of pages in the active document.
 
-
 ```vb
 Sub CountNumberOfPages() 
  MsgBox "Your publication contains " & _ 
@@ -36,10 +35,9 @@ Sub CountNumberOfPages()
 End Sub
 ```
 
+<br/>
+
 This example displays the number of shapes in the active document.
-
-
-
 
 ```vb
 Sub CountNumberOfShapes() 
@@ -55,9 +53,5 @@ End Sub
 ```
 
 
-## See also
-
-
- [Adjustments Object](Publisher.Adjustments.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

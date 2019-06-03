@@ -43,7 +43,7 @@ Actual barcode data is provided to Publisher by the  **[MailMergeGenerateBarcode
 
 The  **MailMergeInsertBarcode** event is also triggered when a user clicks **Add a postal barcode** in the **Mail Merge** or **Catalog Merge** task pane, or **Add postal bar codes** in the **Publisher Tasks** task pane in the Publisher UI. Before a user can click either of these UI commands, you must first make them available by setting the **[InsertBarcodeVisible](Publisher.Application.InsertBarcodeVisible.md)** property to **True**. 
 
-For more information about using events with the  **Application** object, see [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-application-object-publisher.md).
+For more information about using events with the  **Application** object, see [Using events with the Application object](../publisher/Concepts/using-events-with-the-application-object-publisher.md).
 
 
 ## Example

@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Application.ActiveDocument
 ms.assetid: c6293fa6-291c-d8ce-be54-f8a997b95d2e
-ms.date: 06/08/2017
+ms.date: 06/04/2019
 localization_priority: Normal
 ---
 
 
 # Application.ActiveDocument property (Publisher)
 
-Returns a  **[Document](Publisher.Document.md)** object that represents the active publication. If there are no documents open, an error occurs.
+Returns a **[Document](Publisher.Document.md)** object that represents the active publication. If there are no documents open, an error occurs.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ Document
 
 ## Example
 
-This example allows the user to assign a file name to the active publication and save it with the new file name. The file name, along with other text, is then inserted after the currently selected text. (Note that Filename must be replaced with a valid publication name for this example to work.)
-
+This example allows the user to assign a file name to the active publication and save it with the new file name. The file name, along with other text, is then inserted after the currently selected text. Note that `FileName` must be replaced with a valid publication name for this example to work.
 
 ```vb
 Sub NewsLetterSave() 
@@ -52,9 +51,6 @@ End Sub
 ```
 
 
-## See also
 
-
- [Application Object](Publisher.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

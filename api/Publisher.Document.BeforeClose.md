@@ -32,7 +32,7 @@ _expression_ A variable that represents a **[Document](Publisher.Document.md)** 
 
 ## Remarks
 
-For more information about using events with the  **Document** object, see [Using Events with the Document Object](../publisher/Concepts/using-events-with-the-document-object-publisher.md).
+For more information about using events with the  **Document** object, see [Using events with the Document object](../publisher/Concepts/using-events-with-the-document-object-publisher.md).
 
 
 ## Example

@@ -30,7 +30,7 @@ The WizardAfterChange event only occurs once regardless of the scope or number o
 
 To access the  **Document** object events, declare a **Document** object variable in the General Declarations section of a class module, then set the variable equal to the **Document** object for which you want to access events.
 
-For more information about using events with the  **Document** object, see [Using Events with the Document Object](../publisher/Concepts/using-events-with-the-document-object-publisher.md).
+For more information about using events with the  **Document** object, see [Using events with the Document object](../publisher/Concepts/using-events-with-the-document-object-publisher.md).
 
 
 ## Example

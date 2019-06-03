@@ -7,14 +7,18 @@ ms.prod: publisher
 api_name:
 - Publisher.Adjustments.Application
 ms.assetid: 9782bcd4-91ac-4ea3-4db7-f87b9b7c00ee
-ms.date: 06/08/2017
+ms.date: 06/04/2019
 localization_priority: Normal
 ---
 
 
 # Adjustments.Application property (Publisher)
 
-Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
+When used without an object qualifier, this property returns an **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. 
+
+When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object. 
+
+When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
@@ -28,7 +32,6 @@ _expression_ A variable that represents an **[Adjustments](Publisher.Adjustments
 
 This example displays the version and build information for Publisher.
 
-
 ```vb
 With Application 
  MsgBox "Current Publisher: version " _ 
@@ -36,10 +39,9 @@ With Application
 End With
 ```
 
+<br/>
+
 This example displays the name of the application that created each linked OLE object on page one of the active publication.
-
-
-
 
 ```vb
 Dim shpOle As Shape 
@@ -52,9 +54,6 @@ Next
 ```
 
 
-## See also
 
-
- [Adjustments Object](Publisher.Adjustments.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,7 +23,7 @@ Occurs when the selection changes in the active document window.
 
 _expression_. `Private Sub object_WindowSelectionChange`(`ByVal Sel As Selection`)
 
-_expression_ A variable that represents an [Application](Word.Application.md) object that has been declared with events in a class module. For more information about using events with the **Application** object, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
+_expression_ A variable that represents an [Application](Word.Application.md) object that has been declared with events in a class module. For more information about using events with the **Application** object, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
 
 ## Parameters
@@ -34,7 +34,7 @@ _expression_ A variable that represents an [Application](Word.Application.md) ob
 
 ## Example
 
-This example applies bold formatting to the new selection. This code must be placed in a class module, and an instance of the class must be correctly initialized to see this example work; see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md) for directions on how to accomplish this.
+This example applies bold formatting to the new selection. This code must be placed in a class module, and an instance of the class must be correctly initialized to see this example work; see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md) for directions on how to accomplish this.
 
 
 ```vb

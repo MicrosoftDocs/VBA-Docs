@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.AdvancedPrintOptions.BackSideInsertFaceUp
 ms.assetid: 359c05bf-e040-5dcc-910f-6510887ac554
-ms.date: 06/08/2017
+ms.date: 06/04/2019
 localization_priority: Normal
 ---
 
@@ -31,12 +31,8 @@ Boolean
 
 ## Remarks
 
-The  **BackSideInsertFaceUp** property setting corresponds to whether the **Face up** or **Face down** option is selected when **Clockwise rotation** is selected under **Envelope feed method** in the **Envelope Setup** dialog box in the Microsoft Publisher user interface. (On the **File** menu, click **Print Setup**. On the  **Printer Details** tab, click **Advanced Printer Setup**. On the  **Printer Setup Wizard** tab, click **Envelope Setup Dialog**).
+The **BackSideInsertFaceUp** property setting corresponds to whether the **Face up** or **Face down** option is selected when **Clockwise rotation** is selected under **Envelope feed method** in the **Envelope Setup** dialog box in the Microsoft Publisher user interface. On the **File** menu, choose **Print Setup**. On the **Printer Details** tab, choose **Advanced Printer Setup**. On the **Printer Setup Wizard** tab, choose **Envelope Setup Dialog**.
 
 
-## See also
-
-
- [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

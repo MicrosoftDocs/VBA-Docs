@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[Application](Word.Application.md)' 
 
 ## Remarks
 
-For information about returning a single member of a collection, see [Returning an Object from a Collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
+For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 
 
  **Note**  A document displayed in a Protected View window is not a member of the  **[Documents](Word.Application.Documents.md)** collection. Instead, use the [Document](Word.Document.md) property of the [ProtectedViewWindow](Word.ProtectedViewWindow.md) object to access a document that is displayed in a Protected View window.

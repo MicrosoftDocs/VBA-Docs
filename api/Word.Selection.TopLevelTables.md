@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Selection](Word.Selection.md)** obj
 
 This method returns a collection containing only those tables at the outermost nesting level within the context of the current selection. These tables may not be at the outermost nesting level within the entire set of nested tables.
 
-For information about returning a single member of a collection, see [Returning an Object from a Collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
+For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 
 
 ## Example

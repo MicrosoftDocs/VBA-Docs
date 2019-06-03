@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Document](Word.Document.md) object.
 
 If the event procedure is stored in a template, the procedure will run when a new document based on that template is opened and when the template itself is opened as a document.
 
-For information about using events with the **Document** object, see [Using Events with the Document Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md).
+For information about using events with the **Document** object, see [Using events with the Document object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md).
 
 
 ## Example

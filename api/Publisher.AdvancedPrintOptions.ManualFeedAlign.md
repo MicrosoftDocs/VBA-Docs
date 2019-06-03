@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.AdvancedPrintOptions.ManualFeedAlign
 ms.assetid: 5c2dc0a7-981f-731d-6a85-0971c7e19a62
-ms.date: 06/08/2017
+ms.date: 06/04/2019
 localization_priority: Normal
 ---
 
@@ -26,19 +26,14 @@ _expression_ A variable that represents an **[AdvancedPrintOptions](Publisher.Ad
 
 ## Return value
 
- **PbPlacementType**
+**[PbPlacementType](publisher.pbplacementtype.md)**
 
 
 ## Remarks
 
-The  **ManualFeedAlign** property setting, in conjunction with the **[AdvancedPrintOptions.ManualFeedDirection](Publisher.AdvancedPrintOptions.ManualFeedDirection.md)** property setting, corresponds to the **Envelope feed method** setting in the **Envelope Setup** dialog box in the Microsoft Publisher user interface. (On the **File** menu, click **Print Setup**. On the  **Printer Details** tab, click **Advanced Printer Setup**. On the  **Printer Setup Wizard** tab, click **Envelope Setup Dialog**).
+The **ManualFeedAlign** property setting, in conjunction with the **[ManualFeedDirection](Publisher.AdvancedPrintOptions.ManualFeedDirection.md)** property setting, corresponds to the **Envelope feed method** setting in the **Envelope Setup** dialog box in the Microsoft Publisher user interface. On the **File** menu, choose **Print Setup**. On the **Printer Details** tab, choose **Advanced Printer Setup**. On the **Printer Setup Wizard** tab, choose **Envelope Setup Dialog**.
 
-Possible values for  **ManualFeedAlign** are **pbPlacementCenter** (3), **pbPlacementLeft** (1), and **pbPlacementRight** (2).
+Possible values for **ManualFeedAlign** are **pbPlacementCenter** (3), **pbPlacementLeft** (1), and **pbPlacementRight** (2).
 
-
-## See also
-
-
- [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

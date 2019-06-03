@@ -35,7 +35,7 @@ Private Sub  _expression_ _'ContentControlAfterAdd'(**_NewContentControl_**, **_
 
 ## Remarks
 
-For information about using events with the  **Document** object, see [Using Events with the Document Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md).
+For information about using events with the  **Document** object, see [Using events with the Document object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md).
 
 
 ## See also

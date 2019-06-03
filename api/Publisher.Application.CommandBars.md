@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Application.CommandBars
 ms.assetid: 21537c04-d406-6016-4f35-2f6ce6851db2
-ms.date: 06/08/2017
+ms.date: 06/04/2019
 localization_priority: Normal
 ---
 
 
 # Application.CommandBars property (Publisher)
 
-Sets or returns a  **CommandBars** collection that represents the menu bar and all the toolbars in Microsoft Publisher.
+Sets or returns a **CommandBars** collection that represents the menu bar and all the toolbars in Microsoft Publisher.
 
 
 ## Syntax
@@ -33,7 +33,6 @@ CommandBars
 
 This example enlarges all command bar buttons, enables ToolTips, and shows all menu items when displaying menus.
 
-
 ```vb
 Sub CmdBars() 
  
@@ -46,10 +45,9 @@ Sub CmdBars()
 End Sub
 ```
 
-This example displays the  **Objects** toolbar at the bottom of the application window.
+<br/>
 
-
-
+This example displays the **Objects** toolbar at the bottom of the application window.
 
 ```vb
 Sub ShowObjectsToolbar 
@@ -63,9 +61,5 @@ End Sub
 ```
 
 
-## See also
-
-
- [Application Object](Publisher.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

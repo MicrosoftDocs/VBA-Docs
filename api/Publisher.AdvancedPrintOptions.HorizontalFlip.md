@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.AdvancedPrintOptions.HorizontalFlip
 ms.assetid: afb61c80-4706-8602-e78a-be35e2966c8c
-ms.date: 06/08/2017
+ms.date: 06/04/2019
 localization_priority: Normal
 ---
 
 
 # AdvancedPrintOptions.HorizontalFlip property (Publisher)
 
- **True** to print a horizontally mirrored image of the specified publication. The default is **False**. Read/write  **Boolean**.
+**True** to print a horizontally mirrored image of the specified publication. The default is **False**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,19 +26,18 @@ _expression_ A variable that represents an **[AdvancedPrintOptions](Publisher.Ad
 
 ## Remarks
 
-This property is accessible only if the active printer is a PostScript printer. Returns a run-time error if a non-PostScript printer is specified. Use the  **[IsPostscriptPrinter](Publisher.AdvancedPrintOptions.IsPostscriptPrinter.md)** property of the **[AdvancedPrintOptions](Publisher.AdvancedPrintOptions.md)** object to determine if the specified printer is a PostScript printer.
+This property is accessible only if the active printer is a PostScript printer. Returns a run-time error if a non-PostScript printer is specified. Use the **[IsPostscriptPrinter](Publisher.AdvancedPrintOptions.IsPostscriptPrinter.md)** property to determine if the specified printer is a PostScript printer.
 
 This property is saved as an application setting and applied to future instances of Microsoft Publisher.
 
-This property corresponds to the  **Flip horizontally** control on the **Page Settings** tab of the **Advanced Print Settings** dialog box.
+This property corresponds to the **Flip horizontally** control on the **Page Settings** tab of the **Advanced Print Settings** dialog box.
 
 This property is mostly used when printing to film on an imagesetter so that the image reads correctly when the emulsion side of the film is down (as when burning a press plate).
 
 
 ## Example
 
-The following example determines if the active printer is a PostScript printer. If it is, the active publication is set to print as a horizontally mirrored and vertically mirrored, negative image of itself.
-
+The following example determines if the active printer is a PostScript printer. If it is, the active publication is set to print as a horizontally mirrored and vertically mirrored negative image of itself.
 
 ```vb
 Sub PrepToPrintToFilmOnImagesetter() 
@@ -55,9 +54,5 @@ End Sub
 ```
 
 
-## See also
-
-
- [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
