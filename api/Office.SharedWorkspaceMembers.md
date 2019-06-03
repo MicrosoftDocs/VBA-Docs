@@ -28,7 +28,7 @@ Use the **[Members](Office.SharedWorkspace.Members.md)** property of the **[Shar
 ```vb
     Dim swsMembers As Office.SharedWorkspaceMembers 
     Set swsMembers = ActiveWorkbook.SharedWorkspace.Members 
-    MsgBox "There are " &amp; swsMembers.Count &amp; _ 
+    MsgBox "There are " & swsMembers.Count & _ 
         " member(s) in the current shared workspace.", _ 
         vbInformation + vbOKOnly, _ 
         "Collection Information" 

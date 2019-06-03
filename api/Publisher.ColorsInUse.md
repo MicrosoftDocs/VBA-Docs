@@ -42,10 +42,10 @@ For Each cfLoop In ActiveDocument.ColorsInUse
  
  With cfLoop 
  If .Ink = "2" Then 
- Debug.Print "BaseRGB: " &amp; .BaseRGB 
- Debug.Print "RGB: " &amp; .RGB 
- Debug.Print "TintShade: " &amp; .TintAndShade 
- Debug.Print "Type: " &amp; .Type 
+ Debug.Print "BaseRGB: " & .BaseRGB 
+ Debug.Print "RGB: " & .RGB 
+ Debug.Print "TintShade: " & .TintAndShade 
+ Debug.Print "Type: " & .Type 
  End If 
  End With 
  

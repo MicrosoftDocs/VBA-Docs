@@ -72,15 +72,15 @@ Sub GetAccessData()
  Dim strDB As String 
  Dim strReportName As String 
  
- strDB = "C:\Program Files\Microsoft "_ 
- &amp; "Office\Office11\Samples\Northwind.mdb" 
+ strDB = "C:\Program Files\Microsoft " _ 
+          & "Office\Office11\Samples\Northwind.mdb" 
  strReportName = InputBox("Enter name of report to be verified", _ 
- "Report Verification") 
+                          "Report Verification") 
  VerifyAccessReport strDB, strReportName 
 End Sub 
  
 Sub VerifyAccessReport(strDB As String, _ 
- strReportName As String) 
+                       strReportName As String) 
  ' Return reference to Microsoft Access 
  ' Application object. 
  Set appAccess = New Access.Application 
@@ -88,15 +88,15 @@ Sub VerifyAccessReport(strDB As String, _
  appAccess.OpenCurrentDatabase strDB 
  ' Verify report exists. 
  On Error Goto ErrorHandler 
- appAccess.CurrentProject.AllReports(strReportName) 
- MsgBox "Report " &amp; strReportName &amp; _ 
- " verified within Northwind database." 
+ IsObject appAccess.CurrentProject.AllReports(strReportName) 
+ MsgBox "Report " & strReportName & _ 
+        " verified within " & appAccess.CurrentProject.Name & " database."
  appAccess.CloseCurrentDatabase 
  Set appAccess = Nothing 
 Exit Sub 
 ErrorHandler: 
- MsgBox "Report " &amp; strReportName &amp; _ 
- " does not exist within Northwind database." 
+ MsgBox "Report " & strReportName & _ 
+        " does not exist within " & appAccess.CurrentProject.Name & " database."
  appAccess.CloseCurrentDatabase 
  Set appAccess = Nothing 
 End Sub

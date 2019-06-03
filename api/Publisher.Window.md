@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Window
 ms.assetid: 342d77cd-5556-6ac3-a828-b1b60380f910
-ms.date: 06/08/2017
+ms.date: 06/04/2019
 localization_priority: Normal
 ---
 
@@ -16,14 +16,15 @@ localization_priority: Normal
 
 Represents a window. Many publication characteristics, such as scroll bars and rulers, are actually properties of the window.
  
+## Remarks
 
+Use the **[ActiveWindow](Publisher.Application.ActiveWindow.md)** property of the **Application** object to return a **Window** object.
+
+Use the **Caption** property to return the file and application names of the active window. 
 
 ## Example
 
-Use the  **[ActiveWindow](Publisher.Application.ActiveWindow.md)** property to return a **Window** object. The following example maximizes the active window.
- 
-
- 
+The following example maximizes the active window.
 
 ```vb
 Sub MaximizeWindow 
@@ -31,19 +32,15 @@ Sub MaximizeWindow
 End Sub
 ```
 
-Use the  **[Caption](Publisher.Window.Caption.md)** property to return the file and application names of the active window. The following example displays a message with the file name and Microsoft Publisher application name.
- 
+<br/>
 
- 
-
-
+The following example displays a message with the file name and Microsoft Publisher application name.
 
 ```vb
 Sub ShowFileApNames 
  MsgBox Windows(1).Caption 
 End Sub
 ```
-
 
 ## Methods
 

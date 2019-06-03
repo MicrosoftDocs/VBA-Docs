@@ -27,11 +27,11 @@ Use a property such as the  **[ReportList](./Project.Project.ReportList.md)** pr
 Dim Items As Integer, ReportNames As String 
  
 For Items = 1 To ActiveProject.ReportList.Count 
- ReportNames = ActiveProject.ReportList(Items) &amp; _ 
- ListSeparator &amp; " " &amp; ReportNames 
+ ReportNames = ActiveProject.ReportList(Items) & _ 
+ ListSeparator & " " & ReportNames 
 Next Items 
  
-MsgBox Left$(ReportNames, Len(ReportNames) - Len(ListSeparator &amp; " "))
+MsgBox Left$(ReportNames, Len(ReportNames) - Len(ListSeparator & " "))
 ```
 
 

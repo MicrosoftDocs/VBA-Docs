@@ -7,33 +7,43 @@ ms.prod: publisher
 api_name:
 - Publisher.TextStyle
 ms.assetid: 163ab726-ac44-07d1-ab7b-50061037cc77
-ms.date: 06/08/2017
+ms.date: 06/04/2019
 localization_priority: Normal
 ---
 
 
 # TextStyle object (Publisher)
 
-Represents a single built-in or user-defined style. The  **TextStyle** object includes style attributes (font, font style, paragraph spacing, and so on) as properties of the **TextStyle** object. The **TextStyle** object is a member of the **[TextStyles](Publisher.TextStyles.md)** collection. The **TextStyles** collection includes all the styles in the specified document.
+Represents a single built-in or user-defined style. The **TextStyle** object includes style attributes (font, font style, paragraph spacing, and so on) as properties of the **TextStyle** object. 
+
+The **TextStyle** object is a member of the **[TextStyles](Publisher.TextStyles.md)** collection. The **TextStyles** collection includes all the styles in the specified document.
  
+
+## Remarks
+
+Use **TextStyles** (_index_), where _index_ is the text style number or name, to return a single **TextStyle** object. You must exactly match the spelling and spacing of the style name, but not necessarily its capitalization.
+
+Use the **[TextStyles.Add](Publisher.TextStyles.Add.md)** method to create a new style. 
+
+To apply a style to a range, paragraph, or multiple paragraphs, set the **[ParagraphFormat.TextStyle](Publisher.ParagraphFormat.TextStyle.md)** property to a user-defined or built-in style name. 
 
 
 ## Example
-
-Use  **TextStyles** (_index_), where _index_ is the text style number or name, to return a single **TextStyle** object. You must exactly match the spelling and spacing of the style name, but not necessarily its capitalization.
  
-The following example displays the style name and base style of the first style in the  **TextStyles** collection.
+The following example displays the style name and base style of the first style in the **TextStyles** collection.
 
 ```vb
 Sub BaseStyleName() 
  With ActiveDocument.TextStyles(1) 
- MsgBox "Style name= " &amp; .Name _ 
- &amp; vbCr &amp; "Base style= " &amp; .BaseStyle 
+ MsgBox "Style name= " & .Name _ 
+ & vbCr & "Base style= " & .BaseStyle 
  End With 
 End Sub
 ```
 
-Use the  **[Add](Publisher.TextStyles.Add.md)** method to create a new style. To apply a style to a range, paragraph, or multiple paragraphs, set the **[TextStyle](Publisher.ParagraphFormat.TextStyle.md)** property to a user-defined or built-in style name. The following example creates a new style and applies it to the paragraph at the cursor position.
+<br/>
+
+The following example creates a new style and applies it to the paragraph at the cursor position.
 
 ```vb
 Sub ApplyTextStyle() 

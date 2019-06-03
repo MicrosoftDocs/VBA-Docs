@@ -41,9 +41,9 @@ This example displays the number of custom document properties in the active doc
 
 
 ```vb
-MsgBox ("There are " &amp; _ 
- ActiveDocument.CustomDocumentProperties.Count &amp; _ 
- " custom document properties in the " &amp; _ 
+MsgBox ("There are " & _ 
+ ActiveDocument.CustomDocumentProperties.Count & _ 
+ " custom document properties in the " & _ 
  "active document.")
 ```
 

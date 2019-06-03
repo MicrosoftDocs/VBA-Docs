@@ -14,25 +14,23 @@ localization_priority: Normal
 
 # WebNavigationBarSet.AddToEveryPage method (Publisher)
 
-Adds a  **ShapeRange** of type **pbWebNavigationBar** to each page of the current document.
+Adds a **ShapeRange** of type **pbWebNavigationBar** to each page of the current document.
 
 
 ## Syntax
 
-_expression_.**AddToEveryPage**(**_Left_**,  **_Top_**,  **_Width_**)
+_expression_.**AddToEveryPage** (_Left_, _Top_, _Width_)
 
 _expression_ A variable that represents a **[WebNavigationBarSet](Publisher.WebNavigationBarSet.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Left|Required| **Variant**|The position of the left edge of the shape representing the Web navigation bar set.|
-|Top|Required| **Variant**|The position of the top edge of the shape representing the Web navigation bar set.|
-|Width|Optional| **Variant**|The width of the shape representing the Web navigation bar set.|
+|_Left_|Required| **Variant**|The position of the left edge of the shape representing the Web navigation bar set.|
+|_Top_|Required| **Variant**|The position of the top edge of the shape representing the Web navigation bar set.|
+|_Width_|Optional| **Variant**|The width of the shape representing the Web navigation bar set.|
 
 ## Return value
 

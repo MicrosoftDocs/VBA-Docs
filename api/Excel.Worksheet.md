@@ -90,14 +90,14 @@ Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean
    'Go through each file in the list (separated by commas) and
    'create the path, call the executable, and move on to the next comma.
    Do While InStr(sFile, ",")
-      sTxt = sPath &amp; "\" &amp; Left(sFile, InStr(sFile, ",") - 1) &amp; "." &amp; sSfx
-      If Dir(sTxt) <> "" Then Shell sExe &amp; " " &amp; sTxt, vbNormalFocus
+      sTxt = sPath & "\" & Left(sFile, InStr(sFile, ",") - 1) & "." & sSfx
+      If Dir(sTxt) <> "" Then Shell sExe & " " & sTxt, vbNormalFocus
       sFile = Right(sFile, Len(sFile) - InStr(sFile, ","))
    Loop
    
    'Finish off the last file name in the list
-   sTxt = sPath &amp; "\" &amp; sFile &amp; "." &amp; sSfx
-   If Dir(sTxt) <> "" Then Shell sExe &amp; " " &amp; sTxt, vbNormalNoFocus
+   sTxt = sPath & "\" & sFile & "." & sSfx
+   If Dir(sTxt) <> "" Then Shell sExe & " " & sTxt, vbNormalNoFocus
 End Sub
 ```
 

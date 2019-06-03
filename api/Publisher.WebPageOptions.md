@@ -7,30 +7,29 @@ ms.prod: publisher
 api_name:
 - Publisher.WebPageOptions
 ms.assetid: 694b56ce-1c2d-8202-25b7-19e55aadb0fd
-ms.date: 06/08/2017
+ms.date: 06/04/2019
 localization_priority: Normal
 ---
 
 
 # WebPageOptions object (Publisher)
 
-Represents the properties of a single Web page within a web publication, including options for adding the title and description of the page, background sounds, in addition to other options. The  **WebPageOptions** object is a member of the **[Page](Publisher.Page.md)** object.
+Represents the properties of a single webpage within a web publication, including options for adding the title and description of the page and background sounds. The **WebPageOptions** object is a member of the **[Page](Publisher.Page.md)** object.
  
-
 
 ## Remarks
 
-Note that the  **WebPageOptions** object is only available when the active publication is a web publication. A run-time error is returned if trying to access this object from a print publication.
- 
+Use the **[WebPageOptions](Publisher.Page.WebPageOptions.md)** property of the **Page** object to return a **WebPageOptions** object. 
 
+Use the **Description** property to set the description of a specified webpage. 
+
+> [!NOTE] 
+> The **WebPageOptions** object is only available when the active publication is a web publication. A run-time error is returned if trying to access this object from a print publication.
  
 
 ## Example
 
-Use the  **[WebPageOptions](Publisher.Page.WebPageOptions.md)** property on the **Page** object to return a **WebPageOptions** object. Use the **[Description](Publisher.WebPageOptions.Description.md)** property to set the description of a specified Web page. The following example sets the description for the second page of the active web publication.
- 
-
- 
+The following example sets the description for the second page of the active web publication.
 
 ```vb
 Dim theWPO As WebPageOptions 

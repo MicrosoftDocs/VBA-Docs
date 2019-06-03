@@ -33,7 +33,7 @@ Sub SetQueryCriterion()
  Dim intItem As Integer 
  
  Set appOffice = Application.OfficeDataSourceObject 
- appOffice.Open bstrConnect:="DRIVER=SQL Server;SERVER=ServerName;" &amp; _ 
+ appOffice.Open bstrConnect:="DRIVER=SQL Server;SERVER=ServerName;" & _ 
  "UID=user;PWD=;DATABASE=Northwind", bstrTable:="Employees" 
  
  With appOffice.Filters 
@@ -59,7 +59,7 @@ Sub SetQueryCriterion()
  Dim appOffice As OfficeDataSourceObject 
  
  Set appOffice = Application.OfficeDataSourceObject 
- appOffice.Open bstrConnect:="DRIVER=SQL Server;SERVER=ServerName;" &amp; _ 
+ appOffice.Open bstrConnect:="DRIVER=SQL Server;SERVER=ServerName;" & _ 
  "UID=user;PWD=;DATABASE=Northwind", bstrTable:="Employees" 
  
  With appOffice.Filters 

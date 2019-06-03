@@ -28,7 +28,7 @@ Use the **Folders** property of the **SharedWorkspace** object to return a **Sha
 ```vb
     Dim swsFolders As Office.SharedWorkspaceFolders 
     Set swsFolders = ActiveWorkbook.SharedWorkspace.Folders 
-    MsgBox "There are " &amp; swsFolders.Count &amp; _ 
+    MsgBox "There are " & swsFolders.Count & _ 
         " folder(s) in the current shared workspace.", _ 
         vbInformation + vbOKOnly, _ 
         "Collection Information" 

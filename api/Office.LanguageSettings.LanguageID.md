@@ -38,7 +38,7 @@ This Microsoft Excel example checks the **LanguageID** property settings for the
 ```vb
 If Application.LanguageSettings.LanguageID(msoLanguageIDExeMode) _ 
  > Application.LanguageSettings.LanguageID(msoLanguageIDUI) _ 
- Then MsgBox "The user interface language and execution " &amp; _ 
+ Then MsgBox "The user interface language and execution " & _ 
  "mode are different."
 ```
 

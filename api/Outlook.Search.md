@@ -71,7 +71,7 @@ Private Sub Application_AdvancedSearchComplete(ByVal SearchObject As Search)
  
  Dim objRsts As Results 
  
- MsgBox "The search " &amp; SearchObject.Tag &amp; "has completed. 
+ MsgBox "The search " & SearchObject.Tag & "has completed. 
  
  Set objRsts = SearchObject.Results 
  

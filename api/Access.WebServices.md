@@ -27,7 +27,7 @@ Use the following steps to install a Data Services data connection in your datab
     
 2. On the ribbon, choose the **External Data** tab.
     
-3. In the **Import &amp; Link** group, choose the **More** drop-down, and then choose **Data Services**.
+3. In the **Import & Link** group, choose the **More** drop-down, and then choose **Data Services**.
     
 4. At the bottom of the **Create Link to Data Services** dialog box, choose **Install New Connection**.
     

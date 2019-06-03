@@ -29,7 +29,7 @@ Use  **GroupCriteria2(***Index* **)**, where*Index* is the criterion index, to r
 
 
 ```vb
-ActiveProject.ResourceGroups2("Standard Rate").GroupCriteria2(1).CellColor = &amp;HFF0000
+ActiveProject.ResourceGroups2("Standard Rate").GroupCriteria2(1).CellColor = &HFF0000
 ```
 
  **Using the GroupCriteria2 Collection**
@@ -49,9 +49,9 @@ Dim Fields As String
   
 For Each GC2 In ActiveProject.TaskGroups2("Priority Keeping Outline Structure").GroupCriteria  
     If GC2.Ascending = True Then  
-        Fields = Fields &amp; GC2.Index &amp; ". " &amp; GC2.FieldName &amp; " is sorted in ascending order." &amp; vbCrLf  
+        Fields = Fields & GC2.Index & ". " & GC2.FieldName & " is sorted in ascending order." & vbCrLf  
     Else  
-        Fields = Fields &amp; GC2.Index &amp; ". " &amp; GC2.FieldName &amp; " is sorted in descending order." &amp; vbCrLf  
+        Fields = Fields & GC2.Index & ". " & GC2.FieldName & " is sorted in descending order." & vbCrLf  
     End If  
 Next GC2  
   
@@ -67,7 +67,7 @@ Use the  **[AddEx](Project.GroupCriteria2.AddEx.md)** method to add a **GroupCri
 
 ```vb
 ActiveProject.ResourceGroups2("Response Pending").GroupCriteria2.AddEx "% Work Complete", True, _
-    CellColor:=&amp;H0101FF, GroupOn:=pjGroupOnPct1_25
+    CellColor:=&H0101FF, GroupOn:=pjGroupOnPct1_25
 ```
 
 

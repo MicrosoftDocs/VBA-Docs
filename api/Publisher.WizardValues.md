@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.WizardValues
 ms.assetid: 559659bb-6c9f-9325-c931-14044c059e18
-ms.date: 06/08/2017
+ms.date: 06/04/2019
 localization_priority: Normal
 ---
 
@@ -16,14 +16,13 @@ localization_priority: Normal
 
 Represents the complete set of valid values for a wizard property.
  
+## Remarks
 
+Use the **[Values](Publisher.WizardProperty.Values.md)** property of the **WizardProperty** object to return a **WizardValues** collection. 
 
 ## Example
 
-Use the  **[Values](Publisher.WizardProperty.Values.md)** property of the **WizardProperty** object to return a **WizardValues** collection. The following example displays the current value for the first wizard property in the active publication and then lists all the other possible values.
- 
-
- 
+The following example displays the current value for the first wizard property in the active publication and then lists all the other possible values.
 
 ```vb
 Dim valAll As WizardValues 
@@ -32,12 +31,12 @@ Dim valLoop As WizardValue
 With ActiveDocument.Wizard 
  Set valAll = .Properties(1).Values 
  
- MsgBox "Wizard: " &amp; .Name &amp; vbLf &amp; _ 
- "Property: " &amp; .Properties(1).Name &amp; vbLf &amp; _ 
- "Current value: " &amp; .Properties(1).CurrentValueId 
+ MsgBox "Wizard: " & .Name & vbLf & _ 
+ "Property: " & .Properties(1).Name & vbLf & _ 
+ "Current value: " & .Properties(1).CurrentValueId 
  
  For Each valLoop In valAll 
- MsgBox "Possible value: " &amp; valLoop.ID &amp; " (" &amp; valLoop.Name &amp; ")" 
+ MsgBox "Possible value: " & valLoop.ID & " (" & valLoop.Name & ")" 
  Next valLoop 
 End With
 ```

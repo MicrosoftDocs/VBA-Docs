@@ -47,8 +47,8 @@ This example retrieves the name of the first field and value of the first record
 ```vb
 Sub GetDataFromSource() 
  With ActiveDocument.MailMerge.DataSource.DataFields 
- MsgBox "First field name: " &amp; .Item(1).Name &amp; vbLf &amp; _ 
- "Value of the first record of the FirstName field: " &amp; _ 
+ MsgBox "First field name: " & .Item(1).Name & vbLf & _ 
+ "Value of the first record of the FirstName field: " & _ 
  .Item("FirstName").Value 
  End With 
 End Sub

@@ -30,7 +30,7 @@ The following example displays the number of **Column** objects in the **Columns
 
 ```vb
 Sub CountColumns() 
- MsgBox "The number of columns in the table is " &amp; _ 
+ MsgBox "The number of columns in the table is " & _ 
  ActiveDocument.Pages(2).Shapes(1).Table.Columns.Count 
 End Sub
 ```

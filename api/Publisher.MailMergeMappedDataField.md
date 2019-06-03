@@ -33,7 +33,7 @@ Sub MappedFieldName()
  strMappedDataField = .MappedDataFields(pbFirstName).DataFieldName 
  If strMappedDataField <> "" Then 
  MsgBox "The mapped data field 'FirstName' is mapped to " _ 
- &amp; .MappedDataFields(pbFirstName).DataFieldName & "." 
+ & .MappedDataFields(pbFirstName).DataFieldName & "." 
  Else 
  MsgBox "The mapped data field 'FirstName' is not " & _ 
  "mapped to any of the data fields in your " & _ 

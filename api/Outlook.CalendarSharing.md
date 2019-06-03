@@ -107,7 +107,7 @@ ErrRoutine:
  
  Select Case Err.Number 
  
- Case 287 ' &amp;H0000011F 
+ Case 287 ' &H0000011F 
  
  ' The user denied access to the Address Book. 
  
@@ -121,9 +121,9 @@ ErrRoutine:
  
  vbOKOnly, _ 
  
- Err.Number &amp; " - " &amp; Err.Source 
+ Err.Number & " - " & Err.Source 
  
- Case -2147467259 ' &amp;H80004005 
+ Case -2147467259 ' &H80004005 
  
  ' Export failed. 
  
@@ -137,9 +137,9 @@ ErrRoutine:
  
  vbOKOnly, _ 
  
- Err.Number &amp; " - " &amp; Err.Source 
+ Err.Number & " - " & Err.Source 
  
- Case -2147221233 ' &amp;H8004010F 
+ Case -2147221233 ' &H8004010F 
  
  ' Operation failed. 
  
@@ -151,7 +151,7 @@ ErrRoutine:
  
  vbOKOnly, _ 
  
- Err.Number &amp; " - " &amp; Err.Source 
+ Err.Number & " - " & Err.Source 
  
  Case Else 
  
@@ -161,7 +161,7 @@ ErrRoutine:
  
  vbOKOnly, _ 
  
- Err.Number &amp; " - " &amp; Err.Source 
+ Err.Number & " - " & Err.Source 
  
  End Select 
  
