@@ -7,23 +7,26 @@ ms.prod: publisher
 api_name:
 - Publisher.WebNavigationBarHyperlinks
 ms.assetid: 4dfa7273-4770-d77c-275c-6b7eeae04aa5
-ms.date: 06/08/2017
+ms.date: 06/04/2019
 localization_priority: Normal
 ---
 
 
 # WebNavigationBarHyperlinks object (Publisher)
 
-The  **WebNavigationBarHyperlinks** represents a collection of all the **Hyperlink** objects of the specified **WebNavigationBarSet** object.
+Represents a collection of all the **[Hyperlink](publisher.hyperlink.md)** objects of the specified **[WebNavigationBarSet](publisher.webnavigationbarset.md)** object.
  
+## Remarks
 
+Use the **[Links](publisher.webnavigationbarset.links.md)** property of the **WebNavigationBarSet** object to return a **WebNavigationBarHyperlinks** object. 
+
+Use the **Count** property to return a **Long** representing the number of hyperlinks in the **WebNavigationBarHyperlinks** collection of the specified **WebNavigationBarSet** object. 
+
+Use **Item** (_index_), where _index_ is the index number, to return a specific **Hyperlink** object from the collection. 
 
 ## Example
 
-Use the  **Links** property of the **WebNavigationBarSets** collection to return a **WebNavigationBarHyperlinks** object. The following example adds a hyperlink to the first **WebNavigationBarSet** of the active document.
- 
-
- 
+The following example adds a hyperlink to the first **WebNavigationBarSet** of the active document.
 
 ```vb
 Dim objWebNavLinks As WebNavigationBarHyperlinks 
@@ -32,23 +35,17 @@ objWebNavLinks.Add Address:="www.microsoft.com", _
  TextToDisplay:="Microsoft"
 ```
 
-Use  **WebNavigationBarHyperlinks** **.Count** to return a Long representing the number of hyperlinks in the **WebNavigationBarHyperlinks** collection of the specified **WebNavigationBarSet** object. The following example displays the number of hyperlinks in the first **WebNavigationBarSet** of the active document.
- 
+<br/>
 
- 
-
-
+The following example displays the number of hyperlinks in the first **WebNavigationBarSet** of the active document.
 
 ```vb
 MsgBox ActiveDocument.WebNavigationBarSets(1).Links.Count
 ```
 
-Use  **WebNavigationBarHyperlinks**.Item(index), where index is the index number, to return a specific **Hyperlink** object from the collection. This example displays the displayed text of the first item in the **WebNavigationBarHyperlinks** collection of the first **WebNavigationBarSet** of the active document.
- 
+<br/>
 
- 
-
-
+This example displays the displayed text of the first item in the **WebNavigationBarHyperlinks** collection of the first **WebNavigationBarSet** of the active document.
 
 ```vb
 MsgBox ActiveDocument.WebNavigationBarSets(1).Links.Item(1).TextToDisplay

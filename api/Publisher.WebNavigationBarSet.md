@@ -7,23 +7,30 @@ ms.prod: publisher
 api_name:
 - Publisher.WebNavigationBarSet
 ms.assetid: 03b31cc1-5b24-1a16-710c-73755298066e
-ms.date: 06/08/2017
+ms.date: 06/04/2019
 localization_priority: Normal
 ---
 
 
 # WebNavigationBarSet object (Publisher)
 
-Represents a Web navigation bar set for the current document. The  **WebNavigationBarSet** object is a member of the **WebNavigationBarSets** collection, which includes all of the Web navigation bar sets in the current document.
+Represents a web navigation bar set for the current document. The **WebNavigationBarSet** object is a member of the **[WebNavigationBarSets](publisher.webnavigationbarsets.md)** collection, which includes all the web navigation bar sets in the current document.
  
+## Remarks
 
+To add the specified web navigation bar to every page of a document, use the _Left_, _Top_, and _Width_ parameters of the **AddToEveryPage** method, where _Left_ is the position of the left edge of the shape, _Top_ is the position of the top edge of the shape, and _Width_ is the width of the shape representing the web navigation bar set. 
+
+To remove the web navigation bar set and every instance of it from a document, use the **DeleteSetAndInstances** method. 
+
+The following concern horizontally oriented web navigation bars:
+
+- Use the **IsHorizontal** property to determine the orientation of the navigation bar set. 
+- Use the **ChangeOrientation** method to set the orientation of the web navigation bar set. 
+- If the orientation is set to **horizontal**, you can then set the **HorizontalAlignment** and **HorizontalButtonCount** properties. 
 
 ## Example
 
-Use  **WebNavigationBarSet**. **AddToEveryPage** (Left, Top, [Width]), where Left is the position of the left edge of the shape, Top is the position of the top edge of the shape, and Width is the width of the shape representing the Web navigation bar set, to add the specified Web navigation bar to every page of a document. The following example adds the first Web navigation bar set to every page that has the **AddHyperlinkToWebNavbar** property set to **True** when adding the page or the **Page.WebPageOptions.IncludePageOnNewWebNavigationBars** property set to **True**.
- 
-
- 
+The following example adds the first web navigation bar set to every page that has the **AddToEveryPage** method set to **True** when adding the page, or the **[WebPageOptions.IncludePageOnNewWebNavigationBars](publisher.webpageoptions.includepageonnewwebnavigationbars.md)** property set to **True**.
 
 ```vb
 Dim objWebNavBarSet as WebNavigationBarSet 
@@ -31,12 +38,9 @@ Set objWebNavBarSet = ActiveDocument.WebNavigationBarSets(1)
 objWebNavBarSet.AddToEveryPage Left:=50, Top:=10, Width:=500
 ```
 
-Use  **WebNavigationBarSet**. **DeleteSetAndInstances** to remove the Web navigation bar set and every instance of it from the document. The following example deletes all instances of each **WebNavigationBarSet** object in the **WebNavigationBarSets** collection.
- 
+<br/>
 
- 
-
-
+The following example deletes all instances of each **WebNavigationBarSet** object in the **WebNavigationBarSets** collection.
 
 ```vb
 Dim objWebNavBarSet As WebNavigationBarSet 
@@ -45,12 +49,9 @@ For Each objWebNavBarSet In ActiveDocument.WebNavigationBarSets
 Next objWebNavBarSet
 ```
 
-There are three properties that concern horizontally oriented Web navigation bars. Use  **WebNavigationBarSet**. **IsHorizontal** to determine the orientation of the navigation bar set. The **ChangeOrientation** method is used to set the orientation of the Web navigation bar set. If the orientation is set to **horizontal**, **HorizontalAlignment** and **HorizontalButtonCount** properties can then be set. The following example adds the first navigation bar in the **WebNavigationBarSets** collection of the active document to each page that has the **AddHyperlinkToWebNavbar** property set to **True** or the **Page.WebPageOptions.IncludePageOnNewWebNavigationBars** property set to **True**, and then sets the button style to **small**. A test is performed to determine whether the navigation bar set is horizontal or not. If it is not, the **ChangeOrientation** method is called and the orientation is set to **horizontal**. After the navigation bar is oriented horizontally, the horizontal button count is set to **3** and the horizontal alignment of the buttons is set to **left**.
- 
+<br/>
 
- 
-
-
+The following example adds the first navigation bar in the **WebNavigationBarSets** collection of the active document to each page that has the **AddToEveryPage** method set to **True**, or the **IncludePageOnNewWebNavigationBars** property set to **True**, and then sets the button style to **small**. A test is performed to determine whether the navigation bar set is horizontal. If it is not, the **ChangeOrientation** method is called and the orientation is set to **horizontal**. After the navigation bar is oriented horizontally, the horizontal button count is set to **3** and the horizontal alignment of the buttons is set to **left**.
 
 ```vb
 Dim objWebNav As WebNavigationBarSet 

@@ -7,23 +7,24 @@ ms.prod: publisher
 api_name:
 - Publisher.WebListBoxItems
 ms.assetid: 6d1b6755-426b-b518-c95c-7b30f9acceba
-ms.date: 06/08/2017
+ms.date: 06/04/2019
 localization_priority: Normal
 ---
 
 
 # WebListBoxItems object (Publisher)
 
-Represents the items in a Web list box control.
+Represents the items in a web list box control.
  
+## Remarks
 
+Use the **[ListBoxItems](Publisher.WebListBox.ListBoxItems.md)** property of the **WebListBox** object to access the items in a web list box. 
+
+Use the **AddItem** method to add items to a web list box. 
 
 ## Example
 
-Use the  **[ListBoxItems](Publisher.WebListBox.ListBoxItems.md)** property to access the items in a Web list box. Use the **[AddItem](Publisher.WebListBoxItems.AddItem.md)** method of the **WebListBoxItems** collection to add items to a Web list box. This example creates a new Web list box and adds several items to it. Note that when initially created, a Web list box control contains three default items. This example includes a routine that deletes the default list box items before adding new items.
- 
-
- 
+This example creates a new web list box and adds several items to it. Note that when initially created, a web list box control contains three default items. This example includes a routine that deletes the default list box items before adding new items.
 
 ```vb
 Sub CreateWebListBox() 

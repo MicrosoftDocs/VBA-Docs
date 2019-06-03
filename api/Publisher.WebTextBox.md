@@ -7,23 +7,25 @@ ms.prod: publisher
 api_name:
 - Publisher.WebTextBox
 ms.assetid: 74fde391-734c-6672-dadb-59bc58232c0f
-ms.date: 06/08/2017
+ms.date: 06/04/2019
 localization_priority: Normal
 ---
 
 
 # WebTextBox object (Publisher)
 
-Represents a Web text box control. The  **WebTextBox** object is a member of the **Shape** object.
+Represents a web text box control. The **WebTextBox** object is a member of the **[Shape](publisher.shape.md)** object.
  
 
+## Remarks
+
+Use the **[Shapes.AddWebControl](Publisher.Shapes.AddWebControl.md)** method to create a new web text box. 
+
+Use the **[Shape.WebTextBox](Publisher.Shape.WebTextBox.md)** property to access a web text box control shape. 
 
 ## Example
 
-Use the  **[AddWebControl](Publisher.Shapes.AddWebControl.md)** method to create new Web option button. Use the **[WebTextBox](Publisher.Shape.WebTextBox.md)** property to access a Web text box control shape. This example creates a new Web text box, specifies default text, indicates that entry is required, and limits entry to 50 characters.
- 
-
- 
+This example creates a new web text box, specifies default text, indicates that entry is required, and limits entry to 50 characters.
 
 ```vb
 Sub CreateWebTextBox() 

@@ -7,23 +7,24 @@ ms.prod: publisher
 api_name:
 - Publisher.TextStyles
 ms.assetid: 8a250160-0400-62e7-8301-5a5743fb2485
-ms.date: 06/08/2017
+ms.date: 06/04/2019
 localization_priority: Normal
 ---
 
 
 # TextStyles object (Publisher)
 
-A collection of  **[TextStyle](Publisher.TextStyle.md)** objects that represent both the built-in and user-defined styles in a document.
+A collection of **[TextStyle](Publisher.TextStyle.md)** objects that represent both the built-in and user-defined styles in a document.
  
+## Remarks
 
+Use the **[Document.TextStyles](publisher.document.textstyles.md)** property to return the **TextStyles** collection. 
+
+Use the **Add** method to create a new user-defined style and add it to the **TextStyles** collection. 
 
 ## Example
 
-Use the  **TextStyles** property to return the **TextStyles** collection. The following example creates a table and lists all the styles in the active publication.
- 
-
- 
+The following example creates a table and lists all the styles in the active publication.
 
 ```vb
 Sub ListTextStyles() 
@@ -45,13 +46,10 @@ Sub ListTextStyles()
 End Sub
 ```
 
-Use the  **[Add](Publisher.TextStyles.Add.md)** method to create a new user-defined style and add it to the **TextStyles** collection. The following example creates a new style and applies it to the paragraph at the cursor position.
+<br/>
+
+The following example creates a new style and applies it to the paragraph at the cursor position.
  
-
- 
-
-
-
 ```vb
 Sub ApplyTextStyle() 
  Dim styNew As TextStyle 

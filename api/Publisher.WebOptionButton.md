@@ -7,23 +7,24 @@ ms.prod: publisher
 api_name:
 - Publisher.WebOptionButton
 ms.assetid: acdbaebd-b333-02b1-bf4d-d7e92148a275
-ms.date: 06/08/2017
+ms.date: 06/04/2019
 localization_priority: Normal
 ---
 
 
 # WebOptionButton object (Publisher)
 
-Represents a Web option button control. The  **WebOptionButton** object is a member of the **Shape** object.
+Represents a web option button control. The **WebOptionButton** object is a member of the **[Shape](publisher.shape.md)** object.
  
+## Remarks
 
+Use the **[Shapes.AddWebControl](Publisher.Shapes.AddWebControl.md)** method to create a new web option button. 
+
+Use the **[Shape.WebOptionButton](Publisher.Shape.WebOptionButton.md)** property to access a web option button control shape. 
 
 ## Example
 
-Use the  **[AddWebControl](Publisher.Shapes.AddWebControl.md)** method to create new Web option button. Use the **[WebOptionButton](Publisher.Shape.WebOptionButton.md)** property to access a Web option button control shape. This example creates a new Web option button and specifies that its default state is selected; then it adds a text box next to it to describe it.
- 
-
- 
+This example creates a new web option button and specifies that its default state is selected; it then adds a text box next to it to describe it.
 
 ```vb
 Sub CreateNewWebOptionButton() 

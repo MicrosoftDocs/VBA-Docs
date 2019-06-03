@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.WizardValue
 ms.assetid: 15b60632-d1b1-c62b-0264-72d65bd1fe82
-ms.date: 06/08/2017
+ms.date: 06/04/2019
 localization_priority: Normal
 ---
 
@@ -16,14 +16,13 @@ localization_priority: Normal
 
 Represents a possible value for the specified wizard property.
  
+## Remarks
 
+Use the **[Item](Publisher.WizardValues.Item.md)** property of the **WizardValues** collection to return a **WizardValue** object. 
 
 ## Example
 
-Use the  **[Item](Publisher.WizardValues.Item.md)** property of the **WizardValues** collection to return a **WizardValue** object. The following example displays the current value for the first wizard property in the active publication and then lists all the other possible values.
- 
-
- 
+The following example displays the current value for the first wizard property in the active publication and then lists all the other possible values.
 
 ```vb
 Dim valAll As WizardValues 

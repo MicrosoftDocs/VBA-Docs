@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.ThreeDFormat
 ms.assetid: 11d57330-c99e-5aa9-d47c-2c5d2846ed4d
-ms.date: 06/08/2017
+ms.date: 06/04/2019
 localization_priority: Normal
 ---
 
@@ -20,17 +20,14 @@ Represents a shape's three-dimensional formatting.
 
 ## Remarks
 
-You cannot apply three-dimensional formatting to some kinds of shapes, such as beveled shapes. Most of the properties and methods of the  **ThreeDFormat** object for such a shape will fail.
+You cannot apply three-dimensional formatting to some kinds of shapes, such as beveled shapes. Most of the properties and methods of the **ThreeDFormat** object for such a shape will fail.
  
-
+Use the **[Shape.ThreeD](Publisher.Shape.ThreeD.md)** property to return a **ThreeDFormat** object. 
  
 
 ## Example
 
-Use the  **[ThreeD](Publisher.Shape.ThreeD.md)** property to return a **ThreeDFormat** object. This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3D effects applied to shape one in the active publication.
- 
-
- 
+This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3D effects applied to shape one in the active publication.
 
 ```vb
 Sub SetThreeDSettings() 
