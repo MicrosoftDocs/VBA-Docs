@@ -114,13 +114,13 @@ Private Sub cboMainCategory_NotInList(NewData As String, Response As Integer)
     On Error GoTo Error_Handler
     Dim intAnswer As Integer
     intAnswer = MsgBox("""" &amp; NewData &amp; """ is not an approved category. " &amp; vbcrlf _
-        &amp; "Do you want to add it now?" _ vbYesNo + vbQuestion, "Invalid Category")
+        &amp; "Do you want to add it now?", vbYesNo + vbQuestion, "Invalid Category")
 
     Select Case intAnswer
         Case vbYes
             DoCmd.SetWarnings False
-            DoCmd.RunSQL "INSERT INTO tlkpCategoryNotInList (Category) "
-                &amp; _ "Select """ &amp; NewData &amp; """;"
+            DoCmd.RunSQL "INSERT INTO tlkpCategoryNotInList (Category) " &amp; _ 
+                         "Select """ &amp; NewData &amp; """;"
             DoCmd.SetWarnings True
             Response = acDataErrAdded
         Case vbNo
@@ -135,7 +135,7 @@ Private Sub cboMainCategory_NotInList(NewData As String, Response As Integer)
         Exit Sub
 
     Error_Handler:
-        MsgBox Err.Number &amp; ", " &amp; Error Description
+        MsgBox Err.Number &amp; ", " &amp; Err.Description
         Resume Exit_Procedure
         Resume
 
