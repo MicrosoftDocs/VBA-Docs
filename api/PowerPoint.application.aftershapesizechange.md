@@ -29,6 +29,5 @@ _expression_ A variable that represents a [Application](./PowerPoint.Application
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _shp_|Required|[Shape](PowerPoint.Shape.md)|The shape that was resized.|
-| _shp_|Required|SHAPE||
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
