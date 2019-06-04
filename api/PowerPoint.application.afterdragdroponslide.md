@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Application.AfterDragDropOnSlide event (PowerPoint)
 
-Occurs after a shape has been dropped onto a slide in an open presentation.
+Occurs after an object with the clipboard format "PowerPoint Drop Trigger" has been dropped onto a slide in an open presentation.
 
 
 ## Syntax
@@ -29,8 +29,5 @@ _expression_ A variable that represents an [Application](PowerPoint.Application.
 | _Sld_|Required|[Slide](PowerPoint.Slide.md)|The slide that raised the event (that is, had a shape added to it).|
 | _X_|Required|**Single**||
 | _Y_|Required|**Single**||
-| _Sld_|Required|SLIDE||
-| _X_|Required|FLOAT||
-| _Y_|Required|FLOAT||
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
