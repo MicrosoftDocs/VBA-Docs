@@ -21,7 +21,7 @@ Activates the specified object.
 
 _expression_.**Activate**
 
-_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 
 
 ## See also

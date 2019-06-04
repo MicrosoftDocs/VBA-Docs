@@ -21,7 +21,7 @@ Returns or sets how Microsoft PowerPoint handles calls to methods and properties
 
 _expression_. `FeatureInstall`
 
-_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 
 
 ## Return value

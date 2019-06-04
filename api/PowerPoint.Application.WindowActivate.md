@@ -21,7 +21,7 @@ Occurs when the application window or any document window is activated.
 
 _expression_.**WindowActivate** (_Pres_, _Wn_)
 
-_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 
 
 ## Parameters

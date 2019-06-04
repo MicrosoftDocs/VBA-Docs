@@ -21,7 +21,7 @@ Returns a  **FileDialog** object that represents a single instance of a file dia
 
 _expression_. `FileDialog`( `_Type_` )
 
-_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 
 
 ## Parameters

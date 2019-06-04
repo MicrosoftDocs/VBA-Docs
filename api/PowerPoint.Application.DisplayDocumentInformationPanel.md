@@ -22,7 +22,7 @@ This property has been deprecated in Office 2016, but it remains part of the obj
 
 _expression_. `DisplayDocumentInformationPanel`
 
- _expression_ An expression that returns an [Application](./PowerPoint.Application.md) object.
+ _expression_ An expression that returns an **[Application](PowerPoint.Application.md)** object.
 
 
 ## Return value

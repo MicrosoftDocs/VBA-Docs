@@ -21,7 +21,7 @@ Represents a  **Presentation** object before it closes.
 
 _expression_. `PresentationBeforeClose`( `_Pres_`, `_Cancel_` )
 
-_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 
 
 ## Parameters

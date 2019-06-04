@@ -21,7 +21,7 @@ Occurs when you double-click the items in the views listed in the following tabl
 
 _expression_. `WindowBeforeDoubleClick`( `_Sel_`, `_Cancel_` )
 
-_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 
 
 ## Parameters

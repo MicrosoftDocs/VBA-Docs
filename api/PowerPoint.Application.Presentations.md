@@ -21,7 +21,7 @@ Returns a  **[Presentations](PowerPoint.Presentations.md)** collection that repr
 
 _expression_. `Presentations`
 
-_expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 
 
 ## Return value

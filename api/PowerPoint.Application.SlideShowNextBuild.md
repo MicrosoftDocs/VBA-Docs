@@ -21,7 +21,7 @@ Occurs upon mouse-click or timing animation, but before the animated object beco
 
 _expression_. `SlideShowNextBuild`(_Wn_)
 
-_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 
 
 ## Parameters

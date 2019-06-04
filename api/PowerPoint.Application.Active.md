@@ -21,7 +21,7 @@ Returns whether the specified pane or window is active. Read-only.
 
 _expression_.**Active**
 
-_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Occurs when a Protected View window is deactivated.
 
 _expression_. `ProtectedViewWindowDeactivate`( `_ProtViewWindow_`, )
 
-_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 
 
 ## Parameters
