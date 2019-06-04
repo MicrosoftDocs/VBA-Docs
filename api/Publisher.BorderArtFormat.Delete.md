@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.BorderArtFormat.Delete
 ms.assetid: 3ec0576f-8304-2647-7309-b014b586c1b6
-ms.date: 06/08/2017
+ms.date: 06/05/2019
 localization_priority: Normal
 ---
 
@@ -33,7 +33,6 @@ A run-time error occurs if the specified object does not exist.
 
 The following example tests for the existence of BorderArt on each shape for each page of the active publication. If BorderArt exists, it is deleted.
 
-
 ```vb
 Sub DeleteBorderArt() 
  
@@ -53,9 +52,6 @@ End Sub
 ```
 
 
-## See also
 
-
- [BorderArtFormat Object](Publisher.BorderArtFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
