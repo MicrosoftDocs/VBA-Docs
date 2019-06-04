@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Application.Options
 ms.assetid: 999f208a-02e6-49fb-c9a0-42aa97c5e37e
-ms.date: 06/08/2017
+ms.date: 06/05/2019
 localization_priority: Normal
 ---
 
 
 # Application.Options property (Publisher)
 
-Returns an  **[Options](Publisher.Options.md)** object that represents application settings you can set in Microsoft Publisher.
+Returns an **[Options](Publisher.Options.md)** object that represents application settings that you can set in Microsoft Publisher.
 
 
 ## Syntax
@@ -33,7 +33,6 @@ Options
 
 This example disables background saves and then saves the active publication.
 
-
 ```vb
 Sub SetGlobalSaveOptions() 
  
@@ -47,9 +46,5 @@ End Sub
 ```
 
 
-## See also
-
-
- [Application Object](Publisher.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

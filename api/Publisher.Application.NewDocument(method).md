@@ -7,19 +7,19 @@ ms.prod: publisher
 api_name:
 - Publisher.Application.NewDocument
 ms.assetid: 9beb6176-0c46-0ba0-8d41-a9021c624223
-ms.date: 06/08/2017
+ms.date: 06/05/2019
 localization_priority: Normal
 ---
 
 
 # Application.NewDocument method (Publisher)
 
-Returns a  **Document** object that represents a new publication.
+Returns a **[Document](publisher.document.md)** object that represents a new publication.
 
 
 ## Syntax
 
-_expression_.**NewDocument**(_Wizard_, _Design_)
+_expression_.**NewDocument** (_Wizard_, _Design_)
 
 _expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
@@ -28,78 +28,16 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|_Wizard_|Optional| **PbWizard**|The wizard to use to create the new publication.|
+|_Wizard_|Optional| **[PbWizard](publisher.pbwizard.md)**|The wizard to use to create the new publication. Can be one of the **PbWizard** constants declared in the Microsoft Publisher type library. The default is **pbWizardNone**.|
 |_Design_|Optional| **Long**|The design to apply to the new publication.|
 
 ## Return value
 
 Document
 
-
-## Remarks
-
-The Wizard parameter can be one of the  **PbWizard** constants declared in the Microsoft Publisher type library and shown in the following table. The default is **pbWizardNone**.
-
-
-
-
-
-| **pbWizardAdvertisements**|
-| **pbWizardAirplanes**|
-| **pbWizardBanners**|
-| **pbWizardBrochures**|
-| **pbWizardBusinessCards**|
-| **pbWizardBusinessForms**|
-| **pbWizardCalendars**|
-| **pbWizardCatalogs**|
-| **pbWizardCertificates**|
-| **pbWizardEnvelopes**|
-| **pbWizardFlyers**|
-| **pbWizardGiftCertificates**|
-| **pbWizardGreetingCards**|
-| **pbWizardInvitations**|
-| **pbWizardJapaneseAdvertisements**|
-| **pbWizardJapaneseAirplanes**|
-| **pbWizardJapaneseBanners**|
-| **pbWizardJapaneseBrochures**|
-| **pbWizardJapaneseBusinessCards**|
-| **pbWizardJapaneseBusinessForms**|
-| **pbWizardJapaneseCalendars**|
-| **pbWizardJapaneseCatalogs**|
-| **pbWizardJapaneseCertificates**|
-| **pbWizardJapaneseEnvelopes**|
-| **pbWizardJapaneseFlyers**|
-| **pbWizardJapaneseGiftCertificates**|
-| **pbWizardJapaneseGreetingCards**|
-| **pbWizardJapaneseInvitations**|
-| **pbWizardJapaneseLabels**|
-| **pbWizardJapaneseLetterheads**|
-| **pbWizardJapaneseMenus**|
-| **pbWizardJapaneseNewsletters**|
-| **pbWizardJapaneseOrigami**|
-| **pbWizardJapanesePostcards**|
-| **pbWizardJapanesePrograms**|
-| **pbWizardJapaneseSigns**|
-| **pbWizardJapaneseWebSites**|
-| **pbWizardLabels**|
-| **pbWizardLetterheads**|
-| **pbWizardMenus**|
-| **pbWizardNewsletters**|
-| **pbWizardNone**|
-| **pbWizardOrigami**|
-| **pbWizardPostcards**|
-| **pbWizardPrograms**|
-| **pbWizardQuickPublications**|
-| **pbWizardResumes**|
-| **pbWizardSigns**|
-| **pbWizardWebSites**|
-| **pbWizardWithComplimentsCards**|
-| **pbWizardWordDocument**|
-
 ## Example
 
 This example creates a new publication and edits the master page to contain a page number in a star in the upper-left corner of the page.
-
 
 ```vb
 Sub CreateNewPublication() 
@@ -128,9 +66,5 @@ End Sub
 ```
 
 
-## See also
-
-
- [Application Object](Publisher.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

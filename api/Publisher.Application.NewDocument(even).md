@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Application.NewDocument
 ms.assetid: 629cf55c-5134-4207-14df-143b517b9f36
-ms.date: 06/08/2017
+ms.date: 06/05/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |_Doc_|Required| **Document**|The new document.|
@@ -36,7 +34,6 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 This example displays a message when a new publication is created.
 
-
 ```vb
 Private Sub appPub_NewDocument(ByVal Doc As Document) 
  MsgBox "This is a new publication." 
@@ -44,9 +41,6 @@ End Sub
 ```
 
 
-## See also
 
-
- [Application Object](Publisher.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

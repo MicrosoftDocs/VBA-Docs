@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Attachment.Delete
 ms.assetid: 935fa9e7-9d40-b820-e386-1a1960845da1
-ms.date: 06/08/2017
+ms.date: 06/05/2019
 localization_priority: Normal
 ---
 
 
 # Attachment.Delete method (Publisher)
 
-Deletes an  **Attachment** object from the **Attachments** collection of an email merge message.
+Deletes an **Attachment** object from the **[Attachments](Publisher.Attachments.md)** collection of an email merge message.
 
 
 ## Syntax
@@ -26,23 +26,20 @@ _expression_ A variable that represents an **[Attachment](Publisher.Attachment.m
 
 ## Remarks
 
-The  **Delete** method performs an irreversible operation on the **Attachments** collection. It calls **IUnknown.Release** on the collection's reference to the **Attachment** object. If you have another reference to the attachment, you can still access its properties and methods, but you can never again associate it with any collection, because the **[Add](Publisher.Attachments.Add.md)** method always creates a new object. Use the **Set** keyword to set your reference variable either to **Nothing** or to another attachment.
+The **Delete** method performs an irreversible operation on the **Attachments** collection. It calls **IUnknown.Release** on the collection's reference to the **Attachment** object. If you have another reference to the attachment, you can still access its properties and methods, but you can never again associate it with any collection, because the **[Add](Publisher.Attachments.Add.md)** method always creates a new object. Use the **Set** keyword to set your reference variable either to **Nothing** or to another attachment.
 
-The final release of the  **Attachment** object takes place when you assign your reference variable to **Nothing**, or when you call  **Delete**, if you had no other reference. At this point the object is removed from memory. Attempting to gain access to a released object returns the Microsoft Collaboration Data Object error  **CdoE_INVALID_OBJECT**.
+The final release of the **Attachment** object takes place when you assign your reference variable to **Nothing**, or when you call **Delete**, if you had no other reference. At this point the object is removed from memory. Attempting to gain access to a released object returns the Microsoft Collaboration Data Object error **CdoE_INVALID_OBJECT**.
 
-When you delete a member of a collection, the collection is immediately refreshed, meaning that its  **Count** property is reduced by one and its members are reindexed. To access the member that previously followed the deleted member in the collection, you must use its new index value.
+When you delete a member of a collection, the collection is immediately refreshed, meaning that its **Count** property is reduced by one and its members are reindexed. To access the member that previously followed the deleted member in the collection, you must use its new index value.
 
-To delete all attachments to the current email merge message, use the  **[ClearAll](Publisher.Attachments.ClearAll.md)** method of the **Attachments** collection.
+To delete all attachments to the current email merge message, use the **[ClearAll](Publisher.Attachments.ClearAll.md)** method of the **Attachments** collection.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to delete an attachment to the message in an email merge. The code deletes the attachment at the first index position in the  **Attachments** collection and then prints the name of the deleted attachment and the number of current attachments to the message in the Immediate window.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to delete an attachment to the message in an email merge. The code deletes the attachment at the first index position in the **Attachments** collection and then prints the name of the deleted attachment and the number of current attachments to the message in the Immediate window.
 
 Before running this code, ensure that there is at least one attachment to the current email merge message.
-
-
-
 
 ```vb
 Public Sub Delete_Example() 
@@ -67,9 +64,5 @@ End Sub
 ```
 
 
-## See also
-
-
- [Attachment Object](Publisher.Attachment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

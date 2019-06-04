@@ -50,7 +50,7 @@ End Sub
 
 <br/>
 
-For this event to occur, you must place the following line of code in the **General Declarations** section of your module.
+For this event to occur, you must place the following line of code in the General Declarations section of your module.
 
 ```vb
 Private WithEvents pubApplication As Application
@@ -58,7 +58,7 @@ Private WithEvents pubApplication As Application
 
 <br/>
 
-Then run the following initialization procedure.
+You then must run the following initialization procedure.
 
 ```vb
 Public Sub Initialize_pubApplication() 

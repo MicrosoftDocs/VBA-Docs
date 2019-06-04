@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Application.PicasToPoints
 ms.assetid: 64d3e435-dcc1-d637-7aac-cc9a9bf81e76
-ms.date: 06/08/2017
+ms.date: 06/05/2019
 localization_priority: Normal
 ---
 
 
 # Application.PicasToPoints method (Publisher)
 
-Converts a measurement from picas to points (1 pica = 12 points). Returns the converted measurement as a  **Single**.
+Converts a measurement from picas to [points](../language/glossary/vbe-glossary.md#point) (1 pica = 12 points). Returns the converted measurement as a **Single**.
 
 
 ## Syntax
@@ -25,8 +25,6 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -39,13 +37,12 @@ Single
 
 ## Remarks
 
-Use the  **[PointsToPicas](Publisher.Application.PointsToPicas.md)** method to convert measurements in points to picas.
+Use the **[PointsToPicas](Publisher.Application.PointsToPicas.md)** method to convert measurements in points to picas.
 
 
 ## Example
 
 This example converts measurements in picas entered by the user to measurements in points.
-
 
 ```vb
 Dim strInput As String 
@@ -63,7 +60,7 @@ Do While True
  ' Evaluate and display result. 
  strOutput = Trim(strInput) & " picas = " _ 
  & Format(Application _ 
- .Picas ToPoints(Value:=Val(strInput)), _ 
+ .PicasToPoints(Value:=Val(strInput)), _ 
  "0.00") & " points" 
  
  MsgBox strOutput 
@@ -71,9 +68,5 @@ Loop
 ```
 
 
-## See also
-
-
- [Application Object](Publisher.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

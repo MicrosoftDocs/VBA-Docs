@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Application.EmusToPoints
 ms.assetid: 941e5975-ca7a-38dc-8116-e90b2a2ab6e5
-ms.date: 06/08/2017
+ms.date: 06/05/2019
 localization_priority: Normal
 ---
 
 
 # Application.EmusToPoints method (Publisher)
 
-Converts a measurement from emus to points (12700 emus = 1 point). Returns the converted measurement as a  **Single**.
+Converts a measurement from emus to [points](../language/glossary/vbe-glossary.md#point) (12700 emus = 1 point). Returns the converted measurement as a **Single**.
 
 
 ## Syntax
@@ -26,11 +26,9 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|_Value_|Required| **Single**|An expression that returns one of the objects in the **Applies To** list.|
+|_Value_|Required| **Single**|The emu value to be converted to points.|
 
 ## Return value
 
@@ -39,13 +37,12 @@ Single
 
 ## Remarks
 
-Use the  **[PointsToEmus](Publisher.Application.PointsToEmus.md)** method to convert measurements in points to emus.
+Use the **[PointsToEmus](Publisher.Application.PointsToEmus.md)** method to convert measurements in points to emus.
 
 
 ## Example
 
 This example converts measurements in emus entered by the user to measurements in points.
-
 
 ```vb
 Dim strInput As String 
@@ -72,9 +69,5 @@ Loop
 ```
 
 
-## See also
-
-
- [Application Object](Publisher.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

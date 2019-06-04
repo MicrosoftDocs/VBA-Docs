@@ -21,7 +21,7 @@ Returns a reference to the Component Object Model (COM) add-ins currently loaded
 
 _expression_. `COMAddIns`
 
-_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 
 
 ## Remarks

@@ -14,45 +14,30 @@ localization_priority: Normal
 
 # TextRange.InsertPageNumber method (Publisher)
 
-Returns a  **[TextRange](Publisher.TextRange.md)** object that represents a page number field in a publication.
+Returns a **[TextRange](Publisher.TextRange.md)** object that represents a page number field in a publication.
 
 
 ## Syntax
 
-_expression_.**InsertPageNumber**(**_Type_**)
+_expression_.**InsertPageNumber** (_Type_)
 
 _expression_ A variable that represents a **[TextRange](Publisher.TextRange.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Type|Optional| **PbPageNumberType**|Specifies whether the page number is the current page number or the next or previous page number of a linked text box.|
+|_Type_|Optional| **[PbPageNumberType](publisher.pbpagenumbertype.md)** | Can be one of the **PbPageNumberType** constants. Specifies whether the page number is the current page number or the next or previous page number of a linked text box.|
 
 ## Return value
 
 TextRange
 
 
-## Remarks
-
-Type can be one of these  **PbPageNumberType** constants.
-
-
-
-|Constant|Description|
-|:-----|:-----|
-| **pbPageNumberCurrent**|The default.|
-| **pbPageNumberNextInStory**|Inserts the page number of the next linked text box.|
-| **pbPageNumberPreviousInStory**|Inserts the page number of the previous linked text box.|
-
 ## Example
 
 This example inserts a page number field in a shape on the master page so that the current page number appears at the top of each page.
-
 
 ```vb
 Sub PageNumberShape() 

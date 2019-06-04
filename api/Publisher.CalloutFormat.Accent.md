@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.CalloutFormat.Accent
 ms.assetid: 8e31544c-79ed-3882-98d1-42fc88f58115
-ms.date: 06/08/2017
+ms.date: 06/05/2019
 localization_priority: Normal
 ---
 
 
 # CalloutFormat.Accent property (Publisher)
 
-Returns or sets an  **MsoTriState**constant indicating whether a vertical accent bar separates the callout text from the callout line. Read/write.
+Returns or sets an **[MsoTriState](office.msotristate.md)** constant indicating whether a vertical accent bar separates the callout text from the callout line. Read/write.
 
 
 ## Syntax
@@ -31,22 +31,19 @@ MsoTriState
 
 ## Remarks
 
-The  **Accent** property value can be one of these **MsoTriState** constants.
-
-
+The **Accent** property value can be one of these **MsoTriState** constants.
 
 |Constant|Description|
 |:-----|:-----|
 | **msoCTrue**|Not used with this property.|
 | **msoFalse**|A vertical accent bar does not separate the callout text from the callout line.|
-| **msoTriStateMixed**|Return value only; indicates a combination of  **msoTrue** and **msoFalse** in the specified shape range.|
-| **msoTriStateToggle**|Set value only; switches between  **msoTrue** and **msoFalse**.|
+| **msoTriStateMixed**|Return value only; indicates a combination of **msoTrue** and **msoFalse** in the specified shape range.|
+| **msoTriStateToggle**|Set value only; switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**|A vertical accent bar separates the callout text from the callout line.|
 
 ## Example
 
 This example adds an oval to the active publication and a callout that points to the oval. The callout text will not have a border, but it will have a vertical accent bar that separates the text from the callout line.
-
 
 ```vb
 With ActiveDocument.Pages(1).Shapes 
@@ -70,5 +67,7 @@ With ActiveDocument.Pages(1).Shapes
 End With 
 
 ```
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

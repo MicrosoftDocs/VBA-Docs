@@ -21,7 +21,7 @@ Returns the name of the active printer. Read-only.
 
 _expression_. `ActivePrinter`
 
-_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 
 
 ## Return value

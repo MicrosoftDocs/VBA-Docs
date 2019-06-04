@@ -21,7 +21,7 @@ Returns the text that appears in the title bar of the application window. Read/w
 
 _expression_.**Caption**
 
-_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 
 
 ## Return value

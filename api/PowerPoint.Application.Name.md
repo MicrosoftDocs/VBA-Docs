@@ -21,7 +21,7 @@ Returns the string "Microsoft PowerPoint." Read-only.
 
 _expression_.**Name**
 
-_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 
 
 ## Return value

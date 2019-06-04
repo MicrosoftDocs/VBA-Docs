@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Attachment.Name
 ms.assetid: 7539a5ac-427f-0dfe-dc31-47ef9436fd14
-ms.date: 06/08/2017
+ms.date: 06/05/2019
 localization_priority: Normal
 ---
 
@@ -29,9 +29,6 @@ _expression_ A variable that represents an **[Attachment](Publisher.Attachment.m
 String
 
 
-## See also
 
-
- [Attachment Object](Publisher.Attachment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

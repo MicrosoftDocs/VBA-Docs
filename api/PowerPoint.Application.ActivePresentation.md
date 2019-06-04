@@ -21,7 +21,7 @@ Returns a  **[Presentation](PowerPoint.Presentation.md)** object that represents
 
 _expression_. `ActivePresentation`
 
-_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 
 
 ## Return value

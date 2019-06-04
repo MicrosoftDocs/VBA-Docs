@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Application.TemplateFolderPath
 ms.assetid: e2256af9-9432-6205-864a-10bb7dec41c9
-ms.date: 06/08/2017
+ms.date: 06/05/2019
 localization_priority: Normal
 ---
 
 
 # Application.TemplateFolderPath property (Publisher)
 
-Returns a  **String** that represents the location where Microsoft Publisher templates are stored. Read-only.
+Returns a **String** that represents the location where Microsoft Publisher templates are stored. Read-only.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ String
 
 ## Example
 
-This example creates a new publication and edits the master page to contain a page number in a star in the upper-left corner of the page; then it saves the new publication to the template folder location so that it can be used as a template.
-
+This example creates a new publication and edits the master page to contain a page number in a star in the upper-left corner of the page; it then saves the new publication to the template folder location so that it can be used as a template.
 
 ```vb
 Sub CreateNewPubTemplate() 
@@ -66,9 +65,6 @@ End Sub
 ```
 
 
-## See also
 
-
- [Application Object](Publisher.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

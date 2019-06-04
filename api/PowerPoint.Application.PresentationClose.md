@@ -21,7 +21,7 @@ Occurs immediately before any open presentation closes, as it is removed from th
 
 _expression_. `PresentationClose`( `_Pres_` )
 
- _expression_ An expression that returns a [Application](./PowerPoint.Application.md) object.
+ _expression_ An expression that returns an **[Application](PowerPoint.Application.md)** object.
 
 
 ## Parameters

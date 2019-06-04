@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.BorderArtFormat.StretchPictures
 ms.assetid: d3a9c867-111c-a4b1-0e56-6e5ed1e52c8c
-ms.date: 06/08/2017
+ms.date: 06/05/2019
 localization_priority: Normal
 ---
 
 
 # BorderArtFormat.StretchPictures property (Publisher)
 
- **True** to stretch the picture art making up the specified BorderArt to fit the shape to which it is applied. Read/write **Boolean**. .
+**True** to stretch the picture art making up the specified BorderArt to fit the shape to which it is applied. Read/write **Boolean**. 
 
 
 ## Syntax
@@ -33,13 +33,12 @@ Boolean
 
 Returns "Permission Denied" if BorderArt has not been applied to the specified object.
 
-Corresponds to the  **Don't stretch pictures** and **Stretch pictures to fit** controls on the **BorderArt** dialog box.
+Corresponds to the **Don't stretch pictures** and **Stretch pictures to fit** controls in the **BorderArt** dialog box.
 
 
 ## Example
 
 The following example tests for the existence of BorderArt on each shape for each page of the active document. If BorderArt exists, it is set so that it can be stretched.
-
 
 ```vb
 Sub StretchBorderArt() 
@@ -59,9 +58,5 @@ End Sub
 ```
 
 
-## See also
-
-
- [BorderArtFormat Object](Publisher.BorderArtFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

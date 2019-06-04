@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that specifies whether charts use cell-reference 
 
 _expression_. `ChartDataPointTrack`
 
-_expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 
 
 ## Return value

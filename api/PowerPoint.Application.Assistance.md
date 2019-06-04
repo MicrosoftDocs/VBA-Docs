@@ -21,7 +21,7 @@ Gets a reference to the Microsoft Office  **[IAssistance](Office.IAssistance.md)
 
 _expression_. `Assistance`
 
- _expression_ An expression that returns an [Application](./PowerPoint.Application.md) object.
+ _expression_ An expression that returns an **[Application](PowerPoint.Application.md)** object.
 
 
 ## Remarks

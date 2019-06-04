@@ -7,19 +7,19 @@ ms.prod: publisher
 api_name:
 - Publisher.Application.Open
 ms.assetid: 560ac406-f058-8fd8-4b6d-978ff369de9b
-ms.date: 06/08/2017
+ms.date: 06/05/2019
 localization_priority: Normal
 ---
 
 
 # Application.Open method (Publisher)
 
-Returns a  **[Document](Publisher.Document.md)** object that represents the newly opened publication.
+Returns a **[Document](Publisher.Document.md)** object that represents the newly opened publication.
 
 
 ## Syntax
 
-_expression_.**Open** (_FileName_, _ReadOnly_, _AddToRecentFiles_, _SaveChanges_)
+_expression_.**Open** (_FileName_, _ReadOnly_, _AddToRecentFiles_, _SaveChanges_, _OpenConflictDocument_)
 
 _expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
@@ -29,10 +29,10 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |_FileName_|Required| **String**|The name of the publication (paths are accepted).|
-|ReadOnly|Optional| **Boolean**| **True** to open the publication as read-only. Default is **False**.|
-|AddToRecentFiles|Optional| **Boolean**| **True** (default) to add the file name to the list of recently used files at the bottom of the File menu.|
-|SaveChanges|Optional| **PbSaveOptions**|Specifies what Microsoft Publisher should do if there is already an open publication with unsaved changes.|
-|OpenConflictDocument|Optional| **Boolean**| **True** to open the local conflict publication if there is an offline conflict. Default is **False**.|
+|_ReadOnly_|Optional| **Boolean**| **True** to open the publication as read-only. Default is **False**.|
+|_AddToRecentFiles_|Optional| **Boolean**| **True** (default) to add the file name to the list of recently used files at the bottom of the **File** menu.|
+|_SaveChanges_|Optional| **[PbSaveOptions](publisher.pbsaveoptions.md)**|Specifies what Microsoft Publisher should do if there is already an open publication with unsaved changes. Can be one of the **PbSaveOptions** constants declared in the Publisher type library.|
+|_OpenConflictDocument_|Optional| **Boolean**| **True** to open the local conflict publication if there is an offline conflict. Default is **False**.|
 
 ## Return value
 
@@ -41,26 +41,14 @@ Document
 
 ## Remarks
 
-Because Publisher has a single document interface, the  **Open** method works only when you open a new instance of Publisher. The code sample below shows how to create a new, visible instance of Publisher. When finished with the second instance, you can set the application window's [Visible](Publisher.Window.Visible.md)property to  **False**, but the process continues to run in the background, even though it is not visible. To close the second instance, you must set the object equal to  **Nothing**.
+Because Publisher has a single document interface, the **Open** method works only when you open a new instance of Publisher. The following code sample shows how to create a new, visible instance of Publisher. 
 
-The SaveChanges parameter can be one of the  **PbSaveOption** constants declared in the Publisher type library and shown in the following table.
+When finished with the second instance, you can set the application window's **[Visible](Publisher.Window.Visible.md)** property to **False**, but the process continues to run in the background, even though it is not visible. To close the second instance, you must set the object equal to **Nothing**.
 
-
-
-|Constant|Description|
-|:-----|:-----|
-| **pbDoNotSaveChanges**|Close the open publication without saving any changes. |
-| **pbPromptToSaveChanges**|Prompt the user whether to save changes in the open publication. The default.|
-| **pbSaveChanges**|Save the open publication before closing it.|
 
 ## Example
 
-This example creates a second instance of Publisher and opens the specified publication as read-only. 
-
-For this example to work, you must replace  _PathToFile_ with the path to an existing publication.
-
-
-
+This example creates a second instance of Publisher and opens the specified publication as read-only. For this example to work, you must replace _PathToFile_ with the path to an existing publication.
 
 ```vb
 Sub OpenNewPub() 
@@ -73,9 +61,6 @@ End Sub
 ```
 
 
-## See also
 
-
- [Application Object](Publisher.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

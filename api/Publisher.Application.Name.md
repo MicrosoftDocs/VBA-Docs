@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Application.Name
 ms.assetid: 1abbf9ab-f7b4-1119-68c8-5c49d74a45b3
-ms.date: 06/08/2017
+ms.date: 06/05/2019
 localization_priority: Normal
 ---
 
 
 # Application.Name property (Publisher)
 
-Returns a  **String** value indicating the name of the specified object. Read-only.
+Returns a **String** value indicating the name of the specified object. Read-only.
 
 
 ## Syntax
@@ -26,14 +26,13 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 ## Remarks
 
-You can use an object's name in conjunction with the  **Item** method or **Item** property to return a reference to the object if the **Item** method or property for the collection that contains the object takes a **Variant** argument. For example, if the value of the **Name** property for a shape is Rectangle 2, then `.Shapes("Rectangle 2")` will return a reference to that shape.
+You can use an object's name in conjunction with the **Item** method or **Item** property to return a reference to the object if the **Item** method or property for the collection that contains the object takes a **Variant** argument. 
 
-The  **Name** property is the default property for the **BorderArt**,  **BorderArtFormat**, and  **Label** objects.
+For example, if the value of the **Name** property for a shape is Rectangle 2, `.Shapes("Rectangle 2")` returns a reference to that shape.
+
+The **Name** property is the default property for the **BorderArt**, **BorderArtFormat**, and **Label** objects.
 
 
-## See also
 
-
- [Application Object](Publisher.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

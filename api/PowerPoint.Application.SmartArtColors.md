@@ -21,7 +21,7 @@ Returns the SmartArt colors of the current  **Application** object. Read-only.
 
 _expression_. `SmartArtColors`
 
-_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 
 
 ## See also

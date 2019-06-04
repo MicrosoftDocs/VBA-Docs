@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Application.MailMergeBeforeMerge
 ms.assetid: 735ef282-e99f-b3f2-c509-b180bea30d36
-ms.date: 06/08/2017
+ms.date: 06/05/2019
 localization_priority: Normal
 ---
 
@@ -35,13 +35,14 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 ## Remarks
 
-To access the  **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft Publisher **Application** object, see [Using events with the Application object](../publisher/Concepts/using-events-with-the-application-object-publisher.md).
+To access the **Application** object events, declare an **Application** object variable in the General Declarations section of a code module, and then set the variable equal to the **Application** object for which you want to access events. 
+
+For information about using events with the Microsoft Publisher **Application** object, see [Using events with the Application object](../publisher/Concepts/using-events-with-the-application-object-publisher.md).
 
 
 ## Example
 
-This example displays a message before the mail merge process begins, asking the user if they want to continue. If the user clicks No, the merge process is canceled.
-
+This example displays a message before the mail merge process begins, asking the user if they want to continue. If the user chooses No, the merge process is canceled.
 
 ```vb
 Private Sub MailMergeApp_MailMergeBeforeMerge(ByVal Doc As Document, _ 
@@ -69,9 +70,6 @@ End Sub
 ```
 
 
-## See also
 
-
- [Application Object](Publisher.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

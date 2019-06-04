@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Application.PointsToCentimeters
 ms.assetid: 9a734d3d-78d2-1e27-63b3-2ad1074e16c1
-ms.date: 06/08/2017
+ms.date: 06/05/2019
 localization_priority: Normal
 ---
 
 
 # Application.PointsToCentimeters method (Publisher)
 
-Converts a measurement from points to centimeters (1 cm = 28.35 points). Returns the converted measurement as a  **Single**.
+Converts a measurement from [points](../language/glossary/vbe-glossary.md#point) to centimeters (1 cm = 28.35 points). Returns the converted measurement as a **Single**.
 
 
 ## Syntax
@@ -25,8 +25,6 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -39,13 +37,12 @@ Single
 
 ## Remarks
 
-Use the  **[CentimetersToPoints](Publisher.Application.CentimetersToPoints.md)** method to convert measurements in centimeters to points.
+Use the **[CentimetersToPoints](Publisher.Application.CentimetersToPoints.md)** method to convert measurements in centimeters to points.
 
 
 ## Example
 
 This example converts measurements in points entered by the user to measurements in centimeters.
-
 
 ```vb
 Dim strInput As String 
@@ -71,9 +68,6 @@ Loop
 ```
 
 
-## See also
 
-
- [Application Object](Publisher.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
