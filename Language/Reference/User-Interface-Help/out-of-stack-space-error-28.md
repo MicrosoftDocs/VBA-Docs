@@ -16,7 +16,7 @@ The stack is a working area of memory that grows and shrinks dynamically with th
 
 
 
-- You have too many active  **Function**, **Sub**, or **Property** procedure calls. Check that[procedures](../../Glossary/vbe-glossary.md#procedure) aren't nested too deeply. This is especially true with recursive procedures, that is, procedures that call themselves. Make sure recursive procedures terminate properly. Use the **Calls** dialog box to view which procedures are active (on the stack).
+- You have too many active  **Function**, **Sub**, or **Property** procedure calls. Check that [procedures](../../Glossary/vbe-glossary.md#procedure) aren't nested too deeply. This is especially true with recursive procedures, that is, procedures that call themselves. Make sure recursive procedures terminate properly. Use the **Calls** dialog box to view which procedures are active (on the stack).
     
 - Your local [variables](../../Glossary/vbe-glossary.md#variable) require more local variable space than is available.
     
