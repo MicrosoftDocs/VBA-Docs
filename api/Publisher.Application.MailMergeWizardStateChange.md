@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Application.MailMergeWizardStateChange
 ms.assetid: 3d3fcdaa-af51-0a28-ff25-f2b92deceaf6
-ms.date: 06/08/2017
+ms.date: 06/05/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |_Doc_|Required| **Document**|The mail merge main document.|
@@ -35,13 +33,13 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 ## Remarks
 
-To access the  **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events.
+To access the **Application** object events, declare an **Application** object variable in the General Declarations section of a code module, and then set the variable equal to the **Application** object for which you want to access events.
 
+For information about using events with the Microsoft Publisher **Application** object, see [Using events with the Application object](../publisher/Concepts/using-events-with-the-application-object-publisher.md).
 
 ## Example
 
 This example displays a message when a users moves from step three of the Mail Merge Wizard to step four. Based on the user's answer to the message, the user will either continue on to step four or return to step three.
-
 
 ```vb
 Private Sub MailMergeApp_MailMergeWizardStateChange(ByVal Doc As Document, _ 
@@ -62,9 +60,6 @@ End Sub
 ```
 
 
-## See also
 
-
- [Application Object](Publisher.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

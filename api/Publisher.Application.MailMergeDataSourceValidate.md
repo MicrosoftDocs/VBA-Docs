@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Application.MailMergeDataSourceValidate
 ms.assetid: 8e18b0a0-8fe8-f72e-8a75-1585367cc796
-ms.date: 06/08/2017
+ms.date: 06/05/2019
 localization_priority: Normal
 ---
 
 
 # Application.MailMergeDataSourceValidate event (Publisher)
 
-Occurs when a user performs address verification by clicking  **Validate** in the **Mail Merge Recipients** dialog box.
+Occurs when a user performs address verification by choosing **Validate** in the **Mail Merge Recipients** dialog box.
 
 
 ## Syntax
@@ -33,15 +33,16 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 ## Remarks
 
-If you do not have address verification software installed on your computer, use the  **MailMergeDataSourceValidate** event to create simple filtering routines, such as looping through records to check the postal codes and remove any that are non-U.S. Non-U.S. users can filter out all U.S. postal codes by modifying the code sample below and using Microsoft Visual Basic commands to search for text or special characters.
+If you do not have address verification software installed on your computer, use the **MailMergeDataSourceValidate** event to create simple filtering routines, such as looping through records to check the postal codes, and remove any that are non-U.S. Non-U.S. users can filter out all U.S. postal codes by modifying the following code sample and by using Microsoft Visual Basic commands to search for text or special characters.
 
-To access the  **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft Publisher **Application** object, see [Using events with the Application object](../publisher/Concepts/using-events-with-the-application-object-publisher.md).
+To access the **Application** object events, declare an **Application** object variable in the General Declarations section of a code module, and then set the variable equal to the **Application** object for which you want to access events. 
+
+For information about using events with the Microsoft Publisher **Application** object, see [Using events with the Application object](../publisher/Concepts/using-events-with-the-application-object-publisher.md).
 
 
 ## Example
 
-This example validates ZIP Codes in the attached data source for five digits. If the length of the ZIP Code is fewer than five digits, the record is excluded from the mail merge process. This example assumes the postal codes are U.S. ZIP Codes. You could modify this example to search for ZIP Codes that have a four-digit locator code appended to the ZIP Code, and then exclude all records that do not contain the locator code.
-
+This example validates ZIP Codes in the attached data source for five digits. If the length of the ZIP Code is fewer than five digits, the record is excluded from the mail merge process. This example assumes that the postal codes are U.S. ZIP Codes. You could modify this example to search for ZIP Codes that have a four-digit locator code appended to the ZIP Code, and then exclude all records that do not contain the locator code.
 
 ```vb
 Private Sub MailMergeApp_MailMergeDataSourceValidate( _ 
@@ -91,10 +92,9 @@ Private Sub MailMergeApp_MailMergeDataSourceValidate( _
 End Sub
 ```
 
+<br/>
+
 For this event to occur, you must place the following line of code in the General Declarations section of your module and run the following initialization routine.
-
-
-
 
 ```vb
 Private WithEvents MailMergeApp As Application 
@@ -105,9 +105,5 @@ End Sub
 ```
 
 
-## See also
-
-
- [Application Object](Publisher.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

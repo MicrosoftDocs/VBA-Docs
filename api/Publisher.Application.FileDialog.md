@@ -7,30 +7,28 @@ ms.prod: publisher
 api_name:
 - Publisher.Application.FileDialog
 ms.assetid: 65d73a9d-be4c-d809-d10d-468181ef9eb0
-ms.date: 06/08/2017
+ms.date: 06/05/2019
 localization_priority: Normal
 ---
 
 
 # Application.FileDialog property (Publisher)
 
-Returns a  **FileDialog** object that represents a single instance of a file dialog box.
+Returns a **FileDialog** object that represents a single instance of a file dialog box.
 
 
 ## Syntax
 
-_expression_.**FileDialog**(**_Type_**)
+_expression_.**FileDialog** (_Type_)
 
 _expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Type|Required| **MsoFileDialogType**| The type of dialog box.|
+|_Type_|Required| **[MsoFileDialogType](Office.MsoFileDialogType.md)**| The type of dialog box.|
 
 ## Return value
 
@@ -39,13 +37,12 @@ FileDialog
 
 ## Remarks
 
-The Type parmater can be one of the  **[MsoFileDialogType](Office.MsoFileDialogType.md)** constants declared in the Microsoft Office type library.
+The _Type_ parameter can be one of the **MsoFileDialogType** constants declared in the Microsoft Office type library.
 
 
 ## Example
 
-This example displays the  **Save As** dialog box and stores the file name specified by the user.
-
+This example displays the **Save As** dialog box and stores the file name specified by the user.
 
 ```vb
 Sub ShowSaveAsDialog() 
@@ -60,9 +57,5 @@ End Sub
 ```
 
 
-## See also
-
-
- [Application Object](Publisher.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

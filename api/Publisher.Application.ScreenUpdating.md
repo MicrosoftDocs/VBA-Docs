@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Application.ScreenUpdating
 ms.assetid: d265b4fb-1452-91a5-32fe-0cad54c8f29c
-ms.date: 06/08/2017
+ms.date: 06/05/2019
 localization_priority: Normal
 ---
 
 
 # Application.ScreenUpdating property (Publisher)
 
-Returns or sets a  **Boolean** indicating whether Microsoft Publisher refreshes the screen display during run time; **True** to refresh the screen display. Read/write.
+Returns or sets a **Boolean** indicating whether Microsoft Publisher refreshes the screen display during run time; **True** to refresh the screen display. Read/write.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ Boolean
 
 ## Remarks
 
-Turning screen updating off during run time can speed execution of Microsoft Visual Basic code. However, we recommend that you provide some indication of status so that the user is aware that the program is functioning correctly.
+Turning screen updating off during runtime can speed execution of Microsoft Visual Basic code. However, we recommend that you provide some indication of status so that the user is aware that the program is functioning correctly.
 
 
 ## Example
 
 The following example turns off screen updating at the beginning of a subroutine and turns it back on at the end of the subroutine.
-
 
 ```vb
 Sub TurnOffScreenUpdating() 
@@ -50,9 +49,5 @@ End Sub
 ```
 
 
-## See also
-
-
- [Application Object](Publisher.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

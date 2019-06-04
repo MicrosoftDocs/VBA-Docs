@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Application.Quit
 ms.assetid: 79948040-4848-b8e7-a70c-d23c1f416bac
-ms.date: 06/08/2017
+ms.date: 06/05/2019
 localization_priority: Normal
 ---
 
@@ -26,12 +26,9 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 ## Remarks
 
-For information about using events with the Application object, see  [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-application-object-publisher.md).
+For information about using events with the **Application** object, see [Using events with the Application object](../publisher/Concepts/using-events-with-the-application-object-publisher.md).
 
 
-## See also
 
-
- [Application Object](Publisher.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

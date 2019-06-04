@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Application.Help
 ms.assetid: 37b51399-5897-4003-a0a9-9829a8adf8ed
-ms.date: 06/08/2017
+ms.date: 06/05/2019
 localization_priority: Normal
 ---
 
@@ -19,38 +19,25 @@ Displays online Help information.
 
 ## Syntax
 
-_expression_.**Help**(**_HelpType_**)
+_expression_.**Help** (_HelpType_)
 
 _expression_ A variable that represents an **[Application](Publisher.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|HelpType|Required| **PbHelpType**|The type of help to display.|
+|_HelpType_|Required| **[PbHelpType](publisher.pbhelptype.md)**| The type of help to display. Can be one of the **PbHelpType** constants.|
 
 ## Remarks
 
-The HelpType parameter can be one of the following  **PbHelpType** constants declared in the Microsoft Publisher type library.
-
-
-
-|Constant|Description|
-|:-----|:-----|
-| **pbHelp**|Displays the  **Help Topics** dialog box.|
-| **pbHelpActiveWindow**|Displays Help describing the command associated with the active view or pane.|
-| **pbHelpPSSHelp**| Displays product support information.|
-
-Some of the constants listed above may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
+Some of the **PbHelpType** constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
 
 ## Example
 
 This example displays a list of topics for troubleshooting printing problems.
-
 
 ```vb
 Sub ShowPrintTroubleshooter() 
@@ -59,9 +46,6 @@ End Sub
 ```
 
 
-## See also
 
-
- [Application Object](Publisher.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

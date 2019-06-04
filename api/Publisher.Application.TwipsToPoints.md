@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Application.TwipsToPoints
 ms.assetid: 18e1c4da-1295-31a2-d66b-ab0df807b7a6
-ms.date: 03/22/2019
+ms.date: 06/05/2019
 localization_priority: Normal
 ---
 
 
 # Application.TwipsToPoints method (Publisher)
 
-Converts a measurement from [twips](../language/glossary/vbe-glossary.md#twip) to points (20 twips = 1 point). Returns the converted measurement as a **Single**.
+Converts a measurement from [twips](../language/glossary/vbe-glossary.md#twip) to [points](../language/glossary/vbe-glossary.md#point) (20 twips = 1 point). Returns the converted measurement as a **Single**.
 
 
 ## Syntax
