@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Cell.Column
 ms.assetid: 09e067a2-ee84-7a76-72b6-3b348238d020
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # Cell.Column property (Publisher)
 
-Returns a  **Long** that represents the table column containing the specified cell. Read-only.
+Returns a **Long** that represents the table column containing the specified cell. Read-only.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[Cell](Publisher.Cell.md)** object.
 ## Example
 
 This example adds a page to the active publication, creates a table on that new page, and diagonally splits all cells in even-numbered columns.
-
 
 ```vb
 Sub CreateNewTable() 

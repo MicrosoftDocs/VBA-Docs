@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Cell.Diagonal
 ms.assetid: 4ec93690-38ef-7434-55a5-419f14c9ea73
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # Cell.Diagonal property (Publisher)
 
-Sets or returns a  **PbCellDiagonalType** constant that represents a cell that is diagonally split. Read/write.
+Sets or returns a **[PbCellDiagonalType](Publisher.PbCellDiagonalType.md)** constant that represents a cell that is diagonally split. Read/write.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ PbCellDiagonalType
 
 ## Remarks
 
-The  **Diagonal** property value can be one of the **[PbCellDiagonalType](Publisher.PbCellDiagonalType.md)** constants declared in the Microsoft Publisher type library.
+The **Diagonal** property value can be one of the **PbCellDiagonalType** constants declared in the Microsoft Publisher type library.
 
 
 ## Example
 
 This example adds a page to the active publication, creates a table on that new page, and diagonally splits all cells in even-numbered columns.
-
 
 ```vb
 Sub CreateNewTable() 

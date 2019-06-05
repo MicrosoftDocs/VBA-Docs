@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Cell.BorderRight
 ms.assetid: da741816-d61c-61db-cf33-5b181780b902
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # Cell.BorderRight property (Publisher)
 
-Returns a  [CellBorder](Publisher.CellBorder.md)object that represents the right border for a specified table cell.
+Returns a **[CellBorder](Publisher.CellBorder.md)** object that represents the right border for a specified table cell.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ CellBorder
 
 ## Example
 
-This example creates a checkerboard design using borders and a fill color with an existing table. This assumes the first shape on page two is a table and not another type of shape and that the table has an uneven number of columns.
-
+This example creates a checkerboard design by using borders and a fill color with an existing table. This assumes that the first shape on page two is a table and not another type of shape and that the table has an uneven number of columns.
 
 ```vb
 Sub FillCellsByRow() 

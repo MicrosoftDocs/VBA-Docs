@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Cell.BorderTop
 ms.assetid: 4119fcb7-7662-7ab5-ee56-4ef75aaa2766
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # Cell.BorderTop property (Publisher)
 
-Returns a  [CellBorder](Publisher.CellBorder.md)object that represents the top border for a specified table cell.
+Returns a **[CellBorder](Publisher.CellBorder.md)** object that represents the top border for a specified table cell.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ CellBorder
 
 ## Example
 
-This example creates a checkerboard design using borders and a fill color with an existing table. This assumes the first shape on page two is a table and not another type of shape and that the table has an uneven number of columns.
-
+This example creates a checkerboard design by using borders and a fill color with an existing table. This assumes that the first shape on page two is a table and not another type of shape and that the table has an uneven number of columns.
 
 ```vb
 Sub FillCellsByRow() 
