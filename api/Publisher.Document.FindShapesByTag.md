@@ -7,30 +7,28 @@ ms.prod: publisher
 api_name:
 - Publisher.Document.FindShapesByTag
 ms.assetid: 405a0f39-5892-23da-904a-5188a4340b00
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # Document.FindShapesByTag method (Publisher)
 
-Returns a  **[ShapeRange](Publisher.ShapeRange.md)** object that represents the shapes with the specified tag.
+Returns a **[ShapeRange](Publisher.ShapeRange.md)** object that represents the shapes with the specified tag.
 
 
 ## Syntax
 
-_expression_.**FindShapesByTag**(**_TagName_**)
+_expression_.**FindShapesByTag** (_TagName_)
 
 _expression_ A variable that represents a **[Document](Publisher.Document.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|TagName|Required| **String**|The name of the tag.|
+|_TagName_|Required| **String**|The name of the tag.|
 
 ## Return value
 
@@ -40,7 +38,6 @@ ShapeRange
 ## Example
 
 This example adds two shapes to the first page of the active publication, assigns each a tag, and then enters the name of each tag into the text frame of its assigned shape.
-
 
 ```vb
 Sub FindShape() 

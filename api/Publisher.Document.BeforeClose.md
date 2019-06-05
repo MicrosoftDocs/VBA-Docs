@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Document.BeforeClose
 ms.assetid: d40e36b6-fea7-a9d5-0c88-55197983b888
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
@@ -32,13 +32,12 @@ _expression_ A variable that represents a **[Document](Publisher.Document.md)** 
 
 ## Remarks
 
-For more information about using events with the  **Document** object, see [Using events with the Document object](../publisher/Concepts/using-events-with-the-document-object-publisher.md).
+For more information about using events with the **Document** object, see [Using events with the Document object](../publisher/Concepts/using-events-with-the-document-object-publisher.md).
 
 
 ## Example
 
-This example prompts the user for a yes or no response before closing a document. For this example to work, you must place this code into the  **ThisDocument** module.
-
+This example prompts the user for a yes or no response before closing a document. For this example to work, you must place this code into the **ThisDocument** module.
 
 ```vb
 Private Sub Document_BeforeClose(Cancel As Boolean) 

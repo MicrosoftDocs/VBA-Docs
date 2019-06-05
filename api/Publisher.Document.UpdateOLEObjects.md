@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Document.UpdateOLEObjects
 ms.assetid: 2c07e755-6f5c-5fd8-091c-fbe3bfae6692
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[Document](Publisher.Document.md)** 
 ## Example
 
 This example updates all OLE objects in the active publication.
-
 
 ```vb
 Sub SearchAndUpdateOLEObjects() 

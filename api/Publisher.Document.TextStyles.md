@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Document.TextStyles
 ms.assetid: a628e5c1-aed7-dd70-81fa-d9fb54afb527
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # Document.TextStyles property (Publisher)
 
-Returns a  **[TextStyles](Publisher.TextStyles.md)** collection that contains a publication's text styles.
+Returns a **[TextStyles](Publisher.TextStyles.md)** collection that contains a publication's text styles.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ TextStyles
 
 ## Example
 
-The following example displays the style name and base style of the first style in the  **TextStyles** collection.
-
+The following example displays the style name and base style of the first style in the **TextStyles** collection.
 
 ```vb
 Sub BaseStyleName() 

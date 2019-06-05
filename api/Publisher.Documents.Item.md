@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Documents.Item
 ms.assetid: 61cf3002-26d4-a678-abcb-940e7c385287
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
@@ -26,10 +26,8 @@ _expression_ A variable that represents a **[Documents](Publisher.Documents.md)*
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|varDocument|Required| **Variant**| **Long**. The number of the object to return.|
+|_Index_|Required| **Variant**| **Long**. The number of the object to return.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

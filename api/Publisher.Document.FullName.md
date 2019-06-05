@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Document.FullName
 ms.assetid: 137e4310-8431-ed2a-503a-c225378a9a74
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # Document.FullName property (Publisher)
 
-Returns a  **String** representing the full file name of the saved active publication, including its path and file name. Read-only.
+Returns a **String** representing the full file name of the saved active publication, including its path and file name. Read-only.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ String
 
 ## Remarks
 
-The  **FullName** property can be used to return both path and file name as returned by the **[Path](Publisher.Document.Path.md)** and **[Name](Publisher.Document.Name.md)** properties.
+The **FullName** property can be used to return both the path and file name as returned by the **[Path](Publisher.Document.Path.md)** and **[Name](Publisher.Document.Name.md)** properties.
 
 
 ## Example
 
-The following example demonstrates the differences between the  **Path**,  **Name**, and  **FullName** properties. This example is best illustrated if the publication is saved in a folder other than the default.
-
+The following example demonstrates the differences between the **Path**, **Name**, and **FullName** properties. This example is best illustrated if the publication is saved in a folder other than the default.
 
 ```vb
 Sub PathNames() 

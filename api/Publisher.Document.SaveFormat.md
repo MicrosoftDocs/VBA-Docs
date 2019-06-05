@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Document.SaveFormat
 ms.assetid: 545f0411-899f-ffe3-e844-8c2922a357f0
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
@@ -26,18 +26,17 @@ _expression_ A variable that represents a **[Document](Publisher.Document.md)** 
 
 ## Return value
 
-PbFileFormat
+**[PbFileFormat](Publisher.PbFileFormat.md)**
 
 
 ## Remarks
 
-The  **SaveFormat** property value can be one of the **[PbFileFormat](Publisher.PbFileFormat.md)** constants declared in the Microsoft Publisher type library.
+The **SaveFormat** property value can be one of the **PbFileFormat** constants declared in the Microsoft Publisher type library.
 
 
 ## Example
 
 If the active publication is in the Publisher 2000 format, this example saves it in Rich Text Format (RTF).
-
 
 ```vb
 Sub SaveAsRTF() 

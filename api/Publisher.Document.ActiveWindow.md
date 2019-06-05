@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Document.ActiveWindow
 ms.assetid: 0d00a8fa-aef2-43df-3c54-0cca804b7eee
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # Document.ActiveWindow property (Publisher)
 
-Returns a  **[Window](Publisher.Window.md)** object that represents the window with the focus. Because Microsoft Publisher only has one window, there is only one **Window** object to return.
+Returns a **[Window](Publisher.Window.md)** object that represents the window with the focus. Because Microsoft Publisher only has one window, there is only one **Window** object to return.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[Document](Publisher.Document.md)** 
 ## Example
 
 This example displays the active window's caption.
-
 
 ```vb
 Sub CurrentCaption() 

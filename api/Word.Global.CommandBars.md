@@ -55,7 +55,7 @@ With CommandBars("Drawing")
 End With
 ```
 
-This example adds the Versions command button to the Standard toolbar.
+This example adds the Versions command button to the **Standard** toolbar.
 
 
 

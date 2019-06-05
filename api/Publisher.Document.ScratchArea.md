@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Document.ScratchArea
 ms.assetid: 782d9b7f-b620-60f0-c21d-04f588c37cc6
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # Document.ScratchArea property (Publisher)
 
-Returns a  **[ScratchArea](Publisher.ScratchArea.md)** object for an a given document.
+Returns a **[ScratchArea](Publisher.ScratchArea.md)** object for a given document.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ ScratchArea
 
 ## Remarks
 
-The  **ScratchArea** object is a collection of objects on the scratch page. The **ScratchArea** object is not in the **Pages** collection because it is fundamentally not a page; its only similarity to a page is that it can contain objects.
+The **ScratchArea** object is a collection of objects on the scratch page. The **ScratchArea** object is not in the **Pages** collection because it is fundamentally not a page; its only similarity to a page is that it can contain objects.
 
 
 ## Example
 
 This example sets the variable object as the first shape on the scratch area of the active document.
-
 
 ```vb
 Sub ScratchPad() 

@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Document.Find
 ms.assetid: e9b31937-4504-79b5-5913-b2ef0a23f2a7
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
@@ -23,12 +23,7 @@ _expression_ A variable that represents a **[Document](Publisher.Document.md)** 
 
 ## Example
 
-As it applies to the  **Document** object.
-
-The following example sets an object variable to the  **FindReplace** object of the active document. A search operation is executed that applies bold formatting to every occurrence of the word "important".
-
-
-
+Applies to the **Document** object. The following example sets an object variable to the **FindReplace** object of the active document. A search operation is executed that applies bold formatting to every occurrence of the word Important.
 
 ```vb
 Dim objFind as FindReplace 
@@ -39,7 +34,7 @@ fFound = True
  
 With objFind 
  .Clear 
- .FindText = "important" 
+ .FindText = "Important" 
  Do While fFound = True 
  fFound = .Execute 
  If Not .FoundTextRange Is Nothing Then 
@@ -49,12 +44,9 @@ With objFind
 End With 
 ```
 
-As it applies to the  **TextRange** object.
+<br/>
 
-The following example sets an object variable to the  **FindReplace** object of the text range of the first shape in the active document. A search operation is executed that applies bold formatting to every occurrence of the word "urgent" in the text range.
-
-
-
+Applies to the **TextRange** object. The following example sets an object variable to the **FindReplace** object of the text range of the first shape in the active document. A search operation is executed that applies bold formatting to every occurrence of the word Urgent in the text range.
 
 ```vb
 Dim objFind as FindReplace 
@@ -66,7 +58,7 @@ fFound = True
  
 With objFind 
  .Clear 
- .FindText = "urgent" 
+ .FindText = "Urgent" 
  Do While fFound = True 
  fFound = .Execute 
  If Not .FoundTextRange Is Nothing Then 

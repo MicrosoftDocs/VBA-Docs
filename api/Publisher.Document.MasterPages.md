@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Document.MasterPages
 ms.assetid: 26e5342b-94f0-4fd5-2743-92cfd2d43a01
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # Document.MasterPages property (Publisher)
 
-Returns the  **[MasterPages](Publisher.MasterPages.md)** collection for the specified publication.
+Returns the **[MasterPages](Publisher.MasterPages.md)** collection for the specified publication.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ MasterPages
 ## Example
 
 The following example sets the text in the first text frame on the master page to Second Quarter.
-
 
 ```vb
 Dim mp As MasterPages 

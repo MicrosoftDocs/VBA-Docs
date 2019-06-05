@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Document.WizardAfterChange
 ms.assetid: c4ec0950-3a58-1f29-b35f-35db9d87f330
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
@@ -26,17 +26,16 @@ _expression_ A variable that represents a **[Document](Publisher.Document.md)** 
 
 ## Remarks
 
-The WizardAfterChange event only occurs once regardless of the scope or number of individual modifications made to the publication.
+The **WizardAfterChange** event only occurs once regardless of the scope or number of individual modifications made to the publication.
 
-To access the  **Document** object events, declare a **Document** object variable in the General Declarations section of a class module, then set the variable equal to the **Document** object for which you want to access events.
+To access the **Document** object events, declare a **Document** object variable in the General Declarations section of a class module, and then set the variable equal to the **Document** object for which you want to access events.
 
-For more information about using events with the  **Document** object, see [Using events with the Document object](../publisher/Concepts/using-events-with-the-document-object-publisher.md).
+For more information about using events with the **Document** object, see [Using events with the Document object](../publisher/Concepts/using-events-with-the-document-object-publisher.md).
 
 
 ## Example
 
-This example displays a message when a publication is altered using the wizard pane. (The procedure can be stored in the ThisDocument module of a publication.)
-
+This example displays a message when a publication is altered by using the wizard pane. The procedure can be stored in the **ThisDocument** module of a publication.
 
 ```vb
 Private Sub Document_WizardAfterChange() 

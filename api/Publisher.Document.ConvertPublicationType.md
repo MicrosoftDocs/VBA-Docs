@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Document.ConvertPublicationType
 ms.assetid: e4bfe349-a22f-6017-ac9d-49f67e1f6dd2
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
@@ -26,29 +26,19 @@ _expression_ A variable that represents a **[Document](Publisher.Document.md)** 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|_Value_|Required| **PbPublicationType**|The type of publication to which you want the publication converted.|
+|_Value_|Required| **[PbPublicationType](publisher.pbpublicationtype.md)**|The type of publication to which you want the publication converted. Can be one of the **PbPublicationType** constants declared in the Microsoft Publisher type library.|
 
 ## Remarks
 
 When a publication is converted, any settings that apply to its previous type remain, but are ignored. For example, converting a print publication to a web publication results in any advanced print settings being ignored. If the publication is converted back to a print publication, the settings take effect again.
 
-Use the  **[PublicationType](Publisher.Document.PublicationType.md)** property of the **[Document](Publisher.Document.md)** object to determine the publication type of a publication.
-
-The Value parameter can be one of the following  **PbPublicationType** constants declared in the Microsoft Publisher type library.
-
-
-
-| **pbTypePrint**|
-| **pbTypeWeb**|
+Use the **[PublicationType](Publisher.Document.PublicationType.md)** property to determine the publication type of a publication.
 
 ## Example
 
 The following example determines if the active publication is a print publication. If it is, the publication is converted to a web publication.
-
 
 ```vb
 Sub ChangePublicationType() 

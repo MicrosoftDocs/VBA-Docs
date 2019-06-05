@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Document.PageSetup
 ms.assetid: 1dac39f0-2507-a85b-8c71-cd1980022fb3
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # Document.PageSetup property (Publisher)
 
-Returns a  **[PageSetup](Publisher.PageSetup.md)** object representing a publication's page size, page layout and paper settings. Read-only.
+Returns a **[PageSetup](Publisher.PageSetup.md)** object representing a publication's page size, page layout, and paper settings. Read-only.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ PageSetup
 
 ## Remarks
 
-You can only use the  **PageSetup** property when printing multiple pages on a single sheet of printer paper. If the page size is greater than half the paper size, Microsoft Publisher will display an error.
+You can only use the **PageSetup** property when printing multiple pages on a single sheet of printer paper. If the page size is greater than half the paper size, Microsoft Publisher displays an error.
 
 
 ## Example
 
 This example specifies page setup options for a publication with multiple publication pages printed on each sheet of printer paper.
-
 
 ```vb
 Sub SetTopMargin() 
