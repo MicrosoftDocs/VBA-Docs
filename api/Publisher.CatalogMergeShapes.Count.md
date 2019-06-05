@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.CatalogMergeShapes.Count
 ms.assetid: a871af2f-183c-f5a8-7ad0-c8d25c71e41f
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # CatalogMergeShapes.Count property (Publisher)
 
-Returns a  **Long** that represents the number of items in the specified collection.
+Returns a **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[CatalogMergeShapes](Publisher.Catal
 
 This example displays the number of pages in the active document.
 
-
 ```vb
 Sub CountNumberOfPages() 
  MsgBox "Your publication contains " & _ 
@@ -36,10 +35,9 @@ Sub CountNumberOfPages()
 End Sub
 ```
 
+<br/>
+
 This example displays the number of shapes in the active document.
-
-
-
 
 ```vb
 Sub CountNumberOfShapes() 
