@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Column.Width
 ms.assetid: 9596b828-a5ce-e501-db59-a0e1533108b3
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # Column.Width property (Publisher)
 
-Returns or sets a  **Variant** that represents the width (in points) of a specified table column or shape. Read/write.
+Returns or sets a **Variant** that represents the width (in [points](../language/glossary/vbe-glossary.md#point)) of a specified table column or shape. Read/write.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[Column](Publisher.Column.md)** obje
 ## Example
 
 This example creates a new table and sets the height and width of the second row and column, respectively.
-
 
 ```vb
 Sub SetRowHeightColumnWidth() 
