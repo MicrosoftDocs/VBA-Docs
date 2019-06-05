@@ -17,6 +17,7 @@ Specifies the type of data to search.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
+| **xlCommentsThreaded**|-4184|ThreadedComments.|
 | **xlComments**|-4144|Comments.|
 | **xlFormulas**|-4123|Formulas.|
 | **xlValues**|-4163|Values.|
