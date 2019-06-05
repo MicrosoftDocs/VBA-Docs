@@ -11,7 +11,9 @@ localization_priority: Normal
 
 # CaptionStyle.Application property (Publisher)
 
-When used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Microsoft Publisher. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object. Read-only.
+When used without an object qualifier, this property returns an **[Application](Publisher.Application.md)** object that represents the current instance of Microsoft Publisher. 
+
+When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object. Read-only.
 
 
 ## Syntax
@@ -19,5 +21,6 @@ When used without an object qualifier, this property returns an  **[Application]
 _expression_.**Application**
 
 _expression_ A variable that represents a **[CaptionStyle](Publisher.CaptionStyle.md)** object.
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
