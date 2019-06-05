@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.Find
 ms.assetid: d9585265-8164-cb4d-a9e3-262f6e06b6b8
-ms.date: 05/10/2019
+ms.date: 06/06/2019
 localization_priority: Priority
 ---
 
@@ -76,7 +76,7 @@ With Worksheets(1).Range("a1:a500")
 End With
 ```
 
-<!-- ******Removed this sample by request in this issue: https://github.com/MicrosoftDocs/VBA-Docs/issues/133******
+<!-- ******Removed this sample by request in this Issue: https://github.com/MicrosoftDocs/VBA-Docs/issues/133******
 
 **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&p=1).
 
