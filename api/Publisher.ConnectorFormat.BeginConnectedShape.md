@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ConnectorFormat.BeginConnectedShape
 ms.assetid: a7eb9090-ad01-234c-99ff-3bb0616d02c0
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # ConnectorFormat.BeginConnectedShape property (Publisher)
 
-Returns a  **[Shape](Publisher.Shape.md)** object that represents the shape to which the beginning of the specified connector is attached.
+Returns a **[Shape](Publisher.Shape.md)** object that represents the shape to which the beginning of the specified connector is attached.
 
 
 ## Syntax
@@ -33,13 +33,12 @@ Shape
 
 If the beginning of the specified connector isn't attached to a shape, an error occurs.
 
-Use the  **[EndConnectedShape](Publisher.ConnectorFormat.EndConnectedShape.md)** property to return the shape attached to the end of a connector.
+Use the **[EndConnectedShape](Publisher.ConnectorFormat.EndConnectedShape.md)** property to return the shape attached to the end of a connector.
 
 
 ## Example
 
 This example assumes that the first page in the active publication already contains two shapes attached by a connector named Conn1To2. The code adds a rectangle and a connector to the first page. The beginning of the new connector will be attached to the same connection site as the beginning of the connector named Conn1To2, and the end of the new connector will be attached to connection site one on the new rectangle.
-
 
 ```vb
 Dim shpNew As Shape 
