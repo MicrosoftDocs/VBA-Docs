@@ -25,7 +25,7 @@ _expression_ An expression that returns a **[GradientStops](Office.GradientStops
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _RGB_|Required|**MsoRGBType**|Specifies the color at the gradient stop.|
+| _RGB_|Required|**[MsoThemeColorSchemeIndex](office.msothemecolorschemeindex.md)**|Specifies the color at the gradient stop.|
 | _Position_|Required|**Single**|Specifies the position of the stop within the gradient expressed as a percent.|
 | _Transparency_|Optional|**Single**|Specifies the opacity of the color at the gradient stop.|
 | _Index_|Optional|**Integer**|The index number of the gradient stop.|

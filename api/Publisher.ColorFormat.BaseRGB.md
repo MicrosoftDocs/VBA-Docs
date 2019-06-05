@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ColorFormat.BaseRGB
 ms.assetid: c8096661-9a5a-2769-fd88-72d38d383095
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # ColorFormat.BaseRGB property (Publisher)
 
-Returns or sets an  **MsoRGBType** constant that represents the original RGB color format before color-changing properties, such as tinting and shading, are applied. Read/write.
+Returns or sets a **[PbColorType](publisher.pbcolortype.md)** constant that represents the original RGB color format before color-changing properties, such as tinting and shading, are applied. Read/write.
 
 
 ## Syntax
@@ -26,13 +26,13 @@ _expression_ A variable that represents a **[ColorFormat](Publisher.ColorFormat.
 
 ## Return value
 
-MsoRGBType
+PbColorType
+
 
 
 ## Example
 
-This example creates a shape, sets the fill color and lightens the color; then it creates a second shape and applies the original RGB color of the first shape to the second shape.
-
+This example creates a shape, sets the fill color and lightens the color, and then creates a second shape and applies the original RGB color of the first shape to the second shape.
 
 ```vb
 Sub SetBaseRGB() 

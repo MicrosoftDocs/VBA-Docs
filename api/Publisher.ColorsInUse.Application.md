@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.ColorsInUse.Application
 ms.assetid: 726ef603-5f79-ac5b-e399-cbfe85773ba2
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 

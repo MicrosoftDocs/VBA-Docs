@@ -29,7 +29,7 @@ _expression_ An expression that returns a **[ThemeColorScheme](Office.ThemeColor
 
 ## Return value
 
-MsoRGBType
+**[MsoThemeColorSchemeIndex](office.msothemecolorschemeindex.md)**
 
 
 ## Remarks
@@ -45,7 +45,7 @@ The following example creates a variable representing the color scheme in an Off
 ```vb
 Dim tTheme As OfficeTheme 
 Dim tcsThemeColorScheme As ThemeColorScheme 
-Dim csCustomColor As MsoRGBType 
+Dim csCustomColor As MsoThemeColorSchemeIndex 
 Set tcsThemeColorScheme = tTheme.ThemeColorScheme 
 csCustomColor = tcsThemeColorScheme.GetCustomColor("CheerfulColor") 
 

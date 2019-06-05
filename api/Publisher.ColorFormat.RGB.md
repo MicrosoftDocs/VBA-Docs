@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ColorFormat.RGB
 ms.assetid: aeff1962-b855-7c3f-1f4d-a336e0739ade
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # ColorFormat.RGB property (Publisher)
 
-Returns or sets an  **MsoRGBType** that represents the red-green-blue (RGB) value of the specified color. Read/write.
+Returns or sets a **[PbColorType](publisher.pbcolortype.md)** constant that represents the red-green-blue (RGB) value of the specified color. Read/write.
 
 
 ## Syntax
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[ColorFormat](Publisher.ColorFormat.
 
 ## Return value
 
-MsoRGBType
+PbColorType
 
 
 ## Example
 
-This example creates a new shape to the first page of the active publication and sets the fill color to red.
-
+This example creates a new shape on the first page of the active publication and sets the fill color to red.
 
 ```vb
 Sub SetFill() 
@@ -42,10 +41,9 @@ Sub SetFill()
 End Sub
 ```
 
+<br/>
+
 This example returns the value of the foreground color of the first shape on the first page of the active document. This example assumes that there is at least one shape on the first page of the active publication.
-
-
-
 
 ```vb
 Sub ShowFillColor() 

@@ -23,7 +23,7 @@ _expression_ An expression that returns a **[ThemeColor](Office.ThemeColor.md)**
 
 ## Return value
 
-MsoRGBType
+**[MsoThemeColorSchemeIndex](office.msothemecolorschemeindex.md)**
 
 
 ## See also
