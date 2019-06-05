@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ColorCMYK.Magenta
 ms.assetid: 2996279e-d5f6-9734-ca1a-0e80d7991e5a
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # ColorCMYK.Magenta property (Publisher)
 
-Sets or returns a  **Long** that represents the magenta component of a CMYK color. Value can be any number between 0 and 255. Read/write.
+Sets or returns a **Long** that represents the magenta component of a CMYK color. Value can be any number between 0 and 255. Read/write.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ Long
 
 ## Example
 
-This example creates two new shapes and then sets the CMYK fill color for one shape and sets the CMYK values of the second shape to the same CMYK values.
-
+This example creates two new shapes, and then sets the CMYK fill color for one shape and the CMYK values of the second shape to the same CMYK values.
 
 ```vb
 Sub ReturnAndSetCMYK() 
