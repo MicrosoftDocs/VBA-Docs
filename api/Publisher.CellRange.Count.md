@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.CellRange.Count
 ms.assetid: b21dfbc8-fa1d-aa25-c8a2-ed81629b5da1
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # CellRange.Count property (Publisher)
 
-Returns a  **Long** that represents the number of items in the specified collection.
+Returns a **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[CellRange](Publisher.CellRange.md)*
 
 This example displays the number of pages in the active document.
 
-
 ```vb
 Sub CountNumberOfPages() 
  MsgBox "Your publication contains " & _ 
@@ -36,10 +35,9 @@ Sub CountNumberOfPages()
 End Sub
 ```
 
+<br/>
+
 This example displays the number of shapes in the active document.
-
-
-
 
 ```vb
 Sub CountNumberOfShapes() 

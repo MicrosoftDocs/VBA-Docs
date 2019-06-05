@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Page.Width property (Publisher)
 
-Returns a  **Long** that represent the width (in points) of a cell, range of cells, or page. Read-only.
+Returns a **Long** that represents the width (in [points](../language/glossary/vbe-glossary.md#point)) of a cell, range of cells, or page. Read-only.
 
 
 ## Syntax
@@ -22,5 +22,6 @@ Returns a  **Long** that represent the width (in points) of a cell, range of cel
 _expression_.**Width**
 
 _expression_ A variable that represents a **[Page](Publisher.Page.md)** object.
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
