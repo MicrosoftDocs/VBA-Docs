@@ -41,7 +41,7 @@ This method can only be used on the active page of the publication.
 
 ## Example
 
-The following example sets the first page in the document as the active page, and exports that page to a file. (Note that PathToFile must be replaced with a valid file path for this example to work.)
+The following example sets the first page in the document as the active page, and exports that page to a file. Note that `PathToFile` must be replaced with a valid file path for this example to work.
 
 
 ```vb

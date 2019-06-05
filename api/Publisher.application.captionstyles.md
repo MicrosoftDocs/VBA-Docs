@@ -24,7 +24,7 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 ## Return value
 
-**CaptionStyles**
+CaptionStyles
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

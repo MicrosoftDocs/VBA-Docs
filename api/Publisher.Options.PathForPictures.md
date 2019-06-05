@@ -31,7 +31,7 @@ String
 
 ## Example
 
-This example places the default path for picture files in a string and then uses the path string to add the specified file to the active publication. (Note that Filename must be replaced with a valid file name for this example to work.)
+This example places the default path for picture files in a string and then uses the path string to add the specified file to the active publication. Note that `FileName` must be replaced with a valid file name for this example to work.
 
 
 ```vb
@@ -41,7 +41,7 @@ Sub InsertNewPicture()
  strPicPath = Options.PathForPictures 
  
  ActiveDocument.Pages(1).Shapes.AddPicture FileName:=strPicPath _ 
- & "Filename", LinktoFile:=msoFalse, _ 
+ & "FileName", LinktoFile:=msoFalse, _ 
  SaveWithDocument:=msoTrue, Left:=50, Top:=50, Height:=200 
  
 End Sub

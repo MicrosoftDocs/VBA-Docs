@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.FileDialog property (Publisher)
 
-Returns a **FileDialog** object that represents a single instance of a file dialog box.
+Returns a **[FileDialog](office.filedialog.md)** object that represents a single instance of a file dialog box.
 
 
 ## Syntax

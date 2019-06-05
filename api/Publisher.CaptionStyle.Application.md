@@ -4,7 +4,7 @@ ms.prod: publisher
 api_name:
 - Publisher.CaptionStyle.Application
 ms.assetid: f8a42f10-12d4-269e-6ebc-99432c91861d
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.COMAddIns property (Publisher)
 
-Returns a **COMAddIns** collection that represents a reference to the Component Object Model (COM) add-ins currently loaded in Microsoft Publisher.
+Returns a **[COMAddIns](office.comaddins.md)** collection that represents a reference to the Component Object Model (COM) add-ins currently loaded in Microsoft Publisher.
 
 
 ## Syntax

@@ -37,7 +37,7 @@ To fill the shape with one large image, use the  **[UserPicture](Publisher.FillF
 
 ## Example
 
-This example adds two rectangles to the active publication. The rectangle on the left is filled with one large image of a picture; the rectangle on the right is filled with many small tiles of the same picture. (Note that PathToFile must be replaced with a valid file path for this example to work.)
+This example adds two rectangles to the active publication. The rectangle on the left is filled with one large image of a picture; the rectangle on the right is filled with many small tiles of the same picture. Note that `PathToFile` must be replaced with a valid file path for this example to work.
 
 
 ```vb

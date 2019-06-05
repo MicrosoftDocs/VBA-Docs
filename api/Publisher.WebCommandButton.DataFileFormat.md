@@ -36,7 +36,7 @@ The  **DataFileFormat** property value can be one of the **[PbSubmitDataFormatTy
 
 ## Example
 
-This example sets Microsoft Publisher to process Web form data by saving it to a comma-delimited text file on the same Web server as the form is stored. (Note that Filename must be replaced with a valid file name for this example to work.)
+This example sets Microsoft Publisher to process Web form data by saving it to a comma-delimited text file on the same Web server as the form is stored. Note that `FileName` must be replaced with a valid file name for this example to work.
 
 
 ```vb
@@ -44,7 +44,7 @@ Sub WebDataFile()
  With ThisDocument.Pages(1).Shapes(1).WebCommandButton 
  .DataRetrievalMethod = pbSubmitDataRetrievalSaveOnServer 
  .DataFileFormat = pbSubmitDataFormatCSV 
- .DataFileName = "Filename" 
+ .DataFileName = "FileName" 
  End With 
 End Sub
 ```

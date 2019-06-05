@@ -31,7 +31,7 @@ Page
 
 ## Example
 
-This example saves the active page as a JPEG picture. (Note that PathToFile must be replaced with a valid file path for this example to work.)
+This example saves the active page as a JPEG picture. Note that `PathToFile` must be replaced with a valid file path for this example to work.
 
 
 ```vb

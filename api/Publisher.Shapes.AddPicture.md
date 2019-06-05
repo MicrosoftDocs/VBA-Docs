@@ -58,7 +58,7 @@ The _LinkToFile_ parameter can be one of the **[MsoTriState](office.msotristate.
 
 ## Example
 
-The following example adds a picture based on an existing file to the active publication; the picture in the publication is linked to a copy of the original file. (Note that _PathToFile_ must be replaced with a valid file path for this example to work.)
+The following example adds a picture based on an existing file to the active publication; the picture in the publication is linked to a copy of the original file. Note that `PathToFile` must be replaced with a valid file path for this example to work.
 
 
 ```vb
