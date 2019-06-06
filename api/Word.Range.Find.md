@@ -18,8 +18,9 @@ Returns a **[Find](Word.Find.md)** object that contains the criteria for a find 
 
 ## Syntax
 
-_expression_. `Find`
+_expression_.**Find**
 
-_expression_ A variable that represents a [Range](Word.Range.md) object.
+_expression_ A variable that represents a **[Range](Word.Range.md)** object.
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

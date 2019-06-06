@@ -49,4 +49,6 @@ Sub PrintOnlyInksUsed
 End Sub
 ```
 
+<!--There is no PbInkName enumeration-->
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

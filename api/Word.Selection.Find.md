@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Selection.Find property (Word)
 
-Returns a  **[Find](Word.Find.md)** object that contains the criteria for a find operation. Read-only.
+Returns a **[Find](Word.Find.md)** object that contains the criteria for a find operation. Read-only.
 
 
 ## Syntax
 
-_expression_. `Find`
+_expression_.**Find**
 
 _expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
@@ -32,7 +32,6 @@ The selection is changed if the find operation is successful.
 ## Example
 
 The following example searches forward through the document for the word "Microsoft." If the word is found, it is automatically selected.
-
 
 ```vb
 With Selection.Find 

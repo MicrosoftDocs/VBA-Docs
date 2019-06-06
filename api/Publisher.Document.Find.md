@@ -14,6 +14,8 @@ localization_priority: Normal
 
 # Document.Find property (Publisher)
 
+Returns a **[FindReplace](publisher.findreplace.md)** object from the specified **Document** object. The **FindReplace** object is used to perform a text search and replace in the specified document.
+
 ## Syntax
 
 _expression_.**Find**
@@ -46,7 +48,7 @@ End With
 
 <br/>
 
-Applies to the **TextRange** object. The following example sets an object variable to the **FindReplace** object of the text range of the first shape in the active document. A search operation is executed that applies bold formatting to every occurrence of the word Urgent in the text range.
+Applies to the **[TextRange](publisher.textrange.md)** object. The following example sets an object variable to the **FindReplace** object of the text range of the first shape in the active document. A search operation is executed that applies bold formatting to every occurrence of the word Urgent in the text range.
 
 ```vb
 Dim objFind as FindReplace 
