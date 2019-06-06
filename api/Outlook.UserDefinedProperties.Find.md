@@ -19,14 +19,12 @@ Locate a  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** contained in
 
 ## Syntax
 
-_expression_. `Find`( `_Name_` )
+_expression_.**Find** (_Name_)
 
 _expression_ A variable that represents a [UserDefinedProperties](Outlook.UserDefinedProperties.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

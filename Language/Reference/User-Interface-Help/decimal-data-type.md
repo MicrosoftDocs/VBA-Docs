@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Decimal data type
 
-[Decimal variables](../../Glossary/vbe-glossary.md#decimal-data-type) are stored as 96-bit (12-byte) unsigned integers, together with a scaling factor (used to indicate either a whole number power of 10 to scale the integer down by, or that there should be no scaling) and a value (used to indicate whether the decimal number is positive or negative). 
+[Decimal variables](../../Glossary/vbe-glossary.md#decimal-data-type) are stored as 96-bit (12-byte) unsigned integers, together with a scaling factor (used to indicate either a whole number power of 10 to scale the integer down by, or that there should be no scaling) and a value indicating whether the decimal number is positive or negative. 
 
 The scaling factor is the number of digits to store to the right of the decimal point, and ranges from 0 to 28.
 
