@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.DropCap.Clear
 ms.assetid: 7c30e774-c520-076a-41d8-7c68679f58bc
-ms.date: 06/08/2017
+ms.date: 06/07/2019
 localization_priority: Normal
 ---
 
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[DropCap](Publisher.DropCap.md)** ob
 ## Example
 
 This example removes the dropped capital letter formatting in the specified text frame.
-
 
 ```vb
 Sub ClearDropCap() 
