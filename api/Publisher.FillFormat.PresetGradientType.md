@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.FillFormat.PresetGradientType
 ms.assetid: 1febce3f-9925-3fec-eb78-f5167585477e
-ms.date: 06/08/2017
+ms.date: 06/07/2019
 localization_priority: Normal
 ---
 
 
 # FillFormat.PresetGradientType property (Publisher)
 
-Returns an  **MsoPresetGradientType** constant that represents the preset gradient type for the specified fill. Read-only.
+Returns an **[MsoPresetGradientType](Office.MsoPresetGradientType.md)** constant that represents the preset gradient type for the specified fill. Read-only.
 
 
 ## Syntax
@@ -31,9 +31,9 @@ MsoPresetGradientType
 
 ## Remarks
 
-The  **PresetGradientType** property value can be one of the **[MsoPresetGradientType](Office.MsoPresetGradientType.md)** constants declared in the Microsoft Office type library.
+The **PresetGradientType** property value can be one of the **MsoPresetGradientType** constants declared in the Microsoft Office type library.
 
-Use the  **[PresetGradient](Publisher.FillFormat.PresetGradient.md)** method to set the preset gradient type for the fill.
+Use the **[PresetGradient](Publisher.FillFormat.PresetGradient.md)** method to set the preset gradient type for the fill.
 
 
 ## Example

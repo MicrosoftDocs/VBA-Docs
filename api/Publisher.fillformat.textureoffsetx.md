@@ -5,14 +5,14 @@ f1_keywords:
 - vbapb10.chm2359573
 ms.prod: publisher
 ms.assetid: 8023af14-0155-0387-9af7-5f7a8ea557b4
-ms.date: 06/08/2017
+ms.date: 06/07/2019
 localization_priority: Normal
 ---
 
 
 # FillFormat.TextureOffsetX property (Publisher)
 
-Returns or sets a  **Long** that specifies the horizontal offset of the texture from the origin in points. Read/write.
+Returns or sets a **Long** that specifies the horizontal offset of the texture from the origin in [points](../language/glossary/vbe-glossary.md#point). Read/write.
 
 
 ## Syntax
@@ -24,19 +24,15 @@ _expression_ A variable that represents a **[FillFormat](publisher.fillformat.md
 
 ## Property value
 
- **FLOAT**
+FLOAT
 
 
 ## Remarks
 
-The position of the origin is determined by the setting of the  [TextureAlignment](Publisher.fillformat.texturealignment.md) property.
+The position of the origin is determined by the setting of the **[TextureAlignment](Publisher.fillformat.texturealignment.md)** property.
 
-The setting of the  **TextureOffsetX** property corresponds to the setting of the **Offset X** box on the **Fill** pane of the **Format Shape** dialog box in the Publisher user interface (under **Drawing Tools**, on the  **Format** tab, click **Shape Fill**, point to  **Texture**, and then click  **More Textures**.)
-
-
-## See also
+The setting of the **TextureOffsetX** property corresponds to the setting of the **Offset X** box in the **Fill** pane of the **Format Shape** dialog box in the Publisher user interface (under **Drawing Tools**, on the **Format** tab, choose **Shape Fill**, point to **Texture**, and then choose **More Textures**).
 
 
- [FillFormat Object](Publisher.FillFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

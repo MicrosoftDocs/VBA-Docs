@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.FillFormat.UserPicture
 ms.assetid: b1eaf724-42b4-657f-4d88-bc8547664893
-ms.date: 06/08/2017
+ms.date: 06/07/2019
 localization_priority: Normal
 ---
 
@@ -28,17 +28,16 @@ _expression_ A variable that represents a **[FillFormat](publisher.fillformat.md
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|PictureFile|Required| **String**|The name of the picture file.|
+|_PictureFile_|Required| **String**|The name of the picture file.|
 
 ## Remarks
 
-To fill the shape with small tiles of an image, use the  **[UserTextured](Publisher.FillFormat.UserTextured.md)** method.
+To fill the shape with small tiles of an image, use the **[UserTextured](Publisher.FillFormat.UserTextured.md)** method.
 
 
 ## Example
 
 This example adds two rectangles to the active publication. The rectangle on the left is filled with one large image of a picture; the rectangle on the right is filled with many small tiles of the same picture. Note that `PathToFile` must be replaced with a valid file path for this example to work.
-
 
 ```vb
 With ActiveDocument.Pages(1).Shapes 

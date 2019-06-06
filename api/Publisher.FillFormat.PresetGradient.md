@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.FillFormat.PresetGradient
 ms.assetid: d97c4ce8-5cef-6f53-d0c8-8bcf9ab8bb80
-ms.date: 06/08/2017
+ms.date: 06/07/2019
 localization_priority: Normal
 ---
 
@@ -28,57 +28,14 @@ _expression_ A variable that represents a **[FillFormat](publisher.fillformat.md
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Style|Required| **MsoGradientStyle**|The style of the gradient.|
-|**Variant**|Required| **Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the  **Gradient** tab in the **Fill Effects** dialog box. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
-|PresetGradientType|Required| **MsoPresetGradientType**|The gradient type.|
+|_Style_|Required| **[MsoGradientStyle](Office.MsoGradientStyle.md)** |The style of the gradient. Can be one of the **MsoGradientStyle** constants declared in the Microsoft Office type library.|
+|_Variant_|Required| **Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the **Gradient** tab in the **Fill Effects** dialog box. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
+|_PresetGradientType_|Required| **[MsoPresetGradientType](office.msopresetgradienttype.md)**|The gradient type. Can be one of the **MsoPresetGradientType** constants.|
 
-## Remarks
-
-The Style parameter can be one of the  **MsoPresetGradientStyle** constants declared in the Microsoft Office type library and shown in the following table.
-
-
-
-| **msoGradientDiagonalDown**|
-| **msoGradientDiagonalUp**|
-| **msoGradientFromCenter**|
-| **msoGradientFromCorner**|
-| **msoGradientFromTitle**|
-| **msoGradientHorizontal**|
-| **msoGradientVertical**|
-
-The PresetGradientType parameter can be one of the  **MsoPresetGradientType** constants declared in the Microsoft Office type library and shown in the following table.
-
-
-
-| **msoGradientBrass**|
-| **msoGradientCalmWater**|
-| **msoGradientChrome**|
-| **msoGradientChromeII**|
-| **msoGradientDaybreak**|
-| **msoGradientDesert**|
-| **msoGradientEarlySunset**|
-| **msoGradientFire**|
-| **msoGradientFog**|
-| **msoGradientGold**|
-| **msoGradientGoldII**|
-| **msoGradientHorizon**|
-| **msoGradientLateSunset**|
-| **msoGradientMahogany**|
-| **msoGradientMoss**|
-| **msoGradientNightfall**|
-| **msoGradientOcean**|
-| **msoGradientParchment**|
-| **msoGradientPeacock**|
-| **msoGradientRainbow**|
-| **msoGradientRainbowII**|
-| **msoGradientSapphire**|
-| **msoGradientSilver**|
-| **msoGradientWheat**|
 
 ## Example
 
 This example adds a rectangle with a preset gradient fill to the active publication.
-
 
 ```vb
 ActiveDocument.Pages(1).Shapes _ 

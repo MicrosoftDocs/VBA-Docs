@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.FillFormat.PresetTexture
 ms.assetid: c03a9bf3-7378-e82a-9a40-650c5c96fd2a
-ms.date: 06/08/2017
+ms.date: 06/07/2019
 localization_priority: Normal
 ---
 
 
 # FillFormat.PresetTexture property (Publisher)
 
-Returns an  **MsoPresetTexture** constant that represents the preset texture for the specified fill. Read-only.
+Returns an **[MsoPresetTexture](Office.MsoPresetTexture.md)** constant that represents the preset texture for the specified fill. Read-only.
 
 
 ## Syntax
@@ -31,15 +31,14 @@ MsoPresetTexture
 
 ## Remarks
 
-The  **PresetTexture** property value can be one of the **[MsoPresetTexture](Office.MsoPresetTexture.md)** constants declared in the Microsoft Office type library.
+The **PresetTexture** property value can be one of the **MsoPresetTexture** constants declared in the Microsoft Office type library.
 
-Use the  **[PresetTextured](Publisher.FillFormat.PresetTextured.md)** method to specify the preset texture for the fill.
+Use the **[PresetTextured](Publisher.FillFormat.PresetTextured.md)** method to specify the preset texture for the fill.
 
 
 ## Example
 
 This example adds a rectangle to the first page in the active publication and sets its preset texture to match that of the first shape on the page. For the example to work, the first shape must have a preset textured fill.
-
 
 ```vb
 Sub SetTexture() 
