@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Represents the design of the specified Web navigation bar set.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

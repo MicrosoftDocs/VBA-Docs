@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Constants passed to the  **[Fields.AddPhoneticGuide](Publisher.Fields.AddPhoneticGuide.md)** method that specify the alignment of the added phonetic text.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

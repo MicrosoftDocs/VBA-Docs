@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Constants that indicate the file format of the specified document.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

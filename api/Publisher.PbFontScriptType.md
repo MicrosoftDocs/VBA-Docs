@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Represents the font script for a text range. 
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

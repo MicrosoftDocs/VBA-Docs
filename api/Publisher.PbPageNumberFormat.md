@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Represents the formatting of the page numbering.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

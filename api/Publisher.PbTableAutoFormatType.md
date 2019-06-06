@@ -16,7 +16,7 @@ localization_priority: Normal
 
 The type of automatic formatting to apply to the specified table.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

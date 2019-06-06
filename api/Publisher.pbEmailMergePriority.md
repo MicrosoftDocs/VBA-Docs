@@ -1,5 +1,5 @@
 ---
-title: pbEmailMergePriority enumeration (Publisher)
+title: PbEmailMergePriority enumeration (Publisher)
 keywords: vbapb10.chm65638
 f1_keywords:
 - vbapb10.chm65638
@@ -12,11 +12,11 @@ localization_priority: Normal
 ---
 
 
-# pbEmailMergePriority enumeration (Publisher)
+# PbEmailMergePriority enumeration (Publisher)
 
-Constants for merged email message priority passed to and returned by the  **[EmailMergeEnvelope.Priority](Publisher.EmailMergeEnvelope.Priority.md)** property.
+Constants for merged email message priority passed to and returned by the **[EmailMergeEnvelope.Priority](Publisher.EmailMergeEnvelope.Priority.md)** property.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

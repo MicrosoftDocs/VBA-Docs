@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Indicates the function of a specified shape with respect to its publication design. 
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

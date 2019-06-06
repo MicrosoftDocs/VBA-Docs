@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Indicates whether text should wrap around a shape. 
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

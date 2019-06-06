@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Indicates the zoom setting of the specified view. 
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
