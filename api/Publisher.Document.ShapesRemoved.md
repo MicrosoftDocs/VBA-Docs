@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Document.ShapesRemoved
 ms.assetid: e2a67359-5673-2c72-e1fc-e3e3a3b564f9
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[Document](Publisher.Document.md)** 
 
 ## Example
 
-This example displays a message whenever a shape is removed from the active publication. For this example to work, you must place this code into the  **ThisDocument** module.
-
+This example displays a message whenever a shape is removed from the active publication. For this example to work, you must place this code into the **ThisDocument** module.
 
 ```vb
 Private Sub Document_ShapesRemoved() 

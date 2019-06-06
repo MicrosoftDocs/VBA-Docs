@@ -34,7 +34,7 @@ _expression_ A variable that represents an [ExtraColors](./PowerPoint.ExtraColor
 
 ## Return value
 
-MsoRGBType
+**[MsoThemeColorSchemeIndex](office.msothemecolorschemeindex.md)**
 
 
 ## See also

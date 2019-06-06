@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Cell.Selected
 ms.assetid: b07f40bf-a14b-9b2a-2e0d-dc907cc78748
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # Cell.Selected property (Publisher)
 
-Returns  **True** if a cell is selected. Read-only **Boolean**.
+Returns **True** if a cell is selected. Read-only **Boolean**.
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[Cell](Publisher.Cell.md)** object.
 
 ## Example
 
-This example determines if a cell in the specified table is selected and if it is, enters text into the cell.
-
+This example determines if a cell in the specified table is selected, and if it is, enters text into the cell.
 
 ```vb
 Sub IsCellSelected() 

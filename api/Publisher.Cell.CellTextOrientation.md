@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Cell.CellTextOrientation
 ms.assetid: ad2c2f15-358c-7bbc-b249-b886a99ea4a5
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # Cell.CellTextOrientation property (Publisher)
 
-Returns or sets a  **PbTextOrientation** that represents the flow of text in a specified table cell. Read/write.
+Returns or sets a **[PbTextOrientation](Publisher.PbTextOrientation.md)** constant that represents the flow of text in a specified table cell. Read/write.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ PbTextOrientation
 
 ## Remarks
 
-The  **CellTextOrientation** property value can be one of the **[PbTextOrientation](Publisher.PbTextOrientation.md)** constants declared in the Microsoft Publisher type library.
+The **CellTextOrientation** property value can be one of the **PbTextOrientation** constants declared in the Microsoft Publisher type library.
 
 
 ## Example
 
 This example increases the height of the cells in the first row, and then adds vertically-oriented heading text.
-
 
 ```vb
 Sub VerticalText() 

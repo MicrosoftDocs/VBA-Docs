@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Application property (Publisher)
 
-When used without an object qualifier, this property returns an **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. 
+When used without an object qualifier, this property returns an **Application** object that represents the current instance of Publisher. 
 
 When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object. 
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.Find
 ms.assetid: d9585265-8164-cb4d-a9e3-262f6e06b6b8
-ms.date: 05/10/2019
+ms.date: 06/06/2019
 localization_priority: Priority
 ---
 
@@ -29,7 +29,7 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 |:-----|:-----|:-----|:-----|
 | _What_|Required| **Variant**|The data to search for. Can be a string or any Microsoft Excel data type.|
 | _After_|Optional| **Variant**|The cell after which you want the search to begin. This corresponds to the position of the active cell when a search is done from the user interface.<br/><br/>Notice that _After_ must be a single cell in the range. Remember that the search begins after this cell; the specified cell isn't searched until the method wraps back around to this cell.<br/><br/>If you do not specify this argument, the search starts after the cell in the upper-left corner of the range.|
-| _LookIn_|Optional| **Variant**|Can be one of the following **[XlFindLookIn](excel.xlfindlookin.md)** constants: **xlFormulas**, **xlValues**, or **xlComments**.|
+| _LookIn_|Optional| **Variant**|Can be one of the following **[XlFindLookIn](excel.xlfindlookin.md)** constants: **xlFormulas**, **xlValues**, **xlComments**, or **xlCommentsThreaded**.|
 | _LookAt_|Optional| **Variant**|Can be one of the following **[XlLookAt](excel.xllookat.md)** constants: **xlWhole** or **xlPart**.|
 | _SearchOrder_|Optional| **Variant**|Can be one of the following **[XlSearchOrder](excel.xlsearchorder.md)** constants: **xlByRows** or **xlByColumns**.|
 | _SearchDirection_|Optional| **[XlSearchDirection](Excel.xlSearchDirection.md)** |The search direction.|
@@ -76,7 +76,7 @@ With Worksheets(1).Range("a1:a500")
 End With
 ```
 
-<!-- ******Removed this sample by request in this issue: https://github.com/MicrosoftDocs/VBA-Docs/issues/133******
+<!-- ******Removed this sample by request in this Issue: https://github.com/MicrosoftDocs/VBA-Docs/issues/133******
 
 **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&p=1).
 
@@ -103,7 +103,7 @@ Sub FindAddress()
     
     'If an error occurs, use the error handling routine at the end of this file.
     On Error GoTo ErrorHandler
-    
+   
     'Turn off screen updating, and then open the target workbook.
     Application.ScreenUpdating = False
     Workbooks.Open FileName:=MyPath & MyWB

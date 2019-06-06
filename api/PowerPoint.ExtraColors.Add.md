@@ -26,11 +26,9 @@ _expression_ A variable that represents an [ExtraColors](./PowerPoint.ExtraColor
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required|**MsoRGBType**|The red-green-blue (RGB) value of the color to be added.|
+| _Type_|Required|**[MsoThemeColorSchemeIndex](office.msothemecolorschemeindex.md)**|The red-green-blue (RGB) value of the color to be added.|
 
 ## See also
 

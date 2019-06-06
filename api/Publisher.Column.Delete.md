@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Column.Delete
 ms.assetid: 09498d82-e7e3-e301-5f7c-444f0112c480
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 

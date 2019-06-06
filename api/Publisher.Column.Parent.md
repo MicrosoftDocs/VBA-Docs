@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Column.Parent
 ms.assetid: 08182002-2b16-60a7-3e40-7702aa71fe54
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # Column.Parent property (Publisher)
 
-Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
+Returns an object that represents the parent object of the specified object. For example, for a **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[Column](Publisher.Column.md)** obje
 ## Example
 
 This example accesses the parent object of the selected shape, and then adds a new shape to it and sets the fill for the new shape.
-
 
 ```vb
 Sub ParentObject() 
@@ -42,10 +41,9 @@ Sub ParentObject()
 End Sub
 ```
 
+<br/>
+
 This example returns the parent object of a text frame, which is the first shape in the active publication, and then fills the shape with a pattern.
-
-
-
 
 ```vb
 Sub ParentShape() 

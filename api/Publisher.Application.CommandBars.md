@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.CommandBars property (Publisher)
 
-Sets or returns a **CommandBars** collection that represents the menu bar and all the toolbars in Microsoft Publisher.
+Sets or returns a **[CommandBars](office.commandbars.md)** collection that represents the menu bar and all the toolbars in Microsoft Publisher.
 
 
 ## Syntax

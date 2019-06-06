@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Document.Path
 ms.assetid: 01926d63-e59e-5aad-3cb9-143166d253a5
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # Document.Path property (Publisher)
 
-Returns a  **String** indicating the full path to the file of the saved active publication, not including the last separator or file name.
+Returns a **String** indicating the full path to the file of the saved active publication, not including the last separator or file name.
 
 
 ## Syntax
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[Document](Publisher.Document.md)** 
 
 ## Remarks
 
-The  **[FullName](Publisher.Document.FullName.md)** property can be used to return both the path and file name.
+The **[FullName](Publisher.Document.FullName.md)** property can be used to return both the path and file name.
 
 
 ## Example
 
-The following example demonstrates the differences between the  **Path**,  **Name**, and  **FullName** properties. This example is best illustrated if the publication is saved in a folder other than the default.
-
+The following example demonstrates the differences between the **Path**, **Name**, and **FullName** properties. This example is best illustrated if the publication is saved in a folder other than the default.
 
 ```vb
 Sub PathNames() 

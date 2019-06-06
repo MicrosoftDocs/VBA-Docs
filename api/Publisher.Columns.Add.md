@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Columns.Add
 ms.assetid: b3dfb892-6bda-d2c4-11f7-9bd29bf257aa
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # Columns.Add method (Publisher)
 
-Adds a new  **Column** object to the specified **Columns** collection and returns the new **Column** object.
+Adds a new **[Column](Publisher.Column.md)** object to the specified **Columns** collection and returns the new **Column** object.
 
 
 ## Syntax
@@ -25,8 +25,6 @@ _expression_ A variable that represents a **[Columns](Publisher.Columns.md)** ob
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -40,7 +38,6 @@ Column
 ## Example
 
 The following example adds a column before column three in the specified table.
-
 
 ```vb
 Dim colNew As Column 

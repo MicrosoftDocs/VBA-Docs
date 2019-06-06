@@ -39,7 +39,7 @@ Sub NewsLetterSave()
  Dim strFileName As String 
  
  ' Assign the explicit file name to a variable. 
- strFileName = "Filename" 
+ strFileName = "FileName" 
  Publisher.ActiveDocument.SaveAs strFileName 
  
  ' Insert the file name and supporting text after selected text. 

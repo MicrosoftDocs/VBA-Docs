@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Specifies the quality of spreadsheets saved in different fixed formats.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

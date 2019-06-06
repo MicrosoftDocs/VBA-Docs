@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.ConnectorFormat.EndDisconnect
 ms.assetid: cf46820e-99fc-cdd2-999a-f30117b5616f
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
@@ -28,13 +28,12 @@ _expression_ A variable that represents a **[ConnectorFormat](Publisher.Connecto
 
 This method doesn't alter the size or position of the connector; the end of the connector remains positioned at a connection site but is no longer connected.
 
-Use the  **[BeginDisconnect](Publisher.ConnectorFormat.BeginDisconnect.md)** method to detach the beginning of the connector from a shape.
+Use the **[BeginDisconnect](Publisher.ConnectorFormat.BeginDisconnect.md)** method to detach the beginning of the connector from a shape.
 
 
 ## Example
 
 This example adds two rectangles to the first page in the active publication, attaches them with a connector, automatically reroutes the connector along the shortest path, and then detaches the connector from the rectangles.
-
 
 ```vb
 Dim shpRect1 As Shape 

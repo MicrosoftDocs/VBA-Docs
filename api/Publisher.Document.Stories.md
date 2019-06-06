@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Document.Stories
 ms.assetid: 4ffc7d20-eb11-942e-e28a-81c2caa19a50
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # Document.Stories property (Publisher)
 
-Returns a  **[Stories](Publisher.Stories.md)** collection containing all stories in the publication.
+Returns a **[Stories](Publisher.Stories.md)** collection containing all stories in the publication.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ Stories
 
 ## Example
 
-This example assigns the first story in the  **Stories** collection to a variable.
-
+This example assigns the first story in the **Stories** collection to a variable.
 
 ```vb
 Sub FirstStory() 

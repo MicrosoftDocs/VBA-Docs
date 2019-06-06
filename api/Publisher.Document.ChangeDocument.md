@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Document.ChangeDocument
 ms.assetid: c6defa92-99fb-973b-6bb2-e3c2a1b0a4f3
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
@@ -26,22 +26,15 @@ _expression_ A variable that represents a **[Document](Publisher.Document.md)** 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|_Wizard_|Required| **PbWizard**|The type of wizard. See Remarks for possible values.|
-|_Design_|Optional| **Long**|The design type.|
-
-## Remarks
-
-Possible values for the Wizard parameter are declared in the  **[PbWizard](Publisher.PbWizard.md)** enumeration in the Publisher type library.
+|_Wizard_|Required| **[PbWizard](Publisher.PbWizard.md)**|The type of wizard. Can be one of the **PbWizard** constants.|
+|_Design_|Optional| **Long**|The design type.| 
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ChangeDocument** method to change the wizard used by the current publication to a brochure.
-
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **ChangeDocument** method to change the wizard used by the current publication to a brochure.
 
 ```vb
 Public Sub ChangeDocument_Example() 

@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Document.Redo
 ms.assetid: c00db13d-1c03-2536-8923-bd7d9393fee2
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
@@ -26,17 +26,16 @@ _expression_ A variable that represents a **[Document](Publisher.Document.md)** 
 
 ## Remarks
 
-The  **Redo** event occurs immediately after the action is redone.
+The **Redo** event occurs immediately after the action is redone.
 
-If multiple actions are redone, the  **Redo** event occurs only once, after all the actions are complete.
+If multiple actions are redone, the **Redo** event occurs only once, after all the actions are complete.
 
-For more information about using events with the  **Document** object, see [Using events with the Document object](../publisher/Concepts/using-events-with-the-document-object-publisher.md).
+For more information about using events with the **Document** object, see [Using events with the Document object](../publisher/Concepts/using-events-with-the-document-object-publisher.md).
 
 
 ## Example
 
-This example displays a message when a user clicks  **Undo** on the **Standard** toolbar or selects **Redo** from the **Edit** menu. For this routine to work with the current publication, you must put it in the ThisDocument module.
-
+This example displays a message when a user chooses **Undo** on the **Standard** toolbar or selects **Redo** from the **Edit** menu. For this routine to work with the current publication, you must put it in the **ThisDocument** module.
 
 ```vb
 Private Sub DocPub_Redo() 
@@ -44,10 +43,9 @@ Private Sub DocPub_Redo()
 End Sub
 ```
 
+<br/>
+
 To trap this event from a non-Microsoft Publisher project, you must place the following code in the General Declarations section of your module and run the InitiatePubApp routine.
-
-
-
 
 ```vb
 Private WithEvents DocPub As Publisher.Document 

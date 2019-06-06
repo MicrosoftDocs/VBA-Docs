@@ -41,7 +41,7 @@ KeyBindings.Add KeyCode:=BuildKeyCode(wdKeyControl, _
  KeyCategory:=wdKeyCategoryCommand, Command:="FileClose"
 ```
 
-This example adds the File Versions button to the Standard toolbar. The command bar customization is saved in the template attached to the active document.
+This example adds the File Versions button to the **Standard** toolbar. The command bar customization is saved in the template attached to the active document.
 
 
 

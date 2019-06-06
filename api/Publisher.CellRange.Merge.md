@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.CellRange.Merge
 ms.assetid: f097659c-d1b8-f2bb-c4fc-5efc2b7417dd
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[CellRange](Publisher.CellRange.md)*
 ## Example
 
 This example merges the first two cells in the first two rows of the specified table.
-
 
 ```vb
 Sub MergeCells() 

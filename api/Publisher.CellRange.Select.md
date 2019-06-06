@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.CellRange.Select
 ms.assetid: 15b0fc0b-8cac-9ff9-bac3-cf15351c7645
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[CellRange](Publisher.CellRange.md)*
 
 This example selects the upper-left cell from a table that has been added to the first page in the active publication.
 
-
 ```vb
 Dim shpTable As Shape 
 Dim cllTemp As Cell 
@@ -41,10 +40,9 @@ With ActiveDocument.Pages(1).Shapes
 End With
 ```
 
+<br/>
+
 This example selects the first column from a table that has been added to the first page in the active publication.
-
-
-
 
 ```vb
 Dim shpTable As Shape 
@@ -59,10 +57,9 @@ With ActiveDocument.Pages(1).Shapes
 End With
 ```
 
+<br/>
+
 This example selects the first five characters in shape one on page one of the active publication.
-
-
-
 
 ```vb
 ActiveDocument.Pages(1).Shapes(1).TextFrame _ 

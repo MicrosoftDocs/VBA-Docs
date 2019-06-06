@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Document.PrintPageBackgrounds
 ms.assetid: 6d1d6e6a-fd66-2afa-2172-4a6552d5cce4
-ms.date: 06/08/2017
+ms.date: 06/06/2019
 localization_priority: Normal
 ---
 
 
 # Document.PrintPageBackgrounds property (Publisher)
 
-Returns or sets  **True** to include page backgrounds when printing pages from the specified publication. Default is **True**. Read/write  **Boolean**.
+Returns or sets **True** to include page backgrounds when printing pages from the specified publication. Default is **True**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ Boolean
 
 ## Remarks
 
-Use the  **[PageBackground](Publisher.PageBackground.md)** object to create, alter, or delete the background of a specified page.
+Use the **[PageBackground](Publisher.PageBackground.md)** object to create, alter, or delete the background of a specified page.
 
 
 ## Example
 
 The following example sets page backgrounds to print for the active publication.
-
 
 ```vb
 ActiveDocument.PrintPageBackgrounds = True

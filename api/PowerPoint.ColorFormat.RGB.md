@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ColorFormat](./PowerPoint.ColorFormat
 
 ## Return value
 
-MsoRGBType
+MsoThemeColorSchemeIndex
 
 
 ## Example
