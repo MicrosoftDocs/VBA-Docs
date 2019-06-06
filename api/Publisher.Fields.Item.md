@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Fields.Item
 ms.assetid: 95783e5a-2c82-235e-75a4-5ac15938718e
-ms.date: 06/08/2017
+ms.date: 06/07/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[Fields](Publisher.Fields.md)** obje
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |_Index_|Required| **Long**|The number of the object to return.|
@@ -39,8 +37,7 @@ Field
 
 ## Example
 
-This example returns the first field from a **[Fields](Publisher.Fields.md)** object.
-
+This example returns the first field from a **Fields** collection.
 
 ```vb
 Dim fldTemp As Field 

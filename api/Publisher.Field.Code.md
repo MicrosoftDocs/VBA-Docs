@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Field.Code
 ms.assetid: bb2f3b23-dea1-bdfb-90bf-4b4ea09570f6
-ms.date: 06/08/2017
+ms.date: 06/07/2019
 localization_priority: Normal
 ---
 
 
 # Field.Code property (Publisher)
 
-Returns a  **String** that represents the text displayed when the page view is set to show field codes. Read-only.
+Returns a **String** that represents the text displayed when the page view is set to show field codes. Read-only.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ String
 
 ## Example
 
-This example loops through all the fields in the active publication, and then displays a message as to whether the string "www" was found in the code of any of the fields.
-
+This example loops through all the fields in the active publication, and then displays a message as to whether the string `"www"` was found in the code of any of the fields.
 
 ```vb
 Sub FindWWWHyperlinks() 
