@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.WebNavigationBarSets property (Publisher)
 
-Returns a **WebNavigationBarSets** object representing a collection of all **WebNavigationBarSet** objects in the specified document. Read-only.
+Returns a **[WebNavigationBarSets](publisher.webnavigationbarsets.md)** object representing a collection of all **WebNavigationBarSet** objects in the specified document. Read-only.
 
 
 ## Syntax
