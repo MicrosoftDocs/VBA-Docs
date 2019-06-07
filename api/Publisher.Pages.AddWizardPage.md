@@ -60,7 +60,7 @@ Sub AddNewWizardPage()
 End Sub
 ```
 
-This example verifies that the active document is a catalog and, if it is, adds a catalog form after the first page but does not add the page as a link in any Web navigation bar sets.
+This example verifies that the active document is a catalog, and if it is, adds a catalog form after the first page but does not add the page as a link in any Web navigation bar sets.
 
 
 

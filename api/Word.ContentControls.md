@@ -37,7 +37,7 @@ objcc.DropdownListEntries.Add "Snake"
 objcc.DropdownListEntries.Add "Other"
 ```
 
-Use the  **[Item](Word.ContentControls.Item.md)** method to access a specific content control in the collection. The following example accesses the third content control in the active document and, if the control is a drop-down list or a combo box, moves the first item to the bottom of the list and the last item to the top of the list.
+Use the  **[Item](Word.ContentControls.Item.md)** method to access a specific content control in the collection. The following example accesses the third content control in the active document, and if the control is a drop-down list or a combo box, moves the first item to the bottom of the list and the last item to the top of the list.
 
 
 

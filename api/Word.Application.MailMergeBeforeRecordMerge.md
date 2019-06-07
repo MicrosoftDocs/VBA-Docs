@@ -35,7 +35,7 @@ _expression_ A variable that represents an '[Application](Word.Application.md)' 
 
 ## Example
 
-This example verifies that the length of the postal code, which in this example is field number six, is fewer than five digits and, if it is, cancels the merge only for that record. This example assumes that you have declared an application variable called MailMergeApp in your general declarations and have set the variable equal to the Microsoft Word Application object.
+This example verifies that the length of the postal code, which in this example is field number six, is fewer than five digits, and if it is, cancels the merge only for that record. This example assumes that you have declared an application variable called MailMergeApp in your general declarations and have set the variable equal to the Microsoft Word Application object.
 
 
 ```vb

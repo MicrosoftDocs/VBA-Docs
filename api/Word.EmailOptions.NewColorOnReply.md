@@ -31,7 +31,7 @@ Use the  **NewColorOnReply** property if you want the reply text of email messag
 
 ## Example
 
-This example checks to see if a user needs to choose a new color for email reply text and, if not, sets the reply font color to blue.
+This example checks to see if a user needs to choose a new color for email reply text, and if not, sets the reply font color to blue.
 
 
 ```vb

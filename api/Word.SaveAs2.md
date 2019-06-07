@@ -98,7 +98,7 @@ Sub SaveAsTextFile()
 End Sub
 ```
 
-The following code example loops through all the installed converters and, if it finds the WordPerfect 6.0 converter, it saves the active document using the converter.
+The following code example loops through all the installed converters, and if it finds the WordPerfect 6.0 converter, it saves the active document using the converter.
 
 
 

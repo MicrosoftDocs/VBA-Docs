@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Font.SubScript
 ms.assetid: 9992fdcc-dd60-b2f7-307b-99b10dc7debb
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Font.SubScript property (Publisher)
 
-Returns or sets an  **MsoTriState** constant indicating whether characters are formatted as subscript in the specified text range. Read/write.
+Returns or sets an **[MsoTriState](Office.MsoTriState.md)** constant indicating whether characters are formatted as subscript in the specified text range. Read/write.
 
 
 ## Syntax
@@ -31,24 +31,21 @@ MsoTriState
 
 ## Remarks
 
-The  **SubScript** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
-
-
+The **SubScript** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 |Constant|Description|
 |:-----|:-----|
 | **msoFalse**|No characters in the range are formatted as subscript.|
-| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
-| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
+| **msoTriStateMixed**|Return value indicating a combination of **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateToggle**|Set value that switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**| All characters in the range are formatted as subscript.|
 
-Setting the  **SubScript** property to **msoTrue** removes superscript formatting from the text range.
+Setting the **SubScript** property to **msoTrue** removes superscript formatting from the text range.
 
 
 ## Example
 
-This example tests the text in the second story and, if it has mixed subscripting, it formats all the text as subscript.
-
+This example tests the text in the second story, and if it has mixed subscripting, it formats all the text as subscript.
 
 ```vb
 Sub SubScript() 

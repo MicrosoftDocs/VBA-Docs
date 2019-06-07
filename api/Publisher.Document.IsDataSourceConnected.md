@@ -31,7 +31,7 @@ A publication must be connected to a valid data source to perform a mail merge o
 
 ## Example
 
-The following example tests whether the publication is connected to a data source and, if it is not, specifies and connects a data source to the publication. 
+The following example tests whether the publication is connected to a data source, and if it is not, specifies and connects a data source to the publication. 
 
 Before running this example, you must replace `PathToFile` with a valid file path and `TableName` with a valid data source table name.
 

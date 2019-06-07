@@ -36,7 +36,7 @@ The catalog merge area can contain picture and text data fields you have inserte
 
 ## Example
 
-The following example tests whether any page in the specified publication contains a catalog merge area and, if it does, it returns a list of the shapes it contains.
+The following example tests whether any page in the specified publication contains a catalog merge area, and if it does, it returns a list of the shapes it contains.
 
 
 ```vb

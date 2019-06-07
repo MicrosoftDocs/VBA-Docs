@@ -31,7 +31,7 @@ The  **LabelOptions** method works only if the document is the main document of 
 
 ## Example
 
-This example determines if the current document is a Mailing Label document and, if it is, displays the Label Options dialog box.
+This example determines if the current document is a Mailing Label document, and if it is, displays the Label Options dialog box.
 
 
 ```vb

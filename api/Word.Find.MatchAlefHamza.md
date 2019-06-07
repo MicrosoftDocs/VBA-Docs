@@ -14,29 +14,24 @@ localization_priority: Normal
 
 # Find.MatchAlefHamza property (Word)
 
- **True** if find operations match text with matching alef hamzas in an Arabic language document. Read/write **Boolean**.
+**True** if find operations match text with matching alef hamzas in an Arabic language document. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `MatchAlefHamza`
+_expression_.**MatchAlefHamza**
 
- _expression_ An expression that returns a '[Find](Word.Find.md)' object.
+_expression_ An expression that returns a **[Find](Word.Find.md)** object.
 
 
 ## Example
 
 This example sets the current find operation to match alef hamzas.
 
-
 ```vb
 Selection.Find.MatchAlefHamza = True
 ```
 
 
-## See also
-
-
-[Find Object](Word.Find.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

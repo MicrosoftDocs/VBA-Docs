@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Font.AutomaticPairKerningThreshold
 ms.assetid: f5f43a19-7227-b25d-9322-84a79596c525
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Font.AutomaticPairKerningThreshold property (Publisher)
 
-Returns or sets a  **Variant** value that represents the point size above which kerning is automatically adjusted for characters in the specified text range. Read/write.
+Returns or sets a **Variant** value that represents the [point](../language/glossary/vbe-glossary.md#point) size above which kerning is automatically adjusted for characters in the specified text range. Read/write.
 
 
 ## Syntax
@@ -37,7 +37,6 @@ Valid range is 0.0 points to 999.5 points. Returns -2 if the value for character
 ## Example
 
 This example sets the point size threshold to 12 points. All text in the second story above the threshold will implement auto kerning.
-
 
 ```vb
 Sub Threshold() 

@@ -39,7 +39,7 @@ _expression_ A variable that represents a **Project** object.
 | _FormatID_|Optional|**String**|Specifies the file or database format to use. If Project recognizes the format of the file specified with _Name_, _FormatID_ is ignored. _FormatID_ can be one of the values in the [Format strings](#format-strings) table.|
 | _Map_|Optional|**String**|The name of the import/export map to use when exporting data.|
 | _ClearBaseline_|Optional|**Boolean**|**True** if baseline values (the Baseline Cost, Baseline Work, Baseline Start, Baseline Finish, Baseline Duration, Timephased Baseline Work, and Timephased Baseline Cost fields) are cleared when saving as a template. The default value is **False**.|
-| _ClearActuals_|Optional|**Boolean**|**True** if actual values (the % Complete field and, if actual costs are not calculated by Project, the Actual Cost field) are cleared when saving as a template. The default value is **False**.|
+| _ClearActuals_|Optional|**Boolean**|**True** if actual values (the % Complete field, and if actual costs are not calculated by Project, the Actual Cost field) are cleared when saving as a template. The default value is **False**.|
 | _ClearResourceRates_|Optional|**Boolean**|**True** if resource rate tables are cleared when saving as a template. The default value is **False**.|
 | _ClearFixedCosts_|Optional|**Boolean**|**True** if the Fixed Costs field is cleared for all tasks when saving as a template. The default value is **False**.|
 

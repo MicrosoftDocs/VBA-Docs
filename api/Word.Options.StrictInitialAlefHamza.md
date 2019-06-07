@@ -14,29 +14,24 @@ localization_priority: Normal
 
 # Options.StrictInitialAlefHamza property (Word)
 
- **True** if the spelling checker uses spelling rules regarding Arabic words beginning with an alef hamza. Read/write **Boolean**.
+**True** if the spelling checker uses spelling rules regarding Arabic words beginning with an alef hamza. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `StrictInitialAlefHamza`
+_expression_.**StrictInitialAlefHamza**
 
- _expression_ An expression that returns an '[Options](Word.Options.md)' object.
+_expression_ An expression that returns an **[Options](Word.Options.md)** object.
 
 
 ## Example
 
 This example sets the spelling checker to use spelling rules regarding Arabic words beginning with an alef hamza.
 
-
 ```vb
 Options.StrictInitialAlefHamza = True
 ```
 
 
-## See also
-
-
-[Options Object](Word.Options.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

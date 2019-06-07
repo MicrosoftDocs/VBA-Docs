@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Font.Reset
 ms.assetid: 7a81d7f9-4db9-3ce1-188d-2b4719b57fff
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -33,20 +33,20 @@ Nothing
 
 The following example resets the character formatting of the text in shape one on page one of the active publication to the default character formatting for the current text style.
 
-
 ```vb
-ActiveDocument.Pages(1).Shapes(1) _ 
- .TextFrame.TextRange.Font.Reset
+ ActiveDocument.Pages(1).Shapes(1) _ 
+  .TextFrame.TextRange.Font.Reset
+
 ```
+
+<br/>
 
 The following example resets the paragraph formatting of the text in shape one on page one of the active publication to the default paragraph formatting for the current text style.
 
-
-
-
 ```vb
-ActiveDocument.Pages(1).Shapes(1) _ 
- .TextFrame.TextRange.ParagraphFormat.Reset
+ ActiveDocument.Pages(1).Shapes(1) _ 
+  .TextFrame.TextRange.ParagraphFormat.Reset
+  
 ```
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

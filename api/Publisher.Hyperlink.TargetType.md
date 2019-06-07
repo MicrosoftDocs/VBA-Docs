@@ -46,7 +46,7 @@ The  **TargetType** property value can be one of the following **PbHlinkTargetTy
 
 ## Example
 
-This example verifies that the specified hyperlink is a URL and, if it is, sets the hyperlink display text and address. This example assumes there is at least one shape on the first page of the active publication.
+This example verifies that the specified hyperlink is a URL, and if it is, sets the hyperlink display text and address. This example assumes there is at least one shape on the first page of the active publication.
 
 
 ```vb

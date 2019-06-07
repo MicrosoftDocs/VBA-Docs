@@ -40,7 +40,7 @@ _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.
 
 ## Example
 
-This example checks if the Mail Merge Wizard is already displayed and, if it is, moves to the Mail Merge Wizard's sixth step and removes the fifth step from the Wizard.
+This example checks if the Mail Merge Wizard is already displayed, and if it is, moves to the Mail Merge Wizard's sixth step and removes the fifth step from the Wizard.
 
 
 ```vb

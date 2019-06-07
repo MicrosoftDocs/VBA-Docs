@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Font.TrackingPreset
 ms.assetid: 818e6efd-a1b3-1ccd-1dc1-29c0a8ded7f2
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Font.TrackingPreset property (Publisher)
 
-Returns or sets a  **PbTrackingPresetType** constant representing the preset tracking type for characters in the specified font in a text range. Read/write.
+Returns or sets a **[PbTrackingPresetType](publisher.pbtrackingpresettype.md)** constant representing the preset tracking type for characters in the specified font in a text range. Read/write.
 
 
 ## Syntax
@@ -31,17 +31,7 @@ PbTrackingPresetType
 
 ## Remarks
 
-The  **TrackingPreset** property value can be one of these **PbTrackingPresetType** constants.
-
-
-
-| **pbTrackingCustom**|
-| **pbTrackingLoose**|
-| **pbTrackingMixed**|
-| **pbTrackingNormal**|
-| **pbTrackingTight**|
-| **pbTrackingVeryLoose**|
-| **pbTrackingVeryTight**|
+The **TrackingPreset** property value can be one of the **PbTrackingPresetType** constants.
 
 Loose and very loose tracking leaves ample space between characters, whereas tight and very tight tracking can produce character overlap.
 
@@ -49,7 +39,6 @@ Loose and very loose tracking leaves ample space between characters, whereas tig
 ## Example
 
 This example specifies tight tracking as the preset for the characters in the second story.
-
 
 ```vb
 Sub TrackingType() 

@@ -31,7 +31,7 @@ For file-based data sources (for example, Access), the **SourceDataFile** proper
 
 ## Example
 
-This example determines if a connection exists for the cache and, if there is a connection, displays the data source file name. If no connection exists, the code handles the run-time error and notifies the user. This example assumes that a PivotTable exists on the active worksheet.
+This example determines if a connection exists for the cache, and if there is a connection, displays the data source file name. If no connection exists, the code handles the run-time error and notifies the user. This example assumes that a PivotTable exists on the active worksheet.
 
 ```vb
 Sub CheckSourceConnection() 

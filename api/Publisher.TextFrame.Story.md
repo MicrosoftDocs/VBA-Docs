@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[TextFrame](Publisher.TextFrame.md)*
 
 ## Example
 
-This example returns the story in the selected text range and, if it is in a text frame, inserts text into the text range.
+This example returns the story in the selected text range, and if it is in a text frame, inserts text into the text range.
 
 
 ```vb
