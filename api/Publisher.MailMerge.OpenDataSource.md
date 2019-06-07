@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMerge.OpenDataSource
 ms.assetid: 4473e566-687f-595e-9fd6-a5483021cb48
-ms.date: 01/07/2019
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -25,8 +25,6 @@ _expression_ A variable that represents a **[MailMerge](publisher.mailmerge.md)*
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -61,7 +59,7 @@ End Sub
 > [!NOTE] 
 > For `TableName`, if an Excel spreadsheet is being opened, `TableName` must be followed by `$`. That is, `bstrTable:="Sheet1"` will not work. `bstrTable:="Sheet1$"` will work. Following is an example that further clarifies this.
 
-In this example, the data is stored in MySpreadSheet.xlsx, Sheet1 in the same directory as the Publisher file.
+In this example, the data is stored in MySpreadSheet.xlsx, Sheet1, in the same directory as the Publisher file.
 
 ```vb
 Dim strDataFile as String

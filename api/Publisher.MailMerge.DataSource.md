@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMerge.DataSource
 ms.assetid: 19b32513-fd57-617a-38e2-6230e3e036b9
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # MailMerge.DataSource property (Publisher)
 
-Returns a  **[MailMergeDataSource](Publisher.MailMergeDataSource.md)** object that refers to the data source attached to a mail merge or catalog merge main publication.
+Returns a **[MailMergeDataSource](Publisher.MailMergeDataSource.md)** object that refers to the data source attached to a mail merge or catalog merge main publication.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ MailMergeDataSource
 ## Example
 
 This example displays the path and file name of the data source attached to the active publication.
-
 
 ```vb
 Sub DataSourceName() 
