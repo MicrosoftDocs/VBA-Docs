@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.LineFormat.BeginArrowheadWidth
 ms.assetid: a752c674-1b83-b8c8-d325-b61804f5fadc
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # LineFormat.BeginArrowheadWidth property (Publisher)
 
-Returns or sets an  **MsoArrowheadWidth**constant indicating the width of the arrowhead at the beginning of the specified line. Read/write.
+Returns or sets an **[MsoArrowheadWidth](Office.MsoArrowheadWidth.md)** constant indicating the width of the arrowhead at the beginning of the specified line. Read/write.
 
 
 ## Syntax
@@ -31,15 +31,14 @@ MsoArrowheadWidth
 
 ## Remarks
 
-The  **BeginArrowheadWidth** property value can be one of the **[MsoArrowheadWidth](Office.MsoArrowheadWidth.md)** constants declared in the Microsoft Office type library.
+The **BeginArrowheadWidth** property value can be one of the **MsoArrowheadWidth** constants declared in the Microsoft Office type library.
 
-Use the  **[EndArrowheadWidth](Publisher.LineFormat.EndArrowheadWidth.md)** property to return or set the width of the arrowhead at the end of the line.
+Use the **[EndArrowheadWidth](Publisher.LineFormat.EndArrowheadWidth.md)** property to return or set the width of the arrowhead at the end of the line.
 
 
 ## Example
 
 This example adds a line to the active publication. There is a short, narrow oval on the line's starting point and a long, wide triangle on its endpoint.
-
 
 ```vb
 With ActiveDocument.Pages(1).Shapes _ 
