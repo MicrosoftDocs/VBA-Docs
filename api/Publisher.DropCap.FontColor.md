@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.DropCap.FontColor
 ms.assetid: 0c740ec7-05ac-b1fc-875c-cfd5a934c403
-ms.date: 06/08/2017
+ms.date: 06/07/2019
 localization_priority: Normal
 ---
 
 
 # DropCap.FontColor property (Publisher)
 
-Returns or sets a  **[ColorFormat](Publisher.ColorFormat.md)** object that represents the color applied to a specified dropped capital letter.
+Returns or sets a **[ColorFormat](Publisher.ColorFormat.md)** object that represents the color applied to a specified dropped capital letter.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ ColorFormat
 
 ## Example
 
-This example applies an  **[RGB](Publisher.ColorFormat.RGB.md)** color to the dropped capital letter in the specified text frame. This example assumes that the specified text frame is formatted with a dropped capital letter.
-
+This example applies an **[RGB](Publisher.ColorFormat.RGB.md)** color to the dropped capital letter in the specified text frame. This example assumes that the specified text frame is formatted with a dropped capital letter.
 
 ```vb
 Sub BoldDropCap() 

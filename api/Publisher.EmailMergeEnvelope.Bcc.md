@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.EmailMergeEnvelope.Bcc
 ms.assetid: 1d846fac-d93c-6a20-ce3b-090525dbbfe1
-ms.date: 06/08/2017
+ms.date: 06/07/2019
 localization_priority: Normal
 ---
 
@@ -31,8 +31,7 @@ String
 
 ## Remarks
 
-Set the  **Bcc** property to a string of email addresses separated by semicolons, as shown in the following example.
-
+Set the **Bcc** property to a string of email addresses separated by semicolons, as shown in the following example.
 
 ```vb
  MailMerge.EmailMergeEnvelope.Bcc = "name1@address1;name2@address2;name3@address3;..."

@@ -49,7 +49,7 @@ End Sub
 
 - [Application](Publisher.MailMergeDataField.Application.md)
 - [Creator](Publisher.MailMergeDataField.Creator.md)
-- [FieldType](Publisher.Field.FieldType.md)
+- [FieldType](Publisher.MailMergeDataField.FieldType.md)
 - [Index](Publisher.MailMergeDataField.Index.md)
 - [IsMapped](Publisher.MailMergeDataField.IsMapped.md)
 - [MappedTo](Publisher.MailMergeDataField.MappedTo.md)

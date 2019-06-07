@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.DropCap.Size
 ms.assetid: c8111c4f-7b70-76ba-5c8e-acaeb4c90be7
-ms.date: 06/08/2017
+ms.date: 06/07/2019
 localization_priority: Normal
 ---
 
 
 # DropCap.Size property (Publisher)
 
-Returns or sets a  **Long** that represents the number of lines high to format a dropped capital letter. Read/write.
+Returns or sets a **Long** that represents the number of lines high to format a dropped capital letter. Read/write.
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[DropCap](Publisher.DropCap.md)** ob
 
 ## Example
 
-This example formats a drop cap for the specified text range that is five lines high.
-
+This example formats a dropped capital letter for the specified text range that is five lines high.
 
 ```vb
 Sub RaisedDropCap() 

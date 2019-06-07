@@ -36,7 +36,7 @@ Sub PrintOnlyInksUsed
  End With 
 End Sub
 ```
-
+<!--There is no PbInkName enumeration-->
 
 ## Properties
 

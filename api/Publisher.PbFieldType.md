@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Represents the field type. 
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

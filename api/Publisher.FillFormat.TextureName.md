@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.FillFormat.TextureName
 ms.assetid: 237a85ff-018d-f6b7-e94b-32e85fce65ab
-ms.date: 06/08/2017
+ms.date: 06/07/2019
 localization_priority: Normal
 ---
 
 
 # FillFormat.TextureName property (Publisher)
 
-Returns a  **String** indicating the name of the custom texture file for the specified fill. Read-only.
+Returns a **String** indicating the name of the custom texture file for the specified fill. Read-only.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ String
 
 ## Remarks
 
-Use the  **[UserTextured](Publisher.FillFormat.UserTextured.md)** method to set the texture file for the fill.
+Use the **[UserTextured](Publisher.FillFormat.UserTextured.md)** method to set the texture file for the fill.
 
 
 ## Example
 
 This example adds an oval to the active publication. If shape one on the active publication has a fill with a user-defined texture, the new oval will have the same fill as shape one. If shape one has any other type of fill, the new oval will have a green marble fill.
-
 
 ```vb
 Dim ffNew As FillFormat 

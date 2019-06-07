@@ -7,14 +7,16 @@ ms.prod: publisher
 api_name:
 - Publisher.FillFormat.GradientVariant
 ms.assetid: f57224dc-e9c6-e1aa-e950-97dfd5ed483f
-ms.date: 06/08/2017
+ms.date: 06/07/2019
 localization_priority: Normal
 ---
 
 
 # FillFormat.GradientVariant property (Publisher)
 
-Returns a  **Long** indicating the gradient variant for the specified fill. Generally, values are integers from 1 to 4 for most gradient fills. If the gradient style is **msoGradientFromTitle** or **msoGradientFromCenter**, this property returns either 1 or 2. The values for this property correspond to the gradient variants (numbered from left to right and from top to bottom) on the  **Gradient** tab in the **Fill Effects** dialog box. Read-only.
+Returns a **Long** indicating the gradient variant for the specified fill. Generally, values are integers from 1 to 4 for most gradient fills. If the gradient style is **msoGradientFromTitle** or **msoGradientFromCenter**, this property returns either 1 or 2. 
+
+The values for this property correspond to the gradient variants (numbered from left to right and from top to bottom) on the **Gradient** tab in the **Fill Effects** dialog box. Read-only.
 
 
 ## Syntax
@@ -31,13 +33,12 @@ Long
 
 ## Remarks
 
-Use the  **[OneColorGradient](Publisher.FillFormat.OneColorGradient.md)**,  **[PresetGradient](Publisher.FillFormat.PresetGradient.md)**, or  **[TwoColorGradient](Publisher.FillFormat.TwoColorGradient.md)** method to set the gradient variant for the fill.
+Use the **[OneColorGradient](Publisher.FillFormat.OneColorGradient.md)**, **[PresetGradient](Publisher.FillFormat.PresetGradient.md)**, or **[TwoColorGradient](Publisher.FillFormat.TwoColorGradient.md)** method to set the gradient variant for the fill.
 
 
 ## Example
 
 This example adds a rectangle to the active publication and sets its fill gradient variant to match that of the shape named rect1. For the example to work, rect1 must have a gradient fill.
-
 
 ```vb
 Dim intVariant As Integer 

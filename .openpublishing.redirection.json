@@ -2623,6 +2623,12 @@
           {
             "source_path": "api/Excel.XlSubtototalLocationType.md",
             "redirect_url": "/office/vba/api/Excel.XlSubtotalLocationType"
+          },
+          {
+            "source_path": "api/Publisher.Field.FieldType.md",
+            "redirect_url": "/office/vba/api/publisher.mailmergedatafield.FieldType"
           }
     ]
 }
+
+

@@ -14,19 +14,17 @@ localization_priority: Normal
 
 # UserProperties.Find method (Outlook)
 
-Locates and returns a  **[UserProperty](Outlook.UserProperty.md)** object for the requested property name, if it exists.
+Locates and returns a **[UserProperty](Outlook.UserProperty.md)** object for the requested property name, if it exists.
 
 
 ## Syntax
 
-_expression_. `Find`( `_Name_` , `_Custom_` )
+_expression_.**Find** (_Name_, _Custom_)
 
-_expression_ A variable that represents an [UserProperties](Outlook.UserProperties.md) object.
+_expression_ A variable that represents a **[UserProperties](Outlook.UserProperties.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -35,12 +33,14 @@ _expression_ A variable that represents an [UserProperties](Outlook.UserProperti
 
 ## Return value
 
-If you use  **UserProperties.Find** to look for a custom property and the call succeeds, it will return a **UserProperty** object. If it fails, it will return **Null** (**Nothing** in Visual Basic). If you use **UserProperties.Find** to look for a built-in property, specify **False** for the _Custom_ parameter. If the call succeeds, it will return the property as a **UserProperty** object. If the call fails, it will return **Null** (**Nothing** in Visual Basic). If you specify **True** for _Custom_ , the call will not find the built-in property and will return **Null** (**Nothing** in Visual Basic).
+If you use **Find** to look for a custom property and the call succeeds, it returns a **UserProperty** object. If it fails, it returns **Null** (**Nothing** in Visual Basic). 
+
+If you use **Find** to look for a built-in property, specify **False** for the _Custom_ parameter. If the call succeeds, it returns the property as a **UserProperty** object. If the call fails, it returns **Null** (**Nothing** in Visual Basic). If you specify **True** for _Custom_, the call does not find the built-in property and returns **Null** (**Nothing** in Visual Basic).
 
 
 ## Remarks
 
-If  _Custom_ parameter is **True**, only custom user properties will be searched. The default value is **True**. To find a non custom property such as **Subject**, specify _Custom_ parameter as **False**, otherwise will return **Nothing**.
+If the _Custom_ parameter is **True**, only custom user properties are searched. The default value is **True**. To find a non-custom property such as **Subject**, specify the _Custom_ parameter as **False**; otherwise, it returns **Nothing**.
 
 
 ## See also

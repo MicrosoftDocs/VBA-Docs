@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.FindReplace.ReplaceScope
 ms.assetid: 555fe65b-9edb-8888-03f0-15ce34813d5f
-ms.date: 06/08/2017
+ms.date: 06/07/2019
 localization_priority: Normal
 ---
 
@@ -31,15 +31,14 @@ PbReplaceScope
 
 ## Remarks
 
-The  **ReplaceScope** property value can be one of the **[PbReplaceScope](Publisher.PbReplaceScope.md)** constants declared in the Microsoft Publisher type library.
+The **ReplaceScope** property value can be one of the **[PbReplaceScope](Publisher.PbReplaceScope.md)** constants declared in the Microsoft Publisher type library.
 
-The default setting of the  **ReplaceScope** property is **pbReplaceScopeNone**.
+The default setting of the **ReplaceScope** property is **pbReplaceScopeNone**.
 
 
 ## Example
 
 The following example replaces all occurrences of the word "hi" with "hello" in the active document.
-
 
 ```vb
 With ActiveDocument.Find 

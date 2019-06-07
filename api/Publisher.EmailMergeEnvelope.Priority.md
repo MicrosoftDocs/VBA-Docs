@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.EmailMergeEnvelope.Priority
 ms.assetid: 21c4c33f-d211-7ca5-364b-be9ad4d3f187
-ms.date: 06/08/2017
+ms.date: 06/07/2019
 localization_priority: Normal
 ---
 
 
 # EmailMergeEnvelope.Priority property (Publisher)
 
-Gets or sets the priority of the merged email message represented by the parent  **EmailMergeEnvelope** object. Read/write.
+Gets or sets the priority of the merged email message represented by the parent **EmailMergeEnvelope** object. Read/write.
 
 
 ## Syntax
@@ -26,19 +26,12 @@ _expression_ A variable that represents an **[EmailMergeEnvelope](Publisher.Emai
 
 ## Return value
 
-pbEmailMergePriority
+**[PbEmailMergePriority](publisher.pbemailmergepriority.md)**
 
 
 ## Remarks
 
-Possible values for the  **Priority** property are declared in the **pbEmailMergePriority** enumeration and shown in the following table.
+Possible values for the **Priority** property are declared in the **PbEmailMergePriority** enumeration.
 
-
-
-|Constant|Value|Description|
-|:-----|:-----|:-----|
-| **pbPriorityNone**|0|No priority set|
-| **pbPriorityLow**|2|Low priority|
-| **pbPriorityHigh**|1|High priority|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

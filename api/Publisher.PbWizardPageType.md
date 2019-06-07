@@ -16,7 +16,7 @@ localization_priority: Normal
 
 The type of wizard page to add.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

@@ -14,23 +14,23 @@ localization_priority: Normal
 
 # Plates.FindPlateByInkName method (Publisher)
 
-Returns a  **Plate** object that represents the plate of the specified ink name.
+Returns a **Plate** object that represents the plate of the specified ink name.
 
 
 ## Syntax
 
-_expression_.**FindPlateByInkName**(**_InkName_**)
+_expression_.**FindPlateByInkName** (_InkName_)
 
- _expression_ An expression that returns a **[Plates](Publisher.Plates.md)** object.
+_expression_ An expression that returns a **[Plates](Publisher.Plates.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|InkName|Required| **PbInkName**|Specifies the plate to return.|
+|_InkName_|Required| **PbInkName**|Specifies the plate to return.|
+
+<!--There is no PbInkName enumeration-->
 
 ## Return value
 
@@ -39,15 +39,14 @@ Plate
 
 ## Remarks
 
-The InkName parameter can be one of the  **[PbInkName](overview/Publisher.md)** constants declared in the Microsoft Publisher type library.
+The _InkName_ parameter can be one of the **PbInkName** constants declared in the Microsoft Publisher type library.
 
-Process colors are assigned different index numbers in the  **Plates** collection than in the **PrintablePlates** collection. Use the **FindPlateByInkName** method to insure that the desired **Plate** or **PrintablePlate** object is accessed.
+Process colors are assigned different index numbers in the **Plates** collection than in the **PrintablePlates** collection. Use the **FindPlateByInkName** method to ensure that the desired **Plate** or **PrintablePlate** object is accessed.
 
 
 ## Example
 
 The following example returns properties for the plate representing the third spot color defined for the active publication.
-
 
 ```vb
 Sub ListPlatePropertiesByInkName() 

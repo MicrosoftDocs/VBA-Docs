@@ -5,7 +5,7 @@ f1_keywords:
 - vbapb10.chm2359587
 ms.prod: publisher
 ms.assetid: c43df0d0-1bb8-4e61-64d3-fb5f76daa6dd
-ms.date: 06/08/2017
+ms.date: 06/07/2019
 localization_priority: Normal
 ---
 
@@ -24,17 +24,13 @@ _expression_ A variable that represents a **[FillFormat](publisher.fillformat.md
 
 ## Return value
 
- **Single**
+Single
 
 
 ## Remarks
 
-You can specify a gradient fill in the formatting for various shapes. The valid range of values for the  **GradientAngle** property is from 0 to 359.9.
+You can specify a gradient fill in the formatting for various shapes. The valid range of values for the **GradientAngle** property is from 0 to 359.9.
 
 
-## See also
-
-
- [FillFormat Object](Publisher.FillFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.DropCap.ApplyCustomDropCap
 ms.assetid: 906cf476-3826-8510-315f-425f6f50a92a
-ms.date: 06/08/2017
+ms.date: 06/07/2019
 localization_priority: Normal
 ---
 
@@ -19,28 +19,25 @@ Applies custom formatting to the first letters of paragraphs in a text frame.
 
 ## Syntax
 
-_expression_.**ApplyCustomDropCap**(**_LinesUp_**,  **_Size_**,  **_Span_**,  **_FontName_**,  **_Bold_**,  **_Italic_**)
+_expression_.**ApplyCustomDropCap** (_LinesUp_, _Size_, _Span_, _FontName_, _Bold_, _Italic_)
 
 _expression_ A variable that represents a **[DropCap](Publisher.DropCap.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|LinesUp|Optional| **Long**|The number of lines to move up the drop cap. The default is 0. The maximum number cannot be more than the number entered for the Size argument less one.|
-|Size|Optional| **Long**|The size of the drop cap letters in number of lines high. The default is 5.|
-|Span|Optional| **Long**|The number of letters included in the drop cap. The default is 1.|
-|FontName|Optional| **String**|The name of the font to format the drop cap. The default is the current font.|
-|Bold|Optional| **Boolean**| **True** to bold the drop cap. The default is **False**.|
-|Italic|Optional| **Boolean**| **True** to italicize the drop cap. The default is **False**.|
+|_LinesUp_|Optional| **Long**|The number of lines to move up the dropped capital letter. The default is 0. The maximum number cannot be more than the number entered for the _Size_ argument less one.|
+|_Size_|Optional| **Long**|The size of the dropped capital letters in number of lines high. The default is 5.|
+|_Span_|Optional| **Long**|The number of letters included in the dropped capital letter. The default is 1.|
+|_FontName_|Optional| **String**|The name of the font to format the dropped capital letter. The default is the current font.|
+|_Bold_|Optional| **Boolean**| **True** to bold the dropped capital letter. The default is **False**.|
+|_Italic_|Optional| **Boolean**| **True** to italicize the dropped capital letter. The default is **False**.|
 
 ## Example
 
 This example formats the first three letters of the paragraphs in the specified text box.
-
 
 ```vb
 Sub CustDropCap() 
@@ -51,5 +48,6 @@ Sub CustDropCap()
  
 End Sub
 ```
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

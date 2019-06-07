@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.FindReplace.MatchCase
 ms.assetid: 4fabf2f8-f1e4-bc70-e8e6-96dd09cd23d8
-ms.date: 06/08/2017
+ms.date: 06/07/2019
 localization_priority: Normal
 ---
 
 
 # FindReplace.MatchCase property (Publisher)
 
-Sets or returns a  **Boolean** that represents the case sensitivity of the search operation. Read/write.
+Sets or returns a **Boolean** that represents the case sensitivity of the search operation. Read/write.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ Boolean
 
 ## Remarks
 
-The default value for  **MatchCase** is **False**.
+The default value for **MatchCase** is **False**.
 
 
 ## Example
 
-This example will select the first occurrence of the word "factory" regardless of case.
-
+This example selects the first occurrence of the word "factory" regardless of case.
 
 ```vb
 With ActiveDocument.Find 

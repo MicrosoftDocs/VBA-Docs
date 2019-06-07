@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.EmailMergeEnvelope.Attachments
 ms.assetid: 53948bf7-2727-7b9c-a645-c9b954d5e023
-ms.date: 06/08/2017
+ms.date: 06/07/2019
 localization_priority: Normal
 ---
 
@@ -31,6 +31,10 @@ Attachments
 
 ## Remarks
 
-To add attachments to a merged email message, use the  **[Add](Publisher.Attachments.Add.md)** method of the **[Attachment](Publisher.Attachment.md)** object. To remove an attachment, use the **[Attachment.Delete](Publisher.Attachment.Delete.md)** method; to remove all attachments, use the **[ClearAll](Publisher.Attachments.ClearAll.md)** method of the **[Attachments](Publisher.Attachments.md)** collection.
+To add attachments to a merged email message, use the **[Add](Publisher.Attachments.Add.md)** method of the **Attachments** collection. 
+
+To remove an attachment, use the **[Delete](Publisher.Attachment.Delete.md)** method of the **Attachment** object. 
+
+To remove all attachments, use the **[ClearAll](Publisher.Attachments.ClearAll.md)** method of the **Attachments** collection.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

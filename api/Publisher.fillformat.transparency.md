@@ -5,7 +5,7 @@ f1_keywords:
 - vbapb10.chm2359569
 ms.prod: publisher
 ms.assetid: f7f8e0e9-2f44-269d-6cad-29521612ab2f
-ms.date: 06/08/2017
+ms.date: 06/07/2019
 localization_priority: Normal
 ---
 
@@ -24,19 +24,15 @@ _expression_ A variable that represents a **[FillFormat](publisher.fillformat.md
 
 ## Return value
 
- **Single**
+Single
 
 
 ## Remarks
 
-The setting of the  **Transparency** property corresponds to the setting of the **Transparency** control in the Publisher user interface.
+The setting of the **Transparency** property corresponds to the setting of the **Transparency** control in the Publisher user interface.
 
 The value of this property affects the appearance of solid-colored fills only. It has no effect on the appearance of patterned, gradient, picture, or textured fills.
 
 
-## See also
-
-
- [FillFormat Object](Publisher.FillFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

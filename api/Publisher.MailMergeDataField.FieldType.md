@@ -4,14 +4,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Field.FieldType
 ms.assetid: 9574f59b-a03f-ab0b-a2ac-085f31473f78
-ms.date: 06/08/2017
+ms.date: 06/07/2019
 localization_priority: Normal
 ---
 
 
 # MailMergeDataField.FieldType property (Publisher)
 
-Returns a  **pbMailMergeDataFieldType** constant that represents the type of data contained in the data field.
+Returns a **[PbMailMergeDataFieldType](Publisher.PbMailMergeDataFieldType.md)** constant that represents the type of data contained in the data field.
 
 
 ## Syntax
@@ -23,27 +23,21 @@ _expression_ A variable that represents a **[MailMergeDataField](Publisher.MailM
 
 ## Return value
 
- **PbMailMergeDataFieldType**
-
-
-## Return value
-
- **PBMAILMERGEDATAFIELDTYPE**
+PbMailMergeDataFieldType
 
 
 ## Remarks
 
-Use the  **[Insert](Publisher.MailMergeDataField.Insert.md)** method of the **[MailMergeDataField](Publisher.MailMergeDataField.md)** object to add a picture data field to a publication's catalog merge area.
+Use the **[Insert](Publisher.MailMergeDataField.Insert.md)** method to add a picture data field to a publication's catalog merge area.
 
-Use the  **[InsertMailMergeField](Publisher.TextRange.InsertMailMergeField.md)** method of the **[TextRange](Publisher.TextRange.md)** object to add a text data field to a text box in the publication's catalog merge area.
+Use the **[InsertMailMergeField](Publisher.TextRange.InsertMailMergeField.md)** method of the **TextRange** object to add a text data field to a text box in the publication's catalog merge area.
 
-The  **FieldType** property value can be one of the **[PbMailMergeDataFieldType](Publisher.PbMailMergeDataFieldType.md)** constants declared in the Microsoft Publisher type library.
+The **FieldType** property value can be one of the **PbMailMergeDataFieldType** constants declared in the Microsoft Publisher type library.
 
 
 ## Example
 
 This example defines a data field as a picture data field, inserts it into the catalog merge area of the specified publication, and sizes and positions the picture data field. This example assumes that the publication has been connected to a data source, and that a catalog merge area has been added to the publication.
-
 
 ```vb
 Dim pbPictureField1 As Shape 

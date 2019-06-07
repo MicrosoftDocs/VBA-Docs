@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Field.Unlink
 ms.assetid: 4dfe5c29-eb1e-b071-fd86-6ee222455c4e
-ms.date: 06/08/2017
+ms.date: 06/07/2019
 localization_priority: Normal
 ---
 
 
 # Field.Unlink method (Publisher)
 
-Replaces the specified field or  **[Fields](Publisher.Fields.md)** collection with their most recent results.
+Replaces the specified field or **[Fields](Publisher.Fields.md)** collection with their most recent results.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ When you unlink a field, its current result is converted to text or a graphic an
 ## Example
 
 This example unlinks the first field in shape one on the first page of the active publication.
-
 
 ```vb
 ActiveDocument.Pages(1).Shapes(1) _ 
