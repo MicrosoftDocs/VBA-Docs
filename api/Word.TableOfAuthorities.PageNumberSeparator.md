@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableOfAuthorities.PageNumberSeparator property (Word)
 
-Returns of sets the characters (up to five) that separate individual page references in a table of authorities. Read/write  **String**.
+Returns or sets the characters (up to five) that separate individual page references in a table of authorities. Read/write  **String**.
 
 
 ## Syntax

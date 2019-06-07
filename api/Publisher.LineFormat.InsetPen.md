@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.LineFormat.InsetPen
 ms.assetid: 955b152d-517f-b5fa-6e23-765ddeb41d46
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # LineFormat.InsetPen property (Publisher)
 
-Returns or sets an  **MsoTriState** constant indicating whether a specified shape's lines are drawn inside its boundaries. Read/write.
+Returns or sets an **[MsoTriState](office.msotristate.md)** constant indicating whether a specified shape's lines are drawn inside its boundaries. Read/write.
 
 
 ## Syntax
@@ -31,25 +31,22 @@ MsoTriState
 
 ## Remarks
 
-An error occurs if you attempt to set this property to  **msoTrue** for any Microsoft Office AutoShape that does not support inset pen drawing.
+An error occurs if you attempt to set this property to **msoTrue** for any Microsoft Office AutoShape that does not support inset pen drawing.
 
-The value of the  **InsetPen** property for tables is always **msoTrue**; attempting to set the property to any other value results in an error.
+The value of the **InsetPen** property for tables is always **msoTrue**; attempting to set the property to any other value results in an error.
 
-The  **InsetPen** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
-
-
+The **InsetPen** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 |Constant|Description|
 |:-----|:-----|
 | **msoFalse**|Lines are drawn directly on the specified shape's boundaries.|
-| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
-| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
+| **msoTriStateMixed**|A return value indicating a combination of **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateToggle**|A set value that switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**|Lines are drawn inside the specified shape's boundaries.|
 
 ## Example
 
 The following example adds two rectangles to page one of the active publication, the first with its lines drawn inside its boundaries, and the second with its lines drawn on its boundaries.
-
 
 ```vb
 Dim shpNew As Shape 

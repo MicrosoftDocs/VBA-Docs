@@ -36,8 +36,8 @@ The **SmallCaps** property value can be one of the **MsoTriState** constants dec
 |Constant|Description|
 |:-----|:-----|
 | **msoFalse**|None of the characters in the range are formatted as small caps.|
-| **msoTriStateMixed**|Return value indicating a combination of **msoTrue** and **msoFalse** for the specified shape range.|
-| **msoTriStateToggle**|Set value that switches between **msoTrue** and **msoFalse**.|
+| **msoTriStateMixed**|A return value indicating a combination of **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateToggle**|A set value that switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**| All of the characters in the range are formatted as small caps.|
 
 Setting the **SmallCaps** property to **msoTrue** removes all caps formatting from the text range.

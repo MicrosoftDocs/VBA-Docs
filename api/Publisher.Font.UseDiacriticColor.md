@@ -36,8 +36,8 @@ The **UseDiacriticColor** property value can be one of the **MsoTriState** const
 |Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The color of diacritics cannot be set in the specified text range.|
-| **msoTriStateMixed**|Return value indicating a combination of **msoTrue** and **msoFalse** for the specified shape range.|
-| **msoTriStateToggle**|Set value that switches between **msoTrue** and **msoFalse**.|
+| **msoTriStateMixed**|A return value indicating a combination of **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateToggle**|A set value that switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**|The color of diacritics can be set in the specified text range.|
 
 ## Example

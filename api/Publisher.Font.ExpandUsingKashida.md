@@ -36,8 +36,8 @@ The **ExpandUsingKashida** property value can be one of the **MsoTriState** cons
 |Constant|Description|
 |:-----|:-----|
 | **msoFalse**| Microsoft Publisher does not apply kashida rules while applying tracking to Arabic text.|
-| **msoTriStateMixed**|Return value indicating a combination of **msoTrue** and **msoFalse** for the specified text range.|
-| **msoTriStateToggle**|Set value that switches between **msoTrue** and **msoFalse**.|
+| **msoTriStateMixed**|A return value indicating a combination of **msoTrue** and **msoFalse** for the specified text range.|
+| **msoTriStateToggle**|A set value that switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**| Publisher does apply kashida rules while applying tracking to Arabic text.|
 
 ## Example

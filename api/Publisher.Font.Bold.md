@@ -36,8 +36,8 @@ The **Bold** property value can be one of the following **MsoTriState** constant
 |Constant|Description|
 |:-----|:-----|
 | **msoFalse**|None of the characters in the range are formatted as bold.|
-| **msoTriStateMixed**|Return value indicating that the range contains some text formatted as bold and some text not formatted as bold.|
-| **msoTriStateToggle**|Set value that switches between **msoTrue** and **msoFalse**.|
+| **msoTriStateMixed**|A return value indicating that the range contains some text formatted as bold and some text not formatted as bold.|
+| **msoTriStateToggle**|A set value that switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**|All characters in the range are formatted as bold.|
 
 ## Example

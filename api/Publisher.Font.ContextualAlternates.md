@@ -38,8 +38,8 @@ The **ContextualAlternates** property value can be one of the following **MsoTri
 |Constant|Description|
 |:-----|:-----|
 | **msoFalse**|None of the characters in the range are formatted with contextual alternates.|
-| **msoTriStateMixed**|Return value indicating that the range contains some text formatted with contextual alternates and some text not formatted with contextual alternates.|
-| **msoTriStateToggle**|Set value that switches between **msoTrue** and **msoFalse**.|
+| **msoTriStateMixed**|A return value indicating that the range contains some text formatted with contextual alternates and some text not formatted with contextual alternates.|
+| **msoTriStateToggle**|A set value that switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**|All characters in the range are formatted with contextual alternates.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

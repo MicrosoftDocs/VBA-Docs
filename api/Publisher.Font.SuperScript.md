@@ -36,8 +36,8 @@ The **SuperScript** property value can be one of the **MsoTriState** constants d
 |Constant|Description|
 |:-----|:-----|
 | **msoFalse**| No characters in the range are formatted as superscript.|
-| **msoTriStateMixed**|Return value indicating a combination of **msoTrue** and **msoFalse** for the specified shape range.|
-| **msoTriStateToggle**|Set value that switches between **msoTrue** and **msoFalse**.|
+| **msoTriStateMixed**|A return value indicating a combination of **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateToggle**|A set value that switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**|All characters in the range are formatted as superscript.|
 
 Setting the **SuperScript** property to **msoTrue** removes subscript formatting from the text range.

@@ -36,8 +36,8 @@ The **Italic** property value can be one of the **MsoTriState** constants declar
 |Constant|Description|
 |:-----|:-----|
 | **msoFalse**|None of the characters in the range are formatted as italic.|
-| **msoTriStateMixed**|Return value indicating a combination of **msoTrue** and **msoFalse** for the specified shape range.|
-| **msoTriStateToggle**|Set value that switches between **msoTrue** and **msoFalse**.|
+| **msoTriStateMixed**|A return value indicating a combination of **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateToggle**|A set value that switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**|All of the characters in the range are formatted as italic.|
 
 ## Example

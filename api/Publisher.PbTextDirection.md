@@ -21,7 +21,7 @@ Indicates the direction in which text flows in the specified paragraph.
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbTextDirectionLeftToRight**|1|Text flows from left to right.|
-| **pbTextDirectionMixed**|-9999999|Return value indicating a range containing some left-to-right text and some right-to-left text.|
+| **pbTextDirectionMixed**|-9999999|A return value indicating a range containing some left-to-right text and some right-to-left text.|
 | **pbTextDirectionRightToLeft**|2|Text flows from right to left.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
