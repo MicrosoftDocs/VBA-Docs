@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.LinkFormat.Update
 ms.assetid: a167a463-56bd-2c4e-ded5-70ea38b2ed2f
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[LinkFormat](Publisher.LinkFormat.md
 ## Example
 
 This example updates all linked OLE objects in the active publication.
-
 
 ```vb
 Dim pageLoop As Page 
