@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Hyperlink.Parent
 ms.assetid: a0e3ab66-cdc4-09ab-6995-8a5e0194d6e2
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Hyperlink.Parent property (Publisher)
 
-Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
+Returns an object that represents the parent object of the specified object. For example, for a **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax

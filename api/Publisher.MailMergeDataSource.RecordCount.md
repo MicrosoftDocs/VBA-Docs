@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailMergeDataSource.RecordCount property (Publisher)
 
-Returns a  **Long** that represents the number of records in the data source. Read-only.
+Returns a **Long** that represents the number of records in the data source. Read-only.
 
 
 ## Syntax

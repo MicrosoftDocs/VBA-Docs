@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MasterPages.Count property (Publisher)
 
-Returns a  **Long** that represents the number of items in the specified collection.
+Returns a **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[MasterPages](Publisher.MasterPages.
 
 This example displays the number of pages in the active document.
 
-
 ```vb
 Sub CountNumberOfPages() 
  MsgBox "Your publication contains " & _ 
@@ -36,10 +35,9 @@ Sub CountNumberOfPages()
 End Sub
 ```
 
+<br/>
+
 This example displays the number of shapes in the active document.
-
-
-
 
 ```vb
 Sub CountNumberOfShapes() 

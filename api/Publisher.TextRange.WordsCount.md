@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextRange.WordsCount property (Publisher)
 
-Returns the number of words in the text range represented by the parent  **TextRange** object. Read-only.
+Returns the number of words in the text range represented by the parent **TextRange** object. Read-only.
 
 
 ## Syntax

@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Hyperlinks.Item
 ms.assetid: 8d288fc6-9ded-5732-b972-6fa366ef31c3
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[Hyperlinks](Publisher.Hyperlinks.md
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |_Index_|Required| **Long**|The number of the object to return.|
@@ -35,7 +33,6 @@ _expression_ A variable that represents a **[Hyperlinks](Publisher.Hyperlinks.md
 ## Example
 
 This example displays the address of the first hyperlink in shape one of the active publication.
-
 
 ```vb
 MsgBox "Address of first hyperlink: " _ 

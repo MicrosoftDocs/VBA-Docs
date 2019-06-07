@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeRange.ConnectionSiteCount property (Publisher)
 
-Returns a  **Long** indicating the count of connection sites on the current **Shape** object. Read-only.
+Returns a **Long** indicating the count of connection sites on the current **Shape** object. Read-only.
 
 
 ## Syntax

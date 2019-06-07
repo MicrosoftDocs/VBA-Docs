@@ -7,14 +7,18 @@ ms.prod: publisher
 api_name:
 - Publisher.Hyperlink.Application
 ms.assetid: dadf9b35-580e-c184-c439-38b3a4f1529f
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Hyperlink.Application property (Publisher)
 
-When used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. When used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
+When used without an object qualifier, this property returns an **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. 
+
+When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object. 
+
+When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
