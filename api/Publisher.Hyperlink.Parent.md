@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[Hyperlink](Publisher.Hyperlink.md)*
 
 This example accesses the parent object of the selected shape, and then adds a new shape to it and sets the fill for the new shape.
 
-
 ```vb
 Sub ParentObject() 
  Dim shp As Shape 
@@ -42,10 +41,9 @@ Sub ParentObject()
 End Sub
 ```
 
+<br/>
+
 This example returns the parent object of a text frame, which is the first shape in the active publication, and then fills the shape with a pattern.
-
-
-
 
 ```vb
 Sub ParentShape() 

@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[Hyperlink](Publisher.Hyperlink.md)*
 
 This example displays the version and build information for Publisher.
 
-
 ```vb
 With Application 
  MsgBox "Current Publisher: version " _ 
@@ -36,10 +35,9 @@ With Application
 End With
 ```
 
+<br/>
+
 This example displays the name of the application that created each linked OLE object on page one of the active publication.
-
-
-
 
 ```vb
 Dim shpOle As Shape 
