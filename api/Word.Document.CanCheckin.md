@@ -36,7 +36,7 @@ To take advantage of the collaboration features built into Word, documents must 
 
 ## Example
 
-This example checks the server to see if the specified document can be checked in and, if it can be, closes the document and checks it back into the server.
+This example checks the server to see if the specified document can be checked in, and if it can be, closes the document and checks it back into the server.
 
 
 ```vb

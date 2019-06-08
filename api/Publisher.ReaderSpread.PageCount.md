@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ReaderSpread.PageCount property (Publisher)
 
-Returns a  **Long** indicating the number of pages in the specified reader spread. Read-only.
+Returns a **Long** indicating the number of pages in the specified reader spread. Read-only.
 
 
 ## Syntax
@@ -37,7 +37,6 @@ A reader spread can contain no more than two pages.
 ## Example
 
 The following example checks the reader spread of the third page in the active publication to see if it contains more than one page, then displays the total number of pages in the spread.
-
 
 ```vb
 Sub NumberOfPagesInSpread() 

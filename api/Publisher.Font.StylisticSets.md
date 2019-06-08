@@ -7,32 +7,30 @@ ms.prod: publisher
 api_name:
 - Publisher.Font.StylisticSets
 ms.assetid: 0d25fbf3-8d68-c10f-0d1b-526314700329
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Font.StylisticSets property (Publisher)
 
-Returns or sets a  **Variant** that represents the state of the **StylisticSets** property on the characters in a text range. Read/write.
+Returns or sets a **Variant** that represents the state of the **StylisticSets** property on the characters in a text range. Read/write.
 
 
 ## Syntax
 
 _expression_.**StylisticSets**
 
-_expression_ A variable that represents a  **[Font](Publisher.Font.md)** object.
+_expression_ A variable that represents a **[Font](Publisher.Font.md)** object.
 
 
 ## Remarks
 
-The  **StylisticSets** property applies from one to twenty increasingly complex sets of typography styles to the selected font.
+The **StylisticSets** property applies from one to twenty increasingly complex sets of typography styles to the selected font.
 
-Possible values for the  **StylisticSets** property and how they correspond to identifiers for stylistic sets in the user interface (UI) are shown in the following table. A value of zero (0) indicates that no stylistic set is applied.
+Possible values for the **StylisticSets** property and how they correspond to identifiers for stylistic sets in the user interface (UI) are shown in the following table. A value of zero (0) indicates that no stylistic set is applied.
 
-
-
-|**StylisticSets property value**|**Stylistic set identifier in UI**|
+|StylisticSets property value|Stylistic set identifier in UI|
 |:-----|:-----|
 |0|0|
 |1|1|
@@ -40,9 +38,10 @@ Possible values for the  **StylisticSets** property and how they correspond to i
 |4|3|
 |8|4|
 
-The number of stylistic sets available varies, depending on the font.
+The number of stylistic sets available varies depending on the font.
 
-> [!NOTE] 
-> The  **StylisticSets** property has an effect only for OpenType fonts that contain stylistic sets.
+The **StylisticSets** property has an effect only for OpenType fonts that contain stylistic sets.
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

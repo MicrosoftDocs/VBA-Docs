@@ -33,7 +33,7 @@ The  **Connector** property value can be one of the **MsoTriState** constants de
 |Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The shape is not a connector.|
-| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateMixed**|A return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
 | **msoTrue**|The shape is a connector.|
 
 ## Example

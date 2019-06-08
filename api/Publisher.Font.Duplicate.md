@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Font.Duplicate
 ms.assetid: 26ae64bc-036e-5c19-cbac-99f11da7fb60
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Font.Duplicate method (Publisher)
 
-Creates a duplicate of the specified  **[Font](Publisher.Font.md)** object and then returns the new **Font** object.
+Creates a duplicate of the specified **Font** object and then returns the new **Font** object.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ Font
 ## Example
 
 The following example duplicates the character formatting information from the text range in shape one on page one of the active publication and applies it to the text range in shape two.
-
 
 ```vb
 Dim fntTemp As Font 

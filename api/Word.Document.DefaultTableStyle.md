@@ -26,7 +26,7 @@ _expression_. `DefaultTableStyle`
 
 ## Example
 
-This example checks to see if the default table style used in the active document is named "Table Normal" and, if it is, changes the default table style to "TableStyle1." This example assumes that you have a table style named "TableStyle1."
+This example checks to see if the default table style used in the active document is named "Table Normal", and if it is, changes the default table style to "TableStyle1." This example assumes that you have a table style named "TableStyle1."
 
 
 ```vb

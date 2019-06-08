@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.LineFormat.Pattern
 ms.assetid: ba14b1d1-9c32-a58e-d842-52fc3dc985e8
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # LineFormat.Pattern property (Publisher)
 
-Returns or sets an  **MsoPatternType** constant that represents the pattern applied to the specified fill or line.
+Returns or sets an **[MsoPatternType](Office.MsoPatternType.md)** constant that represents the pattern applied to the specified fill or line.
 
 
 ## Syntax
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[LineFormat](Publisher.LineFormat.md
 
 ## Remarks
 
-The  **Pattern** property value can be one of the **[MsoPatternType](Office.MsoPatternType.md)** constants declared in the Microsoft Office type library.
+The **Pattern** property value can be one of the **MsoPatternType** constants declared in the Microsoft Office type library.
 
 
 ## Example
 
 This example sets the pattern for the specified shape if the shape currently doesn't have a fill pattern. This example assumes that at least one shape exists on the first page of the active publication.
-
 
 ```vb
 Sub ChangeFillPattern() 

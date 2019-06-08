@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Hyperlink.Shape
 ms.assetid: afd1dab7-472a-2aa5-f5da-1e2f783b5270
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Hyperlink.Shape property (Publisher)
 
-Returns a  **[Shape](Publisher.Shape.md)** object that represents the shape associated with a hyperlink.
+Returns a **[Shape](Publisher.Shape.md)** object that represents the shape associated with a hyperlink.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ Shape
 
 ## Example
 
-This example adds a hyperlink to the first shape on the first page of the active publication and then vertically flips the shape. This example assumes there is at least one shape on the first page of the active publication.
-
+This example adds a hyperlink to the first shape on the first page of the active publication and then vertically flips the shape. This example assumes that there is at least one shape on the first page of the active publication.
 
 ```vb
 Sub FormatHyperlinkShape() 

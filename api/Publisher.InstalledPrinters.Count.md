@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.InstalledPrinters.Count
 ms.assetid: 8ca9ed0b-2a7d-b53a-b5de-4d0405f11fab
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -21,11 +21,11 @@ Returns the number of printers installed on your computer. Read-only.
 
 _expression_.**Count**
 
-_expression_ A variable that represents an  **InstalledPrinters** collection.
+_expression_ A variable that represents an **[InstalledPrinters](Publisher.InstalledPrinters.md)** object.
 
 
 ## Return value
 
-Int
+Long
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

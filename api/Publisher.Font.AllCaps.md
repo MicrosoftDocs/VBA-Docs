@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Font.AllCaps
 ms.assetid: e8394f91-de31-0075-51ac-8a372023f0ce
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Font.AllCaps property (Publisher)
 
-Returns or sets  **msoTrue** if the font is formatted as all capital letters, or returns one of the other **MsoTriState** constants if it is not. Read/write.
+Returns or sets **msoTrue** if the font is formatted as all capital letters, or returns one of the other **[MsoTriState](Office.MsoTriState.md)** constants if it is not. Read/write.
 
 
 ## Syntax
@@ -31,15 +31,14 @@ MsoTriState
 
 ## Remarks
 
-Setting the  **AllCaps** property to **msoTrue** sets the **SmallCaps** property to **msoFalse**, and vice versa.
+Setting the **AllCaps** property to **msoTrue** sets the **[SmallCaps](publisher.font.smallcaps.md)** property to **msoFalse**, and vice versa.
 
-The  **AllCaps** property value can be one of the **[MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
+The **AllCaps** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library.
 
 
 ## Example
 
 This example checks the selected text in the active document for text formatted as all capital letters. For this example to work, there must be an active publication with text selected.
-
 
 ```vb
 Public Sub Caps() 
@@ -54,10 +53,9 @@ Public Sub Caps()
 End Sub
 ```
 
+<br/>
+
 This example formats the selected text as all capital letters. For this code to execute properly, an active document must exist with selected text.
-
-
-
 
 ```vb
 Public Sub MakeCaps() 

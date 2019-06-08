@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** 
 
 ## Example
 
-This example determines if a connection exists for the PivotTable cache and, if there is a connection, displays the file name. If no connection exists, the code handles the run-time error and notifies the user. This example assumes that a PivotTable exists on the active worksheet.
+This example determines if a connection exists for the PivotTable cache, and if there is a connection, displays the file name. If no connection exists, the code handles the run-time error and notifies the user. This example assumes that a PivotTable exists on the active worksheet.
 
 ```vb
 Sub CheckSourceConnection() 

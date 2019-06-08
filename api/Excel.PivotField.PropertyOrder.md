@@ -33,7 +33,7 @@ If the **[IsMemberProperty](Excel.PivotField.IsMemberProperty.md)** property is 
 
 ## Example
 
-This example determines if there are member properties in the fourth field and, if there are, displays the position of the member properties. Depending on the findings, Excel notifies the user. This example assumes that a PivotTable exists on the active worksheet and that it is based on an Online Analytical Processing (OLAP) data source.
+This example determines if there are member properties in the fourth field, and if there are, displays the position of the member properties. Depending on the findings, Excel notifies the user. This example assumes that a PivotTable exists on the active worksheet and that it is based on an Online Analytical Processing (OLAP) data source.
 
 ```vb
 Sub CheckPropertyOrder() 

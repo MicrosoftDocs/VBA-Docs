@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.LineFormat.DashStyle
 ms.assetid: c2904350-89c1-2fc0-5bae-86f5193c8732
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # LineFormat.DashStyle property (Publisher)
 
-Returns or sets an  **MsoLineDashStyle** constant indicating the dash style for the specified line. Read/write.
+Returns or sets an **[MsoLineDashStyle](Office.MsoLineDashStyle.md)** constant indicating the dash style for the specified line. Read/write.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ MsoLineDashStyle
 
 ## Remarks
 
-The  **DashStyle** property value can be one of the **[MsoLineDashStyle](Office.MsoLineDashStyle.md)** constants declared in the Microsoft Office type library.
+The **DashStyle** property value can be one of the **MsoLineDashStyle** constants declared in the Microsoft Office type library.
 
 
 ## Example
 
 This example adds a blue dashed line to the active publication.
-
 
 ```vb
 With ActiveDocument.Pages(1).Shapes _ 

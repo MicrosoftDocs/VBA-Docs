@@ -38,7 +38,7 @@ The  **DistanceAuto** property value can be one of the **MsoTriState** constants
 |Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The shape's edges are not adjusted depending on the margins of the text box it overlaps.|
-| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateMixed**|A return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
 | **msoTriStateToggle**| Set value that switches the property value between **msoTrue** and **msoFalse**.|
 | **msoTrue**|The default. The shape's edges are automatically adjusted depending on the margins of the text box it overlaps. |
 

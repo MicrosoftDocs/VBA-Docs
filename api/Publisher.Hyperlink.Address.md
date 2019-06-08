@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Hyperlink.Address
 ms.assetid: 784a9213-38bc-c5fd-f215-abeb174ec628
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Hyperlink.Address property (Publisher)
 
-Returns or sets a  **String** that represents the URL address for a hyperlink. Read/write.
+Returns or sets a **String** that represents the URL address for a hyperlink. Read/write.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ String
 ## Example
 
 This example displays the URL addresses for all hyperlinks in the active publication.
-
 
 ```vb
 Sub ShowHyperlinkAddresses() 

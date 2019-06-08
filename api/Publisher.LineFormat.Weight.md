@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.LineFormat.Weight
 ms.assetid: 854928ca-5f38-3cc9-50d5-2473a0885a0c
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # LineFormat.Weight property (Publisher)
 
-Returns or sets a  **Variant** indicating the thickness of the specified line or cell border.
+Returns or sets a **Variant** indicating the thickness of the specified line or cell border.
 
 
 ## Syntax
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[LineFormat](Publisher.LineFormat.md
 
 ## Remarks
 
-Return values are in points. When setting the property, numeric values are evaluated in points, and strings can be in any units supported by Publisher (for example, "2.5 in").
+Return values are in [points](../language/glossary/vbe-glossary.md#point). When setting the property, numeric values are evaluated in points, and strings can be in any units supported by Publisher (for example, "2.5 in").
 
 
 ## Example
 
 This example adds a green dashed line, two points thick, to the active publication.
-
 
 ```vb
 With ActiveDocument.Pages(1).Shapes _ 

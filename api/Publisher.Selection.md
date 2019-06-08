@@ -33,7 +33,7 @@ End Sub
 
 <br/>
 
-The following example determines what type of item is selected and, if it is an autoshape, fills the first shape in the selection with color. This example assumes that there is at least one item selected in the active publication.
+The following example determines what type of item is selected, and if it is an autoshape, fills the first shape in the selection with color. This example assumes that there is at least one item selected in the active publication.
 
 ```vb
 Sub SelectedShape() 

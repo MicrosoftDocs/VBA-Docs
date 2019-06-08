@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PageSizes.Count property (Publisher)
 
-Returns the number of  **PageSize** objects in the **PageSizes** collection of the active document. Read-only.
+Returns the number of **PageSize** objects in the **PageSizes** collection of the active document. Read-only.
 
 
 ## Syntax

@@ -7,21 +7,21 @@ ms.prod: publisher
 api_name:
 - Publisher.HeaderFooter.IsHeader
 ms.assetid: b652fcc8-2c89-6d4f-c366-4c78681bea59
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # HeaderFooter.IsHeader property (Publisher)
 
- **True** if the specified **HeaderFooter** object is a header, **False** if it is a footer. Read-only **Boolean**.
+**True** if the specified **HeaderFooter** object is a header; **False** if it is a footer. Read-only **Boolean**.
 
 
 ## Syntax
 
 _expression_.**IsHeader**
 
-_expression_ A variable that represents an  **HeaderFooter** object.
+_expression_ A variable that represents a **[HeaderFooter](Publisher.HeaderFooter.md)** object.
 
 
 ## Return value
@@ -31,8 +31,7 @@ Boolean
 
 ## Example
 
-The following example creates a new collection and fills it with the headers and footer from each master page. The collection is then iterated and a test is made to determine whether the  **HeaderFooter** object is a header or a footer, then appropriate text is written to the header or footer.
-
+The following example creates a new collection and fills it with the header and footer from each master page. The collection is then iterated and a test is made to determine whether the **HeaderFooter** object is a header or a footer, and then appropriate text is written to the header or footer.
 
 ```vb
 Dim objHeadersFooters As Collection 

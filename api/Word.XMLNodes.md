@@ -20,7 +20,7 @@ ou can return an  **XMLNodes** collection for a selection, a range, or the entir
 
 Use the  **Item** method of the **XMLNodes** collection to return an individual **XMLNode** object. Use the **Validate** method to verify that an XML element is valid according to the applied schemas and that any required child elements exist and are in the required order. Once you run the **Validate** method, use the **ValidationStatus** property to verify whether an element is valid and the **ValidationErrorText** property to display a message to the user as to what the user needs to fix to make the XML in the document conform to the XML schema rules.
 
-The following example validates each of the XML elements in the active document and, if the element or attribute is found to be invalid against the schema, returns a message to the user explaining why the element is invalid.
+The following example validates each of the XML elements in the active document, and if the element or attribute is found to be invalid against the schema, returns a message to the user explaining why the element is invalid.
 
 
 

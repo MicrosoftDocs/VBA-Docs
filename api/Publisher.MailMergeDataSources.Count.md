@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailMergeDataSources.Count property (Publisher)
 
-Returns the number of  **MailMergeDataSource** objects in the **MailMergeDataSources** collection of the active document. Read-only.
+Returns the number of **MailMergeDataSource** objects in the **MailMergeDataSources** collection of the active document. Read-only.
 
 
 ## Syntax

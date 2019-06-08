@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Recipients](Outlook.Recipients.md) ob
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[ResolveAll](Outlook.Recipients.ResolveAll.md)** method to attempt to resolve all recipients and, if unsuccessful, displays a message box for each unresolved recipient.
+This Visual Basic for Applications (VBA) example uses the  **[ResolveAll](Outlook.Recipients.ResolveAll.md)** method to attempt to resolve all recipients, and if unsuccessful, displays a message box for each unresolved recipient.
 
 
 ```vb

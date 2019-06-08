@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Font.Tracking
 ms.assetid: c703a5ec-e8d7-36ce-ac50-d41265ce92db
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Font.Tracking property (Publisher)
 
-Returns or sets a  **Variant** indicating the tracking value used to display space between the characters in the specified text range. Read/write.
+Returns or sets a **Variant** indicating the tracking value used to display space between the characters in the specified text range. Read/write.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ Valid range is 0.0 to 600.0 points. Setting the property to 0.0 disables trackin
 
 ## Example
 
-This example disables tracking in the second story by setting the  **Tracking** property to zero.
-
+This example disables tracking in the second story by setting the **Tracking** property to zero.
 
 ```vb
 Sub DisableTracking() 
@@ -41,5 +40,6 @@ Sub DisableTracking()
  
 End Sub
 ```
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

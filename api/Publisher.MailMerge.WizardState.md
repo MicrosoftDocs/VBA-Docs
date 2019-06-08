@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMerge.WizardState
 ms.assetid: a237cb3f-2c03-5f62-fa67-d4aa7703389d
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # MailMerge.WizardState property (Publisher)
 
-Returns or sets a **Long** indicating the current Mail Merge wizard step for a publication. The **WizardState** property returns a number that equates to the current Mail Merge wizard step; a zero (0) means the Mail Merge wizard is closed. Read/write.
+Returns or sets a **Long** indicating the current mail merge wizard step for a publication. The **WizardState** property returns a number that equates to the current mail merge wizard step; a zero (0) means that the mail merge wizard is closed. Read/write.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ Long
 
 ## Example
 
-This example displays the Mail Merge wizard if it is closed.
-
+This example displays the mail merge wizard if it is closed.
 
 ```vb
 Sub ShowMergeWizard() 

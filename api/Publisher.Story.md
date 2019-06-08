@@ -25,7 +25,7 @@ Use **[Stories](publisher.document.stories.md)** (_index_), where _index_ is the
 
 ## Example
 
-This example returns the story in the selected text range and, if it is in a text frame, inserts text into the text range.
+This example returns the story in the selected text range, and if it is in a text frame, inserts text into the text range.
 
 ```vb
 Sub AddTextToStory() 
@@ -38,7 +38,7 @@ End Sub
 
 <br/>
 
-This example determines if the first story in the active publication has a text frame and, if it does, formats the paragraphs in the story with a half inch first line indent and a six-point spacing before each paragraph.
+This example determines if the first story in the active publication has a text frame, and if it does, formats the paragraphs in the story with a half inch first line indent and a six-point spacing before each paragraph.
 
 ```vb
 Sub StoryParagraphFirstLineIndent() 

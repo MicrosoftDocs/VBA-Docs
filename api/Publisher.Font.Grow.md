@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Font.Grow
 ms.assetid: 41d48db2-4a0d-6efc-80c5-c6f035e9e6ff
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -33,7 +33,6 @@ If the selection or range contains more than one font size, each size is increas
 
 This example increases the font size of the fourth word in a new textbox.
 
-
 ```vb
 Sub GrowFont() 
  Dim shpText As Shape 
@@ -56,10 +55,9 @@ Sub GrowFont()
 End Sub
 ```
 
+<br/>
+
 This example increases the font size of the selected text.
-
-
-
 
 ```vb
 Sub IncreaseFontSizeOfSelectedText() 

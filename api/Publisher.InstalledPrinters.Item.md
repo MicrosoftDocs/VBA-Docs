@@ -7,26 +7,24 @@ ms.prod: publisher
 api_name:
 - Publisher.InstalledPrinters.Item
 ms.assetid: 8144478d-ca12-29b8-4541-5f0875fd3d12
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # InstalledPrinters.Item property (Publisher)
 
-Returns the  **[Printer](Publisher.Printer.md)** object with the specified name or at the specified index position in the **[InstalledPrinters](Publisher.InstalledPrinters.md)** collection. Read-only.
+Returns the **[Printer](Publisher.Printer.md)** object with the specified name or at the specified index position in the **InstalledPrinters** collection. Read-only.
 
 
 ## Syntax
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents an  **InstalledPrinters** collection.
+_expression_ A variable that represents an **[InstalledPrinters](Publisher.InstalledPrinters.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.LayoutGuides.HorizontalBaseLineSpacing
 ms.assetid: 19899a25-c1a5-9c81-f022-d842a3d6c7d8
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # LayoutGuides.HorizontalBaseLineSpacing property (Publisher)
 
-Returns a  **Single** that represents the horizontal baseline spacing of the specified **LayoutGuides** object. Read/write.
+Returns a **Single** that represents the horizontal baseline spacing of the specified **LayoutGuides** object. Read/write.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ Single
 
 ## Remarks
 
-When setting the layout guide properties of a  **Page** object it must be returned from the **MasterPages** collection.
+When setting the layout guide properties of a **Page** object, it must be returned from the **MasterPages** collection.
 
 
 ## Example
 
-This example sets the horizontal baseline spacing of the layout guides object to 20 for the second master page in the active document.
-
+This example sets the horizontal baseline spacing of the **LayoutGuides** object to 20 for the second master page in the active document.
 
 ```vb
 Dim objLayout As LayoutGuides 

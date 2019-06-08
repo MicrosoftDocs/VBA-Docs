@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.LineFormat.BeginArrowheadStyle
 ms.assetid: 93dcf2ed-07a3-4391-dd46-2ff9cf89ef36
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # LineFormat.BeginArrowheadStyle property (Publisher)
 
-Returns or sets an  **MsoArrowheadStyle**constant indicating the style of the arrowhead at the beginning of the specified line. Read/write.
+Returns or sets an **[MsoArrowheadStyle](Office.MsoArrowheadStyle.md)** constant indicating the style of the arrowhead at the beginning of the specified line. Read/write.
 
 
 ## Syntax
@@ -31,15 +31,14 @@ MsoArrowheadStyle
 
 ## Remarks
 
-The  **BeginArrowheadStyle** property value can be one of the **[MsoArrowheadStyle](Office.MsoArrowheadStyle.md)** constants declared in the Microsoft Office type library.
+The **BeginArrowheadStyle** property value can be one of the **MsoArrowheadStyle** constants declared in the Microsoft Office type library.
 
-Use the  **[EndArrowheadStyle](Publisher.LineFormat.EndArrowheadStyle.md)** property to return or set the style of the arrowhead at the end of the line.
+Use the **[EndArrowheadStyle](Publisher.LineFormat.EndArrowheadStyle.md)** property to return or set the style of the arrowhead at the end of the line.
 
 
 ## Example
 
 This example adds a line to the active publication. There is a short, narrow oval on the line's starting point and a long, wide triangle on its endpoint.
-
 
 ```vb
 With ActiveDocument.Pages(1).Shapes _ 

@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 ## Remarks
 
-For example, you may want to ask the user whether changes to a record were intended and, if not, allow the user to move to the next record without saving the changes. 
+For example, you may want to ask the user whether changes to a record were intended, and if not, allow the user to move to the next record without saving the changes. 
 
 When a record is saved, Microsoft Access sets the **Dirty** property to **False**. When a user makes changes to a record, the property is set to **True**.
 

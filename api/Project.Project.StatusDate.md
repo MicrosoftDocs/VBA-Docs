@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Project](./Project(enumerations).md) 
 
 ## Example
 
-The following example checks the status date of the active project. If it has never changed from the default, but edits to total task percent complete are spread to the status date, it asks for a status date to use. If edits to total task percent complete are spread to the calculated stop date of the task, it asks the user if the edits should be spread to a status date instead and, if so, asks for a status date to use.
+The following example checks the status date of the active project. If it has never changed from the default, but edits to total task percent complete are spread to the status date, it asks for a status date to use. If edits to total task percent complete are spread to the calculated stop date of the task, it asks the user if the edits should be spread to a status date instead, and if so, asks for a status date to use.
 
 
 ```vb

@@ -14,13 +14,14 @@ localization_priority: Normal
 
 # Shapes.CanvasesCount property (Publisher)
 
-A  **Long** that specifies the number of canvases in the **Shapes** collection. Read-only.
+A **Long** that specifies the number of canvases in the **Shapes** collection. Read-only.
 
 
 ## Syntax
 
 _expression_.**CanvasesCount**
 
-_expression_ A variable that represents a  **[Shapes](Publisher.Shapes.md)** object.
+_expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** object.
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

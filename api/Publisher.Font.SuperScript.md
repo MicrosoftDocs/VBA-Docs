@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Font.SuperScript
 ms.assetid: 582c02c9-4dcb-f826-8ec0-e9e10702f717
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Font.SuperScript property (Publisher)
 
-Returns or sets an  **MsoTriState** constant indicating whether characters are formatted as superscript in the specified text range. Read/write.
+Returns or sets an **[MsoTriState](Office.MsoTriState.md)** constant indicating whether characters are formatted as superscript in the specified text range. Read/write.
 
 
 ## Syntax
@@ -31,24 +31,21 @@ MsoTriState
 
 ## Remarks
 
-The  **SuperScript** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
-
-
+The **SuperScript** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 |Constant|Description|
 |:-----|:-----|
 | **msoFalse**| No characters in the range are formatted as superscript.|
-| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
-| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
+| **msoTriStateMixed**|A return value indicating a combination of **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateToggle**|A set value that switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**|All characters in the range are formatted as superscript.|
 
-Setting the  **SuperScript** property to **msoTrue** removes subscript formatting from the text range.
+Setting the **SuperScript** property to **msoTrue** removes subscript formatting from the text range.
 
 
 ## Example
 
-This example tests the text in the second story and, if it has mixed superscripting, it formats all the text as superscript.
-
+This example tests the text in the second story, and if it has mixed superscripting, it formats all the text as superscript.
 
 ```vb
 Sub SuperScript() 
