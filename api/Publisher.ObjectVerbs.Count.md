@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.ObjectVerbs.Count
 ms.assetid: 0d868be0-f46d-d8bb-2af1-47e2d1a3a388
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
