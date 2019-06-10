@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # LineFormat.PresetGradientType property (Publisher)
 
-Returns the preset gradient type for the specified line. Read-only.
+Returns the preset gradient type for the specified line. Read-only **[MsoPresetGradientType](Office.MsoPresetGradientType.md)**.
 
 
 ## Syntax
@@ -24,7 +24,7 @@ _expression_ A variable that represents a **[LineFormat](Publisher.LineFormat.md
 
 ## Return value
 
-**[MsoPresetGradientType](Office.MsoPresetGradientType.md)**
+MsoPresetGradientType
 
 
 ## Remarks

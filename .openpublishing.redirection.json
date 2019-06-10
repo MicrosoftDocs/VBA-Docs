@@ -145,10 +145,6 @@
             "redirect_url": "/office/vba/api/overview/access"
         },
         {
-            "source_path": "library-reference/concepts/office-vba-object-library-reference.md",
-            "redirect_url": "/office/vba/api/overview/library-reference"
-        },
-        {
             "source_path": "access/concepts/miscellaneous/data-access-in-access.md",
             "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
         },
