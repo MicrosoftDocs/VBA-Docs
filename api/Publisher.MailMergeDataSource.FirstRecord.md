@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.FirstRecord
 ms.assetid: e6eefea9-b353-27ff-d8e4-dc135c0c4665
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
 
 # MailMergeDataSource.FirstRecord property (Publisher)
 
-Returns or sets a  **Long** that represents the number of the first record to be merged in a mail merge or catalog merge operation. Read/write.
+Returns or sets a **Long** that represents the number of the first record to be merged in a mail merge or catalog merge operation. Read/write.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ Long
 
 ## Example
 
-This example sets the active record as the first record to be merged, and then merges three records ending with the record two records forward in the data source. This example assumes that the active publication is a mail merge document.
-
+This example sets the active record as the first record to be merged, and then merges three records ending with the record that is two records forward in the data source. This example assumes that the active publication is a mail merge document.
 
 ```vb
 Sub RecordOne() 

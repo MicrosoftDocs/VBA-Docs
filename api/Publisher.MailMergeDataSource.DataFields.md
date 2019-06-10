@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.DataFields
 ms.assetid: 820af882-d54c-a205-2925-e7110fc0c02b
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
 
 # MailMergeDataSource.DataFields property (Publisher)
 
-Returns a  **[MailMergeDataFields](Publisher.MailMergeDataFields.md)** collection that represents the fields in the specified data source.
+Returns a **[MailMergeDataFields](Publisher.MailMergeDataFields.md)** collection that represents the fields in the specified data source.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ MailMergeDataFields
 
 ## Example
 
-This example displays the value of the value of the FirstName and LastName fields from the active record in the data source attached to the active publication.
-
+This example displays the value of the FirstName and LastName fields from the active record in the data source attached to the active publication.
 
 ```vb
 Sub ShowNameForActiveRecord() 

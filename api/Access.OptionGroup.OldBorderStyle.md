@@ -47,7 +47,7 @@ The following example demonstrates the effect of changing a control's **BorderSt
 
 
 ```vb
-With Forms("Order Entry").Controls("Zip Code")
+With Forms("Order Entry").Controls("ZIP Code")
     .BorderStyle = 3 ' Short dashed border. 
   
     MsgBox "BorderStyle = " & .BorderStyle & vbCrLf & _ 

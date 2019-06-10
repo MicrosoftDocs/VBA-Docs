@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.IsMaster
 ms.assetid: 4fe75a11-bb72-1186-9ad6-b8e2489d74e9
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
 
 # MailMergeDataSource.IsMaster property (Publisher)
 
-Indicates whether the parent  **MailMergeDataSource** object is a master data source (a combination of all data sources connected to the current publication). Read-only.
+Indicates whether the parent **MailMergeDataSource** object is a master data source (a combination of all data sources connected to the current publication). Read-only.
 
 
 ## Syntax
@@ -27,5 +27,7 @@ _expression_ A variable that represents a **[MailMergeDataSource](Publisher.Mail
 ## Return value
 
 Boolean
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

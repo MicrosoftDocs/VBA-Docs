@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.MappedDataFields
 ms.assetid: 9f2a15a7-41b0-6025-73d6-eb70a412b830
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
 
 # MailMergeDataSource.MappedDataFields property (Publisher)
 
-Returns a  **[MailMergeMappedDataFields](Publisher.MailMergeMappedDataFields.md)** object that represents the mapped data fields available in Microsoft Publisher.
+Returns a **[MailMergeMappedDataFields](Publisher.MailMergeMappedDataFields.md)** object that represents the mapped data fields available in Microsoft Publisher.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ MailMergeMappedDataFields
 ## Example
 
 This example creates a table on a new page of the current publication and lists the mapped data fields available in Publisher and the fields in the data source to which they are mapped. This example assumes that the current publication is a mail merge publication and that the data source fields have corresponding mapped data fields.
-
 
 ```vb
 Sub MappedFields() 

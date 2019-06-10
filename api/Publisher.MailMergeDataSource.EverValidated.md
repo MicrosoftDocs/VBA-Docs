@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.EverValidated
 ms.assetid: f87980c8-d327-9313-fa6d-efdfaecb0e35
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
 
 # MailMergeDataSource.EverValidated property (Publisher)
 
-Indicates whether the list of recipient addresses in the parent  **MailMergeDataSource** object has ever been validated. Read/write.
+Indicates whether the list of recipient addresses in the parent **MailMergeDataSource** object has ever been validated. Read/write.
 
 
 ## Syntax
@@ -31,10 +31,10 @@ Boolean
 
 ## Remarks
 
- The initial value of **EverValidated** is **False**.
+The initial value of **EverValidated** is **False**.
 
-If you create an add-in for Microsoft Publisher that validates recipient addresses and maintains its own data sources, your add-in can set the  **EverValidated** property value to **True** after a successful validation.
+If you create an add-in for Microsoft Publisher that validates recipient addresses and maintains its own data sources, your add-in can set the **EverValidated** property value to **True** after a successful validation.
 
-The value of the  **EverValidated** property is saved in the Microsoft Publisher file and is accessible across multiple sessions of Publisher.
+The value of the **EverValidated** property is saved in the Microsoft Publisher file and is accessible across multiple sessions of Publisher.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
