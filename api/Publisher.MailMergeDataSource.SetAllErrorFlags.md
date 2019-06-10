@@ -19,29 +19,26 @@ Marks all records in a mail merge data source as containing invalid data in an a
 
 ## Syntax
 
-_expression_.**SetAllErrorFlags**(**_Invalid_**,  **_InvalidComment_**)
+_expression_.**SetAllErrorFlags** (_Invalid_, _InvalidComment_)
 
 _expression_ A variable that represents a **[MailMergeDataSource](Publisher.MailMergeDataSource.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Invalid|Required| **Boolean**| **True** marks all records in the data source of a mail merge as invalid.|
-|InvalidComment|Optional| **String**|Text describing the invalid setting.|
+|_Invalid_|Required| **Boolean**| **True** marks all records in the data source of a mail merge as invalid.|
+|_InvalidComment_|Optional| **String**|Text describing the invalid setting.|
 
 ## Remarks
 
-You can individually mark records in a data source that contain invalid data in an address field using the  **[InvalidAddress](Publisher.MailMergeDataSource.InvalidAddress.md)** and **[InvalidComments](Publisher.MailMergeDataSource.InvalidComments.md)** properties.
+You can individually mark records in a data source that contain invalid data in an address field by using the **[InvalidAddress](Publisher.MailMergeDataSource.InvalidAddress.md)** and **[InvalidComments](Publisher.MailMergeDataSource.InvalidComments.md)** properties.
 
 
 ## Example
 
 This example marks all records in the data source as containing an invalid address field, sets a comment as to why it is invalid, and excludes all records from the mail merge.
-
 
 ```vb
 Sub FlagAllRecords() 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailMergeDataSources.Parent property (Publisher)
 
-Returns the parent of the **[MailMergeDataSources](Publisher.MailMergeDataSources.md)** collection. Read-only.
+Returns the parent of the **MailMergeDataSources** collection. Read-only.
 
 
 ## Syntax

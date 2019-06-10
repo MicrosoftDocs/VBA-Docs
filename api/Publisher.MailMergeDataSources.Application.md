@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # MailMergeDataSources.Application property (Publisher)
 
-Returns an  **Application** object that represents the creator of the parent **MailMergeDataSources** collection. Read-only.
+Returns an **Application** object that represents the creator of the parent **MailMergeDataSources** collection. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailMergeDataSource.OpenRecipientsDialog method (Publisher)
 
-Displays the  **Recipients** dialog box for a mail merge publication.
+Displays the **Recipients** dialog box for a mail merge publication.
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[MailMergeDataSource](Publisher.Mail
 
 ## Example
 
-This example displays the  **Mail Merge Recipients** dialog box.
-
+This example displays the **Mail Merge Recipients** dialog box.
 
 ```vb
 Sub ShowRecipientsDialog() 

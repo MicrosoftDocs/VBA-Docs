@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailMergeDataSource.Type property (Publisher)
 
-Returns a  **Long** that represents the type of mail merge or catalog merge data source. Read-only.
+Returns a **Long** that represents the type of mail merge or catalog merge data source. Read-only.
 
 
 ## Syntax
@@ -22,5 +22,6 @@ Returns a  **Long** that represents the type of mail merge or catalog merge data
 _expression_.**Type**
 
 _expression_ A variable that represents a **[MailMergeDataSource](Publisher.MailMergeDataSource.md)** object.
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

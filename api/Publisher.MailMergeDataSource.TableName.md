@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailMergeDataSource.TableName property (Publisher)
 
-Returns a  **String** that represents the name of the table within the data source file that contains the mail merge records. The returned value may be blank if the table name is unknown or not applicable to the current data source. Read-only.
+Returns a **String** that represents the name of the table within the data source file that contains the mail merge records. The returned value may be blank if the table name is unknown or not applicable to the current data source. Read-only.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ String
 ## Example
 
 This example displays a message with the name of the mail merge data source table name.
-
 
 ```vb
 Sub EmployeeTable() 
