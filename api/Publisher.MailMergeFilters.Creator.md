@@ -11,7 +11,9 @@ localization_priority: Normal
 
 # MailMergeFilters.Creator property (Publisher)
 
-Returns a  **Long** that represents the application in which the specified object was created. For example, if the object was created in Microsoft Publisher, this property returns the hexadecimal number 4D505542, which represents the string "MSPB." This value can also be represented by the constant.
+Returns a **Long** that represents the application in which the specified object was created. 
+
+For example, if the object was created in Microsoft Publisher, this property returns the hexadecimal number 4D505542, which represents the string MSPB. This value can also be represented by the constant.
 
 
 ## Syntax
@@ -19,5 +21,6 @@ Returns a  **Long** that represents the application in which the specified objec
 _expression_.**Creator**
 
 _expression_ A variable that represents a **[MailMergeFilters](Publisher.MailMergeFilters.md)** object.
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

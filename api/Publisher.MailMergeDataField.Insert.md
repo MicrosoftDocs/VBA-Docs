@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataField.Insert
 ms.assetid: 54482cda-d0d3-c799-7e7f-b25835a8bd6f
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
 
 # MailMergeDataField.Insert method (Publisher)
 
-Returns a  **[Shape](Publisher.Shape.md)** object that represents a data field inserted into a publication.
+Returns a **[Shape](Publisher.Shape.md)** object that represents a data field inserted into a publication.
 
 
 ## Syntax
@@ -26,11 +26,9 @@ _expression_ A variable that represents a **[MailMergeDataField](Publisher.MailM
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|_Range_|Optional| **TextRange**|The text range to insert.|
+|_Range_|Optional| **[TextRange](Publisher.TextRange.md)** |The text range to insert.|
 
 ## Return value
 
@@ -39,16 +37,15 @@ Shape
 
 ## Remarks
 
-The  **Insert** method works for both picture and string (text) fields.
+The **Insert** method works for both picture and string (text) fields.
 
 > [!NOTE] 
-> You can also use the  **[InsertMailMergeField](Publisher.TextRange.InsertMailMergeField.md)** method of the **[TextRange](Publisher.TextRange.md)** object to add a text data field to a text box in the publication's catalog merge area.
+> You can also use the **[InsertMailMergeField](Publisher.TextRange.InsertMailMergeField.md)** method of the **TextRange** object to add a text data field to a text box in the publication's catalog merge area.
 
 
 ## Example
 
-This example defines a data field as a picture data field, inserts it into the catalog merge area of the specified publication, and sizes and positions the picture data field. This example assumes the publication has been connected to a data source, and a catalog merge area has been added to the publication.
-
+This example defines a data field as a picture data field, inserts it into the catalog merge area of the specified publication, and sizes and positions the picture data field. This example assumes that the publication has been connected to a data source, and a catalog merge area has been added to the publication.
 
 ```vb
 Dim pbPictureField1 As Shape 
