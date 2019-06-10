@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMergeMappedDataField.DataFieldName
 ms.assetid: c30e56c1-c4f4-a581-00d1-eb367178e0af
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
 
 # MailMergeMappedDataField.DataFieldName property (Publisher)
 
-Returns or sets a  **String** which represents the name of the field in the mail merge data source to which a mapped data field maps. An empty string is returned if the specified data field is not mapped to a mapped data field. Read/write.
+Returns or sets a **String** that represents the name of the field in the mail merge data source to which a mapped data field maps. An empty string is returned if the specified data field is not mapped to a mapped data field. Read/write.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ String
 ## Example
 
 This example creates a table on a new page of the current publication and lists the mapped data fields available and the fields in the data source to which they are mapped. This example assumes that the current publication is a mail merge publication and that the data source fields have corresponding mapped data fields.
-
 
 ```vb
 Sub MappedFields() 

@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMergeMappedDataField.Index
 ms.assetid: c590d1af-f845-7e1d-95bc-c65969ebd0ff
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
 
 # MailMergeMappedDataField.Index property (Publisher)
 
-Returns a  **Long** that represents the position of a particular item in a specified collection. .
+Returns a **Long** that represents the position of a particular item in a specified collection. 
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[MailMergeMappedDataField](Publisher
 
 ## Example
 
-The following example loops through the  **MailMergeDataFields** collection and displays the **Index** and **Name** properties for each field.
-
+The following example loops through the **MailMergeDataFields** collection and displays the **Index** and **Name** properties for each field.
 
 ```vb
 Dim mmfLoop As MailMergeDataField 
@@ -44,10 +43,9 @@ With ActiveDocument.MailMerge.DataSource
 End With
 ```
 
-The following example loops through the  **Plates** collection and displays the **Index** and **Name** properties for each plate.
+<br/>
 
-
-
+The following example loops through the **Plates** collection and displays the **Index** and **Name** properties for each plate.
 
 ```vb
 Dim plaLoop As Plate 
