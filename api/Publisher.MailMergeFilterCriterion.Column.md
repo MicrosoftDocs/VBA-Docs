@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMergeFilterCriterion.Column
 ms.assetid: 000b4b4c-73a1-ea9f-6f44-bc6eac15cb4b
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
 
 # MailMergeFilterCriterion.Column property (Publisher)
 
-Returns a  **String** that represents the name of the field in the mail merge data source to use in the filter. Read/write.
+Returns a **String** that represents the name of the field in the mail merge data source to use in the filter. Read/write.
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[MailMergeFilterCriterion](Publisher
 
 ## Example
 
-The following example changes an existing filter to remove from the mail merge all records that do not have a Region field equal to "WA".
-
+The following example changes an existing filter to remove from the mail merge all records that do not have a Region field equal to WA.
 
 ```vb
 Sub SetQueryCriterion() 

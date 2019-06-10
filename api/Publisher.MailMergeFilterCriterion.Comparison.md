@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMergeFilterCriterion.Comparison
 ms.assetid: ba815a39-35d6-803e-39c4-deba30646e66
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
 
 # MailMergeFilterCriterion.Comparison property (Publisher)
 
-Returns or sets an  **MsoFilterComparison** constant that represents how to compare the [Column](Publisher.Cell.Column.md) and **[CompareTo](Publisher.MailMergeFilterCriterion.CompareTo.md)** properties. Read/write.
+Returns or sets an **[MsoFilterComparison](Office.MsoFilterComparison.md)** constant that represents how to compare the **[Cell.Column](Publisher.Cell.Column.md)** and **[CompareTo](Publisher.MailMergeFilterCriterion.CompareTo.md)** properties. Read/write.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ MsoFilterComparison
 
 ## Remarks
 
-The  **Comparison** property value can be one of the **[MsoFilterComparison](Office.MsoFilterComparison.md)** constants declared in the Microsoft Office type library.
+The **Comparison** property value can be one of the **MsoFilterComparison** constants declared in the Microsoft Office type library.
 
 
 ## Example
 
-The following example changes an existing filter to remove from the mail merge all records that do not have a Region field equal to "WA". This example assumes that a mail merge data source is attached to the active publication.
-
+The following example changes an existing filter to remove from the mail merge all records that do not have a Region field equal to WA. This example assumes that a mail merge data source is attached to the active publication.
 
 ```vb
 Sub SetQueryCriterion() 

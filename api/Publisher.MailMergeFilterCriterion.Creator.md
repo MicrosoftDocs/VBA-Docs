@@ -4,7 +4,7 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMergeFilterCriterion.Creator
 ms.assetid: 064ef96c-870e-9028-c00f-c19da43034c8
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
