@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Options.AutoKeyboardSwitching
 ms.assetid: 05f22aa6-332d-e033-ab9d-550eb08f1018
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
 
 # Options.AutoKeyboardSwitching property (Publisher)
 
- **True** for Microsoft Publisher to automatically switch the keyboard language to the language used for the text at the cursor position. Read/write **Boolean**.
+**True** for Microsoft Publisher to automatically switch the keyboard language to the language used for the text at the cursor position. Read/write **Boolean**.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ Boolean
 ## Example
 
 This example enables automatically switching the keyboard language to the necessary language.
-
 
 ```vb
 Sub SetGlobalOptions() 

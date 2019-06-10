@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Options.ResetTips
 ms.assetid: a119aacc-ba19-f430-e8af-6d84c438ec25
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
@@ -26,13 +26,12 @@ _expression_ A variable that represents an **[Options](Publisher.Options.md)** o
 
 ## Remarks
 
-The  **ResetTips** method is equivalent to clicking **Reset Tips** on the **User Assistance** tab of the **Options** dialog box (**Tools** menu).
+The **ResetTips** method is equivalent to choosing **Reset Tips** on the **User Assistance** tab of the **Options** dialog box (**Tools** menu).
 
 
 ## Example
 
 This example resets tip balloons.
-
 
 ```vb
 Sub ResetTippages() 

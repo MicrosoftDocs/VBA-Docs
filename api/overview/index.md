@@ -14,6 +14,6 @@ Beyond the power of scripting VBA to accelerate every-day tasks, you can use VBA
 
 ## See also
 
-- [Office VBA Object library reference](../../Library-Reference/Concepts/office-vba-object-library-reference.md)
+- [Office VBA Object library reference](library-reference/reference-object-library-reference-for-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

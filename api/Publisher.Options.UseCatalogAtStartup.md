@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Options.UseCatalogAtStartup
 ms.assetid: 7b0cfce9-92f1-5491-c550-421d1c848e0f
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
 
 # Options.UseCatalogAtStartup property (Publisher)
 
- **True** for Microsoft Publisher to show the catalog when starting. Read/write **Boolean**.
+**True** for Microsoft Publisher to show the catalog when starting. Read/write **Boolean**.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ Boolean
 ## Example
 
 This example sets global options for Publisher, including not displaying the catalog upon startup.
-
 
 ```vb
 Sub SetGlobalOptions() 
