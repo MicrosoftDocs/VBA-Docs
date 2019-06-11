@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.CropTop
 ms.assetid: b235898d-addf-6a4c-5693-229431545e6c
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # PictureFormat.CropTop property (Publisher)
 
-Returns or sets a  **Variant** indicating the amount by which the top edge of a picture or OLE object is cropped. Read/write.
+Returns or sets a **Variant** indicating the amount by which the top edge of a picture or OLE object is cropped. Read/write.
 
 
 ## Syntax
@@ -31,31 +31,29 @@ Variant
 
 ## Remarks
 
-Numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+Numeric values are evaluated in [points](../language/glossary/vbe-glossary.md#point); strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
-Negative values crop the top edge away from the center of the frame and positive values crop toward the bottom edge of the frame.
+Negative values crop the top edge away from the center of the frame, and positive values crop toward the bottom edge of the frame.
 
-The valid range of crop values depends on the frame's position and size. For an unrotated frame, the lowest negative value allowed is the distance between the top edge of frame and the top edge of the scratch area. The highest positive value allowed is the current frame height.
+The valid range of crop values depends on the frame's position and size. For an unrotated frame, the lowest negative value allowed is the distance between the top edge of the frame and the top edge of the scratch area. The highest positive value allowed is the current frame height.
 
-Cropping is calculated relative to the original size of the picture. For example, if you insert a picture that is originally 100 points high, rescale it so that it is 200 points high, and then set the  **CropTop** property to 50, 100 points (not 50) will be cropped off the top of your picture.
+Cropping is calculated relative to the original size of the picture. For example, if you insert a picture that is originally 100 points high, rescale it so that it is 200 points high, and then set the **CropTop** property to 50, 100 points (not 50) will be cropped off the top of your picture.
 
-Use the  **[CropLeft](Publisher.PictureFormat.CropLeft.md)**,  **[CropRight](Publisher.PictureFormat.CropRight.md)**, and  **[CropBottom](Publisher.PictureFormat.CropBottom.md)** properties to crop other edges of a picture or OLE object.
+Use the **[CropLeft](Publisher.PictureFormat.CropLeft.md)**, **[CropRight](Publisher.PictureFormat.CropRight.md)**, and **[CropBottom](Publisher.PictureFormat.CropBottom.md)** properties to crop other edges of a picture or OLE object.
 
 
 ## Example
 
 This example crops 20 points off the top of the third shape in the active publication. For the example to work, the shape must be either a picture or an OLE object.
 
-
 ```vb
 ActiveDocument.Pages(1).Shapes(3).PictureFormat _ 
  .CropTop = 20
 ```
 
+<br/>
+
 This example crops the percentage specified by the user off the top of the selected shape, regardless of whether the shape has been scaled. For the example to work, the selected shape must be either a picture or an OLE object.
-
-
-
 
 ```vb
 Dim sngPercent As Single 

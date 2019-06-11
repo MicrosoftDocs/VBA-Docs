@@ -21,7 +21,7 @@ Returns a  **Long** that represents the number of colors in the specified linked
 
 _expression_.**OriginalColorsInPalette**
 
-_expression_ A variable that represents an  **PictureFormat** object.
+_expression_ A variable that represents a **[PictureFormat](Publisher.PictureFormat.md)** object.
 
 
 ## Return value

@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.HasAlphaChannel
 ms.assetid: 97739201-cd0d-cc78-a28e-935fb11da5b3
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # PictureFormat.HasAlphaChannel property (Publisher)
 
-Returns an  **MsoTriState** constant indicating whether the specified picture contains an alpha channel. Read-only.
+Returns an **[MsoTriState](office.msotristate.md)** constant indicating whether the specified picture contains an alpha channel. Read-only.
 
 
 ## Syntax
@@ -33,20 +33,17 @@ MsoTriState
 
 An alpha channel is a special 8-bit channel used by some image processing software to contain additional data, such as masking or transparency information.
 
-The  **HasAlphaChannel** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
-
-
+The **HasAlphaChannel** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 |Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The specified picture does not contain an alpha channel.|
-| **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateMixed**|Indicates a combination of **msoTrue** and **msoFalse** for the specified shape range.|
 | **msoTrue**|The specified picture contains an alpha channel.|
 
 ## Example
 
-The following example returns whether the first shape on the first page of the active publication contains an alpha channel. If the picture is linked, and the original picture contains an alpha channel, that is also returned. This example assumes the shape is a picture.
-
+The following example returns whether the first shape on the first page of the active publication contains an alpha channel. If the picture is linked, and the original picture contains an alpha channel, that is also returned. This example assumes that the shape is a picture.
 
 ```vb
 With ActiveDocument.Pages(1).Shapes(1).PictureFormat 

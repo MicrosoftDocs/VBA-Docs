@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.HorizontalScale
 ms.assetid: 7be51cde-5b2d-7870-7f39-2fa9bd714d68
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # PictureFormat.HorizontalScale property (Publisher)
 
-Returns a  **Long** that represents the scaling of the picture along its horizontal axis. The scaling is expressed as a percentage (for example, 200 equals 200 percent scaling). Read-only.
+Returns a **Long** that represents the scaling of the picture along its horizontal axis. The scaling is expressed as a percentage (for example, 200 equals 200 percent scaling). Read-only.
 
 
 ## Syntax
@@ -33,13 +33,12 @@ Long
 
 The effective resolution of a picture is inversely proportional to the scaling at which the picture is printed. The larger the scaling, the lower the effective resolution. For example, suppose a picture measuring 4 inches by 4 inches was originally scanned at 300 dpi. If that picture is scaled to 2 inches by 2 inches, its effective resolution is 600 dpi.
 
-Use the  **[EffectiveResolution](Publisher.PictureFormat.EffectiveResolution.md)** property of the **[PictureFormat](Publisher.PictureFormat.md)** object to determine the resolution at which the picture or OLE object will print in the specified document.
+Use the **[EffectiveResolution](Publisher.PictureFormat.EffectiveResolution.md)** property to determine the resolution at which the picture or OLE object will print in the specified document.
 
 
 ## Example
 
 The following example prints selected image properties for each picture in the active publication.
-
 
 ```vb
 Dim pgLoop As Page 
@@ -65,7 +64,6 @@ For Each pgLoop In ActiveDocument.Pages
  Next shpLoop 
 Next pgLoop 
  
-
 ```
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
