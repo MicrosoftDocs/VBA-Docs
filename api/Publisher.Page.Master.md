@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Page.Master
 ms.assetid: f206b4f1-cde3-458d-f26c-a970ad3bd21b
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
 
 # Page.Master property (Publisher)
 
-Sets or returns a  **[Page](Publisher.Page.md)** object that represents the master page properties for the specified page.
+Sets or returns a **Page** object that represents the master page properties for the specified page.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ Page
 
 ## Remarks
 
-Master pages do not have a  **Master** property. Any attempt to access the **Master** property of a master page will result in a run-time error.
+Master pages do not have a **Master** property. Any attempt to access the **Master** property of a master page results in a run-time error.
 
 
 ## Example
 
 This example adds a shape to the master page for the first page in the active publication.
-
 
 ```vb
 Sub AddNewMasterPageShape() 
@@ -50,10 +49,9 @@ Sub AddNewMasterPageShape()
 End Sub
 ```
 
-The  **Master** property can also be used to apply a master page to a page in a publication. The following example sets the master page of the first page of a publication to the master page of the second page in the publication. This example assumes that there are at least two pages and two master pages in the document.
+<br/>
 
-
-
+The **Master** property can also be used to apply a master page to a page in a publication. The following example sets the master page of the first page of a publication to the master page of the second page in the publication. This example assumes that there are at least two pages and two master pages in the document.
 
 ```vb
 ActiveDocument.Pages(1).Master = _ 
