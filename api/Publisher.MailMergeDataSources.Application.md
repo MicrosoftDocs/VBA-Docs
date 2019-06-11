@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # MailMergeDataSources.Application property (Publisher)
 
-Returns an **Application** object that represents the creator of the parent **MailMergeDataSources** collection. Read-only.
+Returns an **[Application](Publisher.Application.md)** object that represents the creator of the parent **MailMergeDataSources** collection. Read-only.
 
 
 ## Syntax
@@ -23,6 +23,8 @@ _expression_ A variable that represents a **[MailMergeDataSources](Publisher.Mai
 
 ## Return value
 
-Object
+Application
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
