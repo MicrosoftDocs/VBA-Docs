@@ -1,27 +1,27 @@
 ---
-title: ShadowFormat.OffsetY property (Publisher)
-keywords: vbapb10.chm3670275
+title: ShadowFormat.OffsetX property (Publisher)
+keywords: vbapb10.chm3670274
 f1_keywords:
-- vbapb10.chm3670275
+- vbapb10.chm3670274
 ms.prod: publisher
 api_name:
-- Publisher.PictureFormat.OffsetY
-ms.assetid: e7deb108-e027-dd61-714f-1a76e904009b
+- Publisher.ShadowFormat.OffsetX
+ms.assetid: 2b34ace8-5c3b-002b-df96-43c8aef2fbd2
 ms.date: 06/08/2017
 localization_priority: Normal
 ---
 
 
-# ShadowFormat.OffsetY property (Publisher)
+# ShadowFormat.OffsetX property (Publisher)
 
-Returns or sets a  **Variant** value indicating the horizontal offset of the shadow from the specified shape. A positive value offsets the shadow to the right of the shape; a negative value offsets it to the left. Read/write.
+Returns or sets a  **Variant** value indicating the vertical offset of the shadow from the specified shape. A positive value offsets the shadow below the shape; a negative value offsets it above the shape. Read/write.
 
 
 ## Syntax
 
-_expression_.**OffsetY**
+_expression_.**OffsetX**
 
-_expression_ A variable that represents an  **ShadowFormat** object.
+_expression_ A variable that represents a **[ShadowFormat](Publisher.ShadowFormat.md)** object.
 
 
 ## Return value
