@@ -21,10 +21,9 @@ Occurs when any document window is deactivated.
 
 ## Syntax
 
-_expression_. `Private Sub object_WindowDeactivate`(`ByVal Doc As Document`, `ByVal Wn As Window`)
+_expression_.**WindowDeactivate** (_Doc_, _Wn_)
 
-_expression_ A variable that represents an [Application](Word.Application.md) object that has been declared with events in a class module. For more information about using events with the **Application** object or the **Document** object, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md) or [Using Events with the Document Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md).
-
+_expression_ A variable that represents an **[Application](Word.Application.md)** object. 
 
 ## Parameters
 
@@ -35,7 +34,7 @@ _expression_ A variable that represents an [Application](Word.Application.md) ob
 
 ## Example
 
-This example minimizes any document window when it is deactivated. This code must be placed in a class module, and an instance of the class must be correctly initialized to see this example work; see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md) for directions on how to accomplish this.
+This example minimizes any document window when it is deactivated. This code must be placed in a class module, and an instance of the class must be correctly initialized to see this example work. For directions about how to accomplish this, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
 
 ```vb
@@ -47,9 +46,6 @@ Private Sub appWord_WindowDeactivate _
 End Sub
 ```
 
-
-## See also
-
-- [Application Object](Word.Application.md)
+For information about using events with the **Document** object, see [Using events with the Document object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
