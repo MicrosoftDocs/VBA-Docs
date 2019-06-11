@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.CharBasedFirstLineIndent
 ms.assetid: d0432be6-2e6a-39fa-9e9a-0300a0437f35
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # ParagraphFormat.CharBasedFirstLineIndent property (Publisher)
 
-Returns or sets the value of the first line indent (in East Asian character width). Read/write  **Long**.
+Returns or sets the value of the first line indent (in East Asian character width). Read/write **Long**.
 
 
 ## Syntax
@@ -31,15 +31,17 @@ Long
 
 ## Remarks
 
-The value of  **CharBasedFirstLineIndent** can be returned or set only after the **[UseCharBasedFirstLineIndent](Publisher.ParagraphFormat.UseCharBasedFirstLineIndent.md)** has been set. A run-time "permission denied" error is returned if **UseCharBasedFirstLineIndent** is not set first. Note, however, that **UseCharBasedFirstLineIndent** can be set only if East Asian languages are enabled on the client computer (the value can be returned regardless of whether East Asian languages are enabled). This effectively means that **CharBasedFirstLineIndent** cannot be used unless East Asian languages are enabled on the client computer.
+The value of **CharBasedFirstLineIndent** can be returned or set only after the **[UseCharBasedFirstLineIndent](Publisher.ParagraphFormat.UseCharBasedFirstLineIndent.md)** property has been set. A run-time "permission denied" error is returned if **UseCharBasedFirstLineIndent** is not set first. 
 
-The value of  **CharBasedFirstLineIndent** can range from 0 (zero) to 80.
+> [!NOTE] 
+> **UseCharBasedFirstLineIndent** can be set only if East Asian languages are enabled on the client computer (the value can be returned regardless of whether East Asian languages are enabled). This effectively means that **CharBasedFirstLineIndent** cannot be used unless East Asian languages are enabled on the client computer.
+
+The value of **CharBasedFirstLineIndent** can range from 0 (zero) to 80.
 
 
 ## Example
 
-The following example creates a text box on the fourth page of the active publication. After the  **UseCharBasedFirstLineIndent** property is set to **True**, the width of the first line indent is set to 15 points by using the  **CharBasedFirstLineIndent** property. Font properties are then set, and text is inserted into the paragraph.
-
+The following example creates a text box on the fourth page of the active publication. After the **UseCharBasedFirstLineIndent** property is set to **True**, the width of the first line indent is set to 15 [points](../language/glossary/vbe-glossary.md#point) by using the **CharBasedFirstLineIndent** property. Font properties are then set, and text is inserted into the paragraph.
 
 ```vb
 Dim theTextBox As Shape 

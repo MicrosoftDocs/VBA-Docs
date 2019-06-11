@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.ListBulletText
 ms.assetid: fa80957a-be91-398f-a24f-5a0449a9466f
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # ParagraphFormat.ListBulletText property (Publisher)
 
-Returns a  **String** representing the list bullet text from the specified paragraphs. Read-only.
+Returns a **String** representing the list bullet text from the specified paragraphs. Read-only.
 
 
 ## Syntax
@@ -31,17 +31,16 @@ String
 
 ## Remarks
 
-The  **ListBulletText** property is limited to one character.
+The **ListBulletText** property is limited to one character.
 
-This property is read-only. To set the  **ListBulletText** property of a bulleted list, use the **SetListType** method.
+This property is read-only. To set the **ListBulletText** property of a bulleted list, use the **[SetListType](Publisher.ParagraphFormat.SetListType.md)** method.
 
 Returns an "Access Denied" message if the list is not a bulleted list.
 
 
 ## Example
 
-This example tests to see if the list type is a bulleted list. If it is, a test is made to see that the list bullet text is set to "*". If it is not, the  **SetListType** method is called and passed **pbListTypeBullet** as the pbListType parameter and "*" as the BulletText parameter.
-
+This example tests to see if the list type is a bulleted list. If it is, a test is made to see that the list bullet text is set to `"*"`. If it is not, the **SetListType** method is called and passes **pbListTypeBullet** as the _Value_ (**PbListType**) parameter and `"*"` as the _BulletText_ parameter.
 
 ```vb
 Dim objParaForm As ParagraphFormat 
@@ -57,7 +56,6 @@ With objParaForm
  End If 
 End With 
  
-
 ```
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.RightIndent
 ms.assetid: bc3102d3-afc5-3f19-b98a-7f816e374d1a
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # ParagraphFormat.RightIndent property (Publisher)
 
-Returns or sets a  **Variant** that represents the right indent (in points) for the specified paragraphs. Read/write.
+Returns or sets a **Variant** that represents the right indent (in [points](../language/glossary/vbe-glossary.md#point)) for the specified paragraphs. Read/write.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ Variant
 
 ## Example
 
-This example sets the right indent for all paragraphs in the active document to one inch from the right margin. The  **[InchesToPoints](Publisher.Application.InchesToPoints.md)** method is used to convert inches to points. This example assumes that there is at least one shape on the first page of the active publication.
-
+This example sets the right indent for all paragraphs in the active document to one inch from the right margin. The **[InchesToPoints](Publisher.Application.InchesToPoints.md)** method is used to convert inches to points. This example assumes that there is at least one shape on the first page of the active publication.
 
 ```vb
 Sub SetRightIndent() 

@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.SetListType
 ms.assetid: 6900aac5-fb3f-5813-309c-1422d38c8301
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # ParagraphFormat.SetListType method (Publisher)
 
-Sets the list type of the specified  **ParagraphFormat** object. .
+Sets the list type of the specified **ParagraphFormat** object. 
 
 
 ## Syntax
@@ -26,90 +26,24 @@ _expression_ A variable that represents a **[ParagraphFormat](Publisher.Paragrap
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|_Value_|Required| **PbListType**|Represents the list type of the specified  **ParagraphFormat** object.|
-|_BulletText_|Optional| **String**| **String** that represents the text of the list bullet.|
+|_Value_|Required| **[PbListType](publisher.pblisttype.md)**|Represents the list type of the specified **ParagraphFormat** object. Can be one of the **PbListType** constants declared in the Microsoft Publisher type library. |
+|_BulletText_|Optional| **String**| A string that represents the text of the list bullet.|
+
 
 ## Remarks
 
-If Value is a bulleted list and the BulletText parameter is missing, the first bullet from the  **Bullets and Numbering** dialog box is used.
+If _Value_ is a bulleted list and the _BulletText_ parameter is missing, the first bullet from the **Bullets and Numbering** dialog box is used.
 
-BulletText is limited to one character. 
+_BulletText_ is limited to one character. 
 
-A run-time error occurs if the BulletText parameter is provided and the Value parameter is not set to  **pbListTypeBullet**.
+A run-time error occurs if the _BulletText_ parameter is provided and the _Value_ parameter is not set to **pbListTypeBullet**.
 
-The Value parameter can be one of the  **PbListType** constants declared in the Microsoft Publisher type library and shown in the following table.
-
-
-
-| **pbListTypeAiueo**|
-| **pbListTypeArabic**|
-| **pbListTypeArabic1**|
-| **pbListTypeArabic2**|
-| **pbListTypeArabicLeadingZero**|
-| **pbListTypeBullet**|
-| **pbListTypeCardinalText**|
-| **pbListTypeChiManSty**|
-| **pbListTypeChinaDbNum1**|
-| **pbListTypeChinaDbNum2**|
-| **pbListTypeChinaDbNum3**|
-| **pbListTypeChinaDbNum4**|
-| **pbListTypeChosung**|
-| **pbListTypeCirclenum**|
-| **pbListTypeDAiueo**|
-| **pbListTypeDArabic**|
-| **pbListTypeDbChar**|
-| **pbListTypeDbNum1**|
-| **pbListTypeDbNum2**|
-| **pbListTypeDbNum3**|
-| **pbListTypeDbNum4**|
-| **pbListTypeDIroha**|
-| **pbListTypeGanada**|
-| **pbListTypeGB1**|
-| **pbListTypeGB2**|
-| **pbListTypeGB3**|
-| **pbListTypeGB4**|
-| **pbListTypeHebrew1**|
-| **pbListTypeHebrew2**|
-| **pbListTypeHex**|
-| **pbListTypeHindi1**|
-| **pbListTypeHindi2**|
-| **pbListTypeHindi3**|
-| **pbListTypeHindi4**|
-| **pbListTypeIroha**|
-| **pbListTypeKoreaDbNum1**|
-| **pbListTypeKoreaDbNum2**|
-| **pbListTypeKoreaDbNum3**|
-| **pbListTypeKoreaDbNum4**|
-| **pbListTypeLowerCaseLetter**|
-| **pbListTypeLowerCaseRoman**|
-| **pbListTypeLowerCaseRussian**|
-| **pbListTypeNone**|
-| **pbListTypeOrdinal**|
-| **pbListTypeOrdinalText**|
-| **pbListTypeSbChar**|
-| **pbListTypeTaiwanDbNum1**|
-| **pbListTypeTaiwanDbNum2**|
-| **pbListTypeTaiwanDbNum3**|
-| **pbListTypeTaiwanDbNum4**|
-| **pbListTypeThai1**|
-| **pbListTypeThai2**|
-| **pbListTypeThai3**|
-| **pbListTypeUpperCaseLetter**|
-| **pbListTypeUpperCaseRoman**|
-| **pbListTypeUpperCaseRussian**|
-| **pbListTypeVietnamese1**|
-| **pbListTypeZodiac1**|
-| **pbListTypeZodiac2**|
-| **pbListTypeZodiac3**|
 
 ## Example
 
-This example tests to see if the list type is a numbered list, specifically  **pbListTypeArabic**. If the  **ListType** property is set to **pbListTypeArabic**, the  **ListSeparator** is set to **pbListSeparatorParenthesis**. Otherwise the  **SetListType** method is called and passed **pbListTypeArabic** as the Value parameter and then the **ListNumberSeparator** property can be set.
-
+This example tests to see if the list type is a numbered list, specifically **pbListTypeArabic**. If the **[ListType](Publisher.ParagraphFormat.ListType.md)** property is set to **pbListTypeArabic**, the **[ListNumberSeparator](Publisher.ParagraphFormat.ListNumberSeparator.md)** property is set to **pbListSeparatorParenthesis**. Otherwise, the **SetListType** method is called and passes **pbListTypeArabic** as the _Value_ parameter, and then the **ListNumberSeparator** property can be set.
 
 ```vb
 Dim objParaForm As ParagraphFormat 
@@ -125,13 +59,11 @@ With objParaForm
  End If 
 End With 
  
-
 ```
 
-This example demonstrates how an organized document structure containing named text frames with lists can be configured. This example assumes that the publication has a naming convention for  **TextFrame** objects containing lists that use the word "list" as a prefix. This example uses nested collection iterations to access each of the **TextFrame** objects in each **Shapes** collection of each **Page**. The  **ParagraphFormat** object of each **TextFrame** name with the prefix "list" has the **ListType** and **ListBulletFontSize** set.
+<br/>
 
-
-
+This example demonstrates how an organized document structure containing named text frames with lists can be configured. This example assumes that the publication has a naming convention for **[TextFrame](publisher.textframe.md)** objects containing lists that use the word "list" as a prefix. This example uses nested collection iterations to access each of the **TextFrame** objects in each **Shapes** collection of each **Page**. The **ParagraphFormat** object of each **TextFrame** name with the prefix "list" has the **ListType** and **ListBulletFontSize** properties set.
 
 ```vb
 Dim objPage As page 
@@ -160,7 +92,6 @@ For Each objPage In ActiveDocument.Pages
  Next 
 Next 
  
-
 ```
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

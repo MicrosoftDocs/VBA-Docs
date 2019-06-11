@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.FirstLineIndent
 ms.assetid: 4966b30e-7629-b66d-0870-ada91c3af4f3
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # ParagraphFormat.FirstLineIndent property (Publisher)
 
-Returns or sets a  **Variant** that represents the amount of space (measured in points) to indent the first line in a paragraph. Read/write.
+Returns or sets a **Variant** that represents the amount of space (measured in [points](../language/glossary/vbe-glossary.md#point)) to indent the first line in a paragraph. Read/write.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ Variant
 ## Example
 
 This example creates a text box, fills it with text, and indents the first line of every paragraph a half inch.
-
 
 ```vb
 Sub IndentFirstLines() 

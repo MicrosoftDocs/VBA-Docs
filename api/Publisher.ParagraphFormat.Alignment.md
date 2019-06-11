@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.Alignment
 ms.assetid: db66f8b8-a813-418c-2735-e5299e6a6045
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # ParagraphFormat.Alignment property (Publisher)
 
-Returns or sets a  **PbParagraphAlignmentType** constant that represents the alignment for the specified paragraphs. Read/write.
+Returns or sets a **[PbParagraphAlignmentType](Publisher.PbParagraphAlignmentType.md)** constant that represents the alignment for the specified paragraphs. Read/write.
 
 
 ## Syntax
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[ParagraphFormat](Publisher.Paragrap
 
 ## Remarks
 
-The  **Alignment** property value can be one of the **[PbParagraphAlignmentType](Publisher.PbParagraphAlignmentType.md)** constants declared in the Microsoft Publisher type library.
+The **Alignment** property value can be one of the **PbParagraphAlignmentType** constants declared in the Microsoft Publisher type library.
 
 
 ## Example
 
-This example adds a new text box to the first page of the active publication, and then add text and sets the paragraph alignment and font formatting.
-
+This example adds a new text box to the first page of the active publication, and then adds text and sets the paragraph alignment and font formatting.
 
 ```vb
 Sub NewTextFrame() 

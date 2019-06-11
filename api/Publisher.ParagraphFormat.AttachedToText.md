@@ -7,14 +7,16 @@ ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.AttachedToText
 ms.assetid: 1bfb902c-d728-1f97-513c-dcee54ce57a8
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # ParagraphFormat.AttachedToText property (Publisher)
 
- **True** if the **Font** or **ParagraphFormat** object is attached to a **TextRange** object. If the object is attached to a **TextRange** object, the document will be updated when properties of the object are changed. If the object is not attached, nothing in the document will be changed until the object is applied to a **TextRange** or **Style** object. Read-only **Boolean**.
+**True** if the **[Font](publisher.font.md)** or **ParagraphFormat** object is attached to a **[TextRange](publisher.textrange.md)** object. 
+
+If the object is attached to a **TextRange** object, the document will be updated when properties of the object are changed. If the object is not attached, nothing in the document will be changed until the object is applied to a **TextRange** or **[TextStyle](publisher.textstyle.md)** object. Read-only **Boolean**.
 
 
 ## Syntax
@@ -26,8 +28,7 @@ _expression_ A variable that represents a **[ParagraphFormat](Publisher.Paragrap
 
 ## Example
 
-This example duplicates the font formatting; then it checks to see if the duplicated formatting is attached to a text range and if it is not, it attaches the formatting to the second shape.
-
+This example duplicates the font formatting, and then checks to see if the duplicated formatting is attached to a text range. If it is not, it attaches the formatting to the second shape.
 
 ```vb
 Sub DuplicateText() 

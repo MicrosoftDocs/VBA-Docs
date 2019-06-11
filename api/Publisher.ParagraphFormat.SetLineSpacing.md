@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.SetLineSpacing
 ms.assetid: 32e5b233-8415-2373-7423-18b66df3a5ea
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
@@ -19,39 +19,22 @@ Formats the line spacing of specified paragraphs.
 
 ## Syntax
 
-_expression_.**SetLineSpacing**(**_Rule_**,  **_Spacing_**)
+_expression_.**SetLineSpacing** (_Rule_, _Spacing_)
 
 _expression_ A variable that represents a **[ParagraphFormat](Publisher.ParagraphFormat.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Rule|Required| **PbLineSpacingRule**|The line spacing to use for the specified paragraphs.|
-|Spacing|Optional| **Variant**|The spacing (in points) for the specified paragraphs.|
+|_Rule_|Required| **[PbLineSpacingRule](publisher.pblinespacingrule.md)**|The line spacing to use for the specified paragraphs. Can be one of the **PbLineSpacingRule** constants declared in the Microsoft Publisher type library. |
+|_Spacing_|Optional| **Variant**|The spacing (in [points](../language/glossary/vbe-glossary.md#point)) for the specified paragraphs.|
 
-## Remarks
-
-The Rule parameter can be one of the  **PbLineSpacingRule** constants declared in the Microsoft Publisher type library and shown in the following table.
-
-
-
-|Constant|Description|
-|:-----|:-----|
-| **pbLineSpacing1pt5**|Sets the spacing for specified paragraphs to one-and-a-half lines.|
-| **pbLineSpacingDouble**| Double-spaces the specified paragraphs.|
-| **pbLineSpacingExactly**| Sets the line spacing to exactly the value specified in the Spacing argument, even if a larger font is used within the paragraph.|
-| **pbLineSpacingMixed**| A return value for the **[LineSpacing](Publisher.ParagraphFormat.LineSpacing.md)** property that indicates that line spacing is a combination of values for the specified paragraphs.|
-| **pbLineSpacingMultiple**|Sets the line spacing to the value specified in the Spacing argument.|
-| **pbLineSpacingSingle**|Single spaces the specified paragraphs.|
 
 ## Example
 
 This example sets the line spacing to double.
-
 
 ```vb
 Sub SetLineSpacingForSelection() 

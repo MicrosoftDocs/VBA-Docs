@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.LeftIndent
 ms.assetid: f9cc3a86-d382-92d7-ec24-d13fc5e3d844
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # ParagraphFormat.LeftIndent property (Publisher)
 
-Returns or sets a  **Variant** that represents the left indent value (in points) for the specified paragraphs. Read/write.
+Returns or sets a **Variant** that represents the left indent value (in [points](../language/glossary/vbe-glossary.md#point)) for the specified paragraphs. Read/write.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ Variant
 
 ## Example
 
-This example indents the paragraph at the cursor position 0.5 inch. This example assumes the cursor is in a text box.
-
+This example indents the paragraph at the cursor position 0.5 inch. This example assumes that the cursor is in a text box.
 
 ```vb
 Sub IndentParagraph() 
