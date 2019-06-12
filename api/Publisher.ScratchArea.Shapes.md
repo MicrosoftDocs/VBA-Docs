@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.ScratchArea.Shapes
 ms.assetid: 0d867fec-42f4-fd61-c6c3-745be955e5d2
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
@@ -33,7 +33,6 @@ For information about returning a single member of a collection, see [Returning 
 
 This example adds a rectangle to the first page in the active publication.
 
-
 ```vb
 Sub AddNewRectangle() 
  ActiveDocument.Pages(1).Shapes.AddShape Type:=msoShapeRectangle, _ 
@@ -41,10 +40,9 @@ Sub AddNewRectangle()
 End Sub
 ```
 
-This example sets the fill texture for all the shapes in the active publication. This example assumes there is at least one shape in the active publication.
+<br/>
 
-
-
+This example sets the fill texture for all the shapes in the active publication. This example assumes that there is at least one shape in the active publication.
 
 ```vb
 Sub SetNewTextureForAllShapes() 
@@ -55,10 +53,9 @@ Sub SetNewTextureForAllShapes()
 End Sub
 ```
 
-This example adds a shadow to the first shape in the active publication. This example assumes there is at least one shape in the active publication.
+<br/>
 
-
-
+This example adds a shadow to the first shape in the active publication. This example assumes that there is at least one shape in the active publication.
 
 ```vb
 Sub SetShadowForFirstShape() 
@@ -66,10 +63,9 @@ Sub SetShadowForFirstShape()
 End Sub
 ```
 
-This example displays a count of all shapes on the first page of the active publication. This example assumes there is at least one shape in the active publication.
+<br/>
 
-
-
+This example displays a count of all shapes on the first page of the active publication. This example assumes that there is at least one shape in the active publication.
 
 ```vb
 Sub CountShapesOnFirstPage() 
