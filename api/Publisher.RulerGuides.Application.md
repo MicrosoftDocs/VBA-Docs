@@ -36,6 +36,8 @@ With Application
 End With
 ```
 
+<br/>
+
 This example displays the name of the application that created each linked OLE object on page one of the active publication.
 
 

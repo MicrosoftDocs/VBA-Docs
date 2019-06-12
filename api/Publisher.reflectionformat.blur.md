@@ -5,7 +5,7 @@ f1_keywords:
 - vbapb10.chm9699333
 ms.prod: publisher
 ms.assetid: e74815b0-050c-615a-1981-799489f70e21
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
@@ -24,7 +24,7 @@ _expression_ A variable that represents a **[ReflectionFormat](Publisher.Reflect
 
 ## Return value
 
-**Single**
+Single
 
 
 
