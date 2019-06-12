@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.RulerGuides.Item
 ms.assetid: e0c49279-4fd4-fe61-636c-c29399fdc404
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[RulerGuides](Publisher.RulerGuides.
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |_Item_|Required| **Long**|The number of the object to return.|
@@ -35,7 +33,6 @@ _expression_ A variable that represents a **[RulerGuides](Publisher.RulerGuides.
 ## Example
 
 This example sets the position of the first ruler guide to 3 inches from the edge of the publication.
-
 
 ```vb
 ActiveDocument.Pages(1).RulerGuides _ 
