@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.MasterPages.Count
 ms.assetid: adb14000-5dc4-9154-5c5f-8f63c89309b7
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 

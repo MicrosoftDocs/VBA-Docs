@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.CropLeft
 ms.assetid: f9fd2031-83f7-ea81-84eb-4f1ac6d65082
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # PictureFormat.CropLeft property (Publisher)
 
-Returns or sets a  **Variant** indicating the amount by which the left edge of a picture or OLE object is cropped. Read/write.
+Returns or sets a **Variant** indicating the amount by which the left edge of a picture or OLE object is cropped. Read/write.
 
 
 ## Syntax
@@ -31,31 +31,29 @@ Variant
 
 ## Remarks
 
-Numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+Numeric values are evaluated in [points](../language/glossary/vbe-glossary.md#point); strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
-Negative values crop the bottom edge away from the center of the frame and positive values crop toward the right edge of the frame.
+Negative values crop the bottom edge away from the center of the frame, and positive values crop toward the right edge of the frame.
 
-The valid range of crop values depends on the frame's position and size. For an unrotated frame, the lowest negative value allowed is the distance between the left edge of frame and the left edge of the scratch area. The highest positive value allowed is the current frame width.
+The valid range of crop values depends on the frame's position and size. For an unrotated frame, the lowest negative value allowed is the distance between the left edge of the frame and the left edge of the scratch area. The highest positive value allowed is the current frame width.
 
-Cropping is calculated relative to the original size of the picture. For example, if you insert a picture that is originally 100 points wide, rescale it so that it is 200 points wide, and then set the  **CropLeft** property to 50, 100 points (not 50) will be cropped off the left of your picture.
+Cropping is calculated relative to the original size of the picture. For example, if you insert a picture that is originally 100 points wide, rescale it so that it is 200 points wide, and then set the **CropLeft** property to 50, 100 points (not 50) will be cropped off the left of your picture.
 
-Use the  **[CropRight](Publisher.PictureFormat.CropRight.md)**,  **[CropTop](Publisher.PictureFormat.CropTop.md)**, and  **[CropBottom](Publisher.PictureFormat.CropBottom.md)** properties to crop other edges of a picture or OLE object.
+Use the **[CropRight](Publisher.PictureFormat.CropRight.md)**, **[CropTop](Publisher.PictureFormat.CropTop.md)**, and **[CropBottom](Publisher.PictureFormat.CropBottom.md)** properties to crop other edges of a picture or OLE object.
 
 
 ## Example
 
 This example crops 20 points off the left of the third shape in the active publication. For the example to work, the shape must be either a picture or an OLE object.
 
-
 ```vb
 ActiveDocument.Pages(1).Shapes(3).PictureFormat _ 
  .CropLeft = 20
 ```
 
+<br/>
+
 This example crops the percentage specified by the user off the left of the selected shape, regardless of whether the shape has been scaled. For the example to work, the selected shape must be either a picture or an OLE object.
-
-
-
 
 ```vb
 Dim sngPercent As Single 

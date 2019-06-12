@@ -7,21 +7,21 @@ ms.prod: publisher
 api_name:
 - Publisher.Options.MeasurementUnit
 ms.assetid: 49221e4e-c84a-6706-8f9a-3853283ebb18
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
 
 # Options.MeasurementUnit property (Publisher)
 
-Returns or sets a  **PbUnitType** constant representing the standard measurement unit for Microsoft Publisher. Read/write.
+Returns or sets a **[PbUnitType](publisher.pbunittype.md)** constant representing the standard measurement unit for Microsoft Publisher. Read/write.
 
 
 ## Syntax
 
 _expression_.**MeasurementUnit**
 
-_expression_ A variable that represents a  **Options** object.
+_expression_ A variable that represents an **[Options](Publisher.Options.md)** object.
 
 
 ## Return value
@@ -31,27 +31,18 @@ PbUnitType
 
 ## Remarks
 
-The  **MeasurementUnit** property value can be one of the **PbUnitType** constants declared in the Publisher type library and shown in the following table.
+The **MeasurementUnit** property value can be one of these **PbUnitType** constants declared in the Publisher type library: 
 
+- **pbUnitCM** sets the unit of measurement to centimeters.
+- **pbUnitInch** sets the unit of measurement to inches.
+- **pbUnitPica** sets the unit of measurement to picas.
+- **pbUnitPoint** sets the unit of measurement to [points](../language/glossary/vbe-glossary.md#point).
 
-
-|Constant|Description|
-|:-----|:-----|
-| **pbUnitCM**| Sets the unit of measurement to centimeters.|
-| **pbUnitEmu**| Doesn't apply to this property; returns an error if used..|
-| **pbUnitFeet**|Doesn't apply to this property; returns an error if used.|
-| **pbUnitHa**|Doesn't apply to this property; returns an error if used.|
-| **pbUnitInch**|Sets the unit of measurement to inches.|
-| **pbUnitKyu**| Doesn't apply to this property; returns an error if used.|
-| **pbUnitMeter**.|Doesn't apply to this property; returns an error if used.|
-| **pbUnitPica**|Sets the unit of measurement to picas.|
-| **pbUnitPoint**|Sets the unit of measurement to points.|
-| **pbUnitTwip**|Doesn't apply to this property; returns an error if used.|
+All other measurement unit constants do not apply to this property; if used, they return an error.
 
 ## Example
 
 This example sets the standard measurement unit for Publisher to points.
-
 
 ```vb
 Sub SetUnitOfMeasurement() 
@@ -59,10 +50,9 @@ Sub SetUnitOfMeasurement()
 End Sub
 ```
 
+<br/>
+
 This example displays the current unit of measurement.
-
-
-
 
 ```vb
 Sub GetUnitOfMeasurement() 

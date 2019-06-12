@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.Brightness
 ms.assetid: bed1cd25-faee-6fb9-4bb3-5bdaf148b62e
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # PictureFormat.Brightness property (Publisher)
 
-Returns or sets a  **Single** indicating the brightness of the specified picture or OLE object. The value for this property must be a number from 0.0 (dimmest) to 1.0 (brightest). Read/write.
+Returns or sets a **Single** indicating the brightness of the specified picture or OLE object. The value for this property must be a number from 0.0 (dimmest) to 1.0 (brightest). Read/write.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ Single
 
 ## Remarks
 
-Use the  **[IncrementBrightness](Publisher.PictureFormat.IncrementBrightness.md)** method to incrementally adjust the brightness from its current level.
+Use the **[IncrementBrightness](Publisher.PictureFormat.IncrementBrightness.md)** method to incrementally adjust the brightness from its current level.
 
 
 ## Example
 
 This example sets the brightness for the first shape in the active publication. The shape must be either a picture or an OLE object.
-
 
 ```vb
 ActiveDocument.Pages(1).Shapes(1).PictureFormat _ 

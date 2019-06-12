@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Page.RulerGuides
 ms.assetid: 69605642-7722-0721-cb07-d33689eda9ab
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
 
 # Page.RulerGuides property (Publisher)
 
-Returns a  **[RulerGuides](Publisher.RulerGuides.md)** collection that represents gridlines used to align objects on a page.
+Returns a **[RulerGuides](Publisher.RulerGuides.md)** collection that represents gridlines used to align objects on a page.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ RulerGuides
 ## Example
 
 This example creates horizontal ruler guides and vertical ruler guides every half inch on the first page of the active publication.
-
 
 ```vb
 Sub SetRulerGuides() 

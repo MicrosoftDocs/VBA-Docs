@@ -3,7 +3,7 @@ title: VBE Glossary
 ms.prod: office
 ms.assetid: b8bdf64f-5920-1ae9-16d0-b26d09524a30
 description: Glossary of terms for Visual Basic Editor (VBE).
-ms.date: 04/30/2019
+ms.date: 06/11/2019
 localization_priority: Priority
 ---
 
@@ -583,11 +583,6 @@ A type of object exposed by an application through Automation, for example, **Ap
 ## object variable
 
 A variable that contains a reference to an object.
-
-
-## Automation object
-
-An object that is exposed to other applications or programming tools through Automation interfaces.
 
 
 ## parameter

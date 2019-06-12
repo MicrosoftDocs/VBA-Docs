@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.TextStyle
 ms.assetid: 8495c9c8-387e-a2e8-26cb-08f660dde985
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # ParagraphFormat.TextStyle property (Publisher)
 
-Returns or sets a  **Variant** that represents the text style applied to a paragraph. Read/write.
+Returns or sets a **Variant** that represents the text style applied to a paragraph. Read/write.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ Variant
 
 ## Example
 
-This example changes the text style of the selection if the selection isn't formatted with the Normal text style. This example assumes text is selected in the active publication.
-
+This example changes the text style of the selection if the selection isn't formatted with the Normal text style. This example assumes that text is selected in the active publication.
 
 ```vb
 Sub SetTextStyle() 

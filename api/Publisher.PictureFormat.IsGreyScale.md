@@ -7,21 +7,21 @@ ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.IsGreyScale
 ms.assetid: 1f8308c1-353e-2aac-9b4b-fad300a89b97
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # PictureFormat.IsGreyScale property (Publisher)
 
-Returns a  **MsoTriState** constant that indicates whether the picture is a greyscale image. Read-only.
+Returns an **[MsoTriState](office.msotristate.md)** constant that indicates whether the picture is a greyscale image. Read-only.
 
 
 ## Syntax
 
 _expression_.**IsGreyScale**
 
-_expression_ A variable that represents an  **PictureFormat** object.
+_expression_ A variable that represents a **[PictureFormat](Publisher.PictureFormat.md)** object.
 
 
 ## Return value
@@ -31,20 +31,17 @@ MsoTriState
 
 ## Remarks
 
-The  **IsGreyScale** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
-
-
+The **IsGreyScale** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 |Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The picture is not a greyscale image.|
-| **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateMixed**|Indicates a combination of **msoTrue** and **msoFalse** for the specified shape range.|
 | **msoTrue**|The specified picture is a greyscale image.|
 
 ## Example
 
 The following example returns a list of the greyscale pictures contained in the active publication.
-
 
 ```vb
 Sub ListGreyScalePictures() 

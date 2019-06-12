@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Page.Background
 ms.assetid: 1bba32dc-0e7e-40ca-0f29-b67be6be518d
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
 
 # Page.Background property (Publisher)
 
-Sets or returns a  **PageBackground** object representing the background of the specified page.
+Sets or returns a **[PageBackground](publisher.pagebackground.md)** object representing the background of the specified page.
 
 
 ## Syntax
@@ -36,8 +36,7 @@ This property is for publication pages only. Any attempt to create a background 
 
 ## Example
 
-The following example creates a  **PageBackground** object and sets it to the background of the first page of the active document.
-
+The following example creates a **PageBackground** object and sets it to the background of the first page of the active document.
 
 ```vb
 Dim objPageBackground As PageBackground 

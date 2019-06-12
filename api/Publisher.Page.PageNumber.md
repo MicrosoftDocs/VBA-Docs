@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Page.PageNumber
 ms.assetid: 670e3f46-9cad-b85e-b627-3be8c7c4e577
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
 
 # Page.PageNumber property (Publisher)
 
-Returns a  **String** that represents the current page number. Read-only.
+Returns a **String** that represents the current page number. Read-only.
 
 
 ## Syntax

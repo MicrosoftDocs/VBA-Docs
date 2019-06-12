@@ -4,7 +4,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Field.FieldType
 ms.assetid: 9574f59b-a03f-ab0b-a2ac-085f31473f78
-ms.date: 06/07/2019
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 

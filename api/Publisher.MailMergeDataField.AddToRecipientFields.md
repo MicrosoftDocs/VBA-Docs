@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataField.AddToRecipientFields
 ms.assetid: eaf365f0-a9f4-c6e2-1267-d0a31b5934ce
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
 
 # MailMergeDataField.AddToRecipientFields method (Publisher)
 
-Adds the parent  **MailMergeDataField** object from a particular data source to the master data source (collection of data fields) for a mail-merge publication.
+Adds the parent **MailMergeDataField** object from a particular data source to the master data source (collection of data fields) for a mail-merge publication.
 
 
 ## Syntax
@@ -26,19 +26,17 @@ _expression_ A variable that represents a **[MailMergeDataField](Publisher.MailM
 
 ## Remarks
 
-This method works only if the parent  **MailMergeDataField** object has not already been mapped to a recipient field. You can use the **[IsMapped](Publisher.MailMergeDataField.IsMapped.md)** property of the **MailMergeDataField** object to determine if the object has already been mapped.
+This method works only if the parent **MailMergeDataField** object has not already been mapped to a recipient field. You can use the **[IsMapped](Publisher.MailMergeDataField.IsMapped.md)** property to determine if the object has already been mapped.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **AddToRecipientFields** method to add a data field (column) in a particular data source to the master data source (combined recipient list) for the publication.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **AddToRecipientFields** method to add a data field (column) in a particular data source to the master data source (combined recipient list) for the publication.
 
-Before running this macro, replace  _datasourceindex_ with the index number of a valid data source in the data source collection of the active document, and replace _fieldname_ with the name of the field in the data source that you want to add to the combined list of recipient fields.
+Before running this macro, replace `datasourceindex` with the index number of a valid data source in the data source collection of the active document, and replace `fieldname` with the name of the field in the data source that you want to add to the combined list of recipient fields.
 
-See the  **[Item](Publisher.MailMergeDataSources.Item.md)** method topic for an example of how you can use the **Name** property of the **DataSource** object to determine the index number of the data source you want.
-
-
-
+> [!NOTE] 
+> For an example of how you can use the **Name** property of the **DataSource** object to determine the index number of the data source that you want, see the **[MailMergeDataSources.Item](Publisher.MailMergeDataSources.Item.md)** method.
 
 ```vb
 Public Sub AddToRecipientFields_Example() 

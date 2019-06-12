@@ -7,21 +7,21 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.Included
 ms.assetid: 1cdac925-5fd6-e1d0-4612-0641e6057a7e
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
 
 # MailMergeDataSource.Included property (Publisher)
 
- **True** if a record is included in a mail merge. Read/write **Boolean**.
+**True** if a record is included in a mail merge. Read/write **Boolean**.
 
 
 ## Syntax
 
 _expression_.**Included**
 
-_expression_ A variable that represents an  **MailMergeDataSource** object.
+_expression_ A variable that represents a **[MailMergeDataSource](Publisher.MailMergeDataSource.md)** object.
 
 
 ## Return value
@@ -31,7 +31,7 @@ Boolean
 
 ## Remarks
 
-Use the  **[SetAllIncludedFlags](Publisher.MailMergeDataSource.SetAllIncludedFlags.md)** method to set the included status for all mail merge records.
+Use the **[SetAllIncludedFlags](Publisher.MailMergeDataSource.SetAllIncludedFlags.md)** method to set the included status for all mail merge records.
 
 
 ## Example

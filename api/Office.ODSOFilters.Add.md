@@ -31,7 +31,7 @@ _expression_ Required. A variable that represents an **[ODSOFilters](Office.ODSO
 | _Column_|Required|**String**|The name of the table in the data source.|
 | _Comparison_|Required|**[MsoFilterComparison](office.msofiltercomparison.md)**|How the data in the table is filtered.|
 | _Conjunction_|Required|**[MsoFilterConjunction](office.msofilterconjunction.md)**|Determines how this filter relates to other filters in the **ODSOFilters** object.|
-| _bstrCompareTo_|Optional|**String**|If the  _Comparison_ argument is something other than **msoFilterComparisonIsBlank** or **msoFilterComparisonIsNotBlank**, a string to which the data in the table is compared.|
+| _bstrCompareTo_|Optional|**String**|If the _Comparison_ argument is something other than **msoFilterComparisonIsBlank** or **msoFilterComparisonIsNotBlank**, _bstrCompareTo_ is a string to which the data in the table is compared.|
 | _DeferUpdate_|Optional|**Boolean**|Specifies whether to delay updating the filter. Default is **False**.|
 
 ## See also

@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.RecordCount
 ms.assetid: 56b929bf-9b7f-dd83-98b7-35bf96028732
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
@@ -31,8 +31,9 @@ Long
 
 ## Example
 
-This example validates ZIP Codes in the attached data source for five digits. If the length of the ZIP Code is fewer than five digits, the record is excluded from the mail merge process. This example assumes the postal codes are U.S. ZIP Codes. You could modify this example to search for ZIP Codes that have a 4-digit locator code appended to the ZIP Code, and then exclude all records that do not contain the locator code.
+This example validates ZIP Codes in the attached data source for five digits. If the length of the ZIP Code is fewer than five digits, the record is excluded from the mail merge process. 
 
+This example assumes that the postal codes are U.S. ZIP Codes. You could modify this example to search for ZIP Codes that have a 4-digit locator code appended to the ZIP Code, and then exclude all records that do not contain the locator code.
 
 ```vb
 Sub Validate 

@@ -7,21 +7,21 @@ ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.IsEmpty
 ms.assetid: 493cbb8f-e069-14a9-a827-7f7631eb3a09
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # PictureFormat.IsEmpty property (Publisher)
 
-Returns a  **MsoTriState** constant that represents whether the specified shape is an empty picture frame. Read-only.
+Returns an **[MsoTriState](office.msotristate.md)** constant that represents whether the specified shape is an empty picture frame. Read-only.
 
 
 ## Syntax
 
 _expression_.**IsEmpty**
 
-_expression_ A variable that represents an  **PictureFormat** object.
+_expression_ A variable that represents a **[PictureFormat](Publisher.PictureFormat.md)** object.
 
 
 ## Return value
@@ -31,20 +31,17 @@ MsoTriState
 
 ## Remarks
 
-The  **IsEmpty** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
-
-
+The **IsEmpty** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 |Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The specified shape is not an empty picture frame.|
-| **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateMixed**|Indicates a combination of **msoTrue** and **msoFalse** for the specified shape range.|
 | **msoTrue**|The specified shape is an empty picture frame.|
 
 ## Example
 
 The following example tests each picture in the active publication, and if it is not an empty picture frame, prints selected image properties for the picture.
-
 
 ```vb
 Dim pgLoop As Page 
@@ -70,7 +67,6 @@ For Each pgLoop In ActiveDocument.Pages
  Next shpLoop 
 Next pgLoop 
  
-
 ```
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

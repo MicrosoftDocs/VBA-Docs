@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Attachments.Application property (Publisher)
 
-Returns an **Application** object that represents the creator of the parent **Attachments** collection. Read-only.
+Returns an **[Application](Publisher.Application.md)** object that represents the creator of the parent **Attachments** collection. Read-only.
 
 
 ## Syntax
@@ -29,9 +29,5 @@ _expression_ A variable that represents an **[Attachments](Publisher.Attachments
 Application
 
 
-## See also
-
-
- [Attachments Collection](Publisher.Attachments.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

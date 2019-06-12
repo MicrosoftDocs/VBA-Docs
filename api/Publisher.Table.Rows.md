@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Table](Publisher.Table.md)** object
 
 ## Remarks
 
-For information about returning a single member of a collection, see  [Returning an Object from a Collection](../publisher/Concepts/returning-an-object-from-a-collection-publisher.md).
+For information about returning a single member of a collection, see [Returning an object from a collection](../publisher/concepts/returning-an-object-from-a-collection-publisher.md).
 
 
 ## Example

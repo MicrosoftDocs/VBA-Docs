@@ -57,7 +57,9 @@ End Sub
 ```
 
 > [!NOTE] 
-> For `TableName`, if an Excel spreadsheet is being opened, `TableName` must be followed by `$`. That is, `bstrTable:="Sheet1"` will not work. `bstrTable:="Sheet1$"` will work. Following is an example that further clarifies this.
+> For `TableName`, if an Excel spreadsheet is being opened, `TableName` must be followed by `$`. That is, `bstrTable:="Sheet1"` will not work; `bstrTable:="Sheet1$"` will work. Following is an example that further clarifies this.
+
+<br/>
 
 In this example, the data is stored in MySpreadSheet.xlsx, Sheet1, in the same directory as the Publisher file.
 

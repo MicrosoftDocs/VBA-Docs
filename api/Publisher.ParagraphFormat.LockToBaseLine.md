@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.LockToBaseLine
 ms.assetid: 4430bab6-a338-e61d-681c-6063d4a5c3b3
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # ParagraphFormat.LockToBaseLine property (Publisher)
 
-Returns an  **MsoTristate** that represents whether or not text will be positioned along baseline guides. Read/write.
+Returns an **[MsoTriState](office.msotristate.md)** constant that represents whether text is positioned along baseline guides. Read/write.
 
 
 ## Syntax
@@ -31,9 +31,7 @@ MsoTristate
 
 ## Remarks
 
-The  **LockToBaseLine** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
-
-
+The **LockToBaseLine** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 |Constant|Description|
 |:-----|:-----|
@@ -43,8 +41,7 @@ The  **LockToBaseLine** property value can be one of the **MsoTriState** constan
 
 ## Example
 
-The following example sets the  **LockToBaseLine** property to **True**.
-
+The following example sets the **LockToBaseLine** property to **True**.
 
 ```vb
 Dim objParaForm As ParagraphFormat 

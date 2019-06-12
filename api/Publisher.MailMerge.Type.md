@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailMerge.Type property (Publisher)
 
-Gets or sets the type of mail merge represented by the parent **MailMerge** object. Read/write.
+Gets or sets the type of mail merge represented by the parent **MailMerge** object. Read/write **[PbMergeType](publisher.pbmergetype.md)**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ An expression that returns a **[MailMerge](Publisher.MailMerge.md)*
 
 ## Return value
 
-**[PbMergeType](publisher.pbmergetype.md)**
+PbMergeType
 
 
 ## Remarks

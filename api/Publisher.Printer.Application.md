@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Printer.Application property (Publisher)
 
-Returns an **Application** object that represents the creator of the parent **Printer** object. Read-only.
+Returns an **[Application](Publisher.Application.md)** object that represents the creator of the parent **Printer** object. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Printer](Publisher.Printer.md)** ob
 
 ## Return value
 
-**Application**
+Application
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

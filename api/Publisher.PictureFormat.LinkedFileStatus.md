@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.LinkedFileStatus
 ms.assetid: 43ddffe3-9cc3-b102-c5e8-80f26f63849c
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # PictureFormat.LinkedFileStatus property (Publisher)
 
-Returns a  **PbLinkedFileStatus** constant that indicates the status of the file linked to the specified picture. Read-only.
+Returns a **[PbLinkedFileStatus](publisher.pblinkedfilestatus.md)** constant that indicates the status of the file linked to the specified picture. Read-only.
 
 
 ## Syntax
@@ -35,20 +35,16 @@ This property only applies to linked picture files. It returns "Permission Denie
 
 Use either of the following properties to determine whether a shape represents a linked picture:
 
-
--  The **[Type](Publisher.Shape.Type.md)** property of the **[Shape](Publisher.Shape.md)** object
-    
-- The  **[IsLinked](Publisher.PictureFormat.IsLinked.md)** property of the **[PictureFormat](Publisher.PictureFormat.md)** object
+- The **[Type](Publisher.Shape.Type.md)** property of the **Shape** object   
+- The **[IsLinked](Publisher.PictureFormat.IsLinked.md)** property of the **PictureFormat** object
     
 
-
-The  **LinkedFileStatus** property value can be one of the **[PbLinkedFileStatus](Publisher.PbLinkedFileStatus.md)** constants declared in the Microsoft Publisher type library.
+The **LinkedFileStatus** property value can be one of the **PbLinkedFileStatus** constants declared in the Microsoft Publisher type library.
 
 
 ## Example
 
 The following example generates a list of the linked pictures in the active publication for which the linked files cannot be found.
-
 
 ```vb
 Dim pgLoop As Page 

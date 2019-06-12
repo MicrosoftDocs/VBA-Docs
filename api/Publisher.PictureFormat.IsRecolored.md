@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.IsRecolored
 ms.assetid: 76bfbcfe-6a98-8c82-cc0a-041665aa98e6
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # PictureFormat.IsRecolored property (Publisher)
 
-Returns  **True** if the image represented by the parent **PictureFormat** object has been recolored, either in the user interface or by using the **[PictureFormat.Recolor](Publisher.PictureFormat.Recolor.md)** method. Read-only.
+Returns **True** if the image represented by the parent **PictureFormat** object has been recolored, either in the user interface or by using the **[Recolor](Publisher.PictureFormat.Recolor.md)** method. Read-only.
 
 
 ## Syntax
@@ -26,6 +26,7 @@ _expression_ A variable that represents a **[PictureFormat](Publisher.PictureFor
 
 ## Return value
 
-MsoTriState
+**[MsoTriState](office.msotristate.md)**
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

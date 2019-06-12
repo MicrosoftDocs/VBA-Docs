@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.PageBackground.Fill
 ms.assetid: bb5226aa-0b47-0d0f-1310-5abb34999910
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # PageBackground.Fill property (Publisher)
 
- Returns a **[FillFormat](Publisher.FillFormat.md)** object representing the fill for the specified shape or table cell.
+Returns a **[FillFormat](Publisher.FillFormat.md)** object representing the fill for the specified shape or table cell.
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[PageBackground](Publisher.PageBackg
 
 ## Example
 
-This example creates a new  **AutoShape** object and fills the shape with green.
-
+This example creates a new AutoShape object and fills the shape with green.
 
 ```vb
 Sub NewShapeItem() 

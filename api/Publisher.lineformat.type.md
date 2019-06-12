@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # LineFormat.Type property (Publisher)
 
-Returns the line fill-format type. Read-only.
+Returns the line fill-format type. Read-only **[MsoLineFillType](overview/library-reference/msolinefilltype-enumeration-office.md)**.
 
 
 ## Syntax
@@ -24,7 +24,7 @@ _expression_ A variable that represents a **[LineFormat](Publisher.LineFormat.md
 
 ## Return value
 
-**[MsoLineFillType](overview/library-reference/msolinefilltype-enumeration-office.md)**
+MsoLineFillType
 
 
 

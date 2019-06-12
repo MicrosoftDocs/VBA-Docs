@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.PhoneticGuide.FontSize
 ms.assetid: 48b225d5-2428-e292-99e1-1b6288fba4f3
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # PhoneticGuide.FontSize property (Publisher)
 
-Returns a  **Variant** that represents the font size of phonetic characters. Read-only.
+Returns a **Variant** that represents the font size of phonetic characters. Read-only.
 
 
 ## Syntax
@@ -22,5 +22,7 @@ Returns a  **Variant** that represents the font size of phonetic characters. Rea
 _expression_.**FontSize**
 
 _expression_ A variable that represents a **[PhoneticGuide](Publisher.PhoneticGuide.md)** object.
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

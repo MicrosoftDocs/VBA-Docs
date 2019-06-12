@@ -47,14 +47,14 @@ End Sub
 ## Properties
 
 - [Application](Publisher.ShadowFormat.Application.md)
-- [Blur](Publisher.shadowformat.blur.md)
+- [Blur](Publisher.ShadowFormat.Blur.md)
 - [ForeColor](Publisher.ShadowFormat.ForeColor.md)
 - [Obscured](Publisher.ShadowFormat.Obscured.md)
-- [OffsetX](Publisher.PictureFormat.OffsetX.md)
-- [OffsetY](Publisher.PictureFormat.OffsetY.md)
+- [OffsetX](Publisher.ShadowFormat.OffsetX.md)
+- [OffsetY](Publisher.ShadowFormat.OffsetY.md)
 - [Parent](Publisher.ShadowFormat.Parent.md)
 - [RotateWithShape](Publisher.shadowformat.rotatewithshape.md)
-- [Size](Publisher.shadowformat.size.md)
+- [Size](Publisher.ShadowFormat.Size.md)
 - [Type](Publisher.ShadowFormat.Type.md)
 - [Visible](Publisher.ShadowFormat.Visible.md)
 

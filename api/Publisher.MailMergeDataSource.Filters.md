@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.Filters
 ms.assetid: 7b8fa974-08e5-9691-c69d-314eb6a5c651
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
 
 # MailMergeDataSource.Filters property (Publisher)
 
-Returns a  **[MailMergeFilters](Publisher.MailMergeFilters.md)** object that represents filters applied to the mail merge or catalog merge data source.
+Returns a **[MailMergeFilters](Publisher.MailMergeFilters.md)** object that represents filters applied to the mail merge or catalog merge data source.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ MailMergeFilters
 ## Example
 
 This example adds a new filter that removes all records with a blank Region field and then applies the filter to the active publication. This example assumes that a mail merge data source is attached to the active publication.
-
 
 ```vb
 Sub FilterDataSource() 

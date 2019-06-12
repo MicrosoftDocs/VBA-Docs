@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.OpenRecipientsDialog
 ms.assetid: 5a0a2b4a-ce23-435c-6e18-f778d6e14fd6
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
 
 # MailMergeDataSource.OpenRecipientsDialog method (Publisher)
 
-Displays the  **Recipients** dialog box for a mail merge publication.
+Displays the **Recipients** dialog box for a mail merge publication.
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[MailMergeDataSource](Publisher.Mail
 
 ## Example
 
-This example displays the  **Mail Merge Recipients** dialog box.
-
+This example displays the **Mail Merge Recipients** dialog box.
 
 ```vb
 Sub ShowRecipientsDialog() 

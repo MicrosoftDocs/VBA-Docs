@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.PageSize.Parent
 ms.assetid: 3a141bb0-9fd7-3522-7ea2-0a51fe2a6b10
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # PageSize.Parent property (Publisher)
 
-Returns the parent of the  **[PageSize](Publisher.PageSizes.md)** object. Read-only.
+Returns the parent of the **PageSize** object. Read-only.
 
 
 ## Syntax
@@ -27,5 +27,6 @@ _expression_ A variable that represents a **[PageSize](Publisher.PageSize.md)** 
 ## Return value
 
 Object
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

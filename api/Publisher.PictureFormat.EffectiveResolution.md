@@ -7,21 +7,21 @@ ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.EffectiveResolution
 ms.assetid: 33e5323f-5e10-b2ed-62eb-03ecbbb1e893
-ms.date: 06/08/2017
+ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
 # PictureFormat.EffectiveResolution property (Publisher)
 
-Returns a  **Long** that represents, in dots per inch (dpi), the effective resolution of the picture. Read-only.
+Returns a **Long** that represents, in dots per inch (dpi), the effective resolution of the picture. Read-only.
 
 
 ## Syntax
 
 _expression_.**EffectiveResolution**
 
-_expression_ A variable that represents an  **PictureFormat** object.
+_expression_ A variable that represents a **[PictureFormat](Publisher.PictureFormat.md)** object.
 
 
 ## Return value
@@ -33,7 +33,9 @@ Long
 
 The effective resolution of a picture is inversely proportional to the scaling at which the picture is printed. The larger the scaling, the lower the effective resolution. For example, suppose a picture measuring 4 inches by 4 inches was originally scanned at 300 dpi. If that picture is scaled to 2 inches by 2 inches, its effective resolution is 600 dpi.
 
-Use the  **[OriginalResolution](Publisher.PictureFormat.OriginalResolution.md)** property of the **[PictureFormat](Publisher.PictureFormat.md)** object to determine the resolution of linked pictures or OLE objects. Use the **[HorizontalScale](Publisher.PictureFormat.HorizontalScale.md)** and **[VerticalScale](Publisher.PictureFormat.VerticalScale.md)** properties to determine the scaling of a picture.
+Use the **[OriginalResolution](Publisher.PictureFormat.OriginalResolution.md)** property to determine the resolution of linked pictures or OLE objects. 
+
+Use the **[HorizontalScale](Publisher.PictureFormat.HorizontalScale.md)** and **[VerticalScale](Publisher.PictureFormat.VerticalScale.md)** properties to determine the scaling of a picture.
 
 
 ## Example

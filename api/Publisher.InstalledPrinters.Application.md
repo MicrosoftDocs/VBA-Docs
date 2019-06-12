@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # InstalledPrinters.Application property (Publisher)
 
-Returns an **Application** object that represents the creator of the parent **InstalledPrinters** object. Read-only.
+Returns an **[Application](Publisher.Application.md)** object that represents the creator of the parent **InstalledPrinters** object. Read-only.
 
 
 ## Syntax

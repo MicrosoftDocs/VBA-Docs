@@ -7,21 +7,21 @@ ms.prod: publisher
 api_name:
 - Publisher.Page.IsWizardPage
 ms.assetid: 09c1352d-6760-ad54-aa95-211727c968b3
-ms.date: 06/08/2017
+ms.date: 06/11/2019
 localization_priority: Normal
 ---
 
 
 # Page.IsWizardPage property (Publisher)
 
-Returns  **True** if the specified page is a Microsoft Publisher wizard page. Read-only **Boolean**.
+Returns **True** if the specified page is a Microsoft Publisher wizard page. Read-only **Boolean**.
 
 
 ## Syntax
 
 _expression_.**IsWizardPage**
 
-_expression_ A variable that represents an  **Page** object.
+_expression_ A variable that represents a **[Page](Publisher.Page.md)** object.
 
 
 ## Return value
@@ -33,13 +33,12 @@ Boolean
 
 Wizard pages are special page types for certain types of Publisher wizards (such as Newsletters, Catalogs, and Web Wizards) that can be inserted into a publication.
 
-Use the  **[Wizard](Publisher.Page.Wizard.md)** property of the **[Page](Publisher.Page.md)** object to access the wizard for the specified page.
+Use the **[Wizard](Publisher.Page.Wizard.md)** property of the **Page** object to access the wizard for the specified page.
 
 
 ## Example
 
 The following example tests to determine whether the specified page is a wizard page. If it is, certain wizard properties are returned.
-
 
 ```vb
  With ActiveDocument.Pages(1) 

@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[ShadowFormat](Publisher.ShadowForma
 
 ## Remarks
 
-Use the  **[OffsetY](Publisher.PictureFormat.OffsetY.md)** property to set the absolute vertical shadow offset.
+Use the  **[OffsetY](Publisher.ShadowFormat.OffsetY.md)** property to set the absolute vertical shadow offset.
 
 Use the  **[IncrementOffsetX](Publisher.ShadowFormat.IncrementOffsetX.md)** method to change a shadow's horizontal offset.
 

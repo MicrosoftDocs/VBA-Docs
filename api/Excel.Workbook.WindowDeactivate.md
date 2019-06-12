@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Wn_|Required| **Window**|The deactivated window.|
+| _Wn_|Required| **[Window](Excel.Window.md)**|The deactivated window.|
 
 
 

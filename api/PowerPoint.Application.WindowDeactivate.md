@@ -26,8 +26,6 @@ _expression_ A variable that represents an **[Application](PowerPoint.Applicatio
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Pres_|Required|**Presentation**|The presentation displayed in the deactivated window.|
