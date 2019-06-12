@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Printer.IsActivePrinter
 ms.assetid: 578fc5d4-2601-66db-cdec-657814756e29
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Printer.IsActivePrinter property (Publisher)
 
-Gets or sets the printer represented by the parent  **[Printer](Publisher.Printer.md)** object as the active printer. Read/write.
+Gets or sets the printer represented by the parent **Printer** object as the active printer. Read/write.
 
 
 ## Syntax

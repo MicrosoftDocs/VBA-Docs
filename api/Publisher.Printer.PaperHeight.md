@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Printer.PaperHeight
 ms.assetid: 2c97adb8-0a24-c375-6105-375b203d5640
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Printer.PaperHeight property (Publisher)
 
-Gets or sets the height of the printed page in points. Read/write.
+Gets or sets the height of the printed page in [points](../language/glossary/vbe-glossary.md#point). Read/write.
 
 
 ## Syntax

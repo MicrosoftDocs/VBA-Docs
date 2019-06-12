@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Width property (Publisher)
 
-Returns or sets a  **Variant** that represents the width (in points) of a specified table column or shape. Read/write.
+Returns or sets a  **Variant** that represents the width (in [points](../language/glossary/vbe-glossary.md#point)) of a specified table column or shape. Read/write.
 
 
 ## Syntax

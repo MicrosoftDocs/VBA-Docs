@@ -12,7 +12,7 @@ localization_priority: Normal
 # PrintablePlate object (Publisher)
 
 > [!NOTE] 
-> This object or member is deprecated and is not intended to be used in your code.
+> This object is deprecated and is not intended to be used in your code.
 
 ## See also
 

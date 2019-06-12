@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeRange.Width property (Publisher)
 
-Returns a  **Variant** that represents the width (in points) of a specified range of shapes. Read-only.
+Returns a  **Variant** that represents the width (in [points](../language/glossary/vbe-glossary.md#point)) of a specified range of shapes. Read-only.
 
 
 ## Syntax

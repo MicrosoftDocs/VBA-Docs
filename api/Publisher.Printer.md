@@ -68,7 +68,7 @@ End Sub
 - [Parent](Publisher.Printer.Parent.md)
 - [PrintableRect](Publisher.Printer.PrintableRect.md)
 - [PrinterName](Publisher.Printer.PrinterName.md)
-- [PrintMode](Publisher.Printer.Printer.PrintMode.md)
+- [PrintMode](Publisher.Printer.PrintMode.md)
 
 ## See also
 

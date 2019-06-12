@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Printer.PaperOrientation
 ms.assetid: f57986b6-e6c4-7a47-af93-56036d667240
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
@@ -31,8 +31,9 @@ PbOrientationType
 
 ## Remarks
 
-Possible values for  **PaperOrientation** are **pbOrientationLandscape** (2) and **pbOrientationPortrait** (1).
+Possible values for the **PaperOrientation** property are declared in the **[PbOrientationType](publisher.pborientationtype.md)** enumeration.
 
-The  **PaperOrientation** property setting corresponds to the **Orientation** setting on the **Publication and Paper Settings** tab of the **Print Setup** dialog box (**File** menu) in the Microsoft Publisher user interface.
+
+The **PaperOrientation** property setting corresponds to the **Orientation** setting on the **Publication and Paper Settings** tab of the **Print Setup** dialog box (**File** menu) in the Microsoft Publisher user interface.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
