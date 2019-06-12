@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Rows.Item
 ms.assetid: c91a6253-6130-be2f-4e93-29de44b5055c
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Rows.Item method (Publisher)
 
-Returns an individual object in a specified collection.
+Returns an individual **[Row](Publisher.Row.md)** object in the **Rows** collection.
 
 
 ## Syntax
@@ -25,8 +25,6 @@ _expression_ A variable that represents a **[Rows](Publisher.Rows.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

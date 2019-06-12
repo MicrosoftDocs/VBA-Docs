@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Row.Cells
 ms.assetid: 2a866890-d564-b9bc-c553-06669f376788
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Row.Cells property (Publisher)
 
-Returns a  **[CellRange](Publisher.CellRange.md)** object that represents the cell or cells in row of a table.
+Returns a **[CellRange](Publisher.CellRange.md)** object that represents the cell or cells in a row of a table.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[Row](Publisher.Row.md)** object.
 
 This example merges the first and second cells in the first column of the specified table.
 
-
 ```vb
 Sub MergeCell() 
  With ActiveDocument.Pages(1).Shapes(2).Table.Columns(1) 
@@ -37,10 +36,9 @@ Sub MergeCell()
 End Sub
 ```
 
+<br/>
+
 This example applies a thick border outline to the first cell in the second column of the specified table.
-
-
-
 
 ```vb
 Sub OutlineBorderCell() 
