@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Plate.Color
 ms.assetid: 4c4897f5-90bb-cb84-e9b8-47df1a912916
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Plate.Color property (Publisher)
 
-Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object representing the color information for the specified object.
+Returns a **[ColorFormat](Publisher.ColorFormat.md)** object representing the color information for the specified object.
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[Plate](Publisher.Plate.md)** object
 
 ## Example
 
-This example tests the font color of the first story in the active document and tells the user if the font color is black or not.
-
+This example tests the font color of the first story in the active document and tells the user whether the font color is black.
 
 ```vb
 Sub FontColor() 

@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Plates.FindPlateByInkName
 ms.assetid: 4ebbc826-468b-7cd7-806e-056e4cbb488c
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Plates.FindPlateByInkName method (Publisher)
 
-Returns a **Plate** object that represents the plate of the specified ink name.
+Returns a **[Plate](Publisher.Plate.md)** object that represents the plate of the specified ink name.
 
 
 ## Syntax
