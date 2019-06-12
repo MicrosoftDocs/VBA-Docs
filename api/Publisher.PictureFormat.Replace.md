@@ -7,48 +7,40 @@ ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.Replace
 ms.assetid: b2bce79a-5c46-1473-601d-a4a25176edeb
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # PictureFormat.Replace method (Publisher)
 
-Replaces the specified picture. Returns  **Nothing**.
+Replaces the specified picture. Returns **Nothing**.
 
 
 ## Syntax
 
-_expression_.**Replace**(**_Pathname_**,  **_InsertAs_**)
+_expression_.**Replace** (_PathName_, _InsertAs_)
 
 _expression_ A variable that represents a **[PictureFormat](Publisher.PictureFormat.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Pathname|Required| **String**|The name and path of the file with which you want to replace the specified picture.|
-|InsertAs|Optional| **PbPictureInsertAs**|The manner in which you want the picture file inserted into the document: linked or embedded.|
+|_PathName_|Required| **String**|The name and path of the file with which you want to replace the specified picture.|
+|_InsertAs_|Optional| **[PbPictureInsertAs](publisher.pbpictureinsertas.md)**|The manner in which you want the picture file inserted into the document: linked or embedded. Can be one of the **PbPictureInsertAs** constants declared in the Microsoft Publisher type library; the default value is **pbPictureInsertAsOriginalState**.|
 
 ## Remarks
 
-Use the  **Replace** method to update linked picture files that have been modified since they were inserted into the document. Use the **[LinkedFileStatus](Publisher.PictureFormat.LinkedFileStatus.md)** property of the **[PictureFormat](Publisher.PictureFormat.md)** object to determine if a linked picture has been modified.
+Use the **Replace** method to update linked picture files that have been modified since they were inserted into the document. 
 
-The InsertAs parameter can be one of the following  **PbPictureInsertAs** constants declared in the Microsoft Publisher type library. the default value is **pbPictureInsertAsOriginalState**.
+Use the **[LinkedFileStatus](Publisher.PictureFormat.LinkedFileStatus.md)** property to determine if a linked picture has been modified.
 
-
-
-| **pbPictureInsertAsEmbedded**|
-| **pbPictureInsertAsLinked**|
-| **pbPictureInsertAsOriginalState**|
 
 ## Example
 
 The following example replaces every occurrence of a specific picture in the active publication with another picture.
-
 
 ```vb
 Sub ReplaceLogo() 
@@ -80,10 +72,9 @@ Next pgLoop
 End Sub
 ```
 
+<br/>
+
 This example tests each linked picture to determine if the linked file has been modified since it was inserted into the publication. If it has, the picture is updated by replacing the file with itself.
-
-
-
 
 ```vb
 Sub UpdateModifiedLinkedPictures() 

@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.OriginalColorsInPalette
 ms.assetid: 87c67430-1a5a-47f7-822f-6af8783f73b3
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # PictureFormat.OriginalColorsInPalette property (Publisher)
 
-Returns a  **Long** that represents the number of colors in the specified linked picture's palette. Read-only.
+Returns a **Long** that represents the number of colors in the specified linked picture's palette. Read-only.
 
 
 ## Syntax
@@ -31,24 +31,19 @@ Long
 
 ## Remarks
 
-This property only applies to linked pictures or OLE objects that are not TrueColor (that is, they contain color data of less than 24 bits per channel.) Returns "Permission Denied" for shapes representing embedded or pasted pictures and OLE objects, or linked pictures that are TrueColor.
+This property only applies to linked pictures or OLE objects that are not TrueColor (that is, they contain color data of less than 24 bits per channel). Returns "Permission Denied" for shapes representing embedded or pasted pictures and OLE objects, or linked pictures that are TrueColor.
 
 Use either of the following properties to determine whether a shape represents a linked picture:
 
-
--  The **[Type](Publisher.Shape.Type.md)** property of the **[Shape](Publisher.Shape.md)** object
+- The **[Type](Publisher.Shape.Type.md)** property of the **Shape** object   
+- The **[IsLinked](Publisher.PictureFormat.IsLinked.md)** property of the **PictureFormat** object
     
-- The  **[IsLinked](Publisher.PictureFormat.IsLinked.md)** property of the **[PictureFormat](Publisher.PictureFormat.md)** object
-    
-
-
-Use the  **[OriginalIsTrueColor](Publisher.PictureFormat.OriginalIsTrueColor.md)** property to determine whether a linked picture contains color data of 24 bits per channel or greater.
+Use the **[OriginalIsTrueColor](Publisher.PictureFormat.OriginalIsTrueColor.md)** property to determine whether a linked picture contains color data of 24 bits per channel or greater.
 
 
 ## Example
 
 The following example returns a list of all pictures in the active publication that are not TrueColor. The number of colors in each picture's palette is returned, and if the picture is linked and the linked picture is not TrueColor, the number of colors in its palette is also returned.
-
 
 ```vb
 Sub PictureColorInformation() 

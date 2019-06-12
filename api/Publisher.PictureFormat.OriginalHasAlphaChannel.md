@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.OriginalHasAlphaChannel
 ms.assetid: e58a97d2-4ced-d3cf-56b2-6a89df02bcdf
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # PictureFormat.OriginalHasAlphaChannel property (Publisher)
 
-Returns an  **MsoTriState** constant depending on whether the original, linked picture contains an alpha channel. Read-only.
+Returns an **[MsoTriState](office.msotristate.md)** constant depending on whether the original, linked picture contains an alpha channel. Read-only.
 
 
 ## Syntax
@@ -35,18 +35,12 @@ This property only applies to linked pictures. Returns "Permission Denied" for s
 
 Use either of the following properties to determine whether a shape represents a linked picture:
 
-
--  The **[Type](Publisher.Shape.Type.md)** property of the **[Shape](Publisher.Shape.md)** object
+- The **[Type](Publisher.Shape.Type.md)** property of the **Shape** object   
+- The **[IsLinked](Publisher.PictureFormat.IsLinked.md)** property of the **PictureFormat** object
     
-- The  **[IsLinked](Publisher.PictureFormat.IsLinked.md)** property of the **[PictureFormat](Publisher.PictureFormat.md)** object
-    
-
-
 An alpha channel is a special 8-bit channel used by some image processing software to contain additional data, such as masking information or transparency information.
 
-The  **OriginalHasAlphaChannel** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
-
-
+The **OriginalHasAlphaChannel** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 |Constant|Description|
 |:-----|:-----|
@@ -56,8 +50,7 @@ The  **OriginalHasAlphaChannel** property value can be one of the **MsoTriState*
 
 ## Example
 
-The following example returns whether the first shape on the first page of the active publication contains an alpha channel. If the picture is linked, and the original picture contains an alpha channel, that is also returned. This example assumes the shape is a picture.
-
+The following example returns whether the first shape on the first page of the active publication contains an alpha channel. If the picture is linked, and the original picture contains an alpha channel, that is also returned. This example assumes that the shape is a picture.
 
 ```vb
 With ActiveDocument.Pages(1).Shapes(1).PictureFormat 

@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.OriginalWidth
 ms.assetid: 3c418f3f-b2af-3176-9a37-a548b15fb4bc
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # PictureFormat.OriginalWidth property (Publisher)
 
-Returns a  **Variant** that represents, in [points](../language/glossary/vbe-glossary.md#point), the width of the specified linked picture or OLE object. Read-only.
+Returns a **Variant** that represents, in [points](../language/glossary/vbe-glossary.md#point), the width of the specified linked picture or OLE object. Read-only.
 
 
 ## Syntax
@@ -33,13 +33,15 @@ Variant
 
 This property applies only to linked pictures. Returns "Permission Denied" for shapes representing embedded or pasted pictures.
 
-To determine whether a shape represents a linked picture, use either the  **[Type](Publisher.Shape.Type.md)** property of the **[Shape](Publisher.Shape.md)** object, or the **[IsLinked](Publisher.PictureFormat.IsLinked.md)** property of the **[PictureFormat](Publisher.PictureFormat.md)** object.
+Use either of the following properties to determine whether a shape represents a linked picture:
+
+- The **[Type](Publisher.Shape.Type.md)** property of the **Shape** object   
+- The **[IsLinked](Publisher.PictureFormat.IsLinked.md)** property of the **PictureFormat** object
 
 
 ## Example
 
 The following example tests each picture in the active publication, and returns selected image properties for pictures that are linked.
-
 
 ```vb
 Dim pgLoop As Page 
