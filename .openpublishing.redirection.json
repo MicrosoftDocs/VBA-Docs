@@ -2623,6 +2623,10 @@
           {
             "source_path": "api/Publisher.Field.FieldType.md",
             "redirect_url": "/office/vba/api/publisher.mailmergedatafield.FieldType"
+          },
+          {
+            "source_path": "access/Concepts/Miscellaneous/and-operator.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/between-and-operator"
           }
     ]
 }
