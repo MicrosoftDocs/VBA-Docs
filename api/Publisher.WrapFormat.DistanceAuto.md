@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WrapFormat.DistanceAuto property (Publisher)
 
-Returns or sets an  **MsoTriState** constant indicating whether an appropriate distance between an inline shape and any surrounding text is automatically calculated. Read/write.
+Returns or sets an **[MsoTriState](office.msotristate.md)** constant indicating whether an appropriate distance between an inline shape and any surrounding text is automatically calculated. Read/write.
 
 
 ## Syntax

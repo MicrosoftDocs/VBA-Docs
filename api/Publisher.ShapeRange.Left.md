@@ -7,14 +7,16 @@ ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Left
 ms.assetid: 2f071ef6-f6b3-2444-ea31-ea7abc9ef1ea
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
 
 # ShapeRange.Left property (Publisher)
 
-Returns a **Variant** indicating the distance from the left edge of the page to the leftmost edge of all the shapes in the specified shape range. Numeric values are in [points](../language/glossary/vbe-glossary.md#point); all other values are in any measurement supported by Publisher (for example, "2.5 in"). Read-only.
+Returns a **Variant** indicating the distance from the left edge of the page to the leftmost edge of all the shapes in the specified shape range. 
+
+Numeric values are in [points](../language/glossary/vbe-glossary.md#point); all other values are in any measurement supported by Publisher (for example, "2.5 in"). Read-only.
 
 
 ## Syntax

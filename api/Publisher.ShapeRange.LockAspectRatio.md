@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.LockAspectRatio
 ms.assetid: 8ed4f41f-3395-dd59-29d4-f66afd19ac51
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
 
 # ShapeRange.LockAspectRatio property (Publisher)
 
-Returns or sets an  **MsoTriState**constant indicating whether the specified shape retains its original proportions when you resize it. Read/write.
+Returns or sets an **[MsoTriState](office.msotristate.md)** constant indicating whether the specified shape retains its original proportions when you resize it. Read/write.
 
 
 ## Syntax
@@ -26,21 +26,18 @@ _expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md
 
 ## Remarks
 
-The  **LockAspectRatio** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
-
-
+The **LockAspectRatio** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 |Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The height and width of the shape change independently of one another when you resize it.|
-| **msoTriStateMixed**|A return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
-| **msoTriStateToggle**|A set value that switches between  **msoTrue** and **msoFalse**.|
+| **msoTriStateMixed**|A return value indicating a combination of **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateToggle**|A set value that switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**|The specified shape retains its original proportions when you resize it.|
 
 ## Example
 
 This example adds a cube to the active publication. The cube can be moved and resized, but not reproportioned.
-
 
 ```vb
 Dim shp As Shape 

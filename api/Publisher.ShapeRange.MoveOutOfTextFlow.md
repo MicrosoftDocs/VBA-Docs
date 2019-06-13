@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.MoveOutOfTextFlow
 ms.assetid: 36d6b22d-f041-6dd8-ce2c-9514ac6af5ae
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
 
 # ShapeRange.MoveOutOfTextFlow method (Publisher)
 
-Moves a given inline shape out of its containing text range, defined by  **[TextRange Object](Publisher.TextRange.md)**, and makes the shape fixed.
+Moves a given inline shape out of its containing text range, defined by the **[TextRange](Publisher.TextRange.md)** object, and makes the shape fixed.
 
 
 ## Syntax
@@ -33,13 +33,12 @@ Nothing
 
 An automation error is returned if the shape to be moved is not already inline.
 
-After the  **MoveOutOfTextFlow** method is called on an inline shape, the shape will maintain its position on the page, but it will no longer be inline.
+After the **MoveOutOfTextFlow** method is called on an inline shape, the shape will maintain its position on the page, but it will no longer be inline.
 
 
 ## Example
 
 The following example moves the first inline shape contained in a given text range out of the text flow.
-
 
 ```vb
 Dim theShape As Shape 

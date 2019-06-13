@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # MsoAutoShapeType enumeration (Office)
 
-Specifies the shape type for an **AutoShape** object.
+Specifies the shape type for an AutoShape object.
 
 <br/>
 

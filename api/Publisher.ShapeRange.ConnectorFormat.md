@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.ConnectorFormat
 ms.assetid: 1a1516bd-ef27-0b37-09dd-45af8a531a76
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
 
 # ShapeRange.ConnectorFormat property (Publisher)
 
-Returns a  **[ConnectorFormat](Publisher.ConnectorFormat.md)** object that contains connector formatting properties. Applies to  **Shape** or **ShapeRange** objects that represent connectors.
+Returns a **[ConnectorFormat](Publisher.ConnectorFormat.md)** object that contains connector formatting properties. Applies to **Shape** or **ShapeRange** objects that represent connectors.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md
 ## Example
 
 This example adds two rectangles to the first page in the active publication and connects them with a curved connector.
-
 
 ```vb
 Dim shpRect1 As Shape 

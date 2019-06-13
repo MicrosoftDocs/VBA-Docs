@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.RerouteConnections
 ms.assetid: ae2a64ea-1b7a-4ff6-304c-680dd96fd386
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
 
 # ShapeRange.RerouteConnections method (Publisher)
 
-Reroutes connectors so that they take the shortest possible path between the shapes they connect. To do this, the  **RerouteConnections** method may detach the ends of a connector and reattach them to different connecting sites on the connected shapes.
+Reroutes connectors so that they take the shortest possible path between the shapes they connect. To do this, the **RerouteConnections** method may detach the ends of a connector and reattach them to different connecting sites on the connected shapes.
 
 
 ## Syntax
@@ -36,8 +36,7 @@ This method reroutes all connectors attached to the specified shape; if the spec
 
 ## Example
 
-This example adds two rectangles to the first page in the active publication and connects them with a curved connector. Note that the  **RerouteConnections** method overrides the values you supply for the **_ConnectionSite_** arguments used with the **BeginConnect**and  **EndConnect** methods.
-
+This example adds two rectangles to the first page in the active publication and connects them with a curved connector. Note that the **RerouteConnections** method overrides the values that you supply for the _ConnectionSite_ arguments used with the **BeginConnect** and **EndConnect** methods.
 
 ```vb
 Dim shpRect1 As Shape 

@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.GroupItems
 ms.assetid: d37c75cd-a651-51d1-42c7-59879ccbbf1d
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
 
 # ShapeRange.GroupItems property (Publisher)
 
-Returns a  **[GroupShapes](Publisher.GroupShapes.md)** collection if the specified shape is a group.
+Returns a **[GroupShapes](Publisher.GroupShapes.md)** collection if the specified shape is a group.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ All smart objects will be treated as grouped shapes.
 ## Example
 
 This example adds three triangles to a publication, groups them, sets a color for the entire group, and then changes the color for the second triangle only.
-
 
 ```vb
 Sub Grouper() 

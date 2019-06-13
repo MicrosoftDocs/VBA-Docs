@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextFrame.Orientation property (Publisher)
 
-Returns or sets a  **PbTextOrientation**constant that represents how text flows in a text box. Read/write.
+Returns or sets a  **PbTextOrientation** constant that represents how text flows in a text box. Read/write.
 
 
 ## Syntax

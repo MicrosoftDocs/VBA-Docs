@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object
 
 ## Example
 
-The following example adds an oval to the active publication and specifies that publication text wrap around the left and right sides of the square that circumscribes the oval. There will be a 0.1-inch margin between the publication text and the top, bottom, left side, and right side of the square.
+The following example adds an oval to the active publication and specifies that the publication text wrap around the left and right sides of the square that circumscribes the oval. There will be a 0.1-inch margin between the publication text and the top, bottom, left side, and right side of the square.
 
 ```vb
 Sub SetTextWrapFormatProperties() 

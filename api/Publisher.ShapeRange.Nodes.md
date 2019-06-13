@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Nodes
 ms.assetid: 513be66c-558c-f5f3-ed89-0ef4bc5a0101
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
 
 # ShapeRange.Nodes property (Publisher)
 
-Returns a  **[ShapeNodes](Publisher.ShapeNodes.md)** collection that represents the geometric description of the specified shape. Applies to  **Shape** or **ShapeRange** objects that represent freeform drawings.
+Returns a **[ShapeNodes](Publisher.ShapeNodes.md)** collection that represents the geometric description of the specified shape. Applies to **Shape** or **ShapeRange** objects that represent freeform drawings.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md
 ## Example
 
 This example adds a smooth node with a curved segment after node four in shape three on page one. Shape three must be a freeform drawing with at least four nodes.
-
 
 ```vb
 With ActiveDocument.Pages(1) _ 

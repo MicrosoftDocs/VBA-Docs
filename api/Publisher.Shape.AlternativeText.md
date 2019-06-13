@@ -31,7 +31,7 @@ The maximum length of the **AlternativeText** property is 254 characters. Micros
 
 ## Example
 
-This example sets the alternative text for the selected shape in the active document. This example assumes that you have a publication and that the selected shape is a picture of a duck.
+This example sets the alternative text for the selected shape in the active document. This example assumes that you have a publication in which the selected shape is a picture of a duck.
 
 ```vb
 Public Sub Alternative_Text() 

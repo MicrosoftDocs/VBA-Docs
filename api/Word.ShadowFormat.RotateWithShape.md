@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShadowFormat.RotateWithShape property (Word)
 
-Returns or sets an  **MsoTriState** that represents whether to rotate the shadow when rotating the shape. Read/write.
+Returns or sets an **[MsoTriState](office.msotristate.md)** that represents whether to rotate the shadow when rotating the shape. Read/write.
 
 
 ## Syntax

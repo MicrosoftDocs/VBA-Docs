@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextFrame.AutoFitText property (Publisher)
 
-Sets or returns a  **PbTextAutoFitType**constant that represents how Microsoft Publisher automatically adjusts the text font size and the  **TextFrame** objects size for best viewing. Read/write.
+Sets or returns a  **PbTextAutoFitType** constant that represents how Microsoft Publisher automatically adjusts the text font size and the  **TextFrame** objects size for best viewing. Read/write.
 
 
 ## Syntax

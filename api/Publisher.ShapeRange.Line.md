@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Line
 ms.assetid: e9a6e8a0-f57a-63af-3040-5c43f8aba423
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
 
 # ShapeRange.Line property (Publisher)
 
-Returns a  **[LineFormat](Publisher.LineFormat.md)** object that contains line formatting properties for the specified shape. (For a line, the  **LineFormat** object represents the line itself; for a shape with a border, the **LineFormat** object represents the border.).
+Returns a **[LineFormat](Publisher.LineFormat.md)** object that contains line formatting properties for the specified shape. For a line, the **LineFormat** object represents the line itself; for a shape with a border, the **LineFormat** object represents the border.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md
 
 This example adds a blue dashed line to the active publication.
 
-
 ```vb
 With ActiveDocument.Pages(1).Shapes _ 
  .AddLine(BeginX:=10, BeginY:=10, _ 
@@ -38,10 +37,9 @@ With ActiveDocument.Pages(1).Shapes _
 End With
 ```
 
+<br/>
+
 This example adds a cross to the first page and then sets its border to be 8 points thick and red.
-
-
-
 
 ```vb
 With ActiveDocument.Pages(1).Shapes _ 

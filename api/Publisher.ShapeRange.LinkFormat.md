@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.LinkFormat
 ms.assetid: 1f0add8d-7baa-65f0-e82b-a047a7bc0507
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
 
 # ShapeRange.LinkFormat property (Publisher)
 
-Returns a  [LinkFormat](Publisher.LinkFormat.md)object that contains the properties that are unique to linked OLE objects. Read-only.
+Returns a **[LinkFormat](Publisher.LinkFormat.md)** object that contains the properties that are unique to linked OLE objects. Read-only.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md
 ## Example
 
 This example updates the links between any OLE objects on page one in the active publication and their source files.
-
 
 ```vb
 Dim sh As Shape 
