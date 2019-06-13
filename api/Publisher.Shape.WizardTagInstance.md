@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Shape.WizardTagInstance
 ms.assetid: 908d3f31-f277-7213-737e-9a946687bda7
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Shape.WizardTagInstance property (Publisher)
 
-Returns or sets a  **Long** indicating the instance of the specified shape compared with other shapes having the same wizard tag. Read/write.
+Returns or sets a **Long** indicating the instance of the specified shape compared with other shapes having the same wizard tag. Read/write.
 
 
 ## Syntax
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object
 
 ## Remarks
 
-The combination of the  **WizardTagInstance** property and the **[WizardTag](Publisher.ShapeRange.WizardTag.md)** property uniquely defines every shape in a publication.
+The combination of the **WizardTagInstance** property and the **[WizardTag](Publisher.ShapeRange.WizardTag.md)** property uniquely defines every shape in a publication.
 
 
 ## Example
 
 The following example displays the wizard tag and wizard tag instance information for all the shapes on page one of the active publication.
-
 
 ```vb
 Dim shpLoop As Shape 

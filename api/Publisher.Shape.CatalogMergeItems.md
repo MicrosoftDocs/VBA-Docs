@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Shape.CatalogMergeItems
 ms.assetid: 1dcf4ae0-7a18-f1d5-2176-1912c63eefcc
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Shape.CatalogMergeItems property (Publisher)
 
-Returns a  **CatalogMergeShapes** collection that represents the shapes included in the catalog merge area. Read-only.
+Returns a **[CatalogMergeShapes](publisher.catalogmergeshapes.md)** collection that represents the shapes included in the catalog merge area. Read-only.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ CatalogMergeShapes
 
 ## Remarks
 
-The catalog merge area can contain picture and text data fields you have inserted, in addition to other design elements you choose.
+The catalog merge area can contain picture and text data fields that you have inserted, in addition to other design elements that you choose.
 
 
 ## Example
 
-The following example tests whether any page in the specified publication contains a catalog merge area, and if it does, it returns a list of the shapes it contains.
-
+The following example tests whether any page in the specified publication contains a catalog merge area, and if it does, it returns a list of the shapes that it contains.
 
 ```vb
 Sub ListCatalogMergeAreaContents() 

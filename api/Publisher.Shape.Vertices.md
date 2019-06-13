@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Shape.Vertices
 ms.assetid: 40b4800f-b17c-eff4-cb87-1e2d44d53ee3
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Shape.Vertices property (Publisher)
 
-Returns the coordinates of the specified freeform drawing's vertices (and control points for Bézier curves) as a series of coordinate pairs. Read-only  **Variant**.
+Returns the coordinates of the specified freeform drawing's vertices (and control points for Bézier curves) as a series of coordinate pairs. Read-only **Variant**.
 
 
 ## Syntax
@@ -26,13 +26,11 @@ _expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object
 
 ## Remarks
 
-You can use the array returned by this property as an argument to the  [AddCurve](Publisher.Shapes.AddCurve.md) or  [AddPolyline](Publisher.Shapes.AddPolyline.md)methods.
+You can use the array returned by this property as an argument to the **[AddCurve](Publisher.Shapes.AddCurve.md)** or **[AddPolyline](Publisher.Shapes.AddPolyline.md)** methods.
 
-The following table shows how the  **Vertices** property associates the values in the array `vertArray()` with the coordinates of a triangle's vertices.
+The following table shows how the **Vertices** property associates the values in the array `vertArray()` with the coordinates of a triangle's vertices.
 
-
-
-|**vertArray element**|**Contains**|
+|vertArray element|Contains|
 |:-----|:-----|
 | `vertArray(1, 1)`|The horizontal distance from the first vertex to the left side of the page.|
 | `vertArray(1, 2)`|The vertical distance from the first vertex to the top of the page.|
@@ -43,8 +41,7 @@ The following table shows how the  **Vertices** property associates the values i
 
 ## Example
 
-This example assigns the vertex coordinates for shape one in the active publication to the array variable  `vertArray()` and displays the coordinates for the first vertex.
-
+This example assigns the vertex coordinates for shape one in the active publication to the array variable `vertArray()`, and displays the coordinates for the first vertex.
 
 ```vb
 Dim vertArray As Variant 
@@ -59,10 +56,9 @@ With ActiveDocument.Pages(1).Shapes(1)
 End With
 ```
 
+<br/>
+
 This example creates a curve that has the same geometric description as shape one in the active publication. Shape one must contain 3n+1 vertices for this example to work, where n is an integer greater than or equal to 1.
-
-
-
 
 ```vb
 With ActiveDocument.Pages(1).Shapes 

@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Shape.WebCheckBox
 ms.assetid: 13796525-584f-7109-5dea-1f2baf1efda7
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Shape.WebCheckBox property (Publisher)
 
-Returns the  **[WebCheckBox](Publisher.WebCheckBox.md)** object associated with the specified shape.
+Returns the **[WebCheckBox](Publisher.WebCheckBox.md)** object associated with the specified shape.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ WebCheckBox
 
 ## Example
 
-This example creates a new Web check box and specifies that its default state is checked.
-
+This example creates a new web check box and specifies that its default state is selected.
 
 ```vb
 Dim shpNew As Shape 
