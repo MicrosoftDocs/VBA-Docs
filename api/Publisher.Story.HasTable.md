@@ -14,8 +14,9 @@ localization_priority: Normal
 
 # Story.HasTable property (Publisher)
 
-Returns **msoTrue** if the shape represents a **TableFrame** object or **msoFalse** if the shape represents any other object type. Read-only.
+Returns **msoTrue** if the shape represents a **[Table](Publisher.Table.md)** object or **msoFalse** if the shape represents any other object type. Read-only.
 
+<!--There is no TableFrame object, so substituted Table instead-->
 
 ## Syntax
 

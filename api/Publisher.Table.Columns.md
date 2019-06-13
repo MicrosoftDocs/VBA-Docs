@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Table.Columns
 ms.assetid: fb55ba62-64a4-2221-3cc7-b349dc2f6934
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
 
 # Table.Columns property (Publisher)
 
-Returns a  **[Columns](Publisher.Columns.md)** collection that represents all the columns of the specified table.
+Returns a **[Columns](Publisher.Columns.md)** collection that represents all the columns of the specified table.
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[Table](Publisher.Table.md)** object
 
 ## Example
 
-This example enters a bold number into each cell in the specified table. This example assumes the specified shape is a table and not another type of shape.
-
+This example enters a bold number into each cell in the specified table. This example assumes that the specified shape is a table and not another type of shape.
 
 ```vb
 Sub CountCellsByColumn() 
