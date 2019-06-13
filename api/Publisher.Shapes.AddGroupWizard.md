@@ -19,7 +19,7 @@ Adds a  **Shape** object representing a Design Gallery object to the publication
 
 ## Syntax
 
-_expression_.**AddGroupWizard**(**_Wizard_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_Design_**)
+_expression_.**AddGroupWizard**(_Wizard_, _Left_, _Top_, _Width_, _Height_, _Design_)
 
 _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** object.
 
@@ -31,8 +31,8 @@ _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** obje
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |_Wizard_|Required| **PbWizardGroup**|The type of Design Gallery object to add to the publication.|
-|Left|Required| **Variant**|The position of the Design Gallery object's left edge relative to the left edge of the page, measured in points.|
-|Top|Required| **Variant**|The position of the Design Gallery object's top edge relative to the top edge of the page, measured in points.|
+| _Left_ |Required| **Variant**|The position of the Design Gallery object's left edge relative to the left edge of the page, measured in points.|
+| _Top_ |Required| **Variant**|The position of the Design Gallery object's top edge relative to the top edge of the page, measured in points.|
 |Width|Optional| **Variant**|The width of the new Design Gallery object.|
 |Height|Optional| **Variant**|The height of the new Design Gallery object.|
 |_Design_|Optional| **Long**|The design of the object to be added.|

@@ -19,7 +19,7 @@ Adds a new  **Shape** object representing a table to the specified **Shapes** co
 
 ## Syntax
 
-_expression_.**AddTable**(**_NumRows_**,  **_NumColumns_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_FixedSize_**,  **_Direction_**)
+_expression_.**AddTable**(_NumRows_, _NumColumns_, _Left_, _Top_, _Width_, _Height_, _FixedSize_, _Direction_)
 
 _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** object.
 
@@ -32,10 +32,10 @@ _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** obje
 |:-----|:-----|:-----|:-----|
 |NumRows|Required| **Long**|The number of rows in the new table. Values between 1 and 128 are valid; any values outside this range will generate an error.|
 |NumColumns|Required| **Long**|The number of columns in the new table. Values between 1 and 128 are valid; any values outside this range will generate an error.|
-|Left|Required| **Variant**|The position of the left edge of the shape representing the table.|
-|Top|Required| **Variant**|The position of the top edge of the shape representing the table.|
-|Width|Required| **Variant**|The width of the shape representing the table.|
-|Height|Required| **Variant**|The height of the shape representing the table.|
+| _Left_ |Required| **Variant**|The position of the left edge of the shape representing the table.|
+| _Top_ |Required| **Variant**|The position of the top edge of the shape representing the table.|
+| _Width_|Required| **Variant**|The width of the shape representing the table.|
+| _Height_|Required| **Variant**|The height of the shape representing the table.|
 |FixedSize|Optional| **Boolean**| **True** if Microsoft Publisher reduces the number of rows and columns of the table to fit the specified width and height. **False** if Publisher automatically increases the width and height of the table frame to accommodate the number of rows and columns in the table. Default is **False**.|
 |Direction|Optional| **PbTableDirectionType**|The direction in which table columns are numbered. The default depends on the current language setting.|
 
@@ -46,7 +46,7 @@ Shape
 
 ## Remarks
 
-For the Left, Top, Width, and Height arguments, numeric values are evaluated in points; strings can be in any units supported by Publisher (for example, "2.5 in").
+For the _Left_, _Top_, _Width_, and _Height_ arguments, numeric values are evaluated in [points](../language/glossary/vbe-glossary.md#point); strings can be in any units supported by Publisher (for example, "2.5 in").
 
 The Direction parameter can be one of the  **PbTableDirectionType** constants declared in the Microsoft Publisher type library and shown in the following table.
 

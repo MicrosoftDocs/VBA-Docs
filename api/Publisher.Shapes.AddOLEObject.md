@@ -43,7 +43,7 @@ Shape
 
 ## Remarks
 
-For the Left, Top, Width, and Height arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+For the _Left_, _Top_, _Width_, and _Height_ arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
 You must specify either a ClassName or FileName. If neither argument is specified, or if both are specified, an error occurs.
 

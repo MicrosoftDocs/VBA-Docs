@@ -19,7 +19,7 @@ Adds a new  **Shape** object representing a WordArt object to the specified **Sh
 
 ## Syntax
 
-_expression_.**AddTextEffect**(**_PresetTextEffect_**,  **_Text_**,  **_FontName_**,  **_FontSize_**,  **_FontBold_**,  **_FontItalic_**,  **_Left_**,  **_Top_**)
+_expression_.**AddTextEffect**(_PresetTextEffect_, _Text_, _FontName_, _FontSize_, _FontBold_, _FontItalic_, _Left_, _Top_)
 
 _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** object.
 
@@ -31,13 +31,13 @@ _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** obje
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |PresetTextEffect|Required| **MsoPresetTextEffect**|The preset text effect to use. The values of the  **MsoPresetTextEffect** constants correspond to the formats listed in the **WordArt Gallery** dialog box (numbered from left to right and from top to bottom).|
-|Text|Required| **String**|The text to use for the WordArt object.|
-|FontName|Required| **String**|The name of the font to use for the WordArt object.|
-|FontSize|Required| **Variant**|The font size to use for the WordArt object. Numeric values are evaluated in [points](../language/glossary/vbe-glossary.md#point); strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").|
-|FontBold|Required| **MsoTriState**|Determines whether to format the WordArt text as bold.|
-|FontItalic|Required| **MsoTriState**|Determines whether to format the WordArt text as italic.|
-|Left|Required| **Variant**|The position of the left edge of the shape representing the WordArt object.|
-|Top|Required| **Variant**|The position of the top edge of the shape representing the WordArt object.|
+| _Text_ |Required| **String**|The text to use for the WordArt object.|
+| _FontName_ |Required| **String**|The name of the font to use for the WordArt object.|
+| _FontSize_ |Required| **Variant**|The font size to use for the WordArt object. Numeric values are evaluated in [points](../language/glossary/vbe-glossary.md#point); strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").|
+| _FontBold_ |Required| **MsoTriState**|Determines whether to format the WordArt text as bold.|
+| _FontItalic_ |Required| **MsoTriState**|Determines whether to format the WordArt text as italic.|
+| _Left_ |Required| **Variant**|The position of the left edge of the shape representing the WordArt object.|
+| _Top_ |Required| **Variant**|The position of the top edge of the shape representing the WordArt object.|
 
 ## Return value
 
@@ -46,7 +46,7 @@ Shape
 
 ## Remarks
 
-For the Left and Top parameters, numeric values are evaluated in points; strings can be in any units supported by Publisher (for example, "2.5 in").
+For the _Left_ and _Top_ parameters, numeric values are evaluated in [points](../language/glossary/vbe-glossary.md#point); strings can be in any units supported by Publisher (for example, "2.5 in").
 
 The height and width of the WordArt object is determined by its text and formatting.
 

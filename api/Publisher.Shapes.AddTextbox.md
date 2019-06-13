@@ -19,7 +19,7 @@ Adds a new  **Shape** object representing a text box to the specified **Shapes**
 
 ## Syntax
 
-_expression_.**AddTextbox**(**_Orientation_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
+_expression_.**AddTextbox**(_Orientation_, _Left_, _Top_, _Width_, _Height_)
 
 _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** object.
 
@@ -31,10 +31,10 @@ _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** obje
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Orientation|Required| **PbTextOrientation**|The orientation of the text box.|
-|Left|Required| **Variant**|The position of the left edge of the shape representing the text box.|
-|Top|Required| **Variant**|The position of the top edge of the shape representing the text box.|
-|Width|Required| **Variant**|The width of the shape representing the text box.|
-|Height|Required| **Variant**|The height of the shape representing the text box.|
+| _Left_ |Required| **Variant**|The position of the left edge of the shape representing the text box.|
+| _Top_ |Required| **Variant**|The position of the top edge of the shape representing the text box.|
+| _Width_|Required| **Variant**|The width of the shape representing the text box.|
+| _Height_|Required| **Variant**|The height of the shape representing the text box.|
 
 ## Return value
 
@@ -43,7 +43,7 @@ Shape
 
 ## Remarks
 
-For the Left, Top, Width, and Height parameters numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+For the _Left_, _Top_, _Width_, and _Height_ parameters numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
 The Orientation parameter can be one of the  **PbTextOrientation** constants declared in the Microsoft Publisher type library and shown in the following table.
 

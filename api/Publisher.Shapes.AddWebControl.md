@@ -19,7 +19,7 @@ Adds a new  **Shape** object representing a Web form control to the specified **
 
 ## Syntax
 
-_expression_.**AddWebControl**(**_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_LaunchPropertiesWindow_**)
+_expression_.**AddWebControl**(_Type_, _Left_, _Top_, _Width_, _Height_, _LaunchPropertiesWindow_)
 
 _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** object.
 
@@ -30,11 +30,11 @@ _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Type|Required| **PbWebControlType**|Specifies the type of Web form control to add. An error occurs if pbWebControlWebComponent is used.|
-|Left|Required| **Variant**|The position of the left edge of the shape representing the Web form control.|
-|Top|Required| **Variant**|The position of the top edge of the shape representing the Web form control.|
-|Width|Required| **Variant**|The width of the shape representing the Web form control. For command buttons, this parameter is ignored.|
-|Height|Required| **Variant**|The height of the shape representing the Web form control. For command buttons, this parameter is ignored.|
+| _Type_ |Required| **PbWebControlType**|Specifies the type of Web form control to add. An error occurs if pbWebControlWebComponent is used.|
+| _Left_ |Required| **Variant**|The position of the left edge of the shape representing the Web form control.|
+| _Top_ |Required| **Variant**|The position of the top edge of the shape representing the Web form control.|
+| _Width_|Required| **Variant**|The width of the shape representing the Web form control. For command buttons, this parameter is ignored.|
+| _Height_|Required| **Variant**|The height of the shape representing the Web form control. For command buttons, this parameter is ignored.|
 |LaunchPropertiesWindow|Optional| **Boolean**|Not supported. Default is  **False**; an error occurs if this argument is set to  **True**.|
 
 ## Return value
@@ -44,7 +44,7 @@ Shape
 
 ## Remarks
 
-For the Left, Top, Width, and Height parameters, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+For the _Left_, _Top_, _Width_, and _Height_ parameters, numeric values are evaluated in [points](../language/glossary/vbe-glossary.md#point); strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
 When adding a hot spot to a Web control by using the  **pbWebControlHotSpot** constant, the URL is specified by the **[Hyperlink](Publisher.TextRange.Hyperlinks.md)** property.
 

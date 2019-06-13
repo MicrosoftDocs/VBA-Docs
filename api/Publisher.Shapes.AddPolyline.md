@@ -39,7 +39,7 @@ Shape
 
 ## Remarks
 
-For the array elements in  **_SafeArrayOfPoints_**, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+For the array elements in _SafeArrayOfPoints_, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
 To form a closed polygon, assign the same coordinates to the first and last vertices in the polyline drawing.
 

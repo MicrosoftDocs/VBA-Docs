@@ -19,7 +19,7 @@ Builds a freeform object. Returns a  [FreeformBuilder](Publisher.FreeformBuilder
 
 ## Syntax
 
-_expression_.**BuildFreeform**(**_EditingType_**,  **_X1_**,  **_Y1_**)
+_expression_.**BuildFreeform**(_EditingType_, _X1_, _Y1_)
 
 _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** object.
 
@@ -50,7 +50,7 @@ The EditingType parameter can be one of the following  **MsoEditingType** consta
 
 ## Example
 
-For the X1 and Y1 arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+For the _X1_ and _Y1_ arguments, numeric values are evaluated in [points](../language/glossary/vbe-glossary.md#point); strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
 
 

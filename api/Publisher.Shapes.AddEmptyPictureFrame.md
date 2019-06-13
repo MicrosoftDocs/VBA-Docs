@@ -19,7 +19,7 @@ Returns a  **Shape** object that represents an empty picture frame inserted at t
 
 ## Syntax
 
-_expression_.**AddEmptyPictureFrame**(**_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
+_expression_.**AddEmptyPictureFrame**(_Left_, _Top_, _Width_, _Height_)
 
 _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** object.
 
@@ -30,8 +30,8 @@ _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Left|Required| **Variant**|The position of the left edge of the shape representing the picture.|
-|Top|Required| **Variant**|The position of the top edge of the shape representing the picture.|
+| _Left_ |Required| **Variant**|The position of the left edge of the shape representing the picture.|
+| _Top_ |Required| **Variant**|The position of the top edge of the shape representing the picture.|
 |Width|Optional| **Variant**|The width of the shape representing the picture. Default is -1, meaning that the width of the shape is automatically set to 72 points if the parameter is left blank.|
 |Height|Optional| **Variant**|The height of the shape representing the picture. Default is -1, meaning that the height of the shape is automatically set to 54 points if the parameter is left blank.|
 
@@ -42,7 +42,7 @@ Shape
 
 ## Remarks
 
-For  **Left**,  **Top**,  **Width**, and  **Height** arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "1.5 in").
+For the _Left_, _Top_, _Width_, and _Height_ arguments, numeric values are evaluated in [points](../language/glossary/vbe-glossary.md#point); strings can be in any units supported by Microsoft Publisher (for example, "1.5 in").
 
 The blank picture frame has the default ToolTip "Empty Picture Frame". This is changed to "Picture" when an image is selected for the  **Shape**.
 

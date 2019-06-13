@@ -7,34 +7,32 @@ ms.prod: publisher
 api_name:
 - Publisher.Shapes.AddConnector
 ms.assetid: fd1ef969-7960-2555-e355-9804c86f6c01
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
 
 # Shapes.AddConnector method (Publisher)
 
-Adds a new  **[Shape](Publisher.Shape.md)** object representing a connector to the specified **[Shapes](Publisher.Shapes.md)** collection.
+Adds a new **[Shape](Publisher.Shape.md)** object representing a connector to the specified **Shapes** collection.
 
 
 ## Syntax
 
-_expression_.**AddConnector**(**_Type_**,  **_BeginX_**,  **_BeginY_**,  **_EndX_**,  **_EndY_**)
+_expression_.**AddConnector** (_Type_, _BeginX_, _BeginY_, _EndX_, _EndY_)
 
 _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Type|Required| **MsoConnectorType**|The type of connector to add.|
-|BeginX|Required| **Variant**|The x-coordinate of the beginning point of the connector.|
-|BeginY|Required| **Variant**|The y-coordinate of the beginning point of the connector.|
-|EndX|Required| **Variant**|The x-coordinate of the ending point of the connector.|
-|EndY|Required| **Variant**|The y-coordinate of the ending point of the connector.|
+|_Type_|Required| **[MsoConnectorType](office.msoconnectortype.md)**|The type of connector to add. Can be one of the **MsoConnectorType** constants, except for **msoConnectorTypeMixed**, which is not used with this method.|
+|_BeginX_|Required| **Variant**|The x-coordinate of the beginning point of the connector.|
+|_BeginY_|Required| **Variant**|The y-coordinate of the beginning point of the connector.|
+|_EndX_|Required| **Variant**|The x-coordinate of the ending point of the connector.|
+|_EndY_|Required| **Variant**|The y-coordinate of the ending point of the connector.|
 
 ## Return value
 
@@ -43,23 +41,13 @@ Shape
 
 ## Remarks
 
-For the BeginX, BeginY, EndX, and EndY parameters, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+For the _BeginX_, _BeginY_, _EndX_, and _EndY_ parameters, numeric values are evaluated in [points](../language/glossary/vbe-glossary.md#point); strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
-The new connector isn't connected to any other shape; use the  **[BeginConnect](Publisher.ConnectorFormat.BeginConnect.md)** and  **[EndConnect](Publisher.ConnectorFormat.EndConnect.md)** methods to connect the new connector to another shape.
-
-The Type parameter can be one of these  **MsoConnectorType** constants.
-
-
-
-| **msoConnectorCurve**|Adds a curved connector.|
-| **msoConnectorElbow**|Adds an elbow-shaped connector.|
-| **msoConnectorStraight**|Adds a straight-line connector.|
-| **msoConnectorTypeMixed**|Not used with this method.|
+The new connector isn't connected to any other shape; use the **[BeginConnect](Publisher.ConnectorFormat.BeginConnect.md)** and **[EndConnect](Publisher.ConnectorFormat.EndConnect.md)** methods to connect the new connector to another shape.
 
 ## Example
 
 The following example adds a new straight-line connector to the first page of the active publication.
-
 
 ```vb
 Dim shpConnect As Shape 

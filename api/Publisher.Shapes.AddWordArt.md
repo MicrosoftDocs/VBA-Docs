@@ -19,7 +19,7 @@ Returns a  **Shape** object that represents the WordArt to be added to the publi
 
 ## Syntax
 
-_expression_.**AddWordArt**(**_PresetWordArt_**,  **_Text_**,  **_FontName_**,  **_FontSize_**,  **_FontBold_**,  **_FontItalic_**,  **_Left_**,  **_Top_**)
+_expression_.**AddWordArt**(_PresetWordArt_, _Text_, _FontName_, _FontSize_, _FontBold_, _FontItalic_, _Left_, _Top_)
 
 _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** object.
 
@@ -30,14 +30,14 @@ _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|PresetWordArt|Required| **pbPresetWordArt**|The type of preset WordArt to add.|
-|Text|Required| **String**|The text of the WordArt.|
-|FontName|Required| **String**|The name of the font to be used in the WordArt.|
-|FontSize|Required| **Variant**|The size of the font to be used in the WordArt.|
-|FontBold|Required| **[MSOTRISTATE]**|Whether the WordArt text should be bold. See Remarks for possible values.|
-|FontItalic|Required| **[MSOTRISTATE]**|Whether the WordArt text should be italic. See Remarks for possible values.|
-|Left|Required| **Variant**|The horizontal position of the WordArt.|
-|Top|Required| **Variant**|The vertical position of the WordArt.|
+| _PresetWordArt_|Required| **pbPresetWordArt**|The type of preset WordArt to add.|
+| _Text_ |Required| **String**|The text of the WordArt.|
+| _FontName_ |Required| **String**|The name of the font to be used in the WordArt.|
+| _FontSize_ |Required| **Variant**|The size of the font to be used in the WordArt.|
+| _FontBold_ |Required| **[MSOTRISTATE]**|Whether the WordArt text should be bold. See Remarks for possible values.|
+| _FontItalic_ |Required| **[MSOTRISTATE]**|Whether the WordArt text should be italic. See Remarks for possible values.|
+| _Left_ |Required| **Variant**|The horizontal position of the WordArt.|
+| _Top_ |Required| **Variant**|The vertical position of the WordArt.|
 
 ## Return value
 

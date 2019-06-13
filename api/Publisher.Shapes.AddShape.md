@@ -19,7 +19,7 @@ Adds a new  **Shape** object representing an AutoShape to the specified **Shapes
 
 ## Syntax
 
-_expression_.**AddShape**(**_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
+_expression_.**AddShape**(_Type_, _Left_, _Top_, _Width_, _Height_)
 
 _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** object.
 
@@ -30,11 +30,11 @@ _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Type|Required| **MsoAutoShapeType**|The type of AutoShape to draw. For a complete list of MsoAutoShapeType constants, see the Object Browser.|
-|Left|Required| **Variant**|The position of the left edge of the shape representing the AutoShape.|
-|Top|Required| **Variant**|The position of the top edge of the shape representing the AutoShape.|
-|Width|Required| **Variant**|The width of the shape representing the AutoShape.|
-|Height|Required| **Variant**|The height of the shape representing the AutoShape.|
+| _Type_ |Required| **MsoAutoShapeType**|The type of AutoShape to draw. For a complete list of MsoAutoShapeType constants, see the Object Browser.|
+| _Left_ |Required| **Variant**|The position of the left edge of the shape representing the AutoShape.|
+| _Top_ |Required| **Variant**|The position of the top edge of the shape representing the AutoShape.|
+| _Width_|Required| **Variant**|The width of the shape representing the AutoShape.|
+| _Height_|Required| **Variant**|The height of the shape representing the AutoShape.|
 
 ## Return value
 
@@ -43,7 +43,7 @@ Shape
 
 ## Remarks
 
-For the  **_Left_**,  **_Top_**,  **_Width_**, and  **_Height_** arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+For the _Left_, _Top_, _Width_, and _Height_ arguments, numeric values are evaluated in [points](../language/glossary/vbe-glossary.md#point); strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
 
 ## Example

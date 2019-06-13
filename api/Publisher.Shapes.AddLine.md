@@ -19,7 +19,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing a line to the sp
 
 ## Syntax
 
-_expression_.**AddLine**(**_BeginX_**,  **_BeginY_**,  **_EndX_**,  **_EndY_**)
+_expression_.**AddLine**(_BeginX_, _BeginY_, _EndX_, _EndY_)
 
 _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** object.
 
@@ -42,7 +42,7 @@ Shape
 
 ## Remarks
 
-For the  **_BeginX_**,  **_BeginY_**,  **_EndX_**, and  **_EndY_** arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+For the _BeginX_, _BeginY_, _EndX_, and _EndY_ arguments, numeric values are evaluated in [points](../language/glossary/vbe-glossary.md#point); strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
 
 ## Example
