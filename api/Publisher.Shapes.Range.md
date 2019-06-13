@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Shapes.Range
 ms.assetid: f9ef5314-21f1-378f-1552-fcd4e46f841d
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|_Index_|Required| **Variant**|The individual shapes that are to be included in the range. Can be an integer that specifies the index number of the shape, a string that specifies the name of the shape, or an array that contains either integers or strings. If Index is omitted, the  **Range** method returns all the objects in the specified collection.|
+|_Index_|Required| **Variant**|The individual shapes that are to be included in the range. Can be an integer that specifies the index number of the shape, a string that specifies the name of the shape, or an array that contains either integers or strings. If _Index_ is omitted, the **Range** method returns all the objects in the specified collection.|
 
 ## Return value
 
@@ -37,7 +37,7 @@ ShapeRange
 
 ## Example
 
-To specify an array of integers or strings for **_Index_**, you can use the **Array** function. For example, the following instruction returns two shapes specified by name.
+To specify an array of integers or strings for _Index_, you can use the **Array** function. For example, the following instruction returns two shapes specified by name.
 
 ```vb
 Dim arrShapes As Variant 
