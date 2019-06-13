@@ -7,30 +7,28 @@ ms.prod: publisher
 api_name:
 - Publisher.Shapes.AddPolyline
 ms.assetid: d49fb2bc-4df5-fff8-c741-2c0d35413fc5
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
 
 # Shapes.AddPolyline method (Publisher)
 
-Adds a new  **Shape** object representing an open polyline or a closed polygon to the specified **Shapes** collection.
+Adds a new **[Shape](Publisher.Shape.md)** object representing an open polyline or a closed polygon to the specified **Shapes** collection.
 
 
 ## Syntax
 
-_expression_.**AddPolyline**(**_SafeArrayOfPoints_**)
+_expression_.**AddPolyline** (_SafeArrayOfPoints_)
 
 _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|SafeArrayOfPoints|Required| **Variant**|An array of coordinate pairs that specifies the polyline's or polygon's vertices.|
+|_SafeArrayOfPoints_|Required| **Variant**|An array of coordinate pairs that specifies the polyline's or polygon's vertices.|
 
 ## Return value
 
@@ -39,7 +37,7 @@ Shape
 
 ## Remarks
 
-For the array elements in _SafeArrayOfPoints_, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+For the array elements in _SafeArrayOfPoints_, numeric values are evaluated in [points](../language/glossary/vbe-glossary.md#point); strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
 To form a closed polygon, assign the same coordinates to the first and last vertices in the polyline drawing.
 
@@ -47,7 +45,6 @@ To form a closed polygon, assign the same coordinates to the first and last vert
 ## Example
 
 The following example adds a triangle to the first page of the active publication. Because the first and last points have the same coordinates, the polygon is closed.
-
 
 ```vb
 Dim shpPolyline As Shape 
