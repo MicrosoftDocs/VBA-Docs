@@ -62,7 +62,7 @@ End Sub
 - [CropRight](Publisher.PictureFormat.CropRight.md)
 - [CropTop](Publisher.PictureFormat.CropTop.md)
 - [EffectiveResolution](Publisher.PictureFormat.EffectiveResolution.md)
-- [Filename](Publisher.PictureFormat.Filename.md)
+- [FileName](Publisher.PictureFormat.FileName.md)
 - [FileSize](Publisher.PictureFormat.FileSize.md)
 - [HasAlphaChannel](Publisher.PictureFormat.HasAlphaChannel.md)
 - [HasTransparencyColor](Publisher.PictureFormat.HasTransparencyColor.md)

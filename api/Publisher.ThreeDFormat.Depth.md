@@ -31,7 +31,7 @@ Variant
 
 ## Remarks
 
-Numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+Numeric values are evaluated in [points](../language/glossary/vbe-glossary.md#point); strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
 Positive values produce an extrusion whose front face is the original shape; negative values produce an extrusion whose back face is the original shape. The valid range is -600 through 9600 points, or the equivalent distance in all other units.
 

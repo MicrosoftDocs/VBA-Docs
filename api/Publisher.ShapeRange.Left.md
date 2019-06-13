@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeRange.Left property (Publisher)
 
-Returns a  **Variant** indicating the distance from the left edge of the page to the leftmost edge of all the shapes in the specified shape range. Numeric values are in points; all other values are in any measurement supported by Publisher (for example, "2.5 in"). Read-only.
+Returns a **Variant** indicating the distance from the left edge of the page to the leftmost edge of all the shapes in the specified shape range. Numeric values are in [points](../language/glossary/vbe-glossary.md#point); all other values are in any measurement supported by Publisher (for example, "2.5 in"). Read-only.
 
 
 ## Syntax
@@ -22,5 +22,7 @@ Returns a  **Variant** indicating the distance from the left edge of the page to
 _expression_.**Left**
 
 _expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md)** object.
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Shape.Connector
 ms.assetid: 6cdff1e7-59b0-9905-96f8-99b79db1acd5
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Shape.Connector property (Publisher)
 
-Returns an  **MsoTriState**value indicating whether the specified shape is a connector. Read-only.
+Returns an **[MsoTriState](office.msotristate.md)** value indicating whether the specified shape is a connector. Read-only.
 
 
 ## Syntax
@@ -26,20 +26,17 @@ _expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object
 
 ## Remarks
 
-The  **Connector** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
-
-
+The **Connector** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 |Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The shape is not a connector.|
-| **msoTriStateMixed**|A return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape.|
+| **msoTriStateMixed**|A return value indicating a combination of **msoTrue** and **msoFalse** for the specified shape.|
 | **msoTrue**|The shape is a connector.|
 
 ## Example
 
 This example deletes all connectors on page one of the active publication.
-
 
 ```vb
 Dim i As Integer 

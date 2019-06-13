@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ShadowFormat.ForeColor
 ms.assetid: 1ff2210f-1ab4-e991-746b-d4383a87c9e8
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # ShadowFormat.ForeColor property (Publisher)
 
-Returns or sets a  **[ColorFormat](Publisher.ColorFormat.md)** object representing the foreground color for the fill, line, or shadow. Read/write.
+Returns or sets a **[ColorFormat](Publisher.ColorFormat.md)** object representing the foreground color for the fill, line, or shadow. Read/write.
 
 
 ## Syntax
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[ShadowFormat](Publisher.ShadowForma
 
 ## Remarks
 
-Use the  **BackColor** property to set the background color for a fill or line.
+Use the **[BackColor](publisher.fillformat.backcolor.md)** property of the **FillFormat** object to set the background color for a fill or line.
 
 
 ## Example
 
-This example adds a rectangle to the active publication and then sets the foreground color, background color, and gradient for the rectangle's fill.
-
+This example adds a rectangle to the active publication, and then sets the foreground color, background color, and gradient for the rectangle's fill.
 
 ```vb
 With ActiveDocument.Pages(1).Shapes.AddShape _ 
@@ -44,10 +43,9 @@ With ActiveDocument.Pages(1).Shapes.AddShape _
 End With
 ```
 
+<br/>
+
 This example adds a patterned line to the active publication.
-
-
-
 
 ```vb
 With ActiveDocument.Pages(1).Shapes.AddLine _ 

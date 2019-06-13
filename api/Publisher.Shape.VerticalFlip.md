@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Shape.VerticalFlip
 ms.assetid: b3c7492f-08ee-8fad-102a-8e2a2f69b969
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Shape.VerticalFlip property (Publisher)
 
-Returns  **msoTrue** if the specified shape has been flipped around its vertical axis. Read-only.
+Returns **msoTrue** if the specified shape has been flipped around its vertical axis. Read-only.
 
 
 ## Syntax
@@ -26,20 +26,17 @@ _expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object
 
 ## Remarks
 
-The property value can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
-
-
+The property value can be one of the **[MsoTriState](office.msotristate.md)** constants declared in the Microsoft Office type library and shown in the following table.
 
 |Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The shape has not been flipped around its vertical axis.|
-| **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateMixed**|Indicates a combination of **msoTrue** and **msoFalse** for the specified shape range.|
 | **msoTrue**|The shape has been flipped around its vertical axis.|
 
 ## Example
 
 This example restores each shape on the active publication to its original state if it has been flipped horizontally or vertically.
-
 
 ```vb
 Sub Flipper() 

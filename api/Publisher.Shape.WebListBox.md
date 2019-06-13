@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Shape.WebListBox
 ms.assetid: c100dfc7-6fbd-db48-4de9-4a9a49739a8f
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Shape.WebListBox property (Publisher)
 
-Returns the  **[WebListBox](Publisher.WebListBox.md)** object associated with the specified shape.
+Returns the **[WebListBox](Publisher.WebListBox.md)** object associated with the specified shape.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ WebListBox
 
 ## Example
 
-This example creates a new Web list box and adds several items to it. Note that when initially created, a Web list box control contains three default items. This example includes a loop that deletes the default list box items before adding new items.
-
+This example creates a new web list box and adds several items to it. Note that when initially created, a web list box control contains three default items. This example includes a loop that deletes the default list box items before adding new items.
 
 ```vb
 Dim shpNew As Shape 

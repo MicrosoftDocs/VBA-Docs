@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Selection.TableCellRange
 ms.assetid: d683e830-6bcd-4b53-844b-605fab184a4c
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Selection.TableCellRange property (Publisher)
 
-Returns a  **CellRange** object that represents the cells in a table selection.
+Returns a **[CellRange](publisher.cellrange.md)** object that represents the cells in a table selection.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ CellRange
 ## Example
 
 This example fills the table cells in a selection.
-
 
 ```vb
 Sub FillTableCellRange() 

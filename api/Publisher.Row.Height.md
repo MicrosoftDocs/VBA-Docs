@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Row.Height
 ms.assetid: fd243edc-1521-bd67-a365-2c4685ee5037
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Row.Height property (Publisher)
 
-Returns or sets a  **Variant** that represents the height (in points) of a specified table row or shape. Read/write.
+Returns or sets a **Variant** that represents the height (in [points](../language/glossary/vbe-glossary.md#point)) of a specified table row or shape. Read/write.
 
 
 ## Syntax
@@ -26,13 +26,14 @@ _expression_ A variable that represents a **[Row](Publisher.Row.md)** object.
 
 ## Remarks
 
-The valid range for the  **Height** property depends on the size of the application workspace and the position of the object within the workspace. For centered objects on non-banner page sizes, the **Height** property may be 0.0 to 50.0 inches. For centered objects on banner page sizes, the **Height** property may be 0.0 to 241.0 inches.
+The valid range for the **Height** property depends on the size of the application workspace and the position of the object within the workspace. 
+
+For centered objects on non-banner page sizes, the **Height** property may be 0.0 to 50.0 inches. For centered objects on banner page sizes, the **Height** property may be 0.0 to 241.0 inches.
 
 
 ## Example
 
 This example creates a new table and sets the height and width of the second row and column, respectively.
-
 
 ```vb
 Sub SetRowHeightColumnWidth() 

@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.RulerGuide.Parent
 ms.assetid: 90d89193-8c2c-e25b-7bdc-286c647f49ea
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # RulerGuide.Parent property (Publisher)
 
-Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
+Returns an object that represents the parent object of the specified object. For example, for a **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[RulerGuide](Publisher.RulerGuide.md
 ## Example
 
 This example accesses the parent object of the selected shape, and then adds a new shape to it and sets the fill for the new shape.
-
 
 ```vb
 Sub ParentObject() 
@@ -45,9 +44,6 @@ End Sub
 <br/>
 
 This example returns the parent object of a text frame, which is the first shape in the active publication, and then fills the shape with a pattern.
-
-
-
 
 ```vb
 Sub ParentShape() 

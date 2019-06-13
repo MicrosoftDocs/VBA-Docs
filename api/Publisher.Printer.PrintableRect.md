@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Printer.PrintableRect
 ms.assetid: 9d5b8264-9213-3d89-0613-421a4872c158
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Printer.PrintableRect property (Publisher)
 
-Returns a  **[PrintableRect](Publisher.PrintableRect.md)** object that represents the printer sheet area within which the specified printer will print. Read-only.
+Returns a **[PrintableRect](Publisher.PrintableRect.md)** object that represents the printer sheet area within which the specified printer prints. Read-only.
 
 
 ## Syntax
@@ -39,8 +39,7 @@ The printable rectangle is determined by the printer based on the sheet size spe
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **PrintableRect** property to get the boundaries of the printable rectangle for the printer sheet of the active printer.
-
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **PrintableRect** property to get the boundaries of the printable rectangle for the printer sheet of the active printer.
 
 ```vb
 Public Sub PrintableRect_Example() 

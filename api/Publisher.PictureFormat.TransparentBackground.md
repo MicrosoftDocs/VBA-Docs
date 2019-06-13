@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.TransparentBackground
 ms.assetid: 0a78b579-92bf-36e6-22f6-3ca0a48f5b5a
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
@@ -31,28 +31,25 @@ MsoTriState
 
 ## Remarks
 
-The  **TransparentBackground** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
-
-
+The **TransparentBackground** property value can be one of the **[MsoTriState](office.msotristate.md)** constants declared in the Microsoft Office type library and shown in the following table.
 
 |Constant|Description|
 |:-----|:-----|
 | **msoFalse**| Parts of the picture whose color is the transparency color do not appear transparent.|
-| **msoTriStateMixed**|Return value only, indicating a combination of  **msoTrue** and **msoFalse** for the specified objects..|
-| **msoTriStateToggle**|A set value that switches between  **msoTrue** and **msoFalse**.|
+| **msoTriStateMixed**|Return value only, indicating a combination of **msoTrue** and **msoFalse** for the specified objects.|
+| **msoTriStateToggle**|A set value that switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**| Parts of the picture whose color is the transparency color appear transparent.|
 
-Use the  **[TransparencyColor](Publisher.PictureFormat.TransparencyColor.md)** property to set the transparent color.
+Use the **[TransparencyColor](Publisher.PictureFormat.TransparencyColor.md)** property to set the transparent color.
 
 This property applies only to bitmaps.
 
-If you want to be able to see through the transparent parts of the picture all the way to the objects behind the picture, you must set the  **[Visible](Publisher.FillFormat.Visible.md)** property of the picture's **[FillFormat](Publisher.FillFormat.md)** object to **mso False**. If your picture has a transparent color and the  **Visible** property of the picture's **FillFormat** object is set to **msoTrue**, the picture's fill is visible through the transparent color, but objects behind the picture are obscured.
+If you want to be able to see through the transparent parts of the picture all the way to the objects behind the picture, you must set the **[Visible](Publisher.FillFormat.Visible.md)** property of the picture's **FillFormat** object to **mso False**. If your picture has a transparent color and the **Visible** property of the picture's **FillFormat** object is set to **msoTrue**, the picture's fill is visible through the transparent color, but objects behind the picture are obscured.
 
 
 ## Example
 
 This example sets the color blue as the transparent color for shape one in the active publication. For the example to work, shape one must be a bitmap.
-
 
 ```vb
 With ActiveDocument.Pages(1).Shapes(1) 

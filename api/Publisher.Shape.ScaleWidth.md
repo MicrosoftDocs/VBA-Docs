@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Shape.ScaleWidth
 ms.assetid: 07dcc04e-cb84-9c69-c589-87c0ff0bb147
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
@@ -19,49 +19,37 @@ Scales the width of the shape by a specified factor. For pictures and OLE object
 
 ## Syntax
 
-_expression_.**ScaleWidth**(**_Factor_**,  **_RelativeToOriginalSize_**,  **_fScale_**)
+_expression_.**ScaleWidth** (_Factor_, _RelativeToOriginalSize_, _fScale_)
 
 _expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Factor|Required| **Single**|Specifies the ratio between the width of the shape after you resize it and the current or original width. For example, to make a rectangle 50 percent larger, specify 1.5 for this argument.|
-|RelativeToOriginalSize|Required| **MsoTristate**| Specifies whether to scale relative to the object's original or current size.|
-|fScale|Optional| **MsoScaleFrom**|The part of the shape that retains its position when the shape is scaled.|
+|_Factor_|Required| **Single**|Specifies the ratio between the width of the shape after you resize it and the current or original width. For example, to make a rectangle 50 percent larger, specify 1.5 for this argument.|
+|_RelativeToOriginalSize_|Required| **[MsoTriState](office.msotristate.md)**| Specifies whether to scale relative to the object's original or current size.|
+|_fScale_|Optional| **[MsoScaleFrom](office.msoscalefrom.md)**|The part of the shape that retains its position when the shape is scaled. Can be one of the **MsoScaleFrom** constants declared in the Microsoft Office type library.|
 
 ## Remarks
 
-The RelativeToOriginalSize parameter can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
-
-
+The _RelativeToOriginalSize_ parameter can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 |Constant|Description|
 |:-----|:-----|
 | **msoFalse**|Scales the shape relative to its current size.|
 | **msoTrue**|Scales the shape relative to its original size.|
 
-The fScale parameter can be one of the  **MsoScaleFrom** constants declared in the Microsoft Office type library and shown in the following table. The default is **msoScaleFromTopLeft**.
 
+Shapes other than pictures and OLE objects are always scaled relative to their current width; specifying a _RelativeToOriginalSize_ value of **msoTrue** for shapes other than pictures or OLE objects causes an error.
 
-
-| **msoScaleFromBottomRight**|
-| **msoScaleFromMiddle**|
-| **msoScaleFromTopLeft**|
-
-Shapes other than pictures and OLE objects are always scaled relative to their current width; specifying a RelativeToOriginalSize value of  **msoTrue** for shapes other than pictures or OLE objects causes an error.
-
-Use the  **[ScaleHeight](Publisher.Shape.ScaleHeight.md)** method to scale the height of a shape.
+Use the **[ScaleHeight](Publisher.Shape.ScaleHeight.md)** method to scale the height of a shape.
 
 
 ## Example
 
 This example scales all pictures and OLE objects on the first page of the active publication to 175 percent of their original height and width, and it scales all other shapes to 175 percent of their current height and width.
-
 
 ```vb
 ' Looping variable. 

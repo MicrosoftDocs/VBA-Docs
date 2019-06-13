@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.Width property (Publisher)
 
-Returns or sets a  **Long** that represents the width (in points) of the window. Read/write.
+Returns or sets a  **Long** that represents the width (in [points](../language/glossary/vbe-glossary.md#point)) of the window. Read/write.
 
 
 ## Syntax

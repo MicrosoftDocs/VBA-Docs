@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ReaderSpread.Pages
 ms.assetid: 181c37b2-ed3f-826a-5718-ae6aff120eb3
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # ReaderSpread.Pages property (Publisher)
 
-Returns a  **[Page](Publisher.Page.md)** object representing one of the pages that compose the specified reader spread.
+Returns a **[Page](Publisher.Page.md)** object representing one of the pages that compose the specified reader spread.
 
 
 ## Syntax
@@ -26,21 +26,18 @@ _expression_ A variable that represents a **[ReaderSpread](Publisher.ReaderSprea
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |_Index_|Required| **Long**|The page from the reader spread to return. Can be either 1 or 2.|
 
 ## Remarks
 
-A reader spread will consist of only one or two pages, which is why the valid values for the  **Index** argument are 1 or 2.
+A reader spread consists of only one or two pages, which is why the valid values for the _Index_ argument are 1 or 2.
 
 
 ## Example
 
 The following example checks the reader spread of the fifth page in the active publication to see if it contains more than one page. If it does, the example reports the page number of the second page in the spread.
-
 
 ```vb
 Dim pageTemp As Page 

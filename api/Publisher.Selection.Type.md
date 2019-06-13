@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Selection.Type
 ms.assetid: 4dfcfecc-dd76-36b6-21df-34c3865b3064
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Selection.Type property (Publisher)
 
-Returns a  **PbSelectionType** constant that represents the selection type. Read-only.
+Returns a **[PbSelectionType](publisher.pbselectiontype.md)** constant that represents the selection type. Read-only.
 
 
 ## Syntax
@@ -26,20 +26,12 @@ _expression_ A variable that represents a **[Selection](Publisher.Selection.md)*
 
 ## Remarks
 
-The  **Type** property value can be one of these **PbSelectionType** constants.
+The **Type** property value can be one of the **PbSelectionType** constants.
 
-
-
-| **pbSelectionNone**|
-| **pbSelectionShape**|
-| **pbSelectionShapeSubSelection**|
-| **pbSelectionTableCells**|
-| **pbSelectionText**|
 
 ## Example
 
-This example checks to see if the selection is text and if it is, makes the selected text bold.
-
+This example checks to see if the selection is text, and if it is, makes the selected text bold.
 
 ```vb
 Sub IfCellData() 

@@ -7,15 +7,16 @@ ms.prod: publisher
 api_name:
 - Publisher.Plate.InkName
 ms.assetid: 248c1529-2706-5458-a13f-def479d16132
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Plate.InkName property (Publisher)
 
-Returns a  **PbInkName** constant that represents the name of the ink to be printed using this plate. Read-only.
+Returns a **PbInkName** constant that represents the name of the ink to be printed by using this plate. Read-only.
 
+<!--There is no PbInkName enumeration-->
 
 ## Syntax
 
@@ -26,15 +27,14 @@ _expression_ A variable that represents a **[Plate](Publisher.Plate.md)** object
 
 ## Remarks
 
-The  **InkName** property value can be one of the **[PbInkName](overview/Publisher.md)** constants declared in the Microsoft Publisher type library.
+The **InkName** property value can be one of the **PbInkName** constants declared in the Microsoft Publisher type library.
 
-Use the  **FindPlateByInkName** method of the **[PrintablePlates](Publisher.PrintablePlates.md)** collection to return a specific plate by referencing its ink name.
+Use the **FindPlateByInkName** method of the **[PrintablePlates](Publisher.PrintablePlates.md)** collection to return a specific plate by referencing its ink name.
 
 
 ## Example
 
 The following example returns a list of the printable plates currently in the collection for the active publication. The example assumes that separations have been specified as the active publication's print mode.
-
 
 ```vb
 Sub ListPrintablePlates() 

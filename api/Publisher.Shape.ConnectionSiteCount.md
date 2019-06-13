@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Shape.ConnectionSiteCount
 ms.assetid: 00c32910-96b6-6981-8359-de4a71852934
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object
 
 ## Remarks
 
-The number of connection sites varies depending on the shape geometry. Rectangular objects including tables and Web controls will most likely have four connection sites, one centered on each edge of the shape.
+The number of connection sites varies depending on the shape geometry. Rectangular objects including tables and web controls will most likely have four connection sites, one centered on each edge of the shape.
 
 
 ## Example
 
-This example adds two rectangles to the active publication and joins them with two connectors. The beginnings of both connectors attach to connection site one on the first rectangle; the ends of the connectors attach to the first and last connection sites of the second rectangle. Then it counts the number of connections on the first rectangle.
-
+This example adds two rectangles to the active publication and joins them with two connectors. The beginnings of both connectors attach to connection site one on the first rectangle; the ends of the connectors attach to the first and last connection sites of the second rectangle. It then counts the number of connections on the first rectangle.
 
 ```vb
 Sub Connections() 

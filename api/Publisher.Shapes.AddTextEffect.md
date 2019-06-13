@@ -33,7 +33,7 @@ _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** obje
 |PresetTextEffect|Required| **MsoPresetTextEffect**|The preset text effect to use. The values of the  **MsoPresetTextEffect** constants correspond to the formats listed in the **WordArt Gallery** dialog box (numbered from left to right and from top to bottom).|
 |Text|Required| **String**|The text to use for the WordArt object.|
 |FontName|Required| **String**|The name of the font to use for the WordArt object.|
-|FontSize|Required| **Variant**|The font size to use for the WordArt object. Numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").|
+|FontSize|Required| **Variant**|The font size to use for the WordArt object. Numeric values are evaluated in [points](../language/glossary/vbe-glossary.md#point); strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").|
 |FontBold|Required| **MsoTriState**|Determines whether to format the WordArt text as bold.|
 |FontItalic|Required| **MsoTriState**|Determines whether to format the WordArt text as italic.|
 |Left|Required| **Variant**|The position of the left edge of the shape representing the WordArt object.|

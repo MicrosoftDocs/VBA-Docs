@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Shape.Table
 ms.assetid: a9b29d1f-2459-556c-56f8-f8f809b879c9
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Shape.Table property (Publisher)
 
-Returns a  **Table** object that represents a table in Microsoft Publisher.
+Returns a **[Table](publisher.table.md)** object that represents a table in Microsoft Publisher.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object
 
 The following example adds a 5x5 table on the first page of the active publication, and then selects the first column of the new table.
 
-
 ```vb
 Sub NewTable() 
  With ActiveDocument.Pages(1).Shapes.AddTable(NumRows:=5, _ 
@@ -39,10 +38,9 @@ Sub NewTable()
 End Sub
 ```
 
+<br/>
+
 The following example selects the specified table in the active publication. This example assumes that there is at least one shape on the first page of the active publication.
-
-
-
 
 ```vb
 Sub SelectTable() 

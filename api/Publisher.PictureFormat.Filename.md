@@ -1,25 +1,25 @@
 ---
-title: PictureFormat.Filename property (Publisher)
+title: PictureFormat.FileName property (Publisher)
 keywords: vbapb10.chm3604756
 f1_keywords:
 - vbapb10.chm3604756
 ms.prod: publisher
 api_name:
-- Publisher.PictureFormat.Filename
+- Publisher.PictureFormat.FileName
 ms.assetid: 73e2a224-f15a-50cc-462e-10ccf9478122
 ms.date: 06/12/2019
 localization_priority: Normal
 ---
 
 
-# PictureFormat.Filename property (Publisher)
+# PictureFormat.FileName property (Publisher)
 
 Returns a **String** that represents the file name of the specified picture or OLE object. Read-only.
 
 
 ## Syntax
 
-_expression_.**Filename**
+_expression_.**FileName**
 
 _expression_ A variable that represents a **[PictureFormat](Publisher.PictureFormat.md)** object.
 
@@ -52,7 +52,7 @@ For Each pgLoop In ActiveDocument.Pages
  
  If .IsEmpty = msoFalse Then 
  
- Debug.Print "File Name: " & .Filename 
+ Debug.Print "File Name: " & .FileName 
  Debug.Print "Horizontal Scaling: " & .HorizontalScale & "%" 
  Debug.Print "Vertical Scaling: " & .VerticalScale & "%" 
  Debug.Print "File size in publication: " & .FileSize & " bytes" 

@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Shape.InlineAlignment
 ms.assetid: daef2761-2a93-25da-9c12-1fed0fdd24ab
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Shape.InlineAlignment property (Publisher)
 
-Returns or sets a  **PbInlineAlignment** constant that indicates whether an inline shape has left, right, or in-text alignment. Read/write.
+Returns or sets a **[PbInlineAlignment](Publisher.PbInlineAlignment.md)** constant that indicates whether an inline shape has left, right, or in-text alignment. Read/write.
 
 
 ## Syntax
@@ -26,15 +26,14 @@ _expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object
 
 ## Remarks
 
-The  **InlineAlignment** property value can be one of the **[PbInlineAlignment](Publisher.PbInlineAlignment.md)** constants declared in the Microsoft Publisher type library.
+The **InlineAlignment** property value can be one of the **PbInlineAlignment** constants declared in the Microsoft Publisher type library.
 
 An automation error is returned if the shape is not already inline.
 
 
 ## Example
 
-The following example moves the second shape on the second page of the publication into the text flow by using the  **[MoveIntoTextFlow](Publisher.Shape.MoveIntoTextFlow.md)** method. The **InlineAlignment** property is then used to align the shape to the right.
-
+The following example moves the second shape on the second page of the publication into the text flow by using the **[MoveIntoTextFlow](Publisher.Shape.MoveIntoTextFlow.md)** method. The **InlineAlignment** property is then used to align the shape to the right.
 
 ```vb
 Dim theShape As Shape 

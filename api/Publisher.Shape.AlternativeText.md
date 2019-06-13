@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Shape.AlternativeText
 ms.assetid: 13bc57af-7067-d60c-5096-a68b1f821d58
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Shape.AlternativeText property (Publisher)
 
-Returns or sets a  **String** representing the text displayed by a web browser in place of the **Shape** object while the **Shape** object is being downloaded or when graphics are turned off. Read/write.
+Returns or sets a **String** representing the text displayed by a web browser in place of the **Shape** object while the **Shape** object is being downloaded or when graphics are turned off. Read/write.
 
 
 ## Syntax
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object
 
 ## Remarks
 
-The maximum length of the  **AlternativeText** property is 254 characters. Microsoft Publisher returns an error if the text length exceeds this number.
+The maximum length of the **AlternativeText** property is 254 characters. Microsoft Publisher returns an error if the text length exceeds this number.
 
 
 ## Example
 
-This example sets the alternative text for the selected shape in the active document. This example assumes that you have a publication that the selected shape is a picture of a duck.
-
+This example sets the alternative text for the selected shape in the active document. This example assumes that you have a publication and that the selected shape is a picture of a duck.
 
 ```vb
 Public Sub Alternative_Text() 

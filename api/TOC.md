@@ -23666,7 +23666,7 @@
 ###### [CropRight](Publisher.PictureFormat.CropRight.md)
 ###### [CropTop](Publisher.PictureFormat.CropTop.md)
 ###### [EffectiveResolution](Publisher.PictureFormat.EffectiveResolution.md)
-###### [Filename](Publisher.PictureFormat.Filename.md)
+###### [FileName](Publisher.PictureFormat.FileName.md)
 ###### [FileSize](Publisher.PictureFormat.FileSize.md)
 ###### [HasAlphaChannel](Publisher.PictureFormat.HasAlphaChannel.md)
 ###### [HasTransparencyColor](Publisher.PictureFormat.HasTransparencyColor.md)
@@ -23743,7 +23743,7 @@
 ###### [Parent](Publisher.Printer.Parent.md)
 ###### [PrintableRect](Publisher.Printer.PrintableRect.md)
 ###### [PrinterName](Publisher.Printer.PrinterName.md)
-###### [PrintMode](Publisher.Printer.Printer.PrintMode.md)
+###### [PrintMode](Publisher.Printer.PrintMode.md)
 #### [ReaderSpread object](Publisher.ReaderSpread.md)
 ##### Properties
 ###### [Application](Publisher.ReaderSpread.Application.md)

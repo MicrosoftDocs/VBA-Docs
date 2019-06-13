@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[TabStops](Publisher.TabStops.md)** 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Position|Required| **Variant**|The horizontal position of the new tab stop relative to the left edge of the text frame. Numeric values are evaluated in points; strings are evaluated in the units specified and can be in any measurement unit supported by Microsoft Publisher (for example, "2.5 in").|
+|Position|Required| **Variant**|The horizontal position of the new tab stop relative to the left edge of the text frame. Numeric values are evaluated in [points](../language/glossary/vbe-glossary.md#point); strings are evaluated in the units specified and can be in any measurement unit supported by Microsoft Publisher (for example, "2.5 in").|
 |Alignment|Required| **PbTabAlignmentType**|The alignment setting for the tab stop.|
 |Leader|Required| **PbTabLeaderType**|The type of leader for the tab stop.|
 

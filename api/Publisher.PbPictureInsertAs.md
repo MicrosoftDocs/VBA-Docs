@@ -16,7 +16,7 @@ localization_priority: Normal
 
 The manner in which you want the picture file inserted into the document: linked or embedded.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

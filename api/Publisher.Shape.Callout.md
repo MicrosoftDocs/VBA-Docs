@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Shape.Callout
 ms.assetid: e0682bb4-1129-fa58-b28c-46d7ce2fad0c
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Shape.Callout property (Publisher)
 
-Returns a  **[CalloutFormat](Publisher.CalloutFormat.md)** object representing the formatting of a line callout.
+Returns a **[CalloutFormat](Publisher.CalloutFormat.md)** object representing the formatting of a line callout.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object
 ## Example
 
 This example adds an oval to the active publication and a callout that points to the oval. The callout text won't have a border, but it will have a vertical accent bar that separates the text from the callout line.
-
 
 ```vb
 Sub NewShapeItem() 

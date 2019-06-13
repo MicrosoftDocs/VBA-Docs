@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Shape.Type
 ms.assetid: bb712dd4-5d81-10e0-9b4c-4af6a09a3c71
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object
 
 ## Remarks
 
-The  **Type** property value can be one of the **[PbShapeType](Publisher.PbShapeType.md)** constants declared in the Microsoft Publisher type library.
+The **Type** property value can be one of the **[PbShapeType](Publisher.PbShapeType.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example
 
-This example formats the callout type of the specified shape if the shape is a callout. This example assumes there is at least one shape on the first page of the active publication.
-
+This example formats the callout type of the specified shape if the shape is a callout. This example assumes that there is at least one shape on the first page of the active publication.
 
 ```vb
 Sub SetCalloutType() 

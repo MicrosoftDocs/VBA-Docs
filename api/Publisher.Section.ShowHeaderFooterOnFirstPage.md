@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Section.ShowHeaderFooterOnFirstPage
 ms.assetid: 6c814884-9bee-72ae-3a40-5118bebd6f02
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # Section.ShowHeaderFooterOnFirstPage property (Publisher)
 
- **True** if the header and footer of the specified section will be visible. Read/write **Boolean**.
+**True** if the header and footer of the specified section will be visible. Read/write **Boolean**.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ Boolean
 
 ## Example
 
-The following example adds a new section starting on the second page of the active document, adds header and footer text to the master page, and then sets the  **ShowHeaderFooterOnFirstPage** property to **True**.
-
+The following example adds a new section starting on the second page of the active document, adds header and footer text to the master page, and then sets the **ShowHeaderFooterOnFirstPage** property to **True**.
 
 ```vb
 Dim objSection As Section 

@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.OriginalResolution
 ms.assetid: 0cb7ee4e-3eb8-baee-6535-d936e3c5f05c
-ms.date: 06/08/2017
+ms.date: 06/13/2019
 localization_priority: Normal
 ---
 
 
 # PictureFormat.OriginalResolution property (Publisher)
 
-Returns a  **Long** that represents, in dots per inch (dpi), the resolution at which the linked picture was originally scanned. Read-only.
+Returns a **Long** that represents, in dots per inch (dpi), the resolution at which the linked picture was originally scanned. Read-only.
 
 
 ## Syntax
@@ -33,15 +33,17 @@ Long
 
 This property only applies to linked pictures. Returns "Permission Denied" for shapes representing embedded or pasted pictures.
 
-To determine whether a shape represents a linked picture, use either the  **[Type](Publisher.Shape.Type.md)** property of the **[Shape](Publisher.Shape.md)** object, or the **[IsLinked](Publisher.PictureFormat.IsLinked.md)** property of the **[PictureFormat](Publisher.PictureFormat.md)** object.
+Use either of the following properties to determine whether a shape represents a linked picture:
 
-Use the  **[EffectiveResolution](Publisher.PictureFormat.EffectiveResolution.md)** property to determine the resolution at which the picture or OLE object prints in the specified document.
+- The **[Type](Publisher.Shape.Type.md)** property of the **Shape** object   
+- The **[IsLinked](Publisher.PictureFormat.IsLinked.md)** property of the **PictureFormat** object
+
+Use the **[EffectiveResolution](Publisher.PictureFormat.EffectiveResolution.md)** property to determine the resolution at which the picture or OLE object prints in the specified document.
 
 
 ## Example
 
 The following example tests each picture in the active publication, and returns selected image properties for pictures that are linked.
-
 
 ```vb
 Dim pgLoop As Page 
