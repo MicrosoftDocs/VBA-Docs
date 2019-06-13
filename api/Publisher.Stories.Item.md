@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Stories.Item
 ms.assetid: 93dfcdec-0cdc-9d76-2698-0607281f7228
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
@@ -26,14 +26,14 @@ _expression_ A variable that represents a **[Stories](Publisher.Stories.md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |_Index_|Required| **Long**|The number of the object to return.|
 
 ## Return value
 
-Story
+**[Story](Publisher.Story.md)**
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
