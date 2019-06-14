@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.TextEffectFormat.PresetTextEffect
 ms.assetid: d7ef0995-4560-fea0-b98d-03c8e0c8e65e
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # TextEffectFormat.PresetTextEffect property (Publisher)
 
-Returns or sets an  **MsoPresetTextEffect** constant that represents the style of the specified WordArt. The values for this property correspond to the formats in the **WordArt Gallery** dialog box, numbered from left to right, top to bottom. Read/write.
+Returns or sets an **[MsoPresetTextEffect](Office.MsoPresetTextEffect.md)** constant that represents the style of the specified WordArt. The values for this property correspond to the formats in the **WordArt Gallery** dialog box, numbered from left to right, top to bottom. Read/write.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ MsoPresetTextEffect
 
 ## Remarks
 
-The  **PresetTextEffect** property value can be one of the **[MsoPresetTextEffect](Office.MsoPresetTextEffect.md)** constants declared in the Microsoft Office type library.
+The **PresetTextEffect** property value can be one of the **MsoPresetTextEffect** constants declared in the Microsoft Office type library.
 
 
 ## Example
 
 This example sets the text effect style for the first shape on the first page of the active publication. This example assumes that there is at least one shape on the first page of the active publication.
-
 
 ```vb
 Sub ChangeTextEffect() 

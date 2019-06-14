@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.TextEffectFormat.FontSize
 ms.assetid: 8db62556-27b3-f6c7-3ea3-25aa59daff7e
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
@@ -22,6 +22,7 @@ Returns or sets a **Variant** that represents the font size for the specified Wo
 _expression_.**FontSize**
 
 _expression_ A variable that represents a **[TextEffectFormat](Publisher.TextEffectFormat.md)** object.
+
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
