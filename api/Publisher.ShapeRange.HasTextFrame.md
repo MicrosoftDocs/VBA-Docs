@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.HasTextFrame
 ms.assetid: 8a3b4f3b-3282-686b-f4fe-abf2d7677b3e
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
 
 # ShapeRange.HasTextFrame property (Publisher)
 
-Indicates whether the specified shape has a  **TextFrame** object associated with it. Read-only.
+Indicates whether the specified shape has a **[TextFrame](publisher.textframe.md)** object associated with it. Read-only.
 
 
 ## Syntax
@@ -26,11 +26,9 @@ _expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md
 
 ## Remarks
 
-If the  **HasTextFrame** property is true, clients must check the value of the **HasText** property of the **TextFrame** object to determine if there is any text on the shape.
+If the **HasTextFrame** property is true, clients must check the value of the **[HasText](publisher.textframe.hastext.md)** property of the **TextFrame** object to determine if there is any text on the shape.
 
-The  **HasTextFrame** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
-
-
+The **HasTextFrame** property value can be one of the **[MsoTriState](office.msotristate.md)** constants declared in the Microsoft Office type library and shown in the following table.
 
 |Constant|Description|
 |:-----|:-----|
@@ -40,8 +38,7 @@ The  **HasTextFrame** property value can be one of the **MsoTriState** constants
 
 ## Example
 
-This example tests all the shapes in the selection and if none have text frames associated with them, they are left aligned.
-
+This example tests all the shapes in the selection, and if none have text frames associated with them, they are left aligned.
 
 ```vb
 Sub MoveLeft() 

@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Shadow
 ms.assetid: d6ee257c-9a26-abfc-9e8e-ef89bf627690
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
 
 # ShapeRange.Shadow property (Publisher)
 
-Returns a  **[ShadowFormat](Publisher.ShadowFormat.md)** object that represents the shadow formatting for the specified shape.
+Returns a **[ShadowFormat](Publisher.ShadowFormat.md)** object that represents the shadow formatting for the specified shape.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md
 ## Example
 
 This example adds an arrow with shadow formatting and fill color to the first page in the active document.
-
 
 ```vb
 Sub SetShapeShadow() 

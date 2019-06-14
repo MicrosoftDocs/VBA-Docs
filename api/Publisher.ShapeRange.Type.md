@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Type
 ms.assetid: 31b56495-f3bb-73f4-52ef-eba4e43ea569
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
@@ -26,6 +26,7 @@ _expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md
 
 ## Remarks
 
-The  **Type** property value can be one of the **[PbShapeType](Publisher.PbShapeType.md)** constants declared in the Microsoft Publisher type library.
+The **Type** property value can be one of the **[PbShapeType](Publisher.PbShapeType.md)** constants declared in the Microsoft Publisher type library.
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

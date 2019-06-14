@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Apply
 ms.assetid: 3531d0aa-479e-2d50-5e1e-a35f7c1e7ba6
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
 
 # ShapeRange.Apply method (Publisher)
 
-Applies formatting copied from another shape or shape range using the  **[PickUp](Publisher.ShapeRange.PickUp.md)** method.
+Applies formatting copied from another shape or shape range by using the **[PickUp](Publisher.ShapeRange.PickUp.md)** method.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ Nothing
 
 ## Remarks
 
-If you do not first use the  **PickUp** method to copy the formatting from another shape, an error occurs.
+If you do not first use the **PickUp** method to copy the formatting from another shape, an error occurs.
 
 
 ## Example
 
 The following example copies the formatting from the first shape of the active publication to the second shape of the active publication.
-
 
 ```vb
 With ActiveDocument.Pages(1) 

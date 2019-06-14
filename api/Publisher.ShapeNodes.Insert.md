@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.ShapeNodes.Insert
 ms.assetid: c78ceefe-db9f-4af0-2e76-2ab1e4dc74b8
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
@@ -29,37 +29,23 @@ _expression_ A variable that represents a **[ShapeNodes](Publisher.ShapeNodes.md
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |_Index_|Required| **Long**|The number of the node after which the new node is to be inserted.|
-|SegmentType|Required| **MsoSegmentType**|The type of segment to be added.|
-|EditingType|Required| **MsoEditingType**|Specifies the editing type of the new node.|
-|X1|Required| **Variant**|If the EditingType of the new segment is  **msoEditingAuto**, this argument specifies the horizontal distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new node is  **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the first control point for the new segment.|
-|Y1|Required| **Variant**|If the EditingType of the new segment is  **msoEditingAuto**, this argument specifies the vertical distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new node is  **msoEditingCorner**, this argument specifies the vertical distance from the upper-left corner of the page to the first control point for the new segment.|
-|X2|Optional| **Variant**|If the EditingType of the new segment is  **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the second control point for the new segment. If the EditingType of the new segment is  **msoEditingAuto**, do not specify a value for this argument.|
-|Y2|Optional| **Variant**|If the EditingType of the new segment is  **msoEditingCorner**, this argument specifies the vertical distance from the upper-left corner of the page to the second control point for the new segment. If the EditingType of the new segment is  **msoEditingAuto**, do not specify a value for this argument.|
-|X3|Optional| **Variant**|If the EditingType of the new segment is  **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new segment is  **msoEditingAuto**, do not specify a value for this argument.|
-|Y3|Optional| **Variant**|If the EditingType of the new segment is  **msoEditingCorner**, this argument specifies the vertical distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new segment is  **msoEditingAuto**, do not specify a value for this argument.|
+|_SegmentType_|Required| **[MsoSegmentType](office.msosegmenttype.md)**|The type of segment to be added. Can be one of the **MsoSegmentType** constants.|
+|_EditingType_|Required| **[MsoEditingType](Office.MsoEditingType.md)**|The editing type of the new node. Can be one of the **MsoEditingType** constants.|
+|_X1_|Required| **Variant**|If the _EditingType_ of the new segment is **msoEditingAuto**, this argument specifies the horizontal distance from the upper-left corner of the page to the endpoint of the new segment.<br/><br/>If the _EditingType_ of the new node is **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the first control point for the new segment.|
+|_Y1_|Required| **Variant**|If the _EditingType_ of the new segment is **msoEditingAuto**, this argument specifies the vertical distance from the upper-left corner of the page to the endpoint of the new segment.<br/><br/>If the _EditingType_ of the new node is **msoEditingCorner**, this argument specifies the vertical distance from the upper-left corner of the page to the first control point for the new segment.|
+|_X2_|Optional| **Variant**|If the _EditingType_ of the new segment is **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the second control point for the new segment.<br/><br/>If the _EditingType_ of the new segment is **msoEditingAuto**, do not specify a value for this argument.|
+|_Y2_|Optional| **Variant**|If the _EditingType_ of the new segment is **msoEditingCorner**, this argument specifies the vertical distance from the upper-left corner of the page to the second control point for the new segment.<br/><br/>If the _EditingType_ of the new segment is **msoEditingAuto**, do not specify a value for this argument.|
+|_X3_|Optional| **Variant**|If the _EditingType_ of the new segment is **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the endpoint of the new segment.<br/><br/>If the _EditingType_ of the new segment is **msoEditingAuto**, do not specify a value for this argument.|
+|_Y3_|Optional| **Variant**|If the _EditingType_ of the new segment is **msoEditingCorner**, this argument specifies the vertical distance from the upper-left corner of the page to the endpoint of the new segment.<br/><br/>If the _EditingType_ of the new segment is **msoEditingAuto**, do not specify a value for this argument.|
 
 ## Remarks
 
-For the X1, Y1, X2, Y2, X3, and Y3 arguments, numeric values are evaluated in points; strings can be in any units supported by Publisher (for example, "2.5 in"). 
+For the _X1_, _Y1_, _X2_, _Y2_, _X3_, and _Y3_ arguments, numeric values are evaluated in [points](../language/glossary/vbe-glossary.md#point); strings can be in any units supported by Publisher (for example, "2.5 in"). 
 
-SegmentType can be one of these  **MsoSegmentType** constants.
-
-
-
-| **msoSegmentCurve**|
-| **msoSegmentLine**|
-
-EditingType can be one of these  **MsoEditingType** constants.
-
-
-
-| **msoEditingAuto**|Adds a node type appropriate to the segments being connected.|
-| **msoEditingCorner**|Adds a corner node.|
 
 ## Example
 
 This example adds a smooth node with a curved segment after node four in the third shape in the active publication. The shape must be a freeform drawing with at least four nodes.
-
 
 ```vb
 With ActiveDocument.Pages(1).Shapes(3).Nodes 

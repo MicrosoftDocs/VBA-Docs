@@ -23,7 +23,7 @@ Use the **[Wizard](Publisher.Document.Wizard.md)** property of a **Document**, *
 ## Example
 
 > [!NOTE] 
-> Depending on the language version of Microsoft Publisher that you are using, you may receive an error when using the following code. If this occurs, you will need to build in error handlers to circumvent the errors. 
+> Depending on the language version of Publisher that you are using, you may receive an error when using this code. If this occurs, you will need to build in error handlers to circumvent the errors. 
 
 This example reports on the publication design associated with the active publication, displaying its name and current settings.
 

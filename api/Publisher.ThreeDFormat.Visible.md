@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ThreeDFormat.Visible property (Publisher)
 
-Returns or sets an  **MsoTriState** constant indicating whether the specified object or the formatting applied to the specified object is visible. Read/write.
+Returns or sets an **[MsoTriState](office.msotristate.md)** constant indicating whether the specified object or the formatting applied to the specified object is visible. Read/write.
 
 
 ## Syntax

@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Shapes.AddOLEObject
 ms.assetid: c454f9cb-2005-5e55-80a7-6dfbe9c109e5
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
@@ -28,13 +28,13 @@ _expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Left|Required| **Variant**|The position of the left edge of the shape representing the OLE object.|
-|Top|Required| **Variant**|The position of the top edge of the shape representing the OLE object.|
-|Width|Optional| **Variant**|The width of the shape representing the OLE object. Default is -1, meaning that the width of the shape is automatically set based on the object's data.|
-|Height|Optional| **Variant**|The height of the shape representing the OLE object. Default is -1, meaning that the width of the shape is automatically set based on the object's data.|
-|ClassName|Optional| **String**|The class name of the OLE object to be added.|
-|FileName|Optional| **String**|The file name of the OLE object to be added. If the path is not specified, the current working folder is used.|
-|Link|Optional| **MsoTriState**|Determines whether the OLE object is linked to or embedded in the publication.|
+|_Left_|Required| **Variant**|The position of the left edge of the shape representing the OLE object.|
+|_Top_|Required| **Variant**|The position of the top edge of the shape representing the OLE object.|
+|_Width_|Optional| **Variant**|The width of the shape representing the OLE object. Default is -1, meaning that the width of the shape is automatically set based on the object's data.|
+|_Height_|Optional| **Variant**|The height of the shape representing the OLE object. Default is -1, meaning that the height of the shape is automatically set based on the object's data.|
+|_ClassName_|Optional| **String**|The class name of the OLE object to be added.|
+|_FileName_|Optional| **String**|The file name of the OLE object to be added. If the path is not specified, the current working folder is used.|
+|_Link_|Optional| **[MsoTriState](office.msotristate.md)**|Determines whether the OLE object is linked to or embedded in the publication.|
 
 ## Return value
 
@@ -43,13 +43,11 @@ Shape
 
 ## Remarks
 
-For the Left, Top, Width, and Height arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+For the _Left_, _Top_, _Width_, and _Height_ arguments, numeric values are evaluated in [points](../language/glossary/vbe-glossary.md#point); strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
-You must specify either a ClassName or FileName. If neither argument is specified, or if both are specified, an error occurs.
+You must specify either a _ClassName_ or a _FileName_. If neither argument is specified, or if both are specified, an error occurs.
 
-The Link parameter can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
-
-
+The _Link_ parameter can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 |Constant|Description|
 |:-----|:-----|
@@ -59,7 +57,6 @@ The Link parameter can be one of the **MsoTriState** constants declared in the M
 ## Example
 
 The following example adds a Microsoft Office Excel worksheet to the first page of the active publication and activates the worksheet for editing.
-
 
 ```vb
 Dim shpSheet As Shape 

@@ -19,19 +19,17 @@ Sizes the Microsoft Publisher application window.
 
 ## Syntax
 
-_expression_.**Resize**(**_Width_**,  **_Height_**)
+_expression_.**Resize** (_Width_, _Height_)
 
 _expression_ A variable that represents a **[Window](Publisher.Window.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Width|Required| **Long**|The width of the window, in points.|
-|Height|Required| **Long**|The height of the window, in points.|
+| _Width_|Required| **Long**|The width of the window, in points.|
+| _Height_|Required| **Long**|The height of the window, in points.|
 
 ## Remarks
 

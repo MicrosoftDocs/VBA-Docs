@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextEffectFormat.FontBold property (Publisher)
 
-Sets or returns an  **MsoTriState**constant that represents whether the font for a dropped capital letter or WordArt text effect is bold. Read/write.
+Sets or returns an  **MsoTriState** constant that represents whether the font for a dropped capital letter or WordArt text effect is bold. Read/write.
 
 
 ## Syntax

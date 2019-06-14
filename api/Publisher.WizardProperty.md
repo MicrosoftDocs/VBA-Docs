@@ -23,7 +23,7 @@ Use the **[Item](Publisher.WizardProperties.Item.md)** property or the **[FindBy
 ## Example
 
 > [!NOTE] 
-> Depending on the language version of Microsoft Publisher that you are using, you may receive an error when using the following code. If this occurs, you will need to build in error handlers to circumvent the errors. For more information, see **[Wizard Object](Publisher.Wizard.md)**.
+> Depending on the language version of Publisher that you are using, you may receive an error when using this code. If this occurs, you will need to build in error handlers to circumvent the errors. For more information, see the **[Wizard](Publisher.Wizard.md)** object.
 
 The following example reports on the publication design associated with the active publication, displaying its name and current settings.
 

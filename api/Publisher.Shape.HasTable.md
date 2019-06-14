@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # Shape.HasTable property (Publisher)
 
-Returns **msoTrue** if the shape represents a **TableFrame** object, or **msoFalse** if the shape represents any other object type. Read-only.
+Returns **msoTrue** if the shape represents a **[Table](Publisher.Table.md)** object, or **msoFalse** if the shape represents any other object type. Read-only.
 
-<!--There is no TableFrame object-->
+<!--There is no TableFrame object, so substituted Table instead-->
 
 ## Syntax
 
@@ -31,9 +31,9 @@ The **HasTable** property value can be one of the **[MsoTriState](office.msotris
 
 |Constant|Description|
 |:-----|:-----|
-| **msoFalse**| The shapes in the range do not represent a **TableFrame** object.|
+| **msoFalse**| The shapes in the range do not represent a **Table** object.|
 | **msoTriStateMixed**|Indicates a combination of **msoTrue** and **msoFalse** for the specified shape range.|
-| **msoTrue**|The shapes in the range represent a **TableFrame** object.|
+| **msoTrue**|The shapes in the range represent a **Table** object.|
 
 ## Example
 

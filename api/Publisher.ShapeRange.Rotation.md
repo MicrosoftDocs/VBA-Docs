@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Rotation
 ms.assetid: 0239aaae-18c7-56ef-f2b1-82f82660370a
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
 
 # ShapeRange.Rotation property (Publisher)
 
-Returns or sets a  **Single** that represents the number of degrees the specified shape is rotated around the z-axis. A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. Read/write.
+Returns or sets a **Single** that represents the number of degrees that the specified shape is rotated around the z-axis. A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. Read/write.
 
 
 ## Syntax
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md
 
 ## Remarks
 
-To set the rotation of a three-dimensional shape around the x-axis or the y-axis, use the  **[RotationX](Publisher.ThreeDFormat.RotationX.md)** property or the  **[RotationY](Publisher.ThreeDFormat.RotationY.md)** property of the  **[ThreeDFormat](Publisher.ThreeDFormat.md)** object.
+To set the rotation of a three-dimensional shape around the x-axis or the y-axis, use the **[RotationX](Publisher.ThreeDFormat.RotationX.md)** property or the **[RotationY](Publisher.ThreeDFormat.RotationY.md)** property of the **ThreeDFormat** object.
 
 
 ## Example
 
-This example matches the rotation of all shapes on the first page of the active publication to the rotation of the first shape. This example assumes there are at least two shapes on the first page of the active publication.
-
+This example matches the rotation of all shapes on the first page of the active publication to the rotation of the first shape. This example assumes that there are at least two shapes on the first page of the active publication.
 
 ```vb
 Sub SetShapeRotation() 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ThreeDFormat.ProjectText property (Word)
 
-Returns or sets an  **MsoTriState** constant that represents whether text on a shape rotates with shape. **msoTrue** rotates the text. Read/write.
+Returns or sets an **[MsoTriState](office.msotristate.md)** constant that represents whether text on a shape rotates with shape. **msoTrue** rotates the text. Read/write.
 
 
 ## Syntax

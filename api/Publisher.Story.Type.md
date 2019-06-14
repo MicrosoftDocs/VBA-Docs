@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.Story.Type
 ms.assetid: 71e6548d-f54a-b4df-d878-d86a85c1332b
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
@@ -26,13 +26,7 @@ _expression_ A variable that represents a **[Story](Publisher.Story.md)** object
 
 ## Remarks
 
-The  **Type** property value can be one of these **PbStoryType** constants
+The **Type** property value can be one of the **[PbStoryType](publisher.pbstorytype.md)** constants.
 
-
-
-| **pbStoryContinuedFrom**|
-| **pbStoryContinuedOn**|
-| **pbStoryTable**|
-| **pbStoryTextFrame**|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Table.Rows
 ms.assetid: 97a543b9-a1d7-c7f8-9f3c-e08256e0b364
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
 
 # Table.Rows property (Publisher)
 
-Returns a  **[Rows](Publisher.Rows.md)** collection that represents all the table rows in a range, selection, or table.
+Returns a **[Rows](Publisher.Rows.md)** collection that represents all the table rows in a range, selection, or table.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ For information about returning a single member of a collection, see [Returning 
 
 ## Example
 
-This example enters the fill for all even-numbered rows and clears the fill for all odd-numbered rows in the specified table. This example assumes the specified shape is a table and not another type of shape.
-
+This example enters the fill for all even-numbered rows and clears the fill for all odd-numbered rows in the specified table. This example assumes that the specified shape is a table and not another type of shape.
 
 ```vb
 Sub FillCellsByRow() 

@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Duplicate
 ms.assetid: e940e551-4307-aa33-5713-80f77fade8af
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
 
 # ShapeRange.Duplicate method (Publisher)
 
-Creates a duplicate of the specified  **[Shape](Publisher.Shape.md)** or **[ShapeRange](Publisher.ShapeRange.md)** object, adds the new shape or range of shapes to the **Shapes** collection immediately after the shape or range of shapes specified originally, and then returns the new **Shape** or **ShapeRange** object.
+Creates a duplicate of the specified **[Shape](Publisher.Shape.md)** or **ShapeRange** object, adds the new shape or range of shapes to the **Shapes** collection immediately after the shape or range of shapes specified originally, and then returns the new **Shape** or **ShapeRange** object.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ ShapeRange
 ## Example
 
 This example adds a new, blank page at the end of the active publication, adds a diamond shape to the new page, duplicates the diamond, and then sets properties for the duplicate. The first diamond will have the default fill color for the active color scheme; the second diamond will be offset from the first one and will have the first accent color for the active color scheme.
-
 
 ```vb
 Dim pgTemp As Page 

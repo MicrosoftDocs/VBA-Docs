@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Group
 ms.assetid: ca3e011f-72ea-904e-da3f-cac7fe24341d
-ms.date: 06/08/2017
+ms.date: 06/14/2019
 localization_priority: Normal
 ---
 
 
 # ShapeRange.Group method (Publisher)
 
-Groups the shapes in the specified shape range. Returns the grouped shapes as a single  **[Shape](Publisher.Shape.md)** object.
+Groups the shapes in the specified shape range. Returns the grouped shapes as a single **[Shape](Publisher.Shape.md)** object.
 
 
 ## Syntax
@@ -33,13 +33,12 @@ Shape
 
 The specified range must contain more than one shape, or an error occurs.
 
-Because a group of shapes is treated as a single shape, grouping and ungrouping shapes changes the number of items in the  **[Shapes](Publisher.Shapes.md)** collection and changes the index numbers of items that come after the affected items in the collection.
+Because a group of shapes is treated as a single shape, grouping and ungrouping shapes changes the number of items in the **[Shapes](Publisher.Shapes.md)** collection and changes the index numbers of items that come after the affected items in the collection.
 
 
 ## Example
 
 This example adds two shapes to the first page of the active publication, groups the two new shapes, sets the fill for the group, rotates the group, and sends the group to the back of the drawing layer.
-
 
 ```vb
 With ActiveDocument.Pages(1).Shapes 
