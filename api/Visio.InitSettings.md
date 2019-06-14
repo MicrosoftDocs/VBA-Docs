@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # VisWebPageSettings.InitSettings Method (Visio Save As Web)
 
-Loads the Web page settings that were saved in the registry in an earlier instance of Microsoft Visio.
+Loads the webpage settings that were saved in the registry in an earlier instance of Microsoft Visio.
 
 
 ## Syntax
@@ -28,14 +28,14 @@ _expression_.**InitSettings**
 
 ## Remarks
 
-You can use the  **InitSettings** method to reinitialize the Web page settings to those values stored in the registry.
+You can use the  **InitSettings** method to reinitialize the webpage settings to those values stored in the registry.
 
 
 ## Example
 
-The following example shows how to use the  **InitSettings** method to reinitialize the Web page settings to those that were saved in an earlier instance of Visio.
+The following example shows how to use the  **InitSettings** method to reinitialize the webpage settings to those that were saved in an earlier instance of Visio.
 
-Before running this example, replace  _path\filename_ with a valid path and file name for the Web page project file.
+Before running this example, replace  _path\filename_ with a valid path and file name for the webpage project file.
 
 
 

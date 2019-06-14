@@ -36,7 +36,7 @@ The  **ButtonStyle** property value can be one of the **[PbWizardNavBarButtonSty
 
 ## Example
 
-The following example sets the button style to  **pbnbButtonStyleLarge** for the first Web navigation bar set of the active document.
+The following example sets the button style to  **pbnbButtonStyleLarge** for the first web navigation bar set of the active document.
 
 
 ```vb

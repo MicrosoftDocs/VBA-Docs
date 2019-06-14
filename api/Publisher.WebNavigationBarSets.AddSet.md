@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebNavigationBarSets.AddSet method (Publisher)
 
-Adds a new  **WebNavigationBarSet** object representing a Web navigation bar set to the specified **WebNavigationBarSets** collection. .
+Adds a new  **WebNavigationBarSet** object representing a web navigation bar set to the specified **WebNavigationBarSets** collection. .
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[WebNavigationBarSets](Publisher.Web
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Name|Required| **String**|The name of the Web navigation bar to be added. This parameter must be unique.|
+|Name|Required| **String**|The name of the web navigation bar to be added. This parameter must be unique.|
 |_Design_|Optional| **PbWizardNavBarDesign**|Specifies the navigation bar design scheme.|
 |_AutoUpdate_|Optional| **Boolean**| **True** if all pages with the **AddHyperlinkToWebNavBar** property set to **True**are added as links to the navigation bar and the navigation bar is kept updated.|
 

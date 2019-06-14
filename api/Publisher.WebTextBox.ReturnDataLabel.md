@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebTextBox.ReturnDataLabel property (Publisher)
 
-Returns or sets a **String** that represents the text used by the web page to label the specified web object when the page is submitted. Read/write.
+Returns or sets a **String** that represents the text used by the webpage to label the specified web object when the page is submitted. Read/write.
 
 
 ## Syntax

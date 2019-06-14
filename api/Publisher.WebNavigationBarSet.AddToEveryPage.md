@@ -28,9 +28,9 @@ _expression_ A variable that represents a **[WebNavigationBarSet](Publisher.WebN
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|_Left_|Required| **Variant**|The position of the left edge of the shape representing the Web navigation bar set.|
-|_Top_|Required| **Variant**|The position of the top edge of the shape representing the Web navigation bar set.|
-|_Width_|Optional| **Variant**|The width of the shape representing the Web navigation bar set.|
+|_Left_|Required| **Variant**|The position of the left edge of the shape representing the web navigation bar set.|
+|_Top_|Required| **Variant**|The position of the top edge of the shape representing the web navigation bar set.|
+|_Width_|Optional| **Variant**|The width of the shape representing the web navigation bar set.|
 
 ## Return value
 
@@ -39,12 +39,12 @@ ShapeRange
 
 ## Remarks
 
-The specified Web navigation bar set must exist before calling this method. 
+The specified web navigation bar set must exist before calling this method. 
 
 
 ## Example
 
-The following example adds a Web navigation bar set named "WebNavBarSet1" to the top of every page in the active document.
+The following example adds a web navigation bar set named "WebNavBarSet1" to the top of every page in the active document.
 
 
 ```vb
@@ -53,7 +53,7 @@ ActiveDocument.WebNavigationBarSets("WebNavBarSet1") _
 
 ```
 
-The following example adds a new Web navigation bar set to the active document and adds it to every page of the publication.
+The following example adds a new web navigation bar set to the active document and adds it to every page of the publication.
 
 
 

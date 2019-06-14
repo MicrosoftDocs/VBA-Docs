@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # VisWebPageSettings.OpenBrowser Property (Visio Save As Web)
 
-Determines whether the Web page opens in the browser after the drawing is exported to a webpage. Read/write.
+Determines whether the webpage opens in the browser after the drawing is exported to a webpage. Read/write.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_.**OpenBrowser**
 
 ## Remarks
 
- **OpenBrowser** returns non-zero (**True**) if the Web page opens in the browser after the drawing is exported to a webpage; otherwise, it returns zero (**False**). The default is  **True**.
+ **OpenBrowser** returns non-zero (**True**) if the webpage opens in the browser after the drawing is exported to a webpage; otherwise, it returns zero (**False**). The default is  **True**.
 
 Set  **OpenBrowser** to a non-zero value (**True**) to open a webpage in the browser after the drawing is exported to a webpage; otherwise, set it to zero (**False**).
 

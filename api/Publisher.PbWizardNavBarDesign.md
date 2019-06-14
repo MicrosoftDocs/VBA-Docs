@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PbWizardNavBarDesign enumeration (Publisher)
 
-Represents the design of the specified Web navigation bar set.
+Represents the design of the specified web navigation bar set.
 
 <br/>
 

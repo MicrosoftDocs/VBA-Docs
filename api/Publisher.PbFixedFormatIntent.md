@@ -23,6 +23,6 @@ Constants passed to the  **[ExportAsFixedFormat](Publisher.Document.ExportAsFixe
 | **pbIntentCommercial**|4|Submit the publication to a commercial press.|
 | **pbIntentMinimum**|1|Squeeze the publication to the smallest file size. This satisfies the on-screen viewing scenario where the publication is viewed on a computer monitor.|
 | **pbIntentPrinting**|3|Print the publication on a desktop printer or at a copy store, such as Kinko's.|
-| **pbIntentStandard**|2|Distribute the publication as an email message or from a Web site. Note that the user does not know how the publication will be viewed: on-screen or printed from a desktop printer. Both the desktop printing scenario and the on-screen viewing scenario must be met by this intent.|
+| **pbIntentStandard**|2|Distribute the publication as an email message or from a website. Note that the user does not know how the publication will be viewed: on-screen or printed from a desktop printer. Both the desktop printing scenario and the on-screen viewing scenario must be met by this intent.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

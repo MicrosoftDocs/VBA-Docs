@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # VisWebPageSettings.TargetPath Property (Visio Save As Web)
 
-Specifies the path where the Web page and its supporting files are placed. Read/write.
+Specifies the path where the webpage and its supporting files are placed. Read/write.
 
 
 ## Syntax

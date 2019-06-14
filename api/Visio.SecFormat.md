@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # VisWebPageSettings.SecFormat Property (Visio Save As Web)
 
-Specifies the secondary output format for the Web page. Read/write.
+Specifies the secondary output format for the webpage. Read/write.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_.**SecFormat**
 
 ## Remarks
 
-The secondary output format is used if the browser does not support the primary output format. For example, if the primary format is XAML and the required Silverlight browser plug-in is not installed, the Web page output uses the secondary format.
+The secondary output format is used if the browser does not support the primary output format. For example, if the primary format is XAML and the required Silverlight browser plug-in is not installed, the webpage output uses the secondary format.
 
 The primary output format is specified by the  **[PriFormat](Visio.AltFormat.md)** property. For information about which browsers are compatible with selected formats, see the **[AltFormat](Visio.AltFormat.md)** property.
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebNavigationBarSet.Name property (Publisher)
 
-Indicates the name of the specified Web navigation bar set. Read/write.
+Indicates the name of the specified web navigation bar set. Read/write.
 
 
 ## Syntax
