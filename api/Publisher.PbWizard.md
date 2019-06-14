@@ -78,7 +78,7 @@ The wizard to use to create the new publication.
 | **pbWizardWebSiteBlank**|203|Creates a blank website|
 | **pbWizardWebSiteHomePage**|5|Creates a home page for a website|
 | **pbWizardWebSiteProductSales**|201|Creates a product sales website|
-| **pbWizardWebSiteServices**|202|Creates a serviceswebsite|
+| **pbWizardWebSiteServices**|202|Creates a services website|
 | **pbWizardWebSiteThreePage**|200|Creates a three-page website|
 | **pbWizardWithComplimentsCards**|73|Creates with compliments cards|
 | **pbWizardWordDocument**|189|Creates a Microsoft Office Word document|
