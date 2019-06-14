@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.TabStops.Add
 ms.assetid: 23536810-e851-c0ac-22e2-fab41582d612
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # TabStops.Add method (Publisher)
 
-Adds a new tab stop to the specified  **TabStops** collection.
+Adds a new tab stop to the specified **TabStops** collection.
 
 
 ## Syntax
@@ -26,39 +26,16 @@ _expression_ A variable that represents a **[TabStops](Publisher.TabStops.md)** 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Position|Required| **Variant**|The horizontal position of the new tab stop relative to the left edge of the text frame. Numeric values are evaluated in [points](../language/glossary/vbe-glossary.md#point); strings are evaluated in the units specified and can be in any measurement unit supported by Microsoft Publisher (for example, "2.5 in").|
-|Alignment|Required| **PbTabAlignmentType**|The alignment setting for the tab stop.|
-|Leader|Required| **PbTabLeaderType**|The type of leader for the tab stop.|
+|_Position_|Required| **Variant**|The horizontal position of the new tab stop relative to the left edge of the text frame. Numeric values are evaluated in [points](../language/glossary/vbe-glossary.md#point); strings are evaluated in the units specified and can be in any measurement unit supported by Microsoft Publisher (for example, "2.5 in").|
+|_Alignment_|Required| **[PbTabAlignmentType](publisher.pbtabalignmenttype.md)**|The alignment setting for the tab stop. Can be one of the **PbTabAlignmentType** constants.|
+|_Leader_|Required| **[PbTabLeaderType](publisher.pbtableadertype.md)**|The type of leader for the tab stop. Can be one of the **PbTabLeaderType** constants.|
 
-## Remarks
-
-Alignment can be one of these PbTabAlignmentType constants.
-
-
-
-| **pbTabAlignmentCenter**|
-| **pbTabAlignmentDecimal**|
-| **pbTabAlignmentLeading**|
-| **pbTabAlignmentTrailing**|
-
-Leader can be one of these  **PbTabLeaderType** constants.
-
-
-
-| **pbTabLeaderBullet**|
-| **pbTabLeaderDashes**|
-| **pbTabLeaderDot**|
-| **pbTabLeaderLine**|
-| **pbTabLeaderNone**|
 
 ## Example
 
 The following example adds a new left-aligned tab stop 0.5 inches from the left edge of the specified text frame.
-
 
 ```vb
 ActiveDocument.Pages(1).Shapes(1).TextFrame _ 
