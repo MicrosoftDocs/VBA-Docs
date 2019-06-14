@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.View.ActivePage
 ms.assetid: 29289fb2-6692-4cb5-a9e2-b2edb9e9cd7e
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # View.ActivePage property (Publisher)
 
-Returns a  **[Page](Publisher.Page.md)** object that represents the page currently displayed in the Microsoft Publisher window.
+Returns a **[Page](Publisher.Page.md)** object that represents the page currently displayed in the Microsoft Publisher window.
 
 
 ## Syntax
@@ -33,7 +33,6 @@ Page
 
 This example saves the active page as a JPEG picture. Note that `PathToFile` must be replaced with a valid file path for this example to work.
 
-
 ```vb
 Sub SavePageAsPicture() 
  ActiveView.ActivePage.SaveAsPicture _ 
@@ -41,10 +40,9 @@ Sub SavePageAsPicture()
 End Sub
 ```
 
+<br/>
+
 This example adds a horizontal ruler guide and a vertical ruler guide to the active page that intersect at the center point of the page.
-
-
-
 
 ```vb
 Sub SetRulerGuidesOnActivePage() 
