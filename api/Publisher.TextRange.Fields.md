@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.TextRange.Fields
 ms.assetid: 01efbcae-b65b-68d9-20b0-6bbee31fd762
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # TextRange.Fields property (Publisher)
 
-Returns a  **Fields** object that represents all the fields in the specified text range.
+Returns a **[Fields](publisher.fields.md)** object that represents all the fields in the specified text range.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ Fields
 ## Example
 
 This example makes the first field in the first shape on the first page of the active publication bold.
-
 
 ```vb
 Sub CountFields() 

@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.TextRange.Collapse
 ms.assetid: ae177297-bf3b-ce0f-cf3a-29093b115996
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
@@ -19,34 +19,24 @@ Collapses a range or selection to the starting position or ending position. Afte
 
 ## Syntax
 
-_expression_.**Collapse**(**_Direction_**)
+_expression_.**Collapse** (_Direction_)
 
 _expression_ A variable that represents a **[TextRange](Publisher.TextRange.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Direction|Required| **PbCollapseDirection**|The direction in which to collapse the range or selection.|
+|_Direction_|Required| **[PbCollapseDirection](publisher.pbcollapsedirection.md)**|The direction in which to collapse the range or selection. Can be one of the **PbCollapseDirection** constants declared in the Microsoft Publisher type library.|
 
 ## Remarks
 
-If you use  **pbCollapseEnd** to collapse a range that refers to an entire paragraph, the range will be located after the ending paragraph mark (the beginning of the next paragraph). However, you can move the range back one character by using the [MoveEnd](Publisher.TextRange.MoveEnd.md)method after the range is collapsed.
-
-The Direction parameter can be one of the following  **PbCollapseDirection** constants declared in the Microsoft Publisher type library.
-
-
-
-| **pbCollapseEnd**|
-| **pbCollapseStart**|
+If you use **pbCollapseEnd** to collapse a range that refers to an entire paragraph, the range will be located after the ending paragraph mark (the beginning of the next paragraph). However, you can move the range back one character by using the **[MoveEnd](Publisher.TextRange.MoveEnd.md)** method after the range is collapsed.
 
 ## Example
 
 This example inserts text at the beginning of the second paragraph in the first shape on the first page of the active publication. This example assumes that the specified shape is a text frame and not another type of shape.
-
 
 ```vb
 Sub CollapseRange() 
@@ -63,10 +53,9 @@ Sub CollapseRange()
 End Sub
 ```
 
+<br/>
+
 This example places new text at the end of the first paragraph in the first shape on the first page of the active publication. This example assumes that the specified shape is a text frame and not another type of shape.
-
-
-
 
 ```vb
 Sub CollapseSelection() 

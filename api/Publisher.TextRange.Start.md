@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.TextRange.Start
 ms.assetid: 40604058-7c3e-b4c7-c793-bbf09091b4c1
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # TextRange.Start property (Publisher)
 
-Returns or sets a  **Long** that represents the starting character position of a text range. Read/write.
+Returns or sets a **Long** that represents the starting character position of a text range. Read/write.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ Long
 
 ## Remarks
 
-If this property is set to a value larger than that of the  **End** property, the **End** property is set to the same value as that of the **Start** property.
+If this property is set to a value larger than that of the **[End](Publisher.TextRange.End.md)** property, the **End** property is set to the same value as that of the **Start** property.
 
 
 ## Example
 
 This example makes the first 15 characters of the selected text range bold. This example assumes that text is selected in the active publication.
-
 
 ```vb
 Sub SetSelectionRange() 

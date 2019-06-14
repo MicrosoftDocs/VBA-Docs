@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.TextRange.Cut
 ms.assetid: c9b8b896-26e7-ac58-0e1a-a66ef789f397
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
@@ -31,53 +31,36 @@ Nothing
 
 ## Remarks
 
-Use the  **[Paste](Publisher.TextRange.Paste.md)** method to paste the contents of the Clipboard.
+Use the **[Paste](Publisher.TextRange.Paste.md)** method to paste the contents of the Clipboard.
 
-The  **Copy** method can be used on **Shape** objects, but the **Paste** method cannot.
+The **Copy** method can be used on **Shape** objects, but the **Paste** method cannot.
 
 
 ## Example
 
 This example deletes shape one and shape two from page one of the active publication, places copies of them on the Clipboard, and then pastes the copies onto page two.
 
-
 ```vb
 With ActiveDocument 
-    .Pages(1).Shapes.Range(Array(1, 2)).Cut 
-    .Pages(2).Shapes.Paste 
+  .Pages(1).Shapes.Range(Array(1, 2)).Cut 
+  .Pages(2).Shapes.Paste 
 End With
 ```
 
+<br/>
+
 This example deletes shape one on page one of the active publication and places a copy of it on the Clipboard.
 
-
-
-
 ```vb
-ActiveDocument
+ActiveDocument.Pages(1).Shapes(1).Cut
 ```
 
-
-
-
-```vb
-.Pages(1).Shapes(1).Cut
-```
+<br/>
 
 This example deletes the text in shape one on page one of the active publication and places a copy of it on the Clipboard.
 
-
-
-
 ```vb
-ActiveDocument
-```
-
-
-
-
-```vb
-.Pages(1).Shapes(1).TextFrame.TextRange.Cut
+ActiveDocument.Pages(1).Shapes(1).TextFrame.TextRange.Cut
 ```
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

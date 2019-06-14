@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ShapeRange](Publisher.ShapeRange.md
 
 ## Remarks
 
-Use the **[Paste](Publisher.Shapes.Paste.md)** method to paste the contents of the Clipboard.
+Use the **[Shapes.Paste](Publisher.Shapes.Paste.md)** method to paste the contents of the Clipboard.
 
 The **Copy** method can be used on **Shape** objects, but the **Paste** method cannot.
 

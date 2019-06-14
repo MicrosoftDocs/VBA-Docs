@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.TextRange.InsertPageNumber
 ms.assetid: f71d3b40-0263-93fa-d7e3-d815b90f71f7
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # TextRange.InsertPageNumber method (Publisher)
 
-Returns a **[TextRange](Publisher.TextRange.md)** object that represents a page number field in a publication.
+Returns a **TextRange** object that represents a page number field in a publication.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[TextRange](Publisher.TextRange.md)*
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|_Type_|Optional| **[PbPageNumberType](publisher.pbpagenumbertype.md)** | Can be one of the **PbPageNumberType** constants. Specifies whether the page number is the current page number or the next or previous page number of a linked text box.|
+|_Type_|Optional| **[PbPageNumberType](publisher.pbpagenumbertype.md)** |Specifies whether the page number is the current page number or the next or previous page number of a linked text box. Can be one of the **PbPageNumberType** constants.|
 
 ## Return value
 
