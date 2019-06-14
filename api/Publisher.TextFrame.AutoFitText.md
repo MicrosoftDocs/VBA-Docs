@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.TextFrame.AutoFitText
 ms.assetid: 468a9d3e-cb9d-8147-60ea-eb839d691e7a
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # TextFrame.AutoFitText property (Publisher)
 
-Sets or returns a  **PbTextAutoFitType** constant that represents how Microsoft Publisher automatically adjusts the text font size and the  **TextFrame** objects size for best viewing. Read/write.
+Sets or returns a **[PbTextAutoFitType](Publisher.PbTextAutoFitType.md)** constant that represents how Microsoft Publisher automatically adjusts the text font size and the **TextFrame** object size for best viewing. Read/write.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ PbTextAutoFitType
 
 ## Remarks
 
-The  **AutoFitText** property value can be one of the **[PbTextAutoFitType](Publisher.PbTextAutoFitType.md)** constants declared in the Microsoft Publisher type library.
+The **AutoFitText** property value can be one of the **PbTextAutoFitType** constants declared in the Microsoft Publisher type library.
 
 
 ## Example
 
-The following example tests to see if the text frame has text, and if so, the  **AutoFitText** property is set to best fit.
-
+The following example tests to see if the text frame has text, and if so, the **AutoFitText** property is set to best fit.
 
 ```vb
 Sub TextFit() 

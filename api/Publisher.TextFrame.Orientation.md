@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.TextFrame.Orientation
 ms.assetid: f510e624-6322-4054-5e7f-8688c5ea817a
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # TextFrame.Orientation property (Publisher)
 
-Returns or sets a  **PbTextOrientation** constant that represents how text flows in a text box. Read/write.
+Returns or sets a **[PbTextOrientation](Publisher.PbTextOrientation.md)** constant that represents how text flows in a text box. Read/write.
 
 
 ## Syntax
@@ -31,17 +31,12 @@ PbTextOrientation
 
 ## Remarks
 
-The  **Orientation** property value can be one of the **[PbTextOrientation](Publisher.PbTextOrientation.md)** constants declared in the Microsoft Publisher type library.
+The **Orientation** property value can be one of the **PbTextOrientation** constants declared in the Microsoft Publisher type library.
 
 
 ## Example
 
-This example sets the text orientation in the specified text box to vertical so that text flows from top to bottom. This assumes there is at least one shape on page one of the active publication.
-
-
-
-
-
+This example sets the text orientation in the specified text box to vertical so that text flows from top to bottom. This example assumes that there is at least one shape on page one of the active publication.
 
 ```vb
 Sub SetVerticalTextBox() 

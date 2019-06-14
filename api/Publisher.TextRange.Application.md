@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.TextRange.Application
 ms.assetid: 8c39c632-7c5b-6057-c4f7-2003b59b4644
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
@@ -35,6 +35,8 @@ With Application
  & .Version & " build " & .Build 
 End With
 ```
+
+<br/>
 
 This example displays the name of the application that created each linked OLE object on page one of the active publication.
 

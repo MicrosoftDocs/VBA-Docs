@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.TextFrame.VerticalTextAlignment
 ms.assetid: cd809f00-b092-c483-fe99-2aa8043fb684
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # TextFrame.VerticalTextAlignment property (Publisher)
 
-Returns or sets a  **PbVerticalTextAlignmentType** constant that represents the vertical alignment of text in a text box. Read/write.
+Returns or sets a **[PbVerticalTextAlignmentType](publisher.pbverticaltextalignmenttype.md)** constant that represents the vertical alignment of text in a text box. Read/write.
 
 
 ## Syntax
@@ -26,18 +26,12 @@ _expression_ A variable that represents a **[TextFrame](Publisher.TextFrame.md)*
 
 ## Remarks
 
-The  **VerticalTextAlignment** property value can be one of these **PbVerticalTextAlignmentType** constants.
+The **VerticalTextAlignment** property value can be one of the **PbVerticalTextAlignmentType** constants.
 
-
-
-| **pbVerticalTextAlignmentBottom**|
-| **pbVerticalTextAlignmentCenter**|
-| **pbVerticalTextAlignmentTop**|
 
 ## Example
 
-This example vertically centers the text in the specified text frame. This example assumes there is at least one shape on the first page of the active publication.
-
+This example vertically centers the text in the specified text frame. This example assumes that there is at least one shape on the first page of the active publication.
 
 ```vb
 Sub SetVerticalAlignment() 

@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.TextFrame.PreviousLinkedTextFrame
 ms.assetid: 00947ec3-fcff-4451-491b-5b7748ccb74e
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # TextFrame.PreviousLinkedTextFrame property (Publisher)
 
-Returns a  **[TextFrame](Publisher.TextFrame.md)** object representing the text frame from which text flows to the specified text frame.
+Returns a **TextFrame** object representing the text frame from which text flows to the specified text frame.
 
 
 ## Syntax
@@ -37,7 +37,6 @@ If the specified text frame is not part of a chain of linked frames or is the fi
 ## Example
 
 The following example returns the previously linked text frame of shape three on page one of the active publication and sets its font to Times New Roman.
-
 
 ```vb
 Dim txtFrame As TextFrame 

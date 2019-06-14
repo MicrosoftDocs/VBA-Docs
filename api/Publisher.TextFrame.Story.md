@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.TextFrame.Story
 ms.assetid: 7bbe0967-83aa-745b-ad13-8a7dfe61811c
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # TextFrame.Story property (Publisher)
 
-Returns a  **Story** object that represents the story properties in a text range.
+Returns a **[Story](publisher.story.md)** object that represents the story properties in a text range.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[TextFrame](Publisher.TextFrame.md)*
 ## Example
 
 This example returns the story in the selected text range, and if it is in a text frame, inserts text into the text range.
-
 
 ```vb
 Sub AddTextToStory() 
