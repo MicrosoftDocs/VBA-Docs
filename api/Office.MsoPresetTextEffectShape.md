@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # MsoPresetTextEffectShape enumeration (Office)
 
-Specifies shape of WordArt text. You can see a preview of each text effect shape by selecting **WordArt Shape** in the **WordArt** toolbar.
+Specifies shape of WordArt text. You can see a preview of each text effect shape by selecting **WordArt Shape** on the **WordArt** toolbar.
 
 <br/>
 

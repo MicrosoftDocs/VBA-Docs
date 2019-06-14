@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ThreeDFormat.PresetMaterial
 ms.assetid: 5f12fb22-f596-0d59-1f02-63ce8d4bd927
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # ThreeDFormat.PresetMaterial property (Publisher)
 
-Returns or sets an  **MsoPresetMaterial** constant that represents the extrusion surface material. Read/write.
+Returns or sets an **[MsoPresetMaterial](Office.MsoPresetMaterial.md)** constant that represents the extrusion surface material. Read/write.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ MsoPresetMaterial
 
 ## Remarks
 
-The  **PresetMaterial** property value can be one of the **[MsoPresetMaterial](Office.MsoPresetMaterial.md)** constants declared in the Microsoft Office type library.
+The **PresetMaterial** property value can be one of the **MsoPresetMaterial** constants declared in the Microsoft Office type library.
 
 
 ## Example
 
 This example specifies that the extrusion surface for shape one in the active publication be a wireframe. For this example to work, the specified shape must be a 3D shape.
-
 
 ```vb
 Sub SetExtrusionMaterial() 

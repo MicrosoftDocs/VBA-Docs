@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ThreeDFormat.RotationX
 ms.assetid: 1ee394cb-746b-02f0-f2af-aa4a6fffd172
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # ThreeDFormat.RotationX property (Publisher)
 
-Returns or sets the rotation of the extruded shape around the x-axis in degrees. Can be a value from - 90 through 90. A positive value indicates upward rotation; a negative value indicates downward rotation. Read/write  **Single**.
+Returns or sets the rotation of the extruded shape around the x-axis in degrees. Can be a value from -90 through 90. A positive value indicates upward rotation; a negative value indicates downward rotation. Read/write **Single**.
 
 
 ## Syntax
@@ -31,13 +31,16 @@ Single
 
 ## Remarks
 
-To set the rotation of the extruded shape around the y-axis, use the  **[RotationY](Publisher.ThreeDFormat.RotationY.md)** property of the  **ThreeDFormat** object. To set the rotation of the extruded shape around the z-axis, use the **[Rotation](Publisher.Shape.Rotation.md)** property of the  **[Shape](Publisher.Shape.md)** object. To change the direction of the extrusion's sweep path without rotating the front face of the extrusion, use the  **[SetExtrusionDirection](Publisher.ThreeDFormat.SetExtrusionDirection.md)** method.
+To set the rotation of the extruded shape around the y-axis, use the **[RotationY](Publisher.ThreeDFormat.RotationY.md)** property. 
+
+To set the rotation of the extruded shape around the z-axis, use the **[Rotation](Publisher.Shape.Rotation.md)** property of the **Shape** object. 
+
+To change the direction of the extrusion's sweep path without rotating the front face of the extrusion, use the **[SetExtrusionDirection](Publisher.ThreeDFormat.SetExtrusionDirection.md)** method.
 
 
 ## Example
 
-This example adds three identical extruded ovals to the active document and sets their rotation around the x-axis to - 30, 0, and 30 degrees, respectively.
-
+This example adds three identical extruded ovals to the active document and sets their rotation around the x-axis to -30, 0, and 30 degrees, respectively.
 
 ```vb
 Sub SetRotationX() 
