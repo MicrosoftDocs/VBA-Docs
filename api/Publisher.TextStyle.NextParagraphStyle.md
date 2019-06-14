@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.TextStyle.NextParagraphStyle
 ms.assetid: 2b31b883-c26d-3be8-7145-f8e3cf1ba5cc
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # TextStyle.NextParagraphStyle property (Publisher)
 
-Returns or sets a  **String** that represents the paragraph style that follows the specified text style when a user presses ENTER. Read/write.
+Returns or sets a **String** that represents the paragraph style that follows the specified text style when a user presses Enter. Read/write.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ String
 ## Example
 
 This example creates a new text style and specifies that the text style following the new text style is the Normal style.
-
 
 ```vb
 Sub CreateNewTextStyle() 
