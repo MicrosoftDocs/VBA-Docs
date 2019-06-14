@@ -6,6 +6,7 @@ Thank you for your interest in our documentation!
 * [Contribute using GitHub](#contribute-using-github)
 * [Contribute using Git](#contribute-using-git)
 * [How to use Markdown to format your topic](#how-to-use-markdown-to-format-your-topic)
+* [Markup conventions & rules specifically for this repository](#markup-conventions---rules-specifically-for-this-repository)
 * [FAQ](#faq)
 * [More resources](#more-resources)
 
@@ -172,6 +173,10 @@ Congratulations, you have successfully contributed to the project!
 
 All of the articles in this repository use Markdown. A complete introduction (and listing of all the syntax) can be found at [Daring Fireball - Markdown].
  
+## Markup conventions & rules specifically for this repository
+
+SECTION TO BE COMPLETED. SEE https://github.com/MicrosoftDocs/VBA-Docs/issues/999 FOR GUIDANCE.
+
 ## FAQ
 
 ### How do I get a GitHub account?
