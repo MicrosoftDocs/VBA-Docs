@@ -6,7 +6,7 @@ Thank you for your interest in our documentation!
 * [Contribute using GitHub](#contribute-using-github)
 * [Contribute using Git](#contribute-using-git)
 * [How to use Markdown to format your topic](#how-to-use-markdown-to-format-your-topic)
-* [Markup conventions & rules specifically for this repository](#markup-conventions---rules-specifically-for-this-repository)
+* [Markup conventions & rules specifically for this repository](#markup-conventions--rules-specifically-for-this-repository)
 * [FAQ](#faq)
 * [More resources](#more-resources)
 
