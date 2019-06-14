@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.WebCheckBox.Selected
 ms.assetid: ad34871d-474d-70ad-6245-ee5a017839c1
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # WebCheckBox.Selected property (Publisher)
 
-Specifies whether a Web check box or option button is selected. Read/write.
+Specifies whether a web check box or option button is selected. Read/write.
 
 
 ## Syntax
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[WebCheckBox](Publisher.WebCheckBox.
 
 ## Remarks
 
-The  **Selected** property value can be one of the **[MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
+The **Selected** property value can be one of the **[MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example
 
-This example adds a new Web check box to the first page of the active publication and then selects it.
-
+This example adds a new web check box to the first page of the active publication and then selects it.
 
 ```vb
 Sub AddNewWebCheckBox() 
