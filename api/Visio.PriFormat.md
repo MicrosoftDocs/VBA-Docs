@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # VisWebPageSettings.PriFormat Property (Visio Save As Web)
 
-Specifies the primary output format for the Web page. Read/write.
+Specifies the primary output format for the webpage. Read/write.
 
 
 ## Syntax
@@ -52,7 +52,7 @@ This value corresponds to the value selected in the  **Output formats** list on 
 
 ## Example
 
-The following macro shows how use the  **PriFormat** property to set the primary output format for the Web page to JPG.
+The following macro shows how use the  **PriFormat** property to set the primary output format for the webpage to JPG.
 
 Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the filename that you want to assign to your Web page.
 

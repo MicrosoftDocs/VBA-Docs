@@ -43,7 +43,7 @@ The Orientation parameter can be one of the following  **PbNavBarOrientation** c
 
 ## Example
 
-The following example sets an object variable to the first Web navigation bar set in the active document, adds it to every page, changes the orientation to horizontal, sets the horizontal alignment to center, and then sets the horizontal button count to 4.
+The following example sets an object variable to the first web navigation bar set in the active document, adds it to every page, changes the orientation to horizontal, sets the horizontal alignment to center, and then sets the horizontal button count to 4.
 
 
 ```vb

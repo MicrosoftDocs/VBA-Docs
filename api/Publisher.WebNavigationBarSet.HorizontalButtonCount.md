@@ -31,12 +31,12 @@ Long
 
 ## Remarks
 
-Returns "Access denied" if **IsHorizontal** = **False** for the specified **WebNavigationBarSet** object. Use the **ChangeOrientation** method to set the orientation of the Web navigation bar set to **horizontal** first before setting the **HorizontalButtonCount** property.
+Returns "Access denied" if **IsHorizontal** = **False** for the specified **WebNavigationBarSet** object. Use the **ChangeOrientation** method to set the orientation of the web navigation bar set to **horizontal** first before setting the **HorizontalButtonCount** property.
 
 
 ## Example
 
-The following example returns the first Web navigation bar set from the active document, changes the orientation to **horizontal** if necessary, sets the **HorizontalButtonCount** property to **3**, and then sets the **HorizontalAlignment** property to **pbnbAlignLeft**.
+The following example returns the first web navigation bar set from the active document, changes the orientation to **horizontal** if necessary, sets the **HorizontalButtonCount** property to **3**, and then sets the **HorizontalAlignment** property to **pbnbAlignLeft**.
 
 
 ```vb

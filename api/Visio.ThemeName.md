@@ -42,7 +42,7 @@ Your theme file will then appear in the  **Host in Web page** drop-down list in 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ThemeName** property to assign the "Basic" theme (supplied by Visio) to the Web page you are creating.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ThemeName** property to assign the "Basic" theme (supplied by Visio) to the webpage you are creating.
 
 Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the file name that you want to assign to your Web page. Also, replace _your_Visio_path_ and _your_language_ID_ with the path to Microsoft Visio on your computer, for example:
 

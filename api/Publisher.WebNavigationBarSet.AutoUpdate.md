@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebNavigationBarSet.AutoUpdate property (Publisher)
 
- **True** if all pages will be added to the specified Web navigation bar set and that adding new pages will update the navigation bar with a corresponding item. Pages must have the **AddHyperlinkToWebNavbar** set to **True** or **WebPageOptions.IncludePageOnNewWebNavigationBars** property set to **True** to be added or updated within the specified **WebNavigationBarSet**. Read/write  **Boolean**.
+ **True** if all pages will be added to the specified web navigation bar set and that adding new pages will update the navigation bar with a corresponding item. Pages must have the **AddHyperlinkToWebNavbar** set to **True** or **WebPageOptions.IncludePageOnNewWebNavigationBars** property set to **True** to be added or updated within the specified **WebNavigationBarSet**. Read/write  **Boolean**.
 
 
 ## Syntax
@@ -31,14 +31,14 @@ Boolean
 
 ## Remarks
 
-This property determines whether or not the existing pages in the publication will be added to the navigation bar and if added pages will also be updated. These pages must be marked with the  **AddHyperlinkToWebNavbar** set to **True** or **WebPageOptions.IncludePageOnNewWebNavigationBars** property set to **True** to be added or updated within the specified **WebNavigationBarSet**. Changing this setting does not change the number of items in the bar, it just determines whether or not new pages will be added. By setting this value to  **False** it is possible to design specific navigation bars for specific content pages in a Web site that do not contain all of the available hyperlinks in the publication.
+This property determines whether or not the existing pages in the publication will be added to the navigation bar and if added pages will also be updated. These pages must be marked with the  **AddHyperlinkToWebNavbar** set to **True** or **WebPageOptions.IncludePageOnNewWebNavigationBars** property set to **True** to be added or updated within the specified **WebNavigationBarSet**. Changing this setting does not change the number of items in the bar, it just determines whether or not new pages will be added. By setting this value to  **False** it is possible to design specific navigation bars for specific content pages in a website that do not contain all of the available hyperlinks in the publication.
 
 The default value is  **True**. 
 
 
 ## Example
 
-The following example adds a new Web navigation bar set to the active document with text style buttons and auto update set to  **False** so that page links will not be added or new pages automatically updated in the navigation bar, then the Web navigation bar is added to the first page of the publication.
+The following example adds a new web navigation bar set to the active document with text style buttons and auto update set to  **False** so that page links will not be added or new pages automatically updated in the navigation bar, then the web navigation bar is added to the first page of the publication.
 
 
 ```vb

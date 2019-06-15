@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Frameset.FrameLinkToFile property (Word)
 
- **True** if the Web page or other document specified by the **[FrameDefaultURL](Word.Frameset.FrameDefaultURL.md)** property is an external file to which Microsoft Word maintains only a link from the specified frame. Read/write **Boolean**.
+ **True** if the webpage or other document specified by the **[FrameDefaultURL](Word.Frameset.FrameDefaultURL.md)** property is an external file to which Microsoft Word maintains only a link from the specified frame. Read/write **Boolean**.
 
 
 ## Syntax

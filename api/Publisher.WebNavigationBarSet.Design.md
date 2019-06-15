@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebNavigationBarSet.Design property (Publisher)
 
-Sets or returns a  **PbWizardNavBarDesign** constant representing the design of the specified Web navigation bar set. Read/write.
+Sets or returns a  **PbWizardNavBarDesign** constant representing the design of the specified web navigation bar set. Read/write.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ The  **Design** property value can be one of the **[PbWizardNavBarDesign](Publis
 
 ## Example
 
-This example adds a new Web navigation bar set to every page in the active document, sets the button style to large, and then sets the design property to  **pbnbDesignCapsule**.
+This example adds a new web navigation bar set to every page in the active document, sets the button style to large, and then sets the design property to  **pbnbDesignCapsule**.
 
 
 ```vb

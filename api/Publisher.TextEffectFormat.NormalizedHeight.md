@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.TextEffectFormat.NormalizedHeight
 ms.assetid: 2b62fe23-9204-7449-1d4e-73e73def5df0
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
@@ -31,9 +31,7 @@ MsoTriState
 
 ## Remarks
 
-The  **NormalizedHeight** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
-
-
+The **NormalizedHeight** property value can be one of the **[MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library and shown in the following table.
 
 |Constant|Description|
 |:-----|:-----|
@@ -42,8 +40,7 @@ The  **NormalizedHeight** property value can be one of the **MsoTriState** const
 
 ## Example
 
-This example creates a new WordArt shape on the first page of the active publication and then sets each character in the shape to be the same height.
-
+This example creates a new WordArt shape on the first page of the active publication, and then sets each character in the shape to be the same height.
 
 ```vb
 Sub SetNormalHeight() 

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # VisWebPageSettings.PageTitle Property (Visio Save As Web)
 
-Specifies the name of the Web page as it appears in the browser's title bar. Read/write.
+Specifies the name of the webpage as it appears in the browser's title bar. Read/write.
 
 
 ## Syntax

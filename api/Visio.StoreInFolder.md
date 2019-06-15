@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # VisWebPageSettings.StoreInFolder Property (Visio Save As Web)
 
-Determines whether supporting files for the Web page to be created are placed into a subfolder that has the same name as the root HTML file. Read/write.
+Determines whether supporting files for the webpage to be created are placed into a subfolder that has the same name as the root HTML file. Read/write.
 
 
 ## Syntax

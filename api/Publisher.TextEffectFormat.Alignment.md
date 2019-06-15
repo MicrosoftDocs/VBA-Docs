@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.TextEffectFormat.Alignment
 ms.assetid: f569ea7c-9a9f-f50e-e88c-610da0adf153
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # TextEffectFormat.Alignment property (Publisher)
 
-Returns or sets a  **MsoTextEffectAlignment** constant that represents the alignment for the specified text effect. Read/write.
+Returns or sets an **[MsoTextEffectAlignment](Office.MsoTextEffectAlignment.md)** constant that represents the alignment for the specified text effect. Read/write.
 
 
 ## Syntax
@@ -26,6 +26,8 @@ _expression_ A variable that represents a **[TextEffectFormat](Publisher.TextEff
 
 ## Remarks
 
-The  **Alignment** property value can be one of the **[MsoTextEffectAlignment](Office.MsoTextEffectAlignment.md)** constants declared in the Microsoft Office type library.
+The **Alignment** property value can be one of the **MsoTextEffectAlignment** constants declared in the Microsoft Office type library.
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

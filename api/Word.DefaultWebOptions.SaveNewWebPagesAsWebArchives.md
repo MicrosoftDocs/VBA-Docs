@@ -26,7 +26,7 @@ _expression_.**SaveNewWebPagesAsWebArchives**
 
 ## Remarks
 
-Setting the  **SaveNewWebPagesAsWebArchives** property won't change the format of any saved Web pages. To change their format, you must individually open them and then use the **[SaveAs2](Word.SaveAs2.md)** method to set the Web page format.
+Setting the  **SaveNewWebPagesAsWebArchives** property won't change the format of any saved Web pages. To change their format, you must individually open them and then use the **[SaveAs2](Word.SaveAs2.md)** method to set the webpage format.
 
 
 ## Example

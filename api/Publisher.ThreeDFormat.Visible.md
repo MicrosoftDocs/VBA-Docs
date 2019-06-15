@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.ThreeDFormat.Visible
 ms.assetid: dbda23fe-de06-cc17-c3bc-2bfb780d3184
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
@@ -26,9 +26,7 @@ _expression_ A variable that represents a **[ThreeDFormat](Publisher.ThreeDForma
 
 ## Remarks
 
-The  **Visible** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
-
-
+The **Visible** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 |Constant|Description|
 |:-----|:-----|
@@ -40,7 +38,6 @@ The  **Visible** property value can be one of the **MsoTriState** constants decl
 ## Example
 
 This example sets the horizontal and vertical offsets for the shadow of shape three on the first page in the active publication. The shadow is offset 5 points to the right of the shape and 3 points above it. If the shape does not already have a shadow, this example adds one to it.
-
 
 ```vb
 With ActiveDocument.Pages(1).Shapes(3).Shadow 

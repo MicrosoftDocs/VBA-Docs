@@ -5,14 +5,14 @@ f1_keywords:
 - vbapb10.chm3801367
 ms.prod: publisher
 ms.assetid: ed6173e5-e487-b69e-1d82-b5af103340bd
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # ThreeDFormat.BevelBottomType property (Publisher)
 
-Returns or sets an  **MsoPresetCamera** constant that represents the bevel type for the bottom bevel. Read/write.
+Returns or sets an **[MsoBevelType](office.msobeveltype.md)** constant that represents the bevel type for the bottom bevel. Read/write.
 
 
 ## Syntax
@@ -24,12 +24,8 @@ _expression_ A variable that represents a **[ThreeDFormat](Publisher.ThreeDForma
 
 ## Return value
 
- **MSOBEVELTYPE**
+MsoBevelType
 
 
-## See also
-
-
- [ThreeDFormat Object](Publisher.ThreeDFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

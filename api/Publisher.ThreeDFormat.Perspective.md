@@ -7,14 +7,16 @@ ms.prod: publisher
 api_name:
 - Publisher.ThreeDFormat.Perspective
 ms.assetid: 5a85f7fa-2c72-e9b0-75f0-e6d6680ecd99
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # ThreeDFormat.Perspective property (Publisher)
 
- **msoTrue** if the extrusion appears in perspective — that is, if the walls of the extrusion narrow toward a vanishing point. **msoFalse** if the extrusion is a parallel, or orthographic, projection — that is, if the walls don't narrow toward a vanishing point. Read/write.
+Returns **msoTrue** if the extrusion appears in perspective—that is, if the walls of the extrusion narrow toward a vanishing point. 
+
+Returns **msoFalse** if the extrusion is a parallel, or orthographic, projection—that is, if the walls don't narrow toward a vanishing point. Read/write.
 
 
 ## Syntax
@@ -26,13 +28,12 @@ _expression_ A variable that represents a **[ThreeDFormat](Publisher.ThreeDForma
 
 ## Return value
 
-MsoTriState
+**[MsoTriState](office.msotristate.md)**
 
 
 ## Example
 
 This example sets the extrusion depth for shape one on the first page to 100 points and specifies that the extrusion be parallel, or orthographic. For this example to work, the specified shape must be a 3D shape.
-
 
 ```vb
 Sub ChangePerspective() 

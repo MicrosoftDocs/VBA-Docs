@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.TextRange.ContainingObject
 ms.assetid: f15c81b5-d03f-0d83-323b-6ec6f57b4f26
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # TextRange.ContainingObject property (Publisher)
 
-Returns an  **Object** that represents the object that contains the text range. Read-only.
+Returns an **Object** that represents the object that contains the text range. Read-only.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ Object
 ## Example
 
 This example returns the name of the object containing the specified text range.
-
 
 ```vb
 Sub NameOfContainingObject() 

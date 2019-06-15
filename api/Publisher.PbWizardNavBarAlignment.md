@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PbWizardNavBarAlignment enumeration (Publisher)
 
-Represents the horizontal alignment of the buttons in a Web navigation bar set.
+Represents the horizontal alignment of the buttons in a web navigation bar set.
 
 
 

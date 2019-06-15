@@ -4,14 +4,14 @@ ms.prod: office
 api_name:
 - Office.MsoPresetThreeDFormat
 ms.assetid: 9d362115-1979-d079-d7e5-2e7788da614b
-ms.date: 01/31/2019
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # MsoPresetThreeDFormat enumeration (Office)
 
-Specifies an extrusion (three-dimensional) format.The **msoPresetThreeDFormat** constants are numbered according to the order (left to right, top to bottom) in which they are shown in the **3D Style** button on the **Formatting** toolbar.
+Specifies an extrusion (three-dimensional) format. The **MsoPresetThreeDFormat** constants are numbered according to the order (left to right, top to bottom) in which they are shown on the **3D Style** button on the **Formatting** toolbar. 
 
 <br/>
 

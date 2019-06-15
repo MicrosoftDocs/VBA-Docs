@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.TextRange.Script
 ms.assetid: 54e5a19f-9cb0-0fbc-5ebe-cd4db6c0de8e
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # TextRange.Script property (Publisher)
 
-Returns a  **PbFontScriptType** constant that represents the font script for a text range. Read-only.
+Returns a **[PbFontScriptType](Publisher.PbFontScriptType.md)** constant that represents the font script for a text range. Read-only.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ PbFontScriptType
 
 ## Remarks
 
-The  **Script** property value can be one of the **[PbFontScriptType](Publisher.PbFontScriptType.md)** constants declared in the Microsoft Publisher type library.
+The **Script** property value can be one of the **PbFontScriptType** constants declared in the Microsoft Publisher type library.
 
 
 ## Example
 
 This example displays a message if the font script used in the specified text range is ASCII Latin. This example assumes that there is at least one shape on the first page of the active publication.
-
 
 ```vb
 Sub DisplayScriptType() 

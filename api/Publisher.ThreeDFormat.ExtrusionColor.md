@@ -7,21 +7,21 @@ ms.prod: publisher
 api_name:
 - Publisher.ThreeDFormat.ExtrusionColor
 ms.assetid: 209a47fd-a219-9533-1a4a-572dfa4312f2
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # ThreeDFormat.ExtrusionColor property (Publisher)
 
-Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object representing the color of the shape's extrusion.
+Returns a **[ColorFormat](Publisher.ColorFormat.md)** object representing the color of the shape's extrusion.
 
 
 ## Syntax
 
 _expression_.**ExtrusionColor**
 
-_expression_ A variable that represents an  **ThreeDFormat** object.
+_expression_ A variable that represents a **[ThreeDFormat](Publisher.ThreeDFormat.md)** object.
 
 
 ## Return value
@@ -32,7 +32,6 @@ ColorFormat
 ## Example
 
 This example adds an oval to the active publication, and then specifies that the oval be extruded to a depth of 50 points and that the extrusion be purple.
-
 
 ```vb
 Dim shpNew As Shape 

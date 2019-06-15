@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebOptions.ShowOnlyWebFonts property (Publisher)
 
-Returns or sets a **Boolean** value that specifies whether only Web-safe fonts and font schemes should be used when the Web site is viewed in a browser. If **True**, only Web-safe fonts and font schemes are used. If  **False**, display is not limited to Web-safe fonts and font schemes. The default value is  **False**. Read/write.
+Returns or sets a **Boolean** value that specifies whether only web-safe fonts and font schemes should be used when the website is viewed in a browser. If **True**, only web-safe fonts and font schemes are used. If  **False**, display is not limited to web-safe fonts and font schemes. The default value is  **False**. Read/write.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ This property applies to Latin-based fonts only.
 
 ## Example
 
-The following example specifies that only Web-safe fonts and font schemes should be used when the Web site is viewed in a browser.
+The following example specifies that only web-safe fonts and font schemes should be used when the website is viewed in a browser.
 
 
 ```vb

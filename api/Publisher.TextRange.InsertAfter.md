@@ -7,30 +7,28 @@ ms.prod: publisher
 api_name:
 - Publisher.TextRange.InsertAfter
 ms.assetid: f647be29-68c7-b221-adf1-fa233583e74e
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # TextRange.InsertAfter method (Publisher)
 
-Returns a  **[TextRange](Publisher.TextRange.md)** object that represents text appended to the end of a text range.
+Returns a **TextRange** object that represents text appended to the end of a text range.
 
 
 ## Syntax
 
-_expression_.**InsertAfter**(**_NewText_**)
+_expression_.**InsertAfter** (_NewText_)
 
 _expression_ A variable that represents a **[TextRange](Publisher.TextRange.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|NewText|Required| **String**|The text to be inserted.|
+|_NewText_|Required| **String**|The text to be inserted.|
 
 ## Return value
 
@@ -39,8 +37,7 @@ TextRange
 
 ## Example
 
-This example adds the Microsoft Publisher build number to the end of the first shape on the first page of the active publication. This example assumes the specified shape is a text frame and not another type of shape.
-
+This example adds the Microsoft Publisher build number to the end of the first shape on the first page of the active publication. This example assumes that the specified shape is a text frame and not another type of shape.
 
 ```vb
 Sub AppendText() 

@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.TextRange.DropCap
 ms.assetid: a5c29dd4-62f4-39fb-4b76-390d62bd8e32
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # TextRange.DropCap property (Publisher)
 
-Returns a  **[DropCap](Publisher.DropCap.md)** object that represents a dropped capital letter for the paragraphs in the specified text frame.
+Returns a **[DropCap](Publisher.DropCap.md)** object that represents a dropped capital letter for the paragraphs in the specified text frame.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ DropCap
 ## Example
 
 This example applies a custom dropped capital that is three lines high and spans the first three characters of each paragraph in the specified text frame.
-
 
 ```vb
 Sub SetDropCap() 

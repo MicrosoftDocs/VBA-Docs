@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.TextRange.MajorityFont
 ms.assetid: b0007ebc-ed0b-aab8-49fe-76353efbc1d2
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # TextRange.MajorityFont property (Publisher)
 
-Returns a  **[Font](Publisher.Font.md)** object that represents the font name most in use in a text range.
+Returns a **[Font](Publisher.Font.md)** object that represents the font name most in use in a text range.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ Font
 ## Example
 
 This example creates a new text box, fills it with text, checks if the font most in use is Tahoma, and if it isn't, changes the font to Tahoma.
-
 
 ```vb
 Sub SetFontName() 

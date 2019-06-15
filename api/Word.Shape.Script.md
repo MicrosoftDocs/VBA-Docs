@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Shape](Word.Shape.md)** o
 
 ## Remarks
 
-If the Web page contains no script, nothing is returned.
+If the webpage contains no script, nothing is returned.
 
 
 ## Example

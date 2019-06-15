@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.ThreeDFormat.Depth
 ms.assetid: b6b46ddb-e3dd-0f9a-1a67-6433bb9ea89a
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # ThreeDFormat.Depth property (Publisher)
 
-Returns or sets a  **Variant** indicating the depth of the shape's extrusion. Read/write.
+Returns or sets a **Variant** indicating the depth of the shape's extrusion. Read/write.
 
 
 ## Syntax
@@ -39,7 +39,6 @@ Positive values produce an extrusion whose front face is the original shape; neg
 ## Example
 
 This example adds an oval to the active publication, and then specifies that the oval be extruded to a depth of 50 points and that the extrusion be purple.
-
 
 ```vb
 Dim shpNew As Shape 

@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.TextStyle.Delete
 ms.assetid: 4b04a7f3-9bf1-122f-ca09-7552e06c9222
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
@@ -27,5 +27,7 @@ _expression_ A variable that represents a **[TextStyle](Publisher.TextStyle.md)*
 ## Remarks
 
 A run-time error occurs if the specified object does not exist.
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

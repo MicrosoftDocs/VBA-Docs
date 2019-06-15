@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebPageOptions.BackgroundSoundLoopForever property (Publisher)
 
-Returns a  **Boolean** value that specifies whether the background sound attached to the Web page should be repeated infinitely. Read-only.
+Returns a  **Boolean** value that specifies whether the background sound attached to the webpage should be repeated infinitely. Read-only.
 
 
 ## Syntax

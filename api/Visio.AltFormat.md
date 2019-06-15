@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # VisWebPageSettings.AltFormat Property (Visio Save As Web)
 
-Determines whether a secondary output format for the Web page is defined. Read/write.
+Determines whether a secondary output format for the webpage is defined. Read/write.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_.**AltFormat**
 
 ## Remarks
 
-The  **AltFormat** property returns non-zero (**True**) if a secondary output format for the Web page is defined; otherwise, it returns zero (**False**). The default is  **True**.
+The  **AltFormat** property returns non-zero (**True**) if a secondary output format for the webpage is defined; otherwise, it returns zero (**False**). The default is  **True**.
 
 Set the  **AltFormat** property to a non-zero value (**True**) to enable selection of a secondary output format for the webpage; otherwise, set it to zero (**False**).
 

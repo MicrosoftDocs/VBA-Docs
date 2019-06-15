@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.TextRange.Text
 ms.assetid: 13584812-307a-c32b-ca8f-27869728b64e
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # TextRange.Text property (Publisher)
 
-Returns or sets a  **String** that represents the text in a text range or WordArt shape. Read/write.
+Returns or sets a **String** that represents the text in a text range or WordArt shape. Read/write.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[TextRange](Publisher.TextRange.md)*
 ## Example
 
 The following example adds a rectangle to the active publication and adds text to it.
-
 
 ```vb
 Sub AddTextToShape() 

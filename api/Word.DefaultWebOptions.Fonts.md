@@ -26,7 +26,7 @@ _expression_.**Fonts**
 
 ## Remarks
 
-Word uses the fonts in the  **WebPageFonts** collection to display Web pages in Word when either there is no font information specified in the Web page or Word is unable to display the character set.
+Word uses the fonts in the  **WebPageFonts** collection to display Web pages in Word when either there is no font information specified in the webpage or Word is unable to display the character set.
 
 
 ## Example

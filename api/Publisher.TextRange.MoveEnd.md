@@ -7,65 +7,38 @@ ms.prod: publisher
 api_name:
 - Publisher.TextRange.MoveEnd
 ms.assetid: 4fe27375-34e2-2ecc-33c8-a07230012b13
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # TextRange.MoveEnd method (Publisher)
 
-Moves the ending character position of a range. This method returns a  **Long** that represents the number of units the range or selection actually moved or returns 0 (zero) if the move was unsuccessful.
+Moves the ending character position of a range. This method returns a **Long** that represents the number of units that the range or selection actually moved, or it returns 0 (zero) if the move was unsuccessful.
 
 
 ## Syntax
 
-_expression_.**MoveEnd**(**_Unit_**,  **_Size_**)
+_expression_.**MoveEnd** (_Unit_, _Size_)
 
 _expression_ A variable that represents a **[TextRange](Publisher.TextRange.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Unit|Required| **PbTextUnit**|The unit by which the collapsed range or selection is to be moved.|
-|Size|Required| **Long**|The number of units to move. If this number is positive, the ending character position is moved forward in the document. If this number is negative, the end is moved backward. If the ending position overtakes the starting position, the range collapses and both character positions move together.|
+|_Unit_|Required| **[PbTextUnit](publisher.pbtextunit.md)**|The unit by which the collapsed range or selection is to be moved. Can be one of the **PbTextUnit** constants declared in the Microsoft Publisher type library.|
+|_Size_|Required| **Long**|The number of units to move. If this number is positive, the ending character position is moved forward in the document. If this number is negative, the end is moved backward. If the ending position overtakes the starting position, the range collapses and both character positions move together.|
 
 ## Return value
 
 Long
 
 
-## Remarks
-
-The Unit parameter can be one of the  **PbTextUnit** constants declared in the Microsoft Publisher type library and shown in the following table.
-
-
-
-| **pbTextUnitCell**|
-| **pbTextUnitCharacter**|
-| **pbTextUnitCharFormat**|
-| **pbTextUnitCodePoint**|
-| **pbTextUnitColumn**|
-| **pbTextUnitLine**|
-| **pbTextUnitObject**|
-| **pbTextUnitParaFormat**|
-| **pbTextUnitParagraph**|
-| **pbTextUnitRow**|
-| **pbTextUnitScreen**|
-| **pbTextUnitSection**|
-| **pbTextUnitSentence**|
-| **pbTextUnitStory**|
-| **pbTextUnitTable**|
-| **pbTextUnitWindow**|
-| **pbTextUnitWord**|
-
 ## Example
 
 This example sets a text range, moves the range's starting and ending character positions, and then formats the font for the range.
-
 
 ```vb
 Sub MoveStartEnd() 

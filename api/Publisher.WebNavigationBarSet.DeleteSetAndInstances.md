@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebNavigationBarSet.DeleteSetAndInstances method (Publisher)
 
-Deletes a Web navigation bar set and all instances of it in the current document.
+Deletes a web navigation bar set and all instances of it in the current document.
 
 
 ## Syntax

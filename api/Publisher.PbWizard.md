@@ -63,7 +63,7 @@ The wizard to use to create the new publication.
 | **pbWizardJapanesePostcards**|78|Creates Japanese postcards|
 | **pbWizardJapanesePrograms**|115|Creates Japanese programs|
 | **pbWizardJapaneseSigns**|149|Creates Japanese signs|
-| **pbWizardJapaneseWebSites**|120|Creates Japanese Web sites|
+| **pbWizardJapaneseWebSites**|120|Creates Japanese websites|
 | **pbWizardLabels**|19|Creates labels|
 | **pbWizardLetterheads**|6|Creates letterheads|
 | **pbWizardMenus**|59|Creates menus|
@@ -75,11 +75,11 @@ The wizard to use to create the new publication.
 | **pbWizardQuickPublications**|179|Creates QuickPublications|
 | **pbWizardResumes**|18|Creates resumes|
 | **pbWizardSigns**|17|Creates signs|
-| **pbWizardWebSiteBlank**|203|Creates a blank Web site|
-| **pbWizardWebSiteHomePage**|5|Creates a home page for a Web site|
-| **pbWizardWebSiteProductSales**|201|Creates a product sales Web site|
-| **pbWizardWebSiteServices**|202|Creates a services Web site|
-| **pbWizardWebSiteThreePage**|200|Creates a three-page Web site|
+| **pbWizardWebSiteBlank**|203|Creates a blank website|
+| **pbWizardWebSiteHomePage**|5|Creates a home page for a website|
+| **pbWizardWebSiteProductSales**|201|Creates a product sales website|
+| **pbWizardWebSiteServices**|202|Creates a services website|
+| **pbWizardWebSiteThreePage**|200|Creates a three-page website|
 | **pbWizardWithComplimentsCards**|73|Creates with compliments cards|
 | **pbWizardWordDocument**|189|Creates a Microsoft Office Word document|
 

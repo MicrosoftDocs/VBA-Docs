@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.TextEffectFormat.PresetShape
 ms.assetid: 4e98e606-d26b-aa81-0e19-5b8535ba6df1
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # TextEffectFormat.PresetShape property (Publisher)
 
-Returns or sets an  **MsoPresetTextEffectShape** constant that represents the shape of the specified WordArt. Read/write.
+Returns or sets an **[MsoPresetTextEffectShape](Office.MsoPresetTextEffectShape.md)** constant that represents the shape of the specified WordArt. Read/write.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ MsoPresetTextEffectShape
 
 ## Remarks
 
-The  **PresetShape** property value can be one of the **[MsoPresetTextEffectShape](Office.MsoPresetTextEffectShape.md)** constants declared in the Microsoft Office type library.
+The **PresetShape** property value can be one of the **MsoPresetTextEffectShape** constants declared in the Microsoft Office type library.
 
 
 ## Example
 
-This example sets the shape of the first shape on the first page of the active publication to a chevron whose center points down. For this example to work the first shape must be a WordArt shape.
-
+This example sets the shape of the first shape on the first page of the active publication to a chevron whose center points down. For this example to work, the first shape must be a WordArt shape.
 
 ```vb
 Sub ChangeTextEffect() 

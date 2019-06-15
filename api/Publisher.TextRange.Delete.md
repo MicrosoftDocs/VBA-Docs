@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.TextRange.Delete
 ms.assetid: 3062b5ea-fdb7-6632-0838-02e2c9c1c906
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
@@ -27,5 +27,6 @@ _expression_ A variable that represents a **[TextRange](Publisher.TextRange.md)*
 ## Remarks
 
 A run-time error occurs if the specified object does not exist.
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

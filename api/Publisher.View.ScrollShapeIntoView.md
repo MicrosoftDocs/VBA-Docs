@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.View.ScrollShapeIntoView
 ms.assetid: 1d654fd4-d3b8-49e4-731d-fed27e6e0d8d
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
@@ -19,23 +19,20 @@ Scrolls the publication window so that the specified shape is displayed in the p
 
 ## Syntax
 
-_expression_.**ScrollShapeIntoView**(**_Shape_**)
+_expression_.**ScrollShapeIntoView** (_Shape_)
 
 _expression_ A variable that represents a **[View](Publisher.View.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Shape|Required| **Shape**|The shape to scroll into view.|
+|_Shape_|Required| **Shape**|The shape to scroll into view.|
 
 ## Example
 
 This example adds a shape to a new page and scrolls the current view to the new shape.
-
 
 ```vb
 Sub ScrollIntoView() 

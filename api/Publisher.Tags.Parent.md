@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Tags.Parent
 ms.assetid: 8d164438-f15f-5232-92b4-d293b62b15da
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # Tags.Parent property (Publisher)
 
-Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
+Returns an object that represents the parent object of the specified object. For example, for a **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[Tags](Publisher.Tags.md)** object.
 ## Example
 
 This example accesses the parent object of the selected shape, and then adds a new shape to it and sets the fill for the new shape.
-
 
 ```vb
 Sub ParentObject() 
@@ -45,9 +44,6 @@ End Sub
 <br/>
 
 This example returns the parent object of a text frame, which is the first shape in the active publication, and then fills the shape with a pattern.
-
-
-
 
 ```vb
 Sub ParentShape() 

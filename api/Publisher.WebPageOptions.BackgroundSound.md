@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebPageOptions.BackgroundSound property (Publisher)
 
-Returns or sets a  **String** that specifies the path to a sound file that is played when the Web page is loaded in a web browser. Read/write.
+Returns or sets a  **String** that specifies the path to a sound file that is played when the webpage is loaded in a web browser. Read/write.
 
 
 ## Syntax

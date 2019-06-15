@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Tag.Value
 ms.assetid: dee3b69b-ae5b-df13-561e-84105057979a
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # Tag.Value property (Publisher)
 
-Returns or sets a  **Variant** that represents the value of a tag of a shape, page, or publication. Read/write.
+Returns or sets a **Variant** that represents the value of a tag of a shape, page, or publication. Read/write.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[Tag](Publisher.Tag.md)** object.
 ## Example
 
 This example creates a new tag for the active publication and then displays the value of the tag.
-
 
 ```vb
 Sub CreatePublicationTag() 

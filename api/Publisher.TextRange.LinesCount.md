@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.TextRange.LinesCount
 ms.assetid: 0764107c-422d-5c97-1fd5-feae43579759
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
@@ -27,5 +27,6 @@ _expression_ A variable that represents a **[TextRange](Publisher.TextRange.md)*
 ## Return value
 
 Long
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

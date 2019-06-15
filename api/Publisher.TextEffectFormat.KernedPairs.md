@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.TextEffectFormat.KernedPairs
 ms.assetid: 1382ae7a-250f-ca08-a57f-f7132078e3f2
-ms.date: 06/08/2017
+ms.date: 06/15/2019
 localization_priority: Normal
 ---
 
 
 # TextEffectFormat.KernedPairs property (Publisher)
 
-Sets or returns an  **MsoTriState** constant that indicates whether character pairs in a WordArt object have been kerned. Read/write.
+Sets or returns an **[MsoTriState](Office.MsoTriState.md)** constant that indicates whether character pairs in a WordArt object have been kerned. Read/write.
 
 
 ## Syntax
@@ -31,20 +31,18 @@ MsoTriState
 
 ## Remarks
 
-The  **KernedPairs** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
-
-
+The **KernedPairs** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 |Constant|Description|
 |:-----|:-----|
 | **msoFalse**| Character pairs in the specified WordArt object have not been kerned.|
-| **msoTriStateToggle**|Switches between  **msoTrue** and **msoFalse**.|
+| **msoTriStateToggle**|Switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**|Character pairs in the specified WordArt object have been kerned.|
+
 
 ## Example
 
 This example turns on character pair kerning for all WordArt objects in the active publication.
-
 
 ```vb
 Sub KernedWordArt() 
