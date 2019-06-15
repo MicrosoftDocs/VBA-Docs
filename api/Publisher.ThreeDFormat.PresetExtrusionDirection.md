@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ThreeDFormat.PresetExtrusionDirection property (Publisher)
 
-Returns an **[MsoPresetExtrusionDirection](msopresetextrusiondirection.md)** constant that represents the direction taken by the extrusion's sweep path leading away from the extruded shape (the front face of the extrusion). Read-only.
+Returns an **[MsoPresetExtrusionDirection](office.msopresetextrusiondirection.md)** constant that represents the direction taken by the extrusion's sweep path leading away from the extruded shape (the front face of the extrusion). Read-only.
 
 
 ## Syntax
