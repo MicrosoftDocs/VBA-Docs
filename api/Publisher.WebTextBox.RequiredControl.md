@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.WebTextBox.RequiredControl
 ms.assetid: 32e18d4b-7af0-b079-4baf-9acc07c3c37d
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
 
 # WebTextBox.RequiredControl property (Publisher)
 
-Specifies whether an entry into a Web text box control is required. Read/write.
+Specifies whether an entry into a web text box control is required. Read/write.
 
 
 ## Syntax
@@ -31,19 +31,16 @@ MsoTriState
 
 ## Remarks
 
-The  **RequiredControl** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
-
-
+The **RequiredControl** property value can be one of the **[MsoTriState](office.msotristate.md)** constants declared in the Microsoft Office type library and shown in the following table.
 
 |Constant|Description|
 |:-----|:-----|
-| **msoFalse**|Indicates entry into the specified Web text box control is not required.|
-| **msoTrue**| Indicates entry into the specified Web text box control is required.|
+| **msoFalse**|Indicates that entry into the specified web text box control is not required.|
+| **msoTrue** |Indicates that entry into the specified web text box control is required.|
 
 ## Example
 
-This example creates a new Web text box control in the active publication, sets the default text and the character limit for the text box, and specifies that an entry is required.
-
+This example creates a new web text box control in the active publication, sets the default text and the character limit for the text box, and specifies that an entry is required.
 
 ```vb
 Sub AddWebTextBoxControl() 

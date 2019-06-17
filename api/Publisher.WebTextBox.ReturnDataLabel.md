@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.WebTextBox.ReturnDataLabel
 ms.assetid: 83beba69-3d04-2010-0656-d6a27c08951c
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[WebTextBox](Publisher.WebTextBox.md
 ## Example
 
 This example creates a new web text box and specifies the label for the text in the text box when the page is submitted.
-
 
 ```vb
 Sub LabelWebTextBoxControl() 

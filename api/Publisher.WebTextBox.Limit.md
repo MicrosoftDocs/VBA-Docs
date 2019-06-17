@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.WebTextBox.Limit
 ms.assetid: b6bf334e-a610-492a-b316-e8b52d223176
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
 
 # WebTextBox.Limit property (Publisher)
 
-Returns or sets a  **Long** that represents the maximum number of characters that can be entered into a Web text box control. Read/write.
+Returns or sets a **Long** that represents the maximum number of characters that can be entered into a web text box control. Read/write.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ Text box limits can be any number from 1 to 255 characters. Numbers higher than 
 
 ## Example
 
-This example creates a new Web text box control in the active publication, sets the default text and the character limit for the text box, and specifies that it is a required control.
+This example creates a new web text box control in the active publication, sets the default text and the character limit for the text box, and specifies that it is a required control.
 
 
 ```vb
