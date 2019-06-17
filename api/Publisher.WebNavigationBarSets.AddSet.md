@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[WebNavigationBarSets](Publisher.Web
 |:-----|:-----|:-----|:-----|
 |_Name_|Required| **String**|The name of the web navigation bar to be added. This parameter must be unique.|
 |_Design_|Optional| **[PbWizardNavBarDesign](publisher.pbwizardnavbardesign.md)**|Specifies the navigation bar design scheme.|
-|_AutoUpdate_|Optional| **Boolean**| **True** if all pages with the **AddHyperlinkToWebNavBar** property set to **True** are added as links to the navigation bar, and the navigation bar is kept updated.|
+|_AutoUpdate_|Optional| **Boolean**| **True** if all pages with the _AddHyperlinkToWebNavBar_ parameter (**[Pages.Add](publisher.pages.add.md)** method) set to **True** are added as links to the navigation bar, and the navigation bar is kept updated.|
 
 ## Return value
 

@@ -39,7 +39,7 @@ ActiveDocument.WebNavigationBarSets(1).Links
 
 <br/>
 
-The following example adds a new web navigation bar set to the active document, adds a hyperlink to the navigation bar, and then adds the navigation bar to every page of the publication that has the **AddHyperlinkToWebNavbar** property set to **True** or the **[WebPageOptions.IncludePageOnNewWebNavigationBars](publisher.webpageoptions.includepageonnewwebnavigationbars.md)** property set to **True**.
+The following example adds a new web navigation bar set to the active document, adds a hyperlink to the navigation bar, and then adds the navigation bar to every page of the publication that has the _AddHyperlinkToWebNavBar_ parameter (**[Pages.Add](publisher.pages.add.md)** method) set to **True** or the **[WebPageOptions.IncludePageOnNewWebNavigationBars](publisher.webpageoptions.includepageonnewwebnavigationbars.md)** property set to **True**.
 
 ```vb
 With ActiveDocument.WebNavigationBarSets.AddSet(Name:="WebNavigationBarSet1") 

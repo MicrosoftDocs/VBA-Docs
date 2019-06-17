@@ -7,14 +7,18 @@ ms.prod: publisher
 api_name:
 - Publisher.WebPageOptions.Application
 ms.assetid: ca588fc3-bfb2-2176-5451-244362a33b41
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
 
 # WebPageOptions.Application property (Publisher)
 
-When used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. When used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
+When used without an object qualifier, this property returns an **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. 
+
+When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object. 
+
+When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
@@ -28,7 +32,6 @@ _expression_ A variable that represents a **[WebPageOptions](Publisher.WebPageOp
 
 This example displays the version and build information for Publisher.
 
-
 ```vb
 With Application 
  MsgBox "Current Publisher: version " _ 
@@ -39,9 +42,6 @@ End With
 <br/>
 
 This example displays the name of the application that created each linked OLE object on page one of the active publication.
-
-
-
 
 ```vb
 Dim shpOle As Shape 
