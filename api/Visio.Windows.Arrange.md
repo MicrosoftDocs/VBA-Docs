@@ -21,7 +21,7 @@ Arranges the windows in a  **Windows** collection.
 
 _expression_. `Arrange`( `_nArrangeFlags_` )
 
-_expression_ A variable that represents a [Windows](./Visio.Windows.md) object.
+_expression_ A variable that represents a **[Windows](Visio.Windows.md)** object.
 
 
 ## Parameters

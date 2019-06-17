@@ -21,7 +21,7 @@ Gets or sets the caption for a window. Read/write.
 
 _expression_.**Caption**
 
-_expression_ A variable that represents a [Window](./Visio.Window.md) object.
+_expression_ A variable that represents a [Window](Visio.Window.md) object.
 
 
 ## Return value

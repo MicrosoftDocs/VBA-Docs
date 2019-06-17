@@ -19,9 +19,9 @@ Returns an item from a collection. The  **Item** property is the default propert
 
 ## Syntax
 
-_expression_. `Item`( `_NameUIDOrIndex_` )
+_expression_.**Item** (_NameUIDOrIndex_)
 
-_expression_ A variable that represents a [Pages](./Visio.Pages.md) object.
+_expression_ A variable that represents a [Pages](Visio.Pages.md) object.
 
 
 ## Parameters

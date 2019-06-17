@@ -19,9 +19,9 @@ Returns status information for an object. Read-only.
 
 ## Syntax
 
-_expression_. `Stat`
+_expression_.**Stat**
 
-_expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
+_expression_ A variable that represents a [MasterShortcut](Visio.MasterShortcut.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Deletes the  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object from the
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [ValidationRuleSet](./Visio.ValidationRuleSet.md) object.
+_expression_ A variable that represents a [ValidationRuleSet](Visio.ValidationRuleSet.md) object.
 
 
 ## Return value

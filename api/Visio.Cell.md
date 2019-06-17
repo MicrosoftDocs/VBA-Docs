@@ -32,8 +32,8 @@ A program can control a shape's appearance and behavior by working with the form
 
 |Name|
 |:-----|
-|[CellChanged](./Visio.Cell.CellChanged.md)|
-|[FormulaChanged](./Visio.Cell.FormulaChanged.md)|
+|[CellChanged](Visio.Cell.CellChanged.md)|
+|[FormulaChanged](Visio.Cell.FormulaChanged.md)|
 
 ## Methods
 
@@ -41,9 +41,9 @@ A program can control a shape's appearance and behavior by working with the form
 
 |Name|
 |:-----|
-|[GlueTo](./Visio.Cell.GlueTo.md)|
-|[GlueToPos](./Visio.Cell.GlueToPos.md)|
-|[Trigger](./Visio.Cell.Trigger.md)|
+|[GlueTo](Visio.Cell.GlueTo.md)|
+|[GlueToPos](Visio.Cell.GlueToPos.md)|
+|[Trigger](Visio.Cell.Trigger.md)|
 
 ## Properties
 
@@ -51,44 +51,44 @@ A program can control a shape's appearance and behavior by working with the form
 
 |Name|
 |:-----|
-|[Application](./Visio.Cell.Application.md)|
-|[Column](./Visio.Cell.Column.md)|
-|[ContainingMasterID](./Visio.Cell.ContainingMasterID.md)|
-|[ContainingPageID](./Visio.Cell.ContainingPageID.md)|
-|[ContainingRow](./Visio.Cell.ContainingRow.md)|
-|[Dependents](./Visio.Cell.Dependents.md)|
-|[Document](./Visio.Cell.Document.md)|
-|[Error](./Visio.Cell.Error.md)|
-|[EventList](./Visio.Cell.EventList.md)|
-|[Formula](./Visio.Cell.Formula.md)|
-|[FormulaForce](./Visio.Cell.FormulaForce.md)|
-|[FormulaForceU](./Visio.Cell.FormulaForceU.md)|
-|[FormulaU](./Visio.Cell.FormulaU.md)|
-|[InheritedFormulaSource](./Visio.Cell.InheritedFormulaSource.md)|
-|[InheritedValueSource](./Visio.Cell.InheritedValueSource.md)|
-|[IsConstant](./Visio.Cell.IsConstant.md)|
-|[IsInherited](./Visio.Cell.IsInherited.md)|
-|[LocalName](./Visio.Cell.LocalName.md)|
-|[Name](./Visio.Cell.Name.md)|
-|[ObjectType](./Visio.Cell.ObjectType.md)|
-|[PersistsEvents](./Visio.Cell.PersistsEvents.md)|
-|[Precedents](./Visio.Cell.Precedents.md)|
-|[Result](./Visio.Cell.Result.md)|
-|[ResultForce](./Visio.Cell.ResultForce.md)|
-|[ResultFromInt](./Visio.Cell.ResultFromInt.md)|
-|[ResultFromIntForce](./Visio.Cell.ResultFromIntForce.md)|
-|[ResultInt](./Visio.Cell.ResultInt.md)|
-|[ResultIU](./Visio.Cell.ResultIU.md)|
-|[ResultIUForce](./Visio.Cell.ResultIUForce.md)|
-|[ResultStr](./Visio.Cell.ResultStr.md)|
-|[ResultStrU](./Visio.Cell.ResultStrU.md)|
-|[Row](./Visio.Cell.Row.md)|
-|[RowName](./Visio.Cell.RowName.md)|
-|[RowNameU](./Visio.Cell.RowNameU.md)|
-|[Section](./Visio.Cell.Section.md)|
-|[Shape](./Visio.Cell.Shape.md)|
-|[Stat](./Visio.Cell.Stat.md)|
-|[Style](./Visio.Cell.Style.md)|
-|[Units](./Visio.Cell.Units.md)|
+|[Application](Visio.Cell.Application.md)|
+|[Column](Visio.Cell.Column.md)|
+|[ContainingMasterID](Visio.Cell.ContainingMasterID.md)|
+|[ContainingPageID](Visio.Cell.ContainingPageID.md)|
+|[ContainingRow](Visio.Cell.ContainingRow.md)|
+|[Dependents](Visio.Cell.Dependents.md)|
+|[Document](Visio.Cell.Document.md)|
+|[Error](Visio.Cell.Error.md)|
+|[EventList](Visio.Cell.EventList.md)|
+|[Formula](Visio.Cell.Formula.md)|
+|[FormulaForce](Visio.Cell.FormulaForce.md)|
+|[FormulaForceU](Visio.Cell.FormulaForceU.md)|
+|[FormulaU](Visio.Cell.FormulaU.md)|
+|[InheritedFormulaSource](Visio.Cell.InheritedFormulaSource.md)|
+|[InheritedValueSource](Visio.Cell.InheritedValueSource.md)|
+|[IsConstant](Visio.Cell.IsConstant.md)|
+|[IsInherited](Visio.Cell.IsInherited.md)|
+|[LocalName](Visio.Cell.LocalName.md)|
+|[Name](Visio.Cell.Name.md)|
+|[ObjectType](Visio.Cell.ObjectType.md)|
+|[PersistsEvents](Visio.Cell.PersistsEvents.md)|
+|[Precedents](Visio.Cell.Precedents.md)|
+|[Result](Visio.Cell.Result.md)|
+|[ResultForce](Visio.Cell.ResultForce.md)|
+|[ResultFromInt](Visio.Cell.ResultFromInt.md)|
+|[ResultFromIntForce](Visio.Cell.ResultFromIntForce.md)|
+|[ResultInt](Visio.Cell.ResultInt.md)|
+|[ResultIU](Visio.Cell.ResultIU.md)|
+|[ResultIUForce](Visio.Cell.ResultIUForce.md)|
+|[ResultStr](Visio.Cell.ResultStr.md)|
+|[ResultStrU](Visio.Cell.ResultStrU.md)|
+|[Row](Visio.Cell.Row.md)|
+|[RowName](Visio.Cell.RowName.md)|
+|[RowNameU](Visio.Cell.RowNameU.md)|
+|[Section](Visio.Cell.Section.md)|
+|[Shape](Visio.Cell.Shape.md)|
+|[Stat](Visio.Cell.Stat.md)|
+|[Style](Visio.Cell.Style.md)|
+|[Units](Visio.Cell.Units.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

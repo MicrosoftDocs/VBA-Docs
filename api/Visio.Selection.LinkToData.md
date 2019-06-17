@@ -24,7 +24,7 @@ Links a selection of shapes to a single data row in a data recordset.
 
 _expression_. `LinkToData`( `_DataRecordsetID_` , `_DataRowID_` , `_AutoApplyDataGraphics_` )
 
- _expression_ An expression that returns a [Selection](./Visio.Selection.md) object.
+ _expression_ An expression that returns a [Selection](Visio.Selection.md) object.
 
 
 ## Parameters

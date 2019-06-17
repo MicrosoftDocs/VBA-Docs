@@ -21,7 +21,7 @@ Creates a new shape by combining selected shapes.
 
 _expression_. `Combine`
 
-_expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
+_expression_ A variable that represents a [Selection](Visio.Selection.md) object.
 
 
 ## Return value

@@ -19,7 +19,7 @@ Returns a [Document](Word.Document.md) object associated with the Protected View
 
 ## Syntax
 
-_expression_. `Document`
+_expression_.**Document**
 
 _expression_ A variable that represents a '[ProtectedViewWindow](Word.ProtectedViewWindow.md)' object.
 

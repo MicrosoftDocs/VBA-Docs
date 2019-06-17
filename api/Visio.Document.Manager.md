@@ -21,7 +21,7 @@ Gets or sets the value of the  **Manager** box in a document's **Properties** di
 
 _expression_. `Manager`
 
-_expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](Visio.Document.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Determines whether the dynamic grid is enabled. Read/write.
 
 _expression_. `DynamicGridEnabled`
 
-_expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](Visio.Document.md) object.
 
 
 ## Return value

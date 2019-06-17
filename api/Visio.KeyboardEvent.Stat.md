@@ -19,9 +19,9 @@ Returns status information. Read-only.
 
 ## Syntax
 
-_expression_. `Stat`
+_expression_.**Stat**
 
-_expression_ A variable that represents a [KeyboardEvent](./Visio.KeyboardEvent.md) object.
+_expression_ A variable that represents a [KeyboardEvent](Visio.KeyboardEvent.md) object.
 
 
 ## Return value

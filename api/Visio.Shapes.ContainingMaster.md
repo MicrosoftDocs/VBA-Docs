@@ -21,7 +21,7 @@ Returns the  **Master** object that contains an object. Read-only.
 
 _expression_. `ContainingMaster`
 
-_expression_ A variable that represents a [Shapes](./Visio.Shapes.md) object.
+_expression_ A variable that represents a [Shapes](Visio.Shapes.md) object.
 
 
 ## Return value

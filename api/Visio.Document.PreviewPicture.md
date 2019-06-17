@@ -21,7 +21,7 @@ Gets or sets the preview picture shown in the  **Open** dialog box and when you 
 
 _expression_. `PreviewPicture`
 
-_expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](Visio.Document.md) object.
 
 
 ## Return value

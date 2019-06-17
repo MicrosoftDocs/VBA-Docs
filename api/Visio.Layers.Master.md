@@ -21,7 +21,7 @@ Returns the master that contains the  **Layers** collection. Read-only.
 
 _expression_. `Master`
 
-_expression_ A variable that represents a [Layers](./Visio.Layers.md) object.
+_expression_ A variable that represents a [Layers](Visio.Layers.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns the major version number of the Microsoft Visio type library. Read-only.
 
 _expression_. `TypelibMajorVersion`
 
-_expression_ A variable that represents an [Application](./Visio.Application.md) object.
+_expression_ A variable that represents an [Application](Visio.Application.md) object.
 
 
 ## Return value

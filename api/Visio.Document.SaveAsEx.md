@@ -21,7 +21,7 @@ Saves a document with a file name using extra information passed in an argument.
 
 _expression_. `SaveAsEx`( `_FileName_` , `_SaveFlags_` )
 
-_expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](Visio.Document.md) object.
 
 
 ## Parameters

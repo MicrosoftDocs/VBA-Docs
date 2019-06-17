@@ -21,7 +21,7 @@ Gets the page that contains the layers. Read-only.
 
 _expression_. `Page`
 
-_expression_ A variable that represents a [Layers](./Visio.Layers.md) object.
+_expression_ A variable that represents a [Layers](Visio.Layers.md) object.
 
 
 ## Return value

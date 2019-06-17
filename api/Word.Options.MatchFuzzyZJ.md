@@ -27,7 +27,7 @@ localization_priority: Normal
 
 _expression_. `MatchFuzzyZJ`
 
- _expression_ An expression that returns an '[Options](Word.Options.md)' object.
+ _expression_ An expression that returns an **[Options](Word.Options.md)** object.
 
 
 ## Example

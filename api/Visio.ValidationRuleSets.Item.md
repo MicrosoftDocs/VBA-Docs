@@ -19,9 +19,9 @@ Returns the  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object that has
 
 ## Syntax
 
-_expression_. `Item`( `_NameUOrIndex_` )
+_expression_.**Item** (_NameUIDOrIndex_)
 
-_expression_ A variable that represents a '[ValidationRuleSets](Visio.ValidationRuleSets.md)' object.
+_expression_ A variable that represents a **[ValidationRuleSets](Visio.ValidationRuleSets.md)** object.
 
 
 ## Parameters

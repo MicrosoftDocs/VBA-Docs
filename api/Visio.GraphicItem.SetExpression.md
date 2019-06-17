@@ -24,7 +24,7 @@ Sets the value of the expression string that is part of a  **GraphicItem** objec
 
 _expression_. `SetExpression`( `_Field_` , `_Expression_` )
 
- _expression_ An expression that returns a [GraphicItem](./Visio.GraphicItem.md) object.
+ _expression_ An expression that returns a [GraphicItem](Visio.GraphicItem.md) object.
 
 
 ## Parameters

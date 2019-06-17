@@ -19,7 +19,7 @@ Returns  **True** if the current instance of Visio is 32-bit. Returns **False** 
 
 _expression_. `IsVisio32`
 
- _expression_ An expression that returns a [InvisibleApp](./Visio.InvisibleApp.md) object.
+ _expression_ An expression that returns a [InvisibleApp](Visio.InvisibleApp.md) object.
 
 
 ## Return value

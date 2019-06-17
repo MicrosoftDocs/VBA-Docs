@@ -19,9 +19,9 @@ Gets the  **Document** object that contains the **DataRecordsets** collection. R
 
 ## Syntax
 
-_expression_. `Document`
+_expression_.**Document**
 
- _expression_ An expression that returns a [DataRecordsets](./Visio.DataRecordsets.md) object.
+ _expression_ An expression that returns a [DataRecordsets](Visio.DataRecordsets.md) object.
 
 
 ## Return value

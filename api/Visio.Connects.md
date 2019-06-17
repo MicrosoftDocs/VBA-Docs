@@ -41,13 +41,13 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 |Name|
 |:-----|
-|[Application](./Visio.Connects.Application.md)|
-|[Count](./Visio.Connects.Count.md)|
-|[Document](./Visio.Connects.Document.md)|
-|[FromSheet](./Visio.Connects.FromSheet.md)|
-|[Item](./Visio.Connects.Item.md)|
-|[ObjectType](./Visio.Connects.ObjectType.md)|
-|[Stat](./Visio.Connects.Stat.md)|
-|[ToSheet](./Visio.Connects.ToSheet.md)|
+|[Application](Visio.Connects.Application.md)|
+|[Count](Visio.Connects.Count.md)|
+|[Document](Visio.Connects.Document.md)|
+|[FromSheet](Visio.Connects.FromSheet.md)|
+|[Item](Visio.Connects.Item.md)|
+|[ObjectType](Visio.Connects.ObjectType.md)|
+|[Stat](Visio.Connects.Stat.md)|
+|[ToSheet](Visio.Connects.ToSheet.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

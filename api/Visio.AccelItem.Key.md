@@ -19,9 +19,9 @@ Gets or sets the ASCII key code value for an accelerator. Read/write.
 
 ## Syntax
 
-_expression_. `Key`
+_expression_.**Key**
 
-_expression_ A variable that represents an [AccelItem](./Visio.AccelItem.md) object.
+_expression_ A variable that represents an **[AccelItem](Visio.AccelItem.md)** object.
 
 
 ## Return value

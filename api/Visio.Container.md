@@ -21,7 +21,7 @@ Returns an  **IDispatch** interface on the ActiveX container in which the docume
 
 _expression_. `Container`
 
-_expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](Visio.Document.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Determines whether shapes added to the drawing page by Automation are selected. 
 
 _expression_. `InhibitSelectChange`
 
-_expression_ A variable that represents an [Application](./Visio.Application.md) object.
+_expression_ A variable that represents an [Application](Visio.Application.md) object.
 
 
 ## Return value

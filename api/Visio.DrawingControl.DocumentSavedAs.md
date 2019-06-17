@@ -18,7 +18,7 @@ Occurs after a document is saved by using the  **Save As** command.
 
 Private Sub  _expression_ _'DocumentSavedAs'(**_ByVal doc As [IVDOCUMENT]_**)
 
-_expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
+_expression_ A variable that represents a [DrawingControl](Visio.DrawingControl.md) object.
 
 
 ## Parameters

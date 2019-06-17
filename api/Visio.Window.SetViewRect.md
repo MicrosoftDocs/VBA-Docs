@@ -21,7 +21,7 @@ Sets the page coordinates of a window's borders by adjusting the zoom level and 
 
 _expression_. `SetViewRect`( `_dLeft_` , `_dTop_` , `_dWidth_` , `_dHeight_` )
 
-_expression_ A variable that represents a [Window](./Visio.Window.md) object.
+_expression_ A variable that represents a [Window](Visio.Window.md) object.
 
 
 ## Parameters

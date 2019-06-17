@@ -24,7 +24,7 @@ Adds a copy of a  **GraphicItem** object to the **GraphicItems** collection of a
 
 _expression_. `AddCopy`( `_GraphicItem_` )
 
- _expression_ An expression that returns a [GraphicItems](./Visio.GraphicItems.md) object.
+ _expression_ An expression that returns a [GraphicItems](Visio.GraphicItems.md) object.
 
 
 ## Parameters

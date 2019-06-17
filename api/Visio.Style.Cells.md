@@ -21,7 +21,7 @@ Returns a  **Cell** object that represents a ShapeSheet cell. Read-only.
 
 _expression_.**Cells** (_localeSpecificCellName_)
 
-_expression_ A variable that represents a [Style](./Visio.Style.md) object.
+_expression_ A variable that represents a [Style](Visio.Style.md) object.
 
 
 ## Parameters

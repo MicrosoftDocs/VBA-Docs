@@ -19,9 +19,9 @@ Returns an object's type. Read-only.
 
 ## Syntax
 
-_expression_. `ObjectType`
+_expression_.**ObjectType**
 
-_expression_ A variable that represents a [Hyperlinks](./Visio.Hyperlinks.md) object.
+_expression_ A variable that represents a [Hyperlinks](Visio.Hyperlinks.md) object.
 
 
 ## Return value

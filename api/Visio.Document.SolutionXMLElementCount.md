@@ -21,7 +21,7 @@ Returns the number of SolutionXML elements in a document. Read-only.
 
 _expression_. `SolutionXMLElementCount`
 
-_expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](Visio.Document.md) object.
 
 
 ## Return value

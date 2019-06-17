@@ -19,7 +19,7 @@ Determines the appearance and position of the heading of the container. Read/wri
 
 ## Syntax
 
-_expression_. `HeadingStyle`
+_expression_.**HeadingStyle**
 
  _expression_ An expression that returns a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

@@ -24,7 +24,7 @@ Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecords
 
 _expression_. `AddFromConnectionFile`( `_FileName_` , `_AddOptions_` , `_Name_` )
 
- _expression_ An expression that returns a [DataRecordsets](./Visio.DataRecordsets.md) object.
+ _expression_ An expression that returns a [DataRecordsets](Visio.DataRecordsets.md) object.
 
 
 ## Parameters

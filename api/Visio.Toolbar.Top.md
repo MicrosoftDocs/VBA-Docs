@@ -21,7 +21,7 @@ Gets the distance between the top of an object and the top of the docking area o
 
 _expression_.**Top**
 
-_expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
+_expression_ A variable that represents a [Toolbar](Visio.Toolbar.md) object.
 
 
 ## Return value

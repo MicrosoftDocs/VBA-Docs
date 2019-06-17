@@ -21,7 +21,7 @@ Returns or sets the time interval in minutes for saving AutoRecover information.
 
 _expression_. `SaveInterval`
 
- _expression_ An expression that returns an '[Options](Word.Options.md)' object.
+ _expression_ An expression that returns an **[Options](Word.Options.md)** object.
 
 
 ## Remarks

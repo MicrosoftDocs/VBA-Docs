@@ -21,7 +21,7 @@ Glues one shape to another, from a cell in the first shape to a cell in the seco
 
 _expression_. `GlueTo`( `_CellObject_` )
 
-_expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
+_expression_ A variable that represents a [Cell](Visio.Cell.md) object.
 
 
 ## Parameters

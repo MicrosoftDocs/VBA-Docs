@@ -19,9 +19,9 @@ Gets or sets the flags that specify how you use a  **Color** object. Read/write.
 
 ## Syntax
 
-_expression_. `Flags`
+_expression_.**Flags**
 
-_expression_ A variable that represents a [Color](./Visio.Color.md) object.
+_expression_ A variable that represents a [Color](Visio.Color.md) object.
 
 
 ## Return value

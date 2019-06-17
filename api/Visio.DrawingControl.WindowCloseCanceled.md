@@ -18,7 +18,7 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 
 Private Sub  _expression_ _'WindowCloseCanceled'(**_ByVal Window As [IVWINDOW]_**)
 
-_expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
+_expression_ A variable that represents a [DrawingControl](Visio.DrawingControl.md) object.
 
 
 ## Parameters

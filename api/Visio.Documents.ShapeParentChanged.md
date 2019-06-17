@@ -21,7 +21,7 @@ Occurs after shapes are grouped or a group is ungrouped.
 
 Private Sub  _expression_ _'ShapeParentChanged'(**_ByVal Shape As [IVSHAPE]_**)
 
-_expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
+_expression_ A variable that represents a [Documents](Visio.Documents.md) object.
 
 
 ## Parameters

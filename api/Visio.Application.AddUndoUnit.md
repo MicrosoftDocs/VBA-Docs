@@ -21,7 +21,7 @@ Adds an object that supports the  **IOleUndoUnit** or **IVBUndoUnit** interface 
 
 _expression_. `AddUndoUnit`( `_pUndoUnit_` )
 
-_expression_ A variable that represents an [Application](./Visio.Application.md) object.
+_expression_ A variable that represents an [Application](Visio.Application.md) object.
 
 
 ## Parameters

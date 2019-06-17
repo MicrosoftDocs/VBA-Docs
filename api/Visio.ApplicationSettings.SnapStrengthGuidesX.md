@@ -21,7 +21,7 @@ Specifies the distance in pixels along the x-axis that guides pull when snapping
 
 _expression_. `SnapStrengthGuidesX`
 
-_expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
+_expression_ A variable that represents an [ApplicationSettings](Visio.ApplicationSettings.md) object.
 
 
 ## Return value

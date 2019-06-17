@@ -21,7 +21,7 @@ Distributes three or more selected shapes at regular intervals on the drawing pa
 
 _expression_. `Distribute`( `_Distribute_` , `_GlueToGuide_` )
 
-_expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
+_expression_ A variable that represents a [Selection](Visio.Selection.md) object.
 
 
 ## Parameters

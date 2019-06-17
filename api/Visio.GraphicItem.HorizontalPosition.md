@@ -24,7 +24,7 @@ Gets or sets the horizontal position of the  **GraphicItem** object relative to 
 
 _expression_. `HorizontalPosition`
 
- _expression_ An expression that returns a [GraphicItem](./Visio.GraphicItem.md) object.
+ _expression_ An expression that returns a [GraphicItem](Visio.GraphicItem.md) object.
 
 
 ## Return value

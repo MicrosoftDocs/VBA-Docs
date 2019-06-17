@@ -21,7 +21,7 @@ Returns or sets a  **[WdColorIndex](Word.WdColorIndex.md)** constant that repres
 
 _expression_. `MoveToTextColor`
 
- _expression_ An expression that returns an '[Options](Word.Options.md)' object.
+ _expression_ An expression that returns an **[Options](Word.Options.md)** object.
 
 
 ## See also

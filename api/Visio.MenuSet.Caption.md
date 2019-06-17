@@ -21,7 +21,7 @@ Gets or sets the caption for a menu set. Read/write.
 
 _expression_.**Caption**
 
-_expression_ A variable that represents a [MenuSet](./Visio.MenuSet.md) object.
+_expression_ A variable that represents a [MenuSet](Visio.MenuSet.md) object.
 
 
 ## Return value

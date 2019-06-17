@@ -18,7 +18,7 @@ Caused by calling the  **QueueMarkerEvent** method.
 
 Private Sub  _expression_ _'MarkerEvent'(**_ByVal app As [IVAPPLICATION]_**, **_ByVal SequenceNum As Long_**, **_ByVal ContextString As String_**)
 
-_expression_ A variable that represents an [Application](./Visio.Application.md) object.
+_expression_ A variable that represents an [Application](Visio.Application.md) object.
 
 
 ## Parameters

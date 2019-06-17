@@ -21,7 +21,7 @@ Returns the number of objects in a collection. Read-only.
 
 _expression_.**Count**
 
-_expression_ A variable that represents an [Addons](./Visio.Addons.md) object.
+_expression_ A variable that represents an [Addons](Visio.Addons.md) object.
 
 
 ## Return value

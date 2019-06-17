@@ -16,7 +16,7 @@ Returns the bounding rectangle of the virtual container that has all the shapes 
 
 _expression_. `VisualBoundingBox`( _Flags_,  _Flags_,  _lpr8Left_,  _lpr8Bottom_,  _lpr8Right_,  _lpr8Top_)
 
-_expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
+_expression_ A variable that represents a [Selection](Visio.Selection.md) object.
 
 
 ## Parameters
@@ -25,7 +25,7 @@ _expression_ A variable that represents a [Selection](./Visio.Selection.md) obje
 |||||
 |:-----|:-----|:-----|:-----|
 |Name|Optional/Requires|Data Type|Description|
-| _Flags_|Required|INT16|A [VisBoundingBoxArgs enumeration (Visio)](./Visio.visboundingboxargs.md)s constant that describe the returned rectangle.|
+| _Flags_|Required|INT16|A [VisBoundingBoxArgs enumeration (Visio)](Visio.visboundingboxargs.md)s constant that describe the returned rectangle.|
 | _lpr8Left_|Required|DOUBLE|Left position values for the virtual bounding box.|
 | _lpr8Bottom_|Required|DOUBLE|Bottom position values for the virtual bounding box.|
 | _lpr8Right_|Required|DOUBLE|Right position values for the virtual bounding box.|
@@ -39,6 +39,6 @@ _expression_ A variable that represents a [Selection](./Visio.Selection.md) obje
 ## See also
 
 
-[VisBoundingBoxArgs enumeration (Visio)](./Visio.visboundingboxargs.md)
+[VisBoundingBoxArgs enumeration (Visio)](Visio.visboundingboxargs.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

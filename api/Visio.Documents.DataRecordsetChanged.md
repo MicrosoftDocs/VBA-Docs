@@ -24,7 +24,7 @@ Occurs when a data recordset changes as a result of being refreshed.
 
 Private Sub  _expression_ _'DataRecordsetChanged'(**_ByVal DataRecordsetChanged As IVDATARECORDSETCHANGEDEVENT_**)
 
- _expression_ An expression that returns a [Documents](./Visio.Documents.md) object.
+ _expression_ An expression that returns a [Documents](Visio.Documents.md) object.
 
 
 ## Parameters

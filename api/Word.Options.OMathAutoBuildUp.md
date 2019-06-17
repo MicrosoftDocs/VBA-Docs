@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word automatica
 
 _expression_. `OMathAutoBuildUp`
 
- _expression_ An expression that returns an '[Options](Word.Options.md)' object.
+ _expression_ An expression that returns an **[Options](Word.Options.md)** object.
 
 
 ## See also

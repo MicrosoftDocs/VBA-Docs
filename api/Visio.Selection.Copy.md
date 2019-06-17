@@ -21,7 +21,7 @@ Copies a selection to the Clipboard.
 
 _expression_.**Copy** (_Flags_)
 
-_expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
+_expression_ A variable that represents a [Selection](Visio.Selection.md) object.
 
 
 ## Parameters

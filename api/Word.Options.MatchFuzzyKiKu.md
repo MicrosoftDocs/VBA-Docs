@@ -24,7 +24,7 @@ localization_priority: Normal
 
 _expression_. `MatchFuzzyKiKu`
 
- _expression_ An expression that returns an '[Options](Word.Options.md)' object.
+ _expression_ An expression that returns an **[Options](Word.Options.md)** object.
 
 
 ## Example

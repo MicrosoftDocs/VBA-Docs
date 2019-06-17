@@ -21,7 +21,7 @@ Determines whether page tab controls are shown in the drawing window. Read/write
 
 _expression_. `ShowPageTabs`
 
-_expression_ A variable that represents a [Window](./Visio.Window.md) object.
+_expression_ A variable that represents a [Window](Visio.Window.md) object.
 
 
 ## Return value

@@ -18,7 +18,7 @@ Returns the instance of Microsoft Visio that is associated with an object. Read-
 
 _expression_.**Application**
 
-_expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
 
 
 ## Return value

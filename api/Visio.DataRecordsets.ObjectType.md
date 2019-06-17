@@ -19,9 +19,9 @@ Returns  **visObjTypeDataRecordsets**, the type of a **DataRecordsets** object. 
 
 ## Syntax
 
-_expression_. `ObjectType`
+_expression_.**ObjectType**
 
- _expression_ An expression that returns a [DataRecordsets](./Visio.DataRecordsets.md) object.
+ _expression_ An expression that returns a [DataRecordsets](Visio.DataRecordsets.md) object.
 
 
 ## Return value

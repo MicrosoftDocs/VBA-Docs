@@ -21,7 +21,7 @@ Gets the unique identifier of the  **[ValidationRule](Visio.ValidationRule.md)**
 
 _expression_.**ID**
 
-_expression_ A variable that represents a [ValidationRule](./Visio.ValidationRule.md) object.
+_expression_ A variable that represents a [ValidationRule](Visio.ValidationRule.md) object.
 
 
 ## Return value

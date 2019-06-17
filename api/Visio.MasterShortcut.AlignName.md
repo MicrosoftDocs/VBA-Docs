@@ -21,7 +21,7 @@ Gets or sets the position of a master name in a stencil window. Read/write.
 
 _expression_. `AlignName`
 
-_expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
+_expression_ A variable that represents a [MasterShortcut](Visio.MasterShortcut.md) object.
 
 
 ## Return value

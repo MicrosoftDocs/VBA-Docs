@@ -21,7 +21,7 @@ Returns or sets the mode for the Brazilian Portuguese speller. Read/write [WdPor
 
 _expression_. `BrazilReform`
 
- _expression_ An expression that returns an '[Options](Word.Options.md)' object.
+ _expression_ An expression that returns an **[Options](Word.Options.md)** object.
 
 
 ## Remarks

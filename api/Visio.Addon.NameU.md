@@ -19,9 +19,9 @@ Specifies the universal name of an  **Addon** object. Read-only.
 
 ## Syntax
 
-_expression_. `NameU`
+_expression_.**NameU**
 
-_expression_ A variable that represents an [Addon](./Visio.Addon.md) object.
+_expression_ A variable that represents an [Addon](Visio.Addon.md) object.
 
 
 ## Return value
