@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.WebCommandButton.HiddenFields
 ms.assetid: 187553fb-a4d3-a1fb-f583-49e1d76992ec
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
 
 # WebCommandButton.HiddenFields property (Publisher)
 
-Returns a  **WebHiddenFields** object that represents hidden Web fields attached to a Submit command button.
+Returns a **[WebHiddenFields](Publisher.WebHiddenFields.md)** object that represents hidden web fields attached to a **Submit** command button.
 
 
 ## Syntax
@@ -31,8 +31,7 @@ WebHiddenFields
 
 ## Example
 
-This example adds a new hidden Web field to a new Submit command button.
-
+This example adds a new hidden web field to a new **Submit** command button.
 
 ```vb
 Sub CreateActionWebButton() 

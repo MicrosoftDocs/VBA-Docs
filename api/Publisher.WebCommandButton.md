@@ -24,7 +24,7 @@ Use the **[Shape.WebCommandButton](Publisher.Shape.WebCommandButton.md)** proper
 
 ## Example
 
-This example creates a web form Submit command button and sets the script path and file name to run when a user chooses the button.
+This example creates a web form **Submit** command button and sets the script path and file name to run when a user chooses the button.
  
 ```vb
 Sub CreateActionWebButton() 

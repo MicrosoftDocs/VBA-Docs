@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebHiddenFields object (Publisher)
 
-Represents hidden web fields that allow a webpage to pass non-visible data to the web server when a webpage is submitted. The **WebHiddenFields** object enables control of all the hidden fields attached to a Submit command button.
+Represents hidden web fields that allow a webpage to pass non-visible data to the web server when a webpage is submitted. The **WebHiddenFields** object enables control of all the hidden fields attached to a **Submit** command button.
  
 ## Remarks
 
@@ -22,7 +22,7 @@ Use the **[HiddenFields](publisher.webcommandbutton.hiddenfields.md)** property 
 
 ## Example
 
-This example adds a new hidden web field to a new Submit command button.
+This example adds a new hidden web field to a new **Submit** command button.
 
 ```vb
 Sub CreateActionWebButton() 

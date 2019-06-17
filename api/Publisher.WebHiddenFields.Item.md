@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.WebHiddenFields.Item
 ms.assetid: fa060dc0-c8d3-066f-e2e9-d6f1fbf1fcce
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
 
 # WebHiddenFields.Item method (Publisher)
 
-Returns a  **String** corresponding to the value of a hidden field in a Web form or a list item in a Web list box control.
+Returns a **String** corresponding to the value of a hidden field in a web form or list item in a web list box control.
 
 
 ## Syntax
@@ -25,8 +25,6 @@ _expression_ A variable that represents a **[WebHiddenFields](Publisher.WebHidde
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

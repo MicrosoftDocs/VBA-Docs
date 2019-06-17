@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.WebCommandButton.ButtonType
 ms.assetid: 9ccec0bc-4f0a-9851-0066-05ee1f144c5c
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
 
 # WebCommandButton.ButtonType property (Publisher)
 
-Returns or sets a  **PbCommandButtonType** constant that indicates whether a Web command button will clear or submit form data. Read/write.
+Returns or sets a **[PbCommandButtonType](Publisher.PbCommandButtonType.md)** constant that indicates whether a web command button clears or submits form data. Read/write.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ PbCommandButtonType
 
 ## Remarks
 
-The  **ButtonType** property value can be one of the **[PbCommandButtonType](Publisher.PbCommandButtonType.md)** constants declared in the Microsoft Publisher type library.
+The **ButtonType** property value can be one of the **PbCommandButtonType** constants declared in the Microsoft Publisher type library.
 
 
 ## Example
 
-This example creates a new Web command submit button, assigns text to appear on its face, and specifies an email address to which to send the form data.
-
+This example creates a new web command button, assigns text to appear on its face, and specifies an email address to which to send the form data.
 
 ```vb
 Sub NewWebForm() 
