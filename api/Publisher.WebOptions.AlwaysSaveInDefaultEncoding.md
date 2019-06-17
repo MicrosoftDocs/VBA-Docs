@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.WebOptions.AlwaysSaveInDefaultEncoding
 ms.assetid: e37ff08f-5c09-0a71-27e1-e2a332147087
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
 
 # WebOptions.AlwaysSaveInDefaultEncoding property (Publisher)
 
-Returns or sets a  **Boolean** value that specifies whether Web pages within a web publication should always be saved using default encoding. If **True**, Web pages within a publication will always be saved using the default encoding of the client computer. If  **False**, Web pages will not be saved using default encoding. The default value is  **False**. Read/write.
+Returns or sets a **Boolean** value that specifies whether webpages within a web publication should always be saved by using default encoding. If **True**, webpages within a publication will always be saved by using the default encoding of the client computer. If **False**, webpages will not be saved by using default encoding. The default value is **False**. Read/write.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ Boolean
 
 ## Remarks
 
-If the  **AlwaysSaveInDefaultEncoding** property is set to **True** on a given **WebOptions** object, any subsequent attempts to set the **[Encoding](Publisher.WebOptions.Encoding.md)** property on that object will be ignored.
+If the **AlwaysSaveInDefaultEncoding** property is set to **True** on a given **WebOptions** object, any subsequent attempts to set the **[Encoding](Publisher.WebOptions.Encoding.md)** property on that object will be ignored.
 
 
 ## Example
 
-The following example tests whether the web publication is currently set to be saved using default encoding. If so, the  **AlwaysSaveInDefaultEncoding** property is set to **False**, and the  **Encoding** property is used to set the encoding to Unicode (UTF-8).
-
+The following example tests whether the web publication is currently set to be saved by using default encoding. If so, the **AlwaysSaveInDefaultEncoding** property is set to **False**, and the **Encoding** property is used to set the encoding to Unicode (UTF-8).
 
 ```vb
 Dim theWO As WebOptions 
