@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.WebNavigationBarHyperlinks.Item
 ms.assetid: f5ba7ecf-1938-9fd7-ea18-e8fb0e94a661
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
@@ -26,14 +26,13 @@ _expression_ A variable that represents a **[WebNavigationBarHyperlinks](publish
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |_Index_|Required| **Long**| **Variant**. The number or name of the field or list box item to return.|
 
 ## Return value
 
-Hyperlink
+**[Hyperlink](publisher.hyperlink.md)**
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
