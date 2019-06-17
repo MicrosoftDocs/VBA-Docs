@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.WebNavigationBarSet.Links
 ms.assetid: 9f155781-390b-ad77-8db7-5099be1409ce
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
 
 # WebNavigationBarSet.Links property (Publisher)
 
-Returns a  **WebNavigationBarHyperlinks** collection containing all of the hyperlinks in the specified web navigation bar set. Read/write.
+Returns a **[WebNavigationBarHyperlinks](publisher.webnavigationbarhyperlinks.md)** collection containing all of the hyperlinks in the specified web navigation bar set. Read/write.
 
 
 ## Syntax
@@ -31,17 +31,15 @@ WebNavigationBarHyperlinks
 
 ## Example
 
-Use the  **Links** property to return a **WebNavigationBarHyperlinks** property. This example returns the web navigation bar hyperlinks of the first web navigation bar set of the active document.
-
+This example returns the web navigation bar hyperlinks of the first web navigation bar set of the active document.
 
 ```vb
 ActiveDocument.WebNavigationBarSets(1).Links
 ```
 
-The following example adds a new web navigation bar set to the active document, adds a hyperlink to the navigation bar, and then adds the navigation bar to every page of the publication that has the  **AddHyperlinkToWebNavbar** property set to **True** or the **Page.WebPageOptions.IncludePageOnNewWebNavigationBars** property set to **True**.
+<br/>
 
-
-
+The following example adds a new web navigation bar set to the active document, adds a hyperlink to the navigation bar, and then adds the navigation bar to every page of the publication that has the **AddHyperlinkToWebNavbar** property set to **True** or the **[WebPageOptions.IncludePageOnNewWebNavigationBars](publisher.webpageoptions.includepageonnewwebnavigationbars.md)** property set to **True**.
 
 ```vb
 With ActiveDocument.WebNavigationBarSets.AddSet(Name:="WebNavigationBarSet1") 

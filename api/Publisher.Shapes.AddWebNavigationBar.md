@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shapes.AddWebNavigationBar method (Publisher)
 
-Adds a **[Shape](Publisher.Shape.md)** object of type **pbWebNavigationBar** to the current page of a publication.
+Adds a **[Shape](Publisher.Shape.md)** object of type **pbWebNavigationBar** (**[PbShapeType](publisher.pbshapetype.md)** enumeration) to the current page of a publication.
 
 
 ## Syntax

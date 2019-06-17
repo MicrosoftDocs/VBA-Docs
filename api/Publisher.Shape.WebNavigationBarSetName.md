@@ -38,7 +38,7 @@ Use the **WebNavigationBarSetName** property to return the name of a **[WebNavig
 
 ## Example
 
-The following example tests to determine which shapes on the first page of the active document represent instances of web navigation bars. For each such shape found, the web navigation bar that it represents an instance of is set to auto update.
+The following example tests to determine which shapes on the first page of the active document represent instances of web navigation bars. For each such shape found, the web navigation bar that it represents an instance of is set to auto update (see also the **[PbShapeType](publisher.pbshapetype.md)** enumeration).
 
 ```vb
 Sub SetWebBarsToAutoUpdate() 

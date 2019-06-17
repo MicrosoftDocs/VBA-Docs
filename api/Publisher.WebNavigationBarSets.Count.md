@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.WebNavigationBarSets.Count
 ms.assetid: ffe603c6-2c5a-de85-0924-aefa1dad269e
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
