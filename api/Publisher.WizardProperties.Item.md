@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.WizardProperties.Item
 ms.assetid: e3f6732f-d093-4ccd-7c20-9fc357c0a8f5
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
@@ -26,10 +26,10 @@ _expression_ A variable that represents a **[WizardProperties](Publisher.WizardP
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |_Item_|Required| **Long**|The number of the object to return.|
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

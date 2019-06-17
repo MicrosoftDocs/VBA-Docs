@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.WizardProperty.CurrentValueId
 ms.assetid: d8a2eeb0-f6e7-2687-5952-cddd2cc3914b
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
 
 # WizardProperty.CurrentValueId property (Publisher)
 
-Returns or sets a  **Long** indicating the value of a setting in the specified publication design or Design Gallery object's wizard. Read/write.
+Returns or sets a **Long** indicating the value of a setting in the specified publication design or Design Gallery object's wizard. Read/write.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ Long
 
 ## Remarks
 
-Accessing this property for a publication design setting whose  **[Enabled](Publisher.WizardProperty.Enabled.md)** property is **False** causes an error.
+Accessing this property for a publication design setting whose **[Enabled](Publisher.WizardProperty.Enabled.md)** property is **False** causes an error.
 
 
 ## Example
 
 The following example changes the settings of the current publication design (Newsletter Wizard) so that the publication has a region dedicated to the customer's address.
-
 
 ```vb
 Dim wizTemp As Wizard 
