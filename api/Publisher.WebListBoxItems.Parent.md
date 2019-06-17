@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.WebListBoxItems.Parent
 ms.assetid: 71c964bc-c846-8113-2de6-4ce8da41baf2
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
 
 # WebListBoxItems.Parent property (Publisher)
 
-Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
+Returns an object that represents the parent object of the specified object. For example, for a **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
@@ -41,13 +41,9 @@ Sub ParentObject()
  shp.Fill.ForeColor.RGB = RGB(Red:=180, Green:=180, Blue:=180) 
 End Sub
 ```
-
 <br/>
 
 This example returns the parent object of a text frame, which is the first shape in the active publication, and then fills the shape with a pattern.
-
-
-
 
 ```vb
 Sub ParentShape() 
