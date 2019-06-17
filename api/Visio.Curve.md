@@ -29,4 +29,19 @@ Use the  **Point** method of a curve object to extrapolate a point along the cur
 
 Use the  **Points** property of a **Curve** object to obtain a stream of points that approximate the curve's path.
 
+## Methods
+
+-  [Point](Visio.Curve.Point.md)
+-  [PointAndDerivatives](Visio.Curve.PointAndDerivatives.md)
+-  [Points](Visio.Curve.Points.md)
+
+## Properties
+
+-  [Application](Visio.Curve.Application.md)
+-  [Closed](Visio.Curve.Closed.md)
+-  [End](Visio.Curve.End.md)
+-  [ObjectType](Visio.Curve.ObjectType.md)
+-  [Start](Visio.Curve.Start.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

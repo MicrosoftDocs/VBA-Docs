@@ -25140,6 +25140,7 @@
 ###### [RotateFlipList](Visio.ContainerProperties.RotateFlipList.md)
 ###### [SetListSpacing](Visio.ContainerProperties.SetListSpacing.md)
 ###### [SetMargin](Visio.ContainerProperties.SetMargin.md)
+##### Properties
 ###### [Application](Visio.ContainerProperties.Application.md)
 ###### [ContainerStyle](Visio.ContainerProperties.ContainerStyle.md)
 ###### [ContainerType](Visio.ContainerProperties.ContainerType.md)
