@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.ApplicationSettings
 ms.assetid: f2e24211-ecc6-e0f5-4c00-fc50f98a3505
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 

@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.AccelItem
 ms.assetid: 43701480-d125-4589-d208-a30731c71681
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 

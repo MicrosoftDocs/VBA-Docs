@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.Cell
 ms.assetid: 06ac28a6-5749-6c70-94bf-c721e217f375
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
