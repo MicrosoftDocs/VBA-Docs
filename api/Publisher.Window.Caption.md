@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Window.Caption
 ms.assetid: 1dbf66c9-e964-b17f-684f-70cbbaa5fbc7
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
 
 # Window.Caption property (Publisher)
 
-Returns or sets a  **String** indicating the caption at the top of the Microsoft Publisher application window. Read/write.
+Returns or sets a **String** indicating the caption at the top of the Microsoft Publisher application window. Read/write.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ String
 ## Example
 
 The following example demonstrates how a subroutine could temporarily change the Publisher window caption and then restore it afterward.
-
 
 ```vb
 Sub WindowCaption() 

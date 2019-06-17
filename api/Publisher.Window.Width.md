@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Window.Width
 ms.assetid: 762df30a-7fdd-8f95-f64b-eae57e7c02fe
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
 
 # Window.Width property (Publisher)
 
-Returns or sets a  **Long** that represents the width (in [points](../language/glossary/vbe-glossary.md#point)) of the window. Read/write.
+Returns or sets a **Long** that represents the width (in [points](../language/glossary/vbe-glossary.md#point)) of the window. Read/write.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[Window](Publisher.Window.md)** obje
 ## Example
 
 This example sets the height and width of the active window if the window is neither maximized nor minimized.
-
 
 ```vb
 Sub SetWindowHeight() 
