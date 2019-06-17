@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.WrapFormat.DistanceBottom
 ms.assetid: b8aa651a-4fe1-8b0b-f0d1-672e3f060809
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
 
 # WrapFormat.DistanceBottom property (Publisher)
 
-When the  **[Type](Publisher.WrapFormat.Type.md)** property of the **[WrapFormat](Publisher.WrapFormat.md)** object is set to **pbWrapTypeSquare**, returns or sets a  **Variant** that represents the distance (in points) between the document text and the bottom edge of the specified shape. Read/write.
+When the **[Type](Publisher.WrapFormat.Type.md)** property of the **WrapFormat** object is set to **pbWrapTypeSquare**, returns or sets a **Variant** that represents the distance (in [points](../language/glossary/vbe-glossary.md#point)) between the document text and the bottom edge of the specified shape. Read/write.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[WrapFormat](Publisher.WrapFormat.md
 ## Example
 
 This example adds an oval to the active document and specifies that the document text wrap around the left and right sides of the square that circumscribes the oval. The example sets a 0.1-inch margin between the document text and the top, bottom, left side, and right side of the square.
-
 
 ```vb
 Sub AddNewShape() 
