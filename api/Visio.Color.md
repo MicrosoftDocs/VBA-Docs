@@ -19,7 +19,7 @@ Represents a color in the color palette for a Microsoft Visio document.
 
 ## Remarks
 
-The default property of a  **Color** object is **PaletteEntry**.
+The default property of a **Color** object is **PaletteEntry**.
 
 ## Properties
 

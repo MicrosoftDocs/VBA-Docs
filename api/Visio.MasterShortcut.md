@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.MasterShortcut
 ms.assetid: ada22e59-5bda-2dd7-33bc-1e26e95adc31
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Represents a master shortcut in a stencil. A master shortcut references a master
 
 ## Remarks
 
-The default property of a  **MasterShortcut** object is **Name**.
+The default property of a **MasterShortcut** object is **Name**.
 
 ## Methods
 

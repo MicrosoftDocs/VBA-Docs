@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.OLEObject
 ms.assetid: c4d3b441-cfba-bea1-734e-58252a273b32
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Represents an OLE 2.0 linked or embedded object or an ActiveX control in a Micro
 
 ## Remarks
 
-The default property of  **OLEObject** is **Object**.
+The default property of **OLEObject** is **Object**.
 
-To obtain the  **IDispatch** interface on an ActiveX control or embedded or linked OLE 2.0 object represented by a shape, use the **Object** property of an **OLEObject** object.
+Use the **Object** property to obtain the **IDispatch** interface on an ActiveX control or embedded or linked OLE 2.0 object represented by a shape.
 
 ## Properties
 

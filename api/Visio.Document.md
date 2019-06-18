@@ -7,47 +7,40 @@ ms.prod: visio
 api_name:
 - Visio.Document
 ms.assetid: 21640062-13a2-a2b2-7c61-7e707671207c
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
 
 # Document object (Visio)
 
-Represents a drawing file (.vsd or .vdx), stencil file (.vss or .vsx), or template file (.vst or .vtx) that is open in an instance of Microsoft Visio. A  **Document** object is a member of the **Documents** collection of an **Application** object.
+Represents a drawing file (.vsd or .vdx), stencil file (.vss or .vsx), or template file (.vst or .vtx) that is open in an instance of Microsoft Visio. A **Document** object is a member of the **[Documents](Visio.Documents.md)** collection of an **Application** object.
 
 
 ## Remarks
 
-The default property of a  **Document** object is **Name**.
+The default property of a **Document** object is **Name**.
 
-Use the  **Open** method of a **Documents** collection to open an existing document.
+Use the **[Open](visio.documents.open.md)** method of a **Documents** collection to open an existing document.
 
-Use the  **Add** method of a **Documents** collection to create a new document.
+Use the **[Add](visio.documents.add.md)** method of a **Documents** collection to create a new document.
 
-Use the  **ActiveDocument** property of an **Application** object to retrieve the active document in an instance.
+Use the **[ActiveDocument](visio.application.activedocument.md)** property of an **Application** object to retrieve the active document in an instance.
 
-Use the  **Pages**, **Masters**, and **Styles** properties of a **Document** object to retrieve **Page**, **Master**, and **Style** objects, respectively.
+Use the **Pages**, **Masters**, and **Styles** properties to retrieve **Page**, **Master**, and **Style** objects, respectively.
 
+Use the **CustomMenus** or **CustomToolbars** properties to access the custom menus or toolbars.
 
- **Note**  
+> [!NOTE] 
+> The Microsoft Visual Basic for Applications (VBA) project of every Visio document also has a class module called **ThisDocument**. When you reference the **ThisDocument** module from code in a VBA project, it returns a reference to the project's **Document** object. For example, the code in a document's project can display the name of the project's document in a **message** box with this statement:
+> 
+> ```vb
+>    MsgBox ThisDocument.Name
+> ```
 
-Use the  **CustomMenus** or **CustomToolbars** properties of a **Document** object to access the custom menus or toolbars.
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this object maps to the following types:
 
-
- **Note**   The Microsoft Visual Basic for Applications (VBA) project of every Visio document also has a class module called **ThisDocument**. When you reference the **ThisDocument** module from code in a VBA project, it returns a reference to the project's **Document** object. For example, the code in a document's project can display the name of the project's document in a **message** box with this statement:
-
-
-
-
-```vb
-    MsgBox ThisDocument.Name
-```
-
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this object maps to the following types:
-
-
--  **Microsoft.Office.Interop.Visio.IVDocument**
+- **Microsoft.Office.Interop.Visio.IVDocument**
     
 
 ## Events

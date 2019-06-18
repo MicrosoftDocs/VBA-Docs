@@ -39,10 +39,9 @@ Whether you use the  **ActiveDocument** object or the **ThisDocument** object de
 
 You can compare the result returned by the  **ActiveDocument** property with the value **Nothing** to determine if a document is active. If the value of the **Application.Documents.Count** property is greater than zero, at least one document is open and active.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
-
--  **Microsoft.Office.Interop.Visio.IVApplication.ActiveDocument**
+- **Microsoft.Office.Interop.Visio.IVApplication.ActiveDocument**
     
 
 ## Example

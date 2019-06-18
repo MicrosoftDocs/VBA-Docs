@@ -19,11 +19,11 @@ Represents a connection between two shapes in a drawing, such as a line and a bo
 
 ## Remarks
 
-Retrieve a  **Connect** object from the **Connects** collection returned by the **Connects** and **FromConnects** properties of a **Shape** object, or the **Connects** collection of a **Page** or **Master** object.
+Retrieve a **Connect** object from the **[Connects](Visio.Connects.md)** collection returned by the **Connects** and **FromConnects** properties of a **[Shape](visio.shape.md)** object, or from the **[Page.Connects](visio.page.connects.md)** or **[Master.Connects](visio.master.connects.md)** property.
 
-The default property of a  **Connect** object is **FromSheet**.
+The default property of a **Connect** object is **FromSheet**.
 
-Use the  **GlueTo** or **GlueToPos** method of a **Cell** object to connect one shape to another in a drawing.
+Use the **GlueTo** or **GlueToPos** method of a **[Cell](visio.cell.md)** object to connect one shape to another in a drawing.
 
 
 ## Properties

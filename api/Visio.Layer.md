@@ -7,23 +7,23 @@ ms.prod: visio
 api_name:
 - Visio.Layer
 ms.assetid: 4442cd68-e071-943d-7fec-7ff9596cf4b3
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
 
 # Layer object (Visio)
 
-Represents a layer of a page or master. You can assign shapes to or remove them from the layer.
+Represents a layer of a page or master. You can assign shapes to or remove shapes from the layer.
 
 
 ## Remarks
 
-The default property of a  **Layer** object is **Name**.
+The default property of a **Layer** object is **Name**.
 
-To access cells whose values define layer attributes, such as whether the layer is visible or printable, use the  **CellsC** property.
+To access cells whose values define layer attributes, such as whether the layer is visible or printable, use the **CellsC** property.
 
-A layer's  **Index** and **Row** properties typically have different values. The **Index** property indicates the layer's ordinal position in its **Layers** collection. The layer's **Row** property indicates the index of the row in the Layers section where the layer's attributes are defined.
+A layer's **Index** and **Row** properties typically have different values. The **Index** property indicates the layer's ordinal position in its **[Layers](Visio.Layers.md)** collection. The layer's **Row** property indicates the index of the row in the Layers section where the layer's attributes are defined.
 
 
 ## Methods

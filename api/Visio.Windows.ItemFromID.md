@@ -47,7 +47,7 @@ The ID of a  **Font** object corresponds to the number stored in the Font cell o
 
 The ID of an  **Event** object uniquely identifies an event in its **EventList** collection for the life of the collection.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
 
 -  **Microsoft.Office.Interop.Visio.IVWindows.get_ItemFromID(int)**

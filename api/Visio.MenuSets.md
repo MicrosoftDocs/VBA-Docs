@@ -7,28 +7,28 @@ ms.prod: visio
 api_name:
 - Visio.MenuSets
 ms.assetid: 6a49d679-abdb-2bd4-134b-c61ea3f196e8
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
 
 # MenuSets object (Visio)
 
-Includes a  **MenuSet** object for each Microsoft Visio window context that has menus.
+Includes a **[MenuSet](Visio.MenuSet.md)** object for each Microsoft Visio window context that has menus.
 
 
 ## Remarks
 
+> [!NOTE] 
+> Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
- **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
+To retrieve a **MenuSets** collection, use the **[MenuSets](visio.uiobject.menusets.md)** property of a **UIObject** object.
 
-To retrieve a  **MenuSets** collection, use the **MenuSets** property of a **UIObject** object.
+The default property of a **MenuSets** collection is **Item**.
 
-The default property of a  **MenuSets** collection is **Item**.
+Unlike other Visio collections, the **MenuSets** collection is indexed starting with zero (0) rather than 1.
 
-Unlike other Visio collections, the  **MenuSets** collection is indexed starting with zero (0) rather than 1.
-
-A  **MenuSet** object is identified in the **MenuSets** collection by its **SetID** property, which corresponds to a Visio window context. For a list of **SetID** values for **MenuSet** objects, see the **SetID** property.
+A **MenuSet** object is identified in the **MenuSets** collection by its **[SetID](Visio.MenuSet.SetID.md)** property, which corresponds to a Visio window context. For a list of **SetID** values for **MenuSet** objects, see the **SetID** property.
 
 ## Methods
 

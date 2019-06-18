@@ -37,7 +37,7 @@ If a shape, page, master, or style is deleted, future objects in the same scope 
 
 For  **Shape** objects, you can use the **ID** property with methods such as **GetResults** and **SetResults** to get or set many cell values at once, possibly cells in many different shapes. To do this, you must pass shape IDs to the methods. If you create shapes by using the **DropMany** method, the method returns the IDs of the shapes it creates to your program.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
 
 -  **Microsoft.Office.Interop.Visio.IVShape.ID**

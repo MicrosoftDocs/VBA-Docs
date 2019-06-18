@@ -7,26 +7,26 @@ ms.prod: visio
 api_name:
 - Visio.Menus
 ms.assetid: 0c487176-1857-d496-8b2e-6a6aae668c6f
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
 
 # Menus object (Visio)
 
-Includes a  **Menu** object for each menu in a Microsoft Visio menu set.
+Includes a **[Menu](Visio.Menu.md)** object for each menu in a Microsoft Visio menu set.
 
 
 ## Remarks
 
+> [!NOTE] 
+> Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
- **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
+To retrieve a **Menus** collection, use the **[Menus](visio.menuset.menus.md)** property of a **MenuSet** object.
 
-To retrieve a  **Menus** collection, use the **Menus** property of a **MenuSet** object.
+The default property of a **Menus** collection is **Item**.
 
-The default property of a  **Menus** collection is **Item**.
-
-Unlike other Visio collections, the  **Menus** collection is indexed starting with zero (0) rather than 1.
+Unlike other Visio collections, the **Menus** collection is indexed starting with zero (0) rather than 1.
 
 ## Methods
 

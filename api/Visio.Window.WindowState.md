@@ -40,7 +40,7 @@ If you specify conflicting bits, only one bit is used. For example, if you speci
 
 The  **visWSVisible** flag is ignored when setting the state of a window with the **WindowState** property. It is used in calls to the **Add** method for the **Windows** collection. Use the **Visible** property of the window to show or hide it. The **visWSVisible** flag is available only when this property is read.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
 
 -  **Microsoft.Office.Interop.Visio.IVWindow.WindowState**

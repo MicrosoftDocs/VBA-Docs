@@ -26247,6 +26247,14 @@
 ###### [TypeSpecific2](Visio.Menu.TypeSpecific2.md)
 ###### [Visible](Visio.Menu.Visible.md)
 ###### [Width](Visio.Menu.Width.md)
+#### [Menus object](Visio.Menus.md)
+##### Methods
+###### [Add](Visio.Menus.Add.md)
+###### [AddAt](Visio.Menus.AddAt.md)
+##### Properties
+###### [Count](Visio.Menus.Count.md)
+###### [Item](Visio.Menus.Item.md)
+###### [Parent](Visio.Menus.Parent.md)
 #### [MenuItem object](Visio.MenuItem.md)
 ##### Methods
 ###### [Delete](Visio.MenuItem.Delete.md)
@@ -26282,14 +26290,6 @@
 ###### [Item](Visio.MenuItems.Item.md)
 ###### [Parent](Visio.MenuItems.Parent.md)
 ###### [ParentItem](Visio.MenuItems.ParentItem.md)
-#### [Menus object](Visio.Menus.md)
-##### Methods
-###### [Add](Visio.Menus.Add.md)
-###### [AddAt](Visio.Menus.AddAt.md)
-##### Properties
-###### [Count](Visio.Menus.Count.md)
-###### [Item](Visio.Menus.Item.md)
-###### [Parent](Visio.Menus.Parent.md)
 #### [MenuSet object](Visio.MenuSet.md)
 ##### Methods
 ###### [Delete](Visio.MenuSet.Delete.md)

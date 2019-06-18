@@ -23,7 +23,7 @@ To retrieve a  **Windows** collection, use the **Windows** property of an **Appl
 
 The default property of a  **Windows** collection is **Item**.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this collection maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this collection maps to the following types:
 
 
 -  **Microsoft.Office.Interop.Visio.IVWindows.GetEnumerator()** (to enumerate the **Window** objects.)

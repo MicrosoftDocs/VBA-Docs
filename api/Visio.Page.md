@@ -166,9 +166,6 @@ The members of a **Document** object's **[Pages](visio.pages.md)** collection re
 -  [Type](Visio.Page.Type.md)
 
 
-
-
-
 ## See also
 
 - [Visio Object Model Reference](overview/visio/object-model.md)

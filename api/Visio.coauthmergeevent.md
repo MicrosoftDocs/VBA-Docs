@@ -9,7 +9,9 @@ localization_priority: Normal
 
 # CoauthMergeEvent object (Visio)
 
-Represents the merging of changes by various authors to a document or documents. Passed as a parameter to the [Document.AfterDocumentMerge](Visio.document.afterdocumentmerge.md) and [Documents.AfterDocumentMerge](Visio.documents.afterdocumentmerge.md) events.
+Represents the merging of changes by various authors to a document or documents. 
+
+Passed as a parameter to the **[Document.AfterDocumentMerge](Visio.document.afterdocumentmerge.md)** and **[Documents.AfterDocumentMerge](Visio.documents.afterdocumentmerge.md)** events.
 
 
 ## Properties

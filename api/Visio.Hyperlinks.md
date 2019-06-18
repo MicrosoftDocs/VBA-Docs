@@ -7,21 +7,21 @@ ms.prod: visio
 api_name:
 - Visio.Hyperlinks
 ms.assetid: 7365511f-d689-772a-e42c-d3efbcf51d0b
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
 
 # Hyperlinks object (Visio)
 
-Includes  **Hyperlink** objects. A **Hyperlinks** collection enables you to access and manipulate a shape's Hyperlinks section.
+Includes **[Hyperlink](Visio.Hyperlink.md)** objects. A **Hyperlinks** collection enables you to access and manipulate a shape's Hyperlinks section.
 
 
 ## Remarks
 
-To retrieve a  **Hyperlinks** collection, use the **Hyperlinks** property of a **Shape** object.
+To retrieve a **Hyperlinks** collection, use the **[Hyperlinks](visio.shape.hyperlinks.md)** property of a **Shape** object.
 
-The default property of a  **Hyperlinks** collection is **Item**.
+The default property of a **Hyperlinks** collection is **Item**.
 
 ## Methods
 

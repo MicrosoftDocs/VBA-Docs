@@ -7,22 +7,22 @@ ms.prod: visio
 api_name:
 - Visio.Menu
 ms.assetid: ea66b61d-4d93-13a4-1446-968fe9727c05
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
 
 # Menu object (Visio)
 
- Represents a single menu on a Microsoft Visio menu bar.
+Represents a single menu on a Microsoft Visio menu bar.
 
 
 ## Remarks
 
+> [!NOTE] 
+> Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
- **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
-
-The index of a  **Menu** object within the **Menus** collection corresponds to the menu's position from left to right on the menu bar, starting with zero (0) for the menu farthest to the left if the menus are arranged horizontally.
+The index of a **Menu** object within the **[Menus](Visio.Menus.md)** collection corresponds to the menu's position from left to right on the menu bar, starting with zero (0) for the menu farthest to the left if the menus are arranged horizontally.
 
 ## Methods
 

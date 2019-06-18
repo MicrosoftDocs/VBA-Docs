@@ -7,26 +7,25 @@ ms.prod: visio
 api_name:
 - Visio.Masters
 ms.assetid: 07c80948-8cee-34d2-dbc9-89ca031343df
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
 
 # Masters object (Visio)
 
- Includes a **Master** object for each master in a document's stencil.
+Includes a **[Master](Visio.Master.md)** object for each master in a document's stencil.
 
 
 ## Remarks
 
-To retrieve a  **Masters** collection, use the **Masters** property of a **Document** object.
+To retrieve a **Masters** collection, use the **[Masters](visio.document.masters.md)** property of a **Document** object.
 
-The default property of a  **Masters** collection is **Item**.
+The default property of a **Masters** collection is **Item**.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this collection maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this collection maps to the following types:
 
-
--  **Microsoft.Office.Interop.Visio.IVMasters**
+- **Microsoft.Office.Interop.Visio.IVMasters**
     
 
 ## Events

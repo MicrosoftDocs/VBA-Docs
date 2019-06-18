@@ -7,39 +7,34 @@ ms.prod: visio
 api_name:
 - Visio.DataRecordsets
 ms.assetid: edf6d0dc-2f16-eee0-fd4c-ec4c9409179e
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
 
 # DataRecordsets object (Visio)
 
-The collection of  **DataRecordset** objects associated with a **Document** object.
+The collection of **[DataRecordset](Visio.DataRecordset.md)** objects associated with a **[Document](Visio.Document.md)** object.
 
-
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Remarks
 
-The default property of the  **DataRecordsets** collection is **[Item](Visio.DataRecordsets.Item.md)**.
+The default property of the **DataRecordsets** collection is **Item**.
 
-Every Visio  **Document** object has a **DataRecordsets** collection, which is empty until you import data into Visio. To connect a Visio document to a data source, you add a **DataRecordset** object to the **DataRecordsets** collection of the document.
+Every Visio **Document** object has a **DataRecordsets** collection, which is empty until you import data into Visio. To connect a Visio document to a data source, you add a **DataRecordset** object to the **DataRecordsets** collection of the document.
 
-To add a  **DataRecordset** object to the **DataRecordsets** collection, you can use one of the following three methods, depending on the type of data source you want to connect to (OLEDB/ODBC or XML) and how you want to pass connection string and query command strings to Visio. By using the
+To add a **DataRecordset** object to the **DataRecordsets** collection, you can use one of the following three methods, depending on the type of data source that you want to connect to (OLEDB/ODBC or XML) and how you want to pass connection string and query command strings to Visio. By using the:
 
-
-
-
--  **[DataRecordsets.Add](Visio.DataRecordsets.Add.md)** method, you can connect to an OLEDB or ODBC data source and pass connection and query command string information to Visio directly as method parameters.
+- **Add** method, you can connect to an OLEDB or ODBC data source and pass connection and query command string information to Visio directly as method parameters.
     
--  **[DataRecordsets.AddFromConnectionFile](Visio.DataRecordsets.AddFromConnectionFile.md)** method, you can connect to an OLEBD or ODBC data source by passing the method an Office Data Connection (ODC) file that contains the connection and query command string information you want to supply to Visio.
+- **AddFromConnectionFile** method, you can connect to an OLEBD or ODBC data source by passing the method an Office Data Connection (ODC) file that contains the connection and query command string information that you want to supply to Visio.
     
--  **[DataRecordsets.AddFromXML](Visio.DataRecordsets.AddFromXML.md)** method, you pass the method an ADO classic XML string that contains all the data that you want to include in the data recordset.
+- **AddFromXML** method, you pass the method an ADO classic XML string that contains all the data that you want to include in the data recordset.
     
-
-
-Once you have created a data recordset, the connection string and query command string associated with the data recordset are represented by the  **[DataConnection.ConnectionString](Visio.DataConnection.ConnectionString.md)** and **[DataRecordset.CommandString](Visio.DataRecordset.CommandString.md)** properties respectively.
+After you have created a data recordset, the connection string and query command string associated with the data recordset are represented by the **[DataConnection.ConnectionString](Visio.DataConnection.ConnectionString.md)** and **[DataRecordset.CommandString](Visio.DataRecordset.CommandString.md)** properties respectively.
 
 
 ## Events

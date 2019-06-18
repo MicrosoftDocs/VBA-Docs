@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Colors object (Visio)
 
-Includes a  **Color** object for each color in the palette for a Microsoft Visio document.
+Includes a **[Color](Visio.Color.md)** object for each color in the palette for a Microsoft Visio document.
 
 
 ## Remarks
 
-To retrieve a  **Colors** collection, use the **Colors** property of a **Document** object.
+To retrieve a **Colors** collection, use the **[Colors](visio.document.colors.md)** property of a **Document** object.
 
-The default property of  **Colors** is **Item**.
+The default property of **Colors** is **Item**.
 
 ## Properties
 

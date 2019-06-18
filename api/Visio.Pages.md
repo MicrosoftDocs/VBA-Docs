@@ -7,28 +7,27 @@ ms.prod: visio
 api_name:
 - Visio.Pages
 ms.assetid: 45eec568-b5cc-5e80-ff5c-4dfa567efb5d
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
 
 # Pages object (Visio)
 
-Includes a  **Page** object for each drawing page in a document.
+Includes a **[Page](Visio.Page.md)** object for each drawing page in a document.
 
 
 ## Remarks
 
-To retrieve a  **Pages** collection, use the **Pages** property of a **Document** object.
+To retrieve a **Pages** collection, use the **[Pages](visio.document.pages.md)** property of a **Document** object.
 
-The default property of a  **Pages** collection is **Item**.
+The default property of a **Pages** collection is **Item**.
 
-The order of items in a  **Pages** collection is significant: if there are _n_ foreground pages in a document, the first _n_ pages in its **Pages** collection are foreground pages and are in order. The remaining pages in the collection are the background pages of the document; these are in no particular order.
+The order of items in a **Pages** collection is significant: if there are _n_ foreground pages in a document, the first _n_ pages in its **Pages** collection are foreground pages and are in order. The remaining pages in the collection are the background pages of the document; these are in no particular order.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this collection maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this collection maps to the following types:
 
-
--  **Microsoft.Office.Interop.Visio.IVPages**
+- **Microsoft.Office.Interop.Visio.IVPages**
     
 
 ## Events
