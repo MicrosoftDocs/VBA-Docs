@@ -1,5 +1,5 @@
 ---
-title: VisSaveAsWeb Object (Visio Save As Web)
+title: VisSaveAsWeb object (Visio Save As Web)
 ms.prod: visio
 ms.assetid: 48e19e11-9b41-42ec-84e9-c4aab7f08784
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# VisSaveAsWeb Object (Visio Save As Web)
+# VisSaveAsWeb object (Visio Save As Web)
 
 Contains the webpage property settings and methods used when a Visio drawing is saved as a webpage. 
 
@@ -49,5 +49,15 @@ They can be organized as flat files or in a subfolder that has the same name as 
 
 > [!NOTE] 
 > To view the **VisSaveAsWeb** class in the Object Browser, make sure that you have a reference to the Save As Web Page DLL in your project (in the Visual Basic Editor window, click **References**, on the **Tools** menu, and then select the **Microsoft Visio 15.0 SaveAsWeb Type Library** check box in the **Available References** list).
+
+## Methods
+
+- [AttachToVisioDoc](Visio.AttachToVisioDoc.md)
+- [CreatePages](Visio.CreatePages.md)
+
+## Properties
+
+- [WebPageSettings](Visio.WebPageSettings.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,7 +18,7 @@ Gets the address of the specified hyperlink associated with the specified shape 
 
 _expression_.**HyperlinkAddress** (_ShapeIndex_, _HyperlinkIndex_)
 
-_expression_ An expression that returns a **[Viewer](visio.viewer.object.md)** object.
+_expression_ An expression that returns a **Viewer** object.
 
 
 ## Parameters

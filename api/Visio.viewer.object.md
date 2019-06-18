@@ -1,5 +1,5 @@
 ---
-title: Viewer Object (Visio Viewer)
+title: Viewer object (Visio Viewer)
 ms.prod: visio
 ms.assetid: 4d25251a-5c4d-42d4-a73e-7e1e987ff593
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer Object (Visio Viewer)
+# Viewer object (Visio Viewer)
 
 The  **Viewer** object is a programmable ActiveX control that enables you to display Visio drawings (with limited functionality) on webpages and in Windows Forms, so that users who do not have Visio installed on their computers can view and interact with them.
 
@@ -31,5 +31,90 @@ Use properties such as  **[BackColor](Visio.viewer.backcolor.property.md)**,  **
 Use the  **[CustomPropertyCount](Visio.CustomPropertyCount.md)**,  **[CustomPropertyName](Visio.CustomPropertyName.md)**, and  **[CustomPropertyValue](Visio.CustomPropertyValue.md)** properties to determine shape data (custom properties).
 
 Use events such as  **[OnLayerChanged](Visio.OnLayerChanged.md)** and **[OnSelectionChanged](Visio.OnSelectionChanged.md)** to respond to user input.
+
+## Events
+
+- [OnDocumentLoaded](Visio.OnDocumentLoaded.md)
+- [OnDocumentUnloaded](Visio.OnDocumentUnloaded.md)
+- [OnLayerChanged](Visio.OnLayerChanged.md)
+- [OnMarkupOverlaysVisibleChanged](Visio.OnMarkupOverlaysVisibleChanged.md)
+- [OnPageChanged](Visio.OnPageChanged.md)
+- [OnReviewerChanged](Visio.OnReviewerChanged.md)
+- [OnSelectionChanged](Visio.OnSelectionChanged.md)
+- [OnToolbarCustomized](Visio.OnToolbarCustomized.md)
+- [OnViewChanged](Visio.OnViewChanged.md)
+
+## Methods
+
+- [DisplayAbout](Visio.DisplayAbout.md)
+- [DisplayContextMenu](Visio.DisplayContextMenu.md)
+- [DisplayHelp](Visio.DisplayHelp.md)
+- [DisplayPropertyDialog](Visio.DisplayPropertyDialog.md)
+- [FollowHyperlink](Visio.FollowHyperlink.md)
+- [GetErrorMessage](Visio.GetErrorMessage.md)
+- [GetPageView](Visio.GetPageView.md)
+- [Load](Visio.Load.md)
+- [Pan](Visio.Pan.md)
+- [SelectShape](Visio.SelectShape.md)
+- [SetPageView](Visio.SetPageView.md)
+- [Unload](Visio.Unload.md)
+- [ZoomToPoint](Visio.ZoomToPoint.md)
+- [ZoomToRect](Visio.ZoomToRect.md)
+
+## Properties
+
+- [AlertsEnabled](Visio.AlertsEnabled.md)
+- [BackColor](Visio.viewer.backcolor.property.md)
+- [BuildNumber](Visio.BuildNumber.md)
+- [ContextMenuEnabled](Visio.ContextMenuEnabled.md)
+- [CurrentPageIndex](Visio.CurrentPageIndex.md)
+- [CustomPropertyCount](Visio.CustomPropertyCount.md)
+- [CustomPropertyName](Visio.CustomPropertyName.md)
+- [CustomPropertyValue](Visio.CustomPropertyValue.md)
+- [DocumentLoaded](Visio.DocumentLoaded.md)
+- [GridVisible](Visio.GridVisible.md)
+- [HighQualityRender](Visio.HighQualityRender.md)
+- [HyperlinkAddress](Visio.HyperlinkAddress.md)
+- [HyperlinkCount](Visio.HyperlinkCount.md)
+- [LastErrorCode](Visio.LastErrorCode.md)
+- [LayerColor](Visio.LayerColor.md)
+- [LayerColorOverride](Visio.LayerColorOverride.md)
+- [LayerColorTrans](Visio.LayerColorTrans.md)
+- [LayerCount](Visio.LayerCount.md)
+- [LayerDeleted](Visio.LayerDeleted.md)
+- [LayerName](Visio.LayerName.md)
+- [LayerVisible](Visio.LayerVisible.md)
+- [MajorVersionNumber](Visio.MajorVersionNumber.md)
+- [MarkupOverlaysVisible](Visio.MarkupOverlaysVisible.md)
+- [MinorVersionNumber](Visio.MinorVersionNumber.md)
+- [PageColor](Visio.PageColor.md)
+- [PageCount](Visio.PageCount.md)
+- [PageIDToIndex](Visio.PageIDToIndex.md)
+- [PageIndexToID](Visio.PageIndexToID.md)
+- [PageName](Visio.PageName.md)
+- [PageTabsVisible](Visio.PageTabsVisible.md)
+- [PageVisible](Visio.PageVisible.md)
+- [ParentShape](Visio.ParentShape.md)
+- [PropertyDialogEnabled](Visio.PropertyDialogEnabled.md)
+- [ReviewerColor](Visio.ReviewerColor.md)
+- [ReviewerCount](Visio.ReviewerCount.md)
+- [ReviewerID](Visio.ReviewerID.md)
+- [ReviewerInitial](Visio.ReviewerInitial.md)
+- [ReviewerMarkupVisible](Visio.ReviewerMarkupVisible.md)
+- [ReviewerName](Visio.ReviewerName.md)
+- [ScrollbarsVisible](Visio.ScrollbarsVisible.md)
+- [SelectedShapeIndex](Visio.SelectedShapeIndex.md)
+- [ShapeAtPoint](Visio.ShapeAtPoint.md)
+- [ShapeCount](Visio.ShapeCount.md)
+- [ShapeIDToIndex](Visio.ShapeIDToIndex.md)
+- [ShapeIndexToID](Visio.ShapeIndexToID.md)
+- [ShapeName](Visio.ShapeName.md)
+- [SRC](Visio.viewer.src.property.md)
+- [SubShapeAtPoint](Visio.SubShapeAtPoint.md)
+- [ToolbarButtons](Visio.ToolbarButtons.md)
+- [ToolbarCustomizable](Visio.ToolbarCustomizable.md)
+- [ToolbarVisible](Visio.ToolbarVisible.md)
+- [Zoom](Visio.viewer.zoom.property.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

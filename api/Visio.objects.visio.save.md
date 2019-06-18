@@ -11,10 +11,9 @@ localization_priority: Normal
 
 ## In this section
 
-
--  [VisSaveAsWeb Object (Visio Save As Web)](Visio.vissaveasweb.object.visio.save.md)
+-  [VisSaveAsWeb object (Visio Save As Web)](Visio.vissaveasweb.object.visio.save.md)
     
--  [VisWebPageSettings Object (Visio Save As Web)](Visio.viswebpagesettings.object.visio.save.md)
+-  [VisWebPageSettings object (Visio Save As Web)](Visio.viswebpagesettings.object.visio.save.md)
     
 -  [Enumerations (Visio Save As Web)](Visio.enumerations.visio.save.md)
 
