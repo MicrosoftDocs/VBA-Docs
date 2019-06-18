@@ -19,9 +19,9 @@ Returns the  **AccelItems** collection of an **AccelTable** object. Read-only.
 
 ## Syntax
 
-_expression_. `AccelItems`
+_expression_.**AccelItems**
 
-_expression_ A variable that represents an [AccelTable](./Visio.AccelTable.md) object.
+_expression_ A variable that represents an [AccelTable](Visio.AccelTable.md) object.
 
 
 ## Return value

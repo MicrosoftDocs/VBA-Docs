@@ -21,7 +21,7 @@ Determines the default unit of measure for quantities that represent text metric
 
 _expression_. `DefaultTextUnits`
 
-_expression_ A variable that represents an [Application](./Visio.Application.md) object.
+_expression_ A variable that represents an [Application](Visio.Application.md) object.
 
 
 ## Return value

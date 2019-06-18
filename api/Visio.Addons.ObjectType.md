@@ -19,9 +19,9 @@ Returns an object's type. Read-only.
 
 ## Syntax
 
-_expression_. `ObjectType`
+_expression_.**ObjectType**
 
-_expression_ A variable that represents an [Addons](./Visio.Addons.md) object.
+_expression_ A variable that represents an [Addons](Visio.Addons.md) object.
 
 
 ## Return value

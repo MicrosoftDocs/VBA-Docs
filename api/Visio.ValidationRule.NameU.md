@@ -19,9 +19,9 @@ Specifies the universal name of the  **[ValidationRule](Visio.ValidationRule.md)
 
 ## Syntax
 
-_expression_. `NameU`
+_expression_.**NameU**
 
-_expression_ A variable that represents a [ValidationRule](./Visio.ValidationRule.md) object.
+_expression_ A variable that represents a [ValidationRule](Visio.ValidationRule.md) object.
 
 
 ## Return value

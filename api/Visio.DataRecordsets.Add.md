@@ -24,7 +24,7 @@ Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecords
 
 _expression_.**Add** ( `_ConnectionIDOrString_` , `_CommandString_` , `_AddOptions_` , `_Name_` )
 
-_expression_ A variable that represents a [DataRecordsets](./Visio.DataRecordsets.md) object.
+_expression_ A variable that represents a [DataRecordsets](Visio.DataRecordsets.md) object.
 
 
 ## Parameters

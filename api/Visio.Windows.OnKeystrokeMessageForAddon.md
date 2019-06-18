@@ -21,7 +21,7 @@ Occurs when Microsoft Visio receives a keystroke message from Microsoft Windows 
 
 Private Sub  _expression_ _'OnKeystrokeMessageForAddon'(**_ByVal MSG As [IVMSGWRAP]_**)
 
-_expression_ A variable that represents a [Windows](./Visio.Windows.md) object.
+_expression_ A variable that represents a **[Windows](Visio.Windows.md)** object.
 
 
 ## Parameters

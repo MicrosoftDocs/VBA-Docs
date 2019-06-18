@@ -18,7 +18,7 @@ Occurs after the value changes in a cell in a document.
 
 Private Sub  _expression_ _'CellChanged'(**_ByVal Cell As [IVCELL]_**)
 
-_expression_ A variable that represents an [Application](./Visio.Application.md) object.
+_expression_ A variable that represents an [Application](Visio.Application.md) object.
 
 
 ## Parameters

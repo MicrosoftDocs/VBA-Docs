@@ -18,7 +18,7 @@ Occurs before the application suspends events in response to client code. If any
 
 Private Sub  _expression_ _'QueryCancelSuspendEvents'(**_ByVal app As [IVAPPLICATION]_**)
 
- _expression_ An expression that returns a [Application](./Visio.Application.md) object.
+ _expression_ An expression that returns a [Application](Visio.Application.md) object.
 
 
 ## Parameters

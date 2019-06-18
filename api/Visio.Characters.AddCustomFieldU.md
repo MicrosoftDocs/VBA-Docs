@@ -21,7 +21,7 @@ Replaces the text represented by a  **Characters** object with a custom formula 
 
 _expression_. `AddCustomFieldU`( `_Formula_` , `_Format_` )
 
-_expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
+_expression_ A variable that represents a [Characters](Visio.Characters.md) object.
 
 
 ## Parameters

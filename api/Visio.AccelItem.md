@@ -21,4 +21,20 @@ Represents a single accelerator used by Visio.
 
 An  **AccelItem** object consists of a key, modifiers to the key, and the Visio command or add-on that the accelerator executes when the user presses the accelerator. A key is any ASCII key code, and is not case-sensitive. The modifiers are ALT, CTRL, and SHIFT. Command identifiers are declared by the Visio type library and prefixed with **visCMD**.
 
+## Methods
+
+-  [Delete](Visio.AccelItem.Delete.md)
+
+## Properties
+
+-  [AddOnArgs](Visio.AccelItem.AddOnArgs.md)
+-  [AddOnName](Visio.AccelItem.AddOnName.md)
+-  [Alt](Visio.AccelItem.Alt.md)
+-  [CmdNum](Visio.AccelItem.CmdNum.md)
+-  [Control](Visio.AccelItem.Control.md)
+-  [Key](Visio.AccelItem.Key.md)
+-  [Parent](Visio.AccelItem.Parent.md)
+-  [Shift](Visio.AccelItem.Shift.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

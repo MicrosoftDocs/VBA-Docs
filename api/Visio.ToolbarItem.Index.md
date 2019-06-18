@@ -21,7 +21,7 @@ Gets the ordinal position of a  **ToolbarItem** object in the **ToolbarItems** c
 
 _expression_.**Index**
 
-_expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
+_expression_ A variable that represents a [ToolbarItem](Visio.ToolbarItem.md) object.
 
 
 ## Return value

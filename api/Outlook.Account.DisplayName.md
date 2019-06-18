@@ -19,7 +19,7 @@ Returns a  **String** representing the display name of the email **[Account](Out
 
 ## Syntax
 
-_expression_. `DisplayName`
+_expression_.**DisplayName**
 
 _expression_ A variable that represents an [Account](Outlook.Account.md) object.
 

@@ -24,7 +24,7 @@ Gets the name of the Office Data Connection (ODC) file that contains the connect
 
 _expression_. `FileName`
 
- _expression_ An expression that returns a [DataConnection](./Visio.DataConnection.md) object.
+ _expression_ An expression that returns a [DataConnection](Visio.DataConnection.md) object.
 
 
 ## Return value

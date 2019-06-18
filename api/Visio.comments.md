@@ -12,6 +12,21 @@ localization_priority: Normal
 Includes a [Comment](Visio.comment.md) object for each comment in a Microsoft Visio document.
 
 
-## See also
+## Methods
+
+-  [Add](Visio.comments.add.md)
+-  [DeleteAll](Visio.comments.deleteall.md)
+
+## Properties
+
+-  [Application](Visio.comments.application.md)
+-  [Count](Visio.comments.count.md)
+-  [Document](Visio.comments.document.md)
+-  [Item](Visio.comments.item.md)
+-  [ObjectType](Visio.comments.objecttype.md)
+-  [Stat](Visio.comments.stat.md)
+
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

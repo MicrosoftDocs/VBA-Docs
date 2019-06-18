@@ -12,6 +12,14 @@ localization_priority: Normal
 Represents the merging of changes by various authors to a document or documents. Passed as a parameter to the [Document.AfterDocumentMerge](Visio.document.afterdocumentmerge.md) and [Documents.AfterDocumentMerge](Visio.documents.afterdocumentmerge.md) events.
 
 
-## See also
+## Properties
+
+-  [Application](Visio.coauthmergeevent.application.md)
+-  [BaseDocument](Visio.coauthmergeevent.basedocument.md)
+-  [DownloadDocument](Visio.coauthmergeevent.downloaddocument.md)
+-  [ObjectType](Visio.coauthmergeevent.objecttype.md)
+-  [Stat](Visio.coauthmergeevent.stat.md)
+-  [WorkingDocument](Visio.coauthmergeevent.workingdocument.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,9 +19,9 @@ Returns a  **MenuSet** object from the **MenuSets** collection. Read-only.
 
 ## Syntax
 
-_expression_. `Item`( `_lIndex_` )
+_expression_.**Item** (_lIndex_)
 
-_expression_ A variable that represents a [MenuSets](./Visio.MenuSets.md) collection.
+_expression_ A variable that represents a [MenuSets](Visio.MenuSets.md) collection.
 
 
 ## Parameters

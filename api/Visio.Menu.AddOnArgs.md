@@ -19,9 +19,9 @@ Gets or sets the argument string that you send to the add-on associated with a p
 
 ## Syntax
 
-_expression_. `AddOnArgs`
+_expression_.**AddOnArgs**
 
-_expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
+_expression_ A variable that represents a [Menu](Visio.Menu.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns the number of  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** objec
 
 _expression_.**Count**
 
-_expression_ A variable that represents a '[ValidationRuleSets](Visio.ValidationRuleSets.md)' object.
+_expression_ A variable that represents a **[ValidationRuleSets](Visio.ValidationRuleSets.md)** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Gets or sets the name of an HTML frame in the shape's  **Hyperlink** object. Rea
 
 _expression_. `Frame`
 
-_expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
+_expression_ A variable that represents a [Hyperlink](Visio.Hyperlink.md) object.
 
 
 ## Return value

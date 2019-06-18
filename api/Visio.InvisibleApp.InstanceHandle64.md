@@ -21,7 +21,7 @@ Gets the instance handle of the  **[InvisibleApp](Visio.InvisibleApp.md)** objec
 
 _expression_. `InstanceHandle64`
 
- _expression_ An expression that returns an [InvisibleApp](./Visio.InvisibleApp.md) object.
+ _expression_ An expression that returns an [InvisibleApp](Visio.InvisibleApp.md) object.
 
 
 ## Return value

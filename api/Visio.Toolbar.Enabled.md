@@ -21,7 +21,7 @@ Determines whether or not an object is currently enabled. Read/write.
 
 _expression_.**Enabled**
 
-_expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
+_expression_ A variable that represents a [Toolbar](Visio.Toolbar.md) object.
 
 
 ## Return value

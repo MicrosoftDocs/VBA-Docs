@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.WebListBox.MultiSelect
 ms.assetid: cc81682f-5212-0912-d979-16567c2dc42b
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
 
 # WebListBox.MultiSelect property (Publisher)
 
-Specifies whether a user may select more than one item in a Web list box control. Read/write.
+Specifies whether a user may select more than one item in a web list box control. Read/write.
 
 
 ## Syntax
@@ -31,19 +31,16 @@ MsoTriState
 
 ## Remarks
 
-The  **MultiSelect** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
-
-
+The **MultiSelect** property value can be one of the **[MsoTriState](office.msotristate.md)** constants declared in the Microsoft Office type library and shown in the following table.
 
 |Constant|Description|
 |:-----|:-----|
-| **msoFalse**| Indicates a user may only select one item in a Web list box control.|
-| **msoTrue**| Indicates a user may select more than one item in a Web list box control.|
+| **msoFalse**| Indicates that a user may only select one item in a web list box control.|
+| **msoTrue**| Indicates that a user may select more than one item in a web list box control.|
 
 ## Example
 
-This example add a Web list box control to the active publication, add items to it, and specifies that a user may select more than one item.
-
+This example adds a web list box control to the active publication, adds items to it, and specifies that a user may select more than one item.
 
 ```vb
 Sub NewListBoxItems() 

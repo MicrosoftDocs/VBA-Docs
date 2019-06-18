@@ -19,7 +19,7 @@ Returns  **visObjTypeContainerProperties**, the type of this object. Read-only.
 
 ## Syntax
 
-_expression_. `ObjectType`
+_expression_.**ObjectType**
 
  _expression_ An expression that returns a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

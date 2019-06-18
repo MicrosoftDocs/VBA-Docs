@@ -21,7 +21,7 @@ Saves a document and gives it a file name.
 
 _expression_.**SaveAs**( `_FileName_` )
 
-_expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](Visio.Document.md) object.
 
 
 ## Parameters

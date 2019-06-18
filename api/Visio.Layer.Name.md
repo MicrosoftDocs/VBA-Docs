@@ -21,7 +21,7 @@ Specifies the name of an object. Read-only.
 
 _expression_.**Name**
 
-_expression_ A variable that represents a [Layer](./Visio.Layer.md) object.
+_expression_ A variable that represents a [Layer](Visio.Layer.md) object.
 
 
 ## Return value

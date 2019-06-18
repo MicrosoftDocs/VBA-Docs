@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.WrapFormat.Type
 ms.assetid: da53302c-ae95-5aa9-a4ce-32647a2569d6
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[WrapFormat](Publisher.WrapFormat.md
 
 ## Remarks
 
-The  **Type** property value can be one of the **[PbWrapType](Publisher.PbWrapType.md)** constants declared in the Microsoft Publisher type library.
+The **Type** property value can be one of the **[PbWrapType](Publisher.PbWrapType.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example
 
 The following example adds an oval to the active publication and specifies that the publication text wrap around both the left and right sides of the square that surrounds the oval.
-
 
 ```vb
 Sub SetTextWrapType() 

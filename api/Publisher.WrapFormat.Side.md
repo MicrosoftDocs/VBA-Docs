@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.WrapFormat.Side
 ms.assetid: b7998643-216a-a294-bbee-e5f1947400a7
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
 
 # WrapFormat.Side property (Publisher)
 
-Returns or sets a  **PbWrapSideType** constant that indicates whether text should wrap around a shape. Read/write.
+Returns or sets a **[PbWrapSideType](Publisher.PbWrapSideType.md)** constant that indicates whether text should wrap around a shape. Read/write.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ PbWrapSideType
 
 ## Remarks
 
-The  **Side** property value can be one of the **[PbWrapSideType](Publisher.PbWrapSideType.md)** constants declared in the Microsoft Publisher type library.
+The **Side** property value can be one of the **PbWrapSideType** constants declared in the Microsoft Publisher type library.
 
 
 ## Example
 
 This example adds an oval to the first page of the active publication and specifies that text wrap around both the left and right sides of the oval.
-
 
 ```vb
 Sub SetTextWrapFormatProperties() 

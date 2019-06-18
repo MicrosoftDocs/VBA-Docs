@@ -21,7 +21,7 @@ Occurs after one or more shapes are added to a document.
 
 Private Sub  _expression_ _'ShapeAdded'(**_ByVal Shape As [IVSHAPE]_**)
 
-_expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
+_expression_ A variable that represents a [Documents](Visio.Documents.md) object.
 
 
 ## Parameters

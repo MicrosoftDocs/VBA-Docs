@@ -19,14 +19,12 @@ Returns the specified  **[CustomXMLPart](Office.CustomXMLPart.md)** object from 
 
 ## Syntax
 
-_expression_. `Item`( `_Id_` )
+_expression_.**Item** (_Id_)
 
  _expression_ An expression that returns a [CustomerData](./PowerPoint.CustomerData.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

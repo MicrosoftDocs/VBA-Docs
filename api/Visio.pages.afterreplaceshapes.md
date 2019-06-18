@@ -16,7 +16,7 @@ Occurs after a shape-replacement operation.
 
 _expression_. `AfterReplaceShapes`_(sel)_
 
-_expression_ A variable that represents a [Pages](./Visio.Pages.md) object.
+_expression_ A variable that represents a [Pages](Visio.Pages.md) object.
 
 
 ## Parameters

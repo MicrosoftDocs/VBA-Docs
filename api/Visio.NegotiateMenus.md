@@ -21,7 +21,7 @@ Determines whether Microsoft Visio menus are merged with those of the host appli
 
 _expression_. `NegotiateMenus`
 
-_expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
+_expression_ A variable that represents a [DrawingControl](Visio.DrawingControl.md) object.
 
 
 ## Return value

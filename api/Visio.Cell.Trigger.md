@@ -21,7 +21,7 @@ Evaluates the formula of a cell.
 
 _expression_. `Trigger`
 
-_expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
+_expression_ A variable that represents a [Cell](Visio.Cell.md) object.
 
 
 ## Return value

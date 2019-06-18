@@ -20,7 +20,7 @@ Formats a string or number into a string according to a format picture, using sp
 
 _expression_. `FormatResultEx`(`StringOrNumber`, `UnitsIn`, `UnitsOut`, `Format`, `LangID`, `CalendarID`, `lpbstrRet`)
 
-_expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
 
 
 ## Parameters

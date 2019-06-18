@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # AccelItem.Shift property (Visio)
 
-Determines whether the SHIFT key is a modifier for an  **AccelItem** object. Read/write.
+Determines whether the Shift key is a modifier for an **AccelItem** object. Read/write.
 
 
 ## Syntax
 
-_expression_. `Shift`
+_expression_.**Shift**
 
-_expression_ A variable that represents an [AccelItem](./Visio.AccelItem.md) object.
+_expression_ A variable that represents an **[AccelItem](Visio.AccelItem.md)** object.
 
 
 ## Return value

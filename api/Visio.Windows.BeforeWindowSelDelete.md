@@ -21,7 +21,7 @@ Occurs before the shapes in the selection of a window are deleted.
 
 Private Sub  _expression_ _'BeforeWindowSelDelete'(**_ByVal Window As [IVWINDOW]_**)
 
-_expression_ A variable that represents a [Windows](./Visio.Windows.md) object.
+_expression_ A variable that represents a **[Windows](Visio.Windows.md)** object.
 
 
 ## Parameters

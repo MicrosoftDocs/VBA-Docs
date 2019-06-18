@@ -21,7 +21,7 @@ Scrolls a window to a particular page coordinate.
 
 _expression_. `ScrollViewTo`( `_x_` , `_y_` )
 
-_expression_ A variable that represents a [Window](./Visio.Window.md) object.
+_expression_ A variable that represents a [Window](Visio.Window.md) object.
 
 
 ## Parameters

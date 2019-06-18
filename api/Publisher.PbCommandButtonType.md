@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PbCommandButtonType enumeration (Publisher)
 
-Indicates whether a Web command button will clear or submit form data.
+Indicates whether a web command button will clear or submit form data.
 
 
 

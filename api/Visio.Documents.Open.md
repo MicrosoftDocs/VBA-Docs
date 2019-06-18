@@ -21,7 +21,7 @@ Opens an existing file so that it can be edited.
 
 _expression_.**Open** (_FileName_)
 
-_expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
+_expression_ A variable that represents a [Documents](Visio.Documents.md) object.
 
 
 ## Parameters

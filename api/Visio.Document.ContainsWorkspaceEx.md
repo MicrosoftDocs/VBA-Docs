@@ -21,7 +21,7 @@ Gets or sets whether workspace information is saved with the document. Read/writ
 
 _expression_. `ContainsWorkspaceEx`
 
- _expression_ An expression that returns a [Document](./Visio.Document.md) object.
+ _expression_ An expression that returns a [Document](Visio.Document.md) object.
 
 
 ## Return value

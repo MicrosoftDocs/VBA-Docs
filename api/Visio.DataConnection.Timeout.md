@@ -24,7 +24,7 @@ Gets or sets how long (in seconds) to attempt to establish a data connection bef
 
 _expression_. `Timeout`
 
- _expression_ An expression that returns a [DataConnection](./Visio.DataConnection.md) object.
+ _expression_ An expression that returns a [DataConnection](Visio.DataConnection.md) object.
 
 
 ## Return value

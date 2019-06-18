@@ -17,9 +17,9 @@ Gets the  **[Document](Visio.Document.md)** object that is associated with the *
 
 ## Syntax
 
-_expression_. `Document`
+_expression_.**Document**
 
- _expression_ An expression that returns a [ContainerProperties](./Visio.ContainerProperties.md) object.
+ _expression_ An expression that returns a [ContainerProperties](Visio.ContainerProperties.md) object.
 
 
 ## Return value

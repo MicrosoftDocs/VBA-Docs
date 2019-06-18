@@ -21,7 +21,7 @@ Returns the full build number of the running instance. Read-only.
 
 _expression_. `FullBuild`
 
-_expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns an array of points that defines a polyline that approximates a  **Path**
 
 _expression_.**Points** (_Tolerance_, _xyArray()_)
 
-_expression_ A variable that represents a [Path](./Visio.Path.md) object.
+_expression_ A variable that represents a [Path](Visio.Path.md) object.
 
 
 ## Parameters

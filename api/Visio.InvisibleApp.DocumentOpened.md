@@ -18,7 +18,7 @@ Occurs after a document is opened.
 
 Private Sub  _expression_ _'DocumentOpened'(**_ByVal doc As [IVDOCUMENT]_**)
 
-_expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
 
 
 ## Parameters

@@ -86,9 +86,9 @@ Private Sub KeyHandler_KeyDown(KeyCode As Integer, _
  intAltDown = (Shift And acAltMask) > 0 
  intCtrlDown = (Shift And acCtrlMask) > 0 
  ' Display message telling user which key was pressed. 
- If intShiftDown Then MsgBox "You pressed the SHIFT key." 
- If intAltDown Then MsgBox "You pressed the ALT key." 
- If intCtrlDown Then MsgBox "You pressed the CTRL key." 
+ If intShiftDown Then MsgBox "You pressed the Shift key." 
+ If intAltDown Then MsgBox "You pressed the Alt key." 
+ If intCtrlDown Then MsgBox "You pressed the Ctrl key." 
 End Sub
 ```
 

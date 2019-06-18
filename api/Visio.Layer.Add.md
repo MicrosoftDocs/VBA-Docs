@@ -21,7 +21,7 @@ Adds a  **Shape** object to a **Layer** object.
 
 _expression_.**Add** (_SheetObject_, _fPresMems_)
 
-_expression_ A variable that represents a [Layer](./Visio.Layer.md) object.
+_expression_ A variable that represents a [Layer](Visio.Layer.md) object.
 
 
 ## Parameters

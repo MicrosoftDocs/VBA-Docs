@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.WizardProperty.Values
 ms.assetid: 478d3b98-65f4-c448-8096-3e999c865846
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
 
 # WizardProperty.Values property (Publisher)
 
-Returns a  **[WizardValues](Publisher.WizardValues.md)** collection representing all the valid values for a wizard property.
+Returns a **[WizardValues](Publisher.WizardValues.md)** collection representing all the valid values for a wizard property.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ WizardValues
 ## Example
 
 The following example displays the current value for the first wizard property in the active publication and then lists all the other possible values.
-
 
 ```vb
 Dim valAll As WizardValues 

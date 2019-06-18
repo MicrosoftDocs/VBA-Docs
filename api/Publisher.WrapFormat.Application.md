@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.WrapFormat.Application
 ms.assetid: 66a975fe-eda3-5588-e72c-86173437af26
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 

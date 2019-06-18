@@ -21,7 +21,7 @@ Gets or sets the default text style of a document. Read/write.
 
 _expression_. `DefaultTextStyle`
 
-_expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](Visio.Document.md) object.
 
 
 ## Return value

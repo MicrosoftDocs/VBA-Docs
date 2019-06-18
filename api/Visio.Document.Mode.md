@@ -21,7 +21,7 @@ Determines whether a document is in run mode or design mode. Read/write.
 
 _expression_. `Mode`
 
-_expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](Visio.Document.md) object.
 
 
 ## Return value

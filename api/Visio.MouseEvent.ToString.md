@@ -21,7 +21,7 @@ Returns a string that represents the properties of a  **KeyboardEvent** or **Mou
 
 _expression_. `ToString`
 
-_expression_ A variable that represents a [MouseEvent](./Visio.MouseEvent.md) object.
+_expression_ A variable that represents a [MouseEvent](Visio.MouseEvent.md) object.
 
 
 ## Return value
@@ -37,7 +37,7 @@ When a  **KeyDown**, **KeyPress**, or **KeyUp** event fires, the **ToString** pr
 
  _event code_ ; **KeyCode** property value; **KeyButtonState** property value; **KeyAscii** property value; **Window.Caption**
 
-where  _event code_ returns the code of the event that fired and **Window.Caption** returns the caption of the window that sourced the event. For example, if a user pressed the "L" key while holding down the SHIFT key, in response to the **KeyPress** event, **ToString** might return
+where  _event code_ returns the code of the event that fired and **Window.Caption** returns the caption of the window that sourced the event. For example, if a user pressed the "L" key while holding down the Shift key, in response to the **KeyPress** event, **ToString** might return
 
 713;0;4;76;Drawing1
 
@@ -45,7 +45,7 @@ When a  **MouseDown**, **MouseMove**, or **MouseUp** event fires, the **ToString
 
  _event code_ ; **Button** property value; **KeyButtonState** property value; **x** property value; **y** property value; **Window.Caption**
 
-where  _event code_ returns the code of the event that fired and **Window.Caption** returns the caption of the window that sourced the event. For example, if a user clicked the left mouse button near the middle of the drawing page while holding down the SHIFT key, in response to the **MouseDown** event, **ToString** might return
+where  _event code_ returns the code of the event that fired and **Window.Caption** returns the caption of the window that sourced the event. For example, if a user clicked the left mouse button near the middle of the drawing page while holding down the Shift key, in response to the **MouseDown** event, **ToString** might return
 
 709;1;5;4.3750003+000;4.265000+000;Drawing1
 

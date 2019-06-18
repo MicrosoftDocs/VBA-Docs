@@ -19,7 +19,7 @@ Deletes all editing permissions in a document for a specific user.
 
 ## Syntax
 
-_expression_. `DeleteAll`
+_expression_.**DeleteAll**
 
 _expression_ Required. A variable that represents an '[Editor](Word.Editor.md)' object.
 

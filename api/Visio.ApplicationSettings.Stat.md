@@ -19,9 +19,9 @@ Returns status information for an object. Read-only.
 
 ## Syntax
 
-_expression_. `Stat`
+_expression_.**Stat**
 
-_expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
+_expression_ A variable that represents an [ApplicationSettings](Visio.ApplicationSettings.md) object.
 
 
 ## Return value

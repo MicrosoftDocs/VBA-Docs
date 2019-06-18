@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.WebHiddenFields.Count
 ms.assetid: 167c4c58-10cf-4dbb-5dfc-d60ab3856357
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 

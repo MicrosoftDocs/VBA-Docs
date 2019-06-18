@@ -21,7 +21,7 @@ Occurs after connections have been established between shapes.
 
 Private Sub  _expression_ _'ConnectionsAdded'(**_ByVal Connects As [IVCONNECTS]_**)
 
-_expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
+_expression_ A variable that represents a [Masters](Visio.Masters.md) object.
 
 
 ## Parameters

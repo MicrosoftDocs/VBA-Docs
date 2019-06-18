@@ -14,18 +14,19 @@ localization_priority: Normal
 
 # AccelItem.Alt property (Visio)
 
-Determines whether the ALT key is a modifier for an accelerator. Read/write.
+Determines whether the Alt key is a modifier for an accelerator. Read/write.
 
 
 ## Syntax
 
-_expression_. `Alt`
+_expression_.**Alt**
 
-_expression_ A variable that represents an [AccelItem](./Visio.AccelItem.md) object.
+_expression_ A variable that represents an **[AccelItem](Visio.AccelItem.md)** object.
 
 
 ## Return value
 
 Integer
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

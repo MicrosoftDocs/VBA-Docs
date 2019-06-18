@@ -21,7 +21,7 @@ Gets or sets the text style for an object. Read/write.
 
 _expression_. `TextStyle`
 
-_expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
+_expression_ A variable that represents a [Selection](Visio.Selection.md) object.
 
 
 ## Return value

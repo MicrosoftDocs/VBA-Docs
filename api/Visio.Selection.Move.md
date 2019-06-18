@@ -21,7 +21,7 @@ Moves a selection a specified distance.
 
 _expression_. `Move`( `_dx_` , `_dy_` , `_UnitsNameOrCode_` )
 
-_expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
+_expression_ A variable that represents a [Selection](Visio.Selection.md) object.
 
 
 ## Parameters

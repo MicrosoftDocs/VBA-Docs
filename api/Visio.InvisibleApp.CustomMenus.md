@@ -21,7 +21,7 @@ Gets a  **UIObject** object that represents the current custom menus and acceler
 
 _expression_. `CustomMenus`
 
-_expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
 
 
 ## Return value

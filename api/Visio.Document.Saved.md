@@ -21,7 +21,7 @@ Indicates whether a document has any unsaved changes. Read/write.
 
 _expression_.**Saved**
 
-_expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](Visio.Document.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Gets or sets the  **message** member of the **MSG** structure being wrapped. Rea
 
 _expression_. `message`
 
-_expression_ A variable that represents a [MSGWrap](./Visio.MSGWrap.md) object.
+_expression_ A variable that represents a [MSGWrap](Visio.MSGWrap.md) object.
 
 
 ## Return value

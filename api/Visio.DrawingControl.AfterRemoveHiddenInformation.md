@@ -18,7 +18,7 @@ Occurs when hidden information is removed from the document.
 
  Private Sub _expression_ _'AfterRemoveHiddenInformation'(**_ByVal doc As IVDOCUMENT_**)
 
- _expression_ An expression that returns a [DrawingControl](./Visio.DrawingControl.md) object.
+ _expression_ An expression that returns a [DrawingControl](Visio.DrawingControl.md) object.
 
 
 ## Parameters

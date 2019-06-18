@@ -21,7 +21,7 @@ Returns a  **Selection** object that represents what is presently selected in th
 
 _expression_.**Selection**
 
-_expression_ A variable that represents a [Window](./Visio.Window.md) object.
+_expression_ A variable that represents a [Window](Visio.Window.md) object.
 
 
 ## Return value

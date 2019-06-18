@@ -21,4 +21,16 @@ Represents a Microsoft Windows accelerator table.
 
 You can create one  **AccelTable** object for each Microsoft Visio window context (drawing window, stencil window, ShapeSheet window, and so on).
 
+## Methods
+
+-  [Delete](Visio.AccelTable.Delete.md)
+
+## Properties
+
+-  [AccelItems](Visio.AccelTable.AccelItems.md)
+-  [Parent](Visio.AccelTable.Parent.md)
+-  [SetID](Visio.AccelTable.SetID.md)
+-  [TableName](Visio.AccelTable.TableName.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

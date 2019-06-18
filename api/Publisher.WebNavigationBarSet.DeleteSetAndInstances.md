@@ -7,7 +7,7 @@ ms.prod: publisher
 api_name:
 - Publisher.WebNavigationBarSet.DeleteSetAndInstances
 ms.assetid: 89bbd9b9-d0c9-ecac-eb3e-7425bd177aec
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[WebNavigationBarSet](Publisher.WebN
 
 ## Example
 
-The following example iterates through the  **WebNavigationBarSets** collection and deletes each set from the active document.
-
+The following example iterates through the **[WebNavigationBarSets](Publisher.WebNavigationBarSets.md)** collection and deletes each set from the active document.
 
 ```vb
 Dim objWebNavBarSet As WebNavigationBarSet 

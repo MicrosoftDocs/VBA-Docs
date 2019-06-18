@@ -24,7 +24,7 @@ Sets the primary key setting value and the name of the primary key column or col
 
 _expression_. `SetPrimaryKey`( `_PrimaryKeySettings_` , `_PrimaryKey()_` )
 
- _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
+ _expression_ An expression that returns a [DataRecordset](Visio.DataRecordset.md) object.
 
 
 ## Parameters

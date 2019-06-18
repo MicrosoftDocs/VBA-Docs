@@ -21,7 +21,7 @@ Gets or sets the name of the file that defines custom menus and accelerators for
 
 _expression_. `CustomMenusFile`
 
-_expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](Visio.Document.md) object.
 
 
 ## Return value

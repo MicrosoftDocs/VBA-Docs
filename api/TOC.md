@@ -24081,13 +24081,6 @@
 ###### [Radius](Publisher.softedgeformat.radius.md)
 ###### [Type](Publisher.softedgeformat.type.md)
 ###### [Visible](Publisher.softedgeformat.visible.md)
-#### [Stories object](Publisher.Stories.md)
-##### Methods
-###### [Item](Publisher.Stories.Item.md)
-##### Properties
-###### [Application](Publisher.Stories.Application.md)
-###### [Count](Publisher.Stories.Count.md)
-###### [Parent](Publisher.Stories.Parent.md)
 #### [Story object](Publisher.Story.md)
 ##### Properties
 ###### [Application](Publisher.Story.Application.md)
@@ -24098,6 +24091,13 @@
 ###### [TextFrame](Publisher.Story.TextFrame.md)
 ###### [TextRange](Publisher.Story.TextRange.md)
 ###### [Type](Publisher.Story.Type.md)
+#### [Stories object](Publisher.Stories.md)
+##### Methods
+###### [Item](Publisher.Stories.Item.md)
+##### Properties
+###### [Application](Publisher.Stories.Application.md)
+###### [Count](Publisher.Stories.Count.md)
+###### [Parent](Publisher.Stories.Parent.md)
 #### [Table object](Publisher.Table.md)
 ##### Methods
 ###### [ApplyAutoFormat](Publisher.Table.ApplyAutoFormat.md)
@@ -24446,13 +24446,6 @@
 ###### [Name](Publisher.Wizard.Name.md)
 ###### [Parent](Publisher.Wizard.Parent.md)
 ###### [Properties](Publisher.Wizard.Properties.md)
-#### [WizardProperties object](Publisher.WizardProperties.md)
-##### Methods
-###### [FindPropertyById](Publisher.WizardProperties.FindPropertyById.md)
-###### [Application](Publisher.WizardProperties.Application.md)
-###### [Count](Publisher.WizardProperties.Count.md)
-###### [Item](Publisher.WizardProperties.Item.md)
-###### [Parent](Publisher.WizardProperties.Parent.md)
 #### [WizardProperty object](Publisher.WizardProperty.md)
 ##### Properties
 ###### [Application](Publisher.WizardProperty.Application.md)
@@ -24462,6 +24455,14 @@
 ###### [Name](Publisher.WizardProperty.Name.md)
 ###### [Parent](Publisher.WizardProperty.Parent.md)
 ###### [Values](Publisher.WizardProperty.Values.md)
+#### [WizardProperties object](Publisher.WizardProperties.md)
+##### Methods
+###### [FindPropertyById](Publisher.WizardProperties.FindPropertyById.md)
+##### Properties
+###### [Application](Publisher.WizardProperties.Application.md)
+###### [Count](Publisher.WizardProperties.Count.md)
+###### [Item](Publisher.WizardProperties.Item.md)
+###### [Parent](Publisher.WizardProperties.Parent.md)
 #### [WizardValue object](Publisher.WizardValue.md)
 ##### Properties
 ###### [Application](Publisher.WizardValue.Application.md)
@@ -25139,6 +25140,7 @@
 ###### [RotateFlipList](Visio.ContainerProperties.RotateFlipList.md)
 ###### [SetListSpacing](Visio.ContainerProperties.SetListSpacing.md)
 ###### [SetMargin](Visio.ContainerProperties.SetMargin.md)
+##### Properties
 ###### [Application](Visio.ContainerProperties.Application.md)
 ###### [ContainerStyle](Visio.ContainerProperties.ContainerStyle.md)
 ###### [ContainerType](Visio.ContainerProperties.ContainerType.md)

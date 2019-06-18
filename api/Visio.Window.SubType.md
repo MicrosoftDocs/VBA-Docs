@@ -21,7 +21,7 @@ Returns the subtype of a  **Window** object that represents a drawing window. Re
 
 _expression_. `SubType`
 
-_expression_ A variable that represents a [Window](./Visio.Window.md) object.
+_expression_ A variable that represents a [Window](Visio.Window.md) object.
 
 
 ## Return value

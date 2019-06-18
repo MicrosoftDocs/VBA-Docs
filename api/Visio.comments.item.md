@@ -14,7 +14,7 @@ Returns an object from a collection. The  **Item** property is the default prope
 
 ## Syntax
 
-_expression_. `Item`
+_expression_.**Item**
 
 _expression_ A variable that represents a 'Comments' object.
 

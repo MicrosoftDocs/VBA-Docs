@@ -14,19 +14,19 @@ localization_priority: Normal
 
 # Options.CtrlClickHyperlinkToOpen property (Word)
 
- **True** if Microsoft Word requires holding down the CTRL key while clicking to open a hyperlink. Read/write **Boolean**.
+**True** if Microsoft Word requires holding down the Ctrl key while clicking to open a hyperlink. Read/write **Boolean**.
 
 
 ## Syntax
 
 _expression_. `CtrlClickHyperlinkToOpen`
 
- _expression_ An expression that returns an '[Options](Word.Options.md)' object.
+_expression_ An expression that returns an **[Options](Word.Options.md)** object.
 
 
 ## Example
 
-This example disables the option that requires holding down the CTRL key while clicking hyperlinks to open them.
+This example disables the option that requires holding down the Ctrl key while clicking hyperlinks to open them.
 
 
 ```vb

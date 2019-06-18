@@ -19,9 +19,9 @@ Returns an object from a collection. The  **Item** property is the default prope
 
 ## Syntax
 
-_expression_. `Item`( `_lIndex_` )
+_expression_.**Item** (_lIndex_)
 
-_expression_ A variable that represents a [ToolbarSets](./Visio.ToolbarSets.md) collection.
+_expression_ A variable that represents a [ToolbarSets](Visio.ToolbarSets.md) collection.
 
 
 ## Parameters

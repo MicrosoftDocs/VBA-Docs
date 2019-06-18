@@ -7,14 +7,14 @@ ms.prod: publisher
 api_name:
 - Publisher.Wizard.Properties
 ms.assetid: 9f9811b3-10ee-d429-c5a2-8223349525f2
-ms.date: 06/08/2017
+ms.date: 06/18/2019
 localization_priority: Normal
 ---
 
 
 # Wizard.Properties property (Publisher)
 
-Returns a  **[WizardProperties](Publisher.WizardProperties.md)** collection representing all the settings that are part of the specified publication design or Design Gallery object's wizard.
+Returns a **[WizardProperties](Publisher.WizardProperties.md)** collection representing all the settings that are part of the specified publication design or Design Gallery object's wizard.
 
 
 ## Syntax
@@ -32,7 +32,6 @@ WizardProperties
 ## Example
 
 The following example reports on the publication design associated with the active publication, displaying its name and current settings.
-
 
 ```vb
 Dim wizTemp As Wizard 

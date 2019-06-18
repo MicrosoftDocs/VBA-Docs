@@ -18,7 +18,7 @@ Occurs when the mouse is moved.
 
 Private Sub  _expression_ _'MouseMove'(**_ByVal Button As Long_**, **_ByVal KeyButtonState As Long_**, **_ByVal x As Double_**, **_ByVal y As Double_**, **_ByVal CancelDefault As Boolean_**)
 
-_expression_ A variable that represents an [Application](./Visio.Application.md) object.
+_expression_ A variable that represents an [Application](Visio.Application.md) object.
 
 
 ## Parameters

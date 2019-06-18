@@ -21,7 +21,7 @@ Clears local formatting in a document's Gesture Format sheet.
 
 _expression_. `ClearGestureFormatSheet`
 
-_expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](Visio.Document.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns the  **Shape** object that owns a **Cell**, **Characters**, **Row**, or 
 
 _expression_.**Shape**
 
-_expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
+_expression_ A variable that represents a [Characters](Visio.Characters.md) object.
 
 
 ## Return value

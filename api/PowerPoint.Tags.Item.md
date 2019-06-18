@@ -19,14 +19,12 @@ Returns a single tag from the specified  **[Tags](PowerPoint.Tags.md)** collecti
 
 ## Syntax
 
-_expression_. `Item`( `_Name_` )
+_expression_.**Item** (_Name_)
 
 _expression_ A variable that represents a [Tags](./PowerPoint.Tags.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

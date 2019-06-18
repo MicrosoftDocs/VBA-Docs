@@ -18,7 +18,7 @@ Occurs when a keyboard key is released.
 
 Private Sub  _expression_ _'KeyUp'(**_ByVal KeyCode As Long_**, **_ByVal KeyButtonState As Long_**, **_ByVal CancelDefault As Boolean_**)
 
-_expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
 
 
 ## Parameters

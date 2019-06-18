@@ -19,9 +19,9 @@ Returns an item from a collection. The  **Item** property is the default propert
 
 ## Syntax
 
-_expression_. `Item`( `_NameOrIndex_` )
+_expression_.**Item** (_NameOrIndex_)
 
-_expression_ A variable that represents a [Documents](./Visio.Documents.md) collection.
+_expression_ A variable that represents a [Documents](Visio.Documents.md) collection.
 
 
 ## Parameters
