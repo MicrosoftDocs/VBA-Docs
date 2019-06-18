@@ -103,12 +103,12 @@ The  **DrawingControl** object has no default property.
 ## Properties
 
 -  [Document](Visio.DrawingControl.Document.md)
--  [HostID](Visio.HostID.md)
--  [NegotiateMenus](Visio.NegotiateMenus.md)
--  [NegotiateToolbars](Visio.NegotiateToolbars.md)
--  [PageSizingBehavior](Visio.PageSizingBehavior.md)
--  [ShutdownBehavior](Visio.drawingcontrol.shutdownbehavior.md)
--  [Src](Visio.Src.md)
+-  [HostID](Visio.DrawingControl.HostID.md)
+-  [NegotiateMenus](Visio.DrawingControl.NegotiateMenus.md)
+-  [NegotiateToolbars](Visio.DrawingControl.NegotiateToolbars.md)
+-  [PageSizingBehavior](Visio.DrawingControl.PageSizingBehavior.md)
+-  [ShutDownBehavior](Visio.DrawingControl.ShutDownBehavior.md)
+-  [Src](Visio.DrawingControl.Src.md)
 -  [Window](Visio.DrawingControl.Window.md)
 
 

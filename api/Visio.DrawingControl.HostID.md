@@ -5,7 +5,7 @@ f1_keywords:
 - vis_sdr.chm52000
 ms.prod: visio
 api_name:
-- Visio.HostID
+- Visio.DrawingControl.HostID
 ms.assetid: ecc77cb3-04c8-6a31-0d40-d03dddb6bf20
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -19,7 +19,7 @@ String representation of the GUID of the host application of the Microsoft Visio
 
 ## Syntax
 
-_expression_. `HostID`
+_expression_.**HostID**
 
 _expression_ A variable that represents a [DrawingControl](Visio.DrawingControl.md) object.
 
