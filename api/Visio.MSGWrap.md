@@ -23,4 +23,17 @@ The properties of the  **MSGWrap** object correspond to the fields in the **MSG*
 
 For details, search for "MSG structure" in your Windows documentation or on MSDN, the Microsoft Developer Network.
 
+## Properties
+
+-  [Application](Visio.MSGWrap.Application.md)
+-  [HWnd](Visio.MSGWrap.hwnd.md)
+-  [lParam](Visio.MSGWrap.lParam.md)
+-  [message](Visio.MSGWrap.message.md)
+-  [ObjectType](Visio.MSGWrap.ObjectType.md)
+-  [posttime](Visio.MSGWrap.posttime.md)
+-  [ptx](Visio.MSGWrap.ptx.md)
+-  [pty](Visio.MSGWrap.pty.md)
+-  [wParam](Visio.MSGWrap.wParam.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

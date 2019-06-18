@@ -29,4 +29,18 @@ To create an  **Event** object that runs an add-on, use the **Add** method of an
 
 To create an  **Event** object that sends a notification, use the **AddAdvise** method.
 
+## Methods
+
+-  [Add](Visio.EventList.Add.md)
+-  [AddAdvise](Visio.EventList.AddAdvise.md)
+
+## Properties
+
+-  [Application](Visio.EventList.Application.md)
+-  [Count](Visio.EventList.Count.md)
+-  [Item](Visio.EventList.Item.md)
+-  [ItemFromID](Visio.EventList.ItemFromID.md)
+-  [ObjectType](Visio.EventList.ObjectType.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

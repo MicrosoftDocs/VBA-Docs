@@ -31,4 +31,20 @@ Use the  **[DataGraphic](Visio.GraphicItem.DataGraphic.md)** property to return 
 
  **Note**  You must create masters of type  **visTypeDataGraphic** by using the Visio user interface—you cannot create them programmatically. For more information about creating these masters, search for "data graphics" in Visio end-user Help.
 
+## Methods
+
+-  [AddCopy](Visio.GraphicItems.AddCopy.md)
+
+## Properties
+
+-  [Application](Visio.GraphicItems.Application.md)
+-  [Count](Visio.GraphicItems.Count.md)
+-  [DataGraphic](Visio.GraphicItems.DataGraphic.md)
+-  [Document](Visio.GraphicItems.Document.md)
+-  [Item](Visio.GraphicItems.Item.md)
+-  [ItemFromID](Visio.GraphicItems.ItemFromID.md)
+-  [ObjectType](Visio.GraphicItems.ObjectType.md)
+-  [Stat](Visio.GraphicItems.Stat.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

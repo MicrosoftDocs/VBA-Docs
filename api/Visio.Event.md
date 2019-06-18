@@ -27,4 +27,33 @@ The  **Event** property of the **Event** object establishes the event that trigg
 
 Use the  **Persistable** property to find out if the event can be stored with a Microsoft Visio document, or the **Persistent** property to find out if the event is stored. Use the **Trigger** method to trigger an **Event** object's action without waiting for the event to occur. Use the **Enabled** property to temporarily disable an event.
 
+## Methods
+
+-  [Delete](Visio.Event.Delete.md)
+-  [GetFilterActions](Visio.Event.GetFilterActions.md)
+-  [GetFilterCommands](Visio.Event.GetFilterCommands.md)
+-  [GetFilterObjects](Visio.Event.GetFilterObjects.md)
+-  [GetFilterSRC](Visio.Event.GetFilterSRC.md)
+-  [SetFilterActions](Visio.Event.SetFilterActions.md)
+-  [SetFilterCommands](Visio.Event.SetFilterCommands.md)
+-  [SetFilterObjects](Visio.Event.SetFilterObjects.md)
+-  [SetFilterSRC](Visio.Event.SetFilterSRC.md)
+-  [Trigger](Visio.Event.Trigger.md)
+
+## Properties
+
+-  [Action](Visio.Event.Action.md)
+-  [Application](Visio.Event.Application.md)
+-  [Enabled](Visio.Event.Enabled.md)
+-  [Event](Visio.Event.Event.md)
+-  [EventList](Visio.Event.EventList.md)
+-  [ID](Visio.Event.ID.md)
+-  [Index](Visio.Event.Index.md)
+-  [ObjectType](Visio.Event.ObjectType.md)
+-  [Persistable](Visio.Event.Persistable.md)
+-  [Persistent](Visio.Event.Persistent.md)
+-  [Target](Visio.Event.Target.md)
+-  [TargetArgs](Visio.Event.TargetArgs.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

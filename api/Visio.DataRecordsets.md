@@ -44,50 +44,27 @@ Once you have created a data recordset, the connection string and query command 
 
 ## Events
 
-
-
-|Name|
-|:-----|
-|[BeforeDataRecordsetDelete](Visio.DataRecordset.BeforeDataRecordsetDelete.md)|
-|[DataRecordsetChanged](Visio.DataRecordset.DataRecordsetChanged.md)|
+-  [BeforeDataRecordsetDelete](Visio.DataRecordsets.BeforeDataRecordsetDelete.md)
+-  [DataRecordsetAdded](Visio.DataRecordsets.DataRecordsetAdded.md)
+-  [DataRecordsetChanged](Visio.DataRecordsets.DataRecordsetChanged.md)
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Visio.DataRecordset.Delete.md)|
-|[GetAllRefreshConflicts](Visio.DataRecordset.GetAllRefreshConflicts.md)|
-|[GetDataRowIDs](Visio.DataRecordset.GetDataRowIDs.md)|
-|[GetMatchingRowsForRefreshConflict](Visio.DataRecordset.GetMatchingRowsForRefreshConflict.md)|
-|[GetPrimaryKey](Visio.DataRecordset.GetPrimaryKey.md)|
-|[GetRowData](Visio.DataRecordset.GetRowData.md)|
-|[Refresh](Visio.DataRecordset.Refresh.md)|
-|[RefreshUsingXML](Visio.DataRecordset.RefreshUsingXML.md)|
-|[RemoveRefreshConflict](Visio.DataRecordset.RemoveRefreshConflict.md)|
-|[SetPrimaryKey](Visio.DataRecordset.SetPrimaryKey.md)|
+-  [Add](Visio.DataRecordsets.Add.md)
+-  [AddFromConnectionFile](Visio.DataRecordsets.AddFromConnectionFile.md)
+-  [AddFromXML](Visio.DataRecordsets.AddFromXML.md)
+-  [GetLastDataError](Visio.DataRecordsets.GetLastDataError.md)
 
 ## Properties
 
+-  [Application](Visio.DataRecordsets.Application.md)
+-  [Count](Visio.DataRecordsets.Count.md)
+-  [Document](Visio.DataRecordsets.Document.md)
+-  [EventList](Visio.DataRecordsets.EventList.md)
+-  [Item](Visio.DataRecordsets.Item.md)
+-  [ItemFromID](Visio.DataRecordsets.ItemFromID.md)
+-  [ObjectType](Visio.DataRecordsets.ObjectType.md)
+-  [Stat](Visio.DataRecordsets.Stat.md)
 
-
-|Name|
-|:-----|
-|[Application](Visio.DataRecordset.Application.md)|
-|[CommandString](Visio.DataRecordset.CommandString.md)|
-|[DataAsXML](Visio.DataRecordset.DataAsXML.md)|
-|[DataColumns](Visio.DataRecordset.DataColumns.md)|
-|[DataConnection](Visio.DataRecordset.DataConnection.md)|
-|[Document](Visio.DataRecordset.Document.md)|
-|[EventList](Visio.DataRecordset.EventList.md)|
-|[ID](Visio.DataRecordset.ID.md)|
-|[LinkReplaceBehavior](Visio.DataRecordset.LinkReplaceBehavior.md)|
-|[Name](Visio.DataRecordset.Name.md)|
-|[ObjectType](Visio.DataRecordset.ObjectType.md)|
-|[RefreshInterval](Visio.DataRecordset.RefreshInterval.md)|
-|[RefreshSettings](Visio.DataRecordset.RefreshSettings.md)|
-|[Stat](Visio.DataRecordset.Stat.md)|
-|[TimeRefreshed](Visio.DataRecordset.TimeRefreshed.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,4 +23,16 @@ The default property of  **OLEObject** is **Object**.
 
 To obtain the  **IDispatch** interface on an ActiveX control or embedded or linked OLE 2.0 object represented by a shape, use the **Object** property of an **OLEObject** object.
 
+## Properties
+
+-  [Application](Visio.OLEObject.Application.md)
+-  [ClassID](Visio.OLEObject.ClassID.md)
+-  [ForeignType](Visio.OLEObject.ForeignType.md)
+-  [Object](Visio.OLEObject.Object.md)
+-  [ObjectType](Visio.OLEObject.ObjectType.md)
+-  [ProgID](Visio.OLEObject.ProgID.md)
+-  [Shape](Visio.OLEObject.Shape.md)
+-  [Stat](Visio.OLEObject.Stat.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

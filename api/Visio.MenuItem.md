@@ -35,4 +35,34 @@ The index of a  **MenuItem** object within the **MenuItems** collection correspo
 
 If the menu item displays a submenu, the  **MenuItem** object has a **MenuItems** collection that represents items on the submenu. The **MenuItem** object's **Caption** property contains the submenu title. Most of the other properties of the **MenuItem** object are ignored, because this object serves much the same role as a **Menu** object.
 
+## Methods
+
+-  [Delete](Visio.MenuItem.Delete.md)
+-  [IconFileName](Visio.MenuItem.IconFileName.md)
+
+## Properties
+
+-  [ActionText](Visio.MenuItem.ActionText.md)
+-  [AddOnArgs](Visio.MenuItem.AddOnArgs.md)
+-  [AddOnName](Visio.MenuItem.AddOnName.md)
+-  [BeginGroup](Visio.MenuItem.BeginGroup.md)
+-  [BuiltIn](Visio.MenuItem.BuiltIn.md)
+-  [Caption](Visio.MenuItem.Caption.md)
+-  [CmdNum](Visio.MenuItem.CmdNum.md)
+-  [CntrlType](Visio.MenuItem.CntrlType.md)
+-  [Enabled](Visio.MenuItem.Enabled.md)
+-  [FaceID](Visio.MenuItem.FaceID.md)
+-  [Index](Visio.MenuItem.Index.md)
+-  [IsHierarchical](Visio.MenuItem.IsHierarchical.md)
+-  [MenuItems](Visio.MenuItem.MenuItems.md)
+-  [PaletteWidth](Visio.MenuItem.PaletteWidth.md)
+-  [Parent](Visio.MenuItem.Parent.md)
+-  [State](Visio.MenuItem.State.md)
+-  [Style](Visio.MenuItem.Style.md)
+-  [TypeSpecific1](Visio.MenuItem.TypeSpecific1.md)
+-  [TypeSpecific2](Visio.MenuItem.TypeSpecific2.md)
+-  [Visible](Visio.MenuItem.Visible.md)
+-  [Width](Visio.MenuItem.Width.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

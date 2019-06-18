@@ -23,4 +23,13 @@ Each member of an  **OLEObjects** collection is an **OLEObject** object, which r
 
 The default property of an  **OLEObjects** collection is **Item**.
 
+## Properties
+
+-  [Application](Visio.OLEObjects.Application.md)
+-  [Count](Visio.OLEObjects.Count.md)
+-  [Item](Visio.OLEObjects.Item.md)
+-  [ObjectType](Visio.OLEObjects.ObjectType.md)
+-  [Stat](Visio.OLEObjects.Stat.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25182,6 +25182,7 @@
 #### [DataColumns object](Visio.DataColumns.md)
 ##### Methods
 ###### [SetColumnProperties](Visio.DataColumns.SetColumnProperties.md)
+##### Properties
 ###### [Application](Visio.DataColumns.Application.md)
 ###### [Count](Visio.DataColumns.Count.md)
 ###### [DataRecordset](Visio.DataColumns.DataRecordset.md)

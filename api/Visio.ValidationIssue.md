@@ -23,4 +23,22 @@ To get a particular  **ValidationIssue** object, you can use the **[Item](Visio.
 
 The default property of the  **ValidationIssue** object is **[Ignored](Visio.ValidationIssue.Ignored.md)**.
 
+## Methods
+
+-  [Delete](Visio.ValidationIssue.Delete.md)
+
+## Properties
+
+-  [Application](Visio.ValidationIssue.Application.md)
+-  [Document](Visio.ValidationIssue.Document.md)
+-  [ID](Visio.ValidationIssue.ID.md)
+-  [Ignored](Visio.ValidationIssue.Ignored.md)
+-  [ObjectType](Visio.ValidationIssue.ObjectType.md)
+-  [Rule](Visio.ValidationIssue.Rule.md)
+-  [Stat](Visio.ValidationIssue.Stat.md)
+-  [TargetPage](Visio.ValidationIssue.TargetPage.md)
+-  [TargetPageID](Visio.ValidationIssue.TargetPageID.md)
+-  [TargetShape](Visio.ValidationIssue.TargetShape.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

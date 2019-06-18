@@ -26,9 +26,7 @@ For more information about using the  **IVBUndoUnit** interface to create undo u
 
 ### IVBUndoUnit methods and properties in VTable order
 
-
-
-|** IUnknown Methods**|** Description**|
+|IUnknown methods|Description|
 |:-----|:-----|
 | **QueryInterface**| Returns a pointer to a specified interface.|
 | **AddRef**| Increments the reference count.|
@@ -41,5 +39,18 @@ For more information about using the  **IVBUndoUnit** interface to create undo u
 | **UnitTypeCLSID**| Read-only. Returns the CLSID and a type identifier for the undo unit.|
 | **UnitTypeLong**| Read-only. Returns a **Long** that can be used to identify the undo unit.|
 | **UnitSize**| Size in bytes. Used to measure how much memory undo information is using.|
+
+## Methods
+
+-  [Do](Visio.IVBUndoUnit.Do.md)
+-  [OnNextAdd](Visio.IVBUndoUnit.OnNextAdd.md)
+
+## Properties
+
+-  [Description](Visio.IVBUndoUnit.Description.md)
+-  [UnitSize](Visio.IVBUndoUnit.UnitSize.md)
+-  [UnitTypeCLSID](Visio.IVBUndoUnit.UnitTypeCLSID.md)
+-  [UnitTypeLong](Visio.IVBUndoUnit.UnitTypeLong.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

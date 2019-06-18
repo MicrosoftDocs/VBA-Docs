@@ -57,4 +57,27 @@ Use the  **[VerticalPosition](Visio.GraphicItem.VerticalPosition.md)** property 
 
 Use the  **[UseDataGraphicPosition](Visio.GraphicItem.UseDataGraphicPosition.md)** property to get or set whether a **GraphicItem** object inherits the settings of the **[DataGraphicHorizontalPosition](Visio.Master.DataGraphicHorizontalPosition.md)** and **[DataGraphicVerticalPosition](Visio.Master.DataGraphicVerticalPosition.md)** properties of the data graphic master it belongs to (when set to **True)**, or whether the **GraphicItem** object's own **HorizontalPosition** and **Vertical Position** settings are applied (when set to **False**).
 
+## Methods
+
+-  [Delete](Visio.GraphicItem.Delete.md)
+-  [GetExpression](Visio.GraphicItem.GetExpression.md)
+-  [SetExpression](Visio.GraphicItem.SetExpression.md)
+
+## Properties
+
+-  [Application](Visio.GraphicItem.Application.md)
+-  [DataGraphic](Visio.GraphicItem.DataGraphic.md)
+-  [Description](Visio.GraphicItem.Description.md)
+-  [Document](Visio.GraphicItem.Document.md)
+-  [HorizontalPosition](Visio.GraphicItem.HorizontalPosition.md)
+-  [ID](Visio.GraphicItem.ID.md)
+-  [Index](Visio.GraphicItem.Index.md)
+-  [ObjectType](Visio.GraphicItem.ObjectType.md)
+-  [Stat](Visio.GraphicItem.Stat.md)
+-  [Tag](Visio.GraphicItem.Tag.md)
+-  [Type](Visio.GraphicItem.Type.md)
+-  [UseDataGraphicPosition](Visio.GraphicItem.UseDataGraphicPosition.md)
+-  [VerticalPosition](Visio.GraphicItem.VerticalPosition.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

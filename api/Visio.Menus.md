@@ -28,4 +28,16 @@ The default property of a  **Menus** collection is **Item**.
 
 Unlike other Visio collections, the  **Menus** collection is indexed starting with zero (0) rather than 1.
 
+## Methods
+
+-  [Add](Visio.Menus.Add.md)
+-  [AddAt](Visio.Menus.AddAt.md)
+
+## Properties
+
+-  [Count](Visio.Menus.Count.md)
+-  [Item](Visio.Menus.Item.md)
+-  [Parent](Visio.Menus.Parent.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

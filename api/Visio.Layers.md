@@ -23,4 +23,23 @@ To retrieve a  **Layers** collection, use the **Layers** property of a **Page** 
 
 The default property of a  **Layers** collection is **Item**.
 
+## Methods
+
+-  [Add](Visio.Layers.Add.md)
+
+## Properties
+
+-  [Application](Visio.Layers.Application.md)
+-  [Count](Visio.Layers.Count.md)
+-  [Document](Visio.Layers.Document.md)
+-  [EventList](Visio.Layers.EventList.md)
+-  [Item](Visio.Layers.Item.md)
+-  [ItemU](Visio.Layers.ItemU.md)
+-  [Master](Visio.Layers.Master.md)
+-  [ObjectType](Visio.Layers.ObjectType.md)
+-  [Page](Visio.Layers.Page.md)
+-  [PersistsEvents](Visio.Layers.PersistsEvents.md)
+-  [Stat](Visio.Layers.Stat.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

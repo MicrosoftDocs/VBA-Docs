@@ -30,4 +30,17 @@ Unlike other Visio collections, the  **MenuSets** collection is indexed starting
 
 A  **MenuSet** object is identified in the **MenuSets** collection by its **SetID** property, which corresponds to a Visio window context. For a list of **SetID** values for **MenuSet** objects, see the **SetID** property.
 
+## Methods
+
+-  [Add](Visio.MenuSets.Add.md)
+-  [AddAtID](Visio.MenuSets.AddAtID.md)
+
+## Properties
+
+-  [Count](Visio.MenuSets.Count.md)
+-  [Item](Visio.MenuSets.Item.md)
+-  [ItemAtID](Visio.MenuSets.ItemAtID.md)
+-  [Parent](Visio.MenuSets.Parent.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,17 @@ The default property of a  **MenuItems** collection is **Item**.
 
 Unlike other Visio collections, the  **MenuItems** collection is indexed starting with zero (0) rather than 1.
 
+## Methods
+
+-  [Add](Visio.MenuItems.Add.md)
+-  [AddAt](Visio.MenuItems.AddAt.md)
+
+## Properties
+
+-  [Count](Visio.MenuItems.Count.md)
+-  [Item](Visio.MenuItems.Item.md)
+-  [Parent](Visio.MenuItems.Parent.md)
+-  [ParentItem](Visio.MenuItems.ParentItem.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

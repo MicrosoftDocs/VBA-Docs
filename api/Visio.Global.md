@@ -38,4 +38,16 @@ The preceding syntax is different from the syntax you would use for accessing me
 
  **Note**  The VBA project of every Visio document also has a class module called  **ThisDocument**. When referenced from code in the VBA project, the **ThisDocument** module returns a reference to the project's **Document** object.
 
+## Properties
+
+-  [ActiveDocument](Visio.Global.ActiveDocument.md)
+-  [ActivePage](Visio.Global.ActivePage.md)
+-  [ActiveWindow](Visio.Global.ActiveWindow.md)
+-  [Addons](Visio.Global.Addons.md)
+-  [Application](Visio.Global.Application.md)
+-  [Documents](Visio.Global.Documents.md)
+-  [VBE](Visio.Global.Vbe.md)
+-  [Windows](Visio.Global.Windows.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

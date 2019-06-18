@@ -79,4 +79,41 @@ When you refresh data from a data source that has changed since the last time yo
 
  **Note**  When you save a Visio document that contains one or more data recordsets, all the data in the recordset is saved in the Visio file. For recordsets that contain a large amount of data, this can create large Visio files, which can affect performance. Consequently, you should consider filtering large data sources before importing them into Visio.
 
+## Events
+
+-  [BeforeDataRecordsetDelete](Visio.DataRecordset.BeforeDataRecordsetDelete.md)
+-  [DataRecordsetChanged](Visio.DataRecordset.DataRecordsetChanged.md)
+
+## Methods
+
+-  [Delete](Visio.DataRecordset.Delete.md)
+-  [GetAllRefreshConflicts](Visio.DataRecordset.GetAllRefreshConflicts.md)
+-  [GetDataRowIDs](Visio.DataRecordset.GetDataRowIDs.md)
+-  [GetMatchingRowsForRefreshConflict](Visio.DataRecordset.GetMatchingRowsForRefreshConflict.md)
+-  [GetPrimaryKey](Visio.DataRecordset.GetPrimaryKey.md)
+-  [GetRowData](Visio.DataRecordset.GetRowData.md)
+-  [Refresh](Visio.DataRecordset.Refresh.md)
+-  [RefreshUsingXML](Visio.DataRecordset.RefreshUsingXML.md)
+-  [RemoveRefreshConflict](Visio.DataRecordset.RemoveRefreshConflict.md)
+-  [SetPrimaryKey](Visio.DataRecordset.SetPrimaryKey.md)
+
+## Properties
+
+-  [Application](Visio.DataRecordset.Application.md)
+-  [CommandString](Visio.DataRecordset.CommandString.md)
+-  [DataAsXML](Visio.DataRecordset.DataAsXML.md)
+-  [DataColumns](Visio.DataRecordset.DataColumns.md)
+-  [DataConnection](Visio.DataRecordset.DataConnection.md)
+-  [Document](Visio.DataRecordset.Document.md)
+-  [EventList](Visio.DataRecordset.EventList.md)
+-  [ID](Visio.DataRecordset.ID.md)
+-  [LinkReplaceBehavior](Visio.DataRecordset.LinkReplaceBehavior.md)
+-  [Name](Visio.DataRecordset.Name.md)
+-  [ObjectType](Visio.DataRecordset.ObjectType.md)
+-  [RefreshInterval](Visio.DataRecordset.RefreshInterval.md)
+-  [RefreshSettings](Visio.DataRecordset.RefreshSettings.md)
+-  [Stat](Visio.DataRecordset.Stat.md)
+-  [TimeRefreshed](Visio.DataRecordset.TimeRefreshed.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

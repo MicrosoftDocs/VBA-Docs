@@ -41,4 +41,16 @@ The  **DataConnection** object exposes properties that make it possible to acces
 
 Multiple  **DataRecordset** objects can share the same **DataConnection** object. When any of the data recordsets that share a data connection are refreshed, all are refreshed.
 
+## Properties
+
+-  [Application](Visio.DataConnection.Application.md)
+-  [ConnectionString](Visio.DataConnection.ConnectionString.md)
+-  [Document](Visio.DataConnection.Document.md)
+-  [FileName](Visio.DataConnection.FileName.md)
+-  [ID](Visio.DataConnection.ID.md)
+-  [ObjectType](Visio.DataConnection.ObjectType.md)
+-  [Stat](Visio.DataConnection.Stat.md)
+-  [Timeout](Visio.DataConnection.Timeout.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

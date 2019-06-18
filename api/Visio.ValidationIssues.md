@@ -23,4 +23,19 @@ To get a  **ValidationIssues** collection, use the **[Issues](Visio.Validation.I
 
 The default property of the  **ValidationIssues** collection is **[Item](Visio.ValidationIssues.Item.md)**.
 
+## Methods
+
+-  [Clear](Visio.ValidationIssues.Clear.md)
+
+## Properties
+
+-  [Application](Visio.ValidationIssues.Application.md)
+-  [Count](Visio.ValidationIssues.Count.md)
+-  [Document](Visio.ValidationIssues.Document.md)
+-  [Item](Visio.ValidationIssues.Item.md)
+-  [ItemFromID](Visio.ValidationIssues.ItemFromID.md)
+-  [ObjectType](Visio.ValidationIssues.ObjectType.md)
+-  [Stat](Visio.validationissues.stat.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

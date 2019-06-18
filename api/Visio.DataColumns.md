@@ -28,4 +28,18 @@ A  **DataRecordset** object can contain only one **DataColumns** collection. The
 
 You can use the  **[SetColumnProperties](Visio.DataColumns.SetColumnProperties.md)** method to set multiple properties of the data recordset columns you specify to the values you specify. Note that **SetColumnProperties** can set values of multiple properties for multiple columns, whereas the **[DataColumn.SetProperty](Visio.DataColumn.SetProperty.md)** method sets the value of only one property of one column at a time.
 
+## Methods
+
+-  [SetColumnProperties](Visio.DataColumns.SetColumnProperties.md)
+
+## Properties
+-  [Application](Visio.DataColumns.Application.md)
+-  [Count](Visio.DataColumns.Count.md)
+-  [DataRecordset](Visio.DataColumns.DataRecordset.md)
+-  [Document](Visio.DataColumns.Document.md)
+-  [Item](Visio.DataColumns.Item.md)
+-  [ObjectType](Visio.DataColumns.ObjectType.md)
+-  [Stat](Visio.DataColumns.Stat.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
