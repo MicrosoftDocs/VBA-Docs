@@ -16,7 +16,7 @@ Deletes the specified comment.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a 'Comment' object.
+_expression_ A variable that represents a **[Comment](Visio.Comment.md)** object.
 
 
 ## Return value

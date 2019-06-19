@@ -23,16 +23,17 @@ Adds a new object to a collection.
 
 _expression_.**Add**
 
-_expression_ A variable that represents an [AccelTables](Visio.AccelTables.md) collection.
+_expression_ A variable that represents an **[AccelTables](Visio.AccelTables.md)** object.
 
 
 ## Return value
 
-AccelTable
+**[AccelTable](Visio.AccelTable.md)**
 
 
 ## Remarks
 
 All properties of the new object are initialized to zero, so you need to set only the properties that you want to change.
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

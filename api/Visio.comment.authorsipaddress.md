@@ -16,7 +16,7 @@ Returns the SIP (Session Initiation Protocol) address of the author of the comme
 
 _expression_. `AuthorSipAddress`
 
-_expression_ A variable that represents a 'Comment' object.
+_expression_ A variable that represents a **[Comment](Visio.Comment.md)** object.
 
 
 ## Property value

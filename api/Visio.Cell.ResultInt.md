@@ -21,7 +21,7 @@ Gets the value of a cell expressed as an integer. Read-only.
 
 _expression_. `ResultInt`( `_UnitsNameOrCode_` , `_fRound_` )
 
-_expression_ A variable that represents a [Cell](Visio.Cell.md) object.
+_expression_ A variable that represents a **[Cell](Visio.Cell.md)** object.
 
 
 ## Parameters

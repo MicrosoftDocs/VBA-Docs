@@ -23,7 +23,7 @@ Determines the parent of an object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [AccelTable](Visio.AccelTable.md) object.
+_expression_ A variable that represents an **[AccelTable](Visio.AccelTable.md)** object.
 
 
 ## Return value

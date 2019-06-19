@@ -21,7 +21,7 @@ Returns the ending index of a type of run?a sequence of characters that share a 
 
 _expression_. `RunEnd`( `_RunType_` )
 
-_expression_ A variable that represents a [Characters](Visio.Characters.md) object.
+_expression_ A variable that represents a **[Characters](Visio.Characters.md)** object.
 
 
 ## Parameters

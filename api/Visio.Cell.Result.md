@@ -21,7 +21,7 @@ Gets or sets a cell's value. Read/write.
 
 _expression_. `Result`( `_UnitsNameOrCode_` )
 
-_expression_ A variable that represents a [Cell](Visio.Cell.md) object.
+_expression_ A variable that represents a **[Cell](Visio.Cell.md)** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Replaces the text represented by a  **Characters** object with a new field of th
 
 _expression_. `AddFieldEx`( `_Category_` , `_Code_` , `_Format_` , `_LangID_` , `_CalendarID_` )
 
-_expression_ A variable that represents a [Characters](Visio.Characters.md) object.
+_expression_ A variable that represents a **[Characters](Visio.Characters.md)** object.
 
 
 ## Parameters

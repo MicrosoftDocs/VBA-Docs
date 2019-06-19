@@ -21,7 +21,7 @@ Returns an object from a collection. The  **Item** property is the default prope
 
 _expression_.**Item** (_lIndex_)
 
-_expression_ A variable that represents a [AccelTables](Visio.AccelTables.md) collection.
+_expression_ A variable that represents an **[AccelTables](Visio.AccelTables.md)** object.
 
 
 ## Parameters

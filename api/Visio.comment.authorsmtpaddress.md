@@ -16,7 +16,7 @@ Returns the SMTP (Simple Mail Transfer Protocol) address of the author of the co
 
 _expression_. `AuthorSMTPAddress`
 
-_expression_ A variable that represents a 'Comment' object.
+_expression_ A variable that represents a **[Comment](Visio.Comment.md)** object.
 
 
 ## Property value
