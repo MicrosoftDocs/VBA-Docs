@@ -27492,7 +27492,7 @@
 ###### Properties
 ####### [WebPageSettings](Visio.VisSaveAsWeb.WebPageSettings.md)
 ###### [VISWEB_DISP_RES enumeration](Visio.VisSaveAsWeb.visweb-disp-res-enumeration.md)
-##### [VisWebPageSettings object](Visio.viswebpagesettings.object.visio.save.md)
+##### [VisWebPageSettings object](Visio.VisWebPageSettings.md)
 ###### Methods
 ####### [GetFormatName](Visio.GetFormatName.md)
 ####### [GetPhysicalDimensions](Visio.GetPhysicalDimensions.md)

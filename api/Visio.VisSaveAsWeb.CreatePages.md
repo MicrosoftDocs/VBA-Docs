@@ -28,9 +28,9 @@ _expression_ An expression that returns a **[VisSaveAsWeb](Visio.VisSaveAsWeb.md
 
 ## Remarks
 
-Because the **VisSaveAsWeb** object uses the settings in its **[VisWebPageSettings](overview/Visio.md)** object to create the webpage, you should call the **CreatePages** method after you make any required changes to the **VisWebPageSettings** object.
+Because the **VisSaveAsWeb** object uses the settings in its **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object to create the webpage, you should call the **CreatePages** method after you make any required changes to the **VisWebPageSettings** object.
 
-To specify which document to save as a webpage, use the **[AttachToVisioDoc](Visio.AttachToVisioDoc.md)** method. If no document is specified, Microsoft Visio saves the active document by default.
+To specify which document to save as a webpage, use the **[AttachToVisioDoc](Visio.VisSaveAsWeb.AttachToVisioDoc.md)** method. If no document is specified, Microsoft Visio saves the active document by default.
 
 
 ## Example

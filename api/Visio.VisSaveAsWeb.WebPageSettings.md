@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # VisSaveAsWeb.WebPageSettings property (Visio Save As Web)
 
-Returns a **[VisWebPageSettings](overview/Visio.md)** object that represents the webpage settings that will be used for the Save as Web Page operation. Read-only.
+Returns a **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object that represents the webpage settings that will be used for the Save as Web Page operation. Read-only.
 
 
 ## Syntax
@@ -30,10 +30,7 @@ Use the **WebPageSettings** property to get a **VisWebPageSettings** object. You
 
 This example shows the simplest way to create a webpage. Because no properties of the **VisWebPageSettings** object are set (except the **[TargetPath](Visio.TargetPath.md)** property, which is required), all the default settings apply, and the active document is saved.
 
-Before running this macro, replace  _path_ with a valid target path on your computer and replace _filename.htm_ with the file name that you want to assign to your Web page.
-
-
-
+Before running this macro, replace `path` with a valid target path on your computer and replace `filename.htm` with the file name that you want to assign to your webpage.
 
 ```vb
 Public Sub WebPageSettings_Example() 
