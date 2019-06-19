@@ -5,7 +5,7 @@ f1_keywords:
 - vis_sdr.chm51015
 ms.prod: visio
 api_name:
-- Visio.Src
+- Visio.DrawingControl.Src
 ms.assetid: 396fd4cc-c408-4fa5-7089-e5658593cae5
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -19,7 +19,7 @@ The full path, including file name, of the Microsoft Visio file used to initiali
 
 ## Syntax
 
-_expression_. `Src`
+_expression_.**Src**
 
 _expression_ A variable that represents a [DrawingControl](Visio.DrawingControl.md) object.
 

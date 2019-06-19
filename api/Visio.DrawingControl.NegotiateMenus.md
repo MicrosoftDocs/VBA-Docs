@@ -5,7 +5,7 @@ f1_keywords:
 - vis_sdr.chm52005
 ms.prod: visio
 api_name:
-- Visio.NegotiateMenus
+- Visio.DrawingControl.NegotiateMenus
 ms.assetid: 03a9ee41-1116-101f-fdbe-16b8fcd98866
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -19,7 +19,7 @@ Determines whether Microsoft Visio menus are merged with those of the host appli
 
 ## Syntax
 
-_expression_. `NegotiateMenus`
+_expression_.**NegotiateMenus**
 
 _expression_ A variable that represents a [DrawingControl](Visio.DrawingControl.md) object.
 

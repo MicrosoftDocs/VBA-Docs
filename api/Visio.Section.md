@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.Section
 ms.assetid: 2b505e97-8b65-84ff-093d-a260b2d4e59d
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
@@ -19,35 +19,28 @@ Enables you to access and manipulate a section of a shape. A section of a shape 
 
 ## Remarks
 
-The default property of a  **Section** object is **Row**.
+The default property of a **Section** object is **Row**.
 
 
 ## Events
 
-
-
-|Name|
-|:-----|
-|[CellChanged](Visio.Section.CellChanged.md)|
-|[FormulaChanged](Visio.Section.FormulaChanged.md)|
+-  [CellChanged](Visio.Section.CellChanged.md)
+-  [FormulaChanged](Visio.Section.FormulaChanged.md)
 
 ## Properties
 
+-  [Application](Visio.Section.Application.md)
+-  [ContainingMasterID](Visio.Section.ContainingMasterID.md)
+-  [ContainingPageID](Visio.Section.ContainingPageID.md)
+-  [Count](Visio.Section.Count.md)
+-  [EventList](Visio.Section.EventList.md)
+-  [Index](Visio.Section.Index.md)
+-  [ObjectType](Visio.Section.ObjectType.md)
+-  [PersistsEvents](Visio.Section.PersistsEvents.md)
+-  [Row](Visio.Section.Row.md)
+-  [Shape](Visio.Section.Shape.md)
+-  [Stat](Visio.Section.Stat.md)
+-  [Style](Visio.Section.Style.md)
 
-
-|Name|
-|:-----|
-|[Application](Visio.Section.Application.md)|
-|[ContainingMasterID](Visio.Section.ContainingMasterID.md)|
-|[ContainingPageID](Visio.Section.ContainingPageID.md)|
-|[Count](Visio.Section.Count.md)|
-|[EventList](Visio.Section.EventList.md)|
-|[Index](Visio.Section.Index.md)|
-|[ObjectType](Visio.Section.ObjectType.md)|
-|[PersistsEvents](Visio.Section.PersistsEvents.md)|
-|[Row](Visio.Section.Row.md)|
-|[Shape](Visio.Section.Shape.md)|
-|[Stat](Visio.Section.Stat.md)|
-|[Style](Visio.Section.Style.md)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

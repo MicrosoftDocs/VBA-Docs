@@ -46,7 +46,7 @@ If the shape is a group, the text returned is dependent on the value of the IsTe
 
 Objects from other applications and guides do not have a  **Text** property.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
 
 -  **Microsoft.Office.Interop.Visio.IVShape.Text**

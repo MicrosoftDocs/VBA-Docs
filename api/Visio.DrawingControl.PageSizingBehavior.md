@@ -5,7 +5,7 @@ f1_keywords:
 - vis_sdr.chm60138
 ms.prod: visio
 api_name:
-- Visio.PageSizingBehavior
+- Visio.DrawingControl.PageSizingBehavior
 ms.assetid: a16e860c-f60a-73b6-c978-7a5d70ccaa25
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -19,7 +19,7 @@ Specifies how drawing pages and shapes in the Microsoft Visio Drawing Control re
 
 ## Syntax
 
-_expression_. `PageSizingBehavior`
+_expression_.**PageSizingBehavior**
 
 _expression_ A variable that represents a [DrawingControl](Visio.DrawingControl.md) object.
 

@@ -28,4 +28,17 @@ The default property of a  **ToolbarItems** collection is **Item**.
 
 Unlike other Microsoft Visio collections, the  **ToolbarItems** collection is indexed starting with zero (0) rather than 1.
 
+## Methods
+
+-  [Add](Visio.ToolbarItems.Add.md)
+-  [AddAt](Visio.ToolbarItems.AddAt.md)
+
+## Properties
+
+-  [Count](Visio.ToolbarItems.Count.md)
+-  [Item](Visio.ToolbarItems.Item.md)
+-  [Parent](Visio.ToolbarItems.Parent.md)
+-  [ParentItem](Visio.ToolbarItems.ParentItem.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

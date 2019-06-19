@@ -51,7 +51,7 @@ You can also use the  **BeginUndoScope** and **EndUndoScope** methods to add an 
 
  **Note**  Most Visio actions are already wrapped in internal undo scopes, so add-ons running within the application do not need to call this method.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this method maps to the following types:
 
 
 -  **Microsoft.Office.Interop.Visio.IVApplication.EndUndoScope(int, bool)**

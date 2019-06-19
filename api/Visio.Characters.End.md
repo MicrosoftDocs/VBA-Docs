@@ -37,7 +37,7 @@ The  **End** property can have a value from zero (0) to the value of the **CharC
 
 The value of the  **End** property must always be greater than or equal to the value of the **Begin** property. If you attempt to set the value of the **End** property to a value lower than the **Begin** property, Visio sets both the **End** and **Begin** properties to the value specified for the **End** property.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
 
 -  **Microsoft.Office.Interop.Visio.IVCharacters.End**

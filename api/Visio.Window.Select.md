@@ -62,7 +62,7 @@ If the object being operated on is a  **Selection** object, and if the **Select*
 
 If the object being operated on is a  **Window** object, and if SelectAction is not **visSubSelect**, the parent shape of SheetObject must be the same shape as that returned by the **ContainingShape** property of the **Window.Selection** object.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this method maps to the following types:
 
 
 -  **Microsoft.Office.Interop.Visio.IVWindow.Select(Microsoft.Office.Interop.Visio.Shape, short)**

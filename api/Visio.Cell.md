@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.Cell
 ms.assetid: 06ac28a6-5749-6c70-94bf-c721e217f375
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
@@ -19,11 +19,13 @@ Holds a formula that evaluates to some value.
 
 ## Remarks
 
-The default property of a  **Cell** object is **ResultIU**.
+The default property of a **Cell** object is **ResultIU**.
 
-You can get or set a cell's formula or value. A cell belongs to a  **Shape**, **Style**, or **Row** object and represents a property of the shape, style, or row. For example, the height of a shape equals the value of the shape's Height cell.
+You can get or set a cell's formula or value. A cell belongs to a **Shape**, **Style**, or **Row** object and represents a property of the shape, style, or row. For example, the height of a shape equals the value of the shape's Height cell.
 
-A program can control a shape's appearance and behavior by working with the formulas in the shape's cells. You can visually inspect most of a shape's cells by opening the shape's ShapeSheet window. Use the  **Cells** or **CellsSRC** property of a **Shape** object to retrieve a **Cell** object. To retrieve a cell in a style, use the **Cells** property of a **Style** object.
+A program can control a shape's appearance and behavior by working with the formulas in the shape's cells. You can visually inspect most of a shape's cells by opening the shape's ShapeSheet window. 
+
+Use the **[Cells](visio.shape.cells.md)** or **[CellsSRC](visio.shape.cellssrc.md)** property of a **Shape** object to retrieve a **Cell** object. To retrieve a cell in a style, use the **[Cells](visio.style.cells.md)** property of a **Style** object.
 
 
 ## Events

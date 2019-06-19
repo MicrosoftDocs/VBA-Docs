@@ -39,7 +39,7 @@ If a  **Characters** object represents the text of a shape that is a group, it w
 
 Objects from other applications and guides don't have a  **Text** property.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
 
 -  **Microsoft.Office.Interop.Visio.IVCharacters.Text**

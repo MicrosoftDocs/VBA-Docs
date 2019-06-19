@@ -42,7 +42,7 @@ To be able to work with the Save as Web Page API, you must get a reference to th
     
 3. In the  **Available References** list, select **Microsoft Visio 14.0 Save As Web Type Library** and click **OK**.
     
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
 
 -  **Microsoft.Office.Interop.Visio.IVApplication.SaveAsWebObject**

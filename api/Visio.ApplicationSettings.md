@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.ApplicationSettings
 ms.assetid: f2e24211-ecc6-e0f5-4c00-fc50f98a3505
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Represents various application settings for Microsoft Visio.
 
 ## Remarks
 
-Use the  **Settings** property of the **Application** object to get an **ApplicationSettings** object, which you can then use to set various application properties corresponding to those in the **Options** dialog box (click the **File** tab, and then click **Options**) and the  **Snap & Glue** dialog box (on the **View** tab, click the **Visual Aids** arrow).
+Use the **[Settings](visio.application.settings.md)** property of the **Application** object to get an **ApplicationSettings** object, which you can then use to set various application properties corresponding to those in the **Options** dialog box (**File** tab > **Options**) and the **Snap & Glue** dialog box (**View** tab > **Visual Aids** arrow).
 
-The  **ApplicationSettings** object has no default property.
+The **ApplicationSettings** object has no default property.
 
 ## Methods
 

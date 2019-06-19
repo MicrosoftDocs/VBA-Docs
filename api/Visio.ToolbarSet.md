@@ -19,4 +19,16 @@ Represents the set of toolbars for a Microsoft Visio window context.
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
+## Methods
+
+-  [Delete](Visio.ToolbarSet.Delete.md)
+
+## Properties
+
+-  [Caption](Visio.ToolbarSet.Caption.md)
+-  [Parent](Visio.ToolbarSet.Parent.md)
+-  [SetID](Visio.ToolbarSet.SetID.md)
+-  [Toolbars](Visio.ToolbarSet.Toolbars.md)
+
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -51,7 +51,7 @@ You can use the obtained  **HWND** in Windows API calls.
 
  **Note**  Calls to the  **WindowHandle** property (now hidden) are directed to the **WindowHandle32** property.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
 
 -  **Microsoft.Office.Interop.Visio.IVApplication.WindowHandle**

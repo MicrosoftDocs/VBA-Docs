@@ -35,7 +35,7 @@ The active window can be one of the following window types: Drawing, Stencil, Sh
 
 If a window in an instance of Microsoft Visio is not active, the  **ActiveWindow** property returns **Nothing**.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
 
 -  **Microsoft.Office.Interop.Visio.IVApplication.ActiveWindow**
