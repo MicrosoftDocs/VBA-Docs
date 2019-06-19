@@ -1,5 +1,5 @@
 ---
-title: Persisting Save as Web Page Settings
+title: Persisting Save as Web Page settings
 ms.prod: visio
 ms.assetid: 3646a841-f99c-2906-856b-0fd5a642d499
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Persisting Save as Web Page Settings
+# Persisting Save as Web Page settings
 
 When a document is saved as a webpage with settings other than the default values described in the Save as Web Page API reference topics, selected settings are stored in the registry. These settings become the new default values until the properties are explicitly reset.
 

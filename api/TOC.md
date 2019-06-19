@@ -27478,19 +27478,20 @@
 ### Visio Save as Web reference
 #### [Overview](overview/Visio/visio-save-as-web-reference.md)
 #### Concepts
-##### [Overview](Visio.concepts.visio.save.md)
-##### [About the Save as Web Page API](Visio.about.the.save.as.web.md)
-##### [Persist Save as Web Page settings](Visio.persisting.save.as.web.md)
-##### [Run Save as Web Page from the command line](Visio.running.save.as.web.page.from.the.md)
-##### [Use the Save as Web Page Object Model from Visual Basic example](Visio.using.the.save.as.web.page.object.model.from.visual.basic.md)
+##### [Overview](Visio.VisSaveAsWeb.ConceptsOverview.md)
+##### [About the Save as Web Page API](Visio.VisSaveAsWeb.AboutSaveAsWebPageAPI.md)
+##### [Persist Save as Web Page settings](Visio.VisSaveAsWeb.PersistSaveAsWebPageSettings.md)
+##### [Run Save as Web Page from the command line](Visio.VisSaveAsWeb.RunSaveAsWebPageFromCommandLine.md)
+##### [Use the Save as Web Page Object Model from Visual Basic example](Visio.VisSaveAsWeb.UseSaveAsWebObjectModelVBExample.md)
 #### Objects
-##### [Overview](Visio.objects.visio.save.md)
-##### [VisSaveAsWeb object](Visio.vissaveasweb.object.visio.save.md)
+##### [Overview](Visio.VisSaveAsWeb.ObjectModelOverview.md)
+##### [VisSaveAsWeb object](Visio.VisSaveAsWeb.md)
 ###### Methods
-####### [AttachToVisioDoc](Visio.AttachToVisioDoc.md)
-####### [CreatePages](Visio.CreatePages.md)
+####### [AttachToVisioDoc](Visio.VisSaveAsWeb.AttachToVisioDoc.md)
+####### [CreatePages](Visio.VisSaveAsWeb.CreatePages.md)
 ###### Properties
-####### [WebPageSettings](Visio.WebPageSettings.md)
+####### [WebPageSettings](Visio.VisSaveAsWeb.WebPageSettings.md)
+###### [VISWEB_DISP_RES enumeration](Visio.VisSaveAsWeb.visweb-disp-res-enumeration.md)
 ##### [VisWebPageSettings object](Visio.viswebpagesettings.object.visio.save.md)
 ###### Methods
 ####### [GetFormatName](Visio.GetFormatName.md)
@@ -27518,8 +27519,6 @@
 ####### [Stylesheet](Visio.Stylesheet.md)
 ####### [TargetPath](Visio.TargetPath.md)
 ####### [ThemeName](Visio.ThemeName.md)
-##### [Enumerations](Visio.enumerations.visio.save.md)
-###### [VISWEB_DISP_RES](Visio.visweb_disp_res.enumeration.visio.save.md)
 ### Visio Viewer reference
 #### [Overview](overview/Visio/visio-viewer-reference.md)
 #### [Programming Visio Viewer](Visio.about.programming.md)

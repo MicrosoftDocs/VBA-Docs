@@ -12,7 +12,7 @@ localization_priority: Normal
 Contains the webpage property settings and methods used when a Visio drawing is saved as a webpage. 
 
 
-## Remarks
+## Remarks 
 
 The **VisSaveAsWeb** object contains the methods and property settings that are used when a selected Visio drawing is saved as a webpage. The webpage project includes the following files:
 
@@ -52,12 +52,12 @@ They can be organized as flat files or in a subfolder that has the same name as 
 
 ## Methods
 
-- [AttachToVisioDoc](Visio.AttachToVisioDoc.md)
-- [CreatePages](Visio.CreatePages.md)
+- [AttachToVisioDoc](Visio.VisSaveAsWeb.AttachToVisioDoc.md)
+- [CreatePages](Visio.VisSaveAsWeb.CreatePages.md)
 
 ## Properties
 
-- [WebPageSettings](Visio.WebPageSettings.md)
+- [WebPageSettings](Visio.VisSaveAsWeb.WebPageSettings.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
