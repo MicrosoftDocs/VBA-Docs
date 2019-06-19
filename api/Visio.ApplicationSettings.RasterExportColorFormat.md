@@ -5,7 +5,7 @@ f1_keywords:
 - vis_sdr.chm16262535
 ms.prod: visio
 api_name:
-- Visio.RasterExportColorFormat
+- Visio.ApplicationSettings.RasterExportColorFormat
 ms.assetid: 8306b2c1-d0a0-41ae-16de-0deb4d881604
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -19,9 +19,9 @@ Determines the color format that is applied to the exported image when you call 
 
 ## Syntax
 
-_expression_. `RasterExportColorFormat`
+_expression_.**RasterExportColorFormat**
 
- _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
+ _expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 
 
 ## Return value

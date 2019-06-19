@@ -21,7 +21,7 @@ Indicates whether ShapeSheet formula AutoComplete is enabled. Read/write.
 
 _expression_. `EnableFormulaAutoComplete`
 
-_expression_ A variable that represents an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
+_expression_ A variable that represents an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 
 
 ## Return value

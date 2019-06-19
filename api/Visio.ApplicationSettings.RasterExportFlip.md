@@ -5,7 +5,7 @@ f1_keywords:
 - vis_sdr.chm16262550
 ms.prod: visio
 api_name:
-- Visio.RasterExportFlip
+- Visio.ApplicationSettings.RasterExportFlip
 ms.assetid: 1aa94fd4-7d2e-a2db-3291-c86ac4e22573
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -19,9 +19,9 @@ Determines the flip that is applied to the exported image when you call the  **E
 
 ## Syntax
 
-_expression_. `RasterExportFlip`
+_expression_.**RasterExportFlip**
 
- _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
+ _expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 
 
 ## Return value

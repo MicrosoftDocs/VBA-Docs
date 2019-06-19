@@ -5,7 +5,7 @@ f1_keywords:
 - vis_sdr.chm16262565
 ms.prod: visio
 api_name:
-- Visio.RasterExportUseTransparencyColor
+- Visio.ApplicationSettings.RasterExportUseTransparencyColor
 ms.assetid: 1fd93b1b-8b35-a82a-17f5-0fa2ffa819a7
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -19,9 +19,9 @@ Determines whether Microsoft Visio applies, to the exported image, the transpare
 
 ## Syntax
 
-_expression_. `RasterExportUseTransparencyColor`
+_expression_.**RasterExportUseTransparencyColor**
 
- _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
+_expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 
 
 ## Return value

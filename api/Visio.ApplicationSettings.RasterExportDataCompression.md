@@ -5,7 +5,7 @@ f1_keywords:
 - vis_sdr.chm16262525
 ms.prod: visio
 api_name:
-- Visio.RasterExportDataCompression
+- Visio.ApplicationSettings.RasterExportDataCompression
 ms.assetid: cec938db-1368-7c05-a264-b69ae334a249
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -19,9 +19,9 @@ Determines the data compression algorithm that is applied to the exported image 
 
 ## Syntax
 
-_expression_. `RasterExportDataCompression`
+_expression_.**RasterExportDataCompression**
 
- _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
+ _expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 
 
 ## Return value

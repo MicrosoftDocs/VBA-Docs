@@ -16,11 +16,10 @@ localization_priority: Normal
 
 Represents an entire menu set used by a Microsoft Visio window context.
 
+> [!NOTE] 
+> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 ## Remarks
-
-> [!NOTE] 
-> Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 A shortcut menu (which appears when you click the right mouse button) is represented by a **MenuSet** object that has a single untitled **Menu** object in its **Menus** collection, which contains the contents of the shortcut menu in its **MenuItems** collection.
 

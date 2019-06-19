@@ -18,7 +18,7 @@ Occurs just before a document is saved by using the  **Save As** command.
 
 Private Sub  _expression_ _'BeforeDocumentSaveAs'(**_ByVal doc As [IVDOCUMENT]_**)
 
-_expression_ A variable that represents an [Application](Visio.Application.md) object.
+_expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 
 
 ## Parameters

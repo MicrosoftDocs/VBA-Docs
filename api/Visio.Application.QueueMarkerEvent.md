@@ -21,7 +21,7 @@ Queues a  **MarkerEvent** event that fires after all other queued events.
 
 _expression_. `QueueMarkerEvent`( `_ContextString_` )
 
-_expression_ A variable that represents an [Application](Visio.Application.md) object.
+_expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 
 
 ## Parameters

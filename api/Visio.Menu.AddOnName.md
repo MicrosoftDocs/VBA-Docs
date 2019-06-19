@@ -32,7 +32,8 @@ String
 ## Remarks
 
 
- **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
+> [!NOTE] 
+> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 Assuming that the name of the add-on in the  **Addons** collection is _string_ , if the project of the currently active document (or another project if it is referenced) does not have a procedure named _string_ , or if the arguments passed in _string_ do not match those specified in the procedure, Microsoft Visio runs the add-on named _string_. If no add-on named _string_ can be found, Visio does nothing and reports no error. (You can use the **TraceFlags** property to monitor the procedures and add-ons that Visio attempts to run.)
 

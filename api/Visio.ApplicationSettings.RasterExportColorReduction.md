@@ -5,7 +5,7 @@ f1_keywords:
 - vis_sdr.chm16262530
 ms.prod: visio
 api_name:
-- Visio.RasterExportColorReduction
+- Visio.ApplicationSettings.RasterExportColorReduction
 ms.assetid: 7897f3aa-d7d1-4dcc-d4f1-9c38771c0122
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -19,9 +19,9 @@ Determines the color reduction that is applied to the exported image when you ca
 
 ## Syntax
 
-_expression_. `RasterExportColorReduction`
+_expression_.**RasterExportColorReduction**
 
- _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
+ _expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 
 
 ## Return value

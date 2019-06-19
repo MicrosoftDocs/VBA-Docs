@@ -21,7 +21,7 @@ Gets or sets the paths where Microsoft Visio looks for third-party or user add-o
 
 _expression_. `AddonPaths`
 
-_expression_ A variable that represents an [Application](Visio.Application.md) object.
+_expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 
 
 ## Return value

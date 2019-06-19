@@ -21,7 +21,7 @@ Gets additional information associated with an event, if any exists. Read-only.
 
 _expression_. `EventInfo`( `_eventSeqNum_` )
 
-_expression_ A variable that represents an [Application](Visio.Application.md) object.
+_expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 
 
 ## Parameters

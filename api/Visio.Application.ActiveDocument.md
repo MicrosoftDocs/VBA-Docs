@@ -21,7 +21,7 @@ Returns the active  **Document** object, which is the document shown in the acti
 
 _expression_. `ActiveDocument`
 
-_expression_ A variable that represents an [Application](Visio.Application.md) object.
+_expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 
 
 ## Return value

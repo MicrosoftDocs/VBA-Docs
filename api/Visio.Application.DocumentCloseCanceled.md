@@ -18,7 +18,7 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 
 Private Sub  _expression_ _'DocumentCloseCanceled'(**_ByVal doc As [IVDOCUMENT]_**)
 
-_expression_ A variable that represents an [Application](Visio.Application.md) object.
+_expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 
 
 ## Parameters

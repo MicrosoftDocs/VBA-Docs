@@ -21,7 +21,7 @@ Determines whether display of smart tags in Microsoft Visio is enabled. Read/wri
 
 _expression_. `ShowSmartTags`
 
-_expression_ A variable that represents an [ApplicationSettings](Visio.ApplicationSettings.md) object.
+_expression_ A variable that represents an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Gets or sets whether to apply themes to new shapes when they are added to the dr
 
 _expression_. `ApplyThemesOnShapeAdd`
 
- _expression_ An expression that returns a [ApplicationSettings](Visio.ApplicationSettings.md) object.
+ _expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 
 
 ## Return value

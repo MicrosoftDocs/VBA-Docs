@@ -21,7 +21,7 @@ Determines if warning messages appear when the user attempts to open files in XM
 
 _expression_. `ShowFileOpenWarnings`
 
-_expression_ A variable that represents an [ApplicationSettings](Visio.ApplicationSettings.md) object.
+_expression_ A variable that represents an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 
 
 ## Return value

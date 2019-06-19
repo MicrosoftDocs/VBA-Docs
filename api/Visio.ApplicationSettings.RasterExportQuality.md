@@ -5,7 +5,7 @@ f1_keywords:
 - vis_sdr.chm16262570
 ms.prod: visio
 api_name:
-- Visio.RasterExportQuality
+- Visio.ApplicationSettings.RasterExportQuality
 ms.assetid: 6864bbfd-bb2d-721f-4146-f66974318929
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -19,9 +19,9 @@ Determines the export quality that is applied to the exported image when you cal
 
 ## Syntax
 
-_expression_. `RasterExportQuality`
+_expression_.**RasterExportQuality**
 
- _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
+ _expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 
 
 ## Return value

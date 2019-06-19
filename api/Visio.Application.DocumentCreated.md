@@ -18,7 +18,7 @@ Occurs after a document is created.
 
 Private Sub  _expression_ _'DocumentCreated'(**_ByVal doc As [IVDOCUMENT]_**)
 
-_expression_ A variable that represents an [Application](Visio.Application.md) object.
+_expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 
 
 ## Parameters

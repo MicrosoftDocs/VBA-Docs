@@ -5,7 +5,7 @@ f1_keywords:
 - vis_sdr.chm16262555
 ms.prod: visio
 api_name:
-- Visio.RasterExportBackgroundColor
+- Visio.ApplicationSettings.RasterExportBackgroundColor
 ms.assetid: 25591439-b332-af75-dec0-562cd261a453
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -19,9 +19,9 @@ Determines the background color that is applied to the exported image when you c
 
 ## Syntax
 
-_expression_. `RasterExportBackgroundColor`
+_expression_.**RasterExportBackgroundColor**
 
- _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
+ _expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 
 
 ## Return value

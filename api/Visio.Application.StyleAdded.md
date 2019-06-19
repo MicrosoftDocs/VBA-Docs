@@ -18,7 +18,7 @@ Occurs after a new style is added to a document.
 
 Private Sub  _expression_ _'StyleAdded'(**_ByVal Style As [IVSTYLE]_**)
 
-_expression_ A variable that represents an [Application](Visio.Application.md) object.
+_expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 
 
 ## Parameters

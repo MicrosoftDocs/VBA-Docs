@@ -18,7 +18,7 @@ Occurs after the application empties its message queue.
 
 Private Sub  _expression_ _'VisioIsIdle'(**_ByVal app As [IVAPPLICATION]_**)
 
-_expression_ A variable that represents an [Application](Visio.Application.md) object.
+_expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 
 
 ## Parameters

@@ -5,7 +5,7 @@ f1_keywords:
 - vis_sdr.chm16262545
 ms.prod: visio
 api_name:
-- Visio.RasterExportRotation
+- Visio.ApplicationSettings.RasterExportRotation
 ms.assetid: 660b22ff-11b6-bfaf-1949-18e5e9c57d64
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -19,9 +19,9 @@ Determines the rotation that is applied to the exported image when you call the 
 
 ## Syntax
 
-_expression_. `RasterExportRotation`
+_expression_.**RasterExportRotation**
 
- _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
+ _expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 
 
 ## Return value
