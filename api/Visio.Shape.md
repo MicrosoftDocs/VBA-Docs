@@ -34,8 +34,6 @@ To retrieve **Cell** objects and **Connect** objects, use the **Cells** and **Co
 > 
 > The **[DocumentSheet](visio.document.documentsheet.md)** property of a **Document** object also returns a **Shape** object whose **Type** property returns **visTypeDoc**. It has cells that specify properties of the document.
 
-If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this object maps to the following types.
-
 
 ## Events
 

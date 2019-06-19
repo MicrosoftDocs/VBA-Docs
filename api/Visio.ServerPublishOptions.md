@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.ServerPublishOptions
 ms.assetid: 69e71212-4ca3-9fa6-6af3-8f07af540140
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Represents the settings to apply when you save a Web Drawing (as a .vdw file) to
 
 ## Remarks
 
-To get a  **ServerPublishOptions** object, you can use the **[ServerPublishOptions](Visio.Document.ServerPublishOptions.md)** property of the **[Document](Visio.Document.md)** object.
+To get a **ServerPublishOptions** object, you can use the **[ServerPublishOptions](Visio.Document.ServerPublishOptions.md)** property of the **Document** object.
 
 ## Methods
 

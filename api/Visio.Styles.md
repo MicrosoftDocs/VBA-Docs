@@ -7,21 +7,21 @@ ms.prod: visio
 api_name:
 - Visio.Styles
 ms.assetid: 327c9f05-ddb5-bf70-86bf-69eb0763512c
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
 
 # Styles object (Visio)
 
-Includes a  **Style** object for each style defined in a document.
+Includes a **[Style](Visio.Style.md)** object for each style defined in a document.
 
 
 ## Remarks
 
-To retrieve a  **Styles** collection, use the **Styles** property of a **Document** object.
+To retrieve a **Styles** collection, use the **[Styles](visio.document.styles.md)** property of a **Document** object.
 
-The default property of a  **Styles** collection is **Item**.
+The default property of a **Styles** collection is **Item**.
 
 ## Events
 

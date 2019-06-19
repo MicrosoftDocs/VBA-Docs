@@ -7,25 +7,25 @@ ms.prod: visio
 api_name:
 - Visio.Selection
 ms.assetid: e5734140-6dbe-7de8-9695-1a22fb4ac628
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
 
 # Selection object (Visio)
 
-Represents a subset of  **Shape** objects for a page or master to which an operation can be applied.
+Represents a subset of **[Shape](visio.shape.md)** objects for a page or master to which an operation can be applied.
 
 
 ## Remarks
 
-To retrieve a  **Selection** object that corresponds to the set of shapes selected in a window, use the **Selection** property of a **Window** object.
+To retrieve a **Selection** object that corresponds to the set of shapes selected in a window, use the **[Selection](visio.window.selection.md)** property of a **Window** object.
 
-The default property of a  **Selection** object is **Item**.
+The default property of a **Selection** object is **Item**.
 
-After you retrieve a  **Selection** object, you can add or remove shapes by using the **Select** method.
+After you retrieve a **Selection** object, you can add or remove shapes by using the **Select** method.
 
-By default, the items reported by a  **Selection** object do not include subselected or superselected **Shape** objects. Use the **IterationMode** property to control whether subselected and superselected **Shape** objects are reported. You can determine whether an individual item is subselected or superselected by using the **ItemStatus** property.
+By default, the items reported by a **Selection** object do not include subselected or superselected **Shape** objects. Use the **IterationMode** property to control whether subselected and superselected **Shape** objects are reported. You can determine whether an individual item is subselected or superselected by using the **ItemStatus** property.
 
 
 ## Methods

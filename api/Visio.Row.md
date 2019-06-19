@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.Row
 ms.assetid: d3956bc6-ab74-5e85-2130-cc5ccf64f664
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Enables you to access and manipulate a row in a section.
 
 ## Remarks
 
-The default property of a  **Row** object is **Cell**.
+The default property of a **Row** object is **Cell**.
 
 ## Events
 

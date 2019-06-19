@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.Section
 ms.assetid: 2b505e97-8b65-84ff-093d-a260b2d4e59d
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Enables you to access and manipulate a section of a shape. A section of a shape 
 
 ## Remarks
 
-The default property of a  **Section** object is **Row**.
+The default property of a **Section** object is **Row**.
 
 
 ## Events
