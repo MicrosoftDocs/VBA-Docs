@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: excel
 api_name:
 - Excel.CommentsThreaded
-ms.date: 05/15/2019
+ms.date: 06/21/2019
 localization_priority: Normal
 ---
 

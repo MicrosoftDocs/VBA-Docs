@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CommandBars.GetPressedMso method (Office)
 
-Returns a value indicating whether the **toggleButton** control identified by the **idMso** parameter is pressed.
+Returns a value indicating whether the **toggleButton** control identified by the _idMso_ parameter is pressed.
 
 > [!NOTE] 
 > The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
@@ -22,7 +22,7 @@ Returns a value indicating whether the **toggleButton** control identified by th
 
 ## Syntax
 
-_expression_.**GetPressedMso**(_idMso_)
+_expression_.**GetPressedMso** (_idMso_)
 
 _expression_ An expression that returns a **[CommandBars](Office.CommandBars.md)** object.
 
@@ -40,8 +40,7 @@ Boolean
 
 ## Example
 
-The following sample returns **True** when the **Bold** button is pressed.
-
+The following sample returns **True** when the **Bold** button is chosen.
 
 ```vb
 Application.CommandBars.GetPressedMso("Bold") 

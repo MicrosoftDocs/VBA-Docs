@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CommandBars.GetVisibleMso method (Office)
 
-Returns **True** if the control identified by the **idMso** parameter is visible.
+Returns **True** if the control identified by the _idMso_ parameter is visible.
 
 > [!NOTE] 
 >  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
@@ -22,7 +22,7 @@ Returns **True** if the control identified by the **idMso** parameter is visible
 
 ## Syntax
 
-_expression_.**GetVisibleMso**(_idMso_)
+_expression_.**GetVisibleMso** (_idMso_)
 
 _expression_ An expression that returns a **[CommandBars](Office.CommandBars.md)** object.
 
@@ -41,7 +41,6 @@ Boolean
 ## Example
 
 The following sample returns **True** if the **Bold** button is visible.
-
 
 ```vb
 Application.CommandBars.GetVisibleMso("Bold")
