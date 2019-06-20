@@ -227,7 +227,7 @@ Except when a user deletes a data recordset, row, or shape from the UI, all of t
 
 Every **DataRecordset** object contains a **DataColumns** collection of all the **DataColumn** objects associated with the **DataRecordset** object. These objects allow you to map data columns to cells in the Shape Data section of the ShapeSheet.
 
-The following sample shows how to get the value of the Label cell in the Shape Data section for the first column in the data recordset passed to the method and display it in the **Immediate** window. Then it sets the value and displays the new value.
+The following sample shows how to get the value of the Label cell in the Shape Data section for the first column in the data recordset passed to the method and display it in the Immediate window. Then it sets the value and displays the new value.
 
 Changing this value changes the label of the shape data item in the **Shape Data** dialog box for all shapes linked to rows in the data recordset. To get and set the Label cell value, we pass the **visDataColumnPropertyDisplayName** value from the **[VisDataColumnProperties](../../api/Visio.visdatacolumnproperties.md)** enumeration to the **[DataColumn.GetProperty](../../api/Visio.DataColumn.GetProperty.md)** and **[DataColumn.SetProperty](../../api/Visio.DataColumn.SetProperty.md)** methods.
 

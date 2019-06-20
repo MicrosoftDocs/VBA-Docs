@@ -23,11 +23,10 @@ _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 ## Remarks
 
-You can unload the current document in Visio Viewer programmatically by using the  **[Unload](Visio.Unload.md)** method.
+You can unload the current document in Visio Viewer programmatically by using the **[Unload](Visio.Viewer.Unload.md)** method.
 
 
 ## Example
-
 
 ```vb
 Private Sub vsoViewer_OnDocumentUnloaded()

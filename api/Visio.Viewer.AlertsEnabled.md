@@ -23,7 +23,7 @@ _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 ## Return value
 
- **Boolean**
+**Boolean**
 
 
 ## Remarks
@@ -34,7 +34,6 @@ The default is for warnings and alerts to appear (**True**).
 ## Example
 
 The following code shows how to determine whether alerts are enabled in Visio Viewer.
-
 
 ```vb
  Debug.Print vsoViewer.AlertsEnabled

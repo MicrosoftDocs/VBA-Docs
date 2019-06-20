@@ -16,22 +16,20 @@ Gets the count of hyperlinks associated with the shape at the specified index in
 
 ## Syntax
 
-_expression_.**HyperlinkCount**(**_ShapeIndex_**)
+_expression_.**HyperlinkCount** (_ShapeIndex_)
 
 _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|ShapeIndex|Required| **Long**|The index of the specified shape in the collection of shapes in the drawing open in Visio Viewer.|
+|_ShapeIndex_|Required| **Long**|The index of the specified shape in the collection of shapes in the drawing open in Visio Viewer.|
 
 ## Return value
 
- **Long**
+**Long**
 
 
 ## Remarks
@@ -42,7 +40,6 @@ The collection of shapes is one-based, so the index of the first shape in the co
 ## Example
 
 The following code gets the count of hyperlinks associated with the first shape in the collection of shapes in the drawing open in Visio Viewer.
-
 
 ```vb
 Debug.Print vsoViewer.HyperlinkCount(1)

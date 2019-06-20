@@ -16,20 +16,18 @@ Occurs when the view of the current page is changed in Microsoft Visio Viewer.
 
 ## Syntax
 
-_expression_.**OnViewChanged**(**_PageXAtViewCenter_**,  **_PageYAtViewCenter_**,  **_ZoomFactor_**)
+_expression_.**OnViewChanged** (_PageXAtViewCenter_, _PageYAtViewCenter_, _ZoomFactor_)
 
 _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|PageXAtViewCenter|Required| **Double**|The x-coordinate, in drawing units, of the center of the page.|
-|PageYAtViewCenter|Required| **Double**|The y-coordinate, in drawing units, of the center of the page.|
-|ZoomFactor|Required| **Double**|The factor by which the zoom (the page size) is multiplied. |
+|_PageXAtViewCenter_|Required| **Double**|The x-coordinate, in drawing units, of the center of the page.|
+|_PageYAtViewCenter_|Required| **Double**|The y-coordinate, in drawing units, of the center of the page.|
+|_ZoomFactor_|Required| **Double**|The factor by which the zoom (the page size) is multiplied. |
 
 ## Return value
 
@@ -38,15 +36,14 @@ Nothing
 
 ## Remarks
 
-The page view consists of the center point of the page, expressed in x-y page coordinates, with the origin of the coordinate system at the lower-left corner of the page; and the zoom factor, expressed as a numerical percentage, ranging from 1% to 400%.
+The page view consists of the center point of the page, expressed in x-y page coordinates, with the origin of the coordinate system at the lower-left corner of the page, and the zoom factor, expressed as a numerical percentage, ranging from 1% to 400%.
 
-You can get the current page view in Visio Viewer by using the  **[GetPageView](Visio.GetPageView.md)** method, and you can set the page view programmatically by using the **[SetPageView](Visio.SetPageView.md)** method.
+You can get the current page view in Visio Viewer by using the **[GetPageView](Visio.Viewer.GetPageView.md)** method, and you can set the page view programmatically by using the **[SetPageView](Visio.Viewer.SetPageView.md)** method.
 
 
 ## Example
 
-The following code shows how to use the  **OnViewChanged** event to display the new page-view data in the Immediate window.
-
+The following code shows how to use the **OnViewChanged** event to display the new page-view data in the Immediate window.
 
 ```vb
 Private Sub vsoViewer_OnViewChanged(ByVal PageXAtViewCenter As Double, ByVal PageYAtViewCenter As Double, ByVal ZoomFactor As Double)
@@ -57,11 +54,7 @@ Private Sub vsoViewer_OnViewChanged(ByVal PageXAtViewCenter As Double, ByVal Pag
 
     Dim dblZoomFactor As Double
 
-
-
     vsoViewer.GetPageView dblXPoint, dblYPoint, dblZoomFactor
-
-
 
     Debug.Print "New x-coordinate is:"; dblXPoint
 

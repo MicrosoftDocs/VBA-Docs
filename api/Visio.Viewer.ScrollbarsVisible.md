@@ -23,7 +23,7 @@ _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 ## Return value
 
- **Boolean**
+**Boolean**
 
 
 ## Remarks
@@ -34,7 +34,6 @@ The default is for the scroll bars to be visible (**True**).
 ## Example
 
 The following code turns off display of the scroll bars in the drawing that is open in Visio Viewer.
-
 
 ```vb
 vsoViewer.ScrollbarsVisible = False

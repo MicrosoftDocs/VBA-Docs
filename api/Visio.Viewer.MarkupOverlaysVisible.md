@@ -23,18 +23,19 @@ _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 ## Return value
 
-Boolean
+**Boolean**
 
 
 ## Remarks
 
-A markup overlay is a layer that shows all the shapes, ink shapes, and comments added to a drawing by a particular reviewer. The  **MarkupOverlaysVisible** property setting corresponds to the status of the **Show markup overlays** box on the **Markup Settings** tab of the **Properties and Settings** dialog box in the Visio Viewer user interface. If markup overlays exist in the drawing, the default is for them to be visible (**True**).
+A markup overlay is a layer that shows all the shapes, ink shapes, and comments added to a drawing by a particular reviewer. The **MarkupOverlaysVisible** property setting corresponds to the status of the **Show markup overlays** box on the **Markup Settings** tab of the **Properties and Settings** dialog box in the Visio Viewer user interface. 
+
+If markup overlays exist in the drawing, the default is for them to be visible (**True**).
 
 
 ## Example
 
 The following code shows how to turn off visibility of markup overlays in Visio Viewer.
-
 
 ```vb
 vsoViewer.MarkupOverlaysVisible = False

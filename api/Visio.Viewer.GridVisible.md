@@ -23,18 +23,17 @@ _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 ## Return value
 
- **Boolean**
+**Boolean**
 
 
 ## Remarks
 
-You can display the grid only when the page is visible (that is, when the  **PageVisible** property is set to **True**, its default setting).
+You can display the grid only when the page is visible (that is, when the **PageVisible** property is set to **True**, its default setting).
 
 
 ## Example
 
 The following code shows how to display the grid in Visio Viewer.
-
 
 ```vb
 vsoViewer.GridVisible = True

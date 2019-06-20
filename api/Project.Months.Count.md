@@ -23,7 +23,7 @@ _expression_ A variable that represents a 'Months' object.
 
 ## Examples
 
-The following example in the  **Immediate** window of the VBE returns 12, the number of months in 2012. If you set the year to 1983 or 2150, the result is "Run-time error '1101'; the argument is not valid."
+The following example in the Immediate window of the VBE returns 12, the number of months in 2012. If you set the year to 1983 or 2150, the result is "Run-time error '1101'; the argument is not valid."
 
 
 ```vb

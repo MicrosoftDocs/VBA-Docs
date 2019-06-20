@@ -23,20 +23,19 @@ _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 ## Return value
 
- **Boolean**
+**Boolean**
 
 
 ## Remarks
 
 The default is for the shortcut menu to be enabled (**True**).
 
-If the  **ContextMenuEnabled** property is set to **False**, there is no way for the user to access that menu. However, all of the commands on the menu are available on the toolbar.
+If the **ContextMenuEnabled** property is set to **False**, there is no way for the user to access that menu. However, all of the commands on the menu are available on the toolbar.
 
 
 ## Example
 
 The following code disables the shortcut menu in Visio Viewer.
-
 
 ```vb
 vsoViewer.ContextMenuEnabled = False

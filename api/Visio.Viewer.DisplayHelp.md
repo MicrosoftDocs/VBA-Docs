@@ -16,18 +16,16 @@ Displays the Help topic that has the specified ID in Microsoft Visio Viewer.
 
 ## Syntax
 
-_expression_.**DisplayHelp**(**_TopicID_**)
+_expression_.**DisplayHelp** (_TopicID_)
 
 _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|TopicID|Required| **Long**|The ID of the Help topic to display.|
+|_TopicID_|Required| **Long**|The ID of the Help topic to display.|
 
 ## Return value
 
@@ -42,7 +40,6 @@ The Help topic specified appears in the default browser.
 ## Example
 
 The following code displays the default Help topic.
-
 
 ```vb
 vsoViewer.DisplayHelp(1)

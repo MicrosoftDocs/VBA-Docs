@@ -16,22 +16,20 @@ Gets the count of shape data items (custom properties) assigned to the specified
 
 ## Syntax
 
-_expression_.**CustomPropertyCount**(**_ShapeIndex_**)
+_expression_.**CustomPropertyCount** (_ShapeIndex_)
 
 _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|ShapeIndex|Required| **Long**|The index of the shape that contains the shape data (custom properties).|
+|_ShapeIndex_|Required| **Long**|The index of the shape that contains the shape data (custom properties).|
 
 ## Return value
 
- **Long**
+**Long**
 
 
 ## Remarks
@@ -43,14 +41,12 @@ In versions of Visio prior to Microsoft Office Visio 2007, shape data items were
 
 The following code gets the count of shape data items assigned to the first shape in the collection of shapes on the current page in Visio Viewer.
 
-
 ```vb
 Dim intShapeData As Integer
 
 intShapeData = vsoViewer.CustomPropertyCount(1)
 
 Debug.Print intShapeData
-
 
 ```
 

@@ -16,38 +16,35 @@ Gets the ID of the subshape in the drawing that is open in Microsoft Visio Viewe
 
 ## Syntax
 
-_expression_.**SubShapeAtPoint**(**_X_**,  **_Y_**)
+_expression_.**SubShapeAtPoint** (_X_, _Y_)
 
 _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|X|Required| **Long**|The x-coordinate, in pixels, of the point.|
-|Y|Required| **Long**|The y-coordinate, in pixels, of the point.|
+|_X_|Required| **Long**|The x-coordinate, in pixels, of the point.|
+|_Y_|Required| **Long**|The y-coordinate, in pixels, of the point.|
 
 ## Return value
 
- **Long**
+**Long**
 
 
 ## Remarks
 
-A  _subshape_ is a shape that is a member of a group shape.
+A _subshape_ is a shape that is a member of a group shape.
 
 The origin of the coordinate system of the Visio Viewer window is the upper-left corner. The positive x-direction is to the right, and the positive y-direction is down.
 
-If there is no subshape at the specified point, the  **SubShapeAtPoint** property returns 0.
+If there is no subshape at the specified point, the **SubShapeAtPoint** property returns 0.
 
 
 ## Example
 
 The following code gets the ID of the subshape at point (200, 200) in the drawing that is open in Visio Viewer.
-
 
 ```vb
 Debug.Print vsoViewer.SubShapeAtPoint (200, 200)

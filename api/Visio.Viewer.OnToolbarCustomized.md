@@ -28,15 +28,14 @@ Nothing
 
 ## Remarks
 
-You can customize the toolbar in Visio Viewer by adding or removing buttons. To do so in the user interface, right-click in the toolbar area, and then click  **Customize**. 
+You can customize the toolbar in Visio Viewer by adding or removing buttons. To do so in the user interface, right-click in the toolbar area, and then choose **Customize**. 
 
-You can customize the toolbar programmatically by using the  **[ToolbarButtons](Visio.ToolbarButtons.md)** property. For the toolbar to be customizable, the **[ToolbarCustomizable](Visio.ToolbarCustomizable.md)** property must be set to its default value, **True**.
+You can customize the toolbar programmatically by using the **[ToolbarButtons](Visio.Viewer.ToolbarButtons.md)** property. For the toolbar to be customizable, the **[ToolbarCustomizable](Visio.Viewer.ToolbarCustomizable.md)** property must be set to its default value, **True**.
 
 
 ## Example
 
-The following code shows how to use the  **OnToolbarCustomized** event to display a message in the Immediate window when the user customizes the toolbar in Visio Viewer.
-
+The following code shows how to use the **OnToolbarCustomized** event to display a message in the Immediate window when the user customizes the toolbar in Visio Viewer.
 
 ```vb
 Private Sub vsoViewer_OnToolbarCustomized()

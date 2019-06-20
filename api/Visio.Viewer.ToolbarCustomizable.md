@@ -23,18 +23,17 @@ _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 ## Return value
 
- **Boolean**
+**Boolean**
 
 
 ## Remarks
 
-The default is for the toolbar to be customizable (**True**). When the toolbar is customizable, right-clicking the toolbar and clicking  **Customize** opens the **Customize Toolbar** dialog box.
+The default is for the toolbar to be customizable (**True**). When the toolbar is customizable, right-clicking the toolbar and choosing **Customize** opens the **Customize Toolbar** dialog box.
 
 
 ## Example
 
 The following code makes the toolbar non-customizable in Visio Viewer.
-
 
 ```vb
 vsoViewer.ToolbarCustomizable = False

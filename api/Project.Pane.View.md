@@ -28,7 +28,7 @@ _expression_ A variable that represents a [Pane](./Project.Pane.md) object.
 
 ## Example
 
-The following statement prints the name of the view in the  **Immediate** window in the VBE. For example, if the Team Planner view is active, the statement prints "Team Planner".
+The following statement prints the name of the view in the Immediate window in the VBE. For example, if the Team Planner view is active, the statement prints "Team Planner".
 
 
 ```vb

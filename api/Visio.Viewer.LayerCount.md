@@ -23,18 +23,17 @@ _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 ## Return value
 
- **Long**
+**Long**
 
 
 ## Remarks
 
-If there are no layers in the drawing, the  **LayerCount** property returns 0.
+If there are no layers in the drawing, the **LayerCount** property returns 0.
 
 
 ## Example
 
 The following code gets the count of layers in the drawing open in Visio Viewer.
-
 
 ```vb
 Debug.Print vsoViewer.LayerCount

@@ -23,18 +23,17 @@ _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 ## Return value
 
- **Boolean**
+**Boolean**
 
 
 ## Remarks
 
-The default setting for the  **DocumentLoaded** property value is **False**.
+The default setting for the **DocumentLoaded** property value is **False**.
 
 
 ## Example
 
 The following code gets a value that indicates whether a document is loaded in Visio Viewer.
-
 
 ```vb
 Debug.Print vsoViewer.DocumentLoaded

@@ -23,7 +23,7 @@ _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 ## Return value
 
- **Boolean**
+**Boolean**
 
 
 ## Remarks
@@ -34,7 +34,6 @@ The default is for the page tabs not to be visible (**False**).
 ## Example
 
 The following code makes the page tabs visible in Visio Viewer.
-
 
 ```vb
 vsoViewer.PageTabsVisible = True

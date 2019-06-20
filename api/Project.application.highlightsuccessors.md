@@ -42,7 +42,7 @@ The  **HighlightSuccessors** method corresponds to the **Successors** item in th
 
 ## Example
 
-Create a project where task 4 is a successor of task 3, and then run the following statements in the  **Immediate** window of the VBE. The **PathSuccessor** statement prints **True**.
+Create a project where task 4 is a successor of task 3, and then run the following statements in the Immediate window of the VBE. The **PathSuccessor** statement prints **True**.
 
 
 ```vb

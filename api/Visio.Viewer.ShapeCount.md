@@ -23,18 +23,17 @@ _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 ## Return value
 
- **Long**
+**Long**
 
 
 ## Remarks
 
-If there are no shapes in the drawing, the ShapeCount property returns 0.
+If there are no shapes in the drawing, the **ShapeCount** property returns 0.
 
 
 ## Example
 
 The following code gets the count of shapes in the drawing that is open in Visio Viewer. Subshapes and group shapes are both included in the count.
-
 
 ```vb
 Debug.Print vsoViewer.ShapeCount

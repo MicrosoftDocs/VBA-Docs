@@ -16,33 +16,30 @@ Gets the name of the layer at the specified index in the drawing open in Microso
 
 ## Syntax
 
-_expression_.**LayerName**(**_LayerIndex_**)
+_expression_.**LayerName** (_LayerIndex_)
 
 _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|LayerIndex|Required| **Long**|The index of the layer in the collection of layers in the drawing open in Visio Viewer.|
+|_LayerIndex_|Required| **Long**|The index of the layer in the collection of layers in the drawing open in Visio Viewer.|
 
 ## Return value
 
- **String**
+**String**
 
 
 ## Remarks
 
-The collection of layers is one-based, so the index of the first layer in the collection is 1. If there are no layers in the drawing, or if there is no layer at index position LayerIndex, the  **LayerName** property returns nothing.
+The collection of layers is one-based, so the index of the first layer in the collection is 1. If there are no layers in the drawing, or if there is no layer at index position _LayerIndex_, the **LayerName** property returns nothing.
 
 
 ## Example
 
 The following code gets the name of all the layers in the drawing open in Visio Viewer.
-
 
 ```vb
 Dim intCounter As Integer

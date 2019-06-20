@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Viewer.DisplayAbout method (Visio Viewer)
 
-Displays the  **About Microsoft Visio Viewer** dialog box in the Microsoft Visio Viewer.
+Displays the **About Microsoft Visio Viewer** dialog box in the Microsoft Visio Viewer.
 
 
 ## Syntax
@@ -28,13 +28,12 @@ Nothing
 
 ## Remarks
 
-Calling this method is equivalent to clicking the  **About Microsoft Visio Viewer** button on the toolbar in the Viewer.
+Calling this method is equivalent to choosing the **About Microsoft Visio Viewer** button on the toolbar in the Viewer.
 
 
 ## Example
 
-The following code displays the  **About Microsoft Visio Viewer** dialog box.
-
+The following code displays the **About Microsoft Visio Viewer** dialog box.
 
 ```vb
 vsoViewer.DisplayAbout

@@ -23,13 +23,12 @@ _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 ## Return value
 
- **Long**
+**Long**
 
 
 ## Example
 
-The following code displays the number of pages in the current document in the  **Immediate** window.
-
+The following code displays the number of pages in the current document in the Immediate window.
 
 ```vb
 Debug.Print vsoViewer.PageCount

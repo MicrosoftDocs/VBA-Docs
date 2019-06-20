@@ -46,7 +46,7 @@ If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](htt
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows two safe ways to get an active document (if one exists). In each case, it prints the name of the active document in the  **Immediate** window. The code gets the active document without qualification from the Visio global object, which is automatically available to VBA code that is part of the VBA project of a Visio document.
+The following Microsoft Visual Basic for Applications (VBA) macro shows two safe ways to get an active document (if one exists). In each case, it prints the name of the active document in the Immediate window. The code gets the active document without qualification from the Visio global object, which is automatically available to VBA code that is part of the VBA project of a Visio document.
 
 
 ```vb

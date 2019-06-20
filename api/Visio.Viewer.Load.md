@@ -16,27 +16,25 @@ Loads a drawing file into Microsoft Visio Viewer.
 
 ## Syntax
 
-_expression_.**Load**(**_UrlOrFilename_**)
+_expression_.**Load** (_UrlOrFileName_)
 
 _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|UrlOrFilename|Required| **String**|The full path and file name or the URL of the file to be loaded.|
+|_UrlOrFileName_|Required| **String**|The full path and file name or the URL of the file to be loaded.|
 
 ## Return value
 
-Boolean
+**Boolean**
 
 
 ## Remarks
 
-If the load succeeds, the  **Load** method returns **True**. The method returns  **False** if the load fails.
+If the load succeeds, the **Load** method returns **True**. The method returns **False** if the load fails.
 
 To produce a viable diagram in Visio Viewer, the source file loaded must be a Visio drawing file (.vsd or .vdx). The file path may be to a URL as well as to a local or networked file.
 
@@ -45,8 +43,7 @@ If the source file is a multipage document, Visio Viewer displays the page that 
 
 ## Example
 
-The following code loads a drawing named "Shapes.vsd" from the local drive into Visio Viewer and returns whether the load was successful.
-
+The following code loads a drawing named Shapes.vsd from the local drive into Visio Viewer and returns whether the load was successful.
 
 ```vb
 vsoViewer.Load "C:\Users\User\Shapes.vsd"

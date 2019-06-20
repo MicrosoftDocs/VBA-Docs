@@ -23,7 +23,7 @@ _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 ## Return value
 
- **Boolean**
+**Boolean**
 
 
 ## Remarks
@@ -34,7 +34,6 @@ The default is that the drawing page not be visible (**False**).
 ## Example
 
 The following example shows how to make the drawing page visible in Visio Viewer.
-
 
 ```vb
 vsoViewer.PageVisible = True

@@ -16,18 +16,16 @@ Occurs when the active page is changed in Microsoft Visio Viewer.
 
 ## Syntax
 
-_expression_.**OnPageChanged**(**_PageIndex_**)
+_expression_.**OnPageChanged** (_PageIndex_)
 
 _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|PageIndex|Required| **Long**|The index of the new page.|
+|_PageIndex_|Required| **Long**|The index of the new page.|
 
 ## Return value
 
@@ -38,22 +36,17 @@ Nothing
 
 The collection of pages in the Viewer is one-based, so the index of the first page in the collection is 1. 
 
-You can change the page programmatically in Visio Viewer by setting the value of the  **[CurrentPageIndex](Visio.CurrentPageIndex.md)** property.
+You can change the page programmatically in Visio Viewer by setting the value of the **[CurrentPageIndex](Visio.Viewer.CurrentPageIndex.md)** property.
 
 
 ## Example
 
-The following code shows how to use the  **OnPageChanged** event to print a message in the Immediate window stating that the page has changed and identifying the new page.
-
+The following code shows how to use the **OnPageChanged** event to print a message in the Immediate window stating that the page has changed and identifying the new page.
 
 ```vb
 Private Sub vsoViewer_OnPageChanged(ByVal PageIndex As Long)
 
-
-
     Debug.Print "Page changed to"; vsoViewer.CurrentPageIndex
-
-    
 
 End Sub
 ```

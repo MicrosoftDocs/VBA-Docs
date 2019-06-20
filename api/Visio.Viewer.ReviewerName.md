@@ -16,22 +16,20 @@ Gets the name of the specified reviewer in the drawing that is open in Microsoft
 
 ## Syntax
 
-_expression_.**ReviewerName**(**_ReviewerIndex_**)
+_expression_.**ReviewerName** (_ReviewerIndex_)
 
 _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|ReviewerIndex|Required| **Long**|The index of the reviewer in the collection of reviewers.|
+|_ReviewerIndex_|Required| **Long**|The index of the reviewer in the collection of reviewers.|
 
 ## Return value
 
-String
+**String**
 
 
 ## Remarks
@@ -43,7 +41,6 @@ The collection of reviewers is one-based, so the index of the first reviewer in 
 
 The following code gets the names of all reviewers in the drawing that is open in Visio Viewer.
 
-
 ```vb
 Dim intCounter As Integer
 
@@ -52,7 +49,6 @@ Dim intCounter As Integer
     Debug.Print Viewer1.ReviewerName(intCounter)
 
 Next intCounter
-
 
 ```
 

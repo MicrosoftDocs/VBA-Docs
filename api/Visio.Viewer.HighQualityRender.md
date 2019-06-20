@@ -23,20 +23,19 @@ _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 ## Return value
 
- **Boolean**
+**Boolean**
 
 
 ## Remarks
 
 High-quality rendering is slower but produces output that looks better.
 
-The default is for high-quality rendering to be enabled (property value set to  **True**).
+The default is for high-quality rendering to be enabled (property value set to **True**).
 
 
 ## Example
 
 The following code gets a value that indicates whether high-quality rendering is enabled in Visio Viewer.
-
 
 ```vb
 Debug.Print vsoViewer.HighQualityRender

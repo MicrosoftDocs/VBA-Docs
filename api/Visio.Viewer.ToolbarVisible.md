@@ -23,7 +23,7 @@ _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 ## Return value
 
- **Boolean**
+**Boolean**
 
 
 ## Remarks
@@ -34,7 +34,6 @@ The default is for the toolbar to be visible (**True**).
 ## Example
 
 The following code hides the toolbar in Visio Viewer.
-
 
 ```vb
 vsoViewer.ToolbarVisible = False

@@ -45,7 +45,7 @@ The  **Index** properties of different objects are used in similar ways. For an 
 
 ## Example
 
-The following command in the  **Immediate** window of the VBE prints the value 2.
+The following command in the Immediate window of the VBE prints the value 2.
 
 
 ```vb

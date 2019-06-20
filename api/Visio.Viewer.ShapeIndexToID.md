@@ -16,22 +16,20 @@ Gets the ID of the shape at the specified index position in the collection of sh
 
 ## Syntax
 
-_expression_.**ShapeIndexToID**(**_ShapeIndex_**)
+_expression_.**ShapeIndexToID** (_ShapeIndex_)
 
 _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|ShapeIndex|Required| **Long**|The index position of the shape in the collection of shapes.|
+|_ShapeIndex_|Required| **Long**|The index position of the shape in the collection of shapes.|
 
 ## Return value
 
- **Long**
+**Long**
 
 
 ## Remarks
@@ -43,7 +41,6 @@ The collection of shapes in Visio Viewer is one-based, so the first shape in the
 
 The following code gets the ID of all the shapes in the drawing that is open in Visio Viewer.
 
-
 ```vb
 Dim intCounter As Integer
 
@@ -52,7 +49,6 @@ Dim intCounter As Integer
     Debug.Print Viewer1.ShapeIndexToID(intCounter)
 
 Next intCounter
-
 
 ```
 

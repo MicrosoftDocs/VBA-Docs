@@ -23,20 +23,19 @@ _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 ## Return value
 
- **Long**
+**Long**
 
 
 ## Remarks
 
 The collection of shapes is one-based, so the index of the first shape in the collection is 1.
 
-If no shapes are selected in the drawing, the  **SelectedShapeIndex** property returns 0.
+If no shapes are selected in the drawing, the **SelectedShapeIndex** property returns 0.
 
 
 ## Example
 
-The following code iterates through the collection of shapes in the document that is open in Visio Viewer, selects each shape in turn, and then gets the value of the first shape data item (custom property) assigned to each shape. If it discovers a custom property value of "Computer 100", it displays a message box to that effect.
-
+The following code iterates through the collection of shapes in the document that is open in Visio Viewer, selects each shape in turn, and then gets the value of the first shape data item (custom property) assigned to each shape. If it discovers a custom property value of Computer 100, it displays a message box to that effect.
 
 ```vb
 Dim intSelectedShapeIndex As Integer

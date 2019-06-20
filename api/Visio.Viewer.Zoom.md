@@ -21,18 +21,17 @@ _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 ## Return value
 
- **Double**
+**Double**
 
 
 ## Remarks
 
-Possible values for the  **Zoom** property range from 1% through 400%, and also include "Page", Width", and "Last".
+Possible values for the **Zoom** property range from 1% through 400%, and also include Page, Width, and Last.
 
 
 ## Example
 
 The following code gets the percentage of zoom in the drawing that is open in Visio Viewer.
-
 
 ```vb
 Debug.Print "Zoom = "; vsoViewer.Zoom

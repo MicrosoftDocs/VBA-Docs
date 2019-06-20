@@ -23,20 +23,19 @@ _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 ## Return value
 
- **Long**
+**Long**
 
 
 ## Remarks
 
-The default value of the  **LastErrorCode** property is 0.
+The default value of the **LastErrorCode** property is 0.
 
-To determine what the error code returned by the  **LastErrorCode** property means, you can pass the code to the **[GetErrorMessage](Visio.GetErrorMessage.md)** method.
+To determine what the error code returned by the **LastErrorCode** property means, you can pass the code to the **[GetErrorMessage](Visio.Viewer.GetErrorMessage.md)** method.
 
 
 ## Example
 
 The following code gets the last error code returned by Visio Viewer.
-
 
 ```vb
 Debug.Print vsoViewer.LastErrorCode

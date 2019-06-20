@@ -16,19 +16,17 @@ Displays the shortcut menu for Microsoft Visio Viewer at the specified screen co
 
 ## Syntax
 
-_expression_.**DisplayContextMenu**(**_ScreenX_**,  **_ScreenY_**)
+_expression_.**DisplayContextMenu** (_ScreenX_, _ScreenY_)
 
 _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|ScreenX|Required| **Long**|The x-coordinate, in pixels, of the point where the menu should appear, relative to the origin of the frame of the screen.|
-|ScreenY|Required| **Long**|The y-coordinate, in pixels, of the point where the menu should appear, relative to the origin of the frame of the screen.|
+|_ScreenX_|Required| **Long**|The x-coordinate, in pixels, of the point where the menu should appear, relative to the origin of the frame of the screen.|
+|_ScreenY_|Required| **Long**|The y-coordinate, in pixels, of the point where the menu should appear, relative to the origin of the frame of the screen.|
 
 ## Return value
 
@@ -37,13 +35,12 @@ Nothing
 
 ## Remarks
 
-Use the screenX and screenY parameters to specify the coordinates of the point where you want the shortcut menu to appear, relative to the origin of the frame of the screen. The origin of the screen frame is in the upper-left corner.
+Use the _ScreenX_ and _ScreenY_ parameters to specify the coordinates of the point where you want the shortcut menu to appear, relative to the origin of the frame of the screen. The origin of the screen frame is in the upper-left corner.
 
 
 ## Example
 
 The following code specifies that the shortcut menu appear at screen coordinates (300, 300).
-
 
 ```vb
 vsoViewer.DisplayContextMenu(300,300)

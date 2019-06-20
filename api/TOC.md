@@ -27521,7 +27521,7 @@
 ####### [ThemeName](Visio.VisWebPageSettings.ThemeName.md)
 ### Visio Viewer reference
 #### [Overview](overview/Visio/visio-viewer-reference.md)
-#### [Programming Visio Viewer](Visio.about.programming.md)
+#### [Programming Visio Viewer](Visio.ViewerRef.AboutProgramming.md)
 #### Object model
 ##### [Overview](overview/Visio/object-model-visio-viewer-reference.md)
 ##### [Viewer object](Visio.Viewer.md)

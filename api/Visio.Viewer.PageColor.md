@@ -23,22 +23,21 @@ _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 ## Return value
 
- **[OLE_COLOR]**
+**OLE_COLOR**
 
 
 ## Remarks
 
-This property returns a value of data type  **OLE_COLOR** that represents the color of the page in Visio Viewer. The **OLE_COLOR** data type is used for properties that return colors.
+This property returns a value of data type **OLE_COLOR** that represents the color of the page in Visio Viewer. The **OLE_COLOR** data type is used for properties that return colors.
 
-Valid hexadecimal values for an  **OLE_COLOR** data type in Visio Viewer are of the form _&Hbbggrr_, where  _bb_ is the blue value, _gg_ the green value, and _rr_ the red value. All three color values range between 00 and FF hexadecimal (255 decimal).
+Valid hexadecimal values for an **OLE_COLOR** data type in Visio Viewer are of the form _&Hbbggrr_, where _bb_ is the blue value, _gg_ the green value, and _rr_ the red value. All three color values range between 00 and FF hexadecimal (255 decimal).
 
-The default value of the  **PageColor** property is white (16777215).
+The default value of the **PageColor** property is white (16777215).
 
 
 ## Example
 
 The following example sets the page color to red.
-
 
 ```vb
 vsoViewer.PageColor = 225

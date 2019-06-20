@@ -42,7 +42,7 @@ The  **HighlightDrivingPredecessors** method corresponds to the **Driving Predec
 
 ## Example
 
-Create a project where task 2 is a driving predecessor of task 3, and then run the following statements in the  **Immediate** window of the VBE. The **PathDrivingPredecessor** statement prints **True**.
+Create a project where task 2 is a driving predecessor of task 3, and then run the following statements in the Immediate window of the VBE. The **PathDrivingPredecessor** statement prints **True**.
 
 
 ```vb

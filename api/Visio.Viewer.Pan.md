@@ -16,19 +16,17 @@ Moves the page by the specified coordinate values, in pixels, in Microsoft Visio
 
 ## Syntax
 
-_expression_.**Pan**(**_DeltaX_**,  **_DeltaY_**)
+_expression_.**Pan** (_DeltaX_, _DeltaY_)
 
 _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|DeltaX|Required| **Long**|The amount, in pixels, to move horizontally.|
-|DeltaY|Required| **Long**|The amount, in pixels, to move vertically.|
+|_DeltaX_|Required| **Long**|The amount, in pixels, to move horizontally.|
+|_DeltaY_|Required| **Long**|The amount, in pixels, to move vertically.|
 
 ## Return value
 
@@ -37,13 +35,12 @@ Nothing
 
 ## Remarks
 
-The values of DeltaX and DeltaY can be positive or negative.
+The values of _DeltaX_ and _DeltaY_ can be positive or negative.
 
 
 ## Example
 
 The following code moves the page 100 pixels to the right (horizontally) and 200 pixels down (vertically).
-
 
 ```vb
 vsoViewer.Pan 100, 200
