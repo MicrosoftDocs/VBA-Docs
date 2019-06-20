@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.Pan
 ms.assetid: 5cfeabcd-37fa-ade7-2fe0-b1e19259f6cd
-ms.date: 06/08/2017
+ms.date: 06/21/2019
 localization_priority: Normal
 ---
 
