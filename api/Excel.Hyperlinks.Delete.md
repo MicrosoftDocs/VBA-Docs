@@ -24,6 +24,10 @@ _expression_.**Delete**
 _expression_ A variable that represents a **[Hyperlinks](Excel.Hyperlinks.md)** object.
 
 
+## Remarks
+
+Calling the **Delete** method on the specified Hypperlinks object is equivalent to using both the **Clear Hyperlinks** and **Clear Formats** commands from the **Clear** drop-down list in the **Editing** section of the **Home** tab. Not just hyperlinks will be removed; cell fromatting will be removed also. If you only want to remove the hyperlink review the **[Range.ClearHyperlinks](Excel.Range.ClearHyperlinks.md)** method.
+
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
