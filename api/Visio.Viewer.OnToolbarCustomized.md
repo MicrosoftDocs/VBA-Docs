@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.OnToolbarCustomized
 ms.assetid: 02796238-7773-309b-a136-1ded2c09f93f
-ms.date: 06/08/2017
+ms.date: 06/21/2019
 localization_priority: Normal
 ---
 
