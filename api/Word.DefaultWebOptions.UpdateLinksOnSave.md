@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**UpdateLinksOnSave**
 
- _expression_ An expression that returns a '[DefaultWebOptions](Word.DefaultWebOptions.md)' object.
+ _expression_ An expression that returns a **[DefaultWebOptions](Word.DefaultWebOptions.md)** object.
 
 
 ## Remarks
