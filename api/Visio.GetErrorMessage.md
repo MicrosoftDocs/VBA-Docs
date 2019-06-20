@@ -18,7 +18,7 @@ Returns a string that describes the specified error message code in Microsoft Vi
 
 _expression_.**GetErrorMessage**(**_ErrorCode_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

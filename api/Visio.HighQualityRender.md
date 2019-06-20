@@ -18,7 +18,7 @@ Gets or sets a value that indicates whether high-quality rendering is enabled in
 
 _expression_.**HighQualityRender**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

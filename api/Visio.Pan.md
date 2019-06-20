@@ -18,7 +18,7 @@ Moves the page by the specified coordinate values, in pixels, in Microsoft Visio
 
 _expression_.**Pan**(**_DeltaX_**,  **_DeltaY_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

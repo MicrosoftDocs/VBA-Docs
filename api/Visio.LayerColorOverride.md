@@ -18,7 +18,7 @@ Gets or sets a value that indicates whether the color of the specified layer is 
 
 _expression_.**LayerColorOverride**(**_LayerIndex_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

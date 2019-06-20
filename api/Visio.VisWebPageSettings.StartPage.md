@@ -28,7 +28,7 @@ _expression_.**StartPage**
 
 ## Remarks
 
-The end page number is specified in the  **[EndPage](Visio.EndPage.md)** property.
+The end page number is specified in the  **[EndPage](Visio.VisWebPageSettings.EndPage.md)** property.
 
 The  **StartPage** property value corresponds to the value in the **From** box on the **General** tab of the **Save As Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the  **Save as type** list, select **Web Page (*.htm;*.html)**, and then click  **Publish**).
 

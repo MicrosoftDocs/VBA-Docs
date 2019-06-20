@@ -18,7 +18,7 @@ Gets or sets a value that indicates whether warnings and alerts appear when an e
 
 _expression_.**AlertsEnabled**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

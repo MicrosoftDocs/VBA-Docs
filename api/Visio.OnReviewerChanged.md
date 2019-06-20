@@ -18,7 +18,7 @@ Occurs when the visibility of a particular reviewer's markup (comments) is chang
 
 _expression_.**OnReviewerChanged**(**_ReviewerIndex_**,  **_ReviewerVisible_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

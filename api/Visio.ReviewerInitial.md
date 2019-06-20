@@ -18,7 +18,7 @@ Gets the initials of the specified reviewer in the drawing that is open in Micro
 
 _expression_.**ReviewerInitial**(**_ReviewerIndex_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

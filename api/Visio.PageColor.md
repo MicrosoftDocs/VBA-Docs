@@ -18,7 +18,7 @@ Gets or sets the color of the page in the current drawing that is open in Micros
 
 _expression_.**PageColor**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

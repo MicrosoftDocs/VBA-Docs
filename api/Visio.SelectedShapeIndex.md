@@ -18,7 +18,7 @@ Gets the index in the collection of shapes of the selected shape in the drawing 
 
 _expression_.**SelectedShapeIndex**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

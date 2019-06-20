@@ -18,7 +18,7 @@ Gets the color of the markup overlay associated with the specified reviewer in t
 
 _expression_.**ReviewerColor**(**_ReviewerIndex_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

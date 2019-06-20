@@ -18,7 +18,7 @@ Follows the hyperlink at the specified index in the specified shape in Microsoft
 
 _expression_.**FollowHyperlink**(**_ShapeIndex_**,  **_HyperlinkIndex_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

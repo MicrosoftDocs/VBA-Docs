@@ -18,7 +18,7 @@ localization_priority: Normal
 
 _expression_.**MajorVersionNumber**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

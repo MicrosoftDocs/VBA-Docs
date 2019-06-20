@@ -28,7 +28,7 @@ Use the **WebPageSettings** property to get a **VisWebPageSettings** object. You
 
 ## Example
 
-This example shows the simplest way to create a webpage. Because no properties of the **VisWebPageSettings** object are set (except the **[TargetPath](Visio.TargetPath.md)** property, which is required), all the default settings apply, and the active document is saved.
+This example shows the simplest way to create a webpage. Because no properties of the **VisWebPageSettings** object are set (except the **[TargetPath](Visio.VisWebPageSettings.TargetPath.md)** property, which is required), all the default settings apply, and the active document is saved.
 
 Before running this macro, replace `path` with a valid target path on your computer and replace `filename.htm` with the file name that you want to assign to your webpage.
 

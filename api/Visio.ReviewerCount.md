@@ -18,7 +18,7 @@ Gets the count of reviewers in the current document open in Microsoft Visio View
 
 _expression_.**ReviewerCount**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

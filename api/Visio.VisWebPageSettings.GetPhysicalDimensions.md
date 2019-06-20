@@ -27,7 +27,7 @@ _expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPag
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|eRes|Required| **[VISWEB_DISP_RES](Visio.visweb_disp_res.enumeration.visio.save.md)**|A screen-resolution value.|
+|eRes|Required| **[VISWEB_DISP_RES](Visio.VisSaveAsWeb.visweb-disp-res-enumeration.md)**|A screen-resolution value.|
 |pnWidth |Required| **Long**|The number of horizontal screen pixels.|
 |pnHeight |Required| **Long**|The number of vertical screen pixels.|
 

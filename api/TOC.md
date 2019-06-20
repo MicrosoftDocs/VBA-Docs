@@ -27524,7 +27524,7 @@
 #### [Programming Visio Viewer](Visio.about.programming.md)
 #### Object model
 ##### [Overview](overview/Visio/object-model-visio-viewer-reference.md)
-##### [Viewer object](Visio.viewer.object.md)
+##### [Viewer object](Visio.Viewer.md)
 ###### Events
 ####### [OnDocumentLoaded](Visio.OnDocumentLoaded.md)
 ####### [OnDocumentUnloaded](Visio.OnDocumentUnloaded.md)

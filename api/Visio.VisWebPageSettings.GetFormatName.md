@@ -39,7 +39,7 @@ _expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPag
 
 You can view the available output formats in the  **Save as Web Page** dialog box. (On the **File** menu, click **Save As Web Page**, click  **Publish**, and then click  **Advanced**).
 
-You can determine the total number of formats by examining the  **[FormatCount](Visio.FormatCount.md)** property. The formats include all those installed on the user's computer (for example, XAML, VML, JPG, GIF, PNG, and so on). To view a list of formats, see the topic for the **[ListFormats](Visio.ListFormats.md)** method.
+You can determine the total number of formats by examining the  **[FormatCount](Visio.VisWebPageSettings.FormatCount.md)** property. The formats include all those installed on the user's computer (for example, XAML, VML, JPG, GIF, PNG, and so on). To view a list of formats, see the topic for the **[ListFormats](Visio.VisWebPageSettings.ListFormats.md)** method.
 
 
 ## Example

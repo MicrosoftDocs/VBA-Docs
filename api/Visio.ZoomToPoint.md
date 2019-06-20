@@ -18,7 +18,7 @@ Resizes the drawing that is open in Microsoft Visio Viewer to the specified perc
 
 _expression_.**ZoomToPoint**(**_X_**,  **_Y_**,  **_Percentage_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

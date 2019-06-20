@@ -35,7 +35,7 @@ For more information about which settings are persisted to the registry, see  [P
 
 ## Example
 
-The following example shows how to use the  **SaveSettings** method to immediately change the default value for the **[PriFormat](Visio.PriFormat.md)** property.
+The following example shows how to use the  **SaveSettings** method to immediately change the default value for the **[PriFormat](Visio.VisWebPageSettings.PriFormat.md)** property.
 
 Before running this example, replace  _path\filename_ with a valid path and file name for the webpage project files.
 

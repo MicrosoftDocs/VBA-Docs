@@ -30,7 +30,7 @@ _expression_.**SecFormat**
 
 The secondary output format is used if the browser does not support the primary output format. For example, if the primary format is XAML and the required Silverlight browser plug-in is not installed, the webpage output uses the secondary format.
 
-The primary output format is specified by the  **[PriFormat](Visio.AltFormat.md)** property. For information about which browsers are compatible with selected formats, see the **[AltFormat](Visio.AltFormat.md)** property.
+The primary output format is specified by the  **[PriFormat](Visio.VisWebPageSettings.PriFormat.md)** property. For information about which browsers are compatible with selected formats, see the **[AltFormat](Visio.VisWebPageSettings.AltFormat.md)** property.
 
 Possible values for the  **SecFormat** property are as follows:
 

@@ -32,7 +32,7 @@ The  **AltFormat** property returns non-zero (**True**) if a secondary output fo
 
 Set the  **AltFormat** property to a non-zero value (**True**) to enable selection of a secondary output format for the webpage; otherwise, set it to zero (**False**).
 
-The  **AltFormat** property is ignored if the primary output format chosen is supported in all browsers by Microsoft Visio 2010. For more information about primary and secondary output formats, see the **[PriFormat](Visio.AltFormat.md)** and **[SecFormat](Visio.SecFormat.md)** properties.
+The  **AltFormat** property is ignored if the primary output format chosen is supported in all browsers by Microsoft Visio 2010. For more information about primary and secondary output formats, see the **[PriFormat](Visio.VisWebPageSettings.PriFormat.md)** and **[SecFormat](Visio.VisWebPageSettings.SecFormat.md)** properties.
 
 The following table shows the compatibility of several browsers with various graphic file types and features.
 

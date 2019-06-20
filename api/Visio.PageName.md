@@ -18,7 +18,7 @@ Gets the name of the specified page in the drawing that is open in Microsoft Vis
 
 _expression_.**PageName**(**_PageIndex_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

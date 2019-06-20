@@ -18,7 +18,7 @@ Gets the value of the shape data item (custom property) at the specified index p
 
 _expression_.**CustomPropertyValue**(**_ShapeIndex_**,  **_PropertyIndex_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

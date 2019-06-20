@@ -18,7 +18,7 @@ Gets or sets the transparency of the color of the layer at the specified index i
 
 _expression_.**LayerColorTrans**(**_LayerIndex_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

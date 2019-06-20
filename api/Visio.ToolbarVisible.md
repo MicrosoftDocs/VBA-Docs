@@ -18,7 +18,7 @@ Gets or sets a value that indicates whether the toolbar is visible in Microsoft 
 
 _expression_.**ToolbarVisible**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

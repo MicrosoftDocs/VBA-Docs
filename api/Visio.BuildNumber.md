@@ -18,7 +18,7 @@ Gets the build number of Microsoft Visio Viewer. Read-only.
 
 _expression_.**BuildNumber**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

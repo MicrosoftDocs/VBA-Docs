@@ -28,9 +28,9 @@ _expression_.**PriFormat**
 
 ## Remarks
 
-If you select a primary output format that is not supported by all browsers, you should also select a secondary output format for older browsers. To do this, see the  **[SecFormat](Visio.SecFormat.md)** property.
+If you select a primary output format that is not supported by all browsers, you should also select a secondary output format for older browsers. To do this, see the  **[SecFormat](Visio.VisWebPageSettings.SecFormat.md)** property.
 
-For information about which browsers are compatible with selected formats, see the  **[AltFormat](Visio.AltFormat.md)** property.
+For information about which browsers are compatible with selected formats, see the  **[AltFormat](Visio.VisWebPageSettings.AltFormat.md)** property.
 
 Possible values for the  **PriFormat** property are as follows:
 

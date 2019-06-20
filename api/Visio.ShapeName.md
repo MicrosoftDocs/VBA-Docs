@@ -18,7 +18,7 @@ Gets the name of the shape at the specified index in the collection of shapes in
 
 _expression_.**ShapeName**(**_ShapeIndex_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

@@ -18,7 +18,7 @@ Gets the number of layers in the current drawing open in Microsoft Visio Viewer.
 
 _expression_.**LayerCount**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

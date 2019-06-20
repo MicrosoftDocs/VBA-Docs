@@ -18,7 +18,7 @@ Gets the index of the specified page in the collection of pages in the drawing t
 
 _expression_.**PageIDToIndex**(**_PageID_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

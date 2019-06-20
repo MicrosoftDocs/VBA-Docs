@@ -18,7 +18,7 @@ Gets a value that indicates whether the layer at the specified index in the draw
 
 _expression_.**LayerDeleted**(**_LayerIndex_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

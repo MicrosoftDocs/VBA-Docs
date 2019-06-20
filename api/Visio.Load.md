@@ -18,7 +18,7 @@ Loads a drawing file into Microsoft Visio Viewer.
 
 _expression_.**Load**(**_UrlOrFilename_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

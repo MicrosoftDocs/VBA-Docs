@@ -18,7 +18,7 @@ Gets the ID of the specified reviewer in the drawing open in Microsoft Visio Vie
 
 _expression_.**ReviewerID**(**_ReviewerIndex_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

@@ -16,7 +16,7 @@ Gets or sets the background color of Microsoft Visio Viewer. Read/write.
 
 _expression_.**BackColor**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

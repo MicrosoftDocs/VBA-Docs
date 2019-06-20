@@ -18,7 +18,7 @@ Displays the  **About Microsoft Visio Viewer** dialog box in the Microsoft Visio
 
 _expression_.**DisplayAbout**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

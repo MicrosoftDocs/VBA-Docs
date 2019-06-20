@@ -18,7 +18,7 @@ Occurs after the current document in Microsoft Visio Viewer is unloaded.
 
 _expression_.**OnDocumentUnloaded**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Remarks

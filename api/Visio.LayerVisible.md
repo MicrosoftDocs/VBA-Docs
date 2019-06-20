@@ -18,7 +18,7 @@ Gets or sets a value that indicates whether the specified layer is visible in th
 
 _expression_.**LayerVisible**(**_LayerIndex_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

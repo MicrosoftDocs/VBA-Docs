@@ -1,5 +1,5 @@
 ---
-title: Running Save as Web Page from the Command Line
+title: Running Save as Web Page from the command line
 ms.prod: visio
 ms.assetid: 01dbf425-069f-5e11-0ace-5578c02c0b4b
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Running Save as Web Page from the Command Line
+# Running Save as Web Page from the command line
 
 The Save as Web Page feature is automatically installed with each Visio product. It is installed as a Visio add-on that has the name "SaveAsWeb."
 
@@ -45,26 +45,26 @@ The following table lists the command-line options for the Save as Web Page comm
 
 |**Option**|**Default**|**Value type**|**Method/Property name**|
 |:-----|:-----|:-----|:-----|
-|target|None. You must supply a target value or Visio will generate an error.|Text| [TargetPath](Visio.TargetPath.md)|
-|pagetitle|Same as document file name|Text| [PageTitle](Visio.PageTitle.md)|
-|prop|TRUE|Boolean| [PropControl](Visio.PropControl.md)|
-|altformat|TRUE|Boolean| [AltFormat](Visio.AltFormat.md)|
-|folder|TRUE|Boolean| [StoreInFolder](Visio.StoreInFolder.md)|
-|theme|Null|Text| [ThemeName](Visio.ThemeName.md)|
-|startpage|-1 (all pages)|Number| [StartPage](Visio.StartPage.md)|
-|endpage|-1 (all pages)|Number| [EndPage](Visio.EndPage.md)|
-|openbrowser|TRUE|Boolean| [OpenBrowser](Visio.OpenBrowser.md)|
-|screenres|1024x768|Text/Number1| [DispScreenRes](Visio.DispScreenRes.md)|
-|priformat|XAML|Text/Number1| [PriFormat](Visio.PriFormat.md)|
-|secformat|PNG|Text/Number1| [SecFormat](Visio.SecFormat.md)|
-|silent|FALSE|Boolean| [SilentMode](Visio.SilentMode.md)|
-|quiet|FALSE|Boolean| [QuietMode](Visio.QuietMode.md)|
-|stylesheet|\ _your_Visio_path\your_language_ID_\Default.css|Text| [Stylesheet](Visio.Stylesheet.md)|
-|navbar|TRUE|Boolean| [NavBar](Visio.NavBar.md)|
-|search|TRUE|Boolean| [Search](Visio.Search.md)|
-|panzoom|TRUE|Boolean| [PanAndZoom](Visio.PanAndZoom.md)|
+|target|None. You must supply a target value or Visio will generate an error.|Text| [TargetPath](Visio.VisWebPageSettings.TargetPath.md)|
+|pagetitle|Same as document file name|Text| [PageTitle](Visio.VisWebPageSettings.PageTitle.md)|
+|prop|TRUE|Boolean| [PropControl](Visio.VisWebPageSettings.PropControl.md)|
+|altformat|TRUE|Boolean| [AltFormat](Visio.VisWebPageSettings.AltFormat.md)|
+|folder|TRUE|Boolean| [StoreInFolder](Visio.VisWebPageSettings.StoreInFolder.md)|
+|theme|Null|Text| [ThemeName](Visio.VisWebPageSettings.ThemeName.md)|
+|startpage|-1 (all pages)|Number| [StartPage](Visio.VisWebPageSettings.StartPage.md)|
+|endpage|-1 (all pages)|Number| [EndPage](Visio.VisWebPageSettings.EndPage.md)|
+|openbrowser|TRUE|Boolean| [OpenBrowser](Visio.VisWebPageSettings.OpenBrowser.md)|
+|screenres|1024x768|Text/Number1| [DispScreenRes](Visio.VisWebPageSettings.DispScreenRes.md)|
+|priformat|XAML|Text/Number1| [PriFormat](Visio.VisWebPageSettings.PriFormat.md)|
+|secformat|PNG|Text/Number1| [SecFormat](Visio.VisWebPageSettings.SecFormat.md)|
+|silent|FALSE|Boolean| [SilentMode](Visio.VisWebPageSettings.SilentMode.md)|
+|quiet|FALSE|Boolean| [QuietMode](Visio.VisWebPageSettings.QuietMode.md)|
+|stylesheet|\ _your_Visio_path\your_language_ID_\Default.css|Text| [Stylesheet](Visio.VisWebPageSettings.Stylesheet.md)|
+|navbar|TRUE|Boolean| [NavBar](Visio.VisWebPageSettings.NavBar.md)|
+|search|TRUE|Boolean| [Search](Visio.VisWebPageSettings.Search.md)|
+|panzoom|TRUE|Boolean| [PanAndZoom](Visio.VisWebPageSettings.PanAndZoom.md)|
 
-1For the text/number value type, the user may specify text such as  _vml_ for the output type, or a number (for example, 1) representing the index of this output type. Each output type will have its own unique index. For **screenres**, text and number values are defined by the  [VISWEB_DISP_RES](Visio.visweb_disp_res.enumeration.visio.save.md) enumeration.
+1For the text/number value type, the user may specify text such as  _vml_ for the output type, or a number (for example, 1) representing the index of this output type. Each output type will have its own unique index. For **screenres**, text and number values are defined by the  [VISWEB_DISP_RES](Visio.VisSaveAsWeb.visweb-disp-res-enumeration.md) enumeration.
 
 
 ## Using the RUNADDONWARGS function

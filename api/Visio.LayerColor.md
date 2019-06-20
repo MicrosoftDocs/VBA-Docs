@@ -18,7 +18,7 @@ Gets or sets the color of the layer at the specified index position in the curre
 
 _expression_.**LayerColor**(**_LayerIndex_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

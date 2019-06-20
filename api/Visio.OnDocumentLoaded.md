@@ -18,7 +18,7 @@ Occurs after a document is loaded into Microsoft Visio Viewer.
 
 _expression_.**OnDocumentLoaded**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value
