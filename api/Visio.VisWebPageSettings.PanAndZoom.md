@@ -32,7 +32,7 @@ _expression_.**PanAndZoom**
 
 Set  **PanAndZoom** to a non-zero value (**True**) to display the  **Pan and Zoom** control after the drawing is exported to a webpage; otherwise, set it to zero (**False**).
 
-The  **PanAndZoom** property corresponds to the **Pan and Zoom** check box under **Publishing Options** on the **General** tab of the **Save As Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the  **Save as type** list, select **Web Page (*.htm;*.html)**, and then click  **Publish**).
+The  **PanAndZoom** property corresponds to the **Pan and Zoom** check box under **Publishing Options** on the **General** tab of the **Save As Web Page** dialog box (**BackstageButton** tab > **Save As** > **Save as type** list > **Web Page (\*.htm;\*.html)** > **Publish**).
 
 
  **Note**  The  **Pan and Zoom** control is supported for the VML output format in Microsoft Internet Explorer 5 and later. The **Pan and Zoom** control is not available in SVG, JPG, GIF, and PNG output formats.

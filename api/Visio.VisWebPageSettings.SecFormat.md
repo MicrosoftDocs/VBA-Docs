@@ -41,14 +41,14 @@ Possible values for the  **SecFormat** property are as follows:
     
 - GIF (Graphics Interchange Format)
     
-This value corresponds to the value selected in the list below the  **Provide alternate format for older browsers** check box (if it is selected) on the **Advanced** tab of the **Save as Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the  **Save as type** list, select **Web Page (*.htm;*.html)**, click  **Publish**, and then click  **Advanced**).
+This value corresponds to the value selected in the list below the  **Provide alternate format for older browsers** check box (if it is selected) on the **Advanced** tab of the **Save as Web Page** dialog box (**BackstageButton** tab > **Save As** > **Save as type** list > **Web Page (\*.htm;\*.html)** > **Publish** > **Advanced**).
 
 
 ## Example
 
 The following macro shows how to use the  **SecFormat** property to set the secondary format value to JPG for browsers that do not support the primary format of XAML (the default).
 
-Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the filename that you want to assign to your webpage.
+Before running this macro, replace `path\filename.htm` with a valid target path on your computer and the filename that you want to assign to your webpage.
 
 
 

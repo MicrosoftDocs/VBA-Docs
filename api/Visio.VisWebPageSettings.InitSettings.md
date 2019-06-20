@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.InitSettings
 ms.assetid: 11f4d234-53ab-d49c-9c1c-3c8c6ff3f9eb
-ms.date: 06/08/2017
+ms.date: 06/21/2019
 localization_priority: Normal
 ---
 
@@ -23,22 +23,19 @@ _expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPag
 
 ## Return value
 
- **Nothing**
+**Nothing**
 
 
 ## Remarks
 
-You can use the  **InitSettings** method to reinitialize the webpage settings to those values stored in the registry.
+You can use the **InitSettings** method to reinitialize the webpage settings to those values stored in the registry.
 
 
 ## Example
 
-The following example shows how to use the  **InitSettings** method to reinitialize the webpage settings to those that were saved in an earlier instance of Visio.
+The following example shows how to use the **InitSettings** method to reinitialize the webpage settings to those that were saved in an earlier instance of Visio.
 
-Before running this example, replace  _path\filename_ with a valid path and file name for the webpage project file.
-
-
-
+Before running this example, replace `path\filename` with a valid path and file name for the webpage project file.
 
 ```vb
 Public Sub InitSettings_Example() 

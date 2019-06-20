@@ -30,7 +30,7 @@ _expression_.**StartPage**
 
 The end page number is specified in the  **[EndPage](Visio.VisWebPageSettings.EndPage.md)** property.
 
-The  **StartPage** property value corresponds to the value in the **From** box on the **General** tab of the **Save As Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the  **Save as type** list, select **Web Page (*.htm;*.html)**, and then click  **Publish**).
+The  **StartPage** property value corresponds to the value in the **From** box on the **General** tab of the **Save As Web Page** dialog box (**BackstageButton** tab > **Save As** > **Save as type** list > **Web Page (\*.htm;\*.html)** > **Publish**).
 
 
 ## Example
@@ -39,7 +39,7 @@ The following Microsoft Visual Basic for Applications (VBA) macro shows how to u
 
 This macro assumes that the current Microsoft Visio drawing contains at least three pages.
 
-Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the filename that you want to assign to your webpage.
+Before running this macro, replace `path\filename.htm` with a valid target path on your computer and the filename that you want to assign to your webpage.
 
 
 

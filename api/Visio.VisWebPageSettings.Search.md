@@ -32,7 +32,7 @@ Search returns non-zero (**True**) if the  **Search Pages** control is displayed
 
 Set  **Search** to a non-zero value (**True**) to display the  **Search Pages** control after the drawing is exported to a webpage; otherwise, set it to zero (**False**). 
 
-This property corresponds to the  **Search Pages** check box under **Publishing Options** on the **General** tab of the **Save As Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the  **Save as type** list, select **Web Page (*.htm;*.html)**, and then click  **Publish**).
+This property corresponds to the  **Search Pages** check box under **Publishing Options** on the **General** tab of the **Save As Web Page** dialog box (**BackstageButton** tab > **Save As** > **Save as type** list > **Web Page (\*.htm;\*.html)** > **Publish**).
 
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio.SaveAsWeb** reference, this property maps to the following types:
 

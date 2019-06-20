@@ -28,7 +28,7 @@ _expression_.**Stylesheet**
 
 ## Remarks
 
-A stylesheet can be one provided by Visio or one that you create yourself. If you store a stylesheet that you create in the following folder, it will appear in the  **Style sheet** drop-down list on the **Advanced** tab of the **Save As Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the  **Save as type** list, select **Web Page (*.htm;*.html)**, click  **Publish**, and then click  **Advanced**): 
+A stylesheet can be one provided by Visio or one that you create yourself. If you store a stylesheet that you create in the following folder, it will appear in the  **Style sheet** drop-down list on the **Advanced** tab of the **Save As Web Page** dialog box (**BackstageButton** tab > **Save As** > **Save as type** list > **Web Page (\*.htm;\*.html)** > **Publish** > **Advanced**): 
 
 \ _your_Visio_path_\ _your_language_ID_\
 
@@ -39,7 +39,7 @@ Visio identifies stylesheets by searching through the folder named for your lang
 
 The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Stylesheet** property to assign the "Steel" stylesheet (supplied by Visio) to the webpage you are creating.
 
-Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the file name that you want to assign to your webpage. Also, replace _your_Visio_path_ and _your_language_ID_ with the path to Visio stylesheets on your computer, for example:
+Before running this macro, replace `path\filename.htm` with a valid target path on your computer and the file name that you want to assign to your webpage. Also, replace `your_Visio_path` and `your_language_ID` with the path to Visio stylesheets on your computer, for example:
 
 C:\Program Files\Microsoft Office\Visio14\1033...
 

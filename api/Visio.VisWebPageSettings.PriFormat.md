@@ -47,14 +47,14 @@ Possible values for the  **PriFormat** property are as follows:
     
 - VML (Vector Markup Language)
     
-This value corresponds to the value selected in the  **Output formats** list on the **Advanced** tab of the **Save as Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the **Save as type** list, select **Web Page (*.htm;*.html)**, click **Publish**, and then click **Advanced**).
+This value corresponds to the value selected in the  **Output formats** list on the **Advanced** tab of the **Save as Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the **Save as type** list, select **Web Page (\*.htm;\*.html)**, click **Publish**, and then click **Advanced**).
 
 
 ## Example
 
 The following macro shows how use the  **PriFormat** property to set the primary output format for the webpage to JPG.
 
-Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the filename that you want to assign to your webpage.
+Before running this macro, replace `path\filename.htm` with a valid target path on your computer and the filename that you want to assign to your webpage.
 
 
 

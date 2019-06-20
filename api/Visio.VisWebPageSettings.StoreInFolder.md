@@ -34,14 +34,14 @@ If you set the  **StoreInFolder** property to **True** (non-zero), Microsoft Vis
 
 If you set the  **StoreInFolder** property to **False** (0), Visio places all supporting files in the same folder as the .htm file.
 
-Setting the  **StoreInFolder** property to `True` is the equivalent of selecting the **Organize supporting files in a folder** check box on the **General** tab of the **Save As Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the  **Save as type** list, select **Web Page (*.htm;*.html)**, and then click  **Publish**).
+Setting the  **StoreInFolder** property to `True` is the equivalent of selecting the **Organize supporting files in a folder** check box on the **General** tab of the **Save As Web Page** dialog box (**BackstageButton** tab > **Save As** > **Save as type** list > **Web Page (\*.htm;\*.html)** > **Publish**).
 
 
 ## Example
 
 The following macro shows how to set the  **StoreInFolder** property so that a subfolder that contains all a webpage's supporting files and has the same name as the .htm file is created.
 
-Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the filename that you want to assign to your webpage.
+Before running this macro, replace `path\filename.htm` with a valid target path on your computer and the filename that you want to assign to your webpage.
 
 
 

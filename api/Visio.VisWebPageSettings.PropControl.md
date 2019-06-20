@@ -47,6 +47,6 @@ The selected behavior determines the display as follows:
 
 This behavior can also be set in the SelectMode cell in the Group Properties section of the group shape in the Visio ShapeSheet Spreadsheet.
 
-The value of the  **PropControl** property corresponds to the setting of the **Details** check box in the **Publishing options** list on the **General** tab of the **Save As Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the  **Save as type** list, select **Web Page (*.htm;*.html)**, and then click  **Publish**).
+The value of the  **PropControl** property corresponds to the setting of the **Details** check box in the **Publishing options** list on the **General** tab of the **Save As Web Page** dialog box (**BackstageButton** tab > **Save As** > **Save as type** list > **Web Page (\*.htm;\*.html)** > **Publish**).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

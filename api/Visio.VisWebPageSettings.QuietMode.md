@@ -41,7 +41,7 @@ If both the  **QuietMode** and **SilentMode** properties are set to **True**, th
 
 The following macro shows how to set the  **QuietMode** property to **True** before saving the drawing as a webpage. Setting this value to **True** prevents modal dialog boxes from appearing in the user interface—only the progress bar appears. Because the **[OpenBrowser](Visio.VisWebPageSettings.OpenBrowser.md)** property is set to **True**, the drawing opens in the browser.
 
-Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the filename that you want to assign to your webpage.
+Before running this macro, replace `path\filename.htm` with a valid target path on your computer and the filename that you want to assign to your webpage.
 
 
 
