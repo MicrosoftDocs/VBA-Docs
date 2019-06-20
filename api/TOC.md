@@ -27478,13 +27478,13 @@
 ### Visio Save as Web reference
 #### [Overview](overview/Visio/visio-save-as-web-reference.md)
 #### Concepts
-##### [Overview](Visio.VisSaveAsWeb.ConceptsOverview.md)
-##### [About the Save as Web Page API](Visio.VisSaveAsWeb.AboutSaveAsWebPageAPI.md)
-##### [Persist Save as Web Page settings](Visio.VisSaveAsWeb.PersistSaveAsWebPageSettings.md)
-##### [Run Save as Web Page from the command line](Visio.VisSaveAsWeb.RunSaveAsWebPageFromCommandLine.md)
-##### [Use the Save as Web Page Object Model from Visual Basic example](Visio.VisSaveAsWeb.UseSaveAsWebObjectModelVBExample.md)
+##### [Overview](Visio.VisSaveAsWebRef.ConceptsOverview.md)
+##### [About the Save as Web Page API](Visio.VisSaveAsWebRef.AboutSaveAsWebPageAPI.md)
+##### [Persist Save as Web Page settings](Visio.VisSaveAsWebRef.PersistSaveAsWebPageSettings.md)
+##### [Run Save as Web Page from the command line](Visio.VisSaveAsWebRef.RunSaveAsWebPageFromCommandLine.md)
+##### [Use the Save as Web Page Object Model from Visual Basic example](Visio.VisSaveAsWebRef.UseSaveAsWebObjectModelVBExample.md)
 #### Objects
-##### [Overview](Visio.VisSaveAsWeb.ObjectModelOverview.md)
+##### [Overview](Visio.VisSaveAsWebRef.ObjectModelOverview.md)
 ##### [VisSaveAsWeb object](Visio.VisSaveAsWeb.md)
 ###### Methods
 ####### [AttachToVisioDoc](Visio.VisSaveAsWeb.AttachToVisioDoc.md)

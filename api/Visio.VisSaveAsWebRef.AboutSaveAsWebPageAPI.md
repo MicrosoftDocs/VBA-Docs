@@ -34,14 +34,14 @@ Using the Save as Web Page object model, you can write code in a document's Visu
 
 To control the Save as Web Page feature from an executable that is running in its own process (outside the Visio address space), you can either use the command-line interface, as described next, or you can get a **VisSaveAsWeb** object by using the **SaveAsWebObject** property of the Visio **Application** object. 
 
-For an example of using the Save as Web Page object model in Visual Basic, see [Using the Save as Web Page object model from Visual Basic: an example](Visio.VisSaveAsWeb.UseSaveAsWebObjectModelVBExample.md). 
+For an example of using the Save as Web Page object model in Visual Basic, see [Using the Save as Web Page object model from Visual Basic: an example](Visio.VisSaveAsWebRef.UseSaveAsWebObjectModelVBExample.md). 
     
 ### Use the Save as Web Page command-line interface 
 
-You can use the command-line interface to call the SaveAsWeb add-on from an executable or from code that is running in the Visio process. Additionally, you can create formulas in the ShapeSheet window that launch the SaveAsWeb add-on without writing any code. For information about using the command-line interface to run the SaveAsWeb add-on, see [Running Save as Web Page from the command line](Visio.VisSaveAsWeb.RunSaveAsWebPageFromCommandLine.md).
+You can use the command-line interface to call the SaveAsWeb add-on from an executable or from code that is running in the Visio process. Additionally, you can create formulas in the ShapeSheet window that launch the SaveAsWeb add-on without writing any code. For information about using the command-line interface to run the SaveAsWeb add-on, see [Running Save as Web Page from the command line](Visio.VisSaveAsWebRef.RunSaveAsWebPageFromCommandLine.md).
     
 Whether you run the Save as Web Page feature from the user interface, from code, or from the command-line interface, the Save as Web Page feature stores selected customized webpage settings in the registry. This data is persisted between instances of Visio and enables users to manage default values for their own projects.
 
-For information about the data that is stored in the registry, see [Persisting Save as Web Page settings](Visio.VisSaveAsWeb.PersistSaveAsWebPageSettings.md).
+For information about the data that is stored in the registry, see [Persisting Save as Web Page settings](Visio.VisSaveAsWebRef.PersistSaveAsWebPageSettings.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
