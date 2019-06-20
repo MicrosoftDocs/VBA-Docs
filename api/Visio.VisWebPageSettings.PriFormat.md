@@ -1,5 +1,5 @@
 ---
-title: VisWebPageSettings.PriFormat Property (Visio Save As Web)
+title: VisWebPageSettings.PriFormat property (Visio Save As Web)
 ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.PriFormat
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.PriFormat Property (Visio Save As Web)
+# VisWebPageSettings.PriFormat property (Visio Save As Web)
 
 Specifies the primary output format for the webpage. Read/write.
 

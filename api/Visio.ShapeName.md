@@ -1,5 +1,5 @@
 ---
-title: Viewer.ShapeName Property (Visio Viewer)
+title: Viewer.ShapeName property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.ShapeName
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.ShapeName Property (Visio Viewer)
+# Viewer.ShapeName property (Visio Viewer)
 
 Gets the name of the shape at the specified index in the collection of shapes in the drawing that is open in Microsoft Visio Viewer. Read-only.
 

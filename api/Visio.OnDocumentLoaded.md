@@ -1,5 +1,5 @@
 ---
-title: Viewer.OnDocumentLoaded Event (Visio Viewer)
+title: Viewer.OnDocumentLoaded event (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.OnDocumentLoaded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.OnDocumentLoaded Event (Visio Viewer)
+# Viewer.OnDocumentLoaded event (Visio Viewer)
 
 Occurs after a document is loaded into Microsoft Visio Viewer.
 

@@ -1,5 +1,5 @@
 ---
-title: Viewer.SRC Property (Visio Viewer)
+title: Viewer.SRC property (Visio Viewer)
 ms.prod: visio
 ms.assetid: 1da0ff33-12d6-0102-478d-fae692678c7f
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.SRC Property (Visio Viewer)
+# Viewer.SRC property (Visio Viewer)
 
 Gets or sets the path to the source file for the drawing in Microsoft Visio Viewer. Read/write.
 

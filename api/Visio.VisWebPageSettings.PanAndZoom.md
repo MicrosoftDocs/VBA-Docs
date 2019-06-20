@@ -1,5 +1,5 @@
 ---
-title: VisWebPageSettings.PanAndZoom Property (Visio Save As Web)
+title: VisWebPageSettings.PanAndZoom property (Visio Save As Web)
 ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.PanAndZoom
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.PanAndZoom Property (Visio Save As Web)
+# VisWebPageSettings.PanAndZoom property (Visio Save As Web)
 
 Determines whether the  **Pan and Zoom** control for zooming in and out of the page is displayed in a webpage. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: VisWebPageSettings.SecFormat Property (Visio Save As Web)
+title: VisWebPageSettings.SecFormat property (Visio Save As Web)
 ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.SecFormat
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.SecFormat Property (Visio Save As Web)
+# VisWebPageSettings.SecFormat property (Visio Save As Web)
 
 Specifies the secondary output format for the webpage. Read/write.
 

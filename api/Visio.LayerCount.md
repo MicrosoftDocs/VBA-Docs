@@ -1,5 +1,5 @@
 ---
-title: Viewer.LayerCount Property (Visio Viewer)
+title: Viewer.LayerCount property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.LayerCount
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.LayerCount Property (Visio Viewer)
+# Viewer.LayerCount property (Visio Viewer)
 
 Gets the number of layers in the current drawing open in Microsoft Visio Viewer. Read-only.
 

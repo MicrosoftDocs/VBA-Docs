@@ -1,5 +1,5 @@
 ---
-title: VisWebPageSettings.StartPage Property (Visio Save As Web)
+title: VisWebPageSettings.StartPage property (Visio Save As Web)
 ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.StartPage
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.StartPage Property (Visio Save As Web)
+# VisWebPageSettings.StartPage property (Visio Save As Web)
 
 Specifies the page number of the first page in the range when you save a range of document pages as a webpage. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Viewer.HyperlinkAddress Property (Visio Viewer)
+title: Viewer.HyperlinkAddress property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.HyperlinkAddress
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.HyperlinkAddress Property (Visio Viewer)
+# Viewer.HyperlinkAddress property (Visio Viewer)
 
 Gets the address of the specified hyperlink associated with the specified shape in the drawing that is open in Microsoft Visio Viewer. Read-only.
 

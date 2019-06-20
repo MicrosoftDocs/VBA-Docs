@@ -1,5 +1,5 @@
 ---
-title: Viewer.CustomPropertyCount Property (Visio Viewer)
+title: Viewer.CustomPropertyCount property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.CustomPropertyCount
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.CustomPropertyCount Property (Visio Viewer)
+# Viewer.CustomPropertyCount property (Visio Viewer)
 
 Gets the count of shape data items (custom properties) assigned to the specified shape in Microsoft Visio Viewer. Read-only.
 

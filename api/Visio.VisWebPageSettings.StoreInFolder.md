@@ -1,5 +1,5 @@
 ---
-title: VisWebPageSettings.StoreInFolder Property (Visio Save As Web)
+title: VisWebPageSettings.StoreInFolder property (Visio Save As Web)
 ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.StoreInFolder
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.StoreInFolder Property (Visio Save As Web)
+# VisWebPageSettings.StoreInFolder property (Visio Save As Web)
 
 Determines whether supporting files for the webpage to be created are placed into a subfolder that has the same name as the root HTML file. Read/write.
 

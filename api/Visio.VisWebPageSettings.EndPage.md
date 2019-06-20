@@ -1,5 +1,5 @@
 ---
-title: VisWebPageSettings.EndPage Property (Visio Save As Web)
+title: VisWebPageSettings.EndPage property (Visio Save As Web)
 ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.EndPage
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.EndPage Property (Visio Save As Web)
+# VisWebPageSettings.EndPage property (Visio Save As Web)
 
 Specifies the page number of the last page in the range when you save a range of pages as a webpage. Read/write.
 

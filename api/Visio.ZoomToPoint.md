@@ -1,5 +1,5 @@
 ---
-title: Viewer.ZoomToPoint Method (Visio Viewer)
+title: Viewer.ZoomToPoint method (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.ZoomToPoint
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.ZoomToPoint Method (Visio Viewer)
+# Viewer.ZoomToPoint method (Visio Viewer)
 
 Resizes the drawing that is open in Microsoft Visio Viewer to the specified percentage of its previous size, and places the upper-left corner of the drawing at the specified point in the Visio Viewer window, measured in pixels in the coordinate system of the window. 
 
@@ -21,7 +21,7 @@ _expression_.**ZoomToPoint**(**_X_**,  **_Y_**,  **_Percentage_**)
 _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
-## Parameters
+## Parameters 
 
 
 

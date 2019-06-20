@@ -1,5 +1,5 @@
 ---
-title: Viewer.LayerColorTrans Property (Visio Viewer)
+title: Viewer.LayerColorTrans property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.LayerColorTrans
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.LayerColorTrans Property (Visio Viewer)
+# Viewer.LayerColorTrans property (Visio Viewer)
 
 Gets or sets the transparency of the color of the layer at the specified index in the current drawing in Microsoft Visio Viewer. Read/write.
 

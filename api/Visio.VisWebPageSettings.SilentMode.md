@@ -1,5 +1,5 @@
 ---
-title: VisWebPageSettings.SilentMode Property (Visio Save As Web)
+title: VisWebPageSettings.SilentMode property (Visio Save As Web)
 ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.SilentMode
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.SilentMode Property (Visio Save As Web)
+# VisWebPageSettings.SilentMode property (Visio Save As Web)
 
 Determines whether any component of the user interface (either that of Microsoft Visio or that of the browser) is displayed when a drawing is saved as a webpage. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Viewer.AlertsEnabled Property (Visio Viewer)
+title: Viewer.AlertsEnabled property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.AlertsEnabled
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.AlertsEnabled Property (Visio Viewer)
+# Viewer.AlertsEnabled property (Visio Viewer)
 
 Gets or sets a value that indicates whether warnings and alerts appear when an error occurs in Microsoft Visio Viewer. Read/write.
 

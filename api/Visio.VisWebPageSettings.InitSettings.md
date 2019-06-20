@@ -1,5 +1,5 @@
 ---
-title: VisWebPageSettings.InitSettings Method (Visio Save As Web)
+title: VisWebPageSettings.InitSettings method (Visio Save As Web)
 ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.InitSettings
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.InitSettings Method (Visio Save As Web)
+# VisWebPageSettings.InitSettings method (Visio Save As Web)
 
 Loads the webpage settings that were saved in the registry in an earlier instance of Microsoft Visio.
 

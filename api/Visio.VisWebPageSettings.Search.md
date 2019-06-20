@@ -1,5 +1,5 @@
 ---
-title: VisWebPageSettings.Search Property (Visio Save As Web)
+title: VisWebPageSettings.Search property (Visio Save As Web)
 ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.Search
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.Search Property (Visio Save As Web)
+# VisWebPageSettings.Search property (Visio Save As Web)
 
 Determines whether the  **Search Pages** control for searching for shapes in a drawing is displayed in a webpage. Read/write.
 

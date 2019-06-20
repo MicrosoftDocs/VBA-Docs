@@ -1,5 +1,5 @@
 ---
-title: Viewer.OnLayerChanged Event (Visio Viewer)
+title: Viewer.OnLayerChanged event (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.OnLayerChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.OnLayerChanged Event (Visio Viewer)
+# Viewer.OnLayerChanged event (Visio Viewer)
 
 Occurs when a layer is changed in the document open in Microsoft Visio Viewer.
 

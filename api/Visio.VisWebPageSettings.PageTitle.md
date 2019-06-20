@@ -1,5 +1,5 @@
 ---
-title: VisWebPageSettings.PageTitle Property (Visio Save As Web)
+title: VisWebPageSettings.PageTitle property (Visio Save As Web)
 ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.PageTitle
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.PageTitle Property (Visio Save As Web)
+# VisWebPageSettings.PageTitle property (Visio Save As Web)
 
 Specifies the name of the webpage as it appears in the browser's title bar. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: VisWebPageSettings.QuietMode Property (Visio Save As Web)
+title: VisWebPageSettings.QuietMode property (Visio Save As Web)
 ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.QuietMode
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.QuietMode Property (Visio Save As Web)
+# VisWebPageSettings.QuietMode property (Visio Save As Web)
 
 Determines whether dialog boxes are displayed in the Visio user interface when you save a drawing as a webpage. Read/write.
 

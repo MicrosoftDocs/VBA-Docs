@@ -1,5 +1,5 @@
 ---
-title: "Using the Save as Web Page Object Model from Visual Basic: An Example"
+title: "Using the Save as Web Page Object Model from Visual Basic: An example"
 ms.prod: visio
 ms.assetid: c5833ff8-45f3-ab67-3b16-09c60238965a
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Using the Save as Web Page Object Model from Visual Basic: An Example
+# Using the Save as Web Page object model from Visual Basic: An example
 
 To use the Save as Web Page API in your Visual Basic project, set a reference in your project to  **Microsoft Visio 15.0 Save As Web Type Library**.
 

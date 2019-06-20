@@ -1,5 +1,5 @@
 ---
-title: Viewer.SetPageView Method (Visio Viewer)
+title: Viewer.SetPageView method (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.SetPageView
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.SetPageView Method (Visio Viewer)
+# Viewer.SetPageView method (Visio Viewer)
 
 Sets the position and zoom factor (size) of the drawing page in Microsoft Visio Viewer.
 

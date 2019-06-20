@@ -1,5 +1,5 @@
 ---
-title: Viewer.LayerColorOverride Property (Visio Viewer)
+title: Viewer.LayerColorOverride property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.LayerColorOverride
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.LayerColorOverride Property (Visio Viewer)
+# Viewer.LayerColorOverride property (Visio Viewer)
 
 Gets or sets a value that indicates whether the color of the specified layer is reset to the default color in the current drawing in Microsoft Visio Viewer. Read/write.
 

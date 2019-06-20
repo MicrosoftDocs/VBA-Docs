@@ -1,5 +1,5 @@
 ---
-title: Viewer.DisplayContextMenu Method (Visio Viewer)
+title: Viewer.DisplayContextMenu method (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.DisplayContextMenu
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.DisplayContextMenu Method (Visio Viewer)
+# Viewer.DisplayContextMenu method (Visio Viewer)
 
 Displays the shortcut menu for Microsoft Visio Viewer at the specified screen coordinates, in pixels.
 

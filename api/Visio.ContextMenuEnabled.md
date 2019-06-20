@@ -1,5 +1,5 @@
 ---
-title: Viewer.ContextMenuEnabled Property (Visio Viewer)
+title: Viewer.ContextMenuEnabled property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.ContextMenuEnabled
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.ContextMenuEnabled Property (Visio Viewer)
+# Viewer.ContextMenuEnabled property (Visio Viewer)
 
 Gets or sets a value that indicates whether the shortcut (right-click) menu is enabled in Microsoft Visio Viewer. Read/write.
 

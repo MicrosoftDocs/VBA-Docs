@@ -1,5 +1,5 @@
 ---
-title: VisWebPageSettings.PropControl Property (Visio Save As Web)
+title: VisWebPageSettings.PropControl property (Visio Save As Web)
 ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.PropControl
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.PropControl Property (Visio Save As Web)
+# VisWebPageSettings.PropControl property (Visio Save As Web)
 
 Determines whether a shape's custom properties (shape data) are displayed in the webpage. Read/write.
 

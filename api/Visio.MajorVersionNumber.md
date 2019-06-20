@@ -1,5 +1,5 @@
 ---
-title: Viewer.MajorVersionNumber Property (Visio Viewer)
+title: Viewer.MajorVersionNumber property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.MajorVersionNumber
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.MajorVersionNumber Property (Visio Viewer)
+# Viewer.MajorVersionNumber property (Visio Viewer)
 
  Gets the major version number of Microsoft Visio Viewer. Read-only.
 

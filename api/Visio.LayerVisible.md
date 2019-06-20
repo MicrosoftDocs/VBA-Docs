@@ -1,5 +1,5 @@
 ---
-title: Viewer.LayerVisible Property (Visio Viewer)
+title: Viewer.LayerVisible property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.LayerVisible
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.LayerVisible Property (Visio Viewer)
+# Viewer.LayerVisible property (Visio Viewer)
 
 Gets or sets a value that indicates whether the specified layer is visible in the drawing open in Microsoft Visio Viewer. Read/write.
 

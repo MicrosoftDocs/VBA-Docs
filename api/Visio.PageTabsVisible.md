@@ -1,5 +1,5 @@
 ---
-title: Viewer.PageTabsVisible Property (Visio Viewer)
+title: Viewer.PageTabsVisible property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.PageTabsVisible
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.PageTabsVisible Property (Visio Viewer)
+# Viewer.PageTabsVisible property (Visio Viewer)
 
 Gets or sets a value that indicates whether page tabs are visible in Microsoft Visio Viewer. Read/write.
 

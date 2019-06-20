@@ -1,5 +1,5 @@
 ---
-title: VisWebPageSettings.Stylesheet Property (Visio Save As Web)
+title: VisWebPageSettings.Stylesheet property (Visio Save As Web)
 ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.Stylesheet
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.Stylesheet Property (Visio Save As Web)
+# VisWebPageSettings.Stylesheet property (Visio Save As Web)
 
 Specifies a cascading stylesheet (CSS) provided by Microsoft Visio, or one that you have created, that is applied to the webpage. Read/write.
 

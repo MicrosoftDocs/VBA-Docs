@@ -1,5 +1,5 @@
 ---
-title: Viewer.GetPageView Method (Visio Viewer)
+title: Viewer.GetPageView method (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.GetPageView
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.GetPageView Method (Visio Viewer)
+# Viewer.GetPageView method (Visio Viewer)
 
 Gets the position and zoom factor (size) of the drawing page in Microsoft Visio Viewer.
 

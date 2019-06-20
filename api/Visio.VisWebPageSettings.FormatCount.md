@@ -1,5 +1,5 @@
 ---
-title: VisWebPageSettings.FormatCount Property (Visio Save As Web)
+title: VisWebPageSettings.FormatCount property (Visio Save As Web)
 ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.FormatCount
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.FormatCount Property (Visio Save As Web)
+# VisWebPageSettings.FormatCount property (Visio Save As Web)
 
 Indicates the number of output formats that are installed on the user's computer. Read-only.
 

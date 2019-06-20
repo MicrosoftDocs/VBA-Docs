@@ -1,5 +1,5 @@
 ---
-title: VisWebPageSettings.DispScreenRes Property (Visio Save As Web)
+title: VisWebPageSettings.DispScreenRes property (Visio Save As Web)
 ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.DispScreenRes
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.DispScreenRes Property (Visio Save As Web)
+# VisWebPageSettings.DispScreenRes property (Visio Save As Web)
 
 Specifies the screen resolution for your webpage. Read/write.
 

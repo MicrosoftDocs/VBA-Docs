@@ -1,5 +1,5 @@
 ---
-title: Viewer.FollowHyperlink Method (Visio Viewer)
+title: Viewer.FollowHyperlink method (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.FollowHyperlink
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.FollowHyperlink Method (Visio Viewer)
+# Viewer.FollowHyperlink method (Visio Viewer)
 
 Follows the hyperlink at the specified index in the specified shape in Microsoft Visio Viewer.
 

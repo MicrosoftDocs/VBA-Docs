@@ -1,5 +1,5 @@
 ---
-title: Viewer.ParentShape Property (Visio Viewer)
+title: Viewer.ParentShape property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.ParentShape
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.ParentShape Property (Visio Viewer)
+# Viewer.ParentShape property (Visio Viewer)
 
 Gets the index number of the parent shape of the specified shape in the drawing that is open in Microsoft Visio Viewer. Read-only.
 

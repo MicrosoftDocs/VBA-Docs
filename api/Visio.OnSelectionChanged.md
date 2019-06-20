@@ -1,5 +1,5 @@
 ---
-title: Viewer.OnSelectionChanged Event (Visio Viewer)
+title: Viewer.OnSelectionChanged event (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.OnSelectionChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.OnSelectionChanged Event (Visio Viewer)
+# Viewer.OnSelectionChanged event (Visio Viewer)
 
 Occurs when the shape selection is changed in Microsoft Visio Viewer.
 

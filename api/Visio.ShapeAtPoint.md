@@ -1,5 +1,5 @@
 ---
-title: Viewer.ShapeAtPoint Property (Visio Viewer)
+title: Viewer.ShapeAtPoint property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.ShapeAtPoint
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.ShapeAtPoint Property (Visio Viewer)
+# Viewer.ShapeAtPoint property (Visio Viewer)
 
 Gets the ID of the shape in the drawing that is open in Microsoft Visio Viewer, at the specified point in the Visio Viewer window, in the coordinate system of the window, measured in pixels. Read-only.
 

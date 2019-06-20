@@ -1,5 +1,5 @@
 ---
-title: Viewer.DisplayAbout Method (Visio Viewer)
+title: Viewer.DisplayAbout method (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.DisplayAbout
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.DisplayAbout Method (Visio Viewer)
+# Viewer.DisplayAbout method (Visio Viewer)
 
 Displays the  **About Microsoft Visio Viewer** dialog box in the Microsoft Visio Viewer.
 

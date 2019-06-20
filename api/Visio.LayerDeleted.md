@@ -1,5 +1,5 @@
 ---
-title: Viewer.LayerDeleted Property (Visio Viewer)
+title: Viewer.LayerDeleted property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.LayerDeleted
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.LayerDeleted Property (Visio Viewer)
+# Viewer.LayerDeleted property (Visio Viewer)
 
 Gets a value that indicates whether the layer at the specified index in the drawing open in Microsoft Visio Viewer is deleted. Read-only.
 

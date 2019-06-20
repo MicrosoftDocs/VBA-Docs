@@ -1,5 +1,5 @@
 ---
-title: Viewer.DisplayHelp Method (Visio Viewer)
+title: Viewer.DisplayHelp method (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.DisplayHelp
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.DisplayHelp Method (Visio Viewer)
+# Viewer.DisplayHelp method (Visio Viewer)
 
 Displays the Help topic that has the specified ID in Microsoft Visio Viewer.
 

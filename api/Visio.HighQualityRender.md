@@ -1,5 +1,5 @@
 ---
-title: Viewer.HighQualityRender Property (Visio Viewer)
+title: Viewer.HighQualityRender property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.HighQualityRender
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.HighQualityRender Property (Visio Viewer)
+# Viewer.HighQualityRender property (Visio Viewer)
 
 Gets or sets a value that indicates whether high-quality rendering is enabled in Microsoft Visio Viewer. Read/write.
 

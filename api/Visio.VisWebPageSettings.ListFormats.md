@@ -1,5 +1,5 @@
 ---
-title: VisWebPageSettings.ListFormats Method (Visio Save As Web)
+title: VisWebPageSettings.ListFormats method (Visio Save As Web)
 ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.ListFormats
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.ListFormats Method (Visio Save As Web)
+# VisWebPageSettings.ListFormats method (Visio Save As Web)
 
 Displays a message box in the user interface that lists the output format types and their associated numeric IDs.
 

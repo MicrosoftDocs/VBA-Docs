@@ -1,5 +1,5 @@
 ---
-title: VisWebPageSettings.TargetPath Property (Visio Save As Web)
+title: VisWebPageSettings.TargetPath property (Visio Save As Web)
 ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.TargetPath
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.TargetPath Property (Visio Save As Web)
+# VisWebPageSettings.TargetPath property (Visio Save As Web)
 
 Specifies the path where the webpage and its supporting files are placed. Read/write.
 

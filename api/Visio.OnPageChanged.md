@@ -1,5 +1,5 @@
 ---
-title: Viewer.OnPageChanged Event (Visio Viewer)
+title: Viewer.OnPageChanged event (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.OnPageChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.OnPageChanged Event (Visio Viewer)
+# Viewer.OnPageChanged event (Visio Viewer)
 
 Occurs when the active page is changed in Microsoft Visio Viewer.
 

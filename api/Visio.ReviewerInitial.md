@@ -1,5 +1,5 @@
 ---
-title: Viewer.ReviewerInitial Property (Visio Viewer)
+title: Viewer.ReviewerInitial property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.ReviewerInitial
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.ReviewerInitial Property (Visio Viewer)
+# Viewer.ReviewerInitial property (Visio Viewer)
 
 Gets the initials of the specified reviewer in the drawing that is open in Microsoft Visio Viewer. Read-only.
 

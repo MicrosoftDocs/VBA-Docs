@@ -1,5 +1,5 @@
 ---
-title: Viewer.OnReviewerChanged Event (Visio Viewer)
+title: Viewer.OnReviewerChanged event (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.OnReviewerChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.OnReviewerChanged Event (Visio Viewer)
+# Viewer.OnReviewerChanged event (Visio Viewer)
 
 Occurs when the visibility of a particular reviewer's markup (comments) is changed in the Microsoft Visio Viewer.
 

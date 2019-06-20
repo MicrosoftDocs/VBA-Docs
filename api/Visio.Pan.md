@@ -1,5 +1,5 @@
 ---
-title: Viewer.Pan Method (Visio Viewer)
+title: Viewer.Pan method (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.Pan
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.Pan Method (Visio Viewer)
+# Viewer.Pan method (Visio Viewer)
 
 Moves the page by the specified coordinate values, in pixels, in Microsoft Visio Viewer. 
 

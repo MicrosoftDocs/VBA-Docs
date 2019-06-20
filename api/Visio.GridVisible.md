@@ -1,5 +1,5 @@
 ---
-title: Viewer.GridVisible Property (Visio Viewer)
+title: Viewer.GridVisible property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.GridVisible
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.GridVisible Property (Visio Viewer)
+# Viewer.GridVisible property (Visio Viewer)
 
 Gets or sets a value that indicates whether the page grid is visible in Microsoft Visio Viewer. Read/write.
 

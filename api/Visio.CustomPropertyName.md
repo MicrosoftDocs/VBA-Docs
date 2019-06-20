@@ -1,5 +1,5 @@
 ---
-title: Viewer.CustomPropertyName Property (Visio Viewer)
+title: Viewer.CustomPropertyName property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.CustomPropertyName
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.CustomPropertyName Property (Visio Viewer)
+# Viewer.CustomPropertyName property (Visio Viewer)
 
 Gets the name of the shape data item (custom property) at the specified index position for the specified shape in Microsoft Visio Viewer. Read-only.
 

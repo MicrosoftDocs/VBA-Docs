@@ -15,37 +15,24 @@ For example, if you do not want your files organized in a subfolder (the default
 
 This information is stored per user and is located in  **HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Visio\Solution\SaveAsWeb**.
 
-The following Web page settings are persisted when their values are explicitly set to non-default values:
+The following webpage settings are persisted when their values are explicitly set to non-default values:
 
-- altformat
-    
-- folder
-    
-- longnames
-    
-- navbar
-    
-- openbrowser
-    
-- panzoom
-    
-- priformat
-    
-- prop
-    
-- screenres
-    
-- search
-    
-- secformat
-    
-- stylesheet
-    
-- tabs
-    
+- altformat   
+- folder   
+- longnames   
+- navbar   
+- openbrowser   
+- panzoom   
+- priformat  
+- prop  
+- screenres  
+- search  
+- secformat   
+- stylesheet    
+- tabs    
 - theme
     
-For information regarding default values, see the table describing command-line parameters in [Running Save as Web Page from the command line](Visio.VisSaveAsWeb.RunSaveAsWebPageFromCommandLine.md) (the registry entries are the same as the command-line option names), or see the corresponding property topic. (The corresponding property topics are listed in *Running Save as Web Page from the command line*.)
+For information regarding default values, see the table describing command-line parameters in [Running Save as Web Page from the command line](Visio.VisSaveAsWebRef.RunSaveAsWebPageFromCommandLine.md) (the registry entries are the same as the command-line option names), or see the corresponding property topic. (The corresponding property topics are listed in *Running Save as Web Page from the command line*.)
 
 > [!NOTE] 
 > If for some reason the registry entries are corrupt or if you delete the  **SaveAsWeb** subkey in the registry, the solution reverts to using the original default values. These default values are stored internally in the solution and are used whenever the corresponding registry key does not exist.

@@ -1,5 +1,5 @@
 ---
-title: Viewer.ShapeCount Property (Visio Viewer)
+title: Viewer.ShapeCount property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.ShapeCount
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.ShapeCount Property (Visio Viewer)
+# Viewer.ShapeCount property (Visio Viewer)
 
 Gets the count of shapes in the drawing that is open in Microsoft Visio Viewer. Read-only.
 

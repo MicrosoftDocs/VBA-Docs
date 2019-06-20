@@ -1,5 +1,5 @@
 ---
-title: Viewer.Unload Method (Visio Viewer)
+title: Viewer.Unload method (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.Unload
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.Unload Method (Visio Viewer)
+# Viewer.Unload method (Visio Viewer)
 
 Unloads the drawing file that is open in Microsoft Visio Viewer.
 

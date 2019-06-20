@@ -1,5 +1,5 @@
 ---
-title: Viewer.CurrentPageIndex Property (Visio Viewer)
+title: Viewer.CurrentPageIndex property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.CurrentPageIndex
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.CurrentPageIndex Property (Visio Viewer)
+# Viewer.CurrentPageIndex property (Visio Viewer)
 
 Gets or sets the index of the page displayed when a drawing opens in Microsoft Visio Viewer. Read/write.
 
