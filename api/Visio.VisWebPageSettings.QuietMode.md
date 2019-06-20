@@ -2,7 +2,7 @@
 title: VisWebPageSettings.QuietMode Property (Visio Save As Web)
 ms.prod: visio
 api_name:
-- Visio.QuietMode
+- Visio.VisWebPageSettings.QuietMode
 ms.assetid: 1bdc15d9-a4f3-de94-d6ed-4da508d98581
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -18,7 +18,7 @@ Determines whether dialog boxes are displayed in the Visio user interface when y
 
 _expression_.**QuietMode**
 
- _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
+ _expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object.
 
 
 ## Return value
@@ -41,7 +41,7 @@ If both the  **QuietMode** and **SilentMode** properties are set to **True**, th
 
 The following macro shows how to set the  **QuietMode** property to **True** before saving the drawing as a webpage. Setting this value to **True** prevents modal dialog boxes from appearing in the user interface—only the progress bar appears. Because the **[OpenBrowser](Visio.OpenBrowser.md)** property is set to **True**, the drawing opens in the browser.
 
-Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the filename that you want to assign to your Web page.
+Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the filename that you want to assign to your webpage.
 
 
 

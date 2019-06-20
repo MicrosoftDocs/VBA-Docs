@@ -52,7 +52,7 @@ If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](htt
 
 This VBA macro shows how to use the  **SaveAsWebObject** property to get a **VisSaveAsWeb** object. It also shows how to get a **VisWebPageSettings** object, configure Web-page settings, and create a webpage to display the active Visio document. The macro gets a Visio **Application** object and passes it to the **SaveAsWeb** procedure, which gets the **VisSaveAsWeb** object, configures the settings, and creates the webpage.
 
-Before running this macro, get a reference to the  **Microsoft Visio 14.0 Save As Web Type Library** as described above, and replace _path\filename_ in the code with the full path to and name of the .htm file you want to create on your computer to display the webpage.
+Before running this macro, get a reference to the  **Microsoft Visio 14.0 Save As Web Type Library** as described above, and replace `path\filename` in the code with the full path to and name of the .htm file you want to create on your computer to display the webpage.
 
 
 
@@ -73,7 +73,7 @@ Public Sub SaveAsWeb (vsoApplication as Visio.Application)
     Dim objWebPageSettings As IVisWebPageSettings 
  
     ' Get a VisSaveAsWeb object that  
-    ' represents a new Web page project 
+    ' represents a new webpage project 
     Set objSaveAsWeb = Application.SaveAsWebObject 
  
     ' Get a VisWebPageSettings object 

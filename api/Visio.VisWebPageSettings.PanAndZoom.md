@@ -2,7 +2,7 @@
 title: VisWebPageSettings.PanAndZoom Property (Visio Save As Web)
 ms.prod: visio
 api_name:
-- Visio.PanAndZoom
+- Visio.VisWebPageSettings.PanAndZoom
 ms.assetid: 83d1ac9d-e489-0656-a573-ebadd6e06156
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -18,7 +18,7 @@ Determines whether the  **Pan and Zoom** control for zooming in and out of the p
 
 _expression_.**PanAndZoom**
 
- _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
+ _expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object.
 
 
 ## Return value

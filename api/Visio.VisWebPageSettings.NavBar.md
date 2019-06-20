@@ -2,7 +2,7 @@
 title: VisWebPageSettings.NavBar Property (Visio Save As Web)
 ms.prod: visio
 api_name:
-- Visio.NavBar
+- Visio.VisWebPageSettings.NavBar
 ms.assetid: 5a3245df-d0b6-40c6-5ed9-6d7700e835c8
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -18,7 +18,7 @@ Determines whether the  **Go to Page** navigation control is displayed in a webp
 
 _expression_.**NavBar**
 
- _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
+_expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object.
 
 
 ## Return value

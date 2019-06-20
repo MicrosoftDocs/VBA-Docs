@@ -2,7 +2,7 @@
 title: VisWebPageSettings.Stylesheet Property (Visio Save As Web)
 ms.prod: visio
 api_name:
-- Visio.Stylesheet
+- Visio.VisWebPageSettings.Stylesheet
 ms.assetid: 9b837460-83a6-71f8-b63f-3f251dedc87c
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -18,7 +18,7 @@ Specifies a cascading stylesheet (CSS) provided by Microsoft Visio, or one that 
 
 _expression_.**Stylesheet**
 
- _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
+ _expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object.
 
 
 ## Return value
@@ -39,7 +39,7 @@ Visio identifies stylesheets by searching through the folder named for your lang
 
 The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Stylesheet** property to assign the "Steel" stylesheet (supplied by Visio) to the webpage you are creating.
 
-Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the file name that you want to assign to your Web page. Also, replace _your_Visio_path_ and _your_language_ID_ with the path to Visio stylesheets on your computer, for example:
+Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the file name that you want to assign to your webpage. Also, replace _your_Visio_path_ and _your_language_ID_ with the path to Visio stylesheets on your computer, for example:
 
 C:\Program Files\Microsoft Office\Visio14\1033...
 

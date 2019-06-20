@@ -57,33 +57,35 @@ End Sub
 
 ## Methods
 
-- [GetFormatName](Visio.GetFormatName.md)
-- [GetPhysicalDimensions](Visio.GetPhysicalDimensions.md)
-- [InitSettings](Visio.InitSettings.md)
-- [ListFormats](Visio.ListFormats.md)
-- [SaveSettings](Visio.SaveSettings.md)
+- [GetFormatName](Visio.VisWebPageSettings.GetFormatName.md)
+- [GetPhysicalDimensions](Visio.VisWebPageSettings.GetPhysicalDimensions.md)
+- [InitSettings](Visio.VisWebPageSettings.InitSettings.md)
+- [ListFormats](Visio.VisWebPageSettings.ListFormats.md)
+- [SaveSettings](Visio.VisWebPageSettings.SaveSettings.md)
+
 
 ## Properties
 
-- [AltFormat](Visio.AltFormat.md)
-- [DispScreenRes](Visio.DispScreenRes.md)
-- [EndPage](Visio.EndPage.md)
-- [FormatCount](Visio.FormatCount.md)
-- [NavBar](Visio.NavBar.md)
-- [OpenBrowser](Visio.OpenBrowser.md)
-- [PageTitle](Visio.PageTitle.md)
-- [PanAndZoom](Visio.PanAndZoom.md)
-- [PriFormat](Visio.PriFormat.md)
-- [PropControl](Visio.PropControl.md)
-- [QuietMode](Visio.QuietMode.md)
-- [Search](Visio.Search.md)
-- [SecFormat](Visio.SecFormat.md)
-- [SilentMode](Visio.SilentMode.md)
-- [StartPage](Visio.StartPage.md)
-- [StoreInFolder](Visio.StoreInFolder.md)
-- [Stylesheet](Visio.Stylesheet.md)
-- [TargetPath](Visio.TargetPath.md)
-- [ThemeName](Visio.ThemeName.md)
+- [AltFormat](Visio.VisWebPageSettings.AltFormat.md)
+- [DispScreenRes](Visio.VisWebPageSettings.DispScreenRes.md)
+- [EndPage](Visio.VisWebPageSettings.EndPage.md)
+- [FormatCount](Visio.VisWebPageSettings.FormatCount.md)
+- [NavBar](Visio.VisWebPageSettings.NavBar.md)
+- [OpenBrowser](Visio.VisWebPageSettings.OpenBrowser.md)
+- [PageTitle](Visio.VisWebPageSettings.PageTitle.md)
+- [PanAndZoom](Visio.VisWebPageSettings.PanAndZoom.md)
+- [PriFormat](Visio.VisWebPageSettings.PriFormat.md)
+- [PropControl](Visio.VisWebPageSettings.PropControl.md)
+- [QuietMode](Visio.VisWebPageSettings.QuietMode.md)
+- [Search](Visio.VisWebPageSettings.Search.md)
+- [SecFormat](Visio.VisWebPageSettings.SecFormat.md)
+- [SilentMode](Visio.VisWebPageSettings.SilentMode.md)
+- [StartPage](Visio.VisWebPageSettings.StartPage.md)
+- [StoreInFolder](Visio.VisWebPageSettings.StoreInFolder.md)
+- [Stylesheet](Visio.VisWebPageSettings.Stylesheet.md)
+- [TargetPath](Visio.VisWebPageSettings.TargetPath.md)
+- [ThemeName](Visio.VisWebPageSettings.ThemeName.md)
+
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

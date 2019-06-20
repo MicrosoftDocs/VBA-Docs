@@ -2,7 +2,7 @@
 title: VisWebPageSettings.StoreInFolder Property (Visio Save As Web)
 ms.prod: visio
 api_name:
-- Visio.StoreInFolder
+- Visio.VisWebPageSettings.StoreInFolder
 ms.assetid: ed0cf76a-a68d-cfa7-538c-91df5234a0d0
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -18,7 +18,7 @@ Determines whether supporting files for the webpage to be created are placed int
 
 _expression_.**StoreInFolder**
 
- _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
+ _expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object.
 
 
 ## Return value
@@ -41,7 +41,7 @@ Setting the  **StoreInFolder** property to `True` is the equivalent of selecting
 
 The following macro shows how to set the  **StoreInFolder** property so that a subfolder that contains all a webpage's supporting files and has the same name as the .htm file is created.
 
-Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the filename that you want to assign to your Web page.
+Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the filename that you want to assign to your webpage.
 
 
 

@@ -2,7 +2,7 @@
 title: VisWebPageSettings.ListFormats Method (Visio Save As Web)
 ms.prod: visio
 api_name:
-- Visio.ListFormats
+- Visio.VisWebPageSettings.ListFormats
 ms.assetid: 76495f43-a8f0-3159-f594-37af9fabcee2
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -18,7 +18,7 @@ Displays a message box in the user interface that lists the output format types 
 
 _expression_.**ListFormats**
 
- _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
+_expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object.
 
 
 ## Return value

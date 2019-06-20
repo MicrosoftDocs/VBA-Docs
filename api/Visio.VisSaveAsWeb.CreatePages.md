@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # VisSaveAsWeb.CreatePages method (Visio Save As Web)
 
-Initiates Web page creation.
+Initiates webpage creation.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_ An expression that returns a **[VisSaveAsWeb](Visio.VisSaveAsWeb.md
 
 ## Return value
 
- **Nothing**
+**Nothing**
 
 
 ## Remarks
@@ -35,7 +35,7 @@ To specify which document to save as a webpage, use the **[AttachToVisioDoc](Vis
 
 ## Example
 
-The following example shows how to open an existing file and save it as a webpage by using the Save as Web Page feature's default settings and the **AttachToVisioDoc** and **CreatePages** methods. Before running this example, replace _path\filename_ with a valid path and file name for a Visio document to pass to the **Open** method. In addition, replace _targetpath\filename_ with a valid target path and a file name for the webpage project files.
+The following example shows how to open an existing file and save it as a webpage by using the Save as Web Page feature's default settings and the **AttachToVisioDoc** and **CreatePages** methods. Before running this example, replace `path\filename` with a valid path and file name for a Visio document to pass to the **Open** method. In addition, replace `targetpath\filename` with a valid target path and a file name for the webpage project files.
 
 
 ```vb

@@ -2,7 +2,7 @@
 title: VisWebPageSettings.SecFormat Property (Visio Save As Web)
 ms.prod: visio
 api_name:
-- Visio.SecFormat
+- Visio.VisWebPageSettings.SecFormat
 ms.assetid: 2c6fa96d-8a71-28fb-c8d7-f7ba6772fe43
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -18,7 +18,7 @@ Specifies the secondary output format for the webpage. Read/write.
 
 _expression_.**SecFormat**
 
- _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
+ _expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object.
 
 
 ## Return value
@@ -48,7 +48,7 @@ This value corresponds to the value selected in the list below the  **Provide al
 
 The following macro shows how to use the  **SecFormat** property to set the secondary format value to JPG for browsers that do not support the primary format of XAML (the default).
 
-Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the filename that you want to assign to your Web page.
+Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the filename that you want to assign to your webpage.
 
 
 

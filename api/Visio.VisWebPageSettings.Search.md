@@ -2,7 +2,7 @@
 title: VisWebPageSettings.Search Property (Visio Save As Web)
 ms.prod: visio
 api_name:
-- Visio.Search
+- Visio.VisWebPageSettings.Search
 ms.assetid: ae7e09e6-7f54-e939-5e5c-12af35c1b303
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -18,7 +18,7 @@ Determines whether the  **Search Pages** control for searching for shapes in a d
 
 _expression_.**Search**
 
- _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
+ _expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object.
 
 
 ## Return value

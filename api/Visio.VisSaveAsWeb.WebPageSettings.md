@@ -23,7 +23,7 @@ _expression_ An expression that returns a **[VisSaveAsWeb](Visio.VisSaveAsWeb.md
 
 ## Remarks
 
-Use the **WebPageSettings** property to get a **VisWebPageSettings** object. You can then use the **VisWebPageSettings** object to get and set the properties of your Web page.
+Use the **WebPageSettings** property to get a **VisWebPageSettings** object. You can then use the **VisWebPageSettings** object to get and set the properties of your webpage.
 
 
 ## Example

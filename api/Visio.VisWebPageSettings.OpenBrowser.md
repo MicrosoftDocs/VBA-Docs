@@ -2,7 +2,7 @@
 title: VisWebPageSettings.OpenBrowser Property (Visio Save As Web)
 ms.prod: visio
 api_name:
-- Visio.OpenBrowser
+- Visio.VisWebPageSettings.OpenBrowser
 ms.assetid: 701defdf-9f1c-b136-0af5-48605d255f88
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -18,7 +18,7 @@ Determines whether the webpage opens in the browser after the drawing is exporte
 
 _expression_.**OpenBrowser**
 
- _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
+ _expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object.
 
 
 ## Return value

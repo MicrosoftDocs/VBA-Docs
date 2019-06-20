@@ -2,7 +2,7 @@
 title: VisWebPageSettings.GetPhysicalDimensions Method (Visio Save As Web)
 ms.prod: visio
 api_name:
-- Visio.GetPhysicalDimensions
+- Visio.VisWebPageSettings.GetPhysicalDimensions
 ms.assetid: 879589f5-4b06-df98-c889-ffcf5a4d6419
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -18,7 +18,7 @@ Based on the enumerated screen-resolution value passed to the method in the eRes
 
 _expression_.**GetPhysicalDimensions**(**_eRes_**, **_pnWidth_**, **_pnHeight_**)
 
-
+_expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object.
 
 
 ## Parameters

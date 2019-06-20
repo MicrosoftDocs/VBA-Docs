@@ -2,7 +2,7 @@
 title: VisWebPageSettings.InitSettings Method (Visio Save As Web)
 ms.prod: visio
 api_name:
-- Visio.InitSettings
+- Visio.VisWebPageSettings.InitSettings
 ms.assetid: 11f4d234-53ab-d49c-9c1c-3c8c6ff3f9eb
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -18,7 +18,7 @@ Loads the webpage settings that were saved in the registry in an earlier instanc
 
 _expression_.**InitSettings**
 
- _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
+_expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object.
 
 
 ## Return value

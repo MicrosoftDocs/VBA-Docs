@@ -2,7 +2,7 @@
 title: VisWebPageSettings.PropControl Property (Visio Save As Web)
 ms.prod: visio
 api_name:
-- Visio.PropControl
+- Visio.VisWebPageSettings.PropControl
 ms.assetid: 615e5038-d84d-9527-6987-95f289da77d9
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -18,7 +18,7 @@ Determines whether a shape's custom properties (shape data) are displayed in the
 
 _expression_.**PropControl**
 
- _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
+ _expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object.
 
 
 ## Return value

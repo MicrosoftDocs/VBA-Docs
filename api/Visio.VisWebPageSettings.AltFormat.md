@@ -2,7 +2,7 @@
 title: VisWebPageSettings.AltFormat Property (Visio Save As Web)
 ms.prod: visio
 api_name:
-- Visio.AltFormat
+- Visio.VisWebPageSettings.AltFormat
 ms.assetid: 60f9af7d-dc5a-d234-976a-51db21473e28
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -18,7 +18,7 @@ Determines whether a secondary output format for the webpage is defined. Read/wr
 
 _expression_.**AltFormat**
 
- _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
+_expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object.
 
 
 ## Return value

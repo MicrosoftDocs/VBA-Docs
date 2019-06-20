@@ -2,7 +2,7 @@
 title: VisWebPageSettings.StartPage Property (Visio Save As Web)
 ms.prod: visio
 api_name:
-- Visio.StartPage
+- Visio.VisWebPageSettings.StartPage
 ms.assetid: 7db581ab-f656-f97a-79b6-17a1fca513e8
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -18,7 +18,7 @@ Specifies the page number of the first page in the range when you save a range o
 
 _expression_.**StartPage**
 
- _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
+ _expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object.
 
 
 ## Return value
@@ -39,7 +39,7 @@ The following Microsoft Visual Basic for Applications (VBA) macro shows how to u
 
 This macro assumes that the current Microsoft Visio drawing contains at least three pages.
 
-Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the filename that you want to assign to your Web page.
+Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the filename that you want to assign to your webpage.
 
 
 

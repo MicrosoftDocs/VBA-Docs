@@ -2,7 +2,7 @@
 title: VisWebPageSettings.GetFormatName Method (Visio Save As Web)
 ms.prod: visio
 api_name:
-- Visio.GetFormatName
+- Visio.VisWebPageSettings.GetFormatName
 ms.assetid: 5586e07a-8b05-8894-d877-45c27584d4e0
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -18,7 +18,7 @@ Places the friendly name of the output format specified by the index passed to t
 
 _expression_.**GetFormatName**(**_nIndex_**,  **_pVal_**)
 
- _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
+_expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object.
 
 
 ## Parameters

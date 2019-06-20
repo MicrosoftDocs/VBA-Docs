@@ -2,7 +2,7 @@
 title: VisWebPageSettings.DispScreenRes Property (Visio Save As Web)
 ms.prod: visio
 api_name:
-- Visio.DispScreenRes
+- Visio.VisWebPageSettings.DispScreenRes
 ms.assetid: ec62976a-4a92-f904-b7de-1e9470dc5411
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -11,14 +11,14 @@ localization_priority: Normal
 
 # VisWebPageSettings.DispScreenRes Property (Visio Save As Web)
 
-Specifies the screen resolution for your Web page. Read/write.
+Specifies the screen resolution for your webpage. Read/write.
 
 
 ## Syntax
 
 _expression_.**DispScreenRes**
 
- _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
+ _expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object.
 
 
 ## Return value
