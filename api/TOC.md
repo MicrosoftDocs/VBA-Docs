@@ -27481,8 +27481,8 @@
 ##### [Overview](Visio.VisSaveAsWebRef.ConceptsOverview.md)
 ##### [About the Save as Web Page API](Visio.VisSaveAsWebRef.AboutSaveAsWebPageAPI.md)
 ##### [Persist Save as Web Page settings](Visio.VisSaveAsWebRef.PersistSaveAsWebPageSettings.md)
-##### [Run Save as Web Page from the command line](Visio.VisSaveAsWebRef.RunSaveAsWebPageFromCommandLine.md)
-##### [Use the Save as Web Page Object Model from Visual Basic example](Visio.VisSaveAsWebRef.UseSaveAsWebObjectModelVBExample.md)
+##### [Run Save as Web Page from command line](Visio.VisSaveAsWebRef.RunSaveAsWebPageFromCommandLine.md)
+##### [Use Save as Web Page object model example](Visio.VisSaveAsWebRef.UseSaveAsWebObjectModelVBExample.md)
 #### Objects
 ##### [Overview](Visio.VisSaveAsWebRef.ObjectModelOverview.md)
 ##### [VisSaveAsWeb object](Visio.VisSaveAsWeb.md)
