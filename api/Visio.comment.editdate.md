@@ -16,7 +16,7 @@ Returns the most recent date on which the specified comment was edited. Read-onl
 
 _expression_. `EditDate`
 
-_expression_ A variable that represents a 'Comment' object.
+_expression_ A variable that represents a **[Comment](Visio.Comment.md)** object.
 
 
 ## Property value

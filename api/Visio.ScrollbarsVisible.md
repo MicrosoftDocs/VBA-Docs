@@ -1,5 +1,5 @@
 ---
-title: Viewer.ScrollbarsVisible Property (Visio Viewer)
+title: Viewer.ScrollbarsVisible property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.ScrollbarsVisible
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.ScrollbarsVisible Property (Visio Viewer)
+# Viewer.ScrollbarsVisible property (Visio Viewer)
 
 Gets or sets a value that indicates whether the scroll bars are visible in Microsoft Visio Viewer. Read/write.
 
@@ -18,7 +18,7 @@ Gets or sets a value that indicates whether the scroll bars are visible in Micro
 
 _expression_.**ScrollbarsVisible**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

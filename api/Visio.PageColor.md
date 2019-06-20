@@ -1,5 +1,5 @@
 ---
-title: Viewer.PageColor Property (Visio Viewer)
+title: Viewer.PageColor property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.PageColor
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.PageColor Property (Visio Viewer)
+# Viewer.PageColor property (Visio Viewer)
 
 Gets or sets the color of the page in the current drawing that is open in Microsoft Visio Viewer. Read/write.
 
@@ -18,7 +18,7 @@ Gets or sets the color of the page in the current drawing that is open in Micros
 
 _expression_.**PageColor**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

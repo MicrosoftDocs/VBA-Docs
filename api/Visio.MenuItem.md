@@ -16,11 +16,10 @@ localization_priority: Normal
 
 Represents a single menu item on a Microsoft Visio menu.
 
+> [!NOTE] 
+> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 ## Remarks
-
-> [!NOTE] 
-> Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 The default property of **MenuItem** is **Caption**.
 

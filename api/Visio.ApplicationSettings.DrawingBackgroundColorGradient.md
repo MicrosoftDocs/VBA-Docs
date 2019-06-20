@@ -21,7 +21,7 @@ Determines the background gradient color of the Microsoft Visio drawing window f
 
 _expression_. `DrawingBackgroundColorGradient`
 
-_expression_ A variable that represents an [ApplicationSettings](Visio.ApplicationSettings.md) object.
+_expression_ A variable that represents an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 
 
 ## Return value

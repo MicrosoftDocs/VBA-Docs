@@ -16,11 +16,10 @@ localization_priority: Normal
 
 Includes an **[AccelTable](Visio.AccelTable.md)** object for each Microsoft Visio window context that has accelerators.
 
+> [!NOTE] 
+> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 ## Remarks
-
-> [!NOTE] 
-> Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 To retrieve an **AccelTables** collection, use the **[AccelTables](visio.uiobject.acceltables.md)** property of a **UIObject** object.
 

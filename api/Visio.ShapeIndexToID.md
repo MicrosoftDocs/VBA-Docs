@@ -1,5 +1,5 @@
 ---
-title: Viewer.ShapeIndexToID Property (Visio Viewer)
+title: Viewer.ShapeIndexToID property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.ShapeIndexToID
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.ShapeIndexToID Property (Visio Viewer)
+# Viewer.ShapeIndexToID property (Visio Viewer)
 
 Gets the ID of the shape at the specified index position in the collection of shapes in the drawing that is open in Microsoft Visio Viewer. Read-only.
 
@@ -18,7 +18,7 @@ Gets the ID of the shape at the specified index position in the collection of sh
 
 _expression_.**ShapeIndexToID**(**_ShapeIndex_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

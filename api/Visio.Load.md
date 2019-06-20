@@ -1,5 +1,5 @@
 ---
-title: Viewer.Load Method (Visio Viewer)
+title: Viewer.Load method (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.Load
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.Load Method (Visio Viewer)
+# Viewer.Load method (Visio Viewer)
 
 Loads a drawing file into Microsoft Visio Viewer.
 
@@ -18,7 +18,7 @@ Loads a drawing file into Microsoft Visio Viewer.
 
 _expression_.**Load**(**_UrlOrFilename_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

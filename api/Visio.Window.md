@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.Window
 ms.assetid: 5b49eb0f-07ea-00c7-52f1-2a3115a4b8ae
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
@@ -19,23 +19,20 @@ Represents an open window in a Microsoft Visio instance.
 
 ## Remarks
 
-The default property of a  **Window** object is **Application**.
+The default property of a **Window** object is **Application**.
 
-To retrieve
-
-
-- the active window in an instance of Visio, use the  **ActiveWindow** property of an **Application** object.
+To retrieve the active window in an instance of Visio, use the **[ActiveWindow](visio.application.activewindow.md)** property of an **Application** object.
     
-- a  **Page** object that represents the page shown in the window, use the **Page** property of a **Window** object.
+To retrieve a **Page** object that represents the page shown in the window, use the **Page** property of a **Window** object.
     
-- a  **Document** object that represents the document displayed in that window, use the **Document** property.
+To retrieve a **Document** object that represents the document displayed in that window, use the **Document** property.
     
-- a  **Selection** object that represents the shapes selected in that window, use the **Selection** property.
+To retrieve a **Selection** object that represents the shapes selected in that window, use the **Selection** property.
     
+> [!NOTE] 
+> Beginning with Microsoft Visio 2002, the following methods of the **Window** object are obsolete: **AddToGroup**, **Cut**, **Combine**, **Copy**, **Delete**, **Duplicate**, **Fragment**, **Group**, **Intersect**, **Join**, **RemoveFromGroup**, **Subtract**, **Trim**, and **Union**. Existing solutions that invoke these methods will continue to work properly; however, new or rebuilt solutions should use these methods with the **Selection** object.
 
- **Note**  Beginning with Microsoft Visio 2002, the following methods of the  **Window** object are obsolete: **AddToGroup**, **Cut**, **Combine**, **Copy**, **Delete**, **Duplicate**, **Fragment**, **Group**, **Intersect**, **Join RemoveFromGroup**, **Subtract**, **Trim**, and **Union**. Existing solutions that invoke these methods will continue to work properly; however, new or rebuilt solutions should use these methods with the **Selection** object.
-
-In addition, the  **Window** object's **Paste** method is now obsolete. Use the **Paste** or **PasteSpecial** method of the **Page**, **Master**, or **Shape** object. (Use the **Shape** object in the case of group shapes.)
+In addition, the **Window** object's **Paste** method is now obsolete. Use the **Paste** or **PasteSpecial** method of the **Page**, **Master**, or **Shape** object (use the **Shape** object in the case of group shapes).
 
 
 ## Events

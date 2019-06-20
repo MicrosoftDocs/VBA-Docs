@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.ToolbarSet
 ms.assetid: fa03384d-29d3-772d-22aa-81a96c80f4c2
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
@@ -16,8 +16,8 @@ localization_priority: Normal
 
 Represents the set of toolbars for a Microsoft Visio window context. 
 
-
- **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
+> [!NOTE] 
+> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 ## Methods
 

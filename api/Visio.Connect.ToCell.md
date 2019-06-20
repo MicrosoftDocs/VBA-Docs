@@ -21,7 +21,7 @@ Gets the cell to which a connection is made. Read-only.
 
 _expression_. `ToCell`
 
-_expression_ A variable that represents a [Connect](Visio.Connect.md) object.
+_expression_ A variable that represents a **[Connect](Visio.Connect.md)** object.
 
 
 ## Return value

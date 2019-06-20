@@ -1,5 +1,5 @@
 ---
-title: Viewer.LastErrorCode Property (Visio Viewer)
+title: Viewer.LastErrorCode property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.LastErrorCode
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.LastErrorCode Property (Visio Viewer)
+# Viewer.LastErrorCode property (Visio Viewer)
 
 Gets the last error code returned by Microsoft Visio Viewer. Read-only.
 
@@ -18,7 +18,7 @@ Gets the last error code returned by Microsoft Visio Viewer. Read-only.
 
 _expression_.**LastErrorCode**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

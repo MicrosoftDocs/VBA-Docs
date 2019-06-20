@@ -16,6 +16,8 @@ localization_priority: Normal
 
 A programmable ActiveX control that enables you to build Microsoft Visio functionality into programs that you create in Microsoft Visual Studio and other development platforms.
 
+> [!NOTE] 
+> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 ## Remarks
 
@@ -24,9 +26,6 @@ Use the **Document** property to get the **[Document](visio.document.md)** objec
 Use the **HostID** property to assign a GUID or other string representation of the container application to a registry key.
 
 Use the **NegotiateMenus** and **Negotiate Toolbars** properties to determine whether Visio menus and toolbars are merged with those of the host container application in the Visio Drawing Control, and to enable programmatic customizing of Visio menus and toolbars.
-
-> [!NOTE] 
-> Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 Use the **PageSizingBehavior** property to specify how the behavior of the control changes as the control is resized, with respect to the drawing page and any shapes on it.
 

@@ -1,5 +1,5 @@
 ---
-title: Viewer.OnDocumentUnloaded Event (Visio Viewer)
+title: Viewer.OnDocumentUnloaded event (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.OnDocumentUnloaded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.OnDocumentUnloaded Event (Visio Viewer)
+# Viewer.OnDocumentUnloaded event (Visio Viewer)
 
 Occurs after the current document in Microsoft Visio Viewer is unloaded.
 
@@ -18,7 +18,7 @@ Occurs after the current document in Microsoft Visio Viewer is unloaded.
 
 _expression_.**OnDocumentUnloaded**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Remarks

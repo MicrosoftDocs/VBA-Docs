@@ -1,5 +1,5 @@
 ---
-title: Viewer.ReviewerCount Property (Visio Viewer)
+title: Viewer.ReviewerCount property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.ReviewerCount
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.ReviewerCount Property (Visio Viewer)
+# Viewer.ReviewerCount property (Visio Viewer)
 
 Gets the count of reviewers in the current document open in Microsoft Visio Viewer. Read-only.
 
@@ -18,7 +18,7 @@ Gets the count of reviewers in the current document open in Microsoft Visio View
 
 _expression_.**ReviewerCount**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

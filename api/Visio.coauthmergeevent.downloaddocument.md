@@ -16,7 +16,7 @@ Returns a [Document](Visio.Document.md) object that represents a document that i
 
 _expression_. `DownloadDocument`
 
-_expression_ A variable that represents a 'CoauthMergeEvent' object.
+_expression_ A variable that represents a **[CoauthMergeEvent](visio.coauthmergeevent.md)** object.
 
 
 ## Property value

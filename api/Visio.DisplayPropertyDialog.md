@@ -1,5 +1,5 @@
 ---
-title: Viewer.DisplayPropertyDialog Method (Visio Viewer)
+title: Viewer.DisplayPropertyDialog method (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.DisplayPropertyDialog
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.DisplayPropertyDialog Method (Visio Viewer)
+# Viewer.DisplayPropertyDialog method (Visio Viewer)
 
 Displays the  **Properties and Settings** dialog box at the specified screen coordinates, in pixels, in Microsoft Visio Viewer.
 
@@ -18,7 +18,7 @@ Displays the  **Properties and Settings** dialog box at the specified screen coo
 
 _expression_.**DisplayPropertyDialog**(**_ScreenX_**,  **_ScreenY_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

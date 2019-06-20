@@ -70,7 +70,7 @@ The members of a **Document** object's **[Pages](visio.pages.md)** collection re
 
 -  [AddGuide](Visio.Page.AddGuide.md)
 -  [AutoConnectMany](Visio.Page.AutoConnectMany.md)
--  [AutoSizeDrawing](Visio.AutoSizeDrawing.md)
+-  [AutoSizeDrawing](Visio.Page.AutoSizeDrawing.md)
 -  [AvoidPageBreaks](Visio.Page.AvoidPageBreaks.md)
 -  [BoundingBox](Visio.Page.BoundingBox.md)
 -  [CenterDrawing](Visio.Page.CenterDrawing.md)

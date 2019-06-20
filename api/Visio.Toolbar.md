@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.Toolbar
 ms.assetid: 46123342-0a39-bb65-f442-7b2737e4cf04
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
@@ -16,15 +16,14 @@ localization_priority: Normal
 
 Represents a group of toolbar items in a Microsoft Visio window.
 
+> [!NOTE] 
+> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 ## Remarks
 
+The default property of a **Toolbar** object is **Caption**.
 
- **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
-
-The default property of a  **Toolbar** object is **Caption**.
-
-The index of the  **Toolbar** object within the **Toolbars** collection corresponds to its order in the Visio window, starting with zero (0) for the toolbar closest to the top. Up to 10 toolbars can be displayed in a Visio window at one time.
+The index of the **Toolbar** object within the **[Toolbars](Visio.Toolbars.md)** collection corresponds to its order in the Visio window, starting with zero (0) for the toolbar closest to the top. Up to 10 toolbars can be displayed in a Visio window at one time.
 
 ## Methods
 

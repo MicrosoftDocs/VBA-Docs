@@ -16,7 +16,7 @@ Adds a new [Comment](Visio.comment.md) object to the **Comments** collection, an
 
 _expression_.**Add**_(Text)_
 
-_expression_ A variable that represents a 'Comments' object.
+_expression_ A variable that represents a **[Comments](Visio.Comments.md)** object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Viewer.CustomPropertyValue Property (Visio Viewer)
+title: Viewer.CustomPropertyValue property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.CustomPropertyValue
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.CustomPropertyValue Property (Visio Viewer)
+# Viewer.CustomPropertyValue property (Visio Viewer)
 
 Gets the value of the shape data item (custom property) at the specified index position for the specified shape in Microsoft Visio Viewer. Read-only.
 
@@ -18,7 +18,7 @@ Gets the value of the shape data item (custom property) at the specified index p
 
 _expression_.**CustomPropertyValue**(**_ShapeIndex_**,  **_PropertyIndex_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

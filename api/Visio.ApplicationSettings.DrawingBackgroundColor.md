@@ -21,7 +21,7 @@ Determines the background color of the Microsoft Visio drawing window for the cu
 
 _expression_. `DrawingBackgroundColor`
 
-_expression_ A variable that represents an [ApplicationSettings](Visio.ApplicationSettings.md) object.
+_expression_ A variable that represents an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: Viewer.ReviewerName Property (Visio Viewer)
+title: Viewer.ReviewerName property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.ReviewerName
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.ReviewerName Property (Visio Viewer)
+# Viewer.ReviewerName property (Visio Viewer)
 
 Gets the name of the specified reviewer in the drawing that is open in Microsoft Visio Viewer. Read-only.
 
@@ -18,7 +18,7 @@ Gets the name of the specified reviewer in the drawing that is open in Microsoft
 
 _expression_.**ReviewerName**(**_ReviewerIndex_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

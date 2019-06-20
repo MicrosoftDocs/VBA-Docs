@@ -18,15 +18,14 @@ Represents an instance of Visio. An external program typically creates or retrie
 
 Use the Microsoft Visual Basic **CreateObject** function or the **New** keyword to run a new instance, or use the **GetObject** function to retrieve an instance that is already running. You can also use the **CreateObject** function with the **InvisibleApp** object to run a new instance that is invisible. Set the value of the **InvisibleApp** object's **Visible** property to **True** to show it.
 
+> [!NOTE] 
+> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 ## Remarks
 
 Use the **Documents**, **Windows**, and **Addons** properties of an **Application** object to retrieve the **Document**, **Window**, and **Addon** collections of the instance.
 
 Use the **ActiveDocument**, **ActivePage**, or **ActiveWindow** property to retrieve the currently active **Document**, **Page**, or **Window** object.
-
-> [!NOTE] 
-> Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 Use the **BuiltInMenus**, **BuiltInToolbars**, **CustomMenus**, **CustomToolbars**, or **CommandBars** property to access the **Application** object's menus and toolbars.
 

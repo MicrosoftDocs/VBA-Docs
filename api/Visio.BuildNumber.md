@@ -1,5 +1,5 @@
 ---
-title: Viewer.BuildNumber Property (Visio Viewer)
+title: Viewer.BuildNumber property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.BuildNumber
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.BuildNumber Property (Visio Viewer)
+# Viewer.BuildNumber property (Visio Viewer)
 
 Gets the build number of Microsoft Visio Viewer. Read-only.
 
@@ -18,7 +18,7 @@ Gets the build number of Microsoft Visio Viewer. Read-only.
 
 _expression_.**BuildNumber**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

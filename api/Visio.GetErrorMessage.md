@@ -1,5 +1,5 @@
 ---
-title: Viewer.GetErrorMessage Method (Visio Viewer)
+title: Viewer.GetErrorMessage method (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.GetErrorMessage
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.GetErrorMessage Method (Visio Viewer)
+# Viewer.GetErrorMessage method (Visio Viewer)
 
 Returns a string that describes the specified error message code in Microsoft Visio Viewer.
 
@@ -18,7 +18,7 @@ Returns a string that describes the specified error message code in Microsoft Vi
 
 _expression_.**GetErrorMessage**(**_ErrorCode_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

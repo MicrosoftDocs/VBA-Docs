@@ -1,5 +1,5 @@
 ---
-title: Viewer.SubShapeAtPoint Property (Visio Viewer)
+title: Viewer.SubShapeAtPoint property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.SubShapeAtPoint
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.SubShapeAtPoint Property (Visio Viewer)
+# Viewer.SubShapeAtPoint property (Visio Viewer)
 
 Gets the ID of the subshape in the drawing that is open in Microsoft Visio Viewer, at the specified point in the Visio Viewer window, in the coordinate system of the window, measured in pixels. Read-only.
 
@@ -18,7 +18,7 @@ Gets the ID of the subshape in the drawing that is open in Microsoft Visio Viewe
 
 _expression_.**SubShapeAtPoint**(**_X_**,  **_Y_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Viewer.OnMarkupOverlaysVisibleChanged Event (Visio Viewer)
+title: Viewer.OnMarkupOverlaysVisibleChanged event (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.OnMarkupOverlaysVisibleChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.OnMarkupOverlaysVisibleChanged Event (Visio Viewer)
+# Viewer.OnMarkupOverlaysVisibleChanged event (Visio Viewer)
 
 Occurs when the visibility of markup overlays changes in Microsoft Visio Viewer.
 
@@ -18,7 +18,7 @@ Occurs when the visibility of markup overlays changes in Microsoft Visio Viewer.
 
 _expression_.**OnMarkupOverlaysVisibleChanged**(**_MarkupOverlaysVisible_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

@@ -19,7 +19,7 @@ Gets the raster export size.
 
 _expression_. `GetRasterExportSize`( `_pSize_` , `_pWidth_` , `_pHeight_` , `_pSizeUnits_` )
 
- _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
+ _expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 
 
 ## Parameters

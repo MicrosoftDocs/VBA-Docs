@@ -1,5 +1,5 @@
 ---
-title: Viewer.OnLayerChanged Event (Visio Viewer)
+title: Viewer.OnLayerChanged event (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.OnLayerChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.OnLayerChanged Event (Visio Viewer)
+# Viewer.OnLayerChanged event (Visio Viewer)
 
 Occurs when a layer is changed in the document open in Microsoft Visio Viewer.
 
@@ -18,7 +18,7 @@ Occurs when a layer is changed in the document open in Microsoft Visio Viewer.
 
 _expression_.**OnLayerChanged**(**_LayerIndex_**,  **_Visible_**,  **_ColorOverride_**,  **_Color_**,  **_ColorTrans_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

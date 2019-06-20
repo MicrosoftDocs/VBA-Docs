@@ -1,5 +1,5 @@
 ---
-title: Viewer.ReviewerColor Property (Visio Viewer)
+title: Viewer.ReviewerColor property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.ReviewerColor
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.ReviewerColor Property (Visio Viewer)
+# Viewer.ReviewerColor property (Visio Viewer)
 
 Gets the color of the markup overlay associated with the specified reviewer in the drawing open in Microsoft Visio Viewer. Read-only.
 
@@ -18,7 +18,7 @@ Gets the color of the markup overlay associated with the specified reviewer in t
 
 _expression_.**ReviewerColor**(**_ReviewerIndex_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

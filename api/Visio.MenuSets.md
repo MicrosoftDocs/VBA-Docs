@@ -16,11 +16,10 @@ localization_priority: Normal
 
 Includes a **[MenuSet](Visio.MenuSet.md)** object for each Microsoft Visio window context that has menus.
 
+> [!NOTE] 
+> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 ## Remarks
-
-> [!NOTE] 
-> Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 To retrieve a **MenuSets** collection, use the **[MenuSets](visio.uiobject.menusets.md)** property of a **UIObject** object.
 

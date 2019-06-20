@@ -1,5 +1,5 @@
 ---
-title: Viewer.ReviewerID Property (Visio Viewer)
+title: Viewer.ReviewerID property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.ReviewerID
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.ReviewerID Property (Visio Viewer)
+# Viewer.ReviewerID property (Visio Viewer)
 
 Gets the ID of the specified reviewer in the drawing open in Microsoft Visio Viewer. Read-only.
 
@@ -18,7 +18,7 @@ Gets the ID of the specified reviewer in the drawing open in Microsoft Visio Vie
 
 _expression_.**ReviewerID**(**_ReviewerIndex_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

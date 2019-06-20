@@ -1,5 +1,5 @@
 ---
-title: Viewer.HyperlinkCount Property (Visio Viewer)
+title: Viewer.HyperlinkCount property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.HyperlinkCount
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.HyperlinkCount Property (Visio Viewer)
+# Viewer.HyperlinkCount property (Visio Viewer)
 
 Gets the count of hyperlinks associated with the shape at the specified index in the document open in Microsoft Visio Viewer. Read-only.
 
@@ -18,7 +18,7 @@ Gets the count of hyperlinks associated with the shape at the specified index in
 
 _expression_.**HyperlinkCount**(**_ShapeIndex_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

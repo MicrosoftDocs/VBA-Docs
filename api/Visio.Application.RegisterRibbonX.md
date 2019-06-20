@@ -21,7 +21,7 @@ Registers the  **[IRibbonExtensibility](Office.IRibbonExtensibility.md)** interf
 
 _expression_. `RegisterRibbonX`( `_SourceAddOn_` , `_TargetDocument_` , `_TargetModes_` , `_FriendlyName_` )
 
-_expression_ A variable that represents an '[Application](Visio.Application.md)' object.
+_expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 
 
 ## Parameters

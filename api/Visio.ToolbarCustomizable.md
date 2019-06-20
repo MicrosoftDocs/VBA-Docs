@@ -1,5 +1,5 @@
 ---
-title: Viewer.ToolbarCustomizable Property (Visio Viewer)
+title: Viewer.ToolbarCustomizable property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.ToolbarCustomizable
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.ToolbarCustomizable Property (Visio Viewer)
+# Viewer.ToolbarCustomizable property (Visio Viewer)
 
 Gets or sets a value that indicates whether it is possible to customize the toolbar in Microsoft Visio Viewer. Read/write.
 
@@ -18,7 +18,7 @@ Gets or sets a value that indicates whether it is possible to customize the tool
 
 _expression_.**ToolbarCustomizable**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

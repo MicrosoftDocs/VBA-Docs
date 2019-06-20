@@ -1,5 +1,5 @@
 ---
-title: Viewer.PageVisible Property (Visio Viewer)
+title: Viewer.PageVisible property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.PageVisible
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.PageVisible Property (Visio Viewer)
+# Viewer.PageVisible property (Visio Viewer)
 
 Gets or sets a value that indicates whether the drawing page is visible in Microsoft Visio Viewer. Read/write.
 
@@ -18,7 +18,7 @@ Gets or sets a value that indicates whether the drawing page is visible in Micro
 
 _expression_.**PageVisible**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

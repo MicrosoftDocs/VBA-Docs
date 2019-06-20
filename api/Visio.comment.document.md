@@ -16,7 +16,7 @@ Returns the document that contains the comment. Read-only  ** **[Document](Visio
 
 _expression_.**Document**
 
-_expression_ A variable that represents a 'Comment' object.
+_expression_ A variable that represents a **[Comment](Visio.Comment.md)** object.
 
 
 ## Property value

@@ -16,6 +16,8 @@ localization_priority: Normal
 
 Represents an invisible instance of Microsoft Visio. The properties of the **InvisibleApp** object are identical to those of the **Application** object.
 
+> [!NOTE] 
+> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 ## Remarks
 
@@ -31,9 +33,6 @@ Use the **Documents**, **Windows**, and **Addons** properties to retrieve the **
 Use the **ActiveDocument**, **ActivePage**, or **ActiveWindow** property to retrieve the currently active **Document**, **Page**, or **Window** object.
 
 **ActiveDocument** is the default property of an **InvisibleApp** object.
-
-> [!NOTE] 
-> Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 > [!NOTE] 
 > Code in the Microsoft Visual Basic for Applications (VBA) project of a Visio document can use the Visio **Global** object instead of a Visio **Invisible App** object to retrieve other objects.

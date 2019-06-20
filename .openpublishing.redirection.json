@@ -2627,6 +2627,38 @@
           {
             "source_path": "access/Concepts/Miscellaneous/and-operator.md",
             "redirect_url": "/office/vba/access/concepts/miscellaneous/between-and-operator"
+          },
+          {
+            "source_path": "api/Visio.enumerations.visio.save.md",
+            "redirect_url": "/office/vba/api/Visio.VisSaveAsWeb.visweb-disp-res-enumeration"
+          },
+          {
+            "source_path": "visio/Concepts/viewer-events-visio-viewer.md",
+            "redirect_url": "/office/vba/api/Visio.Viewer"
+          },
+          {
+            "source_path": "visio/Concepts/viewer-methods-visio-viewer.md",
+            "redirect_url": "/office/vba/api/Visio.Viewer"
+          },
+          {
+            "source_path": "visio/Concepts/viewer-properties-visio-viewer.md",
+            "redirect_url": "/office/vba/api/Visio.Viewer"
+          },
+          {
+            "source_path": "visio/Concepts/vissaveasweb-methods-visio-save-as-web.md",
+            "redirect_url": "/office/vba/api/Visio.VisSaveAsWeb"
+          },
+          {
+            "source_path": "visio/Concepts/vissaveasweb-properties-visio-save-as-web.md",
+            "redirect_url": "/office/vba/api/Visio.VisSaveAsWeb"
+          },
+          {
+            "source_path": "visio/Concepts/viswebpagesettings-methods-visio-save-as-web.md",
+            "redirect_url": "/office/vba/api/Visio.VisWebPageSettings"
+          },
+          {
+            "source_path": "visio/Concepts/viswebpagesettings-properties-visio-save-as-web.md",
+            "redirect_url": "/office/vba/api/Visio.VisWebPageSettings"
           }
     ]
 }

@@ -1,5 +1,5 @@
 ---
-title: Viewer.ZoomToRect Method (Visio Viewer)
+title: Viewer.ZoomToRect method (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.ZoomToRect
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.ZoomToRect Method (Visio Viewer)
+# Viewer.ZoomToRect method (Visio Viewer)
 
 Zooms to display a rectangular section, specified by the parameters, of the drawing that is open in Microsoft Visio Viewer.
 

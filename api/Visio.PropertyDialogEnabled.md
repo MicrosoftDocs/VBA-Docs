@@ -1,5 +1,5 @@
 ---
-title: Viewer.PropertyDialogEnabled Property (Visio Viewer)
+title: Viewer.PropertyDialogEnabled property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.PropertyDialogEnabled
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.PropertyDialogEnabled Property (Visio Viewer)
+# Viewer.PropertyDialogEnabled property (Visio Viewer)
 
 Gets or sets a value that indicates whether the  **Properties and Settings** dialog box is available in the user interface for Microsoft Visio Viewer. Read/write.
 
@@ -18,7 +18,7 @@ Gets or sets a value that indicates whether the  **Properties and Settings** dia
 
 _expression_.**PropertyDialogEnabled**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

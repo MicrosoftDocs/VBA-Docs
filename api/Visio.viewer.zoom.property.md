@@ -1,5 +1,5 @@
 ---
-title: Viewer.Zoom Property (Visio Viewer)
+title: Viewer.Zoom property (Visio Viewer)
 ms.prod: visio
 ms.assetid: 52bb7493-836e-1e1b-a91e-cb077f881c00
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.Zoom Property (Visio Viewer)
+# Viewer.Zoom property (Visio Viewer)
 
 Gets or sets the percentage of zoom for Microsoft Visio Viewer. Read/write.
 
@@ -16,7 +16,7 @@ Gets or sets the percentage of zoom for Microsoft Visio Viewer. Read/write.
 
 _expression_.**Zoom**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

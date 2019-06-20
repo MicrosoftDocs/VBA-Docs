@@ -1,5 +1,5 @@
 ---
-title: Viewer.SelectedShapeIndex Property (Visio Viewer)
+title: Viewer.SelectedShapeIndex property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.SelectedShapeIndex
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.SelectedShapeIndex Property (Visio Viewer)
+# Viewer.SelectedShapeIndex property (Visio Viewer)
 
 Gets the index in the collection of shapes of the selected shape in the drawing that is open in Microsoft Visio Viewer. Read-only.
 
@@ -18,7 +18,7 @@ Gets the index in the collection of shapes of the selected shape in the drawing 
 
 _expression_.**SelectedShapeIndex**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

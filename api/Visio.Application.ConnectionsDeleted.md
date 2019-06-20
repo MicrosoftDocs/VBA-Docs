@@ -18,7 +18,7 @@ Occurs after connections between shapes have been removed.
 
 Private Sub  _expression_ _'ConnectionsDeleted'(**_ByVal Connects As [IVCONNECTS]_**)
 
-_expression_ A variable that represents an [Application](Visio.Application.md) object.
+_expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 
 
 ## Parameters

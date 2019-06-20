@@ -1,5 +1,5 @@
 ---
-title: Viewer.MinorVersionNumber Property (Visio Viewer)
+title: Viewer.MinorVersionNumber property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.MinorVersionNumber
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.MinorVersionNumber Property (Visio Viewer)
+# Viewer.MinorVersionNumber property (Visio Viewer)
 
 Gets the minor version number of Microsoft Visio Viewer. Read-only.
 
@@ -18,7 +18,7 @@ Gets the minor version number of Microsoft Visio Viewer. Read-only.
 
 _expression_.**MinorVersionNumber**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

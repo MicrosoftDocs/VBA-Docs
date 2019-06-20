@@ -1,5 +1,5 @@
 ---
-title: Viewer.ToolbarButtons Property (Visio Viewer)
+title: Viewer.ToolbarButtons property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.ToolbarButtons
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.ToolbarButtons Property (Visio Viewer)
+# Viewer.ToolbarButtons property (Visio Viewer)
 
 Gets or sets the buttons that are available in the toolbar in Microsoft Visio Viewer. Read/write.
 
@@ -18,7 +18,7 @@ Gets or sets the buttons that are available in the toolbar in Microsoft Visio Vi
 
 _expression_.**ToolbarButtons**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

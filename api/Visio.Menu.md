@@ -16,11 +16,10 @@ localization_priority: Normal
 
 Represents a single menu on a Microsoft Visio menu bar.
 
+> [!NOTE] 
+> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 ## Remarks
-
-> [!NOTE] 
-> Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 The index of a **Menu** object within the **[Menus](Visio.Menus.md)** collection corresponds to the menu's position from left to right on the menu bar, starting with zero (0) for the menu farthest to the left if the menus are arranged horizontally.
 

@@ -18,7 +18,7 @@ Occurs when a keyboard key is pressed.
 
 Private Sub  _expression_ _'KeyDown'(**_ByVal KeyCode As Long_**, **_ByVal KeyButtonState As Long_**, **_ByVal CancelDefault As Boolean_**)
 
-_expression_ A variable that represents an [Application](Visio.Application.md) object.
+_expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 
 
 ## Parameters

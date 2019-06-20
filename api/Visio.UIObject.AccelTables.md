@@ -32,7 +32,8 @@ AccelTables
 ## Remarks
 
 
- **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
+> [!NOTE] 
+> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 If a  **UIObject** object represents menu items and accelerators (for example, if you used the **BuiltInMenus** property of an **Application** object to retrieve the **UIObject** object), its **AccelTables** collection represents tables of accelerator keys for that **UIObject** object.
 

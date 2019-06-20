@@ -1,5 +1,5 @@
 ---
-title: Viewer.OnToolbarCustomized Event (Visio Viewer)
+title: Viewer.OnToolbarCustomized event (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.OnToolbarCustomized
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.OnToolbarCustomized Event (Visio Viewer)
+# Viewer.OnToolbarCustomized event (Visio Viewer)
 
 Occurs when the user customizes the Microsoft Visio Viewer toolbar by adding or removing buttons.
 
@@ -18,7 +18,7 @@ Occurs when the user customizes the Microsoft Visio Viewer toolbar by adding or 
 
 _expression_.**OnToolbarCustomized**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

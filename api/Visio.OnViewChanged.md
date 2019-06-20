@@ -1,5 +1,5 @@
 ---
-title: Viewer.OnViewChanged Event (Visio Viewer)
+title: Viewer.OnViewChanged event (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.OnViewChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.OnViewChanged Event (Visio Viewer)
+# Viewer.OnViewChanged event (Visio Viewer)
 
 Occurs when the view of the current page is changed in Microsoft Visio Viewer.
 
@@ -18,7 +18,7 @@ Occurs when the view of the current page is changed in Microsoft Visio Viewer.
 
 _expression_.**OnViewChanged**(**_PageXAtViewCenter_**,  **_PageYAtViewCenter_**,  **_ZoomFactor_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

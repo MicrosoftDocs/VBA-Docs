@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.Validation
 ms.assetid: d59880de-ba16-eccf-fd94-f69da9a1efea
-ms.date: 06/08/2017
+ms.date: 06/19/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Stores information about diagram validation for the document.
 
 ## Remarks
 
-To get a  **Validation** object, use the **[Validation](Visio.Document.Validation.md)** property of the **[Document](Visio.Document.md)** object.
+To get a **Validation** object, use the **[Validation](Visio.Document.Validation.md)** property of the **Document** object.
 
 ## Methods
 

@@ -1,5 +1,5 @@
 ---
-title: Viewer.LayerColor Property (Visio Viewer)
+title: Viewer.LayerColor property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.LayerColor
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.LayerColor Property (Visio Viewer)
+# Viewer.LayerColor property (Visio Viewer)
 
 Gets or sets the color of the layer at the specified index position in the current drawing open in Microsoft Visio Viewer. Read/write.
 
@@ -18,7 +18,7 @@ Gets or sets the color of the layer at the specified index position in the curre
 
 _expression_.**LayerColor**(**_LayerIndex_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

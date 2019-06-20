@@ -1,5 +1,5 @@
 ---
-title: Viewer.MarkupOverlaysVisible Property (Visio Viewer)
+title: Viewer.MarkupOverlaysVisible property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.MarkupOverlaysVisible
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.MarkupOverlaysVisible Property (Visio Viewer)
+# Viewer.MarkupOverlaysVisible property (Visio Viewer)
 
 Gets or sets a value that indicates whether markup overlays are visible in the current document open in Microsoft Visio Viewer. Read/write.
 
@@ -18,7 +18,7 @@ Gets or sets a value that indicates whether markup overlays are visible in the c
 
 _expression_.**MarkupOverlaysVisible**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

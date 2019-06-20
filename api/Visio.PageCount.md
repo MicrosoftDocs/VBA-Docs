@@ -1,5 +1,5 @@
 ---
-title: Viewer.PageCount Property (Visio Viewer)
+title: Viewer.PageCount property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.PageCount
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.PageCount Property (Visio Viewer)
+# Viewer.PageCount property (Visio Viewer)
 
 Gets the number of pages in the current document that is open in Microsoft Visio Viewer. Read-only.
 
@@ -18,7 +18,7 @@ Gets the number of pages in the current document that is open in Microsoft Visio
 
 _expression_.**PageCount**
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Return value

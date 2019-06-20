@@ -21,7 +21,7 @@ Indicates the unit of measure associated with a  **Cell** object. Read-only.
 
 _expression_. `Units`
 
-_expression_ A variable that represents a [Cell](Visio.Cell.md) object.
+_expression_ A variable that represents a **[Cell](Visio.Cell.md)** object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: Viewer.PageIndexToID Property (Visio Viewer)
+title: Viewer.PageIndexToID property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.PageIndexToID
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.PageIndexToID Property (Visio Viewer)
+# Viewer.PageIndexToID property (Visio Viewer)
 
 Gets the ID of the page at the specified index in the collection of pages in the drawing that is open in Microsoft Visio Viewer. Read-only.
 
@@ -18,7 +18,7 @@ Gets the ID of the page at the specified index in the collection of pages in the
 
 _expression_.**PageIndexToID**(**_PageIndex_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

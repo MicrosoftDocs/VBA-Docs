@@ -21,7 +21,7 @@ Returns the set ID of an  **AccelTable** object in its collection. Read-only.
 
 _expression_.**SetID**
 
-_expression_ A variable that represents an [AccelTable](Visio.AccelTable.md) object.
+_expression_ A variable that represents an **[AccelTable](Visio.AccelTable.md)** object.
 
 
 ## Return value

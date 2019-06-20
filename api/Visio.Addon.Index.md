@@ -21,7 +21,7 @@ Gets the ordinal position of an  **Addon** object in the **Addons** collection. 
 
 _expression_.**Index**
 
-_expression_ A variable that represents a [Addon](Visio.Addon.md) object.
+_expression_ A variable that represents an **[Addon](Visio.Addon.md)** object.
 
 
 ## Return value

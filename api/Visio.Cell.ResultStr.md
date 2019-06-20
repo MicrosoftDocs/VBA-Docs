@@ -21,7 +21,7 @@ Gets the value of a ShapeSheet cell expressed as a string. Read-only.
 
 _expression_. `ResultStr`( `_UnitsNameOrCode_` )
 
-_expression_ A variable that represents a [Cell](Visio.Cell.md) object.
+_expression_ A variable that represents a **[Cell](Visio.Cell.md)** object.
 
 
 ## Parameters

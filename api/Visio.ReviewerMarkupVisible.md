@@ -1,5 +1,5 @@
 ---
-title: Viewer.ReviewerMarkupVisible Property (Visio Viewer)
+title: Viewer.ReviewerMarkupVisible property (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.ReviewerMarkupVisible
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.ReviewerMarkupVisible Property (Visio Viewer)
+# Viewer.ReviewerMarkupVisible property (Visio Viewer)
 
 Gets or sets a value that indicates whether markup of the specified reviewer is visible in the drawing that is open in Microsoft Visio Viewer. Read/write.
 
@@ -18,7 +18,7 @@ Gets or sets a value that indicates whether markup of the specified reviewer is 
 
 _expression_.**ReviewerMarkupVisible**(**_ReviewerIndex_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters

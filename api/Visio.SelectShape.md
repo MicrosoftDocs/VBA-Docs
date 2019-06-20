@@ -1,5 +1,5 @@
 ---
-title: Viewer.SelectShape Method (Visio Viewer)
+title: Viewer.SelectShape method (Visio Viewer)
 ms.prod: visio
 api_name:
 - Visio.SelectShape
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Viewer.SelectShape Method (Visio Viewer)
+# Viewer.SelectShape method (Visio Viewer)
 
 Selects the specified shape in the drawing that is open in Microsoft Visio Viewer.
 
@@ -18,7 +18,7 @@ Selects the specified shape in the drawing that is open in Microsoft Visio Viewe
 
 _expression_.**SelectShape**(**_ShapeIndex_**)
 
- _expression_ An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 
 ## Parameters
