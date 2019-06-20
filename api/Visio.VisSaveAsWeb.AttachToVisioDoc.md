@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.VisSaveAsWeb.AttachToVisioDoc
 ms.assetid: ed2aba12-21b0-d953-8f5b-0634255f03b5
-ms.date: 06/08/2017
+ms.date: 06/21/2019
 localization_priority: Normal
 ---
 
@@ -25,11 +25,11 @@ _expression_ An expression that returns a **[VisSaveAsWeb](Visio.VisSaveAsWeb.md
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|docObj |Required| **Document**|An Automation object that supports the **IVDocument** interface.|
+|_docObj_|Required| **Document**|An Automation object that supports the **IVDocument** interface.|
 
 ## Return value
 
- **Nothing**
+**Nothing**
 
 
 ## Remarks
@@ -42,7 +42,6 @@ The **AttachToVisioDoc** method queries the **IUnknown** interface for the prese
 ## Example
 
 The following example shows how to open an existing file and save it as a webpage by using the Save as Web Page feature's default settings and the **AttachToVisioDoc** and **[CreatePages](Visio.VisSaveAsWeb.CreatePages.md)** methods. Before running this example, replace `path\filename` with a valid path and file name for a Visio document to pass to the **Open** method. In addition, replace `targetpath\filename` with a valid target path and a file name for the webpage project files.
-
 
 ```vb
 

@@ -4,38 +4,38 @@ ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.SaveSettings
 ms.assetid: c3b7ba3c-23a0-285f-c668-d220e9d99833
-ms.date: 06/08/2017
+ms.date: 06/21/2019
 localization_priority: Normal
 ---
 
 
 # VisWebPageSettings.SaveSettings method (Visio Save As Web)
 
-Saves the current Web page settings to the registry.
+Saves the current webpage settings to the registry.
 
 
 ## Syntax
 
 _expression_.**SaveSettings**
 
- _expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object.
+_expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object.
 
 
 ## Return value
 
- **Nothing**
+**Nothing**
 
 
 ## Remarks
 
-By default, when some Web page settings are explicitly set to something other than the default value, they are saved to the registry when a Save as Web Page project's files are exported to the target path. The  **SaveSettings** method causes these settings to be written to the registry when the method is called rather than waiting until the files are exported.
+By default, when some webpage settings are explicitly set to something other than the default value, they are saved to the registry when a Save as Web Page project's files are exported to the target path. The **SaveSettings** method causes these settings to be written to the registry when the method is called rather than waiting until the files are exported.
 
-For more information about which settings are persisted to the registry, see  [Persisting Save as Web Page Settings](Visio.VisSaveAsWebRef.PersistSaveAsWebPageSettings.md).
+For more information about which settings are persisted to the registry, see [Persisting Save as Web Page settings](Visio.VisSaveAsWebRef.PersistSaveAsWebPageSettings.md).
 
 
 ## Example
 
-The following example shows how to use the  **SaveSettings** method to immediately change the default value for the **[PriFormat](Visio.VisWebPageSettings.PriFormat.md)** property.
+The following example shows how to use the **SaveSettings** method to immediately change the default value for the **[PriFormat](Visio.VisWebPageSettings.PriFormat.md)** property.
 
 Before running this example, replace `path\filename` with a valid path and file name for the webpage project files.
 

@@ -42,7 +42,7 @@ The  **HighlightPredecessors** method corresponds to the **Predecessors** item i
 
 ## Example
 
-Create a project where task 2 is a predecessor of task 3, and then run the following statements in the  **Immediate** window of the VBE. The **PathPredecessor** statement prints **True**.
+Create a project where task 2 is a predecessor of task 3, and then run the following statements in the Immediate window of the VBE. The **PathPredecessor** statement prints **True**.
 
 
 ```vb

@@ -27,7 +27,7 @@ _expression_ A variable that represents a 'Reports' object.
 
 ## Remarks
 
-To get the index number of a report, you can use the [Report.Index](Project.report.index.md) property. For example, create a report namedReport 1, and then run the following statement in the  **Immediate** window of the VBE:
+To get the index number of a report, you can use the [Report.Index](Project.report.index.md) property. For example, create a report namedReport 1, and then run the following statement in the Immediate window of the VBE:
 
 
 ```vb

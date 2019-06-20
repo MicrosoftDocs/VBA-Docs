@@ -2,7 +2,7 @@
 title: VisWebPageSettings object (Visio Save As Web)
 ms.prod: visio
 ms.assetid: 1f286540-2c46-4a2a-b133-2bfd6168db36
-ms.date: 06/08/2017
+ms.date: 06/21/2019
 localization_priority: Normal
 ---
 
@@ -14,16 +14,15 @@ Contains the settings for the webpage.
 
 ## Remarks
 
-The  **VisWebPageSettings** object serves as a container for a webpage's properties.
+The **VisWebPageSettings** object serves as a container for a webpage's properties.
 
-Many of the properties of the  **VisWebPageSettings** object correspond to the settings available in the **Save As** dialog box when a user chooses the **File** tab, chooses **Export**, chooses  **Change File Type**, chooses  **Web Page (*.htm)**, and then chooses  **Save As**.
+Many of the properties of the **VisWebPageSettings** object correspond to the settings available in the **Save As** dialog box when a user chooses the **File** tab > **Export** > **Change File Type** > **Web Page (*.htm)** > **Save As**.
 
-For example, the  **PageTitle** property, which contains the title that appears in the title bar when a webpage is displayed in a browser, corresponds to the value in the **Page title** box in the **Set Page Title** dialog box (in the **Save As** dialog box, choose **Change Title**). Also, the **DispScreenRes** property corresponds to the value selected in the **Target Monitor** list on the **Advanced** tab of the **Save As Web Page** dialog box (in the **Save As** dialog box, in the **Save as type** list, select **Web Page (\*.htm;\*.html)**, and then choose  **Publish**).
+For example, the **PageTitle** property, which contains the title that appears in the title bar when a webpage is displayed in a browser, corresponds to the value in the **Page title** box in the **Set Page Title** dialog box (**Save As** dialog box > **Change Title**). 
 
-When you want to create a webpage, use the  **[WebPageSettings](Visio.VisSaveAsWeb.WebPageSettings.md)** property of the **VisSaveAsWeb** object to get a reference to the **VisWebPageSettings** object, which you can use to set the webpage's properties, as shown in the following example.
+Also, the **DispScreenRes** property corresponds to the value selected in the **Target Monitor** list on the **Advanced** tab of the **Save As Web Page** dialog box (**Save As** dialog box > **Save as type** list > **Web Page (\*.htm;\*.html)** > **Publish**).
 
-
-
+When you want to create a webpage, use the **[WebPageSettings](Visio.VisSaveAsWeb.WebPageSettings.md)** property of the **VisSaveAsWeb** object to get a reference to the **VisWebPageSettings** object, which you can use to set the webpage's properties, as shown in the following example.
 
 ```vb
 Public Sub VisWebPageSettingsObject_Example() 
@@ -52,8 +51,8 @@ Public Sub VisWebPageSettingsObject_Example()
 End Sub
 ```
 
-
- **Note**  To view the  **VisWebPageSettings** class in the Object Browser, make sure that you have a reference to the Save As Web Page DLL in your project (in the Visual Basic Editor window, choose **References** on the **Tools** menu, and then select the **Microsoft Visio 15`.0 Save As Web Type Library** check box in the **Available References** list).
+> [!NOTE] 
+> To view the **VisWebPageSettings** class in the Object Browser, make sure that you have a reference to the Save As Web Page DLL in your project (in the Visual Basic Editor window, choose **References** on the **Tools** menu, and then select the **Microsoft Visio 15.0 Save As Web Type Library** check box in the **Available References** list).
 
 ## Methods
 

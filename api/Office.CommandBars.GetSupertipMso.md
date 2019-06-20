@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CommandBars.GetSupertipMso method (Office)
 
-Returns the supertip of the control identified by the **idMso** parameter as a String.
+Returns the supertip of the control identified by the _idMso_ parameter as a **String**.
 
 > [!NOTE] 
 > The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
@@ -22,7 +22,7 @@ Returns the supertip of the control identified by the **idMso** parameter as a S
 
 ## Syntax
 
-_expression_.**GetSupertipMso**(_idMso_)
+_expression_.**GetSupertipMso** (_idMso_)
 
 _expression_ An expression that returns a **[CommandBars](Office.CommandBars.md)** object.
 
@@ -40,8 +40,7 @@ String
 
 ## Example
 
-The following sample returns the String "Cut the selection from the document and put it on the Clipboard."
-
+The following sample returns the string "Cut the selection from the document and put it on the Clipboard."
 
 ```vb
 Application.CommandBars.GetSupertipMso("Cut")

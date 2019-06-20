@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # CommandBars.GetEnabledMso method (Office)
 
-Returns **True** if the control identified by the **idMso** parameter is enabled.
+Returns **True** if the control identified by the _idMso_ parameter is enabled.
 
 
 ## Syntax
 
-_expression_.**GetEnabledMso**(_idMso_)
+_expression_.**GetEnabledMso** (_idMso_)
 
-_expression_ An expression that returns a [CommandBars](Office.CommandBars.md) object.
+_expression_ An expression that returns a **[CommandBars](Office.CommandBars.md)** object.
 
 
 ## Parameters
@@ -37,7 +37,6 @@ Boolean
 ## Example
 
 The following sample returns **True** if the **Bold** button is enabled.
-
 
 ```vb
 Application.CommandBars.GetEnabledMso("Bold")

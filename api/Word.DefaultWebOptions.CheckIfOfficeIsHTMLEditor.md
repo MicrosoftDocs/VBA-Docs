@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**CheckIfOfficeIsHTMLEditor**
 
-_expression_ A variable that represents a '[DefaultWebOptions](Word.DefaultWebOptions.md)' object.
+_expression_ A variable that represents a **[DefaultWebOptions](Word.DefaultWebOptions.md)** object.
 
 
 ## Remarks

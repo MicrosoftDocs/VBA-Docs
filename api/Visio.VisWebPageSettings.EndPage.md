@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.EndPage
 ms.assetid: 4b7ebf2d-b814-8588-b25e-7c54fd0affda
-ms.date: 06/08/2017
+ms.date: 06/21/2019
 localization_priority: Normal
 ---
 
@@ -23,26 +23,23 @@ _expression_.**EndPage**
 
 ## Return value
 
- **Long**
+**Long**
 
 
 ## Remarks
 
-The start page number is specified in the  **[StartPage](Visio.VisWebPageSettings.StartPage.md)** property.
+The start page number is specified in the **[StartPage](Visio.VisWebPageSettings.StartPage.md)** property.
 
-The  **EndPage** property value corresponds to the value in the **to** box on the **General** tab of the **Save As Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the  **Save as type** list, select **Web Page (*.htm;*.html)**, and then click  **Publish**).
+The **EndPage** property value corresponds to the value in the **to** box on the **General** tab of the **Save As Web Page** dialog box (**BackstageButton** tab > **Save As** > **Save as type** list > **Web Page (\*.htm;\*.html)** > **Publish**).
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **EndPage** property to save a range of pages in a drawing (in this case, from page 2 to page 3) as a webpage instead of the complete drawing.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **EndPage** property to save a range of pages in a drawing (in this case, from page 2 to page 3) as a webpage instead of the complete drawing.
 
 This macro assumes that the current Visio drawing contains at least three pages.
 
-Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the filename that you want to assign to your webpage.
-
-
-
+Before running this macro, replace _path\filename.htm_ with a valid target path on your computer and the filename that you want to assign to your webpage.
 
 ```vb
 Public Sub EndPage_Example() 

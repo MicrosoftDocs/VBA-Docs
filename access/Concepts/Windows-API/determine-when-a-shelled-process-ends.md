@@ -115,6 +115,6 @@ The syntax of the **CreateProcess** function is complex, so in the example code,
 
     <br/>
 
-3. Type **Testing** in the **Immediate** window. Notepad starts. After you close Notepad, a message box notifies you that the process has completed.
+3. Type **Testing** in the Immediate window. Notepad starts. After you close Notepad, a message box notifies you that the process has completed.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

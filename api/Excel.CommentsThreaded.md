@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: excel
 api_name:
 - Excel.CommentsThreaded
-ms.date: 05/15/2019
+ms.date: 06/21/2019
 localization_priority: Normal
 ---
 
@@ -37,9 +37,7 @@ Next
 Use the **[AddCommentThreaded](Excel.Range.AddCommentThreaded.md)** method of the **Range** object to add a threaded comment to a range. The following example adds a threaded comment to cell E5 on worksheet one.
 
 ```vb
-With Worksheets(1).Range("e5").AddCommentThreaded
- .Text "reviewed on " & Date 
-End With
+Worksheets(1).Range("e5").AddCommentThreaded("This is a Threaded Comment")
 ```
 
 <br/>

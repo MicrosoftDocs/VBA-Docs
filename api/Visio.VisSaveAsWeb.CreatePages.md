@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.VisSaveAsWeb.CreatePages
 ms.assetid: 48094af2-55fb-9732-19bf-8a73827d1afb
-ms.date: 06/08/2017
+ms.date: 06/21/2019
 localization_priority: Normal
 ---
 

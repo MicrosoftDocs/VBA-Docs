@@ -19,7 +19,7 @@ _expression_ A variable that represents an [Application](./Project.Application.m
 
 ## Example
 
-The following example prints a list of built-in reports in the  **Immediate** window of the VBE.
+The following example prints a list of built-in reports in the Immediate window of the VBE.
 
 
 ```vb

@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.Stylesheet
 ms.assetid: 9b837460-83a6-71f8-b63f-3f251dedc87c
-ms.date: 06/08/2017
+ms.date: 06/21/2019
 localization_priority: Normal
 ---
 
@@ -18,33 +18,30 @@ Specifies a cascading stylesheet (CSS) provided by Microsoft Visio, or one that 
 
 _expression_.**Stylesheet**
 
- _expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object.
+_expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object.
 
 
 ## Return value
 
- **String**
+**String**
 
 
 ## Remarks
 
-A stylesheet can be one provided by Visio or one that you create yourself. If you store a stylesheet that you create in the following folder, it will appear in the  **Style sheet** drop-down list on the **Advanced** tab of the **Save As Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the  **Save as type** list, select **Web Page (*.htm;*.html)**, click  **Publish**, and then click  **Advanced**): 
+A stylesheet can be one provided by Visio or one that you create yourself. If you store a stylesheet that you create in the following folder, it appears in the **Style sheet** drop-down list on the **Advanced** tab of the **Save As Web Page** dialog box (**BackstageButton** tab > **Save As** > **Save as type** list > **Web Page (\*.htm;\*.html)** > **Publish** > **Advanced**): 
 
-\ _your_Visio_path_\ _your_language_ID_\
+> \ _your\_Visio\_path_\ _your\_language\_ID_\
 
 Visio identifies stylesheets by searching through the folder named for your language ID (for example, 1033) for CSS files.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Stylesheet** property to assign the "Steel" stylesheet (supplied by Visio) to the webpage you are creating.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Stylesheet** property to assign the Steel stylesheet (supplied by Visio) to the webpage that you are creating.
 
-Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the file name that you want to assign to your webpage. Also, replace _your_Visio_path_ and _your_language_ID_ with the path to Visio stylesheets on your computer, for example:
+Before running this macro, replace `path\filename.htm` with a valid target path on your computer and the file name that you want to assign to your webpage. Also, replace `your_Visio_path` and `your_language_ID` with the path to Visio stylesheets on your computer, for example:
 
-C:\Program Files\Microsoft Office\Visio14\1033...
-
-
-
+> C:\Program Files\Microsoft Office\Visio14\1033...
 
 ```vb
 Public Sub Stylesheet_Example() 
