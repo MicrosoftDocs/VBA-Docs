@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.Search property (Visio Save As Web)
+# VisWebPageSettings.Search property
 
 Determines whether the **Search Pages** control for searching for shapes in a drawing is displayed on a webpage. Read/write.
 

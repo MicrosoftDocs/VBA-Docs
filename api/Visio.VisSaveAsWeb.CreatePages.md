@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisSaveAsWeb.CreatePages method (Visio Save As Web)
+# VisSaveAsWeb.CreatePages method
 
 Initiates webpage creation.
 

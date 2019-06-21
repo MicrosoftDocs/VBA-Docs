@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.GetFormatName method (Visio Save As Web)
+# VisWebPageSettings.GetFormatName method
 
 Places the friendly name of the output format specified by the index passed to this method in the _pVal_ parameter passed to the method.
 

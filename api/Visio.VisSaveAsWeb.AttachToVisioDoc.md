@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisSaveAsWeb.AttachToVisioDoc method (Visio Save As Web)
+# VisSaveAsWeb.AttachToVisioDoc method
 
 Indicates which document to save as a webpage.
 

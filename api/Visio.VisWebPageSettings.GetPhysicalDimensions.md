@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.GetPhysicalDimensions method (Visio Save As Web)
+# VisWebPageSettings.GetPhysicalDimensions method
 
 Based on the enumerated screen-resolution value passed to the method in the _eRes_ parameter, places real-world values for screen width and height in pixels in the _pnWidth_ and _pnHeight_ variables passed to the method as parameters.
 

@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisSaveAsWeb.WebPageSettings property (Visio Save As Web)
+# VisSaveAsWeb.WebPageSettings property
 
 Returns a **[VisWebPageSettings](Visio.VisWebPageSettings.md)** object that represents the webpage settings that will be used for the Save as Web Page operation. Read-only.
 

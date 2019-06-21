@@ -34,7 +34,7 @@ _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 ## Remarks
 
-The expression "parent shape" refers to the group shape of which the specified shape is a part.
+The expression *parent shape* refers to the group shape of which the specified shape is a part.
 
 The collection of shapes is one-based, so the index of the first shape in the collection is 1.
 

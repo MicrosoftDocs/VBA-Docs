@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.SecFormat property (Visio Save As Web)
+# VisWebPageSettings.SecFormat property
 
 Specifies the secondary output format for the webpage. Read/write.
 

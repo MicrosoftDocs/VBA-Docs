@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.EndPage property (Visio Save As Web)
+# VisWebPageSettings.EndPage property
 
 Specifies the page number of the last page in the range when you save a range of pages as a webpage. Read/write.
 

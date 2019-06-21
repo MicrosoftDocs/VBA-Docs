@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.Stylesheet property (Visio Save As Web)
+# VisWebPageSettings.Stylesheet property
 
 Specifies a cascading stylesheet (CSS) provided by Microsoft Visio, or one that you have created, that is applied to the webpage. Read/write.
 

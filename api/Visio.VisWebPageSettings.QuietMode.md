@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.QuietMode property (Visio Save As Web)
+# VisWebPageSettings.QuietMode property
 
 Determines whether dialog boxes are displayed in the Visio user interface when you save a drawing as a webpage. Read/write.
 

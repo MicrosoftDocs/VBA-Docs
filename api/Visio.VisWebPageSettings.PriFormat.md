@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.PriFormat property (Visio Save As Web)
+# VisWebPageSettings.PriFormat property
 
 Specifies the primary output format for the webpage. Read/write.
 
