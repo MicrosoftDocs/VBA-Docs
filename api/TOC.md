@@ -24845,7 +24845,7 @@
 ###### [InstanceHandle64](Visio.Application.InstanceHandle64.md)
 ###### [IsInScope](Visio.Application.IsInScope.md)
 ###### [IsUndoingOrRedoing](Visio.Application.IsUndoingOrRedoing.md)
-###### [IsVisio32](Visio.IsVisio32.md)
+###### [IsVisio32](Visio.Application.IsVisio32.md)
 ###### [Language](Visio.Application.Language.md)
 ###### [LanguageHelp](Visio.Application.LanguageHelp.md)
 ###### [LanguageSettings](Visio.Application.LanguageSettings.md)

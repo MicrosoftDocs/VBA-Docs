@@ -21,7 +21,7 @@ Closes the indicated instance of Microsoft Visio.
 
 _expression_. `Quit`
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Return value

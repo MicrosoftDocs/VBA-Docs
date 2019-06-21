@@ -21,7 +21,7 @@ Adds a new object to a collection.
 
 _expression_.**Add**
 
-_expression_ A variable that represents a [Hyperlinks](Visio.Hyperlinks.md) object.
+_expression_ A variable that represents a **[Hyperlinks](Visio.Hyperlinks.md)** object.
 
 
 ## Return value

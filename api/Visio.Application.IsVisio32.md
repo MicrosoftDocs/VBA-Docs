@@ -5,7 +5,7 @@ f1_keywords:
 - vis_sdr.chm10000000
 ms.prod: visio
 api_name:
-- Visio.IsVisio32
+- Visio.Application.IsVisio32
 ms.assetid: 14dc8f6b-3548-f76e-50da-cb19426b171f
 ms.date: 06/08/2017
 localization_priority: Normal

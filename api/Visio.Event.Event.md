@@ -21,7 +21,7 @@ Gets or sets the event code of an  **Event** object—an event-action pair. When
 
 _expression_. `Event`
 
-_expression_ A variable that represents a [Event](Visio.Event.md) object.
+_expression_ A variable that represents an **[Event](Visio.Event.md)** object.
 
 
 ## Return value

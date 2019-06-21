@@ -21,7 +21,7 @@ Returns the  **Addons** collection of an **Application** or **InvisibleApp** obj
 
 _expression_. `Addons`
 
-_expression_ A variable that represents a [Global](Visio.Global.md) object.
+_expression_ A variable that represents a **[Global](Visio.Global.md)** object.
 
 
 ## Return value

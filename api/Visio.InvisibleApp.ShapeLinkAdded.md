@@ -22,7 +22,7 @@ Occurs after a shape is linked to a data row.
 
 Private Sub  _expression_ _'ShapeLinkAdded'(**_ByVal Shape As [IVSHAPE]_**, **_ByVal DataRecordsetID As Long_**, **_ByVal DataRowID As Long_**)
 
- _expression_ An expression that returns a [InvisibleApp](Visio.InvisibleApp.md) object.
+ _expression_ An expression that returns an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters

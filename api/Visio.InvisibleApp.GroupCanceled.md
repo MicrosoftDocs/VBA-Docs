@@ -18,7 +18,7 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 
 Private Sub  _expression_ _'GroupCanceled'(**_ByVal Selection As [IVSELECTION]_**)
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters

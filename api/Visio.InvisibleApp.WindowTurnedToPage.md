@@ -18,7 +18,7 @@ Occurs after a window shows a different page.
 
 Private Sub  _expression_ _'WindowTurnedToPage'(**_ByVal Window As [IVWINDOW]_**)
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters

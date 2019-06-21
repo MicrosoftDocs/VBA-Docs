@@ -21,7 +21,7 @@ Returns a reference to the Microsoft Office (MSO)  **LanguageSettings** interfac
 
 _expression_. `LanguageSettings`
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Return value

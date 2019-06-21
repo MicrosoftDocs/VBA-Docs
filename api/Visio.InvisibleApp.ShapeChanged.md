@@ -18,7 +18,7 @@ Occurs after a property of a shape that is not stored in a cell is changed in a 
 
 Private Sub  _expression_ _'ShapeChanged'(**_ByVal Shape As [IVSHAPE]_**)
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters

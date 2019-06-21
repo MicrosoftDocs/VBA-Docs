@@ -18,7 +18,7 @@ Occurs before the application deletes a master in response to a user action in t
 
 Private Sub  _expression_ _'QueryCancelMasterDelete'(**_ByVal Master As [IVMASTER]_**)
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters

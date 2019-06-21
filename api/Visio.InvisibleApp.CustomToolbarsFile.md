@@ -21,7 +21,7 @@ Returns or sets the name of the file that defines custom toolbars and status bar
 
 _expression_. `CustomToolbarsFile`
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Return value

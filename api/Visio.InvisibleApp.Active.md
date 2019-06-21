@@ -21,7 +21,7 @@ Indicates whether the instance of Microsoft Visio represented by the  **Applicat
 
 _expression_.**Active**
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Return value

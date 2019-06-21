@@ -21,7 +21,7 @@ Returns the ASCII code associated with a  **KeyPress** event. Read-only.
 
 _expression_. `KeyAscii`
 
-_expression_ A variable that represents a [KeyboardEvent](Visio.KeyboardEvent.md) object.
+_expression_ A variable that represents a **[KeyboardEvent](Visio.KeyboardEvent.md)** object.
 
 
 ## Return value

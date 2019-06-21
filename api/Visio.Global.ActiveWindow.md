@@ -21,7 +21,7 @@ Returns the active  **Window** object. Read-only.
 
 _expression_. `ActiveWindow`
 
-_expression_ A variable that represents a [Global](Visio.Global.md) object.
+_expression_ A variable that represents a **[Global](Visio.Global.md)** object.
 
 
 ## Return value

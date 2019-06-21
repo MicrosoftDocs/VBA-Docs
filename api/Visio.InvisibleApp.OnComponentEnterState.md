@@ -21,7 +21,7 @@ Informs a Microsoft Visio instance that client code is causing the instance to e
 
 _expression_. `OnComponentEnterState`( `_uStateID_` , `_bEnter_` )
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters

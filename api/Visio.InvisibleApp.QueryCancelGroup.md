@@ -18,7 +18,7 @@ Occurs before the application groups a selection of shapes in response to a user
 
 Private Sub  _expression_ _'QueryCancelGroup'(**_ByVal Selection As [IVSELECTION]_**)
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters

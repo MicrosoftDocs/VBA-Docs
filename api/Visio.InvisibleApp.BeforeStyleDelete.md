@@ -18,7 +18,7 @@ Occurs before a style is deleted.
 
 Private Sub  _expression_ _'BeforeStyleDelete'(**_ByVal Style As [IVSTYLE]_**)
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters

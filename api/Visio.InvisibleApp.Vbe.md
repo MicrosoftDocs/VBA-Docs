@@ -21,7 +21,7 @@ Gets the root object of the object model exposed by Microsoft Visual Basic for A
 
 _expression_. `Vbe`
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Return value

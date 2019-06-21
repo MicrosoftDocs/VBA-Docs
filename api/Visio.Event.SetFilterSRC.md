@@ -21,7 +21,7 @@ Specifies an array of cell ranges and a  **True** or **False** value indicating 
 
 _expression_. `SetFilterSRC`( `_SRCStream()_` )
 
-_expression_ A variable that represents an [Event](Visio.Event.md) object.
+_expression_ A variable that represents an **[Event](Visio.Event.md)** object.
 
 
 ## Parameters

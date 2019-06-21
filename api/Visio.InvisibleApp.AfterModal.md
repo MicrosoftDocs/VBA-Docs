@@ -18,7 +18,7 @@ Occurs after the Microsoft Visio instance leaves a modal state.
 
 Private Sub  _expression_ _'AfterModal'(**_ByVal app As [IVAPPLICATION]_**)
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters
