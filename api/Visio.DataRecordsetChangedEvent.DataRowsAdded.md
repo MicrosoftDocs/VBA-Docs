@@ -17,7 +17,8 @@ localization_priority: Normal
 Returns an array of IDs of data rows newly added to the data recordset as a result of a data-refresh operation. Read-only.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

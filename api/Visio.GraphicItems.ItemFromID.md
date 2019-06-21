@@ -17,7 +17,8 @@ localization_priority: Normal
 Returns a  **GraphicItem** object from the **GraphicItems** collection by using the unique ID of the object. Read-only.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

@@ -17,7 +17,8 @@ localization_priority: Normal
 Gets or sets how often Microsoft Visio automatically refreshes the data recordset. Read/write.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

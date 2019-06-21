@@ -17,7 +17,8 @@ localization_priority: Normal
 Returns an XML string that fully describes a data recordset and conforms to the Microsoft ActiveX® Data Objects (ADO) classic XML schema. Read-only.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

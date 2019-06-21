@@ -14,7 +14,8 @@ localization_priority: Normal
 Occurs after the link between a shape and a data row is deleted.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

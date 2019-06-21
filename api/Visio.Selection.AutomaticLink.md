@@ -17,7 +17,8 @@ localization_priority: Normal
 Links selected shapes to data rows in the specified data recordset automatically, without requiring you to specify the exact correspondence of all shapes and data rows. Returns the number of shapes linked.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

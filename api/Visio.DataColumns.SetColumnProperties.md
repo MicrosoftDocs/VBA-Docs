@@ -17,14 +17,15 @@ localization_priority: Normal
 Sets one or more data-column properties for one or more data columns.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
 _expression_.**SetColumnProperties** (_ColumnNames()_, _Properties()_, _Values()_)
 
-_expression_ An expression that returns a [DataColumns](Visio.DataColumns.md) object.
+_expression_ An expression that returns a **[DataColumns](Visio.DataColumns.md)** object.
 
 
 ## Parameters

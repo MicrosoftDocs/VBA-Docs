@@ -17,7 +17,8 @@ localization_priority: Normal
 Returns an array of names of data columns in a data recordset whose types have changed as a result of data in the data recordset being refreshed. Read-only.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

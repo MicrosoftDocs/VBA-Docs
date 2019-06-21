@@ -17,7 +17,8 @@ localization_priority: Normal
 Gets the data in all columns in the specified row.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

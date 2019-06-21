@@ -17,7 +17,8 @@ localization_priority: Normal
 Gets or sets whether a border is displayed around the graphic items contained in the data graphic that are in default positions. Read/write.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

@@ -17,7 +17,8 @@ localization_priority: Normal
 Gets or sets how long (in seconds) to attempt to establish a data connection before terminating the attempt and generating an error. Read/write.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

@@ -17,7 +17,8 @@ localization_priority: Normal
 Occurs before a  **DataRecordset** object is deleted from the **DataRecordsets** collection.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

@@ -17,7 +17,8 @@ localization_priority: Normal
 Breaks links between all shapes in the selection and data rows in the specified data recordset.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

@@ -17,7 +17,8 @@ localization_priority: Normal
 Sets the value of the expression string that is part of a  **GraphicItem** object's rule, against which shape data (custom properties) are evaluated.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

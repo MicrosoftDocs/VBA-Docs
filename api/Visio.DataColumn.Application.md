@@ -14,17 +14,17 @@ localization_priority: Normal
 
 # DataColumn.Application property (Visio)
 
-Returns the instance of Microsoft Visio that is associated with a  **DataColumn** object. Read-only.
+Returns the instance of Microsoft Visio that is associated with a **DataColumn** object. Read-only.
 
-
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
 _expression_.**Application**
 
- _expression_ An expression that returns a [DataColumn](Visio.DataColumn.md) object.
+_expression_ An expression that returns a **[DataColumn](Visio.DataColumn.md)** object.
 
 
 ## Return value

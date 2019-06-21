@@ -21,7 +21,7 @@ Specifies how to align and arrange a list shape that you want positioned perpend
 
 _expression_. `ListAlignment`
 
- _expression_ An expression that returns a '[ContainerProperties](Visio.ContainerProperties.md)' object.
+ _expression_ An expression that returns a **[ContainerProperties](Visio.ContainerProperties.md)** object.
 
 
 ## Return value

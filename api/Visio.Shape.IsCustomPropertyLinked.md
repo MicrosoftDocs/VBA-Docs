@@ -17,7 +17,8 @@ localization_priority: Normal
 Returns whether the shape data (custom property) row in the Shape Data section of the shape's ShapeSheet spreadsheet is linked to a data row in the specified data recordset.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

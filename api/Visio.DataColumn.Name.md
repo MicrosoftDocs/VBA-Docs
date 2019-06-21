@@ -17,14 +17,15 @@ localization_priority: Normal
 Gets the unique name of the data column in its parent data recordset. Read-only.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
 _expression_.**Name**
 
-_expression_ A variable that represents a [DataColumn](Visio.DataColumn.md) object.
+_expression_ A variable that represents a **[DataColumn](Visio.DataColumn.md)** object.
 
 
 ## Return value

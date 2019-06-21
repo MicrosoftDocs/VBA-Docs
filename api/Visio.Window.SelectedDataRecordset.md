@@ -17,7 +17,8 @@ localization_priority: Normal
 Gets or sets the data recordset that is displayed on the active tab of the  **External Data Window** in the Microsoft Visio user interface (UI). Read/write.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

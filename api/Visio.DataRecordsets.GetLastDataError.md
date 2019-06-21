@@ -17,7 +17,8 @@ localization_priority: Normal
 Gets the Active X Data Objects (ADO) error code, ADO description, and data recordset ID associated with an error that results from adding a new data recordset or refreshing the data in an existing one.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

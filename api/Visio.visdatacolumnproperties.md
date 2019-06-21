@@ -15,7 +15,8 @@ localization_priority: Normal
 Data-column-property constants passed to the  **[DataColumn.SetProperty](Visio.DataColumn.SetProperty.md)** and **[DataColumns.SetColumnProperties](Visio.DataColumns.SetColumnProperties.md)** methods and returned by the **[DataColumn.GetProperty](Visio.DataColumn.GetProperty.md)** method.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 

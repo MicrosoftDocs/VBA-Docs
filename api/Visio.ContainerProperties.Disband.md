@@ -21,7 +21,7 @@ Removes all member shapes from the container and deletes the container shape.
 
 _expression_. `Disband`
 
-_expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
+_expression_ A variable that represents a **[ContainerProperties](Visio.ContainerProperties.md)** object.
 
 
 ## Return value

@@ -14,7 +14,8 @@ localization_priority: Normal
 Occurs after a shape is linked to a data row.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

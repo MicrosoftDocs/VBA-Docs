@@ -17,7 +17,8 @@ localization_priority: Normal
 After data in a data recordset are refreshed, returns an array of names of data columns newly added to the data recordset as a result of the refresh operation. Read-only.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

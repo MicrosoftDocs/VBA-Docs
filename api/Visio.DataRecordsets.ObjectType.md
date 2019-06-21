@@ -14,7 +14,8 @@ localization_priority: Normal
 Returns  **visObjTypeDataRecordsets**, the type of a **DataRecordsets** object. Read-only.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

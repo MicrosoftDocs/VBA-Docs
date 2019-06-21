@@ -17,7 +17,8 @@ localization_priority: Normal
 Gets the  **Document** object that contains the **DataConnection** object. Read-only.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
