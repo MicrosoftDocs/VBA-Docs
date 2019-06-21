@@ -2,7 +2,7 @@
 title: Viewer.HyperlinkCount property (Visio Viewer)
 ms.prod: visio
 api_name:
-- Visio.HyperlinkCount
+- Visio.Viewer.HyperlinkCount
 ms.assetid: 06c06812-25a6-779d-3af4-821538493c4f
 ms.date: 06/21/2019
 localization_priority: Normal

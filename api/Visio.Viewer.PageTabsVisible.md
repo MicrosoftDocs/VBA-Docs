@@ -2,7 +2,7 @@
 title: Viewer.PageTabsVisible property (Visio Viewer)
 ms.prod: visio
 api_name:
-- Visio.PageTabsVisible
+- Visio.Viewer.PageTabsVisible
 ms.assetid: 7ca92d5f-2d34-93f6-a5ca-b331125a847f
 ms.date: 06/21/2019
 localization_priority: Normal

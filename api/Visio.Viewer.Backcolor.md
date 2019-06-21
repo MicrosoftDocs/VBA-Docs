@@ -1,6 +1,8 @@
 ---
 title: Viewer.BackColor property (Visio Viewer)
 ms.prod: visio
+api_name:
+- Visio.Viewer.BackColor
 ms.assetid: 8718d3b6-9521-85d3-64fc-32feeb118274
 ms.date: 06/21/2019
 localization_priority: Normal

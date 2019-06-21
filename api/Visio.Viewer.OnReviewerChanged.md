@@ -2,7 +2,7 @@
 title: Viewer.OnReviewerChanged event (Visio Viewer)
 ms.prod: visio
 api_name:
-- Visio.OnReviewerChanged
+- Visio.Viewer.OnReviewerChanged
 ms.assetid: a705878b-cb2e-5b5c-01ae-e0fca790c0d5
 ms.date: 06/21/2019
 localization_priority: Normal

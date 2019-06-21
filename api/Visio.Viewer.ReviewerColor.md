@@ -2,7 +2,7 @@
 title: Viewer.ReviewerColor property (Visio Viewer)
 ms.prod: visio
 api_name:
-- Visio.ReviewerColor
+- Visio.Viewer.ReviewerColor
 ms.assetid: 6ec6b962-fc19-1fec-2482-836ab71ece90
 ms.date: 06/21/2019
 localization_priority: Normal

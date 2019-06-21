@@ -2,7 +2,7 @@
 title: Viewer.BuildNumber property (Visio Viewer)
 ms.prod: visio
 api_name:
-- Visio.BuildNumber
+- Visio.Viewer.BuildNumber
 ms.assetid: 573cc757-5144-77c0-d168-6d8b4c27fe8d
 ms.date: 06/21/2019
 localization_priority: Normal

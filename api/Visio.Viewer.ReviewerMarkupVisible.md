@@ -2,7 +2,7 @@
 title: Viewer.ReviewerMarkupVisible property (Visio Viewer)
 ms.prod: visio
 api_name:
-- Visio.ReviewerMarkupVisible
+- Visio.Viewer.ReviewerMarkupVisible
 ms.assetid: 3c365da2-1eac-0462-607b-be9923f62942
 ms.date: 06/21/2019
 localization_priority: Normal

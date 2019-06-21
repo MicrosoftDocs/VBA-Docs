@@ -2,7 +2,7 @@
 title: Viewer.CustomPropertyCount property (Visio Viewer)
 ms.prod: visio
 api_name:
-- Visio.CustomPropertyCount
+- Visio.Viewer.CustomPropertyCount
 ms.assetid: d036b187-5cb7-87da-b136-fdaa6624b2d4
 ms.date: 06/21/2019
 localization_priority: Normal

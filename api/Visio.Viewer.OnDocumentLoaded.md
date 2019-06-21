@@ -2,7 +2,7 @@
 title: Viewer.OnDocumentLoaded event (Visio Viewer)
 ms.prod: visio
 api_name:
-- Visio.OnDocumentLoaded
+- Visio.Viewer.OnDocumentLoaded
 ms.assetid: e8e8af2e-ae79-052e-fb13-d7aee66e2d0f
 ms.date: 06/21/2019
 localization_priority: Normal

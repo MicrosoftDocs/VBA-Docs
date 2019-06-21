@@ -2,7 +2,7 @@
 title: Viewer.PageColor property (Visio Viewer)
 ms.prod: visio
 api_name:
-- Visio.PageColor
+- Visio.Viewer.PageColor
 ms.assetid: afda33d5-461b-44d0-a611-df26c632ce12
 ms.date: 06/21/2019
 localization_priority: Normal

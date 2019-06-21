@@ -2,7 +2,7 @@
 title: Viewer.ReviewerInitial property (Visio Viewer)
 ms.prod: visio
 api_name:
-- Visio.ReviewerInitial
+- Visio.Viewer.ReviewerInitial
 ms.assetid: be7bfc55-d4c0-4d7b-c50d-e6106441ca37
 ms.date: 06/21/2019
 localization_priority: Normal
