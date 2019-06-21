@@ -25,7 +25,7 @@ Updates linked shapes with data contained in the string that conforms to the ADO
 
 _expression_. `RefreshUsingXML`( `_NewDataAsXML_` )
 
- _expression_ An expression that returns a [DataRecordset](Visio.DataRecordset.md) object.
+ _expression_ An expression that returns a **[DataRecordset](Visio.DataRecordset.md)** object.
 
 
 ## Parameters

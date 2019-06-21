@@ -21,7 +21,7 @@ Determines whether Microsoft Visio toolbars are merged with those of the host ap
 
 _expression_.**NegotiateToolbars**
 
-_expression_ A variable that represents a [DrawingControl](Visio.DrawingControl.md) object.
+_expression_ A variable that represents a **[DrawingControl](Visio.DrawingControl.md)** object.
 
 
 ## Return value

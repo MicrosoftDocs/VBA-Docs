@@ -21,7 +21,7 @@ Determines the shape extensions that are active in a document. Read/write.
 
 _expression_. `SnapExtensions`
 
-_expression_ A variable that represents a [Document](Visio.Document.md) object.
+_expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Return value

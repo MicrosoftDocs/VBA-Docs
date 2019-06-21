@@ -5,7 +5,7 @@ f1_keywords:
 - vis_sdr.chm10562435
 ms.prod: visio
 api_name:
-- Visio.DiagramServicesEnabled
+- Visio.Document.DiagramServicesEnabled
 ms.assetid: 1a492029-31c8-85bb-0843-31c0a1200055
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -21,7 +21,7 @@ Determines which, if any, diagram services are enabled for the document. Read/wr
 
 _expression_. `DiagramServicesEnabled`
 
- _expression_ An expression that returns a '[Document](Visio.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Visio.Document.md)** object.
 
 
 ## Return value

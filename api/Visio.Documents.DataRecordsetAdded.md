@@ -25,7 +25,7 @@ Occurs when a  **DataRecordset** object is added to a **DataRecordsets** collect
 
 Private Sub  _expression_ _'DataRecordsetAdded'(**_ByVal DataRecordset As [IVDATARECORDSET]_**)
 
- _expression_ An expression that returns a [Documents](Visio.Documents.md) object.
+ _expression_ An expression that returns a **[Documents](Visio.Documents.md)** object.
 
 
 ## Parameters

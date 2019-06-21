@@ -18,7 +18,7 @@ Occurs before the application deletes a page in response to a user action in the
 
 Private Sub  _expression_ _'QueryCancelPageDelete'(**_ByVal page As [IVPAGE]_**)
 
-_expression_ A variable that represents a [DrawingControl](Visio.DrawingControl.md) object.
+_expression_ A variable that represents a **[DrawingControl](Visio.DrawingControl.md)** object.
 
 
 ## Parameters

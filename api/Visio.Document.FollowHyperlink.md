@@ -21,7 +21,7 @@ Navigates to an arbitrary hyperlink.
 
 _expression_. `FollowHyperlink`( `_Address_` , `_SubAddress_` , `_ExtraInfo_` , `_Frame_` , `_NewWindow_` , `_res1_` , `_res2_` , `_res3_` )
 
-_expression_ A variable that represents a [Document](Visio.Document.md) object.
+_expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Parameters

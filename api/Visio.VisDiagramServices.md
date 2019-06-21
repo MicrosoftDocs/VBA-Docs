@@ -14,10 +14,11 @@ localization_priority: Normal
 
 # VisDiagramServices enumeration (Visio)
 
-Specifies constants that represent diagram services. These constants are passed to and returned by the  **[Document.DiagramServicesEnabled](Visio.DiagramServicesEnabled.md)** property.
+Specifies constants that represent diagram services. These constants are passed to and returned by the **[Document.DiagramServicesEnabled](visio.document.diagramservicesenabled.md)** property.
 
 Version Added: Visio 2010 
 
+<br/>
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|

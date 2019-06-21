@@ -25,7 +25,7 @@ Gets the Active X Data Objects (ADO) error code, ADO description, and data recor
 
 _expression_. `GetLastDataError`( `_DataErrorCode_` , `_DataErrorDescription_` , `_RecordsetID_` )
 
- _expression_ An expression that returns a [DataRecordsets](Visio.DataRecordsets.md) object.
+ _expression_ An expression that returns a **[DataRecordsets](Visio.DataRecordsets.md)** object.
 
 
 ## Parameters

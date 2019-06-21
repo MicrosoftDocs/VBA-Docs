@@ -21,7 +21,7 @@ Gets or sets the text string that appears on the left side of a document's foote
 
 _expression_. `FooterLeft`
 
-_expression_ A variable that represents a [Document](Visio.Document.md) object.
+_expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Return value

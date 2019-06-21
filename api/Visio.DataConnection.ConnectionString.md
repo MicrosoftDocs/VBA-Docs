@@ -25,7 +25,7 @@ Gets or sets the connection string that you can use to access an existing  **[Da
 
 _expression_. `ConnectionString`
 
- _expression_ An expression that returns a [DataConnection](Visio.DataConnection.md) object.
+ _expression_ An expression that returns a **[DataConnection](Visio.DataConnection.md)** object.
 
 
 ## Return value

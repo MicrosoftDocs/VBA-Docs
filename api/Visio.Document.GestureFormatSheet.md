@@ -21,7 +21,7 @@ Returns a reference to a document's Gesture Format sheet, which contains the lin
 
 _expression_. `GestureFormatSheet`
 
-_expression_ A variable that represents a [Document](Visio.Document.md) object.
+_expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Return value

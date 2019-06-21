@@ -25,7 +25,7 @@ Returns  **visObjTypeDataRecordsetChangedEvent**, the type of a **DataRecordsetC
 
 _expression_.**ObjectType**
 
- _expression_ An expression that returns a [DataRecordsetChangedEvent](Visio.DataRecordsetChangedEvent.md) object.
+ _expression_ An expression that returns a **[DataRecordsetChangedEvent](Visio.DataRecordsetChangedEvent.md)** object.
 
 
 ## Return value

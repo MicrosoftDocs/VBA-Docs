@@ -21,7 +21,7 @@ Occurs when a new callout relationship is added to a document.
 
 Private Sub  _expression_ _'CalloutRelationshipAdded'(**_By Val ShapePair As RelatedShapePairEvent_**)
 
-_expression_ A variable that represents a '[Documents](Visio.Documents.md)' object.
+_expression_ A variable that represents a **[Documents](Visio.Documents.md)** object.
 
 
 ## Parameters

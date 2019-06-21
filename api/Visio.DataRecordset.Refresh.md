@@ -25,7 +25,7 @@ Executes the query string associated with the connected (non-XML-based)  **[Data
 
 _expression_.**Refresh**
 
- _expression_ An expression that returns a [DataRecordset](Visio.DataRecordset.md) object.
+ _expression_ An expression that returns a **[DataRecordset](Visio.DataRecordset.md)** object.
 
 
 ## Return value

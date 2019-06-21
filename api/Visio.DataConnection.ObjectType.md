@@ -25,7 +25,7 @@ Returns  **visObjTypeDataConnection**, the type of a **DataConnection** object. 
 
 _expression_.**ObjectType**
 
- _expression_ An expression that returns a [DataConnection](Visio.DataConnection.md) object.
+ _expression_ An expression that returns a **[DataConnection](Visio.DataConnection.md)** object.
 
 
 ## Return value

@@ -5,7 +5,7 @@ f1_keywords:
 - vis_sdr.chm10513295
 ms.prod: visio
 api_name:
-- Visio.Container
+- Visio.Document.Container
 ms.assetid: a5b2c90e-f9e0-cc09-8388-566729c1c4eb
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -21,7 +21,7 @@ Returns an  **IDispatch** interface on the ActiveX container in which the docume
 
 _expression_. `Container`
 
-_expression_ A variable that represents a [Document](Visio.Document.md) object.
+_expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Return value

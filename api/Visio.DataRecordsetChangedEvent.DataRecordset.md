@@ -25,7 +25,7 @@ Returns the  **DataRecordset** object associated with the **DataRecordsetChanged
 
 _expression_.**DataRecordset**
 
- _expression_ An expression that returns a [DataRecordsetChangedEvent](Visio.DataRecordsetChangedEvent.md) object.
+ _expression_ An expression that returns a **[DataRecordsetChangedEvent](Visio.DataRecordsetChangedEvent.md)** object.
 
 
 ## Return value

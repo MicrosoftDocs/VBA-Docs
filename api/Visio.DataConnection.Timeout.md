@@ -16,16 +16,15 @@ localization_priority: Normal
 
 Gets or sets how long (in seconds) to attempt to establish a data connection before terminating the attempt and generating an error. Read/write.
 
-
 > [!NOTE] 
 > This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
-_expression_. `Timeout`
+_expression_.**Timeout**
 
- _expression_ An expression that returns a [DataConnection](Visio.DataConnection.md) object.
+_expression_ An expression that returns a **[DataConnection](Visio.DataConnection.md)** object.
 
 
 ## Return value
@@ -35,6 +34,7 @@ Long
 
 ## Remarks
 
-The default setting for the  **Timeout** property is 15 seconds.
+The default setting for the **Timeout** property is 15 seconds.
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

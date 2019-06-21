@@ -25,7 +25,7 @@ Gets or sets how often Microsoft Visio automatically refreshes the data recordse
 
 _expression_. `RefreshInterval`
 
- _expression_ An expression that returns a [DataRecordset](Visio.DataRecordset.md) object.
+ _expression_ An expression that returns a **[DataRecordset](Visio.DataRecordset.md)** object.
 
 
 ## Return value
