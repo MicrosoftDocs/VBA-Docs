@@ -21,7 +21,7 @@ Occurs before the application deletes a selection of shapes in response to a use
 
 Private Sub  _expression_ _'QueryCancelSelectionDelete'(**_ByVal Selection As [IVSELECTION]_**)
 
-_expression_ A variable that represents a [Masters](Visio.Masters.md) object.
+_expression_ A variable that represents a **[Masters](Visio.Masters.md)** object.
 
 
 ## Parameters

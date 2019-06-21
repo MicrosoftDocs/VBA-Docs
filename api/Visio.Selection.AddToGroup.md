@@ -19,9 +19,9 @@ Adds the selected shapes to the selected group.
 
 ## Syntax
 
-_expression_. `AddToGroup`
+_expression_.**AddToGroup**
 
-_expression_ A variable that represents a [Selection](Visio.Selection.md) object.
+_expression_ A variable that represents a **[Selection](Visio.Selection.md)** object.
 
 
 ## Return value
@@ -36,12 +36,9 @@ The current selection must contain both the shapes to add and the group to which
 
 ## Example
 
-The following macro shows how to use the  **AddToGroup** method to add selected shapes to a selected group.
+The following macro shows how to use the **AddToGroup** method to add selected shapes to a selected group.
 
-Before running this macro, open the  **Basic Shapes** stencil or a document based on the **Basic Diagram** template.
-
-
-
+Before running this macro, open the **Basic Shapes** stencil or a document based on the **Basic Diagram** template.
 
 ```vb
  

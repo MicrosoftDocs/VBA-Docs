@@ -21,7 +21,7 @@ Returns an object's type. Read-only.
 
 _expression_.**ObjectType**
 
-_expression_ A variable that represents a [Path](Visio.Path.md) object.
+_expression_ A variable that represents a **[Path](Visio.Path.md)** object.
 
 
 ## Return value

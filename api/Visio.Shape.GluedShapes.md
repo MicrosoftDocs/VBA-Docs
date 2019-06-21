@@ -21,7 +21,7 @@ Returns an array that contains the identifiers of the shapes that are glued to a
 
 _expression_. `GluedShapes`( `_Flags_` , `_CategoryFilter_` , `_pOtherConnectedShape_` )
 
-_expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters

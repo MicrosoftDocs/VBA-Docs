@@ -25,7 +25,7 @@ Gets or sets the ID of the data row that is selected (or that is the primary row
 
 _expression_. `SelectedDataRowID`
 
- _expression_ An expression that returns a [Window](Visio.Window.md) object.
+ _expression_ An expression that returns a **[Window](Visio.Window.md)** object.
 
 
 ## Return value

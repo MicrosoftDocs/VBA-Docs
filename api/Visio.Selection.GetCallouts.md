@@ -21,7 +21,7 @@ Returns the list of identifiers of the callout shapes in the selection.
 
 _expression_. `GetCallouts`( `_NestedOptions_` )
 
-_expression_ A variable that represents a '[Selection](Visio.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Visio.Selection.md)** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Adds a new  **Style** object to a **Styles** collection.
 
 _expression_.**Add** (_StyleName_, _BasedOn_, _fIncludesText_, _fIncludesLine_, _fIncludesFill_)
 
-_expression_ A variable that represents a [Styles](Visio.Styles.md) object.
+_expression_ A variable that represents a **[Styles](Visio.Styles.md)** object.
 
 
 ## Parameters

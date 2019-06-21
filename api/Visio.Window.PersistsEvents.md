@@ -21,7 +21,7 @@ Indicates whether an object is capable of containing persistent events in its  *
 
 _expression_. `PersistsEvents`
 
-_expression_ A variable that represents a [Window](Visio.Window.md) object.
+_expression_ A variable that represents a **[Window](Visio.Window.md)** object.
 
 
 ## Return value

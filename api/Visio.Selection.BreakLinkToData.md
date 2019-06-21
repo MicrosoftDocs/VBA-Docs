@@ -25,7 +25,7 @@ Breaks links between all shapes in the selection and data rows in the specified 
 
 _expression_. `BreakLinkToData`( `_DataRecordsetID_` )
 
- _expression_ An expression that returns a [Selection](Visio.Selection.md) object.
+ _expression_ An expression that returns a **[Selection](Visio.Selection.md)** object.
 
 
 ## Parameters

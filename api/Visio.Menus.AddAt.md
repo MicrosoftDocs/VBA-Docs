@@ -21,7 +21,7 @@ Creates a new  **Menu** object at a specified index in the **Menus** collection.
 
 _expression_. `AddAt`( `_lIndex_` )
 
-_expression_ A variable that represents a [Menus](Visio.Menus.md) object.
+_expression_ A variable that represents a **[Menus](Visio.Menus.md)** object.
 
 
 ## Parameters

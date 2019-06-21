@@ -21,7 +21,7 @@ Determines how a  **Toolbar** object is protected from user customization. Read/
 
 _expression_. `Protection`
 
-_expression_ A variable that represents a [Toolbar](Visio.Toolbar.md) object.
+_expression_ A variable that represents a **[Toolbar](Visio.Toolbar.md)** object.
 
 
 ## Return value

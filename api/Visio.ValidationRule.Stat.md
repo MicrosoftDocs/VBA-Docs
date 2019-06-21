@@ -21,7 +21,7 @@ Returns status information for an object. Read-only.
 
 _expression_.**Stat**
 
-_expression_ A variable that represents a '[ValidationRule](Visio.ValidationRule.md)' object.
+_expression_ A variable that represents a **[ValidationRule](Visio.ValidationRule.md)** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Sets the size and position of the client area of a window.
 
 _expression_. `SetWindowRect`( `_nLeft_` , `_nTop_` , `_nWidth_` , `_nHeight_` )
 
-_expression_ A variable that represents a [Window](Visio.Window.md) object.
+_expression_ A variable that represents a **[Window](Visio.Window.md)** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Occurs when a keyboard key is pressed.
 
 Private Sub  _expression_ _'KeyPress'(**_ByVal KeyAscii As Long_**, **_ByVal CancelDefault As Boolean_**)
 
-_expression_ A variable that represents a [Window](Visio.Window.md) object.
+_expression_ A variable that represents a **[Window](Visio.Window.md)** object.
 
 
 ## Parameters

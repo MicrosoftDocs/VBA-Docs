@@ -21,7 +21,7 @@ Returns the collection of validation rules in the validation rule set. Read-only
 
 _expression_. `Rules`
 
-_expression_ A variable that represents a '[ValidationRuleSet](Visio.ValidationRuleSet.md)' object.
+_expression_ A variable that represents a **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object.
 
 
 ## Return value

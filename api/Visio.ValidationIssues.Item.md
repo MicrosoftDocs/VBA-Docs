@@ -21,7 +21,7 @@ Returns the  **[ValidationIssue](Visio.ValidationIssue.md)** object that has the
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a '[ValidationIssues](Visio.ValidationIssues.md)' object.
+_expression_ A variable that represents a **[ValidationIssues](Visio.ValidationIssues.md)** object.
 
 
 ## Parameters

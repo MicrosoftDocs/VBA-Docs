@@ -21,7 +21,7 @@ Gets or sets the docking order of a  **MenuSet** object in relation to other ite
 
 _expression_. `RowIndex`
 
-_expression_ A variable that represents a [MenuSet](Visio.MenuSet.md) object.
+_expression_ A variable that represents a **[MenuSet](Visio.MenuSet.md)** object.
 
 
 ## Return value

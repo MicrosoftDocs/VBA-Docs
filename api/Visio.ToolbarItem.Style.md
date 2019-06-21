@@ -21,7 +21,7 @@ Determines whether a toolbar button shows an icon, a caption, or some combinatio
 
 _expression_.**Style**
 
-_expression_ A variable that represents a [ToolbarItem](Visio.ToolbarItem.md) object.
+_expression_ A variable that represents a **[ToolbarItem](Visio.ToolbarItem.md)** object.
 
 
 ## Return value

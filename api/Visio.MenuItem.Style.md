@@ -21,7 +21,7 @@ Determines whether a menu item shows an icon, a caption, or some combination. Re
 
 _expression_.**Style**
 
-_expression_ A variable that represents a [MenuItem](Visio.MenuItem.md) object.
+_expression_ A variable that represents a **[MenuItem](Visio.MenuItem.md)** object.
 
 
 ## Return value

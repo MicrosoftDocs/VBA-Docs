@@ -21,7 +21,7 @@ Sets the results or formulas of one or more cells.
 
 _expression_. `SetResults`( `_SRCStream()_` , `_UnitsNamesOrCodes()_` , `_resultArray()_` , `_Flags_` )
 
-_expression_ A variable that represents a [Style](Visio.Style.md) object.
+_expression_ A variable that represents a **[Style](Visio.Style.md)** object.
 
 
 ## Parameters

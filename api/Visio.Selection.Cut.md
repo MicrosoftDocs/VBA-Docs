@@ -21,7 +21,7 @@ Deletes a selection and places it on the Clipboard.
 
 _expression_.**Cut** (_Flags_)
 
-_expression_ A variable that represents a [Selection](Visio.Selection.md) object.
+_expression_ A variable that represents a **[Selection](Visio.Selection.md)** object.
 
 
 ## Parameters

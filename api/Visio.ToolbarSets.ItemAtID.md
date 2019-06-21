@@ -21,7 +21,7 @@ Returns the  **ToolbarSet** object for an ID within a collection. Read-only.
 
 _expression_. `ItemAtID`( `_lID_` )
 
-_expression_ A variable that represents a [ToolbarSets](Visio.ToolbarSets.md) object.
+_expression_ A variable that represents a **[ToolbarSets](Visio.ToolbarSets.md)** object.
 
 
 ## Parameters
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [ToolbarSets](Visio.ToolbarSets.md) ob
 
 ## Return value
 
-ToolbarSet
+**[ToolbarSet](visio.toolbarset.md)**
 
 
 ## Remarks

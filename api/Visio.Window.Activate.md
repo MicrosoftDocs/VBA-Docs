@@ -21,7 +21,7 @@ Activates a window.
 
 _expression_.**Activate**
 
- _expression_ An expression that returns a [Window](Visio.Window.md) object.
+ _expression_ An expression that returns a **[Window](Visio.Window.md)** object.
 
 
 ## Return value

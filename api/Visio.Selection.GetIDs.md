@@ -24,7 +24,7 @@ Gets the shape IDs of the shapes in the selection.
 
 _expression_.**GetIDs**(_ShapeIDs()_)
 
-_expression_ An expression that returns a [Selection](Visio.Selection.md) object.
+_expression_ An expression that returns a **[Selection](Visio.Selection.md)** object.
 
 
 ## Parameters

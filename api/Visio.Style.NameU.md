@@ -21,7 +21,7 @@ Specifies the universal name of a  **Style** object. Read/write.
 
 _expression_.**NameU**
 
-_expression_ A variable that represents a [Style](Visio.Style.md) object.
+_expression_ A variable that represents a **[Style](Visio.Style.md)** object.
 
 
 ## Return value

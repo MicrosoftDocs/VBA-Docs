@@ -21,7 +21,7 @@ Returns an array of identifiers of the shapes that belong to the normal or list 
 
 _expression_. `MemberOfContainersUnion`
 
- _expression_ An expression that returns a '[Selection](Visio.Selection.md)' object.
+ _expression_ An expression that returns a **[Selection](Visio.Selection.md)** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Gets or sets the width of a palette in pixels. Read/write.
 
 _expression_. `PaletteWidth`
 
-_expression_ A variable that represents a [MenuItem](Visio.MenuItem.md) object.
+_expression_ A variable that represents a **[MenuItem](Visio.MenuItem.md)** object.
 
 
 ## Return value

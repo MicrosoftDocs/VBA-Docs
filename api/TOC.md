@@ -26912,7 +26912,7 @@
 ###### [RowCount](Visio.Shape.RowCount.md)
 ###### [RowExists](Visio.Shape.RowExists.md)
 ###### [RowsCellCount](Visio.Shape.RowsCellCount.md)
-###### [RowType](Visio.RowType.md)
+###### [RowType](Visio.Shape.RowType.md)
 ###### [Section](Visio.Shape.Section.md)
 ###### [SectionExists](Visio.Shape.SectionExists.md)
 ###### [Shapes](Visio.Shape.Shapes.md)

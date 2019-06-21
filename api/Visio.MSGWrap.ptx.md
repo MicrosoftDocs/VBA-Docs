@@ -21,7 +21,7 @@ Gets or sets the  **pt.x** member of the **MSG** structure being wrapped. Read/w
 
 _expression_. `ptx`
 
-_expression_ A variable that represents a [MSGWrap](Visio.MSGWrap.md) object.
+_expression_ A variable that represents an **[MSGWrap](Visio.MSGWrap.md)** object.
 
 
 ## Return value

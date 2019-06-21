@@ -25,7 +25,7 @@ Inserts a data graphics legend on a Microsoft Visio drawing page. Returns the li
 
 _expression_. `DropLegend`( `_OuterList_` , `_InnerList_` , `_populateFlags_` )
 
- _expression_ An expression that returns a '[Page](Visio.Page.md)' object.
+ _expression_ An expression that returns a **[Page](Visio.Page.md)** object.
 
 
 ## Parameters

@@ -25,7 +25,7 @@ Links selected shapes to data rows in the specified data recordset automatically
 
 _expression_. `AutomaticLink`( `_DataRecordsetID_` , `_ColumnNames()_` , `_AutoLinkFieldTypes()_` , `_FieldNames()_` , `_AutoLinkBehavior_` , `_ShapeIDs()_` )
 
- _expression_ An expression that returns a [Selection](Visio.Selection.md) object.
+ _expression_ An expression that returns a **[Selection](Visio.Selection.md)** object.
 
 
 ## Parameters

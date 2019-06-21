@@ -21,7 +21,7 @@ Automatically draws multiple connections in the specified directions between the
 
 _expression_. `AutoConnectMany`( `_FromShapeIDs()_` , `_ToShapeIDs()_` , `_PlacementDirs()_` , `_[Connector]_` )
 
-_expression_ A variable that represents a '[Page](Visio.Page.md)' object.
+_expression_ A variable that represents a **[Page](Visio.Page.md)** object.
 
 
 ## Parameters
