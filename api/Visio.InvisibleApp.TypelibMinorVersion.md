@@ -19,9 +19,9 @@ Returns the minor version number of the Microsoft Visio type library. Read-only.
 
 ## Syntax
 
-_expression_. `TypelibMinorVersion`( `_lpi2Ret_` )
+_expression_.**TypelibMinorVersion** (_lpi2Ret_)
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Return value

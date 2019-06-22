@@ -21,7 +21,7 @@ Adds a new stencil or drawing to the  **Documents** collection, while permitting
 
 _expression_. `AddEx`( `_FileName_` , `_MeasurementSystem_` , `_Flags_` , `_LangID_` )
 
-_expression_ A variable that represents a [Documents](Visio.Documents.md) object.
+_expression_ A variable that represents a **[Documents](Visio.Documents.md)** object.
 
 
 ## Parameters

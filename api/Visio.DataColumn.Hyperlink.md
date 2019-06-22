@@ -17,14 +17,15 @@ localization_priority: Normal
 Gets or sets whether the data column creates a hyperlink in a shape when the shape is linked to data. Read/write.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
 _expression_.**Hyperlink**
 
- _expression_ An expression that returns a [DataColumn](Visio.DataColumn.md) object.
+ _expression_ An expression that returns a **[DataColumn](Visio.DataColumn.md)** object.
 
 
 ## Return value

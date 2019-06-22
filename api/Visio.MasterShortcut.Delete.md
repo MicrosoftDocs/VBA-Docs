@@ -21,7 +21,7 @@ Deletes an object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [MasterShortcut](Visio.MasterShortcut.md) object.
+_expression_ A variable that represents a **[MasterShortcut](Visio.MasterShortcut.md)** object.
 
 
 ## Return value

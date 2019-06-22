@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.NavBar property (Visio Save As Web)
+# VisWebPageSettings.NavBar property
 
 Determines whether the **Go to Page** navigation control is displayed on a webpage. Read/write.
 

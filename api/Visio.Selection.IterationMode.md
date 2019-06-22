@@ -21,7 +21,7 @@ Determines whether a  **Selection** object reports subselected shapes and groups
 
 _expression_. `IterationMode`
 
-_expression_ A variable that represents a [Selection](Visio.Selection.md) object.
+_expression_ A variable that represents a **[Selection](Visio.Selection.md)** object.
 
 
 ## Return value

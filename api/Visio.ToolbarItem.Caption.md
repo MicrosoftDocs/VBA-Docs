@@ -21,7 +21,7 @@ Gets or sets the caption for an object. Read/write.
 
 _expression_.**Caption**
 
-_expression_ A variable that represents a [ToolbarItem](Visio.ToolbarItem.md) object.
+_expression_ A variable that represents a **[ToolbarItem](Visio.ToolbarItem.md)** object.
 
 
 ## Return value

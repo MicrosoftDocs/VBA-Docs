@@ -17,14 +17,15 @@ localization_priority: Normal
 Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecordsets](Visio.DataRecordsets.md)** collection by using the connection and query information contained in an Office Data Connection (ODC) file to connect to and retrieve data from an OLEDB or ODBC data source.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
 _expression_. `AddFromConnectionFile`( `_FileName_` , `_AddOptions_` , `_Name_` )
 
- _expression_ An expression that returns a [DataRecordsets](Visio.DataRecordsets.md) object.
+ _expression_ An expression that returns a **[DataRecordsets](Visio.DataRecordsets.md)** object.
 
 
 ## Parameters

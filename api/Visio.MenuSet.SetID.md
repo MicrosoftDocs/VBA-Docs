@@ -21,7 +21,7 @@ Returns the set ID of a  **MenuSet** object in its collection. Read-only.
 
 _expression_.**SetID**
 
-_expression_ A variable that represents a [MenuSet](Visio.MenuSet.md) object.
+_expression_ A variable that represents a **[MenuSet](Visio.MenuSet.md)** object.
 
 
 ## Return value

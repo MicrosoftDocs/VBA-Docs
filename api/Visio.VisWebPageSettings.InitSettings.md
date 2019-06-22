@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.InitSettings method (Visio Save As Web)
+# VisWebPageSettings.InitSettings method
 
 Loads the webpage settings that were saved in the registry in an earlier instance of Microsoft Visio.
 

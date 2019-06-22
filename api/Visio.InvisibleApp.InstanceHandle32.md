@@ -19,9 +19,9 @@ Gets the instance handle of the  **Application** object for a 32-bit version of 
 
 ## Syntax
 
-_expression_. `InstanceHandle32`
+_expression_.**InstanceHandle32**
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Return value

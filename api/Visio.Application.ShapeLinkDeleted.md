@@ -14,12 +14,13 @@ localization_priority: Normal
 Occurs after the link between a shape and a data row is deleted.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
-Private Sub  _expression_ _'ShapeLinkDeleted'(**_ByVal Shape As [IVSHAPE]_**, **_ByVal DataRecordsetID As Long_**, **_ByVal DataRowID As Long_**)
+_expression_.**ShapeLinkDeleted** (_Shape As [IVSHAPE]_**, **_ByVal DataRecordsetID As Long_**, **_ByVal DataRowID As Long_**)
 
  _expression_ An expression that returns an **[Application](Visio.Application.md)** object.
 

@@ -26,9 +26,9 @@ Version Added: Visio 2000 SR-1
 
 ## Syntax
 
-_expression_. `AutoRecoverInterval`
+_expression_.**AutoRecoverInterval**
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Return value

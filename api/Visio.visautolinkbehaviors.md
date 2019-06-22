@@ -15,7 +15,8 @@ localization_priority: Normal
 Linking behavior constants passed to the  **[Selection.AutomaticLink](Visio.Selection.AutomaticLink.md)** method.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 

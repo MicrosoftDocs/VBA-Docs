@@ -15,7 +15,8 @@ localization_priority: Normal
 Primary key settings constants passed to the  **[DataRecordset.SetPrimaryKey](Visio.DataRecordset.SetPrimaryKey.md)** method and returned by the **[DataRecordset.GetPrimaryKey](Visio.DataRecordset.GetPrimaryKey.md)** method.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 

@@ -21,7 +21,7 @@ Returns the identifier of the first (container or callout) shape in the related 
 
 _expression_. `FromShapeID`
 
-_expression_ A variable that represents a '[RelatedShapePairEvent](Visio.RelatedShapePairEvent.md)' object.
+_expression_ A variable that represents a **[RelatedShapePairEvent](Visio.RelatedShapePairEvent.md)** object.
 
 
 ## Return value

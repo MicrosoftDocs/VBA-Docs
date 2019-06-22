@@ -17,14 +17,15 @@ localization_priority: Normal
 Specifies the name that appears for the data column on the tab of the parent data recordset in the  **External Data** window in the Microsoft Visio user interface. Read/write.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
 _expression_.**DisplayName**
 
- _expression_ An expression that returns a [DataColumn](Visio.DataColumn.md) object.
+ _expression_ An expression that returns a **[DataColumn](Visio.DataColumn.md)** object.
 
 
 ## Return value

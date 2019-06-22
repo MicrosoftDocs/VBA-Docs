@@ -19,9 +19,9 @@ Gets a  **UIObject** object that represents the current custom menus and acceler
 
 ## Syntax
 
-_expression_. `CustomMenus`
+_expression_.**CustomMenus**
 
-_expression_ A variable that represents a [Document](Visio.Document.md) object.
+_expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Return value

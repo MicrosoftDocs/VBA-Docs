@@ -21,7 +21,7 @@ Determines whether or not an  **Event** object is currently enabled. Read/write.
 
 _expression_.**Enabled**
 
-_expression_ A variable that represents an [Event](Visio.Event.md) object.
+_expression_ A variable that represents an **[Event](Visio.Event.md)** object.
 
 
 ## Return value

@@ -14,14 +14,15 @@ localization_priority: Normal
 Occurs before a  **DataRecordset** object is deleted from the **DataRecordsets** collection.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
-Private Sub  _expression_ _'BeforeDataRecordsetDelete'(**_ByVal DataRecordset As IVDATARECORDSET_**)
+_expression_.**BeforeDataRecordsetDelete** (_DataRecordset As IVDATARECORDSET_**)
 
- _expression_ An expression that returns a [InvisibleApp](Visio.InvisibleApp.md) object.
+ _expression_ An expression that returns an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters

@@ -14,7 +14,7 @@ Occurs when the user performs an action that changes the display mode. Possible 
 
 ## Syntax
 
-_expression_**DisplayModeChange**
+_expression_.**DisplayModeChange**
 
 _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
 

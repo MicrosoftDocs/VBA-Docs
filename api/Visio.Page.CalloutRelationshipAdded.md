@@ -19,9 +19,9 @@ Occurs when a new callout relationship is added to the page.
 
 ## Syntax
 
-Private Sub  _expression_ _'CalloutRelationshipAdded'(**_By Val ShapePair As RelatedShapePairEvent_**)
+_expression_.**CalloutRelationshipAdded** (_ShapePair_)
 
-_expression_ A variable that represents a '[Page](Visio.Page.md)' object.
+_expression_ A variable that represents a **[Page](Visio.Page.md)** object.
 
 
 ## Parameters

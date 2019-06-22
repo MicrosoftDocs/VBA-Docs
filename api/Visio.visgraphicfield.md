@@ -15,7 +15,8 @@ localization_priority: Normal
 Graphic item primary-data-field constants passed to the  **[GraphicItem.SetExpression](Visio.GraphicItem.SetExpression.md)** method and returned by the **[GraphicItem.GetExpression](Visio.GraphicItem.GetExpression.md)** method.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 

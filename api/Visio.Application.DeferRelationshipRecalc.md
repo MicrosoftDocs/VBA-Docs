@@ -19,7 +19,7 @@ Determines whether Microsoft Visio defers recalculating shape sizes and relation
 
 ## Syntax
 
-_expression_. `DeferRelationshipRecalc`
+_expression_.**DeferRelationshipRecalc**
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 

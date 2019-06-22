@@ -17,14 +17,15 @@ localization_priority: Normal
 Gets or sets the command string used to query the data source to create a data recordset or refresh an existing one. Read/write.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
 _expression_. `CommandString`
 
- _expression_ An expression that returns a [DataRecordset](Visio.DataRecordset.md) object.
+ _expression_ An expression that returns a **[DataRecordset](Visio.DataRecordset.md)** object.
 
 
 ## Return value

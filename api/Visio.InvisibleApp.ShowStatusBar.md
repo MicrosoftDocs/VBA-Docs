@@ -19,9 +19,9 @@ Determines whether the status bar is shown. Read/write.
 
 ## Syntax
 
-_expression_. `ShowStatusBar`
+_expression_.**ShowStatusBar**
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Return value

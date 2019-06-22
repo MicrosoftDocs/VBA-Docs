@@ -21,7 +21,7 @@ Private member function of  **IVisEventProc** that handles event notifications p
 
 _expression_. `VisEventProc`( `_nEventCode_` , `_pSourceObj_` , `_nEventID_` , `_nEventSeqNum_` , `_pSubjectObj_` , `_vMoreInfo_` )
 
-_expression_ A variable that represents an 'IVisEventProc' object.
+_expression_ A variable that represents an **[IVisEventProc](visio.iviseventproc.md)** object.
 
 
 ## Parameters

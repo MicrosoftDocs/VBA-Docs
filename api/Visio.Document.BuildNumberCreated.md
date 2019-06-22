@@ -21,7 +21,7 @@ Returns the build number of the instance used to create the document. Read-only.
 
 _expression_. `BuildNumberCreated`
 
-_expression_ A variable that represents a [Document](Visio.Document.md) object.
+_expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Return value

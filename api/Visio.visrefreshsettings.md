@@ -15,7 +15,8 @@ localization_priority: Normal
 Data recordset refresh constants passed to and returned by the  **[DataRecordset.RefreshSettings](Visio.DataRecordset.RefreshSettings.md)** property.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 

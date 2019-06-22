@@ -17,7 +17,8 @@ localization_priority: Normal
 Gets the IDs of the shape-data-item (custom property) rows in the Shape Data section of the shape's ShapeSheet spreadsheet linked to the specified data recordset.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

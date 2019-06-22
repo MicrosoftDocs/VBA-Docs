@@ -16,9 +16,9 @@ Occurs before the shapes in the selection of a window are deleted.
 
 ## Syntax
 
-Private Sub  _expression_ _'BeforeWindowSelDelete'(**_ByVal Window As [IVWINDOW]_**)
+_expression_.**BeforeWindowSelDelete** (_Window_)
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters

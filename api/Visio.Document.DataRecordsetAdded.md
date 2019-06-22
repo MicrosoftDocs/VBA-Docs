@@ -17,14 +17,15 @@ localization_priority: Normal
 Occurs when a  **DataRecordset** object is added to a **DataRecordsets** collection.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
-Private Sub  _expression_ _'DataRecordsetAdded'(**_ByVal DataRecordset As [IVDATARECORDSET]_**)
+_expression_.**DataRecordsetAdded** (_DataRecordset_)
 
- _expression_ An expression that returns a [Document](Visio.Document.md) object.
+ _expression_ An expression that returns a **[Document](Visio.Document.md)** object.
 
 
 ## Parameters

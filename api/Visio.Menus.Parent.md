@@ -21,7 +21,7 @@ Determines the parent of an object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [Menus](Visio.Menus.md) object.
+_expression_ A variable that represents a **[Menus](Visio.Menus.md)** object.
 
 
 ## Return value

@@ -21,8 +21,7 @@ Returns the identifier of the  **[Page](Visio.Page.md)** object that is associat
 
 _expression_. `ContainingPageID`
 
-_expression_ A variable that represents a [RelatedShapePairEvent](Visio.RelatedShapePairEvent.md) object.
-
+_expression_ A variable that represents a **[RelatedShapePairEvent](Visio.RelatedShapePairEvent.md)** object.
 
 ## Return value
 

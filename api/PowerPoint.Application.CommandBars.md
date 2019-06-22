@@ -19,7 +19,7 @@ Returns a  **CommandBars** collection that represents all the command bars in Mi
 
 ## Syntax
 
-_expression_. `CommandBars`
+_expression_.**CommandBars**
 
 _expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 

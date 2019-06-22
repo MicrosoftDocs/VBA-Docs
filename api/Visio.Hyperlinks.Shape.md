@@ -21,7 +21,7 @@ Returns the  **Shape** object that owns a **Cell**, **Characters**, **Row**, or 
 
 _expression_.**Shape**
 
-_expression_ A variable that represents a [Hyperlinks](Visio.Hyperlinks.md) object.
+_expression_ A variable that represents a **[Hyperlinks](Visio.Hyperlinks.md)** object.
 
 
 ## Return value

@@ -19,9 +19,9 @@ Occurs before a shape is opened for text editing in the user interface.
 
 ## Syntax
 
-Private Sub  _expression_ _'BeforeShapeTextEdit'(**_ByVal Shape As [IVSHAPE]_**)
+_expression_.**BeforeShapeTextEdit** (_Shape As [IVSHAPE]_**)
 
-_expression_ A variable that represents a [Document](Visio.Document.md) object.
+_expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Parameters

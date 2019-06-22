@@ -17,14 +17,15 @@ localization_priority: Normal
 Gets the data in all columns in the specified row.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
 _expression_. `GetRowData`( `_DataRowID_` )
 
- _expression_ An expression that returns a [DataRecordset](Visio.DataRecordset.md) object.
+ _expression_ An expression that returns a **[DataRecordset](Visio.DataRecordset.md)** object.
 
 
 ## Parameters

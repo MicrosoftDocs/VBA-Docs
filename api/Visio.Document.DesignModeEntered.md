@@ -19,9 +19,9 @@ Occurs before a document enters design mode.
 
 ## Syntax
 
-Private Sub  _expression_ _'DesignModeEntered'(**_ByVal doc As [IVDOCUMENT]_**)
+_expression_.**DesignModeEntered** (_doc_)
 
-_expression_ A variable that represents a [Document](Visio.Document.md) object.
+_expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Parameters

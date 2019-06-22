@@ -19,9 +19,9 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 
 ## Syntax
 
-Private Sub  _expression_ _'SelectionDeleteCanceled'(**_ByVal Selection As [IVSELECTION]_**)
+_expression_.**SelectionDeleteCanceled** (_Selection_)
 
-_expression_ A variable that represents a [Masters](Visio.Masters.md) object.
+_expression_ A variable that represents a **[Masters](Visio.Masters.md)** object.
 
 
 ## Parameters

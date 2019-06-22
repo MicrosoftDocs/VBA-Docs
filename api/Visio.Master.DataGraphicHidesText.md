@@ -17,7 +17,8 @@ localization_priority: Normal
 Displays or hides the text of a shape or of the primary shape in a selection when a data graphic is applied to the shape or to the selection. Read/write.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

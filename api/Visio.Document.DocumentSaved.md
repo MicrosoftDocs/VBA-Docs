@@ -19,9 +19,9 @@ Occurs after a document is saved.
 
 ## Syntax
 
-Private Sub  _expression_ _'DocumentSaved'(**_ByVal doc As [IVDOCUMENT]_**)
+_expression_.**DocumentSaved** (_doc_)
 
-_expression_ A variable that represents a [Document](Visio.Document.md) object.
+_expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Parameters

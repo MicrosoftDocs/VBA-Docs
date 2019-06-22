@@ -17,7 +17,8 @@ localization_priority: Normal
 Deletes the  **Master** of type **visTypeDataGraphic** from the **Masters** collection of the document.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

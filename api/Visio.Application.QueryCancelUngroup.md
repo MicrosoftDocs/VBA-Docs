@@ -16,14 +16,12 @@ Occurs before the application ungroups a selection of shapes in response to a us
 
 ## Syntax
 
-Private Sub  _expression_ _'QueryCancelUngroup'(**_ByVal Selection As [IVSELECTION]_**, )
+_expression_.**QueryCancelUngroup** (_Selection_)
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -21,7 +21,7 @@ Removes a shape from a layer.
 
 _expression_. `Remove`( `_SheetObject_` , `_fPresMems_` )
 
-_expression_ A variable that represents a [Layer](Visio.Layer.md) object.
+_expression_ A variable that represents a **[Layer](Visio.Layer.md)** object.
 
 
 ## Parameters

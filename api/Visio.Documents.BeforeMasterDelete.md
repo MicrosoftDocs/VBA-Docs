@@ -19,9 +19,9 @@ Occurs before a master is deleted from a document.
 
 ## Syntax
 
-Private Sub  _expression_ _'BeforeMasterDelete'(**_ByVal Master As [IVMASTER]_**)
+_expression_.**BeforeMasterDelete** (_Master_)
 
-_expression_ A variable that represents a [Documents](Visio.Documents.md) object.
+_expression_ A variable that represents a **[Documents](Visio.Documents.md)** object.
 
 
 ## Parameters

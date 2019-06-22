@@ -19,9 +19,9 @@ Occurs after a set of shapes selected in a window changes.
 
 ## Syntax
 
-Private Sub  _expression_ _'SelectionChanged'(**_ByVal Window As [IVWINDOW]_**)
+_expression_.**SelectionChanged** (_Window_)
 
-_expression_ A variable that represents a [Window](Visio.Window.md) object.
+_expression_ A variable that represents a **[Window](Visio.Window.md)** object.
 
 
 ## Parameters

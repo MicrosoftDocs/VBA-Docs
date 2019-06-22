@@ -14,14 +14,15 @@ localization_priority: Normal
 Gets the  **Document** object that contains the **DataRecordsets** collection. Read-only.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
 _expression_.**Document**
 
- _expression_ An expression that returns a [DataRecordsets](Visio.DataRecordsets.md) object.
+ _expression_ An expression that returns a **[DataRecordsets](Visio.DataRecordsets.md)** object.
 
 
 ## Return value

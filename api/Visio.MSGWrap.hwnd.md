@@ -21,7 +21,7 @@ Gets or sets the  **HWND** member of the **MSG** structure being wrapped. Read/w
 
 _expression_.**hWnd**
 
-_expression_ A variable that represents a [MSGWrap](Visio.MSGWrap.md) object.
+_expression_ A variable that represents an **[MSGWrap](Visio.MSGWrap.md)** object.
 
 
 ## Return value

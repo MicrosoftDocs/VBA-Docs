@@ -19,9 +19,9 @@ Returns the full build number of the running instance. Read-only.
 
 ## Syntax
 
-_expression_. `FullBuild`
+_expression_.**FullBuild**
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Return value
@@ -33,9 +33,7 @@ Long
 
 The format of the build number is described in the following table.
 
-
-
-|** Bits**|** Description**|
+|Bits|Description|
 |:-----|:-----|
 |0 - 15|Internal build number|
 |16 - 20|Internal revision number|

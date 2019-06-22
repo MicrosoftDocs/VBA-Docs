@@ -2,7 +2,7 @@
 title: Viewer.LayerName property (Visio Viewer)
 ms.prod: visio
 api_name:
-- Visio.LayerName
+- Visio.Viewer.LayerName
 ms.assetid: ebf2b8da-7c4d-b67c-9f8c-17629f1d8214
 ms.date: 06/21/2019
 localization_priority: Normal

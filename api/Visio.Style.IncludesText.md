@@ -21,7 +21,7 @@ Indicates whether the style includes text attributes. Read/write.
 
 _expression_. `IncludesText`
 
-_expression_ A variable that represents a [Style](Visio.Style.md) object.
+_expression_ A variable that represents a **[Style](Visio.Style.md)** object.
 
 
 ## Return value

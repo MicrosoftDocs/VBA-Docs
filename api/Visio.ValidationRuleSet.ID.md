@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # ValidationRuleSet.ID property (Visio)
 
-Gets the unique identifier of the  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object. Read-only.
+Gets the unique identifier of the **ValidationRuleSet** object. Read-only.
 
 
 ## Syntax
 
 _expression_.**ID**
 
-_expression_ A variable that represents a [ValidationRuleSet](Visio.ValidationRuleSet.md) object.
+_expression_ A variable that represents a **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object.
 
 
 ## Return value

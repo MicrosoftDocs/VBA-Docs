@@ -21,7 +21,7 @@ Prints the contents of the active document and provides various printing options
 
 _expression_.**PrintOut** (_PrintRange_, _FromPage_, _ToPage_, _ScaleCurrentViewToPaper_, _PrinterName_, _PrintToFile_, _OutputFileName_, _Copies_, _Collate_, _ColorAsBlack_)
 
-_expression_ A variable that represents a [Document](Visio.Document.md) object.
+_expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Parameters

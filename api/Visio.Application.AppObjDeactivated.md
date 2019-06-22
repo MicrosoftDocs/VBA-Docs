@@ -16,14 +16,12 @@ Occurs after a Microsoft Visio instance becomes inactive.
 
 ## Syntax
 
-Private Sub  _expression_ _'AppObjDeactivated'(**_ByVal app As [IVAPPLICATION]_**)
+_expression_.**AppObjDeactivated** (_app_)
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

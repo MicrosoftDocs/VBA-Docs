@@ -19,7 +19,7 @@ Indicates whether an object is capable of containing persistent events in its  *
 
 ## Syntax
 
-_expression_. `PersistsEvents`
+_expression_.**PersistsEvents**
 
 _expression_ A variable that represents a **[Master](Visio.Master.md)** object.
 

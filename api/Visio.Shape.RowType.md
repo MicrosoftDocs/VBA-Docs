@@ -5,7 +5,7 @@ f1_keywords:
 - vis_sdr.chm11214270
 ms.prod: visio
 api_name:
-- Visio.RowType
+- Visio.Shape.RowType
 ms.assetid: 416b77f1-6cec-de5b-c2b8-c6e5b239c54c
 ms.date: 06/08/2017
 localization_priority: Normal
@@ -19,14 +19,12 @@ Gets or sets the type of a row in a Geometry, Connection Points, Controls, or Ta
 
 ## Syntax
 
-_expression_. `RowType`( `_Section_` , `_Row_` )
+_expression_.**RowType** (_Section_, _Row_)
 
 _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

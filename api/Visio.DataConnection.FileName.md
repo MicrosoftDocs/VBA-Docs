@@ -17,14 +17,15 @@ localization_priority: Normal
 Gets the name of the Office Data Connection (ODC) file that contains the connection string and query command string for the data connection. Read-only.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
 _expression_. `FileName`
 
- _expression_ An expression that returns a [DataConnection](Visio.DataConnection.md) object.
+ _expression_ An expression that returns a **[DataConnection](Visio.DataConnection.md)** object.
 
 
 ## Return value

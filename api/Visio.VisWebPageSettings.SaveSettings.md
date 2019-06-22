@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.SaveSettings method (Visio Save As Web)
+# VisWebPageSettings.SaveSettings method
 
 Saves the current webpage settings to the registry.
 

@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.PanAndZoom property (Visio Save As Web)
+# VisWebPageSettings.PanAndZoom property
 
 Determines whether the **Pan and Zoom** control for zooming in and out of the page is displayed on a webpage. Read/write.
 

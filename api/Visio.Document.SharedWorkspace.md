@@ -21,7 +21,7 @@ Returns a Microsoft Office  **SharedWorkspace** object that provides access to t
 
 _expression_.**SharedWorkspace**
 
-_expression_ A variable that represents a [Document](Visio.Document.md) object.
+_expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Return value

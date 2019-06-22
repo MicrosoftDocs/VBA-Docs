@@ -19,9 +19,9 @@ Returns the window associated with a  **MouseEvent** object. Read-only.
 
 ## Syntax
 
-_expression_. `Window`
+_expression_.**Window**
 
-_expression_ A variable that represents a [MouseEvent](Visio.MouseEvent.md) object.
+_expression_ A variable that represents a **[MouseEvent](Visio.MouseEvent.md)** object.
 
 
 ## Return value

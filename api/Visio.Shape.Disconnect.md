@@ -21,7 +21,7 @@ Unglues the specified connector end points and offsets them the specified amount
 
 _expression_. `Disconnect`( `_ConnectorEnd_` , `_OffsetX_` , `_OffsetY_` , `_Units_` )
 
-_expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Changes the formatting of one aspect of all the containers in the selection, and
 
 _expression_. `SetContainerFormat`( `_FormatType_` , `_[FormatValue]_` )
 
- _expression_ An expression that returns a '[Selection](Visio.Selection.md)' object.
+ _expression_ An expression that returns a **[Selection](Visio.Selection.md)** object.
 
 
 ## Parameters

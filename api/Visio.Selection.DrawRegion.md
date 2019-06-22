@@ -21,7 +21,7 @@ Draws a new shape that represents the region containing a given point.
 
 _expression_. `DrawRegion`( `_Tolerance_` , `_Flags_` , `_x_` , `_y_` , `_ResultsMaster_` )
 
-_expression_ A variable that represents a [Selection](Visio.Selection.md) object.
+_expression_ A variable that represents a **[Selection](Visio.Selection.md)** object.
 
 
 ## Parameters

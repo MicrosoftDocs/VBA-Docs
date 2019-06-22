@@ -21,7 +21,7 @@ Specifies the top margin when printing a document. Read/write.
 
 _expression_.**TopMargin** (_UnitsNameOrCode_)
 
-_expression_ A variable that represents a [Document](Visio.Document.md) object.
+_expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Parameters

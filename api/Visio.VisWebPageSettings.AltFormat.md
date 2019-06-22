@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.AltFormat property (Visio Save As Web)
+# VisWebPageSettings.AltFormat property
 
 Determines whether a secondary output format for the webpage is defined. Read/write.
 

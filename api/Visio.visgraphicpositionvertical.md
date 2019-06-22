@@ -15,7 +15,8 @@ localization_priority: Normal
 Constants passed to and returned by the  **GraphicItem.VerticalPosition** property. Used to determine the vertical position of a graphic item relative to its container or to a shape.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 

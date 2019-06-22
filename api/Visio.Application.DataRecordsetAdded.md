@@ -14,12 +14,13 @@ localization_priority: Normal
 Occurs when a  **DataRecordset** object is added to a **DataRecordsets** collection.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
-Private Sub  _expression_ _'DataRecordsetAdded'(**_ByVal DataRecordset As [IVDATARECORDSET]_**)
+_expression_.**DataRecordsetAdded** (_DataRecordset_)
 
  _expression_ An expression that returns an **[Application](Visio.Application.md)** object.
 
@@ -39,6 +40,5 @@ If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), 
 If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

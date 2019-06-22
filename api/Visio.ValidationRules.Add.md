@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # ValidationRules.Add method (Visio)
 
-Adds a new, empty **[ValidationRule](Visio.ValidationRule.md)** object to the **[ValidationRules](Visio.ValidationRules.md)** collection of the document.
+Adds a new, empty **[ValidationRule](Visio.ValidationRule.md)** object to the **ValidationRules** collection of the document.
 
 
 ## Syntax
 
 _expression_.**Add** (_NameU_)
 
-_expression_ A variable that represents a [ValidationRules](Visio.ValidationRules.md) object.
+_expression_ A variable that represents a **[ValidationRules](Visio.ValidationRules.md)** object.
 
 
 ## Parameters

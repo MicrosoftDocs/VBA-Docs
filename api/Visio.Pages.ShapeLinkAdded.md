@@ -17,14 +17,15 @@ localization_priority: Normal
 Occurs after a shape is linked to a data row.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
-Private Sub  _expression_ _'ShapeLinkAdded'(**_ByVal Shape As [IVSHAPE]_**, **_ByVal DataRecordsetID As Long_**, **_ByVal DataRowID As Long_**)
+_expression_.**ShapeLinkAdded** (_Shape As [IVSHAPE]_**, **_ByVal DataRecordsetID As Long_**, **_ByVal DataRowID As Long_**)
 
- _expression_ An expression that returns a [Pages](Visio.Pages.md) object.
+ _expression_ An expression that returns a **[Pages](Visio.Pages.md)** object.
 
 
 ## Parameters

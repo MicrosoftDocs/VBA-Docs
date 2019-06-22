@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.SilentMode property (Visio Save As Web)
+# VisWebPageSettings.SilentMode property
 
 Determines whether any component of the user interface (either that of Microsoft Visio or that of the browser) is displayed when a drawing is saved as a webpage. Read/write.
 

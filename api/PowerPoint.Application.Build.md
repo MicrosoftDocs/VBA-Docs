@@ -19,7 +19,7 @@ Returns the build number for the current instance of Microsoft PowerPoint. Read-
 
 ## Syntax
 
-_expression_. `Build`
+_expression_.**Build**
 
 _expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 

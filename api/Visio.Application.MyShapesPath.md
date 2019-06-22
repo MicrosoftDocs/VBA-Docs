@@ -19,7 +19,7 @@ Gets or sets where Microsoft Visio looks for the  **My Shapes** folder on the us
 
 ## Syntax
 
-_expression_. `MyShapesPath`
+_expression_.**MyShapesPath**
 
  _expression_ An expression that returns an **[Application](Visio.Application.md)** object.
 

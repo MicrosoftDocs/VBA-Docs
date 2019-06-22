@@ -16,7 +16,7 @@ Occurs before firing of events is suspended.
 
 ## Syntax
 
-Private Sub  _expression_ _'BeforeSuspendEvents'(**_ByVal app As [IVAPPLICATION]_**)
+_expression_.**BeforeSuspendEvents** (_app_)
 
  _expression_ An expression that returns an **[Application](Visio.Application.md)** object.
 

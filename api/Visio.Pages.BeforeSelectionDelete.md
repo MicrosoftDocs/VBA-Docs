@@ -19,9 +19,9 @@ Occurs before selected objects are deleted.
 
 ## Syntax
 
-Private Sub  _expression_ _'BeforeSelectionDelete'(**_ByVal Selection As [IVSELECTION]_**)
+_expression_.**BeforeSelectionDelete** (_Selection_)
 
-_expression_ A variable that represents a [Pages](Visio.Pages.md) object.
+_expression_ A variable that represents a **[Pages](Visio.Pages.md)** object.
 
 
 ## Parameters

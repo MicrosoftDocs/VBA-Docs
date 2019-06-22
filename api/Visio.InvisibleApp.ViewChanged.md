@@ -16,14 +16,12 @@ Occurs when the zoom level or scroll position of a drawing window changes.
 
 ## Syntax
 
-Private Sub  _expression_ _'ViewChanged'(**_ByVal Window As [IVWINDOW]_**)
+_expression_.**ViewChanged** (_Window_)
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

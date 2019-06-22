@@ -19,7 +19,7 @@ Returns a list of installed printers. Read-only.
 
 ## Syntax
 
-_expression_. `AvailablePrinters`
+_expression_.**AvailablePrinters**
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 

@@ -21,7 +21,7 @@ Sets the gap between the container and member shapes to the specified size, in t
 
 _expression_. `SetMargin`( `_MarginUnits_` , `_MarginSize_` )
 
-_expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
+_expression_ A variable that represents a **[ContainerProperties](Visio.ContainerProperties.md)** object.
 
 
 ## Parameters

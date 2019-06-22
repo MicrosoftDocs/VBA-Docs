@@ -2,7 +2,7 @@
 title: Viewer.ReviewerCount property (Visio Viewer)
 ms.prod: visio
 api_name:
-- Visio.ReviewerCount
+- Visio.Viewer.ReviewerCount
 ms.assetid: 5ab6cae5-ea59-bb72-1fb2-04aebc5ae5cc
 ms.date: 06/21/2019
 localization_priority: Normal

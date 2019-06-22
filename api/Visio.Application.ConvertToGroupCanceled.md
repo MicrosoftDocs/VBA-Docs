@@ -16,7 +16,7 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 
 ## Syntax
 
-Private Sub  _expression_ _'ConvertToGroupCanceled'(**_ByVal Selection As [IVSELECTION]_**)
+_expression_.**ConvertToGroupCanceled** (_Selection_)
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 

@@ -16,9 +16,9 @@ Occurs when a new callout relationship is added to the application.
 
 ## Syntax
 
-Private Sub  _expression_ _'CalloutRelationshipAdded'(**_By Val ShapePair As RelatedShapePairEvent_**)
+_expression_.**CalloutRelationshipAdded** (_ShapePair_)
 
-_expression_ A variable that represents an '[InvisibleApp](Visio.InvisibleApp.md)' object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters

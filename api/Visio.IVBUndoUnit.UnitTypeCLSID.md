@@ -21,7 +21,7 @@ Identifies an undo unit by its class ID (CLSID). Read-only.
 
 _expression_. `UnitTypeCLSID`
 
-_expression_ A variable that represents a 'IVBUndoUnit' object.
+_expression_ A variable that represents an **[IVBUndoUnit](visio.ivbundounit.md)** object.
 
 
 ## Return value

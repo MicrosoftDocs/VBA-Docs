@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # MouseEvent.Button property (Visio)
 
-Returns the mouse button that was clicked to fire a  **MouseDown** or **MouseUp** event. Read-only.
+Returns the mouse button that was chosen to fire a **MouseDown** or **MouseUp** event. Read-only.
 
 
 ## Syntax
 
-_expression_. `Button`
+_expression_.**Button**
 
- _expression_ An expression that returns a [MouseEvent](Visio.MouseEvent.md) object.
+_expression_ An expression that returns a **[MouseEvent](Visio.MouseEvent.md)** object.
 
 
 ## Return value
@@ -31,24 +31,14 @@ Long
 
 ## Remarks
 
-Possible values for the  **Button** property can be any of the constants shown in the following table, which are declared in **VisKeyButtonFlags** in the Visio type library.
+Possible values for the **Button** property can be any of the constants declared in the **[VisKeyButtonFlags](visio.viskeybuttonflags.md)** enumeration in the Visio type library.
 
-
-
-|**Constant**|**Value**|
-|:-----|:-----|
-| **visMouseLeft**|1|
-| **visMouseMiddle**|16|
-| **visMouseRight**|2|
 
 ## Example
 
-This class module shows how to define a sink class called  **MouseListener** that listens for events fired by mouse actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **MouseDown**, **MouseMove**, and **MouseUp** events.
+This class module shows how to define a sink class called **MouseListener** that listens for events fired by mouse actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **MouseDown**, **MouseMove**, and **MouseUp** events.
 
-To run this example, insert a new class module in your Microsoft Visual Basic for Applications (VBA) project, name it  **MouseListener**, and insert the following code in the module.
-
-
-
+To run this example, insert a new class module in your Microsoft Visual Basic for Applications (VBA) project, name it **MouseListener**, and insert the following code in the module.
 
 ```vb
 Dim WithEvents vsoWindow As Window 
@@ -97,7 +87,7 @@ Private Sub vsoWindow_MouseUp(ByVal Button As Long, ByVal KeyButtonState As Long
 End Sub
 ```
 
-Then, insert the following code in the  **ThisDocument** project.
+Then, insert the following code in the **ThisDocument** project.
 
 
 
@@ -118,6 +108,6 @@ Private Sub Document_BeforeDocumentClose(ByVal doc As IVDocument)
 End Sub
 ```
 
-Save the document to initialize the class, and then click anywhere in the active window to fire a  **MouseDown** event. In the Immediate window, the handler prints the value that represents the mouse button that was clicked to fire the event.
+Save the document to initialize the class, and then click anywhere in the active window to fire a **MouseDown** event. In the Immediate window, the handler prints the value that represents the mouse button that was clicked to fire the event.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

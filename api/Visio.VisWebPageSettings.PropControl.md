@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.PropControl property (Visio Save As Web)
+# VisWebPageSettings.PropControl property
 
 Determines whether a shape's custom properties (shape data) are displayed on the webpage. Read/write.
 

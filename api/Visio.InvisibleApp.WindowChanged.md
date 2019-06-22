@@ -16,9 +16,9 @@ Occurs when the size or position of a window changes.
 
 ## Syntax
 
-Private Sub  _expression_ _'WindowChanged'(**_ByVal Window As [IVWINDOW]_**)
+_expression_.**WindowChanged** (_Window_)
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters

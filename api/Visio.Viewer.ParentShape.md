@@ -2,7 +2,7 @@
 title: Viewer.ParentShape property (Visio Viewer)
 ms.prod: visio
 api_name:
-- Visio.ParentShape
+- Visio.Viewer.ParentShape
 ms.assetid: ee6dc52a-86c7-6a8c-c40e-aaad6a1100a5
 ms.date: 06/21/2019
 localization_priority: Normal
@@ -34,7 +34,7 @@ _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 ## Remarks
 
-The expression "parent shape" refers to the group shape of which the specified shape is a part.
+The expression *parent shape* refers to the group shape of which the specified shape is a part.
 
 The collection of shapes is one-based, so the index of the first shape in the collection is 1.
 

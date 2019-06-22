@@ -17,14 +17,15 @@ localization_priority: Normal
 Executes the query string associated with the connected (non-XML-based)  **[DataRecordset](Visio.DataRecordset.md)** and updates linked shapes with new data from the data source returned by the query.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
 _expression_.**Refresh**
 
- _expression_ An expression that returns a [DataRecordset](Visio.DataRecordset.md) object.
+ _expression_ An expression that returns a **[DataRecordset](Visio.DataRecordset.md)** object.
 
 
 ## Return value

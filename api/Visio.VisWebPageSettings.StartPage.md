@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.StartPage property (Visio Save As Web)
+# VisWebPageSettings.StartPage property
 
 Specifies the page number of the first page in the range when you save a range of document pages as a webpage. Read/write.
 

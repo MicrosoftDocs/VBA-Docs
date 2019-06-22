@@ -16,14 +16,12 @@ Occurs after the application empties its message queue.
 
 ## Syntax
 
-Private Sub  _expression_ _'VisioIsIdle'(**_ByVal app As [IVAPPLICATION]_**)
+_expression_.**VisioIsIdle** (_app_)
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -32,9 +30,6 @@ _expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md)
 ## Remarks
 
 Visio continually processes messages in its message queue. When its message queue is empty:
-
-
-
 
 1. Visio performs its own idle-time processing.
     

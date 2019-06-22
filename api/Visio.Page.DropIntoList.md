@@ -21,7 +21,7 @@ Drops the specified object into the specified list at the specified position. Re
 
 _expression_. `DropIntoList`( `_ObjectToDrop_` , `_TargetList_` , `_lPosition_` )
 
- _expression_ An expression that returns a '[Page](Visio.Page.md)' object.
+ _expression_ An expression that returns a **[Page](Visio.Page.md)** object.
 
 
 ## Parameters

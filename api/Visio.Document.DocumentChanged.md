@@ -19,9 +19,9 @@ Occurs after certain properties of a document are changed.
 
 ## Syntax
 
-Private Sub  _expression_ _'DocumentChanged'(**_ByVal doc As [IVDOCUMENT]_**)
+_expression_.**DocumentChanged** (_doc_)
 
-_expression_ A variable that represents a [Document](Visio.Document.md) object.
+_expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Parameters

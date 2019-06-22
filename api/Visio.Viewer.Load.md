@@ -2,7 +2,7 @@
 title: Viewer.Load method (Visio Viewer)
 ms.prod: visio
 api_name:
-- Visio.Load
+- Visio.Viewer.Load
 ms.assetid: 8d33e759-793c-2e3c-3731-131fd51b415a
 ms.date: 06/21/2019
 localization_priority: Normal

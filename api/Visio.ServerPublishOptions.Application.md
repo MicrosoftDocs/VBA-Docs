@@ -17,14 +17,15 @@ localization_priority: Normal
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
 _expression_.**Application**
 
-_expression_ A variable that represents a '[ServerPublishOptions](Visio.ServerPublishOptions.md)' object.
+_expression_ A variable that represents a **[ServerPublishOptions](Visio.ServerPublishOptions.md)** object.
 
 
 ## Return value

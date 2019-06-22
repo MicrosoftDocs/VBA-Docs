@@ -17,7 +17,8 @@ localization_priority: Normal
 Hides or displays a data graphic in the  **Data Graphics** task pane in the Microsoft Visio user interface. Read/write.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

@@ -21,11 +21,12 @@ Returns the instance of Microsoft Visio that is associated with an object. Read-
 
 _expression_.**Application**
 
-_expression_ A variable that represents a '[MovedSelectionEvent](Visio.MovedSelectionEvent.md)' object.
+_expression_ A variable that represents a **[MovedSelectionEvent](Visio.MovedSelectionEvent.md)** object.
 
 
 ## Return value
 
- **[Application](Visio.Application.md)**
+**[Application](Visio.Application.md)**
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

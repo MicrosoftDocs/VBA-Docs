@@ -17,7 +17,8 @@ localization_priority: Normal
 Creates multiple new shapes on the drawing page that are linked to multiple data rows in a data recordset. Returns the number of shape instances created and an array of IDs of those shapes.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

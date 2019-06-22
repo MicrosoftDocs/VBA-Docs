@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.FormatCount property (Visio Save As Web)
+# VisWebPageSettings.FormatCount property
 
 Indicates the number of output formats that are installed on the user's computer. Read-only.
 

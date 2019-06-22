@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.DispScreenRes property (Visio Save As Web)
+# VisWebPageSettings.DispScreenRes property
 
 Specifies the screen resolution for your webpage. Read/write.
 

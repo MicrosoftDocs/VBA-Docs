@@ -21,7 +21,7 @@ Gets the width of a menu in pixels. Read/write.
 
 _expression_.**Width**
 
-_expression_ A variable that represents a [Menu](Visio.Menu.md) object.
+_expression_ A variable that represents a **[Menu](Visio.Menu.md)** object.
 
 
 ## Return value

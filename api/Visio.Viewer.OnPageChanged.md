@@ -2,7 +2,7 @@
 title: Viewer.OnPageChanged event (Visio Viewer)
 ms.prod: visio
 api_name:
-- Visio.OnPageChanged
+- Visio.Viewer.OnPageChanged
 ms.assetid: de64b0e2-372c-f1c4-15c6-d6c3a4da8368
 ms.date: 06/21/2019
 localization_priority: Normal

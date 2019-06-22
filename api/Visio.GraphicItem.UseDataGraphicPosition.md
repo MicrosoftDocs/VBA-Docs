@@ -17,14 +17,15 @@ localization_priority: Normal
 Gets or sets whether to use the current default callout position for graphic items of the data graphic master to whose  **GraphicItems** collection the graphic item belongs. Read/write.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
 _expression_. `UseDataGraphicPosition`
 
- _expression_ An expression that returns a [GraphicItem](Visio.GraphicItem.md) object.
+ _expression_ An expression that returns a **[GraphicItem](Visio.GraphicItem.md)** object.
 
 
 ## Return value

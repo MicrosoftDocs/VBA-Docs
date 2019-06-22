@@ -21,7 +21,7 @@ Gets or sets the path to the location where Microsoft Visio saves the current do
 
 _expression_. `DefaultSavePath`
 
- _expression_ An expression that returns a [Document](Visio.Document.md) object.
+ _expression_ An expression that returns a **[Document](Visio.Document.md)** object.
 
 
 ## Return value

@@ -17,14 +17,12 @@ Returns the raster export resolution settings.
 
 ## Syntax
 
-_expression_. `GetRasterExportResolution`( `_pResolution_` , `_pWidth_` , `_pHeight_` , `_pResolutionUnits_` )
+_expression_.**GetRasterExportResolution** (_pResolution_, _pWidth_, _pHeight_, _pResolutionUnits_)
 
- _expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
+_expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -32,11 +30,6 @@ _expression_. `GetRasterExportResolution`( `_pResolution_` , `_pWidth_` , `_pHei
 | _pWidth_|Required| **Double**|Out parameter. The raster export resolution width.|
 | _pHeight_|Required| **Double**|Out parameter. The raster export resolution height.|
 | _pResolutionUnits_|Required| **VisRasterExportResolutionUnits**|Out parameter. The units used to specify resolution. See Remarks for possible values.|
-| _pResolution_|Required|VISRASTEREXPORTRESOLUTION||
-| _pWidth_|Required|DOUBLE||
-| _pHeight_|Required|DOUBLE||
-| _pResolutionUnits_|Required|VISRASTEREXPORTRESOLUTIONUNITS||
-|Name|Required/Optional|Data type|Description|
 
 ## Return value
 

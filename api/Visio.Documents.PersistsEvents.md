@@ -19,9 +19,9 @@ Indicates whether an object is capable of containing persistent events in its  *
 
 ## Syntax
 
-_expression_. `PersistsEvents`
+_expression_.**PersistsEvents**
 
-_expression_ A variable that represents a [Documents](Visio.Documents.md) object.
+_expression_ A variable that represents a **[Documents](Visio.Documents.md)** object.
 
 
 ## Return value

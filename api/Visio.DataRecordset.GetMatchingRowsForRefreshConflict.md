@@ -17,14 +17,15 @@ localization_priority: Normal
 Returns an array of the row IDs of data-recordset rows linked to a shape that are in conflict after the data recordset is refreshed.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
 _expression_. `GetMatchingRowsForRefreshConflict`( `_ShapeInConflict_` )
 
- _expression_ An expression that returns a [DataRecordset](Visio.DataRecordset.md) object.
+ _expression_ An expression that returns a **[DataRecordset](Visio.DataRecordset.md)** object.
 
 
 ## Parameters

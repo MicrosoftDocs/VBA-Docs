@@ -21,7 +21,7 @@ Returns the drive and folder path of the Microsoft Visio application. Read-only.
 
 _expression_.**Path**
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Return value

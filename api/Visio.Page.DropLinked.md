@@ -17,7 +17,8 @@ localization_priority: Normal
 Returns a new shape on the drawing page linked to data in a data recordset.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

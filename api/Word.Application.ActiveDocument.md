@@ -22,7 +22,7 @@ Returns a  **[Document](Word.Document.md)** object that represents the active do
 
 ## Syntax
 
-_expression_. `ActiveDocument`
+_expression_.**ActiveDocument**
 
 _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 

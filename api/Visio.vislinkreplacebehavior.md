@@ -15,7 +15,8 @@ localization_priority: Normal
 Link replacement behavior constants passed to and returned by the  **[DataRecordset.LinkReplaceBehavior](Visio.DataRecordset.LinkReplaceBehavior.md)** property.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 

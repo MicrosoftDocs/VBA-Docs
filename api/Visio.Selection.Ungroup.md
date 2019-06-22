@@ -21,7 +21,7 @@ Ungroups a group.
 
 _expression_.**Ungroup**
 
-_expression_ A variable that represents a [Selection](Visio.Selection.md) object.
+_expression_ A variable that represents a **[Selection](Visio.Selection.md)** object.
 
 
 ## Return value

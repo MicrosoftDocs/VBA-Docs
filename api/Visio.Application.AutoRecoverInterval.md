@@ -19,7 +19,7 @@ Represents the time interval (in minutes) for how often you want to save copies 
 
 ## Syntax
 
-_expression_. `AutoRecoverInterval`
+_expression_.**AutoRecoverInterval**
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 

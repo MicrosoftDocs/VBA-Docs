@@ -19,9 +19,9 @@ Occurs after properties of a master are changed and propagated to its instances.
 
 ## Syntax
 
-Private Sub  _expression_ _'MasterChanged'(**_ByVal Master As [IVMASTER]_**)
+_expression_.**MasterChanged** (_Master_)
 
-_expression_ A variable that represents a [Document](Visio.Document.md) object.
+_expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Parameters

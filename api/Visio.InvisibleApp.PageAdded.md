@@ -16,9 +16,9 @@ Occurs after a new page is added to a document.
 
 ## Syntax
 
-Private Sub  _expression_ _'PageAdded'(**_ByVal Page As [IVPAGE]_**)
+_expression_.**PageAdded** (_Page_)
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters

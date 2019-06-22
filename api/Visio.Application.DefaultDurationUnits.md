@@ -19,7 +19,7 @@ Determines the default unit of measure for quantities that represent durations. 
 
 ## Syntax
 
-_expression_. `DefaultDurationUnits`
+_expression_.**DefaultDurationUnits**
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 

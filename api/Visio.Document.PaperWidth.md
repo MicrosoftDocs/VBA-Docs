@@ -21,7 +21,7 @@ Returns the width of a document's printed page. Read-only.
 
 _expression_. `PaperWidth`( `_UnitsNameOrCode_` )
 
-_expression_ A variable that represents a [Document](Visio.Document.md) object.
+_expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Parameters

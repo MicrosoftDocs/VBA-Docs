@@ -19,7 +19,7 @@ Occurs when a user adds a new XML element to a document. If more than one elemen
 
 ## Syntax
 
-Private Sub  _expression_ _'XMLAfterInsert'(**_NewXMLNode_**, **_InUndoRedo_**)
+_expression_.**XMLAfterInsert'(**_NewXMLNode_**, **_InUndoRedo_**)
 
 _expression_ A variable that represents a '[Document](Word.Document.md)' object that has been declared by using the **WithEvents** keyword in a class module. For information about using events with a **Document** object, see [Using events with the Document object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md).
 

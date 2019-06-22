@@ -17,14 +17,15 @@ localization_priority: Normal
 Occurs after a data graphic is applied to or deleted from a shape.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
-Private Sub  _expression_ _'ShapeDataGraphicChanged'(**_ByVal Shape As IVSHAPE_**)
+_expression_.**ShapeDataGraphicChanged** (_Shape As IVSHAPE_**)
 
- _expression_ An expression that returns a [Pages](Visio.Pages.md) object.
+ _expression_ An expression that returns a **[Pages](Visio.Pages.md)** object.
 
 
 ## Parameters

@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # InvisibleApp.IsVisio32 property (Visio)
 
-Returns  **True** if the current instance of Visio is 32-bit. Returns **False** if the current instance is 64-bit. Read-only.
+Returns **True** if the current instance of Visio is 32-bit. Returns **False** if the current instance is 64-bit. Read-only.
 
 
 ## Syntax
 
-_expression_. `IsVisio32`
+_expression_.**IsVisio32**
 
- _expression_ An expression that returns a [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ An expression that returns an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Return value

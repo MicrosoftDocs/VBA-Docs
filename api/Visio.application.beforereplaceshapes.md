@@ -14,23 +14,17 @@ Occurs just before a shape-replacement operation.
 
 ## Syntax
 
-_expression_. `BeforeReplaceShapes`_(replaceShapes)_
+_expression_.**BeforeReplaceShapes** (_replaceShapes_)
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|||||
 | _replaceShapes_|Required|REPLACESHAPESEVENT|An object whose properties return information about the shape-replacement operation.|
 
-## See also
 
-
-[Application Object](Visio.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

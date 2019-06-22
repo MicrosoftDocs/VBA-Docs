@@ -19,7 +19,7 @@ Returns an  **IDataObject** interface that represents the **Rectangle** tool use
 
 ## Syntax
 
-_expression_. `DefaultRectangleDataObject`
+_expression_.**DefaultRectangleDataObject**
 
  _expression_ An expression that returns an **[Application](Visio.Application.md)** object.
 

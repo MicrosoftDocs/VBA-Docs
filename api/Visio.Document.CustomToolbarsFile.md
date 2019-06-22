@@ -19,9 +19,9 @@ Returns or sets the name of the file that defines custom toolbars and status bar
 
 ## Syntax
 
-_expression_. `CustomToolbarsFile`
+_expression_.**CustomToolbarsFile**
 
-_expression_ A variable that represents a [Document](Visio.Document.md) object.
+_expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Return value

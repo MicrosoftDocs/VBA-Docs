@@ -16,9 +16,9 @@ Occurs before a document is saved.
 
 ## Syntax
 
-Private Sub  _expression_ _'BeforeDocumentSave'(**_ByVal doc As [IVDOCUMENT]_**)
+_expression_.**BeforeDocumentSave** (_doc_)
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters

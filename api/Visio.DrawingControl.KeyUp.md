@@ -16,9 +16,9 @@ Occurs when a keyboard key is released.
 
 ## Syntax
 
-Private Sub  _expression_ _'KeyUp'(**_ByVal KeyCode As Long_**, **_ByVal KeyButtonState As Long_**, **_ByVal CancelDefault As Boolean_**)
+_expression_.**KeyUp** (_KeyCode As Long_**, **_ByVal KeyButtonState As Long_**, **_ByVal CancelDefault As Boolean_**)
 
-_expression_ A variable that represents a [DrawingControl](Visio.DrawingControl.md) object.
+_expression_ A variable that represents a **[DrawingControl](Visio.DrawingControl.md)** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Gets the description of an  **IVBUndoUnit** interface. Read-only.
 
 _expression_.**Description**
 
-_expression_ A variable that represents an 'IVBUndoUnit' object.
+_expression_ A variable that represents an **[IVBUndoUnit](visio.ivbundounit.md)** object.
 
 
 ## Return value

@@ -16,14 +16,12 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 
 ## Syntax
 
-Private Sub  _expression_ _'SuspendEventsCanceled'(**_ByVal app As_**)
+_expression_.**SuspendEventsCanceled** (_app_)
 
  _expression_ An expression that returns an **[Application](Visio.Application.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

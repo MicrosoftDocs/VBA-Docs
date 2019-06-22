@@ -17,14 +17,15 @@ localization_priority: Normal
 Returns the  **[DataRecordset](Visio.DataRecordset.md)** object that contains the **DataColumns** collection. Read-only.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
 _expression_.**DataRecordset**
 
- _expression_ An expression that returns a [DataColumns](Visio.DataColumns.md) object.
+ _expression_ An expression that returns a **[DataColumns](Visio.DataColumns.md)** object.
 
 
 ## Return value

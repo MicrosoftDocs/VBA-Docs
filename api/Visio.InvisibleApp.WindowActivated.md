@@ -16,9 +16,9 @@ Occurs after the active window changes in a Microsoft Visio instance.
 
 ## Syntax
 
-Private Sub  _expression_ _'WindowActivated'(**_ByVal Window As [IVWINDOW]_**)
+_expression_.**WindowActivated** (_Window_)
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters

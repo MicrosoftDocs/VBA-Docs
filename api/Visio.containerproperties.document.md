@@ -12,18 +12,18 @@ localization_priority: Normal
 
 # ContainerProperties.Document property (Visio)
 
-Gets the  **[Document](Visio.Document.md)** object that is associated with the **[ContainerProperties](Visio.ContainerProperties.md)** object. Read-only.
+Gets the **[Document](Visio.Document.md)** object that is associated with the **ContainerProperties** object. Read-only.
 
 
 ## Syntax
 
 _expression_.**Document**
 
- _expression_ An expression that returns a [ContainerProperties](Visio.ContainerProperties.md) object.
+_expression_ An expression that returns a **[ContainerProperties](Visio.ContainerProperties.md)** object.
 
 
 ## Return value
 
- **Document**
+**Document**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

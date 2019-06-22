@@ -16,9 +16,9 @@ Occurs before the application deletes a selection of shapes in response to a use
 
 ## Syntax
 
-Private Sub  _expression_ _'QueryCancelSelectionDelete'(**_ByVal selection As [IVSELECTION]_**)
+_expression_.**QueryCancelSelectionDelete** (_Selection_)
 
-_expression_ A variable that represents a [DrawingControl](Visio.DrawingControl.md) object.
+_expression_ A variable that represents a **[DrawingControl](Visio.DrawingControl.md)** object.
 
 
 ## Parameters

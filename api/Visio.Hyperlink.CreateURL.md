@@ -21,7 +21,7 @@ Returns a fully qualified and optionally canonicalized representation of the hyp
 
 _expression_. `CreateURL`( `_CanonicalForm_` )
 
-_expression_ A variable that represents a [Hyperlink](Visio.Hyperlink.md) object.
+_expression_ A variable that represents a **[Hyperlink](Visio.Hyperlink.md)** object.
 
 
 ## Parameters

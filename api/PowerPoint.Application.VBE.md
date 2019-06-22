@@ -19,7 +19,7 @@ Returns a  **VBE** object that represents the Visual Basic Editor. Read-only.
 
 ## Syntax
 
-_expression_. `VBE`
+_expression_.**VBE**
 
 _expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 

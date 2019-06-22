@@ -19,7 +19,7 @@ Occurs before a shape is deleted.
 
 ## Syntax
 
-Private Sub  _expression_ _'BeforeShapeDelete'(**_ByVal Shape As [IVSHAPE]_**)
+_expression_.**BeforeShapeDelete** (_Shape As [IVSHAPE]_**)
 
 _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 

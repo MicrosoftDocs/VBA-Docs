@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # ValidationRule.NameU property (Visio)
 
-Specifies the universal name of the  **[ValidationRule](Visio.ValidationRule.md)** object. This is the default property of the object. Read/write.
+Specifies the universal name of the **ValidationRule** object. This is the default property of the object. Read/write.
 
 
 ## Syntax
 
 _expression_.**NameU**
 
-_expression_ A variable that represents a [ValidationRule](Visio.ValidationRule.md) object.
+_expression_ A variable that represents a **[ValidationRule](Visio.ValidationRule.md)** object.
 
 
 ## Return value
@@ -31,15 +31,15 @@ _expression_ A variable that represents a [ValidationRule](Visio.ValidationRule.
 
 ## Remarks
 
-You cannot assign the  **NameU** property a name that already exists in the rule set. If you attempt to do so, Visio returns an "invalid parameter" error.
+You cannot assign the **NameU** property a name that already exists in the rule set. If you attempt to do so, Visio returns an "invalid parameter" error.
 
-You cannot set the  **NameU** property to a value that exceeds 255 characters or to an empty string.
+You cannot set the **NameU** property to a value that exceeds 255 characters or to an empty string.
 
 
 
 
  **Note**  Beginning with Microsoft Visio 2000, you can use both local and universal names to refer to various Visio objects. When a user names a shape, for example, the user is specifying a local name. Beginning with Microsoft Office Visio 2003, the ShapeSheet spreadsheet displays only universal names in cell formulas and values. (In prior versions, universal names were not visible in the user interface.) 
 
-As a developer, you can use universal names in a program when you do not want to change a name each time a solution is localized. Use the  **[Name](Visio.ValidationRuleSet.Name.md)** property to get or set an object's local name. Use the **NameU** property to get or set its universal name.
+As a developer, you can use universal names in a program when you do not want to change a name each time a solution is localized. Use the **[Name](Visio.ValidationRuleSet.Name.md)** property to get or set an object's local name. Use the **NameU** property to get or set its universal name.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

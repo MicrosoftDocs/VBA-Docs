@@ -15,7 +15,8 @@ localization_priority: Normal
 Constants passed to the  **Selection.AutomaticLink** method, specifying the shape data (custom property) field to which to link shapes.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 

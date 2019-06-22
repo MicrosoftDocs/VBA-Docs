@@ -19,14 +19,12 @@ Occurs before selected objects are deleted.
 
 ## Syntax
 
-Private Sub  _expression_ _'BeforeSelectionDelete'(**_ByVal Selection As [IVSELECTION]_**)
+_expression_.**BeforeSelectionDelete** (_Selection_)
 
-_expression_ A variable that represents a [Masters](Visio.Masters.md) object.
+_expression_ A variable that represents a **[Masters](Visio.Masters.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

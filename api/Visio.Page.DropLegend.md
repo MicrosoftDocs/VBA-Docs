@@ -17,14 +17,15 @@ localization_priority: Normal
 Inserts a data graphics legend on a Microsoft Visio drawing page. Returns the list shape instance specified in the  _OuterList_ parameter.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
 _expression_. `DropLegend`( `_OuterList_` , `_InnerList_` , `_populateFlags_` )
 
- _expression_ An expression that returns a '[Page](Visio.Page.md)' object.
+ _expression_ An expression that returns a **[Page](Visio.Page.md)** object.
 
 
 ## Parameters

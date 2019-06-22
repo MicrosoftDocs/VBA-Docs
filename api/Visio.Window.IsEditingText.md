@@ -21,7 +21,7 @@ Determines whether a text editing session is active in the drawing window. Read-
 
 _expression_. `IsEditingText`
 
-_expression_ A variable that represents a [Window](Visio.Window.md) object.
+_expression_ A variable that represents a **[Window](Visio.Window.md)** object.
 
 
 ## Return value

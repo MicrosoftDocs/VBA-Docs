@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.OpenBrowser property (Visio Save As Web)
+# VisWebPageSettings.OpenBrowser property
 
 Determines whether the webpage opens in the browser after the drawing is exported to a webpage. Read/write.
 

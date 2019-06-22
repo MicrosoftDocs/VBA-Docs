@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# VisWebPageSettings.ListFormats method (Visio Save As Web)
+# VisWebPageSettings.ListFormats method
 
 Displays a message box in the user interface that lists the output format types and their associated numeric IDs.
 

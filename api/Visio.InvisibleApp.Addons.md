@@ -19,9 +19,9 @@ Returns the  **Addons** collection of an **Application** or **InvisibleApp** obj
 
 ## Syntax
 
-_expression_. `Addons`
+_expression_.**Addons**
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Return value

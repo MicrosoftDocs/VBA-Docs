@@ -19,7 +19,7 @@ Determines whether the current event handler is being called as a result of an  
 
 ## Syntax
 
-_expression_. `IsUndoingOrRedoing`
+_expression_.**IsUndoingOrRedoing**
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 

@@ -15,7 +15,8 @@ localization_priority: Normal
 Represent the types of graphic items that can be added to data graphics. Returned by the  **GraphicItem.Type** property.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 

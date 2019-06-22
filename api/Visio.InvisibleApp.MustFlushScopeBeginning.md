@@ -16,9 +16,9 @@ Occurs before the Microsoft Visio instance is forced to flush its event queue.
 
 ## Syntax
 
-Private Sub  _expression_ _'MustFlushScopeBeginning'(**_ByVal app As [IVAPPLICATION]_**)
+_expression_.**MustFlushScopeBeginning** (_app_)
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters

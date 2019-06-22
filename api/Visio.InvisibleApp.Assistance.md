@@ -19,9 +19,9 @@ Gets a reference to the Microsoft Office (MSO)  **IAssistance** object, which pr
 
 ## Syntax
 
-_expression_. `Assistance`
+_expression_.**Assistance**
 
- _expression_ An expression that returns a [InvisibleApp](Visio.InvisibleApp.md) object.
+ _expression_ An expression that returns an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Return value

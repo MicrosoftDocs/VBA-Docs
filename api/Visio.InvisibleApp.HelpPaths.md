@@ -19,9 +19,9 @@ Gets or sets the paths where Microsoft Visio looks for Help files. Read/write.
 
 ## Syntax
 
-_expression_. `HelpPaths`
+_expression_.**HelpPaths**
 
-_expression_ A variable that represents an [InvisibleApp](Visio.InvisibleApp.md) object.
+_expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Return value

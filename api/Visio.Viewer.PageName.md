@@ -2,7 +2,7 @@
 title: Viewer.PageName property (Visio Viewer)
 ms.prod: visio
 api_name:
-- Visio.PageName
+- Visio.Viewer.PageName
 ms.assetid: 7a23a8da-7763-91fc-777d-fca61e268fe8
 ms.date: 06/21/2019
 localization_priority: Normal

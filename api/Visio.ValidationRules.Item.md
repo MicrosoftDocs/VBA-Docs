@@ -21,7 +21,7 @@ Returns the  **[ValidationRule](Visio.ValidationRule.md)** object that has the s
 
 _expression_.**Item** (_NameUIDOrIndex_)
 
-_expression_ A variable that represents a '[ValidationRules](Visio.ValidationRules.md)' object.
+_expression_ A variable that represents a **[ValidationRules](Visio.ValidationRules.md)** object.
 
 
 ## Parameters

@@ -17,14 +17,15 @@ localization_priority: Normal
 Updates linked shapes with data contained in the string that conforms to the ADO classic XML schema passed to the method as a parameter.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
 _expression_. `RefreshUsingXML`( `_NewDataAsXML_` )
 
- _expression_ An expression that returns a [DataRecordset](Visio.DataRecordset.md) object.
+ _expression_ An expression that returns a **[DataRecordset](Visio.DataRecordset.md)** object.
 
 
 ## Parameters

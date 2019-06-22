@@ -21,12 +21,12 @@ Adds a new object to a collection.
 
 _expression_.**Add**
 
-_expression_ A variable that represents a [ToolbarSets](Visio.ToolbarSets.md) collection.
+_expression_ A variable that represents a **[ToolbarSets](Visio.ToolbarSets.md)** object.
 
 
 ## Return value
 
-ToolbarSet
+**[ToolbarSet](visio.toolbarset.md)**
 
 
 ## Remarks

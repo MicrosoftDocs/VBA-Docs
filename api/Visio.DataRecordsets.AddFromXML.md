@@ -17,14 +17,15 @@ localization_priority: Normal
 Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecordsets](Visio.DataRecordsets.md)** collection, and fills the resulting data recordset with data supplied in the form of an XML string.
 
 
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
 _expression_. `AddFromXML`( `_XMLString_` , `_AddOptions_` , `_Name_` )
 
- _expression_ An expression that returns a [DataRecordsets](Visio.DataRecordsets.md) object.
+ _expression_ An expression that returns a **[DataRecordsets](Visio.DataRecordsets.md)** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Resizes the shape by moving shape handles as specified.
 
 _expression_.**Resize** (_Direction_, _Distance_, _UnitCode_)
 
-_expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
+_expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters

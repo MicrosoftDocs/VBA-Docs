@@ -21,7 +21,7 @@ Sets a custom icon file for a menu or toolbar item.
 
 _expression_. `IconFileName`( `_IconFileName_` )
 
-_expression_ A variable that represents a [Menu](Visio.Menu.md) object.
+_expression_ A variable that represents a **[Menu](Visio.Menu.md)** object.
 
 
 ## Parameters
