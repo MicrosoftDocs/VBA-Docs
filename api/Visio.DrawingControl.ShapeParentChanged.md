@@ -16,7 +16,7 @@ Occurs after shapes are grouped or a group is ungrouped.
 
 ## Syntax
 
-Private Sub  _expression_ _'ShapeParentChanged'(**_ByVal shape As [IVSHAPE]_**)
+_expression_.**ShapeParentChanged** (_shape As [IVSHAPE]_**)
 
 _expression_ A variable that represents a **[DrawingControl](Visio.DrawingControl.md)** object.
 

@@ -19,14 +19,12 @@ Returns a  **UIObject** object that represents a copy of the built-in Microsoft 
 
 ## Syntax
 
-_expression_. `BuiltInToolbars`( `_fIgnored_` )
+_expression_.**BuiltInToolbars** (_fIgnored_)
 
 _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

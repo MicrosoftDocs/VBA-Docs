@@ -20,14 +20,12 @@ Occurs before a  **DataRecordset** object is deleted from the **DataRecordsets**
 
 ## Syntax
 
-Private Sub  _expression_ _'BeforeDataRecordsetDelete'(**_ByVal DataRecordset As IVDATARECORDSET_**)
+_expression_.**BeforeDataRecordsetDelete** (_DataRecordset_)
 
- _expression_ An expression that returns an **[Application](Visio.Application.md)** object.
+_expression_ An expression that returns an **[Application](Visio.Application.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

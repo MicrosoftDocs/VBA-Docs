@@ -19,7 +19,7 @@ Returns a  **LanguageSettings** object, which contains information about the lan
 
 ## Syntax
 
-_expression_. `LanguageSettings`
+_expression_.**LanguageSettings**
 
 _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 

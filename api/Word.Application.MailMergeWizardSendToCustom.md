@@ -19,7 +19,7 @@ Occurs when the custom button is clicked during step six of the Mail Merge Wizar
 
 ## Syntax
 
-Private Sub  _expression_ _'MailMergeWizardSendToCustom'(**_ByVal Doc As Document_**)
+_expression_.**MailMergeWizardSendToCustom** (_Doc As Document_**)
 
 _expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module.
 

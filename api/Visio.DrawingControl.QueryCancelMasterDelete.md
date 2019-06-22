@@ -16,7 +16,7 @@ Occurs before the application deletes a master in response to a user action in t
 
 ## Syntax
 
-Private Sub  _expression_ _'QueryCancelMasterDelete'(**_ByVal master As [IVMASTER]_**)
+_expression_.**QueryCancelMasterDelete** (_Master_)
 
 _expression_ A variable that represents a **[DrawingControl](Visio.DrawingControl.md)** object.
 

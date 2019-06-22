@@ -19,7 +19,7 @@ Determines whether the screen is updated (redrawn) during a series of actions. R
 
 ## Syntax
 
-_expression_. `ScreenUpdating`
+_expression_.**ScreenUpdating**
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 

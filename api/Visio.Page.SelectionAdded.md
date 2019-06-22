@@ -19,7 +19,7 @@ Occurs after one or more shapes are added to a document.
 
 ## Syntax
 
-Private Sub  _expression_ _'SelectionAdded'(**_ByVal Selection As [IVSELECTION]_**)
+_expression_.**SelectionAdded** (_Selection_)
 
 _expression_ A variable that represents a **[Page](Visio.Page.md)** object.
 

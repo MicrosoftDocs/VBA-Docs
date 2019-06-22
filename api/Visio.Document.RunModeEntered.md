@@ -19,7 +19,7 @@ Occurs after a document enters run mode.
 
 ## Syntax
 
-Private Sub  _expression_ _'RunModeEntered'(**_ByVal doc As [IVDOCUMENT]_**)
+_expression_.**RunModeEntered** (_doc_)
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 

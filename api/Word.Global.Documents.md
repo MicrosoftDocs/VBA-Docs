@@ -19,7 +19,7 @@ Returns a  **[Documents](Word.documents.md)** collection that represents all the
 
 ## Syntax
 
-_expression_. `Documents`
+_expression_.**Documents**
 
 _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 

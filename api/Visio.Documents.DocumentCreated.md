@@ -19,7 +19,7 @@ Occurs after a document is created.
 
 ## Syntax
 
-Private Sub  _expression_ _'DocumentCreated'(**_ByVal doc As [IVDOCUMENT]_**)
+_expression_.**DocumentCreated** (_doc_)
 
 _expression_ A variable that represents a **[Documents](Visio.Documents.md)** object.
 

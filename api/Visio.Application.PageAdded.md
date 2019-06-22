@@ -16,14 +16,12 @@ Occurs after a new page is added to a document.
 
 ## Syntax
 
-Private Sub  _expression_ _'PageAdded'(**_ByVal Page As [IVPAGE]_**)
+_expression_.**PageAdded** (_Page_)
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

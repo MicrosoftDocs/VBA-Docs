@@ -16,7 +16,7 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 
 ## Syntax
 
-Private Sub  _expression_ _'SuspendCanceled'(**_ByVal app As [IVAPPLICATION]_**)
+_expression_.**SuspendCanceled** (_app_)
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 

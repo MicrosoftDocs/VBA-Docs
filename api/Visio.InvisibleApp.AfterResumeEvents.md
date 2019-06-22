@@ -16,7 +16,7 @@ Occurs after firing of events is resumed.
 
 ## Syntax
 
- Private Sub _expression_ _'AfterResumeEvents'(**_ByVal app As [IVAPPLICATION]_**,)
+_expression_.**AfterResumeEvents** (_app_)
 
  _expression_ An expression that returns an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 

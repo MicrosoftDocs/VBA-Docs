@@ -16,7 +16,7 @@ Occurs after the name of a page, the background page associated with a page, or 
 
 ## Syntax
 
-Private Sub  _expression_ _'PageChanged'(**_ByVal Page As [IVPAGE]_**)
+_expression_.**PageChanged** (_Page_)
 
 _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 

@@ -19,7 +19,7 @@ Returns or sets a  **[WdLanguageID](Word.WdLanguageID.md)** constant that repres
 
 ## Syntax
 
- _expression_**IndexLanguage**
+_expression_.**IndexLanguage**
 
 _expression_ Required. An expression that returns an '[Index](Word.Index.md)' object.
 

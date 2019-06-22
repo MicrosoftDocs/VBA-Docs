@@ -19,7 +19,7 @@ Returns the full build number of the running instance. Read-only.
 
 ## Syntax
 
-_expression_. `FullBuild`
+_expression_.**FullBuild**
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 
@@ -33,9 +33,7 @@ Long
 
 The format of the build number is described in the following table.
 
-
-
-|** Bits**|** Description**|
+|Bits|Description|
 |:-----|:-----|
 |0 - 15|Internal build number|
 |16 - 20|Internal revision number|

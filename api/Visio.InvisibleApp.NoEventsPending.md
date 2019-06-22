@@ -16,7 +16,7 @@ Occurs after the Microsoft Visio instance flushes its event queue.
 
 ## Syntax
 
-Private Sub  _expression_ _'NoEventsPending'(**_ByVal app As [IVAPPLICATION]_**)
+_expression_.**NoEventsPending** (_app_)
 
 _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 

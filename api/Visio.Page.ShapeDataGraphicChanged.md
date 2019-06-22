@@ -23,7 +23,7 @@ Occurs after a data graphic is applied to or deleted from a shape.
 
 ## Syntax
 
-Private Sub  _expression_ _'ShapeDataGraphicChanged'(**_ByVal Shape As IVSHAPE_**)
+_expression_.**ShapeDataGraphicChanged** (_Shape As IVSHAPE_**)
 
  _expression_ An expression that returns a **[Page](Visio.Page.md)** object.
 

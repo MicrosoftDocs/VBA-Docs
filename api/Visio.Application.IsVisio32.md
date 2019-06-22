@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Application.IsVisio32 property (Visio)
 
-Returns  **True** if the current instance of Microsoft Visio is 32-bit. Returns **False** if the current instance is 64-bit. Read-only.
+Returns **True** if the current instance of Microsoft Visio is 32-bit. Returns **False** if the current instance is 64-bit. Read-only.
 
 
 ## Syntax
 
-_expression_. `IsVisio32`
+_expression_.**IsVisio32**
 
- _expression_ An expression that returns an **[Application](Visio.Application.md)** object.
+_expression_ An expression that returns an **[Application](Visio.Application.md)** object.
 
 
 ## Return value

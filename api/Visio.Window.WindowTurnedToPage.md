@@ -19,7 +19,7 @@ Occurs after a window shows a different page.
 
 ## Syntax
 
-Private Sub  _expression_ _'WindowTurnedToPage'(**_ByVal Window As [IVWINDOW]_**)
+_expression_.**WindowTurnedToPage** (_Window_)
 
 _expression_ A variable that represents a **[Window](Visio.Window.md)** object.
 

@@ -19,7 +19,7 @@ Occurs when a document is closed.
 
 ## Syntax
 
-Private Sub  _expression_ _'Close'()
+_expression_.**Close'()
 
 _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

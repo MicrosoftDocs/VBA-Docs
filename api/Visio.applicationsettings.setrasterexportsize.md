@@ -17,14 +17,12 @@ Sets the raster export size.
 
 ## Syntax
 
-_expression_. `SetRasterExportSize`( `_size_` , `_[Width]_` , `_[Height]_` , `_[sizeUnits]_` )
+_expression_.**SetRasterExportSize** (_size_, _Width_, _Height_, _sizeUnits_)
 
- _expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
+_expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -32,11 +30,7 @@ _expression_. `SetRasterExportSize`( `_size_` , `_[Width]_` , `_[Height]_` , `_[
 | _Width_|Optional| **Double**|The raster export size width. Must be greater than or equal to 1.|
 | _Height_|Optional| **Double**|The raster export size height. Must be greater than or equal to 1.|
 | _sizeUnits_|Optional| **VisRasterExportSizeUnits**|The units used to specify size. See Remarks for possible values.|
-| _size_|Required|VISRASTEREXPORTSIZE||
-| _Width_|Optional|DOUBLE||
-| _Height_|Optional|DOUBLE||
-| _sizeUnits_|Optional|VISRASTEREXPORTSIZEUNITS||
-|Name|Required/Optional|Data type|Description|
+
 
 ## Return value
 

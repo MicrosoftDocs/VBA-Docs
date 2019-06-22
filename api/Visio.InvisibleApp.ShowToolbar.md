@@ -19,7 +19,7 @@ Determines whether toolbars and menu bars are visible. Read/write.
 
 ## Syntax
 
-_expression_. `ShowToolbar`
+_expression_.**ShowToolbar**
 
 _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 

@@ -19,7 +19,7 @@ Gets or sets events logged during a Microsoft Visio instance. Read/write.
 
 ## Syntax
 
-_expression_. `TraceFlags`
+_expression_.**TraceFlags**
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 

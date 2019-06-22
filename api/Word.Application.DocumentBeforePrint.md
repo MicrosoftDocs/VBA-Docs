@@ -19,7 +19,7 @@ Occurs before any open document is printed.
 
 ## Syntax
 
-Private Sub  _expression_ _'DocumentBeforePrint'(**_ByVal Doc As Document_**, **_Cancel As Boolean_**)
+_expression_.**DocumentBeforePrint** (_Doc As Document_**, **_Cancel As Boolean_**)
 
 _expression_ A variable that represents an '[Application](Word.Application.md)' object declared with events in a class module.
 

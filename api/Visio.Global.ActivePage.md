@@ -19,7 +19,7 @@ Returns the active  **Page** object. Read-only.
 
 ## Syntax
 
-_expression_. `ActivePage`
+_expression_.**ActivePage**
 
 _expression_ A variable that represents a **[Global](Visio.Global.md)** object.
 

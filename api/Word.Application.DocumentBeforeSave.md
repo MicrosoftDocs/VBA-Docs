@@ -19,7 +19,7 @@ Occurs before any open document is saved.
 
 ## Syntax
 
-Private Sub  _expression_ _'DocumentBeforeSave'(**_ByVal DocAs Document_**, **_SaveAsUIAs Boolean_**, **_CancelAs Boolean_**)
+_expression_.**DocumentBeforeSave** (_DocAs Document_**, **_SaveAsUIAs Boolean_**, **_CancelAs Boolean_**)
 
 _expression_ A variable that represents an '[Application](Word.Application.md)' object declared with events in a class module.
 

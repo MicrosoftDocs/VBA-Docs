@@ -16,7 +16,7 @@ Occurs before the application terminates in response to a user action in the int
 
 ## Syntax
 
-Private Sub  _expression_ _'QueryCancelQuit'(**_ByVal app As [IVAPPLICATION]_**)
+_expression_.**QueryCancelQuit** (_app_)
 
 _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 

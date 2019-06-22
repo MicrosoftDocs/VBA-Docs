@@ -19,7 +19,7 @@ Returns the  **Documents** collection for a Microsoft Visio instance. Read-only.
 
 ## Syntax
 
-_expression_. `Documents`
+_expression_.**Documents**
 
 _expression_ A variable that represents a **[Global](Visio.Global.md)** object.
 

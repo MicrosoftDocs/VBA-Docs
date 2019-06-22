@@ -19,7 +19,7 @@ Occurs when the size or position of a window changes.
 
 ## Syntax
 
-Private Sub  _expression_ _'WindowChanged'(**_ByVal Window As [IVWINDOW]_**)
+_expression_.**WindowChanged** (_Window_)
 
 _expression_ A variable that represents a **[Windows](Visio.Windows.md)** object.
 

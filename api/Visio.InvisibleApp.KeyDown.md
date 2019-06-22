@@ -16,7 +16,7 @@ Occurs when a keyboard key is pressed.
 
 ## Syntax
 
-Private Sub  _expression_ _'KeyDown'(**_ByVal KeyCode As Long_**, **_ByVal KeyButtonState As Long_**, **_ByVal CancelDefault As Boolean_**)
+_expression_.**KeyDown** (_KeyCode As Long_**, **_ByVal KeyButtonState As Long_**, **_ByVal CancelDefault As Boolean_**)
 
 _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 

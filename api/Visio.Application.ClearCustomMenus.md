@@ -19,7 +19,7 @@ Restores the built-in Microsoft Visio user interface.
 
 ## Syntax
 
-_expression_. `ClearCustomMenus`
+_expression_.**ClearCustomMenus**
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 

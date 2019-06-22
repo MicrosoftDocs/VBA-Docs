@@ -19,7 +19,7 @@ Occurs when a rule set is validated.
 
 ## Syntax
 
-Private Sub  _expression_ _'RuleSetValidated'(**_ByVal RuleSet As ValidationRuleSet_**)
+_expression_.**RuleSetValidated** (_RuleSet As ValidationRuleSet_**)
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 

@@ -19,7 +19,7 @@ Determines whether undo information is maintained in memory. Read/write.
 
 ## Syntax
 
-_expression_. `UndoEnabled`
+_expression_.**UndoEnabled**
 
 _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
@@ -31,12 +31,9 @@ Boolean
 
 ## Remarks
 
-When Microsoft Visio starts, the value of the  **UndoEnabled** property is **True**. Setting the value of the **UndoEnabled** property to **False** discontinues the collection of undo information in memory and clears the existing undo information.
+When Microsoft Visio starts, the value of the **UndoEnabled** property is **True**. Setting the value of the **UndoEnabled** property to **False** discontinues the collection of undo information in memory and clears the existing undo information.
 
 You should attempt to maintain the property at its current value across the complete operation that you perform. In other words, use code structured like this:
-
-
-
 
 ```vb
 blsPrevious = Application.UndoEnabled 
@@ -50,8 +47,7 @@ Application.UndoEnabled = blsPrevious
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **UndoEnabled** method to disable and then re-enable undo behavior in Visio.
-
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **UndoEnabled** method to disable and then re-enable undo behavior in Visio.
 
 ```vb
 Public Sub UndoEnabled_Example() 

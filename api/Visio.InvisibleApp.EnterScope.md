@@ -16,14 +16,12 @@ Queued when an internal command begins, or when an Automation client opens a sco
 
 ## Syntax
 
-Private Sub  _expression_ _'EnterScope'(**_ByVal app As [IVAPPLICATION]_**, **_ByVal nScopeID As Long_**, **_ByVal bstrDescription As String_**)
+_expression_.**EnterScope** (_app_, _nScopeID, _bstrDescription_)
 
 _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -16,7 +16,7 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 
 ## Syntax
 
-Private Sub  _expression_ _'StyleDeleteCanceled'(**_ByVal style As [IVSTYLE]_**)
+_expression_.**StyleDeleteCanceled** (_style As [IVSTYLE]_**)
 
 _expression_ A variable that represents a **[DrawingControl](Visio.DrawingControl.md)** object.
 

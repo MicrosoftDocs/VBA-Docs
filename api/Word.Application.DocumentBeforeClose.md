@@ -21,7 +21,7 @@ Occurs immediately before any open document closes.
 
 ## Syntax
 
-Private Sub  _expression_ 'DocumentBeforeClose'(**_ByVal Doc As Document_**, **_Cancel As Boolean_**)
+Private Sub  _expression_ 'DocumentBeforeClose** (_Doc As Document_**, **_Cancel As Boolean_**)
 
 _expression_ A variable that represents an [Application](Word.Application.md) object declared with events in a class module.
 
