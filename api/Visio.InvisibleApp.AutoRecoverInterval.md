@@ -16,14 +16,6 @@ localization_priority: Normal
 
 Represents the time interval (in minutes) for how often you want to save copies of open documents that have unsaved changes in case of a power failure or an application error. Read/write.
 
-
-## Version Information
-
-Version Added: Visio 2000 SR-1 
-
-
-
-
 ## Syntax
 
 _expression_.**AutoRecoverInterval**
@@ -38,15 +30,14 @@ Integer
 
 ## Remarks
 
-Must be an integer value from zero (0) to 120, representing the interval in minutes. The default is 0. If the value of the  **AutoRecoverInterval** property is less than or equal to 0, no automatic recovery copies are created.
+Must be an integer value from zero (0) to 120, representing the interval in minutes. The default is 0. If the value of the **AutoRecoverInterval** property is less than or equal to 0, no automatic recovery copies are created.
 
-If the value of the  **AutoRecoverInterval** property is greater than 0, automatic recovery is enabled for all documents in the Microsoft Visio instance. To disable automatic recovery for a particular document, set its **AutoRecover** property to **False**.
+If the value of the **AutoRecoverInterval** property is greater than 0, automatic recovery is enabled for all documents in the Microsoft Visio instance. To disable automatic recovery for a particular document, set its **AutoRecover** property to **False**.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macros show how to set the  **AutoRecoverInterval** property and how to use it to disable automatic recovery.
-
+The following Microsoft Visual Basic for Applications (VBA) macros show how to set the **AutoRecoverInterval** property and how to use it to disable automatic recovery.
 
 ```vb
  

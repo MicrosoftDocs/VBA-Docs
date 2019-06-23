@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # InvisibleApp.ActivePage property (Visio)
 
-Returns the active  **Page** object. Read-only.
+Returns the active **[Page](visio.page.md)** object. Read-only.
 
 
 ## Syntax
 
-_expression_.**ActivePage** (_lpdispRet_)
+_expression_.**ActivePage**
 
 _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
@@ -31,12 +31,9 @@ Page
 
 ## Remarks
 
-The  **ActivePage** property returns a **Page** object only when the active window displays a drawing page; otherwise, it returns **Nothing**. To verify that a page is active, use the **Is** operator to compare the **ActivePage** property with **Nothing**.
+The **ActivePage** property returns a **Page** object only when the active window displays a drawing page; otherwise, it returns **Nothing**. To verify that a page is active, use the **Is** operator to compare the **ActivePage** property with **Nothing**.
 
 It is possible to get the active window without qualification from the Microsoft Visio global object, which is automatically available to VBA code that is part of the VBA project of a Visio document. For example, you can use this code: 
-
-
-
 
 ```vb
 Set vsoPage = ActivePage
@@ -46,7 +43,6 @@ Set vsoPage = ActivePage
 ## Example
 
 This Microsoft Visual Basic for Applications (VBA) macro shows how to get the active page without qualification from the Visio global object, which is automatically available to VBA code that is part of the VBA project of a Visio document.
-
 
 ```vb
  

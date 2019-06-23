@@ -14,23 +14,21 @@ localization_priority: Normal
 
 # InvisibleApp.AddUndoUnit method (Visio)
 
-Adds an object that supports the  **IOleUndoUnit** or **IVBUndoUnit** interface to the Microsoft Visio undo queue.
+Adds an object that supports the **IOleUndoUnit** or **IVBUndoUnit** interface to the Microsoft Visio undo queue.
 
 
 ## Syntax
 
-_expression_. `AddUndoUnit`( `_pUndoUnit_` )
+_expression_.**AddUndoUnit** (_pUndoUnit_)
 
 _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _pUndoUnit_|Required| **[UNKNOWN]**|A reference to an object that supports the  **IOleUndoUnit** or **IVBUndoUnit** interface.|
+| _pUndoUnit_|Required| **[UNKNOWN]**|A reference to an object that supports the **IOleUndoUnit** or **IVBUndoUnit** interface.|
 
 ## Return value
 
@@ -39,17 +37,14 @@ clsVBUndoUnits
 
 ## Remarks
 
-For information about implementing the  **IOleUndoUnit** interface on your object, see the Microsoft Platform SDK on MSDN, the Microsoft Developer Network. For information about implementing the **IVBUndoUnit** interface, see Developing Microsoft Visio Solutions on MSDN.
+For information about implementing the **IOleUndoUnit** interface on your object, see the [Microsoft Platform SDK](https://developer.microsoft.com/windows/downloads/windows-10-sdk). For information about implementing the **IVBUndoUnit** interface, see [Developing Microsoft Visio Solutions](https://developer.microsoft.com/visio).
 
 
 ## Example
 
-The following procedure shows how to use the  **AddUndoUnit** method to add an object to the Visio undo queue. When a shape is added to the active document, the procedure checks to see if it was added as a result of an undo or redo action, and if not, it adds an Undo unit.
+The following procedure shows how to use the **AddUndoUnit** method to add an object to the Visio undo queue. When a shape is added to the active document, the procedure checks to see if it was added as a result of an undo or redo action, and if not, it adds an Undo unit.
 
-This procedure is a member of class  **clsParticipateInUndo**, which is defined in one of two related class modules in the Code Samples Library in the Visio SDK, and is not intended to be run independently. (The other class module defines class **clsVBUndoUnits**.) For more information on these class modules, see the Visio SDK on MSDN.
-
-
-
+This procedure is a member of class **clsParticipateInUndo**, which is defined in one of two related class modules in the Code Samples Library in the Visio SDK, and is not intended to be run independently. (The other class module defines class **clsVBUndoUnits**.) For more information about these class modules, see the [Visio SDK](https://www.microsoft.com/download/details.aspx?id=51221).
 
 ```vb
  

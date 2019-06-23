@@ -18,12 +18,10 @@ Occurs after firing of events is resumed.
 
 _expression_.**AfterResumeEvents** (_app_)
 
- _expression_ An expression that returns an **[InvisibleApp](Visio.InvisibleApp.md)** object.
+_expression_ An expression that returns an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

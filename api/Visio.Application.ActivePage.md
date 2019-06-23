@@ -28,7 +28,6 @@ _expression_ A variable that represents an **[Application](Visio.Application.md)
 
 Page
 
-
 ## Remarks
 
 The **ActivePage** property returns a **Page** object only when the active window displays a drawing page; otherwise, it returns **Nothing**. To verify that a page is active, use the **Is** operator to compare the **ActivePage** property with **Nothing**.

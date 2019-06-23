@@ -31,6 +31,6 @@ Boolean
 
 ## Remarks
 
-Using the  **AutoLayout** property helps to improve the performance of add-ons that execute many operations in connected drawings that use Visio automatic layout functionality.
+Using the **AutoLayout** property helps to improve the performance of add-ons that execute many operations in connected drawings that use Visio automatic layout functionality.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

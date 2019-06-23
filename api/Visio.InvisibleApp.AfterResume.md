@@ -23,15 +23,13 @@ _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.m
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _app_|Required| **[IVAPPLICATION]**|The instance of Visio that resumes after the operating system resumes normal operation.|
 
 ## Remarks
 
-You can use the  **AfterResume** event to reopen any network files that you may have closed in response to the **BeforeSuspend** event.
+You can use the **AfterResume** event to reopen any network files that you may have closed in response to the **BeforeSuspend** event.
 
 If your solution runs outside the Microsoft Visio process, you cannot be assured of receiving this event. For this reason, you should monitor window messages in your program.
 

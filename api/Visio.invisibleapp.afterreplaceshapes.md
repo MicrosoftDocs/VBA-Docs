@@ -26,5 +26,4 @@ _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.m
 | _sel_|Required|**[IVSELECTION]**|A **[Selection](Visio.Selection.md)** object that represents the replacement shape or shapes.|
 
 
-
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
