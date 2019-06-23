@@ -35,7 +35,7 @@ When you get the  **Attributes** property of a **Font** object, the following va
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visFont0Alias**|128|
 

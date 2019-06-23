@@ -47,7 +47,7 @@ The following constants declared by the Visio type library are valid values for 
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **VisArrangeTileVertical**|1|
 | **VisArrangeTileHorizontal**|2|

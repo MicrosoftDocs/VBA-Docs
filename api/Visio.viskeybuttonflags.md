@@ -16,7 +16,7 @@ Flags passed to the  **MouseDown**, **MouseMove**, and **MouseUp** events.
 
 
 
-|**Constant**|**Value**|**Descriptioin**|
+|Constant|Value|**Descriptioin**|
 |:-----|:-----|:-----|
 | **visKeyControl**|8|CTRL key.|
 | **visKeyShift**|4|SHIFT key.|

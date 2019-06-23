@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.InvisibleApp.Application
 ms.assetid: 3d257372-c728-a758-9890-5cc695f70d89
-ms.date: 06/08/2017
+ms.date: 06/24/2019
 localization_priority: Normal
 ---
 

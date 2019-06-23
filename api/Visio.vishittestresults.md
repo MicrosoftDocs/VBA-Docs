@@ -16,7 +16,7 @@ Result values returned by the  **Shape.HitTest** method.
 
 
 
-|**Constant**|**Value**|**Descriptioin**|
+|Constant|Value|**Descriptioin**|
 |:-----|:-----|:-----|
 | **visHitInside**|2|Hit position is inside shape boundary.|
 | **visHitOnBoundary**|1|Hit position is on shape boundary|

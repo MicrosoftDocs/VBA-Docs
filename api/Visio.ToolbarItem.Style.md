@@ -50,7 +50,7 @@ Possible values for the  **Style** property are listed in the following table. T
 
 This example shows how to use the  **Style** property to set the style of a toolbar button. The example adds a custom toolbar button and sets it to display both an icon and a caption. This button appears in the Visio user interface and is available while the document is active.
 
-Before running this code, replace  _path\filename_ with the full path to and name of a valid icon (.ico) file on your computer.
+Before running this code, replace `path\filename` with the full path to and name of a valid icon (.ico) file on your computer.
 
 To restore the built-in toolbars in Microsoft Visio after you run this macro, call the  **ThisDocument.ClearCustomToolbars** method.
 
@@ -100,7 +100,7 @@ Sub Style_Example()
  vsoToolbarItem.CntrlType = visCtrlTypeBUTTON 
  vsoToolbarItem.CmdNum = visCmdFileSave 
  vsoToolbarItem.Style = visButtonIconandCaption 
- vsoToolbarItem.IconFileName "path\filename " 
+ vsoToolbarItem.IconFileName "path\filename" 
  
  'Use the new UIObject object while this document is active. 
  ThisDocument.SetCustomToolbars vsoUIObject 

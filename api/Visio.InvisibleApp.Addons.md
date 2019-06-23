@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.InvisibleApp.Addons
 ms.assetid: a0f1039c-595a-18cf-1484-842069db677f
-ms.date: 06/08/2017
+ms.date: 06/24/2019
 localization_priority: Normal
 ---
 
@@ -38,7 +38,7 @@ The  **Addons** collection includes an **Addon** object for each add-on in the f
 
 This Microsoft Visual Basic for Applications (VBA) macro shows how to get the  **Addons** collection and add an add-on to it.
 
-Before running this macro, replace  _path\filename_ with a valid path and file name for an add-on in your Visio project.
+Before running this macro, replace `path\filename` with a valid path and file name for an add-on in your Visio project.
 
 
 
@@ -52,7 +52,7 @@ Public Sub Addons_Example()
  
  'Add an add-on to the Addons collection. 
  Set vsoAddons = Visio.Addons 
- Set vsoAddon = vsoAddons.Add("path\filename ") 
+ Set vsoAddon = vsoAddons.Add("path\filename") 
  
 End Sub
 ```

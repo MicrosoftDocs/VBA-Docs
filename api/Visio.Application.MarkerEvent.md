@@ -84,7 +84,13 @@ End Sub
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
-If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
+If you want to create your own **Event** objects, use the **Add** or **AddAdvise** method. 
+
+To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. 
+
+To create an **Event** object that receives notification, use the **AddAdvise** method. 
+
+To find an event code for the event that you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
 If you are handling this event from a program that receives a notification, the  **MarkerEvent** event is one of one of a group of events that record extra information in the **EventInfo** property of the **Application** object.
 

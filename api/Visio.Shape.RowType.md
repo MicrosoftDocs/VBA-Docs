@@ -44,7 +44,7 @@ You can specify the type of row you want by setting  **RowType** equal to any of
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visTagComponent**|137|
 | **visTagMoveTo**|138|

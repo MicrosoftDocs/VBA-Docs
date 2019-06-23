@@ -50,7 +50,7 @@ You must use the  **SaveToFile** method to save a **UIObject** object in a file 
 
 This Microsoft Visual Basic for Applications (VBA) macro shows how to save and then load a custom user interface file (.vsu). It does not manipulate any menus or menu items.
 
-Before running this code, replace  _path\filename_ with the full path to and name of a valid .vsu file on your computer.
+Before running this code, replace `path\filename` with the full path to and name of a valid .vsu file on your computer.
 
 
 
@@ -66,14 +66,14 @@ Public Sub LoadFromFile_Example()
  Set vsoUIObject = Visio.Application.BuiltInMenus 
  
  'Save Menus object to a file. 
- strPath = "path\filename.vsu " 
+ strPath = "path\filename.vsu" 
  vsoUIObject.SaveToFile (strPath) 
- MsgBox ("Menus successfully saved to " & strPath) 
+ MsgBox ("Menus successfully saved to" & strPath) 
  
  'Load menus from the file. 
  vsoUIObject.LoadFromFile (strPath) 
  Visio.Application.SetCustomMenus vsoUIObject 
- MsgBox ("Menus successfully loaded from " & strPath) 
+ MsgBox ("Menus successfully loaded from" & strPath) 
  
 End Sub
 ```

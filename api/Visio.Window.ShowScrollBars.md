@@ -35,7 +35,7 @@ The  **ShowScrollBars** property value can be any combination of the following *
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visScrollBarNeither**|&H0 |
 | **visScrollBarHoriz**|&H1 |

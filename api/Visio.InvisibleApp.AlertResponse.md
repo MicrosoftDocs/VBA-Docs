@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.InvisibleApp.AlertResponse
 ms.assetid: eb0fabb1-809e-b952-da99-e18eda0f6970
-ms.date: 06/08/2017
+ms.date: 06/24/2019
 localization_priority: Normal
 ---
 
@@ -39,7 +39,7 @@ The values you supply for the  **AlertResponse** property correspond to the stan
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 |IDOK|1|
 |IDCANCEL|2|

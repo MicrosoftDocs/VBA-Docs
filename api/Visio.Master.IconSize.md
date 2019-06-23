@@ -35,7 +35,7 @@ The following constants declared by the Visio type library in  **VisMasterProper
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visNormal**|1|
 | **visTall**|2|

@@ -35,7 +35,7 @@ The  **ToPart** property identifies the part of a shape to which another shape i
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visConnectToError**|-1|
 | **visToNone**|0|
