@@ -16,7 +16,7 @@ Occurs after a shape is no longer open for interactive text editing.
 
 ## Syntax
 
-_expression_.**ShapeExitedTextEdit** (_shape As [IVSHAPE]_**)
+_expression_.**ShapeExitedTextEdit** (_Shape_)
 
 _expression_ A variable that represents a **[DrawingControl](Visio.DrawingControl.md)** object.
 

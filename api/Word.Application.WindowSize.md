@@ -19,7 +19,7 @@ Occurs when the application window is resized or moved.
 
 ## Syntax
 
-_expression_. `Private Sub object_WindowSize`( `_ByVal Doc As Document_` , `_ByVal Wn As Window_` )
+_expression_.**WindowSize** (_Doc_, _Wn_)
 
 _expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module. For information about using events with the **Application** object, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 

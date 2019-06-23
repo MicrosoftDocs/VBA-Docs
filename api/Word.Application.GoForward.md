@@ -21,7 +21,7 @@ Moves the insertion point forward among the last three locations where editing o
 
 _expression_. `GoForward`
 
-_expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ Required. A variable that represents an **[Application](Word.Application.md)** object. 
 
 
 ## Example

@@ -21,7 +21,7 @@ Performs an  **AutoFormat** action when there is a change suggested by the Offic
 
 _expression_. `AutomaticChange`
 
-_expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ Required. A variable that represents an **[Application](Word.Application.md)** object. 
 
 
 ## Example

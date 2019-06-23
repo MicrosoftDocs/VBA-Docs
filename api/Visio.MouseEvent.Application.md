@@ -23,6 +23,6 @@ _expression_ A variable that represents a **[MouseEvent](Visio.MouseEvent.md)** 
 
 ## Return value
 
-Application
+**[Application](visio.application.md)**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,7 +19,7 @@ Occurs after shapes are grouped or a group is ungrouped.
 
 ## Syntax
 
-_expression_.**ShapeParentChanged** (_Shape As [IVSHAPE]_**)
+_expression_.**ShapeParentChanged** (_Shape_)
 
 _expression_ A variable that represents a **[Masters](Visio.Masters.md)** object.
 

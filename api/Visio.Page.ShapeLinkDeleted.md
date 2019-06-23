@@ -23,7 +23,7 @@ Occurs after the link between a shape and a data row is deleted.
 
 ## Syntax
 
-_expression_.**ShapeLinkDeleted** (_Shape As [IVSHAPE]_**, **_ByVal DataRecordsetID As Long_**, **_ByVal DataRowID As Long_**)
+_expression_.**ShapeLinkDeleted** (_Shape_, _DataRecordsetID_, _DataRowID_)
 
  _expression_ An expression that returns a **[Page](Visio.Page.md)** object.
 

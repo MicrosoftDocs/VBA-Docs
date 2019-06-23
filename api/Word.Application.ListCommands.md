@@ -21,7 +21,7 @@ Creates a new document and then inserts a table of Word commands along with thei
 
 _expression_. `ListCommands`( `_ListAllCommands_` )
 
-_expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ Required. A variable that represents an **[Application](Word.Application.md)** object. 
 
 
 ## Parameters

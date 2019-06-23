@@ -21,7 +21,7 @@ Returns a  **[Template](Word.Template.md)** or **[Document](Word.Document.md)** 
 
 _expression_. `MacroContainer`
 
-_expression_ A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ A variable that represents an **[Application](Word.Application.md)** object. 
 
 
 ## Example

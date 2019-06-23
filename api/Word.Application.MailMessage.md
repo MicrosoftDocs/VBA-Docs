@@ -21,7 +21,7 @@ Returns a  **[MailMessage](Word.MailMessage.md)** object that represents the act
 
 _expression_. `MailMessage`
 
- _expression_ An expression that returns an '[Application](Word.Application.md)' object.
+ _expression_ An expression that returns an **[Application](Word.Application.md)** object. 
 
 
 ## Example

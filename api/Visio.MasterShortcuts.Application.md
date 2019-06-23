@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[MasterShortcuts](Visio.MasterShortc
 
 ## Return value
 
-Application
+**[Application](visio.application.md)**
 
 
 ## Example

@@ -21,7 +21,7 @@ Returns the  **[Selection](Word.Selection.md)** object that represents a selecte
 
 _expression_.**Selection**
 
-_expression_ A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ A variable that represents an **[Application](Word.Application.md)** object. 
 
 
 ## Example

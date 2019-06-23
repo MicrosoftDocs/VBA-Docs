@@ -30,6 +30,6 @@ _expression_ An expression that returns a **[DataRecordset](Visio.DataRecordset.
 
 ## Return value
 
-Application
+**[Application](visio.application.md)**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

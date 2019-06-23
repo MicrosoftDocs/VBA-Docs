@@ -16,7 +16,7 @@ Occurs when a keyboard key is released.
 
 ## Syntax
 
-_expression_.**KeyUp** (_KeyCode As Long_**, **_ByVal KeyButtonState As Long_**, **_ByVal CancelDefault As Boolean_**)
+_expression_.**KeyUp** (_KeyCode_, _KeyButtonState_, _CancelDefault_)
 
 _expression_ A variable that represents a **[DrawingControl](Visio.DrawingControl.md)** object.
 

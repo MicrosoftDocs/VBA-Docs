@@ -19,7 +19,7 @@ Occurs after the text of a shape is changed in a document.
 
 ## Syntax
 
-_expression_.**TextChanged** (_Shape As [IVSHAPE]_**)
+_expression_.**TextChanged** (_Shape_)
 
 _expression_ A variable that represents a **[Documents](Visio.Documents.md)** object.
 

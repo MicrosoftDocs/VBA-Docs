@@ -19,7 +19,7 @@ Occurs when a keyboard key is pressed.
 
 ## Syntax
 
-_expression_.**KeyPress** (_KeyAscii As Long_**, **_ByVal CancelDefault As Boolean_**)
+_expression_.**KeyPress** (_KeyAscii_, _CancelDefault_)
 
 _expression_ A variable that represents a **[Windows](Visio.Windows.md)** object.
 

@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Characters](Visio.Characters.md)** 
 
 ## Return value
 
-Application
+**[Application](visio.application.md)**
 
 
 ## Example

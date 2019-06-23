@@ -23,7 +23,7 @@ Occurs after a shape is linked to a data row.
 
 ## Syntax
 
-_expression_.**ShapeLinkAdded** (_Shape As [IVSHAPE]_**, **_ByVal DataRecordsetID As Long_**, **_ByVal DataRowID As Long_**)
+_expression_.**ShapeLinkAdded** (_Shape_, _DataRecordsetID_, _DataRowID_)
 
  _expression_ An expression that returns a **[Page](Visio.Page.md)** object.
 

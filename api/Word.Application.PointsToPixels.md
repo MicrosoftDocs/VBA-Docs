@@ -21,7 +21,7 @@ Converts a measurement from points to pixels. Returns the converted measurement 
 
 _expression_. `PointsToPixels`( `_Points_` , `_fVertical_` )
 
-_expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ Required. A variable that represents an **[Application](Word.Application.md)** object. 
 
 
 ## Parameters

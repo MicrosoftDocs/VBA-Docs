@@ -21,7 +21,7 @@ Returns a  **LanguageSettings** object, which contains information about the lan
 
 _expression_.**LanguageSettings**
 
-_expression_ A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ A variable that represents an **[Application](Word.Application.md)** object. 
 
 
 ## See also

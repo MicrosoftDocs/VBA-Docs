@@ -19,14 +19,14 @@ Occurs when a user changes from a specified step to a specified step in the Mail
 
 ## Syntax
 
-_expression_. `Private Sub object_MailMergeWizardStateChange`( `_ByVal Doc As Document_` , `_FromState As Long_` , `_ToState As Long_` , `_Handled As Boolean_` )
+_expression_.**MailMergeWizardStateChange** (_Doc_, _FromState_, _ToState_, _Handled_)
 
-_expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module. For information about using events with the **Application** object, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
+_expression_ A variable that represents an **[Application](Word.Application.md)** object. 
+
+For information about using events with the **Application** object, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -21,7 +21,7 @@ Returns the mail system (or systems) installed on the host computer. Read-only  
 
 _expression_. `MailSystem`
 
-_expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ Required. A variable that represents an **[Application](Word.Application.md)** object. 
 
 
 ## Remarks

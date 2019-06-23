@@ -21,7 +21,7 @@ Occurs when the selection changes in the active document window.
 
 ## Syntax
 
-_expression_. `Private Sub object_WindowSelectionChange`(`ByVal Sel As Selection`)
+_expression_.**WindowSelectionChange** (_Sel_)
 
 _expression_ A variable that represents an [Application](Word.Application.md) object that has been declared with events in a class module. For more information about using events with the **Application** object, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 

@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Connects](Visio.Connects.md)** obje
 
 ## Return value
 
-Application
+**[Application](visio.application.md)**
 
 
 ## Example

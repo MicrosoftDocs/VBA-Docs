@@ -16,7 +16,7 @@ Occurs before a shape is opened for text editing in the user interface.
 
 ## Syntax
 
-_expression_.**BeforeShapeTextEdit** (_Shape As [IVSHAPE]_**)
+_expression_.**BeforeShapeTextEdit** (_Shape_)
 
 _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 

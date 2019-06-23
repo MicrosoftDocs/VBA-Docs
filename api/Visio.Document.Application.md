@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Document](Visio.Document.md)** obje
 
 ## Return value
 
-Application
+**[Application](visio.application.md)**
 
 
 ## Remarks

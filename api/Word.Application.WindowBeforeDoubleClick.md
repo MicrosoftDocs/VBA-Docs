@@ -19,14 +19,14 @@ Occurs when the editing area of a document window is double-clicked, before the 
 
 ## Syntax
 
-_expression_. `Private Sub object_WindowBeforeDoubleClick`( `_ByVal Sel As Selection_` , `_Cancel As Boolean_` )
+_expression_.**WindowBeforeDoubleClick** (_Sel_, _Cancel_)
 
-_expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module. For more information about using events with the **Application** object, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
+_expression_ A variable that represents an **[Application](Word.Application.md)** object. 
+
+For more information about using events with the **Application** object, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

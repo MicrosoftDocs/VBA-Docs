@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.m
 
 ## Return value
 
-ApplicationSettings
+**[Application](visio.application.md)**Settings
 
 
 ## Remarks

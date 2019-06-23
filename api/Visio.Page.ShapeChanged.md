@@ -19,7 +19,7 @@ Occurs after a property of a shape that is not stored in a cell is changed in a 
 
 ## Syntax
 
-_expression_.**ShapeChanged** (_Shape As [IVSHAPE]_**)
+_expression_.**ShapeChanged** (_Shape_)
 
 _expression_ A variable that represents a **[Page](Visio.Page.md)** object.
 
