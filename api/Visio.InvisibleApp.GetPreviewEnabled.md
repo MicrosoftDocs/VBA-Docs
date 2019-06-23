@@ -19,14 +19,12 @@ Returns a value that indicates whether preview is enabled for the specified gall
 
 ## Syntax
 
-_expression_. `GetPreviewEnabled`( `_GalleryName_` )
+_expression_.**GetPreviewEnabled** (_GalleryName_)
 
 _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,7 +32,7 @@ _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.m
 
 ## Return value
 
- **Boolean**
+**Boolean**
 
 
 ## Remarks

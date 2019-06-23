@@ -19,7 +19,7 @@ Replaces the current built-in or custom toolbars of an application or document.
 
 ## Syntax
 
-_expression_. `SetCustomToolbars`( `_ToolbarsObject_` )
+_expression_.**SetCustomToolbars** (_ToolbarsObject_)
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 

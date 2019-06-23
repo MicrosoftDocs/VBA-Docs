@@ -19,7 +19,7 @@ Occurs after the name of a style is changed or a change to the style propagates 
 
 ## Syntax
 
-_expression_.**StyleChanged** (_Style As [IVSTYLE]_**)
+_expression_.**StyleChanged** (_Style_)
 
 _expression_ A variable that represents a **[Style](Visio.Style.md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Style](Visio.Style.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _style_|Required| **[IVSTYLE]**|The style that changed.|
+|_Style_|Required| **[IVSTYLE]**|The style that changed.|
 
 ## Remarks
 

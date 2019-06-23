@@ -16,7 +16,7 @@ Occurs before the application deletes a style in response to a user action in th
 
 ## Syntax
 
-_expression_.**QueryCancelStyleDelete** (_style As [IVSTYLE]_**)
+_expression_.**QueryCancelStyleDelete** (_Style_)
 
 _expression_ A variable that represents a **[DrawingControl](Visio.DrawingControl.md)** object.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a **[DrawingControl](Visio.DrawingContro
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _style_|Required| **[IVSTYLE]**|The style that is going to be deleted.|
+|_Style_|Required| **[IVSTYLE]**|The style that is going to be deleted.|
 
 ## Remarks
 

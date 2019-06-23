@@ -23,18 +23,16 @@ Occurs after a data graphic is applied to or deleted from a shape.
 
 ## Syntax
 
-_expression_.**ShapeDataGraphicChanged** (_Shape As IVSHAPE_**)
+_expression_.**ShapeDataGraphicChanged** (_Shape_)
 
- _expression_ An expression that returns a **[Shape](Visio.Shape.md)** object.
+_expression_ An expression that returns a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Shape_|Required| **[IVSHAPE]**|The shape to which the data graphic was applied or from which it was deleted.|
+|_Shape_|Required| **[IVSHAPE]**|The shape to which the data graphic was applied or from which it was deleted.|
 
 ## Remarks
 

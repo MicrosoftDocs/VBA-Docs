@@ -16,7 +16,7 @@ Occurs when Microsoft Visio receives a keystroke message from Microsoft Windows 
 
 ## Syntax
 
-_expression_.**OnKeystrokeMessageForAddon** (_MSG As [IVMSGWRAP]_**)
+_expression_.**OnKeystrokeMessageForAddon** (_MSG_)
 
 _expression_ A variable that represents a **[DrawingControl](Visio.DrawingControl.md)** object.
 

@@ -19,7 +19,7 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 
 ## Syntax
 
-_expression_.**StyleDeleteCanceled** (_Style As [IVSTYLE]_**)
+_expression_.**StyleDeleteCanceled** (_Style_)
 
 _expression_ A variable that represents a **[Style](Visio.Style.md)** object.
 

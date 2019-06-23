@@ -19,14 +19,12 @@ Executes a redo action on items in the  **Redo** list.
 
 ## Syntax
 
-_expression_. `Redo`( `_HowManyRedos_` )
+_expression_.**Redo** (_HowManyRedos_)
 
 _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

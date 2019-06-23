@@ -16,7 +16,7 @@ Occurs after the value changes in a cell in a document.
 
 ## Syntax
 
-_expression_.**CellChanged** (_Cell As [IVCELL]_**)
+_expression_.**CellChanged** (_Cell_)
 
 _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 

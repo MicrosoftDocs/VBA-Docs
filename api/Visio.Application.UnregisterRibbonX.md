@@ -19,7 +19,7 @@ Unregisters a previously registered  **IRibbonExtensibility** interface that a M
 
 ## Syntax
 
-_expression_. `UnregisterRibbonX`( `_SourceAddOn_` , `_TargetDocument_` )
+_expression_.**UnregisterRibbonX** (_SourceAddOn_, _TargetDocument_)
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 

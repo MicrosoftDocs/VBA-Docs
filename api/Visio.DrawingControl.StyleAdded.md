@@ -16,7 +16,7 @@ Occurs after a new style is added to a document.
 
 ## Syntax
 
-_expression_.**StyleAdded** (_style As [IVSTYLE]_**)
+_expression_.**StyleAdded** (_Style_)
 
 _expression_ A variable that represents a **[DrawingControl](Visio.DrawingControl.md)** object.
 

@@ -19,7 +19,7 @@ Occurs before a style is deleted.
 
 ## Syntax
 
-_expression_.**BeforeStyleDelete** (_Style As [IVSTYLE]_**)
+_expression_.**BeforeStyleDelete** (_Style_)
 
 _expression_ A variable that represents a **[Style](Visio.Style.md)** object.
 

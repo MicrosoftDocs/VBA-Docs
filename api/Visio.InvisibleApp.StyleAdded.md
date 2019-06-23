@@ -16,7 +16,7 @@ Occurs after a new style is added to a document.
 
 ## Syntax
 
-_expression_.**StyleAdded** (_Style As [IVSTYLE]_**)
+_expression_.**StyleAdded** (_Style_)
 
 _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 

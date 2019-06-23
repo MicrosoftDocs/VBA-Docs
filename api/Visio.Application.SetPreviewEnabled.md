@@ -19,7 +19,7 @@ Turns preview on or off for a gallery in the Microsoft Visio user interface.
 
 ## Syntax
 
-_expression_. `SetPreviewEnabled`( `_GalleryName_` , `_OnOrOff_` )
+_expression_.**SetPreviewEnabled** (_GalleryName_, _OnOrOff_)
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 

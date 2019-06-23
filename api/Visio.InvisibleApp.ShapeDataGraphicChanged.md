@@ -20,14 +20,12 @@ Occurs after a data graphic is applied to or deleted from a shape.
 
 ## Syntax
 
-_expression_.**ShapeDataGraphicChanged** (_Shape As IVSHAPE_**)
+_expression_.**ShapeDataGraphicChanged** (_Shape_)
 
  _expression_ An expression that returns an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -18,7 +18,7 @@ Formats a string or number into a string according to a format picture. Uses spe
 
 ## Syntax
 
-_expression_. `FormatResult`(`StringOrNumber`, `UnitsIn`, `UnitsOut`, `Format`)
+_expression_.**FormatResult** (_StringOrNumber_, _UnitsIn_, _UnitsOut_, _Format_)
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 
