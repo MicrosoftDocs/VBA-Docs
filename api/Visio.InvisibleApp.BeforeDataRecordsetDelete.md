@@ -20,7 +20,7 @@ Occurs before a  **DataRecordset** object is deleted from the **DataRecordsets**
 
 ## Syntax
 
-_expression_.**BeforeDataRecordsetDelete** (_DataRecordset As IVDATARECORDSET_**)
+_expression_.**BeforeDataRecordsetDelete** (_DataRecordset_)
 
  _expression_ An expression that returns an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 

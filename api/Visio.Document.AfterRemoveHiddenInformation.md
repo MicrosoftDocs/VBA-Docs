@@ -19,14 +19,12 @@ Occurs when hidden information is removed from the document.
 
 ## Syntax
 
-_expression_.**AfterRemoveHiddenInformation** (_doc As IVDOCUMENT_**)
+_expression_.**AfterRemoveHiddenInformation** (_doc_)
 
- _expression_ An expression that returns a **[Document](Visio.Document.md)** object.
+_expression_ An expression that returns a **[Document](Visio.Document.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

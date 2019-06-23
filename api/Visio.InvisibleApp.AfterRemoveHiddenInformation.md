@@ -16,14 +16,12 @@ Occurs when hidden information is removed from the document.
 
 ## Syntax
 
-_expression_.**AfterRemoveHiddenInformation** (_doc As IVDOCUMENT_**)
+_expression_.**AfterRemoveHiddenInformation** (_doc_)
 
  _expression_ An expression that returns an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

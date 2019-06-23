@@ -16,7 +16,7 @@ Occurs after connections have been established between shapes.
 
 ## Syntax
 
-_expression_.**ConnectionsAdded** (_Connects As [IVCONNECTS]_**)
+_expression_.**ConnectionsAdded** (_Connects_)
 
 _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 

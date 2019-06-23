@@ -20,7 +20,7 @@ Occurs when a data recordset changes as a result of being refreshed.
 
 ## Syntax
 
-_expression_.**DataRecordsetChanged** (_DataRecordsetChanged As IVDATARECORDSETCHANGEDEVENT_**)
+_expression_.**DataRecordsetChanged** (_DataRecordsetChanged_)
 
  _expression_ An expression that returns a **[DataRecordset](Visio.DataRecordset.md)** object.
 

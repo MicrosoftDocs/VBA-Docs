@@ -16,7 +16,7 @@ Occurs when a rule set is validated.
 
 ## Syntax
 
-_expression_.**RuleSetValidated** (_RuleSet As ValidationRuleSet_**)
+_expression_.**RuleSetValidated** (_RuleSet_)
 
 _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 

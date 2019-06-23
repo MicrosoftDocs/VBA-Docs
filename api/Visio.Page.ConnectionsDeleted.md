@@ -19,7 +19,7 @@ Occurs after connections between shapes have been removed.
 
 ## Syntax
 
-_expression_.**ConnectionsDeleted** (_Connects As [IVCONNECTS]_**)
+_expression_.**ConnectionsDeleted** (_Connects_)
 
 _expression_ A variable that represents a **[Page](Visio.Page.md)** object.
 

@@ -14,24 +14,20 @@ Specifies the options for the shape replacement. Read-only.
 
 ## Syntax
 
-_expression_. `ReplaceFlags`
+_expression_.**ReplaceFlags**
 
 _expression_ A variable that represents a **[ReplaceShapesEvent](Visio.ReplaceShapesEvent.md)** object.
 
 
 ## Remarks
 
-The value returned by  **ReplaceFlags** is equal to a combination of one or more[VisReplaceFlags](Visio.visreplaceflags.md) constants.
+The value returned by **ReplaceFlags** is equal to a combination of one or more[VisReplaceFlags](Visio.visreplaceflags.md) constants.
 
 
 ## Property value
 
- **INT32**
+**INT32**
 
 
-## See also
-
-
-[ReplaceShapesEvent Object](Visio.replaceshapesevent.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
