@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.Addon.ObjectType
 ms.assetid: f0ccb00e-8317-ccc1-53be-7e48433cc1d9
-ms.date: 06/08/2017
+ms.date: 06/24/2019
 localization_priority: Normal
 ---
 
@@ -31,13 +31,12 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
+Constants representing object types are prefixed with **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 
 ## Example
 
-This example shows how to use the  **ObjectType** property of a page to iterate recursively through a group and identify the top shape.
-
+This example shows how to use the **ObjectType** property of a page to iterate recursively through a group and identify the top shape.
 
 ```vb
 Public Sub ObjectType_Example() 

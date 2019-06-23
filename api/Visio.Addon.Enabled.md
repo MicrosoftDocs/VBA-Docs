@@ -7,14 +7,14 @@ ms.prod: visio
 api_name:
 - Visio.Addon.Enabled
 ms.assetid: fcc719d3-7b1c-e356-6f92-7717ecea10df
-ms.date: 06/08/2017
+ms.date: 06/24/2019
 localization_priority: Normal
 ---
 
 
 # Addon.Enabled property (Visio)
 
-Determines whether or not an  **Addon** object is currently enabled. Read/write.
+Determines whether an **Addon** object is currently enabled. Read/write.
 
 
 ## Syntax

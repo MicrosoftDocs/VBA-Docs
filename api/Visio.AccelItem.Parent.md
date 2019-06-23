@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.AccelItem.Parent
 ms.assetid: 3fd36c48-74ce-a1b7-1634-ba21234a695f
-ms.date: 06/08/2017
+ms.date: 06/24/2019
 localization_priority: Normal
 ---
 
@@ -28,7 +28,7 @@ _expression_ A variable that represents an **[AccelItem](Visio.AccelItem.md)** o
 
 ## Return value
 
-AccelItems
+**[AccelItems](Visio.AccelItems.md)**
 
 
 ## Remarks

@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.AccelItems.Count
 ms.assetid: 3ee99cdf-d727-9d6e-c390-db3d46222f6d
-ms.date: 06/08/2017
+ms.date: 06/24/2019
 localization_priority: Normal
 ---
 
