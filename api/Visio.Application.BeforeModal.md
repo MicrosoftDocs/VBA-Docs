@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.Application.BeforeModal
 ms.assetid: 505d3e54-c8f7-7f02-90d2-43f73573b296
-ms.date: 06/24/2019
+ms.date: 06/25/2019
 localization_priority: Normal
 ---
 
@@ -33,7 +33,7 @@ Visio becomes modal when it displays a dialog box. A modal instance of Visio doe
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
-If you want to create your own **Event** objects, use the **Add** or **AddAdvise** method. 
+If you want to create your own **Event** objects, use the **[Add](visio.eventlist.add.md)** or **[AddAdvise](visio.eventlist.addadvise.md)** method. 
 
 To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. 
 
