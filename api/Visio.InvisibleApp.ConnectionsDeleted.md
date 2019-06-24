@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ConnectionsDeleted
 ms.assetid: 88505099-3b7d-bf02-cc3d-d56bc436e63f
-ms.date: 06/08/2017
+ms.date: 06/25/2019
 localization_priority: Normal
 ---
 
@@ -23,8 +23,6 @@ _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.m
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Connects_|Required| **[IVCONNECTS]**|The connections that have been removed.|
@@ -41,11 +39,9 @@ To create an **Event** object that receives notification, use the **AddAdvise** 
 
 To find an event code for the event that you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
+> [!NOTE] 
+> You can use VBA **WithEvents** variables to sink the **ConnectionsDeleted** event.
 
-
-
- **Note**   You can use VBA **WithEvents** variables to sink the **ConnectionsDeleted** event.
-
-For performance considerations, the  **Document** object's event set does not include the **ConnectionsDeleted** event. To sink the **ConnectionsDeleted** event from a **Document** object (and the **[ThisDocument](../visio/Concepts/about-the-thisdocument-object-visio.md)** object in a VBA project), you must use the **AddAdvise** method.
+For performance considerations, the **Document** object's event set does not include the **ConnectionsDeleted** event. To sink the **ConnectionsDeleted** event from a **Document** object (and the **[ThisDocument](../visio/Concepts/about-the-thisdocument-object-visio.md)** object in a VBA project), you must use the **AddAdvise** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

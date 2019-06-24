@@ -7,15 +7,17 @@ ms.prod: visio
 api_name:
 - Visio.InvisibleApp.CustomMenus
 ms.assetid: 7c571744-70b9-f689-f39a-5230b180f4c3
-ms.date: 06/08/2017
+ms.date: 06/25/2019
 localization_priority: Normal
 ---
 
 
 # InvisibleApp.CustomMenus property (Visio)
 
-Gets a  **UIObject** object that represents the current custom menus and accelerators of an **InvisibleApp** object. Read-only.
+Gets a **[UIObject](visio.uiobject.md)** object that represents the current custom menus and accelerators of an **InvisibleApp** object. Read-only.
 
+> [!NOTE] 
+> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 ## Syntax
 
@@ -31,17 +33,12 @@ UIObject
 
 ## Remarks
 
-
-> [!NOTE] 
-> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
-
-If Microsoft Visio menus and accelerators have not been customized, either programmatically, by a Visio solution, or in the user interface, the  **CustomMenus** property returns **Nothing**.
+If Microsoft Visio menus and accelerators have not been customized, either programmatically, by a Visio solution, or in the user interface, the **CustomMenus** property returns **Nothing**.
 
 
 ## Example
 
 This Microsoft Visual Basic for Applications (VBA) macro shows how to get the currently active user interface (UI) for your document without replacing the application-level custom UI. You must write additional code to add your custom UI items.
-
 
 ```vb
  

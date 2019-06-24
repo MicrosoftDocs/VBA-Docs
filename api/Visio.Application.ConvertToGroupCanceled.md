@@ -4,14 +4,14 @@ ms.prod: visio
 api_name:
 - Visio.Application.ConvertToGroupCanceled
 ms.assetid: 0cc49837-c819-774c-c69b-45ae86b7fa0d
-ms.date: 06/08/2017
+ms.date: 06/25/2019
 localization_priority: Normal
 ---
 
 
 # Application.ConvertToGroupCanceled event (Visio)
 
-Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelConvertToGroup** event.
+Occurs after an event handler has returned **True** (cancel) to a **[QueryCancelConvertToGroup](visio.application.querycancelconverttogroup.md)** event.
 
 
 ## Syntax
@@ -22,8 +22,6 @@ _expression_ A variable that represents an **[Application](Visio.Application.md)
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
