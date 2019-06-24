@@ -7,14 +7,14 @@ ms.prod: visio
 api_name:
 - Visio.AccelTables.ItemAtID
 ms.assetid: d8792640-0659-d7bb-1f7d-c884694f725d
-ms.date: 06/08/2017
+ms.date: 06/24/2019
 localization_priority: Normal
 ---
 
 
 # AccelTables.ItemAtID property (Visio)
 
-Returns the  **AccelTable** object for an ID within a collection. Read-only.
+Returns the **[AccelTable](Visio.AccelTable.md)** object for an ID within a collection. Read-only.
 
 
 ## Syntax

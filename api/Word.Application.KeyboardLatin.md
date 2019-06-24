@@ -21,7 +21,7 @@ Sets the keyboard language to a left-to-right language and the text entry direct
 
 _expression_. `KeyboardLatin`
 
-_expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ Required. A variable that represents an **[Application](Word.Application.md)** object. 
 
 
 ## Example

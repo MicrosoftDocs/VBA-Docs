@@ -19,7 +19,7 @@ Occurs after one or more shapes are added to a document.
 
 ## Syntax
 
-_expression_.**ShapeAdded** (_Shape As [IVSHAPE]_**)
+_expression_.**ShapeAdded** (_Shape_)
 
 _expression_ A variable that represents a **[Masters](Visio.Masters.md)** object.
 
@@ -42,7 +42,13 @@ To determine if a  **ShapeAdded** event was triggered by a new shape or group of
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
-If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
+If you want to create your own **Event** objects, use the **Add** or **AddAdvise** method. 
+
+To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. 
+
+To create an **Event** object that receives notification, use the **AddAdvise** method. 
+
+To find an event code for the event that you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
 
 ## Example

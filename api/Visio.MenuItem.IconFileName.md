@@ -52,7 +52,7 @@ Unless  _IconFileName_ is a fully qualified path, the application searches for t
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how use the  **IconFileName** method to set the icon for a toolbar button. It retrieves a copy of the built-in Visio toolbars, adds a toolbar button, and sets the button icon.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **IconFileName** method to set the icon for a toolbar button. It retrieves a copy of the built-in Visio toolbars, adds a toolbar button, and sets the button icon.
 
 Before running this code, replace  _path_ \ _filename_ with the full path to and name of a valid icon (.ico file) on your computer.
 

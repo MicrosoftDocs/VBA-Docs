@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[EventList](Visio.EventList.md)** o
 
 ## Return value
 
-Application
+**[Application](visio.application.md)**
 
 
 ## Example

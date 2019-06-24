@@ -37,7 +37,7 @@ The  **SnapExtensions** property can be any combination of the following **VisSn
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visSnapExtNone**|&H0|
 | **visSnapExtAlignmentBoxExtension**|&H1|

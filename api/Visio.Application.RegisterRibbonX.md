@@ -14,19 +14,17 @@ localization_priority: Normal
 
 # Application.RegisterRibbonX method (Visio)
 
-Registers the  **[IRibbonExtensibility](Office.IRibbonExtensibility.md)** interface that is implemented by the specified add-on to populate the custom user interface (UI).
+Registers the **[IRibbonExtensibility](Office.IRibbonExtensibility.md)** interface that is implemented by the specified add-on to populate the custom user interface (UI).
 
 
 ## Syntax
 
-_expression_. `RegisterRibbonX`( `_SourceAddOn_` , `_TargetDocument_` , `_TargetModes_` , `_FriendlyName_` )
+_expression_.**RegisterRibbonX** (_SourceAddOn_, _TargetDocument_, _TargetModes_, _FriendlyName_)
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

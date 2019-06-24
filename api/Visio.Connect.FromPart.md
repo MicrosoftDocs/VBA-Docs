@@ -35,7 +35,7 @@ The following constants declared by the Microsoft Visio type library show return
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visConnectFromError**|-1|
 | **visFromNone**|0|

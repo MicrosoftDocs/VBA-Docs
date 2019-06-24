@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Color](Visio.Color.md)** object.
 
 ## Return value
 
-Application
+**[Application](visio.application.md)**
 
 
 ## Example

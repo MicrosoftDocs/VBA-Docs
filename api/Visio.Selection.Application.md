@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Selection](Visio.Selection.md)** ob
 
 ## Return value
 
-Application
+**[Application](visio.application.md)**
 
 
 ## Example

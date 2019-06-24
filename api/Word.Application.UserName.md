@@ -21,7 +21,7 @@ Returns or sets the user's name, which is used on envelopes and for the Author d
 
 _expression_. `UserName`
 
- _expression_ An expression that returns an '[Application](Word.Application.md)' object.
+ _expression_ An expression that returns an **[Application](Word.Application.md)** object. 
 
 
 ## Example

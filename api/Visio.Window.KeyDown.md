@@ -19,7 +19,7 @@ Occurs when a keyboard key is pressed.
 
 ## Syntax
 
-_expression_.**KeyDown** (_KeyCode As Long_**, **_ByVal KeyButtonState As Long_**, **_ByVal CancelDefault As Boolean_**)
+_expression_.**KeyDown** (_KeyCode_, _KeyButtonState_, _CancelDefault_)
 
 _expression_ A variable that represents a **[Window](Visio.Window.md)** object.
 
@@ -42,7 +42,7 @@ Possible values for  _KeyButtonState_ can be a combination of the values shown i
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visKeyControl **|8|
 | **visKeyShift **|4|
@@ -59,7 +59,13 @@ Unlike some other Visio events,  **KeyDown** does not have the prefix "Query," b
 
 If you are using VBA, the syntax in this topic describes a common, efficient way to handle events.
 
-If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
+If you want to create your own **Event** objects, use the **Add** or **AddAdvise** method. 
+
+To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. 
+
+To create an **Event** object that receives notification, use the **AddAdvise** method. 
+
+To find an event code for the event that you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
 
 ## Example

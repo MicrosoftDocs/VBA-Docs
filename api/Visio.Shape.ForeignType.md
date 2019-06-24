@@ -35,7 +35,7 @@ If the  **Type** property of a **Shape** object returns any value other than **v
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visTypeMetafile**|&H0010|
 | **visTypeBitmap**|&H0020|

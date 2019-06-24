@@ -44,7 +44,7 @@ Valid command IDs are declared by the Visio type library in  **[VisUICmds](Visio
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how use the  **CmdNum** property to get a particular built-in Visio toolbar button, and then it shows how to change the button's icon. The new icon persists as long as the document is active.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **CmdNum** property to get a particular built-in Visio toolbar button, and then it shows how to change the button's icon. The new icon persists as long as the document is active.
 
 This macro assumes you are not using a custom user interface (UI).
 

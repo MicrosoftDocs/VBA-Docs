@@ -37,7 +37,7 @@ The following constants declared by the Visio type library show the possible ali
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visLeft**|1|
 | **visCenter**|2|

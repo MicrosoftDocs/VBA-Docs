@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.Application.AutoRecoverInterval
 ms.assetid: 06aa731b-b426-a1a2-a25b-8ac32133eb1a
-ms.date: 06/08/2017
+ms.date: 06/24/2019
 localization_priority: Normal
 ---
 
@@ -31,15 +31,14 @@ Integer
 
 ## Remarks
 
-Must be an integer value from zero (0) to 120, representing the interval in minutes. The default is 0. If the value of the  **AutoRecoverInterval** property is less than or equal to 0, no automatic recovery copies are created.
+Must be an integer value from zero (0) to 120, representing the interval in minutes. The default is 0. If the value of the **AutoRecoverInterval** property is less than or equal to 0, no automatic recovery copies are created.
 
-If the value of the  **AutoRecoverInterval** property is greater than 0, automatic recovery is enabled for all documents in the Microsoft Visio instance. To disable automatic recovery for a particular document, set its **AutoRecover** property to **False**.
+If the value of the **AutoRecoverInterval** property is greater than 0, automatic recovery is enabled for all documents in the Microsoft Visio instance. To disable automatic recovery for a particular document, set its **AutoRecover** property to **False**.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macros show how to set the  **AutoRecoverInterval** property and how to use it to disable automatic recovery.
-
+The following Microsoft Visual Basic for Applications (VBA) macros show how to set the **AutoRecoverInterval** property and how to use it to disable automatic recovery.
 
 ```vb
  

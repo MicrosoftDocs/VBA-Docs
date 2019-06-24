@@ -19,14 +19,12 @@ Redoes the last action that was undone (reverses the  **Undo** method). Returns 
 
 ## Syntax
 
-_expression_. `Redo`( `_Times_` )
+_expression_.**Redo** (_Times_)
 
 _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

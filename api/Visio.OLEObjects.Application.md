@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[OLEObjects](Visio.OLEObjects.md)**
 
 ## Return value
 
-Application
+**[Application](visio.application.md)**
 
 
 ## Example

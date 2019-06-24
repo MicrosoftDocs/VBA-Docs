@@ -19,7 +19,7 @@ Occurs when a user clicks the  **E-postage Properties** (**Labels and Envelopes*
 
 ## Syntax
 
-_expression_. `Private Sub object_EPostagePropertyDialog`( `_ByVal Doc As Document_` )
+_expression_.**EPostagePropertyDialog** (_Doc_)
 
 _expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module. For information about using events with the **Application** object, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 

@@ -19,20 +19,18 @@ Converts a string or number into an equivalent number in different measurement u
 
 ## Syntax
 
-_expression_. `ConvertResult`( `_StringOrNumber_` , `_UnitsIn_` , `_UnitsOut_` , `_lpr8Ret_` )
+_expression_.**ConvertResult** (_StringOrNumber_, _UnitsIn_, _UnitsOut_)
 
 _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _StringOrNumber_|Required| **Variant**|String or number to be converted; can be a string, floating point number, or integer.|
-| _UnitsIn_|Required| **Variant**|Measurement units to attribute to  _StringOrNumber_.|
-| _UnitsOut_|Required| **Variant**|Measurement units to express the result in.|
+|_StringOrNumber_|Required| **Variant**|String or number to be converted; can be a string, floating point number, or integer.|
+|_UnitsIn_|Required| **Variant**|Measurement units to attribute to _StringOrNumber_.|
+|_UnitsOut_|Required| **Variant**|Measurement units to express the result in.|
 
 ## Return value
 
@@ -41,9 +39,9 @@ Double
 
 ## Remarks
 
-If passed as a string,  _StringOrNumber_ might be the formula or prospective formula of a cell or the result or prospective result of a cell expressed as a string. The **ConvertResult** method evaluates the string and converts the result into the units designated by _UnitsOut_. The  **ConvertResult** method returns an error if the string contains any cell references.
+If passed as a string, _StringOrNumber_ might be the formula or prospective formula of a cell or the result or prospective result of a cell expressed as a string. The **ConvertResult** method evaluates the string and converts the result into the units designated by _UnitsOut_. The  **ConvertResult** method returns an error if the string contains any cell references.
 
-Possible values for  _StringOrNumber_ include:
+Possible values for _StringOrNumber_ include:
 
 1.7
 
@@ -55,18 +53,15 @@ Possible values for  _StringOrNumber_ include:
 
 "12 ft - 17 in + (12 cm / SQRT(7))"
 
-The  _UnitsIn_ and _UnitsOut_ arguments can be strings such as "inches", "inch", "in.", or "i". Strings may be used for all supported Microsoft Office Visio units such as centimeters, meters, miles, and so on. You can also use any of the units constants declared by the Visio type library in **VisUnitCodes**. A list of valid units is also listed in [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
+The _UnitsIn_ and _UnitsOut_ arguments can be strings such as "inches", "inch", "in.", or "i". Strings may be used for all supported Microsoft Office Visio units such as centimeters, meters, miles, and so on. You can also use any of the units constants declared by the Visio type library in **VisUnitCodes**. A list of valid units is also listed in [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 
-If  _StringOrNumber_ is a floating point number or integer, _UnitsIn_ declares what unit of measure the **ConvertResult** method should construe the number to be. Pass "" to indicate internal Visio units.
+If _StringOrNumber_ is a floating point number or integer, _UnitsIn_ declares what unit of measure the **ConvertResult** method should construe the number to be. Pass "" to indicate internal Visio units.
 
-If  _StringOrNumber_ is a string, _UnitsIn_ specifies how to interpret the evaluated result and is only used if the result is a scalar. For example, the expression "4 * 5 cm" evaluates to 20 cm, which is not a scalar, so _UnitsIn_ is ignored. The expression "4 * 5" evaluates to 20 which is a scalar and is interpreted using the specified _UnitsIn_.
+If _StringOrNumber_ is a string, _UnitsIn_ specifies how to interpret the evaluated result and is only used if the result is a scalar. For example, the expression "4 * 5 cm" evaluates to 20 cm, which is not a scalar, so _UnitsIn_ is ignored. The expression "4 * 5" evaluates to 20 which is a scalar and is interpreted using the specified _UnitsIn_.
 
-The  _UnitsOut_ argument specifies in what units the returned number should be expressed. If you want the results expressed in the same units as the evaluated expression, pass "NOCAST" or **visNoCast**.
+The _UnitsOut_ argument specifies in what units the returned number should be expressed. If you want the results expressed in the same units as the evaluated expression, pass "NOCAST" or **visNoCast**.
 
 Examples where string is specified:
-
-
-
 
 ```vb
  
@@ -79,10 +74,9 @@ Debug.Print vsoApplication.ConvertResult("1 cm", "ft", "bz") >>> exception: Bad 
 
 ```
 
+<br/>
+
 Examples where number is specified:
-
-
-
 
 ```vb
  
@@ -98,7 +92,6 @@ Debug.Print vsoApplication.ConvertResult(1, "bz", "in") >>> exception: Bad measu
 ## Example
 
 The following macro shows how to use the  **ConvertResult** method to report the distance between two shapes in centimeters, feet, yards, and miles. To run this macro, you must have two shapes selected on your page.
-
 
 ```vb
 Sub ConvertResult_Example() 

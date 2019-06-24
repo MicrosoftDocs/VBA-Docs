@@ -51,7 +51,7 @@ The  _Flags_ parameter is a bitmask that specifies options for drawing the new s
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visSplinePeriodic**|1(&H1)|
 | **visSplineDoCircles**|2(&H2)|

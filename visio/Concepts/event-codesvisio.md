@@ -5,25 +5,23 @@ f1_keywords:
 - vis_sdr.chm81901708
 ms.prod: visio
 ms.assetid: de8f5c7a-421d-ebcf-22b6-4310a202ef64
-ms.date: 06/08/2017
+ms.date: 06/24/2019
 localization_priority: Normal
 ---
 
 
 # Event Codes (Visio)
 
-When you are working with the  **[Add](../../api/Visio.EventList.Add.md)** or **[AddAdvise](../../api/Visio.EventList.AddAdvise.md)** method, use the following table to find the event code for the event you want to create. This table lists each Visio event and its corresponding event code and numeric code.
+When you are working with the **[Add](../../api/Visio.EventList.Add.md)** or **[AddAdvise](../../api/Visio.EventList.AddAdvise.md)** method, use the following table to find the event code for the event that you want to create. This table lists each Visio event and its corresponding event code and numeric code.
 
-
- **Note**   If you are using Visual Basic or Visual Basic for Applications (VBA), you don't need to create your own events. See the event topic in this reference that corresponds to the event you want to use.
+> [!NOTE] 
+> If you are using Visual Basic or Visual Basic for Applications (VBA), you don't need to create your own events. See the event topic in this reference that corresponds to the event that you want to use.
 
 
 ## Table of events and corresponding event and numeric codes
 
-
-
-|** **Event****|** **Event code****|** **Numeric code****|
-|:-----|:-----|:-----|
+|Event|Event code|Numeric code|
+|:----|:---------|:-----------|
 | **[AfterModal](../../api/Visio.Application.AfterModal.md)**|visEvtApp+visEvtAfterModal|&H1040 (4160)|
 | **[AfterResume](../../api/Visio.Application.AfterResume.md)**|visEvtCodeAfterResume|&H00D1 (209)|
 | **[AfterResumeEvents](../../api/Visio.Application.AfterResumeEvents.md)**|visEvtCodeAfterResumeEvents|&H00D5 (213)|

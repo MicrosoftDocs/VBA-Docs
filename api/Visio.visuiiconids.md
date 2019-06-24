@@ -20,7 +20,7 @@ Icon identifiers used in conjunction with the  **FaceID** property of the **Menu
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visIconIXACCEPT**|85|
 | **visIconIXADDIN**|149|

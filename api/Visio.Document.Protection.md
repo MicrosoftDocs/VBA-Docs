@@ -47,7 +47,7 @@ The value of the  **Protection** property can be a combination of the following 
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visProtectNone**|&H0|
 | **visProtectStyles**|&H1|

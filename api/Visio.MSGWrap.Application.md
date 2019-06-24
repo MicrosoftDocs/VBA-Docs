@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[MSGWrap](Visio.MSGWrap.md)** objec
 
 ## Return value
 
-Application
+**[Application](visio.application.md)**
 
 
 ## Example

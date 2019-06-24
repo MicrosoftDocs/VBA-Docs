@@ -19,7 +19,7 @@ Empties the Microsoft Visio queue of undo actions.
 
 ## Syntax
 
-_expression_. `PurgeUndo`
+_expression_.**PurgeUndo**
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 
@@ -31,13 +31,12 @@ Nothing
 
 ## Remarks
 
-After calling the  **PurgeUndo** method, no operation performed before the call can be reversed.
+After calling the **PurgeUndo** method, no operation performed before the call can be reversed.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **PurgeUndo** method to clear the undo list.
-
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **PurgeUndo** method to clear the undo list.
 
 ```vb
  

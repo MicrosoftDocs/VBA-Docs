@@ -21,7 +21,7 @@ Returns an  **[Options](Word.Options.md)** object that represents application se
 
 _expression_. `Options`
 
-_expression_ A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ A variable that represents an **[Application](Word.Application.md)** object. 
 
 
 ## Example

@@ -19,7 +19,7 @@ Closes all currently open windows.
 
 ## Syntax
 
-_expression_. `Quit`
+_expression_.**Quit**
 
  _expression_ An expression that returns an [Application](Outlook.Application.md) object.
 

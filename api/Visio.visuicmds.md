@@ -16,7 +16,7 @@ UI command ID constants, to be used in conjunction with the  **CmdNum** property
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visCmdABarAutoHeight**|1684|
 | **visCmdABarAutohide**|1652|

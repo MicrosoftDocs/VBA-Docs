@@ -46,7 +46,7 @@ This Microsoft Visual Basic macro shows how to use the  **ToolbarSets** property
 
 
 
-Before running this code, replace  _path\filename_ with the full path to and name of a valid icon (.ico) file on your computer.
+Before running this code, replace `path\filename` with the full path to and name of a valid icon (.ico) file on your computer.
 
 To restore the built-in Visio toolbars after you run this macro, call the  **ThisDocument.ClearCustomToolbars** method.
 
@@ -81,7 +81,7 @@ Public Sub ToolbarSets_Example()
  vsoToolbarItem.CmdNum = visCmdPanZoom 
  
  'Set the toolbar button icon. 
- vsoToolbarItem.IconFileName "path\filename " 
+ vsoToolbarItem.IconFileName "path\filename" 
  
  'Use the new custom UI. 
  ThisDocument.SetCustomToolbars vsoUIObject 

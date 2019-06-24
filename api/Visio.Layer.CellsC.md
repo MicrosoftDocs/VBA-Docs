@@ -43,7 +43,7 @@ The following constants for the cell index are declared by the Microsoft Visio t
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visLayerName**|0 |
 | **visLayerColor**|2 |

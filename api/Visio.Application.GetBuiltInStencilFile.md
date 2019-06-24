@@ -19,14 +19,12 @@ Returns the file path to the specified built-in, hidden stencil used to populate
 
 ## Syntax
 
-_expression_. `GetBuiltInStencilFile`( `_StencilType_` , `_MeasurementSystem_` )
+_expression_.**GetBuiltInStencilFile** (_StencilType_, _MeasurementSystem_)
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -35,14 +33,12 @@ _expression_ A variable that represents an **[Application](Visio.Application.md)
 
 ## Return value
 
- **String**
+**String**
 
 
 ## Remarks
 
-The  _StencilType_ parameter value must be one of the following **VisBuiltInStencilTypes** constants.
-
-
+The _StencilType_ parameter value must be one of the following **VisBuiltInStencilTypes** constants.
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -55,7 +51,6 @@ The  _StencilType_ parameter value must be one of the following **VisBuiltInSten
 ## Example
 
 The following Visual Basic for Applications (VBA) code sample shows how to use the  **GetBuiltInStencilFile** method to open the built-in, hidden, container stencil, and to add one of the containers from that stencil to the active page to contain the selected shape or shapes. Before you run this code, be sure that there is a selected shape (or a selection of shapes) on the active page.
-
 
 ```vb
 Public Sub GetBuiltInStencilFile_Example()

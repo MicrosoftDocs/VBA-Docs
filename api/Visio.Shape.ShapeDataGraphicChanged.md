@@ -23,18 +23,16 @@ Occurs after a data graphic is applied to or deleted from a shape.
 
 ## Syntax
 
-_expression_.**ShapeDataGraphicChanged** (_Shape As IVSHAPE_**)
+_expression_.**ShapeDataGraphicChanged** (_Shape_)
 
- _expression_ An expression that returns a **[Shape](Visio.Shape.md)** object.
+_expression_ An expression that returns a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Shape_|Required| **[IVSHAPE]**|The shape to which the data graphic was applied or from which it was deleted.|
+|_Shape_|Required| **[IVSHAPE]**|The shape to which the data graphic was applied or from which it was deleted.|
 
 ## Remarks
 
@@ -42,6 +40,12 @@ A data graphic is a  **Master** object of type **visTypeDataGraphic**. When the 
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
-If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
+If you want to create your own **Event** objects, use the **Add** or **AddAdvise** method. 
+
+To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. 
+
+To create an **Event** object that receives notification, use the **AddAdvise** method. 
+
+To find an event code for the event that you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

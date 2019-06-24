@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Application.ReplaceShapesCanceled event (Visio)
 
-Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelReplaceShapes** event.
+Occurs after an event handler has returned **True** (cancel) to a **QueryCancelReplaceShapes** event.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_ A variable that represents an **[Application](Visio.Application.md)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _replaceShapes_|Required|REPLACESHAPESEVENT|An object whose properties return information about the shape-replacement operation.|
+| _replaceShapes_|Required|**[REPLACESHAPESEVENT]**|An object whose properties return information about the shape-replacement operation.|
 
 
 

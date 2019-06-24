@@ -29,6 +29,6 @@ _expression_ An expression that returns a **[DataColumn](Visio.DataColumn.md)** 
 
 ## Return value
 
-Application
+**[Application](visio.application.md)**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

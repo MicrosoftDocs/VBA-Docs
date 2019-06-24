@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Visio.Application.md)
 
 ## Return value
 
- **ApplicationSettings**
+**ApplicationSettings**
 
 
 ## Remarks
@@ -37,7 +37,6 @@ Use the **Settings** property of the **Application** object to get an **Applicat
 ## Example
 
 This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Settings** property to get an **ApplicationSettings** object. It also shows how to use the **RecentFilesListSize** property to get the number of entries in the list of recently used files in Visio.
-
 
 ```vb
 Public Sub Settings_Example() 

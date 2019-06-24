@@ -21,7 +21,7 @@ Returns an  **MsoLanguageID** constant that represents the language selected for
 
 _expression_.**Language**
 
-_expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ Required. A variable that represents an **[Application](Word.Application.md)** object. 
 
 
 ## Remarks

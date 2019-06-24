@@ -16,7 +16,7 @@ Text field formats.
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visFmt0PlDefUnits**|3|
 | **visFmt0PlNoUnits**|2|

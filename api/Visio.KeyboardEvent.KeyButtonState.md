@@ -33,7 +33,7 @@ Long
 
 Possible values for **KeyButtonState** can be a combination of any of the values shown in the following table, which are declared in **VisKeyButtonFlags** in the Visio type library. For example, if **KeyButtonState** returns 9, it indicates that the user clicked the left mouse button while pressing CTRL.
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visKeyControl**|8|
 | **visKeyShift**|4|

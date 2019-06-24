@@ -23,6 +23,6 @@ _expression_ A variable that represents a **[KeyboardEvent](Visio.KeyboardEvent.
 
 ## Return value
 
-Application
+**[Application](visio.application.md)**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

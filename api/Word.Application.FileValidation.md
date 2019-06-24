@@ -21,7 +21,7 @@ Returns or sets how Word will validate files before opening them. Read/write [Ms
 
 _expression_. `FileValidation`
 
-_expression_ A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ A variable that represents an **[Application](Word.Application.md)** object. 
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns the state of the NUM LOCK key.  **True** if the keys on the numeric keyp
 
 _expression_. `NumLock`
 
- _expression_ An expression that returns an '[Application](Word.Application.md)' object.
+ _expression_ An expression that returns an **[Application](Word.Application.md)** object. 
 
 
 ## Example

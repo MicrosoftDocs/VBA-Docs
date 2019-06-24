@@ -49,7 +49,7 @@ The following are possible values returned by the  **HitTest** method, and are d
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visHitOutside**|0|
 | **visHitOnBoundary**|1|

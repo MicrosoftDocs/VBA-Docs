@@ -19,14 +19,14 @@ Occurs when a user inserts electronic postage into a document.
 
 ## Syntax
 
-_expression_. `Private Sub object_EPostageInsert`( `_ByVal Doc As Document_` )
+_expression_.**EPostageInsert** (_Doc_)
 
-_expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module. For information about using events with the **Application** object, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
+_expression_ A variable that represents an **[Application](Word.Application.md)** object. 
+
+For information about using events with the **Application** object, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.AccelTables.Parent
 ms.assetid: d14d3585-fb66-9715-837c-ed15afa268f3
-ms.date: 06/08/2017
+ms.date: 06/24/2019
 localization_priority: Normal
 ---
 
@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[AccelTables](Visio.AccelTables.md)
 
 ## Return value
 
-UIObject
+**[UIObject](visio.uiobject.md)**
 
 
 ## Remarks

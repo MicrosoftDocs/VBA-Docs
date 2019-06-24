@@ -19,9 +19,11 @@ Occurs when any document window is activated.
 
 ## Syntax
 
-_expression_. `Private Sub object_WindowActivate`( `_ByVal Doc As Document_` , `_ByVal Wn As Window_` )
+_expression_.**WindowActivate** (_Doc_, _Wn_)
 
-_expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module. For more information about using events with the **Application** object, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
+_expression_ A variable that represents an **[Application](Word.Application.md)** object. 
+
+For more information about using events with the **Application** object, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
 
 ## Parameters

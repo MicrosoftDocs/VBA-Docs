@@ -19,14 +19,12 @@ Performs the command that has the indicated command ID.
 
 ## Syntax
 
-_expression_. `DoCmd`( `_CommandID_` )
+_expression_.**DoCmd** (_CommandID_)
 
 _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

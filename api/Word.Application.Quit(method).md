@@ -19,19 +19,17 @@ Quits Microsoft Word and optionally saves or routes the open documents.
 
 ## Syntax
 
-_expression_. `Quit`( `_SaveChanges_` , `_Format_` , `_RouteDocument_` )
+_expression_.**Quit** (_SaveChanges_, _OriginalFormat_, _RouteDocument_)
 
-_expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ Required. A variable that represents an **[Application](Word.Application.md)** object. 
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _SaveChanges_|Optional| **Variant**|Specifies whether Word saves changed documents before closing. Can be one of the  **WdSaveOptions** constants.|
-| _OriginalFormat_|Optional| **Variant**|Specifies the way Word saves documents whose original format was not Word Document format. Can be one of the  **WdOriginalFormat** constants.|
+| _SaveChanges_|Optional| **Variant**|Specifies whether Word saves changed documents before closing. Can be one of the **WdSaveOptions** constants.|
+| _OriginalFormat_|Optional| **Variant**|Specifies the way Word saves documents whose original format was not Word Document format. Can be one of the **WdOriginalFormat** constants.|
 | _RouteDocument_|Optional| **Variant**| **True** to route the document to the next recipient. If the document does not have a routing slip attached, this argument is ignored.|
 
 ## Example

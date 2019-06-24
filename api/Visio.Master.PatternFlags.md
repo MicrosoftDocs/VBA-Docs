@@ -49,7 +49,7 @@ If **visMasIsLinePat** is selected, the pattern mode should be one of the follow
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visMasLPTileDeform**|&H0 |
 | **visMasLPTile**|&H10 |
@@ -62,7 +62,7 @@ If **visMasIsLineEnd** is selected, the pattern mode should be one of the follow
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visMasLEDefault**|&H0 |
 | **visMasLEUpright**|&H100 |
@@ -73,7 +73,7 @@ If **visMasIsFillPat** is selected, the pattern mode should be one of the follow
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visMasFPTile**|&H0 |
 | **visMasFPCenter**|&H1000 |

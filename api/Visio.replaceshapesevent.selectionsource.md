@@ -9,24 +9,20 @@ localization_priority: Normal
 
 # ReplaceShapesEvent.SelectionSource property (Visio)
 
-Returns a [Selection](Visio.Selection.md) object that represents the source shape or shapes whose replacement fired the event.
+Returns a **[Selection](Visio.Selection.md)** object that represents the source shape or shapes whose replacement fired the event.
 
 
 ## Syntax
 
-_expression_. `SelectionSource`
+_expression_.**SelectionSource**
 
 _expression_ A variable that represents a **[ReplaceShapesEvent](Visio.ReplaceShapesEvent.md)** object.
 
 
 ## Property value
 
- **IVSELECTION**
+**IVSELECTION**
 
 
-## See also
-
-
-[ReplaceShapesEvent Object](Visio.replaceshapesevent.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

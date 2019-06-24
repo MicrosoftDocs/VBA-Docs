@@ -19,14 +19,12 @@ Queues a  **MarkerEvent** event that fires after all other queued events.
 
 ## Syntax
 
-_expression_. `QueueMarkerEvent`( `_ContextString_` , `_lpi4Ret_` )
+_expression_.**QueueMarkerEvent** (_ContextString_)
 
 _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Window](Visio.Window.md)** object.
 
 ## Return value
 
-Application
+**[Application](visio.application.md)**
 
 
 ## Example

@@ -21,7 +21,7 @@ Converts a measurement from millimeters to points (1 mm = 2.85 points). Returns 
 
 _expression_. `MillimetersToPoints`( `_Millimeters_` )
 
-_expression_ A variable that represents an '[Application](Word.Application.md)' object. Optional.
+_expression_ A variable that represents an **[Application](Word.Application.md)** object.  Optional.
 
 
 ## Parameters

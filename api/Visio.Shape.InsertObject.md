@@ -68,7 +68,7 @@ The  _Flags_ argument can also include one of the following values.
 
 
 
-|**Constant**|**Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visInsertAsControl**|&H2000|
 | **visInsertAsEmbed**|&H4000|

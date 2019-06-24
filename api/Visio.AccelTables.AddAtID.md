@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.AccelTables.AddAtID
 ms.assetid: 581526c5-eebb-f79a-e48c-b716be719c6f
-ms.date: 06/08/2017
+ms.date: 06/24/2019
 localization_priority: Normal
 ---
 
@@ -34,15 +34,13 @@ _expression_ A variable that represents an **[AccelTables](Visio.AccelTables.md)
 
 ## Return value
 
-AccelTable
+**[AccelTable](Visio.AccelTable.md)**
 
 
 ## Remarks
 
+The ID corresponds to a window or context menu. If the collection already contains an object at the specified ID, the **AddAtID** method returns an error.
 
-
-The ID corresponds to a window or context menu. If the collection already contains an object at the specified ID, the  **AddAtID** method returns an error.
-
-Valid IDs are declared by the Visio type library in member  **[VisUIObjSets](Visio.visuiobjsets.md)**. Not all collections include an object for every possible ID.
+Valid IDs are declared by the Visio type library in member **[VisUIObjSets](Visio.visuiobjsets.md)**. Not all collections include an object for every possible ID.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
