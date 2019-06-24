@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.Application.BeforeSuspendEvents
 ms.assetid: a6879424-40d8-e517-aad0-f31aa84a49f6
-ms.date: 06/08/2017
+ms.date: 06/25/2019
 localization_priority: Normal
 ---
 
@@ -18,12 +18,10 @@ Occurs before firing of events is suspended.
 
 _expression_.**BeforeSuspendEvents** (_app_)
 
- _expression_ An expression that returns an **[Application](Visio.Application.md)** object.
+_expression_ An expression that returns an **[Application](Visio.Application.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

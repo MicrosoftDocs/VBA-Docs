@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.Application.BeforeShapeTextEdit
 ms.assetid: db6cdf8c-6a1d-37c4-e185-8809ddafc340
-ms.date: 06/08/2017
+ms.date: 06/25/2019
 localization_priority: Normal
 ---
 
@@ -22,8 +22,6 @@ _expression_ A variable that represents an **[Application](Visio.Application.md)
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

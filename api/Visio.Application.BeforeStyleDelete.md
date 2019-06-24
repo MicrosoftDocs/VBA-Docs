@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.Application.BeforeStyleDelete
 ms.assetid: 5fc9abed-dc07-0af8-0c3b-87ecabc204a0
-ms.date: 06/08/2017
+ms.date: 06/25/2019
 localization_priority: Normal
 ---
 
@@ -22,8 +22,6 @@ _expression_ A variable that represents an **[Application](Visio.Application.md)
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

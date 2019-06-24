@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeSuspendEvents
 ms.assetid: 6194a96a-d549-025b-fc97-7d79989447f7
-ms.date: 06/08/2017
+ms.date: 06/25/2019
 localization_priority: Normal
 ---
 
@@ -18,12 +18,10 @@ Occurs before firing of events is suspended.
 
 _expression_.**BeforeSuspendEvents** (_app_)
 
- _expression_ An expression that returns an **[InvisibleApp](Visio.InvisibleApp.md)** object.
+_expression_ An expression that returns an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

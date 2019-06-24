@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.Application.BeforeSuspend
 ms.assetid: 6649fea7-017c-9295-12b5-f350dcf38b28
-ms.date: 06/08/2017
+ms.date: 06/25/2019
 localization_priority: Normal
 ---
 
@@ -22,8 +22,6 @@ _expression_ A variable that represents an **[Application](Visio.Application.md)
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
