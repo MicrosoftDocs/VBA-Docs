@@ -16,6 +16,8 @@ localization_priority: Normal
 
 Determines the parent of an object. Read-only.
 
+> [!NOTE] 
+> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 ## Syntax
 
@@ -30,9 +32,6 @@ _expression_ A variable that represents an **[AccelTables](Visio.AccelTables.md)
 
 
 ## Remarks
-
-> [!NOTE] 
-> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 In general, an object's parent is the object that contains it.
 

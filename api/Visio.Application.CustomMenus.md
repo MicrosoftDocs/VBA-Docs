@@ -16,6 +16,8 @@ localization_priority: Normal
 
 Gets a  **UIObject** object that represents the current custom menus and accelerators of an **Application** object. Read-only.
 
+> [!NOTE] 
+> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 ## Syntax
 
@@ -31,8 +33,7 @@ UIObject
 
 ## Remarks
 
-> [!NOTE] 
-> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
+
 
 If Microsoft Visio menus and accelerators have not been customized, either programmatically, by a Visio solution, or in the user interface, the  **CustomMenus** property returns **Nothing**.
 

@@ -44,6 +44,6 @@ If you want to create your own **Event** objects, use the **[Add](visio.eventlis
 > [!NOTE] 
 > You can use the VBA **WithEvents** keyword to sink the **BeforeShapeDelete** event.
 
-For performance considerations, the **Document** object's event set does not include the **BeforeShapeDelete** event. To sink the **BeforeShapeDelete** event from a **Document** object (and from the **ThisDocument** object in a VBA project), you must use the **AddAdvise** method.
+For performance considerations, the **Document** object's event set does not include the **BeforeShapeDelete** event. To sink the **BeforeShapeDelete** event from a **Document** object (and from the **[ThisDocument](../visio/Concepts/about-the-thisdocument-object-visio.md)** object in a VBA project), you must use the **AddAdvise** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

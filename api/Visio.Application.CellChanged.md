@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.Application.CellChanged
 ms.assetid: 8c07be33-8d0d-4957-7f08-daef8b798f28
-ms.date: 06/08/2017
+ms.date: 06/25/2019
 localization_priority: Normal
 ---
 
@@ -23,8 +23,6 @@ _expression_ A variable that represents an **[Application](Visio.Application.md)
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cell_|Required| **[IVCELL]**|The cell whose value has changed.|
@@ -41,19 +39,15 @@ To create an **Event** object that receives notification, use the **AddAdvise** 
 
 To find an event code for the event that you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
-
-
-
 > [!NOTE] 
-> You can use VBA  **WithEvents** variables to sink the **CellChanged** event.
+> You can use VBA **WithEvents** variables to sink the **CellChanged** event.
 
-For performance considerations, the  **Document** object's event set does not include the **CellChanged** event. To sink the **CellChanged** event from a **Document** object (and the **ThisDocument** object in a VBA project), you must use the **AddAdvise** method.
+For performance considerations, the **Document** object's event set does not include the **CellChanged** event. To sink the **CellChanged** event from a **Document** object (and the **[ThisDocument](../visio/Concepts/about-the-thisdocument-object-visio.md)** object in a VBA project), you must use the **AddAdvise** method.
 
 
 ## Example
 
-This VBA module shows how to use the  **CellChanged** event to trap changes to a shape's cells.
-
+This VBA module shows how to use the **CellChanged** event to trap changes to a shape's cells.
 
 ```vb
  

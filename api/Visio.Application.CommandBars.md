@@ -16,6 +16,8 @@ localization_priority: Normal
 
 Returns a reference to the  **CommandBars** collection that represents the command bars in the container application. Read-only.
 
+> [!NOTE] 
+> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 ## Syntax
 
@@ -30,9 +32,6 @@ CommandBars
 
 
 ## Remarks
-
-> [!NOTE] 
-> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 Beginning with Microsoft Visio 2002, a program can manipulate menus and toolbars in the Visio user interface by manipulating the  **CommandBars** collection returned by the **CommandBars** property. The **CommandBars** collection has an interface identical to the **CommandBars** collection exposed by the suite of Microsoft Office applications such as Microsoft Word and Microsoft Excel.
 

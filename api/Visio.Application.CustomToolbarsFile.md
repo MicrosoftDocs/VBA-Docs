@@ -16,6 +16,8 @@ localization_priority: Normal
 
 Returns or sets the name of the file that defines custom toolbars and status bars for an  **Application** object. Read/write.
 
+> [!NOTE] 
+> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 ## Syntax
 
@@ -31,8 +33,7 @@ String
 
 ## Remarks
 
-> [!NOTE] 
-> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
+
 
 If the object is not using custom toolbars, the  **CustomToolbarsFile** property returns **Nothing**.
 
