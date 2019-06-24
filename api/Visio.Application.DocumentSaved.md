@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.Application.DocumentSaved
 ms.assetid: a11744f6-a1a7-41db-c427-5bae96b9b0ec
-ms.date: 06/08/2017
+ms.date: 06/25/2019
 localization_priority: Normal
 ---
 
@@ -42,12 +42,9 @@ To find an event code for the event that you want to create, see [Event codes](.
 
 ## Example
 
-This example shows how to create a class module to handle events fired by a source object in Microsoft Visio, for example, the  **Document** object. The module consists of the function **VisEventProc**, which uses a **Select Case** block to check for three events: **DocumentSaved**, **PageAdded**, and **ShapesDeleted**. Other events fall under the default case (**Case Else**). Each **Case** block constructs a string ( _strMessage_ ) that contains the name and event code of the event that fired. Finally, the function displays the string in the Immediate window.
+This example shows how to create a class module to handle events fired by a source object in Microsoft Visio, for example, the **Document** object. The module consists of the function **VisEventProc**, which uses a **Select Case** block to check for three events: **DocumentSaved**, **PageAdded**, and **ShapesDeleted**. Other events fall under the default case (**Case Else**). Each **Case** block constructs a string (_strMessage_) that contains the name and event code of the event that fired. Finally, the function displays the string in the Immediate window.
 
-Copy this sample code into a new class module in VBA or Visual Basic, naming the module  **clsEventSink**. You can then use an event-sync module to create an instance of the **clsEventSink** class and **Event** objects that send notifications of event firings to the class instance. To see how to create an event-sync module, refer to the example for the **AddAdvise** method.
-
-
-
+Copy this sample code into a new class module in VBA or Visual Basic, naming the module **clsEventSink**. You can then use an event-sync module to create an instance of the **clsEventSink** class and **Event** objects that send notifications of event firings to the class instance. To see how to create an event-sync module, refer to the example for the **[AddAdvise](visio.eventlist.addadvise.md)** method.
 
 ```vb
  

@@ -4,14 +4,14 @@ ms.prod: visio
 api_name:
 - Visio.Application.DocumentCloseCanceled
 ms.assetid: 138e4bf9-87e7-dc9b-4cf6-b12992f22e20
-ms.date: 06/08/2017
+ms.date: 06/25/2019
 localization_priority: Normal
 ---
 
 
 # Application.DocumentCloseCanceled event (Visio)
 
-Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelDocumentClose** event.
+Occurs after an event handler has returned **True** (cancel) to a **QueryCancelDocumentClose** event.
 
 
 ## Syntax
@@ -22,8 +22,6 @@ _expression_ A variable that represents an **[Application](Visio.Application.md)
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

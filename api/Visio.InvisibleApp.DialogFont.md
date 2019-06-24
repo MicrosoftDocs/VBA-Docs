@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.InvisibleApp.DialogFont
 ms.assetid: b9784c9b-99a5-7a48-01eb-dafbe6b2c4f9
-ms.date: 06/08/2017
+ms.date: 06/25/2019
 localization_priority: Normal
 ---
 
@@ -33,30 +33,22 @@ IFontDisp
 
 You can use this property to display your dialog boxes in the same font as the Visio dialog boxes.
 
-COM (Component Object Model) provides a standard implementation of a font object with the  **IFontDisp** interface on top of the underlying system font support. The **IFontDisp** interface exposes a font object's properties and is implemented in the stdole type library as a **StdFont** object that can be created within Microsoft Visual Basic. The stdole type library is automatically referenced from all Visual Basic projects in Visio.
+COM (Component Object Model) provides a standard implementation of a font object with the **IFontDisp** interface on top of the underlying system font support. The **IFontDisp** interface exposes a font object's properties and is implemented in the stdole type library as an **StdFont** object that can be created within Microsoft Visual Basic. The stdole type library is automatically referenced from all Visual Basic projects in Visio.
 
- **To get information about the StdFont object that supports the IFontDisp interface**
+**To get information about the StdFont object that supports the IFontDisp interface**
 
-
-
-
-1. In the  **Code** group on the [Developer](../visio/How-to/run-visio-in-developer-mode.md) tab, click **Visual Basic**.
+1. In the **Code** group on the [Developer](../visio/How-to/run-visio-in-developer-mode.md) tab, choose **Visual Basic**.
     
-2. On the  **View** menu, click **Object Browser**.
+2. On the **View** menu, choose **Object Browser**.
     
-3. In the  **Project/Library** list, click **stdole**.
+3. In the **Project/Library** list, choose **stdole**.
     
-4. Under  **Classes**, examine the class named  **StdFont**.
+4. Under **Classes**, examine the class named **StdFont**.
     
-
-
-For details about the  **IFontDisp** interface, see the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
-
 
 ## Example
 
-The following sample code shows how to get a reference to a  **StdFont** object that conveys information about the application fonts, and how to print that information to the Immediate window.
-
+The following sample code shows how to get a reference to an **StdFont** object that conveys information about the application fonts, and how to print that information to the Immediate window.
 
 ```vb
  

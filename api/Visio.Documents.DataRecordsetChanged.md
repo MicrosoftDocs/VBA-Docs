@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.Documents.DataRecordsetChanged
 ms.assetid: 39febf24-a586-f56d-285f-9e36794db28d
-ms.date: 06/08/2017
+ms.date: 06/25/2019
 localization_priority: Normal
 ---
 
@@ -15,7 +15,6 @@ localization_priority: Normal
 # Documents.DataRecordsetChanged event (Visio)
 
 Occurs when a data recordset changes as a result of being refreshed.
-
 
 > [!NOTE] 
 > This Visio object or member is available only to licensed users of Visio Professional 2013.
@@ -25,12 +24,10 @@ Occurs when a data recordset changes as a result of being refreshed.
 
 _expression_.**DataRecordsetChanged** (_DataRecordsetChanged_)
 
- _expression_ An expression that returns a **[Documents](Visio.Documents.md)** object.
+_expression_ An expression that returns a **[Documents](Visio.Documents.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -38,7 +35,7 @@ _expression_.**DataRecordsetChanged** (_DataRecordsetChanged_)
 
 ## Remarks
 
-When the  **DataRecordsetChanged** event fires, the **[DataRecordsetChangedEvent](Visio.DataRecordsetChangedEvent.md)** object is passed to the **[IVisEventProc.VisEventProc](Visio.IVisEventProc.VisEventProc.md)** method as the pSubjectObj parameter, which represents he subject of the event?the object to which the event occurs.
+When the **DataRecordsetChanged** event fires, the **[DataRecordsetChangedEvent](Visio.DataRecordsetChangedEvent.md)** object is passed to the **[IVisEventProc.VisEventProc](Visio.IVisEventProc.VisEventProc.md)** method as the _pSubjectObj_ parameter, which represents the subject of the event&mdash;the object to which the event occurs.
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 

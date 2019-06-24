@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.Application.DocumentCreated
 ms.assetid: 322aaaab-97db-61a7-22f7-65645e1d2f2f
-ms.date: 06/08/2017
+ms.date: 06/25/2019
 localization_priority: Normal
 ---
 

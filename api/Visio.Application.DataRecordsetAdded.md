@@ -4,15 +4,14 @@ ms.prod: visio
 api_name:
 - Visio.Application.DataRecordsetAdded
 ms.assetid: 04a54ec4-6f87-ac4d-f35c-bc3debca4a65
-ms.date: 06/08/2017
+ms.date: 06/25/2019
 localization_priority: Normal
 ---
 
 
 # Application.DataRecordsetAdded event (Visio)
 
-Occurs when a  **DataRecordset** object is added to a **DataRecordsets** collection.
-
+Occurs when a **[DataRecordset](visio.datarecordset.md)** object is added to a **DataRecordsets** collection.
 
 > [!NOTE] 
 > This Visio object or member is available only to licensed users of Visio Professional 2013.
@@ -22,12 +21,10 @@ Occurs when a  **DataRecordset** object is added to a **DataRecordsets** collect
 
 _expression_.**DataRecordsetAdded** (_DataRecordset_)
 
- _expression_ An expression that returns an **[Application](Visio.Application.md)** object.
+_expression_ An expression that returns an **[Application](Visio.Application.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

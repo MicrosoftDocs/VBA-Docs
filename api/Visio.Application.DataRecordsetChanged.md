@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.Application.DataRecordsetChanged
 ms.assetid: 8be61b1a-3a3c-5880-47bc-e2cac9bb60f9
-ms.date: 06/08/2017
+ms.date: 06/25/2019
 localization_priority: Normal
 ---
 
@@ -32,7 +32,7 @@ _expression_ An expression that returns an **[Application](Visio.Application.md)
 
 ## Remarks
 
-When the **DataRecordsetChanged** event fires, the **[DataRecordsetChangedEvent](Visio.DataRecordsetChangedEvent.md)** object is passed to the **[IVisEventProc.VisEventProc](Visio.IVisEventProc.VisEventProc.md)** method as the _pSubjectObj_ parameter, which represents he subject of the event&mdash;the object to which the event occurs.
+When the **DataRecordsetChanged** event fires, the **[DataRecordsetChangedEvent](Visio.DataRecordsetChangedEvent.md)** object is passed to the **[IVisEventProc.VisEventProc](Visio.IVisEventProc.VisEventProc.md)** method as the _pSubjectObj_ parameter, which represents the subject of the event&mdash;the object to which the event occurs.
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
