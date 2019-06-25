@@ -13,7 +13,7 @@ localization_priority: Normal
 
 # CommentThreaded.Date property (Excel)
 
-Returns a date **String** that represents the date and time that a threaded comment was added in local time. Read-only. 
+Returns a date **String-Variant** that represents the date and time that a threaded comment was added in local time. Read-only. 
 
 
 ## Syntax
