@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.Application.MasterAdded
 ms.assetid: ef5ddfa4-3f33-e913-ea96-a1b063a1af2b
-ms.date: 06/08/2017
+ms.date: 06/26/2019
 localization_priority: Normal
 ---
 
@@ -22,8 +22,6 @@ _expression_ A variable that represents an **[Application](Visio.Application.md)
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -72,7 +72,7 @@ The first event that occurs in a Visio instance has  _nEventSeqNum_ = 1, the sec
 
 The _pSubjectObj_ parameter for a **ShapeAdded** event is a **Shape** object that represents the shape that was just added, while the subject of a **BeforeSelectionDelete** event is a **Selection** object in which the shapes that are about to be deleted are selected.
 
-For many events,  _vMoreInfo_ is a string similar to the command line the application passes to the add-ons it executes. If the notification does not include additional information, this parameter is set to **Nothing**. For details about notification parameters for a particular event, see the particular event topic in this Automation Reference.
+For many events,  _vMoreInfo_ is a string similar to the command line the application passes to the add-ons it executes. If the notification does not include additional information, this parameter is set to **Nothing**. For details about notification parameters for a particular event, see the particular event topic in this reference.
 
  Beginning with Visio 2000, **VisEventProc** is defined as a function that returns a value. However, Visio only looks at return values from calls to **VisEventProc** that are passed a query event code. Sink objects that provide **VisEventProc** through **IDispatch** require no change. To modify existing event handlers so that they can handle query events, change the **Sub** procedure to a **Function** procedure and return the appropriate value. (For details about query events, see this reference for event topics prefixed with **Query**.)
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.hWndAccessApp method (Access)
 
-You can use the **hWndAccessApp** method to determine the handle assigned by Microsoft Windows to the main Microsoft Access window.
+You can use the **hWndAccessApp** method to determine the handle assigned by Windows to the main Microsoft Access window.
 
 
 ## Syntax

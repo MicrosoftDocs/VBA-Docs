@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.InvisibleApp.MasterChanged
 ms.assetid: bb64bee2-9562-8083-d993-d42c00ed889f
-ms.date: 06/08/2017
+ms.date: 06/26/2019
 localization_priority: Normal
 ---
 
@@ -22,8 +22,6 @@ _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.m
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

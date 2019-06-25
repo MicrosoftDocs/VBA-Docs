@@ -68,7 +68,7 @@ To search all shapes in the collection, plus the shapes inside groups and the co
 objRet = vsoShapes.Item("*{2287DC42-B167-11CE-88E9-0020AFDDD917}")
 ```
 
-For more information about passing ID strings to the  **Item** property, see the topic for the **[UniqueID](Visio.Shape.UniqueID.md)** property in this Automation Reference.
+For more information about passing ID strings to the  **Item** property, see the topic for the **[UniqueID](Visio.Shape.UniqueID.md)** property in this reference.
 
 
  **Note**  
