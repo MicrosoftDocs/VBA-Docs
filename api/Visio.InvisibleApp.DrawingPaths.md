@@ -40,10 +40,10 @@ Visio looks for drawings in all paths named in the **DrawingPaths** property and
 Setting the **DrawingPaths** property replaces existing values for **DrawingPaths** in the **File Locations** dialog box. To retain existing values, get the existing string and then append the new file path to that string, as shown in the following code.
 
 ```vb
-Application.DrawingPaths = Application.DrawingPaths & ";" & "newpath ".
+Application.DrawingPaths = Application.DrawingPaths & ";" & "newpath".
 ```
 
 > [!WARNING] 
-> Modifying the registry in any manner, whether in the Registry Editor or programmatically, always carries some degree of risk. Incorrect modification can cause serious problems that may require you to reinstall your operating system. It is a good practice to always back up a computer's registry first before modifying it. 
+> Modifying the Windows registry in any manner, whether in the Registry Editor or programmatically, always carries some degree of risk. Incorrect modification can cause serious problems that may require you to reinstall your operating system. It is a good practice to always back up a computer's registry first before modifying it. 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

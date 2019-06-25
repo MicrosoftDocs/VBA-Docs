@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.InvisibleApp.FormulaChanged
 ms.assetid: 0f10836e-82e7-9fed-8796-2680382c7f42
-ms.date: 06/08/2017
+ms.date: 06/26/2019
 localization_priority: Normal
 ---
 
@@ -39,12 +39,10 @@ To create an **Event** object that receives notification, use the **AddAdvise** 
 
 To find an event code for the event that you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
-
-
-
 > [!NOTE] 
-> You can use VBA  **WithEvents** variables to sink the **FormulaChanged** event.
+> You can use VBA **WithEvents** variables to sink the **FormulaChanged** event.
 
-For performance considerations, the  **Document** object's event set does not include the **FormulaChanged** event. To sink the **FormulaChanged** event from a **Document** object (and the **[ThisDocument](../visio/Concepts/about-the-thisdocument-object-visio.md)** object in a VBA project), you must use the **AddAdvise** method.
+For performance considerations, the **Document** object's event set does not include the **FormulaChanged** event. To sink the **FormulaChanged** event from a **Document** object (and the **[ThisDocument](../visio/Concepts/about-the-thisdocument-object-visio.md)** object in a VBA project), you must use the **AddAdvise** method.
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

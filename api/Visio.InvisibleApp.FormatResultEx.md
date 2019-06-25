@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.InvisibleApp.FormatResultEx
 ms.assetid: 8a6fe08f-06f2-f9d5-5699-aa40fec6bde8
-ms.date: 06/08/2017
+ms.date: 06/26/2019
 localization_priority: Normal
 ---
 
@@ -51,35 +51,33 @@ Possible values for _StringOrNumber_ include:
 - "4.1 cm"
 - "12 ft - 17 in + (12 cm / SQRT(7))"
 
-When _UnitsIn_ is **visDate**, you can pass a numeric value to the DATETIME function in _StringOrNumber_. The integer portion of the value you pass should represent the number of days since December 30, 1899, and the decimal portion should represent the fraction of a day since midnight. For example, 38135.50 represents noon on May 28th, 2004.
+When _UnitsIn_ is **visDate**, you can pass a numeric value to the DATETIME function in _StringOrNumber_. The integer portion of the value that you pass should represent the number of days since December 30, 1899, and the decimal portion should represent the fraction of a day since midnight. For example, 38135.50 represents noon on May 28, 2004.
 
-The _UnitsIn_ and _UnitsOut_ arguments can be strings such as "inches", "inch", "in.", or "i". Strings may be used for all supported Microsoft Visio units such as centimeters, meters, miles, and so on. You can also use any of the unit constants declared by the Visio type library in [VisUnitCodes](Visio.visunitcodes.md). A list of valid units is also included in [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
+The _UnitsIn_ and _UnitsOut_ arguments can be strings such as "inches", "inch", "in.", or "i". Strings may be used for all supported Microsoft Visio units such as centimeters, meters, miles, and so on. You can also use any of the unit constants declared by the Visio type library in **[VisUnitCodes](Visio.visunitcodes.md)**. A list of valid units is also included in [About units of measure](../visio/Concepts/about-units-of-measure-visio.md).
 
-If _StringOrNumber_ is a string, _UnitsIn_ specifies how to interpret the evaluated result and is only used if the result is a scalar. For example, the expression `"4 * 5 cm"` evaluates to 20 cm, which is not a scalar, so _UnitsIn_ is ignored. The expression `"4 * 5"` evaluates to 20, which is a scalar and is interpreted using the specified _UnitsIn_.
+If _StringOrNumber_ is a string, _UnitsIn_ specifies how to interpret the evaluated result and is only used if the result is a scalar. For example, the expression `"4 * 5 cm"` evaluates to 20 cm, which is not a scalar, so _UnitsIn_ is ignored. The expression `"4 * 5"` evaluates to 20, which is a scalar and is interpreted by using the specified _UnitsIn_.
 
 The _UnitsOut_ argument specifies the units in which the returned string should be expressed. If you want the results expressed in the same units as the evaluated expression, pass "NOCAST" or **visNoCast**.
 
 _Format_ is a string that specifies a template or picture of the string produced by the **FormatResultEx** method. For details, see the FORMAT function. A few of the possibilities are:
 
-- `#`: Output a single digit, but not if it's a leading or trailing 0.
+- `#` - Output a single digit, but not if it's a leading or trailing 0.
 
-- `0` : Output a single digit, even if it is a leading or trailing 0.
+- `0` - Output a single digit, even if it is a leading or trailing 0.
 
-- `.` : Decimal placeholder.
+- `.` - Decimal placeholder.
 
-- `,` : Thousands separator.
+- `,` - Thousands separator.
 
-- `"text"` or `'text'`: Output enclosed text as is.
+- `"text"` or `'text'` - Output enclosed text as is.
 
-- `\c`: Output the character c.
+- `\c` - Output the character c.
 
-When _UnitsIn_ is **visDate**, _Format_ should be one of the custom Microsoft Visio expanded-form date/time formats, which are of the form "{{ _date/time format picture_ }}". You can view these formats in the **Custom Format** box in the **Data Format** dialog box in Visio. (Select a shape, and then, on the **Insert** tab, click **Field**. In the **Category** list, click **Date/Time**, and then click **Data Format**.)
+When _UnitsIn_ is **visDate**, _Format_ should be one of the custom Microsoft Visio expanded-form date/time formats, which are of the form "{{_date/time format picture_}}". You can view these formats in the **Custom Format** box in the **Data Format** dialog box in Visio (select a shape, and then, on the **Insert** tab, choose **Field**. In the **Category** list, choose **Date/Time**, and then choose **Data Format**).
 
-The _LangID_ argument is optional. If you don't specify a value, Visio uses the current system language. If you pass a value, the _LangID_ argument should be one of the standard IDs used by Microsoft Windows to encode different language versions. For example, 1033 is the language ID for English (United States). To see a list of possible language IDs, search for "VERSIONINFO" in the Microsoft Platform SDK on MSDN.
+The _LangID_ argument is optional. If you don't specify a value, Visio uses the current system language. If you pass a value, the _LangID_ argument should be one of the standard IDs used by Microsoft Windows to encode different language versions. For example, 1033 is the language ID for English (United States). To see a list of possible language IDs, see [Language Identifier Constants and Strings](https://docs.microsoft.com/windows/desktop/intl/language-identifier-constants-and-strings).
 
-The _CalendarID_ argument should be one of the following values, which are declared in **VisCellVals** in the Visio type library. The default value is the Western calendar, **visCalWestern**.
-
-
+The _CalendarID_ argument should be one of the following values, which are declared in **[VisCellVals](visio.viscellvals.md)** in the Visio type library. The default value is the Western calendar, **visCalWestern**.
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -97,7 +95,6 @@ The _CalendarID_ argument should be one of the following values, which are decla
 ## Example
 
 The following example shows how to use the **FormatResultEx** property to format a date in Greek and display it as shape text.
-
 
 ```vb
 Public Sub FormatResultEx_Example 

@@ -4,14 +4,14 @@ ms.prod: visio
 api_name:
 - Visio.InvisibleApp.GroupCanceled
 ms.assetid: 1845e634-1a3a-18b6-b110-0e7ce2c94810
-ms.date: 06/08/2017
+ms.date: 06/26/2019
 localization_priority: Normal
 ---
 
 
 # InvisibleApp.GroupCanceled event (Visio)
 
-Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelGroup** event.
+Occurs after an event handler has returned **True** (cancel) to a **QueryCancelGroup** event.
 
 
 ## Syntax
@@ -22,8 +22,6 @@ _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.m
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
