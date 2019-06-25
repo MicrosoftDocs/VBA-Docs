@@ -33,7 +33,7 @@ Document
 
 When no documents are open, there is no active document and the **ActiveDocument** property returns the value **Nothing** and does not raise an exception.
 
-If your code is in the Microsoft Visual Basic project of a Visio document, the **ActiveDocument** property often, but not necessarily, returns a reference to the **ThisDocument** object, a class module in the Visual Basic project of every Microsoft Visio document. If the **ThisDocument** object is shown in the active window, the **ActiveDocument** object and the **ThisDocument** object refer to the same document. When the **ThisDocument** object is referenced from code in a project, it returns a reference to the project's **Document** object.
+If your code is in the Microsoft Visual Basic project of a Visio document, the **ActiveDocument** property often, but not necessarily, returns a reference to the **[ThisDocument](../visio/Concepts/about-the-thisdocument-object-visio.md)** object, a class module in the Visual Basic project of every Microsoft Visio document. If the **ThisDocument** object is shown in the active window, the **ActiveDocument** object and the **ThisDocument** object refer to the same document. When the **ThisDocument** object is referenced from code in a project, it returns a reference to the project's **Document** object.
 
 Whether you use the **ActiveDocument** object or the **ThisDocument** object depends on the purpose of your code.
 

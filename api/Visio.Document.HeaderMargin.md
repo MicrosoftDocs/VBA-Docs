@@ -41,6 +41,6 @@ You can also set this value in the  **Margin** box under **Header** in the **Hea
 
 Automation constants for representing units are declared by the Visio type library in member  **[VisUnitCodes](Visio.visunitcodes.md)**.
 
-For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
+For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About units of measure](../visio/Concepts/about-units-of-measure-visio.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

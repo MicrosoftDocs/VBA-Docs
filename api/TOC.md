@@ -24589,7 +24589,7 @@
 #### [Linking shapes to data](../visio/Concepts/about-linking-shapes-to-data.md)
 #### [Sample VBA macro](../visio/Concepts/sample-vba-macro-visio.md)
 #### [Security settings and running code in Visio](../visio/Concepts/about-security-settings-and-running-code-in-visio.md)
-#### [This Document object](../visio/Concepts/about-the-thisdocument-object-visio.md)
+#### [ThisDocument object](../visio/Concepts/about-the-thisdocument-object-visio.md)
 #### [Units of measure](../visio/Concepts/about-units-of-measure-visio.md)
 #### [Use the Visio Drawing control in your application](../visio/Concepts/about-using-the-visio-drawing-control-in-your-application.md)
 #### [Visio Drawing control](../visio/Concepts/about-the-visio-drawing-control.md)

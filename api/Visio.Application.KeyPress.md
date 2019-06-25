@@ -41,7 +41,7 @@ Unlike some other Visio events,  **KeyPress** does not have the prefix "Query," 
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
-If you want to create your own **Event** objects, use the **Add** or **AddAdvise** method. 
+If you want to create your own **Event** objects, use the **[Add](visio.eventlist.add.md)** or **[AddAdvise](visio.eventlist.addadvise.md)** method. 
 
 To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. 
 
@@ -52,7 +52,7 @@ To find an event code for the event that you want to create, see [Event codes](.
 
 ## Example
 
-This class module shows how to define a sink class called  **KeyboardListener** that listens for events fired by keyboard actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **KeyDown**, **KeyPress**, and **KeyUp** events.
+This class module shows how to define a sync class called  **KeyboardListener** that listens for events fired by keyboard actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **KeyDown**, **KeyPress**, and **KeyUp** events.
 
 To run this example, insert a new class module in your VBA project, name it  **KeyboardListener**, and insert the following code in the module.
 

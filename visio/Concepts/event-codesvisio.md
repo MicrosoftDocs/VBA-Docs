@@ -1,5 +1,5 @@
 ---
-title: Event Codes (Visio)
+title: Event codes (Visio)
 keywords: vis_sdr.chm81901708
 f1_keywords:
 - vis_sdr.chm81901708
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Event Codes (Visio)
+# Event codes (Visio)
 
 When you are working with the **[Add](../../api/Visio.EventList.Add.md)** or **[AddAdvise](../../api/Visio.EventList.AddAdvise.md)** method, use the following table to find the event code for the event that you want to create. This table lists each Visio event and its corresponding event code and numeric code.
 

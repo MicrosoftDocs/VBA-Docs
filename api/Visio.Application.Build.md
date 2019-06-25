@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.Application.Build
 ms.assetid: 92fcdbe9-dfb1-cd20-4700-796bf7ca17f1
-ms.date: 06/08/2017
+ms.date: 06/25/2019
 localization_priority: Normal
 ---
 
@@ -33,19 +33,16 @@ Long
 
 The format of the build number is described in the following table.
 
-
-
-|**Bits**|**Description**|
+|Bits|Description|
 |:-----|:-----|
-|0 - 15|Internal build number|
+|0 &ndash; 15|Internal build number|
 
-The build number of the running instance is written to the **BuildNumberCreated** property when a new document is created, and to the **BuildNumberEdited** property when a document is edited.
+The build number of the running instance is written to the **[BuildNumberCreated](visio.document.buildnumbercreated.md)** property when a new document is created, and to the **[BuildNumberEdited](visio.document.buildnumberedited.md)** property when a document is edited.
 
 
 ## Example
 
 This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Build** property to get the build number of the running instance of Visio.
-
 
 ```vb
  

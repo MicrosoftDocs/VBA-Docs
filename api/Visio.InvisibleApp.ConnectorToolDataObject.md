@@ -7,14 +7,14 @@ ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ConnectorToolDataObject
 ms.assetid: 66b73837-f89a-0de0-d822-c500ffc4b595
-ms.date: 06/08/2017
+ms.date: 06/25/2019
 localization_priority: Normal
 ---
 
 
 # InvisibleApp.ConnectorToolDataObject property (Visio)
 
-Returns an  **IDataObject** interface representing the active **Connector** tool used in the Microsoft Visio user interface. Read-only.
+Returns an **IDataObject** interface representing the active **Connector** tool used in the Microsoft Visio user interface. Read-only.
 
 
 ## Syntax
@@ -31,13 +31,12 @@ IDataObject
 
 ## Remarks
 
- By default, **ConnectorToolDataObject** returns the built-in Visio **Connector** tool. If a master from a stencil is the active connector, **ConnectorToolDataObject** returns a data object for that master. If Visio fails to retrieve the internal **IDataObject**, it raises an exception.
+By default, **ConnectorToolDataObject** returns the built-in Visio **Connector** tool. If a master from a stencil is the active connector, **ConnectorToolDataObject** returns a data object for that master. If Visio fails to retrieve the internal **IDataObject**, it raises an exception.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ConnectorToolDataObject** property to connect two shapes. It drops two masters on the page and connects them with a **Dynamic Connector** shape, using dynamic glue. Before running this macro, open the **Basic Shapes** stencil, if it is not already open.
-
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **ConnectorToolDataObject** property to connect two shapes. It drops two masters on the page and connects them with a **Dynamic Connector** shape, using dynamic glue. Before running this macro, open the **Basic Shapes** stencil if it is not already open.
 
 ```vb
 Public Sub ConnectorToolDataObject_Example() 
@@ -62,7 +61,6 @@ Public Sub ConnectorToolDataObject_Example()
  Set vsoCell3 = ActivePage.Shapes(3).Cells("EndX") 
  Set vsoCell4 = ActivePage.Shapes(2).CellsSRC(7, 1, 0) 
  vsoCell3.GlueTo vsoCell4 
- 
  
 End Sub
 ```

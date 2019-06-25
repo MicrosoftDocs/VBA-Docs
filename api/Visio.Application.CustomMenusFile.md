@@ -7,15 +7,17 @@ ms.prod: visio
 api_name:
 - Visio.Application.CustomMenusFile
 ms.assetid: 88a3f298-36a4-892d-33fc-8fe330d51437
-ms.date: 06/08/2017
+ms.date: 06/25/2019
 localization_priority: Normal
 ---
 
 
 # Application.CustomMenusFile property (Visio)
 
-Gets or sets the name of the file that defines custom menus and accelerators for an  **Application** object. Read/write.
+Gets or sets the name of the file that defines custom menus and accelerators for an **Application** object. Read/write.
 
+> [!NOTE] 
+> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 ## Syntax
 
@@ -31,23 +33,15 @@ String
 
 ## Remarks
 
-> [!NOTE] 
-> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
-
-If the object is not using custom menus, the  **CustomMenusFile** property returns **Nothing**.
+If the object is not using custom menus, the **CustomMenusFile** property returns **Nothing**.
 
 
 ## Example
 
 This Microsoft Visual Basic for Applications (VBA) macro shows how to get the currently active UI for your document without replacing the application-level custom UI. It also saves any existing custom menus to a file and specifies that the current document use those menus. You must write additional code to add your custom UI items.
 
-
-
-
- **Note**  This macro uses the VBA keyword  **Kill** to delete a file on disk. Use this keyword carefully, because you cannot undo a **Kill** command once it has been run, and you will not get a prior warning message.
-
-
-
+> [!CAUTION] 
+> This macro uses the VBA keyword **Kill** to delete a file on disk. Use this keyword carefully, because you cannot undo a **Kill** command after it has been run, and you will not get a prior warning message.
 
 ```vb
  

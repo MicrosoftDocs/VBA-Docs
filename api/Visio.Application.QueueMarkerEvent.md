@@ -46,7 +46,7 @@ A client program can use either the sequence number or the string to correlate  
 
 ## Example
 
-Paste this example code into the  **ThisDocument** object and then run the **UseMarker** procedure. The output will be displayed in the Microsoft Visual Basic for Applications (VBA) Immediate window.
+Paste this example code into the  **[ThisDocument](../visio/Concepts/about-the-thisdocument-object-visio.md)** object and then run the **UseMarker** procedure. The output will be displayed in the Microsoft Visual Basic for Applications (VBA) Immediate window.
 
 
 ```vb

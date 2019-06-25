@@ -7,15 +7,17 @@ ms.prod: visio
 api_name:
 - Visio.Application.BuiltInMenus
 ms.assetid: 0f76537c-5d9b-bcfa-c528-4644bd0375d5
-ms.date: 06/08/2017
+ms.date: 06/25/2019
 localization_priority: Normal
 ---
 
 
 # Application.BuiltInMenus property (Visio)
 
-Returns a  **UIObject** object that represents a copy of the built-in Microsoft Visio menus and accelerators. Read-only.
+Returns a **[UIObject](visio.uiobject.md)** object that represents a copy of the built-in Microsoft Visio menus and accelerators. Read-only.
 
+> [!NOTE] 
+> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 ## Syntax
 
@@ -31,22 +33,16 @@ UIObject
 
 ## Remarks
 
-> [!NOTE] 
-> Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
+You can use the **BuiltInMenus** property to obtain a **UIObject** object and modify its menus and accelerators. You can then use the **SetCustomMenus** method of an **Application** or **Document** object to add your customized menus and accelerators to the built-in Visio user interface.
 
-You can use the  **BuiltInMenus** property to obtain a **UIObject** object and modify its menus and accelerators. You can then use the **SetCustomMenus** method of an **Application** or **Document** object to add your customized menus and accelerators to the built-in Visio user interface.
-
-You can also use the  **SaveToFile** method of the **UIObject** object to store its menus in a file and reload them as custom menus by setting the **CustomMenusFile** property of an **Application** or **Document** object.
+You can also use the **SaveToFile** method of the **UIObject** object to store its menus in a file and reload them as custom menus by setting the **CustomMenusFile** property of an **Application** or **Document** object.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **BuiltInMenus** property. It adds a menu and menu item to the **Add-ins** tab and sets the menu and menu item's **Caption** properties.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **BuiltInMenus** property. It adds a menu and menu item to the **Add-ins** tab and sets the menu and menu item's **Caption** properties.
 
-To restore the built-in user interface in Microsoft Visio after you run this macro, call the  **ThisDocument.ClearCustomMenus** method.
-
-
-
+To restore the built-in user interface in Microsoft Visio after you run this macro, call the **ThisDocument.ClearCustomMenus** method.
 
 ```vb
  
