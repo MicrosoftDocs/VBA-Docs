@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # ThisDocument object (Visio)
 
-The Visual Basic for Applications (VBA) project of every Visio document has a class module called **ThisDocument**. When referenced from code in the project, the **ThisDocument** object returns a reference to the project's **[Document](visio.document.md)** object.
+The Visual Basic for Applications (VBA) project of every Visio document has a class module called **ThisDocument**. When referenced from code in the project, the **ThisDocument** object returns a reference to the project's **[Document](../../api/visio.document.md)** object.
 
 You can display the name of the VBA project's document in a message box by using the following statement. 
 
