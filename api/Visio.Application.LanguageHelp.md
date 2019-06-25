@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.Application.LanguageHelp
 ms.assetid: 71ae2f5a-5a8c-ea38-e9db-081bc8fe5cc4
-ms.date: 06/08/2017
+ms.date: 06/26/2019
 localization_priority: Normal
 ---
 
@@ -31,6 +31,8 @@ Long
 
 ## Remarks
 
-The  **LanguageHelp** property returns the language ID of the Help recorded in the object's VERSIONINFO resource. The IDs returned are the standard IDs used by Microsoft Windows to encode different language versions. For example, the **LanguageHelp** property returns &H0409 for the U.S. English version of Visio. For details, search for "VERSIONINFO" in the Microsoft Platform SDK on MSDN.
+The **LanguageHelp** property returns the language ID of the Help recorded in the object's VERSIONINFO resource. The IDs returned are the standard IDs used by Windows to encode different language versions. For example, the **LanguageHelp** property returns &H0409 for the U.S. English version of Visio. 
+
+For more information, see [Version information](https://docs.microsoft.com/windows/desktop/menurc/version-information).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.InvisibleApp.LiveDynamics
 ms.assetid: 2c309987-1abc-5f01-7f1b-42bc14d4cb3f
-ms.date: 06/08/2017
+ms.date: 06/26/2019
 localization_priority: Normal
 ---
 
@@ -31,6 +31,6 @@ Boolean
 
 ## Remarks
 
-The  **LiveDynamics** property tracks actions, such as resizing and rotating shapes, and is effective when shapes are glued or related to each other. When the value of the **LiveDynamics** property is **True**, more events such as **CellChanged** occur. Solutions that respond to such events may operate more quickly if the **LiveDynamics** property is set to **False**.
+The **LiveDynamics** property tracks actions, such as resizing and rotating shapes, and is effective when shapes are glued or related to each other. When the value of the **LiveDynamics** property is **True**, more events such as **CellChanged** occur. Solutions that respond to such events may operate more quickly if the **LiveDynamics** property is set to **False**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
