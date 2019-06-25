@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.Application.KeyUp
 ms.assetid: fb638bc4-8226-de1c-6609-4b757b7d0e4c
-ms.date: 06/08/2017
+ms.date: 06/26/2019
 localization_priority: Normal
 ---
 
@@ -20,34 +20,20 @@ _expression_.**KeyUp** (_KeyCode_, _KeyButtonState_, _CancelDefault_)
 
 _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
 
-
 ## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _KeyCode_|Required| **Long**|The key that was released. See Remarks for possible values.|
-| _KeyButtonState_|Required| **Long**|The state of the SHIFT and CTRL keys for the event. See Remarks for possible values.|
+| _KeyCode_|Required| **Long**|The key that was released. Possible values are declared in [Keycode constants](../language/reference/user-interface-help/keycode-constants.md).|
+| _KeyButtonState_|Required| **Long**|The state of the Shift and Ctrl keys for the event. Can be a combination of the values declared in **[VisKeyButtonFlags](visio.viskeybuttonflags.md)**. For example, if _KeyButtonState_ returns 12, it indicates that the user held down both Shift and Ctrl.|
 | _CancelDefault_|Required| **Boolean**| **False** if Microsoft Visio should process the message it receives from this event; otherwise, **True**.|
+
 
 ## Remarks
 
-Possible values for  _KeyCode_ are declared in **KeyCodeConstants** in the Microsoft Visual Basic for Applications (VBA) library.
+If you set _CancelDefault_ to **True**, Visio will not process the message received when the mouse button is clicked.
 
-Possible values for  _KeyButtonState_ can be a combination of the values shown in the following table, which are declared in **VisKeyButtonFlags** in the Visio type library. For example, if _KeyButtonState_ returns 12, it indicates that the user held down both SHIFT and CTRL.
-
-
-
-|Constant|Value|
-|:-----|:-----|
-| **visKeyControl **|8|
-| **visKeyShift **|4|
-| **visMouseLeft **|1|
-| **visMouseMiddle **|16|
-| **visMouseRight **|2|
-
-If you set  _CancelDefault_ to **True**, Visio will not process the message received when the mouse button is clicked.
-
-Unlike some other Visio events,  **KeyUp** does not have the prefix "Query," but it is nevertheless a query event. That is, you can cancel processing the message sent by **KeyUp**, either by setting _CancelDefault_ to **True**, or, if you are using the **VisEventProc** method to handle the event, by returning **True**. For more information, see the topics for the **VisEventProc** method and for any of the query events (for example, the **QueryCancelSuspend** event) in this Automation Reference.
+Unlike some other Visio events, **KeyUp** does not have the prefix _Query_, but it is nevertheless a query event. That is, you can cancel processing the message sent by **KeyUp**, either by setting _CancelDefault_ to **True**, or, if you are using the **[VisEventProc](visio.iviseventproc.viseventproc.md)** method to handle the event, by returning **True**. For more information, see the topics for the **VisEventProc** method and for any of the query events (for example, the **QueryCancelSuspend** event).
 
 If you are using Microsoft Visual Basic or VBA, the syntax in this topic describes a common, efficient way to handle events.
 
@@ -62,12 +48,9 @@ To find an event code for the event that you want to create, see [Event codes](.
 
 ## Example
 
-This class module shows how to define a sync class called  **KeyboardListener** that listens for events fired by keyboard actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **KeyDown**, **KeyPress**, and **KeyUp** events.
+This class module shows how to define a sync class called **KeyboardListener** that listens for events fired by keyboard actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **KeyDown**, **KeyPress**, and **KeyUp** events.
 
-To run this example, insert a new class module in your VBA project, name it  **KeyboardListener**, and insert the following code in the module.
-
-
-
+To run this example, insert a new class module in your VBA project, name it **KeyboardListener**, and insert the following code in the module.
 
 ```vb
 Dim WithEvents vsoWindow As Visio.Window 
@@ -105,10 +88,9 @@ Private Sub vsoWindow_KeyUp(ByVal KeyCode As Long, ByVal KeyButtonState As Long,
 End Sub
 ```
 
-Then, insert the following code in the  **ThisDocument** project.
+<br/>
 
-
-
+Then, insert the following code in the **ThisDocument** project.
 
 ```vb
 Dim myKeyboardListener As KeyboardListener 
@@ -126,6 +108,6 @@ Private Sub Document_BeforeDocumentClose(ByVal doc As IVDocument)
 End Sub
 ```
 
-Save the document to initialize the class, press any key, and then release it to fire a  **KeyUp** event. In the Immediate window, the handler prints the code of the key that was released to fire the event and the state of the SHIFT and CTRL keys at the time the event fired.
+Save the document to initialize the class, press any key, and then release it to fire a **KeyUp** event. In the Immediate window, the handler prints the code of the key that was released to fire the event and the state of the Shift and Ctrl keys at the time the event fired.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
