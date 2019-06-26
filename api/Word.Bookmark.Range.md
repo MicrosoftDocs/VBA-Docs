@@ -14,19 +14,19 @@ localization_priority: Normal
 
 # Bookmark.Range property (Word)
 
-Returns a  **[Range](Word.Range.md)** object that represents the portion of a document that's contained in the specified object.
+Returns a **[Range](Word.Range.md)** object that represents the portion of a document that's contained in the specified object.
 
 
 ## Syntax
 
 _expression_.**Range**
 
-_expression_ A variable that represents a '[Bookmark](Word.Bookmark.md)' object.
+_expression_ A variable that represents a **[Bookmark](Word.Bookmark.md)** object.
 
 
 ## Remarks
 
-For information about returning a range from a document or returning a shape range from a collection of shapes, see the  **Range** method.
+For information about returning a range from a document or returning a shape range from a collection of shapes, see the **Range** method.
 
 
 ## See also

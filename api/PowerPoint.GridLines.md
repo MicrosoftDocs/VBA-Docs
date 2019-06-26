@@ -29,7 +29,8 @@ Use the  **[MajorGridlines](PowerPoint.Axis.MajorGridlines.md)** property to ret
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example enables major gridlines for the category axis of the first chart in the active document and then formats the gridlines to be blue dashed lines.
 

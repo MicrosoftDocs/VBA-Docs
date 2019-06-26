@@ -21,7 +21,7 @@ Displays the list of tasks for a specific date.
 
 _expression_. `CalendarTaskList`( `_Date_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

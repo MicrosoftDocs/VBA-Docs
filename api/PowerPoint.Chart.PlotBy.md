@@ -43,7 +43,8 @@ For PivotChart reports, this property is read-only and always returns  **xlColum
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example causes the first chart in the active document to plot data by columns.
 

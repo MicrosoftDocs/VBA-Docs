@@ -58,10 +58,21 @@ MsgBox "Name = " & AutoCorrect.Entries(1).Name & vbCr & _
  "Value " & AutoCorrect.Entries(1).Value
 ```
 
+## Methods
+
+- [Add](Word.AutoCorrectEntries.Add.md)
+- [AddRichText](Word.AutoCorrectEntries.AddRichText.md)
+- [Item](Word.AutoCorrectEntries.Item.md)
+
+## Properties
+
+- [Application](Word.AutoCorrectEntries.Application.md)
+- [Count](Word.AutoCorrectEntries.Count.md)
+- [Creator](Word.AutoCorrectEntries.Creator.md)
+- [Parent](Word.AutoCorrectEntries.Parent.md)
 
 ## See also
 
-
-[Word Object Model Reference](overview/Word/object-model.md)
+- [Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

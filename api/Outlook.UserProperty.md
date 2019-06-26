@@ -26,7 +26,8 @@ Use the  **[Add](Outlook.UserProperties.Add.md)** method to create a new **UserP
 
 
 
- **Note**  When you create a custom property, a field is added in the folder that contains the item (using the same name as the property). That field can be used as a column in folder views.
+> [!NOTE] 
+> When you create a custom property, a field is added in the folder that contains the item (using the same name as the property). That field can be used as a column in folder views.
 
 
 ## Example

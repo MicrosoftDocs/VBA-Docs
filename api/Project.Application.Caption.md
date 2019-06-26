@@ -18,7 +18,7 @@ Gets or sets the text in the title bar of the main window. Read/write  **String*
 
 _expression_.**Caption**
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Remarks

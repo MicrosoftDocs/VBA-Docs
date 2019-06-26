@@ -21,7 +21,7 @@ Determines whether alerts appear when a macro runs.
 
 _expression_. `Alerts`( `_Show_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

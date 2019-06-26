@@ -27,7 +27,8 @@ Use the  **[ChartData](./PowerPoint.Chart.ChartData.md)** property to return the
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example uses the  **[Activate](./PowerPoint.ChartData.Activate.md)** method to display the data associated with the first chart in the active document.
 

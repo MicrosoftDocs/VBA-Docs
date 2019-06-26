@@ -21,7 +21,7 @@ Gets or sets a  **[Filters](Project.Filter.md)** collection representing the res
 
 _expression_. `GlobalResourceFilters`
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Remarks

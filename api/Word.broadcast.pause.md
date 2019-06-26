@@ -19,7 +19,7 @@ Pauses the specified broadcast.
 
 _expression_. `Pause`
 
-_expression_ A variable that represents a 'Broadcast' object.
+_expression_ A variable that represents a **[Broadcast](Word.broadcast.md)** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Displays the  **Timescale** dialog box, which allows the user to customize the C
 
 _expression_. `CalendarTimescale`
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Return value

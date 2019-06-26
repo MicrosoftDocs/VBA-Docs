@@ -21,7 +21,7 @@ Specifies leveling options for the active project, including leveling of manuall
 
 _expression_. `LevelingOptionsEx`( `_Automatic_`, `_DelayInSlack_`, `_AutoClearLeveling_`, `_Order_`, `_LevelEntireProject_`, `_FromDate_`, `_ToDate_`, `_PeriodBasis_`, `_LevelIndividualAssignments_`, `_LevelingCanSplit_`, `_LevelProposedBookings_`, `_LevelPinnedTasks_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

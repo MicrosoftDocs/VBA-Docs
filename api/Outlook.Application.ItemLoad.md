@@ -21,7 +21,7 @@ Occurs when an Outlook item is loaded into memory.
 
 _expression_. ItemLoad( _Item_ )
 
-_expression_ A variable that represents an [Application](Outlook.Application.md) object.
+_expression_ A variable that represents an **[Application](Outlook.Application.md)** object.
 
 
 ## Parameters

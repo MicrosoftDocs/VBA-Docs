@@ -29,7 +29,8 @@ If the  **[HasUpDownBars](PowerPoint.ChartGroup.HasUpDownBars.md)** property is 
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 Use the  **[DownBars](PowerPoint.ChartGroup.DownBars.md)** property to return the **DownBars** object. The following example enables up and down bars for chart group one of the first chart in the active document. The example then sets the up bar color to blue and the down bar color to red.
 

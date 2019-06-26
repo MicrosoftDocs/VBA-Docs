@@ -21,7 +21,7 @@ Expands or collapses resource rows in the Team Planner view, where there is more
 
 _expression_. `ToggleTPAutoExpand`
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Return value
@@ -34,7 +34,8 @@ _expression_. `ToggleTPAutoExpand`
 You can manually expand or collapse the list of tasks for a single resource by choosing the  **+** or **-** icon next to the resource name, or by using the **[ToggleTPResourceExpand](Project.Application.ToggleTPResourceExpand.md)** method. The **ToggleTPAutoExpand** method does the same action for all resources.
 
 
- **Note**  The  **+** or **-** icon does not show next to the resource name if there are no overlapping assignments for that resource.
+> [!NOTE] 
+> The  **+** or **-** icon does not show next to the resource name if there are no overlapping assignments for that resource.
 
 The  **ToggleTPAutoExpand** method corresponds to the **Expand Resource Rows** check box on the **Format** tab under **Team Planner Tools** in the ribbon.
 

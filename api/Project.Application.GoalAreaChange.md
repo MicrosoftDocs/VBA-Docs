@@ -21,7 +21,7 @@ Changes Project Guide goal areas by triggering the  **[WindowGoalAreaChange](Pro
 
 _expression_. `GoalAreaChange`( `_goalArea_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -40,7 +40,8 @@ _expression_ A variable that represents an [Application](./Project.Application.m
 ## Remarks
 
 
- **Note**  The Project Guide is disabled by default in Project. Although you can create and display custom Project Guide pages, we recommend that you create a task pane app instead of the Project Guide for new development.
+> [!NOTE] 
+> The Project Guide is disabled by default in Project. Although you can create and display custom Project Guide pages, we recommend that you create a task pane app instead of the Project Guide for new development.
 
 Script in the main.html page looks up and loads the appropriate task list page for the new goal area.
 

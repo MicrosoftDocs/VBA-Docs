@@ -34,7 +34,8 @@ Setting the  **[MaximumScale](PowerPoint.Axis.MaximumScale.md)** property sets t
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example automatically calculates the minimum scale and the maximum scale for the value axis of the first chart in the active document.
 

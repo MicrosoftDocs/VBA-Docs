@@ -44,7 +44,8 @@ MsgBox FontNames(1)
 ```
 
 
- **Note**  You cannot add names to or remove names from the list of available font names.
+> [!NOTE] 
+> You cannot add names to or remove names from the list of available font names.
 
 
 ## See also

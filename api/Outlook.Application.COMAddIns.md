@@ -21,7 +21,7 @@ Returns a  **COMAddIns** collection that represents all the Component Object Mod
 
 _expression_.**COMAddIns**
 
-_expression_ A variable that represents an [Application](Outlook.Application.md) object.
+_expression_ A variable that represents an **[Application](Outlook.Application.md)** object.
 
 
 ## Example

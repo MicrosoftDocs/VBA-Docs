@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SyncObject.OnError event (Outlook)
 
-Occurs when Microsoft Outlook encounters an error while synchronizing a user?s folders using the specified  **Send\Receive** group.
+Occurs when Microsoft Outlook encounters an error while synchronizing a user's folders using the specified **Send\Receive** group.
 
 
 ## Syntax

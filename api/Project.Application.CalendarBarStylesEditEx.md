@@ -21,7 +21,7 @@ Changes the style of the specified type of bar in the Calendar view, where  _Col
 
 _expression_. `CalendarBarStylesEditEx`( `_Item_`, `_Bar_`, `_Pattern_`, `_Color_`, `_Align_`, `_Wrap_`, `_Shadow_`, `_Field1_`, `_Field2_`, `_Field3_`, `_Field4_`, `_Field5_`, `_SplitPattern_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -54,7 +54,8 @@ _expression_. `CalendarBarStylesEditEx`( `_Item_`, `_Bar_`, `_Pattern_`, `_Color
 Specifying a value for any of  _Field1_ through _Field5_ requires that all preceding _Field_ arguments also be specified. For example, specifying _Field3_ also requires _Field1_ and _Field2_ to be specified.
 
 
- **Note**  The  _Field1_ to _Field5_ parameters cannot use the **PjFields** constants. To see the field names that you can add to calendar bars, open the Calendar view, click the **Format** tab in the **Calendar Tools** group. Click **Bar Styles** on the Ribbon, and then click the **Field(s)** drop-down list.
+> [!NOTE] 
+> The  _Field1_ to _Field5_ parameters cannot use the **PjFields** constants. To see the field names that you can add to calendar bars, open the Calendar view, click the **Format** tab in the **Calendar Tools** group. Click **Bar Styles** on the Ribbon, and then click the **Field(s)** drop-down list.
 
 
 ## Example
@@ -76,6 +77,7 @@ End Sub
 ```
 
 
- **Note**  If you use any of the  **PjColor** enumeration constants for the _Color_ parameter, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **CalendarBarStylesEditEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[CalendarBarStylesEdit](Project.Application.CalendarBarStylesEdit.md)** method.
+> [!NOTE] 
+> If you use any of the  **PjColor** enumeration constants for the _Color_ parameter, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **CalendarBarStylesEditEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[CalendarBarStylesEdit](Project.Application.CalendarBarStylesEdit.md)** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

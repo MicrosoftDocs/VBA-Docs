@@ -21,7 +21,7 @@ Opens the specified Visual Reports template with the specified level of time.
 
 _expression_. `VisualReportsView`( `_strVisualReportTemplateFile_`, `_PjVisualReportsDataLevel_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

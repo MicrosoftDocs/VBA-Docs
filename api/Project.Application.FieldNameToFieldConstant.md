@@ -21,7 +21,7 @@ Returns a  **Long** value for a local custom field or an enterprise custom field
 
 _expression_. `FieldNameToFieldConstant`( `_FieldName_`, `_FieldType_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -43,7 +43,8 @@ _expression_ A variable that represents an [Application](./Project.Application.m
 If the FieldName argument is a local custom field, the returned value can be a  **[PjField](Project.PjField.md)** constant. If FieldName is an enterprise custom field, the returned value does not match a **PjField** constant because there can be an unlimited number of enterprise custom fields.
 
 
- **Note**  For usability and performance reasons, the number of enterprise custom fields should be limited to a few hundred or less.
+> [!NOTE] 
+> For usability and performance reasons, the number of enterprise custom fields should be limited to a few hundred or less.
 
 You can access project custom fields through the  **ProjectSummaryTask** property.
 

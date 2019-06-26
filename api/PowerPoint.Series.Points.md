@@ -42,7 +42,8 @@ A  **[Points](PowerPoint.Points.md)** object that represents all the points in t
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example applies a data label to point one in series one of the first chart in the active document.
 

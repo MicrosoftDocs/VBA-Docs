@@ -84,9 +84,10 @@ where  _xxx_ is one of these cells: Label, Prompt, SortKey, Type, Format, Invisi
 
 
 
- **Note**  Beginning with Microsoft Visio 2000, you can use both local and universal names to refer to Visio shapes, masters, documents, pages, rows, add-ons, cells, hyperlinks, styles, fonts, master shortcuts, UI objects, and layers. When a user names a shape, for example, the user is specifying a local name. Beginning with Microsoft Office Visio 2003, the ShapeSheet spreadsheet displays only universal names in cell formulas and values. (In prior versions, universal names were not visible in the user interface.) 
+> [!NOTE] 
+> Beginning with Microsoft Visio 2000, you can use both local and universal names to refer to Visio shapes, masters, documents, pages, rows, add-ons, cells, hyperlinks, styles, fonts, master shortcuts, UI objects, and layers. When a user names a shape, for example, the user is specifying a local name. Beginning with Microsoft Office Visio 2003, the ShapeSheet spreadsheet displays only universal names in cell formulas and values. (In prior versions, universal names were not visible in the user interface.) 
 
- As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the **Cells** property to get a **Cell** object by using the cell's local name. Use the **CellsU** property to get a **Cell** object by using the cell's universal name.
+As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the **Cells** property to get a **Cell** object by using the cell's local name. Use the **CellsU** property to get a **Cell** object by using the cell's universal name.
 
 
 ## Example

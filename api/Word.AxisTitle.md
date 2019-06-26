@@ -46,10 +46,39 @@ End With
 
 ```
 
+## Methods
+
+- [Delete](Word.AxisTitle.Delete.md)
+- [Select](Word.AxisTitle.Select.md)
+
+## Properties
+
+- [Application](Word.AxisTitle.Application.md)
+- [Caption](Word.AxisTitle.Caption.md)
+- [Characters](Word.AxisTitle.Characters.md)
+- [Creator](Word.AxisTitle.Creator.md)
+- [Format](Word.AxisTitle.Format.md)
+- [Formula](Word.AxisTitle.Formula.md)
+- [FormulaLocal](Word.AxisTitle.FormulaLocal.md)
+- [FormulaR1C1](Word.AxisTitle.FormulaR1C1.md)
+- [FormulaR1C1Local](Word.AxisTitle.FormulaR1C1Local.md)
+- [Height](Word.AxisTitle.Height.md)
+- [HorizontalAlignment](Word.AxisTitle.HorizontalAlignment.md)
+- [IncludeInLayout](Word.AxisTitle.IncludeInLayout.md)
+- [Left](Word.AxisTitle.Left.md)
+- [Name](Word.AxisTitle.Name.md)
+- [Orientation](Word.AxisTitle.Orientation.md)
+- [Parent](Word.AxisTitle.Parent.md)
+- [Position](Word.AxisTitle.Position.md)
+- [ReadingOrder](Word.AxisTitle.ReadingOrder.md)
+- [Shadow](Word.AxisTitle.Shadow.md)
+- [Text](Word.AxisTitle.Text.md)
+- [Top](Word.AxisTitle.Top.md)
+- [VerticalAlignment](Word.AxisTitle.VerticalAlignment.md)
+- [Width](Word.AxisTitle.Width.md)
 
 ## See also
 
-
-[Word Object Model Reference](overview/Word/object-model.md)
+- [Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

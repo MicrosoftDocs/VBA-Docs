@@ -34,7 +34,8 @@ This property is not available for 3D charts.
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example removes error bars from series one for the first chart in the active document. You should run the example on a 2D line chart that has error bars for series one.
 

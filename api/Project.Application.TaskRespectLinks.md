@@ -21,7 +21,7 @@ Moves one or more selected tasks so that their dates are determined by their tas
 
 _expression_. `TaskRespectLinks`
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Return value

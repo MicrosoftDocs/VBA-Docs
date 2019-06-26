@@ -26,7 +26,8 @@ _expression_ A variable that represents a '[Legend](PowerPoint.Legend.md)' objec
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example moves the chart legend to the bottom of the chart.
 

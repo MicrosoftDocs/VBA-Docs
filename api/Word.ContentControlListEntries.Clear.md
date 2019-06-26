@@ -29,7 +29,8 @@ _expression_.**Clear**
 The following code example clears all items from the first content control in the active document.
 
 
- **Note**  The following code example assumes that the first content control in the active document is a drop-down list or combo box.
+> [!NOTE] 
+> The following code example assumes that the first content control in the active document is a drop-down list or combo box.
 
 
 ```vb

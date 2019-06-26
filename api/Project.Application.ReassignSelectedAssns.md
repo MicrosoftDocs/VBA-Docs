@@ -21,7 +21,7 @@ Reassigns the selected assignments in the Team Planner view.
 
 _expression_. `ReassignSelectedAssns`( `_ResourceID_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

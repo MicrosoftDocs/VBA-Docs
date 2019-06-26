@@ -29,7 +29,8 @@ _expression_ A variable that represents a '[ChartCharacters](PowerPoint.ChartCha
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example replaces the first three characters in the title of the first chart in the active document with Furigana characters.
 

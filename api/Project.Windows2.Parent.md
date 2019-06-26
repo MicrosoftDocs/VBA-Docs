@@ -11,26 +11,23 @@ localization_priority: Normal
 
 # Windows2.Parent property (Project)
 
-Gets the parent of the  **Windows2** object. Read-only **Object**.
+Gets the parent of the **Windows2** object. Read-only **Object**.
 
 
 ## Syntax
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a 'Windows2' object.
+_expression_ A variable that represents a **[Windows2](Project.windows2(object).md)** object.
 
 
 ## Remarks
 
-The parent of a  **Windows2** collection object can be the **Application** or a **Project** object.
+The parent of a **Windows2** collection object can be the **Application** or a **[Project](project.project.md)** object.
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
-
-
-## See also
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 
-[Windows2 Collection Object](Project.windows2(object).md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

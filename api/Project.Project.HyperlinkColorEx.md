@@ -18,7 +18,7 @@ Gets or sets a hexadecimal representation of the color used to denote unfollowed
 
 _expression_. `HyperlinkColorEx`
 
- _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
+ _expression_ An expression that returns a **[Project](project.project.md)** object.
 
 
 ## Remarks

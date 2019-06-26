@@ -41,7 +41,7 @@ If the word is spelled correctly, the  **Count** property of the **[SpellingSugg
 
 ## Example
 
-This example looks for the alternate spelling suggestions for the word "?ook." Suggestions include replacements for the ? wildcard character. Any suggested spellings are displayed in message boxes.
+This example looks for the alternate spelling suggestions for the word `"*ook."` Suggestions include replacements for the `*` wildcard character. Any suggested spellings are displayed in message boxes.
 
 
 ```vb

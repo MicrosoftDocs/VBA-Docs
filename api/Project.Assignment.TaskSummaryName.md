@@ -26,6 +26,7 @@ _expression_ A variable that represents an [Assignment](./Project.Assignment.md)
 
 
 
- **Note**  Assignments should not be made on summary tasks.
+> [!NOTE] 
+> Assignments should not be made on summary tasks.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

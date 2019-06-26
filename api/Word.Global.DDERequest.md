@@ -35,11 +35,6 @@ _expression_ A variable that represents a '[Global](Word.Global.md)' object. Opt
 
 ## Remarks
 
-
- **Security Note**  
-
-
-
 When you request information from the topic in the server application, you must specify the item in that topic whose contents you are requesting. In Microsoft Excel, for example, cells are valid items, and you refer to them by using either the "R1C1" format or named references.
 
 Microsoft Excel and other applications that support DDE recognize a topic named "System." Three standard items in the System topic are described in the following table. Note that you can get a list of the other items in the System topic by using the SysItems item.

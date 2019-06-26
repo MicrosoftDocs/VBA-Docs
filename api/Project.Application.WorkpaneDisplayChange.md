@@ -18,7 +18,7 @@ Occurs when the Project Guide is hidden or shown.
 
 _expression_. `WorkpaneDisplayChange`( `_DisplayState_`, )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -37,7 +37,8 @@ _expression_ A variable that represents an [Application](./Project.Application.m
 ## Remarks
 
 
- **Note**  The Project Guide is disabled by default in Project. Although you can create and display custom Project Guide pages, we recommend that you create a task pane app instead of a custom Project Guide for new development.
+> [!NOTE] 
+> The Project Guide is disabled by default in Project. Although you can create and display custom Project Guide pages, we recommend that you create a task pane app instead of a custom Project Guide for new development.
 
 Project events do not occur when the project is embedded in another document or application.
 

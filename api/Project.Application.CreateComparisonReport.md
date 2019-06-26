@@ -21,7 +21,7 @@ Creates a comparison report between two versions of a project.
 
 _expression_. `CreateComparisonReport`( `_FileName_`, `_TaskTable_`, `_ResourceTable_`, `_Items_`, `_Columns_`, `_ShowLegend_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

@@ -29,7 +29,8 @@ _expression_ A variable that represents a '[ChartFont](PowerPoint.ChartFont.md)'
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the color of the tick-mark labels on the value axis for the first chart in the active document.
 

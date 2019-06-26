@@ -39,7 +39,8 @@ To determine whether a list contains more than one list template, use the  **Sin
 You can manipulate the individual  **List** objects within a document, but for more precise control you should work with the **ListFormat** object.
 
 
- **Note**  Picture-bulleted lists are not included in the  **[Lists](Word.lists.md)** collection and cannot be manipulated using the **List** object.
+> [!NOTE] 
+> Picture-bulleted lists are not included in the  **[Lists](Word.lists.md)** collection and cannot be manipulated using the **List** object.
 
 
 ## Methods

@@ -21,7 +21,7 @@ Changes the project status date.
 
 _expression_. `ChangeStatusDate`( `_Date_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

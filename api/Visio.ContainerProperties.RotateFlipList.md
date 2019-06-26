@@ -19,14 +19,12 @@ Rotates or flips the list direction for a list of shapes.
 
 ## Syntax
 
-_expression_. `RotateFlipList`( `_Direction_` )
+_expression_.**RotateFlipList** (_Direction_)
 
 _expression_ A variable that represents a **[ContainerProperties](Visio.ContainerProperties.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

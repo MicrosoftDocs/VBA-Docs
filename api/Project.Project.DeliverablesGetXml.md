@@ -18,7 +18,7 @@ Gets the XML data from Project Professional for all of the deliverables and depe
 
 _expression_. `DeliverablesGetXml`
 
-_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a **[Project](project.project.md)** object.
 
 
 ## Return value

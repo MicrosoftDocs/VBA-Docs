@@ -21,7 +21,7 @@ Instructs the active object to perform an action.
 
 _expression_. `ObjectVerb`( `_Verb_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

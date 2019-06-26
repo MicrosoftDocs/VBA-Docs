@@ -19,9 +19,9 @@ Creates or removes an overlapped list relationship with another list shape, or r
 
 ## Syntax
 
-_expression_. `OverlappedList`
+_expression_.**OverlappedList**
 
- _expression_ An expression that returns a **[ContainerProperties](Visio.ContainerProperties.md)** object.
+_expression_ An expression that returns a **[ContainerProperties](Visio.ContainerProperties.md)** object.
 
 
 ## Return value
@@ -31,9 +31,9 @@ _expression_. `OverlappedList`
 
 ## Remarks
 
-To create an overlapped list relationship, set  **OverlappedList** equal to the target list shape.
+To create an overlapped list relationship, set **OverlappedList** equal to the target list shape.
 
-To remove an existing overlapped list relationship between the source list shape and the target list shape, set  **OverlappedList** equal to **Nothing**.
+To remove an existing overlapped list relationship between the source list shape and the target list shape, set **OverlappedList** equal to **Nothing**.
 
  **OverlappedList** returns **Nothing** if there is no existing overlapped list relationship between the source shape and any other shape.
 

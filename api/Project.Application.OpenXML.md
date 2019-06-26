@@ -18,7 +18,7 @@ Opens a project from an XML string.
 
 _expression_. `OpenXML`( `_XML_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -41,7 +41,8 @@ The Project XML schema is available in the Project SDK, as the file mspdi_pj15.x
 The  **OpenXML** method returns 0 if it is successful.
 
 
- **Note**  You can also use the  **[FileOpenEx](Project.Application.FileOpenEx.md)** method to open a valid Project XML file. The **OpenXML** method is primarily designed to open a project by using an XML string.
+> [!NOTE] 
+> You can also use the  **[FileOpenEx](Project.Application.FileOpenEx.md)** method to open a valid Project XML file. The **OpenXML** method is primarily designed to open a project by using an XML string.
 
 
 ## Example

@@ -29,7 +29,8 @@ _expression_ A variable that represents a '[ChartData](Word.ChartData.md)' objec
 
 
 
- **Note**  You must call the  **[Activate](Word.ChartData.Activate.md)** method before referencing this property; otherwise, an error occurs.
+> [!NOTE] 
+> You must call the  **[Activate](Word.ChartData.Activate.md)** method before referencing this property; otherwise, an error occurs.
 
 
 ## Example

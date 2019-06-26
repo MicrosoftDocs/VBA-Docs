@@ -31,7 +31,8 @@ This property applies only to radar charts.
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example enables radar axis labels for chart group one of the first chart in the active document and sets their color. You should run the example on a radar chart.
 

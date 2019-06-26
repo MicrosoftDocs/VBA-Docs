@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Specifies the version of a PivotTable or a PivotCache. Creating PivotTables with a specific version ensures that tables created in Excel behave in the same manner as they did in the corresponding version of Excel.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -25,9 +25,8 @@ Specifies the version of a PivotTable or a PivotCache. Creating PivotTables with
 | **xlPivotTableVersion15**|5|Excel 2013|
 | **xlPivotTableVersionCurrent**|-1|Provided only for backward compatibility|
 
-## Remarks
 
-
- **Note**   _xlPivotTableVersionCurrent_ is included only for backward compatibility reasons. It cannot be used with new **PivotCache** and **PivotTable** objects. There are no differences in behavior between _xlPivotTableVersion11_ and _xlPivotTableVersion10_.
+> [!NOTE] 
+> _xlPivotTableVersionCurrent_ is included only for backward compatibility reasons. It cannot be used with new **PivotCache** and **PivotTable** objects. There are no differences in behavior between _xlPivotTableVersion11_ and _xlPivotTableVersion10_.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

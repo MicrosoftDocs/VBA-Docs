@@ -40,6 +40,7 @@ The  **DisplayName** property value is not necessarily the same as that of the *
 The value of the  **DisplayName** property corresponds to the value in the Label column in the Shape Data section of the ShapeSheet spreadsheet of a shape that is linked to data. The Label column value determines the label that appears for a particular shape-data item in the **Shape Data** dialog box for that shape. (Right-click the shape, and then click **Shape Data**.)
 
 
- **Note**  In some previous versions of Visio, Shape Data were called Custom Properties.
+> [!NOTE] 
+> In some previous versions of Visio, Shape Data were called Custom Properties.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

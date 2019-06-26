@@ -29,7 +29,8 @@ _expression_. `PortugalReform`
 Setting this property has the same effect as selecting an item in the dropdown box next to  **European Portuguese modes:** in the **Word Options** dialog (**Proofing**,  **When correcting spelling in Microsoft Office programs**). 
 
 
- **Note**  This property does not set the mode for the Brazilian Portuguese speller. To set Brazilian Portuguese speller modes, use the [Options.BrazilReform](Word.Options.BrazilReform.md) property.
+> [!NOTE] 
+> This property does not set the mode for the Brazilian Portuguese speller. To set Brazilian Portuguese speller modes, use the [Options.BrazilReform](Word.Options.BrazilReform.md) property.
 
 
 ## See also

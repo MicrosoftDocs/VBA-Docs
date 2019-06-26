@@ -82,34 +82,26 @@ End If
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Copy](Word.Bookmark.Copy.md)|
-|[Delete](Word.Bookmark.Delete.md)|
-|[Select](Word.Bookmark.Select.md)|
+- [Copy](Word.Bookmark.Copy.md)
+- [Delete](Word.Bookmark.Delete.md)
+- [Select](Word.Bookmark.Select.md)
 
 ## Properties
 
+- [Application](Word.Bookmark.Application.md)
+- [Column](Word.Bookmark.Column.md)
+- [Creator](Word.Bookmark.Creator.md)
+- [Empty](Word.Bookmark.Empty.md)
+- [End](Word.Bookmark.End.md)
+- [Name](Word.Bookmark.Name.md)
+- [Parent](Word.Bookmark.Parent.md)
+- [Range](Word.Bookmark.Range.md)
+- [Start](Word.Bookmark.Start.md)
+- [StoryType](Word.Bookmark.StoryType.md)
 
-
-|Name|
-|:-----|
-|[Application](Word.Bookmark.Application.md)|
-|[Column](Word.Bookmark.Column.md)|
-|[Creator](Word.Bookmark.Creator.md)|
-|[Empty](Word.Bookmark.Empty.md)|
-|[End](Word.Bookmark.End.md)|
-|[Name](Word.Bookmark.Name.md)|
-|[Parent](Word.Bookmark.Parent.md)|
-|[Range](Word.Bookmark.Range.md)|
-|[Start](Word.Bookmark.Start.md)|
-|[StoryType](Word.Bookmark.StoryType.md)|
 
 ## See also
 
-
-[Word Object Model Reference](overview/Word/object-model.md)
+- [Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

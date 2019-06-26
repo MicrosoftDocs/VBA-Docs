@@ -21,7 +21,7 @@ Toggles the state of a task between inactive and active.
 
 _expression_. `InactivateTaskToggle`( `_MakeActive_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

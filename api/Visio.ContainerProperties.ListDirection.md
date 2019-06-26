@@ -19,9 +19,9 @@ Determines the primary list direction of the container shapes. Read/write.
 
 ## Syntax
 
-_expression_. `ListDirection`
+_expression_.**ListDirection**
 
- _expression_ An expression that returns a **[ContainerProperties](Visio.ContainerProperties.md)** object.
+_expression_ An expression that returns a **[ContainerProperties](Visio.ContainerProperties.md)** object.
 
 
 ## Return value

@@ -18,7 +18,7 @@ Deletes the deliverable.
 
 _expression_. `DeliverableDelete`( `_DeliverableGuid_` )
 
-_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a **[Project](project.project.md)** object.
 
 
 ## Parameters

@@ -14,19 +14,19 @@ localization_priority: Normal
 
 # Application.ActiveExplorer method (Outlook)
 
-Returns the topmost  **[Explorer](Outlook.Explorer.md)** object on the desktop.
+Returns the topmost **[Explorer](Outlook.Explorer.md)** object on the desktop.
 
 
 ## Syntax
 
 _expression_. `ActiveExplorer`
 
-_expression_ A variable that represents an [Application](Outlook.Application.md) object.
+_expression_ A variable that represents an **[Application](Outlook.Application.md)** object.
 
 
 ## Return value
 
-An  **Explorer** that represents the topmost explorer on the desktop. Returns **Nothing** if no explorer is active.
+An **Explorer** that represents the topmost explorer on the desktop. Returns **Nothing** if no explorer is active.
 
 
 ## Remarks
@@ -36,10 +36,11 @@ An  **Explorer** that represents the topmost explorer on the desktop. Returns **
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example uses the  **[Count](Outlook.Selection.Count.md)** property and **[Item](Outlook.Selection.Item.md)** method of the **[Selection](Outlook.Selection.md)** collection returned by the **Selection** property to display the senders of all mail items selected in the active explorer window. To run this example, you need to have at least one mail item selected in the active Explorer window.
+The following Microsoft Visual Basic for Applications (VBA) example uses the **[Count](Outlook.Selection.Count.md)** property and **[Item](Outlook.Selection.Item.md)** method of the **[Selection](Outlook.Selection.md)** collection returned by the **Selection** property to display the senders of all mail items selected in the active explorer window. To run this example, you need to have at least one mail item selected in the active Explorer window.
 
 
- **Note**  You might receive an error if you select items other than a mail item such as task request as the  **SenderName** property does not exist for a **TaskRequestItem** object.
+> [!NOTE] 
+> You might receive an error if you select items other than a mail item such as task request as the **SenderName** property does not exist for a **TaskRequestItem** object.
 
 
 ```vb

@@ -20,7 +20,8 @@ _expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 ## Remarks
 
 
- **Note**  You cannot apply 3D formatting to some kinds of shapes, such as beveled shapes or multiple disjointed paths. Most of the properties and methods of the  **ThreeDFormat** object fail for such shapes.
+> [!NOTE] 
+> You cannot apply 3D formatting to some kinds of shapes, such as beveled shapes or multiple disjointed paths. Most of the properties and methods of the  **ThreeDFormat** object fail for such shapes.
 
 
 ## Property value

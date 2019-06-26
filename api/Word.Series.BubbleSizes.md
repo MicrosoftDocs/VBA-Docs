@@ -29,7 +29,8 @@ _expression_ A variable that represents a '[Series](Word.Series.md)' object.
  When you return the cell reference, it will return a string that describes the cells in A1-style notation. To set the size data for the bubble chart, you must use R1C1-style notation.
 
 
- **Note**  This property applies only to bubble charts.
+> [!NOTE] 
+> This property applies only to bubble charts.
 
 
 ## Example

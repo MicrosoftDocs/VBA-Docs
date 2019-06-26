@@ -54,7 +54,8 @@ If Err = 5852 Then MsgBox _
 Use the  **Insert** method to add an envelope to the specified document. Use the **PrintOut** method to set the properties of an envelope and print it without adding it to the document.
 
 
- **Note**  There is no Envelopes collection; each  **Document** object contains only one **Envelope** object.
+> [!NOTE] 
+> There is no Envelopes collection; each  **Document** object contains only one **Envelope** object.
 
 
 ## See also

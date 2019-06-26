@@ -33,7 +33,8 @@ _expression_. `ProtectedViewWindowBeforeClose`( `_PvWindow_` , `_CloseReason_` ,
 | _PvWindow_|Required| **ProtectedViewWindow**|The Protected View window that is closed.|
 | _CloseReason_|Required| **[INT]**|A constant in the [WdProtectedViewCloseReason](Word.WdProtectedViewCloseReason.md) enumeration that specifies the reason the Protected View window is closed.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the window does not close when the procedure is finished.
- **Note**  If the  **ProtectedViewWindowsBeforeClose** event is called as part of the [ProtectedView.Edit](Word.ProtectedViewWindow.Edit.md) method, setting _Cancel_ to **True** produces no action.
+> [!NOTE] 
+> If the  **ProtectedViewWindowsBeforeClose** event is called as part of the [ProtectedView.Edit](Word.ProtectedViewWindow.Edit.md) method, setting _Cancel_ to **True** produces no action.
 
 |
 

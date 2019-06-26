@@ -18,6 +18,6 @@ Gets the name of the active group for the active project. Read-only  **String**.
 
 _expression_. `CurrentGroup`
 
-_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a **[Project](project.project.md)** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

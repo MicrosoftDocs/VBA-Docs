@@ -21,7 +21,7 @@ Opens a project from a task list in SharePoint 2013.
 
 _expression_. `OpenFromSharePoint`( `_SiteURL_`, `_ListName_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -41,7 +41,8 @@ _expression_. `OpenFromSharePoint`( `_SiteURL_`, `_ListName_` )
 ## Remarks
 
 
- **Note**  Project must not be connected to a Project Server instance. Synchronization with SharePoint task lists is designed for users who do not have access to Project Server.
+> [!NOTE] 
+> Project must not be connected to a Project Server instance. Synchronization with SharePoint task lists is designed for users who do not have access to Project Server.
 
 
 ## Example

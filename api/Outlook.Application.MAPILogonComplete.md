@@ -21,7 +21,7 @@ Occurs after the user has logged onto the system.
 
 _expression_. `MAPILogonComplete`
 
-_expression_ A variable that represents an [Application](Outlook.Application.md) object.
+_expression_ A variable that represents an **[Application](Outlook.Application.md)** object.
 
 
 ## Example

@@ -19,19 +19,17 @@ Returns an integer that represents the spatial relationship of one shape to anot
 
 ## Syntax
 
-_expression_. `SpatialRelation`( `_OtherShape_` , `_Tolerance_` , `_Flags_` )
+_expression_.**SpatialRelation** (_OtherShape_, _Tolerance_, _Flags_)
 
 _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _OtherShape_|Required| **[IVSHAPE]**|The other  **Shape** object involved in the comparison.|
-| _Tolerance_|Required| **Double**|A distance in internal drawing units with respect to the coordinate space defined by the  **Shape** object's parent.|
+| _OtherShape_|Required| **[IVSHAPE]**|The other **Shape** object involved in the comparison.|
+| _Tolerance_|Required| **Double**|A distance in internal drawing units with respect to the coordinate space defined by the **Shape** object's parent.|
 | _Flags_|Required| **Integer**|Flags that influence the result. See Remarks for the values of this argument.|
 
 ## Return value
@@ -41,13 +39,12 @@ Integer
 
 ## Remarks
 
-
-- The integer returned can be any combination of the values defined in  **[VisSpatialRelationCodes](Visio.visspatialrelationcodes.md)** in the Visio type library. The **SpatialRelation** property returns zero (0) if the two shapes being compared are not in any of the relationships discussed in the table in the **[VisSpatialRelationCodes](Visio.visspatialrelationcodes.md)** topic.
+The integer returned can be any combination of the values defined in **[VisSpatialRelationCodes](Visio.visspatialrelationcodes.md)** in the Visio type library. The **SpatialRelation** property returns zero (0) if the two shapes being compared are not in any of the relationships discussed in the table in the **[VisSpatialRelationCodes](Visio.visspatialrelationcodes.md)** topic.
     
-- The Flags argument can be any combination of the values of the constants defined in the following table. These constants are declared in  **VisSpatialRelationFlags** in the Visio type library. Use the NoShow cell to determine whether a Geometry section is hidden or visible. Hidden Geometry sections have a value of TRUE and visible Geometry sections have a value of FALSE in the NoShow cell.
+The _Flags_ argument can be any combination of the values of the constants defined in the following table. These constants are declared in **VisSpatialRelationFlags** in the Visio type library. Use the NoShow cell to determine whether a Geometry section is hidden or visible. Hidden Geometry sections have a value of TRUE and visible Geometry sections have a value of FALSE in the NoShow cell.
     
 
-|** Constant**|** Value**|** Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSpatialIncludeContainerShapes**|&H80|Include containers. By default, containers are not included.|
 | **visSpatialIncludeDataGraphics**|&H40|Includes data graphic callout shapes and their sub-shapes. By default, data graphic callout shapes and their subshapes are not included. If the parent shape is itself a data graphic callout, searches are made between the parent shape's geometry and non-callout shapes, unless this flag is set.|
@@ -55,17 +52,15 @@ Integer
 | **visSpatialIncludeHidden**|&H10|Reserved for future use. Do not use.|
 | **visSpatialIgnoreVisible**|&H20|Does not consider visible Geometry sections. By default, visible Geometry sections influence the result.|
 
- **Note**   When it compares two shapes, the **SpatialRelation** property does not consider the width of a shape's line, shadows, line ends, control points, or connection points.
+> [!NOTE] 
+>  When it compares two shapes, the **SpatialRelation** property does not consider the width of a shape's line, shadows, line ends, control points, or connection points.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example shows how to use the  **SpatialRelation** property in an event handler for the **ShapeAdded** event to determine the spatial relationship between shapes.
+This Microsoft Visual Basic for Applications (VBA) example shows how to use the **SpatialRelation** property in an event handler for the **ShapeAdded** event to determine the spatial relationship between shapes.
 
 Before adding the following code to your VBA project, make sure there is at least one shape on the drawing page. Then, after adding the code, add another shape to your drawing.
-
-
-
 
 ```vb
 Public Sub Document_ShapeAdded(ByVal Shape As IVShape) 

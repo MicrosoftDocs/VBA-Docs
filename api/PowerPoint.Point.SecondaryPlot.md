@@ -34,7 +34,8 @@ This property applies only to points on pie-of-pie charts or bar-of-pie charts.
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example moves point four to the secondary section of the chart. You must run this example on either a pie-of-pie chart or a bar-of-pie chart. 
 

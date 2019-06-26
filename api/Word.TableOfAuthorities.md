@@ -41,7 +41,8 @@ ActiveDocument.TablesOfAuthorities.Add Range:=myRange, _
 ```
 
 
- **Note**  A table of authorities is built from TA (Table of Authorities Entry) fields in a document. Use the  **MarkCitation** method to mark citations to be included in a table of authorities.
+> [!NOTE] 
+> A table of authorities is built from TA (Table of Authorities Entry) fields in a document. Use the  **MarkCitation** method to mark citations to be included in a table of authorities.
 
 
 ## See also

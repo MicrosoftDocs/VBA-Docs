@@ -21,7 +21,7 @@ Occurs before the  **Sharing** dialog box is displayed for a selected **[Folder]
 
 _expression_. `BeforeFolderSharingDialog`( `_FolderToShare_` , `_Cancel_` )
 
- _expression_ An expression that returns a [Application](Outlook.Application.md) object.
+ _expression_ An expression that returns an **[Application](Outlook.Application.md)** object.
 
 
 ## Parameters

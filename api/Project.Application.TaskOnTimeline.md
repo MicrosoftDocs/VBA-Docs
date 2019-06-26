@@ -21,7 +21,7 @@ Manages tasks on the Timeline pane or for a specified custom timeline.
 
 _expression_. `TaskOnTimeline`( `_TaskID_`, `_Remove_`, `_TimelineViewName_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

@@ -31,7 +31,8 @@ This property applies only to line charts.
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example enables up and down bars for chart group one of the first chart in the active document and then sets their colors. You should run the example on a 2D line chart that contains two series that cross each other at one or more data points.
 

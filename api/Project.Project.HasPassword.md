@@ -18,7 +18,7 @@ localization_priority: Normal
 
 _expression_. `HasPassword`
 
-_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a **[Project](project.project.md)** object.
 
 
 ## Remarks
@@ -26,7 +26,8 @@ _expression_ A variable that represents a [Project](./Project(enumerations).md) 
 
 
 
- **Note**  Project can open project files stored in an ODBC database that have a password, but cannot save files to a database. 
+> [!NOTE] 
+> Project can open project files stored in an ODBC database that have a password, but cannot save files to a database. 
 
 
 ## Example

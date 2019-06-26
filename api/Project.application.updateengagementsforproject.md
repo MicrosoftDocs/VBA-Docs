@@ -12,18 +12,18 @@ localization_priority: Normal
 
 # Application.UpdateEngagementsForProject method (Project)
 
-Update the Engagements for a Project. Introduced in Office 2016.
+Update the engagements for a Project. Introduced in Office 2016.
 
 
 ## Syntax
 
-_expression_. `UpdateEngagementsForProject`
+_expression_.**UpdateEngagementsForProject**
 
-_expression_ A variable that represents a [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Return value
 
- **BOOL**
+**BOOL**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

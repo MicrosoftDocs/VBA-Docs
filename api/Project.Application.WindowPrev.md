@@ -21,7 +21,7 @@ Activates the window that was previously opened.
 
 _expression_. `WindowPrev`( `_NoWrap_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

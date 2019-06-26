@@ -21,7 +21,7 @@ Sets the internal XML value for a custom ribbon user interface of the project.
 
 _expression_. `SetCustomUI`( `_CustomUIXML_` )
 
- _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
+ _expression_ An expression that returns a **[Project](project.project.md)** object.
 
 
 ## Parameters
@@ -42,7 +42,8 @@ _expression_. `SetCustomUI`( `_CustomUIXML_` )
 Because Project uses a binary file format, the **SetCustomUI** method is required for programmatically customizing the ribbon.
 
 
- **Note**  The **SetCustomUI** method affects all customizations within the scope of the project. For example, if there is an existing customization in the enterprise global project or the local Global.mpt project, to make an additional customization, you must include the existing XML definition in the CustomUIXML argument.
+> [!NOTE] 
+> The **SetCustomUI** method affects all customizations within the scope of the project. For example, if there is an existing customization in the enterprise global project or the local Global.mpt project, to make an additional customization, you must include the existing XML definition in the CustomUIXML argument.
 
 The  _CustomUIXML_ value must be valid XML for Microsoft Office custom ribbon content. The XML value must begin with the **mso:customUI** element, followed by the **mso:ribbon** element. If the **mso:ribbon** element is empty, **SetCustomUI** removes ribbon customizations.
 

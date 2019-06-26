@@ -21,7 +21,7 @@ Gets or sets a  **[Calendars](Project.Calendar.md)** collection representing the
 
 _expression_. `GlobalBaseCalendars`
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Remarks
@@ -36,7 +36,8 @@ To enable creating local base calendars in an enterprise project, check  **Allow
 The following example creates a local base calendar and then imports the calendar to the enterprise global template.
 
 
- **Note**  The  **GlobalBaseCalendars** property is the collection of calendars in the local Global.mpt file, not in the enterprise global template.
+> [!NOTE] 
+> The  **GlobalBaseCalendars** property is the collection of calendars in the local Global.mpt file, not in the enterprise global template.
 
 
 ```vb

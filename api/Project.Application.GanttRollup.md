@@ -21,7 +21,7 @@ Specifies the rollup behavior of bars on the Gantt Chart.
 
 _expression_. `GanttRollup`( `_AlwaysRollup_`, `_HideWhenSummaryExpanded_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

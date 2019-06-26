@@ -29,11 +29,19 @@ Set objBreaks = ActiveDocument.ActiveWindow _
  .Panes(1).Pages(1).Breaks
 ```
 
+## Methods
+
+- [Item](Word.Breaks.Item.md)
+
+## Properties
+
+- [Application](Word.Breaks.Application.md)
+- [Count](Word.Breaks.Count.md)
+- [Creator](Word.Breaks.Creator.md)
+- [Parent](Word.Breaks.Parent.md)
 
 ## See also
 
-
-
-[Word Object Model Reference](overview/Word/object-model.md)
+- [Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

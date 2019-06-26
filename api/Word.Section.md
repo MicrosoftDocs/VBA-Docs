@@ -51,7 +51,8 @@ Selection.Paragraphs(1).Range.InsertBreak _
 ```
 
 
- **Note**  The  **Headers** and **Footers** properties of the specified **Section** object return a **HeadersFooters** object.
+> [!NOTE] 
+> The  **Headers** and **Footers** properties of the specified **Section** object return a **HeadersFooters** object.
 
 
 ## Properties

@@ -24,17 +24,6 @@ _expression_.**Type**
 _expression_ Required. A variable that represents a '[MailMergeField](Word.MailMergeField.md)' object.
 
 
-## Remarks
 
-
- **Security Note**  
-
-
-
-
-## See also
-
-
-[MailMergeField Object](Word.MailMergeField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

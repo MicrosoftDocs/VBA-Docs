@@ -70,6 +70,7 @@ A nonpersistent event exists as long as a reference is held on the  **Event** ob
 You can change the initial setting for a persistable event by setting its  **Persistent** property to **False**. In this case, the event doesn't persist with its document, even though it could. However, you cannot change the **Persistent** property of a nonpersistent event; attempting to do so will cause an exception.
 
 
- **Note**  Events handled in a Microsoft Visual Basic for Applications (VBA) project are persistent.
+> [!NOTE] 
+> Events handled in a Microsoft Visual Basic for Applications (VBA) project are persistent.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

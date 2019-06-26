@@ -31,7 +31,8 @@ You can use this method on column, bar, line, or radar charts, and it sets the  
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example pastes a picture from the Clipboard into series one for the first chart in the active document.
 

@@ -17,7 +17,7 @@ Makes a copy of the active report to the clipboard.
 
 _expression_. `CopyReport`
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Return value

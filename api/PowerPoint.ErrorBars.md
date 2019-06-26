@@ -29,7 +29,8 @@ The  **[ErrorBar](PowerPoint.Series.ErrorBar.md)** method changes the error bar 
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 Use the  **[ErrorBars](PowerPoint.Series.ErrorBars.md)** property to return the **ErrorBars** object. The following example enables error bars for series one of the first chart in the active document and then sets the end style for the error bars.
 

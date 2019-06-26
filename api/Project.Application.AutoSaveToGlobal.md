@@ -21,7 +21,7 @@ Specifies whether to automatically add new views, field templates, filters, and 
 
 _expression_. `AutoSaveToGlobal`( `_OnOff_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -42,7 +42,8 @@ _expression_. `AutoSaveToGlobal`( `_OnOff_` )
 If  **AutoSaveToGlobal** is off, you can manually save views, groups, and other items to the global template by using the **Organizer** dialog box. Click the **Office Button**, click the  **Info** tab, and then click **Manage Global Template**.
 
 
- **Note**  If  **AutoSaveToGlobal** successfully runs, it always returns **True**.
+> [!NOTE] 
+> If  **AutoSaveToGlobal** successfully runs, it always returns **True**.
 
 To see the results, run  `AutoSaveToGlobal OnOff:=True` in the **Immediate** pane of the VBE, and then create and save a view. For example, do the following:
 

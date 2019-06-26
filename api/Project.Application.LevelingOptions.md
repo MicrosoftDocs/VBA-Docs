@@ -21,7 +21,7 @@ Specifies leveling options for the active project.
 
 _expression_. `LevelingOptions`( `_Automatic_`, `_DelayInSlack_`, `_AutoClearLeveling_`, `_Order_`, `_LevelEntireProject_`, `_FromDate_`, `_ToDate_`, `_PeriodBasis_`, `_LevelIndividualAssignments_`, `_LevelingCanSplit_`, `_LevelProposedBookings_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

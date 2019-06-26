@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a '[Pane](Word.Pane.md)' objec
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Velocity_|Required| **Long**|The speed for scrolling. Can be a number from ? 100 through 100. Use ? 100 for full-speed backward scrolling, and use 100 for full-speed forward scrolling.|
+| _Velocity_|Required| **Long**|The speed for scrolling. Can be a number from -100 through 100. Use -100 for full-speed backward scrolling, and use 100 for full-speed forward scrolling.|
 
 ## Remarks
 

@@ -12,23 +12,16 @@ localization_priority: Normal
 
 # LookupTable object (Project)
 
+Represents a lookup table collection in Project. The **[LookupTableEntry](./Project.LookupTableEntry.md)** object is a member of the **LookupTable** collection.
 
-
-Represents a lookup table collection in Project. The  **[LookupTableEntry](./Project.LookupTableEntry.md)** object is a member of the **LookupTable** collection.
- **Using the LookupTable Object**
-The following example adds three level entries to a lookup table, where the third level entry is set with three values.
 
 ## Methods
-
-
 
 |Name|
 |:-----|
 |[AddChild](./Project.LookupTable.AddChild.md)|
 
 ## Properties
-
-
 
 |Name|
 |:-----|

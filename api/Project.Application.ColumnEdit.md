@@ -21,7 +21,7 @@ Displays the  **Column Definition** dialog box for the specified column.
 
 _expression_. `ColumnEdit`( `_Column_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

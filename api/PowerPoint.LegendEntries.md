@@ -38,7 +38,8 @@ The formatting properties for the entry marker and its associated series or tren
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 Use the  **[LegendEntries](PowerPoint.Legend.LegendEntries.md)** method to return the **LegendEntries** collection. The following example loops through the collection of legend entries for the first chart in the active document and changes their font color.
 
@@ -70,7 +71,8 @@ End With
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 Use  **[LegendEntries](PowerPoint.Legend.LegendEntries.md)** (_index_), where _index_ is the legend entry index number, to return a single **LegendEntry** object. You cannot return legend entries by name.
 

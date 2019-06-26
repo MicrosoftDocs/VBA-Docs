@@ -38,7 +38,8 @@ _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** o
 
 
 
- **Note**  You can also use the  **[Visible](Outlook.OutlookBarPane.Visible.md)** property of the **[OutlookBarPane](Outlook.OutlookBarPane.md)** object to display or hide the Outlook Bar.
+> [!NOTE] 
+> You can also use the  **[Visible](Outlook.OutlookBarPane.Visible.md)** property of the **[OutlookBarPane](Outlook.OutlookBarPane.md)** object to display or hide the Outlook Bar.
 
 
 ## Example

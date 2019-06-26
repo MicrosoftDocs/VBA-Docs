@@ -34,7 +34,8 @@ If you are authoring XML schemas for use with Microsoft Word, it is highly recom
 The following example reloads the SimpleSample schema or, if the schema is not attached to the active document, attaches it.
 
 
- **Note**  The SimpleSample schema is included in the Smart Document Software Development Kit (SDK). For more information, refer to the Smart Document SDK on the Microsoft Developer Network (MSDN) Web site.
+> [!NOTE] 
+> The SimpleSample schema is included in the Smart Document Software Development Kit (SDK). For more information, refer to the Smart Document SDK on the Microsoft Developer Network (MSDN) Web site.
 
 
 ```vb

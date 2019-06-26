@@ -34,7 +34,8 @@ Changing this property may affect other  **ChartFont** properties (such as **[Bo
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the font style for the title of the first chart in the active document to bold and italic.
 

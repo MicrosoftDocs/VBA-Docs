@@ -19,14 +19,12 @@ Creates a Microsoft Word document that uses a table to store data for a mail mer
 
 ## Syntax
 
-_expression_. `CreateDataSource`( `_Name_` , `_PasswordDocument_` , `_WritePasswordDocument_` , `_HeaderRecord_` , `_MSQuery_` , `_SQLStatement_` , `_SQLStatement1_` , `_Connection_` , `_LinkToSource_` )
+_expression_.**CreateDataSource** (_Name_, _PasswordDocument_, _WritePasswordDocument_, _HeaderRecord_, _MSQuery_, _SQLStatement_, _SQLStatement1_, _Connection_, _LinkToSource_)
 
-_expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
+_expression_ Required. A variable that represents a **[MailMerge](Word.MailMerge.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -42,7 +40,8 @@ _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.
 
 ## Security
 
-Avoid using hard-coded passwords in your applications. If a password is required in a procedure, request the password from the user, store it in a variable, and then use the variable in your code. For recommended best practices on how to do this, see [Security Notes for Microsoft Office Solution Developers](https://msdn.microsoft.com/library/office/ff860261.aspx). 
+> [!IMPORTANT] 
+> Avoid using hard-coded passwords in your applications. If a password is required in a procedure, request the password from the user, store it in a variable, and then use the variable in your code. For recommended best practices on how to do this, see [Security notes for Office solution developers](../Library-Reference/Concepts/security-notes-for-microsoft-office-solution-developers.md). 
 
 
 ## Remarks
@@ -51,21 +50,16 @@ When you use the  **CreateDataSource** method, Word attaches the new data source
 
 How you specify the range for the Connection argument depends on how data is retrieved. For example:
 
-
 - When retrieving data through ODBC, you specify a connection string.
     
 - When retrieving data from Microsoft Office Excel using dynamic data exchange (DDE), you specify a named range. 
- **Security Note**  
-
-
-    
+ 
 - When retrieving data from Microsoft Office Access, you specify the word "Table" or "Query" followed by the name of a table or query.
     
 
 ## Example
 
 This example creates a new data source document named "Data.doc" and attaches the data source to the active document. The new data source includes a five-column table that has the field names specified by the HeaderRecord argument.
-
 
 ```vb
 ActiveDocument.MailMerge.CreateDataSource _ 
@@ -74,9 +68,5 @@ ActiveDocument.MailMerge.CreateDataSource _
 ```
 
 
-## See also
-
-
-[MailMerge Object](Word.MailMerge.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

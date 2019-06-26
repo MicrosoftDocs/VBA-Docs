@@ -18,7 +18,7 @@ Deletes the dependency on the deliverable.
 
 _expression_. `DeliverableDependencyDelete`( `_DeliverableGuid_` )
 
-_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a **[Project](project.project.md)** object.
 
 
 ## Parameters

@@ -19,9 +19,9 @@ Searches for an unfiltered value in a specified field or in all available fields
 
 ## Syntax
 
-_expression_.**FindEx** (**_Field_**, **_Test_**, **_Value_**, **_Next_**, **_MatchCase_**, **_FieldID_**, **_TestID_**, **_SearchAllFields_**)
+_expression_.**FindEx** (_Field_, _Test_, _Value_, _Next_, _MatchCase_, _FieldID_, _TestID_, _SearchAllFields_)
 
-_expression_ An expression that returns an **Application** object.
+_expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -41,7 +41,7 @@ _expression_ An expression that returns an **Application** object.
 
 ### Comparison strings
 
-|**Comparison string**|**Description**|
+|Comparison string|Description|
 |:-----|:-----|
 |"equals"|The value of _Field_ equals _Value_.|
 |"does not equal"|The value of _Field_ does not equal _Value_.|

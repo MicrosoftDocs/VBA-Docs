@@ -28,6 +28,7 @@ The  **Type** property for a task can be one of the following **[PjTaskFixedType
 
 
 
- **Note**  Although the task type can be set for automatically scheduled tasks in the  **Task Information** dialog box, the **Task type** drop-down list is disabled for manually scheduled tasks. However, you can programmatically change the task type for manually scheduled tasks. The **Task.Type** property is read/write for both manually scheduled and automatically scheduled tasks.
+> [!NOTE] 
+> Although the task type can be set for automatically scheduled tasks in the  **Task Information** dialog box, the **Task type** drop-down list is disabled for manually scheduled tasks. However, you can programmatically change the task type for manually scheduled tasks. The **Task.Type** property is read/write for both manually scheduled and automatically scheduled tasks.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

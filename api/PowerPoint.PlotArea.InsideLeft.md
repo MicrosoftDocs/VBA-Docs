@@ -34,7 +34,8 @@ The plot area used for this measurement does not include the axis labels. The  *
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example draws a dotted rectangle around the inside of the plot area for the first chart in the active document.
 

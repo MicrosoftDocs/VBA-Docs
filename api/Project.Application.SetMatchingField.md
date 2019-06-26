@@ -19,9 +19,9 @@ Sets the value in the field of selected tasks or resources that meet the specifi
 
 ## Syntax
 
-_expression_.**SetMatchingField** (**_Field_**, **_Value_**, **_CheckField_**, **_CheckValue_**, **_CheckTest_**, **_CheckOperation_**, **_CheckField2_**, **_CheckValue2_**, **_CheckTest2_**)
+_expression_.**SetMatchingField** (_Field_, _Value_, _CheckField_, _CheckValue_, _CheckTest_, _CheckOperation_, _CheckField2_, _CheckValue2_, _CheckTest2_)
 
-_expression_ A variable that represents an **Application** object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -42,7 +42,7 @@ _expression_ A variable that represents an **Application** object.
 
 ### Comparison strings
 
-|**Comparison string**|**Description**|
+|Comparison string|Description|
 |:-----|:-----|
 |"equals"|The value of _CheckField_ equals _CheckValue_.|
 |"does not equal"|The value of _CheckField_ does not equal _CheckValue_.|

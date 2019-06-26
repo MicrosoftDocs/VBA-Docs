@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.QueryCancelGroup event (Visio)
 
-Occurs before the application groups a selection of shapes in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
+Occurs before the application groups a selection of shapes in response to a user action in the interface. If any event handler returns **True**, the operation is canceled.
 
 
 ## Syntax
@@ -31,14 +31,14 @@ _expression_ A variable that represents an **[Application](Visio.Application.md)
 
 ## Remarks
 
-A Microsoft Visio instance fires  **QueryCancelGroup** after the user has directed the instance to group a selection of shapes.
+A Microsoft Visio instance fires **QueryCancelGroup** after the user has directed the instance to group a selection of shapes.
 
 
 
 
-- If any event handler returns  **True** (cancel), the instance fires **GroupCanceled** and does not group the shapes.
+- If any event handler returns **True** (cancel), the instance fires **GroupCanceled** and does not group the shapes.
     
-- If all handlers return  **False** (do not cancel), the grouping is performed.
+- If all handlers return **False** (do not cancel), the grouping is performed.
     
 
 

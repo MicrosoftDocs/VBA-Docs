@@ -17,7 +17,8 @@ localization_priority: Normal
 Contains print options for a presentation.
 
 
- **Note**  Specifying the optional arguments From, To, Copies, and Collate for the  **[PrintOut](PowerPoint.Presentation.PrintOut.md)** method sets the corresponding properties of the **PrintOptions** object.
+> [!NOTE] 
+> Specifying the optional arguments From, To, Copies, and Collate for the  **[PrintOut](PowerPoint.Presentation.PrintOut.md)** method sets the corresponding properties of the **PrintOptions** object.
 
 
 ## Example

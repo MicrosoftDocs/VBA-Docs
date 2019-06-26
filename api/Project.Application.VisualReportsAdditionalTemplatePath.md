@@ -21,7 +21,7 @@ Gets or sets the additional path for Visual Reports templates. Read/write  **Str
 
 _expression_. `VisualReportsAdditionalTemplatePath`
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Remarks
@@ -31,7 +31,8 @@ The  **Include report templates from** text box in the **Visual Reports - Create
 To clear the additional path and template name, use an empty string ("").
 
 
- **Note**  When you set a path value with the  **VisualReportsAdditionalTemplatePath** property, Project does not check whether the path exists.
+> [!NOTE] 
+> When you set a path value with the  **VisualReportsAdditionalTemplatePath** property, Project does not check whether the path exists.
 
 
 ## Example

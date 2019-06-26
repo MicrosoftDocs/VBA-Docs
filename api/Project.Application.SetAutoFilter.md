@@ -18,9 +18,9 @@ Sets the criteria for an AutoFilter for a specified field in a sheet view.
 
 ## Syntax
 
-_expression_.**SetAutoFilter** (**_FieldName_**, **_FilterType_**, **_Test1_**, **_Criteria1_**, **_Operation_**, **_Test2_**, **_Criteria2_**)
+_expression_.**SetAutoFilter** (_FieldName_, _FilterType_, _Test1_, _Criteria1_, _Operation_, _Test2_, _Criteria2_)
 
-_expression_ An expression that returns an **Application** object.
+_expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -39,7 +39,7 @@ _expression_ An expression that returns an **Application** object.
 
 ### Comparison strings
 
-|**Comparison string**|**Description**|
+|Comparison string|Description|
 |:-----|:-----|
 |"equals"|The value of _FieldName_ equals _Criteria1_.|
 |"does not equal"|The value of _FieldName_ does not equal _Criteria1_.|

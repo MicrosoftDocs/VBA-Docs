@@ -49,7 +49,8 @@ If the series is on an area chart and has the  **Show Label** option turned on f
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the data labels for series one for the first chart in the active document to show their key, assuming that their values are visible when the example runs.
 

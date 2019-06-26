@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartData.Workbook property (PowerPoint)
 
-Returns the workbook that contains the chart data associated with the chart. Read-only  **Object**.
+Returns the workbook that contains the chart data associated with the chart. Read-only **Object**.
 
 
 ## Syntax
@@ -29,7 +29,8 @@ _expression_ A variable that represents a '[ChartData](PowerPoint.ChartData.md)'
 
 
 
- **Note**  You must call the  **[Activate](PowerPoint.ChartData.Activate.md)** method before referencing this property; otherwise, an error occurs.
+> [!NOTE] 
+> You must call the **[Activate](PowerPoint.ChartData.Activate.md)** method before referencing this property; otherwise, an error occurs.
 
 
 ## Example
@@ -37,12 +38,14 @@ _expression_ A variable that represents a '[ChartData](PowerPoint.ChartData.md)'
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example activates the Microsoft Excel workbook associated with the first chart in the active document. If the Excel workbook has multiple windows, the example activates the first window. The example then copies the contents of cells B1 through B5 and pastes the cell contents into the chart.
 
 
- **Note**  Excel must be open to modify data in the workbook.
+> [!NOTE] 
+> Excel must be open to modify data in the workbook.
 
 
 

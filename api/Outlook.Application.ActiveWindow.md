@@ -21,7 +21,7 @@ Returns an object representing the current Microsoft Outlook window on the deskt
 
 _expression_.**ActiveWindow**
 
-_expression_ A variable that represents an [Application](Outlook.Application.md) object.
+_expression_ A variable that represents an **[Application](Outlook.Application.md)** object.
 
 
 ## Return value

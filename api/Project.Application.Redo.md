@@ -21,7 +21,7 @@ Executes a redo action on items in the  **Redo** list.
 
 _expression_.**Redo** (_HowManyRedos_)
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

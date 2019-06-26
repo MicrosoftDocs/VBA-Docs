@@ -26,8 +26,6 @@ _expression_ A variable that represents a '[Global](Word.Global.md)' object. Opt
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Channel_|Required| **Long**|The channel number returned by the  **DDEInitiate** method.|
@@ -35,11 +33,6 @@ _expression_ A variable that represents a '[Global](Word.Global.md)' object. Opt
 | _Data_|Required| **String**|The data to be sent to the receiving application (the DDE server).|
 
 ## Remarks
-
-
- **Security Note**  
-
-
 
 If the  **DDEPoke** method isn't successful, an error occurs.
 

@@ -18,7 +18,7 @@ Returns the date and time that precedes another date by a specified duration, fo
 
 _expression_. `DateSubtract`( `_FinishDate_`, `_Duration_`, `_Calendar_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

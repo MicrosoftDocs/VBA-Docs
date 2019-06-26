@@ -29,7 +29,8 @@ _expression_ Required. A variable that represents a '[View](Word.View.md)' objec
 If the view displays a header, this method moves to the previous header within the current section (for example, from an even header to an odd header) or to the last header in the previous section. If the view displays a footer, this method moves to the previous footer.
 
 
- **Note**  If the view displays the first header or footer in the first section of the document, or if it is not displaying a header or footer at all, an error occurs.
+> [!NOTE] 
+> If the view displays the first header or footer in the first section of the document, or if it is not displaying a header or footer at all, an error occurs.
 
 
 ## Example

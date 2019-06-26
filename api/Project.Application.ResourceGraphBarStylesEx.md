@@ -21,7 +21,7 @@ Sets the styles of bars on the Resource Graph view, where colors can be hexadeci
 
 _expression_. `ResourceGraphBarStylesEx`( `_TopLeftShowAs_`, `_TopLeftColor_`, `_TopLeftPattern_`, `_BottomLeftShowAs_`, `_BottomLeftColor_`, `_BottomLeftPattern_`, `_TopRightShowAs_`, `_TopRightColor_`, `_TopRightPattern_`, `_BottomRightShowAs_`, `_BottomRightColor_`, `_BottomRightPattern_`, `_ShowValues_`, `_ShowAvailabilityLine_`, `_PercentBarOverlap_`, `_ProposedLeftShowAs_`, `_ProposedLeftColor_`, `_ProposedLeftPattern_`, `_ProposedRightShowAs_`, `_ProposedRightColor_`, `_ProposedRightPattern_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -64,7 +64,8 @@ Using the  **ResourceGraphBarStylesEx** method without specifying any arguments 
 
 
 
- **Note**  If you use any of the  **PjColor** enumeration constants for the color parameters, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the ResourceGraphBarStylesEx method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[ResourceGraphBarStyles](Project.Application.ResourceGraphBarStyles.md)** method.
+> [!NOTE] 
+> If you use any of the  **PjColor** enumeration constants for the color parameters, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the ResourceGraphBarStylesEx method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[ResourceGraphBarStyles](Project.Application.ResourceGraphBarStyles.md)** method.
 
 
 ## Example

@@ -14,7 +14,8 @@ Represents a report in Project that can contain Office Art objects such as a  **
 ## Remarks
 
 
- **Note**  Macro recording for the  **Report** object is not implemented. That is, when you record a macro in Project and manually add a report or edit a report, the steps for adding and editing the report are not recorded.
+> [!NOTE] 
+> Macro recording for the  **Report** object is not implemented. That is, when you record a macro in Project and manually add a report or edit a report, the steps for adding and editing the report are not recorded.
  
 
 

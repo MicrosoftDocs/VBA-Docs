@@ -21,7 +21,7 @@ Sets the width of a column to the width of its widest item.
 
 _expression_. `ColumnBestFit`( `_Column_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

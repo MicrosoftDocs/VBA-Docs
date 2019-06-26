@@ -21,7 +21,7 @@ Sets the border color for the assignment segments of a selected task in the Team
 
 _expression_. `SegmentBorderColor`( `_Color_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

@@ -18,7 +18,7 @@ Gets or sets text in the status bar. Read/write  **Variant**.
 
 _expression_. `StatusBar`
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Remarks

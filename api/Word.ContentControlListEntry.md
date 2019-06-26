@@ -22,7 +22,8 @@ A  **ContentControlListEntry** object represents a list item in a drop-down list
 Use the  **[Add](Word.ContentControlListEntries.Add.md)** method of the **ContentControlListEntries** collection to create a new **ContentControlListEntry** object. Use the **[Item](overview/Word.md)** method, or **[DropdownListEntries](Word.ContentControl.DropdownListEntries.md)** (Index), where Index is the ordinal position of the content control list item, to access an individual list item within the **ContentControlListEntries** collection.
 
 
- **Note**  List entries must have unique display names. Attempting to add a list item that already exists raises a run-time error.
+> [!NOTE] 
+> List entries must have unique display names. Attempting to add a list item that already exists raises a run-time error.
 
 The following code example uses the  **Add** method to add several list items to a new drop-down list content control, and then uses the **Item** method to access the third item in the list and change the display text.
 

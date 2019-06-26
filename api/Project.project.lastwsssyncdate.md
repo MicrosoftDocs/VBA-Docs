@@ -16,6 +16,6 @@ Returns the last date on which Project was synced with Wss. Read-only  **DateTyp
 
 _expression_. `LastWssSyncDate`
 
-_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a **[Project](project.project.md)** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

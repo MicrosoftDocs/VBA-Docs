@@ -21,7 +21,7 @@ Enables changing the scale and format of a timescale in a Gantt chart or other t
 
 _expression_. `TimescaleEdit`( `_MajorUnits_`, `_MinorUnits_`, `_MajorLabel_`, `_MinorLabel_`, `_MajorAlign_`, `_MinorAlign_`, `_MajorCount_`, `_MinorCount_`, `_MajorTicks_`, `_MinorTicks_`, `_Enlarge_`, `_Separator_`, `_MajorUseFY_`, `_MinorUseFY_`, `_TopUnits_`, `_TopLabel_`, `_TopAlign_`, `_TopCount_`, `_TopTicks_`, `_TopUseFY_`, `_TierCount_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -76,6 +76,7 @@ TimescaleEdit TierCount:=3, _
 ```
 
 
- **Note**  Values for the label time range in the  _TopLabel_, _MajorLabel_, and _MinorLabel_ parameters must be compatible with the time unit of the specified timescale tier. For example, if the time unit of the bottom tier is hours, the parameter value `MinorLabel:=PjDateLabel.pjHour_hhAM` is valid. However, the parameter value `MinorLabel:=PjDateLabel.pjHalfYear_hhh_Half` results in the run time error 1101: "The argument value is not valid."
+> [!NOTE] 
+> Values for the label time range in the  _TopLabel_, _MajorLabel_, and _MinorLabel_ parameters must be compatible with the time unit of the specified timescale tier. For example, if the time unit of the bottom tier is hours, the parameter value `MinorLabel:=PjDateLabel.pjHour_hhAM` is valid. However, the parameter value `MinorLabel:=PjDateLabel.pjHalfYear_hhh_Half` results in the run time error 1101: "The argument value is not valid."
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -24,13 +24,6 @@ _expression_. `HeaderSourceType`
 _expression_ Required. A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 
 
-## Remarks
-
-
- **Security Note**  
-
-
-
 
 ## Example
 

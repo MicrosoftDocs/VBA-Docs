@@ -38,7 +38,8 @@ The value returned by the  **RotateWithObject** property can be one of the [MsoT
 The setting of the  **RotateWithObject** property corresponds to the setting of the **Rotate with shape** box on the **Fill** pane of the **Format Picture** dialog box in the Word user interface (under **Drawing Tools**, on the  **Format** Tab, in the **Shape Styles** group, click **Format Shape**.)
 
 
- **Note**  The  **Rotate with shape** box only appears if you have either the **Gradient fill** or **Picture or texture fill** option buttons selected on the **Fill** pane of the **Format Shape** dialog box.
+> [!NOTE] 
+> The  **Rotate with shape** box only appears if you have either the **Gradient fill** or **Picture or texture fill** option buttons selected on the **Fill** pane of the **Format Shape** dialog box.
 
 
 ## See also

@@ -34,7 +34,8 @@ The format names appear in the  **Save as type** box in the **Save As** dialog b
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 This example displays the format name of the first converter in the FileConverters collection.
 

@@ -21,7 +21,7 @@ Gets the text that Project displays next to morning hours in the 12-hour time fo
 
 _expression_. `AMText`
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Remarks
@@ -29,6 +29,7 @@ _expression_ A variable that represents an [Application](./Project.Application.m
 Project sets the  **AMText** and **PMText** properties equal to the corresponding values in the **Regional and Language Options** dialog box opened from the Microsoft Windows Control Panel.
 
 
- **Note**  Although the VBA Object Browser shows  **AMText** as read-write, you cannot set the value using the **PMText** property.
+> [!NOTE] 
+> Although the VBA Object Browser shows  **AMText** as read-write, you cannot set the value using the **PMText** property.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

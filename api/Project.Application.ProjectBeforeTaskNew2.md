@@ -18,7 +18,7 @@ Occurs before one or more tasks are created. Uses the  **EventInfo** object para
 
 _expression_. `ProjectBeforeTaskNew2`( `_pj_`, `_Info_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

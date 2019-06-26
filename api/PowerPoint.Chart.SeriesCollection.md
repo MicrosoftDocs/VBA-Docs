@@ -34,7 +34,8 @@ A  **[SeriesCollection](PowerPoint.SeriesCollection.md)** object that represents
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example turns on data labels for series one of the first chart in the active document.
 

@@ -21,7 +21,7 @@ Specifies the layout of boxes in the active Network Diagram view (PERT chart), w
 
 _expression_. `BoxLayoutEx`( `_LayoutMode_`, `_LayoutScheme_`, `_SummaryPrecedence_`, `_RowAlignment_`, `_ColumnAlignment_`, `_RowSpacing_`, `_ColumnSpacing_`, `_RowHeight_`, `_ColumnWidth_`, `_AdjustForPageBreaks_`, `_ShowSummaryTasks_`, `_ViewBackgroundColor_`, `_ViewBackgroundPattern_`, `_ShowProgressMarks_`, `_ShowPageBreaks_`, `_ShowIDOnly_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -73,6 +73,7 @@ End Sub
 ```
 
 
- **Note**  If you use any of the **PjColor** constants for the _ViewBackgroundColor_ parameter, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **BoxLayoutEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[BoxLayout](Project.Application.BoxLayout.md)** method.
+> [!NOTE] 
+> If you use any of the **PjColor** constants for the _ViewBackgroundColor_ parameter, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **BoxLayoutEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[BoxLayout](Project.Application.BoxLayout.md)** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,7 +29,8 @@ Use  **Axes** ( _Type_, _AxisGroup_ ), where _Type_ is the axis type and _AxisGr
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example displays the number of axes for the first chart in the active document.
 
@@ -51,7 +52,8 @@ End With
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the category axis title text for the first chart in the active document.
 

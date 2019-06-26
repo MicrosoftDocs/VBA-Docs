@@ -29,7 +29,8 @@ _expression_. `NamespaceURI`
 
 
 
- **Note**  If you are authoring XML schemas for use with Microsoft Word, it is highly recommended that you specify the targetNamespace setting in the schema.
+> [!NOTE] 
+> If you are authoring XML schemas for use with Microsoft Word, it is highly recommended that you specify the targetNamespace setting in the schema.
 
 
 ## See also

@@ -18,7 +18,7 @@ Gets a  **DocumentProperties** collection representing the built-in properties o
 
 _expression_. `BuiltinDocumentProperties`
 
-_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a **[Project](project.project.md)** object.
 
 
 ## Remarks

@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[Comments](PowerPoint.Comments.md)**
 | _Author_|Required|**String**|The author of the comment.|
 | _AuthorInitials_|Required|**String**|The author's initials.|
 | _Text_|Required|**String**|The comment's text. |
-| _ProviderID_|Required|**String**|The service that provides contact information.Example: ?AD? (Active Directory)|
+| _ProviderID_|Required|**String**|The service that provides contact information.Example: "AD" (Active Directory)|
 | _UserID_|Required|**String**|The ID of the user providing the comment.|
 | _Left_|Required|FLOAT||
 | _Top_|Required|FLOAT||

@@ -27,7 +27,8 @@ This object is not a collection. There is no object that represents a single wal
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 Use the  **[Walls](PowerPoint.Chart.Walls.md)** property to return the **Walls** object. The following example sets the pattern on the walls for the first chart in the active document. If the chart is not a 3D chart, this example will fail.
 

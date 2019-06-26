@@ -21,7 +21,7 @@ Updates a project from Project Server.
 
 _expression_. `UpdateFromProjectServer`( `_DataFile_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

@@ -49,7 +49,8 @@ _expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object
 ## Remarks
 
 
- **Note**  The  **Shapes.AddTextEffect** method in Excel and Word creates a WordArt item, and returns a **Shape** object that represents the new WordArt item. But, Project does not support directly creating a WordArt item.
+> [!NOTE] 
+> The  **Shapes.AddTextEffect** method in Excel and Word creates a WordArt item, and returns a **Shape** object that represents the new WordArt item. But, Project does not support directly creating a WordArt item.
 
 Instead of using the  **AddTextEffect** method to add WordArt, you can use **AddTextbox**, and then format the selected text box with WordArt styles.
 

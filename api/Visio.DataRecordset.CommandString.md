@@ -23,9 +23,9 @@ Gets or sets the command string used to query the data source to create a data r
 
 ## Syntax
 
-_expression_. `CommandString`
+_expression_.**CommandString**
 
- _expression_ An expression that returns a **[DataRecordset](Visio.DataRecordset.md)** object.
+_expression_ An expression that returns a **[DataRecordset](Visio.DataRecordset.md)** object.
 
 
 ## Return value
@@ -35,11 +35,11 @@ String
 
 ## Remarks
 
-The command string of a data recordset specifies the database table or Microsoft Excel worksheet and the columns within the table or worksheet that contain the data you want to query. The command string is also passed to the  **[DataRecordset.Refresh](Visio.DataRecordset.Refresh.md)** method when the data in the data recordset is refreshed.
+The command string of a data recordset specifies the database table or Microsoft Excel worksheet and the columns within the table or worksheet that contain the data you want to query. The command string is also passed to the **[DataRecordset.Refresh](Visio.DataRecordset.Refresh.md)** method when the data in the data recordset is refreshed.
 
-Setting the  **CommandString** property to a new value has no effect on data already in the data recordset. To update the data in a data recordset using a new **CommandString** setting, call the **Refresh** method.
+Setting the **CommandString** property to a new value has no effect on data already in the data recordset. To update the data in a data recordset using a new **CommandString** setting, call the **Refresh** method.
 
-The  **CommandString** property does not apply to data recordsets created by using the **[AddFromXML](Visio.DataRecordsets.AddFromXML.md)** method.
+The **CommandString** property does not apply to data recordsets created by using the **[AddFromXML](Visio.DataRecordsets.AddFromXML.md)** method.
 
 The following sample command string directs Visio to retrieve all data from an Excel worksheet named Sheet1:  `"SELECT * FROM [Sheet1$]"`.
 

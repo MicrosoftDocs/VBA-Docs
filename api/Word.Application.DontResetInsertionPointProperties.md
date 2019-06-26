@@ -29,7 +29,8 @@ _expression_. `DontResetInsertionPointProperties`
 In some cases, Word loses the formatting at the Insertion Point after running other Microsoft Visual Basic for Applications (VBA) code. When this happens, it can cause difficulty for users who rely on a screen reader application. They lose the formatting when their assistive application performs what seems like unrelated tasks. This property prevents Word from losing or changing the formatting that has been applied to the text at the position of the Insertion Point when other code runs that contains properties or methods in the Word object model.
 
 
- **Important**  Do not use this property unless you specifically need it to make a solution function correctly.
+> [!IMPORTANT] 
+> Do not use this property unless you specifically need it to make a solution function correctly.
 
 
 ## See also

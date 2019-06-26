@@ -19,7 +19,8 @@ Contains a collection of  **[Window](Project.Window.md)** objects. The **Windows
 ## Remarks
 
 
- **Note**  The  **Windows** collection is maintained for backward compatibility. We recommend that you use the **[Windows2](Project.windows2(object).md)** collection for all new development.
+> [!NOTE] 
+> The  **Windows** collection is maintained for backward compatibility. We recommend that you use the **[Windows2](Project.windows2(object).md)** collection for all new development.
  
 
 

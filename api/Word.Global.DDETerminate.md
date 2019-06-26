@@ -26,18 +26,9 @@ _expression_ A variable that represents a '[Global](Word.Global.md)' object. Opt
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Channel_|Required| **Long**|The channel number returned by the  **DDEInitiate** method.|
-
-## Remarks
-
-
- **Security Note**  
-
-
 
 
 ## Example

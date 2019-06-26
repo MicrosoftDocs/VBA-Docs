@@ -36,6 +36,7 @@ Use the  **AllowEditing** property to prevent unintentional editing in stencils.
 
 
 
- **Note**  Only user-created stencils are editable. By default, Visio stencils are not editable.
+> [!NOTE] 
+> Only user-created stencils are editable. By default, Visio stencils are not editable.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

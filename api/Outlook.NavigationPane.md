@@ -22,7 +22,8 @@ Represents the navigation pane displayed by the active  **[Explorer](Outlook.Exp
 Use the  **[NavigationPane](Outlook.Explorer.NavigationPane.md)** property of the **Explorer** object to retrieve a **NavigationPane** object, if one exists for the explorer.
 
 
- **Note**  Some  **Explorer** objects may not have a Navigation Pane.
+> [!NOTE] 
+> Some  **Explorer** objects may not have a Navigation Pane.
 
 Use the  **[IsCollapsed](Outlook.NavigationPane.IsCollapsed.md)** property to return or set the display mode of the navigation pane.
 

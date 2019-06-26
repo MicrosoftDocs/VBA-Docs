@@ -22,7 +22,8 @@ Contains all the  **[HeaderFooter](PowerPoint.HeaderFooter.md)** objects on the 
 Each  **HeaderFooter** object represents a header, footer, date and time, or slide number.
 
 
- **Note**   **HeaderFooter** objects aren't available for **[Slide](PowerPoint.Slide.md)** objects that represent notes pages. The **HeaderFooter** object that represents a header is available only for a notes master or handout master.
+> [!NOTE] 
+>  **HeaderFooter** objects aren't available for **[Slide](PowerPoint.Slide.md)** objects that represent notes pages. The **HeaderFooter** object that represents a header is available only for a notes master or handout master.
 
 
 ## Example

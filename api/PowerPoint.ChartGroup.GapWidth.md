@@ -34,7 +34,8 @@ The value of this property must be between 0 and 500.
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the space between column clusters for the first chart in the active document to be 50 percent of the column width.
 

@@ -29,7 +29,8 @@ _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** objec
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the color of the wall border of the first chart in the active document to red. You should run the example on a 3D chart.
 

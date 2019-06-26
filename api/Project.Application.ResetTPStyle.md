@@ -19,14 +19,12 @@ Resets the specified Team Planner style to the default values.
 
 ## Syntax
 
-_expression_. `ResetTPStyle`( `_Style_` )
+_expression_.**ResetTPStyle** (_Style_)
 
- _expression_ An expression that returns a [Application](./Project.Application.md) object.
+_expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

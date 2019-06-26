@@ -37,10 +37,18 @@ MsgBox AutoCaptions(1).Name
 
  **AutoCaption** objects cannot be programmatically added to or deleted from the **AutoCaptions** collection.
 
+## Properties
+
+- [Application](Word.AutoCaption.Application.md)
+- [AutoInsert](Word.AutoCaption.AutoInsert.md)
+- [CaptionLabel](Word.AutoCaption.CaptionLabel.md)
+- [Creator](Word.AutoCaption.Creator.md)
+- [Index](Word.AutoCaption.Index.md)
+- [Name](Word.AutoCaption.Name.md)
+- [Parent](Word.AutoCaption.Parent.md)
 
 ## See also
 
-
-[Word Object Model Reference](overview/Word/object-model.md)
+- [Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,7 +34,8 @@ A  **[Trendlines](PowerPoint.Trendlines.md)** object that represents all the tre
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example adds a linear trendline to series one for the first chart in the active document.
 

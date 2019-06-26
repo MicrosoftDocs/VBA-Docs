@@ -49,7 +49,8 @@ To add a new list to a document, use the  **ApplyListTemplate** method with the 
 You can manipulate the individual  **[List](Word.List.md)** objects within a document, but for more precise control you should work with the **ListFormat** object.
 
 
- **Note**  Picture-bulleted lists are not included in the  **Lists** collection.
+> [!NOTE] 
+> Picture-bulleted lists are not included in the  **Lists** collection.
 
 
 ## Methods

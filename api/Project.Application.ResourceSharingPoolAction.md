@@ -21,7 +21,7 @@ Performs the specified action on a local resource pool.
 
 _expression_. `ResourceSharingPoolAction`( `_Action_`, `_FileName_`, `_ReadOnly_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -44,6 +44,7 @@ _expression_ A variable that represents an [Application](./Project.Application.m
 
 
 
- **Note**  Project Professional can share local resources only when not logged on Project Server. If Project Professional is using a Project Server profile, local resource sharing is unavailable.
+> [!NOTE] 
+> Project Professional can share local resources only when not logged on Project Server. If Project Professional is using a Project Server profile, local resource sharing is unavailable.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

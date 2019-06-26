@@ -34,7 +34,7 @@ String
 Setting the  **Manager** property is equivalent to entering information in the **Manager** box in the **Properties** dialog box (click the **File** tab, click **Info**, click  **Properties**, and then click  **Advanced Properties**).
 
 
- **Security Note**  
+  
 
 
 

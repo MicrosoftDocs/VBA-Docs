@@ -14,7 +14,8 @@ localization_priority: Normal
 
 # Application.ShowMe method (Word)
 
- **Caution**  This object, member, or enumeration is deprecated and is not intended to be used in your code.
+> [!CAUTION] 
+> This object, member, or enumeration is deprecated and is not intended to be used in your code.
 
 
 ## See also

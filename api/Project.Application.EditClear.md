@@ -21,7 +21,7 @@ Clears the selected cells.
 
 _expression_. `EditClear`( `_Contents_`, `_Formats_`, `_Notes_`, `_Hyperlinks_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

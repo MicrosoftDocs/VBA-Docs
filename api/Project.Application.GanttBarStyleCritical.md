@@ -21,7 +21,7 @@ Shows or hides the critical tasks style on the active Gantt chart.
 
 _expression_. `GanttBarStyleCritical`( `_Show_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

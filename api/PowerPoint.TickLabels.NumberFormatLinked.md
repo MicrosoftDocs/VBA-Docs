@@ -29,7 +29,8 @@ _expression_ A variable that represents a '[TickLabels](PowerPoint.TickLabels.md
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example links the number format for tick-mark labels to its cells for the value axis of the first chart in the active document.
 

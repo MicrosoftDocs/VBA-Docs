@@ -34,7 +34,8 @@ The  **ChartTitle** object does not exist and cannot be used unless the **[HasTi
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the text for the title of the first chart.
 

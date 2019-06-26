@@ -15,14 +15,12 @@ Returns information about the chart element at specified X and Y coordinates. Th
 
 ## Syntax
 
-_expression_. `GetChartElement` _(x,_? _y,_? _ElementID,_? _Arg1,_? _Arg2)_
+_expression_.**GetChartElement** (_x_, _y_, _ElementID_, _Arg1_, _Arg2_)
 
 _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -31,11 +29,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 | _ElementID_|Required|**Long**|When the  **GetChartElement** method returns, _ElementID_ contains the **Office.XLChartItem** value of the chart element at the specified coordinates. For more information, see [Remarks](#pj15_VBAGetChartElement_Remarks).|
 | _Arg1_|Required|**Long**|When the method returns,  _Arg1_ contains information related to the chart element. For more information, see [Remarks](#pj15_VBAGetChartElement_Remarks).|
 | _Arg2_|Required|**Long**|When the method returns,  _Arg2_ contains information related to the chart element. For more information, see [Remarks](#pj15_VBAGetChartElement_Remarks).|
-| _x_|Required|INT32||
-| _y_|Required|INT32||
-| _ElementID_|Required|INT32||
-| _Arg1_|Required|INT32||
-| _Arg2_|Required|INT32||
+
 
 ## Return value
 
@@ -91,9 +85,9 @@ The value of  _ElementID_ after the method returns determines whether _Arg1_ and
 |**xlXErrorBars**|10|SeriesIndex|None|
 |**xlYErrorBars**|11|SeriesIndex|None|
 
-?
 
-Table 2 describes the meaning of  _Arg1_ and _Arg2_ after the method returns. Values in the **Argument** column are from Table 1.
+
+Table 2 describes the meaning of _Arg1_ and _Arg2_ after the method returns. Values in the **Argument** column are from Table 1.
 
 
 **Table 2. Meaning of data in Arg1 and Arg2**

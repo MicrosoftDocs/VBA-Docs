@@ -38,7 +38,7 @@ _expression_ Required. A variable that represents a '[TablesOfFigures](Word.tabl
 | _TableID_|Optional| **Variant**|A one-letter identifier that's used to build a table of figures from Table of Contents Entry (TC) fields. Corresponds to the \f switch for a Table of Contents (TOC) field. For example, "i" builds a table of figures for an illustration.|
 | _RightAlignPageNumbers_|Optional| **Variant**| **True** align page numbers with the right margin in the table of figures. The default value is **True**.|
 | _IncludePageNumbers_|Optional| **Variant**| **True** if page numbers are included in the table of figures. The default value is **True**.|
-| _AddedStyles_|Optional| **Variant**|The string name for additional styles used to compile the table of figures (styles other than the Heading 1 ? Heading 9 styles).|
+| _AddedStyles_|Optional| **Variant**|The string name for additional styles used to compile the table of figures (styles other than the Heading 1 &ndash; Heading 9 styles).|
 | _UseHyperlinks_|Optional| **Variant**| **True** if entries in a table of figures should be formatted as hyperlinks when publishing to the Web. The default value is **True**.|
 | _HidePageNumbersInWeb_|Optional| **Variant**| **True** if page numbers in a table of figures should be hidden when publishing to the Web. The default value is **True**.|
 

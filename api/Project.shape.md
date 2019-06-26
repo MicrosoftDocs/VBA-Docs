@@ -18,7 +18,8 @@ The  **Shape** object is a member of the **[Shapes](Project.shapes.md)** collect
 
  
 
- **Note**  Macro recording for the  **Shape** object is not implemented. That is, when you record a macro in Project and manually add a shape or edit shape elements, the steps for adding and manipulating the shape are not recorded.
+> [!NOTE] 
+> Macro recording for the  **Shape** object is not implemented. That is, when you record a macro in Project and manually add a shape or edit shape elements, the steps for adding and manipulating the shape are not recorded.
  
 
 There are three objects that represent shapes: the  **Shapes** collection, which represents all the shapes on a document; the **ShapeRange** object, which represents a specified subset of the shapes on a document (for example, a **ShapeRange** object could represent shapes one and four on the document, or it could represent all the selected shapes on the document); and the **Shape** object, which represents a single shape on a document. If you want to work with several shapes at the same time or with shapes within the selection, use a **ShapeRange** collection.

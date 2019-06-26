@@ -41,7 +41,8 @@ _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the category axis on the first chart in the active document to use a time scale and sets the major and minor units.
 

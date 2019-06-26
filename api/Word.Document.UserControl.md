@@ -29,7 +29,8 @@ _expression_ A variable that represents a **[Document](Word.Document.md)** objec
 This property returns  **False** if the document was created or opened programmatically from another Microsoft Office application with the **Open** method or the Visual Basic **CreateObject** or **GetObject** command.
 
 
- **Note**  If Word is visible to the user or if you call the  **UserControl** property from within a Word code module, this property will always return **True**.
+> [!NOTE] 
+> If Word is visible to the user or if you call the  **UserControl** property from within a Word code module, this property will always return **True**.
 
 
 ## Example

@@ -18,6 +18,6 @@ Gets a  **[TaskGroups2](Project.taskgroups2(object).md)** collection that repres
 
 _expression_. `TaskGroups2`
 
- _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
+ _expression_ An expression that returns a **[Project](project.project.md)** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

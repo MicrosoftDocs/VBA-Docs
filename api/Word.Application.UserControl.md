@@ -29,7 +29,8 @@ _expression_ A variable that represents an **[Application](Word.Application.md)*
 The  **UserControl** property returns **False** if the application was created or opened programmatically from another Microsoft Office application with the **Open** method or the **CreateObject** or **GetObject** method.
 
 
- **Note**  If Word is visible to the user, or if you call the  **UserControl** property of an **Application** object from within a code module, this property will always return **True**.
+> [!NOTE] 
+> If Word is visible to the user, or if you call the  **UserControl** property of an **Application** object from within a code module, this property will always return **True**.
 
 
 ## Example

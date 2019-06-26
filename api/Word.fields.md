@@ -17,7 +17,8 @@ A collection of  **Field** objects that represent all the fields in a selection,
 Use the  **Fields** property to return the **Fields** collection. The following example updates all the fields in the selection.
 
 
- **Note**  Use the  **Fields** property with a **[MailMerge](Word.MailMerge.md)** object to return a **[MailMergeFields](Word.mailmergefields.md)** collection.
+> [!NOTE] 
+> Use the  **Fields** property with a **[MailMerge](Word.MailMerge.md)** object to return a **[MailMergeFields](Word.mailmergefields.md)** collection.
 
 
 ```vb

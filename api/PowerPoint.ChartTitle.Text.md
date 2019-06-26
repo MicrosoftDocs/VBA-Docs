@@ -29,7 +29,8 @@ _expression_ A variable that represents a '[ChartTitle](PowerPoint.ChartTitle.md
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the text for the chart title of the first chart in the active document.
 

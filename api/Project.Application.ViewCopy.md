@@ -21,7 +21,7 @@ Copies the current view.
 
 _expression_. `ViewCopy`( `_Name_`, `_ApplyTo_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -51,7 +51,8 @@ _expression_. `ViewCopy`( `_Name_`, `_ApplyTo_` )
 
 
 
- **Note**  In a combination view, the primary pane is the view that remains when a details or secondary pane is closed. Usually the primary pane is at the top; however, the Timeline is a secondary pane, but it displays at the top. For example, with the Resource Sheet view, clicking  **Details** on the **View** tab on the Ribbon shows the secondary Resource Form pane on the bottom. Clicking **Timeline** closes the Resource Form at the bottom and opens the Timeline pane at the top.
+> [!NOTE] 
+> In a combination view, the primary pane is the view that remains when a details or secondary pane is closed. Usually the primary pane is at the top; however, the Timeline is a secondary pane, but it displays at the top. For example, with the Resource Sheet view, clicking  **Details** on the **View** tab on the Ribbon shows the secondary Resource Form pane on the bottom. Clicking **Timeline** closes the Resource Form at the bottom and opens the Timeline pane at the top.
 
 Using the  **ViewCopy** method with no arguments displays the **Save View** dialog box, which enables the user to name the copy of the view.
 

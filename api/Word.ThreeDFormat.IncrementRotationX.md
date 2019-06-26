@@ -19,14 +19,12 @@ Changes the rotation of the specified shape around the x-axis by the specified n
 
 ## Syntax
 
-_expression_. `IncrementRotationX`( `_Increment_` )
+_expression_.**IncrementRotationX** (_Increment_)
 
 _expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -36,7 +34,7 @@ _expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDF
 
 Use the  **[RotationX](Word.ThreeDFormat.RotationX.md)** property to set the absolute rotation of the shape around the x-axis.
 
-You cannot adjust the rotation around the x-axis of the specified shape past the upper or lower limit for the  **RotationX** property (90 degrees to ?90 degrees). For example, if the **RotationX** property is initially set to 80 and you specify 40 for the Increment argument, the resulting rotation will be 90 (the upper limit for the **RotationX** property) instead of 120.
+You cannot adjust the rotation around the x-axis of the specified shape past the upper or lower limit for the  **RotationX** property (90 degrees to -90 degrees). For example, if the **RotationX** property is initially set to 80 and you specify 40 for the Increment argument, the resulting rotation will be 90 (the upper limit for the **RotationX** property) instead of 120.
 
 To change the rotation of a shape around the y-axis, use the  **IncrementRotationY** method. To change the rotation around the z-axis, use the **IncrementRotation** method.
 

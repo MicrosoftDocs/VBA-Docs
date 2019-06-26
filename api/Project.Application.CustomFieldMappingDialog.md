@@ -21,7 +21,7 @@ Returns  **True** if custom task fields can be imported by using a mapping dialo
 
 _expression_. `CustomFieldMappingDialog`( `_TaskCustomFields_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

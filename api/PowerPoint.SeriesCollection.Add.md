@@ -49,7 +49,8 @@ This method does not actually return a  **Series** object as stated in the Objec
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example creates a new series for the first chart in the active document. The data source for the new series is range  `B1:B10` on the workbook associated with the chart.
 

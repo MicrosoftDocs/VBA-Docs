@@ -11,18 +11,17 @@ localization_priority: Normal
 
 
 # Chart.UpdateChartData method (Project)
+
 Updates the specified Project data on a chart.
 
 ## Syntax
 
-_expression_. `UpdateChartData` _(Task,_? _Timephased,_? _GroupName,_? _FilterName,_? _LabelField,_? _OutlineLevel,_? _SafeArrayOfPjField,_? _SafeArrayOfPjTimescaledData,_? _TimeScaleUnit,_? _TimescaleUnitCount,_? _StartDate,_? _FinishDate)_
+_expression_.**UpdateChartData** (_Task_, _Timephased_, _GroupName_, _FilterName_, _LabelField_, _OutlineLevel_, _SafeArrayOfPjField_, _SafeArrayOfPjTimescaledData_, _TimeScaleUnit_, _TimescaleUnitCount_, _StartDate_, _FinishDate_)
 
 _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -38,27 +37,13 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 | _TimescaleUnitCount_|Optional|**Long**|Specifies the number of timescale units to be included in the update. The default value is 1. For example, if the unit is  **pjTimescaleWeeks**, a value of 5 indicates five weeks.|
 | _StartDate_|Optional|**Variant**|Specifies the start date for the update.|
 | _FinishDate_|Optional|**Variant**|Specifies the finish date for the update.|
-| _Task_|Required|BOOL||
-| _Timephased_|Required|BOOL||
-| _GroupName_|Optional|**String**||
-| _FilterName_|Optional|**String**||
-| _LabelField_|Optional|PJFIELD||
-| _OutlineLevel_|Optional|INT||
-| _SafeArrayOfPjField_|Optional|**Variant**||
-| _SafeArrayOfPjTimescaledData_|Optional|**Variant**||
-| _TimeScaleUnit_|Optional|PJTIMESCALEUNIT||
-| _TimescaleUnitCount_|Optional|INT||
-| _StartDate_|Optional|**Variant**||
-| _FinishDate_|Optional|**Variant**||
+
 
 ## Return value
 
- **Nothing**
+**Nothing**
 
 
-## See also
 
-
-[Chart Object](Project.chart.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

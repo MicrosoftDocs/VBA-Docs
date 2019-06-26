@@ -18,6 +18,6 @@ localization_priority: Normal
 
 _expression_. `ShowTaskSuggestions`
 
- _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
+ _expression_ An expression that returns a **[Project](project.project.md)** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

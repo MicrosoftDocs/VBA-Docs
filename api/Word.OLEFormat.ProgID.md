@@ -28,11 +28,6 @@ _expression_ Required. A variable that represents an '[OLEFormat](Word.OLEFormat
 
 The  **ProgID** and **ClassType** properties will (by default) return the same string. However, you can change the **ClassType** property for DDE links.
 
-
- **Security Note**  
-
-
-
 For information about programmatic identifiers, see [OLE Programmatic Identifiers](overview/Word.md).
 
 

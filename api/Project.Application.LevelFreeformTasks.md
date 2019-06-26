@@ -18,7 +18,7 @@ localization_priority: Normal
 
 _expression_. `LevelFreeformTasks`
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Remarks

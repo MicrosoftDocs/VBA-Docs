@@ -21,7 +21,7 @@ Goes to the next document in the history list.
 
 _expression_. `WebGoForward`
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Return value

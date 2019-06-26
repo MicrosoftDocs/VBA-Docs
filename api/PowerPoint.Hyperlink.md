@@ -51,7 +51,8 @@ ActivePresentation.Slides(1).Shapes(3) _
 ```
 
 
- **Note**  When you use this method to add a hyperlink to the Internet Explorer Favorites folder, an icon is added to the  **Favorites** menu without a corresponding name. You must add the name from within Internet Explorer.
+> [!NOTE] 
+> When you use this method to add a hyperlink to the Internet Explorer Favorites folder, an icon is added to the  **Favorites** menu without a corresponding name. You must add the name from within Internet Explorer.
 
 
 ## Methods

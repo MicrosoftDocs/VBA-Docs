@@ -29,7 +29,8 @@ _expression_ A variable that represents an '[AxisTitle](PowerPoint.AxisTitle.md)
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the axis title text for the category axis of the first chart in the active document.
 

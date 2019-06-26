@@ -21,7 +21,7 @@ Exports the active project as a document in PDF or XPS format.
 
 _expression_. `DocumentExport`( `_FileName_`, `_FileType_`, `_IncludeDocumentProperties_`, `_IncludeDocumentMarkup_`, `_ArchiveFormat_`, `_FromDate_`, `_ToDate_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

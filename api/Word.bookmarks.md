@@ -54,11 +54,23 @@ Remarks
 
 The  **[ShowHidden](Word.Bookmarks.ShowHidden.md)** property effects the number of elements in the **Bookmarks** collection. If **ShowHidden** is **True**, hidden bookmarks are included in the **Bookmarks** collection.
 
+## Methods
+
+- [Add](Word.Bookmarks.Add.md)
+- [Exists](Word.Bookmarks.Exists.md)
+- [Item](Word.Bookmarks.Item.md)
+
+## Properties
+
+- [Application](Word.Bookmarks.Application.md)
+- [Count](Word.Bookmarks.Count.md)
+- [Creator](Word.Bookmarks.Creator.md)
+- [DefaultSorting](Word.Bookmarks.DefaultSorting.md)
+- [Parent](Word.Bookmarks.Parent.md)
+- [ShowHidden](Word.Bookmarks.ShowHidden.md)
 
 ## See also
 
-
-
-[Word Object Model Reference](overview/Word/object-model.md)
+- [Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

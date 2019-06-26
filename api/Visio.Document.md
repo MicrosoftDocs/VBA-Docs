@@ -32,7 +32,7 @@ Use the **Pages**, **Masters**, and **Styles** properties to retrieve **Page**, 
 Use the **CustomMenus** or **CustomToolbars** properties to access the custom menus or toolbars.
 
 > [!NOTE] 
-> The Microsoft Visual Basic for Applications (VBA) project of every Visio document also has a class module called **ThisDocument**. When you reference the **ThisDocument** module from code in a VBA project, it returns a reference to the project's **Document** object. For example, the code in a document's project can display the name of the project's document in a **message** box with this statement:
+> The Microsoft Visual Basic for Applications (VBA) project of every Visio document also has a class module called **[ThisDocument](../visio/Concepts/about-the-thisdocument-object-visio.md)**. When you reference the **ThisDocument** module from code in a VBA project, it returns a reference to the project's **Document** object. For example, the code in a document's project can display the name of the project's document in a **message** box with this statement:
 > 
 > ```vb
 >    MsgBox ThisDocument.Name

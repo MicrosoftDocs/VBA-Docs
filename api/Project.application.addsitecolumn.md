@@ -11,53 +11,50 @@ localization_priority: Normal
 
 
 # Application.AddSiteColumn method (Project)
+
 Adds a column that becomes available for the tasks list in the synchronized SharePoint site for the active project.
 
 ## Syntax
 
-_expression_. `AddSiteColumn` _(ProjectField_,  _SharePointName)_
+_expression_.**AddSiteColumn** (_ProjectField_, _SharePointName_)
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ProjectField_|Optional|**[PjField](Project.PjField.md)**|Can be one of a subset of constants in the  **PjField** enumeration, which specifies the project field to show in the new column; cannot be one of the prohibited fields (see Remarks).|
+| _ProjectField_|Optional|**[PjField](Project.PjField.md)**|Can be one of a subset of constants in the **PjField** enumeration, which specifies the project field to show in the new column; cannot be one of the prohibited fields (see Remarks).|
 | _SharePointName_|Optional|**Variant**|The name of the new column.|
-| _ProjectField_|Optional|PJFIELD||
-| _SharePointName_|Optional|**Variant**||
-|Name|Required/Optional|Data type|Description|
+
+
 
 ## Return value
 
- **Boolean**
+**Boolean**
 
- **True** if the column is added.
+**True** if the column is added.
 
 
 ## Remarks
 
-The  **AddSiteColumn** method gives run-time error 1004, "Application-defined or object-defined error," in the following cases:
+The **AddSiteColumn** method gives run-time error 1004, "Application-defined or object-defined error," in the following cases:
 
-
-- The active project is not associated with a synchronized SharePoint tasks list. If the project is local, you can use the  **LinkToTaskList** method to create a synchronized SharePoint tasks list.
+- The active project is not associated with a synchronized SharePoint tasks list. If the project is local, you can use the **[LinkToTaskList](Project.application.linktotasklist.md)** method to create a synchronized SharePoint tasks list.
     
-- The column name already exists in the SharePoint tasks list. To see the list of column names, open the tasks list in SharePoint, and then choose  **Modify View** on the **LIST** tab. The **Settings ? Edit View** page shows all of the column names that are available for the tasks list.
+- The column name already exists in the SharePoint tasks list. To see the list of column names, open the tasks list in SharePoint, and then choose **Modify View** on the **LIST** tab. The **Settings > Edit View** page shows all of the column names that are available for the tasks list.
     
 - The  _ProjectField_ value is a non-task field, such as **pjResourceActualCost**. A SharePoint tasks list shows task fields, not resource fields.
     
-- The  _ProjectField_ value is an enterprise custom field such as **pjTaskEnterpriseProjectText1**, or a lookup table field such as  **pjTaskResourceEnterpriseRBS**. Local task custom fields, such as  **pjTaskText1**, are valid.
+- The  _ProjectField_ value is an enterprise custom field such as **pjTaskEnterpriseProjectText1**, or a lookup table field such as **pjTaskResourceEnterpriseRBS**. Local task custom fields, such as **pjTaskText1**, are valid.
     
 - The  _ProjectField_ value is one of the prohibited fields in Table 1. These fields are in addition to the prohibited resource fields and enterprise custom fields. The fields are prohibited because they are related to other prohibited fields, or have value types that are not supported in a default SharePoint tasks list.
     
-    Although Table 1 and the other prohibited fields may appear to be a long list, of the 1,338 constants in  **PjField**, there are 357?including local task custom fields?that can be used with the  **AddSiteColumn** method.
+  Although Table 1 and the other prohibited fields may appear to be a long list, of the 1,338 constants in **PjField**, there are 357&mdash;including local task custom fields&mdash;that can be used with the **AddSiteColumn** method.
     
 
-    **Table 1. Additional prohibited fields**
+**Table 1. Additional prohibited fields**
 
 ||||
 |:-----|:-----|:-----|
@@ -84,17 +81,17 @@ The  **AddSiteColumn** method gives run-time error 1004, "Application-defined or
 |**pjTaskSubprojectReadOnly**|**pjTaskTotalSlack**|**pjTaskType**|
 |**pjTaskWarning**|**pjTaskWorkContour**|****|
 
-It is possible to add a field that already exists in the tasks list, if you use a unique name for the  _SharePointName_ parameter?although the value of doing so is questionable.
+It is possible to add a field that already exists in the tasks list, if you use a unique name for the  _SharePointName_ parameter&mdash;although the value of doing so is questionable.
 
 
 ## Example
 
-To use the  **AddDurationColumns** macro, create a tasks list in a SharePoint site, create a project in Project Professional, and then use the **LinkToTaskList** method to import the task list. Set a baseline for the active project by using the **Set Baseline** command on the **PROJECT** tab of the ribbon, and then change the duration of some tasks.
+To use the **AddDurationColumns** macro, create a tasks list in a SharePoint site, create a project in Project Professional, and then use the **LinkToTaskList** method to import the task list. Set a baseline for the active project by using the **Set Baseline** command on the **PROJECT** tab of the ribbon, and then change the duration of some tasks.
 
-The  **AddDurationColumns** macro adds task duration and baseline duration to the list of available columns in the SharePoint task list (see Figure 1).
+The **AddDurationColumns** macro adds task duration and baseline duration to the list of available columns in the SharePoint task list (see Figure 1).
 
 > [!NOTE] 
-> After you run the  **AddDurationColumns** macro, you must save the project in Project Professional to synchronize your changes with the SharePoint task list.
+> After you run the **AddDurationColumns** macro, you must save the project in Project Professional to synchronize your changes with the SharePoint task list.
 
 
 
@@ -140,7 +137,7 @@ Sub AddDurationColumns()
 End Sub
 ```
 
-After you save the project, go to the task list in SharePoint. On the  **LIST** tab, select the **Modify View** command. On the Settings - Edit View page, select the **Baseline duration** field and the **Current duration** field that the **AddDurationColumns** macro added. Figure 1 shows the task list with the two new fields.
+After you save the project, go to the task list in SharePoint. On the **LIST** tab, select the **Modify View** command. On the Settings - Edit View page, select the **Baseline duration** field and the **Current duration** field that the **AddDurationColumns** macro added. Figure 1 shows the task list with the two new fields.
 
 
 **Figure 1. Adding fields to a synchronized SharePoint task list**
@@ -148,14 +145,6 @@ After you save the project, go to the task list in SharePoint. On the  **LIST** 
 ![Adding fields to a synchronized tasks list](../images/pj15_VBA_AddSiteColumn.gif)
 
 
-## See also
 
-
-[Application Object](Project.Application.md)
-[PjField Enumeration](Project.PjField.md)
-
-
-
-[LinkToTaskList Method](Project.application.linktotasklist.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,7 +29,8 @@ MsgBox KeyBindings(1).Command
 You can also use the  **FindKey** property and the **Key** method to return a **KeyBinding** object.
 
 
- **Note**  Custom key assignments are made in the  **Customize Keyboard** dialog box.
+> [!NOTE] 
+> Custom key assignments are made in the  **Customize Keyboard** dialog box.
 
 
 ## See also

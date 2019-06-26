@@ -19,20 +19,22 @@ A collection of all properties associated with the item.
 
 ## Remarks
 
-Use the  **[ItemProperties](Outlook.MailItem.ItemProperties.md)** property to return the **ItemProperties** collection. Use **ItemProperties.Item** (_index_), where _index_ is the name of the object or the numeric position of the item within the collection, to return a single **[ItemProperty](Outlook.ItemProperty.md)** object.
+Use the **[ItemProperties](Outlook.MailItem.ItemProperties.md)** property to return the **ItemProperties** collection. Use **ItemProperties.Item** (_index_), where _index_ is the name of the object or the numeric position of the item within the collection, to return a single **[ItemProperty](Outlook.ItemProperty.md)** object.
 
 
- **Note**  The  **ItemProperties** collection is zero-based, meaning that the first item in the collection is referenced by 0.
+> [!NOTE] 
+> The **ItemProperties** collection is zero-based, meaning that the first item in the collection is referenced by 0.
 
-Use the  **[Add](Outlook.ItemProperties.Add.md)** method to add a new item property to the **ItemProperties** collection. Use the **[Remove](Outlook.ItemProperties.Remove.md)** method to remove an item property from the **ItemProperties** collection.
+Use the **[Add](Outlook.ItemProperties.Add.md)** method to add a new item property to the **ItemProperties** collection. Use the **[Remove](Outlook.ItemProperties.Remove.md)** method to remove an item property from the **ItemProperties** collection.
 
 
- **Note**   You can only add or remove custom properties. Custom properties are denoted by the **[IsUserProperty](Outlook.ItemProperty.IsUserProperty.md)**.
+> [!NOTE] 
+>  You can only add or remove custom properties. Custom properties are denoted by the **[IsUserProperty](Outlook.ItemProperty.IsUserProperty.md)**.
 
 
 ## Example
 
-The following example creates a new  **[MailItem](Outlook.MailItem.md)** object and stores its **ItemProperties** collection in a variable called `objItems`.
+The following example creates a new **[MailItem](Outlook.MailItem.md)** object and stores its **ItemProperties** collection in a variable called `objItems`.
 
 
 ```vb

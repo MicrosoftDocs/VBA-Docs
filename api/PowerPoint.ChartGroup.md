@@ -29,7 +29,8 @@ Use  **ChartGroups** (_index_), where _index_ is the chart group index number, t
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example adds drop lines to the first chart group of the first chart in the active document.
 

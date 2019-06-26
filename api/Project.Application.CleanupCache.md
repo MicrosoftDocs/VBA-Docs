@@ -21,7 +21,7 @@ Displays the  **Cleanup Cache** dialog box. Available only in Project Profession
 
 _expression_. `CleanupCache`
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Return value

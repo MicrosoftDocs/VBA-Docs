@@ -66,7 +66,8 @@ Setting the  **BackgroundColorGradient** property of the active window to a valu
 
 
 
- **Note**  You can specify two colors for the drawing background. If users' screen resolution is adequate, one of the colors will grade into the other from the top to the bottom of the screen. To be able to use this feature, users must set their monitors to display 32-bit color. The ability to set drawing background color programmatically for users running in high-contrast mode is restricted.
+> [!NOTE] 
+> You can specify two colors for the drawing background. If users' screen resolution is adequate, one of the colors will grade into the other from the top to the bottom of the screen. To be able to use this feature, users must set their monitors to display 32-bit color. The ability to set drawing background color programmatically for users running in high-contrast mode is restricted.
 
 
 ## Example

@@ -36,7 +36,8 @@ Using unit labels when charting large values makes your tick-mark labels easier 
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the units displayed on the value axis of the first chart in the active document to increments of 500.
 

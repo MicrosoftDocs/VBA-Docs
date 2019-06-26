@@ -36,7 +36,7 @@ _expression_ A variable that represents an **[Application](Word.Application.md)*
 ## Remarks
 
 
- **Security Note**  
+  
 
 
 

@@ -37,7 +37,7 @@ String
 
 ## Remarks
 
-Getting the  **ResultStr** property is similar to getting a cell's **Result** property. The difference is that **ResultStr** property returns a string for the value of the cell, whereas the **Result** property returns a floating point number.
+Getting the **ResultStr** property is similar to getting a cell's **Result** property. The difference is that **ResultStr** property returns a string for the value of the cell, whereas the **Result** property returns a floating point number.
 
 You can specify  _UnitsNameOrCode_ as an integer or a string value. If the string is invalid, an error is generated. For example, the following statements all set _UnitsNameOrCode_ to inches.
 
@@ -49,27 +49,28 @@ You can specify  _UnitsNameOrCode_ as an integer or a string value. If the strin
 
 For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About units of measure](../visio/Concepts/about-units-of-measure-visio.md).
 
-Automation constants for representing units are declared by the Visio type library in member  **[VisUnitCodes](Visio.visunitcodes.md)**.
+Automation constants for representing units are declared by the Visio type library in member **[VisUnitCodes](Visio.visunitcodes.md)**.
 
 Passing a zero (0) is sufficient for getting the value of text string cells.
 
-You can use the  **ResultStr** property to convert between units. For example, you can get the value in inches and then get an equivalent value in centimeters.
+You can use the **ResultStr** property to convert between units. For example, you can get the value in inches and then get an equivalent value in centimeters.
 
-The  **ResultStr** property is useful for filling controls such as edit boxes with the value of a cell.
+The **ResultStr** property is useful for filling controls such as edit boxes with the value of a cell.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows two different ways to use the  **ResultStr** property to get the value of a ShapeSheet cell that contains a shape's shape data (formerly Custom Properties).
+This Microsoft Visual Basic for Applications (VBA) macro shows two different ways to use the **ResultStr** property to get the value of a ShapeSheet cell that contains a shape's shape data (formerly Custom Properties).
 
 
 
-To run this macro, open a blank drawing and the  **Computers and Monitors (US Units)** stencil, and then insert a user form that contains a label, text box, and list box. Set the width of the list box to 150.
+To run this macro, open a blank drawing and the **Computers and Monitors (US Units)** stencil, and then insert a user form that contains a label, text box, and list box. Set the width of the list box to 150.
 
 
 
 
- **Note**  The  **Computers and Monitors (US Units)** stencil is available only in Visio Professional.
+> [!NOTE] 
+> The **Computers and Monitors (US Units)** stencil is available only in Visio Professional.
 
 
 

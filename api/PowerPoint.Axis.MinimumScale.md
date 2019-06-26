@@ -34,7 +34,8 @@ Setting this property sets the  **[MinimumScaleIsAuto](PowerPoint.Axis.MinimumSc
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the minimum and maximum values for the value axis of the first chart in the active document.
 

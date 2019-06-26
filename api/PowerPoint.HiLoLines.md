@@ -29,7 +29,8 @@ If the  **[HasHiLoLines](PowerPoint.ChartGroup.HasHiLoLines.md)** property is **
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 Use the  **[HiLoLines](PowerPoint.ChartGroup.HiLoLines.md)** property to return the **HiLoLines** object. The following example uses the **HasHiLowLines** property to add high-low lines to the first chart (the chart must be a line chart) in the active document. The example then makes the high-low lines blue.
 

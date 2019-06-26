@@ -51,18 +51,29 @@ NormalTemplate.AutoTextEntries("TheWorld").Insert _
 
 Use the  **[Add](Word.AutoTextEntries.Add.md)** method to add an **AutoTextEntry** object to the **AutoTextEntries** collection. The following example adds an AutoText entry named "Blue" based on the text of the selection.
 
-
-
-
 ```vb
 NormalTemplate.AutoTextEntries.Add Name:="Blue", _ 
  Range:=Selection.Range
 ```
 
+## Methods
+
+- [Delete](Word.AutoTextEntry.Delete.md)
+- [Insert](Word.AutoTextEntry.Insert.md)
+
+## Properties
+
+- [Application](Word.AutoTextEntry.Application.md)
+- [Creator](Word.AutoTextEntry.Creator.md)
+- [Index](Word.AutoTextEntry.Index.md)
+- [Name](Word.AutoTextEntry.Name.md)
+- [Parent](Word.AutoTextEntry.Parent.md)
+- [StyleName](Word.AutoTextEntry.StyleName.md)
+- [Value](Word.AutoTextEntry.Value.md)
+
 
 ## See also
 
-
-[Word Object Model Reference](overview/Word/object-model.md)
+- [Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

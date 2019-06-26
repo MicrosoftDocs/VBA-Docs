@@ -90,7 +90,7 @@ End Sub
 
 <br/>
 
-Then, insert the following code in the **ThisDocument** project.
+Then, insert the following code in the **[ThisDocument](../visio/Concepts/about-the-thisdocument-object-visio.md)** project.
 
 ```vb
 Dim myKeyboardListener As KeyboardListener 

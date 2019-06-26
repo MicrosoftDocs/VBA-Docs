@@ -24,17 +24,6 @@ _expression_.**Type**
 _expression_ Required. A variable that represents a '[LinkFormat](Word.LinkFormat.md)' object.
 
 
-## Remarks
 
-
- **Security Note**  
-
-
-
-
-## See also
-
-
-[LinkFormat Object](Word.LinkFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

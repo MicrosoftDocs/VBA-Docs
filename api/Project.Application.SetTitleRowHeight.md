@@ -21,7 +21,7 @@ Sets the title row height of the active view.
 
 _expression_. `SetTitleRowHeight`( `_TitleHeight_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

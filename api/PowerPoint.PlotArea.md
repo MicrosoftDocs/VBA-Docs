@@ -29,7 +29,8 @@ The plot area is surrounded by the chart area. The chart area on a 2D chart cont
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 Use the  **[PlotArea](PowerPoint.Chart.PlotArea.md)** property to return a **PlotArea** object. The following example places a dashed border around the chart area of the first chart in the active document, and then places a dotted border around the plot area.
 

@@ -45,10 +45,17 @@ Next
 
 For more information about building blocks, see [Working with Building Blocks](../word/Concepts/Working-with-Word/working-with-building-blocks.md).
 
+## Properties
+
+- [Application](Word.BuildingBlockType.Application.md)
+- [Categories](Word.BuildingBlockType.Categories.md)
+- [Creator](Word.BuildingBlockType.Creator.md)
+- [Index](Word.BuildingBlockType.Index.md)
+- [Name](Word.BuildingBlockType.Name.md)
+- [Parent](Word.BuildingBlockType.Parent.md)
 
 ## See also
 
-
-[Word Object Model Reference](overview/Word/object-model.md)
+- [Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

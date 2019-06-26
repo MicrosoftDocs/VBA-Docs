@@ -14,19 +14,17 @@ localization_priority: Normal
 
 # ValidationIssues.ItemFromID property (Visio)
 
-Returns the  **[ValidationIssue](Visio.ValidationIssue.md)** object that matches the specified ID. Read-only.
+Returns the **[ValidationIssue](Visio.ValidationIssue.md)** object that matches the specified ID. Read-only.
 
 
 ## Syntax
 
-_expression_. `ItemFromID`( `_IssueID_` )
+_expression_.**ItemFromID** (_IssueID_)
 
 _expression_ A variable that represents a **[ValidationIssues](Visio.ValidationIssues.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

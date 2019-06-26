@@ -55,10 +55,7 @@ Sub AddContactsFolder()
 End Sub
 ```
 
-This VBA example uses the  **Add** method to add three new folders in the Tasks folder. The first folder, "Notes Folder", will contain note items. The second folder, "Contacts Folder", will contain contact items. The third folder, ?Public Folder? will be a public folder. If the folders already exist, a message box will inform the user.
-
-
-
+This VBA example uses the **Add** method to add three new folders in the Tasks folder. The first folder, Notes Folder, will contain note items. The second folder, Contacts Folder, will contain contact items. The third folder, Public Folder, will be a public folder. If the folders already exist, a message box will inform the user.
 
 ```vb
 Sub AddFolders() 

@@ -14,19 +14,17 @@ localization_priority: Normal
 
 # LookupTable.AddChild method (Project)
 
-Adds a lookup table entry to a  **[LookupTable](Project.lookuptable.md)** collection. Returns a reference to the **[LookupTableEntry](Project.LookupTableEntry.md)**.
+Adds a lookup table entry to a **[LookupTable](Project.lookuptable.md)** collection. Returns a reference to the **[LookupTableEntry](Project.LookupTableEntry.md)**.
 
 
 ## Syntax
 
-_expression_. `AddChild`( `_Name_`, `_ParentUniqueID_` )
+_expression_.**AddChild** (_Name_, _ParentUniqueID_)
 
 _expression_ A variable that represents a 'LookupTable' object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

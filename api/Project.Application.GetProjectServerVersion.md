@@ -21,7 +21,7 @@ This method checks the version of the Project Server for the active project. The
 
 _expression_. `GetProjectServerVersion`( `_ServerURL_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

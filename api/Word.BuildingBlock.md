@@ -35,7 +35,8 @@ Set objBB = objTemplate.BuildingBlockEntries.Item(1)
 ```
 
 
- **Note**  Depending on how you access the collection, the collection returned may change. For example, if you access a collection of building blocks with a type of  **wdTypeAutoText** with a category of "General", the returned collection may be different from the collection returned if you access a collection of building blocks with a type of **wdTypeAutoText** with a category of "Custom". It is also different from the collection returned if you access the collection of building blocks with a type of **wdTypeCustomAutoText** with a category of "General". Therefore, the first item in a collection accessed from the **BuildingBlockEntries** collection may be different from the first item in the collection accessed from the **BuildingBlocks** collection.
+> [!NOTE] 
+> Depending on how you access the collection, the collection returned may change. For example, if you access a collection of building blocks with a type of  **wdTypeAutoText** with a category of "General", the returned collection may be different from the collection returned if you access a collection of building blocks with a type of **wdTypeAutoText** with a category of "Custom". It is also different from the collection returned if you access the collection of building blocks with a type of **wdTypeCustomAutoText** with a category of "General". Therefore, the first item in a collection accessed from the **BuildingBlockEntries** collection may be different from the first item in the collection accessed from the **BuildingBlocks** collection.
 
 To create a new building block, you can use the  **Add** method for either the **BuildingBlockEntries** collection or the **BuildingBlocks** collection. However, the recommended way to create a new building block is by using the **[Add](Word.BuildingBlockEntries.Add.md)** method for the **BuildingBlockEntries** collection. The following example adds the selected text to the watermarks building block gallery of the first template in the **[Templates](Word.templates.md)** collection.
 
@@ -116,34 +117,26 @@ For more information about building blocks, see [Working with Building Blocks](.
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Word.BuildingBlock.Delete.md)|
-|[Insert](Word.BuildingBlock.Insert.md)|
+- [Delete](Word.BuildingBlock.Delete.md)
+- [Insert](Word.BuildingBlock.Insert.md)
 
 ## Properties
 
+- [Application](Word.BuildingBlock.Application.md)
+- [Category](Word.BuildingBlock.Category.md)
+- [Creator](Word.BuildingBlock.Creator.md)
+- [Description](Word.BuildingBlock.Description.md)
+- [ID](Word.BuildingBlock.ID.md)
+- [Index](Word.BuildingBlock.Index.md)
+- [InsertOptions](Word.BuildingBlock.InsertOptions.md)
+- [Name](Word.BuildingBlock.Name.md)
+- [Parent](Word.BuildingBlock.Parent.md)
+- [Type](Word.BuildingBlock.Type.md)
+- [Value](Word.BuildingBlock.Value.md)
 
-
-|Name|
-|:-----|
-|[Application](Word.BuildingBlock.Application.md)|
-|[Category](Word.BuildingBlock.Category.md)|
-|[Creator](Word.BuildingBlock.Creator.md)|
-|[Description](Word.BuildingBlock.Description.md)|
-|[ID](Word.BuildingBlock.ID.md)|
-|[Index](Word.BuildingBlock.Index.md)|
-|[InsertOptions](Word.BuildingBlock.InsertOptions.md)|
-|[Name](Word.BuildingBlock.Name.md)|
-|[Parent](Word.BuildingBlock.Parent.md)|
-|[Type](Word.BuildingBlock.Type.md)|
-|[Value](Word.BuildingBlock.Value.md)|
 
 ## See also
 
-
-[Word Object Model Reference](overview/Word/object-model.md)
+- [Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

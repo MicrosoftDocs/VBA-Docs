@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # VisFieldCategories enumeration (Visio)
 
-Text-field categories passed to the  **AddField** and **AddFieldEx** methods.
+Text-field categories passed to the **AddField** and **AddFieldEx** methods.
 
 
 
@@ -25,6 +25,7 @@ Text-field categories passed to the  **AddField** and **AddFieldEx** methods.
 | **visFCatObject**|4|Object information.|
 | **visFCatPage**|5|Page information field.|
 
- **Note**  Do not pass  **visFCatCustom** to the **AddField** method. Pass it to **AddCustomField** or **AddCustomFieldU** instead.
+> [!NOTE] 
+> Do not pass **visFCatCustom** to the **AddField** method. Pass it to **AddCustomField** or **AddCustomFieldU** instead.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

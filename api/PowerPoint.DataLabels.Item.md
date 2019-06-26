@@ -39,7 +39,8 @@ A  **[DataLabel](PowerPoint.DataLabel.md)** object contained by the collection.
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the number format for the fifth data label in the first series for the first chart in the active document.
 

@@ -50,7 +50,8 @@ If you change the shapes and cells of a master directly, as opposed to opening a
 A program that creates a copy of a  _masterObj_ for editing should both close and release the copy. Microsoft Visual Basic typically releases it automatically. However, when you are coding in C or C++, you must explicitly release the copy, just as you would for any other object.
 
 
- **Note**  Starting with Microsoft Office Visio 2003, only user-created stencils are editable. By default, Visio stencils are not editable. 
+> [!NOTE] 
+> Starting with Microsoft Office Visio 2003, only user-created stencils are editable. By default, Visio stencils are not editable. 
 
 
 ## Example

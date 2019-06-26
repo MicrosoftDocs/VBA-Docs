@@ -37,8 +37,8 @@ The value of the  **Perspective** property can be one of these **MsoTriState** c
 
 |Constant|Description|
 |:-----|:-----|
-|**msoFalse**|The extrusion is a parallel, or orthographic, projection?that is, if the walls don't narrow toward a vanishing point. |
-|**msoTrue**| The extrusion appears in perspective?that is, if the walls of the extrusion narrow toward a vanishing point.|
+|**msoFalse**|The extrusion is a parallel, or orthographic, projection; that is, if the walls don't narrow toward a vanishing point. |
+|**msoTrue**| The extrusion appears in perspective; that is, if the walls of the extrusion narrow toward a vanishing point.|
 
 ## Example
 

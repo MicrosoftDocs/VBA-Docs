@@ -29,7 +29,8 @@ _expression_. `XSLTransforms`
 The following example adds the simplesample.xsl transform to the transforms for the SimpleSample schema.
 
 
- **Note**  The SimpleSample schema is included in the Smart Document Software Development Kit (SDK); however, there is no corresponding simplesample.xsl file. This code was created for example purposes only. For more information, refer to the Smart Document SDK on the Microsoft Developer Network (MSDN) Web site.
+> [!NOTE] 
+> The SimpleSample schema is included in the Smart Document Software Development Kit (SDK); however, there is no corresponding simplesample.xsl file. This code was created for example purposes only. For more information, refer to the Smart Document SDK on the Microsoft Developer Network (MSDN) Web site.
 
 
 ```vb

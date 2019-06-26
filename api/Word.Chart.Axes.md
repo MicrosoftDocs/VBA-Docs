@@ -27,7 +27,8 @@ _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional| **Variant**|The axis to return. Can be one of the following  **[XlAxisType](Word.xlaxistype.md)** constants: **xlValue**, **xlCategory**, or **xlSeriesAxis** (**xlSeriesAxis** is valid only for 3D charts).|
 | _AxisGroup_|Optional| **[XlAxisGroup](Word.xlaxisgroup.md)**|One of the enumeration values that specifies the axis group. The default is  **xlPrimary**.
- **Note**  3D charts have only one axis group.
+> [!NOTE] 
+> 3D charts have only one axis group.
 
 |
 

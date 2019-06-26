@@ -21,7 +21,7 @@ Highlights a goal area on the  **Project Guide** toolbar to indicate it is curre
 
 _expression_. `GoalAreaHighlight`( `_goalArea_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -35,6 +35,7 @@ _expression_ A variable that represents an [Application](./Project.Application.m
 ## Remarks
 
 
- **Note**  The Project Guide is disabled by default in Project. Although you can create and display custom Project Guide pages, we recommend that you create a task pane app instead of the Project Guide for new development.
+> [!NOTE] 
+> The Project Guide is disabled by default in Project. Although you can create and display custom Project Guide pages, we recommend that you create a task pane app instead of the Project Guide for new development.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

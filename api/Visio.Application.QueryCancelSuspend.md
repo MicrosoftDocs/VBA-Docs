@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.QueryCancelSuspend event (Visio)
 
-Occurs before the operating system enters a suspended state. If any event handler returns  **True**, the Microsoft Visio instance will deny the operating system's request.
+Occurs before the operating system enters a suspended state. If any event handler returns **True**, the Microsoft Visio instance will deny the operating system's request.
 
 
 ## Syntax
@@ -36,9 +36,9 @@ _expression_ A variable that represents an **[Application](Visio.Application.md)
 
 
 
-- If any event handler returns  **True** (cancel), the instance fires **SuspendCanceled** and does not enter a suspended state.
+- If any event handler returns **True** (cancel), the instance fires **SuspendCanceled** and does not enter a suspended state.
     
-- If all handlers return  **False** (don't cancel), the instance fires **BeforeSuspend** and then enters a suspended state.
+- If all handlers return **False** (don't cancel), the instance fires **BeforeSuspend** and then enters a suspended state.
     
 
 
@@ -59,7 +59,7 @@ To find an event code for the event that you want to create, see [Event codes](.
 
 ## Example
 
-This VBA macro shows how to capture the  **QueryCancelSuspend** event and allow the operating system to suspend. Declare a **WithEvents** variable to capture events fired by the **Application** object.
+This VBA macro shows how to capture the **QueryCancelSuspend** event and allow the operating system to suspend. Declare a **WithEvents** variable to capture events fired by the **Application** object.
 
 
 ```vb

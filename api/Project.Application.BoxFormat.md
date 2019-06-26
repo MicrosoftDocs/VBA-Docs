@@ -21,7 +21,7 @@ Formats individual boxes in the Network Diagram view (PERT chart).
 
 _expression_. `BoxFormat`( `_ProjectName_`, `_TaskID_`, `_DataTemplate_`, `_HorizontalGridlines_`, `_VerticalGridlines_`, `_BorderShape_`, `_BorderColor_`, `_BorderWidth_`, `_BackgroundColor_`, `_BackgroundPattern_`, `_Reset_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

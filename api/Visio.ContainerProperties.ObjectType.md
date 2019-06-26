@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # ContainerProperties.ObjectType property (Visio)
 
-Returns  **visObjTypeContainerProperties**, the type of this object. Read-only.
+Returns **visObjTypeContainerProperties**, the type of this object. Read-only.
 
 
 ## Syntax
 
 _expression_.**ObjectType**
 
- _expression_ An expression that returns a **[ContainerProperties](Visio.ContainerProperties.md)** object.
+_expression_ An expression that returns a **[ContainerProperties](Visio.ContainerProperties.md)** object.
 
 
 ## Return value
@@ -31,6 +31,6 @@ _expression_.**ObjectType**
 
 ## Remarks
 
-Constants that represent object types are prefixed with  **visObjType** and are declared by the Visio type library in the **[VisObjectTypes](Visio.VisObjectTypes.md)** enumeration.
+Constants that represent object types are prefixed with **visObjType** and are declared by the Visio type library in the **[VisObjectTypes](Visio.VisObjectTypes.md)** enumeration.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

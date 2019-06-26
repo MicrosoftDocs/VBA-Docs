@@ -49,7 +49,8 @@ Next
 ```
 
 
- **Note**  When you change the type of a shape, the shape retains its size, color, and other attributes.
+> [!NOTE] 
+> When you change the type of a shape, the shape retains its size, color, and other attributes.
 
 
 ## See also

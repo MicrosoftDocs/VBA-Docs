@@ -29,7 +29,8 @@ _expression_ A variable that represents a '[CalloutFormat](Word.CalloutFormat.md
 If the callout line contains more than one line segment, this property returns or sets the angle of the segment that is farthest from the callout text box. If you set the value of this property to anything other than  **msoCalloutAngleAutomatic**, the callout line maintains a fixed angle as you drag the callout.
 
 
- **Note**  Setting this property to  **msoCalloutAngleMixed** will cause an error. **msoCalloutAngleMixed** is a return value only. It indicates a combination of the other states.
+> [!NOTE] 
+> Setting this property to  **msoCalloutAngleMixed** will cause an error. **msoCalloutAngleMixed** is a return value only. It indicates a combination of the other states.
 
 
 ## Example

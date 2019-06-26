@@ -47,7 +47,7 @@ The  _Collate_ parameter value can be one of these **MsoTriState** constants.
 
 ## Example
 
-This example prints two uncollated copies of each slide ? whether visible or hidden ? from slide two to slide five in the active presentation.
+This example prints two uncollated copies of each slide&mdash;whether visible or hidden&mdash;from slide two to slide five in the active presentation.
 
 
 ```vb

@@ -55,7 +55,8 @@ The  **Table** object returned by this **GetTable** method does not include item
 The following Visual Basic for Applications (VBA) code example,  `DemoConversationTable`, assumes that there is a mail item opened in an inspector.  `DemoConversationTable` gets a **[Conversation](Outlook.Conversation.md)** object based on this mail item, and calls the **GetTable** method to get a **Table** of all the conversation items. To get specific information for each item in the conversation, which can span across stores, `DemoConversationTable` adds the store entry ID property, http://schemas.microsoft.com/mapi/proptag/0x0FFB0102, as a column to the table. As `DemoConversationTable` enumerates each item (represented by a row) in the table, it uses the store entry ID property that corresponds to that item to call the **[GetItemFromID](Outlook.NameSpace.GetItemFromID.md)** method of the **[NameSpace](Outlook.NameSpace.md)** object to obtain the item object. The example then displays the subject and the number of attachments for that item.
 
 
- **Note**  Enumerating the conversation works only if the Outlook account is connected to a Microsoft Exchange Server that is running at least Microsoft Exchange Server 2010, or Outlook is running in cached mode against Microsoft Exchange Server 2007.
+> [!NOTE] 
+> Enumerating the conversation works only if the Outlook account is connected to a Microsoft Exchange Server that is running at least Microsoft Exchange Server 2010, or Outlook is running in cached mode against Microsoft Exchange Server 2007.
 
 
 ```vb

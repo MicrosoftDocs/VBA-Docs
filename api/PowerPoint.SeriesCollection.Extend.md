@@ -44,7 +44,8 @@ This method is not available for PivotChart reports.
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example extends the series on the first chart in the active document by adding the data in cells B1:B6 from the linked workbook.
 

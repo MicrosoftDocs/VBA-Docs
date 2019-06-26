@@ -34,7 +34,8 @@ You cannot set this property for a value axis.
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the category axis for the first chart in the active document to use a time scale, with the base unit automatically chosen by Word.
 

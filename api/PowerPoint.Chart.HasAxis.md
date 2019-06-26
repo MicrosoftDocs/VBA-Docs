@@ -45,7 +45,8 @@ Microsoft Word may create or delete axes if you change the chart type or the  **
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example enables the primary value axis for the first chart in the active document.
 

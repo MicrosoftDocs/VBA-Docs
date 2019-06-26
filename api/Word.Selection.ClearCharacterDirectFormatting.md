@@ -29,7 +29,8 @@ _expression_. `ClearCharacterDirectFormatting`
 This method does not remove character formatting that has been applied by using a character style. To remove character formatting that the user has applied by using character styles, use the  **[ClearCharacterStyle](Word.Selection.ClearCharacterStyle.md)** method. To remove all character formatting, regardless of whether the user has applied it by using character styles or manually through the formatting features in Microsoft Word, use the **[ClearCharacterAllFormatting](Word.Selection.ClearCharacterAllFormatting.md)** method.
 
 
- **Note**  For more information about how to remove paragraph formatting, see the  **[ClearParagraphAllFormatting](Word.Selection.ClearParagraphAllFormatting.md)**, **[ClearParagraphDirectFormatting](Word.Selection.ClearParagraphDirectFormatting.md)**, or **[ClearParagraphStyle](Word.Selection.ClearParagraphStyle.md)** method.
+> [!NOTE] 
+> For more information about how to remove paragraph formatting, see the  **[ClearParagraphAllFormatting](Word.Selection.ClearParagraphAllFormatting.md)**, **[ClearParagraphDirectFormatting](Word.Selection.ClearParagraphDirectFormatting.md)**, or **[ClearParagraphStyle](Word.Selection.ClearParagraphStyle.md)** method.
 
 
 ## See also

@@ -21,7 +21,7 @@ Toggles the box link style between rectilinear links and straight links.
 
 _expression_. `BoxLinkStyleToggle`( `_StraightLinks_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

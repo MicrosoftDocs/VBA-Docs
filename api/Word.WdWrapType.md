@@ -31,6 +31,7 @@ Specifies how to wrap text around a shape.
 Used with the  **Type** property of the **WrapFormat** object. You can view what each wrap type looks like on the **Text Wrapping** tab of the **Advanced Layout** dialog box.
 
 
- **Note**   **wdWrapSquare**, **wdWrapTight**, and **wdWrapThrough** all function in essentially the same way.
+> [!NOTE] 
+>  **wdWrapSquare**, **wdWrapTight**, and **wdWrapThrough** all function in essentially the same way.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

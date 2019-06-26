@@ -27,9 +27,10 @@ Represents the data label on a chart point or trendline.
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use  **[DataLabels](PowerPoint.Series.DataLabels.md)** (_index_), where _index_ is the data label index number, to return a single **DataLabel** object. The following example sets the number format for the fifth data label in the first series of the first chart in the active document.
+Use **[DataLabels](PowerPoint.Series.DataLabels.md)** (_index_), where _index_ is the data label index number, to return a single **DataLabel** object. The following example sets the number format for the fifth data label in the first series of the first chart in the active document.
 
 
 
@@ -51,9 +52,10 @@ End With
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use the  **[Point.DataLabel](PowerPoint.Point.DataLabel.md)** property to return the **DataLabel** object for a single point. The following example turns on the data label for the second point in the first series of the first chart in the active document and sets the data label text to "Saturday."
+Use the **[Point.DataLabel](PowerPoint.Point.DataLabel.md)** property to return the **DataLabel** object for a single point. The following example turns on the data label for the second point in the first series of the first chart in the active document and sets the data label text to "Saturday."
 
 
 
@@ -81,9 +83,10 @@ End With
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-On a trendline, the  **[Trendline.DataLabel](PowerPoint.Trendline.DataLabel.md)** property returns the text shown with the trendline. This can be the equation, the R-squared value, or both (if both are showing). The following example sets the trendline text for the first trendline in the first series of the first chart in the active document to show only the equation.
+On a trendline, the **[Trendline.DataLabel](PowerPoint.Trendline.DataLabel.md)** property returns the text shown with the trendline. This can be the equation, the R-squared value, or both (if both are showing). The following example sets the trendline text for the first trendline in the first series of the first chart in the active document to show only the equation.
 
 
 

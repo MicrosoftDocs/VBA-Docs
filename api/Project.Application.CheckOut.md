@@ -21,7 +21,7 @@ Checks out the active project file if it is stored in a SharePoint library.
 
 _expression_. `CheckOut`
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Return value

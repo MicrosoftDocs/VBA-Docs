@@ -21,7 +21,7 @@ Returns the number of resource errors.
 
 _expression_. `ResourceErrorCount`
 
- _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
+ _expression_ An expression that returns a **[Project](project.project.md)** object.
 
 
 ## Return value

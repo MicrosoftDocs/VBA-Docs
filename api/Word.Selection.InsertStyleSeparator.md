@@ -29,7 +29,8 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 This example inserts a style separator after every paragraph formatted with the built-in "Heading 4" style.
 
 
- **Note**  The paragraph count is inside the Do...Loop because when Word inserts the style separator, the two paragraphs become one paragraph, so the paragraph count for the document changes as the procedure runs.
+> [!NOTE] 
+> The paragraph count is inside the Do...Loop because when Word inserts the style separator, the two paragraphs become one paragraph, so the paragraph count for the document changes as the procedure runs.
 
 
 ```vb

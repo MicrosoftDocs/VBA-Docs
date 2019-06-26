@@ -31,7 +31,8 @@ This property can have a value from 2 through 72.
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the data-marker size for all data markers on series one for the first chart in the active document.
 

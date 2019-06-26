@@ -27,7 +27,8 @@ _expression_ A variable that represents a 'RevisionsFilter' object.
 The  **Reviewers** collection returned by **Reviewers** contains the names of all reviewers who have reviewed documents opened or edited on a computer.
 
 
- **Note**  The  **Reviewers** property replaces the **View.Reviewers** property found in previous versions of Word, which is now deprecated.
+> [!NOTE] 
+> The  **Reviewers** property replaces the **View.Reviewers** property found in previous versions of Word, which is now deprecated.
 
 
 ## Example

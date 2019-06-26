@@ -43,7 +43,8 @@ This method adds contact information, generated from the information stored in t
 | **olFormatRichText**|A vCard (.vcf) file is created and added to the  **Attachments** collection of the **SharingItem** object.|
 | **olFormatHTML**|An image of the business card is generated and included in the  **[Body](Outlook.MailItem.Body.md)** property of the **SharingItem** object, and a vCard (.vcf) file is created and added to the **[Attachments](Outlook.Attachments.md)** collection of the **SharingItem** object.|
 
- **Note**  The attached vCard file contains only the contact information included in the Electronic Business Card associated with the  **ContactItem** object. Any contact information not displayed in the Electronic Business Card is excluded from the vCard file.
+> [!NOTE] 
+> The attached vCard file contains only the contact information included in the Electronic Business Card associated with the  **ContactItem** object. Any contact information not displayed in the Electronic Business Card is excluded from the vCard file.
 
 
 ## See also

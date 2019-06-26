@@ -21,7 +21,7 @@ Positions all task boxes in the active Network Diagram that are successors or su
 
 _expression_. `LayoutRelatedNow`
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Return value

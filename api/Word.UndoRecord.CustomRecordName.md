@@ -34,7 +34,8 @@ If custom undo records are nested within other custom undo records, this propert
 The following code example creates nested custom undo records. When the code completes, a message about each undo record is inserted into the active document, and "First call" appears as the entry on the undo stack.
 
 
- **Note**  To run this code example, place it the code file for  **ThisDocument** in the Visual Basic for Applications Project Explorer.
+> [!NOTE] 
+> To run this code example, place it the code file for  **ThisDocument** in the Visual Basic for Applications Project Explorer.
 
 
 ```vb

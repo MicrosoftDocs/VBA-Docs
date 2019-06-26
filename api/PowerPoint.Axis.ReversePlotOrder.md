@@ -34,7 +34,8 @@ You cannot use this property on radar charts.
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example plots data points from last to first on the value axis for the first chart in the active document.
 

@@ -18,7 +18,7 @@ Occurs when a project schedule is recalculated.
 
 _expression_. `Calculate`( `_pj_` )
 
- _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
+ _expression_ An expression that returns a **[Project](project.project.md)** object.
 
 
 ## Parameters

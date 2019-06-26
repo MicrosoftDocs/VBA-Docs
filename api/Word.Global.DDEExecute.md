@@ -33,13 +33,6 @@ _expression_ A variable that represents a '[Global](Word.Global.md)' object. Opt
 | _Channel_|Required| **Long**|The channel number returned by the  **DDEInitiate** method.|
 | _Command_|Required| **String**|A command or series of commands recognized by the receiving application (the DDE server). If the receiving application cannot perform the specified command, an error occurs.|
 
-## Remarks
-
-
- **Security Note**  
-
-
-
 
 ## Example
 

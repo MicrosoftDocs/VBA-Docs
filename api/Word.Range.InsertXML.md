@@ -19,14 +19,12 @@ Inserts the specified XML into the document at the specified range, replacing an
 
 ## Syntax
 
-_expression_. `InsertXML`( `_XML_` , `_Transform_` )
+_expression_.**InsertXML** (_XML_, _Transform_)
 
- _expression_ An expression that returns a [Range](./Word.Range.md) object.
+_expression_ An expression that returns a [Range](./Word.Range.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -46,7 +44,7 @@ The following example inserts the specified XML string into the document at the 
 ```vb
 Dim strXML As String 
  
-strXML = "<?xml version=""1.0""?><abc:books xmlns:abc=""urn:books"" " & _ 
+strXML = "<"xml version=""1.0""><abc:books xmlns:abc=""urn:books"" " & _ 
  "xmlns:xsi=""https://www.w3.org/2001/XMLSchema-instance"" " & _ 
  "xsi:schemaLocation=""urn:books books.xsd""><book>" & _ 
  "<author>Matt Hink</author><title>Migration Paths of the Red " & _ 
@@ -61,9 +59,6 @@ ActiveDocument.Paragraphs(5).Range.InsertXML strXML
 ```
 
 
-## See also
 
-
-[Range Object](Word.Range.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

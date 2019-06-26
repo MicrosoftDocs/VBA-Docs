@@ -18,7 +18,7 @@ Returns  **False** if Project Professional is connected with Project Server.
 
 _expression_. `IsOffline`
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Repeats the last search and returns **True** if the search value is found.
 
 _expression_.**FindNext**
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Return value

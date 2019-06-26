@@ -51,7 +51,8 @@ MsgBox AutoCorrect.HangulAndAlphabetExceptions(1).Name
 ```
 
 
- **Note**  The list of Hangul and alphabet AutoCorrect exceptions corresponds to the list of AutoCorrect exceptions on the  **Korean** tab in the **AutoCorrect Exceptions** dialog box.
+> [!NOTE] 
+> The list of Hangul and alphabet AutoCorrect exceptions corresponds to the list of AutoCorrect exceptions on the  **Korean** tab in the **AutoCorrect Exceptions** dialog box.
 
 
 ## See also

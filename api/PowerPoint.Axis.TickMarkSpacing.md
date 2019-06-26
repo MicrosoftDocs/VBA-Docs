@@ -36,7 +36,8 @@ Use the  **[MajorUnit](PowerPoint.Axis.MajorUnit.md)** and **[MinorUnit](PowerPo
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the number of categories between tick marks on the category axis of the first chart in the active document.
 

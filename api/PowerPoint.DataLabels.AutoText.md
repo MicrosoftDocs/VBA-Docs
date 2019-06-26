@@ -31,7 +31,8 @@ Setting the value of this property sets the  **[AutoText](PowerPoint.DataLabel.A
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the data labels for series one of the first chart in the active document to automatically generate appropriate text.
 

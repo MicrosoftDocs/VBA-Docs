@@ -39,7 +39,8 @@ For security purposes, you cannot install an unsigned manifest. For more informa
 The following code example installs the SimpleSample smart document solution on the user's computer and makes it available only to the current user.
 
 
- **Note**  The SimpleSample schema is included in the Smart Document Software Development Kit (SDK). For more information, refer to the Smart Document SDK.
+> [!NOTE] 
+> The SimpleSample schema is included in the Smart Document Software Development Kit (SDK). For more information, refer to the Smart Document SDK.
 
 
 ```vb

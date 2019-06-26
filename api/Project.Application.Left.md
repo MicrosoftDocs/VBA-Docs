@@ -18,6 +18,6 @@ Gets or sets the distance of the main window from the left edge of the screen in
 
 _expression_.**Left**
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

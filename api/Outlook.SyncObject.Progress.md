@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SyncObject.Progress event (Outlook)
 
-Occurs periodically while Microsoft Outlook is synchronizing a user?s folders using the specified  **Send\Receive** group.
+Occurs periodically while Microsoft Outlook is synchronizing a user's folders using the specified **Send\Receive** group.
 
 
 ## Syntax
