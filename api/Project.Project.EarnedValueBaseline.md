@@ -21,7 +21,7 @@ Gets or sets the baseline for the earned values of tasks. Read/write  **PjBaseli
 
 _expression_. `EarnedValueBaseline`
 
-_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a **[Project](project.project.md)** object.
 
 
 ## Remarks

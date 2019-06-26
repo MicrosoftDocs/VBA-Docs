@@ -18,7 +18,7 @@ Links a deliverable to a task.
 
 _expression_. `DeliverableLinkToTask`( `_DeliverableGuid_`, `_TaskGuid_` )
 
-_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a **[Project](project.project.md)** object.
 
 
 ## Parameters

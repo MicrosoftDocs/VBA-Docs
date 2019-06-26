@@ -76,9 +76,25 @@ AddIns("Letter.dot").Installed = True
 > Use the **[Compiled](Word.AddIn.Compiled.md)** property to determine whether an **AddIn** object is a template or a WLL.
 
 
+## Methods
+
+- [Delete](Word.AddIn.Delete.md)
+
+## Properties
+
+- [Application](Word.AddIn.Application.md)
+- [Autoload](Word.AddIn.Autoload.md)
+- [Compiled](Word.AddIn.Compiled.md)
+- [Creator](Word.AddIn.Creator.md)
+- [Index](Word.AddIn.Index.md)
+- [Installed](Word.AddIn.Installed.md)
+- [Name](Word.AddIn.Name.md)
+- [Parent](Word.AddIn.Parent.md)
+- [Path](Word.AddIn.Path.md)
+
+
 ## See also
 
-
-[Word Object Model Reference](overview/Word/object-model.md)
+- [Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

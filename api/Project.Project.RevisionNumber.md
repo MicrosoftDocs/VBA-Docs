@@ -11,13 +11,13 @@ localization_priority: Normal
 
 # Project.RevisionNumber property (Project)
 
-Gets the number of times a project has been saved. Read-only  **String**.
+Gets the number of times a project has been saved. Read-only **String**.
 
 
 ## Syntax
 
-_expression_. `RevisionNumber`
+_expression_.**RevisionNumber**
 
-_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a **[Project](project.project.md)** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

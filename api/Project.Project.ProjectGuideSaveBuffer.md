@@ -21,7 +21,7 @@ Gets or sets an XML string representing the save buffer of the Project Guide. Re
 
 _expression_. `ProjectGuideSaveBuffer`
 
-_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a **[Project](project.project.md)** object.
 
 
 ## Remarks

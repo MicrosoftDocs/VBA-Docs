@@ -19,7 +19,7 @@ Returns a  **String** representing the file name of the attachment. Read-only.
 
 ## Syntax
 
-_expression_. `FileName`
+_expression_.**FileName**
 
 _expression_ A variable that represents an [Attachment](Outlook.Attachment.md) object.
 

@@ -19,14 +19,12 @@ Returns an item of a collection using the ID of the item. Read-only.
 
 ## Syntax
 
-_expression_. `ItemFromID`( `_nID_` )
+_expression_.**ItemFromID** (_nID_)
 
 _expression_ A variable that represents a **[Shapes](Visio.Shapes.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -39,17 +37,17 @@ Shape
 
 ## Remarks
 
-The ID of a  **Shape** object uniquely identifies the shape within its page or master. You can determine the ID of a shape by displaying the **Special** dialog box (select the shape, and then click **Shape Name** on the [Developer](../visio/How-to/run-visio-in-developer-mode.md) tab.)
+The ID of a **Shape** object uniquely identifies the shape within its page or master. You can determine the ID of a shape by displaying the **Special** dialog box (select the shape, and then click **Shape Name** on the [Developer](../visio/How-to/run-visio-in-developer-mode.md) tab.)
 
-The ID of a  **Style** object uniquely identifies the style within its document.
+The ID of a **Style** object uniquely identifies the style within its document.
 
-The ID of a  **Font** object corresponds to the number stored in the Font cell of a row in a shape's Character Properties section. The ID associated with a particular font varies between systems or as fonts are installed on and removed from a given system.
+The ID of a **Font** object corresponds to the number stored in the Font cell of a row in a shape's Character Properties section. The ID associated with a particular font varies between systems or as fonts are installed on and removed from a given system.
 
-The ID of an  **Event** object uniquely identifies an event in its **EventList** collection for the life of the collection.
+The ID of an **Event** object uniquely identifies an event in its **EventList** collection for the life of the collection.
 
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVShapes.get_ItemFromID**
+- **Microsoft.Office.Interop.Visio.IVShapes.get_ItemFromID**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

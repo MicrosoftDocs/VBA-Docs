@@ -50,11 +50,16 @@ With rac.Adjustments
 End With
 ```
 
+## Properties
+
+- [Application](Word.Adjustments.Application.md)
+- [Count](Word.Adjustments.Count.md)
+- [Creator](Word.Adjustments.Creator.md)
+- [Item](Word.Adjustments.Item.md)
+- [Parent](Word.Adjustments.Parent.md)
 
 ## See also
 
-
-
-[Word Object Model Reference](overview/Word/object-model.md)
+- [Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

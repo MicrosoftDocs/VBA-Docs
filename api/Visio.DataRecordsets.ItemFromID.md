@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataRecordsets.ItemFromID property (Visio)
 
-Returns a  **DataRecordset** object from the **DataRecordsets** collection by using the unique ID of the object. Read-only.
+Returns a **DataRecordset** object from the **DataRecordsets** collection by using the unique ID of the object. Read-only.
 
 
 > [!NOTE] 
@@ -23,18 +23,16 @@ Returns a  **DataRecordset** object from the **DataRecordsets** collection by us
 
 ## Syntax
 
-_expression_. `ItemFromID`( `_ID_` )
+_expression_.**ItemFromID** (_ID_)
 
 _expression_ A variable that represents a **[DataRecordsets](Visio.DataRecordsets.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ID_|Required| **Long**|The unique ID of the  **DataRecordset** object to retrieve.|
+| _ID_|Required| **Long**|The unique ID of the **DataRecordset** object to retrieve.|
 
 ## Return value
 
@@ -43,6 +41,6 @@ DataRecordset
 
 ## Remarks
 
-The ID of a  **DataRecordset** object is never recycled for a particular document. You can get the ID of a **DataRecordset** object by getting the value of the **DataRecordset.ID** property.
+The ID of a **DataRecordset** object is never recycled for a particular document. You can get the ID of a **DataRecordset** object by getting the value of the **DataRecordset.ID** property.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,7 +19,7 @@ Returns the part of a shape from which a connection originates. Read-only.
 
 ## Syntax
 
-_expression_. `FromPart`
+_expression_.**FromPart**
 
 _expression_ A variable that represents a **[Connect](Visio.Connect.md)** object.
 
@@ -31,9 +31,7 @@ Integer
 
 ## Remarks
 
-The following constants declared by the Microsoft Visio type library show return values for the  **FromPart** property.
-
-
+The following constants declared by the Microsoft Visio type library show return values for the **FromPart** property.
 
 |Constant|Value|
 |:-----|:-----|
@@ -53,7 +51,7 @@ The following constants declared by the Microsoft Visio type library show return
 | **visEnd**|12|
 | **visFromAngle**|13|
 | **visFromPin**|14|
-| **visControlPoint**|100 + zero-based row index (for example,  **visControlPoint** = 100 if the control point is in row 0; **visControlPoint** = 101 if the control point is in row 1)|
+| **visControlPoint**|100 + zero-based row index (for example, **visControlPoint** = 100 if the control point is in row 0; **visControlPoint** = 101 if the control point is in row 1)|
 
 ## Example
 

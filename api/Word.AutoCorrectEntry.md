@@ -54,11 +54,23 @@ The following example creates an AutoCorrect entry named "PMO" based on the text
 AutoCorrect.Entries.AddRichText Name:="PMO", Range:=Selection.Range
 ```
 
+## Methods
+
+- [Apply](Word.AutoCorrectEntry.Apply.md)
+- [Delete](Word.AutoCorrectEntry.Delete.md)
+
+## Properties
+
+- [Application](Word.AutoCorrectEntry.Application.md)
+- [Creator](Word.AutoCorrectEntry.Creator.md)
+- [Index](Word.AutoCorrectEntry.Index.md)
+- [Name](Word.AutoCorrectEntry.Name.md)
+- [Parent](Word.AutoCorrectEntry.Parent.md)
+- [RichText](Word.AutoCorrectEntry.RichText.md)
+- [Value](Word.AutoCorrectEntry.Value.md)
 
 ## See also
 
-
-
-[Word Object Model Reference](overview/Word/object-model.md)
+- [Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

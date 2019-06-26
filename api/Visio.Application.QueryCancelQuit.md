@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.QueryCancelQuit event (Visio)
 
-Occurs before the application terminates in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
+Occurs before the application terminates in response to a user action in the interface. If any event handler returns **True**, the operation is canceled.
 
 
 ## Syntax
@@ -31,14 +31,14 @@ _expression_ A variable that represents an **[Application](Visio.Application.md)
 
 ## Remarks
 
-A Visio instance fires  **QueryCancelQuit** after the user has directed the instance to terminate.
+A Visio instance fires **QueryCancelQuit** after the user has directed the instance to terminate.
 
 
 
 
-- If any event handler returns  **True** (cancel), the instance fires **QuitCanceled** and does not terminate.
+- If any event handler returns **True** (cancel), the instance fires **QuitCanceled** and does not terminate.
     
-- If all handlers return  **False** (don't cancel), the instance fires **BeforeQuit** and then terminates.
+- If all handlers return **False** (don't cancel), the instance fires **BeforeQuit** and then terminates.
     
 
 

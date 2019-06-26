@@ -21,7 +21,7 @@ Gets or sets whether to show additional shape handles when the mouse is paused o
 
 _expression_.**ShowMoreShapeHandlesOnHover**
 
- _expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
+_expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 
 
 ## Return value
@@ -31,6 +31,6 @@ Boolean
 
 ## Remarks
 
-The setting of the  **ShowMoreShapeHandlesOnHover** property corresponds to the setting of the **Show more shape handles on hover** checkbox on the **Advanced** tab of the **Visio Options** dialog box (click the **File** tab, and then click **Options**) in the Microsoft Visio user interface.
+The setting of the **ShowMoreShapeHandlesOnHover** property corresponds to the setting of the **Show more shape handles on hover** checkbox on the **Advanced** tab of the **Visio Options** dialog box (click the **File** tab, and then click **Options**) in the Microsoft Visio user interface.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

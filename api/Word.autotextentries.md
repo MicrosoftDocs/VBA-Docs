@@ -54,10 +54,21 @@ MsgBox "Name = " & myTemplate.AutoTextEntries(1).Name & vbCr _
  & "Value " & myTemplate.AutoTextEntries(1).Value
 ```
 
+## Methods
+
+- [Add](Word.AutoTextEntries.Add.md)
+- [AppendToSpike](Word.AutoTextEntries.AppendToSpike.md)
+- [Item](Word.AutoTextEntries.Item.md)
+
+## Properties
+
+- [Application](Word.AutoTextEntries.Application.md)
+- [Count](Word.AutoTextEntries.Count.md)
+- [Creator](Word.AutoTextEntries.Creator.md)
+- [Parent](Word.AutoTextEntries.Parent.md)
 
 ## See also
 
-
-[Word Object Model Reference](overview/Word/object-model.md)
+- [Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

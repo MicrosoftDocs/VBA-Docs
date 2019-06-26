@@ -117,34 +117,26 @@ For more information about building blocks, see [Working with Building Blocks](.
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Word.BuildingBlock.Delete.md)|
-|[Insert](Word.BuildingBlock.Insert.md)|
+- [Delete](Word.BuildingBlock.Delete.md)
+- [Insert](Word.BuildingBlock.Insert.md)
 
 ## Properties
 
+- [Application](Word.BuildingBlock.Application.md)
+- [Category](Word.BuildingBlock.Category.md)
+- [Creator](Word.BuildingBlock.Creator.md)
+- [Description](Word.BuildingBlock.Description.md)
+- [ID](Word.BuildingBlock.ID.md)
+- [Index](Word.BuildingBlock.Index.md)
+- [InsertOptions](Word.BuildingBlock.InsertOptions.md)
+- [Name](Word.BuildingBlock.Name.md)
+- [Parent](Word.BuildingBlock.Parent.md)
+- [Type](Word.BuildingBlock.Type.md)
+- [Value](Word.BuildingBlock.Value.md)
 
-
-|Name|
-|:-----|
-|[Application](Word.BuildingBlock.Application.md)|
-|[Category](Word.BuildingBlock.Category.md)|
-|[Creator](Word.BuildingBlock.Creator.md)|
-|[Description](Word.BuildingBlock.Description.md)|
-|[ID](Word.BuildingBlock.ID.md)|
-|[Index](Word.BuildingBlock.Index.md)|
-|[InsertOptions](Word.BuildingBlock.InsertOptions.md)|
-|[Name](Word.BuildingBlock.Name.md)|
-|[Parent](Word.BuildingBlock.Parent.md)|
-|[Type](Word.BuildingBlock.Type.md)|
-|[Value](Word.BuildingBlock.Value.md)|
 
 ## See also
 
-
-[Word Object Model Reference](overview/Word/object-model.md)
+- [Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

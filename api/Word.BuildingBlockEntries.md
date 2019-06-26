@@ -46,27 +46,19 @@ For more information about building blocks, see [Working with Building Blocks](.
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Word.BuildingBlockEntries.Add.md)|
-|[Item](Word.BuildingBlockEntries.Item.md)|
+- [Add](Word.BuildingBlockEntries.Add.md)
+- [Item](Word.BuildingBlockEntries.Item.md)
 
 ## Properties
 
+- [Application](Word.BuildingBlockEntries.Application.md)
+- [Count](Word.BuildingBlockEntries.Count.md)
+- [Creator](Word.BuildingBlockEntries.Creator.md)
+- [Parent](Word.BuildingBlockEntries.Parent.md)
 
-
-|Name|
-|:-----|
-|[Application](Word.BuildingBlockEntries.Application.md)|
-|[Count](Word.BuildingBlockEntries.Count.md)|
-|[Creator](Word.BuildingBlockEntries.Creator.md)|
-|[Parent](Word.BuildingBlockEntries.Parent.md)|
 
 ## See also
 
-
-[Word Object Model Reference](overview/Word/object-model.md)
+- [Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

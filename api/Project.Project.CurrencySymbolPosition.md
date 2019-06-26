@@ -21,7 +21,7 @@ Gets or sets the location of the currency symbol. Read/write  **PjPlacement**.
 
 _expression_. `CurrencySymbolPosition`
 
-_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a **[Project](project.project.md)** object.
 
 
 ## Remarks

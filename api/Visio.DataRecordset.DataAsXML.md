@@ -23,9 +23,9 @@ Returns an XML string that fully describes a data recordset and conforms to the 
 
 ## Syntax
 
-_expression_. `DataAsXML`
+_expression_.**DataAsXML**
 
- _expression_ An expression that returns a **[DataRecordset](Visio.DataRecordset.md)** object.
+_expression_ An expression that returns a **[DataRecordset](Visio.DataRecordset.md)** object.
 
 
 ## Return value
@@ -35,8 +35,8 @@ String
 
 ## Remarks
 
-The string returned by  **DataAsXML** contains all the rows in the data recordset with Microsoft Visio row IDs pre-pended to them.
+The string returned by **DataAsXML** contains all the rows in the data recordset with Microsoft Visio row IDs pre-pended to them.
 
-The string returned by  **DataAsXML** contains all the valid rows and columns in the data recordset that was imported as well as an additional column, named _Visio_RowID_, inserted as the first column, that assigns a unique row ID to each row in the data recordset.
+The string returned by **DataAsXML** contains all the valid rows and columns in the data recordset that was imported as well as an additional column, named _Visio_RowID_, inserted as the first column, that assigns a unique row ID to each row in the data recordset.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

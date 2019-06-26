@@ -40,11 +40,64 @@ With ActiveDocument.InlineShapes(1)
 End With
 ```
 
+## Methods
+
+- [Delete](Word.Axis.Delete.md)
+- [Select](Word.Axis.Select.md)
+
+## Properties
+
+- [Application](Word.Axis.Application.md)
+- [AxisBetweenCategories](Word.Axis.AxisBetweenCategories.md)
+- [AxisGroup](Word.Axis.AxisGroup.md)
+- [AxisTitle](Word.Axis.AxisTitle.md)
+- [BaseUnit](Word.Axis.BaseUnit.md)
+- [BaseUnitIsAuto](Word.Axis.BaseUnitIsAuto.md)
+- [Border](Word.Axis.Border.md)
+- [CategoryNames](Word.Axis.CategoryNames.md)
+- [CategoryType](Word.Axis.CategoryType.md)
+- [Creator](Word.Axis.Creator.md)
+- [Crosses](Word.Axis.Crosses.md)
+- [CrossesAt](Word.Axis.CrossesAt.md)
+- [DisplayUnit](Word.Axis.DisplayUnit.md)
+- [DisplayUnitCustom](Word.Axis.DisplayUnitCustom.md)
+- [DisplayUnitLabel](Word.Axis.DisplayUnitLabel.md)
+- [Format](Word.Axis.Format.md)
+- [HasDisplayUnitLabel](Word.Axis.HasDisplayUnitLabel.md)
+- [HasMajorGridlines](Word.Axis.HasMajorGridlines.md)
+- [HasMinorGridlines](Word.Axis.HasMinorGridlines.md)
+- [HasTitle](Word.Axis.HasTitle.md)
+- [Height](Word.Axis.Height.md)
+- [Left](Word.Axis.Left.md)
+- [LogBase](Word.Axis.LogBase.md)
+- [MajorGridlines](Word.Axis.MajorGridlines.md)
+- [MajorTickMark](Word.Axis.MajorTickMark.md)
+- [MajorUnit](Word.Axis.MajorUnit.md)
+- [MajorUnitIsAuto](Word.Axis.MajorUnitIsAuto.md)
+- [MajorUnitScale](Word.Axis.MajorUnitScale.md)
+- [MaximumScale](Word.Axis.MaximumScale.md)
+- [MaximumScaleIsAuto](Word.Axis.MaximumScaleIsAuto.md)
+- [MinimumScale](Word.Axis.MinimumScale.md)
+- [MinimumScaleIsAuto](Word.Axis.MinimumScaleIsAuto.md)
+- [MinorGridlines](Word.Axis.MinorGridlines.md)
+- [MinorTickMark](Word.Axis.MinorTickMark.md)
+- [MinorUnit](Word.Axis.MinorUnit.md)
+- [MinorUnitIsAuto](Word.Axis.MinorUnitIsAuto.md)
+- [MinorUnitScale](Word.Axis.MinorUnitScale.md)
+- [Parent](Word.Axis.Parent.md)
+- [ReversePlotOrder](Word.Axis.ReversePlotOrder.md)
+- [ScaleType](Word.Axis.ScaleType.md)
+- [TickLabelPosition](Word.Axis.TickLabelPosition.md)
+- [TickLabels](Word.Axis.TickLabels.md)
+- [TickLabelSpacing](Word.Axis.TickLabelSpacing.md)
+- [TickLabelSpacingIsAuto](Word.Axis.TickLabelSpacingIsAuto.md)
+- [TickMarkSpacing](Word.Axis.TickMarkSpacing.md)
+- [Top](Word.Axis.Top.md)
+- [Type](Word.Axis.Type.md)
+- [Width](Word.Axis.Width.md)
 
 ## See also
 
-
-
-[Word Object Model Reference](overview/Word/object-model.md)
+- [Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

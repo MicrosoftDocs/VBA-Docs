@@ -19,7 +19,7 @@ Returns the shape to which one or more connections are made. Read-only.
 
 ## Syntax
 
-_expression_. `ToSheet`
+_expression_.**ToSheet**
 
 _expression_ A variable that represents a **[Connect](Visio.Connect.md)** object.
 
@@ -31,16 +31,16 @@ Shape
 
 ## Remarks
 
-The  **ToSheet** property for a **Connect** object always returns the shape to which the connection is made.
+The **ToSheet** property for a **Connect** object always returns the shape to which the connection is made.
 
-The  **Connects** collection represents several connections. If every connection represented by the collection is made to the same shape, the **ToSheet** property returns that shape. Otherwise, it returns **Nothing** and does not raise an exception.
+The **Connects** collection represents several connections. If every connection represented by the collection is made to the same shape, the **ToSheet** property returns that shape. Otherwise, it returns **Nothing** and does not raise an exception.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ToSheet** property to find the shape a **Connect** object originates from in a Microsoft Visio drawing. The example displays the connection information in the Immediate window.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **ToSheet** property to find the shape a **Connect** object originates from in a Microsoft Visio drawing. The example displays the connection information in the Immediate window.
 
-This example assumes there is an active document that contains at least two connected shapes. For best results, connect two shapes from the  **Organization Chart Shapes** stencil.
+This example assumes there is an active document that contains at least two connected shapes. For best results, connect two shapes from the **Organization Chart Shapes** stencil.
 
 
 

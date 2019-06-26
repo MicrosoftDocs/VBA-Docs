@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataRecordset.DataColumns property (Visio)
 
-Returns the  **[DataColumns](Visio.DataColumns.md)** collection associated with the **DataRecordset** object. Read-only.
+Returns the **[DataColumns](Visio.DataColumns.md)** collection associated with the **DataRecordset** object. Read-only.
 
 
 > [!NOTE] 
@@ -23,9 +23,9 @@ Returns the  **[DataColumns](Visio.DataColumns.md)** collection associated with 
 
 ## Syntax
 
-_expression_. `DataColumns`
+_expression_.**DataColumns**
 
- _expression_ An expression that returns a **[DataRecordset](Visio.DataRecordset.md)** object.
+_expression_ An expression that returns a **[DataRecordset](Visio.DataRecordset.md)** object.
 
 
 ## Return value
@@ -35,8 +35,8 @@ DataColumns
 
 ## Remarks
 
-Every  **DataRecordset** object contains a **DataColumns** collection of all the **[DataColumn](Visio.DataColumn.md)** objects associated with the **DataRecordset** object. These objects allow you to map data columns to cells in the Shape Data (formerly Custom Properties) section of the Visio ShapeSheet spreadsheet.
+Every **DataRecordset** object contains a **DataColumns** collection of all the **[DataColumn](Visio.DataColumn.md)** objects associated with the **DataRecordset** object. These objects allow you to map data columns to cells in the Shape Data (formerly Custom Properties) section of the Visio ShapeSheet spreadsheet.
 
-Once you get the  **DataColumns** collection, you can use its **[SetColumnProperties](Visio.DataColumns.SetColumnProperties.md)** method to set the properties of multiple data columns, or you can get and set the properties of individual data columns by using the **[DataColumn.GetProperty](Visio.DataColumn.GetProperty.md)** and **[DataColumn.SetProperty](Visio.DataColumn.SetProperty.md)** properties respectively.
+Once you get the **DataColumns** collection, you can use its **[SetColumnProperties](Visio.DataColumns.SetColumnProperties.md)** method to set the properties of multiple data columns, or you can get and set the properties of individual data columns by using the **[DataColumn.GetProperty](Visio.DataColumn.GetProperty.md)** and **[DataColumn.SetProperty](Visio.DataColumn.SetProperty.md)** properties respectively.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

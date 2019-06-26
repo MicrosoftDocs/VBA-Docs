@@ -14,7 +14,7 @@ Gets whether the  **Check Out** button is visible in the Backstage view. Read-on
 
 _expression_. `IsCheckoutOSVisible`
 
-_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a **[Project](project.project.md)** object.
 
 
 ## Remarks

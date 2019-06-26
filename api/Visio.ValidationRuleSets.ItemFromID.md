@@ -14,19 +14,17 @@ localization_priority: Normal
 
 # ValidationRuleSets.ItemFromID property (Visio)
 
-Returns the  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object that matches the specified ID. Read-only.
+Returns the **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object that matches the specified ID. Read-only.
 
 
 ## Syntax
 
-_expression_. `ItemFromID`( `_RuleID_` )
+_expression_.**ItemFromID** (_RuleID_)
 
 _expression_ A variable that represents a **[ValidationRuleSets](Visio.ValidationRuleSets.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,6 +32,6 @@ _expression_ A variable that represents a **[ValidationRuleSets](Visio.Validatio
 
 ## Return value
 
- **ValidationRuleSet**
+**ValidationRuleSet**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

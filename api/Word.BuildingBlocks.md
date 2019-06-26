@@ -36,11 +36,21 @@ The collection returned with the  **BuildingBlocks** collection is a filtered co
 
 For more information about building blocks, see [Working with Building Blocks](../word/Concepts/Working-with-Word/working-with-building-blocks.md).
 
+## Methods
+
+- [Add](Word.BuildingBlocks.Add.md)
+- [Item](Word.BuildingBlocks.Item.md)
+
+## Properties
+
+- [Application](Word.BuildingBlocks.Application.md)
+- [Count](Word.BuildingBlocks.Count.md)
+- [Creator](Word.BuildingBlocks.Creator.md)
+- [Parent](Word.BuildingBlocks.Parent.md)
+
 
 ## See also
 
-
-
-[Word Object Model Reference](overview/Word/object-model.md)
+- [Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

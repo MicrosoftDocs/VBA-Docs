@@ -50,10 +50,19 @@ With ActiveDocument.InlineShapes(1)
 End With
 ```
 
+## Methods
+
+- [Item](Word.Axes.Item.md)
+
+## Properties
+
+- [Application](Word.Axes.Application.md)
+- [Count](Word.Axes.Count.md)
+- [Creator](Word.Axes.Creator.md)
+- [Parent](Word.Axes.Parent.md)
 
 ## See also
 
-
-[Word Object Model Reference](overview/Word/object-model.md)
+- [Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

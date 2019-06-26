@@ -11,26 +11,23 @@ localization_priority: Normal
 
 # Windows.Parent property (Project)
 
-Gets the parent of the  **Windows** object. Read-only **Object**.
+Gets the parent of the **Windows** object. Read-only **Object**.
 
 
 ## Syntax
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a 'Windows' object.
+_expression_ A variable that represents a **[Windows](Project.windows(object).md)** object.
 
 
 ## Remarks
 
-The parent of a  **Windows** collection object can be the **Application** or a **Project** object.
+The parent of a **Windows** collection object can be the **Application** or a **[Project](project.project.md)** object.
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
-
-
-## See also
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 
-[Windows Collection Object](Project.windows(object).md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

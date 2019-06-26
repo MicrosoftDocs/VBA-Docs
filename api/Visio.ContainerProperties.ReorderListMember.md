@@ -19,14 +19,12 @@ Moves a shape or a set of shapes up or down in the list.
 
 ## Syntax
 
-_expression_. `ReorderListMember`( `_ObjectToReorder_` , `_Position_` )
+_expression_.**ReorderListMember** (_ObjectToReorder_, _Position_)
 
 _expression_ A variable that represents a **[ContainerProperties](Visio.ContainerProperties.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

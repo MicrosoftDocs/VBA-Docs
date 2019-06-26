@@ -18,7 +18,7 @@ localization_priority: Normal
 
 _expression_. `UnderlineHyperlinks`
 
-_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a **[Project](project.project.md)** object.
 
 
 ## Remarks

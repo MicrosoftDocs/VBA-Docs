@@ -19,14 +19,12 @@ Returns an item of a collection using the ID of the item. Read-only.
 
 ## Syntax
 
-_expression_. `ItemFromID`( `_nID_` )
+_expression_.**ItemFromID** (_nID_)
 
 _expression_ A variable that represents a **[Masters](Visio.Masters.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -39,12 +37,12 @@ Master
 
 ## Remarks
 
-The ID of a  **Shape** object uniquely identifies the shape within its page or master.
+The ID of a **Shape** object uniquely identifies the shape within its page or master.
 
-The ID of a  **Style** object uniquely identifies the style within its document.
+The ID of a **Style** object uniquely identifies the style within its document.
 
-The ID of a  **Font** object corresponds to the number stored in the Font cell of a row in a shape's Character Properties section. The ID associated with a particular font varies between systems or as fonts are installed on and removed from a given system.
+The ID of a **Font** object corresponds to the number stored in the Font cell of a row in a shape's Character Properties section. The ID associated with a particular font varies between systems or as fonts are installed on and removed from a given system.
 
-The ID of an  **Event** object uniquely identifies an event in its **EventList** collection for the life of the collection.
+The ID of an **Event** object uniquely identifies an event in its **EventList** collection for the life of the collection.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

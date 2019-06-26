@@ -21,7 +21,7 @@ Gets the project unique ID for a project stored in a database. Read/write  **Var
 
 _expression_. `DatabaseProjectUniqueID`
 
-_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a **[Project](project.project.md)** object.
 
 
 ## Remarks

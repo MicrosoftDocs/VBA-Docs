@@ -21,7 +21,7 @@ Gets a  **VBProject** object that represents the Microsoft Visual Basic project.
 
 _expression_. `VBProject`
 
-_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a **[Project](project.project.md)** object.
 
 
 ## Remarks

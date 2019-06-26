@@ -21,7 +21,7 @@ Gets or sets the Project Guide functional layout page for the specified project.
 
 _expression_. `ProjectGuideFunctionalLayoutPage`
 
-_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a **[Project](project.project.md)** object.
 
 
 ## Remarks

@@ -18,7 +18,7 @@ Occurs before a project is printed.
 
 _expression_. `BeforePrint`( `_pj_` )
 
- _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
+ _expression_ An expression that returns a **[Project](project.project.md)** object.
 
 
 ## Parameters

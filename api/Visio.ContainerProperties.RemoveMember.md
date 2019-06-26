@@ -19,14 +19,12 @@ Removes a shape or set of shapes from the container.
 
 ## Syntax
 
-_expression_. `RemoveMember`( `_ObjectToRemove_` )
+_expression_.**RemoveMember** (_ObjectToRemove_)
 
 _expression_ A variable that represents a **[ContainerProperties](Visio.ContainerProperties.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

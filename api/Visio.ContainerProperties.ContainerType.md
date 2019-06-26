@@ -19,7 +19,7 @@ Determines whether the container is a normal container or a list container. Read
 
 ## Syntax
 
-_expression_. `ContainerType`
+_expression_.**ContainerType**
 
  _expression_ An expression that returns a **[ContainerProperties](Visio.ContainerProperties.md)** object.
 

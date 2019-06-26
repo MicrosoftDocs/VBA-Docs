@@ -14,13 +14,14 @@ localization_priority: Normal
 
 # Project.AutoTrack property (Project)
 
- **True** if Project automatically updates the work and costs of resources assigned to a task when the percent complete changes. Read/write **Boolean**.
+**True** if Project automatically updates the work and costs of resources assigned to a task when the percent complete changes. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `AutoTrack`
+_expression_.**AutoTrack**
 
-_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a **[Project](project.project.md)** object.
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

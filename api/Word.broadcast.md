@@ -12,7 +12,25 @@ localization_priority: Normal
 
 # Broadcast object (Word)
 
-Represents a Windows Live 2012 Broadcast Service broadcast session.
+Represents a Windows Live Broadcast Service broadcast session.
+
+## Methods
+
+- [AddMeetingNotes](Word.broadcast.addmeetingnotes.md)
+- [End](Word.broadcast.end.md)
+- [Pause](Word.broadcast.pause.md)
+- [Resume](Word.broadcast.resume.md)
+- [Start](Word.broadcast.start.md)
+
+## Properties
+
+- [Application](Word.broadcast.application.md)
+- [AttendeeUrl](Word.broadcast.attendeeurl.md)
+- [Capabilities](Word.broadcast.capabilities.md)
+- [Parent](Word.broadcast.parent.md)
+- [PresenterServiceUrl](Word.broadcast.presenterserviceurl.md)
+- [SessionID](Word.broadcast.sessionid.md)
+- [State](Word.broadcast.state.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

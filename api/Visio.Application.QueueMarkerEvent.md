@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.QueueMarkerEvent method (Visio)
 
-Queues a  **MarkerEvent** event that fires after all other queued events.
+Queues a **MarkerEvent** event that fires after all other queued events.
 
 
 ## Syntax
@@ -37,16 +37,16 @@ Long
 
 ## Remarks
 
-The  **QueueMarkerEvent** method works in conjunction with the **MarkerEvent** event to allow an Automation client to queue an event to itself. The **QueueMarkerEvent** method causes the application to fire a **MarkerEvent** event after it has fired all the events in its event queue.
+The **QueueMarkerEvent** method works in conjunction with the **MarkerEvent** event to allow an Automation client to queue an event to itself. The **QueueMarkerEvent** method causes the application to fire a **MarkerEvent** event after it has fired all the events in its event queue.
 
-The  **QueueMarkerEvent** method returns the sequence number of the **MarkerEvent** event to fire, and the string passed to the **QueueMarkerEvent** method (legally empty) is passed to the **MarkerEvent** event handler.
+The **QueueMarkerEvent** method returns the sequence number of the **MarkerEvent** event to fire, and the string passed to the **QueueMarkerEvent** method (legally empty) is passed to the **MarkerEvent** event handler.
 
-A client program can use either the sequence number or the string to correlate  **QueueMarkerEvent** calls with **MarkerEvent** events. In this way, the client is able to distinguish events it caused and events it did not cause.
+A client program can use either the sequence number or the string to correlate **QueueMarkerEvent** calls with **MarkerEvent** events. In this way, the client is able to distinguish events it caused and events it did not cause.
 
 
 ## Example
 
-Paste this example code into the  **[ThisDocument](../visio/Concepts/about-the-thisdocument-object-visio.md)** object and then run the **UseMarker** procedure. The output will be displayed in the Microsoft Visual Basic for Applications (VBA) Immediate window.
+Paste this example code into the **[ThisDocument](../visio/Concepts/about-the-thisdocument-object-visio.md)** object and then run the **UseMarker** procedure. The output will be displayed in the Microsoft Visual Basic for Applications (VBA) Immediate window.
 
 
 ```vb

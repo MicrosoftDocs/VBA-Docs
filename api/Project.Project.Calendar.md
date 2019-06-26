@@ -18,7 +18,7 @@ Gets a  **[Calendar](Project.Calendar.md)** object representing a calendar for t
 
 _expression_. `Calendar`
 
-_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a **[Project](project.project.md)** object.
 
 
 ## Example

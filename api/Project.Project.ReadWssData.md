@@ -21,7 +21,7 @@ Returns the Project Workspace URLs for the active enterprise project as an XML s
 
 _expression_. `ReadWssData`( `_ProjectGuid_` )
 
-_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a **[Project](project.project.md)** object.
 
 
 ## Parameters

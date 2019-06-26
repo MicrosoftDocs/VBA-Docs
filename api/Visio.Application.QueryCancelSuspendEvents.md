@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.QueryCancelSuspendEvents event (Visio)
 
-Occurs before the application suspends events in response to client code. If any event handler returns  **True**, the operation is canceled.
+Occurs before the application suspends events in response to client code. If any event handler returns **True**, the operation is canceled.
 
 
 ## Syntax
@@ -36,14 +36,14 @@ _expression_.**QueryCancelSuspendEvents** (_app_)
 
 ## Remarks
 
-A Visio instance fires  **QueryCancelSuspendEvents** after client code has directed the instance to suspend events.
+A Visio instance fires **QueryCancelSuspendEvents** after client code has directed the instance to suspend events.
 
 
 
 
-- If any event handler returns  **True** (cancel), the instance fires **SuspendEventsCanceled** and does not suspend events.
+- If any event handler returns **True** (cancel), the instance fires **SuspendEventsCanceled** and does not suspend events.
     
-- If all handlers return  **False** (don't cancel), the suspension occurs.
+- If all handlers return **False** (don't cancel), the suspension occurs.
     
 
 

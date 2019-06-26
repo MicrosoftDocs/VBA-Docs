@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.QueryCancelConvertToGroup event (Visio)
 
-Occurs before the application converts a selection of shapes to a group in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
+Occurs before the application converts a selection of shapes to a group in response to a user action in the interface. If any event handler returns **True**, the operation is canceled.
 
 
 ## Syntax
@@ -31,18 +31,18 @@ _expression_ A variable that represents an **[Application](Visio.Application.md)
 
 ## Remarks
 
-A Microsoft Visio instance fires  **QueryCancelConvertToGroup** after the user has directed the instance to convert one or more shapes into groups.
+A Microsoft Visio instance fires **QueryCancelConvertToGroup** after the user has directed the instance to convert one or more shapes into groups.
 
 
 
 
-- If any event handler returns  **True** (cancel), the instance fires **ConvertToGroupCanceled** and does not convert the shapes.
+- If any event handler returns **True** (cancel), the instance fires **ConvertToGroupCanceled** and does not convert the shapes.
     
-- If all handlers return  **False** (don't cancel), the conversion is performed.
+- If all handlers return **False** (don't cancel), the conversion is performed.
     
 
 
-In some cases, such as when a shape that has a  **ForeignType** property of **visTypeMetafile** is converted to a group, the initial shape is deleted and replaced with new shapes. In such cases, the Visio instance subsequently fires **BeforeSelectionDelete** and **BeforeShapeDelete** events before converting the shapes.
+In some cases, such as when a shape that has a **ForeignType** property of **visTypeMetafile** is converted to a group, the initial shape is deleted and replaced with new shapes. In such cases, the Visio instance subsequently fires **BeforeSelectionDelete** and **BeforeShapeDelete** events before converting the shapes.
 
 While a Visio instance is firing a query or cancel event, it responds to inquiries from client code but refuses to perform operations. Client code can show forms or message boxes while responding to a query or cancel event.
 

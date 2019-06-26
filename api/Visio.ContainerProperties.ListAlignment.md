@@ -19,21 +19,19 @@ Specifies how to align and arrange a list shape that you want positioned perpend
 
 ## Syntax
 
-_expression_. `ListAlignment`
+_expression_.**ListAlignment**
 
- _expression_ An expression that returns a **[ContainerProperties](Visio.ContainerProperties.md)** object.
+_expression_ An expression that returns a **[ContainerProperties](Visio.ContainerProperties.md)** object.
 
 
 ## Return value
 
- **[VisListAlignment](Visio.VisListAlignment.md)**
+**[VisListAlignment](Visio.VisListAlignment.md)**
 
 
 ## Remarks
 
-Use the  **ListAlignment** property to position shapes along the axis that is perpendicular to the primary list direction. For example, if the primary list direction is horizontal in a given list container, you can use the **ListAlignment** property to align a shape vertically in that container. The value of the **ListAlignment** property can be one of the following **VisListAlignment** constants.
-
-
+Use the **ListAlignment** property to position shapes along the axis that is perpendicular to the primary list direction. For example, if the primary list direction is horizontal in a given list container, you can use the **ListAlignment** property to align a shape vertically in that container. The value of the **ListAlignment** property can be one of the following **VisListAlignment** constants.
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -41,6 +39,6 @@ Use the  **ListAlignment** property to position shapes along the axis that is pe
 | **visListDirCenterOrMiddle**|1|Center-align or middle-align shapes.|
 | **visListDirRightOrBottom**|2|Right-align or bottom-align shapes.|
 
-If the container is not a list, Microsoft Visio returns an  **Invalid Source** error.
+If the container is not a list, Microsoft Visio returns an **Invalid Source** error.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,20 +14,20 @@ localization_priority: Normal
 
 # Project.MonthLabelDisplay property (Project)
 
-Gets or sets the abbreviation for "month" that is displayed for values such as durations, delays, slack, and work. Read/write  **Integer**.
+Gets or sets the abbreviation for "month" that is displayed for values such as durations, delays, slack, and work. Read/write **Integer**.
 
 
 ## Syntax
 
-_expression_. `MonthLabelDisplay`
+_expression_.**MonthLabelDisplay**
 
-_expression_ A variable that represents a [Project](./Project(enumerations).md) object.
+_expression_ A variable that represents a **[Project](project.project.md)** object.
 
 
 ## Remarks
 
-The  **MonthLabelDisplay** property corresponds to the **Months** list on the **Advanced** tab of the **Project Options** dialog box. For example, setting the **MonthLabelDisplay** property to 1 sets the **Months** list to the second value in the list ("mon").
+The **MonthLabelDisplay** property corresponds to the **Months** list on the **Advanced** tab of the **Project Options** dialog box. For example, setting the **MonthLabelDisplay** property to 1 sets the **Months** list to the second value in the list ("mon").
 
-Values of the  **MonthLabelDisplay** property can be 0 to 2.
+Values of the **MonthLabelDisplay** property can be 0 to 2.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
