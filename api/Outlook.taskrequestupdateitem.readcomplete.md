@@ -28,7 +28,6 @@ _expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRe
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|||||
 | _Cancel_|Required| **Boolean**|(Not used in VBScript).  **False** when the event occurs. If the event procedure sets this argument to **True**, the read operation is not completed and the item is not displayed in the Reading Pane or inspector.|
 
 ## Remarks

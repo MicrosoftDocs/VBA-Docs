@@ -19,26 +19,20 @@ Returns an individual repeating section item.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a 'RepeatingSectionItemColl' object.
+_expression_ A variable that represents a **[RepeatingSectionItemColl](Word.repeatingsectionitemcoll.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|||||
 | _Index_|Required|INT32|The index number of the item in the collection.|
 
 ## Return value
 
- **REPEATINGSECTIONITEM**
+**REPEATINGSECTIONITEM**
 
 
-## See also
 
-
-[RepeatingSectionItemColl Object](Word.repeatingsectionitemcoll.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

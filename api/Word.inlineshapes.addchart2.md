@@ -12,37 +12,30 @@ localization_priority: Normal
 
 # InlineShapes.AddChart2 method (Word)
 
-Adds a chart to the document. Returns an [InlineShape](Word.InlineShape.md) object that represents the chart and adds it to the specified collection.
+Adds a chart to the document. Returns an **[InlineShape](Word.InlineShape.md)** object that represents the chart and adds it to the specified collection.
 
 
 ## Syntax
 
-_expression_. `AddChart2`_(Style,_ _Type,_ _Range,_ _NewLayout)_
+_expression_.**AddChart2** (_Style_, _Type_, _Range_, _NewLayout_)
 
-_expression_ A variable that represents a 'InlineShapes' object.
+_expression_ A variable that represents an **[InlineShapes](Word.inlineshapes.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|||||
 | _Style_|Optional|INT32|The chart style. Use "-1" to get the default style for the chart type specified in  **Type**.|
 | _Type_|Optional|[XLCHARTTYPE](Excel.XlChartType.md)|The type of chart.|
 | _Range_|Optional|**Variant**|The range where the chart will be placed in the text. The chart replaces the range, unless the range is collapsed. If this argument is omitted, the chart is placed automatically.|
-| _NewLayout_|Optional|**Variant**|If  _NewLayout_ is true, the chart is inserted by using the new dynamic formatting rules (Title is on, and Legend is on only if there are multiple series).|
+| _NewLayout_|Optional|**Variant**|If _NewLayout_ is true, the chart is inserted by using the new dynamic formatting rules (Title is on, and Legend is on only if there are multiple series).|
 | _Type_|Optional|XLCHARTTYPE||
 
 ## Return value
 
- **INLINESHAPE**
+**INLINESHAPE**
 
 
-## See also
-
-
-[InlineShapes Collection](Word.inlineshapes.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -17,33 +17,27 @@ Adds a new web video to the document.
 
 ## Syntax
 
-_expression_. `AddWebVideo`_(EmbedCode,_ _VideoWidth,_ _VideoHeight,_ _PosterFrameImage,_ _Url,_ _Range)_
+_expression_.**AddWebVideo** (_EmbedCode_, _VideoWidth_, _VideoHeight_, _PosterFrameImage_, _Url_, _Range_)
 
-_expression_ A variable that represents a 'InlineShapes' object.
+_expression_ A variable that represents an **[InlineShapes](Word.inlineshapes.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|||||
 | _EmbedCode_|Required|**String**|The embed code for the video.|
 | _VideoWidth_|Required|**Variant**|An integer that represents the width of the web video in pixels.|
 | _VideoHeight_|Required|**Variant**|An integer that represents the height of the web video in pixels.|
 | _PosterFrameImage_|Optional|**Variant**|A string that points to the file to use as the poster frame for the web video.|
 | _Url_|Optional|**Variant**|The URL to the video.|
-| _Range_|Optional|**Variant**|The range at which to insert the web video. If  _Range_ is omitted, the current selection is used.|
+| _Range_|Optional|**Variant**|The range at which to insert the web video. If _Range_ is omitted, the current selection is used.|
 
 ## Return value
 
- **INLINESHAPE**
+**INLINESHAPE**
 
 
-## See also
 
-
-[InlineShapes Collection](Word.inlineshapes.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

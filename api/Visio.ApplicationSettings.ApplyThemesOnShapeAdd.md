@@ -19,9 +19,9 @@ Gets or sets whether to apply themes to new shapes when they are added to the dr
 
 ## Syntax
 
-_expression_. `ApplyThemesOnShapeAdd`
+_expression_.**ApplyThemesOnShapeAdd**
 
- _expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
+_expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 
 
 ## Return value
@@ -31,6 +31,6 @@ Boolean
 
 ## Remarks
 
-The setting of the  **ApplyThemesOnShapeAdd** property corresponds to the setting of the **Apply Theme to New Shapes** checkbox in the **Themes** gallery on the **Design** tab in the Microsoft Visio user interface.
+The setting of the **ApplyThemesOnShapeAdd** property corresponds to the setting of the **Apply Theme to New Shapes** checkbox in the **Themes** gallery on the **Design** tab in the Microsoft Visio user interface.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

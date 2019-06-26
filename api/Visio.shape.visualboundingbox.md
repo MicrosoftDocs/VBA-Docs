@@ -14,18 +14,16 @@ Returns the bounding rectangle of the given shape. Introduced in Office 2016.
 
 ## Syntax
 
-_expression_. `VisualBoundingBox`( _Flags_,  _Flags_,  _lpr8Left_,  _lpr8Bottom_,  _lpr8Right_,  _lpr8Top_)
+_expression_.**VisualBoundingBox** (_Flags_, _lpr8Left_, _lpr8Bottom_, _lpr8Right_, _lpr8Top_)
 
 _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters
 
-
-|||||
-|:-----|:-----|:-----|:-----|
 |Name|Optional/Requires|Data Type|Description|
-| _Flags_|Required|INT16|A [VisBoundingBoxArgs enumeration (Visio)](Visio.visboundingboxargs.md)s constant that describe the returned rectangle.|
+|:-----|:-----|:-----|:-----|
+| _Flags_|Required|INT16|A **[VisBoundingBoxArgs](Visio.visboundingboxargs.md)** constant that describes the returned rectangle.|
 | _lpr8Left_|Required|DOUBLE|Left position values for the virtual bounding box.|
 | _lpr8Bottom_|Required|DOUBLE|Bottom position values for the virtual bounding box.|
 | _lpr8Right_|Required|DOUBLE|Right position values for the virtual bounding box.|
@@ -33,12 +31,8 @@ _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 ## Return value
 
- **VOID**
+**VOID**
 
 
-## See also
-
-
-[VisBoundingBoxArgs enumeration (Visio)](Visio.visboundingboxargs.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

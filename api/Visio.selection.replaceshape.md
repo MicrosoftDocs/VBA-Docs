@@ -14,34 +14,27 @@ Replaces the specified selection with one or more instances of the master passed
 
 ## Syntax
 
-_expression_. `ReplaceShape`_(MasterOrMasterShortcutToDrop,_ _ReplaceFlags)_
+_expression_.**ReplaceShape** (_MasterOrMasterShortcutToDrop_, _ReplaceFlags_)
 
 _expression_ A variable that represents a **[Selection](Visio.Selection.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|||||
-| _MasterOrMasterShortcutToDrop_|Required|UNKNOWN|Specifies the replacement shape or shapes to drop. Must be either a [Master](Visio.Master.md) or [MasterShortcut](Visio.MasterShortcut.md) object.|
-| _ReplaceFlags_|Optional|INT32|Specifies the properties of the original shape or shapes to retain in the new shape or shapes. Possible values include any of the [VisReplaceFlags](Visio.visreplaceflags.md) constants, and certain combinations of those constants. See Remarks for more information.|
+| _MasterOrMasterShortcutToDrop_|Required|UNKNOWN|Specifies the replacement shape or shapes to drop. Must be either a **[Master](Visio.Master.md)** or **[MasterShortcut](Visio.MasterShortcut.md)** object.|
+| _ReplaceFlags_|Optional|INT32|Specifies the properties of the original shape or shapes to retain in the new shape or shapes. Possible values include any of the **[VisReplaceFlags](Visio.visreplaceflags.md)** constants, and certain combinations of those constants. See Remarks for more information.|
 
 ## Return value
 
- **SAFE-ARRAY**
+**SAFE-ARRAY**
 
 
-### Remarks
+## Remarks
 
-Allowable values to pass for the  _ReplaceFlags_ parameter include either **visReplaceShapeDefault** or any combination of one or more of the remaining four flags.
-
-
-## See also
+Allowable values to pass for the _ReplaceFlags_ parameter include either **visReplaceShapeDefault** or any combination of one or more of the remaining four flags.
 
 
-[Selection Object](Visio.Selection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

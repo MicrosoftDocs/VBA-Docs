@@ -14,7 +14,7 @@ Returns or sets a  **Boolean** that determines whether pressing **Enter** commit
 
 ## Syntax
 
-_expression_. `EnterCommitsText`
+_expression_.**EnterCommitsText**
 
 _expression_ A variable that represents an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 

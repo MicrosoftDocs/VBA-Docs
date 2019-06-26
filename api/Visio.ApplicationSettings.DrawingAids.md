@@ -19,7 +19,7 @@ Determines whether drawing aids are currently active in Microsoft Visio. Read/wr
 
 ## Syntax
 
-_expression_. `DrawingAids`
+_expression_.**DrawingAids**
 
 _expression_ A variable that represents an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 

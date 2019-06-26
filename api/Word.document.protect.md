@@ -17,18 +17,15 @@ Protects the specified document from unauthorized changes.
 
 ## Syntax
 
-_expression_. `Protect`_(Type,_ _NoReset,_ _Password,_ _UseIRM,_ _EnforceStyleLock)_
+_expression_.**Protect** (_Type_, _NoReset_, _Password_, _UseIRM_, _EnforceStyleLock_)
 
-_expression_ A variable that represents a [Document](./Word.Document.md) object.
+_expression_ A variable that represents a **[Document](./Word.Document.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|||||
 | _Type_|Required| **WdProtectionType**|The type of protection to apply.|
 | _NoReset_|Optional|**Variant**| **False** to reset form fields to their default values; **True** to retain the current form field values if the document is protected. If _Type_ is not **wdAllowOnlyFormFields**,  _NoReset_ is ignored.|
 | _Password_|Optional|**Variant**|If supplied, the password to be able to edit the document, or to change or remove protection.|
@@ -42,12 +39,9 @@ _expression_ A variable that represents a [Document](./Word.Document.md) object.
 
 ## Return value
 
- **VOID**
+**VOID**
 
 
-## See also
 
-
-[Document Object](Word.Document.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

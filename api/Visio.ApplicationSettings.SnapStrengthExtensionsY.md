@@ -19,7 +19,7 @@ Specifies the distance in pixels along the  _y-_ axis that shape extension lines
 
 ## Syntax
 
-_expression_. `SnapStrengthExtensionsY`
+_expression_.**SnapStrengthExtensionsY**
 
 _expression_ A variable that represents an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 

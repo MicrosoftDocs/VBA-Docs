@@ -19,14 +19,12 @@ Returns the index of the row in the Tabs section of the ShapeSheet that contains
 
 ## Syntax
 
-_expression_. `TabPropsRow`( `_BiasLorR_` )
+_expression_.**TabPropsRow** (_BiasLorR_)
 
 _expression_ A variable that represents a **[Characters](Visio.Characters.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

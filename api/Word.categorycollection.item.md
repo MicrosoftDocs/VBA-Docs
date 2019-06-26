@@ -19,26 +19,20 @@ Returns an individual chart category.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a 'CategoryCollection' object.
+_expression_ A variable that represents a **[CategoryCollection](Word.categorycollection.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|||||
 | _Index_|Required|**Variant**|The name or index number for the object.|
 
 ## Return value
 
- **CHARTCATEGORY**
+**CHARTCATEGORY**
 
 
-## See also
 
-
-[CategoryCollection Object](Word.categorycollection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

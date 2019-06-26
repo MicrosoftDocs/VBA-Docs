@@ -19,7 +19,7 @@ Specifies the distance in pixels along the x-axis that rulers pull when snapping
 
 ## Syntax
 
-_expression_. `SnapStrengthRulerX`
+_expression_.**SnapStrengthRulerX**
 
 _expression_ A variable that represents an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 

@@ -23,7 +23,7 @@ _expression_ A variable that represents a [DocumentWindow](./PowerPoint.Document
 
 
 
-|||||
+
 | _Filter_|Required|INT||
 
 ## Return value

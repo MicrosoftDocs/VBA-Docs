@@ -19,14 +19,12 @@ Gets or sets a cell's value. Read/write.
 
 ## Syntax
 
-_expression_. `Result`( `_UnitsNameOrCode_` )
+_expression_.**Result** (_UnitsNameOrCode_)
 
 _expression_ A variable that represents a **[Cell](Visio.Cell.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -19,7 +19,7 @@ Evaluates the formula of a cell.
 
 ## Syntax
 
-_expression_. `Trigger`
+_expression_.**Trigger**
 
 _expression_ A variable that represents a **[Cell](Visio.Cell.md)** object.
 

@@ -31,7 +31,6 @@ _expression_ A variable that represents a 'PeopleView' object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|||||
 | _Name_|Required| **String**|The name of the new view.|
 | _SaveOption_|Optional|[OlViewSaveOption](Outlook.OlViewSaveOption.md)|The save option for the new view.|
 

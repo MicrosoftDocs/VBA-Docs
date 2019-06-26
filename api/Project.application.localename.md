@@ -14,21 +14,13 @@ Language name that is used by Project, such as en-us or za-ch. Introduced in Off
 
 ## Syntax
 
-_expression_. `LocaleName`
+_expression_.**LocaleName**
 
-_expression_ A variable that represents a [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
-
-## Parameters
-
-
-
-|Name|Required/Optional|Data type|Description|
-|:-----|:-----|:-----|:-----|
-|||||
 
 ## Return value
 
- **STRING**
+**STRING**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

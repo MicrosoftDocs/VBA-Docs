@@ -19,7 +19,7 @@ Specifies the distance in pixels along the x-axis that points pull when snapping
 
 ## Syntax
 
-_expression_. `SnapStrengthPointsX`
+_expression_.**SnapStrengthPointsX**
 
 _expression_ A variable that represents an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 
