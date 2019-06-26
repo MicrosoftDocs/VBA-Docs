@@ -19,7 +19,7 @@ Sets the formula in a  **Cell** object, even if the formula is protected with a 
 
 ## Syntax
 
-_expression_. `FormulaForce`
+_expression_.**FormulaForce**
 
 _expression_ A variable that represents a **[Cell](Visio.Cell.md)** object.
 

@@ -4,14 +4,14 @@ ms.prod: visio
 api_name:
 - Visio.Application.GroupCanceled
 ms.assetid: becaba95-3904-fa18-37a2-b8b8b48a11ab
-ms.date: 06/08/2017
+ms.date: 06/26/2019
 localization_priority: Normal
 ---
 
 
 # Application.GroupCanceled event (Visio)
 
-Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelGroup** event.
+Occurs after an event handler has returned **True** (cancel) to a **QueryCancelGroup** event.
 
 
 ## Syntax
@@ -22,8 +22,6 @@ _expression_ A variable that represents an **[Application](Visio.Application.md)
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

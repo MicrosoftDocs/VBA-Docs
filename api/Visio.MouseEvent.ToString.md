@@ -49,7 +49,7 @@ where  _event code_ returns the code of the event that fired and **Window.Captio
 
 709;1;5;4.3750003+000;4.265000+000;Drawing1
 
-For more information about the possible values returned by each of the individual properties represented by the string returned by  **ToString**, see the respective property topics in this Automation Reference.
+For more information about the possible values returned by each of the individual properties represented by the string returned by  **ToString**, see the respective property topics in this reference.
 
 
 ## Example

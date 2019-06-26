@@ -49,7 +49,7 @@ However, if your application uses multiple instances of the Visio Drawing Contro
 
 ## Example
 
-The following example shows how to set the  **NegotiateMenus** property at run time in the **Form_Load()** sub procedure of your Visual Basic program. For examples of how to display or modify one or more particular Visio menus, see the topics for the **UIObject** object and its member methods and properties, in this Automation Reference.
+The following example shows how to set the  **NegotiateMenus** property at run time in the **Form_Load()** sub procedure of your Visual Basic program. For examples of how to display or modify one or more particular Visio menus, see the topics for the **UIObject** object and its member methods and properties, in this reference.
 
 
 ```vb

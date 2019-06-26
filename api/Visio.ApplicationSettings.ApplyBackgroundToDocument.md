@@ -19,7 +19,7 @@ Determines whether the selected background or border is applied to all pages in 
 
 ## Syntax
 
-_expression_. `ApplyBackgroundToDocument`
+_expression_.**ApplyBackgroundToDocument**
 
 _expression_ A variable that represents an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 
@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[ApplicationSettings](Visio.Applica
 
 ## Remarks
 
-The value of the  **ApplyBackgroundToDocument** property corresponds to the **Apply to All Pages** or **Apply to Current Page** commands that appear when the user right-clicks items in the **Backgrounds** or **Borders & Titles** gallery on the **Design** tab.
+The value of the **ApplyBackgroundToDocument** property corresponds to the **Apply to All Pages** or **Apply to Current Page** commands that appear when the user right-clicks items in the **Backgrounds** or **Borders & Titles** gallery on the **Design** tab.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

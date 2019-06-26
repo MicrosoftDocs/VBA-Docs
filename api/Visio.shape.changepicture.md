@@ -14,28 +14,25 @@ Replaces the specified shape's current picture with a new picture.
 
 ## Syntax
 
-_expression_. `ChangePicture`_(FileName,_ _ChangePictureFlags)_
+_expression_.**ChangePicture** (_FileName_, _ChangePictureFlags_)
 
 _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|||||
 | _FileName_|Required|**String**|Specifies the full path of the replacement picture.|
 | _ChangePictureFlags_|Optional|INT32|Reserved for future implementation. Has no effect.|
 
 ## Return value
 
- **DOUBLE**
+**DOUBLE**
 
 
 ## Remarks
 
-The  **DOUBLE** returned represents the ratio of the picture?s width to its height.
+The **DOUBLE** returned represents the ratio of the picture's width to its height.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

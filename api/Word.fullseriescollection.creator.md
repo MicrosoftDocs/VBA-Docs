@@ -19,7 +19,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
 _expression_.**Creator**
 
-_expression_ A variable that represents a 'FullSeriesCollection' object.
+_expression_ A variable that represents a **[FullSeriesCollection](Word.fullseriescollection.md)** object.
 
 
 ## Remarks
@@ -35,9 +35,6 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
  **INT32**
 
 
-## See also
 
-
-[FullSeriesCollection Object](Word.fullseriescollection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

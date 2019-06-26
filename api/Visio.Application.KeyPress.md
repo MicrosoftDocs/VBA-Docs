@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.Application.KeyPress
 ms.assetid: d044400a-e552-6615-ce2c-1d0aec723b6f
-ms.date: 06/08/2017
+ms.date: 06/26/2019
 localization_priority: Normal
 ---
 
@@ -25,19 +25,17 @@ _expression_ A variable that represents an **[Application](Visio.Application.md)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _KeyAscii_|Required| **Long**|The ASCII value of the key that was pressed. See Remarks for possible values.|
+| _KeyAscii_|Required| **Long**|The ASCII value of the key that was pressed. Can be any ASCII character code.|
 | _CancelDefault_|Required| **Boolean**| **False** if Microsoft Visio should process the message it receives from this event; otherwise, **True**.|
 
 ## Remarks
 
-Possible values for  _KeyAscii_ are the ASCII codes. To see a list of these codes, search for "ASCII character codes" on MSDN.
+If you set _CancelDefault_ to **True**, Visio does not process the message received when the mouse button is clicked.
 
-If you set  _CancelDefault_ to **True**, Visio does not process the message received when the mouse button is clicked.
+Unlike some other Visio events, **KeyPress** does not have the prefix **Query**, but it is still a query event. That is, you can cancel processing the message sent by **KeyPress**, either by setting _CancelDefault_ to **True**, or, if you are using the **[VisEventProc](visio.iviseventproc.viseventproc.md)** method to handle the event, by returning **True**. For more information, see the topics for the **VisEventProc** method and for any of the query events (for example, the **QueryCancelSuspend** event).
 
-Unlike some other Visio events,  **KeyPress** does not have the prefix "Query," but it is still a query event. That is, you can cancel processing the message sent by **KeyPress**, either by setting _CancelDefault_ to **True**, or, if you are using the **VisEventProc** method to handle the event, by returning **True**. For more information, see the topics for the **VisEventProc** method and for any of the query events (for example, the **QueryCancelSuspend** event) in this Automation Reference.
-
-
- **Note**  Pressing an accelerator key combination, for example, CTRL + C, does not fire the  **KeyPress** event.
+> [!NOTE] 
+> Pressing an accelerator key combination, for example, Ctrl + C, does not fire the **KeyPress** event.
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
@@ -52,12 +50,9 @@ To find an event code for the event that you want to create, see [Event codes](.
 
 ## Example
 
-This class module shows how to define a sync class called  **KeyboardListener** that listens for events fired by keyboard actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **KeyDown**, **KeyPress**, and **KeyUp** events.
+This class module shows how to define a sync class called **KeyboardListener** that listens for events fired by keyboard actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **KeyDown**, **KeyPress**, and **KeyUp** events.
 
-To run this example, insert a new class module in your VBA project, name it  **KeyboardListener**, and insert the following code in the module.
-
-
-
+To run this example, insert a new class module in your VBA project, name it **KeyboardListener**, and insert the following code in the module.
 
 ```vb
 Dim WithEvents vsoWindow As Visio.Window 
@@ -95,10 +90,9 @@ Private Sub vsoWindow_KeyUp(ByVal KeyCode As Long, ByVal KeyButtonState As Long,
 End Sub
 ```
 
-Then, insert the following code in the  **ThisDocument** project.
+<br/>
 
-
-
+Then, insert the following code in the **ThisDocument** project.
 
 ```vb
 Dim myKeyboardListener As KeyboardListener 
@@ -116,6 +110,6 @@ Private Sub Document_BeforeDocumentClose(ByVal doc As IVDocument)
 End Sub
 ```
 
-Save the document to initialize the class, and then press any key to fire a  **KeyPress** event. In the Immediate window, the handler prints the ASCII code of the key that was pressed to fire the event.
+Save the document to initialize the class, and then press any key to fire a **KeyPress** event. In the Immediate window, the handler prints the ASCII code of the key that was pressed to fire the event.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

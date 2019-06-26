@@ -5,7 +5,7 @@ f1_keywords:
 - vis_sdr.chm70035
 ms.prod: visio
 ms.assetid: c9ce51a1-b657-5193-bd3b-23e26c85d531
-ms.date: 06/08/2017
+ms.date: 06/26/2019
 localization_priority: Normal
 ---
 
@@ -14,10 +14,10 @@ localization_priority: Normal
 
 Symbolic values for certain cells.
 
+<br/>
 
-
-|** **Constant****|**Value**|
-|:-----|:-----|
+|Constant|Value|
+|:-------|:----|
 | **visArchitectural**|1|
 | **visArrowSizeColossal**|6|
 | **visArrowSizeJumbo**|5|

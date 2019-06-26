@@ -31,7 +31,6 @@ _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|||||
 | _MailingAddress_|Required|[OlMailingAddress](Outlook.OlMailingAddress.md)|The type of address to be checked.|
 
 ## See also

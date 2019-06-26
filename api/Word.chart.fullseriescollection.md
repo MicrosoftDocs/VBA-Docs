@@ -19,28 +19,20 @@ Returns the collection of all the series in the specified chart, or the specifie
 
 _expression_.**FullSeriesCollection** (_Index_)
 
-_expression_ A variable that represents a [Chart](./Word.Chart.md) object.
+_expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|||||
 | _Index_|Optional|**Variant**|The index number in the series collection of the series to return.|
-|||||
-| _Index_|Optional|**Variant**||
+
 
 ## Return value
 
- **OBJECT**
+**OBJECT**
 
 
-## See also
-
-
-[Chart Object](Word.Chart.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

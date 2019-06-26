@@ -19,7 +19,7 @@ Returns the universal-syntax formula of the custom field represented by an objec
 
 ## Syntax
 
-_expression_. `FieldFormulaU`
+_expression_.**FieldFormulaU**
 
 _expression_ A variable that represents a **[Characters](Visio.Characters.md)** object.
 

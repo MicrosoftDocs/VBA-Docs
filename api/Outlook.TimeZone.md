@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimeZone object (Outlook)
 
-Represents information for a time zone as supported by Microsoft Windows.
+Represents information for a time zone as supported by Windows.
 
 
 ## Remarks

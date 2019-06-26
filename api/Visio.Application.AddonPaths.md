@@ -41,7 +41,7 @@ When Visio looks for third-party and user add-ons, it looks in all paths named i
 
 Starting with Microsoft Office Visio 2003, instead of specifying file paths to your Visio add-ons, you can publish your add-ons by using a Microsoft Windows Installer package. By doing so, you can take advantage of Microsoft Office features such as language switching, installation on demand, and repair. For more information about using a Windows Installer package to publish your add-ons, see [Windows Installer](https://docs.microsoft.com/windows/desktop/msi/windows-installer-portal).
 
-> [!NOTE] 
-> Modifying the registry in any manner, whether through the Registry Editor or programmatically, always carries some degree of risk. Incorrect modification can cause serious problems that may require you to reinstall your operating system. It is a good practice to always back up a computer's registry first before modifying it. If you are running Microsoft Windows NT or Microsoft Windows 2000, you should also update your Emergency Repair Disk (ERD).
+> [!WARNING] 
+> Modifying the Windows registry in any manner, whether through the Registry Editor or programmatically, always carries some degree of risk. Incorrect modification can cause serious problems that may require you to reinstall your operating system. It is a good practice to always back up a computer's registry first before modifying it. 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

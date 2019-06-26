@@ -4,14 +4,14 @@ ms.prod: visio
 api_name:
 - Visio.Application.ExitScope
 ms.assetid: 9306972d-6d07-fa82-507d-d4e6d8c80e17
-ms.date: 06/08/2017
+ms.date: 06/26/2019
 localization_priority: Normal
 ---
 
 
 # Application.ExitScope event (Visio)
 
-Queued when an internal command ends, or when an Automation client exits a scope by using the  **EndUndoScope** method.
+Queued when an internal command ends, or when an Automation client exits a scope by using the **EndUndoScope** method.
 
 
 ## Syntax
@@ -26,13 +26,13 @@ _expression_ A variable that represents an **[Application](Visio.Application.md)
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _app_|Required| **[IVAPPLICATION]**|The instance of Microsoft Visio that contains the scope.|
-| _nScopeID_|Required| **Long**|A language-independent number that describes the operation that just ended, or the scope ID returned by the  **BeginUndoScope** method.|
+| _nScopeID_|Required| **Long**|A language-independent number that describes the operation that just ended, or the scope ID returned by the **BeginUndoScope** method.|
 | _bstrDescription_|Required| **String**| A textual description of the operation that changes in different language versions. Contains the UI description of a Visio operation or the description passed to the **BeginUndoScope** method.|
 | _bErrOrCancelled_|Required| **Boolean**| **True** if there was an error during the scope or if the scope was canceled; **False** if there wasn't an error and it wasn't canceled.|
 
 ## Remarks
 
-The  _nScopeID_ value returned in the case of a Visio operation is the equivalent of the command-related constants that begin with **visCmd***.
+The _nScopeID_ value returned in the case of a Visio operation is the equivalent of the command-related constants that begin with **visCmd***.
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
@@ -44,17 +44,16 @@ To create an **Event** object that receives notification, use the **AddAdvise** 
 
 To find an event code for the event that you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
-If you are handling this event from a program that receives a notification over a connection created using the  **AddAdvise method**, the  **ExitScope** event is one of a group of selected events that record extra information in the **EventInfo** property of the **Application** object.
+If you are handling this event from a program that receives a notification over a connection created by using the **AddAdvise method**, the **ExitScope** event is one of a group of selected events that record extra information in the **EventInfo** property of the **Application** object.
 
-The  **EventInfo** property returns _bstrDescription_, as described previously. In addition, the  _varMoreInfo_ argument to **VisEventProc** contains a string formatted as follows: [<nScopeID>;<bErrOrCancelled>;<bstrDescription>;<nHwndContext>], where _nHwndContext_ is the window handle (HWND) of the window that is the context for the command. _nHwndContext_ could be 0.
+The **EventInfo** property returns _bstrDescription_, as described previously. In addition, the _varMoreInfo_ argument to **VisEventProc** contains a string formatted as follows: `[<nScopeID>;<bErrOrCancelled>;<bstrDescription>;<nHwndContext>]`, where _nHwndContext_ is the window handle (HWND) of the window that is the context for the command; _nHwndContext_ could be 0.
 
-For  **ExitScope**, _bErrOrCancelled_ is non-zero if the operation failed or was canceled.
+For **ExitScope**, _bErrOrCancelled_ is non-zero if the operation failed or was canceled.
 
 
 ## Example
 
-This example shows how to use the  **ExitScope** event. The example determines whether a call to a procedure that handles the **CellChanged** event is in a particular scope?that is, whether the call occurs between the **EnterScope** and **ExitScope** events for that scope.
-
+This example shows how to use the **ExitScope** event. The example determines whether a call to a procedure that handles the **CellChanged** event is in a particular scope; that is, whether the call occurs between the **EnterScope** and **ExitScope** events for that scope.
 
 ```vb
  

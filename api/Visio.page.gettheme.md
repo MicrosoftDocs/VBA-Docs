@@ -9,28 +9,25 @@ localization_priority: Normal
 
 # Page.GetTheme method (Visio)
 
-Returns a  **Variant** that represents the specified theme component of the specified page.
+Returns a **Variant** that represents the specified theme component of the specified page.
 
 
 ## Syntax
 
-_expression_. `GetTheme`_(eThemeType)_
+_expression_.**GetTheme** (_eThemeType_)
 
 _expression_ A variable that represents a **[Page](Visio.Page.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|||||
 | _eThemeType_|Required|[VISTHEMETYPES](Visio.visthemetypes.md)|Specifies the type of the theme component to return.|
 
 ## Return value
 
- **VARIANT**
+**VARIANT**
 
 
 ## Remarks
@@ -38,9 +35,6 @@ _expression_ A variable that represents a **[Page](Visio.Page.md)** object.
 The theme components returned are enumerations of built-in theme definitions for colors, fonts, and styles for 2-dimensional shapes, and styles for 1-dimensional shapes.
 
 
-## See also
 
-
-[Page Object](Visio.Page.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,7 +31,6 @@ _expression_ A variable that represents a 'PeopleView' object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|||||
 | _Date_|Required| **Date**|The date to which the view should be changed.|
 
 ## See also

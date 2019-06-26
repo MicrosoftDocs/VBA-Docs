@@ -19,14 +19,12 @@ Replaces the text represented by a  **Characters** object with a new field of th
 
 ## Syntax
 
-_expression_. `AddFieldEx`( `_Category_` , `_Code_` , `_Format_` , `_LangID_` , `_CalendarID_` )
+_expression_.**AddFieldEx** (_Category_, _Code_, _Format_, _LangID_, _CalendarID_)
 
 _expression_ A variable that represents a **[Characters](Visio.Characters.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -45,7 +43,7 @@ Nothing
 
 Constant values for  _Category, Code_, and  _Format_ are declared by the Visio type library in **[VisFieldCategories](Visio.visfieldcategories.md)**, **[VisFieldCodes](Visio.visfieldcodes.md)**, and **[VisFieldFormats](Visio.visfieldformats.md)** respectively.
 
-The  _LangID_ argument should be one of the standard IDs used by Microsoft Windows to encode different language versions. For example, the language ID is &H0409 for the U.S. version of Microsoft Visio. To see a list of possible language IDs, search for "VERSIONINFO" in the Microsoft Platform SDK on MSDN.
+The  _LangID_ argument should be one of the standard IDs used by Windows to encode different language versions. For example, the language ID is &H0409 for the U.S. version of Microsoft Visio. To see a list of possible language IDs, search for "VERSIONINFO" in the Microsoft Platform SDK on MSDN.
 
 The  _CalendarID_ argument should be one of the following values, which are declared in **VisCellVals** in the Visio type library. The default value is **visCalWestern**, which sets the calendar to the Western calendar.
 

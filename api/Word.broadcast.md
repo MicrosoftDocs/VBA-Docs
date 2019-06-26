@@ -15,6 +15,4 @@ localization_priority: Normal
 Represents a Windows Live 2012 Broadcast Service broadcast session.
 
 
-## See also
-
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

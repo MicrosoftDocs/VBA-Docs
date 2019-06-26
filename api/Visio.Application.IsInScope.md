@@ -7,14 +7,14 @@ ms.prod: visio
 api_name:
 - Visio.Application.IsInScope
 ms.assetid: adb9a52f-8e62-9d92-d8bf-81bed48b2cc3
-ms.date: 06/08/2017
+ms.date: 06/26/2019
 localization_priority: Normal
 ---
 
 
 # Application.IsInScope property (Visio)
 
-Determines whether a call to an event handler is between an  **EnterScope** event and an **ExitScope** event for a scope. Read-only.
+Determines whether a call to an event handler is between an **EnterScope** event and an **ExitScope** event for a scope. Read-only.
 
 
 ## Syntax
@@ -37,15 +37,14 @@ Boolean
 
 ## Remarks
 
-Constants representing scope IDs are prefixed with  **visCmd** and are declared by the Visio type library. You can also use an ID returned by the **BeginUndoScope** method.
+Constants representing scope IDs are prefixed with **visCmd** and are declared by the Visio type library. You can also use an ID returned by the **BeginUndoScope** method.
 
-You could use this property in a  **CellChanged** event handler to determine whether a cell change was the result of a particular operation.
+You could use this property in a **CellChanged** event handler to determine whether a cell change was the result of a particular operation.
 
 
 ## Example
 
-This example shows how to use the  **IsInScope** property to determine whether a call to a procedure that handles the **CellChanged** event is in a particular scope?that is, whether the call occurs between the **EnterScope** and **ExitScope** events for that scope.
-
+This example shows how to use the **IsInScope** property to determine whether a call to a procedure that handles the **CellChanged** event is in a particular scope; that is, whether the call occurs between the **EnterScope** and **ExitScope** events for that scope.
 
 ```vb
  

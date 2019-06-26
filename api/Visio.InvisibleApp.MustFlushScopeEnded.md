@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.InvisibleApp.MustFlushScopeEnded
 ms.assetid: de6fbf0d-25cf-e1e4-7d9f-e0a0e302e729
-ms.date: 06/08/2017
+ms.date: 06/26/2019
 localization_priority: Normal
 ---
 
@@ -23,15 +23,13 @@ _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.m
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _app_|Required| **[IVAPPLICATION]**|The instance of Visio that is forced to flush its event queue.|
 
 ## Remarks
 
-This event, along with the  **MustFlushScopeBeginning** event, can be used to identify whether an event is being fired because Visio is forced to flush its event queue.
+This event, along with the **MustFlushScopeBeginning** event, can be used to identify whether an event is being fired because Visio is forced to flush its event queue.
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 

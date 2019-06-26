@@ -19,7 +19,7 @@ Indicates the unit of measure associated with a  **Cell** object. Read-only.
 
 ## Syntax
 
-_expression_. `Units`
+_expression_.**Units**
 
 _expression_ A variable that represents a **[Cell](Visio.Cell.md)** object.
 

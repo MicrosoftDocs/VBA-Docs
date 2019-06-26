@@ -17,28 +17,21 @@ Returns all the visible categories in the chart group, or the specified visible 
 
 ## Syntax
 
-_expression_. `CategoryCollection`_(Index)_
+_expression_.**CategoryCollection** (_Index_)
 
-_expression_ A variable that represents a [ChartGroup](./Word.ChartGroup.md) object.
+_expression_ A variable that represents a **[ChartGroup](Word.ChartGroup.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|||||
 | _Index_|Optional|**Variant**|The index number in the visible category collection of the category to return.|
 
 ## Return value
 
- **OBJECT**
+**OBJECT**
 
 
-## See also
-
-
-[ChartGroup Object](Word.ChartGroup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

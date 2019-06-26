@@ -7,7 +7,7 @@ ms.prod: visio
 api_name:
 - Visio.InvisibleApp.LanguageHelp
 ms.assetid: 58dc3f31-84c3-6b94-4460-c648dfff22d6
-ms.date: 06/08/2017
+ms.date: 06/26/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Represents the language ID of the Help in the version of the Microsoft Visio ins
 
 ## Syntax
 
-_expression_.**LanguageHelp** (_lpi4Ret_)
+_expression_.**LanguageHelp**
 
 _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
@@ -31,6 +31,8 @@ Long
 
 ## Remarks
 
-The  **LanguageHelp** property returns the language ID of the Help recorded in the object's VERSIONINFO resource. The IDs returned are the standard IDs used by Microsoft Windows to encode different language versions. For example, the **LanguageHelp** property returns &H0409 for the U.S. English version of Visio. For details, search for "VERSIONINFO" in the Microsoft Platform SDK on MSDN.
+The **LanguageHelp** property returns the language ID of the Help recorded in the object's VERSIONINFO resource. The IDs returned are the standard IDs used by Windows to encode different language versions. For example, the **LanguageHelp** property returns &H0409 for the U.S. English version of Visio. 
+
+For more information, see [Version information](https://docs.microsoft.com/windows/desktop/menurc/version-information).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

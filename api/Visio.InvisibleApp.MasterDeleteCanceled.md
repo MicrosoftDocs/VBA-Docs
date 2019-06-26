@@ -4,14 +4,14 @@ ms.prod: visio
 api_name:
 - Visio.InvisibleApp.MasterDeleteCanceled
 ms.assetid: a62cc5d8-c229-3c73-29f8-a41fb96dd5ea
-ms.date: 06/08/2017
+ms.date: 06/26/2019
 localization_priority: Normal
 ---
 
 
 # InvisibleApp.MasterDeleteCanceled event (Visio)
 
-Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelMasterDelete** event.
+Occurs after an event handler has returned **True** (cancel) to a **QueryCancelMasterDelete** event.
 
 
 ## Syntax
@@ -22,8 +22,6 @@ _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.m
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

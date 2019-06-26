@@ -19,26 +19,20 @@ Returns an individual full series item from the collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a 'FullSeriesCollection' object.
+_expression_ A variable that represents a **[FullSeriesCollection](Word.fullseriescollection.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|||||
 | _Index_|Required|**Variant**|The name or index number of the item to return.|
 
 ## Return value
 
- **SERIES**
+**SERIES**
 
 
-## See also
 
-
-[FullSeriesCollection Object](Word.fullseriescollection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

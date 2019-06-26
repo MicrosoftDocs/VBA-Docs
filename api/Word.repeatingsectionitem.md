@@ -22,6 +22,4 @@ To get a  **RepeatingSectionItem** object, use the **Item** method of the [Repea
 You can insert additional repeating section items before or after the specified repeating section item by using the  **InsertItemBefore** or **InsertItemAfter** methods. To delete the specified repeating section item, use the **Delete** method. To get the range of the specified repeating section item, use the **Range** property.
 
 
-## See also
-
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # System.OperatingSystem property (Word)
 
-Returns the name of the current operating system (for example, "Windows" or "Windows NT"). Read-only  **String**.
+Returns the name of the current operating system (for example, "Windows" or "Windows Server"). Read-only  **String**.
 
 
 ## Syntax

@@ -19,7 +19,7 @@ Gets or sets the universal name of the row that contains the  **Cell** object. R
 
 ## Syntax
 
-_expression_. `RowNameU`
+_expression_.**RowNameU**
 
 _expression_ A variable that represents a **[Cell](Visio.Cell.md)** object.
 

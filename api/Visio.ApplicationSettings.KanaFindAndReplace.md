@@ -19,7 +19,7 @@ Gets whether additional options specific to Japanese in the  **Find** and **Repl
 
 ## Syntax
 
-_expression_. `KanaFindAndReplace`
+_expression_.**KanaFindAndReplace**
 
 _expression_ A variable that represents an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 

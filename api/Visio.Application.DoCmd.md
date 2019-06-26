@@ -41,7 +41,7 @@ Constants for Microsoft Visio command IDs are declared by the Visio type library
 
 The **DoCmd** method works best with commands that display dialog boxes.
 
-For a list of commands that can be used with the **DoCmd** method, see the topic [DoCmd/DOCMD Commands](../visio/Concepts/docmd-docmd-commands.md) in this Automation Reference.
+For a list of commands that can be used with the **DoCmd** method, see the topic [DoCmd/DOCMD Commands](../visio/Concepts/docmd-docmd-commands.md) in this reference.
 
 
 ## Example
