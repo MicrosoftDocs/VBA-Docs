@@ -35,6 +35,4 @@ _expression_ Required. A variable that represents a '' collection.
 XSLTransform
 
 
-## See also
-
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

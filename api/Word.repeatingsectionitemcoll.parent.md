@@ -27,6 +27,4 @@ _expression_ A variable that represents a 'RepeatingSectionItemColl' object.
  **OBJECT**
 
 
-## See also
-
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

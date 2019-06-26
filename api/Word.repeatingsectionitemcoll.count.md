@@ -19,14 +19,12 @@ Returns a  **Long** that represents the number of repeating section items in the
 
 _expression_.**Count**
 
-_expression_ A variable that represents a '[RepeatingSectionItemColl](Word.repeatingsectionitemcoll.md)' object.
+_expression_ A variable that represents a **[RepeatingSectionItemColl](Word.repeatingsectionitemcoll.md)** object.
 
 
 ## Property value
 
- **INT32**
+**INT32**
 
-
-## See also
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

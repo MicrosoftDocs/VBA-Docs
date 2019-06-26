@@ -19,14 +19,12 @@ Adds a picture to a drawing canvas. Returns a  **Shape** object that represents 
 
 ## Syntax
 
-_expression_. `AddPicture`( `_FileName_` , `_LinkToFile_` , `_SaveWithDocument_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
+_expression_.**AddPicture** (_FileName_, _LinkToFile_, _SaveWithDocument_, _Left_, _Top_, _Width_, _Height_)
 
 _expression_ Required. A variable that represents a **[Shapes](Word.Shapes.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -66,9 +64,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Shapes Collection Object](Word.shapes.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

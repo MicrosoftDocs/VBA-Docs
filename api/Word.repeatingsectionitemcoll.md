@@ -15,6 +15,4 @@ localization_priority: Normal
 Represents the collection of [RepeatingSectionItem](Word.repeatingsectionitem.md) objects.
 
 
-## See also
-
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

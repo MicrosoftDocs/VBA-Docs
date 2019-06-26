@@ -17,6 +17,4 @@ Represents the current settings related to display of reviewers' comments and re
 Use the [View.RevisionsFilter](Word.view.revisionsfilter.md) property to return a **RevisionsFilter** object.
 
 
-## See also
-
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

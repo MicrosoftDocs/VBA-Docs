@@ -27,6 +27,4 @@ _expression_ Required. A variable that represents a '' collection.
 Visual Basic's  **CreateObject** and **GetObject** functions give you access to an OLE Automation object from a Visual Basic for Applications project.
 
 
-## See also
-
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

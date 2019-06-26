@@ -22,6 +22,4 @@ _expression_.**Count**
 _expression_ Required. A variable that represents a '' collection.
 
 
-## See also
-
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
