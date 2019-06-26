@@ -32,7 +32,7 @@ _expression_ A variable that represents an **[Application](Visio.Application.md)
 
 If you set _CancelDefault_ to **True**, Visio does not process the message received when the mouse button is clicked.
 
-Unlike some other Visio events, **KeyPress** does not have the prefix _Query_, but it is still a query event. That is, you can cancel processing the message sent by **KeyPress**, either by setting _CancelDefault_ to **True**, or, if you are using the **[VisEventProc](visio.iviseventproc.viseventproc.md)** method to handle the event, by returning **True**. For more information, see the topics for the **VisEventProc** method and for any of the query events (for example, the **QueryCancelSuspend** event).
+Unlike some other Visio events, **KeyPress** does not have the prefix **Query**, but it is still a query event. That is, you can cancel processing the message sent by **KeyPress**, either by setting _CancelDefault_ to **True**, or, if you are using the **[VisEventProc](visio.iviseventproc.viseventproc.md)** method to handle the event, by returning **True**. For more information, see the topics for the **VisEventProc** method and for any of the query events (for example, the **QueryCancelSuspend** event).
 
 > [!NOTE] 
 > Pressing an accelerator key combination, for example, Ctrl + C, does not fire the **KeyPress** event.
