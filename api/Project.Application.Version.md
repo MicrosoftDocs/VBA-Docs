@@ -18,7 +18,7 @@ Gets the version number of the Project application. Read-only  **String**.
 
 _expression_.**Version**
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Remarks

@@ -60,7 +60,8 @@ Selection.Paragraphs.TabStops(InchesToPoints(2)) _
 ```
 
 
- **Note**   Set the **DefaultTabStop** property to adjust the spacing of default tab stops.
+> [!NOTE] 
+>  Set the **DefaultTabStop** property to adjust the spacing of default tab stops.
 
 
 ## See also

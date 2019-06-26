@@ -21,7 +21,7 @@ Zooms in to or out from the Network Diagram.
 
 _expression_. `BoxZoom`( `_Percent_`, `_Entire_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents an [Application](./Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Percent_|Optional|**Variant**|The percentage?between 25 and 400?to reduce or enlarge the Network Diagram. If  **Entire** is **True**, **Percent** is ignored.|
+| _Percent_|Optional|**Variant**|The percentage&mdash;between 25 and 400&mdash;to reduce or enlarge the Network Diagram. If  **Entire** is **True**, **Percent** is ignored.|
 | _Entire_|Optional|**Boolean**|**True** if the Network Diagram resizes to fit the entire project onto the screen, within the same limits described for **Percent**. The default value is **False**.|
 
 ## Return value

@@ -34,7 +34,8 @@ This property applies only to category axes, and it does not apply to 3D charts.
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example causes the value axis for the first chart in the active document to cross the category axis between categories.
 

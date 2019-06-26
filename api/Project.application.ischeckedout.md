@@ -14,7 +14,7 @@ Gets whether an open project is checked out from Project Web App by the user. Re
 
 _expression_. `IsCheckedOut`
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

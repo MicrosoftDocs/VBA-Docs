@@ -34,7 +34,8 @@ A  **[LegendEntries](PowerPoint.LegendEntries.md)** object that represents the l
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the font for legend entry one on the first chart in the active document.
 

@@ -29,7 +29,8 @@ The chart legend is not visible unless the  **[HasLegend](PowerPoint.Chart.HasLe
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 Use the  **[Legend](PowerPoint.Chart.Legend.md)** property to return the **Legend** object. The following example sets the font style for the legend of the first chart in the active document to bold.
 

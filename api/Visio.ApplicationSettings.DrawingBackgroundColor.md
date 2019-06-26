@@ -66,7 +66,8 @@ Setting the  **BackgroundColor** property of the active window to a value other 
 
 
 
- **Note**  The ability to set drawing background color programmatically for users running in high-contrast mode is restricted.
+> [!NOTE] 
+> The ability to set drawing background color programmatically for users running in high-contrast mode is restricted.
 
 
 ## Example

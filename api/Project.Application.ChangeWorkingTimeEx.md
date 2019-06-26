@@ -21,7 +21,7 @@ Displays the  **Change Working Time** dialog box, which prompts the user to chan
 
 _expression_. `ChangeWorkingTimeEx`( `_CalendarName_`, `_Locked_`, `_SelectedDate_`, `_ProjectName_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

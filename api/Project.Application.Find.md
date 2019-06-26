@@ -19,9 +19,9 @@ Searches for an unfiltered value; returns  **True** if the value is found.
 
 ## Syntax
 
-_expression_.**Find** (**_Field_**, **_Test_**, **_Value_**, **_Next_**, **_MatchCase_**, **_FieldID_**, **_TestID_**)
+_expression_.**Find** (_Field_, _Test_, _Value_, _Next_, _MatchCase_, _FieldID_, _TestID_)
 
-_expression_ A variable that represents an **Application** object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -40,7 +40,7 @@ _expression_ A variable that represents an **Application** object.
 
 ### Comparison strings
 
-|**Comparison string**|**Description**|
+|Comparison string|Description|
 |:-----|:-----|
 |"equals"|The value of _Field_ equals _Value_.|
 |"does not equal"|The value of _Field_ does not equal _Value_.|

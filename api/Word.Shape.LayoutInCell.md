@@ -31,7 +31,8 @@ _expression_ Required. A variable that represents a **[Shape](Word.Shape.md)** o
 The  **LayoutInCell** property corresponds to the **Layout in table cell** option in the **Advanced Layout** dialog box for picture formatting.
 
 
- **Note**  Setting the  **LayoutInCell** property will take effect only if the **Type** property of the **WrapFormat** object is set to something other than **wdWrapTypeInline** or **wdWrapTypeNone**.
+> [!NOTE] 
+> Setting the  **LayoutInCell** property will take effect only if the **Type** property of the **WrapFormat** object is set to something other than **wdWrapTypeInline** or **wdWrapTypeNone**.
 
 
 ## Example

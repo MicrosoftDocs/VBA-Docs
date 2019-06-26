@@ -26,7 +26,8 @@ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 The following example checks whether summary tasks in the active project have assignments. 
 
 
- **Note**  Assignments should not be made on summary tasks.
+> [!NOTE] 
+> Assignments should not be made on summary tasks.
 
 
 ```vb

@@ -21,7 +21,7 @@ Quits Project.
 
 _expression_. `FileExit`( `_Save_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

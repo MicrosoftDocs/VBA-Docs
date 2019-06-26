@@ -29,7 +29,8 @@ _expression_. `Temporary`
 The default value is  **False**. This property corresponds to the **Remove content control when contents are edited** check box in the **Content Control Properties** dialog box.
 
 
- **Note**  You cannot set this property if the  **[LockContentControl](Word.ContentControl.LockContentControl.md)** property is set to **True**.
+> [!NOTE] 
+> You cannot set this property if the  **[LockContentControl](Word.ContentControl.LockContentControl.md)** property is set to **True**.
 
 
 ## See also

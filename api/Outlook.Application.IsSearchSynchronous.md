@@ -21,7 +21,7 @@ Returns a  **Boolean** indicating if a search will be synchronous or asynchronou
 
 _expression_. `IsSearchSynchronous`( `_LookInFolders_` )
 
-_expression_ A variable that represents an '[Application](Outlook.Application.md)' object.
+_expression_ A variable that represents an **[Application](Outlook.Application.md)** object.
 
 
 ## Parameters

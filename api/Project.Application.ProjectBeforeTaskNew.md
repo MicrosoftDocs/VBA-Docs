@@ -18,7 +18,7 @@ Occurs before one or more tasks are created.
 
 _expression_. `ProjectBeforeTaskNew`( `_pj_`, `_Cancel_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

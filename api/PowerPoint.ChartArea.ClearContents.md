@@ -29,7 +29,8 @@ _expression_ A variable that represents a '[ChartArea](PowerPoint.ChartArea.md)'
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example clears the chart data from the first chart in the active document but leaves the formatting intact.
 

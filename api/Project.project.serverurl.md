@@ -35,7 +35,7 @@ For a synchronized SharePoint task list, you can set the value of  **ServerURL**
 ActiveProject.ServerURL = "https://SomeBogusServer/NOP%20No%20URL"
 ```
 
-Start Project Professional again, open the SharePoint task list, and then run  `? ActiveProject.ServerURL` in the Immediate window. The statement returns the arbitrary string.
+Start Project Professional again, open the SharePoint task list, and then run ActiveProject.ServerURL in the Immediate window. The statement returns the arbitrary string.
 
 For an enterprise project that Project Server manages, if you try to set the value of  **ServerURL**, Project shows a run-time error 1101, "The argument value is not valid."
 
@@ -45,9 +45,6 @@ For an enterprise project that Project Server manages, if you try to set the val
  **STRING**
 
 
-## See also
 
-
-[Project Object](Project.Project.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

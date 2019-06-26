@@ -21,7 +21,7 @@ Returns the color of the specified theme element type in the Project Guide. Depr
 
 _expression_. `GetThemedColor`( `_elementType_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -40,6 +40,7 @@ _expression_. `GetThemedColor`( `_elementType_` )
 ## Remarks
 
 
- **Note**  The Project Guide is disabled by default in Project. Although you can create and display custom Project Guide pages, we recommend that you create a task pane app instead of the Project Guide for new development.
+> [!NOTE] 
+> The Project Guide is disabled by default in Project. Although you can create and display custom Project Guide pages, we recommend that you create a task pane app instead of the Project Guide for new development.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

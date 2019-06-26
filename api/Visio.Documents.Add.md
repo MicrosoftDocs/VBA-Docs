@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Documents.Add method (Visio)
 
-Adds a new  **Document** object to the **Documents** collection.
+Adds a new **Document** object to the **Documents** collection.
 
 
 ## Syntax
@@ -39,9 +39,9 @@ Document
 
 ## Remarks
 
-To create a new drawing based on no template, pass a zero-length string ("") to the  **Add** method.
+To create a new drawing based on no template, pass a zero-length string ("") to the **Add** method.
 
-To create a new drawing based on another file, like a template, pass the filename of the original file to the  **Add** method. Visio opens stencils that are part of the template's workspace and copies styles and other settings associated with the template to the new document. If the template file name is invalid, no document is returned and an error is generated.
+To create a new drawing based on another file, like a template, pass the filename of the original file to the **Add** method. Visio opens stencils that are part of the template's workspace and copies styles and other settings associated with the template to the new document. If the template file name is invalid, no document is returned and an error is generated.
 
 
 
@@ -50,12 +50,13 @@ To create a new stencil based on no stencil, pass ("vss").
 
 
 
- **Note**  Passing a filename as an argument to the  **Add** method is equivalent to opening a file like a template, where a new blank drawing is created that includes content copied from the original.
+> [!NOTE] 
+> Passing a filename as an argument to the **Add** method is equivalent to opening a file like a template, where a new blank drawing is created that includes content copied from the original.
 
 
 ## Example
 
-The following macro shows how to add  **Document** objects such as templates, stencils, and drawings to the **Documents** collection.
+The following macro shows how to add **Document** objects such as templates, stencils, and drawings to the **Documents** collection.
 
 Before running this macro, replace  _Myfile.vsd_ with a valid .vsd file.
 

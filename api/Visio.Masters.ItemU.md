@@ -64,7 +64,6 @@ objRet = vsoShapes.ItemU("*{2287DC42-B167-11CE-88E9-0020AFDDD917}")
 ```
 
 
- **Note**  
 
 
 ## Example

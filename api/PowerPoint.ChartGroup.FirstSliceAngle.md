@@ -34,7 +34,8 @@ This property applies only to pie, 3D pie, and doughnut charts. It can be a valu
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the angle for the first slice in chart group one for the first chart in the active document. You should run the example on a 2D pie chart.
 

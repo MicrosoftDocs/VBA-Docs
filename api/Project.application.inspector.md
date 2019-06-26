@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # Application.Inspector method (Project)
 
-Indicates the  **Task Inspector** for use with engagement data. Introduced in Office 2016.
+Indicates the **Task Inspector** for use with engagement data. Introduced in Office 2016.
 
 
 ## Syntax
 
-_expression_. `Inspector`
+_expression_.**Inspector**
 
-_expression_ A variable that represents a [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Return value
@@ -27,9 +27,6 @@ _expression_ A variable that represents a [Application](./Project.Application.md
  **BOOLEAN**
 
 
-## See also
 
-
-[Application object (Project)](Project.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

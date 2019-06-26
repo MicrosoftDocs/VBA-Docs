@@ -51,8 +51,8 @@ In the following table, the left column contains commands that require a command
 
 |**If Command is set to**|**CommandParameter must be**|
 |:-----|:-----|
-| **Borders**, **Color**, or **Shading**|A number ? specified as text ? corresponding to the position of the setting selected in the list box that contains values, where 0 (zero) is the first item, 1 is the second item, and so on|
-| **Columns**|A number between 1 and 45 ? specified as text ? corresponding to the number of columns you want to apply|
+| **Borders**, **Color**, or **Shading**|A number&mdash;specified as text&mdash;corresponding to the position of the setting selected in the list box that contains values, where 0 (zero) is the first item, 1 is the second item, and so on|
+| **Columns**|A number between 1 and 45&mdash;specified as text&mdash;corresponding to the number of columns you want to apply|
 | **Condensed**|A text measurement between 0.1 point and 12.75 points specified in 0.05-point increments (72 points = 1 inch)|
 | **Expanded**|A text measurement between 0.1 point and 12.75 points specified in 0.05-point increments (72 points = 1 inch)|
 | **FileOpenFile**|The path and file name of the file to be opened. If the path isn't specified, the current folder is used.|

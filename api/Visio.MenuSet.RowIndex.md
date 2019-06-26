@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # MenuSet.RowIndex property (Visio)
 
-Gets or sets the docking order of a  **MenuSet** object in relation to other items in the same docking area. Read/write.
+Gets or sets the docking order of a **MenuSet** object in relation to other items in the same docking area. Read/write.
 
 
 ## Syntax
 
-_expression_. `RowIndex`
+_expression_.**RowIndex**
 
 _expression_ A variable that represents a **[MenuSet](Visio.MenuSet.md)** object.
 
@@ -37,11 +37,9 @@ Integer
 
 Objects that have lower numbers are docked first. Several items can share the same row index. If two or more items share the same row index, the item most recently assigned is displayed first in its group.
 
-Constants that represent the first and last positions (see the following table) are declared by the Visio type library in member  **[VisUIBarRow](Visio.visuibarrow.md)**.
+Constants that represent the first and last positions (see the following table) are declared by the Visio type library in member **[VisUIBarRow](Visio.visuibarrow.md)**.
 
-
-
-|** Constant**|** Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visBarRowFirst**|0|
 | **visBarRowLast**|-1|

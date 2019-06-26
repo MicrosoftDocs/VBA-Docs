@@ -34,7 +34,8 @@ A  **CalendarSharing** object for the specified folder.
 The  **GetCalendarExporter** method automatically sets the defaults for the **CalendarSharing** class to the standard default options used by the **Folder** object. The **GetCalendarExporter** method can only be used on calendar folders. An error occurs if you use the method on **Folder** objects that represent other folder types.
 
 
- **Note**  The  **CalendarSharing** object only supports exporting the iCalendar (.ics) file format.
+> [!NOTE] 
+> The  **CalendarSharing** object only supports exporting the iCalendar (.ics) file format.
 
 
 ## See also

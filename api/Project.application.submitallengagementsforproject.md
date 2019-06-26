@@ -17,13 +17,13 @@ Submits all the engagements in the project to the resource manager for review. I
 
 ## Syntax
 
-_expression_. `SubmitAllEngagementsForProject`
+_expression_.**SubmitAllEngagementsForProject**
 
-_expression_ A variable that represents a [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Return value
 
- **BOOL**
+**BOOL**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

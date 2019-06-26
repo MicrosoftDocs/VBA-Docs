@@ -21,6 +21,6 @@ Gets or sets the finish date of the Gantt chart view after a pan or zoom operati
 
 _expression_. `PanZoomFinish`
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

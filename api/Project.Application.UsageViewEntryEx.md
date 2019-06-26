@@ -21,7 +21,7 @@ Adds fields to the  **Details** pane and option menu for the Task Usage or Resou
 
 _expression_. `UsageViewEntryEx`( `_CurIndex_`, `_Order_`, `_FontWord_`, `_CellBackground_`, `_Pattern_`, `_Shortcut_`, `_DisplayField_`, `_FontColor_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -46,14 +46,12 @@ _expression_. `UsageViewEntryEx`( `_CurIndex_`, `_Order_`, `_FontWord_`, `_CellB
 
 ## Remarks
 
-In the Task Usage or Resource Usage view, choose the  **FORMAT** tab to see the six default fields in the **Details** group on the ribbon. The **Add Details** command displays the **Detail Styles** dialog box, which shows?in alphabetical order?all of the fields available in the current view.
+In the Task Usage or Resource Usage view, choose the  **FORMAT** tab to see the six default fields in the **Details** group on the ribbon. The **Add Details** command displays the **Detail Styles** dialog box, which shows&mdash;in alphabetical order&mdash;all of the fields available in the current view.
 
 The following table lists the possible fields for the  _Order_ parameter, and shows values for the Task Usage and Resource Usage views.
 
-
-||||
+|Field name for the _Order_ parameter|Task Usage Value|Resource Usage Value|
 |:-----|:-----|:-----|
-|**Field name for the  _Order_ parameter**|**Task Usage Value**|**Resource Usage Value**|
 |Work|0|0|
 |Overtime Work|1|1|
 |Actual Work|2|2|
@@ -132,7 +130,7 @@ The following table lists the possible fields for the  _Order_ parameter, and sh
 |All Resource Rows|N/A|66|
 |All Assignment Rows |72|67|
 
- In Project 2003 and Office Project 2007, the original **UsageViewEntry** method was not exposed in the VBA object model.
+In Project 2003 and Office Project 2007, the original **UsageViewEntry** method was not exposed in the VBA object model.
 
 
 ## Example

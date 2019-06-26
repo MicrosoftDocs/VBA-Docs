@@ -36,7 +36,8 @@ Tick-mark label spacing on the value axis is always calculated by Microsoft Word
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the number of categories between tick-mark labels on the category axis of the first chart in the active document.
 

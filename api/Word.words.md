@@ -60,7 +60,8 @@ numWords = temp.Words
 ```
 
 
- **Note**  For more information about calling built-in dialog boxes, see [Displaying built-in Word dialog boxes](../word/Concepts/Customizing-Word/displaying-built-in-word-dialog-boxes.md).
+> [!NOTE] 
+> For more information about calling built-in dialog boxes, see [Displaying built-in Word dialog boxes](../word/Concepts/Customizing-Word/displaying-built-in-word-dialog-boxes.md).
 
 The  **Add** method is not available for the **Words** collection. Instead, use the **InsertAfter** method or the **InsertBefore** method to add text to a **Range** object. The following code example inserts text after the first word in the active document.
 

@@ -42,7 +42,8 @@ ShapeRange
 A  **Shape** object always appears on the same page as the range it is anchored to.
 
 
- **Note**  Most operations that you can do with a  **Shape** object you can also do with a **ShapeRange** object that contains a single shape. Some operations, when performed on a **ShapeRange** object that contains multiple shapes, produce an error.
+> [!NOTE] 
+> Most operations that you can do with a  **Shape** object you can also do with a **ShapeRange** object that contains a single shape. Some operations, when performed on a **ShapeRange** object that contains multiple shapes, produce an error.
 
 
 ## Example

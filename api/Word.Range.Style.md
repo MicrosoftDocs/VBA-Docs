@@ -34,7 +34,8 @@ To set this property, specify the local name of the style, an integer, a  **[WdB
 This example displays the style for each character in the selection. 
 
 
- **Note**  Each element of the  **Characters** collection is a **Range** object.
+> [!NOTE] 
+> Each element of the  **Characters** collection is a **Range** object.
 
 
 ```vb

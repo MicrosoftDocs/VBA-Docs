@@ -19,9 +19,11 @@ Occurs when a user deletes an XML element from a document. If more than one elem
 
 ## Syntax
 
-_expression_.**XMLBeforeDelete'(**_DeletedRange_**, **_OldXMLNode_**, **_InUndoRedo_**)
+_expression_.**XMLBeforeDelete** (_DeletedRange_, _OldXMLNode_, _InUndoRedo_)
 
-_expression_ A variable that represents a '[Document](Word.Document.md)' object that has been declared by using the **WithEvents** keyword in a class module. For information about using events with a **Document** object, see [Using events with the Document object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md).
+_expression_ A variable that represents a **[Document](Word.Document.md)** object.
+
+
 
 
 ## Parameters
@@ -36,12 +38,11 @@ _expression_ A variable that represents a '[Document](Word.Document.md)' object 
 
 ## Remarks
 
-If the InUndoRedo parameter is  **True**, never change the XML in a document while the **XMLAfterInsert** and **XMLBeforeDelete** events are running.
+Represents a **Document** object that has been declared by using the **WithEvents** keyword in a class module. For information about using events with a **Document** object, see [Using events with the Document object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md).
 
-If the InUndoRedo parameter is  **False**, you can insert and delete the XML in the document?but be careful that the **XMLAfterInsert** and **XMLBeforeDelete** events will not try to cancel each other out, causing an infinite loop. You can prevent infinite loops by using a global **Boolean** variable and check for that at the beginning of the error handler, as shown in the following example.
+If the _InUndoRedo_ parameter is **True**, never change the XML in a document while the **XMLAfterInsert** and **XMLBeforeDelete** events are running.
 
-
-
+If the _InUndoRedo_ parameter is  **False**, you can insert and delete the XML in the document&mdash;but be careful that the **XMLAfterInsert** and **XMLBeforeDelete** events will not try to cancel each other out, causing an infinite loop. You can prevent infinite loops by using a global **Boolean** variable and check for that at the beginning of the error handler, as shown in the following example.
 
 ```vb
 Dim blnIsXMLDeleteRunning As Boolean 
@@ -90,9 +91,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[Document Object](Word.Document.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

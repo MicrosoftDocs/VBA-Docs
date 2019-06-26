@@ -18,7 +18,7 @@ Occurs after a project is calculated.
 
 _expression_. `ProjectCalculate`( `_pj_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

@@ -29,7 +29,8 @@ _expression_. `CustomXMLPart`
 The following example accesses the first content control in the active document and the custom XML part to which it is mapped, and then sets the text value of one of the XML nodes contained within the custom XML part.
 
 
- **Note**  This example assumes that at least one content control in the active document is mapped to a custom XML part that contains the XML nodes specified in the XPath string.
+> [!NOTE] 
+> This example assumes that at least one content control in the active document is mapped to a custom XML part that contains the XML nodes specified in the XPath string.
 
 
 ```vb

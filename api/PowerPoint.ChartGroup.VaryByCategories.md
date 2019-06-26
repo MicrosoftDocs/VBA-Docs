@@ -31,7 +31,8 @@ The chart must contain only one series.
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example assigns a different color or pattern to each data marker in chart group one. You should run the example on a 2D line chart that has data markers on a series.
 

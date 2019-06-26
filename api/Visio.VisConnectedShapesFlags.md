@@ -17,7 +17,8 @@ localization_priority: Normal
 Specifies constants that identify shapes by the directionality of their connectors; passed to the  **[Shape.ConnectedShapes](Visio.Shape.ConnectedShapes.md)** method.
 
 
- **Note**  Connection points that have dual directionality (both inward and outward) are identified as either incoming or outgoing based on how they are used in a particular connection.
+> [!NOTE] 
+> Connection points that have dual directionality (both inward and outward) are identified as either incoming or outgoing based on how they are used in a particular connection.
 
 
 

@@ -21,7 +21,7 @@ Displays the  **Compare Project Versions** dialog box to compare two versions of
 
 _expression_. `CompareProjectVersions`
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Return value

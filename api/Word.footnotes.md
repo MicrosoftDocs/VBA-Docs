@@ -44,7 +44,8 @@ End If
 ```
 
 
- **Note**  Footnotes positioned at the end of a document or section are considered endnotes and are included in the  **[Endnotes](Word.endnotes.md)** collection.
+> [!NOTE] 
+> Footnotes positioned at the end of a document or section are considered endnotes and are included in the  **[Endnotes](Word.endnotes.md)** collection.
 
 
 ## Methods

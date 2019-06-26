@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Specifies the subtype of the CubeField.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -29,9 +29,9 @@ Specifies the subtype of the CubeField.
 | **xlCubeMeasure**|2|Measure|
 | **xlCubeSet**|3|Set|
 
-## Remarks
 
 
- **Note**  The values have ?Cube? in the name in order to not overlap with the  **xlMeasure** and **xlSet** values for the **CubeFieldType** property. If the names are the same, autocomplete will not work in the Visual Basic environment because it finds ambiguous values.
+> [!NOTE] 
+> The values have "Cube" in the name in order to not overlap with the **xlMeasure** and **xlSet** values for the **CubeFieldType** property. If the names are the same, autocomplete will not work in the Visual Basic environment because it finds ambiguous values.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

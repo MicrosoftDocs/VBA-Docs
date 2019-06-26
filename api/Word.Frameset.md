@@ -96,7 +96,8 @@ End With
 ```
 
 
- **Note**  For more information on creating frames pages, see [Creating frames pages](../word/Concepts/Customizing-Word/creating-frames-pages.md).
+> [!NOTE] 
+> For more information on creating frames pages, see [Creating frames pages](../word/Concepts/Customizing-Word/creating-frames-pages.md).
 
 
 ## See also

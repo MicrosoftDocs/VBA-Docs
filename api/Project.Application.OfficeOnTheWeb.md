@@ -21,7 +21,7 @@ Navigates to the area of the Office.com web site that is dedicated to Microsoft 
 
 _expression_. `OfficeOnTheWeb`
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Return value

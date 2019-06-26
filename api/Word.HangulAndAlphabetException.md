@@ -45,7 +45,8 @@ AutoCorrect.HangulAndAlphabetExceptions.Add Name:="goodbye"
 ```
 
 
- **Note**  The  **[HangulAndAlphabetExceptions](Word.hangulandalphabetexceptions.md)** collection includes all Hangul and alphabet AutoCorrect exceptions and corresponds to the items listed on the **Korean** tab in the **AutoCorrect Exceptions** dialog box.
+> [!NOTE] 
+> The  **[HangulAndAlphabetExceptions](Word.hangulandalphabetexceptions.md)** collection includes all Hangul and alphabet AutoCorrect exceptions and corresponds to the items listed on the **Korean** tab in the **AutoCorrect Exceptions** dialog box.
 
 
 ## See also

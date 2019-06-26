@@ -21,7 +21,7 @@ Edits the hyperlink of the selected assignment, resource, or task.
 
 _expression_. `EditHyperlink`( `_Name_`, `_Address_`, `_SubAddress_`, `_ScreenTip_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

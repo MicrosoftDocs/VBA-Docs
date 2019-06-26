@@ -54,7 +54,8 @@ A  **[Document](Word.Document.md)** object that represents the specified documen
 
 ## Security
 
-Avoid using hard-coded passwords in your applications. If a password is required in a procedure, request the password from the user, store it in a variable, and then use the variable in your code. For recommended best practices on how to do this, see [Security Notes for Microsoft Office Solution Developers](https://msdn.microsoft.com/library/office/ff860261.aspx). 
+> [!IMPORTANT] 
+> Avoid using hard-coded passwords in your applications. If a password is required in a procedure, request the password from the user, store it in a variable, and then use the variable in your code. For recommended best practices on how to do this, see [Security notes for Office solution developers](../Library-Reference/Concepts/security-notes-for-microsoft-office-solution-developers). 
 
 
 ## Example

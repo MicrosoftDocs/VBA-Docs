@@ -36,7 +36,8 @@ The  **Deny** method can only be called on **SharingItem** objects with a **[Typ
 This method generates a new  **SharingItem** object and sets the **Type** property of the new object to **olSharingMsgTypeResponseDeny**. The **SharingItem** is not immediately sent to the sender of the sharing request, however, so you can edit the sharing response as needed.
 
 
- **Note**  Sharing is denied immediately after this method is called, regardless of whether the sharing response was received.
+> [!NOTE] 
+> Sharing is denied immediately after this method is called, regardless of whether the sharing response was received.
 
 
 ## See also

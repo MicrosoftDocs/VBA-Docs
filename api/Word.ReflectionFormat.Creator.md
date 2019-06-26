@@ -29,7 +29,8 @@ _expression_.**Creator**
 If the object was created in Microsoft Word, the  **Creator** property returns the hexadecimal number 4D535744, which represents the **string** "MSWD". This property was primarily designed to be used on the Apple Macintosh, where each application has a four-character creator code. For example, Word has the creator code MSWD. For more information about this property, see the language reference Help included with Microsoft Office Macintosh Edition.
 
 
- **Note**  This value can also be represented by the constant  **wdCreatorCode**.
+> [!NOTE] 
+> This value can also be represented by the constant **wdCreatorCode**.
 
 
 ## See also

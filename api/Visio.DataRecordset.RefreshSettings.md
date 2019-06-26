@@ -49,6 +49,7 @@ The default is for neither of the  **VisRefreshSettings** flags to be turned on.
 When  **visRefreshNoReconciliationUI** is set, support for reconciling refresh conflicts in the Visio UI is disabled. As a developer, you should reconcile refresh conflicts programmatically by using the **[GetAllRefreshConflicts](Visio.DataRecordset.GetAllRefreshConflicts.md)**, **[GetMatchingRowsForRefreshConflict](Visio.DataRecordset.GetMatchingRowsForRefreshConflict.md)**, and **[RemoveRefreshConflict](Visio.DataRecordset.RemoveRefreshConflict.md)** methods.
 
 
- **Note**  In some previous versions of Visio, shape data was called custom properties.
+> [!NOTE] 
+> In some previous versions of Visio, shape data was called custom properties.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

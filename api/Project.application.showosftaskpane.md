@@ -17,7 +17,7 @@ Shows an empty Office Add-ins task pane.
 
 _expression_. `ShowOSFTaskPane` _(Name)_
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -27,7 +27,8 @@ _expression_ A variable that represents an [Application](./Project.Application.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the task pane app.
- **Note**  Not implemented in Project.
+> [!NOTE] 
+> Not implemented in Project.
 
 |
 

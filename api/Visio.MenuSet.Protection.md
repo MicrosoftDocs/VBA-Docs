@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # MenuSet.Protection property (Visio)
 
-Determines how a  **MenuSet** object is protected from user customization. Read/write.
+Determines how a **MenuSet** object is protected from user customization. Read/write.
 
 
 ## Syntax
 
-_expression_. `Protection`
+_expression_.**Protection**
 
 _expression_ A variable that represents a **[MenuSet](Visio.MenuSet.md)** object.
 
@@ -35,11 +35,11 @@ Integer
 > [!NOTE] 
 > Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-The value of the  **Protection** property can be one or a combination of the following constants declared by the Visio type library in **VisUIBarProtection**.
+The value of the **Protection** property can be one or a combination of the following constants declared by the Visio type library in **VisUIBarProtection**.
 
 
 
-|** Constant**|** Value**|** Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visBarNoProtection**|0|No protection.|
 | **visBarNoCustomize**|1|Cannot be customized.|

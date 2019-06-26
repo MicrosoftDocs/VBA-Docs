@@ -21,7 +21,7 @@ Gets a value that indicates the file format for the specified project. Possible 
 
 _expression_. `FileFormatID`( `_Name_`, `_UserID_`, `_DatabasePassWord_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -60,6 +60,7 @@ The specified file must be a project file in the current directory. The  **FileF
 
 
 
- **Note**  For backward compatibility with project files that are accessible only through ODBC (Open Database Connectivity), Project can open files using an ODBC connection. To save any changes after you open the file, however, you must save the file in another format on the local computer or to Project Server.
+> [!NOTE] 
+> For backward compatibility with project files that are accessible only through ODBC (Open Database Connectivity), Project can open files using an ODBC connection. To save any changes after you open the file, however, you must save the file in another format on the local computer or to Project Server.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

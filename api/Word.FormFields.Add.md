@@ -38,14 +38,6 @@ _expression_ Required. A variable that represents a '[FormFields](Word.formfield
 FormField
 
 
-## Remarks
-
-
- **Security Note**  
-
-
-
-
 ## Example
 
 This example adds a check box at the end of the selection, gives it a name, and then selects it.

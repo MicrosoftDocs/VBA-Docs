@@ -35,11 +35,11 @@ Integer
 > [!NOTE] 
 > Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-Possible values for the  **Style** property are listed in the following table. These constants are declared by the Visio type library in **VisUIButtonStyle**.
+Possible values for the **Style** property are listed in the following table. These constants are declared by the Visio type library in **VisUIButtonStyle**.
 
 
 
-|** Constant**|** Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visButtonAutomatic**|0|
 | **visButtonCaption**|1|
@@ -48,11 +48,11 @@ Possible values for the  **Style** property are listed in the following table. T
 
 ## Example
 
-This example shows how to use the  **Style** property to set the style of a toolbar button. The example adds a custom toolbar button and sets it to display both an icon and a caption. This button appears in the Visio user interface and is available while the document is active.
+This example shows how to use the **Style** property to set the style of a toolbar button. The example adds a custom toolbar button and sets it to display both an icon and a caption. This button appears in the Visio user interface and is available while the document is active.
 
 Before running this code, replace `path\filename` with the full path to and name of a valid icon (.ico) file on your computer.
 
-To restore the built-in toolbars in Microsoft Visio after you run this macro, call the  **ThisDocument.ClearCustomToolbars** method.
+To restore the built-in toolbars in Microsoft Visio after you run this macro, call the **ThisDocument.ClearCustomToolbars** method.
 
 
 

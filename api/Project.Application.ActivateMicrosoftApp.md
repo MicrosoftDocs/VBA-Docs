@@ -21,7 +21,7 @@ Activates a Microsoft application if the application is running or starts a new 
 
 _expression_. `ActivateMicrosoftApp` (_Index_)
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -30,6 +30,6 @@ _expression_ A variable that represents an [Application](./Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|Specifies the Microsoft application to activate. Can be one of the  **[PjMSApplication](Project.PjMSApplication.md)** constants.|
+| _Index_|Required|**Long**|Specifies the Microsoft application to activate. Can be one of the **[PjMSApplication](Project.PjMSApplication.md)** constants.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

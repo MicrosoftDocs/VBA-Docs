@@ -29,7 +29,7 @@ _expression_ A variable that represents a **[Names](Excel.Names.md)** object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional| **Variant**|Specifies the text, in English, to use as the name if the _NameLocal_ parameter is not specified. Names cannot include spaces and cannot be formatted as cell references.|
-| _RefersTo_|Optional| **Variant**|Describes what the name refers to, in English, using A1-style notation, if the _RefersToLocal_, _RefersToR1C1_, and _RefersToR1C1Local_ parameters are not specified.<br/><br/>**Note**: **Nothing** is returned if the reference does not exist.|
+| _RefersTo_|Optional| **Variant**|Describes what the name refers to, in English, using A1-style notation, if the _RefersToLocal_, _RefersToR1C1_, and _RefersToR1C1Local_ parameters are not specified.<br/><br/>**NOTE**: **Nothing** is returned if the reference does not exist.|
 | _Visible_|Optional| **Variant**| **True** specifies that the name is defined as visible. **False** specifies that the name is defined as hidden. A hidden name does not appear in the **Define Name**, **Paste Name**, or **Goto** dialog box. The default value is **True**.|
 | _MacroType_|Optional| **Variant**|The macro type, determined by one of the following values:<ul><li><p>1 - User-defined function (<b>Function</b>  procedure)</p></li><li><p>2 - Macro (<b>Sub</b>  procedure)</p></li><li><p>3 or omitted - None (the name does not  refer to a user-defined function or macro)</p></li></ul>|
 | _ShortcutKey_|Optional| **Variant**|Specifies the macro shortcut key. Must be a single letter, such as "z" or "Z". Applies only for command macros.|

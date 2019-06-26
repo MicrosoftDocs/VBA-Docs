@@ -43,7 +43,8 @@ _expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object
 ## Remarks
 
 
- **Note**  In Project, the methods to attach the beginning and end of a connector to other shapes in the report (**ConnectorFormat.BeginConnect** and **ConnectorFormat.EndConnect**) do not work. You can use only the  **AddConnector** parameters to position the connector. For more information, see the [ConnectorFormat](Project.shape.connectorformat.md) property.
+> [!NOTE] 
+> In Project, the methods to attach the beginning and end of a connector to other shapes in the report (**ConnectorFormat.BeginConnect** and **ConnectorFormat.EndConnect**) do not work. You can use only the  **AddConnector** parameters to position the connector. For more information, see the [ConnectorFormat](Project.shape.connectorformat.md) property.
 
 
 ## Example

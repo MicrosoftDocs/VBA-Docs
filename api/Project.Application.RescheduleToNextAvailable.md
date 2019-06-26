@@ -21,7 +21,7 @@ Reschedules the specified task to the next available time.
 
 _expression_. `RescheduleToNextAvailable`( `_TaskID_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

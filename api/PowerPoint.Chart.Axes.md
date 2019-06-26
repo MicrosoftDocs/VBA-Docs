@@ -30,7 +30,8 @@ _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** objec
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional|**Variant**|The axis to return. Can be one of the following  **[XlAxisType](PowerPoint.XlAxisType.md)** constants: **xlValue**, **xlCategory**, or **xlSeriesAxis** (**xlSeriesAxis** is valid only for 3D charts).|
 | _AxisGroup_|Optional|**[XlAxisGroup](PowerPoint.XlAxisGroup.md)**|One of the enumeration values that specifies the axis group. The default is  **xlPrimary**.
- **Note**  3D charts have only one axis group.
+> [!NOTE] 
+> 3D charts have only one axis group.
 
 |
 
@@ -44,7 +45,8 @@ An [Axes](PowerPoint.Axes.md) object that contains the selected axes from the ch
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example adds an axis label to the category axis for the first chart in the active document.
 

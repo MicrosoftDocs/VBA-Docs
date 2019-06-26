@@ -31,7 +31,8 @@ The  **Notes** property does not accept characters with an ASCII value less than
 The following example adds a comment to the notes of the resource in the active cell.
 
 
- **Note**  If a resource is not selected, the code results in a run-time error 1004. 
+> [!NOTE] 
+> If a resource is not selected, the code results in a run-time error 1004. 
 
 
 ```vb

@@ -21,7 +21,7 @@ Expands an outline to show all tasks up to the specified level and collapses any
 
 _expression_. `OutlineShowTasks`( `_OutlineNumber_`, `_ExpandInsertedProjects_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

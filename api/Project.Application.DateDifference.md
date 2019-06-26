@@ -21,7 +21,7 @@ Returns the duration between two dates in minutes, for an automatically schedule
 
 _expression_. `DateDifference`( `_StartDate_`, `_FinishDate_`, `_Calendar_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

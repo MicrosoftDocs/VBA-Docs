@@ -20,7 +20,8 @@ The  **Chart** object in Project includes the standard members that other Office
 In Project, a chart is represented by a  **Chart** object, which is contained by a **[Shape](./Project.shape.md)** object or a **[ShapeRange](./Project.shaperange.md)** collection in a **[Report](./Project.report.md)** object. For a diagram that shows the **Chart** object in the Project object model hierarchy, see [Application and Projects object map](../project/Concepts/application-and-projects-object-map-project.md).
 
 
- **Note**  Macro recording for the  **Chart** object is not implemented. That is, when you record a macro in Project and manually add a chart, add chart elements, or manually format a chart in a report, the steps for adding and manipulating the chart are not recorded.
+> [!NOTE] 
+> Macro recording for the  **Chart** object is not implemented. That is, when you record a macro in Project and manually add a chart, add chart elements, or manually format a chart in a report, the steps for adding and manipulating the chart are not recorded.
 
 You can use the  **[Shapes.AddChart](./Project.shapes.addchart.md)** method to add a chart to a report. To determine whether a **Shape** or a **ShapeRange** contains a chart, use the **HasChart** method.
 
@@ -44,7 +45,7 @@ To create some sample data, add four tasks to a new project, assign local resour
 |T3|4d|7|
 |T4|2d|0|
 
-?
+
 
 
 

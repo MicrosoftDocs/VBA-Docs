@@ -26,7 +26,8 @@ _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 The value of this property must be between 0 and 500. 
 
 
- **Note**  This property applies only to 3D charts.
+> [!NOTE] 
+> This property applies only to 3D charts.
 
 
 ## Example

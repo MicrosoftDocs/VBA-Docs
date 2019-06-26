@@ -27,7 +27,8 @@ A trendline shows the trend, or direction, of data in a series. The  **Trendline
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 Use  **[Trendlines](PowerPoint.Series.Trendlines.md)** (Index), where Index is the trendline index number, to return a single **Trendline** object.
 

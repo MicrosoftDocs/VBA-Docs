@@ -21,7 +21,7 @@ Exits Microsoft Project.
 
 _expression_.**Quit**( `_SaveChanges_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

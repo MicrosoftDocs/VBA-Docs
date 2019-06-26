@@ -34,7 +34,8 @@ Setting the  **[Intercept](PowerPoint.Trendline.Intercept.md)** property sets th
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets Microsoft Word to automatically determine the trendline intercept point for the first chart in the active document. You should run the example on a 2D column chart that contains a single series that has a trendline.
 

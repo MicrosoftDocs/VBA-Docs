@@ -39,6 +39,7 @@ Specifies the type of ligatures applied to a font.
 A glyph is a visual representation of a character. Ligatures are two or more glyphs that are represented by what appears to the reader as a single character in order to create more readable or attractive text. Use the [Font.Ligatures property (Word)](Word.Font.Ligatures.md) property to specify the ligatures to apply to a font in Word.
 
 
- **Note**  The order of preference when a combination of ligature types are applied differs by font and is not controlled by the Word application.
+> [!NOTE] 
+> The order of preference when a combination of ligature types are applied differs by font and is not controlled by the Word application.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

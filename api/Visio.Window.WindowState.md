@@ -31,19 +31,20 @@ Long
 
 ## Remarks
 
-The  **WindowState** property value can be a combination of the constants declared in the Visio type library in **[VisWindowStates](Visio.viswindowstates.md)**.
+The **WindowState** property value can be a combination of the constants declared in the Visio type library in **[VisWindowStates](Visio.viswindowstates.md)**.
 
 
- **Note**  The nFlags parameter to the  **Add** method for the **Windows** collection can be composed of the various bits of **VisWindowStates**.
+> [!NOTE] 
+> The nFlags parameter to the **Add** method for the **Windows** collection can be composed of the various bits of **VisWindowStates**.
 
-If you specify conflicting bits, only one bit is used. For example, if you specify both  **visWSMaximized** and **visWSMinimized**, the window is maximized.
+If you specify conflicting bits, only one bit is used. For example, if you specify both **visWSMaximized** and **visWSMinimized**, the window is maximized.
 
-The  **visWSVisible** flag is ignored when setting the state of a window with the **WindowState** property. It is used in calls to the **Add** method for the **Windows** collection. Use the **Visible** property of the window to show or hide it. The **visWSVisible** flag is available only when this property is read.
+The **visWSVisible** flag is ignored when setting the state of a window with the **WindowState** property. It is used in calls to the **Add** method for the **Windows** collection. Use the **Visible** property of the window to show or hide it. The **visWSVisible** flag is available only when this property is read.
 
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVWindow.WindowState**
+- **Microsoft.Office.Interop.Visio.IVWindow.WindowState**
     
 
 ## Example

@@ -47,24 +47,14 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 ## Security
 
-Avoid using hard-coded passwords in your applications. If a password is required in a procedure, request the password from the user, store it in a variable, and then use the variable in your code. For recommended best practices on how to do this, see [Security Notes for Microsoft Office Solution Developers](https://msdn.microsoft.com/library/office/ff860261.aspx). 
-
-
- **Security Note**  
-
-
-
-
- **Security Note**  
-
+> [!IMPORTANT] 
+> Avoid using hard-coded passwords in your applications. If a password is required in a procedure, request the password from the user, store it in a variable, and then use the variable in your code. For recommended best practices on how to do this, see [Security notes for Office solution developers](../Library-Reference/Concepts/security-notes-for-microsoft-office-solution-developers). 
 
 
 
 ## Remarks
 
 The value of the Style argument can be the sum of any combination of the following values:
-
-
 
 |Value|Description|
 |:-----|:-----|
@@ -81,14 +71,10 @@ The value of the Style argument can be the sum of any combination of the followi
 
 How you specify the Connection argument depends on how data is retrieved. For example:
 
-
 - When retrieving data through Open Database Connectivity (ODBC), you specify a connection string.
     
 - When retrieving data from Excel by using dynamic data exchange (DDE), you specify a named range or "Entire Spreadsheet."
- **Security Note**  
-
-
-    
+  
 - When retrieving data from Access, you specify the word "Table" or "Query" followed by the name of a table or query.
     
 
@@ -108,9 +94,6 @@ End With
 ```
 
 
-## See also
 
-
-[Range Object](Word.Range.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

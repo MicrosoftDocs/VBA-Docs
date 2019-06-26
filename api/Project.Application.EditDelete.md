@@ -21,7 +21,7 @@ Deletes the selected row, selected column, or row containing the active cell fro
 
 _expression_. `EditDelete`
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Return value

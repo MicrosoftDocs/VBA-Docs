@@ -21,7 +21,7 @@ Applies or removes bold formatting from the selected text.
 
 _expression_.**FontBold** (_Set_)
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

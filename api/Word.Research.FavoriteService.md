@@ -31,7 +31,8 @@ The  **String** that is set or returned for this property specifies the GUID of 
 Setting this property has the same effect as choosing a favorite research service through the Research Options dialog in Word. 
 
 
- **Note**  The GUIDs for all installed research services can be located in the `HKCU\Software\Microsoft\Office\14.0\Common\Research\Sources` registry key.
+> [!NOTE] 
+> The GUIDs for all installed research services can be located in the `HKCU\Software\Microsoft\Office\14.0\Common\Research\Sources` registry key.
 
 
 ## Example

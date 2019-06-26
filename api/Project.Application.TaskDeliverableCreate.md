@@ -21,7 +21,7 @@ Creates or removes a deliverable for the selected task. Available only in Projec
 
 _expression_. `TaskDeliverableCreate`( `_Create_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -60,7 +60,8 @@ When the selected task has an associated deliverable, following are results of r
 The  **TaskDeliverableCreate** method is equivalent to the **Create Deliverables** command on the **Deliverable** drop-down menu on the **Task** tab of the Ribbon. If the selected task has no deliverable, the **Create Deliverables** command creates one. If the selected task has a deliverable, **Create Deliverables** shows an active icon, and selecting the command deletes the deliverable.
 
 
- **Note**  You cannot create a task deliverable until you publish the project and create a project workspace. You also cannot create a deliverable on a summary task.
+> [!NOTE] 
+> You cannot create a task deliverable until you publish the project and create a project workspace. You also cannot create a deliverable on a summary task.
 
 
 ## Example

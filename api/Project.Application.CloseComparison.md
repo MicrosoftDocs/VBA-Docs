@@ -21,7 +21,7 @@ Closes the project version comparison report.
 
 _expression_. `CloseComparison`
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Return value

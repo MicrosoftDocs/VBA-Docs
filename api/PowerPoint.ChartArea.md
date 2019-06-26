@@ -29,7 +29,8 @@ Use the  **[ChartArea](PowerPoint.Chart.ChartArea.md)** property to return the *
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example turns off the border for the chart area in the first chart of the active document.
 

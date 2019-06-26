@@ -32,7 +32,7 @@ The preceding syntax is different from the syntax that you would use for accessi
 ```
 
 > [!NOTE] 
-> The VBA project of every Visio document also has a class module called **ThisDocument**. When referenced from code in the VBA project, the **ThisDocument** module returns a reference to the project's **Document** object.
+> The VBA project of every Visio document also has a class module called **[ThisDocument](../visio/Concepts/about-the-thisdocument-object-visio.md)**. When referenced from code in the VBA project, the **ThisDocument** module returns a reference to the project's **Document** object.
 
 ## Properties
 

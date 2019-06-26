@@ -41,7 +41,8 @@ This property can be either of the following  **[XlSizeRepresents](PowerPoint.Xl
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets what the bubble size represents for chart group one of the first chart in the active document.
 

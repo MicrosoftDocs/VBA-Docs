@@ -36,7 +36,8 @@ You can set this property to a value from -100 through 100. If this property is 
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the overlap for chart group one of the first chart in the active document to -50. You should run the example on a 2D column chart that has two or more series.
 

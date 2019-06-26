@@ -31,7 +31,8 @@ For enterprise text fields with a lookup table,  **OnlyCompleteCodes** is always
 The following example adds a custom outline code to store the location of resources and configures the outline code such that only the full name of a code can be associated with a resource.
 
 
- **Note**  The  **OnlyCompleteCodes** property can be set only after the lookup table contains entries. If you try to set **OnlyCompleteCodes** before creating lookup table entries, the result is run-time error 7, "Out of memory."
+> [!NOTE] 
+> The  **OnlyCompleteCodes** property can be set only after the lookup table contains entries. If you try to set **OnlyCompleteCodes** before creating lookup table entries, the result is run-time error 7, "Out of memory."
 
 
 ```vb

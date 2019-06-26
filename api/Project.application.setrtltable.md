@@ -15,16 +15,16 @@ Sets column order from right to left, for a selected table in a report.
 
 ## Syntax
 
-_expression_. `SetRTLTable`
+_expression_.**SetRTLTable**
 
-_expression_ A variable that represents a [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Return value
 
- **Boolean**
+**Boolean**
 
- **True** if the column order is set from right to left; otherwise, **False**.
+**True** if the column order is set from right to left; otherwise, **False**.
 
 
 ## Remarks

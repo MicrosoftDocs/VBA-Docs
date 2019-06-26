@@ -21,7 +21,7 @@ Checks in the active project file if it is stored in a SharePoint library.
 
 _expression_. `CheckIn`( `_fSaveChanges_`, `_Comments_`, `_fMakePublic_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEFormat.DoVerb method (Word)
 
-Requests that an OLE object perform one of its available verbs ? the actions an OLE object takes to activate its contents.
+Requests that an OLE object perform one of its available verbs&mdash;the actions an OLE object takes to activate its contents.
 
 
 ## Syntax

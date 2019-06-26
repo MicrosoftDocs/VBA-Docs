@@ -21,7 +21,7 @@ Lays out the active view according to its layout options.
 
 _expression_. `LayoutNow`
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Return value

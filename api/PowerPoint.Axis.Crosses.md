@@ -38,7 +38,8 @@ Note that  **xlMinimum** and **xlMaximum** can have different meanings, dependin
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the value axis in for the first chart in the active document to cross the category axis at the maximum x-axis value.
 

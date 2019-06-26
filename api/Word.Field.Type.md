@@ -24,17 +24,5 @@ _expression_.**Type**
 _expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
 
 
-## Remarks
-
-
- **Security Note**  
-
-
-
-
-## See also
-
-
-[Field Object](Word.Field.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

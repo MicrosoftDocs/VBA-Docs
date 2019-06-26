@@ -44,7 +44,8 @@ A  **Boolean** value that indicates whether the export was successful.
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example exports the first chart in the active document as a GIF file.
 

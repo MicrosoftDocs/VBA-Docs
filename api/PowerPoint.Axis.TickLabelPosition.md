@@ -29,7 +29,8 @@ _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets tick-mark labels to the high position (above the chart) on the category axis for the first chart in the active document.
 

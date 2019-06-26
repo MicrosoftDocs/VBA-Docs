@@ -21,7 +21,7 @@ Performs actions or runs commands in another application through dynamic data ex
 
 _expression_. `DDEExecute`( `_Command_`, `_TimeOut_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

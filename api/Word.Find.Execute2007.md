@@ -19,14 +19,12 @@ Runs the specified find operation. Returns  **True** if the find operation is su
 
 ## Syntax
 
-_expression_. `Execute2007`( `_FindText_` , `_MatchCase_` , `_MatchWholeWord_` , `_MatchWildcards_` , `_MatchSoundsLike_` , `_MatchAllWordForms_` , `_Forward_` , `_Wrap_` , `_Format_` , `_ReplaceWith_` , `_Replace_` , `_MatchKashida_` , `_MatchDiacritics_` , `_MatchAlefHamza_` , `_MatchControl_` , `_MatchPrefix_` , `_MatchSuffix_` , `_MatchPhrase_` , `_IgnoreSpace_` , `_IgnorePunct_` )
+_expression_.**Execute2007** (_FindText_, _MatchCase_, _MatchWholeWord_, _MatchWildcards_, _MatchSoundsLike_, _MatchAllWordForms_, _Forward_, _Wrap_, _Format_, _ReplaceWith_, _Replace_, _MatchKashida_, _MatchDiacritics_, _MatchAlefHamza_, _MatchControl_, _MatchPrefix_, _MatchSuffix_, _MatchPhrase_, _IgnoreSpace_, _IgnorePunct_)
 
-_expression_ A variable that represents a '[Find](Word.Find.md)' object.
+_expression_ A variable that represents a **[Find](Word.Find.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -60,7 +58,7 @@ A  **Boolean** value that indicates whether the find operation was successful.
 
 If MatchWildcards is  **True**, you can specify wildcard characters and other advanced search criteria for the FindText argument. For example, "*(ing)" finds any word that ends in "ing".
 
-To search for a symbol character, type a caret (^), a zero (0), and then the symbol's character code. For example, "^0151" corresponds to an em dash (?).
+To search for a symbol character, type a caret (^), a zero (0), and then the symbol's character code. For example, "^0151" corresponds to an em dash (&mdash;).
 
 Unless otherwise specified, replacement text inherits the formatting of the text it replaces in the document. For example, if you replace the string "abc" with "xyz", occurrences of "abc" with bold formatting are replaced with the string "xyz" with bold formatting.
 
@@ -71,7 +69,6 @@ Also, if MatchCase is  **False**, occurrences of the search text that are upperc
 
 The following example finds and selects the next occurrence of the word "library".
 
-
 ```vb
 With Selection.Find 
  .ClearFormatting 
@@ -81,10 +78,9 @@ With Selection.Find
 End With
 ```
 
+<br/>
+
 The following example finds all occurrences of the word "hi" in the active document and replaces each occurrence with "hello".
-
-
-
 
 ```vb
 Set myRange = ActiveDocument.Content 
@@ -93,9 +89,6 @@ myRange.Find.Execute2007 FindText:="hi", _
 ```
 
 
-## See also
 
-
-[Find Object](Word.Find.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

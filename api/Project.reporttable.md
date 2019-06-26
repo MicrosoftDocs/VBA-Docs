@@ -14,7 +14,8 @@ Represents a shape in the form of a table in a Project report.
 ## Remarks
 
 
- **Note**  Macro recording for the  **ReportTable** object is not implemented. That is, when you record a macro in Project and manually add a report table or edit table elements, the steps for adding and manipulating the report table are not recorded.
+> [!NOTE] 
+> Macro recording for the  **ReportTable** object is not implemented. That is, when you record a macro in Project and manually add a report table or edit table elements, the steps for adding and manipulating the report table are not recorded.
  
 
 The  **ReportTable** object is a kind of **Shape** object; it is not related to the **Table** object. Project has limited VBA support for report tables; to specify the table fields, you manually use the **Field List** task pane (see Figure 1). To show or hide the **Field List** task pane, choose the **Table Data** command in the **DESIGN** tab under **TABLE TOOLS** on the ribbon. To specify the table layout or design properties, you can use the **DESIGN** tab and the **LAYOUT** tab on the ribbon.

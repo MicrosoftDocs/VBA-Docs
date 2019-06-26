@@ -21,7 +21,7 @@ Clears the Hyperlink, Hyperlink Address, Hyperlink SubAddress, and HyperlinkHREF
 
 _expression_. `EditClearHyperlink`
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Return value

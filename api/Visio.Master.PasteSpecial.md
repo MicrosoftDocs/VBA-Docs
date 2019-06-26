@@ -59,7 +59,8 @@ The value of the  _Format_ argument can be any of the following:
 
 
 
- **Note**  Before calling Microsoft Windows functions, you should understand how arguments and data types are handled by the Windows API DLLs. Incorrectly calling Windows functions may result in invalid page faults or other unexpected behaviors. For more information on calling Windows functions, search for "Windows API" on MSDN.
+> [!NOTE] 
+> Before calling Microsoft Windows functions, you should understand how arguments and data types are handled by the Windows API DLLs. Incorrectly calling Windows functions may result in invalid page faults or other unexpected behaviors. For more information on calling Windows functions, search for "Windows API" on MSDN.
 
 Possible values for  _Format_ declared by the Visio type library in **VisPasteSpecialCodes** are described in the following table.
 

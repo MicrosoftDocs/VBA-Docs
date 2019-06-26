@@ -26,7 +26,8 @@ _expression_ A variable that represents a '[DataLabel](PowerPoint.DataLabel.md)'
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the data labels for series one of the first chart in the active document to show values and the legend key.
 

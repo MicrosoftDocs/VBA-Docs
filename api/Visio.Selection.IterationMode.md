@@ -44,7 +44,7 @@ The items in a  **Selection** object are a subset of the descendants of the **Se
     
 
 
-If a shape is subselected, each of its ancestors?except the containing shape itself?is superselected.
+If a shape is subselected, each of its ancestors&mdash;except the containing shape itself&mdash;is superselected.
 
 The value of the  **IterationMode** property is a combination of the following values.
 

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Assignment.Summary property (Project)
 
-Indicates whether the assignment is on a summary task. Read-only  **String**.
+Indicates whether the assignment is on a summary task. Read-only **String**.
 
 
 ## Syntax
@@ -23,9 +23,10 @@ _expression_ A variable that represents an [Assignment](./Project.Assignment.md)
 
 ## Remarks
 
-For an example that checks whether summary tasks have assignments, see the  **[Summary](Project.Task.Summary.md)** property for the **Task** object.
+For an example that checks whether summary tasks have assignments, see the **[Summary](Project.Task.Summary.md)** property for the **Task** object.
 
 
- **Note**  Project ignores the  **Summary** property for an assignment. The property value is always "No".
+> [!NOTE] 
+> Project ignores the **Summary** property for an assignment. The property value is always "No".
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

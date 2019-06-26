@@ -55,6 +55,7 @@ Beginning with Microsoft Visio 2002, if  _flags_ contains **visSpatialFrontToBac
 
 
 
- **Note**   When it compares two shapes, the **SpatialSearch** property does not consider the width of a shape's line, shadows, line ends, control points, or connection points.
+> [!NOTE] 
+>  When it compares two shapes, the **SpatialSearch** property does not consider the width of a shape's line, shadows, line ends, control points, or connection points.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

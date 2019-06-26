@@ -31,11 +31,11 @@ VisPaperSizes
 
 ## Remarks
 
-Setting the  **PaperSize** property is the equivalent of choosing a printer paper size on the **Print Setup** tab of the **Page Setup** dialog box (on the **Design** tab, click the **Page Setup** arrow). The value of **PaperSize** can be one of the following **VisPaperSizes** constants.
+Setting the **PaperSize** property is the equivalent of choosing a printer paper size on the **Print Setup** tab of the **Page Setup** dialog box (on the **Design** tab, click the **Page Setup** arrow). The value of **PaperSize** can be one of the following **VisPaperSizes** constants.
 
 
 
-|** Constant**|** Value**|** Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visPaperSizeUnknown**| 0| Not known|
 | **visPaperSizeLetter**| 1| Letter 8 1/2 x 11 in|
@@ -54,6 +54,6 @@ Setting the  **PaperSize** property is the equivalent of choosing a printer pape
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVDocument.PaperSize**
+- **Microsoft.Office.Interop.Visio.IVDocument.PaperSize**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

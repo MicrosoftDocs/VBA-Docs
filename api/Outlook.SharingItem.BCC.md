@@ -29,7 +29,8 @@ _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) 
 This property contains only the display names, delimited with semicolon (;) characters. The  **[Recipients](Outlook.Recipients.md)** collection should be used to modify the BCC recipients.
 
 
- **Note**  If the  **SharingItem** uses an Exchange sharing context, then setting this property to any value other than **Nothing** prevents the item from being sent and causes the **[Send](Outlook.SharingItem.Send(method).md)** method to raise an error.
+> [!NOTE] 
+> If the  **SharingItem** uses an Exchange sharing context, then setting this property to any value other than **Nothing** prevents the item from being sent and causes the **[Send](Outlook.SharingItem.Send(method).md)** method to raise an error.
 
 
 ## See also

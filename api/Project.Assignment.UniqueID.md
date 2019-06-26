@@ -26,6 +26,7 @@ _expression_ A variable that represents an [Assignment](./Project.Assignment.md)
 
 
 
- **Note**   **UniqueID** values remain constant within a project and do not necessarily match the assignment **ID** values that can change as assignments are deleted and added.
+> [!NOTE] 
+>  **UniqueID** values remain constant within a project and do not necessarily match the assignment **ID** values that can change as assignments are deleted and added.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

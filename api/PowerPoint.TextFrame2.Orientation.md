@@ -44,7 +44,8 @@ The value of the  **Orientation** property can be one of these **MsoTextOrientat
 |**msoTextOrientationVertical**|
 |**msoTextOrientationVerticalFarEast**|
 
- **Note**  Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
+> [!NOTE] 
+> Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
 
 ## Example

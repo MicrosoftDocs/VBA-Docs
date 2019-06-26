@@ -43,7 +43,8 @@ _expression_.**Add** (_Range_, _Type_)
 The following code example adds a reservation lock to the first paragraph in the active document.
 
 
- **Note**  By default, if no arguments are given in the call to the  **CoAuthLocks.Add** method, a reservation lock is placed on the paragraph that contains the insertion point.
+> [!NOTE] 
+> By default, if no arguments are given in the call to the  **CoAuthLocks.Add** method, a reservation lock is placed on the paragraph that contains the insertion point.
 
 
 ## Example

@@ -27,7 +27,8 @@ Each  **Trendline** object represents a trendline in a chart. A trendline shows 
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 Use the  **[Trendlines](PowerPoint.Series.Trendlines.md)** method to return the **Trendlines** collection. The following example displays the number of trendlines for series one of the first chart in the active document.
 
@@ -49,7 +50,8 @@ End With
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 Use the  **[Add](PowerPoint.Trendlines.Add.md)** method to create a new trendline and add it to the series. The following example adds a linear trendline to the first series for the first chart in the active document.
 
@@ -68,7 +70,8 @@ End With
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 Use  **[Trendlines](PowerPoint.Series.Trendlines.md)** (Index), where Index is the trendline index number, to return a single **TrendLine** object. The following example changes the trendline type for the first series of the first chart in the active document. If the series has no trendline, this example will fail.
 

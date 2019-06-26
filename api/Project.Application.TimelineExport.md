@@ -21,7 +21,7 @@ Copies an image of the active Timeline view to the Clipboard, for pasting into o
 
 _expression_. `TimelineExport`( `_SelectionOnly_`, `_ExportWidth_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -41,7 +41,8 @@ _expression_. `TimelineExport`( `_SelectionOnly_`, `_ExportWidth_` )
 ## Remarks
 
 
- **Note**  The Timeline view must be selected.
+> [!NOTE] 
+> The Timeline view must be selected.
 
 Selecting a task in the Gantt chart does not select the same task on the timeline. To select items for export, click or control-click them on the timeline.
 

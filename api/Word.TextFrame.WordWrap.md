@@ -29,7 +29,8 @@ _expression_ Required. A variable that represents a **[TextFrame](Word.TextFrame
 This property returns  **wdUndefined** if it's set to **True** for some of the specified text in the specified text frame and false for other text.
 
 
- **Note**  This property may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
+> [!NOTE] 
+> This property may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
 
 
 ## See also

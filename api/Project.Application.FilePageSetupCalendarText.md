@@ -21,7 +21,7 @@ Formats the text of calendar views for printing.
 
 _expression_. `FilePageSetupCalendarText`( `_Name_`, `_Item_`, `_Font_`, `_Size_`, `_Bold_`, `_Italic_`, `_Underline_`, `_Color_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -49,7 +49,8 @@ _expression_ A variable that represents an [Application](./Project.Application.m
 Using the  **FilePageSetupCalendarText** method without any arguments displays the **Text Styles** dialog box.
 
 
- **Note**   **FilePageSetupCalendarText** works only for printing calendar views.
+> [!NOTE] 
+>  **FilePageSetupCalendarText** works only for printing calendar views.
 
 To format calendar text where  _Color_ can be a hexadecimal RGB value, use the **[FilePageSetupCalendarTextEx](Project.Application.FilePageSetupCalendarTextEx.md)** method.
 

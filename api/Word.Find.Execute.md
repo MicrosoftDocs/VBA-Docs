@@ -58,7 +58,7 @@ Boolean
 
 If **MatchWildcards** is **True**, you can specify wildcard characters and other advanced search criteria for the FindText argument. For example, "*(ing)" finds any word that ends in "ing".
 
-To search for a symbol character, type a caret (^), a zero (0), and then the symbol's character code. For example, "^0151" corresponds to an em dash (?).
+To search for a symbol character, type a caret (^), a zero (0), and then the symbol's character code. For example, "^0151" corresponds to an em dash (&mdash;).
 
 Unless otherwise specified, replacement text inherits the formatting of the text it replaces in the document. For example, if you replace the string "abc" with "xyz", occurrences of "abc" with bold formatting are replaced with the string "xyz" with bold formatting.
 

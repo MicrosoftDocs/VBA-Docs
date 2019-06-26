@@ -47,7 +47,8 @@ Nothing
 Knowing how shapes are linked to data can help prevent conflicts and broken links when you refresh the data in one or more data recordsets.
 
 
- **Note**  In some previous versions of Visio, shape data were called custom properties.
+> [!NOTE] 
+> In some previous versions of Visio, shape data were called custom properties.
 
 
 ## Example

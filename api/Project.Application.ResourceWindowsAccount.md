@@ -21,7 +21,7 @@ Sets the security identifier for Microsoft Windows authentication for the select
 
 _expression_. `ResourceWindowsAccount`( `_Name_`, `_ShowDialog_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Customizes headings in the Calendar.
 
 _expression_. `CalendarWeekHeadingsEx`( `_MonthTitle_`, `_WeekTitle_`, `_DayTitle_`, `_ShowPreview_`, `_DaysPerWeek_`, `_ShowTitleBeginningEndDates_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

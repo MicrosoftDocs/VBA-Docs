@@ -36,7 +36,8 @@ If you have the  **DisplayAlerts** property set to **False**, users will not be 
 This example activates a new instance of Microsoft Excel and checks the value of the  **FeatureInstall** property. If the property is set to **msoFeatureInstallNone**, the code displays a message box that asks the user whether they want to change the property setting. If the user responds "Yes," the property is set to **msoFeatureInstallOnDemand**.
 
 
- **Note**  For this example to function properly, you must add a reference to Microsoft Excel Object Library.
+> [!NOTE] 
+> For this example to function properly, you must add a reference to Microsoft Excel Object Library.
 
 
 ```vb

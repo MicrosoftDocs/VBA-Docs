@@ -36,11 +36,6 @@ _expression_ A variable that represents an **[Application](Word.Application.md)*
 
 ## Remarks
 
-
- **Security Note**  
-
-
-
 If the  **DDEPoke** method isn't successful, an error occurs.
 
 

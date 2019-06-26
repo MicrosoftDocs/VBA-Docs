@@ -42,7 +42,8 @@ By default, this method saves the active chart to the user's chart template dire
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example adds a new chart template based on the first chart of the active document.
 

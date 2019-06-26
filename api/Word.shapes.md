@@ -29,7 +29,8 @@ ActiveDocument.Shapes.SelectAll
 ```
 
 
- **Note**  If you want to do something (like delete or set a property) to all the shapes on a document at the same time, use the  **Range** method to create a **ShapeRange** object that contains all the shapes in the **Shapes** collection, and then apply the appropriate property or method to the **ShapeRange** object.
+> [!NOTE] 
+> If you want to do something (like delete or set a property) to all the shapes on a document at the same time, use the  **Range** method to create a **ShapeRange** object that contains all the shapes in the **Shapes** collection, and then apply the appropriate property or method to the **ShapeRange** object.
 
 Use one of the following methods of the  **Shapes** collection: **Add3DModel**, **AddCallout**, **AddCurve**, **AddLabel**, **AddLine**, **AddOleControl**, **AddOleObject**, **AddPolyline**, **AddShape**, **AddTextbox**, **AddTextEffect**, or **BuildFreeForm** to add a shape to a document return a **Shape** object that represents the newly created shape. The following example adds a rectangle to the active document.
 

@@ -31,10 +31,6 @@ If the data source is a Microsoft Word document, this method opens the data sour
 If Word is accessing the data through dynamic data exchange (DDE)—using an application such as Microsoft Office Excel or Microsoft Office Access—this method displays the data source in that application.
 
 
- **Security Note**  
-
-
-
 If Word is accessing the data through open database connectivity (ODBC), this method displays the data in a Word document. Note that, if Microsoft Query is installed, a message appears providing the option to display Microsoft Query instead of converting data.
 
 

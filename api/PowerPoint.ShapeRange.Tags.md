@@ -32,7 +32,8 @@ Tags
 ## Example
 
 
- **Note**  Tag values are added and stored in uppercase text. You should perform tests on tag values using uppercase text, as shown in the second example.
+> [!NOTE] 
+> Tag values are added and stored in uppercase text. You should perform tests on tag values using uppercase text, as shown in the second example.
 
 This example adds a tag named "REGION" and a tag named "PRIORITY" to slide one in the active presentation.
 

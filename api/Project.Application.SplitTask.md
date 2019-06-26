@@ -21,7 +21,7 @@ Enters the interactive task split mode, enabling the user to manually create tas
 
 _expression_. `SplitTask`( `_Lock_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Removes all timescale data fields from a usage view.
 
 _expression_. `DetailStylesRemoveAll`
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Return value

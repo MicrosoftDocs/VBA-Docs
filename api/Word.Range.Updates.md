@@ -29,7 +29,8 @@ _expression_. `Updates`
 Use the  **Updates** property to return the [CoAuthUpdates](overview/Word.md) collection.
 
 
- **Note**  This property is only available for co authoring enabled documents. If you attempt to access this property on a document that is not enabled for co authoring, you will receive a run-time error.
+> [!NOTE] 
+> This property is only available for co authoring enabled documents. If you attempt to access this property on a document that is not enabled for co authoring, you will receive a run-time error.
 
 
 ## Example

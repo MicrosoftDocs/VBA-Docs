@@ -21,7 +21,7 @@ Displays the  **Layout** dialog box, which allows the user to set layout options
 
 _expression_.**Layout**
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Return value

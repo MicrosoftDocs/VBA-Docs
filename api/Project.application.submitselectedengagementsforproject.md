@@ -17,13 +17,13 @@ Submits all selected engagements in the project to the resource manager for revi
 
 ## Syntax
 
-_expression_. `SubmitSelectedEngagementsForProject`
+_expression_.**SubmitSelectedEngagementsForProject**
 
-_expression_ A variable that represents a [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Return value
 
- **BOOL**
+**BOOL**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,7 +21,8 @@ Represents a window in the application or project. The  **Window** object is a m
 ## Remarks
 
 
- **Note**  The  **Windows** collection is maintained for backward compatibility. We recommended that you use the **[Windows2](Project.windows2(object).md)** collection for all new development.
+> [!NOTE] 
+> The  **Windows** collection is maintained for backward compatibility. We recommended that you use the **[Windows2](Project.windows2(object).md)** collection for all new development.
  
 
 The  **Application.Windows** collection contains all the windows in the application, whereas the **Project.Windows** collection contains only the windows in the specified project.

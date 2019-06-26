@@ -21,7 +21,7 @@ Controls resource sharing, for local resources and projects.
 
 _expression_. `ResourceSharing`( `_Share_`, `_Name_`, `_Pool_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -44,7 +44,8 @@ _expression_ A variable that represents an [Application](./Project.Application.m
 Using the  **ResourceSharing** method without specifying any arguments displays the **ShareResources** dialog box.
 
 
- **Note**  Project Professional can share local resources only when not logged on Project Server. If Project Professional is using a Project Server profile, local resource sharing is unavailable.
+> [!NOTE] 
+> Project Professional can share local resources only when not logged on Project Server. If Project Professional is using a Project Server profile, local resource sharing is unavailable.
 
 
 ## Example

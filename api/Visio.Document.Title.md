@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[Document](Visio.Document.md)** obje
 Setting the  **Title** property is equivalent to entering information in the **Title** box in the **Properties** dialog box (click the **File** tab, click **Info**, click  **Document Properties**, and then click  **Advanced Properties**).
 
 
- **Security Note**  
+  
 
 
 

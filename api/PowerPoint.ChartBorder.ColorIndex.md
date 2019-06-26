@@ -39,7 +39,8 @@ The color is specified as an index value into the current color palette, or as o
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the color of the major gridlines for the value axis of the first chart in the active document.
 

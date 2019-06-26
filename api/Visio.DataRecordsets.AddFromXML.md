@@ -34,7 +34,7 @@ _expression_. `AddFromXML`( `_XMLString_` , `_AddOptions_` , `_Name_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _XMLString_|Required| **String**|An XML string that conforms to the Microsoft ActiveX? Data Objects (ADO) classic XML schema and that describes the data you want to import.|
+| _XMLString_|Required| **String**|An XML string that conforms to the Microsoft ActiveX Data Objects (ADO) classic XML schema and that describes the data you want to import.|
 | _AddOptions_|Required| **Long**|Options that determine properties of the data recordset to add. A combination of one or more enumerated value from  **[VisDataRecordsetAddOptions](Visio.visdatarecordsetaddoptions.md)**. For more information, see Remarks.|
 | _Name_|Optional| **String**|Assigns a display name to the  **DataRecordset** object being added.|
 

@@ -29,7 +29,8 @@ _expression_ A variable that represents a '[ChartFont](PowerPoint.ChartFont.md)'
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the font to bold for all characters in the chart title of the first chart in the active document.
 

@@ -17,7 +17,8 @@ localization_priority: Normal
 Represents a single co author in the document. The  **CoAuthor** object is a member of the **[CoAuthors](Word.CoAuthors.md)** collection. The **CoAuthors** collection contains all the co authors in the document (authors that are actively editing the document).
 
 
- **Important**  Documents can only be co authored on a server that supports the File Synchronization via SOAP over HTTP protocol, such as Microsoft SharePoint Server 2010.
+> [!IMPORTANT] 
+> Documents can only be co authored on a server that supports the File Synchronization via SOAP over HTTP protocol, such as Microsoft SharePoint Server 2010.
 
 
 ## Remarks
@@ -25,7 +26,8 @@ Represents a single co author in the document. The  **CoAuthor** object is a mem
 Use  **CoAuthors** (_index_), where _index_ is the index number to return a single **CoAuthor** object.
 
 
- **Note**  When a new co author begins to edit the document, it can take up to one minute or longer for the co author to appear in the document.
+> [!NOTE] 
+> When a new co author begins to edit the document, it can take up to one minute or longer for the co author to appear in the document.
 
 
 ## Example

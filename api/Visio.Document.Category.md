@@ -34,7 +34,7 @@ String
 Setting the  **Category** property is equivalent to entering information in the **Categories** box in the **Properties** dialog box (click the **File** tab, click **Info**, click  **Properties**, and then click  **Advanced Properties**).
 
 
- **Security Note**  
+  
 
 
 

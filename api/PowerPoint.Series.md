@@ -27,7 +27,8 @@ Represents a series in a chart.
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 Use  **[SeriesCollection](./PowerPoint.Chart.SeriesCollection.md)** (_index_), where _index_ is the series index number or name, to return a single **Series** object. The following example sets the color of the interior for the first series of the first chart in the active document.
 

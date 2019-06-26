@@ -19,7 +19,7 @@ Determines which auto-fit mode a window is in, if any. Read/write.
 
 ## Syntax
 
-_expression_. `ViewFit`
+_expression_.**ViewFit**
 
 _expression_ A variable that represents a **[Window](Visio.Window.md)** object.
 
@@ -31,21 +31,18 @@ Long
 
 ## Remarks
 
-The  **ViewFit** property applies to drawing windows only, and can have the following values.
+The **ViewFit** property applies to drawing windows only, and can have the following values.
 
-
-
-|** Constant**|** Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visFitNone**| 0|
 | **visFitPage**| 1|
 | **visFitWidth**| 2|
 
-If the value of the window's  **Type** property is not **visDrawing**, the **ViewFit** property returns **visFitNone**. Attempting to set the **ViewFit** property of this type of window raises an exception.
+If the value of the window's **Type** property is not **visDrawing**, the **ViewFit** property returns **visFitNone**. Attempting to set the **ViewFit** property of this type of window raises an exception.
 
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
-
--  **Microsoft.Office.Interop.Visio.IVWindow.ViewFit**
+- **Microsoft.Office.Interop.Visio.IVWindow.ViewFit**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,19 +14,17 @@ localization_priority: Normal
 
 # Range.GetSpellingSuggestions method (Word)
 
-Returns a  **SpellingSuggestions** collection that represents the words suggested as spelling replacements for the first word in the specified range.
+Returns a **SpellingSuggestions** collection that represents the words suggested as spelling replacements for the first word in the specified range.
 
 
 ## Syntax
 
-_expression_. `GetSpellingSuggestions`( `_CustomDictionary_` , `_IgnoreUppercase_` , `_MainDictionary_` , `_SuggestionMode_` , `_CustomDictionary2_` , `_CustomDictionary3_` , `_CustomDictionary4_` , `_CustomDictionary5_` , `_CustomDictionary6_` , `_CustomDictionary7_` , `_CustomDictionary8_` , `_CustomDictionary9_` , `_CustomDictionary10_` )
+_expression_.**GetSpellingSuggestions** (_CustomDictionary_, _IgnoreUppercase_, _MainDictionary_, _SuggestionMode_, _CustomDictionary2_, _CustomDictionary3_, _CustomDictionary4_, _CustomDictionary5_, _CustomDictionary6_, _CustomDictionary7_, _CustomDictionary8_, _CustomDictionary9_, _CustomDictionary10_)
 
 _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,7 +32,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 | _IgnoreUppercase_|Optional| **Variant**| **True** to ignore words in all uppercase letters. If this argument is omitted, the current value of the **IgnoreUppercase** property is used.|
 | _MainDictionary_|Optional| **Variant**|Either an expression that returns a  **Dictionary** object or the file name of the main dictionary. If you don't specify a main dictionary, Microsoft Word uses the main dictionary that corresponds to the language formatting of the first word in the range.|
 | _SuggestionMode_|Optional| **Variant**|Specifies the way Word makes spelling suggestions. Can be one of the following  **WdSpellingWordType** constants. The default value is **wdSpellword**.|
-| _CustomDictionary2 ? CustomDictionary10_|Optional| **Variant**|Either an expression that returns a  **Dictionary** object or the file name of an additional custom dictionary. You can specify as many as nine additional dictionaries.|
+| _CustomDictionary2_ &ndash; _CustomDictionary10_|Optional| **Variant**|Either an expression that returns a  **Dictionary** object or the file name of an additional custom dictionary. You can specify as many as nine additional dictionaries.|
 
 ## Return value
 

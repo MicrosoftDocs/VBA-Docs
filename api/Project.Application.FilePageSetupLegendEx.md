@@ -19,9 +19,9 @@ Creates a legend for printing views of task data, where color can be a hexadecim
 
 ## Syntax
 
-_expression_.**FilePageSetupLegendEx** (**_Name_**, **_TextWidth_**, **_LegendOn_**, **_Alignment_**, **_Text_**, **_LabelFontName_**, **_LabelFontSize_**, **_LabelFontBold_**, **_LabelFontItalic_**, **_LabelFontUnderline_**, **_LabelFontColor_**)
+_expression_.**FilePageSetupLegendEx** (_Name_, _TextWidth_, _LegendOn_, _Alignment_, _Text_, _LabelFontName_, _LabelFontSize_, _LabelFontBold_, _LabelFontItalic_, _LabelFontUnderline_, _LabelFontColor_)
 
-_expression_ An expression that returns an **Application** object.
+_expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

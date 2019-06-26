@@ -38,7 +38,8 @@ Set objBB = objTemplate.BuildingBlockEntries _
 Unlike the  **Add** method for the **BuildingBlocks** collection, you need to specify the type and category when you add a building block using the **Add** method of the **BuildingBlockEntries** collection. This is because building blocks are organized by using types and categories. When you use the **BuildingBlockEntries** collection, you are accessing the entire collection of building blocks in a template; however, when you use the **BuildingBlocks** collection, you are accessing the collection of building blocks for a specific type and category in a template.
 
 
- **Note**  Using the  **Category** and **Type** properties for the **BuildingBlock** object enables you to determine the category and type for a building block.
+> [!NOTE] 
+> Using the  **Category** and **Type** properties for the **BuildingBlock** object enables you to determine the category and type for a building block.
 
 For more information about building blocks, see [Working with Building Blocks](../word/Concepts/Working-with-Word/working-with-building-blocks.md).
 

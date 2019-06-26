@@ -24,7 +24,8 @@ Represents one or more series plotted in a chart with the same format.
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
  The following example displays the number of chart groups on the first chart of the active document. Use the **[ChartGroups](PowerPoint.Chart.ChartGroups.md)** method to return the **ChartGroups** collection.
 

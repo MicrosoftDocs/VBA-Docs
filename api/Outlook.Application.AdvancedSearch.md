@@ -21,7 +21,7 @@ Performs a search based on a specified DAV Searching and Locating (DASL) search 
 
 _expression_. `AdvancedSearch`( `_Scope_` , `_Filter_` , `_SearchSubFolders_` , `_Tag_` )
 
-_expression_ A variable that represents an '[Application](Outlook.Application.md)' object.
+_expression_ A variable that represents an **[Application](Outlook.Application.md)** object.
 
 
 ## Parameters
@@ -89,7 +89,7 @@ Sub TestAdvancedSearchComplete()
     blnSearchComp = False  
     Const strF As String = "urn:schemas:mailheader:subject = 'Test'"  
     Const strS As String = "Inbox"     
-    Set sch = Application.AdvancedSearch(strS, strF, ?Test?)   
+    Set sch = Application.AdvancedSearch(strS, strF, "Test")   
     While blnSearchComp = False  
         DoEvents  
     Wend   

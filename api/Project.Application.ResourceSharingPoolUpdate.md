@@ -21,7 +21,7 @@ Synchronizes the information in the sharer project with the information in the l
 
 _expression_. `ResourceSharingPoolUpdate`( `_allSharers_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -42,7 +42,8 @@ _expression_ A variable that represents an [Application](./Project.Application.m
 
 
 
- **Note**  Project Professional can share local resources only when not logged on Project Server. If Project Professional is using a Project Server profile, local resource sharing is unavailable.
+> [!NOTE] 
+> Project Professional can share local resources only when not logged on Project Server. If Project Professional is using a Project Server profile, local resource sharing is unavailable.
 
 
 ## Example

@@ -26,11 +26,9 @@ _expression_ A variable that represents a **[Window](Visio.Window.md)** object.
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _SheetObject_|Required| **[IVSHAPE]**|An expression that returns a  **Shape** object to select or clear.|
+| _SheetObject_|Required| **[IVSHAPE]**|An expression that returns a **Shape** object to select or clear.|
 | _SelectAction_|Required| **Integer**|The type of selection action to take.|
 
 ## Return value
@@ -40,13 +38,11 @@ Nothing
 
 ## Remarks
 
-When used with the  **Window** object, the **Select** method will affect the selection in the Microsoft Visio window. The **Selection** object, however, is independent of the selection in the window. Therefore, using the **Select** method with a **Selection** object only affects the state of the object in memory; the Visio window is unaffected.
+When used with the **Window** object, the **Select** method will affect the selection in the Microsoft Visio window. The **Selection** object, however, is independent of the selection in the window. Therefore, using the **Select** method with a **Selection** object only affects the state of the object in memory; the Visio window is unaffected.
 
-The following constants declared by the Visio type library in  **VisSelectArgs** show valid values for selection types.
+The following constants declared by the Visio type library in **VisSelectArgs** show valid values for selection types.
 
-
-
-|** Constant**|** Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDeselect**|1|Cancels the selection of a shape but leaves the rest of the selection unchanged.|
 | **visSelect**|2|Selects a shape but leaves the rest of the selection unchanged.|
@@ -54,18 +50,18 @@ The following constants declared by the Visio type library in  **VisSelectArgs**
 | **visSelectAll**|4|Selects a shape and all its peers.|
 | **visDeselectAll**|256|Cancels the selection of a shape and all its peers.|
 
-If SelectAction is  **visSubSelect**, the parent shape of SheetObject must already be selected.
+If SelectAction is **visSubSelect**, the parent shape of SheetObject must already be selected.
 
-You can combine  **visDeselectAll** with **visSelect** and **visSubSelect** to clear all shapes prior to selecting or subselecting other shapes.
+You can combine **visDeselectAll** with **visSelect** and **visSubSelect** to clear all shapes prior to selecting or subselecting other shapes.
 
-If the object being operated on is a  **Selection** object, and if the **Select** method selects a **Shape** object whose **ContainingShape** property is different from the **ContainingShape** property of the **Selection** object, the **Select** method clears everything, even if the selection type value does not specify canceling the selection.
+If the object being operated on is a **Selection** object, and if the **Select** method selects a **Shape** object whose **ContainingShape** property is different from the **ContainingShape** property of the **Selection** object, the **Select** method clears everything, even if the selection type value does not specify canceling the selection.
 
-If the object being operated on is a  **Window** object, and if SelectAction is not **visSubSelect**, the parent shape of SheetObject must be the same shape as that returned by the **ContainingShape** property of the **Window.Selection** object.
+If the object being operated on is a **Window** object, and if SelectAction is not **visSubSelect**, the parent shape of SheetObject must be the same shape as that returned by the **ContainingShape** property of the **Window.Selection** object.
 
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this method maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVWindow.Select(Microsoft.Office.Interop.Visio.Shape, short)**
+- **Microsoft.Office.Interop.Visio.IVWindow.Select(Microsoft.Office.Interop.Visio.Shape, short)**
     
 
 ## Example
@@ -104,7 +100,7 @@ Public Sub Select_Example()
     Dim vsoGroup As Visio.Shape  
     Set vsoGroup = vsoSelection.Group 
  
-    'There are now four shapes on the page?a group that contains three  
+    'There are now four shapes on the page: a group that contains three  
     'subshapes, and three ungrouped shapes. Subselection is  
     'accomplished by selecting the parent shape first or one of the  
     'group's shapes already subselected.  

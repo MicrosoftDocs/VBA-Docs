@@ -27,7 +27,8 @@ Represents a legend key in a chart legend.
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 Use the  **[LegendKey](PowerPoint.LegendEntry.LegendKey.md)** property to return the **LegendKey** object. The following example changes the marker background color for the legend entry at the top of the legend for the first chart in the active document. This simultaneously changes the format of every point in the series associated with this legend entry. The associated series must support data markers.
 

@@ -35,11 +35,11 @@ Integer
 > [!NOTE] 
 > Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-Constants that represent possible  **Position** property values are listed below. They are also declared by the Visio type library in **VisUIBarPosition**.
+Constants that represent possible **Position** property values are listed below. They are also declared by the Visio type library in **VisUIBarPosition**.
 
 
 
-|** Constant**|** Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visBarLeft**|0|
 | **visBarTop**|1|

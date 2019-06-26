@@ -31,7 +31,8 @@ Tick-mark label text for the value axis is calculated based on the  **[MajorUnit
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 Use the  **[TickLabels](PowerPoint.Axis.TickLabels.md)** property to return the **TickLabels** object. The following example sets the number format for the tick-mark labels on the value axis for the first chart in the active document.
 

@@ -24,17 +24,6 @@ _expression_.**Type**
 _expression_ Required. A variable that represents a '[FormField](Word.FormField.md)' object.
 
 
-## Remarks
 
-
- **Security Note**  
-
-
-
-
-## See also
-
-
-[FormField Object](Word.FormField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

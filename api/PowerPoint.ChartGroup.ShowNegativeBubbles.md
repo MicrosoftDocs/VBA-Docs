@@ -34,7 +34,8 @@ The property is valid only for bubble charts.
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example causes Microsoft Word to display negative bubbles for the first chart group of the first chart in the active document.
 

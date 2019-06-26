@@ -21,7 +21,7 @@ Displays the  **Cache Status** dialog box. Available in Project Professional onl
 
 _expression_. `CacheStatus`
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Return value

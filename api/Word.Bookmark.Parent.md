@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # Bookmark.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Bookmark** object.
+Returns an **Object** that represents the parent object of the specified **Bookmark** object.
 
 
 ## Syntax
 
 _expression_.**Parent**
 
-_expression_ A variable that represents an '[Bookmark](Word.Bookmark.md)' object.
+_expression_ A variable that represents a **[Bookmark](Word.Bookmark.md)** object.
 
 
-## See also
 
-
-[Bookmark Object](Word.Bookmark.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

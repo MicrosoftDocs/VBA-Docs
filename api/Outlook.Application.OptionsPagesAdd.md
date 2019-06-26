@@ -21,7 +21,7 @@ Occurs whenever the user clicks the  **Add-in Options** button on the **Add-ins*
 
 _expression_. `OptionsPagesAdd`( `_Pages_` , `_Folder_` )
 
-_expression_ A variable that represents an [Application](Outlook.Application.md) object.
+_expression_ A variable that represents an **[Application](Outlook.Application.md)** object.
 
 
 ## Parameters

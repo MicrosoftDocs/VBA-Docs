@@ -14,39 +14,35 @@ localization_priority: Normal
 
 # Application.AdvancedSearchComplete event (Outlook)
 
-Occurs when the  **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method has completed.
+Occurs when the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method has completed.
 
 
 ## Syntax
 
-_expression_. `AdvancedSearchComplete`( `_SearchObject_` )
+_expression_.**AdvancedSearchComplete** (_SearchObject_)
 
-_expression_ A variable that represents an [Application](Outlook.Application.md) object.
+_expression_ A variable that represents an **[Application](Outlook.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _SearchObject_|Required| **[Search](Outlook.Search.md)**|The  **Search** object returned by the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method.|
+| _SearchObject_|Required| **[Search](Outlook.Search.md)**|The **Search** object returned by the **AdvancedSearch** method.|
 
 ## Remarks
 
-The  **AdvancedSearchComplete** event is used to return the object that was created by the **AdvancedSearch** method. This event only fires when the **AdvancedSearch** method is executed programmatically.
+The **AdvancedSearchComplete** event is used to return the object that was created by the **AdvancedSearch** method. This event only fires when the **AdvancedSearch** method is executed programmatically.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example searches the  **Inbox** for items where the subject is equal to "Test" and displays the names of the senders of the email items returned by the search. The `AdvanceSearchComplete` event procedure sets the boolean `blnSearchComp` to **True** when the search is complete. This boolean variable is used by the `TestAdvancedSearchComplete()` procedure to determine when the search is complete. The sample code must be placed in a class module such as `ThisOutlookSession`. The  `TestAdvancedSearchComplete()` procedure must be called before the event procedure can be called by Microsoft Outlook.
+The following Visual Basic for Applications (VBA) example searches the **Inbox** for items where the subject is equal to "Test" and displays the names of the senders of the email items returned by the search. The `AdvanceSearchComplete` event procedure sets the boolean `blnSearchComp` to **True** when the search is complete. This boolean variable is used by the `TestAdvancedSearchComplete()` procedure to determine when the search is complete. The sample code must be placed in a class module such as `ThisOutlookSession`. The  `TestAdvancedSearchComplete()` procedure must be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb
 Public blnSearchComp As Boolean 
- 
- 
- 
+
 Private Sub Application_AdvancedSearchComplete(ByVal SearchObject As Search) 
  
  MsgBox "The AdvancedSearchComplete Event fired." 
@@ -54,8 +50,6 @@ Private Sub Application_AdvancedSearchComplete(ByVal SearchObject As Search)
  blnSearchComp = True 
  
 End Sub 
- 
- 
  
 Sub TestAdvancedSearchComplete() 
  
@@ -91,9 +85,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[Application Object](Outlook.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,7 +26,8 @@ _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' objec
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets series one for the first chart in the active document to stack pictures and uses each picture to represent five units. You should run the example on a 2D column chart that has picture data markers.
 

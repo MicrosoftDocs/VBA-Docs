@@ -34,7 +34,8 @@ MsgBox ActiveDocument.Email _
 The author style name is the same as the value returned by the  **[UserName](Word.Application.UserName.md)** property.
 
 
- **Note**   There is no Emails collection; each **Document** object contains only one **Email** object.
+> [!NOTE] 
+>  There is no Emails collection; each **Document** object contains only one **Email** object.
 
 
 ## See also

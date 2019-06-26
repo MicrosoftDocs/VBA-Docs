@@ -18,7 +18,7 @@ Occurs when a new project is created, including the default project that is crea
 
 _expression_. `NewProject`( `_pj_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

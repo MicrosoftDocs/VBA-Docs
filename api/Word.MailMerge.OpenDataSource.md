@@ -69,23 +69,12 @@ How you specify the range depends on how data is retrieved. For example:
 - When retrieving data through Open Database Connectivity (ODBC), you specify a connection string.
     
 - When retrieving data from Excel using dynamic data exchange (DDE), you specify a named range.
- **Security Note**  
-
-
     
 - When retrieving data from Access, you specify the word "Table" or "Query" followed by the name of a table or query.
     
 
- **Security Note**  
-
-
-
-
- **Security Note**  
-
-
-
-Avoid using hard-coded passwords in your applications. If a password is required in a procedure, request the password from the user, store it in a variable, and then use the variable in your code. For recommended best practices on how to do this, see [Security Notes for Microsoft Office Solution Developers](https://msdn.microsoft.com/library/office/ff860261.aspx). 
+> [!IMPORTANT] 
+> Avoid using hard-coded passwords in your applications. If a password is required in a procedure, request the password from the user, store it in a variable, and then use the variable in your code. For recommended best practices on how to do this, see [Security notes for Office solution developers](../Library-Reference/Concepts/security-notes-for-microsoft-office-solution-developers). 
 
 
 ## Example
@@ -108,7 +97,7 @@ With docNew.MailMerge
 End With
 ```
 
-This example creates a new main document and attaches the Excel worksheet named ?Names.xls.? The Connection argument retrieves data from the range named "Sales."
+This example creates a new main document and attaches the Excel worksheet named Names.xls. The Connection argument retrieves data from the range named "Sales."
 
 
 

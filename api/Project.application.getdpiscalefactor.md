@@ -14,9 +14,9 @@ Indicates the  **DPI Scale Factor**, used for optimizing scale settings. Introdu
 
 ## Syntax
 
-_expression_. `GetDpiScaleFactor`
+_expression_.**GetDpiScaleFactor**
 
-_expression_ A variable that represents a [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Return value
@@ -24,9 +24,6 @@ _expression_ A variable that represents a [Application](./Project.Application.md
  **VARIANT**
 
 
-## See also
 
-
-[Application object (Project)](Project.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

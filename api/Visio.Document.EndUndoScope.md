@@ -47,7 +47,8 @@ You can also use the  **BeginUndoScope** and **EndUndoScope** methods to add an 
 
 
 
- **Note**  Most Visio actions are already wrapped in internal undo scopes, so add-ons running within the application do not need to call this method.
+> [!NOTE] 
+> Most Visio actions are already wrapped in internal undo scopes, so add-ons running within the application do not need to call this method.
 
 
 ## Example

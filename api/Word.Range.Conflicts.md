@@ -29,7 +29,8 @@ _expression_. `Conflicts`
 Use the  **Conflicts** property to return the [Conflicts](Word.Conflicts.md) collection object for a document. Use Conflicts (_index_), where _index_ is the conflict index number, to return a single[Conflict](Word.Conflict.md) object.
 
 
- **Note**  This property is only available for co authoring enabled documents. If you attempt to access this property on a document that is not enabled for co authoring, you will receive a run-time error.
+> [!NOTE] 
+> This property is only available for co authoring enabled documents. If you attempt to access this property on a document that is not enabled for co authoring, you will receive a run-time error.
 
 
 ## Example

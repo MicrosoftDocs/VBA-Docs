@@ -34,7 +34,8 @@ Setting  **Has3DShading** to **False** removes the 3D shading effect from the ch
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example adds 3D shading to the first chart group of the first chart in the active document.
 

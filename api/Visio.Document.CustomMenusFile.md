@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.CustomMenusFile property (Visio)
 
-Gets or sets the name of the file that defines custom menus and accelerators for a  **Document** object. Read/write.
+Gets or sets the name of the file that defines custom menus and accelerators for a **Document** object. Read/write.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ String
 > [!NOTE] 
 > Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-If the object is not using custom menus, the  **CustomMenusFile** property returns **Nothing**.
+If the object is not using custom menus, the **CustomMenusFile** property returns **Nothing**.
 
 
 ## Example
@@ -45,7 +45,8 @@ This Microsoft Visual Basic for Applications (VBA) macro shows how to get the cu
 
 
 
- **Note**  This macro uses the VBA keyword  **Kill** to delete a file on disk. Use this keyword carefully, because you cannot undo a **Kill** command once it has been run, and you will not get a prior warning message.
+> [!NOTE] 
+> This macro uses the VBA keyword **Kill** to delete a file on disk. Use this keyword carefully, because you cannot undo a **Kill** command once it has been run, and you will not get a prior warning message.
 
 
 

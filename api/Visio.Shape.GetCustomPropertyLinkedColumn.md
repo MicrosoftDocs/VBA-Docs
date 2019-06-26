@@ -47,7 +47,8 @@ String
 If the method fails, call the  **[Shape.IsCustomPropertyLinked](Visio.Shape.IsCustomPropertyLinked.md)** method to make sure that the shape data item (custom property row) was actually linked to the data column.
 
 
- **Note**  In some previous versions of Visio, shape data were called custom properties.
+> [!NOTE] 
+> In some previous versions of Visio, shape data were called custom properties.
 
 
 ## Example

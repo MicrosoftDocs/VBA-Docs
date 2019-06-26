@@ -21,7 +21,7 @@ Sets some display options and Project Guide options.
 
 _expression_. `OptionsInterfaceEx`( `_ShowResourceAssignmentIndicators_`, `_ShowEditToStartFinishDates_`, `_ShowEditsToWorkUnitsDurationIndicators_`, `_ShowDeletionInNameColumn_`, `_DisplayProjectGuide_`, `_ProjectGuideUseDefaultFunctionalLayoutPage_`, `_ProjectGuideFunctionalLayoutPage_`, `_ProjectGuideUseDefaultContent_`, `_ProjectGuideContent_`, `_SetAsDefaults_`, `_UseOMIDs_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -52,7 +52,8 @@ _expression_ A variable that represents an [Application](./Project.Application.m
 If an argument is omitted, the default value is specified by the setting on the  **Display** tab of the **Project Options** dialog box. The _UseOMIDs_ default value is the **Use internal IDs** option on the **Advanced** tab.
 
 
- **Note**  The  **Project Options** dialog box does not include settings for the Project Guide, which is deprecated in Project. Project Guide options can only be set programmatically, for using custom project guides. Instead of creating new project guide content, developers should create task pane apps.
+> [!NOTE] 
+> The  **Project Options** dialog box does not include settings for the Project Guide, which is deprecated in Project. Project Guide options can only be set programmatically, for using custom project guides. Instead of creating new project guide content, developers should create task pane apps.
 
 Using the  **OptionsInterfaceEx** method with no arguments displays the **Project Options** dialog box with the **General** tab selected. The **OptionsInterfaceEx** method is not available when a report view is active.
 

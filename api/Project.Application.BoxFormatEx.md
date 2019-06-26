@@ -21,7 +21,7 @@ Formats individual boxes in the Network Diagram view (PERT chart), where colors 
 
 _expression_. `BoxFormatEx`( `_ProjectName_`, `_TaskID_`, `_DataTemplate_`, `_HorizontalGridlines_`, `_VerticalGridlines_`, `_BorderShape_`, `_BorderColor_`, `_BorderWidth_`, `_BackgroundColor_`, `_BackgroundPattern_`, `_Reset_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -73,6 +73,7 @@ End Sub
 ```
 
 
- **Note**  If you use any of the **PjColor** constants for the _BorderColor_ or _BackgroundColor_ parameters, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **BoxFormatEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the [BoxFormat](Project.Application.BoxFormat.md) method.
+> [!NOTE] 
+> If you use any of the **PjColor** constants for the _BorderColor_ or _BackgroundColor_ parameters, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **BoxFormatEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the [BoxFormat](Project.Application.BoxFormat.md) method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

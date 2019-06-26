@@ -21,7 +21,7 @@ In a project comparison report, shows the Gantt Chart view in all three project 
 
 _expression_. `TaskComparison`
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Return value

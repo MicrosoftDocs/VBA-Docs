@@ -34,7 +34,8 @@ The value of this property must be between 0 and 100. This property is ignored i
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the perspective of the first chart in the active document to 70. You should run the example on a 3D chart.
 

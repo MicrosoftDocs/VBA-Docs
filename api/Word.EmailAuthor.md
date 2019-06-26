@@ -33,7 +33,8 @@ Msgbox MyEmailStyle.Font.Name
 ```
 
 
- **Note**  There is no EmailAuthors collection; each  **Email** object contains only one **EmailAuthor** object.
+> [!NOTE] 
+> There is no EmailAuthors collection; each  **Email** object contains only one **EmailAuthor** object.
 
 
 ## See also

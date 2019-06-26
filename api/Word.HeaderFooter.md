@@ -29,7 +29,8 @@ End With
 You can also return a single  **HeaderFooter** object by using the **HeaderFooter** property with a **Selection** object.
 
 
- **Note**  You cannot add  **HeaderFooter** objects to the **[HeadersFooters](Word.headersfooters.md)** collection.
+> [!NOTE] 
+> You cannot add  **HeaderFooter** objects to the **[HeadersFooters](Word.headersfooters.md)** collection.
 
 Use the  **DifferentFirstPageHeaderFooter** property with the **PageSetup** object to specify a different first page. The following example inserts text into the first page footer in the active document.
 

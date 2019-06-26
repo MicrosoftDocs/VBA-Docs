@@ -21,7 +21,7 @@ Selects cells to the right of the current selection.
 
 _expression_. `SelectCellRight`( `_NumCells_`, `_Extend_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

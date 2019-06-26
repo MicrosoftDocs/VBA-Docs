@@ -29,7 +29,8 @@ If the  **[HasSeriesLines](PowerPoint.ChartGroup.HasSeriesLines.md)** property i
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 Use the  **[SeriesLines](PowerPoint.ChartGroup.SeriesLines.md)** property to return a **SeriesLines** object. The following example adds series lines to chart group one in embedded chart one on worksheet one (the chart must be a 2D stacked bar or column chart).
 

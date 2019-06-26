@@ -30,7 +30,7 @@ _expression_ A variable that represents an [ThreeDFormat](./PowerPoint.ThreeDFor
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Increment_|Required|**Single**|Specifies how much (in degrees) the rotation of the shape around the y-axis is to be changed. Can be a value from ? 90 through 90. A positive value tilts the shape to the left; a negative value tilts it to the right.|
+| _Increment_|Required|**Single**|Specifies how much (in degrees) the rotation of the shape around the y-axis is to be changed. Can be a value from -90 through 90. A positive value tilts the shape to the left; a negative value tilts it to the right.|
 
 ## Remarks
 
@@ -38,7 +38,7 @@ Use the  **[RotationY](PowerPoint.ThreeDFormat.RotationY.md)** property to set t
 
 To change the rotation of a shape around the x-axis, use the  **[IncrementRotationX](PowerPoint.ThreeDFormat.IncrementRotationX.md)** method. To change the rotation around the z-axis, use the **[IncrementRotation](PowerPoint.Shape.IncrementRotation.md)** method.
 
-You cannot adjust the rotation around the y-axis of the specified shape past the upper or lower limit for the  **RotationY** property (90 degrees to ? 90 degrees). For example, if the **RotationY** property is initially set to 80 and you specify 40 for the Increment argument, the resulting rotation will be 90 (the upper limit for the **RotationY** property) instead of 120.
+You cannot adjust the rotation around the y-axis of the specified shape past the upper or lower limit for the  **RotationY** property (90 degrees to -90 degrees). For example, if the **RotationY** property is initially set to 80 and you specify 40 for the Increment argument, the resulting rotation will be 90 (the upper limit for the **RotationY** property) instead of 120.
 
 
 ## Example

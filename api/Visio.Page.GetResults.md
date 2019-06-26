@@ -60,7 +60,8 @@ where  _sheetID_ is the **ID** property of the **Shape** object on the page whos
 
 
 
- **Note**  If the  _sheetID_ in an entry is **visInvalShapeID** (-1) or if the bottom byte of _sectionIdx_ is **visSectionInval** (255), the entry will be ignored and an empty variant will be returned in the corresponding results array entry. The reason for this is that the same _SID_SRCStream()_ array can be used on several calls to **GetResults**, **SetResults**, and similar methods with the caller only needing to make minor changes to the stream between calls.
+> [!NOTE] 
+> If the  _sheetID_ in an entry is **visInvalShapeID** (-1) or if the bottom byte of _sectionIdx_ is **visSectionInval** (255), the entry will be ignored and an empty variant will be returned in the corresponding results array entry. The reason for this is that the same _SID_SRCStream()_ array can be used on several calls to **GetResults**, **SetResults**, and similar methods with the caller only needing to make minor changes to the stream between calls.
 
 The  _Flags_ parameter indicates what data type the returned results should be expressed in. Its value should be one of the following.
 

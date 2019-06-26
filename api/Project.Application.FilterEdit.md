@@ -18,9 +18,9 @@ Creates, edits, or copies a filter.
 
 ## Syntax
 
-_expression_.**FilterEdit** (**_Name_**, **_TaskFilter_**, **_Create_**, **_OverwriteExisting_**, **_Parenthesis_**, **_NewName_**, **_FieldName_**, **_NewFieldName_**, **_Test_**, **_Value_**, **_Operation_**, **_ShowInMenu_**, **_ShowSummaryTasks_**)
+_expression_.**FilterEdit** (_Name_, _TaskFilter_, _Create_, _OverwriteExisting_, _Parenthesis_, _NewName_, _FieldName_, _NewFieldName_, _Test_, _Value_, _Operation_, _ShowInMenu_, _ShowSummaryTasks_)
 
-_expression_ A variable that represents an **Application** object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -45,7 +45,7 @@ _expression_ A variable that represents an **Application** object.
 
 ### Comparison strings
 
-|**Comparison string**|**Description**|
+|Comparison string|Description|
 |:-----|:-----|
 |"equals"|The value of _FieldName_ equals _Value_.|
 |"does not equal"|The value of _FieldName_ does not equal _Value_.|

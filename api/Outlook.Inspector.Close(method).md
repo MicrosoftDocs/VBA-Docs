@@ -35,7 +35,8 @@ _expression_ A variable that represents an [Inspector](Outlook.Inspector.md) obj
 ## Remarks
 
 
- **Note**  Do not use this method from within the [Inspector.Activate event (Outlook)](Outlook.Inspector.Activate(even).md) event handler.
+> [!NOTE] 
+> Do not use this method from within the [Inspector.Activate event (Outlook)](Outlook.Inspector.Activate(even).md) event handler.
 
 
 ## Example

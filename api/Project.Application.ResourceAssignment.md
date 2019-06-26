@@ -18,10 +18,9 @@ Assigns, removes, or replaces the resources of the selected tasks, or changes th
 
 ## Syntax
 
-_expression_.**ResourceAssignment** (**_Resources_**, **_Operation_**, **_With_**)
+_expression_.**ResourceAssignment** (_Resources_, _Operation_, _With_)
 
-_expression_ A variable that represents an **Application** object.
-
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 ## Parameters
 

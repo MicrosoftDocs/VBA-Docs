@@ -44,7 +44,7 @@ The value of the  **AdvanceOnTime** property can be one of these **MsoTriState**
 
 ## Example
 
-This example sets slide one in the active presentation to advance after five seconds have passed or when the mouse is clicked ? whichever occurs first.
+This example sets slide one in the active presentation to advance after five seconds have passed or when the mouse is clicked&mdash;whichever occurs first.
 
 
 ```vb

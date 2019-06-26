@@ -29,7 +29,8 @@ _expression_ A variable that represents a '[DataTable](PowerPoint.DataTable.md)'
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example causes the data table for the first chart in the active document to be displayed with an outline border and no cell borders.
 

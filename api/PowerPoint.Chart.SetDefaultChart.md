@@ -37,7 +37,8 @@ _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** objec
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the default chart template to a custom chart template named "Monthly Sales."
 

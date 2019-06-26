@@ -18,7 +18,7 @@ Gets the date that the timescale in the current view starts. Read-only  **Varian
 
 _expression_. `TimescaleStart`
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Remarks

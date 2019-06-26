@@ -29,7 +29,8 @@ _expression_ A variable that represents a **[ChartGroup](Word.ChartGroup.md)** o
 You can set this property to an integer from 0 (zero) through 300, corresponding to a percentage of the default size. 
 
 
- **Note**  This property applies only to bubble charts.
+> [!NOTE] 
+> This property applies only to bubble charts.
 
 
 ## Example

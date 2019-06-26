@@ -36,7 +36,7 @@ _expression_ A variable that represents a [Presentation](./PowerPoint.Presentati
 
 ## Example
 
-The following code sample merges the active presentation with a presentation saved to the user?s desktop.
+The following code sample merges the active presentation with a presentation saved to the user's desktop.
 
 
 ```vb

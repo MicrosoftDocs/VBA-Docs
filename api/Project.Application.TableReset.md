@@ -21,7 +21,7 @@ Resets the active table to the default table definition.
 
 _expression_. `TableReset`
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Return value
@@ -34,6 +34,7 @@ _expression_. `TableReset`
 If the user has added or hidden columns, the  **TableReset** method changes the table in the active view back to the default definition. The **TableReset** method has the same effect as the **Reset to Default** command in the **Tables** drop-down menu on the **VIEW** ribbon.
 
 
- **Note**  When a column is added or hidden, the modified table shows in the  **Table Definition** dialog box when you edit the table.
+> [!NOTE] 
+> When a column is added or hidden, the modified table shows in the  **Table Definition** dialog box when you edit the table.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

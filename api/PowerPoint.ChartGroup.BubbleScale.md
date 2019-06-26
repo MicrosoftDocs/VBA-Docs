@@ -29,7 +29,8 @@ _expression_ A variable that represents a **[ChartGroup](PowerPoint.ChartGroup.m
 You can set this property to an integer from 0 (zero) through 300, corresponding to a percentage of the default size. 
 
 
- **Note**  This property applies only to bubble charts.
+> [!NOTE] 
+> This property applies only to bubble charts.
 
 
 ## Example
@@ -37,7 +38,8 @@ You can set this property to an integer from 0 (zero) through 300, corresponding
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the bubble size in the first chart group of the first chart in the active document to 200 percent of the default size.
 

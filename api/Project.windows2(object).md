@@ -19,14 +19,15 @@ Represents a collection of windows in the application or project.
 ## Remarks
 
 
- **Note**  We recommend that you use the  **Windows2** collection instead of the **Windows** collection for all new development.
+> [!NOTE] 
+> We recommend that you use the **Windows2** collection instead of the **Windows** collection for all new development.
  
 
-The  **Windows2** collection for the **Application** object contains all the windows in the application, whereas the **Windows2** collection for the **Project** object contains only the windows in the specified project.
+The **Windows2** collection for the **Application** object contains all the windows in the application, whereas the **Windows2** collection for the **Project** object contains only the windows in the specified project.
  
 
  
-Development with the .NET Framework 4, or with external components or applications that automate Project, must use the  **Windows2** object, not the **Windows** object. A Primary Interop Assembly (PIA) is required to interact correctly with the COM interface of Project if those components are to be signed. Microsoft Visual Studio generates an interop assembly based on the type library if no PIA is present, but the components then cannot be signed with a digital certificate. The PIA is installed with Project.
+Development with the .NET Framework 4, or with external components or applications that automate Project, must use the **Windows2** object, not the **Windows** object. A Primary Interop Assembly (PIA) is required to interact correctly with the COM interface of Project if those components are to be signed. Microsoft Visual Studio generates an interop assembly based on the type library if no PIA is present, but the components then cannot be signed with a digital certificate. The PIA is installed with Project.
  
 
  
@@ -37,7 +38,7 @@ Development with the .NET Framework 4, or with external components or applicatio
  
 
  
-Use the  **[Windows2](Project.Application.Windows2.md)** property to return a **Windows2** collection.
+Use the **[Windows2](Project.Application.Windows2.md)** property to return a **Windows2** collection.
  
 
  
@@ -58,7 +59,7 @@ With Application.Windows2
 End With
 ```
 
-Use the  **[WindowNewWindow](Project.Application.WindowNewWindow.md)** method to create a new window and add it to the **Windows2** collection.
+Use the **[WindowNewWindow](Project.Application.WindowNewWindow.md)** method to create a new window and add it to the **Windows2** collection.
  
 
  
@@ -80,7 +81,7 @@ Application.WindowNewWindow
 
 ## Using the Windows2 Object
 
-Use  **Windows2** (*Index* ), where*Index* is the window index number or window caption, to return a single **Window** object.
+Use **Windows2** (*Index* ), where*Index* is the window index number or window caption, to return a single **Window** object.
  
 
  
@@ -95,7 +96,7 @@ The following example maximizes the first window in the window list.
 Application.Windows2(1).WindowState = pjMaximized
 ```
 
-The window caption is the text shown in the title bar at the top of the window when the window is not maximized. The caption is also shown in the list of open files on the bottom of the  **Windows** menu. Use the **[Caption](Project.Window.Caption.md)** property to set or return the window caption. Changing the window caption does not change the name of the project.
+The window caption is the text shown in the title bar at the top of the window when the window is not maximized. The caption is also shown in the list of open files on the bottom of the **Windows** menu. Use the **[Caption](Project.Window.Caption.md)** property to set or return the window caption. Changing the window caption does not change the name of the project.
  
 
  

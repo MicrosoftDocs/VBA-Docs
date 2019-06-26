@@ -31,7 +31,8 @@ The  **Allow** method can only be called on **SharingItem** objects with a **[Ty
 The  **Type** property of the sharing response sent when this method is called is set to **olSharingMsgTypeResponseAllow**.
 
 
- **Note**  Sharing is allowed immediately after this method is called, regardless of whether the sharing response was received.
+> [!NOTE] 
+> Sharing is allowed immediately after this method is called, regardless of whether the sharing response was received.
 
 
 ## See also

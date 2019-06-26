@@ -36,7 +36,8 @@ If this property is set to  **True**, the **[Perspective](PowerPoint.Chart.Persp
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the axes for the first chart in the active document to intersect at right angles. You should run the example on a 3D chart.
 

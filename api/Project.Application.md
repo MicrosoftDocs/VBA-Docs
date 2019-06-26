@@ -11,20 +11,18 @@ localization_priority: Normal
 
 # Application object (Project)
 
-Represents the entire Project application. The  **Application** object contains:
+Represents the entire Project application. The **Application** object contains:
 
-
-- Application-wide settings and options (many of the options in the  **Options** dialog box on the **Tools** menu, for example).
+- Application-wide settings and options (many of the options in the **Options** dialog box on the **Tools** menu, for example).
     
-- Properties that return top-level objects, such as  **ActiveCell**, **ActiveProject**, and so forth.
+- Properties that return top-level objects, such as **ActiveCell**, **ActiveProject**, and so forth.
     
 - Methods that act on application-wide elements, such as views, selections, editing actions, and so forth.
     
 
 ## Using the Application Object
 
-Use the  **[Application](./Project.Project.Application.md)** property to return an **Application** object in Project . The following example applies the **Windows** property to the **Application** object.
-
+Use the **[Application](Project.Project.Application.md)** property to return an **Application** object in Project . The following example applies the **Windows** property to the **Application** object.
 
 ```vb
 Application.Windows("Project1.mpp").Activate
@@ -33,10 +31,10 @@ Application.Windows("Project1.mpp").Activate
 
 ## Using Project From Another Application: Late Binding
 
-The following example creates the Microsoft Project  **Application** object at run time, creates a new project, adds a task, saves the project, and then closes the Project . For example, copy and paste the **CreateProject_Late** macro to the **ThisDocument** module in the Visual Basic Editor (VBE) of Word.
+The following example creates the Microsoft Project **Application** object at run time, creates a new project, adds a task, saves the project, and then closes the Project . For example, copy and paste the **CreateProject_Late** macro to the **ThisDocument** module in the Visual Basic Editor (VBE) of Word.
 
-
- **Note**  Because the application queries the  **MSProject.Application** type library only at run time, Microsoft IntelliSense is not available and performance is relatively poor with late binding. Scripting languages, such as JavaScript and VBScript, require late binding. VBScript supports only the generic **Object** and **Variant** data types. For better performance in VBA and other compiled languages, you should use early binding by setting a reference to the Project type library.
+> [!NOTE] 
+> Because the application queries the **MSProject.Application** type library only at run time, Microsoft IntelliSense is not available and performance is relatively poor with late binding. Scripting languages, such as JavaScript and VBScript, require late binding. VBScript supports only the generic **Object** and **Variant** data types. For better performance in VBA and other compiled languages, you should use early binding by setting a reference to the Project type library.
 
 
 ```vb
@@ -52,17 +50,14 @@ Sub CreateProject_Late()
 End Sub
 ```
 
-If you do not set the  **Visible** property to **True**, the Project application operates in the background without being visible.
+If you do not set the **Visible** property to **True**, the Project application operates in the background without being visible.
 
 
 ## Using Project From Another Application: Early Binding
 
-Early binding has better performance because it loads the type library at design time. To use early binding, you must set a reference to the Project application from the application you are working in. For example, in the VBE for a Word document, click  **References** on the **Tools** menu, scroll through the **Available References** list, and then choose the **Microsoft Project 15.0 Object Library** checkbox.
+Early binding has better performance because it loads the type library at design time. To use early binding, you must set a reference to the Project application from the application you are working in. For example, in the VBE for a Word document, click **References** on the **Tools** menu, scroll through the **Available References** list, and then choose the **Microsoft Project 15.0 Object Library** checkbox.
 
 The following example opens a project from another application such as Excel , adds a task, and then saves and closes the project. 
-
-
-
 
 ```vb
 Sub ModifyProject_Early() 
@@ -80,21 +75,15 @@ End Sub
 
 ## Remarks
 
+> [!IMPORTANT]  
+> For application-level events, register event handlers _after_ you set `Application.Visible = True`.
 
+If you instantiate Project from another application and register an application-level event before setting the **Visible** property of the **Application** object to **True**, the properties and methods of child objects of **Application** do not work. For example, `Application.ActiveProject.Name` is not accessible.
 
-
- **Important**  For application-level events, register event handlers  _after_ you set `Application.Visible = True`.
-
-
-
-If you instantiate Project from another application and register an application-level event before setting the  **Visible** property of the **Application** object to **True**, the properties and methods of child objects of **Application** do not work. For example, `Application.ActiveProject.Name` is not accessible.
-
-Many of the properties and methods that return the most common user-interface objects, such as the active project—represented by the  **[ActiveProject](./Project.Application.ActiveProject.md)** property—can be used without the **Application** object qualifier. For example, instead of writing `Application.ActiveProject.Visible = True` you can write `ActiveProject.Visible = True`
+Many of the properties and methods that return the most common user-interface objects, such as the active project—represented by the **[ActiveProject](./Project.Application.ActiveProject.md)** property—can be used without the **Application** object qualifier. For example, instead of writing `Application.ActiveProject.Visible = True` you can write `ActiveProject.Visible = True`
 
 
 ## Events
-
-
 
 |Name|
 |:-----|

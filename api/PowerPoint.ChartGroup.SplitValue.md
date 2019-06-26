@@ -29,7 +29,8 @@ _expression_ A variable that represents a **[ChartGroup](PowerPoint.ChartGroup.m
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example splits the two sections of the chart by value, combining all values under 10 in the primary pie and displaying them in the secondary section. You must run this example on either a pie-of-pie chart or a bar-of-pie chart. 
 

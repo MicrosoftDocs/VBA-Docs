@@ -34,7 +34,8 @@ Calling this method sets the  **[IsLinked](PowerPoint.ChartData.IsLinked.md)** p
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example removes the link between the  **ChartData** object for the first chart in the active document and the Excel workbook that provided the data for the chart.
 

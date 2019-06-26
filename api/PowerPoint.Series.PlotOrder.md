@@ -36,7 +36,8 @@ Changing the plot order of one series will cause the plot orders of the other se
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example makes series two for the first chart in the active document appear third in the plot order. You should run the example on a 2D column chart that contains three or more series.
 

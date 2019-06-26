@@ -21,7 +21,7 @@ Returns a  **[LanguageSettings](Office.LanguageSettings.md)** object for the app
 
 _expression_.**LanguageSettings**
 
-_expression_ A variable that represents an '[Application](Outlook.Application.md)' object.
+_expression_ A variable that represents an **[Application](Outlook.Application.md)** object.
 
 
 ## See also

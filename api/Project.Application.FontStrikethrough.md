@@ -21,7 +21,7 @@ Applies or removes strikethrough formatting from the selected text.
 
 _expression_. `FontStrikethrough`( `_Set_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

@@ -26,7 +26,8 @@ _expression_ A variable that represents a **[ChartGroup](PowerPoint.ChartGroup.m
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example enables series lines for chart group one of the first chart in the active document, and then sets the line style, weight, and color of the series lines. You should run the example on a 2D stacked column chart that has two or more series.
 

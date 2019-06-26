@@ -37,7 +37,8 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 When you insert a page or column break, the break replaces the selection. If you don't want to replace the selection, use the  **[Collapse](Word.Selection.Collapse.md)** method before using the **InsertBreak** method.
 
 
- **Note**  When you insert a section break, the break is inserted immediately preceding the selection.
+> [!NOTE] 
+> When you insert a section break, the break is inserted immediately preceding the selection.
 
 
 ## Example

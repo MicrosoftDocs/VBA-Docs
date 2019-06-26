@@ -31,7 +31,8 @@ If you use a string, you will get a string as the separator. If you use  **xlDat
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the data label separator for the first series on the first chart in the active document to a semicolon.
 

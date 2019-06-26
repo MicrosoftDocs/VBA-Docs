@@ -21,7 +21,7 @@ Customizes the top and bottom bands of date boxes in the Calendar view.
 
 _expression_. `CalendarDateBoxesEx`( `_TopLeft_`, `_TopRight_`, `_BottomLeft_`, `_BottomRight_`, `_TopColor_`, `_BottomColor_`, `_TopPattern_`, `_BottomPattern_` )
 
- _expression_ An expression that returns an [Application](./Project.Application.md) object.
+ _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
@@ -63,6 +63,7 @@ End Sub
 ```
 
 
- **Note**  If you use any of the  **PjColor** enumeration constants for the _TopColor_ or _BottomColor_ parameters, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **CalendarDateBoxesEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[CalendarDateBoxes](Project.Application.CalendarDateBoxes.md)** method.
+> [!NOTE] 
+> If you use any of the  **PjColor** enumeration constants for the _TopColor_ or _BottomColor_ parameters, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **CalendarDateBoxesEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[CalendarDateBoxes](Project.Application.CalendarDateBoxes.md)** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Document.AfterDocumentMerge event (Visio)
 
-Occurs when Visio incorporates changes from other users? versions of a document into a merged, co authored document.
+Occurs when Visio incorporates changes from other users' versions of a document into a merged, co authored document.
 
 
 ## Syntax

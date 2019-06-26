@@ -29,7 +29,8 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 This property returns  **True**, **False** or **wdUndefined** (for a mixture of italic and non-italic text). Can be set to **True**, **False**, or **wdToggle**.
 
 
- **Note**  The  **ItalicBi** property applies to text in right-to-left languages.
+> [!NOTE] 
+> The  **ItalicBi** property applies to text in right-to-left languages.
 
 
 ## Example

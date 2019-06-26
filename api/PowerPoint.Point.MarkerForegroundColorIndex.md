@@ -31,7 +31,8 @@ This property applies only to line, scatter, and radar charts.
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 The following example sets the marker background and foreground colors for the second point in series one for the first chart in the active document.
 

@@ -35,11 +35,11 @@ Integer
 > [!NOTE] 
 > Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-Possible values for the  **Style** property are listed in the following table. These constants are declared by the Visio type library in **VisUIButtonStyle**.
+Possible values for the **Style** property are listed in the following table. These constants are declared by the Visio type library in **VisUIButtonStyle**.
 
 
 
-|** Constant**|** Value**|
+|Constant|Value|
 |:-----|:-----|
 | **visButtonAutomatic**|0|
 | **visButtonCaption**|1|

@@ -21,7 +21,7 @@ Sets the value of a resource field.
 
 _expression_. `SetResourceField`( `_Field_`, `_Value_`, `_AllSelectedResources_`, `_Create_`, `_ResourceID_`, `_ProjectName_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters

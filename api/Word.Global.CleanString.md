@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Global.CleanString method (Word)
 
-Removes nonprinting characters (character codes 1 ? 29) and special Word characters from the specified string or changes them to spaces (character code 32), as described in the "Remarks" section. Returns the result as a  **String**.
+Removes nonprinting characters (character codes 1&ndash;29) and special Word characters from the specified string or changes them to spaces (character code 32), as described in the "Remarks" section. Returns the result as a  **String**.
 
 
 ## Syntax

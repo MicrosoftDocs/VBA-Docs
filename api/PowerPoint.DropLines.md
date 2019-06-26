@@ -29,7 +29,8 @@ If the  **[HasDropLines](PowerPoint.ChartGroup.HasDropLines.md)** property is **
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 Use the  **[DropLines](PowerPoint.ChartGroup.DropLines.md)** property to return the **DropLines** object. The following example enables drop lines for chart group one of the first chart in the active document and then sets the drop line color to red.
 

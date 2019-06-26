@@ -34,7 +34,8 @@ _expression_ A variable that represents a '[Trendlines](Word.Trendlines.md)' obj
 | _Forward_|Optional| **Variant**|The number of periods (or units on a scatter chart) that the trendline extends forward.|
 | _Backward_|Optional| **Variant**|The number of periods (or units on a scatter chart) that the trendline extends backward.|
 | _Intercept_|Optional| **Variant**|The trendline intercept. If specified, the value must be a double-precision floating-point number. If omitted, the intercept is automatically set by the regression, and the  **[InterceptIsAuto](Word.Trendline.InterceptIsAuto.md)** property of the resulting **[Trendline](Word.Trendline.md)** object is set to **True**.
- **Note**  This parameter is applicable only ifType is set to  **xlExponential**, **xlLinear**, or **xlPolynomial**.
+> [!NOTE] 
+> This parameter is applicable only ifType is set to  **xlExponential**, **xlLinear**, or **xlPolynomial**.
 
 |
 | _DisplayEquation_|Optional| **Variant**| **True** to display the equation of the trendline on the chart (in the same data label as the R-squared value). The default is **False**.|

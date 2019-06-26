@@ -22,7 +22,8 @@ A collection of all the  **[Shape](./PowerPoint.Shape.md)** objects on the speci
 Each  **Shape** object represents an object in the drawing layer, such as an AutoShape, freeform, OLE object, or picture.
 
 
- **Note**  If you want to work with a subset of the shapes on a document — for example, to do something to only the AutoShapes on the document or to only the selected shapes — you must construct a  **[ShapeRange](PowerPoint.ShapeRange.md)** collection that contains the shapes you want to work with. For an overview of how to work either with a single shape or with more than one shape at a time, see [How to: Work with Shapes (Drawing Objects)](../powerpoint/How-to/work-with-shapes-drawing-objects.md).
+> [!NOTE] 
+> If you want to work with a subset of the shapes on a document — for example, to do something to only the AutoShapes on the document or to only the selected shapes — you must construct a  **[ShapeRange](PowerPoint.ShapeRange.md)** collection that contains the shapes you want to work with. For an overview of how to work either with a single shape or with more than one shape at a time, see [How to: Work with Shapes (Drawing Objects)](../powerpoint/How-to/work-with-shapes-drawing-objects.md).
 
 
 ## Example
@@ -35,7 +36,8 @@ ActivePresentation.Slides(1).Shapes.SelectAll
 ```
 
 
- **Note**  If you want to do something (like delete or set a property) to all the shapes on a document at the same time, use the [Range](./PowerPoint.Shapes.Range.md)method with no argument to create a  **ShapeRange** object that contains all the shapes in the **Shapes** collection, and then apply the appropriate property or method to the **ShapeRange** object.
+> [!NOTE] 
+> If you want to do something (like delete or set a property) to all the shapes on a document at the same time, use the [Range](./PowerPoint.Shapes.Range.md)method with no argument to create a  **ShapeRange** object that contains all the shapes in the **Shapes** collection, and then apply the appropriate property or method to the **ShapeRange** object.
 
 Use the [AddCallout](./PowerPoint.Shapes.AddCallout.md), [AddComment](overview/PowerPoint.md), [AddConnector](./PowerPoint.Shapes.AddConnector.md), [AddCurve](./PowerPoint.Shapes.AddCurve.md), [AddLabel](./PowerPoint.Shapes.AddLabel.md), [AddLine](./PowerPoint.Shapes.AddLine.md), [AddMediaObject](./PowerPoint.Shapes.AddMediaObject.md), [AddOLEObject](./PowerPoint.Shapes.AddOLEObject.md), [AddPicture](./PowerPoint.Shapes.AddPicture.md), [AddPlaceholder](./PowerPoint.Shapes.AddPlaceholder.md), [AddPolyline](./PowerPoint.Shapes.AddPolyline.md), [AddShape](./PowerPoint.Shapes.AddShape.md), [AddTable](./PowerPoint.Shapes.AddTable.md), [AddTextbox](./PowerPoint.Shapes.AddTextbox.md), [AddTextEffect](./PowerPoint.Shapes.AddTextEffect.md), or [AddTitle](./PowerPoint.Shapes.AddTitle.md)method to create a new shape and add it to the  **Shapes** collection. Use the [BuildFreeform](./PowerPoint.Shapes.BuildFreeform.md)method in conjunction with the [ConvertToShape](./PowerPoint.FreeformBuilder.ConvertToShape.md)method to create a new freeform and add it to the collection. The following example adds a rectangle to the active presentation.
 

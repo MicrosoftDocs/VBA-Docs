@@ -29,7 +29,8 @@ Dim objCC As ContentControl Dim objLE As ContentControlListEntry Dim objMap As X
 Use the  **[Item](Word.ContentControlListEntries.Item.md)** method or the **[DropdownListEntries](Word.ContentControl.DropdownListEntries.md)** property of a **ContentControl** object to access an individual list item within a collection. The following code example uses the **Item** method to access the third item in a list and change the display text.
 
 
- **Note**  The following code example assumes that the first  **ContentControl** object in the active document is a drop-down list or combo box.
+> [!NOTE] 
+> The following code example assumes that the first  **ContentControl** object in the active document is a drop-down list or combo box.
 
 
 
@@ -41,7 +42,8 @@ Dim objCC As ContentControl Dim objLE As ContentControlListEntry Dim objMap As X
 Use the  **Clear** method to remove all items from a drop-down list or combo box. The following code example clears all items from the first content control in the active document.
 
 
- **Note**  The following code example assumes that the first content control in the active document is a drop-down list or combo box.
+> [!NOTE] 
+> The following code example assumes that the first content control in the active document is a drop-down list or combo box.
 
 
 

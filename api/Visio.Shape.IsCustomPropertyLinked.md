@@ -47,7 +47,8 @@ Boolean
 Call this method before calling the  **[GetCustomPropertyLinkedColumn](Visio.Shape.GetCustomPropertyLinkedColumn.md)** method to make sure that the shape data item (custom property row) is actually linked to a data column.
 
 
- **Note**  In some previous versions of Visio, shape data were called custom properties.
+> [!NOTE] 
+> In some previous versions of Visio, shape data were called custom properties.
 
 Knowing how shapes are linked to data can help prevent conflicts and broken links when you refresh the data in one or more data recordsets.
 

@@ -29,7 +29,8 @@ _expression_ A variable that represents a '[FileConverter](PowerPoint.FileConver
 
 
 
- **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
+> [!NOTE] 
+> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
 This example displays the name and file name extensions for the first file converter.
 

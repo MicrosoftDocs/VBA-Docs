@@ -21,7 +21,7 @@ Converts a local calendar to an enterprise calendar.
 
 _expression_. `MakeLocalCalendarEnterprise`( `_OldName_`, `_NewName_` )
 
-_expression_ A variable that represents an [Application](./Project.Application.md) object.
+_expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
 
 ## Parameters
