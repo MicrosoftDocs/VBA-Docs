@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1008999
 ms.prod: office
 ms.assetid: 5044cb55-6cdc-16a7-6558-dcff7ab4b933
-ms.date: 12/03/2018
+ms.date: 06/27/2019
 localization_priority: Normal
 ---
 
@@ -48,7 +48,7 @@ ReDim Preserve X(10, 10, 15)
 
 Similarly, when you use **Preserve**, you can change the size of the array only by changing the upper bound; changing the lower bound causes an error.
 
-If you make an array smaller than it was, data in the eliminated elements will be lost. If you pass an array to a procedure by reference, you can't redimension the array within the procedure.
+If you make an array smaller than it was, data in the eliminated elements will be lost. 
 
 When variables are initialized, a numeric variable is initialized to 0, a variable-length string is initialized to a zero-length string (""), and a fixed-length string is filled with zeros. **Variant** variables are initialized to [Empty](../../Glossary/vbe-glossary.md#empty). Each element of a user-defined type variable is initialized as if it were a separate variable. 
 

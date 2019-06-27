@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # CanvasShapes object (Word)
 
-Use the  **CanvasItems** property of either a **[Shape](Word.Shape.md)** or **[ShapeRange](Word.shaperange.md)** object to return a **CanvasShapes** collection.
+Use the **CanvasItems** property of either a **[Shape](Word.Shape.md)** or **[ShapeRange](Word.shaperange.md)** object to return a **CanvasShapes** collection.
 
 
 ## Remarks
 
-To add shapes to a drawing canvas, use the following methods of the  **CanvasShapes** collection: **[AddCallout](Word.CanvasShapes.AddCallout.md)**, **[AddConnector](Word.CanvasShapes.AddConnector.md)** **[AddCurve](Word.CanvasShapes.AddCurve.md)**, **[AddLabel](Word.CanvasShapes.AddLabel.md)**, **[AddLine](Word.CanvasShapes.AddLine.md)**, **[AddPicture](Word.CanvasShapes.AddPicture.md)**, **[AddPolyline](Word.CanvasShapes.AddPolyline.md)**, **[AddShape](Word.CanvasShapes.AddShape.md)**, **[AddTextbox](Word.CanvasShapes.AddTextbox.md)**, **[AddTextEffect](Word.CanvasShapes.AddTextEffect.md)**, or **[BuildFreeform](Word.CanvasShapes.BuildFreeform.md)**. The following example adds a drawing canvas to the active document and then adds three shapes to the drawing canvas.
+To add shapes to a drawing canvas, use the following methods of the **CanvasShapes** collection: **[AddCallout](Word.CanvasShapes.AddCallout.md)**, **[AddConnector](Word.CanvasShapes.AddConnector.md)** **[AddCurve](Word.CanvasShapes.AddCurve.md)**, **[AddLabel](Word.CanvasShapes.AddLabel.md)**, **[AddLine](Word.CanvasShapes.AddLine.md)**, **[AddPicture](Word.CanvasShapes.AddPicture.md)**, **[AddPolyline](Word.CanvasShapes.AddPolyline.md)**, **[AddShape](Word.CanvasShapes.AddShape.md)**, **[AddTextbox](Word.CanvasShapes.AddTextbox.md)**, **[AddTextEffect](Word.CanvasShapes.AddTextEffect.md)**, or **[BuildFreeform](Word.CanvasShapes.BuildFreeform.md)**. The following example adds a drawing canvas to the active document and then adds three shapes to the drawing canvas.
 
 
 ```vb
@@ -46,10 +46,9 @@ Sub AddCanvasShapes()
 End Sub
 ```
 
-Use  **CanvasItems** (_index_), where _index_ is the name or the index number, to return a single shape in the **CanvasShapes** collection. The following example sets the **Line** and **Fill** properties and vertically flips the third shape in a drawing canvas.
+<br/>
 
-
-
+Use **CanvasItems** (_index_), where _index_ is the name or the index number, to return a single shape in the **CanvasShapes** collection. The following example sets the **Line** and **Fill** properties and vertically flips the third shape in a drawing canvas.
 
 ```vb
 Sub CanvasShapeThree() 
@@ -61,12 +60,35 @@ Sub CanvasShapeThree()
 End Sub
 ```
 
-Each shape is assigned a default name when it is created. For example, if you add three different shapes to a document, they might be named Rectangle 2, TextBox 3, and Oval 4. Use the  **Name** property to reference the default name or to assign a more meaningful name to a shape.
+Each shape is assigned a default name when it is created. For example, if you add three different shapes to a document, they might be named Rectangle 2, TextBox 3, and Oval 4. Use the **Name** property to reference the default name or to assign a more meaningful name to a shape.
+
+## Methods
+
+- [AddCallout](Word.CanvasShapes.AddCallout.md)
+- [AddConnector](Word.CanvasShapes.AddConnector.md)
+- [AddCurve](Word.CanvasShapes.AddCurve.md)
+- [AddLabel](Word.CanvasShapes.AddLabel.md)
+- [AddLine](Word.CanvasShapes.AddLine.md)
+- [AddPicture](Word.CanvasShapes.AddPicture.md)
+- [AddPolyline](Word.CanvasShapes.AddPolyline.md)
+- [AddShape](Word.CanvasShapes.AddShape.md)
+- [AddTextbox](Word.CanvasShapes.AddTextbox.md)
+- [AddTextEffect](Word.CanvasShapes.AddTextEffect.md)
+- [BuildFreeform](Word.CanvasShapes.BuildFreeform.md)
+- [Item](Word.CanvasShapes.Item.md)
+- [Range](Word.CanvasShapes.Range.md)
+- [SelectAll](Word.CanvasShapes.SelectAll.md)
+
+## Properties
+
+- [Application](Word.CanvasShapes.Application.md)
+- [Count](Word.CanvasShapes.Count.md)
+- [Creator](Word.CanvasShapes.Creator.md)
+- [Parent](Word.CanvasShapes.Parent.md)
 
 
 ## See also
 
-
-[Word Object Model Reference](overview/Word/object-model.md)
+- [Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
