@@ -13,9 +13,9 @@ localization_priority: Normal
 
 # CommentThreaded.AddReply method (Excel)
 
-If this comment is a thread/parent, adds a reply to Replies. 
+If the comment is a top-level comment, it will add a reply to its replies collection.
 
-If this comment is a child/reply, adds the reply to the parent’s Replies.  
+If this comment is a reply, it will add a reply to its Parent's replies collection
 
 
 ## Syntax
