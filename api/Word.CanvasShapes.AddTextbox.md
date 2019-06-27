@@ -14,23 +14,21 @@ localization_priority: Normal
 
 # CanvasShapes.AddTextbox method (Word)
 
-Adds a text box to a drawing canvas. Returns a  **Shape** object that represents the text box.
+Adds a text box to a drawing canvas. Returns a **Shape** object that represents the text box.
 
 
 ## Syntax
 
-_expression_. `AddTextbox`( `_Orientation_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
+_expression_.**AddTextbox** (_Orientation_, _Left_, _Top_, _Width_, _Height_)
 
 _expression_ Required. A variable that represents a **[CanvasShapes](Word.CanvasShapes.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Orientation_|Required| **MsoTextOrientation**|The orientation of the text. Some of the  **MsoTextOrientation** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
+| _Orientation_|Required| **MsoTextOrientation**|The orientation of the text. Some of the **MsoTextOrientation** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
 | _Left_|Required| **Single**|The position, measured in points, of the left edge of the text box.|
 | _Top_|Required| **Single**|The position, measured in points, of the top edge of the text box.|
 | _Width_|Required| **Single**|The width, measured in points, of the text box.|
@@ -39,7 +37,6 @@ _expression_ Required. A variable that represents a **[CanvasShapes](Word.Canvas
 ## Example
 
 This example add a textbox to a canvas in a new document.
-
 
 ```vb
 Sub NewCanvasTextbox() 
@@ -59,9 +56,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[CanvasShapes Collection](Word.CanvasShapes.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -32,10 +32,29 @@ With ActiveDocument.Shapes(3).Callout
 End With
 ```
 
+## Methods
+
+- [CustomDrop](Word.CalloutFormat.CustomDrop.md)
+- [CustomLength](Word.CalloutFormat.CustomLength.md)
+- [PresetDrop](Word.CalloutFormat.PresetDrop.md)
+
+## Properties
+
+- [Accent](Word.CalloutFormat.Accent.md)
+- [Angle](Word.CalloutFormat.Angle.md)
+- [Application](Word.CalloutFormat.Application.md)
+- [AutoLength](Word.CalloutFormat.AutoLength.md)
+- [Border](Word.CalloutFormat.Border.md)
+- [Creator](Word.CalloutFormat.Creator.md)
+- [Drop](Word.CalloutFormat.Drop.md)
+- [DropType](Word.CalloutFormat.DropType.md)
+- [Gap](Word.CalloutFormat.Gap.md)
+- [Length](Word.CalloutFormat.Length.md)
+- [Parent](Word.CalloutFormat.Parent.md)
+- [Type](Word.CalloutFormat.Type.md)
 
 ## See also
 
-
-[Word Object Model Reference](overview/Word/object-model.md)
+- [Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

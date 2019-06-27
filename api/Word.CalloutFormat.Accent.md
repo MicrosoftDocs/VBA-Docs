@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # CalloutFormat.Accent property (Word)
 
- **True** if a vertical accent bar separates the callout text from the callout line. Read/write **MsoTriState**.
+**True** if a vertical accent bar separates the callout text from the callout line. Read/write **MsoTriState**.
 
 
 ## Syntax
 
 _expression_.**Accent**
 
-_expression_ A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
+_expression_ A variable that represents a **[CalloutFormat](Word.CalloutFormat.md)** object.
 
 
 ## Example
@@ -46,9 +46,6 @@ End With
 ```
 
 
-## See also
 
-
-[CalloutFormat Object](Word.CalloutFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
