@@ -19,7 +19,7 @@ Represents the sound effect that accompanies an animation or slide transition in
 
 ## Example
 
-Use the [SoundEffect](PowerPoint.AnimationSettings.SoundEffect.md)property of the  **AnimationSettings** object to return the **SoundEffect** object that represents the sound effect that accompanies an animation. The following example specifies that the animation of the title on slide one in the active presentation be accompanied by the sound in the Bass.wav file.
+Use the [SoundEffect](PowerPoint.AnimationSettings.SoundEffect.md) property of the  **AnimationSettings** object to return the **SoundEffect** object that represents the sound effect that accompanies an animation. The following example specifies that the animation of the title on slide one in the active presentation be accompanied by the sound in the Bass.wav file.
 
 
 ```vb
