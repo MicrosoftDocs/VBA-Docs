@@ -1,28 +1,30 @@
 ---
-title: Range.Formula property (Excel)
-keywords: vbaxl10.chm144132
+title: Range.Formula2 property (Excel)
+keywords: ???
 f1_keywords:
-- vbaxl10.chm144132
+- ???
 ms.prod: excel
 api_name:
-- Excel.Range.Formula
-ms.assetid: c5be8952-fc3f-bdb3-d4a6-abf9d94eab1e
-ms.date: 05/10/2019
+- Excel.Range.Formula2
+ms.assetid: ???
+ms.date: ???
 localization_priority: Normal
 ---
 
 
-# Range.Formula property (Excel)
+# Range.Formula2 property (Excel)
 
-Returns or sets a **Variant** value that represents the object's implicitly intersecting formula in A1-style notation. 
+Returns or sets a **Variant** value that represents the object's formula in A1-style array notation.    
+
 
 ## Syntax
 
-_expression_.**Formula**
+_expression_.**Formula2**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
-## Remarks
+
+# Remarks
 
 In Dynamic Arrays enabled Excel, Range.Formula2 supercedes Range.Formula. Range.Formula will continue to be supported to maintain backcompatibility. A discussion on Dynamic Arrays and Range.Formula2 can be found here. 
 
@@ -34,7 +36,7 @@ If you set the value or formula of a cell to a date, Microsoft Excel verifies th
 
 If the range is a one- or two-dimensional range, you can set the formula to a Visual Basic array of the same dimensions. Similarly, you can put the formula into a Visual Basic array.
 
-Formulas set using Range.Formula may trigger implicit intersection. 
+Formulas set using Range.Formula2 will always be evaluated as an array and may spill if more than 1 result is returned. 
 
 Setting the formula for a multiple-cell range fills all cells in the range with the formula.
 
