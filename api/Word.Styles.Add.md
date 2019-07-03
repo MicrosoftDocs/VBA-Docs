@@ -18,7 +18,7 @@ Creates a new user-defined style and adds it to the **Styles** collection.
 
 ## Syntax
 
-_expression_.**Add** (_Style_)
+_expression_.**Add** (_Name_, _Type_)
 
 _expression_ Required. A variable that represents a **[Styles](Word.styles.md)** object.
 
@@ -27,7 +27,8 @@ _expression_ Required. A variable that represents a **[Styles](Word.styles.md)**
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Style_|Required| **Variant**|The style that you want to add. You can specify this argument by using either the string name for the style or a **Style** object.|
+|_Name_|Required|**String**|The new style name.|
+|_Type_|Optional|**[WdStyleType](word.wdstyletype.md)**|Can be one of the **WdStyleType** constants.|
 
 ## Return value
 
