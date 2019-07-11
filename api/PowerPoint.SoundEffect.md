@@ -19,7 +19,7 @@ Represents the sound effect that accompanies an animation or slide transition in
 
 ## Example
 
-Use the [SoundEffect](PowerPoint.AnimationSettings.SoundEffect.md)property of the  **AnimationSettings** object to return the **SoundEffect** object that represents the sound effect that accompanies an animation. The following example specifies that the animation of the title on slide one in the active presentation be accompanied by the sound in the Bass.wav file.
+Use the **[SoundEffect](PowerPoint.AnimationSettings.SoundEffect.md)** property of the **AnimationSettings** object to return the **SoundEffect** object that represents the sound effect that accompanies an animation. The following example specifies that the animation of the title on slide one in the active presentation be accompanied by the sound in the Bass.wav file.
 
 
 ```vb
@@ -32,12 +32,9 @@ With ActivePresentation.Slides(1).Shapes(1).AnimationSettings
 End With
 ```
 
-Use the  **SoundEffect** property of the **SlideShowTransition** object to return the **SoundEffect** object that represents the sound effect that accompanies a slide transition.
+Use the **SoundEffect** property of the **SlideShowTransition** object to return the **SoundEffect** object that represents the sound effect that accompanies a slide transition.
 
 The following example specifies that the transition to slide one in the active presentation be accompanied by the sound in the Bass.wav file.
-
-
-
 
 ```vb
 ActivePresentation.Slides(1).SlideShowTransition.SoundEffect _
@@ -47,7 +44,6 @@ ActivePresentation.Slides(1).SlideShowTransition.SoundEffect _
 
 ## See also
 
-
-[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+- [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
