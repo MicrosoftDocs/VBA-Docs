@@ -7,59 +7,49 @@ ms.prod: word
 api_name:
 - Word.Styles.Add
 ms.assetid: b576d8a0-923b-f0dd-0f5f-6a243392d134
-ms.date: 06/08/2017
+ms.date: 07/02/2019
 localization_priority: Normal
 ---
 
 
 # Styles.Add method (Word)
 
-Returns a  **HeadingStyle** object that represents a new heading style added to a document.
-
+Creates a new user-defined style and adds it to the **Styles** collection. 
 
 ## Syntax
 
-_expression_.**Add** (_Style_, _Level_)
+_expression_.**Add** (_Name_, _Type_)
 
-_expression_ Required. A variable that represents a '[Styles](Word.styles.md)' collection.
+_expression_ Required. A variable that represents a **[Styles](Word.styles.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Style_|Required| **Variant**|The style you want to add. You can specify this argument by using either the string name for the style or a  **Style** object.|
-| _Level_|Required| **Integer**|A number that represents the level of the heading.|
+|_Name_|Required|**String**|The new style name.|
+|_Type_|Optional|**[WdStyleType](word.wdstyletype.md)**|Can be one of the **WdStyleType** constants.|
 
 ## Return value
 
-HeadingStyle
-
-
-## Remarks
-
-The new heading style will be included whenever you compile a table of contents or table of figures.
+**Style**
 
 
 ## Example
 
-This example adds a table of contents at the beginning of the active document and then adds the Title style to the list of styles used to build a table of contents.
-
+The following example adds a new character style named "Introduction" and makes it 12-point Arial, with bold and italic formatting. The example then applies this new character style to the selection.
 
 ```vb
-Set myToc = ActiveDocument.TablesOfContents _ 
- .Add(Range:=ActiveDocument.Range(0, 0), _ 
- UseHeadingStyles:=True, UpperHeadingLevel:=1, _ 
- LowerHeadingLevel:=3) 
-myToc.HeadingStyles.Add Style:="Title", Level:=2
+Set myStyle = ActiveDocument.Styles.Add(Name:="Introduction", _ 
+ Type:=wdStyleTypeCharacter) 
+With myStyle.Font 
+ .Bold = True 
+ .Italic = True 
+ .Name = "Arial" 
+ .Size = 12 
+End With 
+Selection.Range.Style = "Introduction"
 ```
 
-
-## See also
-
-
-[Styles Collection Object](Word.styles.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
