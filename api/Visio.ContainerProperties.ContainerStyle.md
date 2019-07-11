@@ -31,10 +31,10 @@ _expression_.**ContainerStyle**
 
 ## Remarks
 
-The value of the  **ContainerStyle** property corresponds to the numerical identifier (ID) of the container style that is selected in the **Container Styles** gallery on the **Container Tools Format** tab.
+The value of the **ContainerStyle** property corresponds to the numerical identifier (ID) of the container style that is selected in the **Container Styles** gallery on the **Container Tools Format** tab.
 
-The value of the  **ContainerStyle** should always be greater than zero.
+The value of the **ContainerStyle** should always be greater than zero.
 
-If no value is assigned to the  **ContainerStyle** property or it is set to a null value, a run-time error ensues. A run-time error also ensues if you assign the property a value that is less than 1 or greater than the maximum ID number in the **Container Styles** gallery.
+If no value is assigned to the **ContainerStyle** property or it is set to a null value, a run-time error ensues. A run-time error also ensues if you assign the property a value that is less than 1 or greater than the maximum ID number in the **Container Styles** gallery.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

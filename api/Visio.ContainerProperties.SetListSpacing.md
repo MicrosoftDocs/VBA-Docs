@@ -33,7 +33,7 @@ _expression_ A variable that represents a **[ContainerProperties](Visio.Containe
 
 ## Return value
 
- **Nothing**
+**Nothing**
 
 
 ## Remarks

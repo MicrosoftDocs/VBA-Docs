@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataColumns.DataRecordset property (Visio)
 
-Returns the  **[DataRecordset](Visio.DataRecordset.md)** object that contains the **DataColumns** collection. Read-only.
+Returns the **[DataRecordset](Visio.DataRecordset.md)** object that contains the **DataColumns** collection. Read-only.
 
 
 > [!NOTE] 
@@ -25,7 +25,7 @@ Returns the  **[DataRecordset](Visio.DataRecordset.md)** object that contains th
 
 _expression_.**DataRecordset**
 
- _expression_ An expression that returns a **[DataColumns](Visio.DataColumns.md)** object.
+_expression_ An expression that returns a **[DataColumns](Visio.DataColumns.md)** object.
 
 
 ## Return value
@@ -35,6 +35,6 @@ DataRecordset
 
 ## Remarks
 
-Each  **DataRecordset** object contains one and only one **DataColumns** collection.
+Each **DataRecordset** object contains one and only one **DataColumns** collection.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

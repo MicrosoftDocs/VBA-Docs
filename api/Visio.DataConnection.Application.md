@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataConnection.Application property (Visio)
 
-Returns the instance of Microsoft Visio associated with a  **DataConnection** object. Read-only.
+Returns the instance of Microsoft Visio associated with a **DataConnection** object. Read-only.
 
 
 > [!NOTE] 
@@ -25,7 +25,7 @@ Returns the instance of Microsoft Visio associated with a  **DataConnection** ob
 
 _expression_.**Application**
 
- _expression_ An expression that returns a **[DataConnection](Visio.DataConnection.md)** object.
+_expression_ An expression that returns a **[DataConnection](Visio.DataConnection.md)** object.
 
 
 ## Return value

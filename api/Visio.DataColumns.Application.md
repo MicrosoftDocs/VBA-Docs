@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataColumns.Application property (Visio)
 
-Returns the instance of Microsoft Visio associated with the  **DataColumns** collection. Read-only.
+Returns the instance of Microsoft Visio associated with the **DataColumns** collection. Read-only.
 
 
 > [!NOTE] 

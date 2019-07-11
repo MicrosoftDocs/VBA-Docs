@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataColumn.DataRecordset property (Visio)
 
-Returns the  **[DataRecordset](Visio.DataColumn.DataRecordset.md)** object that contains the data column in its **[DataColumns](Visio.DataColumns.md)** collection. Read-only.
+Returns the **[DataRecordset](Visio.DataColumn.DataRecordset.md)** object that contains the data column in its **[DataColumns](Visio.DataColumns.md)** collection. Read-only.
 
 
 > [!NOTE] 
