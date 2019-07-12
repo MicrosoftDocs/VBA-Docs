@@ -21,7 +21,7 @@ Deletes the specified  **Comment** object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [Comment](./PowerPoint.Comment.md) object.
+_expression_ A variable that represents a [Comment](PowerPoint.Comment.md) object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns the parent object for the specified object.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents an [AnimationPoints](./PowerPoint.AnimationPoints.md) object.
+_expression_ A variable that represents an [AnimationPoints](PowerPoint.AnimationPoints.md) object.
 
 
 ## Return value

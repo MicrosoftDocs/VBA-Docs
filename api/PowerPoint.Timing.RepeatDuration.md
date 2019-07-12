@@ -21,7 +21,7 @@ Sets or returns how long repeated animations should last, in seconds. Read/write
 
 _expression_. `RepeatDuration`
 
-_expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
+_expression_ A variable that represents a [Timing](PowerPoint.Timing.md) object.
 
 
 ## Return value

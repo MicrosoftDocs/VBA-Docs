@@ -21,7 +21,7 @@ Returns a string that represents the unique identifier of the specified section.
 
 _expression_. `SectionID`( `_sectionIndex_` )
 
-_expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
+_expression_ A variable that represents a [SectionProperties](PowerPoint.SectionProperties.md) object.
 
 
 ## Parameters

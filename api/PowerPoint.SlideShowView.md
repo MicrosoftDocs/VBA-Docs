@@ -19,14 +19,14 @@ Represents the view in a slide show window.
 
 ## Example
 
-Use the [View](./PowerPoint.SlideShowWindow.View.md)property of the  **SlideShowWindow** object to return the **SlideShowView** object. The following example sets slide show window one to display the first slide in the presentation.
+Use the [View](PowerPoint.SlideShowWindow.View.md)property of the  **SlideShowWindow** object to return the **SlideShowView** object. The following example sets slide show window one to display the first slide in the presentation.
 
 
 ```vb
 SlideShowWindows(1).View.First
 ```
 
-Use the [Run](./PowerPoint.SlideShowSettings.Run.md)method of the  **SlideShowSettings** object to create a **SlideShowWindow** object, and then use the **View** property to return the **SlideShowView** object the window contains. The following example runs a slide show of the active presentation, changes the pointer to a pen, and sets the pen color for the slide show to red.
+Use the [Run](PowerPoint.SlideShowSettings.Run.md)method of the  **SlideShowSettings** object to create a **SlideShowWindow** object, and then use the **View** property to return the **SlideShowView** object the window contains. The following example runs a slide show of the active presentation, changes the pointer to a pen, and sets the pen color for the slide show to red.
 
 
 

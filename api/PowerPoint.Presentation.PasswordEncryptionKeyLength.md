@@ -21,7 +21,7 @@ Returns the key length of the algorithm Microsoft PowerPoint uses when it encryp
 
 _expression_. `PasswordEncryptionKeyLength`
 
-_expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a [Presentation](PowerPoint.Presentation.md) object.
 
 
 ## Return value

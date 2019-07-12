@@ -21,7 +21,7 @@ Removes an add-in from the collection of add-ins.
 
 _expression_.**Remove** (_Index_)
 
-_expression_ A variable that represents a [AddIns](./PowerPoint.AddIns.md) object.
+_expression_ A variable that represents a [AddIns](PowerPoint.AddIns.md) object.
 
 
 ## Parameters

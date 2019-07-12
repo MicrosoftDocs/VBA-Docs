@@ -21,7 +21,7 @@ Returns or sets the top bevel inset for the specified  **ThreeDFormat** object, 
 
 _expression_.**BevelTopInset**
 
-_expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](PowerPoint.ThreeDFormat.md) object.
 
 
 ## Return value

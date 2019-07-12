@@ -21,7 +21,7 @@ Returns a  **[CustomerData](PowerPoint.CustomerData.md)** object. Read-only.
 
 _expression_. `CustomerData`
 
- _expression_ An expression that returns a [Master](./PowerPoint.Master.md) object.
+ _expression_ An expression that returns a [Master](PowerPoint.Master.md) object.
 
 
 ## Return value

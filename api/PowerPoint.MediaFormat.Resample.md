@@ -21,7 +21,7 @@ Adds the current media object to the queue and begins resampling, based on the s
 
 _expression_. `Resample`( `_Trim_`, `_SampleHeight_`, `_SampleWidth_`, `_VideoFrameRate_`, `_AudioSamplingRate_`, `_VideoBitRate_` )
 
- _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
+ _expression_ An expression that returns a [MediaFormat](PowerPoint.MediaFormat.md) object.
 
 
 ## Parameters

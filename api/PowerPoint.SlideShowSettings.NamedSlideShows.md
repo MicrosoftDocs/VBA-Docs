@@ -21,7 +21,7 @@ Returns a  **[NamedSlideShows](PowerPoint.NamedSlideShows.md)** collection that 
 
 _expression_. `NamedSlideShows`
 
-_expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
+_expression_ A variable that represents a [SlideShowSettings](PowerPoint.SlideShowSettings.md) object.
 
 
 ## Return value

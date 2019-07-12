@@ -21,7 +21,7 @@ Returns or sets the number of the last slide in a range of slides you are publis
 
 _expression_. `RangeEnd`
 
-_expression_ A variable that represents a [PublishObject](./PowerPoint.PublishObject.md) object.
+_expression_ A variable that represents a [PublishObject](PowerPoint.PublishObject.md) object.
 
 
 ## Return value

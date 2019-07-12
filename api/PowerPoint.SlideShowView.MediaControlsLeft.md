@@ -21,7 +21,7 @@ Returns the distance, in [points](../language/glossary/vbe-glossary.md#point), f
 
 _expression_. `MediaControlsLeft`
 
-_expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
+_expression_ A variable that represents a [SlideShowView](PowerPoint.SlideShowView.md) object.
 
 
 ## Return value

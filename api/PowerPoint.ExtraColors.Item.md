@@ -21,7 +21,7 @@ Returns a single color from the specified  **ExtraColors** collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents an [ExtraColors](./PowerPoint.ExtraColors.md) object.
+_expression_ A variable that represents an [ExtraColors](PowerPoint.ExtraColors.md) object.
 
 
 ## Parameters

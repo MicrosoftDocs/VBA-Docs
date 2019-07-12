@@ -21,7 +21,7 @@ Returns the index number of the current mouse click for an animation that is act
 
 _expression_. `GetClickIndex`
 
-_expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
+_expression_ A variable that represents a [SlideShowView](PowerPoint.SlideShowView.md) object.
 
 
 ## Return value

@@ -24,7 +24,7 @@ Returns a **SharedWorkspace** object that represents the Document Workspace in w
 
 _expression_.**SharedWorkspace**
 
-_expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a [Presentation](PowerPoint.Presentation.md) object.
 
 
 ## Return value

@@ -54,8 +54,8 @@ Next
 
 |Name|
 |:-----|
-|[Activate](./PowerPoint.OLEFormat.Activate.md)|
-|[DoVerb](./PowerPoint.OLEFormat.DoVerb.md)|
+|[Activate](PowerPoint.OLEFormat.Activate.md)|
+|[DoVerb](PowerPoint.OLEFormat.DoVerb.md)|
 
 ## Properties
 
@@ -63,12 +63,12 @@ Next
 
 |Name|
 |:-----|
-|[Application](./PowerPoint.OLEFormat.Application.md)|
-|[FollowColors](./PowerPoint.OLEFormat.FollowColors.md)|
-|[Object](./PowerPoint.OLEFormat.Object.md)|
-|[ObjectVerbs](./PowerPoint.OLEFormat.ObjectVerbs.md)|
-|[Parent](./PowerPoint.OLEFormat.Parent.md)|
-|[ProgID](./PowerPoint.OLEFormat.ProgID.md)|
+|[Application](PowerPoint.OLEFormat.Application.md)|
+|[FollowColors](PowerPoint.OLEFormat.FollowColors.md)|
+|[Object](PowerPoint.OLEFormat.Object.md)|
+|[ObjectVerbs](PowerPoint.OLEFormat.ObjectVerbs.md)|
+|[Parent](PowerPoint.OLEFormat.Parent.md)|
+|[ProgID](PowerPoint.OLEFormat.ProgID.md)|
 
 ## See also
 

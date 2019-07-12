@@ -21,7 +21,7 @@ Moves the specified  **[CustomLayout](PowerPoint.CustomLayout.md)** object to a 
 
 _expression_. `MoveTo`( `_toPos_` )
 
-_expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
+_expression_ A variable that represents a [CustomLayout](PowerPoint.CustomLayout.md) object.
 
 
 ## Parameters

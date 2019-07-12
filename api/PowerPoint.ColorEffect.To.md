@@ -21,7 +21,7 @@ Sets or returns a  **ColorFormat** object that represents the RGB color value of
 
 _expression_. `To`
 
-_expression_ A variable that represents a [ColorEffect](./PowerPoint.ColorEffect.md) object.
+_expression_ A variable that represents a [ColorEffect](PowerPoint.ColorEffect.md) object.
 
 
 ## Return value

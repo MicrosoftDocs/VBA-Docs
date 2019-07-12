@@ -21,7 +21,7 @@ Returns the height of the specified object, in points. Read-only.
 
 _expression_.**Height**
 
-_expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
+_expression_ A variable that represents a [CustomLayout](PowerPoint.CustomLayout.md) object.
 
 
 ## Return value

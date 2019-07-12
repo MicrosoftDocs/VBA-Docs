@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Rows object (PowerPoint)
 
-A collection of  **[Row](./PowerPoint.Row.md)** objects that represent the rows in a table.
+A collection of  **[Row](PowerPoint.Row.md)** objects that represent the rows in a table.
 
 
 ## Example
 
-Use the [Rows](./PowerPoint.Table.Rows.md)property to return the  **Rows** collection. This example changes the height of all rows in the specified table to 160 points.
+Use the [Rows](PowerPoint.Table.Rows.md)property to return the  **Rows** collection. This example changes the height of all rows in the specified table to 160 points.
 
 
 ```vb
@@ -36,7 +36,7 @@ With ActivePresentation.Slides(2).Shapes(4).Table
 End With
 ```
 
-Use the [Add](./PowerPoint.Rows.Add.md)method to add a row to a table. This example inserts a row before the second row in the referenced table.
+Use the [Add](PowerPoint.Rows.Add.md)method to add a row to a table. This example inserts a row before the second row in the referenced table.
 
 
 
@@ -61,8 +61,8 @@ ActivePresentation.Slides(2).Shapes(5).Table.Rows(1).Delete
 
 |Name|
 |:-----|
-|[Add](./PowerPoint.Rows.Add.md)|
-|[Item](./PowerPoint.Rows.Item.md)|
+|[Add](PowerPoint.Rows.Add.md)|
+|[Item](PowerPoint.Rows.Item.md)|
 
 ## Properties
 
@@ -70,9 +70,9 @@ ActivePresentation.Slides(2).Shapes(5).Table.Rows(1).Delete
 
 |Name|
 |:-----|
-|[Application](./PowerPoint.Rows.Application.md)|
-|[Count](./PowerPoint.Rows.Count.md)|
-|[Parent](./PowerPoint.Rows.Parent.md)|
+|[Application](PowerPoint.Rows.Application.md)|
+|[Count](PowerPoint.Rows.Count.md)|
+|[Parent](PowerPoint.Rows.Parent.md)|
 
 ## See also
 

@@ -21,7 +21,7 @@ Determines whether line spacing before the first line in each paragraph is set t
 
 _expression_. `LineRuleBefore`
 
-_expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
+_expression_ A variable that represents a [ParagraphFormat](PowerPoint.ParagraphFormat.md) object.
 
 
 ## Return value

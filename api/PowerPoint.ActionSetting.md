@@ -19,9 +19,9 @@ Contains information about how the specified shape or text range reacts to mouse
 
 ## Remarks
 
-The  **ActionSetting** object is a member of the **[ActionSettings](./PowerPoint.ActionSettings.md)** collection. The **ActionSettings** collection contains one **ActionSetting** object that represents how the specified object reacts when the user clicks it during a slide show and one **ActionSetting** object that represents how the specified object reacts when the user moves the mouse pointer over it during a slide show.
+The  **ActionSetting** object is a member of the **[ActionSettings](PowerPoint.ActionSettings.md)** collection. The **ActionSettings** collection contains one **ActionSetting** object that represents how the specified object reacts when the user clicks it during a slide show and one **ActionSetting** object that represents how the specified object reacts when the user moves the mouse pointer over it during a slide show.
 
-If you've set properties of the  **ActionSetting** object that don't seem to be taking effect, make sure that you've set the [Action](./PowerPoint.ActionSetting.Action.md) property to the appropriate value.
+If you've set properties of the  **ActionSetting** object that don't seem to be taking effect, make sure that you've set the [Action](PowerPoint.ActionSetting.Action.md) property to the appropriate value.
 
 
 ## Example
@@ -44,16 +44,16 @@ End With
 
 |Name|
 |:-----|
-|[Action](./PowerPoint.ActionSetting.Action.md)|
-|[ActionVerb](./PowerPoint.ActionSetting.ActionVerb.md)|
-|[AnimateAction](./PowerPoint.ActionSetting.AnimateAction.md)|
-|[Application](./PowerPoint.ActionSetting.Application.md)|
-|[Hyperlink](./PowerPoint.ActionSetting.Hyperlink.md)|
-|[Parent](./PowerPoint.ActionSetting.Parent.md)|
-|[Run](./PowerPoint.ActionSetting.Run.md)|
-|[ShowAndReturn](./PowerPoint.ActionSetting.ShowAndReturn.md)|
-|[SlideShowName](./PowerPoint.ActionSetting.SlideShowName.md)|
-|[SoundEffect](./PowerPoint.ActionSetting.SoundEffect.md)|
+|[Action](PowerPoint.ActionSetting.Action.md)|
+|[ActionVerb](PowerPoint.ActionSetting.ActionVerb.md)|
+|[AnimateAction](PowerPoint.ActionSetting.AnimateAction.md)|
+|[Application](PowerPoint.ActionSetting.Application.md)|
+|[Hyperlink](PowerPoint.ActionSetting.Hyperlink.md)|
+|[Parent](PowerPoint.ActionSetting.Parent.md)|
+|[Run](PowerPoint.ActionSetting.Run.md)|
+|[ShowAndReturn](PowerPoint.ActionSetting.ShowAndReturn.md)|
+|[SlideShowName](PowerPoint.ActionSetting.SlideShowName.md)|
+|[SoundEffect](PowerPoint.ActionSetting.SoundEffect.md)|
 
 ## See also
 

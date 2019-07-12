@@ -21,7 +21,7 @@ Returns the parent object for the specified object.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [FilterEffect](./PowerPoint.FilterEffect.md) object.
+_expression_ A variable that represents a [FilterEffect](PowerPoint.FilterEffect.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns  **True** if merge-mode updates are pending. Read-only.
 
 _expression_. `PendingUpdates`
 
-_expression_ A variable that represents a [Coauthoring](./PowerPoint.Coauthoring.md) object.
+_expression_ A variable that represents a [Coauthoring](PowerPoint.Coauthoring.md) object.
 
 
 ## See also

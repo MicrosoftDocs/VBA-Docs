@@ -19,7 +19,7 @@ Returns or sets an [XlSeriesNameLevel](./Word.xlseriesnamelevel.md) constant tha
 
 _expression_.**SeriesNameLevel**
 
-_expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
+_expression_ A variable that represents a [Chart](PowerPoint.Chart.md) object.
 
 
 ## Property value

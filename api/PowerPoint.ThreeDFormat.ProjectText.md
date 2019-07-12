@@ -21,7 +21,7 @@ Specifies whether text on the specified  **ThreeDFormat** object rotates with th
 
 _expression_. `ProjectText`
 
-_expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](PowerPoint.ThreeDFormat.md) object.
 
 
 ## Return value

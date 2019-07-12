@@ -19,7 +19,7 @@ Represents the special effects applied to the animation for the specified shape 
 
 ## Example
 
-Use the [AnimationSettings](./PowerPoint.Shape.AnimationSettings.md)property of the  **Shape** object to return the **AnimationSettings** object. The following example adds a slide that contains both a title and a three-item list to the active presentation, and then it sets the list to be animated by first-level paragraphs, to fly in from the left when animated, to dim to the specified color after being animated, and to animate its items in reverse order.
+Use the [AnimationSettings](PowerPoint.Shape.AnimationSettings.md)property of the  **Shape** object to return the **AnimationSettings** object. The following example adds a slide that contains both a title and a three-item list to the active presentation, and then it sets the list to be animated by first-level paragraphs, to fly in from the left when animated, to dim to the specified color after being animated, and to animate its items in reverse order.
 
 
 ```vb
@@ -57,22 +57,22 @@ End With
 
 |Name|
 |:-----|
-|[AdvanceMode](./PowerPoint.AnimationSettings.AdvanceMode.md)|
-|[AdvanceTime](./PowerPoint.AnimationSettings.AdvanceTime.md)|
-|[AfterEffect](./PowerPoint.AnimationSettings.AfterEffect.md)|
-|[Animate](./PowerPoint.AnimationSettings.Animate.md)|
-|[AnimateBackground](./PowerPoint.AnimationSettings.AnimateBackground.md)|
-|[AnimateTextInReverse](./PowerPoint.AnimationSettings.AnimateTextInReverse.md)|
-|[AnimationOrder](./PowerPoint.AnimationSettings.AnimationOrder.md)|
-|[Application](./PowerPoint.AnimationSettings.Application.md)|
-|[ChartUnitEffect](./PowerPoint.AnimationSettings.ChartUnitEffect.md)|
-|[DimColor](./PowerPoint.AnimationSettings.DimColor.md)|
-|[EntryEffect](./PowerPoint.AnimationSettings.EntryEffect.md)|
-|[Parent](./PowerPoint.AnimationSettings.Parent.md)|
-|[PlaySettings](./PowerPoint.AnimationSettings.PlaySettings.md)|
-|[SoundEffect](./PowerPoint.AnimationSettings.SoundEffect.md)|
-|[TextLevelEffect](./PowerPoint.AnimationSettings.TextLevelEffect.md)|
-|[TextUnitEffect](./PowerPoint.AnimationSettings.TextUnitEffect.md)|
+|[AdvanceMode](PowerPoint.AnimationSettings.AdvanceMode.md)|
+|[AdvanceTime](PowerPoint.AnimationSettings.AdvanceTime.md)|
+|[AfterEffect](PowerPoint.AnimationSettings.AfterEffect.md)|
+|[Animate](PowerPoint.AnimationSettings.Animate.md)|
+|[AnimateBackground](PowerPoint.AnimationSettings.AnimateBackground.md)|
+|[AnimateTextInReverse](PowerPoint.AnimationSettings.AnimateTextInReverse.md)|
+|[AnimationOrder](PowerPoint.AnimationSettings.AnimationOrder.md)|
+|[Application](PowerPoint.AnimationSettings.Application.md)|
+|[ChartUnitEffect](PowerPoint.AnimationSettings.ChartUnitEffect.md)|
+|[DimColor](PowerPoint.AnimationSettings.DimColor.md)|
+|[EntryEffect](PowerPoint.AnimationSettings.EntryEffect.md)|
+|[Parent](PowerPoint.AnimationSettings.Parent.md)|
+|[PlaySettings](PowerPoint.AnimationSettings.PlaySettings.md)|
+|[SoundEffect](PowerPoint.AnimationSettings.SoundEffect.md)|
+|[TextLevelEffect](PowerPoint.AnimationSettings.TextLevelEffect.md)|
+|[TextUnitEffect](PowerPoint.AnimationSettings.TextUnitEffect.md)|
 
 ## See also
 

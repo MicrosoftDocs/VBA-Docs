@@ -21,7 +21,7 @@ Determines whether the character format is embossed. Read/write.
 
 _expression_. `Emboss`
 
-_expression_ A variable that represents an [Font](./PowerPoint.Font.md) object.
+_expression_ A variable that represents an [Font](PowerPoint.Font.md) object.
 
 
 ## Return value

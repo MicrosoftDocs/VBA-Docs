@@ -21,7 +21,7 @@ Represents the type of animation. Read/write.
 
 _expression_.**Type**
 
-_expression_ A variable that represents a [CommandEffect](./PowerPoint.CommandEffect.md) object.
+_expression_ A variable that represents a [CommandEffect](PowerPoint.CommandEffect.md) object.
 
 
 ## Return value

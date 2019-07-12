@@ -21,7 +21,7 @@ Returns the video frame rate per second of the sample. Read-only.
 
 _expression_. `VideoFrameRate`
 
-_expression_ A variable that represents a [ResampleMediaTask](./PowerPoint.ResampleMediaTask.md) object.
+_expression_ A variable that represents a [ResampleMediaTask](PowerPoint.ResampleMediaTask.md) object.
 
 
 ## See also

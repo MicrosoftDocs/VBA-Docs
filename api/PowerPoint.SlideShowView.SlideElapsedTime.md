@@ -21,7 +21,7 @@ Returns the number of seconds that the current slide has been displayed. Read/wr
 
 _expression_. `SlideElapsedTime`
 
-_expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
+_expression_ A variable that represents a [SlideShowView](PowerPoint.SlideShowView.md) object.
 
 
 ## Return value

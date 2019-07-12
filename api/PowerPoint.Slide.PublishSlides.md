@@ -21,7 +21,7 @@ Publishes the specified slide to the specified location.
 
 _expression_. `PublishSlides`( `_SlideLibraryUrl_`, `_Overwrite_`, `_UseSlideOrder_` )
 
- _expression_ An expression that returns a [Slide](./PowerPoint.Slide.md) object.
+ _expression_ An expression that returns a [Slide](PowerPoint.Slide.md) object.
 
 
 ## Parameters

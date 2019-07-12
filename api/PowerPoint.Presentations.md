@@ -29,7 +29,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoi
 
 ## Example
 
-Use the [Presentations](./PowerPoint.Application.Presentations.md) property to return the **Presentations** collection. Use the [Add](./PowerPoint.Presentations.Add.md) method to create a new presentation and add it to the collection. The following example creates a new presentation, adds a slide to the presentation, and then saves the presentation.
+Use the [Presentations](PowerPoint.Application.Presentations.md) property to return the **Presentations** collection. Use the [Add](PowerPoint.Presentations.Add.md) method to create a new presentation and add it to the collection. The following example creates a new presentation, adds a slide to the presentation, and then saves the presentation.
 
 
 ```vb
@@ -47,7 +47,7 @@ Use  **Presentations** (_index_), where _index_ is the presentation's name or in
 Presentations(1).PrintOut
 ```
 
-Use the [Open](./PowerPoint.Presentations.Open.md) method to open a presentation and add it to the **Presentations** collection. The following example opens the file Sales.ppt as a read-only presentation.
+Use the [Open](PowerPoint.Presentations.Open.md) method to open a presentation and add it to the **Presentations** collection. The following example opens the file Sales.ppt as a read-only presentation.
 
 
 
@@ -63,12 +63,12 @@ Presentations.Open FileName:="sales.ppt", ReadOnly:=True
 
 |Name|
 |:-----|
-|[Add](./PowerPoint.Presentations.Add.md)|
-|[CanCheckOut](./PowerPoint.Presentations.CanCheckOut.md)|
-|[CheckOut](./PowerPoint.Presentations.CheckOut.md)|
-|[Item](./PowerPoint.Presentations.Item.md)|
-|[Open](./PowerPoint.Presentations.Open.md)|
-|[Open2007](./PowerPoint.Presentations.Open2007.md)|
+|[Add](PowerPoint.Presentations.Add.md)|
+|[CanCheckOut](PowerPoint.Presentations.CanCheckOut.md)|
+|[CheckOut](PowerPoint.Presentations.CheckOut.md)|
+|[Item](PowerPoint.Presentations.Item.md)|
+|[Open](PowerPoint.Presentations.Open.md)|
+|[Open2007](PowerPoint.Presentations.Open2007.md)|
 
 ## Properties
 
@@ -76,9 +76,9 @@ Presentations.Open FileName:="sales.ppt", ReadOnly:=True
 
 |Name|
 |:-----|
-|[Application](./PowerPoint.Presentations.Application.md)|
-|[Count](./PowerPoint.Presentations.Count.md)|
-|[Parent](./PowerPoint.Presentations.Parent.md)|
+|[Application](PowerPoint.Presentations.Application.md)|
+|[Count](PowerPoint.Presentations.Count.md)|
+|[Parent](PowerPoint.Presentations.Parent.md)|
 
 ## See also
 

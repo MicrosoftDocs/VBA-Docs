@@ -21,7 +21,7 @@ Changes the contrast of the picture by the specified amount.
 
 _expression_.**IncrementContrast** (_Increment_)
 
-_expression_ A variable that represents an [PictureFormat](./PowerPoint.PictureFormat.md) object.
+_expression_ A variable that represents an [PictureFormat](PowerPoint.PictureFormat.md) object.
 
 
 ## Parameters

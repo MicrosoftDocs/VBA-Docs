@@ -21,7 +21,7 @@ Returns or sets the start of a text range. Read-only.
 
 _expression_. `TextRangeStart`
 
-_expression_ A variable that represents a [Effect](./PowerPoint.Effect.md) object.
+_expression_ A variable that represents a [Effect](PowerPoint.Effect.md) object.
 
 
 ## Return value

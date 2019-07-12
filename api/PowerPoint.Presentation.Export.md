@@ -21,7 +21,7 @@ Exports each slide in the presentation, using the specified graphics filter, and
 
 _expression_.**Export** (_Path_, _FilterName_, _ScaleWidth_, _ScaleHeight_)
 
-_expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a [Presentation](PowerPoint.Presentation.md) object.
 
 
 ## Parameters

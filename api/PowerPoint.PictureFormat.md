@@ -45,8 +45,8 @@ End With
 
 |Name|
 |:-----|
-|[IncrementBrightness](./PowerPoint.PictureFormat.IncrementBrightness.md)|
-|[IncrementContrast](./PowerPoint.PictureFormat.IncrementContrast.md)|
+|[IncrementBrightness](PowerPoint.PictureFormat.IncrementBrightness.md)|
+|[IncrementContrast](PowerPoint.PictureFormat.IncrementContrast.md)|
 
 ## Properties
 
@@ -54,19 +54,19 @@ End With
 
 |Name|
 |:-----|
-|[Application](./PowerPoint.PictureFormat.Application.md)|
-|[Brightness](./PowerPoint.PictureFormat.Brightness.md)|
-|[ColorType](./PowerPoint.PictureFormat.ColorType.md)|
-|[Contrast](./PowerPoint.PictureFormat.Contrast.md)|
-|[Creator](./PowerPoint.PictureFormat.Creator.md)|
-|[Crop](./PowerPoint.PictureFormat.Crop.md)|
-|[CropBottom](./PowerPoint.PictureFormat.CropBottom.md)|
-|[CropLeft](./PowerPoint.PictureFormat.CropLeft.md)|
-|[CropRight](./PowerPoint.PictureFormat.CropRight.md)|
-|[CropTop](./PowerPoint.PictureFormat.CropTop.md)|
-|[Parent](./PowerPoint.PictureFormat.Parent.md)|
-|[TransparencyColor](./PowerPoint.PictureFormat.TransparencyColor.md)|
-|[TransparentBackground](./PowerPoint.PictureFormat.TransparentBackground.md)|
+|[Application](PowerPoint.PictureFormat.Application.md)|
+|[Brightness](PowerPoint.PictureFormat.Brightness.md)|
+|[ColorType](PowerPoint.PictureFormat.ColorType.md)|
+|[Contrast](PowerPoint.PictureFormat.Contrast.md)|
+|[Creator](PowerPoint.PictureFormat.Creator.md)|
+|[Crop](PowerPoint.PictureFormat.Crop.md)|
+|[CropBottom](PowerPoint.PictureFormat.CropBottom.md)|
+|[CropLeft](PowerPoint.PictureFormat.CropLeft.md)|
+|[CropRight](PowerPoint.PictureFormat.CropRight.md)|
+|[CropTop](PowerPoint.PictureFormat.CropTop.md)|
+|[Parent](PowerPoint.PictureFormat.Parent.md)|
+|[TransparencyColor](PowerPoint.PictureFormat.TransparencyColor.md)|
+|[TransparentBackground](PowerPoint.PictureFormat.TransparentBackground.md)|
 
 ## See also
 

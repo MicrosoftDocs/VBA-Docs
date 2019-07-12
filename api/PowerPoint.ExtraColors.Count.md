@@ -18,7 +18,7 @@ Returns the number of objects in the specified collection. Read-only.
 
 _expression_.**Count**
 
-_expression_ A variable that represents an [ExtraColors](./PowerPoint.ExtraColors.md) object.
+_expression_ A variable that represents an [ExtraColors](PowerPoint.ExtraColors.md) object.
 
 
 ## Return value

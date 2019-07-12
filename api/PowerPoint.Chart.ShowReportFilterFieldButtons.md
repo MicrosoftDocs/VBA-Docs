@@ -21,7 +21,7 @@ Returns or sets a value that indicates whether to display the report filter fiel
 
 _expression_.**ShowReportFilterFieldButtons**
 
-_expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
+_expression_ A variable that represents a [Chart](PowerPoint.Chart.md) object.
 
 
 ## Return value

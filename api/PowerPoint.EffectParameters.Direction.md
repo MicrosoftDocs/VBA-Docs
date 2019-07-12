@@ -21,7 +21,7 @@ Determines the direction used for an animation effect. This property can be used
 
 _expression_. `Direction`
 
-_expression_ A variable that represents a [EffectParameters](./PowerPoint.EffectParameters.md) object.
+_expression_ A variable that represents a [EffectParameters](PowerPoint.EffectParameters.md) object.
 
 
 ## Return value

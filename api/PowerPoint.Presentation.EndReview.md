@@ -21,7 +21,7 @@ Ends the review cycle.
 
 _expression_. `EndReview`
 
-_expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a [Presentation](PowerPoint.Presentation.md) object.
 
 
 ## Return value

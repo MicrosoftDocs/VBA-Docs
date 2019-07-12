@@ -21,7 +21,7 @@ Sets or returns the lightening or darkening of the color of a specified shape. R
 
 _expression_.**TintAndShade**
 
-_expression_ A variable that represents a [ColorFormat](./PowerPoint.ColorFormat.md) object.
+_expression_ A variable that represents a [ColorFormat](PowerPoint.ColorFormat.md) object.
 
 
 ## Return value

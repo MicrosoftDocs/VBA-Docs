@@ -19,7 +19,7 @@ Pauses the specified broadcast.
 
 _expression_. `Pause`
 
-_expression_ A variable that represents a [Broadcast](./PowerPoint.Broadcast.md) object.
+_expression_ A variable that represents a [Broadcast](PowerPoint.Broadcast.md) object.
 
 
 ## Return value

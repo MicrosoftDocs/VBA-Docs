@@ -21,7 +21,7 @@ Returns the position of the first character in the specified text range relative
 
 _expression_.**Start**
 
-_expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
+_expression_ A variable that represents a [TextRange](PowerPoint.TextRange.md) object.
 
 
 ## Return value

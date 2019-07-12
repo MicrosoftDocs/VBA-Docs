@@ -21,7 +21,7 @@ Returns the width of the specified custom layout, in points. Read-only.
 
 _expression_.**Width**
 
-_expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
+_expression_ A variable that represents a [CustomLayout](PowerPoint.CustomLayout.md) object.
 
 
 ## Return value

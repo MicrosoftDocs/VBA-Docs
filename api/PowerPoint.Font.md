@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Font object (PowerPoint)
 
-Represents character formatting for text or a bullet. The  **Font** object is a member of the **[Fonts](./PowerPoint.Fonts.md)** collection. The **Fonts** collection contains all the fonts used in a presentation.
+Represents character formatting for text or a bullet. The  **Font** object is a member of the **[Fonts](PowerPoint.Fonts.md)** collection. The **Fonts** collection contains all the fonts used in a presentation.
 
 
 ## Example
@@ -26,7 +26,7 @@ The following examples describes how to do the following:
     
 - Return a  **Font** object from the collection of all the fonts used in the presentation
     
-Use the [Font](./PowerPoint.TextRange.Font.md)property to return the  **Font** object that represents the font attributes for a specific bullet, text range, or outline level. The following example sets the title text on slide one and sets the font properties.
+Use the [Font](PowerPoint.TextRange.Font.md)property to return the  **Font** object that represents the font attributes for a specific bullet, text range, or outline level. The following example sets the title text on slide one and sets the font properties.
 
 
 
@@ -69,26 +69,26 @@ If ActivePresentation.Fonts(1).Embedded = _
 
 |Name|
 |:-----|
-|[Application](./PowerPoint.Font.Application.md)|
-|[AutoRotateNumbers](./PowerPoint.Font.AutoRotateNumbers.md)|
-|[BaselineOffset](./PowerPoint.Font.BaselineOffset.md)|
-|[Bold](./PowerPoint.Font.Bold.md)|
-|[Color](./PowerPoint.Font.Color.md)|
-|[Embeddable](./PowerPoint.Font.Embeddable.md)|
-|[Embedded](./PowerPoint.Font.Embedded.md)|
-|[Emboss](./PowerPoint.Font.Emboss.md)|
-|[Italic](./PowerPoint.font.italic.md)|
-|[Name](./PowerPoint.Font.Name.md)|
-|[NameAscii](./PowerPoint.Font.NameAscii.md)|
-|[NameComplexScript](./PowerPoint.Font.NameComplexScript.md)|
-|[NameFarEast](./PowerPoint.Font.NameFarEast.md)|
-|[NameOther](./PowerPoint.Font.NameOther.md)|
-|[Parent](./PowerPoint.Font.Parent.md)|
-|[Shadow](./PowerPoint.Font.Shadow.md)|
-|[Size](./PowerPoint.Font.Size.md)|
-|[Subscript](./PowerPoint.Font.Subscript.md)|
-|[Superscript](./PowerPoint.Font.Superscript.md)|
-|[Underline](./PowerPoint.Font.Underline.md)|
+|[Application](PowerPoint.Font.Application.md)|
+|[AutoRotateNumbers](PowerPoint.Font.AutoRotateNumbers.md)|
+|[BaselineOffset](PowerPoint.Font.BaselineOffset.md)|
+|[Bold](PowerPoint.Font.Bold.md)|
+|[Color](PowerPoint.Font.Color.md)|
+|[Embeddable](PowerPoint.Font.Embeddable.md)|
+|[Embedded](PowerPoint.Font.Embedded.md)|
+|[Emboss](PowerPoint.Font.Emboss.md)|
+|[Italic](PowerPoint.font.italic.md)|
+|[Name](PowerPoint.Font.Name.md)|
+|[NameAscii](PowerPoint.Font.NameAscii.md)|
+|[NameComplexScript](PowerPoint.Font.NameComplexScript.md)|
+|[NameFarEast](PowerPoint.Font.NameFarEast.md)|
+|[NameOther](PowerPoint.Font.NameOther.md)|
+|[Parent](PowerPoint.Font.Parent.md)|
+|[Shadow](PowerPoint.Font.Shadow.md)|
+|[Size](PowerPoint.Font.Size.md)|
+|[Subscript](PowerPoint.Font.Subscript.md)|
+|[Superscript](PowerPoint.Font.Superscript.md)|
+|[Underline](PowerPoint.Font.Underline.md)|
 
 ## See also
 

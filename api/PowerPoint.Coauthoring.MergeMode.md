@@ -21,7 +21,7 @@ Returns  **True** if the application is in merge mode. Read-only.
 
 _expression_. `MergeMode`
 
-_expression_ A variable that represents a [Coauthoring](./PowerPoint.Coauthoring.md) object.
+_expression_ A variable that represents a [Coauthoring](PowerPoint.Coauthoring.md) object.
 
 
 ## Return value

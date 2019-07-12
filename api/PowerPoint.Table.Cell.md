@@ -21,7 +21,7 @@ Returns a  **[Cell](PowerPoint.Cell.md)** object that represents a cell in a tab
 
 _expression_. `Cell`( `_Row_`, `_Column_` )
 
-_expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
+_expression_ A variable that represents a [Table](PowerPoint.Table.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Represents the type of connector. Read/write.
 
 _expression_.**Type**
 
-_expression_ A variable that represents a [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
+_expression_ A variable that represents a [ConnectorFormat](PowerPoint.ConnectorFormat.md) object.
 
 
 ## Return value

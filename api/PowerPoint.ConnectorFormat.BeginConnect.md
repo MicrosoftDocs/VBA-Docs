@@ -21,7 +21,7 @@ Attaches the beginning of the specified connector to a specified shape.
 
 _expression_. `BeginConnect`( `_ConnectedShape_`, `_ConnectionSite_` )
 
-_expression_ A variable that represents a [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
+_expression_ A variable that represents a [ConnectorFormat](PowerPoint.ConnectorFormat.md) object.
 
 
 ## Parameters

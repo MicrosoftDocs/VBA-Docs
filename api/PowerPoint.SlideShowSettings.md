@@ -19,7 +19,7 @@ Represents the slide show setup for a presentation.
 
 ## Example
 
-Use the [SlideShowSettings](./PowerPoint.Presentation.SlideShowSettings.md)property to return the  **SlideShowSettings** object. The first section in the following example sets all the slides in the active presentation to advance automatically after five seconds. The second section sets the slide show to start on slide two, end on slide four, advance slides by using the timings set in the first section, and run in a continuous loop until the user presses ESC. Finally, the example runs the slide show.
+Use the [SlideShowSettings](PowerPoint.Presentation.SlideShowSettings.md)property to return the  **SlideShowSettings** object. The first section in the following example sets all the slides in the active presentation to advance automatically after five seconds. The second section sets the slide show to start on slide two, end on slide four, advance slides by using the timings set in the first section, and run in a continuous loop until the user presses ESC. Finally, the example runs the slide show.
 
 
 ```vb
@@ -61,7 +61,7 @@ End With
 
 |Name|
 |:-----|
-|[Run](./PowerPoint.SlideShowSettings.Run.md)|
+|[Run](PowerPoint.SlideShowSettings.Run.md)|
 
 ## Properties
 
@@ -69,22 +69,22 @@ End With
 
 |Name|
 |:-----|
-|[AdvanceMode](./PowerPoint.SlideShowSettings.AdvanceMode.md)|
-|[Application](./PowerPoint.SlideShowSettings.Application.md)|
-|[EndingSlide](./PowerPoint.SlideShowSettings.EndingSlide.md)|
-|[LoopUntilStopped](./PowerPoint.SlideShowSettings.LoopUntilStopped.md)|
-|[NamedSlideShows](./PowerPoint.SlideShowSettings.NamedSlideShows.md)|
-|[Parent](./PowerPoint.SlideShowSettings.Parent.md)|
-|[PointerColor](./PowerPoint.SlideShowSettings.PointerColor.md)|
-|[RangeType](./PowerPoint.SlideShowSettings.RangeType.md)|
-|[ShowMediaControls](./PowerPoint.SlideShowSettings.ShowMediaControls.md)|
-|[ShowPresenterView](./PowerPoint.SlideShowSettings.ShowPresenterView.md)|
-|[ShowScrollbar](./PowerPoint.SlideShowSettings.ShowScrollbar.md)|
-|[ShowType](./PowerPoint.SlideShowSettings.ShowType.md)|
-|[ShowWithAnimation](./PowerPoint.SlideShowSettings.ShowWithAnimation.md)|
-|[ShowWithNarration](./PowerPoint.SlideShowSettings.ShowWithNarration.md)|
-|[SlideShowName](./PowerPoint.SlideShowSettings.SlideShowName.md)|
-|[StartingSlide](./PowerPoint.SlideShowSettings.StartingSlide.md)|
+|[AdvanceMode](PowerPoint.SlideShowSettings.AdvanceMode.md)|
+|[Application](PowerPoint.SlideShowSettings.Application.md)|
+|[EndingSlide](PowerPoint.SlideShowSettings.EndingSlide.md)|
+|[LoopUntilStopped](PowerPoint.SlideShowSettings.LoopUntilStopped.md)|
+|[NamedSlideShows](PowerPoint.SlideShowSettings.NamedSlideShows.md)|
+|[Parent](PowerPoint.SlideShowSettings.Parent.md)|
+|[PointerColor](PowerPoint.SlideShowSettings.PointerColor.md)|
+|[RangeType](PowerPoint.SlideShowSettings.RangeType.md)|
+|[ShowMediaControls](PowerPoint.SlideShowSettings.ShowMediaControls.md)|
+|[ShowPresenterView](PowerPoint.SlideShowSettings.ShowPresenterView.md)|
+|[ShowScrollbar](PowerPoint.SlideShowSettings.ShowScrollbar.md)|
+|[ShowType](PowerPoint.SlideShowSettings.ShowType.md)|
+|[ShowWithAnimation](PowerPoint.SlideShowSettings.ShowWithAnimation.md)|
+|[ShowWithNarration](PowerPoint.SlideShowSettings.ShowWithNarration.md)|
+|[SlideShowName](PowerPoint.SlideShowSettings.SlideShowName.md)|
+|[StartingSlide](PowerPoint.SlideShowSettings.StartingSlide.md)|
 
 ## See also
 

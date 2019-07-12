@@ -21,7 +21,7 @@ When the  **[AutoLength](PowerPoint.CalloutFormat.AutoLength.md)** property of t
 
 _expression_.**Length**
 
-_expression_ A variable that represents a [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
+_expression_ A variable that represents a [CalloutFormat](PowerPoint.CalloutFormat.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Breaks the link between the source file and the specified OLE object, picture, o
 
 _expression_. `BreakLink`
 
- _expression_ An expression that returns a [LinkFormat](./PowerPoint.LinkFormat.md) object.
+ _expression_ An expression that returns a [LinkFormat](PowerPoint.LinkFormat.md) object.
 
 
 ## Return value

@@ -19,7 +19,7 @@ Copies a specified document from a server to a local computer for editing.
 
 ## Syntax
 
-_expression_. `CheckOut`( `_FileName_` )
+_expression_.**CheckOut** (_FileName_)
 
 _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

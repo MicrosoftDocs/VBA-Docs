@@ -21,7 +21,7 @@ Sets or returns the bookmark of the specified object. Read/write.
 
 _expression_. `Bookmark`
 
-_expression_ A variable that represents a [CommandEffect](./PowerPoint.CommandEffect.md) object.
+_expression_ A variable that represents a [CommandEffect](PowerPoint.CommandEffect.md) object.
 
 
 ## See also

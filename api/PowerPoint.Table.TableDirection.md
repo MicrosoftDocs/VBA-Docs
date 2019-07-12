@@ -21,7 +21,7 @@ Returns or sets the direction in which the table cells are ordered. Read/write.
 
 _expression_. `TableDirection`
 
-_expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
+_expression_ A variable that represents a [Table](PowerPoint.Table.md) object.
 
 
 ## Return value

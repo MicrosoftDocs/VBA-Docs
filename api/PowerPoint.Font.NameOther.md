@@ -21,7 +21,7 @@ Returns or sets the font used for characters whose character set numbers are gre
 
 _expression_. `NameOther`
 
-_expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
+_expression_ A variable that represents a [Font](PowerPoint.Font.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns the [ChartFormat](PowerPoint.ChartFormat.md) object. Read-only.
 
 _expression_.**Format**
 
-_expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
+_expression_ A variable that represents a [Chart](PowerPoint.Chart.md) object.
 
 
 ## Remarks

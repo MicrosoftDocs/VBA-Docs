@@ -42,7 +42,7 @@ With myDocument.Shapes _
 End With
 ```
 
-Use the [HasTextFrame](./PowerPoint.Shape.HasTextFrame.md)property to determine whether a shape has a text frame, and use the [HasText](./PowerPoint.TextFrame.HasText.md)property to determine whether the text frame contains text, as shown in the following example.
+Use the [HasTextFrame](PowerPoint.Shape.HasTextFrame.md)property to determine whether a shape has a text frame, and use the [HasText](PowerPoint.TextFrame.HasText.md)property to determine whether the text frame contains text, as shown in the following example.
 
 
 
@@ -72,7 +72,7 @@ Next
 
 |Name|
 |:-----|
-|[DeleteText](./PowerPoint.TextFrame.DeleteText.md)|
+|[DeleteText](PowerPoint.TextFrame.DeleteText.md)|
 
 ## Properties
 
@@ -80,21 +80,21 @@ Next
 
 |Name|
 |:-----|
-|[Application](./PowerPoint.TextFrame.Application.md)|
-|[AutoSize](./PowerPoint.TextFrame.AutoSize.md)|
-|[Creator](./PowerPoint.TextFrame.Creator.md)|
-|[HasText](./PowerPoint.TextFrame.HasText.md)|
-|[HorizontalAnchor](./PowerPoint.TextFrame.HorizontalAnchor.md)|
-|[MarginBottom](./PowerPoint.TextFrame.MarginBottom.md)|
-|[MarginLeft](./PowerPoint.TextFrame.MarginLeft.md)|
-|[MarginRight](./PowerPoint.TextFrame.MarginRight.md)|
-|[MarginTop](./PowerPoint.TextFrame.MarginTop.md)|
-|[Orientation](./PowerPoint.TextFrame.Orientation.md)|
-|[Parent](./PowerPoint.TextFrame.Parent.md)|
-|[Ruler](./PowerPoint.TextFrame.Ruler.md)|
-|[TextRange](./PowerPoint.TextFrame.TextRange.md)|
-|[VerticalAnchor](./PowerPoint.TextFrame.VerticalAnchor.md)|
-|[WordWrap](./PowerPoint.TextFrame.WordWrap.md)|
+|[Application](PowerPoint.TextFrame.Application.md)|
+|[AutoSize](PowerPoint.TextFrame.AutoSize.md)|
+|[Creator](PowerPoint.TextFrame.Creator.md)|
+|[HasText](PowerPoint.TextFrame.HasText.md)|
+|[HorizontalAnchor](PowerPoint.TextFrame.HorizontalAnchor.md)|
+|[MarginBottom](PowerPoint.TextFrame.MarginBottom.md)|
+|[MarginLeft](PowerPoint.TextFrame.MarginLeft.md)|
+|[MarginRight](PowerPoint.TextFrame.MarginRight.md)|
+|[MarginTop](PowerPoint.TextFrame.MarginTop.md)|
+|[Orientation](PowerPoint.TextFrame.Orientation.md)|
+|[Parent](PowerPoint.TextFrame.Parent.md)|
+|[Ruler](PowerPoint.TextFrame.Ruler.md)|
+|[TextRange](PowerPoint.TextFrame.TextRange.md)|
+|[VerticalAnchor](PowerPoint.TextFrame.VerticalAnchor.md)|
+|[WordWrap](PowerPoint.TextFrame.WordWrap.md)|
 
 ## See also
 

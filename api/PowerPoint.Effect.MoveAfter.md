@@ -21,7 +21,7 @@ Moves one animation effect to after another animation effect.
 
 _expression_. `MoveAfter`( `_Effect_` )
 
-_expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
+_expression_ A variable that represents an [Effect](PowerPoint.Effect.md) object.
 
 
 ## Example

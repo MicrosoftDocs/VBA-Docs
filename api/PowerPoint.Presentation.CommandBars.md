@@ -21,7 +21,7 @@ Returns a  **CommandBars** collection that represents the merged command bar set
 
 _expression_.**CommandBars**
 
-_expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a [Presentation](PowerPoint.Presentation.md) object.
 
 
 ## See also
