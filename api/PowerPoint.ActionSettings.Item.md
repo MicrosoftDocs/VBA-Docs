@@ -14,23 +14,21 @@ localization_priority: Normal
 
 # ActionSettings.Item method (PowerPoint)
 
-Returns a single action setting from the specified  **ActionSettings** collection.
+Returns a single action setting from the specified **ActionSettings** collection.
 
 
 ## Syntax
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents an [ActionSettings](PowerPoint.ActionSettings.md) object.
+_expression_ A variable that represents an **[ActionSettings](PowerPoint.ActionSettings.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**PpMouseActivation**|The action setting for a  **MouseClick** or **MouseOver** event.|
+| _Index_|Required|**PpMouseActivation**|The action setting for a **MouseClick** or **MouseOver** event.|
 
 ## Return value
 
@@ -39,26 +37,18 @@ ActionSetting
 
 ## Remarks
 
-The  _Index_ parameter value can be one of these **PpMouseActivation** constants.
-
-
+The _Index_ parameter value can be one of these **PpMouseActivation** constants.
 
 |Constant|Description|
 |:-----|:-----|
 |**ppMouseClick**|The action setting for when the user clicks the shape.|
 |**ppMouseOver**|The action setting for when the mouse pointer is positioned over the specified shape.|
 
-The  **Item** method is the default member for a collection. For example, the following two lines of code are equivalent:
-
-
-
+The **Item** method is the default member for a collection. For example, the following two lines of code are equivalent:
 
 ```vb
 ActivePresentation.Slides.Item(1)
 ```
-
-
-
 
 ```vb
 ActivePresentation.Slides(1)
@@ -69,7 +59,7 @@ For more information about returning a single member of a collection, see [Retur
 
 ## Example
 
-This example sets shape three on slide one to play the sound of applause and uses the  **[AnimateAction](PowerPoint.ActionSetting.AnimateAction.md)** property to specify that the shape's color is to be momentarily inverted when the shape is clicked during a slide show.
+This example sets shape three on slide one to play the sound of applause and uses the **[AnimateAction](PowerPoint.ActionSetting.AnimateAction.md)** property to specify that the shape's color is to be momentarily inverted when the shape is clicked during a slide show.
 
 
 ```vb
@@ -81,9 +71,6 @@ End With
 ```
 
 
-## See also
 
-
-[ActionSettings Object](PowerPoint.ActionSettings.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
