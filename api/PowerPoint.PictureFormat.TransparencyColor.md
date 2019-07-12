@@ -21,7 +21,7 @@ Returns or sets the transparent color for the specified picture as a red-green-b
 
 _expression_.**TransparencyColor**
 
-_expression_ A variable that represents a [PictureFormat](./PowerPoint.PictureFormat.md) object.
+_expression_ A variable that represents a [PictureFormat](PowerPoint.PictureFormat.md) object.
 
 
 ## Return value

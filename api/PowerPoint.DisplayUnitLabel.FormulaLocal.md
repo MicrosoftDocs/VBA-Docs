@@ -21,7 +21,7 @@ Returns or sets the formula for the object, using A1-style references in the lan
 
 _expression_.**FormulaLocal**
 
-_expression_ A variable that represents a [DisplayUnitLabel](./PowerPoint.DisplayUnitLabel.md) object.
+_expression_ A variable that represents a [DisplayUnitLabel](PowerPoint.DisplayUnitLabel.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Adds a color scheme to the collection of available schemes. Returns a  **[ColorS
 
 _expression_.**Add** (_Scheme_)
 
-_expression_ A variable that represents a [ColorSchemes](./PowerPoint.ColorSchemes.md) object.
+_expression_ A variable that represents a [ColorSchemes](PowerPoint.ColorSchemes.md) object.
 
 
 ## Parameters

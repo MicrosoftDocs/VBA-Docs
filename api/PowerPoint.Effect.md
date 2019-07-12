@@ -19,7 +19,7 @@ Represents timing information about a slide animation.
 
 ## Example
 
-Use the [AddEffect](./PowerPoint.Sequence.AddEffect.md)method to add an effect. This example adds a shape to the first slide in the active presentation and adds an effect and a behavior to the shape.
+Use the [AddEffect](PowerPoint.Sequence.AddEffect.md)method to add an effect. This example adds a shape to the first slide in the active presentation and adds an effect and a behavior to the shape.
 
 
 ```vb
@@ -64,7 +64,7 @@ Sub NewShapeAndEffect()
 End Sub
 ```
 
-To refer to an existing  **Effect** object, use **[MainSequence](./PowerPoint.TimeLine.MainSequence.md)** (_index_), where _index_ is the number of the **Effect** object in the **[Sequence](./PowerPoint.Sequence.md)** collection. This example changes the effect for the first sequence and specifies the behavior for that effect.
+To refer to an existing  **Effect** object, use **[MainSequence](PowerPoint.TimeLine.MainSequence.md)** (_index_), where _index_ is the number of the **Effect** object in the **[Sequence](PowerPoint.Sequence.md)** collection. This example changes the effect for the first sequence and specifies the behavior for that effect.
 
 
 
@@ -100,10 +100,10 @@ End Sub
 
 |Name|
 |:-----|
-|**[Delete](./PowerPoint.Effect.Delete.md)**|
-|**[MoveAfter](./PowerPoint.Effect.MoveAfter.md)**|
-|**[MoveBefore](./PowerPoint.Effect.MoveBefore.md)**|
-|**[MoveTo](./PowerPoint.Effect.MoveTo.md)**|
+|**[Delete](PowerPoint.Effect.Delete.md)**|
+|**[MoveAfter](PowerPoint.Effect.MoveAfter.md)**|
+|**[MoveBefore](PowerPoint.Effect.MoveBefore.md)**|
+|**[MoveTo](PowerPoint.Effect.MoveTo.md)**|
 
 ## Properties
 
@@ -111,20 +111,20 @@ End Sub
 
 |Name|
 |:-----|
-|**[Application](./PowerPoint.Effect.Application.md)**|
-|**[Behaviors](./PowerPoint.Effect.Behaviors.md)**|
-|**[DisplayName](./PowerPoint.Effect.DisplayName.md)**|
-|**[EffectInformation](./PowerPoint.Effect.EffectInformation.md)**|
-|**[EffectParameters](./PowerPoint.Effect.EffectParameters.md)**|
-|**[EffectType](./PowerPoint.Effect.EffectType.md)**|
-|**[Exit](./PowerPoint.Effect.Exit.md)**|
-|**[Index](./PowerPoint.Effect.Index.md)**|
-|**[Paragraph](./PowerPoint.Effect.Paragraph.md)**|
-|**[Parent](./PowerPoint.Effect.Parent.md)**|
-|**[Shape](./PowerPoint.Effect.Shape.md)**|
-|**[TextRangeLength](./PowerPoint.Effect.TextRangeLength.md)**|
-|**[TextRangeStart](./PowerPoint.Effect.TextRangeStart.md)**|
-|**[Timing](./PowerPoint.Effect.Timing.md)**|
+|**[Application](PowerPoint.Effect.Application.md)**|
+|**[Behaviors](PowerPoint.Effect.Behaviors.md)**|
+|**[DisplayName](PowerPoint.Effect.DisplayName.md)**|
+|**[EffectInformation](PowerPoint.Effect.EffectInformation.md)**|
+|**[EffectParameters](PowerPoint.Effect.EffectParameters.md)**|
+|**[EffectType](PowerPoint.Effect.EffectType.md)**|
+|**[Exit](PowerPoint.Effect.Exit.md)**|
+|**[Index](PowerPoint.Effect.Index.md)**|
+|**[Paragraph](PowerPoint.Effect.Paragraph.md)**|
+|**[Parent](PowerPoint.Effect.Parent.md)**|
+|**[Shape](PowerPoint.Effect.Shape.md)**|
+|**[TextRangeLength](PowerPoint.Effect.TextRangeLength.md)**|
+|**[TextRangeStart](PowerPoint.Effect.TextRangeStart.md)**|
+|**[Timing](PowerPoint.Effect.Timing.md)**|
 
 ## See also
 

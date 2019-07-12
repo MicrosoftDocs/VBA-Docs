@@ -21,7 +21,7 @@ Represents whether a design master is preserved from changes. Read/write.
 
 _expression_. `Preserved`
 
-_expression_ A variable that represents a [Design](./PowerPoint.Design.md) object.
+_expression_ A variable that represents a [Design](PowerPoint.Design.md) object.
 
 
 ## Return value

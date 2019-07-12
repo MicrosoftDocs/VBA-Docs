@@ -19,7 +19,7 @@ Gets or sets the text string that appears in the right portion of a document's h
 
 ## Syntax
 
-_expression_. `HeaderRight`
+_expression_.**HeaderRight**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
@@ -31,9 +31,9 @@ String
 
 ## Remarks
 
-You can also set this value in the  **Right** box under **Header** in the **Header and Footer** dialog box (click the **File** tab, click **Print**, click  **Print Preview**, and then in the  **Preview** group, click **Header & Footer**).
+You can also set this value in the **Right** box under **Header** in the **Header and Footer** dialog box (click the **File** tab, click **Print**, click **Print Preview**, and then in the **Preview** group, click **Header & Footer**).
 
-Both the string that  **HeaderRight** returns and the string to which you set it can contain escape codes that represent data. These escape codes can be concatenated with other text. For a list of valid escape codes you can use with the **HeaderRight** property, see the **[FooterLeft](Visio.Document.FooterLeft.md)** property.
+Both the string that **HeaderRight** returns and the string to which you set it can contain escape codes that represent data. These escape codes can be concatenated with other text. For a list of valid escape codes you can use with the **HeaderRight** property, see the **[FooterLeft](Visio.Document.FooterLeft.md)** property.
 
 
 ## Example

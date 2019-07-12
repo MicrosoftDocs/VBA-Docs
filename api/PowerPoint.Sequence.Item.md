@@ -21,7 +21,7 @@ Returns a single  **Effect** object from the specified **Sequence** collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
+_expression_ A variable that represents a [Sequence](PowerPoint.Sequence.md) object.
 
 
 ## Parameters

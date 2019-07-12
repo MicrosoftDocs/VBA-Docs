@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataColumn.ObjectType property (Visio)
 
-Returns  **visObjTypeDataColumn**, the type of a **DataColumn** object. Read-only.
+Returns **visObjTypeDataColumn**, the type of a **DataColumn** object. Read-only.
 
 
 > [!NOTE] 
@@ -25,7 +25,7 @@ Returns  **visObjTypeDataColumn**, the type of a **DataColumn** object. Read-onl
 
 _expression_.**ObjectType**
 
- _expression_ An expression that returns a **[DataColumn](Visio.DataColumn.md)** object.
+_expression_ An expression that returns a **[DataColumn](Visio.DataColumn.md)** object.
 
 
 ## Return value
@@ -35,6 +35,6 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
+Constants representing object types are prefixed with **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

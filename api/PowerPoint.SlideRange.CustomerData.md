@@ -21,7 +21,7 @@ Returns a  **[CustomerData](PowerPoint.CustomerData.md)** object. Read-only.
 
 _expression_. `CustomerData`
 
- _expression_ An expression that returns a [SlideRange](./PowerPoint.SlideRange.md) object.
+ _expression_ An expression that returns a [SlideRange](PowerPoint.SlideRange.md) object.
 
 
 ## Return value

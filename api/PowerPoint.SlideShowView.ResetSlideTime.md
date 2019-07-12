@@ -21,7 +21,7 @@ Resets the elapsed time (represented by the  **[SlideElapsedTime](PowerPoint.Sli
 
 _expression_. `ResetSlideTime`
 
-_expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
+_expression_ A variable that represents a [SlideShowView](PowerPoint.SlideShowView.md) object.
 
 
 ## Example

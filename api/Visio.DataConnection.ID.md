@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataConnection.ID property (Visio)
 
-Gets the unique identifier of the  **DataConnection** object assigned by Visio. Read-only.
+Gets the unique identifier of the **DataConnection** object assigned by Visio. Read-only.
 
 
 > [!NOTE] 

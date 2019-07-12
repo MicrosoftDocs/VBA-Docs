@@ -19,7 +19,7 @@ Marks a specified document as checked out and assigns edit privileges to the cur
 
 ## Syntax
 
-_expression_. `CheckOut`( `_FileName_` )
+_expression_.**CheckOut** (_FileName_)
 
 _expression_ A variable that represents a **[Documents](Visio.Documents.md)** object.
 

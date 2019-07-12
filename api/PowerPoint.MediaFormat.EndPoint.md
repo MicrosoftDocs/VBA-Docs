@@ -21,7 +21,7 @@ Gets or sets the time of the end point of the trim region of the media. Read/wri
 
 _expression_. `EndPoint`
 
- _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
+ _expression_ An expression that returns a [MediaFormat](PowerPoint.MediaFormat.md) object.
 
 
 ## Return value

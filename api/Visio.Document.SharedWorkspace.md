@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.SharedWorkspace property (Visio)
 
-Returns a Microsoft Office  **SharedWorkspace** object that provides access to the Office Document Workspace object model. Read-only.
+Returns a Microsoft Office **SharedWorkspace** object that provides access to the Office Document Workspace object model. Read-only.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ The Office Document Workspace object model provides a way to put documents into 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **SharedWorkspace** property to get a **SharedWorkspace** object and create a new shared document workspace that has the same name as the default document, at the default location.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **SharedWorkspace** property to get a **SharedWorkspace** object and create a new shared document workspace that has the same name as the default document, at the default location.
 
 
 ```vb

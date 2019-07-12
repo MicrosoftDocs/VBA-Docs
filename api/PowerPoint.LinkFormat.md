@@ -49,8 +49,8 @@ Next
 
 |Name|
 |:-----|
-|[BreakLink](./PowerPoint.LinkFormat.BreakLink.md)|
-|[Update](./PowerPoint.LinkFormat.Update.md)|
+|[BreakLink](PowerPoint.LinkFormat.BreakLink.md)|
+|[Update](PowerPoint.LinkFormat.Update.md)|
 
 ## Properties
 
@@ -58,10 +58,10 @@ Next
 
 |Name|
 |:-----|
-|[Application](./PowerPoint.LinkFormat.Application.md)|
-|[AutoUpdate](./PowerPoint.LinkFormat.AutoUpdate.md)|
-|[Parent](./PowerPoint.LinkFormat.Parent.md)|
-|[SourceFullName](./PowerPoint.LinkFormat.SourceFullName.md)|
+|[Application](PowerPoint.LinkFormat.Application.md)|
+|[AutoUpdate](PowerPoint.LinkFormat.AutoUpdate.md)|
+|[Parent](PowerPoint.LinkFormat.Parent.md)|
+|[SourceFullName](PowerPoint.LinkFormat.SourceFullName.md)|
 
 ## See also
 

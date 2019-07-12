@@ -26,7 +26,7 @@ _expression_ An expression that returns a **[ContainerProperties](Visio.Containe
 
 ## Return value
 
- **visObjTypeContainerProperties**
+**visObjTypeContainerProperties**
 
 
 ## Remarks

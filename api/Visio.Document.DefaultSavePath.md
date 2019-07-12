@@ -19,9 +19,9 @@ Gets or sets the path to the location where Microsoft Visio saves the current do
 
 ## Syntax
 
-_expression_. `DefaultSavePath`
+_expression_.**DefaultSavePath**
 
- _expression_ An expression that returns a **[Document](Visio.Document.md)** object.
+_expression_ An expression that returns a **[Document](Visio.Document.md)** object.
 
 
 ## Return value
@@ -31,10 +31,7 @@ String
 
 ## Remarks
 
+The **DefaultSavePath** property is run-time only, and the property setting persists for the life of the current document, but not beyond.
 
-
-
-> [!NOTE] 
-> The **DefaultSavePath** property is run-time only, and the property setting persists for the life of the current document, but not beyond.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,9 +25,6 @@ _expression_ A variable that represents a **[Document](Visio.Document.md)** obje
 |:-----|:-----|:-----|:-----|
 | _coauthMergeObjects_|Required|**[IVCOAUTHMERGEEVENT]**|An object that represents different versions of the merged, co authored document.|
 
-## See also
 
-
-[Document Object](Visio.Document.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,7 +21,7 @@ Returns or sets the amount of space between base lines in the specified text, in
 
 _expression_. `SpaceWithin`
 
-_expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
+_expression_ A variable that represents a [ParagraphFormat](PowerPoint.ParagraphFormat.md) object.
 
 
 ## Return value

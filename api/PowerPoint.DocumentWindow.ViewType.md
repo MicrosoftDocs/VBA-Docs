@@ -21,7 +21,7 @@ Returns or sets the type of the view contained in the specified document window.
 
 _expression_. `ViewType`
 
-_expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
+_expression_ A variable that represents a [DocumentWindow](PowerPoint.DocumentWindow.md) object.
 
 
 ## Remarks

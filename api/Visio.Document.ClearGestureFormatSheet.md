@@ -19,7 +19,7 @@ Clears local formatting in a document's Gesture Format sheet.
 
 ## Syntax
 
-_expression_. `ClearGestureFormatSheet`
+_expression_.**ClearGestureFormatSheet**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
@@ -35,6 +35,6 @@ Any shapes drawn after the Gesture Format sheet is cleared inherit their line, f
 
 A document's Gesture Format sheet also gets cleared automatically when the document is opened.
 
-For details about the Gesture Format sheet, see the  **GestureFormatSheet** property.
+For details about the Gesture Format sheet, see the **GestureFormatSheet** property.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

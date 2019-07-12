@@ -21,7 +21,7 @@ Returns an  **[Application](PowerPoint.Application.md)** object that represents 
 
 _expression_.**Application**
 
-_expression_ Required. An expression that returns a [Research](./PowerPoint.Research.md) object.
+_expression_ Required. An expression that returns a [Research](PowerPoint.Research.md) object.
 
 
 ## Return value

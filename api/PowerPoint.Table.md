@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Table object (PowerPoint)
 
-Represents a table shape on a slide. The  **Table** object is a member of the **Shapes** collection. The **Table** object contains the **[Columns](./PowerPoint.Columns.md)** collection and the **[Rows](PowerPoint.Rows.md)** collection.
+Represents a table shape on a slide. The  **Table** object is a member of the **Shapes** collection. The **Table** object contains the **[Columns](PowerPoint.Columns.md)** collection and the **[Rows](PowerPoint.Rows.md)** collection.
 
 
 ## Example
 
-Use  **Shapes** (_index_), where _index_ is a number, to return a shape containing a table. Use the [HasTable](./PowerPoint.Shape.HasTable.md)property to see if a shape contains a table. This example walks through the shapes on slide one, checks to see if each shape has a table, and then sets the mouse click action for each table shape to advance to the next slide.
+Use  **Shapes** (_index_), where _index_ is a number, to return a shape containing a table. Use the [HasTable](PowerPoint.Shape.HasTable.md)property to see if a shape contains a table. This example walks through the shapes on slide one, checks to see if each shape has a table, and then sets the mouse click action for each table shape to advance to the next slide.
 
 
 ```vb
@@ -40,7 +40,7 @@ With ActivePresentation.Slides(2).Shapes
 End With
 ```
 
-Use the [Cell](./PowerPoint.Table.Cell.md)method of the  **Table** object to access the contents of each cell. This example inserts the text "Cell 1" in the first cell of the table in shape five on slide three.
+Use the [Cell](PowerPoint.Table.Cell.md)method of the  **Table** object to access the contents of each cell. This example inserts the text "Cell 1" in the first cell of the table in shape five on slide three.
 
 
 
@@ -53,7 +53,7 @@ ActivePresentation.Slides(3).Shapes(5).Table _
     .Text = "Cell 1"
 ```
 
-Use the [AddTable](./PowerPoint.Shapes.AddTable.md)method to add a table to a slide. This example adds a 3x3 table on slide two in the active presentation.
+Use the [AddTable](PowerPoint.Shapes.AddTable.md)method to add a table to a slide. This example adds a 3x3 table on slide two in the active presentation.
 
 
 
@@ -69,9 +69,9 @@ ActivePresentation.Slides(2).Shapes.AddTable(3, 3)
 
 |Name|
 |:-----|
-|[ApplyStyle](./PowerPoint.Table.ApplyStyle.md)|
-|[Cell](./PowerPoint.Table.Cell.md)|
-|[ScaleProportionally](./PowerPoint.Table.ScaleProportionally.md)|
+|[ApplyStyle](PowerPoint.Table.ApplyStyle.md)|
+|[Cell](PowerPoint.Table.Cell.md)|
+|[ScaleProportionally](PowerPoint.Table.ScaleProportionally.md)|
 
 ## Properties
 
@@ -79,21 +79,21 @@ ActivePresentation.Slides(2).Shapes.AddTable(3, 3)
 
 |Name|
 |:-----|
-|[AlternativeText](./PowerPoint.Table.AlternativeText.md)|
-|[Application](./PowerPoint.Table.Application.md)|
-|[Background](./PowerPoint.Table.Background.md)|
-|[Columns](./PowerPoint.Table.Columns.md)|
-|[FirstCol](./PowerPoint.Table.FirstCol.md)|
-|[FirstRow](./PowerPoint.Table.FirstRow.md)|
-|[HorizBanding](./PowerPoint.Table.HorizBanding.md)|
-|[LastCol](./PowerPoint.Table.LastCol.md)|
-|[LastRow](./PowerPoint.Table.LastRow.md)|
-|[Parent](./PowerPoint.Table.Parent.md)|
-|[Rows](./PowerPoint.Table.Rows.md)|
-|[Style](./PowerPoint.Table.Style.md)|
-|[TableDirection](./PowerPoint.Table.TableDirection.md)|
-|[Title](./PowerPoint.Table.Title.md)|
-|[VertBanding](./PowerPoint.Table.VertBanding.md)|
+|[AlternativeText](PowerPoint.Table.AlternativeText.md)|
+|[Application](PowerPoint.Table.Application.md)|
+|[Background](PowerPoint.Table.Background.md)|
+|[Columns](PowerPoint.Table.Columns.md)|
+|[FirstCol](PowerPoint.Table.FirstCol.md)|
+|[FirstRow](PowerPoint.Table.FirstRow.md)|
+|[HorizBanding](PowerPoint.Table.HorizBanding.md)|
+|[LastCol](PowerPoint.Table.LastCol.md)|
+|[LastRow](PowerPoint.Table.LastRow.md)|
+|[Parent](PowerPoint.Table.Parent.md)|
+|[Rows](PowerPoint.Table.Rows.md)|
+|[Style](PowerPoint.Table.Style.md)|
+|[TableDirection](PowerPoint.Table.TableDirection.md)|
+|[Title](PowerPoint.Table.Title.md)|
+|[VertBanding](PowerPoint.Table.VertBanding.md)|
 
 ## See also
 

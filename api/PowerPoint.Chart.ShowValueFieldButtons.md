@@ -21,7 +21,7 @@ Returns or sets a value that indicates whether to display the value field button
 
 _expression_.**ShowValueFieldButtons**
 
-_expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
+_expression_ A variable that represents a [Chart](PowerPoint.Chart.md) object.
 
 
 ## Return value

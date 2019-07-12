@@ -21,7 +21,7 @@ Returns or sets the location within a document — such as a bookmark in a word 
 
 _expression_.**SubAddress**
 
-_expression_ A variable that represents a [Hyperlink](./PowerPoint.Hyperlink.md) object.
+_expression_ A variable that represents a [Hyperlink](PowerPoint.Hyperlink.md) object.
 
 
 ## Return value

@@ -19,7 +19,7 @@ Returns the [Guides](overview/PowerPoint.md) collection associated with a custom
 
 _expression_. `Guides`
 
-_expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
+_expression_ A variable that represents a [CustomLayout](PowerPoint.CustomLayout.md) object.
 
 
 ## Property value

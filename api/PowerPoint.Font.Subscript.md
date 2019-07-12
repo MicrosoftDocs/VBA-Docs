@@ -21,7 +21,7 @@ Determines whether the specified text is subscript. Read/write.
 
 _expression_.**Subscript**
 
-_expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
+_expression_ A variable that represents a [Font](PowerPoint.Font.md) object.
 
 
 ## Return value

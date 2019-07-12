@@ -21,7 +21,7 @@ Determines whether Microsoft PowerPoint should display the  **AutoLayout Options
 
 _expression_. `DisplayAutoLayoutOptions`
 
-_expression_ A variable that represents an [AutoCorrect](./PowerPoint.AutoCorrect.md) object.
+_expression_ A variable that represents an [AutoCorrect](PowerPoint.AutoCorrect.md) object.
 
 
 ## Return value

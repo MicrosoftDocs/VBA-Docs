@@ -21,7 +21,7 @@ Returns a  **[PrintRange](PowerPoint.PrintRange.md)** object that represents a n
 
 _expression_.**Add** (_Start_, _End_)
 
-_expression_ A variable that represents a [PrintRanges](./PowerPoint.PrintRanges.md) object.
+_expression_ A variable that represents a [PrintRanges](PowerPoint.PrintRanges.md) object.
 
 
 ## Parameters

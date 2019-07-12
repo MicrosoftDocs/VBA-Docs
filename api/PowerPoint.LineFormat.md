@@ -53,24 +53,24 @@ End With
 
 |Name|
 |:-----|
-|[Application](./PowerPoint.LineFormat.Application.md)|
-|[BackColor](./PowerPoint.LineFormat.BackColor.md)|
-|[BeginArrowheadLength](./PowerPoint.LineFormat.BeginArrowheadLength.md)|
-|[BeginArrowheadStyle](./PowerPoint.LineFormat.BeginArrowheadStyle.md)|
-|[BeginArrowheadWidth](./PowerPoint.LineFormat.BeginArrowheadWidth.md)|
-|[Creator](./PowerPoint.LineFormat.Creator.md)|
-|[DashStyle](./PowerPoint.LineFormat.DashStyle.md)|
-|[EndArrowheadLength](./PowerPoint.LineFormat.EndArrowheadLength.md)|
-|[EndArrowheadStyle](./PowerPoint.LineFormat.EndArrowheadStyle.md)|
-|[EndArrowheadWidth](./PowerPoint.LineFormat.EndArrowheadWidth.md)|
-|[ForeColor](./PowerPoint.LineFormat.ForeColor.md)|
-|[InsetPen](./PowerPoint.LineFormat.InsetPen.md)|
-|[Parent](./PowerPoint.LineFormat.Parent.md)|
-|[Pattern](./PowerPoint.LineFormat.Pattern.md)|
-|[Style](./PowerPoint.LineFormat.Style.md)|
-|[Transparency](./PowerPoint.LineFormat.Transparency.md)|
-|[Visible](./PowerPoint.LineFormat.Visible.md)|
-|[Weight](./PowerPoint.LineFormat.Weight.md)|
+|[Application](PowerPoint.LineFormat.Application.md)|
+|[BackColor](PowerPoint.LineFormat.BackColor.md)|
+|[BeginArrowheadLength](PowerPoint.LineFormat.BeginArrowheadLength.md)|
+|[BeginArrowheadStyle](PowerPoint.LineFormat.BeginArrowheadStyle.md)|
+|[BeginArrowheadWidth](PowerPoint.LineFormat.BeginArrowheadWidth.md)|
+|[Creator](PowerPoint.LineFormat.Creator.md)|
+|[DashStyle](PowerPoint.LineFormat.DashStyle.md)|
+|[EndArrowheadLength](PowerPoint.LineFormat.EndArrowheadLength.md)|
+|[EndArrowheadStyle](PowerPoint.LineFormat.EndArrowheadStyle.md)|
+|[EndArrowheadWidth](PowerPoint.LineFormat.EndArrowheadWidth.md)|
+|[ForeColor](PowerPoint.LineFormat.ForeColor.md)|
+|[InsetPen](PowerPoint.LineFormat.InsetPen.md)|
+|[Parent](PowerPoint.LineFormat.Parent.md)|
+|[Pattern](PowerPoint.LineFormat.Pattern.md)|
+|[Style](PowerPoint.LineFormat.Style.md)|
+|[Transparency](PowerPoint.LineFormat.Transparency.md)|
+|[Visible](PowerPoint.LineFormat.Visible.md)|
+|[Weight](PowerPoint.LineFormat.Weight.md)|
 
 ## See also
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataColumn.DisplayName property (Visio)
 
-Specifies the name that appears for the data column on the tab of the parent data recordset in the  **External Data** window in the Microsoft Visio user interface. Read/write.
+Specifies the name that appears for the data column on the tab of the parent data recordset in the **External Data** window in the Microsoft Visio user interface. Read/write.
 
 
 > [!NOTE] 
@@ -35,9 +35,9 @@ String
 
 ## Remarks
 
-The  **DisplayName** property value is not necessarily the same as that of the **[Name](Visio.DataColumn.Name.md)** property, which is read-only, and which determines the unique identifier of the data column in its parent data recordset.
+The **DisplayName** property value is not necessarily the same as that of the **[Name](Visio.DataColumn.Name.md)** property, which is read-only, and which determines the unique identifier of the data column in its parent data recordset.
 
-The value of the  **DisplayName** property corresponds to the value in the Label column in the Shape Data section of the ShapeSheet spreadsheet of a shape that is linked to data. The Label column value determines the label that appears for a particular shape-data item in the **Shape Data** dialog box for that shape. (Right-click the shape, and then click **Shape Data**.)
+The value of the **DisplayName** property corresponds to the value in the Label column in the Shape Data section of the ShapeSheet spreadsheet of a shape that is linked to data. The Label column value determines the label that appears for a particular shape-data item in the **Shape Data** dialog box for that shape. (Right-click the shape, and then click **Shape Data**.)
 
 
 > [!NOTE] 

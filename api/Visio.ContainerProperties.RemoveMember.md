@@ -28,20 +28,20 @@ _expression_ A variable that represents a **[ContainerProperties](Visio.Containe
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ObjectToRemove_|Required| **[UNKNOWN]**|The shape or shapes to remove from the container. Can be a  **[Shape](Visio.Shape.md)** or **[Selection](Visio.Selection.md)** selection.|
+| _ObjectToRemove_|Required| **[UNKNOWN]**|The shape or shapes to remove from the container. Can be a **[Shape](Visio.Shape.md)** or **[Selection](Visio.Selection.md)** selection.|
 
 ## Return value
 
- **Nothing**
+**Nothing**
 
 
 ## Remarks
 
-The  **RemoveMember** method removes from the container the shapes specified in the _ObjectToRemove_ parameter.
+The **RemoveMember** method removes from the container the shapes specified in the _ObjectToRemove_ parameter.
 
 If the container is a list, Microsoft Visio removes the shapes specified in  _ObjectToRemove_ both from the list (if it is a list member) and from the list container.
 
-If the  **[ContainerProperties.LockMembership](Visio.ContainerProperties.LockMembership.md)** property is **True**, Visio returns a Disabled error.
+If the **[ContainerProperties.LockMembership](Visio.ContainerProperties.LockMembership.md)** property is **True**, Visio returns a Disabled error.
 
 If  _ObjectToRemove_ does not contain top-level shapes on the page, Visio returns an Invalid Parameter error. However, if _ObjectToRemove_ is not a container member, Visio does not return an error.
 

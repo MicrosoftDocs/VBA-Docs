@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataRecordsets.Item property (Visio)
 
-Returns the  **DataRecordset** object at the specified index position in the **DataRecordsets** collection. Read-only.
+Returns the **DataRecordset** object at the specified index position in the **DataRecordsets** collection. Read-only.
 
 
 > [!NOTE] 
@@ -30,8 +30,6 @@ _expression_ A variable that represents a **[DataRecordsets](Visio.DataRecordset
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The index of the object to retrieve.|
@@ -43,12 +41,9 @@ DataRecordset
 
 ## Remarks
 
- **Item** is the default property of the **DataRecordsets** collection.
+**Item** is the default property of the **DataRecordsets** collection.
 
-When you retrieve objects from a collection, you can omit  **Item** from the expression because it is the default property of all collections. The following statement is equivalent to the syntax example given above:
-
-
-
+When you retrieve objects from a collection, you can omit **Item** from the expression because it is the default property of all collections. The following statement is equivalent to the syntax example given above:
 
 ```vb
 objectReturned = expression(Index)

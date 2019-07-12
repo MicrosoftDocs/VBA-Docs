@@ -21,7 +21,7 @@ Returns or sets the Asian font name. Read/write.
 
 _expression_. `NameFarEast`
 
-_expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
+_expression_ A variable that represents a [Font](PowerPoint.Font.md) object.
 
 
 ## Return value

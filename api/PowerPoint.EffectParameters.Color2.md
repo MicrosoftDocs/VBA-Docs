@@ -21,7 +21,7 @@ Returns a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents t
 
 _expression_. `Color2`
 
-_expression_ A variable that represents an [EffectParameters](./PowerPoint.EffectParameters.md) object.
+_expression_ A variable that represents an [EffectParameters](PowerPoint.EffectParameters.md) object.
 
 
 ## Return value

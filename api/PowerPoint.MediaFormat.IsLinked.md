@@ -21,7 +21,7 @@ Returns whether the media file is linked. Read-only.
 
 _expression_. `IsLinked`
 
- _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
+ _expression_ An expression that returns a [MediaFormat](PowerPoint.MediaFormat.md) object.
 
 
 ## Return value

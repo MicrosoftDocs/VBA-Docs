@@ -21,7 +21,7 @@ Represents the type of shadow. Read/write.
 
 _expression_.**Type**
 
-_expression_ A variable that represents a [ShadowFormat](./PowerPoint.ShadowFormat.md) object.
+_expression_ A variable that represents a [ShadowFormat](PowerPoint.ShadowFormat.md) object.
 
 
 ## Return value

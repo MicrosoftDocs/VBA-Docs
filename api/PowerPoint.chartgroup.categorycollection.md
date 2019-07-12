@@ -19,7 +19,7 @@ Returns all the visible categories in the chart group, or the specified visible 
 
 _expression_. `CategoryCollection`_(Index)_
 
-_expression_ A variable that represents a [ChartGroup](./PowerPoint.ChartGroup.md) object.
+_expression_ A variable that represents a [ChartGroup](PowerPoint.ChartGroup.md) object.
 
 
 ## Parameters

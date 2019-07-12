@@ -19,7 +19,7 @@ Indicates whether drawings in a document are printed on a specified number of sh
 
 ## Syntax
 
-_expression_. `PrintFitOnPages`
+_expression_.**PrintFitOnPages**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
@@ -31,6 +31,6 @@ Boolean
 
 ## Remarks
 
-The  **PrintFitOnPages** property corresponds to the **Fit to** settings in the **Page Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group). If this property is **True**, Microsoft Visio prints the document's drawings on the number of sheets specified by the **PrintPagesAcross** and **PrintPagesDown** properties.
+The **PrintFitOnPages** property corresponds to the **Fit to** settings in the **Page Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group). If this property is **True**, Microsoft Visio prints the document's drawings on the number of sheets specified by the **PrintPagesAcross** and **PrintPagesDown** properties.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

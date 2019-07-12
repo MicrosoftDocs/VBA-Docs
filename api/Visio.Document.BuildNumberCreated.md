@@ -19,7 +19,7 @@ Returns the build number of the instance used to create the document. Read-only.
 
 ## Syntax
 
-_expression_. `BuildNumberCreated`
+_expression_.**BuildNumberCreated**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
@@ -33,9 +33,7 @@ Long
 
 The format of the build number is described in the following table.
 
-
-
-|**Bits**|**Description**|
+|Bits|Description|
 |:-----|:-----|
 |0 - 15 |Internal build number |
 

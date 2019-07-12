@@ -21,7 +21,7 @@ Returns or sets the characters that cannot begin a line. Read/write.
 
 _expression_. `NoLineBreakBefore`
 
-_expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a [Presentation](PowerPoint.Presentation.md) object.
 
 
 ## Return value

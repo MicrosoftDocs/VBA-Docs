@@ -21,7 +21,7 @@ Adds the current media object to the queue and begins resampling base on the spe
 
 _expression_. `ResampleFromProfile`( `_profile_` )
 
- _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
+ _expression_ An expression that returns a [MediaFormat](PowerPoint.MediaFormat.md) object.
 
 
 ## Parameters

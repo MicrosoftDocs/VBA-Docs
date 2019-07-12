@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Document.DocumentSheet property (Visio)
 
-Returns a  **Shape** object whose cells represent properties of the document. Read-only.
+Returns a **Shape** object whose cells represent properties of the document. Read-only.
 
 
 ## Syntax
 
-_expression_. `DocumentSheet`
+_expression_.**DocumentSheet**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 

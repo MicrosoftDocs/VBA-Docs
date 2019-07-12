@@ -19,14 +19,12 @@ Returns the width of a document's printed page. Read-only.
 
 ## Syntax
 
-_expression_. `PaperWidth`( `_UnitsNameOrCode_` )
+_expression_.**PaperWidth** (_UnitsNameOrCode_)
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -39,6 +37,6 @@ Double
 
 ## Remarks
 
-The  **PaperWidth** property value can be a string such as "inches", "inch", "in.", or "i". Strings may be used for all supported Microsoft Visio units such as centimeters, meters, miles, and so on. You can also use any of the units constants declared by the Visio type library in member **[VisUnitCodes](Visio.visunitcodes.md)**.
+The **PaperWidth** property value can be a string such as "inches", "inch", "in.", or "i". Strings may be used for all supported Microsoft Visio units such as centimeters, meters, miles, and so on. You can also use any of the units constants declared by the Visio type library in member **[VisUnitCodes](Visio.visunitcodes.md)**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

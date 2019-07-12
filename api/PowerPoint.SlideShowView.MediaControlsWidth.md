@@ -21,7 +21,7 @@ Returns the width, in [points](../language/glossary/vbe-glossary.md#point), of t
 
 _expression_. `MediaControlsWidth`
 
-_expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
+_expression_ A variable that represents a [SlideShowView](PowerPoint.SlideShowView.md) object.
 
 
 ## Return value

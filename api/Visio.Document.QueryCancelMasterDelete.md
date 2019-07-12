@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.QueryCancelMasterDelete event (Visio)
 
-Occurs before the application deletes a master in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
+Occurs before the application deletes a master in response to a user action in the interface. If any event handler returns **True**, the operation is canceled.
 
 
 ## Syntax
@@ -26,22 +26,20 @@ _expression_ A variable that represents a **[Document](Visio.Document.md)** obje
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Master_|Required| **[IVMASTER]**|The master that is going to be deleted.|
 
 ## Remarks
 
-A Microsoft Visio instance fires  **QueryCancelMasterDelete** after the user has directed the instance to delete a master.
+A Microsoft Visio instance fires **QueryCancelMasterDelete** after the user has directed the instance to delete a master.
 
 
 
 
-- If any event handler returns  **True** (cancel), the instance fires **MasterDeleteCanceled** and does not delete the master.
+- If any event handler returns **True** (cancel), the instance fires **MasterDeleteCanceled** and does not delete the master.
     
-- If all handlers return  **False** (don't cancel), the instance fires **BeforeMasterDelete** and then deletes the master.
+- If all handlers return **False** (don't cancel), the instance fires **BeforeMasterDelete** and then deletes the master.
     
 
 

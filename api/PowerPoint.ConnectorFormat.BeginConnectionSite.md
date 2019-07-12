@@ -21,7 +21,7 @@ Returns an integer that specifies the connection site that the beginning of a co
 
 _expression_. `BeginConnectionSite`
 
-_expression_ A variable that represents a [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
+_expression_ A variable that represents a [ConnectorFormat](PowerPoint.ConnectorFormat.md) object.
 
 
 ## Return value

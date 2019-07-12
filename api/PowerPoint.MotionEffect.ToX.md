@@ -21,7 +21,7 @@ Sets or returns a  **Single** that represents the horizontal position of a **[Mo
 
 _expression_. `ToX`
 
-_expression_ A variable that represents a [MotionEffect](./PowerPoint.MotionEffect.md) object.
+_expression_ A variable that represents a [MotionEffect](PowerPoint.MotionEffect.md) object.
 
 
 ## Return value

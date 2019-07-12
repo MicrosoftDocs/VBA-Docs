@@ -21,7 +21,7 @@ Determines whether an effect should play forward and then in reverse, thereby do
 
 _expression_. `AutoReverse`
 
-_expression_ A variable that represents an [Timing](./PowerPoint.Timing.md) object.
+_expression_ A variable that represents an [Timing](PowerPoint.Timing.md) object.
 
 
 ## Return value

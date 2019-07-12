@@ -19,7 +19,7 @@ Indicates whether drawings are centered between the left and right edges of the 
 
 ## Syntax
 
-_expression_. `PrintCenteredH`
+_expression_.**PrintCenteredH**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
@@ -31,6 +31,6 @@ Boolean
 
 ## Remarks
 
-The  **PrintCenteredH** property corresponds to the **Center horizontally** check box in the **Print Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group, and then click **Setup** on the **Print Setup** tab).
+The **PrintCenteredH** property corresponds to the **Center horizontally** check box in the **Print Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group, and then click **Setup** on the **Print Setup** tab).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

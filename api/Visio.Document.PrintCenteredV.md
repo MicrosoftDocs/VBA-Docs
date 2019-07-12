@@ -19,7 +19,7 @@ Indicates whether drawings are centered between the top and bottom edges of the 
 
 ## Syntax
 
-_expression_. `PrintCenteredV`
+_expression_.**PrintCenteredV**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
@@ -31,6 +31,6 @@ Boolean
 
 ## Remarks
 
-The  **PrintCenteredV** property corresponds to the **Center vertically** check box in the **Print Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group, and then click **Setup** on the **Print Setup** tab).
+The **PrintCenteredV** property corresponds to the **Center vertically** check box in the **Print Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group, and then click **Setup** on the **Print Setup** tab).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

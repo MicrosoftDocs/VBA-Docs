@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.QueryCancelSelectionDelete event (Visio)
 
-Occurs before the application deletes a selection of shapes in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
+Occurs before the application deletes a selection of shapes in response to a user action in the interface. If any event handler returns **True**, the operation is canceled.
 
 
 ## Syntax
@@ -26,20 +26,18 @@ _expression_ A variable that represents a **[Document](Visio.Document.md)** obje
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Selection_|Required| **[IVSELECTION]**|The selection of shapes that is going to be deleted.|
 
 ## Remarks
 
-A Microsoft Visio instance fires  **QueryCancelSelectionDelete** after the user has directed the instance to delete one or more shapes.
+A Microsoft Visio instance fires **QueryCancelSelectionDelete** after the user has directed the instance to delete one or more shapes.
 
 
 
 
-- If any event handler returns  **True** (cancel), the instance fires **SelectionDeleteCanceled** and does not delete the shapes.
+- If any event handler returns **True** (cancel), the instance fires **SelectionDeleteCanceled** and does not delete the shapes.
     
 - If all handlers return **False** (don't cancel), the instance fires **BeforeSelectionDelete** and **BeforeShapeDelete** and then deletes the shapes.
     

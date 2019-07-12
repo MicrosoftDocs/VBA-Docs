@@ -21,7 +21,7 @@ Selects the specified object.
 
 _expression_.**Select**
 
-_expression_ A variable that represents a [Cell](./PowerPoint.Cell.md) object.
+_expression_ A variable that represents a [Cell](PowerPoint.Cell.md) object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataRecordset.Delete method (Visio)
 
-Deletes the  **[DataRecordset](Visio.DataRecordset.md)** object from the **[DataRecordsets](Visio.DataRecordsets.md)** collection of the document. .
+Deletes the **[DataRecordset](Visio.DataRecordset.md)** object from the **[DataRecordsets](Visio.DataRecordsets.md)** collection of the document. .
 
 
 > [!NOTE] 
@@ -35,14 +35,14 @@ Nothing
 
 ## Remarks
 
-If the  **DataRecordset** object to be deleted is associated with a **[DataConnection](Visio.DataConnection.md)** object, and if that **DataConnection** object is not associated with any other **DataRecordset** objects, Microsoft Visio also deletes the **DataConnection** object.
+If the **DataRecordset** object to be deleted is associated with a **[DataConnection](Visio.DataConnection.md)** object, and if that **DataConnection** object is not associated with any other **DataRecordset** objects, Microsoft Visio also deletes the **DataConnection** object.
 
-Note that deleting a  **DataRecordset** object does not delete the shapes that had been linked to data in that data recordset, nor does delete any existing shape data in those shapes that was created when the shapes were linked to data.
+Note that deleting a **DataRecordset** object does not delete the shapes that had been linked to data in that data recordset, nor does delete any existing shape data in those shapes that was created when the shapes were linked to data.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Delete** method to delete a **DataRecordset** from the **DataRecordsets** collection of the current document. It gets the count of all data recordsets associated with the current document and deletes the one most recently added.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Delete** method to delete a **DataRecordset** from the **DataRecordsets** collection of the current document. It gets the count of all data recordsets associated with the current document and deletes the one most recently added.
 
 
 ```vb

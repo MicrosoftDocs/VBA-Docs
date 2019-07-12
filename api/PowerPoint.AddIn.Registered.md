@@ -21,7 +21,7 @@ Determines whether the specified add-in is registered in the Windows registry. R
 
 _expression_. `Registered`
 
-_expression_ A variable that represents a [AddIn](./PowerPoint.AddIn.md) object.
+_expression_ A variable that represents a [AddIn](PowerPoint.AddIn.md) object.
 
 
 ## Return value

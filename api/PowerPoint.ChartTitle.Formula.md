@@ -21,7 +21,7 @@ Returns or sets the object's formula in A1-style notation. Read/write.
 
 _expression_.**Formula**
 
-_expression_ A variable that represents a [ChartTitle](./PowerPoint.ChartTitle.md) object.
+_expression_ A variable that represents a [ChartTitle](PowerPoint.ChartTitle.md) object.
 
 
 ## See also

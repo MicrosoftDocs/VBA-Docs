@@ -21,7 +21,7 @@ Expands the section in the current  **DocumentWindow**.
 
 _expression_. `ExpandSection`( `_sectionIndex_`, `_Expand_` )
 
-_expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
+_expression_ A variable that represents a [DocumentWindow](PowerPoint.DocumentWindow.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns or sets the character size, in points. Read/write.
 
 _expression_.**Size**
 
-_expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
+_expression_ A variable that represents a [Font](PowerPoint.Font.md) object.
 
 
 ## Return value

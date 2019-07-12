@@ -21,7 +21,7 @@ Gets or sets whether the merged document favors server-side edits when conflicts
 
 _expression_. `FavorServerEditsDuringMerge`
 
-_expression_ A variable that represents a [Coauthoring](./PowerPoint.Coauthoring.md) object.
+_expression_ A variable that represents a [Coauthoring](PowerPoint.Coauthoring.md) object.
 
 
 ## Return value

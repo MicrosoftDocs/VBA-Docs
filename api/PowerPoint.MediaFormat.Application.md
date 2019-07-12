@@ -21,7 +21,7 @@ Returns an  **[Application](PowerPoint.Application.md)** object that represents 
 
 _expression_.**Application**
 
- _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
+ _expression_ An expression that returns a [MediaFormat](PowerPoint.MediaFormat.md) object.
 
 
 ## Return value

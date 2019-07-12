@@ -19,7 +19,7 @@ Gets or sets the text string that appears on the left side of a document's foote
 
 ## Syntax
 
-_expression_. `FooterLeft`
+_expression_.**FooterLeft**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
@@ -31,15 +31,13 @@ String
 
 ## Remarks
 
-You can also set this value in the  **Left** box under **Footer** in the **Header and Footer** dialog box (click the **File** tab, click **Print**, click  **Print Preview**, and then in the  **Preview** group, click **Header & Footer**).
+You can also set this value in the **Left** box under **Footer** in the **Header and Footer** dialog box (click the **File** tab, click **Print**, click **Print Preview**, and then in the **Preview** group, click **Header & Footer**).
 
-Both the string returned by  **FooterLeft** and the string to which you set **FooterLeft** can contain escape codes that represent data. These escape codes can be concatenated with other text.
+Both the string returned by **FooterLeft** and the string to which you set **FooterLeft** can contain escape codes that represent data. These escape codes can be concatenated with other text.
 
 Following is a list of valid escape codes for document footers and headers.
 
-
-
-|** Escape code**|** Description**|
+|Escape code|Description|
 |:-----|:-----|
 | &p| Page number|
 | &t or &T| Current time|

@@ -21,7 +21,7 @@ Determines whether the specified add-in is loaded. Read/write.
 
 _expression_. `Loaded`
 
-_expression_ A variable that represents an [AddIn](./PowerPoint.AddIn.md) object.
+_expression_ A variable that represents an [AddIn](PowerPoint.AddIn.md) object.
 
 
 ## Return value

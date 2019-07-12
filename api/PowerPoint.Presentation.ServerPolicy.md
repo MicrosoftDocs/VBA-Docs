@@ -21,7 +21,7 @@ Returns a Microsoft Office  **[ServerPolicy](Office.ServerPolicy.md)** object. R
 
 _expression_.**ServerPolicy**
 
- _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
+ _expression_ An expression that returns a [Presentation](PowerPoint.Presentation.md) object.
 
 
 ## Return value

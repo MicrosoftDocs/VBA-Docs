@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shapes object (PowerPoint)
 
-A collection of all the  **[Shape](./PowerPoint.Shape.md)** objects on the specified slide.
+A collection of all the  **[Shape](PowerPoint.Shape.md)** objects on the specified slide.
 
 
 ## Remarks
@@ -37,9 +37,9 @@ ActivePresentation.Slides(1).Shapes.SelectAll
 
 
 > [!NOTE] 
-> If you want to do something (like delete or set a property) to all the shapes on a document at the same time, use the [Range](./PowerPoint.Shapes.Range.md)method with no argument to create a  **ShapeRange** object that contains all the shapes in the **Shapes** collection, and then apply the appropriate property or method to the **ShapeRange** object.
+> If you want to do something (like delete or set a property) to all the shapes on a document at the same time, use the [Range](PowerPoint.Shapes.Range.md)method with no argument to create a  **ShapeRange** object that contains all the shapes in the **Shapes** collection, and then apply the appropriate property or method to the **ShapeRange** object.
 
-Use the [AddCallout](./PowerPoint.Shapes.AddCallout.md), [AddComment](overview/PowerPoint.md), [AddConnector](./PowerPoint.Shapes.AddConnector.md), [AddCurve](./PowerPoint.Shapes.AddCurve.md), [AddLabel](./PowerPoint.Shapes.AddLabel.md), [AddLine](./PowerPoint.Shapes.AddLine.md), [AddMediaObject](./PowerPoint.Shapes.AddMediaObject.md), [AddOLEObject](./PowerPoint.Shapes.AddOLEObject.md), [AddPicture](./PowerPoint.Shapes.AddPicture.md), [AddPlaceholder](./PowerPoint.Shapes.AddPlaceholder.md), [AddPolyline](./PowerPoint.Shapes.AddPolyline.md), [AddShape](./PowerPoint.Shapes.AddShape.md), [AddTable](./PowerPoint.Shapes.AddTable.md), [AddTextbox](./PowerPoint.Shapes.AddTextbox.md), [AddTextEffect](./PowerPoint.Shapes.AddTextEffect.md), or [AddTitle](./PowerPoint.Shapes.AddTitle.md)method to create a new shape and add it to the  **Shapes** collection. Use the [BuildFreeform](./PowerPoint.Shapes.BuildFreeform.md)method in conjunction with the [ConvertToShape](./PowerPoint.FreeformBuilder.ConvertToShape.md)method to create a new freeform and add it to the collection. The following example adds a rectangle to the active presentation.
+Use the [AddCallout](PowerPoint.Shapes.AddCallout.md), [AddComment](overview/PowerPoint.md), [AddConnector](PowerPoint.Shapes.AddConnector.md), [AddCurve](PowerPoint.Shapes.AddCurve.md), [AddLabel](PowerPoint.Shapes.AddLabel.md), [AddLine](PowerPoint.Shapes.AddLine.md), [AddMediaObject](PowerPoint.Shapes.AddMediaObject.md), [AddOLEObject](PowerPoint.Shapes.AddOLEObject.md), [AddPicture](PowerPoint.Shapes.AddPicture.md), [AddPlaceholder](PowerPoint.Shapes.AddPlaceholder.md), [AddPolyline](PowerPoint.Shapes.AddPolyline.md), [AddShape](PowerPoint.Shapes.AddShape.md), [AddTable](PowerPoint.Shapes.AddTable.md), [AddTextbox](PowerPoint.Shapes.AddTextbox.md), [AddTextEffect](PowerPoint.Shapes.AddTextEffect.md), or [AddTitle](PowerPoint.Shapes.AddTitle.md)method to create a new shape and add it to the  **Shapes** collection. Use the [BuildFreeform](PowerPoint.Shapes.BuildFreeform.md)method in conjunction with the [ConvertToShape](PowerPoint.FreeformBuilder.ConvertToShape.md)method to create a new freeform and add it to the collection. The following example adds a rectangle to the active presentation.
 
 
 
@@ -96,33 +96,33 @@ End With
 
 |Name|
 |:-----|
-|[AddCallout](./PowerPoint.Shapes.AddCallout.md)|
-|[AddChart2](./PowerPoint.shapes.addchart2.md)|
-|[AddConnector](./PowerPoint.Shapes.AddConnector.md)|
-|[AddCurve](./PowerPoint.Shapes.AddCurve.md)|
-|[AddInkShapeFromXML](./PowerPoint.shapes.addinkshapefromxml.md)|
-|[AddLabel](./PowerPoint.Shapes.AddLabel.md)|
-|[AddLine](./PowerPoint.Shapes.AddLine.md)|
-|[AddMediaObject2](./PowerPoint.Shapes.AddMediaObject2.md)|
-|[AddMediaObjectFromEmbedTag](./PowerPoint.Shapes.AddMediaObjectFromEmbedTag.md)|
-|[AddOLEObject](./PowerPoint.Shapes.AddOLEObject.md)|
-|[AddPicture](./PowerPoint.Shapes.AddPicture.md)|
-|[AddPicture2](./PowerPoint.shapes.addpicture2.md)|
-|[AddPlaceholder](./PowerPoint.Shapes.AddPlaceholder.md)|
-|[AddPolyline](./PowerPoint.Shapes.AddPolyline.md)|
-|[AddShape](./PowerPoint.Shapes.AddShape.md)|
-|[AddSmartArt](./PowerPoint.Shapes.AddSmartArt.md)|
-|[AddTable](./PowerPoint.Shapes.AddTable.md)|
-|[AddTextbox](./PowerPoint.Shapes.AddTextbox.md)|
-|[AddTextEffect](./PowerPoint.Shapes.AddTextEffect.md)|
+|[AddCallout](PowerPoint.Shapes.AddCallout.md)|
+|[AddChart2](PowerPoint.shapes.addchart2.md)|
+|[AddConnector](PowerPoint.Shapes.AddConnector.md)|
+|[AddCurve](PowerPoint.Shapes.AddCurve.md)|
+|[AddInkShapeFromXML](PowerPoint.shapes.addinkshapefromxml.md)|
+|[AddLabel](PowerPoint.Shapes.AddLabel.md)|
+|[AddLine](PowerPoint.Shapes.AddLine.md)|
+|[AddMediaObject2](PowerPoint.Shapes.AddMediaObject2.md)|
+|[AddMediaObjectFromEmbedTag](PowerPoint.Shapes.AddMediaObjectFromEmbedTag.md)|
+|[AddOLEObject](PowerPoint.Shapes.AddOLEObject.md)|
+|[AddPicture](PowerPoint.Shapes.AddPicture.md)|
+|[AddPicture2](PowerPoint.shapes.addpicture2.md)|
+|[AddPlaceholder](PowerPoint.Shapes.AddPlaceholder.md)|
+|[AddPolyline](PowerPoint.Shapes.AddPolyline.md)|
+|[AddShape](PowerPoint.Shapes.AddShape.md)|
+|[AddSmartArt](PowerPoint.Shapes.AddSmartArt.md)|
+|[AddTable](PowerPoint.Shapes.AddTable.md)|
+|[AddTextbox](PowerPoint.Shapes.AddTextbox.md)|
+|[AddTextEffect](PowerPoint.Shapes.AddTextEffect.md)|
 |[Add3DModel](PowerPoint.Shapes.Add3DModel.md)|
-|[AddTitle](./PowerPoint.Shapes.AddTitle.md)|
-|[BuildFreeform](./PowerPoint.Shapes.BuildFreeform.md)|
-|[Item](./PowerPoint.Shapes.Item.md)|
-|[Paste](./PowerPoint.Shapes.Paste.md)|
-|[PasteSpecial](./PowerPoint.Shapes.PasteSpecial.md)|
-|[Range](./PowerPoint.Shapes.Range.md)|
-|[SelectAll](./PowerPoint.Shapes.SelectAll.md)|
+|[AddTitle](PowerPoint.Shapes.AddTitle.md)|
+|[BuildFreeform](PowerPoint.Shapes.BuildFreeform.md)|
+|[Item](PowerPoint.Shapes.Item.md)|
+|[Paste](PowerPoint.Shapes.Paste.md)|
+|[PasteSpecial](PowerPoint.Shapes.PasteSpecial.md)|
+|[Range](PowerPoint.Shapes.Range.md)|
+|[SelectAll](PowerPoint.Shapes.SelectAll.md)|
 
 ## Properties
 
@@ -130,13 +130,13 @@ End With
 
 |Name|
 |:-----|
-|[Application](./PowerPoint.Shapes.Application.md)|
-|[Count](./PowerPoint.Shapes.Count.md)|
-|[Creator](./PowerPoint.Shapes.Creator.md)|
-|[HasTitle](./PowerPoint.Shapes.HasTitle.md)|
-|[Parent](./PowerPoint.Shapes.Parent.md)|
-|[Placeholders](./PowerPoint.Shapes.Placeholders.md)|
-|[Title](./PowerPoint.Shapes.Title.md)|
+|[Application](PowerPoint.Shapes.Application.md)|
+|[Count](PowerPoint.Shapes.Count.md)|
+|[Creator](PowerPoint.Shapes.Creator.md)|
+|[HasTitle](PowerPoint.Shapes.HasTitle.md)|
+|[Parent](PowerPoint.Shapes.Parent.md)|
+|[Placeholders](PowerPoint.Shapes.Placeholders.md)|
+|[Title](PowerPoint.Shapes.Title.md)|
 
 ## See also
 

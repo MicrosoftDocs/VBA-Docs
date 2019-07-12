@@ -21,7 +21,7 @@ Returns  **msoTrue** if the specified effect is a background animation. Read-onl
 
 _expression_. `AnimateBackground`
 
-_expression_ A variable that represents an [EffectInformation](./PowerPoint.EffectInformation.md) object.
+_expression_ A variable that represents an [EffectInformation](PowerPoint.EffectInformation.md) object.
 
 
 ## Remarks

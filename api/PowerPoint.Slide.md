@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Slide object (PowerPoint)
 
-Represents a slide. The  **[Slides](./PowerPoint.Slides.md)** collection contains all the **Slide** objects in a presentation.
+Represents a slide. The  **[Slides](PowerPoint.Slides.md)** collection contains all the **Slide** objects in a presentation.
 
 
 ## Remarks
 
 
 > [!NOTE] 
-> Don't be confused if you are trying to return a reference to a single slide but you end up with a  **[SlideRange](./PowerPoint.SlideRange.md)** object. A single slide can be represented either by a **Slide** object or by a [SlideRange](./PowerPoint.SlideRange.md)collection that contains only one slide, depending on how you return a reference to the slide. For example, if you create and return a reference to a slide by using the  **[Add](./PowerPoint.Presentations.Add.md)** method, the slide is represented by a **Slide** object. However, if you create and return a reference to a slide by using the **[Duplicate](./PowerPoint.Slide.Duplicate.md)** method, the slide is represented by a **SlideRange** collection that contains a single slide. Because all the properties and methods that apply to a **Slide** object also apply to a **SlideRange** collection that contains a single slide, you can work with the returned slide in the same way, regardless of whether it is represented by a **Slide** object or a **SlideRange** collection.
+> Don't be confused if you are trying to return a reference to a single slide but you end up with a  **[SlideRange](PowerPoint.SlideRange.md)** object. A single slide can be represented either by a **Slide** object or by a [SlideRange](PowerPoint.SlideRange.md)collection that contains only one slide, depending on how you return a reference to the slide. For example, if you create and return a reference to a slide by using the  **[Add](PowerPoint.Presentations.Add.md)** method, the slide is represented by a **Slide** object. However, if you create and return a reference to a slide by using the **[Duplicate](PowerPoint.Slide.Duplicate.md)** method, the slide is represented by a **SlideRange** collection that contains a single slide. Because all the properties and methods that apply to a **Slide** object also apply to a **SlideRange** collection that contains a single slide, you can work with the returned slide in the same way, regardless of whether it is represented by a **Slide** object or a **SlideRange** collection.
 
 The following examples describe how to:
 
@@ -96,19 +96,19 @@ ActivePresentation.Slides.Add 1, ppLayoutTitleOnly
 
 |Name|
 |:-----|
-|[ApplyTemplate](./PowerPoint.Slide.ApplyTemplate.md)|
-|[ApplyTemplate2](./PowerPoint.slide.applytemplate2.md)|
-|[ApplyTheme](./PowerPoint.Slide.ApplyTheme.md)|
-|[ApplyThemeColorScheme](./PowerPoint.Slide.ApplyThemeColorScheme.md)|
-|[Copy](./PowerPoint.Slide.Copy.md)|
-|[Cut](./PowerPoint.Slide.Cut.md)|
-|[Delete](./PowerPoint.Slide.Delete.md)|
-|[Duplicate](./PowerPoint.Slide.Duplicate.md)|
-|[Export](./PowerPoint.Slide.Export.md)|
-|[MoveTo](./PowerPoint.Slide.MoveTo.md)|
-|[MoveToSectionStart](./PowerPoint.Slide.MoveToSectionStart.md)|
-|[PublishSlides](./PowerPoint.Slide.PublishSlides.md)|
-|[Select](./PowerPoint.Slide.Select.md)|
+|[ApplyTemplate](PowerPoint.Slide.ApplyTemplate.md)|
+|[ApplyTemplate2](PowerPoint.slide.applytemplate2.md)|
+|[ApplyTheme](PowerPoint.Slide.ApplyTheme.md)|
+|[ApplyThemeColorScheme](PowerPoint.Slide.ApplyThemeColorScheme.md)|
+|[Copy](PowerPoint.Slide.Copy.md)|
+|[Cut](PowerPoint.Slide.Cut.md)|
+|[Delete](PowerPoint.Slide.Delete.md)|
+|[Duplicate](PowerPoint.Slide.Duplicate.md)|
+|[Export](PowerPoint.Slide.Export.md)|
+|[MoveTo](PowerPoint.Slide.MoveTo.md)|
+|[MoveToSectionStart](PowerPoint.Slide.MoveToSectionStart.md)|
+|[PublishSlides](PowerPoint.Slide.PublishSlides.md)|
+|[Select](PowerPoint.Slide.Select.md)|
 
 ## Properties
 
@@ -116,34 +116,34 @@ ActivePresentation.Slides.Add 1, ppLayoutTitleOnly
 
 |Name|
 |:-----|
-|[Application](./PowerPoint.Slide.Application.md)|
-|[Background](./PowerPoint.Slide.Background.md)|
-|[BackgroundStyle](./PowerPoint.Slide.BackgroundStyle.md)|
-|[ColorScheme](./PowerPoint.Slide.ColorScheme.md)|
-|[Comments](./PowerPoint.Slide.Comments.md)|
-|[CustomerData](./PowerPoint.Slide.CustomerData.md)|
-|[CustomLayout](./PowerPoint.Slide.CustomLayout.md)|
-|[Design](./PowerPoint.Slide.Design.md)|
-|[DisplayMasterShapes](./PowerPoint.Slide.DisplayMasterShapes.md)|
-|[FollowMasterBackground](./PowerPoint.Slide.FollowMasterBackground.md)|
-|[HasNotesPage](./PowerPoint.Slide.HasNotesPage.md)|
-|[HeadersFooters](./PowerPoint.Slide.HeadersFooters.md)|
-|[Hyperlinks](./PowerPoint.Slide.Hyperlinks.md)|
-|[Layout](./PowerPoint.Slide.Layout.md)|
-|[Master](./PowerPoint.Slide.Master.md)|
-|[Name](./PowerPoint.Slide.Name.md)|
-|[NotesPage](./PowerPoint.Slide.NotesPage.md)|
-|[Parent](./PowerPoint.Slide.Parent.md)|
-|[PrintSteps](./PowerPoint.Slide.PrintSteps.md)|
-|[sectionIndex](./PowerPoint.Slide.sectionIndex.md)|
-|[Shapes](./PowerPoint.Slide.Shapes.md)|
-|[SlideID](./PowerPoint.Slide.SlideID.md)|
-|[SlideIndex](./PowerPoint.Slide.SlideIndex.md)|
-|[SlideNumber](./PowerPoint.Slide.SlideNumber.md)|
-|[SlideShowTransition](./PowerPoint.Slide.SlideShowTransition.md)|
-|[Tags](./PowerPoint.Slide.Tags.md)|
-|[ThemeColorScheme](./PowerPoint.Slide.ThemeColorScheme.md)|
-|[TimeLine](./PowerPoint.Slide.TimeLine.md)|
+|[Application](PowerPoint.Slide.Application.md)|
+|[Background](PowerPoint.Slide.Background.md)|
+|[BackgroundStyle](PowerPoint.Slide.BackgroundStyle.md)|
+|[ColorScheme](PowerPoint.Slide.ColorScheme.md)|
+|[Comments](PowerPoint.Slide.Comments.md)|
+|[CustomerData](PowerPoint.Slide.CustomerData.md)|
+|[CustomLayout](PowerPoint.Slide.CustomLayout.md)|
+|[Design](PowerPoint.Slide.Design.md)|
+|[DisplayMasterShapes](PowerPoint.Slide.DisplayMasterShapes.md)|
+|[FollowMasterBackground](PowerPoint.Slide.FollowMasterBackground.md)|
+|[HasNotesPage](PowerPoint.Slide.HasNotesPage.md)|
+|[HeadersFooters](PowerPoint.Slide.HeadersFooters.md)|
+|[Hyperlinks](PowerPoint.Slide.Hyperlinks.md)|
+|[Layout](PowerPoint.Slide.Layout.md)|
+|[Master](PowerPoint.Slide.Master.md)|
+|[Name](PowerPoint.Slide.Name.md)|
+|[NotesPage](PowerPoint.Slide.NotesPage.md)|
+|[Parent](PowerPoint.Slide.Parent.md)|
+|[PrintSteps](PowerPoint.Slide.PrintSteps.md)|
+|[sectionIndex](PowerPoint.Slide.sectionIndex.md)|
+|[Shapes](PowerPoint.Slide.Shapes.md)|
+|[SlideID](PowerPoint.Slide.SlideID.md)|
+|[SlideIndex](PowerPoint.Slide.SlideIndex.md)|
+|[SlideNumber](PowerPoint.Slide.SlideNumber.md)|
+|[SlideShowTransition](PowerPoint.Slide.SlideShowTransition.md)|
+|[Tags](PowerPoint.Slide.Tags.md)|
+|[ThemeColorScheme](PowerPoint.Slide.ThemeColorScheme.md)|
+|[TimeLine](PowerPoint.Slide.TimeLine.md)|
 
 ## See also
 

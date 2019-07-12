@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataColumn.Document property (Visio)
 
-Gets the  **Document** object that contains the **DataColumn** object. Read-only.
+Gets the **Document** object that contains the **DataColumn** object. Read-only.
 
 
 > [!NOTE] 

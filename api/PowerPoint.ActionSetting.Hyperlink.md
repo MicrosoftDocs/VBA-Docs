@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # ActionSetting.Hyperlink property (PowerPoint)
 
-Returns a  **[Hyperlink](PowerPoint.Hyperlink.md)** object that represents the hyperlink for the specified shape. Read-only.
+Returns a **[Hyperlink](PowerPoint.Hyperlink.md)** object that represents the hyperlink for the specified shape. Read-only.
 
 
 ## Syntax
 
 _expression_.**Hyperlink**
 
-_expression_ A variable that represents a [ActionSetting](./PowerPoint.ActionSetting.md) object.
+_expression_ A variable that represents an **[ActionSetting](PowerPoint.ActionSetting.md)** object.
 
 
 ## Return value
@@ -31,7 +31,7 @@ Hyperlink
 
 ## Remarks
 
-For the hyperlink to be active during a slide show, the  **[Action](PowerPoint.ActionSetting.Action.md)** property must be set to **ppActionHyperlink**.
+For the hyperlink to be active during a slide show, the **[Action](PowerPoint.ActionSetting.Action.md)** property must be set to **ppActionHyperlink**.
 
 
 ## Example
@@ -48,9 +48,6 @@ End With
 ```
 
 
-## See also
 
-
-[ActionSetting Object](PowerPoint.ActionSetting.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

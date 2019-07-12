@@ -19,14 +19,12 @@ Returns a document from a local computer to a Microsoft SharePoint Server comput
 
 ## Syntax
 
-_expression_. `CheckIn`( `_SaveChanges_` , `_Comments_` , `_MakePublic_` )
+_expression_.**CheckIn** (_SaveChanges_, _Comments_, _MakePublic_)
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -43,7 +41,7 @@ Nothing
 
 To check in a file, it must be stored in a document library on a computer running Microsoft SharePoint Server or Microsoft SharePoint Foundation.
 
-After the document has been checked in using the  **CheckIn** method, the document is closed. This behavior is different from the user interface; when you check in a document in the user interface, the document is closed and re-opened as read-only.
+After the document has been checked in using the **CheckIn** method, the document is closed. This behavior is different from the user interface; when you check in a document in the user interface, the document is closed and re-opened as read-only.
 
 
 ## Example
@@ -65,10 +63,9 @@ Sub CheckDocIn(varDocCheckIn As Variant)
 End Sub
 ```
 
-To call the preceding  **CheckDocIn** subroutine, use the following subroutine and replace _servername/workspace/drawing.vdx_ with the path to and name of an actual file located on a Microsoft SharePoint Server computer.
+<br/>
 
-
-
+To call the preceding **CheckDocIn** subroutine, use the following subroutine and replace _servername/workspace/drawing.vdx_ with the path to and name of an actual file located on a Microsoft SharePoint Server computer.
 
 ```vb
 Sub DocIn()  

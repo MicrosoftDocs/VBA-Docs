@@ -19,14 +19,12 @@ Returns the gap between adjacent member shapes in the list.
 
 ## Syntax
 
-_expression_. `GetListSpacing`( `_SpacingUnits_` )
+_expression_.**GetListSpacing** (_SpacingUnits_)
 
 _expression_ A variable that represents a **[ContainerProperties](Visio.ContainerProperties.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,7 +32,7 @@ _expression_ A variable that represents a **[ContainerProperties](Visio.Containe
 
 ## Return value
 
- **Double**
+**Double**
 
 
 ## Remarks

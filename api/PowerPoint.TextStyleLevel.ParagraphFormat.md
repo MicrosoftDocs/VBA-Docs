@@ -21,7 +21,7 @@ Returns a  **[ParagraphFormat](PowerPoint.ParagraphFormat.md)** object that repr
 
 _expression_. `ParagraphFormat`
 
-_expression_ A variable that represents a [TextStyleLevel](./PowerPoint.TextStyleLevel.md) object.
+_expression_ A variable that represents a [TextStyleLevel](PowerPoint.TextStyleLevel.md) object.
 
 
 ## Return value

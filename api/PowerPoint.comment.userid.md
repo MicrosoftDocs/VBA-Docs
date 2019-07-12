@@ -19,7 +19,7 @@ Returns a  **String** that represents user ID of the contact. Read-only.
 
 _expression_. `UserID`
 
-_expression_ A variable that represents a [Comment](./PowerPoint.Comment.md) object.
+_expression_ A variable that represents a [Comment](PowerPoint.Comment.md) object.
 
 
 ## Property value

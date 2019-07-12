@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataRecordsets.Application property (Visio)
 
-Returns the instance of Microsoft Visio associated with the  **DataRecordsets** collection. Read-only.
+Returns the instance of Microsoft Visio associated with the **DataRecordsets** collection. Read-only.
 
 
 > [!NOTE] 

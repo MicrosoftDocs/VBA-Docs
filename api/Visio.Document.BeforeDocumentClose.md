@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[Document](Visio.Document.md)** obje
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _doc_|Required| **[IVDOCUMENT]**|The document that is going to be closed.|

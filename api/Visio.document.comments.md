@@ -9,24 +9,21 @@ localization_priority: Normal
 
 # Document.Comments property (Visio)
 
-Returns a [Comments](Visio.comments.md) object that represents the collection of all the reviewer comments in the document. Read-only.
+Returns a **[Comments](Visio.comments.md)** object that represents the collection of all the reviewer comments in the document. Read-only.
 
 
 ## Syntax
 
-_expression_. `Comments`
+_expression_.**Comments**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Property value
 
- **IVCOMMENTS**
+**IVCOMMENTS**
 
 
-## See also
 
-
-[Document Object](Visio.Document.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

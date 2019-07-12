@@ -21,7 +21,7 @@ Determines whether the specified bullets are set to the color of the first text 
 
 _expression_. `UseTextColor`
 
-_expression_ A variable that represents an [BulletFormat](./PowerPoint.BulletFormat.md) object.
+_expression_ A variable that represents an [BulletFormat](PowerPoint.BulletFormat.md) object.
 
 
 ## Return value

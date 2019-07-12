@@ -23,9 +23,9 @@ After data in a data recordset are refreshed, returns an array of names of data 
 
 ## Syntax
 
-_expression_. `DataColumnsDeleted`
+_expression_.**DataColumnsDeleted**
 
- _expression_ An expression that returns a **[DataRecordsetChangedEvent](Visio.DataRecordsetChangedEvent.md)** object.
+_expression_ An expression that returns a **[DataRecordsetChangedEvent](Visio.DataRecordsetChangedEvent.md)** object.
 
 
 ## Return value
@@ -35,6 +35,6 @@ String()
 
 ## Remarks
 
-The columns returned by this property have already been deleted. As a result, you can no longer use Visio Automation properties or methods to retrieve the  **DataColumn** objects that represented the columns, nor any information about data formerly in these columns.
+The columns returned by this property have already been deleted. As a result, you can no longer use Visio Automation properties or methods to retrieve the **DataColumn** objects that represented the columns, nor any information about data formerly in these columns.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

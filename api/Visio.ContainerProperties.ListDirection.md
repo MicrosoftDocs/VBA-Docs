@@ -26,14 +26,12 @@ _expression_ An expression that returns a **[ContainerProperties](Visio.Containe
 
 ## Return value
 
- **[VisListDirection](Visio.VisListDirection.md)**
+**[VisListDirection](Visio.VisListDirection.md)**
 
 
 ## Remarks
 
-The value of the  **ListDirection** property can be one of the following **VisListDirection** constants.
-
-
+The value of the **ListDirection** property can be one of the following **VisListDirection** constants.
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -42,6 +40,6 @@ The value of the  **ListDirection** property can be one of the following **VisLi
 | **visListDirTopToBottom**|2|Shapes are arranged vertically, from top to bottom.|
 | **visListDirBottomToTop**|3|Shapes are arranged vertically, from bottom to top.|
 
-If the container is not a list, Microsoft Visio returns an  **Invalid Source** error.
+If the container is not a list, Microsoft Visio returns an **Invalid Source** error.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

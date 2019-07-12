@@ -21,7 +21,7 @@ Determines if and under what circumstances Microsoft PowerPoint returns to the i
 
 _expression_. `ShowAndReturn`
 
-_expression_ A variable that represents an [ActionSetting](./PowerPoint.ActionSetting.md) object.
+_expression_ A variable that represents an **[ActionSetting](PowerPoint.ActionSetting.md)** object.
 
 
 ## Return value
@@ -31,7 +31,7 @@ MsoTriState
 
 ## Remarks
 
-The value of the  **ShowAndReturn** property can be one of these **MsoTriState** constants.
+The value of the **ShowAndReturn** property can be one of these **MsoTriState** constants.
 
 
 

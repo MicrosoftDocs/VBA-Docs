@@ -21,7 +21,7 @@ Returns a single  **AnimationPoint** object from the specified **AnimationPoints
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents an [AnimationPoints](./PowerPoint.AnimationPoints.md) object.
+_expression_ A variable that represents an [AnimationPoints](PowerPoint.AnimationPoints.md) object.
 
 
 ## Parameters

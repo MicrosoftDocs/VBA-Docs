@@ -9,19 +9,16 @@ localization_priority: Normal
 
 # Document.EditorCount property (Visio)
 
-Returns a  **Long** that represents the number of editors of a co authored document. Read-only.
+Returns a **Long** that represents the number of editors of a co authored document. Read-only.
 
 
 ## Syntax
 
-_expression_. `EditorCount`
+_expression_.**EditorCount**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
-## See also
 
-
-[Document Object](Visio.Document.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

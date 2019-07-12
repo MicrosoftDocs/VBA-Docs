@@ -21,7 +21,7 @@ Returns a  **[Shapes](PowerPoint.Shapes.md)** collection that represents all the
 
 _expression_.**Shapes**
 
-_expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
+_expression_ A variable that represents a [SlideRange](PowerPoint.SlideRange.md) object.
 
 
 ## Return value

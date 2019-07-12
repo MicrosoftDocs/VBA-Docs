@@ -21,7 +21,7 @@ Activates the specified object.
 
 _expression_.**Activate**
 
-_expression_ A variable that represents a [SlideShowWindow](./PowerPoint.SlideShowWindow.md) object.
+_expression_ A variable that represents a [SlideShowWindow](PowerPoint.SlideShowWindow.md) object.
 
 
 ## See also

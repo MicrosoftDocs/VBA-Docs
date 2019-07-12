@@ -21,7 +21,7 @@ Returns or sets the text direction for the specified paragraph. Read/write.
 
 _expression_. `TextDirection`
 
-_expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
+_expression_ A variable that represents a [ParagraphFormat](PowerPoint.ParagraphFormat.md) object.
 
 
 ## Return value

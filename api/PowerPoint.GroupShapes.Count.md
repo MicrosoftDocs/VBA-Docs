@@ -21,7 +21,7 @@ Returns the number of objects in the specified collection. Read-only.
 
 _expression_.**Count**
 
-_expression_ A variable that represents a [GroupShapes](./PowerPoint.GroupShapes.md) object.
+_expression_ A variable that represents a [GroupShapes](PowerPoint.GroupShapes.md) object.
 
 
 ## Return value

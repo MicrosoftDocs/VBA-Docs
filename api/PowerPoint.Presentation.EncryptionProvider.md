@@ -21,7 +21,7 @@ Returns a  **String** that specifies the name of the algorithm encryption provid
 
 _expression_. `EncryptionProvider`
 
- _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
+ _expression_ An expression that returns a [Presentation](PowerPoint.Presentation.md) object.
 
 
 ## Return value

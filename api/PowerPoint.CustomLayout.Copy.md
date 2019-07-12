@@ -21,7 +21,7 @@ Copies the specified object to the Clipboard.
 
 _expression_.**Copy**
 
-_expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
+_expression_ A variable that represents a [CustomLayout](PowerPoint.CustomLayout.md) object.
 
 
 ## Remarks
