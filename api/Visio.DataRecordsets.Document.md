@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # DataRecordsets.Document property (Visio)
 
-Gets the  **Document** object that contains the **DataRecordsets** collection. Read-only.
+Gets the **Document** object that contains the **DataRecordsets** collection. Read-only.
 
 
 > [!NOTE] 
@@ -22,7 +22,7 @@ Gets the  **Document** object that contains the **DataRecordsets** collection. R
 
 _expression_.**Document**
 
- _expression_ An expression that returns a **[DataRecordsets](Visio.DataRecordsets.md)** object.
+_expression_ An expression that returns a **[DataRecordsets](Visio.DataRecordsets.md)** object.
 
 
 ## Return value

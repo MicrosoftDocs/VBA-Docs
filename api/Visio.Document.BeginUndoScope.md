@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[Document](Visio.Document.md)** obje
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _bstrUndoScopeName_|Required| **String**|The name of the scope; could appear in the Visio user interface.|

@@ -19,14 +19,12 @@ Parses a line of Microsoft Visual Basic code.
 
 ## Syntax
 
-_expression_. `ParseLine`( `_Line_` )
+_expression_.**ParseLine** (_Line_)
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -39,9 +37,9 @@ Nothing
 
 ## Remarks
 
-The  **ParseLine** method tells the Microsoft Visual Basic for Applications (VBA) project of the **Document** object to parse the string passed to it as an argument.
+The **ParseLine** method tells the Microsoft Visual Basic for Applications (VBA) project of the **Document** object to parse the string passed to it as an argument.
 
- The **ParseLine** method raises an exception if the string fails to parse.
+The **ParseLine** method raises an exception if the string fails to parse.
 
 
 ## Example

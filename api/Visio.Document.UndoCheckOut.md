@@ -19,9 +19,9 @@ Closes a Microsoft Visio document checked out from a Microsoft SharePoint Server
 
 ## Syntax
 
-_expression_. `UndoCheckOut`
+_expression_.**UndoCheckOut**
 
- _expression_ An expression that returns a **[Document](Visio.Document.md)** object.
+_expression_ An expression that returns a **[Document](Visio.Document.md)** object.
 
 
 ## Return value
@@ -31,12 +31,12 @@ Nothing
 
 ## Remarks
 
-Calling the  **UndoCheckOut** method is the equivalent of clicking **Discard Check Out** on the **Check In** drop-down menu (click the **File** tab, and then click **Info**).
+Calling the **UndoCheckOut** method is the equivalent of clicking **Discard Check Out** on the **Check In** drop-down menu (click the **File** tab, and then click **Info**).
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **UndoCheckOut** method to undo the checkout of the active document from a SharePoint server. Before running this macro, check out a Visio document from a SharePoint Server site.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **UndoCheckOut** method to undo the checkout of the active document from a SharePoint server. Before running this macro, check out a Visio document from a SharePoint Server site.
 
 
 ```vb

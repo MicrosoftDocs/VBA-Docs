@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[Document](Visio.Document.md)** obje
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _bstrScopeName_|Required| **String**|The new name of the undo scope.|
@@ -39,6 +37,6 @@ Nothing
 
 ## Remarks
 
-The new name assigned to the undo scope appears on the  **Undo** menu as the item name. If there is no open undo scope, the **RenameCurrentScope** method raises an exception.
+The new name assigned to the undo scope appears on the **Undo** menu as the item name. If there is no open undo scope, the **RenameCurrentScope** method raises an exception.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

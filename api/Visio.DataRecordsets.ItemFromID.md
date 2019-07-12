@@ -16,7 +16,6 @@ localization_priority: Normal
 
 Returns a **DataRecordset** object from the **DataRecordsets** collection by using the unique ID of the object. Read-only.
 
-
 > [!NOTE] 
 > This Visio object or member is available only to licensed users of Visio Professional 2013.
 

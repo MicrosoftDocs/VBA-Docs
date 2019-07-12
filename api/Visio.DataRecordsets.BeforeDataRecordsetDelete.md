@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataRecordsets.BeforeDataRecordsetDelete event (Visio)
 
-Occurs before a  **DataRecordset** object is deleted from the **DataRecordsets** collection.
+Occurs before a **DataRecordset** object is deleted from the **DataRecordsets** collection.
 
 
 > [!NOTE] 
@@ -25,12 +25,10 @@ Occurs before a  **DataRecordset** object is deleted from the **DataRecordsets**
 
 _expression_.**BeforeDataRecordsetDelete** (_DataRecordset_)
 
- _expression_ An expression that returns a **[DataRecordsets](Visio.DataRecordsets.md)** object.
+_expression_ An expression that returns a **[DataRecordsets](Visio.DataRecordsets.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

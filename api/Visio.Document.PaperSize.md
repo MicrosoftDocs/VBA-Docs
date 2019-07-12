@@ -33,8 +33,6 @@ VisPaperSizes
 
 Setting the **PaperSize** property is the equivalent of choosing a printer paper size on the **Print Setup** tab of the **Page Setup** dialog box (on the **Design** tab, click the **Page Setup** arrow). The value of **PaperSize** can be one of the following **VisPaperSizes** constants.
 
-
-
 |Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visPaperSizeUnknown**| 0| Not known|

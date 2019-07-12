@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Slide.Comments property (PowerPoint)
 
-Returns a  **[Comments](PowerPoint.Comments.md)** object that represents a collection of comments. Read-only.
+Returns a **[Comments](PowerPoint.Comments.md)** object that represents a collection of comments. Read-only.
 
 
 ## Syntax
 
-_expression_. `Comments`
+_expression_.**Comments**
 
-_expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
+_expression_ A variable that represents a **[Slide](PowerPoint.Slide.md)** object.
 
 
 ## Return value
@@ -45,9 +45,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Slide Object](PowerPoint.Slide.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

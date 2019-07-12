@@ -19,7 +19,7 @@ Determines if personal information about a file is saved when the user saves the
 
 ## Syntax
 
-_expression_. `RemovePersonalInformation`
+_expression_.**RemovePersonalInformation**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
@@ -31,8 +31,8 @@ Boolean
 
 ## Remarks
 
-The personal information that can be saved with a file appears on the  **Summary** tab of the **Properties** dialog box (click the **File** tab, click **Info**, click  **Properties**, and then click  **Advanced Properties**). Alternatively, you can use various Automation properties, for example the  **Document.Creator** property, to set this information.
+The personal information that can be saved with a file appears on the **Summary** tab of the **Properties** dialog box (click the **File** tab, click **Info**, click **Properties**, and then click **Advanced Properties**). Alternatively, you can use various Automation properties, for example the **Document.Creator** property, to set this information.
 
-Setting the  **RemovePersonalInformation** property is equivalent to setting the **Remove personal information from file properties on save** option under **Document-specific settings** on the **Privacy Options** page of the **Trust Center** dialog box (click the **File** tab, click **Options**, click  **Trust Center**, and then click  **Trust Center Settings**).
+Setting the **RemovePersonalInformation** property is equivalent to setting the **Remove personal information from file properties on save** option under **Document-specific settings** on the **Privacy Options** page of the **Trust Center** dialog box (click the **File** tab, click **Options**, click **Trust Center**, and then click **Trust Center Settings**).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

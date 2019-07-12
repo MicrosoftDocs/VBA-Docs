@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.MasterDeleteCanceled event (Visio)
 
-Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelMasterDelete** event.
+Occurs after an event handler has returned **True** (cancel) to a **QueryCancelMasterDelete** event.
 
 
 ## Syntax
@@ -25,8 +25,6 @@ _expression_ A variable that represents a **[Document](Visio.Document.md)** obje
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

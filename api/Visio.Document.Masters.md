@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Document.Masters property (Visio)
 
-Returns the  **Masters** collection for a document's stencil. Read-only.
+Returns the **Masters** collection for a document's stencil. Read-only.
 
 
 ## Syntax
 
-_expression_. `Masters`
+_expression_.**Masters**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
@@ -34,12 +34,12 @@ Masters
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVDocument.Masters**
+- **Microsoft.Office.Interop.Visio.IVDocument.Masters**
     
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) program shows how to use the  **Masters** property to print all the master shape names in the current document to the Immediate window.
+This Microsoft Visual Basic for Applications (VBA) program shows how to use the **Masters** property to print all the master shape names in the current document to the Immediate window.
 
 
 

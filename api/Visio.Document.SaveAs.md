@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[Document](Visio.Document.md)** obje
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The file name for the document.|
@@ -39,19 +37,19 @@ Integer
 
 ## Remarks
 
-The  **SaveAs** method can accept drive names that use the universal naming convention (UNC), for example, \\corporation\marketing.
+The **SaveAs** method can accept drive names that use the universal naming convention (UNC), for example, \\corporation\marketing.
 
 Beginning with Visio 2002, you can save your drawing as an XML drawing (.vdx), an XML stencil (.vsx), or an XML template (.vtx).
 
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this method maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVDocument.SaveAs(string)**
+- **Microsoft.Office.Interop.Visio.IVDocument.SaveAs(string)**
     
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **SaveAs** method. Before running this macro, change path to the location where you want to save the drawing, and change filename to the name you'd like to assign the file.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **SaveAs** method. Before running this macro, change path to the location where you want to save the drawing, and change filename to the name you'd like to assign the file.
 
 
 ```vb

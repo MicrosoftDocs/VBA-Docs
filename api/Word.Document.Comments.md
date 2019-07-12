@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Document.Comments property (Word)
 
-Returns a  **[Comments](Word.comments.md)** collection that represents all the comments in the specified document. Read-only.
+Returns a **[Comments](Word.comments.md)** collection that represents all the comments in the specified document. Read-only.
 
 
 ## Syntax
 
-_expression_. `Comments`
+_expression_.**Comments**
 
 _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
@@ -31,8 +31,7 @@ For information about returning a single member of a collection, see [Returning 
 
 ## Example
 
-This example compares the author name of each comment in the active document with the user name on the  **User Information** tab in the **Options** dialog box (**Tools** menu). If the names aren't the same, the comment reference mark is formatted to appear in red.
-
+This example compares the author name of each comment in the active document with the user name on the **User Information** tab in the **Options** dialog box (**Tools** menu). If the names aren't the same, the comment reference mark is formatted to appear in red.
 
 ```vb
 For Each comm In ActiveDocument.Comments 
@@ -42,9 +41,6 @@ Next comm
 ```
 
 
-## See also
 
-
-[Document Object](Word.Document.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

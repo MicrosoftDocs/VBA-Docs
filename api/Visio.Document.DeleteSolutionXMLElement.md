@@ -19,14 +19,12 @@ Deletes the named SolutionXML element.
 
 ## Syntax
 
-_expression_. `DeleteSolutionXMLElement`( `_ElementName_` )
+_expression_.**DeleteSolutionXMLElement** (_ElementName_)
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

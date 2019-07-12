@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Document.MasterShortcuts property (Visio)
 
-Returns the  **MasterShortcuts** collection for a document stencil. Read-only.
+Returns the **MasterShortcuts** collection for a document stencil. Read-only.
 
 
 ## Syntax
 
-_expression_. `MasterShortcuts`
+_expression_.**MasterShortcuts**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
@@ -31,23 +31,18 @@ MasterShortcuts
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **MasterShortcuts** property to get the collection of master shortcuts in a document stencil.
-
-
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **MasterShortcuts** property to get the collection of master shortcuts in a document stencil.
 
 Before running this example, replace the reference to  _StencilWithShortcuts.vss_ with a reference to a valid .vss file that contains master shortcuts.
 
 
 ### To create a stencil that contains master shortcuts:
 
-
-
-
-1.  Open an existing stencil. (In the **Shapes** window, click **More Shapes**, click  **Open Stencil**, and then double-click a stencil.)
+1.  Open an existing stencil. (In the **Shapes** window, click **More Shapes**, click **Open Stencil**, and then double-click a stencil.)
     
 2.  Right-click a master in the stencil and click **Copy**.
     
-3.  Create a new stencil. (In the **Shapes** window, click **More Shapes**, and then click  **New Stencil (US Units)** or **New Stencil (Metric)**.)
+3.  Create a new stencil. (In the **Shapes** window, click **More Shapes**, and then click **New Stencil (US Units)** or **New Stencil (Metric)**.)
     
 4.  Right-click the new stencil and click **Paste Shortcut**.
     
@@ -56,9 +51,6 @@ Before running this example, replace the reference to  _StencilWithShortcuts.vss
 
 
 In the following code, replace  _StencilWithShortcuts.vss_ with the name of your new stencil.
-
-
-
 
 ```vb
  
