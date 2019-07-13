@@ -21,7 +21,7 @@ Sets the languages for the translation service.
 
 _expression_.**SetLanguagePair** (_Language1_, _Language2_)
 
- _expression_ An expression that returns a [Research](./PowerPoint.Research.md) object.
+ _expression_ An expression that returns a [Research](PowerPoint.Research.md) object.
 
 
 ## Parameters

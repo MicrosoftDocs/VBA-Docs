@@ -14,26 +14,23 @@ localization_priority: Normal
 
 # ExchangeDistributionList.Comments property (Outlook)
 
-Returns a  **String** representing the comments for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read/write.
+Returns a **String** representing the comments for the **ExchangeDistributionList**. Read/write.
 
 
 ## Syntax
 
-_expression_. `Comments`
+_expression_.**Comments**
 
-_expression_ A variable that represents an [ExchangeDistributionList](Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object.
 
 
 ## Remarks
 
-This property corresponds to the MAPI property,  **PidTagComment**.
+This property corresponds to the MAPI property, **PidTagComment**.
 
- Returns an empty string if this property has not been implemented or does not exist for the **ExchangeDistributionList** object.
-
-
-## See also
+Returns an empty string if this property has not been implemented or does not exist for the **ExchangeDistributionList** object.
 
 
-[ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

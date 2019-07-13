@@ -12,19 +12,16 @@ localization_priority: Normal
 
 # Engagement.Comments property (Project)
 
-The Comments property for the Engagement object. Introduced in Office 2016.
+The **Comments** property for the **Engagement** object. Introduced in Office 2016.
 
 
 ## Syntax
 
-_expression_. `Comments`
+_expression_.**Comments**
 
-_expression_ A variable that represents a 'Engagement' object.
-
-
-## See also
+_expression_ A variable that represents an **[Engagement](Project.engagement.md)** object.
 
 
-[Engagement object (Project)](Project.engagement.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

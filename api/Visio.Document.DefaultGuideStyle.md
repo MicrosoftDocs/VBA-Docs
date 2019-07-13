@@ -19,7 +19,7 @@ Gets or sets the default guide style of a document. Read/write.
 
 ## Syntax
 
-_expression_. `DefaultGuideStyle`
+_expression_.**DefaultGuideStyle**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
@@ -31,6 +31,6 @@ String
 
 ## Remarks
 
-The  **DefaultGuideStyle** property specifies what style is applied to new guides created in the document.
+The **DefaultGuideStyle** property specifies what style is applied to new guides created in the document.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

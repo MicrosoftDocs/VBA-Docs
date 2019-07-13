@@ -21,7 +21,7 @@ Determines whether the Visual Basic for Applications (VBA) project for the speci
 
 _expression_. `VBASigned`
 
-_expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a [Presentation](PowerPoint.Presentation.md) object.
 
 
 ## Return value

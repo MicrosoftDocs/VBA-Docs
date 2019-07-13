@@ -19,7 +19,7 @@ Indicates whether a document's drawings are printed in landscape or portrait ori
 
 ## Syntax
 
-_expression_. `PrintLandscape`
+_expression_.**PrintLandscape**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
@@ -31,6 +31,6 @@ Boolean
 
 ## Remarks
 
-The  **PrintLandscape** property corresponds to the **Portrait** and **Landscape** settings in the **Print Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group).
+The **PrintLandscape** property corresponds to the **Portrait** and **Landscape** settings in the **Print Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

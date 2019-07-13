@@ -19,19 +19,19 @@ Returns an array of shape identifiers (IDs) of member shapes in the list.
 
 ## Syntax
 
-_expression_. `GetListMembers`
+_expression_.**GetListMembers**
 
 _expression_ A variable that represents a **[ContainerProperties](Visio.ContainerProperties.md)** object.
 
 
 ## Return value
 
- **Long()**
+**Long()**
 
 
 ## Remarks
 
- **GetListMembers** returns an empty array if there are no shapes in the list.
+**GetListMembers** returns an empty array if there are no shapes in the list.
 
 If the container is not a list, Microsoft Visio returns an Invalid Source error.
 

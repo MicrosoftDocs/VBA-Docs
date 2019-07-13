@@ -21,7 +21,7 @@ Determines whether the specified bullets are set to the font of the first text c
 
 _expression_. `UseTextFont`
 
-_expression_ A variable that represents an [BulletFormat](./PowerPoint.BulletFormat.md) object.
+_expression_ A variable that represents an [BulletFormat](PowerPoint.BulletFormat.md) object.
 
 
 ## Return value

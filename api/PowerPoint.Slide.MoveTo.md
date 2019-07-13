@@ -21,7 +21,7 @@ Moves the specified object to a specific location within the same collection, re
 
 _expression_. `MoveTo`( `_toPos_` )
 
-_expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
+_expression_ A variable that represents a [Slide](PowerPoint.Slide.md) object.
 
 
 ## Parameters

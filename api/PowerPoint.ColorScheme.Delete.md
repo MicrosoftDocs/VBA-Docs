@@ -21,7 +21,7 @@ Deletes the specified  **ColorScheme** object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [ColorScheme](./PowerPoint.ColorScheme.md) object.
+_expression_ A variable that represents a [ColorScheme](PowerPoint.ColorScheme.md) object.
 
 
 ## See also

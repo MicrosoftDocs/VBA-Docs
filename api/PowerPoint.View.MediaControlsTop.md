@@ -21,7 +21,7 @@ Returns the distance, in [points](../language/glossary/vbe-glossary.md#point), f
 
 _expression_. `MediaControlsTop`
 
-_expression_ A variable that represents a [View](./PowerPoint.View.md) object.
+_expression_ A variable that represents a [View](PowerPoint.View.md) object.
 
 
 ## Return value

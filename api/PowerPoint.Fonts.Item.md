@@ -21,7 +21,7 @@ Returns a single  **Font** object from the specified **Fonts** collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [Fonts](./PowerPoint.Fonts.md) object.
+_expression_ A variable that represents a [Fonts](PowerPoint.Fonts.md) object.
 
 
 ## Parameters

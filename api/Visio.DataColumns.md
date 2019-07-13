@@ -33,6 +33,7 @@ You can use the **SetColumnProperties** method to set multiple properties of the
 -  [SetColumnProperties](Visio.DataColumns.SetColumnProperties.md)
 
 ## Properties
+
 -  [Application](Visio.DataColumns.Application.md)
 -  [Count](Visio.DataColumns.Count.md)
 -  [DataRecordset](Visio.DataColumns.DataRecordset.md)

@@ -21,7 +21,7 @@ Gets or sets the volume of the media. Read/write.
 
 _expression_. `Volume`
 
- _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
+ _expression_ An expression that returns a [MediaFormat](PowerPoint.MediaFormat.md) object.
 
 
 ## Return value

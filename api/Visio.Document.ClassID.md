@@ -19,7 +19,7 @@ Returns the class ID string of the container application in which the document i
 
 ## Syntax
 
-_expression_. `ClassID`
+_expression_.**ClassID**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
@@ -31,12 +31,9 @@ String
 
 ## Remarks
 
-If the class ID of the container application in which the document is embedded cannot be retrieved, the  **ClassID** property raises an exception. If the document is not embedded in a container, the **ClassID** property returns an empty string.
+If the class ID of the container application in which the document is embedded cannot be retrieved, the **ClassID** property raises an exception. If the document is not embedded in a container, the **ClassID** property returns an empty string.
 
- **ClassID** returns a string of the form:
-
-
-
+**ClassID** returns a string of the form:
 
 ```vb
     {2287DC42-B167-11CE-88E9-002AFDDD917}

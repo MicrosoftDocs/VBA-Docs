@@ -21,7 +21,7 @@ Inserts slides from a file into a presentation, at the specified location. Retur
 
 _expression_. `InsertFromFile`( `_FileName_`, `_Index_`, `_SlideStart_`, `_SlideEnd_` )
 
-_expression_ A variable that represents a [Slides](./PowerPoint.Slides.md) object.
+_expression_ A variable that represents a [Slides](PowerPoint.Slides.md) object.
 
 
 ## Parameters

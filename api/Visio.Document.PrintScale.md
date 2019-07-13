@@ -19,7 +19,7 @@ Gets or sets how much drawings are reduced or enlarged when printed. Read/write.
 
 ## Syntax
 
-_expression_. `PrintScale`
+_expression_.**PrintScale**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
@@ -31,6 +31,6 @@ Double
 
 ## Remarks
 
-The  **PrintScale** property corresponds to the **Adjust to** setting on the **Print Setup** tab in the **Page Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group). To print a drawing at half its size, specify 0.5. To print a drawing at twice its size, specify 2.0.
+The **PrintScale** property corresponds to the **Adjust to** setting on the **Print Setup** tab in the **Page Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group). To print a drawing at half its size, specify 0.5. To print a drawing at twice its size, specify 2.0.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

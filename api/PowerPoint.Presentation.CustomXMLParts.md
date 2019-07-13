@@ -21,7 +21,7 @@ Returns a  **[CustomXMLParts](Office.CustomXMLParts.md)** object that represents
 
 _expression_. `CustomXMLParts`
 
- _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
+ _expression_ An expression that returns a [Presentation](PowerPoint.Presentation.md) object.
 
 
 ## Return value

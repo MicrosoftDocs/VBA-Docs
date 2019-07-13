@@ -21,7 +21,7 @@ Sets or returns whether comments will be printed. Read/write.
 
 _expression_.**PrintComments**
 
-_expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
+_expression_ A variable that represents a [PrintOptions](PowerPoint.PrintOptions.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Clears the extra colors in a presentation.
 
 _expression_.**Clear**
 
-_expression_ A variable that represents an [ExtraColors](./PowerPoint.ExtraColors.md) object.
+_expression_ A variable that represents an [ExtraColors](PowerPoint.ExtraColors.md) object.
 
 
 ## See also

@@ -19,7 +19,7 @@ Returns the collection of all the series in the specified chart, or the specifie
 
 _expression_.**FullSeriesCollection** (_Index_)
 
-_expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
+_expression_ A variable that represents a [Chart](PowerPoint.Chart.md) object.
 
 
 ## Parameters

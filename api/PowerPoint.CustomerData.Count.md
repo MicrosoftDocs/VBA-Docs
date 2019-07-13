@@ -18,7 +18,7 @@ Returns the number of  **[CustomXMLPart](Office.CustomXMLPart.md)** objects in t
 
 _expression_.**Count**
 
- _expression_ An expression that returns a [CustomerData](./PowerPoint.CustomerData.md) object.
+ _expression_ An expression that returns a [CustomerData](PowerPoint.CustomerData.md) object.
 
 
 ## Return value

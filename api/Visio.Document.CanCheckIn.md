@@ -19,7 +19,7 @@ Specifies whether a document can be checked into a Microsoft SharePoint Server c
 
 ## Syntax
 
-_expression_. `CanCheckIn`
+_expression_.**CanCheckIn**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
@@ -53,10 +53,9 @@ Sub CheckDocIn (varDocCheckIn As Variant)
 End Sub
 ```
 
-To call the preceding  **CheckDocIn** subroutine, use the following subroutine and replace _servername/workspace/drawing.vdx_ with the path to and name of an actual file located on a Microsoft SharePoint Server computer.
+<br/>
 
-
-
+To call the preceding **CheckDocIn** subroutine, use the following subroutine and replace _servername/workspace/drawing.vdx_ with the path to and name of an actual file located on a Microsoft SharePoint Server computer.
 
 ```vb
  

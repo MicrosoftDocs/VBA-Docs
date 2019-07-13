@@ -21,7 +21,7 @@ Sets the display picture from a picture file.
 
 _expression_. `SetDisplayPictureFromFile`( `_FilePath_` )
 
- _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
+ _expression_ An expression that returns a [MediaFormat](PowerPoint.MediaFormat.md) object.
 
 
 ## Parameters

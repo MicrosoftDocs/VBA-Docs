@@ -21,7 +21,7 @@ Returns or sets the name of the presentation or macro to be run when the specifi
 
 _expression_.**Run**
 
-_expression_ A variable that represents an [ActionSetting](./PowerPoint.ActionSetting.md) object.
+_expression_ A variable that represents an **[ActionSetting](PowerPoint.ActionSetting.md)** object.
 
 
 ## Return value
@@ -33,9 +33,9 @@ String
 
  For this property to affect the slide show action, you must set the **[Action](PowerPoint.ActionSetting.Action.md)** property value to **ppActionRunMacro** or **ppActionRunProgram**.
 
-If the value of the  **Action** property is **ppActionRunMacro**, the specified string value should be the name of a global macro that's currently loaded. If the value of the **Action** property is **ppActionRunProgram**, the specified string value should be the full path and file name of a program.
+If the value of the **Action** property is **ppActionRunMacro**, the specified string value should be the name of a global macro that's currently loaded. If the value of the **Action** property is **ppActionRunProgram**, the specified string value should be the full path and file name of a program.
 
-You can set the  **Run** property to a macro that takes no arguments or a macro that takes a single Shape or Object argument. The shape that was clicked during the slide show will be passed as this argument.
+You can set the **Run** property to a macro that takes no arguments or a macro that takes a single Shape or Object argument. The shape that was clicked during the slide show will be passed as this argument.
 
 
 ## Example

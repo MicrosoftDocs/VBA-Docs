@@ -21,7 +21,7 @@ Returns the media mobilization profile for the specified media asset. Read-only.
 
 _expression_. `profile`
 
-_expression_ A variable that represents a [ResampleMediaTask](./PowerPoint.ResampleMediaTask.md) object.
+_expression_ A variable that represents a [ResampleMediaTask](PowerPoint.ResampleMediaTask.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Determines whether the specified shape is built in reverse order. Applies only t
 
 _expression_. `AnimateTextInReverse`
 
-_expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
+_expression_ A variable that represents an [AnimationSettings](PowerPoint.AnimationSettings.md) object.
 
 
 ## Return value

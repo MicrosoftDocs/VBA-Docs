@@ -48,15 +48,15 @@ End With
 
 |Name|
 |:-----|
-|[Background](./PowerPoint.FillFormat.Background.md)|
-|[OneColorGradient](./PowerPoint.FillFormat.OneColorGradient.md)|
-|[Patterned](./PowerPoint.FillFormat.Patterned.md)|
-|[PresetGradient](./PowerPoint.FillFormat.PresetGradient.md)|
-|[PresetTextured](./PowerPoint.FillFormat.PresetTextured.md)|
-|[Solid](./PowerPoint.FillFormat.Solid.md)|
-|[TwoColorGradient](./PowerPoint.FillFormat.TwoColorGradient.md)|
-|[UserPicture](./PowerPoint.FillFormat.UserPicture.md)|
-|[UserTextured](./PowerPoint.FillFormat.UserTextured.md)|
+|[Background](PowerPoint.FillFormat.Background.md)|
+|[OneColorGradient](PowerPoint.FillFormat.OneColorGradient.md)|
+|[Patterned](PowerPoint.FillFormat.Patterned.md)|
+|[PresetGradient](PowerPoint.FillFormat.PresetGradient.md)|
+|[PresetTextured](PowerPoint.FillFormat.PresetTextured.md)|
+|[Solid](PowerPoint.FillFormat.Solid.md)|
+|[TwoColorGradient](PowerPoint.FillFormat.TwoColorGradient.md)|
+|[UserPicture](PowerPoint.FillFormat.UserPicture.md)|
+|[UserTextured](PowerPoint.FillFormat.UserTextured.md)|
 
 ## Properties
 
@@ -64,33 +64,33 @@ End With
 
 |Name|
 |:-----|
-|[Application](./PowerPoint.FillFormat.Application.md)|
-|[BackColor](./PowerPoint.FillFormat.BackColor.md)|
-|[Creator](./PowerPoint.FillFormat.Creator.md)|
-|[ForeColor](./PowerPoint.FillFormat.ForeColor.md)|
-|[GradientAngle](./PowerPoint.FillFormat.GradientAngle.md)|
-|[GradientColorType](./PowerPoint.FillFormat.GradientColorType.md)|
-|[GradientDegree](./PowerPoint.FillFormat.GradientDegree.md)|
-|[GradientStops](./PowerPoint.FillFormat.GradientStops.md)|
-|[GradientStyle](./PowerPoint.FillFormat.GradientStyle.md)|
-|[GradientVariant](./PowerPoint.FillFormat.GradientVariant.md)|
-|[Parent](./PowerPoint.FillFormat.Parent.md)|
-|[Pattern](./PowerPoint.FillFormat.Pattern.md)|
-|[PictureEffects](./PowerPoint.FillFormat.PictureEffects.md)|
-|[PresetGradientType](./PowerPoint.FillFormat.PresetGradientType.md)|
-|[PresetTexture](./PowerPoint.FillFormat.PresetTexture.md)|
-|[RotateWithObject](./PowerPoint.FillFormat.RotateWithObject.md)|
-|[TextureAlignment](./PowerPoint.FillFormat.TextureAlignment.md)|
-|[TextureHorizontalScale](./PowerPoint.FillFormat.TextureHorizontalScale.md)|
-|[TextureName](./PowerPoint.FillFormat.TextureName.md)|
-|[TextureOffsetX](./PowerPoint.FillFormat.TextureOffsetX.md)|
-|[TextureOffsetY](./PowerPoint.FillFormat.TextureOffsetY.md)|
-|[TextureTile](./PowerPoint.FillFormat.TextureTile.md)|
-|[TextureType](./PowerPoint.FillFormat.TextureType.md)|
-|[TextureVerticalScale](./PowerPoint.FillFormat.TextureVerticalScale.md)|
-|[Transparency](./PowerPoint.FillFormat.Transparency.md)|
-|[Type](./PowerPoint.FillFormat.Type.md)|
-|[Visible](./PowerPoint.FillFormat.Visible.md)|
+|[Application](PowerPoint.FillFormat.Application.md)|
+|[BackColor](PowerPoint.FillFormat.BackColor.md)|
+|[Creator](PowerPoint.FillFormat.Creator.md)|
+|[ForeColor](PowerPoint.FillFormat.ForeColor.md)|
+|[GradientAngle](PowerPoint.FillFormat.GradientAngle.md)|
+|[GradientColorType](PowerPoint.FillFormat.GradientColorType.md)|
+|[GradientDegree](PowerPoint.FillFormat.GradientDegree.md)|
+|[GradientStops](PowerPoint.FillFormat.GradientStops.md)|
+|[GradientStyle](PowerPoint.FillFormat.GradientStyle.md)|
+|[GradientVariant](PowerPoint.FillFormat.GradientVariant.md)|
+|[Parent](PowerPoint.FillFormat.Parent.md)|
+|[Pattern](PowerPoint.FillFormat.Pattern.md)|
+|[PictureEffects](PowerPoint.FillFormat.PictureEffects.md)|
+|[PresetGradientType](PowerPoint.FillFormat.PresetGradientType.md)|
+|[PresetTexture](PowerPoint.FillFormat.PresetTexture.md)|
+|[RotateWithObject](PowerPoint.FillFormat.RotateWithObject.md)|
+|[TextureAlignment](PowerPoint.FillFormat.TextureAlignment.md)|
+|[TextureHorizontalScale](PowerPoint.FillFormat.TextureHorizontalScale.md)|
+|[TextureName](PowerPoint.FillFormat.TextureName.md)|
+|[TextureOffsetX](PowerPoint.FillFormat.TextureOffsetX.md)|
+|[TextureOffsetY](PowerPoint.FillFormat.TextureOffsetY.md)|
+|[TextureTile](PowerPoint.FillFormat.TextureTile.md)|
+|[TextureType](PowerPoint.FillFormat.TextureType.md)|
+|[TextureVerticalScale](PowerPoint.FillFormat.TextureVerticalScale.md)|
+|[Transparency](PowerPoint.FillFormat.Transparency.md)|
+|[Type](PowerPoint.FillFormat.Type.md)|
+|[Visible](PowerPoint.FillFormat.Visible.md)|
 
 ## See also
 

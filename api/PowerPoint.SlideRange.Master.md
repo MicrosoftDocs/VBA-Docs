@@ -21,7 +21,7 @@ Returns a  **[Master](PowerPoint.Master.md)** object that represents the slide m
 
 _expression_. `Master`
 
-_expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
+_expression_ A variable that represents a [SlideRange](PowerPoint.SlideRange.md) object.
 
 
 ## Return value

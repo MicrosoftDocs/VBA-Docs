@@ -19,14 +19,12 @@ Saves a document with a file name using extra information passed in an argument.
 
 ## Syntax
 
-_expression_. `SaveAsEx`( `_FileName_` , `_SaveFlags_` )
+_expression_.**SaveAsEx** (_FileName_, _SaveFlags_)
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -40,21 +38,19 @@ Nothing
 
 ## Remarks
 
-The  **SaveAsEx** method is identical to the **SaveAs** method, except that it provides an extra argument in which the caller can specify how the document is to be saved.
+The **SaveAsEx** method is identical to the **SaveAs** method, except that it provides an extra argument in which the caller can specify how the document is to be saved.
 
 The  _SaveFlags_ argument should be a combination of the following values.
-
-
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSaveAsRO**|&H1|The document is saved as read-only.|
 | **visSaveAsWS**|&H2|The current workspace is saved with the file.|
-| **visSaveAsListInMRU**|&H4|The document is included in the Most Recently Used (MRU) list. By default,  **Save** and **SaveAs** do not place the document into the MRU list.|
+| **visSaveAsListInMRU**|&H4|The document is included in the Most Recently Used (MRU) list. By default, **Save** and **SaveAs** do not place the document into the MRU list.|
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **SaveAsEx** method. Before running this macro, change _path_ to the location where you want to save the drawing, and change _filename_ to the name you'd like to assign the file.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **SaveAsEx** method. Before running this macro, change _path_ to the location where you want to save the drawing, and change _filename_ to the name you'd like to assign the file.
 
 
 ```vb

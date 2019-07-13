@@ -31,8 +31,8 @@ _expression_ A variable that represents a **[ContainerProperties](Visio.Containe
 
 ## Remarks
 
-Calling the  **FitToContents** method has no effect on the **[ResizeAsNeeded](Visio.ContainerProperties.ResizeAsNeeded.md)** property setting for the current session of Microsoft Visio.
+Calling the **FitToContents** method has no effect on the **[ResizeAsNeeded](Visio.ContainerProperties.ResizeAsNeeded.md)** property setting for the current session of Microsoft Visio.
 
-The  **FitToContents** method does not work for list shapes.
+The **FitToContents** method does not work for list shapes.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,7 +21,7 @@ Returns an  **[Application](PowerPoint.Application.md)** object that represents 
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [Designs](./PowerPoint.Designs.md) object.
+_expression_ A variable that represents a [Designs](PowerPoint.Designs.md) object.
 
 
 ## Return value

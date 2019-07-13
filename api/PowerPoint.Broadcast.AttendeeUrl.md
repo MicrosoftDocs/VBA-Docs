@@ -21,7 +21,7 @@ Provides the attendee URL that the presenter must share with remote attendees. R
 
 _expression_. `AttendeeUrl`
 
-_expression_ A variable that represents a [Broadcast](./PowerPoint.Broadcast.md) object.
+_expression_ A variable that represents a [Broadcast](PowerPoint.Broadcast.md) object.
 
 
 ## See also

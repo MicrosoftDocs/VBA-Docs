@@ -21,7 +21,7 @@ Returns a  **ColorFormat** object that represents a change to the color of the o
 
 _expression_. `By`
 
-_expression_ A variable that represents a [ColorEffect](./PowerPoint.ColorEffect.md) object.
+_expression_ A variable that represents a [ColorEffect](PowerPoint.ColorEffect.md) object.
 
 
 ## Remarks

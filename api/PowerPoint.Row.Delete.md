@@ -21,7 +21,7 @@ Deletes the specified  **Row** object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [Row](./PowerPoint.Row.md) object.
+_expression_ A variable that represents a [Row](PowerPoint.Row.md) object.
 
 
 ## Remarks

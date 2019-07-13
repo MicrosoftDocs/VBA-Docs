@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[Document](Visio.Document.md)** obje
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Style_|Required| **[IVSTYLE]**|The style that is going to be deleted.|

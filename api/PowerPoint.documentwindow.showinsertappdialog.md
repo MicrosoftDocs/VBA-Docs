@@ -16,7 +16,7 @@ localization_priority: Normal
 
 _expression_. `ShowInsertAppDialog`_(Filter) _
 
-_expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
+_expression_ A variable that represents a [DocumentWindow](PowerPoint.DocumentWindow.md) object.
 
 
 ## Parameters

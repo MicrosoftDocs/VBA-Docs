@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataRecordsetChangedEvent.Application property (Visio)
 
-Returns the instance of Microsoft Visio associated with a  **DataRecordsetChangedEvent** object. Read-only.
+Returns the instance of Microsoft Visio associated with a **DataRecordsetChangedEvent** object. Read-only.
 
 
 > [!NOTE] 

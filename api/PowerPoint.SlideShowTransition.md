@@ -19,7 +19,7 @@ Contains information about how the specified slide advances during a slide show.
 
 ## Example
 
-Use the [SlideShowTransition](./PowerPoint.Slide.SlideShowTransition.md)property to return the  **SlideShowTransition** object. The following example specifies a Fast Strips Down-Left transition accompanied by the Bass.wav sound for slide one in the active presentation and specifies that the slide advance automatically five seconds after the previous animation or slide transition.
+Use the [SlideShowTransition](PowerPoint.Slide.SlideShowTransition.md)property to return the  **SlideShowTransition** object. The following example specifies a Fast Strips Down-Left transition accompanied by the Bass.wav sound for slide one in the active presentation and specifies that the slide advance automatically five seconds after the previous animation or slide transition.
 
 
 ```vb
@@ -49,17 +49,17 @@ ActivePresentation.SlideShowSettings.AdvanceMode = _
 
 |Name|
 |:-----|
-|[AdvanceOnClick](./PowerPoint.SlideShowTransition.AdvanceOnClick.md)|
-|[AdvanceOnTime](./PowerPoint.SlideShowTransition.AdvanceOnTime.md)|
-|[AdvanceTime](./PowerPoint.SlideShowTransition.AdvanceTime.md)|
-|[Application](./PowerPoint.SlideShowTransition.Application.md)|
-|[Duration](./PowerPoint.SlideShowTransition.Duration.md)|
-|[EntryEffect](./PowerPoint.SlideShowTransition.EntryEffect.md)|
-|[Hidden](./PowerPoint.SlideShowTransition.Hidden.md)|
-|[LoopSoundUntilNext](./PowerPoint.SlideShowTransition.LoopSoundUntilNext.md)|
-|[Parent](./PowerPoint.SlideShowTransition.Parent.md)|
-|[SoundEffect](./PowerPoint.SlideShowTransition.SoundEffect.md)|
-|[Speed](./PowerPoint.SlideShowTransition.Speed.md)|
+|[AdvanceOnClick](PowerPoint.SlideShowTransition.AdvanceOnClick.md)|
+|[AdvanceOnTime](PowerPoint.SlideShowTransition.AdvanceOnTime.md)|
+|[AdvanceTime](PowerPoint.SlideShowTransition.AdvanceTime.md)|
+|[Application](PowerPoint.SlideShowTransition.Application.md)|
+|[Duration](PowerPoint.SlideShowTransition.Duration.md)|
+|[EntryEffect](PowerPoint.SlideShowTransition.EntryEffect.md)|
+|[Hidden](PowerPoint.SlideShowTransition.Hidden.md)|
+|[LoopSoundUntilNext](PowerPoint.SlideShowTransition.LoopSoundUntilNext.md)|
+|[Parent](PowerPoint.SlideShowTransition.Parent.md)|
+|[SoundEffect](PowerPoint.SlideShowTransition.SoundEffect.md)|
+|[Speed](PowerPoint.SlideShowTransition.Speed.md)|
 
 ## See also
 

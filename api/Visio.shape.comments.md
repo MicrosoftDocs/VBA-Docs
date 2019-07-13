@@ -9,24 +9,21 @@ localization_priority: Normal
 
 # Shape.Comments property (Visio)
 
-Returns a [Comments](Visio.comments.md) object that represents the collection of all the reviewer comments on the shape. Read-only.
+Returns a **[Comments](Visio.comments.md)** object that represents the collection of all the reviewer comments on the shape. Read-only.
 
 
 ## Syntax
 
-_expression_. `Comments`
+_expression_.**Comments**
 
 _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 
 ## Property value
 
- **IVCOMMENTS**
+**IVCOMMENTS**
 
 
-## See also
 
-
-[Shape Object](Visio.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

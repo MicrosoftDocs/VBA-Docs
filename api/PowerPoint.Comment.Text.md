@@ -21,7 +21,7 @@ Returns a  **String** that represents the text in a comment. Read-only.
 
 _expression_.**Text**
 
-_expression_ A variable that represents a [Comment](./PowerPoint.Comment.md) object.
+_expression_ A variable that represents a [Comment](PowerPoint.Comment.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Indicates whether the selected  **SlideRange** has media that resides on a notes
 
 _expression_. `HasNotesPage`
 
-_expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
+_expression_ A variable that represents a [SlideRange](PowerPoint.SlideRange.md) object.
 
 
 ## Return value

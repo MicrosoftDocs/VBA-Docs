@@ -19,13 +19,12 @@ Returns the ordinal position of the specified shape in the list.
 
 ## Syntax
 
-_expression_. `GetListMemberPosition`( `_ShapeMember_` )
+_expression_.**GetListMemberPosition** (_ShapeMember_)
 
 _expression_ A variable that represents a **[ContainerProperties](Visio.ContainerProperties.md)** object.
 
 
 ## Parameters
-
 
 
 |Name|Required/Optional|Data type|Description|
@@ -34,7 +33,7 @@ _expression_ A variable that represents a **[ContainerProperties](Visio.Containe
 
 ## Return value
 
- **Long**
+**Long**
 
 
 ## Remarks

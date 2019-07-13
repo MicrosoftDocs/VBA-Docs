@@ -21,7 +21,7 @@ Creates a presentation. Returns a  **[Presentation](PowerPoint.Presentation.md)*
 
 _expression_.**Add** (_WithWindow_)
 
-_expression_ A variable that represents a [Presentations](./PowerPoint.Presentations.md) object.
+_expression_ A variable that represents a [Presentations](PowerPoint.Presentations.md) object.
 
 
 ## Parameters

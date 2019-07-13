@@ -16,7 +16,6 @@ localization_priority: Normal
 
 Gets an array of the IDs of all the rows in the data recordset.
 
-
 > [!NOTE] 
 > This Visio object or member is available only to licensed users of Visio Professional 2013.
 

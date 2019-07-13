@@ -21,7 +21,7 @@ Determines whether a complete copy of the specified presentation is printed befo
 
 _expression_. `Collate`
 
-_expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
+_expression_ A variable that represents a [PrintOptions](PowerPoint.PrintOptions.md) object.
 
 
 ## Return value

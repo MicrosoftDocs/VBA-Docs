@@ -21,7 +21,7 @@ Returns or sets the formula for the object by using R1C1-style notation. Read/wr
 
 _expression_.**FormulaR1C1**
 
-_expression_ A variable that represents an [AxisTitle](./PowerPoint.AxisTitle.md) object.
+_expression_ A variable that represents an [AxisTitle](PowerPoint.AxisTitle.md) object.
 
 
 ## See also

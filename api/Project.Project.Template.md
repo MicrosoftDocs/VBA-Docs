@@ -14,19 +14,19 @@ localization_priority: Normal
 
 # Project.Template property (Project)
 
-Gets the name of the template associated with a project. Read-only  **String**.
+Gets the name of the template associated with a project. Read-only **String**.
 
 
 ## Syntax
 
-_expression_. `Template`
+_expression_.**Template**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 
 
 ## Remarks
 
-If the project was not created from a template, the  **Template** property returns an empty string ("").
+If the project was not created from a template, the **Template** property returns an empty string ("").
 
 
 ## Example

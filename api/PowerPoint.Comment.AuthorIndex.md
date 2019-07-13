@@ -21,7 +21,7 @@ Returns a  **Long** representing the index number of a comment for a given autho
 
 _expression_. `AuthorIndex`
 
-_expression_ A variable that represents an [Comment](./PowerPoint.Comment.md) object.
+_expression_ A variable that represents an [Comment](PowerPoint.Comment.md) object.
 
 
 ## Return value

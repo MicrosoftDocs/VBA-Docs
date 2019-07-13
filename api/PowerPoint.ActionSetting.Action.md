@@ -21,7 +21,7 @@ Returns or sets the type of action that will occur when the specified shape is c
 
 _expression_.**Action**
 
-_expression_ A variable that represents an [ActionSetting](./PowerPoint.ActionSetting.md) object.
+_expression_ A variable that represents an **[ActionSetting](PowerPoint.ActionSetting.md)** object.
 
 
 ## Return value
@@ -31,31 +31,11 @@ Long
 
 ## Remarks
 
-The  **Action** property value can be one of the following **PpActionType** constants.
+The **Action** property value can be one of the **[PpActionType](powerpoint.ppactiontype.md)** constants.
 
+You can use the **Action** property in conjunction with other properties of the **ActionSetting** object, as shown in the following table.
 
-||
-|:-----|
-|**ppActionEndShow**|
-|**ppActionFirstSlide**|
-|**ppActionHyperlink**|
-|**ppActionLastSlide**|
-|**ppActionLastSlideViewed**|
-|**ppActionMixed**|
-|**ppActionNamedSlideShow**|
-|**ppActionNextSlide**|
-|**ppActionNone**|
-|**ppActionOLEVerb**|
-|**ppActionPlay**|
-|**ppActionPreviousSlide**|
-|**ppActionRunMacro**|
-|**ppActionRunProgram**|
-
-You can use the  **Action** property in conjunction with other properties of the **ActionSetting** object, as shown in the following table.
-
-
-
-|**If you set the Action property to this value**|**Use this property**|**To do this**|
+|If you set the Action property to this value|Use this property|To do this|
 |:-----|:-----|:-----|
 |**ppActionHyperlink**|[Hyperlink](PowerPoint.ActionSetting.Hyperlink.md)|Set properties for the hyperlink that will be followed in response to a mouse action on the shape during a slide show.|
 |**ppActionRunProgram**|**[Run](PowerPoint.ActionSetting.Run.md)**|Return or set the name of the program to run in response to a mouse action on the shape during a slide show.|
@@ -79,9 +59,5 @@ End With
 ```
 
 
-## See also
-
-
-[ActionSetting Object](PowerPoint.ActionSetting.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

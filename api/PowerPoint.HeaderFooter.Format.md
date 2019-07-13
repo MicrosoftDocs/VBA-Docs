@@ -21,7 +21,7 @@ Returns or sets the format for the automatically updated date and time. Read/wri
 
 _expression_.**Format**
 
-_expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](PowerPoint.ThreeDFormat.md) object.
 
 
 ## Return value

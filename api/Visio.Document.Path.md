@@ -31,6 +31,6 @@ String
 
 ## Remarks
 
-If the document has not been saved, the  **Path** property of the **Document** object returns a zero-length string ("").
+If the document has not been saved, the **Path** property of the **Document** object returns a zero-length string ("").
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

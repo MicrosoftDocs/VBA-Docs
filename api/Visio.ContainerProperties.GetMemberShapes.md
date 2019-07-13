@@ -19,14 +19,12 @@ Returns the shape identifiers (IDs) of all members of the container, as specifie
 
 ## Syntax
 
-_expression_. `GetMemberShapes`( `_ContainerFlags_` )
+_expression_.**GetMemberShapes** (_ContainerFlags_)
 
 _expression_ A variable that represents a **[ContainerProperties](Visio.ContainerProperties.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,14 +32,12 @@ _expression_ A variable that represents a **[ContainerProperties](Visio.Containe
 
 ## Return value
 
- **Long()**
+**Long()**
 
 
 ## Remarks
 
 The _ContainerFlags_ parameter can be one or more of the following **VisContainerFlags** constants.
-
-
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -53,13 +49,12 @@ The _ContainerFlags_ parameter can be one or more of the following **VisContaine
 | **visContainerFlagsExcludeNested**|16|Excludes any member shapes that are members of containers or lists nested within the container.|
 | **visContainerFlagsExcludeListMembers**|32|Excludes members of a list container that are explicitly members of any list. Does not exclude other shapes in the list container.|
 
- **GetMemberShapes** returns an empty array if there are no member shapes.
+**GetMemberShapes** returns an empty array if there are no member shapes.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **GetMemberShapes** method to get the IDs of all member shapes in a specified container on the active page, loop through those shapes, and print the ID of each shape in the Immediate window.
-
+The following Visual Basic for Applications (VBA) example shows how to use the **GetMemberShapes** method to get the IDs of all member shapes in a specified container on the active page, loop through those shapes, and print the ID of each shape in the Immediate window.
 
 ```vb
 For Each memberID In vsoContainerShape.ContainerProperties.GetMemberShapes(visContainerFlagsDefault) 

@@ -21,7 +21,7 @@ Returns or sets the paragraph in a text range to which to apply animation effect
 
 _expression_. `Paragraph`
 
-_expression_ A variable that represents a [Effect](./PowerPoint.Effect.md) object.
+_expression_ A variable that represents a [Effect](PowerPoint.Effect.md) object.
 
 
 ## Return value

@@ -19,7 +19,7 @@ Gets or sets the default fill style of a document. Read/write.
 
 ## Syntax
 
-_expression_. `DefaultFillStyle`
+_expression_.**DefaultFillStyle**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
@@ -31,6 +31,6 @@ String
 
 ## Remarks
 
-The document's default fill style is applied to new shapes created with the Microsoft Visio drawing tools or with the  **Draw** methods by Automation.
+The document's default fill style is applied to new shapes created with the Microsoft Visio drawing tools or with the **Draw** methods by Automation.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

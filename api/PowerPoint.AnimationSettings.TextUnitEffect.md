@@ -21,7 +21,7 @@ Indicates whether the text in the specified shape is animated paragraph by parag
 
 _expression_. `TextUnitEffect`
 
-_expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
+_expression_ A variable that represents an [AnimationSettings](PowerPoint.AnimationSettings.md) object.
 
 
 ## Return value

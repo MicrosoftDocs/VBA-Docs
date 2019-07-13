@@ -21,7 +21,7 @@ Finds specific text in a text range, replaces the found text with a specified st
 
 _expression_.**Replace** (_FindWhat_, _ReplaceWhat_, _After_, _MatchCase_, _WholeWords_)
 
-_expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
+_expression_ A variable that represents a [TextRange](PowerPoint.TextRange.md) object.
 
 
 ## Parameters

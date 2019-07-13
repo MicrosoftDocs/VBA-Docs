@@ -21,7 +21,7 @@ Returns or sets the percentage of the duration over which a timing acceleration 
 
 _expression_. `Accelerate`
 
-_expression_ A variable that represents an [Timing](./PowerPoint.Timing.md) object.
+_expression_ A variable that represents an [Timing](PowerPoint.Timing.md) object.
 
 
 ## Return value

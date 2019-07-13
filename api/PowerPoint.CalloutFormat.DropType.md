@@ -21,7 +21,7 @@ Returns a value that indicates where the callout line attaches to the callout te
 
 _expression_.**DropType**
 
-_expression_ A variable that represents a [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
+_expression_ A variable that represents a [CalloutFormat](PowerPoint.CalloutFormat.md) object.
 
 
 ## Return value

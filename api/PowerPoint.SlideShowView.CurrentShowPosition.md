@@ -21,7 +21,7 @@ Returns the position of the current slide within the slide show that is showing 
 
 _expression_. `CurrentShowPosition`
 
-_expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
+_expression_ A variable that represents a [SlideShowView](PowerPoint.SlideShowView.md) object.
 
 
 ## Return value

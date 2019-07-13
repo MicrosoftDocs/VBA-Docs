@@ -21,7 +21,7 @@ Read/write
 
 _expression_.**Name**
 
- _expression_ An expression that returns a [Chart](./PowerPoint.Chart.md) object.
+ _expression_ An expression that returns a [Chart](PowerPoint.Chart.md) object.
 
 
 ## See also

@@ -19,14 +19,12 @@ Indicates whether a named SolutionXML element exists in the document. Read-only.
 
 ## Syntax
 
-_expression_. `SolutionXMLElementExists`( `_ElementName_` )
+_expression_.**SolutionXMLElementExists** (_ElementName_)
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -39,6 +37,6 @@ Boolean
 
 ## Remarks
 
-Because the  **SolutionXMLElement** property can overwrite existing XML data, always use the **SolutionXMLElementExists** property to verify whether _ElementName_ already exists in the document.
+Because the **SolutionXMLElement** property can overwrite existing XML data, always use the **SolutionXMLElementExists** property to verify whether _ElementName_ already exists in the document.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

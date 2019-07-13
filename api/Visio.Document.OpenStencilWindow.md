@@ -19,7 +19,7 @@ Opens a stencil window that shows the masters in the document.
 
 ## Syntax
 
-_expression_. `OpenStencilWindow`
+_expression_.**OpenStencilWindow**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
@@ -31,12 +31,12 @@ Window
 
 ## Remarks
 
-If the document's stencil is already displayed in a stencil window, the  **OpenStencilWindow** method activates that window rather than opening another window.
+If the document's stencil is already displayed in a stencil window, the **OpenStencilWindow** method activates that window rather than opening another window.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **OpenStencilWindow** method to open the Document Stencil window.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **OpenStencilWindow** method to open the Document Stencil window.
 
 
 ```vb

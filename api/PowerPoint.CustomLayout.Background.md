@@ -21,7 +21,7 @@ Returns a  **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents the
 
 _expression_.**Background**
 
-_expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
+_expression_ A variable that represents a [CustomLayout](PowerPoint.CustomLayout.md) object.
 
 
 ## Return value

@@ -19,7 +19,7 @@ Opens a Excel data grid window that contains the full source data for the specif
 
 _expression_. `ActivateChartDataWindow`
 
-_expression_ A variable that represents a [ChartData](./PowerPoint.ChartData.md) object.
+_expression_ A variable that represents a [ChartData](PowerPoint.ChartData.md) object.
 
 
 ## Return value

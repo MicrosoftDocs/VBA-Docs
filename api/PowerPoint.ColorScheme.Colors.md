@@ -14,19 +14,17 @@ localization_priority: Normal
 
 # ColorScheme.Colors method (PowerPoint)
 
-Returns an  **[RGBColor](PowerPoint.RGBColor.md)** object that represents a single color in a color scheme.
+Returns an **[RGBColor](PowerPoint.RGBColor.md)** object that represents a single color in a color scheme.
 
 
 ## Syntax
 
-_expression_. `Colors`( `_SchemeColor_` )
+_expression_.**Colors** (_SchemeColor_)
 
-_expression_ A variable that represents a [ColorScheme](./PowerPoint.ColorScheme.md) object.
+_expression_ A variable that represents a **[ColorScheme](PowerPoint.ColorScheme.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -49,9 +47,5 @@ mySlides.ColorScheme.Colors(ppTitle).RGB = RGB(0, 255, 0)
 ```
 
 
-## See also
-
-
-[ColorScheme Object](PowerPoint.ColorScheme.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

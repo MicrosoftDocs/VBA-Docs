@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # SlideRange.Comments property (PowerPoint)
 
-Returns a  **[Comments](PowerPoint.Comments.md)** object that represents a collection of comments. Read-only.
+Returns a **[Comments](PowerPoint.Comments.md)** object that represents a collection of comments. Read-only.
 
 
 ## Syntax
 
-_expression_. `Comments`
+_expression_.**Comments**
 
-_expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
+_expression_ A variable that represents a **[SlideRange](PowerPoint.SlideRange.md)** object.
 
 
 ## Return value
@@ -33,7 +33,6 @@ Comments
 
 The following example adds a comment to a slide.
 
-
 ```vb
 Sub AddNewComment()
     ActivePresentation.Slides(1).Comments.Add _
@@ -43,9 +42,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[SlideRange Object](PowerPoint.SlideRange.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

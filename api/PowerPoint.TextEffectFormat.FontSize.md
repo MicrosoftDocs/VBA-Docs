@@ -21,7 +21,7 @@ Returns or sets the font size for the specified WordArt in points. Read/write.
 
 _expression_. `FontSize`
 
- _expression_ An expression that returns a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
+ _expression_ An expression that returns a [TextEffectFormat](PowerPoint.TextEffectFormat.md) object.
 
 
 ## Return value

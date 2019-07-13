@@ -21,7 +21,7 @@ Deletes the specified  **Column** object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [Column](./PowerPoint.Column.md) object.
+_expression_ A variable that represents a [Column](PowerPoint.Column.md) object.
 
 
 ## Remarks

@@ -19,7 +19,7 @@ Determines the shape extensions that are active in a document. Read/write.
 
 ## Syntax
 
-_expression_. `SnapExtensions`
+_expression_.**SnapExtensions**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
@@ -31,11 +31,9 @@ VisSnapExtensions
 
 ## Remarks
 
-You can also set this value by checking options in the  **Shape extension options** box on the **Advanced** tab of the **Snap & Glue** dialog box (click the **Visual Aids** arrow on the **View** tab).
+You can also set this value by checking options in the **Shape extension options** box on the **Advanced** tab of the **Snap & Glue** dialog box (click the **Visual Aids** arrow on the **View** tab).
 
-The  **SnapExtensions** property can be any combination of the following **VisSnapExtensions** constants, which are declared in the Visio type library. The default is to show center axes and linear extensions, &H22 (34).
-
-
+The **SnapExtensions** property can be any combination of the following **VisSnapExtensions** constants, which are declared in the Visio type library. The default is to show center axes and linear extensions, &H22 (34).
 
 |Constant|Value|
 |:-----|:-----|

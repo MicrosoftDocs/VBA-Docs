@@ -21,7 +21,7 @@ Rotates the  **ThreeDFormat** object along the horizontal axis by the specified 
 
 _expression_. `IncrementRotationHorizontal`( `_Increment_` )
 
-_expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](PowerPoint.ThreeDFormat.md) object.
 
 
 ## Parameters

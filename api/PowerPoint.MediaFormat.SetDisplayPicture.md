@@ -21,7 +21,7 @@ Sets the display picture at the specified time position.
 
 _expression_. `SetDisplayPicture`( `_Position_` )
 
- _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
+ _expression_ An expression that returns a [MediaFormat](PowerPoint.MediaFormat.md) object.
 
 
 ## Parameters

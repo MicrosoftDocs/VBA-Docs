@@ -21,7 +21,7 @@ Returns or sets the angle of the callout line. If the callout line contains more
 
 _expression_.**Angle**
 
-_expression_ A variable that represents an [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
+_expression_ A variable that represents an [CalloutFormat](PowerPoint.CalloutFormat.md) object.
 
 
 ## Return value

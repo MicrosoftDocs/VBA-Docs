@@ -21,7 +21,7 @@ Determines whether the end of the specified connector is connected to a shape. R
 
 _expression_. `EndConnected`
 
-_expression_ A variable that represents an [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
+_expression_ A variable that represents an [ConnectorFormat](PowerPoint.ConnectorFormat.md) object.
 
 
 ## Return value

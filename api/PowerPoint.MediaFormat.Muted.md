@@ -21,7 +21,7 @@ Returns whether audio playback of the media is muted. Read/write
 
 _expression_. `Muted`
 
- _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
+ _expression_ An expression that returns a [MediaFormat](PowerPoint.MediaFormat.md) object.
 
 
 ## Return value

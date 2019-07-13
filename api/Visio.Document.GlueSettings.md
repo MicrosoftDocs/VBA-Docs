@@ -19,7 +19,7 @@ Determines the objects that shapes glue to when glue is enabled in the document.
 
 ## Syntax
 
-_expression_. `GlueSettings`
+_expression_.**GlueSettings**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
@@ -31,9 +31,9 @@ VisGlueSettings
 
 ## Remarks
 
-Setting the value of the  **GlueSettings** property is equivalent to selecting options under **Glue to** on the **General** tab in the **Snap & Glue** dialog box (on the **View** tab, click the **Visual Aids** arrow).
+Setting the value of the **GlueSettings** property is equivalent to selecting options under **Glue to** on the **General** tab in the **Snap & Glue** dialog box (on the **View** tab, click the **Visual Aids** arrow).
 
-The  **GlueSettings** property can be any combination of the following **VisGlueSettings** constants, which are declared in the Microsoft Visio type library.
+The **GlueSettings** property can be any combination of the following **VisGlueSettings** constants, which are declared in the Microsoft Visio type library.
 
 
 

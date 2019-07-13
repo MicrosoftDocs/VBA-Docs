@@ -21,7 +21,7 @@ Merges a presentation into another presentation.
 
 _expression_. `MergeWithBaseline`( `_withPresentation_`, `_baselinePresentation_` )
 
-_expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a [Presentation](PowerPoint.Presentation.md) object.
 
 
 ## Parameters

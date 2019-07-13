@@ -21,7 +21,7 @@ Returns the parent object for the specified object.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [RulerLevels](./PowerPoint.RulerLevels.md) object.
+_expression_ A variable that represents a [RulerLevels](PowerPoint.RulerLevels.md) object.
 
 
 ## Return value

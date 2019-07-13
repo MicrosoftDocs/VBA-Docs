@@ -21,7 +21,7 @@ Deletes the specified  **Design** object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [Design](./PowerPoint.Design.md) object.
+_expression_ A variable that represents a [Design](PowerPoint.Design.md) object.
 
 
 ## See also

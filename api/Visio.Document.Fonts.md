@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.Fonts property (Visio)
 
-Returns the  **Fonts** collection of a **Document** object. Read-only.
+Returns the **Fonts** collection of a **Document** object. Read-only.
 
 
 ## Syntax

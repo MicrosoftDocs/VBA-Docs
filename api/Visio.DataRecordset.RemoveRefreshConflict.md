@@ -23,14 +23,12 @@ Clears information about a conflict for a data-linked shape from the current doc
 
 ## Syntax
 
-_expression_. `RemoveRefreshConflict`( `_ShapeInConflict_` )
+_expression_.**RemoveRefreshConflict** (_ShapeInConflict_)
 
- _expression_ An expression that returns a **[DataRecordset](Visio.DataRecordset.md)** object.
+_expression_ An expression that returns a **[DataRecordset](Visio.DataRecordset.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -50,7 +48,7 @@ If you choose not to remove information about a conflict, that information will 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **RemoveRefreshConflict** method to remove conflicts. It calls the **GetAllRefreshConflicts** method to determine which shapes, if any, have conflicts after a data recordset is refreshed. Then it calls the **GetMatchingRowsForRefreshConflict** method to determine which data recordset row or rows is causing the conflict.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **RemoveRefreshConflict** method to remove conflicts. It calls the **GetAllRefreshConflicts** method to determine which shapes, if any, have conflicts after a data recordset is refreshed. Then it calls the **GetMatchingRowsForRefreshConflict** method to determine which data recordset row or rows is causing the conflict.
 
 It refreshes the data recordset most recently added and if it finds no resulting conflicts, prints "No conflicts" in the Immediate window. If it does find conflicts, it passes each of the shapes that have conflicts to the **GetMatchingRowsForRefreshConflict** method and prints the resulting row IDs in the same window. Then it passes the shapes that have conflicts to the **RemoveRefreshConflict** method to remove the conflicts.
 

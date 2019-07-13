@@ -21,7 +21,7 @@ Returns a  **Double** value that represents the width, in [points](../language/g
 
 _expression_.**Width**
 
-_expression_ A variable that represents an [AxisTitle](./PowerPoint.AxisTitle.md) object.
+_expression_ A variable that represents an [AxisTitle](PowerPoint.AxisTitle.md) object.
 
 
 ## Return value

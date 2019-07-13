@@ -26,8 +26,6 @@ _expression_ An expression that returns a **[Document](Visio.Document.md)** obje
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FixedFormat_|Required| **VisFixedFormatTypes**|The format type in which to export the document. See Remarks for possible values.|
@@ -37,11 +35,11 @@ _expression_ An expression that returns a **[Document](Visio.Document.md)** obje
 | _FromPage_|Optional| **Long**| If _PrintRange_ is **visPrintFromTo**, the first page in the range to be exported. The default is 1, which indicates the first page of the drawing.|
 | _ToPage_|Optional| **Long**|If  _PrintRange_ is **visPrintFromTo**, the last page in the range to be exported. The default is -1, which indicates the last page of the drawing.|
 | _ColorAsBlack_|Optional| **Boolean**| **True** to render all colors as black to ensure that all shapes are visible in the exported drawing. **False** to render colors normally. The default is **False**.|
-| _IncludeBackground_|Optional| **Boolean**|Whether to include background pages in the exported file. The default is  **True**.|
-| _IncludeDocumentProperties_|Optional| **Boolean**|Whether to include document properties in the exported file. The default is  **True**.|
-| _IncludeStructureTags_|Optional| **Boolean**|Whether to include document structure tags to improve document accessibility. The default is  **True**.|
-| _UseISO19005_1_|Optional| **Boolean**|Whether the resulting document is compliant with ISO 19005-1 (PDF/A). The default is  **False**.|
-| _FixedFormatExtClass_|Optional| **[UNKNOWN]**|A pointer to a class that implements the  **IMsoDocExporter** interface for purposes of creating custom fixed output. The default is a null pointer.|
+| _IncludeBackground_|Optional| **Boolean**|Whether to include background pages in the exported file. The default is **True**.|
+| _IncludeDocumentProperties_|Optional| **Boolean**|Whether to include document properties in the exported file. The default is **True**.|
+| _IncludeStructureTags_|Optional| **Boolean**|Whether to include document structure tags to improve document accessibility. The default is **True**.|
+| _UseISO19005_1_|Optional| **Boolean**|Whether the resulting document is compliant with ISO 19005-1 (PDF/A). The default is **False**.|
+| _FixedFormatExtClass_|Optional| **[UNKNOWN]**|A pointer to a class that implements the **IMsoDocExporter** interface for purposes of creating custom fixed output. The default is a null pointer.|
 
 ## Return value
 
@@ -50,11 +48,9 @@ Nothing
 
 ## Remarks
 
-The  **ExportAsFixedFormat** method creates a file that contains a static view of the Visio document.
+The **ExportAsFixedFormat** method creates a file that contains a static view of the Visio document.
 
 Possible values for the  _FixedFormat_ parameter are shown in the following table and declared in **VisFixedFormatTypes** in the Visio type library.
-
-
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -63,16 +59,12 @@ Possible values for the  _FixedFormat_ parameter are shown in the following tabl
 
 Possible values for the  _Intent_ parameter are shown in the following table and declared in **VisDocExIntent** in the Visio type library.
 
-
-
 |Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDocExIntentPrint**|1|Intended to be published online and printed|
 | **visDocExIntentScreen**|0|Intended to be published only online|
 
 Possible values for the  _PrintRange_ parameter are shown in the following table and declared in **VisPrintOutRange** in the Visio type library.
-
-
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -84,8 +76,7 @@ Possible values for the  _PrintRange_ parameter are shown in the following table
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ExportAsFixedFormat** method to export the active Visio document to the root of the C drive in PDF format.
-
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **ExportAsFixedFormat** method to export the active Visio document to the root of the C drive in PDF format.
 
 ```vb
 Public Sub ExportAsFixedFormat_Example() 

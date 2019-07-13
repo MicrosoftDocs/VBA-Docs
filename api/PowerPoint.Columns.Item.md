@@ -21,7 +21,7 @@ Returns a single  **Column** object from the specified **Columns** collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [Columns](./PowerPoint.Columns.md) object.
+_expression_ A variable that represents a [Columns](PowerPoint.Columns.md) object.
 
 
 ## Parameters

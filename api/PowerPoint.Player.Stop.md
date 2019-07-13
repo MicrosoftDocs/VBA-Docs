@@ -21,7 +21,7 @@ Stops the media playing in the specified object.
 
 _expression_. `Stop`
 
-_expression_ A variable that represents a [Player](./PowerPoint.Player.md) object.
+_expression_ A variable that represents a [Player](PowerPoint.Player.md) object.
 
 
 ## See also

@@ -19,7 +19,7 @@ Returns the Microsoft Visual Basic project data stored with a document. Read-onl
 
 ## Syntax
 
-_expression_. `VBProjectData`
+_expression_.**VBProjectData**
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
 
@@ -33,7 +33,7 @@ Byte()
 
 
 
-You can use the  **VBProjectData** property to determine whether a document has a project. The following macro shows how to get a reference to a document in Microsoft Visio to determine whether the document has a project. The code runs from a program outside the Visio document.
+You can use the **VBProjectData** property to determine whether a document has a project. The following macro shows how to get a reference to a document in Microsoft Visio to determine whether the document has a project. The code runs from a program outside the Visio document.
 
 
 

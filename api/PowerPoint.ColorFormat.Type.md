@@ -21,7 +21,7 @@ Represents the type of color. Read-only.
 
 _expression_.**Type**
 
-_expression_ A variable that represents a [ColorFormat](./PowerPoint.ColorFormat.md) object.
+_expression_ A variable that represents a [ColorFormat](PowerPoint.ColorFormat.md) object.
 
 
 ## Return value

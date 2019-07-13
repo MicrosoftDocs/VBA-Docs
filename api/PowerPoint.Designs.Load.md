@@ -21,7 +21,7 @@ Returns a  **Design** object that represents a design loaded into the master lis
 
 _expression_. `Load`( `_TemplateName_`, `_Index_` )
 
-_expression_ A variable that represents a [Designs](./PowerPoint.Designs.md) object.
+_expression_ A variable that represents a [Designs](PowerPoint.Designs.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns an  **[Effect](PowerPoint.Effect.md)** object that represents a new anim
 
 _expression_. `AddEffect`( `_Shape_`, `_effectId_`, `_Level_`, `_trigger_`, `_Index_` )
 
-_expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
+_expression_ A variable that represents a [Sequence](PowerPoint.Sequence.md) object.
 
 
 ## Parameters

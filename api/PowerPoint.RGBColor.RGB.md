@@ -21,7 +21,7 @@ Returns or sets the red-green-blue (RGB) value of a specified color-scheme color
 
 _expression_. `RGB`
 
-_expression_ A variable that represents a [RGBColor](./PowerPoint.RGBColor.md) object.
+_expression_ A variable that represents a [RGBColor](PowerPoint.RGBColor.md) object.
 
 
 ## Return value

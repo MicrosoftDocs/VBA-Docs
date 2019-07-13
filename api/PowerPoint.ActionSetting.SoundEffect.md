@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # ActionSetting.SoundEffect property (PowerPoint)
 
-Returns a  **SoundEffect** object that represents the sound to be played during the transition to the specified slide. Read-only.
+Returns a **SoundEffect** object that represents the sound to be played during the transition to the specified slide. Read-only.
 
 
 ## Syntax
 
-_expression_. `SoundEffect`
+_expression_.**SoundEffect**
 
-_expression_ A variable that represents an [ActionSetting](./PowerPoint.ActionSetting.md) object.
+_expression_ A variable that represents an **[ActionSetting](PowerPoint.ActionSetting.md)** object.
 
 
 ## Return value
@@ -47,9 +47,6 @@ End With
 ```
 
 
-## See also
 
-
-[ActionSetting Object](PowerPoint.ActionSetting.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

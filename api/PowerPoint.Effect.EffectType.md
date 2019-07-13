@@ -21,7 +21,7 @@ Sets or returns an  **MsoAnimEffect** constant that represents an animation effe
 
 _expression_. `EffectType`
 
-_expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
+_expression_ A variable that represents an [Effect](PowerPoint.Effect.md) object.
 
 
 ## Return value

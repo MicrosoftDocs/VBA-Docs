@@ -21,12 +21,12 @@ Returns or sets a string that contains the OLE verb that will be run when the us
 
 _expression_. `ActionVerb`
 
-_expression_ A variable that represents an [ActionSetting](./PowerPoint.ActionSetting.md) object.
+_expression_ A variable that represents an **[ActionSetting](PowerPoint.ActionSetting.md)** object.
 
 
 ## Remarks
 
-The  **[Action](PowerPoint.ActionSetting.Action.md)** property must be set to **ppActionOLEVerb** first for this property to affect the slide show action.
+The **[Action](PowerPoint.ActionSetting.Action.md)** property must be set to **ppActionOLEVerb** first for this property to affect the slide show action.
 
 
 ## Example

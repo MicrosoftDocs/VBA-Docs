@@ -23,14 +23,12 @@ Adds a **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecordse
 
 ## Syntax
 
-_expression_. `AddFromConnectionFile`( `_FileName_` , `_AddOptions_` , `_Name_` )
+_expression_.**AddFromConnectionFile** (_FileName_, _AddOptions_, _Name_)
 
- _expression_ An expression that returns a **[DataRecordsets](Visio.DataRecordsets.md)** object.
+_expression_ An expression that returns a **[DataRecordsets](Visio.DataRecordsets.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -51,8 +49,6 @@ An ODC file uses HTML and XML to store connection and query information. You can
 
 The AddOptions parameter can be a combination of one or more of the following values from the **VisDataRecordsetAddOptions** enumeration, which is declared in the Visio type library. The default is zero (0), which specifies that none of the options be set.
 
-
-
 |Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDataRecordsetNoExternalDataUI**|1|Prevents data in the new data recordset from being displayed in the **External Data** window.|
@@ -61,12 +57,11 @@ The AddOptions parameter can be a combination of one or more of the following va
 | **visDataRecordsetDelayQuery**|8|Adds a data recordset but does not execute the CommandString query until the next time you call the **Refresh** method.|
 | **visDataRecordsetDontCopyLinks**|16|Adds a data recordset, but shape-data links are not cut or copied.|
 
- Once you assign these values, you cannot change them for the life of the **DataRecordset** object.
+Once you assign these values, you cannot change them for the life of the **DataRecordset** object.
 
 The Name argument is an optional string that lets you assign the data recordset a display name. If you specify that the **External Data** window display in the Visio UI, the name you pass for this argument appears on the tab of the **External Data** window that corresponds to the data recordset added.
 
 If the **AddFromConnectionFile** method succeeds, it performs the following actions:
-
 
 - Creates a **DataRecordset** object and assigns it the name specified in the Name parameter. If you do not specify a name, Visio assigns the data recordset the name of the database table that is the source of the data.
     
@@ -78,8 +73,6 @@ If the **AddFromConnectionFile** method succeeds, it performs the following acti
     
 -  Assigns a row ID to each row in the data recordset. For more information about row IDs, see the **[DataRecordset.GetDataRowIDs](Visio.DataRecordset.GetDataRowIDs.md)** property topic.
     
-
-
 
 > [!NOTE] 
 > The **AddFromConnectionFile** method fails and return an exception if it encounters network connection errors, network time outs, or database permission errors.

@@ -9,24 +9,21 @@ localization_priority: Normal
 
 # Page.Comments property (Visio)
 
-Returns a [Comments](Visio.comments.md) object that represents the collection of all the reviewer comments on the page. Read-only.
+Returns a **[Comments](Visio.comments.md)** object that represents the collection of all the reviewer comments on the page. Read-only.
 
 
 ## Syntax
 
-_expression_. `Comments`
+_expression_.**Comments**
 
 _expression_ A variable that represents a **[Page](Visio.Page.md)** object.
 
 
 ## Property value
 
- **IVCOMMENTS**
+**IVCOMMENTS**
 
 
-## See also
 
-
-[Page Object](Visio.Page.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
