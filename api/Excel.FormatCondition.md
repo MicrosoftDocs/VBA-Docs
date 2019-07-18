@@ -27,9 +27,9 @@ Use the **Font**, **Borders**, and **Interior** properties of the **FormatCondit
 
 |Object|Properties you can use with conditional formatting|
 |:-----|:-------------------------------------------------|
-|**[Font](Excel.Font(object).md)**|**Bold**, **Color**, **ColorIndex**, **FontStyle**, **Italic**, **Strikethrough**, **Underline**<br/><br/>The accounting underline styles cannot be used.|
-|**[Border](Excel.Border(object).md)**|**Bottom**, **Color**, **Left**, **Right**, **Style**<br/><br/>The following border styles can be used (all others aren't supported): **xlNone**, **xlSolid**, **xlDash**, **xlDot**, **xlDashDot**, **xlDashDotDot**, **xlGray50**, **xlGray75**, and **xlGray25**.<br/><br/>**Top**, **Weight**<br/><br/>The following border weights can be used (all others aren't supported): **xlWeightHairline** and **xlWeightThin**.|
-|**[Interior](Excel.Interior(object).md)**|**Color**, **ColorIndex**, **Pattern**, **PatternColorIndex**|
+|**[Font](Excel.Font(object).md)**|**Bold**, **Color**, **ColorIndex**, **FontStyle**, **Italic**, **Strikethrough**, **ThemeColor**, **ThemeFont**, **TintAndShade**, and **Underline**<br/><br/>The accounting underline styles cannot be used.|
+|**[Borders](Excel.Borders(object).md)**|The following borders can be used (all others aren't supported): **xlBottom**, **xlLeft**, **xlRight**, **xlTop**.<br/><br/>The following border styles can be used (all others aren't supported): **xlLineStyleNone**, **xlContinuous**, **xlDash**, **xlDot**, **xlDashDot**, **xlDashDotDot**, **xlGray50**, **xlGray75**, and **xlGray25**.<br/><br/>The following border weights can be used (all others aren't supported): **xlHairline** and **xlThin**.|
+|**[Interior](Excel.Interior(object).md)**|**Color**, **ColorIndex**, **Gradient**, **Pattern**, **PatternColor**, **PatternColorIndex**, **PatternThemeColor**, **PatternTintAndShade**, **ThemeColor**, and **TintAndShade**.|
 
 ## Example
 
