@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.FormatCondition
 ms.assetid: 38a2bca9-9b28-3ef2-8c7a-4d35a27229ec
-ms.date: 03/30/2019
+ms.date: 07/18/2019
 localization_priority: Normal
 ---
 
