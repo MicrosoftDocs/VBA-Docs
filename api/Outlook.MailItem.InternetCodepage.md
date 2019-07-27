@@ -33,6 +33,7 @@ The following table lists the values that are supported by the  **InternetCodePa
 
 
 | **Name**| **Character Set**| **Code Page**|
+|---------|------------------|--------------|
 |Arabic (ISO)|iso-8859-6|28596|
 |Arabic (Windows)|windows-1256|1256|
 |Baltic (ISO)|iso-8859-4|28594|
@@ -73,6 +74,7 @@ The following table lists the code pages Microsoft recommends that you use for t
 
 
 | **Name**| **Character Set**| **Code Page**|
+|---------|------------------|--------------|
 |Arabic (Windows)|windows-1256 |1256|
 |Baltic (ISO)|iso-8859-4|28594|
 |Central European (ISO)|iso-8859-2 |28592|
