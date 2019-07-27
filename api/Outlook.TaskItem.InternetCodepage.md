@@ -7,32 +7,31 @@ ms.prod: outlook
 api_name:
 - Outlook.TaskItem.InternetCodepage
 ms.assetid: a9186d58-a6b3-8269-56ab-105456883283
-ms.date: 06/08/2017
+ms.date: 07/28/2019
 localization_priority: Normal
 ---
 
 
 # TaskItem.InternetCodepage property (Outlook)
 
-Returns or sets a  **Long** that determines the Internet code page used by the item. Read/write.
+Returns or sets a **Long** that determines the Internet code page used by the item. Read/write.
 
 
 ## Syntax
 
-_expression_. `InternetCodepage`
+_expression_.**InternetCodepage**
 
-_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
+_expression_ A variable that represents a **[TaskItem](Outlook.TaskItem.md)** object.
 
 
 ## Remarks
 
 The Internet code page defines the text encoding scheme used by the item.
 
-The following table lists the values that are supported by the  **InternetCodePage** property.
+The following table lists the values that are supported by the **InternetCodePage** property.
 
-
-
-| **Name**| **Character Set**| **Code Page**|
+|Name|Character set|Code page|
+|:---|:------------|:--------|
 |Arabic (ISO) |iso-8859-6 |28596|
 |Arabic (Windows)|windows-1256|1256|
 |Baltic (ISO)|iso-8859-4 |28594|
@@ -68,11 +67,12 @@ The following table lists the values that are supported by the  **InternetCodePa
 |Western European (ISO)|iso-8859-1|28591|
 |Western European (Windows) |Windows-1252|1252|
 
+<br/>
+
 The following table lists the code pages Microsoft recommends that you use for the best compatibility with older email systems.
 
-
-
-| **Name**| **Character Set**| **Code Page**|
+|Name|Character set|Code page|
+|:---|:------------|:--------|
 |Arabic (Windows) |windows-1256|1256|
 |Baltic (ISO)|iso-8859-4|28594|
 |Central European (ISO)|iso-8859-2|28592|
@@ -91,9 +91,6 @@ The following table lists the code pages Microsoft recommends that you use for t
 |Vietnamese (Windows)|windows-1258|1258|
 |Western European (ISO)|iso-8859-1|28591|
 
-## See also
 
-
-[TaskItem Object](Outlook.TaskItem.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
