@@ -7,32 +7,31 @@ ms.prod: outlook
 api_name:
 - Outlook.SharingItem.InternetCodepage
 ms.assetid: a13a44f9-89d1-2839-80e5-de1b8bfab305
-ms.date: 06/08/2017
+ms.date: 07/28/2019
 localization_priority: Normal
 ---
 
 
 # SharingItem.InternetCodepage property (Outlook)
 
-Returns or sets a  **Long** that determines the Internet code page used by the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
+Returns or sets a **Long** that determines the Internet code page used by the **SharingItem** object. Read/write.
 
 
 ## Syntax
 
-_expression_. `InternetCodepage`
+_expression_.**InternetCodepage**
 
-_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
+_expression_ A variable that represents a **[SharingItem](Outlook.SharingItem.md)** object.
 
 
 ## Remarks
 
 The Internet code page defines the text encoding scheme used by the item.
 
-The following table lists the values that are supported by the  **InternetCodepage** property.
+The following table lists the values that are supported by the **InternetCodepage** property.
 
-
-
-| **Name**| **Character Set**| **Code Page**|
+|Name|Character set|Code page|
+|:---|:------------|:--------|
 |Arabic (ISO)|iso-8859-6|28596|
 |Arabic (Windows)|windows-1256|1256|
 |Baltic (ISO)|iso-8859-4|28594|
@@ -68,11 +67,12 @@ The following table lists the values that are supported by the  **InternetCodepa
 |Western European (ISO)|iso-8859-1|28591|
 |Western European (Windows)|windows-1252|1252|
 
+<br/>
+
 The following table lists the code pages Microsoft recommends that you use for the best compatibility with older email systems.
 
-
-
-| **Name**| **Character Set**| **Code Page**|
+|Name|Character set|Code page|
+|:---|:------------|:--------|
 |Arabic (Windows)|windows-1256|1256|
 |Baltic (ISO)|iso-8859-4|28594|
 |Central European (ISO)|iso-8859-2|28592|
@@ -91,9 +91,6 @@ The following table lists the code pages Microsoft recommends that you use for t
 |Vietnamese (Windows)|windows-1258|1258|
 |Western European (ISO)|iso-8859-1|28591|
 
-## See also
 
-
-[SharingItem Object](Outlook.SharingItem.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
