@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[ShapeNodes](PowerPoint.ShapeNodes.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The node whose position is to be set.|
-| _ Y1_|Required|**Single**|The x-position (in points) of the new node relative to the upper-left corner of the document.|
+| _ X1_|Required|**Single**|The x-position (in points) of the new node relative to the upper-left corner of the document.|
 | _ Y1_|Required|**Single**|The y-position (in points) of the new node relative to the upper-left corner of the document.|
 
 ## Example
