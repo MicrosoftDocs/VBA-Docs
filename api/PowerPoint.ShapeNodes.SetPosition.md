@@ -14,30 +14,27 @@ localization_priority: Normal
 
 # ShapeNodes.SetPosition method (PowerPoint)
 
-Sets the location of the node specified by  **Index**. Note that, depending on the editing type of the node, this method may affect the position of adjacent nodes.
+Sets the location of the node specified by **Index**. Note that, depending on the editing type of the node, this method may affect the position of adjacent nodes.
 
 
 ## Syntax
 
-_expression_. `SetPosition`( `_Index_`, `_X1_`, `_Y1_` )
+_expression_.**SetPosition** (_Index_, _X1_, _Y1_)
 
 _expression_ A variable that represents a **[ShapeNodes](PowerPoint.ShapeNodes.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The node whose position is to be set.|
-| _ X1_|Required|**Single**|The x-position (in points) of the new node relative to the upper-left corner of the document.|
-| _ Y1_|Required|**Single**|The y-position (in points) of the new node relative to the upper-left corner of the document.|
+| _Index_ |Required|**Long**|The node whose position is to be set.|
+| _X1_ |Required|**Single**|The x-position (in points) of the new node relative to the upper-left corner of the document.|
+| _Y1_ |Required|**Single**|The y-position (in points) of the new node relative to the upper-left corner of the document.|
 
 ## Example
 
 This example moves node two in shape three on _myDocument_ to the right 200 points and down 300 points. Shape three must be a freeform drawing.
-
 
 ```vb
 Set myDocument = ActivePresentation.Slides(1)
@@ -56,9 +53,5 @@ End With
 ```
 
 
-## See also
-
-
-[ShapeNodes Object](PowerPoint.ShapeNodes.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
