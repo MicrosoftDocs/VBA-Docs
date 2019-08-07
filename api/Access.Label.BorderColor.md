@@ -46,22 +46,22 @@ Sub Form_Current()
  Dim lngRed As Long, lngYellow As Long, lngWhite As Long 
  
  If Not IsNull(Me!txtPastDue.Value) Then 
- curAmntDue = Me!txtPastDue.Value 
+  curAmntDue = Me!txtPastDue.Value 
  Else 
- Exit Sub 
+  Exit Sub 
  End If 
  lngRed = RGB(255, 0, 0) 
  lngBlack = RGB(0, 0, 0) 
  lngYellow = RGB(255, 255, 0) 
  lngWhite = RGB(255, 255, 255) 
  If curAmntDue > 100 Then 
- Me!txtPastDue.BorderColor = lngRed 
- Me!txtPastDue.ForeColor = lngRed 
- Me!txtPastDue.BackColor = lngYellow 
+  Me!txtPastDue.BorderColor = lngRed 
+  Me!txtPastDue.ForeColor = lngRed 
+  Me!txtPastDue.BackColor = lngYellow 
  Else 
- Me!txtPastDue.BorderColor = lngBlack 
- Me!txtPastDue.ForeColor = lngBlack 
- Me!txtPastDue.BackColor = lngWhite 
+  Me!txtPastDue.BorderColor = lngBlack 
+  Me!txtPastDue.ForeColor = lngBlack 
+  Me!txtPastDue.BackColor = lngWhite 
  End If 
 End Sub
 ```
