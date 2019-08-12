@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 **Double**
 
-
+See the Excel [NumberValue function](https://support.office.com/en-us/article/numbervalue-function-1b05c8cf-2bfa-4437-af70-596c7ea7d879) help page for details on the meaning of the arguments.
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
