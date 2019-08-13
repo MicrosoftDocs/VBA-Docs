@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm137458
 ms.prod: excel
 ms.assetid: 3ab36c6d-c110-1897-44af-ec093aab432e
-ms.date: 05/24/2019
+ms.date: 08/14/2019
 localization_priority: Normal
 ---
 
@@ -30,11 +30,13 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 | _Arg2_|Required|**String**|Character used as the decimal separator in the string.|
 | _Arg3_|Required|**String**|Character used as the group separator in the string.|
 
+For more information about the meaning of the arguments, see the Excel [NumberValue function](https://support.office.com/article/numbervalue-function-1b05c8cf-2bfa-4437-af70-596c7ea7d879) Help page.
+
 ## Return value
 
 **Double**
 
-See the Excel [NumberValue function](https://support.office.com/en-us/article/numbervalue-function-1b05c8cf-2bfa-4437-af70-596c7ea7d879) help page for details on the meaning of the arguments.
+
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
