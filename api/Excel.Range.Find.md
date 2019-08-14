@@ -16,6 +16,8 @@ localization_priority: Priority
 
 Finds specific information in a range.
 
+[!include[Add-ins note](../includes/addinsnote.md)]
+
 ## Syntax
 
 _expression_.**Find** (_What_, _After_, _LookIn_, _LookAt_, _SearchOrder_, _SearchDirection_, _MatchCase_, _MatchByte_, _SearchFormat_)

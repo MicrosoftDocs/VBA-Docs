@@ -8,6 +8,8 @@ ms.date: 01/16/2019
 
 Have questions or feedback about Office VBA or this documentation? The following list provides guidance about the ways you can receive support and provide feedback.
 
+[!include[Add-ins note](../includes/addinsnote.md)]
+
 <br/>
 
 | Subject | Guidance |
