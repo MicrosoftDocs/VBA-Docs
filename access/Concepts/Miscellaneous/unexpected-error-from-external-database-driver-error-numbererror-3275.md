@@ -12,11 +12,11 @@ localization_priority: Normal
 
 # Unexpected error from external database driver <error number>. (Error 3275)
 
-[!include[Add-ins note](../../../includes/addinsnote.md)]
-
 **Applies to:** Access 2013 | Access 2016
 
 The specified external database driver returned an error. This error can be caused by performing an operation not supported on this type of external database.
+
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 ## See also
 

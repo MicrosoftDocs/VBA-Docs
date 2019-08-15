@@ -14,22 +14,20 @@ localization_priority: Priority
 
 A protected [module](../../Glossary/vbe-glossary.md#module) contains a compilation error. Because the error is in a protected module it cannot be displayed.
 
-[!include[Add-ins note](../../../includes/addinsnote.md)]
-
 This error commonly occurs when code is incompatible with the version or architecture of this application (for example, code in a document targets 32-bit Microsoft Office applications but it is attempting to run on 64-bit Office).
 
- This error has the following cause and solution:
+This error has the following cause and solution:
 
 Cause of the error:
 
-
 - The error is raised when a compilation error exists in the VBA code inside a protected (hidden) module. The specific compilation error is not exposed because the module is protected.
     
-
 Possible solutions:
 
 - If you have access to the VBA code in the document or project, unprotect the module, and then run the code again to view the specific error.
     
 - If you do not have access to the VBA code in the document, then contact the document author to have the code in the hidden module updated.
+
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

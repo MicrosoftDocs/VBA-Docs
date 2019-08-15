@@ -11,13 +11,14 @@ localization_priority: Normal
 
 This section also includes user interface elements of the Visual Basic Editor, such as commands, dialog boxes, windows, and toolbars.
 
-[!include[Add-ins note](../../../includes/addinsnote.md)]
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 - [Dialog boxes](../dialog-boxes.md)
 - [Error messages](../error-messages.md)
 - [Menus and commands](../menus-commands.md)
 - [Toolbars](../toolbars.md)
 - [Window elements](../window-elements.md)
+
 
 ## See also
 

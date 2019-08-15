@@ -14,7 +14,7 @@ localization_priority: Normal
 
 Returns a **Variant** (**Long**) specifying the position of the first occurrence of one string within another.
 
-[!include[Add-ins note](../../../includes/addinsnote.md)]
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 ## Syntax
 

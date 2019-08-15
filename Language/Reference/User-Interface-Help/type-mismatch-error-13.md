@@ -14,8 +14,6 @@ localization_priority: Normal
 
 Visual Basic is able to convert and coerce many values to accomplish [data type](../../Glossary/vbe-glossary.md#data-type) assignments that weren't possible in earlier versions.
 
-[!include[Add-ins note](../../../includes/addinsnote.md)]
-
 However, this error can still occur and has the following causes and solutions:
 
 - **Cause:** The [variable](../../Glossary/vbe-glossary.md#variable) or [property](../../Glossary/vbe-glossary.md#property) isn't of the correct type. For example, a variable that requires an integer value can't accept a string value unless the whole string can be recognized as an integer.
@@ -56,5 +54,7 @@ However, this error can still occur and has the following causes and solutions:
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
+
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

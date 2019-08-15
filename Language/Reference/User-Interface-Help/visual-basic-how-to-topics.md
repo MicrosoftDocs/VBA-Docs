@@ -11,7 +11,7 @@ localization_priority: Normal
 
 Describes useful common procedures (for example, how to use the **Object Browser** or how to set Visual Basic Environment options).
 
-[!include[Add-ins note](../../../includes/addinsnote.md)]
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 - [Add a watch expression](../../Concepts/Forms/add-a-watch-expression.md)
 - [Check or add an Object Library Reference](../../How-to/check-or-add-an-object-library-reference.md)

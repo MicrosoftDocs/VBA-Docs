@@ -13,7 +13,7 @@ localization_priority: Priority
 
 Displays a message in a dialog box, waits for the user to click a button, and returns an **Integer** indicating which button the user clicked.
 
-[!include[Add-ins note](../../../includes/addinsnote.md)]
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 ## Syntax
 

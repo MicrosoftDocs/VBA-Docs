@@ -11,7 +11,7 @@ localization_priority: Normal
 
 Information to help you get started with Visual Basic programming.
 
-[!include[Add-ins note](../../../includes/addinsnote.md)]
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 - [64-bit Visual Basic for Applications overview](../../Concepts/Getting-Started/64-bit-visual-basic-for-applications-overview.md)
 - [Avoid naming conflicts](../../Concepts/Getting-Started/avoiding-naming-conflicts.md)

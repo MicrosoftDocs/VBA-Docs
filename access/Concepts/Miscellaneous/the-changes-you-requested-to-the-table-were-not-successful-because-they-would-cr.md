@@ -11,20 +11,13 @@ localization_priority: Priority
 
 # The changes you requested to the table were not successful because they would create duplicate values in the index, primary key, or relationship. (Error 3022)
 
-[!include[Add-ins note](../../../includes/addinsnote.md)]
-
 **Applies to:** Access 2013 | Access 2016
-
- **In this article**
-[What Is a Primary Key?](#sectionSection0)
-[What Is an Index?](#sectionSection1)
-[Solution](#sectionSection2)
-[To remove the primary key](#sectionSection3)
-
 
 You tried to duplicate a value in a field that is the underlying table's primary key or an index that does not allow duplicates.
 
-## What Is a Primary Key?
+[!include[Add-ins note](~/includes/addinsnote.md)]
+
+## What is a primary key?
 <a name="sectionSection0"> </a>
 
 A primary key is a field or set of fields in your table that provide Microsoft Access with a unique identifier for every row. In a relational database, such as an Access database, you divide your information into separate, subject-based tables. You then use table relationships and primary keys to tell Access how to bring the information back together again. Access uses primary key fields to quickly associate data from multiple tables and combine that data in a meaningful way.
@@ -36,7 +29,7 @@ An example of a poor choice for a primary key would be a name or address. Both c
 Access ensures that every record has a value in the primary key field, and that the value is always unique.
 
 
-## What Is an Index?
+## What is an index?
 <a name="sectionSection1"> </a>
 
 You can use an index to help Access find and sort records faster. An index stores the location of records based on the field or fields that you choose to index. After Access obtains the location from the index, it can then retrieve the data by moving directly to the correct location. In this way, using an index can be considerably faster than scanning through all of the records to find the data.
@@ -60,34 +53,28 @@ When you remove the primary key, the field or fields that previously served as p
 
 1. Before you can remove a primary key, you must ensure that it does not participate in any table relationships. If you try to remove a primary key for which relationships exist, Access warns you that you must delete the relationship first.
     
-2. 
-      - If the tables that participate in the table relationship are open, close them. You cannot delete a table relationship between open tables.
+2. If the tables that participate in the table relationship are open, close them. You cannot delete a table relationship between open tables.
     
-  - On the  **Database Tools** tab, in the **Show/Hide** group, click **Relationships**.
+   - On the **Database Tools** tab, in the **Show/Hide** group, click **Relationships**.
 ![Show Hide Database Tool](../../../images/Ac_DatabaseTool_Show_Hide_ZA10153748.gif)
 
+   - If the tables that participate in the table relationship are not visible, on the **Design** tab, in the **Relationships** group, click **Show Table**. Then select the tables to add in the **Show Table** dialog box, click **Add**, and then click **Close**.
+    
+   - Click the table relationship line for the table relationship that you want to delete (the line becomes bold when it is selected), and then press the DELETE key.
+    
+   - On the **Design** tab, in the **Relationships** group, click **Close**.
 
-    
-  - If the tables that participate in the table relationship are not visible, on the  **Design** tab, in the **Relationships** group, click **Show Table**. Then select the tables to add in the  **Show Table** dialog box, click **Add**, and then click  **Close**.
-    
-  - Click the table relationship line for the table relationship that you want to delete (the line becomes bold when it is selected), and then press the DELETE key.
-    
-  - On the  **Design** tab, in the **Relationships** group, click **Close**.
-![Design tab](../../../images/DesignTabRelationshipsGroup_ZA10178790.gif)
-
-
-    
-3. In the Navigation Pane, right click the table in which you want to remove the primary key and then click  **Design View**.
+   ![Design tab](../../../images/DesignTabRelationshipsGroup_ZA10178790.gif)
+  
+3. In the Navigation Pane, right click the table in which you want to remove the primary key and then click **Design View**.
     
 4. Click the row selector for the current primary key.
     
-5. 
-      - If the primary key consists of a single field, click the row selector for that field.
+5. If the primary key consists of a single field, click the row selector for that field. If the primary key consists of multiple fields, click the row selector for any field in the primary key.
     
-  - If the primary key consists of multiple fields, click the row selector for any field in the primary key.
-    
-6. On the  **Design** tab, in the **Tools** group, click **Primary Key**.
-![Design tab](../../../images/DesignTabToolsGroup_ZA10178781.gif)The key indicator is removed from the field or fields that you previously specified as the primary key.
+6. On the **Design** tab, in the **Tools** group, click **Primary Key**.
+
+   ![Design tab](../../../images/DesignTabToolsGroup_ZA10178781.gif)The key indicator is removed from the field or fields that you previously specified as the primary key.
     
 ## See also
 

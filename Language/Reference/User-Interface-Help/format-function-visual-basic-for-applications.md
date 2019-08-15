@@ -14,11 +14,11 @@ localization_priority: Priority
 
 Returns a **Variant (String)** containing an [expression](../../Glossary/vbe-glossary.md#expression) formatted according to instructions contained in a format expression.
 
-[!include[Add-ins note](../../../includes/addinsnote.md)]
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 ## Syntax
 
-**Format**(_Expression_, [_Format_], [_FirstDayOfWeek_], [_FirstWeekOfYear_])
+**Format**(_Expression_, [ _Format_ ], [ _FirstDayOfWeek_ ], [ _FirstWeekOfYear_ ])
 
 <br/>
 

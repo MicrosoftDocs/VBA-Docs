@@ -11,7 +11,7 @@ localization_priority: Priority
 
 Provides documentation about Visual Basic the language: all its methods, properties, statements, functions, operators, and objects. 
 
-[!include[Add-ins note](../../../includes/addinsnote.md)]
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 - [Character sets](../character-sets.md)
 - [Constants](../constants-visual-basic-for-applications.md)
