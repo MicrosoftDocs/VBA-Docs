@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.Export
 ms.assetid: 19b95f24-c262-902e-7e96-c488affeb88d
-ms.date: 06/08/2017
+ms.date: 08/16/2019
 localization_priority: Normal
 ---
 
@@ -26,26 +26,17 @@ _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** objec
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The name of the exported file.|
-| _FilterName_|Optional|**Variant**|The language-independent name of the graphic filter as it appears in the registry, "PNG" or "GIF" for example. PNG is the default if no value supplied.|
+| _FilterName_|Optional|**Variant**|The language-independent name of the graphic filter as it appears in the registry, for example, PNG or GIF. PNG is the default if no value is supplied.|
 | _Interactive_|Optional|**Variant**|**N/A**|
 
 
 
 ## Example
 
-
-
-
-> [!NOTE] 
 The following code example exports the currently selected shape as a .GIF if the shape contains a chart.
-
-
-
 
 ```vb
 With ActiveWindow.Selection.ShapeRange(1)
