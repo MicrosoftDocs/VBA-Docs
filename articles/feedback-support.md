@@ -1,7 +1,7 @@
 ---
 title: Office VBA support and feedback
 ms.prod: office
-ms.date: 01/16/2019
+ms.date: 08/14/2019
 ---
 
 # Office VBA support and feedback

@@ -5,14 +5,18 @@ f1_keywords:
 - vblr6.chm1011094
 ms.prod: office
 ms.assetid: 078ae060-a90b-e992-2cfb-34ee6b003098
-ms.date: 06/08/2017
+ms.date: 08/14/2019
 localization_priority: Priority
 ---
 
 
 # Can't find project or library
 
-You can't run your code until all missing references are resolved. This error has the following causes and solutions:
+You can't run your code until all missing references are resolved.
+
+[!include[Add-ins note](../../../includes/addinsnote.md)]
+
+This error has the following causes and solutions:
 
 
 
