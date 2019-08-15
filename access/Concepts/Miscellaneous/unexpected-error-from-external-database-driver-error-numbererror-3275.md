@@ -1,5 +1,5 @@
 ---
-title: Unexpected error from external database driver <error number>. (Error 3275)
+title: Unexpected error from external database driver error number (Error 3275)
 keywords: jeterr40.chm5003275
 f1_keywords:
 - jeterr40.chm5003275
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Unexpected error from external database driver <error number>. (Error 3275)
+# Unexpected error from external database driver error number (Error 3275)
 
 **Applies to:** Access 2013 | Access 2016
 

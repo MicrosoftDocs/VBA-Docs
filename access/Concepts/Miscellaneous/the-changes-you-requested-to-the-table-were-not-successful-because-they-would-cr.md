@@ -1,5 +1,5 @@
 ---
-title: The changes you requested to the table were not successful because they would create duplicate values in the index, primary key, or relationship. (Error 3022)
+title: The changes you requested to the table were not successful because they would create duplicate values in the index, primary key, or relationship (Error 3022)
 keywords: jeterr40.chm5003022
 f1_keywords:
 - jeterr40.chm5003022
@@ -9,7 +9,7 @@ ms.date: 08/14/2019
 localization_priority: Priority
 ---
 
-# The changes you requested to the table were not successful because they would create duplicate values in the index, primary key, or relationship. (Error 3022)
+# The changes you requested to the table were not successful because they would create duplicate values in the index, primary key, or relationship (Error 3022)
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -45,18 +45,18 @@ To solve the problem, you must design your tables to eliminate the possibility o
 If the current primary key field needs to support duplicate values, you should remove the current primary key and add an AutoNumber field to your table to act as its primary key. 
 
 
-## To remove the primary key
+### To remove the primary key
 <a name="sectionSection3"> </a>
 
 When you remove the primary key, the field or fields that previously served as primary key no longer provide the primary means of identifying a record. However, removing the primary key does not delete the field or fields from your table, Rather, it removes the primary key designation from those fields. Removing the primary key also removes the index that was created for the primary key.
-
 
 1. Before you can remove a primary key, you must ensure that it does not participate in any table relationships. If you try to remove a primary key for which relationships exist, Access warns you that you must delete the relationship first.
     
 2. If the tables that participate in the table relationship are open, close them. You cannot delete a table relationship between open tables.
     
    - On the **Database Tools** tab, in the **Show/Hide** group, click **Relationships**.
-![Show Hide Database Tool](../../../images/Ac_DatabaseTool_Show_Hide_ZA10153748.gif)
+     
+     ![Show Hide Database Tool](../../../images/Ac_DatabaseTool_Show_Hide_ZA10153748.gif)
 
    - If the tables that participate in the table relationship are not visible, on the **Design** tab, in the **Relationships** group, click **Show Table**. Then select the tables to add in the **Show Table** dialog box, click **Add**, and then click **Close**.
     
@@ -64,7 +64,7 @@ When you remove the primary key, the field or fields that previously served as p
     
    - On the **Design** tab, in the **Relationships** group, click **Close**.
 
-   ![Design tab](../../../images/DesignTabRelationshipsGroup_ZA10178790.gif)
+     ![Design tab](../../../images/DesignTabRelationshipsGroup_ZA10178790.gif)
   
 3. In the Navigation Pane, right click the table in which you want to remove the primary key and then click **Design View**.
     
@@ -74,7 +74,9 @@ When you remove the primary key, the field or fields that previously served as p
     
 6. On the **Design** tab, in the **Tools** group, click **Primary Key**.
 
-   ![Design tab](../../../images/DesignTabToolsGroup_ZA10178781.gif)The key indicator is removed from the field or fields that you previously specified as the primary key.
+   ![Design tab](../../../images/DesignTabToolsGroup_ZA10178781.gif)
+   
+   The key indicator is removed from the field or fields that you previously specified as the primary key.
     
 ## See also
 
