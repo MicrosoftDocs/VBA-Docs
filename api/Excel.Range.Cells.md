@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.Cells
 ms.assetid: 32a6ecc7-2366-2cec-1feb-0966241a435d
-ms.date: 05/10/2019
+ms.date: 08/14/2019
 localization_priority: Priority
 ---
 
@@ -15,6 +15,8 @@ localization_priority: Priority
 # Range.Cells property (Excel)
 
 Returns a **Range** object that represents the cells in the specified range.
+
+[!include[Add-ins note](../includes/addinsnote.md)]
 
 
 ## Syntax

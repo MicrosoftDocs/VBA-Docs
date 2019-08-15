@@ -5,14 +5,14 @@ f1_keywords:
 - jeterr40.chm5003275
 ms.prod: access
 ms.assetid: 430cfbe5-0071-32e3-7d95-50a2f3c85870
-ms.date: 06/08/2017
+ms.date: 08/14/2019
 localization_priority: Normal
 ---
 
 
 # Unexpected error from external database driver <error number>. (Error 3275)
 
-  
+[!include[Add-ins note](../../../includes/addinsnote.md)]
 
 **Applies to:** Access 2013 | Access 2016
 

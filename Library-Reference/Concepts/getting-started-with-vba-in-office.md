@@ -2,7 +2,7 @@
 title: Getting started with VBA in Office
 ms.prod: office
 ms.assetid: 7208a87a-a567-41d9-af5b-0df3884c58d9
-ms.date: 01/02/2019
+ms.date: 08/14/2019
 localization_priority: Priority
 ---
 
@@ -20,6 +20,8 @@ The Office suite of applications has a rich set of features. There are many diff
 Beyond the power of scripting VBA to accelerate every-day tasks, you can use VBA to add new functionality to Office applications or to prompt and interact with the user of your documents in ways that are specific to your business needs. For example, you could write some VBA code that displays a pop up message that reminds users to save a document to a particular network drive the first time they try to save it.
 
 This article explores some of the primary reasons to leverage the power of VBA programming. It explores the VBA language and the out-of-the-box tools that you can use to work with your solutions. Finally, it includes some tips and ways to avoid some common programming frustrations and missteps.
+
+[!include[Add-ins note](../../includes/addinsnote.md)]
 
 ## When to use VBA and why
 

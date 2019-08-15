@@ -5,14 +5,14 @@ f1_keywords:
 - jeterr40.chm5003314
 ms.prod: access
 ms.assetid: 451a9b22-e0ec-cb43-92d4-2f010086802c
-ms.date: 06/08/2017
+ms.date: 08/14/2019
 localization_priority: Priority
 ---
 
 
 # The field <name> cannot contain a Null value because the Required property for this field is set to True. Enter a value in this field. (Error 3314)
 
-  
+[!include[Add-ins note](../../../includes/addinsnote.md)]
 
 **Applies to:** Access 2013 | Access 2016
 
