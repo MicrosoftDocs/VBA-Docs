@@ -5,7 +5,7 @@ f1_keywords:
 - vbcn6.chm1076673
 ms.prod: office
 ms.assetid: 17a9dec1-d8f2-584c-324f-164b4f7b156f
-ms.date: 12/21/2018
+ms.date: 08/14/2019
 localization_priority: Priority
 ---
 
@@ -17,7 +17,6 @@ To call a **[Sub](../../reference/user-interface-help/sub-statement.md)** proced
 You can use a **Sub** procedure to organize other procedures so they are easier to understand and debug. In the following example, the **Sub** procedure `Main` calls the **Sub** procedure `MultiBeep`, passing the value 56 for its argument. 
 
 After `MultiBeep` runs, control returns to `Main`, and `Main` calls the **Sub** procedure `Message`. `Message` displays a message box; when the user clicks **OK**, control returns to `Main`, and `Main` finishes.
-
 
 ```vb
 Sub Main() 
@@ -36,6 +35,7 @@ Sub Message()
 End Sub
 ```
 
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 ## Call Sub procedures with more than one argument
 

@@ -2,7 +2,7 @@
 title: Visual Basic language reference
 ms.prod: office
 ms.assetid: ea3d048c-6984-42a0-8a27-27172aa69620
-ms.date: 03/13/2019 
+ms.date: 08/14/2019
 localization_priority: Priority
 ---
 
@@ -10,6 +10,8 @@ localization_priority: Priority
 # Visual Basic language reference
 
 Provides documentation about Visual Basic the language: all its methods, properties, statements, functions, operators, and objects. 
+
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 - [Character sets](../character-sets.md)
 - [Constants](../constants-visual-basic-for-applications.md)

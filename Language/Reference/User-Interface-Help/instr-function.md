@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1008946
 ms.prod: office
 ms.assetid: d83b314a-e77c-fc18-0744-266f982a82b7
-ms.date: 12/13/2018
+ms.date: 08/14/2019
 localization_priority: Normal
 ---
 
@@ -13,6 +13,8 @@ localization_priority: Normal
 # InStr function
 
 Returns a **Variant** (**Long**) specifying the position of the first occurrence of one string within another.
+
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 ## Syntax
 

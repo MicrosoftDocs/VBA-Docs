@@ -2,7 +2,7 @@
 title: Visual Basic user interface help
 ms.prod: office
 ms.assetid: ceb37836-24b1-4903-bfac-e3e2ad553867
-ms.date: 11/26/2018
+ms.date: 08/14/2019
 localization_priority: Normal
 ---
 
@@ -11,11 +11,14 @@ localization_priority: Normal
 
 This section also includes user interface elements of the Visual Basic Editor, such as commands, dialog boxes, windows, and toolbars.
 
+[!include[Add-ins note](~/includes/addinsnote.md)]
+
 - [Dialog boxes](../dialog-boxes.md)
 - [Error messages](../error-messages.md)
 - [Menus and commands](../menus-commands.md)
 - [Toolbars](../toolbars.md)
 - [Window elements](../window-elements.md)
+
 
 ## See also
 

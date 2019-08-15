@@ -2,7 +2,7 @@
 title: Visual Basic how-to topics
 ms.prod: office
 ms.assetid: ca0cc8c7-69eb-45a3-aefc-5df69d64cd22
-ms.date: 11/21/2018
+ms.date: 08/14/2019
 localization_priority: Normal
 ---
 
@@ -10,6 +10,8 @@ localization_priority: Normal
 # Visual Basic how-to topics
 
 Describes useful common procedures (for example, how to use the **Object Browser** or how to set Visual Basic Environment options).
+
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 - [Add a watch expression](../../Concepts/Forms/add-a-watch-expression.md)
 - [Check or add an Object Library Reference](../../How-to/check-or-add-an-object-library-reference.md)

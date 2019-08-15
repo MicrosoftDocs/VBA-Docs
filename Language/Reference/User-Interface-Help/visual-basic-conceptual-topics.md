@@ -2,7 +2,7 @@
 title: Visual Basic conceptual topics
 ms.prod: office
 ms.assetid: 2628d596-7a4a-4a4d-89df-8f1faabd7d49
-ms.date: 11/21/2018
+ms.date: 08/14/2019
 localization_priority: Normal
 ---
 
@@ -10,6 +10,8 @@ localization_priority: Normal
 # Visual Basic conceptual topics
 
 Information to help you get started with Visual Basic programming.
+
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 - [64-bit Visual Basic for Applications overview](../../Concepts/Getting-Started/64-bit-visual-basic-for-applications-overview.md)
 - [Avoid naming conflicts](../../Concepts/Getting-Started/avoiding-naming-conflicts.md)

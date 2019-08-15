@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range
 ms.assetid: b8207778-0dcc-4570-1234-f130532cc8cd
-ms.date: 05/15/2019
+ms.date: 08/14/2019
 localization_priority: Priority
 ---
 
@@ -15,6 +15,8 @@ localization_priority: Priority
 # Range object (Excel)
 
 Represents a cell, a row, a column, a selection of cells containing one or more contiguous blocks of cells, or a 3D range.
+
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 ## Remarks
 

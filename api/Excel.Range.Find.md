@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.Find
 ms.assetid: d9585265-8164-cb4d-a9e3-262f6e06b6b8
-ms.date: 06/06/2019
+ms.date: 08/14/2019
 localization_priority: Priority
 ---
 
@@ -15,6 +15,8 @@ localization_priority: Priority
 # Range.Find method (Excel)
 
 Finds specific information in a range.
+
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 ## Syntax
 

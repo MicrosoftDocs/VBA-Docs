@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbooks.Open
 ms.assetid: 1d1c3fca-ae1a-0a91-65a2-6f3f0fb308a0
-ms.date: 05/18/2019
+ms.date: 08/14/2019
 localization_priority: Normal
 ---
 
@@ -15,6 +15,8 @@ localization_priority: Normal
 # Workbooks.Open method (Excel)
 
 Opens a workbook.
+
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 
 ## Syntax

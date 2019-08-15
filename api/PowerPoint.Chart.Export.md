@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.Export
 ms.assetid: 19b95f24-c262-902e-7e96-c488affeb88d
-ms.date: 06/08/2017
+ms.date: 08/16/2019
 localization_priority: Normal
 ---
 
@@ -26,34 +26,20 @@ _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** objec
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The name of the exported file.|
-| _FilterName_|Optional|**Variant**|The language-independent name of the graphic filter as it appears in the registry.|
-| _Interactive_|Optional|**Variant**|**True** to display the dialog box that contains the filter-specific options. **False** to indicate that Word should use the default values for the filter. The default is **False**.|
+| _FilterName_|Optional|**Variant**|The language-independent name of the graphic filter as it appears in the registry, for example, PNG or GIF. PNG is the default if no value is supplied.|
+| _Interactive_|Optional|**Variant**|**N/A**|
 
-## Return value
-
-A  **Boolean** value that indicates whether the export was successful.
 
 
 ## Example
 
-
-
-
-> [!NOTE] 
-> Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
-
-The following example exports the first chart in the active document as a GIF file.
-
-
-
+The following code example exports the currently selected shape as a .GIF if the shape contains a chart.
 
 ```vb
-With ActiveDocument.InlineShapes(1)
+With ActiveWindow.Selection.ShapeRange(1)
     If .HasChart Then
         .Chart.Export _
             FileName:="current_sales.gif", FilterName:="GIF"
@@ -61,10 +47,5 @@ With ActiveDocument.InlineShapes(1)
 End With
 ```
 
-
-## See also
-
-
-[Chart Object](PowerPoint.Chart.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

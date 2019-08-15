@@ -5,13 +5,15 @@ f1_keywords:
 - vblr6.chm1008978
 ms.prod: office
 ms.assetid: 715595a7-4286-a0cb-dec9-2d2e79bda102
-ms.date: 12/13/2018
+ms.date: 08/14/2019
 localization_priority: Priority
 ---
 
 # MsgBox function
 
 Displays a message in a dialog box, waits for the user to click a button, and returns an **Integer** indicating which button the user clicked.
+
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 ## Syntax
 
