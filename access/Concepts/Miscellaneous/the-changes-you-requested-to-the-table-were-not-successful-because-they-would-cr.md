@@ -11,7 +11,7 @@ localization_priority: Priority
 
 # The changes you requested to the table were not successful because they would create duplicate values in the index, primary key, or relationship. (Error 3022)
 
-[!include[Add-ins note](../includes/addinsnote.md)]
+[!include[Add-ins note](../../../includes/addinsnote.md)]
 
 **Applies to:** Access 2013 | Access 2016
 

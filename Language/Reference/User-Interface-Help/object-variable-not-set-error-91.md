@@ -14,7 +14,7 @@ localization_priority: Normal
 
 There are two steps to creating an [object variable](../../Glossary/vbe-glossary.md#object-variable). First you must declare the object variable. Then you must assign a valid reference to the object variable using the **Set** statement.
 
-[!include[Add-ins note](../includes/addinsnote.md)]
+[!include[Add-ins note](../../../includes/addinsnote.md)]
 
 Similarly, a **With...End With** block must be initialized by executing the **With** statement entry point. This error has the following causes and solutions:
 
