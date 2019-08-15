@@ -16,7 +16,7 @@ localization_priority: Priority
 
 Copies the range to the specified range or to the Clipboard.
 
-[!include[Add-ins note](../includes/addinsnote.md)]
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 
 ## Syntax

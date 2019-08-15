@@ -16,7 +16,7 @@ localization_priority: Priority
 
 Represents a cell, a row, a column, a selection of cells containing one or more contiguous blocks of cells, or a 3D range.
 
-[!include[Add-ins note](../includes/addinsnote.md)]
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 ## Remarks
 

@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Saves changes to the workbook in a different file.
 
-[!include[Add-ins note](../includes/addinsnote.md)]
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 
 ## Syntax

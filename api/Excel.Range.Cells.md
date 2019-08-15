@@ -16,7 +16,7 @@ localization_priority: Priority
 
 Returns a **Range** object that represents the cells in the specified range.
 
-[!include[Add-ins note](../includes/addinsnote.md)]
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 
 ## Syntax

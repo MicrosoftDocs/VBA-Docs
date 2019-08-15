@@ -16,7 +16,7 @@ localization_priority: Priority
 
 Finds specific information in a range.
 
-[!include[Add-ins note](../includes/addinsnote.md)]
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 ## Syntax
 

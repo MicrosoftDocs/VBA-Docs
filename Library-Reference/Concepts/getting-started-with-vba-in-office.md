@@ -21,7 +21,7 @@ Beyond the power of scripting VBA to accelerate every-day tasks, you can use VBA
 
 This article explores some of the primary reasons to leverage the power of VBA programming. It explores the VBA language and the out-of-the-box tools that you can use to work with your solutions. Finally, it includes some tips and ways to avoid some common programming frustrations and missteps.
 
-[!include[Add-ins note](../../includes/addinsnote.md)]
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 ## When to use VBA and why
 

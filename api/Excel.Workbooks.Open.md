@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Opens a workbook.
 
-[!include[Add-ins note](../includes/addinsnote.md)]
+[!include[Add-ins note](~/includes/addinsnote.md)]
 
 
 ## Syntax
