@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.Copy
 ms.assetid: ac5207ac-6be5-3c7e-2c61-67954a59e9df
-ms.date: 05/10/2019
+ms.date: 08/14/2019
 localization_priority: Priority
 ---
 
@@ -15,6 +15,8 @@ localization_priority: Priority
 # Range.Copy method (Excel)
 
 Copies the range to the specified range or to the Clipboard.
+
+[!include[Add-ins note](../includes/addinsnote.md)]
 
 
 ## Syntax

@@ -5,14 +5,18 @@ f1_keywords:
 - vblr6.chm1011290
 ms.prod: office
 ms.assetid: cbc7e902-b468-c335-5620-1ff9a2026b9b
-ms.date: 06/08/2017
+ms.date: 08/14/2019
 localization_priority: Normal
 ---
 
 
 # Type mismatch (Error 13)
 
-Visual Basic is able to convert and coerce many values to accomplish [data type](../../Glossary/vbe-glossary.md#data-type) assignments that weren't possible in earlier versions. However, this error can still occur and has the following causes and solutions:
+Visual Basic is able to convert and coerce many values to accomplish [data type](../../Glossary/vbe-glossary.md#data-type) assignments that weren't possible in earlier versions.
+
+[!include[Add-ins note](../../../includes/addinsnote.md)]
+
+However, this error can still occur and has the following causes and solutions:
 
 - **Cause:** The [variable](../../Glossary/vbe-glossary.md#variable) or [property](../../Glossary/vbe-glossary.md#property) isn't of the correct type. For example, a variable that requires an integer value can't accept a string value unless the whole string can be recognized as an integer.
     
