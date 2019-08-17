@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Trappable Errors
 
-Trappable errors can occur while an application is running. Some trappable errors can also occur during development or [compile time](../../Glossary/vbe-glossary.md#compile-time). You can test and respond to trappable errors using the  [**On Error**](../../reference/user-interface-help/on-error-statement) statement and the [**Err**](../../reference/user-interface-help/err-object.md) object. Unused [error numbers](../../Glossary/vbe-glossary.md#error-number.md) in the range 1 - 1000 are reserved for future use by Visual Basic.
+Trappable errors can occur while an application is running. Some trappable errors can also occur during development or [compile time](../../Glossary/vbe-glossary.md#compile-time). You can test and respond to trappable errors using the  [**On Error**](../../reference/user-interface-help/on-error-statement.md) statement and the [**Err**](../../reference/user-interface-help/err-object.md) object. Unused [error numbers](../../Glossary/vbe-glossary.md#error-number) in the range 1 - 1000 are reserved for future use by Visual Basic.
 
 
 
