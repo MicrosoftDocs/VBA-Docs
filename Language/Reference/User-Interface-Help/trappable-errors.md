@@ -1,22 +1,22 @@
 ---
-title: Trappable Errors
+title: Trappable errors
 keywords: vblr6.chm1010125
 f1_keywords:
 - vblr6.chm1010125
 ms.prod: office
 ms.assetid: 11bf80a2-cc16-749f-3b7e-3b08ecf36081
-ms.date: 06/08/2017
+ms.date: 08/18/2019
 localization_priority: Normal
 ---
 
 
-# Trappable Errors
+# Trappable errors
 
-Trappable errors can occur while an application is running. Some trappable errors can also occur during development or [compile time](../../Glossary/vbe-glossary.md#compile-time). You can test and respond to trappable errors using the  **On Error** statement and the **Err** object. Unused[error numbers](../../Glossary/vbe-glossary.md#error-number) in the range 1 - 1000 are reserved for future use by Visual Basic.
+Trappable errors can occur while an application is running. Some trappable errors can also occur during development or [compile time](../../Glossary/vbe-glossary.md#compile-time). You can test and respond to trappable errors by using the **[On Error](../../reference/user-interface-help/on-error-statement.md)** statement and the **[Err](../../reference/user-interface-help/err-object.md)** object. Unused [error numbers](../../Glossary/vbe-glossary.md#error-number) in the range 1&ndash;1000 are reserved for future use by Visual Basic.
 
+<br/>
 
-
-|**Code**|**Message**|
+|Code|Message|
 |:-----|:-----|
 |3|[Return without GoSub](return-without-gosub-error-3.md)|
 |5|[Invalid procedure call](invalid-procedure-call-or-argument-error-5.md)|
