@@ -128,6 +128,7 @@ Windows(1).Selection.ShapeRange(2).Fill.ForeColor _
 - [Count](PowerPoint.ShapeRange.Count.md)
 - [Creator](PowerPoint.ShapeRange.Creator.md)
 - [CustomerData](PowerPoint.ShapeRange.CustomerData.md)
+- [Decorative](PowerPoint.ShapeRange.Decorative.md)
 - [Fill](PowerPoint.ShapeRange.Fill.md)
 - [Glow](PowerPoint.ShapeRange.Glow.md)
 - [GraphicStyle](PowerPoint.ShapeRange.GraphicStyle.md)

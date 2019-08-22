@@ -102,6 +102,7 @@ The recorder always uses the **ShapeRange** property when recording shapes.
 - [Child](Word.ShapeRange.Child.md)
 - [Count](Word.ShapeRange.Count.md)
 - [Creator](Word.ShapeRange.Creator.md)
+- [Decorative](Word.ShapeRange.Decorative.md)
 - [Fill](Word.ShapeRange.Fill.md)
 - [Glow](Word.ShapeRange.Glow.md)
 - [GraphicStyle](Word.ShapeRange.GraphicStyle.md)

@@ -136,6 +136,7 @@ The **TextFrame** property returns the **TextFrame** object, which contains all 
 - [Chart](Word.Shape.Chart.md)
 - [Child](Word.Shape.Child.md)
 - [Creator](Word.Shape.Creator.md)
+- [Decorative](Word.Shape.Decorative.md)
 - [Fill](Word.Shape.Fill.md)
 - [Glow](Word.Shape.Glow.md)
 - [GraphicStyle](Word.Shape.GraphicStyle.md)

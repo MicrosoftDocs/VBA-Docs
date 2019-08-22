@@ -18,25 +18,20 @@ Sets or returns the decorative flag for the specified object. Read/write.
 
 ## Syntax
 
-_expression_. `Decorative`
+_expression_.**Decorative**
 
- _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
+_expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Remarks
 
-The value of the  **Decorative** property can be one of these **MsoTriState** constants.
-
-
+The value of the **Decorative** property can be one of these **MsoTriState** constants.
 
 |Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified shape range is not marked as decorative.|
 |**msoTrue**| The specified shape range is marked as decorative.|
 
-## See also
 
-
-[ShapeRange Object](PowerPoint.ShapeRange.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

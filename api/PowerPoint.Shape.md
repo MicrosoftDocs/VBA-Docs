@@ -162,6 +162,7 @@ Use the **[Group](PowerPoint.ShapeRange.Group.md)** or **[Regroup](PowerPoint.Sh
 - [ConnectorFormat](PowerPoint.Shape.ConnectorFormat.md)
 - [Creator](PowerPoint.Shape.Creator.md)
 - [CustomerData](PowerPoint.Shape.CustomerData.md)
+- [Decorative](PowerPoint.Shape.Decorative.md)
 - [Fill](PowerPoint.Shape.Fill.md)
 - [Glow](PowerPoint.Shape.Glow.md)
 - [GraphicStyle](PowerPoint.Shape.GraphicStyle.md)
