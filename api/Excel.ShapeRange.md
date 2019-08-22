@@ -106,6 +106,7 @@ Windows(1).Selection.ShapeRange(2).Fill.ForeColor.RGB = _
 - [ConnectorFormat](Excel.ShapeRange.ConnectorFormat.md)
 - [Count](Excel.ShapeRange.Count.md)
 - [Creator](Excel.ShapeRange.Creator.md)
+- [Decorative](Excel.ShapeRange.Decorative.md)
 - [Fill](Excel.ShapeRange.Fill.md)
 - [Glow](Excel.ShapeRange.Glow.md)
 - [GraphicStyle](Excel.ShapeRange.GraphicStyle.md)
