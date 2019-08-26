@@ -21,7 +21,7 @@ Returns the  **Layers** collection of an object. Read-only.
 
 _expression_. `Layers`
 
-_expression_ A variable that represents a **[Page](Visio.Page.md)** object.
+_expression_ A variable that represents a **[Layer](Visio.Layer.md)** object.
 
 
 ## Return value
