@@ -46,15 +46,16 @@ If _Before_ and _After_ are both omitted, the new sheet is inserted before the a
 This example inserts a new worksheet before the last worksheet in the active workbook.
 
 ```vb
-ActiveWorkbook.Sheets.Add(Before:=Worksheets(Worksheets.Count))
-```
+ActiveWorkbook.Sheets.Add Before:=ActiveWorkbook.Worksheets(ActiveWorkbook.Worksheets.Count)
+``
 
 <br/>
 
-This example inserts a new worksheet after the last worksheet in the active workbook.
+This example inserts a new worksheet after the last worksheet in the active workbook, and captures the returned object reference in a local variable.
 
 ```vb
-ActiveWorkbook.Sheets.Add(After:=Worksheets(Worksheets.Count))
+Dim sheet As Worksheet
+Set sheet = ActiveWorkbook.Sheets.Add(After:=ActiveWorkbook.Worksheets(ActiveWorkbook.Worksheets.Count))
 ```
 
 > [!NOTE] 
