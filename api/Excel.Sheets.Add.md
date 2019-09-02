@@ -47,7 +47,7 @@ This example inserts a new worksheet before the last worksheet in the active wor
 
 ```vb
 ActiveWorkbook.Sheets.Add Before:=ActiveWorkbook.Worksheets(ActiveWorkbook.Worksheets.Count)
-``
+```
 
 <br/>
 
