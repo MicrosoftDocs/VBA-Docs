@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # Documents.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Documents** object.
+Returns an **Object** that represents the parent object of the specified **Documents** object.
 
 
 ## Syntax
 
 _expression_.**Parent**
 
-_expression_ Required. A variable that represents a '[Documents](Word.documents.md)' collection.
+_expression_ Required. A variable that represents a **[Documents](Word.Documents.md)** object.
 
 
-## See also
 
-
-[Documents Collection Object](Word.documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

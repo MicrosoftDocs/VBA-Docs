@@ -21,20 +21,17 @@ Closes the specified documents.
 
 _expression_.**Close** (_SaveChanges_, _OriginalFormat_, _RouteDocument_)
 
-_expression_ Required. A variable that represents a '[Documents](Word.documents.md)' collection.
+_expression_ Required. A variable that represents a **[Documents](Word.Documents.md)** object.
 
 
 ## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _SaveChanges_|Optional| **Variant**|Specifies the save action for the document. Can be one of the following  **[WdSaveOptions](Word.WdSaveOptions.md)** constants: **wdDoNotSaveChanges**, **wdPromptToSaveChanges**, or **wdSaveChanges**.|
-| _OriginalFormat_|Optional| **Variant**|Specifies the save format for the document. Can be one of the following  **[WdOriginalFormat](Word.WdOriginalFormat.md)** constants: **wdOriginalDocumentFormat**, **wdPromptUser**, or **wdWordDocument**.|
+| _SaveChanges_|Optional| **Variant**|Specifies the save action for the document. Can be one of the following **[WdSaveOptions](Word.WdSaveOptions.md)** constants: **wdDoNotSaveChanges**, **wdPromptToSaveChanges**, or **wdSaveChanges**.|
+| _OriginalFormat_|Optional| **Variant**|Specifies the save format for the document. Can be one of the following **[WdOriginalFormat](Word.WdOriginalFormat.md)** constants: **wdOriginalDocumentFormat**, **wdPromptUser**, or **wdWordDocument**.|
 | _RouteDocument_|Optional| **Variant**| **True** to route the document to the next recipient. If the document doesn't have a routing slip attached, this argument is ignored.|
 
-## See also
 
-
-[Documents Collection Object](Word.documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

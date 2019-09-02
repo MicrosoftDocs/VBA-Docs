@@ -14,19 +14,17 @@ localization_priority: Normal
 
 # Documents.OpenNoRepairDialog method (Word)
 
-Opens the specified document and adds it to the [Documents](Word.documents.md) collection.
+Opens the specified document and adds it to the **Documents** collection.
 
 
 ## Syntax
 
-_expression_. `OpenNoRepairDialog`( `_FileName_` , `_ConfirmConversions_` , `_ReadOnly_` , `_AddToRecentFiles_` , `_PasswordDocument_` , `_PasswordTemplate_` , `_Revert_` , `_WritePasswordDocument_` , `_WritePasswordTemplate_` , `_Format_` , `_Encoding_` , `_Visible_` , `_OpenAndRepair_` , `_DocumentDirection_` , `_NoEncodingDialog_` , `_XMLTransform_` )
+_expression_.**OpenNoRepairDialog** (_FileName_, _ConfirmConversions_, _ReadOnly_, _AddToRecentFiles_, _PasswordDocument_, _PasswordTemplate_, _Revert_, _WritePasswordDocument_, _WritePasswordTemplate_, _Format_, _Encoding_, _Visible_, _OpenAndRepair_, _DocumentDirection_, _NoEncodingDialog_, _XMLTransform_)
 
-_expression_ A variable that represents a '[Documents](Word.documents.md)' object.
+_expression_ A variable that represents a **[Documents](Word.Documents.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -36,20 +34,20 @@ _expression_ A variable that represents a '[Documents](Word.documents.md)' objec
 | _AddToRecentFiles_|Optional| **Variant**| **True** to add the file name to the list of recently used files at the bottom of the **File** menu.|
 | _PasswordDocument_|Optional| **Variant**|The password for opening the document.|
 | _PasswordTemplate_|Optional| **Variant**|The password for opening the template.|
-| _Revert_|Optional| **Variant**|Controls what happens if FileName is the name of an open document.  **True** to discard any unsaved changes to the open document and reopen the file. **False** to activate the open document.|
+| _Revert_|Optional| **Variant**|Controls what happens if FileName is the name of an open document. **True** to discard any unsaved changes to the open document and reopen the file. **False** to activate the open document.|
 | _WritePasswordDocument_|Optional| **Variant**|The password for saving changes to the document.|
 | _WritePasswordTemplate_|Optional| **Variant**|The password for saving changes to the template.|
-| _Format_|Optional| **Variant**|The file converter to be used to open the document. Can be one of the  **[WdOpenFormat](Word.WdOpenFormat.md)** constants. The default is **wdOpenFormatAuto**.|
-| _Encoding_|Optional| **Variant**|The document encoding (code page or character set) to be used by Word when you view the saved document. Can be any valid  **[MsoEncoding](Office.MsoEncoding.md)** constant. For the list of valid **MsoEncoding** constants, see the Object Browser in the Visual Basic Editor. The default is the system code page.|
+| _Format_|Optional| **Variant**|The file converter to be used to open the document. Can be one of the **[WdOpenFormat](Word.WdOpenFormat.md)** constants. The default is **wdOpenFormatAuto**.|
+| _Encoding_|Optional| **Variant**|The document encoding (code page or character set) to be used by Word when you view the saved document. Can be any valid **[MsoEncoding](Office.MsoEncoding.md)** constant. For the list of valid **MsoEncoding** constants, see the Object Browser in the Visual Basic Editor. The default is the system code page.|
 | _Visible_|Optional| **Variant**| **True** if the document is opened in a visible window. The default is **True**.|
 | _OpenAndRepair_|Optional| **Variant**| **True** to repair the document to prevent document corruption.|
-| _DocumentDirection_|Optional| **Variant**|Indicates the horizontal flow of text in a document. Can be any valid  **[WdDocumentDirection](Word.WdDocumentDirection.md)** constant. The default is **wdLeftToRight**.|
+| _DocumentDirection_|Optional| **Variant**|Indicates the horizontal flow of text in a document. Can be any valid **[WdDocumentDirection](Word.WdDocumentDirection.md)** constant. The default is **wdLeftToRight**.|
 | _NoEncodingDialog_|Optional| **Variant**| **True** to skip displaying the **Encoding** dialog box that Word displays if the text encoding cannot be recognized. The default is **False**.|
 | _XMLTransform_|Optional| **Variant**|Specifies a transform to use.|
 
 ## Return value
 
-A  **[Document](Word.Document.md)** object that represents the specified document.
+A **[Document](Word.Document.md)** object that represents the specified document.
 
 
 ## Security
@@ -62,17 +60,15 @@ A  **[Document](Word.Document.md)** object that represents the specified documen
 
 The following example opens MyDoc.doc as a read-only document.
 
-
 ```vb
 Sub OpenDoc() 
  Documents.OpenNoRepairDialog FileName:="C:\MyFiles\MyDoc.doc", ReadOnly:=True 
 End Sub
 ```
 
+<br/>
+
 The following example opens Test.wp by using the WordPerfect 6.x file converter.
-
-
-
 
 ```vb
 Sub OpenDoc2() 
@@ -83,9 +79,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Documents Collection Object](Word.documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
