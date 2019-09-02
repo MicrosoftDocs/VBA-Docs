@@ -14,35 +14,30 @@ localization_priority: Normal
 
 # Documents.AddBlogDocument method (Word)
 
-Returns a  **Document** object that represents a new blog document that Microsoft Word publishes to the account described by the first three parameters.
+Returns a **Document** object that represents a new blog document that Microsoft Word publishes to the account described by the first three parameters.
 
 
 ## Syntax
 
-_expression_. `AddBlogDocument`( `_ProviderID_` , `_PostURL_` , `_BlogName_` , `_PostID_` )
+_expression_.**AddBlogDocument** (_ProviderID_, _PostURL_, _BlogName_, _PostID_)
 
- _expression_ An expression that returns a '[Documents](Word.documents.md)' object.
+_expression_ An expression that returns a **[Documents](Word.Documents.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ProviderID_|Required| **String**|A GUID that is the unique value a provider uses when they register themselves with Word.|
 | _PostURL_|Required| **String**|The URL that is used to add posts to the blog.|
 | _BlogName_|Required| **String**|A display name for the blog that will be used in Word.|
-| _PostID_|Optional| **String**|The ID for an existing post with which to populate the document created by using the  **AddBlogDocument** method.|
+| _PostID_|Optional| **String**|The ID for an existing post with which to populate the document created by using the **AddBlogDocument** method.|
 
 ## Remarks
 
 This method creates a new document, and it also registers the specified blog account with Word if it is not already registered. In addition, if the PostID parameter is specified, the new document is populated with the contents of the post specified by the value of the PostID parameter, from the provider's Web site.
 
 
-## See also
 
-
-[Documents Collection Object](Word.documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

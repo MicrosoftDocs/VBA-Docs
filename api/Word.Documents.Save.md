@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Documents.Save method (Word)
 
-Saves all the documents in the  **Documents** collection.
+Saves all the documents in the **Documents** collection.
 
 
 ## Syntax
 
 _expression_.**Save** (_NoPrompt_, _OriginalFormat_)
 
-_expression_ Required. A variable that represents a '[Documents](Word.documents.md)' collection.
+_expression_ Required. A variable that represents a **[Documents](Word.Documents.md)** object.
 
 
 ## Parameters
@@ -29,16 +29,13 @@ _expression_ Required. A variable that represents a '[Documents](Word.documents.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NoPrompt_|Optional| **Variant**| **True** to have Word automatically save all documents. **False** to have Word prompt the user to save each document that has changed since it was last saved.|
-| _OriginalFormat_|Optional| **Variant**|Specifies the way the documents are saved. Can be one of the  **WdOriginalFormat** constants.|
+| _OriginalFormat_|Optional| **Variant**|Specifies the way the documents are saved. Can be one of the **WdOriginalFormat** constants.|
 
 ## Remarks
 
-If a document has not been saved before, the  **Save As** dialog box prompts the user for a file name.
+If a document has not been saved before, the **Save As** dialog box prompts the user for a file name.
 
 
-## See also
 
-
-[Documents Collection Object](Word.documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

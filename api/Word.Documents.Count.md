@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # Documents.Count property (Word)
 
-Returns a  **Long** that represents the number of documents in the collection. Read-only.
+Returns a **Long** that represents the number of documents in the collection. Read-only.
 
 
 ## Syntax
 
 _expression_.**Count**
 
-_expression_ Required. A variable that represents a '[Documents](Word.documents.md)' collection.
+_expression_ Required. A variable that represents a **[Documents](Word.Documents.md)** object.
 
 
-## See also
 
-
-[Documents Collection Object](Word.documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

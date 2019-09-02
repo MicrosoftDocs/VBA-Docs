@@ -14,19 +14,17 @@ localization_priority: Normal
 
 # Documents.CanCheckOut method (Word)
 
- **True** if Microsoft Word can check out a specified document from a server. Read/write **Boolean**.
+**True** if Microsoft Word can check out a specified document from a server. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `CanCheckOut`( `_FileName_` )
+_expression_.**CanCheckOut** (_FileName_)
 
-_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ Required. A variable that represents a **[Documents](Word.Documents.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -57,9 +55,9 @@ Sub CheckInOut(docCheckOut As String)
 End Sub
 ```
 
-To call the CheckInOut subroutine, use the following subroutine and replace the "https://servername/workspace/report.doc" file name with an actual file located on a server mentioned in the Remarks section above.
+<br/>
 
-
+To call the CheckInOut subroutine, use the following subroutine and replace the "https://servername/workspace/report.doc" file name with an actual file located on a server mentioned in the Remarks section.
 
 
 ```vb
@@ -69,9 +67,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Documents Collection Object](Word.documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
