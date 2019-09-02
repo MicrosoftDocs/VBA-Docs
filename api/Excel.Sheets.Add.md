@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Sheets.Add
 ms.assetid: db5de750-fd09-2b18-c52b-98d88eeb0ffc
-ms.date: 05/15/2019
+ms.date: 09/03/2019
 localization_priority: Normal
 ---
 
