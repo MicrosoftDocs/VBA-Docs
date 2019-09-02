@@ -24,6 +24,7 @@ _expression_.**CheckOut** (_FileName_)
 _expression_ Required. A variable that represents a **[Documents](Word.Documents.md)** object.
 
 
+
 ## Parameters
 
 |Name|Required/Optional|Data type|Description|
@@ -53,12 +54,11 @@ End Sub
 
 To call the CheckInOut subroutine, use the following subroutine and replace the "https://servername/workspace/report.doc" file name with an actual file located on a server mentioned in the Remarks section.
 
-
 ```vb
 Sub CheckDocInOut() 
  Call CheckInOut (docCheckIn:="https://servername/workspace/report.doc") 
 End Sub
 ```
 
-
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
