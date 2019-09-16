@@ -17,7 +17,7 @@ Specifies the format of the picture being copied.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **xlBitmap**|2|Bitmap (.bmp, .jpg, .gif).|
-| **xlPicture**|-4147|Drawn picture (.png, .wmf, .mix).|
+| **xlBitmap**|2|Picture copied in bitmap (raster) format: bmp, jpg, gif, png.
+| **xlPicture**|-4147|Picture copied in vector format: emf, wmf.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
