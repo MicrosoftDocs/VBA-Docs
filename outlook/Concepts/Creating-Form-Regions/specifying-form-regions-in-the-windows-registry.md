@@ -44,9 +44,8 @@ There are a few ways to specify this information about the form region in the re
 
 Outlook allows you to customize the standard form for each of the Outlook message classes by adding adjoining form regions or separate form regions to the form. The following table shows the standard forms and corresponding message classes in Outlook. 
 
-
-
 | **Standard Form**| **Message Class**|
+| :--- | :--- |
 |Appointment| **IPM.Appointment**|
 |Contact| **IPM.Contact**|
 |Journal Entry| **IPM.Activity**|
@@ -76,10 +75,10 @@ After the form regions are installed on a client computer, form users can furthe
 
 The following is an example of the XML for a form region for a derived message class, **IPM.Contact.MapUser**. The form region is applied to all users on a computer. The XML file, map.xml, is located in c:\Form Regions.
 
-To register the form region, create the following key in the Windows registry:
+To register the form region, create the following value in the Windows registry:
 
-
-
+|     |     |
+| --- | --- |
 | **Key**|HKEY_LOCAL_MACHINE\Software\Microsoft\Office\Outlook\FormRegions\IPM.Contact.MapUser|
 | **Name**|MapTab|
 | **Type**|REG_SZ|
