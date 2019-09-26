@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 ## Remarks
 
-The **Direct Dependents** property only works on the active sheet and cannot trace remote references.
+The **DirectDependents** property only works on the active sheet and cannot trace remote references.
 
 
 ## Example
