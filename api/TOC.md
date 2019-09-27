@@ -15595,8 +15595,7 @@
 ####### [View](Outlook.viewctl.vi.md)
 ####### [ViewXML](Outlook.viewctl.viewx.md)
 #### [Outlook Forms Script reference](overview/Outlook/outlook-forms-script-reference.md)
-##### [CheckBox object reference](Outlook.checkbox.object.md)
-###### [CheckBox object](Outlook.checkbox.md)
+##### [CheckBox object](Outlook.checkbox.md)
 ###### Events
 ####### [Click](Outlook.checkbox.click.md)
 ###### Properties
