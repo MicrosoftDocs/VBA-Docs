@@ -14,10 +14,6 @@ Displays the selection state of an item.
 
 ## Properties
 
-
-
-
-
 |Name|Description|
 |:-----|:-----|
 | [Accelerator](Outlook.checkbox.accelerator.md)|Returns or sets the accelerator key for a control. Read/write.|
