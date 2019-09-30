@@ -14,10 +14,5 @@ localization_priority: Normal
 
 -  [Label Object (Outlook Forms Script)](Outlook.label.md)
     
--  [Label Members (Outlook Forms Script)](Outlook.label(members).md)
-    
--  [Label Properties (Outlook Forms Script)](Outlook.label(properties).md)
-    
--  [Label Events (Outlook Forms Script)](Outlook.label(events).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

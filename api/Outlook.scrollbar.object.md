@@ -14,8 +14,6 @@ localization_priority: Normal
 
 -  [ScrollBar Object (Outlook Forms Script)](Outlook.scrollbar.md)
     
--  [ScrollBar Members (Outlook Forms Script)](Outlook.scrollbar(members).md)
-    
--  [ScrollBar Properties (Outlook Forms Script)](Outlook.scrollbar(properties).md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

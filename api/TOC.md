@@ -15594,7 +15594,7 @@
 ####### [Selection](Outlook.viewctl.selecti.md)
 ####### [View](Outlook.viewctl.vi.md)
 ####### [ViewXML](Outlook.viewctl.viewx.md)
-#### [Outlook Forms Script reference](overview/Outlook/outlook-forms-script-reference.md)
+#### Outlook Forms Script reference
 ##### [CheckBox object](Outlook.checkbox.md)
 ###### Events
 ####### [Click](Outlook.checkbox.click.md)
@@ -15618,8 +15618,7 @@
 ####### [TripleState](Outlook.checkbox.triplestate.md)
 ####### [Value](Outlook.checkbox.value.md)
 ####### [WordWrap](Outlook.checkbox.wordwrap.md)
-##### [ComboBox object reference](Outlook.combobox.object.md)
-###### [ComboBox object](Outlook.combobox.md)
+##### [ComboBox object](Outlook.combobox.md)
 ###### Events
 ####### [Click](Outlook.combobox.click.md)
 ###### Methods
@@ -15680,8 +15679,7 @@
 ####### [TextLength](Outlook.combobox.textlength.md)
 ####### [TopIndex](Outlook.combobox.topindex.md)
 ####### [Value](Outlook.combobox.value.md)
-##### [CommandButton object](Outlook.commandbutton.object.md)
-###### [CommandButton object](Outlook.commandbutton.md)
+##### [CommandButton object](Outlook.commandbutton.md)
 ###### Events
 ####### [Click](Outlook.commandbutton.click.md)
 ###### Properties
@@ -15699,8 +15697,7 @@
 ####### [PicturePosition](Outlook.commandbutton.pictureposition.md)
 ####### [TakeFocusOnClick](Outlook.commandbutton.takefocusonclick.md)
 ####### [WordWrap](Outlook.commandbutton.wordwrap.md)
-##### [Font object](Outlook.font.object.md)
-###### [Font object](Outlook.font.md)
+##### [Font object](Outlook.font.md)
 ###### Properties
 ####### [Bold](Outlook.font.bold.md)
 ####### [Italic](Outlook.font.italic.md)
@@ -15708,8 +15705,7 @@
 ####### [Strikethrough](Outlook.font.strikethrough.md)
 ####### [Underline](Outlook.font.underline.md)
 ####### [Weight](Outlook.font.weight.md)
-##### [Frame object](Outlook.frame.object.md)
-###### [Frame object](Outlook.frame.md)
+##### [Frame object](Outlook.frame.md)
 ###### Events
 ####### [Click](Outlook.frame.click.md)
 ###### Methods
@@ -15750,8 +15746,7 @@
 ####### [SpecialEffect](Outlook.frame.specialeffect.md)
 ####### [VerticalScrollBarSide](Outlook.frame.verticalscrollbarside.md)
 ####### [Zoom](Outlook.frame.zoom.md)
-##### [Image object](Outlook.image.object.md)
-###### [Image object](Outlook.image.md)
+##### [Image object](Outlook.image.md)
 ###### Events
 ####### [Click](Outlook.image.click.md)
 ###### Properties
@@ -15768,8 +15763,7 @@
 ####### [PictureSizeMode](Outlook.image.picturesizemode.md)
 ####### [PictureTiling](Outlook.image.picturetiling.md)
 ####### [SpecialEffect](Outlook.image.specialeffect.md)
-##### [Label object](Outlook.label.object.md)
-###### [Label object](Outlook.label.md)
+##### [Label object](Outlook.label.md)
 ###### Events
 ####### [Click](Outlook.label.click.md)
 ###### Properties
@@ -15789,8 +15783,7 @@
 ####### [SpecialEffect](Outlook.label.specialeffect.md)
 ####### [TextAlign](Outlook.label.textalign.md)
 ####### [WordWrap](Outlook.label.wordwrap.md)
-##### [ListBox object](Outlook.listbox.object.md)
-###### [ListBox object](Outlook.listbox.md)
+##### [ListBox object](Outlook.listbox.md)
 ###### Events
 ####### [Click](Outlook.listbox.click.md)
 ###### Methods
@@ -15826,8 +15819,7 @@
 ####### [TextColumn](Outlook.listbox.textcolumn.md)
 ####### [TopIndex](Outlook.listbox.topindex.md)
 ####### [Value](Outlook.listbox.value.md)
-##### [MultiPage object](Outlook.multipage.object.md)
-###### [MultiPage object](Outlook.multipage.md)
+##### [MultiPage object](Outlook.multipage.md)
 ###### Events
 ####### [Click](Outlook.multipage.click.md)
 ###### Properties
@@ -15841,8 +15833,7 @@
 ####### [TabFixedWidth](Outlook.multipage.tabfixedwidth.md)
 ####### [TabOrientation](Outlook.multipage.taborientation.md)
 ####### [Value](Outlook.multipage.value.md)
-##### [OptionButton object](Outlook.optionbutton.object.md)
-###### [OptionButton object](Outlook.optionbutton.md)
+##### [OptionButton object](Outlook.optionbutton.md)
 ###### Events
 ####### [Click](Outlook.optionbutton.click.md)
 ###### Properties
@@ -15865,8 +15856,7 @@
 ####### [TripleState](Outlook.optionbutton.triplestate.md)
 ####### [Value](Outlook.optionbutton.value.md)
 ####### [WordWrap](Outlook.optionbutton.wordwrap.md)
-##### [Page object](Outlook.page.object.md)
-###### [Page object](Outlook.page.md)
+##### [Page object](Outlook.page.md)
 ###### Methods
 ####### [Copy](Outlook.page.copy.md)
 ####### [Cut](Outlook.page.cut.md)
@@ -15905,8 +15895,7 @@
 ####### [VerticalScrollBarSide](Outlook.page.verticalscrollbarside.md)
 ####### [Visible](Outlook.page.visible.md)
 ####### [Zoom](Outlook.page.zoom.md)
-##### [Pages object](Outlook.pages.object.md)
-###### [Pages object](Outlook.pages(object).md)
+##### [Pages object](Outlook.pages(object).md)
 ###### Methods
 ####### [Add](Outlook.pages.add(method).md)
 ####### [Clear](Outlook.pages.clear.md)
@@ -15914,8 +15903,7 @@
 ####### [Remove](Outlook.pages.remove(method).md)
 ###### Properties
 ####### [Count](Outlook.pages.count(property).md)
-##### [ScrollBar object](Outlook.scrollbar.object.md)
-###### [ScrollBar object](Outlook.scrollbar.md)
+##### [ScrollBar object](Outlook.scrollbar.md)
 ###### Properties
 ####### [BackColor](Outlook.scrollbar.backcolor.md)
 ####### [Delay](Outlook.scrollbar.delay.md)
@@ -15930,8 +15918,7 @@
 ####### [ProportionalThumb](Outlook.scrollbar.proportionalthumb.md)
 ####### [SmallChange](Outlook.scrollbar.smallchange.md)
 ####### [Value](Outlook.scrollbar.value.md)
-##### [SpinButton object](Outlook.spinbutton.object.md)
-###### [SpinButton object](Outlook.spinbutton.md)
+##### [SpinButton object](Outlook.spinbutton.md)
 ###### Properties
 ####### [BackColor](Outlook.spinbutton.backcolor.md)
 ####### [Delay](Outlook.spinbutton.delay.md)
@@ -15944,8 +15931,7 @@
 ####### [Orientation](Outlook.spinbutton.orientation.md)
 ####### [SmallChange](Outlook.spinbutton.smallchange.md)
 ####### [Value](Outlook.spinbutton.value.md)
-##### [Tab object](Outlook.tab.object.md)
-###### [Tab object](Outlook.tab.md)
+##### [Tab object](Outlook.tab.md)
 ###### Properties
 ####### [Accelerator](Outlook.tab.accelerator.md)
 ####### [Caption](Outlook.tab.caption.md)
@@ -15955,8 +15941,7 @@
 ####### [Name](Outlook.tab.name.md)
 ####### [Tag](Outlook.tab.tag.md)
 ####### [Visible](Outlook.tab.visible.md)
-##### [Tabs object](Outlook.tabs.object.md)
-###### [Tabs object](Outlook.tabs.md)
+##### [Tabs object](Outlook.tabs.md)
 ###### Methods
 ####### [Add](Outlook.tabs.add.md)
 ####### [Clear](Outlook.tabs.clear.md)
@@ -15964,8 +15949,7 @@
 ####### [Remove](Outlook.tabs.remove.md)
 ###### Properties
 ####### [Count](Outlook.tabs.count.md)
-##### [TabStrip object](Outlook.tabstrip.object.md)
-###### [TabStrip object](Outlook.tabstrip.md)
+##### [TabStrip object](Outlook.tabstrip.md)
 ###### Events
 ####### [Click](Outlook.tabstrip.click.md)
 ###### Properties
@@ -15985,8 +15969,7 @@
 ####### [TabFixedWidth](Outlook.tabstrip.tabfixedwidth.md)
 ####### [TabOrientation](Outlook.tabstrip.taborientation.md)
 ####### [Value](Outlook.tabstrip.value.md)
-##### [TextBox object](Outlook.textbox.object.md)
-###### [TextBox object](Outlook.textbox.md)
+##### [TextBox object](Outlook.textbox.md)
 ###### Methods
 ####### [Copy](Outlook.textbox.copy.md)
 ####### [Cut](Outlook.textbox.cut.md)
@@ -16030,8 +16013,7 @@
 ####### [TextLength](Outlook.textbox.textlength.md)
 ####### [Value](Outlook.textbox.value.md)
 ####### [WordWrap](Outlook.textbox.wordwrap.md)
-##### [ToggleButton object](Outlook.togglebutton.object.md)
-###### [ToggleButton object](Outlook.togglebutton.md)
+##### [ToggleButton object](Outlook.togglebutton.md)
 ###### Events
 ####### [Click](Outlook.togglebutton.click.md)
 ###### Properties

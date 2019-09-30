@@ -14,10 +14,6 @@ localization_priority: Normal
 
 -  [OptionButton Object (Outlook Forms Script)](Outlook.optionbutton.md)
     
--  [OptionButton Members (Outlook Forms Script)](Outlook.optionbutton(members).md)
-    
--  [OptionButton Properties (Outlook Forms Script)](Outlook.optionbutton(properties).md)
-    
--  [OptionButton Events (Outlook Forms Script)](Outlook.optionbutton(events).md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

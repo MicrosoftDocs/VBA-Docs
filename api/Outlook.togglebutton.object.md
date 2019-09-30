@@ -14,10 +14,6 @@ localization_priority: Normal
 
 -  [ToggleButton Object (Outlook Forms Script)](Outlook.togglebutton.md)
     
--  [ToggleButton Members (Outlook Forms Script)](Outlook.togglebutton(members).md)
-    
--  [ToggleButton Properties (Outlook Forms Script)](Outlook.togglebutton(properties).md)
-    
--  [ToggleButton Events (Outlook Forms Script)](Outlook.togglebutton(events).md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
