@@ -14,12 +14,5 @@ localization_priority: Normal
 
 -  [ComboBox Object (Outlook Forms Script)](Outlook.combobox.md)
     
--  [ComboBox Members (Outlook Forms Script)](Outlook.combobox(members).md)
-    
--  [ComboBox Properties (Outlook Forms Script)](Outlook.combobox(properties).md)
-    
--  [ComboBox Methods (Outlook Forms Script)](Outlook.combobox(methods).md)
-    
--  [ComboBox Events (Outlook Forms Script)](Outlook.combobox(events).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,10 +14,6 @@ localization_priority: Normal
 
 -  [MultiPage Object (Outlook Forms Script)](Outlook.multipage.md)
     
--  [MultiPage Members (Outlook Forms Script)](Outlook.multipage(members).md)
-    
--  [MultiPage Properties (Outlook Forms Script)](Outlook.multipage(properties).md)
-    
--  [MultiPage Events (Outlook Forms Script)](Outlook.multipage(events).md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

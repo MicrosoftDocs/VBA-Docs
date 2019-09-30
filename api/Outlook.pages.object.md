@@ -14,10 +14,5 @@ localization_priority: Normal
 
 -  [Pages Object (Outlook Forms Script)](Outlook.pages(object).md)
     
--  [Pages Members (Outlook Forms Script)](Outlook.pages(members).md)
-    
--  [Pages Properties (Outlook Forms Script)](Outlook.pages(properties).md)
-    
--  [Pages Methods (Outlook Forms Script)](Outlook.pages(methods).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
