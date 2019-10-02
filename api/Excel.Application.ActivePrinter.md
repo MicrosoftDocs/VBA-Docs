@@ -29,10 +29,19 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 This example displays the name of the active printer.
 
 ```vb
-MsgBox "The name of the active printer is " & _ 
- Application.ActivePrinter
+MsgBox "The name of the active printer is " & Application.ActivePrinter
 ```
 
+## Example
+
+The above example can be used to discover the proper printer and port naming conventions on your machine, for use in the example below.</br></br>
+This example changes the active printer. The colon ":" after the port name is required.
+
+```vb
+Application.ActivePrinter = "[The name of your printer] on [port]:"  
+'i.e.  
+Application.ActivePrinter = "Canon Printer on Ne02:"
+```
 
 
 
