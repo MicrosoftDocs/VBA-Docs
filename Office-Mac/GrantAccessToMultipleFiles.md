@@ -20,16 +20,16 @@ Existing macro file commands prompt the user for permission to access a file if 
 Use the **GrantAccessToMultipleFiles** command to input an array of file paths and prompt the user for permission to access them.
 
 ```vb
-    Boolean  GrantAccessToMultipleFiles(fileArray) 
+Boolean  GrantAccessToMultipleFiles(fileArray) 
 ```
 
-|**Parameter**|**Description**|
+|Parameter|Description|
 |:-----|:-----|
 |*fileArray*|An array of POSIX file paths|
 
 The command returns whether the user granted permission or not.
 
-|**Return value**|**Description**|
+|Return value|Description|
 |:-----|:-----|
 |True|The user grants permission to the files.|
 |False|The user denies permission to the files.|
@@ -40,19 +40,19 @@ The command returns whether the user granted permission or not.
 ## Example
 
 ```vb
-    Sub requestFileAccess()  
+Sub requestFileAccess()  
 
     'Declare Variables  
-    Dim fileAccessGranted As Boolean  
-    Dim filePermissionCandidates 
-  
-   'Create an array with file paths for the permissions that are needed.  
-    filePermissionCandidates = Array("/Users//Desktop/test1.txt", "/Users//Desktop/test2.txt") 
-  
+    Dim fileAccessGranted As Boolean  
+    Dim filePermissionCandidates 
+
+    'Create an array with file paths for the permissions that are needed.  
+    filePermissionCandidates = Array("/Users//Desktop/test1.txt", "/Users//Desktop/test2.txt") 
+
     'Request access from user.  
-     fileAccessGranted = GrantAccessToMultipleFiles(filePermissionCandidates) 
+    fileAccessGranted = GrantAccessToMultipleFiles(filePermissionCandidates) 
     'Returns true if access is granted; otherwise, false. 
-    End Sub
+End Sub
 ```
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
