@@ -36,6 +36,7 @@ This method creates a new Outlook mail item based on the information stored in t
 
 
 | **Property value**| **Result**|
+|---|---|
 | **olFormatPlain**|A vCard (.vcf) file is created and added to the **[Attachments](Outlook.Attachments.md)** collection of the **MailItem** object.|
 | **olFormatRichText**|A vCard file is created and added to the **Attachments** collection of the **MailItem** object.|
 | **olFormatHTML**|An image of the Electronic Business Card is generated and included in the **[Body](Outlook.MailItem.Body.md)** property of the **MailItem** object, and a vCard file is created and added to the **[Attachments](Outlook.Attachments.md)** collection of the **MailItem** object.|
