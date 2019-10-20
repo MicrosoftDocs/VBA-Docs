@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Count property
 
-Returns the number of items in a collection or **[Dictionary](dictionary-object.md)** object. Read-only.
+Returns a **Long** (long integer) containing the number of items in a collection or **[Dictionary](dictionary-object.md)** object. Read-only.
 
 ## Syntax
 
