@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.Adjustments
 ms.assetid: 119c7d87-729b-c62a-65d9-2e7311c51b47
-ms.date: 06/08/2017
+ms.date: 10/20/2019
 localization_priority: Normal
 ---
 
@@ -32,7 +32,7 @@ Different shapes have different numbers of adjustment values, different kinds of
 
 
 > [!NOTE] 
-> Because each adjustable shape has a different set of adjustments, the recommended way to verify the adjustment behavior for a specific shape is to manually create an instance of the shape, make adjustments with the macro recorder turned on, and then examine the recorded code. Note: If running PowerPoint 2010 or later, the macro recorder no longer exists.
+> Because each adjustable shape has a different set of adjustments, the recommended way to verify the adjustment behavior for a specific shape is to manually create an instance of the shape, make adjustments with the macro recorder turned on, and then examine the recorded code. (If running PowerPoint 2010 or later, the macro recorder no longer exists.)
 
 The following table summarizes the ranges of valid adjustment values for different types of adjustments. In most cases, if you specify a value that's beyond the range of valid values, the closest valid value will be assigned to the adjustment.
 
@@ -66,7 +66,6 @@ End With
 
 ## See also
 
-
-[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+- [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
