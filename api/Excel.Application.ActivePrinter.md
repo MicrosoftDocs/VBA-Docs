@@ -32,8 +32,6 @@ This example displays the name of the active printer.
 MsgBox "The name of the active printer is " & Application.ActivePrinter
 ```
 
-## Example
-
 The preceding example can be used to discover the proper printer and port naming conventions on your computer for use in the following example.
 
 This example changes the active printer. The colon ":" after the port name is required.
