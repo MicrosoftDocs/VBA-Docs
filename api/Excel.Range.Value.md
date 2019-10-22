@@ -47,7 +47,7 @@ Assigning an array to a multi-area range is not properly supported and should be
 
 This example sets the value of cell A1 on Sheet1 of the active workbook to 3.14159.
 
-```vba
+```vb
 Worksheets("Sheet1").Range("A1").Value = 3.14159
 ```
 
@@ -55,7 +55,7 @@ Worksheets("Sheet1").Range("A1").Value = 3.14159
 
 This example loops on cells A1:D10 on Sheet1 of the active workbook. If one of the cells has a value of less than 0.001, the code replaces the value with 0 (zero).
 
-```vba
+```vb
 For Each cell in Worksheets("Sheet1").Range("A1:D10") 
    If cell.Value < .001 Then 
       cell.Value = 0 
@@ -67,7 +67,7 @@ Next cell
 
 This example loops over the values in the range A1:CC5000 on Sheet1. If one of the values is less than 0.001, the code replaces the value with 0 (zero). Finally it copies the values to the original range.
 
-```vba
+```vb
 Public Sub TruncateSmallValuesInDataArea()
    Dim dataArea As Excel.Range
    Set dataArea = ThisworkBook.Worksheets("Sheet1").Range("A1:CC5000")

@@ -56,7 +56,7 @@ The range returned when providing only one parameter depends on the nature of th
 
 The following example shows which cell is returned if both parameters are provided. 
 
-```vba 
+```vb
 Public Sub PrintAdresses()
    Dim exampleRange As Excel.Range
    With ThisWorkbook.Worksheets("ExampleSheet")
@@ -73,7 +73,7 @@ End Sub
 
 The following example shows for different types of ranges which subranges are returned if only one parameter is provided.
 
-```vba 
+```vb
 Public Sub PrintAdresses()
    Dim exampleRange As Excel.Range
    With ThisWorkbook.Worksheets("ExampleSheet")

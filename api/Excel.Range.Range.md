@@ -42,7 +42,7 @@ When applied to a **Range** object, the property is relative to the **Range** ob
 
 This example sets the value of the top-left cell of the range B2:C4 on Sheet1 of the active workbook, i.e. that of the cell B2, to 3.14159.
 
-```vba
+```vb
 With Worksheets("Sheet1").Range("B2:C4")
    .Range("A1").Value = 3.14159
 End With
@@ -52,7 +52,7 @@ End With
 
 This example loops on the the four cells in the top-left corner of the range B2:Z22 on Sheet1 of the active workbook. If one of the cells has a value less than 0.001, the code replaces that value with 0 (zero).
 
-```vba
+```vb
 Public Sub TruncateSmallValues()
    Dim exampleRange As Excel.Range
    Set exampleRange = Worksheets("Sheet1").Range("B2:Z22") 
@@ -70,7 +70,7 @@ End Sub
 
 This example sets the font style in cells B2:D6 on Sheet1 of the active workbook to italic. The example uses Syntax 2 of the **Range** property.
 
-```vba
+```vb
 With Worksheets("Sheet1").Range("B2:Z22")
    .Range(.Cells(1, 1), .Cells(5, 3)).Font.Italic = True 
 End With
