@@ -51,7 +51,7 @@ On the Macintosh, **vbNormalFocus**, **vbMinimizedFocus**, and **vbMaximizedFocu
 
 ## Example
 
-This example uses the **Shell** function to run an application specified by the user. On the MacIntosh, the default drive name is "HD" and portions of the pathname are separated by colons instead of backslashes. Similarly, you would specify Macintosh folders instead of `\WINDOWS`.
+This example uses the **Shell** function to run an application specified by the user. On the Macintosh, the default drive name is "HD" and portions of the pathname are separated by colons instead of backslashes. Similarly, you would specify Macintosh folders instead of `\WINDOWS`.
 
 ```vb
 ' Specifying 1 as the second argument opens the application in 
