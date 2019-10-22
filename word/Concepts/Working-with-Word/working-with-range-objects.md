@@ -84,7 +84,7 @@ Sub NewRange()
 End Sub
 ```
 
-For additional information and examples, see the **[Range](../../../api/Word.Range.CheckSynonyms.md)** method.
+For additional information and examples, see the **[Range](../../../api/word.document.range.md)** method.
 
 
 ## Using the Range property
