@@ -89,7 +89,7 @@ For additional information and examples, see the **[Range](../../../api/Word.Ran
 
 ## Using the Range property
 
-The **Range** property appears on multiple objects—such as **[Paragraph](../../../api/Word.Paragraph.md)**, **[Bookmark](../../../api/Word.Bookmark.md)**, and ** [Cell](../../../api/Word.Cell.md)**—and is used to return a **Range** object. The following example returns a **Range** object that refers to the first paragraph in the active document.
+The **Range** property appears on multiple objects—such as **[Paragraph](../../../api/Word.Paragraph.md)**, **[Bookmark](../../../api/Word.Bookmark.md)**, and **[Cell](../../../api/Word.Cell.md)**—and is used to return a **Range** object. The following example returns a **Range** object that refers to the first paragraph in the active document.
 
 
 ```vb
@@ -151,7 +151,7 @@ End Sub
 For additional information and examples, see the **[Range](../../../api/Word.Range.CheckSynonyms.md)** method for the **[Document](../../../api/Word.Document.md)**.
 
 > [!NOTE] 
-> When debugging your macros, you can use the **Select**method to ensure that a **Range** object is referring to the correct range of text. For example, the following selects a **Range** object that refers to the second and third paragraphs in the active document, and then formats the font of the selection.
+> When debugging your macros, you can use the **Select** method to ensure that a **Range** object is referring to the correct range of text. For example, the following selects a **Range** object that refers to the second and third paragraphs in the active document, and then formats the font of the selection.
 
 
 
