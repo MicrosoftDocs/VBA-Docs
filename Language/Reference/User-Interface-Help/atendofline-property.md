@@ -32,7 +32,7 @@ The following code illustrates the use of the **AtEndOfLine** property.
 Dim fs, a, retstring
 Set fs = CreateObject("Scripting.FileSystemObject")
 Set a = fs.OpenTextFile("c:\testfile.txt", ForReading, False)
-Do While a. AtEndOfLine <> True
+Do While a.AtEndOfLine <> True
     retstring = a.Read(1)
     ...
 Loop
