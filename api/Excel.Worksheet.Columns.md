@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 Using the **Columns** property without an object qualifier is equivalent to using **ActiveSheet.Columns**. If the active document isn't a worksheet, the **Columns** property fails.
 
-To return a single column, include an index in parentheses. For example, `Columns(1)` and `Columns("A")` return the first column.
+To return a single column, use the **[Item](Excel.Range.Item.md)** property or equivalently include an index in parentheses. For example, `Columns(1)`, `Columns("A")`, `Columns.Item(1)` and `Columns.Item("A")` return the first column of the active sheet.
 
 ## Example
 

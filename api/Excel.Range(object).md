@@ -20,10 +20,14 @@ Represents a cell, a row, a column, a selection of cells containing one or more 
 
 ## Remarks
 
+The default member of **Range** forwards calls without parameters to the **[Value](Excel.Range.Value.md)** property and calls with parameters to the **[Item](Excel.Range.Item.md)** member. Accordingly, `someRange = someOtherRange` is equivalent to `someRange.Value = someOtherRange.Value`, `someRange(1)` to `someRange.Item(1)` and `someRange(1,1)` to `someRange.Item(1,1)`.
+
 The following properties and methods for returning a **Range** object are described in the **Example** section:
 
 - **[Range](Excel.Worksheet.Range.md)** and **[Cells](Excel.Worksheet.Cells.md)** properties of the **Worksheet** object
 - **[Range](excel.range.range.md)** and **[Cells](excel.range.cells.md)** properties of the **Range** object   
+- **[Rows](Excel.Worksheet.Rows.md)** and **[Columns](Excel.Worksheet.Columns.md)** properties of the **Worksheet** object
+- **[Rows](Excel.Range.Rows.md)** and **[Columns](Excel.Range.Columns.md)** properties of the **Range** object  
 - **[Offset](Excel.Range.Offset.md)** property of the **Range** object  
 - **[Union](Excel.Application.Union.md)** method of the **Application** object
 
@@ -60,10 +64,13 @@ Worksheets(1).Range("Criteria").ClearContents
 
 <br/>
 
-Use **Cells** (_row_, _column_), where _row_ is the row index and _column_ is the column index, to return a single cell. The following example sets the value of cell A1 to 24.
+Use **Cells** on a worksheet to obtain a range consisting all single cells on the worksheet. You can access single cells via **Item**(_row_, _column_), where _row_ is the row index and _column_ is the column index. 
+**Item** can be omitted since the call is forwarded to it by the default member of **Range**. 
+The following example sets the value of cell A1 to 24 and of cell B1 to 42 on the first sheet of the active workbook.
 
 ```vb
 Worksheets(1).Cells(1, 1).Value = 24
+Worksheets(1).Cells.Item(1, 2).Value = 42
 ```
 
 <br/>
@@ -95,10 +102,14 @@ End Sub
 
 <br/>
 
-Use_expression_.**Cells** (_row_, _column_), where _expression_ is an expression that returns a **Range** object, and _row_ and _column_ are relative to the upper-left corner of the range, to return part of a range. The following example sets the formula for cell C5.
+Use_expression_.**Cells**, where _expression_ is an expression that returns a **Range** object, to obtain a range with the same address consisting of single cells.
+On such a range, you access single cells via **Item**(_row_, _column_), where are relative to the upper-left corner of the first area of the range. 
+**Item** can be omitted since the call is forwarded to it by the default member of **Range**.
+The following example sets the formula for cell C5 and D5 of the first sheet of the active workbook.
 
 ```vb
 Worksheets(1).Range("C5:C10").Cells(1, 1).Formula = "=Rand()"
+Worksheets(1).Range("C5:C10").Cells.Item(1, 2).Formula = "=Rand()"
 ```
 
 <br/>
@@ -113,6 +124,72 @@ With Worksheets(1)
     .Range(.Cells(1, 1), _ 
         .Cells(10, 10)).Borders.LineStyle = xlThick 
 End With
+```
+
+<br/>
+
+Use **Rows** on a worksheet to obtain a range consisting all rows on the worksheet. You can access single rows via **Item**(_row_), where _row_ is the row index. 
+**Item** can be omitted since the call is forwarded to it by the default member of **Range**. 
+
+> [!NOTE] 
+> It is not legal to provide the second parameter of **Item** for ranges consisting of rows. You first have to convert it to single cells via **Cells**. 
+
+The following example deletes row 4 and 10 of the first sheet of the active workbook.
+
+```vb
+Worksheets(1).Rows(10).Delete
+Worksheets(1).Rows.Item(5).Delete
+```
+
+<br/>
+
+Use **Columns** on a worksheet to obtain a range consisting all columns on the worksheet. You can access single columns via **Item**(_row_) [sic], where _row_ is the column index given as a number or as an A1-style column address. 
+**Item** can be omitted since the call is forwarded to it by the default member of **Range**. 
+
+> [!NOTE] 
+> It is not legal to provide the second parameter of **Item** for ranges consisting of columns. You first have to convert it to single cells via **Cells**.
+
+The following example deletes column "B", "C", "E", and "J" of the first sheet of the active workbook.
+
+```vb
+Worksheets(1).Columns(10).Delete
+Worksheets(1).Columns.Item(5).Delete
+Worksheets(1).Columns("C").Delete
+Worksheets(1).Columns.Item("B").Delete
+```
+
+<br/>
+
+Use_expression_.**Rows**, where _expression_ is an expression that returns a **Range** object, to obtain a range consisting of the rows in the first area of the range.
+You can access single rows via **Item**(_row_), where _row_ is the relative row index from the top of the first area of the range. 
+**Item** can be omitted since the call is forwarded to it by the default member of **Range**.
+
+> [!NOTE] 
+> It is not legal to provide the second parameter of **Item** for ranges consisting of rows. You first have to convert it to single cells via **Cells**.
+
+The following example deletes the ranges C8:D8 and C6:D6 of the first sheet of the active workbook.
+
+```vb
+Worksheets(1).Range("C5:D10").Rows(4).Delete
+Worksheets(1).Range("C5:D10").Rows.Item(2).Delete
+```
+
+<br/>
+
+Use_expression_.**Columns**, where _expression_ is an expression that returns a **Range** object, to obtain a range consisting of the columns in the first area of the range.
+You can access single columns via **Item**(_row_) [sic], where _row_ is the relative column index from the left of the first area of the range given as a number or as an A1-style column address. 
+**Item** can be omitted since the call is forwarded to it by the default member of **Range**.
+
+> [!NOTE] 
+> It is not legal to provide the second parameter of **Item** for ranges consisting of columns. You first have to convert it to single cells via **Cells**.
+
+The following example deletes the ranges L2:L10, G2:G10, F2:F10 and D2:D10 of the first sheet of the active workbook.
+
+```vb
+Worksheets(1).Range("C5:Z10").Columns(10).Delete
+Worksheets(1).Range("C5:Z10").Columns.Item(5).Delete
+Worksheets(1).Range("C5:Z10").Columns("D").Delete
+Worksheets(1).Range("C5:Z10").Columns.Item("B").Delete
 ```
 
 <br/>

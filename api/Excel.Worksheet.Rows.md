@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 Using the **Rows** property without an object qualifier is equivalent to using **ActiveSheet.Rows**. If the active document isn't a worksheet, the **Rows** property fails.
 
-To return a single row, include an index in parentheses. For example, `Rows(1)` returns the first row.
+To return a single row, use the **[Item](Excel.Range.Item.md)** property or equivalently include an index in parentheses. For example, both `Rows(1)` and `Rows.Item(1)` return the first row of the active sheet.
 
 ## Example
 
@@ -40,34 +40,14 @@ Worksheets("Sheet1").Rows(3).Delete
 
 <br/>
 
-This example deletes rows in the current region on worksheet one where the value of cell one in the row is the same as the value of cell one in the previous row.
+This example deletes all rows on worksheet one where the value of cell one in the row is the same as the value of cell one in the previous row.
 
 ```vb
-For Each rw In Worksheets(1).Cells(1, 1).CurrentRegion.Rows 
- this = rw.Cells(1, 1).Value 
- If this = last Then rw.Delete 
- last = this 
+For Each rw In Worksheets(1).Rows 
+   this = rw.Cells(1, 1).Value 
+   If this = last Then rw.Delete 
+   last = this 
 Next
-```
-
-<br/>
-
-This example displays the number of rows in the selection on Sheet1. If more than one area is selected, the example loops through each area.
-
-```vb
-Worksheets("Sheet1").Activate 
-areaCount = Selection.Areas.Count 
-If areaCount <= 1 Then 
- MsgBox "The selection contains " & _ 
- Selection.Rows.Count & " rows." 
-Else 
- i = 1 
- For Each a In Selection.Areas 
- MsgBox "Area " & i & " of the selection contains " & _ 
- a.Rows.Count & " rows." 
- i = i + 1 
- Next a 
-End If
 ```
 
 
