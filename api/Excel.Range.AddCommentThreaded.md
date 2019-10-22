@@ -27,7 +27,7 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Text_|Optional| **Variant**|The comment text.|
+| _Text_|Required| **String**|The comment text.|
 
 ## Return value
 
