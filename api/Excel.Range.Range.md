@@ -33,61 +33,47 @@ _expression_ A variable that represents a **[Range](Excel.Range(object).md)** ob
 
 ## Remarks
 
-When used without an object qualifier, this property is a shortcut for **ActiveSheet.Range** (it returns a range from the active sheet; if the active sheet isn't a worksheet, the property fails).
+When used without an object qualifier, this property is a shortcut for **[ActiveSheet.Range](Excel.Worksheet.Range.md)** (it returns a range from the active sheet; if the active sheet isn't a worksheet, the property fails).
 
 When applied to a **Range** object, the property is relative to the **Range** object. For example, if the selection is cell C3, `Selection.Range("B1")` returns cell D3 because it's relative to the **Range** object returned by the **Selection** property. On the other hand, the code `ActiveSheet.Range("B1")` always returns cell B1.
 
 
 ## Example
 
-This example sets the value of cell A1 on Sheet1 to 3.14159.
+This example sets the value of the top-left cell of the range B2:C4 on Sheet1 of the active workbook, i.e. that of the cell B2, to 3.14159.
 
-```vb
-Worksheets("Sheet1").Range("A1").Value = 3.14159
+```vba
+With Worksheets("Sheet1").Range("B2:C4")
+   .Range("A1").Value = 3.14159
+End With
 ```
 
 <br/>
 
-This example creates a formula in cell A1 on Sheet1.
+This example loops on the the four cells in the top-left corner of the range B2:Z22 on Sheet1 of the active workbook. If one of the cells has a value less than 0.001, the code replaces that value with 0 (zero).
 
-```vb
-Worksheets("Sheet1").Range("A1").Formula = "=10*RAND()"
+```vba
+Public Sub TruncateSmallValues()
+   Dim exampleRange As Excel.Range
+   Set exampleRange = Worksheets("Sheet1").Range("B2:Z22") 
+
+   Dim cell As Excel.Range
+   For Each cell in exampleRange.Range("A1:B2") 
+      If cell.Value < .001 Then 
+         cell.Value = 0 
+      End If 
+   Next cell
+End Sub
 ```
 
 <br/>
 
-This example loops on cells A1:D10 on Sheet1. If one of the cells has a value less than 0.001, the code replaces that value with 0 (zero).
+This example sets the font style in cells B2:D6 on Sheet1 of the active workbook to italic. The example uses Syntax 2 of the **Range** property.
 
-```vb
-For Each c in Worksheets("Sheet1").Range("A1:D10") 
- If c.Value < .001 Then 
- c.Value = 0 
- End If 
-Next c
-```
-
-<br/>
-
-This example loops on the range named TestRange and displays the number of empty cells in the range.
-
-```vb
-numBlanks = 0 
-For Each c In Range("TestRange") 
- If c.Value = "" Then 
- numBlanks = numBlanks + 1 
- End If 
-Next c 
-MsgBox "There are " & numBlanks & " empty cells in this range"
-```
-
-<br/>
-
-This example sets the font style in cells A1:C5 on Sheet1 to italic. The example uses Syntax 2 of the **Range** property.
-
-```vb
-Worksheets("Sheet1").Range(Cells(1, 1), Cells(5, 3)). _ 
- Font.Italic = True 
-
+```vba
+With Worksheets("Sheet1").Range("B2:Z22")
+   .Range(.Cells(1, 1), .Cells(5, 3)).Font.Italic = True 
+End With
 ```
 
 

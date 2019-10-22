@@ -60,7 +60,7 @@ For Each cell in Worksheets("Sheet1").Range("A1:D10")
    If cell.Value < .001 Then 
       cell.Value = 0 
    End If 
-Next c
+Next cell
 ```
 
 <br/>
