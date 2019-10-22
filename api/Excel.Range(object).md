@@ -20,7 +20,7 @@ Represents a cell, a row, a column, a selection of cells containing one or more 
 
 ## Remarks
 
-The default member of **Range** forwards calls without parameters to the **[Value](Excel.Range.Value)** property and calls with parameters to the **[Item](Excel.Range.Item)** member. Accordingly, `someRange = someOtherRange` is equivalent to `someRange.Value = someOtherRange.Value`, `someRange(1)` to `someRange.Item(1)` and `someRange(1,1)` to `someRange.Item(1,1)`.
+The default member of **Range** forwards calls without parameters to the **[Value](Excel.Range.Value.md)** property and calls with parameters to the **[Item](Excel.Range.Item.md)** member. Accordingly, `someRange = someOtherRange` is equivalent to `someRange.Value = someOtherRange.Value`, `someRange(1)` to `someRange.Item(1)` and `someRange(1,1)` to `someRange.Item(1,1)`.
 
 The following properties and methods for returning a **Range** object are described in the **Example** section:
 

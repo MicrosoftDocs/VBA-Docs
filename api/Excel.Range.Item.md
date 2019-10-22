@@ -45,7 +45,7 @@ It is possible to reference cells outside the original range using the **Item** 
 
 The range returned when providing only one parameter depends on the nature of the range: 
 
-  - For ranges consisting of single cells, as returned by the **[Cells](Excel.Range.Cells.md)** and **[Range](Excel.Worsheet.Range.md)** members, **Item** returns single cells. The parameter _RowIndex_ refers to the index when enumerating the first area of the range left-to-right than top-to-bottom, as for two-dimentional arrays. If _RowIndex_ is larger than the number of cells in the first area of the range, the enumeration as if the area was extended downwards. 
+  - For ranges consisting of single cells, as returned by the **[Cells](Excel.Range.Cells.md)** and **[Range](Excel.Worksheet.Range.md)** members, **Item** returns single cells. The parameter _RowIndex_ refers to the index when enumerating the first area of the range left-to-right than top-to-bottom, as for two-dimentional arrays. If _RowIndex_ is larger than the number of cells in the first area of the range, the enumeration as if the area was extended downwards. 
 
   - For ranges consisting of row ranges, as returned by **[Rows](Excel.Range.Rows.md)**, **Item** returns row ranges. The parameter _RowIndex_ is the 1-based offset from the first row of the range in the direction top-to-bottom. 
   
