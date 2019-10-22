@@ -37,9 +37,9 @@ Using the **Rows** property without an object qualifier is equivalent to using *
 
 ## Example
 
-This example deletes the range "B5:Z5" on Sheet1 of the active workbook.
+This example deletes the range B5:Z5 on Sheet1 of the active workbook.
 
-```vba
+```vb
 Worksheets("Sheet1").Range("B2:Z44").Rows(3).Delete
 ```
 
@@ -47,7 +47,7 @@ Worksheets("Sheet1").Range("B2:Z44").Rows(3).Delete
 
 This example deletes rows in the current region on worksheet one of the active workbook where the value of cell one in the row is the same as the value of cell one in the previous row.
 
-```vba
+```vb
 For Each rw In Worksheets(1).Cells(1, 1).CurrentRegion.Rows
    this = rw.Cells(1, 1).Value 
    If this = last Then rw.Delete 
@@ -59,7 +59,7 @@ Next
 
 This example displays the number of rows in the selection on Sheet1. If more than one area is selected, the example loops through each area.
 
-```vba
+```vb
 Public Sub ShowNumberOfRowsInSheet1Selection
    Worksheets("Sheet1").Activate 
    

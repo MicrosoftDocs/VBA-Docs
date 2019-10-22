@@ -99,7 +99,7 @@ End Sub
 This example looks through column C of the active sheet, and for every cell that has a comment, it puts the comment text into column D and deletes the comment from column C.
 
 ```vb
-Sub SplitCommentsOnActiveSheet()
+Public Sub SplitCommentsOnActiveSheet()
    'Set up your variables
    Dim cmt As Comment
    Dim rowIndex As Integer
@@ -114,7 +114,8 @@ Sub SplitCommentsOnActiveSheet()
          Cells(rowIndex, 3).Comment.Delete
       End If
    Next
-End
+End Sub
+```
 
 
 

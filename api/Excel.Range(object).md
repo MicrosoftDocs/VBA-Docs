@@ -149,7 +149,7 @@ Use **Columns** on a worksheet to obtain a range consisting all columns on the w
 > [!NOTE] 
 > It is not legal to provide the second parameter of **Item** for ranges consisting of columns. You first have to convert it to single cells via **Cells**.
 
-The following example deletes row "B", "C", "E", and "J" of the first sheet of the active workbook.
+The following example deletes column "B", "C", "E", and "J" of the first sheet of the active workbook.
 
 ```vb
 Worksheets(1).Columns(10).Delete
