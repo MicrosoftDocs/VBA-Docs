@@ -28,18 +28,20 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 ## Remarks
 
-Because the **[Item](Excel.Range.Item.md)** property is the default property for the **Range** object, you can specify the row and column index immediately after the **Cells** keyword. For more information, see the **Item** property and the examples for this topic.
+The return value is a **Range** consisting of single cells, which allows to use the version of the **[Item](Excel.Range.Item.md)** with two parameters and lets `For Each` loops iterate over single cells.
 
-Using this property without an object qualifier returns a **Range** object that represents all the cells on the active worksheet.
+Because the default member of **Range** forwards calls with parameters to the **[Item](Excel.Range.Item.md)** property, you can specify the row and column index immediately after the **Cells** keyword instead of an explicit call to **[Item](Excel.Range.Item.md)**.
 
+Using **Cells** without an object qualifier is equivalent to **[ActiveSheet.Cells](Excel.Worksheet.Cells.md)**.
 
 ## Example
 
-This example sets the font style for cells A1:C5 on Sheet1 to italic.
+This example sets the font style for cells B2:D6 on Sheet1 of the active workbook to italic.
 
 ```vb
-Worksheets("Sheet1").Activate 
-Range(Cells(1, 1), Cells(5, 3)).Font.Italic = True
+With Worksheets("Sheet1").Range("B2:Z100") 
+   .Range(.Cells(1, 1), .Cells(5, 3)).Font.Italic = True
+End With
 ```
 
 <br/>
@@ -52,29 +54,42 @@ For n = 2 To r.Rows.Count
     If r.Cells(n-1, 1) = r.Cells(n, 1) Then 
         MsgBox "Duplicate data in " & r.Cells(n, 1).Address 
     End If 
-Next n
+Next
 ```
 
 <br/>
 
-This example looks through column C, and for every cell that has a comment, it puts the comment text into column D and deletes the comment from column C.
+This example demonstrates how **Cells** changes the behavior of the **[Item](Excel.Range.Item.md)** member.  
 
 ```vb
-Sub SplitComments()
-   'Set up your variables
-   Dim cmt As Comment
-   Dim iRow As Integer
+Public Sub PrintRangeAdresses
+   Dim columnsRange As Excel.Range
+   Set columnsRange = ThisWorkBook.Worksheets("exampleSheet").Range("B2:Z100").Columns
    
-   'Go through all the cells in Column C, and check to see if the cell has a comment.
-   For iRow = 1 To WorksheetFunction.CountA(Columns(3))
-      Set cmt = Cells(iRow, 3).Comment
-      If Not cmt Is Nothing Then
-      
-         'If there is a comment, paste the comment text into column D and delete the original comment.
-         Cells(iRow, 4) = Cells(iRow, 3).Comment.Text
-         Cells(iRow, 3).Comment.Delete
-      End If
-   Next iRow
+   Debug.Print columnsRange.Item(2).Address         'Prints "$C$2:$C$100" 
+   Debug.Print columnsRange.Cells.Item(2).Address   'Prints "$C$2" 
+   Debug.Print columnsRange.Cells.Item(2,1).Address 'Prints "$B$3"   
+End Sub
+```
+
+<br/>
+
+This example demonstrates how **Cells** changes the enumeration behavior.
+
+```vb
+Public Sub PrintAllRangeAdresses
+   Dim columnsRange As Excel.Range
+   Set columnsRange = ThisWorkBook.Worksheets("exampleSheet").Range("B2:C3").Columns
+   
+   Dim columnRange As Excel.Range
+   For Each columnRange In columnsRange
+      Debug.Print columnRange.Address   'Prints "$B$2:$B$3", "$C$2:$C$3"
+   Next
+   
+   Dim cell As Excel.Range
+   For Each cell In columnsRange.Cells
+      Debug.Print cell.Address          'Prints "$B$2", "$C$2", "$B$3", "$C$3"
+   Next  
 End Sub
 ```
 

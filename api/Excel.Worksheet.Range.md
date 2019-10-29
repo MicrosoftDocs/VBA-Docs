@@ -62,7 +62,7 @@ Worksheets("Sheet1").Range("A1").Formula = "=10*RAND()"
 
 <br/>
 
-This example loops on cells A1:D10 on Sheet1. If one of the cells has a value less than 0.001, the code replaces that value with 0 (zero).
+This example loops on cells A1:D10 on Sheet1 of the active workbook. If one of the cells has a value less than 0.001, the code replaces that value with 0 (zero).
 
 ```vb
 For Each c in Worksheets("Sheet1").Range("A1:D10") 
@@ -88,12 +88,12 @@ MsgBox "There are " & numBlanks & " empty cells in this range"
 
 <br/>
 
-This example sets the font style in cells A1:C5 on Sheet1 to italic. The example uses Syntax 2 of the **Range** property.
+This example sets the font style in cells A1:C5 on Sheet1 of the active workbook to italic. The example uses Syntax 2 of the **Range** property.
 
 ```vb
-Worksheets("Sheet1").Range(Cells(1, 1), Cells(5, 3)). _ 
- Font.Italic = True 
-
+With Worksheets("Sheet1")
+	.Range(.Cells(1, 1), .Cells(5, 3)).Font.Italic = True
+End With
 ```
 
 <br/>

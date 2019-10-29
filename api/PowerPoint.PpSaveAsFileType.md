@@ -17,6 +17,7 @@ Constants that specify type of file to save as, passed to the  **SaveAs** method
 |||
 |:-----|:-----|
 |**ppSaveAsAddIn**|8|
+|**ppSaveAsAnimatedGIF**|40|
 |**ppSaveAsBMP**|19|
 |**ppSaveAsDefault**|11|
 |**ppSaveAsEMF**|23|

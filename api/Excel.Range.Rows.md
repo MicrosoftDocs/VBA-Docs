@@ -26,32 +26,32 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 ## Remarks
 
-To return a single row, include an index in parentheses. For example, `Selection.Rows(1)` returns the first row of the selection. 
+To return a single row, use the **[Item](Excel.Range.Item.md)** property or equivalently include an index in parentheses. For example, both `Selection.Rows(1)` and `Selection.Rows.Item(1)` return the first row of the selection.
 
-When applied to a **Range** object that's a multiple selection, this property returns rows from only the first area of the range. For example, if the **Range** object has two areas—A1:B2 and C3:D4—,`Selection.Rows.Count` returns 2, not 4. To use this property on a range that may contain a multiple selection, test **Areas.Count** to determine whether the range is a multiple selection. If it is, loop over each area in the range, as shown in the third example.
+When applied to a **Range** object that is a multiple selection, this property returns rows from only the first area of the range. For example, if the **Range** object `someRange` has two areas—A1:B2 and C3:D4—,`someRange.Rows.Count` returns 2, not 4. To use this property on a range that may contain a multiple selection, test **Areas.Count** to determine whether the range is a multiple selection. If it is, loop over each area in the range, as shown in the third example.
 
-The returned range might be outside the specified range. For example, `Range("A1:B2").Rows(5).Select` returns cells A5:B5.
+The returned range might be outside the specified range. For example, `Range("A1:B2").Rows(5)` returns cells A5:B5. For more information, see the **[Item](Excel.Range.Item.md)** property.
 
 Using the **Rows** property without an object qualifier is equivalent to using **ActiveSheet.Rows**. For more information, see the **[Worksheet.Rows](excel.worksheet.rows.md)** property.
 
 
 ## Example
 
-This example deletes row three on Sheet1.
+This example deletes the range B5:Z5 on Sheet1 of the active workbook.
 
 ```vb
-Worksheets("Sheet1").Rows(3).Delete
+Worksheets("Sheet1").Range("B2:Z44").Rows(3).Delete
 ```
 
 <br/>
 
-This example deletes rows in the current region on worksheet one where the value of cell one in the row is the same as the value of cell one in the previous row.
+This example deletes rows in the current region on worksheet one of the active workbook where the value of cell one in the row is the same as the value of cell one in the previous row.
 
 ```vb
-For Each rw In Worksheets(1).Cells(1, 1).CurrentRegion.Rows 
- this = rw.Cells(1, 1).Value 
- If this = last Then rw.Delete 
- last = this 
+For Each rw In Worksheets(1).Cells(1, 1).CurrentRegion.Rows
+   this = rw.Cells(1, 1).Value 
+   If this = last Then rw.Delete 
+   last = this 
 Next
 ```
 
@@ -60,19 +60,28 @@ Next
 This example displays the number of rows in the selection on Sheet1. If more than one area is selected, the example loops through each area.
 
 ```vb
-Worksheets("Sheet1").Activate 
-areaCount = Selection.Areas.Count 
-If areaCount <= 1 Then 
- MsgBox "The selection contains " & _ 
- Selection.Rows.Count & " rows." 
-Else 
- i = 1 
- For Each a In Selection.Areas 
- MsgBox "Area " & i & " of the selection contains " & _ 
- a.Rows.Count & " rows." 
- i = i + 1 
- Next a 
-End If
+Public Sub ShowNumberOfRowsInSheet1Selection
+   Worksheets("Sheet1").Activate 
+   
+   Dim selectedRange As Excel.Range
+   Set selectedRange = Selection
+   
+   Dim areaCount As Long
+   areaCount = Selection.Areas.Count 
+   
+   If areaCount <= 1 Then 
+      MsgBox "The selection contains " & _ 
+             Selection.Rows.Count & " rows." 
+   Else 
+      Dim areaIndex As Long
+      areaIndex = 1 
+      For Each area In Selection.Areas 
+         MsgBox "Area " & areaIndex & " of the selection contains " & _ 
+                area.Rows.Count & " rows." 
+         areaIndex = areaIndex + 1 
+      Next 
+   End If
+End Sub
 ```
 
 

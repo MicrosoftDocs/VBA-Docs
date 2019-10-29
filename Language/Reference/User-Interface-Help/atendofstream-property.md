@@ -32,7 +32,7 @@ The following code illustrates the use of the **AtEndOfStream** property.
 Dim fs, a, retstring
 Set fs = CreateObject("Scripting.FileSystemObject")
 Set a = fs.OpenTextFile("c:\testfile.txt", ForReading, False)
-Do While a. AtEndOfStream <> True
+Do While a.AtEndOfStream <> True
     retstring = a.ReadLine
     ...
 Loop

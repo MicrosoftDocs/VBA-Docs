@@ -26,14 +26,14 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 ## Remarks
 
-Because the **[Item](Excel.Range.Item.md)** property is the default property for the **Range** object, you can specify the row and column index immediately after the **Cells** keyword. For more information, see the **Item** property and the examples for this topic.
+Because the default member of **Range** forwards calls with parameters to the **[Item](Excel.Range.Item.md)** property, you can specify the row and column index immediately after the **Cells** keyword instead of an explicit call to **[Item](Excel.Range.Item.md)**.
 
 Using this property without an object qualifier returns a **Range** object that represents all the cells on the active worksheet.
 
 
 ## Example
 
-This example sets the font size for cell C5 on Sheet1 to 14 points.
+This example sets the font size for cell C5 on Sheet1 of the active workbook to 14 points.
 
 ```vb
 Worksheets("Sheet1").Cells(5, 3).Font.Size = 14
@@ -41,7 +41,7 @@ Worksheets("Sheet1").Cells(5, 3).Font.Size = 14
 
 <br/>
 
-This example clears the formula in cell one on Sheet1.
+This example clears the formula in cell one on Sheet1 of the active workbook.
 
 ```vb
 Worksheets("Sheet1").Cells(1).ClearContents
@@ -91,6 +91,29 @@ Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean
         Application.ScreenUpdating = True
         
     End If
+End Sub
+```
+
+<br/>
+
+This example looks through column C of the active sheet, and for every cell that has a comment, it puts the comment text into column D and deletes the comment from column C.
+
+```vb
+Public Sub SplitCommentsOnActiveSheet()
+   'Set up your variables
+   Dim cmt As Comment
+   Dim rowIndex As Integer
+   
+   'Go through all the cells in Column C, and check to see if the cell has a comment.
+   For rowIndex = 1 To WorksheetFunction.CountA(Columns(3))
+      Set cmt = Cells(rowIndex, 3).Comment
+      If Not cmt Is Nothing Then
+      
+         'If there is a comment, paste the comment text into column D and delete the original comment.
+         Cells(rowIndex, 4) = Cells(rowIndex, 3).Comment.Text
+         Cells(rowIndex, 3).Comment.Delete
+      End If
+   Next
 End Sub
 ```
 

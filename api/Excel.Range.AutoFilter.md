@@ -28,7 +28,7 @@ _expression_ An expression that returns a **[Range](Excel.Range(object).md)** ob
 | _Field_|Optional| **Variant**| The integer offset of the field on which you want to base the filter (from the left of the list; the leftmost field is field one).|
 | _Criteria1_|Optional| **Variant**|The criteria (a string; for example, "101"). Use `"="` to find blank fields, `"<>"` to find non-blank fields, and `"><"` to select (No Data) fields in data types.<br/><br/>If this argument is omitted, the criteria is All. If _Operator_ is **xlTop10Items**, _Criteria1_ specifies the number of items (for example, "10").|
 | _Operator_|Optional| **[XlAutoFilterOperator](Excel.XlAutoFilterOperator.md)**|An **XlAutoFilterOperator** constant specifying the type of filter.|
-| _Criteria2_|Optional| **Variant**|The second criteria (a string). Used with _Criteria1_ and _Operator_ to construct compound criteria.|
+| _Criteria2_|Optional| **Variant**|The second criteria (a string). Used with _Criteria1_ and _Operator_ to construct compound criteria. Also used as single criteria on date fields filtering by date, month or year. Followed by an Array detailing the filtering **Array(Level, Date)**. Where Level is 0-2 (year,month,date) and Date is one valid Date inside the filtering period.|
 | _SubField_|Optional| **Variant**|The field from a data type on which to apply the criteria (for example, the "Population" field from Geography or "Volume" field from Stocks). Omitting this value targets the "(Display Value)".|
 | _VisibleDropDown_|Optional| **Variant**| **True** to display the AutoFilter drop-down arrow for the filtered field. **False** to hide the AutoFilter drop-down arrow for the filtered field. **True** by default.|
 
@@ -106,6 +106,13 @@ Worksheets("Sheet1").ListObjects("Table1").Range.AutoFilter _
  SubField:="Population"
 ```
 
+This example filters a table, Table1, on Sheet1 to display the all entries for January 2019 and February 2019 for field one. There does not have to be a row containing January the 31.
+
+```vb
+Worksheets("Sheet1").ListObjects("Table1").Range.AutoFilter _
+ Field:=1, _
+ Criteria2:=Array(1, "1/31/2019", 1, "2/28/2019") 
+```
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

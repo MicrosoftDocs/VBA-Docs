@@ -62,7 +62,7 @@ Sub DocumentRange2()
 End Sub
 ```
 
-This example creates and sets the variable  _myRange_ to paragraphs three through six in the active document, and then it right-aligns the paragraphs in the range.
+This example creates and sets the variable  _myRange_ to paragraphs two through four in the active document, and then it right-aligns the paragraphs in the range.
 
 
 

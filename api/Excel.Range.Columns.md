@@ -26,9 +26,9 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 ## Remarks
 
-To return a single column, include an index in parentheses. For example, `Selection.Columns(1)` returns the first column of the selection.
+To return a single column, use the **[Item](Excel.Range.Item.md)** property or equivalently include an index in parentheses. For example, both `Selection.Columns(1)` and `Selection.Columns.Item(1)` return the first column of the selection.
 
-When applied to a **Range** object that's a multiple-area selection, this property returns columns from only the first area of the range. For example, if the **Range** object has two areas—A1:B2 and C3:D4—`Selection.Columns.Count` returns 2, not 4. To use this property on a range that may contain a multiple-area selection, test `Areas.Count` to determine whether the range contains more than one area. If it does, loop over each area in the range.
+When applied to a **Range** object that is a multiple-area selection, this property returns columns from only the first area of the range. For example, if the **Range** object has two areas—A1:B2 and C3:D4—`Selection.Columns.Count` returns 2, not 4. To use this property on a range that may contain a multiple-area selection, test `Areas.Count` to determine whether the range contains more than one area. If it does, loop over each area in the range.
 
 The returned range might be outside the specified range. For example, `Range("A1:B2").Columns(5).Select` returns cells E1:E2.
 
@@ -49,19 +49,29 @@ Range("myRange").Columns(1).Value = 0
 This example displays the number of columns in the selection on Sheet1. If more than one area is selected, the example loops through each area.
 
 ```vb
-Worksheets("Sheet1").Activate 
-areaCount = Selection.Areas.Count 
-If areaCount <= 1 Then 
- MsgBox "The selection contains " & _ 
- Selection.Columns.Count & " columns." 
-Else 
- For i = 1 To areaCount 
- MsgBox "Area " & i & " of the selection contains " & _ 
- Selection.Areas(i).Columns.Count & " columns." 
- Next i 
-End If
+Public Sub ShowNumberOfColumnsInSheet1Selection
+   Worksheets("Sheet1").Activate 
+   
+   Dim selectedRange As Excel.Range
+   Set selectedRange = Selection
+   
+   Dim areaCount As Long
+   areaCount = Selection.Areas.Count 
+   
+   If areaCount <= 1 Then 
+      MsgBox "The selection contains " & _ 
+             Selection.Columns.Count & " columns." 
+   Else 
+      Dim areaIndex As Long
+      areaIndex = 1 
+      For Each area In Selection.Areas 
+         MsgBox "Area " & areaIndex & " of the selection contains " & _ 
+                area.Columns.Count & " columns." 
+         areaIndex = areaIndex + 1 
+      Next 
+   End If
+End Sub
 ```
-
 
 
 

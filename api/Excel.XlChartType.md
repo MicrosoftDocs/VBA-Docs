@@ -75,6 +75,7 @@ Specifies the chart type.
 | **xlRadar**|-4151|Radar.|
 | **xlRadarFilled**|82|Filled Radar.|
 | **xlRadarMarkers**|81|Radar with Data Markers.|
+| **xlRegionMap**|140|Map chart.|
 | **xlStockHLC**|88|High-Low-Close.|
 | **xlStockOHLC**|89|Open-High-Low-Close.|
 | **xlStockVHLC**|90|Volume-High-Low-Close.|
