@@ -1,3 +1,12 @@
+---
+title: Series.GeoProjectionType method (Excel)
+ms.prod: excel
+api_name:
+- Excel.Series.GeoProjectionType
+ms.date: 10/29/2019
+localization_priority: Normal
+---
+
 # Series.GeoProjectionType property (Excel)
 
 Specifies the geography projection type for the specified series within the chart group. Read/write **[XlGeoProjectionType](Excel.XlGeoProjectionType.md)**.

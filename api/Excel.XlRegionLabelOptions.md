@@ -1,3 +1,12 @@
+---
+title: Excel.XlRegionLabelOptions enumeration (Excel)
+ms.prod: excel
+api_name:
+- Excel.XlRegionLabelOptions
+ms.date: 10/29/2019
+localization_priority: Normal
+---
+
 # XlRegionLabelOptions enumeration (Excel)
 
 Constants passed to and returned by the **Series.RegionLabelOptions** property.

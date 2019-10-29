@@ -1,3 +1,12 @@
+---
+title: Excel.XlGeoProjectionType enumeration (Excel)
+ms.prod: excel
+api_name:
+- Excel.XlGeoProjectionType
+ms.date: 10/29/2019
+localization_priority: Normal
+---
+
 # XlGeoProjectionType enumeration (Excel)
 
 Constants passed to and returned by the **Series.GeoProjectionType** property.
