@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # WorkbookQuery.Formula property (Excel)
 
-The Power Query M formula for the object. Read-only **String**.
+The Power Query M formula for the object. Read/write **String**.
 
 
 ## Syntax
