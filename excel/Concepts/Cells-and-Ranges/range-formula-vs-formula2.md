@@ -10,20 +10,20 @@ localization_priority: Normal
 
 # Formula Variations
 
-Range.Formula and Range.Formula2 are two different ways of representing the logic in the formula. They can be throught of a 2 dialects of Excel's formula language.
+Range.Formula and Range.Formula2 are two different ways of representing the logic in the formula. They can be thought of a 2 dialects of Excel's formula language.
 
-Excel has always supported 2 types of formula evaluation: Implicitly Intersection Evaluation (IIE) and Array Evaluation (AE). IIE was the default for cell formulas, while AE was used everywhere else (Conditional Formatting, Data Validation, CSE Array formulas, etc).  
+Excel has always supported 2 types of formula evaluation: Implicitly Intersection Evaluation (IIE) and Array Evaluation (AE). Before the introduction of Dynamic Arrays, IIE was the default for cell formulas, while AE was used everywhere else (Conditional Formatting, Data Validation, CSE Array formulas, etc).  
 
-The primary difference between the two forms of Evaluation was how they behaved when an array (e.g. {1,2,3})or multi celled range (e.g. A1:A10) was returned as the result of the formula or a range was passed to a function that expected a single value:
+The primary difference between the two forms of Evaluation was how they behaved when a multi celled range (e.g. A1:A10) was was passed to a function that expected a single value:
 
-* IIE would choose one value. For an array it would return the top left value. For a multi cell range it would select a cell on the same row or column as the formula. This operation is referred to as "implicit intersection".
-* AE would use all the values, calling the function multiple times and return an array results. This operation is referred to as "lifting".
+* IIE would choose the cell on the same row or column as the formula. This operation is referred to as "implicit intersection".
+* AE call the function with each cell in the multi celled range and return an array of results. This operation is referred to as "lifting".
 
-IIE was the default for cell formulas as it guarenteed that only one value would be returned. Cell formulas that used IIE are set using Range.Formula.
+When Range.Formula is used to set a cell's formula, IIE is used for evaluation.
 
 With the introduction of Dyanamic Arrays (DA), Excel now supports returning multiple values to the grid and AE is now the default. AE formula's can be set/read using Range.Formula2 which supersedes Range.Formula. However, to facilitate backcompatiblity, Range.Formula is still supported and will continue to set/return IIE formulas. Formula's set using Range.Formula will trigger implicit intersection and can never spill. Formula read using Range.Formula will be silent on where Implicit Intersection occurs.
 
-Range.Formula can be thought of as the formula would be presented in the formula bar in Pre-DA Excel, while Range.Formula2 is how the formula will be presented in DA Excel.
+Range.Formula effectively reports what would be presented in the formula bar in Pre-DA Excel, while Range.Formula2 reports the formula reported by the formula bar in DA Excel.
 
 Excel automatically translates between these two formula variations, so either can be read and set. To facilitate the translation from Range.Formula (using IIE) to Range.Formula2 (AE), Excel will indicate where previously implicit intersection could occur using the new implicit intersection operator @. Likewise, to facilitate the translation from Range.Formula2 (using AE) to Range.Formula (using IIE) Excel will remove @ operators that would be performed silently. Often there is no difference between the two because many common formulas do provide arrays or multicelled ranges to functions that expect single values or return multicelled ranges as their result which is the only time IIE and AE behave differently.
 
@@ -53,7 +53,7 @@ Next i
 
 #Translating from Range.Formula2 to Range.Formula
 
-Formula set using Range.Formula2 Excel will ensure that is calculated using AE. This is done by evaluating all newly authored formulas as array formulas. However, to minimize the number of CSE array formulas shown in old Excel, DA Excel analyses the formula to determine if an array or mulitcelled range could be provided to a function that expected a single value - the only time IIE and AE differ. If the formula will calcs the same under IIE and AE, DA Excel saves the formula as an IIE. If there is any potential that they differ, Excel will it to file in save such that pre-DA excel sees it as an array formula. You can test whether the formula will appear as an array formula for pre-DA Excel using Range.IsSavedAsArray()
+Formula set using Range.Formula2 Excel will ensure that is calculated using AE. This is done by evaluating all newly authored formulas as array formulas. On file save, DA Excel examines the formulas in the workbook to determine if they would calculate the same in AE and IIE. If they do, Excel saves them as IIE to reduce the number of Array formulas seen by Pre-dynamic array versions of Excel. You can test whether the formula will be saved to file as an array formula using Range.IsSavedAsArray()
 
 
 ```vb
