@@ -26,9 +26,9 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 # Remarks
 
-In Dynamic Arrays enabled Excel, Range.Formula2 supercedes Range.Formula. Range.Formula will continue to be supported to maintain backcompatibility. A discussion on Dynamic Arrays and Range.Formula2 can be found here. 
-
 This property is not available for OLAP data sources.
+
+In Dynamic Arrays enabled Excel, Range.Formula2 supercedes Range.Formula. Range.Formula will continue to be supported to maintain backcompatibility. A discussion on Dynamic Arrays and Range.Formula2 can be found here. 
 
 If the cell contains a constant, this property returns the constant. If the cell is empty, this property returns an empty string. If the cell contains a formula, the **Formula** property returns the formula as a string in the same format that would be displayed in the formula bar (including the equal sign ( = )).
 
@@ -57,7 +57,7 @@ Sub InsertTodaysDate()
     ' This macro will put today's date in cell A1 on Sheet1 
     Sheets("Sheet1").Select 
     Range("A1").Select 
-    Selection.Formula = "=text(now(),""mmm dd yyyy"")" 
+    Selection.Formula2 = "=text(now(),""mmm dd yyyy"")" 
     Selection.Columns.AutoFit 
 End Sub
 ```
