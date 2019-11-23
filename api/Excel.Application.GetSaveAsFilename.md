@@ -51,6 +51,7 @@ This method returns the selected file name or the name entered by the user. The 
 
 This method may change the current drive or folder.
 
+When InitialFilename is used with an extension and a filter is applied, this extension must match the filter extension, otherwise the effective InitialFilename displayed in the dialog box will be an empty string.
 
 ## Example
 
