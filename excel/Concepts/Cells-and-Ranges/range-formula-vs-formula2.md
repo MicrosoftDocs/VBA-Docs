@@ -81,7 +81,7 @@ Next i
 |=SQRT(A1)|=SQRT(A1)|FALSE|SQRT expects a single value, A1 is a single value. Therefor no variance between IIE and AE. Save as IIE and remove any @'s|
 |=SQRT(@A1:A4)|=SQRT(A1:A4)|FALSE|SQRT expects a single value, @A1:A4 is a single value. Therefor no variance between IIE and AE. Save as IIE and remove any @'s|
 |=SQRT(A1:A4)|=SQRT(A1:A4)|TRUE|SQRT expects a single value, A1:A4 is a multicell range. IIE and AE could vary therefor save as array|
-|=SQRT(A1:A4)+SQRT(@A1:A4)|=SQRT(A1:A4)+SQRT(@A1:A4)|TRUE|The first SQRT expects a single value, A1:A4 is a multicell range. IIE and AE could vary therefor save as array|
+|=SQRT(A1:A4)+ SQRT(@A1:A4)|=SQRT(A1:A4)+ SQRT(@A1:A4)|TRUE|The first SQRT expects a single value, A1:A4 is a multicell range. IIE and AE could vary therefor save as array|
 
 ## Best Practice
 
