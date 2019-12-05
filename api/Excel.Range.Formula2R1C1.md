@@ -5,7 +5,7 @@ f1_keywords:
 - ???
 ms.prod: excel
 api_name:
-- Excel.Range.Formula2Local
+- Excel.Range.Formula2R1C1
 ms.assetid: ???
 ms.date: ???
 localization_priority: Normal
