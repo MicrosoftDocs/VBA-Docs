@@ -55,7 +55,7 @@ Next i
 
 ## Translating from Range.Formula2 to Range.Formula
 
-Formula set using Range.Formula2 Excel use AE. On file save, DA Excel examines the formulas in the workbook to determine if they would calculate the same in AE and IIE. If they do, to improve backcompatibility, Excel may save it as an IIE to reduce the number of Array formulas seen by Pre DA versions of Excel. You can test whether the formula will be saved to file as an array formula using Range.IsSavedAsArray()
+Formula set using Range.Formula2 Excel use AE. On file save, DA Excel examines the formulas in the workbook to determine if they would calculate the same in AE and IIE. If they do, to improve backcompatibility, Excel may save it as an IIE to reduce the number of Array formulas seen by Pre DA versions of Excel. You can test whether the formula will be saved to file as an array formula using Range.SavedAsArray()
 
 
 ```vb
