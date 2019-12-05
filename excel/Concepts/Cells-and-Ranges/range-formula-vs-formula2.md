@@ -76,7 +76,7 @@ For i = LBound(ArrayOfFormulas) To UBound(ArrayOfFormulas)
 Next i
 ```
 
-|Write Range.Formula2|Read Range.Formula|Read Range.isSavedAsArray|Notes|
+|Write Range.Formula2|Read Range.Formula|Read Range.SavedAsArray|Notes|
 |--|--|--|------|
 |=SQRT(A1)|=SQRT(A1)|FALSE|SQRT expects a single value, A1 is a single value. Therefor no variance between IIE and AE. Save as IIE and remove any @'s|
 |=SQRT(@A1:A4)|=SQRT(A1:A4)|FALSE|SQRT expects a single value, @A1:A4 is a single value. Therefor no variance between IIE and AE. Save as IIE and remove any @'s|
