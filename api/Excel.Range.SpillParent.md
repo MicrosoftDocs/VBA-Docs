@@ -24,7 +24,7 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 ## Remarks
 
-This was property was introduced to support Dynamic array Excel. Range.HasSpill can be used to determine if a cell is a member of a spill range.
+This property is present in dynamic array enabled Excel. Before calling Range.SpillParent, you may want to first test if a cell is a member of a spill range using Range.HasSpill.
 
 ## Example
 
