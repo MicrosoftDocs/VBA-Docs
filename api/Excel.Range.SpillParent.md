@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Range.SpillParent property (Excel)
 
-If a range contains a spill, returns the cell containing the formula responsible. Otherwise an error is returned. 
+If a cell is a member of a spill, returns the cell containing the formula responsible. Otherwise, an error is returned. 
 
 ## Syntax
 
