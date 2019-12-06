@@ -28,7 +28,7 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Prompt_|Required| **String**|The message to be displayed in the dialog box. This can be a string, a number, a date, or a **Boolean** value (Microsoft Excel automatically coerces the value to a **String** before it is displayed).|
+| _Prompt_|Required| **String**|The message to be displayed in the dialog box. This can be a string, a number, a date, or a **Boolean** value (Microsoft Excel automatically coerces the value to a **String** before it is displayed). Maximum length is **255 characters**, otherwise there is no prompt, and Application's method immediately returns Error 2015.|
 | _Title_|Optional| **Variant**|The title for the input box. If this argument is omitted, the default title is Input.|
 | _Default_|Optional| **Variant**|Specifies a value that will appear in the text box when the dialog box is initially displayed. If this argument is omitted, the text box is left empty. This value can be a **[Range](Excel.Range(object).md)** object.|
 | _Left_|Optional| **Variant**|Specifies an *x* position for the dialog box in relation to the upper-left corner of the screen, in points.|
