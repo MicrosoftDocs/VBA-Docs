@@ -66,6 +66,8 @@ The _firstweekofyear_ [argument](../../Glossary/vbe-glossary.md#argument) has th
 |Date and time serial numbers|Use date and time formats or numeric formats.|
 |Strings|Create your own user-defined string formats.|
 
+**Format** truncates _format_ to 257 characters. 
+
 If you try to format a number without specifying _format_, **Format** provides functionality similar to the **Str** function, although it is internationally aware. However, positive numbers formatted as strings using **Format** don't include a leading space reserved for the sign of the value; those converted using **Str** retain the leading space.
 
 If you are formatting a non-localized numeric string, you should use a user-defined numeric format to ensure that you get the look you want.

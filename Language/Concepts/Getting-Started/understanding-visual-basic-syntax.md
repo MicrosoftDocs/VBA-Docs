@@ -103,6 +103,15 @@ Dim x, y, z As Integer
 
 ```
 
+The shorthand to declare `x` and `y` as Integer in the statement above is:
+
+```vb
+Dim x%, y%, z as Integer
+
+```
+The shorthand for the types is: % -integer; & -long; @ -currency; # -double; ! -single; $ -string
+
+
 If you are declaring an [array](../../Glossary/vbe-glossary.md#array) variable, you must include parentheses. The subscripts are optional. The following statement dimensions a dynamic array, `myArray`.
 
 ```vb

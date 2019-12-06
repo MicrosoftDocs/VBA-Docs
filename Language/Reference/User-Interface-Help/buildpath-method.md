@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BuildPath method
 
-Appends a name to an existing path.
+Combines a folder path and the name of a folder or file and returns the combination with valid path separators.
 
 ## Syntax
 
@@ -27,8 +27,8 @@ The **BuildPath** method syntax has these parts:
 |Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a **[FileSystemObject](filesystemobject-object.md)**.|
-| _path_|Required. Existing path to which _name_ is appended. Path can be absolute or relative and need not specify an existing folder.|
-| _name_|Required. Name being appended to the existing _path_.|
+| _path_|Required. Existing path with which _name_ is combined. Path can be absolute or relative and need not specify an existing folder.|
+| _name_|Required. Name of a folder or file being appended to the existing _path_.|
 
 ## Remarks
 

@@ -29,7 +29,7 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _InitialFilename_|Optional| **Variant**|Specifies the suggested file name. If this argument is omitted, Microsoft Excel uses the active workbook's name.|
-| _FileFilter_|Optional| **Variant**|A string specifying file filtering criteria.|
+| _FileFilter_|Optional| **Variant**|A string specifying file filtering criteria. Max length is 255 characters, otherwise the method returns Error 2015.|
 | _FilterIndex_|Optional| **Variant**|Specifies the index number of the default file filtering criteria, from 1 to the number of filters specified in  _FileFilter_. If this argument is omitted or greater than the number of filters present, the first file filter is used.|
 | _Title_|Optional| **Variant**|Specifies the title of the dialog box. If this argument is omitted, the default title is used.|
 | _ButtonText_|Optional| **Variant**|Macintosh only.|
@@ -51,6 +51,7 @@ This method returns the selected file name or the name entered by the user. The 
 
 This method may change the current drive or folder.
 
+When InitialFilename is used with an extension and a filter is applied, this extension must match the filter extension, otherwise the effective InitialFilename displayed in the dialog box will be an empty string.
 
 ## Example
 

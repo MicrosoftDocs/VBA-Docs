@@ -48,6 +48,14 @@ Dim intX, intY, intZ As Integer
 
 You don't have to supply the variable's data type in the declaration statement. If you omit the data type, the variable will be of type **Variant**.
 
+The shorthand to declare `x` and `y` as Integer in the statement above is:
+
+```vb
+Dim intX%, intY%, intZ as Integer
+```
+The shorthand for the types is: % -integer; & -long; @ -currency; # -double; ! -single; $ -string
+
+
 ## Public statement
 
 You can use the **Public** statement to declare public module-level variables.
