@@ -10,7 +10,8 @@ localization_priority: Normal
 ---
 
 # DatePart function
-
+> [!WARNING]
+> There is an issue with the use of this function. The last Monday in some calendar years can be returned as week 53 when it should be week 1. For more information and a workaround, see [Format or DatePart functions can return wrong week number for last Monday in Year](https://docs.microsoft.com/en-us/office/troubleshoot/access/functions-return-wrong-week-number).
 Returns a **Variant** (**Integer**) containing the specified part of a given date.
 
 ## Syntax
@@ -102,3 +103,5 @@ MsgBox Msg
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+[Format or DatePart functions can return wrong week number for last Monday in Year](https://docs.microsoft.com/en-us/office/troubleshoot/access/functions-return-wrong-week-number)
