@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.SavedAsArray
 ms.assetid: ????
-ms.date: ????
+ms.date: 12/10/2019
 localization_priority: Normal
 ---
 
