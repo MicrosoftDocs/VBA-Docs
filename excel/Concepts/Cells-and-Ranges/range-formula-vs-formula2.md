@@ -1,10 +1,10 @@
 ---
 title: Cell Formulas 
-keywords: ???
-f1_keywords: ???
+keywords: 
+f1_keywords: 
 ms.prod: excel
 ms.assetid: ??? 
-ms.date: ???
+ms.date: 12/10/2019
 localization_priority: Normal
 ---
 
