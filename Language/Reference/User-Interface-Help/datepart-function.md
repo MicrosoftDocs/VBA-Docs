@@ -5,13 +5,13 @@ f1_keywords:
 - vblr6.chm1012951
 ms.prod: office
 ms.assetid: 65476ecc-c1d6-333e-b8b5-417a96373594
-ms.date: 12/12/2018
+ms.date: 12/10/2019
 localization_priority: Normal
 ---
 
 # DatePart function
 > [!WARNING]
-> There is an issue with the use of this function. The last Monday in some calendar years can be returned as week 53 when it should be week 1. For more information and a workaround, see [Format or DatePart functions can return wrong week number for last Monday in Year](https://docs.microsoft.com/en-us/office/troubleshoot/access/functions-return-wrong-week-number).
+> There is an issue with the use of this function. The last Monday in some calendar years can be returned as week 53 when it should be week 1. For more information and a workaround, see [Format or DatePart functions can return wrong week number for last Monday in Year](https://docs.microsoft.com/office/troubleshoot/access/functions-return-wrong-week-number).
 Returns a **Variant** (**Integer**) containing the specified part of a given date.
 
 ## Syntax
@@ -104,4 +104,4 @@ MsgBox Msg
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
 
-[Format or DatePart functions can return wrong week number for last Monday in Year](https://docs.microsoft.com/en-us/office/troubleshoot/access/functions-return-wrong-week-number)
+[Format or DatePart functions can return wrong week number for last Monday in Year](https://docs.microsoft.com/office/troubleshoot/access/functions-return-wrong-week-number)
