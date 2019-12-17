@@ -47,49 +47,28 @@ The following code sample shows how to obtain the business phone number, office 
 Sub DemoAE() 
  
  Dim colAL As Outlook.AddressLists 
- 
  Dim oAL As Outlook.AddressList 
- 
  Dim colAE As Outlook.AddressEntries 
- 
  Dim oAE As Outlook.AddressEntry 
- 
  Dim oExUser As Outlook.ExchangeUser 
- 
  Set colAL = Application.Session.AddressLists 
  
  For Each oAL In colAL 
- 
- 'Address list is an Exchange Global Address List 
- 
- If oAL.AddressListType = olExchangeGlobalAddressList Then 
- 
- Set colAE = oAL.AddressEntries 
- 
- For Each oAE In colAE 
- 
- If oAE.AddressEntryUserType = _ 
- 
- olExchangeUserAddressEntry _ 
- 
- Or oAE.AddressEntryUserType = _ 
- 
- olExchangeRemoteUserAddressEntry Then 
- 
- Set oExUser = oAE.GetExchangeUser 
- 
- Debug.Print (oExUser.JobTitle) 
- 
- Debug.Print (oExUser.OfficeLocation) 
- 
- Debug.Print (oExUser.BusinessTelephoneNumber) 
- 
- End If 
- 
- Next 
- 
- End If 
- 
+    'Address list is an Exchange Global Address List 
+    If oAL.AddressListType = olExchangeGlobalAddressList Then 
+        Set colAE = oAL.AddressEntries 
+        
+        For Each oAE In colAE 
+            If oAE.AddressEntryUserType = olExchangeUserAddressEntry _ 
+               Or oAE.AddressEntryUserType = olExchangeRemoteUserAddressEntry Then 
+               
+                Set oExUser = oAE.GetExchangeUser 
+                Debug.Print (oExUser.JobTitle) 
+                Debug.Print (oExUser.OfficeLocation) 
+                Debug.Print (oExUser.BusinessTelephoneNumber) 
+            End If 
+        Next 
+    End If 
  Next 
  
 End Sub
