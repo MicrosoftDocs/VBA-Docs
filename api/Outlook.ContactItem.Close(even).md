@@ -35,6 +35,13 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 
 If you use the  **[Close](Outlook.ContactItem.Close(method).md)** method to fire this event, it can only be canceled if the **Close** method uses the **olPromptForSave** argument.
 
+>[!NOTE]
+> In C#, there is no ContactItem.Close event, only [Close](https://docs.microsoft.com/office/vba/api/outlook.contactitem.close(method)).
+>
+> Try the following code example instead:
+>`ItemEvents_10_Event appointmentItemEvent = (ItemEvents_10_Event)outlook_contact;
+appointmentItemEvent.Close += AppointmentItemEvent_Close;`
+
 
 ## See also
 
