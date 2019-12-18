@@ -11,11 +11,9 @@ ms.date: 06/08/2017
 localization_priority: Normal
 ---
 
-
 # Recipients.Add method (Outlook)
 
 Creates a new recipient in the  **[Recipients](Outlook.Recipients.md)** collection.
-
 
 ## Syntax
 
@@ -23,10 +21,7 @@ _expression_.**Add** (_Name_)
 
 _expression_ A variable that represents a [Recipients](Outlook.Recipients.md) object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,8 +29,7 @@ _expression_ A variable that represents a [Recipients](Outlook.Recipients.md) ob
 
 ## Return value
 
-A  **[Recipient](Outlook.Recipient.md)** object that represents the new recipient.
-
+A **[Recipient](Outlook.Recipient.md)** object that represents the new recipient.
 
 ## Example
 
@@ -44,27 +38,19 @@ This VBA example creates a new mail message, uses the Add method to add 'Dan Wil
 
 ```vb
 Sub CreateStatusReportToBoss() 
- 
- Dim myItem As Outlook.MailItem 
- 
- Dim myRecipient As Outlook.Recipient 
- 
- 
- 
- Set myItem = Application.CreateItem(olMailItem) 
- 
- Set myRecipient = myItem.Recipients.Add("Dan Wilson") 
- 
- myItem.Subject = "Status Report" 
- 
- myItem.Display 
- 
+
+    Dim myItem As Outlook.MailItem 
+    Dim myRecipient As Outlook.Recipient 
+
+    Set myItem = Application.CreateItem(olMailItem) 
+    Set myRecipient = myItem.Recipients.Add("Dan Wilson") 
+    myItem.Subject = "Status Report" 
+    myItem.Display 
+
 End Sub
 ```
 
-
 ## See also
-
 
 [Recipients Object](Outlook.Recipients.md)
 
