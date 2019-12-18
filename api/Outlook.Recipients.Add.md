@@ -11,9 +11,11 @@ ms.date: 06/08/2017
 localization_priority: Normal
 ---
 
+
 # Recipients.Add method (Outlook)
 
 Creates a new recipient in the  **[Recipients](Outlook.Recipients.md)** collection.
+
 
 ## Syntax
 
@@ -21,15 +23,18 @@ _expression_.**Add** (_Name_)
 
 _expression_ A variable that represents a [Recipients](Outlook.Recipients.md) object.
 
+
 ## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the recipient; it can be a string representing the display name, the alias, or the full SMTP email address of the recipient.|
 
+
 ## Return value
 
 A **[Recipient](Outlook.Recipient.md)** object that represents the new recipient.
+
 
 ## Example
 
@@ -49,6 +54,7 @@ Sub CreateStatusReportToBoss()
 
 End Sub
 ```
+
 
 ## See also
 
