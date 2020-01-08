@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Sheets](Excel.Sheets.md)** object.
 |:-----|:-----|:-----|:-----|
 | _Before_|Optional| **Variant**|An object that specifies the sheet before which the new sheet is added.|
 | _After_|Optional| **Variant**|An object that specifies the sheet after which the new sheet is added.|
-| _Count_|Optional| **Variant**|The number of sheets to be added. The default value is one.|
+| _Count_|Optional| **Variant**|The number of sheets to be added. The default value is the number of selected sheets.|
 | _Type_|Optional| **Variant**|Specifies the sheet type. Can be one of the following **[XlSheetType](Excel.XlSheetType.md)** constants: **xlWorksheet**, **xlChart**, **xlExcel4MacroSheet**, or **xlExcel4IntlMacroSheet**. If you are inserting a sheet based on an existing template, specify the path to the template. The default value is **xlWorksheet**.|
 
 ## Return value
