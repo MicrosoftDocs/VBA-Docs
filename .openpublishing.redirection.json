@@ -4,6 +4,10 @@
             "redirect_url": "/office/vba/api/overview",
             "source_path": "index.md" 
         },
+         {
+            "source_path": "excel/Concepts/Excel-Performance/excel-improving-calcuation-performance.md",
+            "redirect_url": "/office/vba/excel/Concepts/Excel-Performance/excel-improving-calculation-performance.md"
+        },
         {
             "source_path": "access/Concepts/Miscellaneous/alter-microsoft-access-sql-reserved-word.md",
             "redirect_url": "/office/vba/access/concepts/structured-query-language/alter-microsoft-access-sql-reserved-word"

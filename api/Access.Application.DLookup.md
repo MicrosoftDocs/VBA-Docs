@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.DLookup
 ms.assetid: cbe1fc56-e4d7-cb74-02df-48fc379cf432
-ms.date: 02/05/2019
+ms.date: 12/17/2019
 localization_priority: Normal
 ---
 
@@ -146,6 +146,35 @@ The following examples show how to use various types of criteria with the **DLoo
     ' Control Structures
     variable = DLookup("IIf([LastName] Like 'Smith', 'True', 'False')", "tableName", "[PrimaryKey] = 7")
     ' ***************************
+```
+<br/>
+The following example shows how to use **DLookUp** in a Do Loop. It demonstrates how to build the Criteria string on each pass through the loop.
+
+```vba
+' The loop verifies data from an input data set, in this case Operating System names, 
+' against those contained in a Master List.
+
+Do Until I1 &gt; NRec1
+    ' An apostrophe is concatenated at the beginning and at the end of a datum referenced by "rs1!OS", 
+    ' which is then concatenated to build the entire criteria string.
+    Str_2 = "'" & rs1!OS & "'"
+    Str_1 = "[OS] = " & Str_2
+    
+    J1 = DLookup("[ID]", "tbl_81_Operating_Systems_Master_List", Str_1)
+    
+    If IsNull(J1) = True Then
+        ' If an OS name is not found, then a flag is set and the name of the unknown OS is output to a table.
+        rs3.AddNew
+        rs3.OS = rs1!OS
+        rs3.Update
+        Err_Fl = False
+
+    End If
+
+    rs1.MoveNext
+    I1 = I1 + 1
+
+Loop
 ```
 
 
