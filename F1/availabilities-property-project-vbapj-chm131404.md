@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Resource.Availabilities Property (Project)](http://msdn.microsoft.com/library/1525ba2e-49c1-216a-0b45-008e866163d5%28Office.15%29.aspx)
+[Resource.Availabilities Property (Project)](https://docs.microsoft.com/en-us/office/vba/api/Project.Resource.Availabilities)
 
-[Project.AutoFilter Property (Project)](http://msdn.microsoft.com/library/3e6960f7-8a8a-6300-d74b-4e009fbcfca2%28Office.15%29.aspx)
+[Project.AutoFilter Property (Project)](https://docs.microsoft.com/en-us/office/vba/api/Project.Project.AutoFilter)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
