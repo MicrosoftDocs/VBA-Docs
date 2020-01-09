@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ViewsCombination.Add Method (Project)](http://msdn.microsoft.com/library/84e93698-88c3-b4a7-a754-8078fcab897a%28Office.15%29.aspx)
+[ViewsCombination.Add Method (Project)](https://docs.microsoft.com/en-us/office/vba/api/Project.ViewsCombination.Add)
 
-[Timeline.Label Property (Project)](http://msdn.microsoft.com/library/8456d32e-c389-232a-2279-e7f73b4cd05e%28Office.15%29.aspx)
+[Timeline.Label Property (Project)](https://docs.microsoft.com/en-us/office/vba/api/Project.timeline.label)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

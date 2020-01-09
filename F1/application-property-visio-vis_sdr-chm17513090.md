@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[IVInvisibleApp.Application Property (Visio)](http://msdn.microsoft.com/library/5f84769f-404f-9766-4d25-41ef7dfed324%28Office.15%29.aspx)
+[InvisibleApp object (Visio)](https://docs.microsoft.com/en-us/office/vba/api/visio.invisibleapp)
 
-[InvisibleApp.Application Property (Visio)](http://msdn.microsoft.com/library/3d257372-c728-a758-9890-5cc695f70d89%28Office.15%29.aspx)
+[InvisibleApp.Application Property (Visio)](https://docs.microsoft.com/en-us/office/vba/api/Visio.InvisibleApp.Application)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
