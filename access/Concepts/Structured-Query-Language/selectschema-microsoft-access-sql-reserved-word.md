@@ -16,8 +16,8 @@ localization_priority: Normal
 
 The SELECTSCHEMA keyword is used in these contexts:
 
-- [GRANT statement](http://msdn.microsoft.com/library/50AE97AE-D5BE-57E5-D9DA-F3FC42F01D83%28Office.15%29.aspx)
-- [REVOKE statement](http://msdn.microsoft.com/library/69399FD6-C4E8-F2E2-E5F4-48AE779323F5%28Office.15%29.aspx)
+- [GRANT statement](https://msdn.microsoft.com/library/50AE97AE-D5BE-57E5-D9DA-F3FC42F01D83%28Office.15%29.aspx)
+- [REVOKE statement](https://msdn.microsoft.com/library/69399FD6-C4E8-F2E2-E5F4-48AE779323F5%28Office.15%29.aspx)
 
 
 ## See also

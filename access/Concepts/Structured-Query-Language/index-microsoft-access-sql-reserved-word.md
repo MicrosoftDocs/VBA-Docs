@@ -16,10 +16,10 @@ localization_priority: Normal
 
 The INDEX keyword is used in these contexts:
 
-- [CREATE INDEX statement](http://msdn.microsoft.com/library/c5919ef4-a08d-df06-7078-5331adbcb45c%28Office.15%29.aspx)
-- [DROP statement](http://msdn.microsoft.com/library/a8c79c35-22da-2e6d-88b5-620eb481bb61%28Office.15%29.aspx)
-- [GRANT statement](http://msdn.microsoft.com/library/50ae97ae-d5be-57e5-d9da-f3fc42f01d83%28Office.15%29.aspx)
-- [REVOKE statement](http://msdn.microsoft.com/library/69399fd6-c4e8-f2e2-e5f4-48ae779323f5%28Office.15%29.aspx)
+- [CREATE INDEX statement](https://msdn.microsoft.com/library/c5919ef4-a08d-df06-7078-5331adbcb45c%28Office.15%29.aspx)
+- [DROP statement](https://msdn.microsoft.com/library/a8c79c35-22da-2e6d-88b5-620eb481bb61%28Office.15%29.aspx)
+- [GRANT statement](https://msdn.microsoft.com/library/50ae97ae-d5be-57e5-d9da-f3fc42f01d83%28Office.15%29.aspx)
+- [REVOKE statement](https://msdn.microsoft.com/library/69399fd6-c4e8-f2e2-e5f4-48ae779323f5%28Office.15%29.aspx)
 
 
 ## See also

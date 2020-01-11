@@ -23,7 +23,7 @@ Properties and Reset Method Example (VBScript)</TITLE></HEAD>
 <BODY><h1>FilterColumn, FilterCriterion, FilterValue, SortColumn, and SortDirection
 Properties and Reset Method Example (VBScript)</h1> 
 <OBJECT classid="clsid:BD96C556-65A3-11D0-983A-00C04FC29E33" ID=RDS HEIGHT=1 WIDTH=1><PARAM NAME="SQL" VALUE="Select FirstName, LastName, Title, ReportsTo, Extension from Employees">
-<PARAM NAME="Connect" VALUE="Provider='sqloledb';Data Source=<%=Request.ServerVariables("SERVER_NAME")%>;Integrated Security='SSPI';Initial Catalog='Northwind'"><PARAM NAME="Server" VALUE="http://<%=Request.ServerVariables("SERVER_NAME")%>">
+<PARAM NAME="Connect" VALUE="Provider='sqloledb';Data Source=<%=Request.ServerVariables("SERVER_NAME")%>;Integrated Security='SSPI';Initial Catalog='Northwind'"><PARAM NAME="Server" VALUE="https://<%=Request.ServerVariables("SERVER_NAME")%>">
 </OBJECT> 
 Sort Column: <SELECT NAME="cboSortColumn"><OPTION VALUE=""></OPTION>
 <OPTION VALUE=ID>ID</OPTION><OPTION VALUE=FirstName>FirstName</OPTION>
@@ -105,8 +105,8 @@ RDS.Reset(FALSE)End Sub
 - [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
-- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
-- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

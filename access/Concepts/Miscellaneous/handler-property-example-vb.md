@@ -32,7 +32,7 @@ Your code looks like the following. The command assigned to the [SQL](sql-proper
 On Error GoTo ErrorHandlerDim dc As New DataControl
 Dim rst As ADODB.Recordsetdc.Handler = "MSDFMAP.Handler"
 dc.ExecuteOptions = 1dc.FetchOptions = 1
-dc.Server = "http://MyServer"dc.Connect = "Data Source=AuthorDataBase"
+dc.Server = "https://MyServer"dc.Connect = "Data Source=AuthorDataBase"
 dc.SQL = "AuthorById('267-41-2394')"dc.Refresh 'Retrieve the record
 Set rst = dc.Recordset 'Use another Recordset as a convenienceDebug.Print "Author is '" & rst!au_fname & " " & rst!au_lname & "'"
 ' clean upIf rst.State = adStateOpen Then rst.Close
@@ -51,8 +51,8 @@ End IfEnd Sub
 - [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
-- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
-- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -51,7 +51,7 @@ Sub DemoTable()
  .Add ("Subject") 
  .Add ("LastModificationTime") 
  'PidTagAttributeHidden referenced by the MAPI proptag namespace 
- .Add ("http://schemas.microsoft.com/mapi/proptag/0x10F4000B") 
+ .Add ("https://schemas.microsoft.com/mapi/proptag/0x10F4000B") 
  End With 
  
  'Enumerate the table using test for EndOfTable 
@@ -59,7 +59,7 @@ Sub DemoTable()
  Set oRow = oTable.GetNextRow() 
  Debug.Print (oRow("Subject")) 
  Debug.Print (oRow("LastModificationTime")) 
- Debug.Print (oRow("http://schemas.microsoft.com/mapi/proptag/0x10F4000B")) 
+ Debug.Print (oRow("https://schemas.microsoft.com/mapi/proptag/0x10F4000B")) 
  Loop 
 End Sub
 ```

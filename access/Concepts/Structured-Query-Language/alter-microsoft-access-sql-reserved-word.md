@@ -16,8 +16,8 @@ localization_priority: Normal
 
 The ALTER keyword is used in these contexts:
 
-- [ALTER TABLE statement](http://msdn.microsoft.com/library/78e6c92c-e88c-e55f-6b89-435360c166a6%28Office.15%29.aspx)
-- [ALTER USER or DATABASE statement](http://msdn.microsoft.com/library/86ccd296-5171-97e7-683f-cdaab4bde9ab%28Office.15%29.aspx)
+- [ALTER TABLE statement](https://msdn.microsoft.com/library/78e6c92c-e88c-e55f-6b89-435360c166a6%28Office.15%29.aspx)
+- [ALTER USER or DATABASE statement](https://msdn.microsoft.com/library/86ccd296-5171-97e7-683f-cdaab4bde9ab%28Office.15%29.aspx)
 
 ## See also
 

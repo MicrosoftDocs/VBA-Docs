@@ -20,7 +20,7 @@ The following example shows how to convert a **Recordset** into a MIME-encoded s
 <SCRIPT LANGUAGE=VBSCRIPT>Sub ConvertToStringX()
 Dim objRs, objDF, strServer, vStringConst adcExecSync = 1
 Const adcFetchUpFront = 1 
-' Replace value below with your server name to use without ASP.strServer = "http://<%=Request.ServerVariables("SERVER_NAME")%>"> 
+' Replace value below with your server name to use without ASP.strServer = "https://<%=Request.ServerVariables("SERVER_NAME")%>"> 
 Set objDF = RDS1.CreateObject("RDSServer.DataFactory", strServer)Set objRs = objDF.Query(txtConnect.Value,txtQueryRecordset.Value) 
 ' convert Recordset to MIME encoded stringvString = objDF.ConvertToString(objRs) 
 ' display MIME string for demo purposestxtRS.value = vString 
@@ -50,8 +50,8 @@ CLASSID="clsid:BD96C556-65A3-11D0-983A-00C04FC29E33"></OBJECT>
 - [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
-- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
-- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

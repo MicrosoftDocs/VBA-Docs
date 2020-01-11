@@ -16,9 +16,9 @@ localization_priority: Normal
 
 The FROM keyword is used in these contexts:
 
-- [SELECT statement](http://msdn.microsoft.com/library/a5c9da94-5f9e-0fc0-767a-4117f38a5ef3%28Office.15%29.aspx)
-- [DROP USER or GROUP statement](http://msdn.microsoft.com/library/46bc5916-556b-17df-2f4c-8fd7bbd21ef7%28Office.15%29.aspx)
-- [REVOKE statement](http://msdn.microsoft.com/library/69399fd6-c4e8-f2e2-e5f4-48ae779323f5%28Office.15%29.aspx)
+- [SELECT statement](https://msdn.microsoft.com/library/a5c9da94-5f9e-0fc0-767a-4117f38a5ef3%28Office.15%29.aspx)
+- [DROP USER or GROUP statement](https://msdn.microsoft.com/library/46bc5916-556b-17df-2f4c-8fd7bbd21ef7%28Office.15%29.aspx)
+- [REVOKE statement](https://msdn.microsoft.com/library/69399fd6-c4e8-f2e2-e5f4-48ae779323f5%28Office.15%29.aspx)
 
 
 ## See also

@@ -37,7 +37,7 @@ The  _Source_ and _Options_ arguments appear in the same topic because they are 
 
     recordset .Open Source, ActiveConnection, CursorType, LockType, Options
 
-The  _Source_ argument is a **Variant** that evaluates to a valid **Command** object, a text command (e.g., a SQL statement), a table name, a stored procedure call, a URL, or the name of a file or **Stream** object containing a persistently stored **Recordset**. If _Source_ is a file path name, it can be a full path ("C:\dir\file.rst"), a relative path ("..\file.rst"), or a URL ("http://files/file.rst"). You can also specify this information in the **Recordset** object **Source** property and leave the _Source_ argument blank.
+The  _Source_ argument is a **Variant** that evaluates to a valid **Command** object, a text command (e.g., a SQL statement), a table name, a stored procedure call, a URL, or the name of a file or **Stream** object containing a persistently stored **Recordset**. If _Source_ is a file path name, it can be a full path ("C:\dir\file.rst"), a relative path ("..\file.rst"), or a URL ("https://files/file.rst"). You can also specify this information in the **Recordset** object **Source** property and leave the _Source_ argument blank.
 
 The  _Options_ argument is a **Long** value that indicates either or both of the following:
 
@@ -175,8 +175,8 @@ For more information, see NextRecordset.
 - [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
-- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
-- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

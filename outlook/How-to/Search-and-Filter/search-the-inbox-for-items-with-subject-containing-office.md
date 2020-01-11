@@ -11,7 +11,7 @@ localization_priority: Normal
 
 This topic shows two code samples that use DASL queries to search for items in the Inbox that contain "Office" in the subject line. The first code sample uses  **[Folder.GetTable](../../../api/Outlook.Folder.GetTable.md)** and the second uses **[Application.AdvancedSearch](../../../api/Outlook.Application.AdvancedSearch.md)** to apply the DASL query.
 
-Each of the code samples uses the content indexer keyword  **ci_phrasematch** in a DASL filter on the property **http://schemas.microsoft.com/mapi/proptag/0x0037001E** (the **Subject** property referenced by the MAPI ID namespace) to search for the word "office" in the subject. It applies the filter to items in the Inbox (by using **Folder.GetTable** or **Application.AdvancedSearch**), and prints the subject line of each item returned from the search.
+Each of the code samples uses the content indexer keyword  **ci_phrasematch** in a DASL filter on the property **https://schemas.microsoft.com/mapi/proptag/0x0037001E** (the **Subject** property referenced by the MAPI ID namespace) to search for the word "office" in the subject. It applies the filter to items in the Inbox (by using **Folder.GetTable** or **Application.AdvancedSearch**), and prints the subject line of each item returned from the search.
 
  **Note**  The match is not case-sensitive so any item containing "Office" or "office" in the subject will be returned by  **Folder.GetTable** or **Application.AdvancedSearch**. Notice that each sample prints the subject of each row in the resultant  **[Table](../../../api/Outlook.Table.md)**. It chooses to use the lighter weight  **Table** object instead of the **[Search.Results](../../../api/Outlook.Search.Results.md)** object for better performance. The **Subject** property is included in a **Table** returned by a search on any folder. 
  
@@ -28,7 +28,7 @@ Sub RestrictTableForInbox()
     Dim oRow As Outlook.Row 
      
     'Construct filter for Subject containing 'Office' 
-    Const PropTag  As String = "http://schemas.microsoft.com/mapi/proptag/" 
+    Const PropTag  As String = "https://schemas.microsoft.com/mapi/proptag/" 
     strFilter = "@SQL=" & Chr(34) & PropTag  _ 
         & "0x0037001E" & Chr(34) & " ci_phrasematch 'Office'" 
      
@@ -64,7 +64,7 @@ Sub TestSearchWithTable()
      
     'Construct filter. 0x0037001E represents Subject 
     strQuery = _ 
-        "http://schemas.microsoft.com/mapi/proptag/0x0037001E" & _ 
+        "https://schemas.microsoft.com/mapi/proptag/0x0037001E" & _ 
         " ci_phrasematch 'Office'" 
      
     'Do search 
