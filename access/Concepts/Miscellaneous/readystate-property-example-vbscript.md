@@ -39,7 +39,7 @@ font-size: x-small;}
 <body><H1>RDS.DataControl ReadyState Property</H1>
 <H2>RDS API Code Examples </H2><HR>
 <!-- RDS.DataControl with parameters set at design time --><OBJECT classid="clsid:BD96C556-65A3-11D0-983A-00C04FC29E33" ID=RDS>
-<PARAM NAME="SQL" VALUE="Select * from Orders"><PARAM NAME="SERVER" VALUE="http://<%=Request.ServerVariables("SERVER_NAME")%>">
+<PARAM NAME="SQL" VALUE="Select * from Orders"><PARAM NAME="SERVER" VALUE="https://<%=Request.ServerVariables("SERVER_NAME")%>">
 <PARAM NAME="CONNECT" VALUE="Provider='sqloledb';Integrated Security='SSPI';Initial Catalog='Northwind'"><PARAM NAME="ExecuteOptions" VALUE="2">
 <PARAM NAME="FetchOptions" VALUE="3"></OBJECT> 
 <TABLE DATASRC=#RDS><TBODY>
@@ -63,8 +63,8 @@ End Sub</Script>
 - [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
-- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
-- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

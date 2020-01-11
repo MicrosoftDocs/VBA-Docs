@@ -20,7 +20,7 @@ This example demonstrates the [InternetTimeout](https://msdn.microsoft.com/libra
 Public Sub Main()On Error GoTo ErrorHandler 
 Dim dc As RDS.DataControlDim rst As ADODB.Recordset
 Set dc = New RDS.DataControl 
-dc.Server = "http://MyServer"dc.ExecuteOptions = 1
+dc.Server = "https://MyServer"dc.ExecuteOptions = 1
 dc.FetchOptions = 1dc.Connect = "Provider='sqloledb';Data Source='MySqlServer';" & _
 "Initial Catalog='Pubs';Integrated Security='SSPI';"dc.SQL = "SELECT * FROM Authors"
 ' Wait at least 20 secondsdc.InternetTimeout = 200 
@@ -44,8 +44,8 @@ End Sub'EndInternetTimeoutVB
 - [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
-- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
-- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

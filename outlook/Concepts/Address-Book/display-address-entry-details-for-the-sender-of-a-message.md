@@ -59,7 +59,7 @@ Sub DisplayAddressEntryDetails(oM As MailItem)
  
  'Obtain PidTagSenderEntryId and convert to string 
  SenderID = oPA.BinaryToString _ 
- (oPA.GetProperty("http://schemas.microsoft.com/mapi/proptag/0x0C190102")) 
+ (oPA.GetProperty("https://schemas.microsoft.com/mapi/proptag/0x0C190102")) 
  
  'Obtain AddressEntry Object of the sender 
  Set oSender = Application.Session.GetAddressEntryFromID(SenderID) 

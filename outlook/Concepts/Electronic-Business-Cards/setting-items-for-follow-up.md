@@ -59,7 +59,7 @@ Private Sub TableForIsMarkedAsTask()
  ' Define a DASL filter string that filters only those items 
  ' with an IsMarkedAsTask property value set to True. 
  strFilter = "@SQL=" & Chr(34) & _ 
- "http://schemas.microsoft.com/mapi/proptag/0x0E2B0003" & _ 
+ "https://schemas.microsoft.com/mapi/proptag/0x0E2B0003" & _ 
  Chr(34) & " = 1" 
  
  ' Use the filter to construct a table of Outlook items 

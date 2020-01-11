@@ -35,7 +35,7 @@ font-size: x-small;}
 </head> 
 <body><h2>Design-time <br> ExecuteOptions and FetchOptions Properties Example</h2> 
 <OBJECT CLASSID="clsid:BD96C556-65A3-11D0-983A-00C04FC29E33" ID=RDS height=1 width=1><PARAM NAME="SQL" VALUE="SELECT FirstName, LastName FROM Employees ORDER BY LastName">
-<PARAM NAME="Connect" VALUE="Provider='sqloledb';Data Source=<%=Request.ServerVariables("SERVER_NAME")%>;Integrated Security='SSPI';Initial Catalog='Northwind'"><PARAM NAME="Server" VALUE="http://<%=Request.ServerVariables("SERVER_NAME")%>">
+<PARAM NAME="Connect" VALUE="Provider='sqloledb';Data Source=<%=Request.ServerVariables("SERVER_NAME")%>;Integrated Security='SSPI';Initial Catalog='Northwind'"><PARAM NAME="Server" VALUE="https://<%=Request.ServerVariables("SERVER_NAME")%>">
 <PARAM NAME="ExecuteOptions" VALUE="1"><PARAM NAME="FetchOptions" VALUE="3">
 </OBJECT> 
 <TABLE DATASRC=#RDS><TBODY>
@@ -71,7 +71,7 @@ font-size: x-small;}
 </head> 
 <body><h2>Run-time <br> ExecuteOptions and FetchOptions Properties Example</h2>
 <OBJECT CLASSID="clsid:BD96C556-65A3-11D0-983A-00C04FC29E33" ID=RDS height=1 width=1><PARAM NAME="SQL" VALUE="SELECT FirstName, LastName FROM Employees ORDER BY LastName">
-<PARAM NAME="Connect" VALUE="Provider='sqloledb';Data Source=<%=Request.ServerVariables("SERVER_NAME")%>;Integrated Security='SSPI';Initial Catalog='Northwind'"><PARAM NAME="Server" VALUE="http://<%=Request.ServerVariables("SERVER_NAME")%>">
+<PARAM NAME="Connect" VALUE="Provider='sqloledb';Data Source=<%=Request.ServerVariables("SERVER_NAME")%>;Integrated Security='SSPI';Initial Catalog='Northwind'"><PARAM NAME="Server" VALUE="https://<%=Request.ServerVariables("SERVER_NAME")%>">
 </OBJECT> 
 <TABLE DATASRC=#RDS><TBODY>
 <TR class="thead2"><TH>First Name</TH>
@@ -94,8 +94,8 @@ RDS.RefreshEnd Sub
 - [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
-- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
-- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

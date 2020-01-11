@@ -41,7 +41,7 @@ font-size: x-small;}
 <TD> <SPAN DATAFLD="Email"></SPAN> </TD></TR>
 </TABLE><!-- Remote Data Service with Parameters set at Design Time -->
 <OBJECT classid="clsid:BD96C556-65A3-11D0-983A-00C04FC29E33"ID=RDS HEIGHT=1 WIDTH=1>
-<PARAM NAME="SQL" VALUE="Select * from Employees"><PARAM NAME="SERVER" VALUE="http://<%=Request.ServerVariables("SERVER_NAME")%>">
+<PARAM NAME="SQL" VALUE="Select * from Employees"><PARAM NAME="SERVER" VALUE="https://<%=Request.ServerVariables("SERVER_NAME")%>">
 <PARAM NAME="CONNECT" VALUE="Provider='sqloledb';Integrated Security='SSPI';Initial Catalog='Northwind'"></OBJECT> 
 </body></html>
 <!-- EndServerDesignVBS -->
@@ -81,7 +81,7 @@ ID=RDC HEIGHT=1 WIDTH=1></OBJECT>
 <TD> <SPAN DATAFLD="Title"></SPAN> </TD><TD> <SPAN DATAFLD="Type"></SPAN> </TD>
 <TD> <SPAN DATAFLD="Email"></SPAN> </TD></TR>
 </TABLE> 
-<HR><Input Size=70 Name="txtServer" Value="HTTP://<%= Request.ServerVariables("SERVER_NAME")%>">
+<HR><Input Size=70 Name="txtServer" Value="https://<%= Request.ServerVariables("SERVER_NAME")%>">
 <BR><Input Size=70 Name="txtConnect" Value="Provider='sqloledb';Integrated Security='SSPI';Initial Catalog='Northwind'">
 <BR><Input Size=70 Name="txtSQL" Value="Select * from Employees">
 <HR><INPUT TYPE=BUTTON NAME="Run" VALUE="Run"><BR> 
@@ -103,8 +103,8 @@ End Sub-->
 - [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
-- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
-- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
