@@ -14,10 +14,10 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Assignment.ActualFinish Property (Project)](https://docs.microsoft.com/en-us/office/vba/api/Project.Assignment.ActualFinish)
+[Assignment.ActualFinish Property (Project)](https://docs.microsoft.com/office/vba/api/Project.Assignment.ActualFinish)
 
-[Task.ActualFinish Property (Project)](https://docs.microsoft.com/en-us/office/vba/api/Project.Task.ActualFinish)
+[Task.ActualFinish Property (Project)](https://docs.microsoft.com/office/vba/api/Project.Task.ActualFinish)
 
-[Application.ActiveCell Property (Project)](https://docs.microsoft.com/en-us/office/vba/api/Project.Application.ActiveCell)
+[Application.ActiveCell Property (Project)](https://docs.microsoft.com/office/vba/api/Project.Application.ActiveCell)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
