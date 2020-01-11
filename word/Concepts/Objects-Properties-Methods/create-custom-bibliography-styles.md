@@ -265,7 +265,7 @@ One of the issues that complicate bibliography styles is that they often need to
 
 For a more specific example, in the APA style, if a date is not specified for a website source, the abbreviation "n.d." is used to denote no date, and the style should do this automatically. Here's an example:
 
-APA website source with no date entered: Kwan, Y. (n.d.). Retrieved from www.microsoft.com APA website source with date entered: Kwan, Y. (2006, Jan 18). Retrieved from www.microsoft.com
+APA website source with no date entered: Kwan, Y. (n.d.). Retrieved from https://www.microsoft.com APA website source with date entered: Kwan, Y. (2006, Jan 18). Retrieved from https://www.microsoft.com
 
 As you can see, what is displayed is dependent upon on the data entered.
 
@@ -525,7 +525,7 @@ This article showed how to create a custom bibliography style in Word, first by 
 ## See also
 
 -  [What's new for Word 2013 developers](../../../api/overview/Word.md)    
--  [Office and Office 365 Developer Blog](https://blogs.msdn.com/b/officedevdocs/)    
+-  [Office 365 Developer Blog](https://developer.microsoft.com/en-us/office/blogs/)    
 -  [Word for developers website](https://docs.microsoft.com/office/client-developer/word/word-home)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
