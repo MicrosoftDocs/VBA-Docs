@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.MonthLeadingZero Property (Project)](http://msdn.microsoft.com/library/b2911e1b-195e-984e-173c-a058a9d3766e%28Office.15%29.aspx)
+[Application.MonthLeadingZero Property (Project)](https://msdn.microsoft.com/library/b2911e1b-195e-984e-173c-a058a9d3766e%28Office.15%29.aspx)
 
-[Application.LevelOrder Property (Project)](http://msdn.microsoft.com/library/c8cf70bb-7808-48c4-43b4-c7f693d4613d%28Office.15%29.aspx)
+[Application.LevelOrder Property (Project)](https://msdn.microsoft.com/library/c8cf70bb-7808-48c4-43b4-c7f693d4613d%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ChartGroups object (Word)df80c2c0-4f28-be80-9f12-5466840e8281](http://msdn.microsoft.com/library/df80c2c0-4f28-be80-9f12-5466840e8281%28Office.15%29.aspx)
+[ChartGroups object (Word)df80c2c0-4f28-be80-9f12-5466840e8281](https://msdn.microsoft.com/library/df80c2c0-4f28-be80-9f12-5466840e8281%28Office.15%29.aspx)
 
-[ChartGroups object (Word)](http://msdn.microsoft.com/library/37136fbd-8740-c817-9666-993bc5d4c847%28Office.15%29.aspx)
+[ChartGroups object (Word)](https://msdn.microsoft.com/library/37136fbd-8740-c817-9666-993bc5d4c847%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

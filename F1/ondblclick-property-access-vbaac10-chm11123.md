@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TextBox.OnDblClick property (Access)](http://msdn.microsoft.com/library/571a01ff-b92b-bb9b-1363-43086ef71c02%28Office.15%29.aspx)
+[TextBox.OnDblClick property (Access)](https://msdn.microsoft.com/library/571a01ff-b92b-bb9b-1363-43086ef71c02%28Office.15%29.aspx)
 
-[NavigationControl.OnDblClick property (Access)](http://msdn.microsoft.com/library/19b575b9-a727-85e0-f5c3-c4ebe3bbd987%28Office.15%29.aspx)
+[NavigationControl.OnDblClick property (Access)](https://msdn.microsoft.com/library/19b575b9-a727-85e0-f5c3-c4ebe3bbd987%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

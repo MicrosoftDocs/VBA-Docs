@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.CVPercent Property (Project)](http://msdn.microsoft.com/library/3bfab789-ab53-75dd-fa28-49c72942f400%28Office.15%29.aspx)
+[Task.CVPercent Property (Project)](https://msdn.microsoft.com/library/3bfab789-ab53-75dd-fa28-49c72942f400%28Office.15%29.aspx)
 
-[Window.BottomPane Property (Project)](http://msdn.microsoft.com/library/5b165c3d-6316-8e9c-782c-c350fb768cda%28Office.15%29.aspx)
+[Window.BottomPane Property (Project)](https://msdn.microsoft.com/library/5b165c3d-6316-8e9c-782c-c350fb768cda%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

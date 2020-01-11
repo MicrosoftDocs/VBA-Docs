@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.ReturnVars property (Access)](http://msdn.microsoft.com/library/2b8f455a-328f-d2f5-8277-24e9c2b9f5c7%28Office.15%29.aspx)
+[Application.ReturnVars property (Access)](https://msdn.microsoft.com/library/2b8f455a-328f-d2f5-8277-24e9c2b9f5c7%28Office.15%29.aspx)
 
-[ReturnVars object (Access)](http://msdn.microsoft.com/library/3cc16825-665f-4bd8-a606-6b3b93594659%28Office.15%29.aspx)
+[ReturnVars object (Access)](https://msdn.microsoft.com/library/3cc16825-665f-4bd8-a606-6b3b93594659%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

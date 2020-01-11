@@ -14,10 +14,10 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CustomControl.GridlineColor property (Access)](http://msdn.microsoft.com/library/a07d7fb0-f538-a186-f016-0236a32ab276%28Office.15%29.aspx)
+[CustomControl.GridlineColor property (Access)](https://msdn.microsoft.com/library/a07d7fb0-f538-a186-f016-0236a32ab276%28Office.15%29.aspx)
 
-[CommandButton.GridlineColor property (Access)](http://msdn.microsoft.com/library/ef5addc8-5e29-ef8b-f7f6-0b91c68e9bc9%28Office.15%29.aspx)
+[CommandButton.GridlineColor property (Access)](https://msdn.microsoft.com/library/ef5addc8-5e29-ef8b-f7f6-0b91c68e9bc9%28Office.15%29.aspx)
 
-[NavigationButton.GridlineColor property (Access)](http://msdn.microsoft.com/library/2f332449-f34d-f290-096a-95f6d4109c4c%28Office.15%29.aspx)
+[NavigationButton.GridlineColor property (Access)](https://msdn.microsoft.com/library/2f332449-f34d-f290-096a-95f6d4109c4c%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

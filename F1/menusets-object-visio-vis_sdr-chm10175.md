@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[MenuSets Object (Visio)](http://msdn.microsoft.com/library/eda5d528-dbb1-741d-7c31-3ff2f999d5a2.aspx)
+[MenuSets Object (Visio)](https://msdn.microsoft.com/library/eda5d528-dbb1-741d-7c31-3ff2f999d5a2.aspx)
 
-[MenuSets Object (Visio)](http://msdn.microsoft.com/library/6a49d679-abdb-2bd4-134b-c61ea3f196e8%28Office.15%29.aspx)
+[MenuSets Object (Visio)](https://msdn.microsoft.com/library/6a49d679-abdb-2bd4-134b-c61ea3f196e8%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

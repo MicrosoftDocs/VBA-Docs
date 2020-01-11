@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Report.GridY property (Access)](http://msdn.microsoft.com/library/e4a13708-fa05-8ac4-af5f-0f78ee15e623%28Office.15%29.aspx)
+[Report.GridY property (Access)](https://msdn.microsoft.com/library/e4a13708-fa05-8ac4-af5f-0f78ee15e623%28Office.15%29.aspx)
 
-[Form.GridY property (Access)](http://msdn.microsoft.com/library/d767e7de-e3eb-0523-8782-26770f22a013%28Office.15%29.aspx)
+[Form.GridY property (Access)](https://msdn.microsoft.com/library/d767e7de-e3eb-0523-8782-26770f22a013%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TaskDependency Object (Project)](http://msdn.microsoft.com/library/05d759fb-0203-761e-10f3-65b07d233f4d%28Office.15%29.aspx)
+[TaskDependency Object (Project)](https://msdn.microsoft.com/library/05d759fb-0203-761e-10f3-65b07d233f4d%28Office.15%29.aspx)
 
-[Tables Object (Project)](http://msdn.microsoft.com/library/0a8b7dd0-b42b-ed96-4d66-c5d35ddeb8ad%28Office.15%29.aspx)
+[Tables Object (Project)](https://msdn.microsoft.com/library/0a8b7dd0-b42b-ed96-4d66-c5d35ddeb8ad%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

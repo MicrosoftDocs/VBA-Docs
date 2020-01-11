@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[InvisibleApp.CellChanged Event (Visio)](http://msdn.microsoft.com/library/6fbb3f63-db6f-6937-7ace-97bf9241615a%28Office.15%29.aspx)
+[InvisibleApp.CellChanged Event (Visio)](https://msdn.microsoft.com/library/6fbb3f63-db6f-6937-7ace-97bf9241615a%28Office.15%29.aspx)
 
-[Application.CellChanged Event (Visio)](http://msdn.microsoft.com/library/8c07be33-8d0d-4957-7f08-daef8b798f28%28Office.15%29.aspx)
+[Application.CellChanged Event (Visio)](https://msdn.microsoft.com/library/8c07be33-8d0d-4957-7f08-daef8b798f28%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

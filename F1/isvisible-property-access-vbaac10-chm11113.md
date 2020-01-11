@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[NavigationControl.IsVisible property (Access)](http://msdn.microsoft.com/library/659d5713-a385-bead-68a0-501a724e9210%28Office.15%29.aspx)
+[NavigationControl.IsVisible property (Access)](https://msdn.microsoft.com/library/659d5713-a385-bead-68a0-501a724e9210%28Office.15%29.aspx)
 
-[TextBox.IsVisible property (Access)](http://msdn.microsoft.com/library/34487db4-6377-04f2-6848-a27dc5f4bab6%28Office.15%29.aspx)
+[TextBox.IsVisible property (Access)](https://msdn.microsoft.com/library/34487db4-6377-04f2-6848-a27dc5f4bab6%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

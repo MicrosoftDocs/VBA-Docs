@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[NavigationControl.Exit event (Access)](http://msdn.microsoft.com/library/501b17c7-0039-7418-e31c-7c61c49691dd%28Office.15%29.aspx)
+[NavigationControl.Exit event (Access)](https://msdn.microsoft.com/library/501b17c7-0039-7418-e31c-7c61c49691dd%28Office.15%29.aspx)
 
-[TextBox.Exit event (Access)](http://msdn.microsoft.com/library/05b5afca-4cb9-f12b-e05b-8702e35380d0%28Office.15%29.aspx)
+[TextBox.Exit event (Access)](https://msdn.microsoft.com/library/05b5afca-4cb9-f12b-e05b-8702e35380d0%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

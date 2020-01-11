@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[DrawingControl.DataRecordsetAdded Event (Visio)](http://msdn.microsoft.com/library/1db176b9-ba62-de8d-c7bc-190e4a5fa996%28Office.15%29.aspx)
+[DrawingControl.DataRecordsetAdded Event (Visio)](https://msdn.microsoft.com/library/1db176b9-ba62-de8d-c7bc-190e4a5fa996%28Office.15%29.aspx)
 
-[Document.DataRecordsetAdded Event (Visio)](http://msdn.microsoft.com/library/3ddb399d-0b28-9ec7-4059-f8d3011a98c0%28Office.15%29.aspx)
+[Document.DataRecordsetAdded Event (Visio)](https://msdn.microsoft.com/library/3ddb399d-0b28-9ec7-4059-f8d3011a98c0%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

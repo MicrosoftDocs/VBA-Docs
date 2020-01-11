@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.ContainerRelationshipDeleted Event (Visio)](http://msdn.microsoft.com/library/1aa5cd59-f350-ba47-0654-dc1bf1d6073f%28Office.15%29.aspx)
+[Application.ContainerRelationshipDeleted Event (Visio)](https://msdn.microsoft.com/library/1aa5cd59-f350-ba47-0654-dc1bf1d6073f%28Office.15%29.aspx)
 
-[InvisibleApp.ContainerRelationshipDeleted Event (Visio)](http://msdn.microsoft.com/library/689cb7e6-48a4-6438-ba9d-e1b554ac0bca%28Office.15%29.aspx)
+[InvisibleApp.ContainerRelationshipDeleted Event (Visio)](https://msdn.microsoft.com/library/689cb7e6-48a4-6438-ba9d-e1b554ac0bca%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

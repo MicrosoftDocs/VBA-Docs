@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[AddIns object (Word)](http://msdn.microsoft.com/library/acf58e58-d3f6-23cf-677b-4780f7cbc24d%28Office.15%29.aspx)
+[AddIns object (Word)](https://msdn.microsoft.com/library/acf58e58-d3f6-23cf-677b-4780f7cbc24d%28Office.15%29.aspx)
 
-[AddIns object (Word)0d6166c7-a467-b3a5-05db-c9a40d0a023c](http://msdn.microsoft.com/library/0d6166c7-a467-b3a5-05db-c9a40d0a023c%28Office.15%29.aspx)
+[AddIns object (Word)0d6166c7-a467-b3a5-05db-c9a40d0a023c](https://msdn.microsoft.com/library/0d6166c7-a467-b3a5-05db-c9a40d0a023c%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

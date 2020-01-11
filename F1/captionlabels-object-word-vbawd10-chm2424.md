@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CaptionLabels object (Word)](http://msdn.microsoft.com/library/7d18c0d6-6d58-9841-4665-ab13e2e2ad9f%28Office.15%29.aspx)
+[CaptionLabels object (Word)](https://msdn.microsoft.com/library/7d18c0d6-6d58-9841-4665-ab13e2e2ad9f%28Office.15%29.aspx)
 
-[CaptionLabels object (Word)f698f1dc-a5b3-357f-357f-f9ee97a0582e](http://msdn.microsoft.com/library/f698f1dc-a5b3-357f-357f-f9ee97a0582e%28Office.15%29.aspx)
+[CaptionLabels object (Word)f698f1dc-a5b3-357f-357f-f9ee97a0582e](https://msdn.microsoft.com/library/f698f1dc-a5b3-357f-357f-f9ee97a0582e%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[GroupCriterion2.Delete Method (Project)](http://msdn.microsoft.com/library/a7ece042-6081-ae12-cfbe-d009f03e06e1%28Office.15%29.aspx)
+[GroupCriterion2.Delete Method (Project)](https://msdn.microsoft.com/library/a7ece042-6081-ae12-cfbe-d009f03e06e1%28Office.15%29.aspx)
 
-[GroupCriterion.Delete Method (Project)](http://msdn.microsoft.com/library/e1daa3ae-aa1d-ccfe-a670-97e821fa10ff%28Office.15%29.aspx)
+[GroupCriterion.Delete Method (Project)](https://msdn.microsoft.com/library/e1daa3ae-aa1d-ccfe-a670-97e821fa10ff%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

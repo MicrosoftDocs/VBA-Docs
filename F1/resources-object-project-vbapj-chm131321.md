@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Resources Object (Project)](http://msdn.microsoft.com/library/84f8357a-358b-f2ae-e164-65c0c5abd383%28Office.15%29.aspx)
+[Resources Object (Project)](https://msdn.microsoft.com/library/84f8357a-358b-f2ae-e164-65c0c5abd383%28Office.15%29.aspx)
 
-[SplitPart Object (Project)](http://msdn.microsoft.com/library/7eb80010-7b5a-3833-a5c5-b02d0c0bea5c%28Office.15%29.aspx)
+[SplitPart Object (Project)](https://msdn.microsoft.com/library/7eb80010-7b5a-3833-a5c5-b02d0c0bea5c%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

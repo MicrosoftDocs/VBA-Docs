@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Exception Object (Project)](http://msdn.microsoft.com/library/105372cd-2e8b-0fd0-f565-0a75c907a40a%28Office.15%29.aspx)
+[Exception Object (Project)](https://msdn.microsoft.com/library/105372cd-2e8b-0fd0-f565-0a75c907a40a%28Office.15%29.aspx)
 
-[CostRateTables Object (Project)](http://msdn.microsoft.com/library/f08a0a0c-d7ef-f315-5435-804897d5158a%28Office.15%29.aspx)
+[CostRateTables Object (Project)](https://msdn.microsoft.com/library/f08a0a0c-d7ef-f315-5435-804897d5158a%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.ResourcePhonetics Property (Project)](http://msdn.microsoft.com/library/07019a05-a28b-99dc-993c-0ce3b6fda293%28Office.15%29.aspx)
+[Task.ResourcePhonetics Property (Project)](https://msdn.microsoft.com/library/07019a05-a28b-99dc-993c-0ce3b6fda293%28Office.15%29.aspx)
 
-[Engagement.ProposedFinish Property (Project)](http://msdn.microsoft.com/library/2c2233f2-ee0b-5054-1300-ed4afdfd4c5f%28Office.15%29.aspx)
+[Engagement.ProposedFinish Property (Project)](https://msdn.microsoft.com/library/2c2233f2-ee0b-5054-1300-ed4afdfd4c5f%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,10 +14,10 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-- [NavigationButton.GridlineWidthTop property (Access)](http://msdn.microsoft.com/library/cc403764-1484-2b0f-a6eb-0cbbc25572c1%28Office.15%29.aspx)
+- [NavigationButton.GridlineWidthTop property (Access)](https://msdn.microsoft.com/library/cc403764-1484-2b0f-a6eb-0cbbc25572c1%28Office.15%29.aspx)
 
-- [CustomControl.GridlineWidthTop property (Access)](http://msdn.microsoft.com/library/9cecf573-f2d5-5e5e-e507-1920ede22d0b%28Office.15%29.aspx)
+- [CustomControl.GridlineWidthTop property (Access)](https://msdn.microsoft.com/library/9cecf573-f2d5-5e5e-e507-1920ede22d0b%28Office.15%29.aspx)
 
-- [CommandButton.GridlineWidthTop property (Access)](http://msdn.microsoft.com/library/dfa6bb67-9841-ddf0-508a-9553fbf0229e%28Office.15%29.aspx)
+- [CommandButton.GridlineWidthTop property (Access)](https://msdn.microsoft.com/library/dfa6bb67-9841-ddf0-508a-9553fbf0229e%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

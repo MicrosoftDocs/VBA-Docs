@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[LookupTableEntry.Cookie Property (Project)](http://msdn.microsoft.com/library/ed45ebc1-cae8-e350-8462-0b2fc69498a0%28Office.15%29.aspx)
+[LookupTableEntry.Cookie Property (Project)](https://msdn.microsoft.com/library/ed45ebc1-cae8-e350-8462-0b2fc69498a0%28Office.15%29.aspx)
 
-[Task.IsDurationValid Property (Project)](http://msdn.microsoft.com/library/303c5cab-b83a-37b6-c1da-207e91c45a86%28Office.15%29.aspx)
+[Task.IsDurationValid Property (Project)](https://msdn.microsoft.com/library/303c5cab-b83a-37b6-c1da-207e91c45a86%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

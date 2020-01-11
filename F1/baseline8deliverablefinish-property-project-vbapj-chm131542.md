@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.Baseline8DeliverableFinish Property (Project)](http://msdn.microsoft.com/library/127e1dd5-2d5e-d3c8-fdb6-007bb29c117f%28Office.15%29.aspx)
+[Task.Baseline8DeliverableFinish Property (Project)](https://msdn.microsoft.com/library/127e1dd5-2d5e-d3c8-fdb6-007bb29c117f%28Office.15%29.aspx)
 
-[Task.Baseline8FixedCostAccrual Property (Project)](http://msdn.microsoft.com/library/aca08cda-b85b-abd5-63d3-da1097ef0d93%28Office.15%29.aspx)
+[Task.Baseline8FixedCostAccrual Property (Project)](https://msdn.microsoft.com/library/aca08cda-b85b-abd5-63d3-da1097ef0d93%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

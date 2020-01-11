@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TextBox.MouseDown event (Access)](http://msdn.microsoft.com/library/ae184752-4c7f-3d79-5b3a-08407225f9d9%28Office.15%29.aspx)
+[TextBox.MouseDown event (Access)](https://msdn.microsoft.com/library/ae184752-4c7f-3d79-5b3a-08407225f9d9%28Office.15%29.aspx)
 
-[NavigationControl.MouseDown event (Access)](http://msdn.microsoft.com/library/0406fc90-fa66-b436-6761-c16915e37b5d%28Office.15%29.aspx)
+[NavigationControl.MouseDown event (Access)](https://msdn.microsoft.com/library/0406fc90-fa66-b436-6761-c16915e37b5d%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

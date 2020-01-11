@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[InvisibleApp.QueryCancelDocumentClose Event (Visio)](http://msdn.microsoft.com/library/70d38ab1-2468-faa8-85f7-0d2022f314ef%28Office.15%29.aspx)
+[InvisibleApp.QueryCancelDocumentClose Event (Visio)](https://msdn.microsoft.com/library/70d38ab1-2468-faa8-85f7-0d2022f314ef%28Office.15%29.aspx)
 
-[Application.QueryCancelDocumentClose Event (Visio)](http://msdn.microsoft.com/library/5d58168d-ed84-943e-26b6-16246c907e52%28Office.15%29.aspx)
+[Application.QueryCancelDocumentClose Event (Visio)](https://msdn.microsoft.com/library/5d58168d-ed84-943e-26b6-16246c907e52%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

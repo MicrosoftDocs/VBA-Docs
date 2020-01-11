@@ -14,10 +14,10 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[HeadingStyles object (Word)](http://msdn.microsoft.com/library/be882a12-1264-8f7e-415b-b8bcbf28e703%28Office.15%29.aspx)
+[HeadingStyles object (Word)](https://msdn.microsoft.com/library/be882a12-1264-8f7e-415b-b8bcbf28e703%28Office.15%29.aspx)
 
-[ChartArea object (Word)](http://msdn.microsoft.com/library/7b3384df-f331-033d-4dfa-ee2ff26111c6%28Office.15%29.aspx)
+[ChartArea object (Word)](https://msdn.microsoft.com/library/7b3384df-f331-033d-4dfa-ee2ff26111c6%28Office.15%29.aspx)
 
-[HeadingStyles object (Word)6c62147a-15a4-74ad-c85e-bf3150f9b656](http://msdn.microsoft.com/library/6c62147a-15a4-74ad-c85e-bf3150f9b656%28Office.15%29.aspx)
+[HeadingStyles object (Word)6c62147a-15a4-74ad-c85e-bf3150f9b656](https://msdn.microsoft.com/library/6c62147a-15a4-74ad-c85e-bf3150f9b656%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

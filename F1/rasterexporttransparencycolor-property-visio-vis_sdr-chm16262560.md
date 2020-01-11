@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ApplicationSettings.RasterExportTransparencyColor Property (Visio)](http://msdn.microsoft.com/library/39806af2-1bdd-d659-134f-9cd86110e195%28Office.15%29.aspx)
+[ApplicationSettings.RasterExportTransparencyColor Property (Visio)](https://msdn.microsoft.com/library/39806af2-1bdd-d659-134f-9cd86110e195%28Office.15%29.aspx)
 
-[ApplicationSettings.RasterExportTransparencyColor Property (Visio)](http://msdn.microsoft.com/library/82596a7b-508d-315e-a6df-f60f9d6daf28.aspx)
+[ApplicationSettings.RasterExportTransparencyColor Property (Visio)](https://msdn.microsoft.com/library/82596a7b-508d-315e-a6df-f60f9d6daf28.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

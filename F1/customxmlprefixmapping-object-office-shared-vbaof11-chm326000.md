@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CustomXMLPrefixMapping Object (Office)](http://msdn.microsoft.com/library/a657a760-cc52-5762-108e-2e95e9dba48f%28Office.15%29.aspx)
+[CustomXMLPrefixMapping Object (Office)](https://msdn.microsoft.com/library/a657a760-cc52-5762-108e-2e95e9dba48f%28Office.15%29.aspx)
 
-[IAssistance Object (Office)](http://msdn.microsoft.com/library/c8327d45-a6a2-dc4c-67f0-d02598eb60ba%28Office.15%29.aspx)
+[IAssistance Object (Office)](https://msdn.microsoft.com/library/c8327d45-a6a2-dc4c-67f0-d02598eb60ba%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

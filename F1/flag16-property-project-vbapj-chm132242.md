@@ -14,11 +14,11 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Assignment.Flag16 Property (Project)](http://msdn.microsoft.com/library/fc4034ce-15b2-42fa-a292-453f5b2abacd%28Office.15%29.aspx)
+[Assignment.Flag16 Property (Project)](https://msdn.microsoft.com/library/fc4034ce-15b2-42fa-a292-453f5b2abacd%28Office.15%29.aspx)
 
-[Resource.Flag16 Property (Project)](http://msdn.microsoft.com/library/5fa75173-8038-35be-ef8d-3f96e5ba377f%28Office.15%29.aspx)
+[Resource.Flag16 Property (Project)](https://msdn.microsoft.com/library/5fa75173-8038-35be-ef8d-3f96e5ba377f%28Office.15%29.aspx)
 
-[Task.Flag16 Property (Project)](http://msdn.microsoft.com/library/67fe02a6-1aed-d589-c473-149d72e2a03c%28Office.15%29.aspx)
-[Filter.Apply Method (Project)](http://msdn.microsoft.com/library/bc9a406c-d4ae-0fa5-a5b1-70bf3520fac4%28Office.15%29.aspx)
+[Task.Flag16 Property (Project)](https://msdn.microsoft.com/library/67fe02a6-1aed-d589-c473-149d72e2a03c%28Office.15%29.aspx)
+[Filter.Apply Method (Project)](https://msdn.microsoft.com/library/bc9a406c-d4ae-0fa5-a5b1-70bf3520fac4%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

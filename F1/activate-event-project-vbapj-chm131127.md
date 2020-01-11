@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-- [Project.Activate Event (Project)](http://msdn.microsoft.com/library/fd3b89be-ea9a-5574-be1e-01e3d042a4a1%28Office.15%29.aspx)
+- [Project.Activate Event (Project)](https://msdn.microsoft.com/library/fd3b89be-ea9a-5574-be1e-01e3d042a4a1%28Office.15%29.aspx)
 
-- [Project.TrackingMethod Property (Project)](http://msdn.microsoft.com/library/cda3f127-5fad-f486-f02d-6d6eeb0d5588%28Office.15%29.aspx)
+- [Project.TrackingMethod Property (Project)](https://msdn.microsoft.com/library/cda3f127-5fad-f486-f02d-6d6eeb0d5588%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

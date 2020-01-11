@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Rectangles object (Word)](http://msdn.microsoft.com/library/c1de5e7f-13b1-e35a-d9f1-9a8f1246e2e5%28Office.15%29.aspx)
+[Rectangles object (Word)](https://msdn.microsoft.com/library/c1de5e7f-13b1-e35a-d9f1-9a8f1246e2e5%28Office.15%29.aspx)
 
-[HeaderFooter object (Word)](http://msdn.microsoft.com/library/3f2f926a-9220-5536-80ed-af63d2feb016%28Office.15%29.aspx)
+[HeaderFooter object (Word)](https://msdn.microsoft.com/library/3f2f926a-9220-5536-80ed-af63d2feb016%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

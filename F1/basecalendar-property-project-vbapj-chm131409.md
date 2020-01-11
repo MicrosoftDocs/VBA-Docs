@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Resource.BaseCalendar Property (Project)](http://msdn.microsoft.com/library/f6893deb-6faa-2d36-6633-5186f2af5765%28Office.15%29.aspx)
+[Resource.BaseCalendar Property (Project)](https://msdn.microsoft.com/library/f6893deb-6faa-2d36-6633-5186f2af5765%28Office.15%29.aspx)
 
-[Calendar.BaseCalendar Property (Project)](http://msdn.microsoft.com/library/3ea2b0e2-8d73-b564-fdd1-a098a8428562%28Office.15%29.aspx)
+[Calendar.BaseCalendar Property (Project)](https://msdn.microsoft.com/library/3ea2b0e2-8d73-b564-fdd1-a098a8428562%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

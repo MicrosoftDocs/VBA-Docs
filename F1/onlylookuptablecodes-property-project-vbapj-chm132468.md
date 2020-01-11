@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[OutlineCode.OnlyLookUpTableCodes Property (Project)](http://msdn.microsoft.com/library/172aeac5-98ed-9599-e9d3-cc0afde6b940%28Office.15%29.aspx)
+[OutlineCode.OnlyLookUpTableCodes Property (Project)](https://msdn.microsoft.com/library/172aeac5-98ed-9599-e9d3-cc0afde6b940%28Office.15%29.aspx)
 
-[Task.PreleveledFinish Property (Project)](http://msdn.microsoft.com/library/edcb110a-41b7-c2ad-0382-d88cf5f3708c%28Office.15%29.aspx)
+[Task.PreleveledFinish Property (Project)](https://msdn.microsoft.com/library/edcb110a-41b7-c2ad-0382-d88cf5f3708c%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

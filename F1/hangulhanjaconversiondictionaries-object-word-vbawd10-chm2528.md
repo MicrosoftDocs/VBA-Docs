@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[HangulHanjaConversionDictionaries object (Word)c8f482a5-1d6f-68f6-aa47-36da5d0a5dea](http://msdn.microsoft.com/library/c8f482a5-1d6f-68f6-aa47-36da5d0a5dea%28Office.15%29.aspx)
+[HangulHanjaConversionDictionaries object (Word)c8f482a5-1d6f-68f6-aa47-36da5d0a5dea](https://msdn.microsoft.com/library/c8f482a5-1d6f-68f6-aa47-36da5d0a5dea%28Office.15%29.aspx)
 
-[HangulHanjaConversionDictionaries object (Word)](http://msdn.microsoft.com/library/b6ed1c54-428b-c160-a2bd-642978660f44%28Office.15%29.aspx)
+[HangulHanjaConversionDictionaries object (Word)](https://msdn.microsoft.com/library/b6ed1c54-428b-c160-a2bd-642978660f44%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

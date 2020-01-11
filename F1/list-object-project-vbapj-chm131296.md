@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[List Object (Project)](http://msdn.microsoft.com/library/3934c2e8-d810-6571-9a33-1d41edbab87a%28Office.15%29.aspx)
+[List Object (Project)](https://msdn.microsoft.com/library/3934c2e8-d810-6571-9a33-1d41edbab87a%28Office.15%29.aspx)
 
-[OutlineCodes Object (Project)](http://msdn.microsoft.com/library/a2e6d0c7-0741-91c6-61aa-f4bcc299e66f%28Office.15%29.aspx)
+[OutlineCodes Object (Project)](https://msdn.microsoft.com/library/a2e6d0c7-0741-91c6-61aa-f4bcc299e66f%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

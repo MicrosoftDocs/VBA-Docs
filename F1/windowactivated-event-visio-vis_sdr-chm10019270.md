@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.WindowActivated Event (Visio)](http://msdn.microsoft.com/library/ef89f592-b457-b170-0e2e-84d9e1c572f2%28Office.15%29.aspx)
+[Application.WindowActivated Event (Visio)](https://msdn.microsoft.com/library/ef89f592-b457-b170-0e2e-84d9e1c572f2%28Office.15%29.aspx)
 
-[InvisibleApp.WindowActivated Event (Visio)](http://msdn.microsoft.com/library/8ed197e5-945b-aab1-d90d-ed5c448937ce%28Office.15%29.aspx)
+[InvisibleApp.WindowActivated Event (Visio)](https://msdn.microsoft.com/library/8ed197e5-945b-aab1-d90d-ed5c448937ce%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

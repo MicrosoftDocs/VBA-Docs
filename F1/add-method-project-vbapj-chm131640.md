@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CodeMask.Add Method (Project)](http://msdn.microsoft.com/library/78a7afaa-1a19-6d64-1341-63955aaff7e3%28Office.15%29.aspx)
+[CodeMask.Add Method (Project)](https://msdn.microsoft.com/library/78a7afaa-1a19-6d64-1341-63955aaff7e3%28Office.15%29.aspx)
 
-[Chart.SetSourceData Method (Project)](http://msdn.microsoft.com/library/723680bb-f2ec-3a8f-f392-a6c90eae7ff8%28Office.15%29.aspx)
+[Chart.SetSourceData Method (Project)](https://msdn.microsoft.com/library/723680bb-f2ec-3a8f-f392-a6c90eae7ff8%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

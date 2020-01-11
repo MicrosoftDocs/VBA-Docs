@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ObjectFrame.SourceItem property (Access)](http://msdn.microsoft.com/library/86cb94a8-9c13-0b07-58c2-1b78849061c9%28Office.15%29.aspx)
+[ObjectFrame.SourceItem property (Access)](https://msdn.microsoft.com/library/86cb94a8-9c13-0b07-58c2-1b78849061c9%28Office.15%29.aspx)
 
-[BoundObjectFrame.SourceItem property (Access)](http://msdn.microsoft.com/library/ab802b9b-d17c-695b-aaf5-4f84d1935615%28Office.15%29.aspx)
+[BoundObjectFrame.SourceItem property (Access)](https://msdn.microsoft.com/library/ab802b9b-d17c-695b-aaf5-4f84d1935615%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

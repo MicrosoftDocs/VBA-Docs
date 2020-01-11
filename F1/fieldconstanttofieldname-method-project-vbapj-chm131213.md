@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.FieldConstantToFieldName Method (Project)](http://msdn.microsoft.com/library/b8e55035-64e8-fda5-4ad6-9f5e51a55181%28Office.15%29.aspx)
+[Application.FieldConstantToFieldName Method (Project)](https://msdn.microsoft.com/library/b8e55035-64e8-fda5-4ad6-9f5e51a55181%28Office.15%29.aspx)
 
-[Application.DurationValue Method (Project)](http://msdn.microsoft.com/library/745acbd3-600c-1179-1d61-be0dab88cdf5%28Office.15%29.aspx)
+[Application.DurationValue Method (Project)](https://msdn.microsoft.com/library/745acbd3-600c-1179-1d61-be0dab88cdf5%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[InvisibleApp.BeforeStyleDelete Event (Visio)](http://msdn.microsoft.com/library/0547897f-1ef9-27c4-1ea8-46e0e881ac91%28Office.15%29.aspx)
+[InvisibleApp.BeforeStyleDelete Event (Visio)](https://msdn.microsoft.com/library/0547897f-1ef9-27c4-1ea8-46e0e881ac91%28Office.15%29.aspx)
 
-[Application.BeforeStyleDelete Event (Visio)](http://msdn.microsoft.com/library/5fc9abed-dc07-0af8-0c3b-87ecabc204a0%28Office.15%29.aspx)
+[Application.BeforeStyleDelete Event (Visio)](https://msdn.microsoft.com/library/5fc9abed-dc07-0af8-0c3b-87ecabc204a0%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

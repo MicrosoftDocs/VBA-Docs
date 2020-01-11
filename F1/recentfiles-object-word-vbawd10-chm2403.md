@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[RecentFiles object (Word)1ad50ced-3415-4ede-eea9-4d10f509bd24](http://msdn.microsoft.com/library/1ad50ced-3415-4ede-eea9-4d10f509bd24%28Office.15%29.aspx)
+[RecentFiles object (Word)1ad50ced-3415-4ede-eea9-4d10f509bd24](https://msdn.microsoft.com/library/1ad50ced-3415-4ede-eea9-4d10f509bd24%28Office.15%29.aspx)
 
-[RecentFiles object (Word)](http://msdn.microsoft.com/library/c2d5e0b1-0d79-2fa7-c475-e5cace59ba1f%28Office.15%29.aspx)
+[RecentFiles object (Word)](https://msdn.microsoft.com/library/c2d5e0b1-0d79-2fa7-c475-e5cace59ba1f%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

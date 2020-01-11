@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Table.DateFormat Property (Project)](http://msdn.microsoft.com/library/69e0d08b-698e-8354-a583-b08122762f3f%28Office.15%29.aspx)
+[Table.DateFormat Property (Project)](https://msdn.microsoft.com/library/69e0d08b-698e-8354-a583-b08122762f3f%28Office.15%29.aspx)
 
-[Project.SpreadCostsToStatusDate Property (Project)](http://msdn.microsoft.com/library/e8e42269-3cba-46bd-d600-ea66b7b762c6%28Office.15%29.aspx)
+[Project.SpreadCostsToStatusDate Property (Project)](https://msdn.microsoft.com/library/e8e42269-3cba-46bd-d600-ea66b7b762c6%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

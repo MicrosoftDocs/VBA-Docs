@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.CalendarObject Property (Project)](http://msdn.microsoft.com/library/7233555c-9535-ed2b-37ad-cceecf730c98%28Office.15%29.aspx)
+[Task.CalendarObject Property (Project)](https://msdn.microsoft.com/library/7233555c-9535-ed2b-37ad-cceecf730c98%28Office.15%29.aspx)
 
-[Application.EnableChangeHighlighting Property (Project)](http://msdn.microsoft.com/library/68365e16-6746-9ee6-9462-f9b076f986c6%28Office.15%29.aspx)
+[Application.EnableChangeHighlighting Property (Project)](https://msdn.microsoft.com/library/68365e16-6746-9ee6-9462-f9b076f986c6%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

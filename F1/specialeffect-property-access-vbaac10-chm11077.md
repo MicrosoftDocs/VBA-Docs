@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TextBox.SpecialEffect property (Access)](http://msdn.microsoft.com/library/9d34e61b-9ba9-02e0-4bd8-30da0a043a89%28Office.15%29.aspx)
+[TextBox.SpecialEffect property (Access)](https://msdn.microsoft.com/library/9d34e61b-9ba9-02e0-4bd8-30da0a043a89%28Office.15%29.aspx)
 
-[NavigationControl.SpecialEffect property (Access)](http://msdn.microsoft.com/library/ab1cb63a-d51b-cbd3-bf40-d52148925556%28Office.15%29.aspx)
+[NavigationControl.SpecialEffect property (Access)](https://msdn.microsoft.com/library/ab1cb63a-d51b-cbd3-bf40-d52148925556%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

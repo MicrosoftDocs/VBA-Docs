@@ -14,10 +14,10 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[SubForm object (Access)](http://msdn.microsoft.com/library/60f961fa-dcf4-e1d1-8c50-9e88963f9dec%28Office.15%29.aspx)
+[SubForm object (Access)](https://msdn.microsoft.com/library/60f961fa-dcf4-e1d1-8c50-9e88963f9dec%28Office.15%29.aspx)
 
-[SubForm.Exit event (Access)](http://msdn.microsoft.com/library/f925a6da-33cd-a1dd-1ad7-b11504c574fd%28Office.15%29.aspx)
+[SubForm.Exit event (Access)](https://msdn.microsoft.com/library/f925a6da-33cd-a1dd-1ad7-b11504c574fd%28Office.15%29.aspx)
 
-[SubForm.Enter event (Access)](http://msdn.microsoft.com/library/9b5e717c-2f48-c74f-c3fd-eea9004bc9f9%28Office.15%29.aspx)
+[SubForm.Enter event (Access)](https://msdn.microsoft.com/library/9b5e717c-2f48-c74f-c3fd-eea9004bc9f9%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

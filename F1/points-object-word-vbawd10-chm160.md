@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Points object (Word)4004cb00-d38f-9b61-622f-873f4f1c98e9](http://msdn.microsoft.com/library/4004cb00-d38f-9b61-622f-873f4f1c98e9%28Office.15%29.aspx)
+[Points object (Word)4004cb00-d38f-9b61-622f-873f4f1c98e9](https://msdn.microsoft.com/library/4004cb00-d38f-9b61-622f-873f4f1c98e9%28Office.15%29.aspx)
 
-[Points object (Word)](http://msdn.microsoft.com/library/d0adc45a-7b31-a25e-d96f-f2a098702501%28Office.15%29.aspx)
+[Points object (Word)](https://msdn.microsoft.com/library/d0adc45a-7b31-a25e-d96f-f2a098702501%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

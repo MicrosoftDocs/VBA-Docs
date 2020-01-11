@@ -14,10 +14,10 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Point.MarkerForegroundColorIndex Property (PowerPoint)](http://msdn.microsoft.com/library/9fb6b350-3eee-305c-dd64-6e3ac009aabc%28Office.15%29.aspx)
+[Point.MarkerForegroundColorIndex Property (PowerPoint)](https://msdn.microsoft.com/library/9fb6b350-3eee-305c-dd64-6e3ac009aabc%28Office.15%29.aspx)
 
-[LegendKey.MarkerForegroundColorIndex Property (PowerPoint)](http://msdn.microsoft.com/library/47760c8c-a791-fac5-a5cc-d91c59221026%28Office.15%29.aspx)
+[LegendKey.MarkerForegroundColorIndex Property (PowerPoint)](https://msdn.microsoft.com/library/47760c8c-a791-fac5-a5cc-d91c59221026%28Office.15%29.aspx)
 
-[Series.MarkerForegroundColorIndex Property (PowerPoint)](http://msdn.microsoft.com/library/85535a03-fb8c-fe76-9b67-ef60d51987b1%28Office.15%29.aspx)
+[Series.MarkerForegroundColorIndex Property (PowerPoint)](https://msdn.microsoft.com/library/85535a03-fb8c-fe76-9b67-ef60d51987b1%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

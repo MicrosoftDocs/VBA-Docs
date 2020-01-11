@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[InvisibleApp.BeforeDocumentClose Event (Visio)](http://msdn.microsoft.com/library/663dab28-2ea5-30ad-a694-5c2bc75210fb%28Office.15%29.aspx)
+[InvisibleApp.BeforeDocumentClose Event (Visio)](https://msdn.microsoft.com/library/663dab28-2ea5-30ad-a694-5c2bc75210fb%28Office.15%29.aspx)
 
-[Application.BeforeDocumentClose Event (Visio)](http://msdn.microsoft.com/library/c0d7815e-25bb-7b7e-f80b-81472edc47ca%28Office.15%29.aspx)
+[Application.BeforeDocumentClose Event (Visio)](https://msdn.microsoft.com/library/c0d7815e-25bb-7b7e-f80b-81472edc47ca%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

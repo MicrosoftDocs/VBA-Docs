@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.UniqueIDPredecessors Property (Project)](http://msdn.microsoft.com/library/e6f53dd2-1833-e081-29ee-de734efb9229%28Office.15%29.aspx)
+[Task.UniqueIDPredecessors Property (Project)](https://msdn.microsoft.com/library/e6f53dd2-1833-e081-29ee-de734efb9229%28Office.15%29.aspx)
 
-[Cell.Text Property (Project)](http://msdn.microsoft.com/library/015a9f11-6a4e-5c02-cbeb-e9fd398b2f3c%28Office.15%29.aspx)
+[Cell.Text Property (Project)](https://msdn.microsoft.com/library/015a9f11-6a4e-5c02-cbeb-e9fd398b2f3c%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

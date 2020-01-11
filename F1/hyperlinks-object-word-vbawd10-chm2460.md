@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Hyperlinks object (Word)](http://msdn.microsoft.com/library/25801753-737f-9219-6a14-6531eb2ca699%28Office.15%29.aspx)
+[Hyperlinks object (Word)](https://msdn.microsoft.com/library/25801753-737f-9219-6a14-6531eb2ca699%28Office.15%29.aspx)
 
-[Hyperlinks object (Word)f1edf678-2318-196a-74a1-65c69aca8e7d](http://msdn.microsoft.com/library/f1edf678-2318-196a-74a1-65c69aca8e7d%28Office.15%29.aspx)
+[Hyperlinks object (Word)f1edf678-2318-196a-74a1-65c69aca8e7d](https://msdn.microsoft.com/library/f1edf678-2318-196a-74a1-65c69aca8e7d%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

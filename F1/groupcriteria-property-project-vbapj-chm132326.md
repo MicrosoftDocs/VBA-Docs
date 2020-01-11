@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Group2.GroupCriteria Property (Project)](http://msdn.microsoft.com/library/0c6d6412-cd7b-7b12-1740-7cd5cd38aaf1%28Office.15%29.aspx)
+[Group2.GroupCriteria Property (Project)](https://msdn.microsoft.com/library/0c6d6412-cd7b-7b12-1740-7cd5cd38aaf1%28Office.15%29.aspx)
 
-[Resource.IsTeam Property (Project)](http://msdn.microsoft.com/library/99e87250-d167-d13d-b622-f7e88379fe50%28Office.15%29.aspx)
+[Resource.IsTeam Property (Project)](https://msdn.microsoft.com/library/99e87250-d167-d13d-b622-f7e88379fe50%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

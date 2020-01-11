@@ -14,10 +14,10 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CustomControl.LeftPadding property (Access)](http://msdn.microsoft.com/library/5beaff4a-d129-6039-4552-3afe589bae03%28Office.15%29.aspx)
+[CustomControl.LeftPadding property (Access)](https://msdn.microsoft.com/library/5beaff4a-d129-6039-4552-3afe589bae03%28Office.15%29.aspx)
 
-[NavigationButton.LeftPadding property (Access)](http://msdn.microsoft.com/library/9b0fac0b-4ffd-8c83-5d7f-bdfd6f3c8c9a%28Office.15%29.aspx)
+[NavigationButton.LeftPadding property (Access)](https://msdn.microsoft.com/library/9b0fac0b-4ffd-8c83-5d7f-bdfd6f3c8c9a%28Office.15%29.aspx)
 
-[CommandButton.LeftPadding property (Access)](http://msdn.microsoft.com/library/a94afdff-4615-529e-04de-fcf3d9e63d2d%28Office.15%29.aspx)
+[CommandButton.LeftPadding property (Access)](https://msdn.microsoft.com/library/a94afdff-4615-529e-04de-fcf3d9e63d2d%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

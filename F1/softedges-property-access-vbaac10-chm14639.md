@@ -14,10 +14,10 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[NavigationButton.SoftEdges property (Access)](http://msdn.microsoft.com/library/ab52bf67-7ea2-e23e-d4a5-264bb153ee0d%28Office.15%29.aspx)
+[NavigationButton.SoftEdges property (Access)](https://msdn.microsoft.com/library/ab52bf67-7ea2-e23e-d4a5-264bb153ee0d%28Office.15%29.aspx)
 
-[CommandButton.SoftEdges property (Access)](http://msdn.microsoft.com/library/a970945c-a8d7-4888-8408-33bfc803d73d%28Office.15%29.aspx)
+[CommandButton.SoftEdges property (Access)](https://msdn.microsoft.com/library/a970945c-a8d7-4888-8408-33bfc803d73d%28Office.15%29.aspx)
 
-[ToggleButton.SoftEdges property (Access)](http://msdn.microsoft.com/library/23c63821-966c-4d9f-7304-5b6e31b85675%28Office.15%29.aspx)
+[ToggleButton.SoftEdges property (Access)](https://msdn.microsoft.com/library/23c63821-966c-4d9f-7304-5b6e31b85675%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

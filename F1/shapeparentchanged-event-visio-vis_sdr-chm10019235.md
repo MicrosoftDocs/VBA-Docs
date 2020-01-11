@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[InvisibleApp.ShapeParentChanged Event (Visio)](http://msdn.microsoft.com/library/526b0da9-c086-a461-2708-6c882210ce76%28Office.15%29.aspx)
+[InvisibleApp.ShapeParentChanged Event (Visio)](https://msdn.microsoft.com/library/526b0da9-c086-a461-2708-6c882210ce76%28Office.15%29.aspx)
 
-[Application.ShapeParentChanged Event (Visio)](http://msdn.microsoft.com/library/321f937c-27e0-be80-9d6a-78e4e85629ec%28Office.15%29.aspx)
+[Application.ShapeParentChanged Event (Visio)](https://msdn.microsoft.com/library/321f937c-27e0-be80-9d6a-78e4e85629ec%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

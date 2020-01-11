@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Styles Object (Visio)](http://msdn.microsoft.com/library/aa32ec6e-2323-20df-81f8-0183cdb5ae7c.aspx)
+[Styles Object (Visio)](https://msdn.microsoft.com/library/aa32ec6e-2323-20df-81f8-0183cdb5ae7c.aspx)
 
-[Styles Object (Visio)](http://msdn.microsoft.com/library/327c9f05-ddb5-bf70-86bf-69eb0763512c%28Office.15%29.aspx)
+[Styles Object (Visio)](https://msdn.microsoft.com/library/327c9f05-ddb5-bf70-86bf-69eb0763512c%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

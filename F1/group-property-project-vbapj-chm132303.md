@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Resource.Group Property (Project)](http://msdn.microsoft.com/library/9f5f5bd6-c104-629c-feab-455fbeaf27eb%28Office.15%29.aspx)
+[Resource.Group Property (Project)](https://msdn.microsoft.com/library/9f5f5bd6-c104-629c-feab-455fbeaf27eb%28Office.15%29.aspx)
 
-[ViewSingle.HighlightFilter Property (Project)](http://msdn.microsoft.com/library/0288340c-69b9-de45-2303-ed4b8632eeff%28Office.15%29.aspx)
+[ViewSingle.HighlightFilter Property (Project)](https://msdn.microsoft.com/library/0288340c-69b9-de45-2303-ed4b8632eeff%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

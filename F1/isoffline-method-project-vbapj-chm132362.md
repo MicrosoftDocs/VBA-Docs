@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.IsOffline Method (Project)](http://msdn.microsoft.com/library/fd844bc5-4b7f-7f4c-a11b-5b26bfe314d2%28Office.15%29.aspx)
+[Application.IsOffline Method (Project)](https://msdn.microsoft.com/library/fd844bc5-4b7f-7f4c-a11b-5b26bfe314d2%28Office.15%29.aspx)
 
-[LookupTableEntry.Name Property (Project)](http://msdn.microsoft.com/library/4418fc98-d230-a897-a250-fef86fdf3512%28Office.15%29.aspx)
+[LookupTableEntry.Name Property (Project)](https://msdn.microsoft.com/library/4418fc98-d230-a897-a250-fef86fdf3512%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

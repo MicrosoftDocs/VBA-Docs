@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.QueryCancelQuit Event (Visio)](http://msdn.microsoft.com/library/19b58edc-dafd-acad-deee-19b2b4021ab6%28Office.15%29.aspx)
+[Application.QueryCancelQuit Event (Visio)](https://msdn.microsoft.com/library/19b58edc-dafd-acad-deee-19b2b4021ab6%28Office.15%29.aspx)
 
-[InvisibleApp.QueryCancelQuit Event (Visio)](http://msdn.microsoft.com/library/c0816c40-6118-c64c-7a84-a221debae679%28Office.15%29.aspx)
+[InvisibleApp.QueryCancelQuit Event (Visio)](https://msdn.microsoft.com/library/c0816c40-6118-c64c-7a84-a221debae679%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,11 +14,11 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CommandBarComboBox.Type Property (Office)](http://msdn.microsoft.com/library/1f8d29ac-f429-7190-f5b9-76eb0aa5a0be%28Office.15%29.aspx)
+[CommandBarComboBox.Type Property (Office)](https://msdn.microsoft.com/library/1f8d29ac-f429-7190-f5b9-76eb0aa5a0be%28Office.15%29.aspx)
 
-[CommandBarButton.Type Property (Office)](http://msdn.microsoft.com/library/f317eb14-a5d6-857e-6b6b-89391937db96%28Office.15%29.aspx)
+[CommandBarButton.Type Property (Office)](https://msdn.microsoft.com/library/f317eb14-a5d6-857e-6b6b-89391937db96%28Office.15%29.aspx)
 
-[CommandBarPopup.Type Property (Office)](http://msdn.microsoft.com/library/1ef5e542-7fa6-1527-26d0-cf8a6c755979%28Office.15%29.aspx)
-[CommandBarControl.Type Property (Office)](http://msdn.microsoft.com/library/a0f20db6-a8a2-98e2-6f4e-efd9043df0c2%28Office.15%29.aspx)
+[CommandBarPopup.Type Property (Office)](https://msdn.microsoft.com/library/1ef5e542-7fa6-1527-26d0-cf8a6c755979%28Office.15%29.aspx)
+[CommandBarControl.Type Property (Office)](https://msdn.microsoft.com/library/a0f20db6-a8a2-98e2-6f4e-efd9043df0c2%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

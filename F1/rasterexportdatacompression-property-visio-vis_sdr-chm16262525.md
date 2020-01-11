@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ApplicationSettings.RasterExportDataCompression Property (Visio)](http://msdn.microsoft.com/library/cec938db-1368-7c05-a264-b69ae334a249%28Office.15%29.aspx)
+[ApplicationSettings.RasterExportDataCompression Property (Visio)](https://msdn.microsoft.com/library/cec938db-1368-7c05-a264-b69ae334a249%28Office.15%29.aspx)
 
-[ApplicationSettings.RasterExportDataCompression Property (Visio)](http://msdn.microsoft.com/library/fea9d5c6-a887-04eb-2293-f46b99eefc4a.aspx)
+[ApplicationSettings.RasterExportDataCompression Property (Visio)](https://msdn.microsoft.com/library/fea9d5c6-a887-04eb-2293-f46b99eefc4a.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

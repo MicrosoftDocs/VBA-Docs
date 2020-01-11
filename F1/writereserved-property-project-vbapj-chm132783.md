@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Project.WriteReserved Property (Project)](http://msdn.microsoft.com/library/0899e9ec-f7ce-5be8-400a-183172b5d4b5%28Office.15%29.aspx)
+[Project.WriteReserved Property (Project)](https://msdn.microsoft.com/library/0899e9ec-f7ce-5be8-400a-183172b5d4b5%28Office.15%29.aspx)
 
-[Application.UserName Property (Project)](http://msdn.microsoft.com/library/c501ef16-f4c8-3c08-69b8-3e9756db8336%28Office.15%29.aspx)
+[Application.UserName Property (Project)](https://msdn.microsoft.com/library/c501ef16-f4c8-3c08-69b8-3e9756db8336%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

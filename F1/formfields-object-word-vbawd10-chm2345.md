@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[FormFields object (Word)a901c539-3f0a-5323-2083-b9ee00754477](http://msdn.microsoft.com/library/a901c539-3f0a-5323-2083-b9ee00754477%28Office.15%29.aspx)
+[FormFields object (Word)a901c539-3f0a-5323-2083-b9ee00754477](https://msdn.microsoft.com/library/a901c539-3f0a-5323-2083-b9ee00754477%28Office.15%29.aspx)
 
-[FormFields object (Word)](http://msdn.microsoft.com/library/a44a0f57-123b-cade-e306-ba6dc179b619%28Office.15%29.aspx)
+[FormFields object (Word)](https://msdn.microsoft.com/library/a44a0f57-123b-cade-e306-ba6dc179b619%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

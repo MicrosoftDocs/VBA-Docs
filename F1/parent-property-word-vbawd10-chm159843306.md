@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[PageNumber.Parent property (Word)](http://msdn.microsoft.com/library/8edfbfc0-6755-fa3b-8f0d-1790f317001c%28Office.15%29.aspx)
+[PageNumber.Parent property (Word)](https://msdn.microsoft.com/library/8edfbfc0-6755-fa3b-8f0d-1790f317001c%28Office.15%29.aspx)
 
-[BuildingBlocks.Parent property (Word)](http://msdn.microsoft.com/library/c00fe7c8-4ad3-b447-e4cb-fd21e56fefda%28Office.15%29.aspx)
+[BuildingBlocks.Parent property (Word)](https://msdn.microsoft.com/library/c00fe7c8-4ad3-b447-e4cb-fd21e56fefda%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

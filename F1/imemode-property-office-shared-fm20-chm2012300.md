@@ -14,6 +14,6 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[IMEMode Property](http://msdn.microsoft.com/library/b47dd67c-f058-ad85-97ae-17efe46875ed%28Office.15%29.aspx)
+[IMEMode Property](https://msdn.microsoft.com/library/b47dd67c-f058-ad85-97ae-17efe46875ed%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,10 +14,10 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Assignment.Text1 Property (Project)](http://msdn.microsoft.com/library/67f01a8c-facb-cbfc-64df-e32a053dcab3%28Office.15%29.aspx)
+[Assignment.Text1 Property (Project)](https://msdn.microsoft.com/library/67f01a8c-facb-cbfc-64df-e32a053dcab3%28Office.15%29.aspx)
 
-[Resource.Text1 Property (Project)](http://msdn.microsoft.com/library/92d98fdb-64c2-902c-d832-930097c75196%28Office.15%29.aspx)
+[Resource.Text1 Property (Project)](https://msdn.microsoft.com/library/92d98fdb-64c2-902c-d832-930097c75196%28Office.15%29.aspx)
 
-[Task.Text1 Property (Project)](http://msdn.microsoft.com/library/dd2efa6b-0f0c-85d1-e2dd-44a80e5ad5cf%28Office.15%29.aspx)
+[Task.Text1 Property (Project)](https://msdn.microsoft.com/library/dd2efa6b-0f0c-85d1-e2dd-44a80e5ad5cf%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

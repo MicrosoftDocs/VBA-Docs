@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[GraphicItems Object (Visio)](http://msdn.microsoft.com/library/39874853-1bfd-667d-4107-011f5eaad94a.aspx)
+[GraphicItems Object (Visio)](https://msdn.microsoft.com/library/39874853-1bfd-667d-4107-011f5eaad94a.aspx)
 
-[GraphicItems Object (Visio)](http://msdn.microsoft.com/library/89d0bbeb-ee45-50cc-490e-0af49d036ad1%28Office.15%29.aspx)
+[GraphicItems Object (Visio)](https://msdn.microsoft.com/library/89d0bbeb-ee45-50cc-490e-0af49d036ad1%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

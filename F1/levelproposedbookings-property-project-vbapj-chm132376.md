@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.LevelProposedBookings Property (Project)](http://msdn.microsoft.com/library/34b1d355-a5c5-38c2-9502-064ecd81906e%28Office.15%29.aspx)
+[Application.LevelProposedBookings Property (Project)](https://msdn.microsoft.com/library/34b1d355-a5c5-38c2-9502-064ecd81906e%28Office.15%29.aspx)
 
-[Project.MinuteLabelDisplay Property (Project)](http://msdn.microsoft.com/library/7cf43dda-ae9b-ed06-027e-740ba855e7f1%28Office.15%29.aspx)
+[Project.MinuteLabelDisplay Property (Project)](https://msdn.microsoft.com/library/7cf43dda-ae9b-ed06-027e-740ba855e7f1%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

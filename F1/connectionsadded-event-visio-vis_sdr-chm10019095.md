@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[InvisibleApp.ConnectionsAdded Event (Visio)](http://msdn.microsoft.com/library/635d640f-305b-4d9c-10c2-750f7f29cc00%28Office.15%29.aspx)
+[InvisibleApp.ConnectionsAdded Event (Visio)](https://msdn.microsoft.com/library/635d640f-305b-4d9c-10c2-750f7f29cc00%28Office.15%29.aspx)
 
-[Application.ConnectionsAdded Event (Visio)](http://msdn.microsoft.com/library/bde55734-25c0-8b8d-231d-a597e99a1d2e%28Office.15%29.aspx)
+[Application.ConnectionsAdded Event (Visio)](https://msdn.microsoft.com/library/bde55734-25c0-8b8d-231d-a597e99a1d2e%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

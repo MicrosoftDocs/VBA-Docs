@@ -14,10 +14,10 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[NavigationButton.SourceObject property (Access)](http://msdn.microsoft.com/library/a7ba81c6-e042-48b7-012f-396a90e7a5ea%28Office.15%29.aspx)
+[NavigationButton.SourceObject property (Access)](https://msdn.microsoft.com/library/a7ba81c6-e042-48b7-012f-396a90e7a5ea%28Office.15%29.aspx)
 
-[ObjectFrame.SourceObject property (Access)](http://msdn.microsoft.com/library/985c8b01-84d8-2da6-6cad-5de08d835434%28Office.15%29.aspx)
+[ObjectFrame.SourceObject property (Access)](https://msdn.microsoft.com/library/985c8b01-84d8-2da6-6cad-5de08d835434%28Office.15%29.aspx)
 
-[SubForm.SourceObject property (Access)](http://msdn.microsoft.com/library/bee9c1fe-c58c-b6f3-e2ad-7ceb99bacee4%28Office.15%29.aspx)
+[SubForm.SourceObject property (Access)](https://msdn.microsoft.com/library/bee9c1fe-c58c-b6f3-e2ad-7ceb99bacee4%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

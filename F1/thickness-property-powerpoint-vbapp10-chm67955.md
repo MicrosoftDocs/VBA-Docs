@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Walls.Thickness Property (PowerPoint)](http://msdn.microsoft.com/library/6aec14a6-2a90-2456-cf27-16e297241e31%28Office.15%29.aspx)
+[Walls.Thickness Property (PowerPoint)](https://msdn.microsoft.com/library/6aec14a6-2a90-2456-cf27-16e297241e31%28Office.15%29.aspx)
 
-[Floor.Thickness Property (PowerPoint)](http://msdn.microsoft.com/library/44983b6e-7bbd-c6ef-bfdb-fb5c8c8dbbdb%28Office.15%29.aspx)
+[Floor.Thickness Property (PowerPoint)](https://msdn.microsoft.com/library/44983b6e-7bbd-c6ef-bfdb-fb5c8c8dbbdb%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[GetRasterExportResolution Method](http://msdn.microsoft.com/library/bd8ccdc8-6de9-cfa5-16fe-08f58d9f620f%28Office.15%29.aspx)
+[GetRasterExportResolution Method](https://msdn.microsoft.com/library/bd8ccdc8-6de9-cfa5-16fe-08f58d9f620f%28Office.15%29.aspx)
 
-[ApplicationSettings.GetRasterExportResolution Method (Visio)](http://msdn.microsoft.com/library/526d2970-006b-6596-bfef-49446dd58610%28Office.15%29.aspx)
+[ApplicationSettings.GetRasterExportResolution Method (Visio)](https://msdn.microsoft.com/library/526d2970-006b-6596-bfef-49446dd58610%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

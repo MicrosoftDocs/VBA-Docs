@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ListBox.ListItemsEditForm property (Access)](http://msdn.microsoft.com/library/f744fc52-4c50-f740-7a2f-eeccb12de7c9%28Office.15%29.aspx)
+[ListBox.ListItemsEditForm property (Access)](https://msdn.microsoft.com/library/f744fc52-4c50-f740-7a2f-eeccb12de7c9%28Office.15%29.aspx)
 
-[ComboBox.ListItemsEditForm property (Access)](http://msdn.microsoft.com/library/5db884d4-4d9f-23b5-9e3a-f6de953a4800%28Office.15%29.aspx)
+[ComboBox.ListItemsEditForm property (Access)](https://msdn.microsoft.com/library/5db884d4-4d9f-23b5-9e3a-f6de953a4800%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

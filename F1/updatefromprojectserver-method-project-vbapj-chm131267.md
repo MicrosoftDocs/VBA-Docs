@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.UpdateFromProjectServer Method (Project)](http://msdn.microsoft.com/library/f37bb573-2d25-b4f9-21ba-109db75962f6%28Office.15%29.aspx)
+[Application.UpdateFromProjectServer Method (Project)](https://msdn.microsoft.com/library/f37bb573-2d25-b4f9-21ba-109db75962f6%28Office.15%29.aspx)
 
-[Assignments Object (Project)](http://msdn.microsoft.com/library/83661095-030c-0488-5763-320b6de6f381%28Office.15%29.aspx)
+[Assignments Object (Project)](https://msdn.microsoft.com/library/83661095-030c-0488-5763-320b6de6f381%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

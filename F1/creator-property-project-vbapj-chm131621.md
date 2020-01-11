@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Chart.Creator Property (Project)](http://msdn.microsoft.com/library/d2ef5502-f55f-73ff-3df1-04aa22cbc9c0%28Office.15%29.aspx)
+[Chart.Creator Property (Project)](https://msdn.microsoft.com/library/d2ef5502-f55f-73ff-3df1-04aa22cbc9c0%28Office.15%29.aspx)
 
-[Chart.Legend Property (Project)](http://msdn.microsoft.com/library/38c3332c-6087-4f7b-5c02-31cba5c6933f%28Office.15%29.aspx)
+[Chart.Legend Property (Project)](https://msdn.microsoft.com/library/38c3332c-6087-4f7b-5c02-31cba5c6933f%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

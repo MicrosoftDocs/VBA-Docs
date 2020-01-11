@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.SVPercent Property (Project)](http://msdn.microsoft.com/library/96d96b8f-0b8d-ecb9-1281-059d759cf443%28Office.15%29.aspx)
+[Task.SVPercent Property (Project)](https://msdn.microsoft.com/library/96d96b8f-0b8d-ecb9-1281-059d759cf443%28Office.15%29.aspx)
 
-[Report.Index Property (Project)](http://msdn.microsoft.com/library/3a0ccb0f-443e-ea35-4766-b79f97fef84a%28Office.15%29.aspx)
+[Report.Index Property (Project)](https://msdn.microsoft.com/library/3a0ccb0f-443e-ea35-4766-b79f97fef84a%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

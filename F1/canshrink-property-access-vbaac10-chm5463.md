@@ -14,9 +14,9 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-- [Section.CanShrink property (Access)](http://msdn.microsoft.com/library/e6d48c05-e2a4-8913-c9a4-0d5dbfb68adc%28Office.15%29.aspx)
-- [TextBox.CanShrink property (Access)](http://msdn.microsoft.com/library/d4ac842c-18ea-a3be-a90a-5dd9d10d7b8f%28Office.15%29.aspx)
-- [ComboBox.CanShrink property (Access)](http://msdn.microsoft.com/library/6f74e442-0b65-1d15-b247-6e12b9a08f1e%28Office.15%29.aspx)
-- [SubForm.CanShrink property (Access)](http://msdn.microsoft.com/library/55170bb3-6c5c-ab6a-3643-719b13c876e8%28Office.15%29.aspx)
+- [Section.CanShrink property (Access)](https://msdn.microsoft.com/library/e6d48c05-e2a4-8913-c9a4-0d5dbfb68adc%28Office.15%29.aspx)
+- [TextBox.CanShrink property (Access)](https://msdn.microsoft.com/library/d4ac842c-18ea-a3be-a90a-5dd9d10d7b8f%28Office.15%29.aspx)
+- [ComboBox.CanShrink property (Access)](https://msdn.microsoft.com/library/6f74e442-0b65-1d15-b247-6e12b9a08f1e%28Office.15%29.aspx)
+- [SubForm.CanShrink property (Access)](https://msdn.microsoft.com/library/55170bb3-6c5c-ab6a-3643-719b13c876e8%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

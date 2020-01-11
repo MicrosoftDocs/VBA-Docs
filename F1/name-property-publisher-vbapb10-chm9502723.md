@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CaptionStyle.Name Property (Publisher)](http://msdn.microsoft.com/library/bc9ac1d6-6acc-e973-45dc-75b275891c9e%28Office.15%29.aspx)
+[CaptionStyle.Name Property (Publisher)](https://msdn.microsoft.com/library/bc9ac1d6-6acc-e973-45dc-75b275891c9e%28Office.15%29.aspx)
 
-[BuildingBlock.Gallery Property (Publisher)](http://msdn.microsoft.com/library/ed6941ae-8c59-7c11-226b-e673b8c1363c%28Office.15%29.aspx)
+[BuildingBlock.Gallery Property (Publisher)](https://msdn.microsoft.com/library/ed6941ae-8c59-7c11-226b-e673b8c1363c%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

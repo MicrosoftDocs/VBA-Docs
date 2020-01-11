@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.IsStartValid Property (Project)](http://msdn.microsoft.com/library/6e5c90ab-7d7c-1f08-370c-8091d1a55aa6%28Office.15%29.aspx)
+[Task.IsStartValid Property (Project)](https://msdn.microsoft.com/library/6e5c90ab-7d7c-1f08-370c-8091d1a55aa6%28Office.15%29.aspx)
 
-[LookupTableEntry.IsValid Property (Project)](http://msdn.microsoft.com/library/8c05e135-f507-5449-bef9-89b2d859f5f5%28Office.15%29.aspx)
+[LookupTableEntry.IsValid Property (Project)](https://msdn.microsoft.com/library/8c05e135-f507-5449-bef9-89b2d859f5f5%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

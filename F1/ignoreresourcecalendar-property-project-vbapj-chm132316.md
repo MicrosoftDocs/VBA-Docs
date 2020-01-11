@@ -14,10 +14,10 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.IgnoreResourceCalendar Property (Project)](http://msdn.microsoft.com/library/fd182f46-b30b-0ecc-bc1e-05427d35da45%28Office.15%29.aspx)
+[Task.IgnoreResourceCalendar Property (Project)](https://msdn.microsoft.com/library/fd182f46-b30b-0ecc-bc1e-05427d35da45%28Office.15%29.aspx)
 
-[GroupCriterion2.FontSize Property (Project)](http://msdn.microsoft.com/library/0c055f9c-96b7-6053-0865-3cfa82ba5ee3%28Office.15%29.aspx)
+[GroupCriterion2.FontSize Property (Project)](https://msdn.microsoft.com/library/0c055f9c-96b7-6053-0865-3cfa82ba5ee3%28Office.15%29.aspx)
 
-[GroupCriterion.FontSize Property (Project)](http://msdn.microsoft.com/library/37e7b35b-06cf-aaaf-9bc4-c82daa5771e1%28Office.15%29.aspx)
+[GroupCriterion.FontSize Property (Project)](https://msdn.microsoft.com/library/37e7b35b-06cf-aaaf-9bc4-c82daa5771e1%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

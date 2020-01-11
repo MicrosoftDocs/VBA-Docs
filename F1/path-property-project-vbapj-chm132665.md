@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Subproject.Path Property (Project)](http://msdn.microsoft.com/library/57bd6c44-5a2e-a2c8-c733-4c46e32be780%28Office.15%29.aspx)
+[Subproject.Path Property (Project)](https://msdn.microsoft.com/library/57bd6c44-5a2e-a2c8-c733-4c46e32be780%28Office.15%29.aspx)
 
-[Project.TaskTables Property (Project)](http://msdn.microsoft.com/library/98ebe380-ab66-238e-f02c-a6dc6ae6c597%28Office.15%29.aspx)
+[Project.TaskTables Property (Project)](https://msdn.microsoft.com/library/98ebe380-ab66-238e-f02c-a6dc6ae6c597%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

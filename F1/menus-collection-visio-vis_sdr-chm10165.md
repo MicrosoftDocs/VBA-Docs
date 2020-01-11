@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Menus Object (Visio)](http://msdn.microsoft.com/library/0c487176-1857-d496-8b2e-6a6aae668c6f%28Office.15%29.aspx)
+[Menus Object (Visio)](https://msdn.microsoft.com/library/0c487176-1857-d496-8b2e-6a6aae668c6f%28Office.15%29.aspx)
 
-[Menus Object (Visio)](http://msdn.microsoft.com/library/78bf7feb-0479-6251-ad88-b18e1fe78ee5.aspx)
+[Menus Object (Visio)](https://msdn.microsoft.com/library/78bf7feb-0479-6251-ad88-b18e1fe78ee5.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

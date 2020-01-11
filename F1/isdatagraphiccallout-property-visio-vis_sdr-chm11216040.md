@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Shape.IsDataGraphicCallout Property (Visio)](http://msdn.microsoft.com/library/dedf6880-e597-8582-12e5-18bfe6286e66%28Office.15%29.aspx)
+[Shape.IsDataGraphicCallout Property (Visio)](https://msdn.microsoft.com/library/dedf6880-e597-8582-12e5-18bfe6286e66%28Office.15%29.aspx)
 
-[Shape.AddHyperlink Method (Visio)](http://msdn.microsoft.com/library/fbf77a65-88a1-e710-60a2-efde9e7df968%28Office.15%29.aspx)
+[Shape.AddHyperlink Method (Visio)](https://msdn.microsoft.com/library/fbf77a65-88a1-e710-60a2-efde9e7df968%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

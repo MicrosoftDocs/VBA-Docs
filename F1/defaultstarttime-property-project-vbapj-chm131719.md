@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Project.DefaultStartTime Property (Project)](http://msdn.microsoft.com/library/5123c289-2450-346f-315a-443cace6a1d9%28Office.15%29.aspx)
+[Project.DefaultStartTime Property (Project)](https://msdn.microsoft.com/library/5123c289-2450-346f-315a-443cace6a1d9%28Office.15%29.aspx)
 
-[Month.Days Property (Project)](http://msdn.microsoft.com/library/86572272-1a5f-2c86-2111-e41f39f4c1e6%28Office.15%29.aspx)
+[Month.Days Property (Project)](https://msdn.microsoft.com/library/86572272-1a5f-2c86-2111-e41f39f4c1e6%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

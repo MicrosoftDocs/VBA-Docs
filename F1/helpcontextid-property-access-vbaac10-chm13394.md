@@ -14,6 +14,6 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Command Button Control](http://msdn.microsoft.com/library/aea2b8e8-2249-0055-472f-e67b86044669%28Office.15%29.aspx)
+[Command Button Control](https://msdn.microsoft.com/library/aea2b8e8-2249-0055-472f-e67b86044669%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

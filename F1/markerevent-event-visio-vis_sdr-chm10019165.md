@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[InvisibleApp.MarkerEvent Event (Visio)](http://msdn.microsoft.com/library/264b9682-2979-3ddb-a110-2f4d88847d85%28Office.15%29.aspx)
+[InvisibleApp.MarkerEvent Event (Visio)](https://msdn.microsoft.com/library/264b9682-2979-3ddb-a110-2f4d88847d85%28Office.15%29.aspx)
 
-[Application.MarkerEvent Event (Visio)](http://msdn.microsoft.com/library/1d0c20cc-ccfd-595c-04ea-afce487e582c%28Office.15%29.aspx)
+[Application.MarkerEvent Event (Visio)](https://msdn.microsoft.com/library/1d0c20cc-ccfd-595c-04ea-afce487e582c%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

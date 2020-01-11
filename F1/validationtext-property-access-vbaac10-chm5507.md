@@ -14,14 +14,14 @@ localization_priority: Priority
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[OptionButton.ValidationText property (Access)](http://msdn.microsoft.com/library/4a0a025f-7c86-cd2c-efa3-2786fc31a675%28Office.15%29.aspx)
+[OptionButton.ValidationText property (Access)](https://msdn.microsoft.com/library/4a0a025f-7c86-cd2c-efa3-2786fc31a675%28Office.15%29.aspx)
 
-[ComboBox.ValidationText property (Access)](http://msdn.microsoft.com/library/479d2067-caae-efcc-92a8-36aa68edb4a4%28Office.15%29.aspx)
+[ComboBox.ValidationText property (Access)](https://msdn.microsoft.com/library/479d2067-caae-efcc-92a8-36aa68edb4a4%28Office.15%29.aspx)
 
-[CheckBox.ValidationText property (Access)](http://msdn.microsoft.com/library/25f8d9be-1015-4ff7-c088-569b8995e80b%28Office.15%29.aspx)
-[ListBox.ValidationText property (Access)](http://msdn.microsoft.com/library/be52194b-be06-9a85-30f6-718211038213%28Office.15%29.aspx)
-[ToggleButton.ValidationText property (Access)](http://msdn.microsoft.com/library/d42ad483-2720-2b9b-89f6-9611e345e44a%28Office.15%29.aspx)
-[TextBox.ValidationText property (Access)](http://msdn.microsoft.com/library/5d3ab2a3-9166-714f-a0c2-d56d42b19ebc%28Office.15%29.aspx)
-[OptionGroup.ValidationText property (Access)](http://msdn.microsoft.com/library/d115a085-7c22-7a88-539e-ec4461ca6d5d%28Office.15%29.aspx)
+[CheckBox.ValidationText property (Access)](https://msdn.microsoft.com/library/25f8d9be-1015-4ff7-c088-569b8995e80b%28Office.15%29.aspx)
+[ListBox.ValidationText property (Access)](https://msdn.microsoft.com/library/be52194b-be06-9a85-30f6-718211038213%28Office.15%29.aspx)
+[ToggleButton.ValidationText property (Access)](https://msdn.microsoft.com/library/d42ad483-2720-2b9b-89f6-9611e345e44a%28Office.15%29.aspx)
+[TextBox.ValidationText property (Access)](https://msdn.microsoft.com/library/5d3ab2a3-9166-714f-a0c2-d56d42b19ebc%28Office.15%29.aspx)
+[OptionGroup.ValidationText property (Access)](https://msdn.microsoft.com/library/d115a085-7c22-7a88-539e-ec4461ca6d5d%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[NavigationControl.StatusBarText property (Access)](http://msdn.microsoft.com/library/8cd0c070-a8ec-e5c3-8996-a551cd344da5%28Office.15%29.aspx)
+[NavigationControl.StatusBarText property (Access)](https://msdn.microsoft.com/library/8cd0c070-a8ec-e5c3-8996-a551cd344da5%28Office.15%29.aspx)
 
-[TextBox.StatusBarText property (Access)](http://msdn.microsoft.com/library/18ae7a69-2e63-7896-1bff-da3f45b62c63%28Office.15%29.aspx)
+[TextBox.StatusBarText property (Access)](https://msdn.microsoft.com/library/18ae7a69-2e63-7896-1bff-da3f45b62c63%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

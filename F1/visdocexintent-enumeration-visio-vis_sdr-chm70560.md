@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[VisDocExIntent Enumeration (Visio)](http://msdn.microsoft.com/library/ddf76405-46b9-0b4b-88c0-173297a0a24b%28Office.15%29.aspx)
+[VisDocExIntent Enumeration (Visio)](https://msdn.microsoft.com/library/ddf76405-46b9-0b4b-88c0-173297a0a24b%28Office.15%29.aspx)
 
-[VisFilterActions Enumeration (Visio)](http://msdn.microsoft.com/library/1b96bdba-e5e8-0e24-697d-3791c059fa15%28Office.15%29.aspx)
+[VisFilterActions Enumeration (Visio)](https://msdn.microsoft.com/library/1b96bdba-e5e8-0e24-697d-3791c059fa15%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

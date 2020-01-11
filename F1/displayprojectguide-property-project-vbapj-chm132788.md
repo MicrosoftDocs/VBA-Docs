@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.DisplayProjectGuide Property (Project)](http://msdn.microsoft.com/library/5b10db18-8cee-3824-79c7-85eadf11b0af%28Office.15%29.aspx)
+[Application.DisplayProjectGuide Property (Project)](https://msdn.microsoft.com/library/5b10db18-8cee-3824-79c7-85eadf11b0af%28Office.15%29.aspx)
 
-[TimeScaleValue.Value Property (Project)](http://msdn.microsoft.com/library/30665b24-bc19-a6a2-cb1b-a70c3736b05b%28Office.15%29.aspx)
+[TimeScaleValue.Value Property (Project)](https://msdn.microsoft.com/library/30665b24-bc19-a6a2-cb1b-a70c3736b05b%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

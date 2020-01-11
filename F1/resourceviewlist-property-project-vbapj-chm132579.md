@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Project.ResourceViewList Property (Project)](http://msdn.microsoft.com/library/d0acf85f-8a07-714d-614f-a18645177f40%28Office.15%29.aspx)
+[Project.ResourceViewList Property (Project)](https://msdn.microsoft.com/library/d0acf85f-8a07-714d-614f-a18645177f40%28Office.15%29.aspx)
 
-[Project.ShowExternalSuccessors Property (Project)](http://msdn.microsoft.com/library/c59ef7de-1b7a-1106-7659-e13920da9f5f%28Office.15%29.aspx)
+[Project.ShowExternalSuccessors Property (Project)](https://msdn.microsoft.com/library/c59ef7de-1b7a-1106-7659-e13920da9f5f%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

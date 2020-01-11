@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[BuildingBlocks.Add method (Word)](http://msdn.microsoft.com/library/22725f33-4de0-95cd-d4a5-a2379b0130c4%28Office.15%29.aspx)
+[BuildingBlocks.Add method (Word)](https://msdn.microsoft.com/library/22725f33-4de0-95cd-d4a5-a2379b0130c4%28Office.15%29.aspx)
 
-[PageNumber.Copy method (Word)](http://msdn.microsoft.com/library/ddc36ec0-74f5-c3c6-0f96-db1c4a6d0acd%28Office.15%29.aspx)
+[PageNumber.Copy method (Word)](https://msdn.microsoft.com/library/ddc36ec0-74f5-c3c6-0f96-db1c4a6d0acd%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.ConnectionsDeleted Event (Visio)](http://msdn.microsoft.com/library/9578be17-8c77-9454-c8a8-1e02fa6516b2%28Office.15%29.aspx)
+[Application.ConnectionsDeleted Event (Visio)](https://msdn.microsoft.com/library/9578be17-8c77-9454-c8a8-1e02fa6516b2%28Office.15%29.aspx)
 
-[InvisibleApp.ConnectionsDeleted Event (Visio)](http://msdn.microsoft.com/library/88505099-3b7d-bf02-cc3d-d56bc436e63f%28Office.15%29.aspx)
+[InvisibleApp.ConnectionsDeleted Event (Visio)](https://msdn.microsoft.com/library/88505099-3b7d-bf02-cc3d-d56bc436e63f%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

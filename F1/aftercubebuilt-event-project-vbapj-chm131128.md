@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.AfterCubeBuilt Event (Project)](http://msdn.microsoft.com/library/f57a3391-dbbe-42eb-cf99-205b754c7cc1%28Office.15%29.aspx)
+[Application.AfterCubeBuilt Event (Project)](https://msdn.microsoft.com/library/f57a3391-dbbe-42eb-cf99-205b754c7cc1%28Office.15%29.aspx)
 
-[Project.ManuallyScheduledTasksAutoRespectLinks Property (Project)](http://msdn.microsoft.com/library/158b13c8-5829-8e68-804f-fd96913e295d%28Office.15%29.aspx)
+[Project.ManuallyScheduledTasksAutoRespectLinks Property (Project)](https://msdn.microsoft.com/library/158b13c8-5829-8e68-804f-fd96913e295d%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

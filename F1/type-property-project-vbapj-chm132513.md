@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Profile.Type Property (Project)](http://msdn.microsoft.com/library/ff5c3939-cfa6-c098-5fc4-180a4573ecb0%28Office.15%29.aspx)
+[Profile.Type Property (Project)](https://msdn.microsoft.com/library/ff5c3939-cfa6-c098-5fc4-180a4573ecb0%28Office.15%29.aspx)
 
-[Reports.Copy Method (Project)](http://msdn.microsoft.com/library/fd930e98-4200-05e0-67e3-f4d34ae26928%28Office.15%29.aspx)
+[Reports.Copy Method (Project)](https://msdn.microsoft.com/library/fd930e98-4200-05e0-67e3-f4d34ae26928%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

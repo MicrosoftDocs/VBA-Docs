@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Document.QueryCancelSelectionDelete Event (Visio)](http://msdn.microsoft.com/library/6b784ad0-a8fb-dd07-9e87-abaa1509af1b%28Office.15%29.aspx)
+[Document.QueryCancelSelectionDelete Event (Visio)](https://msdn.microsoft.com/library/6b784ad0-a8fb-dd07-9e87-abaa1509af1b%28Office.15%29.aspx)
 
-[DrawingControl.QueryCancelSelectionDelete Event (Visio)](http://msdn.microsoft.com/library/30a3a0bc-a64b-a2e2-3bc1-ddfd3e4ee5ac%28Office.15%29.aspx)
+[DrawingControl.QueryCancelSelectionDelete Event (Visio)](https://msdn.microsoft.com/library/30a3a0bc-a64b-a2e2-3bc1-ddfd3e4ee5ac%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

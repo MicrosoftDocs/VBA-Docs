@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Document.MasterChanged Event (Visio)](http://msdn.microsoft.com/library/59fe2ee8-03ee-83b9-d86c-a67d68c7a363%28Office.15%29.aspx)
+[Document.MasterChanged Event (Visio)](https://msdn.microsoft.com/library/59fe2ee8-03ee-83b9-d86c-a67d68c7a363%28Office.15%29.aspx)
 
-[DrawingControl.MasterChanged Event (Visio)](http://msdn.microsoft.com/library/242c96ec-a29c-421a-ca7b-cc374cc5fc69%28Office.15%29.aspx)
+[DrawingControl.MasterChanged Event (Visio)](https://msdn.microsoft.com/library/242c96ec-a29c-421a-ca7b-cc374cc5fc69%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

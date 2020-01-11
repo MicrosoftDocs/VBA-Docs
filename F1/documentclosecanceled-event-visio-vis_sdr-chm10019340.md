@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[InvisibleApp.DocumentCloseCanceled Event (Visio)](http://msdn.microsoft.com/library/38ac61ad-1a38-bd73-489b-09de41c69475%28Office.15%29.aspx)
+[InvisibleApp.DocumentCloseCanceled Event (Visio)](https://msdn.microsoft.com/library/38ac61ad-1a38-bd73-489b-09de41c69475%28Office.15%29.aspx)
 
-[Application.DocumentCloseCanceled Event (Visio)](http://msdn.microsoft.com/library/138e4bf9-87e7-dc9b-4cf6-b12992f22e20%28Office.15%29.aspx)
+[Application.DocumentCloseCanceled Event (Visio)](https://msdn.microsoft.com/library/138e4bf9-87e7-dc9b-4cf6-b12992f22e20%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

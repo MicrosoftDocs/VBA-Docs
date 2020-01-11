@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Chart.GapDepth property (Word)](http://msdn.microsoft.com/library/09147a74-c8bb-4fc5-0389-c8f46e0be67d%28Office.15%29.aspx)
+[Chart.GapDepth property (Word)](https://msdn.microsoft.com/library/09147a74-c8bb-4fc5-0389-c8f46e0be67d%28Office.15%29.aspx)
 
-[Chart.ChartGroups property (Word)](http://msdn.microsoft.com/library/ae4da68e-1e80-f683-b1ef-eb26aa753420%28Office.15%29.aspx)
+[Chart.ChartGroups property (Word)](https://msdn.microsoft.com/library/ae4da68e-1e80-f683-b1ef-eb26aa753420%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

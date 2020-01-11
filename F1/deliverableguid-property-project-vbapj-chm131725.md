@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.DeliverableGuid Property (Project)](http://msdn.microsoft.com/library/7e67d1df-d1b7-b838-4bc8-5e505ad53ca6%28Office.15%29.aspx)
+[Task.DeliverableGuid Property (Project)](https://msdn.microsoft.com/library/7e67d1df-d1b7-b838-4bc8-5e505ad53ca6%28Office.15%29.aspx)
 
-[Application.DefaultDateFormat Property (Project)](http://msdn.microsoft.com/library/01f20463-2d23-0e65-ab54-cc23673509da%28Office.15%29.aspx)
+[Application.DefaultDateFormat Property (Project)](https://msdn.microsoft.com/library/01f20463-2d23-0e65-ab54-cc23673509da%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

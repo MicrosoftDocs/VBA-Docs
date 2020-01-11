@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Project.ShowTaskSuggestions Property (Project)](http://msdn.microsoft.com/library/af4403d9-4c3f-60dc-c081-7e63b7da4738%28Office.15%29.aspx)
+[Project.ShowTaskSuggestions Property (Project)](https://msdn.microsoft.com/library/af4403d9-4c3f-60dc-c081-7e63b7da4738%28Office.15%29.aspx)
 
-[ReportTemplates.Item Property (Project)](http://msdn.microsoft.com/library/5b26a22e-34ec-4c5c-4adb-d3b43513d62e%28Office.15%29.aspx)
+[ReportTemplates.Item Property (Project)](https://msdn.microsoft.com/library/5b26a22e-34ec-4c5c-4adb-d3b43513d62e%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
