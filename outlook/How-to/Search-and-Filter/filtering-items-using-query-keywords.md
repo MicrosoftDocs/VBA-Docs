@@ -47,7 +47,7 @@ The following DASL query retrieves all contacts where the custom property **Orde
     
 ```vb
   criteria = "@SQL=" & "(NOT(" _ 
-& Chr(34) & "http://schemas.microsoft.com/mapi/string/" _ 
+& Chr(34) & "https://schemas.microsoft.com/mapi/string/" _ 
 & "{00020329-0000-0000-C000-000000000046}/Order%20Date" & Chr(34) _ 
 & " IS NULL) AND " _ & Chr(34) & "urn:schemas-microsoft-com:office:office#Company" 
 & Chr(34) _ & " = 'Microsoft')"

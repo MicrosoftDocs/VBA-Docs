@@ -64,17 +64,17 @@ Function ChangeAgingProperties(oFolder As Outlook.Folder, _
  
  '6 MAPI properties for aging items in a folder 
  Const PR_AGING_AGE_FOLDER = _ 
- "http://schemas.microsoft.com/mapi/proptag/0x6857000B" 
+ "https://schemas.microsoft.com/mapi/proptag/0x6857000B" 
  Const PR_AGING_DELETE_ITEMS = _ 
- "http://schemas.microsoft.com/mapi/proptag/0x6855000B" 
+ "https://schemas.microsoft.com/mapi/proptag/0x6855000B" 
  Const PR_AGING_FILE_NAME_AFTER9 = _ 
- "http://schemas.microsoft.com/mapi/proptag/0x6859001E" 
+ "https://schemas.microsoft.com/mapi/proptag/0x6859001E" 
  Const PR_AGING_GRANULARITY = _ 
- "http://schemas.microsoft.com/mapi/proptag/0x36EE0003" 
+ "https://schemas.microsoft.com/mapi/proptag/0x36EE0003" 
  Const PR_AGING_PERIOD = _ 
- "http://schemas.microsoft.com/mapi/proptag/0x36EC0003" 
+ "https://schemas.microsoft.com/mapi/proptag/0x36EC0003" 
  Const PR_AGING_DEFAULT = _ 
- "http://schemas.microsoft.com/mapi/proptag/0x685E0003" 
+ "https://schemas.microsoft.com/mapi/proptag/0x685E0003" 
  
  Dim oStorage As StorageItem 
  Dim oPA As PropertyAccessor 

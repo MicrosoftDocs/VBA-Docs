@@ -66,7 +66,7 @@ Sub FindAppts()
     'Restrict the Items collection for the 30-day date range
     Set oItemsInDateRange = oItems.Restrict(strRestriction)
     'Construct filter for Subject containing 'team'
-    Const PropTag  As String = "http://schemas.microsoft.com/mapi/proptag/"
+    Const PropTag  As String = "https://schemas.microsoft.com/mapi/proptag/"
     strRestriction = "@SQL=" & Chr(34) & PropTag _
         & "0x0037001E" & Chr(34) & " like '%team%'"
     'Restrict the last set of filtered items for the subject

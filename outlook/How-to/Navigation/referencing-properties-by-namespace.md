@@ -17,10 +17,10 @@ The following table summarizes the namespaces and the Outlook objects that the n
 
 | **Namespaces**| **Supported Outlook Objects**|
 |:-----|:-----|
-|http://schemas.microsoft.com/mapi/proptag| [Outlook item objects](../Items-Folders-and-Stores/outlook-item-objects.md), **[AddressEntry](../../../api/Outlook.AddressEntry.md)**, **[AddressList](../../../api/Outlook.AddressList.md)**, **[Attachment](../../../api/Outlook.Attachment.md)**, **[ExchangeDistributionList](../../../api/Outlook.ExchangeDistributionList.md)**, **[ExchangeUser](../../../api/Outlook.ExchangeUser.md)**, **[Folder](../../../api/Outlook.Folder.md)**, **[Recipient](../../../api/Outlook.Recipient.md)**, and **[Store](../../../api/Outlook.Store.md)** objects.|
-|http://schemas.microsoft.com/mapi/id| (Same as above)|
-|http://schemas.microsoft.com/mapi/string|(Same as above)|
-|http://schemas.microsoft.com/exchange|(Same as above)|
+|https://schemas.microsoft.com/mapi/proptag| [Outlook item objects](../Items-Folders-and-Stores/outlook-item-objects.md), **[AddressEntry](../../../api/Outlook.AddressEntry.md)**, **[AddressList](../../../api/Outlook.AddressList.md)**, **[Attachment](../../../api/Outlook.Attachment.md)**, **[ExchangeDistributionList](../../../api/Outlook.ExchangeDistributionList.md)**, **[ExchangeUser](../../../api/Outlook.ExchangeUser.md)**, **[Folder](../../../api/Outlook.Folder.md)**, **[Recipient](../../../api/Outlook.Recipient.md)**, and **[Store](../../../api/Outlook.Store.md)** objects.|
+|https://schemas.microsoft.com/mapi/id| (Same as above)|
+|https://schemas.microsoft.com/mapi/string|(Same as above)|
+|https://schemas.microsoft.com/exchange|(Same as above)|
 |urn:schemas-microsoft-com:office:office|Outlook item objects|
 |urn:schemas-microsoft-com:office:outlook|Outlook item objects|
 |DAV:|Outlook item objects|
@@ -40,61 +40,61 @@ Many properties that Outlook supports are MAPI properties. The **[PropertyAccess
     
 This namespace is used to access properties in the MAPI namespace using the property tag of a property. It supports only properties in the MAPI property range (that is, properties with a property identifier below 0x8000). The following is the format to reference a property in this namespace:
     
-`http://schemas.microsoft.com/mapi/proptag/0xHHHHHHHH`
+`https://schemas.microsoft.com/mapi/proptag/0xHHHHHHHH`
     
 **HHHHHHHH** represents a hexadecimal property tag value, with a unique property identifier in the higher-order 16 bits, and a property type in the lower-order 16 bits. Every MAPI property must have a property tag, regardless of whether the property is defined by MAPI, Outlook, or a service provider. The hexadecimal value must follow the prefix "0x". 
 
 Formally, references of properties in this namespace can be defined in ABNF as follows:
 
 ```vb
-  proptag-specifier = "http://schemas.microsoft.com/mapi/proptag/x" property-id property-type 
+  proptag-specifier = "https://schemas.microsoft.com/mapi/proptag/x" property-id property-type 
   property-id = 4HEXDIG 
   property-type = 4HEXDIG
 ```
 
 For example, the following represents the MAPI property **PidTagSubject** that Outlook exposes in its object model as **Subject**: 
     
-`http://schemas.microsoft.com/mapi/proptag/0x0037001E`
+`https://schemas.microsoft.com/mapi/proptag/0x0037001E`
     
 ### id namespace
     
 This namespace is used to access properties in a namespace identified by the globally unique identifier (GUID) of the namespace, using the identifier of the property. The following is the format to reference a property in this namespace:
     
-`http://schemas.microsoft.com/mapi/id/{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}/HHHHHHHH`   
+`https://schemas.microsoft.com/mapi/id/{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}/HHHHHHHH`   
     
 **{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}** represents the namespace GUID, and **HHHHHHHH** represents the property tag.
     
 Formally, references of properties in this namespace can be defined in ABNF as follows:
     
 ```vb
-  id-specifier = "http://schemas.microsoft.com/mapi/id/" property-set "/x" property-long-id 
+  id-specifier = "https://schemas.microsoft.com/mapi/id/" property-set "/x" property-long-id 
 property-set = "{" 8HEXDIG "-" 4HEXDIG "-" 4HEXDIG "-" 4HEXDIG "-" 12HEXDIG "}" 
 property-long-id = 8HEXDIG
 ```
 
 For example, the following represents the Outlook **NoAging** property:
     
-`http://schemas.microsoft.com/mapi/id/{00062008-0000-0000-C000-000000000046}/850E000B`
+`https://schemas.microsoft.com/mapi/id/{00062008-0000-0000-C000-000000000046}/850E000B`
     
 ### string namespace
     
 This namespace is used to access string-named properties in an identified namespace. The following is the format to reference a property in this namespace:
     
-`http://schemas.microsoft.com/mapi/string/{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}/ name`
+`https://schemas.microsoft.com/mapi/string/{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}/ name`
     
 **{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}** represents the namespace GUID, and **_name_** is the local property name defined as a string.
     
 Formally, references of properties in this namespace can be defined in ABNF as follows:
 
 ```vb
-  string-specifier = "http://schemas.microsoft.com/mapi/string/" property-set "/" property-name 
+  string-specifier = "https://schemas.microsoft.com/mapi/string/" property-set "/" property-name 
 property-set = "{" 8*HEXDIG "-" 4*HEXDIG "-" 4*HEXDIG "-" 4*HEXDIG "-" 12*HEXDIG "}" 
 property-name = 1*CHAR
 ```
 
 The following is an example that uses this namespace:
     
-`http://schemas.microsoft.com/mapi/string/{00020386-0000-0000-C000-000000000046}/content-class`
+`https://schemas.microsoft.com/mapi/string/{00020386-0000-0000-C000-000000000046}/content-class`
     
 Escaping rules apply to referencing named properties in the **string** namespace. When referencing a named property that has a string identifier (for example, Author, Company, and Title), if the property name contains a space, single quote, double quote, or percent character, you must use Universal Resource Locator (URL) escaping and represent such characters with the corresponding escape string as shown in the following table.
     
@@ -108,7 +108,7 @@ Escaping rules apply to referencing named properties in the **string** namespace
 The following is an example of how you specify and get the value of a named property, **Mom's "Gift"**, defined in the MAPI string namespace, by using the **[PropertyAccessor.GetProperty](../../../api/Outlook.PropertyAccessor.GetProperty.md)** method:
     
 ```vb
-  PropertyAccessor.GetProperty("http://schemas.microsoft.com/mapi/string/{00020329-0000-0000-C000-000000000046}/Mom%27s%20%22Gift%22")
+  PropertyAccessor.GetProperty("https://schemas.microsoft.com/mapi/string/{00020329-0000-0000-C000-000000000046}/Mom%27s%20%22Gift%22")
 ```
 
 
@@ -116,13 +116,13 @@ The following is an example of how you specify and get the value of a named prop
 
 The exchange namespace is used to access string-named Exchange properties. The following is the format to reference a property in this namespace:
 
-`http://schemas.microsoft.com/exchange/ name`
+`https://schemas.microsoft.com/exchange/ name`
 
 **_name_** is the local property name defined as a string.
 
 The following is an example of a property referenced by this namespace:
 
-`http://schemas.microsoft.com/exchange/readreceiptrequested`
+`https://schemas.microsoft.com/exchange/readreceiptrequested`
 
 
 ## Office namespaces

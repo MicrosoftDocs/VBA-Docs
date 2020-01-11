@@ -69,7 +69,7 @@ This topic links to how-to and walkthrough topics for common Microsoft Outlook s
     
  **Contact Pictures**
 
--  [How to: Specify Whether to Display a Contact's Picture in Outlook](http://msdn.microsoft.com/library/0c518245-2c52-435d-98ad-ffad72a4527b%28Office.15%29.aspx)
+-  [How to: Specify Whether to Display a Contact's Picture in Outlook](https://msdn.microsoft.com/library/0c518245-2c52-435d-98ad-ffad72a4527b%28Office.15%29.aspx)
     
  **Electronic Business Cards**
 

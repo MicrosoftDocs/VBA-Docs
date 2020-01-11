@@ -13,7 +13,7 @@ In a Microsoft Outlook session where multiple Microsoft Exchange accounts are de
 
 The following managed code is written in C#. To run a .NET Framework managed code sample that needs to call into a Component Object Model (COM), you must use an interop assembly that defines and maps managed interfaces to the COM objects in the object model type library. For Outlook, you can use Visual Studio and the Outlook Primary Interop Assembly (PIA). Before you run managed code samples for Outlook 2013, ensure that you have installed the Outlook 2013 PIA and have added a reference to the Microsoft Outlook 15.0 Object Library component in Visual Studio. You should use the following code in the  `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`. For more information about using the Outlook PIA to develop managed Outlook solutions, see the  **Welcome to the Outlook Primary Interop Assembly Reference** on MSDN.
 
-The first code sample contains the  `DisplayGlobalAddressListForStore` method and the `GetGlobalAddressList` function. The `DisplayGlobalAddressListForStore` method displays the Global Address List that is associated with the current store in the **Select Names** dialog box. `DisplayGlobalAddressListForStore` first obtains the current store. If the current store is an Exchange store, calls `GetGlobalAddressList` to obtain the Global Address List associated with the current store. `GetGlobalAddressList` uses the [PropertyAccessor](../../../api/Outlook.PropertyAccessor.md) object and the MAPI property, http://schemas.microsoft.com/mapi/proptag/0x3D150102, to obtain the UIDs of an address list and the current store. `GetGlobalAddressList` identifies an address list as associated with a store if their UIDs match, and the address list is the Global Address List if its [AddressListType](../../../api/Outlook.AddressList.AddressListType.md) property is **olExchangeGlobalAddressList**. If the call to  `GetGlobalAddressList` succeeds, `DisplayGlobalAddressListForStore` uses the [SelectNamesDialog](../../../api/Outlook.SelectNamesDialog.md) object to display the returned Global Address List in the **Select Names** dialog box.
+The first code sample contains the  `DisplayGlobalAddressListForStore` method and the `GetGlobalAddressList` function. The `DisplayGlobalAddressListForStore` method displays the Global Address List that is associated with the current store in the **Select Names** dialog box. `DisplayGlobalAddressListForStore` first obtains the current store. If the current store is an Exchange store, calls `GetGlobalAddressList` to obtain the Global Address List associated with the current store. `GetGlobalAddressList` uses the [PropertyAccessor](../../../api/Outlook.PropertyAccessor.md) object and the MAPI property, https://schemas.microsoft.com/mapi/proptag/0x3D150102, to obtain the UIDs of an address list and the current store. `GetGlobalAddressList` identifies an address list as associated with a store if their UIDs match, and the address list is the Global Address List if its [AddressListType](../../../api/Outlook.AddressList.AddressListType.md) property is **olExchangeGlobalAddressList**. If the call to  `GetGlobalAddressList` succeeds, `DisplayGlobalAddressListForStore` uses the [SelectNamesDialog](../../../api/Outlook.SelectNamesDialog.md) object to display the returned Global Address List in the **Select Names** dialog box.
 
 
 
@@ -53,7 +53,7 @@ public Outlook.AddressList GetGlobalAddressList(Outlook.Store store)
 { 
     // Property string for the UID of a store or address list. 
     string  PR_EMSMDB_SECTION_UID =  
-        @"http://schemas.microsoft.com/mapi/proptag/0x3D150102"; 
+        @"https://schemas.microsoft.com/mapi/proptag/0x3D150102"; 
  
     if (store == null) 
     { 
@@ -94,7 +94,7 @@ public Outlook.AddressList GetGlobalAddressList(Outlook.Store store)
 
 ```
 
-The second code sample contains the  `EnumerateAddressListsForStore` method and `GetAddressLists` function. The `EnumerateAddressListsForStore` method displays the type and resolution order of each address list defined for the current store. `EnumerateAddressListsForStore` first obtains the current store, then it calls `GetAddressLists` to obtain a .NET Framework generic **List** object that contains **AddressList** objects for the current store. `GetAddressLists` enumerates each address list defined for the session, uses the [PropertyAccessor](../../../api/Outlook.PropertyAccessor.md) object and the MAPI named property, http://schemas.microsoft.com/mapi/proptag/0x3D150102, to obtain the UIDs of an address list and the current store. `GetGlobalAddressList` identifies an address list as associated with a store if their UIDs match, and returns a set of address lists for the current store. `EnumerateAddressListsForStore` then uses the [AddressListType](../../../api/Outlook.AddressList.AddressListType.md) and [ResolutionOrder](../../../api/Outlook.AddressList.ResolutionOrder.md) properties of the **AddressList** object to display the type and resolution order for each returned address list.
+The second code sample contains the  `EnumerateAddressListsForStore` method and `GetAddressLists` function. The `EnumerateAddressListsForStore` method displays the type and resolution order of each address list defined for the current store. `EnumerateAddressListsForStore` first obtains the current store, then it calls `GetAddressLists` to obtain a .NET Framework generic **List** object that contains **AddressList** objects for the current store. `GetAddressLists` enumerates each address list defined for the session, uses the [PropertyAccessor](../../../api/Outlook.PropertyAccessor.md) object and the MAPI named property, https://schemas.microsoft.com/mapi/proptag/0x3D150102, to obtain the UIDs of an address list and the current store. `GetGlobalAddressList` identifies an address list as associated with a store if their UIDs match, and returns a set of address lists for the current store. `EnumerateAddressListsForStore` then uses the [AddressListType](../../../api/Outlook.AddressList.AddressListType.md) and [ResolutionOrder](../../../api/Outlook.AddressList.ResolutionOrder.md) properties of the **AddressList** object to display the type and resolution order for each returned address list.
 
 
 
@@ -129,7 +129,7 @@ public List<Outlook.AddressList> GetAddressLists(Outlook.Store store)
  
     // Property string for the UID of a store or address list. 
     string PR_EMSMDB_SECTION_UID = 
-        @"http://schemas.microsoft.com/mapi/proptag/0x3D150102"; 
+        @"https://schemas.microsoft.com/mapi/proptag/0x3D150102"; 
  
     if (store == null) 
     { 

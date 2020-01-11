@@ -105,7 +105,7 @@ Sub TestDASLDateComparison()
     Dim oMail As MailItem 
     Dim oPA As PropertyAccessor 
     Const SchemaPropTag As String = _ 
-    "http://schemas.microsoft.com/mapi/proptag/" 
+    "https://schemas.microsoft.com/mapi/proptag/" 
  
     'Get items from Inbox 
     Set colItems = _ 
@@ -129,7 +129,7 @@ Sub TestDASLDateComparison()
     & AddQuotes("urn:schemas:httpmail:datereceived") _ 
     & " < '" & datEndUTC & "'" 
  
-    'This filter uses http://schemas.microsoft.com/mapi/proptag 
+    'This filter uses https://schemas.microsoft.com/mapi/proptag 
     strFilter = AddQuotes(SchemaPropTag & "0x0E060040") _ 
     & " > '" & datStartUTC & "' AND " _ 
     & AddQuotes(SchemaPropTag & "0x0E060040") _ 

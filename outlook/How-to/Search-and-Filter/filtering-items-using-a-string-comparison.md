@@ -25,32 +25,32 @@ sFilter = "[CompanyName] = " & Chr(34) & "Microsoft" & Chr(34)
 
 In specifying a filter in a Jet or DASL query, if you use a pair of single quotes to delimit a string that is part of the filter, and the string contains another single quote or apostrophe, then add a single quote as an escape character before the single quote or apostrophe. Use a similar approach if you use a pair of double quotes to delimit a string. If the string contains a double quote, then add a double quote as an escape character before the double quote. 
 
-For example, in the DASL filter string that filters for the **Subject** property being equal to the word `can't`, the entire filter string is delimited by a pair of double quotes, and the embedded string `can't` is delimited by a pair of single quotes. There are three characters that you need to escape in this filter string: the starting double quote and the ending double quote for the property reference of `http://schemas.microsoft.com/mapi/proptag/0x0037001f`, and the apostrophe in the value condition for the word `can't`. 
+For example, in the DASL filter string that filters for the **Subject** property being equal to the word `can't`, the entire filter string is delimited by a pair of double quotes, and the embedded string `can't` is delimited by a pair of single quotes. There are three characters that you need to escape in this filter string: the starting double quote and the ending double quote for the property reference of `https://schemas.microsoft.com/mapi/proptag/0x0037001f`, and the apostrophe in the value condition for the word `can't`. 
 
 Applying the appropriate escape characters, you can express the filter string as follows: 
 
 ```vb
-filter = "@SQL=""http://schemas.microsoft.com/mapi/proptag/0x0037001f"" = 'can''t'"
+filter = "@SQL=""https://schemas.microsoft.com/mapi/proptag/0x0037001f"" = 'can''t'"
 ```
 
 Alternatively, you can use the `chr(34)` function to represent the double quote (whose ASCII character value is 34) that is used as an escape character. Using the `chr(34)` substitution for a double-quote escape character, you can express the last example as follows:
 
 ```vb
-filter = "@SQL= " & Chr(34) & "http://schemas.microsoft.com/mapi/proptag/0x0037001f" _
+filter = "@SQL= " & Chr(34) & "https://schemas.microsoft.com/mapi/proptag/0x0037001f" _
     & Chr(34) & " = " & "'can''t'"
 ```
 
 Escaping single and double quote characters is also required for DASL queries with the **ci_startswith** or **ci_phrasematch** operators. For example, the following query performs a phrase match query for `can't` in the message subject:
 
 ```vb
-filter = "@SQL=" & Chr(34) & "http://schemas.microsoft.com/mapi/proptag/0x0037001E" _
+filter = "@SQL=" & Chr(34) & "https://schemas.microsoft.com/mapi/proptag/0x0037001E" _
     & Chr(34) & " ci_phrasematch " & "'can''t'"
 ```
 
 Another example is a DASL filter string that filters for the **Subject** property being equal to the words `the right stuff`, where the word `stuff` is enclosed by double quotes. In this case, you must escape the enclosing double quotes as follows:
 
 ```vb
-filter = "@SQL=""http://schemas.microsoft.com/mapi/proptag/0x0037001f"" = 'the right ""stuff""'"
+filter = "@SQL=""https://schemas.microsoft.com/mapi/proptag/0x0037001f"" = 'the right ""stuff""'"
 ```
 
 A different set of escaping rules apply to a property reference for named properties that contain the space, single quote, or double quote characters. If the property reference contains a space, single quote, or double quote character, you must use Universal Resource Locator (URL) escaping in the property reference as follows:
@@ -66,7 +66,7 @@ For example, you would use the following filter to search for a custom property 
 
 ```vb
 filter = "@SQL=" & Chr(34) & _
-    "http://schemas.microsoft.com/mapi/string/{00020329-0000-0000-C000-000000000046}/" _
+    "https://schemas.microsoft.com/mapi/string/{00020329-0000-0000-C000-000000000046}/" _
     & "Mom%27s%20%22Gift%22" & Chr(34) & " like '%pearls%'"
 ```
 
