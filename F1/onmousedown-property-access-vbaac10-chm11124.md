@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TextBox.OnMouseDown property (Access)](http://msdn.microsoft.com/library/2392c2eb-6c3b-047b-1e4e-2772989ba1f2%28Office.15%29.aspx)
+[TextBox.OnMouseDown property (Access)](https://msdn.microsoft.com/library/2392c2eb-6c3b-047b-1e4e-2772989ba1f2%28Office.15%29.aspx)
 
-[NavigationControl.OnMouseDown property (Access)](http://msdn.microsoft.com/library/c8258e0e-c115-2556-a929-753c510fdc49%28Office.15%29.aspx)
+[NavigationControl.OnMouseDown property (Access)](https://msdn.microsoft.com/library/c8258e0e-c115-2556-a929-753c510fdc49%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

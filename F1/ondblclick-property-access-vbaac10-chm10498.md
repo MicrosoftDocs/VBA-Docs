@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[NavigationButton.OnDblClick property (Access)](http://msdn.microsoft.com/library/149872bc-946e-fffe-7f43-03bbdbd0ef2b%28Office.15%29.aspx)
+[NavigationButton.OnDblClick property (Access)](https://msdn.microsoft.com/library/149872bc-946e-fffe-7f43-03bbdbd0ef2b%28Office.15%29.aspx)
 
-[CommandButton.OnDblClick property (Access)](http://msdn.microsoft.com/library/465d95b4-64e3-1d1b-e388-5c96bfd2e5c9%28Office.15%29.aspx)
+[CommandButton.OnDblClick property (Access)](https://msdn.microsoft.com/library/465d95b4-64e3-1d1b-e388-5c96bfd2e5c9%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

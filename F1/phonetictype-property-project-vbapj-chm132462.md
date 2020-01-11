@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Project.PhoneticType Property (Project)](http://msdn.microsoft.com/library/d959bb6c-9efa-2b4c-594a-1b9294460770%28Office.15%29.aspx)
+[Project.PhoneticType Property (Project)](https://msdn.microsoft.com/library/d959bb6c-9efa-2b4c-594a-1b9294460770%28Office.15%29.aspx)
 
-[OutlineCode.LinkedFieldID Property (Project)](http://msdn.microsoft.com/library/310202bc-6db7-11b8-d380-af26ef12ad11%28Office.15%29.aspx)
+[OutlineCode.LinkedFieldID Property (Project)](https://msdn.microsoft.com/library/310202bc-6db7-11b8-d380-af26ef12ad11%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[InvisibleApp.AfterRemoveHiddenInformation Event (Visio)](http://msdn.microsoft.com/library/806422e1-66ce-5bed-da8d-5fcdbb2cd662%28Office.15%29.aspx)
+[InvisibleApp.AfterRemoveHiddenInformation Event (Visio)](https://msdn.microsoft.com/library/806422e1-66ce-5bed-da8d-5fcdbb2cd662%28Office.15%29.aspx)
 
-[Application.AfterRemoveHiddenInformation Event (Visio)](http://msdn.microsoft.com/library/abd8501a-b528-0433-1633-6d26960dcdaa%28Office.15%29.aspx)
+[Application.AfterRemoveHiddenInformation Event (Visio)](https://msdn.microsoft.com/library/abd8501a-b528-0433-1633-6d26960dcdaa%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

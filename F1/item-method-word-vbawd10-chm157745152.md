@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ContentControls.Item method (Word)](http://msdn.microsoft.com/library/7f468e82-e17c-3e98-e452-a214239dcab4%28Office.15%29.aspx)
+[ContentControls.Item method (Word)](https://msdn.microsoft.com/library/7f468e82-e17c-3e98-e452-a214239dcab4%28Office.15%29.aspx)
 
-[Bookmarks.Item method (Word)](http://msdn.microsoft.com/library/95650b7b-fe74-09a4-60a6-a716407e8a34%28Office.15%29.aspx)
+[Bookmarks.Item method (Word)](https://msdn.microsoft.com/library/95650b7b-fe74-09a4-60a6-a716407e8a34%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

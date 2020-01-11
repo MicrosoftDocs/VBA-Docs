@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[PickerFields.Count Property (Office)](http://msdn.microsoft.com/library/7f994f90-4870-cae8-d7bf-99f48dd08ba1%28Office.15%29.aspx)
+[PickerFields.Count Property (Office)](https://msdn.microsoft.com/library/7f994f90-4870-cae8-d7bf-99f48dd08ba1%28Office.15%29.aspx)
 
-[PickerField.Type Property (Office)](http://msdn.microsoft.com/library/1ac12ab8-9250-e554-b674-c56d06de8149%28Office.15%29.aspx)
+[PickerField.Type Property (Office)](https://msdn.microsoft.com/library/1ac12ab8-9250-e554-b674-c56d06de8149%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

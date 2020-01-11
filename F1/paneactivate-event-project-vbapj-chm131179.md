@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.PaneActivate Event (Project)](http://msdn.microsoft.com/library/8230c818-6df3-bbdc-5e71-0e6e6b03e172%28Office.15%29.aspx)
+[Application.PaneActivate Event (Project)](https://msdn.microsoft.com/library/8230c818-6df3-bbdc-5e71-0e6e6b03e172%28Office.15%29.aspx)
 
-[Application.SecondaryViewChange Event (Project)](http://msdn.microsoft.com/library/f0f3f81b-c75f-79ee-db8b-6bdd32a3702f%28Office.15%29.aspx)
+[Application.SecondaryViewChange Event (Project)](https://msdn.microsoft.com/library/f0f3f81b-c75f-79ee-db8b-6bdd32a3702f%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

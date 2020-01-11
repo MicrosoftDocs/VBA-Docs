@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TextBox.OnKeyPress property (Access)](http://msdn.microsoft.com/library/458d2e2d-3003-79e4-a911-058928c25cef%28Office.15%29.aspx)
+[TextBox.OnKeyPress property (Access)](https://msdn.microsoft.com/library/458d2e2d-3003-79e4-a911-058928c25cef%28Office.15%29.aspx)
 
-[NavigationControl.OnKeyPress property (Access)](http://msdn.microsoft.com/library/5efcc70d-6609-d4b3-509c-063af66195c4%28Office.15%29.aspx)
+[NavigationControl.OnKeyPress property (Access)](https://msdn.microsoft.com/library/5efcc70d-6609-d4b3-509c-063af66195c4%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

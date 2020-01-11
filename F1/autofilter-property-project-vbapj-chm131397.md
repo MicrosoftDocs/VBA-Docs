@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Project.AutoFilter Property (Project)](http://msdn.microsoft.com/library/3e6960f7-8a8a-6300-d74b-4e009fbcfca2%28Office.15%29.aspx)
+[Project.AutoFilter Property (Project)](https://msdn.microsoft.com/library/3e6960f7-8a8a-6300-d74b-4e009fbcfca2%28Office.15%29.aspx)
 
-[Cell.Assignment Property (Project)](http://msdn.microsoft.com/library/ac17eff9-d697-dbfa-7968-d61a474690ba%28Office.15%29.aspx)
+[Cell.Assignment Property (Project)](https://msdn.microsoft.com/library/ac17eff9-d697-dbfa-7968-d61a474690ba%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

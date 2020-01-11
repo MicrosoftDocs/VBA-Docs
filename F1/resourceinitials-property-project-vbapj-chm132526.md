@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.ResourceInitials Property (Project)](http://msdn.microsoft.com/library/60b06a65-650f-bfdf-20c5-5d377fd264f1%28Office.15%29.aspx)
+[Task.ResourceInitials Property (Project)](https://msdn.microsoft.com/library/60b06a65-650f-bfdf-20c5-5d377fd264f1%28Office.15%29.aspx)
 
-[Project.ProjectSummaryTask Property (Project)](http://msdn.microsoft.com/library/88603abc-e988-9ab3-dc83-c44221da13b9%28Office.15%29.aspx)
+[Project.ProjectSummaryTask Property (Project)](https://msdn.microsoft.com/library/88603abc-e988-9ab3-dc83-c44221da13b9%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

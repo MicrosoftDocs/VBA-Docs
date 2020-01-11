@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[NavigationButton.ControlTipText property (Access)](http://msdn.microsoft.com/library/25ffbfdf-58e6-0bc0-a2b8-c4e94f85b864%28Office.15%29.aspx)
+[NavigationButton.ControlTipText property (Access)](https://msdn.microsoft.com/library/25ffbfdf-58e6-0bc0-a2b8-c4e94f85b864%28Office.15%29.aspx)
 
-[CommandButton.ControlTipText property (Access)](http://msdn.microsoft.com/library/394aecbe-0053-d114-1804-c4ee6a9749d0%28Office.15%29.aspx)
+[CommandButton.ControlTipText property (Access)](https://msdn.microsoft.com/library/394aecbe-0053-d114-1804-c4ee6a9749d0%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

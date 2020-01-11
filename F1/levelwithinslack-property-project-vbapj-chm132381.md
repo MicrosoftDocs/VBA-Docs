@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.LevelWithinSlack Property (Project)](http://msdn.microsoft.com/library/08c7a6ea-fe7d-c5c5-42b4-66940019aa0b%28Office.15%29.aspx)
+[Application.LevelWithinSlack Property (Project)](https://msdn.microsoft.com/library/08c7a6ea-fe7d-c5c5-42b4-66940019aa0b%28Office.15%29.aspx)
 
-[Project.MultipleCriticalPaths Property (Project)](http://msdn.microsoft.com/library/f6ebb491-000e-cd09-b4d6-99d1852fad26%28Office.15%29.aspx)
+[Project.MultipleCriticalPaths Property (Project)](https://msdn.microsoft.com/library/f6ebb491-000e-cd09-b4d6-99d1852fad26%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

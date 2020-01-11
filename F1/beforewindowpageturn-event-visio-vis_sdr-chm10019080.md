@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[InvisibleApp.BeforeWindowPageTurn Event (Visio)](http://msdn.microsoft.com/library/7bcdf0f3-2825-9205-06fb-252170018073%28Office.15%29.aspx)
+[InvisibleApp.BeforeWindowPageTurn Event (Visio)](https://msdn.microsoft.com/library/7bcdf0f3-2825-9205-06fb-252170018073%28Office.15%29.aspx)
 
-[Application.BeforeWindowPageTurn Event (Visio)](http://msdn.microsoft.com/library/ddb79c04-7cb4-61fd-a37d-d5969e445d5c%28Office.15%29.aspx)
+[Application.BeforeWindowPageTurn Event (Visio)](https://msdn.microsoft.com/library/ddb79c04-7cb4-61fd-a37d-d5969e445d5c%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

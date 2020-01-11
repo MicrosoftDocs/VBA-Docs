@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Project.HoursPerWeek Property (Project)](http://msdn.microsoft.com/library/f7341297-1dae-cd6d-1e13-6bd273dc3d19%28Office.15%29.aspx)
+[Project.HoursPerWeek Property (Project)](https://msdn.microsoft.com/library/f7341297-1dae-cd6d-1e13-6bd273dc3d19%28Office.15%29.aspx)
 
-[Application.LevelFreeformTasks Property (Project)](http://msdn.microsoft.com/library/d9a9abca-0efa-ea38-3665-7f7b7ecccc9e%28Office.15%29.aspx)
+[Application.LevelFreeformTasks Property (Project)](https://msdn.microsoft.com/library/d9a9abca-0efa-ea38-3665-7f7b7ecccc9e%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

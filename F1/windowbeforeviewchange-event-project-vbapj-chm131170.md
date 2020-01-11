@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.WindowBeforeViewChange Event (Project)](http://msdn.microsoft.com/library/c3eb450d-2a74-6ae1-175c-1d61c90b22ca%28Office.15%29.aspx)
+[Application.WindowBeforeViewChange Event (Project)](https://msdn.microsoft.com/library/c3eb450d-2a74-6ae1-175c-1d61c90b22ca%28Office.15%29.aspx)
 
-[Application.ProjectBeforeTaskDelete2 Event (Project)](http://msdn.microsoft.com/library/2c695579-bfe4-d109-eebc-4fb258a95c1e%28Office.15%29.aspx)
+[Application.ProjectBeforeTaskDelete2 Event (Project)](https://msdn.microsoft.com/library/2c695579-bfe4-d109-eebc-4fb258a95c1e%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

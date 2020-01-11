@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Rows object (Word)7329593f-e823-6964-9289-07f264d8022d](http://msdn.microsoft.com/library/7329593f-e823-6964-9289-07f264d8022d%28Office.15%29.aspx)
+[Rows object (Word)7329593f-e823-6964-9289-07f264d8022d](https://msdn.microsoft.com/library/7329593f-e823-6964-9289-07f264d8022d%28Office.15%29.aspx)
 
-[Rows object (Word)](http://msdn.microsoft.com/library/cd83d0ef-f743-1886-54de-497017c5f542%28Office.15%29.aspx)
+[Rows object (Word)](https://msdn.microsoft.com/library/cd83d0ef-f743-1886-54de-497017c5f542%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

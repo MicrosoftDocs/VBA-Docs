@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[NavigationButton.TabIndex property (Access)](http://msdn.microsoft.com/library/2042a31a-ae68-665b-624e-1a41ad7b7c37%28Office.15%29.aspx)
+[NavigationButton.TabIndex property (Access)](https://msdn.microsoft.com/library/2042a31a-ae68-665b-624e-1a41ad7b7c37%28Office.15%29.aspx)
 
-[CommandButton.TabIndex property (Access)](http://msdn.microsoft.com/library/f8b37846-6a65-6b39-9234-5cd77049c907%28Office.15%29.aspx)
+[CommandButton.TabIndex property (Access)](https://msdn.microsoft.com/library/f8b37846-6a65-6b39-9234-5cd77049c907%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

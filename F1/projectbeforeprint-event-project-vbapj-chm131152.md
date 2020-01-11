@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.ProjectBeforePrint Event (Project)](http://msdn.microsoft.com/library/7cc8de23-c3e3-81df-ae26-37c4e639dd81%28Office.15%29.aspx)
+[Application.ProjectBeforePrint Event (Project)](https://msdn.microsoft.com/library/7cc8de23-c3e3-81df-ae26-37c4e639dd81%28Office.15%29.aspx)
 
-[Application.ProjectBeforeClearBaseline Event (Project)](http://msdn.microsoft.com/library/4aa11658-7962-a46f-c914-5ed3bebd15a3%28Office.15%29.aspx)
+[Application.ProjectBeforeClearBaseline Event (Project)](https://msdn.microsoft.com/library/4aa11658-7962-a46f-c914-5ed3bebd15a3%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

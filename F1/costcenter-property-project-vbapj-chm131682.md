@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Resource.CostCenter Property (Project)](http://msdn.microsoft.com/library/e6639803-e3f6-9e04-0b44-0bdc6c12348c%28Office.15%29.aspx)
+[Resource.CostCenter Property (Project)](https://msdn.microsoft.com/library/e6639803-e3f6-9e04-0b44-0bdc6c12348c%28Office.15%29.aspx)
 
-[Project.CurrencyDigits Property (Project)](http://msdn.microsoft.com/library/ca22d390-d3ff-6796-b43d-409d118eae53%28Office.15%29.aspx)
+[Project.CurrencyDigits Property (Project)](https://msdn.microsoft.com/library/ca22d390-d3ff-6796-b43d-409d118eae53%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

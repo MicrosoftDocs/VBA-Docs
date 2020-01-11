@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[NavigationControl.Move method (Access)](http://msdn.microsoft.com/library/bbf4e87e-8468-7cfd-7cd4-5f423a6517c8%28Office.15%29.aspx)
+[NavigationControl.Move method (Access)](https://msdn.microsoft.com/library/bbf4e87e-8468-7cfd-7cd4-5f423a6517c8%28Office.15%29.aspx)
 
-[TextBox.Move method (Access)](http://msdn.microsoft.com/library/50b25305-0b91-378d-514f-d35b8d7aed6e%28Office.15%29.aspx)
+[TextBox.Move method (Access)](https://msdn.microsoft.com/library/50b25305-0b91-378d-514f-d35b8d7aed6e%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

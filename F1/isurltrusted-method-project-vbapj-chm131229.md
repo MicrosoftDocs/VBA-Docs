@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.IsURLTrusted Method (Project)](http://msdn.microsoft.com/library/850f5c99-7412-3da7-e136-04f86cd7c42d%28Office.15%29.aspx)
+[Application.IsURLTrusted Method (Project)](https://msdn.microsoft.com/library/850f5c99-7412-3da7-e136-04f86cd7c42d%28Office.15%29.aspx)
 
-[Task.LinkPredecessors Method (Project)](http://msdn.microsoft.com/library/6aaf3dfc-3f8c-a7a7-9f7f-59bd1d5a50b3%28Office.15%29.aspx)
+[Task.LinkPredecessors Method (Project)](https://msdn.microsoft.com/library/6aaf3dfc-3f8c-a7a7-9f7f-59bd1d5a50b3%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

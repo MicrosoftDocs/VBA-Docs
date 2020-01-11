@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ObjectFrame.OLEClass property (Access)](http://msdn.microsoft.com/library/ed32f15c-77da-0bd6-46da-38373ea37cc1%28Office.15%29.aspx)
+[ObjectFrame.OLEClass property (Access)](https://msdn.microsoft.com/library/ed32f15c-77da-0bd6-46da-38373ea37cc1%28Office.15%29.aspx)
 
-[CustomControl.OLEClass property (Access)](http://msdn.microsoft.com/library/d9aad7b9-6388-3365-881a-6e42ebebcfd6%28Office.15%29.aspx)
+[CustomControl.OLEClass property (Access)](https://msdn.microsoft.com/library/d9aad7b9-6388-3365-881a-6e42ebebcfd6%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

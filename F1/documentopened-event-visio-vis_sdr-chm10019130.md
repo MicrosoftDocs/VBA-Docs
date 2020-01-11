@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.DocumentOpened Event (Visio)](http://msdn.microsoft.com/library/daaf496c-1c9c-cdc1-a06c-ac8cc8fd912f%28Office.15%29.aspx)
+[Application.DocumentOpened Event (Visio)](https://msdn.microsoft.com/library/daaf496c-1c9c-cdc1-a06c-ac8cc8fd912f%28Office.15%29.aspx)
 
-[InvisibleApp.DocumentOpened Event (Visio)](http://msdn.microsoft.com/library/546516c5-74fe-bbfb-8788-f662de9179d5%28Office.15%29.aspx)
+[InvisibleApp.DocumentOpened Event (Visio)](https://msdn.microsoft.com/library/546516c5-74fe-bbfb-8788-f662de9179d5%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[DataLabels.Orientation Property (PowerPoint)](http://msdn.microsoft.com/library/db210fce-1242-63bc-0b0c-2e2d5c1aba39%28Office.15%29.aspx)
+[DataLabels.Orientation Property (PowerPoint)](https://msdn.microsoft.com/library/db210fce-1242-63bc-0b0c-2e2d5c1aba39%28Office.15%29.aspx)
 
-[DataLabel.Orientation Property (PowerPoint)](http://msdn.microsoft.com/library/2e7c4976-0549-9e03-6564-fb5db8667d64%28Office.15%29.aspx)
+[DataLabel.Orientation Property (PowerPoint)](https://msdn.microsoft.com/library/2e7c4976-0549-9e03-6564-fb5db8667d64%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

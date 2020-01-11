@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Footnotes object (Word)](http://msdn.microsoft.com/library/d46a0972-2784-4814-d547-30122a35cdc1%28Office.15%29.aspx)
+[Footnotes object (Word)](https://msdn.microsoft.com/library/d46a0972-2784-4814-d547-30122a35cdc1%28Office.15%29.aspx)
 
-[Footnotes object (Word)03d334a5-859f-0d7a-2772-e9fa162fd258](http://msdn.microsoft.com/library/03d334a5-859f-0d7a-2772-e9fa162fd258%28Office.15%29.aspx)
+[Footnotes object (Word)03d334a5-859f-0d7a-2772-e9fa162fd258](https://msdn.microsoft.com/library/03d334a5-859f-0d7a-2772-e9fa162fd258%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

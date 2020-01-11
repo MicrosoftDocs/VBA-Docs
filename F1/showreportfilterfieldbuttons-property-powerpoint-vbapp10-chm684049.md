@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Chart.ShowReportFilterFieldButtons Property (PowerPoint)](http://msdn.microsoft.com/library/a254a18b-466a-bee4-772e-3352dc27249b%28Office.15%29.aspx)
+[Chart.ShowReportFilterFieldButtons Property (PowerPoint)](https://msdn.microsoft.com/library/a254a18b-466a-bee4-772e-3352dc27249b%28Office.15%29.aspx)
 
-[Chart.InDraftMode Property (PowerPoint)](http://msdn.microsoft.com/library/be234117-a63e-dd10-3bdb-50f2c5692f65%28Office.15%29.aspx)
+[Chart.InDraftMode Property (PowerPoint)](https://msdn.microsoft.com/library/be234117-a63e-dd10-3bdb-50f2c5692f65%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

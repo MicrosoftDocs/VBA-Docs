@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[XMLNodes object (Word)4fbf912f-b3d7-9055-74d2-1db53aa0852a](http://msdn.microsoft.com/library/4fbf912f-b3d7-9055-74d2-1db53aa0852a%28Office.15%29.aspx)
+[XMLNodes object (Word)4fbf912f-b3d7-9055-74d2-1db53aa0852a](https://msdn.microsoft.com/library/4fbf912f-b3d7-9055-74d2-1db53aa0852a%28Office.15%29.aspx)
 
-[XMLNodes object (Word)](http://msdn.microsoft.com/library/c29850f2-8db2-aef6-57ee-fed1b625616c%28Office.15%29.aspx)
+[XMLNodes object (Word)](https://msdn.microsoft.com/library/c29850f2-8db2-aef6-57ee-fed1b625616c%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

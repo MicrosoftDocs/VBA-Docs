@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CommandButton.AddColon property (Access)](http://msdn.microsoft.com/library/cde177a8-b5a8-5063-d061-a81dfbfc2857%28Office.15%29.aspx)
+[CommandButton.AddColon property (Access)](https://msdn.microsoft.com/library/cde177a8-b5a8-5063-d061-a81dfbfc2857%28Office.15%29.aspx)
 
-[NavigationButton.AddColon property (Access)](http://msdn.microsoft.com/library/37ea2802-2747-f220-427f-d6ae7df96f10%28Office.15%29.aspx)
+[NavigationButton.AddColon property (Access)](https://msdn.microsoft.com/library/37ea2802-2747-f220-427f-d6ae7df96f10%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

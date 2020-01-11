@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CodeProject.IsWeb property (Access)](http://msdn.microsoft.com/library/6591c95c-db86-95f0-24b5-5da5f4823a22%28Office.15%29.aspx)
+[CodeProject.IsWeb property (Access)](https://msdn.microsoft.com/library/6591c95c-db86-95f0-24b5-5da5f4823a22%28Office.15%29.aspx)
 
-[CurrentProject.IsWeb property (Access)](http://msdn.microsoft.com/library/dbcd7b51-75d1-54c7-9c49-7b1ea403c4d9%28Office.15%29.aspx)
+[CurrentProject.IsWeb property (Access)](https://msdn.microsoft.com/library/dbcd7b51-75d1-54c7-9c49-7b1ea403c4d9%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

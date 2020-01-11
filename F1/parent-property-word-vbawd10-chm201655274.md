@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Research.Parent property (Word)](http://msdn.microsoft.com/library/0f84e50c-0aca-50ba-8cea-40107f67518b%28Office.15%29.aspx)
+[Research.Parent property (Word)](https://msdn.microsoft.com/library/0f84e50c-0aca-50ba-8cea-40107f67518b%28Office.15%29.aspx)
 
-[TaskPanes.Parent property (Word)](http://msdn.microsoft.com/library/06faa655-fb00-d840-a2f0-a4a3cc5977aa%28Office.15%29.aspx)
+[TaskPanes.Parent property (Word)](https://msdn.microsoft.com/library/06faa655-fb00-d840-a2f0-a4a3cc5977aa%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

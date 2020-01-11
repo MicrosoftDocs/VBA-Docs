@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.ProjectBeforeResourceChange2 Event (Project)](http://msdn.microsoft.com/library/84128c94-0d0d-f8f2-6d5a-4c05a61a0a8d%28Office.15%29.aspx)
+[Application.ProjectBeforeResourceChange2 Event (Project)](https://msdn.microsoft.com/library/84128c94-0d0d-f8f2-6d5a-4c05a61a0a8d%28Office.15%29.aspx)
 
-[Application.ProjectBeforeResourceNew Event (Project)](http://msdn.microsoft.com/library/a432c713-d1fa-0743-ff4e-90fbd724dfe4%28Office.15%29.aspx)
+[Application.ProjectBeforeResourceNew Event (Project)](https://msdn.microsoft.com/library/a432c713-d1fa-0743-ff4e-90fbd724dfe4%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

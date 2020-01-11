@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Page.DropIntoList Method (Visio)](http://msdn.microsoft.com/library/877506b8-3131-47af-3a7e-48a1b8aefa2b.aspx)
+[Page.DropIntoList Method (Visio)](https://msdn.microsoft.com/library/877506b8-3131-47af-3a7e-48a1b8aefa2b.aspx)
 
-[Page.DropIntoList Method (Visio)](http://msdn.microsoft.com/library/fcefca11-d64b-9f95-a00e-bf9968d26267%28Office.15%29.aspx)
+[Page.DropIntoList Method (Visio)](https://msdn.microsoft.com/library/fcefca11-d64b-9f95-a00e-bf9968d26267%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

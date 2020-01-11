@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Project.TaskViewList Property (Project)](http://msdn.microsoft.com/library/86d408a2-ed60-fde0-8849-17167d71f6d6%28Office.15%29.aspx)
+[Project.TaskViewList Property (Project)](https://msdn.microsoft.com/library/86d408a2-ed60-fde0-8849-17167d71f6d6%28Office.15%29.aspx)
 
-[Subproject.SourceProject Property (Project)](http://msdn.microsoft.com/library/4135a5c9-eacb-12d3-b631-1d30d689f666%28Office.15%29.aspx)
+[Subproject.SourceProject Property (Project)](https://msdn.microsoft.com/library/4135a5c9-eacb-12d3-b631-1d30d689f666%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

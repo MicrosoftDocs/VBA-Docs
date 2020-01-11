@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.Estimated Property (Project)](http://msdn.microsoft.com/library/d6fb8a45-8ccf-b1ed-06d5-2855ac2abb46%28Office.15%29.aspx)
+[Task.Estimated Property (Project)](https://msdn.microsoft.com/library/d6fb8a45-8ccf-b1ed-06d5-2855ac2abb46%28Office.15%29.aspx)
 
-[Assignment.FixedMaterialAssignment Property (Project)](http://msdn.microsoft.com/library/16593466-1d5e-27b3-110d-e5cfeb165355%28Office.15%29.aspx)
+[Assignment.FixedMaterialAssignment Property (Project)](https://msdn.microsoft.com/library/16593466-1d5e-27b3-110d-e5cfeb165355%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

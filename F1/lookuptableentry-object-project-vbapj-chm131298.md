@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[LookupTableEntry Object (Project)](http://msdn.microsoft.com/library/5be081fa-6f4e-9571-e1e2-c4652871b756%28Office.15%29.aspx)
+[LookupTableEntry Object (Project)](https://msdn.microsoft.com/library/5be081fa-6f4e-9571-e1e2-c4652871b756%28Office.15%29.aspx)
 
-[Pane Object (Project)](http://msdn.microsoft.com/library/a6995e47-c0a0-2c5e-269f-d7a59d20f982%28Office.15%29.aspx)
+[Pane Object (Project)](https://msdn.microsoft.com/library/a6995e47-c0a0-2c5e-269f-d7a59d20f982%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

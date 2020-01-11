@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-- [NavigationControl.GridlineWidthBottom property (Access)](http://msdn.microsoft.com/library/513fdb37-b479-7022-e0c7-4f8d8209ede9%28Office.15%29.aspx)
+- [NavigationControl.GridlineWidthBottom property (Access)](https://msdn.microsoft.com/library/513fdb37-b479-7022-e0c7-4f8d8209ede9%28Office.15%29.aspx)
 
-- [TextBox.GridlineWidthBottom property (Access)](http://msdn.microsoft.com/library/4569d053-008b-a4ce-374f-6078f5ea9bee%28Office.15%29.aspx)
+- [TextBox.GridlineWidthBottom property (Access)](https://msdn.microsoft.com/library/4569d053-008b-a4ce-374f-6078f5ea9bee%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

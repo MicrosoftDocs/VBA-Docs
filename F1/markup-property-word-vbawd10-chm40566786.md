@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[RevisionsFilter.Markup property (Word)](http://msdn.microsoft.com/library/90b90dd8-ead3-8e3c-f27e-a4614d12798c%28Office.15%29.aspx)
+[RevisionsFilter.Markup property (Word)](https://msdn.microsoft.com/library/90b90dd8-ead3-8e3c-f27e-a4614d12798c%28Office.15%29.aspx)
 
-[Sources.Count property (Word)](http://msdn.microsoft.com/library/06a6f0b3-1591-52b3-fcff-aca4324a80e3%28Office.15%29.aspx)
+[Sources.Count property (Word)](https://msdn.microsoft.com/library/06a6f0b3-1591-52b3-fcff-aca4324a80e3%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

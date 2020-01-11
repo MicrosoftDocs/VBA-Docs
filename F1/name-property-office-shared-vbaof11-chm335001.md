@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[PickerField.Name Property (Office)](http://msdn.microsoft.com/library/9088c760-e35e-4a2f-9fc2-da24e7b4ecdd%28Office.15%29.aspx)
+[PickerField.Name Property (Office)](https://msdn.microsoft.com/library/9088c760-e35e-4a2f-9fc2-da24e7b4ecdd%28Office.15%29.aspx)
 
-[PickerFields.Item Property (Office)](http://msdn.microsoft.com/library/f4336206-b8d0-d329-96a5-e9c4c210796f%28Office.15%29.aspx)
+[PickerFields.Item Property (Office)](https://msdn.microsoft.com/library/f4336206-b8d0-d329-96a5-e9c4c210796f%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

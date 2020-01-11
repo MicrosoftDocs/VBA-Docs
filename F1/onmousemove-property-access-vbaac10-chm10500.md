@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[NavigationButton.OnMouseMove property (Access)](http://msdn.microsoft.com/library/aca4fe0f-c768-83b3-5383-a18720a5b301%28Office.15%29.aspx)
+[NavigationButton.OnMouseMove property (Access)](https://msdn.microsoft.com/library/aca4fe0f-c768-83b3-5383-a18720a5b301%28Office.15%29.aspx)
 
-[CommandButton.OnMouseMove property (Access)](http://msdn.microsoft.com/library/1b24e970-1f29-af26-2d01-e6587812bf13%28Office.15%29.aspx)
+[CommandButton.OnMouseMove property (Access)](https://msdn.microsoft.com/library/1b24e970-1f29-af26-2d01-e6587812bf13%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

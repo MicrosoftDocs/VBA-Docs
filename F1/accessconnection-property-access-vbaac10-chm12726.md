@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-- [CurrentProject.AccessConnection property (Access)](http://msdn.microsoft.com/library/c2bf2846-c5ab-34a2-4b24-33c9cc9820c4%28Office.15%29.aspx)
+- [CurrentProject.AccessConnection property (Access)](https://msdn.microsoft.com/library/c2bf2846-c5ab-34a2-4b24-33c9cc9820c4%28Office.15%29.aspx)
 
-- [CodeProject.AccessConnection property (Access)](http://msdn.microsoft.com/library/04b389d0-b87f-9eb9-f067-6b5e0d68e3f8%28Office.15%29.aspx)
+- [CodeProject.AccessConnection property (Access)](https://msdn.microsoft.com/library/04b389d0-b87f-9eb9-f067-6b5e0d68e3f8%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

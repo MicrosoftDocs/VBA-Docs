@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CommandButton.GotFocus event (Access)](http://msdn.microsoft.com/library/b8ad669d-6353-ff62-5b06-5fda93d50327%28Office.15%29.aspx)
+[CommandButton.GotFocus event (Access)](https://msdn.microsoft.com/library/b8ad669d-6353-ff62-5b06-5fda93d50327%28Office.15%29.aspx)
 
-[NavigationButton.GotFocus event (Access)](http://msdn.microsoft.com/library/3adf6a7e-34d5-e1ce-e621-8662153156e9%28Office.15%29.aspx)
+[NavigationButton.GotFocus event (Access)](https://msdn.microsoft.com/library/3adf6a7e-34d5-e1ce-e621-8662153156e9%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

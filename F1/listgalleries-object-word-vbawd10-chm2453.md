@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ListGalleries object (Word)2e6c2ce3-2cae-59ed-8aef-77f5c9fe1534](http://msdn.microsoft.com/library/2e6c2ce3-2cae-59ed-8aef-77f5c9fe1534%28Office.15%29.aspx)
+[ListGalleries object (Word)2e6c2ce3-2cae-59ed-8aef-77f5c9fe1534](https://msdn.microsoft.com/library/2e6c2ce3-2cae-59ed-8aef-77f5c9fe1534%28Office.15%29.aspx)
 
-[ListGalleries object (Word)](http://msdn.microsoft.com/library/3ae91fbf-fb7c-e96f-fd13-e4e4e9c4f09e%28Office.15%29.aspx)
+[ListGalleries object (Word)](https://msdn.microsoft.com/library/3ae91fbf-fb7c-e96f-fd13-e4e4e9c4f09e%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

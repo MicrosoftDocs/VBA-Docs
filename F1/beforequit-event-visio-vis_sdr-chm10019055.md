@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.BeforeQuit Event (Visio)](http://msdn.microsoft.com/library/ad5ed704-4e7e-f8a9-b238-3c552dc3f292%28Office.15%29.aspx)
+[Application.BeforeQuit Event (Visio)](https://msdn.microsoft.com/library/ad5ed704-4e7e-f8a9-b238-3c552dc3f292%28Office.15%29.aspx)
 
-[InvisibleApp.BeforeQuit Event (Visio)](http://msdn.microsoft.com/library/b2554719-ada7-9bed-3ace-9e430c478e7a%28Office.15%29.aspx)
+[InvisibleApp.BeforeQuit Event (Visio)](https://msdn.microsoft.com/library/b2554719-ada7-9bed-3ace-9e430c478e7a%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

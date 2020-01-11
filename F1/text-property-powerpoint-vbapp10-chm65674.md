@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[DataLabel.Text Property (PowerPoint)](http://msdn.microsoft.com/library/fbd8fff8-8682-5e41-55e1-3294979803e0%28Office.15%29.aspx)
+[DataLabel.Text Property (PowerPoint)](https://msdn.microsoft.com/library/fbd8fff8-8682-5e41-55e1-3294979803e0%28Office.15%29.aspx)
 
-[ChartCharacters.Text Property (PowerPoint)](http://msdn.microsoft.com/library/c38177fd-c248-4427-8243-510e810bbddb%28Office.15%29.aspx)
+[ChartCharacters.Text Property (PowerPoint)](https://msdn.microsoft.com/library/c38177fd-c248-4427-8243-510e810bbddb%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

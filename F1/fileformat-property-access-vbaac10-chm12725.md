@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CodeProject.FileFormat property (Access)](http://msdn.microsoft.com/library/f72e13d7-58dc-3710-b1e7-798a71601ceb%28Office.15%29.aspx)
+[CodeProject.FileFormat property (Access)](https://msdn.microsoft.com/library/f72e13d7-58dc-3710-b1e7-798a71601ceb%28Office.15%29.aspx)
 
-[CurrentProject.FileFormat property (Access)](http://msdn.microsoft.com/library/eb062d95-3042-eae7-9c0b-9d052e28b8cd%28Office.15%29.aspx)
+[CurrentProject.FileFormat property (Access)](https://msdn.microsoft.com/library/eb062d95-3042-eae7-9c0b-9d052e28b8cd%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

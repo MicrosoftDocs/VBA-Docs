@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ChartFormat.Application Property (PowerPoint)](http://msdn.microsoft.com/library/de828024-79ad-1572-baaf-6c62af532832%28Office.15%29.aspx)
+[ChartFormat.Application Property (PowerPoint)](https://msdn.microsoft.com/library/de828024-79ad-1572-baaf-6c62af532832%28Office.15%29.aspx)
 
-[ChartFormat.Adjustments Property (PowerPoint)](http://msdn.microsoft.com/library/ff27cd8d-ccb7-189a-51b6-cabdbbe0a505%28Office.15%29.aspx)
+[ChartFormat.Adjustments Property (PowerPoint)](https://msdn.microsoft.com/library/ff27cd8d-ccb7-189a-51b6-cabdbbe0a505%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

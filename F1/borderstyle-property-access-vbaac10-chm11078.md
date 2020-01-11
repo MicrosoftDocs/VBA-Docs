@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TextBox.BorderStyle property (Access)](http://msdn.microsoft.com/library/783c9424-669f-fcc7-b23d-6f5de03bad79%28Office.15%29.aspx)
+[TextBox.BorderStyle property (Access)](https://msdn.microsoft.com/library/783c9424-669f-fcc7-b23d-6f5de03bad79%28Office.15%29.aspx)
 
-[NavigationControl.BorderStyle property (Access)](http://msdn.microsoft.com/library/9135151b-2e00-ac34-9c82-a85c76b97eb5%28Office.15%29.aspx)
+[NavigationControl.BorderStyle property (Access)](https://msdn.microsoft.com/library/9135151b-2e00-ac34-9c82-a85c76b97eb5%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

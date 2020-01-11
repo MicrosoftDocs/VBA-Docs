@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[InvisibleApp.EnterScope Event (Visio)](http://msdn.microsoft.com/library/51754dcb-fdad-ce88-eec7-d66a9c27813b%28Office.15%29.aspx)
+[InvisibleApp.EnterScope Event (Visio)](https://msdn.microsoft.com/library/51754dcb-fdad-ce88-eec7-d66a9c27813b%28Office.15%29.aspx)
 
-[Application.EnterScope Event (Visio)](http://msdn.microsoft.com/library/f7935021-2458-cc8e-dd25-d8d2eb16fa6d%28Office.15%29.aspx)
+[Application.EnterScope Event (Visio)](https://msdn.microsoft.com/library/f7935021-2458-cc8e-dd25-d8d2eb16fa6d%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

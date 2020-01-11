@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[AccessObject.Type property (Access)](http://msdn.microsoft.com/library/205384a2-13da-d4b7-ed6e-741fb21f24c0%28Office.15%29.aspx)
+[AccessObject.Type property (Access)](https://msdn.microsoft.com/library/205384a2-13da-d4b7-ed6e-741fb21f24c0%28Office.15%29.aspx)
 
-[WSParameter.Type property (Access)](http://msdn.microsoft.com/library/c3ab559c-f364-63c4-df45-d48dfe569f08%28Office.15%29.aspx)
+[WSParameter.Type property (Access)](https://msdn.microsoft.com/library/c3ab559c-f364-63c4-df45-d48dfe569f08%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

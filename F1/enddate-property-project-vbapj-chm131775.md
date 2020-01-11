@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TimeScaleValue.EndDate Property (Project)](http://msdn.microsoft.com/library/e9acd4f8-b002-5195-2e0c-505b633a3b54%28Office.15%29.aspx)
+[TimeScaleValue.EndDate Property (Project)](https://msdn.microsoft.com/library/e9acd4f8-b002-5195-2e0c-505b633a3b54%28Office.15%29.aspx)
 
-[Task.Duration6Estimated Property (Project)](http://msdn.microsoft.com/library/b616fe87-d9ec-b1d6-a218-511ca592fa4d%28Office.15%29.aspx)
+[Task.Duration6Estimated Property (Project)](https://msdn.microsoft.com/library/b616fe87-d9ec-b1d6-a218-511ca592fa4d%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

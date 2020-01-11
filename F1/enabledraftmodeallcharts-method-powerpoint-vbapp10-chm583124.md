@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Presentation.EnableDraftModeAllCharts Method (PowerPoint)](http://msdn.microsoft.com/library/85e926aa-5ee8-23b1-bfef-0954ac31f3cd%28Office.15%29.aspx)
+[Presentation.EnableDraftModeAllCharts Method (PowerPoint)](https://msdn.microsoft.com/library/85e926aa-5ee8-23b1-bfef-0954ac31f3cd%28Office.15%29.aspx)
 
-[Presentation.ApplyTemplate2 Method (PowerPoint)](http://msdn.microsoft.com/library/43d6d14a-078f-eefa-8ad5-981b0cb6ccb9%28Office.15%29.aspx)
+[Presentation.ApplyTemplate2 Method (PowerPoint)](https://msdn.microsoft.com/library/43d6d14a-078f-eefa-8ad5-981b0cb6ccb9%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

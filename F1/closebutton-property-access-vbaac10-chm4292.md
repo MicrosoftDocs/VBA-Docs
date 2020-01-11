@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.CloseButton property (Access)](http://msdn.microsoft.com/library/c87e3752-0a77-3e5e-9c82-20effaf0af1e%28Office.15%29.aspx)
+[Form.CloseButton property (Access)](https://msdn.microsoft.com/library/c87e3752-0a77-3e5e-9c82-20effaf0af1e%28Office.15%29.aspx)
 
-[Report.CloseButton property (Access)](http://msdn.microsoft.com/library/dad15f66-4787-a4eb-dbbe-d698faaa0917%28Office.15%29.aspx)
+[Report.CloseButton property (Access)](https://msdn.microsoft.com/library/dad15f66-4787-a4eb-dbbe-d698faaa0917%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

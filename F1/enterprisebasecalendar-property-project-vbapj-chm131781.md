@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Resource.EnterpriseBaseCalendar Property (Project)](http://msdn.microsoft.com/library/ca731acc-c507-c329-adb8-0aacc975bedf%28Office.15%29.aspx)
+[Resource.EnterpriseBaseCalendar Property (Project)](https://msdn.microsoft.com/library/ca731acc-c507-c329-adb8-0aacc975bedf%28Office.15%29.aspx)
 
-[Task.Duration9Estimated Property (Project)](http://msdn.microsoft.com/library/faefb7e1-c308-755d-6905-a0aa7cfc6aea%28Office.15%29.aspx)
+[Task.Duration9Estimated Property (Project)](https://msdn.microsoft.com/library/faefb7e1-c308-755d-6905-a0aa7cfc6aea%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

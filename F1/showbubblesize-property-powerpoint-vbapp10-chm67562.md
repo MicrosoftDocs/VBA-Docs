@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[DataLabels.ShowBubbleSize Property (PowerPoint)](http://msdn.microsoft.com/library/78cb2f6f-f13c-9cc6-9842-ba8000273165%28Office.15%29.aspx)
+[DataLabels.ShowBubbleSize Property (PowerPoint)](https://msdn.microsoft.com/library/78cb2f6f-f13c-9cc6-9842-ba8000273165%28Office.15%29.aspx)
 
-[DataLabel.ShowBubbleSize Property (PowerPoint)](http://msdn.microsoft.com/library/a6bbef53-ff4a-7766-2a6b-f9b5907bebf3%28Office.15%29.aspx)
+[DataLabel.ShowBubbleSize Property (PowerPoint)](https://msdn.microsoft.com/library/a6bbef53-ff4a-7766-2a6b-f9b5907bebf3%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

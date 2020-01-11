@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.KeyPreview property (Access)](http://msdn.microsoft.com/library/f9153ec0-8b6e-60d5-8541-100e2ad1705e%28Office.15%29.aspx)
+[Form.KeyPreview property (Access)](https://msdn.microsoft.com/library/f9153ec0-8b6e-60d5-8541-100e2ad1705e%28Office.15%29.aspx)
 
-[Report.KeyPreview property (Access)](http://msdn.microsoft.com/library/49ca195d-bd9e-7a69-1891-455581bcf09a%28Office.15%29.aspx)
+[Report.KeyPreview property (Access)](https://msdn.microsoft.com/library/49ca195d-bd9e-7a69-1891-455581bcf09a%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[LookupTableEntry.FullName Property (Project)](http://msdn.microsoft.com/library/e1181061-5d49-7ae9-360f-1c397d744422%28Office.15%29.aspx)
+[LookupTableEntry.FullName Property (Project)](https://msdn.microsoft.com/library/e1181061-5d49-7ae9-360f-1c397d744422%28Office.15%29.aspx)
 
-[Task.IsPublished Property (Project)](http://msdn.microsoft.com/library/ace2c679-37fe-a3fc-b5f4-de55128efd05%28Office.15%29.aspx)
+[Task.IsPublished Property (Project)](https://msdn.microsoft.com/library/ace2c679-37fe-a3fc-b5f4-de55128efd05%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

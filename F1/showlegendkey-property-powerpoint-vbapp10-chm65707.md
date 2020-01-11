@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[DataLabels.ShowLegendKey Property (PowerPoint)](http://msdn.microsoft.com/library/84080842-b3ab-0617-e0b2-04e865f968c9%28Office.15%29.aspx)
+[DataLabels.ShowLegendKey Property (PowerPoint)](https://msdn.microsoft.com/library/84080842-b3ab-0617-e0b2-04e865f968c9%28Office.15%29.aspx)
 
-[DataLabel.ShowLegendKey Property (PowerPoint)](http://msdn.microsoft.com/library/1cd5f3a4-056d-ccb6-140f-08ec1e416eda%28Office.15%29.aspx)
+[DataLabel.ShowLegendKey Property (PowerPoint)](https://msdn.microsoft.com/library/1cd5f3a4-056d-ccb6-140f-08ec1e416eda%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

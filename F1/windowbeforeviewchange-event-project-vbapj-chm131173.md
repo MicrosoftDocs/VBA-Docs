@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.WindowBeforeViewChange Event (Project)](http://msdn.microsoft.com/library/c3eb450d-2a74-6ae1-175c-1d61c90b22ca%28Office.15%29.aspx)
+[Application.WindowBeforeViewChange Event (Project)](https://msdn.microsoft.com/library/c3eb450d-2a74-6ae1-175c-1d61c90b22ca%28Office.15%29.aspx)
 
-[Application.IsFunctionalitySupported Event (Project)](http://msdn.microsoft.com/library/f6462a3b-5a36-3b2e-79bd-78cce567aed8%28Office.15%29.aspx)
+[Application.IsFunctionalitySupported Event (Project)](https://msdn.microsoft.com/library/f6462a3b-5a36-3b2e-79bd-78cce567aed8%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

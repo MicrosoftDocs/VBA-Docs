@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ObjectFrame.UpdateOptions property (Access)](http://msdn.microsoft.com/library/29effba2-7427-62ca-c0d6-6ed5081b0e02%28Office.15%29.aspx)
+[ObjectFrame.UpdateOptions property (Access)](https://msdn.microsoft.com/library/29effba2-7427-62ca-c0d6-6ed5081b0e02%28Office.15%29.aspx)
 
-[BoundObjectFrame.UpdateOptions property (Access)](http://msdn.microsoft.com/library/919ad3b4-1128-947a-09c0-7c7b0373698e%28Office.15%29.aspx)
+[BoundObjectFrame.UpdateOptions property (Access)](https://msdn.microsoft.com/library/919ad3b4-1128-947a-09c0-7c7b0373698e%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

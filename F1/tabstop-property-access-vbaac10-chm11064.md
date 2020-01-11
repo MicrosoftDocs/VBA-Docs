@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[NavigationControl.TabStop property (Access)](http://msdn.microsoft.com/library/40aeb05f-b94f-ee88-5e98-0f77599c7a14%28Office.15%29.aspx)
+[NavigationControl.TabStop property (Access)](https://msdn.microsoft.com/library/40aeb05f-b94f-ee88-5e98-0f77599c7a14%28Office.15%29.aspx)
 
-[TextBox.TabStop property (Access)](http://msdn.microsoft.com/library/ecb9ede6-e7a8-ca91-9ca3-3fad9de2ef90%28Office.15%29.aspx)
+[TextBox.TabStop property (Access)](https://msdn.microsoft.com/library/ecb9ede6-e7a8-ca91-9ca3-3fad9de2ef90%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

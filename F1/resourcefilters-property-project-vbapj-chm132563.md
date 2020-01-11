@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Project.ResourceFilters Property (Project)](http://msdn.microsoft.com/library/8fb48a77-85de-2c73-0ab7-614084ec33dd%28Office.15%29.aspx)
+[Project.ResourceFilters Property (Project)](https://msdn.microsoft.com/library/8fb48a77-85de-2c73-0ab7-614084ec33dd%28Office.15%29.aspx)
 
-[Series.XValues Property (Project)](http://msdn.microsoft.com/library/2d35482c-0e90-ec98-219c-bb0911921ee6%28Office.15%29.aspx)
+[Series.XValues Property (Project)](https://msdn.microsoft.com/library/2d35482c-0e90-ec98-219c-bb0911921ee6%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Paths Object (Visio)](http://msdn.microsoft.com/library/9adcc130-555e-7eee-d9a0-66ee7116e41f%28Office.15%29.aspx)
+[Paths Object (Visio)](https://msdn.microsoft.com/library/9adcc130-555e-7eee-d9a0-66ee7116e41f%28Office.15%29.aspx)
 
-[Paths Object (Visio)](http://msdn.microsoft.com/library/80a73bdb-f4a5-fea4-fde3-f8417c2d3b27.aspx)
+[Paths Object (Visio)](https://msdn.microsoft.com/library/80a73bdb-f4a5-fea4-fde3-f8417c2d3b27.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

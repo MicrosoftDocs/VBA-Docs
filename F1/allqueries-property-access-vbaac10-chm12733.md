@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CurrentData.AllQueries property (Access)](http://msdn.microsoft.com/library/2204de1a-cc58-2acc-6a72-d4430a23ae2e%28Office.15%29.aspx)
+[CurrentData.AllQueries property (Access)](https://msdn.microsoft.com/library/2204de1a-cc58-2acc-6a72-d4430a23ae2e%28Office.15%29.aspx)
 
-[CodeData.AllQueries property (Access)](http://msdn.microsoft.com/library/4582c885-0f92-60dc-e061-dd2d4a0c6971%28Office.15%29.aspx)
+[CodeData.AllQueries property (Access)](https://msdn.microsoft.com/library/4582c885-0f92-60dc-e061-dd2d4a0c6971%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

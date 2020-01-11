@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[MasterShortcuts Object (Visio)](http://msdn.microsoft.com/library/9a642698-593d-c068-837b-a0b0c8b10d60%28Office.15%29.aspx)
+[MasterShortcuts Object (Visio)](https://msdn.microsoft.com/library/9a642698-593d-c068-837b-a0b0c8b10d60%28Office.15%29.aspx)
 
-[MasterShortcuts Object (Visio)](http://msdn.microsoft.com/library/8d71568b-065b-394a-8dbd-b0b60c62eb8b.aspx)
+[MasterShortcuts Object (Visio)](https://msdn.microsoft.com/library/8d71568b-065b-394a-8dbd-b0b60c62eb8b.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

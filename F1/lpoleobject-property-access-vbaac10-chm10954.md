@@ -14,11 +14,11 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[BoundObjectFrame.LpOleObject property (Access)](http://msdn.microsoft.com/library/0e016e4f-8951-04b6-d8fe-00dba757b04e%28Office.15%29.aspx)
+[BoundObjectFrame.LpOleObject property (Access)](https://msdn.microsoft.com/library/0e016e4f-8951-04b6-d8fe-00dba757b04e%28Office.15%29.aspx)
 
-[BoundObjectFrame.VarOleObject property (Access)](http://msdn.microsoft.com/library/3e1a6a95-d238-45ba-172d-1a1b22fb37be%28Office.15%29.aspx)
+[BoundObjectFrame.VarOleObject property (Access)](https://msdn.microsoft.com/library/3e1a6a95-d238-45ba-172d-1a1b22fb37be%28Office.15%29.aspx)
 
-[CustomControl.VarOleObject property (Access)](http://msdn.microsoft.com/library/7de5433c-a2da-bb8e-35d2-9c7aae1ff2cd%28Office.15%29.aspx)
-[ObjectFrame.VarOleObject property (Access)](http://msdn.microsoft.com/library/e04e769d-07fb-dacc-aa70-ddd3a064d785%28Office.15%29.aspx)
+[CustomControl.VarOleObject property (Access)](https://msdn.microsoft.com/library/7de5433c-a2da-bb8e-35d2-9c7aae1ff2cd%28Office.15%29.aspx)
+[ObjectFrame.VarOleObject property (Access)](https://msdn.microsoft.com/library/e04e769d-07fb-dacc-aa70-ddd3a064d785%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

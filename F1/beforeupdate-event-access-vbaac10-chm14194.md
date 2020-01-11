@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TextBox.BeforeUpdate event (Access)](http://msdn.microsoft.com/library/0d57cbce-bdbf-e19e-7f6a-11a00cb6c5f4%28Office.15%29.aspx)
+[TextBox.BeforeUpdate event (Access)](https://msdn.microsoft.com/library/0d57cbce-bdbf-e19e-7f6a-11a00cb6c5f4%28Office.15%29.aspx)
 
-[NavigationControl.BeforeUpdate event (Access)](http://msdn.microsoft.com/library/397c8bb2-1c8d-fa32-5015-65b58b215b38%28Office.15%29.aspx)
+[NavigationControl.BeforeUpdate event (Access)](https://msdn.microsoft.com/library/397c8bb2-1c8d-fa32-5015-65b58b215b38%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

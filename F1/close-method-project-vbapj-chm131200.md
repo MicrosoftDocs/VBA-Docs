@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Pane.Close Method (Project)](http://msdn.microsoft.com/library/9bd722fd-cd92-9d59-7cdb-9aa40911120a%28Office.15%29.aspx)
+[Pane.Close Method (Project)](https://msdn.microsoft.com/library/9bd722fd-cd92-9d59-7cdb-9aa40911120a%28Office.15%29.aspx)
 
-[Window.Close Method (Project)](http://msdn.microsoft.com/library/820f202b-d609-02e6-eff4-3368b9f93dd5%28Office.15%29.aspx)
+[Window.Close Method (Project)](https://msdn.microsoft.com/library/820f202b-d609-02e6-eff4-3368b9f93dd5%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

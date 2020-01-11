@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.ProjectBeforeClose Event (Project)](http://msdn.microsoft.com/library/90e75c72-03f9-25ab-1339-94d9ff8933a2%28Office.15%29.aspx)
+[Application.ProjectBeforeClose Event (Project)](https://msdn.microsoft.com/library/90e75c72-03f9-25ab-1339-94d9ff8933a2%28Office.15%29.aspx)
 
-[Application.ProjectBeforeAssignmentNew Event (Project)](http://msdn.microsoft.com/library/5caedd9a-94b1-daa6-762a-a037dae4f917%28Office.15%29.aspx)
+[Application.ProjectBeforeAssignmentNew Event (Project)](https://msdn.microsoft.com/library/5caedd9a-94b1-daa6-762a-a037dae4f917%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[InvisibleApp.DocumentCreated Event (Visio)](http://msdn.microsoft.com/library/8d89a102-b89c-d462-fa16-1d296d3b2b51%28Office.15%29.aspx)
+[InvisibleApp.DocumentCreated Event (Visio)](https://msdn.microsoft.com/library/8d89a102-b89c-d462-fa16-1d296d3b2b51%28Office.15%29.aspx)
 
-[Application.DocumentCreated Event (Visio)](http://msdn.microsoft.com/library/322aaaab-97db-61a7-22f7-65645e1d2f2f%28Office.15%29.aspx)
+[Application.DocumentCreated Event (Visio)](https://msdn.microsoft.com/library/322aaaab-97db-61a7-22f7-65645e1d2f2f%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

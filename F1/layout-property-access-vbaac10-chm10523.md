@@ -14,10 +14,10 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CommandButton.Layout property (Access)](http://msdn.microsoft.com/library/61e0b921-ee37-af21-e84f-64f0b682e05c%28Office.15%29.aspx)
+[CommandButton.Layout property (Access)](https://msdn.microsoft.com/library/61e0b921-ee37-af21-e84f-64f0b682e05c%28Office.15%29.aspx)
 
-[CustomControl.Layout property (Access)](http://msdn.microsoft.com/library/5954580e-18f6-87c0-107b-902065cebc90%28Office.15%29.aspx)
+[CustomControl.Layout property (Access)](https://msdn.microsoft.com/library/5954580e-18f6-87c0-107b-902065cebc90%28Office.15%29.aspx)
 
-[NavigationButton.Layout property (Access)](http://msdn.microsoft.com/library/345bd2bf-1f4f-21d5-c4cf-b5fb41f280ea%28Office.15%29.aspx)
+[NavigationButton.Layout property (Access)](https://msdn.microsoft.com/library/345bd2bf-1f4f-21d5-c4cf-b5fb41f280ea%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

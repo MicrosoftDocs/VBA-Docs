@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ViewSingle Object (Project)](http://msdn.microsoft.com/library/41a36448-df16-3ad4-ec98-1dba0b3f8aef%28Office.15%29.aspx)
+[ViewSingle Object (Project)](https://msdn.microsoft.com/library/41a36448-df16-3ad4-ec98-1dba0b3f8aef%28Office.15%29.aspx)
 
-[StartDriver Object (Project)](http://msdn.microsoft.com/library/4df2c386-a31e-faea-e286-d510f11cca57%28Office.15%29.aspx)
+[StartDriver Object (Project)](https://msdn.microsoft.com/library/4df2c386-a31e-faea-e286-d510f11cca57%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

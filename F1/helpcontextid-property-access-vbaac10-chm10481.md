@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[NavigationButton.HelpContextId property (Access)](http://msdn.microsoft.com/library/6549fc57-0f33-fe6b-ee5e-88b39107c035%28Office.15%29.aspx)
+[NavigationButton.HelpContextId property (Access)](https://msdn.microsoft.com/library/6549fc57-0f33-fe6b-ee5e-88b39107c035%28Office.15%29.aspx)
 
-[CommandButton.HelpContextId property (Access)](http://msdn.microsoft.com/library/265cf535-68b0-f627-f09c-c09b72d41aad%28Office.15%29.aspx)
+[CommandButton.HelpContextId property (Access)](https://msdn.microsoft.com/library/265cf535-68b0-f627-f09c-c09b72d41aad%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

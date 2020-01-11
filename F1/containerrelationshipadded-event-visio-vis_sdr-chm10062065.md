@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[InvisibleApp.ContainerRelationshipAdded Event (Visio)](http://msdn.microsoft.com/library/18d47470-f361-dc9d-2547-4b7bf81db453%28Office.15%29.aspx)
+[InvisibleApp.ContainerRelationshipAdded Event (Visio)](https://msdn.microsoft.com/library/18d47470-f361-dc9d-2547-4b7bf81db453%28Office.15%29.aspx)
 
-[Application.ContainerRelationshipAdded Event (Visio)](http://msdn.microsoft.com/library/8d69056a-9814-d521-86ed-8cdbfa1aeb56%28Office.15%29.aspx)
+[Application.ContainerRelationshipAdded Event (Visio)](https://msdn.microsoft.com/library/8d69056a-9814-d521-86ed-8cdbfa1aeb56%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

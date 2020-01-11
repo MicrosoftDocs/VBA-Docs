@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.StatusBar Property (Project)](http://msdn.microsoft.com/library/c88965a0-302c-e0ce-ca5b-06fc2d21ff2d%28Office.15%29.aspx)
+[Application.StatusBar Property (Project)](https://msdn.microsoft.com/library/c88965a0-302c-e0ce-ca5b-06fc2d21ff2d%28Office.15%29.aspx)
 
-[Project.ServerIdentification Property (Project)](http://msdn.microsoft.com/library/e424eafb-c763-18e1-871c-626eae6f2036%28Office.15%29.aspx)
+[Project.ServerIdentification Property (Project)](https://msdn.microsoft.com/library/e424eafb-c763-18e1-871c-626eae6f2036%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

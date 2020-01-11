@@ -14,13 +14,13 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Rectangle.MouseMove event (Access)](http://msdn.microsoft.com/library/3d91c9c3-1425-0651-1960-19dcba47ea00%28Office.15%29.aspx)
+[Rectangle.MouseMove event (Access)](https://msdn.microsoft.com/library/3d91c9c3-1425-0651-1960-19dcba47ea00%28Office.15%29.aspx)
 
-[Rectangle object (Access)](http://msdn.microsoft.com/library/ea624e43-c6a6-36ee-2b0b-4530a0cff3ef%28Office.15%29.aspx)
+[Rectangle object (Access)](https://msdn.microsoft.com/library/ea624e43-c6a6-36ee-2b0b-4530a0cff3ef%28Office.15%29.aspx)
 
-[Rectangle.MouseUp event (Access)](http://msdn.microsoft.com/library/cac916c9-47b0-df58-e66a-4fc923fbb2d3%28Office.15%29.aspx)
-[Rectangle.Click event (Access)](http://msdn.microsoft.com/library/959cbabf-ac13-f449-e313-50beadd2d83d%28Office.15%29.aspx)
-[Rectangle.DblClick event (Access)](http://msdn.microsoft.com/library/cc43d05a-b8a6-8a6b-8baf-74ad3753515f%28Office.15%29.aspx)
-[Rectangle.MouseDown event (Access)](http://msdn.microsoft.com/library/10b02033-87d7-53af-2878-d9a0e14e7ec1%28Office.15%29.aspx)
+[Rectangle.MouseUp event (Access)](https://msdn.microsoft.com/library/cac916c9-47b0-df58-e66a-4fc923fbb2d3%28Office.15%29.aspx)
+[Rectangle.Click event (Access)](https://msdn.microsoft.com/library/959cbabf-ac13-f449-e313-50beadd2d83d%28Office.15%29.aspx)
+[Rectangle.DblClick event (Access)](https://msdn.microsoft.com/library/cc43d05a-b8a6-8a6b-8baf-74ad3753515f%28Office.15%29.aspx)
+[Rectangle.MouseDown event (Access)](https://msdn.microsoft.com/library/10b02033-87d7-53af-2878-d9a0e14e7ec1%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TextBox.SmartTags property (Access)](http://msdn.microsoft.com/library/200175d1-78a2-3036-72ba-4a85dfc21864%28Office.15%29.aspx)
+[TextBox.SmartTags property (Access)](https://msdn.microsoft.com/library/200175d1-78a2-3036-72ba-4a85dfc21864%28Office.15%29.aspx)
 
-[NavigationControl.SmartTags property (Access)](http://msdn.microsoft.com/library/e4c3553a-7ce3-291e-b83a-c88e20685b4d%28Office.15%29.aspx)
+[NavigationControl.SmartTags property (Access)](https://msdn.microsoft.com/library/e4c3553a-7ce3-291e-b83a-c88e20685b4d%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.GlobalTaskTables Property (Project)](http://msdn.microsoft.com/library/5ca768b2-2e0f-6889-a300-8e81130ba798%28Office.15%29.aspx)
+[Application.GlobalTaskTables Property (Project)](https://msdn.microsoft.com/library/5ca768b2-2e0f-6889-a300-8e81130ba798%28Office.15%29.aspx)
 
-[Assignment.FixedMaterialAssignment Property (Project)](http://msdn.microsoft.com/library/16593466-1d5e-27b3-110d-e5cfeb165355%28Office.15%29.aspx)
+[Assignment.FixedMaterialAssignment Property (Project)](https://msdn.microsoft.com/library/16593466-1d5e-27b3-110d-e5cfeb165355%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

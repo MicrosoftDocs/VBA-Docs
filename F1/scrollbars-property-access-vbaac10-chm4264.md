@@ -14,11 +14,11 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.ScrollBars property (Access)](http://msdn.microsoft.com/library/d35e3e88-10ce-20f8-d4b1-305b27992395%28Office.15%29.aspx)
+[Form.ScrollBars property (Access)](https://msdn.microsoft.com/library/d35e3e88-10ce-20f8-d4b1-305b27992395%28Office.15%29.aspx)
 
-[Report.ScrollBars property (Access)](http://msdn.microsoft.com/library/12693642-6288-4f21-40cd-5aa1d6886cca%28Office.15%29.aspx)
+[Report.ScrollBars property (Access)](https://msdn.microsoft.com/library/12693642-6288-4f21-40cd-5aa1d6886cca%28Office.15%29.aspx)
 
-[TextBox.ScrollBars property (Access)](http://msdn.microsoft.com/library/de3adbf1-4398-8782-0998-d392ab860669%28Office.15%29.aspx)
-[WebBrowserControl.ScrollBars property (Access)](http://msdn.microsoft.com/library/7f886ed1-32d1-5f0c-022f-e310046f75e0%28Office.15%29.aspx)
+[TextBox.ScrollBars property (Access)](https://msdn.microsoft.com/library/de3adbf1-4398-8782-0998-d392ab860669%28Office.15%29.aspx)
+[WebBrowserControl.ScrollBars property (Access)](https://msdn.microsoft.com/library/7f886ed1-32d1-5f0c-022f-e310046f75e0%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

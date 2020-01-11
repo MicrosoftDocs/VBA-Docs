@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.Baseline1StartText Property (Project)](http://msdn.microsoft.com/library/e2f078df-ee31-a2e2-4ee4-512b236c9fb2%28Office.15%29.aspx)
+[Task.Baseline1StartText Property (Project)](https://msdn.microsoft.com/library/e2f078df-ee31-a2e2-4ee4-512b236c9fb2%28Office.15%29.aspx)
 
-[Task.Baseline1Duration Property (Project)](http://msdn.microsoft.com/library/10c07591-6f3e-204d-2df6-6e16f3d300ee%28Office.15%29.aspx)
+[Task.Baseline1Duration Property (Project)](https://msdn.microsoft.com/library/10c07591-6f3e-204d-2df6-6e16f3d300ee%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

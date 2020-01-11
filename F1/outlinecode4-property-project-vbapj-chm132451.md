@@ -14,10 +14,10 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Resource.OutlineCode4 Property (Project)](http://msdn.microsoft.com/library/0afa20d5-9be7-6b4f-662d-3173ff9fe9a2%28Office.15%29.aspx)
+[Resource.OutlineCode4 Property (Project)](https://msdn.microsoft.com/library/0afa20d5-9be7-6b4f-662d-3173ff9fe9a2%28Office.15%29.aspx)
 
-[Task.PathDrivenSuccessor Property (Project)](http://msdn.microsoft.com/library/ec77b34e-a98c-142e-14ba-868ff93deaad%28Office.15%29.aspx)
+[Task.PathDrivenSuccessor Property (Project)](https://msdn.microsoft.com/library/ec77b34e-a98c-142e-14ba-868ff93deaad%28Office.15%29.aspx)
 
-[Task.OutlineCode4 Property (Project)](http://msdn.microsoft.com/library/04cfe263-d501-244b-76a3-bb50c769fef3%28Office.15%29.aspx)
+[Task.OutlineCode4 Property (Project)](https://msdn.microsoft.com/library/04cfe263-d501-244b-76a3-bb50c769fef3%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

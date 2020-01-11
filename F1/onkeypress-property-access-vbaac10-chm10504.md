@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CommandButton.OnKeyPress property (Access)](http://msdn.microsoft.com/library/de0dd03a-e3f4-c69d-0d9e-030fefc0a2de%28Office.15%29.aspx)
+[CommandButton.OnKeyPress property (Access)](https://msdn.microsoft.com/library/de0dd03a-e3f4-c69d-0d9e-030fefc0a2de%28Office.15%29.aspx)
 
-[NavigationButton.OnKeyPress property (Access)](http://msdn.microsoft.com/library/6831ae04-07b0-e84b-4451-0c728e80d8e9%28Office.15%29.aspx)
+[NavigationButton.OnKeyPress property (Access)](https://msdn.microsoft.com/library/6831ae04-07b0-e84b-4451-0c728e80d8e9%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

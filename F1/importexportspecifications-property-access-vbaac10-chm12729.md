@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CodeProject.ImportExportSpecifications property (Access)](http://msdn.microsoft.com/library/100a7924-3f4e-9dec-756e-9aa6f8abba19%28Office.15%29.aspx)
+[CodeProject.ImportExportSpecifications property (Access)](https://msdn.microsoft.com/library/100a7924-3f4e-9dec-756e-9aa6f8abba19%28Office.15%29.aspx)
 
-[CurrentProject.ImportExportSpecifications property (Access)](http://msdn.microsoft.com/library/b614eb40-d9cd-d615-41c9-c6980ea85006%28Office.15%29.aspx)
+[CurrentProject.ImportExportSpecifications property (Access)](https://msdn.microsoft.com/library/b614eb40-d9cd-d615-41c9-c6980ea85006%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

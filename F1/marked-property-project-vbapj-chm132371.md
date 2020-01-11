@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.Marked Property (Project)](http://msdn.microsoft.com/library/b868afee-637f-8725-afdb-3c59ad261e26%28Office.15%29.aspx)
+[Task.Marked Property (Project)](https://msdn.microsoft.com/library/b868afee-637f-8725-afdb-3c59ad261e26%28Office.15%29.aspx)
 
-[Task.LateStart Property (Project)](http://msdn.microsoft.com/library/8870354d-1265-221c-a7cc-b7f4ee8ac79e%28Office.15%29.aspx)
+[Task.LateStart Property (Project)](https://msdn.microsoft.com/library/8870354d-1265-221c-a7cc-b7f4ee8ac79e%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Report.ControlBox property (Access)](http://msdn.microsoft.com/library/440dd25d-4792-2a92-beac-21dbcf478b62%28Office.15%29.aspx)
+[Report.ControlBox property (Access)](https://msdn.microsoft.com/library/440dd25d-4792-2a92-beac-21dbcf478b62%28Office.15%29.aspx)
 
-[Form.ControlBox property (Access)](http://msdn.microsoft.com/library/c4d9976c-631d-ae99-0c5d-e7008bbdadf9%28Office.15%29.aspx)
+[Form.ControlBox property (Access)](https://msdn.microsoft.com/library/c4d9976c-631d-ae99-0c5d-e7008bbdadf9%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

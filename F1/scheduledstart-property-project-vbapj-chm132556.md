@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.ScheduledStart Property (Project)](http://msdn.microsoft.com/library/f22726f1-2d11-92cf-86c8-48c35a916dd8%28Office.15%29.aspx)
+[Task.ScheduledStart Property (Project)](https://msdn.microsoft.com/library/f22726f1-2d11-92cf-86c8-48c35a916dd8%28Office.15%29.aspx)
 
-[Reports.Copy Method (Project)](http://msdn.microsoft.com/library/fd930e98-4200-05e0-67e3-f4d34ae26928%28Office.15%29.aspx)
+[Reports.Copy Method (Project)](https://msdn.microsoft.com/library/fd930e98-4200-05e0-67e3-f4d34ae26928%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

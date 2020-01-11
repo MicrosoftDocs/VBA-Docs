@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Assignment.Peak Property (Project)](http://msdn.microsoft.com/library/52b5d301-6034-b207-c5ae-dfadb56ecd73%28Office.15%29.aspx)
+[Assignment.Peak Property (Project)](https://msdn.microsoft.com/library/52b5d301-6034-b207-c5ae-dfadb56ecd73%28Office.15%29.aspx)
 
-[OutlineCode.DefaultValue Property (Project)](http://msdn.microsoft.com/library/8b62d945-d98c-923c-2829-e50e51cd45b6%28Office.15%29.aspx)
+[OutlineCode.DefaultValue Property (Project)](https://msdn.microsoft.com/library/8b62d945-d98c-923c-2829-e50e51cd45b6%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

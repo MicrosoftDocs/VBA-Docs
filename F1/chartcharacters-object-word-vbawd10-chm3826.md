@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ChartCharacters object (Word)](http://msdn.microsoft.com/library/cffe50a7-3fdc-75ad-2e32-081ba2310c1d%28Office.15%29.aspx)
+[ChartCharacters object (Word)](https://msdn.microsoft.com/library/cffe50a7-3fdc-75ad-2e32-081ba2310c1d%28Office.15%29.aspx)
 
-[ChartCharacters object (Word)dd6c70b2-62f9-0bd0-b3d2-286b97607a4b](http://msdn.microsoft.com/library/dd6c70b2-62f9-0bd0-b3d2-286b97607a4b%28Office.15%29.aspx)
+[ChartCharacters object (Word)dd6c70b2-62f9-0bd0-b3d2-286b97607a4b](https://msdn.microsoft.com/library/dd6c70b2-62f9-0bd0-b3d2-286b97607a4b%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

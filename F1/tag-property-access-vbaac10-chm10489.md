@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[NavigationButton.Tag property (Access)](http://msdn.microsoft.com/library/bd477752-2259-190d-cd3a-6c803ebb81ba%28Office.15%29.aspx)
+[NavigationButton.Tag property (Access)](https://msdn.microsoft.com/library/bd477752-2259-190d-cd3a-6c803ebb81ba%28Office.15%29.aspx)
 
-[CommandButton.Tag property (Access)](http://msdn.microsoft.com/library/5099e435-8957-e54c-9c6c-bc6b063cfe66%28Office.15%29.aspx)
+[CommandButton.Tag property (Access)](https://msdn.microsoft.com/library/5099e435-8957-e54c-9c6c-bc6b063cfe66%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

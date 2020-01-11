@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Views Object (Project)](http://msdn.microsoft.com/library/53717121-f6da-d762-af97-15a819ea5d82%28Office.15%29.aspx)
+[Views Object (Project)](https://msdn.microsoft.com/library/53717121-f6da-d762-af97-15a819ea5d82%28Office.15%29.aspx)
 
-[Windows2 Object (Project)](http://msdn.microsoft.com/library/a58383c6-12c7-81b3-10e8-81ba9180404c%28Office.15%29.aspx)
+[Windows2 Object (Project)](https://msdn.microsoft.com/library/a58383c6-12c7-81b3-10e8-81ba9180404c%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

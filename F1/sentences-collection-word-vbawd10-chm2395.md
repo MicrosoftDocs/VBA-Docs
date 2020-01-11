@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Sentences object (Word)](http://msdn.microsoft.com/library/bcb9653d-bada-8e51-f47d-58f17dae19fe%28Office.15%29.aspx)
+[Sentences object (Word)](https://msdn.microsoft.com/library/bcb9653d-bada-8e51-f47d-58f17dae19fe%28Office.15%29.aspx)
 
-[OMathArgs object (Word)](http://msdn.microsoft.com/library/5e4d542b-11c3-8cb8-be2a-5b990e777290%28Office.15%29.aspx)
+[OMathArgs object (Word)](https://msdn.microsoft.com/library/5e4d542b-11c3-8cb8-be2a-5b990e777290%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

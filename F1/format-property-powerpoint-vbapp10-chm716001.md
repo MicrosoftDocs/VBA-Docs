@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Point.Format Property (PowerPoint)](http://msdn.microsoft.com/library/e7e37e8b-7251-922c-b436-8ae6c955a08d%28Office.15%29.aspx)
+[Point.Format Property (PowerPoint)](https://msdn.microsoft.com/library/e7e37e8b-7251-922c-b436-8ae6c955a08d%28Office.15%29.aspx)
 
-[Series.Format Property (PowerPoint)](http://msdn.microsoft.com/library/2c1e7a2e-6f2e-7b18-c29b-cec3ba61f563%28Office.15%29.aspx)
+[Series.Format Property (PowerPoint)](https://msdn.microsoft.com/library/2c1e7a2e-6f2e-7b18-c29b-cec3ba61f563%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

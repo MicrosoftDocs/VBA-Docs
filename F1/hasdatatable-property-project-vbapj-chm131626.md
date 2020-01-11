@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Chart.HasDataTable Property (Project)](http://msdn.microsoft.com/library/ff2b3bb6-9508-d793-2382-29e3cbac872b%28Office.15%29.aspx)
+[Chart.HasDataTable Property (Project)](https://msdn.microsoft.com/library/ff2b3bb6-9508-d793-2382-29e3cbac872b%28Office.15%29.aspx)
 
-[Chart.PivotLayout Property (Project)](http://msdn.microsoft.com/library/d1c3cc4c-1c2c-4414-ffef-44b7667b95dc%28Office.15%29.aspx)
+[Chart.PivotLayout Property (Project)](https://msdn.microsoft.com/library/d1c3cc4c-1c2c-4414-ffef-44b7667b95dc%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

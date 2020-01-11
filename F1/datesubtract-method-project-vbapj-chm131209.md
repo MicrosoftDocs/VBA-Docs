@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.DateSubtract Method (Project)](http://msdn.microsoft.com/library/1eb05a59-271d-31d0-8945-23bc3c9600e0%28Office.15%29.aspx)
+[Application.DateSubtract Method (Project)](https://msdn.microsoft.com/library/1eb05a59-271d-31d0-8945-23bc3c9600e0%28Office.15%29.aspx)
 
-[Application.DurationFormat Method (Project)](http://msdn.microsoft.com/library/37970edc-c6f9-66b7-7c0d-b22beb8a36c1%28Office.15%29.aspx)
+[Application.DurationFormat Method (Project)](https://msdn.microsoft.com/library/37970edc-c6f9-66b7-7c0d-b22beb8a36c1%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

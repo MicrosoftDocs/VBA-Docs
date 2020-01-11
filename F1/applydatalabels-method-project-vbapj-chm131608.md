@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Chart.ApplyDataLabels Method (Project)](http://msdn.microsoft.com/library/cda031a4-ed86-1ec8-583d-44767785e3a1%28Office.15%29.aspx)
+[Chart.ApplyDataLabels Method (Project)](https://msdn.microsoft.com/library/cda031a4-ed86-1ec8-583d-44767785e3a1%28Office.15%29.aspx)
 
-[Chart.ClearToMatchStyle Method (Project)](http://msdn.microsoft.com/library/6715dd6c-4213-6fc6-5cdb-5eefbaf9d875%28Office.15%29.aspx)
+[Chart.ClearToMatchStyle Method (Project)](https://msdn.microsoft.com/library/6715dd6c-4213-6fc6-5cdb-5eefbaf9d875%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

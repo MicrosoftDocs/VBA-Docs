@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[IVBUndoUnit Object (Visio)](http://msdn.microsoft.com/library/ae0d41ff-20ef-c86c-99a5-0cd2f68cf6cc.aspx)
+[IVBUndoUnit Object (Visio)](https://msdn.microsoft.com/library/ae0d41ff-20ef-c86c-99a5-0cd2f68cf6cc.aspx)
 
-[IVBUndoUnit Object (Visio)](http://msdn.microsoft.com/library/397d8ea4-50ec-970a-61bb-ca61b2ae84e3%28Office.15%29.aspx)
+[IVBUndoUnit Object (Visio)](https://msdn.microsoft.com/library/397d8ea4-50ec-970a-61bb-ca61b2ae84e3%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

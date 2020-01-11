@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TextBox.LayoutID property (Access)](http://msdn.microsoft.com/library/b77ccc32-fbaf-e574-b0ae-293d6f999879%28Office.15%29.aspx)
+[TextBox.LayoutID property (Access)](https://msdn.microsoft.com/library/b77ccc32-fbaf-e574-b0ae-293d6f999879%28Office.15%29.aspx)
 
-[NavigationControl.LayoutID property (Access)](http://msdn.microsoft.com/library/2fd85cf8-90c3-9b00-6d2a-9078be79f668%28Office.15%29.aspx)
+[NavigationControl.LayoutID property (Access)](https://msdn.microsoft.com/library/2fd85cf8-90c3-9b00-6d2a-9078be79f668%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

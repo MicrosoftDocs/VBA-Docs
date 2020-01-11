@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.Resume Property (Project)](http://msdn.microsoft.com/library/7a269dc6-8a6c-8bcc-c189-5d70e16526a2%28Office.15%29.aspx)
+[Task.Resume Property (Project)](https://msdn.microsoft.com/library/7a269dc6-8a6c-8bcc-c189-5d70e16526a2%28Office.15%29.aspx)
 
-[Task.Recurring Property (Project)](http://msdn.microsoft.com/library/e7d5aef4-3fac-976f-a3d1-7f5bd4c870cd%28Office.15%29.aspx)
+[Task.Recurring Property (Project)](https://msdn.microsoft.com/library/e7d5aef4-3fac-976f-a3d1-7f5bd4c870cd%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

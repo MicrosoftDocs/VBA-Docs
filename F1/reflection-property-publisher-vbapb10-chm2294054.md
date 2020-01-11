@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ShapeRange.Reflection Property (Publisher)](http://msdn.microsoft.com/library/db9ef973-39b9-7fe3-8b21-3ed1b74bb690%28Office.15%29.aspx)
+[ShapeRange.Reflection Property (Publisher)](https://msdn.microsoft.com/library/db9ef973-39b9-7fe3-8b21-3ed1b74bb690%28Office.15%29.aspx)
 
-[Shape.Reflection Property (Publisher)](http://msdn.microsoft.com/library/a9a12d07-8edc-2f1b-9f7d-4aeae43b1335%28Office.15%29.aspx)
+[Shape.Reflection Property (Publisher)](https://msdn.microsoft.com/library/a9a12d07-8edc-2f1b-9f7d-4aeae43b1335%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Project.ProjectNamePrefix Property (Project)](http://msdn.microsoft.com/library/2945361b-f22d-831b-3c36-4a1c2636e03c%28Office.15%29.aspx)
+[Project.ProjectNamePrefix Property (Project)](https://msdn.microsoft.com/library/2945361b-f22d-831b-3c36-4a1c2636e03c%28Office.15%29.aspx)
 
-[Application.PanZoomStart Property (Project)](http://msdn.microsoft.com/library/7e5ff081-c5fb-165e-8ded-bad1c3cdc72a%28Office.15%29.aspx)
+[Application.PanZoomStart Property (Project)](https://msdn.microsoft.com/library/7e5ff081-c5fb-165e-8ded-bad1c3cdc72a%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

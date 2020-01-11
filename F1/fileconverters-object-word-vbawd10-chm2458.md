@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[FileConverters object (Word)](http://msdn.microsoft.com/library/b9b8fc53-1c8e-224d-726a-4edf172ca647%28Office.15%29.aspx)
+[FileConverters object (Word)](https://msdn.microsoft.com/library/b9b8fc53-1c8e-224d-726a-4edf172ca647%28Office.15%29.aspx)
 
-[FileConverters object (Word)dd5b4d6a-d542-a6dc-5edf-6dca0ef25068](http://msdn.microsoft.com/library/dd5b4d6a-d542-a6dc-5edf-6dca0ef25068%28Office.15%29.aspx)
+[FileConverters object (Word)dd5b4d6a-d542-a6dc-5edf-6dca0ef25068](https://msdn.microsoft.com/library/dd5b4d6a-d542-a6dc-5edf-6dca0ef25068%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

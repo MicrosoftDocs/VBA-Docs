@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[InvisibleApp.OnKeystrokeMessageForAddon Event (Visio)](http://msdn.microsoft.com/library/78dd9b07-21bf-41a9-a2da-0831b5f713c1%28Office.15%29.aspx)
+[InvisibleApp.OnKeystrokeMessageForAddon Event (Visio)](https://msdn.microsoft.com/library/78dd9b07-21bf-41a9-a2da-0831b5f713c1%28Office.15%29.aspx)
 
-[Application.OnKeystrokeMessageForAddon Event (Visio)](http://msdn.microsoft.com/library/0b3fcabc-217f-fa68-d139-455286b3a34f%28Office.15%29.aspx)
+[Application.OnKeystrokeMessageForAddon Event (Visio)](https://msdn.microsoft.com/library/0b3fcabc-217f-fa68-d139-455286b3a34f%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

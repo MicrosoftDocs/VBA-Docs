@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[DrawingControl.KeyDown Event (Visio)](http://msdn.microsoft.com/library/bb0e7b16-d96d-b5cf-cf9d-404c0bd57104%28Office.15%29.aspx)
+[DrawingControl.KeyDown Event (Visio)](https://msdn.microsoft.com/library/bb0e7b16-d96d-b5cf-cf9d-404c0bd57104%28Office.15%29.aspx)
 
-[Window.KeyDown Event (Visio)](http://msdn.microsoft.com/library/70f7d929-5907-e125-1a7f-b68046c6b9dd%28Office.15%29.aspx)
+[Window.KeyDown Event (Visio)](https://msdn.microsoft.com/library/70f7d929-5907-e125-1a7f-b68046c6b9dd%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

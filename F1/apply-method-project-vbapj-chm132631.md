@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Table.Apply Method (Project)](http://msdn.microsoft.com/library/05452633-fb60-b8c1-ac75-83351682df99%28Office.15%29.aspx)
+[Table.Apply Method (Project)](https://msdn.microsoft.com/library/05452633-fb60-b8c1-ac75-83351682df99%28Office.15%29.aspx)
 
-[Task.SplitParts Property (Project)](http://msdn.microsoft.com/library/e4c62dce-4ee0-aff3-3248-f6b5b04b0c2d%28Office.15%29.aspx)
+[Task.SplitParts Property (Project)](https://msdn.microsoft.com/library/e4c62dce-4ee0-aff3-3248-f6b5b04b0c2d%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

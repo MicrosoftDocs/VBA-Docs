@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TextBox.Width property (Access)](http://msdn.microsoft.com/library/0bb72524-6682-f783-e9f9-4fd34a757a40%28Office.15%29.aspx)
+[TextBox.Width property (Access)](https://msdn.microsoft.com/library/0bb72524-6682-f783-e9f9-4fd34a757a40%28Office.15%29.aspx)
 
-[NavigationControl.Width property (Access)](http://msdn.microsoft.com/library/373efc78-6b33-827a-5b95-9cc9fff7f9e6%28Office.15%29.aspx)
+[NavigationControl.Width property (Access)](https://msdn.microsoft.com/library/373efc78-6b33-827a-5b95-9cc9fff7f9e6%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

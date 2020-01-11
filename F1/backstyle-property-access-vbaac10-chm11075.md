@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TextBox.BackStyle property (Access)](http://msdn.microsoft.com/library/95a277c8-df48-79a5-c232-2cfe32eae8f2%28Office.15%29.aspx)
+[TextBox.BackStyle property (Access)](https://msdn.microsoft.com/library/95a277c8-df48-79a5-c232-2cfe32eae8f2%28Office.15%29.aspx)
 
-[NavigationControl.BackStyle property (Access)](http://msdn.microsoft.com/library/1f46ccfd-78cc-0eae-3485-b91306dc6bde%28Office.15%29.aspx)
+[NavigationControl.BackStyle property (Access)](https://msdn.microsoft.com/library/1f46ccfd-78cc-0eae-3485-b91306dc6bde%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
