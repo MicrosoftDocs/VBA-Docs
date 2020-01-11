@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[FirstLetterExceptions object (Word)](http://msdn.microsoft.com/library/5dc5cc43-a696-d80f-58f9-0f74dfcad0ed%28Office.15%29.aspx)
+[FirstLetterExceptions object (Word)](https://msdn.microsoft.com/library/5dc5cc43-a696-d80f-58f9-0f74dfcad0ed%28Office.15%29.aspx)
 
-[FirstLetterExceptions object (Word)7e289aae-34e0-8613-5fbf-4d34cd3d33d9](http://msdn.microsoft.com/library/7e289aae-34e0-8613-5fbf-4d34cd3d33d9%28Office.15%29.aspx)
+[FirstLetterExceptions object (Word)7e289aae-34e0-8613-5fbf-4d34cd3d33d9](https://msdn.microsoft.com/library/7e289aae-34e0-8613-5fbf-4d34cd3d33d9%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

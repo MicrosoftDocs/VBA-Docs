@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.ConstraintType Property (Project)](http://msdn.microsoft.com/library/cdcd6a0d-a996-646d-130e-1a5ed2c93705%28Office.15%29.aspx)
+[Task.ConstraintType Property (Project)](https://msdn.microsoft.com/library/cdcd6a0d-a996-646d-130e-1a5ed2c93705%28Office.15%29.aspx)
 
-[CodeMaskLevel.Level Property (Project)](http://msdn.microsoft.com/library/aa8319cb-8199-c695-fd73-aef81708619f%28Office.15%29.aspx)
+[CodeMaskLevel.Level Property (Project)](https://msdn.microsoft.com/library/aa8319cb-8199-c695-fd73-aef81708619f%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

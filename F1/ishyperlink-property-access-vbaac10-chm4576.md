@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TextBox.IsHyperlink property (Access)](http://msdn.microsoft.com/library/68d2ca6a-7ea2-a44d-db32-1fa040475267%28Office.15%29.aspx)
+[TextBox.IsHyperlink property (Access)](https://msdn.microsoft.com/library/68d2ca6a-7ea2-a44d-db32-1fa040475267%28Office.15%29.aspx)
 
-[ComboBox.IsHyperlink property (Access)](http://msdn.microsoft.com/library/005d21a1-c44c-c0a6-f625-2b3f8f4f8f91%28Office.15%29.aspx)
+[ComboBox.IsHyperlink property (Access)](https://msdn.microsoft.com/library/005d21a1-c44c-c0a6-f625-2b3f8f4f8f91%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

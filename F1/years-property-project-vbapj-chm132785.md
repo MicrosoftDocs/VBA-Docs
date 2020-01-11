@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Calendar.Years Property (Project)](http://msdn.microsoft.com/library/63f17754-d258-3fd2-5f20-33b8998e7e4d%28Office.15%29.aspx)
+[Calendar.Years Property (Project)](https://msdn.microsoft.com/library/63f17754-d258-3fd2-5f20-33b8998e7e4d%28Office.15%29.aspx)
 
-[Project.VBASigned Property (Project)](http://msdn.microsoft.com/library/469f9f58-4386-7a0b-5937-5f758411bd38%28Office.15%29.aspx)
+[Project.VBASigned Property (Project)](https://msdn.microsoft.com/library/469f9f58-4386-7a0b-5937-5f758411bd38%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

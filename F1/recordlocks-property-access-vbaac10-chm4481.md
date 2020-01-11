@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.RecordLocks property (Access)](http://msdn.microsoft.com/library/9080f7dd-259e-8b13-9648-3269bc7321d3%28Office.15%29.aspx)
+[Form.RecordLocks property (Access)](https://msdn.microsoft.com/library/9080f7dd-259e-8b13-9648-3269bc7321d3%28Office.15%29.aspx)
 
-[Report.RecordLocks property (Access)](http://msdn.microsoft.com/library/21f8d145-e417-a7a1-e697-b1e07434c760%28Office.15%29.aspx)
+[Report.RecordLocks property (Access)](https://msdn.microsoft.com/library/21f8d145-e417-a7a1-e697-b1e07434c760%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

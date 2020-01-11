@@ -14,14 +14,14 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Section.Paint event (Access)](http://msdn.microsoft.com/library/f68d981d-8371-cf0d-9da4-063aaa0f0907%28Office.15%29.aspx)
+[Section.Paint event (Access)](https://msdn.microsoft.com/library/f68d981d-8371-cf0d-9da4-063aaa0f0907%28Office.15%29.aspx)
 
-[Section.MouseUp event (Access)](http://msdn.microsoft.com/library/fcfb223c-b57e-5f3c-60aa-1a9edc149c48%28Office.15%29.aspx)
+[Section.MouseUp event (Access)](https://msdn.microsoft.com/library/fcfb223c-b57e-5f3c-60aa-1a9edc149c48%28Office.15%29.aspx)
 
-[Section.MouseMove event (Access)](http://msdn.microsoft.com/library/5ae021c2-24fc-5507-3267-245f061de35b%28Office.15%29.aspx)
-[Section.Click event (Access)](http://msdn.microsoft.com/library/e32826fd-da43-b122-c656-6a9994496edf%28Office.15%29.aspx)
-[Section.DblClick event (Access)](http://msdn.microsoft.com/library/6523062c-887d-de9a-a17b-b47768eb5ad0%28Office.15%29.aspx)
-[Section.MouseDown event (Access)](http://msdn.microsoft.com/library/e262213a-cf22-bb6f-b3b0-bcbdba33e61d%28Office.15%29.aspx)
-[Section object (Access)](http://msdn.microsoft.com/library/9edc5e29-bdd6-7627-230e-ca3812e0414e%28Office.15%29.aspx)
+[Section.MouseMove event (Access)](https://msdn.microsoft.com/library/5ae021c2-24fc-5507-3267-245f061de35b%28Office.15%29.aspx)
+[Section.Click event (Access)](https://msdn.microsoft.com/library/e32826fd-da43-b122-c656-6a9994496edf%28Office.15%29.aspx)
+[Section.DblClick event (Access)](https://msdn.microsoft.com/library/6523062c-887d-de9a-a17b-b47768eb5ad0%28Office.15%29.aspx)
+[Section.MouseDown event (Access)](https://msdn.microsoft.com/library/e262213a-cf22-bb6f-b3b0-bcbdba33e61d%28Office.15%29.aspx)
+[Section object (Access)](https://msdn.microsoft.com/library/9edc5e29-bdd6-7627-230e-ca3812e0414e%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

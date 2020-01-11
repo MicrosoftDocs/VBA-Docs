@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Categories object (Word)](http://msdn.microsoft.com/library/f5f5081d-4309-6617-28da-c369c1fe690c%28Office.15%29.aspx)
+[Categories object (Word)](https://msdn.microsoft.com/library/f5f5081d-4309-6617-28da-c369c1fe690c%28Office.15%29.aspx)
 
-[Categories object (Word)ddc09712-b439-81f1-07c0-e72fe55bb9a1](http://msdn.microsoft.com/library/ddc09712-b439-81f1-07c0-e72fe55bb9a1%28Office.15%29.aspx)
+[Categories object (Word)ddc09712-b439-81f1-07c0-e72fe55bb9a1](https://msdn.microsoft.com/library/ddc09712-b439-81f1-07c0-e72fe55bb9a1%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

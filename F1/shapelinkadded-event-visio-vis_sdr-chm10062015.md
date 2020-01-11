@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.ShapeLinkAdded Event (Visio)](http://msdn.microsoft.com/library/24b517f7-e6da-df93-db2e-14740050f832%28Office.15%29.aspx)
+[Application.ShapeLinkAdded Event (Visio)](https://msdn.microsoft.com/library/24b517f7-e6da-df93-db2e-14740050f832%28Office.15%29.aspx)
 
-[InvisibleApp.ShapeLinkAdded Event (Visio)](http://msdn.microsoft.com/library/b7637b06-8d74-04db-c4ab-a64d9b92f8a6%28Office.15%29.aspx)
+[InvisibleApp.ShapeLinkAdded Event (Visio)](https://msdn.microsoft.com/library/b7637b06-8d74-04db-c4ab-a64d9b92f8a6%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

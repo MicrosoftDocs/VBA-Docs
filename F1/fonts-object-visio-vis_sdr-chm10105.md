@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Fonts Object (Visio)](http://msdn.microsoft.com/library/3f1b1043-508f-b9f1-ed32-35a0c3121028.aspx)
+[Fonts Object (Visio)](https://msdn.microsoft.com/library/3f1b1043-508f-b9f1-ed32-35a0c3121028.aspx)
 
-[Fonts Object (Visio)](http://msdn.microsoft.com/library/e08c8ad1-1c70-b80f-1a49-3a120f66ced8%28Office.15%29.aspx)
+[Fonts Object (Visio)](https://msdn.microsoft.com/library/e08c8ad1-1c70-b80f-1a49-3a120f66ced8%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

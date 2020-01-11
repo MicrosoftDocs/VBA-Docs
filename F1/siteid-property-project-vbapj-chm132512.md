@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Profile.SiteId Property (Project)](http://msdn.microsoft.com/library/18d72450-e7d6-55b7-733c-45db023469c5%28Office.15%29.aspx)
+[Profile.SiteId Property (Project)](https://msdn.microsoft.com/library/18d72450-e7d6-55b7-733c-45db023469c5%28Office.15%29.aspx)
 
-[Reports.Add Method (Project)](http://msdn.microsoft.com/library/3ce8e51c-54c6-6cc7-f5ec-c27e0a657f04%28Office.15%29.aspx)
+[Reports.Add Method (Project)](https://msdn.microsoft.com/library/3ce8e51c-54c6-6cc7-f5ec-c27e0a657f04%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

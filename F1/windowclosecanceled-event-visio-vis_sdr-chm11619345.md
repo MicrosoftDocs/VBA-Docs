@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[DrawingControl.WindowCloseCanceled Event (Visio)](http://msdn.microsoft.com/library/39a68cc4-81af-0d8b-4cfc-5a0fdd3b6902%28Office.15%29.aspx)
+[DrawingControl.WindowCloseCanceled Event (Visio)](https://msdn.microsoft.com/library/39a68cc4-81af-0d8b-4cfc-5a0fdd3b6902%28Office.15%29.aspx)
 
-[Window.WindowCloseCanceled Event (Visio)](http://msdn.microsoft.com/library/bef37fff-5c47-9a61-4b84-ee87912d6478%28Office.15%29.aspx)
+[Window.WindowCloseCanceled Event (Visio)](https://msdn.microsoft.com/library/bef37fff-5c47-9a61-4b84-ee87912d6478%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

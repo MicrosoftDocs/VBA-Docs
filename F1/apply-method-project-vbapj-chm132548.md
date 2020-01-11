@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Report.Apply Method (Project)](http://msdn.microsoft.com/library/4461da82-5bd6-2d9b-0d39-35875c2cee36%28Office.15%29.aspx)
+[Report.Apply Method (Project)](https://msdn.microsoft.com/library/4461da82-5bd6-2d9b-0d39-35875c2cee36%28Office.15%29.aspx)
 
-[Project.DocumentLibraryVersions Property (Project)](http://msdn.microsoft.com/library/62203de2-cff4-0af7-944c-9df79710dbc8%28Office.15%29.aspx)
+[Project.DocumentLibraryVersions Property (Project)](https://msdn.microsoft.com/library/62203de2-cff4-0af7-944c-9df79710dbc8%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

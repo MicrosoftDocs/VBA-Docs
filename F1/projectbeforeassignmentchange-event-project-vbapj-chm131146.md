@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.ProjectBeforeAssignmentChange Event (Project)](http://msdn.microsoft.com/library/9d94303c-f8f6-1681-0829-23f240afc570%28Office.15%29.aspx)
+[Application.ProjectBeforeAssignmentChange Event (Project)](https://msdn.microsoft.com/library/9d94303c-f8f6-1681-0829-23f240afc570%28Office.15%29.aspx)
 
-[Application.ProjectBeforeAssignmentDelete2 Event (Project)](http://msdn.microsoft.com/library/2753a140-e01b-b2c1-233f-f9f265737b47%28Office.15%29.aspx)
+[Application.ProjectBeforeAssignmentDelete2 Event (Project)](https://msdn.microsoft.com/library/2753a140-e01b-b2c1-233f-f9f265737b47%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

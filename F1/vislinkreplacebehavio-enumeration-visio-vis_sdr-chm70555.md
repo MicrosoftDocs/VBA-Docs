@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[VisLinkReplaceBehavior Enumeration (Visio)](http://msdn.microsoft.com/library/3579129a-b908-8d5f-e694-f72cc94880cf%28Office.15%29.aspx)
+[VisLinkReplaceBehavior Enumeration (Visio)](https://msdn.microsoft.com/library/3579129a-b908-8d5f-e694-f72cc94880cf%28Office.15%29.aspx)
 
-[VisLinkReplaceBehavior Enumeration (Visio)](http://msdn.microsoft.com/library/f1ae5a9e-9764-8904-b1ba-fe4315f6c445.aspx)
+[VisLinkReplaceBehavior Enumeration (Visio)](https://msdn.microsoft.com/library/f1ae5a9e-9764-8904-b1ba-fe4315f6c445.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Profiles Object (Project)](http://msdn.microsoft.com/library/0e25c828-6482-4d68-f482-ae72c919f338%28Office.15%29.aspx)
+[Profiles Object (Project)](https://msdn.microsoft.com/library/0e25c828-6482-4d68-f482-ae72c919f338%28Office.15%29.aspx)
 
-[ReportTemplates Object (Project)](http://msdn.microsoft.com/library/01928892-d57c-8344-05db-d95008b4ba74%28Office.15%29.aspx)
+[ReportTemplates Object (Project)](https://msdn.microsoft.com/library/01928892-d57c-8344-05db-d95008b4ba74%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

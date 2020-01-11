@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[OutlineCode.FieldID Property (Project)](http://msdn.microsoft.com/library/eea0a697-08f9-c4f5-358a-6b90bd08271e%28Office.15%29.aspx)
+[OutlineCode.FieldID Property (Project)](https://msdn.microsoft.com/library/eea0a697-08f9-c4f5-358a-6b90bd08271e%28Office.15%29.aspx)
 
-[Task.PercentComplete Property (Project)](http://msdn.microsoft.com/library/fc698d7f-2dd9-9cbc-67ba-ff62e6db455c%28Office.15%29.aspx)
+[Task.PercentComplete Property (Project)](https://msdn.microsoft.com/library/fc698d7f-2dd9-9cbc-67ba-ff62e6db455c%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

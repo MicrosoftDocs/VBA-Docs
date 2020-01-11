@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.FastLaserPrinting property (Access)](http://msdn.microsoft.com/library/a64775e5-174d-0349-d3f3-0009798d6462%28Office.15%29.aspx)
+[Form.FastLaserPrinting property (Access)](https://msdn.microsoft.com/library/a64775e5-174d-0349-d3f3-0009798d6462%28Office.15%29.aspx)
 
-[Report.FastLaserPrinting property (Access)](http://msdn.microsoft.com/library/b96ec618-de46-8802-0d9e-064fd8835fbd%28Office.15%29.aspx)
+[Report.FastLaserPrinting property (Access)](https://msdn.microsoft.com/library/b96ec618-de46-8802-0d9e-064fd8835fbd%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

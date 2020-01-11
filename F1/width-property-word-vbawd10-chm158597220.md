@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TextColumn.Width property (Word)](http://msdn.microsoft.com/library/4050636e-0721-56b2-7a63-3f56906e3ca6%28Office.15%29.aspx)
+[TextColumn.Width property (Word)](https://msdn.microsoft.com/library/4050636e-0721-56b2-7a63-3f56906e3ca6%28Office.15%29.aspx)
 
-[OMathFrac.Application property (Word)](http://msdn.microsoft.com/library/663e252c-3def-5816-f948-a77070a378c1%28Office.15%29.aspx)
+[OMathFrac.Application property (Word)](https://msdn.microsoft.com/library/663e252c-3def-5816-f948-a77070a378c1%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

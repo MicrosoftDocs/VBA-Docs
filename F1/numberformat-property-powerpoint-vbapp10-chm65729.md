@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[DataLabel.NumberFormat Property (PowerPoint)](http://msdn.microsoft.com/library/b19a87fb-3a20-dc56-2bb0-1e606e9a765c%28Office.15%29.aspx)
+[DataLabel.NumberFormat Property (PowerPoint)](https://msdn.microsoft.com/library/b19a87fb-3a20-dc56-2bb0-1e606e9a765c%28Office.15%29.aspx)
 
-[DataLabels.NumberFormat Property (PowerPoint)](http://msdn.microsoft.com/library/5007f141-9ed1-1337-d8b9-9d28903db7ce%28Office.15%29.aspx)
+[DataLabels.NumberFormat Property (PowerPoint)](https://msdn.microsoft.com/library/5007f141-9ed1-1337-d8b9-9d28903db7ce%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

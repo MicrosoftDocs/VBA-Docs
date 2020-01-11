@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Project.AskForCompletedWork Property (Project)](http://msdn.microsoft.com/library/54380c01-ae6f-a378-a46b-bfe0064fbc5f%28Office.15%29.aspx)
+[Project.AskForCompletedWork Property (Project)](https://msdn.microsoft.com/library/54380c01-ae6f-a378-a46b-bfe0064fbc5f%28Office.15%29.aspx)
 
-[Project.AutoAddResources Property (Project)](http://msdn.microsoft.com/library/b8e048f8-5bc1-740f-d397-e6f0ddf77a3a%28Office.15%29.aspx)
+[Project.AutoAddResources Property (Project)](https://msdn.microsoft.com/library/b8e048f8-5bc1-740f-d397-e6f0ddf77a3a%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

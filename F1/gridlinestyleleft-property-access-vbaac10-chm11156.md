@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-- [NavigationControl.GridlineStyleLeft property (Access)](http://msdn.microsoft.com/library/66383fb2-d44d-c979-a025-52c4a4a369ea%28Office.15%29.aspx)
+- [NavigationControl.GridlineStyleLeft property (Access)](https://msdn.microsoft.com/library/66383fb2-d44d-c979-a025-52c4a4a369ea%28Office.15%29.aspx)
 
-- [TextBox.GridlineStyleLeft property (Access)](http://msdn.microsoft.com/library/f1c71748-a37c-d0d0-5d8e-9899cf1efba5%28Office.15%29.aspx)
+- [TextBox.GridlineStyleLeft property (Access)](https://msdn.microsoft.com/library/f1c71748-a37c-d0d0-5d8e-9899cf1efba5%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

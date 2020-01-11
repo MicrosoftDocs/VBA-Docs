@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TextColumn object (Word)](http://msdn.microsoft.com/library/660614a8-ad5b-dae4-887e-0f75e1172c10%28Office.15%29.aspx)
+[TextColumn object (Word)](https://msdn.microsoft.com/library/660614a8-ad5b-dae4-887e-0f75e1172c10%28Office.15%29.aspx)
 
-[OMathFrac object (Word)](http://msdn.microsoft.com/library/31221b8f-9edc-9684-3b4e-867c23cf1c26%28Office.15%29.aspx)
+[OMathFrac object (Word)](https://msdn.microsoft.com/library/31221b8f-9edc-9684-3b4e-867c23cf1c26%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

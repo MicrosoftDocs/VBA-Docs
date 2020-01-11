@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[SparklineGroup.Points property (Excel)](http://msdn.microsoft.com/library/8891e8f6-811b-9540-b4d3-0651206013e2%28Office.15%29.aspx)
+[SparklineGroup.Points property (Excel)](https://msdn.microsoft.com/library/8891e8f6-811b-9540-b4d3-0651206013e2%28Office.15%29.aspx)
 
-[Points property](http://msdn.microsoft.com/library/afcc972f-aa1b-74f8-7b00-332cc3fa17a3%28Office.15%29.aspx)
+[Points property](https://msdn.microsoft.com/library/afcc972f-aa1b-74f8-7b00-332cc3fa17a3%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

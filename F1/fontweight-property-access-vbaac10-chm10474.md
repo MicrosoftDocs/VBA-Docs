@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[NavigationButton.FontWeight property (Access)](http://msdn.microsoft.com/library/23b07172-e1da-bd97-0515-a6c52da4636a%28Office.15%29.aspx)
+[NavigationButton.FontWeight property (Access)](https://msdn.microsoft.com/library/23b07172-e1da-bd97-0515-a6c52da4636a%28Office.15%29.aspx)
 
-[CommandButton.FontWeight property (Access)](http://msdn.microsoft.com/library/a7c0b157-c25c-24e5-b05d-cc8ab726ac7b%28Office.15%29.aspx)
+[CommandButton.FontWeight property (Access)](https://msdn.microsoft.com/library/a7c0b157-c25c-24e5-b05d-cc8ab726ac7b%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

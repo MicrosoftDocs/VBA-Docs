@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Chart.ClearToMatchStyle Method (Project)](http://msdn.microsoft.com/library/6715dd6c-4213-6fc6-5cdb-5eefbaf9d875%28Office.15%29.aspx)
+[Chart.ClearToMatchStyle Method (Project)](https://msdn.microsoft.com/library/6715dd6c-4213-6fc6-5cdb-5eefbaf9d875%28Office.15%29.aspx)
 
-[Chart.GetChartElement Method (Project)](http://msdn.microsoft.com/library/f2705f1d-7252-41ec-848b-f7f9cc26663e%28Office.15%29.aspx)
+[Chart.GetChartElement Method (Project)](https://msdn.microsoft.com/library/f2705f1d-7252-41ec-848b-f7f9cc26663e%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

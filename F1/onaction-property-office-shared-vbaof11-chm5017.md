@@ -14,11 +14,11 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CommandBarComboBox.OnAction Property (Office)](http://msdn.microsoft.com/library/fe666bce-9c38-4203-1059-343d1346913b%28Office.15%29.aspx)
+[CommandBarComboBox.OnAction Property (Office)](https://msdn.microsoft.com/library/fe666bce-9c38-4203-1059-343d1346913b%28Office.15%29.aspx)
 
-[CommandBarButton.OnAction Property (Office)](http://msdn.microsoft.com/library/c0a4148c-330a-6bd9-dd14-7ade8fc833fe%28Office.15%29.aspx)
+[CommandBarButton.OnAction Property (Office)](https://msdn.microsoft.com/library/c0a4148c-330a-6bd9-dd14-7ade8fc833fe%28Office.15%29.aspx)
 
-[CommandBarControl.OnAction Property (Office)](http://msdn.microsoft.com/library/05e40fcb-ff67-049f-6386-a9ef20b48c87%28Office.15%29.aspx)
-[CommandBarPopup.OnAction Property (Office)](http://msdn.microsoft.com/library/47511647-5f1f-5e40-179b-ec589a2c39be%28Office.15%29.aspx)
+[CommandBarControl.OnAction Property (Office)](https://msdn.microsoft.com/library/05e40fcb-ff67-049f-6386-a9ef20b48c87%28Office.15%29.aspx)
+[CommandBarPopup.OnAction Property (Office)](https://msdn.microsoft.com/library/47511647-5f1f-5e40-179b-ec589a2c39be%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

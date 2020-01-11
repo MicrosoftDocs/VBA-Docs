@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Chart.PlotVisibleOnly property (Word)](http://msdn.microsoft.com/library/59b7f58e-a1b2-56cd-89e8-529228d2979c%28Office.15%29.aspx)
+[Chart.PlotVisibleOnly property (Word)](https://msdn.microsoft.com/library/59b7f58e-a1b2-56cd-89e8-529228d2979c%28Office.15%29.aspx)
 
-[Chart.SetElement method (Word)](http://msdn.microsoft.com/library/d172a9df-b081-0077-18ef-f75bf0d6f26a%28Office.15%29.aspx)
+[Chart.SetElement method (Word)](https://msdn.microsoft.com/library/d172a9df-b081-0077-18ef-f75bf0d6f26a%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

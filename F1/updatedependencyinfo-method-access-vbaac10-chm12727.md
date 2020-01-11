@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CodeProject.UpdateDependencyInfo method (Access)](http://msdn.microsoft.com/library/52530a57-6246-d204-b317-0673f762f138%28Office.15%29.aspx)
+[CodeProject.UpdateDependencyInfo method (Access)](https://msdn.microsoft.com/library/52530a57-6246-d204-b317-0673f762f138%28Office.15%29.aspx)
 
-[CurrentProject.UpdateDependencyInfo method (Access)](http://msdn.microsoft.com/library/90461646-22a6-bfa8-4663-9f05c8ac3757%28Office.15%29.aspx)
+[CurrentProject.UpdateDependencyInfo method (Access)](https://msdn.microsoft.com/library/90461646-22a6-bfa8-4663-9f05c8ac3757%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

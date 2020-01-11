@@ -14,18 +14,18 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-- [CommandButton object (Access)](http://msdn.microsoft.com/library/25e7c0b7-03c1-dffe-8f52-4ec59739f6b8%28Office.15%29.aspx)
-- [CommandButton.Click event (Access)](http://msdn.microsoft.com/library/b84b7acd-c428-8cdb-7fc3-b1963e7102a3%28Office.15%29.aspx)
-- [CommandButton.DblClick event (Access)](http://msdn.microsoft.com/library/0bce5cae-67d8-3acd-2029-be72f511e250%28Office.15%29.aspx)
-- [CommandButton.Enter event (Access)](http://msdn.microsoft.com/library/cc60adbd-eb72-92c3-a562-08adbf0dcc99%28Office.15%29.aspx)
-- [CommandButton.Exit event (Access)](http://msdn.microsoft.com/library/d31c55ca-a2d9-7576-0a7f-a19307c36e87%28Office.15%29.aspx)
-- [CommandButton.GotFocus event (Access)](http://msdn.microsoft.com/library/b8ad669d-6353-ff62-5b06-5fda93d50327%28Office.15%29.aspx)
-- [CommandButton.KeyDown event (Access)](http://msdn.microsoft.com/library/d2bc24b6-62c8-dd3f-82af-600f045e2df1%28Office.15%29.aspx)
-- [CommandButton.KeyPress event (Access)](http://msdn.microsoft.com/library/afdc1037-c0fd-d5f2-3ccd-bc67c98aa482%28Office.15%29.aspx)
-- [CommandButton.KeyUp event (Access)](http://msdn.microsoft.com/library/6466c06a-d3fc-8187-82dd-7a5c332049a3%28Office.15%29.aspx)
-- [CommandButton.LostFocus event (Access)](http://msdn.microsoft.com/library/a8c29b13-5757-7be9-7111-81f847c8ec32%28Office.15%29.aspx)
-- [CommandButton.MouseDown event (Access)](http://msdn.microsoft.com/library/8daa650a-ebd8-6e87-a933-d5b1f240ded6%28Office.15%29.aspx)
-- [CommandButton.MouseMove event (Access)](http://msdn.microsoft.com/library/f20d4807-42a8-5c90-e18a-1208a138241c%28Office.15%29.aspx)
-- [CommandButton.MouseUp event (Access)](http://msdn.microsoft.com/library/92cbef4e-deee-1c5f-ec0e-10bc5e6ebd5b%28Office.15%29.aspx)
+- [CommandButton object (Access)](https://msdn.microsoft.com/library/25e7c0b7-03c1-dffe-8f52-4ec59739f6b8%28Office.15%29.aspx)
+- [CommandButton.Click event (Access)](https://msdn.microsoft.com/library/b84b7acd-c428-8cdb-7fc3-b1963e7102a3%28Office.15%29.aspx)
+- [CommandButton.DblClick event (Access)](https://msdn.microsoft.com/library/0bce5cae-67d8-3acd-2029-be72f511e250%28Office.15%29.aspx)
+- [CommandButton.Enter event (Access)](https://msdn.microsoft.com/library/cc60adbd-eb72-92c3-a562-08adbf0dcc99%28Office.15%29.aspx)
+- [CommandButton.Exit event (Access)](https://msdn.microsoft.com/library/d31c55ca-a2d9-7576-0a7f-a19307c36e87%28Office.15%29.aspx)
+- [CommandButton.GotFocus event (Access)](https://msdn.microsoft.com/library/b8ad669d-6353-ff62-5b06-5fda93d50327%28Office.15%29.aspx)
+- [CommandButton.KeyDown event (Access)](https://msdn.microsoft.com/library/d2bc24b6-62c8-dd3f-82af-600f045e2df1%28Office.15%29.aspx)
+- [CommandButton.KeyPress event (Access)](https://msdn.microsoft.com/library/afdc1037-c0fd-d5f2-3ccd-bc67c98aa482%28Office.15%29.aspx)
+- [CommandButton.KeyUp event (Access)](https://msdn.microsoft.com/library/6466c06a-d3fc-8187-82dd-7a5c332049a3%28Office.15%29.aspx)
+- [CommandButton.LostFocus event (Access)](https://msdn.microsoft.com/library/a8c29b13-5757-7be9-7111-81f847c8ec32%28Office.15%29.aspx)
+- [CommandButton.MouseDown event (Access)](https://msdn.microsoft.com/library/8daa650a-ebd8-6e87-a933-d5b1f240ded6%28Office.15%29.aspx)
+- [CommandButton.MouseMove event (Access)](https://msdn.microsoft.com/library/f20d4807-42a8-5c90-e18a-1208a138241c%28Office.15%29.aspx)
+- [CommandButton.MouseUp event (Access)](https://msdn.microsoft.com/library/92cbef4e-deee-1c5f-ec0e-10bc5e6ebd5b%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

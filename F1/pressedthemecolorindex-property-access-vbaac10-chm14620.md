@@ -14,11 +14,11 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ToggleButton.PressedThemeColorIndex property (Access)](http://msdn.microsoft.com/library/85609290-6641-001c-7bc2-0f14443b326f%28Office.15%29.aspx)
+[ToggleButton.PressedThemeColorIndex property (Access)](https://msdn.microsoft.com/library/85609290-6641-001c-7bc2-0f14443b326f%28Office.15%29.aspx)
 
-[TabControl.PressedThemeColorIndex property (Access)](http://msdn.microsoft.com/library/1ac09ba3-ba29-81d1-044a-210cd09e1cb6%28Office.15%29.aspx)
+[TabControl.PressedThemeColorIndex property (Access)](https://msdn.microsoft.com/library/1ac09ba3-ba29-81d1-044a-210cd09e1cb6%28Office.15%29.aspx)
 
-[CommandButton.PressedThemeColorIndex property (Access)](http://msdn.microsoft.com/library/12d76216-6a16-c487-02b3-721ed5e27b79%28Office.15%29.aspx)
-[NavigationButton.PressedThemeColorIndex property (Access)](http://msdn.microsoft.com/library/82db8953-4344-8d4e-8bd6-9c9cedba6657%28Office.15%29.aspx)
+[CommandButton.PressedThemeColorIndex property (Access)](https://msdn.microsoft.com/library/12d76216-6a16-c487-02b3-721ed5e27b79%28Office.15%29.aspx)
+[NavigationButton.PressedThemeColorIndex property (Access)](https://msdn.microsoft.com/library/82db8953-4344-8d4e-8bd6-9c9cedba6657%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

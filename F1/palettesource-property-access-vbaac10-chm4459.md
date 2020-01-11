@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.PaletteSource property (Access)](http://msdn.microsoft.com/library/91276931-0aa6-7e54-09eb-1747f036aa7c%28Office.15%29.aspx)
+[Form.PaletteSource property (Access)](https://msdn.microsoft.com/library/91276931-0aa6-7e54-09eb-1747f036aa7c%28Office.15%29.aspx)
 
-[Report.PaletteSource property (Access)](http://msdn.microsoft.com/library/9dc324a1-dc31-b0c5-edca-c4bc1674155a%28Office.15%29.aspx)
+[Report.PaletteSource property (Access)](https://msdn.microsoft.com/library/9dc324a1-dc31-b0c5-edca-c4bc1674155a%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

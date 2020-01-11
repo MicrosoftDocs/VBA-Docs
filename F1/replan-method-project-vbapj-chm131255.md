@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Assignment.Replan Method (Project)](http://msdn.microsoft.com/library/29ec0102-b4e4-c9dc-d930-4f8ff4069bd6%28Office.15%29.aspx)
+[Assignment.Replan Method (Project)](https://msdn.microsoft.com/library/29ec0102-b4e4-c9dc-d930-4f8ff4069bd6%28Office.15%29.aspx)
 
-[Application.Run Method (Project)](http://msdn.microsoft.com/library/0d4060b0-79e8-ad48-f5bf-c1050af379a2%28Office.15%29.aspx)
+[Application.Run Method (Project)](https://msdn.microsoft.com/library/0d4060b0-79e8-ad48-f5bf-c1050af379a2%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

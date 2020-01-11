@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Calendar.WorkWeeks Property (Project)](http://msdn.microsoft.com/library/c4a3887b-0518-2b22-0288-500ad567a301%28Office.15%29.aspx)
+[Calendar.WorkWeeks Property (Project)](https://msdn.microsoft.com/library/c4a3887b-0518-2b22-0288-500ad567a301%28Office.15%29.aspx)
 
-[Application.Use3DLook Property (Project)](http://msdn.microsoft.com/library/df4fce68-5ce1-5a99-3001-597a19871b1c%28Office.15%29.aspx)
+[Application.Use3DLook Property (Project)](https://msdn.microsoft.com/library/df4fce68-5ce1-5a99-3001-597a19871b1c%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

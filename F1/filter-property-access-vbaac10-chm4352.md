@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Report.Filter property (Access)](http://msdn.microsoft.com/library/ce57e05d-c3a8-012a-205e-7dfb2e4dd78d%28Office.15%29.aspx)
+[Report.Filter property (Access)](https://msdn.microsoft.com/library/ce57e05d-c3a8-012a-205e-7dfb2e4dd78d%28Office.15%29.aspx)
 
-[Form.Filter property (Access)](http://msdn.microsoft.com/library/5eb49f82-8519-981c-a663-9862736ac95f%28Office.15%29.aspx)
+[Form.Filter property (Access)](https://msdn.microsoft.com/library/5eb49f82-8519-981c-a663-9862736ac95f%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

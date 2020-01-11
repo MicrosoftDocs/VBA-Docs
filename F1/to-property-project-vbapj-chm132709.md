@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TaskDependency.To Property (Project)](http://msdn.microsoft.com/library/b2b26a7c-cbbd-c61c-a598-a04d9628fe0f%28Office.15%29.aspx)
+[TaskDependency.To Property (Project)](https://msdn.microsoft.com/library/b2b26a7c-cbbd-c61c-a598-a04d9628fe0f%28Office.15%29.aspx)
 
-[Assignment.TaskID Property (Project)](http://msdn.microsoft.com/library/71044e84-1388-1b9a-a374-d34f8cdef73b%28Office.15%29.aspx)
+[Assignment.TaskID Property (Project)](https://msdn.microsoft.com/library/71044e84-1388-1b9a-a374-d34f8cdef73b%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

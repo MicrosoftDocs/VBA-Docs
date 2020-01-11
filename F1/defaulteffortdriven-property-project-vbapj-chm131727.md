@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Project.DefaultEffortDriven Property (Project)](http://msdn.microsoft.com/library/2af7c41d-630f-1cda-7473-36eb49f400f4%28Office.15%29.aspx)
+[Project.DefaultEffortDriven Property (Project)](https://msdn.microsoft.com/library/2af7c41d-630f-1cda-7473-36eb49f400f4%28Office.15%29.aspx)
 
-[Task.DeliverableStart Property (Project)](http://msdn.microsoft.com/library/8d5df8de-e564-78c5-c2f0-d7096dc35b32%28Office.15%29.aspx)
+[Task.DeliverableStart Property (Project)](https://msdn.microsoft.com/library/8d5df8de-e564-78c5-c2f0-d7096dc35b32%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

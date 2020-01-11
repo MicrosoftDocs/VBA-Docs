@@ -14,11 +14,11 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.Text10 Property (Project)](http://msdn.microsoft.com/library/e4f41f32-a3a3-a672-c179-2661521d5741%28Office.15%29.aspx)
+[Task.Text10 Property (Project)](https://msdn.microsoft.com/library/e4f41f32-a3a3-a672-c179-2661521d5741%28Office.15%29.aspx)
 
-[Assignment.Units Property (Project)](http://msdn.microsoft.com/library/feab9879-5566-a7b6-061d-47e231ac64a1%28Office.15%29.aspx)
+[Assignment.Units Property (Project)](https://msdn.microsoft.com/library/feab9879-5566-a7b6-061d-47e231ac64a1%28Office.15%29.aspx)
 
-[Assignment.Text10 Property (Project)](http://msdn.microsoft.com/library/5d6cc09f-4ef8-7aa9-7840-6a4ba341f55f%28Office.15%29.aspx)
-[Resource.Text10 Property (Project)](http://msdn.microsoft.com/library/ea30e4b1-1cda-d94e-39d8-ef94bb67366e%28Office.15%29.aspx)
+[Assignment.Text10 Property (Project)](https://msdn.microsoft.com/library/5d6cc09f-4ef8-7aa9-7840-6a4ba341f55f%28Office.15%29.aspx)
+[Resource.Text10 Property (Project)](https://msdn.microsoft.com/library/ea30e4b1-1cda-d94e-39d8-ef94bb67366e%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

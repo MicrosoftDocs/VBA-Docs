@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CommandButton.IsVisible property (Access)](http://msdn.microsoft.com/library/f5438725-4628-4f8e-1bf3-0027348b9285%28Office.15%29.aspx)
+[CommandButton.IsVisible property (Access)](https://msdn.microsoft.com/library/f5438725-4628-4f8e-1bf3-0027348b9285%28Office.15%29.aspx)
 
-[NavigationButton.IsVisible property (Access)](http://msdn.microsoft.com/library/e288a0a8-40e2-9609-b11c-ac68438c2339%28Office.15%29.aspx)
+[NavigationButton.IsVisible property (Access)](https://msdn.microsoft.com/library/e288a0a8-40e2-9609-b11c-ac68438c2339%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.Stop Property (Project)](http://msdn.microsoft.com/library/b541e2e4-8b3e-59c5-4115-128fb0338765%28Office.15%29.aspx)
+[Task.Stop Property (Project)](https://msdn.microsoft.com/library/b541e2e4-8b3e-59c5-4115-128fb0338765%28Office.15%29.aspx)
 
-[Assignment.TaskGuid Property (Project)](http://msdn.microsoft.com/library/e08a97f7-6504-b15d-157f-e641112b61c2%28Office.15%29.aspx)
+[Assignment.TaskGuid Property (Project)](https://msdn.microsoft.com/library/e08a97f7-6504-b15d-157f-e641112b61c2%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

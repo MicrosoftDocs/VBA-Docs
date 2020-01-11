@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CommandButton.KeyUp event (Access)](http://msdn.microsoft.com/library/6466c06a-d3fc-8187-82dd-7a5c332049a3%28Office.15%29.aspx)
+[CommandButton.KeyUp event (Access)](https://msdn.microsoft.com/library/6466c06a-d3fc-8187-82dd-7a5c332049a3%28Office.15%29.aspx)
 
-[NavigationButton.KeyUp event (Access)](http://msdn.microsoft.com/library/65461552-5178-0b71-e82d-a48e98f2cbef%28Office.15%29.aspx)
+[NavigationButton.KeyUp event (Access)](https://msdn.microsoft.com/library/65461552-5178-0b71-e82d-a48e98f2cbef%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

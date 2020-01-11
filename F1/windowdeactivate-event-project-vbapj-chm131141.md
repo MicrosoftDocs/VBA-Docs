@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.WindowDeactivate Event (Project)](http://msdn.microsoft.com/library/141940d7-f117-d3a8-2aa5-83679a5fbfd4%28Office.15%29.aspx)
+[Application.WindowDeactivate Event (Project)](https://msdn.microsoft.com/library/141940d7-f117-d3a8-2aa5-83679a5fbfd4%28Office.15%29.aspx)
 
-[Application.ProjectTaskNew Event (Project)](http://msdn.microsoft.com/library/40e9d8da-f863-a73e-56e9-bb89327142fb%28Office.15%29.aspx)
+[Application.ProjectTaskNew Event (Project)](https://msdn.microsoft.com/library/40e9d8da-f863-a73e-56e9-bb89327142fb%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

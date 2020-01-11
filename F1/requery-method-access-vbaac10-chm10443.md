@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CommandButton.Requery method (Access)](http://msdn.microsoft.com/library/9a8fed17-aec2-c592-c003-92bc832d5da0%28Office.15%29.aspx)
+[CommandButton.Requery method (Access)](https://msdn.microsoft.com/library/9a8fed17-aec2-c592-c003-92bc832d5da0%28Office.15%29.aspx)
 
-[NavigationButton.Requery method (Access)](http://msdn.microsoft.com/library/4beb0efc-2e95-469e-21be-e546d0a66414%28Office.15%29.aspx)
+[NavigationButton.Requery method (Access)](https://msdn.microsoft.com/library/4beb0efc-2e95-469e-21be-e546d0a66414%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

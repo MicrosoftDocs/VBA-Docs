@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[IVKeyboardEvent.Application Property (Visio)](http://msdn.microsoft.com/library/9eefdda1-02c9-e256-a57a-1862a59695cf%28Office.15%29.aspx)
+[IVKeyboardEvent.Application Property (Visio)](https://msdn.microsoft.com/library/9eefdda1-02c9-e256-a57a-1862a59695cf%28Office.15%29.aspx)
 
-[KeyboardEvent.Application Property (Visio)](http://msdn.microsoft.com/library/7765db2a-8287-b2cc-5868-49b69fbfacac%28Office.15%29.aspx)
+[KeyboardEvent.Application Property (Visio)](https://msdn.microsoft.com/library/7765db2a-8287-b2cc-5868-49b69fbfacac%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

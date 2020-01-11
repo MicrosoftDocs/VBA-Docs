@@ -14,10 +14,10 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.AutoCorrect property (Access)](http://msdn.microsoft.com/library/10c259ed-43c2-b413-d137-78b2c9ff4326%28Office.15%29.aspx)
+[Application.AutoCorrect property (Access)](https://msdn.microsoft.com/library/10c259ed-43c2-b413-d137-78b2c9ff4326%28Office.15%29.aspx)
 
-[ComboBox.AllowAutoCorrect property (Access)](http://msdn.microsoft.com/library/ebf48367-20fb-14be-7082-a2d9de923c51%28Office.15%29.aspx)
+[ComboBox.AllowAutoCorrect property (Access)](https://msdn.microsoft.com/library/ebf48367-20fb-14be-7082-a2d9de923c51%28Office.15%29.aspx)
 
-[TextBox.AllowAutoCorrect property (Access)](http://msdn.microsoft.com/library/9cafa161-c073-855f-edee-c7c9cb32be99%28Office.15%29.aspx)
+[TextBox.AllowAutoCorrect property (Access)](https://msdn.microsoft.com/library/9cafa161-c073-855f-edee-c7c9cb32be99%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

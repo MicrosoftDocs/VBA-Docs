@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[EndnoteOptions object (Word)d6222a8a-95e7-aaa9-2e25-572454bce1f8](http://msdn.microsoft.com/library/d6222a8a-95e7-aaa9-2e25-572454bce1f8%28Office.15%29.aspx)
+[EndnoteOptions object (Word)d6222a8a-95e7-aaa9-2e25-572454bce1f8](https://msdn.microsoft.com/library/d6222a8a-95e7-aaa9-2e25-572454bce1f8%28Office.15%29.aspx)
 
-[EndnoteOptions object (Word)](http://msdn.microsoft.com/library/b63cf439-2297-fec9-ba36-66ad3f43dcbc%28Office.15%29.aspx)
+[EndnoteOptions object (Word)](https://msdn.microsoft.com/library/b63cf439-2297-fec9-ba36-66ad3f43dcbc%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

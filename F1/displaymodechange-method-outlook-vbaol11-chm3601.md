@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ExplorerEvents_10.DisplayModeChange Method (Outlook)](http://msdn.microsoft.com/library/8805ec85-d6b2-dec4-2179-9de0b08a2a7b%28Office.15%29.aspx)
+[ExplorerEvents_10.DisplayModeChange Method (Outlook)](https://msdn.microsoft.com/library/8805ec85-d6b2-dec4-2179-9de0b08a2a7b%28Office.15%29.aspx)
 
-[Explorer.DisplayModeChange Event (Outlook)](http://msdn.microsoft.com/library/cee77aad-8905-efed-466e-c2e88cfeeaa2%28Office.15%29.aspx)
+[Explorer.DisplayModeChange Event (Outlook)](https://msdn.microsoft.com/library/cee77aad-8905-efed-466e-c2e88cfeeaa2%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

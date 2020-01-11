@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.ScreenUpdating Property (Project)](http://msdn.microsoft.com/library/23260017-c550-4f2b-a57f-4d7f7c1c0d52%28Office.15%29.aspx)
+[Application.ScreenUpdating Property (Project)](https://msdn.microsoft.com/library/23260017-c550-4f2b-a57f-4d7f7c1c0d52%28Office.15%29.aspx)
 
-[Task.StartSlack Property (Project)](http://msdn.microsoft.com/library/0a777363-9535-31b3-c24b-729a53b83190%28Office.15%29.aspx)
+[Task.StartSlack Property (Project)](https://msdn.microsoft.com/library/0a777363-9535-31b3-c24b-729a53b83190%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

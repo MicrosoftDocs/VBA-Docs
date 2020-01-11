@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.DeliverableName Property (Project)](http://msdn.microsoft.com/library/7ef9faef-d0e4-8f9d-5029-2f2a80489b95%28Office.15%29.aspx)
+[Task.DeliverableName Property (Project)](https://msdn.microsoft.com/library/7ef9faef-d0e4-8f9d-5029-2f2a80489b95%28Office.15%29.aspx)
 
-[Application.DisplayWizardErrors Property (Project)](http://msdn.microsoft.com/library/b0af54ec-392f-b84d-3dcc-cc52c991b66d%28Office.15%29.aspx)
+[Application.DisplayWizardErrors Property (Project)](https://msdn.microsoft.com/library/b0af54ec-392f-b84d-3dcc-cc52c991b66d%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

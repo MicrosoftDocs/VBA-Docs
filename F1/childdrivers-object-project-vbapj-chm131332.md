@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ChildDrivers Object (Project)](http://msdn.microsoft.com/library/5260ab69-f81a-3466-c969-d84a2c60551e%28Office.15%29.aspx)
+[ChildDrivers Object (Project)](https://msdn.microsoft.com/library/5260ab69-f81a-3466-c969-d84a2c60551e%28Office.15%29.aspx)
 
-[TableField Object (Project)](http://msdn.microsoft.com/library/7f749404-0723-7a17-b83f-f43725c45fc5%28Office.15%29.aspx)
+[TableField Object (Project)](https://msdn.microsoft.com/library/7f749404-0723-7a17-b83f-f43725c45fc5%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

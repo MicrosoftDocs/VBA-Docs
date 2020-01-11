@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ShapeRange.SoftEdge Property (Publisher)](http://msdn.microsoft.com/library/fd8006a9-91f8-6aeb-fa20-d5847122d14f%28Office.15%29.aspx)
+[ShapeRange.SoftEdge Property (Publisher)](https://msdn.microsoft.com/library/fd8006a9-91f8-6aeb-fa20-d5847122d14f%28Office.15%29.aspx)
 
-[Shape.SoftEdge Property (Publisher)](http://msdn.microsoft.com/library/1bbb441e-314d-30d6-bae7-f96f81224dd9%28Office.15%29.aspx)
+[Shape.SoftEdge Property (Publisher)](https://msdn.microsoft.com/library/1bbb441e-314d-30d6-bae7-f96f81224dd9%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

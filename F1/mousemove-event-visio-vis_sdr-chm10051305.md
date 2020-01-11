@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[InvisibleApp.MouseMove Event (Visio)](http://msdn.microsoft.com/library/7f360b69-539e-bdf2-2ff5-1b67090e01ac%28Office.15%29.aspx)
+[InvisibleApp.MouseMove Event (Visio)](https://msdn.microsoft.com/library/7f360b69-539e-bdf2-2ff5-1b67090e01ac%28Office.15%29.aspx)
 
-[Application.MouseMove Event (Visio)](http://msdn.microsoft.com/library/3ffd86f8-8700-88a7-9ffc-24df11c93dd4%28Office.15%29.aspx)
+[Application.MouseMove Event (Visio)](https://msdn.microsoft.com/library/3ffd86f8-8700-88a7-9ffc-24df11c93dd4%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

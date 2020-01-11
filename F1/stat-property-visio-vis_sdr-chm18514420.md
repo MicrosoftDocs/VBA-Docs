@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ValidationIssues.Stat Property (Visio)](http://msdn.microsoft.com/library/bf0731f1-fd5e-d2e3-489c-17efeab04291%28Office.15%29.aspx)
+[ValidationIssues.Stat Property (Visio)](https://msdn.microsoft.com/library/bf0731f1-fd5e-d2e3-489c-17efeab04291%28Office.15%29.aspx)
 
-[ValidationIssues.Stat Property (Visio)](http://msdn.microsoft.com/library/b1b92228-c844-4bdb-60d3-8fde3a5fc1c3%28Office.15%29.aspx)
+[ValidationIssues.Stat Property (Visio)](https://msdn.microsoft.com/library/b1b92228-c844-4bdb-60d3-8fde3a5fc1c3%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

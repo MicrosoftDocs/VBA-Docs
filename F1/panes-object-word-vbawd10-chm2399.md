@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Panes object (Word)](http://msdn.microsoft.com/library/6ed6353c-9134-f47d-a108-13e84eced8ff%28Office.15%29.aspx)
+[Panes object (Word)](https://msdn.microsoft.com/library/6ed6353c-9134-f47d-a108-13e84eced8ff%28Office.15%29.aspx)
 
-[Panes object (Word)d8bd33e7-55e9-9f53-182e-738339d58064](http://msdn.microsoft.com/library/d8bd33e7-55e9-9f53-182e-738339d58064%28Office.15%29.aspx)
+[Panes object (Word)d8bd33e7-55e9-9f53-182e-738339d58064](https://msdn.microsoft.com/library/d8bd33e7-55e9-9f53-182e-738339d58064%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

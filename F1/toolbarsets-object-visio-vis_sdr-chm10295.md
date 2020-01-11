@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ToolbarSets Object (Visio)](http://msdn.microsoft.com/library/413b8169-1840-a2c4-4552-9343b3f64035.aspx)
+[ToolbarSets Object (Visio)](https://msdn.microsoft.com/library/413b8169-1840-a2c4-4552-9343b3f64035.aspx)
 
-[ToolbarSets Object (Visio)](http://msdn.microsoft.com/library/ddf79048-6585-81ab-b1c6-d7c4b0f0ff1b%28Office.15%29.aspx)
+[ToolbarSets Object (Visio)](https://msdn.microsoft.com/library/ddf79048-6585-81ab-b1c6-d7c4b0f0ff1b%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

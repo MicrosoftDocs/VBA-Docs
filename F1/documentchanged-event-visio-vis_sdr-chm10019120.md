@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[InvisibleApp.DocumentChanged Event (Visio)](http://msdn.microsoft.com/library/d822ab40-99a5-d308-d820-a8834f65fee8%28Office.15%29.aspx)
+[InvisibleApp.DocumentChanged Event (Visio)](https://msdn.microsoft.com/library/d822ab40-99a5-d308-d820-a8834f65fee8%28Office.15%29.aspx)
 
-[Application.DocumentChanged Event (Visio)](http://msdn.microsoft.com/library/bed6b530-8d95-10f1-2239-ae7fa940db76%28Office.15%29.aspx)
+[Application.DocumentChanged Event (Visio)](https://msdn.microsoft.com/library/bed6b530-8d95-10f1-2239-ae7fa940db76%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

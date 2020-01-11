@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CommandButton.FontUnderline property (Access)](http://msdn.microsoft.com/library/1882cbe8-3e22-9224-bb18-a5f3aa9cf737%28Office.15%29.aspx)
+[CommandButton.FontUnderline property (Access)](https://msdn.microsoft.com/library/1882cbe8-3e22-9224-bb18-a5f3aa9cf737%28Office.15%29.aspx)
 
-[NavigationButton.FontUnderline property (Access)](http://msdn.microsoft.com/library/e5839cc1-d600-d46b-0433-d50aaadd79ca%28Office.15%29.aspx)
+[NavigationButton.FontUnderline property (Access)](https://msdn.microsoft.com/library/e5839cc1-d600-d46b-0433-d50aaadd79ca%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

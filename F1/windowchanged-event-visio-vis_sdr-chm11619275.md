@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Window.WindowChanged Event (Visio)](http://msdn.microsoft.com/library/ee7e4871-26ca-ea4e-1c7b-2e597d92e143%28Office.15%29.aspx)
+[Window.WindowChanged Event (Visio)](https://msdn.microsoft.com/library/ee7e4871-26ca-ea4e-1c7b-2e597d92e143%28Office.15%29.aspx)
 
-[DrawingControl.WindowChanged Event (Visio)](http://msdn.microsoft.com/library/a8e07754-d272-0874-ac0c-ea54174431d5%28Office.15%29.aspx)
+[DrawingControl.WindowChanged Event (Visio)](https://msdn.microsoft.com/library/a8e07754-d272-0874-ac0c-ea54174431d5%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

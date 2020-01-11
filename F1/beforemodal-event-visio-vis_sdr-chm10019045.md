@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[InvisibleApp.BeforeModal Event (Visio)](http://msdn.microsoft.com/library/9e31701c-23fa-393a-b118-18a757e4f895%28Office.15%29.aspx)
+[InvisibleApp.BeforeModal Event (Visio)](https://msdn.microsoft.com/library/9e31701c-23fa-393a-b118-18a757e4f895%28Office.15%29.aspx)
 
-[Application.BeforeModal Event (Visio)](http://msdn.microsoft.com/library/505d3e54-c8f7-7f02-90d2-43f73573b296%28Office.15%29.aspx)
+[Application.BeforeModal Event (Visio)](https://msdn.microsoft.com/library/505d3e54-c8f7-7f02-90d2-43f73573b296%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

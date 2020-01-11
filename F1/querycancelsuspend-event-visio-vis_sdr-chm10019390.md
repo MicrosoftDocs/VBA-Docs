@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[InvisibleApp.QueryCancelSuspend Event (Visio)](http://msdn.microsoft.com/library/49e6dbe2-f1d9-5743-11d2-c64e1d98475d%28Office.15%29.aspx)
+[InvisibleApp.QueryCancelSuspend Event (Visio)](https://msdn.microsoft.com/library/49e6dbe2-f1d9-5743-11d2-c64e1d98475d%28Office.15%29.aspx)
 
-[Application.QueryCancelSuspend Event (Visio)](http://msdn.microsoft.com/library/1beb9459-f331-d20b-59f0-da505a375a4f%28Office.15%29.aspx)
+[Application.QueryCancelSuspend Event (Visio)](https://msdn.microsoft.com/library/1beb9459-f331-d20b-59f0-da505a375a4f%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

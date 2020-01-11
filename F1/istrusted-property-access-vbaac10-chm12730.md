@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CurrentProject.IsTrusted property (Access)](http://msdn.microsoft.com/library/c3d8b6f8-c79f-79ab-d4e0-0454f97ac937%28Office.15%29.aspx)
+[CurrentProject.IsTrusted property (Access)](https://msdn.microsoft.com/library/c3d8b6f8-c79f-79ab-d4e0-0454f97ac937%28Office.15%29.aspx)
 
-[CodeProject.IsTrusted property (Access)](http://msdn.microsoft.com/library/11f0088a-77f4-cd37-e730-86c4641f4a70%28Office.15%29.aspx)
+[CodeProject.IsTrusted property (Access)](https://msdn.microsoft.com/library/11f0088a-77f4-cd37-e730-86c4641f4a70%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

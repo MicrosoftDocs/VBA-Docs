@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Series.ApplyPictToEnd Property (PowerPoint)](http://msdn.microsoft.com/library/fa71354c-c76a-545a-ae3c-22ae36260365%28Office.15%29.aspx)
+[Series.ApplyPictToEnd Property (PowerPoint)](https://msdn.microsoft.com/library/fa71354c-c76a-545a-ae3c-22ae36260365%28Office.15%29.aspx)
 
-[Point.ApplyPictToEnd Property (PowerPoint)](http://msdn.microsoft.com/library/5b1a3168-9a77-55e0-9d9c-edd66fd338d2%28Office.15%29.aspx)
+[Point.ApplyPictToEnd Property (PowerPoint)](https://msdn.microsoft.com/library/5b1a3168-9a77-55e0-9d9c-edd66fd338d2%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

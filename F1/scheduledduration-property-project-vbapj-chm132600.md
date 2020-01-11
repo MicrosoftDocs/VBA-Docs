@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.ScheduledDuration Property (Project)](http://msdn.microsoft.com/library/3a787ac9-ef29-9703-72dd-1edb198541e2%28Office.15%29.aspx)
+[Task.ScheduledDuration Property (Project)](https://msdn.microsoft.com/library/3a787ac9-ef29-9703-72dd-1edb198541e2%28Office.15%29.aspx)
 
-[TimeScaleValue.StartDate Property (Project)](http://msdn.microsoft.com/library/fdd70c48-7f07-f4dc-db93-ad46fb30a2bb%28Office.15%29.aspx)
+[TimeScaleValue.StartDate Property (Project)](https://msdn.microsoft.com/library/fdd70c48-7f07-f4dc-db93-ad46fb30a2bb%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

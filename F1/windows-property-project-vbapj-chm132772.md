@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Project.Windows Property (Project)](http://msdn.microsoft.com/library/6096d9b0-c6ba-3e48-9265-f3e8448d293f%28Office.15%29.aspx)
+[Project.Windows Property (Project)](https://msdn.microsoft.com/library/6096d9b0-c6ba-3e48-9265-f3e8448d293f%28Office.15%29.aspx)
 
-[Application.Windows Property (Project)](http://msdn.microsoft.com/library/0f589af9-d587-3cfc-ffbb-64d901ff3bd4%28Office.15%29.aspx)
+[Application.Windows Property (Project)](https://msdn.microsoft.com/library/0f589af9-d587-3cfc-ffbb-64d901ff3bd4%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

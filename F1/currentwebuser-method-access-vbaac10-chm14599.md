@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.CurrentWebUser method (Access)](http://msdn.microsoft.com/library/cb8b230d-71c5-c73d-c88e-1a13246492a5%28Office.15%29.aspx)
+[Application.CurrentWebUser method (Access)](https://msdn.microsoft.com/library/cb8b230d-71c5-c73d-c88e-1a13246492a5%28Office.15%29.aspx)
 
-[AcWebUserDisplay enumeration (Access)](http://msdn.microsoft.com/library/4723ddf2-ceab-9313-b713-4654a2e83297%28Office.15%29.aspx)
+[AcWebUserDisplay enumeration (Access)](https://msdn.microsoft.com/library/4723ddf2-ceab-9313-b713-4654a2e83297%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

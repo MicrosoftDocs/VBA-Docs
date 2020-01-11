@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[DownBars object (Word)](http://msdn.microsoft.com/library/d0cf170e-0c58-2d01-a4b2-1eaf65dbfa3c%28Office.15%29.aspx)
+[DownBars object (Word)](https://msdn.microsoft.com/library/d0cf170e-0c58-2d01-a4b2-1eaf65dbfa3c%28Office.15%29.aspx)
 
-[DownBars object (Word)9cceafe8-0d34-a339-159e-3297044c22d2](http://msdn.microsoft.com/library/9cceafe8-0d34-a339-159e-3297044c22d2%28Office.15%29.aspx)
+[DownBars object (Word)9cceafe8-0d34-a339-159e-3297044c22d2](https://msdn.microsoft.com/library/9cceafe8-0d34-a339-159e-3297044c22d2%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

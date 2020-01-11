@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.AllowLayoutView property (Access)](http://msdn.microsoft.com/library/70b273ef-60fa-00b8-b262-3c45e691ed42%28Office.15%29.aspx)
+[Form.AllowLayoutView property (Access)](https://msdn.microsoft.com/library/70b273ef-60fa-00b8-b262-3c45e691ed42%28Office.15%29.aspx)
 
-[Report.AllowLayoutView property (Access)](http://msdn.microsoft.com/library/5388fcd8-32fb-781d-538c-ac114f8d5bd8%28Office.15%29.aspx)
+[Report.AllowLayoutView property (Access)](https://msdn.microsoft.com/library/5388fcd8-32fb-781d-538c-ac114f8d5bd8%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

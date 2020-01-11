@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[NavigationControl.Value property (Access)](http://msdn.microsoft.com/library/9e45f505-81d3-63e9-b0c1-7182372224ad%28Office.15%29.aspx)
+[NavigationControl.Value property (Access)](https://msdn.microsoft.com/library/9e45f505-81d3-63e9-b0c1-7182372224ad%28Office.15%29.aspx)
 
-[TextBox.Value property (Access)](http://msdn.microsoft.com/library/4cb4c33f-dd96-0309-f30b-8e445d123756%28Office.15%29.aspx)
+[TextBox.Value property (Access)](https://msdn.microsoft.com/library/4cb4c33f-dd96-0309-f30b-8e445d123756%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

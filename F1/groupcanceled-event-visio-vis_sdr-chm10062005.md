@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[InvisibleApp.GroupCanceled Event (Visio)](http://msdn.microsoft.com/library/1845e634-1a3a-18b6-b110-0e7ce2c94810%28Office.15%29.aspx)
+[InvisibleApp.GroupCanceled Event (Visio)](https://msdn.microsoft.com/library/1845e634-1a3a-18b6-b110-0e7ce2c94810%28Office.15%29.aspx)
 
-[Application.GroupCanceled Event (Visio)](http://msdn.microsoft.com/library/becaba95-3904-fa18-37a2-b8b8b48a11ab%28Office.15%29.aspx)
+[Application.GroupCanceled Event (Visio)](https://msdn.microsoft.com/library/becaba95-3904-fa18-37a2-b8b8b48a11ab%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

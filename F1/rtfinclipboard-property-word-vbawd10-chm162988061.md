@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Options.RTFInClipboard property (Word)](http://msdn.microsoft.com/library/b9cfb4a2-cbdf-c7c9-885e-5f9b7f370d9a%28Office.15%29.aspx)
+[Options.RTFInClipboard property (Word)](https://msdn.microsoft.com/library/b9cfb4a2-cbdf-c7c9-885e-5f9b7f370d9a%28Office.15%29.aspx)
 
-[Options.Options.RTFInClipboard property (Word)](http://msdn.microsoft.com/library/86166b42-3007-aa4e-d967-e8496e86a947%28Office.15%29.aspx)
+[Options.Options.RTFInClipboard property (Word)](https://msdn.microsoft.com/library/86166b42-3007-aa4e-d967-e8496e86a947%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

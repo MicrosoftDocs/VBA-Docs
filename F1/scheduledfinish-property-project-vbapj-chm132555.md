@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.ScheduledFinish Property (Project)](http://msdn.microsoft.com/library/2d3a8af8-8d88-e271-4e2f-377b328257ea%28Office.15%29.aspx)
+[Task.ScheduledFinish Property (Project)](https://msdn.microsoft.com/library/2d3a8af8-8d88-e271-4e2f-377b328257ea%28Office.15%29.aspx)
 
-[Reports.Add Method (Project)](http://msdn.microsoft.com/library/3ce8e51c-54c6-6cc7-f5ec-c27e0a657f04%28Office.15%29.aspx)
+[Reports.Add Method (Project)](https://msdn.microsoft.com/library/3ce8e51c-54c6-6cc7-f5ec-c27e0a657f04%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

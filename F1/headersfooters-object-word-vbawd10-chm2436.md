@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[HeadersFooters object (Word)](http://msdn.microsoft.com/library/41dbbaa7-f139-3d3c-54d4-03a57ab8417a%28Office.15%29.aspx)
+[HeadersFooters object (Word)](https://msdn.microsoft.com/library/41dbbaa7-f139-3d3c-54d4-03a57ab8417a%28Office.15%29.aspx)
 
-[HeadersFooters object (Word)7e85bb4c-0945-2e92-a069-a0027d95556a](http://msdn.microsoft.com/library/7e85bb4c-0945-2e92-a069-a0027d95556a%28Office.15%29.aspx)
+[HeadersFooters object (Word)7e85bb4c-0945-2e92-a069-a0027d95556a](https://msdn.microsoft.com/library/7e85bb4c-0945-2e92-a069-a0027d95556a%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Document.StyleAdded Event (Visio)](http://msdn.microsoft.com/library/e6bed9a7-e448-061d-3547-a383697ffdc3%28Office.15%29.aspx)
+[Document.StyleAdded Event (Visio)](https://msdn.microsoft.com/library/e6bed9a7-e448-061d-3547-a383697ffdc3%28Office.15%29.aspx)
 
-[DrawingControl.StyleAdded Event (Visio)](http://msdn.microsoft.com/library/f6918406-51ab-8c9a-a8a2-d9f672ef7efc%28Office.15%29.aspx)
+[DrawingControl.StyleAdded Event (Visio)](https://msdn.microsoft.com/library/f6918406-51ab-8c9a-a8a2-d9f672ef7efc%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

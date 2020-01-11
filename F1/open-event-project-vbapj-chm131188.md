@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Project.Open Event (Project)](http://msdn.microsoft.com/library/ff66a69b-4190-ddef-ad39-12a3f9f85b9c%28Office.15%29.aspx)
+[Project.Open Event (Project)](https://msdn.microsoft.com/library/ff66a69b-4190-ddef-ad39-12a3f9f85b9c%28Office.15%29.aspx)
 
-[Project.Change Event (Project)](http://msdn.microsoft.com/library/ef109b59-c7be-0707-9716-13c86180c27c%28Office.15%29.aspx)
+[Project.Change Event (Project)](https://msdn.microsoft.com/library/ef109b59-c7be-0707-9716-13c86180c27c%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

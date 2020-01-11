@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Cells object (Word)19584c31-79a7-85ed-c76f-3b8d29cf46a3](http://msdn.microsoft.com/library/19584c31-79a7-85ed-c76f-3b8d29cf46a3%28Office.15%29.aspx)
+[Cells object (Word)19584c31-79a7-85ed-c76f-3b8d29cf46a3](https://msdn.microsoft.com/library/19584c31-79a7-85ed-c76f-3b8d29cf46a3%28Office.15%29.aspx)
 
-[Cells object (Word)](http://msdn.microsoft.com/library/ceaa5b45-518d-d6ea-1ce8-5a34f6e37046%28Office.15%29.aspx)
+[Cells object (Word)](https://msdn.microsoft.com/library/ceaa5b45-518d-d6ea-1ce8-5a34f6e37046%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

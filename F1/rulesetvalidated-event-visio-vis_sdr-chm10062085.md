@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[InvisibleApp.RuleSetValidated Event (Visio)](http://msdn.microsoft.com/library/6754decd-b5a4-a67f-0361-5c315ba6098e%28Office.15%29.aspx)
+[InvisibleApp.RuleSetValidated Event (Visio)](https://msdn.microsoft.com/library/6754decd-b5a4-a67f-0361-5c315ba6098e%28Office.15%29.aspx)
 
-[Application.RuleSetValidated Event (Visio)](http://msdn.microsoft.com/library/d074d4d9-9840-0054-8502-e8537952d7d0%28Office.15%29.aspx)
+[Application.RuleSetValidated Event (Visio)](https://msdn.microsoft.com/library/d074d4d9-9840-0054-8502-e8537952d7d0%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

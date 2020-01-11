@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.TotalSlack Property (Project)](http://msdn.microsoft.com/library/6a9246c7-7d94-534e-28f2-403c2587976e%28Office.15%29.aspx)
+[Task.TotalSlack Property (Project)](https://msdn.microsoft.com/library/6a9246c7-7d94-534e-28f2-403c2587976e%28Office.15%29.aspx)
 
-[Project.WBSCodeGenerate Property (Project)](http://msdn.microsoft.com/library/c387015f-6243-1509-ae1a-bafdf09f7393%28Office.15%29.aspx)
+[Project.WBSCodeGenerate Property (Project)](https://msdn.microsoft.com/library/c387015f-6243-1509-ae1a-bafdf09f7393%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

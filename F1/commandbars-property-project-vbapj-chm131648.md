@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Project.CommandBars Property (Project)](http://msdn.microsoft.com/library/8b987a76-0aa4-537b-871b-ad36338b2b4e%28Office.15%29.aspx)
+[Project.CommandBars Property (Project)](https://msdn.microsoft.com/library/8b987a76-0aa4-537b-871b-ad36338b2b4e%28Office.15%29.aspx)
 
-[Application.CommandBars Property (Project)](http://msdn.microsoft.com/library/80f57057-9bb3-018b-0e45-fd1423368091%28Office.15%29.aspx)
+[Application.CommandBars Property (Project)](https://msdn.microsoft.com/library/80f57057-9bb3-018b-0e45-fd1423368091%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

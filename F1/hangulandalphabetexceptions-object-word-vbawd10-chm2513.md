@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[HangulAndAlphabetExceptions object (Word)dab6ca4f-ce84-eb51-1fec-2bb1e7b7c02c](http://msdn.microsoft.com/library/dab6ca4f-ce84-eb51-1fec-2bb1e7b7c02c%28Office.15%29.aspx)
+[HangulAndAlphabetExceptions object (Word)dab6ca4f-ce84-eb51-1fec-2bb1e7b7c02c](https://msdn.microsoft.com/library/dab6ca4f-ce84-eb51-1fec-2bb1e7b7c02c%28Office.15%29.aspx)
 
-[HangulAndAlphabetExceptions object (Word)](http://msdn.microsoft.com/library/ddb128f0-3752-5d38-e65a-767f17d86294%28Office.15%29.aspx)
+[HangulAndAlphabetExceptions object (Word)](https://msdn.microsoft.com/library/ddb128f0-3752-5d38-e65a-767f17d86294%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

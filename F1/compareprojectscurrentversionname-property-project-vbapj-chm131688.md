@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.CompareProjectsCurrentVersionName Property (Project)](http://msdn.microsoft.com/library/1cd33b06-9c68-7278-9d78-0308f9277e88%28Office.15%29.aspx)
+[Application.CompareProjectsCurrentVersionName Property (Project)](https://msdn.microsoft.com/library/1cd33b06-9c68-7278-9d78-0308f9277e88%28Office.15%29.aspx)
 
-[Project.CurrentTable Property (Project)](http://msdn.microsoft.com/library/7b80d451-bf37-7b1c-62b4-7ee0e7fd0e63%28Office.15%29.aspx)
+[Project.CurrentTable Property (Project)](https://msdn.microsoft.com/library/7b80d451-bf37-7b1c-62b4-7ee0e7fd0e63%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

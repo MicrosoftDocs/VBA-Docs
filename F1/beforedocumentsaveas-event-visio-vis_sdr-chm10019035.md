@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[InvisibleApp.BeforeDocumentSaveAs Event (Visio)](http://msdn.microsoft.com/library/a515ea96-7e11-8a06-8869-3aca75a477df%28Office.15%29.aspx)
+[InvisibleApp.BeforeDocumentSaveAs Event (Visio)](https://msdn.microsoft.com/library/a515ea96-7e11-8a06-8869-3aca75a477df%28Office.15%29.aspx)
 
-[Application.BeforeDocumentSaveAs Event (Visio)](http://msdn.microsoft.com/library/e6782126-d2e7-c82e-b4dc-a9a5cece14b7%28Office.15%29.aspx)
+[Application.BeforeDocumentSaveAs Event (Visio)](https://msdn.microsoft.com/library/e6782126-d2e7-c82e-b4dc-a9a5cece14b7%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

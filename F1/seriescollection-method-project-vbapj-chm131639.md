@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Chart.SeriesCollection Method (Project)](http://msdn.microsoft.com/library/fb4fea11-3dac-73f9-6566-6c81de0888e7%28Office.15%29.aspx)
+[Chart.SeriesCollection Method (Project)](https://msdn.microsoft.com/library/fb4fea11-3dac-73f9-6566-6c81de0888e7%28Office.15%29.aspx)
 
-[Resource.Code Property (Project)](http://msdn.microsoft.com/library/03f54c29-86a9-a449-5324-9ae869946f67%28Office.15%29.aspx)
+[Resource.Code Property (Project)](https://msdn.microsoft.com/library/03f54c29-86a9-a449-5324-9ae869946f67%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

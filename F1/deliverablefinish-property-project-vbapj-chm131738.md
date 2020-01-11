@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Task.DeliverableFinish Property (Project)](http://msdn.microsoft.com/library/255a464b-ba2d-0701-f991-ba2b4b6cffd9%28Office.15%29.aspx)
+[Task.DeliverableFinish Property (Project)](https://msdn.microsoft.com/library/255a464b-ba2d-0701-f991-ba2b4b6cffd9%28Office.15%29.aspx)
 
-[Application.DisplayStatusBar Property (Project)](http://msdn.microsoft.com/library/9764173e-6ea3-29d1-5b79-fb763986584b%28Office.15%29.aspx)
+[Application.DisplayStatusBar Property (Project)](https://msdn.microsoft.com/library/9764173e-6ea3-29d1-5b79-fb763986584b%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

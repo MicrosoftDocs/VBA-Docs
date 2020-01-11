@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Columns object (Word)](http://msdn.microsoft.com/library/7c2d1353-cbc4-a162-83a1-6cac1300266f%28Office.15%29.aspx)
+[Columns object (Word)](https://msdn.microsoft.com/library/7c2d1353-cbc4-a162-83a1-6cac1300266f%28Office.15%29.aspx)
 
-[Columns object (Word)08ed659d-7de5-dc2f-7835-8a5c98105571](http://msdn.microsoft.com/library/08ed659d-7de5-dc2f-7835-8a5c98105571%28Office.15%29.aspx)
+[Columns object (Word)08ed659d-7de5-dc2f-7835-8a5c98105571](https://msdn.microsoft.com/library/08ed659d-7de5-dc2f-7835-8a5c98105571%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

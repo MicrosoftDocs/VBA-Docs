@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Chart.ApplyCustomType Method (Project)](http://msdn.microsoft.com/library/2bfe88c2-198e-a039-ace6-4ba362ce09d6%28Office.15%29.aspx)
+[Chart.ApplyCustomType Method (Project)](https://msdn.microsoft.com/library/2bfe88c2-198e-a039-ace6-4ba362ce09d6%28Office.15%29.aspx)
 
-[Chart.ClearToMatchColorStyle Method (Project)](http://msdn.microsoft.com/library/b2592ff4-8410-fa5c-a270-d03d47156607%28Office.15%29.aspx)
+[Chart.ClearToMatchColorStyle Method (Project)](https://msdn.microsoft.com/library/b2592ff4-8410-fa5c-a270-d03d47156607%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[NavigationControl.DisplayWhen property (Access)](http://msdn.microsoft.com/library/e1e91c9b-aba6-4bf1-6b54-6c64badfa7af%28Office.15%29.aspx)
+[NavigationControl.DisplayWhen property (Access)](https://msdn.microsoft.com/library/e1e91c9b-aba6-4bf1-6b54-6c64badfa7af%28Office.15%29.aspx)
 
-[TextBox.DisplayWhen property (Access)](http://msdn.microsoft.com/library/6e5fa1c0-a264-cbc1-6fdf-9aef6c7f6bab%28Office.15%29.aspx)
+[TextBox.DisplayWhen property (Access)](https://msdn.microsoft.com/library/6e5fa1c0-a264-cbc1-6fdf-9aef6c7f6bab%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,11 +14,11 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ToggleButton.Glow property (Access)](http://msdn.microsoft.com/library/f279f51c-11f7-de6c-0f47-369e9b5cb3a6%28Office.15%29.aspx)
+[ToggleButton.Glow property (Access)](https://msdn.microsoft.com/library/f279f51c-11f7-de6c-0f47-369e9b5cb3a6%28Office.15%29.aspx)
 
-[NavigationButton.Glow property (Access)](http://msdn.microsoft.com/library/d1123b17-2ee3-626f-d746-a4b0d287c3f6%28Office.15%29.aspx)
+[NavigationButton.Glow property (Access)](https://msdn.microsoft.com/library/d1123b17-2ee3-626f-d746-a4b0d287c3f6%28Office.15%29.aspx)
 
-[TabControl.Glow property (Access)](http://msdn.microsoft.com/library/e3ee6d6c-4cca-1555-14e2-a512c8520855%28Office.15%29.aspx)
-[CommandButton.Glow property (Access)](http://msdn.microsoft.com/library/e6c147b4-c378-90bd-7132-f44021994ecd%28Office.15%29.aspx)
+[TabControl.Glow property (Access)](https://msdn.microsoft.com/library/e3ee6d6c-4cca-1555-14e2-a512c8520855%28Office.15%29.aspx)
+[CommandButton.Glow property (Access)](https://msdn.microsoft.com/library/e6c147b4-c378-90bd-7132-f44021994ecd%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

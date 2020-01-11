@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.QueryCancelConvertToGroup Event (Visio)](http://msdn.microsoft.com/library/1b47836b-def8-6019-93f5-1694fd7cb4f9%28Office.15%29.aspx)
+[Application.QueryCancelConvertToGroup Event (Visio)](https://msdn.microsoft.com/library/1b47836b-def8-6019-93f5-1694fd7cb4f9%28Office.15%29.aspx)
 
-[InvisibleApp.QueryCancelConvertToGroup Event (Visio)](http://msdn.microsoft.com/library/0274803e-593c-93cc-3ef8-c6c9bc6f2c1e%28Office.15%29.aspx)
+[InvisibleApp.QueryCancelConvertToGroup Event (Visio)](https://msdn.microsoft.com/library/0274803e-593c-93cc-3ef8-c6c9bc6f2c1e%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

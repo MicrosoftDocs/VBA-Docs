@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Window.MouseDown Event (Visio)](http://msdn.microsoft.com/library/9bffeab4-9df5-a100-2b30-00ea445e6650%28Office.15%29.aspx)
+[Window.MouseDown Event (Visio)](https://msdn.microsoft.com/library/9bffeab4-9df5-a100-2b30-00ea445e6650%28Office.15%29.aspx)
 
-[DrawingControl.MouseDown Event (Visio)](http://msdn.microsoft.com/library/66136634-ddb3-54fd-c6d4-f32550689d28%28Office.15%29.aspx)
+[DrawingControl.MouseDown Event (Visio)](https://msdn.microsoft.com/library/66136634-ddb3-54fd-c6d4-f32550689d28%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

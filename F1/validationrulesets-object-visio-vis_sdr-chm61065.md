@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ValidationRuleSets Object (Visio)](http://msdn.microsoft.com/library/0955d85c-6d36-b37a-55e1-8d6f75cc5e93.aspx)
+[ValidationRuleSets Object (Visio)](https://msdn.microsoft.com/library/0955d85c-6d36-b37a-55e1-8d6f75cc5e93.aspx)
 
-[ValidationRuleSets Object (Visio)](http://msdn.microsoft.com/library/f08d7f04-13ec-8175-2aa6-94b0b67ee76b%28Office.15%29.aspx)
+[ValidationRuleSets Object (Visio)](https://msdn.microsoft.com/library/f08d7f04-13ec-8175-2aa6-94b0b67ee76b%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

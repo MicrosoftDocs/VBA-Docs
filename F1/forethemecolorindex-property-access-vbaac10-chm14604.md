@@ -14,15 +14,15 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Label.ForeThemeColorIndex property (Access)](http://msdn.microsoft.com/library/68165420-a121-a610-51bd-17a83fd9ee90%28Office.15%29.aspx)
+[Label.ForeThemeColorIndex property (Access)](https://msdn.microsoft.com/library/68165420-a121-a610-51bd-17a83fd9ee90%28Office.15%29.aspx)
 
-[TabControl.ForeThemeColorIndex property (Access)](http://msdn.microsoft.com/library/8c08538f-4bfd-ac57-3b48-61d33deaa520%28Office.15%29.aspx)
+[TabControl.ForeThemeColorIndex property (Access)](https://msdn.microsoft.com/library/8c08538f-4bfd-ac57-3b48-61d33deaa520%28Office.15%29.aspx)
 
-[ToggleButton.ForeThemeColorIndex property (Access)](http://msdn.microsoft.com/library/8358b6c4-960d-e414-a6c4-657700caeeb0%28Office.15%29.aspx)
-[CommandButton.ForeThemeColorIndex property (Access)](http://msdn.microsoft.com/library/4831634a-6988-57ec-0e47-6c16a6c832a0%28Office.15%29.aspx)
-[ComboBox.ForeThemeColorIndex property (Access)](http://msdn.microsoft.com/library/89138cf8-23f1-e795-1d6c-951299c3d90e%28Office.15%29.aspx)
-[TextBox.ForeThemeColorIndex property (Access)](http://msdn.microsoft.com/library/9b49e363-fe5b-0536-c3ed-b4836acb383b%28Office.15%29.aspx)
-[ListBox.ForeThemeColorIndex property (Access)](http://msdn.microsoft.com/library/9338e883-4a8d-c2b9-e4ea-dc654dd86f40%28Office.15%29.aspx)
-[NavigationButton.ForeThemeColorIndex property (Access)](http://msdn.microsoft.com/library/f0d04d84-338a-c45e-6f26-debc1a402796%28Office.15%29.aspx)
+[ToggleButton.ForeThemeColorIndex property (Access)](https://msdn.microsoft.com/library/8358b6c4-960d-e414-a6c4-657700caeeb0%28Office.15%29.aspx)
+[CommandButton.ForeThemeColorIndex property (Access)](https://msdn.microsoft.com/library/4831634a-6988-57ec-0e47-6c16a6c832a0%28Office.15%29.aspx)
+[ComboBox.ForeThemeColorIndex property (Access)](https://msdn.microsoft.com/library/89138cf8-23f1-e795-1d6c-951299c3d90e%28Office.15%29.aspx)
+[TextBox.ForeThemeColorIndex property (Access)](https://msdn.microsoft.com/library/9b49e363-fe5b-0536-c3ed-b4836acb383b%28Office.15%29.aspx)
+[ListBox.ForeThemeColorIndex property (Access)](https://msdn.microsoft.com/library/9338e883-4a8d-c2b9-e4ea-dc654dd86f40%28Office.15%29.aspx)
+[NavigationButton.ForeThemeColorIndex property (Access)](https://msdn.microsoft.com/library/f0d04d84-338a-c45e-6f26-debc1a402796%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

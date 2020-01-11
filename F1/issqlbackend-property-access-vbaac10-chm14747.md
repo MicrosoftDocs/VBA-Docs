@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CodeProject.IsSQLBackend property (Access)](http://msdn.microsoft.com/library/c0b0f9bb-5ad4-69c1-9553-2caf420870f1%28Office.15%29.aspx)
+[CodeProject.IsSQLBackend property (Access)](https://msdn.microsoft.com/library/c0b0f9bb-5ad4-69c1-9553-2caf420870f1%28Office.15%29.aspx)
 
-[CurrentProject.IsSQLBackend property (Access)](http://msdn.microsoft.com/library/39e312e0-9b58-e1fe-7a98-be5e225a3c0c%28Office.15%29.aspx)
+[CurrentProject.IsSQLBackend property (Access)](https://msdn.microsoft.com/library/39e312e0-9b58-e1fe-7a98-be5e225a3c0c%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

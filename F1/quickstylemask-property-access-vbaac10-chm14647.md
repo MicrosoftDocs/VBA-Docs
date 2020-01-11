@@ -14,10 +14,10 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ToggleButton.QuickStyleMask property (Access)](http://msdn.microsoft.com/library/7f3e65d9-44e8-289a-2123-093aed70650c%28Office.15%29.aspx)
+[ToggleButton.QuickStyleMask property (Access)](https://msdn.microsoft.com/library/7f3e65d9-44e8-289a-2123-093aed70650c%28Office.15%29.aspx)
 
-[CommandButton.QuickStyleMask property (Access)](http://msdn.microsoft.com/library/c0661897-d71c-8c3e-b18d-1100a24ed6a2%28Office.15%29.aspx)
+[CommandButton.QuickStyleMask property (Access)](https://msdn.microsoft.com/library/c0661897-d71c-8c3e-b18d-1100a24ed6a2%28Office.15%29.aspx)
 
-[NavigationButton.QuickStyleMask property (Access)](http://msdn.microsoft.com/library/d7a5e454-399b-090c-46d9-add8ad13ff0f%28Office.15%29.aspx)
+[NavigationButton.QuickStyleMask property (Access)](https://msdn.microsoft.com/library/d7a5e454-399b-090c-46d9-add8ad13ff0f%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

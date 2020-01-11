@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Lists object (Word)aac9319a-d35c-7310-e729-432f614b270c](http://msdn.microsoft.com/library/aac9319a-d35c-7310-e729-432f614b270c%28Office.15%29.aspx)
+[Lists object (Word)aac9319a-d35c-7310-e729-432f614b270c](https://msdn.microsoft.com/library/aac9319a-d35c-7310-e729-432f614b270c%28Office.15%29.aspx)
 
-[Lists object (Word)](http://msdn.microsoft.com/library/1fd927c5-6186-5ca0-80ae-c2ab225d092c%28Office.15%29.aspx)
+[Lists object (Word)](https://msdn.microsoft.com/library/1fd927c5-6186-5ca0-80ae-c2ab225d092c%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

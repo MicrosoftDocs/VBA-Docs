@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TextBox.ScrollBarAlign property (Access)](http://msdn.microsoft.com/library/5a8a77df-571a-7294-8be8-0ff2c4546131%28Office.15%29.aspx)
+[TextBox.ScrollBarAlign property (Access)](https://msdn.microsoft.com/library/5a8a77df-571a-7294-8be8-0ff2c4546131%28Office.15%29.aspx)
 
-[NavigationControl.ScrollBarAlign property (Access)](http://msdn.microsoft.com/library/b685e196-513e-fe57-d993-d1e2f4051a4c%28Office.15%29.aspx)
+[NavigationControl.ScrollBarAlign property (Access)](https://msdn.microsoft.com/library/b685e196-513e-fe57-d993-d1e2f4051a4c%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

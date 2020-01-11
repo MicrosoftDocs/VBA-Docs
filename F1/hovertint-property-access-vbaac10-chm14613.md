@@ -14,11 +14,11 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[NavigationButton.HoverTint property (Access)](http://msdn.microsoft.com/library/90ecba49-8922-193a-7fde-228b342b4eff%28Office.15%29.aspx)
+[NavigationButton.HoverTint property (Access)](https://msdn.microsoft.com/library/90ecba49-8922-193a-7fde-228b342b4eff%28Office.15%29.aspx)
 
-[ToggleButton.HoverTint property (Access)](http://msdn.microsoft.com/library/fbdb27bb-8a21-729c-17d6-a0e9b43826ae%28Office.15%29.aspx)
+[ToggleButton.HoverTint property (Access)](https://msdn.microsoft.com/library/fbdb27bb-8a21-729c-17d6-a0e9b43826ae%28Office.15%29.aspx)
 
-[CommandButton.HoverTint property (Access)](http://msdn.microsoft.com/library/0eac99ff-c693-d456-c319-ec1ce60ba05d%28Office.15%29.aspx)
-[TabControl.HoverTint property (Access)](http://msdn.microsoft.com/library/24de8049-121d-e8c2-ecce-f88b1651cee0%28Office.15%29.aspx)
+[CommandButton.HoverTint property (Access)](https://msdn.microsoft.com/library/0eac99ff-c693-d456-c319-ec1ce60ba05d%28Office.15%29.aspx)
+[TabControl.HoverTint property (Access)](https://msdn.microsoft.com/library/24de8049-121d-e8c2-ecce-f88b1651cee0%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

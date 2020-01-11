@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Calendar Object (Project)](http://msdn.microsoft.com/library/2d3b0f05-4762-0058-15d4-47e1d2b9d9a9%28Office.15%29.aspx)
+[Calendar Object (Project)](https://msdn.microsoft.com/library/2d3b0f05-4762-0058-15d4-47e1d2b9d9a9%28Office.15%29.aspx)
 
-[Series Object (Project)](http://msdn.microsoft.com/library/38a834ec-4076-82ef-a6bd-55a1ee2624bd%28Office.15%29.aspx)
+[Series Object (Project)](https://msdn.microsoft.com/library/38a834ec-4076-82ef-a6bd-55a1ee2624bd%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

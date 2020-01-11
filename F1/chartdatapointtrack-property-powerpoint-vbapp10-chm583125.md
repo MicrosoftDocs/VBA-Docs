@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Presentation.ChartDataPointTrack Property (PowerPoint)](http://msdn.microsoft.com/library/8d4b19b5-ed68-8dd4-bed3-68496230ca02%28Office.15%29.aspx)
+[Presentation.ChartDataPointTrack Property (PowerPoint)](https://msdn.microsoft.com/library/8d4b19b5-ed68-8dd4-bed3-68496230ca02%28Office.15%29.aspx)
 
-[Presentation.DisableDraftModeAllCharts Method (PowerPoint)](http://msdn.microsoft.com/library/15f13261-85b3-c277-e220-e8d820d4712d%28Office.15%29.aspx)
+[Presentation.DisableDraftModeAllCharts Method (PowerPoint)](https://msdn.microsoft.com/library/15f13261-85b3-c277-e220-e8d820d4712d%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,12 +14,12 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-- [Task.ActualOvertimeCost Property (Project)](http://msdn.microsoft.com/library/7e3b409e-3249-4fe1-b5a1-1b65646519b3%28Office.15%29.aspx)
+- [Task.ActualOvertimeCost Property (Project)](https://msdn.microsoft.com/library/7e3b409e-3249-4fe1-b5a1-1b65646519b3%28Office.15%29.aspx)
 
-- [Tables.Add Method (Project)](http://msdn.microsoft.com/library/595c0cb8-fd3f-8f5c-3eaf-588f41dc36dc%28Office.15%29.aspx)
+- [Tables.Add Method (Project)](https://msdn.microsoft.com/library/595c0cb8-fd3f-8f5c-3eaf-588f41dc36dc%28Office.15%29.aspx)
 
-- [Assignment.ActualOvertimeCost Property (Project)](http://msdn.microsoft.com/library/ee89c244-f153-e42c-3e56-a1d363b62f9c%28Office.15%29.aspx)
+- [Assignment.ActualOvertimeCost Property (Project)](https://msdn.microsoft.com/library/ee89c244-f153-e42c-3e56-a1d363b62f9c%28Office.15%29.aspx)
 
-- [Resource.ActualOvertimeCost Property (Project)](http://msdn.microsoft.com/library/9a8579b6-a3ee-7041-98ad-b28adfc51bfc%28Office.15%29.aspx)
+- [Resource.ActualOvertimeCost Property (Project)](https://msdn.microsoft.com/library/9a8579b6-a3ee-7041-98ad-b28adfc51bfc%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

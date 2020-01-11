@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ReportTable Object (Project)](http://msdn.microsoft.com/library/db9846c7-fd53-ae5a-7a43-35dfc60f4fe4%28Office.15%29.aspx)
+[ReportTable Object (Project)](https://msdn.microsoft.com/library/db9846c7-fd53-ae5a-7a43-35dfc60f4fe4%28Office.15%29.aspx)
 
-[Availabilities Object (Project)](http://msdn.microsoft.com/library/51224d62-777b-1ae3-a646-ca977464d37d%28Office.15%29.aspx)
+[Availabilities Object (Project)](https://msdn.microsoft.com/library/51224d62-777b-1ae3-a646-ca977464d37d%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

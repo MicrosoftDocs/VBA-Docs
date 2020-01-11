@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Series.ApplyPictToFront Property (PowerPoint)](http://msdn.microsoft.com/library/babe864c-1301-a8d1-ab13-41b9ccc71824%28Office.15%29.aspx)
+[Series.ApplyPictToFront Property (PowerPoint)](https://msdn.microsoft.com/library/babe864c-1301-a8d1-ab13-41b9ccc71824%28Office.15%29.aspx)
 
-[Point.ApplyPictToFront Property (PowerPoint)](http://msdn.microsoft.com/library/c883883d-ad54-ef4b-c749-a4efe721a96f%28Office.15%29.aspx)
+[Point.ApplyPictToFront Property (PowerPoint)](https://msdn.microsoft.com/library/c883883d-ad54-ef4b-c749-a4efe721a96f%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

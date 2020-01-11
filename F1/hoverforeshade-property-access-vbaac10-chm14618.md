@@ -14,11 +14,11 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CommandButton.HoverForeShade property (Access)](http://msdn.microsoft.com/library/be9e6008-4cc4-94b5-869e-068c3b73443a%28Office.15%29.aspx)
+[CommandButton.HoverForeShade property (Access)](https://msdn.microsoft.com/library/be9e6008-4cc4-94b5-869e-068c3b73443a%28Office.15%29.aspx)
 
-[TabControl.HoverForeShade property (Access)](http://msdn.microsoft.com/library/854636ec-a822-be75-307a-50007938ceca%28Office.15%29.aspx)
+[TabControl.HoverForeShade property (Access)](https://msdn.microsoft.com/library/854636ec-a822-be75-307a-50007938ceca%28Office.15%29.aspx)
 
-[ToggleButton.HoverForeShade property (Access)](http://msdn.microsoft.com/library/67e4c9bf-0bcc-f79f-491c-93cb32133012%28Office.15%29.aspx)
-[NavigationButton.HoverForeShade property (Access)](http://msdn.microsoft.com/library/cc98ba4b-1237-cfd7-fb44-983f0d56e512%28Office.15%29.aspx)
+[ToggleButton.HoverForeShade property (Access)](https://msdn.microsoft.com/library/67e4c9bf-0bcc-f79f-491c-93cb32133012%28Office.15%29.aspx)
+[NavigationButton.HoverForeShade property (Access)](https://msdn.microsoft.com/library/cc98ba4b-1237-cfd7-fb44-983f0d56e512%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CommandButton.Enter event (Access)](http://msdn.microsoft.com/library/cc60adbd-eb72-92c3-a562-08adbf0dcc99%28Office.15%29.aspx)
+[CommandButton.Enter event (Access)](https://msdn.microsoft.com/library/cc60adbd-eb72-92c3-a562-08adbf0dcc99%28Office.15%29.aspx)
 
-[NavigationButton.Enter event (Access)](http://msdn.microsoft.com/library/bd1599bb-d57e-d1cd-58d6-fef9650b9ab5%28Office.15%29.aspx)
+[NavigationButton.Enter event (Access)](https://msdn.microsoft.com/library/bd1599bb-d57e-d1cd-58d6-fef9650b9ab5%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

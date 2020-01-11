@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Borders object (Word)](http://msdn.microsoft.com/library/6dd1d4cc-2dcf-22c7-a299-4721a5543ba3%28Office.15%29.aspx)
+[Borders object (Word)](https://msdn.microsoft.com/library/6dd1d4cc-2dcf-22c7-a299-4721a5543ba3%28Office.15%29.aspx)
 
-[Borders object (Word)d3980652-deb6-940f-3844-9b357790b227](http://msdn.microsoft.com/library/d3980652-deb6-940f-3844-9b357790b227%28Office.15%29.aspx)
+[Borders object (Word)d3980652-deb6-940f-3844-9b357790b227](https://msdn.microsoft.com/library/d3980652-deb6-940f-3844-9b357790b227%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

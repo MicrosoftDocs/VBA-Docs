@@ -14,10 +14,10 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-- [NavigationButton.GridlineStyleLeft property (Access)](http://msdn.microsoft.com/library/ac511d98-b426-bc33-3973-38500fe4add5%28Office.15%29.aspx)
+- [NavigationButton.GridlineStyleLeft property (Access)](https://msdn.microsoft.com/library/ac511d98-b426-bc33-3973-38500fe4add5%28Office.15%29.aspx)
 
-- [CustomControl.GridlineStyleLeft property (Access)](http://msdn.microsoft.com/library/594c56fb-d8d5-a9af-dc40-d29a9dffd02d%28Office.15%29.aspx)
+- [CustomControl.GridlineStyleLeft property (Access)](https://msdn.microsoft.com/library/594c56fb-d8d5-a9af-dc40-d29a9dffd02d%28Office.15%29.aspx)
 
-- [CommandButton.GridlineStyleLeft property (Access)](http://msdn.microsoft.com/library/4e98dccd-e0d6-b24c-0a7a-f8dd54907fa0%28Office.15%29.aspx)
+- [CommandButton.GridlineStyleLeft property (Access)](https://msdn.microsoft.com/library/4e98dccd-e0d6-b24c-0a7a-f8dd54907fa0%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

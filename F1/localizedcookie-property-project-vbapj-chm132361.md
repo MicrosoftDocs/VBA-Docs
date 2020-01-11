@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[LookupTableEntry.LocalizedCookie Property (Project)](http://msdn.microsoft.com/library/59a4ae8c-91f4-34d6-82da-4dca1d080705%28Office.15%29.aspx)
+[LookupTableEntry.LocalizedCookie Property (Project)](https://msdn.microsoft.com/library/59a4ae8c-91f4-34d6-82da-4dca1d080705%28Office.15%29.aspx)
 
-[Application.IsUndoingOrRedoing Method (Project)](http://msdn.microsoft.com/library/e0e5ddc7-aa22-0d43-1de6-83a260d57608%28Office.15%29.aspx)
+[Application.IsUndoingOrRedoing Method (Project)](https://msdn.microsoft.com/library/e0e5ddc7-aa22-0d43-1de6-83a260d57608%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

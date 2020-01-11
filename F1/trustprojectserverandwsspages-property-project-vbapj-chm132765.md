@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.TrustProjectServerAndWSSPages Property (Project)](http://msdn.microsoft.com/library/c79b17d6-c344-0bed-8087-7f5d5c17d3af%28Office.15%29.aspx)
+[Application.TrustProjectServerAndWSSPages Property (Project)](https://msdn.microsoft.com/library/c79b17d6-c344-0bed-8087-7f5d5c17d3af%28Office.15%29.aspx)
 
-[Task.WBSSuccessors Property (Project)](http://msdn.microsoft.com/library/4d435645-8437-af81-ad38-eca0c27cfd80%28Office.15%29.aspx)
+[Task.WBSSuccessors Property (Project)](https://msdn.microsoft.com/library/4d435645-8437-af81-ad38-eca0c27cfd80%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
