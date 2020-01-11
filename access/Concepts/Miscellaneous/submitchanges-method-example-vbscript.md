@@ -28,7 +28,7 @@ To test this example, cut and paste this code into a normal ASP document and nam
 <HR><OBJECT ID=RDS classid="clsid:BD96C556-65A3-11D0-983A-00C04FC29E33" HEIGHT=1 WIDTH=1></OBJECT>
 <SCRIPT Language="VBScript"> 
 'set RDS properties for control just created 
-RDS.Server = "http://<%=Request.ServerVariables("SERVER_NAME")%>"RDS.SQL = "Select * from Employees"
+RDS.Server = "https://<%=Request.ServerVariables("SERVER_NAME")%>"RDS.SQL = "Select * from Employees"
 RDS.Connect = "Provider='sqloledb';Integrated Security='SSPI';Initial Catalog='Northwind';"RDS.Refresh
 </SCRIPT> 
 <TABLE DATASRC=#RDS><THEAD>
@@ -67,8 +67,8 @@ End Sub-->
 - [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
-- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
-- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

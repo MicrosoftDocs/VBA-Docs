@@ -13,10 +13,10 @@ localization_priority: Normal
 
 The DELETE keyword is used in these contexts:
 
-- [DELETE statement](http://msdn.microsoft.com/library/64c235bc-5b1a-0a33-714a-9933ba7a81e5%28Office.15%29.aspx)
-- [CREATE PROCEDURE statement](http://msdn.microsoft.com/library/1fbb5267-9862-bfb4-6436-176152d7a6cd%28Office.15%29.aspx)
-- [GRANT statement](http://msdn.microsoft.com/library/50ae97ae-d5be-57e5-d9da-f3fc42f01d83%28Office.15%29.aspx)
-- [REVOKE statement](http://msdn.microsoft.com/library/69399fd6-c4e8-f2e2-e5f4-48ae779323f5%28Office.15%29.aspx)
+- [DELETE statement](https://msdn.microsoft.com/library/64c235bc-5b1a-0a33-714a-9933ba7a81e5%28Office.15%29.aspx)
+- [CREATE PROCEDURE statement](https://msdn.microsoft.com/library/1fbb5267-9862-bfb4-6436-176152d7a6cd%28Office.15%29.aspx)
+- [GRANT statement](https://msdn.microsoft.com/library/50ae97ae-d5be-57e5-d9da-f3fc42f01d83%28Office.15%29.aspx)
+- [REVOKE statement](https://msdn.microsoft.com/library/69399fd6-c4e8-f2e2-e5f4-48ae779323f5%28Office.15%29.aspx)
 
 
 ## See also

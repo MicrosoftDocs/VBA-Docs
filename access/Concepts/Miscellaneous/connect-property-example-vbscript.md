@@ -19,7 +19,7 @@ This code shows how to set the [Connect](https://msdn.microsoft.com/library/11aa
 . 
    <PARAM NAME="SQL" VALUE="Select * from Sales"> 
    <PARAM NAME="CONNECT" VALUE="Provider=SQLOLEDB;Integrated Security=SSPI;Initial Catalog=Pubs"> 
-   <PARAM NAME="Server" VALUE="http://MyWebServer"> 
+   <PARAM NAME="Server" VALUE="https://MyWebServer"> 
 . 
 </OBJECT> 
 
@@ -48,7 +48,7 @@ font-family: 'Verdana','Arial','Helvetica',sans-serif;font-size: x-small;
 <TD><SPAN DATAFLD="FirstName"></SPAN></TD><TD><SPAN DATAFLD="LastName"></SPAN></TD>
 </TR></TBODY>
 </TABLE><FORM name="frmInput">
-SERVER: <INPUT Name="txtServer" Size="103" Value="http://<%=Request.ServerVariables("SERVER_NAME")%>"><BR>DATA SOURCE: <INPUT Name="txtDataSource" Size="93" Value="<%=Request.ServerVariables("SERVER_NAME")%>"><BR>
+SERVER: <INPUT Name="txtServer" Size="103" Value="https://<%=Request.ServerVariables("SERVER_NAME")%>"><BR>DATA SOURCE: <INPUT Name="txtDataSource" Size="93" Value="<%=Request.ServerVariables("SERVER_NAME")%>"><BR>
 CONNECT: <INPUT Name="txtConnect" Size="100"><BR>SQL: <INPUT Name="txtSQL" Size="110" Value="Select FirstName, LastName from Employees">
 <BR><INPUT TYPE=BUTTON NAME="Run" VALUE="Run">
 <h4>To make data grid appear, click 'Run' to see the connect string in text box above.
@@ -72,8 +72,8 @@ End Sub</Script>
 - [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
-- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
-- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

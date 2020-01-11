@@ -39,7 +39,7 @@ HRESULT hr = S_OK;
 // These are in the ADODB:: namespace._RecordsetPtr pRst = NULL; 
 //Define RDS object pointersRDS::IBindMgrPtr dc ; 
 try{
-TESTHR(dc.CreateInstance(__uuidof(RDS::DataControl)));dc->Server = "http://MyServer";
+TESTHR(dc.CreateInstance(__uuidof(RDS::DataControl)));dc->Server = "https://MyServer";
 dc->Connect = "Data Source='AuthorDatabase'";dc->SQL = "SELECT * FROM Authors"; 
 // Wait at least 20 seconds.dc->InternetTimeout = 20000;
 dc->Refresh(); 
@@ -80,8 +80,8 @@ printf("\tSource = %s\n", (LPCSTR) bstrSource);printf("\tDescription = %s\n", (L
 - [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
-- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
-- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -16,7 +16,7 @@ localization_priority: Normal
 
 The ASC and DESC keywords are used in these contexts:
 
-- [CREATE INDEX statement](http://msdn.microsoft.com/library/c5919ef4-a08d-df06-7078-5331adbcb45c%28Office.15%29.aspx)
+- [CREATE INDEX statement](https://msdn.microsoft.com/library/c5919ef4-a08d-df06-7078-5331adbcb45c%28Office.15%29.aspx)
 - [ORDER BY clause](order-by-clause-microsoft-access-sql.md)
 
 
