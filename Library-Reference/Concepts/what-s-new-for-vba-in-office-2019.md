@@ -51,7 +51,7 @@ The following tables summarize the new Visual Basic for Applications (VBA) langu
 |**[Presentation.AutoSaveOn property (PowerPoint)](../../api/powerpoint.presentation.autosaveon.md)** | **True** if the edits in the presentation are automatically saved. Read/write **Boolean**.|
 |**[Shape.Decorative property (PowerPoint)](../../api/powerpoint.shape.decorative.md)**|Sets or returns the decorative flag for the specified object. Read/write.|
 |**[Shape.GraphicStyle property (PowerPoint)](../../api/powerpoint.shape.graphicstyle.md)**|Returns or sets an **MsoGraphicStyleIndex** that represents the style of an SVG graphic. Read/write.|
-|**[Shape.Model3D property (PowerPoint)](../../api/powerpoint.shape.model3d.md)**|Returns a **Model3DFormat** object that represents the 3D properties of a 3D model object. Read-only..|
+|**[Shape.Model3D property (PowerPoint)](../../api/powerpoint.shape.model3d.md)**|Returns a **Model3DFormat** object that represents the 3D properties of a 3D model object. Read-only.|
 |**[ShapeRange.Decorative property (PowerPoint)](../../api/powerpoint.shaperange.decorative.md)**|Sets or returns the decorative flag for the specified object. Read/write.|
 |**[ShapeRange.GraphicStyle property (PowerPoint)](../../api/powerpoint.shaperange.graphicstyle.md)**|Returns or sets an **MsoGraphicStyleIndex** that represents the style of a shape range containing one or more SVG graphics. Read/write.|
 |**[ShapeRange.Model3D property (PowerPoint)](../../api/powerpoint.shaperange.model3d.md)**|Returns a **Model3DFormat** object that represents the 3D properties of a 3D model object. Read-only.|
