@@ -32,8 +32,8 @@ The following tables summarize the new Visual Basic for Applications (VBA) langu
 |:-----|:-----|
 |**[Model3DFormat object (Excel)](../../api/excel.model3dformat.md)** | Represents the properties of a 3D model shape.|
 |**[Series.GeoMappingLevel property (Excel)](../../api/excel.series.geomappinglevel.md)**|Specifies the geography mapping level for the specified series within the chart group. Read/write **XlGeoMappingLevel**.|
-|**[Series.GeoProjectionType property (Excel)](../../api/excel.series.geoprojectiontype.md)**|Specifies the geography projection type for the specified series within the chart group. Read/write **XlGeoProjectionType**|
-|**[Series.RegionLabelOptions property (Excel)](../../api/excel.series.regionlabeloptions.md)**|Specifies the region labelling behavior for the specified series within the chart group. Read/write **XlRegionLabelOptions**|
+|**[Series.GeoProjectionType property (Excel)](../../api/excel.series.geoprojectiontype.md)**|Specifies the geography projection type for the specified series within the chart group. Read/write **XlGeoProjectionType**.|
+|**[Series.RegionLabelOptions property (Excel)](../../api/excel.series.regionlabeloptions.md)**|Specifies the region labelling behavior for the specified series within the chart group. Read/write **XlRegionLabelOptions**.|
 |**[Shape.GraphicStyle property (Excel)](../../api/excel.shape.graphicstyle.md)**|Returns or sets an **MsoGraphicStyleIndex** that represents the style of an SVG graphic. Read/write.|
 |**[Shape.Model3D property (Excel)](../../api/excel.shape.model3d.md)**|Returns a **Model3DFormat** object that represents the 3D properties of a 3D model object. Read-only.|
 |**[ShapeRange.GraphicStyle property (Excel)](../../api/excel.shaperange.graphicstyle.md)**|Returns or sets an **MsoGraphicStyleIndex** that represents the style of a shape range containing one or more SVG graphics. Read/write.|
