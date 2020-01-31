@@ -51,6 +51,8 @@ The following types of names in Microsoft Excel can be used with this method:
     
 - **Chart objects**. You can specify any chart object name, such as Legend, Plot Area, or Series 1, to access the properties and methods of that object. For example, `Charts("Chart1").Evaluate("Legend").Font.Name` returns the name of the font used in the legend.
     
+- **Form Control number**. You can specify a number, as well as a name, to refer to Form Control on a worksheet. For example, for Label located on a worksheet (Developer tab - Insert - Form Controls - Label), both `Evaluate("Label 1").Caption = "Hello"` and `Evaluate("1").Caption = "Hello"` do the same.
+    
 Using square brackets (for example, "[A1:C5]") is identical to calling the **Evaluate** method with a string argument. For example, the following expression pairs are equivalent.
 
 ```vb
