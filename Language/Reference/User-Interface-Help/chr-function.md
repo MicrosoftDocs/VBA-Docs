@@ -34,6 +34,8 @@ Numbers from 0&ndash;31 are the same as standard, nonprintable [ASCII](../../Glo
 > [!NOTE] 
 > Visual Basic for the Macintosh does not support Unicode strings. Therefore, **ChrW**(_n_) cannot return all Unicode characters for n values in the range of 128&ndash;65,535, as it does in the Windows environment. Instead, **ChrW**(_n_) attempts a "best guess" for Unicode values n greater than 127. Therefore, you should not use **ChrW** in the Macintosh environment.
 
+The functions **[Asc(), AscB(), and AscW()](../asc-function.md)** are the opposite of **Chr(), ChrB(), and ChrW().** The **Asc()** functions convert a string to an integer.
+
 ## Example
 
 This example uses the **Chr** function to return the character associated with the specified character code.
@@ -52,5 +54,6 @@ MyChar = Chr(37)    ' Returns %.
 - [Character set (0 - 127)](character-set-0127.md)
 - [Character set (128 - 255)](character-set-128255.md)
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+- [Asc(), AscB(), and AscW() functions](../asc-function.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
