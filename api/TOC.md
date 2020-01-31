@@ -36045,6 +36045,7 @@
 #### [Overview of the Office Fluent ribbon](../Library-Reference/Concepts/overview-of-the-office-fluent-ribbon.md)
 #### [Security notes for Office solution developers](../Library-Reference/Concepts/security-notes-for-microsoft-office-solution-developers.md)
 #### [Use the Document Inspector](../Library-Reference/Concepts/using-the-document-inspector.md)
+#### [What's new for VBA in Office 2019](../Library-Reference/Concepts/what-s-new-for-vba-in-office-2019.md)
 #### [What's new for VBA in Office 2016](../Library-Reference/Concepts/what-s-new-for-vba-in-office-2016.md)
 ### Reference
 #### [Overview](overview/Library-Reference/reference-object-library-reference-for-office.md)
