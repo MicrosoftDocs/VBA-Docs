@@ -23,7 +23,7 @@ Used with the [DoCmd.TransferText method (Access)](Access.DoCmd.TransferText.md)
 |**acExportDelim**|2|Export Delimited|
 |**acExportFixed**|3|Export Fixed Width|
 |**acExportHTML**|8|Export HTML|
-|**acExportMerge**|4|Export Microsot Word Merge|
+|**acExportMerge**|4|Export Microsoft Word Merge|
 |**acImportDelim**|0|Import Delimited|
 |**acImportFixed**|1|Import Fixed Width|
 |**acImportHTML**|7|Import HTML|
