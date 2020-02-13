@@ -14,6 +14,8 @@ localization_priority: Normal
 
 Returns a  **String** that specifies the local time zone adjustment for the contact. Read-only.
 
+> [!IMPORTANT]
+> This property does not work with modern comments.
 
 ## Syntax
 

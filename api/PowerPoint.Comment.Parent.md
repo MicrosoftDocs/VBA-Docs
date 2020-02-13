@@ -16,6 +16,8 @@ localization_priority: Normal
 
 Returns the parent object for the specified object.
 
+> [!IMPORTANT]
+> This property has been deprecated and are no longer supported.
 
 ## Syntax
 

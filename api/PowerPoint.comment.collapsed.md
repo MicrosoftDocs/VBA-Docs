@@ -14,6 +14,8 @@ localization_priority: Normal
 
 Returns whether the replies to a comment are shown (expanded) or hidden (collapsed). Ready-only.
 
+> [!IMPORTANT]
+> This property will always return “false” for modern comments.
 
 ## Syntax
 
