@@ -193,9 +193,9 @@ Specifies logical indices of cells in ShapeSheet rows of  **[Shape](Visio.Shape.
 | **visFrgnImgOffsetX**|0|ImgOffsetX Cell (Foreign Image Info Section)|
 | **visFrgnImgOffsetY**|1|ImgOffsetY Cell (Foreign Image Info Section)|
 | **visFrgnImgWidth**|2|ImgWidth Cell (Foreign Image Info Section)|
-| **visGlowColor**|4|GlowColor Cell (Additional Effect Properties Section)|
-| **visGlowColorTrans**|5|GlowColorTrans Cell (Additional Effect Properties Section)|
-| **visGlowSize**|6|GlowSize Cell (Additional Effect Properties Section)|
+| **visGlowColor**|4|GlowColor Cell (Additional Effects Properties Section)|
+| **visGlowColorTrans**|5|GlowColorTrans Cell (Additional Effects Properties Section)|
+| **visGlowSize**|6|GlowSize Cell (Additional Effects Properties Section)|
 | **visGlueType**|9|GlueType Cell (Glue Info Section)|
 | **visGradientStopColor**|0|Color Cell (Fill Gradient Stops Section)|
 | **visGradientStopColorTrans**|1|Trans Cell (Fill Gradient Stops Section)|
@@ -398,12 +398,12 @@ Specifies logical indices of cells in ShapeSheet rows of  **[Shape](Visio.Shape.
 | **visScratchD**|5|D Cell (Scratch Section)|
 | **visScratchX**|0|X Cell (Scratch Section)|
 | **visScratchY**|1|Y Cell (Scratch Section)|
-| **visSketchAmount**|10|SketchAmount Cell (Additional Effect Properties Section)|
-| **visSketchEnabled**|9|SketchEnabled Cell (Additional Effect Properties Section)|
-| **visSketchFillChange**|13|SketchFillChange Cell (Additional Effect Properties Section)|
-| **visSketchLineChange**|12|SketchLineChange Cell (Additional Effect Properties Section)|
-| **visSketchLineWeight**|11|SketchLineWeight Cell (Additional Effect Properties Section)|
-| **visSketchSeed**|8|SketchSeed Cell (Additional Effect Properties Section)|
+| **visSketchAmount**|10|SketchAmount Cell (Additional Effects Properties Section)|
+| **visSketchEnabled**|9|SketchEnabled Cell (Additional Effects Properties Section)|
+| **visSketchFillChange**|13|SketchFillChange Cell (Additional Effects Properties Section)|
+| **visSketchLineChange**|12|SketchLineChange Cell (Additional Effects Properties Section)|
+| **visSketchLineWeight**|11|SketchLineWeight Cell (Additional Effects Properties Section)|
+| **visSketchSeed**|8|SketchSeed Cell (Additional Effects Properties Section)|
 | **visSLOCategoryChanged**|24|Reserved for internal use only.|
 | **visSLOConFixedCode**|12|ConFixedCode Cell (Shape Layout Section)|
 | **visSLOFixedCode**|8|ShapeFixedCode Cell (Shape Layout Section)|
@@ -433,7 +433,7 @@ Specifies logical indices of cells in ShapeSheet rows of  **[Shape](Visio.Shape.
 | **visSmartTagX**|0|X Cell (Smart Tags Section)|
 | **visSmartTagYJustify**|4|Y Justify Cell (Smart Tags Section)|
 | **visSmartTagY**|1|Y Cell (Smart Tags Section)|
-| **visSoftEdgeSize**|7|SoftEdgesSize Cell (Additional Effect Properties Section)|
+| **visSoftEdgeSize**|7|SoftEdgesSize Cell (Additional Effects Properties Section)|
 | **visSpaceAfter**|5|SpAfter Cell (Paragraph Section)|
 | **visSpaceBefore**|4|SpBefore Cell (Paragraph Section)|
 | **visSpaceLine**|3|SpLine Cell (Paragraph Section)|
