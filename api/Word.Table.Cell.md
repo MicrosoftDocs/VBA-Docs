@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Table.Cell method (Word)
 
-Returns a  **Cell** object that represents a cell in a table.
+Returns a  **[Cell](Word.Cell.md)** object that represents a cell in a table.
 
 
 ## Syntax
