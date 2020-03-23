@@ -16,7 +16,7 @@ Qualifiers are used for disambiguation. This error has the following cause and s
 
 
 
-- The qualifier does not identify a [project](../../Glossary/vbe-glossary.md#project), [module](../../Glossary/vbe-glossary.md#module), object, or a [variable](../../Glossary/vbe-glossary.md#variable) of[user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) within the current[scope](../../Glossary/vbe-glossary.md#scope).
+- The qualifier does not identify a [project](../../Glossary/vbe-glossary.md#project), [module](../../Glossary/vbe-glossary.md#module), object, or a [variable](../../Glossary/vbe-glossary.md#variable) of [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) within the current [scope](../../Glossary/vbe-glossary.md#scope).
     
     Check the spelling of the qualifier. Make sure that the qualifying [identifier](../../Glossary/vbe-glossary.md#identifier) is within the current scope. For example, a variable of user-defined type in a **Private** module is visible only within that module.
     
