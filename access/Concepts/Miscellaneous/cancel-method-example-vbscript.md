@@ -3,7 +3,7 @@ title: Cancel method example (VBScript)
 ROBOTS: INDEX
 ms.prod: access
 ms.assetid: 3c5a14fa-f4b1-6c32-9014-505817c6e4cf
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
