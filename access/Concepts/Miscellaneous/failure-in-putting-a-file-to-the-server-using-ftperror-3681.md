@@ -2,7 +2,7 @@
 title: Failure in putting a file to the server using FTP. (Error 3681)
 ms.prod: access
 ms.assetid: a0409bc6-2169-5b63-4256-7ff6971fed7a
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

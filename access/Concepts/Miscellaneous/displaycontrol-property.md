@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.DisplayControl
 ms.assetid: 24deeaeb-22dc-b8fe-6c39-e9a2a4d12e2b
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

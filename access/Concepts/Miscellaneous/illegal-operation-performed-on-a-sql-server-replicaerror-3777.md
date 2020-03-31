@@ -2,7 +2,7 @@
 title: Illegal Operation performed on a SQL Server Replica. (Error 3777)
 ms.prod: access
 ms.assetid: 0e05807d-9514-b45d-abb9-63b1bb42e79b
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
