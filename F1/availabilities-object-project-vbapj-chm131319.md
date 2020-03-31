@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Availabilities Object (Project)](https://docs.microsoft.com/en-us/office/vba/api/Project.availabilities)
+[Availabilities Object (Project)](https://docs.microsoft.com/office/vba/api/Project.availabilities)
 
-[Shapes Object (Project)](https://docs.microsoft.com/en-us/office/vba/api/Project.shapes)
+[Shapes Object (Project)](https://docs.microsoft.com/office/vba/api/Project.shapes)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
