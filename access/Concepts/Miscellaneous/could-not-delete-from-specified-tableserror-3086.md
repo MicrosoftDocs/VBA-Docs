@@ -5,7 +5,7 @@ f1_keywords:
 - jeterr40.chm5003086
 ms.prod: access
 ms.assetid: c0b7ba20-7b1a-a6de-b2e0-8ec095a0e448
-ms.date: 06/08/2017
+ms.date: 02/14/2020
 localization_priority: Normal
 ---
 
@@ -20,24 +20,13 @@ You tried to delete data from one or more tables, but the deletion could not be 
 
 Possible causes:
 
-
 - You do not have permission to modify the table. To change your permissions assignments, see your system administrator or the table's creator.
-    
-- The database was opened for read-only access. The database is read-only for one of these reasons:
-    
-    
-    
-      - You used the  **OpenDatabase** method and opened the database for read-only access.
-    
-  - The database file is defined as read-only in the database server operating system or by your network.
-    
-  - In a network environment, you do not have write privileges for the database file.
-    
-  - In Microsoft Visual Basic, you used the  **Data** control and set the **ReadOnly** property to **True**.
-    
 
-    
-    
+- The database was opened for read-only access. The database is read-only for one of these reasons:
+  - You used the  **OpenDatabase** method and opened the database for read-only access.
+  - The database file is defined as read-only in the database server operating system or by your network.
+  - In a network environment, you do not have write privileges for the database file.
+  - In Microsoft Visual Basic, you used the  **Data** control and set the **ReadOnly** property to **True**.
 
 To delete the data, close the database, resolve the read-only condition, and then reopen the file for read/write access.
 

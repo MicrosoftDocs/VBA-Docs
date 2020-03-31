@@ -5,7 +5,7 @@ f1_keywords:
 - jeterr40.chm5003257
 ms.prod: access
 ms.assetid: a1b4ae18-4efa-d79a-ffec-4ec705a0236b
-ms.date: 06/08/2017
+ms.date: 02/14/2020
 localization_priority: Normal
 ---
 
@@ -20,7 +20,7 @@ Possible causes:
 
 
 
-- The WITH OWNERACCESS OPTION declaration is incomplete or includes a space between OWNER and ACCESS.
+- The `WITH OWNERACCESS OPTION` declaration is incomplete or includes a space between OWNER and ACCESS.
     
 - The declaration appears in an unexpected and disallowed position in the SQL statement. For example:
     
@@ -30,7 +30,7 @@ Possible causes:
 ```
 
 
-    The WITH OWNERACCESS OPTION declaration should appear at the end of the SQL statement, usually after the ORDER BY clause, if present:
+    The `WITH OWNERACCESS OPTION` declaration should appear at the end of the SQL statement, usually after the ORDER BY clause, if present:
     
 
 
