@@ -36,6 +36,7 @@ Numbers from 0&ndash;31 are the same as standard, nonprintable [ASCII](../../Glo
 
 The functions **[Asc(), AscB(), and AscW()](https://docs.microsoft.com/office/vba/language/reference/user-interface-help/asc-function)** are the opposite of **Chr(), ChrB(), and ChrW().** The **Asc()** functions convert a string to an integer.
 
+
 ## Example
 
 This example uses the **Chr** function to return the character associated with the specified character code.

@@ -33,6 +33,7 @@ The range for returns is 0&ndash;255 on non-DBCS systems, but -32768&ndash;32767
 
 The functions **[Chr(), ChrB(), and ChrW()](https://docs.microsoft.com/office/vba/language/reference/user-interface-help/chr-function)** are the opposite of **Asc(), AscB(), and AscW().** The **Chr()** functions convert an integer to a character string.
 
+
 ## Example
 
 This example uses the **Asc** function to return a character code corresponding to the first letter in the string.
