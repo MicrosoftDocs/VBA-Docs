@@ -5,11 +5,7 @@ f1_keywords:
 - jeterr40.chm5003257
 ms.prod: access
 ms.assetid: a1b4ae18-4efa-d79a-ffec-4ec705a0236b
-<<<<<<< HEAD
-ms.date: 02/14/2020
-=======
 ms.date: 06/08/2019
->>>>>>> 963cfa88ce1ff94462f03e4dbdc9d2c15ca331c7
 localization_priority: Normal
 ---
 
@@ -20,27 +16,14 @@ localization_priority: Normal
 Possible causes:
 
 
-<<<<<<< HEAD
-
-- The `WITH OWNERACCESS OPTION` declaration is incomplete or includes a space between OWNER and ACCESS.
-=======
 - The WITH OWNERACCESS OPTION declaration is incomplete or includes a space between OWNER and ACCESS.
->>>>>>> 963cfa88ce1ff94462f03e4dbdc9d2c15ca331c7
     
 - The declaration appears in an unexpected and disallowed position in the SQL statement. For example:
     
 ```sql
   SELECT * WITH OWNERACCESS OPTION FROM [My Table]; 
 ```
-<<<<<<< HEAD
-
-
-    The `WITH OWNERACCESS OPTION` declaration should appear at the end of the SQL statement, usually after the ORDER BY clause, if present:
-    
-
-=======
 The `WITH OWNERACCESS OPTION` declaration should appear at the end of the SQL statement, usually after the ORDER BY clause, if present:
->>>>>>> 963cfa88ce1ff94462f03e4dbdc9d2c15ca331c7
 
 ```sql
   SELECT * FROM [My Table] WITH OWNERACCESS OPTION;

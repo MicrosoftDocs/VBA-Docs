@@ -6,29 +6,20 @@ f1_keywords:
 - vbaac10.chm6181
 ms.prod: access
 ms.assetid: 5d9f3e9d-fc36-d4af-d82b-8d2ebd8044fa
-<<<<<<< HEAD
-ms.date: 02/14/2020
-=======
 ms.date: 06/08/2019
->>>>>>> 963cfa88ce1ff94462f03e4dbdc9d2c15ca331c7
 localization_priority: Normal
 ---
-
 
 # DestConnectStr, DestinationDB, DestinationTable properties
 
 **Applies to:** Access 2013 | Access 2016
 
 - The **DestinationDB** property specifies the type of application used to create an external database.
-    
 - The **DestConnectStr** property specifies the connection string for the name of the database that will contain the new table (for make-table queries) or the name of the database that contains the table to which data will be appended (for append queries).
-    
 - The **DestinationTable** property specifies the name of the table that will hold the results of the make-table or append query.
-    
 
-> [!NOTE] 
+> [!NOTE]
 > The **DestConnectStr**, **DestinationDB**, and **DestinationTable** properties apply only to make-table and append queries.
-
 
 ## Setting
 
@@ -42,9 +33,8 @@ In the SQL statement for an append query, the table name in the INSERT INTO stat
 
 In the SQL statement for a make-table query, the table name in the INTO clause corresponds to the **DestinationTable** property setting. The IN clause corresponds to the **DestinationDB** and **DestConnectStr** property settings.
 
-> [!NOTE] 
+> [!NOTE]
 > Microsoft Access sets these properties automatically based on the information you enter in the query's property sheet or in SQL view of the Query window.
-
 
 ## Remarks
 
@@ -55,15 +45,11 @@ To use the query's property sheet to specify a table in a Microsoft Access datab
 To specify a table in a database created by a different product, such as Paradox, enter the name of the table in the **DestinationTable** property box. In the **DestinationDB** property box, enter the path (for example, C:\Pdoxdata). In the **DestConnectStr** property box, enter the specifier for the database type (for example, Paradox 3.x). For a list of specifiers, see the ADO **Connect** property.
 
 To specify an Open Database Connectivity (ODBC) database, enter the name of the database in the **DestConnectStr** property box along with additional information, such as a logon identification (ID) and password, as required by the product. For example, you might use the following setting for a Microsoft SQL Server database:
-<<<<<<< HEAD
 
-- ODBC;DSN=salessrv;UID=jace;PWD=password;DATABASE=sales;
-
-=======
 ```sql
     ODBC;DSN=salessrv;UID=jace;PWD=password;DATABASE=sales;
 ```
->>>>>>> 963cfa88ce1ff94462f03e4dbdc9d2c15ca331c7
+
 For more information about ODBC drivers, such as Microsoft SQL Server, see the Help provided with the driver.
 
 You don't need to set the **DestinationDB** property for ODBC databases.

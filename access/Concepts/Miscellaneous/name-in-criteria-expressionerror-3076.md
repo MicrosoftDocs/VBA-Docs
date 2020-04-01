@@ -9,10 +9,7 @@ ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
-
 # <Name> in criteria expression. (Error 3076)
-
-  
 
 **Applies to:** Access 2013 | Access 2016
 
