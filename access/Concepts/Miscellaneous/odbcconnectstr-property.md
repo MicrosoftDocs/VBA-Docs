@@ -12,7 +12,6 @@ ms.date: 02/14/2020
 localization_priority: Normal
 ---
 
-
 # ODBCConnectStr property
 
 **Applies to:** Access 2013 | Access 2016
@@ -39,7 +38,11 @@ The default setting for this property is the string "ODBC;", which Microsoft Acc
 
 The connection string is different for different types of ODBC data sources. For example, to connect to the Human Resources data source on the HRSRVR server (a Microsoft SQL Server) by using the logon identification (ID) Smith and the password Sesame, you can use the following connection string.
 
+<<<<<<< HEAD
 - `ODBC;DSN=Human Resources;SERVER=HRSRVR;UID=Smith;PWD=Sesame;`
+=======
+`ODBC;DSN=Human Resources;SERVER=HRSRVR;UID=Smith;PWD=Sesame;`
+>>>>>>> 963cfa88ce1ff94462f03e4dbdc9d2c15ca331c7
 
 ## See also
 

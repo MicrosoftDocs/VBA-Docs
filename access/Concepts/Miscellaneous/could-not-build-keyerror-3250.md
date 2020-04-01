@@ -5,22 +5,26 @@ f1_keywords:
 - jeterr40.chm5003250
 ms.prod: access
 ms.assetid: c00debc3-c39d-6c58-6206-f0210a6e1ea4
+<<<<<<< HEAD
 ms.date: 02/14/2020
+=======
+ms.date: 06/08/2019
+>>>>>>> 963cfa88ce1ff94462f03e4dbdc9d2c15ca331c7
 localization_priority: Normal
 ---
-
-
 # Could not build key. (Error 3250)
-
   
-
 **Applies to:** Access 2013 | Access 2016
 
 When building a primary index, the Microsoft Access database engine could not build a primary key. Make sure the key fields are named properly and that there are no duplicate records based on this key.
 
 This error can occur when you use the  **Seek** method and pass it a value for a field that is not part of the index. For example, suppose you want to use the **Seek** method on a **Recordset** whose current index uses the LastName field of the underlying table, and you write it this way:
 
+<<<<<<< HEAD
 - `rstEmployees.Seek "=", "Smith", "Joe"`
+=======
+`rstEmployees.Seek "=", "Smith", "Joe"`
+>>>>>>> 963cfa88ce1ff94462f03e4dbdc9d2c15ca331c7
 
 The Microsoft Access database engine will try to construct a primary key from two fields, but because one field is indexed, the attempt will fail and this error results.
 

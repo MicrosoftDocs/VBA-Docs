@@ -7,15 +7,16 @@ ms.prod: visio
 api_name:
 - Visio.DrawingControl.HostID
 ms.assetid: ecc77cb3-04c8-6a31-0d40-d03dddb6bf20
+<<<<<<< HEAD
 ms.date: 02/14/2020
+=======
+ms.date: 06/08/2019
+>>>>>>> 963cfa88ce1ff94462f03e4dbdc9d2c15ca331c7
 localization_priority: Normal
 ---
-
-
 # DrawingControl.HostID property (Visio)
 
 String representation of the GUID of the host application of the Microsoft Visio Drawing Control. Read/write.
-
 
 ## Syntax
 
@@ -23,11 +24,9 @@ _expression_.**HostID**
 
 _expression_ A variable that represents a **[DrawingControl](Visio.DrawingControl.md)** object.
 
-
 ## Return value
 
 String
-
 
 ## Remarks
 
@@ -35,7 +34,11 @@ Setting this property is optional. Set  **HostID** at design time, for example i
 
 Setting the  **HostID** property creates (or modifies) a subkey at the following location in the registry:
 
+<<<<<<< HEAD
 - HKEY_CURRENTUSER\Software\Microsoft\Office\14.0\VisioHosts\
+=======
+`HKEY_CURRENTUSER\Software\Microsoft\Office\14.0\VisioHosts\`
+>>>>>>> 963cfa88ce1ff94462f03e4dbdc9d2c15ca331c7
 
 If you set  **HostID**, use a unique string that identifies your program, preferably a unique GUID, although any string less than 128 characters or less in length that contains no backslash ("\") or forward slash ("/") character is valid. A GUID should be no more than 40 characters. Write your Setup program so that when it uninstalls your program, it deletes the registry key and all its subkeys.
 

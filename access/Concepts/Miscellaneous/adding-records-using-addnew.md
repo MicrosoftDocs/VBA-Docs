@@ -7,14 +7,12 @@ ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
-
 # Adding records using AddNew 
 
 **Applies to:** Access 2013 | Access 2016
 
 This is the basic syntax of the **AddNew** method:
-
-    recordset.AddNewFieldList,Values
+`recordset.AddNewFieldList,Values`
 
 The  _FieldList_ and _Values_ arguments are optional. _FieldList_ is either a single name or an array of names or ordinal positions of the fields in the new record.
 

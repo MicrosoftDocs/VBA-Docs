@@ -19,13 +19,13 @@ In Office 365 version 1809 and later, Excel's VLOOKUP, HLOOKUP, and MATCH for ex
 These lookup functions now create an internal cached index for the column range being searched. This cached index is reused in any subsequent lookups that are pulling from the same row (VLOOKUP and MATCH) or column (HLOOKUP). The effect is dramatic: lookups on 5 different columns in the same table range can be up to 4 times faster than the same lookups using Excel 2010 or Excel 2016, and the improvement is larger as more columns are looked up.
 
 *For example calculating 100 rows of these 5 VLOOKUP formulas took 37 seconds to calculate using Excel 2010 and only 12 seconds using Excel 2016.*
-
+```excel
     =VLOOKUP($A900000,$A$2:$E$1000000,1,FALSE)
     =VLOOKUP($A900000,$A$2:$E$1000000,2,FALSE)
     =VLOOKUP($A900000,$A$2:$E$1000000,3,FALSE)
     =VLOOKUP($A900000,$A$2:$E$1000000,4,FALSE)
     =VLOOKUP($A900000,$A$2:$E$1000000,5,FALSE)
-
+```
 ## LAA memory improvement for 32-bit Excel
 
 Although the 64-bit version of Excel has large virtual memory limits, the 32-bit version has only 2 GBs of virtual memory. Some customers use the 32-bit version because some third-party add-ins and controls are not available in the 64-bit version.
@@ -34,7 +34,7 @@ The 32-bit versions of Excel 2013 and Excel 2016 now have Large Address Aware (L
 
 LAA doubles available virtual memory from 2 GB to 4 GB on 64-bit versions of Windows, and increases available virtual memory from 2 GB to 3 GB on 32-bit versions of Windows.
 
-For more information, see [Large Address Aware Capability Change for Excel](https://support.microsoft.com/en-ca/help/3160741/large-address-aware-capability-change-for-excel).
+For more information, see [Large Address Aware Capability Change for Excel](https://support.microsoft.com/help/3160741/large-address-aware-capability-change-for-excel).
 
 To download a tool that shows how much virtual memory is available and how much is being used, see [Excel Memory Checking Tool](https://fastexcel.wordpress.com/2016/11/27/excel-memory-checking-tool-using-laa-to-increase-useable-excel-memory/).
 
@@ -88,7 +88,7 @@ Excel 2016 Build 16.0.7920.1000 introduces several useful worksheet functions:
 
 ## Other updates to Excel 2016 for Windows
 
-For more details about the month-by-month improvements to Excel 2016, see [What's new in Excel 2016 for Windows](https://support.office.com/en-gb/article/What-s-new-in-Excel-2016-for-Windows-5fdb9208-ff33-45b6-9e08-1f5cdb3a6c73).
+For more details about the month-by-month improvements to Excel 2016, see [What's new in Excel 2016 for Windows](https://support.office.com/article/what-s-new-in-excel-for-office-365-5fdb9208-ff33-45b6-9e08-1f5cdb3a6c73?ui=en-US&rs=en-US&ad=US).
 
 
 ## Excel 2010 performance improvements
@@ -161,9 +161,9 @@ Excel 2016 introduces performance and limitation improvements focused on increas
 
 ## See also
 
-- [Excel performance: Improving calculation performance](excel-improving-calcuation-performance.md)   
+- [Excel performance: Improving calculation performance](excel-improving-calculation-performance.md)   
 - [Excel performance: Tips for optimizing performance obstructions](excel-tips-for-optimizing-performance-obstructions.md)   
-- [Excel Developer Portal](https://msdn.microsoft.com/office/aa905411.aspx)   
-- [Changes to Slow/Fast level names for Office Insider for Windows desktop](https://support.office.com/article/Changes-to-Slow-Fast-level-names-for-Office-Insider-for-Windows-desktop-055ee4f9-9ce3-4fb8-8a9a-ca6745867d52)
+- [Excel Developer Portal](https://developer.microsoft.com/excel)   
+- [Changes to Slow/Fast level names for Office Insider for Windows desktop](https://insider.office.com/join?redirectSourcePath=%252farticle%252fChanges-to-Slow-Fast-level-names-for-Office-Insider-for-Windows-desktop-055ee4f9-9ce3-4fb8-8a9a-ca6745867d52)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

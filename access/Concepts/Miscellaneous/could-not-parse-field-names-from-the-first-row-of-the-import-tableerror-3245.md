@@ -18,7 +18,11 @@ localization_priority: Normal
 
 The first row of data contains invalid field names, such as quoted and unquoted strings in the same field name. In the following example, the third and fourth field names cannot be parsed:
 
+<<<<<<< HEAD
 - "Name", Date, "ID " Number, Phone" Number"
+=======
+`"Name", Date, "ID " Number, Phone" Number"`
+>>>>>>> 963cfa88ce1ff94462f03e4dbdc9d2c15ca331c7
 
 The first two fields are valid, but the third and fourth are not because they contain nonspace characters outside the quotation marks.
 Check the import table for properly matched quotation marks, and then try the import operation again

@@ -9,19 +9,16 @@ ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
-
 # 5 Database Engine driver (1 of 2)
-
  
 **Applies to:** Access 2013 | Access 2016
 
 When you install the Microsoft Jet version 3.5 Engine database driver, the Setup program writes a set of default values to the Microsoft Windows Registry in the Engines and ISAM Formats subkeys. You must use the Registry Editor to add, remove, or change these settings. The following sections describe initialization and ISAM Format settings for the Microsoft Jet Engine database driver.
 
-
 ## Microsoft Jet Engine initialization settings
 
 The **Access Connectivity Engine\Engines\Jet 3.x** folder includes initialization settings for the Acer3x.dll driver, used for access to Microsoft Access 97 worksheets. Typical initialization settings for the entries in this folder are shown in the following example.
-
+```jet
     win32=<path>\ Acer3x.dll
 
     FlushTransactionTimeout=500
@@ -49,6 +46,7 @@ The **Access Connectivity Engine\Engines\Jet 3.x** folder includes initializatio
     RecycleLVs=0
 
     SortMemorySource=0
+```
 
 The Microsoft Access database engine uses the following entries.
 
