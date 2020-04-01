@@ -34,7 +34,7 @@ The 32-bit versions of Excel 2013 and Excel 2016 now have Large Address Aware (L
 
 LAA doubles available virtual memory from 2 GB to 4 GB on 64-bit versions of Windows, and increases available virtual memory from 2 GB to 3 GB on 32-bit versions of Windows.
 
-For more information, see [Large Address Aware Capability Change for Excel](https://support.microsoft.com/en-ca/help/3160741/large-address-aware-capability-change-for-excel).
+For more information, see [Large Address Aware Capability Change for Excel](https://support.microsoft.com/help/3160741/large-address-aware-capability-change-for-excel).
 
 To download a tool that shows how much virtual memory is available and how much is being used, see [Excel Memory Checking Tool](https://fastexcel.wordpress.com/2016/11/27/excel-memory-checking-tool-using-laa-to-increase-useable-excel-memory/).
 
@@ -161,7 +161,7 @@ Excel 2016 introduces performance and limitation improvements focused on increas
 
 ## See also
 
-- [Excel performance: Improving calculation performance](excel-improving-calcuation-performance.md)   
+- [Excel performance: Improving calculation performance](excel-improving-calculation-performance.md)   
 - [Excel performance: Tips for optimizing performance obstructions](excel-tips-for-optimizing-performance-obstructions.md)   
 - [Excel Developer Portal](https://msdn.microsoft.com/office/aa905411.aspx)   
 - [Changes to Slow/Fast level names for Office Insider for Windows desktop](https://support.office.com/article/Changes-to-Slow-Fast-level-names-for-Office-Insider-for-Windows-desktop-055ee4f9-9ce3-4fb8-8a9a-ca6745867d52)
