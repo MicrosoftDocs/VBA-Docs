@@ -8,8 +8,6 @@ ms.assetid: 078ae060-a90b-e992-2cfb-34ee6b003098
 ms.date: 08/14/2019
 localization_priority: Priority
 ---
-
-
 # Can't find project or library
 
 You can't run your code until all missing references are resolved.
@@ -17,23 +15,23 @@ You can't run your code until all missing references are resolved.
 This error has the following causes and solutions:
 
 - A [referenced project](../../Glossary/vbe-glossary.md#referenced-project) could not be found, or a referenced[object library](../../Glossary/vbe-glossary.md#object-library) corresponding to the language of the [project](../../Glossary/vbe-glossary.md#project) could not be found.
-    
+
   Unresolved references are prefixed with MISSING in the **References** dialog box. Select the missing reference to display the path and language of the missing project or library. Follow these steps to resolve the reference or references:
-    
+
 **To resolve the references**
 
 1. Display the **References** dialog box.
-    
+
 2. Select the missing reference.
-    
+
 3. Start the [Object Browser](../../Glossary/vbe-glossary.md#object-browser).
-    
+
 4. Use the **Browse** dialog box to find the missing reference.
-    
+
 5. Click **OK**.
-    
+
 6. Repeat the preceding steps until all missing references are resolved.
-    
+
 Once you find a missing item, the MISSING prefix is removed to indicate that the link is reestablished. If the file name of a referenced project has changed, a new reference is added, and the old reference must be removed.
 To remove a reference that is no longer required, simply clear the check box next to the unnecessary reference. Note that the references to the Visual Basic object library and [host-application](../../Glossary/vbe-glossary.md#host-application) object library can't be removed.
 
@@ -43,15 +41,15 @@ Object libraries may be standalone files with the extension .OLB or they can be 
 Object library file names are generally constructed as follows:
 
 - Windows (version 3.1 and earlier): Application Code + Language Code + [Version].OLB. For example: The object library for French Visual Basic for Applications, Version 2 was vafr2.olb. The French Microsoft Excel 5.0 object library was xlfr50.olb.
-    
+
 - Macintosh: Application Name Language Code [Version] OLB. For example: The object library for French Visual Basic for Applications, Version 2 was VA FR 2 OLB. The French Microsoft Excel 5.0 object library was MS Excel FR 50 OLB.
-    
+
 If you can't find a missing project or library on your system, contact the [referencing project](../../Glossary/vbe-glossary.md#referencing-project)'s author. If the missing library is a Microsoft application object library, you can obtain it as follows:
 
 - If you have access to Microsoft electronic technical support services, refer to the technical support section of this Help file. Under electronic services, you will find instructions on how to use the appropriate service option.
-    
+
 - If you don't have access to Microsoft electronic technical support services, Microsoft object libraries are available upon request as an application note from Microsoft. Information on how to contact your local Microsoft product support organization is also available in the technical support section of this Help file.
-    
+
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
 [!include[Add-ins note](~/includes/addinsnote.md)]
