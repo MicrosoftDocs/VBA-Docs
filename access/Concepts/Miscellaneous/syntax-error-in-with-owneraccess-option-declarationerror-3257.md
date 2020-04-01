@@ -23,7 +23,7 @@ Possible causes:
 ```sql
   SELECT * WITH OWNERACCESS OPTION FROM [My Table]; 
 ```
-The WITH OWNERACCESS OPTION declaration should appear at the end of the SQL statement, usually after the ORDER BY clause, if present:
+The `WITH OWNERACCESS OPTION` declaration should appear at the end of the SQL statement, usually after the ORDER BY clause, if present:
 
 ```sql
   SELECT * FROM [My Table] WITH OWNERACCESS OPTION;
