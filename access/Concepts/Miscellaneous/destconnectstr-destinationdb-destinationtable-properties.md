@@ -6,7 +6,7 @@ f1_keywords:
 - vbaac10.chm6181
 ms.prod: access
 ms.assetid: 5d9f3e9d-fc36-d4af-d82b-8d2ebd8044fa
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -51,9 +51,9 @@ To use the query's property sheet to specify a table in a Microsoft Access datab
 To specify a table in a database created by a different product, such as Paradox, enter the name of the table in the **DestinationTable** property box. In the **DestinationDB** property box, enter the path (for example, C:\Pdoxdata). In the **DestConnectStr** property box, enter the specifier for the database type (for example, Paradox 3.x). For a list of specifiers, see the ADO **Connect** property.
 
 To specify an Open Database Connectivity (ODBC) database, enter the name of the database in the **DestConnectStr** property box along with additional information, such as a logon identification (ID) and password, as required by the product. For example, you might use the following setting for a Microsoft SQL Server database:
-
+```sql
     ODBC;DSN=salessrv;UID=jace;PWD=password;DATABASE=sales;
-
+```
 For more information about ODBC drivers, such as Microsoft SQL Server, see the Help provided with the driver.
 
 You don't need to set the **DestinationDB** property for ODBC databases.
