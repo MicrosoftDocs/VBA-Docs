@@ -23,7 +23,7 @@ When Outlook calls one of these methods, it passes an **IRibbonUI** object as a 
 | **[ActivateTab](../../../api/Office.IRibbonUI.ActivateTab.md)**|Callback|Activates the specified custom tab on the Microsoft Office Fluent ribbon.|
 | **[ActivateTabQ](../../../api/Office.IRibbonUI.ActivateTabQ.md)**|Callback|Activates the specified custom tab on the ribbon by using the fully qualified name of the tab.|
 
-To minimize the impact on performance, use the  **InvalidateControl** method instead of the **Invalidate** method unless you actually need to invalidate all the custom controls or menu items that your add-in defines. Calling **Invalidate** invalidates all controls and menu items that your add-in defines, and callbacks occur on open explorers, inspectors, and menus.
+To minimize the impact on performance, use the **InvalidateControl** method instead of the **Invalidate** method unless you actually need to invalidate all the custom controls or menu items that your add-in defines. Calling **Invalidate** invalidates all controls and menu items that your add-in defines, and callbacks occur on open explorers, inspectors, and menus.
 
 ## See also
 

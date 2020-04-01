@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Specify Possible Values for a List Box
 
-The following example fills a  **[ListBox](../../../api/Outlook.listbox.md)** control with the values "Test1", "Test2", and "Test3" when you open the form.
+The following example fills a **[ListBox](../../../api/Outlook.listbox.md)** control with the values "Test1", "Test2", and "Test3" when you open the form.
 
 
 ```vb

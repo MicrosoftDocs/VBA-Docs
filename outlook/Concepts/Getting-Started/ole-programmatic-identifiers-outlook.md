@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # OLE Programmatic Identifiers (Outlook)
 
-You can use an OLE programmatic identifier (sometimes called a ProgID) to create an  **Automation** object. The following tables list OLE programmatic identifiers for ActiveX controls, Microsoft Office applications, and Microsoft Office Web Components.
+You can use an OLE programmatic identifier (sometimes called a ProgID) to create an **Automation** object. The following tables list OLE programmatic identifiers for ActiveX controls, Microsoft Office applications, and Microsoft Office Web Components.
 
  [ActiveX Controls](#OLEActiveXControls)
 

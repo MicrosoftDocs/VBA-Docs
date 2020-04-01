@@ -15,7 +15,7 @@ When you create a form region in a custom form, by default, the form region will
 ## To prevent the Reading Pane from displaying a form region
 
 
-- In the form region manifest XML file, specify  **False** as the value of the **showReadingPane** element.
+- In the form region manifest XML file, specify **False** as the value of the **showReadingPane** element.
     
 The following example disables the Reading Pane from displaying a form region:
 
@@ -25,6 +25,6 @@ The following example disables the Reading Pane from displaying a form region:
 ```
 
 > [!NOTE] 
-> You can assign  **showReadingPane** either a string value or an integer value. The default value is **True** or **1**. To prevent the Reading Pane from displaying the form region, assign either  **False** or **0**.
+> You can assign **showReadingPane** either a string value or an integer value. The default value is **True** or **1**. To prevent the Reading Pane from displaying the form region, assign either **False** or **0**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 You can add items to a list box or a combo box at design time or at run time. 
 
-To save contents in an item,  **[ListBox](../../../api/Outlook.listbox.md)** and  **[ComboBox](../../../api/Outlook.combobox.md)** controls must be bound to a field.
+To save contents in an item, **[ListBox](../../../api/Outlook.listbox.md)** and **[ComboBox](../../../api/Outlook.combobox.md)** controls must be bound to a field.
 
 For more information, see the following topics:
 

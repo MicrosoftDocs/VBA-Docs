@@ -11,6 +11,6 @@ localization_priority: Normal
 
 1. Select each control that you want to include in the group. (The dominant control does not affect this procedure. For more information, see  [How to: Select Multiple Controls and the Dominant Control](select-multiple-controls-and-the-dominant-control.md).)
     
-2. On the  **Developer** tab, in the **Arrange** group, click **Group**, and then click  **Group**.
+2. On the **Developer** tab, in the **Arrange** group, click **Group**, and then click **Group**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

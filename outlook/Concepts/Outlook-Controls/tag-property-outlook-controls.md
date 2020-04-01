@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Tag Property (Outlook Controls)
 
-Returns or sets a  **String** that specifies additional information about a control. Read/write.
+Returns or sets a **String** that specifies additional information about a control. Read/write.
 
 
 ## Syntax
@@ -26,8 +26,8 @@ Returns or sets a  **String** that specifies additional information about a cont
 
 The default is a zero-length string ("").
 
-Use the  **Tag** property to assign an identification string to a control without affecting other property settings or attributes.
+Use the **Tag** property to assign an identification string to a control without affecting other property settings or attributes.
 
-For example, you can use  **Tag** to check the identity of a control that is passed as a variable to a procedure.
+For example, you can use **Tag** to check the identity of a control that is passed as a variable to a procedure.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

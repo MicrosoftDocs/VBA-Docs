@@ -17,11 +17,11 @@ The  `FindAppts` function in the code sample carries out the search using two di
     
 2. It obtains all the items in the default calendar folder.
     
-3. To include all appointment items strictly within the date range including recurrent appointments, it sets  ** [Items.IncludeRecurrences](../../../api/Outlook.Items.IncludeRecurrences.md)** to **True** and then sorts the items by the ** [AppointmentItem.Start](../../../api/Outlook.AppointmentItem.Start.md)** property.
+3. To include all appointment items strictly within the date range including recurrent appointments, it sets **[Items.IncludeRecurrences](../../../api/Outlook.Items.IncludeRecurrences.md)** to **True** and then sorts the items by the ** [AppointmentItem.Start](../../../api/Outlook.AppointmentItem.Start.md)** property.
     
 4. It builds the first query for all appointments that begin on or after  `myStart`, and end on or before  `myEnd`. This query is a Jet query.
     
-5. It applies the query to items in the default calendar folder, using the  ** [Items.Restrict](../../../api/Outlook.Items.Restrict.md)** method.
+5. It applies the query to items in the default calendar folder, using the **[Items.Restrict](../../../api/Outlook.Items.Restrict.md)** method.
     
 6. It builds the second query for the appointment subject containing the word "team". It uses the  `like` keyword for substring matching in a DAV Searching and Locating (DASL) query.
     

@@ -16,7 +16,7 @@ When you need to access the fields in an item, the method you use depends on whe
 
 In either case, you do not access the field directly. Instead, you refer to the field as a property of the item you are working with.
 
-For example, to retrieve the text from the Subject field of a mail message, you use the  **Subject** property of the item, as shown in the following VBScript example.
+For example, to retrieve the text from the Subject field of a mail message, you use the **Subject** property of the item, as shown in the following VBScript example.
 
 
 
@@ -25,7 +25,7 @@ For example, to retrieve the text from the Subject field of a mail message, you 
 mySubject = Item.Subject
 ```
 
-If the field is a custom (user-defined) field, you access it using the  **UserProperties** property of the item, as shown in the following VBScript example. This example assumes that the item already contains a custom field named ReferredBy.
+If the field is a custom (user-defined) field, you access it using the **UserProperties** property of the item, as shown in the following VBScript example. This example assumes that the item already contains a custom field named ReferredBy.
 
 
 
