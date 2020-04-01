@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Column.Shading property (Word)
 
-Returns a  **Shading** object that refers to the shading formatting for the specified column.
+Returns a  **[Shading](Word.Shading.md)** object that refers to the shading formatting for the specified column.
 
 
 ## Syntax
