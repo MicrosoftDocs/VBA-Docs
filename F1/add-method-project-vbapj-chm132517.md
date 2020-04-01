@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Profiles.Add Method (Project)](https://docs.microsoft.com/en-us/office/vba/api/Project.Profiles.Add)
+[Profiles.Add Method (Project)](https://docs.microsoft.com/office/vba/api/Project.Profiles.Add)
 
-[Availability.AvailableTo Property (Project)](https://docs.microsoft.com/en-us/office/vba/api/Project.Availability.AvailableTo)
+[Availability.AvailableTo Property (Project)](https://docs.microsoft.com/office/vba/api/Project.Availability.AvailableTo)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

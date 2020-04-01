@@ -823,7 +823,7 @@ This article covered ways to optimize Excel functionality such as links, lookups
 
 ## See also
 
--  [Excel performance: Improving calculation performance](excel-improving-calcuation-performance.md)    
+-  [Excel performance: Improving calculation performance](excel-improving-calculation-performance.md)    
 -  [Excel performance: Performance and limit improvements](excel-performance-and-limit-improvements.md)   
 -  [Excel Developer Portal](https://msdn.microsoft.com/office/aa905411.aspx)
 

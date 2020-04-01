@@ -5,19 +5,15 @@ f1_keywords:
 - jeterr40.chm5003257
 ms.prod: access
 ms.assetid: a1b4ae18-4efa-d79a-ffec-4ec705a0236b
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
-
 # Syntax error in WITH OWNERACCESS OPTION declaration. (Error 3257)
-
   
-
 **Applies to:** Access 2013 | Access 2016
 
 Possible causes:
-
 
 
 - The WITH OWNERACCESS OPTION declaration is incomplete or includes a space between OWNER and ACCESS.
@@ -26,13 +22,8 @@ Possible causes:
     
 ```sql
   SELECT * WITH OWNERACCESS OPTION FROM [My Table]; 
-
 ```
-
-
-    The WITH OWNERACCESS OPTION declaration should appear at the end of the SQL statement, usually after the ORDER BY clause, if present:
-    
-
+The `WITH OWNERACCESS OPTION` declaration should appear at the end of the SQL statement, usually after the ORDER BY clause, if present:
 
 ```sql
   SELECT * FROM [My Table] WITH OWNERACCESS OPTION;

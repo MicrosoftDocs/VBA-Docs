@@ -31,7 +31,8 @@ The range for returns is 0&ndash;255 on non-DBCS systems, but -32768&ndash;32767
 > [!NOTE] 
 > Visual Basic for the Macintosh does not support Unicode strings. Therefore, **AscW** (_n_) cannot return all Unicode characters for n values in the range of 128&ndash;65,535, as it does in the Windows environment. Instead, **AscW** (_n_) attempts a "best guess" for Unicode values n greater than 127. Therefore, you should not use **AscW** in the Macintosh environment.
 
-The functions **[Chr(), ChrB(), and ChrW()](../chr-function.md)** are the opposite of **Asc(), AscB(), and AscW().** The **Chr()** functions convert an integer to a character string.
+The functions **[Chr(), ChrB(), and ChrW()](chr-function.md)** are the opposite of **Asc(), AscB(), and AscW().** The **Chr()** functions convert an integer to a character string.
+
 
 ## Example
 
@@ -50,6 +51,6 @@ MyNumber = Asc("Apple")    ' Returns 65.
 ## See also
 
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
-- [Chr(), ChrB(), and ChrW() functions](../chr-function.md)
+- [Chr(), ChrB(), and ChrW() functions](chr-function.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
