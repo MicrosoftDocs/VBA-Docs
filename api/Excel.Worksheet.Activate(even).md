@@ -42,7 +42,7 @@ This example sorts the range A1:A10 when the worksheet is activated.
 
 ```vb
 Private Sub Worksheet_Activate() 
- Range("a1:a10").Sort Key1:=Range("a1"), Order:=xlAscending 
+ Me.Range("a1:a10").Sort Key1:=Range("a1"), Order1:=xlAscending 
 End Sub
 ```
 
