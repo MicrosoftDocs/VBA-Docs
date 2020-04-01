@@ -12,27 +12,19 @@ localization_priority: Normal
 
 # The Microsoft Access database engine does not recognize <name> as a valid field name or expression. (Error 3070)
 
-  
-
 **Applies to:** Access 2013 | Access 2016
 
 The specified name is not a recognized field name or a valid expression. In a query, this error can occur if you enter a name that improperly refers to a database, table, or field.
 
 Possible causes with Microsoft Access:
 
-
-- You have a parameter in a crosstab query or in a query that a crosstab query or chart is based on, and the parameter data type is not explicitly specified in the  **Query Parameters** dialog box. To solve the problem:
+- You have a parameter in a crosstab query or in a query that a crosstab query or chart is based on, and the parameter data type is not explicitly specified in the **Query Parameters** dialog box. To solve the problem:
     
+  - In the query that contains the parameter, specify the parameter and its data type in the **Query Parameters** dialog box. And;
     
-    
-      - In the query that contains the parameter, specify the parameter and its data type in the  **Query Parameters** dialog box. And;
-    
-  - Set the  **ColumnHeadings** property for the query that contains the parameter.
-    
-
-    
-    
-- In any type of query, you have improperly referred to a database, table, or field. For example, this error can occur if you refer to a field named Salary in an expression, but you misspell the field name, such as  `[Sallary]*1.1`.
+  - Set the  **ColumnHeadings** property for the query that contains the parameter.  
+        
+  - In any type of query, you have improperly referred to a database, table, or field. For example, this error can occur if you refer to a field named Salary in an expression, but you misspell the field name, such as `[Sallary]*1.1`.
     
 
 ## See also

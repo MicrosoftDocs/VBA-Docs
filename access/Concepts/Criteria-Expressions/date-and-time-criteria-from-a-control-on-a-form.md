@@ -8,8 +8,6 @@ ms.assetid: 132cf297-eb3b-68a1-7a47-b832931a5091
 ms.date: 09/21/2018
 localization_priority: Normal
 ---
-
-
 # Date and time criteria from a control on a form
 
 If you want to change the  _criteria_ argument for an operation based on a user's decision, you can specify that the criteria comes from a control on a form. For example, you could specify that the _criteria_ argument comes from a list box containing order dates from an Orders table.
@@ -29,7 +27,6 @@ Forms!Employees.Filter = "[HireDate] >= #" _
 Forms!Employees.FilterOn = True
 ```
 
-
 ```vb
 Forms!Employees.ServerFilter = "[HireDate] >= #" _ 
  & Forms!Employees!HireDate & "#" 
@@ -37,9 +34,7 @@ Forms!Employees.FilterOn = True
 ```
 
 If the current value of the HireDate control is May 1, 1992, the **Filter** or **ServerFilter** property will have the following _criteria_ argument:
-
-
-    "[HireDate] >= #5-1-92#"
+`"[HireDate] >= #5-1-92#"`
 
 > [!TIP] 
 > To troubleshoot an expression in the _criteria_ argument, break the expression into smaller components and test each individually in the Immediate window. When all of the components are working correctly, put them back together one at a time until the complete expression works correctly.

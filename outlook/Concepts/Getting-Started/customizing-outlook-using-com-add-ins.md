@@ -9,21 +9,18 @@ ms.date: 06/08/2017
 localization_priority: Normal
 ---
 
-
 # Customizing Outlook using COM add-ins
 
 Creating a COM add-in involves two major steps:
 
-
 1. Implement the  **IDTExtensibility2** interface in a class module of a dynamic link library (DLL).
     
 2. Register the COM add-in.
-    
+   
 
 ## Implement the IDTExtensibility2 Interface
 
 The  **IDTExtensibility2** interface consists of five event procedures. To implement this interface in a Visual Basic program, set a reference to the Microsoft Add-In Designer object library and then add the following statement to the Declarations section of a class module:
-
 
 ```vb
 Implements IDTExtensibility2
@@ -43,17 +40,13 @@ In addition, information about the add-in must be added to the registry. This in
 
 The following example shows the contents of a sample registry-editor (.reg) file that illustrates how to register an Outlook COM add-in.
 
-
-
-
+```vb
     [HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\Addins\SampleAddIn.AddInIFace]
     "FriendlyName"="Sample Add-in"
     "Description"="Sample Outlook Add-In"
     "LoadBehavior"=dword:00000008
-
+```
 When the COM add-in is first registered,  **LoadBehavior** can be set to any of the following flags.
-
-
 
 |Value|Description|
 |:-----|:-----|
@@ -62,8 +55,6 @@ When the COM add-in is first registered,  **LoadBehavior** can be set to any of 
 |16|Connect first time. The COM add-in is loaded and connected the first time the user runs Outlook after the COM add-in has been registered. The next time Outlook is run, the COM add-in is loaded when the user requests it. Use this value if your COM add-in modifies the user interface to allow the user to request the COM add-in be connected on demand (by clicking a button, for example).|
 
 After the COM add-in is registered and loaded, the  **LoadBehavior** value can be combined with either of the following two flags to indicate current connection state of the COM add-in.
-
-
 
 |**Flag**|**Description**|
 |:-----|:-----|
