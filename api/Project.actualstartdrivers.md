@@ -2,15 +2,13 @@
 title: ActualStartDrivers object (Project)
 ms.prod: project-server
 ms.assetid: b9a76aed-576f-e7df-3884-c8d3fcecf210
-ms.date: 06/08/2019
+ms.date: 07/08/2019
 localization_priority: Normal
 ---
-
 
 # ActualStartDrivers object (Project)
 
 The **ActualStartDrivers** object is a collection of **[Assignment](Project.Assignment.md)** objects that affect the task start date.
-
 
 ## Remarks
 
