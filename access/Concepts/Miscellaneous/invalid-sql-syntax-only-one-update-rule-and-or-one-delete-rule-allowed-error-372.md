@@ -2,7 +2,7 @@
 title: "Invalid SQL Syntax: only one update rule and/or one delete rule allowed (Error 3727)"
 ms.prod: access
 ms.assetid: 33b81676-3b49-d0ab-5f77-489ccea77671
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

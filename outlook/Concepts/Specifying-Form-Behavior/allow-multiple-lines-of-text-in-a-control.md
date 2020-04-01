@@ -9,8 +9,8 @@ localization_priority: Normal
 
 # Allow Multiple Lines of Text in a Control
 
-1. In Forms Designer, right-click the control, and then click  **Properties**. 
+1. In Forms Designer, right-click the control, and then click **roperties**. 
     
-2. In the  **Properties** dialog box, on the **Display** tab, select the **Multi-line** check box.
+2. In the **roperties** dialog box, on the **Display** tab, select the **Multi-line** check box.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

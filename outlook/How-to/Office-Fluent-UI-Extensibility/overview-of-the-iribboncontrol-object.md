@@ -19,10 +19,10 @@ For example, the **Context** property returns the [Explorer](../../../api/Outloo
 | **Property**| **Type**| **Description**|
 |:-----|:-----|:-----|
 | **Context**| **Object**| Returns an object that represents the window in which the custom ribbon is about to be displayed, or the related object to which the menu customization is applied and is about to be displayed. Read-only.|
-| **[Id](../../../api/Office.IRibbonControl.Id.md)**| **String**|Returns a string that represents the  **Id** attribute for the control or custom menu item. Read-only.|
-| **[Tag](../../../api/Office.IRibbonControl.Tag.md)**| **String**|Returns a string that represents the  **Tag** attribute for the control or custom menu item. Read-only.|
+| **[Id](../../../api/Office.IRibbonControl.Id.md)**| **String**|Returns a string that represents the **Id** attribute for the control or custom menu item. Read-only.|
+| **[Tag](../../../api/Office.IRibbonControl.Tag.md)**| **String**|Returns a string that represents the **Tag** attribute for the control or custom menu item. Read-only.|
 
-When you write managed code, try to cast the object represented by  **IRibbonControl.Context** to the corresponding Outlook object. For example, if you customize a ribbon in an inspector, cast the [Inspector](../../../api/Outlook.Inspector.md) object. Then, if the cast succeeds, you can compare the **Inspector** object that is returned by **IRibbonControl.Context** to other inspector windows that are open. To determine the underlying item that is displayed in an inspector window, examine [Inspector.CurrentItem](../../../api/Outlook.Inspector.CurrentItem.md). Because  **CurrentItem** is an **Object** type, your code must cast the object to an appropriate item type such as [MailItem](../../../api/Outlook.MailItem.md) or [ContactItem](../../../api/Outlook.ContactItem.md).
+When you write managed code, try to cast the object represented by **IRibbonControl.Context** to the corresponding Outlook object. For example, if you customize a ribbon in an inspector, cast the [Inspector](../../../api/Outlook.Inspector.md) object. Then, if the cast succeeds, you can compare the **Inspector** object that is returned by **IRibbonControl.Context** to other inspector windows that are open. To determine the underlying item that is displayed in an inspector window, examine [Inspector.CurrentItem](../../../api/Outlook.Inspector.CurrentItem.md). Because **CurrentItem** is an **Object** type, your code must cast the object to an appropriate item type such as [MailItem](../../../api/Outlook.MailItem.md) or [ContactItem](../../../api/Outlook.ContactItem.md).
 
 ## See also
 

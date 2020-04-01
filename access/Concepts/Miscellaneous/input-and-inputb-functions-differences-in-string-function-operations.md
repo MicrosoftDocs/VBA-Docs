@@ -3,7 +3,7 @@ title: Input and InputB functions (differences in string function operations)
 ROBOTS: INDEX
 ms.prod: access
 ms.assetid: 49389ce7-dc9b-3014-ec09-5c444d60b8bf
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

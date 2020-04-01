@@ -2,7 +2,7 @@
 title: Internet synchronizer exited unexpectedly. (Error 3683)
 ms.prod: access
 ms.assetid: 2959a1bd-8d2e-de9d-8c5e-ac8c6ff3b941
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

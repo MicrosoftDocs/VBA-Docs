@@ -12,15 +12,15 @@ localization_priority: Normal
 
 # Set the Type of Mouse Pointer for a List Box
 
-The following example demonstrates how to specify a mouse pointer that is appropriate for a specific control or situation. For the  **[ListBox](../../../api/Outlook.listbox.md)** control, you can assign one of several available mouse pointers using the ** [ListBox.MousePointer](../../../api/Outlook.listbox.mousepointer.md)** property.
+The following example demonstrates how to specify a mouse pointer that is appropriate for a specific control or situation. For the **[ListBox](../../../api/Outlook.listbox.md)** control, you can assign one of several available mouse pointers using the ** [ListBox.MousePointer](../../../api/Outlook.listbox.mousepointer.md)** property.
 
 This example works in the following ways:
 
-- Choose a mouse pointer from the  **ListBox** to change the mouse pointer associated with the **ListBox**.
+- Choose a mouse pointer from the **ListBox** to change the mouse pointer associated with the **ListBox**.
     
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **ListBox** named ListBox1.
+- A **ListBox** named ListBox1.
     
 
 

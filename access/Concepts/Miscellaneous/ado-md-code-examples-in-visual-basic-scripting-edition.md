@@ -2,7 +2,7 @@
 title: ADO MD Code Examples in Visual Basic, Scripting Edition
 ms.prod: access
 ms.assetid: d630c707-31a6-926e-8614-5e5ce189f602
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

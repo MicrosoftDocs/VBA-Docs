@@ -12,6 +12,6 @@ localization_priority: Normal
 
 # How Can I Prevent the VBScript Code from Running?
 
-To prevent any VBScript code from running, hold down the  **SHIFT** key. For example, hold down **SHIFT** while you open an item to prevent the VBScript code for the **Open** event from running.
+To prevent any VBScript code from running, hold down the **SHIFT** key. For example, hold down **SHIFT** while you open an item to prevent the VBScript code for the **Open** event from running.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

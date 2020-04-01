@@ -12,13 +12,13 @@ localization_priority: Normal
 
 # Align the Caption of an Option Button with the Control
 
-The following example demonstrates the  **[Alignment](../../../api/Outlook.optionbutton.alignment.md)** property used with several **[OptionButton](../../../api/Outlook.optionbutton.md)** controls. In this example, the user can change the alignment by clicking a **[ToggleButton](../../../api/Outlook.togglebutton.md)**.
+The following example demonstrates the **[Alignment](../../../api/Outlook.optionbutton.alignment.md)** property used with several **[OptionButton](../../../api/Outlook.optionbutton.md)** controls. In this example, the user can change the alignment by clicking a **[ToggleButton](../../../api/Outlook.togglebutton.md)**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains the following controls:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains the following controls:
 
-- Two  **OptionButton** controls named OptionButton1 and OptionButton2.
+- Two **OptionButton** controls named OptionButton1 and OptionButton2.
     
-- A  **ToggleButton** named ToggleButton1.
+- A **ToggleButton** named ToggleButton1.
     
 
 

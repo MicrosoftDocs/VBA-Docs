@@ -3,7 +3,7 @@ title: Index or primary key cannot contain a Null value (Error 3058)
 ROBOTS: INDEX
 ms.prod: access
 ms.assetid: ec435ace-b33a-b14d-54ce-fd918666ee53
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

@@ -12,20 +12,20 @@ localization_priority: Normal
 
 # Enable and Lock a Text Box from User Entry
 
-The following example demonstrates the  **[Enabled](../../../api/Outlook.textbox.enabled.md)** and **[Locked](../../../api/Outlook.textbox.locked.md)** properties and how they complement each other. This example exposes each property independently with a **[CheckBox](../../../api/Outlook.checkbox.md)**, so you observe the settings individually and combined. This example also includes a second  **[TextBox](../../../api/Outlook.textbox.md)** so you can copy and paste information between the **TextBox** controls and verify the activities supported by the settings of these properties.
+The following example demonstrates the **[Enabled](../../../api/Outlook.textbox.enabled.md)** and **[Locked](../../../api/Outlook.textbox.locked.md)** properties and how they complement each other. This example exposes each property independently with a **[CheckBox](../../../api/Outlook.checkbox.md)**, so you observe the settings individually and combined. This example also includes a second **[TextBox](../../../api/Outlook.textbox.md)** so you can copy and paste information between the **TextBox** controls and verify the activities supported by the settings of these properties.
 
 
- **Note**  You can copy the selection to the Clipboard using CTRL+C and paste using CTRL+V.
+ **Note** You can copy the selection to the Clipboard using CTRL+C and paste using CTRL+V.
 
 
 To use this example, copy this sample code to the Script Editor of a form. Make sure that the form contains:
 
 
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.
     
-- Two  **CheckBox** controls named CheckBox1 and CheckBox2.
+- Two **CheckBox** controls named CheckBox1 and CheckBox2.
     
-- A second  **TextBox** named TextBox2.
+- A second **TextBox** named TextBox2.
     
 
 

@@ -2,7 +2,7 @@
 title: Invalid Memo or OLE Object in subquery <name>. (Error 3342)
 ms.prod: access
 ms.assetid: 30b600bc-0942-0256-32bd-d44deb5a5488
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

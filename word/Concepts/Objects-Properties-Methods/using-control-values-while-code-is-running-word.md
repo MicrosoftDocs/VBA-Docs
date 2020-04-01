@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Using Control Values While Code Is Running (Word)
 
-You can set and return some properties for  [ActiveX controls](../../../api/overview/Word.md) while Visual Basic code is running. The following example sets the  **Text** property of a text box to "Hello."
+You can set and return some properties for  [ActiveX controls](../../../api/overview/Word.md) while Visual Basic code is running. The following example sets the **Text** property of a text box to "Hello."
 
 
 ```vb

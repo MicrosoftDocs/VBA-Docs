@@ -3,7 +3,7 @@ title: Handler property example (VJ++)
 ROBOTS: INDEX
 ms.prod: access
 ms.assetid: fba66f04-654d-5950-ee48-0da6f6106be2
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

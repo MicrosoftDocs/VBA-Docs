@@ -12,9 +12,9 @@ localization_priority: Normal
 
 # Display the Name of Each Control on a Page
 
-The following example displays the  **Name** property of each control on a form. This example uses the Microsoft Forms 2.0 **Controls**collection to cycle through all the controls placed directly on the User form.
+The following example displays the **Name** property of each control on a form. This example uses the Microsoft Forms 2.0 **Controls**collection to cycle through all the controls placed directly on the User form.
 
-To use this example, copy this sample code to the Script Editor of a form. Make sure that the form contains a  **[CommandButton](../../../api/Outlook.commandbutton.md)** named CommandButton1 and several other controls.
+To use this example, copy this sample code to the Script Editor of a form. Make sure that the form contains a **[CommandButton](../../../api/Outlook.commandbutton.md)** named CommandButton1 and several other controls.
 
 
 

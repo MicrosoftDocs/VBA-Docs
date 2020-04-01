@@ -27,23 +27,23 @@ The Outlook object model provides several approaches to access Outlook propertie
     
 - Using the **[PropertyAccessor](../../../api/Outlook.PropertyAccessor.md)** object to access built-in and custom properties of the following objects:
     
-  -  **[AddressEntry](../../../api/Outlook.AddressEntry.md)**
+  - **[AddressEntry](../../../api/Outlook.AddressEntry.md)**
     
-  -  **[AddressList](../../../api/Outlook.AddressList.md)**
+  - **[AddressList](../../../api/Outlook.AddressList.md)**
     
-  -  **[Attachment](../../../api/Outlook.Attachment.md)**
+  - **[Attachment](../../../api/Outlook.Attachment.md)**
     
-  -  **[ExchangeDistributionList](../../../api/Outlook.ExchangeDistributionList.md)**
+  - **[ExchangeDistributionList](../../../api/Outlook.ExchangeDistributionList.md)**
     
-  -  **[ExchangeUser](../../../api/Outlook.ExchangeUser.md)**
+  - **[ExchangeUser](../../../api/Outlook.ExchangeUser.md)**
     
-  -  **[Folder](../../../api/Outlook.Folder.md)**
+  - **[Folder](../../../api/Outlook.Folder.md)**
     
-  -  **[Outlook item objects](../Items-Folders-and-Stores/outlook-item-objects.md)**
+  - **[Outlook item objects](../Items-Folders-and-Stores/outlook-item-objects.md)**
     
-  -  **[Recipient](../../../api/Outlook.Recipient.md)**
+  - **[Recipient](../../../api/Outlook.Recipient.md)**
     
-  -  **[Store](../../../api/Outlook.Store.md)**
+  - **[Store](../../../api/Outlook.Store.md)**
     
 
 > [!NOTE]

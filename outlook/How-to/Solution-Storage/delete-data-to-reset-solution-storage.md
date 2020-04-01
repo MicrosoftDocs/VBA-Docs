@@ -12,17 +12,17 @@ localization_priority: Normal
 This topic describes how to delete existing solution data to reset the solution storage:
 
 
-1. Use  **[Folder.GetStorage](../../../api/Outlook.Folder.GetStorage.md)** to obtain an existing **[StorageItem](../../../api/Outlook.StorageItem.md)** object in a specific folder. This call will return a new **StorageItem** object if none already exists.
+1. Use **[Folder.GetStorage](../../../api/Outlook.Folder.GetStorage.md)** to obtain an existing **[StorageItem](../../../api/Outlook.StorageItem.md)** object in a specific folder. This call will return a new **StorageItem** object if none already exists.
     
-2. Use  **[StorageItem.Delete](../../../api/Outlook.StorageItem.Delete.md)** to remove the object permanently from the folder.
+2. Use **[StorageItem.Delete](../../../api/Outlook.StorageItem.Delete.md)** to remove the object permanently from the folder.
     
-3. Use  **Folder.GetStorage** to create a new instance of the **StorageItem** object with the same subject.
+3. Use **Folder.GetStorage** to create a new instance of the **StorageItem** object with the same subject.
     
-4. Use the  **[Add](../../../api/Outlook.UserProperties.Add.md)** method of **[StorageItem.UserProperties](../../../api/Outlook.StorageItem.UserProperties.md)** to create a custom property **Order Number**.
+4. Use the **[Add](../../../api/Outlook.UserProperties.Add.md)** method of **[StorageItem.UserProperties](../../../api/Outlook.StorageItem.UserProperties.md)** to create a custom property **Order Number**.
     
-5. Set the  **Order Number** property.
+5. Set the **Order Number** property.
     
-6. Use  **[StorageItem.Save](../../../api/Outlook.StorageItem.Save.md)** to save the **StorageItem** object to the folder.
+6. Use **[StorageItem.Save](../../../api/Outlook.StorageItem.Save.md)** to save the **StorageItem** object to the folder.
     
 
 ```vb
