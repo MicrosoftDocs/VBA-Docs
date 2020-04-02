@@ -12,6 +12,6 @@ localization_priority: Normal
 ## In this section
 
 
--  [ListBox.Click Event (Outlook Forms Script)](Outlook.ListBox.click.md)
+- [ListBox.Click Event (Outlook Forms Script)](Outlook.ListBox.click.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

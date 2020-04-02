@@ -11,7 +11,7 @@ localization_priority: Normal
 
 You cannot modify the default page of the journal form in Microsoft Outlook by using form pages customizations, but you can hide this page and create new pages on the form.
 
-You can customize the first page of a form by adding an adjoining form region. You can also use form regions to replace existing form pages. For more information, see  [Form Regions](../Outlook-Forms/form-regions.md).
+You can customize the first page of a form by adding an adjoining form region. You can also use form regions to replace existing form pages. For more information, see [Form Regions](../Outlook-Forms/form-regions.md).
 
  **Note** You cannot customize the list of **Entry Type** entries .
 

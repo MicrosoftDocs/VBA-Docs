@@ -42,20 +42,20 @@ Use the **SetProperty** method to set the value of the data column property that
 
 ## Methods
 
--  [GetProperty](Visio.DataColumn.GetProperty.md)
--  [SetProperty](Visio.DataColumn.SetProperty.md)
+- [GetProperty](Visio.DataColumn.GetProperty.md)
+- [SetProperty](Visio.DataColumn.SetProperty.md)
 
 ## Properties
 
--  [Application](Visio.DataColumn.Application.md)
--  [DataRecordset](Visio.DataColumn.DataRecordset.md)
--  [DisplayName](Visio.DataColumn.DisplayName.md)
--  [Document](Visio.DataColumn.Document.md)
--  [Hyperlink](Visio.DataColumn.Hyperlink.md)
--  [Name](Visio.DataColumn.Name.md)
--  [ObjectType](Visio.DataColumn.ObjectType.md)
--  [Stat](Visio.DataColumn.Stat.md)
--  [Visible](Visio.DataColumn.Visible.md)
+- [Application](Visio.DataColumn.Application.md)
+- [DataRecordset](Visio.DataColumn.DataRecordset.md)
+- [DisplayName](Visio.DataColumn.DisplayName.md)
+- [Document](Visio.DataColumn.Document.md)
+- [Hyperlink](Visio.DataColumn.Hyperlink.md)
+- [Name](Visio.DataColumn.Name.md)
+- [ObjectType](Visio.DataColumn.ObjectType.md)
+- [Stat](Visio.DataColumn.Stat.md)
+- [Visible](Visio.DataColumn.Visible.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

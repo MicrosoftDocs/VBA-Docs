@@ -9,12 +9,9 @@ localization_priority: Normal
 
 # ViewCtl Members (Outlook View Control)
 
-The Microsoft Outlook View Control displays information about a specific folder and can be integrated into solutions that provide access to Outlook data. The **ViewCtl** object provides programmatic access to the View Control. The control can be placed in any container that supports ActiveX® controls, including an HTML page that is hosted in Outlook as a Folder Home Page, or a custom Outlook form. If the View Control is placed in an HTML page that is hosted in a browser such as Internet Explorer, some functions of the control are disabled for security.
-
+The Microsoft Outlook View Control displays information about a specific folder and can be integrated into solutions that provide access to Outlook data. The **ViewCtl** object provides programmatic access to the View Control. The control can be placed in any container that supports ActiveX&reg; controls, including an HTML page that is hosted in Outlook as a Folder Home Page, or a custom Outlook form. If the View Control is placed in an HTML page that is hosted in a browser such as Internet Explorer, some functions of the control are disabled for security.
 
 ## Methods
-
-
 
 |**Name**|**Description**|
 |:-----|:-----|

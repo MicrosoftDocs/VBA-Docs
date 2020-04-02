@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Add a Command to the Ribbon to Start a Reply Form
 
-Use this procedure to customize a Microsoft Outlook form page. To customize a form region, see  [How to: Create a Custom Action for a Form Region](../Creating-Form-Regions/create-a-custom-action-for-a-form-region.md).
+Use this procedure to customize a Microsoft Outlook form page. To customize a form region, see [How to: Create a Custom Action for a Form Region](../Creating-Form-Regions/create-a-custom-action-for-a-form-region.md).
 
 
 1. In the Forms Designer, click the **(Actions)** page of your form.

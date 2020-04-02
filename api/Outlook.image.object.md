@@ -12,7 +12,7 @@ localization_priority: Normal
 ## In this section
 
 
--  [Image Object (Outlook Forms Script)](Outlook.image.md)
+- [Image Object (Outlook Forms Script)](Outlook.image.md)
     
 
 

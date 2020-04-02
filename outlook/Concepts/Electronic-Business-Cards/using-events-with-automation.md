@@ -24,7 +24,7 @@ To create an event handler for Microsoft Outlook objects in Microsoft Visual Bas
 4. Initialize the declared object.
     
 
-Learn about  [working with events in Outlook Visual Basic for Applications](../Getting-Started/using-outlook-visual-basic-for-applications-to-respond-to-outlook-events.md).
+Learn about [working with events in Outlook Visual Basic for Applications](../Getting-Started/using-outlook-visual-basic-for-applications-to-respond-to-outlook-events.md).
 
 
 ## Set the Reference to the Outlook Object Library

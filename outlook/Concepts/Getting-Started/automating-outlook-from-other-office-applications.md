@@ -19,7 +19,7 @@ To control Outlook objects from outside Outlook, you must establish a reference 
 There are several ways to return a reference to the Outlook **Application** object.
 
 
-- You can use the  [CreateObject](../../../api/Outlook.Application.CreateObject.md) function to start a new session of Outlook and return a reference to the **Application** object that represents the new session.
+- You can use the [CreateObject](../../../api/Outlook.Application.CreateObject.md) function to start a new session of Outlook and return a reference to the **Application** object that represents the new session.
     
 - You can use the Visual Basic **GetObject** function to return a reference to the **Application** object that represents a session that is already running. Note that because there can be only one instance of Outlook running at any given time, **GetObject** usually serves little purpose when used with Outlook. **CreateObject** can always be used to access the current instance of Outlook or to create a new instance if one does not exist. However, you can use error trapping with the **GetObject** method to determine whether Outlook is currently running.
     

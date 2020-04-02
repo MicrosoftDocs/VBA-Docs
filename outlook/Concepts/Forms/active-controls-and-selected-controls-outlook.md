@@ -17,6 +17,6 @@ When you click a selected control, you put it in the active state. In that state
 
 In both the selected and the active state, you can use **     *** * * * * * * **, ** ** ** ** ** ** ** ** ** **** h **l **d state, these commands are available on the shortcut menu and affect the control itself. In the active state, these commands affect whatever text is selected inside the control; if no text is selected, these commands have no effect. These commands are not available on the shortcut menu for active controls.
 
- **Note** or more information about design mode, see  [Run in Developer Mode in Outlook](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/run-in-developer-mode-in-outlook.md).
+ **Note** or more information about design mode, see [Run in Developer Mode in Outlook](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/run-in-developer-mode-in-outlook.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

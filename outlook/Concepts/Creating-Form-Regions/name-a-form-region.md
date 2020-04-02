@@ -23,7 +23,7 @@ Depending on the purpose, there are multiple ways you can provide identifiers fo
     
 4. Specify the full path name of the form region manifest XML file as the data of the key.
     
-For more information, see  [Specifying Form Regions in the Windows Registry](specifying-form-regions-in-the-windows-registry.md).
+For more information, see [Specifying Form Regions in the Windows Registry](specifying-form-regions-in-the-windows-registry.md).
 
 
 ## Optional: To provide an internal identifier using the name element

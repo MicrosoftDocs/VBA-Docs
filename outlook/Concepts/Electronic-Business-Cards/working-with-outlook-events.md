@@ -34,7 +34,7 @@ Function Item_Open()
 End Function
 ```
 
-Responding to application-level events is somewhat more involved because steps must be taken to associate the event handler with the part of Outlook in which the event is occurring. Learn about  [writing an application-level event handler](using-events-with-automation.md).
+Responding to application-level events is somewhat more involved because steps must be taken to associate the event handler with the part of Outlook in which the event is occurring. Learn about [writing an application-level event handler](using-events-with-automation.md).
 
 ## Order of Events
 

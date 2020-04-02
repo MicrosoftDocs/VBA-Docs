@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # ComboBox Members (Outlook Forms Script)
 
-Combines the features of a  [ListBox](Outlook.ListBox.md) and a [TextBox](Outlook.textbox.md).
+Combines the features of a [ListBox](Outlook.ListBox.md) and a [TextBox](Outlook.textbox.md).
 
 
 ## Methods
@@ -20,7 +20,7 @@ Combines the features of a  [ListBox](Outlook.ListBox.md) and a [TextBox](Outloo
 
 |Name|Description|
 |:-----|:-----|
-| [AddItem](Outlook.combobox.additem.md)|For a single-column  [ComboBox](Outlook.combobox.md), the  **AddItem** method adds an item to the list. For a multicolumn **ComboBox**, this method adds a row to the list.|
+| [AddItem](Outlook.combobox.additem.md)|For a single-column [ComboBox](Outlook.combobox.md), the  **AddItem** method adds an item to the list. For a multicolumn **ComboBox**, this method adds a row to the list.|
 | [Clear](Outlook.combobox.clear.md)|Removes all entries in the list in a  **ComboBox**.|
 | [Copy](Outlook.combobox.copy.md)|Copies the contents of an object to the Clipboard.|
 | [Cut](Outlook.combobox.cut.md)|Removes selected information from an object and transfers it to the Clipboard.|

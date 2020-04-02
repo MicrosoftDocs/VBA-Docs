@@ -12,7 +12,7 @@ localization_priority: Normal
 ## In this section
 
 
--  [ListBox Object (Outlook Forms Script)](Outlook.listbox.md)
+- [ListBox Object (Outlook Forms Script)](Outlook.listbox.md)
     
 
 

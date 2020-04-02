@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Prevent the Inspector from Displaying a Form Region When You are Composing a Message
 
-When you create a form region in a custom form, by default, the form region will be displayed in the inspector when you compose a message that uses that custom form. If you want to prevent the inspector from displaying the form region, specify this in the form region manifest XML file that you register for the form region. For more information on registering a form region, see  [Specifying Form Regions in the Windows Registry](specifying-form-regions-in-the-windows-registry.md).
+When you create a form region in a custom form, by default, the form region will be displayed in the inspector when you compose a message that uses that custom form. If you want to prevent the inspector from displaying the form region, specify this in the form region manifest XML file that you register for the form region. For more information on registering a form region, see [Specifying Form Regions in the Windows Registry](specifying-form-regions-in-the-windows-registry.md).
 
 ## To prevent the inspector from displaying a form region while in compose mode
 

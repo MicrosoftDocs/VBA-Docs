@@ -27,7 +27,7 @@ When you create a custom action, you can specify the following characteristics i
     
 - The prefix value in the subject of the resulting item.
     
-For more information on registering a form region, see  [Specifying Form Regions in the Windows Registry](specifying-form-regions-in-the-windows-registry.md).
+For more information on registering a form region, see [Specifying Form Regions in the Windows Registry](specifying-form-regions-in-the-windows-registry.md).
 
 ## Identifying Actions for a Form Region
 

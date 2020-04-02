@@ -12,7 +12,7 @@ localization_priority: Normal
 ## In this section
 
 
--  [ComboBox Object (Outlook Forms Script)](Outlook.combobox.md)
+- [ComboBox Object (Outlook Forms Script)](Outlook.combobox.md)
     
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

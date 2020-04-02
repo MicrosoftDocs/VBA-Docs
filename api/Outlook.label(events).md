@@ -12,6 +12,6 @@ localization_priority: Normal
 ## In this section
 
 
--  [Label.Click Event (Outlook Forms Script)](Outlook.Label.click.md)
+- [Label.Click Event (Outlook Forms Script)](Outlook.Label.click.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

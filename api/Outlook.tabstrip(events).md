@@ -12,6 +12,6 @@ localization_priority: Normal
 ## In this section
 
 
--  [TabStrip.Click Event (Outlook Forms Script)](Outlook.tabstrip.click.md)
+- [TabStrip.Click Event (Outlook Forms Script)](Outlook.tabstrip.click.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

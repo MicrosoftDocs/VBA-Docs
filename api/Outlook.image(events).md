@@ -12,6 +12,6 @@ localization_priority: Normal
 ## In this section
 
 
--  [Image.Click Event (Outlook Forms Script)](Outlook.Image.click.md)
+- [Image.Click Event (Outlook Forms Script)](Outlook.Image.click.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

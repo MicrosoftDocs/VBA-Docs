@@ -21,9 +21,9 @@ To save the layout of the form region, click **Form Region**, and then click **o
 
 For more information, see the following topics:
 
--  [Form Regions](../Outlook-Forms/form-regions.md)
+- [Form Regions](../Outlook-Forms/form-regions.md)
     
--  [How to: Create a Form Region](../Outlook-Forms/create-a-form-region.md)
+- [How to: Create a Form Region](../Outlook-Forms/create-a-form-region.md)
     
 
 ## Forms customized with form pages

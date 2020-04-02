@@ -12,20 +12,20 @@ localization_priority: Normal
 ## In this section
 
 
--  [Tab.Accelerator Property (Outlook Forms Script)](Outlook.tab.accelerator.md)
+- [Tab.Accelerator Property (Outlook Forms Script)](Outlook.tab.accelerator.md)
     
--  [Tab.Caption Property (Outlook Forms Script)](Outlook.tab.caption.md)
+- [Tab.Caption Property (Outlook Forms Script)](Outlook.tab.caption.md)
     
--  [Tab.ControlTipText Property (Outlook Forms Script)](Outlook.tab.controltiptext.md)
+- [Tab.ControlTipText Property (Outlook Forms Script)](Outlook.tab.controltiptext.md)
     
--  [Tab.Enabled Property (Outlook Forms Script)](Outlook.tab.enabled.md)
+- [Tab.Enabled Property (Outlook Forms Script)](Outlook.tab.enabled.md)
     
--  [Tab.Index Property (Outlook Forms Script)](Outlook.tab.index.md)
+- [Tab.Index Property (Outlook Forms Script)](Outlook.tab.index.md)
     
--  [Tab.Name Property (Outlook Forms Script)](Outlook.tab.name.md)
+- [Tab.Name Property (Outlook Forms Script)](Outlook.tab.name.md)
     
--  [Tab.Tag Property (Outlook Forms Script)](Outlook.tab.tag.md)
+- [Tab.Tag Property (Outlook Forms Script)](Outlook.tab.tag.md)
     
--  [Tab.Visible Property (Outlook Forms Script)](Outlook.tab.visible.md)
+- [Tab.Visible Property (Outlook Forms Script)](Outlook.tab.visible.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

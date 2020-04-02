@@ -11,6 +11,6 @@ localization_priority: Normal
 
 You cannot customize the default pages of a distribution list form. Because the default pages provide much of the Microsoft Outlook distribution list functionality, do not hide them; instead, add additional functionality to a new page on the form.
 
-You can customize the first page of a form by adding an adjoining form region or by using form regions to replace existing form pages. For more information, see  [Form Regions](../Outlook-Forms/form-regions.md).
+You can customize the first page of a form by adding an adjoining form region or by using form regions to replace existing form pages. For more information, see [Form Regions](../Outlook-Forms/form-regions.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

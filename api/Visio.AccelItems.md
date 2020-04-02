@@ -29,13 +29,13 @@ Unlike other Visio collections, the **AccelItems** collection is indexed startin
 
 ## Methods
 
--  [Add](Visio.AccelItems.Add.md)
+- [Add](Visio.AccelItems.Add.md)
 
 ## Properties
 
--  [Count](Visio.AccelItems.Count.md)
--  [Item](Visio.AccelItems.Item.md)
--  [Parent](Visio.AccelItems.Parent.md)
+- [Count](Visio.AccelItems.Count.md)
+- [Item](Visio.AccelItems.Item.md)
+- [Parent](Visio.AccelItems.Parent.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

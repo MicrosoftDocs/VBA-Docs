@@ -14,7 +14,7 @@ In general, you can customize up to five pages on a form. For email messages and
 
 ## Forms customized with form regions
 
-When you customize a form by using form regions, you begin with a standard form as a template, just as you do when you customize a form page. Any type of form region opens as a separate blank page in the Forms Designer, and you design your layout from there. For more information, see  [How to: Create a Form Region](../Outlook-Forms/create-a-form-region.md) and [Walkthrough: Add a Form Region to an Existing Page on a Form](../Creating-Form-Regions/add-a-form-region-to-an-existing-page-on-a-form.md). 
+When you customize a form by using form regions, you begin with a standard form as a template, just as you do when you customize a form page. Any type of form region opens as a separate blank page in the Forms Designer, and you design your layout from there. For more information, see [How to: Create a Form Region](../Outlook-Forms/create-a-form-region.md) and [Walkthrough: Add a Form Region to an Existing Page on a Form](../Creating-Form-Regions/add-a-form-region-to-an-existing-page-on-a-form.md). 
 
 
 ## Forms customized with form pages
@@ -28,7 +28,7 @@ In the Forms Designer, do the following:
     
 3. To align, size, or remove fields, right-click the field, and then select the options that you want from the shortcut menu. 
     
-4.  [Add and remove controls](../Specifying-Form-Behavior/add-or-remove-controls-on-a-form.md).
+4. [Add and remove controls](../Specifying-Form-Behavior/add-or-remove-controls-on-a-form.md).
     
 
  **Tip**

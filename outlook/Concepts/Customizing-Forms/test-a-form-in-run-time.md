@@ -14,7 +14,7 @@ localization_priority: Normal
 
 ## Forms customized with form regions
 
-You cannot test forms that you customize with form regions from inside Outlook. Instead, you must save the form as an .ofs file, update the add-ins that are used with the form regions, and then restart Outlook. For more information, see  [How to: Create a Form Region](../Outlook-Forms/create-a-form-region.md).
+You cannot test forms that you customize with form regions from inside Outlook. Instead, you must save the form as an .ofs file, update the add-ins that are used with the form regions, and then restart Outlook. For more information, see [How to: Create a Form Region](../Outlook-Forms/create-a-form-region.md).
 
 
 ## Forms customized with form pages

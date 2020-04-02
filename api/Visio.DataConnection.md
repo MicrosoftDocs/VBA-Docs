@@ -38,14 +38,14 @@ Multiple **DataRecordset** objects can share the same **DataConnection** object.
 
 ## Properties
 
--  [Application](Visio.DataConnection.Application.md)
--  [ConnectionString](Visio.DataConnection.ConnectionString.md)
--  [Document](Visio.DataConnection.Document.md)
--  [FileName](Visio.DataConnection.FileName.md)
--  [ID](Visio.DataConnection.ID.md)
--  [ObjectType](Visio.DataConnection.ObjectType.md)
--  [Stat](Visio.DataConnection.Stat.md)
--  [Timeout](Visio.DataConnection.Timeout.md)
+- [Application](Visio.DataConnection.Application.md)
+- [ConnectionString](Visio.DataConnection.ConnectionString.md)
+- [Document](Visio.DataConnection.Document.md)
+- [FileName](Visio.DataConnection.FileName.md)
+- [ID](Visio.DataConnection.ID.md)
+- [ObjectType](Visio.DataConnection.ObjectType.md)
+- [Stat](Visio.DataConnection.Stat.md)
+- [Timeout](Visio.DataConnection.Timeout.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

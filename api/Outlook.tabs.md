@@ -25,7 +25,7 @@ You can reference a **Tab** by its index value. The index value reflects the ord
 
 |Name|Description|
 |:-----|:-----|
-| [Add](Outlook.tabs.add.md)|Adds a  [Tab](Outlook.tab.md) to a [Tabs](Outlook.tabs.md) collection.|
+| [Add](Outlook.tabs.add.md)|Adds a [Tab](Outlook.tab.md) to a [Tabs](Outlook.tabs.md) collection.|
 | [Clear](Outlook.tabs.clear.md)|Removes all tabs from a **Tabs** collection.|
 | [Item](Outlook.tabs.item.md)|Returns a member of a collection, either by position or by name.|
 | [Remove](Outlook.tabs.remove.md)|Removes a member from a collection.|

@@ -12,6 +12,6 @@ localization_priority: Normal
 ## In this section
 
 
--  [ToggleButton.Click Event (Outlook Forms Script)](Outlook.togglebutton.click.md)
+- [ToggleButton.Click Event (Outlook Forms Script)](Outlook.togglebutton.click.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

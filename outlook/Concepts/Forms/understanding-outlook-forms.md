@@ -12,10 +12,10 @@ localization_priority: Normal
 ## In this section
 
 
--  [Forms and Message Classes](forms-and-message-classes.md)
+- [Forms and Message Classes](forms-and-message-classes.md)
     
--  [Fields and Controls](fields-and-controls.md)
+- [Fields and Controls](fields-and-controls.md)
     
--  [Customizing Forms (Outlook)](customizing-forms-outlook.md)
+- [Customizing Forms (Outlook)](customizing-forms-outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

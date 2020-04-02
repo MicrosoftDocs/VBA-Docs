@@ -14,8 +14,8 @@ localization_priority: Normal
 
 Microsoft Outlook allows you to enhance and extend the application using Component Object Model (COM) add-ins. A COM add-in is a dynamic-link library (DLL) that's specially registered so that it can be loaded by an Office XP application. You can build a COM add-in with a variety of languages, such as Microsoft Visual Basic and Microsoft Visual C++.
 
-The  [COMAddIns](../../../api/Outlook.Application.COMAddIns.md) property of the [Application](../../../api/Outlook.Application.md) object gives you access to the COM add-ins loaded by Outlook.
+The [COMAddIns](../../../api/Outlook.Application.COMAddIns.md) property of the [Application](../../../api/Outlook.Application.md) object gives you access to the COM add-ins loaded by Outlook.
 
-Learn more about  [Customizing Outlook using COM add-ins](customizing-outlook-using-com-add-ins.md).
+Learn more about [Customizing Outlook using COM add-ins](customizing-outlook-using-com-add-ins.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

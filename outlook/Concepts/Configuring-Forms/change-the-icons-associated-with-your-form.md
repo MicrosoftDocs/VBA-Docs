@@ -14,7 +14,7 @@ localization_priority: Normal
 
 ## Forms customized with form regions
 
-When you customize icons on a form region, you can set icons for each of the different states of the form as well, such as replied, forwarded, or unread. For more information, see  [How to: Specify Icons to be Displayed for a Form Region](specify-icons-to-be-displayed-for-a-form-region.md).
+When you customize icons on a form region, you can set icons for each of the different states of the form as well, such as replied, forwarded, or unread. For more information, see [How to: Specify Icons to be Displayed for a Form Region](specify-icons-to-be-displayed-for-a-form-region.md).
 
 
 ## Forms customized with form pages

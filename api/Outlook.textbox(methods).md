@@ -12,10 +12,10 @@ localization_priority: Normal
 ## In this section
 
 
--  [TextBox.Copy Method (Outlook Forms Script)](Outlook.textbox.copy.md)
+- [TextBox.Copy Method (Outlook Forms Script)](Outlook.textbox.copy.md)
     
--  [TextBox.Cut Method (Outlook Forms Script)](Outlook.textbox.cut.md)
+- [TextBox.Cut Method (Outlook Forms Script)](Outlook.textbox.cut.md)
     
--  [TextBox.Paste Method (Outlook Forms Script)](Outlook.textbox.paste.md)
+- [TextBox.Paste Method (Outlook Forms Script)](Outlook.textbox.paste.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
