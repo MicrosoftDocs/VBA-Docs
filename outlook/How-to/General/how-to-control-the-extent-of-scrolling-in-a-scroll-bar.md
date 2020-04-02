@@ -17,19 +17,16 @@ The following example demonstrates the **[LargeChange](../../../api/Outlook.scro
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
 - A **[Label](../../../api/Outlook.label.md)** named Label1
-    
+
 - A **TextBox** named TextBox1 that is bound to the custom number field named ScrollBarSmallChange
-    
+
 - A **Label** named Label2
-    
+
 - A **TextBox** named TextBox2 that is bound to the custom number field named ScrollBarLargeChange.
-    
+
 - A **ScrollBar** named ScrollBar1 that is bound to the custom number field named ScrollBarValue.
-    
+
 - A **Label** named Label3.
-    
-
-
 
 ```vb
 Sub Item_Open() 

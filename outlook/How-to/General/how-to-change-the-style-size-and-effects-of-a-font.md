@@ -17,13 +17,10 @@ The following example demonstrates a **[Font](../../../api/Outlook.font.md)** ob
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
 - A **[Label](../../../api/Outlook.label.md)** named Label1.
-    
+
 - Four **[ToggleButton](../../../api/Outlook.togglebutton.md)** controls named ToggleButton1 through ToggleButton4.
-    
+
 - A second **Label** and a **[TextBox](../../../api/Outlook.textbox.md)** named Label2 and TextBox1.
-    
-
-
 
 ```vb
 Dim MyFont 

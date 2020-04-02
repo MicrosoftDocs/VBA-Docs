@@ -9,16 +9,16 @@ localization_priority: Priority
 
 # Project object model
 
-The Project Object Model Reference section contains documentation for all of the objects, properties, methods, and events contained in the Project object model. 
+The Project Object Model Reference section contains documentation for all of the objects, properties, methods, and events contained in the Project object model.
 
-You can use the table of contents to navigate through the documentation. For diagrams that show how all of the objects and collections relate to each other, and also show which objects are new, see the following: 
+You can use the table of contents to navigate through the documentation. For diagrams that show how all of the objects and collections relate to each other, and also show which objects are new, see the following:
 
 - **[Application and Projects Object Map](application-and-projects-object-map-project.md)**
-    
+
 - **[Calendars Object Map](calendars-object-map-project.md)**
-    
+
 - **[Resources Object Map](resources-object-map-project.md)**
-    
+
 - **[Tasks Object Map](tasks-object-map-project.md)**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

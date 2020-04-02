@@ -17,13 +17,13 @@ The following example uses the **[ColumnWidths](../../../api/Outlook.listbox.col
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
 - A **ListBox** named ListBox1.
-    
+
 - Three custom text fields named Text1, Text2, and Text3.
-    
+
 - Three **TextBox** controls named TextBox1, TextBox2, and TextBox3 that are bound to the custom text fields above.
-    
+
 - A **[CommandButton](../../../api/Outlook.commandbutton.md)** named CommandButton1.
-    
+
 Try entering the value 0 to hide a column.
 
 ```vb

@@ -15,16 +15,14 @@ A **Tasks** collection can be a child of **Project**, **Selection**, or another 
 
 For an overview of the **Application** and **Project** objects, and for details of the **Resources** and **Calendars** collections, see the following:
 
-
 - **[Application and Projects Object Map](application-and-projects-object-map-project.md)**
-    
+
 - **[Calendars Object Map](calendars-object-map-project.md)**
-    
+
 - **[Resources Object Map](resources-object-map-project.md)**
-    
+
 
 ## Tasks Object Hierarchy
-
 
  **Note** Objects in the following image do not link to the documentation pages.
 

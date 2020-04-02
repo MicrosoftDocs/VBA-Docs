@@ -12,6 +12,6 @@ localization_priority: Normal
 ## In this section
 
 
--  [Setting Items for Follow-up](../Electronic-Business-Cards/setting-items-for-follow-up.md)
+- [Setting Items for Follow-up](../Electronic-Business-Cards/setting-items-for-follow-up.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

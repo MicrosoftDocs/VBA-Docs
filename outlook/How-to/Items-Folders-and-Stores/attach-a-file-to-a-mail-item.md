@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Attach a File to a Mail Item
 
-This topic shows a procedure that attaches a spreadsheet file to a mail item. The procedure,  `AddAttachment`, assumes that the specified spreadsheet, Q496.xlsx, exists in the specified path, D:\Documents.  `AddAttachment` creates a new mail message, attaches Q496.xlsx to the mail message, assigns the attachment a descriptive caption, and displays the mail message with this attachment.
+This topic shows a procedure that attaches a spreadsheet file to a mail item. The procedure, `AddAttachment`, assumes that the specified spreadsheet, Q496.xlsx, exists in the specified path, D:\Documents. `AddAttachment` creates a new mail message, attaches Q496.xlsx to the mail message, assigns the attachment a descriptive caption, and displays the mail message with this attachment.
 
 
 ```vb

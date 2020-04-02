@@ -17,10 +17,8 @@ The following example uses the **[DropDown](../../../api/Outlook.combobox.dropdo
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
 - A **ComboBox** named ComboBox1.
-    
-- A **CommandButton** named CommandButton1.
-    
 
+- A **CommandButton** named CommandButton1.
 
 
 ```vb

@@ -12,15 +12,15 @@ localization_priority: Normal
  In Microsoft Outlook, you can share and subscribe to a variety of online resources, including:
 
 - Webcal calendars (webcal:// _mysite_/ _mycalendar_)
-    
-- RSS feeds (feed:// _mysite_/ _myfeed_)
-    
-- SharePoint Foundation folders (stssync:// _mysite_/ _myfolder_)
-    
-- Exchange folders
-    
 
-Calendar information can also be shared either by providing direct access to a calendar folder or by exporting calendar information to an iCalendar calendar (.ics) file. For more information about sharing calendars, see  [Sharing Calendars](sharing-calendars.md).
+- RSS feeds (feed:// _mysite_/ _myfeed_)
+
+- SharePoint Foundation folders (stssync:// _mysite_/ _myfolder_)
+
+- Exchange folders
+
+
+Calendar information can also be shared either by providing direct access to a calendar folder or by exporting calendar information to an iCalendar calendar (.ics) file. For more information about sharing calendars, see [Sharing Calendars](sharing-calendars.md).
 
 
 ## Sharing Online Resources

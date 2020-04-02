@@ -12,10 +12,10 @@ localization_priority: Normal
 ## In this section
 
 
--  [Overview (Outlook Forms)](overview-outlook-forms.md)
-    
--  [Understanding Outlook Forms](../Forms/understanding-outlook-forms.md)
-    
--  [Customizing Outlook Forms](customizing-outlook-forms.md)
+- [Overview (Outlook Forms)](overview-outlook-forms.md)
+
+- [Understanding Outlook Forms](../Forms/understanding-outlook-forms.md)
+
+- [Customizing Outlook Forms](customizing-outlook-forms.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

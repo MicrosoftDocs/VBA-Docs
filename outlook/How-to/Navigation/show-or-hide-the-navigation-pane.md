@@ -19,9 +19,9 @@ For example, the **NavigationModules** collection of an expanded **NavigationPan
 The following sample ensures that the Navigation Pane is always expanded whenever the currently selected navigation module changes, either programmatically or by user action, by setting the **IsCollapsed** property to **False**. The sample performs the following actions:
 
 1. The sample first obtains a reference to the **NavigationPane** object for the active explorer when the **[Startup](../../../api/Outlook.Application.Startup.md)** event of the **[Application](../../../api/Outlook.Application.md)** object is raised and assigns it to `objPane`, so the **[ModuleSwitch](../../../api/Outlook.NavigationPane.ModuleSwitch.md)** event of the **NavigationPane** object can be detected.
-    
+
 2. When the **ModuleSwitch** event of the **NavigationPane** occurs, the sample then checks if the current navigation module has changed by comparing the contents of the _CurrentModule_ parameter of the **ModuleSwitch** event against the **[CurrentModule](../../../api/Outlook.NavigationPane.CurrentModule.md)** property of the **NavigationPane** object. If these object references are different, the **IsCollapsed** property of the **NavigationPane** object is set to **False**.
-    
+
 
 
 

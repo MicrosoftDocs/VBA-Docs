@@ -14,11 +14,7 @@ localization_priority: Normal
 
 Learn how to add an **Automation** object by using late binding at run time, and how to set a reference for early binding at design time.
 
-
-
-
 You can use an OLE programmatic identifier (sometimes called a ProgID) to create an automation object for run time binding. For example, if both Project and Word are installed on the computer, the following macro in Project creates a Word document named Doc1.docx, and then opens the **Save As** dialog box in Word.
-
 
 ```vb
 Sub CreateWordDoc_Late() 
@@ -29,13 +25,9 @@ Sub CreateWordDoc_Late()
 End Sub
 ```
 
-
- **Note** Objects created by using the ProgID have late binding at run time; therefore, you cannot see the object members available when you are writing code in the VBE. Late-bound objects also have poorer performance than objects created with early binding at design time. 
+ **Note** Objects created by using the ProgID have late binding at run time; therefore, you cannot see the object members available when you are writing code in the VBE. Late-bound objects also have poorer performance than objects created with early binding at design time.
 
 The following macro performs better and does the same job as the **CreateWordDoc_Late** macro. The **CreateWordDoc_Early** macro requires that you add a reference to the **Microsoft Word 15.0 Object Library**. In the **Tools** menu, choose **References** to open the **References - VBA Project** dialog box.
-
-
-
 
 ```vb
 Sub CreateWordDoc_Early() 
@@ -47,9 +39,6 @@ End Sub
 ```
 
 Following is an example of using early binding to create an Excel worksheet. Set a reference to **Microsoft Excel 15.0 Object Library**.
-
-
-
 
 ```vb
 Sub CreateExcelWorkbook_Early()
@@ -73,7 +62,6 @@ End Sub
 For information about using Project from another application, late binding, and early binding, see the [Application](../../api/Project.Application.md) object.
 
 The following tables list OLE programmatic identifiers for ActiveX controls and several Microsoft Office applications.
-
 
  **Note** Instead of using the ProgId values for late binding, we recommend that you set a reference to the equivalent object library and use early binding.
 

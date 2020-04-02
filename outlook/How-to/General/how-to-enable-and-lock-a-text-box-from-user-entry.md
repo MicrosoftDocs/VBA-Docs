@@ -17,16 +17,15 @@ The following example demonstrates the **[Enabled](../../../api/Outlook.textbox.
 
  **Note** You can copy the selection to the Clipboard using CTRL+C and paste using CTRL+V.
 
-
 To use this example, copy this sample code to the Script Editor of a form. Make sure that the form contains:
 
 
 - A **TextBox** named TextBox1.
-    
+
 - Two **CheckBox** controls named CheckBox1 and CheckBox2.
-    
+
 - A second **TextBox** named TextBox2.
-    
+
 
 
 

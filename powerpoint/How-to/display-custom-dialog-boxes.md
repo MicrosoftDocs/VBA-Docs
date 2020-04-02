@@ -20,7 +20,7 @@ To display a dialog box from Visual Basic, use the **Show** method. The followin
 
 ```vb
 Private Sub GetUserName()
-    UserForm1.Show
+  UserForm1.Show
 End Sub
 ```
 

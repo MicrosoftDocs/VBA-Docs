@@ -11,13 +11,11 @@ localization_priority: Normal
 
 The **Application** and **Projects** object map for Project shows the main child objects of the **Application** object and the **Projects** collection object. The map includes details of the **OutlineCodes** collection. **OutlineCodes** can be a child of **Application** or of **Project**. For example, the **Application.GlobalOutlineCodes** and the **Project.OutlineCodes** properties each return an **OutlineCodes** collection. For details of the **Resources**, **Calendars**, and **Tasks** collections, see the following:
 
-
 - **[Calendars Object Map](calendars-object-map-project.md)**
-    
+
 - **[Resources Object Map](resources-object-map-project.md)**
-    
+
 - **[Tasks Object Map](tasks-object-map-project.md)**
-    
 
 ## Application Object and Project Object Hierarchy
 

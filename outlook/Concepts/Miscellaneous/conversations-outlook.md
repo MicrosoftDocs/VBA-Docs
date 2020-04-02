@@ -12,8 +12,8 @@ localization_priority: Normal
 ## In this section
 
 
--  [Managing Outlook Items as Conversations](../Categories-and-Conversations/managing-outlook-items-as-conversations.md)
-    
--  [Obtain and Enumerate Selected Conversations](../Categories-and-Conversations/obtain-and-enumerate-selected-conversations.md)
+- [Managing Outlook Items as Conversations](../Categories-and-Conversations/managing-outlook-items-as-conversations.md)
+
+- [Obtain and Enumerate Selected Conversations](../Categories-and-Conversations/obtain-and-enumerate-selected-conversations.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

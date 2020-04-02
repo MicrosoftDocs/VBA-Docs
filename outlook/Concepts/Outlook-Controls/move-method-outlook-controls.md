@@ -36,7 +36,7 @@ Moves a control to the specified location.
 
 ## Remarks
 
-The maximum and minimum values for the  _Left_,  _Top_,  _Width_, and  _Height_ arguments vary from one application to another.
+The maximum and minimum values for the _Left_, _Top_, _Width_, and _Height_ arguments vary from one application to another.
 
 You can move a control to a specific location relative to the edges of the form that contains the control.
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ## In this section
 
 
--  [Using Multiple Accounts for the Same Profile on Outlook](../Accounts/using-multiple-accounts-for-the-same-profile-on-outlook.md)
-    
--  [Obtain Information for Multiple Accounts](../Accounts/obtain-information-for-multiple-accounts.md)
-    
--  [Identify a Folder with an Account](../Accounts/identify-a-folder-with-an-account.md)
-    
--  [Create a Sendable Item for a Specific Account Based on the Current Folder (Outlook)](../Accounts/create-a-sendable-item-for-a-specific-account-based-on-the-current-folder-outloo.md)
+- [Using Multiple Accounts for the Same Profile on Outlook](../Accounts/using-multiple-accounts-for-the-same-profile-on-outlook.md)
+
+- [Obtain Information for Multiple Accounts](../Accounts/obtain-information-for-multiple-accounts.md)
+
+- [Identify a Folder with an Account](../Accounts/identify-a-folder-with-an-account.md)
+
+- [Create a Sendable Item for a Specific Account Based on the Current Folder (Outlook)](../Accounts/create-a-sendable-item-for-a-specific-account-based-on-the-current-folder-outloo.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,15 +20,12 @@ To use this example, copy this sample code to the Script Editor of a form. To ru
 
 
 - A **TextBox** named TextBox1.
-    
+
 - Two **[ToggleButton](../../../api/Outlook.togglebutton.md)** controls named ToggleButton1 and ToggleButton2. These controls are associated with TextBox1.
-    
+
 - A **TextBox** named TextBox2.
-    
+
 - Two **ToggleButton** controls named ToggleButton3 and ToggleButton4. These controls are associated with TextBox2.
-    
-
-
 
 ```vb
 Dim TextBox1, TextBox2 

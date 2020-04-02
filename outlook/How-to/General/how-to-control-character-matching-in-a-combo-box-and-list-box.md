@@ -17,11 +17,8 @@ The following example uses the **MatchEntry** property to demonstrate character 
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
 - Three **OptionButton** controls named OptionButton1 through OptionButton3.
-    
+
 - A **ComboBox** named ComboBox1.
-    
-
-
 
 ```vb
 Sub OptionButton1_Click() 

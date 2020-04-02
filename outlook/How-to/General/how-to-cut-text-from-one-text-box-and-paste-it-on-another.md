@@ -17,11 +17,8 @@ The following example uses the **[Cut](../../../api/Outlook.textbox.cut.md)** an
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
 - Two **TextBox** controls named TextBox1 and TextBox2.
-    
+
 - A **[CommandButton](../../../api/Outlook.commandbutton.md)** named CommandButton1.
-    
-
-
 
 ```vb
 Dim TextBox1 

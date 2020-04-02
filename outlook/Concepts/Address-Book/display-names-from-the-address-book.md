@@ -49,15 +49,15 @@ To display the dialog box with names from an address list:
 4. Use **[SelectNamesDialog.Display](../../../api/Outlook.SelectNamesDialog.Display.md)** to display the dialog box. This method returns a **True** or **False** depending on **[SelectNamesDialog.ForceResolution](../../../api/Outlook.SelectNamesDialog.ForceResolution.md)** and the user's response:
 
       - This method returns **True** if **SelectNamesDialog.ForceResolution** is set, all selected names are resolved, and the user clicks **OK**.
-    
+
   - It returns **False** if **SelectNamesDialog.ForceResolution** is set, but not all the recipients are resolved.
-    
+
   - It returns **False** if **SelectNamesDialog.ForceResolution** is not set and the user clicks **OK**.
-    
+
   - It returns **False** if the user clicks **Cancel** or the **Close** icon.
-    
+
 5. If **[SelectNamesDialog.Display](../../../api/Outlook.SelectNamesDialog.Display.md)** returns **True**, obtain the selected address entries using **[SelectNamesDialog.Recipients](../../../api/Outlook.SelectNamesDialog.Recipients.md)**.
-    
+
 
 
 ## See also

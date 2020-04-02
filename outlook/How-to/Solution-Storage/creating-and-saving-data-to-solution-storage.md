@@ -14,11 +14,11 @@ This topic describes creating or using existing storage to store private solutio
 The Outlook object model supports creating and storing solution data as hidden items in a folder. You can use **[Folder.GetStorage](../../../api/Outlook.Folder.GetStorage.md)** to create a **[StorageItem](../../../api/Outlook.StorageItem.md)** object in a specified folder. You can identify this object by the subject, message class, or Entry ID. Solutions can create **StorageItem** objects in all folders except when:
 
 - The folder is a Microsoft Exchange public folder, an Internet Message Access Protocol (IMAP), MSN Hotmail, or a Microsoft SharePoint Foundation folder.
-    
+
 - The user permission for the folder is read-only.
-    
+
 - The store provider does not support hidden items.
-    
+
 
 In these cases, **Folder.GetStorage** will return an error: "Cannot create StorageItem in this folder."
 When you call **Folder.GetStorage** specifying a subject or a message class and the specified item does not exist in the folder, the call creates and returns a **StorageItem** object with the message class **IPM.Storage**; if you specified an Entry ID, however, the call will return the error, "The operation failed. An object could not be found."

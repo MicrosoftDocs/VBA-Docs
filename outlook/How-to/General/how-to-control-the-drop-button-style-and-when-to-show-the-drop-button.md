@@ -16,11 +16,11 @@ The following example demonstrates the different symbols that you can specify fo
 
 
 - A **ComboBox** named ComboBox1.
-    
+
 - A **[Label](../../../api/Outlook.label.md)** named Label1.
-    
+
 - A **TextBox** named TextBox1 placed beneath Label1.
-    
+
 
 ```vb
 Dim TextBox1 

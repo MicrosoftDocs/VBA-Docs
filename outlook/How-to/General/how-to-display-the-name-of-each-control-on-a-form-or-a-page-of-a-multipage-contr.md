@@ -17,15 +17,12 @@ The following example uses the **Item** method to access individual members of t
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
 - A **CommandButton** named CommandButton1.
-    
+
 - A **Label** named Label1.
-    
+
 - Two **[OptionButton](../../../api/Outlook.optionbutton.md)** controls named OptionButton1 and OptionButton2.
-    
+
 - A **MultiPage** named MultiPage1.
-    
-
-
 
 ```vb
 Dim ControlsIndex 

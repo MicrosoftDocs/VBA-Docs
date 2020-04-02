@@ -23,12 +23,10 @@ Once the shared item is opened, you can then import the item by using the **Save
 This sample opens and imports a vCard file into the **Contacts** default folder for the current user.
 
 1. The sample obtains a reference to a **NameSpace** object, then calls the **GetSharedItem** method of the **NameSpace** object to load the vCard file and return a **ContactItem** reference.
-    
-2. It then calls the **Save** method of the **ContactItem** to save it to the **Contacts** default folder.
-    
-3. Finally, it obtains a **[Folder](../../../api/Outlook.Folder.md)** object reference to the **Contacts** default folder for the current user by using the **[GetDefaultFolder](../../../api/Outlook.NameSpace.GetDefaultFolder.md)** method of the **NameSpace** object, and then displays the folder.
-    
 
+2. It then calls the **Save** method of the **ContactItem** to save it to the **Contacts** default folder.
+
+3. Finally, it obtains a **[Folder](../../../api/Outlook.Folder.md)** object reference to the **Contacts** default folder for the current user by using the **[GetDefaultFolder](../../../api/Outlook.NameSpace.GetDefaultFolder.md)** method of the **NameSpace** object, and then displays the folder.
 
 
 ```vb

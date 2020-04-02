@@ -14,7 +14,7 @@ localization_priority: Normal
 
 
 - [Using events with Application and Project objects](using-events-with-application-and-project-objects.md)
-    
+
 - [OLE programmatic identifiers, late binding, and early binding (Project)](ole-programmatic-identifiers-late-binding-and-early-binding-project.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

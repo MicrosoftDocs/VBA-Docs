@@ -17,15 +17,12 @@ The following example uses the **[ListStyle](../../../api/Outlook.listbox.listst
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
 - A **ListBox** named ListBox1.
-    
+
 - A **[Label](../../../api/Outlook.label.md)** named Label1.
-    
+
 - Three **OptionButton** controls named OptionButton1 through OptionButton3.
-    
+
 - A **ToggleButton** named ToggleButton1.
-    
-
-
 
 ```vb
 Sub Item_Open() 

@@ -14,9 +14,9 @@ Sharing messages, including sharing invitations, sharing requests, and sharing r
 This sample uses the **penSharingItem** method to create a **SharingItem** that represents a sharing invitation for a Really Simple Syndication (RSS) feed. Once shared, the recipient can then use the **[OpenSharedFolder](../../../api/Outlook.NameSpace.OpenSharedFolder.md)** method of the **NameSpace** object or the **[OpenSharedFolder](../../../api/Outlook.SharingItem.OpenSharedFolder.md)** method of the **SharingItem** object to open the RSS feed.
 
 1. The sample first creates a **ameSpace** object reference to the MAPI namespace.
-    
+
 2. It then uses the **reateSharingItem** method to create a new **SharingItem** object, using the URI of the RSS feed to establish the sharing context used by the **SharingItem**.
-    
+
 3. Finally, the **Add](../../../api/Outlook.Recipients.Add.md)** method for the **[Recipients](../../../api/Outlook.MailItem.Recipients.md)** collection of the newly created **SharingItem** object is called to add the specified recipient and the **[Send](../../../api/Outlook.SharingItem.Send(method).md)** method is used to send the **SharingItem**.
 
 ```vb

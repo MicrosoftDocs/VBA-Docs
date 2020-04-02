@@ -19,27 +19,23 @@ To navigate a conversation hierarchy, you can call the **[GetChildren](../../../
 To enumerate items in a conversation, you can use the **[Table](../../../api/Outlook.Table.md)** object. The rows of the table represent items of the conversation, and the columns of the table, which you can customize, represent properties for each item. To obtain conversation items by using a **Table** object, use the following procedure:
 
 1. Obtain the object of any item in the conversation.
-    
+
 2. To verify that the store supports Conversation view, use the **IsConversationEnabled** property of the **Store** object that represents the store in which the item resides. You can obtain a **Conversation** object based on an item only if the item resides in a store that supports Conversation view.
-    
-3.  If the store supports Conversation view, call the **GetConversation** method of that item to get the **Conversation** object.
-    
-4.  Call the **[GetTable](../../../api/Outlook.Conversation.GetTable.md)** method of that **Conversation** object to get a **Table**.
-    
+
+3. If the store supports Conversation view, call the **GetConversation** method of that item to get the **Conversation** object.
+
+4. Call the **[GetTable](../../../api/Outlook.Conversation.GetTable.md)** method of that **Conversation** object to get a **Table**.
+
 5. You can now use methods that the **Table** object supports to enumerate rows that represent conversation items, and use the default columns to access default item properties (or customize columns to access other properties of the items).
-    
 
 You can use the **[SetAlwaysDelete](../../../api/Outlook.Conversation.SetAlwaysDelete.md)** and **[SetAlwaysMoveToFolder](../../../api/Outlook.Conversation.SetAlwaysMoveToFolder.md)** methods to always move existing conversation items, and future items that arrive in a specific conversation, to the Deleted Items folder or another folder. The moving of items is supported in the specific store where the item resides, unless the store is a non-delivery store such as a PST store. You can use the **[GetAlwaysDelete](../../../api/Outlook.Conversation.GetAlwaysDelete.md)** and **[GetAlwaysMoveToFolder](../../../api/Outlook.Conversation.GetAlwaysMoveToFolder.md)** methods to get these folders, and the **[StopAlwaysDelete](../../../api/Outlook.Conversation.StopAlwaysDelete.md)** and **[StopAlwaysMoveToFolder](../../../api/Outlook.Conversation.StopAlwaysMoveToFolder.md)** methods to stop moving existing and future conversation items to such folders.
-In addition, you can apply actions to all existing and future items of a conversation. 
+In addition, you can apply actions to all existing and future items of a conversation.
 
 - Call the **[SetAlwaysAssignCategories](../../../api/Outlook.Conversation.SetAlwaysAssignCategories.md)** and **[GetAlwaysAssignCategories](../../../api/Outlook.Conversation.GetAlwaysAssignCategories.md)** methods to set and get categories, respectively, for existing and future conversation items.
-    
-- Call the **[MarkAsRead](../../../api/Outlook.Conversation.MarkAsRead.md)** and **[MarkAsUnread](../../../api/Outlook.Conversation.MarkAsUnread.md)** methods to mark items as read or unread, respectively.
-    
 
+- Call the **[MarkAsRead](../../../api/Outlook.Conversation.MarkAsRead.md)** and **[MarkAsUnread](../../../api/Outlook.Conversation.MarkAsUnread.md)** methods to mark items as read or unread, respectively.
 
 ## See also
-
 
  [How to: Obtain and Enumerate Selected Conversations](obtain-and-enumerate-selected-conversations.md)
 
