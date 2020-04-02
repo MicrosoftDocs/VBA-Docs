@@ -29,14 +29,14 @@ Unlike other Microsoft Visio collections, the **Toolbars** collection is indexed
 
 ## Methods
 
--  [Add](Visio.Toolbars.Add.md)
--  [AddAt](Visio.Toolbars.AddAt.md)
+- [Add](Visio.Toolbars.Add.md)
+- [AddAt](Visio.Toolbars.AddAt.md)
 
 ## Properties
 
--  [Count](Visio.Toolbars.Count.md)
--  [Item](Visio.Toolbars.Item.md)
--  [Parent](Visio.Toolbars.Parent.md)
+- [Count](Visio.Toolbars.Count.md)
+- [Item](Visio.Toolbars.Item.md)
+- [Parent](Visio.Toolbars.Parent.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

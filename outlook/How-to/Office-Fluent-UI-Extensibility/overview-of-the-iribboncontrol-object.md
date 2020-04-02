@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Overview of the IRibbonControl Object
 
-The  [IRibbonControl](../../../api/Office.IRibbonControl.md) object is passed in most of the callbacks that are available for controls in the ribbon or Microsoft Office Backstage view, as well as the customizable menu items in Microsoft Outlook. The object is especially useful for Outlook developers because it provides an [IRibbonControl.Context](../../../api/Office.IRibbonControl.Context.md) property that returns the related Outlook object to which the customization is applied and is about to be displayed. 
+The [IRibbonControl](../../../api/Office.IRibbonControl.md) object is passed in most of the callbacks that are available for controls in the ribbon or Microsoft Office Backstage view, as well as the customizable menu items in Microsoft Outlook. The object is especially useful for Outlook developers because it provides an [IRibbonControl.Context](../../../api/Office.IRibbonControl.Context.md) property that returns the related Outlook object to which the customization is applied and is about to be displayed. 
 
 For example, the **Context** property returns the [Explorer](../../../api/Outlook.Explorer.md) object if you customize the ribbon in an explorer, and returns the [Store](../../../api/Outlook.Store.md) object if you customize the shortcut menu for a store folder.
 

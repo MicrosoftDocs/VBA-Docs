@@ -17,7 +17,7 @@ You can use VBScript to extend the **Click** event of a control in a custom form
 
 1. Open the Script Editor. 
     
-     [How](using-the-script-editor.md)?
+    [How](using-the-script-editor.md)?
     
 2. For the control to which you want to add a **Click** event, for example, a command button control, add the following. In the example, CommandButton1 is the name of the control.
     

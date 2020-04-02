@@ -12,6 +12,6 @@ localization_priority: Normal
 ## In this section
 
 
--  [Customizing Shortcut Menus](../../How-to/Office-Fluent-UI-Extensibility/customizing-shortcut-menus.md)
+- [Customizing Shortcut Menus](../../How-to/Office-Fluent-UI-Extensibility/customizing-shortcut-menus.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

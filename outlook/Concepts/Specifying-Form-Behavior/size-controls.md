@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Size Controls
 
-1. Select the controls that you want to size to the dominant control. For more information, see  [How to: Select Multiple Controls and the Dominant Control](select-multiple-controls-and-the-dominant-control.md). 
+1. Select the controls that you want to size to the dominant control. For more information, see [How to: Select Multiple Controls and the Dominant Control](select-multiple-controls-and-the-dominant-control.md). 
     
 2. On the **Developer** tab, in the **Arrange** group, click **Size**, click **Make Same Size**, and then click one of the following. 
     

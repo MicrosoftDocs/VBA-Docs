@@ -53,6 +53,6 @@ The following guidelines should be used when specifying custom properties:
     
 - Custom property names are not case-sensitive, can include spaces, and should be enclosed in square brackets ([]) if they contain spaces.
     
-For more information about property identifiers, see  [Properties Overview](../Navigation/properties-overview.md).
+For more information about property identifiers, see [Properties Overview](../Navigation/properties-overview.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

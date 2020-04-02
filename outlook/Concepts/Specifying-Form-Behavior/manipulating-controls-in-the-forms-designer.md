@@ -12,10 +12,10 @@ localization_priority: Normal
 ## In this section
 
 
--  [Control Toolbox Tasks](control-toolbox-tasks.md)
+- [Control Toolbox Tasks](control-toolbox-tasks.md)
     
--  [Basic Control Tasks](basic-control-tasks.md)
+- [Basic Control Tasks](basic-control-tasks.md)
     
--  [Secondary Control Tasks](secondary-control-tasks.md)
+- [Secondary Control Tasks](secondary-control-tasks.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

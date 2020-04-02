@@ -21,7 +21,7 @@ Sub SelectFirstWord()
 End Sub
 ```
 
-For more information, see  [Selecting text in a document](../Customizing-Word/selecting-text-in-a-document.md).
+For more information, see [Selecting text in a document](../Customizing-Word/selecting-text-in-a-document.md).
 If text is already selected, use the **[Selection](../../../api/Word.Global.Selection.md)** property to return a **Selection** object that represents the current selection in a document. There can be only one **Selection** object per document, and it always accesses the current selection. The following example changes the formatting of the paragraphs in the current selection.
 
 

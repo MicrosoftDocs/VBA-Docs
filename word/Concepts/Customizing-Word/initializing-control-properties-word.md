@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Initializing Control Properties (Word)
 
-You can initialize  [ActiveX controls](../../../api/overview/Word.md) at run time by using Visual Basic code in a macro. For example, you could fill a list box, set text values, or set option buttons.
+You can initialize [ActiveX controls](../../../api/overview/Word.md) at run time by using Visual Basic code in a macro. For example, you could fill a list box, set text values, or set option buttons.
 
 The following example uses the Visual Basic **AddItem** method to add data to a list box named lstRegions. Then it sets the value of a text box and displays the form.
 

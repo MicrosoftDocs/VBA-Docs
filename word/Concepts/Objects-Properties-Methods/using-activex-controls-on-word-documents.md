@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Using ActiveX Controls on Word Documents
 
-You can add controls to your documents to create interactive documents, such as online forms. For general information about adding and working with controls, see  [Using ActiveX controls on a document](using-activex-controls-on-a-document-word.md) and [Creating a custom dialog box](../Customizing-Word/creating-a-custom-dialog-box.md).
+You can add controls to your documents to create interactive documents, such as online forms. For general information about adding and working with controls, see [Using ActiveX controls on a document](using-activex-controls-on-a-document-word.md) and [Creating a custom dialog box](../Customizing-Word/creating-a-custom-dialog-box.md).
 
 Remember the following points when you work with controls on documents:
 

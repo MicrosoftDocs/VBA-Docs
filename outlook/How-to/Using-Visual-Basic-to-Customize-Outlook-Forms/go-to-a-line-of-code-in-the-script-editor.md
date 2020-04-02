@@ -14,7 +14,7 @@ localization_priority: Normal
 
 1. Open the Script Editor. 
     
-     [How](using-the-script-editor.md)?
+    [ow](using-the-script-editor.md)?
     
 2. On the **Edit** menu, click **Go To**.
     

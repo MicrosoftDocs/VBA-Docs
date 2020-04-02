@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Align Controls
 
-1. Select the controls that you want to align to part of the dominant control. For more information, see  [Selecting Multiple Controls and the Dominant Control](select-multiple-controls-and-the-dominant-control.md).
+1. Select the controls that you want to align to part of the dominant control. For more information, see [Selecting Multiple Controls and the Dominant Control](select-multiple-controls-and-the-dominant-control.md).
     
 2. On the **Developer** tab, in the **Arrange** group, click **Align**, and then choose one of the following:
     

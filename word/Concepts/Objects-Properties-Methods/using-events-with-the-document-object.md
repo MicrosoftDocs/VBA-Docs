@@ -42,11 +42,11 @@ Private Sub Document_Close()
 End Sub
 ```
 
-Unlike  [auto macros](../Customizing-Word/auto-macros.md), event procedures in the Normal template do not have a global scope. For example, event procedures in the Normal template occur only if the attached template is the Normal template.
+Unlike [auto macros](../Customizing-Word/auto-macros.md), event procedures in the Normal template do not have a global scope. For example, event procedures in the Normal template occur only if the attached template is the Normal template.
 If an auto macro exists in a document and the attached template, only the auto macro stored in the document will execute. If an event procedure for a document event exists in a document and its attached template, both event procedures will run.
 
 ## Remarks
 
-For information about creating event procedures for the **[Application](../../../api/Word.Application.md)** object, see  [Using Events with the Application Object](../../../api/Word.Application.md).
+For information about creating event procedures for the **[Application](../../../api/Word.Application.md)** object, see [Using Events with the Application Object](../../../api/Word.Application.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

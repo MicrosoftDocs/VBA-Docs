@@ -56,6 +56,6 @@ For more information about the property to set for a specific control, see the f
     
 - The **[Accelerator](../../../api/Outlook.togglebutton.accelerator.md)** property for the **[ToggleButton](../../../api/Outlook.togglebutton.md)** control.
     
-For more information, see  [How to: Assign a Control Tip, Caption, or Accelerator Key to a Page or Tab](assign-a-control-tip-caption-or-accelerator-key-to-a-page-or-tab.md).
+For more information, see [How to: Assign a Control Tip, Caption, or Accelerator Key to a Page or Tab](assign-a-control-tip-caption-or-accelerator-key-to-a-page-or-tab.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

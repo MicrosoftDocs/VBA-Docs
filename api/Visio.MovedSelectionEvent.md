@@ -23,12 +23,12 @@ When you move a selection of shapes to a sub-process page, Microsoft Visio fires
 
 ## Properties
 
--  [Application](Visio.MovedselectionEvent.Application.md)
--  [ObjectType](Visio.MovedselectionEvent.ObjectType.md)
--  [ReplacementShape](Visio.MovedSelectionEvent.ReplacementShape.md)
--  [SelectionSource](Visio.MovedSelectionEvent.SelectionSource.md)
--  [SelectionTarget](Visio.MovedSelectionEvent.SelectionTarget.md)
--  [Stat](Visio.MovedSelectionEvent.Stat.md)
+- [Application](Visio.MovedselectionEvent.Application.md)
+- [ObjectType](Visio.MovedselectionEvent.ObjectType.md)
+- [ReplacementShape](Visio.MovedSelectionEvent.ReplacementShape.md)
+- [SelectionSource](Visio.MovedSelectionEvent.SelectionSource.md)
+- [SelectionTarget](Visio.MovedSelectionEvent.SelectionTarget.md)
+- [Stat](Visio.MovedSelectionEvent.Stat.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

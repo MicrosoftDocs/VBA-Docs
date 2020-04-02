@@ -28,25 +28,25 @@ A layer's **Index** and **Row** properties typically have different values. The 
 
 ## Methods
 
--  [Add](Visio.Layer.Add.md)
--  [Delete](Visio.Layer.Delete.md)
--  [Remove](Visio.Layer.Remove.md)
+- [Add](Visio.Layer.Add.md)
+- [Delete](Visio.Layer.Delete.md)
+- [Remove](Visio.Layer.Remove.md)
 
 ## Properties
 
--  [Application](Visio.Layer.Application.md)
--  [CellsC](Visio.Layer.CellsC.md)
--  [Document](Visio.Layer.Document.md)
--  [EventList](Visio.Layer.EventList.md)
--  [Index](Visio.Layer.Index.md)
--  [Master](Visio.Layer.Master.md)
--  [Name](Visio.Layer.Name.md)
--  [NameU](Visio.Layer.NameU.md)
--  [ObjectType](Visio.Layer.ObjectType.md)
--  [Page](Visio.Layer.Page.md)
--  [PersistsEvents](Visio.Layer.PersistsEvents.md)
--  [Row](Visio.Layer.Row.md)
--  [Stat](Visio.Layer.Stat.md)
+- [Application](Visio.Layer.Application.md)
+- [CellsC](Visio.Layer.CellsC.md)
+- [Document](Visio.Layer.Document.md)
+- [EventList](Visio.Layer.EventList.md)
+- [Index](Visio.Layer.Index.md)
+- [Master](Visio.Layer.Master.md)
+- [Name](Visio.Layer.Name.md)
+- [NameU](Visio.Layer.NameU.md)
+- [ObjectType](Visio.Layer.ObjectType.md)
+- [Page](Visio.Layer.Page.md)
+- [PersistsEvents](Visio.Layer.PersistsEvents.md)
+- [Row](Visio.Layer.Row.md)
+- [Stat](Visio.Layer.Stat.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

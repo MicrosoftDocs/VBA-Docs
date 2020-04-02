@@ -29,14 +29,14 @@ Unlike other Visio collections, the **Menus** collection is indexed starting wit
 
 ## Methods
 
--  [Add](Visio.Menus.Add.md)
--  [AddAt](Visio.Menus.AddAt.md)
+- [Add](Visio.Menus.Add.md)
+- [AddAt](Visio.Menus.AddAt.md)
 
 ## Properties
 
--  [Count](Visio.Menus.Count.md)
--  [Item](Visio.Menus.Item.md)
--  [Parent](Visio.Menus.Parent.md)
+- [Count](Visio.Menus.Count.md)
+- [Item](Visio.Menus.Item.md)
+- [Parent](Visio.Menus.Parent.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

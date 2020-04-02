@@ -12,12 +12,12 @@ localization_priority: Normal
 ## In this section
 
 
--  [Using the Script Editor](using-the-script-editor.md)
+- [Using the Script Editor](using-the-script-editor.md)
     
--  [About the Outlook Object Browser](about-the-outlook-object-browser.md)
+- [About the Outlook Object Browser](about-the-outlook-object-browser.md)
     
--  [Common Things You Can Do with VBScript](common-things-you-can-do-with-vbscript.md)
+- [Common Things You Can Do with VBScript](common-things-you-can-do-with-vbscript.md)
     
--  [Using Visual Basic Scripting Edition to Customize Forms](using-visual-basic-scripting-edition-to-customize-forms.md)
+- [Using Visual Basic Scripting Edition to Customize Forms](using-visual-basic-scripting-edition-to-customize-forms.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

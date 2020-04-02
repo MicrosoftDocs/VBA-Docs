@@ -12,8 +12,8 @@ localization_priority: Normal
 ## In this section
 
 
--  [Form Regions](form-regions.md)
+- [Form Regions](form-regions.md)
     
--  [Create a Form Region](create-a-form-region.md)
+- [Create a Form Region](create-a-form-region.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

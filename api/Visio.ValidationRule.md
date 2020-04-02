@@ -25,24 +25,24 @@ The default property of the **ValidationRule** object is **NameU**.
 
 ## Methods
 
--  [AddIssue](Visio.ValidationRule.AddIssue.md)
--  [Delete](Visio.ValidationRule.Delete.md)
+- [AddIssue](Visio.ValidationRule.AddIssue.md)
+- [Delete](Visio.ValidationRule.Delete.md)
 
 ## Properties
 
--  [Application](Visio.ValidationRule.Application.md)
--  [Category](Visio.ValidationRule.Category.md)
--  [Description](Visio.ValidationRule.Description.md)
--  [Document](Visio.ValidationRule.Document.md)
--  [FilterExpression](Visio.ValidationRule.FilterExpression.md)
--  [ID](Visio.ValidationRule.ID.md)
--  [Ignored](Visio.ValidationRule.Ignored.md)
--  [NameU](Visio.ValidationRule.NameU.md)
--  [ObjectType](Visio.ValidationRule.ObjectType.md)
--  [RuleSet](Visio.ValidationRule.RuleSet.md)
--  [Stat](Visio.ValidationRule.Stat.md)
--  [TargetType](Visio.ValidationRule.TargetType.md)
--  [TestExpression](Visio.ValidationRule.TestExpression.md)
+- [Application](Visio.ValidationRule.Application.md)
+- [Category](Visio.ValidationRule.Category.md)
+- [Description](Visio.ValidationRule.Description.md)
+- [Document](Visio.ValidationRule.Document.md)
+- [FilterExpression](Visio.ValidationRule.FilterExpression.md)
+- [ID](Visio.ValidationRule.ID.md)
+- [Ignored](Visio.ValidationRule.Ignored.md)
+- [NameU](Visio.ValidationRule.NameU.md)
+- [ObjectType](Visio.ValidationRule.ObjectType.md)
+- [RuleSet](Visio.ValidationRule.RuleSet.md)
+- [Stat](Visio.ValidationRule.Stat.md)
+- [TargetType](Visio.ValidationRule.TargetType.md)
+- [TestExpression](Visio.ValidationRule.TestExpression.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

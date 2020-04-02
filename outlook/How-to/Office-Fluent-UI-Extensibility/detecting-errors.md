@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Detecting Errors
 
-The custom user interface XML markup that you return in the  [IRibbonExtensibility.GetCustomUI](../../../api/Office.IRibbonExtensibility.GetCustomUI.md) call typically contains callbacks that run when the corresponding Microsoft Office Fluent user interface (UI) that you are customizing (for example, explorer, inspector, or menu) is about to be displayed. 
+The custom user interface XML markup that you return in the [IRibbonExtensibility.GetCustomUI](../../../api/Office.IRibbonExtensibility.GetCustomUI.md) call typically contains callbacks that run when the corresponding Microsoft Office Fluent user interface (UI) that you are customizing (for example, explorer, inspector, or menu) is about to be displayed. 
 
 You must add each callback in your XML markup to the add-in class that implements [IRibbonExtensibility](../../../api/Office.IRibbonExtensibility.md). In addition, you must declare the callbacks as public procedures. If for some reason you omit a callback or use an incorrect callback signature, your UI customization will fail silently unless you turn on error reporting when you debug your solution.
 

@@ -16,12 +16,12 @@ There are several ways to test code in Outlook. If there is a syntax error in th
 
 For more information, see the following topics:
 
--  [Go to a Line of Code](go-to-a-line-of-code-in-the-script-editor.md)
+- [Go to a Line of Code](go-to-a-line-of-code-in-the-script-editor.md)
     
--  [Use Message Boxes to Return Values](use-message-boxes-to-return-values.md)
+- [Use Message Boxes to Return Values](use-message-boxes-to-return-values.md)
     
--  [Set Global Variables for a Form](set-global-variables-for-a-form.md)
+- [Set Global Variables for a Form](set-global-variables-for-a-form.md)
     
--  [Use the PropertyChange Event to Test Procedures](use-the-propertychange-event-to-test-procedures.md)
+- [Use the PropertyChange Event to Test Procedures](use-the-propertychange-event-to-test-procedures.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -12,18 +12,18 @@ localization_priority: Normal
 ## In this section
 
 
--  [Item-Level Events](item-level-events.md)
+- [Item-Level Events](item-level-events.md)
     
--  [Control Events](control-events.md)
+- [Control Events](control-events.md)
     
--  [Field Events](field-events.md)
+- [Field Events](field-events.md)
     
--  [About the Order of Events](about-the-order-of-events.md)
+- [About the Order of Events](about-the-order-of-events.md)
     
--  [Add a Click Event for a Control in a Custom Form Page](add-a-click-event-for-a-control-in-a-custom-form-page.md)
+- [Add a Click Event for a Control in a Custom Form Page](add-a-click-event-for-a-control-in-a-custom-form-page.md)
     
--  [Add an Outlook Event](add-an-outlook-event.md)
+- [Add an Outlook Event](add-an-outlook-event.md)
     
--  [Canceling an Event](canceling-an-event.md)
+- [Canceling an Event](canceling-an-event.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

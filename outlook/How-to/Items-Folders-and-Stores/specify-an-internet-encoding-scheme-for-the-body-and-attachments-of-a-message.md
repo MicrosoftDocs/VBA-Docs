@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Specify an Internet Encoding Scheme for the Body and Attachments of a Message
 
-This topic shows how to use the MAPI property,  [PidTagInternetMailOverrideFormat](../../../api/Outlook.PropertyAccessor.md), and the Microsoft Outlook object model to specify an Internet encoding scheme for the Exchange Internet Mail Service (IMS) to encode the body and attachments of a mail item.
+This topic shows how to use the MAPI property, [PidTagInternetMailOverrideFormat](../../../api/Outlook.PropertyAccessor.md), and the Microsoft Outlook object model to specify an Internet encoding scheme for the Exchange Internet Mail Service (IMS) to encode the body and attachments of a mail item.
 
 The following code sample in Visual C# shows how to reference **PidTagInternetMailOverrideFormat** with its MAPI proptag namespace and use the **[PropertyAccessor](../../../api/Outlook.PropertyAccessor.md)** object of the Outlook object model to specify MIME as the Internet encoding scheme for a message. **PidTagInternetMailOverrideFormat** is referenced as:
 

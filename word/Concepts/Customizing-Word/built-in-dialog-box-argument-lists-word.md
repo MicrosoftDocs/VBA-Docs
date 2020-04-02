@@ -22,7 +22,7 @@ End Sub
 ```
 
 
-Although you are encouraged to use VBA keywords to get or set the value of dialog box options, many of the built-in Word dialog boxes have arguments that you can also use to get or set values from a dialog box. For more information, see  [Displaying Built-in Word Dialog Boxes](displaying-built-in-word-dialog-boxes.md).
+Although you are encouraged to use VBA keywords to get or set the value of dialog box options, many of the built-in Word dialog boxes have arguments that you can also use to get or set values from a dialog box. For more information, see [Displaying Built-in Word Dialog Boxes](displaying-built-in-word-dialog-boxes.md).
 
 
 

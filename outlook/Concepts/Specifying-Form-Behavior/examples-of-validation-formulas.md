@@ -19,8 +19,8 @@ localization_priority: Normal
 
 For more information, see:
 
--  [How to: Create a Validation Formula and Message](create-a-validation-formula-and-message.md)
+- [How to: Create a Validation Formula and Message](create-a-validation-formula-and-message.md)
     
--  [Validating User Input to a Field](../Forms/validating-user-input-to-a-field.md)
+- [Validating User Input to a Field](../Forms/validating-user-input-to-a-field.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

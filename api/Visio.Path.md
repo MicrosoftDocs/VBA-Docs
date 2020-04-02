@@ -31,15 +31,15 @@ If you retrieve a **Path** object from a collection obtained by the **PathsLocal
 
 ## Methods
 
--  [Points](Visio.Path.Points.md)
+- [Points](Visio.Path.Points.md)
 
 ## Properties
 
--  [Application](Visio.Path.Application.md)
--  [Closed](Visio.Path.Closed.md)
--  [Count](Visio.Path.Count.md)
--  [Item](Visio.Path.Item.md)
--  [ObjectType](Visio.Path.ObjectType.md)
+- [Application](Visio.Path.Application.md)
+- [Closed](Visio.Path.Closed.md)
+- [Count](Visio.Path.Count.md)
+- [Item](Visio.Path.Item.md)
+- [ObjectType](Visio.Path.ObjectType.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

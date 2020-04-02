@@ -18,11 +18,11 @@ The content controls that you can create in documents in Word 2007 and later are
 The objects used in this sample are:
 
 
--  [ContentControl](../../../api/Word.ContentControl.md)
+- [ContentControl](../../../api/Word.ContentControl.md)
     
--  [ContentControls](../../../api/Word.ContentControls.md)
+- [ContentControls](../../../api/Word.ContentControls.md)
     
--  [ContentControlListEntries](../../../api/Word.ContentControlListEntries.md)
+- [ContentControlListEntries](../../../api/Word.ContentControlListEntries.md)
     
 The following example inserts a new date content control that contains the current date and then changes it to be a text content control.
 

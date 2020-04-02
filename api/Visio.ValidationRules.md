@@ -25,17 +25,17 @@ The default property of the **ValidationRules** collection is **Item**.
 
 ## Methods
 
--  [Add](Visio.ValidationRules.Add.md)
+- [Add](Visio.ValidationRules.Add.md)
 
 ## Properties
 
--  [Application](Visio.ValidationRules.Application.md)
--  [Count](Visio.ValidationRules.Count.md)
--  [Document](Visio.ValidationRules.Document.md)
--  [Item](Visio.ValidationRules.Item.md)
--  [ItemFromID](Visio.ValidationRules.ItemFromID.md)
--  [ObjectType](Visio.ValidationRules.ObjectType.md)
--  [Stat](Visio.ValidationRules.Stat.md)
+- [Application](Visio.ValidationRules.Application.md)
+- [Count](Visio.ValidationRules.Count.md)
+- [Document](Visio.ValidationRules.Document.md)
+- [Item](Visio.ValidationRules.Item.md)
+- [ItemFromID](Visio.ValidationRules.ItemFromID.md)
+- [ObjectType](Visio.ValidationRules.ObjectType.md)
+- [Stat](Visio.ValidationRules.Stat.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

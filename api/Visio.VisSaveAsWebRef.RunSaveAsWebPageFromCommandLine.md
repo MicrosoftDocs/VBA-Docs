@@ -65,7 +65,7 @@ The following table lists the command-line options for the Save as Web Page comm
 
 For the text/number value type, the user may specify text (such as _vml_) for the output type, or a number (for example, 1) representing the index of this output type. Each output type will have its own unique index. 
 
-For **screenres**, text and number values are defined by the  [VISWEB_DISP_RES](Visio.VisSaveAsWeb.visweb-disp-res-enumeration.md) enumeration.
+For **screenres**, text and number values are defined by the [VISWEB_DISP_RES](Visio.VisSaveAsWeb.visweb-disp-res-enumeration.md) enumeration.
 
 
 ## Using the RUNADDONWARGS function

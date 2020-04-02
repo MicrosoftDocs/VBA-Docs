@@ -12,6 +12,6 @@ localization_priority: Normal
 
 # Setting Control Properties (Word)
 
-You can set the properties of some  [ActiveX controls](../../../api/overview/Word.md) at design time (before any macro is running). In design mode, right-click a control and click **Properties** to display the Properties window. Property names are shown in the left column in the window, property values in the right column. You set a property value by entering the new value to the right of the property name.
+You can set the properties of some [ActiveX controls](../../../api/overview/Word.md) at design time (before any macro is running). In design mode, right-click a control and click **Properties** to display the Properties window. Property names are shown in the left column in the window, property values in the right column. You set a property value by entering the new value to the right of the property name.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

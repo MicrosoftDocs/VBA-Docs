@@ -38,7 +38,7 @@ Evaluates if a property is null. Returns True if the property is null and False 
 The syntax of **Is Null** is as follows, where _PropertyName_ is the name of a property referenced by namespace:
 
 ```sql
-  [PropertyName] IS NULL
+ [PropertyName] IS NULL
 ```
 
 You can combine the **Is Null** keywords with the **Not** operator to evaluate if a property is not null.

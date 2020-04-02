@@ -12,8 +12,8 @@ localization_priority: Normal
 ## In this section
 
 
--  [Specify Whether a Form Prompts the User, Opens, or is Sent](../Specifying-Form-Behavior/specify-whether-a-form-prompts-the-user-opens-or-is-sent.md)
+- [Specify Whether a Form Prompts the User, Opens, or is Sent](../Specifying-Form-Behavior/specify-whether-a-form-prompts-the-user-opens-or-is-sent.md)
     
--  [Create Custom Actions for a Form](../Specifying-Form-Behavior/create-custom-actions-for-a-form.md)
+- [Create Custom Actions for a Form](../Specifying-Form-Behavior/create-custom-actions-for-a-form.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

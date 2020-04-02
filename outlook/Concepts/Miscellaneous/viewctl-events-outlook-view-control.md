@@ -12,12 +12,12 @@ localization_priority: Normal
 ## In this section
 
 
--  [ViewCtl.Activate Event (Outlook View Control)](../../../api/Outlook.viewctl.activa.md)
+- [ViewCtl.Activate Event (Outlook View Control)](../../../api/Outlook.viewctl.activa.md)
     
--  [ViewCtl.BeforeViewSwitch Event (Outlook View Control)](../../../api/Outlook.viewctl.beforeviewswit.md)
+- [ViewCtl.BeforeViewSwitch Event (Outlook View Control)](../../../api/Outlook.viewctl.beforeviewswit.md)
     
--  [ViewCtl.SelectionChange Event (Outlook View Control)](../../../api/Outlook.viewctl.selectionchan.md)
+- [ViewCtl.SelectionChange Event (Outlook View Control)](../../../api/Outlook.viewctl.selectionchan.md)
     
--  [ViewCtl.ViewSwitch Event (Outlook View Control)](../../../api/Outlook.viewctl.viewswit.md)
+- [ViewCtl.ViewSwitch Event (Outlook View Control)](../../../api/Outlook.viewctl.viewswit.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

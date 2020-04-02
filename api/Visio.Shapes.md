@@ -32,24 +32,24 @@ If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](htt
 
 ## Methods
 
--  [CenterDrawing](Visio.Shapes.CenterDrawing.md)
+- [CenterDrawing](Visio.Shapes.CenterDrawing.md)
 
 ## Properties
 
--  [Application](Visio.Shapes.Application.md)
--  [ContainingMaster](Visio.Shapes.ContainingMaster.md)
--  [ContainingPage](Visio.Shapes.ContainingPage.md)
--  [ContainingShape](Visio.Shapes.ContainingShape.md)
--  [Count](Visio.Shapes.Count.md)
--  [Document](Visio.Shapes.Document.md)
--  [EventList](Visio.Shapes.EventList.md)
--  [Item](Visio.Shapes.Item.md)
--  [ItemFromID](Visio.Shapes.ItemFromID.md)
--  [ItemFromUniqueID](Visio.Shapes.ItemFromUniqueID.md)
--  [ItemU](Visio.Shapes.ItemU.md)
--  [ObjectType](Visio.Shapes.ObjectType.md)
--  [PersistsEvents](Visio.Shapes.PersistsEvents.md)
--  [Stat](Visio.Shapes.Stat.md)
+- [Application](Visio.Shapes.Application.md)
+- [ContainingMaster](Visio.Shapes.ContainingMaster.md)
+- [ContainingPage](Visio.Shapes.ContainingPage.md)
+- [ContainingShape](Visio.Shapes.ContainingShape.md)
+- [Count](Visio.Shapes.Count.md)
+- [Document](Visio.Shapes.Document.md)
+- [EventList](Visio.Shapes.EventList.md)
+- [Item](Visio.Shapes.Item.md)
+- [ItemFromID](Visio.Shapes.ItemFromID.md)
+- [ItemFromUniqueID](Visio.Shapes.ItemFromUniqueID.md)
+- [ItemU](Visio.Shapes.ItemU.md)
+- [ObjectType](Visio.Shapes.ObjectType.md)
+- [PersistsEvents](Visio.Shapes.PersistsEvents.md)
+- [Stat](Visio.Shapes.Stat.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

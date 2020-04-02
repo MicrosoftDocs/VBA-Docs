@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Match Entries in a List to Entries Typed by Users
 
-1. In the Form Designer, drag the  [ListBox](../../../api/Outlook.listbox.md) or [ComboBox](../../../api/Outlook.combobox.md) control from the [Control Toolbox](show-or-hide-the-control-toolbox.md) to the form.
+1. In the Form Designer, drag the [ListBox](../../../api/Outlook.listbox.md) or [ComboBox](../../../api/Outlook.combobox.md) control from the [Control Toolbox](show-or-hide-the-control-toolbox.md) to the form.
     
 2. Right-click the list box or combo box, and then click **Advanced Properties**. 
     
@@ -17,9 +17,9 @@ localization_priority: Normal
     
     For more information about the property for the specific control, see the following:
     
-      -  [MatchEntry](../../../api/Outlook.listbox.matchentry.md) property for the **ListBox** control.
+      - [MatchEntry](../../../api/Outlook.listbox.matchentry.md) property for the **ListBox** control.
     
-  -  [MatchEntry](../../../api/Outlook.combobox.matchentry.md) property for the **ComboBox** control.
+  - [MatchEntry](../../../api/Outlook.combobox.matchentry.md) property for the **ComboBox** control.
     
 
 

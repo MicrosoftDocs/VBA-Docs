@@ -54,6 +54,6 @@ The following controls do not support the **Click** event.<br>
 While the **MultiPage** control itself does not support the **Click** event, an individual **[Page](../../../api/Outlook.page.md)** on a **MultiPage** control will fire the **Click** event if the user clicks inside the client area of the page, but not if the user clicks the tab associated with the page.<br>
 
 To detect a change in a **TextBox** control, bind the control to a field and then handle the appropriate field event.
-If you have to further extend controls in a custom form, customize a form with Outlook controls in a form region instead of Forms 2.0 controls in a form page. For more information, see  [Controls in a Custom Form](../../Concepts/Forms/controls-in-a-custom-form.md).
+If you have to further extend controls in a custom form, customize a form with Outlook controls in a form region instead of Forms 2.0 controls in a form page. For more information, see [Controls in a Custom Form](../../Concepts/Forms/controls-in-a-custom-form.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

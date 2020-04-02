@@ -31,15 +31,15 @@ A **ToolbarSet** object is identified in the **ToolbarSets** collection by its *
 
 ## Methods
 
--  [Add](Visio.ToolbarSets.Add.md)
--  [AddAtID](Visio.ToolbarSets.AddAtID.md)
+- [Add](Visio.ToolbarSets.Add.md)
+- [AddAtID](Visio.ToolbarSets.AddAtID.md)
 
 ## Properties
 
--  [Count](Visio.ToolbarSets.Count.md)
--  [Item](Visio.ToolbarSets.Item.md)
--  [ItemAtID](Visio.ToolbarSets.ItemAtID.md)
--  [Parent](Visio.ToolbarSets.Parent.md)
+- [Count](Visio.ToolbarSets.Count.md)
+- [Item](Visio.ToolbarSets.Item.md)
+- [ItemAtID](Visio.ToolbarSets.ItemAtID.md)
+- [Parent](Visio.ToolbarSets.Parent.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

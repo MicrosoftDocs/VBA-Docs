@@ -12,8 +12,8 @@ localization_priority: Normal
 ## In this section
 
 
--  [Using Macros to Customize Outlook](../Getting-Started/using-macros-to-customize-outlook.md)
+- [Using Macros to Customize Outlook](../Getting-Started/using-macros-to-customize-outlook.md)
     
--  [Using Visual Basic to Automate Outlook](../Getting-Started/using-visual-basic-to-automate-outlook.md)
+- [Using Visual Basic to Automate Outlook](../Getting-Started/using-visual-basic-to-automate-outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

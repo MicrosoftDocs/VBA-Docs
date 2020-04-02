@@ -12,12 +12,12 @@ localization_priority: Normal
 ## In this section
 
 
--  [Using Visual Basic with Outlook](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/using-visual-basic-with-outlook.md)
+- [Using Visual Basic with Outlook](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/using-visual-basic-with-outlook.md)
     
--  [Run in Developer Mode in Outlook](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/run-in-developer-mode-in-outlook.md)
+- [Run in Developer Mode in Outlook](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/run-in-developer-mode-in-outlook.md)
     
--  [Using Visual Basic Scripting Edition](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/using-visual-basic-scripting-edition.md)
+- [Using Visual Basic Scripting Edition](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/using-visual-basic-scripting-edition.md)
     
--  [Using the Outlook Object Model](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/using-the-outlook-object-model.md)
+- [Using the Outlook Object Model](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/using-the-outlook-object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

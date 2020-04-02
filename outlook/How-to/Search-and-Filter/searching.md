@@ -12,6 +12,6 @@ localization_priority: Normal
 ## In this section
 
 
--  [Searching Items](searching-items.md)
+- [Searching Items](searching-items.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

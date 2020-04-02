@@ -12,10 +12,10 @@ localization_priority: Normal
 ## In this section
 
 
--  [Test Tips for Using VBScript in Outlook](test-tips-for-using-vbscript-in-outlook.md)
+- [Test Tips for Using VBScript in Outlook](test-tips-for-using-vbscript-in-outlook.md)
     
--  [Go to a Line of Code in the Script Editor](go-to-a-line-of-code-in-the-script-editor.md)
+- [Go to a Line of Code in the Script Editor](go-to-a-line-of-code-in-the-script-editor.md)
     
--  [Use Message Boxes to Return Values](use-message-boxes-to-return-values.md)
+- [Use Message Boxes to Return Values](use-message-boxes-to-return-values.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

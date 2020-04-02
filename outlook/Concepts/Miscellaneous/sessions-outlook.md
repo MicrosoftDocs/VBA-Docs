@@ -12,6 +12,6 @@ localization_priority: Normal
 ## In this section
 
 
--  [Obtain and Log On to an Instance of Outlook](../../How-to/Security/obtain-and-log-on-to-an-instance-of-outlook.md)
+- [Obtain and Log On to an Instance of Outlook](../../How-to/Security/obtain-and-log-on-to-an-instance-of-outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
