@@ -26,8 +26,6 @@ To use this example, copy this sample code to the Script Editor of a form. To ru
     
 Try entering the value 0 to hide a column.
 
-
-
 ```vb
 Dim MyArray(2, 3) 
 Dim ListBox1 

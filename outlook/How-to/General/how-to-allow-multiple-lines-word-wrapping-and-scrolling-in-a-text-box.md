@@ -24,8 +24,6 @@ To see the entire text placed in the **TextBox**, set **MultiLine** and **WordWr
 When **MultiLine** is **True**, you can enter new lines of text by pressing SHIFT+ENTER.
  **ScrollBars** appears when you manually change the content of the **TextBox**.
 
-
-
 ```vb
 Dim ToggleButton1 
 Dim ToggleButton2 

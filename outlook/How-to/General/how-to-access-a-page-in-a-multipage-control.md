@@ -24,9 +24,6 @@ The following example accesses an individual page of a **[MultiPage](../../../ap
 
 To use this example, copy this sample code to the Script Editor of a form. Make sure that the form contains a **MultiPage** named MultiPage1 and a **[CommandButton](../../../api/Outlook.commandbutton.md)** named CommandButton1.
 
-
-
-
 ```vb
 Sub CommandButton1_Click 
  Dim PageName 

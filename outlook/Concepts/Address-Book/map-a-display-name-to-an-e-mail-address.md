@@ -17,12 +17,8 @@ In this code sample, the function  `ResolveDisplayNameToSMTP` uses the display n
 
 
 - If the type of the **AddressEntry** object is an Exchange user, `ResolveDisplayNameToSMTP` calls ** [AddressEntry.GetExchangeUser](../../../api/Outlook.AddressEntry.GetExchangeUser.md)** to obtain the corresponding **[ExchangeUser](../../../api/Outlook.ExchangeUser.md)** object. ** [ExchangeUser.PrimarySmtpAddress](../../../api/Outlook.ExchangeUser.PrimarySmtpAddress.md)** provides the email address that maps to the display name.
-    
-- If the **AddressEntry** object is an Exchange distribution list, `ResolveDisplayNameToSMTP` calls ** [AddressEntry.GetExchangeDistributionList](../../../api/Outlook.AddressEntry.GetExchangeDistributionList.md)** to obtain an **[ExchangeDistributionList](../../../api/Outlook.ExchangeDistributionList.md)** object. ** [ExchangeDistributionList.PrimarySmtpAddress](../../../api/Outlook.ExchangeDistributionList.PrimarySmtpAddress.md)** provides the email address that maps to the display name.
-    
 
-
-
+- If the  **AddressEntry** object is an Exchange distribution list, `ResolveDisplayNameToSMTP` calls ** [AddressEntry.GetExchangeDistributionList](../../../api/Outlook.AddressEntry.GetExchangeDistributionList.md)** to obtain an **[ExchangeDistributionList](../../../api/Outlook.ExchangeDistributionList.md)** object. ** [ExchangeDistributionList.PrimarySmtpAddress](../../../api/Outlook.ExchangeDistributionList.PrimarySmtpAddress.md)** provides the email address that maps to the display name.
 
 ```vb
 Sub ResolveDisplayNameToSMTP() 

@@ -23,7 +23,6 @@ To run the form region, you must register it in the Windows registry and specify
     
 If you do not specify a full path name for the .OFS file, then Outlook will look for the file in the same folder as the form region manifest XML file that you have specified in the Windows registry for the form region. Otherwise, you can use environment variables in the **layoutFile** element, such as the following:
 
-
 ```vb
 <layoutFile>%ProgramFiles%\Addin\Addin.ofs</layoutFile>
 ```

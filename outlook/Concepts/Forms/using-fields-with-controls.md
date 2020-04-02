@@ -20,8 +20,6 @@ To bind a control to a field, right-click the control, and then click **Properti
 
 For example, to change the value of a custom field called Fax, you use the following code:
 
-
-
 ```vb
 Item.UserProperties.Find("Fax").Value = "555-1234"
 
@@ -29,20 +27,15 @@ Item.UserProperties.Find("Fax").Value = "555-1234"
 
 Note that since this is a field, you do not need to specify the page or the control the field is bound to. In the following code example, a control called txtFax is made invisible. When you work with a control, you must specify the page and the control name.
 
-
-
 ```vb
 Item.GetInspector.ModifiedFormPages("General").Controls("txtFax").Visible = False
 ```
 
 You can bind a control to a field at run time by using the internal property named **ItemProperty**. The following example binds a **TextBox** to a field named Business Address.
 
-
-
 ```vb
 Item.GetInspector.SetControlItemProperty("Textbox1", "Business Address")
 ```
-
 
  **Note** If you create a control by dragging a plain text field to a form, you cannot bind the control to a field of a different type. For example, you cannot drag a Subject field to a form and then bind it to a field containing an Email type (such as the To field).
 

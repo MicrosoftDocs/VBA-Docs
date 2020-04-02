@@ -38,32 +38,25 @@ Once you've referenced the object model library, you must declare variables that
 
 For example, to declare an object variable for the **Application](../../../api/Outlook.Application.md)** object in a class module, you use code like the following.
 
-
-
-
 ```vb
 Public WithEvents myOlApp As Outlook.Application
 ```
 
 You must use the  `WithEvents` keyword to specify that the object variable will be used to respond to events triggered by the object.
 
-
 ## Write the Event Procedure
 
 After the new object has been declared with events, it appears in the **bject** list in the class module Code window, and you can select the object's event procedures from the **Procedures/Events** list. For example, when you select the **[ItemSend](../../../api/Outlook.Application.ItemSend.md)** event for an **Application** object declared as `myOlApp`, the following empty procedure appears in the Code window.
 
-
 ```vb
 Private Sub myOlApp_ItemSend(Item as Object, Cancel as Boolean) 
- 
+
 End Sub
 ```
-
 
 ## Initialize the Declared Object
 
 Before the procedure will run, you must connect the declared object (in this example,  `myOlApp`) with the **pplication** object. If you declared the object in a class module named `EventClassModule`, then you can use the following code in any module.
-
 
 ```vb
 Dim myClass as New EventClassModule  
@@ -72,15 +65,6 @@ Sub Register_Event_Handler()
 End Sub
 ```
 
-When the
-
-
-
-
-```vb
-Register_Event_Handler
-```
-
-procedure is run, the  `myOlApp` object in the form or class module points to the Outlook **Application** object, and the event procedure will run when the event occurs.
+When the `Register_Event_Handler`procedure is run, the  `myOlApp` object in the form or class module points to the Outlook **Application** object, and the event procedure will run when the event occurs.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

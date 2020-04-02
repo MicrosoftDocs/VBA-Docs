@@ -18,9 +18,6 @@ Your Visual Basic for Applications program can use a Visual Basic for Applicatio
 
 The following sample uses the text in two text boxes to add information to a message before sending it.
 
-
-
-
 ```vb
 Private Sub CommandButton1_Click() 
  Dim myMail As Outlook.MailItem 
@@ -35,8 +32,6 @@ End Sub
 ```
 
 You can also use controls to display information about Outlook items, folders, and other features of the Outlook object model. The following example shows how to fill a combo box control with the subjects of the items in the user's Inbox.
-
-
 
 ```vb
 Dim myItems As Outlook.Items 

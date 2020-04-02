@@ -17,13 +17,10 @@ The following example uses the **[MultiSelect](../../../api/Outlook.listbox.mult
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
 - Two **ListBox** controls named ListBox1 and ListBox2.
-    
+
 - A **CommandButton** named CommandButton1.
-    
-- Three **[OptionButton](../../../api/Outlook.optionbutton.md)** controls named OptionButton1 through OptionButton3.
-    
 
-
+- Three  **[OptionButton](../../../api/Outlook.optionbutton.md)** controls named OptionButton1 through OptionButton3.
 
 ```vb
 Sub CommandButton1_Click() 
