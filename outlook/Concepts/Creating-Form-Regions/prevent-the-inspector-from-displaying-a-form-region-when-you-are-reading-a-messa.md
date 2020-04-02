@@ -11,20 +11,17 @@ localization_priority: Normal
 
 When you create a form region in a custom form for mail or post items, by default, the form region will be displayed in the inspector when you read a mail or post item that uses that custom form. If you want to prevent the inspector from displaying the form region, specify this in the form region manifest XML file that you register for the form region. For more information on registering a form region, see  [Specifying Form Regions in the Windows Registry](specifying-form-regions-in-the-windows-registry.md).
 
-
 ## To prevent the inspector from displaying a form region while in read mode
 
-
 - In the form region manifest XML file, specify  **False** as the value of the **showInspectorRead** element.
-    
-The following example disables the inspector from displaying a form region when in read mode:
 
+The following example disables the inspector from displaying a form region when in read mode:
 
 ```vb
 <showInspectorRead>false</showInspectorRead>
 ```
 
-> [!NOTE] 
+> [!NOTE]
 > You can assign  **showInspectorRead** either a string value or an integer value. The default value is **True** or **1**. To prevent the inspector from displaying the form region in read mode, assign either  **False** or **0**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

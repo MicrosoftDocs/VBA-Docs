@@ -15,9 +15,6 @@ This topic shows a code sample that goes through all the Contact items in the de
 
  **Note**  Generally, a folder in Outlook can contain heterogeneous items, and the Contact folder can contain  **[ContactItem](../../../api/Outlook.ContactItem.md)** objects as well as other items. The code sample ensures that it only changes the file-as format for Contact items by filtering on the message class IPM.Contact. For more information on item types and message classes, see [Item Types and Message Classes](../Forms/item-types-and-message-classes.md).
 
-
-
-
 ```vb
 Private Sub ReFileContacts() 
  Dim items As items, item As ContactItem, folder As folder 

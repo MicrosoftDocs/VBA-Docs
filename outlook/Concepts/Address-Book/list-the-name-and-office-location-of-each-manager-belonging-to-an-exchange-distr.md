@@ -27,9 +27,6 @@ This topic describes how to allow a user to select an Exchange distribution list
 
 Copy the following Visual Basic for Applications code sample to the Visual Basic Editor, and run  `ShowManagersOfGroups`. Note that this code sample only applies to a distribution list that has only Exchange users as members, or that has Exchange distribution lists as members but all members of the latter will have to be Exchange users. Further customization of the code will be necessary if there is more nesting of distribution lists as members. 
 
-
-
-
 ```vb
 Sub ShowManagersOfGroups() 
     Dim oRecip As Outlook.Recipient 

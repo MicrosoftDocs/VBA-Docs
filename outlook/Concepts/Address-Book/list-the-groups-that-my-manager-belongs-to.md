@@ -15,7 +15,6 @@ This topic describes how to obtain the names of the Exchange distribution lists 
 1. Obtain the current user's ExchangeUser object. Use the  **[GetExchangeUser](../../../api/Outlook.AddressEntry.GetExchangeUser.md)** method of the **[AddressEntry](../../../api/Outlook.AddressEntry.md)** object for the current user to get the **ExchangeUser** object that represents the current user.
     
 2. Obtain the distribution lists that the user's manager has joined.Use the  **ExchangeUser** methods **[GetExchangeUserManager](../../../api/Outlook.ExchangeUser.GetExchangeUserManager.md)** and **[GetMemberOfList](../../../api/Outlook.ExchangeUser.GetMemberOfList.md)** to find these distribtution lists. Use the **[ExchangeDistributionList](../../../api/Outlook.ExchangeDistributionList.md)** object to obtain further information about a distribution list, such as its display name.
-    
 
 ```vb
 Sub ShowManagerDistLists() 

@@ -42,7 +42,6 @@ Whether you choose to modify a built-in action or create a custom action, you de
     
 The following example assigns `replyToBlog` as the internal name of one custom action, and `postToBlog` as the internal name of another custom action:
 
-
 ```vb
 <customActions>
     <action name="replyToBlog">
@@ -79,7 +78,6 @@ The following example assigns `replyToBlog` as the internal name of a custom act
 </customActions>
 ```
 
-
 ### To specify that an action is to be displayed on the ribbon of an inspector
 
 1. In the form region manifest XML file, specify the action as a child **action** element of the **customActions** element for that form region.
@@ -99,18 +97,17 @@ The following example assigns `replyToBlog` as the internal name of a custom act
 </customActions>
 ```
 
-> [!NOTE] 
+> [!NOTE]
 > You can assign **showOnRibbon** either a string value or an integer value. Specifying **True** or **1** will display the action on the ribbon; specifying **False** or **0** will prevent it from being displayed on the ribbon.
-
 
 ### To specify the way that a resulting item will be addressed
 
 1. In the form region manifest XML file, specify the action as a child **action** element of the **customActions** element for that form region.
-    
+
 2. Specify the internal name of the action as the value of the **name** attribute of the **action** element.
-    
+
 3. Specify a value for the child **addressLike** element of the **action** element.
-    
+
 The following example assigns `replyToBlog` as the internal name of a custom action and specifies that the resulting new item will be addressed as a reply-all item, with all the original recipients copied over to the new item:
 
 ```vb
@@ -123,10 +120,8 @@ The following example assigns `replyToBlog` as the internal name of a custom act
 
 ```
 
-
-> [!NOTE] 
+> [!NOTE]
 > The child **addressLike** element of the **action** element can contain one of the following values:
-
 
 |Value|Description|
 |----|----|

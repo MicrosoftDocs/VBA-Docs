@@ -29,8 +29,6 @@ The following code shows how to programmatically modify an Outlook email attachm
 
 **Note** To  access the attachment data, the mail item must be saved using the [MailItem.Save](https://github.com/OfficeDev/VBA-content/edit/master/VBA/Outlook-VBA/articles/7d7b5f22-4749-e908-41a7-12a4c730c695.md) method.
 
-
-
 ```cs
 using Outlook = Microsoft.Office.Interop.Outlook;
  
@@ -110,9 +108,6 @@ namespace ModifyAttachmentAddIn
     }
 }
 ```
-
-
-
 
 ```vb
 Public Class ThisAddIn

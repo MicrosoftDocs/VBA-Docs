@@ -33,11 +33,6 @@ To run this code sample:
 2. Place the code in the built-in  **ThisOutlookSession** module.
     
 3. Run the  `TestAddressEntryDetails` procedure to display address entry details on the mail message in the active inspector:
-    
-
-
-
-
 
 ```vb
 Sub TestAddressEntryDetails() 

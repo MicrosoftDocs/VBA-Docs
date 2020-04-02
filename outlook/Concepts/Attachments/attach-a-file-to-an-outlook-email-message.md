@@ -57,9 +57,6 @@ The following managed code samples are written in C# and Visual Basic. To run a 
 
 The following code shows how to programmatically attach files to an outgoing email message in Outlook. To demonstrate this functionality, in Visual Studio, create a new managed Outlook add-in named  `AttachFileAddIn`, and replace the contents of the ThisAddIn.vb or ThisAddIn.cs file with the example code shown here. Modify the  `ThisAddIn_Startup` procedure to include a reference to a file in your file system, and update the email addresses appropriately. The SMTP address included in the call to the `SendMailWithAttachments` procedure must correspond to the SMTP address of one of the outgoing email accounts you have previously configured in Outlook.
 
-
-
-
 ```cs
 using System.Collections.Generic;
 using Outlook = Microsoft.Office.Interop.Outlook;

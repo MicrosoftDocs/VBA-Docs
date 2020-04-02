@@ -31,8 +31,6 @@ After identifying the appropriate account, the code completes by setting the **S
 The following managed code samples are written in C# and Visual Basic. To run a .NET Framework managed code sample that needs to call into a Component Object Model (COM), you must use an interop assembly that defines and maps managed interfaces to the COM objects in the object model type library. For Outlook, you can use Visual Studio and the Outlook Primary Interop Assembly (PIA). Before you run managed code samples for Outlook 2013, ensure that you have installed the Outlook 2013 PIA and have added a reference to the Microsoft Outlook 15.0 Object Library component in Visual Studio. You should use the following code samples in the  `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`. For more information about using the Outlook PIA to develop managed Outlook solutions, see the **Welcome to the Outlook Primary Interop Assembly Reference** on MSDN.
 The following code shows how to programmatically attach a copy of a contact item to a mail message. To demonstrate this functionality, in Visual Studio, create a new managed Outlook add-in named  `EmbedOutlookItemAddIn`, and replace the contents of the ThisAddIn.vb or ThisAddIn.cs file with the example code shown here. Modify the  `ThisAddIn_Startup` procedure and update the email addresses appropriately. The SMTP address included in the call to the `SendMailWithAttachments` procedure must correspond to the SMTP address of one of the outgoing email accounts you have previously configured in Outlook.
 
-
-
 ```cs
 using System;
 using System.Collections.Generic;
@@ -128,9 +126,6 @@ namespace EmbedOutlookItemAddIn
  
 }
 ```
-
-
-
 
 ```vb
 Public Class ThisAddIn

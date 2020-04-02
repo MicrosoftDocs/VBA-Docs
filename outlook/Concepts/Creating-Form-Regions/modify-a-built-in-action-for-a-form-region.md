@@ -41,7 +41,6 @@ Whether you choose to modify a built-in action or create a custom action, you de
     
 The following example identifies the two built-in actions,  `reply` and `replyAll`, before modifying them:
 
-
 ```vb
 <customActions>
     <action name="reply">
@@ -88,9 +87,6 @@ After you have identified a built-in action in an  **action** element, you can m
 3. Specify  **True** as the value of the disabled attribute of the **action** element.
     
 The following example identifies the built-in action,  `replyToFolder`, and disables it:
-
-
-
 
 ```vb
 <customActions>

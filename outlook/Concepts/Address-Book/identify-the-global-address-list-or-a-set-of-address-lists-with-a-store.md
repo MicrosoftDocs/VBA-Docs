@@ -16,8 +16,6 @@ The following managed code is written in C#. To run a .NET Framework managed cod
 The first code sample contains the  `DisplayGlobalAddressListForStore` method and the `GetGlobalAddressList` function. The `DisplayGlobalAddressListForStore` method displays the Global Address List that is associated with the current store in the **Select Names** dialog box. `DisplayGlobalAddressListForStore` first obtains the current store. If the current store is an Exchange store, calls `GetGlobalAddressList` to obtain the Global Address List associated with the current store. `GetGlobalAddressList` uses the [PropertyAccessor](../../../api/Outlook.PropertyAccessor.md) object and the MAPI property, https://schemas.microsoft.com/mapi/proptag/0x3D150102, to obtain the UIDs of an address list and the current store. `GetGlobalAddressList` identifies an address list as associated with a store if their UIDs match, and the address list is the Global Address List if its [AddressListType](../../../api/Outlook.AddressList.AddressListType.md) property is **olExchangeGlobalAddressList**. If the call to  `GetGlobalAddressList` succeeds, `DisplayGlobalAddressListForStore` uses the [SelectNamesDialog](../../../api/Outlook.SelectNamesDialog.md) object to display the returned Global Address List in the **Select Names** dialog box.
 
 
-
-
 ```cs
 void DisplayGlobalAddressListForStore() 
 { 
