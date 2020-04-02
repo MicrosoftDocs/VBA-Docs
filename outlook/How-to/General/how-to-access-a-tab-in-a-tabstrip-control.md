@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Access a Tab in a TabStrip Control
 
-The following example accesses an individual tab of a  **[TabStrip](../../../api/Outlook.tabstrip.md)** in several ways:
+The following example accesses an individual tab of a **[TabStrip](../../../api/Outlook.tabstrip.md)** in several ways:
 
 - Using the  **[Tabs](../../../api/Outlook.tabs.md)** collection with a numeric index.
 
@@ -20,7 +20,7 @@ The following example accesses an individual tab of a  **[TabStrip](../../../api
 
 - Using the  **[SelectedItem](../../../api/Outlook.tabstrip.selecteditem.md)** property.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event of the item will activate. Make sure that the form contains a **TabStrip** named TabStrip1.
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event of the item will activate. Make sure that the form contains a **TabStrip** named TabStrip1.
 
 ```vb
 Sub Item_Open() 

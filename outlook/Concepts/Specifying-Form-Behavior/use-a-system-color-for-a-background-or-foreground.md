@@ -9,8 +9,8 @@ localization_priority: Normal
 
 # Use a System Color for a Background or Foreground
 
-1. Right-click the control, then click  **Properties**. 
+1. Right-click the control, then click **Properties**. 
     
-2. On the  **Display** tab, click an option from the **Foreground color** or **Background color** list boxes. A preview of the option that you click appears in the **Font** box.
+2. On the **Display** tab, click an option from the **Foreground color** or **Background color** list boxes. A preview of the option that you click appears in the **Font** box.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

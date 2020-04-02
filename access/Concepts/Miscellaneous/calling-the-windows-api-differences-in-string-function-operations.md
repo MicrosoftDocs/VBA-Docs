@@ -3,7 +3,7 @@ title: Calling the Windows API (differences in string function operations)
 ROBOTS: INDEX
 ms.prod: access
 ms.assetid: ee882d00-46f5-2bfc-09fc-ce2941302c5e
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

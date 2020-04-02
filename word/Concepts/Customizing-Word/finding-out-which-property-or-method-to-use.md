@@ -27,7 +27,7 @@ End Sub
 ```
 
 
-The  **[Documents](../../../api/Word.Application.Documents.md)** property returns the **[Documents](../../../api/Word.documents.md)** collection and the **[Open](../../../api/Word.Documents.Open.md)** method opens the specified file name. When you are first learning Visual Basic, using the macro recorder can help you learn which properties and methods you need to use to accomplish a task.
+The **[Documents](../../../api/Word.Application.Documents.md)** property returns the **[Documents](../../../api/Word.documents.md)** collection and the **[Open](../../../api/Word.Documents.Open.md)** method opens the specified file name. When you are first learning Visual Basic, using the macro recorder can help you learn which properties and methods you need to use to accomplish a task.
 
 For more information, see  [Revising recorded Visual Basic macros](revising-recorded-visual-basic-macros.md).
 

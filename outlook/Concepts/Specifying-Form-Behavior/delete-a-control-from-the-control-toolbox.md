@@ -9,9 +9,9 @@ localization_priority: Normal
 
 # Delete a Control from the Control Toolbox
 
-1. If the  **Control Toolbox** is not visible, on the **Developer** tab, in the **Tools** group, click
+1. If the **Control Toolbox** is not visible, on the **Developer** tab, in the **Tools** group, click
 ![Control Toolbox icon](../../../images/0548_ZA06045100.gif) **Control Toolbox**. 
     
-2. In the  **Control Toolbox**, right-click the control that you want to delete, and then click  **Delete**_**&lt;control name&gt;**_.
+2. In the **Control Toolbox**, right-click the control that you want to delete, and then click **Delete**_**&lt;control name&gt;**_.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

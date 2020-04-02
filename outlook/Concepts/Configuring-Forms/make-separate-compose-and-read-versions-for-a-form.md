@@ -12,7 +12,7 @@ localization_priority: Normal
 You can create and edit separate compose and read versions for each page of a form. The compose version is the one that is displayed when you create an item. The read version is the one that Outlook displays after the item has been saved—for example, what Outlook displays in an inspector window when you read your email.
 
 
- **Note**  Outlook only supports separate compose and read versions on some item types; in particular, items that you can send, such as mail and post. Other item types always display the compose form.
+ **Note** utlook only supports separate compose and read versions on some item types; in particular, items that you can send, such as mail and post. Other item types always display the compose form.
 
 
 ## Forms customized with form regions
@@ -25,17 +25,17 @@ For more information, see  [How to: Create Separate Read and Compose Pages Using
 ## Forms customized with form pages
 
 
-1. In Forms Designer, on the  **Developer** tab, in the **Form** group, do one of the following:
+1. In Forms Designer, on the **eveloper** tab, in the **Form** group, do one of the following:
     
-      - To create or edit the compose page, click  **Page**, then click  **Edit Compose Page**.
+      - To create or edit the compose page, click **age**, then click  **it Compose Page**.
     
-  - To create or edit the read page, click  **Page**, then click  **Edit Read Page**.
+  - To create or edit the read page, click **age**, then click  **it Read Page**.
     
 2. Customize pages on the form.
     
     For more information, see  [How to: Customize Pages on a Form](../Customizing-Forms/customize-pages-on-a-form.md).
     
 
- **Note**  You can quickly switch between the two versions by clicking  **Edit Compose Page** and **Edit Read Page** in the **Design** group. If these commands are not available, you have set the compose and read versions to be the same. To have separate compose and read versions, click **Separate Read Layout** in the **Design** group.
+ **Note** ou can quickly switch between the two versions by clicking **dit Compose Page** and **Edit Read Page** in the **Design** group. If these commands are not available, you have set the compose and read versions to be the same. To have separate compose and read versions, click **Separate Read Layout** in the **Design** group.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

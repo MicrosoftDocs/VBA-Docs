@@ -12,17 +12,17 @@ localization_priority: Normal
 
 # Control the Style and Selection Behavior of a List Box
 
-The following example uses the  **[ListStyle](../../../api/Outlook.listbox.liststyle.md)** and **[MultiSelect](../../../api/Outlook.OlkListBox.MultiSelect.md)** properties to control the appearance of a **[ListBox](../../../api/Outlook.listbox.md)**. The user chooses a value for  **ListStyle** using the **[ToggleButton](../../../api/Outlook.togglebutton.md)** and chooses an **[OptionButton](../../../api/Outlook.optionbutton.md)** for one of the **MultiSelect** values. The appearance of the **ListBox** changes accordingly, as well as the selection behavior within the **ListBox**.
+The following example uses the **[ListStyle](../../../api/Outlook.listbox.liststyle.md)** and **[MultiSelect](../../../api/Outlook.OlkListBox.MultiSelect.md)** properties to control the appearance of a **[ListBox](../../../api/Outlook.listbox.md)**. The user chooses a value for **ListStyle** using the **[ToggleButton](../../../api/Outlook.togglebutton.md)** and chooses an **[OptionButton](../../../api/Outlook.optionbutton.md)** for one of the **MultiSelect** values. The appearance of the **ListBox** changes accordingly, as well as the selection behavior within the **ListBox**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **ListBox** named ListBox1.
+- A **ListBox** named ListBox1.
     
-- A  **[Label](../../../api/Outlook.label.md)** named Label1.
+- A **[Label](../../../api/Outlook.label.md)** named Label1.
     
-- Three  **OptionButton** controls named OptionButton1 through OptionButton3.
+- Three **OptionButton** controls named OptionButton1 through OptionButton3.
     
-- A  **ToggleButton** named ToggleButton1.
+- A **ToggleButton** named ToggleButton1.
     
 
 

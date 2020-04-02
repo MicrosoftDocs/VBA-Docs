@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Visible Property (Outlook Controls)
 
-Returns or sets a  **Boolean** that specifies whether a control is visible or hidden. Read/write.
+Returns or sets a **olean** that specifies whether a control is visible or hidden. Read/write.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ Returns or sets a  **Boolean** that specifies whether a control is visible or hi
 
  **True** if the control is visible (default); **False** if the control is hidden.
 
-Use the  **Visible** property to control access to information without displaying it. For example, you could use the value of a control on a hidden form as the criteria for a query.
+Use the **sible** property to control access to information without displaying it. For example, you could use the value of a control on a hidden form as the criteria for a query.
 
 All controls are visible at design time.
 

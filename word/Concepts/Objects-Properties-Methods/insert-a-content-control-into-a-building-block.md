@@ -13,13 +13,13 @@ Building blocks and content controls are extremely flexible. You can create buil
 
 The objects used in this sample are:
 
--  **[Template](../../../api/Word.Template.md)**
+- **[Template](../../../api/Word.Template.md)**
     
--  **[BuildingBlock](../../../api/Word.BuildingBlock.md)**
+- **[BuildingBlock](../../../api/Word.BuildingBlock.md)**
     
--  **[Range](../../../api/Word.Range.md)**
+- **[Range](../../../api/Word.Range.md)**
     
--  **[ContentControl](../../../api/Word.ContentControl.md)**
+- **[ContentControl](../../../api/Word.ContentControl.md)**
     
 The following code inserts a content control into the active document, and then adds the content control to the collection of building blocks in the template attached to the active document.
 

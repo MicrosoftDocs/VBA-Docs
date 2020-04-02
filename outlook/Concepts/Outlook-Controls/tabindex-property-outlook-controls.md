@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # TabIndex Property (Outlook Controls)
 
-Returns or sets an  **Integer** that specifies the position of a control in the form's tab order. Read/write.
+Returns or sets an **Integer** that specifies the position of a control in the form's tab order. Read/write.
 
 
 ## Syntax
@@ -24,7 +24,7 @@ Returns or sets an  **Integer** that specifies the position of a control in the 
 
 ## Remarks
 
-The  **TabIndex** is an integer from 0 to one less than the number of controls on the form that have a **TabIndex** property. Assigning a **TabIndex** value of less than 0 generates an error. If you assign a **TabIndex** value greater than the largest index value, the system resets the value to the maximum allowable value.
+The **TabIndex** is an integer from 0 to one less than the number of controls on the form that have a **TabIndex** property. Assigning a **TabIndex** value of less than 0 generates an error. If you assign a **TabIndex** value greater than the largest index value, the system resets the value to the maximum allowable value.
 
 The index value of the first object in the tab order is zero.
 

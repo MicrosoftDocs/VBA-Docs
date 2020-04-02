@@ -15,14 +15,14 @@ localization_priority: Normal
 ## To open the Control Toolbox
 
 
-- In the Forms Designer, on the  **Developer** tab, in the **Tools** group, click
+- In the Forms Designer, on the **Developer** tab, in the **Tools** group, click
 ![Control toolbox](../../../images/0548_ZA06045100.gif) **Control Toolbox**.
     
 
 ## To close the Control Toolbox
 
 
-- Click  **Close** (
+- Click **Close** (
 ![Close](../../../images/o12_1088_ZA10030980.gif)) in the upper right corner.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

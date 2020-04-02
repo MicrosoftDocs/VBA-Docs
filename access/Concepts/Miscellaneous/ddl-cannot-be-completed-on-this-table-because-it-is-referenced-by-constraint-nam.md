@@ -2,7 +2,7 @@
 title: DDL cannot be completed on this table because it is referenced by constraint <name> on table <name>. (Error 3803)
 ms.prod: access
 ms.assetid: a572fab0-a33d-3bdc-aa9e-eb63a349a2a1
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

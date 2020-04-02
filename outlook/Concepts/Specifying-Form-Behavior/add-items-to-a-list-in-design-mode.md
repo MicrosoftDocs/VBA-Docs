@@ -9,12 +9,12 @@ localization_priority: Normal
 
 # Add Items to a List in Design Mode
 
-1. In Forms Designer, drag the  **[ListBox](../../../api/Outlook.listbox.md)** or **[ComboBox](../../../api/Outlook.combobox.md)** control from the [Control Toolbox](show-or-hide-the-control-toolbox.md) to the form.
+1. In Forms Designer, drag the **[ListBox](../../../api/Outlook.listbox.md)** or **[ComboBox](../../../api/Outlook.combobox.md)** control from the [Control Toolbox](show-or-hide-the-control-toolbox.md) to the form.
     
-2. Right-click the control, then click  **Properties** on the shortcut menu.
+2. Right-click the control, then click **Properties** on the shortcut menu.
     
-3. In the  **Properties** dialog box, on the **Value** tab, click **Choose Field**, point to the  **User-defined** field set, and then click the custom field to which you want the control bound.
+3. In the **Properties** dialog box, on the **Value** tab, click **Choose Field**, point to the **User-defined** field set, and then click the custom field to which you want the control bound.
     
-4. In the  **Possible values** box, type the values for the items that you want to appear in the list, separated by semicolons.
+4. In the **Possible values** box, type the values for the items that you want to appear in the list, separated by semicolons.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

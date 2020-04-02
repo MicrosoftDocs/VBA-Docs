@@ -12,9 +12,9 @@ localization_priority: Normal
 
 # Change the Accelerator and Caption of a Command Button
 
-This example changes the  **[Accelerator](../../../api/Outlook.commandbutton.accelerator.md)** and **[Caption](../../../api/Outlook.commandbutton.caption.md)** properties of a **[CommandButton](../../../api/Outlook.commandbutton.md)** each time the user clicks the button by using the mouse or the accelerator key. The **[Click](../../../api/Outlook.commandbutton.click.md)** event contains the code to change the **Accelerator** and **Caption** properties.
+This example changes the **[Accelerator](../../../api/Outlook.commandbutton.accelerator.md)** and **[Caption](../../../api/Outlook.commandbutton.caption.md)** properties of a **[CommandButton](../../../api/Outlook.commandbutton.md)** each time the user clicks the button by using the mouse or the accelerator key. The **[Click](../../../api/Outlook.commandbutton.click.md)** event contains the code to change the **Accelerator** and **Caption** properties.
 
-To try this example, paste the code into the Script Editor of a form containing a  **CommandButton** named CommandButton1. To run the code you need to open the form so the **Open** event will activate.
+To try this example, paste the code into the Script Editor of a form containing a **CommandButton** named CommandButton1. To run the code you need to open the form so the **Open** event will activate.
 
 ```vb
 Dim CommandButton1 

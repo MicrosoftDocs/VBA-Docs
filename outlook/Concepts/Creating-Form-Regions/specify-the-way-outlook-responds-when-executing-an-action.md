@@ -28,7 +28,7 @@ The following example assigns  `replyToBlog` as the internal name of a custom ac
 </customActions>
 ```
 
-Note that the child  **method** element of the **action** element can contain one of the following values:
+Note that the child **method** element of the **action** element can contain one of the following values:
 
 | **Value**| **Description**|
 | **open**|Outlook will open the resulting item in the inspector for the user to edit.|

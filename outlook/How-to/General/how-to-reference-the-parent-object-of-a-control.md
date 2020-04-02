@@ -12,13 +12,13 @@ localization_priority: Normal
 
 # Reference the Parent Object of a Control
 
-The following example uses the Microsoft Forms 2.0  **Parent** property to refer to the control, form, or other object that contains a specific control or object.
+The following example uses the Microsoft Forms 2.0 **arent** property to refer to the control, form, or other object that contains a specific control or object.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **pen** event will activate. Make sure that the form contains:
 
-- Two  **[Label](../../../api/Outlook.label.md)** controls named Label1 and Label2.
+- Two **Label](../../../api/Outlook.label.md)** controls named Label1 and Label2.
     
-- A  **[CommandButton](../../../api/Outlook.commandbutton.md)** named CommandButton1.
+- A **CommandButton](../../../api/Outlook.commandbutton.md)** named CommandButton1.
     
 - One or more additional controls of your choice.
     

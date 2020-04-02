@@ -2,7 +2,7 @@
 title: Disk failure while accessing log file <name>. (Error 3473)
 ms.prod: access
 ms.assetid: 3aa4c00d-4ba7-965e-618a-c45299bab7ee
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

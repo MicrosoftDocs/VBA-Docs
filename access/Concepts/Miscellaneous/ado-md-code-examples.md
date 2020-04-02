@@ -2,7 +2,7 @@
 title: ADO MD Code Examples
 ms.prod: access
 ms.assetid: fa3baeda-9ecc-6fdd-219f-ae2f76222e70
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

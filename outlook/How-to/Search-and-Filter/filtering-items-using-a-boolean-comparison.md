@@ -22,7 +22,7 @@ criteria = "[UnRead] = True"
 ```
 
 
- **Note**  If you convert the boolean value to a comparison string by enclosing it in quotation marks, then a Jet filter using any non-empty comparison string and filtering on a boolean property will return items that have the property True. A Jet filter comparing an empty string with a boolean property will return items that have the property False. 
+ **Note** If you convert the boolean value to a comparison string by enclosing it in quotation marks, then a Jet filter using any non-empty comparison string and filtering on a boolean property will return items that have the property True. A Jet filter comparing an empty string with a boolean property will return items that have the property False. 
 
 
 ## DASL Queries

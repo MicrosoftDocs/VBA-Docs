@@ -2,7 +2,7 @@
 title: Cellset example (VB)
 ms.prod: access
 ms.assetid: 59de67e4-0522-f52e-3e5e-2a0df500e343
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

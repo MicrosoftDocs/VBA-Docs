@@ -17,7 +17,7 @@ For example, imagine that your application requires converting the text in all a
 
 The sample code in this topic demonstrates how to solve this particular problem, using the **GetProperty(String)** and **SetProperty(String, Object)** methods of the **Attachment** interface. In each case, you supply a value that contains the MAPI property [PidTagAttachDataBinary](../../../api/overview/Outlook.md) to obtain (and then set) the contents of the attachment.
 
- **Note**  The namespace representation of the **PidTagAttachDataBinary** property is https://schemas.microsoft.com/mapi/proptag/0x37010102. For more information about using the **PropertyAccessor** object on properties that are referenced by namespace, see [Referencing Properties by Namespace](../../How-to/Navigation/referencing-properties-by-namespace.md).
+ **Note** The namespace representation of the **PidTagAttachDataBinary** property is https://schemas.microsoft.com/mapi/proptag/0x37010102. For more information about using the **PropertyAccessor** object on properties that are referenced by namespace, see [Referencing Properties by Namespace](../../How-to/Navigation/referencing-properties-by-namespace.md).
 
 The sample code handles the **ItemSend** event of a mail item. In the custom event handler, for any attachment that has a .txt extension, the code calls the `ConvertAttachmentToUpperCase` method. `ConvertAttachmentToUpperCase` takes an **Attachment** object and a **MailItem** object as input arguments, retrieves a byte array that is filled with the contents of the attachment, converts the byte array to a string, converts the string to uppercase, and then sets the contents of the attachment to the converted string as a byte array.
 

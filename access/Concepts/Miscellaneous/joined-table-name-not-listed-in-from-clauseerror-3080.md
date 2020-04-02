@@ -2,7 +2,7 @@
 title: Joined table <name> not listed in FROM clause. (Error 3080)
 ms.prod: access
 ms.assetid: 186fecef-75b1-d7db-3133-c3b9c90bcd9f
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

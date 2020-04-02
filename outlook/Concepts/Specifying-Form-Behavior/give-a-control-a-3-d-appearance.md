@@ -9,11 +9,11 @@ localization_priority: Normal
 
 # Give a Control a 3-D Appearance
 
-1. In the Forms Designer, right-click the control, and then click  **Advanced Properties**. 
+1. In the Forms Designer, right-click the control, and then click **d Properties**. 
     
-2. In the  **Properties** list, click **SpecialEffect**, and then click the option that you want from the drop-down list box next to the  **Apply** box.
+2. In the **ies** list, click **SpecialEffect**, and then click the option that you want from the drop-down list box next to the        **
     
-     **Note**  The  **SpecialEffect** property is not available for all controls.
-3. Click  **Apply**.
+    ** The        *** property is not available for all controls.
+3. Click **.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
