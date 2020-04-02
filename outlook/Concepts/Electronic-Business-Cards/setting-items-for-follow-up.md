@@ -42,11 +42,9 @@ Once an Outlook item is flagged for follow-up, you can also set the  **[TaskSubj
 
 The  **[TaskItem](../../../api/Outlook.TaskItem.md)** object supports the **[ToDoTaskOrdinal](../../../api/Outlook.TaskItem.ToDoTaskOrdinal.md)** property, so that the display order for Outlook task items displayed on the **To-Do Bar** can also be changed programmatically.
 
-
 ## Filtering Items Marked as Tasks
 
 You can take advantage of the DAV Searching and Locating (DASL) filtering capabilities of Outlook to filter Outlook items marked for follow-up. The following Visual Basic for Applications (VBA) example defines a DASL filter that filters only those Outlook items with an  **IsMarkedAsTask** property value set to **True**, then uses the filter to build a  **[Table](../../../api/Outlook.Table.md)** object containing filtered Outlook items retrieved from the Inbox default folder.
-
 
 ```vb
 Private Sub TableForIsMarkedAsTask() 

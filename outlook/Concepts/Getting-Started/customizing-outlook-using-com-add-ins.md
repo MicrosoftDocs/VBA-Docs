@@ -14,9 +14,8 @@ localization_priority: Normal
 Creating a COM add-in involves two major steps:
 
 1. Implement the  **IDTExtensibility2** interface in a class module of a dynamic link library (DLL).
-    
+
 2. Register the COM add-in.
-   
 
 ## Implement the IDTExtensibility2 Interface
 
@@ -28,13 +27,11 @@ Implements IDTExtensibility2
 
 You can then add the empty event procedures to the code window of the class module and add your own program code to the procedures. You can also copy the empty procedures from an  [Outlook COM Add-in Template](outlook-com-add-in-template.md).
 
-
 ## Register the COM add-in
 
 In order to work with Outlook, the add-in DLL must be registered. The DLL's class ID is registered beneath the \HKEY_CLASSES_ROOT subtree in the registry.
 
 In addition, information about the add-in must be added to the registry. This information provides the add-in's name, description, target application, initial load behavior, and connection state.
-
 
  **Note**  If you use Microsoft Visual Basic 6.0 or later Developer to design your COM add-in, the add-in designer will perform the steps required to register the COM add-in for you.
 
@@ -46,6 +43,7 @@ The following example shows the contents of a sample registry-editor (.reg) file
     "Description"="Sample Outlook Add-In"
     "LoadBehavior"=dword:00000008
 ```
+
 When the COM add-in is first registered,  **LoadBehavior** can be set to any of the following flags.
 
 |Value|Description|

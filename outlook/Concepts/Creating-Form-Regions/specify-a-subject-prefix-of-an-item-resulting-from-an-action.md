@@ -20,7 +20,6 @@ localization_priority: Normal
     
 The following example assigns  `replyToBlog` as the internal name of a custom action, and specifies `Re` as the subject line prefix for the resulting item:
 
-
 ```vb
 <customActions>
     <action name="replyToBlog">

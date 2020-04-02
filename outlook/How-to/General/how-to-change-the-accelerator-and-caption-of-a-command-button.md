@@ -16,8 +16,6 @@ This example changes the  **[Accelerator](../../../api/Outlook.commandbutton.acc
 
 To try this example, paste the code into the Script Editor of a form containing a  **CommandButton** named CommandButton1. To run the code you need to open the form so the **Open** event will activate.
 
-
-
 ```vb
 Dim CommandButton1 
  

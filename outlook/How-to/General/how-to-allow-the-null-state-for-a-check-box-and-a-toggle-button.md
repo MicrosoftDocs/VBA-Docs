@@ -17,13 +17,10 @@ The following example uses the  **TripleState** property to allow Null as a lega
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
 
 - A  **CheckBox** named CheckBox1.
-    
+
 - A  **ToggleButton** named ToggleButton1.
-    
+
 - A  **ToggleButton** named ToggleButton2.
-    
-
-
 
 ```vb
 Sub Item_Open() 

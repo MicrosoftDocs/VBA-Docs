@@ -31,19 +31,16 @@ To use this example, copy this sample code to the Script Editor of a form. To ru
 - A  **[MultiPage](../../../api/Outlook.multipage.md)** named MultiPage1.
     
 - Two  **[OptionButton](../../../api/Outlook.optionbutton.md)** controls named OptionButton1 and OptionButton2.
-    
+
 - A  **[ScrollBar](../../../api/Outlook.scrollbar.md)** named ScrollBar1.
-    
+
 - A  **[SpinButton](../../../api/Outlook.spinbutton.md)** named SpinButton1.
-    
+
 - A  **[TabStrip](../../../api/Outlook.tabstrip.md)** named TabStrip1.
-    
+
 - A  **TextBox** named TextBox2.
-    
+
 - A  **[ToggleButton](../../../api/Outlook.togglebutton.md)** named ToggleButton1.
-    
-
-
 
 ```vb
 Sub CommandButton1_Click() 
@@ -51,7 +48,7 @@ Sub CommandButton1_Click()
  Set Form = Item.GetInspector.ModifiedFormPages("P.2") 
  TextBox1.Text = "Value of " & Form.ActiveControl.Name & " is " & Form.ActiveControl.Value 
 End Sub 
- 
+
 Sub Item_Open() 
  Set CommandButton1 = Item.GetInspector.ModifiedFormPages("P.2").Controls("CommandButton1") 
  Set TextBox1 = Item.GetInspector.ModifiedFormPages("P.2").Controls("TextBox1") 

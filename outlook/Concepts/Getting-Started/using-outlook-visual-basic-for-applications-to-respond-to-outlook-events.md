@@ -20,15 +20,11 @@ Adding an event handler for objects other than the  **Application** object requi
 
 First, you must declare a variable using the  **WithEvents** keyword to identify the object whose event you want to handle. For example, to declare a variable representing the [OutlookBarPane](../../../api/Outlook.OutlookBarPane.md) object, you would add the following to a code module.
 
-
-
 ```vb
 Dim WithEvents myOlBar as Outlook.OutlookBarPane
 ```
 
 You can then select  `myOlBar` in the Objects list of the module window and then select the event in the procedure list. The Visual Basic Editor will then add the template for the event procedure to the module window. You can then type the code you want to run when the event occurs. The following example shows code added to the [BeforeNavigate](../../../api/Outlook.OutlookBarPane.BeforeNavigate.md) event procedure for the **OutlookBarPane** object.
-
-
 
 ```vb
 Private Sub myOlBar_BeforeNavigate(ByVal Shortcut As OutlookBarShortcut, Cancel As Boolean) 
@@ -40,8 +36,6 @@ End Sub
 ```
 
 The final step is to add code to set the object variable to the object whose event you want to handle. This code can exist in a macro, or if you want the event to be handled whenever Outlook runs, you can put it in the  [Startup](../../../api/Outlook.Application.Startup.md) event procedure, as in the following example.
-
-
 
 ```vb
 Private Sub Application_Startup() 

@@ -18,17 +18,12 @@ The Outlook object model provides all of the functionality necessary to manipula
 
 To start an Outlook Automation session, you can use either early or late binding. Late binding uses either the Visual Basic  **GetObject** function or the [CreateObject](../../../api/Outlook.Application.CreateObject.md) function to initialize Outlook. For example, the following code sets an object variable to the Outlook [Application](../../../api/Outlook.Application.md) object, which is the highest-level object in the Outlook object model. All Automation code must first define an Outlook **Application** object to be able to access any other Outlook objects.
 
-
-
-
 ```vb
 Dim objOL as Object 
 Set objOL = CreateObject("Outlook.Application")
 ```
 
 To use early binding, you first need to set a reference to the Outlook object library. Use the Reference command on the Visual Basic for Applications (VBA) Tools menu to set a reference to  **Microsoft Outlook xx.x Object Library**, where  **xx.x** represents the version of Outlook that you are working with. You can then use the following syntax to start an Outlook session.
-
-
 
 ```vb
 Dim objOL as Outlook.Application 
@@ -37,8 +32,6 @@ Set objOL = New Outlook.Application
 
 Most programming solutions interact with the data stored in Outlook. Outlook stores all of its information as items in folders. Folders are contained in one or more stores. After you set an object variable to the Outlook  **Application** object, you will commonly set a [NameSpace](../../../api/Outlook.NameSpace.md) object to refer to MAPI, as shown in the following example.
 
-
-
 ```vb
 Set objOL = New Outlook.Application 
 Set objNS = objOL.GetNameSpace("MAPI") 
@@ -46,8 +39,6 @@ Set objFolder = objNS.GetDefaultFolder(olFolderContacts)
 ```
 
 Once you have set an object variable to reference the folder that contains the items you wish to work with, you use appropriate code to accomplish your task, as shown in the following example.
-
-
 
 ```vb
 Sub CreateNewDefaultOutlookTask() 
@@ -67,8 +58,6 @@ If you are using VBA to create macros, there are two ways you can automate Outlo
  **Caution**  This new instance of Outlook is not trusted and can trigger the object model guard. 
 
 As an alternative to creating and automating a separate instance of Outlook, you can use VBA to implement a macro that automates the current instance of Outlook. To do so, use the  **Application** object intrinsic to the environment. This **Application** object is trusted and can avoid triggering the object model guard. For more information about the object model guard, see [What's New for Developers in Outlook 2007 (Part 1 of 2)](../../../api/overview/Outlook.md). The following example shows the  `CreateAnotherNewDefaultOutlookTask()` method using the **Application** object from the current instance of Outlook.
-
-
 
 ```vb
 Sub CreateAnotherNewDefaultOutlookTask() 

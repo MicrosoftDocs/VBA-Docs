@@ -14,11 +14,9 @@ localization_priority: Normal
 
 The following code example uses the  **[ModifiedFormPages](../../../api/Outlook.Inspector.ModifiedFormPages.md)** property of the current **[Inspector](../../../api/Outlook.Inspector.md)** object to set the Microsoft Forms 2.0 **Name** property of a **[CheckBox](../../../api/Outlook.checkbox.md)** on a page named "Test" to "Selection."
 
-
 ```vb
 Item.GetInspector.ModifiedFormPages("Test").Checkbox1.Name = "Selection"
 ```
-
 
  **Note**  Each control should have a unique name.
 
