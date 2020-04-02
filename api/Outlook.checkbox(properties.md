@@ -2,7 +2,7 @@
 title: CheckBox Properties (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: ef95f051-70b6-471e-8476-12984b73f7d0
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

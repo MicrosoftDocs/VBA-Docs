@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.AcHorizontalAnchor
 ms.assetid: 2b9f0574-252d-7957-d25d-cb382d2cee73
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
