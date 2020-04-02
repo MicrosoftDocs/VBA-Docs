@@ -39,12 +39,12 @@ The following table compares members of the **NameSpace** object and members of 
 
 If you are operating with multiple accounts in the current profile, see the following tasks:
 
--  [How to: Obtain Information for Multiple Accounts](obtain-information-for-multiple-accounts.md)
-    
--  [How to: Identify a Folder with an Account](identify-a-folder-with-an-account.md)
-    
--  [How to: Create a Sendable Item for a Specific Account Based on the Current Folder](create-a-sendable-item-for-a-specific-account-based-on-the-current-folder-outloo.md)
-    
--  [How to: Identify a Global Address List or a Set of Address Lists with a Store](../Address-Book/identify-the-global-address-list-or-a-set-of-address-lists-with-a-store.md)
+- [How to: Obtain Information for Multiple Accounts](obtain-information-for-multiple-accounts.md)
+
+- [How to: Identify a Folder with an Account](identify-a-folder-with-an-account.md)
+
+- [How to: Create a Sendable Item for a Specific Account Based on the Current Folder](create-a-sendable-item-for-a-specific-account-based-on-the-current-folder-outloo.md)
+
+- [How to: Identify a Global Address List or a Set of Address Lists with a Store](../Address-Book/identify-the-global-address-list-or-a-set-of-address-lists-with-a-store.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

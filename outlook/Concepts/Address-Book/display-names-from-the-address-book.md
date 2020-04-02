@@ -27,29 +27,27 @@ The dialog box allows a user to select entries from one or more address lists in
 
 
 - The initial address list to be displayed in the dialog box, and whether to show only this address list.
-    
+
 - The number of recipient selectors, for example, whether to show all three labels of **To**, **Cc**, and **Bcc**.
-    
+
 - The strings representing the title, **To**, **Cc**, and **Bcc** labels where applicable. Long titles and labels will be truncated without resizing the width of the dialog box.
-    
+
 - Whether the user can select one or more address entries at a time.
-    
+
 - Whether to resolve recipient names before closing the dialog box.
-    
+
 - What to do if not all recipients are resolved.
-    
 
 To display the dialog box with names from an address list:
 
-
 1. Use the **[GetSelectNamesDialog](../../../api/Outlook.NameSpace.GetSelectNamesDialog.md)** method of the current session (indicated by **[Application.Session](../../../api/Outlook.Application.Session.md)**) to obtain an instance of the **SelectNamesDialog** object for the current session.
-    
+
 2. Use the **[AddressLists](../../../api/Outlook.NameSpace.AddressLists.md)** property of the current session to obtain the collection of **AddressLists** for the current session.
-    
+
 3. By default, the dialog box is initialized with the address list that has **[AddressList.IsInitialAddressList](../../../api/Outlook.AddressList.IsInitialAddressList.md)** set to **True**. If necessary, you can use **[SelectNamesDialog.InitialAddressList](../../../api/Outlook.SelectNamesDialog.InitialAddressList.md)** to initialize the dialog box with another **AddressList** from the **AddressLists** collection in Step 2.
-    
+
 4. Use **[SelectNamesDialog.Display](../../../api/Outlook.SelectNamesDialog.Display.md)** to display the dialog box. This method returns a **True** or **False** depending on **[SelectNamesDialog.ForceResolution](../../../api/Outlook.SelectNamesDialog.ForceResolution.md)** and the user's response:
-    
+
       - This method returns **True** if **SelectNamesDialog.ForceResolution** is set, all selected names are resolved, and the user clicks **OK**.
     
   - It returns **False** if **SelectNamesDialog.ForceResolution** is set, but not all the recipients are resolved.
