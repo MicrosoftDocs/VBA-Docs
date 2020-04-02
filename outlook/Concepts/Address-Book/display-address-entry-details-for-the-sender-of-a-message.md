@@ -2,7 +2,7 @@
 title: Display Address Entry Details for the Sender of a Message
 ms.prod: outlook
 ms.assetid: 6d8224a6-b565-699a-7e05-f0f9331bf089
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

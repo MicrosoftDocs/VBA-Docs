@@ -16,14 +16,15 @@ The following example uses the **ripleState** property to allow Null as a legal 
 
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **pen** event will activate. Make sure that the form contains:
 
-- A **heckBox** named CheckBox1.
-    
-- A **oggleButton** named ToggleButton1.
-    
-- A **oggleButton** named ToggleButton2.
-    
+- A **CheckBox** named CheckBox1.
 
+- A **ToggleButton** named ToggleButton1.
 
+- A **ToggleButton** named ToggleButton2.
+
+- A  **ToggleButton** named ToggleButton1.
+
+- A  **ToggleButton** named ToggleButton2.
 
 ```vb
 Sub Item_Open() 

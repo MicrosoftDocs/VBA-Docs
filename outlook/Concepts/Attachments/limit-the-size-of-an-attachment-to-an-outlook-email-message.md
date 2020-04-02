@@ -24,8 +24,6 @@ You should use the following code samples in the **ThisAddIn** class of an Outlo
 
 The following code shows how to cancel sending an email if the total attachment size is greater than the specified limit. To demonstrate this functionality, in Visual Studio, create a new managed Outlook add-in named LimitAttachmentSizeAddIn. Replace the code in ThisAddIn.cs or ThisAddIn.vb with the example code shown here.
 
-
-
 ```cs
 using Outlook = Microsoft.Office.Interop.Outlook;
  
@@ -91,8 +89,6 @@ namespace LimitAttachmentSizeAddIn
     }
 }
 ```
-
-
 
 
 ```vb

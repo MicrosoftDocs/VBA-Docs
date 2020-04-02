@@ -84,11 +84,7 @@ To register the form region, create the following value in the Windows registry:
 | **Type**|REG_SZ|
 | **Data**|c:\Form Regions\map.xml|
 
-
-The following lists the content of map.xml: 
-
-
-
+The following lists the content of map.xml:
 
 ```xml
 <?xml version="1.0"?> 

@@ -15,9 +15,6 @@ The method in the code sample,  `GetSMTPAddressForRecipients`, takes a **[MailIt
 
 This topic contains two code samples. The following code sample is written in Microsoft Visual Basic for Applications (VBA). 
 
-
-
-
 ```vb
 Sub GetSMTPAddressForRecipients(mail As Outlook.MailItem) 
     Dim recips As Outlook.Recipients 
@@ -35,8 +32,6 @@ End Sub
 ```
 
 The following managed code is written in C#. To run a .NET Framework managed code sample that needs to call into a Component Object Model (COM), you must use an interop assembly that defines and maps managed interfaces to the COM objects in the object model type library. For Outlook, you can use Visual Studio and the Outlook Primary Interop Assembly (PIA). Before you run managed code samples for Outlook 2013, ensure that you have installed the Outlook 2013 PIA and have added a reference to the Microsoft Outlook 15.0 Object Library component in Visual Studio. You should use the following code in the  `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`. For more information about using the Outlook PIA to develop managed Outlook solutions, see the **Welcome to the Outlook Primary Interop Assembly Reference** on MSDN.
-
-
 
 ```cs
 private void GetSMTPAddressForRecipients(Outlook.MailItem mail) 

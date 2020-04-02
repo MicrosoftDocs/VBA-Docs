@@ -14,7 +14,6 @@ localization_priority: Normal
 
 The following code example provides the empty event procedures required to implement a COM add-in.
 
-
 ```vb
 Implements IDTExtensibility2 
  

@@ -18,9 +18,6 @@ The Message Class field cannot be directly changed using the Outlook user interf
 
 The following Automation code can be used as a basis for developing your own solution. This code assumes that the name of the new form is MyForm. It will change all contacts in your default contacts folder so that they will use MyForm.
 
-
-
-
 ```vb
 Sub ChangeMessageClass() 
 Set olNS = Application.GetNameSpace("MAPI") 
@@ -36,7 +33,6 @@ For Each Itm in ContactItems
 Next 
 End Sub
 ```
-
 
  **Note** If you want to use a folder other than a default folder, use the **[Folders](../../../api/Outlook.Folders.md)** collection object to refer to any folder that is available in your Folder List.
 

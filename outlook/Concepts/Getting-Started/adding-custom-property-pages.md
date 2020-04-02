@@ -32,19 +32,15 @@ When you create the ActiveX control, you populate it with the controls your user
 
 The dialog box in which the custom property page is displayed has three buttons below the property pages: an **OK** button, a **Cancel** button, and an **Apply** button. When the user clicks the **OK** button, changes to properties on all pages in the dialog box are applied and the dialog box is closed. If the user clicks the **Cancel** button, no properties are changed and the dialog box is closed. If the user clicks the **Apply** button, any changes to properties are applied but the dialog box remains open. You should design your property page to respond appropriately when the user clicks these buttons. Later sections in this topic describe how to notify Outlook that the status of your property page has changed and how Outlook notifies your program when the changed property values should be applied.
 
-
 ## Implement the PropertyPage object
 
 The **PropertyPage** object is an abstract object; that is, its interfaces are defined but not implemented by Outlook. If your custom property change will rely on the **Apply** or **Help** button of the parent dialog box, the module that contains the custom property page ActiveX control must implement the **PropertyPage** object. To implement the object, the module must have a reference set to the Outlook object library and must contain the following statement.
-
 
 ```vb
 Implements Outlook.PropertyPage
 ```
 
 The module must then contain code that implements the methods and properties of the **PropertyPage** object. The following table describes these procedures.
-
-
 
 |**Procedure**|**Description**|
 |:-----|:-----|
@@ -55,7 +51,6 @@ The module must then contain code that implements the methods and properties of 
 ## Write a procedure that sets the Dirty property and calls the OnStatusChange method
 
 Most commonly, changes to property values are not applied immediately in response to user interaction with the controls that let the user specify those values. Instead, the values are applied when the user clicks **OK** or **Apply** in the dialog box. The **Apply** button is grayed until the user changes a value on a property page. To notify Outlook that the user has changed a value on your property page, your program should call the **OnStatusChange** method and then return True when Outlook queries the Dirty property.
-
 
 ## Create a COM add-in containing an event procedure for the OptionsPagesAdd event
 
