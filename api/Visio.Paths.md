@@ -33,10 +33,10 @@ If a **Shape** object is a shape, its **Paths** and **PathsLocal** properties in
 
 ## Properties
 
--  [Application](Visio.Paths.Application.md)
--  [Count](Visio.Paths.Count.md)
--  [Item](Visio.Paths.Item.md)
--  [ObjectType](Visio.Paths.ObjectType.md)
+- [Application](Visio.Paths.Application.md)
+- [Count](Visio.Paths.Count.md)
+- [Item](Visio.Paths.Item.md)
+- [ObjectType](Visio.Paths.ObjectType.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

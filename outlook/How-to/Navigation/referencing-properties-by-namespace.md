@@ -2,7 +2,7 @@
 title: Referencing Properties by Namespace
 ms.prod: outlook
 ms.assetid: c1c7bfa9-64d7-81d2-84e7-f0a4c57780b3
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

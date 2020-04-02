@@ -2,7 +2,7 @@
 title: Working with Charts
 ms.prod: word
 ms.assetid: 7afe145a-f8fb-0123-c105-de1dde11db9e
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -14,9 +14,9 @@ In Word 2007 Service Pack 2 (SP2) and later, you can programmatically access and
 
 ## Using the Chart Object
 
-In Word, a chart is represented by a  [Chart](../../../api/Word.Chart.md) object. The [Chart](../../../api/Word.Chart.md) object is contained by an InlineShape or Shape. You can use either the [InlineShapes](../../../api/Word.shapes.md) collection or the [Shapes](../../../api/Word.shapes.md) collection of the [Document](../../../api/Word.Document.md) object to add new or access existing charts. You use the [AddChart](../../../api/overview/Word.md) method for both collections, specifying the chart type and location within the document, to add a new chart.
+In Word, a chart is represented by a [Chart](../../../api/Word.Chart.md) object. The [Chart](../../../api/Word.Chart.md) object is contained by an InlineShape or Shape. You can use either the [InlineShapes](../../../api/Word.shapes.md) collection or the [Shapes](../../../api/Word.shapes.md) collection of the [Document](../../../api/Word.Document.md) object to add new or access existing charts. You use the [AddChart](../../../api/overview/Word.md) method for both collections, specifying the chart type and location within the document, to add a new chart.
 
-You can use the  [HasChart](../../../api/Word.InlineShape.HasChart.md) property to determine if an [InlineShape](../../../api/Word.Shape.md) object or [Shape](../../../api/Word.Shape.md) object contains a chart. If [HasChart](../../../api/Word.InlineShape.HasChart.md) returns True, you can then use the [Chart](../../../api/Word.InlineShape.Chart.md) property to get a reference to a [Chart](../../../api/Word.Chart.md) object that represents the chart. At this point, the implementation is virtually identical as that of Excel and VBA code can be transferred between the two programs in most cases.
+You can use the [HasChart](../../../api/Word.InlineShape.HasChart.md) property to determine if an [InlineShape](../../../api/Word.Shape.md) object or [Shape](../../../api/Word.Shape.md) object contains a chart. If [HasChart](../../../api/Word.InlineShape.HasChart.md) returns True, you can then use the [Chart](../../../api/Word.InlineShape.Chart.md) property to get a reference to a [Chart](../../../api/Word.Chart.md) object that represents the chart. At this point, the implementation is virtually identical as that of Excel and VBA code can be transferred between the two programs in most cases.
 
 For example, the following VBA code example adds a new 2-D stacked column chart to the active worksheet in Excel and sets the chart's source data to the range A1:C3 from the Sheet1 worksheet.
 
@@ -68,13 +68,13 @@ Even though how you work with charts between Excel and Word is nearly identical 
 
 
 
-- Programmatically creating or manipulating a  [ChartData](../../../api/Word.ChartData.md) object in Word requires Excel to run.
+- Programmatically creating or manipulating a [ChartData](../../../api/Word.ChartData.md) object in Word requires Excel to run.
     
 - Chart properties and methods for manipulating the chart sheet are not implemented. The concept of a chart sheet is specific to Excel. Chart sheets are not used in Word, so methods and properties used to reference or manipulate a chart sheet have been disabled for those applications.
     
-- Properties and methods that, in Excel normally take a  [Range](../../../api/Excel.Range(object).md) object reference now take a range address in Word. The [Range](../../../api/Word.Range.md) object in Word is different than the [Range](../../../api/Excel.Range(object).md) object in Excel. To prevent confusion, the charting object model in Word accepts range address strings, such as "='Sheet1'!$A$1:$D$5", in those properties and methods (such as the [SetSourceData](../../../api/Word.Chart.SetSourceData.md) method of the Chart object) that accept Range objects in Excel.
+- Properties and methods that, in Excel normally take a [Range](../../../api/Excel.Range(object).md) object reference now take a range address in Word. The [Range](../../../api/Word.Range.md) object in Word is different than the [Range](../../../api/Excel.Range(object).md) object in Excel. To prevent confusion, the charting object model in Word accepts range address strings, such as "='Sheet1'!$A$1:$D$5", in those properties and methods (such as the [SetSourceData](../../../api/Word.Chart.SetSourceData.md) method of the Chart object) that accept Range objects in Excel.
     
-- A new object,  [ChartData](../../../api/Word.ChartData.md), has been added to the VBA object models for Word to provide access to the underlying linked or embedded data for a chart. Each chart has, associated with it, the data used to draw the chart in Word. The chart data can either be linked from an external Excel workbook, or embedded as part of the chart itself. The  [ChartData](../../../api/Word.ChartData.md) object encapsulates access to the data for a given chart in Word. For example, the following VBA code example displays, and then minimizes, the chart data for each chart contained by the active document in Word.
+- A new object, [ChartData](../../../api/Word.ChartData.md), has been added to the VBA object models for Word to provide access to the underlying linked or embedded data for a chart. Each chart has, associated with it, the data used to draw the chart in Word. The chart data can either be linked from an external Excel workbook, or embedded as part of the chart itself. The [ChartData](../../../api/Word.ChartData.md) object encapsulates access to the data for a given chart in Word. For example, the following VBA code example displays, and then minimizes, the chart data for each chart contained by the active document in Word.
     
 
 

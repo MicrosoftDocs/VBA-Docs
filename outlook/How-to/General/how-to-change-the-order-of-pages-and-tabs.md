@@ -5,7 +5,7 @@ f1_keywords:
 - olfm10.chm3077194
 ms.prod: outlook
 ms.assetid: 5180c30b-e5bb-48b9-ece7-02d5b8d41af0
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -18,9 +18,9 @@ To use this example, copy this sample code to the Script Editor of a form. Make 
 
 - Two **[CommandButton](../../../api/Outlook.commandbutton.md)** controls named CommandButton1 and CommandButton2.
 
-- A  **MultiPage** named MultiPage1.
+- A **MultiPage** named MultiPage1.
 
-- A  **TabStrip** named TabStrip1.
+- A **TabStrip** named TabStrip1.
 
 ```vb
 Dim MyPageOrTab 

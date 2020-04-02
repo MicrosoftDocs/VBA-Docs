@@ -2,7 +2,7 @@
 title: Create a Set of OptionButtons by Using the GroupName Property
 ms.prod: outlook
 ms.assetid: 70cc9ff9-6794-4c9e-beb5-587230cb6b93
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

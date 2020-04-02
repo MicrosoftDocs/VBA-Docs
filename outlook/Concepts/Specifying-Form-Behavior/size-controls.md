@@ -2,14 +2,14 @@
 title: Size Controls
 ms.prod: outlook
 ms.assetid: 9fa0541d-8e8f-4d96-d825-808e30f54766
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Size Controls
 
-1. Select the controls that you want to size to the dominant control. For more information, see  [How to: Select Multiple Controls and the Dominant Control](select-multiple-controls-and-the-dominant-control.md). 
+1. Select the controls that you want to size to the dominant control. For more information, see [How to: Select Multiple Controls and the Dominant Control](select-multiple-controls-and-the-dominant-control.md). 
     
 2. On the **Developer** tab, in the **Arrange** group, click **Size**, click **Make Same Size**, and then click one of the following. 
     

@@ -2,7 +2,7 @@
 title: Standard Fields Overview
 ms.prod: outlook
 ms.assetid: f0d903a3-f404-8511-af3d-d4f3e30f0779
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

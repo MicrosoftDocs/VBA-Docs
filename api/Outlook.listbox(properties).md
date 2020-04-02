@@ -12,60 +12,60 @@ localization_priority: Normal
 ## In this section
 
 
--  [ListBox.BackColor Property (Outlook Forms Script)](Outlook.ListBox.backcolor.md)
+- [ListBox.BackColor Property (Outlook Forms Script)](Outlook.ListBox.backcolor.md)
     
--  [ListBox.BorderColor Property (Outlook Forms Script)](Outlook.ListBox.bordercolor.md)
+- [ListBox.BorderColor Property (Outlook Forms Script)](Outlook.ListBox.bordercolor.md)
     
--  [ListBox.BorderStyle Property (Outlook Forms Script)](Outlook.ListBox.borderstyle.md)
+- [ListBox.BorderStyle Property (Outlook Forms Script)](Outlook.ListBox.borderstyle.md)
     
--  [ListBox.BoundColumn Property (Outlook Forms Script)](Outlook.ListBox.boundcolumn.md)
+- [ListBox.BoundColumn Property (Outlook Forms Script)](Outlook.ListBox.boundcolumn.md)
     
--  [ListBox.Column Property (Outlook Forms Script)](Outlook.ListBox.column.md)
+- [ListBox.Column Property (Outlook Forms Script)](Outlook.ListBox.column.md)
     
--  [ListBox.ColumnCount Property (Outlook Forms Script)](Outlook.ListBox.columncount.md)
+- [ListBox.ColumnCount Property (Outlook Forms Script)](Outlook.ListBox.columncount.md)
     
--  [ListBox.ColumnHeads Property (Outlook Forms Script)](Outlook.ListBox.columnheads.md)
+- [ListBox.ColumnHeads Property (Outlook Forms Script)](Outlook.ListBox.columnheads.md)
     
--  [ListBox.ColumnWidths Property (Outlook Forms Script)](Outlook.ListBox.columnwidths.md)
+- [ListBox.ColumnWidths Property (Outlook Forms Script)](Outlook.ListBox.columnwidths.md)
     
--  [ListBox.Enabled Property (Outlook Forms Script)](Outlook.ListBox.enabled.md)
+- [ListBox.Enabled Property (Outlook Forms Script)](Outlook.ListBox.enabled.md)
     
--  [ListBox.ForeColor Property (Outlook Forms Script)](Outlook.ListBox.forecolor.md)
+- [ListBox.ForeColor Property (Outlook Forms Script)](Outlook.ListBox.forecolor.md)
     
--  [ListBox.IMEMode Property (Outlook Forms Script)](Outlook.ListBox.imemode.md)
+- [ListBox.IMEMode Property (Outlook Forms Script)](Outlook.ListBox.imemode.md)
     
--  [ListBox.IntegralHeight Property (Outlook Forms Script)](Outlook.ListBox.integralheight.md)
+- [ListBox.IntegralHeight Property (Outlook Forms Script)](Outlook.ListBox.integralheight.md)
     
--  [ListBox.List Property (Outlook Forms Script)](Outlook.ListBox.list.md)
+- [ListBox.List Property (Outlook Forms Script)](Outlook.ListBox.list.md)
     
--  [ListBox.ListCount Property (Outlook Forms Script)](Outlook.ListBox.listcount.md)
+- [ListBox.ListCount Property (Outlook Forms Script)](Outlook.ListBox.listcount.md)
     
--  [ListBox.ListIndex Property (Outlook Forms Script)](Outlook.ListBox.listindex.md)
+- [ListBox.ListIndex Property (Outlook Forms Script)](Outlook.ListBox.listindex.md)
     
--  [ListBox.ListStyle Property (Outlook Forms Script)](Outlook.ListBox.liststyle.md)
+- [ListBox.ListStyle Property (Outlook Forms Script)](Outlook.ListBox.liststyle.md)
     
--  [ListBox.Locked Property (Outlook Forms Script)](Outlook.ListBox.locked.md)
+- [ListBox.Locked Property (Outlook Forms Script)](Outlook.ListBox.locked.md)
     
--  [ListBox.MatchEntry Property (Outlook Forms Script)](Outlook.ListBox.matchentry.md)
+- [ListBox.MatchEntry Property (Outlook Forms Script)](Outlook.ListBox.matchentry.md)
     
--  [ListBox.MouseIcon Property (Outlook Forms Script)](Outlook.ListBox.mouseicon.md)
+- [ListBox.MouseIcon Property (Outlook Forms Script)](Outlook.ListBox.mouseicon.md)
     
--  [ListBox.MousePointer Property (Outlook Forms Script)](Outlook.ListBox.mousepointer.md)
+- [ListBox.MousePointer Property (Outlook Forms Script)](Outlook.ListBox.mousepointer.md)
     
--  [ListBox.MultiSelect Property (Outlook Forms Script)](Outlook.ListBox.multiselect.md)
+- [ListBox.MultiSelect Property (Outlook Forms Script)](Outlook.ListBox.multiselect.md)
     
--  [ListBox.Selected Property (Outlook Forms Script)](Outlook.ListBox.selected.md)
+- [ListBox.Selected Property (Outlook Forms Script)](Outlook.ListBox.selected.md)
     
--  [ListBox.SpecialEffect Property (Outlook Forms Script)](Outlook.ListBox.specialeffect.md)
+- [ListBox.SpecialEffect Property (Outlook Forms Script)](Outlook.ListBox.specialeffect.md)
     
--  [ListBox.Text Property (Outlook Forms Script)](Outlook.ListBox.text.md)
+- [ListBox.Text Property (Outlook Forms Script)](Outlook.ListBox.text.md)
     
--  [ListBox.TextAlign Property (Outlook Forms Script)](Outlook.ListBox.textalign.md)
+- [ListBox.TextAlign Property (Outlook Forms Script)](Outlook.ListBox.textalign.md)
     
--  [ListBox.TextColumn Property (Outlook Forms Script)](Outlook.ListBox.textcolumn.md)
+- [ListBox.TextColumn Property (Outlook Forms Script)](Outlook.ListBox.textcolumn.md)
     
--  [ListBox.TopIndex Property (Outlook Forms Script)](Outlook.ListBox.topindex.md)
+- [ListBox.TopIndex Property (Outlook Forms Script)](Outlook.ListBox.topindex.md)
     
--  [ListBox.Value Property (Outlook Forms Script)](Outlook.ListBox.value.md)
+- [ListBox.Value Property (Outlook Forms Script)](Outlook.ListBox.value.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

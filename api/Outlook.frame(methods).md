@@ -12,20 +12,20 @@ localization_priority: Normal
 ## In this section
 
 
--  [Frame.Copy Method (Outlook Forms Script)](Outlook.Frame.copy.md)
+- [Frame.Copy Method (Outlook Forms Script)](Outlook.Frame.copy.md)
     
--  [Frame.Cut Method (Outlook Forms Script)](Outlook.Frame.cut.md)
+- [Frame.Cut Method (Outlook Forms Script)](Outlook.Frame.cut.md)
     
--  [Frame.Paste Method (Outlook Forms Script)](Outlook.Frame.paste.md)
+- [Frame.Paste Method (Outlook Forms Script)](Outlook.Frame.paste.md)
     
--  [Frame.RedoAction Method (Outlook Forms Script)](Outlook.Frame.redoaction.md)
+- [Frame.RedoAction Method (Outlook Forms Script)](Outlook.Frame.redoaction.md)
     
--  [Frame.Repaint Method (Outlook Forms Script)](Outlook.Frame.repaint.md)
+- [Frame.Repaint Method (Outlook Forms Script)](Outlook.Frame.repaint.md)
     
--  [Frame.Scroll Method (Outlook Forms Script)](Outlook.Frame.scroll.md)
+- [Frame.Scroll Method (Outlook Forms Script)](Outlook.Frame.scroll.md)
     
--  [Frame.SetDefaultTabOrder Method (Outlook Forms Script)](Outlook.Frame.setdefaulttaborder.md)
+- [Frame.SetDefaultTabOrder Method (Outlook Forms Script)](Outlook.Frame.setdefaulttaborder.md)
     
--  [Frame.UndoAction Method (Outlook Forms Script)](Outlook.Frame.undoaction.md)
+- [Frame.UndoAction Method (Outlook Forms Script)](Outlook.Frame.undoaction.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

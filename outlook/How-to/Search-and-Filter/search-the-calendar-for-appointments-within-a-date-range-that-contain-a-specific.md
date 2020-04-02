@@ -2,7 +2,7 @@
 title: Search the Calendar for Appointments Within a Date Range that Contain a Specific Word in the Subject
 ms.prod: outlook
 ms.assetid: 92b6f569-e10e-d2cd-c941-0f062183d2bd
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -30,7 +30,7 @@ The  `FindAppts` function in the code sample carries out the search using two di
 8. It sorts and prints the start time of all the final returned appointments.
     
 
-Note that if you want to include appointment items that overlap and do not fall strictly within the specific date range, you should change the first query to one that have appointments begin on or before  `myEnd`, and end on or after  `myStart`. For more information, see  [How to: Search the Calendar for Appointments that Occur Partially or Entirely in a Given Time Period](search-the-calendar-for-appointments-that-occur-partially-or-entirely-in-a-given.md).
+Note that if you want to include appointment items that overlap and do not fall strictly within the specific date range, you should change the first query to one that have appointments begin on or before  `myEnd`, and end on or after  `myStart`. For more information, see [How to: Search the Calendar for Appointments that Occur Partially or Entirely in a Given Time Period](search-the-calendar-for-appointments-that-occur-partially-or-entirely-in-a-given.md).
 
 
 

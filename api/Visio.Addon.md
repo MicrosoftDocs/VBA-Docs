@@ -25,16 +25,16 @@ The default property of an **Addon** object is **Name**.
 
 ## Methods
 
--  [Run](Visio.Addon.Run.md)
+- [Run](Visio.Addon.Run.md)
 
 ## Properties
 
--  [Application](Visio.Addon.Application.md)
--  [Enabled](Visio.Addon.Enabled.md)
--  [Index](Visio.Addon.Index.md)
--  [Name](Visio.Addon.Name.md)
--  [NameU](Visio.Addon.NameU.md)
--  [ObjectType](Visio.Addon.ObjectType.md)
+- [Application](Visio.Addon.Application.md)
+- [Enabled](Visio.Addon.Enabled.md)
+- [Index](Visio.Addon.Index.md)
+- [Name](Visio.Addon.Name.md)
+- [NameU](Visio.Addon.NameU.md)
+- [ObjectType](Visio.Addon.ObjectType.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -2,7 +2,7 @@
 title: Modify a Built-in Action for a Form Region
 ms.prod: outlook
 ms.assetid: c2493139-5c76-6f1c-6cee-7e0907d94c70
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -23,9 +23,9 @@ By default, there are four built-in actions available to a form region: reply, r
 - Disabling the built-in action for the form region.
     
 
-For more information on registering a form region, see  [Specifying Form Regions in the Windows Registry](specifying-form-regions-in-the-windows-registry.md).
+For more information on registering a form region, see [Specifying Form Regions in the Windows Registry](specifying-form-regions-in-the-windows-registry.md).
 
-If customizing a built-in action in the above ways does not suit your needs, then you should consider creating a new custom action. For more information, see  [How to: Create a Custom Action for a Form Region](create-a-custom-action-for-a-form-region.md)
+If customizing a built-in action in the above ways does not suit your needs, then you should consider creating a new custom action. For more information, see [How to: Create a Custom Action for a Form Region](create-a-custom-action-for-a-form-region.md)
 
 ## Identifying Actions for a Form Region
 

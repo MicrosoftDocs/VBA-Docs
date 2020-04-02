@@ -12,6 +12,6 @@ localization_priority: Normal
 ## In this section
 
 
--  [Frame.Click Event (Outlook Forms Script)](Outlook.frame.click.md)
+- [Frame.Click Event (Outlook Forms Script)](Outlook.frame.click.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

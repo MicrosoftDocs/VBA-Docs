@@ -5,7 +5,7 @@ f1_keywords:
 - vbawd10.chm5210109
 ms.prod: word
 ms.assetid: 0d8c9f48-85cc-6744-a699-668040313862
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -22,7 +22,7 @@ End Sub
 ```
 
 
-Although you are encouraged to use VBA keywords to get or set the value of dialog box options, many of the built-in Word dialog boxes have arguments that you can also use to get or set values from a dialog box. For more information, see  [Displaying Built-in Word Dialog Boxes](displaying-built-in-word-dialog-boxes.md).
+Although you are encouraged to use VBA keywords to get or set the value of dialog box options, many of the built-in Word dialog boxes have arguments that you can also use to get or set values from a dialog box. For more information, see [Displaying Built-in Word Dialog Boxes](displaying-built-in-word-dialog-boxes.md).
 
 
 

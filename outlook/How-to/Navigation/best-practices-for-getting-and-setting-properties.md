@@ -2,7 +2,7 @@
 title: Best Practices for Getting and Setting Properties
 ms.prod: outlook
 ms.assetid: ec087bf8-cfac-9b20-3cb2-3bd308c5c63d
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -40,7 +40,7 @@ This section describes the best practices for saving properties on an object:
     
 - For non-item-level objects that do not have a **ve** method (**AddressList**,   **er**, * * **ent**, and ** ** **, calling **[ **e **ccessor.DeleteProperty](../../../api/Outlook.PropertyAccessor.DeleteProperty.md)**, **[P **rt **essor.DeleteProperties](../../../api/Outlook.PropertyAccessor.DeleteProperties.md)**, **Set **ert ** or **SetP **rtie **will implicitly save the properties on the object.
     
-This section describes the best practices for keeping type conversion simple when using the **opertyAccessor** to get and set properties. For definitions of MAPI property types such as **PT_SYSTIME**, see  [Property Types](../../../api/overview/Outlook.md).
+This section describes the best practices for keeping type conversion simple when using the **opertyAccessor** to get and set properties. For definitions of MAPI property types such as **PT_SYSTIME**, see [Property Types](../../../api/overview/Outlook.md).
 
 - Although most Outlook date-time values are stored in Coordinated Universal Time (UTC) format, there is no guarantee that all properties of the MAPI type **_SYSTIME** will always return UTC. Getting a **PT_SYSTIME** property will return a **VT_DATE** value. When setting a **PT_SYSTIME** property, ensure that you are setting the property as a UTC value rather than a local date-time value. The **GetProperty**,   **roperty**, * * **perties**, and ** ** **rties** methods do not perform time zone conversion. Use the helper methods **[PropertyAccessor.LocalTimeToUTC](../../../api/Outlook.PropertyAccessor.LocalTimeToUTC.md)** and **[PropertyAccessor.UTCToLocalTime](../../../api/Outlook.PropertyAccessor.UTCToLocalTime.md)** to perform explicit time zone conversion.
     

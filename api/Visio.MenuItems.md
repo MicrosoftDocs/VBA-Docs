@@ -29,15 +29,15 @@ Unlike other Visio collections, the **MenuItems** collection is indexed starting
 
 ## Methods
 
--  [Add](Visio.MenuItems.Add.md)
--  [AddAt](Visio.MenuItems.AddAt.md)
+- [Add](Visio.MenuItems.Add.md)
+- [AddAt](Visio.MenuItems.AddAt.md)
 
 ## Properties
 
--  [Count](Visio.MenuItems.Count.md)
--  [Item](Visio.MenuItems.Item.md)
--  [Parent](Visio.MenuItems.Parent.md)
--  [ParentItem](Visio.MenuItems.ParentItem.md)
+- [Count](Visio.MenuItems.Count.md)
+- [Item](Visio.MenuItems.Item.md)
+- [Parent](Visio.MenuItems.Parent.md)
+- [ParentItem](Visio.MenuItems.ParentItem.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

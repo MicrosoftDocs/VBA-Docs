@@ -12,7 +12,7 @@ localization_priority: Normal
 ## In this section
 
 
--  [Page Object (Outlook Forms Script)](Outlook.page.md)
+- [Page Object (Outlook Forms Script)](Outlook.page.md)
     
 
 

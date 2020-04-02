@@ -2,7 +2,7 @@
 title: Enumerate Search Folders on All Stores
 ms.prod: outlook
 ms.assetid: 513b0a63-1c0f-480c-214d-7a30be137875
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -13,11 +13,11 @@ This topic describes a code sample that enumerates the search folders on all sto
 
 
 1. The code sample begins by getting all the stores for the current session using the **[NameSpace.Stores](../../../api/Outlook.NameSpace.Stores.md)** property of the current session, `Application.Session`.
-    
+
 2. For each store of this session, it uses **[Store.GetSearchFolders](../../../api/Outlook.Store.GetSearchFolders.md)** to obtain the collection of search folders for that store.
-    
+
 3. For each collection of search folders, it displays the name of each folder.
-    
+
 
 ## Remarks
 

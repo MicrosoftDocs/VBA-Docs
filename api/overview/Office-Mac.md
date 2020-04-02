@@ -28,7 +28,7 @@ Sandboxing restricts the apps from accessing resources outside the app container
 
 ## Creating an installer or putting user content
 
-For instructions on creating an installer for your add-in, please refer to the article here:  [Installing User Content in Office 2016 for Mac](https://macadmins.software/docs/UserContentIn2016.pdf) 
+For instructions on creating an installer for your add-in, please refer to the article here: [nstalling User Content in Office 2016 for Mac](https://macadmins.software/docs/UserContentIn2016.pdf) 
 
 ## New VBA commands for Office 2016 for Mac
 

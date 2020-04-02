@@ -2,7 +2,7 @@
 title: Import Appointment XML Data into Outlook Appointment Objects (Outlook)
 ms.prod: outlook
 ms.assetid: ecfd3849-877b-01ad-2b76-1a54e980f6e2
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -16,18 +16,18 @@ This topic shows how to read appointment data formatted in XML, save the data to
 |
 ![MVP logo](../../../images/MVPLogo_Small_ZA10349011.jpg)
 
-|Helmut Obertanner provided the following code samples. Helmut is a  [Microsoft Most Valuable Professional](https://mvp.microsoft.com/) with expertise in Microsoft Office development tools in Microsoft Visual Studio and Microsoft Office Outlook.|
+|Helmut Obertanner provided the following code samples. Helmut is a [Microsoft Most Valuable Professional](https://mvp.microsoft.com/) with expertise in Microsoft Office development tools in Microsoft Visual Studio and Microsoft Office Outlook.|
 
 
 
-The following managed code samples are written in C# and Visual Basic. To run a .NET Framework managed code sample that needs to call into a Component Object Model (COM), you must use an interop assembly that defines and maps managed interfaces to the COM objects in the object model type library. For Outlook, you can use Visual Studio and the Outlook Primary Interop Assembly (PIA). Before you run managed code samples for Outlook 2013, ensure that you have installed the Outlook 2013 PIA and have added a reference to the Microsoft Outlook 15.0 Object Library component in Visual Studio. You should use the following code samples in the  `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`. For more information about using the Outlook PIA to develop managed Outlook solutions, see the **Welcome to the Outlook Primary Interop Assembly Reference** on MSDN.
-The following code samples contain the  `CreateAppointmentsFromXml` method of the `Sample` class, implemented as part of an Outlook add-in project. Each project adds a reference to the Outlook PIA, which is based on the **Microsoft.Office.Interop.Outlook** namespace.
-The  `CreateAppointmentsFromXml` method accepts two input parameters, _application_ and _xml_:
+The following managed code samples are written in C# and Visual Basic. To run a .NET Framework managed code sample that needs to call into a Component Object Model (COM), you must use an interop assembly that defines and maps managed interfaces to the COM objects in the object model type library. For Outlook, you can use Visual Studio and the Outlook Primary Interop Assembly (PIA). Before you run managed code samples for Outlook 2013, ensure that you have installed the Outlook 2013 PIA and have added a reference to the Microsoft Outlook 15.0 Object Library component in Visual Studio. You should use the following code samples in the `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`. For more information about using the Outlook PIA to develop managed Outlook solutions, see the **Welcome to the Outlook Primary Interop Assembly Reference** on MSDN.
+The following code samples contain the `CreateAppointmentsFromXml` method of the `Sample` class, implemented as part of an Outlook add-in project. Each project adds a reference to the Outlook PIA, which is based on the **Microsoft.Office.Interop.Outlook** namespace.
+The `CreateAppointmentsFromXml` method accepts two input parameters, _application_ and _xml_:
 
 -  _application_ is a trusted Outlook **[Application](../../../api/Outlook.Application.md)** object.
-    
+
 -  _xml_ is either an XML string, or a string that represents a path to a valid XML file. For the purpose of the following code samples, the XML delimits appointment data by using the following XML tags:
-    
+
 
 |**Appointment data**|**Delimiting XML tag**|
 |:-----|:-----|

@@ -12,30 +12,30 @@ localization_priority: Normal
 ## In this section
 
 
--  [ScrollBar.BackColor Property (Outlook Forms Script)](Outlook.scrollbar.backcolor.md)
+- [ScrollBar.BackColor Property (Outlook Forms Script)](Outlook.scrollbar.backcolor.md)
     
--  [ScrollBar.Delay Property (Outlook Forms Script)](Outlook.scrollbar.delay.md)
+- [ScrollBar.Delay Property (Outlook Forms Script)](Outlook.scrollbar.delay.md)
     
--  [ScrollBar.Enabled Property (Outlook Forms Script)](Outlook.scrollbar.enabled.md)
+- [ScrollBar.Enabled Property (Outlook Forms Script)](Outlook.scrollbar.enabled.md)
     
--  [ScrollBar.ForeColor Property (Outlook Forms Script)](Outlook.scrollbar.forecolor.md)
+- [ScrollBar.ForeColor Property (Outlook Forms Script)](Outlook.scrollbar.forecolor.md)
     
--  [ScrollBar.LargeChange Property (Outlook Forms Script)](Outlook.scrollbar.largechange.md)
+- [ScrollBar.LargeChange Property (Outlook Forms Script)](Outlook.scrollbar.largechange.md)
     
--  [ScrollBar.Max Property (Outlook Forms Script)](Outlook.scrollbar.max.md)
+- [ScrollBar.Max Property (Outlook Forms Script)](Outlook.scrollbar.max.md)
     
--  [ScrollBar.Min Property (Outlook Forms Script)](Outlook.scrollbar.min.md)
+- [ScrollBar.Min Property (Outlook Forms Script)](Outlook.scrollbar.min.md)
     
--  [ScrollBar.MouseIcon Property (Outlook Forms Script)](Outlook.scrollbar.mouseicon.md)
+- [ScrollBar.MouseIcon Property (Outlook Forms Script)](Outlook.scrollbar.mouseicon.md)
     
--  [ScrollBar.MousePointer Property (Outlook Forms Script)](Outlook.scrollbar.mousepointer.md)
+- [ScrollBar.MousePointer Property (Outlook Forms Script)](Outlook.scrollbar.mousepointer.md)
     
--  [ScrollBar.Orientation Property (Outlook Forms Script)](Outlook.scrollbar.orientation.md)
+- [ScrollBar.Orientation Property (Outlook Forms Script)](Outlook.scrollbar.orientation.md)
     
--  [ScrollBar.ProportionalThumb Property (Outlook Forms Script)](Outlook.scrollbar.proportionalthumb.md)
+- [ScrollBar.ProportionalThumb Property (Outlook Forms Script)](Outlook.scrollbar.proportionalthumb.md)
     
--  [ScrollBar.SmallChange Property (Outlook Forms Script)](Outlook.scrollbar.smallchange.md)
+- [ScrollBar.SmallChange Property (Outlook Forms Script)](Outlook.scrollbar.smallchange.md)
     
--  [ScrollBar.Value Property (Outlook Forms Script)](Outlook.scrollbar.value.md)
+- [ScrollBar.Value Property (Outlook Forms Script)](Outlook.scrollbar.value.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

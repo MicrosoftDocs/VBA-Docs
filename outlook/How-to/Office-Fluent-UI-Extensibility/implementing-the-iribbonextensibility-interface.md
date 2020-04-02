@@ -2,7 +2,7 @@
 title: Implementing the IRibbonExtensibility Interface
 ms.prod: outlook
 ms.assetid: ad798afe-b3a9-4d03-86b3-b1226d9b55c8
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -76,7 +76,7 @@ To customize the ribbon on all or multiple Outlook message classes, use the foll
     
 - To customize the ribbon on multiple Outlook inspectors, you might have to supply separate ribbon XML for different ribbon IDs depending upon the tab name.
     
-For more information, including examples, about customizing explorer and inspector ribbons, shortcut menus, and Backstage view, see  [Extending the User Interface in Outlook 2010](../../../api/overview/Outlook.md) on the MSDN Web site.
+For more information, including examples, about customizing explorer and inspector ribbons, shortcut menus, and Backstage view, see [Extending the User Interface in Outlook 2010](../../../api/overview/Outlook.md) on the MSDN Web site.
 
 ## See also
 

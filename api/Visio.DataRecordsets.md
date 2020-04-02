@@ -39,27 +39,27 @@ After you have created a data recordset, the connection string and query command
 
 ## Events
 
--  [BeforeDataRecordsetDelete](Visio.DataRecordsets.BeforeDataRecordsetDelete.md)
--  [DataRecordsetAdded](Visio.DataRecordsets.DataRecordsetAdded.md)
--  [DataRecordsetChanged](Visio.DataRecordsets.DataRecordsetChanged.md)
+- [BeforeDataRecordsetDelete](Visio.DataRecordsets.BeforeDataRecordsetDelete.md)
+- [DataRecordsetAdded](Visio.DataRecordsets.DataRecordsetAdded.md)
+- [DataRecordsetChanged](Visio.DataRecordsets.DataRecordsetChanged.md)
 
 ## Methods
 
--  [Add](Visio.DataRecordsets.Add.md)
--  [AddFromConnectionFile](Visio.DataRecordsets.AddFromConnectionFile.md)
--  [AddFromXML](Visio.DataRecordsets.AddFromXML.md)
--  [GetLastDataError](Visio.DataRecordsets.GetLastDataError.md)
+- [Add](Visio.DataRecordsets.Add.md)
+- [AddFromConnectionFile](Visio.DataRecordsets.AddFromConnectionFile.md)
+- [AddFromXML](Visio.DataRecordsets.AddFromXML.md)
+- [GetLastDataError](Visio.DataRecordsets.GetLastDataError.md)
 
 ## Properties
 
--  [Application](Visio.DataRecordsets.Application.md)
--  [Count](Visio.DataRecordsets.Count.md)
--  [Document](Visio.DataRecordsets.Document.md)
--  [EventList](Visio.DataRecordsets.EventList.md)
--  [Item](Visio.DataRecordsets.Item.md)
--  [ItemFromID](Visio.DataRecordsets.ItemFromID.md)
--  [ObjectType](Visio.DataRecordsets.ObjectType.md)
--  [Stat](Visio.DataRecordsets.Stat.md)
+- [Application](Visio.DataRecordsets.Application.md)
+- [Count](Visio.DataRecordsets.Count.md)
+- [Document](Visio.DataRecordsets.Document.md)
+- [EventList](Visio.DataRecordsets.EventList.md)
+- [Item](Visio.DataRecordsets.Item.md)
+- [ItemFromID](Visio.DataRecordsets.ItemFromID.md)
+- [ObjectType](Visio.DataRecordsets.ObjectType.md)
+- [Stat](Visio.DataRecordsets.Stat.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

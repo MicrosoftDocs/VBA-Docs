@@ -5,7 +5,7 @@ f1_keywords:
 - olfm10.chm3077172
 ms.prod: outlook
 ms.assetid: c7d1ac62-3c11-040a-d0f2-1f3e04c89f15
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -17,11 +17,11 @@ The following example defines the **Cycle** property for a **[Frame](../../../ap
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
 - A **Frame** named Frame1.
-    
+
 - A **MultiPage** named MultiPage1 that contains two objects named Page1 and Page2.
-    
+
 - Two **[CommandButton](../../../api/Outlook.commandbutton.md)** controls named CommandButton1 and CommandButton2.
-    
+
 In the form, the **Frame**, and each **Page** of the **MultiPage**, place a couple of controls, so you can see how **Cycle** affects the tab order of the **Frame** and **MultiPage**.
 The user should tab through the controls to observe how **Cycle** affects the tab order. Pressing CommandButton1 extends the tab order to include controls in the **Frame** and **Page** objects. Pressing CommandButton2 restricts the tab order.
 

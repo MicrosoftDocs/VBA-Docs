@@ -2,7 +2,7 @@
 title: Save and Distribute a Form
 ms.prod: outlook
 ms.assetid: 265eb79c-ea22-a864-c1b5-9c7e3c269025
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -21,9 +21,9 @@ To save the layout of the form region, click **Form Region**, and then click **o
 
 For more information, see the following topics:
 
--  [Form Regions](../Outlook-Forms/form-regions.md)
+- [Form Regions](../Outlook-Forms/form-regions.md)
     
--  [How to: Create a Form Region](../Outlook-Forms/create-a-form-region.md)
+- [How to: Create a Form Region](../Outlook-Forms/create-a-form-region.md)
     
 
 ## Forms customized with form pages

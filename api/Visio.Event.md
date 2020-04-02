@@ -33,31 +33,31 @@ Use the **Enabled** property to temporarily disable an event.
 
 ## Methods
 
--  [Delete](Visio.Event.Delete.md)
--  [GetFilterActions](Visio.Event.GetFilterActions.md)
--  [GetFilterCommands](Visio.Event.GetFilterCommands.md)
--  [GetFilterObjects](Visio.Event.GetFilterObjects.md)
--  [GetFilterSRC](Visio.Event.GetFilterSRC.md)
--  [SetFilterActions](Visio.Event.SetFilterActions.md)
--  [SetFilterCommands](Visio.Event.SetFilterCommands.md)
--  [SetFilterObjects](Visio.Event.SetFilterObjects.md)
--  [SetFilterSRC](Visio.Event.SetFilterSRC.md)
--  [Trigger](Visio.Event.Trigger.md)
+- [Delete](Visio.Event.Delete.md)
+- [GetFilterActions](Visio.Event.GetFilterActions.md)
+- [GetFilterCommands](Visio.Event.GetFilterCommands.md)
+- [GetFilterObjects](Visio.Event.GetFilterObjects.md)
+- [GetFilterSRC](Visio.Event.GetFilterSRC.md)
+- [SetFilterActions](Visio.Event.SetFilterActions.md)
+- [SetFilterCommands](Visio.Event.SetFilterCommands.md)
+- [SetFilterObjects](Visio.Event.SetFilterObjects.md)
+- [SetFilterSRC](Visio.Event.SetFilterSRC.md)
+- [Trigger](Visio.Event.Trigger.md)
 
 ## Properties
 
--  [Action](Visio.Event.Action.md)
--  [Application](Visio.Event.Application.md)
--  [Enabled](Visio.Event.Enabled.md)
--  [Event](Visio.Event.Event.md)
--  [EventList](Visio.Event.EventList.md)
--  [ID](Visio.Event.ID.md)
--  [Index](Visio.Event.Index.md)
--  [ObjectType](Visio.Event.ObjectType.md)
--  [Persistable](Visio.Event.Persistable.md)
--  [Persistent](Visio.Event.Persistent.md)
--  [Target](Visio.Event.Target.md)
--  [TargetArgs](Visio.Event.TargetArgs.md)
+- [Action](Visio.Event.Action.md)
+- [Application](Visio.Event.Application.md)
+- [Enabled](Visio.Event.Enabled.md)
+- [Event](Visio.Event.Event.md)
+- [EventList](Visio.Event.EventList.md)
+- [ID](Visio.Event.ID.md)
+- [Index](Visio.Event.Index.md)
+- [ObjectType](Visio.Event.ObjectType.md)
+- [Persistable](Visio.Event.Persistable.md)
+- [Persistent](Visio.Event.Persistent.md)
+- [Target](Visio.Event.Target.md)
+- [TargetArgs](Visio.Event.TargetArgs.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -48,7 +48,7 @@ If the style is 1, an **OptionButton** or **CheckBox** appears at the beginning 
 
 |Name|Description|
 |:-----|:-----|
-| [AddItem](Outlook.ListBox.additem.md)|For a single-column  [ListBox](Outlook.ListBox.md), the **AddItem** method adds an item to the list. For a multicolumn **ListBox**, this method adds a row to the list.|
+| [AddItem](Outlook.ListBox.additem.md)|For a single-column [ListBox](Outlook.ListBox.md), the **AddItem** method adds an item to the list. For a multicolumn **ListBox**, this method adds a row to the list.|
 | [Clear](Outlook.ListBox.clear.md)|Removes all entries in the list in a **ListBox**.|
 | [RemoveItem](Outlook.ListBox.removeitem.md)|Removes a row from the list in a **ListBox**.|
 

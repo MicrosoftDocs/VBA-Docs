@@ -12,6 +12,6 @@ localization_priority: Normal
 ## In this section
 
 
--  [Pages.Count Property (Outlook Forms Script)](Outlook.Pages.count.md)
+- [Pages.Count Property (Outlook Forms Script)](Outlook.Pages.count.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

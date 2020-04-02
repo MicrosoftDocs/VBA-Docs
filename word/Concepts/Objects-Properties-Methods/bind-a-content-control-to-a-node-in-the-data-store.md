@@ -2,7 +2,7 @@
 title: Bind a Content Control to a Node in the Data Store
 ms.prod: word
 ms.assetid: f76bcb03-1361-2235-b3ef-cdd078210698
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ XML mapping is a feature of Word that enables you to create a link between a doc
 
 XML mapping enables you to map an element in a custom XML part that is attached to the document. The data store provides access to all of the custom XML parts that are stored in an open file. You can refer to any node within any custom XML part inside the data store.
 
-For more information about content controls, see  [Working with Content Controls](../Working-with-Word/working-with-content-controls.md).
+For more information about content controls, see [Working with Content Controls](../Working-with-Word/working-with-content-controls.md).
 
 The objects used in this sample are:
 
@@ -34,7 +34,7 @@ The following steps enable you to bind a content control to a node in the docume
 
 1. **Create the content control to bind to a node in the data store.** Content controls are predefined pieces of content. There are several types of content controls, including text blocks, drop-down menus, combo boxes, calendar controls, and pictures. You can map these content controls to an element in an XML file. By using XML Path Language (XPath), you can programmatically map content in an XML file to a content control. This enables you to write a simple and short application to manipulate and modify data in a document. 
 
-   For more information about content controls, see  [Working with Content Controls](../Working-with-Word/working-with-content-controls.md). The following code sample creates a plain-text content control and gives it a title of "MyTitle".
+   For more information about content controls, see [Working with Content Controls](../Working-with-Word/working-with-content-controls.md). The following code sample creates a plain-text content control and gives it a title of "MyTitle".
     
    ```vb
       Dim strTitle As String 

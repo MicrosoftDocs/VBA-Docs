@@ -25,24 +25,24 @@ A shortcut menu (which appears when you click the right mouse button) is represe
 
 ## Methods
 
--  [Delete](Visio.MenuSet.Delete.md)
+- [Delete](Visio.MenuSet.Delete.md)
 
 ## Properties
 
--  [BuiltIn](Visio.MenuSet.BuiltIn.md)
--  [Caption](Visio.MenuSet.Caption.md)
--  [Enabled](Visio.MenuSet.Enabled.md)
--  [Height](Visio.MenuSet.Height.md)
--  [Left](Visio.MenuSet.Left.md)
--  [Menus](Visio.MenuSet.Menus.md)
--  [Parent](Visio.MenuSet.Parent.md)
--  [Position](Visio.MenuSet.Position.md)
--  [Protection](Visio.MenuSet.Protection.md)
--  [RowIndex](Visio.MenuSet.RowIndex.md)
--  [SetID](Visio.MenuSet.SetID.md)
--  [Top](Visio.MenuSet.Top.md)
--  [Visible](Visio.MenuSet.Visible.md)
--  [Width](Visio.MenuSet.Width.md)
+- [BuiltIn](Visio.MenuSet.BuiltIn.md)
+- [Caption](Visio.MenuSet.Caption.md)
+- [Enabled](Visio.MenuSet.Enabled.md)
+- [Height](Visio.MenuSet.Height.md)
+- [Left](Visio.MenuSet.Left.md)
+- [Menus](Visio.MenuSet.Menus.md)
+- [Parent](Visio.MenuSet.Parent.md)
+- [Position](Visio.MenuSet.Position.md)
+- [Protection](Visio.MenuSet.Protection.md)
+- [RowIndex](Visio.MenuSet.RowIndex.md)
+- [SetID](Visio.MenuSet.SetID.md)
+- [Top](Visio.MenuSet.Top.md)
+- [Visible](Visio.MenuSet.Visible.md)
+- [Width](Visio.MenuSet.Width.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

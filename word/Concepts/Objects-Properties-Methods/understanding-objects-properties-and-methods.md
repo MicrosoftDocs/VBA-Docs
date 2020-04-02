@@ -2,7 +2,7 @@
 title: Understanding Objects, Properties, and Methods
 ms.prod: word
 ms.assetid: b79853f7-a497-78eb-4ab0-95b6d7a79912
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -74,7 +74,7 @@ In most cases, methods are actions and properties are qualities. Using a method 
 
 Most objects are returned by returning a single object from the collection. For example, the **[Documents](../../../api/Word.Document.md)** collection contains the open Word documents. You use the **[Documents](../../../api/Word.Application.Documents.md)** property of the **[Application](../../../api/Word.Application.md)** object (the object at the top of the Word object hierarchy) to return the **Documents** collection.
 
-After you access the collection, you can return a single object by using an index value in parentheses (this is similar to how you work with arrays). The index value is usually a number or a name. For more information, see  [Returning an Object from a Collection](../Miscellaneous/returning-an-object-from-a-collection-word.md).
+After you access the collection, you can return a single object by using an index value in parentheses (this is similar to how you work with arrays). The index value is usually a number or a name. For more information, see [Returning an Object from a Collection](../Miscellaneous/returning-an-object-from-a-collection-word.md).
 
 The following example uses the **Documents** property to access the **Documents** collection. The index number is used to return the first document in the **Documents** collection. The **[Close](../../../api/Word.Document.Close(method).md)** method is then applied to the **Document** object to close the first document in the **Documents** collection.
 

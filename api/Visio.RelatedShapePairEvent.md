@@ -27,13 +27,13 @@ When you add or remove a callout relationship from a document, Microsoft Visio f
 
 ## Properties
 
--  [ContainingPage](Visio.RelatedShapePairEvent.ContainingPage.md)
--  [ContainingPageID](Visio.RelatedShapePairEvent.ContainingPageID.md)
--  [Document](Visio.RelatedShapePairEvent.Document.md)
--  [FromShapeID](Visio.RelatedShapePairEvent.FromShapeID.md)
--  [ObjectType](Visio.RelatedShapePairEvent.ObjectType.md)
--  [Stat](Visio.RelatedShapePairEvent.Stat.md)
--  [ToShapeID](Visio.RelatedShapePairEvent.ToShapeID.md)
+- [ContainingPage](Visio.RelatedShapePairEvent.ContainingPage.md)
+- [ContainingPageID](Visio.RelatedShapePairEvent.ContainingPageID.md)
+- [Document](Visio.RelatedShapePairEvent.Document.md)
+- [FromShapeID](Visio.RelatedShapePairEvent.FromShapeID.md)
+- [ObjectType](Visio.RelatedShapePairEvent.ObjectType.md)
+- [Stat](Visio.RelatedShapePairEvent.Stat.md)
+- [ToShapeID](Visio.RelatedShapePairEvent.ToShapeID.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

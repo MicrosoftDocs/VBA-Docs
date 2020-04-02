@@ -25,12 +25,12 @@ The default property of **Colors** is **Item**.
 
 ## Properties
 
--  [Application](Visio.Colors.Application.md)
--  [Count](Visio.Colors.Count.md)
--  [Document](Visio.Colors.Document.md)
--  [Item](Visio.Colors.Item.md)
--  [ObjectType](Visio.Colors.ObjectType.md)
--  [Stat](Visio.Colors.Stat.md)
+- [Application](Visio.Colors.Application.md)
+- [Count](Visio.Colors.Count.md)
+- [Document](Visio.Colors.Document.md)
+- [Item](Visio.Colors.Item.md)
+- [ObjectType](Visio.Colors.ObjectType.md)
+- [Stat](Visio.Colors.Stat.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

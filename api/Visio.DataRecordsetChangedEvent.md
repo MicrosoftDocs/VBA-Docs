@@ -30,15 +30,15 @@ All properties of the **DataRecordsetChangedEvent** object are read-only.
 
 ## Properties
 
--  [Application](Visio.DataRecordsetChangedEvent.Application.md)
--  [DataColumnsAdded](Visio.DataRecordsetChangedEvent.DataColumnsAdded.md)
--  [DataColumnsChanged](Visio.DataRecordsetChangedEvent.DataColumnsChanged.md)
--  [DataColumnsDeleted](Visio.DataRecordsetChangedEvent.DataColumnsDeleted.md)
--  [DataRecordset](Visio.DataRecordsetChangedEvent.DataRecordset.md)
--  [DataRowsAdded](Visio.DataRecordsetChangedEvent.DataRowsAdded.md)
--  [DataRowsDeleted](Visio.DataRecordsetChangedEvent.DataRowsDeleted.md)
--  [ObjectType](Visio.DataRecordsetChangedEvent.ObjectType.md)
--  [Stat](Visio.DataRecordsetChangedEvent.Stat.md)
+- [Application](Visio.DataRecordsetChangedEvent.Application.md)
+- [DataColumnsAdded](Visio.DataRecordsetChangedEvent.DataColumnsAdded.md)
+- [DataColumnsChanged](Visio.DataRecordsetChangedEvent.DataColumnsChanged.md)
+- [DataColumnsDeleted](Visio.DataRecordsetChangedEvent.DataColumnsDeleted.md)
+- [DataRecordset](Visio.DataRecordsetChangedEvent.DataRecordset.md)
+- [DataRowsAdded](Visio.DataRecordsetChangedEvent.DataRowsAdded.md)
+- [DataRowsDeleted](Visio.DataRecordsetChangedEvent.DataRowsDeleted.md)
+- [ObjectType](Visio.DataRecordsetChangedEvent.ObjectType.md)
+- [Stat](Visio.DataRecordsetChangedEvent.Stat.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

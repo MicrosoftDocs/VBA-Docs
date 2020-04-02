@@ -2,7 +2,7 @@
 title: Resources object map (Project)
 ms.prod: project-server
 ms.assetid: a98ea473-b3e0-1968-5718-0f4834d8449b
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -15,13 +15,12 @@ The **Resources** object map for Project shows the child objects of the **Resour
 
 For an overview of the **Application** and **Project** objects, and for details of the **Calendar** and **Tasks** collections, see the following:
 
-
 - **[Application and Projects Object Map](application-and-projects-object-map-project.md)**
-    
+
 - **[Calendars Object Map](calendars-object-map-project.md)**
-    
+
 - **[Tasks Object Map](tasks-object-map-project.md)**
-    
+
 
 ## Resources Object Hierarchy
 

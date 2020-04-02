@@ -2,7 +2,7 @@
 title: Storing Outlook items
 ms.prod: outlook
 ms.assetid: e4a639a4-10b2-7665-9261-19d6e7707e48
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

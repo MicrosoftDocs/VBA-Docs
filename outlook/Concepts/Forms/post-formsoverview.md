@@ -2,7 +2,7 @@
 title: Post Forms Overview
 ms.prod: outlook
 ms.assetid: 6d560721-094d-7f2a-e1df-1e5f3d9127bc
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -16,8 +16,8 @@ A folder that contains posts is usually grouped by the **onversation** field to 
 For more information, see the following topics:
 
 
--  [Form Regions](../Outlook-Forms/form-regions.md)
+- [Form Regions](../Outlook-Forms/form-regions.md)
     
--  [How to: Make Separate Compose and Read Versions for a Form](../Configuring-Forms/make-separate-compose-and-read-versions-for-a-form.md)
+- [How to: Make Separate Compose and Read Versions for a Form](../Configuring-Forms/make-separate-compose-and-read-versions-for-a-form.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

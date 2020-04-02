@@ -36,14 +36,14 @@ The preceding syntax is different from the syntax that you would use for accessi
 
 ## Properties
 
--  [ActiveDocument](Visio.Global.ActiveDocument.md)
--  [ActivePage](Visio.Global.ActivePage.md)
--  [ActiveWindow](Visio.Global.ActiveWindow.md)
--  [Addons](Visio.Global.Addons.md)
--  [Application](Visio.Global.Application.md)
--  [Documents](Visio.Global.Documents.md)
--  [VBE](Visio.Global.Vbe.md)
--  [Windows](Visio.Global.Windows.md)
+- [ActiveDocument](Visio.Global.ActiveDocument.md)
+- [ActivePage](Visio.Global.ActivePage.md)
+- [ActiveWindow](Visio.Global.ActiveWindow.md)
+- [Addons](Visio.Global.Addons.md)
+- [Application](Visio.Global.Application.md)
+- [Documents](Visio.Global.Documents.md)
+- [VBE](Visio.Global.Vbe.md)
+- [Windows](Visio.Global.Windows.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

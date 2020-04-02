@@ -37,17 +37,17 @@ Use the **Points** method to obtain a stream of points that approximate the curv
 
 ## Methods
 
--  [Point](Visio.Curve.Point.md)
--  [PointAndDerivatives](Visio.Curve.PointAndDerivatives.md)
--  [Points](Visio.Curve.Points.md)
+- [Point](Visio.Curve.Point.md)
+- [PointAndDerivatives](Visio.Curve.PointAndDerivatives.md)
+- [Points](Visio.Curve.Points.md)
 
 ## Properties
 
--  [Application](Visio.Curve.Application.md)
--  [Closed](Visio.Curve.Closed.md)
--  [End](Visio.Curve.End.md)
--  [ObjectType](Visio.Curve.ObjectType.md)
--  [Start](Visio.Curve.Start.md)
+- [Application](Visio.Curve.Application.md)
+- [Closed](Visio.Curve.Closed.md)
+- [End](Visio.Curve.End.md)
+- [ObjectType](Visio.Curve.ObjectType.md)
+- [Start](Visio.Curve.Start.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

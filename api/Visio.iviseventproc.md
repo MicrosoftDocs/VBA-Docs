@@ -24,7 +24,7 @@ To handle event notifications in Visio, create a class module that implements th
 
 ## Methods
 
--  [VisEventProc](Visio.IVisEventProc.VisEventProc.md)
+- [VisEventProc](Visio.IVisEventProc.VisEventProc.md)
 
 
 

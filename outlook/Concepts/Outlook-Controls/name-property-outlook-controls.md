@@ -2,7 +2,7 @@
 title: Name Property (Outlook Controls)
 ms.prod: outlook
 ms.assetid: 5abf1af8-4914-6b76-99e6-9f78b46bae73
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

@@ -2,7 +2,7 @@
 title: Specifying Rule Conditions
 ms.prod: outlook
 ms.assetid: 812c131a-fe23-1b8b-5e2d-9459d7102630
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

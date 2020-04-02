@@ -2,7 +2,7 @@
 title: Move a Control to Another Page in the Control Toolbox
 ms.prod: outlook
 ms.assetid: 10c1073e-4888-e198-58f2-5c16822ef778
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

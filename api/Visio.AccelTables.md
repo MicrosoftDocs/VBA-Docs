@@ -31,15 +31,15 @@ An **AccelTable** object is identified in the **AccelTables** collection by its 
 
 ## Methods
 
--  [Add](Visio.AccelTables.Add.md)
--  [AddAtID](Visio.AccelTables.AddAtID.md)
+- [Add](Visio.AccelTables.Add.md)
+- [AddAtID](Visio.AccelTables.AddAtID.md)
 
 ## Properties
 
--  [Count](Visio.AccelTables.Count.md)
--  [Item](Visio.AccelTables.Item.md)
--  [ItemAtID](Visio.AccelTables.ItemAtID.md)
--  [Parent](Visio.AccelTables.Parent.md)
+- [Count](Visio.AccelTables.Count.md)
+- [Item](Visio.AccelTables.Item.md)
+- [ItemAtID](Visio.AccelTables.ItemAtID.md)
+- [Parent](Visio.AccelTables.Parent.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -2,14 +2,14 @@
 title: Overview of the IRibbonUI Object
 ms.prod: outlook
 ms.assetid: ef273431-550f-4ff6-b964-79d05b09bea5
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Overview of the IRibbonUI Object
 
-An add-in can use the  [IRibbonUI](../../../api/Office.IRibbonUI.md) object to invalidate controls or menu items, and to update their content in the corresponding Microsoft Outlook user interface. The add-in specifies callback methods in the XML that [IRibbonExtensibility.GetCustomUI](../../../api/Office.IRibbonExtensibility.GetCustomUI.md) returns. These callback methods handle events for custom controls or custom menu items. 
+An add-in can use the [IRibbonUI](../../../api/Office.IRibbonUI.md) object to invalidate controls or menu items, and to update their content in the corresponding Microsoft Outlook user interface. The add-in specifies callback methods in the XML that [IRibbonExtensibility.GetCustomUI](../../../api/Office.IRibbonExtensibility.GetCustomUI.md) returns. These callback methods handle events for custom controls or custom menu items. 
 
 When Outlook calls one of these methods, it passes an **IRibbonUI** object as a parameter to the callback method. The **IRibbonUI** object is scoped so that the add-in can only invalidate its own controls or menu items that use the object. The add-in cannot invalidate the controls or menu items that another add-in created.
 

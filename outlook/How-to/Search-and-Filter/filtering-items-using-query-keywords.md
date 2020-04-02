@@ -2,7 +2,7 @@
 title: Filtering Items Using Query Keywords
 ms.prod: outlook
 ms.assetid: d7e6b169-c5fd-7acc-f077-658a153a921f
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -38,7 +38,7 @@ Evaluates if a property is null. Returns True if the property is null and False 
 The syntax of **Is Null** is as follows, where _PropertyName_ is the name of a property referenced by namespace:
 
 ```sql
-  [PropertyName] IS NULL
+ [PropertyName] IS NULL
 ```
 
 You can combine the **Is Null** keywords with the **Not** operator to evaluate if a property is not null.

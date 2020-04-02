@@ -2,7 +2,7 @@
 title: Mail Forms Overview
 ms.prod: outlook
 ms.assetid: 05bb4f83-2bf2-1298-3c73-e69ad22fd9c9
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -25,8 +25,8 @@ When you design a mail form, it is important to consider which type of message f
 
 For more information, see the following topics:
 
--  [Form Regions](../Outlook-Forms/form-regions.md)
+- [Form Regions](../Outlook-Forms/form-regions.md)
     
--  [Making Separate Compose and Read Pages](../Configuring-Forms/make-separate-compose-and-read-versions-for-a-form.md)
+- [Making Separate Compose and Read Pages](../Configuring-Forms/make-separate-compose-and-read-versions-for-a-form.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

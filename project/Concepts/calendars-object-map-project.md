@@ -2,7 +2,7 @@
 title: Calendars object map (Project)
 ms.prod: project-server
 ms.assetid: dc7080e2-be59-ea63-096a-65af1737be42
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -17,11 +17,11 @@ For an overview of the **Application** and **Project** objects, and for details 
 
 
 - **[Application and Projects Object Map](application-and-projects-object-map-project.md)**
-    
+
 - **[Resources Object Map](resources-object-map-project.md)**
-    
+
 - **[Tasks Object Map](tasks-object-map-project.md)**
-    
+
 
 ## Calendars Object Hierarchy
 

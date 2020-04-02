@@ -2,7 +2,7 @@
 title: Insert a Content Control into a Building Block
 ms.prod: word
 ms.assetid: f6e917d9-f756-e36e-696f-bc7cf84b92e3
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -49,7 +49,7 @@ End Sub
 
 ## See also
 
--  [Working with Building Blocks](../Working-with-Word/working-with-building-blocks.md)    
--  [Working with Content Controls](../Working-with-Word/working-with-content-controls.md)
+- [Working with Building Blocks](../Working-with-Word/working-with-building-blocks.md)    
+- [Working with Content Controls](../Working-with-Word/working-with-content-controls.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

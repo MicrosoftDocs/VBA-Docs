@@ -12,7 +12,7 @@ localization_priority: Normal
 ## In this section
 
 
--  [Tab Object (Outlook Forms Script)](Outlook.tab.md)
+- [Tab Object (Outlook Forms Script)](Outlook.tab.md)
     
 
 

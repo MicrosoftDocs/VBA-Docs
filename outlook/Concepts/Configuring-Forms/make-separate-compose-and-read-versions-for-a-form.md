@@ -2,7 +2,7 @@
 title: Make Separate Compose and Read Versions for a Form
 ms.prod: outlook
 ms.assetid: 6c533327-ce16-169c-6c6a-dd6cecb0e3fb
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ You can create and edit separate compose and read versions for each page of a fo
 
 When you use form regions to create separate compose and read versions for a form, you must design two separate form regions, one for each version, and then register them independently on the same message class. Properties that you set in the XML manifest indicate which form is for the read-only view and which should be used for compose.
 
-For more information, see  [How to: Create Separate Read and Compose Pages Using Form Regions in a Custom Form](../../How-to/Extending-Forms-and-Form-Regions-Using-Add-ins/create-separate-read-and-compose-pages-using-form-regions-in-a-custom-form.md).
+For more information, see [How to: Create Separate Read and Compose Pages Using Form Regions in a Custom Form](../../How-to/Extending-Forms-and-Form-Regions-Using-Add-ins/create-separate-read-and-compose-pages-using-form-regions-in-a-custom-form.md).
 
 
 ## Forms customized with form pages
@@ -33,7 +33,7 @@ For more information, see  [How to: Create Separate Read and Compose Pages Using
     
 2. Customize pages on the form.
     
-    For more information, see  [How to: Customize Pages on a Form](../Customizing-Forms/customize-pages-on-a-form.md).
+    For more information, see [How to: Customize Pages on a Form](../Customizing-Forms/customize-pages-on-a-form.md).
     
 
  **Note** ou can quickly switch between the two versions by clicking **dit Compose Page** and **Edit Read Page** in the **Design** group. If these commands are not available, you have set the compose and read versions to be the same. To have separate compose and read versions, click **Separate Read Layout** in the **Design** group.

@@ -2,7 +2,7 @@
 title: Searching Items
 ms.prod: outlook
 ms.assetid: f0c24b9d-160e-3218-6979-2071a3135bfc
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

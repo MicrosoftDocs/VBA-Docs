@@ -2,7 +2,7 @@
 title: Add Other Custom Controls to the Control Toolbox
 ms.prod: outlook
 ms.assetid: 96128963-fa68-2704-3818-be66f2ca1f50
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

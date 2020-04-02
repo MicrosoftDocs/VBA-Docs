@@ -12,7 +12,7 @@ localization_priority: Normal
 ## In this section
 
 
--  [CommandButton Object (Outlook Forms Script)](Outlook.commandbutton.md)
+- [CommandButton Object (Outlook Forms Script)](Outlook.commandbutton.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

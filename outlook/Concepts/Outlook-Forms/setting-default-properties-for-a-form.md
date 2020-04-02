@@ -2,7 +2,7 @@
 title: Setting Default Properties for a Form
 ms.prod: outlook
 ms.assetid: dd3dd5c6-bc23-70d5-ae6c-b8a2bb4e9a66
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -12,7 +12,7 @@ localization_priority: Normal
 To set the default properties for a custom form that has form pages, use the **Properties** tab in the Forms Designer.
 
 > [!NOTE] 
-> For more information about how to set the default properties in a Microsoft Outlook form that has form regions as opposed to form pages, see  [How to: Create a Form Region](create-a-form-region.md).
+> For more information about how to set the default properties in a Microsoft Outlook form that has form regions as opposed to form pages, see [How to: Create a Form Region](create-a-form-region.md).
 
 
 The following are the default properties for custom forms that have form pages:

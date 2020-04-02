@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.AcTransformXMLScriptOption
 ms.assetid: c4607d48-d352-6aa4-b576-b2077ad67cfa
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

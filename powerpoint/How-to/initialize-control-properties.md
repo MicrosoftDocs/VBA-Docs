@@ -5,7 +5,7 @@ f1_keywords:
 - vbapp10.chm5192842
 ms.prod: powerpoint
 ms.assetid: d73b960d-bf78-1917-fc54-7b9b7cc7ca10
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -15,8 +15,6 @@ localization_priority: Normal
 You can initialize controls at run time by using Visual Basic code in a macro. For example, you could fill a list box, set text values, or set option buttons.
 
 The following example uses the **AddItem** method to add data to a list box. Then it sets the value of a text box and displays the form.
-
-
 
 ```vb
 Private Sub GetUserName()

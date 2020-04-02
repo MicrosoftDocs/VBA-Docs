@@ -25,17 +25,17 @@ The default property of a **Hyperlinks** collection is **Item**.
 
 ## Methods
 
--  [Add](Visio.Hyperlinks.Add.md)
+- [Add](Visio.Hyperlinks.Add.md)
 
 ## Properties
 
--  [Application](Visio.Hyperlinks.Application.md)
--  [Count](Visio.Hyperlinks.Count.md)
--  [Item](Visio.Hyperlinks.Item.md)
--  [ItemU](Visio.Hyperlinks.ItemU.md)
--  [ObjectType](Visio.Hyperlinks.ObjectType.md)
--  [Shape](Visio.Hyperlinks.Shape.md)
--  [Stat](Visio.Hyperlinks.Stat.md)
+- [Application](Visio.Hyperlinks.Application.md)
+- [Count](Visio.Hyperlinks.Count.md)
+- [Item](Visio.Hyperlinks.Item.md)
+- [ItemU](Visio.Hyperlinks.ItemU.md)
+- [ObjectType](Visio.Hyperlinks.ObjectType.md)
+- [Shape](Visio.Hyperlinks.Shape.md)
+- [Stat](Visio.Hyperlinks.Stat.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

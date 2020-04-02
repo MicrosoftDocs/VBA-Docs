@@ -2,7 +2,7 @@
 title: Form Name and Message Class Overview
 ms.prod: outlook
 ms.assetid: 8f72a998-b0c8-86ba-072b-5326ea785578
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -11,11 +11,11 @@ localization_priority: Normal
 
 The message class is an internal identifier that Microsoft Outlook and Microsoft Exchange use to locate and activate a form.
 
-The message class property determines which folder to route the message to, and which form to activate to view the message. (The message class property corresponds to the MAPI property  [PidTagMessageClass](../../../api/overview/Outlook.md).) 
+The message class property determines which folder to route the message to, and which form to activate to view the message. (The message class property corresponds to the MAPI property [PidTagMessageClass](../../../api/overview/Outlook.md).) 
 
 ## Creating a message class when customizing form regions
 
-Form regions give you more control over how Outlook handles your customized form. Depending on the type of form region that you use when you customize a form, you must create a unique message class for your form. For more information, see  [How to: Create a Form Region](../Outlook-Forms/create-a-form-region.md).
+Form regions give you more control over how Outlook handles your customized form. Depending on the type of form region that you use when you customize a form, you must create a unique message class for your form. For more information, see [How to: Create a Form Region](../Outlook-Forms/create-a-form-region.md).
 
 
 ## Creating a message class when customizing form pages

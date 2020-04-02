@@ -5,14 +5,14 @@ f1_keywords:
 - vbawd10.chm5210327
 ms.prod: word
 ms.assetid: 7884bae3-caa5-79a9-a4a2-c58a6ccb42d2
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Control and Dialog Box Events (Word)
 
-After you have added  [ActiveX controls](../../../api/overview/Word.md)to your dialog box or document, you add event procedures to determine how the controls respond to user actions.
+After you have added [ActiveX controls](../../../api/overview/Word.md)to your dialog box or document, you add event procedures to determine how the controls respond to user actions.
 
 UserForms and controls have a predefined set of events. For example, a command button has a **Click** event that occurs when the user clicks the command button, and UserForms have an **Initialize** event that runs when the form is loaded.
 

@@ -2,14 +2,14 @@
 title: Assign a Control Tip, Caption, or Accelerator Key to a Page or Tab
 ms.prod: outlook
 ms.assetid: 69ea2e05-fa0e-f4b8-c9fb-52cdbb5c0f71
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Assign a Control Tip, Caption, or Accelerator Key to a Page or Tab
 
-This procedure sets properties on a  [Page](../../../api/Outlook.page.md) or [Tab](../../../api/Outlook.tab.md) in a [MultiPage](../../../api/Outlook.page.md) or [TabStrip](../../../api/Outlook.tabstrip.md) control only.
+This procedure sets properties on a [Page](../../../api/Outlook.page.md) or [Tab](../../../api/Outlook.tab.md) in a [MultiPage](../../../api/Outlook.page.md) or [TabStrip](../../../api/Outlook.tabstrip.md) control only.
 
 
 1. In the Forms Designer, select a page or tab in a **MultiPage** or **TabStrip** control. For more information, see [How to: Select and Edit a Control Within a Group](select-and-edit-a-control-within-a-group.md) and [How to: Assign a Control Tip, Caption, or Accelerator Key to a Control](assign-a-control-tip-caption-or-accelerator-key-to-a-control.md). 

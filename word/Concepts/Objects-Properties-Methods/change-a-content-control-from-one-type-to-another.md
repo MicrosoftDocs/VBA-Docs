@@ -2,7 +2,7 @@
 title: Change a Content Control from One Type to Another
 ms.prod: word
 ms.assetid: e89924d4-3088-2e9a-0797-4553e2ff5ff0
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -18,11 +18,11 @@ The content controls that you can create in documents in Word 2007 and later are
 The objects used in this sample are:
 
 
--  [ContentControl](../../../api/Word.ContentControl.md)
+- [ContentControl](../../../api/Word.ContentControl.md)
     
--  [ContentControls](../../../api/Word.ContentControls.md)
+- [ContentControls](../../../api/Word.ContentControls.md)
     
--  [ContentControlListEntries](../../../api/Word.ContentControlListEntries.md)
+- [ContentControlListEntries](../../../api/Word.ContentControlListEntries.md)
     
 The following example inserts a new date content control that contains the current date and then changes it to be a text content control.
 
