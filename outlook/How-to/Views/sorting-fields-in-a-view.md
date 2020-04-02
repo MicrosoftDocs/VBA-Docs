@@ -2,7 +2,7 @@
 title: Sorting Fields in a View
 ms.prod: outlook
 ms.assetid: 23d87740-12eb-aa00-1cf5-4dfa5895722d
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

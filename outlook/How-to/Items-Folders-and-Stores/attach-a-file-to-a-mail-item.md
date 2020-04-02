@@ -2,7 +2,7 @@
 title: Attach a File to a Mail Item
 ms.prod: outlook
 ms.assetid: 1d94629b-e713-92cb-32de-c8910612e861
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

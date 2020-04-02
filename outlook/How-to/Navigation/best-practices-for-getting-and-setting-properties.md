@@ -2,7 +2,7 @@
 title: Best Practices for Getting and Setting Properties
 ms.prod: outlook
 ms.assetid: ec087bf8-cfac-9b20-3cb2-3bd308c5c63d
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

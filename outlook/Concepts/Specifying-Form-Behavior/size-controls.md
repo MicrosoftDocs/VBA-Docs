@@ -2,7 +2,7 @@
 title: Size Controls
 ms.prod: outlook
 ms.assetid: 9fa0541d-8e8f-4d96-d825-808e30f54766
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

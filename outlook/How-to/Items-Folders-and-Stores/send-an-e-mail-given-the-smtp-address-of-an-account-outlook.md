@@ -2,7 +2,7 @@
 title: Send an email given the SMTP address of an account (Outlook)
 ms.prod: outlook
 ms.assetid: 5e5f707d-8771-bd5f-945b-58537732d99a
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

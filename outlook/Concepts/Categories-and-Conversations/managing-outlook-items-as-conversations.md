@@ -2,7 +2,7 @@
 title: Managing Outlook Items as Conversations
 ms.prod: outlook
 ms.assetid: d91959d7-07b2-7952-8e6d-a39422d355e0
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

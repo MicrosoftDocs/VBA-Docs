@@ -2,7 +2,7 @@
 title: Filtering a Custom Field
 ms.prod: outlook
 ms.assetid: 36c0e15a-775d-5ce3-8e61-2a6bd305a746
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

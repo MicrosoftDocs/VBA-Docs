@@ -2,7 +2,7 @@
 title: Set Tab Order of Controls on a Page
 ms.prod: outlook
 ms.assetid: 545b3193-ef77-fbb6-6b48-fa41e74f48bd
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

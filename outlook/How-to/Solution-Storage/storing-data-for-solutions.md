@@ -2,7 +2,7 @@
 title: Storing Data for Solutions
 ms.prod: outlook
 ms.assetid: 58e69983-5718-4dde-64fc-858abd80c9e5
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

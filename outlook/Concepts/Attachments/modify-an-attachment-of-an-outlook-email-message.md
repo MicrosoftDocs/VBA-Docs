@@ -2,7 +2,7 @@
 title: Modify an Attachment of an Outlook Email Message
 ms.prod: outlook
 ms.assetid: f5dac09a-272b-49d6-bf1e-82c3981260ed
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

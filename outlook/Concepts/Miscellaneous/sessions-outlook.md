@@ -2,7 +2,7 @@
 title: Sessions (Outlook)
 ms.prod: outlook
 ms.assetid: aaf2e7e7-719c-47b3-8ff4-dcaf0b1e6eae
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

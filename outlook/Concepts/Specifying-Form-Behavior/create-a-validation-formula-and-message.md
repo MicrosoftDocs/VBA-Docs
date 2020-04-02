@@ -2,7 +2,7 @@
 title: Create a Validation Formula and Message
 ms.prod: outlook
 ms.assetid: d96d09fa-4bb9-019b-1f3c-4cda7a8ab091
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

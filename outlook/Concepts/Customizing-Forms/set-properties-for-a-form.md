@@ -2,7 +2,7 @@
 title: Set Properties for a Form
 ms.prod: outlook
 ms.assetid: 72eddbe8-7143-1668-f86c-8fa2de829eb6
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

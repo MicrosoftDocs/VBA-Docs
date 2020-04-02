@@ -2,7 +2,7 @@
 title: Bind a Content Control to a Node in the Data Store
 ms.prod: word
 ms.assetid: f76bcb03-1361-2235-b3ef-cdd078210698
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

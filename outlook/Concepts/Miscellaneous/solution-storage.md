@@ -2,7 +2,7 @@
 title: Solution Storage
 ms.prod: outlook
 ms.assetid: 6f7a6aa6-4379-4a7e-bf28-65958da9e0a0
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

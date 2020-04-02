@@ -2,7 +2,7 @@
 title: Adjust Spacing for Controls
 ms.prod: outlook
 ms.assetid: 20ce8e5a-19ce-118d-e9c8-b4b2c822cff3
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

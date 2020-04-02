@@ -2,7 +2,7 @@
 title: Calendars object map (Project)
 ms.prod: project-server
 ms.assetid: dc7080e2-be59-ea63-096a-65af1737be42
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

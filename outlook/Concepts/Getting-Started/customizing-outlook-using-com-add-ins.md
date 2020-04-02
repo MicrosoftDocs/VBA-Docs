@@ -5,7 +5,7 @@ f1_keywords:
 - vbaol11.chm5272661
 ms.prod: outlook
 ms.assetid: 84a4f616-3ace-0139-57d5-f0c070064ab2
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -48,12 +48,7 @@ The following example shows the contents of a sample registry-editor (.reg) file
     "Description"="Sample Outlook Add-In"
     "LoadBehavior"=dword:00000008
 ```
-<<<<<<< HEAD
-
-When the COM add-in is first registered,  **LoadBehavior** can be set to any of the following flags.
-=======
 When the COM add-in is first registered, **LoadBehavior** can be set to any of the following flags.
->>>>>>> 4e773a8f17332b1fec1a32d69a283faf1464bae6
 
 |Value|Description|
 |:-----|:-----|

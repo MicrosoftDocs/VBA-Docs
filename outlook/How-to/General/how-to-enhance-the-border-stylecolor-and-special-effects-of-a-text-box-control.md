@@ -5,14 +5,14 @@ f1_keywords:
 - olfm10.chm3077159
 ms.prod: outlook
 ms.assetid: 250de388-e1e8-98a6-95bd-df3ff3eb6a0a
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Enhance the Border Style, Color, and Special Effects of a Text Box Control
 
-The following example demonstrates the **orderColor](../../../api/Outlook.textbox.bordercolor.md)** and **[SpecialEffect](../../../api/Outlook.textbox.specialeffect.md)** properties, showing each border available through these properties. The example also demonstrates how to control color settings by using the **[BackColor](../../../api/Outlook.textbox.backcolor.md)**,  **kStyle](../../../api/Outlook.textbox.backstyle.md)**, * * **Color**, and ** ** **or](../../../api/Outlook.textbox.forecolor.md)** properties.
+The following example demonstrates the **orderColor](../../../api/Outlook.textbox.bordercolor.md)** and **[SpecialEffect](../../../api/Outlook.textbox.specialeffect.md)** properties, showing each border available through these properties. The example also demonstrates how to control color settings by using the **[BackColor](../../../api/Outlook.textbox.backcolor.md)**, **kStyle](../../../api/Outlook.textbox.backstyle.md)**, * * **Color**, and ** ** **or](../../../api/Outlook.textbox.forecolor.md)** properties.
 
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **en** event will activate. Make sure that the form contains:
 

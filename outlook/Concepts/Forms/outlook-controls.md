@@ -2,7 +2,7 @@
 title: Outlook Controls
 ms.prod: outlook
 ms.assetid: ae0731c4-fa57-4295-a8b4-ed70af53dfc7
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

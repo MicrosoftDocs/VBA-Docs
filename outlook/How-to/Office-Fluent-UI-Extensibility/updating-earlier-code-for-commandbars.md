@@ -2,7 +2,7 @@
 title: Updating Earlier Code for CommandBars
 ms.prod: outlook
 ms.assetid: 58bc6957-fa1e-72ac-1836-a2a411e089c2
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
