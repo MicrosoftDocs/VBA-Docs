@@ -26,7 +26,7 @@ The [parameters](../../Glossary/vbe-glossary.md#parameter) for **Property Get**,
     
     Make sure the extra parameter of the  **Property Set** procedure is either a **Variant**, **Object**, class name, or object library type.
     
-- You defined a **Property** procedure with an **Optional** or a **ParamArray** parameter. **ParamArray** and **Optional** parameters aren't permitted in **Property** procedures. Redefine the procedures without using these[keywords](../../Glossary/vbe-glossary.md#keyword).
+- You defined a  **Property** procedure with an **Optional** or a **ParamArray** parameter. **ParamArray** and **Optional** parameters aren't permitted in **Property** procedures. Redefine the procedures without using these[keywords](../../Glossary/vbe-glossary.md#keyword).
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

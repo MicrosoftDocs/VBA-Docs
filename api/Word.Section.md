@@ -29,7 +29,7 @@ With ActiveDocument.Sections(1).PageSetup
 End With
 ```
 
-Use the **Add** method or the **InsertBreak** method to add a new section to a document. The following example adds a new section at the beginning of the active document.
+Use the  **Add** method or the **InsertBreak** method to add a new section to a document. The following example adds a new section at the beginning of the active document.
 
 
 

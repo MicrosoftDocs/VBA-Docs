@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # TextBox.Text Property (Outlook Forms Script)
 
-Returns or sets a **String** that specifies text in the control. Read/write.
+Returns or sets a  **String** that specifies text in the control. Read/write.
 
 
 ## Syntax
 
 _expression_.**Text**
 
-_expression_ A variable that represents a **TextBox** object.
+_expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks

@@ -22,13 +22,13 @@ Represents an order field, used to sort information in a view.
 Use the  **[Add](Outlook.ViewFields.Add.md)** method of the **[OrderFields](Outlook.OrderFields.md)** object to add an Outlook item property to the **SortFields** collection for the following objects derived from the **[View](Outlook.View.md)** object:
 
 
-- **[BusinessCardView](Outlook.businessCardView.md)**
+-  **[BusinessCardView](Outlook.businessCardView.md)**
     
-- **[CardView](Outlook.CardView.md)**
+-  **[CardView](Outlook.CardView.md)**
     
-- **[IconView](Outlook.IconView.md)**
+-  **[IconView](Outlook.IconView.md)**
     
-- **[TableView](Outlook.TableView.md)**
+-  **[TableView](Outlook.TableView.md)**
     
 Use the  **[ViewXMLSchemaName](Outlook.OrderField.ViewXMLSchemaName.md)** property to obtain the name of the order field as referenced in the XML definition of the view.
 

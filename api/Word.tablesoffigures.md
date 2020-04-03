@@ -24,7 +24,7 @@ Use the  **TablesOfFigures** property to return the **TablesOfFigures** collecti
 ActiveDocument.TablesOfFigures.Format = wdTOFClassic
 ```
 
-Use the **Add** method to add a table of figures to a document. A table of figures lists figure captions in the order in which they appear in the document. The following example replaces the selection in the active document with a table of figures that includes caption labels and page numbers.
+Use the  **Add** method to add a table of figures to a document. A table of figures lists figure captions in the order in which they appear in the document. The following example replaces the selection in the active document with a table of figures that includes caption labels and page numbers.
 
 
 

@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Table](Outlook.Table.md) object.
 
 ## Return value
 
-A **Variant** value that is a two-dimensional array representing a set of row and column values from the **Table**. The array is zero-based; an array index (i, j) indexes into the i-th column and j-th row in the array. Columns in the array correspond to columns in the **Table**, and rows in the array correspond to rows in the **Table**. The number of rows in the returned array is the lesser value of _MaxRows_ and the actual number of rows in the **Table**.
+A  **Variant** value that is a two-dimensional array representing a set of row and column values from the **Table**. The array is zero-based; an array index (i, j) indexes into the i-th column and j-th row in the array. Columns in the array correspond to columns in the **Table**, and rows in the array correspond to rows in the **Table**. The number of rows in the returned array is the lesser value of _MaxRows_ and the actual number of rows in the **Table**.
 
 
 ## Remarks
@@ -50,7 +50,7 @@ The values in the columns map to columns in the  **Table**, and are therefore de
 
 ## Example
 
-The following code sample obtains a **Table** by filtering on all items in the Inbox that contain "Office" in the subject. It then uses the **Table.GetArray** method to copy the data from the **Table** to an array, and prints the property value of each item returned.
+The following code sample obtains a  **Table** by filtering on all items in the Inbox that contain "Office" in the subject. It then uses the **Table.GetArray** method to copy the data from the **Table** to an array, and prints the property value of each item returned.
 
 For more information on specifying property names in a filter by namespace reference, see [Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md).
 

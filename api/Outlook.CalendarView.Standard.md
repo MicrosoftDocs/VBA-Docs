@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CalendarView.Standard property (Outlook)
 
-Returns a **Boolean** value that indicates whether the **[CalendarView](Outlook.CalendarView.md)** object is a built-in Outlook view. Read-only.
+Returns a  **Boolean** value that indicates whether the **[CalendarView](Outlook.CalendarView.md)** object is a built-in Outlook view. Read-only.
 
 
 ## Syntax

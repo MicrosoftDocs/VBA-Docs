@@ -21,7 +21,7 @@ Use the  **Footnotes** property to return the **Footnotes** collection. The foll
 ActiveDocument.Footnotes.SwapWithEndnotes
 ```
 
-Use the **Add** method to add a footnote to the **Footnotes** collection. The following example adds a footnote immediately after the selection.
+Use the  **Add** method to add a footnote to the **Footnotes** collection. The following example adds a footnote immediately after the selection.
 
 
 

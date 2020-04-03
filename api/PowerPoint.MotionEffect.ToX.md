@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MotionEffect.ToX property (PowerPoint)
 
-Sets or returns a **Single** that represents the horizontal position of a **[MotionEffect](PowerPoint.MotionEffect.md)** object, specified as a percent of the screen width. Read/write.
+Sets or returns a  **Single** that represents the horizontal position of a **[MotionEffect](PowerPoint.MotionEffect.md)** object, specified as a percent of the screen width. Read/write.
 
 
 ## Syntax

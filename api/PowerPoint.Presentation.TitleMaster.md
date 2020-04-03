@@ -33,7 +33,7 @@ Master
 
 If the presentation doesn't have a title master, an error occurs.
 
-Use the **AdTitleMaster** method to add a title master to a presentation.
+Use the  **AddTitleMaster** method to add a title master to a presentation.
 
 
 ## Example

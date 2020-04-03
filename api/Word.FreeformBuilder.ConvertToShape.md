@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FreeformBuilder.ConvertToShape method (Word)
 
-Creates a shape that has the geometric characteristics of the specified object. Returns a **[Shape](Word.Shape.md)** object that represents the new shape.
+Creates a shape that has the geometric characteristics of the specified object. Returns a  **[Shape](Word.Shape.md)** object that represents the new shape.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a '[FreeformBuilder](Word.Free
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Anchor_|Optional| **Variant**|A **[Range](Word.Range.md)** object that represents the text to which the shape is bound. If Anchor is specified, the anchor is positioned at the beginning of the first paragraph in the anchoring range. If this argument is omitted, the anchoring range is selected automatically and the shape is positioned relative to the top and left edges of the page.|
+| _Anchor_|Optional| **Variant**|A  **[Range](Word.Range.md)** object that represents the text to which the shape is bound. If Anchor is specified, the anchor is positioned at the beginning of the first paragraph in the anchoring range. If this argument is omitted, the anchoring range is selected automatically and the shape is positioned relative to the top and left edges of the page.|
 
 ## Remarks
 

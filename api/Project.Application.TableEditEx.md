@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.TableEditEx method (Project)
 
-Creates, edits, or copies a table that can wrap text and include the **Add New Column** feature.
+Creates, edits, or copies a table that can wrap text and include the  **Add New Column** feature.
 
 
 ## Syntax
@@ -49,7 +49,7 @@ _expression_. `TableEditEx`( `_Name_`, `_TaskTable_`, `_Create_`, `_OverwriteExi
 | _HeaderAutoRowHeightAdjustment_|Optional|**Boolean**|**True** if Project automatically adjusts the row height of the table; otherwise, **False**. The default value is **True**.|
 | _HeaderTextWrap_|Optional|**Boolean**|**True** if Project wraps text in the header of the table; otherwise, **False**. The default value is **True**.|
 | _WrapText_|Optional|**Boolean**|**True** if the table wraps text in the rows; otherwise, **False**.|
-| _ShowAddNewColumn_|Optional|**Boolean**|**True** if the table shows the **Add New Column** feature in the far-right column; otherwise, **False**.|
+| _ShowAddNewColumn_|Optional|**Boolean**|**True** if the table shows the  **Add New Column** feature in the far-right column; otherwise, **False**.|
 
 ## Return value
 
@@ -65,7 +65,7 @@ To make a copy of the active table, see the  **[TableCopy](Project.Application.T
 
 ## Example
 
-The following example creates a table based on the Task Usage table, includes the **Add New Column** feature, and adds the table to the **Table** drop-down menu. The macro adds the Priority field as the second column with a title and width of 12, changes the default date format, and then makes the new table the active view.
+The following example creates a table based on the Task Usage table, includes the  **Add New Column** feature, and adds the table to the **Table** drop-down menu. The macro adds the Priority field as the second column with a title and width of 12, changes the default date format, and then makes the new table the active view.
 
 
 ```vb

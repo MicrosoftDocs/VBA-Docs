@@ -38,6 +38,6 @@ Calling the  **ResizeToFitContents** method is the equivalent of selecting **Let
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this method maps to the following types:
 
 
-- **Microsoft.Office.Interop.Visio.IVPage.ResizeToFitContents()**
+-  **Microsoft.Office.Interop.Visio.IVPage.ResizeToFitContents()**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

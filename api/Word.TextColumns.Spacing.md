@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[TextColumns](Word(textcolu
 
 ## Remarks
 
-After this property has been set for a **TextColumns** object, the **EvenlySpaced** property is set to **True**. To return or set the spacing for a single text column when **EvenlySpaced** is **False**, use the **SpaceAfter** property of the **TextColumn** object.
+After this property has been set for a  **TextColumns** object, the **EvenlySpaced** property is set to **True**. To return or set the spacing for a single text column when **EvenlySpaced** is **False**, use the **SpaceAfter** property of the **TextColumn** object.
 
 
 ## Example

@@ -16,7 +16,7 @@ Returns or sets an  **Integer** that identifies the style of the tabs on the con
 
 _expression_.**Style**
 
-_expression_ A variable that represents a **TabStrip** object.
+_expression_ A variable that represents a  **TabStrip** object.
 
 
 ## Remarks

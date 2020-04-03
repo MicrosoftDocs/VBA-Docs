@@ -29,7 +29,7 @@ If ActiveDocument.Fields.Count >= 1 Then
 End If
 ```
 
-Use the **Add** method to add a field to the **[Fields](Word.fields.md)** collection. The following example inserts a DATE field at the beginning of the selection and then displays the result.
+Use the  **Add** method to add a field to the **[Fields](Word.fields.md)** collection. The following example inserts a DATE field at the beginning of the selection and then displays the result.
 
 
 

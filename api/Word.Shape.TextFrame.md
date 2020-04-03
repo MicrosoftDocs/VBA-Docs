@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.TextFrame property (Word)
 
-Returns a **TextFrame** object that contains the text for the specified shape.
+Returns a  **TextFrame** object that contains the text for the specified shape.
 
 
 ## Syntax

@@ -42,7 +42,7 @@ Integer
 
 ## Remarks
 
-If the ShapeSheet section does not exist, the **AddRows** method creates a section that has blank rows. New cells in new rows are initialized with default formulas, if applicable. Otherwise, a program must include statements to set the formulas for the new cells. An error occurs if the row cannot be added.
+If the ShapeSheet section does not exist, the  **AddRows** method creates a section that has blank rows. New cells in new rows are initialized with default formulas, if applicable. Otherwise, a program must include statements to set the formulas for the new cells. An error occurs if the row cannot be added.
 
 The Visio type library declares the constants for  _RowTag_ in **[VisRowIndices](Visio.visrowindices.md)**.
 

@@ -30,7 +30,7 @@ The syntax of your statement indicates a [variable](../../Glossary/vbe-glossary.
   ```
 
 
-    Although you can use assignment syntax with a **Property Let** procedure or with a **Function** that returns an object or a **Variant** containing an object, you can't use assignment syntax with a **Sub**, **Property Get**, or **Property Set** procedure.
+    Although you can use assignment syntax with a  **Property Let** procedure or with a **Function** that returns an object or a **Variant** containing an object, you can't use assignment syntax with a **Sub**, **Property Get**, or **Property Set** procedure.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

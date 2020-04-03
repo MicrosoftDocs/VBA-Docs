@@ -21,7 +21,7 @@ Use the  **HeadingStyles** property to return the **HeadingStyles** collection. 
 MsgBox ActiveDocument.TablesOfContents(1).HeadingStyles.Count
 ```
 
-Use the **Add** method to add a style to the **HeadingStyles** collection. The following example adds a table of contents at the beginning of the active document and then adds the Title style to the list of styles used to build a table of contents.
+Use the  **Add** method to add a style to the **HeadingStyles** collection. The following example adds a table of contents at the beginning of the active document and then adds the Title style to the list of styles used to build a table of contents.
 
 
 

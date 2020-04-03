@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # CostRateTable.Index property (Project)
 
-Gets the index of a **CostRateTable** object in the containing **CostRateTables** collection. Read-only **Long**.
+Gets the index of a  **CostRateTable** object in the containing **CostRateTables** collection. Read-only **Long**.
 
 
 ## Syntax

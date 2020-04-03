@@ -29,9 +29,9 @@ _expression_ A variable that represents a '[ChartBorder](Word.ChartBorder.md)' o
 The color is specified as an index value into the current color palette, or as one of the following  **[XlColorIndex](Word.xlcolorindex.md)** constants:
 
 
-- **xlColorIndexAutomatic**
+-  **xlColorIndexAutomatic**
     
-- **xlColorIndexNone**
+-  **xlColorIndexNone**
     
 
 ## Example

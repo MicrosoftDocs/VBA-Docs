@@ -29,11 +29,11 @@ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
  **MinorUnitScale** can be one of the following **xlTimeUnit** constants:
 
 
-- **xlMonths**
+-  **xlMonths**
     
-- **xlDays**
+-  **xlDays**
     
-- **xlYears**
+-  **xlYears**
     
 
 ## Example

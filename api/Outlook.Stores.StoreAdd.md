@@ -30,18 +30,18 @@ _expression_ A variable that represents a [Stores](Outlook.Stores.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Store_|Required| **Store**|the **Store** to be added to the current session.|
+| _Store_|Required| **Store**|The  **Store** to be added to the current session.|
 
 ## Remarks
 
 Outlook must be running in order for this event to fire. This event will fire when any of the following occur:
 
 
-- A store is added through the **Open Outlook Data File** dialog box, by selecting **Open** and then **Outlook Data File** on the **File** menu.
+- A store is added through the  **Open Outlook Data File** dialog box, by selecting **Open** and then **Outlook Data File** on the **File** menu.
     
-- A store is added through the **Data Files** tab of the **Account Manager** dialog box.
+- A store is added through the  **Data Files** tab of the **Account Manager** dialog box.
     
-- A store is added successfully by calling the **[Namespace.AddStore](Outlook.NameSpace.AddStore.md)** method.
+- A store is added successfully by calling the  **[Namespace.AddStore](Outlook.NameSpace.AddStore.md)** method.
     
 
 
@@ -50,13 +50,13 @@ This event will not fire when any of the following occurs:
 
 - When Outlook starts and opens a primary or delegate store. 
     
-- If a store is added through the **Mail** applet in the Microsoft Windows Control Panel and Outlook is not running.
+- If a store is added through the  **Mail** applet in the Microsoft Windows Control Panel and Outlook is not running.
     
-- A delegate store is added through the **Avanced** tab of the **Microsoft Exchange Server** dialog box.
+- A delegate store is added through the  **Advanced** tab of the **Microsoft Exchange Server** dialog box.
     
 
 
-You can use this event to determine whether a store has been added and take appropriate actions on items in that store. Otherwise, you would have to resort to polling the **[Stores](Outlook.Stores.md)** collection.
+You can use this event to determine whether a store has been added and take appropriate actions on items in that store. Otherwise, you would have to resort to polling the  **[Stores](Outlook.Stores.md)** collection.
 
 
 ## See also

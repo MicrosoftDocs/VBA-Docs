@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Project.CustomDocumentProperties property (Project)
 
-Gets a **DocumentProperties** collection representing the custom properties of the document. Read-only **Object**.
+Gets a  **DocumentProperties** collection representing the custom properties of the document. Read-only **Object**.
 
 
 ## Syntax

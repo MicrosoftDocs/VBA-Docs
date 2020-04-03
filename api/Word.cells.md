@@ -62,7 +62,7 @@ ActiveDocument.Tables(1).Rows(1).Cells(1).Shading _
 
 Remarks
 
-Use the **Add** method with the **[Rows](Word.rows.md)** or **[Columns](Word.columns.md)** collection to add a row or column of cells. The following example adds a column to the first table in the active document and then inserts numbers into the first column.
+Use the  **Add** method with the **[Rows](Word.rows.md)** or **[Columns](Word.columns.md)** collection to add a row or column of cells. The following example adds a column to the first table in the active document and then inserts numbers into the first column.
 
 
 

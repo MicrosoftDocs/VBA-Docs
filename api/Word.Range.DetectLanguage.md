@@ -30,7 +30,7 @@ The results of the  **DetectLanguage** method are stored in the **LanguageID** p
 
 
 
-When applied to a **Document** object, the **DetectLanguage** method checks all available text in the document (headers, footers, text boxes, and so forth). If the specified text contains a partial sentence, the selection or range is extended to the end of the sentence.
+When applied to a  **Document** object, the **DetectLanguage** method checks all available text in the document (headers, footers, text boxes, and so forth). If the specified text contains a partial sentence, the selection or range is extended to the end of the sentence.
 
 
 

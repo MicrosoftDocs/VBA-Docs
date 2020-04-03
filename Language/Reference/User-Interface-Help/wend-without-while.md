@@ -16,7 +16,7 @@ Every  **Wend** statement must be preceded by a matching **While** statement. Th
 
 
 
-- You used a **Wend** statement without a preceding **While** statement. Check for an unterminated loop nested within the **While...Wend** loop that's causing the error.
+- You used a  **Wend** statement without a preceding **While** statement. Check for an unterminated loop nested within the **While...Wend** loop that's causing the error.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

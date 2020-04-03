@@ -31,7 +31,7 @@ MsoAutoSize
 
 ## Remarks
 
-The value of the **AtoSize** property can be one of the following **MsoAutoSize** constants.
+The value of the  **AutoSize** property can be one of the following **MsoAutoSize** constants.
 
 
 ||

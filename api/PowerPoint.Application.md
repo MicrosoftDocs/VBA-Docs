@@ -19,7 +19,7 @@ Represents the entire Microsoft PowerPoint application.
 
 ## Remarks
 
-the **Application** object contains:
+The  **Application** object contains:
 
 
 - Application-wide settings and options (the name of the active printer, for example).
@@ -28,14 +28,14 @@ the **Application** object contains:
     
 
 
-When you are writing code that will run from PowerPoint, you can use the following properties of the **Aplication** object without the object qualifier: **ActivePresentation**, **ActiveWindow**, **AddIns**, **Presentations**, **SlideShowWindows**, **Windows**.
+When you are writing code that will run from PowerPoint, you can use the following properties of the  **Application** object without the object qualifier: **ActivePresentation**, **ActiveWindow**, **AddIns**, **Presentations**, **SlideShowWindows**, **Windows**.
 
 For example, instead of writing  `Application.ActiveWindow.Height = 200`, you can write  `ActiveWindow.Height = 200`.
 
 
 ## Example
 
-Use the **Aplication** property to return the **Application** object. The following example returns the path to the program file.
+Use the  **Application** property to return the **Application** object. The following example returns the path to the program file.
 
 
 ```vb

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.AutoCorrect method (Project)
 
-Displays the **AtoCorrect** dialog box.
+Displays the  **AutoCorrect** dialog box.
 
 
 ## Syntax

@@ -33,7 +33,7 @@ Use the following procedure to create a custom dialog box:
     
 5.  [Control and Dialog Box Events](../Events-WorksheetFunctions-Shapes/control-and-dialog-box-events.md)
     
-    All controls have a predefined set of events. For example, a command button has a **Cick** event that occurs when the user clicks the command button. You can write event procedures that run when the events occur.
+    All controls have a predefined set of events. For example, a command button has a  **Click** event that occurs when the user clicks the command button. You can write event procedures that run when the events occur.
     
 6.  [Displaying a Custom Dialog Box](displaying-a-custom-dialog-box.md)
     

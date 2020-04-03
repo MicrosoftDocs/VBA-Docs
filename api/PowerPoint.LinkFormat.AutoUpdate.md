@@ -31,7 +31,7 @@ PpUpdateOption
 
 ## Remarks
 
-The value of the **AtoUpdate** property can be one of these **PpUpdateOption** constants.
+The value of the  **AutoUpdate** property can be one of these **PpUpdateOption** constants.
 
 
 

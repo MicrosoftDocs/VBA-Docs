@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AddressEntry.Address property (Outlook)
 
-Returns or sets a **String** representing the email address of the **[AddressEntry](Outlook.AddressEntry.md)**. Read/write.
+Returns or sets a  **String** representing the email address of the **[AddressEntry](Outlook.AddressEntry.md)**. Read/write.
 
 
 ## Syntax

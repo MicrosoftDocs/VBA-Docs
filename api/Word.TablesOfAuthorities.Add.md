@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TablesOfAuthorities.Add method (Word)
 
-Returns a **TableOfAuthorities** object that represents a table of authorities added to a document.
+Returns a  **TableOfAuthorities** object that represents a table of authorities added to a document.
 
 
 ## Syntax

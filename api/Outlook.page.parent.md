@@ -19,7 +19,7 @@ Returns an  **Object** that represents the parent object of the specified page. 
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a **Page** object.
+_expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks

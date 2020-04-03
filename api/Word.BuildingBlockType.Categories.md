@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BuildingBlockType.Categories property (Word)
 
-Returns a **Categories** collection that represents the categories for a building block type. Read-only.
+Returns a  **Categories** collection that represents the categories for a building block type. Read-only.
 
 
 ## Syntax

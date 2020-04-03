@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You tried to perform an operation that is not valid within a transaction. A transaction can be one you create using a **BeginTrans** statements, or an internal transaction created by the Microsoft Access database engine, such as when you delete multiple records in a single operation.
+You tried to perform an operation that is not valid within a transaction. A transaction can be one you create using a  **BeginTrans** statements, or an internal transaction created by the Microsoft Access database engine, such as when you delete multiple records in a single operation.
 
 ## See also
 

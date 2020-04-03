@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormDescription.Name property (Outlook)
 
-Returns or sets a **String** value that represents the display name for a form. Read/write.
+Returns or sets a  **String** value that represents the display name for a form. Read/write.
 
 
 ## Syntax

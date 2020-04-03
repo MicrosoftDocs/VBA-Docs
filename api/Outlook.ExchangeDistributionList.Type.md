@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeDistributionList.Type property (Outlook)
 
-Returns a **String** representing the type of entry for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read/write.
+Returns a  **String** representing the type of entry for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read/write.
 
 
 ## Syntax

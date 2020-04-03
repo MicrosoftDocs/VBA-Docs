@@ -26,20 +26,20 @@ _expression_. `NavigationModuleType`
 
 ## Remarks
 
-This property is typically used when casting a **[NavigationModule](Outlook.NavigationModule.md)** object to one of the following objects in order to access the **NavigationGroups** property:
+This property is typically used when casting a  **[NavigationModule](Outlook.NavigationModule.md)** object to one of the following objects in order to access the **NavigationGroups** property:
 
 
-- **[CalendarModule](Outlook.CalendarModule.md)**
+-  **[CalendarModule](Outlook.CalendarModule.md)**
     
-- **[ContactsModule](Outlook.ContactsModule.md)**
+-  **[ContactsModule](Outlook.ContactsModule.md)**
     
-- **[JournalModule](Outlook.JournalModule.md)**
+-  **[JournalModule](Outlook.JournalModule.md)**
     
-- **[MailModule](Outlook.MailModule.md)**
+-  **[MailModule](Outlook.MailModule.md)**
     
-- **[NotesModule](Outlook.NotesModule.md)**
+-  **[NotesModule](Outlook.NotesModule.md)**
     
-- **[TasksModule](Outlook.TasksModule.md)**
+-  **[TasksModule](Outlook.TasksModule.md)**
     
 
 ## See also

@@ -26,9 +26,9 @@ _expression_ A variable that represents a **[DataFeedConnection](Excel.datafeedc
 
 Following are the types of credentials that may be used:
 
-- **xlCredentialsMethodIntegrated**    
-- **xlCredentialsMethodNone**    
-- **xlCredentialsMethodStored**
+-  **xlCredentialsMethodIntegrated**    
+-  **xlCredentialsMethodNone**    
+-  **xlCredentialsMethodStored**
     
 
 ## Property value

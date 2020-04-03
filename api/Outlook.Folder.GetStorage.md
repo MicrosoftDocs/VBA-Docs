@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folder.GetStorage method (Outlook)
 
-Gets a **[StorageItem](Outlook.StorageItem.md)** object on the parent **[Folder](Outlook.Folder.md)** to store data for an Outlook solution.
+Gets a  **[StorageItem](Outlook.StorageItem.md)** object on the parent **[Folder](Outlook.Folder.md)** to store data for an Outlook solution.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 ## Return value
 
-A **StorageItem** object that is used to store data for a solution.
+A  **StorageItem** object that is used to store data for a solution.
 
 
 ## Remarks

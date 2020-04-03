@@ -21,7 +21,7 @@ Use the  **Rows** property to return the **Rows** collection. The following exam
 ActiveDocument.Tables(1).Rows.Alignment = wdAlignRowCenter
 ```
 
-Use the **Add** method to add a row to a table. The following example inserts a row before the first row in the selection.
+Use the  **Add** method to add a row to a table. The following example inserts a row before the first row in the selection.
 
 
 

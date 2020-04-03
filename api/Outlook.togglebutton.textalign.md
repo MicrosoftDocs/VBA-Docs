@@ -16,7 +16,7 @@ Returns or sets an  **Integer** that specifies how text is aligned in a control.
 
 _expression_.**TextAlign**
 
-_expression_ A variable that represents a **ToggleButton** object.
+_expression_ A variable that represents a  **ToggleButton** object.
 
 
 ## Remarks

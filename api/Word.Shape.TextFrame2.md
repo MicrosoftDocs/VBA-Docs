@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.TextFrame2 property (Word)
 
-Returns a **TextFrame2** object that contains the text for the specified shape. Read-only.
+Returns a  **TextFrame2** object that contains the text for the specified shape. Read-only.
 
 
 ## Syntax

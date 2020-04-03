@@ -51,7 +51,7 @@ For more information about using these enumerated constants for  _Options_ and w
 ## ActiveConnection Argument
 <a name="sectionSection1"> </a>
 
-You can pass in either a **Cnnection** object or a connection string as the _ActiveConnection_ argument.
+You can pass in either a  **Connection** object or a connection string as the _ActiveConnection_ argument.
 
 `recordset .Open Source, ActiveConnection, CursorType, LockType, Options`
 

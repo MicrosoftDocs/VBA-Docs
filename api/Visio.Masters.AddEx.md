@@ -62,7 +62,7 @@ Naming of masters of type  **visTypeThemeColors** and **visTypeThemeEffects** fo
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **AddEx** method to add a new **Master** object of type **visTypeDataGraphic** to the **Masters** collection of the active document.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **AddEx** method to add a new **Master** object of type **visTypeDataGraphic** to the **Masters** collection of the active document.
 
 
 ```vb

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.BCC property (Outlook)
 
-Returns a **String** representing the display list of blind carbon copy (BCC) names for a **[SharingItem](Outlook.SharingItem.md)**. Read/write.
+Returns a  **String** representing the display list of blind carbon copy (BCC) names for a **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

@@ -19,7 +19,7 @@ Represents the color of a one-color object or the foreground or background color
 
 ## Remarks
 
-Use one of the properties listed in the following table to return a **ColorFormat** object.
+Use one of the properties listed in the following table to return a  **ColorFormat** object.
 
 
 

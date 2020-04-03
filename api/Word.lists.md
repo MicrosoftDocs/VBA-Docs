@@ -33,7 +33,7 @@ Set temp1 = ListGalleries(wdNumberGallery).ListTemplates(1)
 ActiveDocument.Lists(2).ApplyListTemplate ListTemplate:=temp1
 ```
 
-When you use a **For Each** loop to enumerate the **Lists** collection, the lists in a document are returned in reverse order. The following example counts the items for each list in the active document, from the bottom of the document upward.
+When you use a  **For Each** loop to enumerate the **Lists** collection, the lists in a document are returned in reverse order. The following example counts the items for each list in the active document, from the bottom of the document upward.
 
 
 
@@ -44,7 +44,7 @@ For Each li In ActiveDocument.Lists
 Next li
 ```
 
-To add a new list to a document, use the **ApplyListTemplate** method with the **[ListFormat](Word.ListFormat.md)** object for a specified range.
+To add a new list to a document, use the  **ApplyListTemplate** method with the **[ListFormat](Word.ListFormat.md)** object for a specified range.
 
 You can manipulate the individual  **[List](Word.List.md)** objects within a document, but for more precise control you should work with the **ListFormat** object.
 

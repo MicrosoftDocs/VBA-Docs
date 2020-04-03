@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # TimeScaleValue.Index property (Project)
 
-Gets the index of a **TimeScaleValue** object in the **TimeScaleValues** containing object. Read-only **Long**.
+Gets the index of a  **TimeScaleValue** object in the **TimeScaleValues** containing object. Read-only **Long**.
 
 
 ## Syntax

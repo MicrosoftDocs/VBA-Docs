@@ -33,7 +33,7 @@ For information about returning a single member of a collection, see [Returning 
 
 ## Example
 
-This example adds the add-in named "Myaddin.ppa" to the list in the **Ad-Ins** dialog box and loads the add-in automatically.
+This example adds the add-in named "Myaddin.ppa" to the list in the  **Add-Ins** dialog box and loads the add-in automatically.
 
 
 ```vb

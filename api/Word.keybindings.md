@@ -26,7 +26,7 @@ For Each aKey In KeyBindings
 Next aKey
 ```
 
-Use the **Add** method to add a **KeyBinding** object to the **KeyBindings** collection. The following example adds the CTRL+ALT+H key combination to the Heading 1 style in the active document.
+Use the  **Add** method to add a **KeyBinding** object to the **KeyBindings** collection. The following example adds the CTRL+ALT+H key combination to the Heading 1 style in the active document.
 
 
 

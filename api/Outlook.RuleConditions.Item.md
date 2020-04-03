@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleConditions.Item method (Outlook)
 
-Obtains a **[RuleCondition](Outlook.RuleCondition.md)** object specified by _Index_ which is a numerical index into the **[RuleConditions](Outlook.RuleConditions.md)** collection.
+Obtains a  **[RuleCondition](Outlook.RuleCondition.md)** object specified by _Index_ which is a numerical index into the **[RuleConditions](Outlook.RuleConditions.md)** collection.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [RuleConditions](Outlook.RuleCondition
 
 ## Return value
 
-A **RuleCondition** object that represents the specified object.
+A  **RuleCondition** object that represents the specified object.
 
 
 ## Remarks

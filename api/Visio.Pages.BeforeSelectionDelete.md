@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[Pages](Visio.Pages.md)** object.
 
 ## Remarks
 
-A **Shape** object can serve as the source object for the **BeforeSelectionDelete** event if the shape's **Type** property is **visTypeGroup** (2) or **visTypePage** (1).
+A  **Shape** object can serve as the source object for the **BeforeSelectionDelete** event if the shape's **Type** property is **visTypeGroup** (2) or **visTypePage** (1).
 
 The  **BeforeSelectionDelete** event indicates that selected shapes are about to be deleted. This notification is sent whether or not any of the shapes are locked; however, locked shapes aren't deleted. To find out if a shape is locked against deletion, check the value of its LockDelete cell.
 

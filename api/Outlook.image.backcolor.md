@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Image.BackColor Property (Outlook Forms Script)
 
-Returns or sets a **Long** that specifies the background color of the object. Read/write.
+Returns or sets a  **Long** that specifies the background color of the object. Read/write.
 
 
 ## Syntax

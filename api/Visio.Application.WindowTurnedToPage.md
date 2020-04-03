@@ -44,8 +44,8 @@ To find an event code for the event that you want to create, see [Event codes](.
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this event maps to the following types:
 
 
-- **Microsoft.Office.Interop.Visio.EApplication_WindowTurnedToPageEventHandler** (the **WindowTurnedToPage** delegate.)
+-  **Microsoft.Office.Interop.Visio.EApplication_WindowTurnedToPageEventHandler** (the **WindowTurnedToPage** delegate.)
     
-- **Microsoft.Office.Interop.Visio.EApplication_Event.WindowTurnedToPage** (the **WindowTurnedToPage** event.)
+-  **Microsoft.Office.Interop.Visio.EApplication_Event.WindowTurnedToPage** (the **WindowTurnedToPage** event.)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

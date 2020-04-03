@@ -51,7 +51,7 @@ _expression_ A variable that represents a **[Find](Word.Find.md)** object.
 
 ## Return value
 
-A **Boolean** value that indicates whether the find operation was successful.
+A  **Boolean** value that indicates whether the find operation was successful.
 
 
 ## Remarks

@@ -23,7 +23,7 @@ For Each d In HangulHanjaDictionaries
 Next d
 ```
 
-Use the **Add** method to add a new custom conversion dictionary to the collection of active custom conversion dictionaries. If there isn't a file with the name specified by **FileName**, Microsoft Word creates it. The following example adds "Hanja1.hhd" to the collection of custom conversion dictionaries.
+Use the  **Add** method to add a new custom conversion dictionary to the collection of active custom conversion dictionaries. If there isn't a file with the name specified by **FileName**, Microsoft Word creates it. The following example adds "Hanja1.hhd" to the collection of custom conversion dictionaries.
 
 
 
@@ -45,7 +45,7 @@ With HangulHanjaDictionaries
 End With
 ```
 
-You set the custom dictionary to which new words are added by using the **ActiveCustomDictionary** property. If you try to set this property to a dictionary that isn't a custom conversion dictionary, an error occurs.
+You set the custom dictionary to which new words are added by using the  **ActiveCustomDictionary** property. If you try to set this property to a dictionary that isn't a custom conversion dictionary, an error occurs.
 
 The  **Maximum** property returns the maximum number of simultaneous custom conversion dictionaries that the application can support. For Word, this maximum is 10.
 

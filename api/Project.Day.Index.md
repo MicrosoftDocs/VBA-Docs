@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Day.Index property (Project)
 
-Gets the index of a **Day** object in the containing **Days** collection. Read-only **Integer**.
+Gets the index of a  **Day** object in the containing **Days** collection. Read-only **Integer**.
 
 
 ## Syntax

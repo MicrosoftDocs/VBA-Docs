@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Comment.Date property (Word)
 
-Returns a **Date** that represents the date and time that a comment was inserted. Read-only.
+Returns a  **Date** that represents the date and time that a comment was inserted. Read-only.
 
 
 ## Syntax

@@ -21,12 +21,12 @@ A collection of  **[Cell](PowerPoint.Cell.md)** objects in a table column or row
 
 Although the collection object is named  **CellRange** and is shown in the Object Browser, this keyword is not used in programming the PowerPoint object model. The keyword **Cells** is used instead.
 
-You cannot programmatically add cells to or delete cells from a PowerPoint table. Use the **AdTable** method with the **Table** object to add a new table. Use the **Add** method of the **Columns** or **Rows** collections to add a column or row to a table. Use the **Delete** method of the **Columns** or **Rows** collections to delete a column or row from a table.
+You cannot programmatically add cells to or delete cells from a PowerPoint table. Use the  **AddTable** method with the **Table** object to add a new table. Use the **Add** method of the **Columns** or **Rows** collections to add a column or row to a table. Use the **Delete** method of the **Columns** or **Rows** collections to delete a column or row from a table.
 
 
 ## Example
 
-Use the **Cells** property to return the **CellRange** collection. This example sets the right border for the cells in the first column of the table to a dashed line style.
+Use the  **Cells** property to return the **CellRange** collection. This example sets the right border for the cells in the first column of the table to a dashed line style.
 
 
 ```vb

@@ -19,7 +19,7 @@ Returns or sets an  **Integer** that specifies how the user can choose or set th
 
 _expression_.**Style**
 
-_expression_ A variable that represents a **CmboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

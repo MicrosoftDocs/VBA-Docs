@@ -52,7 +52,7 @@ The  **Display** method returns the following possible values.
 
 ## Example
 
-This example displays the **About** dialog box for approximately ten seconds.
+This example displays the  **About** dialog box for approximately ten seconds.
 
 
 ```vb

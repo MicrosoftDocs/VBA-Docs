@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Style.CellsSRC property (Visio)
 
-Returns a **Cell** object that represents a ShapeSheet cell identified by section, row, and column indices. Read-only.
+Returns a  **Cell** object that represents a ShapeSheet cell identified by section, row, and column indices. Read-only.
 
 
 ## Syntax

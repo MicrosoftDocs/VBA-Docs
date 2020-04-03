@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.CellsU property (Visio)
 
-Returns a **Cell** object that represents a ShapeSheet cell. Read-only.
+Returns a  **Cell** object that represents a ShapeSheet cell. Read-only.
 
 
 ## Syntax

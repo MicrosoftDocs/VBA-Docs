@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Tables.Add method (Project)
 
-Adds a **Table** object to a **Tables** collection.
+Adds a  **Table** object to a **Tables** collection.
 
 
 ## Syntax

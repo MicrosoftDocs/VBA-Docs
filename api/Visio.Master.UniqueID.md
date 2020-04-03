@@ -31,13 +31,13 @@ String
 
 ## Remarks
 
-A **Master** object always has a unique ID. If you copy a master, the new master has the same unique ID as the original master (as well as the same base ID). However, if you subsequently change the copy, Visio assigns it a new unique ID, but its base ID remains the same.
+A  **Master** object always has a unique ID. If you copy a master, the new master has the same unique ID as the original master (as well as the same base ID). However, if you subsequently change the copy, Visio assigns it a new unique ID, but its base ID remains the same.
 
 Note that if you copy into a stencil a master that has the same unique ID as a master already in the stencil, Visio assigns a new unique ID to the copy. 
 
 For more information about the base ID, see the  **BaseID** property.
 
-You can determine a **Master** object's unique ID by using the following code:
+You can determine a  **Master** object's unique ID by using the following code:
 
 
 

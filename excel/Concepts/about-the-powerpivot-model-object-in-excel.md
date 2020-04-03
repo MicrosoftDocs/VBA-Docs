@@ -157,7 +157,7 @@ Adds a new workbook connection to the model with the same properties as the one 
 
  **Model.CreateModelWorkbookConnection** Method
 
-Calling this method returns a **WorkbookConnection** object of type **ModelConnection**. A model connection connected to the specified table is returned. This type of connection can only be used by query tables in Excel. Table 4 lists the parameters of the  **CreateModelWorkbookConnection** method.
+Calling this method returns a  **WorkbookConnection** object of type **ModelConnection**. A model connection connected to the specified table is returned. This type of connection can only be used by query tables in Excel. Table 4 lists the parameters of the  **CreateModelWorkbookConnection** method.
 
  **Table 4. Parameters of the Model.CreateModelWorkbookConnection method**
 
@@ -187,17 +187,17 @@ Represents changes made to the PPM. The  **ModelChanges** object contains inform
 |**Property**|**Read/Write**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | **Application**|Read-only| **Application**|Returns an object that represents the Microsoft Excel application.|
-| **ColumnsAdded**|Read-only| **ModelColumnNames**|Returns a **ModelColumnNames** collection of **ModelColumnName** objects which represent all columns added as part of a model operation.|
-| **ColumnsChanged**|Read-only| **ModelColumnChanges**|Returns a **ModelColumnChanges** collection of **ModelColumnChange** objects which represent table names and column names of all table columns for which the data type was changed as part of a model operation.|
-| **ColumnsDeleted**|Read-only| **ModelColumnNames**|Returns a **ModelColumnNames** collection of **ModelColumnName** objects which represent all columns which were deleted as part of a model operation.|
+| **ColumnsAdded**|Read-only| **ModelColumnNames**|Returns a  **ModelColumnNames** collection of **ModelColumnName** objects which represent all columns added as part of a model operation.|
+| **ColumnsChanged**|Read-only| **ModelColumnChanges**|Returns a  **ModelColumnChanges** collection of **ModelColumnChange** objects which represent table names and column names of all table columns for which the data type was changed as part of a model operation.|
+| **ColumnsDeleted**|Read-only| **ModelColumnNames**|Returns a  **ModelColumnNames** collection of **ModelColumnName** objects which represent all columns which were deleted as part of a model operation.|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
-| **MeasuresAdded**|Read-only| **ModelMeasureNames**|Returns a **ModelMeasureNames** collection of **ModelMeasureName** objects which represent all measures which were added as part of a model operation.|
+| **MeasuresAdded**|Read-only| **ModelMeasureNames**|Returns a  **ModelMeasureNames** collection of **ModelMeasureName** objects which represent all measures which were added as part of a model operation.|
 | **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelChanges** object.|
 | **RelationshipChange**|Read-only| **Boolean**|When  **True**, one or more relationships in the model were changed (added, deleted or modified) as part of a model operation. When  **False**, no relationships were changed during the operation.|
-| **TableNamesChanged**|Read-only| **ModelTableNameChanges**|Returns a **ModelTableNameChanges** collection of **ModelTableNameChange** objects that represents old and new names of all tables which were renamed in the model as part of a model operation.|
-| **TablesAdded**|Read-only| **ModelTableNames**|Returns a **ModelTableNames** collection of table names as strings that represents all tables which were added to the model as part of a model operation.|
-| **TablesDeleted**|Read-only| **ModelTableNames**|Returns a **ModelTableNames** collection of table names as strings that represents all tables which were deleted from the model as part of a model operation.|
-| **TablesModified**|Read-only| **ModelTableNames**|Returns a **ModelTableNames** collection of table names as strings that represents all tables which were refreshed or recalculated as part of a model operation.|
+| **TableNamesChanged**|Read-only| **ModelTableNameChanges**|Returns a  **ModelTableNameChanges** collection of **ModelTableNameChange** objects that represents old and new names of all tables which were renamed in the model as part of a model operation.|
+| **TablesAdded**|Read-only| **ModelTableNames**|Returns a  **ModelTableNames** collection of table names as strings that represents all tables which were added to the model as part of a model operation.|
+| **TablesDeleted**|Read-only| **ModelTableNames**|Returns a  **ModelTableNames** collection of table names as strings that represents all tables which were deleted from the model as part of a model operation.|
+| **TablesModified**|Read-only| **ModelTableNames**|Returns a  **ModelTableNames** collection of table names as strings that represents all tables which were refreshed or recalculated as part of a model operation.|
 | **UnknownChange**|Read-only| **Boolean**| **True** when a non-specified change was made to the model as part of a model transaction.|
 
 ### ModelColumnChanges Collection
@@ -371,8 +371,8 @@ Adds a relationship to the  **ModelRelationships** collection. Table 17 lists th
 
 |**Name**|**Required/Optional**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|ForeignKeyColumn|Required| **ModelTableColumn**|A **ModelTableColumn** object that represents the foreign key column in the table on the many side of the one-to-many relationship.|
-|PrimaryKeyColumn|Required| **ModelTableColumn**|A **ModelTableColumn** object that represents the primary key column in the table on the one side of the one-to-many relationship.|
+|ForeignKeyColumn|Required| **ModelTableColumn**|A  **ModelTableColumn** object that represents the foreign key column in the table on the many side of the one-to-many relationship.|
+|PrimaryKeyColumn|Required| **ModelTableColumn**|A  **ModelTableColumn** object that represents the primary key column in the table on the one side of the one-to-many relationship.|
 
  **ModelRelationships.Item** Method
 

@@ -33,7 +33,7 @@ String
 
 Action text is a string that describes the action on the  **Undo**,  **Redo**, and  **Repeat** menu items on the **Quick Access** toolbar.
 
-If the **ActionText** property is empty and the object's **CmdNum** property is set to one of the Microsoft Visio built-in command IDs, the item uses the default action text from the built-in Visio user interface.
+If the  **ActionText** property is empty and the object's **CmdNum** property is set to one of the Microsoft Visio built-in command IDs, the item uses the default action text from the built-in Visio user interface.
 
 
 > [!NOTE] 

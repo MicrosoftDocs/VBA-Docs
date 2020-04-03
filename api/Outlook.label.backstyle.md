@@ -16,7 +16,7 @@ Returns or sets an  **Integer** that specifies the background style for an objec
 
 _expression_.**BackStyle**
 
-_expression_ A variable that represents a **Label** object.
+_expression_ A variable that represents a  **Label** object.
 
 
 ## Remarks

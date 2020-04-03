@@ -44,7 +44,7 @@ Set myLt = ActiveDocument.ListTemplates(3)
 Selection.Range.ListFormat.ApplyListTemplate ListTemplate:=myLt
 ```
 
-Use the **Add** method to add a list template to the collection of list templates in a document or template.
+Use the  **Add** method to add a list template to the collection of list templates in a document or template.
 
 To see whether the specified list template contains the formatting built into Word, use the  **Modified** property with the **ListGallery** object. To reset formatting to the original list format, use the **Reset** method for the **ListGallery** object.
 

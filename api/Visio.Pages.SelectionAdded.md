@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[Pages](Visio.Pages.md)** object.
 
 ## Remarks
 
-A **Shape** object can serve as the source object for the **SelectionAdded** event if the shape's **Type** property is **visTypeGroup** (2) or **visTypePage** (1).
+A  **Shape** object can serve as the source object for the **SelectionAdded** event if the shape's **Type** property is **visTypeGroup** (2) or **visTypePage** (1).
 
 The  **SelectionAdded** and **ShapeAdded** events are similar in that they both fire after shape(s) are created. They differ in how they behave when a single operation adds several shapes. Suppose a **Paste** operation creates three new shapes. The **ShapeAdded** event fires three times and acts on each of the three objects. The **SelectionAdded** event fires once, and it acts on a **Selection** object in which the three new shapes are selected.
 
@@ -52,7 +52,7 @@ To find an event code for the event that you want to create, see [Event codes](.
 
 
 > [!NOTE] 
-> You can use VBA **WithEvents** variables to sink the **SelectionAdded** event.
+> You can use VBA  **WithEvents** variables to sink the **SelectionAdded** event.
 
 For performance considerations, the  **Document** object's event set does not include the **SelectionAdded** event. To sink the **SelectionAdded** event from a **Document** object (and the **[ThisDocument](../visio/Concepts/about-the-thisdocument-object-visio.md)** object in a VBA project), you must use the **AddAdvise** method.
 

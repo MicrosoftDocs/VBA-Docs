@@ -19,7 +19,7 @@ Returns or sets an  **Integer** that specifies whether cycling includes controls
 
 _expression_.**Cycle**
 
-_expression_ A variable that represents a **Fame** object.
+_expression_ A variable that represents a  **Frame** object.
 
 
 ## Remarks

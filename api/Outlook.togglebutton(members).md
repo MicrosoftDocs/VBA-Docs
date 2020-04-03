@@ -23,14 +23,14 @@ Shows the selection state of an item.
 | [AutoSize](Outlook.togglebutton.autosize.md)|Returns or sets a  **Boolean** that specifies whether an object automatically resizes to display its entire contents. Read/write.|
 | [BackColor](Outlook.togglebutton.backcolor.md)|Returns or sets a  **Long** that specifies the background color of the object. Read/write.|
 | [BackStyle](Outlook.togglebutton.backstyle.md)|Returns or sets an  **Integer** that specifies the background style for an object. Read/write.|
-| [Caption](Outlook.togglebutton.caption.md)|Returns or sets a **String** that appears on an object to identify or describe it. Read/write.|
+| [Caption](Outlook.togglebutton.caption.md)|Returns or sets a  **String** that appears on an object to identify or describe it. Read/write.|
 | [Enabled](Outlook.togglebutton.enabled.md)|Returns or sets a  **Boolean** that specifies whether a control can receive the focus and respond to user-generated events. Read/write.|
 | [ForeColor](Outlook.togglebutton.forecolor.md)|Returns or sets a  **Long** that specifies the foreground color of an object. Read/write.|
-| [GroupName](Outlook.togglebutton.groupname.md)|Returns or sets a **String** that identifies a group of mutually exclusive [ToggleButton](Outlook.togglebutton.md) controls. Read/write.|
+| [GroupName](Outlook.togglebutton.groupname.md)|Returns or sets a  **String** that identifies a group of mutually exclusive [ToggleButton](Outlook.togglebutton.md) controls. Read/write.|
 | [Locked](Outlook.togglebutton.locked.md)|Returns or sets a  **Boolean** that specifies whether a control can be edited. Read/write.|
-| [MouseIcon](Outlook.togglebutton.mouseicon.md)|Returns a **String** that represents the full path name of a custom icon that is to be assigned to the control. Read-only.|
+| [MouseIcon](Outlook.togglebutton.mouseicon.md)|Returns a  **String** that represents the full path name of a custom icon that is to be assigned to the control. Read-only.|
 | [MousePointer](Outlook.togglebutton.mousepointer.md)|Returns or sets an  **Integer** that specifies the type of pointer displayed when the user positions the mouse over a particular object. Read/write.|
-| [Picture](Outlook.togglebutton.picture.md)|Returns a **String** that specifies the full path name of a bitmap to display on a control. Read-only.|
+| [Picture](Outlook.togglebutton.picture.md)|Returns a  **String** that specifies the full path name of a bitmap to display on a control. Read-only.|
 | [PicturePosition](Outlook.togglebutton.pictureposition.md)|Returns or sets an  **Integer** that specifies the location of the picture relative to its caption. Read/write.|
 | [SpecialEffect](Outlook.togglebutton.specialeffect.md)|Returns or sets an  **Integer** that specifies the visual appearance of an object. Read/write.|
 | [TextAlign](Outlook.togglebutton.textalign.md)|Returns or sets an  **Integer** that specifies how text is aligned in a control. Read/write.|

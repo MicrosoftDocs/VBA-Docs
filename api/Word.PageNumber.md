@@ -24,7 +24,7 @@ ActiveDocument.Sections(1).Headers(wdHeaderFooterPrimary) _
  .PageNumbers(1).Alignment = wdAlignPageNumberCenter
 ```
 
-Use the **Add** method to add a page number (a PAGE field) to a header or footer. The following example adds a page number to the primary footer in the first section and in any subsequent sections. The page number doesn't appear on the first page.
+Use the  **Add** method to add a page number (a PAGE field) to a header or footer. The following example adds a page number to the primary footer in the first section and in any subsequent sections. The page number doesn't appear on the first page.
 
 
 

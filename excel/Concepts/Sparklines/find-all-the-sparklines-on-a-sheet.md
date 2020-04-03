@@ -13,7 +13,7 @@ The following code example uses a list box on a user form to display all of the 
 
 This example requires a user form named  **SparklineForm**, a list box on the user form named  **SparklineListBox**, and a button on the user form named  **CloseBtn**.
 
-In the Visual Basic Editor, insert a **Module** and copy and paste the following code. This code shows the user form.
+In the Visual Basic Editor, insert a  **Module** and copy and paste the following code. This code shows the user form.
 
 
 

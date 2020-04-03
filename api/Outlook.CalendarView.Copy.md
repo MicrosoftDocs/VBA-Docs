@@ -35,7 +35,7 @@ _expression_ A variable that represents a [CalendarView](Outlook.CalendarView.md
 
 ## Return value
 
-A **View** object that represents the new view.
+A  **View** object that represents the new view.
 
 
 ## See also

@@ -36,7 +36,7 @@ _expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object
 
 ## Return value
 
-A **[TaskItem](Outlook.TaskItem.md)** that represents the response to the task request.
+A  **[TaskItem](Outlook.TaskItem.md)** that represents the response to the task request.
 
 
 ## Remarks

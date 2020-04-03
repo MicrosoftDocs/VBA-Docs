@@ -29,15 +29,15 @@ _expression_ A variable that represents a '[ChartTitle](PowerPoint.ChartTitle.md
 You can set the value of this property to one of the following  **[XlConstants](PowerPoint.XlConstants.md)** constants:
 
 
-- **xlBottom**
+-  **xlBottom**
     
-- **xlCenter**
+-  **xlCenter**
     
-- **xlDistributed**
+-  **xlDistributed**
     
-- **xlJustify**
+-  **xlJustify**
     
-- **xlTop**
+-  **xlTop**
     
 
 

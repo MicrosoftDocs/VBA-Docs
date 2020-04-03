@@ -51,7 +51,7 @@ Else
 End If
 ```
 
-Use the **Add** method with the **[FormFields](Word.formfields.md)** object to add a text form field. The following example adds a text form field at the beginning of the active document and then sets the name of the form field to "FirstName."
+Use the  **Add** method with the **[FormFields](Word.formfields.md)** object to add a text form field. The following example adds a text form field at the beginning of the active document and then sets the name of the form field to "FirstName."
 
 
 
