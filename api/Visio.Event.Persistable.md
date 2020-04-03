@@ -47,19 +47,19 @@ If these conditions are met, any of the following events are persistable:
 
 
 
--  **BeforeMasterDelete**
+- **BeforeMasterDelete**
     
--  **BeforePageDelete**
+- **BeforePageDelete**
     
--  **BeforeShapeDelete**
+- **BeforeShapeDelete**
     
--  **DocumentOpened**
+- **DocumentOpened**
     
--  **DocumentCreated**
+- **DocumentCreated**
     
--  **MasterAdded**
+- **MasterAdded**
     
--  **PageAdded**
+- **PageAdded**
     
 
 

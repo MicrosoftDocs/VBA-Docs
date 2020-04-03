@@ -36,7 +36,7 @@ Microsoft Visio can have more than one window open at a time; however, only one 
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this method maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVWindow.Activate()**
+- **Microsoft.Office.Interop.Visio.IVWindow.Activate()**
     
 
 ## Example

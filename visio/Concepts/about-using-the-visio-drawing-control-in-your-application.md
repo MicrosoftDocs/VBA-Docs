@@ -125,17 +125,17 @@ Beginning with Visio 2003, new keyboard and mouse events added to the Visio obje
 The following new events are available:
 
 
--  **KeyDown**
+- **KeyDown**
     
--  **KeyPress**
+- **KeyPress**
     
--  **KeyUp**
+- **KeyUp**
     
--  **MouseDown**
+- **MouseDown**
     
--  **MouseMove**
+- **MouseMove**
     
--  **MouseUp**
+- **MouseUp**
     
 These events are similar to the Visual Basic events that have the same names, although they take different arguments. To view the syntax, and for additional information about these events, see the specific topics associated with them in this Automation Reference. For more information about the Visual Basic events, consult Visual Basic Help.
 

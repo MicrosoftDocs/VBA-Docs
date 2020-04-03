@@ -36,7 +36,7 @@ This property doesn't return any slide show windows associated with the presenta
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.PowerPoint._Presentation.Windows**
+- **Microsoft.Office.Interop.PowerPoint._Presentation.Windows**
     
 
 ## See also

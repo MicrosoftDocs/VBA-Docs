@@ -40,9 +40,9 @@ The  **Join** method and the **Combine** method are similar but differ in the fo
 
 
 
--  **Join** coalesces abutting line and curve segments in the original shapes into a single Geometry section in the resulting shape.
+- **Join** coalesces abutting line and curve segments in the original shapes into a single Geometry section in the resulting shape.
     
--  **Combine** produces a shape that has one Geometry section for each original shape. The resulting shape has holes in regions where the original shapes overlapped.
+- **Combine** produces a shape that has one Geometry section for each original shape. The resulting shape has holes in regions where the original shapes overlapped.
     
 
 

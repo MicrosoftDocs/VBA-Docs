@@ -26,15 +26,15 @@ _expression_ A variable that represents a [Shift](./Project.Shift.md) object.
 Following are the objects that can contain  **Shift** objects:
 
 
--  **Day**
+- **Day**
     
--  **Month**
+- **Month**
     
--  **WeekDay**
+- **WeekDay**
     
--  **WorkWeekDay**
+- **WorkWeekDay**
     
--  **Year**
+- **Year**
     
 
 

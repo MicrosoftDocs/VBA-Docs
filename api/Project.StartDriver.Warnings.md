@@ -35,9 +35,9 @@ If there are no warnings for a task, the value of  **Warnings** is 0. Because th
 In the following example, if the value of the  **Warnings** property for task 5 is 128, the message box shows **The resource is overallocated.**. If the value is 68, the message box shows:
 
 
--  **The assignment is more than the maximum resource units available.**
+- **The assignment is more than the maximum resource units available.**
     
--  **The shadow task finishes earlier because of a predecessor link.**
+- **The shadow task finishes earlier because of a predecessor link.**
     
 
 

@@ -66,6 +66,6 @@ Constants for CellIndex and for the  **CharProps** property value are declared i
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVCharacters.set_CharProps**
+- **Microsoft.Office.Interop.Visio.IVCharacters.set_CharProps**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
