@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkOptionButton.GroupName property (Outlook)
 
-Returns or sets a  **String** that identifies a group of mutually exclusive option button controls. Read/write.
+Returns or sets a **String** that identifies a group of mutually exclusive option button controls. Read/write.
 
 
 ## Syntax

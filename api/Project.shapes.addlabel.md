@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shapes.AddLabel method (Project)
-Creates a label in a report, and returns a  **Shape** object that represents the new label.
+Creates a label in a report, and returns a **Shape** object that represents the new label.
 
 ## Syntax
 

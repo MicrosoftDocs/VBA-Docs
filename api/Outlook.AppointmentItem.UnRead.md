@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.UnRead property (Outlook)
 
-Returns or sets a  **Boolean** value that is **True** if the Outlook item has not been opened (read). Read/write.
+Returns or sets a **Boolean** value that is **True** if the Outlook item has not been opened (read). Read/write.
 
 
 ## Syntax

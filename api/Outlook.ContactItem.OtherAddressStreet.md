@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.OtherAddressStreet property (Outlook)
 
-Returns or sets a  **String** representing the street portion of the other address for the contact. Read/write.
+Returns or sets a **String** representing the street portion of the other address for the contact. Read/write.
 
 
 ## Syntax

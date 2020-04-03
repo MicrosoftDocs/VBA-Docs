@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CardView.HeadingsFont property (Outlook)
 
-Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font used to display the heading of each card in the **[CardView](Outlook.CardView.md)** object. Read-only.
+Returns a **[ViewFont](Outlook.ViewFont.md)** object that represents the font used to display the heading of each card in the **[CardView](Outlook.CardView.md)** object. Read-only.
 
 
 ## Syntax

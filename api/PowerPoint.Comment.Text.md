@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Comment.Text property (PowerPoint)
 
-Returns a  **String** that represents the text in a comment. Read-only.
+Returns a **String** that represents the text in a comment. Read-only.
 
 
 ## Syntax

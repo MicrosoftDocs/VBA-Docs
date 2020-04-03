@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.CreationTime property (Outlook)
 
-Returns a  **Date** indicating the creation time for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
+Returns a **Date** indicating the creation time for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax

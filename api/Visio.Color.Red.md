@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Color.Red property (Visio)
 
-Gets or sets the intensity of the red component of a  **Color** object. Read/write.
+Gets or sets the intensity of the red component of a **Color** object. Read/write.
 
 
 ## Syntax

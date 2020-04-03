@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Characters property (Visio)
 
-Returns a  **Characters** object that represents the text of a shape. Read-only.
+Returns a **Caracters** object that represents the text of a shape. Read-only.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ Characters
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVShape.Characters**
+- **Microsoft.Office.Interop.Visio.IVShape.Characters**
     
 
 ## Example

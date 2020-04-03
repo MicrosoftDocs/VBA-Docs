@@ -61,7 +61,7 @@ Next d
 
 Use the  **[LanguageSpecific](Word.Dictionary.LanguageSpecific.md)** property to determine whether the specified custom dictionary can have a specific language assigned to it with the **[LanguageID](Word.Dictionary.LanguageID.md)** property. If the dictionary is language specific, it will verify only text that's formatted for the specified language.
 
-For each language for which proofing tools are installed, you can use the  **ActiveGrammarDictionary**, **ActiveHyphenationDictionary**, **ActiveSpellingDictionary**, and **ActiveThesaurusDictionary** properties to return the corresponding **Dictionary** objects. The following example returns the full path for the active spelling dictionary used in the U.S. English version of Word.
+For each language for which proofing tools are installed, you can use the **ActiveGrammarDictionary**, **ActiveHyphenationDictionary**, **ActiveSpellingDictionary**, and **ActiveThesaurusDictionary** properties to return the corresponding **Dictionary** objects. The following example returns the full path for the active spelling dictionary used in the U.S. English version of Word.
 
 
 

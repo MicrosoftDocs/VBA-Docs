@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CardView.BodyFont property (Outlook)
 
-Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font used to display the body of each card in the **[CardView](Outlook.CardView.md)** object. Read-only.
+Returns a **[ViewFont](Outlook.ViewFont.md)** object that represents the font used to display the body of each card in the **[CardView](Outlook.CardView.md)** object. Read-only.
 
 
 ## Syntax

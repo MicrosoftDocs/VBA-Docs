@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) 
 
 ## Return value
 
-A  **[MailItem](Outlook.MailItem.md)** that represents the reply.
+A **[MailItem](Outlook.MailItem.md)** that represents the reply.
 
 
 ## See also

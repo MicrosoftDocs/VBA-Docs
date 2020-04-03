@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Comment.TimeZoneBias property (PowerPoint)
 
-Returns a  **String** that specifies the local time zone adjustment for the contact. Read-only.
+Returns a **String** that specifies the local time zone adjustment for the contact. Read-only.
 
 > [!IMPORTANT]
 > This property does not work with modern comments.

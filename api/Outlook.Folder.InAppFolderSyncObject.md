@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folder.InAppFolderSyncObject property (Outlook)
 
-Returns or sets a  **Boolean** that determines if the specified folder will be synchronized with the email server. Read/write.
+Returns or sets a **Boolean** that determines if the specified folder will be synchronized with the email server. Read/write.
 
 
 ## Syntax

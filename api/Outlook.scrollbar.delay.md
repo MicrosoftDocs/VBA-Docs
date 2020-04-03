@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ScrollBar.Delay Property (Outlook Forms Script)
 
-Returns or sets a  **Long** that specifies the delay in milliseconds, between events on a **[ScrollBar](Outlook.scrollbar.md)**. Read/write.
+Returns or sets a **Long** that specifies the delay in milliseconds, between events on a **[ScrollBar](Outlook.scrollbar.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**Delay**
 
-_expression_ A variable that represents a  **ScrollBar** object.
+_expression_ A variable that represents a **ScrollBar** object.
 
 
 ## Remarks

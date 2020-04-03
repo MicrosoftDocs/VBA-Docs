@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeUser.PostalCode property (Outlook)
 
-Returns a  **String** representing the postal code for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
+Returns a **String** representing the postal code for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 
 
 ## Syntax

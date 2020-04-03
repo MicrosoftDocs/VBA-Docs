@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XMLNode.FirstChild property (Word)
 
-Returns a  **DiagramNode** object that represents the first child node of a parent node. Read-only.
+Returns a **DiagramNode** object that represents the first child node of a parent node. Read-only.
 
 
 ## Syntax

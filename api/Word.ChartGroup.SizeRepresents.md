@@ -29,9 +29,9 @@ _expression_ A variable that represents a **[ChartGroup](Word.ChartGroup.md)** o
 This property can be either of the following  **[XlSizeRepresents](Word.xlsizerepresents.md)** constants:
 
 
--  **xlSizeIsArea**
+- **xlSizeIsArea**
     
--  **xlSizeIsWidth**
+- **xlSizeIsWidth**
     
 
 

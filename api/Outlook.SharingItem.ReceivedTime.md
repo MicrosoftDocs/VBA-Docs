@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.ReceivedTime property (Outlook)
 
-Returns a  **Date** indicating the date and time at which the **[SharingItem](Outlook.SharingItem.md)** was received. Read-only.
+Returns a **Date** indicating the date and time at which the **[SharingItem](Outlook.SharingItem.md)** was received. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeUser.OfficeLocation property (Outlook)
 
-Returns a  **String** representing the office location for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
+Returns a **String** representing the office location for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 
 
 ## Syntax

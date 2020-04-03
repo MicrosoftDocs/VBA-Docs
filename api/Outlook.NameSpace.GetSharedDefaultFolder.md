@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.GetSharedDefaultFolder method (Outlook)
 
-Returns a  **[Folder](Outlook.Folder.md)** object that represents the specified default folder for the specified user.
+Returns a **[Folder](Outlook.Folder.md)** object that represents the specified default folder for the specified user.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ _expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) obje
 
 ## Return value
 
-A  **Folder** object that represents the specified default folder for the specified user.
+A **Folder** object that represents the specified default folder for the specified user.
 
 
 ## Remarks

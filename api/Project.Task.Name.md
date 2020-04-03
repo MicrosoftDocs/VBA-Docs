@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Task.Name property (Project)
 
-Gets or sets the name of a  **Task** object. Read/write **String**.
+Gets or sets the name of a **Task** object. Read/write **String**.
 
 
 ## Syntax

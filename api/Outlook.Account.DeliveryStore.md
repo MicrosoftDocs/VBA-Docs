@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Account.DeliveryStore property (Outlook)
 
-Returns a  **[Store](Outlook.Store.md)** object that represents the default delivery store for the account. Read-only.
+Returns a **[Store](Outlook.Store.md)** object that represents the default delivery store for the account. Read-only.
 
 
 ## Syntax

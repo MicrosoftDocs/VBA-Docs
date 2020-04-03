@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shapes.AddLine method (Project)
-Adds a line to a report, and returns a  **Shape** object that represents the line.
+Adds a line to a report, and returns a **Shape** object that represents the line.
 
 ## Syntax
 

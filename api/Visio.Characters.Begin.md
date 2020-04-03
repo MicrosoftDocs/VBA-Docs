@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Characters.Begin property (Visio)
 
-Gets or sets the beginning index of a  **Characters** object, which represents a range of text in a shape. Read/write.
+Gets or sets the beginning index of a **Caracters** object, which represents a range of text in a shape. Read/write.
 
 
 ## Syntax
@@ -40,6 +40,6 @@ The value of the  **Begin** property must always be less than or equal to the va
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVCharacters.Begin**
+- **Microsoft.Office.Interop.Visio.IVCharacters.Begin**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

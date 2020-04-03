@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Template.BuiltInDocumentProperties property (Word)
 
-Returns a  **DocumentProperties** collection that represents all the built-in document properties for the specified document.
+Returns a **DocumentProperties** collection that represents all the built-in document properties for the specified document.
 
 
 ## Syntax

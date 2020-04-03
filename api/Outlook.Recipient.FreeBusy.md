@@ -36,7 +36,7 @@ _expression_ A variable that represents a [Recipient](Outlook.Recipient.md) obje
 
 ## Return value
 
-A  **String** value that represents the free/busy information.
+A **String** value that represents the free/busy information.
 
 
 ## Remarks

@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # ListBox.Text Property (Outlook Forms Script)
 
-Returns or sets a  **String** that specifies text in a **[ListBox](Outlook.listbox.md)**, changing the selected row in the control. Read/write.
+Returns or sets a **String** that specifies text in a **[ListBox](Outlook.listbox.md)**, changing the selected row in the control. Read/write.
 
 
 ## Syntax
 
 _expression_.**Text**
 
-_expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a **ListBox** object.
 
 
 ## Remarks

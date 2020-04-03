@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Explorer.Height property (Outlook)
 
-Returns or sets a  **Long** specifying the height (in pixels) of the explorer window. Read/write.
+Returns or sets a **Long** specifying the height (in pixels) of the explorer window. Read/write.
 
 
 ## Syntax

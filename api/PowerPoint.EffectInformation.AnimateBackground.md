@@ -30,9 +30,9 @@ Use the [TextLevelEffect](PowerPoint.AnimationSettings.TextLevelEffect.md)and  *
 
 If this property is set to  **msoTrue** and the **TextLevelEffect** property is set to **ppAnimateByAllLevels**, the shape and its text are animated simultaneously. If this property is set to **msoTrue** and the **TextLevelEffect** property is set to anything other than **ppAnimateByAllLevels**, the shape is animated immediately before the text is animated.
 
-You won't see effects of setting this property unless the specified shape is animated. For a shape to be animated, the  **TextLevelEffect** property for the shape must be set to something other than **ppAnimateLevelNone**, and either the **[Animate](PowerPoint.AnimationSettings.Animate.md)** property must be set to **msoTrue**, or the **[EntryEffect](PowerPoint.AnimationSettings.EntryEffect.md)** property must be set to a constant other than **ppEffectNone**.
+You won't see effects of setting this property unless the specified shape is animated. For a shape to be animated, the **TextLevelEffect** property for the shape must be set to something other than **ppAnimateLevelNone**, and either the **[Animate](PowerPoint.AnimationSettings.Animate.md)** property must be set to **msoTrue**, or the **[EntryEffect](PowerPoint.AnimationSettings.EntryEffect.md)** property must be set to a constant other than **ppEffectNone**.
 
-The value returned by the  **AnimateBackground** property can be one of these **MsoTriState** constants.
+The value returned by the **AimateBackground** property can be one of these **MsoTriState** constants.
 
 
 

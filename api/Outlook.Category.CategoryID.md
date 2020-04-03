@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Category.CategoryID property (Outlook)
 
-Returns a  **String** value that represents the unique identifier for the **[Category](Outlook.Category.md)** object. Read-only.
+Returns a **String** value that represents the unique identifier for the **[Category](Outlook.Category.md)** object. Read-only.
 
 
 ## Syntax

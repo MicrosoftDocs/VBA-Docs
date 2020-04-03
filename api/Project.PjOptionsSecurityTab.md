@@ -17,7 +17,7 @@ Contains constants that specify the tabs for settings that are available in the 
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-|**pjOptionsSecurityTabAddins**|1|Represents the  **Add-ins** tab, for add-in security options.|
+|**pjOptionsSecurityTabAddins**|1|Represents the **Add-ins** tab, for add-in security options.|
 |**pjOptionsSecurityTabLegacy**|4|Represents the  **Legacy Formats** tab, for options on opening or saving legacy file formats.|
 |**pjOptionsSecurityTabMacro**|2|Represents the  **Macro Settings** tab, for macro security settings.|
 |**pjOptionsSecurityTabPrivacy**|3|Represents the  **Privacy Options** tab, which includes settings for Help content, removing personal information from file properties, and other security options.|

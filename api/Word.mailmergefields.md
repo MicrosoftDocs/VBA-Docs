@@ -25,7 +25,7 @@ ActiveDocument.MailMerge.Fields.AddAsk Range:=Selection.Range, _
  Name:="Name", Prompt:="Type your name", AskOnce:=True
 ```
 
-Use the  **Add** method to add a merge field to the **MailMergeFields** collection. The following example replaces the selection with a **MiddleInitial** merge field.
+Use the **Add** method to add a merge field to the **MailMergeFields** collection. The following example replaces the selection with a **MiddleInitial** merge field.
 
 
 

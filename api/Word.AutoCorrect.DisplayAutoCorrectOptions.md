@@ -26,7 +26,7 @@ _expression_. `DisplayAutoCorrectOptions`
 
 ## Example
 
-This example disables display of the  **AutoCorrect Options** button.
+This example disables display of the **AutoCorrect Options** button.
 
 
 ```vb

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskRequestItem.Mileage property (Outlook)
 
-Returns or sets a  **String** representing the mileage for an item. Read/write.
+Returns or sets a **String** representing the mileage for an item. Read/write.
 
 
 ## Syntax

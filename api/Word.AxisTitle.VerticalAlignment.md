@@ -29,15 +29,15 @@ _expression_ A variable that represents an '[AxisTitle](Word.AxisTitle.md)' obje
 The value of this property can be set to one of the following  **[XlConstants](Word.XlConstants.md)** constants:
 
 
--  **xlBottom**
+- **xlBottom**
     
--  **xlCenter**
+- **xlCenter**
     
--  **xlDistributed**
+- **xlDistributed**
     
--  **xlJustify**
+- **xlJustify**
     
--  **xlTop**
+- **xlTop**
     
 
 ## See also

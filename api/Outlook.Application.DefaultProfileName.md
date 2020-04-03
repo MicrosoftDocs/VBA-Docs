@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.DefaultProfileName property (Outlook)
 
-Returns a  **String** representing the name of the default profile name. Read-only.
+Returns a **String** representing the name of the default profile name. Read-only.
 
 
 ## Syntax

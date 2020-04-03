@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeUser.Alias property (Outlook)
 
-Returns a  **String** representing the alias for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read-only.
+Returns a **String** representing the alias for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read-only.
 
 
 ## Syntax

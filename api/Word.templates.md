@@ -31,11 +31,11 @@ The  **Add** method isn't available for the **Templates** collection. Instead, y
 
 - Using the  **Open** method with the **Documents** collection to open a document based on a template or a template
     
-- Using the  **Add** method with the **Documents** collection to open a new document based on a template
+- Using the **Add** method with the **Documents** collection to open a new document based on a template
     
-- Using the  **Add** method with the **Addins** collection to load a global template
+- Using the **Add** method with the **Addins** collection to load a global template
     
-- Using the  **AttachedTemplate** property with the **Document** object to attach a template to a document
+- Using the **AttachedTemplate** property with the **Document** object to attach a template to a document
     
 Use  **Templates** (Index), where Index is the template name or the index number, to return a single **Template** object. The following example saves the Dot1.dot template.
 

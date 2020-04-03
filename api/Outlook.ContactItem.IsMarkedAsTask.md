@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.IsMarkedAsTask property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the **[ContactItem](Outlook.ContactItem.md)** is marked as a task. Read-only.
+Returns a **Boolean** value that indicates whether the **[ContactItem](Outlook.ContactItem.md)** is marked as a task. Read-only.
 
 
 ## Syntax

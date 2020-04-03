@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.GetDefaultFolder method (Outlook)
 
-Returns a  **[Folder](Outlook.Folder.md)** object that represents the default folder of the requested type for the current profile; for example, obtains the default **Calendar** folder for the user who is currently logged on.
+Returns a **[Folder](Outlook.Folder.md)** object that represents the default folder of the requested type for the current profile; for example, obtains the default **Calendar** folder for the user who is currently logged on.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) obje
 
 ## Return value
 
-A  **Folder** object that represents the default folder of the requested type for the current profile.
+A **Folder** object that represents the default folder of the requested type for the current profile.
 
 
 ## Remarks

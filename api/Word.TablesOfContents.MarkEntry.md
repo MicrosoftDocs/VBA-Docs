@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TablesOfContents.MarkEntry method (Word)
 
-Inserts a TC (Table of Contents Entry) field after the specified range. The method returns a  **Field** object representing the TC field.
+Inserts a TC (Table of Contents Entry) field after the specified range. The method returns a **Field** object representing the TC field.
 
 
 ## Syntax

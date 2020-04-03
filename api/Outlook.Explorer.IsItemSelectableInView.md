@@ -34,7 +34,7 @@ _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' obj
 
 ## Return value
 
-A  **Boolean** value that indicates whether the specified item can be selected in the current view.
+A **Boolean** value that indicates whether the specified item can be selected in the current view.
 
 
 ## Remarks

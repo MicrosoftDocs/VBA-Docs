@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # UserDefinedProperty.Formula property (Outlook)
 
-Returns a  **String** value that represents the formula for the **UserDefinedProperty** object. Read-only.
+Returns a **String** value that represents the formula for the **UserDefinedProperty** object. Read-only.
 
 
 ## Syntax

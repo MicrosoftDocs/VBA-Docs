@@ -28,7 +28,7 @@ ActiveDocument.PageSetup.TextColumns(1).SpaceAfter = _
  InchesToPoints(0.5)
 ```
 
-Use the  **Add** method to add a column to the collection of columns. By default, there is one text column in the **TextColumns** collection. The following example adds a 2.5-inch-widecolumn to the active document.
+Use the **Add** method to add a column to the collection of columns. By default, there is one text column in the **TextColumns** collection. The following example adds a 2.5-inch-widecolumn to the active document.
 
 
 

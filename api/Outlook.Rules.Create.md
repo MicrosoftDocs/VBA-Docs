@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Rules.Create method (Outlook)
 
-Creates a  **[Rule](Outlook.Rule.md)** object with the name specified by _Name_ and the type of rule specified by _RuleType_.
+Creates a **[Rule](Outlook.Rule.md)** object with the name specified by _Name_ and the type of rule specified by _RuleType_.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ _expression_ A variable that represents a [Rules](Outlook.Rules.md) object.
 
 ## Return value
 
-A  **Rule** object that represents the newly created rule.
+A **Rule** object that represents the newly created rule.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.CellsSRC property (Visio)
 
-Returns a  **Cell** object that represents a ShapeSheet cell identified by section, row, and column indices. Read-only.
+Returns a **Cll** object that represents a ShapeSheet cell identified by section, row, and column indices. Read-only.
 
 
 ## Syntax
@@ -57,7 +57,7 @@ Set vsoCell = Cells("PinX")
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVShape.get_CellsSRC**
+- **Microsoft.Office.Interop.Visio.IVShape.get_CellsSRC**
     
 
 ## Example

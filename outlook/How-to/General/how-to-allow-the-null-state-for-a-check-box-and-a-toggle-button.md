@@ -22,9 +22,9 @@ To use this example, copy this sample code to the Script Editor of a form. To ru
 
 - A **ToggleButton** named ToggleButton2.
 
-- A  **ToggleButton** named ToggleButton1.
+- A **ToggleButton** named ToggleButton1.
 
-- A  **ToggleButton** named ToggleButton2.
+- A **ToggleButton** named ToggleButton2.
 
 ```vb
 Sub Item_Open() 

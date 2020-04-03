@@ -26,7 +26,7 @@ Use  **Tables** (Index), where Index is the index number, to return a single **T
 ActiveDocument.Tables(1).ConvertToText Separator:=wdSeparateByTabs
 ```
 
-Use the  **Add** method to add a table at the specified range. The following example adds a 3x4 table at the beginning of the active document.
+Use the **Add** method to add a table at the specified range. The following example adds a 3x4 table at the beginning of the active document.
 
 
 

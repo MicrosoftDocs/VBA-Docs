@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Task.CV property (Project)
 
-Gets the cost variance for a  **Task**. Read-only **Variant**.
+Gets the cost variance for a **Task**. Read-only **Variant**.
 
 
 ## Syntax

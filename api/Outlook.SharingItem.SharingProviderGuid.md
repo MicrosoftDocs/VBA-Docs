@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.SharingProviderGuid property (Outlook)
 
-Returns a  **String** that represents the GUID of the sharing provider used by the **[SharingItem](Outlook.SharingItem.md)** object. Read-only.
+Returns a **String** that represents the GUID of the sharing provider used by the **[SharingItem](Outlook.SharingItem.md)** object. Read-only.
 
 
 ## Syntax

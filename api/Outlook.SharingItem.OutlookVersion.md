@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.OutlookVersion property (Outlook)
 
-Returns a  **String** indicating the major and minor version number of the Outlook application for a **[SharingItem](Outlook.SharingItem.md)**. Read-only.
+Returns a **String** indicating the major and minor version number of the Outlook application for a **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax

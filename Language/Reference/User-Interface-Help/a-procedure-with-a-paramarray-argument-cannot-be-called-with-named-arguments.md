@@ -17,7 +17,7 @@ All [arguments](../../Glossary/vbe-glossary.md#argument) in a call to a [procedu
 
 - [Named-argument](../../Glossary/vbe-glossary.md#named-argument) syntax appears in a procedure call.
     
-    The named-argument calling syntax can't be used to call a procedure that includes a  **ParamArray** parameter. To supply only some elements of the **ParamArray**, use commas as placeholders for those elements you want to omit. For example, in the following call, if the **ParamArray** arguments begin after `Arg2`, values are being passed only for the first, third, and sixth values in the  **ParamArray**:
+    The named-argument calling syntax can't be used to call a procedure that includes a **ParamArray** parameter. To supply only some elements of the **ParamArray**, use commas as placeholders for those elements you want to omit. For example, in the following call, if the **ParamArray** arguments begin after `Arg2`, values are being passed only for the first, third, and sixth values in the  **ParamArray**:
     
 
 

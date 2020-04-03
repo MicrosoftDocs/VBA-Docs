@@ -35,7 +35,7 @@ _expression_ A variable that represents a 'FormRegionStartup' object.
 
 ## Return value
 
-A  **Variant** that represents the XML manifest for a form region. This XML string includes characteristics of the form region such as the display name (as specified by the title element), any associated layout file or add-in, any supported user actions, and any localization strings. The XML must follow the form region XML schema. For more information on the form region XML schema, see the Microsoft Outlook 2010 XML Schema Reference in the [MSDN Library](https://msdn.microsoft.com/library).
+A **Variant** that represents the XML manifest for a form region. This XML string includes characteristics of the form region such as the display name (as specified by the title element), any associated layout file or add-in, any supported user actions, and any localization strings. The XML must follow the form region XML schema. For more information on the form region XML schema, see the Microsoft Outlook 2010 XML Schema Reference in the [MSDN Library](https://msdn.microsoft.com/library).
 
 
 ## Remarks
@@ -51,13 +51,13 @@ Relying on an add-in to provide the XML manifest for a form region also means yo
 Outlook ignores the following elements when the add-in provides the XML manifest: 
 
 
--  **name** : Outlook ignores the value specified for this element and will use the name specified for the form region in the registry.
+- **name** : Outlook ignores the value specified for this element and will use the name specified for the form region in the registry.
     
--  **layoutFile** : Outlook ignores this element because an add-in is extending this form region.
+- **layoutFile** : Outlook ignores this element because an add-in is extending this form region.
     
--  **addin** : Outlook uses the value that is preceded by an equal sign (**=**) in the registry as the  **ProgID** of the add-in.
+- **addin** : Outlook uses the value that is preceded by an equal sign (**=**) in the registry as the  **ProgID** of the add-in.
     
--  **file** attribute of **stringOverride** : Outlook ignores any secondary localization file specified by the **stringOverride** element. The add-in can implement **GetFormRegionManifest** to return inline the XML manifest for string localization for the specified _LCID_ , or manage string localization in another way, for example, using .NET Framework localization, and then return the appropriate XML manifest for the specified _LCID_.
+- **file** attribute of **stringOverride** : Outlook ignores any secondary localization file specified by the **stringOverride** element. The add-in can implement **GetFormRegionManifest** to return inline the XML manifest for string localization for the specified _LCID_ , or manage string localization in another way, for example, using .NET Framework localization, and then return the appropriate XML manifest for the specified _LCID_.
     
 
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AnimationBehavior.CommandEffect property (PowerPoint)
 
-Returns a  **CommandEffect** object for the specified animation behavior. Read-only.
+Returns a **CommandEffect** object for the specified animation behavior. Read-only.
 
 
 ## Syntax

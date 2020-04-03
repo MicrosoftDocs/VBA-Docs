@@ -25,10 +25,10 @@ Use one of the properties listed in the following table to return the  **HeaderF
 
 |**Use this property**|**To return**|
 |:-----|:-----|
-|**[DateAndTime](PowerPoint.HeadersFooters.DateAndTime.md)**|A  **HeaderFooter** object that represents the date and time on the slide.|
-|**[Footer](PowerPoint.HeadersFooters.Footer.md)**|A  **HeaderFooter** object that represents the footer for the slide.|
-|**[Header](PowerPoint.HeadersFooters.Header.md)**|A  **HeaderFooter** object that represents the header for the slide. This works only for notes pages and handouts, not for slides.|
-|**[SlideNumber](PowerPoint.HeadersFooters.SlideNumber.md)**|A  **HeaderFooter** object that represent the slide number (on a slide) or page number (on a notes page or a handout).|
+|**[DateAndTime](PowerPoint.HeadersFooters.DateAndTime.md)**|A **HeaderFooter** object that represents the date and time on the slide.|
+|**[Footer](PowerPoint.HeadersFooters.Footer.md)**|A **HeaderFooter** object that represents the footer for the slide.|
+|**[Header](PowerPoint.HeadersFooters.Header.md)**|A **HeaderFooter** object that represents the header for the slide. This works only for notes pages and handouts, not for slides.|
+|**[SlideNumber](PowerPoint.HeadersFooters.SlideNumber.md)**|A **HeaderFooter** object that represent the slide number (on a slide) or page number (on a notes page or a handout).|
 
 > [!NOTE] 
 >  **HeaderFooter** objects aren't available for **Slide** objects that represent notes pages. The **HeaderFooter** object that represents a header is available only for a notes master or handout master.

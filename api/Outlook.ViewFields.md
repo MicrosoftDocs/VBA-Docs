@@ -22,9 +22,9 @@ Represents the collection of  **[ViewField](Outlook.ViewField.md)** objects in a
 The  **ViewFields** collection represents the Outlook item properties available for display in the view. Use the **[Add](Outlook.ViewFields.Add.md)** method of the **ViewFields** collection to add a view field for the following objects derived from the **[View](Outlook.View.md)** object:
 
 
--  **[CardView](Outlook.CardView.md)**
+- **[CardView](Outlook.CardView.md)**
     
--  **[TableView](Outlook.TableView.md)**
+- **[TableView](Outlook.TableView.md)**
     
 In a table view, the order of  **ViewField** objects in the **ViewFields** collection is not the same as the order that field columns are displayed in the table view. A workaround to obtain the column order is to parse the string returned by the **[View.XML](Outlook.View.XML.md)** property.
 

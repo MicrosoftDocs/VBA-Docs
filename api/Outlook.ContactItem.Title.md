@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.Title property (Outlook)
 
-Returns or sets a  **String** indicating the title for the contact. Read/write.
+Returns or sets a **String** indicating the title for the contact. Read/write.
 
 
 ## Syntax

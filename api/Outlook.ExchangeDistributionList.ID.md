@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeDistributionList.ID property (Outlook)
 
-Returns a  **String** representing the unique identifier for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read-only.
+Returns a **String** representing the unique identifier for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read-only.
 
 
 ## Syntax

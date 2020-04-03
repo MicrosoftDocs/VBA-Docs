@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkListBox.Font property (Outlook)
 
-Returns a  **StdFont** that represents the font used to render the text inside the control. Read-only.
+Returns a **StdFont** that represents the font used to render the text inside the control. Read-only.
 
 
 ## Syntax

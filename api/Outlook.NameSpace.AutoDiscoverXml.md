@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.AutoDiscoverXml property (Outlook)
 
-Returns a  **String** that represents information in XML retrieved from the auto-discovery service for the Microsoft Exchange server that hosts the primary Exchange account. Read-only.
+Returns a **String** that represents information in XML retrieved from the auto-discovery service for the Microsoft Exchange server that hosts the primary Exchange account. Read-only.
 
 
 ## Syntax

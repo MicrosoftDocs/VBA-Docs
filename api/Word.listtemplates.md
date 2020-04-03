@@ -26,7 +26,7 @@ For Each lt In ActiveDocument.ListTemplates
 Next lt
 ```
 
-Use the  **Add** method to add a list template to the collection in the specified document or template. The following example adds a new list template to the active document and applies it to the selection.
+Use the **Add** method to add a list template to the collection in the specified document or template. The following example adds a new list template to the active document and applies it to the selection.
 
 
 

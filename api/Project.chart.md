@@ -17,7 +17,7 @@ The  **Chart** object represents a chart on a report in Project.
 
 The  **Chart** object in Project includes the standard members that other Office applications implement for Office Art. For example, see the **Chart** object in the VBA object model for Word, Excel, and PowerPoint.
 
-In Project, a chart is represented by a  **Chart** object, which is contained by a **[Shape](./Project.shape.md)** object or a **[ShapeRange](./Project.shaperange.md)** collection in a **[Report](./Project.report.md)** object. For a diagram that shows the **Chart** object in the Project object model hierarchy, see [Application and Projects object map](../project/Concepts/application-and-projects-object-map-project.md).
+In Project, a chart is represented by a **Chart** object, which is contained by a **[Shape](./Project.shape.md)** object or a **[ShapeRange](./Project.shaperange.md)** collection in a **[Report](./Project.report.md)** object. For a diagram that shows the **Chart** object in the Project object model hierarchy, see [Application and Projects object map](../project/Concepts/application-and-projects-object-map-project.md).
 
 
 > [!NOTE] 
@@ -30,7 +30,7 @@ The  **Chart** object in Project does not implement events. So, a chart in Proje
 
 ## Example
 
-The following example creates a simple scalar chart for tasks in the active project. The chart shows the  **Actual Work**,  **Remaining Work**, and  **Work** default fields.
+The following example creates a simple scalar chart for tasks in the active project. The chart shows the **Actual Work**,  **Remaining Work**, and  **Work** default fields.
 
 To create some sample data, add four tasks to a new project, assign local resources to those tasks, and set various values of duration and actual work. For example, try the values in Table 1.
 
@@ -68,12 +68,12 @@ Sub AddSimpleScalarChart()
 End Sub
 ```
 
-When you run the  **AddSimpleScalarChart** macro, Project creates the report and adds a chart. The chart has default features, except the title is specified by the **SetElement** property to be overlaid on the chart, instead of the default position above the chart.
+When you run the **AddSimpleScalarChart** macro, Project creates the report and adds a chart. The chart has default features, except the title is specified by the **SetElement** property to be overlaid on the chart, instead of the default position above the chart.
 
 
 **Figure 1. The chart shows the data in Table 1**
 
-![Simple scalar chart in a report](../images/pj15_VBA_ChartObject.gif)To delete the chart, you can delete the shape that contains the chart. The following macro deletes the chart on the report that is created by the  **AddSimpleScalarChart** macro, and leaves the empty report as the active view.
+![Simple scalar chart in a report](../images/pj15_VBA_ChartObject.gif)To delete the chart, you can delete the shape that contains the chart. The following macro deletes the chart on the report that is created by the **AddSimpleScalarChart** macro, and leaves the empty report as the active view.
 
 
 

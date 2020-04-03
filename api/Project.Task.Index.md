@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Task.Index property (Project)
 
-Gets the index of a  **Task** object in the **Tasks** containing object. Read-only **Long**.
+Gets the index of a **Task** object in the **Tasks** containing object. Read-only **Long**.
 
 
 ## Syntax

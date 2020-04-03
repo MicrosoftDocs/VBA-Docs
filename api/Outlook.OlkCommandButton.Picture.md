@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkCommandButton.Picture property (Outlook)
 
-Returns or sets a  **StdPicture** value that represents the picture that is displayed on the control. Read/write.
+Returns or sets a **StdPicture** value that represents the picture that is displayed on the control. Read/write.
 
 
 ## Syntax

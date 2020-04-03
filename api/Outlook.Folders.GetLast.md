@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Folders](Outlook.Folders.md) object.
 
 ## Return value
 
-A  **[Folder](Outlook.Folder.md)** object that represents the last object contained by the collection.
+A **[Folder](Outlook.Folder.md)** object that represents the last object contained by the collection.
 
 
 ## Remarks

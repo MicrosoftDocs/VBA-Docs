@@ -34,7 +34,7 @@ _expression_ A variable that represents an **[Application](PowerPoint.Applicatio
 
 ## Remarks
 
-For information about using events with the  **Application** object, see [How to: Use Events with the Application Object](../powerpoint/How-to/use-events-with-the-application-object.md).
+For information about using events with the **Aplication** object, see [How to: Use Events with the Application Object](../powerpoint/How-to/use-events-with-the-application-object.md).
 
 
 ## Example

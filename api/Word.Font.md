@@ -64,7 +64,7 @@ myFont.Name = "Arial"
 ActiveDocument.Paragraphs(1).Range.Font = myFont
 ```
 
-You can also duplicate a  **Font** object by using the **Duplicate** property. The following example creates a new character style with the character formatting from the selection and italic formatting. The formatting of the selection is not changed.
+You can also duplicate a **Font** object by using the **Duplicate** property. The following example creates a new character style with the character formatting from the selection and italic formatting. The formatting of the selection is not changed.
 
 
 

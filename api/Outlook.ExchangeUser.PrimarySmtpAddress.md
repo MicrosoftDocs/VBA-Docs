@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeUser.PrimarySmtpAddress property (Outlook)
 
-Returns a  **String** representing the primary Simple Mail Transfer Protocol (SMTP) address for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read-only.
+Returns a **String** representing the primary Simple Mail Transfer Protocol (SMTP) address for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read-only.
 
 
 ## Syntax

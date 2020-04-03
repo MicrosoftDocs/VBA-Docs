@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Timing.TriggerShape property (PowerPoint)
 
-Sets or returns a  **Shape** object that represents the shape associated with an animation trigger. Read/write.
+Sets or returns a **Shape** object that represents the shape associated with an animation trigger. Read/write.
 
 
 ## Syntax

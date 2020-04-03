@@ -29,9 +29,9 @@ _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 The value of this property can be one of the following  **[XlRowCol](Word.xlrowcol.md)** constants:
 
 
--  **xlColumns**
+- **xlColumns**
     
--  **xlRows**
+- **xlRows**
     
 
 

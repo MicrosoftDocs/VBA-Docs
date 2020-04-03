@@ -24,7 +24,7 @@ For Each le In _
 Next le
 ```
 
-Use the  **Add** method to add an item to a drop-down form field. The following example inserts a drop-down form field and then adds "red," "blue," and "green" to the form field.
+Use the **Add** method to add an item to a drop-down form field. The following example inserts a drop-down form field and then adds "red," "blue," and "green" to the form field.
 
 
 

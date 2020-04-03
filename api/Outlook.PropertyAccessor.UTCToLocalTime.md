@@ -34,7 +34,7 @@ _expression_ A variable that represents a [PropertyAccessor](Outlook.PropertyAcc
 
 ## Return value
 
-A  **Date** value that represents _Value_ after being converted from UTC to local time.
+A **Date** value that represents _Value_ after being converted from UTC to local time.
 
 
 ## Remarks

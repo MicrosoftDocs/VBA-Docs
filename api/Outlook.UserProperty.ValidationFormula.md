@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # UserProperty.ValidationFormula property (Outlook)
 
-Returns or sets a  **String** indicating the validation formula for the user property. Read/write.
+Returns or sets a **String** indicating the validation formula for the user property. Read/write.
 
 
 ## Syntax

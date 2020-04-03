@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[SeriesCollection](Word.SeriesCollec
 
 ## Return value
 
-A  **[Series](Word.Series.md)** object that represents the new series.
+A **[Series](Word.Series.md)** object that represents the new series.
 
 
 ## Remarks

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Shift.Index property (Project)
 
-Gets the index of a  **Shift** object in the containing object. Read-only **Integer**.
+Gets the index of a **Shift** object in the containing object. Read-only **Integer**.
 
 
 ## Syntax
@@ -26,15 +26,15 @@ _expression_ A variable that represents a [Shift](./Project.Shift.md) object.
 Following are the objects that can contain  **Shift** objects:
 
 
--  **Day**
+- **Day**
     
--  **Month**
+- **Month**
     
--  **WeekDay**
+- **WeekDay**
     
--  **WorkWeekDay**
+- **WorkWeekDay**
     
--  **Year**
+- **Year**
     
 
 

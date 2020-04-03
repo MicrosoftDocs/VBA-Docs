@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # PpUpdateOption enumeration (PowerPoint)
 
-Constants that specify how hyperlinks in presentaitons should be updated, passed to and returned by the  **AutoUpdate** property of the **LinkFormat** object.
+Constants that specify how hyperlinks in presentaitons should be updated, passed to and returned by the **AtoUpdate** property of the **LinkFormat** object.
 
 
 

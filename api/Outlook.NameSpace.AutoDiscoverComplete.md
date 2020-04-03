@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' ob
 
 ## Remarks
 
-This event is similar to the  **[AutoDiscoverComplete](Outlook.Accounts.AutoDiscoverComplete.md)** event of the **[Accounts](Outlook.Accounts.md)** object. If there are multiple Exchange accounts defined in the current profile, use the **AutoDiscoverComplete** event of the **Accounts** object that specifies the particular account.
+This event is similar to the **[AutoDiscoverComplete](Outlook.Accounts.AutoDiscoverComplete.md)** event of the **[Accounts](Outlook.Accounts.md)** object. If there are multiple Exchange accounts defined in the current profile, use the **AutoDiscoverComplete** event of the **Accounts** object that specifies the particular account.
 
 
 ## Example
@@ -34,9 +34,9 @@ This event is similar to the  **[AutoDiscoverComplete](Outlook.Accounts.AutoDisc
  **NameSpace.AutoDiscoverXml** is an XML string that is returned from the auto-discovery service of the Exchange server. The following code sample shows when this XML string is available during a normal Outlook session:
 
 
-1. When the  **[Application.Startup](Outlook.Application.Startup.md)** event occurs, if **[NameSpace.AutoDiscoverConnectionMode](Outlook.NameSpace.AutoDiscoverConnectionMode.md)** is not equal to **olAutoDiscoverConnectionUnknown**
+1. When the **[Application.Startup](Outlook.Application.Startup.md)** event occurs, if **[NameSpace.AutoDiscoverConnectionMode](Outlook.NameSpace.AutoDiscoverConnectionMode.md)** is not equal to **olAutoDiscoverConnectionUnknown**
     
-2. When the  **AutoDiscoverComplete** event occurs, if **AutoDiscoverConnectionMode** is not equal to **olAutoDiscoverConnectionUnknown**
+2. When the **AtoDiscoverComplete** event occurs, if **AutoDiscoverConnectionMode** is not equal to **olAutoDiscoverConnectionUnknown**
     
 
 

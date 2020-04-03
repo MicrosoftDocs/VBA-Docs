@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkComboBox.SelText property (Outlook)
 
-Returns a  **String** that represents the selected portion of the value of the combo box. Read-only.
+Returns a **String** that represents the selected portion of the value of the combo box. Read-only.
 
 
 ## Syntax

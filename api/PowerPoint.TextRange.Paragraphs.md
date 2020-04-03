@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextRange.Paragraphs method (PowerPoint)
 
-Returns a  **TextRange** object that represents the specified subset of text paragraphs.
+Returns a **TextRange** object that represents the specified subset of text paragraphs.
 
 
 ## Syntax

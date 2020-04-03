@@ -34,9 +34,9 @@ _expression_. `SlideShowEnd`( `_Pres_` )
 
 ## Remarks
 
-The  **SlideShowEnd** event always occurs before a slide show ends if the **[SlideShowBegin](PowerPoint.Application.SlideShowBegin.md)** event has occurred. You can use the **SlideShowEnd** event to return any property settings and variable initializations that occur in the **SlideShowBegin** event to their original settings.
+the **SlideShowEnd** event always occurs before a slide show ends if the **[SlideShowBegin](PowerPoint.Application.SlideShowBegin.md)** event has occurred. You can use the **SlideShowEnd** event to return any property settings and variable initializations that occur in the **SlideShowBegin** event to their original settings.
 
-For information about using events with the  **Application** object, see [How to: Use Events with the Application Object](../powerpoint/How-to/use-events-with-the-application-object.md).
+For information about using events with the **Aplication** object, see [How to: Use Events with the Application Object](../powerpoint/How-to/use-events-with-the-application-object.md).
 
 
 ## Example

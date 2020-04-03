@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents an '[InlineShape](Word.InlineS
 
 ## Remarks
 
-You must apply the  **AddNodes** method to a **FreeformBuilder** object at least once before you use the **ConvertToShape** method.
+You must apply the **AddNodes** method to a **FreeformBuilder** object at least once before you use the **ConvertToShape** method.
 
 
 ## Example

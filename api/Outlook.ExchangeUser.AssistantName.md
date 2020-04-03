@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeUser.AssistantName property (Outlook)
 
-Returns a  **String** representing the name of the assistant for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
+Returns a **String** representing the name of the assistant for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 
 
 ## Syntax

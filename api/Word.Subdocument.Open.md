@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Subdocument.Open method (Word)
 
-Opens the specified subdocument. Returns a  **Document** object that represents the opened subdocument.
+Opens the specified subdocument. Returns a **Document** object that represents the opened subdocument.
 
 
 ## Syntax

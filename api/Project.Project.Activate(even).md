@@ -29,7 +29,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-When you switch between two windows showing the same project, the  **Activate** event for the project doesn't occur.
+When you switch between two windows showing the same project, the **Activate** event for the project doesn't occur.
 
 This event doesn't occur when you create a new window. 
 

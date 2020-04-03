@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.Email1DisplayName property (Outlook)
 
-Returns a  **String** representing the display name of the first email address for the contact. Read/write.
+Returns a **String** representing the display name of the first email address for the contact. Read/write.
 
 
 ## Syntax

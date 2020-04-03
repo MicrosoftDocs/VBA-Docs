@@ -124,7 +124,7 @@ Private Function IVisEventProc_VisEventProc( _
 End Function
 ```
 
-The following VBA module shows how to use the  **AddAdvise** method to sink events. The module contains two public procedures.
+The following VBA module shows how to use the **AddAdvise** method to sink events. The module contains two public procedures.
 
 The  **CreateEventObjects** procedure creates an instance of a sink-object (event-handling) class named **clsEventSink** that gets passed to the **AddAdvise** method, and that receives notifications of events. In addition, the procedure creates a single **Event** object to send notifications of firings of the **MouseMove** event sourced by the **Application** object to the sink object.
 

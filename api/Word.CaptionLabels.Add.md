@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CaptionLabels.Add method (Word)
 
-Returns a  **CaptionLabel** object that represents a custom caption label.
+Returns a **CaptionLabel** object that represents a custom caption label.
 
 
 ## Syntax

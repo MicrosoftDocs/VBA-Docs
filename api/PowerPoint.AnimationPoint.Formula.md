@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AnimationPoint.Formula property (PowerPoint)
 
-Returns or sets a  **String** that represents a formula to use for calculating an animation. Read/write.
+Returns or sets a **String** that represents a formula to use for calculating an animation. Read/write.
 
 
 ## Syntax

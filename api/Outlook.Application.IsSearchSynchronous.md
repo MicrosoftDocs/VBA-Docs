@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.IsSearchSynchronous method (Outlook)
 
-Returns a  **Boolean** indicating if a search will be synchronous or asynchronous.
+Returns a **Boolean** indicating if a search will be synchronous or asynchronous.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** objec
 
 ## Return value
 
-A  **[SeriesCollection](PowerPoint.SeriesCollection.md)** object that represents all the series in the chart.
+A **[SeriesCollection](PowerPoint.SeriesCollection.md)** object that represents all the series in the chart.
 
 
 ## Example

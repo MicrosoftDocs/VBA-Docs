@@ -129,7 +129,7 @@ End Sub
 
 ## Looping Through Cells in a Named Range
 
-The following example loops through each cell in a named range by using a  **For Each...Next** loop. If the value of any cell in the range exceeds the value of `Limit`, the cell color is changed to yellow.
+The following example loops through each cell in a named range by using a **Fr Each...Next** loop. If the value of any cell in the range exceeds the value of `Limit`, the cell color is changed to yellow.
 
 ```vb
 Sub ApplyColor() 

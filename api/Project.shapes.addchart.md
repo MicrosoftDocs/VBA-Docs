@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shapes.AddChart method (Project)
-Creates a chart at the specified location on the active report. Returns a  **Shape** object that represents the chart.
+Creates a chart at the specified location on the active report. Returns a **Shape** object that represents the chart.
 
 ## Syntax
 

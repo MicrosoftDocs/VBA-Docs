@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TablesOfFigures.Add method (Word)
 
-Returns a  **TableOfFigures** object that represents a table of figures added to a document.
+Returns a **TableOfFigures** object that represents a table of figures added to a document.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactsModule.NavigationGroups property (Outlook)
 
-Returns a  **[NavigationGroups](Outlook.NavigationGroups.md)** object that contains the set of navigation groups associated with the **[ContactsModule](Outlook.ContactsModule.md)** object. Read-only.
+Returns a **[NavigationGroups](Outlook.NavigationGroups.md)** object that contains the set of navigation groups associated with the **[ContactsModule](Outlook.ContactsModule.md)** object. Read-only.
 
 
 ## Syntax

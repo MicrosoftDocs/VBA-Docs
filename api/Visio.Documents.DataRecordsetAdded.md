@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Documents.DataRecordsetAdded event (Visio)
 
-Occurs when a  **DataRecordset** object is added to a **DataRecordsets** collection.
+Occurs when a **DataRecordset** object is added to a **DataRecordsets** collection.
 
 
 > [!NOTE] 

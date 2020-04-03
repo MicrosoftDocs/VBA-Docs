@@ -34,7 +34,7 @@ Shapes
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVPage.Shapes**
+- **Microsoft.Office.Interop.Visio.IVPage.Shapes**
     
 
 ## Example

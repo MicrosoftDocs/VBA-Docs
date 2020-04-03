@@ -22,7 +22,7 @@ ActiveDocument.Sections(1).Footers(wdHeaderFooterPrimary) _
  .PageNumbers.StartingNumber = 3
 ```
 
-Use the  **Add** method to add page numbers to a header or footer. The following example adds a page number to the primary footer in the first section.
+Use the **Add** method to add page numbers to a header or footer. The following example adds a page number to the primary footer in the first section.
 
 
 

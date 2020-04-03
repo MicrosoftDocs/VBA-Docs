@@ -27,7 +27,7 @@ _expression_ An expression that returns an 'OverAllocatedAssignments' object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the  **Assignment** to return.|
+| _Index_|Required|**Long**|The index number of the **Assignment** to return.|
 
 ## Example
 

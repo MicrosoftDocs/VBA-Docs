@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.HomeAddressStreet property (Outlook)
 
-Returns or sets a  **String** representing the street portion of the home address for the contact. Read/write.
+Returns or sets a **String** representing the street portion of the home address for the contact. Read/write.
 
 
 ## Syntax

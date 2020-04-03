@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.Spouse property (Outlook)
 
-Returns or sets a  **String** indicating the spouse/partner name entry for the contact. Read/write.
+Returns or sets a **String** indicating the spouse/partner name entry for the contact. Read/write.
 
 
 ## Syntax

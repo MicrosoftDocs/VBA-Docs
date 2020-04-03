@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.HomeAddress property (Outlook)
 
-Returns or sets a  **String** representing the full, unparsed text of the home address for the contact. Read/write.
+Returns or sets a **String** representing the full, unparsed text of the home address for the contact. Read/write.
 
 
 ## Syntax

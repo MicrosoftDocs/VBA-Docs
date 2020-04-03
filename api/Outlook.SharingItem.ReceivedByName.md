@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.ReceivedByName property (Outlook)
 
-Returns a  **String** representing the display name of the true recipient for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
+Returns a **String** representing the display name of the true recipient for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax

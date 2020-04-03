@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.User4 property (Outlook)
 
-Returns or sets a  **String** specifying the fourth field on the Contacts form intended for miscellaneous use for the contact. Read/write.
+Returns or sets a **String** specifying the fourth field on the Contacts form intended for miscellaneous use for the contact. Read/write.
 
 
 ## Syntax

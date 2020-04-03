@@ -37,7 +37,7 @@ _expression_. `OpenSharedFolder`( `_Path_` , `_Name_` , `_DownloadAttachments_` 
 
 ## Return value
 
-A  **[Folder](Outlook.Folder.md)** object that represents the shared folder.
+A **[Folder](Outlook.Folder.md)** object that represents the shared folder.
 
 
 ## Remarks

@@ -19,11 +19,11 @@ A message object in MAPI that is always saved as a hidden item in the parent fol
 
 ## Remarks
 
-A  **StorageItem** object is stored at the folder level, allowing it to roam with the account and be available online or offline.
+A **StorageItem** object is stored at the folder level, allowing it to roam with the account and be available online or offline.
 
 The Outlook object model does not provide any collection object for  **StorageItem** objects. However, you can use **[Folder.GetTable](Outlook.Folder.GetTable.md)** to obtain a **[Table](Outlook.Table.md)** with all the hidden items in a **[Folder](Outlook.Folder.md)**, when you specify the _TableContents_ parameter as **olHiddenItems**. If keeping your data private is of a high concern, you should encrypt the data before storing it.
 
-Once you have obtained a  **StorageItem** object, you can do the following to store solution data:
+Once you have obtained a **StorageItem** object, you can do the following to store solution data:
 
 
 - Add attachments to the item for storage.

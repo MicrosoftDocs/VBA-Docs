@@ -29,11 +29,11 @@ _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
  **MajorUnitScale** can be one of the following **xlTimeUnit** constants:
 
 
--  **xlMonths**
+- **xlMonths**
     
--  **xlDays**
+- **xlDays**
     
--  **xlYears**
+- **xlYears**
     
 
 ## Example

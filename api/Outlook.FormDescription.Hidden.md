@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormDescription.Hidden property (Outlook)
 
-Returns a  **Boolean** value that indicates **True** to cause the specified custom form to be hidden. Read/write.
+Returns a **Boolean** value that indicates **True** to cause the specified custom form to be hidden. Read/write.
 
 
 ## Syntax

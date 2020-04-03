@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.ForceUpdateToAllAttendees property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether updates to the [AppointmentItem](Outlook.AppointmentItem.md) object should be sent to all attendees. Read/write.
+Returns or sets a **Boolean** value that indicates whether updates to the [AppointmentItem](Outlook.AppointmentItem.md) object should be sent to all attendees. Read/write.
 
 
 ## Syntax

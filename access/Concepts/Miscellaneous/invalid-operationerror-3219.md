@@ -24,7 +24,7 @@ Possible causes:
     
 - You tried to use a method or property on a type of  **Recordset** object that the method or property does not apply to. See the Recordset object summary topic to determine which methods and properties apply to a given type of **Recordset** object.
     
-- You tried to append a property to a  **Properties** collection of an object that does not support user-defined properties.
+- You tried to append a property to a **Properties** collection of an object that does not support user-defined properties.
     
 - You tried to use the  **Update** method on a read-only **Recordset** object.
     

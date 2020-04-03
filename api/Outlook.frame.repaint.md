@@ -19,7 +19,7 @@ Updates the display by redrawing the frame.
 
 _expression_.**Repaint**
 
-_expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a **Fame** object.
 
 
 ## Return value

@@ -31,7 +31,7 @@ The  **AccrueAt** property can be one of the **[PjAccrueAt](Project.PjAccrueAt.m
 
 ## Example
 
-The following example sets the  **AccrueAt** property to **pjProrated** for each resource in the active project.
+The following example sets the **AccrueAt** property to **pjProrated** for each resource in the active project.
 
 
 ```vb

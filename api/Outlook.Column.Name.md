@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Column.Name property (Outlook)
 
-Returns a  **String** value that represents the name of the **[Column](Outlook.Column.md)**. Read-only.
+Returns a **String** value that represents the name of the **[Column](Outlook.Column.md)**. Read-only.
 
 
 ## Syntax

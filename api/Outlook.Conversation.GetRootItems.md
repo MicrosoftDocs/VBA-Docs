@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Conversation.GetRootItems method (Outlook)
 
-Returns a  **[SimpleItems](Outlook.SimpleItems.md)** collection that contains all root items in the conversation.
+Returns a **[SimpleItems](Outlook.SimpleItems.md)** collection that contains all root items in the conversation.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Conversation](Outlook.Conversation.m
 
 ## Return value
 
-A  **SimpleItems** collection that includes the root item or all root items of the conversation.
+A **SimpleItems** collection that includes the root item or all root items of the conversation.
 
 
 ## Remarks

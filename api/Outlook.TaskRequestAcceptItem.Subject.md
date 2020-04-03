@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskRequestAcceptItem.Subject property (Outlook)
 
-Returns or sets a  **String** indicating the subject for the Outlook item. Read/write.
+Returns or sets a **String** indicating the subject for the Outlook item. Read/write.
 
 
 ## Syntax

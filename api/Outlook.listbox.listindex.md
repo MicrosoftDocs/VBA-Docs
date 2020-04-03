@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # ListBox.ListIndex Property (Outlook Forms Script)
 
-Returns or sets a  **Variant** that represents the currently selected item in a **[ListBox](Outlook.listbox.md)**. Read/write.
+Returns or sets a **Variant** that represents the currently selected item in a **[ListBox](Outlook.listbox.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**ListIndex**
 
-_expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a **ListBox** object.
 
 
 ## Remarks

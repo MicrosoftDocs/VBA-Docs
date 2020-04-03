@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeUser.Address property (Outlook)
 
-Returns or sets a  **String** representing the X400 email address of the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
+Returns or sets a **String** representing the X400 email address of the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 
 
 ## Syntax

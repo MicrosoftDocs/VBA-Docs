@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.MeetingWorkspaceURL property (Outlook)
 
-Returns a  **String** value that represents the URL for the Meeting Workspace that the appointment item is linked to. Read-only.
+Returns a **String** value that represents the URL for the Meeting Workspace that the appointment item is linked to. Read-only.
 
 
 ## Syntax

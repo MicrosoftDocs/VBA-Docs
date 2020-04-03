@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Rules.Item method (Outlook)
 
-Obtains a  **[Rule](Outlook.Rule.md)** object specified by _Index_ , which is either a numerical index into the **[Rules](Outlook.Rules.md)** collection or the rule name.
+Obtains a **[Rule](Outlook.Rule.md)** object specified by _Index_ , which is either a numerical index into the **[Rules](Outlook.Rules.md)** collection or the rule name.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Rules](Outlook.Rules.md) object.
 
 ## Return value
 
-A  **Rule** object that matches the rule specified by _Index_.
+A **Rule** object that matches the rule specified by _Index_.
 
 
 ## Remarks

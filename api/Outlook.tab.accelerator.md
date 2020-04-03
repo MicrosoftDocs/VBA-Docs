@@ -16,7 +16,7 @@ Returns or sets the accelerator key for the tab. Read/write.
 
 _expression_.**Accelerator**
 
-_expression_ A variable that represents a  **Tab** object.
+_expression_ A variable that represents a **Tab** object.
 
 
 ## Remarks

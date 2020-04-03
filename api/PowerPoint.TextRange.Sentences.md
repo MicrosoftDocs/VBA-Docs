@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextRange.Sentences method (PowerPoint)
 
-Returns a  **TextRange** object that represents the specified subset of text sentences.
+Returns a **TextRange** object that represents the specified subset of text sentences.
 
 
 ## Syntax

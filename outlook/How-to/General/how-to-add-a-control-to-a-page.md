@@ -16,7 +16,7 @@ The following example uses the **Add** method of the Microsoft Forms 2.0 **Contr
 
 To use this example, copy this sample code to the Script Editor of a form. Make sure that the form contains:
 
-- A  **[CommandButton](../../../api/Outlook.commandbutton.md)** named CommandButton1.
+- A **[CommandButton](../../../api/Outlook.commandbutton.md)** named CommandButton1.
 
 ```vb
 Dim Mycmd 

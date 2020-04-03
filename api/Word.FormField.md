@@ -37,7 +37,7 @@ If Selection.FormFields.Count >= 1 Then
 End If
 ```
 
-Use the  **Add** method with the **[FormFields](Word.formfields.md)** object to add a form field. The following example adds a check box at the beginning of the active document and then selects the check box.
+Use the **Add** method with the **[FormFields](Word.formfields.md)** object to add a form field. The following example adds a check box at the beginning of the active document and then selects the check box.
 
 
 

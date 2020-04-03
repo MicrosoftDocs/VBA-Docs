@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Store.FilePath property (Outlook)
 
-Returns a  **String** representing the full file path for a Personal Folders File (.pst) or an Offline Folder File (.ost) store. Read-only.
+Returns a **String** representing the full file path for a Personal Folders File (.pst) or an Offline Folder File (.ost) store. Read-only.
 
 
 ## Syntax

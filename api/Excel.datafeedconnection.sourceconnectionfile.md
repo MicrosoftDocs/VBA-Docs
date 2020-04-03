@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # DataFeedConnection.SourceConnectionFile property (Excel)
 
-Returns or sets a  **String** indicating the Microsoft Office Data Connection file or similar file that was used to create the connection. Read/write.
+Returns or sets a **String** indicating the Microsoft Office Data Connection file or similar file that was used to create the connection. Read/write.
 
 
 ## Syntax

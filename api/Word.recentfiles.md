@@ -21,7 +21,7 @@ Use the  **RecentFiles** property to return the **RecentFiles** collection. The 
 RecentFiles.Maximum = 5
 ```
 
-Use the  **Add** method to add a file to the **RecentFiles** collection. The following example adds the active document to the list of recently-used files.
+Use the **Add** method to add a file to the **RecentFiles** collection. The following example adds the active document to the list of recently-used files.
 
 
 

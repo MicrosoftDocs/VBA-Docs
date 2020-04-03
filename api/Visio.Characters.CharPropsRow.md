@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Characters.CharPropsRow property (Visio)
 
-Returns the index of the row in the Character section of a ShapeSheet window that contains character formatting information for a  **Characters** object. Read-only.
+Returns the index of the row in the Character section of a ShapeSheet window that contains character formatting information for a **Characters** object. Read-only.
 
 
 ## Syntax
@@ -56,6 +56,6 @@ Specify  **visBiasLeft** for the row that covers character formatting for the ch
 If you specify  **visBiasLetVisioChoose**, Visio uses the same logic it would apply to new text typed in the user interface starting at the insertion point. Usually, that means that Visio will apply the character formatting of the character to the left of the insertion point to the new text, so **CharPropsRow** will return the same value it would if passed **visBiasLeft**. (For an explanation of the meaning of "left" in this context, see the following note.) However, if the insertion point is at the beginning of a new paragraph, **CharPropsRow** returns the value it would return if passed **visBiasRight**.
 
 > [!NOTE] 
-> In the context of a  **Characters** object, "left" means logically prior. In other words, one character is to the "left" of another if it would have been typed first in the course of normal writing. It is necessary to make this distinction because in some languages, characters are normally written from right to left, and not from left to right.
+> In the context of a **Characters** object, "left" means logically prior. In other words, one character is to the "left" of another if it would have been typed first in the course of normal writing. It is necessary to make this distinction because in some languages, characters are normally written from right to left, and not from left to right.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TablesOfAuthorities.MarkCitation method (Word)
 
-Inserts a TA (Table of Authorities Entry) field and returns the field as a  **Field** object.
+Inserts a TA (Table of Authorities Entry) field and returns the field as a **Field** object.
 
 
 ## Syntax

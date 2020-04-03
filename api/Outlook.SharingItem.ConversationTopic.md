@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.ConversationTopic property (Outlook)
 
-Returns a  **String** representing the topic of the conversation thread of the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
+Returns a **String** representing the topic of the conversation thread of the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax

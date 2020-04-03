@@ -23,7 +23,7 @@ Use  **TablesOfContents** (Index), where Index is the index number, to return a 
 ActiveDocument.TablesOfContents(1).UpdatePageNumbers
 ```
 
-Use the  **Add** method to add a table of contents to a document. The following example adds a table of contents at the beginning of the active document. The example builds the table of contents from all paragraphs styled as either Heading 1, Heading 2, or Heading 3.
+Use the **Add** method to add a table of contents to a document. The following example adds a table of contents at the beginning of the active document. The example builds the table of contents from all paragraphs styled as either Heading 1, Heading 2, or Heading 3.
 
 
 

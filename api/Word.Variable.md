@@ -35,7 +35,7 @@ The index number represents the position of the document variable in the  **Vari
 MsgBox ActiveDocument.Variables(1).Name
 ```
 
-Use the  **Add** method of the **Variables** collection to add a variable to a document. The following example adds a document variable named "Temp" with a value of 12 to the active document.
+Use the **Add** method of the **Variables** collection to add a variable to a document. The following example adds a document variable named "Temp" with a value of 12 to the active document.
 
 
 

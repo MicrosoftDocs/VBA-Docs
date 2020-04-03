@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Characters.ParaPropsRow property (Visio)
 
-Returns the index of the row in the Paragraph section of a ShapeSheet window that contains paragraph-formatting information for a  **Characters** object. Read-only.
+Returns the index of the row in the Paragraph section of a ShapeSheet window that contains paragraph-formatting information for a **Characters** object. Read-only.
 
 
 ## Syntax
@@ -59,6 +59,6 @@ If you specify  **visBiasLetVisioChoose**, Visio uses the same logic it would ap
 
 
 > [!NOTE] 
-> In the context of a  **Characters** object, "left" means logically prior. In other words, one character is to the "left" of another if it would have been typed first in the course of normal writing. It is necessary to make this distinction because in some languages, characters are normally written from right to left, and not from left to right.
+> In the context of a **Characters** object, "left" means logically prior. In other words, one character is to the "left" of another if it would have been typed first in the course of normal writing. It is necessary to make this distinction because in some languages, characters are normally written from right to left, and not from left to right.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

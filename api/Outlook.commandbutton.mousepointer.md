@@ -16,7 +16,7 @@ Returns or sets an  **Integer** that specifies the type of pointer displayed whe
 
 _expression_.**MousePointer**
 
-_expression_ A variable that represents a  **CommandButton** object.
+_expression_ A variable that represents a **CmmandButton** object.
 
 
 ## Remarks

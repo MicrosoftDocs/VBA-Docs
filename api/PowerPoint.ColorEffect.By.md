@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ColorEffect.By property (PowerPoint)
 
-Returns a  **ColorFormat** object that represents a change to the color of the object by the specified number, expressed in RGB format. Read-only.
+Returns a **ColorFormat** object that represents a change to the color of the object by the specified number, expressed in RGB format. Read-only.
 
 
 ## Syntax

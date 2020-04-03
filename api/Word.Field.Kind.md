@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Field.Kind property (Word)
 
-Returns the type of link for a  **Field** object. Read-only **[WdFieldKind](Word.WdFieldKind.md)**.
+Returns the type of link for a **Field** object. Read-only **[WdFieldKind](Word.WdFieldKind.md)**.
 
 
 ## Syntax

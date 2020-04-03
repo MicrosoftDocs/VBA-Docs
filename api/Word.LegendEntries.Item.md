@@ -34,7 +34,7 @@ _expression_ A variable that represents a '[LegendEntries](Word.LegendEntries.md
 
 ## Return value
 
-A  **[LegendEntry](Word.LegendEntry.md)** object that the collection contains.
+A **[LegendEntry](Word.LegendEntry.md)** object that the collection contains.
 
 
 ## Example

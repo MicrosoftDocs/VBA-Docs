@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # UserProperties.Item method (Outlook)
 
-Returns a  **[UserProperty](Outlook.UserProperty.md)** object from the collection.
+Returns a **[UserProperty](Outlook.UserProperty.md)** object from the collection.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[UserProperties](Outlook.UserPropert
 
 ## Return value
 
-A  **UserProperty** object that represents the specified object.
+A **UserProperty** object that represents the specified object.
 
 
 ## See also

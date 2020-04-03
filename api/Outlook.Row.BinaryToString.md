@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Row.BinaryToString method (Outlook)
 
-Obtains a  **String** representing a value that has been converted from a binary value for the parent **[Row](Outlook.Row.md)** at the column specified by _Index_.
+Obtains a **String** representing a value that has been converted from a binary value for the parent **[Row](Outlook.Row.md)** at the column specified by _Index_.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Row](Outlook.Row.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|A 1-based index value that can be either a  **Long** representing the column index for the **[Columns](Outlook.Columns.md)** collection or a **String** representing the **[Name](Outlook.Column.Name.md)** of the **Column**.|
+| _Index_|Required| **Variant**|A 1-based index value that can be either a **Long** representing the column index for the **[Columns](Outlook.Columns.md)** collection or a **String** representing the **[Name](Outlook.Column.Name.md)** of the **Column**.|
 
 ## Return value
 

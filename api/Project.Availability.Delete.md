@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Availability.Delete method (Project)
 
-Deletes the  **Availability** object from an **Availabilities** collection.
+Deletes the **Availability** object from an **Availabilities** collection.
 
 
 ## Syntax

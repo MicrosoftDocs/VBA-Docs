@@ -24,7 +24,7 @@ Next aField
 MsgBox "There are " & count & " text boxes in this document"
 ```
 
-Use the  **Add** method with the **FormFields** object to add a form field. The following example adds a check box at the beginning of the active document and then selects the check box.
+Use the **Add** method with the **FormFields** object to add a form field. The following example adds a check box at the beginning of the active document and then selects the check box.
 
 
 

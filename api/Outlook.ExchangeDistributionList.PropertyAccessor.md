@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeDistributionList.PropertyAccessor property (Outlook)
 
-Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object. Read-only.
+Returns a **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object. Read-only.
 
 
 ## Syntax

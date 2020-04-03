@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Application.RemoveTimelineBar method (Project)
 
-Removes a  **Timeline** bar from the view. Introduced in Office 2016.
+Removes a **Timeline** bar from the view. Introduced in Office 2016.
 
 
 ## Syntax

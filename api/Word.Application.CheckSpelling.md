@@ -31,16 +31,16 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 | _Word_|Required| **String**|The text whose spelling is to be checked.|
 | _CustomDictionary_|Optional| **Variant**| Either an expression that returns a Dictionary object or the file name of the custom dictionary.|
 | _IgnoreUppercase_|Optional| **Variant**| **True** if capitalization is ignored. If this argument is omitted, the current value of the **IgnoreUppercase** property is used.|
-| _MainDictionary_|Optional| **Variant**|Either an expression that returns a  **Dictionary** object or the file name of the main dictionary.|
-| _CustomDictionary2_|Optional| **Variant**|Either an expression that returns a  **Dictionary** object or the file name of an additional custom dictionary.|
-| _CustomDictionary3_|Optional| **Variant**|Either an expression that returns a  **Dictionary** object or the file name of an additional custom dictionary.|
-| _CustomDictionary4_|Optional| **Variant**|Either an expression that returns a  **Dictionary** object or the file name of an additional custom dictionary.|
-| _CustomDictionary5_|Optional| **Variant**|Either an expression that returns a  **Dictionary** object or the file name of an additional custom dictionary.|
-| _CustomDictionary6_|Optional| **Variant**|Either an expression that returns a  **Dictionary** object or the file name of an additional custom dictionary.|
-| _CustomDictionary7_|Optional| **Variant**|Either an expression that returns a  **Dictionary** object or the file name of an additional custom dictionary.|
-| _CustomDictionary8_|Optional| **Variant**|Either an expression that returns a  **Dictionary** object or the file name of an additional custom dictionary.|
-| _CustomDictionary9_|Optional| **Variant**|Either an expression that returns a  **Dictionary** object or the file name of an additional custom dictionary.|
-| _CustomDictionary10_|Optional| **Variant**|Either an expression that returns a  **Dictionary** object or the file name of an additional custom dictionary.|
+| _MainDictionary_|Optional| **Variant**|Either an expression that returns a **Dictionary** object or the file name of the main dictionary.|
+| _CustomDictionary2_|Optional| **Variant**|Either an expression that returns a **Dictionary** object or the file name of an additional custom dictionary.|
+| _CustomDictionary3_|Optional| **Variant**|Either an expression that returns a **Dictionary** object or the file name of an additional custom dictionary.|
+| _CustomDictionary4_|Optional| **Variant**|Either an expression that returns a **Dictionary** object or the file name of an additional custom dictionary.|
+| _CustomDictionary5_|Optional| **Variant**|Either an expression that returns a **Dictionary** object or the file name of an additional custom dictionary.|
+| _CustomDictionary6_|Optional| **Variant**|Either an expression that returns a **Dictionary** object or the file name of an additional custom dictionary.|
+| _CustomDictionary7_|Optional| **Variant**|Either an expression that returns a **Dictionary** object or the file name of an additional custom dictionary.|
+| _CustomDictionary8_|Optional| **Variant**|Either an expression that returns a **Dictionary** object or the file name of an additional custom dictionary.|
+| _CustomDictionary9_|Optional| **Variant**|Either an expression that returns a **Dictionary** object or the file name of an additional custom dictionary.|
+| _CustomDictionary10_|Optional| **Variant**|Either an expression that returns a **Dictionary** object or the file name of an additional custom dictionary.|
 
 ## Return value
 

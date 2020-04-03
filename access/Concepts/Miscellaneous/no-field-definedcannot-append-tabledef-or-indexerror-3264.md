@@ -13,7 +13,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You cannot append a  **TableDef** until you define one or more fields. Use the **CreateField** method to create fields, append them to the **Fields** collection of your **TableDef** object, and then append the **TableDef** object to the **TableDefs** collection.
+You cannot append a **TableDef** until you define one or more fields. Use the **CreateField** method to create fields, append them to the **Fields** collection of your **TableDef** object, and then append the **TableDef** object to the **TableDefs** collection.
 
 ## See also
 

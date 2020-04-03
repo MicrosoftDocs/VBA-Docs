@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Empty Enum type not allowed
 
-An  **Enum** type specifies the name and members for an enumeration. This error has the following cause and solution:
+An **Enum** type specifies the name and members for an enumeration. This error has the following cause and solution:
 
 
 

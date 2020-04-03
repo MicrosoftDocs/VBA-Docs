@@ -26,7 +26,7 @@ _expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) obje
 
 ## Return value
 
-A  **[Folder](Outlook.Folder.md)** object that represents the folder that the user selects in the dialog box, or **Nothing** if the dialog box is canceled by the user.
+A **[Folder](Outlook.Folder.md)** object that represents the folder that the user selects in the dialog box, or **Nothing** if the dialog box is canceled by the user.
 
 
 ## Remarks

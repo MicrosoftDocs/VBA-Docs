@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.EndTimeZone property (Outlook)
 
-Returns or sets a  **[TimeZone](Outlook.TimeZone.md)** value that corresponds to the end time of the appointment. Read/write.
+Returns or sets a **[TimeZone](Outlook.TimeZone.md)** value that corresponds to the end time of the appointment. Read/write.
 
 
 ## Syntax

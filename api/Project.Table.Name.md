@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Table.Name property (Project)
 
-Gets the name of a  **Table** object. Read/write **String**.
+Gets the name of a **Table** object. Read/write **String**.
 
 
 ## Syntax

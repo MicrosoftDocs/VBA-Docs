@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # TabStrip.ForeColor Property (Outlook Forms Script)
 
-Returns or sets a  **Long** that specifies the foreground color of an object. Read/write.
+Returns or sets a **Long** that specifies the foreground color of an object. Read/write.
 
 
 ## Syntax
 
 _expression_.**ForeColor**
 
-_expression_ A variable that represents a  **TabStrip** object.
+_expression_ A variable that represents a **TabStrip** object.
 
 
 ## Remarks

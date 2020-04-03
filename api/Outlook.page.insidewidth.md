@@ -9,13 +9,13 @@ localization_priority: Normal
 
 # Page.InsideWidth Property (Outlook Forms Script)
 
-Returns a  **Long** that specifies the width, in [points](../language/glossary/vbe-glossary.md#point), of the client region inside a **[Page](Outlook.page.md)**. Read-only.
+Returns a **Long** that specifies the width, in [points](../language/glossary/vbe-glossary.md#point), of the client region inside a **[Page](Outlook.page.md)**. Read-only.
 
 
 ## Syntax
 
 _expression_.**InsideWidth**
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **Page** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

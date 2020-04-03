@@ -12,11 +12,11 @@ localization_priority: Normal
 
 # Expected Sub, Function, or Property
 
-The syntax of your statement indicates a  **Sub**, **Function**, or **Property** procedure invocation. This error has the following cause and solution:
+The syntax of your statement indicates a **Sub**, **Function**, or **Property** procedure invocation. This error has the following cause and solution:
 
 
 
-- The specified name isn't that of a  **Sub**, **Function**, or **Property** procedure in [scope](../../Glossary/vbe-glossary.md#scope) in this part of your program.
+- The specified name isn't that of a **Sub**, **Function**, or **Property** procedure in [scope](../../Glossary/vbe-glossary.md#scope) in this part of your program.
     
     Check the spelling of the name. Note that if the [procedure](../../Glossary/vbe-glossary.md#procedure) is defined as **Private**, it can only be called from within its [module](../../Glossary/vbe-glossary.md#module).
     

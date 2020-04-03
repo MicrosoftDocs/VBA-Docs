@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[LegendEntries](PowerPoint.LegendEntr
 
 ## Return value
 
-A  **[LegendEntry](PowerPoint.LegendEntry.md)** object that the collection contains.
+A **[LegendEntry](PowerPoint.LegendEntry.md)** object that the collection contains.
 
 
 ## Example

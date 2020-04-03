@@ -26,7 +26,7 @@ _expression_. `Deny`
 
 ## Return value
 
-A  **SharingItem** object that represents the sharing response.
+A **SharingItem** object that represents the sharing response.
 
 
 ## Remarks

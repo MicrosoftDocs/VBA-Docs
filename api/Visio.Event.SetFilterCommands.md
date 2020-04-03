@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Event.SetFilterCommands method (Visio)
 
-Specifies an array of command ranges and a  **True** or **False** value indicating how to filter events for each command range.
+Specifies an array of command ranges and a **True** or **False** value indicating how to filter events for each command range.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Event](Visio.Event.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Commands()_|Required| **Long**|An array of command ranges and a  **True** or **False** value specifying how to filter events for each command range.|
+| _Commands()_|Required| **Long**|An array of command ranges and a **True** or **False** value specifying how to filter events for each command range.|
 
 ## Return value
 
@@ -50,7 +50,7 @@ The number of elements in  _Commands()_ is a multiple of 3:
     
 - The second element contains the end command ID of the range (any member of  **VisUICmds**).
     
-- The third element contains a  **True** or **False** value, which indicates whether you are listening to events for that command range (**True** to listen to events; **False** to exclude events).
+- The third element contains a **True** or **False** value, which indicates whether you are listening to events for that command range (**True** to listen to events; **False** to exclude events).
     
 
 

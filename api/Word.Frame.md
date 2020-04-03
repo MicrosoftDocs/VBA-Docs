@@ -26,7 +26,7 @@ Use  **Frames** (Index), where Index is the index number, to return a single **F
 ActiveDocument.Frames(1).TextWrap = True
 ```
 
-Use the  **Add** method to add a frame around a range. The following example adds a frame around the first paragraph in the active document.
+Use the **Add** method to add a frame around a range. The following example adds a frame around the first paragraph in the active document.
 
 
 

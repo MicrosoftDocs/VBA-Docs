@@ -26,9 +26,9 @@ _expression_ A variable that represents a [StorageItem](Outlook.StorageItem.md) 
 
 ## Remarks
 
-This call allows a solution to clean up or reset the storage for its private data. Attempting to delete a  **StorageItem** that has been removed by a prior **StorageItem.Delete** call will result in the error, "Could not complete the deletion."
+This call allows a solution to clean up or reset the storage for its private data. Attempting to delete a **StorageItem** that has been removed by a prior **StorageItem.Delete** call will result in the error, "Could not complete the deletion."
 
-For more information on deleting solution data stored in a  **StorageItem** object, see [Updating and Deleting Solution Storage](../outlook/How-to/Solution-Storage/updating-and-deleting-solution-storage.md).
+For more information on deleting solution data stored in a **StorageItem** object, see [Updating and Deleting Solution Storage](../outlook/How-to/Solution-Storage/updating-and-deleting-solution-storage.md).
 
 
 ## Example

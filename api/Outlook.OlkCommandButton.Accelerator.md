@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkCommandButton.Accelerator property (Outlook)
 
-Returns or sets a  **String** value that represents the accelerator or hot key for the control. Read/write.
+Returns or sets a **String** value that represents the accelerator or hot key for the control. Read/write.
 
 
 ## Syntax

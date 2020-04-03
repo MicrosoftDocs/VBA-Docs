@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.HomeAddressCountry property (Outlook)
 
-Returns or sets a  **String** representing the country/region portion of the home address for the contact. Read/write.
+Returns or sets a **String** representing the country/region portion of the home address for the contact. Read/write.
 
 
 ## Syntax

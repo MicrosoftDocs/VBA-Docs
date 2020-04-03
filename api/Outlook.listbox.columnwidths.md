@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # ListBox.ColumnWidths Property (Outlook Forms Script)
 
-Returns or sets a  **String** that specifies the width of each column in a multicolumn **[ListBox](Outlook.listbox.md)**. Read/write.
+Returns or sets a **String** that specifies the width of each column in a multicolumn **[ListBox](Outlook.listbox.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**ColumnWidths**
 
-_expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a **ListBox** object.
 
 
 ## Remarks

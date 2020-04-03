@@ -24,7 +24,7 @@ The  **Presentations** collection doesn't include open add-ins, which are a spec
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this collection maps to the following types:
 
 
--  **Microsoft.Office.Interop.PowerPoint.Presentations.GetEnumerator** (to enumerate the **Presentation** objects.)
+- **Microsoft.Office.Interop.PowerPoint.Presentations.GetEnumerator** (to enumerate the **Presentation** objects.)
     
 
 ## Example

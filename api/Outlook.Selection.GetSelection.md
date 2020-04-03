@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Selection.GetSelection method (Outlook)
 
-Returns a  **[Selection](Outlook.Selection.md)** object that contains the kind of objects specified by the _SelectionContents_ parameter, and that are currently selected in the active explorer.
+Returns a **[Selection](Outlook.Selection.md)** object that contains the kind of objects specified by the _SelectionContents_ parameter, and that are currently selected in the active explorer.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Selection](Outlook.Selection.md) obje
 
 ## Return value
 
-A  **Selection** object that contains the specified kind of objects that are selected in the active explorer.
+A **Selection** object that contains the specified kind of objects that are selected in the active explorer.
 
 
 ## Remarks

@@ -31,7 +31,7 @@ MsoCalloutAngleType
 
 ## Remarks
 
-The value of the  **Angle** property can be one of these **MsoCalloutAngleType** constants.
+The value of the **Agle** property can be one of these **MsoCalloutAngleType** constants.
 
 
 

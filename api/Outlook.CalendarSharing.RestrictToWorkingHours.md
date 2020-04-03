@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CalendarSharing.RestrictToWorkingHours property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether calendar items that do not occur within working hours should be included in the iCalendar (.ics) file created by the **[ForwardAsICal](Outlook.CalendarSharing.ForwardAsICal.md)** or **[SaveAsICal](Outlook.CalendarSharing.SaveAsICal.md)** methods of the **[CalendarSharing](Outlook.CalendarSharing.md)** object. Read/write.
+Returns or sets a **Boolean** value that indicates whether calendar items that do not occur within working hours should be included in the iCalendar (.ics) file created by the **[ForwardAsICal](Outlook.CalendarSharing.ForwardAsICal.md)** or **[SaveAsICal](Outlook.CalendarSharing.SaveAsICal.md)** methods of the **[CalendarSharing](Outlook.CalendarSharing.md)** object. Read/write.
 
 
 ## Syntax

@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # TextRange2.Copy method (PowerPoint)
 
-Copies a  **TextRange2** object.
+Copies a **TextRange2** object.
 
 
 ## Syntax

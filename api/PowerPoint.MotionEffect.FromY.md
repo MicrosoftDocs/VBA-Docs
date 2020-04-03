@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MotionEffect.FromY property (PowerPoint)
 
-Returns or sets a  **Single** that represents the vertical position of a **[MotionEffect](PowerPoint.MotionEffect.md)** object, specified as a percentage of the screen width. Read/write.
+Returns or sets a **Single** that represents the vertical position of a **[MotionEffect](PowerPoint.MotionEffect.md)** object, specified as a percentage of the screen width. Read/write.
 
 
 ## Syntax

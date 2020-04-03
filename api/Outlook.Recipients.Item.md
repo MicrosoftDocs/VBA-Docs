@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Recipients.Item method (Outlook)
 
-Returns a  **[Recipient](Outlook.Recipient.md)** object from the collection.
+Returns a **[Recipient](Outlook.Recipient.md)** object from the collection.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Recipients](Outlook.Recipients.md) ob
 
 ## Return value
 
-A  **Recipient** object that represents the specified object.
+A **Recipient** object that represents the specified object.
 
 
 ## See also

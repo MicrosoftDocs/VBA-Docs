@@ -24,7 +24,7 @@ The following examples describes how to do the following:
 
 - Return the  **Font** object that represents the font attributes of a specified bullet, a specified range of text, or all text at a specified outline level
     
-- Return a  **Font** object from the collection of all the fonts used in the presentation
+- Return a **Font** object from the collection of all the fonts used in the presentation
     
 Use the [Font](PowerPoint.TextRange.Font.md)property to return the  **Font** object that represents the font attributes for a specific bullet, text range, or outline level. The following example sets the title text on slide one and sets the font properties.
 

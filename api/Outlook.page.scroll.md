@@ -16,7 +16,7 @@ Moves the scroll bar on an object.
 
 _expression_.**Scroll**(**_xAction_**,  **_yAction_**)
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **Page** object.
 
 
 ## Parameters

@@ -30,7 +30,7 @@ The Outlook  **Application** object has several purposes:
     
 - It allows access to the active interface objects (the explorer and the inspector).
     
-When you use Automation to control Outlook from another application, you use the  **CreateObject** method to create an Outlook **Application** object.
+When you use Automation to control Outlook from another application, you use the **CreateObject** method to create an Outlook **Application** object.
 
 
 ## Example
@@ -48,7 +48,7 @@ Set myFolder= _
 myFolder.Display
 ```
 
-The following Visual Basic for Applications (VBA) example uses the  **Application** object to create and open a new contact.
+The following Visual Basic for Applications (VBA) example uses the **Aplication** object to create and open a new contact.
 
 
 

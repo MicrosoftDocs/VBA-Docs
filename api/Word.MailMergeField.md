@@ -26,7 +26,7 @@ Use  **Fields** (Index), where Index is the index number, to return a single **M
 MsgBox ActiveDocument.MailMerge.Fields(1).Code
 ```
 
-Use the  **Add** method to add a merge field to the **MailMergeFields** collection. The following example replaces the selection with a MiddleInitial merge field.
+Use the **Add** method to add a merge field to the **MailMergeFields** collection. The following example replaces the selection with a MiddleInitial merge field.
 
 
 

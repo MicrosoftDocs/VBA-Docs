@@ -31,7 +31,7 @@ Shape
 
 ## Remarks
 
-You must apply the [AddNodes](PowerPoint.FreeformBuilder.AddNodes.md)method to a  **FreeformBuilder** object at least once before you use the **ConvertToShape** method.
+You must apply the [AddNodes](PowerPoint.FreeformBuilder.AddNodes.md)method to a **FreeformBuilder** object at least once before you use the **ConvertToShape** method.
 
 
 ## Example

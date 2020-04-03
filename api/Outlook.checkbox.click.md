@@ -19,7 +19,7 @@ Occurs when the user clicks inside the control.
 
 _expression_.**Click**
 
-_expression_ A variable that represents a  **CheckBox** object.
+_expression_ A variable that represents a **CeckBox** object.
 
 
 ## Remarks
@@ -41,7 +41,7 @@ The  **Click** event is not initiated when **Value** is set to **Null**.
 
 Left-clicking changes the value of a control, thus it initiates the  **Click** event. Right-clicking does not change the value of the control, so it does not initiate the **Click** event.
 
-If you bind a  **CheckBox** to a field, then the **Click** event does not fire. You need to use the **PropertyChange** or **CustomPropertyChange** event to detect the change via code, as in the following code sample:
+If you bind a **CeckBox** to a field, then the **Click** event does not fire. You need to use the **PropertyChange** or **CustomPropertyChange** event to detect the change via code, as in the following code sample:
 
 
 

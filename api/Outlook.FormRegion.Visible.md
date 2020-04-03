@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormRegion.Visible property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether the form region is visible or hidden. Read/write.
+Returns or sets a **Boolean** value that indicates whether the form region is visible or hidden. Read/write.
 
 
 ## Syntax

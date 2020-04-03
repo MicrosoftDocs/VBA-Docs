@@ -39,7 +39,7 @@ Nothing
 
 ## Remarks
 
-Using the  **Arrange** method is equivalent to clicking **Arrange All** in the **Window** group on the **View** tab. The active window remains active.
+Using the **Arrange** method is equivalent to clicking **Arrange All** in the **Window** group on the **View** tab. The active window remains active.
 
 Visio considers windows from top to bottom and then from left to right. You can influence which windows will end up topmost when tiling horizontally (or leftmost when tiling vertically) by prearranging windows.
 

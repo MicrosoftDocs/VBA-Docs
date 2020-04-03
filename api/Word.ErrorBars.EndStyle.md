@@ -29,9 +29,9 @@ _expression_ A variable that represents an '[ErrorBars](Word.ErrorBars.md)' obje
 The value of this property can be one of the following  **[XlEndStyleCap](Word.xlendstylecap.md)** constants:
 
 
--  **xlCap**
+- **xlCap**
     
--  **xlNoCap**
+- **xlNoCap**
     
 
 

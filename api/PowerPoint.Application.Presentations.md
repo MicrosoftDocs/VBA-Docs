@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Presentations property (PowerPoint)
 
-Returns a  **[Presentations](PowerPoint.Presentations.md)** collection that represents all open presentations. Read-only.
+Returns a **[Presentations](PowerPoint.Presentations.md)** collection that represents all open presentations. Read-only.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ For information about returning a single member of a collection, see [Returning 
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.PowerPoint._Application.Presentations**
+- **Microsoft.Office.Interop.PowerPoint._Application.Presentations**
     
 
 ## Example

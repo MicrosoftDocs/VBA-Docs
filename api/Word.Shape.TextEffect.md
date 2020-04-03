@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.TextEffect property (Word)
 
-Returns a  **TextEffectFormat** object that contains text-effect formatting properties for the specified shape. Read-only.
+Returns a **TextEffectFormat** object that contains text-effect formatting properties for the specified shape. Read-only.
 
 
 ## Syntax

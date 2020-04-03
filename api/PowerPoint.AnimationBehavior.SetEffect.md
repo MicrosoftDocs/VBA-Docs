@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AnimationBehavior.SetEffect property (PowerPoint)
 
-Returns a  **SetEffect** object for the animation behavior. Read-only.
+Returns a **SetEffect** object for the animation behavior. Read-only.
 
 
 ## Syntax

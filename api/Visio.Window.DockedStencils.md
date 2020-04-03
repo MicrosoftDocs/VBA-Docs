@@ -43,7 +43,7 @@ The  **DockedStencils** method returns an array of strings&mdash;the names of th
 
 If the  **DockedStencils** method succeeds, _NameArray()_ returns a one-dimensional array of _n_ strings indexed from zero (0) to _n_ - 1. The _NameArray()_ parameter is an out parameter that is allocated by the **DockedStencils** method, ownership of which is passed back to the caller. The caller should eventually perform the **SafeArrayDestroy** procedure on the returned array. Note that the **SafeArrayDestroy** procedure has the side effect of freeing the strings referenced by the array's entries. The **DockedStencils** method fails if _NameArray()_ is null. (Microsoft Visual Basic and Visual Basic for Applications take care of destroying the array for you.)
 
-If  _strStencilName_ is the string returned by _NameArray(StencilName)_,  **Documents.Item** ( _strStencilName_) succeeds and returns a  **Document** object representing the stencil.
+If  _strStencilName_ is the string returned by _NameArray(StencilName)_,  **Documents.Item** ( _strStencilName_) succeeds and returns a **Document** object representing the stencil.
 
 
 ## Example

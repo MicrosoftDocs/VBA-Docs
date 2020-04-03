@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.BusinessAddressCity property (Outlook)
 
-Returns or sets a  **String** representing the city name portion of the business address for the contact. Read/write.
+Returns or sets a **String** representing the city name portion of the business address for the contact. Read/write.
 
 
 ## Syntax

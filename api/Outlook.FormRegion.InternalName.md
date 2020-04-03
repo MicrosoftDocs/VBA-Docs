@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormRegion.InternalName property (Outlook)
 
-Returns a  **String** that represents the internal programmatic name of the form region as defined in the manifest for the form region. Read-only.
+Returns a **String** that represents the internal programmatic name of the form region as defined in the manifest for the form region. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.BusinessFaxNumber property (Outlook)
 
-Returns or sets a  **String** representing the business fax number for the contact. Read/write.
+Returns or sets a **String** representing the business fax number for the contact. Read/write.
 
 
 ## Syntax

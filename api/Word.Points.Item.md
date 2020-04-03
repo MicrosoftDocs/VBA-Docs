@@ -34,7 +34,7 @@ _expression_ A variable that represents a '[Points](Word.Points.md)' object.
 
 ## Return value
 
-A  **[Point](Word.Point.md)** object that the collection contains.
+A **[Point](Word.Point.md)** object that the collection contains.
 
 
 ## Example

@@ -26,7 +26,7 @@ _expression_ A variable that represents an [EffectInformation](PowerPoint.Effect
 
 ## Remarks
 
-The value returned by the  **AfterEffect** property can be one of these **PpAfterEffect** constants.
+The value returned by the **AterEffect** property can be one of these **PpAfterEffect** constants.
 
 
 ||

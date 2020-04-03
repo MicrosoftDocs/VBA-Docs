@@ -29,31 +29,31 @@ _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 You can use the following  **[XlConstants](Word.XlConstants.md)** constants for this property:
 
 
--  **xlColumn**
+- **xlColumn**
     
--  **xlBar**
+- **xlBar**
     
--  **xl3DBar**
+- **xl3DBar**
     
--  **xlLine**
+- **xlLine**
     
--  **xlPie**
+- **xlPie**
     
--  **xlXYScatter**
+- **xlXYScatter**
     
--  **xlArea**
+- **xlArea**
     
--  **xl3DArea**
+- **xl3DArea**
     
--  **xlDoughnut**
+- **xlDoughnut**
     
--  **xlRadar**
+- **xlRadar**
     
--  **xl3DSurface**
+- **xl3DSurface**
     
--  **xl3DColumn**
+- **xl3DColumn**
     
--  **xl3DBar**
+- **xl3DBar**
     
 
 

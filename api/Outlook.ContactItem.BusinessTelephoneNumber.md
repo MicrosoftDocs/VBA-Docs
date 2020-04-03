@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.BusinessTelephoneNumber property (Outlook)
 
-Returns or sets a  **String** representing the first business telephone number for the contact. Read/write.
+Returns or sets a **String** representing the first business telephone number for the contact. Read/write.
 
 
 ## Syntax

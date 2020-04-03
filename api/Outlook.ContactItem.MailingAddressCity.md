@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.MailingAddressCity property (Outlook)
 
-Returns or sets a  **String** representing the city name portion of the selected mailing address of the contact. Read/write.
+Returns or sets a **String** representing the city name portion of the selected mailing address of the contact. Read/write.
 
 
 ## Syntax

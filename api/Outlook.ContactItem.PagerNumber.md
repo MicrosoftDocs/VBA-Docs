@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.PagerNumber property (Outlook)
 
-Returns or sets a  **String** representing the pager number for the contact. Read/write.
+Returns or sets a **String** representing the pager number for the contact. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Version property (Outlook)
 
-Returns or sets a  **String** indicating the number of the version. Read-only.
+Returns or sets a **String** indicating the number of the version. Read-only.
 
 
 ## Syntax

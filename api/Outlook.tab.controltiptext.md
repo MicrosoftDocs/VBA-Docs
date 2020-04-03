@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # Tab.ControlTipText Property (Outlook Forms Script)
 
-Returns and sets a  **String** that specifies text that appears when the user briefly holds the mouse pointer over a control without clicking. Read/write.
+Returns and sets a **String** that specifies text that appears when the user briefly holds the mouse pointer over a control without clicking. Read/write.
 
 
 ## Syntax
 
 _expression_.**ControlTipText**
 
-_expression_ A variable that represents a  **Tab** object.
+_expression_ A variable that represents a **Tab** object.
 
 
 ## Remarks

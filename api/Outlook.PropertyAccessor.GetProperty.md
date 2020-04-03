@@ -34,7 +34,7 @@ _expression_ A variable that represents a [PropertyAccessor](Outlook.PropertyAcc
 
 ## Return value
 
-A  **Variant** value that represents the value of the requested property as specified by _SchemaName_.
+A **Variant** value that represents the value of the requested property as specified by _SchemaName_.
 
 
 ## Remarks

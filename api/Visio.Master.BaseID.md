@@ -33,7 +33,7 @@ String
 
 A base ID is assigned to a master when it is created. When a master is copied, the copies all have the same base ID as the original master.
 
-A  **Master** object also has a **UniqueID** property. When a master is copied, the copy is assigned the same unique ID as the original master, and its base also ID remains the same as that of the original master. If the copy of the master gets changed, its unique ID changes its the base ID remains the same.
+A **Master** object also has a **UniqueID** property. When a master is copied, the copy is assigned the same unique ID as the original master, and its base also ID remains the same as that of the original master. If the copy of the master gets changed, its unique ID changes its the base ID remains the same.
 
 In addition, if you copy into a stencil a master that has the same unique ID as a master already in the stencil, Visio assigns a new unique ID to the copy.
 

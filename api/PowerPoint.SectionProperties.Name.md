@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SectionProperties.Name method (PowerPoint)
 
-Returns the name of the specified section as a  **String**.
+Returns the name of the specified section as a **String**.
 
 
 ## Syntax

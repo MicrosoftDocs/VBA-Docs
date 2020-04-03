@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.TTYTDDTelephoneNumber property (Outlook)
 
-Returns or sets a  **String** specifying the TTY/TDD telephone number for the contact. Read/write.
+Returns or sets a **String** specifying the TTY/TDD telephone number for the contact. Read/write.
 
 
 ## Syntax

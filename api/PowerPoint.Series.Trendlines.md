@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' objec
 
 ## Return value
 
-A  **[Trendlines](PowerPoint.Trendlines.md)** object that represents all the treadlines for the series.
+A **[Trendlines](PowerPoint.Trendlines.md)** object that represents all the treadlines for the series.
 
 
 ## Example

@@ -16,7 +16,7 @@ Returns or sets an  **Integer** that specifies the amount of movement that occur
 
 _expression_.**SmallChange**
 
-_expression_ A variable that represents a  **SpinButton** object.
+_expression_ A variable that represents a **SpinButton** object.
 
 
 ## Remarks
