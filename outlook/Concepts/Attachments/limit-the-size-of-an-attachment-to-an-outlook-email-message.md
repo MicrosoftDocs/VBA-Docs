@@ -2,12 +2,13 @@
 title: Limit the Size of an Attachment to an Outlook Email Message
 ms.prod: outlook
 ms.assetid: 9a240e17-f715-482c-9a8b-c6be1144e15a
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Limit the Size of an Attachment to an Outlook Email Message
+
 This topic describes how you can create a managed add-in for Outlook that cancels sending email if the total attachment size is greater than a fixed limit.
 
  **Provided by:** Ken Getz, [MCW Technologies, LLC](https://www.mcwtech.com/)
@@ -16,7 +17,7 @@ A given email message can contain one or more file attachments, and you may want
 
 The Outlook **ItemSend** event receives as its parameters a reference to the item being sent, and a Boolean variable that is passed by reference and that allows you to cancel the send operation. It is up to your own code in the event handler to determine whether you want to cancel the event; you do so by setting theCancel parameter to **True** if you do wish to cancel the event.
 
-In this example, to determine whether the total attachment size is larger than a specific size, the code loops through each attachment in the item's **Attachments** collection. For each item, the code retrieves the **Size** property, summing as it loops. If the sum ever exceeds the size of the **maxSize** constant, the code sets the `tooLarge` variable to **True**, and exits the loop. After the loop, if the  `tooLarge` variable is **True**, the code alerts the user and sets the Cancel parameter to the event handler (which was passed by reference) to **True**, causing Outlook to cancel the sending of the item.
+In this example, to determine whether the total attachment size is larger than a specific size, the code loops through each attachment in the item's **Attachments** collection. For each item, the code retrieves the **Size** property, summing as it loops. If the sum ever exceeds the size of the **maxSize** constant, the code sets the `tooLarge` variable to **True**, and exits the loop. After the loop, if the `tooLarge` variable is **True**, the code alerts the user and sets the Cancel parameter to the event handler (which was passed by reference) to **True**, causing Outlook to cancel the sending of the item.
 
 The following managed code samples are written in C# and Visual Basic. To run a .NET Framework managed code sample that needs to call into a Component Object Model (COM), you must use an interop assembly that defines and maps managed interfaces to the COM objects in the object model type library. For Outlook, you can use Visual Studio and the Outlook Primary Interop Assembly (PIA). Before you run managed code samples for Outlook 2013, ensure that you have installed the Outlook 2013 PIA and have added a reference to the Microsoft Outlook 15.0 Object Library component in Visual Studio. 
 

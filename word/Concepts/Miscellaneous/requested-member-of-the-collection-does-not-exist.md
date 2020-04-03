@@ -2,7 +2,7 @@
 title: Requested Member of the Collection Does Not Exist
 ms.prod: word
 ms.assetid: 0053e3e4-8e33-c994-a910-572370dbbfb2
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -34,7 +34,7 @@ Sub SelectFirstTable()
 End Sub
 ```
 
-If you are accessing a collection member by name, you can loop on the elements in a collection using a **For Each...Next** loop to determine if the named member is part of the collection. For example, the following deletes the AutoCorrect entry named "acheive" if it is part of the **[AutoCorrectEntries](../../../api/Word.autocorrectentries.md)** collection. For more information, see  [Looping Through a Collection](../Customizing-Word/looping-through-a-collection.md).
+If you are accessing a collection member by name, you can loop on the elements in a collection using a **For Each...Next** loop to determine if the named member is part of the collection. For example, the following deletes the AutoCorrect entry named "acheive" if it is part of the **[AutoCorrectEntries](../../../api/Word.autocorrectentries.md)** collection. For more information, see [Looping Through a Collection](../Customizing-Word/looping-through-a-collection.md).
 
 
 

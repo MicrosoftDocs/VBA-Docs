@@ -2,7 +2,7 @@
 title: Set the Background Color of a Form
 ms.prod: outlook
 ms.assetid: e1af9e24-3038-dcfb-6a60-632b714f760f
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -11,7 +11,7 @@ localization_priority: Normal
 
 1. Open the form that you want to modify in design mode. 
     
-    **Note** For more information, see  [Run in Developer Mode in Outlook](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/run-in-developer-mode-in-outlook.md).
+    **Note** For more information, see [Run in Developer Mode in Outlook](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/run-in-developer-mode-in-outlook.md).
 2. On the **Developer** tab, in the **Tools** group, click **Advanced Properties**. 
     
 3. Click the **BackColor** property, and then type a value in the **Properties** box.

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.AcFormatConditionType
 ms.assetid: 69fdf7ff-7af5-8489-f78b-372859b515cd
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

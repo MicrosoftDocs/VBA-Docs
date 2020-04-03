@@ -5,7 +5,7 @@ f1_keywords:
 - olfm10.chm3077361
 ms.prod: outlook
 ms.assetid: a0640fdd-07a6-3aa9-8c39-9b53bafd485c
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -40,6 +40,6 @@ The Script Editor can move the insertion point to a specific line of code. This 
     
 2. In the **Line Number** box, type in the number of the line of code to which you want to go. Click **OK**.
     
-Learn about  [the Outlook object browser](about-the-outlook-object-browser.md).
+Learn about [he Outlook object browser](about-the-outlook-object-browser.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

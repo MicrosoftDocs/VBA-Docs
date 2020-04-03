@@ -5,7 +5,7 @@ f1_keywords:
 - olfm10.chm2000320
 ms.prod: outlook
 ms.assetid: 9974e4bb-4b66-24f5-bf17-3e835863847f
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -36,7 +36,7 @@ Moves a control to the specified location.
 
 ## Remarks
 
-The maximum and minimum values for the  _Left_,  _Top_,  _Width_, and  _Height_ arguments vary from one application to another.
+The maximum and minimum values for the _Left_, _Top_, _Width_, and _Height_ arguments vary from one application to another.
 
 You can move a control to a specific location relative to the edges of the form that contains the control.
 

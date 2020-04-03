@@ -27,28 +27,28 @@ To navigate to a named hyperlink location, use the **Follow** method.
 
 ## Methods
 
--  [AddToFavorites](Visio.Hyperlink.AddToFavorites.md)
--  [Copy](Visio.Hyperlink.Copy.md)
--  [CreateURL](Visio.Hyperlink.CreateURL.md)
--  [Delete](Visio.Hyperlink.Delete.md)
--  [Follow](Visio.Hyperlink.Follow.md)
+- [AddToFavorites](Visio.Hyperlink.AddToFavorites.md)
+- [Copy](Visio.Hyperlink.Copy.md)
+- [CreateURL](Visio.Hyperlink.CreateURL.md)
+- [Delete](Visio.Hyperlink.Delete.md)
+- [Follow](Visio.Hyperlink.Follow.md)
 
 ## Properties
 
--  [Address](Visio.Hyperlink.Address.md)
--  [Application](Visio.Hyperlink.Application.md)
--  [Description](Visio.Hyperlink.Description.md)
--  [ExtraInfo](Visio.Hyperlink.ExtraInfo.md)
--  [Frame](Visio.Hyperlink.Frame.md)
--  [IsDefaultLink](Visio.Hyperlink.IsDefaultLink.md)
--  [Name](Visio.Hyperlink.Name.md)
--  [NameU](Visio.Hyperlink.NameU.md)
--  [NewWindow](Visio.Hyperlink.NewWindow.md)
--  [ObjectType](Visio.Hyperlink.ObjectType.md)
--  [Row](Visio.Hyperlink.Row.md)
--  [Shape](Visio.Hyperlink.Shape.md)
--  [Stat](Visio.Hyperlink.Stat.md)
--  [SubAddress](Visio.Hyperlink.SubAddress.md)
+- [Address](Visio.Hyperlink.Address.md)
+- [Application](Visio.Hyperlink.Application.md)
+- [Description](Visio.Hyperlink.Description.md)
+- [ExtraInfo](Visio.Hyperlink.ExtraInfo.md)
+- [Frame](Visio.Hyperlink.Frame.md)
+- [IsDefaultLink](Visio.Hyperlink.IsDefaultLink.md)
+- [Name](Visio.Hyperlink.Name.md)
+- [NameU](Visio.Hyperlink.NameU.md)
+- [NewWindow](Visio.Hyperlink.NewWindow.md)
+- [ObjectType](Visio.Hyperlink.ObjectType.md)
+- [Row](Visio.Hyperlink.Row.md)
+- [Shape](Visio.Hyperlink.Shape.md)
+- [Stat](Visio.Hyperlink.Stat.md)
+- [SubAddress](Visio.Hyperlink.SubAddress.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

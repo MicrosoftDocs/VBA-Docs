@@ -23,18 +23,18 @@ To get a **Validation** object, use the **[Validation](Visio.Document.Validation
 
 ## Methods
 
--  [Validate](Visio.Validation.Validate.md)
+- [Validate](Visio.Validation.Validate.md)
 
 ## Properties
 
--  [Application](Visio.Validation.Application.md)
--  [Document](Visio.Validation.Document.md)
--  [Issues](Visio.Validation.Issues.md)
--  [LastValidatedDate](Visio.Validation.LastValidatedDate.md)
--  [ObjectType](Visio.Validation.ObjectType.md)
--  [RuleSets](Visio.Validation.RuleSets.md)
--  [ShowIgnoredIssues](Visio.Validation.ShowIgnoredIssues.md)
--  [Stat](Visio.Validation.Stat.md)
+- [Application](Visio.Validation.Application.md)
+- [Document](Visio.Validation.Document.md)
+- [Issues](Visio.Validation.Issues.md)
+- [LastValidatedDate](Visio.Validation.LastValidatedDate.md)
+- [ObjectType](Visio.Validation.ObjectType.md)
+- [RuleSets](Visio.Validation.RuleSets.md)
+- [ShowIgnoredIssues](Visio.Validation.ShowIgnoredIssues.md)
+- [Stat](Visio.Validation.Stat.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

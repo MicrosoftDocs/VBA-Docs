@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.AcPrintObjQuality
 ms.assetid: 67c07d41-776a-0dc6-22dd-9bb1bdf95fdc
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

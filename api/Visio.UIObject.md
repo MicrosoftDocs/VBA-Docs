@@ -36,21 +36,21 @@ Beginning with Visio 2002, a program can manipulate menus and toolbars in the Vi
 
 ## Methods
 
--  [LoadFromFile](Visio.UIObject.LoadFromFile.md)
--  [SaveToFile](Visio.UIObject.SaveToFile.md)
--  [UpdateUI](Visio.UIObject.UpdateUI.md)
+- [LoadFromFile](Visio.UIObject.LoadFromFile.md)
+- [SaveToFile](Visio.UIObject.SaveToFile.md)
+- [UpdateUI](Visio.UIObject.UpdateUI.md)
 
 ## Properties
 
--  [AccelTables](Visio.UIObject.AccelTables.md)
--  [Clone](Visio.UIObject.Clone.md)
--  [DisplayKeysInTooltips](Visio.UIObject.DisplayKeysInTooltips.md)
--  [DisplayTooltips](Visio.UIObject.DisplayTooltips.md)
--  [LargeButtons](Visio.UIObject.LargeButtons.md)
--  [MenuAnimationStyle](Visio.UIObject.MenuAnimationStyle.md)
--  [MenuSets](Visio.UIObject.MenuSets.md)
--  [Name](Visio.UIObject.Name.md)
--  [ToolbarSets](Visio.UIObject.ToolbarSets.md)
+- [AccelTables](Visio.UIObject.AccelTables.md)
+- [Clone](Visio.UIObject.Clone.md)
+- [DisplayKeysInTooltips](Visio.UIObject.DisplayKeysInTooltips.md)
+- [DisplayTooltips](Visio.UIObject.DisplayTooltips.md)
+- [LargeButtons](Visio.UIObject.LargeButtons.md)
+- [MenuAnimationStyle](Visio.UIObject.MenuAnimationStyle.md)
+- [MenuSets](Visio.UIObject.MenuSets.md)
+- [Name](Visio.UIObject.Name.md)
+- [ToolbarSets](Visio.UIObject.ToolbarSets.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

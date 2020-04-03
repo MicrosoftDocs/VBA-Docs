@@ -5,7 +5,7 @@ f1_keywords:
 - olfm10.chm3077212
 ms.prod: outlook
 ms.assetid: 09557015-d581-a09f-499e-86bd4211588e
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -17,11 +17,8 @@ The following example uses the **MatchEntry** property to demonstrate character 
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
 - Three **OptionButton** controls named OptionButton1 through OptionButton3.
-    
+
 - A **ComboBox** named ComboBox1.
-    
-
-
 
 ```vb
 Sub OptionButton1_Click() 

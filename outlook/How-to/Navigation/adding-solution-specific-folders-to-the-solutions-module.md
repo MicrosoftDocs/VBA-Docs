@@ -2,7 +2,7 @@
 title: Adding Solution-Specific Folders to the Solutions Module
 ms.prod: outlook
 ms.assetid: 2180c3e3-b83b-7977-1bf6-61ae7cc64905
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

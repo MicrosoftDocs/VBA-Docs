@@ -5,7 +5,7 @@ f1_keywords:
 - vbaol11.chm5272720
 ms.prod: outlook
 ms.assetid: 45390e9b-438c-86b0-488c-b179cabe4276
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -17,9 +17,9 @@ Creating a custom property page for Microsoft Outlook involves four major steps:
 
 1. Create the page as an ActiveX control.
     
-2. Implement the  [PropertyPage](../../../api/Outlook.PropertyPage.md) object.
+2. Implement the [PropertyPage](../../../api/Outlook.PropertyPage.md) object.
     
-3. Write a procedure that sets the value of the  [Dirty](../../../api/Outlook.PropertyPage.Dirty.md) property and calls the [OnStatusChange](../../../api/Outlook.PropertyPageSite.OnStatusChange.md) method.
+3. Write a procedure that sets the value of the [Dirty](../../../api/Outlook.PropertyPage.Dirty.md) property and calls the [OnStatusChange](../../../api/Outlook.PropertyPageSite.OnStatusChange.md) method.
     
 4. Create a Component Object Model (COM) add-in that contains an event procedure for **OptionsPagesAdd** for either the [Application](../../../api/Outlook.Application.md) or [NameSpace](../../../api/Outlook.NameSpace.md) object, as appropriate. For information about creating a COM add-in, see [Customizing Outlook using COM add-ins](customizing-outlook-using-com-add-ins.md).
     

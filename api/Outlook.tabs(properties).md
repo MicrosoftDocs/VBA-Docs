@@ -12,6 +12,6 @@ localization_priority: Normal
 ## In this section
 
 
--  [Tabs.Count Property (Outlook Forms Script)](Outlook.tabs.count.md)
+- [Tabs.Count Property (Outlook Forms Script)](Outlook.tabs.count.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

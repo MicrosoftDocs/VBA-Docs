@@ -2,14 +2,14 @@
 title: Disable a Standard Reply Form
 ms.prod: outlook
 ms.assetid: b1a3f8fc-6400-9ae8-dab2-a4875ccaf92b
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Disable a Standard Reply Form
 
-Use this procedure to customize a form page in Microsoft Outlook. To customize a form region, see  [How to: Create a Custom Action for a Form Region](../Creating-Form-Regions/create-a-custom-action-for-a-form-region.md).
+Use this procedure to customize a form page in Microsoft Outlook. To customize a form region, see [How to: Create a Custom Action for a Form Region](../Creating-Form-Regions/create-a-custom-action-for-a-form-region.md).
 
 
 1. In the Forms Designer, click the **(Actions)** page of your form.

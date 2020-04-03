@@ -5,7 +5,7 @@ f1_keywords:
 - olfm10.chm3077184
 ms.prod: outlook
 ms.assetid: 354918d6-90f2-7e3f-cd72-2fa7681372ef
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -17,16 +17,15 @@ The following example demonstrates the **[Enabled](../../../api/Outlook.textbox.
 
  **Note** You can copy the selection to the Clipboard using CTRL+C and paste using CTRL+V.
 
-
 To use this example, copy this sample code to the Script Editor of a form. Make sure that the form contains:
 
 
 - A **TextBox** named TextBox1.
-    
+
 - Two **CheckBox** controls named CheckBox1 and CheckBox2.
-    
+
 - A second **TextBox** named TextBox2.
-    
+
 
 
 

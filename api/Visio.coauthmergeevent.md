@@ -16,12 +16,12 @@ Passed as a parameter to the **[Document.AfterDocumentMerge](Visio.document.afte
 
 ## Properties
 
--  [Application](Visio.coauthmergeevent.application.md)
--  [BaseDocument](Visio.coauthmergeevent.basedocument.md)
--  [DownloadDocument](Visio.coauthmergeevent.downloaddocument.md)
--  [ObjectType](Visio.coauthmergeevent.objecttype.md)
--  [Stat](Visio.coauthmergeevent.stat.md)
--  [WorkingDocument](Visio.coauthmergeevent.workingdocument.md)
+- [Application](Visio.coauthmergeevent.application.md)
+- [BaseDocument](Visio.coauthmergeevent.basedocument.md)
+- [DownloadDocument](Visio.coauthmergeevent.downloaddocument.md)
+- [ObjectType](Visio.coauthmergeevent.objecttype.md)
+- [Stat](Visio.coauthmergeevent.stat.md)
+- [WorkingDocument](Visio.coauthmergeevent.workingdocument.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

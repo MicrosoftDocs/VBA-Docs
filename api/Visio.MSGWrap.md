@@ -23,15 +23,15 @@ The properties of the **MSGWrap** object correspond to the fields in the **MSG**
 
 ## Properties
 
--  [Application](Visio.MSGWrap.Application.md)
--  [hWnd](Visio.MSGWrap.hwnd.md)
--  [lParam](Visio.MSGWrap.lParam.md)
--  [Message](Visio.MSGWrap.message.md)
--  [ObjectType](Visio.MSGWrap.ObjectType.md)
--  [PostTime](Visio.MSGWrap.posttime.md)
--  [ptx](Visio.MSGWrap.ptx.md)
--  [pty](Visio.MSGWrap.pty.md)
--  [wParam](Visio.MSGWrap.wParam.md)
+- [Application](Visio.MSGWrap.Application.md)
+- [hWnd](Visio.MSGWrap.hwnd.md)
+- [lParam](Visio.MSGWrap.lParam.md)
+- [Message](Visio.MSGWrap.message.md)
+- [ObjectType](Visio.MSGWrap.ObjectType.md)
+- [PostTime](Visio.MSGWrap.posttime.md)
+- [ptx](Visio.MSGWrap.ptx.md)
+- [pty](Visio.MSGWrap.pty.md)
+- [wParam](Visio.MSGWrap.wParam.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

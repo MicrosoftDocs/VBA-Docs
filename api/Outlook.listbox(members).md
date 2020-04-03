@@ -8,14 +8,10 @@ localization_priority: Normal
 
 
 # ListBox Members (Outlook Forms Script)
-
 Displays a list of values and lets you select one or more.
 
 
 ## Methods
-
-
-
 |Name|Description|
 |:-----|:-----|
 | [AddItem](Outlook.ListBox.additem.md)|For a single-column  [ListBox](Outlook.ListBox.md), the  **AddItem** method adds an item to the list. For a multicolumn **ListBox**, this method adds a row to the list.|
@@ -23,11 +19,7 @@ Displays a list of values and lets you select one or more.
 | [RemoveItem](Outlook.ListBox.removeitem.md)|Removes a row from the list in a **ListBox**.|
 
 
-
 ## Properties
-
-
-
 |Name|Description|
 |:-----|:-----|
 | [BackColor](Outlook.ListBox.backcolor.md)|Returns or sets a **Long** that specifies the background color of the object. Read/write.|

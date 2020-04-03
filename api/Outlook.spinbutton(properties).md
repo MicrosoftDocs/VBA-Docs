@@ -12,26 +12,26 @@ localization_priority: Normal
 ## In this section
 
 
--  [SpinButton.BackColor Property (Outlook Forms Script)](Outlook.spinbutton.backcolor.md)
+- [SpinButton.BackColor Property (Outlook Forms Script)](Outlook.spinbutton.backcolor.md)
     
--  [SpinButton.Delay Property (Outlook Forms Script)](Outlook.spinbutton.delay.md)
+- [SpinButton.Delay Property (Outlook Forms Script)](Outlook.spinbutton.delay.md)
     
--  [SpinButton.Enabled Property (Outlook Forms Script)](Outlook.spinbutton.enabled.md)
+- [SpinButton.Enabled Property (Outlook Forms Script)](Outlook.spinbutton.enabled.md)
     
--  [SpinButton.ForeColor Property (Outlook Forms Script)](Outlook.spinbutton.forecolor.md)
+- [SpinButton.ForeColor Property (Outlook Forms Script)](Outlook.spinbutton.forecolor.md)
     
--  [SpinButton.Max Property (Outlook Forms Script)](Outlook.spinbutton.max.md)
+- [SpinButton.Max Property (Outlook Forms Script)](Outlook.spinbutton.max.md)
     
--  [SpinButton.Min Property (Outlook Forms Script)](Outlook.spinbutton.min.md)
+- [SpinButton.Min Property (Outlook Forms Script)](Outlook.spinbutton.min.md)
     
--  [SpinButton.MouseIcon Property (Outlook Forms Script)](Outlook.spinbutton.mouseicon.md)
+- [SpinButton.MouseIcon Property (Outlook Forms Script)](Outlook.spinbutton.mouseicon.md)
     
--  [SpinButton.MousePointer Property (Outlook Forms Script)](Outlook.spinbutton.mousepointer.md)
+- [SpinButton.MousePointer Property (Outlook Forms Script)](Outlook.spinbutton.mousepointer.md)
     
--  [SpinButton.Orientation Property (Outlook Forms Script)](Outlook.spinbutton.orientation.md)
+- [SpinButton.Orientation Property (Outlook Forms Script)](Outlook.spinbutton.orientation.md)
     
--  [SpinButton.SmallChange Property (Outlook Forms Script)](Outlook.spinbutton.smallchange.md)
+- [SpinButton.SmallChange Property (Outlook Forms Script)](Outlook.spinbutton.smallchange.md)
     
--  [SpinButton.Value Property (Outlook Forms Script)](Outlook.spinbutton.value.md)
+- [SpinButton.Value Property (Outlook Forms Script)](Outlook.spinbutton.value.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

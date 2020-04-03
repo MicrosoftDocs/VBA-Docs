@@ -5,7 +5,7 @@ f1_keywords:
 - vbaol11.chm5272661
 ms.prod: outlook
 ms.assetid: 84a4f616-3ace-0139-57d5-f0c070064ab2
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -30,7 +30,7 @@ The **IDTExtensibility2** interface consists of five event procedures. To implem
 Implements IDTExtensibility2
 ```
 
-You can then add the empty event procedures to the code window of the class module and add your own program code to the procedures. You can also copy the empty procedures from an  [Outlook COM Add-in Template](outlook-com-add-in-template.md).
+You can then add the empty event procedures to the code window of the class module and add your own program code to the procedures. You can also copy the empty procedures from an [Outlook COM Add-in Template](outlook-com-add-in-template.md).
 
 ## Register the COM add-in
 
@@ -43,17 +43,12 @@ In addition, information about the add-in must be added to the registry. This in
 The following example shows the contents of a sample registry-editor (.reg) file that illustrates how to register an Outlook COM add-in.
 
 ```vb
-    [HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\Addins\SampleAddIn.AddInIFace]
+   [HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\Addins\SampleAddIn.AddInIFace]
     "FriendlyName"="Sample Add-in"
     "Description"="Sample Outlook Add-In"
     "LoadBehavior"=dword:00000008
 ```
-<<<<<<< HEAD
-
-When the COM add-in is first registered,  **LoadBehavior** can be set to any of the following flags.
-=======
 When the COM add-in is first registered, **LoadBehavior** can be set to any of the following flags.
->>>>>>> 4e773a8f17332b1fec1a32d69a283faf1464bae6
 
 |Value|Description|
 |:-----|:-----|

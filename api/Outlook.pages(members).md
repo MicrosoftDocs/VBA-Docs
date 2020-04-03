@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Pages Members (Outlook Forms Script)
 
-Represents all the pages of a  [MultiPage](Outlook.multipage.md).
+Represents all the pages of a [MultiPage](Outlook.multipage.md).
 
 
 ## Methods

@@ -2,7 +2,7 @@
 title: Storing Data for Solutions
 ms.prod: outlook
 ms.assetid: 58e69983-5718-4dde-64fc-858abd80c9e5
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -17,6 +17,6 @@ The **StorageItem** object represents a thin wrapper on a message object in MAPI
 
 You can identify a **StorageItem** object using its subject, message class, or Entry ID. A **StorageItem** is not tightly bound to only one solution. This allows you to create one or more **StorageItem** objects in one folder or in multiple folders. Instances of the same solution, or multiple collaborating solutions, can also share the data stored in the private storage.
 You can create a **StorageItem** or get an existing **StorageItem** to store solution data. You can store the data as an attachment or a value to an item property. To clean up the storage for an application, you can delete the **StorageItem** objects that it uses, which removes these objects permanently.
-The Outlook object model does not provide any collection object for **StorageItem** objects. However, you can use **[Folder.GetTable](../../../api/Outlook.Folder.GetTable.md)** to obtain a **[Table](../../../api/Outlook.Table.md)** with all the hidden items in a **Folder**, when you specify the  _TableContents_ parameter as **olHiddenItems**. If keeping your data private is of a high concern, you should encrypt the data before storing it.
+The Outlook object model does not provide any collection object for **StorageItem** objects. However, you can use **[Folder.GetTable](../../../api/Outlook.Folder.GetTable.md)** to obtain a **[Table](../../../api/Outlook.Table.md)** with all the hidden items in a **Folder**, when you specify the _TableContents_ parameter as **olHiddenItems**. If keeping your data private is of a high concern, you should encrypt the data before storing it.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

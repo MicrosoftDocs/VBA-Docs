@@ -27,24 +27,24 @@ The index of the **Toolbar** object within the **[Toolbars](Visio.Toolbars.md)**
 
 ## Methods
 
--  [Delete](Visio.Toolbar.Delete.md)
+- [Delete](Visio.Toolbar.Delete.md)
 
 ## Properties
 
--  [BuiltIn](Visio.Toolbar.BuiltIn.md)
--  [Caption](Visio.Toolbar.Caption.md)
--  [Enabled](Visio.Toolbar.Enabled.md)
--  [Height](Visio.Toolbar.Height.md)
--  [Index](Visio.Toolbar.Index.md)
--  [Left](Visio.Toolbar.Left.md)
--  [Parent](Visio.Toolbar.Parent.md)
--  [Position](Visio.Toolbar.Position.md)
--  [Protection](Visio.Toolbar.Protection.md)
--  [RowIndex](Visio.Toolbar.RowIndex.md)
--  [ToolbarItems](Visio.Toolbar.ToolbarItems.md)
--  [Top](Visio.Toolbar.Top.md)
--  [Visible](Visio.Toolbar.Visible.md)
--  [Width](Visio.Toolbar.Width.md)
+- [BuiltIn](Visio.Toolbar.BuiltIn.md)
+- [Caption](Visio.Toolbar.Caption.md)
+- [Enabled](Visio.Toolbar.Enabled.md)
+- [Height](Visio.Toolbar.Height.md)
+- [Index](Visio.Toolbar.Index.md)
+- [Left](Visio.Toolbar.Left.md)
+- [Parent](Visio.Toolbar.Parent.md)
+- [Position](Visio.Toolbar.Position.md)
+- [Protection](Visio.Toolbar.Protection.md)
+- [RowIndex](Visio.Toolbar.RowIndex.md)
+- [ToolbarItems](Visio.Toolbar.ToolbarItems.md)
+- [Top](Visio.Toolbar.Top.md)
+- [Visible](Visio.Toolbar.Visible.md)
+- [Width](Visio.Toolbar.Width.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

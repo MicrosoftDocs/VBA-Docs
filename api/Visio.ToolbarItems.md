@@ -29,15 +29,15 @@ Unlike other Microsoft Visio collections, the **ToolbarItems** collection is ind
 
 ## Methods
 
--  [Add](Visio.ToolbarItems.Add.md)
--  [AddAt](Visio.ToolbarItems.AddAt.md)
+- [Add](Visio.ToolbarItems.Add.md)
+- [AddAt](Visio.ToolbarItems.AddAt.md)
 
 ## Properties
 
--  [Count](Visio.ToolbarItems.Count.md)
--  [Item](Visio.ToolbarItems.Item.md)
--  [Parent](Visio.ToolbarItems.Parent.md)
--  [ParentItem](Visio.ToolbarItems.ParentItem.md)
+- [Count](Visio.ToolbarItems.Count.md)
+- [Item](Visio.ToolbarItems.Item.md)
+- [Parent](Visio.ToolbarItems.Parent.md)
+- [ParentItem](Visio.ToolbarItems.ParentItem.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

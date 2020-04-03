@@ -5,7 +5,7 @@ f1_keywords:
 - vbaol11.chm5267482
 ms.prod: outlook
 ms.assetid: 514f8f31-8047-2a9f-cbac-d0a23218f49c
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -34,7 +34,7 @@ Function Item_Open()
 End Function
 ```
 
-Responding to application-level events is somewhat more involved because steps must be taken to associate the event handler with the part of Outlook in which the event is occurring. Learn about  [writing an application-level event handler](using-events-with-automation.md).
+Responding to application-level events is somewhat more involved because steps must be taken to associate the event handler with the part of Outlook in which the event is occurring. Learn about [writing an application-level event handler](using-events-with-automation.md).
 
 ## Order of Events
 

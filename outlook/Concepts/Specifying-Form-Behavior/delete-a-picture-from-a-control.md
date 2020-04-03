@@ -2,7 +2,7 @@
 title: Delete a Picture from a Control
 ms.prod: outlook
 ms.assetid: e53ec634-15cb-fa56-bab7-229cd1cb78b1
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

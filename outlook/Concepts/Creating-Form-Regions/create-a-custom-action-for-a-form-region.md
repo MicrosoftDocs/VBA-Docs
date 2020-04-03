@@ -2,7 +2,7 @@
 title: Create a Custom Action for a Form Region
 ms.prod: outlook
 ms.assetid: bf889270-3e80-a240-15e4-c57a3f1e7b9b
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -27,7 +27,7 @@ When you create a custom action, you can specify the following characteristics i
     
 - The prefix value in the subject of the resulting item.
     
-For more information on registering a form region, see  [Specifying Form Regions in the Windows Registry](specifying-form-regions-in-the-windows-registry.md).
+For more information on registering a form region, see [Specifying Form Regions in the Windows Registry](specifying-form-regions-in-the-windows-registry.md).
 
 ## Identifying Actions for a Form Region
 

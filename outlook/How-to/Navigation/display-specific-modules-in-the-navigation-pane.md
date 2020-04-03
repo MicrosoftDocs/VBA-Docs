@@ -2,7 +2,7 @@
 title: Display Specific Modules in the Navigation Pane
 ms.prod: outlook
 ms.assetid: 1a1017da-3047-fd58-fd92-ce0e750df7a6
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

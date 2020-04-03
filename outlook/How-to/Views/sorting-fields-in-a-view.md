@@ -2,7 +2,7 @@
 title: Sorting Fields in a View
 ms.prod: outlook
 ms.assetid: 23d87740-12eb-aa00-1cf5-4dfa5895722d
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -53,6 +53,6 @@ The following guidelines should be used when specifying custom properties:
     
 - Custom property names are not case-sensitive, can include spaces, and should be enclosed in square brackets ([]) if they contain spaces.
     
-For more information about property identifiers, see  [Properties Overview](../Navigation/properties-overview.md).
+For more information about property identifiers, see [Properties Overview](../Navigation/properties-overview.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

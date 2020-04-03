@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.ListBox.LostFocus
 ms.assetid: 075bb519-5f53-88b2-f46a-b2c5eb067150
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

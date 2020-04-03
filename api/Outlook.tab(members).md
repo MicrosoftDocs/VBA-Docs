@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Tab Members (Outlook Forms Script)
 
-Represents an individual member of a  [Tabs](Outlook.tabs.md) collection.
+Represents an individual member of a [Tabs](Outlook.tabs.md) collection.
 
 ## Properties
 

@@ -30,17 +30,17 @@ You can use the **SetColumnProperties** method to set multiple properties of the
 
 ## Methods
 
--  [SetColumnProperties](Visio.DataColumns.SetColumnProperties.md)
+- [SetColumnProperties](Visio.DataColumns.SetColumnProperties.md)
 
 ## Properties
 
--  [Application](Visio.DataColumns.Application.md)
--  [Count](Visio.DataColumns.Count.md)
--  [DataRecordset](Visio.DataColumns.DataRecordset.md)
--  [Document](Visio.DataColumns.Document.md)
--  [Item](Visio.DataColumns.Item.md)
--  [ObjectType](Visio.DataColumns.ObjectType.md)
--  [Stat](Visio.DataColumns.Stat.md)
+- [Application](Visio.DataColumns.Application.md)
+- [Count](Visio.DataColumns.Count.md)
+- [DataRecordset](Visio.DataColumns.DataRecordset.md)
+- [Document](Visio.DataColumns.Document.md)
+- [Item](Visio.DataColumns.Item.md)
+- [ObjectType](Visio.DataColumns.ObjectType.md)
+- [Stat](Visio.DataColumns.Stat.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -2,7 +2,7 @@
 title: Change the Editability of a Content Control
 ms.prod: word
 ms.assetid: ec1856d6-c19a-cc73-1d9c-237935e69db1
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -16,9 +16,9 @@ You can set these restrictions programmatically. For example, you might want to 
 The objects used in this sample are:
 
 
--  [ContentControl](../../../api/Word.ContentControl.md)
+- [ContentControl](../../../api/Word.ContentControl.md)
     
--  [ContentControls](../../../api/Word.ContentControls.md)
+- [ContentControls](../../../api/Word.ContentControls.md)
     
 The following example uses the **LockContentControl** property and the **LockContents** property to prohibit a user from deleting or editing the content control.
 

@@ -19,12 +19,12 @@ Properties of the **ReplaceShapesEvent** object return information about various
 
 ## Properties
 
--  [Application](Visio.replaceshapesEvent.Application.md)
--  [ObjectType](Visio.replaceshapesEvent.ObjectType.md)
--  [ReplaceFlags](Visio.replaceshapesevent.replaceflags.md)
--  [ReplacementMaster](Visio.replaceshapesevent.replacementmaster.md)
--  [SelectionSource](Visio.replaceshapesevent.selectionsource.md)
--  [Stat](Visio.replaceshapesevent.stat.md)
+- [Application](Visio.replaceshapesEvent.Application.md)
+- [ObjectType](Visio.replaceshapesEvent.ObjectType.md)
+- [ReplaceFlags](Visio.replaceshapesevent.replaceflags.md)
+- [ReplacementMaster](Visio.replaceshapesevent.replacementmaster.md)
+- [SelectionSource](Visio.replaceshapesevent.selectionsource.md)
+- [Stat](Visio.replaceshapesevent.stat.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

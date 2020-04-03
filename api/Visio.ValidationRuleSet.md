@@ -25,21 +25,21 @@ The default property of the **ValidationRuleSet** object is **Name**.
 
 ## Methods
 
--  [Delete](Visio.ValidationRuleSet.Delete.md)
+- [Delete](Visio.ValidationRuleSet.Delete.md)
 
 ## Properties
 
--  [Application](Visio.ValidationRuleSet.Application.md)
--  [Description](Visio.ValidationRuleSet.Description.md)
--  [Document](Visio.ValidationRuleSet.Document.md)
--  [Enabled](Visio.ValidationRuleSet.Enabled.md)
--  [ID](Visio.ValidationRuleSet.ID.md)
--  [Name](Visio.ValidationRuleSet.Name.md)
--  [NameU](Visio.ValidationRuleSet.NameU.md)
--  [ObjectType](Visio.ValidationRuleSet.ObjectType.md)
--  [Rules](Visio.ValidationRuleSet.Rules.md)
--  [RuleSetFlags](Visio.ValidationRuleSet.RuleSetFlags.md)
--  [Stat](Visio.ValidationRuleSet.Stat.md)
+- [Application](Visio.ValidationRuleSet.Application.md)
+- [Description](Visio.ValidationRuleSet.Description.md)
+- [Document](Visio.ValidationRuleSet.Document.md)
+- [Enabled](Visio.ValidationRuleSet.Enabled.md)
+- [ID](Visio.ValidationRuleSet.ID.md)
+- [Name](Visio.ValidationRuleSet.Name.md)
+- [NameU](Visio.ValidationRuleSet.NameU.md)
+- [ObjectType](Visio.ValidationRuleSet.ObjectType.md)
+- [Rules](Visio.ValidationRuleSet.Rules.md)
+- [RuleSetFlags](Visio.ValidationRuleSet.RuleSetFlags.md)
+- [Stat](Visio.ValidationRuleSet.Stat.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -12,12 +12,12 @@ localization_priority: Normal
 ## In this section
 
 
--  [Pages.Add Method (Outlook Forms Script)](Outlook.Pages.add.md)
+- [Pages.Add Method (Outlook Forms Script)](Outlook.Pages.add.md)
     
--  [Pages.Clear Method (Outlook Forms Script)](Outlook.Pages.clear.md)
+- [Pages.Clear Method (Outlook Forms Script)](Outlook.Pages.clear.md)
     
--  [Pages.Item Method (Outlook Forms Script)](Outlook.Pages.item.md)
+- [Pages.Item Method (Outlook Forms Script)](Outlook.Pages.item.md)
     
--  [Pages.Remove Method (Outlook Forms Script)](Outlook.Pages.remove.md)
+- [Pages.Remove Method (Outlook Forms Script)](Outlook.Pages.remove.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

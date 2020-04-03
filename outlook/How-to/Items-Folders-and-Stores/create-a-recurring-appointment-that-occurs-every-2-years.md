@@ -2,7 +2,7 @@
 title: Create a Recurring Appointment that Occurs Every 2 Years
 ms.prod: outlook
 ms.assetid: ce15c1ad-2029-413f-4f03-8206ba7b112d
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -13,19 +13,14 @@ This topic shows a Visual Basic for Applications (VBA) code example that creates
 
 
 - Starts at 2 P.M. and ends at 5 P.M.
-    
+
 - Occurs on the last Monday of June.
-    
+
 - Occurs every other year for three instances.
-    
+
 - Becomes effective June 1, 2009.
-    
-
-
 
  The code example results in a recurring appointment from 2 P.M. to 5 P.M., on the last Monday of June in 2009 (June 29, 2009), 2011 (June 27, 2011), and 2013 (June 24, 2013). The appointment is saved in the default calendar and is then displayed.
-
-
 
 ```vb
 Sub RecurringYearNth() 

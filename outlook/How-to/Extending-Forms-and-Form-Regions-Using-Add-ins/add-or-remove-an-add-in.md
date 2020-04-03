@@ -2,7 +2,7 @@
 title: Add or Remove an Add-in
 ms.prod: outlook
 ms.assetid: a3d7425b-014d-fedd-e1a7-7eb3069ae002
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -24,8 +24,8 @@ For **Windows Vista**
     
 For more information, see the following topics:
 
--  [Add-ins Overview](../../Concepts/Outlook-Forms/add-ins-overview.md)
+- [Add-ins Overview](../../Concepts/Outlook-Forms/add-ins-overview.md)
     
--  [Extending a Form Region with an Add-in](../../Concepts/Specifying-Form-Behavior/extending-a-form-region-with-an-add-in.md)
+- [Extending a Form Region with an Add-in](../../Concepts/Specifying-Form-Behavior/extending-a-form-region-with-an-add-in.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

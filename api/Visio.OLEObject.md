@@ -25,14 +25,14 @@ Use the **Object** property to obtain the **IDispatch** interface on an ActiveX 
 
 ## Properties
 
--  [Application](Visio.OLEObject.Application.md)
--  [ClassID](Visio.OLEObject.ClassID.md)
--  [ForeignType](Visio.OLEObject.ForeignType.md)
--  [Object](Visio.OLEObject.Object.md)
--  [ObjectType](Visio.OLEObject.ObjectType.md)
--  [ProgID](Visio.OLEObject.ProgID.md)
--  [Shape](Visio.OLEObject.Shape.md)
--  [Stat](Visio.OLEObject.Stat.md)
+- [Application](Visio.OLEObject.Application.md)
+- [ClassID](Visio.OLEObject.ClassID.md)
+- [ForeignType](Visio.OLEObject.ForeignType.md)
+- [Object](Visio.OLEObject.Object.md)
+- [ObjectType](Visio.OLEObject.ObjectType.md)
+- [ProgID](Visio.OLEObject.ProgID.md)
+- [Shape](Visio.OLEObject.Shape.md)
+- [Stat](Visio.OLEObject.Stat.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

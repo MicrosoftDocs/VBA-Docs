@@ -23,20 +23,20 @@ To get a **ServerPublishOptions** object, you can use the **[ServerPublishOption
 
 ## Methods
 
--  [ExcludePage](Visio.ServerPublishOptions.ExcludePage.md)
--  [GetPagesToPublish](Visio.ServerPublishOptions.GetPagesToPublish.md)
--  [GetRecordsetsToPublish](Visio.ServerPublishOptions.GetRecordsetsToPublish.md)
--  [IncludePage](Visio.ServerPublishOptions.IncludePage.md)
--  [SetPagesToPublish](Visio.ServerPublishOptions.SetPagesToPublish.md)
--  [SetRecordsetsToPublish](Visio.ServerPublishOptions.SetRecordsetsToPublish.md)
+- [ExcludePage](Visio.ServerPublishOptions.ExcludePage.md)
+- [GetPagesToPublish](Visio.ServerPublishOptions.GetPagesToPublish.md)
+- [GetRecordsetsToPublish](Visio.ServerPublishOptions.GetRecordsetsToPublish.md)
+- [IncludePage](Visio.ServerPublishOptions.IncludePage.md)
+- [SetPagesToPublish](Visio.ServerPublishOptions.SetPagesToPublish.md)
+- [SetRecordsetsToPublish](Visio.ServerPublishOptions.SetRecordsetsToPublish.md)
 
 ## Properties
 
--  [Application](Visio.ServerPublishOptions.Application.md)
--  [Document](Visio.ServerPublishOptions.Document.md)
--  [IsPublishedPage](Visio.ServerPublishOptions.IsPublishedPage.md)
--  [ObjectType](Visio.ServerPublishOptions.ObjectType.md)
--  [Stat](Visio.ServerPublishOptions.Stat.md)
+- [Application](Visio.ServerPublishOptions.Application.md)
+- [Document](Visio.ServerPublishOptions.Document.md)
+- [IsPublishedPage](Visio.ServerPublishOptions.IsPublishedPage.md)
+- [ObjectType](Visio.ServerPublishOptions.ObjectType.md)
+- [Stat](Visio.ServerPublishOptions.Stat.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

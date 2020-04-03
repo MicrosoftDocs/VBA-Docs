@@ -2,7 +2,7 @@
 title: Filtering Items Using Comparison and Logical Operators
 ms.prod: outlook
 ms.assetid: 1f01f970-549f-5868-bbe8-e8792dfd657f
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

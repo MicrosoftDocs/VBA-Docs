@@ -5,7 +5,7 @@ f1_keywords:
 - vbaol11.chm5257590
 ms.prod: outlook
 ms.assetid: 6ca0a0fa-1cda-c052-4dee-1055cceb2b28
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -24,7 +24,7 @@ To create an event handler for Microsoft Outlook objects in Microsoft Visual Bas
 4. Initialize the declared object.
     
 
-Learn about  [working with events in Outlook Visual Basic for Applications](../Getting-Started/using-outlook-visual-basic-for-applications-to-respond-to-outlook-events.md).
+Learn about [working with events in Outlook Visual Basic for Applications](../Getting-Started/using-outlook-visual-basic-for-applications-to-respond-to-outlook-events.md).
 
 
 ## Set the Reference to the Outlook Object Library

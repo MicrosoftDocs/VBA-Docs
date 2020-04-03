@@ -2,7 +2,7 @@
 title: Filtering Items
 ms.prod: outlook
 ms.assetid: 4038e042-1b07-5d18-18b0-c2b58c9c42da
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -51,14 +51,14 @@ When specifying properties in a Jet filter or DASL filter using any of the above
 
 The syntax of a filter depends on the type of the property you are filtering on. The following topics provide further information about how to construct a filter based on a specific property type:
 
--  [Filtering a Custom Field](filtering-a-custom-field.md)    
--  [Filtering Items Using a Boolean Comparison](filtering-items-using-a-boolean-comparison.md)    
--  [Filtering Items Using a Comparison with a Keywords Property](filtering-items-using-a-comparison-with-a-keywords-property.md)   
--  [Filtering Items Using a Date-time Comparison](filtering-items-using-a-date-time-comparison.md)    
--  [Filtering Items Using a String Comparison](filtering-items-using-a-string-comparison.md)    
--  [Filtering Items Using a Variable](filtering-items-using-a-variable.md)   
--  [Filtering Items Using an Integer Comparison](filtering-items-using-an-integer-comparison.md)    
--  [Filtering Items Using Comparison and Logical Operators](filtering-items-using-comparison-and-logical-operators.md)    
--  [Filtering Items Using Query Keywords](filtering-items-using-query-keywords.md)
+- [Filtering a Custom Field](filtering-a-custom-field.md)    
+- [Filtering Items Using a Boolean Comparison](filtering-items-using-a-boolean-comparison.md)    
+- [Filtering Items Using a Comparison with a Keywords Property](filtering-items-using-a-comparison-with-a-keywords-property.md)   
+- [Filtering Items Using a Date-time Comparison](filtering-items-using-a-date-time-comparison.md)    
+- [Filtering Items Using a String Comparison](filtering-items-using-a-string-comparison.md)    
+- [Filtering Items Using a Variable](filtering-items-using-a-variable.md)   
+- [Filtering Items Using an Integer Comparison](filtering-items-using-an-integer-comparison.md)    
+- [Filtering Items Using Comparison and Logical Operators](filtering-items-using-comparison-and-logical-operators.md)    
+- [Filtering Items Using Query Keywords](filtering-items-using-query-keywords.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

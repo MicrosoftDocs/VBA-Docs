@@ -2,7 +2,7 @@
 title: Custom Fields and Data Types Overview
 ms.prod: outlook
 ms.assetid: a85a7bc2-2b85-1782-04a3-0104e0df32aa
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

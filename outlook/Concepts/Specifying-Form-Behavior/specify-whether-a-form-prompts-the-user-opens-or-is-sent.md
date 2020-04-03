@@ -2,14 +2,14 @@
 title: Specify Whether a Form Prompts the User, Opens, or is Sent
 ms.prod: outlook
 ms.assetid: 37026f13-322d-d435-48b0-ec488c346215
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Specify Whether a Form Prompts the User, Opens, or is Sent
 
- **Note** If you are setting properties for a form that is customized with form regions, you must use the XML manifest file instead of the Form Designer. To learn more, see  [How to: Create a Form Region](../Outlook-Forms/create-a-form-region.md).
+ **Note** If you are setting properties for a form that is customized with form regions, you must use the XML manifest file instead of the Form Designer. To learn more, see [How to: Create a Form Region](../Outlook-Forms/create-a-form-region.md).
 
 
 ## Forms customized with form pages
@@ -29,6 +29,6 @@ localization_priority: Normal
 | **Send the form immediately**|Send the form to the specified address without opening it.|
 | **Prompt the user to open or send**|Alert the user with a message that includes the option to open or send the form.|
 
- **Note** If you click **Send the form immediately**, you must  [pre-address](../Configuring-Forms/pre-address-a-reply-form-to-a-public-folder-or-an-e-mail-address.md) the form.
+ **Note** If you click **Send the form immediately**, you must [pre-address](../Configuring-Forms/pre-address-a-reply-form-to-a-public-folder-or-an-e-mail-address.md) the form.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

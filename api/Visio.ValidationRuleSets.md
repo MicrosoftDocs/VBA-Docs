@@ -25,18 +25,18 @@ The default property of the **ValidationRuleSets** collection is **Item**.
 
 ## Methods
 
--  [Add](Visio.ValidationRuleSets.Add.md)
--  [AddCopy](Visio.ValidationRuleSets.AddCopy.md)
+- [Add](Visio.ValidationRuleSets.Add.md)
+- [AddCopy](Visio.ValidationRuleSets.AddCopy.md)
 
 ## Properties
 
--  [Application](Visio.ValidationRuleSets.Application.md)
--  [Count](Visio.ValidationRuleSets.Count.md)
--  [Document](Visio.ValidationRuleSets.Document.md)
--  [Item](Visio.ValidationRuleSets.Item.md)
--  [ItemFromID](Visio.ValidationRuleSets.ItemFromID.md)
--  [ObjectType](Visio.ValidationRuleSets.ObjectType.md)
--  [Stat](Visio.ValidationRuleSets.Stat.md)
+- [Application](Visio.ValidationRuleSets.Application.md)
+- [Count](Visio.ValidationRuleSets.Count.md)
+- [Document](Visio.ValidationRuleSets.Document.md)
+- [Item](Visio.ValidationRuleSets.Item.md)
+- [ItemFromID](Visio.ValidationRuleSets.ItemFromID.md)
+- [ObjectType](Visio.ValidationRuleSets.ObjectType.md)
+- [Stat](Visio.ValidationRuleSets.Stat.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

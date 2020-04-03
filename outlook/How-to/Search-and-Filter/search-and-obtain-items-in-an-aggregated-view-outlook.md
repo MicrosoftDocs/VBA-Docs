@@ -2,14 +2,14 @@
 title: Search and Obtain Items in an Aggregated View (Outlook)
 ms.prod: outlook
 ms.assetid: bd62f7b8-f110-ee0a-5930-877f14353a84
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Search and Obtain Items in an Aggregated View (Outlook)
 
-The  [GetTable](../../../api/Outlook.TableView.GetTable.md) method of the [TableView](../../../api/Outlook.TableView.md) object can return a [Table](../../../api/Outlook.Table.md) object that contains items from one or more folders in the same store or spanning over multiple stores, in an aggregated view. This is particularly useful when you want to access items returned from a search; for example, a search on all mail items in a store. This topic shows an example of how to use Instant Search to search for all items received from the manager of the current user that are marked important, and then display the subject of each search result.
+The [GetTable](../../../api/Outlook.TableView.GetTable.md) method of the [TableView](../../../api/Outlook.TableView.md) object can return a [Table](../../../api/Outlook.Table.md) object that contains items from one or more folders in the same store or spanning over multiple stores, in an aggregated view. This is particularly useful when you want to access items returned from a search; for example, a search on all mail items in a store. This topic shows an example of how to use Instant Search to search for all items received from the manager of the current user that are marked important, and then display the subject of each search result.
 
 The following code sample contains the  `GetItemsInView` method. `GetItemsInView` first makes a few checks to see if the current user of the Outlook session uses the Microsoft Exchange Server, whether the current user has a manager, and whether Instant Search is operational in the default store of the session. 
 

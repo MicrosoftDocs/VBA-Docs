@@ -2,7 +2,7 @@
 title: "How to: Specify Possible Values for a List Box"
 ms.prod: outlook
 ms.assetid: 25ced223-0a3c-162a-127f-6b2f3ee9c5bc
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

@@ -16,17 +16,17 @@ Includes a **[Comment](Visio.comment.md)** object for each comment in a Microsof
 
 ## Methods
 
--  [Add](Visio.comments.add.md)
--  [DeleteAll](Visio.comments.deleteall.md)
+- [Add](Visio.comments.add.md)
+- [DeleteAll](Visio.comments.deleteall.md)
 
 ## Properties
 
--  [Application](Visio.comments.application.md)
--  [Count](Visio.comments.count.md)
--  [Document](Visio.comments.document.md)
--  [Item](Visio.comments.item.md)
--  [ObjectType](Visio.comments.objecttype.md)
--  [Stat](Visio.comments.stat.md)
+- [Application](Visio.comments.application.md)
+- [Count](Visio.comments.count.md)
+- [Document](Visio.comments.document.md)
+- [Item](Visio.comments.item.md)
+- [ObjectType](Visio.comments.objecttype.md)
+- [Stat](Visio.comments.stat.md)
 
 
 

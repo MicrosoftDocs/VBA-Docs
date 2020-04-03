@@ -12,7 +12,7 @@ localization_priority: Normal
 ## In this section
 
 
--  [SpinButton Object (Outlook Forms Script)](Outlook.spinbutton.md)
+- [SpinButton Object (Outlook Forms Script)](Outlook.spinbutton.md)
     
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

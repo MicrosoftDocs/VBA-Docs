@@ -23,16 +23,16 @@ The default property of a **Color** object is **PaletteEntry**.
 
 ## Properties
 
--  [Application](Visio.Color.Application.md)
--  [Blue](Visio.Color.Blue.md)
--  [Document](Visio.Color.Document.md)
--  [Flags](Visio.Color.Flags.md)
--  [Green](Visio.Color.Green.md)
--  [Index](Visio.Color.Index.md)
--  [ObjectType](Visio.Color.ObjectType.md)
--  [PaletteEntry](Visio.Color.PaletteEntry.md)
--  [Red](Visio.Color.Red.md)
--  [Stat](Visio.Color.Stat.md)
+- [Application](Visio.Color.Application.md)
+- [Blue](Visio.Color.Blue.md)
+- [Document](Visio.Color.Document.md)
+- [Flags](Visio.Color.Flags.md)
+- [Green](Visio.Color.Green.md)
+- [Index](Visio.Color.Index.md)
+- [ObjectType](Visio.Color.ObjectType.md)
+- [PaletteEntry](Visio.Color.PaletteEntry.md)
+- [Red](Visio.Color.Red.md)
+- [Stat](Visio.Color.Stat.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

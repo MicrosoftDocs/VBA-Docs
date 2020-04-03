@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.AcTextFormat
 ms.assetid: cce0f7f5-ec7d-b80b-71a4-95052b6b7af1
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

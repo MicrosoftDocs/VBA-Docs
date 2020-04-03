@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.AcWebUserDisplay
 ms.assetid: 4723ddf2-ceab-9313-b713-4654a2e83297
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

@@ -12,7 +12,7 @@ localization_priority: Normal
 ## In this section
 
 
--  [OptionButton Object (Outlook Forms Script)](Outlook.optionbutton.md)
+- [OptionButton Object (Outlook Forms Script)](Outlook.optionbutton.md)
     
 
 

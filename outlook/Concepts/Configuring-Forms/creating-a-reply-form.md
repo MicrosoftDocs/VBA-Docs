@@ -2,7 +2,7 @@
 title: Creating a Reply Form
 ms.prod: outlook
 ms.assetid: 1f7f6e89-abdf-0b7b-f6d0-85fdd75e7316
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,14 @@ You can create custom buttons and menu commands and specify what happens when th
 You can send information without opening a reply form by pre-addressing a custom reply form to go to a specific email address or to a public folder.
 For more information, see the following topics:
 
--  [How to: Add a custom button or menu command to start a reply form](add-a-command-to-the-ribbon-to-start-a-reply-form.md)
+- [How to: Add a custom button or menu command to start a reply form](add-a-command-to-the-ribbon-to-start-a-reply-form.md)
     
--  [How to: Use standard Reply and Forward headers on a form](use-standard-reply-and-forward-headers-on-a-form.md)
+- [How to: Use standard Reply and Forward headers on a form](use-standard-reply-and-forward-headers-on-a-form.md)
     
--  [How to: Automatically insert text into the Subject field of a reply form](automatically-insert-prefix-text-into-the-subject-field-of-a-reply-form.md)
+- [How to: Automatically insert text into the Subject field of a reply form](automatically-insert-prefix-text-into-the-subject-field-of-a-reply-form.md)
     
--  [How to: Specify whether a form prompts the user, opens, or is sent](../Specifying-Form-Behavior/specify-whether-a-form-prompts-the-user-opens-or-is-sent.md)
+- [How to: Specify whether a form prompts the user, opens, or is sent](../Specifying-Form-Behavior/specify-whether-a-form-prompts-the-user-opens-or-is-sent.md)
     
--  [How to: Pre-address a reply form to a public folder or an email address](pre-address-a-reply-form-to-a-public-folder-or-an-e-mail-address.md)
+- [How to: Pre-address a reply form to a public folder or an email address](pre-address-a-reply-form-to-a-public-folder-or-an-e-mail-address.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

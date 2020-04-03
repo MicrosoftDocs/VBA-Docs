@@ -12,7 +12,7 @@ localization_priority: Normal
 ## In this section
 
 
--  [Font Object (Outlook Forms Script)](Outlook.font.md)
+- [Font Object (Outlook Forms Script)](Outlook.font.md)
     
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

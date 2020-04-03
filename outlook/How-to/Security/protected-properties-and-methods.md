@@ -2,7 +2,7 @@
 title: Protected Properties and Methods
 ms.prod: outlook
 ms.assetid: 8522d350-a257-2924-2260-3cc02b6ebbca
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -14,14 +14,12 @@ This topic lists the properties and methods in the Outlook object model that are
 There are three security prompts that an untrusted application can possibly invoke, depending on the protected property or method that the application uses:
 
 - The address book warning. This is the most common of the three security prompts. Unless marked otherwise, the properties and methods in the table below generate the address book warning.
-    
+
 - The execute action warning. Properties and methods superscripted by 1 in the table below denote that they generate the execute action warning.
-    
+
 - The send message warning. Properties and methods superscripted by 2 in the table below denote that they generate the send message warning.
-    
-For more information on security warnings, see  [Outlook Object Model Security Prompts](outlook-object-model-security-warnings.md).
 
-
+For more information on security warnings, see [Outlook Object Model Security Prompts](outlook-object-model-security-warnings.md).
 
 | **Object**| **Protected Properties**| **Protected Methods**|
 |:-----|:-----|:-----|
