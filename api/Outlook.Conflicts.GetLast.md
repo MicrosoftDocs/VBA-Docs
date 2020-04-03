@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Conflicts](Outlook.Conflicts.md) obje
 
 ## Return value
 
-A  **[Conflict](Outlook.Conflict.md)** object that represents the last object contained by the collection.
+A **[Conflict](Outlook.Conflict.md)** object that represents the last object contained by the collection.
 
 
 ## Remarks

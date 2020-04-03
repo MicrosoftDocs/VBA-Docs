@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AddressList.IsInitialAddressList property (Outlook)
 
-Returns a  **Boolean** that indicates if the **[AddressList](Outlook.AddressList.md)** is the initial **AddressList** shown in the **Select Names** dialog. Read-only.
+Returns a **Boolean** that indicates if the **[AddressList](Outlook.AddressList.md)** is the initial **AddressList** shown in the **Select Names** dialog. Read-only.
 
 
 ## Syntax

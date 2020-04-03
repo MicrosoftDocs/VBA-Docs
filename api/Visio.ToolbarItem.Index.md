@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ToolbarItem.Index property (Visio)
 
-Gets the ordinal position of a  **ToolbarItem** object in the **ToolbarItems** collection. Read-only.
+Gets the ordinal position of a **ToolbarItem** object in the **ToolbarItems** collection. Read-only.
 
 
 ## Syntax

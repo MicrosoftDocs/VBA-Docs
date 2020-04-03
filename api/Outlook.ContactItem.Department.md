@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.Department property (Outlook)
 
-Returns or sets a  **String** representing the department name for the contact. Read/write.
+Returns or sets a **String** representing the department name for the contact. Read/write.
 
 
 ## Syntax

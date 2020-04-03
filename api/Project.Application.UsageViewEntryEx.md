@@ -143,7 +143,7 @@ Application.UsageViewEntryEx CellBackground:=&H01ffff, Pattern:=pjBackgroundDiag
  FontColor:=&Hff00ff
 ```
 
-In the Task Usage view, the default field is  **Work**. The following statement adds the  **Actual Cost** field in green, after the **Work** field.
+In the Task Usage view, the default field is  **Work**. The following statement adds the **Actual Cost** field in green, after the **Work** field.
 
 
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folder.CustomViewsOnly property (Outlook)
 
-Returns or sets a  **Boolean** that determines which views are displayed on the **View** menu for a given folder. Read/write.
+Returns or sets a **Boolean** that determines which views are displayed on the **View** menu for a given folder. Read/write.
 
 
 ## Syntax

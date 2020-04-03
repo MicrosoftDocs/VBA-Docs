@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.FlagRequest property (Outlook)
 
-Returns or sets a  **String** indicating the requested action for the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
+Returns or sets a **String** indicating the requested action for the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.BCC property (Outlook)
 
-Returns a  **String** representing the display list of blind carbon copy (BCC) names for a **[MailItem](Outlook.MailItem.md)**. Read/write.
+Returns a **String** representing the display list of blind carbon copy (BCC) names for a **[MailItem](Outlook.MailItem.md)**. Read/write.
 
 
 ## Syntax

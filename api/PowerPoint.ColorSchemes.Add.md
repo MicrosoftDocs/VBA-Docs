@@ -30,7 +30,7 @@ _expression_ A variable that represents a [ColorSchemes](PowerPoint.ColorSchemes
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Scheme_|Optional|**ColorScheme**|The color scheme to add. Can be a  **ColorScheme** object from any slide or master or an item in the **ColorSchemes** collection from any open presentation. If you omit this parameter, the first **ColorScheme** object (the first standard color scheme) in the specified presentation's **ColorSchemes** collection is used.|
+| _Scheme_|Optional|**ColorScheme**|The color scheme to add. Can be a **ColorScheme** object from any slide or master or an item in the **ColorSchemes** collection from any open presentation. If you omit this parameter, the first **ColorScheme** object (the first standard color scheme) in the specified presentation's **ColorSchemes** collection is used.|
 
 ## Return value
 

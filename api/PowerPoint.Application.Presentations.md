@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Presentations property (PowerPoint)
 
-Returns a  **[Presentations](PowerPoint.Presentations.md)** collection that represents all open presentations. Read-only.
+Returns a **[Presentations](PowerPoint.Presentations.md)** collection that represents all open presentations. Read-only.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ParagraphFormat](PowerPoint.Paragraph
 
 ## Remarks
 
-The value of the  **Alignment** property can be one of these **PpParagraphAlignment** constants.
+The value of the **Aignment** property can be one of these **PpParagraphAlignment** constants.
 
 
 ||

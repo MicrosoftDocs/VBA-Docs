@@ -34,17 +34,17 @@ _expression_. `AddBusinessCard`( `_contact_` )
 
 ## Remarks
 
-This method adds contact information, generated from the information stored in the  **ContactItem** object, to the existing **MailItem** object. The information included depends on the value of the **[BodyFormat](Outlook.MailItem.BodyFormat.md)** property for the **MailItem** object:
+This method adds contact information, generated from the information stored in the **ContactItem** object, to the existing **MailItem** object. The information included depends on the value of the **[BodyFormat](Outlook.MailItem.BodyFormat.md)** property for the **MailItem** object:
 
 
 
 | **Property value**| **Result**|
-| **olFormatPlain**|A vCard (.vcf) file is created and added to the  **[Attachments](Outlook.Attachments.md)** collection of the **MailItem** object.|
-| **olFormatRichText**|A vCard (.vcf) file is created and added to the  **Attachments** collection of the **MailItem** object.|
-| **olFormatHTML**|An image of the business card is generated and included in the  **[Body](Outlook.MailItem.Body.md)** property of the **MailItem** object, and a vCard (.vcf) file is created and added to the **[Attachments](Outlook.Attachments.md)** collection of the **MailItem** object.|
+| **olFormatPlain**|A vCard (.vcf) file is created and added to the **[Attachments](Outlook.Attachments.md)** collection of the **MailItem** object.|
+| **olFormatRichText**|A vCard (.vcf) file is created and added to the **Atachments** collection of the **MailItem** object.|
+| **olFormatHTML**|An image of the business card is generated and included in the **[Body](Outlook.MailItem.Body.md)** property of the **MailItem** object, and a vCard (.vcf) file is created and added to the **[Attachments](Outlook.Attachments.md)** collection of the **MailItem** object.|
 
 > [!NOTE] 
-> The attached vCard file contains only the contact information included in the Electronic Business Card associated with the  **ContactItem** object. Any contact information not displayed in the Electronic Business Card is excluded from the vCard file.
+> The attached vCard file contains only the contact information included in the Electronic Business Card associated with the **ContactItem** object. Any contact information not displayed in the Electronic Business Card is excluded from the vCard file.
 
 
 ## See also

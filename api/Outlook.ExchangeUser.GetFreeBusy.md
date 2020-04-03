@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeUser.GetFreeBusy method (Outlook)
 
-Obtains a  **String** representing the availability of the **[ExchangeUser](Outlook.ExchangeUser.md)** for a period of 30 days from the start date, beginning at midnight of the date specified.
+Obtains a **String** representing the availability of the **[ExchangeUser](Outlook.ExchangeUser.md)** for a period of 30 days from the start date, beginning at midnight of the date specified.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ _expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.m
 
 ## Return value
 
-A  **String** that represents the availability of the Exchange user for a period of 30 days from the start date, beginning at midnight of the date specified. Each character in the **String** is a value indicating if the user is available (0), and optionally, whether a busy time is marked tentative (1), out of office (3), or other (2).
+A **String** that represents the availability of the Exchange user for a period of 30 days from the start date, beginning at midnight of the date specified. Each character in the **String** is a value indicating if the user is available (0), and optionally, whether a busy time is marked tentative (1), out of office (3), or other (2).
 
 
 ## Example

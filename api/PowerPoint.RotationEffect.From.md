@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RotationEffect.From property (PowerPoint)
 
-Sets or returns a  **Single** that represents the starting angle in degrees, specified relative to the screen (for example, 90 degrees is completely horizontal). Read/write.
+Sets or returns a **Single** that represents the starting angle in degrees, specified relative to the screen (for example, 90 degrees is completely horizontal). Read/write.
 
 
 ## Syntax

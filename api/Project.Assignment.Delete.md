@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Assignment.Delete method (Project)
 
-Deletes the  **Assignment** object from an **Assignments** collection.
+Deletes the **Assignment** object from an **Assignments** collection.
 
 
 ## Syntax

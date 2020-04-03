@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskPanes.Item method (Word)
 
-Returns the specified task pane as a  **TaskPane** object.
+Returns the specified task pane as a **TaskPane** object.
 
 
 ## Syntax

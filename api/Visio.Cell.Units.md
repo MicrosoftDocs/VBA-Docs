@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Cell.Units property (Visio)
 
-Indicates the unit of measure associated with a  **Cell** object. Read-only.
+Indicates the unit of measure associated with a **Cell** object. Read-only.
 
 
 ## Syntax

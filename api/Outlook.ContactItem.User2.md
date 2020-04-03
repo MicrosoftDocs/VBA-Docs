@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.User2 property (Outlook)
 
-Returns or sets a  **String** specifying the second field on the Contacts form intended for miscellaneous use for the contact. Read/write.
+Returns or sets a **String** specifying the second field on the Contacts form intended for miscellaneous use for the contact. Read/write.
 
 
 ## Syntax

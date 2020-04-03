@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Characters.CharProps property (Visio)
 
-Sets a character property of a  **Characters** object to a new value. Write-only.
+Sets a character property of a **Caracters** object to a new value. Write-only.
 
 
 ## Syntax
@@ -58,7 +58,7 @@ Constants for CellIndex and for the  **CharProps** property value are declared i
 | **visCharacterColorTrans**|17|An integer from 0 to 100 that corresponds to the degree of transparency of the text color, as a percentage.|N/A|
 | **visCharacterDblUnderline**|8| **Boolean**|N/A|
 | **visCharacterFontScale**|5|An integer from 0 to 655 that represents the width of the text font, as a percentage, relative to the default (100%). |N/A|
-| **visCharacterLangID**|57|A  **Long** that represents the language the text is in. The language ID (LANGID) for a character is a 16-bit value defined by Windows, consisting of a primary language ID and a secondary language ID. To determine the value for particular languages, see the Platform SDK documentation on MSDN.|N/A|
+| **visCharacterLangID**|57|A **Long** that represents the language the text is in. The language ID (LANGID) for a character is a 16-bit value defined by Windows, consisting of a primary language ID and a secondary language ID. To determine the value for particular languages, see the Platform SDK documentation on MSDN.|N/A|
 | **visCharacterLetterspace**|16|An integer that represents additional space between adjacent letters, in points.|N/A|
 | **visCharacterOverline**|9| **Boolean**|N/A|
 | **visCharacterStrikethru**|10| **Boolean**|N/A|

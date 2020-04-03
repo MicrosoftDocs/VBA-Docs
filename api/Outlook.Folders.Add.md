@@ -35,7 +35,7 @@ _expression_ A variable that represents a [Folders](Outlook.Folders.md) object.
 
 ## Return value
 
-A  **[Folder](Outlook.Folder.md)** object that represents the new folder.
+A **[Folder](Outlook.Folder.md)** object that represents the new folder.
 
 
 ## Example

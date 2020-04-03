@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DistListItem.Categories property (Outlook)
 
-Returns or sets a  **String** representing the categories assigned to the Outlook item. Read/write.
+Returns or sets a **String** representing the categories assigned to the Outlook item. Read/write.
 
 
 ## Syntax

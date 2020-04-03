@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Action.Prefix property (Outlook)
 
-Returns or sets a  **String** specifying the prefix (for example, "Re") to use with the subject of the item when the action is executed. Read/write.
+Returns or sets a **String** specifying the prefix (for example, "Re") to use with the subject of the item when the action is executed. Read/write.
 
 
 ## Syntax

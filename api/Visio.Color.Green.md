@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Color.Green property (Visio)
 
-Gets or sets the intensity of the green component of a  **Color** object. Read/write.
+Gets or sets the intensity of the green component of a **Color** object. Read/write.
 
 
 ## Syntax

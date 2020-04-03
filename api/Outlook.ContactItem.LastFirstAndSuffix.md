@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.LastFirstAndSuffix property (Outlook)
 
-Returns a  **String** representing the last name, first name, middle name, and suffix of the contact. Read-only.
+Returns a **String** representing the last name, first name, middle name, and suffix of the contact. Read-only.
 
 
 ## Syntax

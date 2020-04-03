@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # VisTraceFlags enumeration (Visio)
 
-Flags to use with the  **Application.TraceFlags** property.
+Flags to use with the **Application.TraceFlags** property.
 
 
 ## Remarks

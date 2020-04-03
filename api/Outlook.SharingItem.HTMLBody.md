@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.HTMLBody property (Outlook)
 
-Returns or sets a  **String** representing the HTML body of the specified **[SharingItem](Outlook.SharingItem.md)**. Read/write.
+Returns or sets a **String** representing the HTML body of the specified **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

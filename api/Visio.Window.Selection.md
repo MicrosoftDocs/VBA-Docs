@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.Selection property (Visio)
 
-Returns a  **Selection** object that represents what is presently selected in the window, or assigns a selection created by the **CreateSelection** method to a **Selection** object. Read/write.
+Returns a **Selection** object that represents what is presently selected in the window, or assigns a selection created by the **CreateSelection** method to a **Selection** object. Read/write.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Selection
 
 The  **Selection** object is independent of the selection in the window, which can subsequently change as a result of user actions.
 
-A  **Selection** object is a set of shapes in a common context on which you can perform actions. A **Selection** object is analogous to more than selected shapes in a drawing window. Once you set or retrieve a **Selection** object, you can change the set of shapes the object represents by using the **Select** method.
+A **Selection** object is a set of shapes in a common context on which you can perform actions. A **Selection** object is analogous to more than selected shapes in a drawing window. Once you set or retrieve a **Selection** object, you can change the set of shapes the object represents by using the **Select** method.
 
 After you use the  **CreateSelection** method to create a selection, you can then use the **Selection** property to actually display the newly created selection in the Microsoft Visio drawing window. See the second example that follows.
 

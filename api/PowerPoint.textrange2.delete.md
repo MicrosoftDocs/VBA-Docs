@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # TextRange2.Delete method (PowerPoint)
 
-Deletes a  **TextRange2** object.
+Deletes a **TextRange2** object.
 
 
 ## Syntax

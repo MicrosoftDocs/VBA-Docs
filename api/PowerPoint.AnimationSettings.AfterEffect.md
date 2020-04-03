@@ -26,9 +26,9 @@ _expression_ A variable that represents an [AnimationSettings](PowerPoint.Animat
 
 ## Remarks
 
-You won't see the aftereffect you set for a shape unless the shape gets animated and at least one other shape on the slide gets animated after it. For a shape to be animated, the  **[TextLevelEffect](PowerPoint.AnimationSettings.TextLevelEffect.md)** property of the **AnimationSettings** object for the shape must be set to something other than **ppAnimateLevelNone**, or the **[EntryEffect](PowerPoint.AnimationSettings.EntryEffect.md)** property must be set to a constant other than **ppEffectNone**. In addition, the **[Animate](PowerPoint.AnimationSettings.Animate.md)** property must be set to **True**. To change the build order of the shapes on a slide, use the **[AnimationOrder](PowerPoint.AnimationSettings.AnimationOrder.md)** property.
+You won't see the aftereffect you set for a shape unless the shape gets animated and at least one other shape on the slide gets animated after it. For a shape to be animated, the **[TextLevelEffect](PowerPoint.AnimationSettings.TextLevelEffect.md)** property of the **AnimationSettings** object for the shape must be set to something other than **ppAnimateLevelNone**, or the **[EntryEffect](PowerPoint.AnimationSettings.EntryEffect.md)** property must be set to a constant other than **ppEffectNone**. In addition, the **[Animate](PowerPoint.AnimationSettings.Animate.md)** property must be set to **True**. To change the build order of the shapes on a slide, use the **[AnimationOrder](PowerPoint.AnimationSettings.AnimationOrder.md)** property.
 
-The value of the  **AfterEffect** property can be one of these **PpAfterEffect** constants.
+The value of the **AterEffect** property can be one of these **PpAfterEffect** constants.
 
 
 ||

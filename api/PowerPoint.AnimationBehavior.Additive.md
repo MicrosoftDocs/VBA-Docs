@@ -31,7 +31,7 @@ MsoAnimAdditive
 
 ## Remarks
 
-The value of the  **Additive** property can be one of these **MsoAnimAdditive** constants.
+The value of the **Aditive** property can be one of these **MsoAnimAdditive** constants.
 
 
 

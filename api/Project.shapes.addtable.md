@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shapes.AddTable method (Project)
-Adds a table to the report, and returns a  **Shape** object that represents the table.
+Adds a table to the report, and returns a **Shape** object that represents the table.
 
 ## Syntax
 

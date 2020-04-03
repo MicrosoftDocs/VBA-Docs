@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CustomProperties.Add method (Word)
 
-Returns a  **CustomProperty** object that represents s custom property added to a smart tag.
+Returns a **CustomProperty** object that represents s custom property added to a smart tag.
 
 
 ## Syntax

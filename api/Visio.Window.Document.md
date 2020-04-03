@@ -43,7 +43,7 @@ The following Microsoft Visual Basic for Applications (VBA) macro shows how to u
 
 
 
-- It adds a  **Document** object to the **Documents** collection and sets several of the **Document** object's properties.
+- It adds a **Document** object to the **Documents** collection and sets several of the **Document** object's properties.
     
 - It gets the active window and active page, draws a rectangle on the page, and drops a master on the  **Document** object to provide various objects to work on.
     

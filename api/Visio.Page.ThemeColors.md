@@ -40,7 +40,7 @@ You can set the  **ThemeColors** property value to any one of the following:
     
 - An enumerated value from the  **[VisThemeColors](Visio.visthemecolors.md)** enumeration
     
-- A  **Master** object of type **visTypeThemeColors**
+- A **Master** object of type **visTypeThemeColors**
     
 
 

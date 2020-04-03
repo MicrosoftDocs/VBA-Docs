@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CalloutFormat.AutoLength property (PowerPoint)
 
-Determines whether the first segment of the callout retains the fixed length specified by the  **[Length](PowerPoint.CalloutFormat.Length.md)** property, or is scaled automatically, whenever the callout is moved. Read-only.
+Determines whether the first segment of the callout retains the fixed length specified by the **[Length](PowerPoint.CalloutFormat.Length.md)** property, or is scaled automatically, whenever the callout is moved. Read-only.
 
 
 ## Syntax
@@ -31,15 +31,15 @@ MsoTriState
 
 ## Remarks
 
-This property is read-only. However, you can use the  **[AutomaticLength](PowerPoint.CalloutFormat.AutomaticLength.md)** method to set this property to **msoTrue** and the **[CustomLength](PowerPoint.CalloutFormat.CustomLength.md)** method to set this property to **msoFalse**.
+This property is read-only. However, you can use the **[AutomaticLength](PowerPoint.CalloutFormat.AutomaticLength.md)** method to set this property to **msoTrue** and the **[CustomLength](PowerPoint.CalloutFormat.CustomLength.md)** method to set this property to **msoFalse**.
 
-The value returned by the  **AutoLength** property can be one of these **MsoTriState** constants. This property applies only to callouts whose lines consist of more than one segment (types **msoCalloutThree** and **msoCalloutFour**).
+The value returned by the **AtoLength** property can be one of these **MsoTriState** constants. This property applies only to callouts whose lines consist of more than one segment (types **msoCalloutThree** and **msoCalloutFour**).
 
 
 
 |Constant|Description|
 |:-----|:-----|
-|**msoFalse**|The first segment of the callout retains the fixed length specified by the  **Length** property whenever the callout is moved.|
+|**msoFalse**|The first segment of the callout retains the fixed length specified by the **Length** property whenever the callout is moved.|
 |**msoTrue**| The first segment of the callout line (the segment attached to the text callout box) is scaled automatically whenever the callout is moved.|
 
 ## Example

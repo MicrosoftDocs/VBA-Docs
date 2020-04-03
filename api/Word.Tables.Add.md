@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Tables.Add method (Word)
 
-Returns a  **Table** object that represents a new, blank table added to a document.
+Returns a **Table** object that represents a new, blank table added to a document.
 
 
 ## Syntax

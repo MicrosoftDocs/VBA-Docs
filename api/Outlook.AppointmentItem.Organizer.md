@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.Organizer property (Outlook)
 
-Returns a  **String** representing the name of the organizer of the appointment. Read-only.
+Returns a **String** representing the name of the organizer of the appointment. Read-only.
 
 
 ## Syntax

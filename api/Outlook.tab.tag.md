@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # Tab.Tag Property (Outlook Forms Script)
 
-Returns or sets a  **String** that specifies additional information about an object. Read/write.
+Returns or sets a **String** that specifies additional information about an object. Read/write.
 
 
 ## Syntax
 
 _expression_.**Tag**
 
-_expression_ A variable that represents a  **Tab** object.
+_expression_ A variable that represents a **Tab** object.
 
 
 ## Remarks

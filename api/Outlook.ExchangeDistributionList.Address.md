@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeDistributionList.Address property (Outlook)
 
-Returns or sets a  **String** representing the X400 email address of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read/write.
+Returns or sets a **String** representing the X400 email address of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Characters property (Visio)
 
-Returns a  **Characters** object that represents the text of a shape. Read-only.
+Returns a **Caracters** object that represents the text of a shape. Read-only.
 
 
 ## Syntax

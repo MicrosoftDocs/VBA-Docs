@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # VisRegionalUIOptions enumeration (Visio)
 
-Text display options returned by the  **ApplicationSettings.AsianTextUI**, **ApplicationSettings.BIDITextUI**, **ApplicationSettings.ComplexTextUI**, **ApplicationSettings.KashidaTextUI**, and **ApplicationSettings.SATextUI** properties.
+Text display options returned by the **ApplicationSettings.AsianTextUI**, **ApplicationSettings.BIDITextUI**, **ApplicationSettings.ComplexTextUI**, **ApplicationSettings.KashidaTextUI**, and **ApplicationSettings.SATextUI** properties.
 
 
 ## Remarks

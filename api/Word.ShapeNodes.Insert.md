@@ -42,7 +42,7 @@ _expression_ Required. A variable that represents a **[ShapeNodes](Word.shapenod
 
 ## Example
 
-This example selects the third shape in the active document, checks whether the shape is a  **Freeform** object, and if it is, inserts a node.
+This example selects the third shape in the active document, checks whether the shape is a **Freeform** object, and if it is, inserts a node.
 
 
 ```vb

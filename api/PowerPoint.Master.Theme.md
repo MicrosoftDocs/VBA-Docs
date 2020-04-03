@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Master.Theme property (PowerPoint)
 
-Returns a  **Theme** object that represents the theme used by the specified slide master, title master, handout master, notes master, or design master. Read-only.
+Returns a **Theme** object that represents the theme used by the specified slide master, title master, handout master, notes master, or design master. Read-only.
 
 
 ## Syntax

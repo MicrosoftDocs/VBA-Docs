@@ -45,7 +45,7 @@ When you copy an object that contains customer data, the customer data is copied
 
 ## Example
 
-The following example shows how to add a  **CustomXMLPart** object to the **CustomerData** collection of the first shape on the first slide of the active presentation, and how to load an XML string into the custom XML part. It prints the ID of the custom XML part and the XML string in the Immediate window.
+The following example shows how to add a **CustomXMLPart** object to the **CustomerData** collection of the first shape on the first slide of the active presentation, and how to load an XML string into the custom XML part. It prints the ID of the custom XML part and the XML string in the Immediate window.
 
 
 ```vb

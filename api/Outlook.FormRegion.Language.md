@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormRegion.Language property (Outlook)
 
-Returns a  **Long** that indicates the LCID for the current language. Read-only.
+Returns a **Long** that indicates the LCID for the current language. Read-only.
 
 
 ## Syntax

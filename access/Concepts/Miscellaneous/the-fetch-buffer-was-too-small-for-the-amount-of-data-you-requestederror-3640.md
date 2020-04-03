@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-When performing a  **GetRows** or **GetRowsEx** method the fetch buffer was too small to contain the specified rows.
+When performing a **GetRows** or **GetRowsEx** method the fetch buffer was too small to contain the specified rows.
 
 ## See also
 

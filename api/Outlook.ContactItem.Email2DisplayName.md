@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.Email2DisplayName property (Outlook)
 
-Returns a  **String** representing the display name of the second email entry for the contact. Read/write.
+Returns a **String** representing the display name of the second email entry for the contact. Read/write.
 
 
 ## Syntax

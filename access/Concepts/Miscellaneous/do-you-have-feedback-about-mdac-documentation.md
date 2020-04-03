@@ -22,7 +22,7 @@ The MDAC documentation team welcomes your suggestions and comments about our doc
 
 ## Email
 
-The MDAC documentation now includes a  **Documentation Feedback** button at the top of every topic. Clicking this button offers an easy way to send email feedback to the MDAC documentation team. Addresses for each section of the MDAC documentation also appear below.
+The MDAC documentation now includes a **Dcumentation Feedback** button at the top of every topic. Clicking this button offers an easy way to send email feedback to the MDAC documentation team. Addresses for each section of the MDAC documentation also appear below.
 
 
 

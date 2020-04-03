@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AttachmentSelection.Location property (Outlook)
 
-Returns a  **[OlSelectionLocation](Outlook.OlSelectionLocation.md)** constant that specifies where the attachment selection is in the Microsoft Outlook user interface. Read-only
+Returns a **[OlSelectionLocation](Outlook.OlSelectionLocation.md)** constant that specifies where the attachment selection is in the Microsoft Outlook user interface. Read-only
 
 
 ## Syntax

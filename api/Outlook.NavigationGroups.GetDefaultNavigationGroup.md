@@ -34,7 +34,7 @@ _expression_ A variable that represents a [NavigationGroups](Outlook.NavigationG
 
 ## Return value
 
-A  **NavigationGroup** object that represents the selected default folder group.
+A **NavigationGroup** object that represents the selected default folder group.
 
 
 ## Remarks

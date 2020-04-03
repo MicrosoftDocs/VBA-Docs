@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TwoInitialCapsExceptions.Add method (Word)
 
-Returns a  **TwoInitialCapsException** object that represents a new exception added to the list of AutoCorrect exceptions.
+Returns a **TwoInitialCapsException** object that represents a new exception added to the list of AutoCorrect exceptions.
 
 
 ## Syntax

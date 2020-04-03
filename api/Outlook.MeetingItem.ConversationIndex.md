@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MeetingItem.ConversationIndex property (Outlook)
 
-Returns a  **String** that indicates the relative position of the item within the conversation thread. Read-only.
+Returns a **String** that indicates the relative position of the item within the conversation thread. Read-only.
 
 
 ## Syntax

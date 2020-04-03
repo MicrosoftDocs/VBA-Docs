@@ -26,7 +26,7 @@ Use  **[AutoCaptions](Word.Application.AutoCaptions.md)** (_index_), where _inde
 AutoCaptions("Microsoft Word Table").AutoInsert = True
 ```
 
-The index number represents the position of the  **AutoCaption** object in the list of items in the **AutoCaption** dialog box. The following example displays the name of the first item listed in the **AutoCaption** dialog box.
+The index number represents the position of the **AutoCaption** object in the list of items in the **AutoCaption** dialog box. The following example displays the name of the first item listed in the **AutoCaption** dialog box.
 
 
 

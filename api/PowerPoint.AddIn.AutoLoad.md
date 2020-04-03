@@ -33,7 +33,7 @@ MsoTriState
 
 Setting this property to  **msoTrue** automatically sets the **[Registered](PowerPoint.AddIn.Registered.md)** property to **msoTrue**.
 
-The value of the  **AutoLoad** property can be one of these **MsoTriState** constants.
+The value of the **AtoLoad** property can be one of these **MsoTriState** constants.
 
 
 

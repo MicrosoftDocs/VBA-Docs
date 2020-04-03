@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Attachment.DisplayName property (Outlook)
 
-Returns or sets a  **String** representing the name, which does not need to be the actual file name, displayed below the icon representing the embedded attachment. Read/write.
+Returns or sets a **String** representing the name, which does not need to be the actual file name, displayed below the icon representing the embedded attachment. Read/write.
 
 
 ## Syntax

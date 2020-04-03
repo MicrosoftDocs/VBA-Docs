@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Invalid inside procedure
 
-The statement can't occur in a  **Sub** or **Function** procedure. This error has the following cause and solution:
+The statement can't occur in a **Sub** or **Function** procedure. This error has the following cause and solution:
 
 
 

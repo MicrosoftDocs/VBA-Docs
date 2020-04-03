@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NoteItem.Subject property (Outlook)
 
-Returns or sets a  **String** indicating the subject for the Outlook item. Read-only.
+Returns or sets a **String** indicating the subject for the Outlook item. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SelectNamesDialog.Caption property (Outlook)
 
-Returns or sets a  **String** value that represents the title for the **Select Names** dialog box. Read/write.
+Returns or sets a **String** value that represents the title for the **Select Names** dialog box. Read/write.
 
 
 ## Syntax

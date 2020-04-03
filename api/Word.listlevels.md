@@ -37,7 +37,7 @@ ActiveDocument.ListTemplates(1).ListLevels(1).StartAt = 4
 > [!NOTE] 
 > You cannot add new levels to a list template.
 
-To apply a list level, first identify the range or list, and then use the  **ApplyListTemplate** method. Each tab at the beginning of the paragraph is translated into a list level. For example, a paragraph that begins with three tabs will become a level-three list paragraph after the **ApplyListTemplate** method is used.
+To apply a list level, first identify the range or list, and then use the **ApplyListTemplate** method. Each tab at the beginning of the paragraph is translated into a list level. For example, a paragraph that begins with three tabs will become a level-three list paragraph after the **ApplyListTemplate** method is used.
 
 
 ## See also

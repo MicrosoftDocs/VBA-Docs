@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.SentOnBehalfOfName property (Outlook)
 
-Returns a  **String** indicating the display name for the intended sender of the mail message. Read/write.
+Returns a **String** indicating the display name for the intended sender of the mail message. Read/write.
 
 
 ## Syntax

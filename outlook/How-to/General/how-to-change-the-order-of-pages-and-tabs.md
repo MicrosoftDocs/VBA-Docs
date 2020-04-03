@@ -18,9 +18,9 @@ To use this example, copy this sample code to the Script Editor of a form. Make 
 
 - Two **[CommandButton](../../../api/Outlook.commandbutton.md)** controls named CommandButton1 and CommandButton2.
 
-- A  **MultiPage** named MultiPage1.
+- A **MultiPage** named MultiPage1.
 
-- A  **TabStrip** named TabStrip1.
+- A **TabStrip** named TabStrip1.
 
 ```vb
 Dim MyPageOrTab 

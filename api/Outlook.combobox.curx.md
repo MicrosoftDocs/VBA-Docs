@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ComboBox.CurX Property (Outlook Forms Script)
 
-Returns or sets a  **Long** that represents the current horizontal position of the insertion point in a multiline **[ComboBox](Outlook.combobox.md)**. Read/write.
+Returns or sets a **Long** that represents the current horizontal position of the insertion point in a multiline **[ComboBox](Outlook.combobox.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**CurX**
 
-_expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a **CmboBox** object.
 
 
 ## Remarks

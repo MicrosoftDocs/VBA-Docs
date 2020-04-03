@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ResourceAssignmentDialog method (Project)
 
-Displays the  **Assign Resources** dialog box, expands or collapses the **Resource list options**, and specifies fields and filters.
+Displays the **Asign Resources** dialog box, expands or collapses the **Resource list options**, and specifies fields and filters.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.User3 property (Outlook)
 
-Returns or sets a  **String** specifying the third field on the Contacts form intended for miscellaneous use for the contact. Read/write.
+Returns or sets a **String** specifying the third field on the Contacts form intended for miscellaneous use for the contact. Read/write.
 
 
 ## Syntax

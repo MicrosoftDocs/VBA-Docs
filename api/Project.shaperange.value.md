@@ -24,7 +24,7 @@ _expression_ A variable that represents a 'ShapeRange' object.
 
 ## Example
 
-The following example creates a report named "Test Report", creates two shapes, and then adds the shapes to a  **ShapeRange** object. The statement that begins with `sRange.Value(1)` gets the first shape in the shape range. The statement that begins with `sRange(2)` invokes the default **Value** property and gets the second shape in the shape range.
+The following example creates a report named "Test Report", creates two shapes, and then adds the shapes to a **ShapeRange** object. The statement that begins with `sRange.Value(1)` gets the first shape in the shape range. The statement that begins with `sRange(2)` invokes the default **Value** property and gets the second shape in the shape range.
 
 
 ```vb

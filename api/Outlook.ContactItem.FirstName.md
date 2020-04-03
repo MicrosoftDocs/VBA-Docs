@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.FirstName property (Outlook)
 
-Returns or sets a  **String** representing the first name for the contact. Read/write.
+Returns or sets a **String** representing the first name for the contact. Read/write.
 
 
 ## Syntax

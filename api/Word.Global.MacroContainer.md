@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Global.MacroContainer property (Word)
 
-Returns a  **Template** or **Document** object that represents the template or document in which the module that contains the running procedure is stored.
+Returns a **Template** or **Document** object that represents the template or document in which the module that contains the running procedure is stored.
 
 
 ## Syntax

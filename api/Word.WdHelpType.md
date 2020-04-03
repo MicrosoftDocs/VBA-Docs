@@ -18,7 +18,7 @@ Specifies the type of Help topic or window to display.
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdHelp**|0|Displays the  **Help Topics** dialog box.|
-| **wdHelpAbout**|1|Displays the  **About Microsoft Word** dialog box.|
+| **wdHelpAbout**|1|Displays the **About Microsoft Word** dialog box.|
 | **wdHelpActiveWindow**|2|Displays Help describing the command associated with the active view or pane.|
 | **wdHelpContents**|3|Displays the  **Help Topics** dialog box.|
 | **wdHelpExamplesAndDemos**|4|Displays examples and demos.|

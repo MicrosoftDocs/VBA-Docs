@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PostItem.ReceivedTime property (Outlook)
 
-Returns a  **Date** indicating the date and time at which the item was received. Read-only.
+Returns a **Date** indicating the date and time at which the item was received. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Explorer.NavigationPane property (Outlook)
 
-Returns a  **[NavigationPane](Outlook.NavigationPane.md)** object that represents the navigation pane for an **[Explorer](Outlook.Explorer.md)** object. Read-only.
+Returns a **[NavigationPane](Outlook.NavigationPane.md)** object that represents the navigation pane for an **[Explorer](Outlook.Explorer.md)** object. Read-only.
 
 
 ## Syntax

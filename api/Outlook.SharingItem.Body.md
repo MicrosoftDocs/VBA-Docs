@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.Body property (Outlook)
 
-Returns or sets a  **String** representing the clear-text body of the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
+Returns or sets a **String** representing the clear-text body of the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

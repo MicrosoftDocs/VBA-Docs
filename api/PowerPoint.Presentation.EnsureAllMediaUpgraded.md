@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Presentation.EnsureAllMediaUpgraded method (PowerPoint)
 
-Ensures that all media is up to date in a  **Presentation** object.
+Ensures that all media is up to date in a **Presentation** object.
 
 
 ## Syntax

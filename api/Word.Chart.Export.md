@@ -36,7 +36,7 @@ _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 ## Return value
 
-A  **Boolean** value that indicates whether the export was successful.
+A **Boolean** value that indicates whether the export was successful.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AxisTitle.Name property (PowerPoint)
 
-Returns a  **String** value that represents the name of the object.
+Returns a **String** value that represents the name of the object.
 
 
 ## Syntax

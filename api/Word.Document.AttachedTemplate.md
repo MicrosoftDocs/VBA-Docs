@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.AttachedTemplate property (Word)
 
-Returns a  **[Template](Word.Template.md)** object that represents the template attached to the specified document. Read/write **Variant**.
+Returns a **[Template](Word.Template.md)** object that represents the template attached to the specified document. Read/write **Variant**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Document](Word.Document.md)** objec
 
 ## Remarks
 
-To set this property, specify either the name of the template or an expression that returns a  **Template** object.
+To set this property, specify either the name of the template or an expression that returns a **Template** object.
 
 
 ## Example

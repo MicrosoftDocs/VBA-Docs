@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContentControlListEntries.Item method (Word)
 
-Returns a  **ContentControlListEntry** object that represents the specified item in the collection.
+Returns a **ContentControlListEntry** object that represents the specified item in the collection.
 
 
 ## Syntax

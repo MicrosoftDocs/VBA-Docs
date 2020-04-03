@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Cell.FormulaForce property (Visio)
 
-Sets the formula in a  **Cell** object, even if the formula is protected with a GUARD function. Read/write.
+Sets the formula in a **Cell** object, even if the formula is protected with a GUARD function. Read/write.
 
 
 ## Syntax

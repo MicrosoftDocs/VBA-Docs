@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # WorksheetFunction.FilterXML method (Excel)
 
-Gets specific data from the returned XML, typically from a  **WebService** function call.
+Gets specific data from the returned XML, typically from a **WebService** function call.
 
 
 ## Syntax

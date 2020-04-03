@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Event.SetFilterSRC method (Visio)
 
-Specifies an array of cell ranges and a  **True** or **False** value indicating how to filter events for each cell range.
+Specifies an array of cell ranges and a **True** or **False** value indicating how to filter events for each cell range.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Event](Visio.Event.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _SRCStream()_|Required| **Integer**|An array of cell ranges and a  **True** or **False** value specifying how to filter events for each range.|
+| _SRCStream()_|Required| **Integer**|An array of cell ranges and a **True** or **False** value specifying how to filter events for each range.|
 
 ## Return value
 
@@ -52,7 +52,7 @@ The number of elements in the array is a multiple of 7:
     
 - The next three elements describe the section, row, and cell of the end cell of the range.
     
-- The last element contains a  **True** or **False** value indicating how to filter events for the cell range (**True** to listen to events for a range of cells; **False** to exclude events for a range of cells).
+- The last element contains a **True** or **False** value indicating how to filter events for the cell range (**True** to listen to events for a range of cells; **False** to exclude events for a range of cells).
     
 
 

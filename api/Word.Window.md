@@ -39,7 +39,7 @@ The index number is the number to the left of the window name on the  **Window**
 MsgBox Windows(1).Caption
 ```
 
-Use the  **Add** method or the **NewWindow** method to add a new window to the **Windows** collection. Each of the following statements creates a new window for the document in the active window.
+Use the **Add** method or the **NewWindow** method to add a new window to the **Windows** collection. Each of the following statements creates a new window for the document in the active window.
 
 
 

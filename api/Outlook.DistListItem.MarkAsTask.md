@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DistListItem.MarkAsTask method (Outlook)
 
-Marks a  **[DistListItem](Outlook.DistListItem.md)** object as a task and assigns a task interval for the object.
+Marks a **[DistListItem](Outlook.DistListItem.md)** object as a task and assigns a task interval for the object.
 
 
 ## Syntax

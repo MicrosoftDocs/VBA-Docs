@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Availabilities.Parent property (Project)
 
-Gets the parent of the  **Availabilities** object. Read-only **Resource**.
+Gets the parent of the **Availabilities** object. Read-only **Resource**.
 
 
 ## Syntax

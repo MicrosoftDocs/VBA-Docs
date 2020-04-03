@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Conversation.ConversationID property (Outlook)
 
-Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object. Read-only.
+Returns a **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object. Read-only.
 
 
 ## Syntax

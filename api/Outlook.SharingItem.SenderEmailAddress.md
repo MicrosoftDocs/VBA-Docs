@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.SenderEmailAddress property (Outlook)
 
-Returns a  **String** that represents the email address of the sender of the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
+Returns a **String** that represents the email address of the sender of the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax

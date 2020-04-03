@@ -19,7 +19,7 @@ Represents an equation.  **OMath** objects are members of the **OMaths** collect
 
 ## Remarks
 
-Use the  **Add** method of the **OMaths** collection to create an equation and add it to a document, selection, or range. The following example creates an equation and uses the **BuildUp** method to convert the equation to professional format.
+Use the **Add** method of the **OMaths** collection to create an equation and add it to a document, selection, or range. The following example creates an equation and uses the **BuildUp** method to convert the equation to professional format.
 
 
 ```vb

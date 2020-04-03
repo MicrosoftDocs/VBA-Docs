@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SolutionsModule.Name property (Outlook)
 
-Returns a  **String** value that represents the localized display name for the **[SolutionsModule](Outlook.SolutionsModule.md)** object. Read-only.
+Returns a **String** value that represents the localized display name for the **[SolutionsModule](Outlook.SolutionsModule.md)** object. Read-only.
 
 
 ## Syntax

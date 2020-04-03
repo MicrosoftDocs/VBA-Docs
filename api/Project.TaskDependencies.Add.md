@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # TaskDependencies.Add method (Project)
 
-Adds a  **TaskDependency** object to a **TaskDependencies** collection.
+Adds a **TaskDependency** object to a **TaskDependencies** collection.
 
 
 ## Syntax

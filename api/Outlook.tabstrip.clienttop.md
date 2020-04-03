@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # TabStrip.ClientTop Property (Outlook Forms Script)
 
-Returns a  **Single** value that represents the location of the top edge of the display area of a **[TabStrip](Outlook.tabstrip.md)**. Read-only.
+Returns a **Single** value that represents the location of the top edge of the display area of a **[TabStrip](Outlook.tabstrip.md)**. Read-only.
 
 
 ## Syntax
 
 _expression_.**ClientTop**
 
-_expression_ A variable that represents a  **TabStrip** object.
+_expression_ A variable that represents a **TabStrip** object.
 
 
 ## Remarks

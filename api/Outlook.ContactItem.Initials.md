@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.Initials property (Outlook)
 
-Returns or sets a  **String** representing the initials for the contact. Read/write.
+Returns or sets a **String** representing the initials for the contact. Read/write.
 
 
 ## Syntax

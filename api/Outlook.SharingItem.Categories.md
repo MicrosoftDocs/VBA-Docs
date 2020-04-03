@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.Categories property (Outlook)
 
-Returns or sets a  **String** representing the categories assigned to the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
+Returns or sets a **String** representing the categories assigned to the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

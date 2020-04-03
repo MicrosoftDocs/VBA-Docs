@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Font.Index property (Visio)
 
-Gets the ordinal position of a  **Font** object in the **Fonts** collection. Read-only.
+Gets the ordinal position of a **Font** object in the **Fonts** collection. Read-only.
 
 
 ## Syntax

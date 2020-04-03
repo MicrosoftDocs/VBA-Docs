@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shapes.Range method (Word)
 
-Returns a  **ShapeRange** object that represents the shapes within a range.
+Returns a **ShapeRange** object that represents the shapes within a range.
 
 
 ## Syntax
@@ -39,11 +39,11 @@ ShapeRange
 
 ## Remarks
 
-A  **Shape** object always appears on the same page as the range it is anchored to.
+A **Shape** object always appears on the same page as the range it is anchored to.
 
 
 > [!NOTE] 
-> Most operations that you can do with a  **Shape** object you can also do with a **ShapeRange** object that contains a single shape. Some operations, when performed on a **ShapeRange** object that contains multiple shapes, produce an error.
+> Most operations that you can do with a **Shape** object you can also do with a **ShapeRange** object that contains a single shape. Some operations, when performed on a **ShapeRange** object that contains multiple shapes, produce an error.
 
 
 ## Example

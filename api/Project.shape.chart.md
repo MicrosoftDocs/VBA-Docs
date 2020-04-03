@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shape.Chart property (Project)
-Gets a  **Chart** object that represents the chart contained in the shape. Read-only **Chart**.
+Gets a **Chart** object that represents the chart contained in the shape. Read-only **Chart**.
 
 ## Syntax
 

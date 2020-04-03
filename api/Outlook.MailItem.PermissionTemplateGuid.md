@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.PermissionTemplateGuid property (Outlook)
 
-Returns or sets a  **String** value that represents the GUID of the template file to apply to the **[MailItem](Outlook.MailItem.md)** in order to specify Information Rights Management (IRM) permissions. Read/write.
+Returns or sets a **String** value that represents the GUID of the template file to apply to the **[MailItem](Outlook.MailItem.md)** in order to specify Information Rights Management (IRM) permissions. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Remarks
 
-This property complements the IRM properties on a  **MailItem** object; that is, the **[Permission](Outlook.MailItem.Permission.md)** property and the **[PermissionService](Outlook.MailItem.PermissionService.md)** properties.
+This property complements the IRM properties on a **MailItem** object; that is, the **[Permission](Outlook.MailItem.Permission.md)** property and the **[PermissionService](Outlook.MailItem.PermissionService.md)** properties.
 
 In particular, the  **PermissionTemplateGuid** property should be synchronized with the **Permission** property to accurately reflect the permission status of the **MailItem**. Setting the **PermissionTemplateGuid** property to a valid GUID should also incur setting the **Permission** property to **OlPermission.olPermissionTemplate**.
 

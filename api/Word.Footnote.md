@@ -28,7 +28,7 @@ If Selection.Footnotes.Count >= 1 Then
 End If
 ```
 
-Use the  **Add** method to add a footnote to the **[Footnotes](Word.footnotes.md)** collection. The following example inserts an automatically numbered footnote immediately after the selection.
+Use the **Add** method to add a footnote to the **[Footnotes](Word.footnotes.md)** collection. The following example inserts an automatically numbered footnote immediately after the selection.
 
 
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Slide.ThemeColorScheme property (PowerPoint)
 
-Returns a  **ThemeColorScheme** object that represents the color scheme associated with the specified slide. Read-only.
+Returns a **ThemeColorScheme** object that represents the color scheme associated with the specified slide. Read-only.
 
 
 ## Syntax

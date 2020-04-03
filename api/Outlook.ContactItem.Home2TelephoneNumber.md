@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.Home2TelephoneNumber property (Outlook)
 
-Returns or sets a  **String** representing the second home telephone number for the contact. Read/write.
+Returns or sets a **String** representing the second home telephone number for the contact. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AddressList.ID property (Outlook)
 
-Returns a  **String** representing the unique identifier for the object. Read-only.
+Returns a **String** representing the unique identifier for the object. Read-only.
 
 
 ## Syntax

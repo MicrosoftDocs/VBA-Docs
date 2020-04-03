@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ComboBox.MatchFound Property (Outlook Forms Script)
 
-Returns a  **Boolean** value that indicates whether the text that a user has typed into a **[ComboBox](Outlook.combobox.md)** matches any of the entries in the list. Read-only.
+Returns a **Boolean** value that indicates whether the text that a user has typed into a **[ComboBox](Outlook.combobox.md)** matches any of the entries in the list. Read-only.
 
 
 ## Syntax
 
 _expression_.**MatchFound**
 
-_expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a **ComboBox** object.
 
 
 ## Remarks

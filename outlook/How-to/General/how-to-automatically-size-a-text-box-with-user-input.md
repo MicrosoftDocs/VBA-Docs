@@ -18,7 +18,7 @@ To use this example, copy this sample code to the Script Editor of a form. To ru
 
 - Two  **TextBox** controls named TextBox1 and TextBox2.
 
-- A  **[ToggleButton](../../../api/Outlook.togglebutton.md)** named ToggleButton1.
+- A **[ToggleButton](../../../api/Outlook.togglebutton.md)** named ToggleButton1.
 
 ```vb
 Dim ToggleButton1 

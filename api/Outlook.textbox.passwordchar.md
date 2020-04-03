@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # TextBox.PasswordChar Property (Outlook Forms Script)
 
-Returns or sets a  **String** that specifies a placeholder character to be displayed instead of the characters actually entered in a **[TextBox](Outlook.textbox.md)**. Read/write.
+Returns or sets a **String** that specifies a placeholder character to be displayed instead of the characters actually entered in a **[TextBox](Outlook.textbox.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**PasswordChar**
 
-_expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a **TextBox** object.
 
 
 ## Remarks

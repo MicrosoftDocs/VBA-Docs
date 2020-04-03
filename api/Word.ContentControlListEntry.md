@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContentControlListEntry object (Word)
 
-A  **ContentControlListEntry** object represents a list item in a drop-down list or combo box content control. A **ContentControlListEntry** object is a member of the **[ContentControlListEntries](Word.ContentControlListEntries.md)** collection for a **ContentControl** object.
+A **ContentControlListEntry** object represents a list item in a drop-down list or combo box content control. A **ContentControlListEntry** object is a member of the **[ContentControlListEntries](Word.ContentControlListEntries.md)** collection for a **ContentControl** object.
 
 
 ## Remarks
@@ -25,7 +25,7 @@ Use the  **[Add](Word.ContentControlListEntries.Add.md)** method of the **Conten
 > [!NOTE] 
 > List entries must have unique display names. Attempting to add a list item that already exists raises a run-time error.
 
-The following code example uses the  **Add** method to add several list items to a new drop-down list content control, and then uses the **Item** method to access the third item in the list and change the display text.
+The following code example uses the **Add** method to add several list items to a new drop-down list content control, and then uses the **Item** method to access the third item in the list and change the display text.
 
 
 

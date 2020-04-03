@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.Profession property (Outlook)
 
-Returns or sets a  **String** indicating the profession for the contact. Read/write.
+Returns or sets a **String** indicating the profession for the contact. Read/write.
 
 
 ## Syntax

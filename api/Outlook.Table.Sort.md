@@ -37,7 +37,7 @@ _expression_ A variable that represents a [Table](Outlook.Table.md) object.
 
  _SortProperty_ can be any explicit built-in property or custom property, with the exception of binary and multi-valued properties. The property must be referenced by its explicit string name; it cannot be referenced by namespace. For further information on specifying sort properties, see [Sorting Items in a Folder](../outlook/How-to/Items-Folders-and-Stores/sorting-items-in-a-folder.md).
 
-Sorting the table is equivalent to calling a  **[MoveToStart](Outlook.Table.MoveToStart.md)** method. The cursor will be positioned to the start of the Table.
+Sorting the table is equivalent to calling a **[MoveToStart](Outlook.Table.MoveToStart.md)** method. The cursor will be positioned to the start of the Table.
 
 If  **Table.Sort** and then **[Table.Restrict](Outlook.Table.Restrict.md)** are called, the filtered items in the new **Table** will be sorted by the same _SortProperty_ and _SortOrder_.
 
@@ -46,7 +46,7 @@ If  **Table.Sort** and then **[Table.Restrict](Outlook.Table.Restrict.md)** are 
 
 ## Example
 
-The following code sample shows how to sort the rows in a  **Table** based on the **ReceivedTime** property, and prints the value of the MAPI normalized subject property for each row in the sorted table.
+The following code sample shows how to sort the rows in a **Table** based on the **ReceivedTime** property, and prints the value of the MAPI normalized subject property for each row in the sorted table.
 
 
 ```vb

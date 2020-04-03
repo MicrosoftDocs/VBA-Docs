@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskRequestItem.BillingInformation property (Outlook)
 
-Returns or sets a  **String** representing the billing information associated with the Outlook item. Read/write.
+Returns or sets a **String** representing the billing information associated with the Outlook item. Read/write.
 
 
 ## Syntax

@@ -24,7 +24,7 @@ Use the  **[Selection](Outlook.Explorer.Selection.md)** property to return the *
 
 ## Example
 
-The following example returns a  **Selection** object from an **Explorer** object.
+The following example returns a **Selection** object from an **Explorer** object.
 
 
 ```vb

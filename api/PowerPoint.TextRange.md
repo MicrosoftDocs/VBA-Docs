@@ -74,11 +74,11 @@ Use the  **TextRange** property of the **Selection** object to return the curren
 ActiveWindow.Selection.TextRange.Copy
 ```
 
-Use one of the following methods to return a portion of the text of a  **TextRange** object: **[Characters](PowerPoint.TextRange.Characters.md)**, **[Lines](PowerPoint.TextRange.Lines.md)**, **[Paragraphs](PowerPoint.TextRange.Paragraphs.md)**, **[Runs](PowerPoint.TextRange.Runs.md)**, **[Sentences](PowerPoint.TextRange.Sentences.md)**, or **[Words](PowerPoint.TextRange.Words.md)**.
+Use one of the following methods to return a portion of the text of a **TextRange** object: **[Characters](PowerPoint.TextRange.Characters.md)**, **[Lines](PowerPoint.TextRange.Lines.md)**, **[Paragraphs](PowerPoint.TextRange.Paragraphs.md)**, **[Runs](PowerPoint.TextRange.Runs.md)**, **[Sentences](PowerPoint.TextRange.Sentences.md)**, or **[Words](PowerPoint.TextRange.Words.md)**.
 
 Use the [Find](PowerPoint.TextRange.Find.md)and [Replace](PowerPoint.TextRange.Replace.md)methods to find and replace text in a text range.
 
-Use one of the following methods to insert characters into a  **TextRange** object:[InsertAfter](PowerPoint.TextRange.InsertAfter.md), [InsertBefore](PowerPoint.TextRange.InsertBefore.md), [InsertDateTime](PowerPoint.TextRange.InsertDateTime.md), [InsertSlideNumber](PowerPoint.TextRange.InsertSlideNumber.md), or [InsertSymbol](PowerPoint.TextRange.InsertSymbol.md).
+Use one of the following methods to insert characters into a **TextRange** object:[InsertAfter](PowerPoint.TextRange.InsertAfter.md), [InsertBefore](PowerPoint.TextRange.InsertBefore.md), [InsertDateTime](PowerPoint.TextRange.InsertDateTime.md), [InsertSlideNumber](PowerPoint.TextRange.InsertSlideNumber.md), or [InsertSymbol](PowerPoint.TextRange.InsertSymbol.md).
 
 
 ## Methods

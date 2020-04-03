@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # UserDefinedProperties.Find method (Outlook)
 
-Locate a  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** contained in the collection.
+Locate a **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** contained in the collection.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ _expression_ A variable that represents a [UserDefinedProperties](Outlook.UserDe
 
 ## Return value
 
-A  **UserDefinedProperty** object that represents the located object, if successful; otherwise, **Null** (**Nothing** in Visual Basic).
+A **UserDefinedProperty** object that represents the located object, if successful; otherwise, **Null** (**Nothing** in Visual Basic).
 
 
 ## See also

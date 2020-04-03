@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XMLNode.OwnerDocument property (Word)
 
-Returns a  **Document** object that represents the parent document of the specified XML element.
+Returns a **Document** object that represents the parent document of the specified XML element.
 
 
 ## Syntax

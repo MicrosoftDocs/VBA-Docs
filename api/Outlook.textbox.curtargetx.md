@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # TextBox.CurTargetX Property (Outlook Forms Script)
 
-Returns a  **Long** that represents the preferred horizontal position of the insertion point in a multiline **[TextBox](Outlook.textbox.md)**. Read-only.
+Returns a **Long** that represents the preferred horizontal position of the insertion point in a multiline **[TextBox](Outlook.textbox.md)**. Read-only.
 
 
 ## Syntax
 
 _expression_.**CurTargetX**
 
-_expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a **TextBox** object.
 
 
 ## Remarks

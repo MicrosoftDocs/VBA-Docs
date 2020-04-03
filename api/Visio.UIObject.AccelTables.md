@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # UIObject.AccelTables property (Visio)
 
-Returns the  **AccelTables** collection of a **UIObject** object. Read-only.
+Returns the **AccelTables** collection of a **UIObject** object. Read-only.
 
 
 ## Syntax
@@ -42,7 +42,7 @@ To retrieve accelerators for a particular window context, for example, the drawi
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **AccelTables** property to delete an accelerator key from a built-in menu.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **AccelTables** property to delete an accelerator key from a built-in menu.
 
 To restore the built-in menus in Microsoft Visio after you run this macro, call the  **ThisDocument.ClearCustomMenus** method.
 

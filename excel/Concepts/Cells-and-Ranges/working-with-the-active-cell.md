@@ -12,7 +12,7 @@ localization_priority: Priority
 
 # Working with the Active Cell
 
-The  **[ActiveCell](../../../api/Excel.Application.ActiveCell.md)** property returns a  **[Range](https://msdn.microsoft.com/library/office/ff838238.aspx)** object that represents the cell that is active. You can apply any of the properties or methods of a **Range** object to the active cell, as in the following example. While one or more worksheet cells may be selected, only one of the cells in the selection can be the **ActiveCell**.
+The  **[ActiveCell](../../../api/Excel.Application.ActiveCell.md)** property returns a **[Range](https://msdn.microsoft.com/library/office/ff838238.aspx)** object that represents the cell that is active. You can apply any of the properties or methods of a **Range** object to the active cell, as in the following example. While one or more worksheet cells may be selected, only one of the cells in the selection can be the **ActiveCell**.
 
 
 ```vb

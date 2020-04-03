@@ -40,6 +40,6 @@ _expression_ A variable that represents a [Broadcast](PowerPoint.Broadcast.md) o
 
 ## Remarks
 
-If you fail to pass a string for either of the two parameters, the  **AddMeetingNotes** method returns an Invalid Parameter error. If for any reason the method call fails, PowerPoint returns a generic broadcast error.
+If you fail to pass a string for either of the two parameters, the **AdMeetingNotes** method returns an Invalid Parameter error. If for any reason the method call fails, PowerPoint returns a generic broadcast error.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

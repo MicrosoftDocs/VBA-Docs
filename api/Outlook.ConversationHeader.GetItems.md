@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ConversationHeader.GetItems method (Outlook)
 
-Obtains a  **[SimpleItems](Outlook.SimpleItems.md)** collection that contains all of the items in the conversation that reside in the same folder as the selected conversation header.
+Obtains a **[SimpleItems](Outlook.SimpleItems.md)** collection that contains all of the items in the conversation that reside in the same folder as the selected conversation header.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[ConversationHeader](Outlook.Conversa
 
 ## Return value
 
-A  **SimpleItems** collection of items that belong to the same conversation and reside in the same folder as the conversation header.
+A **SimpleItems** collection of items that belong to the same conversation and reside in the same folder as the conversation header.
 
 
 ## Remarks

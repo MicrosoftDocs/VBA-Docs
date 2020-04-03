@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Broadcast.SessionID property (PowerPoint)
 
-If a broadcast is in progress, returns a  **String** that specifies the ID of the session. Read-only.
+If a broadcast is in progress, returns a **String** that specifies the ID of the session. Read-only.
 
 
 ## Syntax

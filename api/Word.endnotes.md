@@ -21,7 +21,7 @@ Use the  **Endnotes** property to return the **Endnotes** collection. The follow
 ActiveDocument.Endnotes.Location = wdEndOfSection
 ```
 
-Use the  **Add** method to add an endnote to the **Endnotes** collection. The following example adds an endnote immediately after the selection.
+Use the **Add** method to add an endnote to the **Endnotes** collection. The following example adds an endnote immediately after the selection.
 
 
 

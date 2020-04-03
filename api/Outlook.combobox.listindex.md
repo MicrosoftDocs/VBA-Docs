@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ComboBox.ListIndex Property (Outlook Forms Script)
 
-Returns or sets a  **Variant** that represents the currently selected item in a **[ComboBox](Outlook.combobox.md)**. Read/write.
+Returns or sets a **Variant** that represents the currently selected item in a **[ComboBox](Outlook.combobox.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**ListIndex**
 
-_expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a **CmboBox** object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RecentFile.Open method (Word)
 
-Opens the specified object. Returns a  **Document** object representing the opened document.
+Opens the specified object. Returns a **Document** object representing the opened document.
 
 
 ## Syntax

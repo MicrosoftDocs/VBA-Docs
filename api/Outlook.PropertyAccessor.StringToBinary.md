@@ -34,7 +34,7 @@ _expression_ A variable that represents a [PropertyAccessor](Outlook.PropertyAcc
 
 ## Return value
 
-A  **Variant** value that represents an array of bytes returned from the conversion.
+A **Variant** value that represents an array of bytes returned from the conversion.
 
 
 ## Remarks

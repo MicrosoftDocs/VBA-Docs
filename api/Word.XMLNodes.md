@@ -36,11 +36,11 @@ For Each objNode In ActiveDocument.XMLNodes
 Next
 ```
 
-Use the  **Add** method to add an XML element to a selection, a range, or the document. The following example inserts the example element from the SimpleSample schema into the active document at the insertion point or surrounding the active selection.
+Use the **Add** method to add an XML element to a selection, a range, or the document. The following example inserts the example element from the SimpleSample schema into the active document at the insertion point or surrounding the active selection.
 
 
 > [!NOTE] 
-> Because XML is case-sensitive, the XML element as typed in the Name parameter of the  **Add** method must be typed exactly as it appears in the schema referenced in the Namespace parameter.
+> Because XML is case-sensitive, the XML element as typed in the Name parameter of the **Add** method must be typed exactly as it appears in the schema referenced in the Namespace parameter.
 
 
 

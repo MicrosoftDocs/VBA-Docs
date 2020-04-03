@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Range.ConvertToTable method (Word)
 
-Converts text within a range to a table. Returns the table as a  **Table** object.
+Converts text within a range to a table. Returns the table as a **Table** object.
 
 
 ## Syntax

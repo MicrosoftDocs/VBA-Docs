@@ -12,19 +12,19 @@ localization_priority: Normal
 
 # ScrollBar.Min Property (Outlook Forms Script)
 
-Returns or sets a  **Long** that specifies the maximum and minimum acceptable values for the **[Value](Outlook.scrollbar.value.md)** property of a **[ScrollBar](Outlook.scrollbar.md)**. Read/write.
+Returns or sets a **Long** that specifies the maximum and minimum acceptable values for the **[Value](Outlook.scrollbar.value.md)** property of a **[ScrollBar](Outlook.scrollbar.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**Min**
 
-_expression_ A variable that represents a  **ScrollBar** object.
+_expression_ A variable that represents a **ScrollBar** object.
 
 
 ## Remarks
 
-Moving the scroll box in a  **ScrollBar** changes the **Value** property of the control.
+Moving the scroll box in a **ScrollBar** changes the **Value** property of the control.
 
 The value for the  **Min** property corresponds to the highest position of a vertical **ScrollBar** or the leftmost position of a horizontal **ScrollBar**.
 

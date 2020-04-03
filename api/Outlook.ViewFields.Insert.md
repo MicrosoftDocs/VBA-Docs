@@ -35,7 +35,7 @@ _expression_ A variable that represents a [ViewFields](Outlook.ViewFields.md) ob
 
 ## Return value
 
-A  **ViewField** object that represents the new view field.
+A **ViewField** object that represents the new view field.
 
 
 ## See also

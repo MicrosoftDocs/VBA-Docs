@@ -21,7 +21,7 @@ Use the  **Indexes** property to return the **Indexes** collection. The followin
 ActiveDocument.Indexes.Format = wdIndexClassic
 ```
 
-Use the  **Add** method to create an index and add it to the **Indexes** collection. The following example creates an index at the end of the active document.
+Use the **Add** method to create an index and add it to the **Indexes** collection. The following example creates an index at the end of the active document.
 
 
 

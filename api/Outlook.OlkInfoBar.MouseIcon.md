@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkInfoBar.MouseIcon property (Outlook)
 
-Returns or sets a  **StdPicture** that represents a custom picture to the mouse cursor for this control. Read/write.
+Returns or sets a **StdPicture** that represents a custom picture to the mouse cursor for this control. Read/write.
 
 
 ## Syntax

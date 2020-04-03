@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.TaskCompletedDate property (Outlook)
 
-Returns or sets a  **Date** value that represents the completion date of the task for this **[SharingItem](Outlook.SharingItem.md)**. Read/write.
+Returns or sets a **Date** value that represents the completion date of the task for this **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

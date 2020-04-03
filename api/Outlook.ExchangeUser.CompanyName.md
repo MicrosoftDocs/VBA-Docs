@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeUser.CompanyName property (Outlook)
 
-Returns a  **String** representing the name of the company for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
+Returns a **String** representing the name of the company for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 
 
 ## Syntax

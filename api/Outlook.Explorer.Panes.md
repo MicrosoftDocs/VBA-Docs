@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Explorer.Panes property (Outlook)
 
-Returns a  **[Panes](Outlook.Panes.md)** collection object representing the panes displayed by the specified explorer.
+Returns a **[Panes](Outlook.Panes.md)** collection object representing the panes displayed by the specified explorer.
 
 
 ## Syntax

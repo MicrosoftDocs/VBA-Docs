@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Exception.Deleted property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the **[AppointmentItem](Outlook.AppointmentItem.md)** was deleted from the recurring pattern. Read-only
+Returns a **Boolean** value that indicates whether the **[AppointmentItem](Outlook.AppointmentItem.md)** was deleted from the recurring pattern. Read-only
 
 
 ## Syntax

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # SplitParts.Add method (Project)
 
-Adds a  **SplitPart** object to a **SplitParts** collection.
+Adds a **SplitPart** object to a **SplitParts** collection.
 
 
 ## Syntax

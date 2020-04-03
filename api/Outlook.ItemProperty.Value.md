@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ItemProperty.Value property (Outlook)
 
-Returns or sets a  **Variant** indicating the value for the specified custom or explicit built-in property. Read/write.
+Returns or sets a **Variant** indicating the value for the specified custom or explicit built-in property. Read/write.
 
 
 ## Syntax

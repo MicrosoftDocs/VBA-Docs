@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Conversation.GetChildren method (Outlook)
 
-Returns a  **[SimpleItems](Outlook.SimpleItems.md)** collection that contains all items under the specified conversation node.
+Returns a **[SimpleItems](Outlook.SimpleItems.md)** collection that contains all items under the specified conversation node.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a '[Conversation](Outlook.Conversation.m
 
 ## Return value
 
-A  **SimpleItems** collection that represents the set of child items in the conversation under the node specified by the _Item_ parameter.
+A **SimpleItems** collection that represents the set of child items in the conversation under the node specified by the _Item_ parameter.
 
 
 ## Remarks

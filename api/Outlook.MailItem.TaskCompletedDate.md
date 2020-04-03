@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.TaskCompletedDate property (Outlook)
 
-Returns or sets a  **Date** value that represents the completion date of the task for this **[MailItem](Outlook.MailItem.md)**. Read/write.
+Returns or sets a **Date** value that represents the completion date of the task for this **[MailItem](Outlook.MailItem.md)**. Read/write.
 
 
 ## Syntax

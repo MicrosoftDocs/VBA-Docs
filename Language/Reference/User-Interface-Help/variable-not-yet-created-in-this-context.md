@@ -16,7 +16,7 @@ A [variable](../../Glossary/vbe-glossary.md#variable) has to be created before i
 
 
 
-- You tried to display the value of a local variable that you just entered in your code before executing at least a  **Single Step** command in [break mode](../../Glossary/vbe-glossary.md#break-mode).
+- You tried to display the value of a local variable that you just entered in your code before executing at least a **Single Step** command in [break mode](../../Glossary/vbe-glossary.md#break-mode).
     
     Step into the code to force compilation of the new statement.
     

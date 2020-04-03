@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AddressEntry.Type property (Outlook)
 
-Returns or sets a  **String** representing the type of entry for this address such as an Internet Address, MacMail Address, or Microsoft Mail Address. Read/write.
+Returns or sets a **String** representing the type of entry for this address such as an Internet Address, MacMail Address, or Microsoft Mail Address. Read/write.
 
 
 ## Syntax

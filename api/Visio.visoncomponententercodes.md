@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # VisOnComponentEnterCodes enumeration (Visio)
 
-Flags to pass to the  **Application.OnComponentEnterState** method.
+Flags to pass to the **Application.OnComponentEnterState** method.
 
 
 

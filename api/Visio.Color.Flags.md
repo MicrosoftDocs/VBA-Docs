@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Color.Flags property (Visio)
 
-Gets or sets the flags that specify how you use a  **Color** object. Read/write.
+Gets or sets the flags that specify how you use a **Color** object. Read/write.
 
 
 ## Syntax

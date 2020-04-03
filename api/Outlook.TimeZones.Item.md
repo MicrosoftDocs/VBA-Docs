@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimeZones.Item method (Outlook)
 
-Returns a  **[TimeZone](Outlook.TimeZone.md)** object from the collection.
+Returns a **[TimeZone](Outlook.TimeZone.md)** object from the collection.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [TimeZones](Outlook.TimeZones.md) obje
 
 ## Return value
 
-A  **TimeZone** object that represents the specified object in the collection.
+A **TimeZone** object that represents the specified object in the collection.
 
 
 ## See also

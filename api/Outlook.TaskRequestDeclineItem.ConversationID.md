@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskRequestDeclineItem.ConversationID property (Outlook)
 
-Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object that the **[TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md)** object belongs to. Read-only.
+Returns a **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object that the **[TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md)** object belongs to. Read-only.
 
 
 ## Syntax

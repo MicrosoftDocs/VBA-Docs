@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.FileDialog property (Word)
 
-Returns a  **FileDialog** object which represents a single instance of a file dialog box.
+Returns a **FileDialog** object which represents a single instance of a file dialog box.
 
 
 ## Syntax

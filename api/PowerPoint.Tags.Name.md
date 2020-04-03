@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Tags.Name method (PowerPoint)
 
-Returns the name of the specified tag as a  **String**.
+Returns the name of the specified tag as a **String**.
 
 
 ## Syntax

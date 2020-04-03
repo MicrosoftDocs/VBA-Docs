@@ -5,21 +5,20 @@ f1_keywords:
 - olfm10.chm2001750
 ms.prod: outlook
 ms.assetid: 3238c848-3279-9a3b-a576-136d9f1ddf28
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # ScrollBar.ProportionalThumb Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether the size of the scroll box is proportional to the scrolling region or fixed. Read/write.
-
+Returns or sets a **Boolean** that specifies whether the size of the scroll box is proportional to the scrolling region or fixed. Read/write.
 
 ## Syntax
 
 _expression_.**ProportionalThumb**
 
-_expression_ A variable that represents a  **ScrollBar** object.
+_expression_ A variable that represents a **ScrollBar** object.
 
 
 ## Remarks

@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Pages](Outlook.Pages.md) object.
 
 ## Return value
 
-A  **[Page](Outlook.page.md)** object that represents the new page.
+A **[Page](Outlook.page.md)** object that represents the new page.
 
 
 ## Remarks

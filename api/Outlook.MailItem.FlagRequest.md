@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.FlagRequest property (Outlook)
 
-Returns or sets a  **String** that indicates the requested action for a mail item. Read/write.
+Returns or sets a **String** that indicates the requested action for a mail item. Read/write.
 
 
 ## Syntax

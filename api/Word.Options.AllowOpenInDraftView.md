@@ -26,7 +26,7 @@ _expression_. `AllowOpenInDraftView`
 
 ## Remarks
 
-This property corresponds to the  **Allow opening a document in draft view** check box in the **Word Options** dialog box.
+This property corresponds to the **Allow opening a document in draft view** check box in the **Word Options** dialog box.
 
 
 ## See also

@@ -16,7 +16,7 @@ Returns or sets an  **Integer** that specifies the lthe darkness of the type. Re
 
 _expression_.**Weight**
 
-_expression_ A variable that represents a  **Font** object.
+_expression_ A variable that represents a **Fnt** object.
 
 
 ## Remarks

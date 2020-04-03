@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Cell.Formula property (Visio)
 
-Gets or sets the formula for a  **Cell** object. Read/write.
+Gets or sets the formula for a **Cell** object. Read/write.
 
 
 ## Syntax

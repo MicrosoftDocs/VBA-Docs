@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTimeControl.Time property (Outlook)
 
-Returns or sets a  **Date** that represents the time value currently selected in the control. Read/write.
+Returns or sets a **Date** that represents the time value currently selected in the control. Read/write.
 
 
 ## Syntax

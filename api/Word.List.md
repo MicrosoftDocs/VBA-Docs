@@ -28,7 +28,7 @@ mycount = ActiveDocument.Lists(1).CountNumberedItems
 
 To return all the paragraphs that have list formatting, use the  **ListParagraphs** property. To return them as a range, use the **Range** property.
 
-To apply a different list format to an existing list, use the  **ApplyListTemplate** method with the **List** object. To add a new list to a document, use the **ApplyListTemplate** method with the **[ListFormat](Word.ListFormat.md)** object for a specified range.
+To apply a different list format to an existing list, use the **ApplyListTemplate** method with the **List** object. To add a new list to a document, use the **ApplyListTemplate** method with the **[ListFormat](Word.ListFormat.md)** object for a specified range.
 
 Use the  **CanContinuePreviousList** method to determine whether you can continue the list formatting from a list that was previously applied to the document.
 

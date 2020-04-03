@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskRequestAcceptItem.GetAssociatedTask method (Outlook)
 
-Returns a  **[TaskItem](Outlook.TaskItem.md)** object that represents the requested task.
+Returns a **[TaskItem](Outlook.TaskItem.md)** object that represents the requested task.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRe
 
 ## Return value
 
-A  **TaskItem** object that represents the requested task.
+A **TaskItem** object that represents the requested task.
 
 
 ## Remarks

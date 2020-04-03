@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.TaskSubject property (Outlook)
 
-Returns or sets a  **String** value that represents the subject of the task for the **[ContactItem](Outlook.ContactItem.md)** object. Read/write.
+Returns or sets a **String** value that represents the subject of the task for the **[ContactItem](Outlook.ContactItem.md)** object. Read/write.
 
 
 ## Syntax

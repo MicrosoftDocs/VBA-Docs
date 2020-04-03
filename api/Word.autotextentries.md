@@ -14,7 +14,7 @@ A collection of  **[AutoCorrectEntry](Word.AutoCorrectEntry.md)** objects that r
 
 ## Remarks
 
-Use the  **AutoTextEntries** property to return the **AutoTextEntries** collection. The following example determines whether an **[AutoTextEntry](Word.AutoTextEntry.md)** object named "test" is in the **AutoTextEntries** collection.
+Use the **AutoTextEntries** property to return the **AutoTextEntries** collection. The following example determines whether an **[AutoTextEntry](Word.AutoTextEntry.md)** object named "test" is in the **AutoTextEntries** collection.
 
 
 ```vb

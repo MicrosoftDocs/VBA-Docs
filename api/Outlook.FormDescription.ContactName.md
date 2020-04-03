@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormDescription.ContactName property (Outlook)
 
-Returns or sets a  **String** representing the name of the person to contact for information regarding the custom form for this **[FormDescription](Outlook.FormDescription.md)** object. Read/write.
+Returns or sets a **String** representing the name of the person to contact for information regarding the custom form for this **[FormDescription](Outlook.FormDescription.md)** object. Read/write.
 
 
 ## Syntax

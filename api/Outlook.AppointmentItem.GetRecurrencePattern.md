@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.GetRecurrencePattern method (Outlook)
 
-Returns a  **[RecurrencePattern](Outlook.RecurrencePattern.md)** object that represents the recurrence attributes of an appointment.
+Returns a **[RecurrencePattern](Outlook.RecurrencePattern.md)** object that represents the recurrence attributes of an appointment.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 ## Return value
 
-A  **RecurrencePattern** object that represents the recurrence attributes of an appointment.
+A **RecurrencePattern** object that represents the recurrence attributes of an appointment.
 
 
 ## Remarks

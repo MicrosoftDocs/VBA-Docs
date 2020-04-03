@@ -31,7 +31,7 @@ MsoTriState
 
 ## Remarks
 
-The value of the  **AnimateTextInReverse Property** property can be one of these **MsoTriState** constants.
+The value of the **AimateTextInReverse Property** property can be one of these **MsoTriState** constants.
 
 
 
@@ -40,7 +40,7 @@ The value of the  **AnimateTextInReverse Property** property can be one of these
 |**msoFalse**| The specified shape is not built in reverse order.|
 |**msoTrue**| The specified shape is built in reverse order.|
 
-You do not see the effects of setting this property unless the specified shape gets animated. For a shape to be animated, the  **TextLevelEffect** property of the **AnimationSettings** object for the shape must be set to something other than **ppAnimateLevelNone** and the **[Animate](PowerPoint.AnimationSettings.Animate.md)** property must be set to **True**.
+You do not see the effects of setting this property unless the specified shape gets animated. For a shape to be animated, the **TextLevelEffect** property of the **AnimationSettings** object for the shape must be set to something other than **ppAnimateLevelNone** and the **[Animate](PowerPoint.AnimationSettings.Animate.md)** property must be set to **True**.
 
 
 ## Example

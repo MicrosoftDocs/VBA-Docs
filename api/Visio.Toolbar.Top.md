@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Toolbar.Top property (Visio)
 
-Gets the distance between the top of an object and the top of the docking area or the top of the screen if the object isn't docked; it sets the distance between the top of a  **Toolbar** object and the top of the screen. Read/write.
+Gets the distance between the top of an object and the top of the docking area or the top of the screen if the object isn't docked; it sets the distance between the top of a **Toolbar** object and the top of the screen. Read/write.
 
 
 ## Syntax

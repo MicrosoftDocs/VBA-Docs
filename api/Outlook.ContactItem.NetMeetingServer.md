@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.NetMeetingServer property (Outlook)
 
-Returns or sets a  **String** specifying the name of the Microsoft NetMeeting server being used for an online meeting. Read/write.
+Returns or sets a **String** specifying the name of the Microsoft NetMeeting server being used for an online meeting. Read/write.
 
 
 ## Syntax

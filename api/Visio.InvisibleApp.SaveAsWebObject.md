@@ -40,7 +40,7 @@ To be able to work with the Save as Web Page API, you must get a reference to th
     
 2. On the  **Tools** menu, click **References**.
     
-3. In the  **Available References** list, select **Microsoft Visio 14.0 Save As Web Type Library** and click **OK**.
+3. In the **Available References** list, select **Microsoft Visio 14.0 Save As Web Type Library** and click **OK**.
     
 
 ## Example

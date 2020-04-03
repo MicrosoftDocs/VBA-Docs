@@ -16,7 +16,7 @@ Returns or sets an  **Integer** that specifies the percentage to increase or dec
 
 _expression_.**Zoom**
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **Page** object.
 
 
 ## Remarks

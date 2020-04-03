@@ -26,7 +26,7 @@ Use  **Rows** (Index), where Index is the index number, to return a single **Row
 ActiveDocument.Tables(1).Rows(1).Delete
 ```
 
-Use the  **Add** method to add a row to a table. The following example inserts a row before the first row in the selection.
+Use the **Add** method to add a row to a table. The following example inserts a row before the first row in the selection.
 
 
 

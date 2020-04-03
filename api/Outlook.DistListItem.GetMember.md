@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DistListItem.GetMember method (Outlook)
 
-Returns a  **[Recipient](Outlook.Recipient.md)** object representing a member in a distribution list.
+Returns a **[Recipient](Outlook.Recipient.md)** object representing a member in a distribution list.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md
 
 ## Return value
 
-A  **Recipient** object representing the specified member.
+A **Recipient** object representing the specified member.
 
 
 ## Example

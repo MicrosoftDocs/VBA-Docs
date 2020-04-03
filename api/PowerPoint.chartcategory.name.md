@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # ChartCategory.Name property (PowerPoint)
 
-Returns or sets a  **String** that represents the name of a chart category. Read/write.
+Returns or sets a **String** that represents the name of a chart category. Read/write.
 
 
 ## Syntax

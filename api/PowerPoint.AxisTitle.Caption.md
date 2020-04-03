@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AxisTitle.Caption property (PowerPoint)
 
-Returns or sets a  **String** value that represents the axis title text.
+Returns or sets a **String** value that represents the axis title text.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NotesModule.Name property (Outlook)
 
-Returns a  **String** value that represents the localized display name for the **[NotesModule](Outlook.NotesModule.md)** object. Read-only.
+Returns a **String** value that represents the localized display name for the **[NotesModule](Outlook.NotesModule.md)** object. Read-only.
 
 
 ## Syntax

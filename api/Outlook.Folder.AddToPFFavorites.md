@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example adds the public folder GroupDiscussion to the user's Favorites folder by using the  **AddToPFFavorites** method. To run this example, you need to replace 'GroupDiscussion' with a valid public folder name.
+The following Visual Basic for Applications (VBA) example adds the public folder GroupDiscussion to the user's Favorites folder by using the **AdToPFFavorites** method. To run this example, you need to replace 'GroupDiscussion' with a valid public folder name.
 
 
 ```vb

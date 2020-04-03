@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.RemotePath property (Outlook)
 
-Returns a  **String** that represents the path of the sharing context for a **[SharingItem](Outlook.SharingItem.md)** object. Read-only.
+Returns a **String** that represents the path of the sharing context for a **[SharingItem](Outlook.SharingItem.md)** object. Read-only.
 
 
 ## Syntax

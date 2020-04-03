@@ -26,7 +26,7 @@ Use  **Paragraphs** (Index), where Index is the index number, to return a single
 ActiveDocument.Paragraphs(1).Alignment = wdAlignParagraphRight
 ```
 
-Use the  **Add**, **InsertParagraph**, **InsertParagraphAfter**, or **InsertParagraphBefore** method to add a new, blank paragraph to a document. The following example adds a paragraph mark before the first paragraph in the selection.
+Use the **Add**, **InsertParagraph**, **InsertParagraphAfter**, or **InsertParagraphBefore** method to add a new, blank paragraph to a document. The following example adds a paragraph mark before the first paragraph in the selection.
 
 
 

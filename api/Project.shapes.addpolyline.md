@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shapes.AddPolyline method (Project)
-Creates an open polyline or a closed polygon drawing, and returns a  **Shape** object that represents the new polyline or polygon.
+Creates an open polyline or a closed polygon drawing, and returns a **Shape** object that represents the new polyline or polygon.
 
 ## Syntax
 

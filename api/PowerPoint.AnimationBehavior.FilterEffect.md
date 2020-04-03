@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AnimationBehavior.FilterEffect property (PowerPoint)
 
-Returns a  **FilterEffect** object that represents a filter effect for an animation behavior. Read-only.
+Returns a **FilterEffect** object that represents a filter effect for an animation behavior. Read-only.
 
 
 ## Syntax

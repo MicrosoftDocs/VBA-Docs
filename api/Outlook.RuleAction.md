@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleAction object (Outlook)
 
-Represents an action that is run when a  **[Rule](Outlook.Rule.md)** object executes.
+Represents an action that is run when a **[Rule](Outlook.Rule.md)** object executes.
 
 
 ## Remarks

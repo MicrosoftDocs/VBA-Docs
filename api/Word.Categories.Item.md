@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Categories.Item method (Word)
 
-Returns a  **Category** object that represents the specified item in the collection.
+Returns a **Category** object that represents the specified item in the collection.
 
 
 ## Syntax

@@ -27,7 +27,7 @@ Sub RoundToZero1()
 End Sub
 ```
 
-Another easy way to loop through a range is to use a  **For Each...Next** loop with the collection of cells specified in the **Range** property. Visual Basic automatically sets an object variable for the next cell each time the loop runs. The following procedure loops through the range A1:D10, setting to 0 (zero) any number whose absolute value is less than 0.01.
+Another easy way to loop through a range is to use a **Fr Each...Next** loop with the collection of cells specified in the **Range** property. Visual Basic automatically sets an object variable for the next cell each time the loop runs. The following procedure loops through the range A1:D10, setting to 0 (zero) any number whose absolute value is less than 0.01.
 
 
 

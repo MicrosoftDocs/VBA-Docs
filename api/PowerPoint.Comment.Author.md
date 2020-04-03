@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Comment.Author property (PowerPoint)
 
-Returns a  **String** that represents the author as for a specified **[Comment](PowerPoint.Comment.md)** object. Read-only.
+Returns a **String** that represents the author as for a specified **[Comment](PowerPoint.Comment.md)** object. Read-only.
 
 
 ## Syntax

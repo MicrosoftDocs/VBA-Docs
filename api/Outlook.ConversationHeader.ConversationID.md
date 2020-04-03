@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ConversationHeader.ConversationID property (Outlook)
 
-Returns a  **String** that uniquely identifies the **[Conversation](Outlook.Conversation.md)** object to which this conversation header belongs. Read-only.
+Returns a **String** that uniquely identifies the **[Conversation](Outlook.Conversation.md)** object to which this conversation header belongs. Read-only.
 
 
 ## Syntax

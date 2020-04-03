@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Calendar.Index property (Project)
 
-Gets the index of a  **Calendar** object in the containing **Calendars** collection. Read-only **Long**.
+Gets the index of a **Calendar** object in the containing **Calendars** collection. Read-only **Long**.
 
 
 ## Syntax

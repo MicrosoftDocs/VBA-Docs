@@ -24,7 +24,7 @@ Use the  **Variables** property to return the **Variables** collection. The foll
 MsgBox Documents("Sales.doc").Variables.Count & " variables"
 ```
 
-Use the  **Add** method to add a variable to a document. The following example adds a document variable named "Temp" with a value of 12 to the active document.
+Use the **Add** method to add a variable to a document. The following example adds a document variable named "Temp" with a value of 12 to the active document.
 
 
 

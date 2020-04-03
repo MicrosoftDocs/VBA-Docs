@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.BillingInformation property (Outlook)
 
-Returns or sets a  **String** representing the billing information associated with the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
+Returns or sets a **String** representing the billing information associated with the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

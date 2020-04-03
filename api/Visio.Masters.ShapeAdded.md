@@ -34,11 +34,11 @@ _expression_ A variable that represents a **[Masters](Visio.Masters.md)** object
 
 ## Remarks
 
-A  **Shape** object can serve as the source object for the **ShapeAdded** event if the shape's **Type** property is **visTypeGroup** (2) or **visTypePage** (1).
+A **Shape** object can serve as the source object for the **ShapeAdded** event if the shape's **Type** property is **visTypeGroup** (2) or **visTypePage** (1).
 
 The  **SelectionAdded** and **ShapeAdded** events are similar in that they both fire after shape(s) are created. They differ in how they behave when a single operation adds several shapes. Suppose a **Paste** operation creates three new shapes. The **ShapeAdded** event fires three times and acts on each of the three objects. The **SelectionAdded** event fires once, and it acts on a **Selection** object in which the three new shapes are selected.
 
-To determine if a  **ShapeAdded** event was triggered by a new shape or group of shapes being added to the page, by a set of existing shapes being grouped, or by a paste action, you can use the **Application.IsInScope** property. If **IsInScope** returns **True** when passed **visCmdObjectGroup**, the **ShapeAdded** event was triggered by a grouping action. If **IsInScope** returns **True** when passed **visCmdUFEditPaste** or **visCmdEditPasteSpecial**, the **ShapeAdded** event was triggered by a paste operation. If **IsInScope** returns **False** when passed all of these arguments, the event must have been triggered by new shapes being added to the page.
+To determine if a **ShapeAdded** event was triggered by a new shape or group of shapes being added to the page, by a set of existing shapes being grouped, or by a paste action, you can use the **Application.IsInScope** property. If **IsInScope** returns **True** when passed **visCmdObjectGroup**, the **ShapeAdded** event was triggered by a grouping action. If **IsInScope** returns **True** when passed **visCmdUFEditPaste** or **visCmdEditPasteSpecial**, the **ShapeAdded** event was triggered by a paste operation. If **IsInScope** returns **False** when passed all of these arguments, the event must have been triggered by new shapes being added to the page.
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 

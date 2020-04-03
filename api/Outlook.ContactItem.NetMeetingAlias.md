@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.NetMeetingAlias property (Outlook)
 
-Returns or sets a  **String** indicating the user's Microsoft NetMeeting ID, or alias. Read/write.
+Returns or sets a **String** indicating the user's Microsoft NetMeeting ID, or alias. Read/write.
 
 
 ## Syntax

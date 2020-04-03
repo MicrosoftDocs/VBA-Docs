@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # CheckBox.Enabled Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether a control can receive the focus and respond to user-generated events. Read/write.
+Returns or sets a **Boolean** that specifies whether a control can receive the focus and respond to user-generated events. Read/write.
 
 
 ## Syntax
 
 _expression_.**Enabled**
 
-_expression_ A variable that represents a  **CheckBox** object.
+_expression_ A variable that represents a **CheckBox** object.
 
 
 ## Remarks

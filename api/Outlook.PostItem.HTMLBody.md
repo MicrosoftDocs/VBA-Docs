@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PostItem.HTMLBody property (Outlook)
 
-Returns or sets a  **String** representing the HTML body of the specified item. Read/write.
+Returns or sets a **String** representing the HTML body of the specified item. Read/write.
 
 
 ## Syntax

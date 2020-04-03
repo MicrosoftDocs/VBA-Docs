@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.SelectedText property (Visio)
 
-Returns the selected text in the Microsoft Visio drawing window as a  **Characters** object. Read/write.
+Returns the selected text in the Microsoft Visio drawing window as a **Characters** object. Read/write.
 
 
 ## Syntax

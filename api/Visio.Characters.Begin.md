@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Characters.Begin property (Visio)
 
-Gets or sets the beginning index of a  **Characters** object, which represents a range of text in a shape. Read/write.
+Gets or sets the beginning index of a **Caracters** object, which represents a range of text in a shape. Read/write.
 
 
 ## Syntax

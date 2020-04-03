@@ -35,7 +35,7 @@ _expression_ Required. A variable that represents an '[AutoCorrectEntries](Word.
 
 ## Remarks
 
-Use the  **AddRichText** method to create a formatted AutoCorrect entry.
+Use the **AddRichText** method to create a formatted AutoCorrect entry.
 
 
 ## Example

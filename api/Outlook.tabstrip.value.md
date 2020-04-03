@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # TabStrip.Value Property (Outlook Forms Script)
 
-Returns or sets a  **Variant** that indicates the currently active tab. Read/write.
+Returns or sets a **Variant** that indicates the currently active tab. Read/write.
 
 
 ## Syntax
 
 _expression_.**Value**
 
-_expression_ A variable that represents a  **TabStrip** object.
+_expression_ A variable that represents a **TabStrip** object.
 
 
 ## Remarks

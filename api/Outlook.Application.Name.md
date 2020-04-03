@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Name property (Outlook)
 
-Returns a  **String** value that represents the display name for the object. Read-only.
+Returns a **String** value that represents the display name for the object. Read-only.
 
 
 ## Syntax

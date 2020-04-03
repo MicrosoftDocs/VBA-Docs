@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.HomeAddressPostOfficeBox property (Outlook)
 
-Returns or sets a  **String** the post office box number portion of the home address for the contact. Read/write.
+Returns or sets a **String** the post office box number portion of the home address for the contact. Read/write.
 
 
 ## Syntax

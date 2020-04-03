@@ -54,9 +54,9 @@ For the  _PlacementDirs()_ parameter, pass an array of values from the **VisAuto
 |visAutoConnectDirRight|4|Connect to the right|
 |visAutoConnectDirUp|1|Connect up.|
 
-Calling the  **AutoConnectMany** method is equivalent to calling the **[Shape.AutoConnect](Visio.Shape.AutoConnect.md)** method multiple times.
+Calling the **AutoConnectMany** method is equivalent to calling the **[Shape.AutoConnect](Visio.Shape.AutoConnect.md)** method multiple times.
 
-You can include the same shape multiple times in each array you pass as a parameter. You cannot use the  **AutoConnectMany** method to connect a shape to itself.
+You can include the same shape multiple times in each array you pass as a parameter. You cannot use the **AutoConnectMany** method to connect a shape to itself.
 
 If a particular  **AutoConnectMany** operation fails or is invalid, Microsoft Visio skips it and processes the next item in each of the parameter arrays. **AutoConnectMany** returns the total number of items successfully processed.
 

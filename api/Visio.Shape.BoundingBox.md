@@ -43,9 +43,9 @@ Nothing
 
 ## Remarks
 
-For a  **Shape** object, the **BoundingBox** method returns a rectangle that tightly encloses the shape and its subshapes.
+For a **Shape** object, the **BoundingBox** method returns a rectangle that tightly encloses the shape and its subshapes.
 
-For a  **Page**, **Master**, or **Selection** object, the **BoundingBox** method returns a rectangle that tightly encloses the page's, master's, or selection's shapes and their subshapes.
+For a **Page**, **Master**, or **Selection** object, the **BoundingBox** method returns a rectangle that tightly encloses the page's, master's, or selection's shapes and their subshapes.
 
 If the  **BoundingBox** method returns an error, or if it is asked to return the rectangle enclosing zero shapes, the rectangle returned is { left: 0, bottom: 0, right: -1, top: -1 }; otherwise, the rectangle returned has left less than or equal to (<=) right, and bottom less than or equal to (<=) top. The numbers returned are in internal units (inches).
 

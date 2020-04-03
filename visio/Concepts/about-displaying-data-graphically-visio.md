@@ -38,7 +38,7 @@ After you  [link shapes in your Visio drawing to rows in a data recordset](about
 
 ## Overview of Data Graphics and Graphic Items
 
-To make it easier to display data graphically, Visio introduces the concept of data graphics and a type of  **[Master](../../api/Visio.Master.md)** object called a _data graphic master_, which is represented in the  **[VisMasterTypes](../../api/Visio.vismastertypes.md)** enumeration by the value **visTypeDataGraphic**. To add a  **Master** object of type **visTypeDataGraphic** to the **Masters** collection, you must use the **[Masters.AddEx](../../api/Visio.Masters.AddEx.md)** method.
+To make it easier to display data graphically, Visio introduces the concept of data graphics and a type of  **[Master](../../api/Visio.Master.md)** object called a _data graphic master_, which is represented in the  **[VisMasterTypes](../../api/Visio.vismastertypes.md)** enumeration by the value **visTypeDataGraphic**. To add a **Master** object of type **visTypeDataGraphic** to the **Masters** collection, you must use the **[Masters.AddEx](../../api/Visio.Masters.AddEx.md)** method.
 
 Visio includes several types of masters, including shape masters. When you create an instance of a shape master, it becomes a shape. Visio also includes fill pattern, line pattern, and line-end masters, for which you cannot create instances. You apply these masters to shapes to impart the master pattern to the shape. Data graphic masters are more like pattern masters, because you do not create instances of them. Instead, you apply them to shapes as you do line pattern and fill pattern masters.
 

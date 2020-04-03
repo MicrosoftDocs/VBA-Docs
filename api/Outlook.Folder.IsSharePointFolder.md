@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folder.IsSharePointFolder property (Outlook)
 
-Returns a  **Boolean** that determines if the folder is a Microsoft SharePoint Foundation folder. Read-only.
+Returns a **Boolean** that determines if the folder is a Microsoft SharePoint Foundation folder. Read-only.
 
 
 ## Syntax

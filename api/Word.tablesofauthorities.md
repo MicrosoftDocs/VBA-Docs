@@ -24,7 +24,7 @@ Use the  **TablesOfAuthorities** property to return the **TablesOfAuthorities** 
 ActiveDocument.TablesOfAuthorities.Format = wdTOAClassic
 ```
 
-Use the  **Add** method to add a table of authorities to a document. A table of authorities is built from TA (Table of Authorities Entry) fields in a document. The following example adds a table of authorities that includes all categories at the beginning of the active document.
+Use the **Add** method to add a table of authorities to a document. A table of authorities is built from TA (Table of Authorities Entry) fields in a document. The following example adds a table of authorities that includes all categories at the beginning of the active document.
 
 
 

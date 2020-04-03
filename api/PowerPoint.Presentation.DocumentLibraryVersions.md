@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Presentation.DocumentLibraryVersions property (PowerPoint)
 
-Returns a  **DocumentLibraryVersions** collection that represents the collection of versions of a shared presentation that has versioning enabled and that is stored in a document library on a server.
+Returns a **DocumentLibraryVersions** collection that represents the collection of versions of a shared presentation that has versioning enabled and that is stored in a document library on a server.
 
 
 ## Syntax
