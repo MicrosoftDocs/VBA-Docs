@@ -26,9 +26,9 @@ Use the  **ListFormat** property to return the **ListFormat** object for a range
 Selection.Range.ListFormat.ApplyBulletDefault
 ```
 
-An easy way to apply list formatting is to use the **ApplyBulletDefault**, **ApplyNumberDefault**, and **ApplyOutlineNumberDefault** methods, which correspond, respectively, to the first list format (excluding **None**) on each tab in the  **Bullets and Numbering** dialog box.
+An easy way to apply list formatting is to use the  **ApplyBulletDefault**, **ApplyNumberDefault**, and **ApplyOutlineNumberDefault** methods, which correspond, respectively, to the first list format (excluding **None**) on each tab in the  **Bullets and Numbering** dialog box.
 
-To apply a format other than the default format, use the **ApplyListTemplate** method, which allows you to specify the list format (list template) you want to apply.
+To apply a format other than the default format, use the  **ApplyListTemplate** method, which allows you to specify the list format (list template) you want to apply.
 
 Use the  **List** or **ListTemplate** property to return the list or list template from the first paragraph in the specified range.
 

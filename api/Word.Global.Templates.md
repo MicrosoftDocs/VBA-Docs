@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Global.Templates property (Word)
 
-Returns a **Templates** collection that represents all the available templates—global templates and those attached to open documents.
+Returns a  **Templates** collection that represents all the available templates—global templates and those attached to open documents.
 
 
 ## Syntax

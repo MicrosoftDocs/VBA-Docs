@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DrawingControl.Src property (Visio)
 
-The full path, including file name, of the Microsoft Visio file used to initialize a **DrawingControl** object. Read/write.
+The full path, including file name, of the Microsoft Visio file used to initialize a  **DrawingControl** object. Read/write.
 
 
 ## Syntax

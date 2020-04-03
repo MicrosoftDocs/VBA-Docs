@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Connect.Index property (Visio)
 
-Gets the ordinal position of a **Connect** object in the **Connects** collection. Read-only.
+Gets the ordinal position of a  **Connect** object in the **Connects** collection. Read-only.
 
 
 ## Syntax

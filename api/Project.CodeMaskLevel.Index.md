@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CodeMaskLevel.Index property (Project)
 
-Gets the index of a **CodeMaskLevel** object in the containing **CodeMask** collection. Read-only **Long**.
+Gets the index of a  **CodeMaskLevel** object in the containing **CodeMask** collection. Read-only **Long**.
 
 
 ## Syntax

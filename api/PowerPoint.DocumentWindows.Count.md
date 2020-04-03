@@ -31,7 +31,7 @@ Long
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this property maps to the following types:
 
 
-- **Microsoft.Office.Interop.PowerPoint.DocumentWindows.Count**
+-  **Microsoft.Office.Interop.PowerPoint.DocumentWindows.Count**
     
 
 ## Example

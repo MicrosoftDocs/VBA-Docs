@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.BaselineClear method (Project)
 
-Clears the baseline data from the baseline fields or clears the data from a **Start _n_** / **Finish _n_** pair of dates.
+Clears the baseline data from the baseline fields or clears the data from a  **Start _n_** / **Finish _n_** pair of dates.
 
 
 ## Syntax

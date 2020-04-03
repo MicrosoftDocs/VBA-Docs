@@ -43,7 +43,7 @@ Shape
 
 ## Remarks
 
-If more than one placeholder of a specified type has been deleted from the slide, the **AdPlaceholder** method will add them back to the slide, one by one, starting with the placeholder that has the lowest original index number.
+If more than one placeholder of a specified type has been deleted from the slide, the  **AddPlaceholder** method will add them back to the slide, one by one, starting with the placeholder that has the lowest original index number.
 
 
 ## Example

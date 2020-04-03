@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Reminder.NextReminderDate property (Outlook)
 
-Returns a **Date** that indicates the next time the specified reminder will occur. Read-only.
+Returns a  **Date** that indicates the next time the specified reminder will occur. Read-only.
 
 
 ## Syntax

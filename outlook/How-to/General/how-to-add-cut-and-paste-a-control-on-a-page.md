@@ -20,7 +20,7 @@ To use this example, copy this sample code to the Script Editor of a form. To ru
 
 - Three  **[CommandButton](../../../api/Outlook.commandbutton.md)** controls named CommandButton1 through CommandButton3.
 
-- A **MultiPage** named MultiPage1.
+- A  **MultiPage** named MultiPage1.
 
 ```vb
 Dim CommandButton1 

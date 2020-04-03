@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Event.GetFilterCommands method (Visio)
 
-Returns an array of command ranges and a **True** or **False** value indicating how to filter events for that command range.
+Returns an array of command ranges and a  **True** or **False** value indicating how to filter events for that command range.
 
 
 ## Syntax
@@ -44,7 +44,7 @@ The number of elements in the array is a multiple of 3, as follows:
     
 - The second element contains the end command ID of the range (any member of  **VisUICmds**).
     
-- The third element contains a **True** or **False** value, which indicates whether you are listening to events for that command range (**True** to listen to events; **False** to exclude events).
+- The third element contains a  **True** or **False** value, which indicates whether you are listening to events for that command range (**True** to listen to events; **False** to exclude events).
     
 
 

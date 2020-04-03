@@ -48,7 +48,7 @@ The  _filterActionStream_ parameter is an array defined in the following way. Th
     
 - The second element contains the end mouse action (**MouseMove** event extension) of the range (any member of **VisFilterActions** whose value is higher than that of the first element ).
     
-- The third element contains a **True** or **False** value indicating whether you want to listen to events for that action range (**True** to listen to events of a certain sub-type, or **MouseMove** event extension; **False** to exclude an event sub-type).
+- The third element contains a  **True** or **False** value indicating whether you want to listen to events for that action range (**True** to listen to events of a certain sub-type, or **MouseMove** event extension; **False** to exclude an event sub-type).
     
 The filter actions that you can place in the first and second array elements of each element triplet are defined in the  **VisFilterActions** enumeration, which is declared in the Visio type library, and shown in the following table.
 

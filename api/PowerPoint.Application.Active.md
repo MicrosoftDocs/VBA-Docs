@@ -31,7 +31,7 @@ MsoTriState
 
 ## Remarks
 
-The value returned by the **Ative** property can be one of these **MsoTriState** constants.
+The value returned by the  **Active** property can be one of these **MsoTriState** constants.
 
 
 

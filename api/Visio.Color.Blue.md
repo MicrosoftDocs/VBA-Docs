@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Color.Blue property (Visio)
 
-Gets or sets the intensity of the blue component of a **Color** object. Read/write.
+Gets or sets the intensity of the blue component of a  **Color** object. Read/write.
 
 
 ## Syntax

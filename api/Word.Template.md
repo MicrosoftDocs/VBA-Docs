@@ -42,11 +42,11 @@ The  **Add** method is not available for the **Templates** collection. Instead, 
 
 - Using the  **Open** method with the **Documents** collection to open a document based on a template or a template
     
-- Using the **Add** method with the **Documents** collection to open a new document based on a template
+- Using the  **Add** method with the **Documents** collection to open a new document based on a template
     
-- Using the **Add** method with the **Addins** collection to load a global template
+- Using the  **Add** method with the **Addins** collection to load a global template
     
-- Using the **AttachedTemplate** property with the **Document** object to attach a template to a document
+- Using the  **AttachedTemplate** property with the **Document** object to attach a template to a document
     
 Use the  **NormalTemplate** property to return a template object that refers to the Normal template. Use the **AttachedTemplate** property to return the template attached to the specified document.
 

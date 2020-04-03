@@ -26,7 +26,7 @@ _expression_. `RequestedFolder`
 
 ## Remarks
 
-A **[SharingItem](Outlook.SharingItem.md)** object that represents a sharing request can only request access to a default folder.
+A  **[SharingItem](Outlook.SharingItem.md)** object that represents a sharing request can only request access to a default folder.
 
 
 ## See also

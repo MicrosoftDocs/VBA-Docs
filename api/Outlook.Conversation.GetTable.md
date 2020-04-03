@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Conversation.GetTable method (Outlook)
 
-Returns a **[Table](Outlook.Table.md)** object that contains rows that represent all items in the conversation.
+Returns a  **[Table](Outlook.Table.md)** object that contains rows that represent all items in the conversation.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Conversation](Outlook.Conversation.m
 
 ## Return value
 
-A **Table** object that contains rows that represent all items in the conversation.
+A  **Table** object that contains rows that represent all items in the conversation.
 
 
 ## Remarks

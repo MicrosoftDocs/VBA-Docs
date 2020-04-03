@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # SplitPart.Index property (Project)
 
-Gets the index of a **SplitPart** object in the **SplitParts** containing object. Read-only **Long**.
+Gets the index of a  **SplitPart** object in the **SplitParts** containing object. Read-only **Long**.
 
 
 ## Syntax

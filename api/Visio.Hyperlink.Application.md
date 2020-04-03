@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[Hyperlink](Visio.Hyperlink.md)** ob
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro gets the **Application** object associated with the active document and prints its process ID number in the Immediate window.
+The following Microsoft Visual Basic for Applications (VBA) macro gets the  **Application** object associated with the active document and prints its process ID number in the Immediate window.
 
 
 ```vb

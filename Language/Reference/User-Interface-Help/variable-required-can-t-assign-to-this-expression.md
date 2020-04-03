@@ -28,7 +28,7 @@ This error typically occurs when you attempt to assign a value to something that
     
     Choose another name for the identifier.
     
-- You tried to use a nonvariable as a loop counter in a **Fr...Next** construction. Use a variable as the counter.
+- You tried to use a nonvariable as a loop counter in a  **For...Next** construction. Use a variable as the counter.
     
 - You tried to assign a value to a read-only [property](../../Glossary/vbe-glossary.md#property) or to an expression that consists of more than one variable (such as X + Y). An assignment places a value at a memory location. The specified expression must represent a single, writable location.
     

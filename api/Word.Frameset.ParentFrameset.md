@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Frameset.ParentFrameset property (Word)
 
-Returns a **Frameset** object that represents the parent of the specified **Frameset** object on a frames page.
+Returns a  **Frameset** object that represents the parent of the specified **Frameset** object on a frames page.
 
 
 ## Syntax

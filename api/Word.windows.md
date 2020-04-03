@@ -24,7 +24,7 @@ Use the  **Windows** property to return the **Windows** collection. The followin
 Windows.Arrange ArrangeStyle:=wdTiled
 ```
 
-Use the **Add** method or the **NewWindow** method to add a new window to the **Windows** collection. Each of the following statements creates a new window for the document in the active window.
+Use the  **Add** method or the **NewWindow** method to add a new window to the **Windows** collection. Each of the following statements creates a new window for the document in the active window.
 
 
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeRange.TextFrame2 property (Word)
 
-Returns a **TextFrame2** object that contains the text for the specified range of shapes. Read-only.
+Returns a  **TextFrame2** object that contains the text for the specified range of shapes. Read-only.
 
 
 ## Syntax

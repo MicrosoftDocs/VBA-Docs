@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.CommandBars property (Project)
 
-Gets a **CommandBars** collection that represents all the command bars in the application. Read-only **CommandBars**.
+Gets a  **CommandBars** collection that represents all the command bars in the application. Read-only **CommandBars**.
 
 
 ## Syntax

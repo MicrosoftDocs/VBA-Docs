@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 ## Remarks
 
-When you call the **AddToContainers** method, Microsoft Visio uses the setting of the **[ContainerProperties.ResizeAsNeeded](Visio.ContainerProperties.ResizeAsNeeded.md)** property for each container to determine how the container resizes.
+When you call the  **AddToContainers** method, Microsoft Visio uses the setting of the **[ContainerProperties.ResizeAsNeeded](Visio.ContainerProperties.ResizeAsNeeded.md)** property for each container to determine how the container resizes.
 
 If the underlying container is a list, the shape is added as a normal container member, and not as a list member.
 

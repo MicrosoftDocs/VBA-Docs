@@ -74,7 +74,7 @@ To remove permissions for a specified user, use the  [UserPermission.Remove](htt
 To access a protected document, a user needs the following:
 
 
-- **msoPermissionObjModel**
+-  **msoPermissionObjModel**
     
 - The specific IRM permissions for any method or event that is used.
     

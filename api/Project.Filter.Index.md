@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Filter.Index property (Project)
 
-Gets the index of a **Filter** object in the containing **Filters** collection. Read-only **Long**.
+Gets the index of a  **Filter** object in the containing **Filters** collection. Read-only **Long**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleActions.Item method (Outlook)
 
-Obtains a **[RuleAction](Outlook.RuleAction.md)** object specified by _Index_ which is a numerical index into the **[RuleActions](Outlook.RuleActions.md)** collection.
+Obtains a  **[RuleAction](Outlook.RuleAction.md)** object specified by _Index_ which is a numerical index into the **[RuleActions](Outlook.RuleActions.md)** collection.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [RuleActions](Outlook.RuleActions.md) 
 
 ## Return value
 
-A **RuleAction** object that matches the rule action specified by _Index_.
+A  **RuleAction** object that matches the rule action specified by _Index_.
 
 
 ## Remarks

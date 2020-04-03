@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Version.Open method (Word)
 
-Opens the specified version of a document. Returns a **Document** object representing the opened document.
+Opens the specified version of a document. Returns a  **Document** object representing the opened document.
 
 
 ## Syntax

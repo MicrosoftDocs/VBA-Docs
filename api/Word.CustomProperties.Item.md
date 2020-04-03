@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CustomProperties.Item method (Word)
 
-Returns a **CustomProperty** object in a collection.
+Returns a  **CustomProperty** object in a collection.
 
 
 ## Syntax

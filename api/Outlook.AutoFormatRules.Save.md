@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AutoFormatRules](Outlook.AutoFormatR
 
 ## Remarks
 
-Any changes made to the **AtoFormatRules** collection, such as adding or removing **AutoFormatRule** objects, or to an **AutoFormatRule** object within the collection, are persisted only if this method is called.
+Any changes made to the  **AutoFormatRules** collection, such as adding or removing **AutoFormatRule** objects, or to an **AutoFormatRule** object within the collection, are persisted only if this method is called.
 
 
 ## See also

@@ -19,7 +19,7 @@ Returns or sets an  **Integer** that indicates the position of a control relativ
 
 _expression_.**Alignment**
 
-_expression_ A variable that represents a **CeckBox** object.
+_expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks

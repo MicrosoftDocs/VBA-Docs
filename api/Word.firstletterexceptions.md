@@ -43,7 +43,7 @@ For Each aExcept In AutoCorrect.FirstLetterExceptions
 Next aExcept
 ```
 
-Use the **Add** method to add an abbreviation to the list of first-letter exceptions. The following example adds the abbreviation "addr." to this list.
+Use the  **Add** method to add an abbreviation to the list of first-letter exceptions. The following example adds the abbreviation "addr." to this list.
 
 
 

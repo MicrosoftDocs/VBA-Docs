@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Exit Property not allowed in Function or Sub
 
-An **Exit** statement must match the [procedure](../../Glossary/vbe-glossary.md#procedure) in which it occurs. This error has the following cause and solution:
+An  **Exit** statement must match the [procedure](../../Glossary/vbe-glossary.md#procedure) in which it occurs. This error has the following cause and solution:
 
 
 

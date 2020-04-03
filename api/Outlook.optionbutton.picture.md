@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # OptionButton.Picture Property (Outlook Forms Script)
 
-Returns a **String** that specifies the full path name of a bitmap to display on a control. Read-only.
+Returns a  **String** that specifies the full path name of a bitmap to display on a control. Read-only.
 
 
 ## Syntax

@@ -19,11 +19,11 @@ Contains a set of  **[Attachment](Outlook.Attachment.md)** objects that represen
 
 ## Remarks
 
-Use the **[Attachments](Outlook.Attachments.Item.md)** property to return the **Attachments** collection for any Outlook item (except notes).
+Use the  **[Attachments](Outlook.Attachments.Item.md)** property to return the **Attachments** collection for any Outlook item (except notes).
 
-Use the **[Add](Outlook.Attachments.Add.md)** method to add an attachment to an item.
+Use the  **[Add](Outlook.Attachments.Add.md)** method to add an attachment to an item.
 
-To ensure consistent results, always save an item before adding or removing objects in the **Atachments** collection of the item.
+To ensure consistent results, always save an item before adding or removing objects in the  **Attachments** collection of the item.
 
 
 ## Example

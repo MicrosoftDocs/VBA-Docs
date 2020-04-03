@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # ScrollBar.Value Property (Outlook Forms Script)
 
-Returns or sets a **Variant** that specifies the state of a **[ScrollBar](Outlook.scrollbar.md)**. Read/write.
+Returns or sets a  **Variant** that specifies the state of a **[ScrollBar](Outlook.scrollbar.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**Value**
 
-_expression_ A variable that represents a **ScrollBar** object.
+_expression_ A variable that represents a  **ScrollBar** object.
 
 
 ## Remarks

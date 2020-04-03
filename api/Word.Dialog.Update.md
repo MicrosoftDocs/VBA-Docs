@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Dialog](Word.Dialog.md)' o
 
 ## Example
 
-This example returns a **Dialog** object that refers to the **Font** dialog box. The font applied to the **Selection** object is changed to Arial, the dialog values are updated, and the **Font** dialog box is displayed.
+This example returns a  **Dialog** object that refers to the **Font** dialog box. The font applied to the **Selection** object is changed to Arial, the dialog values are updated, and the **Font** dialog box is displayed.
 
 
 ```vb

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ApplicationSettings.EnableAutoConnect property (Visio)
 
-Determines whether the **AutoConnect** feature is enabled in the Microsoft Visio user interface (UI). Read/write.
+Determines whether the  **AutoConnect** feature is enabled in the Microsoft Visio user interface (UI). Read/write.
 
 
 ## Syntax

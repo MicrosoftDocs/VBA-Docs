@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # ShapeRange.ThreeD property (Project)
-Gets a **ThreeDFormat** object that contains 3D formatting properties for the shape range. Read-only **[ThreeDFormat](https://msdn.microsoft.com/library/office/ff836783%28v=office.15%29)**.
+Gets a  **ThreeDFormat** object that contains 3D formatting properties for the shape range. Read-only **[ThreeDFormat](https://msdn.microsoft.com/library/office/ff836783%28v=office.15%29)**.
 
 ## Syntax
 

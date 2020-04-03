@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Calendar.Name property (Project)
 
-Gets the name of a **Calendar** object. Read-only **String**.
+Gets the name of a  **Calendar** object. Read-only **String**.
 
 
 ## Syntax

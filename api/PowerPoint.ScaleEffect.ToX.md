@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ScaleEffect.ToX property (PowerPoint)
 
-Sets or returns a **Single** that represents the ending width of a **[ScaleEffect](PowerPoint.ScaleEffect.md)** object, specified as a percent of the screen width. Read/write.
+Sets or returns a  **Single** that represents the ending width of a **[ScaleEffect](PowerPoint.ScaleEffect.md)** object, specified as a percent of the screen width. Read/write.
 
 
 ## Syntax

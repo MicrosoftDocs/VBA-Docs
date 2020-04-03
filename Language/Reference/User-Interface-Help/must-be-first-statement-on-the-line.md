@@ -16,7 +16,7 @@ Not all [keywords](../../Glossary/vbe-glossary.md#keyword) can appear at the beg
 
 
 
-- You preceded a **Sub**, **Function**, or **Property** statement with another statement on the same line. A **Sub**, **Function**, or **Property** statement must always be the first statement on any line in which it appears (unless preceded by the keyword **Public**, **Private**, or **Static**).
+- You preceded a  **Sub**, **Function**, or **Property** statement with another statement on the same line. A **Sub**, **Function**, or **Property** statement must always be the first statement on any line in which it appears (unless preceded by the keyword **Public**, **Private**, or **Static**).
     
 - You preceded an  **End If**, **Else**, or **ElseIf** statement with another statement on the same line. An **End If**, **Else**, or **ElseIf** (only when used in a block **If** structure) statement must always be the first statement on any line in which it appears.
     

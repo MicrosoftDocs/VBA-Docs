@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableField.Index property (Project)
 
-Gets the index of a **TableField** object in the **TableFields** containing object. Read-only **Long**.
+Gets the index of a  **TableField** object in the **TableFields** containing object. Read-only **Long**.
 
 
 ## Syntax

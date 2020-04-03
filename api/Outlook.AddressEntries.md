@@ -39,7 +39,7 @@ Set myAddressList = myNameSpace.AddressLists("Personal Address Book")
 Set myAddressEntries = myAddressList.AddressEntries
 ```
 
-You can also index directly into the **AdressEntries** object, returning an **AddressEntry** object.
+You can also index directly into the  **AddressEntries** object, returning an **AddressEntry** object.
 
 
 

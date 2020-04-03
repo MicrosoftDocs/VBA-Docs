@@ -42,9 +42,9 @@ To use this example, copy this sample code to the Script Editor of a form. To ru
 
 - A **[ToggleButton](../../../api/Outlook.togglebutton.md)** named ToggleButton1.
 
-- A **TextBox** named TextBox2.
+- A  **TextBox** named TextBox2.
 
-- A **[ToggleButton](../../../api/Outlook.togglebutton.md)** named ToggleButton1.
+- A  **[ToggleButton](../../../api/Outlook.togglebutton.md)** named ToggleButton1.
 
 ```vb
 Sub CommandButton1_Click() 

@@ -58,7 +58,7 @@ In the following table, the left column contains commands that require a command
 | **FileOpenFile**|The path and file name of the file to be opened. If the path isn't specified, the current folder is used.|
 | **Font Size**|A positive text measurement, specified in 0.5-point increments (72 points = 1 inch)|
 | **Lowered, Raised**|A text measurement between 1 point and 64 points, specified in 0.5-point increments (72 points = 1 inch)|
-| **Symbol**|A string created by concatenating a **Chr()** instruction and the name of a symbol font (for example, `Chr(167) & "Symbol"`)|
+| **Symbol**|A string created by concatenating a  **Chr()** instruction and the name of a symbol font (for example, `Chr(167) & "Symbol"`)|
 
 ## Example
 

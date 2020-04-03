@@ -25,7 +25,7 @@ Use the  **Fields** property to return the **Fields** collection. The following 
 Selection.Fields.Update
 ```
 
-Use the **Add** method to add a field to the **Fields** collection. The following example inserts a DATE field at the beginning of the selection and then displays the result.
+Use the  **Add** method to add a field to the **Fields** collection. The following example inserts a DATE field at the beginning of the selection and then displays the result.
 
 
 

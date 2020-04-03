@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormFields.Add method (Word)
 
-Returns a **FormField** object that represents a new form field added at a range.
+Returns a  **FormField** object that represents a new form field added at a range.
 
 
 ## Syntax

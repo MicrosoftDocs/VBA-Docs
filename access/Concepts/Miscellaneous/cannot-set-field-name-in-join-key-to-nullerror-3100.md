@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You have a join, and you tried to set a field on either side of the join to a **Null** value. Either select different fields or enter data in the fields, and then try the operation again.
+You have a join, and you tried to set a field on either side of the join to a  **Null** value. Either select different fields or enter data in the fields, and then try the operation again.
 
 ## See also
 

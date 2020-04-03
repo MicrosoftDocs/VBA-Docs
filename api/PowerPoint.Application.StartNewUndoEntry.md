@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.StartNewUndoEntry method (PowerPoint)
 
-Starts a new undo entry in the **Aplication** object.
+Starts a new undo entry in the  **Application** object.
 
 
 ## Syntax

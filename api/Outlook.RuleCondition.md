@@ -22,23 +22,23 @@ The  **RuleCondition** object represents either a condition that must be met bef
  **RuleCondition** is the base class for rule conditions that are supported in programmatic rule creation. The classes derived from **RuleCondition** include:
 
 
-- **[AccountRuleCondition](Outlook.AccountRuleCondition.md)**
+-  **[AccountRuleCondition](Outlook.AccountRuleCondition.md)**
     
-- **[AddressRuleCondition](Outlook.AddressRuleCondition.md)**
+-  **[AddressRuleCondition](Outlook.AddressRuleCondition.md)**
     
-- **[CategoryRuleCondition](Outlook.CategoryRuleCondition.md)**
+-  **[CategoryRuleCondition](Outlook.CategoryRuleCondition.md)**
     
-- **[FromRssFeedRuleCondition](Outlook.FromRssFeedRuleCondition.md)**
+-  **[FromRssFeedRuleCondition](Outlook.FromRssFeedRuleCondition.md)**
     
-- **[FormNameRuleCondition](Outlook.FormNameRuleCondition.md)**
+-  **[FormNameRuleCondition](Outlook.FormNameRuleCondition.md)**
     
-- **[ImportanceRuleCondition](Outlook.ImportanceRuleCondition.md)**
+-  **[ImportanceRuleCondition](Outlook.ImportanceRuleCondition.md)**
     
-- **[SenderInAddressListRuleCondition](Outlook.SenderInAddressListRuleCondition.md)**
+-  **[SenderInAddressListRuleCondition](Outlook.SenderInAddressListRuleCondition.md)**
     
-- **[TextRuleCondition](Outlook.TextRuleCondition.md)**
+-  **[TextRuleCondition](Outlook.TextRuleCondition.md)**
     
-- **[ToOrFromRuleCondition](Outlook.ToOrFromRuleCondition.md)**
+-  **[ToOrFromRuleCondition](Outlook.ToOrFromRuleCondition.md)**
     
 
 

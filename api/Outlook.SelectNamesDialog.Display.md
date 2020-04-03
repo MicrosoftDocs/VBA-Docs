@@ -26,7 +26,7 @@ _expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectName
 
 ## Return value
 
-A **Boolean** value that is **True** if the user has clicked **OK**, and  **False** if the user has clicked **Cancel** or the Close icon.
+A  **Boolean** value that is **True** if the user has clicked **OK**, and  **False** if the user has clicked **Cancel** or the Close icon.
 
 
 ## Remarks

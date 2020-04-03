@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # OptionButton.Caption Property (Outlook Forms Script)
 
-Returns or sets a **String** that appears on an object to identify or describe it. Read/write.
+Returns or sets a  **String** that appears on an object to identify or describe it. Read/write.
 
 
 ## Syntax

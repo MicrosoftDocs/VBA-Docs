@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # CommandButton.MouseIcon Property (Outlook Forms Script)
 
-Returns a **String** that represents the full path name of a custom icon that is to be assigned to the control. Read-only.
+Returns a  **String** that represents the full path name of a custom icon that is to be assigned to the control. Read-only.
 
 
 ## Syntax
 
 _expression_.**MouseIcon**
 
-_expression_ A variable that represents a **CmmandButton** object.
+_expression_ A variable that represents a  **CommandButton** object.
 
 
 ## Remarks

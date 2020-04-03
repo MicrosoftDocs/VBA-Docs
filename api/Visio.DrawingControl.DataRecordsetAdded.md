@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # DrawingControl.DataRecordsetAdded event (Visio)
 
-Occurs when a **DataRecordset** object is added to a **DataRecordsets** collection.
+Occurs when a  **DataRecordset** object is added to a **DataRecordsets** collection.
 
 
 > [!NOTE] 

@@ -23,7 +23,7 @@ _expression_ A variable that represents an  **OptionButton** object.
 
  **True** to automatically resize the control to display its entire contents. **False** to keep the size of the control constant; contents are clipped when they exceed the area of the control (default).
 
-For controls with captions, the **AtoSize** property specifies whether the control automatically adjusts to display the entire caption.
+For controls with captions, the  **AutoSize** property specifies whether the control automatically adjusts to display the entire caption.
 
 If you manually change the size of a control while  **AutoSize** is **True**, the manual change overrides the size previously set by  **AutoSize**.
 

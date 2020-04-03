@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folder.GetCalendarExporter method (Outlook)
 
-Creates a **[CalendarSharing](Outlook.CalendarSharing.md)** object for the specified **[Folder](Outlook.Folder.md)**.
+Creates a  **[CalendarSharing](Outlook.CalendarSharing.md)** object for the specified **[Folder](Outlook.Folder.md)**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_. `GetCalendarExporter`
 
 ## Return value
 
-A **CalendarSharing** object for the specified folder.
+A  **CalendarSharing** object for the specified folder.
 
 
 ## Remarks

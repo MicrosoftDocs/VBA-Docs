@@ -19,7 +19,7 @@ Represents a single add-in, either loaded or not loaded.
 
 ## Remarks
 
-the **AddIn** object is a member of the **[AddIns](PowerPoint.AddIns.md)** collection. The **AddIns** collection contains all of the Microsoft PowerPoint-specific add-ins available, regardless of whether or not they are loaded. The collection does not include Component Object Model (COM) add-ins.
+The  **AddIn** object is a member of the **[AddIns](PowerPoint.AddIns.md)** collection. The **AddIns** collection contains all of the Microsoft PowerPoint-specific add-ins available, regardless of whether or not they are loaded. The collection does not include Component Object Model (COM) add-ins.
 
 
 ## Example
@@ -31,9 +31,9 @@ Use  **AddIns** (_index_), where _index_ is the add-in's title or index number, 
 AddIns("my ppt tools").Loaded = True
 ```
 
-The add-in title, shown above, should not be confused with the add-in name, which is the file name of the add-in. You must spell the add-in title exactly as it is spelled in the **Ad-Ins** tab, but the capitalization does not have to match.
+The add-in title, shown above, should not be confused with the add-in name, which is the file name of the add-in. You must spell the add-in title exactly as it is spelled in the  **Add-Ins** tab, but the capitalization does not have to match.
 
-The index number represents the position of the add-in in the **Ad-Ins** tab. The following example displays the names of all the add-ins that are currently loaded in PowerPoint.
+The index number represents the position of the add-in in the  **Add-Ins** tab. The following example displays the names of all the add-ins that are currently loaded in PowerPoint.
 
 
 

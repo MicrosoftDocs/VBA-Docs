@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationModules.Item method (Outlook)
 
-Returns a **[NavigationModule](Outlook.NavigationModule.md)** object from the collection.
+Returns a  **[NavigationModule](Outlook.NavigationModule.md)** object from the collection.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_.**Item** (_Index_)
 
 ## Return value
 
-A **NavigationModule** object that represents the specified object.
+A  **NavigationModule** object that represents the specified object.
 
 
 ## Remarks

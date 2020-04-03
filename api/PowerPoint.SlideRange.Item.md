@@ -42,7 +42,7 @@ Slide
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this method maps to the following types:
 
 
-- **Microsoft.Office.Interop.PowerPoint.SlideRange._Index**
+-  **Microsoft.Office.Interop.PowerPoint.SlideRange._Index**
     
 
 ## See also

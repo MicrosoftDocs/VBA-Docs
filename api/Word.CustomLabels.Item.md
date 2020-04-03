@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CustomLabels.Item method (Word)
 
-Returns a **CustomLabel** object in a collection.
+Returns a  **CustomLabel** object in a collection.
 
 
 ## Syntax

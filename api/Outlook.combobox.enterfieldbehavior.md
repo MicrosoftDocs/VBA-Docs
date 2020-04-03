@@ -19,7 +19,7 @@ Returns or sets an  **Integer** that specifies the selection behavior when enter
 
 _expression_.**EnterFieldBehavior**
 
-_expression_ A variable that represents a **CmboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

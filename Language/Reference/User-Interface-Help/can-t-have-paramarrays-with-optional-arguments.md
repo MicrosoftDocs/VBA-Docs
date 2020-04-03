@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Can't have paramarrays with optional arguments
-You can use a **ParamArray** to define procedures that accept variable-length argument lists. An **Optional** argument is one that the caller can supply or omit without generating an error. This error has the following causes and solutions:
+You can use a  **ParamArray** to define procedures that accept variable-length argument lists. An **Optional** argument is one that the caller can supply or omit without generating an error. This error has the following causes and solutions:
 
 
 - You used both the  **ParamArray** and **Optional** keywords in the same parameter list. Remove either the **Optional** or **ParamArray** parameter. You cannot use both keywords in the same parameter list. Either approach can be used for the type of parameter list you want.

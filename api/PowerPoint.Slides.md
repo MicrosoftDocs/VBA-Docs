@@ -22,7 +22,7 @@ A collection of all the  **[Slide](PowerPoint.Slide.md)** objects in the specifi
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this collection maps to the following types:
 
 
-- **Microsoft.Office.Interop.PowerPoint.Slides.GetEnumerator** (to enumerate the **Slide** objects.)
+-  **Microsoft.Office.Interop.PowerPoint.Slides.GetEnumerator** (to enumerate the **Slide** objects.)
     
 The following examples describe how to:
 

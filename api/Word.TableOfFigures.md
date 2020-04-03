@@ -26,7 +26,7 @@ Use  **TablesOfFigures** (Index), where Index is the index number, to return a s
 ActiveDocument.TablesOfFigures(1).UpdatePageNumbers
 ```
 
-Use the **Add** method to add a table of figures to a document. A table of figures lists figure captions in the order in which they appear in the document. The following example replaces the selection in the active document with a table of figures that includes caption labels and page numbers.
+Use the  **Add** method to add a table of figures to a document. A table of figures lists figure captions in the order in which they appear in the document. The following example replaces the selection in the active document with a table of figures that includes caption labels and page numbers.
 
 
 

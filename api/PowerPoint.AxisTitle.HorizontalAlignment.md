@@ -29,15 +29,15 @@ _expression_ A variable that represents an '[AxisTitle](PowerPoint.AxisTitle.md)
 The value of this property can be set to one of the following  **[XlConstants](PowerPoint.XlConstants.md)** constants:
 
 
-- **xlCenter**
+-  **xlCenter**
     
-- **xlDistributed**
+-  **xlDistributed**
     
-- **xlJustify**
+-  **xlJustify**
     
-- **xlLeft**
+-  **xlLeft**
     
-- **xlRight**
+-  **xlRight**
     
 Some of these constants may not be available to you, depending on the language support (for example, U.S. English) that you have selected or installed.
 

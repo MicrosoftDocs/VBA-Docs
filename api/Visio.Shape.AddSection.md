@@ -43,9 +43,9 @@ The  **AddSection** method is frequently used to add one or more Geometry sectio
 
 The sections that you can add to a shape correspond to the choices shown by the  **Insert Section** dialog box when the shape is displayed in a ShapeSheet window.
 
-If you try to add a non-Geometry section to a shape that already has that section, the **AddSection** method raises an exception. Use the **SectionExists** property to determine if a shape already has a section with a given logical index.
+If you try to add a non-Geometry section to a shape that already has that section, the  **AddSection** method raises an exception. Use the **SectionExists** property to determine if a shape already has a section with a given logical index.
 
-A new section has no rows. Use the **AddRow** method to add rows to the new section.
+A new section has no rows. Use the  **AddRow** method to add rows to the new section.
 
 The  **GeometryCount** property returns the number of Geometry sections included in a shape. Use the following code to add a Geometry section to a shape:
 

@@ -36,11 +36,11 @@ For charts, the following commands in the  **Layout** tab correspond to the **Se
 
 - Everything in the  **Labels** group.
     
-- Everything in the **Axes** group.
+- Everything in the  **Axes** group.
     
-- Everything in the **Analysis** group.
+- Everything in the  **Analysis** group.
     
-- **PlotArea**,  **Chart Wall**, and  **Chart Floor** buttons.
+-  **PlotArea**,  **Chart Wall**, and  **Chart Floor** buttons.
     
 
 

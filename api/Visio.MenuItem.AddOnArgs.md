@@ -44,7 +44,7 @@ An object's  **AddOnName** property indicates the name of the add-on to which th
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to set the **AddOnArgs** property of a menu item. It also shows how to add a menu and menu item to the drawing window menu set and how to set some of the menu item's other properties, such as **Caption**, **AddOnName**, and **ActionText**.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to set the  **AddOnArgs** property of a menu item. It also shows how to add a menu and menu item to the drawing window menu set and how to set some of the menu item's other properties, such as **Caption**, **AddOnName**, and **ActionText**.
 
 This example assumes that you already have a macro in the current Visual Basic project, and that macro takes one argument called "Arg1". Before running this example, replace  _macroname_ with the name of your macro.
 

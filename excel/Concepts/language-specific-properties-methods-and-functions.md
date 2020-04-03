@@ -59,12 +59,12 @@ Properties that return or set language-specific attributes are listed in the fol
 
 The following are language-specific worksheet functions:
 
-- **[FindB](./Events-WorksheetFunctions-Shapes/list-of-worksheet-functions-available-to-visual-basic.md)**
+-  **[FindB](./Events-WorksheetFunctions-Shapes/list-of-worksheet-functions-available-to-visual-basic.md)**
     
-- **[ReplaceB](./Events-WorksheetFunctions-Shapes/list-of-worksheet-functions-available-to-visual-basic.md)**
+-  **[ReplaceB](./Events-WorksheetFunctions-Shapes/list-of-worksheet-functions-available-to-visual-basic.md)**
     
-- **[SearchB](./Events-WorksheetFunctions-Shapes/list-of-worksheet-functions-available-to-visual-basic.md)**
+-  **[SearchB](./Events-WorksheetFunctions-Shapes/list-of-worksheet-functions-available-to-visual-basic.md)**
     
-- **[USDollar](./Events-WorksheetFunctions-Shapes/list-of-worksheet-functions-available-to-visual-basic.md)**
+-  **[USDollar](./Events-WorksheetFunctions-Shapes/list-of-worksheet-functions-available-to-visual-basic.md)**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

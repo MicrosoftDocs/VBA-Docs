@@ -99,7 +99,7 @@ For example, say that your drawing contains a selection of shapes representing d
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **AutomaticLink** method to automatically link shapes in a drawing to data in a data recordset. It links data for employees contained in a data recordset to shapes in the drawing whose shape text corresponds to the employee names.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **AutomaticLink** method to automatically link shapes in a drawing to data in a data recordset. It links data for employees contained in a data recordset to shapes in the drawing whose shape text corresponds to the employee names.
 
 Before running this macro, create a data recordset that contains a column named "EmployeeName" that lists employee names, as well as any other columns you want to include, and then assign those employee names as shape text to corresponding shapes in your Visio drawing. Use the  **[DataRecordsets.Add](Visio.DataRecordsets.Add.md)** method to add the data recordset to the **DataRecordsets** collection of the active document. Make sure that the data recordset is the one that you added most recently to the collection.
 

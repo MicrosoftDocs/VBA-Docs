@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Conflict object (Word)
 
-Represents a conflicting edit in a co authored document. The type of a **Conflict** object is specified by the [WdRevisionType](Word.WdRevisionType.md) enumeration.
+Represents a conflicting edit in a co authored document. The type of a  **Conflict** object is specified by the [WdRevisionType](Word.WdRevisionType.md) enumeration.
 
 
 ## Remarks

@@ -25,7 +25,7 @@ To install the Visio Drawing Control, install Visio. When you install Visio, you
 
 To add the Visio Drawing Control to the  **Toolbox** in Visual Basic 6.0, on the **Project** menu, click **Components**, and then in the  **Controls** list, select **Microsoft Visio 15.0 Drawing Control Type Library**. To make the control available in other development environments, consult the documentation that comes with your development product.
 
-Once you have opened a **Standard EXE** project in Visual Basic and added the control to the **Toolbox**, double-click the control's icon to add an instance of the control to the form in your application. You can add multiple instances of the control, but they will share the same underlying Visio  **Application** object. As a result, programmability objects and settings associated with one instance of the control will be reflected in other instances. For example, the **Documents** collection of the **Application** object will include the **Document** object associated with each instance of the control.
+Once you have opened a  **Standard EXE** project in Visual Basic and added the control to the **Toolbox**, double-click the control's icon to add an instance of the control to the form in your application. You can add multiple instances of the control, but they will share the same underlying Visio  **Application** object. As a result, programmability objects and settings associated with one instance of the control will be reflected in other instances. For example, the **Documents** collection of the **Application** object will include the **Document** object associated with each instance of the control.
 
 
 ## Opening a Visio drawing in the control
@@ -125,24 +125,24 @@ Beginning with Visio 2003, new keyboard and mouse events added to the Visio obje
 The following new events are available:
 
 
-- **KeyDown**
+-  **KeyDown**
     
-- **KeyPress**
+-  **KeyPress**
     
-- **KeyUp**
+-  **KeyUp**
     
-- **MouseDown**
+-  **MouseDown**
     
-- **MouseMove**
+-  **MouseMove**
     
-- **MouseUp**
+-  **MouseUp**
     
 These events are similar to the Visual Basic events that have the same names, although they take different arguments. To view the syntax, and for additional information about these events, see the specific topics associated with them in this Automation Reference. For more information about the Visual Basic events, consult Visual Basic Help.
 
 
 ## Integrating the Visio Drawing Control into the user interface of your application
 
-You can use events or status changes in your host application to modify a drawing in the Visio Drawing Control. In addition, you can use events in the Visio Drawing Control to drive actions or changes in your host application. For example, you can use mouse events or keyboard events in the Visio Drawing Control to display user interface elements such as forms and message boxes in your host application. The following code shows how to handle a **MouseDown** event (a mouse click) in the Visio Drawing Control to display a message box in your Visual Basic 6.0 application.
+You can use events or status changes in your host application to modify a drawing in the Visio Drawing Control. In addition, you can use events in the Visio Drawing Control to drive actions or changes in your host application. For example, you can use mouse events or keyboard events in the Visio Drawing Control to display user interface elements such as forms and message boxes in your host application. The following code shows how to handle a  **MouseDown** event (a mouse click) in the Visio Drawing Control to display a message box in your Visual Basic 6.0 application.
 
 
 ```vb

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeRange.ThreeD property (Word)
 
-Returns a **ThreeDFormat** object that contains 3D formatting properties for the specified range of shapes. Read-only.
+Returns a  **ThreeDFormat** object that contains 3D formatting properties for the specified range of shapes. Read-only.
 
 
 ## Syntax

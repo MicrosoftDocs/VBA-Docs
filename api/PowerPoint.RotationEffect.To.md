@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RotationEffect.To property (PowerPoint)
 
-Sets or returns a **Single** that represents the ending rotation of an object in degrees, specified relative to the screen (for example, 90 degrees is completely horizontal). Read/write.
+Sets or returns a  **Single** that represents the ending rotation of an object in degrees, specified relative to the screen (for example, 90 degrees is completely horizontal). Read/write.
 
 
 ## Syntax

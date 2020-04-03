@@ -37,20 +37,20 @@ _expression_. `SaveAsICal`( `_Path_` )
 The level of detail provided in the iCalendar file is determined by a combination of values in the following  **CalendarSharing** properties:
 
 
-- **[CalendarDetail](Outlook.CalendarSharing.CalendarDetail.md)**
+-  **[CalendarDetail](Outlook.CalendarSharing.CalendarDetail.md)**
     
-- **[IncludeAttachments](Outlook.CalendarSharing.IncludeAttachments.md)**
+-  **[IncludeAttachments](Outlook.CalendarSharing.IncludeAttachments.md)**
     
-- **[IncludePrivateDetails](Outlook.CalendarSharing.IncludePrivateDetails.md)**
+-  **[IncludePrivateDetails](Outlook.CalendarSharing.IncludePrivateDetails.md)**
     
-- **[RestrictToWorkingHours](Outlook.CalendarSharing.RestrictToWorkingHours.md)**
+-  **[RestrictToWorkingHours](Outlook.CalendarSharing.RestrictToWorkingHours.md)**
     
 You can set the  **[IncludeWholeCalendar](Outlook.CalendarSharing.IncludeWholeCalendar.md)** property to **True** to export all items contained in the folder, or you can set the **[StartDate](Outlook.CalendarSharing.StartDate.md)** and **[EndDate](Outlook.CalendarSharing.EndDate.md)** properties to limit the exported items to a date range between a specified start date and end date, respectively.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example creates a **ClendarSharing** object for the Calendar folder, then exports the contents of the entire folder (including attachments and private items) to an iCalendar calendar (.ics) file.
+The following Visual Basic for Applications (VBA) example creates a  **CalendarSharing** object for the Calendar folder, then exports the contents of the entire folder (including attachments and private items) to an iCalendar calendar (.ics) file.
 
 
 ```vb

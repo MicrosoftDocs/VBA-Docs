@@ -28,7 +28,7 @@ If Selection.Endnotes.Count >= 1 Then
 End If
 ```
 
-Use the **Add** method to add an endnote to the **[Endnotes](Word.endnotes.md)** collection. The following example adds an endnote immediately after the selection.
+Use the  **Add** method to add an endnote to the **[Endnotes](Word.endnotes.md)** collection. The following example adds an endnote immediately after the selection.
 
 
 

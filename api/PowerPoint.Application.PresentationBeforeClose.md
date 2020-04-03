@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.PresentationBeforeClose event (PowerPoint)
 
-Represents a **Presentation** object before it closes.
+Represents a  **Presentation** object before it closes.
 
 
 ## Syntax

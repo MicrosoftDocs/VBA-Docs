@@ -32,7 +32,7 @@ End Sub
 
 ## Collapsing a selection or range
 
-Use the **ollapse**method to collapse a **lection** object or a **[Range](../../../api/Word.Range.md)** object to its beginning or ending point. The following example collapses the selection to an insertion point at the beginning of the selection.
+Use the **ollapse**method to collapse a  **lection** object or a **[Range](../../../api/Word.Range.md)** object to its beginning or ending point. The following example collapses the selection to an insertion point at the beginning of the selection.
 
 
 ```vb
@@ -92,7 +92,7 @@ Use the **etRange**method to redefine an existing  **lection** object or **Range
 
 ## Changing text
 
-You can change existing text by changing the contents of a range. The following instruction changes the first word in the active document by setting the **Text](../../../api/Word.Range.Text.md)** property of a **nge** object to "The ".
+You can change existing text by changing the contents of a range. The following instruction changes the first word in the active document by setting the **Text](../../../api/Word.Range.Text.md)** property of a  **nge** object to "The ".
 
 
 ```vb

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormRegion.EnableAutoLayout property (Outlook)
 
-Returns or sets a **Boolean** that specifies whether to use the automatic layout resizing feature when designing form regions in the forms designer. Read/write
+Returns or sets a  **Boolean** that specifies whether to use the automatic layout resizing feature when designing form regions in the forms designer. Read/write
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # GroupShapes.Range method (PowerPoint)
 
-Returns a **ShapeRange** object.
+Returns a  **ShapeRange** object.
 
 
 ## Syntax

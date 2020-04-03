@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Font.Attributes property (Visio)
 
-Returns the attributes of the a **Font** object. Read-only.
+Returns the attributes of the a  **Font** object. Read-only.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Integer
 
 ## Remarks
 
-When you get the **Attributes** property of a **Font** object, the following value is returned.
+When you get the  **Attributes** property of a **Font** object, the following value is returned.
 
 
 

@@ -49,7 +49,7 @@ If you do not pass values for either of the optional parameters, the validation 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the **AddIssue** method to add a custom validation issue to a validation rule and associate it with a particular shape on a particular page.
+The following Visual Basic for Applications (VBA) example shows how to use the  **AddIssue** method to add a custom validation issue to a validation rule and associate it with a particular shape on a particular page.
 
 
 ```vb

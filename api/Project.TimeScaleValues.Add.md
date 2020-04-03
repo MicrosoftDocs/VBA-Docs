@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # TimeScaleValues.Add method (Project)
 
-Adds a **TimeScaleValue** object to a **TimeScaleValues** collection.
+Adds a  **TimeScaleValue** object to a **TimeScaleValues** collection.
 
 
 ## Syntax
