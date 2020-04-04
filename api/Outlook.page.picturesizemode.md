@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Page.PictureSizeMode Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies how to display the background picture on a page. Read/write.
+Returns or sets an **Integer** that specifies how to display the background picture on a page. Read/write.
 
 
 ## Syntax

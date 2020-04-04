@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ListLevel.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **ListLevel** object.
+Returns an **Object** that represents the parent object of the specified **ListLevel** object.
 
 
 ## Syntax

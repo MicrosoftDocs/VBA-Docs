@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Find.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Find** object.
+Returns an **Object** that represents the parent object of the specified **Find** object.
 
 
 ## Syntax

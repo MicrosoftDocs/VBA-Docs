@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Recipient.Sendable property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether a meeting request can be sent to the **[Recipient](Outlook.Recipient.md)**. Read/write
+Returns or sets a **Boolean** value that indicates whether a meeting request can be sent to the **[Recipient](Outlook.Recipient.md)**. Read/write
 
 
 ## Syntax

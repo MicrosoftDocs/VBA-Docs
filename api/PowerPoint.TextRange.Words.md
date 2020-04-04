@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextRange.Words method (PowerPoint)
 
-Returns a  **[TextRange](PowerPoint.TextRange.md)** object that represents the specified subset of text words.
+Returns a **[TextRange](PowerPoint.TextRange.md)** object that represents the specified subset of text words.
 
 
 ## Syntax

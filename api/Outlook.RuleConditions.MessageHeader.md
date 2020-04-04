@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleConditions.MessageHeader property (Outlook)
 
-Returns a  **[TextRuleCondition](Outlook.TextRuleCondition.md)** object with a **[TextRuleCondition.ConditionType](Outlook.TextRuleCondition.ConditionType.md)** of **olConditionMessageHeader**. Read-only.
+Returns a **[TextRuleCondition](Outlook.TextRuleCondition.md)** object with a **[TextRuleCondition.ConditionType](Outlook.TextRuleCondition.ConditionType.md)** of **olConditionMessageHeader**. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Presentation.SlideShowWindow property (PowerPoint)
 
-Returns a  **[SlideShowWindow](PowerPoint.SlideShowWindow.md)** object that represents the slide show window in which the specified presentation is running. Read-only.
+Returns a **[SlideShowWindow](PowerPoint.SlideShowWindow.md)** object that represents the slide show window in which the specified presentation is running. Read-only.
 
 
 ## Syntax

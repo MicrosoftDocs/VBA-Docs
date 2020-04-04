@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeUser object (Outlook)
 
-Provides detailed information about an  **[AddressEntry](Outlook.AddressEntry.md)** that represents a Microsoft Exchange mailbox user.
+Provides detailed information about an **[AddressEntry](Outlook.AddressEntry.md)** that represents a Microsoft Exchange mailbox user.
 
 
 ## Remarks

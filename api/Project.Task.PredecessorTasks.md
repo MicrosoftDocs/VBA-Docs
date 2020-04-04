@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Task.PredecessorTasks property (Project)
 
-Gets a  **[Tasks](Project.Task.md)** collection representing the predecessors of the task. Read-only **Tasks**.
+Gets a **[Tasks](Project.Task.md)** collection representing the predecessors of the task. Read-only **Tasks**.
 
 
 ## Syntax

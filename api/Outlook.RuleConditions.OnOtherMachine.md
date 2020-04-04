@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleConditions.OnOtherMachine property (Outlook)
 
-Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCondition.ConditionType](Outlook.RuleCondition.ConditionType.md)** of **olConditionOtherMachine**. Read-only.
+Returns a **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCondition.ConditionType](Outlook.RuleCondition.ConditionType.md)** of **olConditionOtherMachine**. Read-only.
 
 
 ## Syntax

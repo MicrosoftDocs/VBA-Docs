@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Assignment.FinishVariance property (Project)
 
-Gets the variance (in minutes) between the baseline finish date and the finish date of an  **Assignment**. Read-only **Variant**.
+Gets the variance (in minutes) between the baseline finish date and the finish date of an **Assignment**. Read-only **Variant**.
 
 
 ## Syntax

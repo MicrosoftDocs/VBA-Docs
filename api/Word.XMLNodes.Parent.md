@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XMLNodes.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **XMLNodes** object.
+Returns an **Object** that represents the parent object of the specified **XMLNodes** object.
 
 
 ## Syntax

@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # ListBox.MatchEntry Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that indicates how a **[ListBox](Outlook.listbox.md)** searches its list as the user types. Read/write.
+Returns or sets an **Integer** that indicates how a **[ListBox](Outlook.listbox.md)** searches its list as the user types. Read/write.
 
 
 ## Syntax
 
 _expression_.**MatchEntry**
 
-_expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a **ListBox** object.
 
 
 ## Remarks

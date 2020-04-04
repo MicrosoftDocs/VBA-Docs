@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Font.Weight Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the lthe darkness of the type. Read/write.
+Returns or sets an **Integer** that specifies the lthe darkness of the type. Read/write.
 
 
 ## Syntax

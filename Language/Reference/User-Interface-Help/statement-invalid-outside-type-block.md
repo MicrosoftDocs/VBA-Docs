@@ -32,7 +32,7 @@ End Type ' because it's inside a Type block.
 
     
     
-- You used an  **End Type** statement without a corresponding **Type** statement. Check for an unmatched **End Type**, and either precede its block with a **Type** statement, or delete the **End Type** statement if it isn't needed.
+- You used an **End Type** statement without a corresponding **Type** statement. Check for an unmatched **End Type**, and either precede its block with a **Type** statement, or delete the **End Type** statement if it isn't needed.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

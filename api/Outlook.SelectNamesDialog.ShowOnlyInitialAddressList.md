@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SelectNamesDialog.ShowOnlyInitialAddressList property (Outlook)
 
-Returns or sets a  **Boolean** that determines if the **[AddressList](Outlook.AddressList.md)** represented by **[SelectNamesDialog.InitialAddressList](Outlook.SelectNamesDialog.InitialAddressList.md)** is the only **AddressList** available in the drop-down list for **Address Book** in the **Select Names** dialog box. Read/write.
+Returns or sets a **Boolean** that determines if the **[AddressList](Outlook.AddressList.md)** represented by **[SelectNamesDialog.InitialAddressList](Outlook.SelectNamesDialog.InitialAddressList.md)** is the only **AddressList** available in the drop-down list for **Address Book** in the **Select Names** dialog box. Read/write.
 
 
 ## Syntax

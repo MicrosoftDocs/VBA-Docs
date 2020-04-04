@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Row.Item method (Outlook)
 
-Obtains an  **Object** that represents the value for the **[Row](Outlook.Row.md)** object at the column specified by _Index_.
+Obtains an **Object** that represents the value for the **[Row](Outlook.Row.md)** object at the column specified by _Index_.
 
 
 ## Syntax

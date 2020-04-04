@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Group.Index property (Project)
 
-Gets the index of a  **Group** object in the containing collection object. Read-only **Long**.
+Gets the index of a **Group** object in the containing collection object. Read-only **Long**.
 
 
 ## Syntax

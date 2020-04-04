@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlActionShowOn enumeration (Outlook)
 
-Identifies where an  **[Action](Outlook.Action.md)** is displayed as an available action.
+Identifies where an **[Action](Outlook.Action.md)** is displayed as an available action.
 
 
 

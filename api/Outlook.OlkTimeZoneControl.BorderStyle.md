@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTimeZoneControl.BorderStyle property (Outlook)
 
-Returns or sets an  **[OlBorderStyle](Outlook.OlBorderStyle.md)** constant that defines the style of the border around the control. Read/write.
+Returns or sets an **[OlBorderStyle](Outlook.OlBorderStyle.md)** constant that defines the style of the border around the control. Read/write.
 
 
 ## Syntax

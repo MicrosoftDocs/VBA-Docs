@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkCheckBox.Value property (Outlook)
 
-Returns or sets a  **Variant** that specifies the state of the control. Read/write.
+Returns or sets a **Variant** that specifies the state of the control. Read/write.
 
 
 ## Syntax

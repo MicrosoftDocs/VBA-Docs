@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folder.GetCustomIcon method (Outlook)
 
-Returns an  **[IPictureDisp](https://docs.microsoft.com/windows/desktop/api/ocidl/nn-ocidl-ipicturedisp)** object that represents the custom icon for the folder.
+Returns an **[IPictureDisp](https://docs.microsoft.com/windows/desktop/api/ocidl/nn-ocidl-ipicturedisp)** object that represents the custom icon for the folder.
 
 
 ## Syntax

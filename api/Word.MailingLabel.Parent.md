@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailingLabel.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **MailingLabel** object.
+Returns an **Object** that represents the parent object of the specified **MailingLabel** object.
 
 
 ## Syntax

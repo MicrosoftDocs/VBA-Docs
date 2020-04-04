@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkListBox.TopIndex property (Outlook)
 
-Returns or sets a  **Long** that represents the index of the item at the top of the displayed portion of the list. Read/write.
+Returns or sets a **Long** that represents the index of the item at the top of the displayed portion of the list. Read/write.
 
 
 ## Syntax

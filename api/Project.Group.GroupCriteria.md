@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Group.GroupCriteria property (Project)
 
-Gets or sets a  **[GroupCriteria](Project.GroupCriterion.md)** collection representing the fields in a group definition. Read/write **GroupCriteria**.
+Gets or sets a **[GroupCriteria](Project.GroupCriterion.md)** collection representing the fields in a group definition. Read/write **GroupCriteria**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AutoCorrectEntries.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **AutoCorrectEntries** collection, which is usually an **[AutoCorrect](Word.AutoCorrect.md)** object.
+Returns an **Object** that represents the parent object of the specified **AutoCorrectEntries** collection, which is usually an **[AutoCorrect](Word.AutoCorrect.md)** object.
 
 
 ## Syntax

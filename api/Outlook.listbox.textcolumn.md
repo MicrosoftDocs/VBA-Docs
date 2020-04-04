@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # ListBox.TextColumn Property (Outlook Forms Script)
 
-Returns or sets a  **Variant** that identifies the column in a **[ListBox](Outlook.listbox.md)** to display to the user. Read/write.
+Returns or sets a **Variant** that identifies the column in a **[ListBox](Outlook.listbox.md)** to display to the user. Read/write.
 
 
 ## Syntax
 
 _expression_.**TextColumn**
 
-_expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a **ListBox** object.
 
 
 ## Remarks

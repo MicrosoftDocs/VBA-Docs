@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # ViewCombination.Name property (Project)
 
-Gets the name of a  **ViewCombination** object. Read/write **String**.
+Gets the name of a **ViewCombination** object. Read/write **String**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SlideRange.CustomerData property (PowerPoint)
 
-Returns a  **[CustomerData](PowerPoint.CustomerData.md)** object. Read-only.
+Returns a **[CustomerData](PowerPoint.CustomerData.md)** object. Read-only.
 
 
 ## Syntax

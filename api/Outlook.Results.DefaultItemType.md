@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Results.DefaultItemType property (Outlook)
 
-Returns an  **[OlItemType](Outlook.OlItemType.md)** constant indicating the default Outlook item type contained in the folder. Read/write.
+Returns an **[OlItemType](Outlook.OlItemType.md)** constant indicating the default Outlook item type contained in the folder. Read/write.
 
 
 ## Syntax

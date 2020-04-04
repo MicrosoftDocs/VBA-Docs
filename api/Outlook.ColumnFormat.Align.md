@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ColumnFormat.Align property (Outlook)
 
-Returns or sets an  **[OlAlign](Outlook.OlAlign.md)** constant that indicates the alignment of the column label for the property to which the **[ColumnFormat](Outlook.ColumnFormat.md)** object is associated. Read/write.
+Returns or sets an **[OlAlign](Outlook.OlAlign.md)** constant that indicates the alignment of the column label for the property to which the **[ColumnFormat](Outlook.ColumnFormat.md)** object is associated. Read/write.
 
 
 ## Syntax

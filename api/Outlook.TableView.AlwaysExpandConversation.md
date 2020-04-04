@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableView.AlwaysExpandConversation property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether conversations are always fully expanded in the table view. Read/write.
+Returns or sets a **Boolean** value that indicates whether conversations are always fully expanded in the table view. Read/write.
 
 
 ## Syntax

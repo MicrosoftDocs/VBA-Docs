@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RecurrencePattern.MonthOfYear property (Outlook)
 
-Returns or sets a  **Long** indicating which month of the year is valid for the specified recurrence pattern. Read/write.
+Returns or sets a **Long** indicating which month of the year is valid for the specified recurrence pattern. Read/write.
 
 
 ## Syntax

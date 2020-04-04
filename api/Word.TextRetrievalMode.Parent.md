@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextRetrievalMode.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **TextRetrievalMode** object.
+Returns an **Object** that represents the parent object of the specified **TextRetrievalMode** object.
 
 
 ## Syntax

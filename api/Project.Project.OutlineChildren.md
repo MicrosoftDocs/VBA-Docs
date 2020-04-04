@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Project.OutlineChildren property (Project)
 
-Gets a  **[Tasks](Project.Task.md)** collection representing the children of a task in the outline structure. Read-only **Tasks**.
+Gets a **[Tasks](Project.Task.md)** collection representing the children of a task in the outline structure. Read-only **Tasks**.
 
 
 ## Syntax

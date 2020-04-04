@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Project.TaskFilters property (Project)
 
-Gets a  **[Filters](Project.Filter.md)** collection of the task filters in the project. Read-only **Filters**.
+Gets a **[Filters](Project.Filter.md)** collection of the task filters in the project. Read-only **Filters**.
 
 
 ## Syntax

@@ -36,7 +36,7 @@ _expression_ A variable that represents a 'FormRegionStartup' object.
 
 ## Return value
 
-A Variant that is either a byte-array that represents the original bytes of the image file or an  **IPictureDisp** object.
+A Variant that is either a byte-array that represents the original bytes of the image file or an **IPictureDisp** object.
 
 
 ## Remarks

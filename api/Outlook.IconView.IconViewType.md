@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # IconView.IconViewType property (Outlook)
 
-Returns or sets an  **[OlIconViewType](Outlook.OlIconViewType.md)** constant that determines how Outlook items are displayed in the **[IconView](Outlook.IconView.md)** object. Read/write.
+Returns or sets an **[OlIconViewType](Outlook.OlIconViewType.md)** constant that determines how Outlook items are displayed in the **[IconView](Outlook.IconView.md)** object. Read/write.
 
 
 ## Syntax

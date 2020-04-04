@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Month.Index property (Project)
 
-Gets the index of a  **Month** object in the containing **Months** collection. Read-only **Integer**.
+Gets the index of a **Month** object in the containing **Months** collection. Read-only **Integer**.
 
 
 ## Syntax

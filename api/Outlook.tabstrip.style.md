@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # TabStrip.Style Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that identifies the style of the tabs on the control. Read/write.
+Returns or sets an **Integer** that identifies the style of the tabs on the control. Read/write.
 
 
 ## Syntax

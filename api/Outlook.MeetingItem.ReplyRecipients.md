@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MeetingItem.ReplyRecipients property (Outlook)
 
-Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents all the reply recipient objects for the Outlook item. Read-only.
+Returns a **[Recipients](Outlook.Recipients.md)** collection that represents all the reply recipient objects for the Outlook item. Read-only.
 
 
 ## Syntax

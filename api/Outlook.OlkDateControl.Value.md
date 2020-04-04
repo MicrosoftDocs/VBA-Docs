@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkDateControl.Value property (Outlook)
 
-Returns or sets a  **Variant** that represents the content of the control. Read/write.
+Returns or sets a **Variant** that represents the content of the control. Read/write.
 
 
 ## Syntax

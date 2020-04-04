@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Selection.ShapeRange property (PowerPoint)
 
-Returns a  **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents all the slide objects that have been selected on the specified slide. Read-only.
+Returns a **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents all the slide objects that have been selected on the specified slide. Read-only.
 
 
 ## Syntax

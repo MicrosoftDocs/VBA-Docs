@@ -16,7 +16,7 @@ This message is displayed when an error generated with the  **Raise** method or 
 
 
 
-- Your application executed an  **Err.Raise**_n_ or **Error**_n_ statement, but the number _n_ isn't defined by Visual Basic for Applications. If this was what was intended, you must use **Err.Raise** and specify additional arguments so that an end user can understand the nature of the error. For example, you can include a description string, source, and help information. To regenerate an error that you trapped, this approach will work if you don't execute **Err.Clear** before regenerating the error. If you execute **Err.Clear** first, you must fill in the additional arguments to the **Raise** method. Look at the context in which the error occurred, and make sure you are regenerating the same error.
+- Your application executed an **Err.Raise**_n_ or **Error**_n_ statement, but the number _n_ isn't defined by Visual Basic for Applications. If this was what was intended, you must use **Err.Raise** and specify additional arguments so that an end user can understand the nature of the error. For example, you can include a description string, source, and help information. To regenerate an error that you trapped, this approach will work if you don't execute **Err.Clear** before regenerating the error. If you execute **Err.Clear** first, you must fill in the additional arguments to the **Raise** method. Look at the context in which the error occurred, and make sure you are regenerating the same error.
     
 - It may be that in accessing objects from other applications, an error was propagated back to your program that can't be mapped to a Visual Basic error.
 

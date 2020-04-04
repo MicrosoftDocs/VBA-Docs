@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlAccountType enumeration (Outlook)
 
-Specifies the type of an  **[Account](Outlook.Account.md)**.
+Specifies the type of an **[Account](Outlook.Account.md)**.
 
 
 

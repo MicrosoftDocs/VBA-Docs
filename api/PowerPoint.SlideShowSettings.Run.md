@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SlideShowSettings.Run method (PowerPoint)
 
-Runs a slide show of the specified presentation. Returns a  **[SlideShowWindow](PowerPoint.SlideShowWindow.md)** object.
+Runs a slide show of the specified presentation. Returns a **[SlideShowWindow](PowerPoint.SlideShowWindow.md)** object.
 
 
 ## Syntax

@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Frame.Cycle Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies whether cycling includes controls nested in a **[Frame](Outlook.frame.md)**. Read/write.
+Returns or sets an **Integer** that specifies whether cycling includes controls nested in a **[Frame](Outlook.frame.md)**. Read/write.
 
 
 ## Syntax

@@ -31,7 +31,7 @@ A **Folder** object that represents the Outlook Contacts folder for the **Addres
 
 ## Remarks
 
-This method allows you to match an  **AddressList** for the Contacts folder that you would like to set up as the initial address list in the **Select Names** dialog box.
+This method allows you to match an **AddressList** for the Contacts folder that you would like to set up as the initial address list in the **Select Names** dialog box.
 
 
 ## Example

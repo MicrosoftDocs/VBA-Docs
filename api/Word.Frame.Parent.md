@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Frame.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Frame** object.
+Returns an **Object** that represents the parent object of the specified **Frame** object.
 
 
 ## Syntax

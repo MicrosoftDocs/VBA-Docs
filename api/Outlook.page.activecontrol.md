@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Page.ActiveControl Property (Outlook Forms Script)
 
-Returns an  **Object** that has the focus. Read-only.
+Returns an **Object** that has the focus. Read-only.
 
 
 ## Syntax

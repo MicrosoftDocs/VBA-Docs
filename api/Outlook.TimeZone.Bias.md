@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimeZone.Bias property (Outlook)
 
-Returns a  **Long** value that represents the difference in minutes of between the local time in this time zone and the Coordinated Universal Time (UTC). Read-only.
+Returns a **Long** value that represents the difference in minutes of between the local time in this time zone and the Coordinated Universal Time (UTC). Read-only.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.Baseline4Cost property (Project)
 
-Gets or sets the baseline cost for a  **Resource**. Read/write **Variant**.
+Gets or sets the baseline cost for a **Resource**. Read/write **Variant**.
 
 
 ## Syntax

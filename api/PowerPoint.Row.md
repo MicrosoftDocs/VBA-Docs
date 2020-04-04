@@ -35,7 +35,7 @@ Use the [Select](PowerPoint.Row.Select.md)method to select a row in a table. Thi
 ActivePresentation.Slides(2).Shapes(5).Table.Rows(1).Select
 ```
 
-Use the [Cells](PowerPoint.Row.Cells.md)property to modify the individual cells in a  **Row** object. This example selects the second row in the table and applies a dashed line style to the bottom border.
+Use the [Cells](PowerPoint.Row.Cells.md)property to modify the individual cells in a **Row** object. This example selects the second row in the table and applies a dashed line style to the bottom border.
 
 
 

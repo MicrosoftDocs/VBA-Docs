@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Page.Parent Property (Outlook Forms Script)
 
-Returns an  **Object** that represents the parent object of the specified page. Read-only.
+Returns an **Object** that represents the parent object of the specified page. Read-only.
 
 
 ## Syntax

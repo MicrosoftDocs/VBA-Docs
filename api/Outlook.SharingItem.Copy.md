@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.Copy method (Outlook)
 
-Creates another instance of a  **[SharingItem](Outlook.SharingItem.md)**.
+Creates another instance of a **[SharingItem](Outlook.SharingItem.md)**.
 
 
 ## Syntax

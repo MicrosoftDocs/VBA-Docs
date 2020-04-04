@@ -16,6 +16,6 @@ Creates and displays a new journal entry.
 
 _expression_.**NewJournalEntry**
 
-_expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a **ViewCtl** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

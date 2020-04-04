@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeRange.TextEffect property (PowerPoint)
 
-Returns a  **[TextEffectFormat](PowerPoint.TextEffectFormat.md)** object that contains text-effect formatting properties for the specified shape. Read-only.
+Returns a **[TextEffectFormat](PowerPoint.TextEffectFormat.md)** object that contains text-effect formatting properties for the specified shape. Read-only.
 
 
 ## Syntax

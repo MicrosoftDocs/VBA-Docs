@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.UserName property (Visio)
 
-Gets or sets the user name of an  **Application** object. Read/write.
+Gets or sets the user name of an **Application** object. Read/write.
 
 
 ## Syntax

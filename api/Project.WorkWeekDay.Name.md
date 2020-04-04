@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WorkWeekDay.Name property (Project)
 
-Gets the name of a  **WorkWeekDay** object representing a day in a work week. Read/write **String**.
+Gets the name of a **WorkWeekDay** object representing a day in a work week. Read/write **String**.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Exception.Shift1 property (Project)
 
-Gets a  **[Shift](Project.Shift.md)** object representing the first work shift in a calendar exception for a day, month, period, weekday, or throughout a year. Read-only **Shift**.
+Gets a **[Shift](Project.Shift.md)** object representing the first work shift in a calendar exception for a day, month, period, weekday, or throughout a year. Read-only **Shift**.
 
 
 ## Syntax

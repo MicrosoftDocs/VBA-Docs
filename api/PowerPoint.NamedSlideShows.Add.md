@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NamedSlideShows.Add method (PowerPoint)
 
-Creates a new named slide show and adds it to the collection of named slide shows in the specified presentation. Returns a  **[NamedSlideShow](PowerPoint.NamedSlideShow.md)** object that represents the new named slide show.
+Creates a new named slide show and adds it to the collection of named slide shows in the specified presentation. Returns a **[NamedSlideShow](PowerPoint.NamedSlideShow.md)** object that represents the new named slide show.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskItem.SendUsingAccount property (Outlook)
 
-Returns or sets an  **[Account](Outlook.Account.md)** object that represents the account under which the **[TaskItem](Outlook.TaskItem.md)** object is to be sent. Read/write.
+Returns or sets an **[Account](Outlook.Account.md)** object that represents the account under which the **[TaskItem](Outlook.TaskItem.md)** object is to be sent. Read/write.
 
 
 ## Syntax

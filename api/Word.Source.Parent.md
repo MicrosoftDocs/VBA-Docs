@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Source.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Source** object.
+Returns an **Object** that represents the parent object of the specified **Source** object.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableView.AllowInCellEditing property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether in-cell editing is allowed in the **[TableView](Outlook.TableView.md)** object. Read/write.
+Returns or sets a **Boolean** value that determines whether in-cell editing is allowed in the **[TableView](Outlook.TableView.md)** object. Read/write.
 
 
 ## Syntax

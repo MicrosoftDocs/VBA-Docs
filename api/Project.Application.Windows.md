@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.Windows property (Project)
 
-Gets a  **[Windows](Project.windows(object).md)** collection representing the open windows in the application. Read-only **Object**.
+Gets a **[Windows](Project.windows(object).md)** collection representing the open windows in the application. Read-only **Object**.
 
 
 ## Syntax

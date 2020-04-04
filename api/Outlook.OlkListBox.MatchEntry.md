@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkListBox.MatchEntry property (Outlook)
 
-Returns or sets an  **[olMatchEntry](Outlook.OlMatchEntry.md)** constant that indicates how the control searches its list as the user types. Read/write.
+Returns or sets an **[olMatchEntry](Outlook.OlMatchEntry.md)** constant that indicates how the control searches its list as the user types. Read/write.
 
 
 ## Syntax

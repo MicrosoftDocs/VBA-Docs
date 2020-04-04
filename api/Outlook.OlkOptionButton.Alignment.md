@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkOptionButton.Alignment property (Outlook)
 
-Returns or sets an  **[olAlignment](Outlook.OlAlignment.md)** constant that indicates the position of a control relative to its caption. Read/write.
+Returns or sets an **[olAlignment](Outlook.OlAlignment.md)** constant that indicates the position of a control relative to its caption. Read/write.
 
 
 ## Syntax

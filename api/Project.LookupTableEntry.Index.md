@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # LookupTableEntry.Index property (Project)
 
-Gets the index of a  **LookupTableEntry** object in the containing **LookupTable** collection. Read-only **Long**.
+Gets the index of a **LookupTableEntry** object in the containing **LookupTable** collection. Read-only **Long**.
 
 
 ## Syntax

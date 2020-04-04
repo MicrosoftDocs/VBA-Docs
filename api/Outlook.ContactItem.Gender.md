@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.Gender property (Outlook)
 
-Returns or sets an  **[OlGender](Outlook.OlGender.md)** constant indicating the gender of the contact. Read/write.
+Returns or sets an **[OlGender](Outlook.OlGender.md)** constant indicating the gender of the contact. Read/write.
 
 
 ## Syntax

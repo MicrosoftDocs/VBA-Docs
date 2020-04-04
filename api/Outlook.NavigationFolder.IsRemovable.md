@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationFolder.IsRemovable property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the **[NavigationFolder](Outlook.NavigationFolder.md)** object can be removed from the navigation pane. Read-only.
+Returns a **Boolean** value that indicates whether the **[NavigationFolder](Outlook.NavigationFolder.md)** object can be removed from the navigation pane. Read-only.
 
 
 ## Syntax

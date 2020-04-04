@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskItem.TotalWork property (Outlook)
 
-Returns or sets a  **Long** indicating the total work for the task. Read/write.
+Returns or sets a **Long** indicating the total work for the task. Read/write.
 
 
 ## Syntax

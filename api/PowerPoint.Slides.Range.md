@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Slides.Range method (PowerPoint)
 
-Returns a  **[SlideRange](PowerPoint.SlideRange.md)** object that represents a subset of the slides in a **[Slides](PowerPoint.Slides.md)** collection.
+Returns a **[SlideRange](PowerPoint.SlideRange.md)** object that represents a subset of the slides in a **[Slides](PowerPoint.Slides.md)** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Slides](PowerPoint.Slides.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Optional|**Variant**|The individual slides that are to be included in the range. Can be an  **Integer** that specifies the index number of the slide, a **String** that specifies the name of the slide, or an array that contains either integers or strings. If this argument is omitted, the **Range** method returns all the objects in the specified collection.|
+| _Index_|Optional|**Variant**|The individual slides that are to be included in the range. Can be an **Integer** that specifies the index number of the slide, a **String** that specifies the name of the slide, or an array that contains either integers or strings. If this argument is omitted, the **Range** method returns all the objects in the specified collection.|
 
 ## Return value
 

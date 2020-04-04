@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # View.Copy method (Outlook)
 
-Creates a new instance of a  **[View](Outlook.View.md)** object.
+Creates a new instance of a **[View](Outlook.View.md)** object.
 
 
 ## Syntax

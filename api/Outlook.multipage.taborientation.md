@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # MultiPage.TabOrientation Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the location of the tabs on a **[MultiPage](Outlook.multipage.md)**. Read/write.
+Returns or sets an **Integer** that specifies the location of the tabs on a **[MultiPage](Outlook.multipage.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**TabOrientation**
 
-_expression_ A variable that represents a  **MultiPage** object.
+_expression_ A variable that represents a **MultiPage** object.
 
 
 ## Remarks

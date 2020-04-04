@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Groups2.Add method (Project)
 
-Adds a  **[Group2](Project.Group2.md)** object to a **Groups2** collection.
+Adds a **[Group2](Project.Group2.md)** object to a **Groups2** collection.
 
 
 ## Syntax

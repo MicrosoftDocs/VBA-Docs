@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTextBox.WordWrap property (Outlook)
 
-Returns or sets a  **Boolean** that specifies whether the contents of a control automatically wrap at the end of a line. Read/write.
+Returns or sets a **Boolean** that specifies whether the contents of a control automatically wrap at the end of a line. Read/write.
 
 
 ## Syntax

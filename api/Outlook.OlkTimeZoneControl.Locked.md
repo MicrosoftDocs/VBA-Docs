@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTimeZoneControl.Locked property (Outlook)
 
-Returns or sets a  **Boolean** that specifies whether or not the control is locked from being changed. Read/write.
+Returns or sets a **Boolean** that specifies whether or not the control is locked from being changed. Read/write.
 
 
 ## Syntax

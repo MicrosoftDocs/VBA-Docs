@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OutlineCode.CodeMask property (Project)
 
-Gets a  **[CodeMask](Project.codemask.md)** collection representing the code mask for an outline code in Project. Read-only **CodeMask**.
+Gets a **[CodeMask](Project.codemask.md)** collection representing the code mask for an outline code in Project. Read-only **CodeMask**.
 
 
 ## Syntax

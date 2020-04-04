@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OutlookBarGroups.Item method (Outlook)
 
-Returns an  **[OutlookBarGroup](Outlook.OutlookBarGroup.md)** object from the collection.
+Returns an **[OutlookBarGroup](Outlook.OutlookBarGroup.md)** object from the collection.
 
 
 ## Syntax

@@ -20,7 +20,7 @@ Codes for Microsoft Visio events, event actions, and event IDs.
 |:-----|:-----|:-----|
 | **visActCodeAdvise**|2| **AddAdvise** action code|
 | **visActCodeRunAddon**|1| **RunAddon** action code|
-| **visEvtAdd**|32768|Event code for adding an  **Event** object, passed to the **Add** and **AddAdvise** methods. Used in conjunction with object codes for particular objects.|
+| **visEvtAdd**|32768|Event code for adding an **Event** object, passed to the **Add** and **AddAdvise** methods. Used in conjunction with object codes for particular objects.|
 | **visEvtAfterModal**|64| **AfterModal** event|
 | **visEvtApp**|4096| **Application** object|
 | **visEvtAppActivate**|1| **AppActivated** event|

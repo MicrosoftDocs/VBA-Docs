@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Border.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Border** object.
+Returns an **Object** that represents the parent object of the specified **Border** object.
 
 
 ## Syntax

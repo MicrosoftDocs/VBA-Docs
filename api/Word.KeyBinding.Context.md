@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # KeyBinding.Context property (Word)
 
-Returns an  **Object** that represents the storage location of the specified key binding. Read-only.
+Returns an **Object** that represents the storage location of the specified key binding. Read-only.
 
 
 ## Syntax

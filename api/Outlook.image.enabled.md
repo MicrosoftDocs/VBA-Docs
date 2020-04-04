@@ -16,7 +16,7 @@ Returns or sets a **Boolean** that specifies whether a control can receive the f
 
 _expression_.**Enabled**
 
-_expression_ A variable that represents an  **Image** object.
+_expression_ A variable that represents an **Image** object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Accounts.Item method (Outlook)
 
-Returns an  **[Account](Outlook.Account.md)** object specified by _Index_.
+Returns an **[Account](Outlook.Account.md)** object specified by _Index_.
 
 
 ## Syntax

@@ -23,7 +23,7 @@ _expression_ A variable that represents an [Assignment](./Project.Assignment.md)
 
 ## Remarks
 
-The parent of an  **Assignment** object can be a **Task** or a **Resource**.
+The parent of an **Assignment** object can be a **Task** or a **Resource**.
 
 Use the  **Parent** property to access the properties or methods of the parent of an object.
 

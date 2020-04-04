@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # ViewCombination.Index property (Project)
 
-Gets the index of a  **ViewCombination** object in the **ViewsCombination** containing object. Read-only **Long**.
+Gets the index of a **ViewCombination** object in the **ViewsCombination** containing object. Read-only **Long**.
 
 
 ## Syntax

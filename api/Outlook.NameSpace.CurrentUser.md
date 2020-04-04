@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.CurrentUser property (Outlook)
 
-Returns the display name of the currently logged-on user as a  **[Recipient](Outlook.Recipient.md)** object. Read-only.
+Returns the display name of the currently logged-on user as a **[Recipient](Outlook.Recipient.md)** object. Read-only.
 
 
 ## Syntax

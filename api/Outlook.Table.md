@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Table object (Outlook)
 
-Represents a set of item data from a  **[Folder](Outlook.Folder.md)** or **[Search](Outlook.Search.md)** object, with items as rows of the table and properties as columns of the table.
+Represents a set of item data from a **[Folder](Outlook.Folder.md)** or **[Search](Outlook.Search.md)** object, with items as rows of the table and properties as columns of the table.
 
 
 ## Remarks

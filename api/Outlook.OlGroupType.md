@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlGroupType enumeration (Outlook)
 
-Identifies the group type of a  **[NavigationGroup](Outlook.NavigationGroup.md)** object.
+Identifies the group type of a **[NavigationGroup](Outlook.NavigationGroup.md)** object.
 
 
 

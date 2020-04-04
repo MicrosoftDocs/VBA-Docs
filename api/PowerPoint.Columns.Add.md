@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Columns.Add method (PowerPoint)
 
-Adds a new column to an existing table. Returns a  **[Column](PowerPoint.Column.md)** object that represents the new table column.
+Adds a new column to an existing table. Returns a **[Column](PowerPoint.Column.md)** object that represents the new table column.
 
 
 ## Syntax

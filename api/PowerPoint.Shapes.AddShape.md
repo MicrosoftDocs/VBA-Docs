@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shapes.AddShape method (PowerPoint)
 
-Creates an AutoShape. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the new AutoShape.
+Creates an AutoShape. Returns a **[Shape](PowerPoint.Shape.md)** object that represents the new AutoShape.
 
 
 ## Syntax

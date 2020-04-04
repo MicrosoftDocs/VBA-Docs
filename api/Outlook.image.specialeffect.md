@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # Image.SpecialEffect Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the visual appearance of an object. Read/write.
+Returns or sets an **Integer** that specifies the visual appearance of an object. Read/write.
 
 
 ## Syntax
 
 _expression_.**SpecialEffect**
 
-_expression_ A variable that represents an  **Image** object.
+_expression_ A variable that represents an **Image** object.
 
 
 ## Remarks

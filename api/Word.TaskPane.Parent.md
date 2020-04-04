@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskPane.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **TaskPane** object.
+Returns an **Object** that represents the parent object of the specified **TaskPane** object.
 
 
 ## Syntax

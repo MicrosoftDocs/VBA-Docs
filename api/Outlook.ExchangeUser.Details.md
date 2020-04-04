@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeUser.Details method (Outlook)
 
-Displays a modal dialog box that provides detailed information about an  **[ExchangeUser](Outlook.ExchangeUser.md)** object.
+Displays a modal dialog box that provides detailed information about an **[ExchangeUser](Outlook.ExchangeUser.md)** object.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AddressEntry.GetExchangeUser method (Outlook)
 
-Returns an  **[ExchangeUser](Outlook.ExchangeUser.md)** object that represents the **[AddressEntry](Outlook.AddressEntry.md)** if the **AddressEntry** belongs to an Exchange **[AddressList](Outlook.AddressList.md)** object such as the Global Address List (GAL) and corresponds to an Exchange user.
+Returns an **[ExchangeUser](Outlook.ExchangeUser.md)** object that represents the **[AddressEntry](Outlook.AddressEntry.md)** if the **AddressEntry** belongs to an Exchange **[AddressList](Outlook.AddressList.md)** object such as the Global Address List (GAL) and corresponds to an Exchange user.
 
 
 ## Syntax

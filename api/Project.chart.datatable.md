@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Chart.DataTable property (Project)
-Gets an  **Office.IMsoDataTable** object that represents the chart data table. Read-only **IMsoDataTable**.
+Gets an **Office.IMsoDataTable** object that represents the chart data table. Read-only **IMsoDataTable**.
 
 ## Syntax
 

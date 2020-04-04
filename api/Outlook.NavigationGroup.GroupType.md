@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationGroup.GroupType property (Outlook)
 
-Returns an  **[OlGroupType](Outlook.OlGroupType.md)** constant that indicates the group type for the **[NavigationGroup](Outlook.NavigationGroup.md)** object. Read-only.
+Returns an **[OlGroupType](Outlook.OlGroupType.md)** constant that indicates the group type for the **[NavigationGroup](Outlook.NavigationGroup.md)** object. Read-only.
 
 
 ## Syntax

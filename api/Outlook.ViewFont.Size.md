@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ViewFont.Size property (Outlook)
 
-Returns or sets a  **Long** value that represents the size (in points) of the font in the view. Read-only.
+Returns or sets a **Long** value that represents the size (in points) of the font in the view. Read-only.
 
 
 ## Syntax

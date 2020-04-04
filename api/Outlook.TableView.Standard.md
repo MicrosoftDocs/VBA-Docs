@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableView.Standard property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the **[TableView](Outlook.TableView.md)** object is a built-in Outlook view. Read-only.
+Returns a **Boolean** value that indicates whether the **[TableView](Outlook.TableView.md)** object is a built-in Outlook view. Read-only.
 
 
 ## Syntax

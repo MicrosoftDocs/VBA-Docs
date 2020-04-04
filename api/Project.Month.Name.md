@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Month.Name property (Project)
 
-Gets the name of a  **Month** object. Read-only **String**.
+Gets the name of a **Month** object. Read-only **String**.
 
 
 ## Syntax

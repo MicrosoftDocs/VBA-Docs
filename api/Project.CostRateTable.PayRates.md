@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # CostRateTable.PayRates property (Project)
 
-Gets a  **[PayRates](Project.PayRate.md)** collection that represents the various pay rates on the cost rate table for a resource. Read-only **PayRates**.
+Gets a **[PayRates](Project.PayRate.md)** collection that represents the various pay rates on the cost rate table for a resource. Read-only **PayRates**.
 
 
 ## Syntax

@@ -16,7 +16,7 @@ Creates and displays a new contact.
 
 _expression_.**NewContact**
 
-_expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

@@ -20,14 +20,14 @@ Indicates the view object type.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **olBusinessCardView**|5|Represents a  **[BusinessCardView](Outlook.businessCardView.md)** object.|
-| **olCalendarView**|2|Represents a  **[CalendarView](Outlook.CalendarView.md)** object.|
-| **olCardView**|1|Represents a  **[CardView](Outlook.CardView.md)** object.|
+| **olBusinessCardView**|5|Represents a **[BusinessCardView](Outlook.businessCardView.md)** object.|
+| **olCalendarView**|2|Represents a **[CalendarView](Outlook.CalendarView.md)** object.|
+| **olCardView**|1|Represents a **[CardView](Outlook.CardView.md)** object.|
 | **olDailyTaskListView**|1|Represents the  **[TableView](Outlook.TableView.md)** object that contains the daily task list in a calendar view.|
 | **olIconView**|3|Represents an **[IconView](Outlook.IconView.md)** object.|
 | **olPeopleView**|7|Represents a [PeopleView](Outlook.peopleview.md) object.|
-| **olTableView**|0|Represents a  **[TableView](Outlook.TableView.md)** object.|
-| **olTimelineView**|4|Represents a  **[TimelineView](Outlook.TimelineView.md)** object.|
+| **olTableView**|0|Represents a **[TableView](Outlook.TableView.md)** object.|
+| **olTimelineView**|4|Represents a **[TimelineView](Outlook.TimelineView.md)** object.|
 
 ## Remarks
 

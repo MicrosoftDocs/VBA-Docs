@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Paragraph.ListNumberOriginal property (Word)
 
-Returns an  **Integer** that represents the original list level for a paragraph. Read-only.
+Returns an **Integer** that represents the original list level for a paragraph. Read-only.
 
 
 ## Syntax

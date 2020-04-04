@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableOfAuthorities.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **TableOfAuthorities** object.
+Returns an **Object** that represents the parent object of the specified **TableOfAuthorities** object.
 
 
 ## Syntax

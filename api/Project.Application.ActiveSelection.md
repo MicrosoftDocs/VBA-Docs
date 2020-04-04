@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ActiveSelection property (Project)
 
-Gets a  **[Selection](Project.Selection.md)** object that represents the active selection. Read-only **Selection**.
+Gets a **[Selection](Project.Selection.md)** object that represents the active selection. Read-only **Selection**.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WeekDay.Name property (Project)
 
-Gets the name of a  **Weekday** object. Read-only **String**.
+Gets the name of a **Weekday** object. Read-only **String**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shapes.AddTitle method (PowerPoint)
 
-Restores a previously deleted title placeholder to a slide. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the restored title.
+Restores a previously deleted title placeholder to a slide. Returns a **[Shape](PowerPoint.Shape.md)** object that represents the restored title.
 
 
 ## Syntax

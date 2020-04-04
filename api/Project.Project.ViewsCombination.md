@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Project.ViewsCombination property (Project)
 
-Gets a  **[ViewsCombination](Project.ViewCombination.md)** collection representing the combination views of the project. Read-only **ViewsCombination**.
+Gets a **[ViewsCombination](Project.ViewCombination.md)** collection representing the combination views of the project. Read-only **ViewsCombination**.
 
 
 ## Syntax

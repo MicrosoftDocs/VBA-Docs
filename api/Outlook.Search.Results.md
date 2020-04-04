@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Search.Results property (Outlook)
 
-Returns a  **[Results](Outlook.Results.md)** collection that specifies the results of the search. Read-only.
+Returns a **[Results](Outlook.Results.md)** collection that specifies the results of the search. Read-only.
 
 
 ## Syntax

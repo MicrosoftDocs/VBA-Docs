@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Comment.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Comment** object.
+Returns an **Object** that represents the parent object of the specified **Comment** object.
 
 
 ## Syntax

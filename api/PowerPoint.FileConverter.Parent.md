@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FileConverter.Parent property (PowerPoint)
 
-Returns an  **Object** that represents the parent object of the specified **[FileConverter](PowerPoint.FileConverter.md)** object.
+Returns an **Object** that represents the parent object of the specified **[FileConverter](PowerPoint.FileConverter.md)** object.
 
 
 ## Syntax

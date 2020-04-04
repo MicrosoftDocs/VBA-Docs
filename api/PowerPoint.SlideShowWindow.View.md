@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SlideShowWindow.View property (PowerPoint)
 
-Returns a  **[SlideShowView](PowerPoint.SlideShowView.md)** object. Read-only.
+Returns a **[SlideShowView](PowerPoint.SlideShowView.md)** object. Read-only.
 
 
 ## Syntax

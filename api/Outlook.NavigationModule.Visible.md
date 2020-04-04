@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationModule.Visible property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether the **[NavigationModule](Outlook.NavigationModule.md)** object is displayed in the navigation pane. Read/write.
+Returns or sets a **Boolean** value that determines whether the **[NavigationModule](Outlook.NavigationModule.md)** object is displayed in the navigation pane. Read/write.
 
 
 ## Syntax

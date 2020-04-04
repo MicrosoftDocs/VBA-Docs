@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.Move method (Outlook)
 
-Moves a  **[SharingItem](Outlook.SharingItem.md)** to a new folder.
+Moves a **[SharingItem](Outlook.SharingItem.md)** to a new folder.
 
 
 ## Syntax

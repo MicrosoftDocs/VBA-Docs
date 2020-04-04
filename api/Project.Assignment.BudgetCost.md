@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Assignment.BudgetCost property (Project)
 
-Gets or sets the budget cost for an  **Assignment**. Read/write **Variant**.
+Gets or sets the budget cost for an **Assignment**. Read/write **Variant**.
 
 
 ## Syntax

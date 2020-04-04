@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PrintRanges.Add method (PowerPoint)
 
-Returns a  **[PrintRange](PowerPoint.PrintRange.md)** object that represents a new print range to be added to the **PrintRanges** collection.
+Returns a **[PrintRange](PowerPoint.PrintRange.md)** object that represents a new print range to be added to the **PrintRanges** collection.
 
 
 ## Syntax

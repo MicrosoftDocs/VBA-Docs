@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Frame.PictureSizeMode Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies how to display the background picture on a **[Frame](Outlook.frame.md)**. Read/write.
+Returns or sets an **Integer** that specifies how to display the background picture on a **[Frame](Outlook.frame.md)**. Read/write.
 
 
 ## Syntax

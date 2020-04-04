@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.Created property (Project)
 
-Gets the date a  **Resource** was created. Read-only **Variant**.
+Gets the date a **Resource** was created. Read-only **Variant**.
 
 
 ## Syntax

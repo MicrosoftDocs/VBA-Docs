@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # ResourceGroups.Add method (Project)
 
-Adds a  **Group** object to a **ResourceGroups** collection.
+Adds a **Group** object to a **ResourceGroups** collection.
 
 
 ## Syntax

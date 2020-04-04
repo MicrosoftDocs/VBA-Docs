@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Project.Name property (Project)
 
-Gets the name of a  **Project** object. Read-only **String**.
+Gets the name of a **Project** object. Read-only **String**.
 
 
 ## Syntax

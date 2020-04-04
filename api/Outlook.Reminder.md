@@ -23,7 +23,7 @@ Reminders allow users to keep track of upcoming appointments by scheduling a pop
 
 Use  **[Reminders](Outlook.Application.Reminders.md)** (_index_), where _index_ is the name or index number of the reminder, to return a single **Reminder** object.
 
-Reminders are created programmatically when a new Microsoft Outlook item, such as an  **[AppointmentItem](Outlook.AppointmentItem.md)** object, is created and the item 's **[ReminderSet](Outlook.AppointmentItem.ReminderSet.md)** property is set to **True**.
+Reminders are created programmatically when a new Microsoft Outlook item, such as an **[AppointmentItem](Outlook.AppointmentItem.md)** object, is created and the item 's **[ReminderSet](Outlook.AppointmentItem.ReminderSet.md)** property is set to **True**.
 
 Use the  **Reminders** collection's **[Remove](Outlook.Reminders.Remove.md)** method to remove a **Reminder** object from the collection. Once a reminder is removed from its associated item, the **AppointmentItem** object's **ReminderSet** property is set to **False**.
 

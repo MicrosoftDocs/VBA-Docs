@@ -26,7 +26,7 @@ Use  **AddressEntries** (_index_), where _index_ is the index number of an addre
 
 ## Example
 
-The following example sets a reference to an  **AddressEntry** object.
+The following example sets a reference to an **AddressEntry** object.
 
 
 ```vb

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskRequestDeclineItem.ItemProperties property (Outlook)
 
-Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that represents all standard and user-defined properties associated with the Outlook item. Read-only.
+Returns an **[ItemProperties](Outlook.ItemProperties.md)** collection that represents all standard and user-defined properties associated with the Outlook item. Read-only.
 
 
 ## Syntax

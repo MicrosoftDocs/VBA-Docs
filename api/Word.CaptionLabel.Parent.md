@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CaptionLabel.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **CaptionLabel** object.
+Returns an **Object** that represents the parent object of the specified **CaptionLabel** object.
 
 
 ## Syntax

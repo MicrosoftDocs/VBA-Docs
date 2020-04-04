@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ActivePresentation property (PowerPoint)
 
-Returns a  **[Presentation](PowerPoint.Presentation.md)** object that represents the presentation open in the active window. Read-only.
+Returns a **[Presentation](PowerPoint.Presentation.md)** object that represents the presentation open in the active window. Read-only.
 
 
 ## Syntax

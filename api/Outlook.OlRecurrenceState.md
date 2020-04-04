@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlRecurrenceState enumeration (Outlook)
 
-Indicates the recurrence state of an  **AppointmentItem**.
+Indicates the recurrence state of an **AppointmentItem**.
 
 
 

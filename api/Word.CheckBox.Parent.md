@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CheckBox.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **CheckBox** object.
+Returns an **Object** that represents the parent object of the specified **CheckBox** object.
 
 
 ## Syntax

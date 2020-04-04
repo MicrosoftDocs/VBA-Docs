@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTextBox.Enabled property (Outlook)
 
-Returns or sets a  **Boolean** that indicates if the control is allowed to function. Read/write.
+Returns or sets a **Boolean** that indicates if the control is allowed to function. Read/write.
 
 
 ## Syntax

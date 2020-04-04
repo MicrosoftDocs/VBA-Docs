@@ -19,7 +19,7 @@ Represents a post in a public folder that others may browse.
 
 ## Remarks
 
-Unlike a  **[MailItem](Outlook.MailItem.md)** object, a **PostItem** object is not sent to a recipient. You use the **[Post](Outlook.PostItem.Post.md)** method, which is analogous to the **[Send](Outlook.MailItem.Send(method).md)** method for the **MailItem** object, to save the **PostItem** to the target public folder instead of mailing it.
+Unlike a **[MailItem](Outlook.MailItem.md)** object, a **PostItem** object is not sent to a recipient. You use the **[Post](Outlook.PostItem.Post.md)** method, which is analogous to the **[Send](Outlook.MailItem.Send(method).md)** method for the **MailItem** object, to save the **PostItem** to the target public folder instead of mailing it.
 
 Use the  **[CreateItem](Outlook.Application.CreateItem.md)** or **[CreateItemFromTemplate](Outlook.Application.CreateItemFromTemplate.md)** method to create a **PostItem** object that represents a new post.
 

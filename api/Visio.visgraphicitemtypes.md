@@ -22,7 +22,7 @@ Represent the types of graphic items that can be added to data graphics. Returne
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **visTypeIconSet**|2|Represents an  **Icon Set** graphic item.|
+| **visTypeIconSet**|2|Represents an **Icon Set** graphic item.|
 | **visTypeTextCallout**|3|Represents a **Text** graphic item.|
 | **visTypeDataBar**|4|Represents a **Data Bar** graphic item.|
 | **visTypeColorByValue**|5|Represents a **Clor by Value** graphic item.|

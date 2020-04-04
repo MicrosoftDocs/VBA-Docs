@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Stores](Outlook.Stores.md) object.
 
 ## Remarks
 
-The parent of a  **[Stores](Outlook.Stores.md)** object is the **[NameSpace](Outlook.NameSpace.md)** object.
+The parent of a **[Stores](Outlook.Stores.md)** object is the **[NameSpace](Outlook.NameSpace.md)** object.
 
 
 ## See also

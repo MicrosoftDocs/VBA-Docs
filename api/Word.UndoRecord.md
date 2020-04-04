@@ -24,7 +24,7 @@ Use the  **UndoRecord** object to create and modify custom undo records in the W
 
 ## Example
 
-The following code example instantiates an  **UndoRecord** object.
+The following code example instantiates an **UndoRecord** object.
 
 
 ```vb

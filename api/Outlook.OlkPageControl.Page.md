@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkPageControl.Page property (Outlook)
 
-Returns or sets an  **[OlPageType](Outlook.OlPageType.md)** constant that specifies the type of page that will be displayed in this control. Read/write.
+Returns or sets an **[OlPageType](Outlook.OlPageType.md)** constant that specifies the type of page that will be displayed in this control. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.AddressLists property (Outlook)
 
-Returns an  **[AddressLists](Outlook.AddressLists.md)** collection representing a collection of the address lists available for this session. Read-only.
+Returns an **[AddressLists](Outlook.AddressLists.md)** collection representing a collection of the address lists available for this session. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # HeadersFooters.DateAndTime property (PowerPoint)
 
-Returns a  **[HeaderFooter](PowerPoint.HeaderFooter.md)** object that represents the date and time item that appears in the lower-left corner of a slide or in the upper-right corner of a notes page, handout, or outline. Read-only.
+Returns a **[HeaderFooter](PowerPoint.HeaderFooter.md)** object that represents the date and time item that appears in the lower-left corner of a slide or in the upper-right corner of a notes page, handout, or outline. Read-only.
 
 
 ## Syntax

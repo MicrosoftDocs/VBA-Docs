@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Projects.Add method (Project)
 
-Adds a  **Project** object to a **Projects** collection.
+Adds a **Project** object to a **Projects** collection.
 
 
 ## Syntax

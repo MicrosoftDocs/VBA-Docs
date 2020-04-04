@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.BodyFormat property (Outlook)
 
-Returns or sets an  **[OlBodyFormat](Outlook.OlBodyFormat.md)** constant indicating the format of the body text. Read/write.
+Returns or sets an **[OlBodyFormat](Outlook.OlBodyFormat.md)** constant indicating the format of the body text. Read/write.
 
 
 ## Syntax

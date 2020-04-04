@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeRange.Shadow property (PowerPoint)
 
-Returns a  **[ShadowFormat](PowerPoint.ShadowFormat.md)** object that contains shadow formatting properties for the specified shapes. Read-only.
+Returns a **[ShadowFormat](PowerPoint.ShadowFormat.md)** object that contains shadow formatting properties for the specified shapes. Read-only.
 
 
 ## Syntax

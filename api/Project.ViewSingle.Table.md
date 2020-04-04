@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ViewSingle.Table property (Project)
 
-Gets or sets a  **[Table](Project.Table.md)** object representing the table of the single view. Read/write **Table**.
+Gets or sets a **[Table](Project.Table.md)** object representing the table of the single view. Read/write **Table**.
 
 
 ## Syntax

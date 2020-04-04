@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AddIns.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the **Addins** collection. This is usually an **[Application](Word.Application.md)** object.
+Returns an **Object** that represents the parent object of the **Addins** collection. This is usually an **[Application](Word.Application.md)** object.
 
 
 ## Syntax

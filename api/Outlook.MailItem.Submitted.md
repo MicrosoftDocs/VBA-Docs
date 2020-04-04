@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.Submitted property (Outlook)
 
-Returns a  **Boolean** value that is **True** if the item has been submitted. Read-only.
+Returns a **Boolean** value that is **True** if the item has been submitted. Read-only.
 
 
 ## Syntax

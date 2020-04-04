@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Effect.Shape property (PowerPoint)
 
-Returns a  **[Shape](PowerPoint.Shape.md)** object that represents an animated shape.
+Returns a **[Shape](PowerPoint.Shape.md)** object that represents an animated shape.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FileConverters.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **FileConverters** object.
+Returns an **Object** that represents the parent object of the specified **FileConverters** object.
 
 
 ## Syntax

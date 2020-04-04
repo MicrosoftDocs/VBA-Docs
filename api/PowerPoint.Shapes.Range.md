@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shapes.Range method (PowerPoint)
 
-Returns a  **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents a subset of the shapes in a **[Shapes](PowerPoint.Shapes.md)** collection.
+Returns a **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents a subset of the shapes in a **[Shapes](PowerPoint.Shapes.md)** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Shapes](PowerPoint.Shapes.md)** obj
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Optional|**Variant**|The individual shapes that are to be included in the range. Can be an  **Integer** that specifies the index number of the shape, a **String** that specifies the name of the shape, or an array that contains either integers or strings. If this argument is omitted, the **Range** method returns all the objects in the specified collection.|
+| _Index_|Optional|**Variant**|The individual shapes that are to be included in the range. Can be an **Integer** that specifies the index number of the shape, a **String** that specifies the name of the shape, or an array that contains either integers or strings. If this argument is omitted, the **Range** method returns all the objects in the specified collection.|
 
 ## Return value
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ActiveProject property (Project)
 
-Gets a  **[Project](Project.Project.md)** object that represents the active project. Read-only **Project**.
+Gets a **[Project](Project.Project.md)** object that represents the active project. Read-only **Project**.
 
 
 ## Syntax

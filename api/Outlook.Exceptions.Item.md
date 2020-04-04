@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Exceptions.Item method (Outlook)
 
-Returns an  **[Exception](Outlook.Exception.md)** object from the collection.
+Returns an **[Exception](Outlook.Exception.md)** object from the collection.
 
 
 ## Syntax

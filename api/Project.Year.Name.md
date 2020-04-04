@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Year.Name property (Project)
 
-Gets the name of a  **Year** object. Read-only **String**.
+Gets the name of a **Year** object. Read-only **String**.
 
 
 ## Syntax

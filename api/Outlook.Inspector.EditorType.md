@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Inspector.EditorType property (Outlook)
 
-Returns an  **[OlEditorType](Outlook.OlEditorType.md)** constant indicating the type of editor. Read-only.
+Returns an **[OlEditorType](Outlook.OlEditorType.md)** constant indicating the type of editor. Read-only.
 
 
 ## Syntax

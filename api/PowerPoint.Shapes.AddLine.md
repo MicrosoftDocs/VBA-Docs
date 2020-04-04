@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shapes.AddLine method (PowerPoint)
 
-Creates a line. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the new line.
+Creates a line. Returns a **[Shape](PowerPoint.Shape.md)** object that represents the new line.
 
 
 ## Syntax

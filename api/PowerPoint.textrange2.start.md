@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # TextRange2.Start property (PowerPoint)
 
-Gets a  **Long** value indicating the starting point of the specified text range. Read-only.
+Gets a **Long** value indicating the starting point of the specified text range. Read-only.
 
 
 ## Syntax

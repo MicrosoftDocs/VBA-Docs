@@ -23,7 +23,7 @@ Presents a set of related controls as a visual group.
 | [Enabled](Outlook.tabstrip.enabled.md)|Returns or sets a **Boolean** that specifies whether a control can receive the focus and respond to user-generated events. Read/write.|
 | [ForeColor](Outlook.tabstrip.forecolor.md)|Returns or sets a **Long** that specifies the foreground color of an object. Read/write.|
 | [MouseIcon](Outlook.tabstrip.mouseicon.md)|Returns a **String** that represents the full path name of a custom icon that is to be assigned to the control. Read-only.|
-| [MousePointer](Outlook.tabstrip.mousepointer.md)|Returns or sets an  **Integer** that specifies the type of pointer displayed when the user positions the mouse over a particular object. Read/write.|
+| [MousePointer](Outlook.tabstrip.mousepointer.md)|Returns or sets an **Integer** that specifies the type of pointer displayed when the user positions the mouse over a particular object. Read/write.|
 | [MultiRow](Outlook.tabstrip.multirow.md)|Returns or sets a **Boolean** that specifies whether the control has more than one row of tabs. Read/write.|
 | [SelectedItem](Outlook.tabstrip.selecteditem.md)|Returns an **Object** that indicates the currently selected [Tab](Outlook.tab.md) object. Read-only.|
 | [Style](Outlook.tabstrip.style.md)|Returns or sets an **Integer** that identifies the style of the tabs on the control. Read/write.|

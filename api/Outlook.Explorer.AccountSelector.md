@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Explorer.AccountSelector property (Outlook)
 
-Returns an  **[AccountSelector](Outlook.AccountSelector.md)** object that represents the Microsoft Office Backstage view for the **[Explorer](Outlook.Explorer.md)** object. Read-only.
+Returns an **[AccountSelector](Outlook.AccountSelector.md)** object that represents the Microsoft Office Backstage view for the **[Explorer](Outlook.Explorer.md)** object. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Page.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Page** object.
+Returns an **Object** that represents the parent object of the specified **Page** object.
 
 
 ## Syntax

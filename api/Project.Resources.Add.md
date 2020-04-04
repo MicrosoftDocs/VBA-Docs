@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resources.Add method (Project)
 
-Adds a  **Resource** object to a **Resources** collection.
+Adds a **Resource** object to a **Resources** collection.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Year.Shift2 property (Project)
 
-Gets a  **[Shift](Project.Shift.md)** object representing the second work shift throughout a year. Read-only **Shift**.
+Gets a **[Shift](Project.Shift.md)** object representing the second work shift throughout a year. Read-only **Shift**.
 
 
 ## Syntax

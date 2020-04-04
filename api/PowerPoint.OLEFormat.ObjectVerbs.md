@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEFormat.ObjectVerbs property (PowerPoint)
 
-Returns a  **[ObjectVerbs](PowerPoint.ObjectVerbs.md)** collection that contains all the OLE verbs for the specified OLE object. Read-only.
+Returns a **[ObjectVerbs](PowerPoint.ObjectVerbs.md)** collection that contains all the OLE verbs for the specified OLE object. Read-only.
 
 
 ## Syntax

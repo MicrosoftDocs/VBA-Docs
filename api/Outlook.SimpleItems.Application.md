@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SimpleItems.Application property (Outlook)
 
-Returns an  **[Application](Outlook.Application.md)** object that represents the parent Microsoft Outlook application for the **[SimpleItems](Outlook.SimpleItems.md)** object. Read-only.
+Returns an **[Application](Outlook.Application.md)** object that represents the parent Microsoft Outlook application for the **[SimpleItems](Outlook.SimpleItems.md)** object. Read-only.
 
 
 ## Syntax

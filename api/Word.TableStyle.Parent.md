@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableStyle.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **TableStyle** object.
+Returns an **Object** that represents the parent object of the specified **TableStyle** object.
 
 
 ## Syntax

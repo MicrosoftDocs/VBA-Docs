@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ImportanceRuleCondition.Importance property (Outlook)
 
-Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicating the relative level of importance for the message. Read/write.
+Returns or sets an **[OlImportance](Outlook.OlImportance.md)** constant indicating the relative level of importance for the message. Read/write.
 
 
 ## Syntax

@@ -31,7 +31,7 @@ OLE_COLOR
 
 ## Remarks
 
-Valid values for an  **OLE_COLOR** property within Visio can be one of the following:
+Valid values for an **OLE_COLOR** property within Visio can be one of the following:
 
 
 

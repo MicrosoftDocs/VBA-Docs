@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Research.Parent property (PowerPoint)
 
-Returns an  **Object** that represents the parent object of the specified **Research** object. Read-only.
+Returns an **Object** that represents the parent object of the specified **Research** object. Read-only.
 
 
 ## Syntax

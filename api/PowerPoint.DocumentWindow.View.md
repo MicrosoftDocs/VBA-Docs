@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DocumentWindow.View property (PowerPoint)
 
-Returns a  **[View](PowerPoint.View.md)** object that represents the view in the specified document window. Read-only.
+Returns a **[View](PowerPoint.View.md)** object that represents the view in the specified document window. Read-only.
 
 
 ## Syntax

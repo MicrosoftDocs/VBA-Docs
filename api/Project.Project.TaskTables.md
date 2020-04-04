@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Project.TaskTables property (Project)
 
-Gets a  **[Tables](Project.Table.md)** collection representing the task tables in the project. Read-only **Tables**.
+Gets a **[Tables](Project.Table.md)** collection representing the task tables in the project. Read-only **Tables**.
 
 
 ## Syntax

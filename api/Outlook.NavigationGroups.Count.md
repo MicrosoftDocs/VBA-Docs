@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationGroups.Count property (Outlook)
 
-Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
+Returns a **Long** indicating the count of objects in the specified collection. Read-only.
 
 
 ## Syntax

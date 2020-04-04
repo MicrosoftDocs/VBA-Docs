@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.NoAging property (Outlook)
 
-Returns or sets a  **Boolean** value that is **True** to not age the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
+Returns or sets a **Boolean** value that is **True** to not age the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

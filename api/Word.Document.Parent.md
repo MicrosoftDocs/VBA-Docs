@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Document** object.
+Returns an **Object** that represents the parent object of the specified **Document** object.
 
 
 ## Syntax

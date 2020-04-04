@@ -30,7 +30,7 @@ _expression_. `SetResourceFieldByID`( `_FieldID_`, `_Value_`, `_AllSelectedResou
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _FieldID_|Required|**PjField**|Field identification number. Can be one of the resource fields specified by a  **[PjField](Project.PjField.md)** constant or a number returned by the **[FieldNameToFieldConstant](Project.Application.FieldNameToFieldConstant.md)** method.|
+| _FieldID_|Required|**PjField**|Field identification number. Can be one of the resource fields specified by a **[PjField](Project.PjField.md)** constant or a number returned by the **[FieldNameToFieldConstant](Project.Application.FieldNameToFieldConstant.md)** method.|
 | _Value_|Required|**String**|The value of the resource field.|
 | _AllSelectedResources_|Optional|**Boolean**|**True** if the value of the field is set for all selected resources. **False** if the value is set for the active resource. The default value is **False**.|
 | _Create_|Optional|**Boolean**|**True** if Project should create a resource if the active cell is on an empty row. The default value is **True**.|

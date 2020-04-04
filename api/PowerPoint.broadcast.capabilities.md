@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Broadcast.Capabilities property (PowerPoint)
 
-Returns a  **Long** that represents the capabilities of the specified broadcast. Read-only.
+Returns a **Long** that represents the capabilities of the specified broadcast. Read-only.
 
 
 ## Syntax

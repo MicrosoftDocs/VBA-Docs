@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.Calendar property (Project)
 
-Gets a  **[Calendar](Project.Calendar.md)** object representing a calendar for the resource. Read-only **Calendar**.
+Gets a **[Calendar](Project.Calendar.md)** object representing a calendar for the resource. Read-only **Calendar**.
 
 
 ## Syntax

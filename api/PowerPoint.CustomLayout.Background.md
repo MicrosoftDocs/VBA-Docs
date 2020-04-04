@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CustomLayout.Background property (PowerPoint)
 
-Returns a  **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents the slide background. Read-only.
+Returns a **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents the slide background. Read-only.
 
 
 ## Syntax

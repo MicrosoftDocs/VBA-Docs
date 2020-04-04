@@ -46,7 +46,7 @@ End With
 
 ## Predefined Index Values
 
-Some collections have predefined index values you can use to return single objects. Each predefined index value is represented by a constant. For example, you specify an  **xlBordersIndex** constant with the **Item** property of the **Borders** collection to return a single border.
+Some collections have predefined index values you can use to return single objects. Each predefined index value is represented by a constant. For example, you specify an **xlBordersIndex** constant with the **Item** property of the **Borders** collection to return a single border.
 
 The following example sets the bottom border of cells A1:G1 on Sheet1 to a double line.
 

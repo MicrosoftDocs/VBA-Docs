@@ -16,6 +16,6 @@ Returns or sets a **Date** value that represents the selected date. Read-only.
 
 _expression_.**SelectedDate**
 
-_expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a **ViewCtl** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CoAuthUpdates.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **CoAuthUpdates** object.
+Returns an **Object** that represents the parent object of the specified **CoAuthUpdates** object.
 
 
 ## Syntax

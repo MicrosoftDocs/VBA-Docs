@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationGroup.NavigationFolders property (Outlook)
 
-Returns a  **[NavigationFolders](Outlook.NavigationFolders.md)** object that contains the set of navigation folders associated with the **[NavigationGroup](Outlook.NavigationGroup.md)** object. Read-only.
+Returns a **[NavigationFolders](Outlook.NavigationFolders.md)** object that contains the set of navigation folders associated with the **[NavigationGroup](Outlook.NavigationGroup.md)** object. Read-only.
 
 
 ## Syntax

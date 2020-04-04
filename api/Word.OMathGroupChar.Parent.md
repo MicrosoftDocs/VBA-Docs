@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathGroupChar.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **OMathGroupChar** object.
+Returns an **Object** that represents the parent object of the specified **OMathGroupChar** object.
 
 
 ## Syntax

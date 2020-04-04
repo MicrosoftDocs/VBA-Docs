@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Year.Calendar property (Project)
 
-Gets a  **[Calendar](Project.Calendar.md)** object representing the calendar containing the **Year** object. Read-only **Calendar**.
+Gets a **[Calendar](Project.Calendar.md)** object representing the calendar containing the **Year** object. Read-only **Calendar**.
 
 
 ## Syntax

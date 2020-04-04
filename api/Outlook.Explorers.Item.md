@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Explorers.Item method (Outlook)
 
-Returns an  **[Explorer](Outlook.Explorer.md)** object from the collection.
+Returns an **[Explorer](Outlook.Explorer.md)** object from the collection.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.SendUsingAccount property (Outlook)
 
-Returns or sets an  **[Account](Outlook.Account.md)** object that represents the account under which the **[SharingItem](Outlook.SharingItem.md)** is to be sent. Read/write.
+Returns or sets an **[Account](Outlook.Account.md)** object that represents the account under which the **[SharingItem](Outlook.SharingItem.md)** is to be sent. Read/write.
 
 
 ## Syntax

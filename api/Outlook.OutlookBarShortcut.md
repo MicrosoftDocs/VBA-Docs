@@ -24,7 +24,7 @@ Use the  **[Item](Outlook.OutlookBarShortcuts.Item.md)** method to retrieve the 
 
 ## Example
 
-The following example retrieves an  **OutlookBarShortcut** object by name.
+The following example retrieves an **OutlookBarShortcut** object by name.
 
 
 ```vb

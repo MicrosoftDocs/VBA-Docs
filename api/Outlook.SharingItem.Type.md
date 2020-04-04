@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.Type property (Outlook)
 
-Returns or sets an  **[OlSharingMsgType](Outlook.OlSharingMsgType.md)** constant that indicates the type of sharing message represented by the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
+Returns or sets an **[OlSharingMsgType](Outlook.OlSharingMsgType.md)** constant that indicates the type of sharing message represented by the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

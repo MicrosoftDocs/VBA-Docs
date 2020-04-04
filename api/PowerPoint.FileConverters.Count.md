@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # FileConverters.Count property (PowerPoint)
 
-Returns a  **Long** that represents the number of file converters in the collection. Read-only.
+Returns a **Long** that represents the number of file converters in the collection. Read-only.
 
 
 ## Syntax

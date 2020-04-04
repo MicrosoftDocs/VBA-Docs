@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Rule.Actions property (Outlook)
 
-Returns a  **[RuleActions](Outlook.RuleActions.md)** collection object that represents all the available rule actions for the rule. Read-only.
+Returns a **[RuleActions](Outlook.RuleActions.md)** collection object that represents all the available rule actions for the rule. Read-only.
 
 
 ## Syntax

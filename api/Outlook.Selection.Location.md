@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Selection.Location property (Outlook)
 
-Returns an  **[OlSelectionLocation](Outlook.OlSelectionLocation.md)** constant that specifies where in the Microsoft Outlook user interface the current selection is. Read-only
+Returns an **[OlSelectionLocation](Outlook.OlSelectionLocation.md)** constant that specifies where in the Microsoft Outlook user interface the current selection is. Read-only
 
 
 ## Syntax

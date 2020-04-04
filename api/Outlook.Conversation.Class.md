@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Conversation.Class property (Outlook)
 
-Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant that indicates the object's class. Read-only.
+Returns an **[OlObjectClass](Outlook.OlObjectClass.md)** constant that indicates the object's class. Read-only.
 
 
 ## Syntax

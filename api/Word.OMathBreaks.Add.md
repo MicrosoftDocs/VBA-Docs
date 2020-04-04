@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathBreaks.Add method (Word)
 
-Inserts a break into an equation and returns an  **OMathBreak** object that represents the break.
+Inserts a break into an equation and returns an **OMathBreak** object that represents the break.
 
 
 ## Syntax

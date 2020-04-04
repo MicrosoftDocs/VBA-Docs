@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeUser.GetDirectReports method (Outlook)
 
-Obtains an  **[AddressEntries](Outlook.AddressEntries.md)** collection object that contains all the users directly reporting to the Exchange user.
+Obtains an **[AddressEntries](Outlook.AddressEntries.md)** collection object that contains all the users directly reporting to the Exchange user.
 
 
 ## Syntax

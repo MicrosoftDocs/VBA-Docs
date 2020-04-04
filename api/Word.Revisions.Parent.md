@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Revisions.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Revisions** object.
+Returns an **Object** that represents the parent object of the specified **Revisions** object.
 
 
 ## Syntax

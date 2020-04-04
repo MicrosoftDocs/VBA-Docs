@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.MarkAsTask method (Outlook)
 
-Marks a  **[SharingItem](Outlook.SharingItem.md)** object as a task and assigns a task interval for the object.
+Marks a **[SharingItem](Outlook.SharingItem.md)** object as a task and assigns a task interval for the object.
 
 
 ## Syntax

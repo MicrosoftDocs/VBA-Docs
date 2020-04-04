@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # HorizontalLineFormat.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **HorizontalLineFormat** object.
+Returns an **Object** that represents the parent object of the specified **HorizontalLineFormat** object.
 
 
 ## Syntax

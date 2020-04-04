@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Store.IsDataFileStore property (Outlook)
 
-Returns a  **Boolean** that indicates if the **[Store](Outlook.Store.md)** is a store for an Outlook data file, which is either a Personal Folders File (.pst) or an Offline Folder File (.ost). Read-only.
+Returns a **Boolean** that indicates if the **[Store](Outlook.Store.md)** is a store for an Outlook data file, which is either a Personal Folders File (.pst) or an Offline Folder File (.ost). Read-only.
 
 
 ## Syntax

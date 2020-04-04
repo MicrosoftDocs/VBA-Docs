@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Presentations.Open method (PowerPoint)
 
-Opens the specified presentation. Returns a  **[Presentation](PowerPoint.Presentation.md)** object that represents the opened presentation.
+Opens the specified presentation. Returns a **[Presentation](PowerPoint.Presentation.md)** object that represents the opened presentation.
 
 
 ## Syntax

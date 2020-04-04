@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Store.IsOpen property (Outlook)
 
-Returns a  **Boolean** that indicates if the **[Store](Outlook.Store.md)** is open. Read-only.
+Returns a **Boolean** that indicates if the **[Store](Outlook.Store.md)** is open. Read-only.
 
 
 ## Syntax

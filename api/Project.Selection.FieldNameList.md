@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Selection.FieldNameList property (Project)
 
-Gets a  **[List](Project.List.md)** object representing the field names (or column titles, if available) for all selected fields. Read-only **List**.
+Gets a **[List](Project.List.md)** object representing the field names (or column titles, if available) for all selected fields. Read-only **List**.
 
 
 ## Syntax

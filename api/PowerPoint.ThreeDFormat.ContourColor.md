@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ThreeDFormat.ContourColor property (PowerPoint)
 
-Returns a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents the color of the specified **ThreeDFormat** object's contour. Read-only.
+Returns a **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents the color of the specified **ThreeDFormat** object's contour. Read-only.
 
 
 ## Syntax

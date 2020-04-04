@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskItem.DelegationState property (Outlook)
 
-Returns an  **[OlTaskDelegationState](Outlook.OlTaskDelegationState.md)** constant indicating the delegation state of the task. Read-only.
+Returns an **[OlTaskDelegationState](Outlook.OlTaskDelegationState.md)** constant indicating the delegation state of the task. Read-only.
 
 
 ## Syntax

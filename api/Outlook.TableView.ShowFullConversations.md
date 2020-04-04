@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableView.ShowFullConversations property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether to display conversation items from other folders, such as the Sent Items folder, as part of the conversation in the table view. Read/write.
+Returns or sets a **Boolean** value that indicates whether to display conversation items from other folders, such as the Sent Items folder, as part of the conversation in the table view. Read/write.
 
 
 ## Syntax

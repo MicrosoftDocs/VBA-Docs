@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PostItem.ReminderPlaySound property (Outlook)
 
-Returns or sets a  **Boolean** value that is **True** if the reminder should play a sound when it occurs for this item. Read/write.
+Returns or sets a **Boolean** value that is **True** if the reminder should play a sound when it occurs for this item. Read/write.
 
 
 ## Syntax

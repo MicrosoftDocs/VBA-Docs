@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimelineView.ShowWeekNumbers property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether week number labels are displayed in the timeline scale for the **[TimelineView](Outlook.TimelineView.md)** object. Read/write.
+Returns or sets a **Boolean** value that indicates whether week number labels are displayed in the timeline scale for the **[TimelineView](Outlook.TimelineView.md)** object. Read/write.
 
 
 ## Syntax

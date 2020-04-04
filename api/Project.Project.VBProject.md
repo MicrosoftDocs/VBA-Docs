@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Project.VBProject property (Project)
 
-Gets a  **VBProject** object that represents the Microsoft Visual Basic project. Read-only **VBProject**.
+Gets a **VBProject** object that represents the Microsoft Visual Basic project. Read-only **VBProject**.
 
 
 ## Syntax

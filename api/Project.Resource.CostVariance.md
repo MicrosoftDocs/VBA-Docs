@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.CostVariance property (Project)
 
-Gets the variance between the baseline cost and the cost of a  **Resource**. Read-only **Variant**.
+Gets the variance between the baseline cost and the cost of a **Resource**. Read-only **Variant**.
 
 
 ## Syntax

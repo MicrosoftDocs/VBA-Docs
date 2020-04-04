@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # SlideShowWindow.SlideNavigation property (PowerPoint)
 
-Returns a  **[SlideNavigation](PowerPoint.slidenavigation.md)** object that represents the slide navigation screen in slide show view. Read-only
+Returns a **[SlideNavigation](PowerPoint.slidenavigation.md)** object that represents the slide navigation screen in slide show view. Read-only
 
 
 ## Syntax

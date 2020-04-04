@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleCondition.Enabled property (Outlook)
 
-Returns or sets a  **Boolean** that determines if the **[RuleCondition](Outlook.RuleCondition.md)** is enabled. Read/write.
+Returns or sets a **Boolean** that determines if the **[RuleCondition](Outlook.RuleCondition.md)** is enabled. Read/write.
 
 
 ## Syntax

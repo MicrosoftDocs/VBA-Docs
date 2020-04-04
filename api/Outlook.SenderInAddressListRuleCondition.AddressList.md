@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SenderInAddressListRuleCondition.AddressList property (Outlook)
 
-Returns or sets an  **[AddressList](Outlook.AddressList.md)** object that represents the address list used to evaluate the rule condition. Read/write.
+Returns or sets an **[AddressList](Outlook.AddressList.md)** object that represents the address list used to evaluate the rule condition. Read/write.
 
 
 ## Syntax

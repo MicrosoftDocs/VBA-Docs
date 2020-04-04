@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkLabel.UseHeaderColor property (Outlook)
 
-Returns or sets a  **Boolean** that indicates whether the label control should use the foreground color to match the current Windows XP or Windows Vista theme. Read/write.
+Returns or sets a **Boolean** that indicates whether the label control should use the foreground color to match the current Windows XP or Windows Vista theme. Read/write.
 
 
 ## Syntax

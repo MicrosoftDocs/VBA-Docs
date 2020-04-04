@@ -16,7 +16,7 @@ Collapses (closes) all groups that are displayed in the control.
 
 _expression_.**CollapseAllGroups**
 
-_expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

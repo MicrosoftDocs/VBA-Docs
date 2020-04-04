@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # OutlineCodes.Add method (Project)
 
-Adds an  **OutlineCode** object to an **OutlineCodes** collection.
+Adds an **OutlineCode** object to an **OutlineCodes** collection.
 
 
 ## Syntax

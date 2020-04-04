@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WorkWeekDay.Shift4 property (Project)
 
-Gets a  **[Shift](Project.Shift.md)** object representing the fourth work shift in a workweek day. Read-only **Shift**.
+Gets a **[Shift](Project.Shift.md)** object representing the fourth work shift in a workweek day. Read-only **Shift**.
 
 
 ## Syntax

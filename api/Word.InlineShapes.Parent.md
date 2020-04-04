@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # InlineShapes.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **InlineShapes** object.
+Returns an **Object** that represents the parent object of the specified **InlineShapes** object.
 
 
 ## Syntax

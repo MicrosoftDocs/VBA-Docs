@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # PpMouseActivation enumeration (PowerPoint)
 
-The action setting for a  **MouseClick** or **MouseOver** event.
+The action setting for a **MouseClick** or **MouseOver** event.
 
 
 

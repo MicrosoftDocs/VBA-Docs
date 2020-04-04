@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.ThreeD property (PowerPoint)
 
-Returns a  **[ThreeDFormat](PowerPoint.ThreeDFormat.md)** object that contains 3D - effect formatting properties for the specified shape. Read-only.
+Returns a **[ThreeDFormat](PowerPoint.ThreeDFormat.md)** object that contains 3D - effect formatting properties for the specified shape. Read-only.
 
 
 ## Syntax

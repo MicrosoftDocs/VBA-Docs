@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RemoteItem.TransferTime property (Outlook)
 
-Returns a  **Long** indicating the transfer time (in seconds) for the remote item. Read-only.
+Returns a **Long** indicating the transfer time (in seconds) for the remote item. Read-only.
 
 
 ## Syntax

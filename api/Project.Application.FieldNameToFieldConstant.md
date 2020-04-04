@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.FieldNameToFieldConstant method (Project)
 
-Returns a  **Long** value for a local custom field or an enterprise custom field name.
+Returns a **Long** value for a local custom field or an enterprise custom field name.
 
 
 ## Syntax
@@ -40,7 +40,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-If the FieldName argument is a local custom field, the returned value can be a  **[PjField](Project.PjField.md)** constant. If FieldName is an enterprise custom field, the returned value does not match a **PjField** constant because there can be an unlimited number of enterprise custom fields.
+If the FieldName argument is a local custom field, the returned value can be a **[PjField](Project.PjField.md)** constant. If FieldName is an enterprise custom field, the returned value does not match a **PjField** constant because there can be an unlimited number of enterprise custom fields.
 
 
 > [!NOTE] 

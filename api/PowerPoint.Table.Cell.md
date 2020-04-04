@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Table.Cell method (PowerPoint)
 
-Returns a  **[Cell](PowerPoint.Cell.md)** object that represents a cell in a table.
+Returns a **[Cell](PowerPoint.Cell.md)** object that represents a cell in a table.
 
 
 ## Syntax

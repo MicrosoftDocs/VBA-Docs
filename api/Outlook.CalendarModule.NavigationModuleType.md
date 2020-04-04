@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CalendarModule.NavigationModuleType property (Outlook)
 
-Returns an  **[OlNavigationModuleType](Outlook.OlNavigationModuleType.md)** constant that represents the navigation module type for the object. Read-only.
+Returns an **[OlNavigationModuleType](Outlook.OlNavigationModuleType.md)** constant that represents the navigation module type for the object. Read-only.
 
 
 ## Syntax

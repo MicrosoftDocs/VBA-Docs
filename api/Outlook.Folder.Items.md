@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folder.Items property (Outlook)
 
-Returns an  **[Items](Outlook.Items.md)** collection object as a collection of Outlook items in the specified folder. Read-only.
+Returns an **[Items](Outlook.Items.md)** collection object as a collection of Outlook items in the specified folder. Read-only.
 
 
 ## Syntax

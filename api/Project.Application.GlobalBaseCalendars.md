@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.GlobalBaseCalendars property (Project)
 
-Gets or sets a  **[Calendars](Project.Calendar.md)** collection representing the base calendars of the Global.mpt file. Read/write **Calendars**.
+Gets or sets a **[Calendars](Project.Calendar.md)** collection representing the base calendars of the Global.mpt file. Read/write **Calendars**.
 
 
 ## Syntax

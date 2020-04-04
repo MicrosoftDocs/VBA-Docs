@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Indexes.Add method (Word)
 
-Returns an  **Index** object that represents a new index added to a document.
+Returns an **Index** object that represents a new index added to a document.
 
 
 ## Syntax

@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # FullSeriesCollection.Count property (PowerPoint)
 
-Returns a  **Long** that represents the number of full series in the collection. Read-only.
+Returns a **Long** that represents the number of full series in the collection. Read-only.
 
 
 ## Syntax

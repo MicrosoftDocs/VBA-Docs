@@ -41,7 +41,7 @@ The following possible values for the  **Type** property are from the **VisGraph
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
-| **visTypeIconSet**|2|Represents an  **Icon Set** graphic item.|
+| **visTypeIconSet**|2|Represents an **Icon Set** graphic item.|
 | **visTypeTextCallout**|3|Represents a **Text** graphic item.|
 | **visTypeDataBar**|4|Represents a **Data Bar** graphic item.|
 | **visTypeColorByValue**|5|Represents a **Clor by Value** graphic item.|

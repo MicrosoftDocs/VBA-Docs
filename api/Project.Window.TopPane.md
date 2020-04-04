@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.TopPane property (Project)
 
-Gets a  **[Pane](Project.Pane.md)** object representing the top pane of the window. Read-only **Pane**.
+Gets a **[Pane](Project.Pane.md)** object representing the top pane of the window. Read-only **Pane**.
 
 
 ## Syntax

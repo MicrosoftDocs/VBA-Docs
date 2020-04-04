@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RecurrencePattern.Duration property (Outlook)
 
-Returns or sets a  **Long** indicating the duration (in minutes) of the **[RecurrencePattern](Outlook.RecurrencePattern.md)**. Read/write.
+Returns or sets a **Long** indicating the duration (in minutes) of the **[RecurrencePattern](Outlook.RecurrencePattern.md)**. Read/write.
 
 
 ## Syntax

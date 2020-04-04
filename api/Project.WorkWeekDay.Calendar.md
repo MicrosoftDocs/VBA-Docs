@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WorkWeekDay.Calendar property (Project)
 
-Gets a  **[Calendar](Project.Calendar.md)** object representing the calendar that contains the **WorkWeekDay** object. Read-only **Calendar**.
+Gets a **[Calendar](Project.Calendar.md)** object representing the calendar that contains the **WorkWeekDay** object. Read-only **Calendar**.
 
 
 ## Syntax

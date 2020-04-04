@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SlideRange.CustomLayout property (PowerPoint)
 
-Returns a  **[CustomLayout](PowerPoint.CustomLayout.md)** object that represents the custom layout associated with the specified range of slides. Read-only.
+Returns a **[CustomLayout](PowerPoint.CustomLayout.md)** object that represents the custom layout associated with the specified range of slides. Read-only.
 
 
 ## Syntax

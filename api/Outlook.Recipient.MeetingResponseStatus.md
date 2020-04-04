@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Recipient.MeetingResponseStatus property (Outlook)
 
-Returns an  **[OlResponseStatus](Outlook.OlResponseStatus.md)** constant indicating the overall status of the response to the meeting request for the recipient. Read-only.
+Returns an **[OlResponseStatus](Outlook.OlResponseStatus.md)** constant indicating the overall status of the response to the meeting request for the recipient. Read-only.
 
 
 ## Syntax

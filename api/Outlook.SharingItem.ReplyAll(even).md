@@ -32,7 +32,7 @@ _expression_. `ReplyAll`( `_Response_` , `_Cancel_` )
 
 ## Remarks
 
-Returns the reply as a  **[MailItem](Outlook.MailItem.md)** object.
+Returns the reply as a **[MailItem](Outlook.MailItem.md)** object.
 
 
 ## See also

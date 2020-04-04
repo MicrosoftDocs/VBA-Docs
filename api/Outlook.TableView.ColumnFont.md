@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableView.ColumnFont property (Outlook)
 
-Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font used when displaying column headers in the **[TableView](Outlook.TableView.md)** object. Read-only.
+Returns a **[ViewFont](Outlook.ViewFont.md)** object that represents the font used when displaying column headers in the **[TableView](Outlook.TableView.md)** object. Read-only.
 
 
 ## Syntax

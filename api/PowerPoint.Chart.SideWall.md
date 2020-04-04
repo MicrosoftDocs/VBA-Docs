@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.SideWall property (PowerPoint)
 
-Returns a  **[Walls](PowerPoint.Walls.md)** object that allows the user to individually format the side wall of a 3D chart. Read-only.
+Returns a **[Walls](PowerPoint.Walls.md)** object that allows the user to individually format the side wall of a 3D chart. Read-only.
 
 
 ## Syntax

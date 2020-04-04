@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Event.Event property (Visio)
 
-Gets or sets the event code of an  **Event** object—an event-action pair. When the event occurs, the action is performed. Read/write.
+Gets or sets the event code of an **Event** object—an event-action pair. When the event occurs, the action is performed. Read/write.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.GlobalViews property (Project)
 
-Gets or sets a  **[Views](Project.View.md)** collection representing the views in the Global.mpt file. Read/write **Views**.
+Gets or sets a **[Views](Project.View.md)** collection representing the views in the Global.mpt file. Read/write **Views**.
 
 
 ## Syntax

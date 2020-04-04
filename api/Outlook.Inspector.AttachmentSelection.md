@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Inspector.AttachmentSelection property (Outlook)
 
-Returns an  **[AttachmentSelection](Outlook.AttachmentSelection.md)** object consisting of one or more attachments that are selected in the inspector. Read-only.
+Returns an **[AttachmentSelection](Outlook.AttachmentSelection.md)** object consisting of one or more attachments that are selected in the inspector. Read-only.
 
 
 ## Syntax

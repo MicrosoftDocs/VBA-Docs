@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Fill property (PowerPoint)
 
-Returns a  **[FillFormat](PowerPoint.FillFormat.md)** object that contains fill formatting properties for the specified shape. Read-only.
+Returns a **[FillFormat](PowerPoint.FillFormat.md)** object that contains fill formatting properties for the specified shape. Read-only.
 
 
 ## Syntax

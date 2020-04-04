@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ListParagraphs.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **ListParagraphs** object.
+Returns an **Object** that represents the parent object of the specified **ListParagraphs** object.
 
 
 ## Syntax

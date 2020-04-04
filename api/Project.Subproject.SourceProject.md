@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Subproject.SourceProject property (Project)
 
-Gets a  **[Project](Project.Project.md)** object representing the master project. Read-only **Project**.
+Gets a **[Project](Project.Project.md)** object representing the master project. Read-only **Project**.
 
 
 ## Syntax

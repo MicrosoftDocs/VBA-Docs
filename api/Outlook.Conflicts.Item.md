@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Conflicts.Item method (Outlook)
 
-Returns an  **[Conflict](Outlook.Conflict.md)** object from the collection.
+Returns an **[Conflict](Outlook.Conflict.md)** object from the collection.
 
 
 ## Syntax

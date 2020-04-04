@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.ReminderSet property (Outlook)
 
-Returns or sets a  **Boolean** value that is **True** if a reminder has been set for this item. Read/write.
+Returns or sets a **Boolean** value that is **True** if a reminder has been set for this item. Read/write.
 
 
 ## Syntax

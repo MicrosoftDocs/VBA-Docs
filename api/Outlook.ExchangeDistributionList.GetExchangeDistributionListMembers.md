@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeDistributionList.GetExchangeDistributionListMembers method (Outlook)
 
-Returns an  **[AddressEntries](Outlook.AddressEntries.md)** collection that represents the members of the Exchange distribution list.
+Returns an **[AddressEntries](Outlook.AddressEntries.md)** collection that represents the members of the Exchange distribution list.
 
 
 ## Syntax

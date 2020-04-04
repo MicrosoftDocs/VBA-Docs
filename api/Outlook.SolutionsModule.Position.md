@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SolutionsModule.Position property (Outlook)
 
-Returns or sets a  **Long** value that represents the ordinal position of the **[SolutionsModule](Outlook.SolutionsModule.md)** object when it is displayed in the **Navigation Pane**. Read/write.
+Returns or sets a **Long** value that represents the ordinal position of the **[SolutionsModule](Outlook.SolutionsModule.md)** object when it is displayed in the **Navigation Pane**. Read/write.
 
 
 ## Syntax

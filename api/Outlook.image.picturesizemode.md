@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # Image.PictureSizeMode Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies how to display the background picture on a control. Read/write.
+Returns or sets an **Integer** that specifies how to display the background picture on a control. Read/write.
 
 
 ## Syntax
 
 _expression_.**PictureSizeMode**
 
-_expression_ A variable that represents an  **Image** object.
+_expression_ A variable that represents an **Image** object.
 
 
 ## Remarks

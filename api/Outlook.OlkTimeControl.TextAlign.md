@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTimeControl.TextAlign property (Outlook)
 
-Returns or sets an  **[OlTextAlign](Outlook.OlTextAlign.md)** constant that specifies how text is aligned in the control. Read/write.
+Returns or sets an **[OlTextAlign](Outlook.OlTextAlign.md)** constant that specifies how text is aligned in the control. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # LineFormat.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **LineFormat** object.
+Returns an **Object** that represents the parent object of the specified **LineFormat** object.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.Actions property (Outlook)
 
-Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the available actions for the item. Read-only.
+Returns an **[Actions](Outlook.Actions.md)** collection that represents all the available actions for the item. Read-only.
 
 
 ## Syntax

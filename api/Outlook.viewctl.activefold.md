@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # ViewCtl.ActiveFolder Property (Outlook View Control)
 
-Returns an  **Object** that represents the folder displayed in the control. Read-only.
+Returns an **Object** that represents the folder displayed in the control. Read-only.
 
 
 ## Syntax
 
 _expression_.**ActiveFolder**
 
-_expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

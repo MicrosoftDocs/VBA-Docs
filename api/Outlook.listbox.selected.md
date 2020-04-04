@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ListBox.Selected Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that indicates the selection state of items in a **[ListBox](Outlook.listbox.md)**. Read/write.
+Returns or sets a **Boolean** that indicates the selection state of items in a **[ListBox](Outlook.listbox.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**Selected**(**_pvargIndex_**)
 
-_expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a **ListBox** object.
 
 
 ## Parameters

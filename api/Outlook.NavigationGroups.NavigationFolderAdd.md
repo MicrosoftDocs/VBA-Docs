@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationGroups.NavigationFolderAdd event (Outlook)
 
-Occurs after a folder is added to a  **[NavigationGroups](Outlook.NavigationGroups.md)** collection.
+Occurs after a folder is added to a **[NavigationGroups](Outlook.NavigationGroups.md)** collection.
 
 
 ## Syntax

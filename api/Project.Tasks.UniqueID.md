@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Tasks.UniqueID property (Project)
 
-Gets a  **[Task](Project.Task.md)** object from its containing collection. Read-only **Task**.
+Gets a **[Task](Project.Task.md)** object from its containing collection. Read-only **Task**.
 
 
 ## Syntax

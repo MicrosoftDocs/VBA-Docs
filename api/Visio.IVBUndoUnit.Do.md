@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[IVBUndoUnit](visio.ivbundounit.md)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _pMgr_|Required| **[IVBUNDOMANAGER]**|A pointer to an  **IVBUndoManager** interface.|
+| _pMgr_|Required| **[IVBUNDOMANAGER]**|A pointer to an **IVBUndoManager** interface.|
 
 ## Return value
 

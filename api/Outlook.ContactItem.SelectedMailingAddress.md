@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.SelectedMailingAddress property (Outlook)
 
-Returns or sets an  **[OlMailingAddress](Outlook.OlMailingAddress.md)** constant indicating the type of the mailing address for the contact. Read/write.
+Returns or sets an **[OlMailingAddress](Outlook.OlMailingAddress.md)** constant indicating the type of the mailing address for the contact. Read/write.
 
 
 ## Syntax

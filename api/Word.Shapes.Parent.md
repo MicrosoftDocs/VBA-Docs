@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shapes.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Shapes** object.
+Returns an **Object** that represents the parent object of the specified **Shapes** object.
 
 
 ## Syntax

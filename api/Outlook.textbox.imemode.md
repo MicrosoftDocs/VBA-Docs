@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # TextBox.IMEMode Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the default run-time mode of the Input Method Editor (IME) for a control. Read/write.
+Returns or sets an **Integer** that specifies the default run-time mode of the Input Method Editor (IME) for a control. Read/write.
 
 
 ## Syntax

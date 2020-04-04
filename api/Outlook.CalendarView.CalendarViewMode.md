@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CalendarView.CalendarViewMode property (Outlook)
 
-Returns or sets an  **[OlCalendarViewMode](Outlook.OlCalendarViewMode.md)** that determines the current view mode of the **[CalendarView](Outlook.CalendarView.md)** object. Read/write.
+Returns or sets an **[OlCalendarViewMode](Outlook.OlCalendarViewMode.md)** that determines the current view mode of the **[CalendarView](Outlook.CalendarView.md)** object. Read/write.
 
 
 ## Syntax

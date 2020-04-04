@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # PayRates.Add method (Project)
 
-Adds a  **PayRate** object to a **PayRates** collection.
+Adds a **PayRate** object to a **PayRates** collection.
 
 
 ## Syntax

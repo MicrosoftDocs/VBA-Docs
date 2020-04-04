@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimeLine object (PowerPoint)
 
-Stores animation information for a  **Master**, **Slide**, or **SlideRange** object.
+Stores animation information for a **Master**, **Slide**, or **SlideRange** object.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Stores.BeforeStoreRemove event (Outlook)
 
-Occurs when a  **[Store](Outlook.Store.md)** is about to be removed from the current session either programmatically or through user action.
+Occurs when a **[Store](Outlook.Store.md)** is about to be removed from the current session either programmatically or through user action.
 
 
 ## Syntax

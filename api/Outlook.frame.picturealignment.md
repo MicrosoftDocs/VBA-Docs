@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Frame.PictureAlignment Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the location of a background picture. Read/write.
+Returns or sets an **Integer** that specifies the location of a background picture. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathAutoCorrectEntries.Item method (Word)
 
-Returns an  **OMathAutoCorrectEntry** object that represents the specified item in the collection.
+Returns an **OMathAutoCorrectEntry** object that represents the specified item in the collection.
 
 
 ## Syntax

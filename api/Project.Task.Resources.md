@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Task.Resources property (Project)
 
-Gets a  **[Resources](Project.Resource.md)** collection that contains the resources assigned to the task. Read-only **Resources**.
+Gets a **[Resources](Project.Resource.md)** collection that contains the resources assigned to the task. Read-only **Resources**.
 
 
 ## Syntax

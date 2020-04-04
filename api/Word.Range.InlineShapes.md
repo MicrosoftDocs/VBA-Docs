@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Range.InlineShapes property (Word)
 
-Returns an  **InlineShapes** collection that represents all the **InlineShape** objects in a range. Read-only.
+Returns an **InlineShapes** collection that represents all the **InlineShape** objects in a range. Read-only.
 
 
 ## Syntax

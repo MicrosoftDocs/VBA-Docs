@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMath.ParentArg property (Word)
 
-Returns an  **OMath** object that represents the parent, or containing, argument. Read-only.
+Returns an **OMath** object that represents the parent, or containing, argument. Read-only.
 
 
 ## Syntax

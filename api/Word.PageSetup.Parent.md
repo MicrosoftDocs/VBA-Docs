@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PageSetup.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **PageSetup** object.
+Returns an **Object** that represents the parent object of the specified **PageSetup** object.
 
 
 ## Syntax

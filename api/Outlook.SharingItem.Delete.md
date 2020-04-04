@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.Delete method (Outlook)
 
-Removes a  **[SharingItem](Outlook.SharingItem.md)** item from the folder that contains the item.
+Removes a **[SharingItem](Outlook.SharingItem.md)** item from the folder that contains the item.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MeetingItem.Saved property (Outlook)
 
-Returns a  **Boolean** value that is **True** if the Outlook item has not been modified since the last save. Read-only.
+Returns a **Boolean** value that is **True** if the Outlook item has not been modified since the last save. Read-only.
 
 
 ## Syntax

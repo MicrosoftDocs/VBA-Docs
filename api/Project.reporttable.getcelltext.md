@@ -11,7 +11,7 @@ localization_priority: Normal
 
 
 # ReportTable.GetCellText method (Project)
-Returns the text value of the specified cell in a  **ReportTable** object.
+Returns the text value of the specified cell in a **ReportTable** object.
 
 ## Syntax
 

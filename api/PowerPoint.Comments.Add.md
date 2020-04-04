@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Comments.Add method (PowerPoint)
 
-Returns a  **[Comment](PowerPoint.Comment.md)** object that represents a new comment added to a slide.
+Returns a **[Comment](PowerPoint.Comment.md)** object that represents a new comment added to a slide.
 
 
 ## Syntax

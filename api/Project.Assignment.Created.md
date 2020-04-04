@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Assignment.Created property (Project)
 
-Gets the date an  **Assignment** was created. Read-only **Variant**.
+Gets the date an **Assignment** was created. Read-only **Variant**.
 
 
 ## Syntax

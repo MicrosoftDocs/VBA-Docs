@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeRange.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **ShapeRange** object.
+Returns an **Object** that represents the parent object of the specified **ShapeRange** object.
 
 
 ## Syntax

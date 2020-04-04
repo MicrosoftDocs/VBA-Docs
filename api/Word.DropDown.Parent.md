@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DropDown.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **DropDown** object.
+Returns an **Object** that represents the parent object of the specified **DropDown** object.
 
 
 ## Syntax

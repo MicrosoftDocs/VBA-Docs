@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShadowFormat.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **ShadowFormat** object.
+Returns an **Object** that represents the parent object of the specified **ShadowFormat** object.
 
 
 ## Syntax

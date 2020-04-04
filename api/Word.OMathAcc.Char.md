@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathAcc.Char property (Word)
 
-Returns or sets an  **Integer** that represents the accent character for the accent object. Read/write.
+Returns or sets an **Integer** that represents the accent character for the accent object. Read/write.
 
 
 ## Syntax

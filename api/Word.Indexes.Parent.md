@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Indexes.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Indexes** object.
+Returns an **Object** that represents the parent object of the specified **Indexes** object.
 
 
 ## Syntax

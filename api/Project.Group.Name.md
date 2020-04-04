@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Group.Name property (Project)
 
-Gets the name of a  **Group** object. Read/write **String**.
+Gets the name of a **Group** object. Read/write **String**.
 
 
 ## Syntax

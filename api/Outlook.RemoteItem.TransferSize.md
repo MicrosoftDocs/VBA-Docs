@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RemoteItem.TransferSize property (Outlook)
 
-Returns a  **Long** specifying the transfer size (in bytes) for the remote item. Read-only.
+Returns a **Long** specifying the transfer size (in bytes) for the remote item. Read-only.
 
 
 ## Syntax

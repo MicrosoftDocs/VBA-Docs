@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.Objects property (Project)
 
-Gets the number of OLE objects contained within a  **Resource** object. Any objects inserted in the Notes field of a resource are not included in the count. Read-only **Long**.
+Gets the number of OLE objects contained within a **Resource** object. Any objects inserted in the Notes field of a resource are not included in the count. Read-only **Long**.
 
 
 ## Syntax

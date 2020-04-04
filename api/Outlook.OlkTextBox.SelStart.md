@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTextBox.SelStart property (Outlook)
 
-Returns or sets a  **Long** that specifies either the starting point of the selected text or the insertion point if no text has been selected. Read/write.
+Returns or sets a **Long** that specifies either the starting point of the selected text or the insertion point if no text has been selected. Read/write.
 
 
 ## Syntax

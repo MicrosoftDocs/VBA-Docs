@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleActions.MarkAsTask property (Outlook)
 
-Returns a  **[MarkAsTaskRuleAction](Outlook.MarkAsTaskRuleAction.md)** object with **[MarkAsTaskRuleAction.ActionType](Outlook.MarkAsTaskRuleAction.ActionType.md)** being **olRuleActionMarkAsTask**. Read-only.
+Returns a **[MarkAsTaskRuleAction](Outlook.MarkAsTaskRuleAction.md)** object with **[MarkAsTaskRuleAction.ActionType](Outlook.MarkAsTaskRuleAction.ActionType.md)** being **olRuleActionMarkAsTask**. Read-only.
 
 
 ## Syntax

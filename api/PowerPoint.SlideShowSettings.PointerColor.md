@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SlideShowSettings.PointerColor property (PowerPoint)
 
-Returns the pointer color for the specified presentation as a  **[ColorFormat](PowerPoint.ColorFormat.md)** object. Read-only.
+Returns the pointer color for the specified presentation as a **[ColorFormat](PowerPoint.ColorFormat.md)** object. Read-only.
 
 
 ## Syntax

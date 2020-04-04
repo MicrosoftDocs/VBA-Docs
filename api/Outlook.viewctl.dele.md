@@ -16,7 +16,7 @@ After prompting the user to confirm, deletes the groups or items that are curren
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

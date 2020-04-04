@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Stores](Outlook.Stores.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|Either an  **Integer** that specifies a one-based index into the **Stores** collection, or a **String** value that specifies the **[DisplayName](Outlook.Store.DisplayName.md)** of a **Store** in the **Stores** collection.|
+| _Index_|Required| **Variant**|Either an **Integer** that specifies a one-based index into the **Stores** collection, or a **String** value that specifies the **[DisplayName](Outlook.Store.DisplayName.md)** of a **Store** in the **Stores** collection.|
 
 ## Return value
 

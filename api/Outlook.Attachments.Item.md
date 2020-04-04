@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Attachments.Item method (Outlook)
 
-Returns an  **[Attachment](Outlook.Attachment.md)** object from the collection.
+Returns an **[Attachment](Outlook.Attachment.md)** object from the collection.
 
 
 ## Syntax

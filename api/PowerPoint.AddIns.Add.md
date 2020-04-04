@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AddIns.Add method (PowerPoint)
 
-Returns an  **AddIn** object that represents an add-in file added to the list of add-ins.
+Returns an **AddIn** object that represents an add-in file added to the list of add-ins.
 
 
 ## Syntax

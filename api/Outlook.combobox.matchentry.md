@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # ComboBox.MatchEntry Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that indicates how a **[ComboBox](Outlook.combobox.md)** searches its list as the user types. Read/write.
+Returns or sets an **Integer** that indicates how a **[ComboBox](Outlook.combobox.md)** searches its list as the user types. Read/write.
 
 
 ## Syntax

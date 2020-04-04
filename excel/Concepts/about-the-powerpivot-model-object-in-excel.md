@@ -138,7 +138,7 @@ The  **Model** object stores references to workbook connections and information 
 |:-----|:-----|:-----|:-----|
 | **Application**|Read-only| **Application**|Returns an object that represents the Microsoft Excel application.|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
-| **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **Model** object.|
+| **Parent**|Read-only| **Object**|Returns an **Object** that represents the parent object of the specified **Model** object.|
 | **ModelTables**|Read-only| **ModelTable**|Collection of tables inside the PPM.|
 | **ModelRelationships**|Read-only| **ModelRelationships**|Collection of relationships between PPM tables.|
 | **DataModelConnection**|N/A| **WorkbookConnection**|Returns the model workbook connection object from the workbook connections collection which connects to the model.|
@@ -192,7 +192,7 @@ Represents changes made to the PPM. The  **ModelChanges** object contains inform
 | **ColumnsDeleted**|Read-only| **ModelColumnNames**|Returns a **ModelColumnNames** collection of **ModelColumnName** objects which represent all columns which were deleted as part of a model operation.|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
 | **MeasuresAdded**|Read-only| **ModelMeasureNames**|Returns a **ModelMeasureNames** collection of **ModelMeasureName** objects which represent all measures which were added as part of a model operation.|
-| **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelChanges** object.|
+| **Parent**|Read-only| **Object**|Returns an **Object** that represents the parent object of the specified **ModelChanges** object.|
 | **RelationshipChange**|Read-only| **Boolean**|When  **True**, one or more relationships in the model were changed (added, deleted or modified) as part of a model operation. When  **False**, no relationships were changed during the operation.|
 | **TableNamesChanged**|Read-only| **ModelTableNameChanges**|Returns a **ModelTableNameChanges** collection of **ModelTableNameChange** objects that represents old and new names of all tables which were renamed in the model as part of a model operation.|
 | **TablesAdded**|Read-only| **ModelTableNames**|Returns a **ModelTableNames** collection of table names as strings that represents all tables which were added to the model as part of a model operation.|
@@ -213,7 +213,7 @@ A collection of  **ModelColumnChange** objects that represent columns for which 
 | **Application**|Read-only| **Application**|Returns an object that represents the Microsoft Excel application.|
 | **Count**|Read-only| **Long**|Returns number of  **ModelColumnChange** objects in the collection|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
-| **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelColumnChanges** object.|
+| **Parent**|Read-only| **Object**|Returns an **Object** that represents the parent object of the specified **ModelColumnChanges** object.|
 
  **ModelColumnChanges.Item** Method
 
@@ -240,7 +240,7 @@ An object that represents a column in a table in the PPM for which the data type
 | **Application**|Read-only| **Application**|Returns an object that represents the Microsoft Excel application.|
 | **ColumnName**|Read-only| **String**| **String** that represents the name of a column for which the data type was changed.|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
-| **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelColumnChange** object.|
+| **Parent**|Read-only| **Object**|Returns an **Object** that represents the parent object of the specified **ModelColumnChange** object.|
 | **TableName**|Read-only| **String**| **String** that represents the name of a table in the PPM for which the data type of a column was changed.|
 
 ### ModelColumnNames Collection
@@ -256,7 +256,7 @@ A collection of  **ModelColumnName** objects that represents columns of tables i
 | **Application**|Read-only| **Application**|Returns an object that represents the Microsoft Excel application.|
 | **Count**|Read-only| **Long**|Returns number of  **ModelColumnName** objects in the collection|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
-| **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelColumnNames** collection.|
+| **Parent**|Read-only| **Object**|Returns an **Object** that represents the parent object of the specified **ModelColumnNames** collection.|
 
  **ModelColumnNames.Item** Method
 
@@ -283,7 +283,7 @@ An object that represents the name of a column in the PPM. Table 11 lists the pr
 | **Application**|Read-only| **Application**|Returns an object that represents the Microsoft Excel application.|
 | **ColumnName**|Read-only| **String**| **String** that represents the name of a column of the table identified by the **TableName** property.|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
-| **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelColumnName** object.|
+| **Parent**|Read-only| **Object**|Returns an **Object** that represents the parent object of the specified **ModelColumnName** object.|
 | **TableName**|Read-only| **String**| **String** that represents the name of a table in the PPM.|
 
 ### ModelConnection Object
@@ -301,7 +301,7 @@ The  **ModelConnection** object will contain information for the new Model Conne
 | **CommandText**|Read/Write| **Variant**|Returns or sets the command string for the specified data source (table).|
 | **CommandType**|Read/Write| **xlCmdType**|Returns or sets one of the  **xlCmdType** constants specifying the command type.|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
-| **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelConnection** object.|
+| **Parent**|Read-only| **Object**|Returns an **Object** that represents the parent object of the specified **ModelConnection** object.|
 
 ### ModelMeasureNames Collection
 
@@ -316,7 +316,7 @@ The  **ModelMeasureNames** collection contains a collection of **ModelMeasureNam
 | **Application**|Read-only| **Application**|Returns an object that represents the Microsoft Excel application.|
 | **Count**|Read-only| **Long**|Returns number of  **ModelMeasureName** objects in the collection|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
-| **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelMeasureNames** collection.|
+| **Parent**|Read-only| **Object**|Returns an **Object** that represents the parent object of the specified **ModelMeasureNames** collection.|
 
  **ModelMeasureNames.Item** Method
 
@@ -343,7 +343,7 @@ An object that represents the name of a measure in the PPM. Table 15 lists the p
 | **Application**|Read-only| **Application**|Returns an object that represents the Microsoft Excel application.|
 | **MeasureName**|Read-only| **String**| **String** that represents the new name a measure which was added to the **ModelTable** object identified by the **TableName** property.|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
-| **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelMeasureName** object.|
+| **Parent**|Read-only| **Object**|Returns an **Object** that represents the parent object of the specified **ModelMeasureName** object.|
 | **TableName**|Read-only| **String**| **String** that represents the name of a table in the PPM.|
 
 ### ModelRelationships Collection
@@ -359,7 +359,7 @@ The  **ModelRelationships** collection contains a collection of **ModelRelations
 | **Application**|Read-only| **Application**|Returns an object that represents the Microsoft Excel application.|
 | **Count**|Read-only| **Long**|Returns number of  **ModelRelationship** objects in the collection|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
-| **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelRelationships** collection.|
+| **Parent**|Read-only| **Object**|Returns an **Object** that represents the parent object of the specified **ModelRelationships** collection.|
 
  **ModelRelationships.Add** Method
 
@@ -401,7 +401,7 @@ Represent a relationship between  **ModelTableColumn** objects. Used when progra
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
 | **ForeignKeyColumn**|Read-only| **ModelTableColumn**|Contains the  **ModelTableColumn** object that represents the foreign key column on the many side of the one-to-many relationship.|
 | **ForeignKeyTable**|Read-only| **ModelTable**|Contains the  **ModelTable** object that represents the table on the many side of the one-to-many relationship.|
-| **Parent**|Read-only| **Object**|Returns an  **Object** model object that represents the model the **ModelRelationship** object resides in.|
+| **Parent**|Read-only| **Object**|Returns an **Object** model object that represents the model the **ModelRelationship** object resides in.|
 | **PrimaryKeyColumn**|Read-only| **ModelTableColumn**|Contains the  **ModelTableColumn** object that represents the primary key column in the table on the one side of the one-to-many relationship.|
 | **PrimaryKeyTable**|Read-only| **ModelTable**|Contains the  **ModelTable** object that represents the table on the one side of the one-to-many relationship.|
 
@@ -423,7 +423,7 @@ The  **ModelTables** collection contains a collection of **ModelTable** objects 
 | **Application**|Read-only| **Application**|Returns an object that represents the Microsoft Excel application.|
 | **Count**|Read-only| **Long**|Returns number of  **ModelTable** objects in the collection|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
-| **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelTables** collection.|
+| **Parent**|Read-only| **Object**|Returns an **Object** that represents the parent object of the specified **ModelTables** collection.|
 
  **ModelTables.Item** Method
 
@@ -451,7 +451,7 @@ Represent a table in the  **Model** object. The **ModelTable** object is read on
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
 | **ModelTableColumns**|Read-only| **ModelTableColumns**|Collection of  **ModelTableColumn** objects that make up the **ModelTable** object.|
 | **Name**|Read-only| **String**|Returns the name of the  **ModelTable** object.|
-| **Parent**|Read-only| **Object**|Returns an  **Object** that represents the model the **ModelTable** object resides in.|
+| **Parent**|Read-only| **Object**|Returns an **Object** that represents the model the **ModelTable** object resides in.|
 | **RecordCount**|Read-only| **Integer**|Returns the total row count for the  **ModelTable** object.|
 | **SourceName**|Read-only| **String**|Name of table at the data source. If table has no data source (created in the model), the property will return an error.|
 | **SourceWorkbookConnection**|Read-only| **WorkbookConnection**|Returns the workbook connection from which the  **ModelTable** object originated.|
@@ -474,7 +474,7 @@ The  **ModelTableColumns** collection contains a collection of **ModelTableColum
 | **Application**|Read-only| **Application**|Returns an object that represents the Microsoft Excel application.|
 | **Count**|Read-only| **Long**|Returns number of  **ModelTableColumn** objects in the collection|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
-| **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelTableColumns** collection.|
+| **Parent**|Read-only| **Object**|Returns an **Object** that represents the parent object of the specified **ModelTableColumns** collection.|
 
  **ModelTableColumns.Item** Method
 
@@ -502,7 +502,7 @@ Represent a single column in the  **ModelTable** object. Used when programmatica
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
 | **DataType**|Read-only| **xlParameterDataType**|Returns the data type of the column.|
 | **Name**|Read-only| **String**|Returns the name of the  **ModelTableColumn** object.|
-| **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelTableColumn** object.|
+| **Parent**|Read-only| **Object**|Returns an **Object** that represents the parent object of the specified **ModelTableColumn** object.|
 
 ### ModelTableNames Collection
 
@@ -517,7 +517,7 @@ The  **ModelTableNames** collection contains a collection of **ModelTableName** 
 | **Application**|Read-only| **Application**|Returns an object that represents the Microsoft Excel application.|
 | **Count**|Read-only| **Long**|Returns number of  **ModelTableName** objects in the collection|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
-| **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelTableNames** object.|
+| **Parent**|Read-only| **Object**|Returns an **Object** that represents the parent object of the specified **ModelTableNames** object.|
 
  **ModelTableNames.Item** Method
 
@@ -544,7 +544,7 @@ The  **ModelTableNameChanges** collection contains a collection of **ModelTableN
 | **Application**|Read-only| **Application**|Returns an object that represents the Microsoft Excel application.|
 | **Count**|Read-only| **Long**|Returns number of  **ModelTableNameChange** objects in the collection.|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
-| **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelTableNameChanges** collection.|
+| **Parent**|Read-only| **Object**|Returns an **Object** that represents the parent object of the specified **ModelTableNameChanges** collection.|
 
  **ModelTableNameChanges.Item** Method
 
@@ -570,7 +570,7 @@ An object that represents the old and new name of a table which was renamed in t
 |:-----|:-----|:-----|:-----|
 | **Application**|Read-only| **Application**|Returns an object that represents the Microsoft Excel application.|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
-| **Parent**|Read-only| **Object**|Returns an  **Object** that represents the model the **ModelTableNameChange** object resides in.|
+| **Parent**|Read-only| **Object**|Returns an **Object** that represents the model the **ModelTableNameChange** object resides in.|
 | **TableNameNew**|Read-only| **String**|Returns the new name of the table.|
 | **TableNameOld**|Read-only| **String**|Returns the old name of the table.|
 

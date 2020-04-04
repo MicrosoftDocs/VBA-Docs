@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Month.Days property (Project)
 
-Gets a  **[Days](Project.Day.md)** collection representing the days in the month. Read-only **Days**.
+Gets a **[Days](Project.Day.md)** collection representing the days in the month. Read-only **Days**.
 
 
 ## Syntax

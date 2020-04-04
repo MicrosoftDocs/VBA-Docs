@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimeZones.CurrentTimeZone property (Outlook)
 
-Returns a  **[TimeZone](Outlook.TimeZone.md)** value that represents the current Windows system local time zone. Read-only.
+Returns a **[TimeZone](Outlook.TimeZone.md)** value that represents the current Windows system local time zone. Read-only.
 
 
 ## Syntax

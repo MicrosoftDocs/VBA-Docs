@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AutoTextEntries.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **AutoTextEntries** collection.
+Returns an **Object** that represents the parent object of the specified **AutoTextEntries** collection.
 
 
 ## Syntax

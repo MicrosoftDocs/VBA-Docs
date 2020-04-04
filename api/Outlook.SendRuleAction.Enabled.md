@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SendRuleAction.Enabled property (Outlook)
 
-Returns or sets a  **Boolean** that determines if the rule action is enabled. Read/write.
+Returns or sets a **Boolean** that determines if the rule action is enabled. Read/write.
 
 
 ## Syntax

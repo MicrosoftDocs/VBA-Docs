@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskItem.PercentComplete property (Outlook)
 
-Returns or sets a  **Long** indicating the percentage of the task completed at the current date and time. Read/write.
+Returns or sets a **Long** indicating the percentage of the task completed at the current date and time. Read/write.
 
 
 ## Syntax

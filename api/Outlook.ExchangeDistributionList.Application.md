@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeDistributionList.Application property (Outlook)
 
-Returns an  **[Application](Outlook.Application.md)** object that represents the parent application (Outlook) for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object. Read-only.
+Returns an **[Application](Outlook.Application.md)** object that represents the parent application (Outlook) for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object. Read-only.
 
 
 ## Syntax

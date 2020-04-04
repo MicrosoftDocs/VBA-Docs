@@ -20,7 +20,7 @@ To use this example, copy this sample code to the Script Editor of a form. To ru
 
 - A **ToggleButton** named ToggleButton1.
 
-- One or two other controls, such as an  **[OptionButton](../../../api/Outlook.optionbutton.md)** or **[ListBox](../../../api/Outlook.listbox.md)**.
+- One or two other controls, such as an **[OptionButton](../../../api/Outlook.optionbutton.md)** or **[ListBox](../../../api/Outlook.listbox.md)**.
 
 ```vb
 Sub CommandButton1_Click() 

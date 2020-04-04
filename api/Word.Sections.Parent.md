@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Sections.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Sections** object.
+Returns an **Object** that represents the parent object of the specified **Sections** object.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleConditions.SentTo property (Outlook)
 
-Returns a  **[ToOrFromRuleCondition](Outlook.ToOrFromRuleCondition.md)** object with a **[ToOrFromRuleCondition.ConditionType](Outlook.ToOrFromRuleCondition.ConditionType.md)** of **olConditionSentTo**. Read-only.
+Returns a **[ToOrFromRuleCondition](Outlook.ToOrFromRuleCondition.md)** object with a **[ToOrFromRuleCondition.ConditionType](Outlook.ToOrFromRuleCondition.ConditionType.md)** of **olConditionSentTo**. Read-only.
 
 
 ## Syntax

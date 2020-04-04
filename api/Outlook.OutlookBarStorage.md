@@ -26,7 +26,7 @@ Use the  **[Groups](Outlook.OutlookBarStorage.Groups.md)** property to retrieve 
 
 ## Example
 
-The following example retrieves an  **OutlookBarStorage** object by name.
+The following example retrieves an **OutlookBarStorage** object by name.
 
 
 ```vb

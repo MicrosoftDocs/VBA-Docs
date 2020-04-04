@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PropertyEffect.Points property (PowerPoint)
 
-Returns an  **AnimationPoints** object that represents a point in an animation.
+Returns an **AnimationPoints** object that represents a point in an animation.
 
 
 ## Syntax

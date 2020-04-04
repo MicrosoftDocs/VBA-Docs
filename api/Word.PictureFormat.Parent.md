@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PictureFormat.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **PictureFormat** object.
+Returns an **Object** that represents the parent object of the specified **PictureFormat** object.
 
 
 ## Syntax

@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # ComboBox.BorderStyle Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the type of border of the control. Read/write.
+Returns or sets an **Integer** that specifies the type of border of the control. Read/write.
 
 
 ## Syntax

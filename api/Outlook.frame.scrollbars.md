@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Frame.ScrollBars Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies whether a control has vertical scroll bars, horizontal scroll bars, or both. Read/write.
+Returns or sets an **Integer** that specifies whether a control has vertical scroll bars, horizontal scroll bars, or both. Read/write.
 
 
 ## Syntax

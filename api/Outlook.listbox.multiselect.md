@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ListBox.MultiSelect Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that indicates whether the object permits multiple selections. Read/write.
+Returns or sets an **Integer** that indicates whether the object permits multiple selections. Read/write.
 
 
 ## Syntax
 
 _expression_.**MultiSelect**
 
-_expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a **ListBox** object.
 
 
 ## Remarks

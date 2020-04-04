@@ -24,7 +24,7 @@ Use the  **[Item](Outlook.Panes.Item.md)** method to retrieve the **OutlookBarPa
 
 ## Example
 
-The following example retrieves an  **OutlookBarPane** object by name.
+The following example retrieves an **OutlookBarPane** object by name.
 
 
 ```vb

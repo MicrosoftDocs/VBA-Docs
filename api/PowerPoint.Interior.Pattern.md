@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Interior.Pattern property (PowerPoint)
 
-Returns or sets a  **Variant** value, containing an **[XlPattern](PowerPoint.XlPattern.md)** constant, that represents the interior pattern.
+Returns or sets a **Variant** value, containing an **[XlPattern](PowerPoint.XlPattern.md)** constant, that represents the interior pattern.
 
 
 ## Syntax

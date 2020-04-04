@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Project.ResourceGroups2 property (Project)
 
-Gets a  **[ResourceGroups2](Project.resourcegroups2(object).md)** collection that represents all of the resource groups based on **Group2** objects. Read-only **ResourceGroups2**.
+Gets a **[ResourceGroups2](Project.resourcegroups2(object).md)** collection that represents all of the resource groups based on **Group2** objects. Read-only **ResourceGroups2**.
 
 
 ## Syntax

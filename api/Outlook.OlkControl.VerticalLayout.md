@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkControl.VerticalLayout property (Outlook)
 
-Returns or sets an  **[OlVerticalLayout](Outlook.OlVerticalLayout.md)** constant that specifies any alignment in the vertical direction of this control with other selected controls on the form, or whether the control is adjusted in the vertical direction automatically when the form's length is changed. Read/write.
+Returns or sets an **[OlVerticalLayout](Outlook.OlVerticalLayout.md)** constant that specifies any alignment in the vertical direction of this control with other selected controls on the form, or whether the control is adjusted in the vertical direction automatically when the form's length is changed. Read/write.
 
 
 ## Syntax

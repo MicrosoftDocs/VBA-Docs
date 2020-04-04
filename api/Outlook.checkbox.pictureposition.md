@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # CheckBox.PicturePosition Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the location of the picture relative to its caption. Read/write.
+Returns or sets an **Integer** that specifies the location of the picture relative to its caption. Read/write.
 
 
 ## Syntax

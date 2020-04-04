@@ -23,7 +23,7 @@ Use the  **[CreateItem](Outlook.Application.CreateItem.md)** method to create an
 
 Use  **[Items](Outlook.Items.Item.md)** (_index_), where _index_ is the index number of an appointment or a value used to match the default property of an appointment, to return a single **AppointmentItem** object from a Calendar folder.
 
-You can also return an  **AppointmentItem** object from a **[MeetingItem](Outlook.MeetingItem.md)** object by using the **[GetAssociatedAppointment](Outlook.MeetingItem.GetAssociatedAppointment.md)** method.
+You can also return an **AppointmentItem** object from a **[MeetingItem](Outlook.MeetingItem.md)** object by using the **[GetAssociatedAppointment](Outlook.MeetingItem.GetAssociatedAppointment.md)** method.
 
 When you work with recurring appointment items, you should release any prior references, obtain new references to the recurring appointment item before you access or modify the item, and release these references as soon as you are finished and have saved the changes. This practice applies to the recurring  **AppointmentItem** object, and any **[Exception](Outlook.Exception.md)** or **[RecurrencePattern](Outlook.RecurrencePattern.md)** object. To release a reference in Visual Basic for Applications (VBA) or Visual Basic, set that existing object to **Nothing**. In C#, explicitly release the memory for that object.
 

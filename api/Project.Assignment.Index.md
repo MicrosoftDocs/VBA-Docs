@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Assignment.Index property (Project)
 
-Gets the index of an  **Assignment** object in the containing **Assignments** collection. Read-only **Long**.
+Gets the index of an **Assignment** object in the containing **Assignments** collection. Read-only **Long**.
 
 
 ## Syntax

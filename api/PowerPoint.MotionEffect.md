@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MotionEffect object (PowerPoint)
 
-Represents a motion effect for an  **AnimationBehavior** object.
+Represents a motion effect for an **AnimationBehavior** object.
 
 
 ## Example

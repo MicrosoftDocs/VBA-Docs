@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OutlookBarPane.Visible property (Outlook)
 
-Returns or sets a  **Boolean** indicating the visible state of the specified object. Read/write.
+Returns or sets a **Boolean** indicating the visible state of the specified object. Read/write.
 
 
 ## Syntax

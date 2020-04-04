@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableView.AutoPreview property (Outlook)
 
-Returns or sets an  **[OlAutoPreview](Outlook.OlAutoPreview.md)** constant that determines how items are automatically previewed by the **[TableView](Outlook.TableView.md)** object. Read/write.
+Returns or sets an **[OlAutoPreview](Outlook.OlAutoPreview.md)** constant that determines how items are automatically previewed by the **[TableView](Outlook.TableView.md)** object. Read/write.
 
 
 ## Syntax

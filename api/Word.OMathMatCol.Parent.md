@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathMatCol.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **OMathMatCol** object.
+Returns an **Object** that represents the parent object of the specified **OMathMatCol** object.
 
 
 ## Syntax

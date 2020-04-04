@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ActiveWindow method (Outlook)
 
-Returns an object representing the current Microsoft Outlook window on the desktop, either an  **[Explorer](Outlook.Explorer.md)** or an **[Inspector](Outlook.Inspector.md)** object.
+Returns an object representing the current Microsoft Outlook window on the desktop, either an **[Explorer](Outlook.Explorer.md)** or an **[Inspector](Outlook.Inspector.md)** object.
 
 
 ## Syntax

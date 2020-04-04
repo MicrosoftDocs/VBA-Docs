@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PropertyPage.Dirty property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the contents of a custom property page have been altered. Read-only.
+Returns a **Boolean** value that indicates whether the contents of a custom property page have been altered. Read-only.
 
 
 ## Syntax

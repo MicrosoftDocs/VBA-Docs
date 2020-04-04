@@ -16,7 +16,7 @@ Returns a **String** that represents the full path name of a custom icon that is
 
 _expression_.**MouseIcon**
 
-_expression_ A variable that represents an  **Image** object.
+_expression_ A variable that represents an **Image** object.
 
 
 ## Remarks

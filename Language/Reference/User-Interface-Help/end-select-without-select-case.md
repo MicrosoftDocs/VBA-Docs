@@ -16,7 +16,7 @@ localization_priority: Normal
 
 
 
-- You used an  **End Select** statement without a corresponding **Select Case** statement. This is usually due to an extra **End Select** below a **Select Case** block, or leaving behind the **End Select** statement when copying a **Select Case** block from one[procedure](../../Glossary/vbe-glossary.md#procedure) to another. Check each **End Select** statement to make sure it terminates a **Select Case** structure.
+- You used an **End Select** statement without a corresponding **Select Case** statement. This is usually due to an extra **End Select** below a **Select Case** block, or leaving behind the **End Select** statement when copying a **Select Case** block from one[procedure](../../Glossary/vbe-glossary.md#procedure) to another. Check each **End Select** statement to make sure it terminates a **Select Case** structure.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

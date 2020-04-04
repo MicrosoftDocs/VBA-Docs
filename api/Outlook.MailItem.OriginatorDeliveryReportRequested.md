@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.OriginatorDeliveryReportRequested property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether the originator of the meeting item or mail message will receive a delivery report. Read/write.
+Returns or sets a **Boolean** value that determines whether the originator of the meeting item or mail message will receive a delivery report. Read/write.
 
 
 ## Syntax

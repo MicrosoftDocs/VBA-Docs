@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AnimationBehavior.ScaleEffect property (PowerPoint)
 
-Returns a  **[ScaleEffect](PowerPoint.ScaleEffect.md)** object for a given animation behavior. Read-only.
+Returns a **[ScaleEffect](PowerPoint.ScaleEffect.md)** object for a given animation behavior. Read-only.
 
 
 ## Syntax

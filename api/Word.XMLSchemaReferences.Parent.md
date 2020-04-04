@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XMLSchemaReferences.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **XMLSchemaReferences** object.
+Returns an **Object** that represents the parent object of the specified **XMLSchemaReferences** object.
 
 
 ## Syntax

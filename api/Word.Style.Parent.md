@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Style.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Style** object.
+Returns an **Object** that represents the parent object of the specified **Style** object.
 
 
 ## Syntax

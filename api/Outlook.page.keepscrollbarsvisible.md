@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Page.KeepScrollBarsVisible Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies whether scroll bars remain visible when not required. Read/write.
+Returns or sets an **Integer** that specifies whether scroll bars remain visible when not required. Read/write.
 
 
 ## Syntax

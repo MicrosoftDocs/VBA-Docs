@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathNary.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **OMathNary** object.
+Returns an **Object** that represents the parent object of the specified **OMathNary** object.
 
 
 ## Syntax

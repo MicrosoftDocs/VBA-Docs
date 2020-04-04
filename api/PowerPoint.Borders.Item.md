@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Borders.Item method (PowerPoint)
 
-Returns a  **[LineFormat](PowerPoint.LineFormat.md)** object for the specified border from the **Borders** collection.
+Returns a **[LineFormat](PowerPoint.LineFormat.md)** object for the specified border from the **Borders** collection.
 
 
 ## Syntax

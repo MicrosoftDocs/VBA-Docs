@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # OptionButton.WordWrap Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether the contents of a control automatically wrap at the end of a line and the control expands to fit the text. Read/write.
+Returns or sets a **Boolean** that specifies whether the contents of a control automatically wrap at the end of a line and the control expands to fit the text. Read/write.
 
 
 ## Syntax
 
 _expression_.**WordWrap**
 
-_expression_ A variable that represents an  **OptionButton** object.
+_expression_ A variable that represents an **OptionButton** object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskRequestAcceptItem.Importance property (Outlook)
 
-Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicating the relative importance level for the Outlook item. Read/write.
+Returns or sets an **[OlImportance](Outlook.OlImportance.md)** constant indicating the relative importance level for the Outlook item. Read/write.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # GroupCriteria2.Add method (Project)
 
-Adds a  **GroupCriterion2** object to the **GroupCriteria2** collection.
+Adds a **GroupCriterion2** object to the **GroupCriteria2** collection.
 
 
 ## Syntax
@@ -46,7 +46,7 @@ GroupCriterion2
 
 ## Remarks
 
-To add a  **GroupCriterion2** object where colors can be hexadecimal values, use the **[AddEx](Project.GroupCriteria2.AddEx.md)** method.
+To add a **GroupCriterion2** object where colors can be hexadecimal values, use the **[AddEx](Project.GroupCriteria2.AddEx.md)** method.
 
 
 ## See also

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeNodes.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **ShapeNodes** object.
+Returns an **Object** that represents the parent object of the specified **ShapeNodes** object.
 
 
 ## Syntax

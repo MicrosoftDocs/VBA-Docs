@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Frame.VerticalScrollBarSide Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies whether a vertical scroll bar appears on the right or left side of a frame. Read/write.
+Returns or sets an **Integer** that specifies whether a vertical scroll bar appears on the right or left side of a frame. Read/write.
 
 
 ## Syntax

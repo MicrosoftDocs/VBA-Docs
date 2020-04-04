@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimelineView.Standard property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the **[TimelineView](Outlook.TimelineView.md)** object is a built-in Outlook view. Read-only.
+Returns a **Boolean** value that indicates whether the **[TimelineView](Outlook.TimelineView.md)** object is a built-in Outlook view. Read-only.
 
 
 ## Syntax

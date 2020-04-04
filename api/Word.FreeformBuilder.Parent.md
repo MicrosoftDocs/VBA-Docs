@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FreeformBuilder.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **FreeformBuilder** object.
+Returns an **Object** that represents the parent object of the specified **FreeformBuilder** object.
 
 
 ## Syntax
