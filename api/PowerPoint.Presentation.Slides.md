@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Presentation.Slides property (PowerPoint)
 
-Returns a  **[Slides](PowerPoint.Slides.md)** collection that represents all slides in the specified presentation. Read-only.
+Returns a **[Slides](PowerPoint.Slides.md)** collection that represents all slides in the specified presentation. Read-only.
 
 
 ## Syntax

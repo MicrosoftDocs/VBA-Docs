@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SelectNamesDialog.NumberOfRecipientSelectors property (Outlook)
 
-Returns or sets a  **[OlRecipientSelectors](Outlook.OlRecipientSelectors.md)** constant that determines the number of recipient edit boxes (each associated with a command button) displayed in the **Select Names** dialog box. Read/write.
+Returns or sets a **[OlRecipientSelectors](Outlook.OlRecipientSelectors.md)** constant that determines the number of recipient edit boxes (each associated with a command button) displayed in the **Select Names** dialog box. Read/write.
 
 
 ## Syntax

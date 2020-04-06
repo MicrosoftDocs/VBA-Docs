@@ -23,7 +23,7 @@ _expression_ A variable that represents a 'Projects' object.
 
 ## Remarks
 
-The parent of a  **Project** object can be the **Application** or the hidden **Global** object.
+The parent of a **Project** object can be the **Application** or the hidden **Global** object.
 
 Use the  **Parent** property to access the properties or methods of the parent of an object.
 

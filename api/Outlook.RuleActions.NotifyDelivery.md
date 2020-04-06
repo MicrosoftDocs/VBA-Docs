@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleActions.NotifyDelivery property (Outlook)
 
-Returns a  **[RuleAction](Outlook.RuleAction.md)** object with **[RuleAction.ActionType](Outlook.RuleAction.ActionType.md)** being **olRuleActionNotifyDelivery**. Read-only.
+Returns a **[RuleAction](Outlook.RuleAction.md)** object with **[RuleAction.ActionType](Outlook.RuleAction.ActionType.md)** being **olRuleActionNotifyDelivery**. Read-only.
 
 
 ## Syntax

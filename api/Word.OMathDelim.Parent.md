@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathDelim.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **OMathDelim** object.
+Returns an **Object** that represents the parent object of the specified **OMathDelim** object.
 
 
 ## Syntax

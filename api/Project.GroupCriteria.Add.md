@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # GroupCriteria.Add method (Project)
 
-Adds a  **GroupCriterion** object to a **GroupCriteria** collection.
+Adds a **GroupCriterion** object to a **GroupCriteria** collection.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # IconView.SortFields property (Outlook)
 
-Returns an  **[OrderFields](Outlook.OrderFields.md)** object that represents the set of fields by which the items displayed in the **[IconView](Outlook.IconView.md)** object are ordered. Read-only.
+Returns an **[OrderFields](Outlook.OrderFields.md)** object that represents the set of fields by which the items displayed in the **[IconView](Outlook.IconView.md)** object are ordered. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Rule.Enabled property (Outlook)
 
-Returns or sets a  **Boolean** value that determines if the rule is to be applied. Read/write.
+Returns or sets a **Boolean** value that determines if the rule is to be applied. Read/write.
 
 
 ## Syntax

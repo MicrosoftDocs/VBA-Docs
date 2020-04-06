@@ -35,7 +35,7 @@ Use  **Borders** (index), where index identifies the cell border or diagonal lin
 
 ## Example
 
-Use the [DashStyle](PowerPoint.LineFormat.DashStyle.md)property to apply a dashed line style to a  **Border** object. This example selects the second row from the table and applies a dashed line style to the bottom border.
+Use the [DashStyle](PowerPoint.LineFormat.DashStyle.md)property to apply a dashed line style to a **Border** object. This example selects the second row from the table and applies a dashed line style to the bottom border.
 
 
 ```vb

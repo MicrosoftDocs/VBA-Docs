@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NoteItem.Left property (Outlook)
 
-Returns or sets a  **Long** specifying the position (in pixels) of the left vertical edge of a note window from the edge of the screen. Read/write.
+Returns or sets a **Long** specifying the position (in pixels) of the left vertical edge of a note window from the edge of the screen. Read/write.
 
 
 ## Syntax

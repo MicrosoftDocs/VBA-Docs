@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathDelim.E property (Word)
 
-Returns an  **OMathArgs** object that represents the list of arguments for the specified equation object. Read-only.
+Returns an **OMathArgs** object that represents the list of arguments for the specified equation object. Read-only.
 
 
 ## Syntax

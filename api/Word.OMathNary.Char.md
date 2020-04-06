@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathNary.Char property (Word)
 
-Returns or sets an  **Integer** that represents a character used as the n-ary operator. Read/write.
+Returns or sets an **Integer** that represents a character used as the n-ary operator. Read/write.
 
 
 ## Syntax

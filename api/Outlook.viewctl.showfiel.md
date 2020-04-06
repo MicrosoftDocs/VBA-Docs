@@ -16,7 +16,7 @@ Displays the Microsoft Outlook  **Show Fields** dialog box.
 
 _expression_.**ShowFields**
 
-_expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

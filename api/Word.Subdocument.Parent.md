@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Subdocument.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Subdocument** object.
+Returns an **Object** that represents the parent object of the specified **Subdocument** object.
 
 
 ## Syntax

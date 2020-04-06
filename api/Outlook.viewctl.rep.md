@@ -16,6 +16,6 @@ Executes the Reply action for the item or items selected in the control.
 
 _expression_.**Reply**
 
-_expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a **ViewCtl** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

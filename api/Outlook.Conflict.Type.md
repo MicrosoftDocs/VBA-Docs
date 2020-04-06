@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Conflict.Type property (Outlook)
 
-Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the type of item represented by the **[Conflict](Outlook.Conflict.md)** object. Read-only.
+Returns an **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the type of item represented by the **[Conflict](Outlook.Conflict.md)** object. Read-only.
 
 
 ## Syntax

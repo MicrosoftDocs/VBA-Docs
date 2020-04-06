@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CalendarView.ViewType property (Outlook)
 
-Returns an  **[OlViewType](Outlook.OlViewType.md)** constant that indicates the view type of the view. Read-only.
+Returns an **[OlViewType](Outlook.OlViewType.md)** constant that indicates the view type of the view. Read-only.
 
 
 ## Syntax

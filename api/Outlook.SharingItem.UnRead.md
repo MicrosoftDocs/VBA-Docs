@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.UnRead property (Outlook)
 
-Returns or sets a  **Boolean** value that is **True** if the **[SharingItem](Outlook.SharingItem.md)** has not been opened (read). Read/write.
+Returns or sets a **Boolean** value that is **True** if the **[SharingItem](Outlook.SharingItem.md)** has not been opened (read). Read/write.
 
 
 ## Syntax

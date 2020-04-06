@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Group2.Name property (Project)
 
-Gets or sets the name of a  **Group2** object. Read/write **String**.
+Gets or sets the name of a **Group2** object. Read/write **String**.
 
 
 ## Syntax

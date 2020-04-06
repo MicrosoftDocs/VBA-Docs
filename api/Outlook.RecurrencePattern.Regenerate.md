@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RecurrencePattern.Regenerate property (Outlook)
 
-Returns a  **Boolean** that indicates **True** if the task should be regenerated following this pass through the recurrence pattern. Read/write.
+Returns a **Boolean** that indicates **True** if the task should be regenerated following this pass through the recurrence pattern. Read/write.
 
 
 ## Syntax

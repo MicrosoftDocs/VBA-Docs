@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Frame.SpecialEffect Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the visual appearance of an object. Read/write.
+Returns or sets an **Integer** that specifies the visual appearance of an object. Read/write.
 
 
 ## Syntax

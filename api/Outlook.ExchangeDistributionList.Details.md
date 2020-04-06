@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeDistributionList.Details method (Outlook)
 
-Displays a modal dialog box that provides detailed information about an  **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object.
+Displays a modal dialog box that provides detailed information about an **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object.
 
 
 ## Syntax

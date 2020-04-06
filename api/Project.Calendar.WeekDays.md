@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Calendar.WeekDays property (Project)
 
-Gets a  **[Weekdays](Project.WeekDay.md)** collection representing the weekdays in the calendar. Read-only **Weekdays**.
+Gets a **[Weekdays](Project.WeekDay.md)** collection representing the weekdays in the calendar. Read-only **Weekdays**.
 
 
 ## Syntax

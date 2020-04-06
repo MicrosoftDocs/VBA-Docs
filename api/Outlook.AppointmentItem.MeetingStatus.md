@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.MeetingStatus property (Outlook)
 
-Returns or sets an  **[OlMeetingStatus](Outlook.OlMeetingStatus.md)** constant specifying the meeting status of the appointment. Read/write.
+Returns or sets an **[OlMeetingStatus](Outlook.OlMeetingStatus.md)** constant specifying the meeting status of the appointment. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.ReminderSet property (Outlook)
 
-Returns or sets a  **Boolean** value that is **True** if a reminder has been set for the specified **[SharingItem](Outlook.SharingItem.md)**. Read/write.
+Returns or sets a **Boolean** value that is **True** if a reminder has been set for the specified **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

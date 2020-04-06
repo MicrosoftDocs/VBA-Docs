@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Project.ResourceFilters property (Project)
 
-Gets a  **[Filters](Project.filters.md)** collection that contains the resource filters of the project. Read-only **Filters**.
+Gets a **[Filters](Project.filters.md)** collection that contains the resource filters of the project. Read-only **Filters**.
 
 
 ## Syntax

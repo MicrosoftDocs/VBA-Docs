@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # LineFormat.BackColor property (PowerPoint)
 
-Returns or sets a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents the background color for the specified fill or patterned line. Read/write.
+Returns or sets a **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents the background color for the specified fill or patterned line. Read/write.
 
 
 ## Syntax

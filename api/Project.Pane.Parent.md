@@ -23,7 +23,7 @@ _expression_ A variable that represents a [Pane](./Project.Pane.md) object.
 
 ## Remarks
 
-The parent of a  **Pane** object can be a **Window** object in the **Windows** or **Windows2** collection.
+The parent of a **Pane** object can be a **Window** object in the **Windows** or **Windows2** collection.
 
 Use the  **Parent** property to access the properties or methods of the parent of an object.
 

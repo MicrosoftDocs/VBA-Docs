@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Row.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Row** object.
+Returns an **Object** that represents the parent object of the specified **Row** object.
 
 
 ## Syntax

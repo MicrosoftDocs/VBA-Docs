@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkLabel.BackColor property (Outlook)
 
-Returns or sets a  **Long** that indicates the background color of the control. Read/write.
+Returns or sets a **Long** that indicates the background color of the control. Read/write.
 
 
 ## Syntax

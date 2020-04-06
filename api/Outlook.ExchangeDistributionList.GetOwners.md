@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeDistributionList.GetOwners method (Outlook)
 
-Returns an  **[AddressEntries](Outlook.AddressEntries.md)** collection object that contains all the owners of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**.
+Returns an **[AddressEntries](Outlook.AddressEntries.md)** collection object that contains all the owners of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**.
 
 
 ## Syntax

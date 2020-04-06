@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Window** object.
+Returns an **Object** that represents the parent object of the specified **Window** object.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CoAuthors.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **CoAuthors** object.
+Returns an **Object** that represents the parent object of the specified **CoAuthors** object.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormNameRuleCondition.FormName property (Outlook)
 
-Returns or sets an  **Object** that represents an array of form identifiers to be evaluated by the rule condition. Read/write.
+Returns or sets an **Object** that represents an array of form identifiers to be evaluated by the rule condition. Read/write.
 
 
 ## Syntax

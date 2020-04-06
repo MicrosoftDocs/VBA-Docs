@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Table.Columns property (PowerPoint)
 
-Returns a  **[Columns](PowerPoint.Columns.md)** collection that represents all the columns in a table. Read-only.
+Returns a **[Columns](PowerPoint.Columns.md)** collection that represents all the columns in a table. Read-only.
 
 
 ## Syntax

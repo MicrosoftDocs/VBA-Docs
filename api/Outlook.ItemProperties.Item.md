@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ItemProperties.Item method (Outlook)
 
-Returns an  **[ItemProperty](Outlook.ItemProperty.md)** object from the collection.
+Returns an **[ItemProperty](Outlook.ItemProperty.md)** object from the collection.
 
 
 ## Syntax

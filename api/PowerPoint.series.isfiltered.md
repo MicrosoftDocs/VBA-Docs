@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Series.IsFiltered property (PowerPoint)
 
-Returns or sets a  **Boolean** that determines whether the specified chart series is filtered out from the chart. Read/write.
+Returns or sets a **Boolean** that determines whether the specified chart series is filtered out from the chart. Read/write.
 
 
 ## Syntax

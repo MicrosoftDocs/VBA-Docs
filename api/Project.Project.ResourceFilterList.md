@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Project.ResourceFilterList property (Project)
 
-Gets a  **[List](Project.List.md)** object representing all resource filters in the project. Read-only **List**.
+Gets a **[List](Project.List.md)** object representing all resource filters in the project. Read-only **List**.
 
 
 ## Syntax

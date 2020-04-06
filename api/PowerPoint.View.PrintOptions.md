@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # View.PrintOptions property (PowerPoint)
 
-Returns a  **[PrintOptions](PowerPoint.PrintOptions.md)** object that represents print options that are saved with the specified presentation. Read-only.
+Returns a **[PrintOptions](PowerPoint.PrintOptions.md)** object that represents print options that are saved with the specified presentation. Read-only.
 
 
 ## Syntax

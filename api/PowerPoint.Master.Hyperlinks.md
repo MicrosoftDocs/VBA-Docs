@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Master.Hyperlinks property (PowerPoint)
 
-Returns a  **[Hyperlinks](PowerPoint.Hyperlinks.md)** collection that represents all the hyperlinks on the specified slide. Read-only.
+Returns a **[Hyperlinks](PowerPoint.Hyperlinks.md)** collection that represents all the hyperlinks on the specified slide. Read-only.
 
 
 ## Syntax

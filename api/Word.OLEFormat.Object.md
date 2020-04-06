@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEFormat.Object property (Word)
 
-Returns an  **Object** that represents the specified OLE object's top-level interface. .
+Returns an **Object** that represents the specified OLE object's top-level interface. .
 
 
 ## Syntax

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 
 # Application.Table method (Project)
-Creates a  **ReportTable** object in the active report.
+Creates a **ReportTable** object in the active report.
 
 ## Syntax
 

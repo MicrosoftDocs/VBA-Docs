@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormRegion.FormRegionMode property (Outlook)
 
-Returns an  **OlFormRegionMode** constant that indicates whether the form region is in a read page, compose page, or Reading Pane. Read-only.
+Returns an **OlFormRegionMode** constant that indicates whether the form region is in a read page, compose page, or Reading Pane. Read-only.
 
 
 ## Syntax

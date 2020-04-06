@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationPane.Modules property (Outlook)
 
-Returns a  **[NavigationModules](Outlook.NavigationModules.md)** object that represents the set of navigation modules contained by the navigation pane. Read-only.
+Returns a **[NavigationModules](Outlook.NavigationModules.md)** object that represents the set of navigation modules contained by the navigation pane. Read-only.
 
 
 ## Syntax

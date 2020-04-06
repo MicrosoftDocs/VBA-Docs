@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # GroupCriteria2.AddEx method (Project)
 
-Adds a  **GroupCriterion2** object to the **GroupCriteria2** collection, where **CellColor** can be a hexadecimal value.
+Adds a **GroupCriterion2** object to the **GroupCriteria2** collection, where **CellColor** can be a hexadecimal value.
 
 
 ## Syntax

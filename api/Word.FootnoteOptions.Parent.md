@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FootnoteOptions.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **FootnoteOptions** object.
+Returns an **Object** that represents the parent object of the specified **FootnoteOptions** object.
 
 
 ## Syntax

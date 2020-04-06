@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Table property (PowerPoint)
 
-Returns a  **[Table](PowerPoint.Table.md)** object that represents a table in a shape or in a shape range. Read-only.
+Returns a **[Table](PowerPoint.Table.md)** object that represents a table in a shape or in a shape range. Read-only.
 
 
 ## Syntax

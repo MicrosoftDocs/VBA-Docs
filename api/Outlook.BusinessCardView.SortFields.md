@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BusinessCardView.SortFields property (Outlook)
 
-Returns an  **[OrderFields](Outlook.OrderFields.md)** collection object that represents all the fields by which the view is sorted. Read-only.
+Returns an **[OrderFields](Outlook.OrderFields.md)** collection object that represents all the fields by which the view is sorted. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.SlideShowWindows property (PowerPoint)
 
-Returns a  **[SlideShowWindows](PowerPoint.SlideShowWindows.md)** collection that represents all open slide show windows. Read-only.
+Returns a **[SlideShowWindows](PowerPoint.SlideShowWindows.md)** collection that represents all open slide show windows. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BuildingBlockType.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **BuildingBlockType** object.
+Returns an **Object** that represents the parent object of the specified **BuildingBlockType** object.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormRegion.Form property (Outlook)
 
-Returns an  **Object** representing the **MSForms.UserForm** object. Read-only.
+Returns an **Object** representing the **MSForms.UserForm** object. Read-only.
 
 
 ## Syntax

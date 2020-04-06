@@ -16,7 +16,7 @@ Returns or sets the accelerator key for a control. Read/write.
 
 _expression_.**Accelerator**
 
-_expression_ A variable that represents an  **OptionButton** object.
+_expression_ A variable that represents an **OptionButton** object.
 
 
 ## Remarks

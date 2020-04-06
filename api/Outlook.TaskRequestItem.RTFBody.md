@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskRequestItem.RTFBody property (Outlook)
 
-Returns or sets a  **Byte** array that represents the body of the Microsoft Outlook item in Rich Text Format. Read/write.
+Returns or sets a **Byte** array that represents the body of the Microsoft Outlook item in Rich Text Format. Read/write.
 
 
 ## Syntax

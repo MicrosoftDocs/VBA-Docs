@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Chart.Format property (Project)
-Gets an  **Office.IMsoChartFormat** object that enables access to format information for a chart. Read-only **IMsoChartFormat**.
+Gets an **Office.IMsoChartFormat** object that enables access to format information for a chart. Read-only **IMsoChartFormat**.
 
 ## Syntax
 

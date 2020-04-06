@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Year.Months property (Project)
 
-Gets a  **[Months](Project.months.md)** collection representing the months in a year. Read-only **Months**.
+Gets a **[Months](Project.months.md)** collection representing the months in a year. Read-only **Months**.
 
 
 ## Syntax

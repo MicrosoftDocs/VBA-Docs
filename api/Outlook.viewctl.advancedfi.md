@@ -16,6 +16,6 @@ Displays the Microsoft Outlook  **Advanced Find** dialog box.
 
 _expression_.**AdvancedFind**
 
-_expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a **ViewCtl** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Table.Style property (PowerPoint)
 
-Returns a  **[TableStyle](PowerPoint.TableStyle.md)** object that contains information about the specified table's current table style. Read-only.
+Returns a **[TableStyle](PowerPoint.TableStyle.md)** object that contains information about the specified table's current table style. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableView.AutomaticGrouping property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether the automatic grouping is active in the **[TableView](Outlook.TableView.md)** object. Read/write.
+Returns or sets a **Boolean** value that indicates whether the automatic grouping is active in the **[TableView](Outlook.TableView.md)** object. Read/write.
 
 
 ## Syntax

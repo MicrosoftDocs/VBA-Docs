@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeRange.ConnectorFormat property (PowerPoint)
 
-Returns a  **[ConnectorFormat](PowerPoint.ConnectorFormat.md)** object that contains connector formatting properties. Applies to **Shape** or **ShapeRange** objects that represent connectors. Read-only.
+Returns a **[ConnectorFormat](PowerPoint.ConnectorFormat.md)** object that contains connector formatting properties. Applies to **Shape** or **ShapeRange** objects that represent connectors. Read-only.
 
 
 ## Syntax

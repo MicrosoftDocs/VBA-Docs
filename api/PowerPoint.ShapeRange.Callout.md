@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeRange.Callout property (PowerPoint)
 
-Returns a  **[CalloutFormat](PowerPoint.CalloutFormat.md)** object that contains callout formatting properties for the specified shape. Applies to **Shape** or **ShapeRange** objects that represent line callouts. Read-only.
+Returns a **[CalloutFormat](PowerPoint.CalloutFormat.md)** object that contains callout formatting properties for the specified shape. Applies to **Shape** or **ShapeRange** objects that represent line callouts. Read-only.
 
 
 ## Syntax

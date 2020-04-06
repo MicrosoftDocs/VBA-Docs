@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folder.GetExplorer method (Outlook)
 
-Returns an  **[Explorer](Outlook.Explorer.md)** object that represents a new, inactive **Explorer** object initialized with the specified folder as the current folder.
+Returns an **[Explorer](Outlook.Explorer.md)** object that represents a new, inactive **Explorer** object initialized with the specified folder as the current folder.
 
 
 ## Syntax

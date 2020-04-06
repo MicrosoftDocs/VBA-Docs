@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathMatCols.Item method (Word)
 
-Returns an  **OMathMatCol** object that represents the specified item in the collection.
+Returns an **OMathMatCol** object that represents the specified item in the collection.
 
 
 ## Syntax

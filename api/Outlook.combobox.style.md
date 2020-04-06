@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # ComboBox.Style Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies how the user can choose or set the control's value. Read/write.
+Returns or sets an **Integer** that specifies how the user can choose or set the control's value. Read/write.
 
 
 ## Syntax

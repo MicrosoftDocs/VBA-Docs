@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Action.ReplyStyle property (Outlook)
 
-Returns or sets an  **[OlActionReplyStyle](Outlook.OlActionReplyStyle.md)** constant indicating the text formatting reply style for the specified action. Read/write.
+Returns or sets an **[OlActionReplyStyle](Outlook.OlActionReplyStyle.md)** constant indicating the text formatting reply style for the specified action. Read/write.
 
 
 ## Syntax

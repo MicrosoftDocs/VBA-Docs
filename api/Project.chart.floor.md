@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Chart.Floor property (Project)
-Gets an  **Office.IMsoFloor** object that represents the floor of a 3D chart. Read-only **IMsoFloor**.
+Gets an **Office.IMsoFloor** object that represents the floor of a 3D chart. Read-only **IMsoFloor**.
 
 ## Syntax
 

@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # ShapeRange.Glow property (Project)
-Gets a  **GlowFormat** object for the shape range, if the shape range contains glow formatting properties. Read-only **[GlowFormat](Office.GlowFormat.md)**.
+Gets a **GlowFormat** object for the shape range, if the shape range contains glow formatting properties. Read-only **[GlowFormat](Office.GlowFormat.md)**.
 
 ## Syntax
 

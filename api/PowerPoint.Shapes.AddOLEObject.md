@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shapes.AddOLEObject method (PowerPoint)
 
-Creates an OLE object. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the new OLE object.
+Creates an OLE object. Returns a **[Shape](PowerPoint.Shape.md)** object that represents the new OLE object.
 
 
 ## Syntax

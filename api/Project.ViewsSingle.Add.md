@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ViewsSingle.Add method (Project)
 
-Adds a  **ViewSingle** object to a **ViewsSingle** collection.
+Adds a **ViewSingle** object to a **ViewsSingle** collection.
 
 
 ## Syntax

@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # FullSeriesCollection.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **FullSeriesCollection** object.
+Returns an **Object** that represents the parent object of the specified **FullSeriesCollection** object.
 
 
 ## Syntax

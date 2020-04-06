@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlSharingMsgType enumeration (Outlook)
 
-Indicates the type of sharing message represented by a  **[SharingItem](Outlook.SharingItem.md)** object.
+Indicates the type of sharing message represented by a **[SharingItem](Outlook.SharingItem.md)** object.
 
 
 

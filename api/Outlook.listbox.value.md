@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # ListBox.Value Property (Outlook Forms Script)
 
-Returns or sets a  **Variant** that specifies the value in the **[BoundColumn](Outlook.listbox.boundcolumn.md)** of the currently selected rows. Read/write.
+Returns or sets a **Variant** that specifies the value in the **[BoundColumn](Outlook.listbox.boundcolumn.md)** of the currently selected rows. Read/write.
 
 
 ## Syntax
 
 _expression_.**Value**
 
-_expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a **ListBox** object.
 
 
 ## Remarks

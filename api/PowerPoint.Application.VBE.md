@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.VBE property (PowerPoint)
 
-Returns a  **VBE** object that represents the Visual Basic Editor. Read-only.
+Returns a **VBE** object that represents the Visual Basic Editor. Read-only.
 
 
 ## Syntax

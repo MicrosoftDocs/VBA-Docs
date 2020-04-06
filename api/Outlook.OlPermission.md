@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlPermission enumeration (Outlook)
 
-Indicates the permission restrictions on an  **Item**.
+Indicates the permission restrictions on an **Item**.
 
 
 

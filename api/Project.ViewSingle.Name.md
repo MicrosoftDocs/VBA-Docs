@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # ViewSingle.Name property (Project)
 
-Gets the name of a  **ViewSingle** object. Read/write **String**.
+Gets the name of a **ViewSingle** object. Read/write **String**.
 
 
 ## Syntax

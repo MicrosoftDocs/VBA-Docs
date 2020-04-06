@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # ShapeRange.GroupItems property (Project)
-Gets a  **GroupShapes** object that represents the individual shapes in a group, if the **ShapeRange** object represents a group of shapes. Read-only[GroupShapes](https://msdn.microsoft.com/library/office/ff195331%28v=office.15%29).
+Gets a **GroupShapes** object that represents the individual shapes in a group, if the **ShapeRange** object represents a group of shapes. Read-only[GroupShapes](https://msdn.microsoft.com/library/office/ff195331%28v=office.15%29).
 
 ## Syntax
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AddressEntries.Item method (Outlook)
 
-Returns an  **[AddressEntry](Outlook.AddressEntry.md)** object from the collection.
+Returns an **[AddressEntry](Outlook.AddressEntry.md)** object from the collection.
 
 
 ## Syntax

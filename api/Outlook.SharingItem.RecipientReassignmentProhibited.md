@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.RecipientReassignmentProhibited property (Outlook)
 
-Returns a  **Boolean** that indicates **True** if the recipient cannot forward the specified **[SharingItem](Outlook.SharingItem.md)**. Read/write.
+Returns a **Boolean** that indicates **True** if the recipient cannot forward the specified **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

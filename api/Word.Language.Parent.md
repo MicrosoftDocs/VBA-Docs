@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Language.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Language** object.
+Returns an **Object** that represents the parent object of the specified **Language** object.
 
 
 ## Syntax

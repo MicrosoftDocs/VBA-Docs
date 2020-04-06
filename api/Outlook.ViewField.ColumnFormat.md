@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ViewField.ColumnFormat property (Outlook)
 
-Returns a  **[ColumnFormat](Outlook.ColumnFormat.md)** object that represents the formatting information for the **[ViewField](Outlook.ViewField.md)** object. Read-only.
+Returns a **[ColumnFormat](Outlook.ColumnFormat.md)** object that represents the formatting information for the **[ViewField](Outlook.ViewField.md)** object. Read-only.
 
 
 ## Syntax

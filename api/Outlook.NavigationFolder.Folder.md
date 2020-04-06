@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationFolder.Folder property (Outlook)
 
-Returns a  **[Folder](Outlook.Folder.md)** object that represents the shared or linked folder associated with the navigation folder. Read-only.
+Returns a **[Folder](Outlook.Folder.md)** object that represents the shared or linked folder associated with the navigation folder. Read-only.
 
 
 ## Syntax

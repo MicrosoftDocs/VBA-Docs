@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.SendUsingAccount property (Outlook)
 
-Returns or sets an  **[Account](Outlook.Account.md)** object that represents the account under which the **[AppointmentItem](Outlook.AppointmentItem.md)** is to be sent. Read/write.
+Returns or sets an **[Account](Outlook.Account.md)** object that represents the account under which the **[AppointmentItem](Outlook.AppointmentItem.md)** is to be sent. Read/write.
 
 
 ## Syntax

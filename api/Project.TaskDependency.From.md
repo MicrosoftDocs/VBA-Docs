@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskDependency.From property (Project)
 
-Gets a  **[Task](Project.Task.md)** object that is the predecessor in a task dependency. Read-only **Task**.
+Gets a **[Task](Project.Task.md)** object that is the predecessor in a task dependency. Read-only **Task**.
 
 
 ## Syntax

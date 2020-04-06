@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AddressEntries object (Outlook)
 
-Contains a collection of addresses for an  **[AddressList](Outlook.AddressList.md)** object.
+Contains a collection of addresses for an **[AddressList](Outlook.AddressList.md)** object.
 
 
 ## Remarks
@@ -24,7 +24,7 @@ The object may contain zero or more  **[AddressEntry](Outlook.AddressEntry.md)**
 
 ## Example
 
-The following example sets a reference to an  **AddressEntries** object.
+The following example sets a reference to an **AddressEntries** object.
 
 
 

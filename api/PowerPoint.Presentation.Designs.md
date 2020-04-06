@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Presentation.Designs property (PowerPoint)
 
-Returns a  **[Designs](PowerPoint.Designs.md)** object that represents a collection of designs.
+Returns a **[Designs](PowerPoint.Designs.md)** object that represents a collection of designs.
 
 
 ## Syntax

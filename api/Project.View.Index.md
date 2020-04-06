@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # View.Index property (Project)
 
-Gets the index of a  **View** object in the **Views** containing object. Read-only **Long**.
+Gets the index of a **View** object in the **Views** containing object. Read-only **Long**.
 
 
 ## Syntax

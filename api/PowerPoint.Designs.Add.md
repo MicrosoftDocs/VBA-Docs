@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Designs.Add method (PowerPoint)
 
-Returns a  **[Design](PowerPoint.Design.md)** object that represents a new slide design.
+Returns a **[Design](PowerPoint.Design.md)** object that represents a new slide design.
 
 
 ## Syntax

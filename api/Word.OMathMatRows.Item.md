@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathMatRows.Item method (Word)
 
-Returns an  **OMathMatRow** object that represents the specified item in the collection.
+Returns an **OMathMatRow** object that represents the specified item in the collection.
 
 
 ## Syntax

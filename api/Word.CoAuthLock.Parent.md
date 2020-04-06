@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CoAuthLock.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **[CoAuthLock](Word.CoAuthLock.md)** object.
+Returns an **Object** that represents the parent object of the specified **[CoAuthLock](Word.CoAuthLock.md)** object.
 
 
 ## Syntax

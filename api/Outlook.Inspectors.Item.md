@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Inspectors.Item method (Outlook)
 
-Returns an  **[Inspector](Outlook.Inspector.md)** object from the collection.
+Returns an **[Inspector](Outlook.Inspector.md)** object from the collection.
 
 
 ## Syntax

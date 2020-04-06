@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleConditions.Category property (Outlook)
 
-Returns a  **[CategoryRuleCondition](Outlook.CategoryRuleCondition.md)** object with a **[CategoryRuleCondition.ConditionType](Outlook.CategoryRuleCondition.ConditionType.md)** of **olConditionCategory**. Read-only.
+Returns a **[CategoryRuleCondition](Outlook.CategoryRuleCondition.md)** object with a **[CategoryRuleCondition.ConditionType](Outlook.CategoryRuleCondition.ConditionType.md)** of **olConditionCategory**. Read-only.
 
 
 ## Syntax

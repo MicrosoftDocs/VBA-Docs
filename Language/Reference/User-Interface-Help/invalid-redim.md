@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1011326
 ms.prod: office
 ms.assetid: 32682d86-d3c1-bf15-677c-9b0efd5e9e75
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -54,9 +54,7 @@ ReDim MyVar(5) As Variant    ' ReDim it as array of Variant subtypes.
     
     Remove the  **ReDim**.
     
-     **Note**  If you don't specify a type for a variable, the variable receives the default type,  **Variant**. This isn't always obvious. For example, the following code declares two variables, the first, `MyVar`, is a  **Variant**; the second, `AnotherVar`, is an  **Integer**.
-
-
+     **Note**  If you don't specify a type for a variable, the variable receives the default type, **Variant**. This isn't always obvious. For example, the following code declares two variables, the first, `MyVar`, is a **Variant**; the second, `AnotherVar`, is an **Integer**.
 
 
 ```vb

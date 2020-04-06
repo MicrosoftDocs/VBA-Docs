@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextInput.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **TextInput** object.
+Returns an **Object** that represents the parent object of the specified **TextInput** object.
 
 
 ## Syntax

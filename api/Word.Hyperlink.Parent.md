@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Hyperlink.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Hyperlink** object.
+Returns an **Object** that represents the parent object of the specified **Hyperlink** object.
 
 
 ## Syntax

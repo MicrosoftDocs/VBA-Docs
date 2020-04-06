@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # View.Slide property (PowerPoint)
 
-Returns or sets a  **[Slide](PowerPoint.Slide.md)** object that represents the slide that's currently displayed in the specified document window view. Read/write.
+Returns or sets a **[Slide](PowerPoint.Slide.md)** object that represents the slide that's currently displayed in the specified document window view. Read/write.
 
 
 ## Syntax

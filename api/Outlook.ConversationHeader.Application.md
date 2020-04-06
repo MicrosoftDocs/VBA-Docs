@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ConversationHeader.Application property (Outlook)
 
-Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the **[ConversationHeader](Outlook.ConversationHeader.md)** object. Read-only.
+Returns an **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the **[ConversationHeader](Outlook.ConversationHeader.md)** object. Read-only.
 
 
 ## Syntax

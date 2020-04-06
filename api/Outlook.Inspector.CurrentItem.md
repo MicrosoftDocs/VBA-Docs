@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Inspector.CurrentItem property (Outlook)
 
-Returns an  **Object** representing the current item being displayed in the inspector. Read-only.
+Returns an **Object** representing the current item being displayed in the inspector. Read-only.
 
 
 ## Syntax

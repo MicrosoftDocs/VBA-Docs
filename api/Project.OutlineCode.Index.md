@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OutlineCode.Index property (Project)
 
-Gets the index of an  **OutlineCode** object in the containing **OutlineCodes** collection. Read-only **Long**.
+Gets the index of an **OutlineCode** object in the containing **OutlineCodes** collection. Read-only **Long**.
 
 
 ## Syntax

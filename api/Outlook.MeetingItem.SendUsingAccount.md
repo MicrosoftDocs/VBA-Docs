@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MeetingItem.SendUsingAccount property (Outlook)
 
-Returns or sets an  **[Account](Outlook.Account.md)** object that represents the account to use to send the **[MeetingItem](Outlook.MeetingItem.md)**. Read/write.
+Returns or sets an **[Account](Outlook.Account.md)** object that represents the account to use to send the **[MeetingItem](Outlook.MeetingItem.md)**. Read/write.
 
 
 ## Syntax

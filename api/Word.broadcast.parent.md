@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Broadcast.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Broadcast** object.
+Returns an **Object** that represents the parent object of the specified **Broadcast** object.
 
 
 ## Syntax

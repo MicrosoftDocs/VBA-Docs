@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RemoteItem.HasAttachment property (Outlook)
 
-Returns a  **Boolean** that is **True** (default) if the remote item has an attachment associated with it. Read-only.
+Returns a **Boolean** that is **True** (default) if the remote item has an attachment associated with it. Read-only.
 
 
 ## Syntax

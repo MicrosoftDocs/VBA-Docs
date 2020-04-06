@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Reminder.IsVisible property (Outlook)
 
-Returns a  **Boolean** that determines if the reminder is currently visible. Read-only.
+Returns a **Boolean** that determines if the reminder is currently visible. Read-only.
 
 
 ## Syntax

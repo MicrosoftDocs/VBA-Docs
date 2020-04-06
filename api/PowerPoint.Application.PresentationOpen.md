@@ -39,9 +39,9 @@ For information about using events with the  **Application** object, see [How to
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this event maps to the following types:
 
 
--  **Microsoft.Office.Interop.PowerPoint.EApplication_PresentationOpenEventHandler** (the **PresentationOpen** delegate.)
+- **Microsoft.Office.Interop.PowerPoint.EApplication_PresentationOpenEventHandler** (the **PresentationOpen** delegate.)
     
--  **Microsoft.Office.Interop.PowerPoint.EApplication_Event.PresentationOpen** (the **PresentationOpen** event.)
+- **Microsoft.Office.Interop.PowerPoint.EApplication_Event.PresentationOpen** (the **PresentationOpen** event.)
     
 
 ## Example

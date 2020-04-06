@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Presentation.VBProject property (PowerPoint)
 
-Returns a  **VBProject** object that represents the individual Visual Basic project for the presentation. Read-only.
+Returns a **VBProject** object that represents the individual Visual Basic project for the presentation. Read-only.
 
 
 ## Syntax

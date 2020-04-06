@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Chart.ChartTitle property (Project)
-Gets an  **Office.IMsoChartTitle** object that represents the title of the specified chart. Read-only **IMsoChartTitle**.
+Gets an **Office.IMsoChartTitle** object that represents the title of the specified chart. Read-only **IMsoChartTitle**.
 
 ## Syntax
 

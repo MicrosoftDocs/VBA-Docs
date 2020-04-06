@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The parent of a  **Project** object can be the **Application** or a **Subproject**.
+The parent of a **Project** object can be the **Application** or a **Subproject**.
 
 Use the  **Parent** property to access the properties or methods of the parent of an object.
 

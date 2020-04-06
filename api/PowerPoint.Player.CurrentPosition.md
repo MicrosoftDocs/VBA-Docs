@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Player.CurrentPosition property (PowerPoint)
 
-Gets or sets a  **Long** that represents the current position of the player in the media. Read/write.
+Gets or sets a **Long** that represents the current position of the player in the media. Read/write.
 
 
 ## Syntax

@@ -42,7 +42,7 @@ An  **[Attachment](Outlook.Attachment.md)** object that represents the new attac
 
 ## Remarks
 
-When an  **Attachment** is added to the **Attachments** collection of an item, the **Type** property of the **Attachment** will always return **olOLE** (6) until the item is saved. To ensure consistent results, always save an item before adding or removing objects in the **Attachments** collection.
+When an **Attachment** is added to the **Attachments** collection of an item, the **Type** property of the **Attachment** will always return **olOLE** (6) until the item is saved. To ensure consistent results, always save an item before adding or removing objects in the **Attachments** collection.
 
 
 ## Example

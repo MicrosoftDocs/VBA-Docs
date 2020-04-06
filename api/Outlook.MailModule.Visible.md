@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailModule.Visible property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether the **[MailModule](Outlook.MailModule.md)** object is displayed in the navigation pane. Read/write.
+Returns or sets a **Boolean** value that determines whether the **[MailModule](Outlook.MailModule.md)** object is displayed in the navigation pane. Read/write.
 
 
 ## Syntax

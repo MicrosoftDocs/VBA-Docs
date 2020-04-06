@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # ScrollBar.SmallChange Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the amount of movement that occurs when the user clicks either scroll arrow in a **[ScrollBar](Outlook.scrollbar.md)**. Read/write.
+Returns or sets an **Integer** that specifies the amount of movement that occurs when the user clicks either scroll arrow in a **[ScrollBar](Outlook.scrollbar.md)**. Read/write.
 
 
 ## Syntax

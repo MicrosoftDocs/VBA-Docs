@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationFolder.IsSelected property (Outlook)
 
-Returns or sets a  **Boolean** variable that indicates whether the **[NavigationFolder](Outlook.NavigationFolder.md)** object is selected for display. Read/write.
+Returns or sets a **Boolean** variable that indicates whether the **[NavigationFolder](Outlook.NavigationFolder.md)** object is selected for display. Read/write.
 
 
 ## Syntax

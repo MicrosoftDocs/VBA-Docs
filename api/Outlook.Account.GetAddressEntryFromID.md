@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Account.GetAddressEntryFromID method (Outlook)
 
-Returns an  **[AddressEntry](Outlook.AddressEntry.md)** object that represents the address entry specified by the given entry ID.
+Returns an **[AddressEntry](Outlook.AddressEntry.md)** object that represents the address entry specified by the given entry ID.
 
 
 ## Syntax

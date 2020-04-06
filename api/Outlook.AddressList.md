@@ -26,7 +26,7 @@ The  **AddressList** object supplies a list of address entries to which a messag
 
 ## Example
 
-The following example retrieves an  **AddressList** object that represents the Personal Address List.
+The following example retrieves an **AddressList** object that represents the Personal Address List.
 
 
 ```vb

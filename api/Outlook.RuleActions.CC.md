@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleActions.CC property (Outlook)
 
-Returns a  **[SendRuleAction](Outlook.SendRuleAction.md)** object with **[SendRuleAction.ActionType](Outlook.SendRuleAction.ActionType.md)** being **olRuleActionCcMessage**. Read-only.
+Returns a **[SendRuleAction](Outlook.SendRuleAction.md)** object with **[SendRuleAction.ActionType](Outlook.SendRuleAction.ActionType.md)** being **olRuleActionCcMessage**. Read-only.
 
 
 ## Syntax

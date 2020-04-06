@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # ReportItem.Open event (Outlook)
 
-Occurs when an instance of the parent object is being opened in an  **[Inspector](Outlook.Inspector.md)**.
+Occurs when an instance of the parent object is being opened in an **[Inspector](Outlook.Inspector.md)**.
 
 
 ## Syntax

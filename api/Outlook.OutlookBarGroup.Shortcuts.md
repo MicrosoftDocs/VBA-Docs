@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OutlookBarGroup.Shortcuts property (Outlook)
 
-Returns an  **[OutlookBarShortcuts](Outlook.OutlookBarShortcuts.md)** collection of shortcuts contained within the **Shortcuts** pane. Read-only.
+Returns an **[OutlookBarShortcuts](Outlook.OutlookBarShortcuts.md)** collection of shortcuts contained within the **Shortcuts** pane. Read-only.
 
 
 ## Syntax

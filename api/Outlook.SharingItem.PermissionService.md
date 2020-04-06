@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.PermissionService property (Outlook)
 
-Sets or returns an  **[OlPermissionService](Outlook.OlPermissionService.md)** constant that determines the permission service that will be used when sending a **[SharingItem](Outlook.SharingItem.md)** protected by Information Rights Management (IRM). Read/write.
+Sets or returns an **[OlPermissionService](Outlook.OlPermissionService.md)** constant that determines the permission service that will be used when sending a **[SharingItem](Outlook.SharingItem.md)** protected by Information Rights Management (IRM). Read/write.
 
 
 ## Syntax

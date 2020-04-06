@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # GroupCriterion2.Delete method (Project)
 
-Deletes a  **GroupCriterion2** object from its containing **GroupCriteria2** collection.
+Deletes a **GroupCriterion2** object from its containing **GroupCriteria2** collection.
 
 
 ## Syntax

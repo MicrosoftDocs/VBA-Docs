@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ColorSchemes.Add method (PowerPoint)
 
-Adds a color scheme to the collection of available schemes. Returns a  **[ColorScheme](PowerPoint.ColorScheme.md)** object that represents the added color scheme.
+Adds a color scheme to the collection of available schemes. Returns a **[ColorScheme](PowerPoint.ColorScheme.md)** object that represents the added color scheme.
 
 
 ## Syntax

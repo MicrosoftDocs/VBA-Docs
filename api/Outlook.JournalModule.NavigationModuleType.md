@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # JournalModule.NavigationModuleType property (Outlook)
 
-Returns an  **[olNavigationModuleType](Outlook.OlNavigationModuleType.md)** constant that represents the navigation module type for the object. Read-only.
+Returns an **[olNavigationModuleType](Outlook.OlNavigationModuleType.md)** constant that represents the navigation module type for the object. Read-only.
 
 
 ## Syntax

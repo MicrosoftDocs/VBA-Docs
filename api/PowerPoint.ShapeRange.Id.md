@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeRange.Id property (PowerPoint)
 
-Returns a  **Long** that identifies the shape or range of shapes. Read-only.
+Returns a **Long** that identifies the shape or range of shapes. Read-only.
 
 
 ## Syntax

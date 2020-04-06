@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Action.ResponseStyle property (Outlook)
 
-Returns or sets an  **[OlActionResponseStyle](Outlook.OlActionResponseStyle.md)** constant indicating the response style used when the specified action is executed. Read/write.
+Returns or sets an **[OlActionResponseStyle](Outlook.OlActionResponseStyle.md)** constant indicating the response style used when the specified action is executed. Read/write.
 
 
 ## Syntax

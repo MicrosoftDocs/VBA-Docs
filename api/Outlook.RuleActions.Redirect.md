@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleActions.Redirect property (Outlook)
 
-Returns a  **[SendRuleAction](Outlook.SendRuleAction.md)** object with **[SendRuleAction.ActionType](Outlook.SendRuleAction.ActionType.md)** being **olRuleActionRedirect**. Read-only.
+Returns a **[SendRuleAction](Outlook.SendRuleAction.md)** object with **[SendRuleAction.ActionType](Outlook.SendRuleAction.ActionType.md)** being **olRuleActionRedirect**. Read-only.
 
 
 ## Syntax

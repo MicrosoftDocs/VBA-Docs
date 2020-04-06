@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # SpinButton.SmallChange Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the amount of movement that occurs when the user clicks either scroll arrow in a **[SpinButton](Outlook.spinbutton.md)**. Read/write.
+Returns or sets an **Integer** that specifies the amount of movement that occurs when the user clicks either scroll arrow in a **[SpinButton](Outlook.spinbutton.md)**. Read/write.
 
 
 ## Syntax

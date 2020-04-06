@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Exceptions.Add method (Project)
 
-Adds an  **Exception** object to an **Exceptions** collection.
+Adds an **Exception** object to an **Exceptions** collection.
 
 
 ## Syntax

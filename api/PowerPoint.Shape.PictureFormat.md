@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.PictureFormat property (PowerPoint)
 
-Returns a  **[PictureFormat](PowerPoint.PictureFormat.md)** object that contains picture formatting properties for the specified shape. Read-only.
+Returns a **[PictureFormat](PowerPoint.PictureFormat.md)** object that contains picture formatting properties for the specified shape. Read-only.
 
 
 ## Syntax

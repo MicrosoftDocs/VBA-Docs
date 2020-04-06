@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextEffectFormat.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **TextEffectFormat** object.
+Returns an **Object** that represents the parent object of the specified **TextEffectFormat** object.
 
 
 ## Syntax

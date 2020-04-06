@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Cell.Shape property (PowerPoint)
 
-Returns a  **[Shape](PowerPoint.Shape.md)** object that represents a shape in a table cell. Read-only.
+Returns a **[Shape](PowerPoint.Shape.md)** object that represents a shape in a table cell. Read-only.
 
 
 ## Syntax

@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # ViewCtl.ItemCount Property (Outlook View Control)
 
-Returns a  **Long** that indicates the count of objects in the current folder displayed in the control. Read-only.
+Returns a **Long** that indicates the count of objects in the current folder displayed in the control. Read-only.
 
 
 ## Syntax
 
 _expression_.**ItemCount**
 
-_expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

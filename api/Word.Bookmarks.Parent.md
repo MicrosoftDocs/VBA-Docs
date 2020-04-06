@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Bookmarks.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Bookmarks** collection.
+Returns an **Object** that represents the parent object of the specified **Bookmarks** collection.
 
 
 ## Syntax

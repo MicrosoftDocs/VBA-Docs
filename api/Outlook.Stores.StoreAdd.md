@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Stores.StoreAdd event (Outlook)
 
-Occurs when a  **[Store](Outlook.Store.md)** has been added to the current session either programmatically or through user action.
+Occurs when a **[Store](Outlook.Store.md)** has been added to the current session either programmatically or through user action.
 
 
 ## Syntax

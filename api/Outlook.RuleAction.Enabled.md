@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleAction.Enabled property (Outlook)
 
-Returns or sets a  **Boolean** that determines if the **[RuleAction](Outlook.RuleAction.md)** is enabled. Read/write.
+Returns or sets a **Boolean** that determines if the **[RuleAction](Outlook.RuleAction.md)** is enabled. Read/write.
 
 
 ## Syntax

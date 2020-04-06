@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleConditions.SenderAddress property (Outlook)
 
-Returns an  **[AddressRuleCondition](Outlook.AddressRuleCondition.md)** object with an **[AddressRuleCondition.ConditionType](Outlook.AddressRuleCondition.ConditionType.md)** of **olConditionSenderAddress**. Read-only.
+Returns an **[AddressRuleCondition](Outlook.AddressRuleCondition.md)** object with an **[AddressRuleCondition.ConditionType](Outlook.AddressRuleCondition.ConditionType.md)** of **olConditionSenderAddress**. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathDelim.BegChar property (Word)
 
-Returns or sets an  **Integer** that represents the beginning delimiter character in a delimiter object. Read/write.
+Returns or sets an **Integer** that represents the beginning delimiter character in a delimiter object. Read/write.
 
 
 ## Syntax

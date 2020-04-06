@@ -30,7 +30,7 @@ _expression_. `LevelSelected`( `_ResolveMethod_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ResolveMethod_|Optional|**PjLevelSelectedOption**|Specifies what to resolve in the leveling process. Can be a  **[PjLevelSelectedOption](Project.PjLevelSelectedOption.md)** constant. The default is **pjResolveSelectedTasks**.|
+| _ResolveMethod_|Optional|**PjLevelSelectedOption**|Specifies what to resolve in the leveling process. Can be a **[PjLevelSelectedOption](Project.PjLevelSelectedOption.md)** constant. The default is **pjResolveSelectedTasks**.|
 
 ## Return value
 

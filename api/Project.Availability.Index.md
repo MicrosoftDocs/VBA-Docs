@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Availability.Index property (Project)
 
-Gets the index of an  **Availability** object in the containing **Availabilities** collection. Read-only **Long**.
+Gets the index of an **Availability** object in the containing **Availabilities** collection. Read-only **Long**.
 
 
 ## Syntax

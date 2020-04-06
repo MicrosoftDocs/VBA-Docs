@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.GlobalTaskFilters property (Project)
 
-Gets or sets a  **[Filters](Project.Filter.md)** collection representing the task filters in the Global.mpt file. Read/write **Filters**.
+Gets or sets a **[Filters](Project.Filter.md)** collection representing the task filters in the Global.mpt file. Read/write **Filters**.
 
 
 ## Syntax

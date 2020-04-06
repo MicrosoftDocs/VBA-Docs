@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.Submitted property (Outlook)
 
-Returns a  **Boolean** value that is **True** if the **[SharingItem](Outlook.SharingItem.md)** has been submitted. Read-only.
+Returns a **Boolean** value that is **True** if the **[SharingItem](Outlook.SharingItem.md)** has been submitted. Read-only.
 
 
 ## Syntax

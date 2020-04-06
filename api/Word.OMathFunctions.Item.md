@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathFunctions.Item method (Word)
 
-Returns an  **OMathFunction** object that represents the specified item in the collection.
+Returns an **OMathFunction** object that represents the specified item in the collection.
 
 
 ## Syntax

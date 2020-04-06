@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BusinessCardView.ViewType property (Outlook)
 
-Returns an  **[OlViewType](Outlook.OlViewType.md)** constant that represents the view type of the view. Read-only.
+Returns an **[OlViewType](Outlook.OlViewType.md)** constant that represents the view type of the view. Read-only.
 
 
 ## Syntax

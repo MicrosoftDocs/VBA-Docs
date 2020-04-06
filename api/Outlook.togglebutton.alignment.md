@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # ToggleButton.Alignment Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that indicates the position of a control relative to its caption. Read/write.
+Returns or sets an **Integer** that indicates the position of a control relative to its caption. Read/write.
 
 
 ## Syntax

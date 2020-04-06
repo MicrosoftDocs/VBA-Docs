@@ -16,7 +16,7 @@ Returns or sets a  **String** that identifies a group of mutually exclusive **[O
 
 _expression_.**GroupName**
 
-_expression_ A variable that represents an  **OptionButton** object.
+_expression_ A variable that represents an **OptionButton** object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RecurrencePattern.Interval property (Outlook)
 
-Returns or sets a  **Long** specifying the number of units of a given recurrence type between occurrences. Read/write.
+Returns or sets a **Long** specifying the number of units of a given recurrence type between occurrences. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CodeMask.Add method (Project)
 
-Returns a  **[CodeMaskLevel](Project.CodeMaskLevel.md)** object.
+Returns a **[CodeMaskLevel](Project.CodeMaskLevel.md)** object.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shapes.AddPicture method (PowerPoint)
 
-Creates a picture from an existing file. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the new picture.
+Creates a picture from an existing file. Returns a **[Shape](PowerPoint.Shape.md)** object that represents the new picture.
 
 
 ## Syntax

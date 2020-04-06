@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resources.UniqueID property (Project)
 
-Gets a  **[Resource](Project.Resource.md)** object from its containing collection. Read-only **Resource**.
+Gets a **[Resource](Project.Resource.md)** object from its containing collection. Read-only **Resource**.
 
 
 ## Syntax

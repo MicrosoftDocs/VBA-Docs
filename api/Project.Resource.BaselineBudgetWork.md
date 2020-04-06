@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.BaselineBudgetWork property (Project)
 
-Gets or sets the baseline budget work (in hours) for a  **Resource**. Read/write **Variant**.
+Gets or sets the baseline budget work (in hours) for a **Resource**. Read/write **Variant**.
 
 
 ## Syntax

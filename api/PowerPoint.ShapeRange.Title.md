@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeRange.Title property (PowerPoint)
 
-Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the slide title. Read-only.
+Returns a **[Shape](PowerPoint.Shape.md)** object that represents the slide title. Read-only.
 
 
 ## Syntax

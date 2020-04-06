@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleActions.Stop property (Outlook)
 
-Returns a  **[RuleAction](Outlook.RuleAction.md)** object with **[RuleAction.ActionType](Outlook.RuleAction.ActionType.md)** being **olRuleActionStop**. Read-only.
+Returns a **[RuleAction](Outlook.RuleAction.md)** object with **[RuleAction.ActionType](Outlook.RuleAction.ActionType.md)** being **olRuleActionStop**. Read-only.
 
 
 ## Syntax

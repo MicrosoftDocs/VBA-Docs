@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XSLTransform.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **XSLTransform** object.
+Returns an **Object** that represents the parent object of the specified **XSLTransform** object.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Line.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Line** object.
+Returns an **Object** that represents the parent object of the specified **Line** object.
 
 
 ## Syntax

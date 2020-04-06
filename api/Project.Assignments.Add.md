@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Assignments.Add method (Project)
 
-Adds an  **Assignment** object to an **Assignments** collection.
+Adds an **Assignment** object to an **Assignments** collection.
 
 
 ## Syntax

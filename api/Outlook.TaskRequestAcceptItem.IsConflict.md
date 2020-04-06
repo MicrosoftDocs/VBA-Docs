@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskRequestAcceptItem.IsConflict property (Outlook)
 
-Returns a  **Boolean** that determines if the item is in conflict. Read-only.
+Returns a **Boolean** that determines if the item is in conflict. Read-only.
 
 
 ## Syntax

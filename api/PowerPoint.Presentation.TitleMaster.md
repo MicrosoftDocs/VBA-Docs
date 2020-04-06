@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Presentation.TitleMaster property (PowerPoint)
 
-Returns a  **[Master](PowerPoint.Master.md)** object that represents the title master for the specified presentation.
+Returns a **[Master](PowerPoint.Master.md)** object that represents the title master for the specified presentation.
 
 
 ## Syntax

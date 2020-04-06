@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleActions.MoveToFolder property (Outlook)
 
-Returns a  **[MoveOrCopyRuleAction](Outlook.MoveOrCopyRuleAction.md)** object with **[MoveOrCopyRuleAction.ActionType](Outlook.MoveOrCopyRuleAction.ActionType.md)** being **olRuleActionMoveToFolder**. Read-only.
+Returns a **[MoveOrCopyRuleAction](Outlook.MoveOrCopyRuleAction.md)** object with **[MoveOrCopyRuleAction.ActionType](Outlook.MoveOrCopyRuleAction.ActionType.md)** being **olRuleActionMoveToFolder**. Read-only.
 
 
 ## Syntax

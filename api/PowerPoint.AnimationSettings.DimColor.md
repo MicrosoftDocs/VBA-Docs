@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AnimationSettings.DimColor property (PowerPoint)
 
-Returns or sets a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents the color of the specified shape after it is been built. Read-only.
+Returns or sets a **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents the color of the specified shape after it is been built. Read-only.
 
 
 ## Syntax

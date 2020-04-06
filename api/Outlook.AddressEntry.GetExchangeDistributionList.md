@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AddressEntry.GetExchangeDistributionList method (Outlook)
 
-Returns an  **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object that represents the **[AddressEntry](Outlook.AddressEntry.md)** if the **AddressEntry** belongs to an Exchange **[AddressList](Outlook.AddressList.md)** object such as the Global Address List (GAL) and corresponds to an Exchange distribution list.
+Returns an **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object that represents the **[AddressEntry](Outlook.AddressEntry.md)** if the **AddressEntry** belongs to an Exchange **[AddressList](Outlook.AddressList.md)** object such as the Global Address List (GAL) and corresponds to an Exchange distribution list.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ViewCombination.TopView property (Project)
 
-Gets or sets a  **[ViewSingle](Project.ViewSingle.md)** object representing the top view of the combination view. Read/write **ViewSingle**.
+Gets or sets a **[ViewSingle](Project.ViewSingle.md)** object representing the top view of the combination view. Read/write **ViewSingle**.
 
 
 ## Syntax

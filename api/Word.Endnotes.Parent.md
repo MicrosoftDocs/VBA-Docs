@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Endnotes.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Endnotes** object.
+Returns an **Object** that represents the parent object of the specified **Endnotes** object.
 
 
 ## Syntax

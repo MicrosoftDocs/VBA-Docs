@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Dialog.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Dialog** object.
+Returns an **Object** that represents the parent object of the specified **Dialog** object.
 
 
 ## Syntax

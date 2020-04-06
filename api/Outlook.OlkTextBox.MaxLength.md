@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTextBox.MaxLength property (Outlook)
 
-Returns or sets a  **Long** that specifies the maximum number of characters for the **[Value](Outlook.OlkTextBox.Value.md)** of this control. Read/write.
+Returns or sets a **Long** that specifies the maximum number of characters for the **[Value](Outlook.OlkTextBox.Value.md)** of this control. Read/write.
 
 
 ## Syntax

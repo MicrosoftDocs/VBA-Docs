@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeUser.GetExchangeUserManager method (Outlook)
 
-Returns an  **[ExchangeUser](Outlook.ExchangeUser.md)** object that represents the manager of the Exchange user.
+Returns an **[ExchangeUser](Outlook.ExchangeUser.md)** object that represents the manager of the Exchange user.
 
 
 ## Syntax

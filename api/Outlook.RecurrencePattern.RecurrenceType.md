@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RecurrencePattern.RecurrenceType property (Outlook)
 
-Returns or sets an  **[OlRecurrenceType](Outlook.OlRecurrenceType.md)** constant specifying the frequency of occurrences for the recurrence pattern. Read/write.
+Returns or sets an **[OlRecurrenceType](Outlook.OlRecurrenceType.md)** constant specifying the frequency of occurrences for the recurrence pattern. Read/write.
 
 
 ## Syntax

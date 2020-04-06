@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormRegion.Item property (Outlook)
 
-Returns an  **Object** corresponding to the Outlook item bound to the form region. Read-only.
+Returns an **Object** corresponding to the Outlook item bound to the form region. Read-only.
 
 
 ## Syntax

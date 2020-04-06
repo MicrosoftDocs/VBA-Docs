@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # TextBox.TabKeyBehavior Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether tabs are allowed in the edit region. Read/write.
+Returns or sets a **Boolean** that specifies whether tabs are allowed in the edit region. Read/write.
 
 
 ## Syntax

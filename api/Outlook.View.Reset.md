@@ -28,7 +28,7 @@ _expression_ A variable that represents a [View](Outlook.View.md) object.
 
 This method works only on built-in Outlook views.
 
-To properly reset the current view, you must do a  **View.Reset** and then a **[View.Apply](Outlook.View.Apply.md)**. The code sample below illustrates the order of the calls:
+To properly reset the current view, you must do a **View.Reset** and then a **[View.Apply](Outlook.View.Apply.md)**. The code sample below illustrates the order of the calls:
 
 
 

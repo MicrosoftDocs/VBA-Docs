@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # OptionButton.MousePointer Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the type of pointer displayed when the user positions the mouse over a particular object. Read/write.
+Returns or sets an **Integer** that specifies the type of pointer displayed when the user positions the mouse over a particular object. Read/write.
 
 
 ## Syntax
 
 _expression_.**MousePointer**
 
-_expression_ A variable that represents an  **OptionButton** object.
+_expression_ A variable that represents an **OptionButton** object.
 
 
 ## Remarks

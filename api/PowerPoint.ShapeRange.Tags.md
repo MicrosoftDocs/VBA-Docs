@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeRange.Tags property (PowerPoint)
 
-Returns a  **[Tags](PowerPoint.Tags.md)** object that represents the tags for the specified object. Read-only.
+Returns a **[Tags](PowerPoint.Tags.md)** object that represents the tags for the specified object. Read-only.
 
 
 ## Syntax

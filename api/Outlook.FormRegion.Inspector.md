@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormRegion.Inspector property (Outlook)
 
-Returns an  **[Inspector](Outlook.Inspector.md)** object representing the Inspector that hosts the form region. Read-only.
+Returns an **[Inspector](Outlook.Inspector.md)** object representing the Inspector that hosts the form region. Read-only.
 
 
 ## Syntax

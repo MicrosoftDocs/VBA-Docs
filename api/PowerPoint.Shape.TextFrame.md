@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.TextFrame property (PowerPoint)
 
-Returns a  **[TextFrame](PowerPoint.TextFrame.md)** object that contains the alignment and anchoring properties for the specified shape or master text style.
+Returns a **[TextFrame](PowerPoint.TextFrame.md)** object that contains the alignment and anchoring properties for the specified shape or master text style.
 
 
 ## Syntax

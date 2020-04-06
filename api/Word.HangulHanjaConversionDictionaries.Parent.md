@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # HangulHanjaConversionDictionaries.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **HangulHanjaConversionDictionaries** object.
+Returns an **Object** that represents the parent object of the specified **HangulHanjaConversionDictionaries** object.
 
 
 ## Syntax

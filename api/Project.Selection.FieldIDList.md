@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Selection.FieldIDList property (Project)
 
-Gets a  **[List](Project.List.md)** object representing all field identification numbers for the selected fields. Read-only **List**.
+Gets a **[List](Project.List.md)** object representing all field identification numbers for the selected fields. Read-only **List**.
 
 
 ## Syntax

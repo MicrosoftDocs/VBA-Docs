@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shapes.Placeholders property (PowerPoint)
 
-Returns a  **[Placeholders](PowerPoint.Placeholders.md)** collection that represents the collection of all the placeholders on a slide. Read-only.
+Returns a **[Placeholders](PowerPoint.Placeholders.md)** collection that represents the collection of all the placeholders on a slide. Read-only.
 
 
 ## Syntax

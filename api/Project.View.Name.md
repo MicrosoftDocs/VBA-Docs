@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # View.Name property (Project)
 
-Gets the name of a  **View** object. Read/write **String**.
+Gets the name of a **View** object. Read/write **String**.
 
 
 ## Syntax

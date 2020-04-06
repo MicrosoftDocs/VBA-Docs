@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # LookupTableEntry.Name property (Project)
 
-Gets the name of a  **LookupTableEntry** object. Read/write **String**.
+Gets the name of a **LookupTableEntry** object. Read/write **String**.
 
 
 ## Syntax

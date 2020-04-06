@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # PayRate.Index property (Project)
 
-Gets the index of a  **PayRate** object in the containing **PayRates** collection. Read-only **Long**.
+Gets the index of a **PayRate** object in the containing **PayRates** collection. Read-only **Long**.
 
 
 ## Syntax

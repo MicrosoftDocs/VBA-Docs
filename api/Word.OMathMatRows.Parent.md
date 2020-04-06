@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathMatRows.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **OMathMatRows** object.
+Returns an **Object** that represents the parent object of the specified **OMathMatRows** object.
 
 
 ## Syntax

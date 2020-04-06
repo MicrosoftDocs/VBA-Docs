@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MappedDataField.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **MappedDataField** object.
+Returns an **Object** that represents the parent object of the specified **MappedDataField** object.
 
 
 ## Syntax

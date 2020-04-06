@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextStyle.Levels property (PowerPoint)
 
-Returns a  **[TextStyleLevels](PowerPoint.TextStyleLevels.md)** object that represents outline text formatting. Read-only.
+Returns a **[TextStyleLevels](PowerPoint.TextStyleLevels.md)** object that represents outline text formatting. Read-only.
 
 
 ## Syntax

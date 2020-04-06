@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailMergeDataSource.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **MailMergeDataSource** object.
+Returns an **Object** that represents the parent object of the specified **MailMergeDataSource** object.
 
 
 ## Syntax

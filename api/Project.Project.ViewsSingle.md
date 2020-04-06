@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Project.ViewsSingle property (Project)
 
-Gets a  **[ViewsSingle](Project.ViewSingle.md)** collection representing the single views of the project. Read-only **ViewsSingle**.
+Gets a **[ViewsSingle](Project.ViewSingle.md)** collection representing the single views of the project. Read-only **ViewsSingle**.
 
 
 ## Syntax

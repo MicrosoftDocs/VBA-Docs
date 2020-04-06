@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # ViewCtl.EnableRowPersistance Property (Outlook View Control)
 
-Returns or sets a  **Boolean** value that indicates whether the View Control retains state information about the last selected row. Read/write.
+Returns or sets a **Boolean** value that indicates whether the View Control retains state information about the last selected row. Read/write.
 
 
 ## Syntax
 
 _expression_.**EnableRowPersistance**
 
-_expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

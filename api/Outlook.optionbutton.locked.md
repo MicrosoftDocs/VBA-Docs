@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # OptionButton.Locked Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether a control can be edited. Read/write.
+Returns or sets a **Boolean** that specifies whether a control can be edited. Read/write.
 
 
 ## Syntax
 
 _expression_.**Locked**
 
-_expression_ A variable that represents an  **OptionButton** object.
+_expression_ A variable that represents an **OptionButton** object.
 
 
 ## Remarks

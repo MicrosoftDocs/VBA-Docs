@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleActions.NewItemAlert property (Outlook)
 
-Returns a  **[NewItemAlertRuleAction](Outlook.NewItemAlertRuleAction.md)** object with **[ActionType](Outlook.NewItemAlertRuleAction.ActionType.md)** being **olRuleActionNewItemAlert**. Read-only.
+Returns a **[NewItemAlertRuleAction](Outlook.NewItemAlertRuleAction.md)** object with **[ActionType](Outlook.NewItemAlertRuleAction.ActionType.md)** being **olRuleActionNewItemAlert**. Read-only.
 
 
 ## Syntax

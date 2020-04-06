@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shading.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Shading** object.
+Returns an **Object** that represents the parent object of the specified **Shading** object.
 
 
 ## Syntax

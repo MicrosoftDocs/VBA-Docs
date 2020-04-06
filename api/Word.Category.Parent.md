@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Category.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Category** object.
+Returns an **Object** that represents the parent object of the specified **Category** object.
 
 
 ## Syntax

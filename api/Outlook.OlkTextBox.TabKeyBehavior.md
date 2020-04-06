@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTextBox.TabKeyBehavior property (Outlook)
 
-Returns or sets a  **Boolean** that specifies how the control responds to the **TAB** key. Read/write.
+Returns or sets a **Boolean** that specifies how the control responds to the **TAB** key. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathFunc.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **OMathFunc** object.
+Returns an **Object** that represents the parent object of the specified **OMathFunc** object.
 
 
 ## Syntax

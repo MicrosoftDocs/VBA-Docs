@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathScrSubSup.RemoveSup method (Word)
 
-Removes the superscript for an equation and returns an  **OMathFunction** object that represents the updated equation without the superscript.
+Removes the superscript for an equation and returns an **OMathFunction** object that represents the updated equation without the superscript.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ViewFont.Bold property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates if the font is bold in the **[ViewFont](Outlook.ViewFont.md)** object. Read/write.
+Returns or sets a **Boolean** value that indicates if the font is bold in the **[ViewFont](Outlook.ViewFont.md)** object. Read/write.
 
 
 ## Syntax

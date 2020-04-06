@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PropertyPages.Item method (Outlook)
 
-Returns a  **[PropertyPage](Outlook.PropertyPage.md)** object from the collection.
+Returns a **[PropertyPage](Outlook.PropertyPage.md)** object from the collection.
 
 
 ## Syntax

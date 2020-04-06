@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # CommandButton.BackStyle Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the background style for an object. Read/write.
+Returns or sets an **Integer** that specifies the background style for an object. Read/write.
 
 
 ## Syntax

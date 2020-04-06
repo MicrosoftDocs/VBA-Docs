@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # TextBox.TextAlign Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies how text is aligned in a control. Read/write.
+Returns or sets an **Integer** that specifies how text is aligned in a control. Read/write.
 
 
 ## Syntax

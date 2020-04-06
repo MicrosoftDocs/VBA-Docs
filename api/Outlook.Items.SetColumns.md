@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Items.SetColumns method (Outlook)
 
-Caches certain properties for extremely fast access to those particular properties of each item in an  **[Items](Outlook.Items.md)** collection.
+Caches certain properties for extremely fast access to those particular properties of each item in an **[Items](Outlook.Items.md)** collection.
 
 
 ## Syntax

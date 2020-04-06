@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OutlookBarShortcut.Target property (Outlook)
 
-Returns a  **Variant** indicating the target of the specified shortcut in a **Shortcuts** pane group. Read-only.
+Returns a **Variant** indicating the target of the specified shortcut in a **Shortcuts** pane group. Read-only.
 
 
 ## Syntax

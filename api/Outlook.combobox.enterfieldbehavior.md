@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # ComboBox.EnterFieldBehavior Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the selection behavior when entering a **[ComboBox](Outlook.combobox.md)**. Read/write.
+Returns or sets an **Integer** that specifies the selection behavior when entering a **[ComboBox](Outlook.combobox.md)**. Read/write.
 
 
 ## Syntax

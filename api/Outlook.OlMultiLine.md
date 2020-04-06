@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlMultiLine enumeration (Outlook)
 
-Indicates when multiple lines are displayed in a  **[TableView](Outlook.TableView.md)** object.
+Indicates when multiple lines are displayed in a **[TableView](Outlook.TableView.md)** object.
 
 
 

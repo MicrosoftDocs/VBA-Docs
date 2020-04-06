@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Dictionary.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Dictionary** object.
+Returns an **Object** that represents the parent object of the specified **Dictionary** object.
 
 
 ## Syntax

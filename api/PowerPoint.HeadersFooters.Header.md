@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # HeadersFooters.Header property (PowerPoint)
 
-Returns a  **[HeaderFooter](PowerPoint.HeaderFooter.md)** object that represents the header that appears at the top of a slide or in the upper-left corner of a notes page, handout, or outline. Read-only.
+Returns a **[HeaderFooter](PowerPoint.HeaderFooter.md)** object that represents the header that appears at the top of a slide or in the upper-left corner of a notes page, handout, or outline. Read-only.
 
 
 ## Syntax

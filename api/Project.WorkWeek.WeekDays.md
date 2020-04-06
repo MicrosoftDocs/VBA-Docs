@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WorkWeek.WeekDays property (Project)
 
-Gets a  **[WorkWeekDays](Project.Year.md)** collection representing the days in the work week. Read-only **WorkWeekDays**.
+Gets a **[WorkWeekDays](Project.Year.md)** collection representing the days in the work week. Read-only **WorkWeekDays**.
 
 
 ## Syntax

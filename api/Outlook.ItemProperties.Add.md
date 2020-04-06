@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ItemProperties.Add method (Outlook)
 
-Adds an  **ItemProperty** object to the **ItemProperties** collection.
+Adds an **ItemProperty** object to the **ItemProperties** collection.
 
 
 ## Syntax

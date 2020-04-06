@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkCommandButton.PictureAlignment property (Outlook)
 
-Returns or sets an  **[OlPictureAlignment](Outlook.OlPictureAlignment.md)** constant that specifies the alignment of the image and the text on the button. Read/write.
+Returns or sets an **[OlPictureAlignment](Outlook.OlPictureAlignment.md)** constant that specifies the alignment of the image and the text on the button. Read/write.
 
 
 ## Syntax

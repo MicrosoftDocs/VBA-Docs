@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # ResourceGroups2.Add method (Project)
 
-Adds a  **[Group2](Project.Group2.md)** object to a **ResourceGroups2** collection.
+Adds a **[Group2](Project.Group2.md)** object to a **ResourceGroups2** collection.
 
 
 ## Syntax

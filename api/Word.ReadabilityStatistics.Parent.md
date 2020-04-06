@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ReadabilityStatistics.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **ReadabilityStatistics** object.
+Returns an **Object** that represents the parent object of the specified **ReadabilityStatistics** object.
 
 
 ## Syntax

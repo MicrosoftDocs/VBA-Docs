@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTextBox.SelLength property (Outlook)
 
-Returns or sets a  **Long** that specifies the number of characters in the current selection. Read/write.
+Returns or sets a **Long** that specifies the number of characters in the current selection. Read/write.
 
 
 ## Syntax

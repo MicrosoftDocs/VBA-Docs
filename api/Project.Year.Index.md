@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Year.Index property (Project)
 
-Gets the index of a  **Year** object in the **Years** containing object. Read-only **Integer**.
+Gets the index of a **Year** object in the **Years** containing object. Read-only **Integer**.
 
 
 ## Syntax

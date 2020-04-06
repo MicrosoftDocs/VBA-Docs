@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Recipient.Index property (Outlook)
 
-Returns a  **Long** indicating the position of the object within the collection. Read-only.
+Returns a **Long** indicating the position of the object within the collection. Read-only.
 
 
 ## Syntax

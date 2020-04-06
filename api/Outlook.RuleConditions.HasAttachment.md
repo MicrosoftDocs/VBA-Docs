@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleConditions.HasAttachment property (Outlook)
 
-Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCondition.ConditionType](Outlook.RuleCondition.ConditionType.md)** of **olConditionHasAttachment**. Read-only.
+Returns a **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCondition.ConditionType](Outlook.RuleCondition.ConditionType.md)** of **olConditionHasAttachment**. Read-only.
 
 
 ## Syntax

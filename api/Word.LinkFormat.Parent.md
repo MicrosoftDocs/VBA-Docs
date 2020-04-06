@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # LinkFormat.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **LinkFormat** object.
+Returns an **Object** that represents the parent object of the specified **LinkFormat** object.
 
 
 ## Syntax

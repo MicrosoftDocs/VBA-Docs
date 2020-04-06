@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # ViewSingle.Index property (Project)
 
-Gets the index of a  **ViewSingle** object in the **ViewsSingle** containing object. Read-only **Long**.
+Gets the index of a **ViewSingle** object in the **ViewsSingle** containing object. Read-only **Long**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AddressList.ResolutionOrder property (Outlook)
 
-Returns an  **Integer** that represents the order of this **[AddressList](Outlook.AddressList.md)** in the custom scroll list in the **Addressing** dialog box. Read-only.
+Returns an **Integer** that represents the order of this **[AddressList](Outlook.AddressList.md)** in the custom scroll list in the **Addressing** dialog box. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Search.IsSynchronous property (Outlook)
 
-Returns a  **Boolean** indicating whether the search is synchronous. Read-only.
+Returns a **Boolean** indicating whether the search is synchronous. Read-only.
 
 
 ## Syntax

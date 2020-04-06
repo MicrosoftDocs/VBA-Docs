@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Replacement.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Replacement** object.
+Returns an **Object** that represents the parent object of the specified **Replacement** object.
 
 
 ## Syntax

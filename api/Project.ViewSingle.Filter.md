@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ViewSingle.Filter property (Project)
 
-Gets or sets a  **[Filter](Project.Filter.md)** object representing the filter used in a single view. Read/write **Filter**.
+Gets or sets a **[Filter](Project.Filter.md)** object representing the filter used in a single view. Read/write **Filter**.
 
 
 ## Syntax

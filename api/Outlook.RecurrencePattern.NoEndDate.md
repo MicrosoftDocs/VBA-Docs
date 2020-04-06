@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RecurrencePattern.NoEndDate property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the recurrence pattern has no end date. Read/write.
+Returns a **Boolean** value that indicates whether the recurrence pattern has no end date. Read/write.
 
 
 ## Syntax

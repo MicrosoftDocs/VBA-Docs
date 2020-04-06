@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # PageNumber.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **PageNumber** object.
+Returns an **Object** that represents the parent object of the specified **PageNumber** object.
 
 
 ## Syntax

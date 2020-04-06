@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkCheckBox.TripleState property (Outlook)
 
-Returns or sets a  **Boolean** that specifies whether a user can specify in the user interface the **Null** state for the control. Read/write.
+Returns or sets a **Boolean** that specifies whether a user can specify in the user interface the **Null** state for the control. Read/write.
 
 
 ## Syntax

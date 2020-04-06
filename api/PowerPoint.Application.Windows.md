@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Windows property (PowerPoint)
 
-Returns a  **[DocumentWindows](PowerPoint.DocumentWindows.md)** collection that represents all open document windows. Read-only.
+Returns a **[DocumentWindows](PowerPoint.DocumentWindows.md)** collection that represents all open document windows. Read-only.
 
 
 ## Syntax

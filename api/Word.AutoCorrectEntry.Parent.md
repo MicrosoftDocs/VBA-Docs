@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AutoCorrectEntry.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **AutoCorrectEntry** object.
+Returns an **Object** that represents the parent object of the specified **AutoCorrectEntry** object.
 
 
 ## Syntax

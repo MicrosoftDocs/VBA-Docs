@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Characters.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Characters** object.
+Returns an **Object** that represents the parent object of the specified **Characters** object.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Project.Resources property (Project)
 
-Gets a  **[Resources](Project.resources(object).md)** collection representing the resources in a **Project**. Read-only **Object**.
+Gets a **[Resources](Project.resources(object).md)** collection representing the resources in a **Project**. Read-only **Object**.
 
 
 ## Syntax

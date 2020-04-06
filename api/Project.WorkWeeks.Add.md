@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WorkWeeks.Add method (Project)
 
-Adds a  **WorkWeek** object to a **WorkWeeks** collection.
+Adds a **WorkWeek** object to a **WorkWeeks** collection.
 
 
 ## Syntax
@@ -27,9 +27,9 @@ _expression_.**Add** (_Start_, _Finish_, _Name_)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Start_|Required|**Variant**|The start date of a  **WorkWeek** object.|
-| _Finish_|Optional|**Variant**|The finish date of a  **WorkWeek** object.|
-| _Name_|Optional|**String**|The name of a  **WorkWeek** object.|
+| _Start_|Required|**Variant**|The start date of a **WorkWeek** object.|
+| _Finish_|Optional|**Variant**|The finish date of a **WorkWeek** object.|
+| _Name_|Optional|**String**|The name of a **WorkWeek** object.|
 
 ## Return value
 

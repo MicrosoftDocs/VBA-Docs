@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Page.Index Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the position of a **[Page](Outlook.page.md)** object in a **[Pages](Outlook.pages(object).md)** collection. Read/write.
+Returns or sets an **Integer** that specifies the position of a **[Page](Outlook.page.md)** object in a **[Pages](Outlook.pages(object).md)** collection. Read/write.
 
 
 ## Syntax

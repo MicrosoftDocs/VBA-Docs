@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Calendar.WorkWeeks property (Project)
 
-Gets a  **[WorkWeeks](Project.Year.md)** collection representing the work weeks defined in the calendar. Read-only **WorkWeeks**.
+Gets a **[WorkWeeks](Project.Year.md)** collection representing the work weeks defined in the calendar. Read-only **WorkWeeks**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableView.AutoPreviewFont property (Outlook)
 
-Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font used when automatically previewing Outlook items in the **[TableView](Outlook.TableView.md)** object. Read-only.
+Returns a **[ViewFont](Outlook.ViewFont.md)** object that represents the font used when automatically previewing Outlook items in the **[TableView](Outlook.TableView.md)** object. Read-only.
 
 
 ## Syntax

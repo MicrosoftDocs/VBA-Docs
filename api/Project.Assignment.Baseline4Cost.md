@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Assignment.Baseline4Cost property (Project)
 
-Gets or sets the baseline cost for an  **Assignment**. Read/write **Variant**.
+Gets or sets the baseline cost for an **Assignment**. Read/write **Variant**.
 
 
 ## Syntax

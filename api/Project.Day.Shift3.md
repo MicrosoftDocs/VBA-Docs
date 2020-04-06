@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Day.Shift3 property (Project)
 
-Gets a  **[Shift](Project.Shift.md)** object representing the third work shift in a day. Read-only **Shift**.
+Gets a **[Shift](Project.Shift.md)** object representing the third work shift in a day. Read-only **Shift**.
 
 
 ## Syntax

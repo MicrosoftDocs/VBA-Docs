@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.Projects property (Project)
 
-Gets a  **[Projects](Project.projects.md)** collection representing the open projects. Read-only **Projects**.
+Gets a **[Projects](Project.projects.md)** collection representing the open projects. Read-only **Projects**.
 
 
 ## Syntax

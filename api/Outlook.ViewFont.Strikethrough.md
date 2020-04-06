@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ViewFont.Strikethrough property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates if the font is struck through with a horizontal line in the **[ViewFont](Outlook.ViewFont.md)** object. Read/write.
+Returns or sets a **Boolean** value that indicates if the font is struck through with a horizontal line in the **[ViewFont](Outlook.ViewFont.md)** object. Read/write.
 
 
 ## Syntax

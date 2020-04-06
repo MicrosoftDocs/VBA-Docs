@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.Sent property (Outlook)
 
-Returns a  **Boolean** value that indicates if a message has been sent. Read-only.
+Returns a **Boolean** value that indicates if a message has been sent. Read-only.
 
 
 ## Syntax

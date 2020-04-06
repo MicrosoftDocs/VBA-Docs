@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # ComboBox.ListStyle Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the visual appearance of the list in a **[ComboBox](Outlook.combobox.md)**. Read/write.
+Returns or sets an **Integer** that specifies the visual appearance of the list in a **[ComboBox](Outlook.combobox.md)**. Read/write.
 
 
 ## Syntax

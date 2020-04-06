@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WorkWeek.Name property (Project)
 
-Gets the name of a  **WorkWeek** object representing a work week. Read/write **String**.
+Gets the name of a **WorkWeek** object representing a work week. Read/write **String**.
 
 
 ## Syntax

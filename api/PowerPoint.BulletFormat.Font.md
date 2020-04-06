@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BulletFormat.Font property (PowerPoint)
 
-Returns a  **[Font](PowerPoint.Font.md)** object that represents character formatting. Read-only.
+Returns a **[Font](PowerPoint.Font.md)** object that represents character formatting. Read-only.
 
 
 ## Syntax

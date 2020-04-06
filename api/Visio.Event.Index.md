@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Event.Index property (Visio)
 
-Gets the ordinal position of an  **Event** object in the **EventList** collection. Read-only.
+Gets the ordinal position of an **Event** object in the **EventList** collection. Read-only.
 
 
 ## Syntax

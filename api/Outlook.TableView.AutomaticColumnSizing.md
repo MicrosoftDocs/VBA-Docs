@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableView.AutomaticColumnSizing property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether the columns in the **[TableView](Outlook.TableView.md)** object are automatically sized by Outlook. Read/write.
+Returns or sets a **Boolean** value that indicates whether the columns in the **[TableView](Outlook.TableView.md)** object are automatically sized by Outlook. Read/write.
 
 
 ## Syntax

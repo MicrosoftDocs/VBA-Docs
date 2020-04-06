@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Templates.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Templates** object.
+Returns an **Object** that represents the parent object of the specified **Templates** object.
 
 
 ## Syntax

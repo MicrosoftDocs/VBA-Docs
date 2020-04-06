@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathScrSub.E property (Word)
 
-Returns an  **OMath** object that represents the base of the specified equation object. Read-only.
+Returns an **OMath** object that represents the base of the specified equation object. Read-only.
 
 
 ## Syntax

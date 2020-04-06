@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # ListBox.ListStyle Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the visual appearance of the list in a **[ListBox](Outlook.listbox.md)**. Read/write.
+Returns or sets an **Integer** that specifies the visual appearance of the list in a **[ListBox](Outlook.listbox.md)**. Read/write.
 
 
 ## Syntax

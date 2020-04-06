@@ -39,7 +39,7 @@ Nothing
 
 ## Remarks
 
-When an  **Event** object created with the **AddAdvise** method is added to the **EventList** collection of a source object, the default behavior is that all occurrences of that event are passed to the event sink. The **SetFilterSRC** method provides a way to ignore selected events based on a range of cells.
+When an **Event** object created with the **AddAdvise** method is added to the **EventList** collection of a source object, the default behavior is that all occurrences of that event are passed to the event sink. The **SetFilterSRC** method provides a way to ignore selected events based on a range of cells.
 
 The  _SRCStream()_ parameter passed to **SetFilterSRC** is an array defined in the following manner:
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # View.Standard property (Outlook)
 
-Returns a  **Boolean** that specifies whether or not the view is a built-in Outlook view. Read-only
+Returns a **Boolean** that specifies whether or not the view is a built-in Outlook view. Read-only
 
 
 ## Syntax

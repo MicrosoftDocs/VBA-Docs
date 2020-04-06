@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # CommandButton.MousePointer Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the type of pointer displayed when the user positions the mouse over a particular object. Read/write.
+Returns or sets an **Integer** that specifies the type of pointer displayed when the user positions the mouse over a particular object. Read/write.
 
 
 ## Syntax

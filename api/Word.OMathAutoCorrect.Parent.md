@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathAutoCorrect.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **OMathAutoCorrect** object.
+Returns an **Object** that represents the parent object of the specified **OMathAutoCorrect** object.
 
 
 ## Syntax

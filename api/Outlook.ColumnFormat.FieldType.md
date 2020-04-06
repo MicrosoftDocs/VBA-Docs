@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ColumnFormat.FieldType property (Outlook)
 
-Returns an  **[OlUserPropertyType](Outlook.OlUserPropertyType.md)** constant which represents the field type of the property to which the **[ColumnFormat](Outlook.ColumnFormat.md)** object is associated. Read-only.
+Returns an **[OlUserPropertyType](Outlook.OlUserPropertyType.md)** constant which represents the field type of the property to which the **[ColumnFormat](Outlook.ColumnFormat.md)** object is associated. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Project.Views property (Project)
 
-Gets a  **[Views](Project.View.md)** collection representing the views of the project. Read-only **Views**.
+Gets a **[Views](Project.View.md)** collection representing the views of the project. Read-only **Views**.
 
 
 ## Syntax

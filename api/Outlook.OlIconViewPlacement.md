@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlIconViewPlacement enumeration (Outlook)
 
-Indicates how icons are arranged in an  **[IconView](Outlook.IconView.md)** object.
+Indicates how icons are arranged in an **[IconView](Outlook.IconView.md)** object.
 
 
 

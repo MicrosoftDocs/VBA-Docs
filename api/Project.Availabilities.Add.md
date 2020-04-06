@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Availabilities.Add method (Project)
 
-Adds an  **Availability** object to an **Availabilities** collection.
+Adds an **Availability** object to an **Availabilities** collection.
 
 
 ## Syntax

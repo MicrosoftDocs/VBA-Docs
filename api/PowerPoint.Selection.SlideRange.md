@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Selection.SlideRange property (PowerPoint)
 
-Returns a  **[SlideRange](PowerPoint.SlideRange.md)** object that represents a range of selected slides. Read-only.
+Returns a **[SlideRange](PowerPoint.SlideRange.md)** object that represents a range of selected slides. Read-only.
 
 
 ## Syntax

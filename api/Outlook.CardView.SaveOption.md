@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CardView.SaveOption property (Outlook)
 
-Returns an  **[OlViewSaveOption](Outlook.OlViewSaveOption.md)** constant that specifies the folders in which the specified view is available and the read permissions attached to the view. Read-only.
+Returns an **[OlViewSaveOption](Outlook.OlViewSaveOption.md)** constant that specifies the folders in which the specified view is available and the read permissions attached to the view. Read-only.
 
 
 ## Syntax

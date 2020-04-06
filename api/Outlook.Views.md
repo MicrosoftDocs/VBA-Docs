@@ -28,7 +28,7 @@ Use the  **[Remove](Outlook.Views.Remove.md)** method to remove a view from the 
 
 ## Example
 
-The following example returns a  **View** object of type **olTableView** called Table View. Before running this example, make sure a view by the name 'Table View' exists.
+The following example returns a **View** object of type **olTableView** called Table View. Before running this example, make sure a view by the name 'Table View' exists.
 
 
 ```vb

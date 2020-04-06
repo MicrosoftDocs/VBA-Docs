@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ProtectedViewWindows property (PowerPoint)
 
-Returns a  **[ProtectedViewWindows](PowerPoint.ProtectedViewWindows.md)** collection that represents all the Protected View windows that are open in the application. Read-only
+Returns a **[ProtectedViewWindows](PowerPoint.ProtectedViewWindows.md)** collection that represents all the Protected View windows that are open in the application. Read-only
 
 
 ## Syntax

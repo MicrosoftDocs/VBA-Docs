@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Exception.Name property (Project)
 
-Gets the name of an  **Exception** object. Read/write **String**.
+Gets the name of an **Exception** object. Read/write **String**.
 
 
 ## Syntax

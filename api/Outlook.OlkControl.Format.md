@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkControl.Format property (Outlook)
 
-Returns or sets a  **Long** that specifies how a value is to be displayed in the control. Read/write.
+Returns or sets a **Long** that specifies how a value is to be displayed in the control. Read/write.
 
 
 ## Syntax

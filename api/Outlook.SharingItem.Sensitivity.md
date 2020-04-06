@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.Sensitivity property (Outlook)
 
-Returns or sets an  **[OlSensitivity](Outlook.OlSensitivity.md)** constant indicating the sensitivity for the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
+Returns or sets an **[OlSensitivity](Outlook.OlSensitivity.md)** constant indicating the sensitivity for the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

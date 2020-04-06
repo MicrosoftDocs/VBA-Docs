@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # OptionButton.Value Property (Outlook Forms Script)
 
-Returns or sets a  **Variant** that specifies whether the option button is selected. Read/write.
+Returns or sets a **Variant** that specifies whether the option button is selected. Read/write.
 
 
 ## Syntax
 
 _expression_.**Value**
 
-_expression_ A variable that represents an  **OptionButton** object.
+_expression_ A variable that represents an **OptionButton** object.
 
 
 ## Remarks

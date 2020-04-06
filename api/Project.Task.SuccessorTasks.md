@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Task.SuccessorTasks property (Project)
 
-Gets a  **[Tasks](Project.Task.md)** collection representing the successors of the task. Read-only **Tasks**.
+Gets a **[Tasks](Project.Task.md)** collection representing the successors of the task. Read-only **Tasks**.
 
 
 ## Syntax

@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # OptionButton.TripleState Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that determines whether the **[OptionButton](Outlook.optionbutton.md)** supports the **Null** state. Read/write.
+Returns or sets a **Boolean** that determines whether the **[OptionButton](Outlook.optionbutton.md)** supports the **Null** state. Read/write.
 
 
 ## Syntax
 
 _expression_.**TripleState**
 
-_expression_ A variable that represents an  **OptionButton** object.
+_expression_ A variable that represents an **OptionButton** object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Rule.Exceptions property (Outlook)
 
-Returns a  **[RuleConditions](Outlook.RuleConditions.md)** collection object that represents all the available rule exception conditions for the rule. Read-only.
+Returns a **[RuleConditions](Outlook.RuleConditions.md)** collection object that represents all the available rule exception conditions for the rule. Read-only.
 
 
 ## Syntax

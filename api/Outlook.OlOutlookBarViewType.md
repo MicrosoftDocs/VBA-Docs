@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlOutlookBarViewType enumeration (Outlook)
 
-Specifies the type of view that is displayed by an  **[OutlookBarGroup](Outlook.OutlookBarGroup.md)** object.
+Specifies the type of view that is displayed by an **[OutlookBarGroup](Outlook.OutlookBarGroup.md)** object.
 
 
 

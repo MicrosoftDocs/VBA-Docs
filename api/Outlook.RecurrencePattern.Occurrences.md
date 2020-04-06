@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RecurrencePattern.Occurrences property (Outlook)
 
-Returns or sets a  **Long** indicating the number of occurrences of the recurrence pattern. Read/write.
+Returns or sets a **Long** indicating the number of occurrences of the recurrence pattern. Read/write.
 
 
 ## Syntax

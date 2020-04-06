@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.Name property (Project)
 
-Gets the name of a  **Resource** object. Read/write **String**.
+Gets the name of a **Resource** object. Read/write **String**.
 
 
 ## Syntax

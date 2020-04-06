@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # RepeatingSectionItem.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **RepeatingSectionItem** object.
+Returns an **Object** that represents the parent object of the specified **RepeatingSectionItem** object.
 
 
 ## Syntax

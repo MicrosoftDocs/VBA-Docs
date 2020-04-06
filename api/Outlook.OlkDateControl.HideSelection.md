@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkDateControl.HideSelection property (Outlook)
 
-Returns or sets a  **Boolean** that specifies if a selection is displayed or hidden for the control when the control loses focus. Read/write.
+Returns or sets a **Boolean** that specifies if a selection is displayed or hidden for the control when the control loses focus. Read/write.
 
 
 ## Syntax

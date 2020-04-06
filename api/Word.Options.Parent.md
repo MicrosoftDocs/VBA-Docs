@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Options.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Options** object.
+Returns an **Object** that represents the parent object of the specified **Options** object.
 
 
 ## Syntax

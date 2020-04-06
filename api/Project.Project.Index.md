@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Project.Index property (Project)
 
-Gets the index of a  **Project** object in the containing **Projects** collection. Read-only **Variant**.
+Gets the index of a **Project** object in the containing **Projects** collection. Read-only **Variant**.
 
 
 ## Syntax

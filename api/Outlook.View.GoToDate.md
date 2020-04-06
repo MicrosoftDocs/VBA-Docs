@@ -34,7 +34,7 @@ _expression_ A variable that represents a [View](Outlook.View.md) object.
 
 ## Remarks
 
-To specify a date to go to in a current view, such as a  **[CalendarView](Outlook.calendarView.md)** object, you should first obtain a **[View](Outlook.View.md)** object for the current view by using **[Explorer.CurrentView](Outlook.Explorer.CurrentView.md)** instead of **[Folder.CurrentView](Outlook.Folder.CurrentView.md)**. The following code sample demonstrates how to perform this action.
+To specify a date to go to in a current view, such as a **[CalendarView](Outlook.calendarView.md)** object, you should first obtain a **[View](Outlook.View.md)** object for the current view by using **[Explorer.CurrentView](Outlook.Explorer.CurrentView.md)** instead of **[Folder.CurrentView](Outlook.Folder.CurrentView.md)**. The following code sample demonstrates how to perform this action.
 
 
 ```vb

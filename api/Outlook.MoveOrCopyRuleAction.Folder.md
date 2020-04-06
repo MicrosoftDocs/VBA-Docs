@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MoveOrCopyRuleAction.Folder property (Outlook)
 
-Returns or sets a  **[Folder](Outlook.Folder.md)** object that represents the folder to which the rule moves or copies the message. Read/write.
+Returns or sets a **[Folder](Outlook.Folder.md)** object that represents the folder to which the rule moves or copies the message. Read/write.
 
 
 ## Syntax

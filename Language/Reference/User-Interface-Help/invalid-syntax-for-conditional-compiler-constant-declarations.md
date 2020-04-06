@@ -16,7 +16,7 @@ Entering [conditional compiler constants](../../Glossary/vbe-glossary.md#conditi
 
 
 
-- You used improper syntax when entering a constant declaration in the in an  **Options** dialog box. The only valid syntax is a simple assignment of an integer value to the [identifier](../../Glossary/vbe-glossary.md#identifier). Make sure the syntax for the entry is as follows, with each constant separated by a colon (**:**):
+- You used improper syntax when entering a constant declaration in the in an **Options** dialog box. The only valid syntax is a simple assignment of an integer value to the [identifier](../../Glossary/vbe-glossary.md#identifier). Make sure the syntax for the entry is as follows, with each constant separated by a colon (**:**):
     
   ```vb
   constantname= [{+ | - }]integervalue: [{+ | - }]constantname=integervalue  [...] 

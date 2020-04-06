@@ -79,7 +79,7 @@ Sub SearchInboxFolder()
 End Sub
 ```
 
-Use an  **[AdvancedSearchComplete](Outlook.Application.AdvancedSearchComplete.md)** event subroutine to ensure the integrity of the data stored in the **Search** object.
+Use an **[AdvancedSearchComplete](Outlook.Application.AdvancedSearchComplete.md)** event subroutine to ensure the integrity of the data stored in the **Search** object.
 
 
 

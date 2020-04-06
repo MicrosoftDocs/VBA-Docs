@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ToOrFromRuleCondition.Enabled property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the rule condition is enabled. Read/write
+Returns a **Boolean** value that indicates whether the rule condition is enabled. Read/write
 
 
 ## Syntax

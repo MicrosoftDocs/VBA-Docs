@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Zoom.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Zoom** object.
+Returns an **Object** that represents the parent object of the specified **Zoom** object.
 
 
 ## Syntax

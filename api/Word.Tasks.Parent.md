@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Tasks.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Tasks** object.
+Returns an **Object** that represents the parent object of the specified **Tasks** object.
 
 
 ## Syntax

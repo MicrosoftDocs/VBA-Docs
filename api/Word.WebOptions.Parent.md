@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebOptions.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **WebOptions** object.
+Returns an **Object** that represents the parent object of the specified **WebOptions** object.
 
 
 ## Syntax

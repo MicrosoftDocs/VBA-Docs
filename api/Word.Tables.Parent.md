@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Tables.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Tables** object.
+Returns an **Object** that represents the parent object of the specified **Tables** object.
 
 
 ## Syntax

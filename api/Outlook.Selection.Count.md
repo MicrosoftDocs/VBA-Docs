@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Selection.Count property (Outlook)
 
-Returns a  **Long** that indicates the number of items or conversation headers in the selection. Read-only.
+Returns a **Long** that indicates the number of items or conversation headers in the selection. Read-only.
 
 
 ## Syntax

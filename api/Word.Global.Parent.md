@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Global.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Global** object.
+Returns an **Object** that represents the parent object of the specified **Global** object.
 
 
 ## Syntax

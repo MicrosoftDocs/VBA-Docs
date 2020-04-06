@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskRequestAcceptItem.OutlookInternalVersion property (Outlook)
 
-Returns a  **Long** representing the build number of the Outlook application for an Outlook item. Read-only.
+Returns a **Long** representing the build number of the Outlook application for an Outlook item. Read-only.
 
 
 ## Syntax

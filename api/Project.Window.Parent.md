@@ -23,7 +23,7 @@ _expression_ A variable that represents a [Window](./Project.Window.md) object.
 
 ## Remarks
 
-The parent of a  **Window** object can be the **Application**, or a **Windows** or **Windows2** collection object.
+The parent of a **Window** object can be the **Application**, or a **Windows** or **Windows2** collection object.
 
 Use the  **Parent** property to access the properties or methods of the parent of an object.
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SendRuleAction.Recipients property (Outlook)
 
-Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents the recipient list for the send action. Read-only.
+Returns a **[Recipients](Outlook.Recipients.md)** collection that represents the recipient list for the send action. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleConditions.Importance property (Outlook)
 
-Returns an  **[ImportanceRuleCondition](Outlook.ImportanceRuleCondition.md)** object with an **[ImportanceRuleCondition.ConditionType](Outlook.ImportanceRuleCondition.ConditionType.md)** of **olConditionImportance**. Read-only.
+Returns an **[ImportanceRuleCondition](Outlook.ImportanceRuleCondition.md)** object with an **[ImportanceRuleCondition.ConditionType](Outlook.ImportanceRuleCondition.ConditionType.md)** of **olConditionImportance**. Read-only.
 
 
 ## Syntax

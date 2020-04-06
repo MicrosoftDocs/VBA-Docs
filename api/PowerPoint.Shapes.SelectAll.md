@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shapes.SelectAll method (PowerPoint)
 
-Selects all the shapes in a  **[Shapes](PowerPoint.Shapes.md)** collection.
+Selects all the shapes in a **[Shapes](PowerPoint.Shapes.md)** collection.
 
 
 ## Syntax

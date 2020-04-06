@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ViewSingle.Group property (Project)
 
-Gets or sets a  **[Group](Project.Group.md)** object for a single view. Read/write **Group**.
+Gets or sets a **[Group](Project.Group.md)** object for a single view. Read/write **Group**.
 
 
 ## Syntax

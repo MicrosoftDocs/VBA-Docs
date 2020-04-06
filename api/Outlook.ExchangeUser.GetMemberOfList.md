@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeUser.GetMemberOfList method (Outlook)
 
-Returns an  **[AddressEntries](Outlook.AddressEntries.md)** collection object that contains the **[AddressEntry](Outlook.AddressEntry.md)** objects representing all the Exchange distribution lists to which the user belongs.
+Returns an **[AddressEntries](Outlook.AddressEntries.md)** collection object that contains the **[AddressEntry](Outlook.AddressEntry.md)** objects representing all the Exchange distribution lists to which the user belongs.
 
 
 ## Syntax

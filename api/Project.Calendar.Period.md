@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Calendar.Period method (Project)
 
-Gets a  **[Period](Project.Period.md)** object representing a period of time in a calendar. Read-only **Period**.
+Gets a **[Period](Project.Period.md)** object representing a period of time in a calendar. Read-only **Period**.
 
 
 ## Syntax

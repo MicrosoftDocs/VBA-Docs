@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleConditions.MeetingInviteOrUpdate property (Outlook)
 
-Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCondition.ConditionType](Outlook.RuleCondition.ConditionType.md)** of **olConditionMeetingInviteOrUpdate**. Read-only.
+Returns a **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCondition.ConditionType](Outlook.RuleCondition.ConditionType.md)** of **olConditionMeetingInviteOrUpdate**. Read-only.
 
 
 ## Syntax

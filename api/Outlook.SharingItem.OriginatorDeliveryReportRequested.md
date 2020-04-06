@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.OriginatorDeliveryReportRequested property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether the originator of the **[SharingItem](Outlook.SharingItem.md)** will receive a delivery report. Read/write.
+Returns or sets a **Boolean** value that determines whether the originator of the **[SharingItem](Outlook.SharingItem.md)** will receive a delivery report. Read/write.
 
 
 ## Syntax

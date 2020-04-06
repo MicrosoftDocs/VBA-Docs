@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.Index property (Project)
 
-Gets the index of a  **Resource** object in the containing **Resources** collection. Read-only **Long**.
+Gets the index of a **Resource** object in the containing **Resources** collection. Read-only **Long**.
 
 
 ## Syntax

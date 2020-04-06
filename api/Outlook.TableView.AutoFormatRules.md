@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableView.AutoFormatRules property (Outlook)
 
-Returns an  **[AutoFormatRules](Outlook.AutoFormatRules.md)** object that represents the set of formatting rules applicable to the **[TableView](Outlook.TableView.md)** object. Read-only.
+Returns an **[AutoFormatRules](Outlook.AutoFormatRules.md)** object that represents the set of formatting rules applicable to the **[TableView](Outlook.TableView.md)** object. Read-only.
 
 
 ## Syntax

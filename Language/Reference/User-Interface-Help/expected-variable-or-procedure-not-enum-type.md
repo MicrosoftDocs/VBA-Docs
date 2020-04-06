@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Expected variable or procedure, not Enum type
 
-The name of an  **Enum** type only appears in a statement declaring an enumeration of the type or as a qualifier. This error has the following cause and solution:
+The name of an **Enum** type only appears in a statement declaring an enumeration of the type or as a qualifier. This error has the following cause and solution:
 
 
 

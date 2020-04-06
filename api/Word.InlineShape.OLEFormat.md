@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # InlineShape.OLEFormat property (Word)
 
-Returns an  **OLEFormat** object that represents the OLE characteristics (other than linking) for the specified inline shape. Read-only.
+Returns an **OLEFormat** object that represents the OLE characteristics (other than linking) for the specified inline shape. Read-only.
 
 
 ## Syntax

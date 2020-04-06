@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.ProjectBeforePublish event (Project)
 
-Occurs before a  **Publish** operation is placed on the server queue. The **ProjectBeforePublish** event can be cancelled. Project Professional only.
+Occurs before a **Publish** operation is placed on the server queue. The **ProjectBeforePublish** event can be cancelled. Project Professional only.
 
 
 ## Syntax

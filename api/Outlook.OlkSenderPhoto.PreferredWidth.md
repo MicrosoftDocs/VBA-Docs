@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkSenderPhoto.PreferredWidth property (Outlook)
 
-Returns a  **Long** that specifies the application-preferred width of the sender picture. Read-only.
+Returns a **Long** that specifies the application-preferred width of the sender picture. Read-only.
 
 
 ## Syntax

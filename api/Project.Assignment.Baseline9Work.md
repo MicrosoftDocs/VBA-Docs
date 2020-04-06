@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Assignment.Baseline9Work property (Project)
 
-Gets or sets the baseline work (in minutes) for an  **Assignment**. Read/write **Variant**.
+Gets or sets the baseline work (in minutes) for an **Assignment**. Read/write **Variant**.
 
 
 ## Syntax

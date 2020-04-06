@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Exception object (Outlook)
 
-Represents information about one instance of an  **[AppointmentItem](Outlook.AppointmentItem.md)** object which is an exception to a recurring series.
+Represents information about one instance of an **[AppointmentItem](Outlook.AppointmentItem.md)** object which is an exception to a recurring series.
 
 
 ## Remarks

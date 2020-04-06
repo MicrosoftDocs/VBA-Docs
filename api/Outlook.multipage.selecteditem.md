@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # MultiPage.SelectedItem Property (Outlook Forms Script)
 
-Returns an  **Object** that indicates the currently selected **[Page](Outlook.page.md)** object. Read-only.
+Returns an **Object** that indicates the currently selected **[Page](Outlook.page.md)** object. Read-only.
 
 
 ## Syntax
 
 _expression_.**SelectedItem**
 
-_expression_ A variable that represents a  **MultiPage** object.
+_expression_ A variable that represents a **MultiPage** object.
 
 
 ## Remarks

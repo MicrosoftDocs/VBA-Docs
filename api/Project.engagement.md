@@ -14,7 +14,7 @@ Collection of  **Engagement** objects. Introduced in Office 2016.
 
 ## Remarks
 
-Engagement objects expose a  **Resource Plan** view, enabling users to display and edit engagement data to Project when connected to Project Online.
+Engagement objects expose a **Resource Plan** view, enabling users to display and edit engagement data to Project when connected to Project Online.
 
 
 ## Methods

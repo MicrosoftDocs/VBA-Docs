@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AddressLists.Item method (Outlook)
 
-Returns an  **[AddressList](Outlook.AddressList.md)** object from the collection.
+Returns an **[AddressList](Outlook.AddressList.md)** object from the collection.
 
 
 ## Syntax

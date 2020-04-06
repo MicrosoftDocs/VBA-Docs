@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WorkWeekDay.Index property (Project)
 
-Gets the index of a  **WorkWeekDay** object in the **WorkWeekDays** containing object. Read-only **Integer**.
+Gets the index of a **WorkWeekDay** object in the **WorkWeekDays** containing object. Read-only **Integer**.
 
 
 ## Syntax

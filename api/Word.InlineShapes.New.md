@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # InlineShapes.New method (Word)
 
-Inserts an empty, 1-inch-square Word picture object surrounded by a border. This method returns the new graphic as an  **InlineShape** object.
+Inserts an empty, 1-inch-square Word picture object surrounded by a border. This method returns the new graphic as an **InlineShape** object.
 
 
 ## Syntax

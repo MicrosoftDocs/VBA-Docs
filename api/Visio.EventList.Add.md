@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # EventList.Add method (Visio)
 
-Adds an  **Event** object that runs an add-on when an event occurs. The **Event** object is added to the **EventList** collection of the source object whose events you want to receive.
+Adds an **Event** object that runs an add-on when an event occurs. The **Event** object is added to the **EventList** collection of the source object whose events you want to receive.
 
 
 ## Syntax
@@ -52,12 +52,12 @@ The arguments passed to the  **Add** method set the initial values of the **Even
 
 Event codes are declared by the Visio type library and have the prefix  **visEvt**. Event codes are often a combination of constants. For example, **visEvtAdd** + **visEvtDoc** is the event code for the **DocumentAdded** event. To find an event code for the event that you want to create, see [Event Codes](../visio/Concepts/event-codesvisio.md).
 
-To create an  **Event** object that advises the caller's sink object about an event, see the **AddAdvise** method.
+To create an **Event** object that advises the caller's sink object about an event, see the **AddAdvise** method.
 
 
 ## Example
 
-The following example shows how to add an  **Event** object that runs an add-on to the **EventList** collection of the source object, in this case a **Document** object, whose events you want to receive.
+The following example shows how to add an **Event** object that runs an add-on to the **EventList** collection of the source object, in this case a **Document** object, whose events you want to receive.
 
 Before running this macro, replace _path_ \ _filename_ with a valid path and file name for an executable add-on (EXE) in your Visio project. The add-on should take no arguments.
 

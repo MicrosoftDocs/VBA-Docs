@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationPane.DisplayedModuleCount property (Outlook)
 
-Returns or sets a  **Long** value that indicates the number of **[NavigationModule](Outlook.NavigationModule.md)** objects displayed in the navigation pane. Read/write.
+Returns or sets a **Long** value that indicates the number of **[NavigationModule](Outlook.NavigationModule.md)** objects displayed in the navigation pane. Read/write.
 
 
 ## Syntax

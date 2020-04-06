@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shapes.AddCallout method (PowerPoint)
 
-Creates a borderless line callout. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the new callout.
+Creates a borderless line callout. Returns a **[Shape](PowerPoint.Shape.md)** object that represents the new callout.
 
 
 ## Syntax

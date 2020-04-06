@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # StorageItem.Size property (Outlook)
 
-Returns a  **Long** indicating the size (in bytes) of the **[StorageItem](Outlook.StorageItem.md)**. Read-only.
+Returns a **Long** indicating the size (in bytes) of the **[StorageItem](Outlook.StorageItem.md)**. Read-only.
 
 
 ## Syntax

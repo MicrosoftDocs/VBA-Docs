@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeRange.TextFrame property (PowerPoint)
 
-Returns a  **[TextFrame](PowerPoint.TextFrame.md)** object that contains the alignment and anchoring properties for the specified shape or master text style. Read-only.
+Returns a **[TextFrame](PowerPoint.TextFrame.md)** object that contains the alignment and anchoring properties for the specified shape or master text style. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Slide.CustomLayout property (PowerPoint)
 
-Returns a  **[CustomLayout](PowerPoint.CustomLayout.md)** object that represents the custom layout associated with the specified slide. Read-only.
+Returns a **[CustomLayout](PowerPoint.CustomLayout.md)** object that represents the custom layout associated with the specified slide. Read-only.
 
 
 ## Syntax

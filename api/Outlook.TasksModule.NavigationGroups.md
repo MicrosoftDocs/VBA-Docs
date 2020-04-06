@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TasksModule.NavigationGroups property (Outlook)
 
-Returns a  **[NavigationGroups](Outlook.NavigationGroups.md)** object that contains the set of navigation groups associated with the **[TasksModule](Outlook.TasksModule.md)** object. Read-only.
+Returns a **[NavigationGroups](Outlook.NavigationGroups.md)** object that contains the set of navigation groups associated with the **[TasksModule](Outlook.TasksModule.md)** object. Read-only.
 
 
 ## Syntax

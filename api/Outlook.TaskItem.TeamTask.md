@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskItem.TeamTask property (Outlook)
 
-Returns a  **Boolean** that indicates **True** if the task is a team task. Read/write.
+Returns a **Boolean** that indicates **True** if the task is a team task. Read/write.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # GroupCriterion.Index property (Project)
 
-Gets the index of a  **GroupCriterion** object in the containing **GroupCriteria** collection. Read-only **Long**.
+Gets the index of a **GroupCriterion** object in the containing **GroupCriteria** collection. Read-only **Long**.
 
 
 ## Syntax

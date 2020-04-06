@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AccountSelector.SelectedAccount property (Outlook)
 
-Returns an  **[Account](Outlook.Account.md)** object that represents the selected account in the Microsoft Office Backstage view in Microsoft Outlook. Read-only.
+Returns an **[Account](Outlook.Account.md)** object that represents the selected account in the Microsoft Office Backstage view in Microsoft Outlook. Read-only.
 
 
 ## Syntax

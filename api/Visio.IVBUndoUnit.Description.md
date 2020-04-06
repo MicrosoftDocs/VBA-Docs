@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # IVBUndoUnit.Description property (Visio)
 
-Gets the description of an  **IVBUndoUnit** interface. Read-only.
+Gets the description of an **IVBUndoUnit** interface. Read-only.
 
 
 ## Syntax

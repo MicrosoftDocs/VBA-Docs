@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.CreateContactCard method (Outlook)
 
-Creates an instance of a  **[ContactCard](Office.ContactCard.md)** object for the contact that is specified by the _AddressEntry_ parameter.
+Creates an instance of a **[ContactCard](Office.ContactCard.md)** object for the contact that is specified by the _AddressEntry_ parameter.
 
 
 ## Syntax

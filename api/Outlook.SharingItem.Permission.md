@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.Permission property (Outlook)
 
-Sets or returns an  **[OlPermission](Outlook.OlPermission.md)** constant that determines what permissions to grant the recipients on the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
+Sets or returns an **[OlPermission](Outlook.OlPermission.md)** constant that determines what permissions to grant the recipients on the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Recipient.Resolve method (Outlook)
 
-Attempts to resolve a  **[Recipient](Outlook.Recipient.md)** object against the Address Book.
+Attempts to resolve a **[Recipient](Outlook.Recipient.md)** object against the Address Book.
 
 
 ## Syntax

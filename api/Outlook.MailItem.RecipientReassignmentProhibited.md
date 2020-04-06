@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.RecipientReassignmentProhibited property (Outlook)
 
-Returns a  **Boolean** that indicates **True** if the recipient cannot forward the mail message. Read/write.
+Returns a **Boolean** that indicates **True** if the recipient cannot forward the mail message. Read/write.
 
 
 ## Syntax

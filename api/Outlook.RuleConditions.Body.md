@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleConditions.Body property (Outlook)
 
-Returns a  **[TextRuleCondition](Outlook.TextRuleCondition.md)** object with a **[TextRuleCondition.ConditionType](Outlook.TextRuleCondition.ConditionType.md)** of **olConditionBody**. Read-only.
+Returns a **[TextRuleCondition](Outlook.TextRuleCondition.md)** object with a **[TextRuleCondition.ConditionType](Outlook.TextRuleCondition.ConditionType.md)** of **olConditionBody**. Read-only.
 
 
 ## Syntax

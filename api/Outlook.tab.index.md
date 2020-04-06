@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Tab.Index Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the position of a **[Tab](Outlook.tab.md)** object within a **[Tabs](Outlook.tabs.md)** collection. Read/write.
+Returns or sets an **Integer** that specifies the position of a **[Tab](Outlook.tab.md)** object within a **[Tabs](Outlook.tabs.md)** collection. Read/write.
 
 
 ## Syntax

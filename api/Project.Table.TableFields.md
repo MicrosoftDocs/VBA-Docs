@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Table.TableFields property (Project)
 
-Gets a  **[TableFields](Project.TableField.md)** collection representing the fields in the table. Read-only **TableFields**.
+Gets a **[TableFields](Project.TableField.md)** collection representing the fields in the table. Read-only **TableFields**.
 
 
 ## Syntax

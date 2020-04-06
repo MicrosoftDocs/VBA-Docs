@@ -21,7 +21,7 @@ Contains a collection of all the  **[Reminder](Outlook.Reminder.md)** objects in
 
 Use the  **[Application](Outlook.Application.md)** object's **[Reminders](Outlook.Application.Reminders.md)** property to return the **Reminders** collection. Use **Reminders** (_index_), where _index_ is the name or ordinal value of the reminder, to return a single **[Reminder](Outlook.Reminder.md)** object.
 
-Reminders are created programmatically when a new Outlook item is created with a reminder. For example, a reminder is created when an  **[AppointmentItem](Outlook.AppointmentItem.md)** object is created and the **AppointmentItem** object's **[ReminderSet](Outlook.AppointmentItem.ReminderSet.md)** property is set to **True**.
+Reminders are created programmatically when a new Outlook item is created with a reminder. For example, a reminder is created when an **[AppointmentItem](Outlook.AppointmentItem.md)** object is created and the **AppointmentItem** object's **[ReminderSet](Outlook.AppointmentItem.ReminderSet.md)** property is set to **True**.
 
 
 ## Example

@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # ListBox.RemoveItem Method (Outlook Forms Script)
 
-Removes a row from the list in a  **[ListBox](Outlook.listbox.md)**.
+Removes a row from the list in a **[ListBox](Outlook.listbox.md)**.
 
 
 ## Syntax
 
 _expression_.**RemoveItem**(**_pvargIndex_**)
 
-_expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a **ListBox** object.
 
 
 ## Parameters

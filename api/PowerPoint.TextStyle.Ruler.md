@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextStyle.Ruler property (PowerPoint)
 
-Returns a  **[Ruler](PowerPoint.Ruler.md)** object that represents the ruler for the specified text. Read-only.
+Returns a **[Ruler](PowerPoint.Ruler.md)** object that represents the ruler for the specified text. Read-only.
 
 
 ## Syntax

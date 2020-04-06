@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Project.BaseCalendars property (Project)
 
-Gets a  **[Calendars](Project.Calendar.md)** collection representing all base calendars in the active project. Read-only **Calendars**.
+Gets a **[Calendars](Project.Calendar.md)** collection representing all base calendars in the active project. Read-only **Calendars**.
 
 
 ## Syntax

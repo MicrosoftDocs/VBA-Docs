@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Attachment.BlockLevel property (Outlook)
 
-Returns an  **[OlAttachmentBlockLevel](Outlook.OlAttachmentBlockLevel.md)** constant that specifies if there is any restriction on the attachment based on its file extension. Read-only.
+Returns an **[OlAttachmentBlockLevel](Outlook.OlAttachmentBlockLevel.md)** constant that specifies if there is any restriction on the attachment based on its file extension. Read-only.
 
 
 ## Syntax

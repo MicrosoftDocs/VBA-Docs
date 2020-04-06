@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskRequestDeclineItem object (Outlook)
 
-Represents a response to a  **[TaskRequestItem](Outlook.TaskRequestItem.md)** sent by the initiating user.
+Represents a response to a **[TaskRequestItem](Outlook.TaskRequestItem.md)** sent by the initiating user.
 
 
 ## Remarks

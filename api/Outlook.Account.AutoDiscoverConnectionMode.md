@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Account.AutoDiscoverConnectionMode property (Outlook)
 
-Returns an  **[OlAutoDiscoverConnectionMode](Outlook.OlAutoDiscoverConnectionMode.md)** constant that specifies the type of connection to use for the auto-discovery service of the Microsoft Exchange server that hosts the account mailbox. Read-only.
+Returns an **[OlAutoDiscoverConnectionMode](Outlook.OlAutoDiscoverConnectionMode.md)** constant that specifies the type of connection to use for the auto-discovery service of the Microsoft Exchange server that hosts the account mailbox. Read-only.
 
 
 ## Syntax

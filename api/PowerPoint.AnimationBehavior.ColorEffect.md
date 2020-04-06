@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AnimationBehavior.ColorEffect property (PowerPoint)
 
-Returns a  **[ColorEffect](PowerPoint.ColorEffect.md)** object that represents the color properties for a specified animation behavior.
+Returns a **[ColorEffect](PowerPoint.ColorEffect.md)** object that represents the color properties for a specified animation behavior.
 
 
 ## Syntax

@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Chart.ChartArea property (Project)
-Gets an  **Office.IMsoChartArea** object that represents the complete chart area for the chart. Read-only **IMsoChartArea**.
+Gets an **Office.IMsoChartArea** object that represents the complete chart area for the chart. Read-only **IMsoChartArea**.
 
 ## Syntax
 

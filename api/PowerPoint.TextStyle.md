@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextStyle object (PowerPoint)
 
-Represents one of three text styles: title text, body text, or default text. Each text style contains a  **[TextFrame](PowerPoint.TextFrame.md)** object that describes how text is placed within the text bounding box, a **[Ruler](PowerPoint.Ruler.md)** object that contains tab stops and outline indent formatting information, and a **[TextStyleLevels](PowerPoint.TextStyleLevels.md)** collection that contains outline text formatting information. The **TextStyle** object is a member of the **[TextStyles](PowerPoint.TextStyles.md)** collection.
+Represents one of three text styles: title text, body text, or default text. Each text style contains a **[TextFrame](PowerPoint.TextFrame.md)** object that describes how text is placed within the text bounding box, a **[Ruler](PowerPoint.Ruler.md)** object that contains tab stops and outline indent formatting information, and a **[TextStyleLevels](PowerPoint.TextStyleLevels.md)** collection that contains outline text formatting information. The **TextStyle** object is a member of the **[TextStyles](PowerPoint.TextStyles.md)** collection.
 
 
 ## Example

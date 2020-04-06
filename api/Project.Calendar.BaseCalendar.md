@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Calendar.BaseCalendar property (Project)
 
-Gets a  **[Calendar](Project.Calendar.md)** object representing a base calendar. Read-only **Object**.
+Gets a **[Calendar](Project.Calendar.md)** object representing a base calendar. Read-only **Object**.
 
 
 ## Syntax

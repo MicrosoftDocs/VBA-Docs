@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleActions.Forward property (Outlook)
 
-Returns a  **[SendRuleAction](Outlook.SendRuleAction.md)** object with **[SendRuleAction.ActionType](Outlook.SendRuleAction.ActionType.md)** being **olRuleActionForward**. Read-only.
+Returns a **[SendRuleAction](Outlook.SendRuleAction.md)** object with **[SendRuleAction.ActionType](Outlook.SendRuleAction.ActionType.md)** being **olRuleActionForward**. Read-only.
 
 
 ## Syntax

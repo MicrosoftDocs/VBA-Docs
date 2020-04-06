@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathRecognizedFunctions.Add method (Word)
 
-Creates a new recognized function and returns an  **OMathRecognizedFunction** object.
+Creates a new recognized function and returns an **OMathRecognizedFunction** object.
 
 
 ## Syntax

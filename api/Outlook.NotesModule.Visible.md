@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NotesModule.Visible property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether the **[NotesModule](Outlook.NotesModule.md)** object is displayed in the navigation pane. Read/write.
+Returns or sets a **Boolean** value that determines whether the **[NotesModule](Outlook.NotesModule.md)** object is displayed in the navigation pane. Read/write.
 
 
 ## Syntax

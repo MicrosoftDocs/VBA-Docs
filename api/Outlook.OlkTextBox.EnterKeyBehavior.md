@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTextBox.EnterKeyBehavior property (Outlook)
 
-Returns or sets a  **Boolean** that defines the way the **ENTER** key behaves in the control. Read/write.
+Returns or sets a **Boolean** that defines the way the **ENTER** key behaves in the control. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkDateControl.BackStyle property (Outlook)
 
-Returns or sets an  **[olBackStyle](Outlook.OlBackStyle.md)** constant that changes the background style of the control between transparent and opaque. Read/write.
+Returns or sets an **[olBackStyle](Outlook.OlBackStyle.md)** constant that changes the background style of the control between transparent and opaque. Read/write.
 
 
 ## Syntax

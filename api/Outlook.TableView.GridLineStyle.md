@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableView.GridLineStyle property (Outlook)
 
-Returns or sets an  **[OlGridLineStyle](Outlook.OlGridLineStyle.md)** constant that represents the line style used for grid lines in the **[TableView](Outlook.TableView.md)** object. Read/write.
+Returns or sets an **[OlGridLineStyle](Outlook.OlGridLineStyle.md)** constant that represents the line style used for grid lines in the **[TableView](Outlook.TableView.md)** object. Read/write.
 
 
 ## Syntax

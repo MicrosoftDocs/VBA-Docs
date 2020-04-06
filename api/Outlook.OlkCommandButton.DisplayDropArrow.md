@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkCommandButton.DisplayDropArrow property (Outlook)
 
-Returns or sets a  **Boolean** that enables the rendering of a downward-pointing arrow on the button. Read/write.
+Returns or sets a **Boolean** that enables the rendering of a downward-pointing arrow on the button. Read/write.
 
 
 ## Syntax

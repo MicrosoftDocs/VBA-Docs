@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AnimationBehavior.MotionEffect property (PowerPoint)
 
-Returns a  **[MotionEffect](PowerPoint.MotionEffect.md)** object that represents the properties of a motion animation.
+Returns a **[MotionEffect](PowerPoint.MotionEffect.md)** object that represents the properties of a motion animation.
 
 
 ## Syntax

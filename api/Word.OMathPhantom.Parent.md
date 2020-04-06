@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathPhantom.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **OMathPhantom** object.
+Returns an **Object** that represents the parent object of the specified **OMathPhantom** object.
 
 
 ## Syntax

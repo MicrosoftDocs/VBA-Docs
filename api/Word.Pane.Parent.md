@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Pane.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Pane** object.
+Returns an **Object** that represents the parent object of the specified **Pane** object.
 
 
 ## Syntax

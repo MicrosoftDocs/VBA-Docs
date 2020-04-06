@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeRange.Nodes property (PowerPoint)
 
-Returns a  **[ShapeNodes](PowerPoint.ShapeNodes.md)** collection that represents the geometric description of the specified shape. Applies to **ShapeRange** objects that represent freeform drawings.
+Returns a **[ShapeNodes](PowerPoint.ShapeNodes.md)** collection that represents the geometric description of the specified shape. Applies to **ShapeRange** objects that represent freeform drawings.
 
 
 ## Syntax

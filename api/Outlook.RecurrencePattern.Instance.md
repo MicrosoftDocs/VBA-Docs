@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RecurrencePattern.Instance property (Outlook)
 
-Returns or sets a  **Long** specifying the count for which the recurrence pattern is valid for a given interval. Read/write.
+Returns or sets a **Long** specifying the count for which the recurrence pattern is valid for a given interval. Read/write.
 
 
 ## Syntax

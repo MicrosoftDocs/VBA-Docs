@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.AlternateRecipientAllowed property (Outlook)
 
-Returns or sets a  **Boolean** value that is **True** if the item can be forwarded. Read/write.
+Returns or sets a **Boolean** value that is **True** if the item can be forwarded. Read/write.
 
 
 ## Syntax

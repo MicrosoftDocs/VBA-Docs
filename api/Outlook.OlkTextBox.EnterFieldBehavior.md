@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTextBox.EnterFieldBehavior property (Outlook)
 
-Returns or sets an  **[olEnterFieldBehavior](Outlook.OlEnterFieldBehavior.md)** constant that specifies the selection behavior when entering the control. Read/write.
+Returns or sets an **[olEnterFieldBehavior](Outlook.OlEnterFieldBehavior.md)** constant that specifies the selection behavior when entering the control. Read/write.
 
 
 ## Syntax

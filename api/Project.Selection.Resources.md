@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Selection.Resources property (Project)
 
-Gets a  **[Resources](Project.Resource.md)** collection that contains the resources in the selection. Read-only **Resources**.
+Gets a **[Resources](Project.Resource.md)** collection that contains the resources in the selection. Read-only **Resources**.
 
 
 ## Syntax

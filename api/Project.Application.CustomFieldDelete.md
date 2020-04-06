@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Field_|Required|**Long**|A value representing a  **[PjField](Project.PjField.md)** constant.|
+| _Field_|Required|**Long**|A value representing a **[PjField](Project.PjField.md)** constant.|
 
 ## Return value
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.Stores property (Outlook)
 
-Returns a  **[Stores](Outlook.Stores.md)** collection object that represents all the **[Store](Outlook.Store.md)** objects in the current profile. Read-only.
+Returns a **[Stores](Outlook.Stores.md)** collection object that represents all the **[Store](Outlook.Store.md)** objects in the current profile. Read-only.
 
 
 ## Syntax

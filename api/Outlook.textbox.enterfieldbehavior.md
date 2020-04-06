@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # TextBox.EnterFieldBehavior Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the selection behavior when entering a **[TextBox](Outlook.textbox.md)**. Read/write.
+Returns or sets an **Integer** that specifies the selection behavior when entering a **[TextBox](Outlook.textbox.md)**. Read/write.
 
 
 ## Syntax

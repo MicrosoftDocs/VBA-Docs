@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Master.HeadersFooters property (PowerPoint)
 
-Returns a  **[HeadersFooters](PowerPoint.HeadersFooters.md)** collection that represents the header, footer, date and time, and slide number associated with the slide, slide master, or range of slides. Read-only.
+Returns a **[HeadersFooters](PowerPoint.HeadersFooters.md)** collection that represents the header, footer, date and time, and slide number associated with the slide, slide master, or range of slides. Read-only.
 
 
 ## Syntax

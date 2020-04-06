@@ -26,7 +26,7 @@ You can update the data query associated with a report table, by using the  **[U
  
 
  
-To programmatically create a  **ReportTable**, use the  **[Shapes.AddTable](Project.shapes.addtable.md)** method. To return a **ReportTable** object, use `Shapes(Index).Table`, where  _Index_ is the name or the index number of a shape.
+To programmatically create a **ReportTable**, use the  **[Shapes.AddTable](Project.shapes.addtable.md)** method. To return a **ReportTable** object, use `Shapes(Index).Table`, where  _Index_ is the name or the index number of a shape.
  
 
  
@@ -97,7 +97,7 @@ The bottom  **ReportTable** object in Figure 1 is the default report table that 
 **Figure 1. The ReportTable object requires manual editing to add fields and change formatting**
 
  
-![The ReportTable object requires manual editing](../images/pj15_VBA_ReportTableObject.gif)To delete a  **ReportTable** object, use the **[Shape.Delete](Project.shape.delete.md)** method, as in the following macro:
+![The ReportTable object requires manual editing](../images/pj15_VBA_ReportTableObject.gif)To delete a **ReportTable** object, use the **[Shape.Delete](Project.shape.delete.md)** method, as in the following macro:
  
 
  

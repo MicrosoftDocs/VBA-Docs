@@ -16,7 +16,7 @@ You use the  **Option Explicit** statement to protect your[modules](../../Glossa
 
 
 
-- You used an  **Option Explicit** statement to require the explicit declaration of variables, but you used a variable without declaring it. Explicitly declare the variable, or change the spelling of the variable to match that of the intended variable.
+- You used an **Option Explicit** statement to require the explicit declaration of variables, but you used a variable without declaring it. Explicitly declare the variable, or change the spelling of the variable to match that of the intended variable.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

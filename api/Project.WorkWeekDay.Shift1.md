@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WorkWeekDay.Shift1 property (Project)
 
-Gets a  **[Shift](Project.Shift.md)** object representing the first work shift in a workweek day. Read-only **Shift**.
+Gets a **[Shift](Project.Shift.md)** object representing the first work shift in a workweek day. Read-only **Shift**.
 
 
 ## Syntax
