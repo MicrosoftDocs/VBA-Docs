@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.CC property (Outlook)
 
-Returns a **String** representing the display list of carbon copy (CC) names for a **[SharingItem](Outlook.SharingItem.md)**. Read/write.
+Returns a  **String** representing the display list of carbon copy (CC) names for a **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

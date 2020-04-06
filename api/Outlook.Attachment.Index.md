@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Attachment.Index property (Outlook)
 
-Returns a **Long** indicating the position of the object within the collection. Read-only.
+Returns a  **Long** indicating the position of the object within the collection. Read-only.
 
 
 ## Syntax

@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Report object (Project)
-Represents a report in Project that can contain Office Art objects such as a **Shape**,  **ReportTable**, or  **Chart**. The  **Report** object is a member of the **Reports** collection.
+Represents a report in Project that can contain Office Art objects such as a  **Shape**,  **ReportTable**, or  **Chart**. The  **Report** object is a member of the **Reports** collection.
  
 
 ## Remarks

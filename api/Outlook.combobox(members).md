@@ -11,20 +11,20 @@ localization_priority: Normal
 
 Combines the features of a [ListBox](Outlook.ListBox.md) and a [TextBox](Outlook.textbox.md).
 
-
 ## Methods
+
 |Name|Description|
 |:-----|:-----|
 | [AddItem](Outlook.combobox.additem.md)|For a single-column [ComboBox](Outlook.combobox.md), the **AddItem** method adds an item to the list. For a multicolumn **ComboBox**, this method adds a row to the list.|
 | [Clear](Outlook.combobox.clear.md)|Removes all entries in the list in a **ComboBox**.|
-
 | [Copy](Outlook.combobox.copy.md)|Copies the contents of an object to the Clipboard.|
 | [Cut](Outlook.combobox.cut.md)|Removes selected information from an object and transfers it to the Clipboard.|
-| [DropDown](Outlook.combobox.dropdown.md)|Displays the list portion of a **ComboBox**.|
+| [DropDown](Outlook.combobox.dropdown.md)|Displays the list portion of a  **ComboBox**.|
 | [Paste](Outlook.combobox.paste.md)|Transfers the contents of the Clipboard to an object.|
-| [RemoveItem](Outlook.combobox.removeitem.md)|Removes a row from the list in a **ComboBox**.|
+| [RemoveItem](Outlook.combobox.removeitem.md)|Removes a row from the list in a  **ComboBox**.|
 
 ## Properties
+
 |Name|Description|
 |:-----|:-----|
 | [AutoSize](Outlook.combobox.autosize.md)|Returns or sets a **Boolean** that specifies whether an object automatically resizes to display its entire contents. Read/write.|
@@ -78,10 +78,7 @@ Combines the features of a [ListBox](Outlook.ListBox.md) and a [TextBox](Outlook
 | [Value](Outlook.combobox.value.md)|Returns or sets a **Variant** that specifies the value in the [BoundColumn](Outlook.combobox.boundcolumn.md) of the currently selected rows. Read/write.|
 
 
-
 ## Events
-
-
 
 |Name|Description|
 |:-----|:-----|

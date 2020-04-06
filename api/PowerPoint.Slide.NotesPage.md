@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Slide.NotesPage property (PowerPoint)
 
-Returns a **[SlideRange](PowerPoint.SlideRange.md)** object that represents the notes pages for the specified slide or range of slides. Read-only.
+Returns a  **[SlideRange](PowerPoint.SlideRange.md)** object that represents the notes pages for the specified slide or range of slides. Read-only.
 
 
 ## Syntax
@@ -49,7 +49,7 @@ End With
 
 
 > [!NOTE] 
-> The following properties and methods will fail if applied to a **SlideRange** object that represents a notes page: **Copy** method, **Cut** method, **Delete** method, **Duplicate** method, **HeadersFooters** property, **Hyperlinks** property, **Layout** property, **PrintSteps** property, **SlideShowTransition** property.
+> The following properties and methods will fail if applied to a  **SlideRange** object that represents a notes page: **Copy** method, **Cut** method, **Delete** method, **Duplicate** method, **HeadersFooters** property, **Hyperlinks** property, **Layout** property, **PrintSteps** property, **SlideShowTransition** property.
 
 
 ## See also

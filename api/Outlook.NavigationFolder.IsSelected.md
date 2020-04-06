@@ -26,7 +26,7 @@ _expression_ A variable that represents a [NavigationFolder](Outlook.NavigationF
 
 ## Remarks
 
-Navigation folders contained in a **Calendar** navigation module are treated differently than navigation folders in other navigation modules.
+Navigation folders contained in a  **Calendar** navigation module are treated differently than navigation folders in other navigation modules.
 
 If the active explorer uses the  **Day/Week/Month** or **Day/Week/Month View with AutoPreview** view to display navigation folders in the **Calendar** navigation module, this property returns **True** if the navigation folder is checked in the navigation pane (and is therefore displayed either in side-by-side or overlay mode in the active explorer.) Setting this property to **False** removes a calendar from display in the active explorer. An error occurs if this property is set to **True** for more than 30 navigation folders.
 

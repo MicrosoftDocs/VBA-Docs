@@ -16,7 +16,7 @@ Returns or sets an **Integer** that specifies the location of a background pictu
 
 _expression_.**PictureAlignment**
 
-_expression_ A variable that represents a **Page** object.
+_expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Columns.Add method (Word)
 
-Returns a **Clumn** object that represents a column added to a table.
+Returns a  **Column** object that represents a column added to a table.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a '[Columns](Word.columns.md)'
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _BeforeColumn_|Optional| **Variant**|A **Column** object that represents the column that will appear immediately to the right of the new column.|
+| _BeforeColumn_|Optional| **Variant**|A  **Column** object that represents the column that will appear immediately to the right of the new column.|
 
 ## Return value
 

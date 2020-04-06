@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # TextBox.CurX Property (Outlook Forms Script)
 
-Returns or sets a **Long** that represents the current horizontal position of the insertion point in a multiline **[TextBox](Outlook.textbox.md)**. Read/write.
+Returns or sets a  **Long** that represents the current horizontal position of the insertion point in a multiline **[TextBox](Outlook.textbox.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**CurX**
 
-_expression_ A variable that represents a **TextBox** object.
+_expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks

@@ -40,6 +40,6 @@ For  **Shape** objects, you can use the **ID** property with methods such as **G
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
 
-- **Microsoft.Office.Interop.Visio.IVShape.ID**
+-  **Microsoft.Office.Interop.Visio.IVShape.ID**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

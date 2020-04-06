@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Layer.CellsC property (Visio)
 
-Returns a **Cell** object that represents a ShapeSheet cell in a row in the Layers section. Read-only.
+Returns a  **Cell** object that represents a ShapeSheet cell in a row in the Layers section. Read-only.
 
 
 ## Syntax

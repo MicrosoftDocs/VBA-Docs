@@ -16,7 +16,7 @@ Returns or sets an **Integer** that indicates the position of a control relative
 
 _expression_.**Alignment**
 
-_expression_ A variable that represents a **ToggleButton** object.
+_expression_ A variable that represents a  **ToggleButton** object.
 
 
 ## Remarks

@@ -29,13 +29,13 @@ _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
  **MajorTickMark** can be set to one of the following **xlTickMark** constants:
 
 
-- **xlTickMarkInside**
+-  **xlTickMarkInside**
     
-- **xlTickMarkOutside**
+-  **xlTickMarkOutside**
     
-- **xlTickMarkCross**
+-  **xlTickMarkCross**
     
-- **xlTickMarkNone**
+-  **xlTickMarkNone**
     
 
 ## Example

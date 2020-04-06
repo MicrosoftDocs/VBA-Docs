@@ -33,6 +33,6 @@ The  **Window** object's **Paste** method is now obsolete. Use the **Paste** or 
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this method maps to the following types:
 
 
-- **Microsoft.Office.Interop.Visio.IVWindow.Paste()**
+-  **Microsoft.Office.Interop.Visio.IVWindow.Paste()**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

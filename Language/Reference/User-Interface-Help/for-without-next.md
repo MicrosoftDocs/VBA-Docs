@@ -16,7 +16,7 @@ Every  **For** statement must have a matching **Next** statement. This error has
 
 
 
-- A **For** statement is used without a corresponding **Next** statement. Check for an incorrectly matched **For...Next** structure inside the outer **For...Next** structure.
+- A  **For** statement is used without a corresponding **Next** statement. Check for an incorrectly matched **For...Next** structure inside the outer **For...Next** structure.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

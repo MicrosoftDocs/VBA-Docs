@@ -31,7 +31,7 @@ Boolean
 
 ## Remarks
 
-Use the **AllowEditing** property to prevent unintentional editing in stencils. Setting the value of this property for stencils that are already open for editing has no effect. This property has no effect on Visio stencils (stencils that are shipped on the Microsoft Visio CD) or on other stencils that have been published to Visio by using an .msi file.
+Use the  **AllowEditing** property to prevent unintentional editing in stencils. Setting the value of this property for stencils that are already open for editing has no effect. This property has no effect on Visio stencils (stencils that are shipped on the Microsoft Visio CD) or on other stencils that have been published to Visio by using an .msi file.
 
 
 

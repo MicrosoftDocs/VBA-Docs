@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Assignments.Parent property (Project)
 
-Gets the parent the **Assignments** object. Read-only **Project**.
+Gets the parent the  **Assignments** object. Read-only **Project**.
 
 
 ## Syntax

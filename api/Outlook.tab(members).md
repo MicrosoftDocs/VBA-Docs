@@ -6,13 +6,11 @@ ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
-
 # Tab Members (Outlook Forms Script)
 
 Represents an individual member of a [Tabs](Outlook.tabs.md) collection.
 
 ## Properties
-
 |Name|Description|
 |:-----|:-----|
 | [Accelerator](Outlook.tab.accelerator.md)|Returns or sets the accelerator key for the tab. Read/write.|
@@ -23,5 +21,6 @@ Represents an individual member of a [Tabs](Outlook.tabs.md) collection.
 | [Name](Outlook.tab.name.md)|Returns or sets a **String** that specifies the name of a control. Read/write.|
 | [Tag](Outlook.tab.tag.md)|Returns or sets a **String** that specifies additional information about an object. Read/write.|
 | [Visible](Outlook.tab.visible.md)|Returns or sets a **Boolean** that specifies whether a **Tab** is visible or hidden. Read/write.|
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeRange.AlternativeText property (Excel)
 
-Returns or sets the descriptive (alternative) text string for a **[ShapeRange](Excel.ShapeRange.md)** object when the object is saved to a webpage. Read/write **String**.
+Returns or sets the descriptive (alternative) text string for a  **[ShapeRange](Excel.ShapeRange.md)** object when the object is saved to a webpage. Read/write **String**.
 
 
 ## Syntax

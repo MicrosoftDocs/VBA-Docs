@@ -24,7 +24,7 @@ For Each aPane In ActiveDocument.ActiveWindow.Panes
 Next aPane
 ```
 
-Use the **Add** method or the **Split** property to add a window pane. The following example splits the active window at 20 percent of the current window size.
+Use the  **Add** method or the **Split** property to add a window pane. The following example splits the active window at 20 percent of the current window size.
 
 
 

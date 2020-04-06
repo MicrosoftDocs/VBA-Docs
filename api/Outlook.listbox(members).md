@@ -2,24 +2,27 @@
 title: ListBox Members (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 29209459-9b73-4fc4-8866-23ac28ea8e9b
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
-
 # ListBox Members (Outlook Forms Script)
+
 Displays a list of values and lets you select one or more.
 
 
 ## Methods
+
+
 |Name|Description|
 |:-----|:-----|
-| [AddItem](Outlook.ListBox.additem.md)|For a single-column  [ListBox](Outlook.ListBox.md), the  **AddItem** method adds an item to the list. For a multicolumn **ListBox**, this method adds a row to the list.|
-| [Clear](Outlook.ListBox.clear.md)|Removes all entries in the list in a **ListBox**.|
-| [RemoveItem](Outlook.ListBox.removeitem.md)|Removes a row from the list in a **ListBox**.|
+| [AddItem](Outlook.ListBox.additem.md)|For a single-column [ListBox](Outlook.ListBox.md), the  **AddItem** method adds an item to the list. For a multicolumn **ListBox**, this method adds a row to the list.|
+| [Clear](Outlook.ListBox.clear.md)|Removes all entries in the list in a  **ListBox**.|
+| [RemoveItem](Outlook.ListBox.removeitem.md)|Removes a row from the list in a  **ListBox**.|
 
 
 ## Properties
+
 |Name|Description|
 |:-----|:-----|
 | [BackColor](Outlook.ListBox.backcolor.md)|Returns or sets a **Long** that specifies the background color of the object. Read/write.|
@@ -51,11 +54,7 @@ Displays a list of values and lets you select one or more.
 | [TopIndex](Outlook.ListBox.topindex.md)|Returns or sets a **Long** that represents the index of the list item displayed in the topmost position in the list. Read/write.|
 | [Value](Outlook.ListBox.value.md)|Returns or sets a **Variant** that specifies the value in the [BoundColumn](Outlook.ListBox.boundcolumn.md) of the currently selected rows. Read/write.|
 
-
-
 ## Events
-
-
 
 |Name|Description|
 |:-----|:-----|

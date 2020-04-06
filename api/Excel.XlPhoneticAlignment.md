@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # XlPhoneticAlignment enumeration (Excel)
 
-Specifies the alignment for phonetic text. Used with a **Phonetic** or a **Phonetics** object.
+Specifies the alignment for phonetic text. Used with a  **Phonetic** or a **Phonetics** object.
 
 
 

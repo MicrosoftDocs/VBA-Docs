@@ -44,7 +44,7 @@ _expression_ A variable that represents a '[Trendlines](PowerPoint.Trendlines.md
 
 ## Return value
 
-A **[Trendline](PowerPoint.Trendline.md)** object that represents the new trendline.
+A  **[Trendline](PowerPoint.Trendline.md)** object that represents the new trendline.
 
 
 ## Example

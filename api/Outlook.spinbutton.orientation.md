@@ -16,7 +16,7 @@ Returns or sets an **Integer** that specifies whether the control is oriented ve
 
 _expression_.**Orientation**
 
-_expression_ A variable that represents a **SpinButton** object.
+_expression_ A variable that represents a  **SpinButton** object.
 
 
 ## Remarks

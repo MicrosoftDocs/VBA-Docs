@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Documents.BeforeDataRecordsetDelete event (Visio)
 
-Occurs before a **DataRecordset** object is deleted from the **DataRecordsets** collection.
+Occurs before a  **DataRecordset** object is deleted from the **DataRecordsets** collection.
 
 
 > [!NOTE] 

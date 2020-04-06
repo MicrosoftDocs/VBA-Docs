@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Event.GetFilterObjects method (Visio)
 
-Returns an array of object types and a **True** or **False** value indicating how to filter events for that object.
+Returns an array of object types and a  **True** or **False** value indicating how to filter events for that object.
 
 
 ## Syntax
@@ -40,7 +40,7 @@ The number of elements in the array is a multiple of 2:
 
 - The first element contains an object type (one of  **visTypePage**, **visTypeGroup**, **visTypeShape**, **visTypeForeignObject**, **visTypeGuide**, or **visTypeDoc**).
     
-- The second element contains a **True** or **False** value indicating whether you are listening to events for that object (**True** to listen to an object's events; **False** to exclude an object's events).
+- The second element contains a  **True** or **False** value indicating whether you are listening to events for that object (**True** to listen to an object's events; **False** to exclude an object's events).
     
 
 

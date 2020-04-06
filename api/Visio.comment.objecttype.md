@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Comment.ObjectType property (Visio)
 
-Returns  **visObjTypeComment**, the type of a **Comment** object. Read-only.
+Returns  **visObjTypeComment**, the type of a  **Comment** object. Read-only.
 
 
 ## Syntax

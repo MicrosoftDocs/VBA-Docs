@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Recipient.AddressEntry property (Outlook)
 
-Returns the **[AddressEntry](Outlook.AddressEntry.md)** object corresponding to the resolved recipient. Read/write.
+Returns the  **[AddressEntry](Outlook.AddressEntry.md)** object corresponding to the resolved recipient. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Recipient](Outlook.Recipient.md) obje
 
 ## Remarks
 
-Accessing the **AdressEntry** property forces resolution of an unresolved recipient name. If the name cannot be resolved, an error is returned. If the recipient is resolved, the **[Resolved](Outlook.Recipient.Resolved.md)** property is **True**.
+Accessing the  **AddressEntry** property forces resolution of an unresolved recipient name. If the name cannot be resolved, an error is returned. If the recipient is resolved, the **[Resolved](Outlook.Recipient.Resolved.md)** property is **True**.
 
 
 ## See also

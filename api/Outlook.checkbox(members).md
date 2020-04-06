@@ -2,7 +2,7 @@
 title: CheckBox Members (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 0f81427d-e1b3-41aa-94ae-208d6cd16439
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -10,7 +10,6 @@ localization_priority: Normal
 # CheckBox Members (Outlook Forms Script)
 
 Displays the selection state of an item.
-
 
 ## Properties
 
@@ -36,12 +35,8 @@ Displays the selection state of an item.
 | [Value](Outlook.checkbox.value.md)|Returns or sets a **Variant** that specifies whether the check box is selected. Read/write.|
 | [WordWrap](Outlook.checkbox.wordwrap.md)|Returns or sets a **Boolean** that specifies whether the contents of a control automatically wrap at the end of a line and the control expands to fit the text. Read/write.|
 
+
 ## Events
-
-
-
-
-
 |Name|Description|
 |:-----|:-----|
 | [Click](Outlook.checkbox(event).md)|Occurs when the user clicks inside the control.|

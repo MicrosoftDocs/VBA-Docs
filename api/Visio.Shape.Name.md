@@ -44,6 +44,6 @@ As a developer, you can use universal names in a program when you don't want to 
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
 
-- **Microsoft.Office.Interop.Visio.IVShape.Name**
+-  **Microsoft.Office.Interop.Visio.IVShape.Name**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.Journal property (Outlook)
 
-Returns a **Boolean** that indicates **True** if the transaction of the contact will be journalized. Read/write.
+Returns a  **Boolean** that indicates **True** if the transaction of the contact will be journalized. Read/write.
 
 
 ## Syntax

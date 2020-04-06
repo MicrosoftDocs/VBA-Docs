@@ -50,7 +50,7 @@ Creating  **Event** objects is a common way to handle events from C++ or other n
 
 The  _EventCode_ argument is often a combination of constants. For example, **visEvtMod** + **visEvtCell** is the event code for the **CellChanged** event. Event constants are declared by the Visio type library and are prefixed with **visEvt**. To find an event code for the event that you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md). 
 
-The arguments passed to the **AddAdvise** method set the initial values of the **Event** object's **Event**, **Action** (**visCodeRunAddAdvise**), and **TargetArgs** properties.
+The arguments passed to the  **AddAdvise** method set the initial values of the **Event** object's **Event**, **Action** (**visCodeRunAddAdvise**), and **TargetArgs** properties.
 
 Beginning with Visio 2002, you can use event filters to refine the events that you receive in your program. You can filter events by object, cell, ranges of cells, or command ID. For details about using event filters, see the method topics prefixed with  **SetFilter** and **GetFilter**.
 
@@ -62,7 +62,7 @@ Creating  **Event** objects is a common way to handle events from C++ or other n
 
 The  _EventCode_ argument is often a combination of constants. For example, **visEvtMod** + **visEvtCell** is the event code for the **CellChanged** event. Event constants are declared by the Visio type library and are prefixed with **visEvt**. To find an event code for the event that you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md). 
 
-The arguments passed to the **AddAdvise** method set the initial values of the **Event** object's **Event**, **Action** (**visCodeRunAddAdvise**), and **TargetArgs** properties.
+The arguments passed to the  **AddAdvise** method set the initial values of the **Event** object's **Event**, **Action** (**visCodeRunAddAdvise**), and **TargetArgs** properties.
 
 Beginning with Visio 2002, you can use event filters to refine the events that you receive in your program. You can filter events by object, cell, ranges of cells, or command ID. For details about using event filters, see the method topics prefixed with  **SetFilter** and **GetFilter**.
 
@@ -165,7 +165,7 @@ Private Function IVisEventProc_VisEventProc( _
 End Function
 ```
 
-The following VBA module shows how to use the **AddAdvise** method to sink events. The module contains two public procedures.
+The following VBA module shows how to use the  **AddAdvise** method to sink events. The module contains two public procedures.
 
 The  **CreateEventObjects** procedure creates an instance of a sink-object (event-handling) class named **clsEventSink** that gets passed to the **AddAdvise** method, and that receives notifications of events. In addition, the procedure creates three **Event** objects to send notifications of firings of three events sourced by the **Document** object to the sink object: **DocumentSaved**, **PageAdded**, and **ShapesDeleted**.
 

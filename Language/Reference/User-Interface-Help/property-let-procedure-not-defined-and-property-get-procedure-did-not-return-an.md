@@ -18,7 +18,7 @@ Certain [properties](../../Glossary/vbe-glossary.md#property), [methods](../../G
 
 - You specified an operation or property that is exclusive to [collections](../../Glossary/vbe-glossary.md#collection), but the object isn't a collection.
     
-    Check the spelling of the object or property name, or verify that the object is a **Cllection** object. Also look at the **Add** method used to add the object to the collection to be sure the syntax is correct and that any[identifiers](../../Glossary/vbe-glossary.md#identifier) were spelled correctly.
+    Check the spelling of the object or property name, or verify that the object is a  **Collection** object. Also look at the **Add** method used to add the object to the collection to be sure the syntax is correct and that any[identifiers](../../Glossary/vbe-glossary.md#identifier) were spelled correctly.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

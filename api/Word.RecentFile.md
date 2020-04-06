@@ -30,7 +30,7 @@ Use  **RecentFiles** (Index), where Index is the index number, to return a singl
 If RecentFiles.Count >= 1 Then RecentFiles(1).Open
 ```
 
-Use the **Add** method to add a file to the **RecentFiles** collection. The following example adds the active document to the list of recently-used files.
+Use the  **Add** method to add a file to the **RecentFiles** collection. The following example adds the active document to the list of recently-used files.
 
 
 

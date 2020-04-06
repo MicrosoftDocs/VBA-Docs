@@ -2,14 +2,14 @@
 title: TextBox Members (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 701d7f75-55f9-4111-99bb-9f7d8fb981e1
-ms.date: 06/08/2018
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
-
 
 # TextBox Members (Outlook Forms Script)
 
 Displays information from a user or from an organized set of data.
+
 
 ## Methods
 
@@ -18,6 +18,7 @@ Displays information from a user or from an organized set of data.
 | [Copy](Outlook.textbox.copy.md)|Copies the contents of an object to the Clipboard.|
 | [Cut](Outlook.textbox.cut.md)|Removes selected information from an object and transfers it to the Clipboard.|
 | [Paste](Outlook.textbox.paste.md)|Transfers the contents of the Clipboard to an object.|
+
 
 ## Properties
 
@@ -61,5 +62,6 @@ Displays information from a user or from an organized set of data.
 | [TextLength](Outlook.textbox.textlength.md)|Returns a **Long** that represents the length, in number of characters, of text in the edit region of a **TextBox**. Read-only.|
 | [Value](Outlook.textbox.value.md)|Returns or sets a **Variant** that specifies text in the edit region. Read/write.|
 | [WordWrap](Outlook.textbox.wordwrap.md)|Returns or sets a **Boolean** that specifies whether the contents of a control automatically wrap at the end of a line and the control expands to fit the text. Read/write.|
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

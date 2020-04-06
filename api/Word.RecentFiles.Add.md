@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a '[RecentFiles](Word.recentfi
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Document_|Required| **Variant**|The document you want to add to the list of recently used files. You can specify this argument by using either the string name for the document or a **Document** object.|
+| _Document_|Required| **Variant**|The document you want to add to the list of recently used files. You can specify this argument by using either the string name for the document or a  **Document** object.|
 | _ReadOnly_|Optional| **Variant**| **True** to make the document read-only.|
 
 ## Return value

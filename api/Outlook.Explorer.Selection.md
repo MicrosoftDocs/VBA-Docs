@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Explorer.Selection property (Outlook)
 
-Returns a **[Selection](Outlook.Selection.md)** object that contains the item or items that are selected in the explorer window. Read-only.
+Returns a  **[Selection](Outlook.Selection.md)** object that contains the item or items that are selected in the explorer window. Read-only.
 
 
 ## Syntax

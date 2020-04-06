@@ -6,7 +6,6 @@ ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
-
 # TabStrip Members (Outlook Forms Script)
 
 Presents a set of related controls as a visual group.
@@ -15,6 +14,7 @@ Presents a set of related controls as a visual group.
 
 |Name|Description|
 |:-----|:-----|
+
 | [BackColor](Outlook.tabstrip.backcolor.md)|Returns or sets a **Long** that specifies the background color of the object. Read/write.|
 | [ClientHeight](Outlook.tabstrip.clientheight.md)|Returns a **Single** value that represents the height dimension of the display area of a [TabStrip](Outlook.tabstrip.md). Read-only.|
 | [ClientLeft](Outlook.tabstrip.clientleft.md)|Returns a **Single** value that represents the location of the left edge of the display area of a **TabStrip**. Read-only.|
@@ -31,6 +31,7 @@ Presents a set of related controls as a visual group.
 | [TabFixedWidth](Outlook.tabstrip.tabfixedwidth.md)|Returns or sets a **Single** that represents the width in points of the tabs on a **TabStrip**. Read/write.|
 | [TabOrientation](Outlook.tabstrip.taborientation.md)|Returns or sets an **Integer** that specifies the location of the tabs on a **TabStrip**. Read/write.|
 | [Value](Outlook.tabstrip.value.md)|Returns or sets a **Variant** that indicates the currently active tab. Read/write.|
+
 
 ## Events
 

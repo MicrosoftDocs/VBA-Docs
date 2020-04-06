@@ -36,7 +36,7 @@ _expression_ A variable that represents a [Categories](Outlook.Categories.md) ob
 
 ## Return value
 
-A **Category** object that represents the new category.
+A  **Category** object that represents the new category.
 
 
 ## See also

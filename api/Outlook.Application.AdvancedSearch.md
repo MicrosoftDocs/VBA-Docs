@@ -37,7 +37,7 @@ _expression_ A variable that represents an **[Application](Outlook.Application.m
 
 ## Return value
 
-A **[Search](Outlook.Search.md)** object that represents the results of the search.
+A  **[Search](Outlook.Search.md)** object that represents the results of the search.
 
 
 ## Remarks

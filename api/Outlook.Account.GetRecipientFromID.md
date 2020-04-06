@@ -34,7 +34,7 @@ _expression_ A variable that represents an '[Account](Outlook.Account.md)' objec
 
 ## Return value
 
-A **Recipient** object that represents the recipient associated with the specified entry ID.
+A  **Recipient** object that represents the recipient associated with the specified entry ID.
 
 
 ## Remarks

@@ -33,7 +33,7 @@ If an item has  **[Conflicts.Count](Outlook.Conflicts.Count.md)** of its **[Mail
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example used the **AtoResolvedWinner** property to determine if an item is a winner or loser in an automatic conflict resolution. To run this example, make sure an email item is open in the active window.
+The following Microsoft Visual Basic for Applications (VBA) example used the  **AutoResolvedWinner** property to determine if an item is a winner or loser in an automatic conflict resolution. To run this example, make sure an email item is open in the active window.
 
 
 ```vb

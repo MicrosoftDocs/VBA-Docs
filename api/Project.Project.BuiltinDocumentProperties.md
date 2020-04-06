@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Project.BuiltinDocumentProperties property (Project)
 
-Gets a **DocumentProperties** collection representing the built-in properties of the document. Read-only **Object**.
+Gets a  **DocumentProperties** collection representing the built-in properties of the document. Read-only **Object**.
 
 
 ## Syntax

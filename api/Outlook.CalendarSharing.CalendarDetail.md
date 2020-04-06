@@ -26,7 +26,7 @@ _expression_. `CalendarDetail`
 
 ## Return value
 
-A **OlCalendarDetail** value that indicates the level of detail for calendar items.
+A  **OlCalendarDetail** value that indicates the level of detail for calendar items.
 
 
 ## Remarks
@@ -34,11 +34,11 @@ A **OlCalendarDetail** value that indicates the level of detail for calendar ite
 The value of this property determines the allowable values for the following properties of the  **CalendarSharing** object:
 
 
-- **[IncludeAttachments](Outlook.CalendarSharing.IncludeAttachments.md)** must be set to **False** if **CalendarDetail** is set to **olFreeBusyOnly** or **olFreeBusyAndSubject**.
+-  **[IncludeAttachments](Outlook.CalendarSharing.IncludeAttachments.md)** must be set to **False** if **CalendarDetail** is set to **olFreeBusyOnly** or **olFreeBusyAndSubject**.
     
-- **[IncludePrivateDetails](Outlook.CalendarSharing.IncludePrivateDetails.md)** must be set to **False** if **CalendarDetail** is set to **olFreeBusyOnly**.
+-  **[IncludePrivateDetails](Outlook.CalendarSharing.IncludePrivateDetails.md)** must be set to **False** if **CalendarDetail** is set to **olFreeBusyOnly**.
     
-- **[RestrictToWorkingHours](Outlook.CalendarSharing.RestrictToWorkingHours.md)** must be set to **False** if **CalendarDetail** is set to **olFreeBusyAndSubject** or **olFullDetails**.
+-  **[RestrictToWorkingHours](Outlook.CalendarSharing.RestrictToWorkingHours.md)** must be set to **False** if **CalendarDetail** is set to **olFreeBusyAndSubject** or **olFullDetails**.
     
 
 ## See also

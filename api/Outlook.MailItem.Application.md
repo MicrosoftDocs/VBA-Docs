@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the **Aplication** property to access Outlook, creates a new **[MailItem](Outlook.MailItem.md)** and displays the version of Outlook used to create the item.
+This Visual Basic for Applications (VBA) example uses the  **Application** property to access Outlook, creates a new **[MailItem](Outlook.MailItem.md)** and displays the version of Outlook used to create the item.
 
 
 ```vb

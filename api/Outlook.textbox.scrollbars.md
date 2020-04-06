@@ -16,7 +16,7 @@ Returns or sets an **Integer** that specifies whether a control has vertical scr
 
 _expression_.**ScrollBars**
 
-_expression_ A variable that represents a **TextBox** object.
+_expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks

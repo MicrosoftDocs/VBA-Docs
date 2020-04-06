@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Indexes.MarkEntry method (Word)
 
-Inserts an XE (Index Entry) field after the specified range. The method returns a **Field** object representing the XE field.
+Inserts an XE (Index Entry) field after the specified range. The method returns a  **Field** object representing the XE field.
 
 
 ## Syntax

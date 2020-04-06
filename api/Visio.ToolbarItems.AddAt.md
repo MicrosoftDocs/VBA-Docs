@@ -45,6 +45,6 @@ ToolbarItem
 
 If the index is zero (0), the object is added at the beginning of the collection.
 
-The beginning of a **ToolbarItems** collection is the leftmost item in a toolbar that is arranged horizontally.
+The beginning of a  **ToolbarItems** collection is the leftmost item in a toolbar that is arranged horizontally.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

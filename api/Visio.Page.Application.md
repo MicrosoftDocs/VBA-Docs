@@ -34,12 +34,12 @@ _expression_ A variable that represents a **[Page](Visio.Page.md)** object.
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
 
-- **Microsoft.Office.Interop.Visio.IVPage.Application**
+-  **Microsoft.Office.Interop.Visio.IVPage.Application**
     
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro gets the **Application** object associated with the active document and prints its process ID number in the Immediate window.
+The following Microsoft Visual Basic for Applications (VBA) macro gets the  **Application** object associated with the active document and prints its process ID number in the Immediate window.
 
 
 ```vb

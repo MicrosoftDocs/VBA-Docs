@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Frameset.Height property (Word)
 
-Returns or sets a **Float** that represents the height (in points) of the specified **Frameset** object. Read/write.
+Returns or sets a  **Float** that represents the height (in points) of the specified **Frameset** object. Read/write.
 
 
 ## Syntax

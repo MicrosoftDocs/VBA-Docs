@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.Suffix property (Outlook)
 
-Returns or sets a **String** indicating the name suffix (such as Jr., III, or Ph.D.) for the specified contact. Read/write.
+Returns or sets a  **String** indicating the name suffix (such as Jr., III, or Ph.D.) for the specified contact. Read/write.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [SenderInAddressListRuleCondition](Out
 
 ## Remarks
 
-Returns an error if the **AdressList** object does not represent an initialized **AddressList** object.
+Returns an error if the  **AddressList** object does not represent an initialized **AddressList** object.
 
 
 ## See also

@@ -2,10 +2,9 @@
 title: MultiPage Members (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 28ee2528-49b9-43e3-ae64-6ff4805c1d70
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
-
 
 # MultiPage Members (Outlook Forms Script)
 
@@ -13,7 +12,6 @@ Presents multiple screens of information as a single set.
 
 
 ## Properties
-
 
 
 |Name|Description|
@@ -30,9 +28,7 @@ Presents multiple screens of information as a single set.
 | [Value](Outlook.multipage.value.md)|Returns or sets a **Variant** that indicates the currently active page. Read/write.|
 
 
-
 ## Events
-
 
 
 |Name|Description|

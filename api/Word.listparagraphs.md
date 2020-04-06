@@ -27,7 +27,7 @@ Use  **ListParagraphs** (Index), where Index is the index number, to return a si
 
 Paragraphs can have two types of list formatting. The first type includes an automatically added number or bullet at the beginning of each paragraph in the list. The second type includes LISTNUM fields, which can be placed anywhere inside a paragraph. There can be more than one LISTNUM field per paragraph.
 
-To add list formatting to paragraphs, you can use the **ApplyListTemplate**, **ApplyBulletDefault**, **ApplyNumberDefault**, or **ApplyOutlineNumberDefault** method. You access these methods through the **ListFormat** object for a specified range.
+To add list formatting to paragraphs, you can use the  **ApplyListTemplate**, **ApplyBulletDefault**, **ApplyNumberDefault**, or **ApplyOutlineNumberDefault** method. You access these methods through the **ListFormat** object for a specified range.
 
 The  **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object.
 

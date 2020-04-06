@@ -16,13 +16,13 @@ Returns or sets an **Integer** that specifies the position of a **[Tab](Outlook.
 
 _expression_.**Index**
 
-_expression_ A variable that represents a **Tab** object.
+_expression_ A variable that represents a  **Tab** object.
 
 
 ## Remarks
 
 The  **Index** property specifies the order in which tabs appear. Changing the value of **Index** visually changes the order of tabs on a **[TabStrip](Outlook.tabstrip.md)**. The index value for the first tab is zero, the index value of the second tab is one, and so on.
 
-In a **MultiPage**,  **Index** refers to a **Page** as well as the page's **Tab**. In a **TabStrip**,  **Index** refers to the tab only.
+In a  **MultiPage**,  **Index** refers to a **Page** as well as the page's **Tab**. In a  **TabStrip**,  **Index** refers to the tab only.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

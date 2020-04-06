@@ -34,7 +34,7 @@ _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' ob
 
 ## Return value
 
-A **Recipient** object that represents the specified recipient.
+A  **Recipient** object that represents the specified recipient.
 
 
 ## Remarks

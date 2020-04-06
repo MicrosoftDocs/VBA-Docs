@@ -31,6 +31,6 @@ Nothing
 
 ## Remarks
 
-When used with a **Characters** object, the **Cut** method places the text range represented by that object on the Clipboard.
+When used with a  **Characters** object, the **Cut** method places the text range represented by that object on the Clipboard.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

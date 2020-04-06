@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.ThreeD property (Word)
 
-Returns a **ThreeDFormat** object that contains 3D formatting properties for the specified shape. Read-only.
+Returns a  **ThreeDFormat** object that contains 3D formatting properties for the specified shape. Read-only.
 
 
 ## Syntax

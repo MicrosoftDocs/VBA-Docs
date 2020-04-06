@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[KeyBindings](Word.keybindings.md)' c
 
 ## Remarks
 
-This property can return a **Document**, **Template**, or **Application** object. Built-in key assignments (for example, CTRL+I for **Italic**) return the **Application** object as the context. Any key bindings you add will return a **Document** or **Template** object, depending on the customization context in effect when the **KeyBinding** object was added.
+This property can return a  **Document**, **Template**, or **Application** object. Built-in key assignments (for example, CTRL+I for **Italic**) return the **Application** object as the context. Any key bindings you add will return a **Document** or **Template** object, depending on the customization context in effect when the **KeyBinding** object was added.
 
 
 ## See also

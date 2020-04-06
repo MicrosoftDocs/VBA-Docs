@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeUser.Type property (Outlook)
 
-Returns a **String** representing the type of entry for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
+Returns a  **String** representing the type of entry for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 
 
 ## Syntax

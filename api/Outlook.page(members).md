@@ -2,19 +2,15 @@
 title: Page Members (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 430d453a-6727-4dc6-bc77-0ec9866b4a38
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
-
 
 # Page Members (Outlook Forms Script)
 
 Represents one page of a [MultiPage](Outlook.multipage.md) or a single member of a [Pages](Outlook.pages.md) collection.
 
-
 ## Methods
-
-
 
 |Name|Description|
 |:-----|:-----|
@@ -28,10 +24,7 @@ Represents one page of a [MultiPage](Outlook.multipage.md) or a single member of
 | [UndoAction](Outlook.Page.undoaction.md)|Reverses the most recent action that supports the  **Undo** command.|
 
 
-
 ## Properties
-
-
 
 |Name|Description|
 |:-----|:-----|

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Cells.Add method (Word)
 
-Returns a **Cll** object that represents a cell added to a table.
+Returns a  **Cell** object that represents a cell added to a table.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a '[Cells](Word.cells.md)' col
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _BeforeCell_|Optional| **Variant**|A **Cell** object that represents the cell that will appear immediately to the right of the new cell or cells.|
+| _BeforeCell_|Optional| **Variant**|A  **Cell** object that represents the cell that will appear immediately to the right of the new cell or cells.|
 
 ## Return value
 

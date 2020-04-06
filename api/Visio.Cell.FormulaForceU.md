@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Cell.FormulaForceU property (Visio)
 
-Sets the universal syntax formula in a **Cell** object, even if the formula is protected with a GUARD function. Read/write.
+Sets the universal syntax formula in a  **Cell** object, even if the formula is protected with a GUARD function. Read/write.
 
 
 ## Syntax

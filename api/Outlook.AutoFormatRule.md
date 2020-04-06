@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AutoFormatRule object (Outlook)
 
-Represents a formatting rule used by a **[View](Outlook.View.md)** object to determine how to format Outlook items displayed within that view.
+Represents a formatting rule used by a  **[View](Outlook.View.md)** object to determine how to format Outlook items displayed within that view.
 
 
 ## Remarks
@@ -22,11 +22,11 @@ Represents a formatting rule used by a **[View](Outlook.View.md)** object to det
 Use the  **[Add](Outlook.AutoFormatRules.Add.md)** method or the **[Insert](Outlook.AutoFormatRules.Insert.md)** method of the **[AutoFormatRules](Outlook.AutoFormatRules.md)** collection to create a new formatting rule for the following objects:
 
 
-- **[CalendarView](Outlook.CalendarView.md)**
+-  **[CalendarView](Outlook.CalendarView.md)**
     
-- **[CardView](Outlook.CardView.md)**
+-  **[CardView](Outlook.CardView.md)**
     
-- **[TableView](Outlook.TableView.md)**
+-  **[TableView](Outlook.TableView.md)**
     
 
 ### Built-In and Custom Formatting Rules

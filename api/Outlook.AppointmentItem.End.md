@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.End property (Outlook)
 
-Returns or sets a **Dte** indicating the end date and time of an **[AppointmentItem](Outlook.AppointmentItem.md)**. Read/write.
+Returns or sets a  **Date** indicating the end date and time of an **[AppointmentItem](Outlook.AppointmentItem.md)**. Read/write.
 
 
 ## Syntax

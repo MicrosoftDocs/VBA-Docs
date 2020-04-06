@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Global.LandscapeFontNames property (Word)
 
-Returns a **FontNames** object that includes the names of all the available landscape fonts.
+Returns a  **FontNames** object that includes the names of all the available landscape fonts.
 
 
 ## Syntax

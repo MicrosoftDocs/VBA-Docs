@@ -19,7 +19,7 @@ Returns an **Object** that has the focus. Read-only.
 
 _expression_.**ActiveControl**
 
-_expression_ A variable that represents a **Fame** object.
+_expression_ A variable that represents a  **Frame** object.
 
 
 ## Remarks

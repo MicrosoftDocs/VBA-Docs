@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 ## Remarks
 
-Use this property to make a **[MeetingItem](Outlook.MeetingItem.md)** object available for the appointment.
+Use this property to make a  **[MeetingItem](Outlook.MeetingItem.md)** object available for the appointment.
 
 
 ## Example

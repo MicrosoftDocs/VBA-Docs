@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # SpinButton.Value Property (Outlook Forms Script)
 
-Returns or sets a **Variant** that specifies the state of a **[SpinButton](Outlook.spinbutton.md)**. Read/write.
+Returns or sets a  **Variant** that specifies the state of a **[SpinButton](Outlook.spinbutton.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**Value**
 
-_expression_ A variable that represents a **SpinButton** object.
+_expression_ A variable that represents a  **SpinButton** object.
 
 
 ## Remarks

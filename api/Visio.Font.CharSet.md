@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Font.CharSet property (Visio)
 
-Returns the Microsoft Windows character set for a **Font** object. Read-only.
+Returns the Microsoft Windows character set for a  **Font** object. Read-only.
 
 
 ## Syntax

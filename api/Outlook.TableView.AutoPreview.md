@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TableView](Outlook.TableView.md) obje
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example sets the **AtoPreview** property to **olAutoPreviewUnread** for every **TableView** object associated with the current **[Folder](Outlook.Folder.md)** object.
+The following Visual Basic for Applications (VBA) example sets the  **AutoPreview** property to **olAutoPreviewUnread** for every **TableView** object associated with the current **[Folder](Outlook.Folder.md)** object.
 
 
 ```vb

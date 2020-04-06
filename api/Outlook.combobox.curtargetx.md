@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ComboBox.CurTargetX Property (Outlook Forms Script)
 
-Returns a **Long** that represents the preferred horizontal position of the insertion point in a multiline **[ComboBox](Outlook.combobox.md)**. Read-only.
+Returns a  **Long** that represents the preferred horizontal position of the insertion point in a multiline **[ComboBox](Outlook.combobox.md)**. Read-only.
 
 
 ## Syntax
 
 _expression_.**CurTargetX**
 
-_expression_ A variable that represents a **CmboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

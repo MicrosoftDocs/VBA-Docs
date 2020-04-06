@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Event.SetFilterObjects method (Visio)
 
-Specifies an array of object types and a **True** or **False** value indicating how to filter events for each object.
+Specifies an array of object types and a  **True** or **False** value indicating how to filter events for each object.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Event](Visio.Event.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Objects()_|Required| **Long**|An array of objects types and a **True** or **False** value specifying how to filter events for each object type.|
+| _Objects()_|Required| **Long**|An array of objects types and a  **True** or **False** value specifying how to filter events for each object type.|
 
 ## Return value
 
@@ -50,7 +50,7 @@ The number of elements in the array is a multiple of 2:
 
 - The first element contains an object type (one of  **visTypePage**, **visTypeGroup**, **visTypeShape**, **visTypeForeignObject**, **visTypeGuide**, or **visTypeDoc**).
     
-- The second element contains a **True** or **False** value indicating whether you are listening to events for that object (**True** to listen to an object's events; **False** to exclude an object's events).
+- The second element contains a  **True** or **False** value indicating whether you are listening to events for that object (**True** to listen to an object's events; **False** to exclude an object's events).
     
 
 

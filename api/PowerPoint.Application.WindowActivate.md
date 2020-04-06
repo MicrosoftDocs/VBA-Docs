@@ -35,9 +35,9 @@ _expression_ A variable that represents an **[Application](PowerPoint.Applicatio
 
 ## Remarks
 
-For information about using events with the **Aplication** object, see [How to: Use Events with the Application Object](../powerpoint/How-to/use-events-with-the-application-object.md).
+For information about using events with the  **Application** object, see [How to: Use Events with the Application Object](../powerpoint/How-to/use-events-with-the-application-object.md).
 
-If your Visual Studio solution includes the **Microsoft.Office.Interop.PowerPoint** reference, this event maps to the following types:
+If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this event maps to the following types:
 
 
 - **Microsoft.Office.Interop.PowerPoint.EApplication_WindowActivateEventHandler** (the **WindowActivate** delegate.)

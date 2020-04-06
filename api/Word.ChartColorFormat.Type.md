@@ -29,9 +29,9 @@ _expression_ A variable that represents a '[ChartColorFormat](Word.ChartColorFor
 This property returns one of the following  **[MsoColorType](Office.MsoColorType.md)** constants:
 
 
-- **msoColorTypeRGB**
+-  **msoColorTypeRGB**
     
-- **msoColorTypeScheme**
+-  **msoColorTypeScheme**
     
 
 ## See also

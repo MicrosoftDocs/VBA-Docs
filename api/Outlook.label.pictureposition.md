@@ -16,7 +16,7 @@ Returns or sets an **Integer** that specifies the location of the picture relati
 
 _expression_.**PicturePosition**
 
-_expression_ A variable that represents a **Label** object.
+_expression_ A variable that represents a  **Label** object.
 
 
 ## Remarks

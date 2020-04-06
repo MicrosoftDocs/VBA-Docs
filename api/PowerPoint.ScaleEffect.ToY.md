@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ScaleEffect.ToY property (PowerPoint)
 
-Returns or sets a **Single** that represents the ending height of a **[ScaleEffect](PowerPoint.ScaleEffect.md)** object, specified as a percentage of the screen width. Read/write.
+Returns or sets a  **Single** that represents the ending height of a **[ScaleEffect](PowerPoint.ScaleEffect.md)** object, specified as a percentage of the screen width. Read/write.
 
 
 ## Syntax

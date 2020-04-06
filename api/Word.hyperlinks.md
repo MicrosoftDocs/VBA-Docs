@@ -26,7 +26,7 @@ For Each hLink In Documents(1).Hyperlinks
 Next hLink
 ```
 
-Use the **Add** method to create a hyperlink and add it to the **Hyperlinks** collection. The following example creates a new hyperlink to the MSN Web site.
+Use the  **Add** method to create a hyperlink and add it to the **Hyperlinks** collection. The following example creates a new hyperlink to the MSN Web site.
 
 
 

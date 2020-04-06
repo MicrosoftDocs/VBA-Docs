@@ -24,7 +24,7 @@ Use the  **Subdocuments** property to return the **Subdocuments** collection. Th
 ActiveDocument.Subdocuments.Expanded = True
 ```
 
-Use the **AddFromFile** or **AddFromRange** method to add a subdocument to a document. The following example adds a subdocument named "Setup.doc" at the end of the active document.
+Use the  **AddFromFile** or **AddFromRange** method to add a subdocument to a document. The following example adds a subdocument named "Setup.doc" at the end of the active document.
 
 
 

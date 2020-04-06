@@ -6,15 +6,11 @@ ms.date: 06/08/2017
 localization_priority: Normal
 ---
 
-
 # OptionButton Members (Outlook Forms Script)
 
 Shows the selection status of one item in a group of choices.
 
-
 ## Properties
-
-
 
 |Name|Description|
 |:-----|:-----|
@@ -38,10 +34,7 @@ Shows the selection status of one item in a group of choices.
 | [Value](Outlook.optionbutton.value.md)|Returns or sets a **Variant** that specifies whether the option button is selected. Read/write.|
 | [WordWrap](Outlook.optionbutton.wordwrap.md)|Returns or sets a **Boolean** that specifies whether the contents of a control automatically wrap at the end of a line and the control expands to fit the text. Read/write.|
 
-
-
 ## Events
-
 
 
 |Name|Description|

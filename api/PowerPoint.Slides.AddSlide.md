@@ -61,9 +61,9 @@ End Sub
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this method maps to the following types:
 
 
-- **Microsoft.Office.Interop.PowerPoint.Slides.Add(int, Microsoft.Office.Interop.PowerPoint.PpSlideLayout)**
+-  **Microsoft.Office.Interop.PowerPoint.Slides.Add(int, Microsoft.Office.Interop.PowerPoint.PpSlideLayout)**
     
-- **Microsoft.Office.Interop.PowerPoint.Slides.AddSlide(int, Microsoft.Office.Interop.PowerPoint.CustomLayout)**
+-  **Microsoft.Office.Interop.PowerPoint.Slides.AddSlide(int, Microsoft.Office.Interop.PowerPoint.CustomLayout)**
     
 
 ## See also

@@ -22,17 +22,17 @@ Represents the collection of  **[AutoFormatRule](Outlook.AutoFormatRule.md)** ob
 Use the  **[Add](Outlook.AutoFormatRules.Add.md)** method or the **[Insert](Outlook.AutoFormatRules.Insert.md)** method of the **AutoFormatRules** collection to create a new formatting rule for the following objects derived from the **[View](Outlook.View.md)** object:
 
 
-- **[BusinessCardView](Outlook.businessCardView.md)**
+-  **[BusinessCardView](Outlook.businessCardView.md)**
     
-- **[CalendarView](Outlook.CalendarView.md)**
+-  **[CalendarView](Outlook.CalendarView.md)**
     
-- **[CardView](Outlook.CardView.md)**
+-  **[CardView](Outlook.CardView.md)**
     
-- **[IconView](Outlook.IconView.md)**
+-  **[IconView](Outlook.IconView.md)**
     
-- **[TableView](Outlook.TableView.md)**
+-  **[TableView](Outlook.TableView.md)**
     
-- **[TimelineView Object](Outlook.TimelineView.md)**
+-  **[TimelineView Object](Outlook.TimelineView.md)**
     
  **AutoFormatRule** objects contained in an **AutoFormatRules** collection are applied to each Outlook item in the order in which they are contained in the collection. Changes to **AutoFormatRule** objects are persisted only if the **[Save](Outlook.AutoFormatRules.Save.md)** method of the **AutoFormatRules** collection is called.
 

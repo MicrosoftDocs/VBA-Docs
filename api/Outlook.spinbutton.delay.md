@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # SpinButton.Delay Property (Outlook Forms Script)
 
-Returns or sets a **Long** that specifies the delay in milliseconds, between events on a **[SpinButton](Outlook.spinbutton.md)**. Read/write.
+Returns or sets a  **Long** that specifies the delay in milliseconds, between events on a **[SpinButton](Outlook.spinbutton.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**Delay**
 
-_expression_ A variable that represents a **SpinButton** object.
+_expression_ A variable that represents a  **SpinButton** object.
 
 
 ## Remarks

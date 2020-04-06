@@ -19,7 +19,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-If the active project is not checked out, the Backstage view shows a **Check Out** button. The **IsCheckoutOSVisible** property is **True** if the **Check Out** button is visible in the Backstage view; otherwise, **False**.
+If the active project is not checked out, the Backstage view shows a  **Check Out** button. The **IsCheckoutOSVisible** property is **True** if the **Check Out** button is visible in the Backstage view; otherwise, **False**.
 
 
 ## Example

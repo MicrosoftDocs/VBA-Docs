@@ -16,7 +16,7 @@ Occurs when the user definitively selects a value for the control that has more 
 
 _expression_.**Click**
 
-_expression_ A variable that represents a **ToggleButton** object.
+_expression_ A variable that represents a  **ToggleButton** object.
 
 
 ## Remarks

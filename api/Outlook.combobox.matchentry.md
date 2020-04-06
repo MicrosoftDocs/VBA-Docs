@@ -19,7 +19,7 @@ Returns or sets an **Integer** that indicates how a **[ComboBox](Outlook.combobo
 
 _expression_.**MatchEntry**
 
-_expression_ A variable that represents a **CmboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

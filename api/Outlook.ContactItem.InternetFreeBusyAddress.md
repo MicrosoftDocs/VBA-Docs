@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.InternetFreeBusyAddress property (Outlook)
 
-Returns or sets a **String** corresponding to the **Address** box on the **Details** tab for a contact. Read/write.
+Returns or sets a  **String** corresponding to the **Address** box on the **Details** tab for a contact. Read/write.
 
 
 ## Syntax

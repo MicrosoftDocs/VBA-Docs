@@ -30,7 +30,7 @@ _expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _DestFldr_|Required| **[Folder](Outlook.Folder.md)**|An expression that returns a **Folder** object. The destination folder.|
+| _DestFldr_|Required| **[Folder](Outlook.Folder.md)**|An expression that returns a  **Folder** object. The destination folder.|
 
 ## Return value
 

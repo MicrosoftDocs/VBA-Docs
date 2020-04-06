@@ -2,10 +2,9 @@
 title: About the PowerPivot Model Object in Excel
 ms.prod: excel
 ms.assetid: baa95a62-53d2-4c5f-bff7-bcc7323d6a20
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
-
 
 # About the PowerPivot Model Object in Excel
 Learn about the PowerPivot add-in model and its object model in Excel.
@@ -58,8 +57,6 @@ By default, XLSX files in Excel 2010 and Excel do not have a PPM initialized in 
 Any time you import certain types of data, a new model is created in the workbook (if one does not already exist) that contains the connection properties, table representation of the workbook data sources, and the relationships between them. This includes internal data sources like ranges and tables. Table 1 lists the different data sources that can be integrated with the PPM.
 
  **Table 1. Data sources compatible with the PowerPivot Model**
-
-
 
 |**Data Source**|**Description**|**Table Preview**|**Query Supported**|
 |:-----|:-----|:-----|:-----|
@@ -157,7 +154,7 @@ Adds a new workbook connection to the model with the same properties as the one 
 
  **Model.CreateModelWorkbookConnection** Method
 
-Calling this method returns a **WorkbookConnection** object of type **ModelConnection**. A model connection connected to the specified table is returned. This type of connection can only be used by query tables in Excel. Table 4 lists the parameters of the  **CreateModelWorkbookConnection** method.
+Calling this method returns a  **WorkbookConnection** object of type **ModelConnection**. A model connection connected to the specified table is returned. This type of connection can only be used by query tables in Excel. Table 4 lists the parameters of the  **CreateModelWorkbookConnection** method.
 
  **Table 4. Parameters of the Model.CreateModelWorkbookConnection method**
 
@@ -187,17 +184,16 @@ Represents changes made to the PPM. The  **ModelChanges** object contains inform
 |**Property**|**Read/Write**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | **Application**|Read-only| **Application**|Returns an object that represents the Microsoft Excel application.|
-| **ColumnsAdded**|Read-only| **ModelColumnNames**|Returns a **ModelColumnNames** collection of **ModelColumnName** objects which represent all columns added as part of a model operation.|
-| **ColumnsChanged**|Read-only| **ModelColumnChanges**|Returns a **ModelColumnChanges** collection of **ModelColumnChange** objects which represent table names and column names of all table columns for which the data type was changed as part of a model operation.|
-| **ColumnsDeleted**|Read-only| **ModelColumnNames**|Returns a **ModelColumnNames** collection of **ModelColumnName** objects which represent all columns which were deleted as part of a model operation.|
-| **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
+| **ColumnsAdded**|Read-only| **ModelColumnNames**|Returns a  **ModelColumnNames** collection of **ModelColumnName** objects which represent all columns added as part of a model operation.|
+| **ColumnsChanged**|Read-only| **ModelColumnChanges**|Returns a  **ModelColumnChanges** collection of **ModelColumnChange** objects which represent table names and column names of all table columns for which the data type was changed as part of a model operation.|
+| **ColumnsDeleted**|Read-only| **ModelColumnNames**|Returns a  **ModelColumnNames** collection of **ModelColumnName** objects which represent all columns which were deleted as part of a model operation.|
 | **MeasuresAdded**|Read-only| **ModelMeasureNames**|Returns a **ModelMeasureNames** collection of **ModelMeasureName** objects which represent all measures which were added as part of a model operation.|
 | **Parent**|Read-only| **Object**|Returns an **Object** that represents the parent object of the specified **ModelChanges** object.|
 | **RelationshipChange**|Read-only| **Boolean**|When  **True**, one or more relationships in the model were changed (added, deleted or modified) as part of a model operation. When  **False**, no relationships were changed during the operation.|
-| **TableNamesChanged**|Read-only| **ModelTableNameChanges**|Returns a **ModelTableNameChanges** collection of **ModelTableNameChange** objects that represents old and new names of all tables which were renamed in the model as part of a model operation.|
-| **TablesAdded**|Read-only| **ModelTableNames**|Returns a **ModelTableNames** collection of table names as strings that represents all tables which were added to the model as part of a model operation.|
-| **TablesDeleted**|Read-only| **ModelTableNames**|Returns a **ModelTableNames** collection of table names as strings that represents all tables which were deleted from the model as part of a model operation.|
-| **TablesModified**|Read-only| **ModelTableNames**|Returns a **ModelTableNames** collection of table names as strings that represents all tables which were refreshed or recalculated as part of a model operation.|
+| **TableNamesChanged**|Read-only| **ModelTableNameChanges**|Returns a  **ModelTableNameChanges** collection of **ModelTableNameChange** objects that represents old and new names of all tables which were renamed in the model as part of a model operation.|
+| **TablesAdded**|Read-only| **ModelTableNames**|Returns a  **ModelTableNames** collection of table names as strings that represents all tables which were added to the model as part of a model operation.|
+| **TablesDeleted**|Read-only| **ModelTableNames**|Returns a  **ModelTableNames** collection of table names as strings that represents all tables which were deleted from the model as part of a model operation.|
+| **TablesModified**|Read-only| **ModelTableNames**|Returns a  **ModelTableNames** collection of table names as strings that represents all tables which were refreshed or recalculated as part of a model operation.|
 | **UnknownChange**|Read-only| **Boolean**| **True** when a non-specified change was made to the model as part of a model transaction.|
 
 ### ModelColumnChanges Collection
@@ -205,9 +201,6 @@ Represents changes made to the PPM. The  **ModelChanges** object contains inform
 A collection of  **ModelColumnChange** objects that represent columns for which the data type was change in the PPM. Table 6 lists the properties of the **ModelColumnChanges** collection.
 
  **Table 6. Properties of the ModelColumnChanges collection**
-
-
-
 |**Property**|**Read/Write**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | **Application**|Read-only| **Application**|Returns an object that represents the Microsoft Excel application.|
@@ -221,8 +214,6 @@ Returns a single object from the  **ModelColumnChanges** collection. Table 7 lis
 
  **Table 7. Parameters of the ModelColumnChanges.Item method**
 
-
-
 |**Name**|**Required/Optional**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Variant**|The index number or name of the object.|
@@ -232,8 +223,6 @@ Returns a single object from the  **ModelColumnChanges** collection. Table 7 lis
 An object that represents a column in a table in the PPM for which the data type was changed. Table 8 lists the properties of the  **ModelColumnChange** object.
 
  **Table 8. Properties of the ModelColumnChange object**
-
-
 
 |**Property**|**Read/Write**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
@@ -249,8 +238,6 @@ A collection of  **ModelColumnName** objects that represents columns of tables i
 
  **Table 9. Properties of the ModelColumnNames collection**
 
-
-
 |**Property**|**Read/Write**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | **Application**|Read-only| **Application**|Returns an object that represents the Microsoft Excel application.|
@@ -264,8 +251,6 @@ Returns a single object from the  **ModelColumnNames** collection. Table 10 list
 
  **Table 10. Parameters of the ModelColumnNames.Item method**
 
-
-
 |**Name**|**Required/Optional**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Variant**|The index number or name of the object.|
@@ -275,8 +260,6 @@ Returns a single object from the  **ModelColumnNames** collection. Table 10 list
 An object that represents the name of a column in the PPM. Table 11 lists the properties of the  **ModelColumnName** object.
 
  **Table 11. Properties of the ModelColumnName object**
-
-
 
 |**Property**|**Read/Write**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
@@ -291,8 +274,6 @@ An object that represents the name of a column in the PPM. Table 11 lists the pr
 The  **ModelConnection** object will contain information for the new Model Connection Type introduced in Excel to interact with the integrated PPM. Table 12 lists the properties of the **ModelConnection** object.
 
  **Table 12. Properties of the ModelConnection object**
-
-
 
 |**Property**|**Read/Write**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
@@ -309,8 +290,6 @@ The  **ModelMeasureNames** collection contains a collection of **ModelMeasureNam
 
  **Table 13. Properties of the ModelMeasureNames collection**
 
-
-
 |**Property**|**Read/Write**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | **Application**|Read-only| **Application**|Returns an object that represents the Microsoft Excel application.|
@@ -324,8 +303,6 @@ Returns a single object from the  **ModelMeasureNames** collection. Table 14 lis
 
  **Table 14. Parameters of the ModelMeasureNames.Item method**
 
-
-
 |**Name**|**Required/Optional**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Variant**|The index number or name of the object.|
@@ -335,8 +312,6 @@ Returns a single object from the  **ModelMeasureNames** collection. Table 14 lis
 An object that represents the name of a measure in the PPM. Table 15 lists the properties of the  **ModelMeasureName** object.
 
  **Table 15. Properties of the ModelMeasureName object**
-
-
 
 |**Property**|**Read/Write**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
@@ -371,16 +346,14 @@ Adds a relationship to the  **ModelRelationships** collection. Table 17 lists th
 
 |**Name**|**Required/Optional**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|ForeignKeyColumn|Required| **ModelTableColumn**|A **ModelTableColumn** object that represents the foreign key column in the table on the many side of the one-to-many relationship.|
-|PrimaryKeyColumn|Required| **ModelTableColumn**|A **ModelTableColumn** object that represents the primary key column in the table on the one side of the one-to-many relationship.|
+|ForeignKeyColumn|Required| **ModelTableColumn**|A  **ModelTableColumn** object that represents the foreign key column in the table on the many side of the one-to-many relationship.|
+|PrimaryKeyColumn|Required| **ModelTableColumn**|A  **ModelTableColumn** object that represents the primary key column in the table on the one side of the one-to-many relationship.|
 
  **ModelRelationships.Item** Method
 
 Returns a single object from the  **ModelRelationships** collection. Table 18 lists the parameters of the **Item** method.
 
  **Table 18. Parameters of the ModelRelationships.Item method**
-
-
 
 |**Name**|**Required/Optional**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
@@ -391,8 +364,6 @@ Returns a single object from the  **ModelRelationships** collection. Table 18 li
 Represent a relationship between  **ModelTableColumn** objects. Used when programmatically creating relationships. Table 19 lists the properties of the **ModelRelationship** object.
 
  **Table 19. Properties of the ModelRelationship object**
-
-
 
 |**Property**|**Read/Write**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
@@ -416,8 +387,6 @@ The  **ModelTables** collection contains a collection of **ModelTable** objects 
 
  **Table 20. Properties of the ModelTables collection**
 
-
-
 |**Property**|**Read/Write**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | **Application**|Read-only| **Application**|Returns an object that represents the Microsoft Excel application.|
@@ -431,8 +400,6 @@ Returns a single object from the  **ModelTables** collection. Table 21 lists the
 
  **Table 21. Parameters of the ModelTables.Item method**
 
-
-
 |**Name**|**Required/Optional**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Variant**|The index number or name of the object.|
@@ -442,8 +409,6 @@ Returns a single object from the  **ModelTables** collection. Table 21 lists the
 Represent a table in the  **Model** object. The **ModelTable** object is read only which means it cannot be created or edited through the object model. There is a **ModelTable** object for every table in the model. Table 22 lists the properties of the **ModelTable** object.
 
  **Table 22. Properties of the ModelTable object**
-
-
 
 |**Property**|**Read/Write**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
@@ -460,14 +425,11 @@ Represent a table in the  **Model** object. The **ModelTable** object is read on
 
 The  **Refresh** method of the **ModelTable** object has no parameters. Refreshes the model table source connections.
 
-
 ### ModelTableColumns Collection
 
 The  **ModelTableColumns** collection contains a collection of **ModelTableColumn** objects in the PPM. Table 23 lists the properties of the **ModelTableColumns** collection.
 
  **Table 23. Properties of the ModelTableColumns collection**
-
-
 
 |**Property**|**Read/Write**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
@@ -482,8 +444,6 @@ Returns a single object from the  **ModelTableColumns** collection. Table 24 lis
 
  **Table 24. Parameters of the ModelTableColumns.Item method**
 
-
-
 |**Name**|**Required/Optional**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Variant**|The index number or name of the object.|
@@ -493,8 +453,6 @@ Returns a single object from the  **ModelTableColumns** collection. Table 24 lis
 Represent a single column in the  **ModelTable** object. Used when programmatically creating relationships. Table 25 lists the properties of the **ModelTableColumn** object.
 
  **Table 25. Properties of the ModelTableColumn object**
-
-
 
 |**Property**|**Read/Write**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
@@ -510,8 +468,6 @@ The  **ModelTableNames** collection contains a collection of **ModelTableName** 
 
  **Table 26. Properties of the ModelTableNames collection**
 
-
-
 |**Property**|**Read/Write**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | **Application**|Read-only| **Application**|Returns an object that represents the Microsoft Excel application.|
@@ -525,8 +481,6 @@ Returns a single object from the  **ModelTableNames** collection. Table 27 lists
 
  **Table 27. Parameters of the ModelTableNames.Item method**
 
-
-
 |**Name**|**Required/Optional**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Variant**|The index number or name of the object.|
@@ -536,8 +490,6 @@ Returns a single object from the  **ModelTableNames** collection. Table 27 lists
 The  **ModelTableNameChanges** collection contains a collection of **ModelTableNameChange** objects in the PPM. Table 28 lists the properties of the **ModelTableNameChanges** collection.
 
  **Table 28. Properties of the ModelTableNameChanges collection**
-
-
 
 |**Property**|**Read/Write**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
@@ -552,8 +504,6 @@ Returns a single object from the  **ModelTableNameChanges** collection. Table 29
 
  **Table 29. Parameters of the ModelTableNameChanges.Item method**
 
-
-
 |**Name**|**Required/Optional**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Variant**|The index number or name of the object.|
@@ -563,8 +513,6 @@ Returns a single object from the  **ModelTableNameChanges** collection. Table 29
 An object that represents the old and new name of a table which was renamed in the PPM. Table 30 lists the properties of the  **ModelTableNameChange** object.
 
  **Table 30. Properties of the ModelTableNameChange object**
-
-
 
 |**Property**|**Read/Write**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
@@ -578,7 +526,6 @@ An object that represents the old and new name of a table which was renamed in t
 <a name="XLPowerPivotModel_Conclusion"> </a>
 
 The PowerPivot add-in enables you to build your own cubes instead of using the default ones Excel creates for you behind Power tables. With this add-in, can see the cubes in a visual context and change cube-specific properties. The  **Model** object stores references to workbook connections and information about the Tables and Relationships contained within the PowerPivot Model.
-
 
 ## See also
 

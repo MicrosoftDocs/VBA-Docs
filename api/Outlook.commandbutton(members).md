@@ -2,19 +2,15 @@
 title: CommandButton Members (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: c2c1b19d-fe22-4d98-88bb-0fdb31da7bc2
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
-
 
 # CommandButton Members (Outlook Forms Script)
 
 Starts, ends, or interrupts an action or series of actions.
 
-
 ## Properties
-
-
 
 |Name|Description|
 |:-----|:-----|
@@ -33,10 +29,7 @@ Starts, ends, or interrupts an action or series of actions.
 | [TakeFocusOnClick](Outlook.commandbutton.takefocusonclick.md)|Returns or sets a **Boolean** that specifies whether a control takes the focus when clicked. Read/write.|
 | [WordWrap](Outlook.commandbutton.wordwrap.md)|Returns or sets a **Boolean** that specifies whether the contents of a control automatically wrap at the end of a line and the control expands to fit the text. Read/write.|
 
-
-
 ## Events
-
 
 
 |Name|Description|

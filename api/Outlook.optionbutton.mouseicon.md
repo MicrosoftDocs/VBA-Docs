@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # OptionButton.MouseIcon Property (Outlook Forms Script)
 
-Returns a **String** that represents the full path name of a custom icon that is to be assigned to the control. Read-only.
+Returns a  **String** that represents the full path name of a custom icon that is to be assigned to the control. Read-only.
 
 
 ## Syntax

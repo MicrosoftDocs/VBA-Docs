@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # CheckBox.Caption Property (Outlook Forms Script)
 
-Returns or sets a **String** that appears on an object to identify or describe it. Read/write.
+Returns or sets a  **String** that appears on an object to identify or describe it. Read/write.
 
 
 ## Syntax
 
 _expression_.**Caption**
 
-_expression_ A variable that represents a **CeckBox** object.
+_expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks

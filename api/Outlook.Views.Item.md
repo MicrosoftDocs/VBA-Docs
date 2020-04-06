@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Views](Outlook.Views.md) object.
 
 ## Return value
 
-A **View** object that represents the specified object.
+A  **View** object that represents the specified object.
 
 
 ## See also

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Font.PitchAndFamily property (Visio)
 
-Returns the pitch and family code for a **Font** object. Read-only.
+Returns the pitch and family code for a  **Font** object. Read-only.
 
 
 ## Syntax

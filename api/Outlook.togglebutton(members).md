@@ -2,19 +2,14 @@
 title: ToggleButton Members (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 62b4a042-546b-40b6-bd23-629d0c0306ab
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
-
-
 # ToggleButton Members (Outlook Forms Script)
 
 Shows the selection state of an item.
 
-
 ## Properties
-
-
 
 |Name|Description|
 |:-----|:-----|
@@ -39,10 +34,7 @@ Shows the selection state of an item.
 | [WordWrap](Outlook.togglebutton.wordwrap.md)|Returns or sets a **Boolean** that specifies whether the contents of a control automatically wrap at the end of a line and the control expands to fit the text. Read/write.|
 
 
-
 ## Events
-
-
 
 |Name|Description|
 |:-----|:-----|

@@ -39,7 +39,7 @@ This event allows a third-party software application to intercept and show their
 
 ## Example
 
-This example displays a message when a user clicks either the **Add Electronic Postage** button or the **Print Electronic Postage** button.
+This example displays a message when a user clicks either the  **Add Electronic Postage** button or the **Print Electronic Postage** button.
 
 
 ```vb

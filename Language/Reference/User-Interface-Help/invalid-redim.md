@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1011326
 ms.prod: office
 ms.assetid: 32682d86-d3c1-bf15-677c-9b0efd5e9e75
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -18,7 +18,7 @@ Not every [array](../../Glossary/vbe-glossary.md#array) can be redimensioned. Th
 
 - A [variable](../../Glossary/vbe-glossary.md#variable) was implicitly declared a **Variant**, and you attempted to use **ReDim** to change it to an array.
     
-    A **Variant** can contain an array, but if it isn't explicitly declared, you can't use **ReDim** to make it into an array. Declare the **Variant** before using **ReDim** to specify the number of elements it can contain. For example, in the following code, `ReDim AVar(10)` causes an invalid **ReDim** error, but `ReDim BVar(10)` does not:
+    A  **Variant** can contain an array, but if it isn't explicitly declared, you can't use **ReDim** to make it into an array. Declare the **Variant** before using **ReDim** to specify the number of elements it can contain. For example, in the following code, `ReDim AVar(10)` causes an invalid **ReDim** error, but `ReDim BVar(10)` does not:
     
 
 
@@ -54,9 +54,7 @@ ReDim MyVar(5) As Variant    ' ReDim it as array of Variant subtypes.
     
     Remove the  **ReDim**.
     
-     **Note**  If you don't specify a type for a variable, the variable receives the default type,  **Variant**. This isn't always obvious. For example, the following code declares two variables, the first, `MyVar`, is a **Variant**; the second, `AnotherVar`, is an **Integer**.
-
-
+     **Note**  If you don't specify a type for a variable, the variable receives the default type, **Variant**. This isn't always obvious. For example, the following code declares two variables, the first, `MyVar`, is a **Variant**; the second, `AnotherVar`, is an **Integer**.
 
 
 ```vb

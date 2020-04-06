@@ -30,7 +30,7 @@ _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _DestFldr_|Required| **[Folder](Outlook.Folder.md)**|An expression that returns a **Flder** object. The destination folder.|
+| _DestFldr_|Required| **[Folder](Outlook.Folder.md)**|An expression that returns a  **Folder** object. The destination folder.|
 
 ## Return value
 

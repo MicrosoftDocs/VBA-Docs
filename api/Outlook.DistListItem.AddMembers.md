@@ -34,7 +34,7 @@ _expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example creates a new distribution list and adds the current user and 'Dan Wilson' to the list. If the specified recipient is not valid, the **AdMember** method will fail. Therefore, to run this example, replace 'Dan Wilson' with a valid recipient name.
+This Microsoft Visual Basic for Applications (VBA) example creates a new distribution list and adds the current user and 'Dan Wilson' to the list. If the specified recipient is not valid, the  **AddMember** method will fail. Therefore, to run this example, replace 'Dan Wilson' with a valid recipient name.
 
 
 ```vb

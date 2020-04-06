@@ -19,7 +19,7 @@ Returns or sets an **Integer** that specifies whether a vertical scroll bar appe
 
 _expression_.**VerticalScrollBarSide**
 
-_expression_ A variable that represents a **Fame** object.
+_expression_ A variable that represents a  **Frame** object.
 
 
 ## Remarks

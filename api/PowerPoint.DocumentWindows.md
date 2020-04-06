@@ -22,7 +22,7 @@ A collection of all the  **[DocumentWindow](PowerPoint.DocumentWindow.md)** obje
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this collection maps to the following types:
 
 
-- **Microsoft.Office.Interop.PowerPoint.DocumentWindows**
+-  **Microsoft.Office.Interop.PowerPoint.DocumentWindows**
     
 
 ## Example

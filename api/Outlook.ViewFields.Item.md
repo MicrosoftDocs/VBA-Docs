@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ViewFields.Item method (Outlook)
 
-Returns a **[ViewField](Outlook.ViewField.md)** object from the collection.
+Returns a  **[ViewField](Outlook.ViewField.md)** object from the collection.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [ViewFields](Outlook.ViewFields.md) ob
 
 ## Return value
 
-A **ViewField** object that represents the specified object.
+A  **ViewField** object that represents the specified object.
 
 
 ## See also

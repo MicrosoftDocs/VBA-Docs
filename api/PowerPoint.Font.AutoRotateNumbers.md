@@ -31,7 +31,7 @@ MsoTriState
 
 ## Remarks
 
-The value of the **AtoRotateNumbers** property can be one of these **MsoTriState** constants.
+The value of the  **AutoRotateNumbers** property can be one of these **MsoTriState** constants.
 
 
 

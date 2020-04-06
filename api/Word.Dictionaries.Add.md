@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Dictionaries.Add method (Word)
 
-Returns a **Dictionary** object that represents a new custom spelling or conversion dictionary added to the collection of active custom spelling or conversion dictionaries.
+Returns a  **Dictionary** object that represents a new custom spelling or conversion dictionary added to the collection of active custom spelling or conversion dictionaries.
 
 
 ## Syntax

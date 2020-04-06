@@ -29,7 +29,7 @@ With ActiveDocument.TablesOfAuthorities(1)
 End With
 ```
 
-Use the **Add** method to add a table of authorities to a document. The following example adds a table of authorities that includes all categories at the beginning of the active document.
+Use the  **Add** method to add a table of authorities to a document. The following example adds a table of authorities that includes all categories at the beginning of the active document.
 
 
 

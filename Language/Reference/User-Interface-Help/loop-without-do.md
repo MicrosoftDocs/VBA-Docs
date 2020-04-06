@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Loop without Do
 
-A **Do** loop must begin with a **Do** statement. This error has the following cause and solution:
+A  **Do** loop must begin with a **Do** statement. This error has the following cause and solution:
 
 
 

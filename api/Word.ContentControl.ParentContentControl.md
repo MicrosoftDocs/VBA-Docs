@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContentControl.ParentContentControl property (Word)
 
-Returns a **ContentControl** that represents the parent content control for a content control that is nested inside a rich-text control or group control. Read-only.
+Returns a  **ContentControl** that represents the parent content control for a content control that is nested inside a rich-text control or group control. Read-only.
 
 
 ## Syntax
