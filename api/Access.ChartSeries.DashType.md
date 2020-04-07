@@ -13,7 +13,7 @@ localization_priority: Normal
 
 # ChartSeries.DashType property (Access)
 
-Returns or sets the line dash style of a series when the effective **[ChartType](Access.Chart.ChartType.md)** is  **acChartLine**, **acChartLineStacked**, or **acChartLineStacked100**. Read/write **[AcDashType](Access.AcDashType.md)**.
+Returns or sets the line dash style of a series when the effective **[ChartType](Access.Chart.ChartType.md)** is **acChartLine**, **acChartLineStacked**, or **acChartLineStacked100**. Read/write **[AcDashType](Access.AcDashType.md)**.
 
 
 ## Syntax

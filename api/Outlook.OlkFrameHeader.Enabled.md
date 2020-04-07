@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkFrameHeader](Outlook.OlkFrameHead
 
 ## Remarks
 
-The default value is  **False**.
+The default value is **False**.
 
 When the control is disabled, the contents of the control appear dimmed.
 

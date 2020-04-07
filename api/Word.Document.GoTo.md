@@ -33,7 +33,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 | _What_|Optional| **Variant**|The kind of item to which the range or selection is moved. Can be one of the  **[WdGoToItem](Word.WdGoToItem.md)** constants.|
 | _Which_|Optional| **Variant**|The item to which the range or selection is moved. Can be one of the  **[WdGoToDirection](Word.WdGoToDirection.md)** constants.|
 | _Count_|Optional| **Variant**|The number of the item in the document. The default value is 1. Only positive values are valid. To specify an item that precedes the range or selection, use  **wdGoToPrevious** as the Which argument and specify a value for the Count value.|
-| _Name_|Optional| **Variant**|If the What argument is  **wdGoToBookmark**, **wdGoToComment**, **wdGoToField**, or **wdGoToObject**, this argument specifies a name. Only positive values are valid. To specify an item that precedes the range or selection, use **wdGoToPrevious** as the Which argument and specify a value for the Count argument.|
+| _Name_|Optional| **Variant**|If the What argument is **wdGoToBookmark**, **wdGoToComment**, **wdGoToField**, or **wdGoToObject**, this argument specifies a name. Only positive values are valid. To specify an item that precedes the range or selection, use **wdGoToPrevious** as the Which argument and specify a value for the Count argument.|
 
 ## Remarks
 

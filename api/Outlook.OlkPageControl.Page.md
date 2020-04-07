@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkPageControl](Outlook.OlkPageContr
 
 ## Remarks
 
-The default value is  **olPageTypePlanner**.
+The default value is **olPageTypePlanner**.
 
 
 ## See also

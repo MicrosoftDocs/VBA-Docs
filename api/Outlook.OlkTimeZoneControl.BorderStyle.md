@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkTimeZoneControl](Outlook.OlkTimeZ
 
 ## Remarks
 
-The default value is  **olBorderStyleSingle**.
+The default value is **olBorderStyleSingle**.
 
 
 ## See also

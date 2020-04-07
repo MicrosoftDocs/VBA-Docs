@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **WdUnits**|The unit by which to move the ending character position. The default value is  **wdCharacter**.|
+| _Unit_|Optional| **WdUnits**|The unit by which to move the ending character position. The default value is **wdCharacter**.|
 | _Count_|Optional| **Variant**|The number of units to move. If this number is positive, the ending character position is moved forward in the document. If this number is negative, the end is moved backward. If the ending position overtakes the starting position, the range collapses and both character positions move together. The default value is 1.|
 
 ## Return value

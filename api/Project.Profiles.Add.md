@@ -37,7 +37,7 @@ _expression_ A variable that represents a 'Profiles' object.
 
 ## Remarks
 
-The UserName argument can be either a Project Server user name, if the LoginType is  **pjProjectServerLogin**, or a user name for a Windows account. For example, if the LoginType is **pjWindowsLogin**, a user name might be **DOMAIN\jsmith**.
+The UserName argument can be either a Project Server user name, if the LoginType is **pjProjectServerLogin**, or a user name for a Windows account. For example, if the LoginType is **pjWindowsLogin**, a user name might be **DOMAIN\jsmith**.
 
 
 ## See also

@@ -32,7 +32,7 @@ _expression_. `TableEditEx`( `_Name_`, `_TaskTable_`, `_Create_`, `_OverwriteExi
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**| The name of a table to edit, create, or copy.|
 | _TaskTable_|Required|**Boolean**|**True** if the active table contains information about tasks or resources; otherwise, **False**.|
-| _Create_|Optional|**Boolean**|**True** if Project creates a table; otherwise, **False**. If _NewName_ is not defined, the new table is given the name specified by _Name_. Otherwise, the new table is a copy of the table specified by  _Name_ and is given the name specified by _NewName_. The default value is  **False**.|
+| _Create_|Optional|**Boolean**|**True** if Project creates a table; otherwise, **False**. If _NewName_ is not defined, the new table is given the name specified by _Name_. Otherwise, the new table is a copy of the table specified by  _Name_ and is given the name specified by _NewName_. The default value is **False**.|
 | _OverwriteExisting_|Optional|**Boolean**|**True** if an existing table is overwritten with the new table; otherwise, **False**. The default value is **False**.|
 | _NewName_|Optional|**String**|The new name for the existing table ( _Create_ is **False**) or new table ( _Create_ is **True**). If _NewName_ is not defined and _Create_ is **False**, the table specified by _Name_ retains its current name. The default value is an empty string ("").|
 | _FieldName_|Optional|**String**|The name of a field to change.|

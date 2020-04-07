@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.ProjectBeforeClose2 event (Project)
 
-Occurs before a project is closed. Uses the  **EventInfo** object parameter.
+Occurs before a project is closed. Uses the **EventInfo** object parameter.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pj_|Required|**Project**|The project to be closed|
-| _Info_|Required|**EventInfo**|EventInfo.Cancel is  **False** when the event occurs. If the event procedure sets this argument to **True**, the project will not be closed.|
+| _Info_|Required|**EventInfo**|EventInfo.Cancel is **False** when the event occurs. If the event procedure sets this argument to **True**, the project will not be closed.|
 
 ## Return value
 

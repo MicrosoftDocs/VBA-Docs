@@ -26,7 +26,7 @@ _expression_. `OpEmu`
 
 ## Remarks
 
-When the OpEmu property is  **True**, the character can serve as a point for a line break and can be aligned to other operators. Operator emulators are often used when one or more glyphs combine to form an operator, such as ==.
+When the OpEmu property is **True**, the character can serve as a point for a line break and can be aligned to other operators. Operator emulators are often used when one or more glyphs combine to form an operator, such as ==.
 
 
 ## See also

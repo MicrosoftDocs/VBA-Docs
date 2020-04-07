@@ -30,13 +30,13 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **WdUnits**|The unit by which the selection is to be moved.The default value is  **wdCharacter**.|
+| _Unit_|Optional| **WdUnits**|The unit by which the selection is to be moved.The default value is **wdCharacter**.|
 | _Count_|Optional| **Variant**|The number of units the selection is to be moved. The default value is 1.|
 | _Extend_|Optional| **Variant**|Can be either  **wdMove** or **wdExtend**. If **wdMove** is used, the selection is collapsed to the endpoint and moved to the left. If **wdExtend** is used, the selection is extended to the left. The default value is **wdMove**.|
 
 ## Remarks
 
-When the Unit is  **wdCell**, the Extend argument will only be **wdMove**.
+When the Unit is **wdCell**, the Extend argument will only be **wdMove**.
 
 
 ## Example

@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateContr
 
 ## Remarks
 
-The default value is  **olEnterFieldBehaviorSelectAll**.
+The default value is **olEnterFieldBehaviorSelectAll**.
 
 
 ## See also

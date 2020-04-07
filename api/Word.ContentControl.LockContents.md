@@ -26,7 +26,7 @@ _expression_. `LockContents`
 
 ## Remarks
 
-The default value of this property is  **False**. This property corresponds to the **Contents cannot be edited** check box in the **Content Control Properties** dialog box.
+The default value of this property is **False**. This property corresponds to the **Contents cannot be edited** check box in the **Content Control Properties** dialog box.
 
 
 ## Example

@@ -31,11 +31,11 @@ MsoCalloutDropType
 
 ## Remarks
 
-If the callout drop type is  **msoCalloutDropCustom**, the values of the [Drop](PowerPoint.CalloutFormat.Drop.md)and  **[AutoAttach](PowerPoint.CalloutFormat.AutoAttach.md)** properties and the relative positions of the callout text box and callout line origin (the place that the callout points to) are used to determine where the callout line attaches to the text box.
+If the callout drop type is **msoCalloutDropCustom**, the values of the [Drop](PowerPoint.CalloutFormat.Drop.md)and  **[AutoAttach](PowerPoint.CalloutFormat.AutoAttach.md)** properties and the relative positions of the callout text box and callout line origin (the place that the callout points to) are used to determine where the callout line attaches to the text box.
 
-This property is read-only. Use the  **[PresetDrop](PowerPoint.CalloutFormat.PresetDrop.md)** method to set the value of this property.
+This property is read-only. Use the **[PresetDrop](PowerPoint.CalloutFormat.PresetDrop.md)** method to set the value of this property.
 
-The value returned by the  **DropType** property can be one of these **MsoCalloutDropType** constants.
+The value returned by the **DropType** property can be one of these **MsoCalloutDropType** constants.
 
 
 ||

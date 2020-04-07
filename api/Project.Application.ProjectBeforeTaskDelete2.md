@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.ProjectBeforeTaskDelete2 event (Project)
 
-Occurs before a task is deleted. Uses the  **EventInfo** object parameter.
+Occurs before a task is deleted. Uses the **EventInfo** object parameter.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _tsk_|Required|**Task**| The task that is being deleted.|
-| _Info_|Required|**EventInfo**|EventInfo.Cancel is  **False** when the event occurs. If the event procedure sets this argument to **True**, the task is not deleted when the procedure is finished.|
+| _Info_|Required|**EventInfo**|EventInfo.Cancel is **False** when the event occurs. If the event procedure sets this argument to **True**, the task is not deleted when the procedure is finished.|
 
 ## Return value
 
@@ -39,6 +39,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 Project events do not occur when the project is embedded in another document or application. 
 
-The  **ProjectBeforeTaskDelete2** event does not occur when changes have been made using a custom form.
+the **ProjectBeforeTaskDelete2** event does not occur when changes have been made using a custom form.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

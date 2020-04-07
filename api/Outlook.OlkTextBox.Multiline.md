@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) o
 
 ## Remarks
 
-The default value is  **False**.
+The default value is **False**.
 
 
 ## See also

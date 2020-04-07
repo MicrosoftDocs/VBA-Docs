@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MoveOrCopyRuleAction](Outlook.MoveOrC
 
 ## Remarks
 
-If no folder has been assigned to the move or copy rule action, this property is  **Null** (**Nothing** in Visual Basic).
+If no folder has been assigned to the move or copy rule action, this property is **Null** (**Nothing** in Visual Basic).
 
 This property returns an error if the specified folder cannot serve as a target folder for the copy or move operation. For example, the folder is a search folder, is read-only, or the user does not have the required permissions to move or copy messages to it.
 

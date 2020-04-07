@@ -34,7 +34,7 @@ _expression_. `SetResourceFieldByID`( `_FieldID_`, `_Value_`, `_AllSelectedResou
 | _Value_|Required|**String**|The value of the resource field.|
 | _AllSelectedResources_|Optional|**Boolean**|**True** if the value of the field is set for all selected resources. **False** if the value is set for the active resource. The default value is **False**.|
 | _Create_|Optional|**Boolean**|**True** if Project should create a resource if the active cell is on an empty row. The default value is **True**.|
-| _ResourceID_|Optional|**Long**|The identification number of the resource containing the field to set. If AllSelectedResources is  **True**, ResourceID is ignored.|
+| _ResourceID_|Optional|**Long**|The identification number of the resource containing the field to set. If AllSelectedResources is **True**, ResourceID is ignored.|
 | _ProjectName_|Optional|**String**|If the active project is a consolidated project, specifies the name of the project for the resource specified by  _ResourceID_. If  _ResourceID_ is not specified, _ProjectName_ is ignored. The default value is the name of the active project.|
 
 ## Return value

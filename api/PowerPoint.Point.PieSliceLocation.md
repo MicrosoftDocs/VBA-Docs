@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Point](PowerPoint.Point.md) object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _loc_|Required|**[XlPieSliceLocation](Excel.XlPieSliceLocation.md)**|Specifies a horizontal or vertical coordinate.|
-| _Index_|Optional|**[XlPieSliceIndex](Excel.XlPieSliceIndex.md)**|Specifies which pie slice position coordinate to return. The default is  **xlOuterCenterPoint**.|
+| _Index_|Optional|**[XlPieSliceIndex](Excel.XlPieSliceIndex.md)**|Specifies which pie slice position coordinate to return. The default is **xlOuterCenterPoint**.|
 
 ## Return value
 

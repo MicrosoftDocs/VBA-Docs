@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) o
 
 ## Remarks
 
-The default value is  **olTextAlignLeft** in left-to-right languages such as English.
+The default value is **olTextAlignLeft** in left-to-right languages such as English.
 
 
 ## See also

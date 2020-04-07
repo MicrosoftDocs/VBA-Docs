@@ -26,7 +26,7 @@ _expression_. `ApplyFarEastFontsToAscii`
 
 ## Remarks
 
-This property applies only when you have selected an East Asian language for editing. If this property is  **False** and you apply an East Asian font to a specified range, Word will not apply the font to any Latin text in the range.
+This property applies only when you have selected an East Asian language for editing. If this property is **False** and you apply an East Asian font to a specified range, Word will not apply the font to any Latin text in the range.
 
 
 ## Example

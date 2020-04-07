@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # MsoAnimateByLevel enumeration (PowerPoint)
 
-Specifies for charts, diagrams, or text, the level to which the animation effect will be applied. The default value is  **msoAnimationLevelNone**.
+Specifies for charts, diagrams, or text, the level to which the animation effect will be applied. The default value is **msoAnimationLevelNone**.
 
 
 

@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **[WdBreakType](Word.WdBreakType.md)**|the type of break to insert. The default value is  **wdPageBreak**. Some of the **WdBreakType** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
+| _Type_|Required| **[WdBreakType](Word.WdBreakType.md)**|the type of break to insert. The default value is **wdPageBreak**. Some of the **WdBreakType** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
 
 ## Remarks
 

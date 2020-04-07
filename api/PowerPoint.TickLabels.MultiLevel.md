@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[TickLabels](PowerPoint.TickLabels.md
 
 ## Remarks
 
-The default value for this property is  **True**.
+The default value for this property is **True**.
 
 
 ## See also

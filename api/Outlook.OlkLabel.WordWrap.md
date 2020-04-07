@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkLabel](Outlook.OlkLabel.md) objec
 
 ## Remarks
 
-The default value is  **True**.
+The default value is **True**.
 
 
 ## See also

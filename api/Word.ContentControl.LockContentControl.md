@@ -26,7 +26,7 @@ _expression_. `LockContentControl`
 
 ## Remarks
 
-The default value of this property is  **False**. This property corresponds to the **Content control cannot be deleted** check box in the **Content Control Properties** dialog box.
+The default value of this property is **False**. This property corresponds to the **Content control cannot be deleted** check box in the **Content Control Properties** dialog box.
 
 
 > [!NOTE] 

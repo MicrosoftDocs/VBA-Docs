@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkContactPhoto](Outlook.OlkContactP
 
 ## Remarks
 
-The default value is  **True**.
+The default value is **True**.
 
 
 ## See also

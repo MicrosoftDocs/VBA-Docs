@@ -11,7 +11,7 @@ localization_priority: Normal
 
 
 # Application.FileOpenUsingBackstage method (Project)
-Displays the  **Open** tab in the Backstage view.
+Displays the **Open** tab in the Backstage view.
 
 ## Syntax
 
@@ -24,7 +24,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
  **Boolean**
 
-The return value is  **True** if Project displays the **Open** tab in the Backstage view; otherwise, **False** if there is an error.
+The return value is **True** if Project displays the **Open** tab in the Backstage view; otherwise, **False** if there is an error.
 
 
 ## Example

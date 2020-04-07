@@ -31,7 +31,7 @@ PpWindowState
 
 ## Remarks
 
-The value of the  **WindowState** property can be one of these **PpWindowState** constants.
+The value of the **WindowState** property can be one of these **PpWindowState** constants.
 
 
 ||
@@ -40,7 +40,7 @@ The value of the  **WindowState** property can be one of these **PpWindowState**
 |**ppWindowMinimized**|
 |**ppWindowNormal**|
 
-When the state of the window is  **ppWindowNormal**, the window is neither maximized nor minimized.
+When the state of the window is **ppWindowNormal**, the window is neither maximized nor minimized.
 
 
 ## Example

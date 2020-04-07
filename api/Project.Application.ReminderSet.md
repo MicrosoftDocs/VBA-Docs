@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Start_|Optional|**Boolean**|**True** if the reminder is set for the start time of the active tasks. **False** if the reminder is set for the finish time. The default value is **True**.|
-| _LeadTime_|Optional|**String**|The amount of lead time for Microsoft Outlook reminders. The default value is "15m", which triggers reminders 15 minutes before the start time (Start is  **True**) or after the finish time (Start is **False**).|
+| _LeadTime_|Optional|**String**|The amount of lead time for Microsoft Outlook reminders. The default value is "15m", which triggers reminders 15 minutes before the start time (Start is **True**) or after the finish time (Start is **False**).|
 
 ## Return value
 
@@ -40,6 +40,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **ReminderSet** method is available only in Project Professional.
+the **ReminderSet** method is available only in Project Professional.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

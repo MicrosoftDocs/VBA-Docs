@@ -30,9 +30,9 @@ _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Appearance_|Optional| **[XlPictureAppearance](Word.xlpictureappearance.md)**|One of the enumeration values that specifies how the picture should be copied. The default is  **xlScreen**.|
-| _Format_|Optional| **[XlCopyPictureFormat](Word.xlcopypictureformat.md)**|One of the enumeration values that specifies the format of the picture. The default is  **xlPicture**.|
-| _Size_|Optional| **xlPictureAppearance**|One of the enumeration values that specifies the size of the copied picture when the object is a chart on a chart sheet (not embedded on a worksheet). The default is  **xlPrinter**.|
+| _Appearance_|Optional| **[XlPictureAppearance](Word.xlpictureappearance.md)**|One of the enumeration values that specifies how the picture should be copied. The default is **xlScreen**.|
+| _Format_|Optional| **[XlCopyPictureFormat](Word.xlcopypictureformat.md)**|One of the enumeration values that specifies the format of the picture. The default is **xlPicture**.|
+| _Size_|Optional| **xlPictureAppearance**|One of the enumeration values that specifies the size of the copied picture when the object is a chart on a chart sheet (not embedded on a worksheet). The default is **xlPrinter**.|
 
 ## See also
 

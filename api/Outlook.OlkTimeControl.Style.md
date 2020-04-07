@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkTimeControl](Outlook.OlkTimeContr
 
 ## Remarks
 
-The default value is  **olTimeStyleTimeOnly**.
+The default value is **olTimeStyleTimeOnly**.
 
 
 ## See also

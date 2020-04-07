@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.CheckTaskErrors method (Project)
 
-Checks the task to ensure that required custom fields are filled and that the calendars have the enterprise calendars type. If the TaskID parameter is  **null**, all tasks are checked. .
+Checks the task to ensure that required custom fields are filled and that the calendars have the enterprise calendars type. If the TaskID parameter is **null**, all tasks are checked. .
 
 
 ## Syntax

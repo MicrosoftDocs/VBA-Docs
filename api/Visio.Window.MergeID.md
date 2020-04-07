@@ -31,7 +31,7 @@ String
 
 ## Remarks
 
-If this  **Window** object is not merged, the GUID will contain all zeros (GUID_NULL).
+If this **Window** object is not merged, the GUID will contain all zeros (GUID_NULL).
 
 The  **MergeID** property applies only to anchored windows. If the **Window** object is an MDI frame window, Microsoft Visio raises an exception.
 

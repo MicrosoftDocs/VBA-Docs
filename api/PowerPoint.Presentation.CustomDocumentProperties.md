@@ -31,7 +31,7 @@ DocumentProperties
 
 ## Remarks
 
-Use the  **[BuiltInDocumentProperties](PowerPoint.Presentation.BuiltInDocumentProperties.md)** property to return the collection of built-in document properties.
+Use the **[BuiltInDocumentProperties](PowerPoint.Presentation.BuiltInDocumentProperties.md)** property to return the collection of built-in document properties.
 
 For information about returning a single member of a collection, see [Returning an object from a collection](../powerpoint/How-to/return-objects-from-collections.md).
 
@@ -47,7 +47,7 @@ Application.ActivePresentation.CustomDocumentProperties _
     Type:=msoPropertyTypeBoolean, Value:=False
 ```
 
-This example displays the active presentation if the value of the "Complete" custom property is  **True**.
+This example displays the active presentation if the value of the "Complete" custom property is **True**.
 
 
 

@@ -31,7 +31,7 @@ The  **[CanOpen](Word.FileConverter.CanOpen.md)** property returns **True** if t
 
 ## Example
 
-This example determines whether the WordPerfect converter can be used to save files. If the return value is  **True**, the active document is saved in WordPerfect 6.x format.
+This example determines whether the WordPerfect converter can be used to save files. If the return value is **True**, the active document is saved in WordPerfect 6.x format.
 
 
 ```vb

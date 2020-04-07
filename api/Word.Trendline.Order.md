@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Trendline.Order property (Word)
 
-Returns or sets the trendline order (an integer greater than 1) when the trendline type is  **xlPolynomial**. Read/write **Long**.
+Returns or sets the trendline order (an integer greater than 1) when the trendline type is **xlPolynomial**. Read/write **Long**.
 
 
 ## Syntax

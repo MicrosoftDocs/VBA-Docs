@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md)
 
 ## Remarks
 
-The default value is  **olComboBoxStyleCombo**.
+The default value is **olComboBoxStyleCombo**.
 
 
 ## See also

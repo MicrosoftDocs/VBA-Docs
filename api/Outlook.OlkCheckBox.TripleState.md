@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkCheckBox](Outlook.OlkCheckBox.md)
 
 ## Remarks
 
-If this property is  **True**, the check box clicks through the three states. If this property is **False**, the check box supports only the **True** and **False** states. The default value is **False**.
+If this property is **True**, the check box clicks through the three states. If this property is **False**, the check box supports only the **True** and **False** states. The default value is **False**.
 
 
 ## See also
