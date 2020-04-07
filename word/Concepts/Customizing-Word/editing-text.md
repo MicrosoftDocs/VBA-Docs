@@ -20,7 +20,7 @@ For information about, and examples of, other editing tasks, see the following t
 
 ## Determining whether text is selected
 
-The **Type](../../../api/Word.Selection.Type.md)** property of the  **election](../../../api/Word.Selection.md)** object returns information about the type of selection. The following example displays a message if the selection is an insertion point.
+The **Type](../../../api/Word.Selection.Type.md)** property of the **Selection](../../../api/Word.Selection.md)** object returns information about the type of selection. The following example displays a message if the selection is an insertion point.
 
 
 ```vb
@@ -29,10 +29,9 @@ Sub IsTextSelected()
 End Sub
 ```
 
-
 ## Collapsing a selection or range
 
-Use the **ollapse**method to collapse a  **lection** object or a **[Range](../../../api/Word.Range.md)** object to its beginning or ending point. The following example collapses the selection to an insertion point at the beginning of the selection.
+Use the **Collapse**method to collapse a **Selection** object or a **[Range](../../../api/Word.Range.md)** object to its beginning or ending point. The following example collapses the selection to an insertion point at the beginning of the selection.
 
 
 ```vb
@@ -42,9 +41,6 @@ End Sub
 ```
 
 The following example cancels the range to its ending point (after the first word) and adds new text.
-
-
-
 
 ```vb
 Sub CollapseToEnd() 
@@ -58,10 +54,9 @@ Sub CollapseToEnd()
 End Sub
 ```
 
-
 ## Extending a selection or range
 
-The following example uses the **MoveEnd](../../../api/Word.Selection.MoveEnd.md)** method of the  **lection** object to extend the end of the selection to include three additional words. The **[MoveLeft](../../../api/Word.Selection.MoveLeft.md)**, * **veRight](../../../api/Word.Selection.MoveRight.md)**, ** **eUp](../../../api/Word.Selection.MoveUp.md)**, and **[ **Down](../../../api/Word.Selection.MoveDown.md)** methods can also be used to extend a **Se **ion** object.
+The following example uses the **MoveEnd](../../../api/Word.Selection.MoveEnd.md)** method of the **Selection** object to extend the end of the selection to include three additional words. The **[MoveLeft](../../../api/Word.Selection.MoveLeft.md)**, * **MoveRight](../../../api/Word.Selection.MoveRight.md)**, ** **MoveUp](../../../api/Word.Selection.MoveUp.md)**, and **[ **Down](../../../api/Word.Selection.MoveDown.md)** methods can also be used to extend a **Se **ion** object.
 
 
 ```vb
@@ -71,8 +66,6 @@ End Sub
 ```
 
 The following example uses the **MoveEnd](../../../api/Word.Range.MoveEnd.md)** method of the **[Range](../../../api/Word.Range.md)** object to extend the range to include the first three paragraphs in the active document.
-
-
 
 
 ```vb
@@ -87,7 +80,7 @@ End Sub
 
 ## Redefining a selection or range
 
-Use the **etRange**method to redefine an existing  **lection** object or **Range** object. For more information, see [Working with the Selection object](../Working-with-Word/working-with-the-selection-object.md) or [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
+Use the **GetRange**method to redefine an existing  **Selection** object or **Range** object. For more information, see [Working with the Selection object](../Working-with-Word/working-with-the-selection-object.md) or [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
 
 
 ## Changing text
@@ -101,10 +94,7 @@ Sub ChangeText()
 End Sub
 ```
 
-You can also use the **elete**method or the  **lection** object or the **Range** object to delete existing text, and then insert new text using the **InsertAfter**method or the * **ertBefore**method. The following example deletes the first paragraph in the active document and inserts new text.
-
-
-
+You can also use the **Delete**method or the **Selection** object or the **Range** object to delete existing text, and then insert new text using the **InsertAfter**method or the **InertBefore** method. The following example deletes the first paragraph in the active document and inserts new text.
 
 ```vb
 Sub DeleteText() 
@@ -118,8 +108,5 @@ Sub DeleteText()
  End With 
 End Sub
 ```
-
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
