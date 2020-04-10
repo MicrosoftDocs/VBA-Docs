@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) 
 
 ## Remarks
 
-The default value is  **False**.
+The default value is **False**.
 
 
 ## See also

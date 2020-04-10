@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Item_|Optional|**Long**|The timescale data field to show or remove. The default value is  **pjWork**.|
+| _Item_|Optional|**Long**|The timescale data field to show or remove. The default value is **pjWork**.|
 
 ## Return value
 
@@ -39,7 +39,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-If the active view is the  **Resource Usage** view, can be one of the following **PjTimescaledData** constants:
+If the active view is the **Resource Usage** view, can be one of the following **PjTimescaledData** constants:
 
 
 |||
@@ -58,7 +58,7 @@ If the active view is the  **Resource Usage** view, can be one of the following 
 |**pjBCWS**|**pjWorkAvailability**|
 |**pjCost**||
 
-If the active view is the  **Task Usage** view, can be one of the following **PjTimescaledData** constants:
+If the active view is the **Task Usage** view, can be one of the following **PjTimescaledData** constants:
 
 
 |||

@@ -26,7 +26,7 @@ _expression_. `Temporary`
 
 ## Remarks
 
-The default value is  **False**. This property corresponds to the **Remove content control when contents are edited** check box in the **Content Control Properties** dialog box.
+The default value is **False**. This property corresponds to the **Remove content control when contents are edited** check box in the **Content Control Properties** dialog box.
 
 
 > [!NOTE] 

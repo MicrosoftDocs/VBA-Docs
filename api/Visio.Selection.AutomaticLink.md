@@ -94,7 +94,7 @@ For example, say that your drawing contains a selection of shapes representing d
     
 - For the AutoLinkFieldTypes() parameter, enumeration value  **visAutoLinkShapeText** at array position 0.
     
-- For the FieldNames() parameter, an empty string (''") at array position 0, because, when AutoLinkFieldTypes() is  **visAutoLinkShapeText**, it is not necessary to specify the FieldNames() value.
+- For the FieldNames() parameter, an empty string (''") at array position 0, because, when AutoLinkFieldTypes() is **visAutoLinkShapeText**, it is not necessary to specify the FieldNames() value.
     
 
 ## Example

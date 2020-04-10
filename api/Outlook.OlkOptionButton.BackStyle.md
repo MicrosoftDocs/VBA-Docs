@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkOptionButton](Outlook.OlkOptionBu
 
 ## Remarks
 
-The default value is  **olBackStyleOpaque**.
+The default value is **olBackStyleOpaque**.
 
 
 ## See also

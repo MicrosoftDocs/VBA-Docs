@@ -28,7 +28,7 @@ _expression_ A variable that represents a 'TimeScaleValues' object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Value_|Required|**Variant**|The value of the timescaled data.|
-| _Position_|Optional|**Variant**|The position of the new value. The default value is  **n + 1**, where **n** is the number of items in the collection. If the value specified for Position is **n + 2** or greater, the intervening items are given a value of 0.|
+| _Position_|Optional|**Variant**|The position of the new value. The default value is **n + 1**, where **n** is the number of items in the collection. If the value specified for Position is **n + 2** or greater, the intervening items are given a value of 0.|
 
 ## Return value
 

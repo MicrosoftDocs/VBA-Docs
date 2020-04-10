@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **WdUnits**|The unit by which the start position of the specified range or selection is to be moved. If a value is omitted, the default value is  **wdWord**.|
+| _Unit_|Optional| **WdUnits**|The unit by which the start position of the specified range or selection is to be moved. If a value is omitted, the default value is **wdWord**.|
 | _Extend_|Optional| **WdMovement**|If you use  **wdMove**, both ends of the range or selection are moved to the beginning of the specified unit. If you use **wdExtend**, the beginning of the range or selection is extended to the beginning of the specified unit. The default value is **wdMove**.|
 
 ## Remarks

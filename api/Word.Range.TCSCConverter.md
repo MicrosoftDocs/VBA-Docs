@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _WdTCSCConverterDirection_|Optional| **WdTCSCConverterDirection**|Specifies the direction in which text is converted. If omitted, the default value is  **wdTCSCConverterDirectionAuto**, which converts in the appropriate direction based on the detected language of the specified range.|
+| _WdTCSCConverterDirection_|Optional| **WdTCSCConverterDirection**|Specifies the direction in which text is converted. If omitted, the default value is **wdTCSCConverterDirectionAuto**, which converts in the appropriate direction based on the detected language of the specified range.|
 | _UseVariants_|Optional| **Boolean**| **True** if Word uses Taiwan, Hong Kong SAR, and Macao SAR character variants. Can only be used if translating from Simplified Chinese to Traditional Chinese.|
 
 ## Example

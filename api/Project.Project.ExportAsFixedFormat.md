@@ -31,7 +31,7 @@ _expression_.**ExportAsFixedFormat** (_FileName_, _FileType_, _IncludeDocumentPr
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|Specifies the file name of the exported document. The default value is the name of the active project as a PDF file.|
-| _FileType_|Optional|**PjDocExportType**|Specifies whether to export the project as a PDF or an XPS document. The default value is  **pjPDF** (0).|
+| _FileType_|Optional|**PjDocExportType**|Specifies whether to export the project as a PDF or an XPS document. The default value is **pjPDF** (0).|
 | _IncludeDocumentProperties_|Optional|**Boolean**|If  **True**, the last page of the exported document includes some document properties. The default value is **True**.|
 | _IncludeDocumentMarkup_|Optional|**Boolean**|If  **True**, the last page of the exported document includes a legend of the symbols shown in the view. The default value is **True**.|
 | _ArchiveFormat_|Optional|**Boolean**|If  **True**, exports a PDF document in the ISO 19500-1 compliant (PDF/A) format. The default value is **False**.|

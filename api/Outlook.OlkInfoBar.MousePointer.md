@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkInfoBar](Outlook.OlkInfoBar.md) o
 
 ## Remarks
 
-The default value is  **olMousePointerDefault**.
+The default value is **olMousePointerDefault**.
 
 
 ## See also

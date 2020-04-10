@@ -31,7 +31,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 | _Background_|Optional| **Variant**|Set to  **True** to have the macro continue while Microsoft Word prints the document.|
 | _Append_|Optional| **Variant**|Set to  **True** to append the specified document to the file name specified by the OutputFileName argument. **False** to overwrite the contents of OutputFileName.|
 | _Range_|Optional| **Variant**|The page range. Can be any  **WdPrintOutRange** constant.|
-| _OutputFileName_|Optional| **Variant**|If PrintToFile is  **True**, this argument specifies the path and file name of the output file.|
+| _OutputFileName_|Optional| **Variant**|If PrintToFile is **True**, this argument specifies the path and file name of the output file.|
 | _From_|Optional| **Variant**|The starting page number when Range is set to  **wdPrintFromTo**.|
 | _To_|Optional| **Variant**|The ending page number when Range is set to  **wdPrintFromTo**.|
 | _Item_|Optional| **Variant**|The item to be printed. Can be any  **WdPrintOutItem** constant.|

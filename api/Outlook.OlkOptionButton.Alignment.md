@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkOptionButton](Outlook.OlkOptionBu
 
 ## Remarks
 
-The default value is  **olAlignmentLeft**.
+The default value is **olAlignmentLeft**.
 
 
 ## See also

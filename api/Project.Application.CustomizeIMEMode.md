@@ -30,8 +30,8 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _FieldID_|Optional|**Long**|The field to customize. The default value is  **pjTaskName**. Can be one of the **[PjField](Project.PjField.md)** constants|
-| _IMEMode_|Optional|**Long**|Specifies the IME mode to use when the focus is on a table column. The default value is  **pjIMEModeNoControl**. Can be one of the **[PjIMEMode](Project.PjIMEMode.md)** constants.|
+| _FieldID_|Optional|**Long**|The field to customize. The default value is **pjTaskName**. Can be one of the **[PjField](Project.PjField.md)** constants|
+| _IMEMode_|Optional|**Long**|Specifies the IME mode to use when the focus is on a table column. The default value is **pjIMEModeNoControl**. Can be one of the **[PjIMEMode](Project.PjIMEMode.md)** constants.|
 
 ## Return value
 
@@ -40,8 +40,8 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **CustomizeIMEMode** method produces tangible results only if an East Asian version of Project is used.
+the **CustomizeIMEMode** method produces tangible results only if an East Asian version of Project is used.
 
-Using the  **CustomizeIMEMode** method without specifying any arguments displays the **Customize IME Mode** dialog box.
+Using the **CustomizeIMEMode** method without specifying any arguments displays the **Customize IME Mode** dialog box.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -30,7 +30,7 @@ _expression_. `SelectUnlinkedControls`( `_Stream_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Stream_|Optional| **CustomXMLPart**|A custom XML part reference. Setting this parameter filters the returned content controls to include only content controls that reference this  **CustomXMLPart** in their **XMLMapping** definition.|
+| _Stream_|Optional| **CustomXMLPart**|A custom XML part reference. Setting this parameter filters the returned content controls to include only content controls that reference this **CustomXMLPart** in their **XMLMapping** definition.|
 
 ## Return value
 

@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateContr
 
 ## Remarks
 
-The default value is  **False**.
+The default value is **False**.
 
 When the control is locked, the control does not have a "disabled" appearance, but the user cannot edit the contents of the control. 
 

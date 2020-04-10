@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkListBox](Outlook.OlkListBox.md) o
 
 ## Remarks
 
-The default value is  **olBorderStyleSingle**.
+The default value is **olBorderStyleSingle**.
 
 
 ## See also

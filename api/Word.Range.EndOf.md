@@ -31,7 +31,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Unit_|Optional| **Variant**|The unit by which to move the ending character position. Can be any  **WdUnits**, except **wdLine**. The default value is **wdWord**.|
-| _Extend_|Required| ** WdMovementType**|Specifies whether to move or extend the end of the range. If the value is  **wdMove**, both ends of the range or selection object are moved to the end of the specified unit. If **wdExtend** is used, the end of the range or selection is extended to the end of the specified unit. The default value is **wdMove**.|
+| _Extend_|Required| ** WdMovementType**|Specifies whether to move or extend the end of the range. If the value is **wdMove**, both ends of the range or selection object are moved to the end of the specified unit. If **wdExtend** is used, the end of the range or selection is extended to the end of the specified unit. The default value is **wdMove**.|
 
 ## Remarks
 

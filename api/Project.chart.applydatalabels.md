@@ -21,7 +21,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional|**Office.XlDataLabelsType**|The type of data label to apply. The default value is  **xlDataLabelsShowValue**.|
+| _Type_|Optional|**Office.XlDataLabelsType**|The type of data label to apply. The default value is **xlDataLabelsShowValue**.|
 | _IMsoLegendKey_|Optional|**Variant**|**True** to show the legend key next to the point. The default value is **False**.|
 | _AutoText_|Optional|**Variant**|**True** if the object automatically generates appropriate text based on content.|
 | _HasLeaderLines_|Optional|**Variant**|**True** if the series has leader lines.|

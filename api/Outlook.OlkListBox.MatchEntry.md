@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkListBox](Outlook.OlkListBox.md) o
 
 ## Remarks
 
-The default value is  **olMatchEntryComplete**.
+The default value is **olMatchEntryComplete**.
 
 
 ## See also

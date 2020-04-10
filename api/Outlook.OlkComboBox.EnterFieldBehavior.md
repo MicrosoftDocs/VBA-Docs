@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md)
 
 ## Remarks
 
-The default value is  **olEnterFieldBehaviorSelectAll**.
+The default value is **olEnterFieldBehaviorSelectAll**.
 
 
 ## See also

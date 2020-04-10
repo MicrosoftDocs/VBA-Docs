@@ -31,7 +31,7 @@ MsoTriState
 
 ## Remarks
 
-When the value of this property is  **msoTrue**, the drop value (the vertical distance from the edge of the callout text box to the place where the callout line attaches) is measured from the top of the text box when the text box is to the right of the origin, and it is measured from the bottom of the text box when the text box is to the left of the origin. When the value of this property is **msoFalse**, the drop value is always measured from the top of the text box, regardless of the relative positions of the text box and the origin. Use the **[CustomDrop](PowerPoint.CalloutFormat.CustomDrop.md)** method to set the drop value, and use the **[Drop](PowerPoint.CalloutFormat.Drop.md)** property to return the drop value.
+When the value of this property is **msoTrue**, the drop value (the vertical distance from the edge of the callout text box to the place where the callout line attaches) is measured from the top of the text box when the text box is to the right of the origin, and it is measured from the bottom of the text box when the text box is to the left of the origin. When the value of this property is **msoFalse**, the drop value is always measured from the top of the text box, regardless of the relative positions of the text box and the origin. Use the **[CustomDrop](PowerPoint.CalloutFormat.CustomDrop.md)** method to set the drop value, and use the **[Drop](PowerPoint.CalloutFormat.Drop.md)** property to return the drop value.
 
 Setting this property affects a callout only if it has an explicitly set drop value; that is, if the value of the  **[DropType](PowerPoint.CalloutFormat.DropType.md)** property is **msoCalloutDropCustom**. By default, callouts have explicitly set drop values when they're created.
 

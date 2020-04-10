@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[Point](Word.Point.md)' object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _loc_|Required| **[XlPieSliceLocation](Word.xlpieslicelocation.md)**|Specifies a horizontal or vertical coordinate.|
-| _Index_|Optional| **[XlPieSliceIndex](Word.xlpiesliceindex.md)**|Specifies which pie slice position coordinate to return. The default value is  **xlOuterCenterPoint**.|
+| _Index_|Optional| **[XlPieSliceIndex](Word.xlpiesliceindex.md)**|Specifies which pie slice position coordinate to return. The default value is **xlOuterCenterPoint**.|
 
 ## Return value
 

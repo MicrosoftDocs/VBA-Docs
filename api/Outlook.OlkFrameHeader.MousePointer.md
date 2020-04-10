@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkFrameHeader](Outlook.OlkFrameHead
 
 ## Remarks
 
-The default value is  **olMousePointerDefault**.
+The default value is **olMousePointerDefault**.
 
 
 ## See also

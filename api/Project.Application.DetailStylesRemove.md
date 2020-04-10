@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Item_|Optional|**Long**|The timescale data field to remove. The default value is  **pjWork**.If the active view is the Resource Usage view, can be one of the **[PjTimescaledData](Project.PjTimescaledData.md)** constants. If the active view is the Task Usage view, can be one of the **[PjTimescaledData](Project.PjTimescaledData.md)** constants.|
+| _Item_|Optional|**Long**|The timescale data field to remove. The default value is **pjWork**.If the active view is the Resource Usage view, can be one of the **[PjTimescaledData](Project.PjTimescaledData.md)** constants. If the active view is the Task Usage view, can be one of the **[PjTimescaledData](Project.PjTimescaledData.md)** constants.|
 
 ## Return value
 

@@ -31,7 +31,7 @@ _expression_ An expression that returns an **[ApplicationSettings](Visio.Applica
 
 ## Remarks
 
-The default is  **False**, which means that Microsoft Visio does not apply the transparency color to the page on export.
+The default is **False**, which means that Microsoft Visio does not apply the transparency color to the page on export.
 
 For any given session of Microsoft Visio, when the  **RasterExportUseTransparencyColor** property value is set, either programmatically or in the user interface, the setting then becomes the new default for the remainder of the session. However, it is not persisted to the next session.
 

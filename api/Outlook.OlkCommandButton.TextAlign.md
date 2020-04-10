@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkCommandButton](Outlook.OlkCommand
 
 ## Remarks
 
-The default value is  **olTextAlignLeft** in left-to-right languages such as English.
+The default value is **olTextAlignLeft** in left-to-right languages such as English.
 
 For the Command Button control, when  **TextAlign** is set to **olTextAlignLeft**, the left margin is only one pixel from the border of the control.
 
