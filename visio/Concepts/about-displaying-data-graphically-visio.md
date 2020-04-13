@@ -30,15 +30,15 @@ Each of these aspects has new objects and members associated with it in the Visi
     
 To display linked data programmatically, you can use the Visio API for data display, which includes the following objects and their associated members:
 
--  **[GraphicItems](../../api/Visio.GraphicItems.md)** collection
+- **[GraphicItems](../../api/Visio.GraphicItems.md)** collection
     
--  **[GraphicItem](../../api/Visio.GraphicItem.md)** object
+- **[GraphicItem](../../api/Visio.GraphicItem.md)** object
     
 After you  [link shapes in your Visio drawing to rows in a data recordset](about-linking-shapes-to-data.md), you can graphically display the linked data programmatically. For example, say that your drawing contains several data-linked shapes, each of which represents a project at a particular stage of completion. You may associate a progress bar with a particular item of shape data, such as the percentage of project completion. You could then apply the progress bar to a selection of project shapes and show each project's progress toward completion visually.
 
 ## Overview of Data Graphics and Graphic Items
 
-To make it easier to display data graphically, Visio introduces the concept of data graphics and a type of  **[Master](../../api/Visio.Master.md)** object called a _data graphic master_, which is represented in the **[VisMasterTypes](../../api/Visio.vismastertypes.md)** enumeration by the value **visTypeDataGraphic**. To add a  **Master** object of type **visTypeDataGraphic** to the **Masters** collection, you must use the **[Masters.AddEx](../../api/Visio.Masters.AddEx.md)** method.
+To make it easier to display data graphically, Visio introduces the concept of data graphics and a type of **[Master](../../api/Visio.Master.md)** object called a _data graphic master_, which is represented in the **[VisMasterTypes](../../api/Visio.vismastertypes.md)** enumeration by the value **visTypeDataGraphic**. To add a **Master** object of type **visTypeDataGraphic** to the **Masters** collection, you must use the **[Masters.AddEx](../../api/Visio.Masters.AddEx.md)** method.
 
 Visio includes several types of masters, including shape masters. When you create an instance of a shape master, it becomes a shape. Visio also includes fill pattern, line pattern, and line-end masters, for which you cannot create instances. You apply these masters to shapes to impart the master pattern to the shape. Data graphic masters are more like pattern masters, because you do not create instances of them. Instead, you apply them to shapes as you do line pattern and fill pattern masters.
 
@@ -47,13 +47,13 @@ Data graphic masters correspond to the data graphics that appear in the **Data G
 Visio provides graphic items of the following types: 
 
 
--  **Text** Displays data as text in a callout, at a specified position relative to the shape.
+- **Text** Displays data as text in a callout, at a specified position relative to the shape.
     
--  **Color by Value** Changes the color of the shape based on a comparison between shape data and a particular value or range of values.
+- **Color by Value** Changes the color of the shape based on a comparison between shape data and a particular value or range of values.
     
--  **Data Bar** Uses bar charts and graphs to display data, at a specified position relative to the shape.
+- **Data Bar** Uses bar charts and graphs to display data, at a specified position relative to the shape.
     
--  **Icon Set** Displays one of a set of icons that represents a data value or condition, at a specified position relative to the shape.
+- **Icon Set** Displays one of a set of icons that represents a data value or condition, at a specified position relative to the shape.
     
 Visio provides a variety of standard data graphics that are already populated with graphic items. If you want to apply a data graphic to your shapes that has a different combination of graphic items, you can create a custom data graphic. We recommend that you use the Visio UI to create a data graphic and add graphic items to it.
 
@@ -63,7 +63,7 @@ Visio provides a variety of standard data graphics that are already populated wi
 
 1. On the **Data** tab, click **Data Graphics**.
     
-2. Click  **Create New Data Graphic**, and then in the **New Data Graphic** dialog box, click **New Item**.
+2. Click **Create New Data Graphic**, and then in the **New Data Graphic** dialog box, click **New Item**.
     
 3. In the dialog box that opens, customize the item, and then use the same method to add custom items.
     
@@ -77,9 +77,9 @@ After you create a data graphic that contains a custom combination of graphic it
 Besides the **Master** objects of type **visTypeDataGraphic** described in the previous section, Visio provides the following objects and their associated members in the data graphics API:
 
 
--  **[GraphicItems](../../api/Visio.GraphicItems.md)** collection
+- **[GraphicItems](../../api/Visio.GraphicItems.md)** collection
     
--  **[GraphicItem](../../api/Visio.GraphicItem.md)** object
+- **[GraphicItem](../../api/Visio.GraphicItem.md)** object
     
 In addition to these specifically data-graphic-related objects and their members, several members of other, more conventional Visio objects constitute part of the data graphics API. For example, the **[Shape.DataGraphic](../../api/Visio.Shape.DataGraphic.md)** and **[Selection.DataGraphic](../../api/Visio.Selection.DataGraphic.md)** properties allow you to apply data graphics to shapes and selections respectively. The read-only **[Shape.IsDataGraphicCallout](../../api/Visio.Shape.IsDataGraphicCallout.md)** property indicates whether a specific shape is functioning as a data graphic item in your drawing.
 
@@ -107,7 +107,7 @@ The **DataGraphicHidden** property determines whether a data graphic master appe
 
 The **DataGraphicsHidesText** property determines whether applying a data graphic master hides the text of the shape to which it is applied (the primary shape in the case of a group shape.) The default value of this property also is **False**.
 
-The **[GraphicItem.UseDataGraphicPosition](../../api/Visio.GraphicItem.UseDataGraphicPosition.md)** property determines whether to use the current default callout position for graphic items of the data graphic master to whose **GraphicItems** collection a graphic item belongs. The default callout position for graphic items in the **GraphicItems** collection of a **Master** object of type **visTypeDataGraphic** is specified by the settings of the **[Master.DataGraphicVerticalPosition](../../api/Visio.Master.DataGraphicVerticalPosition.md)** and **[Master.DataGraphicHorizontalPosition](../../api/Visio.Master.DataGraphicHorizontalPosition.md)** properties. If **UseDataGraphicPosition** is **True**, the graphic item is positioned according to the default setting. If  **UseDataGraphicPosition** is **False**, its position is determined by the settings of the **[Graphic Item.VerticalPosition](../../api/Visio.GraphicItem.VerticalPosition.md)** and **[GraphicItem.HorizontalPosition](../../api/Visio.GraphicItem.HorizontalPosition.md)** properties.
+The **[GraphicItem.UseDataGraphicPosition](../../api/Visio.GraphicItem.UseDataGraphicPosition.md)** property determines whether to use the current default callout position for graphic items of the data graphic master to whose **GraphicItems** collection a graphic item belongs. The default callout position for graphic items in the **GraphicItems** collection of a **Master** object of type **visTypeDataGraphic** is specified by the settings of the **[Master.DataGraphicVerticalPosition](../../api/Visio.Master.DataGraphicVerticalPosition.md)** and **[Master.DataGraphicHorizontalPosition](../../api/Visio.Master.DataGraphicHorizontalPosition.md)** properties. If **UseDataGraphicPosition** is **True**, the graphic item is positioned according to the default setting. If **UseDataGraphicPosition** is **False**, its position is determined by the settings of the **[Graphic Item.VerticalPosition](../../api/Visio.GraphicItem.VerticalPosition.md)** and **[GraphicItem.HorizontalPosition](../../api/Visio.GraphicItem.HorizontalPosition.md)** properties.
 
 In addition, if the **HorizontalPosition** and **VerticalPosition** property values of a graphic item are equal to the **DataGraphicHorizontalPosition** and **DataGraphicVerticalPosition** property values, the value of the **UseDataGraphicPosition** property for that graphic item is automatically set to **True**.
 

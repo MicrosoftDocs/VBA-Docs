@@ -34,7 +34,7 @@ _expression_ A variable that represents an [Accounts](Outlook.Accounts.md) objec
 
 ## Return value
 
-An  **Account** object that matches the account specified by _Index_.
+An **Account** object that matches the account specified by _Index_.
 
 
 ## See also

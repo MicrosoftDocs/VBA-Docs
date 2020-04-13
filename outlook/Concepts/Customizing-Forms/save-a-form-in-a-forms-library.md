@@ -17,7 +17,7 @@ localization_priority: Normal
 
 1. In an open form, on the **Developer** tab, in the **Form** group, click **Publish**, and then click **Publish Form As**. 
     
-    **Note** If you do not see the **Developer** tab in the open form, see the topic [Run in Developer Mode in Outlook](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/run-in-developer-mode-in-outlook.md).
+   **Note** If you do not see the **Developer** tab in the open form, see the topic [Run in Developer Mode in Outlook](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/run-in-developer-mode-in-outlook.md).
 2. In the **Display Name** box, type the display name for the form.
     
 3. In the **Form** box, type the name for the form.

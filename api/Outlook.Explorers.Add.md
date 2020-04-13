@@ -35,7 +35,7 @@ _expression_ A variable that represents an [Explorers](Outlook.Explorers.md) obj
 
 ## Return value
 
-An  **[Explorer](Outlook.Explorer.md)** object that represents a new instance of the window.
+An **[Explorer](Outlook.Explorer.md)** object that represents a new instance of the window.
 
 
 ## Remarks

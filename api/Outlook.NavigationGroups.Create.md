@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationGroups.Create method (Outlook)
 
-Creates and returns a new  **[NavigationGroup](Outlook.NavigationGroup.md)** object, added to the end of the **[NavigationGroups](Outlook.NavigationGroups.md)** collection.
+Creates and returns a new **[NavigationGroup](Outlook.NavigationGroup.md)** object, added to the end of the **[NavigationGroups](Outlook.NavigationGroups.md)** collection.
 
 
 ## Syntax

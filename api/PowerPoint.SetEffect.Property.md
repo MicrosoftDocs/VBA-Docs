@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SetEffect.Property property (PowerPoint)
 
-Sets or returns an  **[MsoAnimProperty](PowerPoint.MsoAnimProperty.md)** constant that represents an animation property. Read/write.
+Sets or returns an **[MsoAnimProperty](PowerPoint.MsoAnimProperty.md)** constant that represents an animation property. Read/write.
 
 
 ## Syntax

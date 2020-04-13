@@ -34,7 +34,7 @@ _expression_ A variable that represents a '[Selection](Outlook.Selection.md)' ob
 
 ## Return value
 
-An  **Object** that represents the specified item or conversation header.
+An **Object** that represents the specified item or conversation header.
 
 
 ## Remarks

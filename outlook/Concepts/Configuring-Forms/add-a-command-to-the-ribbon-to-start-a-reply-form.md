@@ -18,6 +18,6 @@ Use this procedure to customize a Microsoft Outlook form page. To customize a fo
     
 3. Select the **Show action on** check box.Outlook uses the text in the **Action name** box as the command name or the button name on the form.After you complete the procedure, the new command is available for **Custom Actions** on the ribbon.
     
-    **Note** The **Menu and Toolbar** and **Menu only** options apply only to forms displayed in versions of Outlook earlier than Microsoft Office Outlook 2007.
+   **Note** The **Menu and Toolbar** and **Menu only** options apply only to forms displayed in versions of Outlook earlier than Microsoft Office Outlook 2007.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

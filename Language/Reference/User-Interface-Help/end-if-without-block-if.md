@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # End If without block If
 
-An  **End If** statement must have a corresponding **If** statement. This error has the following cause and solution:
+An **End If** statement must have a corresponding **If** statement. This error has the following cause and solution:
 
 
 

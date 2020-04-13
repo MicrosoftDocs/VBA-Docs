@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Refer to Sheets by Name
 
-You can identify sheets by name using the **[Worksheets](../../../api/Excel.Workbook.Worksheets.md)** and  **[Charts](../../../api/Excel.Workbook.Charts.md)** properties. The following statements activate various sheets in the active workbook.
+You can identify sheets by name using the **[Worksheets](../../../api/Excel.Workbook.Worksheets.md)** and **[Charts](../../../api/Excel.Workbook.Charts.md)** properties. The following statements activate various sheets in the active workbook.
 
 
 ```vb

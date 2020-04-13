@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.Display method (Outlook)
 
-Displays a new  **[Inspector](Outlook.Inspector.md)** object for the **[SharingItem](Outlook.SharingItem.md)**.
+Displays a new **[Inspector](Outlook.Inspector.md)** object for the **[SharingItem](Outlook.SharingItem.md)**.
 
 
 ## Syntax

@@ -16,7 +16,7 @@ The following example accesses an individual tab of a **[TabStrip](../../../api/
 
 - Using the **[Tabs](../../../api/Outlook.tabs.md)** collection with a numeric index.
 
-- Using the name of the individual  **[Tab](../../../api/Outlook.tab.md)**.
+- Using the name of the individual **[Tab](../../../api/Outlook.tab.md)**.
 
 - Using the **[SelectedItem](../../../api/Outlook.tabstrip.selecteditem.md)** property.
 

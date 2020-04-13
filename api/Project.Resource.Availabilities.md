@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Resource.Availabilities property (Project)
 
-Returns an  **[Availabilities](Project.availabilities.md)** collection representing all the available periods defined for the resource in the **Resource Availability** grid. Read-only **Availabilities**.
+Returns an **[Availabilities](Project.availabilities.md)** collection representing all the available periods defined for the resource in the **Resource Availability** grid. Read-only **Availabilities**.
 
 
 ## Syntax

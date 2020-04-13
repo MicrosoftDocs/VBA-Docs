@@ -30,7 +30,7 @@ _expression_ A variable that represents a [ViewFields](Outlook.ViewFields.md) ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|The value can be a one-based integer that indexes an  **ViewField** object in the **[ViewFields](Outlook.ViewFields.md)** collection, a string that matches the **[ViewXMLSchemaName](Outlook.ViewField.ViewXMLSchemaName.md)** property value of an **ViewField** object in the collection, or a field name as displayed in the **Field Chooser**.|
+| _Index_|Required| **Variant**|The value can be a one-based integer that indexes an **ViewField** object in the **[ViewFields](Outlook.ViewFields.md)** collection, a string that matches the **[ViewXMLSchemaName](Outlook.ViewField.ViewXMLSchemaName.md)** property value of an **ViewField** object in the collection, or a field name as displayed in the **Field Chooser**.|
 
 ## Return value
 

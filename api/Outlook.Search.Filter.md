@@ -54,7 +54,7 @@ sFilter = "[CompanyName] = " & Chr(34) & "Microsoft" & Chr(34)
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates a new  **[Search](Outlook.Search.md)** object. The event subroutine fires after the search has finished and displays the **[Tag](Outlook.Search.Tag.md)** and **Filter** properties of the **Search** object in addition to the results of the search.
+The following Microsoft Visual Basic for Applications (VBA) example creates a new **[Search](Outlook.Search.md)** object. The event subroutine fires after the search has finished and displays the **[Tag](Outlook.Search.Tag.md)** and **Filter** properties of the **Search** object in addition to the results of the search.
 
 
 ```vb

@@ -18,6 +18,6 @@ The control in the [control array](../../Glossary/vbe-glossary.md#control-array)
 
 - You tried to add a control to a control array at [run time](../../Glossary/vbe-glossary.md#run-time) with the **Load** statement but the index value you referred to already exists.
     
-    Change the index reference to a new value or check whether your code is executing the same  **Load** statement with the same index value reference more than once.
+    Change the index reference to a new value or check whether your code is executing the same **Load** statement with the same index value reference more than once.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -60,7 +60,7 @@ There are four kinds of views that you can create in yourAccess 2013 app: List D
 
 List Details is one of the views Access automatically generates when you create a table. The main feature that distinguishes a list view is the list pane that appears on the left side of the view. The list pane is used to filter and navigate the records contained in the view.
 
-The list pane can display up to three items from each record by setting its  **Primary**, **Secondary**, and **Thumbnail** properties. The following figure shows that the list pane in the Employees List view is configured to display the **FullName** and **Job Title** fields.
+The list pane can display up to three items from each record by setting its **Primary**, **Secondary**, and **Thumbnail** properties. The following figure shows that the list pane in the Employees List view is configured to display the **FullName** and **Job Title** fields.
 
 ![List Details view](../../../images/odc_Access15_WhatsNewInAccessforDevelopers_Figure06.jpg)
 
@@ -103,7 +103,7 @@ The Related Items control displays a set of records from tables related to the v
 
 ![Related Items control](../../../images/odc_Access15_WhatsNewInAccessforDevelopers_Figure11.jpg)
 
-To edit the items in a Related Items tab, you must assign a view to its  **Popup view** property. The specified view will open in a popup window when you choose an item.
+To edit the items in a Related Items tab, you must assign a view to its **Popup view** property. The specified view will open in a popup window when you choose an item.
 
 
 ## Programmability in Access apps
@@ -144,7 +144,7 @@ The following table lists the events supported by each control.
 |Text Box|After Update, On Click|
 |View|On Current, On Load|
 
-Reuse standalone UI macros by calling them from other macros, helping you avoid duplicate code. Standalone UI macros are visible in the Navigation Pane, under  **Macros**. However, you can't run them directly from the Navigation Pane. Use the **RunMacro** action to run a standalone UI macro from an embedded UI macro.
+Reuse standalone UI macros by calling them from other macros, helping you avoid duplicate code. Standalone UI macros are visible in the Navigation Pane, under **Macros**. However, you can't run them directly from the Navigation Pane. Use the **RunMacro** action to run a standalone UI macro from an embedded UI macro.
 
 ### Data macros
 

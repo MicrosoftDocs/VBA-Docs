@@ -12,11 +12,11 @@ localization_priority: Normal
 
 # Private Enum and user-defined types cannot be used as parameters or return types for public procedures, public data members, or fields of public user-defined types
 
-A  **Public** procedure is visible to all[modules](../../Glossary/vbe-glossary.md#module) in a [project](../../Glossary/vbe-glossary.md#project), while a  **Private** **Enum** type is not visible outside its own module. This error has the following cause and solution:
+A **Public** procedure is visible to all[modules](../../Glossary/vbe-glossary.md#module) in a [project](../../Glossary/vbe-glossary.md#project), while a **Private** **Enum** type is not visible outside its own module. This error has the following cause and solution:
 
 
 
-- Your  **Public** procedure is in a **Public** class, but it returns a value or has a [parameter](../../Glossary/vbe-glossary.md#parameter) that is defined in a [standard module](../../Glossary/vbe-glossary.md#standard-module) or in a **Private** class.
+- Your **Public** procedure is in a **Public** class, but it returns a value or has a [parameter](../../Glossary/vbe-glossary.md#parameter) that is defined in a [standard module](../../Glossary/vbe-glossary.md#standard-module) or in a **Private** class.
     
     Declare the **Enum** **Public**. It must be in a [class module](../../Glossary/vbe-glossary.md#class-module).
     

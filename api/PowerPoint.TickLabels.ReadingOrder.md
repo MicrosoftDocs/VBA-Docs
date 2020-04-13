@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TickLabels.ReadingOrder property (PowerPoint)
 
-Returns or sets an  **[XlReadingOrder](PowerPoint.XlReadingOrder.md)** constant that represents the reading order for the specified object. Read/write **Long**.
+Returns or sets an **[XlReadingOrder](PowerPoint.XlReadingOrder.md)** constant that represents the reading order for the specified object. Read/write **Long**.
 
 
 ## Syntax

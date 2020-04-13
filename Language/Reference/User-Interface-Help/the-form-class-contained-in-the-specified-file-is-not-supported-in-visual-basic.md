@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # The form class contained in the specified file is not supported in Visual Basic for Applications; the file can't be loaded.
 
-Visual Basic for Applications only supports  **[UserForm](userform-window.md)** form objects. This error has the following cause and solution:
+Visual Basic for Applications only supports **[UserForm](userform-window.md)** form objects. This error has the following cause and solution:
 
 
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CalendarView.Copy method (Outlook)
 
-Creates a new  **[View](Outlook.View.md)** object based on the existing **[CalendarView](Outlook.CalendarView.md)** object.
+Creates a new **[View](Outlook.View.md)** object based on the existing **[CalendarView](Outlook.CalendarView.md)** object.
 
 
 ## Syntax

@@ -16,7 +16,7 @@ localization_priority: Normal
 
 
 
-- You jumped into the middle of a  **For...Next** loop. Remove the jump into the loop. Placing labels inside a **For...Next** loop isn't recommended.
+- You jumped into the middle of a **For...Next** loop. Remove the jump into the loop. Placing labels inside a **For...Next** loop isn't recommended.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

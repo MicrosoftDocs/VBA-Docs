@@ -12,15 +12,15 @@ localization_priority: Normal
 
 # Invalid outside procedure
 
-The statement must occur within a  **Sub** or **Function**, or a property procedure (**Property Get**, **Property Let**, **Property Set**). This error has the following cause and solution:
+The statement must occur within a **Sub** or **Function**, or a property procedure (**Property Get**, **Property Let**, **Property Set**). This error has the following cause and solution:
 
 
 
-- An executable statement,  **Static** or **ReDim**, appears at [module level](../../Glossary/vbe-glossary.md#module-level).
+- An executable statement, **Static** or **ReDim**, appears at [module level](../../Glossary/vbe-glossary.md#module-level).
     
-     **Static** is unnecessary at module level, since all module-level[variables](../../Glossary/vbe-glossary.md#variable) are static. Use **Dim** instead of **ReDim** at module level. To create a dynamic[array](../../Glossary/vbe-glossary.md#array) at module level, declare it with **Dim** using empty parentheses.
+    **Static** is unnecessary at module level, since all module-level[variables](../../Glossary/vbe-glossary.md#variable) are static. Use **Dim** instead of **ReDim** at module level. To create a dynamic[array](../../Glossary/vbe-glossary.md#array) at module level, declare it with **Dim** using empty parentheses.
     
-     **Note**  At module level, you can use only [comments](../../Glossary/vbe-glossary.md#comment) and declarative statements, such as **Const**, **Declare**, **Def**_type_, **Dim**, **Option Base**, **Option Compare**, **Option Explicit**, **Option Private**, **Private**, **Public**, and **Type**. The **Sub**, **Function**, and **Property** statements occur outside the body of their[procedures](../../Glossary/vbe-glossary.md#procedure), but within the procedure declaration.
+    **Note**  At module level, you can use only [comments](../../Glossary/vbe-glossary.md#comment) and declarative statements, such as **Const**, **Declare**, **Def**_type_, **Dim**, **Option Base**, **Option Compare**, **Option Explicit**, **Option Private**, **Private**, **Public**, and **Type**. The **Sub**, **Function**, and **Property** statements occur outside the body of their[procedures](../../Glossary/vbe-glossary.md#procedure), but within the procedure declaration.
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

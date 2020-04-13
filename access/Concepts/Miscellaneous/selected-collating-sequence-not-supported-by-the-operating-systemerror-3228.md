@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-There is an invalid  **CollatingSequence** setting in the **Paradox** key of the Microsoft Windows Registry.
+There is an invalid **CollatingSequence** setting in the **Paradox** key of the Microsoft Windows Registry.
 
  To fix the CollatingSequence setting
 
@@ -27,7 +27,7 @@ There is an invalid  **CollatingSequence** setting in the **Paradox** key of the
     
 3. On the **Edit** menu, click **Modify**.
     
-4. Specify either  **ascii** or **International** in the **Value data** box.
+4. Specify either **ascii** or **International** in the **Value data** box.
     
 5. Restart your application, and then try the operation again.
     

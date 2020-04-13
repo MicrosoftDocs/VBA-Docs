@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BusinessCardView.Copy method (Outlook)
 
-Creates a new  **[View](Outlook.View.md)** object based on the existing **[BusinessCardView](Outlook.BusinessCardView.md)** object.
+Creates a new **[View](Outlook.View.md)** object based on the existing **[BusinessCardView](Outlook.BusinessCardView.md)** object.
 
 
 ## Syntax

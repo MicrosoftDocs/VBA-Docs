@@ -71,9 +71,9 @@ You can specify fractional units of measure in the DrawingScale cell to affect t
 
 
 
-- Eighths for  **visInchFrac** and **visMileFrac**
+- Eighths for **visInchFrac** and **visMileFrac**
     
-- Twelfths for  **visFeetAndInches**
+- Twelfths for **visFeetAndInches**
     
 
 

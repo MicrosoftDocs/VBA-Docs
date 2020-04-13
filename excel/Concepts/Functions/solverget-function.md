@@ -15,10 +15,10 @@ localization_priority: Normal
 Returns information about current settings for Solver. The settings are specified in the **Solver Parameters** and **Solver Options** dialog boxes.
 
 
- **Note**  The Solver add-in is not enabled by default. Before you can use this function, you must have the Solver add-in enabled and installed. For information about how to do that, see  [Using the Solver VBA Functions](using-the-solver-vba-functions.md). After the Solver add-in is installed, you must establish a reference to the Solver add-in. In the Visual Basic Editor, with a module active, click  **References** on the **Tools** menu, and then select **Solver** under **Available References**. If  **Solver** does not appear under **Available References**, click  **Browse**, and then open Solver.xlam in the \Program Files\Microsoft Office\Office14\Library\SOLVER subfolder.
+ **Note**  The Solver add-in is not enabled by default. Before you can use this function, you must have the Solver add-in enabled and installed. For information about how to do that, see  [Using the Solver VBA Functions](using-the-solver-vba-functions.md). After the Solver add-in is installed, you must establish a reference to the Solver add-in. In the Visual Basic Editor, with a module active, click **References** on the **Tools** menu, and then select **Solver** under **Available References**. If **Solver** does not appear under **Available References**, click **Browse**, and then open Solver.xlam in the \Program Files\Microsoft Office\Office14\Library\SOLVER subfolder.
 
 
- **SolverGet**(**_TypeNum_**,  **_SheetName_**)
+ **SolverGet**(**_TypeNum_**, **_SheetName_**)
 
  **TypeNum** Required **Integer**. A number specifying the type of information you want. The following settings are specified in the **Solver Parameters** dialog box.
 
@@ -61,7 +61,7 @@ The following settings are specified in the **Solver Options** dialog box.
 |28|The **Ignore Integer Constraints** option (All Methods tab).|
 |29|The **Maximum Time without Improvement** option (Evolutionary tab).|
 
- **SheetName** Optional **Variant**. The name of the sheet that contains the Solver model for which you want information. If  **_SheetName_** is omitted, this sheet is assumed to be the active sheet.
+ **SheetName** Optional **Variant**. The name of the sheet that contains the Solver model for which you want information. If **_SheetName_** is omitted, this sheet is assumed to be the active sheet.
 
 ## Example
 

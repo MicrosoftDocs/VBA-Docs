@@ -31,7 +31,7 @@ You can use the  **StrConv** function in Microsoft Visual Basic for Applications
 
 ## Example
 
-The following code samples in Microsoft Visual Basic for Applications (VBA) and C# displays the Rich Text Format body of the appointment in the active inspector. An  **AppointmentItem** must be the active inspector for this code to work.
+The following code samples in Microsoft Visual Basic for Applications (VBA) and C# displays the Rich Text Format body of the appointment in the active inspector. An **AppointmentItem** must be the active inspector for this code to work.
 
 
 ```vb

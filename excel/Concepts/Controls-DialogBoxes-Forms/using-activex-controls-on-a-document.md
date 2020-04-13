@@ -21,7 +21,7 @@ Just as you can add ActiveX controls to  [custom dialog boxes](create-a-custom-d
     
 2.  [Set control properties](setting-control-properties.md)
     
-    Right-click a control in design mode and click  **Properties** to display the Properties window.
+    Right-click a control in design mode and click **Properties** to display the Properties window.
     
 3.  [Initialize the controls](initializing-control-properties.md)
     

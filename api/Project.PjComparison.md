@@ -21,9 +21,9 @@ Contains constants that specify the type of comparsion.
 |**pjCompareContains**|7|The custom field's value contains  **Value**.|
 |**pjCompareContainsExactly**|10|The custom field's value contains exactly  **Value**.|
 |**pjCompareEquals**|5|The custom field's value is equal to  **Value**.|
-|**pjCompareGreaterThan**|1|The custom field's value is greater than  **Value**.|
+|**pjCompareGreaterThan**|1|The custom field's value is greater than **Value**.|
 |**pjCompareGreaterThanOrEqual**|3|The custom field's value is greater than or equal to  **Value**.|
-|**pjCompareLessThan**|2|The custom field's value is less than  **Value**.|
+|**pjCompareLessThan**|2|The custom field's value is less than **Value**.|
 |**pjCompareLessThanOrEqual**|4|The custom field's value is less than or equal to  **Value**.|
 |**pjCompareNotContains**|9|The custom field's value does not contain  **Value**.|
 |**pjCompareNotEqual**|6|The custom field's value is not equal to  **Value**.|

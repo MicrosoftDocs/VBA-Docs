@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Sequence.AddEffect method (PowerPoint)
 
-Returns an  **[Effect](PowerPoint.Effect.md)** object that represents a new animation effect added to a sequence of animation effects.
+Returns an **[Effect](PowerPoint.Effect.md)** object that represents a new animation effect added to a sequence of animation effects.
 
 
 ## Syntax

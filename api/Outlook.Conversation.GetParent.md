@@ -34,7 +34,7 @@ _expression_ A variable that represents a '[Conversation](Outlook.Conversation.m
 
 ## Return value
 
-An  **Object** that represents the parent conversation item of the node specified by the _Item_ parameter.
+An **Object** that represents the parent conversation item of the node specified by the _Item_ parameter.
 
 
 ## Remarks

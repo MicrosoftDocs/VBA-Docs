@@ -26,7 +26,7 @@ You can set this property by using the Indexes window of table Design view or Vi
 
 To access the **Ignore Nulls** property of an index by using Visual Basic, use the DAO **IgnoreNulls** property.
 
-You can define an index for a field to facilitate faster searches for records indexed on that field. If you allow  **Null** entries in the indexed field and expect to have many of them, set the **Ignore Nulls** property for the index to Yes to reduce the amount of storage space that the index uses.
+You can define an index for a field to facilitate faster searches for records indexed on that field. If you allow **Null** entries in the indexed field and expect to have many of them, set the **Ignore Nulls** property for the index to Yes to reduce the amount of storage space that the index uses.
 
 ## See also
 

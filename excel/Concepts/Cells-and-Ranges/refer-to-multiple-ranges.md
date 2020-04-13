@@ -41,7 +41,7 @@ End Sub
 
 ## Using the Union Method
 
-You can combine multiple ranges into one  **Range** object by using the **Union** method. The following example creates a **Range** object called `myMultipleRange`, defines it as the ranges A1:B2 and C3:D4, and then formats the combined ranges as bold.
+You can combine multiple ranges into one **Range** object by using the **Union** method. The following example creates a **Range** object called `myMultipleRange`, defines it as the ranges A1:B2 and C3:D4, and then formats the combined ranges as bold.
 
 
 ```vb

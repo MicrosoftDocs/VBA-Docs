@@ -20,7 +20,7 @@ Indicates the Outlook item type.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **olAppointmentItem**|1|An  **[AppointmentItem](Outlook.AppointmentItem.md)** object.|
+| **olAppointmentItem**|1|An **[AppointmentItem](Outlook.AppointmentItem.md)** object.|
 | **olContactItem**|2|A **[ContactItem](Outlook.ContactItem.md)** object.|
 | **olDistributionListItem**|7|A **[DistListItem](Outlook.DistListItem.md)** object.|
 | **olJournalItem**|4|A **[JournalItem](Outlook.JournalItem.md)** object.|

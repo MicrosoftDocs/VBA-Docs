@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # UserDefinedProperties.Add method (Outlook)
 
-Creates a new  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** object and appends it to the collection.
+Creates a new **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** object and appends it to the collection.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[ExchangeUser](Outlook.ExchangeUser
 
 ## Return value
 
-An  **IPictureDisp** object that represents the picture of the Exchange user that is displayed in Outlook.
+An **IPictureDisp** object that represents the picture of the Exchange user that is displayed in Outlook.
 
 
 ## Remarks

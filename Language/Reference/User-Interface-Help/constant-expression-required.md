@@ -22,7 +22,7 @@ A [constant](../../Glossary/vbe-glossary.md#constant) must be initialized. This 
     
 - [array](../../Glossary/vbe-glossary.md#array)
     
-    To declare a dynamic array within a [procedure](../../Glossary/vbe-glossary.md#procedure), declare the array with  **ReDim** and specify the number of elements with a variable.
+    To declare a dynamic array within a [procedure](../../Glossary/vbe-glossary.md#procedure), declare the array with **ReDim** and specify the number of elements with a variable.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Adjustments property (PowerPoint)
 
-Returns an  **[Adjustments](PowerPoint.Adjustments.md)** object that contains adjustment values for all the adjustments in the specified shape. Applies to any **Shape** object that represents an AutoShape, WordArt, or a connector. Read-only.
+Returns an **[Adjustments](PowerPoint.Adjustments.md)** object that contains adjustment values for all the adjustments in the specified shape. Applies to any **Shape** object that represents an AutoShape, WordArt, or a connector. Read-only.
 
 
 ## Syntax

@@ -33,7 +33,7 @@ Setting the  **HTMLBody** property will always update the **[Body](Outlook.MailI
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example creates a new  **[MailItem](Outlook.MailItem.md)** object and sets the **[BodyFormat](Outlook.MailItem.BodyFormat.md)** property to **olFormatHTML**. The body text of the email item will now appear in HTML format.
+The following Visual Basic for Applications (VBA) example creates a new **[MailItem](Outlook.MailItem.md)** object and sets the **[BodyFormat](Outlook.MailItem.BodyFormat.md)** property to **olFormatHTML**. The body text of the email item will now appear in HTML format.
 
 
 ```vb

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # TextFrame2.Application property (PowerPoint)
 
-Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified **TextFrame2** object. Read-only.
+Returns an **[Application](PowerPoint.Application.md)** object that represents the creator of the specified **TextFrame2** object. Read-only.
 
 
 ## Syntax

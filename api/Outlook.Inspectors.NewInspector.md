@@ -36,7 +36,7 @@ _expression_ A variable that represents an [Inspectors](Outlook.Inspectors.md) o
 
 This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
-The event occurs after the new  **Inspector** object is created but before the inspector window appears.
+The event occurs after the new **Inspector** object is created but before the inspector window appears.
 
 
 ## See also

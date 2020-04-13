@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RotationEffect object (PowerPoint)
 
-Represents a rotation effect for an  **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** object.
+Represents a rotation effect for an **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** object.
 
 
 ## Example

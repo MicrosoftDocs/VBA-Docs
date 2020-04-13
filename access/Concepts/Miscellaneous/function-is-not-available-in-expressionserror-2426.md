@@ -13,7 +13,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You have entered a function that cannot be used in this expression. The functions  **DoEvents**, **LBound**, **UBound**, **Spc**, and **Tab** are not available in expressions.
+You have entered a function that cannot be used in this expression. The functions **DoEvents**, **LBound**, **UBound**, **Spc**, and **Tab** are not available in expressions.
 
 ## See also
 

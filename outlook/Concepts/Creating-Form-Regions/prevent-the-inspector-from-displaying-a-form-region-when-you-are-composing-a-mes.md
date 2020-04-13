@@ -13,7 +13,7 @@ When you create a form region in a custom form, by default, the form region will
 
 ## To prevent the inspector from displaying a form region while in compose mode
 
-- In the form region manifest XML file, specify  **False** as the value of the **showInspectorCompose** element.
+- In the form region manifest XML file, specify **False** as the value of the **showInspectorCompose** element.
 
 The following example disables the inspector from displaying a form region when in compose mode:
 
@@ -22,6 +22,6 @@ The following example disables the inspector from displaying a form region when 
 ```
 
 > [!NOTE]
-> You can assign  **showInspectorCompose** either a string value or an integer value. The default value is **True** or **1**. To prevent the inspector from displaying the form region in compose mode, assign either  **False** or **0**.
+> You can assign **showInspectorCompose** either a string value or an integer value. The default value is **True** or **1**. To prevent the inspector from displaying the form region in compose mode, assign either **False** or **0**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

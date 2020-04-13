@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The Microsoft Access database engine was unable to open an external Paradox table because of inconsistencies between the version of the table and your  **ParadoxNetStyle** setting in the Microsoft Windows Registry.
+The Microsoft Access database engine was unable to open an external Paradox table because of inconsistencies between the version of the table and your **ParadoxNetStyle** setting in the Microsoft Windows Registry.
 
 To correct the problem
 
@@ -27,7 +27,7 @@ To correct the problem
     
 3. On the **Edit** menu, click **Modify**.
     
-4. Specify the value  **4.x** in the **Value data** box.
+4. Specify the value **4.x** in the **Value data** box.
     
 5. The **ParadoxNetStyle** setting must be consistent for all users sharing a database.
     

@@ -12,16 +12,16 @@ localization_priority: Normal
 
 # SolverSolve Function
 
-Begins a Solver solution run. Equivalent to clicking  **Solve** in the **Solver Parameters** dialog box.
+Begins a Solver solution run. Equivalent to clicking **Solve** in the **Solver Parameters** dialog box.
 
 
- **Note**  The Solver add-in is not enabled by default. Before you can use this function, you must have the Solver add-in enabled and installed. For information about how to do that, see  [Using the Solver VBA Functions](using-the-solver-vba-functions.md). After the Solver add-in is installed, you must establish a reference to the Solver add-in. In the Visual Basic Editor, with a module active, click  **References** on the **Tools** menu, and then select **Solver** under **Available References**. If  **Solver** does not appear under **Available References**, click  **Browse**, and then open Solver.xlam in the \Program Files\Microsoft Office\Office14\Library\SOLVER subfolder.
+ **Note**  The Solver add-in is not enabled by default. Before you can use this function, you must have the Solver add-in enabled and installed. For information about how to do that, see  [Using the Solver VBA Functions](using-the-solver-vba-functions.md). After the Solver add-in is installed, you must establish a reference to the Solver add-in. In the Visual Basic Editor, with a module active, click **References** on the **Tools** menu, and then select **Solver** under **Available References**. If **Solver** does not appear under **Available References**, click **Browse**, and then open Solver.xlam in the \Program Files\Microsoft Office\Office14\Library\SOLVER subfolder.
 
 
- **SolverSolve( _UserFinish_**,  **_ShowRef_)**
+ **SolverSolve( _UserFinish_**, **_ShowRef_)**
 
- **UserFinish** Optional **Variant**.  **True** to return the results without displaying the **Solver Results** dialog box. **False** or omitted to return the results and display the **Solver Results** dialog box.
- **ShowRef** Optional **Variant**. You can pass the name of a macro (as a string) as the **_ShowRef_** argument. This macro is then called, in lieu of displaying the **Show Trial Solution** dialog box, whenever Solver pauses for any of the reasons listed below.The **_ShowRef_** macro must have the signature **Function  _name_ (Reason As Integer)**. The argument  **Reason** is an integer value from 1 to 5:
+ **UserFinish** Optional **Variant**. **True** to return the results without displaying the **Solver Results** dialog box. **False** or omitted to return the results and display the **Solver Results** dialog box.
+ **ShowRef** Optional **Variant**. You can pass the name of a macro (as a string) as the **_ShowRef_** argument. This macro is then called, in lieu of displaying the **Show Trial Solution** dialog box, whenever Solver pauses for any of the reasons listed below.The **_ShowRef_** macro must have the signature **Function  _name_ (Reason As Integer)**. The argument **Reason** is an integer value from 1 to 5:
 
 1. Function called (on every iteration) because the **Show Iteration Results** box in the **Solver Options** dialog box was checked, or function called because the user pressed ESC to interrupt the Solver.
     
@@ -37,7 +37,7 @@ The macro function must return 1 if Solver should stop (same as the **Stop** but
 
 ## SolverSolve Return Value
 
-If a Solver problem has not been completely defined,  **SolverSolve** returns the #N/A error value. Otherwise the Solver runs, and **SolverSolve** returns an integer value corresponding to the message that appears in the **Solver Results** dialog box:
+If a Solver problem has not been completely defined, **SolverSolve** returns the #N/A error value. Otherwise the Solver runs, and **SolverSolve** returns an integer value corresponding to the message that appears in the **Solver Results** dialog box:
 
 
 |Return Value|Message|

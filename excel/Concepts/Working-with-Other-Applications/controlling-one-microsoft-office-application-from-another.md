@@ -24,7 +24,7 @@ If you want to run code in one Microsoft Office application that works with the 
       Dim appWD As Word.Application, wbXL As Excel.Workbook
     ```
     
-     **Note**  You must follow the preceding steps if you want your code to be early bound.
+    **Note**  You must follow the preceding steps if you want your code to be early bound.
      
 3. Use the **CreateObject** function with the [OLE Programmatic Identifiers](../../../api/overview/Excel.md) of the object you want to work with in the other application, as shown in the following example. To see the session of the other application, set the **Visible** property to **True**.
         
@@ -83,8 +83,8 @@ End Sub
 ```
 
 **Sample code provided by:** Dennis Wallentin, [VSTO & .NET & Excel](https://xldennis.wordpress.com/)
-This example takes the cells values from a named range,  **W_Data**, that contains three values and inserts those values into a Word document. The values are inserted at bookmarked locations named  **td1**,  **td2**, and  **td3**.
-For this example to run, you must have a range named  **W_Data** that contains three values on **Sheet1** in the workbook. You must have a Word document named **Test.docx** saved in the same location as the Excel workbook, and the Word document must have three bookmarks named **td1**,  **td2**, and  **td3**.
+This example takes the cells values from a named range, **W_Data**, that contains three values and inserts those values into a Word document. The values are inserted at bookmarked locations named **td1**, **td2**, and **td3**.
+For this example to run, you must have a range named **W_Data** that contains three values on **Sheet1** in the workbook. You must have a Word document named **Test.docx** saved in the same location as the Excel workbook, and the Word document must have three bookmarks named **td1**, **td2**, and **td3**.
 
 ```vb
 ' You must pick Microsoft Word Object Library from Tools>References

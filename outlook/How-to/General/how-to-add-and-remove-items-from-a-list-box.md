@@ -18,9 +18,9 @@ The following example adds and deletes the contents of a **[ListBox](../../../ap
 
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **ListBox** named ListBox1.
+- A **ListBox** named ListBox1.
 
-- Two  **[CommandButton](../../../api/Outlook.commandbutton.md)** controls named CommandButton1 and CommandButton2.
+- Two **[CommandButton](../../../api/Outlook.commandbutton.md)** controls named CommandButton1 and CommandButton2.
 
 ```vb
 Dim EntryCount 

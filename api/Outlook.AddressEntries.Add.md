@@ -36,7 +36,7 @@ _expression_.**Add** (_Type_, _Name_, _Address_)
 
 ## Return value
 
-An  **[AddressEntry](Outlook.AddressEntry.md)** object that represents the new entry.
+An **[AddressEntry](Outlook.AddressEntry.md)** object that represents the new entry.
 
 
 ## Remarks

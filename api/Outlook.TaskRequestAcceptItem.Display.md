@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskRequestAcceptItem.Display method (Outlook)
 
-Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
+Displays a new **[Inspector](Outlook.Inspector.md)** object for the item.
 
 
 ## Syntax

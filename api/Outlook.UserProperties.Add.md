@@ -53,7 +53,7 @@ You cannot add custom properties to Office document items such as Word, Excel, o
 
 ## Example
 
-This VBA example creates a new  **[ContactItem](Outlook.ContactItem.md)** object and adds "LastDateSpokenWith" as a custom property.
+This VBA example creates a new **[ContactItem](Outlook.ContactItem.md)** object and adds "LastDateSpokenWith" as a custom property.
 
 
 ```vb
@@ -68,7 +68,7 @@ Sub AddUserProperty()
 End Sub
 ```
 
-This VBA example creates a new  **ContactItem** object and adds "Details" as a user property. The value is set by changing the **[Value](Outlook.UserProperty.Value.md)** property of the **UserProperty** object.
+This VBA example creates a new **ContactItem** object and adds "Details" as a user property. The value is set by changing the **[Value](Outlook.UserProperty.Value.md)** property of the **UserProperty** object.
 
 
 

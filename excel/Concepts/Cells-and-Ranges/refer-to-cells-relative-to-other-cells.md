@@ -22,7 +22,7 @@ End Sub
 ```
 
 
- **Note**  You can record macros that use the **Offset** property to specify relative references instead of absolute references. To do that, on the **Developer** tab, click **Use Relative References**, and then click  **Record Macro**.
+ **Note**  You can record macros that use the **Offset** property to specify relative references instead of absolute references. To do that, on the **Developer** tab, click **Use Relative References**, and then click **Record Macro**.
 
 To loop through a range of cells, use a variable with the **Cells** property in a loop. The following example fills the first 20 cells in the third column with values between 5 and 100, incremented by 5. The variable `counter` is used as the row index for the **Cells** property.
 

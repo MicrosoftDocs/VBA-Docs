@@ -16,7 +16,7 @@ A [standard module](../../Glossary/vbe-glossary.md#standard-module) doesn't repr
 
 
 
-- You used the name of a standard module in a  **Dim** or **Set** declaration. Check the spelling of the module name and make sure it corresponds to a [form](../../Glossary/vbe-glossary.md#form), [MDI form](../../Glossary/vbe-glossary.md#mdi-form), or [class module](../../Glossary/vbe-glossary.md#class-module).
+- You used the name of a standard module in a **Dim** or **Set** declaration. Check the spelling of the module name and make sure it corresponds to a [form](../../Glossary/vbe-glossary.md#form), [MDI form](../../Glossary/vbe-glossary.md#mdi-form), or [class module](../../Glossary/vbe-glossary.md#class-module).
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

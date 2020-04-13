@@ -34,7 +34,7 @@ _expression_ A variable that represents an '[Account](Outlook.Account.md)' objec
 
 ## Return value
 
-An  **AddressEntry** that has the **[ID](Outlook.AddressEntry.ID.md)** property that matches the specified _ID_.
+An **AddressEntry** that has the **[ID](Outlook.AddressEntry.ID.md)** property that matches the specified _ID_.
 
 
 ## Remarks

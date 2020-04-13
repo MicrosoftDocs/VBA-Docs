@@ -20,7 +20,7 @@ Not all [methods](../../Glossary/vbe-glossary.md#method) can be performed by all
     
     Explicitly qualify the method call with an object that can accept the method. For example, you can specify a form or picture box with the **Line** method.
     
-     **Note**  Other methods that need an explicit object qualifier when used in a standard module include  **Circle**, **Print**, and **PSet**.
+    **Note**  Other methods that need an explicit object qualifier when used in a standard module include **Circle**, **Print**, and **PSet**.
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

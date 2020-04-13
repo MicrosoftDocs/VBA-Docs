@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableView.Copy method (Outlook)
 
-Creates a new  **[View](Outlook.View.md)** object based on the existing **[TableView](Outlook.TableView.md)** object.
+Creates a new **[View](Outlook.View.md)** object based on the existing **[TableView](Outlook.TableView.md)** object.
 
 
 ## Syntax

@@ -20,7 +20,7 @@ localization_priority: Normal
     
     Move the **Def**_type_ statement to precede all variable declarations.
     
-- A  **Def**_type_ statement appears in a [procedure](../../Glossary/vbe-glossary.md#procedure).
+- A **Def**_type_ statement appears in a [procedure](../../Glossary/vbe-glossary.md#procedure).
     
     Move the **Def**_type_ statement to module level, preceding all variable declarations.
     

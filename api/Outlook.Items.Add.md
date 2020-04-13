@@ -34,7 +34,7 @@ _expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 ## Return value
 
-An  **Object** value that represents the new Outlook item.
+An **Object** value that represents the new Outlook item.
 
 
 ## Remarks

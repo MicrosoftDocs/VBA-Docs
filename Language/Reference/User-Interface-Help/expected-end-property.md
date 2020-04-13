@@ -12,11 +12,11 @@ localization_priority: Normal
 
 # Expected End Property
 
-An  **End**_procedure_ statement must match the [procedure](../../Glossary/vbe-glossary.md#procedure) in which it occurs. This error has the following cause and solution:
+An **End**_procedure_ statement must match the [procedure](../../Glossary/vbe-glossary.md#procedure) in which it occurs. This error has the following cause and solution:
 
 
 
-- You used  **End Function** or **End** **Sub** to end a **Property** procedure. Use **End** **Property** for this type of procedure.
+- You used **End Function** or **End** **Sub** to end a **Property** procedure. Use **End** **Property** for this type of procedure.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

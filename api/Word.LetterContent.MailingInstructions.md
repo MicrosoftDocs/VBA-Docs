@@ -35,7 +35,7 @@ myLetterContent.MailingInstructions = "Air Mail"
 ActiveDocument.SetLetterContent LetterContent:=myLetterContent
 ```
 
-This example creates a new  **LetterContent** object, sets several properties (including the mailing instruction text), and then runs the Letter Wizard by using the **[RunLetterWizard](Word.Document.RunLetterWizard.md)** method.
+This example creates a new **LetterContent** object, sets several properties (including the mailing instruction text), and then runs the Letter Wizard by using the **[RunLetterWizard](Word.Document.RunLetterWizard.md)** method.
 
 
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Masters.AddEx method (Visio)
 
-Adds a new  **Master** object of the specified type to the **Masters** collection of a Microsoft Visio document.
+Adds a new **Master** object of the specified type to the **Masters** collection of a Microsoft Visio document.
 
 
 ## Syntax

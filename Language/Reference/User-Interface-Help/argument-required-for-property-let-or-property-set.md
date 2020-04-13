@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Argument required for Property Let or Property Set
 
-The purpose of  **Property Let** and **Property Set** procedures is to give a new value to a [property](../../Glossary/vbe-glossary.md#property). This error has the following causes and solutions:
+The purpose of **Property Let** and **Property Set** procedures is to give a new value to a [property](../../Glossary/vbe-glossary.md#property). This error has the following causes and solutions:
 
 
 

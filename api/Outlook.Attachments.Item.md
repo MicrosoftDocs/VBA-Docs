@@ -34,7 +34,7 @@ _expression_ A variable that represents an [Attachments](Outlook.Attachments.md)
 
 ## Return value
 
-An  **Attachment** object that represents the specified object.
+An **Attachment** object that represents the specified object.
 
 
 ## See also

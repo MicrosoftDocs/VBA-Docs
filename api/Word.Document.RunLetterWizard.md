@@ -40,7 +40,7 @@ Use the **CreateLetterContent** method to return a **LetterContent** object, giv
 
 ## Example
 
-This example creates a new  **LetterContent** object, sets several properties for it, and then runs the Letter Wizard by using the **RunLetterWizard** method.
+This example creates a new **LetterContent** object, sets several properties for it, and then runs the Letter Wizard by using the **RunLetterWizard** method.
 
 
 ```vb

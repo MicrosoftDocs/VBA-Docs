@@ -32,7 +32,7 @@ The **Wait For Post Processing** property uses the following settings.
 
 ## Remarks
 
-This property is designed to work with Access 2010 web databases only. When this property is set to  **Yes**, if a user changes data in a form that then triggers a data macro, the form will wait for the macro to finish before proceeding.
+This property is designed to work with Access 2010 web databases only. When this property is set to **Yes**, if a user changes data in a form that then triggers a data macro, the form will wait for the macro to finish before proceeding.
 
 ## See also
 

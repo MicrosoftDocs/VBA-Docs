@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Sequence.FindFirstAnimationForClick method (PowerPoint)
 
-Returns an  **[Effect](PowerPoint.Effect.md)** object that represents the first animation started by the specified click number.
+Returns an **[Effect](PowerPoint.Effect.md)** object that represents the first animation started by the specified click number.
 
 
 ## Syntax

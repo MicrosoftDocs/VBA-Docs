@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DistListItem.Display method (Outlook)
 
-Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
+Displays a new **[Inspector](Outlook.Inspector.md)** object for the item.
 
 
 ## Syntax

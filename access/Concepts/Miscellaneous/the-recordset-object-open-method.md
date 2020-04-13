@@ -18,7 +18,7 @@ localization_priority: Normal
 [Retrieving Multiple Recordsets](#sectionSection4)
 
 
-Everything you need to open an ADO  **Recordset** is built into the **Open** method. You can use it without explicitly creating any other objects. The syntax of this method is as follows:
+Everything you need to open an ADO **Recordset** is built into the **Open** method. You can use it without explicitly creating any other objects. The syntax of this method is as follows:
 
 `recordset .OpenSource, ActiveConnection, CursorType, LockType, Options`
 
@@ -39,7 +39,7 @@ The  _Options_ argument is a **Long** value that indicates either or both of the
     
 - That the **Recordset** should be restored from a file where it was previously saved.
     
-This argument can contain a bitmask of  **CommandTypeEnum** or **ExecuteOptionEnum** values. A **CommandTypeEnum** passed in the _Options_ argument sets the **CommandType** property of the **Recordset**.
+This argument can contain a bitmask of **CommandTypeEnum** or **ExecuteOptionEnum** values. A **CommandTypeEnum** passed in the _Options_ argument sets the **CommandType** property of the **Recordset**.
 
 > [!NOTE]
 > The **ExecuteOpenEnum** values of **adExecuteNoRecords** and **adExecuteStream** cannot be used with **Open**.
@@ -51,7 +51,7 @@ For more information about using these enumerated constants for  _Options_ and w
 ## ActiveConnection Argument
 <a name="sectionSection1"> </a>
 
-You can pass in either a  **Connection** object or a connection string as the _ActiveConnection_ argument.
+You can pass in either a **Connection** object or a connection string as the _ActiveConnection_ argument.
 
 `recordset .Open Source, ActiveConnection, CursorType, LockType, Options`
 
@@ -64,7 +64,7 @@ If you pass a **Command** object in the _Source_ argument and also pass an _Acti
 
 `recordset .Open Source, ActiveConnection, CursorType, LockType, Options`
 
-As discussed in The Significance of Cursor Location, the type of cursor that your application uses will determine which capabilities are available to the resultant  **Recordset** (if any). For a detailed examination of cursor types, see Chapter 8: Understanding Cursors and Locks.
+As discussed in The Significance of Cursor Location, the type of cursor that your application uses will determine which capabilities are available to the resultant **Recordset** (if any). For a detailed examination of cursor types, see Chapter 8: Understanding Cursors and Locks.
 
 The  _CursorType_ argument can accept any of the **CursorTypeEnum** values.
 

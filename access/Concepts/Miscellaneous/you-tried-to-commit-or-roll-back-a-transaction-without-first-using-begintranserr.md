@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You tried to commit or rollback a transaction that was not started with a  **BeginTrans** statement.
+You tried to commit or rollback a transaction that was not started with a **BeginTrans** statement.
 
 ## See also
 

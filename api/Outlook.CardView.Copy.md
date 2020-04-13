@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CardView.Copy method (Outlook)
 
-Creates a new  **[View](Outlook.View.md)** object based on the existing **[CardView](Outlook.CardView.md)** object.
+Creates a new **[View](Outlook.View.md)** object based on the existing **[CardView](Outlook.CardView.md)** object.
 
 
 ## Syntax

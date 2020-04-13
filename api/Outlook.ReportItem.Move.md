@@ -34,7 +34,7 @@ _expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) ob
 
 ## Return value
 
-An  **Object** value that represents the item which has been moved to the designated folder.
+An **Object** value that represents the item which has been moved to the designated folder.
 
 
 ## See also

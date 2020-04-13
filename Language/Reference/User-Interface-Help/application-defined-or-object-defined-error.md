@@ -33,7 +33,7 @@ Next index
 ```
 
 
-Such code still lists all the Visual Basic for Applications error messages, but displays "Application-defined or object-defined error" for host-defined errors, for example those in Visual Basic that relate to forms, controls, and so on. Many of these are trappable [run-time errors](../../Glossary/vbe-glossary.md#run-time-error). You can use the Help  **Search** dialog box to find the list of trappable errors specific to your host application. Click **Search**, type **Trappable** in the first text box, and then click **Show Topics**. Select **Trappable Errors** in the lower list box and click **Go To**.
+Such code still lists all the Visual Basic for Applications error messages, but displays "Application-defined or object-defined error" for host-defined errors, for example those in Visual Basic that relate to forms, controls, and so on. Many of these are trappable [run-time errors](../../Glossary/vbe-glossary.md#run-time-error). You can use the Help **Search** dialog box to find the list of trappable errors specific to your host application. Click **Search**, type **Trappable** in the first text box, and then click **Show Topics**. Select **Trappable Errors** in the lower list box and click **Go To**.
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

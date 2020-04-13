@@ -20,7 +20,7 @@ localization_priority: Normal
     
 - You have a very large loop structure that occupies more than 32K of memory from beginning to end. Make the loop smaller.
     
-- You have a very large block  **If** structure that contains a **Then** or **Else** clause that occupies more than 32K of memory from beginning to end. Reduce the size of the offending portion of the structure.
+- You have a very large block **If** structure that contains a **Then** or **Else** clause that occupies more than 32K of memory from beginning to end. Reduce the size of the offending portion of the structure.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

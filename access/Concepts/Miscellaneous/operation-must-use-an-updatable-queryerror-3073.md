@@ -23,7 +23,7 @@ Possible causes:
 
 - You attempted to run a query that tried to update a field that cannot be updated. For example, you may have created the query in such a way that you tried to update a field on the one side of a one-to-many relationship.
     
-- You tried to use the obsolete  **OpenQueryDef** method on a query that is in a database opened for read-only access.
+- You tried to use the obsolete **OpenQueryDef** method on a query that is in a database opened for read-only access.
     
 
 The database is read-only for one of the following reasons:

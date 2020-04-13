@@ -13,7 +13,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-There is an invalid  **Deleted** setting in the **Xbase** key of the Microsoft Windows Registry.
+There is an invalid **Deleted** setting in the **Xbase** key of the Microsoft Windows Registry.
 
  To fix the Deleted setting
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.CreateSharingItem method (Outlook)
 
-Creates a new  **[SharingItem](Outlook.SharingItem.md)** object.
+Creates a new **[SharingItem](Outlook.SharingItem.md)** object.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ _expression_. `CreateSharingItem`( `_Context_` , `_Provider_` )
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Context_|Required| **Variant**|Either a **String** value or a **[Folder](Outlook.Folder.md)** object representing the sharing context to be used.|
-| _Provider_|Optional| **Variant**|An  **[OlSharingProvider](Outlook.OlSharingProvider.md)** value representing the sharing provider to be used.|
+| _Provider_|Optional| **Variant**|An **[OlSharingProvider](Outlook.OlSharingProvider.md)** value representing the sharing provider to be used.|
 
 ## Return value
 

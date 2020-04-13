@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # PjCopyPictureScaleOption enumeration (Project)
 
-Contains constants that specify how to treat a picture of the active view if it is larger than  **MaxImageWidth** by **MaxImageHeight**.
+Contains constants that specify how to treat a picture of the active view if it is larger than **MaxImageWidth** by **MaxImageHeight**.
 
 
 

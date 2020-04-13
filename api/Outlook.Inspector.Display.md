@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Inspector.Display method (Outlook)
 
-Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
+Displays a new **[Inspector](Outlook.Inspector.md)** object for the item.
 
 
 ## Syntax

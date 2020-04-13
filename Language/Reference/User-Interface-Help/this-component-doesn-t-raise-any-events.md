@@ -18,9 +18,9 @@ An event [procedure](../../Glossary/vbe-glossary.md#procedure) must correspond t
 
 - You wrote an event procedure for an object that doesn't raise events. You can't write an event procedure that doesn't correspond to an event.
     
-- You tried to use  **WithEvents** on a [class](../../Glossary/vbe-glossary.md#class) that doesn't raise events.
+- You tried to use **WithEvents** on a [class](../../Glossary/vbe-glossary.md#class) that doesn't raise events.
     
-    You can't use  **WithEvents** on a class that doesn't raise events.
+    You can't use **WithEvents** on a class that doesn't raise events.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

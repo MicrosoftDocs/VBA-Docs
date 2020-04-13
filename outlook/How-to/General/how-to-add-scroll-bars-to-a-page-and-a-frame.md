@@ -16,11 +16,11 @@ The following example uses the **ScrollBars** and the **KeepScrollBarsVisible** 
 
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **MultiPage** named MultiPage1.
+- A **MultiPage** named MultiPage1.
 
-- A  **Frame** named Frame1.
+- A **Frame** named Frame1.
 
-- Four  **[OptionButton](../../../api/Outlook.optionbutton.md)** controls named OptionButton1 through OptionButton4.
+- Four **[OptionButton](../../../api/Outlook.optionbutton.md)** controls named OptionButton1 through OptionButton4.
 
 ```vb
 Sub Item_Open() 

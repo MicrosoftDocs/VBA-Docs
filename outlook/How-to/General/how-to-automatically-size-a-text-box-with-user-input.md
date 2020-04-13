@@ -16,9 +16,9 @@ The following example demonstrates the effects of the **[AutoSize](../../../api/
 
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- Two  **TextBox** controls named TextBox1 and TextBox2.
+- Two **TextBox** controls named TextBox1 and TextBox2.
 
-- A  **[ToggleButton](../../../api/Outlook.togglebutton.md)** named ToggleButton1.
+- A **[ToggleButton](../../../api/Outlook.togglebutton.md)** named ToggleButton1.
 
 ```vb
 Dim ToggleButton1 

@@ -80,12 +80,12 @@ End Sub
 
 ## Redefining a selection or range
 
-Use the **GetRange**method to redefine an existing  **Selection** object or **Range** object. For more information, see [Working with the Selection object](../Working-with-Word/working-with-the-selection-object.md) or [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
+Use the **GetRange**method to redefine an existing **Selection** object or **Range** object. For more information, see [Working with the Selection object](../Working-with-Word/working-with-the-selection-object.md) or [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
 
 
 ## Changing text
 
-You can change existing text by changing the contents of a range. The following instruction changes the first word in the active document by setting the **Text](../../../api/Word.Range.Text.md)** property of a  **nge** object to "The ".
+You can change existing text by changing the contents of a range. The following instruction changes the first word in the active document by setting the **Text](../../../api/Word.Range.Text.md)** property of a **nge** object to "The ".
 
 
 ```vb

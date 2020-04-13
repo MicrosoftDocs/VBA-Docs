@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Error saving to file (Error 31036)
 
-Visual Basic can't write the object to the specified file (set  **Action** = 11 or 18). Possible causes:
+Visual Basic can't write the object to the specified file (set **Action** = 11 or 18). Possible causes:
 
 
 

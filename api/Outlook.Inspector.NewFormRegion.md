@@ -26,7 +26,7 @@ _expression_ A variable that represents an [Inspector](Outlook.Inspector.md) obj
 
 ## Return value
 
-An  **Object** that represents the page displaying the form region in the inspector.
+An **Object** that represents the page displaying the form region in the inspector.
 
 
 ## Remarks

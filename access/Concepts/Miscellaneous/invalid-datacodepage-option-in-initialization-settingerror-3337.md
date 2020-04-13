@@ -18,9 +18,9 @@ The **DataCodePage** setting for the external data source you are attempting to 
 Valid settings are:
 
 
--  **OEM** — Data is stored as OEM data; OemToAnsi and AnsiToOem conversions are done.
+- **OEM** — Data is stored as OEM data; OemToAnsi and AnsiToOem conversions are done.
     
--  **ANSI** — Data is stored as ANSI data; OemToAnsi and AnsiToOem conversions are not done.
+- **ANSI** — Data is stored as ANSI data; OemToAnsi and AnsiToOem conversions are not done.
     
 
 ## See also

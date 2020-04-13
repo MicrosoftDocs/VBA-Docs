@@ -16,9 +16,9 @@ Optional [arguments](../../Glossary/vbe-glossary.md#argument) can have any intri
 
 
 
-- You tried to specify  **Optional** with a [parameter](../../Glossary/vbe-glossary.md#parameter) that has no default value, for example, an [array](../../Glossary/vbe-glossary.md#array).
+- You tried to specify **Optional** with a [parameter](../../Glossary/vbe-glossary.md#parameter) that has no default value, for example, an [array](../../Glossary/vbe-glossary.md#array).
     
-    Make sure any argument specified as  **Optional** has a default value.
+    Make sure any argument specified as **Optional** has a default value.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

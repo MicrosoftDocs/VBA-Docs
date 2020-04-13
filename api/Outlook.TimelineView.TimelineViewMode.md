@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimelineView.TimelineViewMode property (Outlook)
 
-Returns or sets an  **[OlTimelineViewMode](Outlook.OlTimelineViewMode.md)** constant that indicates the view mode for the **[TimelineView](Outlook.TimelineView.md)** object. Read/write.
+Returns or sets an **[OlTimelineViewMode](Outlook.OlTimelineViewMode.md)** constant that indicates the view mode for the **[TimelineView](Outlook.TimelineView.md)** object. Read/write.
 
 
 ## Syntax

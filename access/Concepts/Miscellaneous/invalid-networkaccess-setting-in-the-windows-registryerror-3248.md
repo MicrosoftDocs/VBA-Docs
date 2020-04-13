@@ -13,7 +13,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-There is an invalid  **NetworkAccess** setting in the Microsoft Windows Registry.
+There is an invalid **NetworkAccess** setting in the Microsoft Windows Registry.
 
  To complete this operation
 
@@ -24,7 +24,7 @@ There is an invalid  **NetworkAccess** setting in the Microsoft Windows Registry
     
 3. On the **Edit** menu, click **Modify**.
     
-4. Specify either  **On** or **Off** in the **Value data** box.
+4. Specify either **On** or **Off** in the **Value data** box.
     
 5. Restart your application, and then try the operation again.
     

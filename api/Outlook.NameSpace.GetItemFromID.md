@@ -35,7 +35,7 @@ _expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) obje
 
 ## Return value
 
-An  **Object** value that represents the specified Outlook item.
+An **Object** value that represents the specified Outlook item.
 
 
 ## Remarks

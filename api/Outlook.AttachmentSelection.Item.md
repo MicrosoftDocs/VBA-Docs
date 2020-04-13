@@ -34,7 +34,7 @@ _expression_.**Item** (_Index_)
 
 ## Return value
 
-An  **Attachment** object that represents the specified object.
+An **Attachment** object that represents the specified object.
 
 
 ## See also

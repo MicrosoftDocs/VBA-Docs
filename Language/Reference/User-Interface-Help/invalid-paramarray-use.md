@@ -16,7 +16,7 @@ The [parameter](../../Glossary/vbe-glossary.md#parameter) defined as **ParamArra
 
 
 
-- You attempted to pass  **ParamArray** as an [argument](../../Glossary/vbe-glossary.md#argument) to another procedure that expects an [array](../../Glossary/vbe-glossary.md#array) or a **ByRef Variant**.
+- You attempted to pass **ParamArray** as an [argument](../../Glossary/vbe-glossary.md#argument) to another procedure that expects an [array](../../Glossary/vbe-glossary.md#array) or a **ByRef Variant**.
     
     Assign the **ParamArray** parameter to a **Variant**, and then pass the variant.
     

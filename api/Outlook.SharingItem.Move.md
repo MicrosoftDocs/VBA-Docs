@@ -34,7 +34,7 @@ _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) 
 
 ## Return value
 
-An  **Object** value that represents the item that has been moved to the designated folder.
+An **Object** value that represents the item that has been moved to the designated folder.
 
 
 ## See also

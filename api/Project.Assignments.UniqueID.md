@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Assignments.UniqueID property (Project)
 
-Gets an  **[Assignment](Project.Assignment.md)** object from its containing collection. Read-only **Assignment**.
+Gets an **[Assignment](Project.Assignment.md)** object from its containing collection. Read-only **Assignment**.
 
 
 ## Syntax

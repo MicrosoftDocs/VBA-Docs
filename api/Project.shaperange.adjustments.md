@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # ShapeRange.Adjustments property (Project)
-Gets an  **[Adjustments](https://msdn.microsoft.com/library/office/ff838852%28v=office.15%29)** object that contains adjustment values for all the adjustments in the shape. Applies to any **ShapeRange** object that represents an AutoShape, WordArt, or a connector. Read-only **Adjustments**.
+Gets an **[Adjustments](https://msdn.microsoft.com/library/office/ff838852%28v=office.15%29)** object that contains adjustment values for all the adjustments in the shape. Applies to any **ShapeRange** object that represents an AutoShape, WordArt, or a connector. Read-only **Adjustments**.
 
 ## Syntax
 

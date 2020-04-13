@@ -36,7 +36,7 @@ _expression_ A variable that represents an [Explorers](Outlook.Explorers.md) obj
 
 This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
-The event occurs after the new  **[Explorer](Outlook.Explorer.md)** object is created but before the explorer window appears.
+The event occurs after the new **[Explorer](Outlook.Explorer.md)** object is created but before the explorer window appears.
 
 
 ## Example

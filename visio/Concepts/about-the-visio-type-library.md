@@ -23,12 +23,12 @@ A type library is useful for the following reasons.
 
 - The information in a type library serves as input to object browsers supplied by VBA and other development environments. You can use object browsers to view descriptions of objects supplied by Automation servers (such as the Visio application) installed on your system. For example, you can view the syntax of a Visio property, method, or event and paste code shown by the browser into your program.
     
-- A type library allows development environments to bind your program's code to Automation server code at compile (design) time rather than dynamically at run time. The result is that your program often runs faster. For example, you can use  **Visio.Page**,  **Visio.Shape**,  **Visio.Document**, and so on instead of  **Object**.
+- A type library allows development environments to bind your program's code to Automation server code at compile (design) time rather than dynamically at run time. The result is that your program often runs faster. For example, you can use **Visio.Page**, **Visio.Shape**, **Visio.Document**, and so on instead of **Object**.
     
 
 ## Resolving object name ambiguities
 
-Your VBA project or Visual Basic program can reference many type libraries. Libraries sometimes declare items with the same name. For example, both Visio and Excel expose an object called  **Application**. When more than one library declares an item with the same name, VBA and Visual Basic bind the name to the library with the highest priority.
+Your VBA project or Visual Basic program can reference many type libraries. Libraries sometimes declare items with the same name. For example, both Visio and Excel expose an object called **Application**. When more than one library declares an item with the same name, VBA and Visual Basic bind the name to the library with the highest priority.
 
 One way to resolve name ambiguities is to prefix object types with the corresponding library name. For example: 
 

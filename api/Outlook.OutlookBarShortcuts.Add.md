@@ -36,7 +36,7 @@ _expression_ A variable that represents an [OutlookBarShortcuts](Outlook.Outlook
 
 ## Return value
 
-An  **[OutlookBarShortcut](Outlook.OutlookBarShortcut.md)** object that represents the new shortcut.
+An **[OutlookBarShortcut](Outlook.OutlookBarShortcut.md)** object that represents the new shortcut.
 
 
 ## Example

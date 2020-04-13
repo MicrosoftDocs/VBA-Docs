@@ -16,9 +16,9 @@ The **With...End With** block can't be used with all[variable](../../Glossary/vb
 
 
 
-- You tried to use a variable that was not of  **Object** type, [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type), or [Variant](../../Glossary/vbe-glossary.md#variant-data-type) type containing an object within a **With** block.
+- You tried to use a variable that was not of **Object** type, [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type), or [Variant](../../Glossary/vbe-glossary.md#variant-data-type) type containing an object within a **With** block.
     
-    Check to see if you misspelled the name of the object, user-defined type, or  **Variant** variable.
+    Check to see if you misspelled the name of the object, user-defined type, or **Variant** variable.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

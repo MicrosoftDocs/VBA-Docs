@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object
 
 ## Return value
 
-An  **Object** value that represents the status report.
+An **Object** value that represents the status report.
 
 
 ## Example

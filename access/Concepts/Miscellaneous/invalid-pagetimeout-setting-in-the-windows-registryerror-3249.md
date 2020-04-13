@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-There is an invalid  **PageTimeout** setting in the Microsoft Windows Registry.
+There is an invalid **PageTimeout** setting in the Microsoft Windows Registry.
 
  To complete this operation
 
