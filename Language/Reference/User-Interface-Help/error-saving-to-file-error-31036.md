@@ -16,7 +16,7 @@ Visual Basic can't write the object to the specified file (set  **Action** = 11 
 
 
 
-- The  **FileNumber** property is invalid.
+- The **FileNumber** property is invalid.
     
 - The specified file wasn't opened in Binary mode.
     

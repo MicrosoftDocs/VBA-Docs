@@ -37,12 +37,12 @@ The  _Options_ argument is a **Long** value that indicates either or both of the
 
 - How the provider should evaluate the  _Source_ argument if it represents something other than a **Command** object.
     
-- That the  **Recordset** should be restored from a file where it was previously saved.
+- That the **Recordset** should be restored from a file where it was previously saved.
     
 This argument can contain a bitmask of  **CommandTypeEnum** or **ExecuteOptionEnum** values. A **CommandTypeEnum** passed in the _Options_ argument sets the **CommandType** property of the **Recordset**.
 
 > [!NOTE]
-> The  **ExecuteOpenEnum** values of **adExecuteNoRecords** and **adExecuteStream** cannot be used with **Open**.
+> The **ExecuteOpenEnum** values of **adExecuteNoRecords** and **adExecuteStream** cannot be used with **Open**.
 
 If the **CommandType** property value equals **adCmdUnknown** (the default value), you might experience diminished performance, because ADO must make calls to the provider to determine whether the **CommandText** property is a SQL statement, a stored procedure, or a table name. If you know what type of command you are using, setting the **CommandType** property instructs ADO to go directly to the relevant code. If the **CommandType** property does not match the type of command in the **CommandText** property, an error occurs when you call the **Open** method.
 
@@ -89,7 +89,7 @@ SELECT ProductID, ProductName, UnitPrice
   FROM PRODUCTS  
   COMPUTE AVG(UnitPrice) 
 ```
-The Microsoft OLE DB Provider for SQL Server returns multiple result sets to ADO when the command contains a COMPUTE clause. Therefore, the ADO code must use the  **NextRecordset** method to access the data in the second result set, as shown here:
+The Microsoft OLE DB Provider for SQL Server returns multiple result sets to ADO when the command contains a COMPUTE clause. Therefore, the ADO code must use the **NextRecordset** method to access the data in the second result set, as shown here:
 
 ```vb
  

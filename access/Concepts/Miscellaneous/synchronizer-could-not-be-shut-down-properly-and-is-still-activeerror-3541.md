@@ -21,7 +21,7 @@ A programmatic request to terminate the Synchronizer was not completed successfu
  To terminate the Synchronizer
 
 
-1. Press CTRL+ALT+DELETE to display the  **Close Program** dialog box.
+1. Press CTRL+ALT+DELETE to display the **Close Program** dialog box.
     
 2. Click  **Synchronizer**.
     

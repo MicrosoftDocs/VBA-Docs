@@ -18,9 +18,9 @@ This error has the following causes and solutions:
 
 - This error occurs at [run time](../../Glossary/vbe-glossary.md#run-time) when the new file name, for example, one specified in a **Name** statement, is identical to a file name that already exists.
     
-    Specify a new file name in the  **Name** statement or delete the old file before specifying it in a **Name** statement.
+    Specify a new file name in the **Name** statement or delete the old file before specifying it in a **Name** statement.
     
-- You used the  **Save As** command to save a currently loaded[project](../../Glossary/vbe-glossary.md#project), but the project name already exists.
+- You used the **Save As** command to save a currently loaded[project](../../Glossary/vbe-glossary.md#project), but the project name already exists.
     
     Use a different project name if you don't want to replace the other project.
     

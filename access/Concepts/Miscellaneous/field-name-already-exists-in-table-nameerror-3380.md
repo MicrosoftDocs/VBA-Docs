@@ -13,7 +13,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You have entered the same field name twice. Rewrite your code, giving each field a unique name. You should also check to see if the field name exists in the  **Fields** collection.
+You have entered the same field name twice. Rewrite your code, giving each field a unique name. You should also check to see if the field name exists in the **Fields** collection.
 
 
 ## See also

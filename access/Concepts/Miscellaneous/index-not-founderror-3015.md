@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You tried to use a value that is not an index. You can determine the valid index names by looking in the  **Indexes** collection of the **TableDef** object.
+You tried to use a value that is not an index. You can determine the valid index names by looking in the **Indexes** collection of the **TableDef** object.
 
 ## See also
 

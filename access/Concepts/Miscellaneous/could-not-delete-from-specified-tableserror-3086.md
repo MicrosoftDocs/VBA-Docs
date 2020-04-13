@@ -19,10 +19,10 @@ Possible causes:
 
 - You do not have permission to modify the table. To change your permissions assignments, see your system administrator or the table's creator.  
 - The database was opened for read-only access. The database is read-only for one of these reasons:
-- You used the  **OpenDatabase** method and opened the database for read-only access.    
+- You used the **OpenDatabase** method and opened the database for read-only access.    
 - The database file is defined as read-only in the database server operating system or by your network.
 - In a network environment, you do not have write privileges for the database file.
-- In Microsoft Visual Basic, you used the  **Data** control and set the **ReadOnly** property to **True**.   
+- In Microsoft Visual Basic, you used the **Data** control and set the **ReadOnly** property to **True**.   
 
 To delete the data, close the database, resolve the read-only condition, and then reopen the file for read/write access.
 

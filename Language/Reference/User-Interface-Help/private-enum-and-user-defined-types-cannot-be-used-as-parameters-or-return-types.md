@@ -18,7 +18,7 @@ A  **Public** procedure is visible to all[modules](../../Glossary/vbe-glossary.m
 
 - Your  **Public** procedure is in a **Public** class, but it returns a value or has a [parameter](../../Glossary/vbe-glossary.md#parameter) that is defined in a [standard module](../../Glossary/vbe-glossary.md#standard-module) or in a **Private** class.
     
-    Declare the  **Enum** **Public**. It must be in a [class module](../../Glossary/vbe-glossary.md#class-module).
+    Declare the **Enum** **Public**. It must be in a [class module](../../Glossary/vbe-glossary.md#class-module).
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

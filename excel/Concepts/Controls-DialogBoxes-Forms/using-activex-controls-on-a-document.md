@@ -17,7 +17,7 @@ Just as you can add ActiveX controls to  [custom dialog boxes](create-a-custom-d
 
 1.  [Add Controls to a Document](add-controls-to-a-document.md)
     
-    Display the  **Control Toolbox**, click the control you want to add, and then click the document.
+    Display the **Control Toolbox**, click the control you want to add, and then click the document.
     
 2.  [Set control properties](setting-control-properties.md)
     

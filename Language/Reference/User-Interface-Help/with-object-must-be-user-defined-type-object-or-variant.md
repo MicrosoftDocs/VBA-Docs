@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # With object must be user-defined type, Object, or Variant
 
-The  **With...End With** block can't be used with all[variable](../../Glossary/vbe-glossary.md#variable) types. This error has the following cause and solution:
+The **With...End With** block can't be used with all[variable](../../Glossary/vbe-glossary.md#variable) types. This error has the following cause and solution:
 
 
 

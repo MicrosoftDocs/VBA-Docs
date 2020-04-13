@@ -13,7 +13,7 @@ localization_priority: Normal
 
 1. In the form region manifest XML file, specify the action as a child  **action** element of the **customActions** element for that form region.
 
-2. Specify the internal name of the action as the value of the  **name** attribute of the **action** element.
+2. Specify the internal name of the action as the value of the **name** attribute of the **action** element.
 
 3. Specify a value for the child  **method** element of the **action** element.
 

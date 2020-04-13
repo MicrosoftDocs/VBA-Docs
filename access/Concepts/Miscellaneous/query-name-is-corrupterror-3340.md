@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You have referenced an undefined query name. Check the queries listed in the  **QueryDefs** collection to make sure you referenced a valid query name.
+You have referenced an undefined query name. Check the queries listed in the **QueryDefs** collection to make sure you referenced a valid query name.
 
 ## See also
 

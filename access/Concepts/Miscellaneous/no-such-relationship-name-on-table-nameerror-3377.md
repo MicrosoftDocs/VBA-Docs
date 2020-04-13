@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The relationship you specified does not exist in this database. Check to see if the name you specified exists in the  **Relations** collection.
+The relationship you specified does not exist in this database. Check to see if the name you specified exists in the **Relations** collection.
 
 ## See also
 

@@ -18,7 +18,7 @@ A [constant](../../Glossary/vbe-glossary.md#constant) must be initialized. This 
 
 - You tried to initialize a constant with a [variable](../../Glossary/vbe-glossary.md#variable), an instance of a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type), an object, or the return value of a function call.
     
-    Initialize constants with literals, previously declared constants, or literals and constants joined by operators (except the  **Is** logical operator).
+    Initialize constants with literals, previously declared constants, or literals and constants joined by operators (except the **Is** logical operator).
     
 - [array](../../Glossary/vbe-glossary.md#array)
     

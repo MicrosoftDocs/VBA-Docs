@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-One or more of the records in the  **Recordset** was deleted after the query was performed. You should refresh the **Recordset** and try the query again.
+One or more of the records in the **Recordset** was deleted after the query was performed. You should refresh the **Recordset** and try the query again.
 
 ## See also
 

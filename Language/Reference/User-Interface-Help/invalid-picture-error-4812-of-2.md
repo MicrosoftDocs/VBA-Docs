@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Invalid picture (Error 481) [2 of 2]
 
-Only a picture can be assigned to the  **Picture**[property](../../Glossary/vbe-glossary.md#property) or **Picture** object. This error has the following cause and solution:
+Only a picture can be assigned to the **Picture**[property](../../Glossary/vbe-glossary.md#property) or **Picture** object. This error has the following cause and solution:
 
 
 

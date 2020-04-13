@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Insufficient memory to save Undo information
 
-You won't be able to choose the  **Undo** command to restore the current state after you perform this edit. This error has the following cause and solution:
+You won't be able to choose the **Undo** command to restore the current state after you perform this edit. This error has the following cause and solution:
 
 
 

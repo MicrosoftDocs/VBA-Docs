@@ -21,24 +21,24 @@ Using this control, you can embed the full functionality of the Visio drawing su
 
 ## Getting started
 
-To install the Visio Drawing Control, install Visio. When you install Visio, you can choose various installation options, including the  **Minimal Install** option. If you want to minimize the installation file size of Visio on your computer, you can choose **Minimal Install**, which installs only the minimum required Visio components, including the Visio drawing application and the Visio Drawing Control. This installation option does not include Visio solutions or Visio Help (which includes the Automation Reference and ShapeSheet Reference). 
+To install the Visio Drawing Control, install Visio. When you install Visio, you can choose various installation options, including the **Minimal Install** option. If you want to minimize the installation file size of Visio on your computer, you can choose **Minimal Install**, which installs only the minimum required Visio components, including the Visio drawing application and the Visio Drawing Control. This installation option does not include Visio solutions or Visio Help (which includes the Automation Reference and ShapeSheet Reference). 
 
-To add the Visio Drawing Control to the  **Toolbox** in Visual Basic 6.0, on the **Project** menu, click **Components**, and then in the  **Controls** list, select **Microsoft Visio 15.0 Drawing Control Type Library**. To make the control available in other development environments, consult the documentation that comes with your development product.
+To add the Visio Drawing Control to the **Toolbox** in Visual Basic 6.0, on the **Project** menu, click **Components**, and then in the **Controls** list, select **Microsoft Visio 15.0 Drawing Control Type Library**. To make the control available in other development environments, consult the documentation that comes with your development product.
 
 Once you have opened a  **Standard EXE** project in Visual Basic and added the control to the **Toolbox**, double-click the control's icon to add an instance of the control to the form in your application. You can add multiple instances of the control, but they will share the same underlying Visio  **Application** object. As a result, programmability objects and settings associated with one instance of the control will be reflected in other instances. For example, the **Documents** collection of the **Application** object will include the **Document** object associated with each instance of the control.
 
 
 ## Opening a Visio drawing in the control
 
-By default, the control opens a blank Visio document (drawing). However, you can specify, either at design time or at run time, that the control load an existing Visio document. The document you specify must be available to your users, either because you supply it along with your application, or because it exists on a network share they have access to, on an intranet site, or on the Web. To specify a document at design time, set the  **Src** property in the **Properties** window in your Visual Basic project. This is the preferred method. To specify a drawing at run time, set the **Src** property in your code, usually in the **Form_Load()** procedure. More information about using the custom properties of the Visio Drawing Control is provided later in this topic, and in the **Src** property topic in this Automation Reference.
+By default, the control opens a blank Visio document (drawing). However, you can specify, either at design time or at run time, that the control load an existing Visio document. The document you specify must be available to your users, either because you supply it along with your application, or because it exists on a network share they have access to, on an intranet site, or on the Web. To specify a document at design time, set the **Src** property in the **Properties** window in your Visual Basic project. This is the preferred method. To specify a drawing at run time, set the **Src** property in your code, usually in the **Form_Load()** procedure. More information about using the custom properties of the Visio Drawing Control is provided later in this topic, and in the **Src** property topic in this Automation Reference.
 
-When you set the  **SRC** property to load a file into the Visio Drawing Control, the control opens a copy of the file, but does not keep the original file open for writing. As a result, you cannot use the **Document.Save** method to save changes to a file loaded into the Visio Drawing Control. To save changes in a file, first use the **SRC** property to load the file into the Visio Drawing Control, and then set **SRC** to an empty string (""). To save the modified file to disk, use the **Document.SaveAs** method.
+When you set the **SRC** property to load a file into the Visio Drawing Control, the control opens a copy of the file, but does not keep the original file open for writing. As a result, you cannot use the **Document.Save** method to save changes to a file loaded into the Visio Drawing Control. To save changes in a file, first use the **SRC** property to load the file into the Visio Drawing Control, and then set **SRC** to an empty string (""). To save the modified file to disk, use the **Document.SaveAs** method.
 
-If you do not set the  **SRC** property to an empty string after loading a drawing into the Visio Drawing Control, each time you close and reopen your application, the original drawing will be loaded, and any modifications you or your users have made will be lost.
+If you do not set the **SRC** property to an empty string after loading a drawing into the Visio Drawing Control, each time you close and reopen your application, the original drawing will be loaded, and any modifications you or your users have made will be lost.
 
-By default, the control does not display the Visio startup screen or the  **Available Templates** tab on startup. Furthermore, by default the control does not display a docked stencil pane on startup, but if you use the **Src** property to specify a drawing that already displays a docked stencil pane, that pane will be visible in the Visio Drawing Control window. To display the stencil pane in a blank drawing, use the **Document.OpenStencilWindow** method from the Visio object model.
+By default, the control does not display the Visio startup screen or the **Available Templates** tab on startup. Furthermore, by default the control does not display a docked stencil pane on startup, but if you use the **Src** property to specify a drawing that already displays a docked stencil pane, that pane will be visible in the Visio Drawing Control window. To display the stencil pane in a blank drawing, use the **Document.OpenStencilWindow** method from the Visio object model.
 
-By default, neither Visio menus nor Visio toolbars are displayed in the control (although shortcut menus are available). However, you can use the  **NegotiateMenus** and **NegotiateToolbars** properties of the control to display these items. More information about using the custom properties of the Visio Drawing Control is provided later in this topic, and in the **NegotiateMenus** property and **NegotiateToolbars** property topics in this Automation Reference.
+By default, neither Visio menus nor Visio toolbars are displayed in the control (although shortcut menus are available). However, you can use the **NegotiateMenus** and **NegotiateToolbars** properties of the control to display these items. More information about using the custom properties of the Visio Drawing Control is provided later in this topic, and in the **NegotiateMenus** property and **NegotiateToolbars** property topics in this Automation Reference.
 
 
  **Note**  Starting in Microsoft Visio 2010, the Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio 2013, but they function differently.
@@ -48,7 +48,7 @@ You can insert multiple instances of the Visio Drawing Control in your applicati
 
 ## Gaining access to the Visio object model
 
-To gain access to the Visio object model, use the  **Window** or **Document** property of the Visio Drawing Control. Use the following code to get a Visio **Window** object:
+To gain access to the Visio object model, use the **Window** or **Document** property of the Visio Drawing Control. Use the following code to get a Visio **Window** object:
 
 
 ```vb
@@ -66,7 +66,7 @@ Dim vsoDocument As Visio.Document
 Set vsoDocument = DrawingControl1.Document
 ```
 
-Once you have either of these objects, you can use the  **Application** property of either object to get the Visio **Application** object:
+Once you have either of these objects, you can use the **Application** property of either object to get the Visio **Application** object:
 
 
 
@@ -76,7 +76,7 @@ vsoWindow.Application
 vsoDocument.Application
 ```
 
-With these objects you have access to all the rest of the Visio object model. For example, if you want to modify the Visio user interface to display only the white Visio drawing surface, without the grid, scrollbars, rulers, and page tabs, you can use the following code in the  **Form_Load()** procedure:
+With these objects you have access to all the rest of the Visio object model. For example, if you want to modify the Visio user interface to display only the white Visio drawing surface, without the grid, scrollbars, rulers, and page tabs, you can use the following code in the **Form_Load()** procedure:
 
 
 
@@ -90,7 +90,7 @@ vsoWindow.ShowRulers = False
 vsoWindow.ShowScrollBars = False
 ```
 
-Visio events, including keyboard and mouse events, are available directly as members of the  **DrawingControl** object.
+Visio events, including keyboard and mouse events, are available directly as members of the **DrawingControl** object.
 
 Once you have access to the Visio object model, you can use all the standard objects, methods, properties, and events of the model to automate and customize the control in your program. For more information about using the objects and members of the Visio object model, see the specific object or member topic in this Automation Reference.
 

@@ -18,7 +18,7 @@ The [parameter](../../Glossary/vbe-glossary.md#parameter) defined as **ParamArra
 
 - You attempted to pass  **ParamArray** as an [argument](../../Glossary/vbe-glossary.md#argument) to another procedure that expects an [array](../../Glossary/vbe-glossary.md#array) or a **ByRef Variant**.
     
-    Assign the  **ParamArray** parameter to a **Variant**, and then pass the variant.
+    Assign the **ParamArray** parameter to a **Variant**, and then pass the variant.
     
 - You attempted to use an **Erase** or **ReDim** statement with a **ParamArray** parameter within its procedure. Remove the **Erase** or **ReDim**. These operations can't be performed on the **ParamArray** parameter.
     

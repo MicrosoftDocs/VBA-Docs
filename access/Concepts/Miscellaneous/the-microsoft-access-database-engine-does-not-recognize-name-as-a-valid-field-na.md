@@ -22,7 +22,7 @@ Possible causes with Microsoft Access:
     
   - In the query that contains the parameter, specify the parameter and its data type in the **Query Parameters** dialog box. And;
     
-  - Set the  **ColumnHeadings** property for the query that contains the parameter.  
+  - Set the **ColumnHeadings** property for the query that contains the parameter.  
         
   - In any type of query, you have improperly referred to a database, table, or field. For example, this error can occur if you refer to a field named Salary in an expression, but you misspell the field name, such as `[Sallary]*1.1`.
     

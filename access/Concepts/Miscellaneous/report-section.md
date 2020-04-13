@@ -18,7 +18,7 @@ localization_priority: Normal
 
 A report section is part of a report such as a header, footer, or detail section.
 
-You can set report section properties that are attributes of a report which affect the appearance or behavior of a specific section. For example, you can set the  **CanGrow** property to specify whether the section will increase vertically to print all the data the section contains. Section properties are set in report Design view.
+You can set report section properties that are attributes of a report which affect the appearance or behavior of a specific section. For example, you can set the **CanGrow** property to specify whether the section will increase vertically to print all the data the section contains. Section properties are set in report Design view.
 
 ## See also
 

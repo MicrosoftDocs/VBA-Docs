@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Working with 3-D Ranges
 
-If you are working with the same range on more than one sheet, use the  **Array** function to specify two or more sheets to select. The following example formats the border of a 3-D range of cells.
+If you are working with the same range on more than one sheet, use the **Array** function to specify two or more sheets to select. The following example formats the border of a 3-D range of cells.
 
 
 ```vb
@@ -24,7 +24,7 @@ End Sub
 ```
 
 
-The following example applies the  **[FillAcrossSheets](../../../api/Excel.Worksheets.FillAcrossSheets.md)** method to transfer the formats and any data from the range on Sheet2 to the corresponding ranges on all the worksheets in the active workbook.
+The following example applies the **[FillAcrossSheets](../../../api/Excel.Worksheets.FillAcrossSheets.md)** method to transfer the formats and any data from the range on Sheet2 to the corresponding ranges on all the worksheets in the active workbook.
 
 
 

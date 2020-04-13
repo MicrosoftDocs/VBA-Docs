@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-To ensure referential integrity in databases created by the Microsoft Access database engine, your application must read the database's System.mdw file. Make sure the file is in the location specified in the  **SystemDB** value in the Windows Registry.
+To ensure referential integrity in databases created by the Microsoft Access database engine, your application must read the database's System.mdw file. Make sure the file is in the location specified in the **SystemDB** value in the Windows Registry.
 
 ## See also
 

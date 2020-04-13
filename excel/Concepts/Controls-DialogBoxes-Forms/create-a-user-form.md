@@ -14,6 +14,6 @@ localization_priority: Normal
 
 To create a custom dialog box, you must create a UserForm. To create a UserForm, click  **UserForm** on the **Insert** menu in the Visual Basic Editor.
 
-Use the  **Properties** window to change the name, behavior, and appearance of the form. For example, to change the caption on a form, set the **Caption** property.
+Use the **Properties** window to change the name, behavior, and appearance of the form. For example, to change the caption on a form, set the **Caption** property.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

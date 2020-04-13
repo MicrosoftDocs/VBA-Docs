@@ -26,7 +26,7 @@ Possible causes:
     
 - You tried to append a property to a  **Properties** collection of an object that does not support user-defined properties.
     
-- You tried to use the  **Update** method on a read-only **Recordset** object.
+- You tried to use the **Update** method on a read-only **Recordset** object.
     
 
 ## See also

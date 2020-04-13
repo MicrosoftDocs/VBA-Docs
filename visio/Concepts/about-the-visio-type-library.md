@@ -14,7 +14,7 @@ localization_priority: Normal
 
 Visio products include a type library that defines the objects, properties, methods, events, and constants that Visio exposes to Automation clients. To use the Visio type library, a development environment must reference it. The Visual Basic for Applications (VBA) project of a Visio document automatically references the Visio type library. In other development environments you must take appropriate steps to reference the library.
 
-The names of the libraries your VBA project references are displayed in the  **Project/Library** list in the **Object Browser** in the Visual Basic Editor.
+The names of the libraries your VBA project references are displayed in the **Project/Library** list in the **Object Browser** in the Visual Basic Editor.
 
 ## Benefits of using a type library
 

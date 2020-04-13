@@ -13,7 +13,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The  **AllowZeroLength** property for this field is set to **False**, prohibiting the entry of a zero-length string in the field. Enter a different value in the field.
+The **AllowZeroLength** property for this field is set to **False**, prohibiting the entry of a zero-length string in the field. Enter a different value in the field.
 
 ## See also
 

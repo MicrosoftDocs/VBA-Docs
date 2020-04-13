@@ -18,7 +18,7 @@ This error typically occurs when you attempt to assign a value to something that
 
 - You attempted to use a [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) as an [argument](../../Glossary/vbe-glossary.md#argument) to the **Len** function.
     
-    The  **Len** function doesn't accept a numeric expression, a numeric literal, or a binary numeric expression, but it does accept either a string or numeric variable, a [string expression](../../Glossary/vbe-glossary.md#string-expression), or a [variable](../../Glossary/vbe-glossary.md#variable) of[user-defined type](../../Glossary/vbe-glossary.md#user-defined-type).
+    The **Len** function doesn't accept a numeric expression, a numeric literal, or a binary numeric expression, but it does accept either a string or numeric variable, a [string expression](../../Glossary/vbe-glossary.md#string-expression), or a [variable](../../Glossary/vbe-glossary.md#variable) of[user-defined type](../../Glossary/vbe-glossary.md#user-defined-type).
     
 - You used a function call or an [expression](../../Glossary/vbe-glossary.md#expression) as an argument to **Input #**, **Let**, **Get**, or **Put**. For example, you may have used an argument that appears to be a valid reference to an [array](../../Glossary/vbe-glossary.md#array) variable, but instead is a call to a function of the same name.
     

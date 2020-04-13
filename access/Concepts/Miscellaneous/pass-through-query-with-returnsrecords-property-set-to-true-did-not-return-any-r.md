@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-A pass-through query did not return any records even though the  **ReturnsRecords** property is set to **True**. If a pass-through query does not return records, set the **ReturnsRecords** property to **False**.
+A pass-through query did not return any records even though the **ReturnsRecords** property is set to **True**. If a pass-through query does not return records, set the **ReturnsRecords** property to **False**.
 
 ## See also
 

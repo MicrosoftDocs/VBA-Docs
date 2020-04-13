@@ -34,7 +34,7 @@ You can use the resulting custom form to display items of the same message class
 
 1. For each form region, in the corresponding form region manifest XML file, specify  **adjoining** as the value of the **formRegionType** element.
 
-2. Except for the form region that will appear as the first form region on the default page, for each of the other form regions, in the corresponding form region manifest XML file, specify the internal name of the form region that will precede this one as the value of the  **displayAfter** element.
+2. Except for the form region that will appear as the first form region on the default page, for each of the other form regions, in the corresponding form region manifest XML file, specify the internal name of the form region that will precede this one as the value of the **displayAfter** element.
 
 You can use the resulting custom form to display items of the same message class as the original standard form, or you can assign a derived message class for the custom form and use the custom form to display only items of the derived message class.
 
@@ -122,7 +122,7 @@ You can use the resulting custom form to display items of the same message class
 
 1. For each form region, in the corresponding form region manifest XML file, specify  **separate** as the value of the **formRegionType** element.
 
-2. Except for the form region that will appear as the first form region in the custom form, for each of the other form regions, in the corresponding form region manifest XML file, specify the internal name of the form region that will precede this one as the value of the  **displayAfter** element.
+2. Except for the form region that will appear as the first form region in the custom form, for each of the other form regions, in the corresponding form region manifest XML file, specify the internal name of the form region that will precede this one as the value of the **displayAfter** element.
 
 You can use the resulting custom form to display items of the same message class as the original standard form, or you can assign a derived message class for the custom form and use the custom form to display only items of the derived message class.
 

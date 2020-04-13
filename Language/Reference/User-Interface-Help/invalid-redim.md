@@ -52,7 +52,7 @@ ReDim MyVar(5) As Variant    ' ReDim it as array of Variant subtypes.
     
 - You attempted to use  **ReDim** with an array that is a member of an Automation object.
     
-    Remove the  **ReDim**.
+    Remove the **ReDim**.
     
      **Note**  If you don't specify a type for a variable, the variable receives the default type, **Variant**. This isn't always obvious. For example, the following code declares two variables, the first, `MyVar`, is a **Variant**; the second, `AnotherVar`, is an **Integer**.
 

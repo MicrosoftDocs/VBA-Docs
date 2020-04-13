@@ -16,7 +16,7 @@ An error occurred while attempting to read the specified file (set  **Action** =
 
 
 
-- The  **FileNumber** property is invalid.
+- The **FileNumber** property is invalid.
     
 - The file wasn't opened in Binary mode.
     

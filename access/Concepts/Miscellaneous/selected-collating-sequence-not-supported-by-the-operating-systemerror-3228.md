@@ -23,9 +23,9 @@ There is an invalid  **CollatingSequence** setting in the **Paradox** key of the
 
 1. Exit your application.
     
-2. Start the Registry Editor, navigate to the  **HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\14.0\Access Connectivity Engine\Engines\Paradox** key, and select the **CollatingSequence** value.
+2. Start the Registry Editor, navigate to the **HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\14.0\Access Connectivity Engine\Engines\Paradox** key, and select the **CollatingSequence** value.
     
-3. On the  **Edit** menu, click **Modify**.
+3. On the **Edit** menu, click **Modify**.
     
 4. Specify either  **ascii** or **International** in the **Value data** box.
     

@@ -29,7 +29,7 @@ Possible causes:
 The database is read-only for one of the following reasons:
 
 
-- You used the  **OpenDatabase** method or the Visual Basic **Data** control, and opened the database for read-only access.
+- You used the **OpenDatabase** method or the Visual Basic **Data** control, and opened the database for read-only access.
     
 - The database file has been defined as read-only in your network operating system.
     

@@ -18,7 +18,7 @@ A Microsoft Outlook add-in that customizes the ribbon, shortcut menus, new-item 
     
 
 In Visual C# and Visual Basic add-ins, you must implement these interfaces in the same class.
-When you implement **ffice.IRibbonExtensibility**, use the  **ibbonExtensibility.GetCustomUI** method to return XML markup for your custom user interface to Outlook. The way that Outlook calls **GetCustomUI** and when it calls it is unique among Microsoft Office applications:
+When you implement **ffice.IRibbonExtensibility**, use the **ibbonExtensibility.GetCustomUI** method to return XML markup for your custom user interface to Outlook. The way that Outlook calls **GetCustomUI** and when it calls it is unique among Microsoft Office applications:
 
 - Office calls **etCustomUI** during Outlook startup to load ribbon customizations for the explorers.
     

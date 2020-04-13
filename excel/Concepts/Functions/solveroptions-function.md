@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # SolverOptions Function
 
-Allows you to specify advanced options for your Solver model. This function and its arguments correspond to the options in the  **Solver Options** dialog box.
+Allows you to specify advanced options for your Solver model. This function and its arguments correspond to the options in the **Solver Options** dialog box.
 
 
  **Note**  The Solver add-in is not enabled by default. Before you can use this function, you must have the Solver add-in enabled and installed. For information about how to do that, see  [Using the Solver VBA Functions](using-the-solver-vba-functions.md). After the Solver add-in is installed, you must establish a reference to the Solver add-in. In the Visual Basic Editor, with a module active, click  **References** on the **Tools** menu, and then select **Solver** under **Available References**. If  **Solver** does not appear under **Available References**, click  **Browse**, and then open Solver.xlam in the \Program Files\Microsoft Office\Office14\Library\SOLVER subfolder.
@@ -33,37 +33,37 @@ Allows you to specify advanced options for your Solver model. This function and 
  
  **Derivatives** Optional **Variant**. Specifies forward differencing or central differencing for estimates of partial derivatives of the objective and constraint functions: 1 represents forward differencing, and 2 represents central differencing. Central differencing requires more worksheet recalculations, but it may help with problems that generate a message saying that Solver could not improve the solution. With constraints whose values change rapidly near their limits, you should use central differencing. The default value is 1 (forward differencing).
  
- **SearchOption** Optional **Variant**. Use the  **_Search_** options to specify the search algorithm that will be used at each iteration to decide which direction to search in: 1 represents the Newton search method, and 2 represents the conjugate search method. Newton, which uses a quasi-Newton method, is the default search method.
+ **SearchOption** Optional **Variant**. Use the **_Search_** options to specify the search algorithm that will be used at each iteration to decide which direction to search in: 1 represents the Newton search method, and 2 represents the conjugate search method. Newton, which uses a quasi-Newton method, is the default search method.
  
- **IntTolerance** Optional **Variant**. A decimal number between 0 (zero) and 100 that specifies the  **Integer Optimality** percentage tolerance. This argument applies only if integer constraints have been defined; it specifies that Solver can stop if it has found a feasible integer solution whose objective is within this percentage of the best known bound on the objective of the true integer optimal solution. A larger percentage tolerance would tend to speed up the solution process.
+ **IntTolerance** Optional **Variant**. A decimal number between 0 (zero) and 100 that specifies the **Integer Optimality** percentage tolerance. This argument applies only if integer constraints have been defined; it specifies that Solver can stop if it has found a feasible integer solution whose objective is within this percentage of the best known bound on the objective of the true integer optimal solution. A larger percentage tolerance would tend to speed up the solution process.
  
  **Scaling** Optional **Variant**. If the objective or constraints differ by several orders of magnitude, for example, maximizing percentage of profit based on million-dollar investments, set this option  **True** to have Solver internally rescale the objective and constraint values to similar orders of magnitude during computation. If this option is **False**, Solver will perform its computations with the original values of the objective and constraints. The default value is  **True**.
  
- **Convergence** Optional **Variant**. A number between 0 (zero) and 1 that specifies the convergence tolerance for the  **GRG Nonlinear Solving** and **Evolutionary Solving** methods. For the GRG method, when the relative change in the target cell value is less than this tolerance for the last five iterations, Solver stops. For the Evolutionary method, when 99% or more of the members of the population have "fitness" values whose relative, that is percentage, difference is less than this tolerance, Solver stops. In both cases, Solver displays the message "Solver converged to the current solution. All constraints are satisfied."
+ **Convergence** Optional **Variant**. A number between 0 (zero) and 1 that specifies the convergence tolerance for the **GRG Nonlinear Solving** and **Evolutionary Solving** methods. For the GRG method, when the relative change in the target cell value is less than this tolerance for the last five iterations, Solver stops. For the Evolutionary method, when 99% or more of the members of the population have "fitness" values whose relative, that is percentage, difference is less than this tolerance, Solver stops. In both cases, Solver displays the message "Solver converged to the current solution. All constraints are satisfied."
  
  **AssumeNonNeg** Optional **Variant**.  **True** to have Solver assume a lower limit of 0 (zero) for all decision variable cells that do not have explicit lower limits in the **Constraint** list box (the cells must contain nonnegative values). **False** to have Solver use only the limits specified in the **Constraint** list box.
  
  **PopulationSize** Optional **Variant**.  **True** to have Solver assume a lower limit of 0 (zero) for all decision variable cells that do not have explicit lower limits in the **Constraint** list box (the cells must contain nonnegative values). **False** to have Solver use only the limits specified in the Constraint list box.
  
- **RandomSeed** Optional **Variant**. A positive integer specifies a fixed seed for the random number generator used by the  **Evolutionary Solving** method and the multistart method for global optimization. This means that Solver will find the same solution each time it is run on a model that has not changed. A zero value specifies that Solver should use a different seed for the random number generator each time it runs, which may yield different solutions each time it is run on a model that has not changed.
+ **RandomSeed** Optional **Variant**. A positive integer specifies a fixed seed for the random number generator used by the **Evolutionary Solving** method and the multistart method for global optimization. This means that Solver will find the same solution each time it is run on a model that has not changed. A zero value specifies that Solver should use a different seed for the random number generator each time it runs, which may yield different solutions each time it is run on a model that has not changed.
  
  **MultiStart** Optional **Variant**.  **True** to have Solver use multistart method for global optimization with the **GRG Nonlinear Solving** method, when **[SolverSolve](solversolve-function.md)** is called. **False** to have Solver run the **GRG Solving** method only once, without multistart, when **[SolverSolve](solversolve-function.md)** is called.
  
  **RequireBounds** Optional **Variant**.  **True** to cause the Evolutionary Solving method and the multistart method to return immediately from a call to **[SolverSolve](solversolve-function.md)** with a value of 18 if any of the variables do not have both lower and upper bounds defined. **False** to have these methods attempt to solve the problem without bounds on all of the variables.
  
- **MutationRate** Optional **Variant**. A number between 0 (zero) and 1 that specifies the rate at which the  **Evolutionary Solving** method will make "mutations" to existing population members. A higher Mutation rate tends to increase the diversity of the population, and may yield better solutions.
+ **MutationRate** Optional **Variant**. A number between 0 (zero) and 1 that specifies the rate at which the **Evolutionary Solving** method will make "mutations" to existing population members. A higher Mutation rate tends to increase the diversity of the population, and may yield better solutions.
  
- **MaxSubproblems** Optional **Variant**. The maximum number of subproblems Solver will explore in problems with integer constraints, and problems solved via the  **Evolutionary Solving** method. The value must be a positive integer.
+ **MaxSubproblems** Optional **Variant**. The maximum number of subproblems Solver will explore in problems with integer constraints, and problems solved via the **Evolutionary Solving** method. The value must be a positive integer.
  
- **MaxIntegerSols** Optional **Variant**. The maximum number of feasible (or integer feasible) solutions Solver will consider in problems with integer constraints, and problems solved via the  **Evolutionary Solving** method. The value must be a positive integer.
+ **MaxIntegerSols** Optional **Variant**. The maximum number of feasible (or integer feasible) solutions Solver will consider in problems with integer constraints, and problems solved via the **Evolutionary Solving** method. The value must be a positive integer.
  
  **SolveWithout** Optional **Variant**.  **True** to have Solver ignore any integer constraints and solve the "relaxation" of the problem. **False** to have Solver use the integer constraints in solving the problem.
  
- **MaxTimeNoImp** Optional **Variant**. When the  **Evolutionary Solving** method is used, the maximum amount of time (in seconds) Solver will continue solving without finding significantly improved solutions to add to the population. The value must be a positive integer.
+ **MaxTimeNoImp** Optional **Variant**. When the **Evolutionary Solving** method is used, the maximum amount of time (in seconds) Solver will continue solving without finding significantly improved solutions to add to the population. The value must be a positive integer.
 
 ## Example
 
-This example sets the  **Precision** option to .001.
+This example sets the **Precision** option to .001.
 
 
 ```vb

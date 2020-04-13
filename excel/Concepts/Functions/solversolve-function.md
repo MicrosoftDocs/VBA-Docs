@@ -21,19 +21,19 @@ Begins a Solver solution run. Equivalent to clicking  **Solve** in the **Solver 
  **SolverSolve( _UserFinish_**,  **_ShowRef_)**
 
  **UserFinish** Optional **Variant**.  **True** to return the results without displaying the **Solver Results** dialog box. **False** or omitted to return the results and display the **Solver Results** dialog box.
- **ShowRef** Optional **Variant**. You can pass the name of a macro (as a string) as the  **_ShowRef_** argument. This macro is then called, in lieu of displaying the **Show Trial Solution** dialog box, whenever Solver pauses for any of the reasons listed below.The **_ShowRef_** macro must have the signature **Function  _name_ (Reason As Integer)**. The argument  **Reason** is an integer value from 1 to 5:
+ **ShowRef** Optional **Variant**. You can pass the name of a macro (as a string) as the **_ShowRef_** argument. This macro is then called, in lieu of displaying the **Show Trial Solution** dialog box, whenever Solver pauses for any of the reasons listed below.The **_ShowRef_** macro must have the signature **Function  _name_ (Reason As Integer)**. The argument  **Reason** is an integer value from 1 to 5:
 
-1. Function called (on every iteration) because the  **Show Iteration Results** box in the **Solver Options** dialog box was checked, or function called because the user pressed ESC to interrupt the Solver.
+1. Function called (on every iteration) because the **Show Iteration Results** box in the **Solver Options** dialog box was checked, or function called because the user pressed ESC to interrupt the Solver.
     
-2. Function called because the  **Max Time** limit in the **Solver Options** dialog box was exceeded.
+2. Function called because the **Max Time** limit in the **Solver Options** dialog box was exceeded.
     
-3. Function called because the  **Iterations** limit in the **Solver Options** dialog box was exceeded.
+3. Function called because the **Iterations** limit in the **Solver Options** dialog box was exceeded.
     
-4. Function called because the  **Maximum Subproblems** limit in the **Solver Options** dialog box was exceeded.
+4. Function called because the **Maximum Subproblems** limit in the **Solver Options** dialog box was exceeded.
     
-5. Function called because the  **Maximum Feasible Solutions** limit in the **Solver Options** dialog box was exceeded.
+5. Function called because the **Maximum Feasible Solutions** limit in the **Solver Options** dialog box was exceeded.
     
-The macro function must return 1 if Solver should stop (same as the  **Stop** button in the **Show Trial Solution** dialog box), or 0 if Solver should continue running (same as the **Continue** button).The **_ShowRef_** macro can inspect the current solution values on the worksheet, or take other actions such as saving or charting the intermediate values. However, it should not alter the values in the variable cells, or alter the formulas in the objective and constraint cells, as this could adversely affect the solution process.
+The macro function must return 1 if Solver should stop (same as the **Stop** button in the **Show Trial Solution** dialog box), or 0 if Solver should continue running (same as the **Continue** button).The **_ShowRef_** macro can inspect the current solution values on the worksheet, or take other actions such as saving or charting the intermediate values. However, it should not alter the values in the variable cells, or alter the formulas in the objective and constraint cells, as this could adversely affect the solution process.
 
 ## SolverSolve Return Value
 
@@ -65,7 +65,7 @@ If a Solver problem has not been completely defined,  **SolverSolve** returns th
 
 ## Example
 
-This example uses the Solver functions to maximize gross profit in a business problem. The  **SolverSolve** function begins the Solver solution run. Solver calls the function `ShowTrial` when any of the five conditions described above occurs; the function simply displays a message with the integer value 1 through 5.
+This example uses the Solver functions to maximize gross profit in a business problem. The **SolverSolve** function begins the Solver solution run. Solver calls the function `ShowTrial` when any of the five conditions described above occurs; the function simply displays a message with the integer value 1 through 5.
 
 
 ```vb

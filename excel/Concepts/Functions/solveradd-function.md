@@ -37,12 +37,12 @@ Adds a constraint to the current problem. Equivalent to clicking  **Solver** in 
 
 ## Remarks
 
-After constraints are added, you can manipulate them with the  **[SolverChange](solverchange-function.md)** and  **[SolverDelete](solverdelete-function.md)** functions.
+After constraints are added, you can manipulate them with the **[SolverChange](solverchange-function.md)** and  **[SolverDelete](solverdelete-function.md)** functions.
 
 
 ## Example
 
-This example uses the Solver functions to maximize gross profit in a business problem. The  **SolverAdd** function is used to add three constraints to the current problem.
+This example uses the Solver functions to maximize gross profit in a business problem. The **SolverAdd** function is used to add three constraints to the current problem.
 
 
 ```vb

@@ -44,7 +44,7 @@ To remove protection from the active document, use the  [Permission.RemoveAll](h
 
 ## Managing user access to an IRM-protected document
 
-To give permissions on the active document to a specified user, use the  **Permission.Add** method. The **Permission** property can be one or a combination of **msoPermission** constants from the following table.
+To give permissions on the active document to a specified user, use the **Permission.Add** method. The **Permission** property can be one or a combination of **msoPermission** constants from the following table.
 
 
 ****

@@ -59,7 +59,7 @@ Sub FormatSales()
 End Sub
 ```
 
-To select a named range, use the  **GoTo** method, which activates the workbook and the worksheet and then selects the range.
+To select a named range, use the **GoTo** method, which activates the workbook and the worksheet and then selects the range.
 
 ```vb
 Sub ClearRange() 

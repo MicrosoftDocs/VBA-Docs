@@ -14,9 +14,9 @@ localization_priority: Normal
 
 The following example adds and deletes the contents of a **[ListBox](../../../api/Outlook.listbox.md)** using the **[AddItem](../../../api/Outlook.listbox.additem.md)**, **[RemoveItem](../../../api/Outlook.listbox.removeitem.md)**, and **SetFocus** methods, and the **[ListIndex](../../../api/Outlook.listbox.listindex.md)** and **[ListCount](../../../api/Outlook.listbox.listcount.md)** properties.
 
- **Note**  The  **SetFocus** method is inherited from the Microsoft Forms 2.0 **ListBox** control.
+ **Note**  The **SetFocus** method is inherited from the Microsoft Forms 2.0 **ListBox** control.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
 - A  **ListBox** named ListBox1.
 

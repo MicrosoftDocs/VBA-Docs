@@ -20,11 +20,11 @@ Saves the Solver problem specifications on the worksheet.
 
  **SolverSave( _SaveArea_)**
 
- **SaveArea** Required **Variant**. The range of cells where the Solver model is to be saved. If this is a single-cell range, Solver uses as many cells as it needs to save the model, in a column starting with the specified cell. If this is a multi-cell range, Solver uses only cells within that range, even if the model cannot be entirely saved, The range represented by the  **_SaveArea_** argument can be on any worksheet, but you must specify the worksheet if it is not the active sheet. For example, `SolverSave("Sheet2!A1:A3")` saves the model on Sheet2 even if Sheet2 is not the active sheet.
+ **SaveArea** Required **Variant**. The range of cells where the Solver model is to be saved. If this is a single-cell range, Solver uses as many cells as it needs to save the model, in a column starting with the specified cell. If this is a multi-cell range, Solver uses only cells within that range, even if the model cannot be entirely saved, The range represented by the **_SaveArea_** argument can be on any worksheet, but you must specify the worksheet if it is not the active sheet. For example, `SolverSave("Sheet2!A1:A3")` saves the model on Sheet2 even if Sheet2 is not the active sheet.
 
 ## Example
 
-This example uses the Solver functions to maximize gross profit in a business problem. The  **SolverSave** function saves the current problem to a range on the active worksheet.
+This example uses the Solver functions to maximize gross profit in a business problem. The **SolverSave** function saves the current problem to a range on the active worksheet.
 
 
 ```vb

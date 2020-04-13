@@ -16,12 +16,12 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the  **Wait For Post Processing** property to specify that the form waits until processing of any operations (for example, running a macro) triggered by a user change to form data is complete before proceeding with the next operation.
+You can use the **Wait For Post Processing** property to specify that the form waits until processing of any operations (for example, running a macro) triggered by a user change to form data is complete before proceeding with the next operation.
 
 
 ## Setting
 
-The  **Wait For Post Processing** property uses the following settings.
+The **Wait For Post Processing** property uses the following settings.
 
 
 
