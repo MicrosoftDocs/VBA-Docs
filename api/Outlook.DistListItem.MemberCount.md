@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DistListItem.MemberCount property (Outlook)
 
-Returns a  **Long** indicating the number of members in a distribution list. Read-only.
+Returns a **Long** indicating the number of members in a distribution list. Read-only.
 
 
 ## Syntax

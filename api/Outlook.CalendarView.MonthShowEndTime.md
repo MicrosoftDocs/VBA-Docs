@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CalendarView.MonthShowEndTime property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether end times for Outlook items are displayed in the **[CalendarView](Outlook.CalendarView.md)** object. Read/write.
+Returns or sets a **Boolean** value that indicates whether end times for Outlook items are displayed in the **[CalendarView](Outlook.CalendarView.md)** object. Read/write.
 
 
 ## Syntax

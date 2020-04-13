@@ -12,8 +12,8 @@ localization_priority: Normal
 
 # Unable to create embedded object (Error 31032)
 
-The application that is creating the object can't create the object as specified in the  **SourceDoc** property.
+The application that is creating the object can't create the object as specified in the **SourceDoc** property.
 
-For example, this error occurs if you try to embed a spreadsheet object and  **SourceDoc** specifies a spreadsheet that is too large to be loaded by the spreadsheet application.
+For example, this error occurs if you try to embed a spreadsheet object and **SourceDoc** specifies a spreadsheet that is too large to be loaded by the spreadsheet application.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

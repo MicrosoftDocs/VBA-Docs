@@ -41,7 +41,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-To get a difference between two dates for a manually scheduled task, which uses an effective calendar that can include non-working time, use the  **[EffectiveDateDifference](Project.StartDriver.EffectiveDateDifference.md)** property.
+To get a difference between two dates for a manually scheduled task, which uses an effective calendar that can include non-working time, use the **[EffectiveDateDifference](Project.StartDriver.EffectiveDateDifference.md)** property.
 
 
 ## Example

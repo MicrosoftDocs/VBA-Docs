@@ -26,7 +26,7 @@ _expression_.**Assistance**
 
 ## Remarks
 
-The  **IAssistance** object exposes methods that allow developers to display Help topics in the Office Help Viewer or to display Help topics that ship with Microsoft Office in the PowerPoint Help window.
+The **IAssistance** object exposes methods that allow developers to display Help topics in the Office Help Viewer or to display Help topics that ship with Microsoft Office in the PowerPoint Help window.
 
 
 ## See also

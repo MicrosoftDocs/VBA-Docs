@@ -26,6 +26,6 @@ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 ## Remarks
 
-If no progress is entered on the task, the  **Resume** property is "NA".
+If no progress is entered on the task, the **Resume** property is "NA".
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

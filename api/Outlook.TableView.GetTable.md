@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableView.GetTable method (Outlook)
 
-Returns a  **[Table](Outlook.Table.md)** object that represents all of the Microsoft Outlook items that are contained in a **[TableView](Outlook.TableView.md)** object.
+Returns a **[Table](Outlook.Table.md)** object that represents all of the Microsoft Outlook items that are contained in a **[TableView](Outlook.TableView.md)** object.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ A  **Table** whose rows represent items in the current table view.
 
 ## Remarks
 
-The  **GetTable** method of the **TableView** object returns a table of items from one or more folders in the same store or spanning over multiple stores, in an aggregated view. For example, an aggregated view obtained by a search across all mail items by using Instant Search. This behavior differs from the **[GetTable](Outlook.Folder.GetTable.md)** method of the **[Folder](Outlook.Folder.md)** object, which obtains a table object that contains items from the same folder.
+The **GetTable** method of the **TableView** object returns a table of items from one or more folders in the same store or spanning over multiple stores, in an aggregated view. For example, an aggregated view obtained by a search across all mail items by using Instant Search. This behavior differs from the **[GetTable](Outlook.Folder.GetTable.md)** method of the **[Folder](Outlook.Folder.md)** object, which obtains a table object that contains items from the same folder.
 
  The parent **TableView** object must be based on the current folder of the active explorer, as indicated by the **[CurrentFolder](Outlook.Explorer.CurrentFolder.md)** property of the active **[Explorer](Outlook.Explorer.md)** object. If the folder is not a current folder of a visible explorer, or if the view of that folder, which is indicated by the **[Folder.CurrentView](Outlook.Folder.CurrentView.md)** property, is not a table view, Outlook returns an error.
 
@@ -48,7 +48,7 @@ The parent object of the  **Table** object returned by **GetTable** is the **Tab
 
 The following managed code is written in C#. To run a .NET Framework managed code sample that needs to call into a Component Object Model (COM), you must use an interop assembly that defines and maps managed interfaces to the COM objects in the object model type library. For Outlook, you can use Visual Studio and the Outlook Primary Interop Assembly (PIA). Before you run managed code samples for Outlook 2013, ensure that you have installed the Outlook 2013 PIA and have added a reference to the Microsoft Outlook 15.0 Object Library component in Visual Studio. You should use the following code in the  `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`. For more information about using the Outlook PIA to develop managed Outlook solutions, see the  **Welcome to the Outlook Primary Interop Assembly Reference** on MSDN.
 
-The following code example obtains a  **Table** object from the current view of the Inbox folder. The code sample sets the current folder of the active explorer to the Inbox, and then checks that the current view of the Inbox is a table view. After assuring these two conditions, the code sample calls the **TableView.GetTable** method and displays each item represented by each row in the returned **Table**.
+The following code example obtains a **Table** object from the current view of the Inbox folder. The code sample sets the current folder of the active explorer to the Inbox, and then checks that the current view of the Inbox is a table view. After assuring these two conditions, the code sample calls the **TableView.GetTable** method and displays each item represented by each row in the returned **Table**.
 
 
 

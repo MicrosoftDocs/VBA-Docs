@@ -12,13 +12,13 @@ localization_priority: Normal
 
 # Can't call Friend procedure on an object that isn't an instance of the defining class (Error 97)
 
-A  **Friend** procedure is callable from a [module](../../Glossary/vbe-glossary.md#module) that is outside the [class](../../Glossary/vbe-glossary.md#class), but part of the [project](../../Glossary/vbe-glossary.md#project) within which the class is defined. This error has the following causes and solutions:
+A **Friend** procedure is callable from a [module](../../Glossary/vbe-glossary.md#module) that is outside the [class](../../Glossary/vbe-glossary.md#class), but part of the [project](../../Glossary/vbe-glossary.md#project) within which the class is defined. This error has the following causes and solutions:
 
 
 
-- You tried to call the  **Friend** procedure of a class. Although your reference variable is of the proper type, the variable points to an instance that isn't an instance of the class. For example, this can occur if there are two classes, class _ics_ and class _y_ (that implements class _y_ ), but you mistakenly assign the instance of _classy_ to the instance of class _ics_.
+- You tried to call the **Friend** procedure of a class. Although your reference variable is of the proper type, the variable points to an instance that isn't an instance of the class. For example, this can occur if there are two classes, class _ics_ and class _y_ (that implements class _y_ ), but you mistakenly assign the instance of _classy_ to the instance of class _ics_.
     
-- You tried to access a  **Friend** property or method either cross-process or cross-thread. Friend procedures are not part of a class's public interface, so they cannot be marshaled cross-process or cross-thread.
+- You tried to access a **Friend** property or method either cross-process or cross-thread. Friend procedures are not part of a class's public interface, so they cannot be marshaled cross-process or cross-thread.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

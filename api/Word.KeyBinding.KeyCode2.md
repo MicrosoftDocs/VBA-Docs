@@ -26,7 +26,7 @@ _expression_. `KeyCode2`
 
 ## Example
 
-This example displays the key codes of each key in the  **KeyBindings** collection (the collection of all the customized keys in the active document).
+This example displays the key codes of each key in the **KeyBindings** collection (the collection of all the customized keys in the active document).
 
 
 ```vb

@@ -39,7 +39,7 @@ Nothing
 
 ## Remarks
 
-Use the  **[ZOrderPosition](Word.ShapeRange.ZOrderPosition.md)** property to determine a shape range's current position in the z-order.
+Use the **[ZOrderPosition](Word.ShapeRange.ZOrderPosition.md)** property to determine a shape range's current position in the z-order.
 
 
 ## See also

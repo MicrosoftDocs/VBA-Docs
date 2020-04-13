@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Folders](Outlook.Folders.md) object.
 
 ## Remarks
 
-The  **FolderChange** event fires when a folder in a **Folders** collection object is changed, either through user action or program code. The change can be a user or program code renaming the folder, or adding, changing, or removing an item in the folder. This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
+The **FolderChange** event fires when a folder in a **Folders** collection object is changed, either through user action or program code. The change can be a user or program code renaming the folder, or adding, changing, or removing an item in the folder. This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
 
 ## Example

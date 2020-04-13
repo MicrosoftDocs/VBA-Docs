@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Document](Word.Document.md)** objec
 
 ## Remarks
 
-Use the  **[SetPasswordEncryptionOptions](Word.Document.SetPasswordEncryptionOptions.md)** method to specify whether Word encrypts file properties for password-protected documents.
+Use the **[SetPasswordEncryptionOptions](Word.Document.SetPasswordEncryptionOptions.md)** method to specify whether Word encrypts file properties for password-protected documents.
 
 
 ## Example

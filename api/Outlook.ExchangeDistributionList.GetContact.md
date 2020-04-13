@@ -31,7 +31,7 @@ _expression_ A variable that represents an [ExchangeDistributionList](Outlook.Ex
 
 ## Remarks
 
-The  **ExchangeDistributionList** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **GetContact** method from the **AddressEntry** object, and in the case of **ExchangeDistributionList**, this method always returns **Null**.
+The **ExchangeDistributionList** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **GetContact** method from the **AddressEntry** object, and in the case of **ExchangeDistributionList**, this method always returns **Null**.
 
 
 ## See also

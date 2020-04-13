@@ -23,6 +23,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-For a code example that uses the  **Task** object, see the **[Resources](Project.Task.Resources.md)** property.
+For a code example that uses the **Task** object, see the **[Resources](Project.Task.Resources.md)** property.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

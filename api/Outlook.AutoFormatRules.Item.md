@@ -34,7 +34,7 @@ _expression_ A variable that represents an [AutoFormatRules](Outlook.AutoFormatR
 
 ## Return value
 
-An  **AutoFormatRule** object that represents the specified object.
+An **AutoFormatRule** object that represents the specified object.
 
 
 ## See also

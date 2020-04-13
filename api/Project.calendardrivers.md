@@ -9,17 +9,17 @@ localization_priority: Normal
 
 # CalendarDrivers object (Project)
 
-The  **CalendarDrivers** object is a collection of **[Resource](Project.Resource.md)** objects that affect the task start date.
+The **CalendarDrivers** object is a collection of **[Resource](Project.Resource.md)** objects that affect the task start date.
  
 
 
 ## Remarks
 
-The  **CalendarDrivers** collection supports the Task Drivers feature in Project.
+The **CalendarDrivers** collection supports the Task Drivers feature in Project.
  
 
  
-Use the  **[Item](Project.CalendarDrivers.Item.md)** property to get a single resource from **CalendarDrivers** collection.
+Use the **[Item](Project.CalendarDrivers.Item.md)** property to get a single resource from **CalendarDrivers** collection.
  
 
  

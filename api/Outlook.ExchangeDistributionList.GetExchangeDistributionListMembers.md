@@ -26,7 +26,7 @@ _expression_ A variable that represents an [ExchangeDistributionList](Outlook.Ex
 
 ## Return value
 
-An  **AddressEntries** collection that contains **[AddressEntry](Outlook.AddressEntry.md)** objects that represent members belonging to the distribution list.
+An **AddressEntries** collection that contains **[AddressEntry](Outlook.AddressEntry.md)** objects that represent members belonging to the distribution list.
 
 
 ## See also

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Project object (Project)
 
-Represents one project in the set of open projects. The  **Project** object is a member of the **[Projects](Project.projects.md)** collection.
+Represents one project in the set of open projects. The **Project** object is a member of the **[Projects](Project.projects.md)** collection.
 
 
 ## Events

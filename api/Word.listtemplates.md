@@ -14,7 +14,7 @@ A collection of  **[ListTemplate](Word.listTemplate.md)** objects in a document,
 
 ## Remarks
 
-Use the  **ListTemplates** property with a [Document](Word.Document.md), [ListGallery](Word.ListGallery.md), or [Template](Word.Template.md) object to return a **ListTemplates** collection. With a ListGallery object, the ListTemplates collection is the seven list formats for bulleted lists, numbered lists, and outline numbered lists. 
+Use the **ListTemplates** property with a [Document](Word.Document.md), [ListGallery](Word.ListGallery.md), or [Template](Word.Template.md) object to return a **ListTemplates** collection. With a ListGallery object, the ListTemplates collection is the seven list formats for bulleted lists, numbered lists, and outline numbered lists. 
  
 The following example displays a message with the level status (single or multiple-level) for each list template in the active document.
 
@@ -26,7 +26,7 @@ For Each lt In ActiveDocument.ListTemplates
 Next lt
 ```
 
-Use the  **Add** method to add a list template to the collection in the specified document or template. The following example adds a new list template to the active document and applies it to the selection.
+Use the **Add** method to add a list template to the collection in the specified document or template. The following example adds a new list template to the active document and applies it to the selection.
 
 
 
@@ -58,11 +58,11 @@ Selection.Range.ListFormat.ApplyListTemplate ListTemplate:=mylt
 >> [!NOTE] 
 > Some properties and methods —  **Convert** and **Add**, for example — won't work with the list templates in a list gallery. You can modify those list templates, but you cannot change their list gallery type (**wdBulletGallery**, **wdNumberGallery**, or **wdOutlineNumberGallery**).
 
-To see whether a list template in a list gallery contains the formatting built into Word, use the  **[Modified](Word.ListGallery.Modified.md)** property with the **ListGallery** object. To reset formatting to the original list format, use the **[Reset](Word.ListGallery.Reset.md)** method for the **ListGallery** object.
+To see whether a list template in a list gallery contains the formatting built into Word, use the **[Modified](Word.ListGallery.Modified.md)** property with the **ListGallery** object. To reset formatting to the original list format, use the **[Reset](Word.ListGallery.Reset.md)** method for the **ListGallery** object.
 
 After you have returned a  **[ListTemplate](Word.listTemplate.md)** object, use **ListLevels** (Index), where Index is a number from 1 through 9, to return a single **ListLevel** object. With a **ListLevel** object, you have access to all the formatting properties for the specified list level, such as **Alignment**, **Font**, **NumberFormat**, **NumberPosition**, **NumberStyle**, and **TrailingCharacter**.
 
-Use the  **Convert** method to convert a multiple-level list template to a single-level template.
+Use the **Convert** method to convert a multiple-level list template to a single-level template.
 
 
 ## See also

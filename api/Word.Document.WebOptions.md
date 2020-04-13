@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.WebOptions property (Word)
 
-Returns the  **[WebOptions](Word.WebOptions.md)** object, which contains document-level attributes used by Microsoft Word when you save a document as a webpage or open a webpage. Read-only.
+Returns the **[WebOptions](Word.WebOptions.md)** object, which contains document-level attributes used by Microsoft Word when you save a document as a webpage or open a webpage. Read-only.
 
 
 ## Syntax

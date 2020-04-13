@@ -30,7 +30,7 @@ This property returns a  **[Range](Word.Range.md)** object with the character fo
 
 
 
-When you set this property, the text in the range is replaced with formatted text. If you don't want to replace the existing text, use the  **Collapse** method before using this property (see the first example).
+When you set this property, the text in the range is replaced with formatted text. If you don't want to replace the existing text, use the **Collapse** method before using this property (see the first example).
 
 
 

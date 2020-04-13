@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ResourceMappingDialog method (Project)
 
-Displays the  **Map Project Resources onto Enterprise Resources** dialog box, for importing local resources to Project Server.
+Displays the **Map Project Resources onto Enterprise Resources** dialog box, for importing local resources to Project Server.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-To use the  **ResourceMappingDialog** method, a local project must be open and active. If an enterprise project is active, using the **ResourceMappingDialog** method results in the run-time error 1100.
+To use the **ResourceMappingDialog** method, a local project must be open and active. If an enterprise project is active, using the **ResourceMappingDialog** method results in the run-time error 1100.
 
 You can use  **ResourceMappingDialog** to avoid the extra step of opening a project with the **[EnterpriseResourcesImportEx](Project.Application.EnterpriseResourcesImportEx.md)** method or by using the **Import Resources to Enterprise** command on the **Add Resources** drop-down menu of the **Resource** tab in the Ribbon.
 

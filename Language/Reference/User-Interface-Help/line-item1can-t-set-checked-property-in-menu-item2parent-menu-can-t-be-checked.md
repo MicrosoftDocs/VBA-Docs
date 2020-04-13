@@ -12,6 +12,6 @@ localization_priority: Normal
 
 # Line 'item1': Can't set checked property in menu 'item2'. Parent menu can't be checked.
 
-A top-level  **Menu** control appeared in the ASCII form file with its **Checked** property set to **True**. Top-level menus can't be checked. The **Menu** control will be loaded, but its **Checked** property won't be set.
+A top-level **Menu** control appeared in the ASCII form file with its **Checked** property set to **True**. Top-level menus can't be checked. The **Menu** control will be loaded, but its **Checked** property won't be set.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraph
 
 ## Remarks
 
-Some of the  **WdParagraphAlignment** constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
+Some of the **WdParagraphAlignment** constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
 
 ## See also

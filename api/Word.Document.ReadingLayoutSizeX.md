@@ -26,7 +26,7 @@ _expression_. `ReadingLayoutSizeX`
 
 ## Remarks
 
-After setting the  **ReadingLayoutSizeX** and **[ReadingLayoutSizeY](Word.Document.ReadingLayoutSizeY.md)** properties, use the **[ReadingModeLayoutFrozen](Word.Document.ReadingModeLayoutFrozen.md)** property to display the page using the specified height and width. Use the **[ReadingLayout](Word.View.ReadingLayout.md)** property to display a document in reading layout view.
+After setting the **ReadingLayoutSizeX** and **[ReadingLayoutSizeY](Word.Document.ReadingLayoutSizeY.md)** properties, use the **[ReadingModeLayoutFrozen](Word.Document.ReadingModeLayoutFrozen.md)** property to display the page using the specified height and width. Use the **[ReadingLayout](Word.View.ReadingLayout.md)** property to display a document in reading layout view.
 
 
 ## Example

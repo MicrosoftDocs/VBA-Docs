@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Presentation.Coauthoring property (PowerPoint)
 
-Returns a  **Coauthoring** object in the current **Presentation** object. Read-only.
+Returns a **Coauthoring** object in the current **Presentation** object. Read-only.
 
 
 ## Syntax

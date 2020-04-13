@@ -18,7 +18,7 @@ A Microsoft Outlook add-in that customizes the ribbon, shortcut menus, new-item 
     
 
 In Visual C# and Visual Basic add-ins, you must implement these interfaces in the same class.
-When you implement **ffice.IRibbonExtensibility**, use the  **ibbonExtensibility.GetCustomUI** method to return XML markup for your custom user interface to Outlook. The way that Outlook calls **GetCustomUI** and when it calls it is unique among Microsoft Office applications:
+When you implement **ffice.IRibbonExtensibility**, use the **ibbonExtensibility.GetCustomUI** method to return XML markup for your custom user interface to Outlook. The way that Outlook calls **GetCustomUI** and when it calls it is unique among Microsoft Office applications:
 
 - Office calls **etCustomUI** during Outlook startup to load ribbon customizations for the explorers.
     
@@ -27,7 +27,7 @@ When you implement **ffice.IRibbonExtensibility**, use the  **ibbonExtensibility
 - Viewing an item in the Reading Pane does not cause **etCustomUI** to be called because the ribbon is not displayed in the Reading Pane.
     
 The ribbon ID is a string that is passed from Office to **etCustomUI** and that specifies the UI customization to load. Add-in developers can use this string to determine the custom XML markup to return to Outlook. You can also use the ribbon ID to determine the type of Outlook item to display.
-In some cases, such as a **MailItem](../../../api/Outlook.MailItem.md)** or **[PostItem](../../../api/Outlook.PostItem.md)**, Outlook calls  **tCustomUI** once when the first compose note is displayed (where `RibbonID = Microsoft.Outlook.Mail.Compose`) and another time when the first read note is displayed (where  `RibbonID = Microsoft.Outlook.Mail.Read`).
+In some cases, such as a **MailItem](../../../api/Outlook.MailItem.md)** or **[PostItem](../../../api/Outlook.PostItem.md)**, Outlook calls **tCustomUI** once when the first compose note is displayed (where `RibbonID = Microsoft.Outlook.Mail.Compose`) and another time when the first read note is displayed (where  `RibbonID = Microsoft.Outlook.Mail.Read`).
 Outlook uses the following unique ribbon IDs.
 
 

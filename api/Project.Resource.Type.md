@@ -23,6 +23,6 @@ _expression_ A variable that represents a [Resource](./Project.Resource.md) obje
 
 ## Remarks
 
-The  **Type** property can be one of the following **[PjResourceTypes](Project.PjResourceTypes.md)** constants: **pjResourceTypeWork**, **pjResourceTypeMaterial**, or **pjResourceTypeCost**.
+The **Type** property can be one of the following **[PjResourceTypes](Project.PjResourceTypes.md)** constants: **pjResourceTypeWork**, **pjResourceTypeMaterial**, or **pjResourceTypeCost**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

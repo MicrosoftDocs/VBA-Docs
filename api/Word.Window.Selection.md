@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.Selection property (Word)
 
-Returns the  **Selection** object that represents a selected range or the insertion point. Read-only.
+Returns the **Selection** object that represents a selected range or the insertion point. Read-only.
 
 
 ## Syntax

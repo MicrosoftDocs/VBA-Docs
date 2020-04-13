@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DistListItem.ReminderOverrideDefault property (Outlook)
 
-Returns or sets a  **Boolean** value that is **True** if the reminder overrides the default reminder behavior for the item. Read/write.
+Returns or sets a **Boolean** value that is **True** if the reminder overrides the default reminder behavior for the item. Read/write.
 
 
 ## Syntax

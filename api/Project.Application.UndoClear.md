@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.UndoClear method (Project)
 
-Clears the  **Undo** list.
+Clears the **Undo** list.
 
 
 ## Syntax

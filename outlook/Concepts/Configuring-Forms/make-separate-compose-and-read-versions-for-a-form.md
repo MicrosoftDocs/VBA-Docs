@@ -27,9 +27,9 @@ For more information, see [How to: Create Separate Read and Compose Pages Using 
 
 1. In Forms Designer, on the **eveloper** tab, in the **Form** group, do one of the following:
     
-      - To create or edit the compose page, click **age**, then click  **it Compose Page**.
+      - To create or edit the compose page, click **age**, then click **it Compose Page**.
     
-  - To create or edit the read page, click **age**, then click  **it Read Page**.
+  - To create or edit the read page, click **age**, then click **it Read Page**.
     
 2. Customize pages on the form.
     

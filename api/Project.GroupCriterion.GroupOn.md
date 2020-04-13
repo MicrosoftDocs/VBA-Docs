@@ -23,7 +23,7 @@ _expression_ A variable that represents an [GroupCriterion](./Project.GroupCrite
 
 ## Remarks
 
-The  **GroupOn** property can be one of the **[PjGroupOn](Project.PjGroupOn.md)** constants.
+The **GroupOn** property can be one of the **[PjGroupOn](Project.PjGroupOn.md)** constants.
 
 
 ## Example

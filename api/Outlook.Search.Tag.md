@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Search.Tag property (Outlook)
 
-Returns a  **String** specifying the name of the current search. The **Tag** property is used to identify a specific search. Read-only.
+Returns a **String** specifying the name of the current search. The **Tag** property is used to identify a specific search. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Search](Outlook.Search.md) object.
 
 ## Remarks
 
-The  **Tag** property is set by using the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method when the **[Search](Outlook.Search.md)** object is created.
+The **Tag** property is set by using the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method when the **[Search](Outlook.Search.md)** object is created.
 
 
 ## Example

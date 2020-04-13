@@ -31,7 +31,7 @@ MsoBevelType
 
 ## Remarks
 
-The  **BevelBottomType** property value can be one of the **[MsoBevelType](Office.MsoBevelType.md)** constants.
+The **BevelBottomType** property value can be one of the **[MsoBevelType](Office.MsoBevelType.md)** constants.
 
 
 ## See also

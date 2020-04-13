@@ -46,6 +46,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Using the  **FilePageSetupView** method without specifying any arguments displays the **Page Setup** dialog box with the **View** tab selected.The **FilePageSetupView** method is not available when the Calendar is the active view.
+Using the **FilePageSetupView** method without specifying any arguments displays the **Page Setup** dialog box with the **View** tab selected.The **FilePageSetupView** method is not available when the Calendar is the active view.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

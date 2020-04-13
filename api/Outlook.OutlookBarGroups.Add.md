@@ -35,7 +35,7 @@ _expression_ A variable that represents an [OutlookBarGroups](Outlook.OutlookBar
 
 ## Return value
 
-An  **[OutlookBarGroup](Outlook.OutlookBarGroup.md)** object that represents the new group.
+An **[OutlookBarGroup](Outlook.OutlookBarGroup.md)** object that represents the new group.
 
 
 ## Example

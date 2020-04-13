@@ -26,7 +26,7 @@ _expression_. `TopRelative`
 
 ## Remarks
 
-Use this property with the  **[RelativeVerticalPosition](Word.ShapeRange.RelativeVerticalPosition.md)** property. When set to **wdShapePositionRelativeNone** (-999999) (see the **[WdShapePositionRelative](Word.WdShapePositionRelative.md)** enumeration), this property should be ignored because the shape does not use percent positioning. The vertical position is solely determined by the **[Top](Word.ShapeRange.Top.md)** property.
+Use this property with the **[RelativeVerticalPosition](Word.ShapeRange.RelativeVerticalPosition.md)** property. When set to **wdShapePositionRelativeNone** (-999999) (see the **[WdShapePositionRelative](Word.WdShapePositionRelative.md)** enumeration), this property should be ignored because the shape does not use percent positioning. The vertical position is solely determined by the **[Top](Word.ShapeRange.Top.md)** property.
 
 
 ## See also

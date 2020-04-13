@@ -15,7 +15,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-This is a security problem. You tried to establish a user account using a name that already exists. Check the  **Users** collection to see if the user name already exists, or try again using a different user name.
+This is a security problem. You tried to establish a user account using a name that already exists. Check the **Users** collection to see if the user name already exists, or try again using a different user name.
 
 ## See also
 

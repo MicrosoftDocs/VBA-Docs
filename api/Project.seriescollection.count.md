@@ -19,7 +19,7 @@ _expression_ A variable that represents a 'SeriesCollection' object.
 
 ## Remarks
 
-For an example that uses the  **SeriesCollection.Count** property, see the [SeriesCollection](Project.seriescollection.md) object.
+For an example that uses the **SeriesCollection.Count** property, see the [SeriesCollection](Project.seriescollection.md) object.
 
 
 ## See also

@@ -23,7 +23,7 @@ _expression_. `Working`
 
 ## Remarks
 
-For an example that uses the  **Month** object, see **[Working](Project.Month.Working.md)**.
+For an example that uses the **Month** object, see **[Working](Project.Month.Working.md)**.
 
 
 ## See also

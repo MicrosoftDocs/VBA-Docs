@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.Account property (Outlook)
 
-Returns or sets a  **String** representing the account for the contact. Read/write.
+Returns or sets a **String** representing the account for the contact. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathMatCols object (Word)
 
-Represents a collection of matrix columns. Use the  **OMathMatCol** object to access individual members of the collection.
+Represents a collection of matrix columns. Use the **OMathMatCol** object to access individual members of the collection.
 
 
 ## See also

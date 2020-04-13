@@ -31,14 +31,14 @@ For information about returning a single member of a collection, see [Returning 
 
 ## Example
 
-This example opens the first item in the  **RecentFiles** collection (the first document name listed on the **File** menu).
+This example opens the first item in the **RecentFiles** collection (the first document name listed on the **File** menu).
 
 
 ```vb
 If RecentFiles.Count >= 1 Then RecentFiles(1).Open
 ```
 
-This example displays the name of each file in the  **RecentFiles** collection.
+This example displays the name of each file in the **RecentFiles** collection.
 
 
 

@@ -23,6 +23,6 @@ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 ## Remarks
 
-You can set the  **LevelingCanSplit** property for all tasks in the **Resource Leveling** dialog box. To access the setting, click **Leveling Options** on the **Resource** tab of the Ribbon, and then click **Leveling can create splits in remaining work**.
+You can set the **LevelingCanSplit** property for all tasks in the **Resource Leveling** dialog box. To access the setting, click **Leveling Options** on the **Resource** tab of the Ribbon, and then click **Leveling can create splits in remaining work**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

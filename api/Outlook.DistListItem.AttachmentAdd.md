@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Attachment_|Required| **[Attachment](Outlook.Attachment.md)**|The  **Attachment** that was added to the item.|
+| _Attachment_|Required| **[Attachment](Outlook.Attachment.md)**|The **Attachment** that was added to the item.|
 
 ## See also
 

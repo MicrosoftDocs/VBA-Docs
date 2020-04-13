@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[PageSetup](Word.PageSetup.md)** obj
 
 ## Example
 
-This example displays the distance between the header and the top of the page. The  **[PointsToInches](Word.Global.PointsToInches.md)** method is used to convert points to inches.
+This example displays the distance between the header and the top of the page. The **[PointsToInches](Word.Global.PointsToInches.md)** method is used to convert points to inches.
 
 
 ```vb

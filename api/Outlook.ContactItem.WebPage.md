@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.WebPage property (Outlook)
 
-Returns or sets a  **String** indicating the URL of the webpage for the contact. Read/write.
+Returns or sets a **String** indicating the URL of the webpage for the contact. Read/write.
 
 
 ## Syntax

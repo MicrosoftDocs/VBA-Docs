@@ -26,9 +26,9 @@ _expression_ A variable that represents a **[Range](Word.Range.md)** object.
 
 ## Remarks
 
-To recheck the spelling in a range or document, set the  **SpellingChecked** property to **False**.
+To recheck the spelling in a range or document, set the **SpellingChecked** property to **False**.
 
-To see whether the range or document contains spelling errors, use the  **SpellingErrors** property.
+To see whether the range or document contains spelling errors, use the **SpellingErrors** property.
 
 
 ## Example

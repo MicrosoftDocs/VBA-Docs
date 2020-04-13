@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # HeaderFooter object (Word)
 
-Represents a single header or footer. The  **HeaderFooter** object is a member of the **[HeadersFooters](Word.headersfooters.md)** collection. The **HeadersFooters** collection includes all headers and footers in the specified document section.
+Represents a single header or footer. The **HeaderFooter** object is a member of the **[HeadersFooters](Word.headersfooters.md)** collection. The **HeadersFooters** collection includes all headers and footers in the specified document section.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ You can also return a single  **HeaderFooter** object by using the **HeaderFoote
 > [!NOTE] 
 > You cannot add  **HeaderFooter** objects to the **[HeadersFooters](Word.headersfooters.md)** collection.
 
-Use the  **DifferentFirstPageHeaderFooter** property with the **PageSetup** object to specify a different first page. The following example inserts text into the first page footer in the active document.
+Use the **DifferentFirstPageHeaderFooter** property with the **PageSetup** object to specify a different first page. The following example inserts text into the first page footer in the active document.
 
 
 
@@ -46,9 +46,9 @@ With ActiveDocument
 End With
 ```
 
-Use the  **OddAndEvenPagesHeaderFooter** property with the **PageSetup** object to specify different odd and even page headers and footers. If the **OddAndEvenPagesHeaderFooter** property is **True**, you can return an odd header or footer by using **wdHeaderFooterPrimary**, and you can return an even header or footer by using **wdHeaderFooterEvenPages**.
+Use the **OddAndEvenPagesHeaderFooter** property with the **PageSetup** object to specify different odd and even page headers and footers. If the **OddAndEvenPagesHeaderFooter** property is **True**, you can return an odd header or footer by using **wdHeaderFooterPrimary**, and you can return an even header or footer by using **wdHeaderFooterEvenPages**.
 
-Use the  **Add** method with the **PageNumbers** object to add a page number to a header or footer. The following example adds page numbers to the primary footer in the first section of the active document.
+Use the **Add** method with the **PageNumbers** object to add a page number to a header or footer. The following example adds page numbers to the primary footer in the first section of the active document.
 
 
 

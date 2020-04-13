@@ -37,7 +37,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **HighlightDrivenSuccessors** method corresponds to the **Driven Successors** item in the **Task Path** drop-down list, on the **FORMAT** tab, under **GANTT CHART TOOLS** on the ribbon.
+The **HighlightDrivenSuccessors** method corresponds to the **Driven Successors** item in the **Task Path** drop-down list, on the **FORMAT** tab, under **GANTT CHART TOOLS** on the ribbon.
 
 
 ## Example

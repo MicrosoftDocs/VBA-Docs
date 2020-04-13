@@ -19,9 +19,9 @@ Represents the chart title.
 
 ## Remarks
 
-Use the  **[ChartTitle](Word.Chart.ChartTitle.md)** property to return the **ChartTitle** object.
+Use the **[ChartTitle](Word.Chart.ChartTitle.md)** property to return the **ChartTitle** object.
 
-The  **ChartTitle** object does not exist and cannot be used unless the **[HasTitle](Word.Chart.HasTitle.md)** property for the chart is **True**.
+The **ChartTitle** object does not exist and cannot be used unless the **[HasTitle](Word.Chart.HasTitle.md)** property for the chart is **True**.
 
 
 ## Example

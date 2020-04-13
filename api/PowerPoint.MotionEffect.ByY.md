@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MotionEffect.ByY property (PowerPoint)
 
-Sets or returns a  **Single** that represents scaling or moving an object VERTICALLY by a specified percentage of the screen width, depending on whether it is used in conjunction with a **[ScaleEffect](PowerPoint.ScaleEffect.md)** or **[MotionEffect](PowerPoint.MotionEffect.md)** object, respectively. Read/write.
+Sets or returns a **Single** that represents scaling or moving an object VERTICALLY by a specified percentage of the screen width, depending on whether it is used in conjunction with a **[ScaleEffect](PowerPoint.ScaleEffect.md)** or **[MotionEffect](PowerPoint.MotionEffect.md)** object, respectively. Read/write.
 
 
 ## Syntax

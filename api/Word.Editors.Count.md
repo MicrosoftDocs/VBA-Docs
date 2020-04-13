@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Editors.Count property (Word)
 
-Returns a the  **Long** that represents the number of Editor objects in the collection. Read-only.
+Returns a the **Long** that represents the number of Editor objects in the collection. Read-only.
 
 
 ## Syntax

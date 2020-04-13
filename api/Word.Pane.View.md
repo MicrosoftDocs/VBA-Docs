@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Pane](Word.Pane.md)' objec
 
 ## Example
 
-This example shows all nonprinting characters for panes associated with the first window in the  **Windows** collection.
+This example shows all nonprinting characters for panes associated with the first window in the **Windows** collection.
 
 
 ```vb

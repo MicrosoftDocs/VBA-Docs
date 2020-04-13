@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Project.Open event (Project)
 
-Occurs when the project opens, but before the  **Activate** event.
+Occurs when the project opens, but before the **Activate** event.
 
 
 ## Syntax

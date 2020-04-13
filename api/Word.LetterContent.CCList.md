@@ -33,7 +33,7 @@ This example displays the CC list text for the active document.
 MsgBox ActiveDocument.GetLetterContent.CCList
 ```
 
-This example creates a new  **LetterContent** object, sets the courtesy copies by setting the CClist property, and then runs the Letter Wizard by using the **[RunLetterWizard](Word.Document.RunLetterWizard.md)** method.
+This example creates a new **LetterContent** object, sets the courtesy copies by setting the CClist property, and then runs the Letter Wizard by using the **[RunLetterWizard](Word.Document.RunLetterWizard.md)** method.
 
 
 

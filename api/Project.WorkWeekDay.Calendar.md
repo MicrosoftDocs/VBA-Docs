@@ -23,7 +23,7 @@ _expression_. `Calendar`
 
 ## Remarks
 
-For an example that resets the project calendar, see the  **[Calendar](Project.Project.Calendar.md)** property of the **Project** object.
+For an example that resets the project calendar, see the **[Calendar](Project.Project.Calendar.md)** property of the **Project** object.
 
 
 ## See also

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AutoFormatRule object (Outlook)
 
-Represents a formatting rule used by a  **[View](Outlook.View.md)** object to determine how to format Outlook items displayed within that view.
+Represents a formatting rule used by a **[View](Outlook.View.md)** object to determine how to format Outlook items displayed within that view.
 
 
 ## Remarks

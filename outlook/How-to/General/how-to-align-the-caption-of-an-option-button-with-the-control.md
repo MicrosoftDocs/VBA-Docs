@@ -18,7 +18,7 @@ To use this example, copy this sample code to the Script Editor of a form. To ru
 
 - Two **OptionButton** controls named OptionButton1 and OptionButton2.
 
-- A  **ToggleButton** named ToggleButton1.
+- A **ToggleButton** named ToggleButton1.
 
 ```vb
 Dim OptionButton1 

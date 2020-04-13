@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Sources.Count property (Word)
 
-Returns the number of items in the  **Sources** collection. Read-only **Long**.
+Returns the number of items in the **Sources** collection. Read-only **Long**.
 
 
 ## Syntax

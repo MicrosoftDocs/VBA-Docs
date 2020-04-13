@@ -31,7 +31,7 @@ DocumentInspectors
 
 ## Remarks
 
-The Document Inspector is a feature that helps you to examine and remove sensitive information in a document. The  **DocumentInspector** object makes it possible to create custom modules. For more information about working with the Document Inspector, see [Using the Document Inspector](https://msdn.microsoft.com/library/ff862071.aspx%28Office.15%29.aspx).
+The Document Inspector is a feature that helps you to examine and remove sensitive information in a document. The **DocumentInspector** object makes it possible to create custom modules. For more information about working with the Document Inspector, see [Using the Document Inspector](https://msdn.microsoft.com/library/ff862071.aspx%28Office.15%29.aspx).
 
 
 ## See also

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CardView.MultiLineFieldHeight property (Outlook)
 
-Returns or sets a  **Long** value that determines the minimum number of lines for multiline fields displayed in the **[CardView](Outlook.CardView.md)** object. Read/write.
+Returns or sets a **Long** value that determines the minimum number of lines for multiline fields displayed in the **[CardView](Outlook.CardView.md)** object. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimeZone.StandardDate property (Outlook)
 
-Returns a  **Date** value that represents the date and time in this time zone when time changes over to standard time. Read-only.
+Returns a **Date** value that represents the date and time in this time zone when time changes over to standard time. Read-only.
 
 
 ## Syntax

@@ -23,7 +23,7 @@ _expression_ A variable that represents an [Exception](./Project.Exception.md) o
 
 ## Remarks
 
-The  **Month** property can be one of the **[PjMonth](Project.PjMonth.md)** constants. The defauilt is **pjJanuary**.
+The **Month** property can be one of the **[PjMonth](Project.PjMonth.md)** constants. The defauilt is **pjJanuary**.
 
 
 ## See also

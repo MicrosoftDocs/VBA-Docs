@@ -19,7 +19,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Remarks
 
-The value of the  **Perspective** property must be between 0 and 100. **Perspective** is ignored if the [RightAngleAxes](Project.chart.rightangleaxes.md) property is **True**.
+The value of the **Perspective** property must be between 0 and 100. **Perspective** is ignored if the [RightAngleAxes](Project.chart.rightangleaxes.md) property is **True**.
 
 
 ## Example

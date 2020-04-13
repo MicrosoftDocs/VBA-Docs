@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # TextBox.Value Property (Outlook Forms Script)
 
-Returns or sets a  **Variant** that specifies text in the edit region. Read/write.
+Returns or sets a **Variant** that specifies text in the edit region. Read/write.
 
 
 ## Syntax
 
 _expression_.**Value**
 
-_expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a **TextBox** object.
 
 
 ## Remarks

@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Dialog](Word.Dialog.md)' o
 
 ## Example
 
-The following example enables the  **Keep with next** check box on the **Line and Page Breaks** tab in the **Paragraph** dialog box.
+The following example enables the **Keep with next** check box on the **Line and Page Breaks** tab in the **Paragraph** dialog box.
 
 
 ```vb

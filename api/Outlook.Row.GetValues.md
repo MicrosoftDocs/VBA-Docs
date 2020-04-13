@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Row](Outlook.Row.md) object.
 
 ## Return value
 
-A  **Variant** that represents an array of values for all the columns at that **Row** in the **Table**.
+A **Variant** that represents an array of values for all the columns at that **Row** in the **Table**.
 
 
 ## Remarks

@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The end of the  **Recordset** has been reached.
+The end of the **Recordset** has been reached.
 
 ## See also
 

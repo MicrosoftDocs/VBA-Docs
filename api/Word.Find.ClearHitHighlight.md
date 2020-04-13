@@ -31,7 +31,7 @@ Boolean
 
 ## Remarks
 
-Use the  **[HitHighlight](Word.Find.HitHighlight.md)** method to highlight found text.
+Use the **[HitHighlight](Word.Find.HitHighlight.md)** method to highlight found text.
 
 
 ## See also

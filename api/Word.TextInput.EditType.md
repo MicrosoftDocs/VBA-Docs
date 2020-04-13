@@ -32,12 +32,12 @@ _expression_ Required. A variable that represents a '[TextInput](Word.TextInput.
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **WdTextFormFieldType**|The text box type.|
 | _Default_|Optional| **Variant**|The default text that appears in the text box.|
-| _Format_|Optional| **Variant**|The formatting string used to format the text, number, or date (for example, "0.00," "Title Case," or "M/d/yy"). For more examples of formats, see the list of formats for the specified text form field type in the  **Text Form Field Options** dialog box.|
+| _Format_|Optional| **Variant**|The formatting string used to format the text, number, or date (for example, "0.00," "Title Case," or "M/d/yy"). For more examples of formats, see the list of formats for the specified text form field type in the **Text Form Field Options** dialog box.|
 | _Enabled_|Optional| **Variant**| **True** to enable the form field for text entry.|
 
 ## Example
 
-This example adds a text form field named "Today" at the beginning of the active document. The  **EditType** method is used to set the type to **wdCurrentDateText** and set the date format to "M/d/yy."
+This example adds a text form field named "Today" at the beginning of the active document. The **EditType** method is used to set the type to **wdCurrentDateText** and set the date format to "M/d/yy."
 
 
 ```vb

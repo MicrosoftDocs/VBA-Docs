@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Document](Word.Document.md)** objec
 
 ## Remarks
 
-The  **Container** property provides access to the specified document's container application if the document is embedded in another application as an OLE object. This property also provides a pathway into the object model of the container application if a Word document is opened as an ActiveX document — for example, when a Word document is opened in Microsoft Office Binder or Internet Explorer.
+The **Container** property provides access to the specified document's container application if the document is embedded in another application as an OLE object. This property also provides a pathway into the object model of the container application if a Word document is opened as an ActiveX document — for example, when a Word document is opened in Microsoft Office Binder or Internet Explorer.
 
 
 ## Example

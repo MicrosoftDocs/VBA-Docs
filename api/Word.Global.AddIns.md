@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
 ## Remarks
 
-The  **[AddIns](Word.addins.md)** collection includes the global templates and Word add-in libraries (WLLs) listed in the **Templates and Add-ins** dialog box (**Tools** menu).
+The **[AddIns](Word.addins.md)** collection includes the global templates and Word add-in libraries (WLLs) listed in the **Templates and Add-ins** dialog box (**Tools** menu).
 
  For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 

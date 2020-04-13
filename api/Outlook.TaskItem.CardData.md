@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskItem.CardData property (Outlook)
 
-Returns or sets a  **String** representing the text of the card data for the task. Read/write.
+Returns or sets a **String** representing the text of the card data for the task. Read/write.
 
 
 ## Syntax

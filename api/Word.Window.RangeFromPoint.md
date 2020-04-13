@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.RangeFromPoint method (Word)
 
-Returns the  **Range** or **Shape** object that is located at the point specified by the screen position coordinate pair.
+Returns the **Range** or **Shape** object that is located at the point specified by the screen position coordinate pair.
 
 
 ## Syntax
@@ -45,7 +45,7 @@ If no range or shape is located at the coordinate pair specified, the method ret
 
 ## Example
 
-This example creates a new document and adds a five-point star. It then obtains the screen location of the shape and calculates where the center of the shape is. Using these coordinates, the example uses the  **RangeFromPoint** method to return a reference to the shape and change its fill color.
+This example creates a new document and adds a five-point star. It then obtains the screen location of the shape and calculates where the center of the shape is. Using these coordinates, the example uses the **RangeFromPoint** method to return a reference to the shape and change its fill color.
 
 
 ```vb

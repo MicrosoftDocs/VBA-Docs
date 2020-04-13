@@ -26,7 +26,7 @@ _expression_. `StyleAreaWidth`
 
 ## Remarks
 
-When the  **StyleAreaWidth** property is greater than 0 (zero), style names are displayed to the left of the text. The style area isn't visible in print layout or Web layout view.
+When the **StyleAreaWidth** property is greater than 0 (zero), style names are displayed to the left of the text. The style area isn't visible in print layout or Web layout view.
 
 
 ## Example

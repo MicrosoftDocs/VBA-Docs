@@ -23,7 +23,7 @@ _expression_ A variable that represents an [Assignment](./Project.Assignment.md)
 
 ## Example
 
-The following example deletes all the tasks that have the  **Flag1** set to **True**.
+The following example deletes all the tasks that have the **Flag1** set to **True**.
 
 
 ```vb

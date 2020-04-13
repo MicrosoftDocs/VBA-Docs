@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Return value
 
-A  **MailItem** object that represents the new mail item.
+A **MailItem** object that represents the new mail item.
 
 
 ## Example

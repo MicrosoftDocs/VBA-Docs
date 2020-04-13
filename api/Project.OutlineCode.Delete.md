@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # OutlineCode.Delete method (Project)
 
-Deletes the  **OutlineCode** object from an **OutlineCodes** collection.
+Deletes the **OutlineCode** object from an **OutlineCodes** collection.
 
 
 ## Syntax

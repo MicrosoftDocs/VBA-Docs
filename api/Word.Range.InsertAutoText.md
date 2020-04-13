@@ -28,7 +28,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 If Word finds a match,  **InsertAutoText** inserts the AutoText entry to replace that text. If Word cannot find a match, an error occurs.
 
-You can use the  **Insert** method with an **AutoTextEntry** object to insert a specific AutoText entry.
+You can use the **Insert** method with an **AutoTextEntry** object to insert a specific AutoText entry.
 
 
 ## Example

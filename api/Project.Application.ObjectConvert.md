@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ObjectConvert method (Project)
 
-Displays the  **Convert** dialog box, which prompts the user to convert the active object to a new format.
+Displays the **Convert** dialog box, which prompts the user to convert the active object to a new format.
 
 
 ## Syntax
@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **ObjectConvert** method is equivalent to the **Convert** command. For an example of how to use the **Convert** command, see the **[ObjectChangeIcon](Project.Application.ObjectChangeIcon.md)** method.
+The **ObjectConvert** method is equivalent to the **Convert** command. For an example of how to use the **Convert** command, see the **[ObjectChangeIcon](Project.Application.ObjectChangeIcon.md)** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

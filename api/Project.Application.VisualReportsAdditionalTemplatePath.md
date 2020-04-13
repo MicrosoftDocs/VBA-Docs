@@ -26,13 +26,13 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **Include report templates from** text box in the **Visual Reports - Create Report** dialog box shows the value of the **VisualReportsAdditionalTemplatePath** property.
+The **Include report templates from** text box in the **Visual Reports - Create Report** dialog box shows the value of the **VisualReportsAdditionalTemplatePath** property.
 
 To clear the additional path and template name, use an empty string ("").
 
 
 > [!NOTE] 
-> When you set a path value with the  **VisualReportsAdditionalTemplatePath** property, Project does not check whether the path exists.
+> When you set a path value with the **VisualReportsAdditionalTemplatePath** property, Project does not check whether the path exists.
 
 
 ## Example

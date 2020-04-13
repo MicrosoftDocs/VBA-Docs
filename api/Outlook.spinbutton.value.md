@@ -9,18 +9,18 @@ localization_priority: Normal
 
 # SpinButton.Value Property (Outlook Forms Script)
 
-Returns or sets a  **Variant** that specifies the state of a **[SpinButton](Outlook.spinbutton.md)**. Read/write.
+Returns or sets a **Variant** that specifies the state of a **[SpinButton](Outlook.spinbutton.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**Value**
 
-_expression_ A variable that represents a  **SpinButton** object.
+_expression_ A variable that represents a **SpinButton** object.
 
 
 ## Remarks
 
-The  **Value** property is an integer between the values specified for the **[Max](Outlook.spinbutton.max.md)** and **[Min](Outlook.spinbutton.min.md)** properties.
+The **Value** property is an integer between the values specified for the **[Max](Outlook.spinbutton.max.md)** and **[Min](Outlook.spinbutton.min.md)** properties.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

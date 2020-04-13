@@ -26,12 +26,12 @@ _expression_ A variable that represents an '[Application](Word.Application.md)' 
 
 ## Remarks
 
-For information about using events with the  **Application** object, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
+For information about using events with the **Application** object, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
 
 ## Example
 
-This example ensures that the  **Standard** and **Formatting** toolbars are visible before the user exits Word. As a result, when Word is started again, the **Standard** and **Formatting** toolbars are visible.
+This example ensures that the **Standard** and **Formatting** toolbars are visible before the user exits Word. As a result, when Word is started again, the **Standard** and **Formatting** toolbars are visible.
 
 This code must be placed in a class module, and an instance of the class must be correctly initialized to see this example work; see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md)for directions on how to accomplish this.
 

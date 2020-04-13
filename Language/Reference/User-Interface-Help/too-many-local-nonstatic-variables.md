@@ -16,7 +16,7 @@ Local, nonstatic [variables](../../Glossary/vbe-glossary.md#variable) are variab
 
 
 
-- The sum of the memory requirements for this procedure's local, nonstatic variables and compiler-generated temporary variables exceeds 32K. Declare some of your variables with the  **Static** statement where appropriate. **Static** variables retain their value between procedure invocations because they are allocated from different memory resources than nonstatic variables.
+- The sum of the memory requirements for this procedure's local, nonstatic variables and compiler-generated temporary variables exceeds 32K. Declare some of your variables with the **Static** statement where appropriate. **Static** variables retain their value between procedure invocations because they are allocated from different memory resources than nonstatic variables.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

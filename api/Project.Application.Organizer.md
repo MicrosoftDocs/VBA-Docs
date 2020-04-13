@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Organizer method (Project)
 
-Displays the  **Organizer** dialog box, which enables the user to manage views, reports, modules, tables, filters, calendars, maps, fields, and groups.
+Displays the **Organizer** dialog box, which enables the user to manage views, reports, modules, tables, filters, calendars, maps, fields, and groups.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional|**Long**|The type of item to manage. Can be one of the  **[PjOrganizer](Project.PjOrganizer.md)** constants. The default value is **pjViews**.|
+| _Type_|Optional|**Long**|The type of item to manage. Can be one of the **[PjOrganizer](Project.PjOrganizer.md)** constants. The default value is **pjViews**.|
 | _Task_|Optional|**Boolean**|**True** if the item applies to tasks. **False** if the item applies to resources. The default value is **True**.|
 
 ## Return value

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Explorer.IsPaneVisible method (Outlook)
 
-Returns a  **Boolean** indicating whether a specific explorer pane is visible.
+Returns a **Boolean** indicating whether a specific explorer pane is visible.
 
 
 ## Syntax

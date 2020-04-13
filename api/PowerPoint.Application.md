@@ -19,7 +19,7 @@ Represents the entire Microsoft PowerPoint application.
 
 ## Remarks
 
-The  **Application** object contains:
+The **Application** object contains:
 
 
 - Application-wide settings and options (the name of the active printer, for example).

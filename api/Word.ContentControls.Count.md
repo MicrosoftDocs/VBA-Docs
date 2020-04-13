@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContentControls.Count property (Word)
 
-Returns the number of items in the  **ContentControls** collection. Read-only **Long**.
+Returns the number of items in the **ContentControls** collection. Read-only **Long**.
 
 
 ## Syntax

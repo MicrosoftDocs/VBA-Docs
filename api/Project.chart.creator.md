@@ -22,7 +22,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Remarks
 
-If the chart was created in Microsoft Project, the  **Creator** property returns the decimal number 1347571530, which is hexadecimal 0x50524F4A, which is equivalent to the string **PROJ**. For example, run the following command in the Immediate window of the VBE, with the name of the active report.
+If the chart was created in Microsoft Project, the **Creator** property returns the decimal number 1347571530, which is hexadecimal 0x50524F4A, which is equivalent to the string **PROJ**. For example, run the following command in the Immediate window of the VBE, with the name of the active report.
 
 
 ```vb

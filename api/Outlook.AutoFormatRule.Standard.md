@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AutoFormatRule.Standard property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the **[AutoFormatRule](Outlook.AutoFormatRule.md)** object represents a built-in Outlook formatting rule. Read-only.
+Returns a **Boolean** value that indicates whether the **[AutoFormatRule](Outlook.AutoFormatRule.md)** object represents a built-in Outlook formatting rule. Read-only.
 
 
 ## Syntax

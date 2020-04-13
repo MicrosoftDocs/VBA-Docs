@@ -28,7 +28,7 @@ _expression_. `ListString`
 
 For a bulleted list, you will need to apply the correct font to see the string. Most bullets use the Symbol or Wingdings font.
 
-Use the  **[ListValue](Word.ListFormat.ListValue.md)** property to return the numeric value of the paragraph.
+Use the **[ListValue](Word.ListFormat.ListValue.md)** property to return the numeric value of the paragraph.
 
 
 ## Example

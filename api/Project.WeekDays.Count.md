@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WeekDays.Count property (Project)
 
-Gets the number of items in the  **WeekDays** collection. Read-only **Integer**.
+Gets the number of items in the **WeekDays** collection. Read-only **Integer**.
 
 
 ## Syntax

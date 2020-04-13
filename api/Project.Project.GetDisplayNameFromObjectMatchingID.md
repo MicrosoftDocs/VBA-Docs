@@ -27,7 +27,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ObjectType_|Required|**Long**|The type of object. Can be one of the  **[PjOrganizer](Project.PjOrganizer.md)** constants.|
+| _ObjectType_|Required|**Long**|The type of object. Can be one of the **[PjOrganizer](Project.PjOrganizer.md)** constants.|
 | _MatchingID_|Required|**String**|String specifying the matching name of the object.|
 
 ## Return value
@@ -37,7 +37,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-You can use the  **GetDisplayNameFromObjectMatchingID** method to get the display name in a multilanguage environment that uses Object Matching Identifier (OMID) fields. For more information, see the **[UseOMIDs](Project.Application.UseOMIDs.md)** property.
+You can use the **GetDisplayNameFromObjectMatchingID** method to get the display name in a multilanguage environment that uses Object Matching Identifier (OMID) fields. For more information, see the **[UseOMIDs](Project.Application.UseOMIDs.md)** property.
 
 
 ## Example

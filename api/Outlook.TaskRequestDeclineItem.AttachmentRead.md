@@ -27,7 +27,7 @@ _expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskR
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Attachment_|Required| **[Attachment](Outlook.Attachment.md)**|The  **Attachment** that was opened.|
+| _Attachment_|Required| **[Attachment](Outlook.Attachment.md)**|The **Attachment** that was opened.|
 
 ## Example
 

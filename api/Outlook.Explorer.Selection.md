@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Explorer.Selection property (Outlook)
 
-Returns a  **[Selection](Outlook.Selection.md)** object that contains the item or items that are selected in the explorer window. Read-only.
+Returns a **[Selection](Outlook.Selection.md)** object that contains the item or items that are selected in the explorer window. Read-only.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' obj
 
 The location of a selection in the explorer can be in the view list, the appointment list or task list in the To-Do Bar, or the daily tasks list in a calendar view. For more information, see the  **[Location](Outlook.Selection.Location.md)** property.
 
-The  **Selection** property does not include any conversation header objects. Call the **[Selection.GetSelection](Outlook.Selection.GetSelection.md)** method, providing **olConversationHeaders** as the argument, to obtain conversation header objects that are selected in the explorer.
+The **Selection** property does not include any conversation header objects. Call the **[Selection.GetSelection](Outlook.Selection.GetSelection.md)** method, providing **olConversationHeaders** as the argument, to obtain conversation header objects that are selected in the explorer.
 
 If the current folder displays a folder home page, this property returns an empty collection. Also, if a group header such as  **Today**, or a conversation group header is selected, the  **[Count](Outlook.Selection.Count.md)** property on the returned **Selection** object is zero.
 

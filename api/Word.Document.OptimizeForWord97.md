@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Document](Word.Document.md)** objec
 
 ## Remarks
 
-To optimize all new documents for Word 97 by default, use the  **[OptimizeForWord97byDefault](Word.Options.OptimizeForWord97byDefault.md)** property.
+To optimize all new documents for Word 97 by default, use the **[OptimizeForWord97byDefault](Word.Options.OptimizeForWord97byDefault.md)** property.
 
 
 ## Example

@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-Using this property is equivalent to using the  **Path**, **PathSeparator**, and **Name** properties in sequence.
+Using this property is equivalent to using the **Path**, **PathSeparator**, and **Name** properties in sequence.
 
 
 ## Example

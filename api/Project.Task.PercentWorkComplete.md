@@ -23,7 +23,7 @@ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 ## Example
 
-The following example sets the  **Marked** property to **True** for each task in the active project with a percentage of work complete that exceeds the percentage specified by the user.
+The following example sets the **Marked** property to **True** for each task in the active project with a percentage of work complete that exceeds the percentage specified by the user.
 
 
 ```vb

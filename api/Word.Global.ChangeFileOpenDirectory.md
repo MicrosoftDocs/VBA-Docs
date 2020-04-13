@@ -34,7 +34,7 @@ _expression_ A variable that represents a '[Global](Word.Global.md)' object. Opt
 
 ## Remarks
 
-The contents of the specified folder are listed the next time the  **Open** dialog box (**File** menu) is displayed.Word searches the specified folder for documents until the user changes the folder in the **Open** dialog box or the current Word session ends. Use the **DefaultFilePath** property to change the default folder for documents in every Word session.
+The contents of the specified folder are listed the next time the **Open** dialog box (**File** menu) is displayed.Word searches the specified folder for documents until the user changes the folder in the **Open** dialog box or the current Word session ends. Use the **DefaultFilePath** property to change the default folder for documents in every Word session.
 
 
 ## Example

@@ -24,7 +24,7 @@ _expression_ A variable that represents a [Range](./Word.Range.md) object.
 
 ## Remarks
 
-The  **TextVisibleOnScreen** property returns 1 if all text in the range is visible; it returns 0 if no text in the range is visible; and it returns -1 if some text in the range is visible and some is not. Text that is not visible could be, for example, text that is in a collapsed heading.
+The **TextVisibleOnScreen** property returns 1 if all text in the range is visible; it returns 0 if no text in the range is visible; and it returns -1 if some text in the range is visible and some is not. Text that is not visible could be, for example, text that is in a collapsed heading.
 
 
 ## Property value

@@ -13,7 +13,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The data type specified in the  **Field** object's **Type** property is not valid. Choose one of the valid types as shown in the **Type** property Help topic.
+The data type specified in the **Field** object's **Type** property is not valid. Choose one of the valid types as shown in the **Type** property Help topic.
 
 ## See also
 

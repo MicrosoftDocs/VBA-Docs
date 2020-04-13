@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Options](Word.Options.md)** object
 
 ## Remarks
 
-To use this property, you must have the  **[CheckLanguage](Word.Application.CheckLanguage.md)** property set to **True**.
+To use this property, you must have the **[CheckLanguage](Word.Application.CheckLanguage.md)** property set to **True**.
 
 
 ## Example

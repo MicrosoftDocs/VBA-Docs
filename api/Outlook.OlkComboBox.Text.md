@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkComboBox.Text property (Outlook)
 
-Returns or sets a  **String** that is the text displayed in the control. Read/write.
+Returns or sets a **String** that is the text displayed in the control. Read/write.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md)
 
 The default value of the  **Text** property is the empty string.
 
-The  **Text** property provides the same value as the **[Value](Outlook.OlkComboBox.Value.md)** property, but the value is strongly typed as a **String**.
+The **Text** property provides the same value as the **[Value](Outlook.OlkComboBox.Value.md)** property, but the value is strongly typed as a **String**.
 
 
 ## See also

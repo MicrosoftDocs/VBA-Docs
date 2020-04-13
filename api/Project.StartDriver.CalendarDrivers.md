@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # StartDriver.CalendarDrivers property (Project)
 
-Gets the  **[CalendarDrivers](Project.calendardrivers.md)** object for the task **StartDriver** object. Read-only **CalendarDrivers**.
+Gets the **[CalendarDrivers](Project.calendardrivers.md)** object for the task **StartDriver** object. Read-only **CalendarDrivers**.
 
 
 ## Syntax

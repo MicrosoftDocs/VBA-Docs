@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # System.MacintoshName property (Word)
 
-You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about the  **MacintoshName** property for the **System** object, consult the language reference Help included with Microsoft Office Macintosh Edition.
+You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about the **MacintoshName** property for the **System** object, consult the language reference Help included with Microsoft Office Macintosh Edition.
 
 
 ## See also

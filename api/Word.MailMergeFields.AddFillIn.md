@@ -42,7 +42,7 @@ MailMergeField
 
 ## Remarks
 
-When updated, a FILLIN field displays a dialog box that prompts you for text to insert into the document at the location of the FILLIN field. Use the  **Add** method with the **Fields** collection object to add a FILLIN field to a document other than a mail merge main document.
+When updated, a FILLIN field displays a dialog box that prompts you for text to insert into the document at the location of the FILLIN field. Use the **Add** method with the **Fields** collection object to add a FILLIN field to a document other than a mail merge main document.
 
 
 ## Example

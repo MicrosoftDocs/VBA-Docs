@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # OverAllocatedAssignments.Parent property (Project)
 
-Gets the parent of the  **OverAllocatedAssignments** object. Read-only **Task**.
+Gets the parent of the **OverAllocatedAssignments** object. Read-only **Task**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_.**Parent**
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 
 ## See also

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.Date8 property (Project)
 
-Gets or sets the value of the  **Date8** custom field for the resource. Read/write **Variant**.
+Gets or sets the value of the **Date8** custom field for the resource. Read/write **Variant**.
 
 
 ## Syntax

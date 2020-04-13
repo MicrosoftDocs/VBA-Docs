@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # View object (Project)
 
-Represents a view in Project. The  **View** object is a member of the **[Views](Project.views(object).md)** collection.
+Represents a view in Project. The **View** object is a member of the **[Views](Project.views(object).md)** collection.
 
 
 ## Remarks
 
-The  **[Pane.View](./Project.Pane.View.md)** method returns the **View** object.
+The **[Pane.View](./Project.Pane.View.md)** method returns the **View** object.
 
 
 ## Methods

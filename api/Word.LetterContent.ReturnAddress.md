@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[LetterContent](Word.Letter
 
 ## Example
 
-This example creates a new  **LetterContent** object, sets the return address and several other properties, and then runs the Letter Wizard by using the **RunLetterWizard** method.
+This example creates a new **LetterContent** object, sets the return address and several other properties, and then runs the Letter Wizard by using the **RunLetterWizard** method.
 
 
 ```vb

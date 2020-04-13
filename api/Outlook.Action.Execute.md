@@ -26,7 +26,7 @@ _expression_. `Execute`
 
 ## Return value
 
-An  **Object** value that represents the Outlook item created by the action upon execution.
+An **Object** value that represents the Outlook item created by the action upon execution.
 
 
 ## Example

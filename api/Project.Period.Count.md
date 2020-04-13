@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Period.Count property (Project)
 
-Gets the number of days in the  **Period** object. Read-only **Integer**.
+Gets the number of days in the **Period** object. Read-only **Integer**.
 
 
 ## Syntax

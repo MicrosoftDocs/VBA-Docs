@@ -26,9 +26,9 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-Check the  **LanguageID** property for the results of any previous language detection.
+Check the **LanguageID** property for the results of any previous language detection.
 
-The  **LanguageDetected** property is set to **True** when the **DetectLanguage** method is called. To reevaluate the language of the specified text, you must first set the **LanguageDetected** property to **False**.
+The **LanguageDetected** property is set to **True** when the **DetectLanguage** method is called. To reevaluate the language of the specified text, you must first set the **LanguageDetected** property to **False**.
 
 
 ## Example

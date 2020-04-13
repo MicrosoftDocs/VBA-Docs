@@ -34,12 +34,12 @@ _expression_ A variable that represents a [Pages](Outlook.Pages.md) object.
 
 ## Return value
 
-A  **[Page](Outlook.page.md)** object that represents the new page.
+A **[Page](Outlook.page.md)** object that represents the new page.
 
 
 ## Remarks
 
-The  **Pages** collection is initially empty, and there is a limit of 5 customizable pages per collection.
+The **Pages** collection is initially empty, and there is a limit of 5 customizable pages per collection.
 
 
 ## See also

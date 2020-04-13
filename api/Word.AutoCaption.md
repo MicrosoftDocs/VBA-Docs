@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AutoCaption object (Word)
 
-Represents a single caption that can be automatically added when items such as tables, pictures, or OLE objects are inserted into a document. The  **AutoCaption** object is a member of the **[AutoCaptions](Word.autocaptions.md)** collection. The **AutoCaptions** collection contains all the captions listed in the **AutoCaption** dialog box.
+Represents a single caption that can be automatically added when items such as tables, pictures, or OLE objects are inserted into a document. The **AutoCaption** object is a member of the **[AutoCaptions](Word.autocaptions.md)** collection. The **AutoCaptions** collection contains all the captions listed in the **AutoCaption** dialog box.
 
 
 ## Remarks
@@ -26,7 +26,7 @@ Use  **[AutoCaptions](Word.Application.AutoCaptions.md)** (_index_), where _inde
 AutoCaptions("Microsoft Word Table").AutoInsert = True
 ```
 
-The index number represents the position of the  **AutoCaption** object in the list of items in the **AutoCaption** dialog box. The following example displays the name of the first item listed in the **AutoCaption** dialog box.
+The index number represents the position of the **AutoCaption** object in the list of items in the **AutoCaption** dialog box. The following example displays the name of the first item listed in the **AutoCaption** dialog box.
 
 
 

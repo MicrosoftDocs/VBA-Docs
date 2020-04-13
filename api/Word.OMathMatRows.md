@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathMatRows object (Word)
 
-Represents a collection of matrix rows. Use the  **OMathMatRow** object to access individual members of the collection.
+Represents a collection of matrix rows. Use the **OMathMatRow** object to access individual members of the collection.
 
 
 ## See also

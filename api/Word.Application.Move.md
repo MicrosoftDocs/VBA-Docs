@@ -35,7 +35,7 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 
 ## Example
 
-This example starts the Calculator application (Calc.exe) and uses the  **Move** method to reposition the application window.
+This example starts the Calculator application (Calc.exe) and uses the **Move** method to reposition the application window.
 
 
 ```vb

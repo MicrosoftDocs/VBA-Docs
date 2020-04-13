@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[FileConverter](Word.FileConverter.md
 
 ## Remarks
 
-The format names appear in the  **Save as type** box in the **Save As** dialog box (**File** menu).
+The format names appear in the **Save as type** box in the **Save As** dialog box (**File** menu).
 
 
 ## Example

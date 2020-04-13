@@ -26,7 +26,7 @@ _expression_. `TwoInitialCapsExceptions`
 
 ## Remarks
 
-This list corresponds to the list of AutoCorrect exceptions on the INitial CAps tab in the  **AutoCorrect Exceptions** dialog box (**AutoCorrect Options** command, **Tools** menu). For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
+This list corresponds to the list of AutoCorrect exceptions on the INitial CAps tab in the **AutoCorrect Exceptions** dialog box (**AutoCorrect Options** command, **Tools** menu). For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 
 
 ## Example

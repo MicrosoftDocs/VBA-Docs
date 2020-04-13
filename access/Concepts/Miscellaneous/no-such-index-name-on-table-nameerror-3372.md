@@ -13,7 +13,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The specified index does not exist in the specified table. Check your code for a misspelling or other error, or verify the  **Indexes** collection contains the specified index.
+The specified index does not exist in the specified table. Check your code for a misspelling or other error, or verify the **Indexes** collection contains the specified index.
 
 ## See also
 

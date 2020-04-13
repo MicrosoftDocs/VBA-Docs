@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ColorFormat object (Word)
 
-Represents the color of a one-color object or the foreground or background color of an object with a gradient or patterned fill. You can set colors to an explicit red-green-blue value by using the  **[RGB](Word.ColorFormat.RGB.md)** property.
+Represents the color of a one-color object or the foreground or background color of an object with a gradient or patterned fill. You can set colors to an explicit red-green-blue value by using the **[RGB](Word.ColorFormat.RGB.md)** property.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ Use one of the properties listed in the following table to return a  **ColorForm
 |**[ForeColor](Word.ShadowFormat.ForeColor.md)**|**[ShadowFormat](Word.ShadowFormat.md)**|Shadow color|
 |**[ExtrusionColor](Word.ThreeDFormat.ExtrusionColor.md)**|**[ThreeDFormat](Word.ThreeDFormat.md)**|Color of the sides of an extruded object|
 
-Use the  **RGB** property to set a color to an explicit red-green-blue value. The following example adds a rectangle to the active document and then sets the foreground color, background color, and gradient for the rectangle's fill.
+Use the **RGB** property to set a color to an explicit red-green-blue value. The following example adds a rectangle to the active document and then sets the foreground color, background color, and gradient for the rectangle's fill.
 
 
 

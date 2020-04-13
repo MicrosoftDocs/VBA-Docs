@@ -19,7 +19,7 @@ Represents a trendline in a chart.
 
 ## Remarks
 
-A trendline shows the trend, or direction, of data in a series. The  **Trendline** object is a member of the **[Trendlines](PowerPoint.Trendlines.md)** collection. The **Trendlines** collection contains all the **Trendline** objects for a single series.
+A trendline shows the trend, or direction, of data in a series. The **Trendline** object is a member of the **[Trendlines](PowerPoint.Trendlines.md)** collection. The **Trendlines** collection contains all the **Trendline** objects for a single series.
 
 
 ## Example

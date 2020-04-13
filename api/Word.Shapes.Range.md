@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a **[Shapes](Word.Shapes.md)**
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|Specifies which shapes are to be included in the specified range. Can be an integer that specifies the index number of a shape within the  **Shapes** collection, a string that specifies the name of a shape, or a array that contains integers or strings.|
+| _Index_|Required| **Variant**|Specifies which shapes are to be included in the specified range. Can be an integer that specifies the index number of a shape within the **Shapes** collection, a string that specifies the name of a shape, or a array that contains integers or strings.|
 
 ## Return value
 
@@ -39,7 +39,7 @@ ShapeRange
 
 ## Remarks
 
-A  **Shape** object always appears on the same page as the range it is anchored to.
+A **Shape** object always appears on the same page as the range it is anchored to.
 
 
 > [!NOTE] 

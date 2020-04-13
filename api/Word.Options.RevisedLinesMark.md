@@ -33,7 +33,7 @@ This example sets changed lines to appear in the left margin of every page.
 Options.RevisedLinesMark = wdRevisedLinesMarkLeftBorder
 ```
 
-This example returns the current status of the  **Mark** option under **Changed lines** on the **Track Changes** tab in the **Options** dialog box (**Tools** menu).
+This example returns the current status of the **Mark** option under **Changed lines** on the **Track Changes** tab in the **Options** dialog box (**Tools** menu).
 
 
 

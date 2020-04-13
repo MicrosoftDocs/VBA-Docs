@@ -19,9 +19,9 @@ Represents a note in a Notes folder.
 
 ## Remarks
 
-A  **NoteItem** is not customizable. If you open a new note, you will notice that it is not possible to place it in design time.
+A **NoteItem** is not customizable. If you open a new note, you will notice that it is not possible to place it in design time.
 
-The  **[Subject](Outlook.NoteItem.Subject.md)** property of a **NoteItem** object is read-only because it is calculated from the body text of the note. Also, the **NoteItem** **[Body](Outlook.NoteItem.Body.md)** can only be rich text, so the properties that correspond to HTML and Microsoft Word content do not apply. Although the **[GetInspector](Outlook.NoteItem.GetInspector.md)** property will work on notes, because notes can't be customized, some of the **[Inspector](Outlook.Inspector.md)** properties, methods, and events will not apply to **NoteItem** objects.
+The **[Subject](Outlook.NoteItem.Subject.md)** property of a **NoteItem** object is read-only because it is calculated from the body text of the note. Also, the **NoteItem** **[Body](Outlook.NoteItem.Body.md)** can only be rich text, so the properties that correspond to HTML and Microsoft Word content do not apply. Although the **[GetInspector](Outlook.NoteItem.GetInspector.md)** property will work on notes, because notes can't be customized, some of the **[Inspector](Outlook.Inspector.md)** properties, methods, and events will not apply to **NoteItem** objects.
 
 Use the  **[CreateItem](Outlook.Application.CreateItem.md)** method to create a **NoteItem** object that represents a new note.
 

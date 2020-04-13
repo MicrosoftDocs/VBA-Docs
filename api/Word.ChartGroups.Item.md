@@ -34,7 +34,7 @@ _expression_ A variable that represents a '[ChartGroups](Word.ChartGroups.md)' o
 
 ## Return value
 
-A  **[ChartGroup](Word.ChartGroup.md)** object contained by the collection.
+A **[ChartGroup](Word.ChartGroup.md)** object contained by the collection.
 
 
 ## Example

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.CommandBars property (Project)
 
-Gets a  **CommandBars** collection that represents all the command bars in the application. Read-only **CommandBars**.
+Gets a **CommandBars** collection that represents all the command bars in the application. Read-only **CommandBars**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-For more information, see the  **CommandBars** collection object in the Microsoft Office Visual Basic Reference.
+For more information, see the **CommandBars** collection object in the Microsoft Office Visual Basic Reference.
 
 
 ## Example

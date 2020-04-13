@@ -11,7 +11,7 @@ localization_priority: Normal
 
 
 # Application.RenameReport method (Project)
-Displays the  **Rename** dialog box, which includes the current name of the active report.
+Displays the **Rename** dialog box, which includes the current name of the active report.
 
 ## Syntax
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-If a report is not active, the  **RenameReport** method displays run-time error 1100, "The method is not available in this situation."
+If a report is not active, the **RenameReport** method displays run-time error 1100, "The method is not available in this situation."
 
 If you rename a built-in report, the report is copied to a new custom report.
 

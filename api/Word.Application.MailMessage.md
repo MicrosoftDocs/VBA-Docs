@@ -26,7 +26,7 @@ _expression_. `MailMessage`
 
 ## Example
 
-This example displays the  **Select Names** dialog box for the active email message.
+This example displays the **Select Names** dialog box for the active email message.
 
 
 ```vb

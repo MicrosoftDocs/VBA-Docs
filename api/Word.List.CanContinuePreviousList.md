@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents a '[List](Word.List.md)' objec
 
 ## Remarks
 
-This method returns the state of the  **Continue previous list** and **Restart numbering** options in the **Bullets and Numbering** dialog box for a specified list format. To change the settings of these options, set the ContinuePreviousList argument of the **ApplyListTemplate** method.
+This method returns the state of the **Continue previous list** and **Restart numbering** options in the **Bullets and Numbering** dialog box for a specified list format. To change the settings of these options, set the ContinuePreviousList argument of the **ApplyListTemplate** method.
 
 
 ## Example

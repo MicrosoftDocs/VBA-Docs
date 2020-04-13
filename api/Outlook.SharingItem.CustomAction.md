@@ -27,13 +27,13 @@ _expression_. `CustomAction`( `_Action_` , `_Response_` , `_Cancel_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Action_|Required| **Object**|The  **[Action](Outlook.Action.md)** object.|
+| _Action_|Required| **Object**|The **[Action](Outlook.Action.md)** object.|
 | _Response_|Required| **Object**|The newly created item resulting from the custom action.|
 | _Cancel_|Required| **Boolean**|(Not used in VBScript).  **False** when the event occurs. If the event procedure sets this argument to **True**, the custom action is not completed.|
 
 ## Remarks
 
-The  **Action** object and the newly created item resulting from the custom action are passed to the event.
+The **Action** object and the newly created item resulting from the custom action are passed to the event.
 
 In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to  **False**, the custom action operation is not completed.
 

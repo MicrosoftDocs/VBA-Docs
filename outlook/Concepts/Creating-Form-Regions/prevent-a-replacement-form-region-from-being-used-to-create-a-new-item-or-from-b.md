@@ -13,7 +13,7 @@ localization_priority: Normal
 
 ## To prevent a form region from being modified in the Forms Designer
 
-- In the form region manifest XML file, specify  **False** as the value of the **hidden** element.
+- In the form region manifest XML file, specify **False** as the value of the **hidden** element.
 
 The following example disables a replacement form region from being used to create a new item or from being modified in the Forms Designer:
 
@@ -22,6 +22,6 @@ The following example disables a replacement form region from being used to crea
 ```
 
 > [!NOTE]
-> You can assign either a string value or an integer value to  **hidden**. The default value is  **False** or **0**. To prevent a form region from being used to create a new item or from being modified in the Forms Designer, assign either  **True** or **1**.
+> You can assign either a string value or an integer value to **hidden**. The default value is **False** or **0**. To prevent a form region from being used to create a new item or from being modified in the Forms Designer, assign either **True** or **1**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Styles.Add method (Visio)
 
-Adds a new  **Style** object to a **Styles** collection.
+Adds a new **Style** object to a **Styles** collection.
 
 
 ## Syntax

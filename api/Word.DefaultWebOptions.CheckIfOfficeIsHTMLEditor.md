@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[DefaultWebOptions](Word.DefaultWebO
 
 ## Remarks
 
-The  **CheckIfOfficeIsHTMLEditor** property returns **False** if Word does not perform this check. The default value is **True**.
+The **CheckIfOfficeIsHTMLEditor** property returns **False** if Word does not perform this check. The default value is **True**.
 
  This property is used only if the web browser you are using supports HTML editing and HTML editors. To use a different HTML editor, you must set this property to **False** and then register the editor as the default system HTML editor.
 

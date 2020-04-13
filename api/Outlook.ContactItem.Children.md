@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.Children property (Outlook)
 
-Returns or sets a  **String** representing the names of the children of the contact. Read/write.
+Returns or sets a **String** representing the names of the children of the contact. Read/write.
 
 
 ## Syntax

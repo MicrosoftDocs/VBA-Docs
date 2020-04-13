@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.ExchangeMailboxServerVersion property (Outlook)
 
-Returns a  **String** value that represents the full version number of the Exchange server that hosts the primary Exchange account mailbox. Read-only.
+Returns a **String** value that represents the full version number of the Exchange server that hosts the primary Exchange account mailbox. Read-only.
 
 
 ## Syntax

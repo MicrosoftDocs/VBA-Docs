@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimelineView.StartField property (Outlook)
 
-Returns or sets a  **String** value that represents the name of the property that starts the time duration for Outlook items displayed in the **[TimelineView](Outlook.TimelineView.md)** object. Read/write.
+Returns or sets a **String** value that represents the name of the property that starts the time duration for Outlook items displayed in the **[TimelineView](Outlook.TimelineView.md)** object. Read/write.
 
 
 ## Syntax

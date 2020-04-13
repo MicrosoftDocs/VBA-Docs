@@ -26,11 +26,11 @@ _expression_.**Value**
 
 ## Remarks
 
-Use the  **Value** property to store data that you need to use at processing time. For example, the **Text** property may contain a string that you want to display and the **Value** property may contain a number, such as an item number, that you can use to look up information in a database. Also, the value of the **Value** property is what is sent to the custom XML data, if the content control is mapped to XML data in the data store.
+Use the **Value** property to store data that you need to use at processing time. For example, the **Text** property may contain a string that you want to display and the **Value** property may contain a number, such as an item number, that you can use to look up information in a database. Also, the value of the **Value** property is what is sent to the custom XML data, if the content control is mapped to XML data in the data store.
 
 
 > [!NOTE] 
-> You cannot set the  **Value** property for list entries that were automatically populated from an XML schema attached to the custom XML that is mapped to this control.
+> You cannot set the **Value** property for list entries that were automatically populated from an XML schema attached to the custom XML that is mapped to this control.
 
 
 ## Example

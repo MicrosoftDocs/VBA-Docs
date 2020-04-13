@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ViewFont.ExtendedColor property (Outlook)
 
-Returns or sets an  **[OlCategoryColor](Outlook.OlCategoryColor.md)** constant as the font color of the view. Read/write
+Returns or sets an **[OlCategoryColor](Outlook.OlCategoryColor.md)** constant as the font color of the view. Read/write
 
 
 ## Syntax

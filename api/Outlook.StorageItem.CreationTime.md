@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # StorageItem.CreationTime property (Outlook)
 
-Returns a  **DateTime** value that indicates the creation time for the **[StorageItem](Outlook.StorageItem.md)**. Read-only.
+Returns a **DateTime** value that indicates the creation time for the **[StorageItem](Outlook.StorageItem.md)**. Read-only.
 
 
 ## Syntax

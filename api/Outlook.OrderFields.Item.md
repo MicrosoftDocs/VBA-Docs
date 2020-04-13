@@ -34,7 +34,7 @@ _expression_ A variable that represents an [OrderFields](Outlook.OrderFields.md)
 
 ## Return value
 
-An  **OrderField** object that represents the specified object.
+An **OrderField** object that represents the specified object.
 
 
 ## See also

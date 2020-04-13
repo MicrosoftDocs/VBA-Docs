@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.PutFocusInMailHeader method (Word)
 
-Places the insertion point in the  **To**line of the mail header if the document in the active window is an email document.
+Places the insertion point in the **To**line of the mail header if the document in the active window is an email document.
 
 
 ## Syntax
@@ -26,12 +26,12 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 
 ## Remarks
 
-For best results, use the  **PutFocusInMailHeader** method with the **EnvelopeVisible** property. When the **EnvelopeVisible** property is set to **True**, the **PutFocusInMailHeader** method will place the insertion point in the mail header.
+For best results, use the **PutFocusInMailHeader** method with the **EnvelopeVisible** property. When the **EnvelopeVisible** property is set to **True**, the **PutFocusInMailHeader** method will place the insertion point in the mail header.
 
 
 ## Example
 
-The following example displays the mail header for the active document and then place the insertion point in the  **To**line of the mail header.
+The following example displays the mail header for the active document and then place the insertion point in the **To**line of the mail header.
 
 
 ```vb

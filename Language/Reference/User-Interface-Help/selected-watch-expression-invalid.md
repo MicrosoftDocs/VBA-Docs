@@ -16,9 +16,9 @@ It isn't always possible to select a valid [watch expression](../../Glossary/vbe
 
 
 
-- You chose the  **Instant Watch** command, but the selected[expression](../../Glossary/vbe-glossary.md#expression) isn't a valid expression. For example, you can't watch a [comment](../../Glossary/vbe-glossary.md#comment) or a **Sub** procedure call.
+- You chose the **Instant Watch** command, but the selected[expression](../../Glossary/vbe-glossary.md#expression) isn't a valid expression. For example, you can't watch a [comment](../../Glossary/vbe-glossary.md#comment) or a **Sub** procedure call.
     
-    Select the expression in such a way that it is valid, or choose  **Add Watch** and type in a valid expression.
+    Select the expression in such a way that it is valid, or choose **Add Watch** and type in a valid expression.
     
 - The watch expression must have code syntax corresponding to the [locale](../../Glossary/vbe-glossary.md#locale) of the [project](../../Glossary/vbe-glossary.md#project) that defines the expression being watched.
     

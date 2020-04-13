@@ -31,7 +31,7 @@ Nothing
 
 ## Remarks
 
-When you run the  **Validate** method, Microsoft Word populates the **[XMLSchemaViolations](overview/Word.md)** property of the **[Document](Word.Document.md)** object with a collection of the XML nodes that have validation errors.
+When you run the **Validate** method, Microsoft Word populates the **[XMLSchemaViolations](overview/Word.md)** property of the **[Document](Word.Document.md)** object with a collection of the XML nodes that have validation errors.
 
 
 ## See also

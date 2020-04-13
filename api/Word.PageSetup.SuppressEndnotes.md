@@ -26,7 +26,7 @@ _expression_. `SuppressEndnotes`
 
 ## Remarks
 
-Suppressed endnotes are printed before the endnotes in that section. This property takes effect only if the  **[Location](Word.Endnotes.Location.md)** property is set to **wdEndOfSection**.
+Suppressed endnotes are printed before the endnotes in that section. This property takes effect only if the **[Location](Word.Endnotes.Location.md)** property is set to **wdEndOfSection**.
 
 
 ## Example

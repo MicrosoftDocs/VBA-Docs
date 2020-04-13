@@ -31,7 +31,7 @@ _expression_ Required. A variable that represents a **[Rows](Word.Rows.md)** obj
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _LeftIndent_|Required| **Single**|The distance (in points) between the current left edge of the specified row or rows and the desired left edge.|
-| _RulerStyle_|Required| **WdRulerStyle**|Controls the way Microsoft Word adjusts the table when the left indent is changed. The  **WdRulerStyle** behavior applies to left-aligned tables. The **WdRulerStyle** behavior for center- and right-aligned tables can be unexpected; in these cases, use the **SetLeftIndent** method with care.|
+| _RulerStyle_|Required| **WdRulerStyle**|Controls the way Microsoft Word adjusts the table when the left indent is changed. The **WdRulerStyle** behavior applies to left-aligned tables. The **WdRulerStyle** behavior for center- and right-aligned tables can be unexpected; in these cases, use the **SetLeftIndent** method with care.|
 
 ## Example
 

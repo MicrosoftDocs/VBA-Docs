@@ -16,7 +16,7 @@ A [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) that app
 
 
 
-- You tried to define a  **Public** user-defined type in an object module. Move the user-defined type definition to a [standard module](../../Glossary/vbe-glossary.md#standard-module), and then declare [variables](../../Glossary/vbe-glossary.md#variable) of the type in the object module or other[modules](../../Glossary/vbe-glossary.md#module), as appropriate. If you only want the type to be available in the module in which it appears, you can place its  **Type...End Type** definition in the object module and precede its definition with the **Private**[keyword](../../Glossary/vbe-glossary.md#keyword).
+- You tried to define a **Public** user-defined type in an object module. Move the user-defined type definition to a [standard module](../../Glossary/vbe-glossary.md#standard-module), and then declare [variables](../../Glossary/vbe-glossary.md#variable) of the type in the object module or other[modules](../../Glossary/vbe-glossary.md#module), as appropriate. If you only want the type to be available in the module in which it appears, you can place its **Type...End Type** definition in the object module and precede its definition with the **Private**[keyword](../../Glossary/vbe-glossary.md#keyword).
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

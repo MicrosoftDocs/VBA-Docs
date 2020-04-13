@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Link_|Optional|**Boolean**|**True** if the data is linked to its source application.|
-| _Type_|Optional|**Integer**|A numeric value specifying the type of object to paste or link. The  **Type** argument can be one of the **[PjPasteSpecialType](Project.PjPasteSpecialType.md)** constants.|
+| _Type_|Optional|**Integer**|A numeric value specifying the type of object to paste or link. The **Type** argument can be one of the **[PjPasteSpecialType](Project.PjPasteSpecialType.md)** constants.|
 | _DisplayAsIcon_|Optional|**Boolean**|**True** if the object appears as an icon.|
 
 ## Return value

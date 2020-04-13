@@ -16,7 +16,7 @@ A collection of all the [ProtectedViewWindow](Word.ProtectedViewWindow.md) objec
 
 ## Remarks
 
-Use the  **ProtectedViewWindows** property to return the **ProtectedViewWindows** collection.
+Use the **ProtectedViewWindows** property to return the **ProtectedViewWindows** collection.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Rule.Name property (Outlook)
 
-Returns or sets a  **String** representing the name of the rule. Read/write.
+Returns or sets a **String** representing the name of the rule. Read/write.
 
 
 ## Syntax

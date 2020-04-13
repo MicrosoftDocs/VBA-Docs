@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.GetConversation method (Outlook)
 
-Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
+Obtains a **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[MailItem](Outlook.MailItem.md)' obje
 
 ## Return value
 
-A  **Conversation** object that represents the conversation to which this item belongs.
+A **Conversation** object that represents the conversation to which this item belongs.
 
 
 ## Remarks

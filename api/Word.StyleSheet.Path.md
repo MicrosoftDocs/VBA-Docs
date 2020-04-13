@@ -26,11 +26,11 @@ _expression_ Required. A variable that represents a '[StyleSheet](Word.StyleShee
 
 ## Remarks
 
-The path doesn't include a trailing character—for example, "C:\MSOffice" or "https://MyServer". Use the  **[PathSeparator](Word.Application.PathSeparator.md)** property to add the character that separates folders and drive letters, and use the **[Name](Word.StyleSheet.Name.md)** property to return the file name without the path.
+The path doesn't include a trailing character—for example, "C:\MSOffice" or "https://MyServer". Use the **[PathSeparator](Word.Application.PathSeparator.md)** property to add the character that separates folders and drive letters, and use the **[Name](Word.StyleSheet.Name.md)** property to return the file name without the path.
 
 
 > [!NOTE] 
-> You can use the  **PathSeparator** property to build web addresses even though they contain forward slashes (/) and the **PathSeparator** property defaults to a backslash (\).
+> You can use the **PathSeparator** property to build web addresses even though they contain forward slashes (/) and the **PathSeparator** property defaults to a backslash (\).
 
 
 ## See also

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.CreateRecipient method (Outlook)
 
-Creates a  **[Recipient](Outlook.Recipient.md)** object.
+Creates a **[Recipient](Outlook.Recipient.md)** object.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) obje
 
 ## Return value
 
-A  **Recipient** object that represents the new recipient.
+A **Recipient** object that represents the new recipient.
 
 
 ## Remarks

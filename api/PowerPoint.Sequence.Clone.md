@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Sequence.Clone method (PowerPoint)
 
-Creates a copy of an  **[Effect](PowerPoint.Effect.md)** object, and adds it to the **[Sequences](PowerPoint.Sequences.md)** collection at the specified index position.
+Creates a copy of an **[Effect](PowerPoint.Effect.md)** object, and adds it to the **[Sequences](PowerPoint.Sequences.md)** collection at the specified index position.
 
 
 ## Syntax

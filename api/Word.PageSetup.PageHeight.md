@@ -26,7 +26,7 @@ _expression_. `PageHeight`
 
 ## Remarks
 
-Setting the  **PageHeight** property changes the **[PaperSize](Word.PageSetup.PaperSize.md)** property to **wdPaperCustom**. Use the **PaperSize** property to set the page height and width to those of a predefined paper size, such as Letter or A4.
+Setting the **PageHeight** property changes the **[PaperSize](Word.PageSetup.PaperSize.md)** property to **wdPaperCustom**. Use the **PaperSize** property to set the page height and width to those of a predefined paper size, such as Letter or A4.
 
 
 ## Example

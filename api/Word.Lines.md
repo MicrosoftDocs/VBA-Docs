@@ -16,7 +16,7 @@ A collection of  **Line** objects that represents the lines in a **Rectangle** o
 
 ## Remarks
 
-Use the  **Lines** property to return a collection of lines for a specified rectangle. The following example accesses the lines in the first rectangle in the first page in the active document.
+Use the **Lines** property to return a collection of lines for a specified rectangle. The following example accesses the lines in the first rectangle in the first page in the active document.
 
 
 ```vb
@@ -26,7 +26,7 @@ Set objLines = ActiveDocument.ActiveWindow.Panes(1) _
  .Pages(1).Rectangles(1).Lines
 ```
 
-Use the  **RectangleType** property of the specified **Rectangle** object to determine whether the **Rectangle** object is of type **wdTextRectangle**. The following example returns the collection of lines in the first rectangle in the first page of the active document if the specified rectangle contains text.
+Use the **RectangleType** property of the specified **Rectangle** object to determine whether the **Rectangle** object is of type **wdTextRectangle**. The following example returns the collection of lines in the first rectangle in the first page of the active document if the specified rectangle contains text.
 
 
 

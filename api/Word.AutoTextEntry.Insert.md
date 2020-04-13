@@ -38,7 +38,7 @@ Range
 
 ## Remarks
 
-If you don't want to replace the range, use the  **Collapse** method before using this method.
+If you don't want to replace the range, use the **Collapse** method before using this method.
 
 
 ## Example

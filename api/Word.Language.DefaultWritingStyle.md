@@ -26,9 +26,9 @@ _expression_ A variable that represents a '[Language](Word.Language.md)' object.
 
 ## Remarks
 
-This property controls the global setting for the writing style. The name of the writing style is the localized name for the specified language. When setting this property, you must use the exact name found in the  **Writing style box** on the **Spelling & Grammar** tab in the **Options** dialog box (**Tools** menu).
+This property controls the global setting for the writing style. The name of the writing style is the localized name for the specified language. When setting this property, you must use the exact name found in the **Writing style box** on the **Spelling & Grammar** tab in the **Options** dialog box (**Tools** menu).
 
-The  **[ActiveWritingStyle](Word.Document.ActiveWritingStyle.md)** property sets the writing style for each language in a document. The **ActiveWritingStyle** setting overrides the **DefaultWritingStyle** setting.
+The **[ActiveWritingStyle](Word.Document.ActiveWritingStyle.md)** property sets the writing style for each language in a document. The **ActiveWritingStyle** setting overrides the **DefaultWritingStyle** setting.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ScaleEffect.ByX property (PowerPoint)
 
-Sets or returns a  **Single** that represents scaling or moving an object horizontally by a specified percentage of the screen width, depending on whether it used in conjunction with a **[ScaleEffect](PowerPoint.ScaleEffect.md)** or **[MotionEffect](PowerPoint.MotionEffect.md)** object, respectively. For example, a value of 50 for a motion effect means to move the object half the screen width to the right. Read/write.
+Sets or returns a **Single** that represents scaling or moving an object horizontally by a specified percentage of the screen width, depending on whether it used in conjunction with a **[ScaleEffect](PowerPoint.ScaleEffect.md)** or **[MotionEffect](PowerPoint.MotionEffect.md)** object, respectively. For example, a value of 50 for a motion effect means to move the object half the screen width to the right. Read/write.
 
 
 ## Syntax

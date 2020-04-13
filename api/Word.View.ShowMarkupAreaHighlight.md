@@ -26,7 +26,7 @@ _expression_. `ShowMarkupAreaHighlight`
 
 ## Remarks
 
-This property corresponds to the  **Markup Area Highlight** option in the **Show Markup** menu on the **Review** ribbon.
+This property corresponds to the **Markup Area Highlight** option in the **Show Markup** menu on the **Review** ribbon.
 
 
 ## See also

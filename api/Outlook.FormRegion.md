@@ -19,7 +19,7 @@ Represents a form region in an Outlook form.
 
 ## Remarks
 
-The  **FormRegion** object allows an add-in to add code behind a form region in a custom form to modify the appearance and behavior of the form region.
+The **FormRegion** object allows an add-in to add code behind a form region in a custom form to modify the appearance and behavior of the form region.
 
 To obtain an instance of the  **FormRegion** object, an add-in must implement the **[FormRegionStartup](Outlook.formregionstartup.md)** interface. Outlook allocates storage for the form region, instantiates an instance of the **FormRegion** object, and returns the **FormRegion** object in the **[GetFormRegionStorage](Outlook.FormRegionStartup.GetFormRegionStorage.md)** method.
 

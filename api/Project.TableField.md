@@ -13,7 +13,7 @@ localization_priority: Normal
 
 
 
-Represents a field of a table in Project. The  **TableField** object is a member of the **[TableFields](./Project.tablefields.md)** collection.
+Represents a field of a table in Project. The **TableField** object is a member of the **[TableFields](./Project.tablefields.md)** collection.
 
 ## Methods
 

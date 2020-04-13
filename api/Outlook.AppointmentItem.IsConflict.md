@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.IsConflict property (Outlook)
 
-Returns a  **Boolean** that determines if the item on the local computer is different from the copy on the server. Read-only.
+Returns a **Boolean** that determines if the item on the local computer is different from the copy on the server. Read-only.
 
 
 ## Syntax

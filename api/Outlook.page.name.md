@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # Page.Name Property (Outlook Forms Script)
 
-Returns or sets a  **String** that specifies the name of an object. Read/write.
+Returns or sets a **String** that specifies the name of an object. Read/write.
 
 
 ## Syntax
 
 _expression_.**Name**
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **Page** object.
 
 
 ## Remarks

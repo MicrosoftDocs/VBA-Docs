@@ -26,7 +26,7 @@ _expression_. `RecipientReference`
 
 ## Example
 
-This example creates a new  **LetterContent** object, sets several properties (including the reference line), and then runs the Letter Wizard by using the **[RunLetterWizard](Word.Document.RunLetterWizard.md)** method.
+This example creates a new **LetterContent** object, sets several properties (including the reference line), and then runs the Letter Wizard by using the **[RunLetterWizard](Word.Document.RunLetterWizard.md)** method.
 
 
 ```vb

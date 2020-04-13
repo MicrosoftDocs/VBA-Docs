@@ -19,7 +19,7 @@ Represents the  **Solutions** navigation module in the navigation pane of an exp
 
 ## Remarks
 
-The  **Solutions** navigation module contains folders that developers of individual add-ins want to expose to users in the navigation pane. Each solution has one root folder under the **Solutions** module, and each root folder can contain subfolders that hold heterogeneous Outlook items.
+The **Solutions** navigation module contains folders that developers of individual add-ins want to expose to users in the navigation pane. Each solution has one root folder under the **Solutions** module, and each root folder can contain subfolders that hold heterogeneous Outlook items.
 
 To add solution folders programmatically to the  **Solutions** module, use the **SolutionsModule** object, which is derived from the **[NavigationModule](Outlook.NavigationModule.md)** object.
 

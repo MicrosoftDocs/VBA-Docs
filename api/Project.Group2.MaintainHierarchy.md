@@ -26,7 +26,7 @@ _expression_. `MaintainHierarchy`
 
 ## Remarks
 
-The  **MaintainHierarchy** property corresponds to the **Maintain Hierarchy in Current Group** option in the **Group by** drop-down list on the **View** tab of the Project Ribbon.
+The **MaintainHierarchy** property corresponds to the **Maintain Hierarchy in Current Group** option in the **Group by** drop-down list on the **View** tab of the Project Ribbon.
 
 
 ## Example

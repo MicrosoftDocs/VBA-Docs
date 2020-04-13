@@ -26,11 +26,11 @@ _expression_ A variable that represents a '[Borders](Word.borders.md)' collectio
 
 ## Remarks
 
-The  **Enable** property returns **True** or **wdUndefined** if border formatting is applied to all or part of the specified object. Can be set to **True**, **False**, or a **WdLineStyle** constant.
+The **Enable** property returns **True** or **wdUndefined** if border formatting is applied to all or part of the specified object. Can be set to **True**, **False**, or a **WdLineStyle** constant.
 
-The  **Enable** property applies to all borders for the specified object. **True** sets the line style to the default line style and sets the line width to the default line width. The default line style and line width can be set using the **DefaultBorderLineWidth** and **DefaultBorderLineStyle** properties.
+The **Enable** property applies to all borders for the specified object. **True** sets the line style to the default line style and sets the line width to the default line width. The default line style and line width can be set using the **DefaultBorderLineWidth** and **DefaultBorderLineStyle** properties.
 
-To remove all the borders from an object, set the  **Enable** property to **False**, as shown in the following example.
+To remove all the borders from an object, set the **Enable** property to **False**, as shown in the following example.
 
 
 

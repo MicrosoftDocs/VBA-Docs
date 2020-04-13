@@ -23,8 +23,8 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The  **DayLabelDisplay** property corresponds to the **Days** list on the **Advanced** tab of the **Project Options** dialog box. For example, setting the **DayLabelDisplay** property to 1 sets the **Days** list to the second value in the list ("dy").
+The **DayLabelDisplay** property corresponds to the **Days** list on the **Advanced** tab of the **Project Options** dialog box. For example, setting the **DayLabelDisplay** property to 1 sets the **Days** list to the second value in the list ("dy").
 
-Values of the  **DayLabelDisplay** property can be 0 to 2.
+Values of the **DayLabelDisplay** property can be 0 to 2.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

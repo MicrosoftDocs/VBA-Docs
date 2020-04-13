@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[TableView](Outlook.TableView.md)' ob
 
 ## Remarks
 
-The  **AlwaysExpandConversation** property is analogous to selecting **Always Expand Conversations** in the **Conversations** menu of the **Arrangement** group on the **View** tab of the ribbon.
+The **AlwaysExpandConversation** property is analogous to selecting **Always Expand Conversations** in the **Conversations** menu of the **Arrangement** group on the **View** tab of the ribbon.
 
  **True** indicates that conversation groups are fully expanded in the table view by default; **False** indicates conversation groups are only partially expanded.
 

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # TableField.Parent property (Project)
 
-Gets the parent of the  **TableField** object. Read-only **Table**.
+Gets the parent of the **TableField** object. Read-only **Table**.
 
 
 ## Syntax
@@ -23,6 +23,6 @@ _expression_ A variable that represents a [TableField](./Project.TableField.md) 
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

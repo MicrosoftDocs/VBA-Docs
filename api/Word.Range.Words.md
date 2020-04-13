@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Range](Word.Range.md)** object.
 
 ## Remarks
 
-Punctuation and paragraph marks in a document are included in the  **Words** collection.
+Punctuation and paragraph marks in a document are included in the **Words** collection.
 
 For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 

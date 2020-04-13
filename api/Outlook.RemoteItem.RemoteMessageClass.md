@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RemoteItem.RemoteMessageClass property (Outlook)
 
-Returns a  **String** indicating the message class for the remote item. Read-only.
+Returns a **String** indicating the message class for the remote item. Read-only.
 
 
 ## Syntax

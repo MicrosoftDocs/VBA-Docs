@@ -34,7 +34,7 @@ _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
 ## Return value
 
-A  **[Points](Word.Points.md)** object that represents all the points in the series.
+A **[Points](Word.Points.md)** object that represents all the points in the series.
 
 
 ## Example

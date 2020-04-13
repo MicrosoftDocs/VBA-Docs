@@ -24,7 +24,7 @@ _expression_ A variable that represents a 'ShapeRange' object.
 
 ### Remarks
 
-Use the  **[Apply](Project.shaperange.apply.md)** method to apply copied formatting to another shape or shape range.
+Use the **[Apply](Project.shaperange.apply.md)** method to apply copied formatting to another shape or shape range.
 
 
 ## Example

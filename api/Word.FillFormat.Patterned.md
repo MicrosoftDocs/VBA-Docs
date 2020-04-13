@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents a **[FillFormat](word.fillform
 
 ## Remarks
 
-Use the  **BackColor** and **ForeColor** properties to set the colors used in the pattern.
+Use the **BackColor** and **ForeColor** properties to set the colors used in the pattern.
 
 
 ## Example

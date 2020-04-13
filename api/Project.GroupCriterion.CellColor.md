@@ -23,7 +23,7 @@ _expression_ A variable that represents a [GroupCriterion](./Project.GroupCriter
 
 ## Remarks
 
-The  **CellColor** property can be one of the following **[PjColor](Project.PjColor.md)** constants:
+The **CellColor** property can be one of the following **[PjColor](Project.PjColor.md)** constants:
 
 
 |||
@@ -38,6 +38,6 @@ The  **CellColor** property can be one of the following **[PjColor](Project.PjCo
 |**pjLime**|**pjWhite**|
 |**pjMaroon**||
 
-To use a hexadecimal RGB value for the cell color, see the  **[CellColorEx](Project.GroupCriterion2.CellColorEx.md)** property of the **GroupCriterion2** object.
+To use a hexadecimal RGB value for the cell color, see the **[CellColorEx](Project.GroupCriterion2.CellColorEx.md)** property of the **GroupCriterion2** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

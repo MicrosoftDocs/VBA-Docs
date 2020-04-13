@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[ShapeRange](Word.shaperan
 
 ## Remarks
 
-The position of a shape is measured from the upper-left corner of the shape's bounding box to the shape's anchor. The  **RelativeVerticalPosition** property controls whether the shape's anchor is positioned alongside the line, the paragraph, the margin, or the edge of the page.
+The position of a shape is measured from the upper-left corner of the shape's bounding box to the shape's anchor. The **RelativeVerticalPosition** property controls whether the shape's anchor is positioned alongside the line, the paragraph, the margin, or the edge of the page.
 
 For a  **ShapeRange** object that contains more than one shape, the **Top** property sets the vertical position of each shape.
 

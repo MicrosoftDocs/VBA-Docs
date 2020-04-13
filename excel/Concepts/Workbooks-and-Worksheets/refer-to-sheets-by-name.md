@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Refer to Sheets by Name
 
-You can identify sheets by name using the  **[Worksheets](../../../api/Excel.Workbook.Worksheets.md)** and  **[Charts](../../../api/Excel.Workbook.Charts.md)** properties. The following statements activate various sheets in the active workbook.
+You can identify sheets by name using the **[Worksheets](../../../api/Excel.Workbook.Worksheets.md)** and **[Charts](../../../api/Excel.Workbook.Charts.md)** properties. The following statements activate various sheets in the active workbook.
 
 
 ```vb
@@ -25,7 +25,7 @@ Charts("Chart1").Activate
 DialogSheets("Dialog1").Activate
 ```
 
-You can use the  **[Sheets](../../../api/Excel.Workbook.Sheets.md)** property to return a worksheet, chart, module, or dialog sheet. The  **Sheets** collection contains all of these kinds of sheets. The following example activates the sheet named "Chart1" in the active workbook.
+You can use the **[Sheets](../../../api/Excel.Workbook.Sheets.md)** property to return a worksheet, chart, module, or dialog sheet. The **Sheets** collection contains all of these kinds of sheets. The following example activates the sheet named "Chart1" in the active workbook.
 
 
 
@@ -36,6 +36,6 @@ End Sub
 ```
 
 
- **Note**   Charts embedded in a worksheet are members of the **[ChartObjects](../../../api/Excel.ChartObjects.md)** collection, whereas charts that exist on their own sheets belong to the  **[Charts](../../../api/Excel.Charts.md)** collection.
+ **Note**   Charts embedded in a worksheet are members of the **[ChartObjects](../../../api/Excel.ChartObjects.md)** collection, whereas charts that exist on their own sheets belong to the **[Charts](../../../api/Excel.Charts.md)** collection.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

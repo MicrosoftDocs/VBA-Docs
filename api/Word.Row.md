@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Row object (Word)
 
-Represents a row in a table. The  **Row** object is a member of the **[Rows](Word.rows.md)** collection. The **Rows** collection includes all the rows in the specified selection, range, or table.
+Represents a row in a table. The **Row** object is a member of the **[Rows](Word.rows.md)** collection. The **Rows** collection includes all the rows in the specified selection, range, or table.
 
 
 ## Remarks
@@ -26,7 +26,7 @@ Use  **Rows** (Index), where Index is the index number, to return a single **Row
 ActiveDocument.Tables(1).Rows(1).Delete
 ```
 
-Use the  **Add** method to add a row to a table. The following example inserts a row before the first row in the selection.
+Use the **Add** method to add a row to a table. The following example inserts a row before the first row in the selection.
 
 
 
@@ -37,7 +37,7 @@ If Selection.Information(wdWithInTable) = True Then
 End If
 ```
 
-Use the  **Cells** property to modify the individual cells in a **Row** object. The following example adds a table to the selection and then inserts numbers into each cell in the second row of the table.
+Use the **Cells** property to modify the individual cells in a **Row** object. The following example adds a table to the selection and then inserts numbers into each cell in the second row of the table.
 
 
 

@@ -23,12 +23,12 @@ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 ## Remarks
 
-The  **Type** property for a task can be one of the following **[PjTaskFixedType](Project.PjTaskFixedType.md)** constants: **pjFixedUnits**, **pjFixedDuration**, or **pjFixedWork**. The default value is **pjFixedUnits** for both automatically scheduled and manually scheduled tasks. The default task type can be set with the **DefaultTaskType** property for the **Project** object, or on the **Schedule** tab in the **Project Options** dialog box.
+The **Type** property for a task can be one of the following **[PjTaskFixedType](Project.PjTaskFixedType.md)** constants: **pjFixedUnits**, **pjFixedDuration**, or **pjFixedWork**. The default value is **pjFixedUnits** for both automatically scheduled and manually scheduled tasks. The default task type can be set with the **DefaultTaskType** property for the **Project** object, or on the **Schedule** tab in the **Project Options** dialog box.
 
 
 
 
 > [!NOTE] 
-> Although the task type can be set for automatically scheduled tasks in the  **Task Information** dialog box, the **Task type** drop-down list is disabled for manually scheduled tasks. However, you can programmatically change the task type for manually scheduled tasks. The **Task.Type** property is read/write for both manually scheduled and automatically scheduled tasks.
+> Although the task type can be set for automatically scheduled tasks in the **Task Information** dialog box, the **Task type** drop-down list is disabled for manually scheduled tasks. However, you can programmatically change the task type for manually scheduled tasks. The **Task.Type** property is read/write for both manually scheduled and automatically scheduled tasks.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

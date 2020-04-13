@@ -26,7 +26,7 @@ _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) 
 
 ## Return value
 
-A  **SharingItem** object that represents the new sharing invitation.
+A **SharingItem** object that represents the new sharing invitation.
 
 
 ## Remarks

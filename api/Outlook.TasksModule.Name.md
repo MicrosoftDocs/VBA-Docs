@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TasksModule.Name property (Outlook)
 
-Returns a  **String** value that represents the localized display name for the **[TasksModule](Outlook.TasksModule.md)** object. Read-only.
+Returns a **String** value that represents the localized display name for the **[TasksModule](Outlook.TasksModule.md)** object. Read-only.
 
 
 ## Syntax

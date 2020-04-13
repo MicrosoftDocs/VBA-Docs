@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FirstLetterException.Delete method (Word)
 
-Deletes the  **FirstLetterException** object.
+Deletes the **FirstLetterException** object.
 
 
 ## Syntax

@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Document](Word.Document.md)** objec
 
 This collection can contain drawings, shapes, pictures, OLE objects, ActiveX controls, text objects, and callouts. For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 
-The  **Shapes** property, when applied to a document, returns all the **Shape** objects in the main story of the document, excluding the headers and footers.
+The **Shapes** property, when applied to a document, returns all the **Shape** objects in the main story of the document, excluding the headers and footers.
 
 
 ## Example

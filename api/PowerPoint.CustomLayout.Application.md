@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CustomLayout.Application property (PowerPoint)
 
-Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object. Read-only.
+Returns an **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object. Read-only.
 
 
 ## Syntax

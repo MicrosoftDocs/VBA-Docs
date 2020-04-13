@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactsModule.Name property (Outlook)
 
-Returns a  **String** value that represents the localized display name for the **[ContactsModule](Outlook.ContactsModule.md)** object. Read-only.
+Returns a **String** value that represents the localized display name for the **[ContactsModule](Outlook.ContactsModule.md)** object. Read-only.
 
 
 ## Syntax

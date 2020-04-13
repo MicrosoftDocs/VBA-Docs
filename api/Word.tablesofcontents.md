@@ -17,7 +17,7 @@ A collection of  **[TableOfContents](Word.TableOfContents.md)** objects that rep
 
 ## Remarks
 
-Use the  **TablesOfContents** property to return the **TablesOfContents** collection. The following example inserts a table of contents entry that references the selected text in the active document.
+Use the **TablesOfContents** property to return the **TablesOfContents** collection. The following example inserts a table of contents entry that references the selected text in the active document.
 
 
 ```vb
@@ -25,7 +25,7 @@ ActiveDocument.TablesOfContents.MarkEntry Range:=Selection.Range, _
  Level:=2, Entry:="Introduction"
 ```
 
-Use the  **Add** method to add a table of contents to a document. The following example adds a table of contents at the beginning of the active document. The example builds the table of contents from all paragraphs styled as either Heading 1, Heading 2, or Heading 3.
+Use the **Add** method to add a table of contents to a document. The following example adds a table of contents at the beginning of the active document. The example builds the table of contents from all paragraphs styled as either Heading 1, Heading 2, or Heading 3.
 
 
 

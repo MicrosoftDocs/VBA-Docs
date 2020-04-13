@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WorkWeekDay.Parent property (Project)
 
-Gets the parent of the  **WorkWeekDay** object. Read-only **WorkWeek**.
+Gets the parent of the **WorkWeekDay** object. Read-only **WorkWeek**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_.**Parent**
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 
 ## See also

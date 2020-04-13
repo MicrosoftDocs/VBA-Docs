@@ -30,7 +30,7 @@ The current selection is specified by  **[SelText](Outlook.OlkTextBox.SelText.md
 
 The default value is zero, which means no text is currently selected.
 
-The  **SelLength** property is always valid, even when the control does not have focus.
+The **SelLength** property is always valid, even when the control does not have focus.
 
 Setting  **SelLength** to a value less than zero causes an error. Attempting to set the value greater than **MaxLength** results in setting **SelLength** to **MaxLength**.
 

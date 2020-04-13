@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.COMAddIns property (Project)
 
-Gets the  **COMAddIns** collection for Project, which represents the currently installed COM add-ins. Read-only **COMAddIns**.
+Gets the **COMAddIns** collection for Project, which represents the currently installed COM add-ins. Read-only **COMAddIns**.
 
 
 ## Syntax
@@ -23,6 +23,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-For more information, see the  **COMAddIns** collection object in the Microsoft Office Visual Basic Reference.
+For more information, see the **COMAddIns** collection object in the Microsoft Office Visual Basic Reference.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,7 +26,7 @@ _expression_. `LetterheadSize`
 
 ## Example
 
-This example retrieves the Letter Wizard elements from the active document, changes the preprinted letterhead settings, and then uses the  **[SetLetterContent](Word.Document.SetLetterContent.md)** method to update the active document to reflect the changes.
+This example retrieves the Letter Wizard elements from the active document, changes the preprinted letterhead settings, and then uses the **[SetLetterContent](Word.Document.SetLetterContent.md)** method to update the active document to reflect the changes.
 
 
 ```vb

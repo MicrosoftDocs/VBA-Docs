@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[View](Word.View.md)' objec
 
 ## Remarks
 
-The  **RevisionsBalloonWidthType** property sets the measurement unit to use when setting the **RevisionsBalloonWidth** property.
+The **RevisionsBalloonWidthType** property sets the measurement unit to use when setting the **RevisionsBalloonWidth** property.
 
 
 ## Example

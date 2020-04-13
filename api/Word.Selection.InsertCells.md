@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 ## Remarks
 
-The number of cells inserted is equal to the number of cells in the selection. You can also insert cells by using the  **[Add](Word.Cells.Add.md)** method of the **Cells** object.
+The number of cells inserted is equal to the number of cells in the selection. You can also insert cells by using the **[Add](Word.Cells.Add.md)** method of the **Cells** object.
 
 
 ## Example

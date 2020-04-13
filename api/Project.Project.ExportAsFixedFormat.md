@@ -37,7 +37,7 @@ _expression_.**ExportAsFixedFormat** (_FileName_, _FileType_, _IncludeDocumentPr
 | _ArchiveFormat_|Optional|**Boolean**|If  **True**, exports a PDF document in the ISO 19500-1 compliant (PDF/A) format. The default value is **False**.|
 | _FromDate_|Optional|**Variant**|The start date of the range of dates to publish. The default value is the project start date.|
 | _ToDate_|Optional|**Variant**|The end date of the range of dates to publish. The default value is the project end date.|
-| _FixedFormatExtClassPtr_|Optional|**Variant**|Pointer to a custom class in an add-in that implements the  **IMsoDocExporter** COM interface that allows calls to an alternate implementation of code for the document format. The default is a null pointer.|
+| _FixedFormatExtClassPtr_|Optional|**Variant**|Pointer to a custom class in an add-in that implements the **IMsoDocExporter** COM interface that allows calls to an alternate implementation of code for the document format. The default is a null pointer.|
 
 ## Return value
 
@@ -46,12 +46,12 @@ _expression_.**ExportAsFixedFormat** (_FileName_, _FileType_, _IncludeDocumentPr
 
 ## Remarks
 
-The  **ExportAsFixedFormat** method is similar to the **[DocumentExport](Project.Application.DocumentExport.md)** method, except the _FileName_ parameter is required and the optional _FixedFormatExtClassPtr_ parameter is a pointer to a user-defined class that creates a custom PDF or XPS format.
+The **ExportAsFixedFormat** method is similar to the **[DocumentExport](Project.Application.DocumentExport.md)** method, except the _FileName_ parameter is required and the optional _FixedFormatExtClassPtr_ parameter is a pointer to a user-defined class that creates a custom PDF or XPS format.
 
 
 ## Example
 
-If the active project shows a Network Diagram view, the following example creates an XPS document named TestProject.xps. When you open the file in the  **XPS Viewer** application, the last page includes document properties and a legend that shows the PERT chart symbols.
+If the active project shows a Network Diagram view, the following example creates an XPS document named TestProject.xps. When you open the file in the **XPS Viewer** application, the last page includes document properties and a legend that shows the PERT chart symbols.
 
 
 ```vb

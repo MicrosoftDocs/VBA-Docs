@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-One of the settings in the  **HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\14.0\Access Connectivity Engine\Engines\Excel** key of the Microsoft Windows Registry is not valid. Edit the Windows Registry to be sure all the parameters are valid.
+One of the settings in the **HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\14.0\Access Connectivity Engine\Engines\Excel** key of the Microsoft Windows Registry is not valid. Edit the Windows Registry to be sure all the parameters are valid.
 
 ## See also
 

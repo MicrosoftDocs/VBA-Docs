@@ -28,6 +28,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 If the entry bar is selected and you run the command  `DisplayEntryBar = False`, Project shows run-time error 1100, "The method is not available in this situation."
 
-The  **DisplayEntryBar** property corresponds to the **Entry bar** checkbox on the **Display** tab of the **Project Options** dialog box.
+The **DisplayEntryBar** property corresponds to the **Entry bar** checkbox on the **Display** tab of the **Project Options** dialog box.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

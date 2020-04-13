@@ -23,6 +23,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The  **Path** property returns an empty string ("") for an unsaved project.
+The **Path** property returns an empty string ("") for an unsaved project.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

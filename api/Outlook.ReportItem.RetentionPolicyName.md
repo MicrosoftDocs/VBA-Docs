@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ReportItem.RetentionPolicyName property (Outlook)
 
-Returns a  **String** that specifies the name of the retention policy. Read-only.
+Returns a **String** that specifies the name of the retention policy. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RemoteItem.ConversationID property (Outlook)
 
-Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object that the **[RemoteItem](Outlook.RemoteItem.md)** object belongs to. Read-only.
+Returns a **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object that the **[RemoteItem](Outlook.RemoteItem.md)** object belongs to. Read-only.
 
 
 ## Syntax

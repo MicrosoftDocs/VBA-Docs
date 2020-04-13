@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 ## Remarks
 
-The value of this property must be between 0 and 100. This property is ignored if the  **[RightAngleAxes](Word.Chart.RightAngleAxes.md)** property is set to **True**.
+The value of this property must be between 0 and 100. This property is ignored if the **[RightAngleAxes](Word.Chart.RightAngleAxes.md)** property is set to **True**.
 
 
 ## Example

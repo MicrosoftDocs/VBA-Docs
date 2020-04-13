@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # HeadingStyle object (Word)
 
-Represents a style used to build a table of contents or figures. The  **HeadingStyle** object is a member of the **[HeadingStyles](Word.headingstyles.md)** collection.
+Represents a style used to build a table of contents or figures. The **HeadingStyle** object is a member of the **[HeadingStyles](Word.headingstyles.md)** collection.
 
 
 ## Remarks
@@ -28,7 +28,7 @@ Set myTOF = ActiveDocument.TablesOfFigures.Add _
 MsgBox myTOF.HeadingStyles(1).Style
 ```
 
-Use the  **Add** method to add a style to the **HeadingStyles** collection. The following example adds a table of contents at the beginning of the active document and then adds the Title style to the list of styles used to build a table of contents.
+Use the **Add** method to add a style to the **HeadingStyles** collection. The following example adds a table of contents at the beginning of the active document and then adds the Title style to the list of styles used to build a table of contents.
 
 
 

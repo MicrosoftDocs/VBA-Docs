@@ -23,6 +23,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-Use the  **Container** property to access the properties or methods of the object that contains the project. If the container doesn't support automation or the project is not embedded, the **Container** property fails with run-time error 1004.
+Use the **Container** property to access the properties or methods of the object that contains the project. If the container doesn't support automation or the project is not embedded, the **Container** property fails with run-time error 1004.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

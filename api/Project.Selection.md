@@ -15,7 +15,7 @@ localization_priority: Normal
 
 Represents a selection in the active project. There is no collection for  **Selection** objects. The **Selection** object can be accessed only through the **[ActiveSelection](./Project.Application.ActiveSelection.md)** property of the **Application** object.
  **Using the Selection Object**
-Use the  **ActiveSelection** property to return a **Selection** object. The following example lists the names of all the resources in the selection.
+Use the **ActiveSelection** property to return a **Selection** object. The following example lists the names of all the resources in the selection.
 
 ## Properties
 

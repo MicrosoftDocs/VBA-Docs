@@ -20,7 +20,7 @@ To use this example, copy this sample code to the Script Editor of a form. To ru
 
 - A **CommandButton** named CommandButton1.
 
-- Three  **[OptionButton](../../../api/Outlook.optionbutton.md)** controls named OptionButton1 through OptionButton3.
+- Three **[OptionButton](../../../api/Outlook.optionbutton.md)** controls named OptionButton1 through OptionButton3.
 
 ```vb
 Sub CommandButton1_Click() 

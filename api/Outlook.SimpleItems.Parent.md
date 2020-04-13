@@ -26,7 +26,7 @@ _expression_ A variable that represents a [SimpleItems](Outlook.SimpleItems.md) 
 
 ## Remarks
 
-The parent object of a  **SimpleItems** object is a **[Conversation](Outlook.Conversation.md)** object.
+The parent object of a **SimpleItems** object is a **[Conversation](Outlook.Conversation.md)** object.
 
 
 ## See also

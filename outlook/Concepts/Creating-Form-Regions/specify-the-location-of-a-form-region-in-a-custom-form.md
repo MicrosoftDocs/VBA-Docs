@@ -18,7 +18,7 @@ There are several ways you can display a form region or form regions on the defa
 
 ### To add a form region to the default page
 
-- In the form region manifest XML file, specify  **adjoining** as the value of the **formRegionType** element.
+- In the form region manifest XML file, specify **adjoining** as the value of the **formRegionType** element.
 
 The form region will be added to the bottom of the default page of the original standard form, and will be displayed in an Inspector or the Reading Pane.
 
@@ -32,9 +32,9 @@ You can use the resulting custom form to display items of the same message class
 
 ### To add multiple form regions to the default page
 
-1. For each form region, in the corresponding form region manifest XML file, specify  **adjoining** as the value of the **formRegionType** element.
+1. For each form region, in the corresponding form region manifest XML file, specify **adjoining** as the value of the **formRegionType** element.
 
-2. Except for the form region that will appear as the first form region on the default page, for each of the other form regions, in the corresponding form region manifest XML file, specify the internal name of the form region that will precede this one as the value of the  **displayAfter** element.
+2. Except for the form region that will appear as the first form region on the default page, for each of the other form regions, in the corresponding form region manifest XML file, specify the internal name of the form region that will precede this one as the value of the **displayAfter** element.
 
 You can use the resulting custom form to display items of the same message class as the original standard form, or you can assign a derived message class for the custom form and use the custom form to display only items of the derived message class.
 
@@ -64,9 +64,9 @@ You will specify the following in C's form region manifest XML file:
 
 ### To "replace" the entire default page by a form region
 
-1. In the form region manifest XML file, specify  **replace** as the value of the **formRegionType** element.
+1. In the form region manifest XML file, specify **replace** as the value of the **formRegionType** element.
 
-2. When you register the form region in the Windows registry, under the local machine key (as  **HKEY_LOCAL_MACHINE\Software\Microsoft\Office\Outlook\FormRegions**) or the current user key (as  **HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\FormRegions**), create a separate key for the derived message class for this form region. Add a value of the type  **REG_SZ**, specifying the internal name of the form region as the name of the key, and the full local file path name to the form region manifest XML file as the data of the key.
+2. When you register the form region in the Windows registry, under the local machine key (as **HKEY_LOCAL_MACHINE\Software\Microsoft\Office\Outlook\FormRegions**) or the current user key (as **HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\FormRegions**), create a separate key for the derived message class for this form region. Add a value of the type **REG_SZ**, specifying the internal name of the form region as the name of the key, and the full local file path name to the form region manifest XML file as the data of the key.
 
 When you are "replacing" the default page of a standard form, you are in reality using the standard form as a template and creating a new custom form that has your form region as the default page. If the original standard form contains other form pages or separate form regions, they will remain as part of the custom form.
 
@@ -82,9 +82,9 @@ When you register this form region in the Windows registry, you must not specify
 
 ### To "replace" the entire standard form by a form region
 
-1. In the form region manifest XML file, specify  **replaceall** as the value of the **formRegionType** element.
+1. In the form region manifest XML file, specify **replaceall** as the value of the **formRegionType** element.
 
-2. When you register the form region in the Windows registry, under the local machine key (as  **HKEY_LOCAL_MACHINE\Software\Microsoft\Office\Outlook\FormRegions**) or the current user key (as  **HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\FormRegions**), create a separate key for the derived message class for this form region. Add a value of the type  **REG_SZ**, specifying the internal name of the form region as the name of the key, and the full local file path name to the form region manifest XML file as the data of the key.
+2. When you register the form region in the Windows registry, under the local machine key (as **HKEY_LOCAL_MACHINE\Software\Microsoft\Office\Outlook\FormRegions**) or the current user key (as **HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\FormRegions**), create a separate key for the derived message class for this form region. Add a value of the type **REG_SZ**, specifying the internal name of the form region as the name of the key, and the full local file path name to the form region manifest XML file as the data of the key.
 
 When you are "replacing" the entire standard form with a form region, you are in reality using the standard form as a template and creating a new custom form that has the form region as the default page. If the original standard form contains other form pages or separate form regions, they will not remain as part of the custom form.
 
@@ -120,9 +120,9 @@ You can use the resulting custom form to display items of the same message class
 
 ### To add multiple form regions as separate pages
 
-1. For each form region, in the corresponding form region manifest XML file, specify  **separate** as the value of the **formRegionType** element.
+1. For each form region, in the corresponding form region manifest XML file, specify **separate** as the value of the **formRegionType** element.
 
-2. Except for the form region that will appear as the first form region in the custom form, for each of the other form regions, in the corresponding form region manifest XML file, specify the internal name of the form region that will precede this one as the value of the  **displayAfter** element.
+2. Except for the form region that will appear as the first form region in the custom form, for each of the other form regions, in the corresponding form region manifest XML file, specify the internal name of the form region that will precede this one as the value of the **displayAfter** element.
 
 You can use the resulting custom form to display items of the same message class as the original standard form, or you can assign a derived message class for the custom form and use the custom form to display only items of the derived message class.
 

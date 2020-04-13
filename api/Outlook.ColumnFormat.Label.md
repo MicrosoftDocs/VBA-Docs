@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ColumnFormat.Label property (Outlook)
 
-Returns or sets a  **String** value that represents the column label and tooltip displayed for the property to which the **[ColumnFormat](Outlook.ColumnFormat.md)** object is associated. Read/write.
+Returns or sets a **String** value that represents the column label and tooltip displayed for the property to which the **[ColumnFormat](Outlook.ColumnFormat.md)** object is associated. Read/write.
 
 
 ## Syntax

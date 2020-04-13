@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ViewFields.Insert method (Outlook)
 
-Creates a new  **[ViewField](Outlook.ViewField.md)** object and inserts it at the specified index within the **[ViewFields](Outlook.ViewFields.md)** collection.
+Creates a new **[ViewField](Outlook.ViewField.md)** object and inserts it at the specified index within the **[ViewFields](Outlook.ViewFields.md)** collection.
 
 
 ## Syntax

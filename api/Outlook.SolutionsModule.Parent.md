@@ -26,7 +26,7 @@ _expression_ A variable that represents a [SolutionsModule](Outlook.SolutionsMod
 
 ## Remarks
 
-The parent of a  **SolutionsModule** object returns a **[NavigationPane](Outlook.NavigationPane.md)** object.
+The parent of a **SolutionsModule** object returns a **[NavigationPane](Outlook.NavigationPane.md)** object.
 
 
 ## See also

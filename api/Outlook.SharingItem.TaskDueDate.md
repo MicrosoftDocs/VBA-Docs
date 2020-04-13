@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.TaskDueDate property (Outlook)
 
-Returns or sets a  **Date** value that represents the due date of the task for this **[SharingItem](Outlook.SharingItem.md)**. Read/write.
+Returns or sets a **Date** value that represents the due date of the task for this **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

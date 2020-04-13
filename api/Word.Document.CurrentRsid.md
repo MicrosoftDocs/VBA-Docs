@@ -26,7 +26,7 @@ _expression_. `CurrentRsid`
 
 ## Remarks
 
-If the  **[StoreRSIDOnSave](Word.Options.StoreRSIDOnSave.md)** property is **True**, each time a document is saved, Word generates a random number that the application uses to facilitate comparing and merging documents. Word stores the random numbers in a table and updates the table after each save. The **CurrentRsid** property returns the last number that Word has assigned to a document.
+If the **[StoreRSIDOnSave](Word.Options.StoreRSIDOnSave.md)** property is **True**, each time a document is saved, Word generates a random number that the application uses to facilitate comparing and merging documents. Word stores the random numbers in a table and updates the table after each save. The **CurrentRsid** property returns the last number that Word has assigned to a document.
 
 
 ## See also

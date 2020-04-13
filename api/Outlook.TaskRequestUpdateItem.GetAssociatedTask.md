@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskRequestUpdateItem.GetAssociatedTask method (Outlook)
 
-Returns a  **[TaskItem](Outlook.TaskItem.md)** object that represents the requested task.
+Returns a **[TaskItem](Outlook.TaskItem.md)** object that represents the requested task.
 
 
 ## Syntax
@@ -39,12 +39,12 @@ A  **TaskItem** object that represents the requested task.
 
 ## Remarks
 
-The  **GetAssociatedTask** method will not work unless the **TaskItem** is processed before the method is called. To do so, call the **[Display](Outlook.TaskItem.Display.md)** method before calling **GetAssociatedTask**.
+The **GetAssociatedTask** method will not work unless the **TaskItem** is processed before the method is called. To do so, call the **[Display](Outlook.TaskItem.Display.md)** method before calling **GetAssociatedTask**.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example accepts a  **[TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)**, sending the response without displaying the inspector.
+This Microsoft Visual Basic for Applications (VBA) example accepts a **[TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)**, sending the response without displaying the inspector.
 
 
 ```vb

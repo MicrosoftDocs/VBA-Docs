@@ -33,7 +33,7 @@ This example switches the active window to full-screen view.
 ActiveDocument.ActiveWindow.View.FullScreen = True
 ```
 
-This example sets view options for each window in the  **Windows** collection.
+This example sets view options for each window in the **Windows** collection.
 
 
 

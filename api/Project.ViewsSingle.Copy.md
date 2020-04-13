@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # ViewsSingle.Copy method (Project)
 
-Makes a copy of a group definition for the  **ViewsSingle** collection and returns a reference to the **[View](Project.ViewSingle.md)** object.
+Makes a copy of a group definition for the **ViewsSingle** collection and returns a reference to the **[View](Project.ViewSingle.md)** object.
 
 
 ## Syntax

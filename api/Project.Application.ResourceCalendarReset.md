@@ -41,6 +41,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **ResourceCalendarReset** method has no effect for material resources.
+The **ResourceCalendarReset** method has no effect for material resources.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

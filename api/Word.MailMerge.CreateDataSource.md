@@ -46,7 +46,7 @@ _expression_ Required. A variable that represents a **[MailMerge](Word.MailMerge
 
 ## Remarks
 
-When you use the  **CreateDataSource** method, Word attaches the new data source to the specified document, which becomes a main document, if it is not one already.
+When you use the **CreateDataSource** method, Word attaches the new data source to the specified document, which becomes a main document, if it is not one already.
 
 How you specify the range for the Connection argument depends on how data is retrieved. For example:
 

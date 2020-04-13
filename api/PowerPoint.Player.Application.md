@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Player.Application property (PowerPoint)
 
-Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
+Returns an **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax

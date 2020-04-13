@@ -39,8 +39,8 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Using the  **SetTitleRowHeight** method without specifying any arguments sets the title row height to the default height of the active view.
+Using the **SetTitleRowHeight** method without specifying any arguments sets the title row height to the default height of the active view.
 
-The  **SetTitleRowHeight** method applies only to sheet views. Project returns a trappable error (error code 1100) in a non-sheet view such as the **Network Diagram** or **Calendar** view.
+The **SetTitleRowHeight** method applies only to sheet views. Project returns a trappable error (error code 1100) in a non-sheet view such as the **Network Diagram** or **Calendar** view.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # Font.Strikethrough Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether the text appears with strikethrough marks. Read/write.
+Returns or sets a **Boolean** that specifies whether the text appears with strikethrough marks. Read/write.
 
 
 ## Syntax
 
 _expression_.**Strikethrough**
 
-_expression_ A variable that represents a  **Font** object.
+_expression_ A variable that represents a **Font** object.
 
 
 ## Remarks

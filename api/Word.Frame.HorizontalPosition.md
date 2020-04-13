@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Frame.HorizontalPosition property (Word)
 
-Returns or sets the horizontal distance between the edge of the frame and the item specified by the  **[RelativeHorizontalPosition](Word.Frame.RelativeHorizontalPosition.md)** property. Read/write **Single**.
+Returns or sets the horizontal distance between the edge of the frame and the item specified by the **[RelativeHorizontalPosition](Word.Frame.RelativeHorizontalPosition.md)** property. Read/write **Single**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Frame](Word.Frame.md)' object.
 
 ## Remarks
 
-This property can be a number that indicates a measurement in points, or can be one of the  **[WdFramePosition](Word.WdFramePosition.md)** constants.
+This property can be a number that indicates a measurement in points, or can be one of the **[WdFramePosition](Word.WdFramePosition.md)** constants.
 
 
 ## Example

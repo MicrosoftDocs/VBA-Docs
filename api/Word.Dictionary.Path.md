@@ -26,11 +26,11 @@ _expression_ Required. A variable that represents a '[Dictionary](Word.Dictionar
 
 ## Remarks
 
-The path doesn't include a trailing character — for example, "C:\MSOffice" or "https://MyServer". Use the  **PathSeparator** property to add the character that separates folders and drive letters. Use the **Name** property to return the file name without the path and use the **FullName** property to return the file name and the path together.
+The path doesn't include a trailing character — for example, "C:\MSOffice" or "https://MyServer". Use the **PathSeparator** property to add the character that separates folders and drive letters. Use the **Name** property to return the file name without the path and use the **FullName** property to return the file name and the path together.
 
 
 > [!NOTE] 
-> You can use the  **PathSeparator** property to build web addresses even though they contain forward slashes (/) and the **PathSeparator** property defaults to a backslash (\).
+> You can use the **PathSeparator** property to build web addresses even though they contain forward slashes (/) and the **PathSeparator** property defaults to a backslash (\).
 
 
 ## See also

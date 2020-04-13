@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.IsRecurring property (Outlook)
 
-Returns a  **Boolean** value that is **True** if the appointment is a recurring appointment. Read-only.
+Returns a **Boolean** value that is **True** if the appointment is a recurring appointment. Read-only.
 
 
 ## Syntax

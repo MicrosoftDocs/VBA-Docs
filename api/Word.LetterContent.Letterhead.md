@@ -26,7 +26,7 @@ _expression_. `Letterhead`
 
 ## Example
 
-This example creates a new  **LetterContent** object, reserves an inch of space at the top of the page for a preprinted letterhead, and then runs the Letter Wizard by using the **[RunLetterWizard](Word.Document.RunLetterWizard.md)** method.
+This example creates a new **LetterContent** object, reserves an inch of space at the top of the page for a preprinted letterhead, and then runs the Letter Wizard by using the **[RunLetterWizard](Word.Document.RunLetterWizard.md)** method.
 
 
 ```vb

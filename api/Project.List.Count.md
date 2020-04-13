@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # List.Count property (Project)
 
-Gets the number of items in the  **List** collection. Read-only **Long**.
+Gets the number of items in the **List** collection. Read-only **Long**.
 
 
 ## Syntax

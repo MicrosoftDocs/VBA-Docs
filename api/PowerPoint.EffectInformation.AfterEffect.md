@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # EffectInformation.AfterEffect property (PowerPoint)
 
-Returns an  **PpAfterEffect** constant that indicates whether an after effect appears dimmed, hidden, or unchanged after it runs. Read-only.
+Returns an **PpAfterEffect** constant that indicates whether an after effect appears dimmed, hidden, or unchanged after it runs. Read-only.
 
 
 ## Syntax

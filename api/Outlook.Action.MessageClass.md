@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Action.MessageClass property (Outlook)
 
-Returns or sets a  **String** representing the message class for the **[Action](Outlook.Action.md)**. Read/write.
+Returns or sets a **String** representing the message class for the **[Action](Outlook.Action.md)**. Read/write.
 
 
 ## Syntax

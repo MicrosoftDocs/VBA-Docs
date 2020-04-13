@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AutoFormatRules.Add method (Outlook)
 
-Creates a new  **[AutoFormatRule](Outlook.AutoFormatRule.md)** object and appends it to the **[AutoFormatRules](Outlook.AutoFormatRules.md)** collection.
+Creates a new **[AutoFormatRule](Outlook.AutoFormatRule.md)** object and appends it to the **[AutoFormatRules](Outlook.AutoFormatRules.md)** collection.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents an [AutoFormatRules](Outlook.AutoFormatR
 
 ## Return value
 
-An  **AutoFormatRule** object that represents the new formatting rule.
+An **AutoFormatRule** object that represents the new formatting rule.
 
 
 ## Remarks

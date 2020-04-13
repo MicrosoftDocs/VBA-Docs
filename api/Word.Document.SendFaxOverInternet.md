@@ -26,13 +26,13 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Recipients_|Optional| **Variant**|A  **String** that represents the fax numbers and email addresses of the people to whom to send the fax. Separate multiple recipients with a semicolon.|
-| _Subject_|Optional| **Variant**|A  **String** that represents the subject line for the faxed document.|
+| _Recipients_|Optional| **Variant**|A **String** that represents the fax numbers and email addresses of the people to whom to send the fax. Separate multiple recipients with a semicolon.|
+| _Subject_|Optional| **Variant**|A **String** that represents the subject line for the faxed document.|
 | _ShowMessage_|Optional| **Variant**| **True** displays the fax message before sending it. **False** sends the fax without displaying the fax message.|
 
 ## Remarks
 
-Using the  **SendFaxOverInternet** method requires that a fax service is enabled on a user's computer. If a fax service is not enabled, the **SendFaxOverInternet** method will cause a run-time error.
+Using the **SendFaxOverInternet** method requires that a fax service is enabled on a user's computer. If a fax service is not enabled, the **SendFaxOverInternet** method will cause a run-time error.
 
 The format used for specifying fax numbers in the Recipients parameter is either recipientsfaxnumber@usersfaxprovider or recipientsname@recipientsfaxnumber. You can access the user's fax provider information using the following registry path:
 

@@ -12,9 +12,9 @@ localization_priority: Normal
 
 # Displaying a Custom Dialog Box
 
-To test your dialog box in the Visual Basic Editor, click  **Run Sub/UserForm** on the **Run** menu in the Visual Basic Editor.
+To test your dialog box in the Visual Basic Editor, click **Run Sub/UserForm** on the **Run** menu in the Visual Basic Editor.
 
-To display a dialog box from Visual Basic, use the  **Show** method. The following example displays the dialog box named UserForm1.
+To display a dialog box from Visual Basic, use the **Show** method. The following example displays the dialog box named UserForm1.
 
 
 

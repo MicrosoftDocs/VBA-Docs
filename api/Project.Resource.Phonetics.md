@@ -23,6 +23,6 @@ _expression_ A variable that represents a [Resource](./Project.Resource.md) obje
 
 ## Remarks
 
-The  **Phonetics** property only produces tangible results if the Japanese version of Project is used.
+The **Phonetics** property only produces tangible results if the Japanese version of Project is used.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

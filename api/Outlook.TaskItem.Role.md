@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskItem.Role property (Outlook)
 
-Returns or sets a  **String** containing the free-form text string associating the owner of a task with a role for the task. Read/write.
+Returns or sets a **String** containing the free-form text string associating the owner of a task with a role for the task. Read/write.
 
 
 ## Syntax

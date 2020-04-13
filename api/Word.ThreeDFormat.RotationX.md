@@ -26,9 +26,9 @@ _expression_. `RotationX`
 
 ## Remarks
 
-The  **RotationX** property can be a value from - 90 through 90. A positive value indicates upward rotation; a negative value indicates downward rotation.
+The **RotationX** property can be a value from - 90 through 90. A positive value indicates upward rotation; a negative value indicates downward rotation.
 
-To set the rotation of the extruded shape around the y-axis, use the  **[RotationY](Word.ThreeDFormat.RotationY.md)** property of the ThreeDFormat object. To set the rotation of the extruded shape around the z-axis, use the **[Rotation](Word.Shape.Rotation.md)** property of the **[Shape](Word.Shape.md)** object. To change the direction of the extrusion's sweep path without rotating the front face of the extrusion, use the **[SetExtrusionDirection](Word.ThreeDFormat.SetExtrusionDirection.md)** method.
+To set the rotation of the extruded shape around the y-axis, use the **[RotationY](Word.ThreeDFormat.RotationY.md)** property of the ThreeDFormat object. To set the rotation of the extruded shape around the z-axis, use the **[Rotation](Word.Shape.Rotation.md)** property of the **[Shape](Word.Shape.md)** object. To change the direction of the extrusion's sweep path without rotating the front face of the extrusion, use the **[SetExtrusionDirection](Word.ThreeDFormat.SetExtrusionDirection.md)** method.
 
 
 ## Example

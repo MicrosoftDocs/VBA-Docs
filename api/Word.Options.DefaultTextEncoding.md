@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents an **[Options](Word.Options.md
 
 ## Remarks
 
-Use the  **TextEncoding** property to set the encoding for an individual document. To set encoding for HTML documents, use the **Encoding** property.
+Use the **TextEncoding** property to set the encoding for an individual document. To set encoding for HTML documents, use the **Encoding** property.
 
 
 ## Example

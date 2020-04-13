@@ -34,7 +34,7 @@ _expression_ A variable that represents an [Inspectors](Outlook.Inspectors.md) o
 
 ## Return value
 
-An  **[Inspector](Outlook.Inspector.md)** object that represents a new inspector window.
+An **[Inspector](Outlook.Inspector.md)** object that represents a new inspector window.
 
 
 ## Remarks

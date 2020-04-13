@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Task.Baseline1Cost property (Project)
 
-Gets or sets the baseline cost for a  **Task**. Read/write **Variant**.
+Gets or sets the baseline cost for a **Task**. Read/write **Variant**.
 
 
 ## Syntax

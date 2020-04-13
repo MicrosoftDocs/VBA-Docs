@@ -26,7 +26,7 @@ _expression_. `LanguageDesignation`
 
 ## Example
 
-This example displays "U.S. English" if the  **LanguageDesignation** property returns "English (US)".
+This example displays "U.S. English" if the **LanguageDesignation** property returns "English (US)".
 
 
 ```vb

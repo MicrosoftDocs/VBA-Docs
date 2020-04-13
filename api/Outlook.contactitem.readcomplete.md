@@ -32,11 +32,11 @@ _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) 
 
 ## Remarks
 
-The  **ReadComplete** event occurs after the [BeforeRead](Outlook.ContactItem.BeforeRead.md) event and before the [Read](Outlook.ContactItem.Read.md) event for the item.
+The **ReadComplete** event occurs after the [BeforeRead](Outlook.ContactItem.BeforeRead.md) event and before the [Read](Outlook.ContactItem.Read.md) event for the item.
 
 To determine when the item is unloaded from memory, use the [Unload](Outlook.ContactItem.Unload.md) event.
 
-The  **ReadComplete** event corresponds to the Exchange Client Extensions (ECE) event **IExchExtMessageEvents::OnReadComplete**.
+The **ReadComplete** event corresponds to the Exchange Client Extensions (ECE) event **IExchExtMessageEvents::OnReadComplete**.
 
 
 ## See also

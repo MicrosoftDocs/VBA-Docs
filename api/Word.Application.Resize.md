@@ -35,7 +35,7 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 
 ## Remarks
 
-If the window is maximized or minimized, an error occurs. Use the  **Width** or **Height** property to set the window width and height independently.
+If the window is maximized or minimized, an error occurs. Use the **Width** or **Height** property to set the window width and height independently.
 
 
 ## Example

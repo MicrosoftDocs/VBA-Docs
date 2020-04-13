@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ViewsEx method (Project)
 
-Displays the  **More Views** dialog box with the specified pane of the current view selected, which prompts the user to manage views.
+Displays the **More Views** dialog box with the specified pane of the current view selected, which prompts the user to manage views.
 
 
 ## Syntax

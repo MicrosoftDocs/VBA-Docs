@@ -35,7 +35,7 @@ _expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' objec
 
 ## Remarks
 
-Setting the  **SetHeight** property of a **Cell** object automatically sets the property for the entire row.
+Setting the **SetHeight** property of a **Cell** object automatically sets the property for the entire row.
 
 
 ## Example

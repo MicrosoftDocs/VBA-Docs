@@ -45,7 +45,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Using the  **WBSCodeMaskEdit** method without specifying any arguments brings up the **WBS Code Definition** dialog box.
+Using the **WBSCodeMaskEdit** method without specifying any arguments brings up the **WBS Code Definition** dialog box.
 
 
 ## Example

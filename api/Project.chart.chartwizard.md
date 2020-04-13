@@ -24,7 +24,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _varSource_|Optional|**Variant**|The source data for a new chart. If the  _varSource_ argument is omitted, Project edits the active report or the selected chart on the active report.|
-| _varGallery_|Optional|**Variant**|One of the constants of the  **Office.XlChartType** enumeration, which specifies the chart type.|
+| _varGallery_|Optional|**Variant**|One of the constants of the **Office.XlChartType** enumeration, which specifies the chart type.|
 | _varFormat_|Optional|**Variant**|The option number for the built-in autoformats. Can be a number from 1 through 10, depending on the gallery type. If the  _varFormat_ argument is omitted, Project chooses a default value based on the gallery type and data source.|
 | _varPlotBy_|Optional|**Variant**|Specifies whether the data for each series is in rows or columns. Can be one of the following  **Office.XlRowCol** constants: **xlRows** or **xlColumns**.|
 | _varCategoryLabels_|Optional|**Variant**|An integer that specifies the number of rows or columns within the source range that contain category labels. Values can be from 0 (zero) through one less than the maximum number of the corresponding categories or series.|
@@ -53,7 +53,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Remarks
 
-You can use the  **ChartWizard** method to quickly format a chart without setting all the individual properties. This method is noninteractive, and it changes only the specified properties. The[AutoFormat](Project.chart.autoformat.md) method can do the same job as a call to **ChartWizard** that uses only the _varGallery_ and _varFormat_ parameters.
+You can use the **ChartWizard** method to quickly format a chart without setting all the individual properties. This method is noninteractive, and it changes only the specified properties. The[AutoFormat](Project.chart.autoformat.md) method can do the same job as a call to **ChartWizard** that uses only the _varGallery_ and _varFormat_ parameters.
 
 If the  _Source_ parameter is omitted and the selection isn't an embedded chart on the active report, or the active report does not contain a chart, the **ChartWizard** method fails and an error occurs.
 

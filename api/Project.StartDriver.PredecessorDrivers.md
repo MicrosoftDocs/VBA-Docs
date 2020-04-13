@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # StartDriver.PredecessorDrivers property (Project)
 
-Gets the  **[PredecessorDrivers](Project.predecessordrivers.md)** collection object for the task start driver. Read-only **PredecessorDrivers**.
+Gets the **[PredecessorDrivers](Project.predecessordrivers.md)** collection object for the task start driver. Read-only **PredecessorDrivers**.
 
 
 ## Syntax

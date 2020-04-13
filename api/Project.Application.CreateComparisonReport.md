@@ -44,7 +44,7 @@ _expression_. `CreateComparisonReport`( `_FileName_`, `_TaskTable_`, `_ResourceT
 
 ## Remarks
 
-The  **CreateComparisonReport** method compares task or resource information, but not assignment information.
+The **CreateComparisonReport** method compares task or resource information, but not assignment information.
 
 
 ## Example

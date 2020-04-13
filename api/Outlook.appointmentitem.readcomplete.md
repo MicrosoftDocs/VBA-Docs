@@ -27,11 +27,11 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 ## Remarks
 
-The  **ReadComplete** event occurs after the [BeforeRead](Outlook.AppointmentItem.BeforeRead.md) event and before the [Read](Outlook.AppointmentItem.Read.md) event for the item.
+The **ReadComplete** event occurs after the [BeforeRead](Outlook.AppointmentItem.BeforeRead.md) event and before the [Read](Outlook.AppointmentItem.Read.md) event for the item.
 
 To determine when the item is unloaded from memory, use the [Unload](Outlook.AppointmentItem.Unload.md) event.
 
-The  **ReadComplete** event corresponds to the Exchange Client Extensions (ECE) event **IExchExtMessageEvents::OnReadComplete**.
+The **ReadComplete** event corresponds to the Exchange Client Extensions (ECE) event **IExchExtMessageEvents::OnReadComplete**.
 
 
 ## See also

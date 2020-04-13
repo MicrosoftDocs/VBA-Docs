@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[KeyBinding](Word.KeyBindin
 
 ## Example
 
-This example assigns the CTRL+SHIFT+C key combination to the  **FileClose** command and then executes the key combination (the document is closed).
+This example assigns the CTRL+SHIFT+C key combination to the **FileClose** command and then executes the key combination (the document is closed).
 
 
 ```vb

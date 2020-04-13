@@ -18,7 +18,7 @@ Represents a collection of strings or numbers that contain field identification 
 
  **Using the List Object**
 
-Use a property such as the  **[ReportList](./Project.Project.ReportList.md)** property to return a **List** object. The following example displays a list of all the reports available in the active project.
+Use a property such as the **[ReportList](./Project.Project.ReportList.md)** property to return a **List** object. The following example displays a list of all the reports available in the active project.
 
 
 

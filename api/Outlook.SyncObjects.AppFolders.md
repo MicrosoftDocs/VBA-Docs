@@ -26,7 +26,7 @@ _expression_ A variable that represents a [SyncObjects](Outlook.SyncObjects.md) 
 
 ## Remarks
 
-The  **SyncObject** is where folders are automatically added when the **InAppFolderSyncObject** property of the **Folder** object is set to **True**. The **SyncObject** allows users to synchronize Microsoft Outlook folders, address books, and folder home pages for offline use.
+The **SyncObject** is where folders are automatically added when the **InAppFolderSyncObject** property of the **Folder** object is set to **True**. The **SyncObject** allows users to synchronize Microsoft Outlook folders, address books, and folder home pages for offline use.
 
 
 ## Example

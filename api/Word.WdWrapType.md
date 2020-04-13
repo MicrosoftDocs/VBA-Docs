@@ -28,7 +28,7 @@ Specifies how to wrap text around a shape.
 
 ## Remarks
 
-Used with the  **Type** property of the **WrapFormat** object. You can view what each wrap type looks like on the **Text Wrapping** tab of the **Advanced Layout** dialog box.
+Used with the **Type** property of the **WrapFormat** object. You can view what each wrap type looks like on the **Text Wrapping** tab of the **Advanced Layout** dialog box.
 
 
 > [!NOTE] 

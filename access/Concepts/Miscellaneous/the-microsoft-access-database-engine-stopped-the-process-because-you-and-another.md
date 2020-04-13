@@ -18,8 +18,8 @@ localization_priority: Normal
 
 This error can occur in a multiuser environment.
 
-Another user has changed the data you are trying to update. This error can occur when multiple users open a table or create a  **Recordset** and use optimistic locking. Between the time you used the **Edit** method and the **Update** method, another user changed the same data.
-To overwrite the other user's changes with your own, execute the  **Update** method again.
+Another user has changed the data you are trying to update. This error can occur when multiple users open a table or create a **Recordset** and use optimistic locking. Between the time you used the **Edit** method and the **Update** method, another user changed the same data.
+To overwrite the other user's changes with your own, execute the **Update** method again.
 
 ## See also
 

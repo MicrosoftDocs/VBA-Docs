@@ -35,7 +35,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Remarks
 
-The  **Export** method overwrites an existing read/write file of the same name.
+The **Export** method overwrites an existing read/write file of the same name.
 
 
 ## Example

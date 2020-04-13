@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Range.AutoFormat method (Word)
 
-Automatically formats a document. Use the  **Kind** property to specify a document type.
+Automatically formats a document. Use the **Kind** property to specify a document type.
 
 
 ## Syntax

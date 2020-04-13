@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # View.ViewType property (Outlook)
 
-Returns an  **[OlViewType](Outlook.OlViewType.md)** constant representing the view type of a **[View](Outlook.View.md)** object. Read-only.
+Returns an **[OlViewType](Outlook.OlViewType.md)** constant representing the view type of a **[View](Outlook.View.md)** object. Read-only.
 
 
 ## Syntax

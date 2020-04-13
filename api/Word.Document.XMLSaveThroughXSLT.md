@@ -26,7 +26,7 @@ _expression_. `XMLSaveThroughXSLT`
 
 ## Remarks
 
-The  **XMLSaveThroughXSLT** property is only applicable when the **[XMLUseXSLTWhenSaving](Word.Document.XMLUseXSLTWhenSaving.md)** property is set to **True**. If the **XMLUseXSLTWhenSaving** property is set to **False**, Microsoft Word will ignore the **XMLSaveThroughXSLT** property.
+The **XMLSaveThroughXSLT** property is only applicable when the **[XMLUseXSLTWhenSaving](Word.Document.XMLUseXSLTWhenSaving.md)** property is set to **True**. If the **XMLUseXSLTWhenSaving** property is set to **False**, Microsoft Word will ignore the **XMLSaveThroughXSLT** property.
 
 
 ## Example

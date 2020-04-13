@@ -14,14 +14,14 @@ A collection of  **Endnote** objects that represents all the endnotes in a selec
 
 ## Remarks
 
-Use the  **Endnotes** property to return the **Endnotes** collection. The following example sets the location of endnotes in the active document.
+Use the **Endnotes** property to return the **Endnotes** collection. The following example sets the location of endnotes in the active document.
 
 
 ```vb
 ActiveDocument.Endnotes.Location = wdEndOfSection
 ```
 
-Use the  **Add** method to add an endnote to the **Endnotes** collection. The following example adds an endnote immediately after the selection.
+Use the **Add** method to add an endnote to the **Endnotes** collection. The following example adds an endnote immediately after the selection.
 
 
 

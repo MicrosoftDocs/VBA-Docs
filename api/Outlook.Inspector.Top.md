@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Inspector.Top property (Outlook)
 
-Returns or sets a  **Long** indicating the position (in pixels) of the top horizontal edge of an inspector window from the edge of the screen. Read/write.
+Returns or sets a **Long** indicating the position (in pixels) of the top horizontal edge of an inspector window from the edge of the screen. Read/write.
 
 
 ## Syntax

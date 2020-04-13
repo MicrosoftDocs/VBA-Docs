@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.TaskDueDate property (Outlook)
 
-Returns or sets a  **Date** value that represents the due date of the task for this **[ContactItem](Outlook.ContactItem.md)**. Read/write.
+Returns or sets a **Date** value that represents the due date of the task for this **[ContactItem](Outlook.ContactItem.md)**. Read/write.
 
 
 ## Syntax

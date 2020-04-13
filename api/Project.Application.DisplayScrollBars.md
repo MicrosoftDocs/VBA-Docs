@@ -23,7 +23,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Example
 
-The following example changes the setting of the  **DisplayScrollBars** property.
+The following example changes the setting of the **DisplayScrollBars** property.
 
 
 ```vb

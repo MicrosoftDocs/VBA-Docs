@@ -12,6 +12,6 @@ localization_priority: Normal
 
 # Line 'item1': Parent menu 'item2' can't be loaded as a separator.
 
-The ASCII file contains a  **Menu** control whose parent or top-level menu is defined as a menu separator. Top-level menus can't be menu separators. The separator won't be set.
+The ASCII file contains a **Menu** control whose parent or top-level menu is defined as a menu separator. Top-level menus can't be menu separators. The separator won't be set.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,7 +26,7 @@ _expression_. `LinkedStyle`
 
 ## Example
 
-This example sets the variable myListTemp to the first list template (excluding None) on the  **Outline Numbered** tab in the **Bullets and Numbering** dialog box (**Format** menu). Each level in the list has a matching heading style linked to it.
+This example sets the variable myListTemp to the first list template (excluding None) on the **Outline Numbered** tab in the **Bullets and Numbering** dialog box (**Format** menu). Each level in the list has a matching heading style linked to it.
 
 
 ```vb

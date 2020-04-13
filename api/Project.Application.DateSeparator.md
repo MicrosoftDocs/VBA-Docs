@@ -26,6 +26,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Project sets the  **DateSeparator** property equal to the corresponding value in the **Regional and Language Options** dialog box of the Microsoft Windows Control Panel. For example, if the current format is set to **French (France)**, the  **DateSeparator** property value is "/".
+Project sets the **DateSeparator** property equal to the corresponding value in the **Regional and Language Options** dialog box of the Microsoft Windows Control Panel. For example, if the current format is set to **French (France)**, the **DateSeparator** property value is "/".
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

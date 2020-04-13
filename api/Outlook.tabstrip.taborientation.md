@@ -16,7 +16,7 @@ Returns or sets an **Integer** that specifies the location of the tabs on a **[T
 
 _expression_.**TabOrientation**
 
-_expression_ A variable that represents a  **TabStrip** object.
+_expression_ A variable that represents a **TabStrip** object.
 
 
 ## Remarks

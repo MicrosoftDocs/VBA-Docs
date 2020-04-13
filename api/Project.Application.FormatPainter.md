@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **FormatPainter** method requires user interaction before additional code can be executed.
+The **FormatPainter** method requires user interaction before additional code can be executed.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

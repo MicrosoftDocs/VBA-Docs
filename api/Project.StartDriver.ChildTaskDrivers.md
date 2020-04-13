@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # StartDriver.ChildTaskDrivers property (Project)
 
-Gets the  **[ChildDrivers](Project.childdrivers.md)** object for the task **StartDriver** object. Read-only **ChildDrivers**.
+Gets the **[ChildDrivers](Project.childdrivers.md)** object for the task **StartDriver** object. Read-only **ChildDrivers**.
 
 
 ## Syntax

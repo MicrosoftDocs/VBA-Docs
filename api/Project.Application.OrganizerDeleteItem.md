@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional|**Long**|The type of item to delete. Can be one of the  **[PjOrganizer](Project.PjOrganizer.md)** constants. The default value is **pjViews**.|
+| _Type_|Optional|**Long**|The type of item to delete. Can be one of the **[PjOrganizer](Project.PjOrganizer.md)** constants. The default value is **pjViews**.|
 | _FileName_|Required|**String**|The name of the file containing the item to delete.|
 | _Name_|Required|**String**|The name of the item to delete.|
 | _Task_|Optional|**Boolean**|**True** if the item applies to tasks. **False** if the item applies to resources. The default value is **True**.|

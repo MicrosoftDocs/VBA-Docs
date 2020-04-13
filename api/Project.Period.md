@@ -18,7 +18,7 @@ Represents a period in a calendar. There is no collection for  **Period** object
  
  **Using the Period Object**
  
-Use the  **[Period](Project.Calendar.Period.md)** method to return a **Period** object. The following example sets P as an object reference to the last week in September 2002.
+Use the **[Period](Project.Calendar.Period.md)** method to return a **Period** object. The following example sets P as an object reference to the last week in September 2002.
  
 
 ## Methods

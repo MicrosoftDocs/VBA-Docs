@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You tried to run an action query or data-definition query without using the  **Execute** method.
+You tried to run an action query or data-definition query without using the **Execute** method.
 
 ## See also
 

@@ -26,9 +26,9 @@ _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 
 ## Remarks
 
-Word stores the random numbers in a table and updates the table after each save. The default for the  **StoreRSIDOnSave** property is **True**. However, RSID information is not saved for HTML documents.
+Word stores the random numbers in a table and updates the table after each save. The default for the **StoreRSIDOnSave** property is **True**. However, RSID information is not saved for HTML documents.
 
-Use the  **[RemovePersonalInformation](Word.Document.RemovePersonalInformation.md)** property if you want to remove information related to authors and reviewers of a document.
+Use the **[RemovePersonalInformation](Word.Document.RemovePersonalInformation.md)** property if you want to remove information related to authors and reviewers of a document.
 
 
 ## Example

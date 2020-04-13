@@ -23,8 +23,8 @@ _expression_ A variable that represents a [Resource](./Project.Resource.md) obje
 
 ## Remarks
 
-The current actual cost for the resource is calculated from the resource cost rate tables and the actual work the resource has completed on assignments in the project. For programmatic access to the resource cost rate tables, use the  **[CostRateTables](Project.Resource.CostRateTables.md)** collection.
+The current actual cost for the resource is calculated from the resource cost rate tables and the actual work the resource has completed on assignments in the project. For programmatic access to the resource cost rate tables, use the **[CostRateTables](Project.Resource.CostRateTables.md)** collection.
 
-Actual costs are also available for tasks and assignments. For an example the uses the actual cost for tasks, see the  **[ActualCost](Project.Task.ActualCost.md)** property for the **Task** object.
+Actual costs are also available for tasks and assignments. For an example the uses the actual cost for tasks, see the **[ActualCost](Project.Task.ActualCost.md)** property for the **Task** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

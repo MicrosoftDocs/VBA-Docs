@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **FindPrevious** method is functionally identical to the [FindNext method](Project.Application.FindNext.md). It is retained for compatibility with previous versions of Project.
+The **FindPrevious** method is functionally identical to the [FindNext method](Project.Application.FindNext.md). It is retained for compatibility with previous versions of Project.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

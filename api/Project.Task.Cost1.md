@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Task.Cost1 property (Project)
 
-Gets or sets the value of the  **Cost1** custom field for the task. Read/write **Variant**.
+Gets or sets the value of the **Cost1** custom field for the task. Read/write **Variant**.
 
 
 ## Syntax

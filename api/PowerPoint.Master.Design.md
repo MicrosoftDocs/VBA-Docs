@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Master.Design property (PowerPoint)
 
-Returns a  **Design** object representing a design.
+Returns a **Design** object representing a design.
 
 
 ## Syntax

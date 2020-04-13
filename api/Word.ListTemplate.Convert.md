@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents a '[ListTemplate](Word.ListTem
 
 ## Remarks
 
-You cannot use the  **Convert** method on a list template that is derived from the **ListGalleries** collection.
+You cannot use the **Convert** method on a list template that is derived from the **ListGalleries** collection.
 
 
 ## Example

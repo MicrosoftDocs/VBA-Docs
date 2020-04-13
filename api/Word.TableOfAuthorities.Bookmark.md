@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[TableOfAuthorities](Word.TableOfAuth
 
 ## Remarks
 
-The  **Bookmark** property corresponds to the \b switch for a TOA (Table of Authorities) field.
+The **Bookmark** property corresponds to the \b switch for a TOA (Table of Authorities) field.
 
 
 ## Example

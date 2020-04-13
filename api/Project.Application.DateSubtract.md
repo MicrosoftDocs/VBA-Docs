@@ -38,7 +38,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-To subtract a duration from a date for a manually scheduled task, which uses an effective calendar that can include non-working time, use the  **[EffectiveDateSubtract](Project.StartDriver.EffectiveDateSubtract.md)** property.
+To subtract a duration from a date for a manually scheduled task, which uses an effective calendar that can include non-working time, use the **[EffectiveDateSubtract](Project.StartDriver.EffectiveDateSubtract.md)** property.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ColumnFormat.Width property (Outlook)
 
-Returns or sets a  **Long** value indicating the approximate width (in characters) of the column. Read/write.
+Returns or sets a **Long** value indicating the approximate width (in characters) of the column. Read/write.
 
 
 ## Syntax

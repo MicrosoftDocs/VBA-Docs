@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Project.CommandBars property (Project)
 
-Gets a  **CommandBars** collection that represents all the command bars in the project. Read-only **CommandBars**.
+Gets a **CommandBars** collection that represents all the command bars in the project. Read-only **CommandBars**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-For more information, see the  **CommandBars** object in the Office Developer Reference.
+For more information, see the **CommandBars** object in the Office Developer Reference.
 
 
 ## Example

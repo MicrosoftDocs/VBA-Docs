@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.MailingAddressPostalCode property (Outlook)
 
-Returns or sets a  **String** representing the postal code (ZIP Code) portion of the selected mailing address of the contact. Read/write.
+Returns or sets a **String** representing the postal code (ZIP Code) portion of the selected mailing address of the contact. Read/write.
 
 
 ## Syntax

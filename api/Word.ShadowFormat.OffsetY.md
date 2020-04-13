@@ -26,7 +26,7 @@ _expression_.**OffsetY**
 
 ## Remarks
 
-A positive value offsets the shadow below the shape; a negative value offsets it above the shape. If you want to nudge a shadow horizontally or vertically from its current position without having to specify an absolute position, use the  **[IncrementOffsetX](Word.ShadowFormat.IncrementOffsetX.md)** or **[IncrementOffsetY](Word.ShadowFormat.IncrementOffsetY.md)** method.
+A positive value offsets the shadow below the shape; a negative value offsets it above the shape. If you want to nudge a shadow horizontally or vertically from its current position without having to specify an absolute position, use the **[IncrementOffsetX](Word.ShadowFormat.IncrementOffsetX.md)** or **[IncrementOffsetY](Word.ShadowFormat.IncrementOffsetY.md)** method.
 
 
 ## Example

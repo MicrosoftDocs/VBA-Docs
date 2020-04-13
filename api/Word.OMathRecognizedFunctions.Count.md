@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathRecognizedFunctions.Count property (Word)
 
-Returns the number of items in the  **OMathRecognizedFunctions** collection. Read-only **Long**.
+Returns the number of items in the **OMathRecognizedFunctions** collection. Read-only **Long**.
 
 
 ## Syntax

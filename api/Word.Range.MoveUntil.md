@@ -31,7 +31,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cset_|Required| **Variant**|One or more characters. If any character in Cset is found before the Count value expires, the specified range is positioned as an insertion point immediately before that character. This argument is case-sensitive.|
-| _Count_|Optional| **Variant**|The maximum number of characters by which the specified range is to be moved. Can be a number or either the  **wdForward** or **wdBackward** constant. If Count is a positive number, the range is moved forward in the document, beginning at the end position. If it is a negative number, the range is moved backward, beginning at the start position. The default value is **wdForward**.|
+| _Count_|Optional| **Variant**|The maximum number of characters by which the specified range is to be moved. Can be a number or either the **wdForward** or **wdBackward** constant. If Count is a positive number, the range is moved forward in the document, beginning at the end position. If it is a negative number, the range is moved backward, beginning at the start position. The default value is **wdForward**.|
 
 ## Remarks
 

@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-Set the  **Index**, and then try the operation again.
+Set the **Index**, and then try the operation again.
 
 ## See also
 

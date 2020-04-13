@@ -35,7 +35,7 @@ _expression_ Required. A variable that represents a '[MailMergeDataSource](Word.
 
 ## Remarks
 
-You can individually mark data source records that contain invalid data in an address field by using the  **InvalidAddress** and **InvalidComments** properties.
+You can individually mark data source records that contain invalid data in an address field by using the **InvalidAddress** and **InvalidComments** properties.
 
 
 ## Example

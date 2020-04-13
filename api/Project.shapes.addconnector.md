@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shapes.AddConnector method (Project)
-Creates a connector and returns a  **Shape** object the represents the new connector.
+Creates a connector and returns a **Shape** object the represents the new connector.
 
 ## Syntax
 
@@ -44,7 +44,7 @@ _expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object
 
 
 > [!NOTE] 
-> In Project, the methods to attach the beginning and end of a connector to other shapes in the report (**ConnectorFormat.BeginConnect** and **ConnectorFormat.EndConnect**) do not work. You can use only the  **AddConnector** parameters to position the connector. For more information, see the [ConnectorFormat](Project.shape.connectorformat.md) property.
+> In Project, the methods to attach the beginning and end of a connector to other shapes in the report (**ConnectorFormat.BeginConnect** and **ConnectorFormat.EndConnect**) do not work. You can use only the **AddConnector** parameters to position the connector. For more information, see the [ConnectorFormat](Project.shape.connectorformat.md) property.
 
 
 ## Example

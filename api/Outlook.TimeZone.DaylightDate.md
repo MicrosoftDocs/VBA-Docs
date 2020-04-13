@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimeZone.DaylightDate property (Outlook)
 
-Returns a  **Date** value that represents the date and time in this time zone when time changes over to daylight time in the current year. Read-only.
+Returns a **Date** value that represents the date and time in this time zone when time changes over to daylight time in the current year. Read-only.
 
 
 ## Syntax

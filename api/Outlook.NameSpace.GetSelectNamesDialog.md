@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.GetSelectNamesDialog method (Outlook)
 
-Obtains a  **[SelectNamesDialog](Outlook.SelectNamesDialog.md)** object for the current session.
+Obtains a **[SelectNamesDialog](Outlook.SelectNamesDialog.md)** object for the current session.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' ob
 
 ## Return value
 
-A  **SelectNamesDialog** object for the current session. The **SelectNamesDialog** object supports displaying the **Select Names** dialog box for the user to select entries from one or more address lists in the current session.
+A **SelectNamesDialog** object for the current session. The **SelectNamesDialog** object supports displaying the **Select Names** dialog box for the user to select entries from one or more address lists in the current session.
 
 
 ## Example

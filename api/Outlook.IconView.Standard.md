@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # IconView.Standard property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the **[IconView](Outlook.IconView.md)** object is a built-in Outlook view. Read-only.
+Returns a **Boolean** value that indicates whether the **[IconView](Outlook.IconView.md)** object is a built-in Outlook view. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [IconView](Outlook.IconView.md) objec
 
 ## Remarks
 
-The  **[Reset](Outlook.View.Reset.md)** method can only be used on a view if the value of this property is set to **True**.
+The **[Reset](Outlook.View.Reset.md)** method can only be used on a view if the value of this property is set to **True**.
 
 
 ## Example

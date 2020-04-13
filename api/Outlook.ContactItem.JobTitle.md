@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.JobTitle property (Outlook)
 
-Returns or sets a  **String** representing the job title for the contact. Read/write.
+Returns or sets a **String** representing the job title for the contact. Read/write.
 
 
 ## Syntax

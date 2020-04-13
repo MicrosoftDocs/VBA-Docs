@@ -63,9 +63,9 @@ End Sub</Script>
 <!-- EndDataSpaceVBS -->
 ```
 
-The following example shows how to use the  **CreateObject** method to create an instance of a custom business object, VbBusObj.VbBusObjCls. It also uses the Active Server Pages scripting to identify the Web server name.
+The following example shows how to use the **CreateObject** method to create an instance of a custom business object, VbBusObj.VbBusObjCls. It also uses the Active Server Pages scripting to identify the Web server name.
 
-To see the complete example, open the sample applications selector. In the  **Client Tier** column, select **VBScript in Internet Explorer**. In the **Middle Tier** column, select **Custom Visual Basic Business Object**.
+To see the complete example, open the sample applications selector. In the **Client Tier** column, select **VBScript in Internet Explorer**. In the **Middle Tier** column, select **Custom Visual Basic Business Object**.
 
 ```vb
  

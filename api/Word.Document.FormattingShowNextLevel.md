@@ -26,7 +26,7 @@ _expression_. `FormattingShowNextLevel`
 
 ## Remarks
 
-This property corresponds to the  **Show next heading when previous level is used** check box in the **Styles Gallery Options** dialog box.
+This property corresponds to the **Show next heading when previous level is used** check box in the **Styles Gallery Options** dialog box.
 
 
 ## See also

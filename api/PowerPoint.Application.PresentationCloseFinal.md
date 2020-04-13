@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](PowerPoint.Applicatio
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Pres_|Required|**Presentation**|The  **Presentation** object.|
+| _Pres_|Required|**Presentation**|The **Presentation** object.|
 
 ## Return value
 

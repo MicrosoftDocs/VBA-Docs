@@ -40,7 +40,7 @@ AutoCorrectEntry
 
 ## Remarks
 
-The  **RichText** property for entries added by using this method returns **True**. If **AddRichText** isn't used, inserted **AutoCorrect** entries conform to the current style.
+The **RichText** property for entries added by using this method returns **True**. If **AddRichText** isn't used, inserted **AutoCorrect** entries conform to the current style.
 
 
 ## Example

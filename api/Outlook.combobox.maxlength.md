@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ComboBox.MaxLength Property (Outlook Forms Script)
 
-Returns or sets a  **Long** that specifies the maximum number of characters a user can enter in a **[ComboBox](Outlook.combobox.md)**. Read/write.
+Returns or sets a **Long** that specifies the maximum number of characters a user can enter in a **[ComboBox](Outlook.combobox.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**MaxLength**
 
-_expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a **ComboBox** object.
 
 
 ## Remarks

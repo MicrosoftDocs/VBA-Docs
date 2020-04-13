@@ -31,7 +31,7 @@ For more information about working with built-in Word dialog boxes, see [Display
 
 ## Example
 
-This example displays the name of the procedure that displays the  **Save As** dialog box (**File** menu): **FileSaveAs**.
+This example displays the name of the procedure that displays the **Save As** dialog box (**File** menu): **FileSaveAs**.
 
 
 ```vb

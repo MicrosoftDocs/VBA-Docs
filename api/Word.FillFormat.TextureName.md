@@ -26,7 +26,7 @@ _expression_ An expression that returns a **[FillFormat](word.fillformat.md)** o
 
 ## Remarks
 
-Use the  **[UserTextured](Word.FillFormat.UserTextured.md)** method to set the texture file for the fill.
+Use the **[UserTextured](Word.FillFormat.UserTextured.md)** method to set the texture file for the fill.
 
 
 ## Example

@@ -23,8 +23,8 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _axisType_|Required|**Variant**|The axis type. Series axes apply only to 3D charts. Can be one of the  **Office.XlAxisType** constants.|
-| _AxisGroup_|Optional|**Variant**|The axis group. 3D charts have only one set of axes. Can be one of the  **Office.XlAxisGroup** constants.|
+| _axisType_|Required|**Variant**|The axis type. Series axes apply only to 3D charts. Can be one of the **Office.XlAxisType** constants.|
+| _AxisGroup_|Optional|**Variant**|The axis group. 3D charts have only one set of axes. Can be one of the **Office.XlAxisGroup** constants.|
 
 ## Return value
 
@@ -33,9 +33,9 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Remarks
 
-You must enter a value for at least one of the parameters when setting the  **HasAxis** property.
+You must enter a value for at least one of the parameters when setting the **HasAxis** property.
 
-Project may create or delete axes if you change the chart type or the  **IMsoAxis.AxisGroup**,  **IMsoChartGroup.AxisGroup**, or  **IMsoSeries.AxisGroup** properties.
+Project may create or delete axes if you change the chart type or the **IMsoAxis.AxisGroup**,  **IMsoChartGroup.AxisGroup**, or  **IMsoSeries.AxisGroup** properties.
 
 
 ## Example

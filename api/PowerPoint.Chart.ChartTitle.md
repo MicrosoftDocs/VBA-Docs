@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** objec
 
 ## Remarks
 
-The  **ChartTitle** object does not exist and cannot be used unless the **[HasTitle](PowerPoint.Chart.HasTitle.md)** property for the chart is **True**.
+The **ChartTitle** object does not exist and cannot be used unless the **[HasTitle](PowerPoint.Chart.HasTitle.md)** property for the chart is **True**.
 
 
 ## Example

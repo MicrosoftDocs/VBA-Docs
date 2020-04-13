@@ -26,7 +26,7 @@ Use  **FormFields** (_index_), where _index_ is the index number or the bookmark
 ActiveDocument.FormFields("DropDown1").DropDown.Value = 1
 ```
 
-The index number represents the position of the form field in the  **[FormFields](Word.formfields.md)** collection. The following example checks the type of the first form field in the active document. If it is a drop-down form field, the second item is selected.
+The index number represents the position of the form field in the **[FormFields](Word.formfields.md)** collection. The following example checks the type of the first form field in the active document. If it is a drop-down form field, the second item is selected.
 
 
 
@@ -51,7 +51,7 @@ Else
 End If
 ```
 
-Use the  **Add** method with the **FormFields** collection to add a drop-down form field. The following example adds a drop-down form field at the beginning of the active document and then adds items to the form field.
+Use the **Add** method with the **FormFields** collection to add a drop-down form field. The following example adds a drop-down form field at the beginning of the active document and then adds items to the form field.
 
 
 

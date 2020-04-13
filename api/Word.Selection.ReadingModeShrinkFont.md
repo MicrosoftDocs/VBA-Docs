@@ -31,7 +31,7 @@ Nothing
 
 ## Remarks
 
-Use the  **[ReadingModeGrowFont](Word.Selection.ReadingModeGrowFont.md)** method to increase the size of the text. This does not affect the size of the font in the document, only the size of the text while viewing the document in Reading mode.
+Use the **[ReadingModeGrowFont](Word.Selection.ReadingModeGrowFont.md)** method to increase the size of the text. This does not affect the size of the font in the document, only the size of the text while viewing the document in Reading mode.
 
 
 > [!NOTE] 

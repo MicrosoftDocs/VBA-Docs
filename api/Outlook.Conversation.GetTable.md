@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Conversation.GetTable method (Outlook)
 
-Returns a  **[Table](Outlook.Table.md)** object that contains rows that represent all items in the conversation.
+Returns a **[Table](Outlook.Table.md)** object that contains rows that represent all items in the conversation.
 
 
 ## Syntax
@@ -26,12 +26,12 @@ _expression_ A variable that represents a '[Conversation](Outlook.Conversation.m
 
 ## Return value
 
-A  **Table** object that contains rows that represent all items in the conversation.
+A **Table** object that contains rows that represent all items in the conversation.
 
 
 ## Remarks
 
-The  **GetTable** method returns a **Table** that has all items of the conversation as the rows. The default set of columns is shown in the following table.
+The **GetTable** method returns a **Table** that has all items of the conversation as the rows. The default set of columns is shown in the following table.
 
 
 
@@ -47,7 +47,7 @@ By default, the rows in the table are sorted by the  **ConversationIndex** prope
 
 To modify the default column set, use the  **[Add](Outlook.Columns.Add.md)**, **[Remove](Outlook.Columns.Remove.md)**, or **[RemoveAll](Outlook.Columns.RemoveAll.md)** methods of the **[Columns](Outlook.Columns.md)** collection object.
 
-The  **Table** object returned by this **GetTable** method does not include items in the conversation that have been moved to the Deleted Items folder.
+The **Table** object returned by this **GetTable** method does not include items in the conversation that have been moved to the Deleted Items folder.
 
 
 ## Example

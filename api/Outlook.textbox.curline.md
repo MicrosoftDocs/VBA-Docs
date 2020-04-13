@@ -12,20 +12,20 @@ localization_priority: Normal
 
 # TextBox.CurLine Property (Outlook Forms Script)
 
-Returns or sets a  **Long** that represents the current line of a control. Read/write.
+Returns or sets a **Long** that represents the current line of a control. Read/write.
 
 
 ## Syntax
 
 _expression_.**CurLine**
 
-_expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a **TextBox** object.
 
 
 ## Remarks
 
 The current line of a control is the line that contains the insertion point. The number of the first line is 0.
 
-The  **CurLine** property is valid when the control has focus.
+The **CurLine** property is valid when the control has focus.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

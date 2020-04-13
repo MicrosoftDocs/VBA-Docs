@@ -41,9 +41,9 @@ _expression_. `TaskMove`( `_MoveForward_`, `_IsWorkingDuration_`, `_MoveDays_` )
 
 ## Remarks
 
-The  **TaskMove** method does not override a predecessor task constraint for automatically scheduled tasks.
+The **TaskMove** method does not override a predecessor task constraint for automatically scheduled tasks.
 
-The  **TaskMove** method corresponds to various commands in the **Move Task** drop-down menu on the **TASK** ribbon. To move incomplete or complete parts of a task to the status date, use the **[TaskMoveToStatusDate](Project.Application.TaskMoveToStatusDate.md)** method.
+The **TaskMove** method corresponds to various commands in the **Move Task** drop-down menu on the **TASK** ribbon. To move incomplete or complete parts of a task to the status date, use the **[TaskMoveToStatusDate](Project.Application.TaskMoveToStatusDate.md)** method.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeDistributionList.Address property (Outlook)
 
-Returns or sets a  **String** representing the X400 email address of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read/write.
+Returns or sets a **String** representing the X400 email address of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read/write.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ A variable that represents an [ExchangeDistributionList](Outlook.Ex
 
 This property assumes the X400 address of the distribution list. To determine the primary Internet address, use the  **[ExchangeDistributionList.PrimarySmtpAddress](Outlook.ExchangeDistributionList.PrimarySmtpAddress.md)** property.
 
-The  **Address** property must be set before calling the **[ExchangeDistributionList.Details](Outlook.ExchangeUser.Details.md)** method.
+The **Address** property must be set before calling the **[ExchangeDistributionList.Details](Outlook.ExchangeUser.Details.md)** method.
 
 
 ## See also

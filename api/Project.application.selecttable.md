@@ -29,9 +29,9 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-When one or more items within a table shape are selected, the  **SelectTable** method removes the selection highlighting of the item(s), and selects the entire table.
+When one or more items within a table shape are selected, the **SelectTable** method removes the selection highlighting of the item(s), and selects the entire table.
 
-If the active view is not a report, the  **SelectTable** method displays a dialog box with run-time error 1100, "The method is not available in this situation." If no item in a report is selected, or if an item in another kind of shape (not a table) is selected, Project shows run-time error -2147417848, "Automation error. The object invoked has disconnected from its clients."
+If the active view is not a report, the **SelectTable** method displays a dialog box with run-time error 1100, "The method is not available in this situation." If no item in a report is selected, or if an item in another kind of shape (not a table) is selected, Project shows run-time error -2147417848, "Automation error. The object invoked has disconnected from its clients."
 
 
 ## See also

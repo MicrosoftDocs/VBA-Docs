@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDF
 
 ## Remarks
 
-To set the extrusion rotation around the x-axis and the y-axis to anything other than 0 (zero), use the  **RotationX** and **RotationY** properties of the **ThreeDFormat** object. To set the extrusion rotation around the z-axis, use the **Rotation** property of the **Shape** object that represents the extruded shape.
+To set the extrusion rotation around the x-axis and the y-axis to anything other than 0 (zero), use the **RotationX** and **RotationY** properties of the **ThreeDFormat** object. To set the extrusion rotation around the z-axis, use the **Rotation** property of the **Shape** object that represents the extruded shape.
 
 
 > [!NOTE] 

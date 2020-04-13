@@ -23,8 +23,8 @@ _expression_ A variable that represents a [Resource](./Project.Resource.md) obje
 
 ## Remarks
 
-The  **DefaultAssignmentOwner** property affects all assignments for the resource. The property must be set to a valid Project Server user or **null**.
+The **DefaultAssignmentOwner** property affects all assignments for the resource. The property must be set to a valid Project Server user or **null**.
 
-The  **DefaultAssignmentOwner** property is available only in Project Professional.
+The **DefaultAssignmentOwner** property is available only in Project Professional.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

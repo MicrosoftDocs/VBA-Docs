@@ -26,7 +26,7 @@ _expression_.**Cut**
 
 ## Remarks
 
-Use the  **Paste** method of the **[Selection](Word.Selection.md)** object or the **Paste** method of the **[Range](Word.Range.md)** object to insert the cut content control, or use the **Paste** function from within Microsoft Word.
+Use the **Paste** method of the **[Selection](Word.Selection.md)** object or the **Paste** method of the **[Range](Word.Range.md)** object to insert the cut content control, or use the **Paste** function from within Microsoft Word.
 
 
 ## See also

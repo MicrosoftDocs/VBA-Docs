@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # TextRange2.Text property (PowerPoint)
 
-Gets or sets a  **String** value that represents the text in a text range. Read/write.
+Gets or sets a **String** value that represents the text in a text range. Read/write.
 
 
 ## Syntax

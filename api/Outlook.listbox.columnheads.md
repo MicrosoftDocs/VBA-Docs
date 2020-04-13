@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # ListBox.ColumnHeads Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether a single row of column headings are displayed. Read/write.
+Returns or sets a **Boolean** that specifies whether a single row of column headings are displayed. Read/write.
 
 
 ## Syntax
 
 _expression_.**ColumnHeads**
 
-_expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a **ListBox** object.
 
 
 ## Remarks

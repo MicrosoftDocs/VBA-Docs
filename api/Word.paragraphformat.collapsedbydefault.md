@@ -24,7 +24,7 @@ _expression_ A variable that represents a [ParagraphFormat](./Word.ParagraphForm
 
 ## Remarks
 
-The  **CollapsedByDefault** property setting corresponds to the setting of the **Collapsed by Default** box under general on the **Indents and Spacing** tab of the **Paragraph** dialog box.
+The **CollapsedByDefault** property setting corresponds to the setting of the **Collapsed by Default** box under general on the **Indents and Spacing** tab of the **Paragraph** dialog box.
 
 
 ## Property value

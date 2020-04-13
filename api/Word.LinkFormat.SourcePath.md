@@ -26,7 +26,7 @@ _expression_.**SourcePath**
 
 ## Remarks
 
-The path doesn't include a trailing character (for example, "C:\MSOffice"). Use the  **[PathSeparator](Word.Application.PathSeparator.md)** property to add the character that separates folders and drive letters. Use the **[SourceName](Word.LinkFormat.SourceName.md)** property to return the file name without the path and use the **[SourceFullName](Word.LinkFormat.SourceFullName.md)** property to return the path and file name together.
+The path doesn't include a trailing character (for example, "C:\MSOffice"). Use the **[PathSeparator](Word.Application.PathSeparator.md)** property to add the character that separates folders and drive letters. Use the **[SourceName](Word.LinkFormat.SourceName.md)** property to return the file name without the path and use the **[SourceFullName](Word.LinkFormat.SourceFullName.md)** property to return the path and file name together.
 
 
 ## Example

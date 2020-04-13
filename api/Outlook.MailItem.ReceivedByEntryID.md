@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.ReceivedByEntryID property (Outlook)
 
-Returns a  **String** representing the **[EntryID](Outlook.Recipient.EntryID.md)** for the true recipient as set by the transport provider delivering the mail message. Read-only.
+Returns a **String** representing the **[EntryID](Outlook.Recipient.EntryID.md)** for the true recipient as set by the transport provider delivering the mail message. Read-only.
 
 
 ## Syntax

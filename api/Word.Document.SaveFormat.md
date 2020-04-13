@@ -26,9 +26,9 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-The  **SaveFormat** property will be a unique number that specifies an external file converter or a **WdSaveFormat** constant.
+The **SaveFormat** property will be a unique number that specifies an external file converter or a **WdSaveFormat** constant.
 
-Use the value of the  **SaveFormat** property for the _FileFormat_ argument of the **[SaveAs2](Word.SaveAs2.md)** method to save a document in a file format for which there isn't a corresponding **WdSaveFormat** constant.
+Use the value of the **SaveFormat** property for the _FileFormat_ argument of the **[SaveAs2](Word.SaveAs2.md)** method to save a document in a file format for which there isn't a corresponding **WdSaveFormat** constant.
 
 
 ## Example

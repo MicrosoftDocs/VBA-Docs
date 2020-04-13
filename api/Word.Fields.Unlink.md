@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Fields.Unlink method (Word)
 
-Replaces all the fields in the  **Fields** collection with their most recent results.
+Replaces all the fields in the **Fields** collection with their most recent results.
 
 
 ## Syntax

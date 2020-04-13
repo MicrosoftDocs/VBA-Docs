@@ -28,7 +28,7 @@ For Each autoCap In AutoCaptions
 Next autoCap
 ```
 
-The  **AutoCaptions** collection contains all the captions listed in the **AutoCaption** dialog box. **AutoCaption** objects cannot be programmatically added to or deleted from the **AutoCaptions** collection.
+The **AutoCaptions** collection contains all the captions listed in the **AutoCaption** dialog box. **AutoCaption** objects cannot be programmatically added to or deleted from the **AutoCaptions** collection.
 
 Use  **AutoCaptions** (_index_), where _index_ is the caption name or index number, to return a single **AutoCaption** object. The caption names correspond to the items listed in the **AutoCaption** dialog box. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown in the **AutoCaption** dialog box. The following example displays the caption text "Microsoft Word Table."
 

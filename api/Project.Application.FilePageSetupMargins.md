@@ -44,6 +44,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Using the  **FilePageSetupMargins** method without specifying any arguments displays the **Page Setup** dialog box with the **Margins** tab selected.
+Using the **FilePageSetupMargins** method without specifying any arguments displays the **Page Setup** dialog box with the **Margins** tab selected.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

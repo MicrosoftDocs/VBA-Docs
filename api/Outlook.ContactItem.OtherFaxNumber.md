@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.OtherFaxNumber property (Outlook)
 
-Returns or sets a  **String** representing the other fax number for the contact. Read/write.
+Returns or sets a **String** representing the other fax number for the contact. Read/write.
 
 
 ## Syntax

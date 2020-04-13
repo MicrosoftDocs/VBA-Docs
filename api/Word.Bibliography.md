@@ -19,7 +19,7 @@ Represents the list of sources available attached to the document (in the curren
 
 ## Remarks
 
-Biblographies are composed of sources. Also see the  **[Source](Word.Source.md)** object and the **[Sources](Word.Sources.md)** collection. For more information, see [Working with Bibliographies](../word/Concepts/Working-with-Word/working-with-bibliographies.md).
+Biblographies are composed of sources. Also see the **[Source](Word.Source.md)** object and the **[Sources](Word.Sources.md)** collection. For more information, see [Working with Bibliographies](../word/Concepts/Working-with-Word/working-with-bibliographies.md).
 
 ## Methods
 

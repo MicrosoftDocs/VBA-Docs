@@ -26,6 +26,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-Project sets the  **CurrencySymbolPosition** property equal to the corresponding value in the **Customize Regional Options** dialog box of the Windows Control Panel. The value can be one of the following **[PjPlacement](Project.PjPlacement.md)** constants: **pjBefore**, **pjAfter**, **pjBeforeWithSpace**, or **pjAfterWithSpace**.
+Project sets the **CurrencySymbolPosition** property equal to the corresponding value in the **Customize Regional Options** dialog box of the Windows Control Panel. The value can be one of the following **[PjPlacement](Project.PjPlacement.md)** constants: **pjBefore**, **pjAfter**, **pjBeforeWithSpace**, or **pjAfterWithSpace**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

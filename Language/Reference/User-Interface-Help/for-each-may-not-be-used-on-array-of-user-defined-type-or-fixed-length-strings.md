@@ -16,11 +16,11 @@ localization_priority: Normal
 
 
 
-- The elements of the array in your  **For Each** construct have a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type).
+- The elements of the array in your **For Each** construct have a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type).
     
-    Use an ordinary  **For...Next** loop to iterate the elements of the array.
+    Use an ordinary **For...Next** loop to iterate the elements of the array.
     
-- The elements of the array in your  **For Each** construct have a fixed-length string type. Use an ordinary **For...Next** loop to iterate the elements of the array.
+- The elements of the array in your **For Each** construct have a fixed-length string type. Use an ordinary **For...Next** loop to iterate the elements of the array.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # ExchangeDistributionList object (Outlook)
 
-The  **ExchangeDistributionList** object provides detailed information about an **[AddressEntry](Outlook.AddressEntry.md)** that represents an Exchange distribution list.
+The **ExchangeDistributionList** object provides detailed information about an **[AddressEntry](Outlook.AddressEntry.md)** that represents an Exchange distribution list.
 
 
 ## Remarks
 
  **ExchangeDistributionList** is a derived class of **AddressEntry**, and is returned instead of an **AddressEntry** when the caller performs a **QueryInterface** on the **AddressEntry**.
 
-The  **AddressEntry.Members** property supports enumerating members of a distribution list. **ExchangeDistributionList** adds the first-class properties for **[Alias](Outlook.ExchangeDistributionList.Alias.md)**, **[Comments](Outlook.ExchangeDistributionList.Comments.md)**, and **[PrimarySmtpAddress](Outlook.ExchangeDistributionList.PrimarySmtpAddress.md)**. You can also access other properties specific to the Exchange distribution list that are not exposed in the object model through the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object.
+The **AddressEntry.Members** property supports enumerating members of a distribution list. **ExchangeDistributionList** adds the first-class properties for **[Alias](Outlook.ExchangeDistributionList.Alias.md)**, **[Comments](Outlook.ExchangeDistributionList.Comments.md)**, and **[PrimarySmtpAddress](Outlook.ExchangeDistributionList.PrimarySmtpAddress.md)**. You can also access other properties specific to the Exchange distribution list that are not exposed in the object model through the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object.
 
 Some properties such as  **Comments** are read-write properties. Setting these properties requires the code to be running under an appropriate Exchange administrator account; without sufficient permissions, calling the **[ExchangeUser.Update](Outlook.ExchangeUser.Update.md)** method will result in a "permission denied" error.
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Effect.EffectType property (PowerPoint)
 
-Sets or returns an  **MsoAnimEffect** constant that represents an animation effect type. Read/write.
+Sets or returns an **MsoAnimEffect** constant that represents an animation effect type. Read/write.
 
 
 ## Syntax

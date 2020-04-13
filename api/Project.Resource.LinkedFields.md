@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.LinkedFields property (Project)
 
-Indicates whether the  **Resource** object contains fields that are linked to other applications through OLE. Read-only **Boolean**.
+Indicates whether the **Resource** object contains fields that are linked to other applications through OLE. Read-only **Boolean**.
 
 
 ## Syntax

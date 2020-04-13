@@ -19,7 +19,7 @@ A collection of  **StyleSheet** objects that represents the cascading style shee
 
 ## Remarks
 
-Use the  **StyleSheets** property to return the **StyleSheets** collection. Use the **Add** method to add a style sheet to the **StyleSheets** collection. The following example adds three cascading style sheets to the active document and sets the third as the highest in precedence.
+Use the **StyleSheets** property to return the **StyleSheets** collection. Use the **Add** method to add a style sheet to the **StyleSheets** collection. The following example adds three cascading style sheets to the active document and sets the third as the highest in precedence.
 
 
 ```vb

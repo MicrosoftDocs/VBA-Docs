@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 ## Example
 
-The following example uses the  **[Activate](Word.ChartData.Activate.md)** method to display the data associated with the first chart in the active document.
+The following example uses the **[Activate](Word.ChartData.Activate.md)** method to display the data associated with the first chart in the active document.
 
 
 ```vb

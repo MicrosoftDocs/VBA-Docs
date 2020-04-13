@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleActions.Item method (Outlook)
 
-Obtains a  **[RuleAction](Outlook.RuleAction.md)** object specified by _Index_ which is a numerical index into the **[RuleActions](Outlook.RuleActions.md)** collection.
+Obtains a **[RuleAction](Outlook.RuleAction.md)** object specified by _Index_ which is a numerical index into the **[RuleActions](Outlook.RuleActions.md)** collection.
 
 
 ## Syntax
@@ -34,12 +34,12 @@ _expression_ A variable that represents a [RuleActions](Outlook.RuleActions.md) 
 
 ## Return value
 
-A  **RuleAction** object that matches the rule action specified by _Index_.
+A **RuleAction** object that matches the rule action specified by _Index_.
 
 
 ## Remarks
 
-The  **RuleActions** collection object is a fixed collection. It contains **RuleAction** objects or objects derived from **RuleAction**. You cannot add or remove items from this collection, but you can use **Item** to enumerate the rule action items, and set the **[Enabled](Outlook.RuleAction.Enabled.md)** property of the rule action. When using **Item** to enumerate the collection, you can enumerate _Index_ from 1 to **[Count](Outlook.RuleActions.Count.md)**.
+The **RuleActions** collection object is a fixed collection. It contains **RuleAction** objects or objects derived from **RuleAction**. You cannot add or remove items from this collection, but you can use **Item** to enumerate the rule action items, and set the **[Enabled](Outlook.RuleAction.Enabled.md)** property of the rule action. When using **Item** to enumerate the collection, you can enumerate _Index_ from 1 to **[Count](Outlook.RuleActions.Count.md)**.
 
 
 ## See also

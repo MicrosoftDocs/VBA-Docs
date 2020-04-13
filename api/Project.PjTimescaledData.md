@@ -138,7 +138,7 @@ Contains constants that specify the type of field for timescaled data in the Pro
 
 ## Remarks
 
-The  **PjTimescaledData** enumeration is used by the [Application.DetailStylesToggleItem](Project.Application.DetailStylesToggleItem.md) method.
+The **PjTimescaledData** enumeration is used by the [Application.DetailStylesToggleItem](Project.Application.DetailStylesToggleItem.md) method.
 
 For more information about working with fields in Project, see the  _Available fields reference_ topic. In Project Help, search for _Available fields_.
 

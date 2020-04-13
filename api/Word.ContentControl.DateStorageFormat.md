@@ -26,7 +26,7 @@ _expression_. `DateStorageFormat`
 
 ## Remarks
 
-The  **DateStorageFormat** property allows you to store dates in date format, date/time format, or text format.
+The **DateStorageFormat** property allows you to store dates in date format, date/time format, or text format.
 
 
 ## Example

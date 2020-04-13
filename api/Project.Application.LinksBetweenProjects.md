@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.LinksBetweenProjects method (Project)
 
-Specifies whether the  **Links between Projects** dialog box appears when opening a project containing cross-project links.
+Specifies whether the **Links between Projects** dialog box appears when opening a project containing cross-project links.
 
 
 ## Syntax

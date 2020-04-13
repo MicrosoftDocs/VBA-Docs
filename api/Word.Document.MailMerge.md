@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Document](Word.Document.md)** objec
 
 ## Remarks
 
-The  **MailMerge** object is available regardless of whether the specified document is a mail merge main document. Use the **State** property to determine the current state of the mail merge operation.
+The **MailMerge** object is available regardless of whether the specified document is a mail merge main document. Use the **State** property to determine the current state of the mail merge operation.
 
 
 ## Example

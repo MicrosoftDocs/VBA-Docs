@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Footnotes.SwapWithEndnotes method (Word)
 
-Converts all footnotes in a document to endnotes and vice versa.To convert a range of footnotes to endnotes, use the  **Convert** method.
+Converts all footnotes in a document to endnotes and vice versa.To convert a range of footnotes to endnotes, use the **Convert** method.
 
 
 ## Syntax

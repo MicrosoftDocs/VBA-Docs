@@ -26,7 +26,7 @@ _expression_. `MailingInstructions`
 
 ## Example
 
-This example retrieves the Letter Wizard elements from the active document, changes the text of the mailing instructions, and then uses the  **[SetLetterContent](Word.Document.SetLetterContent.md)** method to update the active document to reflect the changes.
+This example retrieves the Letter Wizard elements from the active document, changes the text of the mailing instructions, and then uses the **[SetLetterContent](Word.Document.SetLetterContent.md)** method to update the active document to reflect the changes.
 
 
 ```vb
@@ -35,7 +35,7 @@ myLetterContent.MailingInstructions = "Air Mail"
 ActiveDocument.SetLetterContent LetterContent:=myLetterContent
 ```
 
-This example creates a new  **LetterContent** object, sets several properties (including the mailing instruction text), and then runs the Letter Wizard by using the **[RunLetterWizard](Word.Document.RunLetterWizard.md)** method.
+This example creates a new **LetterContent** object, sets several properties (including the mailing instruction text), and then runs the Letter Wizard by using the **[RunLetterWizard](Word.Document.RunLetterWizard.md)** method.
 
 
 

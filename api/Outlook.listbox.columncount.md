@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # ListBox.ColumnCount Property (Outlook Forms Script)
 
-Returns or sets a  **Long** that represents the number of columns to display in a list box. Read/write.
+Returns or sets a **Long** that represents the number of columns to display in a list box. Read/write.
 
 
 ## Syntax
 
 _expression_.**ColumnCount**
 
-_expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a **ListBox** object.
 
 
 ## Remarks

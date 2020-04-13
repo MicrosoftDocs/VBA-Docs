@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Selection object (PowerPoint)
 
-Represents the selection in the specified document window. The  **Selection** object is deleted whenever you change slides in an active slide view (the **Type** property will return **ppSelectionNone**).
+Represents the selection in the specified document window. The **Selection** object is deleted whenever you change slides in an active slide view (the **Type** property will return **ppSelectionNone**).
 
 
 ## Example

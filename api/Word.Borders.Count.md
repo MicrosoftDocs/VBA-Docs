@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Borders.Count property (Word)
 
-Returns the number of items in the  **Borders** collection. Read-only **Long**.
+Returns the number of items in the **Borders** collection. Read-only **Long**.
 
 
 ## Syntax

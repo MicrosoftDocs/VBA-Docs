@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 ## Remarks
 
-An axis title is represented by an  **[AxisTitle](PowerPoint.AxisTitle.md)** object.
+An axis title is represented by an **[AxisTitle](PowerPoint.AxisTitle.md)** object.
 
 
 ## Example

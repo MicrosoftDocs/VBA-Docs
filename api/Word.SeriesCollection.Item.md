@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[SeriesCollection](Word.SeriesCollec
 
 ## Return value
 
-A  **[Series](Word.Series.md)** object contained by the collection.
+A **[Series](Word.Series.md)** object contained by the collection.
 
 
 ## Example

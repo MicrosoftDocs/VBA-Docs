@@ -36,7 +36,7 @@ _expression_ Required. A variable that represents a '[Global](Word.Global.md)' o
 
 ## Remarks
 
-If the word is spelled correctly, the  **Count** property of the **[SpellingSuggestions](Word.spellingsuggestions.md)** object returns 0 (zero).
+If the word is spelled correctly, the **Count** property of the **[SpellingSuggestions](Word.spellingsuggestions.md)** object returns 0 (zero).
 
 
 ## Example

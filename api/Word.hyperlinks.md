@@ -14,7 +14,7 @@ Represents the collection of  **Hyperlink** objects in a document, range, or sel
 
 ## Remarks
 
-Use the  **Hyperlinks** property to return the **Hyperlinks** collection. The following example checks all the hyperlinks in document one for a link that contains the word "Microsoft" in the address. If a hyperlink is found, it is activated with the **Follow** method.
+Use the **Hyperlinks** property to return the **Hyperlinks** collection. The following example checks all the hyperlinks in document one for a link that contains the word "Microsoft" in the address. If a hyperlink is found, it is activated with the **Follow** method.
 
 
 ```vb
@@ -26,7 +26,7 @@ For Each hLink In Documents(1).Hyperlinks
 Next hLink
 ```
 
-Use the  **Add** method to create a hyperlink and add it to the **Hyperlinks** collection. The following example creates a new hyperlink to the MSN Web site.
+Use the **Add** method to create a hyperlink and add it to the **Hyperlinks** collection. The following example creates a new hyperlink to the MSN Web site.
 
 
 
@@ -47,7 +47,7 @@ If Selection.HyperLinks.Count >= 1 Then
 End If
 ```
 
-The  **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object.
+The **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object.
 
 
 ## Methods

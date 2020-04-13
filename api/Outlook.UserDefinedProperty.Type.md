@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # UserDefinedProperty.Type property (Outlook)
 
-Returns an  **[OlUserPropertyType](Outlook.OlUserPropertyType.md)** constant indicating the type of the **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** object. Read-only.
+Returns an **[OlUserPropertyType](Outlook.OlUserPropertyType.md)** constant indicating the type of the **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** object. Read-only.
 
 
 ## Syntax

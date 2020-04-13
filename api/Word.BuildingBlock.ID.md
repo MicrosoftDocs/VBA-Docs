@@ -26,7 +26,7 @@ _expression_.**ID**
 
 ## Remarks
 
-The  **ID** property returns an identification string that is in the form of a GUID.
+The **ID** property returns an identification string that is in the form of a GUID.
 
 
 ## See also

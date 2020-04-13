@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Zoom object (Word)
 
-Contains magnification options (for example, the zoom percentage) for a window or pane. The  **Zoom** object is a member of the **[Zooms](Word.zooms.md)** collection.
+Contains magnification options (for example, the zoom percentage) for a window or pane. The **Zoom** object is a member of the **[Zooms](Word.zooms.md)** collection.
 
 
 ## Remarks
 
-Use the  **Zoom** property of the **View** object to return a single **Zoom** object. The following example sets the zoom percentage for the active window to 110 percent.
+Use the **Zoom** property of the **View** object to return a single **Zoom** object. The following example sets the zoom percentage for the active window to 110 percent.
 
 
 ```vb
@@ -36,7 +36,7 @@ ActiveDocument.ActiveWindow.ActivePane _
  .Zooms(wdPrintView).PageFit = wdPageFitFullPage
 ```
 
-The  **Add** method isn't available for the **Zooms** collection. The **Zooms** collection includes a single **Zoom** object for each of the various view types (such as outline, normal, or page layout).
+The **Add** method isn't available for the **Zooms** collection. The **Zooms** collection includes a single **Zoom** object for each of the various view types (such as outline, normal, or page layout).
 
 
 ## See also

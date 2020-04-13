@@ -16,11 +16,11 @@ Transfers the contents of the Clipboard to an object.
 
 _expression_.**Paste**
 
-_expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a **TextBox** object.
 
 
 ## Remarks
 
-Data pasted into a  **[TextBox](Outlook.textbox.md)** is treated as text.
+Data pasted into a **[TextBox](Outlook.textbox.md)** is treated as text.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

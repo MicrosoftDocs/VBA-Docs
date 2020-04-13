@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 ## Remarks
 
-Using this method replaces the contents of the current selection. If you don't want to replace the contents of the selection, use the  **[Collapse](Word.Selection.Collapse.md)** method before using this method.
+Using this method replaces the contents of the current selection. If you don't want to replace the contents of the selection, use the **[Collapse](Word.Selection.Collapse.md)** method before using this method.
 
 When you use this method with a  **Range** object, the range expands to include the contents of the Clipboard. When you use this method with a **Selection** object, the selection does not expand to include the Clipboard contents; instead, the selection is positioned after the pasted Clipboard contents.
 

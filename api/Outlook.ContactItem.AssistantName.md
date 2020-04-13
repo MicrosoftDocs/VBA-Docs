@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.AssistantName property (Outlook)
 
-Returns or sets a  **String** representing the name of the person who is the assistant for the contact. Read/write.
+Returns or sets a **String** representing the name of the person who is the assistant for the contact. Read/write.
 
 
 ## Syntax

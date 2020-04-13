@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Store.DisplayName property (Outlook)
 
-Returns a  **String** representing the display name of the **[Store](Outlook.Store.md)** object. Read-only.
+Returns a **String** representing the display name of the **[Store](Outlook.Store.md)** object. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ListEntry object (Word)
 
-Represents an item in a drop-down form field. The  **ListEntry** object is a member of the **ListEntries** collection. The **[ListEntries](Word.listentries.md)** collection includes all the items in a drop-down form field.
+Represents an item in a drop-down form field. The **ListEntry** object is a member of the **ListEntries** collection. The **[ListEntries](Word.listentries.md)** collection includes all the items in a drop-down form field.
 
 
 ## Remarks
@@ -37,7 +37,7 @@ MsgBox _
  ActiveDocument.FormFields("Color").DropDown.ListEntries(1).Name
 ```
 
-Use the  **Add** method to add an item to a drop-down form field. The following example inserts a drop-down form field and then adds "red," "blue," and "green" to the form field.
+Use the **Add** method to add an item to a drop-down form field. The following example inserts a drop-down form field and then adds "red," "blue," and "green" to the form field.
 
 
 

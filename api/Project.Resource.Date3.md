@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.Date3 property (Project)
 
-Gets or sets the value of the  **Date3** custom field for the resource. Read/write **Variant**.
+Gets or sets the value of the **Date3** custom field for the resource. Read/write **Variant**.
 
 
 ## Syntax

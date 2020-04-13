@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Presentation.SectionProperties property (PowerPoint)
 
-Returns a  **SectionProperties** object. Read-only.
+Returns a **SectionProperties** object. Read-only.
 
 
 ## Syntax

@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You entered an SQL expression that includes a  **Function** procedure name that cannot be recognized. Make sure the function exists, that it can be used in SQL expressions, or check the expression to make sure you entered the name correctly.
+You entered an SQL expression that includes a **Function** procedure name that cannot be recognized. Make sure the function exists, that it can be used in SQL expressions, or check the expression to make sure you entered the name correctly.
 
 ## See also
 

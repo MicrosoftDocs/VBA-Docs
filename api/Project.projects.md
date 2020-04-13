@@ -44,7 +44,7 @@ MsgBox Names
 
  **Using the Projects Collection**
 
-Use the  **[Projects](./Project.Application.Projects.md)** property to return a **Projects** collection. The following example counts the number of open projects.
+Use the **[Projects](./Project.Application.Projects.md)** property to return a **Projects** collection. The following example counts the number of open projects.
 
 
 
@@ -53,7 +53,7 @@ Use the  **[Projects](./Project.Application.Projects.md)** property to return a 
 Application.Projects.Count
 ```
 
-Because the  **Projects** collection is a top-level object, the following example is functionally identical to the preceding one.
+Because the **Projects** collection is a top-level object, the following example is functionally identical to the preceding one.
 
 
 
@@ -62,7 +62,7 @@ Because the  **Projects** collection is a top-level object, the following exampl
 Projects.Count
 ```
 
-Use the  **[Add](./Project.Projects.Add.md)** method to add a **Project** object to the **Projects** collection. The following example creates a new project without prompting for project information.
+Use the **[Add](./Project.Projects.Add.md)** method to add a **Project** object to the **Projects** collection. The following example creates a new project without prompting for project information.
 
 
 

@@ -23,7 +23,7 @@ _expression_.**Pattern**
 
 ## Remarks
 
-The  **Pattern** property can be one of the **[PjBackgroundPattern](Project.PjBackgroundPattern.md)** constants.
+The **Pattern** property can be one of the **[PjBackgroundPattern](Project.PjBackgroundPattern.md)** constants.
 
 
 ## See also

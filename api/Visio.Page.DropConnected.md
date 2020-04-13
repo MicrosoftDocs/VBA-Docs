@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Page.DropConnected method (Visio)
 
-Creates a new  **[Shape](Visio.Shape.md)** object on the page, places the new shape relative to the specified existing target shape, and adds a connector from the existing shape to the new shape. Returns the newly created shape.
+Creates a new **[Shape](Visio.Shape.md)** object on the page, places the new shape relative to the specified existing target shape, and adds a connector from the existing shape to the new shape. Returns the newly created shape.
 
 
 ## Syntax

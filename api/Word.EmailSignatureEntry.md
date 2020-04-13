@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # EmailSignatureEntry object (Word)
 
-Represents a single email signature entry. The  **EmailSignatureEntry** object is a member of the **[EmailSignatureEntries](Word.EmailSignatureEntries.md)** collection. The **EmailSignatureEntries** collection contains all the email signature entries available to Word.
+Represents a single email signature entry. The **EmailSignatureEntry** object is a member of the **[EmailSignatureEntries](Word.EmailSignatureEntries.md)** collection. The **EmailSignatureEntries** collection contains all the email signature entries available to Word.
 
 
 ## Remarks

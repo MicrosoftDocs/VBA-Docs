@@ -26,7 +26,7 @@ _expression_. `TabPosition`
 
 ## Remarks
 
-Because the  **ListLevel** object does not have a default tab setting, the **TabPosition** property always returns a value of 999999 or **wdUndefined**, unless you set the property to a value.
+Because the **ListLevel** object does not have a default tab setting, the **TabPosition** property always returns a value of 999999 or **wdUndefined**, unless you set the property to a value.
 
 
 ## Example

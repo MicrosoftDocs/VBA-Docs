@@ -19,9 +19,9 @@ Provides the ability to obtain the account that is selected in the Microsoft Off
 
 ## Remarks
 
-The  **AccountSelector** object has the **Explorer** object as its parent object. You can obtain an instance of the **AccountSelector** object from the **[AccountSelector](Outlook.Explorer.AccountSelector.md)** property of the **Explorer** object.
+The **AccountSelector** object has the **Explorer** object as its parent object. You can obtain an instance of the **AccountSelector** object from the **[AccountSelector](Outlook.Explorer.AccountSelector.md)** property of the **Explorer** object.
 
-The  **AccountSelector** object provides a **[SelectedAccount](Outlook.AccountSelector.SelectedAccount.md)** property that returns the current account that has been selected in the Backstage view. The object also provides a **[SelectedAccountChange](Outlook.AccountSelector.SelectedAccountChange.md)** event that fires when the user has changed the account in the Backstage view.
+The **AccountSelector** object provides a **[SelectedAccount](Outlook.AccountSelector.SelectedAccount.md)** property that returns the current account that has been selected in the Backstage view. The object also provides a **[SelectedAccountChange](Outlook.AccountSelector.SelectedAccountChange.md)** event that fires when the user has changed the account in the Backstage view.
 
 
 ## Events

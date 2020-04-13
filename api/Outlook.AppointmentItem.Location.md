@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.Location property (Outlook)
 
-Returns or sets a  **String** representing the specific office location (for example, Building 1 Room 1 or Suite 123) for the appointment. Read/write.
+Returns or sets a **String** representing the specific office location (for example, Building 1 Room 1 or Suite 123) for the appointment. Read/write.
 
 
 ## Syntax

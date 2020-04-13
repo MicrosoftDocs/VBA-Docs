@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Selection property (Word)
 
-Returns the  **[Selection](Word.Selection.md)** object that represents a selected range or the insertion point. Read-only.
+Returns the **[Selection](Word.Selection.md)** object that represents a selected range or the insertion point. Read-only.
 
 
 ## Syntax

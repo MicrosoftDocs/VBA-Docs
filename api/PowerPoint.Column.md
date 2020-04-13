@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Column object (PowerPoint)
 
-Represents a table column. The  **Column** object is a member of the **[Columns](PowerPoint.Columns.md)** collection. The **Columns** collection includes all the columns in a table.
+Represents a table column. The **Column** object is a member of the **[Columns](PowerPoint.Columns.md)** collection. The **Columns** collection includes all the columns in a table.
 
 
 ## Example

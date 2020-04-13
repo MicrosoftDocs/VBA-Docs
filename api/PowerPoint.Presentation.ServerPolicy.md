@@ -31,7 +31,7 @@ ServerPolicy
 
 ## Remarks
 
-The  **ServerPolicy** object represents a policy specified for a document type stored on a server running Microsoft Office SharePoint Server 2007.
+The **ServerPolicy** object represents a policy specified for a document type stored on a server running Microsoft Office SharePoint Server 2007.
 
 
 ## See also

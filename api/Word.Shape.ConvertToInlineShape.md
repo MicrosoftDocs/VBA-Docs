@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Shape](Word.Shape.md)** o
 
 ## Remarks
 
-Shapes that support attached text cannot be converted to inline shapes. For these shapes, use the  **ConvertToFrame** method.
+Shapes that support attached text cannot be converted to inline shapes. For these shapes, use the **ConvertToFrame** method.
 
 
 

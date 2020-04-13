@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-Use the  **RejectAllRevisionsShown** method to reject all revisions in a specified document that are displayed on the screen.
+Use the **RejectAllRevisionsShown** method to reject all revisions in a specified document that are displayed on the screen.
 
 
 ## Example

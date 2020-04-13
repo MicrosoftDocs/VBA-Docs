@@ -31,16 +31,16 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TaskID_|Optional|**Long**|The identification number of the task to be changed on the Gantt chart. The default is to change the Gantt bars of the selected tasks.|
-| _GanttStyle_|Optional|**Integer**|The style applied to the Gantt bar to be formatted. The value for GanttStyle is based on the position of the bar style in the  **Bar Styles** dialog box. For example, the value 3 returns the third bar style in the list.|
-| _StartShape_|Optional|**Long**|The start shape of the Gantt bar. Can be one of the  **[PjBarEndShape](Project.PjBarEndShape.md)** constants.|
-| _StartType_|Optional|**Long**|The start type of the Gantt bar. Can be one of the  **[PjBarType](Project.PjBarType.md)** constants.|
-| _StartColor_|Optional|**Long**|The color of the start shape of the Gantt bar. Can be one of the  **[PjColor](Project.PjColor.md)** constants.|
-| _MiddleShape_|Optional|**Long**|The middle shape of the Gantt bar. Can be one of the  **[PjBarShape](Project.PjBarShape.md)** constants.|
-| _MiddlePattern_|Optional|**Long**|The middle pattern of the Gantt bar. Can be one of the  **[PjFillPattern](Project.PjFillPattern.md)** constants.|
-| _MiddleColor_|Optional|**Long**|The color of the middle section Gantt bar. Can be one of the  **PjColor** constants.|
-| _EndShape_|Optional|**Long**|The end shape of the Gantt bar. Can be one of the  **PjBarEndShape** constants.|
+| _GanttStyle_|Optional|**Integer**|The style applied to the Gantt bar to be formatted. The value for GanttStyle is based on the position of the bar style in the **Bar Styles** dialog box. For example, the value 3 returns the third bar style in the list.|
+| _StartShape_|Optional|**Long**|The start shape of the Gantt bar. Can be one of the **[PjBarEndShape](Project.PjBarEndShape.md)** constants.|
+| _StartType_|Optional|**Long**|The start type of the Gantt bar. Can be one of the **[PjBarType](Project.PjBarType.md)** constants.|
+| _StartColor_|Optional|**Long**|The color of the start shape of the Gantt bar. Can be one of the **[PjColor](Project.PjColor.md)** constants.|
+| _MiddleShape_|Optional|**Long**|The middle shape of the Gantt bar. Can be one of the **[PjBarShape](Project.PjBarShape.md)** constants.|
+| _MiddlePattern_|Optional|**Long**|The middle pattern of the Gantt bar. Can be one of the **[PjFillPattern](Project.PjFillPattern.md)** constants.|
+| _MiddleColor_|Optional|**Long**|The color of the middle section Gantt bar. Can be one of the **PjColor** constants.|
+| _EndShape_|Optional|**Long**|The end shape of the Gantt bar. Can be one of the **PjBarEndShape** constants.|
 | _EndType_|Optional|**Long**|The end type of the Gantt bar. Can be one of the following  **PjBarType** constants: **pjDashed**, **pjFramed**, or **pjSolid**.|
-| _EndColor_|Optional|**Long**|The color of the end shape of the Gantt bar. Can be one of the  **PjColor** constants.|
+| _EndColor_|Optional|**Long**|The color of the end shape of the Gantt bar. Can be one of the **PjColor** constants.|
 | _LeftText_|Optional|**String**|The task field to display to the left of the Gantt bar.|
 | _RightText_|Optional|**String**|The task field to display to the right of the Gantt bar.|
 | _TopText_|Optional|**String**|The task field to display above the Gantt bar.|
@@ -56,11 +56,11 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Using the  **GanttBarFormat** method without specifying any arguments displays the **Format Bar** dialog box.
+Using the **GanttBarFormat** method without specifying any arguments displays the **Format Bar** dialog box.
 
  To define the default styles, use the **[GanttBarStyleEdit](Project.Application.GanttBarStyleEdit.md)** method.
 
-To change Gantt bar formatting where colors can be hexadecimal RGB values, use the  **[GanttBarFormatEx](Project.Application.GanttBarFormatEx.md)** method.
+To change Gantt bar formatting where colors can be hexadecimal RGB values, use the **[GanttBarFormatEx](Project.Application.GanttBarFormatEx.md)** method.
 
 
 ## Example

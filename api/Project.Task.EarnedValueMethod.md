@@ -26,6 +26,6 @@ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 ## Remarks
 
-The  **EarnedValueMethod** property can be one of the following **[PjEarnedValueMethod](Project.PjEarnedValueMethod.md)** constants: **pjPercentComplete** or **pjPhysicalPercentComplete**.
+The **EarnedValueMethod** property can be one of the following **[PjEarnedValueMethod](Project.PjEarnedValueMethod.md)** constants: **pjPercentComplete** or **pjPhysicalPercentComplete**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

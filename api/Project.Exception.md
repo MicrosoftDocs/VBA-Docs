@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Exception object (Project)
 
-Represents a single calendar exception. The  **Exception** object is a member of the **[Exceptions](./Project.exceptions.md)** collection.
+Represents a single calendar exception. The **Exception** object is a member of the **[Exceptions](./Project.exceptions.md)** collection.
 
 
 ## Remarks
 
-Use the  **Exceptions** collections **[Item](./Project.Exceptions.Item.md)** property to return a single **Exception** object.
+Use the **Exceptions** collections **[Item](./Project.Exceptions.Item.md)** property to return a single **Exception** object.
 
-Use the  **Exceptions** collections **[Add](./Project.Exceptions.Add.md)** method to add an **Exception** object to the **Exceptions** collection.
+Use the **Exceptions** collections **[Add](./Project.Exceptions.Add.md)** method to add an **Exception** object to the **Exceptions** collection.
 
 
 ## Methods

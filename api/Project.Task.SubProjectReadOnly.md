@@ -23,6 +23,6 @@ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 ## Remarks
 
-If the task is not a subproject, the  **SubProjectReadOnly** property is **False**.
+If the task is not a subproject, the **SubProjectReadOnly** property is **False**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

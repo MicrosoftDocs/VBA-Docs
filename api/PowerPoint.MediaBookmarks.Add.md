@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MediaBookmarks.Add method (PowerPoint)
 
-Adds a new  **MediaBookmark** at the specified time and using the specified name.
+Adds a new **MediaBookmark** at the specified time and using the specified name.
 
 
 ## Syntax

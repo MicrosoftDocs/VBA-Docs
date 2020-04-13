@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Project.ViewList property (Project)
 
-Gets the  **[List](Project.List.md)** object for the project. Read-only **List**.
+Gets the **[List](Project.List.md)** object for the project. Read-only **List**.
 
 
 ## Syntax

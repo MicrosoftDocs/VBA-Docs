@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.RetentionExpirationDate property (Outlook)
 
-Returns a  **Date** that specifies the date when the **[SharingItem](Outlook.SharingItem.md)** object expires, after which the Messaging Records Management (MRM) Assistant will delete the item. Read-only.
+Returns a **Date** that specifies the date when the **[SharingItem](Outlook.SharingItem.md)** object expires, after which the Messaging Records Management (MRM) Assistant will delete the item. Read-only.
 
 
 ## Syntax

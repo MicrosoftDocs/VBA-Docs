@@ -16,7 +16,7 @@ A collection of  **[ContentControl](Word.ContentControl.md)** objects. Content c
 
 ## Remarks
 
-Use the  **[Add](Word.ContentControls.Add.md)** method to create a new content control and insert it into a document. The following example creates a new drop-down list content control and adds several items to the list.
+Use the **[Add](Word.ContentControls.Add.md)** method to create a new content control and insert it into a document. The following example creates a new drop-down list content control and adds several items to the list.
 
 
 ```vb
@@ -37,7 +37,7 @@ objcc.DropdownListEntries.Add "Snake"
 objcc.DropdownListEntries.Add "Other"
 ```
 
-Use the  **[Item](Word.ContentControls.Item.md)** method to access a specific content control in the collection. The following example accesses the third content control in the active document, and if the control is a drop-down list or a combo box, moves the first item to the bottom of the list and the last item to the top of the list.
+Use the **[Item](Word.ContentControls.Item.md)** method to access a specific content control in the collection. The following example accesses the third content control in the active document, and if the control is a drop-down list or a combo box, moves the first item to the bottom of the list and the last item to the top of the list.
 
 
 
@@ -70,7 +70,7 @@ If objcc.Type = wdContentControlComboBox Or _
 End If
 ```
 
-Use the  **ContentControl** object to work with individual content controls. For more information, see [Working with Content Controls](../word/Concepts/Working-with-Word/working-with-content-controls.md).
+Use the **ContentControl** object to work with individual content controls. For more information, see [Working with Content Controls](../word/Concepts/Working-with-Word/working-with-content-controls.md).
 
 
 ## Methods

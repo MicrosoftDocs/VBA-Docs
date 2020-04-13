@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Bookmark](Word.Bookmark.md)** objec
 
 ## Remarks
 
-If this property is set to a value larger than that of the  **[End](Word.Bookmark.End.md)** property, the **End** property is set to the same value as that of **Start** property.
+If this property is set to a value larger than that of the **[End](Word.Bookmark.End.md)** property, the **End** property is set to the same value as that of **Start** property.
 
  Bookmark objects have starting and ending character positions. The starting position refers to the character position closest to the beginning of the story.
 

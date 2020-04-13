@@ -30,11 +30,11 @@ _expression_ A variable that represents an '[Account](Outlook.Account.md)' objec
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _EntryID_|Required| **String**|The  **[EntryID](Outlook.Recipient.EntryID.md)** of the recipient.|
+| _EntryID_|Required| **String**|The **[EntryID](Outlook.Recipient.EntryID.md)** of the recipient.|
 
 ## Return value
 
-A  **Recipient** object that represents the recipient associated with the specified entry ID.
+A **Recipient** object that represents the recipient associated with the specified entry ID.
 
 
 ## Remarks

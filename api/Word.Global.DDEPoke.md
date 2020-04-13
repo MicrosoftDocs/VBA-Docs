@@ -28,13 +28,13 @@ _expression_ A variable that represents a '[Global](Word.Global.md)' object. Opt
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Channel_|Required| **Long**|The channel number returned by the  **DDEInitiate** method.|
+| _Channel_|Required| **Long**|The channel number returned by the **DDEInitiate** method.|
 | _Item_|Required| **String**|The item within a DDE topic to which the specified data is to be sent.|
 | _Data_|Required| **String**|The data to be sent to the receiving application (the DDE server).|
 
 ## Remarks
 
-If the  **DDEPoke** method isn't successful, an error occurs.
+If the **DDEPoke** method isn't successful, an error occurs.
 
 
 ## Example

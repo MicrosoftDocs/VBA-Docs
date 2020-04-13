@@ -40,7 +40,7 @@ Range
 
 ## Remarks
 
-If the  **Range** object is just after the specified Unit, the **Range** object is moved to the previous unit. For example, if the **Range** object is just after a word (before the trailing space), the following instruction moves the **Range** object backward to the previous word.
+If the **Range** object is just after the specified Unit, the **Range** object is moved to the previous unit. For example, if the **Range** object is just after a word (before the trailing space), the following instruction moves the **Range** object backward to the previous word.
 
 
 ```vb

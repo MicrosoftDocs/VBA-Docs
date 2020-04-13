@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Months.Count property (Project)
 
-Gets the number of items in the  **Months** collection for a specified year from 1984 - 2149. Read-only **Integer**.
+Gets the number of items in the **Months** collection for a specified year from 1984 - 2149. Read-only **Integer**.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ The following example in the Immediate window of the VBE returns 12, the number 
 ? activeproject.Resources(1).Calendar.Years(2012).Months.Count
 ```
 
-The following example shows the use of the  **Count** property for the **Assignments** object. It prompts the user for the name of a resource and then assigns that resource to tasks without any resources.
+The following example shows the use of the **Count** property for the **Assignments** object. It prompts the user for the name of a resource and then assigns that resource to tasks without any resources.
 
 
 

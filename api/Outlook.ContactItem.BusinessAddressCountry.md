@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.BusinessAddressCountry property (Outlook)
 
-Returns or sets a  **String** representing the country/region code portion of the business address for the contact. Read/write.
+Returns or sets a **String** representing the country/region code portion of the business address for the contact. Read/write.
 
 
 ## Syntax

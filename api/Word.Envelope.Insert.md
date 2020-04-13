@@ -36,7 +36,7 @@ _expression_ Required. A variable that represents an **[Envelope](Word.Envelope.
 | _ReturnAutoText_|Optional| **Variant**|A string that specifies an AutoText entry to use for the return address. If specified, ReturnAddress is ignored.|
 | _PrintBarCode_|Optional| **Variant**| **True** to add a POSTNET bar code. For U.S. mail only.|
 | _PrintFIMA_|Optional| **Variant**| **True** to add a Facing Identification Mark (FIMA) for use in presorting courtesy reply mail. For U.S. mail only.|
-| _Size_|Optional| **Variant**|A string that specifies the envelope size. The string must match one of the sizes listed in the  **Envelope size** box in the **Envelope Options** dialog box (for example, "Size 10" or "C4").|
+| _Size_|Optional| **Variant**|A string that specifies the envelope size. The string must match one of the sizes listed in the **Envelope size** box in the **Envelope Options** dialog box (for example, "Size 10" or "C4").|
 | _Height_|Optional| **Variant**|The height of the envelope, measured in points, when the Size argument is set to "Custom size."|
 | _Width_|Optional| **Variant**|The width of the envelope, measured in points, when the Size argument is set to "Custom size."|
 | _FeedSource_|Optional| **Variant**| **True** to use the **FeedSource** property of the **Envelope** object to specify which paper tray to use when printing the envelope.|

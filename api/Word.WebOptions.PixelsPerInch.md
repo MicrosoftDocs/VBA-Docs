@@ -30,7 +30,7 @@ The range of settings is usually from 19 to 480, and common settings for popular
 
 This property determines the size of the images and cells on the specified Web page relative to the size of text whenever you view the saved document in a web browser. The physical dimensions of the resulting image or cell are the result of the original dimensions (in inches) multiplied by the number of pixels per inch.
 
-Use the  **[ScreenSize](Word.WebOptions.ScreenSize.md)** property to set the optimum screen size for the targeted web browsers.
+Use the **[ScreenSize](Word.WebOptions.ScreenSize.md)** property to set the optimum screen size for the targeted web browsers.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CardView.Standard property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the **[CardView](Outlook.CardView.md)** object is a built-in Outlook view. Read-only.
+Returns a **Boolean** value that indicates whether the **[CardView](Outlook.CardView.md)** object is a built-in Outlook view. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [CardView](Outlook.CardView.md) object
 
 ## Remarks
 
-The  **[Reset](Outlook.View.Reset.md)** method can only be used on a view if the value of this property is set to **True**.
+The **[Reset](Outlook.View.Reset.md)** method can only be used on a view if the value of this property is set to **True**.
 
 
 ## Example

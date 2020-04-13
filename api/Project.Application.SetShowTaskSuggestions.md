@@ -39,6 +39,6 @@ _expression_. `SetShowTaskSuggestions`( `_Set_` )
 
 ## Remarks
 
-The  **Show Suggestions** option is in the drop-down **Inspect Task** menu on the **Task** tab of the ribbon. You can override the global setting for a specific task by selecting or clearing the **Show warning and suggestion indicators for this task** check box in the **Task Inspector** pane.
+The **Show Suggestions** option is in the drop-down **Inspect Task** menu on the **Task** tab of the ribbon. You can override the global setting for a specific task by selecting or clearing the **Show warning and suggestion indicators for this task** check box in the **Task Inspector** pane.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

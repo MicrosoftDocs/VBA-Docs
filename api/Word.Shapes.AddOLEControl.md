@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shapes.AddOLEControl method (Word)
 
-Creates an ActiveX control (formerly known as an OLE control). Returns the  **InlineShape** object that represents the new ActiveX control.
+Creates an ActiveX control (formerly known as an OLE control). Returns the **InlineShape** object that represents the new ActiveX control.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[ColorFormat](Word.ColorFormat.md)' o
 
 ## Remarks
 
-You can enter a number from -1 (darkest) to 1 (lightest) for the  **Brightness** property, 0 (zero) being neutral.
+You can enter a number from -1 (darkest) to 1 (lightest) for the **Brightness** property, 0 (zero) being neutral.
 
 
 ## Example

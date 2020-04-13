@@ -26,9 +26,9 @@ _expression_. `XMLShowAdvancedErrors`
 
 ## Remarks
 
-Using advanced error messages from the MSXML 5.0 component provides more specific error messages. There are approximately 500 error messages provided through the XML Core Services that are accessible when the  **XMLShowAdvancedErrors** property is **True**.
+Using advanced error messages from the MSXML 5.0 component provides more specific error messages. There are approximately 500 error messages provided through the XML Core Services that are accessible when the **XMLShowAdvancedErrors** property is **True**.
 
-Word has approximately 50 built-in generic schema errors. When the  **XMLShowAdvancedErrors** property is **False**, Word uses the built-in error messages for errors generated in XML documents.
+Word has approximately 50 built-in generic schema errors. When the **XMLShowAdvancedErrors** property is **False**, Word uses the built-in error messages for errors generated in XML documents.
 
 
 ## Example

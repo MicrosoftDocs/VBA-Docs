@@ -31,7 +31,7 @@ _expression_ Required. A variable that represents a **[ShapeRange](Word.shaperan
 
 ## Remarks
 
-Shapes that support attached text cannot be converted to inline shapes. For these shapes, use the  **ConvertToFrame** method.
+Shapes that support attached text cannot be converted to inline shapes. For these shapes, use the **ConvertToFrame** method.
 
 If you use this method on a  **ShapeRange** object that contains more than one shape, an error occurs.
 

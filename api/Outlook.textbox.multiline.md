@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # TextBox.MultiLine Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether a control can accept and display multiple lines of text. Read/write.
+Returns or sets a **Boolean** that specifies whether a control can accept and display multiple lines of text. Read/write.
 
 
 ## Syntax
 
 _expression_.**MultiLine**
 
-_expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a **TextBox** object.
 
 
 ## Remarks
@@ -36,11 +36,11 @@ Single-line controls ignore the value of the  **WordWrap** property.
 
 If you change  **MultiLine** to **False** in a multiline **TextBox**, all the characters in the  **TextBox** will be combined into one line, including non-printing characters (such as carriage returns and new-lines).
 
-The  **[EnterKeyBehavior](Outlook.textbox.enterkeybehavior.md)** and **MultiLine** properties are closely related. The **EnterKeyBehavior** values of **True** and **False** only apply if **MultiLine** is **True**. If  **MultiLine** is **False**, pressing  **ENTER** always moves the focus to the next control in the tab order regardless of the value of **EnterKeyBehavior**.
+The **[EnterKeyBehavior](Outlook.textbox.enterkeybehavior.md)** and **MultiLine** properties are closely related. The **EnterKeyBehavior** values of **True** and **False** only apply if **MultiLine** is **True**. If  **MultiLine** is **False**, pressing  **ENTER** always moves the focus to the next control in the tab order regardless of the value of **EnterKeyBehavior**.
 
 The effect of pressing  **CTRL+ENTER** also depends on the value of **MultiLine**. If  **MultiLine** is **True**, pressing  **CTRL+ENTER** creates a new line regardless of the value of **EnterKeyBehavior**. If  **MultiLine** is **False**, pressing  **CTRL+ENTER** has no effect.
 
-The  **[TabKeyBehavior](Outlook.textbox.tabkeybehavior.md)** and **MultiLine** properties are closely related. The values described above only apply if **MultiLine** is **True**. If  **MultiLine** is **False**, pressing  **TAB** always moves the focus to the next control in the tab order regardless of the value of **TabKeyBehavior**.
+The **[TabKeyBehavior](Outlook.textbox.tabkeybehavior.md)** and **MultiLine** properties are closely related. The values described above only apply if **MultiLine** is **True**. If  **MultiLine** is **False**, pressing  **TAB** always moves the focus to the next control in the tab order regardless of the value of **TabKeyBehavior**.
 
 The effect of pressing  **CTRL+TAB** also depends on the value of **MultiLine**. If  **MultiLine** is **True**, pressing  **CTRL+TAB** creates a new line regardless of the value of **TabKeyBehavior**. If  **MultiLine** is **False**, pressing  **CTRL+TAB** has no effect.
 

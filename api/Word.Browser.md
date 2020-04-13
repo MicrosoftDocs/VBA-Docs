@@ -19,7 +19,7 @@ Represents the browser tool used to move the insertion point to objects in a doc
 
 ## Remarks
 
-Use the  **[Browser](Word.Application.Browser.md)** property to return the **Browser** object. The following example moves the insertion point just before the next field in the active document.
+Use the **[Browser](Word.Application.Browser.md)** property to return the **Browser** object. The following example moves the insertion point just before the next field in the active document.
 
 
 ```vb

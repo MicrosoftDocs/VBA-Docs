@@ -26,7 +26,7 @@ _expression_. `PreviousSibling`
 
 ## Remarks
 
-If the specified element is the first element in the  **XMLNodes** collection, this property returns **Nothing**.
+If the specified element is the first element in the **XMLNodes** collection, this property returns **Nothing**.
 
 
 ## Example

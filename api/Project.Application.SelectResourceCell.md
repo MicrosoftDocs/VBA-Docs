@@ -41,12 +41,12 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Using the  **SelectResourceCell** method without specifying any arguments retains the current cell as the active cell. The **SelectResourceCell** method is only available when the Resource Sheet or Resource Usage view is the active view.
+Using the **SelectResourceCell** method without specifying any arguments retains the current cell as the active cell. The **SelectResourceCell** method is only available when the Resource Sheet or Resource Usage view is the active view.
 
 
 ## Example
 
-The following example selects the third row in the  **Name** column of the Resource Sheet.
+The following example selects the third row in the **Name** column of the Resource Sheet.
 
 
 ```vb

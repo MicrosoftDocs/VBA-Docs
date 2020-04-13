@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[SeriesCollection](PowerPoint.SeriesC
 
 ## Return value
 
-A  **[Series](PowerPoint.Series.md)** object that represents the new series.
+A **[Series](PowerPoint.Series.md)** object that represents the new series.
 
 
 ## Remarks

@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** o
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _NewFolder_|Required| **Object**|The  **[Folder](Outlook.Folder.md)** object the explorer is switching to.|
+| _NewFolder_|Required| **Object**|The **[Folder](Outlook.Folder.md)** object the explorer is switching to.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, navigation is cancelled, and the current folder is not changed.|
 
 ## Remarks

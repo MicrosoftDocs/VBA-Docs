@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Results](Outlook.Results.md) object.
 
 ## Return value
 
-An  **Object** value that represents the specified object.
+An **Object** value that represents the specified object.
 
 
 ## See also

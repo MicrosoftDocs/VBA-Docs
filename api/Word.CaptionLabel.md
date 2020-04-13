@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CaptionLabel object (Word)
 
-Represents a single caption label. The  **CaptionLabel** object is a member of the **[CaptionLabels](Word.captionlabels.md)** collection. The items in the **CaptionLabels** collection are listed in the **Label** box in the **Caption** dialog box.
+Represents a single caption label. The **CaptionLabel** object is a member of the **[CaptionLabels](Word.captionlabels.md)** collection. The items in the **CaptionLabels** collection are listed in the **Label** box in the **Caption** dialog box.
 
 
 ## Remarks
@@ -27,7 +27,7 @@ CaptionLabels("Figure").NumberStyle = _
  wdCaptionNumberStyleLowercaseLetter
 ```
 
-The index number represents the position of the caption label in the  **CaptionLabels** collection. The following example displays the first caption label.
+The index number represents the position of the caption label in the **CaptionLabels** collection. The following example displays the first caption label.
 
 
 
@@ -36,7 +36,7 @@ The index number represents the position of the caption label in the  **CaptionL
 MsgBox CaptionLabels(1).Name
 ```
 
-Use the  **[Add](Word.CaptionLabels.Add.md)** method to add a custom caption label. The following example adds a caption label named "Photo."
+Use the **[Add](Word.CaptionLabels.Add.md)** method to add a custom caption label. The following example adds a caption label named "Photo."
 
 
 

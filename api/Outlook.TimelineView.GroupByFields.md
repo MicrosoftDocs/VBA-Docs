@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimelineView.GroupByFields property (Outlook)
 
-Returns an  **[OrderFields](Outlook.OrderFields.md)** object that represents the set of fields by which the items displayed in the **[TimelineView](Outlook.TimelineView.md)** object are grouped. Read-only.
+Returns an **[OrderFields](Outlook.OrderFields.md)** object that represents the set of fields by which the items displayed in the **[TimelineView](Outlook.TimelineView.md)** object are grouped. Read-only.
 
 
 ## Syntax

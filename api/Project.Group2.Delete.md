@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Group2.Delete method (Project)
 
-Deletes the  **Group2** object from a **Groups2** collection.
+Deletes the **Group2** object from a **Groups2** collection.
 
 
 ## Syntax

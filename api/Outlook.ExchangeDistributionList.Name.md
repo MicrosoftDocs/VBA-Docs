@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeDistributionList.Name property (Outlook)
 
-Returns or sets a  **String** value that represents the display name for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object. Read/write.
+Returns or sets a **String** value that represents the display name for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object. Read/write.
 
 
 ## Syntax

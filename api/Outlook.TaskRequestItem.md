@@ -26,7 +26,7 @@ Use the  **[GetAssociatedTask](Outlook.TaskRequestItem.GetAssociatedTask.md)** m
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example creates a simple task, assigns it to another user, and sends it. When the task request arrives in the recipient's Inbox, it is received as a  **TaskRequestItem**.
+The following Visual Basic for Applications (VBA) example creates a simple task, assigns it to another user, and sends it. When the task request arrives in the recipient's Inbox, it is received as a **TaskRequestItem**.
 
 
 

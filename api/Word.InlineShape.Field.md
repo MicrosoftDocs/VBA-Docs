@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[InlineShape](Word.InlineShape.md)' 
 
 ## Remarks
 
-Use the  **Fields** property to return the **Fields** collection.
+Use the **Fields** property to return the **Fields** collection.
 
 
 ## Example

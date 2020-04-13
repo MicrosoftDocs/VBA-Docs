@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.NickName property (Outlook)
 
-Returns or sets a  **String** representing the nickname for the contact. Read/write.
+Returns or sets a **String** representing the nickname for the contact. Read/write.
 
 
 ## Syntax

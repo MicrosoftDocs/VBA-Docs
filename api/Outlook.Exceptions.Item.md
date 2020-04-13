@@ -34,7 +34,7 @@ _expression_ A variable that represents an [Exceptions](Outlook.Exceptions.md) o
 
 ## Return value
 
-An  **Exception** object that represents the specified object.
+An **Exception** object that represents the specified object.
 
 
 ## See also

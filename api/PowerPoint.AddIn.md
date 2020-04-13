@@ -19,7 +19,7 @@ Represents a single add-in, either loaded or not loaded.
 
 ## Remarks
 
-The  **AddIn** object is a member of the **[AddIns](PowerPoint.AddIns.md)** collection. The **AddIns** collection contains all of the Microsoft PowerPoint-specific add-ins available, regardless of whether or not they are loaded. The collection does not include Component Object Model (COM) add-ins.
+The **AddIn** object is a member of the **[AddIns](PowerPoint.AddIns.md)** collection. The **AddIns** collection contains all of the Microsoft PowerPoint-specific add-ins available, regardless of whether or not they are loaded. The collection does not include Component Object Model (COM) add-ins.
 
 
 ## Example

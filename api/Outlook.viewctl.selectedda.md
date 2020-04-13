@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # ViewCtl.SelectedDate Property (Outlook View Control)
 
-Returns or sets a  **Date** value that represents the selected date. Read-only.
+Returns or sets a **Date** value that represents the selected date. Read-only.
 
 
 ## Syntax

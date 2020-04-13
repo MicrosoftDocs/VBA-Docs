@@ -30,15 +30,15 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Item_|Optional|**Long**|The timescaled data field to format. If the active view is the Task Usage view, the value can be one of the  **[PjTaskTimescaledData](Project.PjTaskTimescaledData.md)** constants. If the active view is the Resource Usage view, the value can be one of the **[PjResourceTimescaledData](Project.PjResourceTimescaledData.md)** constants.|
+| _Item_|Optional|**Long**|The timescaled data field to format. If the active view is the Task Usage view, the value can be one of the **[PjTaskTimescaledData](Project.PjTaskTimescaledData.md)** constants. If the active view is the Resource Usage view, the value can be one of the **[PjResourceTimescaledData](Project.PjResourceTimescaledData.md)** constants.|
 | _Font_|Optional|**String**|The name of the font.|
 | _Size_|Optional|**Integer**|The size of the font in points.|
 | _Bold_|Optional|**Boolean**|**True** if the font is bold; otherwise, **False**.|
 | _Italic_|Optional|**Boolean**|**True** if the font is italic; otherwise, **False**.|
 | _Underline_|Optional|**Boolean**|**True** if the font is underlined; otherwise, **False**.|
-| _Color_|Optional|**Long**|The color of the font. Can be one of the  **[PjColor](Project.PjColor.md)** constants.|
-| _CellColor_|Optional|**Long**|The color of the cell background. Can be one of the  **PjColor** constants.|
-| _Pattern_|Optional|**Long**|The pattern for nonworking times. Can be one of the  **[PjFillPattern](Project.PjFillPattern.md)** constants.|
+| _Color_|Optional|**Long**|The color of the font. Can be one of the **[PjColor](Project.PjColor.md)** constants.|
+| _CellColor_|Optional|**Long**|The color of the cell background. Can be one of the **PjColor** constants.|
+| _Pattern_|Optional|**Long**|The pattern for nonworking times. Can be one of the **[PjFillPattern](Project.PjFillPattern.md)** constants.|
 | _ShowInMenu_|Optional|**Boolean**|**True** if the field specified with **Item** appears in the shortcut menu; otherwise, **False**. The default value is **False**.|
 
 ## Return value
@@ -48,9 +48,9 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Using the  **DetailStylesFormat** method without specifying any arguments displays the **Detail Styles** dialog box with the **Usage Details** tab selected.
+Using the **DetailStylesFormat** method without specifying any arguments displays the **Detail Styles** dialog box with the **Usage Details** tab selected.
 
-To edit the timescale data where the text and cell color can be a hexadecimal RGB value, and the font can include the strikethrough style, use the  **[DetailStylesFormatEx](Project.Application.DetailStylesFormatEx.md)** method.
+To edit the timescale data where the text and cell color can be a hexadecimal RGB value, and the font can include the strikethrough style, use the **[DetailStylesFormatEx](Project.Application.DetailStylesFormatEx.md)** method.
 
 
 ## Example

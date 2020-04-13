@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WorkWeek.Delete method (Project)
 
-Deletes the  **WorkWeek** object from a **WorkWeeks** collection.
+Deletes the **WorkWeek** object from a **WorkWeeks** collection.
 
 
 ## Syntax

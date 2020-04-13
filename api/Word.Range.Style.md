@@ -35,7 +35,7 @@ This example displays the style for each character in the selection.
 
 
 > [!NOTE] 
-> Each element of the  **Characters** collection is a **Range** object.
+> Each element of the **Characters** collection is a **Range** object.
 
 
 ```vb

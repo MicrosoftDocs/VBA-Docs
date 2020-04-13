@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkComboBox.GetItem method (Outlook)
 
-Obtains a  **String** that represents an item at the specified location in the list of the combo box control.
+Obtains a **String** that represents an item at the specified location in the list of the combo box control.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md)
 
 ## Return value
 
-A  **String** value that represents the item at the specified location in the list.
+A **String** value that represents the item at the specified location in the list.
 
 
 ## Remarks

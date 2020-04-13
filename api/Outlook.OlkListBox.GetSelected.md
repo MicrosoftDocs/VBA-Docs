@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkListBox.GetSelected method (Outlook)
 
-Returns a  **Boolean** that indicates if the indexed item is currently selected.
+Returns a **Boolean** that indicates if the indexed item is currently selected.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents an [OlkListBox](Outlook.OlkListBox.md) o
 
 ## Return value
 
-A  **Boolean** value that is **True** if the specified item is currently selected, **False** otherwise.
+A **Boolean** value that is **True** if the specified item is currently selected, **False** otherwise.
 
 
 ## Remarks

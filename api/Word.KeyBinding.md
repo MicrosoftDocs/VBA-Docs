@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # KeyBinding object (Word)
 
-Represents a custom key assignment in the current context. The  **KeyBinding** object is a member of the **KeyBindings** collection.
+Represents a custom key assignment in the current context. The **KeyBinding** object is a member of the **KeyBindings** collection.
 
 
 ## Remarks
@@ -26,11 +26,11 @@ Use  **KeyBindings** (Index), where Index is the index number, to return a singl
 MsgBox KeyBindings(1).Command
 ```
 
-You can also use the  **FindKey** property and the **Key** method to return a **KeyBinding** object.
+You can also use the **FindKey** property and the **Key** method to return a **KeyBinding** object.
 
 
 > [!NOTE] 
-> Custom key assignments are made in the  **Customize Keyboard** dialog box.
+> Custom key assignments are made in the **Customize Keyboard** dialog box.
 
 
 ## See also

@@ -30,11 +30,11 @@ _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _AddressEntry_|Required| **AddressEntry**|The  **[AddressEntry](Outlook.AddressEntry.md)** object that represents the user for whom the contact card is to be created.|
+| _AddressEntry_|Required| **AddressEntry**|The **[AddressEntry](Outlook.AddressEntry.md)** object that represents the user for whom the contact card is to be created.|
 
 ## Return value
 
-The  **Office.ContactCard** object that is created for the specified user.
+The **Office.ContactCard** object that is created for the specified user.
 
 
 ## Remarks

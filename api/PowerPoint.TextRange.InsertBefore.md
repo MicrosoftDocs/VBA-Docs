@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextRange.InsertBefore method (PowerPoint)
 
-Appends a string to the beginning of the specified text range. Returns a  **TextRange** object that represents the appended text. When used without an argument, this method returns a zero-length string at the end of the specified range.
+Appends a string to the beginning of the specified text range. Returns a **TextRange** object that represents the appended text. When used without an argument, this method returns a zero-length string at the end of the specified range.
 
 
 ## Syntax

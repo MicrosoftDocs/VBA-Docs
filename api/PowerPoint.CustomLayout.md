@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CustomLayout object (PowerPoint)
 
-Represents a custom layout associated with a presentation design. The  **CustomLayout** object is a member of the **[CustomLayouts](PowerPoint.CustomLayouts.md)** collection.
+Represents a custom layout associated with a presentation design. The **CustomLayout** object is a member of the **[CustomLayouts](PowerPoint.CustomLayouts.md)** collection.
 
 
 ## Remarks

@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Shape](Word.Shape.md)** o
 
 ## Remarks
 
-FSome methods and properties may be unavailable if the  **Visible** property is **False**.
+FSome methods and properties may be unavailable if the **Visible** property is **False**.
 
 
 ## Example

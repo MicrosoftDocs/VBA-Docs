@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.ToDoTaskOrdinal property (Outlook)
 
-Returns or sets a  **Date** value that represents the ordinal value of the task for the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
+Returns or sets a **Date** value that represents the ordinal value of the task for the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

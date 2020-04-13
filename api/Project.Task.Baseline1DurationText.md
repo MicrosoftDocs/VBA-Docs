@@ -26,6 +26,6 @@ _expression_. `Baseline1DurationText`
 
 ## Remarks
 
-The  **Baseline1DurationText** property is used for manually scheduled tasks. When you convert a manually scheduled task to an auto-scheduled task, if **Baseline1DurationText** has any value, you should convert the value to a date for the **Baseline1Duration** property.
+The **Baseline1DurationText** property is used for manually scheduled tasks. When you convert a manually scheduled task to an auto-scheduled task, if **Baseline1DurationText** has any value, you should convert the value to a date for the **Baseline1Duration** property.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

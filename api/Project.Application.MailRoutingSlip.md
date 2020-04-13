@@ -46,7 +46,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Using the  **MailRoutingSlip** method without specifying any arguments displays the **Routing Slip** dialog box when a mail profile is set up on the user's system. If no mail profile is set up, using the **MailRoutingSlip** method without specifying any arguments displays the **Internet Connection Wizard**.
+Using the **MailRoutingSlip** method without specifying any arguments displays the **Routing Slip** dialog box when a mail profile is set up on the user's system. If no mail profile is set up, using the **MailRoutingSlip** method without specifying any arguments displays the **Internet Connection Wizard**.
 
 
 ## Example

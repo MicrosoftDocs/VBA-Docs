@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
 
 ## Remarks
 
-After using this method, use the  **Selection** object to work with the selected row. For more information, see [Working with the Selection Object](../word/Concepts/Working-with-Word/working-with-the-selection-object.md).
+After using this method, use the **Selection** object to work with the selected row. For more information, see [Working with the Selection Object](../word/Concepts/Working-with-Word/working-with-the-selection-object.md).
 
 
 ## Example

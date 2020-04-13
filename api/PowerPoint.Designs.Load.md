@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Designs.Load method (PowerPoint)
 
-Returns a  **Design** object that represents a design loaded into the master list of the specified presentation.
+Returns a **Design** object that represents a design loaded into the master list of the specified presentation.
 
 
 ## Syntax

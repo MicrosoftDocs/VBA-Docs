@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Hyperlink object (Word)
 
-Represents a hyperlink. The  **Hyperlink** object is a member of the **Hyperlinks** collection.
+Represents a hyperlink. The **Hyperlink** object is a member of the **Hyperlinks** collection.
 
 
 ## Remarks
 
-Use the  **Hyperlink** property to return a **Hyperlink** object associated with a shape (a shape can have only one hyperlink). The following example activates the hyperlink associated with the first shape in the active document.
+Use the **Hyperlink** property to return a **Hyperlink** object associated with a shape (a shape can have only one hyperlink). The following example activates the hyperlink associated with the first shape in the active document.
 
 
 ```vb

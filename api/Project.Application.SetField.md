@@ -43,7 +43,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 If the custom field uses a lookup table that does not allow additional items to be entered, the specified Value must match a predefined value in the lookup table.
 
-If the value of the Field argument does not exist as a custom field name for the selected items, the  **SetField** method results in run-time error 1101.
+If the value of the Field argument does not exist as a custom field name for the selected items, the **SetField** method results in run-time error 1101.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.ToDoTaskOrdinal property (Outlook)
 
-Returns or sets a  **Date** value that represents the ordinal value of the task for the **[MailItem](Outlook.MailItem.md)**. Read/write.
+Returns or sets a **Date** value that represents the ordinal value of the task for the **[MailItem](Outlook.MailItem.md)**. Read/write.
 
 
 ## Syntax

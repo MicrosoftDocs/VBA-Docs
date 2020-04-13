@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Subdocument](Word.Subdocum
 
 ## Remarks
 
-For information about returning a range from a document, see the  **[Range](Word.Document.Range.md)** method.
+For information about returning a range from a document, see the **[Range](Word.Document.Range.md)** method.
 
 
 ## See also

@@ -40,7 +40,7 @@ EmailSignatureEntry
 
 ## Remarks
 
-An email signature is standard text that ends an email message, such as your name and telephone number. Use the  **EmailSignatureEntries** property to create and manage a collection of email signatures that Microsoft Word will use when creating email messages.
+An email signature is standard text that ends an email message, such as your name and telephone number. Use the **EmailSignatureEntries** property to create and manage a collection of email signatures that Microsoft Word will use when creating email messages.
 
 
 ## Example

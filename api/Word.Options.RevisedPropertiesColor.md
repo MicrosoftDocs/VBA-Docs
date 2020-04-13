@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents an **[Options](Word.Options.md
 
 ## Remarks
 
-If deleted or inserted text has formatting changes, the  **RevisedPropertiesColor** property is overridden by the **DeletedTextColor** or **InsertedTextColor** property.
+If deleted or inserted text has formatting changes, the **RevisedPropertiesColor** property is overridden by the **DeletedTextColor** or **InsertedTextColor** property.
 
 
 ## Example

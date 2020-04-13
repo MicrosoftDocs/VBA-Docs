@@ -13,7 +13,7 @@ localization_priority: Normal
 
 
 
-Represents a table in Project. The  **Table** object is a member of the **[Tables](Project.tables.md)** collection.
+Represents a table in Project. The **Table** object is a member of the **[Tables](Project.tables.md)** collection.
 
 ## Methods
 

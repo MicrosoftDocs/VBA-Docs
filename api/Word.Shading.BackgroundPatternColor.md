@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shading.BackgroundPatternColor property (Word)
 
-Returns or sets the 24-bit color that's applied to the background of the  **Shading** object. Read/write.
+Returns or sets the 24-bit color that's applied to the background of the **Shading** object. Read/write.
 
 
 ## Syntax

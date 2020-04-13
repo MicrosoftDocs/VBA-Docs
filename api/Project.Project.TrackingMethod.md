@@ -23,6 +23,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The  **TrackingMethod** property is available only in Project Professional, when the project is opened from Project Server. It can be one of the following **[PjProjectServerTrackingMethod](Project.PjProjectServerTrackingMethod.md)** constants: **pjTrackingMethodDefault**, **pjTrackingMethodPercentComplete**, **pjTrackingMethodSpecifyHours**, or **pjTrackingMethodTotalAndRemaining**.
+The **TrackingMethod** property is available only in Project Professional, when the project is opened from Project Server. It can be one of the following **[PjProjectServerTrackingMethod](Project.PjProjectServerTrackingMethod.md)** constants: **pjTrackingMethodDefault**, **pjTrackingMethodPercentComplete**, **pjTrackingMethodSpecifyHours**, or **pjTrackingMethodTotalAndRemaining**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

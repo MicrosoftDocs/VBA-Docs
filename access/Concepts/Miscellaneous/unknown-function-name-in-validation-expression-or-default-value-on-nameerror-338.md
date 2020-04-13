@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The function you are referencing is either unknown (because the name is invalid or misspelled) or is a type of function not allowed by the  **ValidationRule** or **DefaultValue** property. Among the types of functions not allowed are user-defined, SQL aggregate functions.
+The function you are referencing is either unknown (because the name is invalid or misspelled) or is a type of function not allowed by the **ValidationRule** or **DefaultValue** property. Among the types of functions not allowed are user-defined, SQL aggregate functions.
 
 ## See also
 

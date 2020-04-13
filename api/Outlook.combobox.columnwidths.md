@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ComboBox.ColumnWidths Property (Outlook Forms Script)
 
-Returns or sets a  **String** that specifies the width of each column in a multicolumn **[ComboBox](Outlook.combobox.md)**. Read/write.
+Returns or sets a **String** that specifies the width of each column in a multicolumn **[ComboBox](Outlook.combobox.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**ColumnWidths**
 
-_expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a **ComboBox** object.
 
 
 ## Remarks
@@ -48,6 +48,6 @@ Unless specified otherwise, column widths are measured in points. To specify ano
 |2 in;;2 in|The first column is 2 inches, the second column is 1 inch (default), and the third column is 2 inches. Because only half of the third column is visible, a horizontal scroll bar appears.|
 |(Blank)|All three columns are the same width (1.33 inches).|
 
-In a  **ComboBox**, the system displays the column designated by the  **[TextColumn](Outlook.combobox.textcolumn.md)** property in the text box portion of the control. Setting **TextColumn** to -1 displays the first column that has a **ColumnWidths** value greater than 0.
+In a **ComboBox**, the system displays the column designated by the  **[TextColumn](Outlook.combobox.textcolumn.md)** property in the text box portion of the control. Setting **TextColumn** to -1 displays the first column that has a **ColumnWidths** value greater than 0.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

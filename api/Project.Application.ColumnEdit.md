@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ColumnEdit method (Project)
 
-Displays the  **Column Definition** dialog box for the specified column.
+Displays the **Column Definition** dialog box for the specified column.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[TextEffectFormat](Word.Tex
 
 ## Remarks
 
-Setting the  **PresetTextEffect** property automatically sets the **PresetShape** property.
+Setting the **PresetTextEffect** property automatically sets the **PresetShape** property.
 
 
 ## Example

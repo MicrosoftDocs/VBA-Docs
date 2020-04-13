@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Range_|Required| **Range**|The range to compare with the  **Range** object defined by expression.|
+| _Range_|Required| **Range**|The range to compare with the **Range** object defined by expression.|
 
 ## Return value
 

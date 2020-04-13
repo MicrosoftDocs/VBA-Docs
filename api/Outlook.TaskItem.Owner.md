@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskItem.Owner property (Outlook)
 
-Returns or sets a  **String** indicating the owner for the task.
+Returns or sets a **String** indicating the owner for the task.
 
 
 ## Syntax

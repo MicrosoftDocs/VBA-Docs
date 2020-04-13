@@ -46,7 +46,7 @@ The  _ZOrderCmd_ parameter value can be one of these **MsoZOrderCmd** constants.
 |**msoSendBehindText**|
 |**msoSendToBack**|
 
-The  **msoBringInFrontOfText** and **msoSendBehindText** constants should be used only in Microsoft Office Word.
+The **msoBringInFrontOfText** and **msoSendBehindText** constants should be used only in Microsoft Office Word.
 
 Use the  **ZOrderPosition** property to determine a shape's current position in the z-order.
 

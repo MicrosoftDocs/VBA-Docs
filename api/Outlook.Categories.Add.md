@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Categories.Add method (Outlook)
 
-Creates a new  **[Category](Outlook.Category.md)** object and appends it to the **[Categories](Outlook.Categories.md)** collection.
+Creates a new **[Category](Outlook.Category.md)** object and appends it to the **[Categories](Outlook.Categories.md)** collection.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ _expression_ A variable that represents a [Categories](Outlook.Categories.md) ob
 
 ## Return value
 
-A  **Category** object that represents the new category.
+A **Category** object that represents the new category.
 
 
 ## See also

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.TaskStartDate property (Outlook)
 
-Returns or sets a  **Date** value that represents the start date of the task for this **[MailItem](Outlook.MailItem.md)** object. Read/write.
+Returns or sets a **Date** value that represents the start date of the task for this **[MailItem](Outlook.MailItem.md)** object. Read/write.
 
 
 ## Syntax

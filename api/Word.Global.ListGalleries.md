@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Global](Word.Global.md)' o
 
 ## Remarks
 
-Each gallery corresponds to a tab in the  **Bullets and Numbering** dialog box. For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
+Each gallery corresponds to a tab in the **Bullets and Numbering** dialog box. For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 
 
 ## Example
@@ -40,7 +40,7 @@ Set mylsttmp = _
 ActiveDocument.Lists(1).ApplyListTemplate ListTemplate:=mylsttmp
 ```
 
-This example cycles through the  **ListGalleries** collection and changes the templates in each list template gallery back to the built-in template.
+This example cycles through the **ListGalleries** collection and changes the templates in each list template gallery back to the built-in template.
 
 
 

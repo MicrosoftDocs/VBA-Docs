@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.HomeAddressState property (Outlook)
 
-Returns or sets a  **String** representing the state portion of the home address for the contact. Read/write.
+Returns or sets a **String** representing the state portion of the home address for the contact. Read/write.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 ## Remarks
 
-The number of columns inserted is equal to the number of columns selected. You can also insert columns by using the  **[Add](Word.Columns.Add.md)** method of the **Columns** object.
+The number of columns inserted is equal to the number of columns selected. You can also insert columns by using the **[Add](Word.Columns.Add.md)** method of the **Columns** object.
 
 If the selection isn't in a table, an error occurs.
 

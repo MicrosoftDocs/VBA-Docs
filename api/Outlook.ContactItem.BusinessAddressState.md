@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.BusinessAddressState property (Outlook)
 
-Returns or sets a  **String** representing the state code portion of the business address for the contact. Read/write.
+Returns or sets a **String** representing the state code portion of the business address for the contact. Read/write.
 
 
 ## Syntax

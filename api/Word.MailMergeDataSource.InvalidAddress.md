@@ -26,7 +26,7 @@ _expression_. `InvalidAddress`
 
 ## Remarks
 
-Use the  **[SetAllErrorFlags](Word.MailMergeDataSource.SetAllErrorFlags.md)** method to set both the **InvalidAddress** and **[InvalidComments](Word.MailMergeDataSource.InvalidComments.md)** properties for all records in a data source.
+Use the **[SetAllErrorFlags](Word.MailMergeDataSource.SetAllErrorFlags.md)** method to set both the **InvalidAddress** and **[InvalidComments](Word.MailMergeDataSource.InvalidComments.md)** properties for all records in a data source.
 
 
 ## Example

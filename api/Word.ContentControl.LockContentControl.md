@@ -30,7 +30,7 @@ The default value of this property is **False**. This property corresponds to th
 
 
 > [!NOTE] 
-> You cannot set this property if the  **[Temporary](Word.ContentControl.Temporary.md)** property is set to **True**.
+> You cannot set this property if the **[Temporary](Word.ContentControl.Temporary.md)** property is set to **True**.
 
 
 ## Example

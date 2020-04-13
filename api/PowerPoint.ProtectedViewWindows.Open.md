@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ProtectedViewWindows.Open method (PowerPoint)
 
-Open and return a  **ProtectedViewWindow** object from the **ProtectedViewWindows** collection.
+Open and return a **ProtectedViewWindow** object from the **ProtectedViewWindows** collection.
 
 
 ## Syntax

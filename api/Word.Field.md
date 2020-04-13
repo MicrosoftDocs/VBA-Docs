@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Field object (Word)
 
-Represents a field. The  **Field** object is a member of the **Fields** collection. The **[Fields](Word.fields.md)** collection represents the fields in a selection, range, or document.
+Represents a field. The **Field** object is a member of the **Fields** collection. The **[Fields](Word.fields.md)** collection represents the fields in a selection, range, or document.
 
 
 ## Remarks
@@ -29,7 +29,7 @@ If ActiveDocument.Fields.Count >= 1 Then
 End If
 ```
 
-Use the  **Add** method to add a field to the **[Fields](Word.fields.md)** collection. The following example inserts a DATE field at the beginning of the selection and then displays the result.
+Use the **Add** method to add a field to the **[Fields](Word.fields.md)** collection. The following example inserts a DATE field at the beginning of the selection and then displays the result.
 
 
 
@@ -43,7 +43,7 @@ MsgBox myField.Result
 
 
 > [!NOTE] 
-> The  **wdFieldDate** constant is part of the **[WdFieldType](Word.WdFieldType.md)** group of constants, which includes all the various field types.
+> The **wdFieldDate** constant is part of the **[WdFieldType](Word.WdFieldType.md)** group of constants, which includes all the various field types.
 
 
 ## See also

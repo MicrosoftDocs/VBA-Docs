@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.MiddleName property (Outlook)
 
-Returns or sets a  **String** representing the middle name for the contact. Read/write.
+Returns or sets a **String** representing the middle name for the contact. Read/write.
 
 
 ## Syntax

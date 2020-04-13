@@ -25,6 +25,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 When the booking type is proposed, the resource is not yet assigned to the project and the resource calendar remains unchanged by the proposed assignment.
 
-The  **[LevelingOptions](Project.Application.LevelingOptions.md)** method includes a LevelProposedBookings parameter.
+The **[LevelingOptions](Project.Application.LevelingOptions.md)** method includes a LevelProposedBookings parameter.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

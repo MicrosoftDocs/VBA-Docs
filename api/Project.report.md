@@ -8,14 +8,14 @@ localization_priority: Normal
 
 
 # Report object (Project)
-Represents a report in Project that can contain Office Art objects such as a  **Shape**,  **ReportTable**, or  **Chart**. The  **Report** object is a member of the **Reports** collection.
+Represents a report in Project that can contain Office Art objects such as a **Shape**,  **ReportTable**, or  **Chart**. The **Report** object is a member of the **Reports** collection.
  
 
 ## Remarks
 
 
 > [!NOTE] 
-> Macro recording for the  **Report** object is not implemented. That is, when you record a macro in Project and manually add a report or edit a report, the steps for adding and editing the report are not recorded.
+> Macro recording for the **Report** object is not implemented. That is, when you record a macro in Project and manually add a report or edit a report, the steps for adding and editing the report are not recorded.
  
 
 
@@ -25,7 +25,7 @@ Represents a report in Project that can contain Office Art objects such as a  **
 
 ## Example
 
-To create a report, use the  **[Reports.Add](Project.reports.add.md)** method. For example, the following command creates a report named My New Report.
+To create a report, use the **[Reports.Add](Project.reports.add.md)** method. For example, the following command creates a report named My New Report.
  
 
  
@@ -34,7 +34,7 @@ To create a report, use the  **[Reports.Add](Project.reports.add.md)** method. F
 ActiveProject.Reports.Add "My New Report"
 ```
 
-When you run the command, Project creates the report and then changes the view to the  **DESIGN** tab of the ribbon, under **REPORT TOOLS**. You can use the design tool items on the ribbon to add images, shapes, charts, tables, or text boxes to the report. Alternately, you can programmatically add and edit items in the report by using members of the  **Shape**,  **ShapeRange**,  **Chart**, and  **ReportTable** objects.
+When you run the command, Project creates the report and then changes the view to the **DESIGN** tab of the ribbon, under **REPORT TOOLS**. You can use the design tool items on the ribbon to add images, shapes, charts, tables, or text boxes to the report. Alternately, you can programmatically add and edit items in the report by using members of the **Shape**,  **ShapeRange**,  **Chart**, and  **ReportTable** objects.
  
 
  
@@ -42,7 +42,7 @@ When you run the command, Project creates the report and then changes the view t
 **Figure 1. Creating a report in Project**
 
  
-![Creating a report in Project](../images/pj15_VBA_ReportObject.gif)To delete a report, you must first close the active report view. For example, on the  **DESIGN** tab of the ribbon, in the **View** group, choose a different report in the **Reports** drop-down menu. Then, in the **Report** group on the ribbon, choose **Organizer** in the **Manage** drop-down menu. In the **Organizer** dialog box, choose the **Reports** tab, select **My New Report** in the project pane, and then choose **Delete**.
+![Creating a report in Project](../images/pj15_VBA_ReportObject.gif)To delete a report, you must first close the active report view. For example, on the **DESIGN** tab of the ribbon, in the **View** group, choose a different report in the **Reports** drop-down menu. Then, in the **Report** group on the ribbon, choose **Organizer** in the **Manage** drop-down menu. In the **Organizer** dialog box, choose the **Reports** tab, select **My New Report** in the project pane, and then choose **Delete**.
  
 
  

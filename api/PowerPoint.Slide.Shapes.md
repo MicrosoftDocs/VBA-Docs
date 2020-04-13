@@ -31,7 +31,7 @@ Shapes
 
 ## Remarks
 
-The  **Shapes** collection returned can contain the drawings, shapes, OLE objects, pictures, text objects, titles, headers, footers, slide numbers, and date and time objects on a slide, or on the slide image on a notes page.
+The **Shapes** collection returned can contain the drawings, shapes, OLE objects, pictures, text objects, titles, headers, footers, slide numbers, and date and time objects on a slide, or on the slide image on a notes page.
 
 
 ## Example

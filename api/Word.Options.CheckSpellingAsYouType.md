@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 
 ## Remarks
 
-This property marks spelling errors, but to see them on the screen, you must set the  **[ShowSpellingErrors](Word.Document.ShowSpellingErrors.md)** property to **True**.
+This property marks spelling errors, but to see them on the screen, you must set the **[ShowSpellingErrors](Word.Document.ShowSpellingErrors.md)** property to **True**.
 
 
 ## Example
@@ -48,7 +48,7 @@ Options.CheckSpellingAsYouType = True
 ActiveDocument.ShowSpellingErrors = True
 ```
 
-This example returns the status of the  **Check spelling as you type** option on the **Spelling & Grammar** tab in the **Options** dialog box (**Tools** menu).
+This example returns the status of the **Check spelling as you type** option on the **Spelling & Grammar** tab in the **Options** dialog box (**Tools** menu).
 
 
 

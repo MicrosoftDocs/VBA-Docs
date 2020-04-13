@@ -30,7 +30,7 @@ _expression_ A variable that represents a 'FormRegionStartup' object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _FormRegion_|Required| **[FormRegion](Outlook.FormRegion.md)**|The  **FormRegion** object representing the form region that is to be displayed.|
+| _FormRegion_|Required| **[FormRegion](Outlook.FormRegion.md)**|The **FormRegion** object representing the form region that is to be displayed.|
 
 ## Remarks
 

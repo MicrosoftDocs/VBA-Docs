@@ -26,9 +26,9 @@ _expression_ A variable that represents a **[Selection](Word.Selection.md)** obj
 
 ## Remarks
 
-If this property is set to a value smaller than the  **Start** property, the **Start** property is set to the same value (that is, the **Start** and **End** property are equal).
+If this property is set to a value smaller than the **Start** property, the **Start** property is set to the same value (that is, the **Start** and **End** property are equal).
 
-The  **Selection** object has a starting position and an ending position. The ending position is the point farthest away from the beginning of the story. This property returns the ending character position relative to the beginning of the story. The main document story (**wdMainTextStory**) begins with character position 0 (zero). You can change the size of a selection by setting this property.
+The **Selection** object has a starting position and an ending position. The ending position is the point farthest away from the beginning of the story. This property returns the ending character position relative to the beginning of the story. The main document story (**wdMainTextStory**) begins with character position 0 (zero). You can change the size of a selection by setting this property.
 
 
 ## Example

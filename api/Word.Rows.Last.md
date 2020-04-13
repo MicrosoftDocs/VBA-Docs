@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Rows.Last property (Word)
 
-Returns the last item in the  **Rows** collection as a **Row** object.
+Returns the last item in the **Rows** collection as a **Row** object.
 
 
 ## Syntax

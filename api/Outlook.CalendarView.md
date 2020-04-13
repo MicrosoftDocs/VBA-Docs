@@ -19,11 +19,11 @@ Represents a view that displays Outlook items in a calendar format.
 
 ## Remarks
 
-The  **CalendarView** object, derived from the **[View](Outlook.View.md)** object, allows you to create customizable views that allow you to display Outlook items within a calendar, in one of several different modes.
+The **CalendarView** object, derived from the **[View](Outlook.View.md)** object, allows you to create customizable views that allow you to display Outlook items within a calendar, in one of several different modes.
 
 Outlook provides several built-in  **CalendarView** objects, and you can also create custom **CalendarView** objects. Use the **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection to add a new **CalendarView** to a **[Folder](Outlook.Folder.md)** object. Use the **[Standard](Outlook.TimelineView.Standard.md)** property to determine if an existing **CalendarView** object is built-in or custom.
 
-The  **CalendarView** object supports several different view modes, depending on the desired layout and time period in which to display Outlook items. Use the **[CalendarViewMode](Outlook.CalendarView.CalendarViewMode.md)** property to set the view mode, the **[StartField](Outlook.CalendarView.StartField.md)** property to specify the Outlook item property that contains the start date, and the **[EndField](Outlook.CalendarView.EndField.md)** property to specify the Outlook item property that contains the end date for Outlook items to be displayed.
+The **CalendarView** object supports several different view modes, depending on the desired layout and time period in which to display Outlook items. Use the **[CalendarViewMode](Outlook.CalendarView.CalendarViewMode.md)** property to set the view mode, the **[StartField](Outlook.CalendarView.StartField.md)** property to specify the Outlook item property that contains the start date, and the **[EndField](Outlook.CalendarView.EndField.md)** property to specify the Outlook item property that contains the end date for Outlook items to be displayed.
 
 If you set the  **CalendarViewMode** property to any value other than **olCalendarViewMonth**, you can use the **[DayWeekFont](overview/Outlook.md)** and **[DayWeekTimeFont](overview/Outlook.md)** properties to configure the fonts used to display the day, date, and time labels in the view. Use the **[DayWeekTimeScale](Outlook.CalendarView.DayWeekTimeScale.md)** to configure the time scale used to display Outlook items within the view. If you set the **CalendarViewMode** to **olCalendarViewMultiDay**, you can use the **[DaysInMultiDayMode](Outlook.CalendarView.DaysInMultiDayMode.md)** property to determine the number of days to display in the view.
 

@@ -24,7 +24,7 @@ _expression_ A variable that represents a **[Broadcast](Word.broadcast.md)** obj
 
 ## Remarks
 
-The  **State** property can return one of the following three states:
+The **State** property can return one of the following three states:
 
 
 - No broadcast (0)

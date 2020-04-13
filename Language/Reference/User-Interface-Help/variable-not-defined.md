@@ -12,7 +12,7 @@ localization_priority: Priority
 
 # Variable not defined
 
-You use the  **Option Explicit** statement to protect your[modules](../../Glossary/vbe-glossary.md#module) from having undeclared[variables](../../Glossary/vbe-glossary.md#variable) and to eliminate the possibility of inadvertently creating new variables when typographical errors occur. This error has the following cause and solution:
+You use the **Option Explicit** statement to protect your[modules](../../Glossary/vbe-glossary.md#module) from having undeclared[variables](../../Glossary/vbe-glossary.md#variable) and to eliminate the possibility of inadvertently creating new variables when typographical errors occur. This error has the following cause and solution:
 
 
 

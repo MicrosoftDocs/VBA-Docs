@@ -26,7 +26,7 @@ _expression_. `PictureBullet`
 
 ## Example
 
-This example returns the picture bullet for the first list in the active document and sets the picture bullet's width to 0.25 inch. To see this example, first run the code example for the  **[ApplyPictureBullet](Word.ListLevel.ApplyPictureBullet.md)** method.
+This example returns the picture bullet for the first list in the active document and sets the picture bullet's width to 0.25 inch. To see this example, first run the code example for the **[ApplyPictureBullet](Word.ListLevel.ApplyPictureBullet.md)** method.
 
 
 ```vb

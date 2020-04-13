@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The  **Database** object specified is not the result of the **OpenDatabase** method, or it has been modified and is no longer valid.
+The **Database** object specified is not the result of the **OpenDatabase** method, or it has been modified and is no longer valid.
 
 ## See also
 

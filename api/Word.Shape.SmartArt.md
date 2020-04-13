@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
 
 ## Remarks
 
-The  **SmartArt** property provides an entry point for interacting with a SmartArt graphic associated with the shape.
+The **SmartArt** property provides an entry point for interacting with a SmartArt graphic associated with the shape.
 
 
 ## Example

@@ -27,7 +27,7 @@ _expression_. `AttachmentRemove`( `_Attachment_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Attachment_|Required| **[Attachment](Outlook.Attachment.md)**|The  **Attachment** that was removed from the item.|
+| _Attachment_|Required| **[Attachment](Outlook.Attachment.md)**|The **Attachment** that was removed from the item.|
 
 ## See also
 

@@ -33,12 +33,12 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **FileBuildID** property can get the file build ID of a project file without actually opening it.
+The **FileBuildID** property can get the file build ID of a project file without actually opening it.
 
 
 ## Example
 
-The following example gets the build ID for the Test.mpp project. If the Project build that created the file is 15.0.4027.1000, the  **FileBuildID** value is "15,0,4027,1000".
+The following example gets the build ID for the Test.mpp project. If the Project build that created the file is 15.0.4027.1000, the **FileBuildID** value is "15,0,4027,1000".
 
 
 ```vb

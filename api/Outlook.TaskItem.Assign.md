@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskItem.Assign method (Outlook)
 
-Assigns a task and returns a  **[TaskItem](Outlook.TaskItem.md)** object that represents it.
+Assigns a task and returns a **[TaskItem](Outlook.TaskItem.md)** object that represents it.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ A  **TaskItem** object that represents the task.
 
 ## Remarks
 
-This method allows a task to be assigned (delegated) to another user. You must create a task before you can assign it, and you must assign a task before you can send it. An assigned task is sent as a  **[TaskRequestItem](Outlook.TaskRequestItem.md)** object.
+This method allows a task to be assigned (delegated) to another user. You must create a task before you can assign it, and you must assign a task before you can send it. An assigned task is sent as a **[TaskRequestItem](Outlook.TaskRequestItem.md)** object.
 
 
 ## Example

@@ -27,7 +27,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Baseline_|Required|**Long**|Can be one of the  **[PjBaselines](Project.PjBaselines.md)** constants.|
+| _Baseline_|Required|**Long**|Can be one of the **[PjBaselines](Project.PjBaselines.md)** constants.|
 
 ## Remarks
 

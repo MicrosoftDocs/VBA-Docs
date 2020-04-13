@@ -16,7 +16,7 @@ localization_priority: Normal
 
 
 
-- You tried to use  **LSet** on a user-defined type containing strings, objects, or variants. You must assign the elements individually from this variable of user-defined type to another.
+- You tried to use **LSet** on a user-defined type containing strings, objects, or variants. You must assign the elements individually from this variable of user-defined type to another.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

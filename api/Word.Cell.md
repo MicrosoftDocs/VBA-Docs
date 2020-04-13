@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Cell object (Word)
 
-Represents a single table cell. The  **Cell** object is a member of the **[Cells](Word.cells.md)** collection. The **Cells** collection represents all the cells in the specified object.
+Represents a single table cell. The **Cell** object is a member of the **[Cells](Word.cells.md)** collection. The **Cells** collection represents all the cells in the specified object.
 
 
 ## Remarks
@@ -37,7 +37,7 @@ ActiveDocument.Tables(1).Rows(1).Cells(1).Shading _
  .Texture = wdTexture20Percent
 ```
 
-Use the  **[Add](Word.Cells.Add.md)** method to add a **Cell** object to the **[Cells](Word.cells.md)** collection. You can also use the **[InsertCells](Word.Selection.InsertCells.md)** method of the **[Selection](Word.Selection.md)** object to insert new cells. The following example adds a cell before the first cell in `myTable`.
+Use the **[Add](Word.Cells.Add.md)** method to add a **Cell** object to the **[Cells](Word.cells.md)** collection. You can also use the **[InsertCells](Word.Selection.InsertCells.md)** method of the **[Selection](Word.Selection.md)** object to insert new cells. The following example adds a cell before the first cell in `myTable`.
 
 
 
@@ -61,9 +61,9 @@ myRange.Cells.Merge
 
 Remarks
 
-Use the  **[Add](Word.AddIns.Add.md)** method with the **[Rows](Word.rows.md)** or **[Columns](Word.columns.md)** collection to add a row or column of cells.
+Use the **[Add](Word.AddIns.Add.md)** method with the **[Rows](Word.rows.md)** or **[Columns](Word.columns.md)** collection to add a row or column of cells.
 
-Use the  **[Information](Word.Selection.Information.md)** property with a **Selection** object to return the current row and column number. The following example changes the width of the first cell in the selection and then displays the cell's row number and column number.
+Use the **[Information](Word.Selection.Information.md)** property with a **Selection** object to return the current row and column number. The following example changes the width of the first cell in the selection and then displays the cell's row number and column number.
 
 
 

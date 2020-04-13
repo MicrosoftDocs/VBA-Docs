@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Index object (Word)
 
-Represents a single index. The  **Index** object is a member of the **Indexes** collection. The **[Indexes](Word.indexes.md)** collection includes all the indexes in the specified document.
+Represents a single index. The **Index** object is a member of the **Indexes** collection. The **[Indexes](Word.indexes.md)** collection includes all the indexes in the specified document.
 
 
 ## Remarks
@@ -28,7 +28,7 @@ If ActiveDocument.Indexes.Count >= 1 Then
 End If
 ```
 
-Use the  **Add** method to create an index and add it to the **Indexes** collection. The following example creates an index at the end of the active document.
+Use the **Add** method to create an index and add it to the **Indexes** collection. The following example creates an index at the end of the active document.
 
 
 

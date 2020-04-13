@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Version object (Word)
 
-Represents a single version of a document. The  **Version** object is a member of the **Versions** collection. The **Versions** collection includes all the versions of the specified document.
+Represents a single version of a document. The **Version** object is a member of the **Versions** collection. The **Versions** collection includes all the versions of the specified document.
 
 
 ## Remarks
@@ -31,7 +31,7 @@ If ActiveDocument.Versions.Count >= 1 Then
 End If
 ```
 
-Use the  **Save** method to add an item to the **Versions** collection. The following example adds a version of the active document with the specified comment.
+Use the **Save** method to add an item to the **Versions** collection. The following example adds a version of the active document with the specified comment.
 
 
 

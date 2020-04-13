@@ -23,6 +23,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Project internally sets the  **TimeSeparator** property equal to the value shown in the **Regional and Language Options** dialog box in the Microsoft Windows Control Panel. The value for U.S. English is a colon (":").
+Project internally sets the **TimeSeparator** property equal to the value shown in the **Regional and Language Options** dialog box in the Microsoft Windows Control Panel. The value for U.S. English is a colon (":").
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

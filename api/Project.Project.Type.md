@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The  **Type** property can be one of the **[PjProjectType](Project.PjProjectType.md)** constants.
+The **Type** property can be one of the **[PjProjectType](Project.PjProjectType.md)** constants.
 
 
 ## Example

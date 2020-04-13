@@ -40,7 +40,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **SelectCellDown** method is not available when the Calendar, Network Diagram, or Resource Graph is the active view.
+The **SelectCellDown** method is not available when the Calendar, Network Diagram, or Resource Graph is the active view.
 
 
 ## Example

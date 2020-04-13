@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ComboBox.ColumnCount Property (Outlook Forms Script)
 
-Returns or sets a  **Long** that represents the number of columns to display in a combo box. Read/write.
+Returns or sets a **Long** that represents the number of columns to display in a combo box. Read/write.
 
 
 ## Syntax
 
 _expression_.**ColumnCount**
 
-_expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a **ComboBox** object.
 
 
 ## Remarks

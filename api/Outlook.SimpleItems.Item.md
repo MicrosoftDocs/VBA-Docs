@@ -34,7 +34,7 @@ _expression_ A variable that represents a [SimpleItems](Outlook.SimpleItems.md) 
 
 ## Return value
 
-An  **Object** that represents an Outlook item in the **SimpleItems** collection.
+An **Object** that represents an Outlook item in the **SimpleItems** collection.
 
 
 ## Remarks

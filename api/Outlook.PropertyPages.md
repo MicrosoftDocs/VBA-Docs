@@ -19,7 +19,7 @@ Contains the custom property pages that have been added to the Microsoft Outlook
 
 ## Remarks
 
-You receive a  **PropertyPages** object as a parameter of the **[OptionsPagesAdd](Outlook.Application.OptionsPagesAdd.md)** event. Use the **[Add](Outlook.PropertyPages.Add.md)** method to add a **[PropertyPage](Outlook.PropertyPage.md)** object to the **PropertyPages** object.
+You receive a **PropertyPages** object as a parameter of the **[OptionsPagesAdd](Outlook.Application.OptionsPagesAdd.md)** event. Use the **[Add](Outlook.PropertyPages.Add.md)** method to add a **[PropertyPage](Outlook.PropertyPage.md)** object to the **PropertyPages** object.
 
 
 > [!NOTE] 

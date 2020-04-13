@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormDescription.OneOff property (Outlook)
 
-Returns a  **Boolean** value that indicates **True** if the form will be discarded after using once (one-off), and **False** if the form is retained as a custom form. Read/write.
+Returns a **Boolean** value that indicates **True** if the form will be discarded after using once (one-off), and **False** if the form is retained as a custom form. Read/write.
 
 
 ## Syntax

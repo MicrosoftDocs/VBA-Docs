@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.FileSaveWorkspace method (Project)
 
-Saves a list of open files and the current settings in the  **Options** dialog box.
+Saves a list of open files and the current settings in the **Options** dialog box.
 
 
 ## Syntax

@@ -31,7 +31,7 @@ Long
 
 ## Remarks
 
-The  **Creator** property is designed to be used in Microsoft Office applications for the Macintosh.
+The **Creator** property is designed to be used in Microsoft Office applications for the Macintosh.
 
 
 ## Example

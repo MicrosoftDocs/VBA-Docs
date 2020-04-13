@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimelineView.DefaultExpandCollapseSetting property (Outlook)
 
-Returns or sets an  **[OlDefaultExpandCollapseSetting](Outlook.OlDefaultExpandCollapseSetting.md)** constant that determines the default expansion setting for groups in the **[TimelineView](Outlook.TimelineView.md)** object. Read/write.
+Returns or sets an **[OlDefaultExpandCollapseSetting](Outlook.OlDefaultExpandCollapseSetting.md)** constant that determines the default expansion setting for groups in the **[TimelineView](Outlook.TimelineView.md)** object. Read/write.
 
 
 ## Syntax

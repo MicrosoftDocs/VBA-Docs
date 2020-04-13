@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Exception.Delete method (Project)
 
-Deletes the  **Exception** object from an **Exceptions** collection.
+Deletes the **Exception** object from an **Exceptions** collection.
 
 
 ## Syntax

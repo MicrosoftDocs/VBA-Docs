@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Cell Error Values
 
-You can insert a cell error value into a cell or test the value of a cell for an error value by using the  **CVErr** function. The cell error values can be one of the following **xlCVError** constants.
+You can insert a cell error value into a cell or test the value of a cell for an error value by using the **CVErr** function. The cell error values can be one of the following **xlCVError** constants.
 
 
 

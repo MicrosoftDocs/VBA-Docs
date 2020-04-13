@@ -14,18 +14,18 @@ localization_priority: Normal
 
 # ContentControlListEntry object (Word)
 
-A  **ContentControlListEntry** object represents a list item in a drop-down list or combo box content control. A **ContentControlListEntry** object is a member of the **[ContentControlListEntries](Word.ContentControlListEntries.md)** collection for a **ContentControl** object.
+A **ContentControlListEntry** object represents a list item in a drop-down list or combo box content control. A **ContentControlListEntry** object is a member of the **[ContentControlListEntries](Word.ContentControlListEntries.md)** collection for a **ContentControl** object.
 
 
 ## Remarks
 
-Use the  **[Add](Word.ContentControlListEntries.Add.md)** method of the **ContentControlListEntries** collection to create a new **ContentControlListEntry** object. Use the **[Item](overview/Word.md)** method, or **[DropdownListEntries](Word.ContentControl.DropdownListEntries.md)** (Index), where Index is the ordinal position of the content control list item, to access an individual list item within the **ContentControlListEntries** collection.
+Use the **[Add](Word.ContentControlListEntries.Add.md)** method of the **ContentControlListEntries** collection to create a new **ContentControlListEntry** object. Use the **[Item](overview/Word.md)** method, or **[DropdownListEntries](Word.ContentControl.DropdownListEntries.md)** (Index), where Index is the ordinal position of the content control list item, to access an individual list item within the **ContentControlListEntries** collection.
 
 
 > [!NOTE] 
 > List entries must have unique display names. Attempting to add a list item that already exists raises a run-time error.
 
-The following code example uses the  **Add** method to add several list items to a new drop-down list content control, and then uses the **Item** method to access the third item in the list and change the display text.
+The following code example uses the **Add** method to add several list items to a new drop-down list content control, and then uses the **Item** method to access the third item in the list and change the display text.
 
 
 
@@ -49,7 +49,7 @@ Set objLE = objCC.DropdownListEntries.Item(3) objLE.Text = "Horse"
 
 ```
 
-Use the  **[MoveUp](Word.ContentControlListEntry.MoveUp.md)** and **[MoveDown](Word.ContentControlListEntry.MoveDown.md)** methods to reposition items in a drop-down list. The following code example moves the first item down, so that it becomes the last item in the list, and moves the last item up, so that it becomes the first item in the list.
+Use the **[MoveUp](Word.ContentControlListEntry.MoveUp.md)** and **[MoveDown](Word.ContentControlListEntry.MoveDown.md)** methods to reposition items in a drop-down list. The following code example moves the first item down, so that it becomes the last item in the list, and moves the last item up, so that it becomes the first item in the list.
 
 
 
@@ -82,7 +82,7 @@ If objcc.Type = wdContentControlComboBox Or _
 End If
 ```
 
-Use the  **[Select](Word.ContentControlListEntry.Select.md)** method to programmatically select a content control list item. The following code example inserts a drop-down list content control into the active document, sets the title and placeholder text and adds several items to the list, and then selects the last item entered.
+Use the **[Select](Word.ContentControlListEntry.Select.md)** method to programmatically select a content control list item. The following code example inserts a drop-down list content control into the active document, sets the title and placeholder text and adds several items to the list, and then selects the last item entered.
 
 
 
@@ -108,7 +108,7 @@ Set objCE = objCC.DropdownListEntries.Add("Other")
 objCE.Select
 ```
 
-Use the  **[Text](Word.ContentControlListEntry.Text.md)** property to set the display text for a content control list item, and use the **[Value](Word.ContentControlListEntry.Value.md)** property to set a programmatic value that you may use later for processing a form. For example, you may use a content control drop-down list for a list of products. The **Text** property may contain the name of the product, a display name that a user can easily recognize and understand. The **Value** property may contain the product number for the product that corresponds to a product number in a database. You can then use the product number from the **Value** property to look up product information in a database. Also, the value of the **Value** property is what is sent to the custom XML data if the content control is mapped to XML data in the data store.
+Use the **[Text](Word.ContentControlListEntry.Text.md)** property to set the display text for a content control list item, and use the **[Value](Word.ContentControlListEntry.Value.md)** property to set a programmatic value that you may use later for processing a form. For example, you may use a content control drop-down list for a list of products. The **Text** property may contain the name of the product, a display name that a user can easily recognize and understand. The **Value** property may contain the product number for the product that corresponds to a product number in a database. You can then use the product number from the **Value** property to look up product information in a database. Also, the value of the **Value** property is what is sent to the custom XML data if the content control is mapped to XML data in the data store.
 
 The following code example sets the value for the item based on the contents of the display text.
 
@@ -131,7 +131,7 @@ For Each objLE In objCC.DropdownListEntries
 Next
 ```
 
-Use the  **[Delete](Word.ContentControlListEntry.Delete.md)** method to remove an item from a content control drop-down list or combo box. The following code example deletes a drop-down list item if the display text of the item is "Other".
+Use the **[Delete](Word.ContentControlListEntry.Delete.md)** method to remove an item from a content control drop-down list or combo box. The following code example deletes a drop-down list item if the display text of the item is "Other".
 
 
 

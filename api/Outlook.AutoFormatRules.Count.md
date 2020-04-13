@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AutoFormatRules.Count property (Outlook)
 
-Returns a  **Long** value indicating the count of **[AutoFormatRule](Outlook.AutoFormatRule.md)** objects in the specified collection. Read-only.
+Returns a **Long** value indicating the count of **[AutoFormatRule](Outlook.AutoFormatRule.md)** objects in the specified collection. Read-only.
 
 
 ## Syntax

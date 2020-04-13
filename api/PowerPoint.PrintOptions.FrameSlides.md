@@ -31,7 +31,7 @@ MsoTriState
 
 ## Remarks
 
-The  **FrameSlides** property applies to printed slides, handouts, and notes pages.
+The **FrameSlides** property applies to printed slides, handouts, and notes pages.
 
 The value of the  **FrameSlides** property can be one of these **MsoTriState** constants.
 

@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Bookmarks](Word.bookmarks.md)' objec
 
 ## Remarks
 
-An empty bookmark marks a location (a collapsed selection); it doesn't mark any text. An error occurs if the specified bookmark doesn't exist. Use the  **[Exists](Word.Bookmarks.Exists.md)** property to determine whether the bookmark exists.
+An empty bookmark marks a location (a collapsed selection); it doesn't mark any text. An error occurs if the specified bookmark doesn't exist. Use the **[Exists](Word.Bookmarks.Exists.md)** property to determine whether the bookmark exists.
 
 
 ## Example

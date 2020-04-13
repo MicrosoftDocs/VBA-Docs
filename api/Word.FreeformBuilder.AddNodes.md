@@ -41,7 +41,7 @@ _expression_ Required. A variable that represents a '[FreeformBuilder](Word.Free
 
 ## Remarks
 
-You can use this method as many times as you want to add nodes to the freeform you are creating. When you finish adding nodes, use the  **ConvertToShape** method to create the freeform you've just defined. To add nodes to a freeform after it has been created, use the **Insert** method of the **[ShapeNodes](Word.shapenodes.md)** collection.
+You can use this method as many times as you want to add nodes to the freeform you are creating. When you finish adding nodes, use the **ConvertToShape** method to create the freeform you've just defined. To add nodes to a freeform after it has been created, use the **Insert** method of the **[ShapeNodes](Word.shapenodes.md)** collection.
 
 
 ## Example

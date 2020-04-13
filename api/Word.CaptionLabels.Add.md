@@ -39,7 +39,7 @@ CaptionLabel
 
 ## Example
 
-This example adds a custom caption label named Demo Slide. To verify that the custom label is added, view the  **Label** combo box in the **Caption** dialog box, accessed from the **Reference** command on the **Insert** menu.
+This example adds a custom caption label named Demo Slide. To verify that the custom label is added, view the **Label** combo box in the **Caption** dialog box, accessed from the **Reference** command on the **Insert** menu.
 
 
 ```vb

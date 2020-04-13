@@ -39,7 +39,7 @@ _expression_. `SegmentFillColor`( `_Color_` )
 
 ## Example
 
-In the following example, a task is assigned to two resources. After selecting either of the assignments, running the  **ChangeSegmentColor** macro shows all assignments for the task as light red with a blue border.
+In the following example, a task is assigned to two resources. After selecting either of the assignments, running the **ChangeSegmentColor** macro shows all assignments for the task as light red with a blue border.
 
 
 ```vb

@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Folder](Outlook.Folder.md)** object
 
 ## Return value
 
-An  **IPictureDisp** object that represents a custom icon for the folder.
+An **IPictureDisp** object that represents a custom icon for the folder.
 
 
 ## Remarks

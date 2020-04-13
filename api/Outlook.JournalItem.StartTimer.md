@@ -26,7 +26,7 @@ _expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) 
 
 ## Remarks
 
-The  **[Duration](Outlook.JournalItem.Duration.md)**, **[End](Outlook.JournalItem.End.md)** and **[Start](Outlook.JournalItem.Start.md)** properties are automatically updated when the timer is stopped.
+The **[Duration](Outlook.JournalItem.Duration.md)**, **[End](Outlook.JournalItem.End.md)** and **[Start](Outlook.JournalItem.Start.md)** properties are automatically updated when the timer is stopped.
 
 
 ## See also

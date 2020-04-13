@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.Title property (PowerPoint)
 
-Gets or sets a  **String** that represents the title of the chart. Read/write.
+Gets or sets a **String** that represents the title of the chart. Read/write.
 
 
 ## Syntax

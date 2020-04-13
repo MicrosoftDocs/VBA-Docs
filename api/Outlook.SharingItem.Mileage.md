@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.Mileage property (Outlook)
 
-Returns or sets a  **String** representing the mileage for a **[SharingItem](Outlook.SharingItem.md)**. Read/write.
+Returns or sets a **String** representing the mileage for a **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

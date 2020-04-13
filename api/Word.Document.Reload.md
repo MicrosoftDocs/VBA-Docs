@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-This method reloads the document asynchronously; that is, statements following the  **Reload** method in your procedure may execute before the document is actually reloaded. Because of this, you may get unexpected results from using this method in your macros.
+This method reloads the document asynchronously; that is, statements following the **Reload** method in your procedure may execute before the document is actually reloaded. Because of this, you may get unexpected results from using this method in your macros.
 
 
 ## Example

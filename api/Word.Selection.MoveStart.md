@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **WdUnits**|The unit by which start position of the specified selection is to be moved. Can be one of the  **WdUnits** constants. The default value is **wdCharacter**.|
+| _Unit_|Optional| **WdUnits**|The unit by which start position of the specified selection is to be moved. Can be one of the **WdUnits** constants. The default value is **wdCharacter**.|
 | _Count_|Optional| **Variant**|The maximum number of units by which the specified selection is to be moved. If Count is a positive number, the start position of the selection is moved forward in the document. If it is a negative number, the start position is moved backward. If the start position is moved forward to a position beyond the end position, the selection is collapsed and both the start and end positions are moved together. The default value is 1.|
 
 ## Return value

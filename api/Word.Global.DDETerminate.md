@@ -28,7 +28,7 @@ _expression_ A variable that represents a '[Global](Word.Global.md)' object. Opt
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Channel_|Required| **Long**|The channel number returned by the  **DDEInitiate** method.|
+| _Channel_|Required| **Long**|The channel number returned by the **DDEInitiate** method.|
 
 
 ## Example

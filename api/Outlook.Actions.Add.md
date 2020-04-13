@@ -26,7 +26,7 @@ _expression_ A variable that represents an [Actions](Outlook.Actions.md) object.
 
 ## Return value
 
-An  **[Action](Outlook.Action.md)** object that represents the new action.
+An **[Action](Outlook.Action.md)** object that represents the new action.
 
 
 ## Example

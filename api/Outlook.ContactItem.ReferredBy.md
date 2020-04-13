@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.ReferredBy property (Outlook)
 
-Returns or sets a  **String** specifying the referral name entry for the contact. Read/write.
+Returns or sets a **String** specifying the referral name entry for the contact. Read/write.
 
 
 ## Syntax

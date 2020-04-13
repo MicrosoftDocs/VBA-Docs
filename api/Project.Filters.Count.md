@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Filters.Count property (Project)
 
-Gets the number of items in the  **Filters** collection. Read-only **Long**.
+Gets the number of items in the **Filters** collection. Read-only **Long**.
 
 
 ## Syntax

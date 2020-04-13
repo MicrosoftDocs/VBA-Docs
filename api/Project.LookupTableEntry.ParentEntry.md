@@ -26,6 +26,6 @@ _expression_ A variable that represents a [LookupTableEntry](./Project.LookupTab
 
 ## Remarks
 
-The  **ParentEntry** property returns nothing if the lookup table entry has a level 1 value.
+The **ParentEntry** property returns nothing if the lookup table entry has a level 1 value.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Layout method (Project)
 
-Displays the  **Layout** dialog box, which allows the user to set layout options for the active view.
+Displays the **Layout** dialog box, which allows the user to set layout options for the active view.
 
 
 ## Syntax
@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **Layout** method is only available when a Gantt, Network Diagram, or Calendar view is active.
+The **Layout** method is only available when a Gantt, Network Diagram, or Calendar view is active.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

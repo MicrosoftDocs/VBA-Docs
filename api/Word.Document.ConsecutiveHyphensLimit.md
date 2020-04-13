@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Document](Word.Document.md)** objec
 
 ## Remarks
 
-If the  **ConsecutiveHyphensLimit** property is set to 0 (zero), any number of consecutive lines can end with hyphens.
+If the **ConsecutiveHyphensLimit** property is set to 0 (zero), any number of consecutive lines can end with hyphens.
 
 
 ## Example

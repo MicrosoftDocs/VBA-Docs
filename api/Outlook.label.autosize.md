@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # Label.AutoSize Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether an object automatically resizes to display its entire contents. Read/write.
+Returns or sets a **Boolean** that specifies whether an object automatically resizes to display its entire contents. Read/write.
 
 
 ## Syntax
 
 _expression_.**AutoSize**
 
-_expression_ A variable that represents a  **Label** object.
+_expression_ A variable that represents a **Label** object.
 
 
 ## Remarks

@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You tried to set or change a schema property. When you create a new schema property, specify  **True** as the fourth argument to the **CreateProperty** method in order to set or delete this property.
+You tried to set or change a schema property. When you create a new schema property, specify **True** as the fourth argument to the **CreateProperty** method in order to set or delete this property.
 
 ## See also
 

@@ -42,7 +42,7 @@ Visual SourceSafe (and most other source code control programs) provides the fol
     
 - Controls access to files. 
     
-When you have your development projects under Visual SourceSafe control, the contents of your project and the contents of your Visual SourceSafe project remain synchronized. The most common source code control commands are available from the  **Source Control** tab in Microsoft Access.
+When you have your development projects under Visual SourceSafe control, the contents of your project and the contents of your Visual SourceSafe project remain synchronized. The most common source code control commands are available from the **Source Control** tab in Microsoft Access.
 
 ## See also
 

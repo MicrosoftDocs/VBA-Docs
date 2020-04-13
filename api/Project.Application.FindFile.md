@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.FindFile method (Project)
 
-Displays the  **File Open** dialog box, which allows the user to search for a file.
+Displays the **File Open** dialog box, which allows the user to search for a file.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Project sets the  **AMText** and **PMText** properties equal to the corresponding values in the **Regional and Language Options** dialog box opened from the Microsoft Windows Control Panel.
+Project sets the **AMText** and **PMText** properties equal to the corresponding values in the **Regional and Language Options** dialog box opened from the Microsoft Windows Control Panel.
 
 
 > [!NOTE] 

@@ -26,7 +26,7 @@ _expression_. `PlaceholderText`
 
 ## Remarks
 
-Placeholder text is displayed in Microsoft Word only when the  **Show XML tags in the document** check box in the **XML Structure** task pane is cleared. The **Show XML tags in the document** check box corresponds to the **[ShowXMLMarkup](Word.View.ShowXMLMarkup.md)** property.
+Placeholder text is displayed in Microsoft Word only when the **Show XML tags in the document** check box in the **XML Structure** task pane is cleared. The **Show XML tags in the document** check box corresponds to the **[ShowXMLMarkup](Word.View.ShowXMLMarkup.md)** property.
 
 
 ## Example

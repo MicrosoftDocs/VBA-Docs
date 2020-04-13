@@ -28,7 +28,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 This method corresponds to the functionality of the ENTER key. If the selection isn't collapsed to an insertion point, the new paragraph replaces the selection.
 
-Use the  **InsertParagraphAfter** or **InsertParagraphBefore** method to insert a new paragraph without deleting the contents of the selection.
+Use the **InsertParagraphAfter** or **InsertParagraphBefore** method to insert a new paragraph without deleting the contents of the selection.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Attachment.PathName property (Outlook)
 
-Returns a  **String** representing the full path to the linked attached file. Read-only.
+Returns a **String** representing the full path to the linked attached file. Read-only.
 
 
 ## Syntax

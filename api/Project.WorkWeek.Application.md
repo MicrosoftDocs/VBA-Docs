@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WorkWeek.Application property (Project)
 
-Gets the  **[Application](Project.Application.md)** object. Read-only **Object**.
+Gets the **[Application](Project.Application.md)** object. Read-only **Object**.
 
 
 ## Syntax

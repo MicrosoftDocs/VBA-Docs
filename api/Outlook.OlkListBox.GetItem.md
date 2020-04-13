@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkListBox.GetItem method (Outlook)
 
-Obtains a  **String** that represents an item at the specified location in the list.
+Obtains a **String** that represents an item at the specified location in the list.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents an [OlkListBox](Outlook.OlkListBox.md) o
 
 ## Return value
 
-A  **String** value that represents the item at the specified location in the list.
+A **String** value that represents the item at the specified location in the list.
 
 
 ## Remarks

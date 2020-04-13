@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folder.WebViewOn property (Outlook)
 
-Returns or sets a  **Boolean** indicating the Web view state for a folder. Read/write.
+Returns or sets a **Boolean** indicating the Web view state for a folder. Read/write.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.Delete method (Project)
 
-Deletes the  **Resource** object from a **Resources** collection.
+Deletes the **Resource** object from a **Resources** collection.
 
 
 ## Syntax

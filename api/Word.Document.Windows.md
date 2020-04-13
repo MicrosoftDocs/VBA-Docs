@@ -31,7 +31,7 @@ For information about returning a single member of a collection, see [Returning 
 
 ## Example
 
-This example displays the number of windows for the active document, both before and after the  **NewWindow** method is run.
+This example displays the number of windows for the active document, both before and after the **NewWindow** method is run.
 
 
 ```vb

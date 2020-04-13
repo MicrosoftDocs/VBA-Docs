@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.
 
 ## Remarks
 
-This method is equivalent to clicking the  **Increase Indent** button on the **Formatting** toolbar.
+This method is equivalent to clicking the **Increase Indent** button on the **Formatting** toolbar.
 
 
 ## Example

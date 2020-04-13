@@ -16,7 +16,7 @@ localization_priority: Normal
 
 
 
-Represents a filter in Project. The  **Filter** object is a member of the **[Filters](./Project.filters.md)** collection.
+Represents a filter in Project. The **Filter** object is a member of the **[Filters](./Project.filters.md)** collection.
  **Using the Filter Object**
 The following example applies a critical task filter to the active project.
  `ActiveProject.TaskFilters("Critical").Apply`

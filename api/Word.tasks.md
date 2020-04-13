@@ -17,7 +17,7 @@ A collection of  **[Task](Word.Task.md)** objects that represents all the tasks 
 
 ## Remarks
 
-Use the  **Tasks** property to return the **Tasks** collection. The following example determines whether Microsoft Excel is running. If it is, this example switches to it and maximizes it; otherwise, the example starts it.
+Use the **Tasks** property to return the **Tasks** collection. The following example determines whether Microsoft Excel is running. If it is, this example switches to it and maximizes it; otherwise, the example starts it.
 
 
 ```vb
@@ -47,7 +47,7 @@ With Tasks(1)
 End With
 ```
 
-The following example restores the Calculator application window if the application is in the  **Tasks** collection.
+The following example restores the Calculator application window if the application is in the **Tasks** collection.
 
 
 

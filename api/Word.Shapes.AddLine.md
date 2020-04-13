@@ -40,7 +40,7 @@ _expression_ Required. A variable that represents a **[Shapes](Word.Shapes.md)**
 
 ## Remarks
 
-To create an arrow, use the  **Line** property to format a line.
+To create an arrow, use the **Line** property to format a line.
 
 
 ## Example

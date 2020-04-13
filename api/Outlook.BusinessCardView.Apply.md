@@ -26,7 +26,7 @@ _expression_.**Apply**
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example creates, saves, and applies a new  **BusinessCardView** object.
+The following Visual Basic for Applications (VBA) example creates, saves, and applies a new **BusinessCardView** object.
 
 
 ```vb

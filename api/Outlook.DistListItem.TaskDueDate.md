@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DistListItem.TaskDueDate property (Outlook)
 
-Returns or sets a  **Date** value that represents the due date of the task for this **[DistListItem](Outlook.DistListItem.md)**. Read/write.
+Returns or sets a **Date** value that represents the due date of the task for this **[DistListItem](Outlook.DistListItem.md)**. Read/write.
 
 
 ## Syntax

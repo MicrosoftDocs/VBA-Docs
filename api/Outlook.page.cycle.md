@@ -16,7 +16,7 @@ Returns or sets an **Integer** that specifies whether cycling includes controls 
 
 _expression_.**Cycle**
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **Page** object.
 
 
 ## Remarks
@@ -25,7 +25,7 @@ The possible values for  **Cycle** are 0 and 2. 0 represents cycling through the
 
 If you specify a non-integer value for  **Cycle**, the value is rounded up to the nearest integer.
 
-The tab order identifies the order in which controls receive the focus as the user tabs through a form or subform. The  **Cycle** property determines the action to take when a user tabs from the last control in the tab order.
+The tab order identifies the order in which controls receive the focus as the user tabs through a form or subform. The **Cycle** property determines the action to take when a user tabs from the last control in the tab order.
 
 The 0 setting transfers the focus to the first control of the next  **MultiPage** on the form when the user tabs from the last control in the tab order.
 

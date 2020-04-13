@@ -26,12 +26,12 @@ _expression_.**List**
 
 ## Remarks
 
-If the first paragraph in the range for the  **ListFormat** object is not formatted as a list, the **List** property returns nothing.
+If the first paragraph in the range for the **ListFormat** object is not formatted as a list, the **List** property returns nothing.
 
 
 ## Example
 
-This example returns the first list in the selection, and then it applies the first list template (excluding None) on the  **Numbered** tab in the **Bullets and Numbering** dialog box (**Format** menu). The selection can only contain one list.
+This example returns the first list in the selection, and then it applies the first list template (excluding None) on the **Numbered** tab in the **Bullets and Numbering** dialog box (**Format** menu). The selection can only contain one list.
 
 
 ```vb

@@ -24,6 +24,6 @@ _expression_ A variable that represents a **MultiPage** object.
 
 ## Remarks
 
-The  **SelectedItem** property is read-only. Use **SelectedItem** to programmatically control the currently selected **Page** object. For example, you can use **SelectedItem** to assign values to properties of a **Page** object.
+The **SelectedItem** property is read-only. Use **SelectedItem** to programmatically control the currently selected **Page** object. For example, you can use **SelectedItem** to assign values to properties of a **Page** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

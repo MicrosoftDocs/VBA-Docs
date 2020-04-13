@@ -26,12 +26,12 @@ _expression_ A variable that represents a **[Selection](Word.Selection.md)** obj
 
 ## Remarks
 
-The  **EnhMetaFileBits** property returns an array of bytes, which can be used with the Microsoft Windows 32 Application Programming Interface from within the Microsoft Visual Basic or Microsoft C++ development environment.
+The **EnhMetaFileBits** property returns an array of bytes, which can be used with the Microsoft Windows 32 Application Programming Interface from within the Microsoft Visual Basic or Microsoft C++ development environment.
 
 
 ## Example
 
-The following example returns the  **EnhMetaFileBits** property.
+The following example returns the **EnhMetaFileBits** property.
 
 
 ```vb

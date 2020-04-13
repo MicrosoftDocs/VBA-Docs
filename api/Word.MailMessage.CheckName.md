@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailMessage.CheckName method (Word)
 
-Validates the email addresses that appear in the  **To**,  **Cc**, and  **Bcc** lines in the active email message.
+Validates the email addresses that appear in the **To**,  **Cc**, and  **Bcc** lines in the active email message.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[MailMessage](Word.MailMess
 
 ## Remarks
 
-This method is available only if you are using Word as your email editor. If the names cannot be validated, the  **Check Names** dialog box is displayed.
+This method is available only if you are using Word as your email editor. If the names cannot be validated, the **Check Names** dialog box is displayed.
 
 
 ## Example

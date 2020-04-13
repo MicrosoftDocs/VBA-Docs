@@ -23,7 +23,7 @@ _expression_ A variable that represents an [Exception](./Project.Exception.md) o
 
 ## Remarks
 
-The  **MonthItem** property can be one of the following **[PjExceptionItem](Project.PjExceptionItem.md)** contants: **pjSunday**, **pjMonday**, **pjTuesday**, **pjWednesday**, **pjThursday**, **pjFriday**, and **pjSaturday**.
+The **MonthItem** property can be one of the following **[PjExceptionItem](Project.PjExceptionItem.md)** contants: **pjSunday**, **pjMonday**, **pjTuesday**, **pjWednesday**, **pjThursday**, **pjFriday**, and **pjSaturday**.
 
 
 ## See also

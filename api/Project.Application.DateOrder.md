@@ -23,8 +23,8 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **DateOrder** property can be one of the following **[PjDateOrder](Project.PjDateOrder.md)** constants: **pjDayMonthYear**, **pjMonthDayYear**, or **pjYearMonthDay**.
+The **DateOrder** property can be one of the following **[PjDateOrder](Project.PjDateOrder.md)** constants: **pjDayMonthYear**, **pjMonthDayYear**, or **pjYearMonthDay**.
 
-Project sets the  **DateOrder** property equal to the corresponding value in the **Regional and Language Options** dialog box of the Microsoft Windows Control Panel. For example, if the current format is set to **French (France)**, the  **DateOrder** property value is 0 (**pjDayMonthYear**).
+Project sets the **DateOrder** property equal to the corresponding value in the **Regional and Language Options** dialog box of the Microsoft Windows Control Panel. For example, if the current format is set to **French (France)**, the **DateOrder** property value is 0 (**pjDayMonthYear**).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,8 +26,8 @@ _expression_ A variable that represents a [Profile](./Project.Profile.md) object
 
 ## Remarks
 
-The  **ConnectionState** property can be one of the following **[PjProfileConnectionState](Project.PjProfileConnectionState.md)** constants: **pjProfileOffline** or **pjProfileOnline**.
+The **ConnectionState** property can be one of the following **[PjProfileConnectionState](Project.PjProfileConnectionState.md)** constants: **pjProfileOffline** or **pjProfileOnline**.
 
-You can use this property in conjunction with the  **Profile**. **[Type](Project.Profile.Type.md)** property to determine whether the online mode is for a local profile or for Project Server. This property is available only in Project Professional.
+You can use this property in conjunction with the **Profile**. **[Type](Project.Profile.Type.md)** property to determine whether the online mode is for a local profile or for Project Server. This property is available only in Project Professional.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

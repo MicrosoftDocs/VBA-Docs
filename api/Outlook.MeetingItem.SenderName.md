@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MeetingItem.SenderName property (Outlook)
 
-Returns a  **String** indicating the display name of the sender for the Outlook item. Read-only.
+Returns a **String** indicating the display name of the sender for the Outlook item. Read-only.
 
 
 ## Syntax

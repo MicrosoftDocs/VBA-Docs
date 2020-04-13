@@ -34,7 +34,7 @@ _expression_ A variable that represents an [Explorers](Outlook.Explorers.md) obj
 
 ## Return value
 
-An  **Explorer** object that represents the specified object.
+An **Explorer** object that represents the specified object.
 
 
 ## See also

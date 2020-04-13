@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # Page.ScrollLeft Property (Outlook Forms Script)
 
-Returns or sets a  **Single** that specifies the distance, in [points](../language/glossary/vbe-glossary.md#point), of the left edge of the visible form from the left edge of the **[Page](Outlook.page.md)**. Read/write.
+Returns or sets a **Single** that specifies the distance, in [points](../language/glossary/vbe-glossary.md#point), of the left edge of the visible form from the left edge of the **[Page](Outlook.page.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**ScrollLeft**
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **Page** object.
 
 
 ## Remarks

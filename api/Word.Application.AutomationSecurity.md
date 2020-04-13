@@ -26,14 +26,14 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 
 ## Remarks
 
-The default setting of the  **AutomationSecurity** property is **msoAutomationSecurityLow**. Therefore, to avoid changing the users security settings or breaking solutions that rely on the default setting, you should be careful to set this property back to its original setting after programmatically opening a file.
+The default setting of the **AutomationSecurity** property is **msoAutomationSecurityLow**. Therefore, to avoid changing the users security settings or breaking solutions that rely on the default setting, you should be careful to set this property back to its original setting after programmatically opening a file.
 
 Setting  **ScreenUpdating** to **False** does not affect alerts and will not affect security warnings. The **DisplayAlerts** setting will not apply to security warnings. For example, if the user sets **DisplayAlerts** equal to **False** and **AutomationSecurity** to **msoAutomationSecurityByUI**, while the user is on Medium security level, then there will be security warnings while a macro is running. This allows the macro to trap file open errors, while still showing the security warning if the file open succeeds.
 
 
 ## Example
 
-This example changes the setting to disable macros, displays the  **Open** dialog box, and then sets the **AutomationSecurity** property back to its original setting.
+This example changes the setting to disable macros, displays the **Open** dialog box, and then sets the **AutomationSecurity** property back to its original setting.
 
 
 ```vb

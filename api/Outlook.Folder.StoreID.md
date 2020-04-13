@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folder.StoreID property (Outlook)
 
-Returns a  **String** indicating the store ID for the folder. Read-only.
+Returns a **String** indicating the store ID for the folder. Read-only.
 
 
 ## Syntax

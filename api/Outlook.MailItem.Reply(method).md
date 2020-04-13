@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Return value
 
-A  **[MailItem](Outlook.MailItem.md)** object that represents the reply.
+A **[MailItem](Outlook.MailItem.md)** object that represents the reply.
 
 
 ## See also

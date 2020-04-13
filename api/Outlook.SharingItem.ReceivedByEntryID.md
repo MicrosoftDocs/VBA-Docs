@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.ReceivedByEntryID property (Outlook)
 
-Returns a  **String** representing the **[EntryID](Outlook.Recipient.EntryID.md)** for the true recipient as set by the transport provider delivering the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
+Returns a **String** representing the **[EntryID](Outlook.Recipient.EntryID.md)** for the true recipient as set by the transport provider delivering the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax

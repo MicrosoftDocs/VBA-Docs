@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraph
 
 ## Remarks
 
-If you manually right align a paragraph and the underlying style has a different alignment, the  **Reset** method changes the alignment to match the formatting of the underlying style.
+If you manually right align a paragraph and the underlying style has a different alignment, the **Reset** method changes the alignment to match the formatting of the underlying style.
 
 
 ## See also

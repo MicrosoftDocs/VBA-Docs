@@ -26,6 +26,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **SupportsMultipleDocuments** property is useful with Automation. For example, suppose you want to open a second document in the application referred to by a variable. If the variable refers to one of several possible applications, you may want to use the **SupportsMultipleDocuments** property to confirm that the application currently referenced by the variable can have more than one document open at a time.
+The **SupportsMultipleDocuments** property is useful with Automation. For example, suppose you want to open a second document in the application referred to by a variable. If the variable refers to one of several possible applications, you may want to use the **SupportsMultipleDocuments** property to confirm that the application currently referenced by the variable can have more than one document open at a time.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

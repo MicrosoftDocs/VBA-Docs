@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeDistributionList.Type property (Outlook)
 
-Returns a  **String** representing the type of entry for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read/write.
+Returns a **String** representing the type of entry for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [ExchangeDistributionList](Outlook.Ex
 
 ## Remarks
 
-The  **ExchangeDistributionList** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **Type** property from the **AddressEntry** object. In the case of **ExchangeDistributionList**, the type is always the string "EX".
+The **ExchangeDistributionList** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **Type** property from the **AddressEntry** object. In the case of **ExchangeDistributionList**, the type is always the string "EX".
 
 
 ## See also

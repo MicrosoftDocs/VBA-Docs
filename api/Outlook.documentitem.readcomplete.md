@@ -32,11 +32,11 @@ _expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md
 
 ## Remarks
 
-The  **ReadComplete** event occurs after the [BeforeRead](Outlook.DocumentItem.BeforeRead.md) event and before the [Read](Outlook.DocumentItem.Read.md) event for the item.
+The **ReadComplete** event occurs after the [BeforeRead](Outlook.DocumentItem.BeforeRead.md) event and before the [Read](Outlook.DocumentItem.Read.md) event for the item.
 
 To determine when the item is unloaded from memory, use the [Unload](Outlook.DocumentItem.Unload.md) event.
 
-The  **ReadComplete** event corresponds to the Exchange Client Extensions (ECE) event **IExchExtMessageEvents::OnReadComplete**.
+The **ReadComplete** event corresponds to the Exchange Client Extensions (ECE) event **IExchExtMessageEvents::OnReadComplete**.
 
 
 ## See also

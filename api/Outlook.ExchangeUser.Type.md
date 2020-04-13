@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeUser.Type property (Outlook)
 
-Returns a  **String** representing the type of entry for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
+Returns a **String** representing the type of entry for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.m
 
 ## Remarks
 
-The  **ExchangeUser** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **Type** property from the **AddressEntry** object. In the case of **ExchangeUser**, the type is always the string "EX".
+The **ExchangeUser** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **Type** property from the **AddressEntry** object. In the case of **ExchangeUser**, the type is always the string "EX".
 
 
 ## See also

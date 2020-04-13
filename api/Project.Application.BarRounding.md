@@ -39,6 +39,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **BarRounding** method affects only how tasks display on the Gantt Chart or Calendar. The duration of the tasks is not affected.
+The **BarRounding** method affects only how tasks display on the Gantt Chart or Calendar. The duration of the tasks is not affected.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

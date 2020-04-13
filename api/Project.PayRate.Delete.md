@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # PayRate.Delete method (Project)
 
-Deletes the  **PayRate** object from a **PayRates** collection.
+Deletes the **PayRate** object from a **PayRates** collection.
 
 
 ## Syntax

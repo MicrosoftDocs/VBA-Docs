@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.TaskSubject property (Outlook)
 
-Returns or sets a  **String** value that represents the subject of the task for the **[SharingItem](Outlook.SharingItem.md)** object. Read/write.
+Returns or sets a **String** value that represents the subject of the task for the **[SharingItem](Outlook.SharingItem.md)** object. Read/write.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Tasks.Add method (Project)
 
-Adds a  **Task** object to a **Tasks** collection.
+Adds a **Task** object to a **Tasks** collection.
 
 
 ## Syntax

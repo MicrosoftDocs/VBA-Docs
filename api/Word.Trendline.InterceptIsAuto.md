@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Trendline](Word.Trendline.md)' objec
 
 ## Remarks
 
-Setting the  **[Intercept](Word.Trendline.Intercept.md)** property sets this property to **False**.
+Setting the **[Intercept](Word.Trendline.Intercept.md)** property sets this property to **False**.
 
 
 ## Example

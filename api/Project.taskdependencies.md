@@ -27,7 +27,7 @@ ActiveProject.Tasks("Draft Initial Business Case").TaskDependencies(1).Lag = "1.
 
  **Using the TaskDependencies Collection**
 
-Use the  **[TaskDependencies](./Project.Task.TaskDependencies.md)** property to return a **TaskDependencies** collection. The following example examines each predecessor for the specified task and displays a message for each that has a priority of "High" or better.
+Use the **[TaskDependencies](./Project.Task.TaskDependencies.md)** property to return a **TaskDependencies** collection. The following example examines each predecessor for the specified task and displays a message for each that has a priority of "High" or better.
 
 
 
@@ -50,7 +50,7 @@ For Each TaskDep In ActiveProject.Tasks("Write Requirements Brief").TaskDependen
 Next TaskDep
 ```
 
-Use the  **[Add](./Project.TaskDependencies.Add.md)** method to add a **TaskDependency** object to the **TaskDependencies** collection. The following example links "Preliminary Research & Approval" as a predecessor to "Draft Initial Business Case" in a finish-to-start relationship.
+Use the **[Add](./Project.TaskDependencies.Add.md)** method to add a **TaskDependency** object to the **TaskDependencies** collection. The following example links "Preliminary Research & Approval" as a predecessor to "Draft Initial Business Case" in a finish-to-start relationship.
 
 
 

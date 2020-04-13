@@ -23,6 +23,6 @@ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 ## Remarks
 
-The  **FixedCostAccrual** property can be one of the following **[PjAccrueAt](Project.PjAccrueAt.md)** constants: **pjEnd**, **pjProrated**, or **pjStart**.
+The **FixedCostAccrual** property can be one of the following **[PjAccrueAt](Project.PjAccrueAt.md)** constants: **pjEnd**, **pjProrated**, or **pjStart**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

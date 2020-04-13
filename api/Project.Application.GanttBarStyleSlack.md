@@ -39,6 +39,6 @@ _expression_. `GanttBarStyleSlack`( `_Show_` )
 
 ## Remarks
 
-On the Ribbon, the  **GanttBarStyleSlack** method corresponds to the **Slack** checkbox in the **Bar Styles** group on the **Format** tab for **Gantt Chart Tools**.
+On the Ribbon, the **GanttBarStyleSlack** method corresponds to the **Slack** checkbox in the **Bar Styles** group on the **Format** tab for **Gantt Chart Tools**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

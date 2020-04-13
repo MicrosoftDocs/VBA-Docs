@@ -46,7 +46,7 @@ This example sets the default folder for Word documents.
 Options.DefaultFilePath(wdDocumentsPath) = "C:\Documents"
 ```
 
-This example returns the current default path for user templates (corresponds to the default path setting on the  **File Locations** tab in the **Options** dialog box).
+This example returns the current default path for user templates (corresponds to the default path setting on the **File Locations** tab in the **Options** dialog box).
 
 
 

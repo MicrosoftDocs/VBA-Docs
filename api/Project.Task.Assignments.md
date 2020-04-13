@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Task.Assignments property (Project)
 
-Gets an  **[Assignments](Project.Assignment.md)** collection representing the assignments for the task. Read-only **Assignments**.
+Gets an **[Assignments](Project.Assignment.md)** collection representing the assignments for the task. Read-only **Assignments**.
 
 
 ## Syntax

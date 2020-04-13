@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-The  **TextEncoding** property sets text encoding separately from HTML encoding, which you can set using the **Encoding** property. To set text encoding for all documents saved as text files, use the **DefaultTextEncoding** property.
+The **TextEncoding** property sets text encoding separately from HTML encoding, which you can set using the **Encoding** property. To set text encoding for all documents saved as text files, use the **DefaultTextEncoding** property.
 
 
 ## Example

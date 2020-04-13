@@ -30,7 +30,7 @@ _expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ContactItem_|Optional| **Variant**|The  **[ContactItem](Outlook.ContactItem.md)** object of the contact you want to dial.|
+| _ContactItem_|Optional| **Variant**|The **[ContactItem](Outlook.ContactItem.md)** object of the contact you want to dial.|
 
 ## Example
 

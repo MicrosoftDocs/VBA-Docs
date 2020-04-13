@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folder.ShowAsOutlookAB property (Outlook)
 
-Returns or sets a  **Boolean** variable that specifies whether the contact items folder will be displayed as an address list in the Outlook Address Book. Read/write.
+Returns or sets a **Boolean** variable that specifies whether the contact items folder will be displayed as an address list in the Outlook Address Book. Read/write.
 
 
 ## Syntax

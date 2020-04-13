@@ -57,6 +57,6 @@ Specifies the type of information returned about a specified selection or range.
 | **wdVerticalPositionRelativeToPage**|6|Returns the vertical position of the selection or range; this is the distance from the top edge of the selection to the top edge of the page measured in points (1 point = 20 twips, 72 points = 1 inch). If the selection isn't visible in the document window, returns -1.|
 | **wdVerticalPositionRelativeToTextBoundary**|8|Returns the vertical position of the selection or range relative to the top edge of the nearest text boundary enclosing it, in points (1 point = 20 twips, 72 points = 1 inch). This is useful for determining the position of the insertion point within a frame or table cell. If the selection isn't visible, returns -1.|
 | **wdWithInTable**|12|Returns  **True** if the selection is in a table.|
-| **wdZoomPercentage**|19|Returns the current percentage of magnification as set by the  **Percentage** property.|
+| **wdZoomPercentage**|19|Returns the current percentage of magnification as set by the **Percentage** property.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

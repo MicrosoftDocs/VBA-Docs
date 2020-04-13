@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # ActualStartDrivers.Parent property (Project)
 
-Gets the parent task of the  **ActualStartDrivers** object. Read-only **Task**.
+Gets the parent task of the **ActualStartDrivers** object. Read-only **Task**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_ A variable that represents an 'ActualStartDrivers' object.
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of an object's parent.
+Use the **Parent** property to access the properties or methods of an object's parent.
 
 
 ## See also

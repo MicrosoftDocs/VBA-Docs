@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ViewFont.Color property (Outlook)
 
-Returns or sets an  **[OlColor](Outlook.OlColor.md)** constant that indicates the color of the font in the **[ViewFont](Outlook.ViewFont.md)** object. Read/write.
+Returns or sets an **[OlColor](Outlook.OlColor.md)** constant that indicates the color of the font in the **[ViewFont](Outlook.ViewFont.md)** object. Read/write.
 
 
 ## Syntax

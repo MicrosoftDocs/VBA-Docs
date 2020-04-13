@@ -38,7 +38,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 
 > [!NOTE] 
-> When you use this method with the  **wdGoToGrammaticalError**, **wdGoToProofreadingError**, or **wdGoToSpellingError** constant, the **Range** object that's returned includes any grammar error text or spelling error text.
+> When you use this method with the **wdGoToGrammaticalError**, **wdGoToProofreadingError**, or **wdGoToSpellingError** constant, the **Range** object that's returned includes any grammar error text or spelling error text.
 
 
 ## See also
