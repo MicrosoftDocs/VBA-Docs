@@ -12,6 +12,6 @@ localization_priority: Normal
 
 # Line 'item1': Can't set Shortcut property in menu 'item2'. Parent menu cannot have a shortcut key.
 
-A top-level  **Menu** control appeared in the ASCII form file with a shortcut key defined. Top-level menus can't have a shortcut key. The **Menu** control will be loaded, but its **Shortcut** property won't be set.
+A top-level **Menu** control appeared in the ASCII form file with a shortcut key defined. Top-level menus can't have a shortcut key. The **Menu** control will be loaded, but its **Shortcut** property won't be set.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

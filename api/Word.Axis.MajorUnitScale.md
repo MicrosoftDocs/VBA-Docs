@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.MajorUnitScale property (Word)
 
-Returns or sets the major unit scale value for the category axis when the  **[CategoryType](Word.Axis.CategoryType.md)** property is set to **xlTimeScale**. Read/write **[XlTimeUnit](Word.xltimeunit.md)**.
+Returns or sets the major unit scale value for the category axis when the **[CategoryType](Word.Axis.CategoryType.md)** property is set to **xlTimeScale**. Read/write **[XlTimeUnit](Word.xltimeunit.md)**.
 
 
 ## Syntax

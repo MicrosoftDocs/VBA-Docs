@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _FieldID_|Required|**Long**|The custom field. Can be one of the  **[PjCustomField](Project.PjCustomField.md)** constants.|
+| _FieldID_|Required|**Long**|The custom field. Can be one of the **[PjCustomField](Project.PjCustomField.md)** constants.|
 | _Formula_|Optional|**String**|The formula to use to assign a value for the custom field. The value specified with  **Formula** functions as the right side of an equation that the field specified with **FieldID** should equal. To specify a field as part of the formula, enclose the field name in brackets, as in "[Actual Cost] * 2". If a macro will be run in more than one language, any field specified in **Formula** must use the name localized for each language.|
 
 ## Return value

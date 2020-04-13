@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # Frame.CanRedo Property (Outlook Forms Script)
 
-Returns a  **Boolean** that specifies if the most recent **Undo** can be reversed. Read-only.
+Returns a **Boolean** that specifies if the most recent **Undo** can be reversed. Read-only.
 
 
 ## Syntax
 
 _expression_.**CanRedo**
 
-_expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a **Frame** object.
 
 
 ## Remarks

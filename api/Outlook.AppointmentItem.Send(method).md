@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 ## Remarks
 
-The  **Send** method sends an item using the default account specified for the session. In a session where multiple Microsoft Exchange accounts are defined in the profile, the first Exchange account added to the profile is the primary Exchange account, and is also the default account for the session. To specify a different account to send an item, set the **[SendUsingAccount](Outlook.AppointmentItem.SendUsingAccount.md)** property to the desired **[Account](Outlook.Account.md)** object and then call the **Send** method.
+The **Send** method sends an item using the default account specified for the session. In a session where multiple Microsoft Exchange accounts are defined in the profile, the first Exchange account added to the profile is the primary Exchange account, and is also the default account for the session. To specify a different account to send an item, set the **[SendUsingAccount](Outlook.AppointmentItem.SendUsingAccount.md)** property to the desired **[Account](Outlook.Account.md)** object and then call the **Send** method.
 
 
 ## Example

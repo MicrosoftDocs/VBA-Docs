@@ -26,7 +26,7 @@ _expression_ Required. An expression that returns a **[FillFormat](word.fillform
 
 ## Remarks
 
-Use the  **[PresetTextured](Word.FillFormat.PresetTextured.md)** method to specify the preset texture for the fill.
+Use the **[PresetTextured](Word.FillFormat.PresetTextured.md)** method to specify the preset texture for the fill.
 
 
 ## Example

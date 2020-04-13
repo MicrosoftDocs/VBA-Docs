@@ -26,7 +26,7 @@ _expression_. `CalendarDetail`
 
 ## Return value
 
-A  **OlCalendarDetail** value that indicates the level of detail for calendar items.
+A **OlCalendarDetail** value that indicates the level of detail for calendar items.
 
 
 ## Remarks

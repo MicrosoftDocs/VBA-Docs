@@ -26,7 +26,7 @@ _expression_ An expression that returns a **[FillFormat](Word.FillFormat.md)** o
 
 ## Remarks
 
-The setting of the  **TextureVerticalScale** property corresponds to the setting of the **Scale Y** box under **Tiling Options** on the **Fill** pane of the **Format Picture** dialog box in the Microsoft Word user interface (under **Drawing Tools**, on the  **Format** tab, expand the **Shape Styles** group.)
+The setting of the **TextureVerticalScale** property corresponds to the setting of the **Scale Y** box under **Tiling Options** on the **Fill** pane of the **Format Picture** dialog box in the Microsoft Word user interface (under **Drawing Tools**, on the **Format** tab, expand the **Shape Styles** group.)
 
 
 ## See also

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Column object (Word)
 
-Represents a single table column. The  **Column** object is a member of the **[Columns](Word.columns.md)** collection. The **Columns** collection includes all the columns in a table, selection, or range.
+Represents a single table column. The **Column** object is a member of the **[Columns](Word.columns.md)** collection. The **Columns** collection includes all the columns in a table, selection, or range.
 
 
 ## Remarks
@@ -30,7 +30,7 @@ The following example selects column one in table one in the active document.
 ActiveDocument.Tables(1).Columns(1).Select
 ```
 
-Use the  **[Column](Word.Cell.Column.md)** property with a **[Cell](Word.Cell.md)** object to return a **Column** object. The following example deletes the text in cell one, inserts new text, and then sorts the entire column.
+Use the **[Column](Word.Cell.Column.md)** property with a **[Cell](Word.Cell.md)** object to return a **Column** object. The following example deletes the text in cell one, inserts new text, and then sorts the entire column.
 
 
 
@@ -43,7 +43,7 @@ With ActiveDocument.Tables(1).Cell(1, 1)
 End With
 ```
 
-Use the  **[Add](Word.Columns.Add.md)** method to add a column to a table. The following example adds a column to the first table in the active document, and then it makes the column widths equal.
+Use the **[Add](Word.Columns.Add.md)** method to add a column to a table. The following example adds a column to the first table in the active document, and then it makes the column widths equal.
 
 
 
@@ -58,7 +58,7 @@ End If
 
 Remarks
 
-Use the  **[Information](Word.Selection.Information.md)** property with a **[Selection](Word.Selection.md)** object to return the current column number. The following example selects the current column and then displays the column number in a message box.
+Use the **[Information](Word.Selection.Information.md)** property with a **[Selection](Word.Selection.md)** object to return the current column number. The following example selects the current column and then displays the column number in a message box.
 
 
 

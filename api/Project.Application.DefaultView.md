@@ -23,7 +23,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **DefaultView** property can be the name of a custom view or one of the following built-in views:
+The **DefaultView** property can be the name of a custom view or one of the following built-in views:
 
 
 |||

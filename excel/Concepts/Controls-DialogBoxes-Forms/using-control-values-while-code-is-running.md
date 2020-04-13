@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Using Control Values While Code Is Running
 
-Some  **[controls](activex-controls.md)** properties can be set and returned while Visual Basic code is running. The following example sets the  **Text** property of a text box to "Hello."
+Some **[controls](activex-controls.md)** properties can be set and returned while Visual Basic code is running. The following example sets the **Text** property of a text box to "Hello."
 
 
 ```vb

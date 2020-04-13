@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Revisions](Word.revisions.
 
 ## Remarks
 
-Use the  **AcceptAllRevisions** method to accept all revisions in a document.
+Use the **AcceptAllRevisions** method to accept all revisions in a document.
 
 
 ## Example

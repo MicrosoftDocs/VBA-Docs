@@ -33,7 +33,7 @@ If  **SpaceAfterAuto** is set to **True**, the **SpaceAfter** property is ignore
 
 ## Example
 
-This example displays a report showing the  **SpaceAfterAuto** settings for the active document.
+This example displays a report showing the **SpaceAfterAuto** settings for the active document.
 
 
 ```vb

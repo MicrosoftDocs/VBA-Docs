@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-To change the value of the  **ReadOnlyRecommended** property, use the **[FileSaveAs](Project.Application.FileSaveAs.md)** method with the ReadOnly argument set to **True**.
+To change the value of the **ReadOnlyRecommended** property, use the **[FileSaveAs](Project.Application.FileSaveAs.md)** method with the ReadOnly argument set to **True**.
 
 
 ## Example

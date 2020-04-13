@@ -26,7 +26,7 @@ _expression_. `ShowMarkupOpenSave`
 
 ## Remarks
 
-The  **ShowMarkupOpenSave** property corresponds to the **Make hidden markup visible when opening or saving** option in the **Security** tab of the **Options** dialog box.
+The **ShowMarkupOpenSave** property corresponds to the **Make hidden markup visible when opening or saving** option in the **Security** tab of the **Options** dialog box.
 
 
 ## Example

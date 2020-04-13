@@ -34,7 +34,7 @@ _expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) 
 
 ## Return value
 
-An  **AppointmentItem** object that represents the associated appointment.
+An **AppointmentItem** object that represents the associated appointment.
 
 
 ## Example

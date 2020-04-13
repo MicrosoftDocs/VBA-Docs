@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Sort Worksheets Alphanumerically by Name
 
-The following example shows how to sort the worksheets in a workbook alphanumerically based on the name of the sheet by using the  **[Name](../../../api/Excel.Worksheet.Name.md)** property of the **[Worksheet](../../../api/Excel.Worksheet.md)** object.
+The following example shows how to sort the worksheets in a workbook alphanumerically based on the name of the sheet by using the **[Name](../../../api/Excel.Worksheet.Name.md)** property of the **[Worksheet](../../../api/Excel.Worksheet.md)** object.
 
  **Sample code provided by:** Tom Urtis, [Atlas Programming Management](https://www.atlaspm.com/)
 

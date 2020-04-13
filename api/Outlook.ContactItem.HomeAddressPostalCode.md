@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.HomeAddressPostalCode property (Outlook)
 
-Returns or sets a  **String** representing the postal code portion of the home address for the contact. Read/write.
+Returns or sets a **String** representing the postal code portion of the home address for the contact. Read/write.
 
 
 ## Syntax

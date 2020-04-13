@@ -27,6 +27,6 @@ In **orms Manager**, you can browse to the folders where your forms are stored a
     
 3. Click **dvanced**. 
     
-4. In the **evelopers** heading, click **Custom Forms**, and then click  **nage Forms**.
+4. In the **evelopers** heading, click **Custom Forms**, and then click **nage Forms**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

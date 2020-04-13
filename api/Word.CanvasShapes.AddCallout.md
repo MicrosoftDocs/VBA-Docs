@@ -36,7 +36,7 @@ _expression_ Required. A variable that represents a **[CanvasShapes](Word.Canvas
 
 ## Remarks
 
-You can insert a greater variety of callouts, such as balloons and clouds, using the  **AddShape** method.
+You can insert a greater variety of callouts, such as balloons and clouds, using the **AddShape** method.
 
 
 ## Example

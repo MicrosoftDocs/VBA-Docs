@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Task.Date6 property (Project)
 
-Gets or sets the value of the  **Date6** custom field for the task. Read/write **Variant**.
+Gets or sets the value of the **Date6** custom field for the task. Read/write **Variant**.
 
 
 ## Syntax

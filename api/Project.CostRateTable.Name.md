@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # CostRateTable.Name property (Project)
 
-Gets the name of a  **CostRateTable** object. Read-only **String**.
+Gets the name of a **CostRateTable** object. Read-only **String**.
 
 
 ## Syntax
@@ -23,6 +23,6 @@ _expression_ A variable that represents a [CostRateTable](./Project.CostRateTabl
 
 ## Remarks
 
-For a code example that uses the  **Task** object, see **[Name](Project.Task.Name.md)**.
+For a code example that uses the **Task** object, see **[Name](Project.Task.Name.md)**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

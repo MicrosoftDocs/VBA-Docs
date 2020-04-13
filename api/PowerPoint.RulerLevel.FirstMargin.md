@@ -35,7 +35,7 @@ If a paragraph begins with a bullet, the bullet position is determined by the  *
 
 
 > [!NOTE] 
-> The  **[RulerLevels](PowerPoint.RulerLevels.md)** collection contains five **RulerLevel** objects, each of which corresponds to one of the possible outline levels. The **FirstMargin** property value for the **RulerLevel** object that corresponds to the first outline level has a valid range of (-9.0 to 4095.875). The valid range for the **FirstMargin** property values for the **RulerLevel** objects that correspond to the second through the fifth outline levels are determined as follows:
+> The **[RulerLevels](PowerPoint.RulerLevels.md)** collection contains five **RulerLevel** objects, each of which corresponds to one of the possible outline levels. The **FirstMargin** property value for the **RulerLevel** object that corresponds to the first outline level has a valid range of (-9.0 to 4095.875). The valid range for the **FirstMargin** property values for the **RulerLevel** objects that correspond to the second through the fifth outline levels are determined as follows:
 
 
 - The maximum value is always 4095.875.

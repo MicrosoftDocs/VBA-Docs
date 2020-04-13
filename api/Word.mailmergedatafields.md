@@ -14,7 +14,7 @@ A collection of  **[MailMergeDataField](Word.MailMergeDataField.md)** objects th
 
 ## Remarks
 
-Use the  **DataFields** property to return the **MailMergeDataFields** collection. The following example displays the names of all the fields in the attached data source.
+Use the **DataFields** property to return the **MailMergeDataFields** collection. The following example displays the names of all the fields in the attached data source.
 
 
 ```vb
@@ -23,7 +23,7 @@ For Each afield In ActiveDocument.MailMerge.DataSource.DataFields
 Next afield
 ```
 
-You cannot add fields to the  **MailMergeDataFields** collection. When a data field is added to a data source, the field is automatically included in the **MailMergeDataFields** collection. Use the **EditDataSource** method to edit the contents of a data source. The following example adds a data field named "Author" to a table in the attached data source.
+You cannot add fields to the **MailMergeDataFields** collection. When a data field is added to a data source, the field is automatically included in the **MailMergeDataFields** collection. Use the **EditDataSource** method to edit the contents of a data source. The following example adds a data field named "Author" to a table in the attached data source.
 
 
 

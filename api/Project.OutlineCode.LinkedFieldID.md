@@ -23,6 +23,6 @@ _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.m
 
 ## Remarks
 
-A local outline code can import a lookup table from another outline code, but cannot link to it or share it with another outline code or an enterprise text custom field. the  **LinkedFieldID** property always returns -1.
+A local outline code can import a lookup table from another outline code, but cannot link to it or share it with another outline code or an enterprise text custom field. the **LinkedFieldID** property always returns -1.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

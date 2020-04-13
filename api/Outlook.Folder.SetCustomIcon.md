@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[Folder](Outlook.Folder.md)** object
 
 ## Remarks
 
-The  **IPictureDisp** object specified by _Picture_ must have its **Type** property equal to **PICTYPE_ICON** or **PICTYPE_BITMAP**. The icon or bitmap resource can have a maximum size of 32x32. Icons that are 16x16 or 24x24 are also supported, and Microsoft Outlook can scale up a 16x16 icon if Outlook is running in high Dots Per Inch (DPI) mode. Icons of other sizes cause **SetCustomIcon** to return an error.
+The **IPictureDisp** object specified by _Picture_ must have its **Type** property equal to **PICTYPE_ICON** or **PICTYPE_BITMAP**. The icon or bitmap resource can have a maximum size of 32x32. Icons that are 16x16 or 24x24 are also supported, and Microsoft Outlook can scale up a 16x16 icon if Outlook is running in high Dots Per Inch (DPI) mode. Icons of other sizes cause **SetCustomIcon** to return an error.
 
 You can set a custom icon for a search folder and for all folders that do not represent a default or a special folder. If you attempt to set a custom icon for a folder that belongs to one of the following groups of folders,  **SetCustomIcon** will return an error:
 

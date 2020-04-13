@@ -26,7 +26,7 @@ _expression_.**Text**
 
 ## Remarks
 
-List entries must have unique display names. Attempting to change the  **Text** property to a string that already exists in the list of entries raises a run-time error.
+List entries must have unique display names. Attempting to change the **Text** property to a string that already exists in the list of entries raises a run-time error.
 
 
 ## Example

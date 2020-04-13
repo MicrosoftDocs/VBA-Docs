@@ -19,7 +19,7 @@ Represents all of the resource-based group definitions, where group hierarchy ca
  
 
  
-Use the  **[ResourceGroups2](Project.Project.ResourceGroups2.md)** property to return a **ResourceGroups2** collection. The following example lists the names of all the resource groups in the active project.
+Use the **[ResourceGroups2](Project.Project.ResourceGroups2.md)** property to return a **ResourceGroups2** collection. The following example lists the names of all the resource groups in the active project.
  
 
  
@@ -37,7 +37,7 @@ Next rg2
 MsgBox rGroups2
 ```
 
-Use the  **[Add](Project.ResourceGroups2.Add.md)** method to add a **Group2** object to the **ResourceGroups2** collection. The following example creates a new group that groups resources by their standard rate and then modifies the criterion so that the resources are sorted in descending order.
+Use the **[Add](Project.ResourceGroups2.Add.md)** method to add a **Group2** object to the **ResourceGroups2** collection. The following example creates a new group that groups resources by their standard rate and then modifies the criterion so that the resources are sorted in descending order.
  
 
  

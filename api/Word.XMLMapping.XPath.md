@@ -26,7 +26,7 @@ _expression_.**XPath**
 
 ## Remarks
 
-To set mapping for a content control, use the  **[SetMapping](Word.XMLMapping.SetMapping.md)** method or the **[SetMappingByNode](Word.XMLMapping.SetMappingByNode.md)** method. If the mapping is not active, using this property returns an error.
+To set mapping for a content control, use the **[SetMapping](Word.XMLMapping.SetMapping.md)** method or the **[SetMappingByNode](Word.XMLMapping.SetMappingByNode.md)** method. If the mapping is not active, using this property returns an error.
 
 
 ## Example

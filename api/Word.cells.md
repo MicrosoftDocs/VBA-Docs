@@ -14,7 +14,7 @@ A collection of  **[Cell](Word.Cell.md)** objects in a table column, table row, 
 
 ## Remarks
 
-Use the  **Cells** property to return the **Cells** collection. The following example formats the cells in the first row in table one in the active document to be 30 points wide.
+Use the **Cells** property to return the **Cells** collection. The following example formats the cells in the first row in table one in the active document to be 30 points wide.
 
 
 ```vb
@@ -30,7 +30,7 @@ The following example returns the number of cells in the current row.
 num = Selection.Rows(1).Cells.Count
 ```
 
-Use the  **[Add](Word.Cells.Add.md)** method to add a **[Cell](Word.Cell.md)** object to the **Cells** collection. You can also use the **[InsertCells](Word.Selection.InsertCells.md)** method of the **[Selection](Word.Selection.md)** object to insert new cells. The following example adds a cell before the first cell in myTable.
+Use the **[Add](Word.Cells.Add.md)** method to add a **[Cell](Word.Cell.md)** object to the **Cells** collection. You can also use the **[InsertCells](Word.Selection.InsertCells.md)** method of the **[Selection](Word.Selection.md)** object to insert new cells. The following example adds a cell before the first cell in myTable.
 
 
 
@@ -62,7 +62,7 @@ ActiveDocument.Tables(1).Rows(1).Cells(1).Shading _
 
 Remarks
 
-Use the  **Add** method with the **[Rows](Word.rows.md)** or **[Columns](Word.columns.md)** collection to add a row or column of cells. The following example adds a column to the first table in the active document and then inserts numbers into the first column.
+Use the **Add** method with the **[Rows](Word.rows.md)** or **[Columns](Word.columns.md)** collection to add a row or column of cells. The following example adds a column to the first table in the active document and then inserts numbers into the first column.
 
 
 

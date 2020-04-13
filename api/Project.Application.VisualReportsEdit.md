@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _strVisualReportTemplateFile_|Optional|**String**|Full path and the name of template file.|
-| _PjVisualReportsDataLevel_|Optional|**Long**|Data level for the template. Can be one of the  **[PjVisualReportsDataLevel](Project.PjVisualReportsDataLevel.md)** constants. The default is **pjLevelAutomatic**.|
+| _PjVisualReportsDataLevel_|Optional|**Long**|Data level for the template. Can be one of the **[PjVisualReportsDataLevel](Project.PjVisualReportsDataLevel.md)** constants. The default is **pjLevelAutomatic**.|
 
 ## Return value
 

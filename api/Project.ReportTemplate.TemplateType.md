@@ -23,7 +23,7 @@ _expression_ A variable that represents a [ReportTemplate](./Project.ReportTempl
 
 ## Remarks
 
-The TemplateType property can be one of the  **[PjVisualReportsTemplateType](Project.PjVisualReportsTemplateType.md)** constants.
+The TemplateType property can be one of the **[PjVisualReportsTemplateType](Project.PjVisualReportsTemplateType.md)** constants.
 
 
 ## Example

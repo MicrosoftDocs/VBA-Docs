@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ServiceOptionsDialog method (Project)
 
-Opens the  **Service Options** dialog box.
+Opens the **Service Options** dialog box.
 
 
 ## Syntax

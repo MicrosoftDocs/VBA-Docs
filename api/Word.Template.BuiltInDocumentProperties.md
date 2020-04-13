@@ -28,7 +28,7 @@ _expression_ Required. A variable that represents a '[Template](Word.Template.md
 
 To return a single  **DocumentProperty** object that represents a specific built-in document property, use the **BuiltinDocumentProperties** property. If Microsoft Word doesn't define a value for one of the built-in document properties, reading the **Value** property for that document property generates an error.
 
-Use the  **CustomDocumentProperties** property to return the collection of custom document properties.
+Use the **CustomDocumentProperties** property to return the collection of custom document properties.
 
  For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 

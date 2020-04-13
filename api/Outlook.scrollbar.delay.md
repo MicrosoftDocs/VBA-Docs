@@ -12,19 +12,19 @@ localization_priority: Normal
 
 # ScrollBar.Delay Property (Outlook Forms Script)
 
-Returns or sets a  **Long** that specifies the delay in milliseconds, between events on a **[ScrollBar](Outlook.scrollbar.md)**. Read/write.
+Returns or sets a **Long** that specifies the delay in milliseconds, between events on a **[ScrollBar](Outlook.scrollbar.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**Delay**
 
-_expression_ A variable that represents a  **ScrollBar** object.
+_expression_ A variable that represents a **ScrollBar** object.
 
 
 ## Remarks
 
-The  **Delay** property affects the amount of time between consecutive **SpinUp**,  **SpinDown**, and  **Change** events generated when the user clicks and holds down a button on a **ScrollBar**. The first event occurs immediately. The delay to the second occurrence of the event is five times the value of the specified  **Delay**. This initial lag makes it easy to generate a single event rather than a stream of events.
+The **Delay** property affects the amount of time between consecutive **SpinUp**,  **SpinDown**, and  **Change** events generated when the user clicks and holds down a button on a **ScrollBar**. The first event occurs immediately. The delay to the second occurrence of the event is five times the value of the specified  **Delay**. This initial lag makes it easy to generate a single event rather than a stream of events.
 
 After the initial lag, the interval between events is the value specified for  **Delay**.
 

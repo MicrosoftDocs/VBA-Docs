@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PostItem.ToDoTaskOrdinal property (Outlook)
 
-Returns or sets a  **Date** value that represents the ordinal value of the task for the **[PostItem](Outlook.PostItem.md)**. Read/write.
+Returns or sets a **Date** value that represents the ordinal value of the task for the **[PostItem](Outlook.PostItem.md)**. Read/write.
 
 
 ## Syntax

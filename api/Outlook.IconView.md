@@ -19,11 +19,11 @@ Represents a view that displays Outlook items as a series of labeled icons.
 
 ## Remarks
 
-The  **IconView** object, derived from the **[View](Outlook.View.md)** object, allows you to create customizable views that allow you to display Outlook items as large or small icons, with labels.
+The **IconView** object, derived from the **[View](Outlook.View.md)** object, allows you to create customizable views that allow you to display Outlook items as large or small icons, with labels.
 
 Outlook provides several built-in views, and you can also create custom  **IconView** objects. Use the **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection to add a new **IconView** to a **[Folder](Outlook.Folder.md)** object. Use the **[Standard](Outlook.IconView.Standard.md)** property to determine if an existing **IconView** object is built-in or custom.
 
-The  **IconView** object supports several different view types, depending on the desired layout in which to display Outlook items. Use the **[IconViewType](Outlook.IconView.IconViewType.md)** property to set the view type.
+The **IconView** object supports several different view types, depending on the desired layout in which to display Outlook items. Use the **[IconViewType](Outlook.IconView.IconViewType.md)** property to set the view type.
 
 You can also configure how Outlook items appear within the  **IconView** object. Use the **[IconPlacement](Outlook.IconView.IconPlacement.md)** property to determine how the icons for Outlook items are arranged within the view. Use the **[Filter](Outlook.IconView.Filter.md)** property to determine which Outlook items to display in the view and the **[SortFields](Outlook.IconView.SortFields.md)** collection to specify the Outlook item properties by which Outlook items are sorted in the view.
 

@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Outlook.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _SearchObject_|Required| **Search**|The  **[Search](Outlook.Search.md)** object returned by the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method.|
+| _SearchObject_|Required| **Search**|The **[Search](Outlook.Search.md)** object returned by the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method.|
 
 ## Remarks
 

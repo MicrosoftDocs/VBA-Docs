@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # RecentFile object (Word)
 
-Represents a recently used file. The  **RecentFile** object is a member of the **[RecentFiles](Word.recentfiles.md)** collection.
+Represents a recently used file. The **RecentFile** object is a member of the **[RecentFiles](Word.recentfiles.md)** collection.
 
 
 ## Remarks
 
-The  **RecentFiles** collection includes all the files that have been used recently. The items in the **RecentFiles** collection are displayed at the bottom of the **File** menu.
+The **RecentFiles** collection includes all the files that have been used recently. The items in the **RecentFiles** collection are displayed at the bottom of the **File** menu.
 
 Use  **RecentFiles** (Index), where Index is the index number, to return a single **RecentFile** object. The index number represents the position of the file on the **File** menu. The following example opens the first document in the **RecentFiles** collection.
 
@@ -30,7 +30,7 @@ Use  **RecentFiles** (Index), where Index is the index number, to return a singl
 If RecentFiles.Count >= 1 Then RecentFiles(1).Open
 ```
 
-Use the  **Add** method to add a file to the **RecentFiles** collection. The following example adds the active document to the list of recently-used files.
+Use the **Add** method to add a file to the **RecentFiles** collection. The following example adds the active document to the list of recently-used files.
 
 
 
@@ -42,7 +42,7 @@ If ActiveDocument.Saved = True Then
 End If
 ```
 
-The  **SaveAs** and **Open** methods include an AddToRecentFiles argument that controls whether or not a file is added to the recently-used-files list when the file is opened or saved.
+The **SaveAs** and **Open** methods include an AddToRecentFiles argument that controls whether or not a file is added to the recently-used-files list when the file is opened or saved.
 
 
 ## See also

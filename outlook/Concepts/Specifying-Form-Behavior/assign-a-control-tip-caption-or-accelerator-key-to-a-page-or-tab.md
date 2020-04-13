@@ -14,7 +14,7 @@ This procedure sets properties on a [Page](../../../api/Outlook.page.md) or [Tab
 
 1. In the Forms Designer, select a page or tab in a **MultiPage** or **TabStrip** control. For more information, see [How to: Select and Edit a Control Within a Group](select-and-edit-a-control-within-a-group.md) and [How to: Assign a Control Tip, Caption, or Accelerator Key to a Control](assign-a-control-tip-caption-or-accelerator-key-to-a-control.md). 
     
-    **Note** Be sure to select an individual page or tab, and not the corresponding **MultiPage** or **TabStrip**. When you select a page or tab, a rectangle appears around its caption.
+   **Note** Be sure to select an individual page or tab, and not the corresponding **MultiPage** or **TabStrip**. When you select a page or tab, a rectangle appears around its caption.
 2. Right-click the caption of the selected page or tab, and then click **Rename**. 
     
 3. In the **Control Tip Text** box, type the text that you want to use as the control tip.

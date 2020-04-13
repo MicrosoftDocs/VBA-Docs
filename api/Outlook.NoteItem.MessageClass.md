@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NoteItem.MessageClass property (Outlook)
 
-Returns or sets a  **String** representing the message class for the Outlook item. Read/write.
+Returns or sets a **String** representing the message class for the Outlook item. Read/write.
 
 
 ## Syntax

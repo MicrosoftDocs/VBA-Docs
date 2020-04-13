@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DistListItem.TaskStartDate property (Outlook)
 
-Returns or sets a  **Date** value that represents the start date of the task for this **[DistListItem](Outlook.DistListItem.md)** object. Read/write.
+Returns or sets a **Date** value that represents the start date of the task for this **[DistListItem](Outlook.DistListItem.md)** object. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.CacheSettings method (Project)
 
-Displays the  **Cache Settings** dialog box. Available in Project Professional only.
+Displays the **Cache Settings** dialog box. Available in Project Professional only.
 
 
 ## Syntax

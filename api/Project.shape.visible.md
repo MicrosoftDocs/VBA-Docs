@@ -19,7 +19,7 @@ _expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 ## Remarks
 
-The value of the  **Visible** property can be **msoTrue** or **msoFalse**.
+The value of the **Visible** property can be **msoTrue** or **msoFalse**.
 
 
 ## Property value

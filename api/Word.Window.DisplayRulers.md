@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Window](Word.Window.md)** object.
 
 ## Remarks
 
-This property is equivalent to the  **Ruler** command on the **View** menu. If **DisplayRulers** is **False**, the horizontal and vertical rulers won't be displayed, regardless of the state of the **DisplayVerticalRuler** property.
+This property is equivalent to the **Ruler** command on the **View** menu. If **DisplayRulers** is **False**, the horizontal and vertical rulers won't be displayed, regardless of the state of the **DisplayVerticalRuler** property.
 
 
 ## Example

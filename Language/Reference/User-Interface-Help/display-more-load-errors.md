@@ -12,6 +12,6 @@ localization_priority: Normal
 
 # Display more load errors?
 
-Click  **OK** to see more errors, otherwise click **Cancel**.
+Click **OK** to see more errors, otherwise click **Cancel**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

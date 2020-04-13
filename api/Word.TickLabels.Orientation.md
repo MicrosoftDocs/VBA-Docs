@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[TickLabels](Word.TickLabels.md)' obj
 
 ## Remarks
 
-The value of this property can be an integer from -90 through 90 degrees or one of the  **[XlTickLabelOrientation](Word.xlticklabelorientation.md)** constants.
+The value of this property can be an integer from -90 through 90 degrees or one of the **[XlTickLabelOrientation](Word.xlticklabelorientation.md)** constants.
 
 
 ## See also

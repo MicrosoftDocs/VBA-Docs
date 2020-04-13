@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[Inspector](Outlook.Inspector.md)' o
 
 ## Remarks
 
-The  **AttachmentSelectionChange** event fires when a different or additional attachment of the item is selected in the inspector.
+The **AttachmentSelectionChange** event fires when a different or additional attachment of the item is selected in the inspector.
 
 
 ## See also

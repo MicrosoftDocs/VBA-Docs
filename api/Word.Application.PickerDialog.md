@@ -26,7 +26,7 @@ _expression_. `PickerDialog`
 
 ## Remarks
 
-The  **PickerDialog** object is available in the Microsoft Office type library. For more information, see the following objects and their members:
+The **PickerDialog** object is available in the Microsoft Office type library. For more information, see the following objects and their members:
 
 
 - [PickerDialog](Office.PickerDialog.md)

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # InlineShape object (Word)
 
-Represents an object in the text layer of a document. An inline shape can only be a picture, an OLE object, or an ActiveX control. The  **InlineShape** object is a member of the **[InlineShapes](Word.inlineshapes.md)** collection. The **InlineShapes** collection contains all the shapes that appear inline in a document, range, or selection.
+Represents an object in the text layer of a document. An inline shape can only be a picture, an OLE object, or an ActiveX control. The **InlineShape** object is a member of the **[InlineShapes](Word.inlineshapes.md)** collection. The **InlineShapes** collection contains all the shapes that appear inline in a document, range, or selection.
 
 
 ## Remarks

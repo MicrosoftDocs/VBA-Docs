@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Sources.Add method (Word)
 
-Add a new source to the sources listed in the  **Source Manager** dialog box.
+Add a new source to the sources listed in the **Source Manager** dialog box.
 
 
 ## Syntax

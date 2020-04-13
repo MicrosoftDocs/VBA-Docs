@@ -26,7 +26,7 @@ _expression_. `LeftRelative`
 
 ## Remarks
 
-Use this property with the  **[RelativeHorizontalPosition](Word.ShapeRange.RelativeHorizontalPosition.md)** property. When set to **wdShapePositionRelativeNone** (-999999) (see the **[WdShapePositionRelative](Word.WdShapePositionRelative.md)** enumeration), this property should be ignored because the shape does not use percent positioning. The horizontal position is solely determined by the **[Left](Word.ShapeRange.Left.md)** property.
+Use this property with the **[RelativeHorizontalPosition](Word.ShapeRange.RelativeHorizontalPosition.md)** property. When set to **wdShapePositionRelativeNone** (-999999) (see the **[WdShapePositionRelative](Word.WdShapePositionRelative.md)** enumeration), this property should be ignored because the shape does not use percent positioning. The horizontal position is solely determined by the **[Left](Word.ShapeRange.Left.md)** property.
 
 
 ## See also

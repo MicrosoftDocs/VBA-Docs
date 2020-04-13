@@ -30,7 +30,7 @@ _expression_. `EditTPStyle`( `_Style_`, `_FillColor_`, `_BorderColor_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Style_|Required|**PjTeamPlannerStyle**|Can be one of the  **[PjTeamPlannerStyle](Project.PjTeamPlannerStyle.md)** constants, which specify whether the task type is auto scheduled, manually scheduled, actual work, an external task, or a late task.|
+| _Style_|Required|**PjTeamPlannerStyle**|Can be one of the **[PjTeamPlannerStyle](Project.PjTeamPlannerStyle.md)** constants, which specify whether the task type is auto scheduled, manually scheduled, actual work, an external task, or a late task.|
 | _FillColor_|Optional|**Variant**|Fill color of the specified task type. Can be a hexadecimal RGB value, where red is the last byte.|
 | _BorderColor_|Optional|**Variant**|Border color of the specified task type. Can be a hexadecimal RGB value, where red is the last byte.|
 
@@ -41,7 +41,7 @@ _expression_. `EditTPStyle`( `_Style_`, `_FillColor_`, `_BorderColor_` )
 
 ## Remarks
 
-To see the available style colors in the Team Planner view, or to manually format the view, in the  **Team Planner Tools** section of the ribbon, choose the **Format** tab.
+To see the available style colors in the Team Planner view, or to manually format the view, in the **Team Planner Tools** section of the ribbon, choose the **Format** tab.
 
 
 ## Example

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Month.Count property (Project)
 
-Gets the number of days in the  **Month** object. Read-only **Integer**.
+Gets the number of days in the **Month** object. Read-only **Integer**.
 
 
 ## Syntax

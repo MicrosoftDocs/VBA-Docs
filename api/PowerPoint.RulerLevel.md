@@ -19,7 +19,7 @@ Contains first-line indent and hanging indent information for an outline level.
 
 ## Remarks
 
-The  **RulerLevel** object is a member of the **[RulerLevels](PowerPoint.RulerLevels.md)** collection. The **RulerLevels** collection contains a **RulerLevel** object for each of the five available outline levels.
+The **RulerLevel** object is a member of the **[RulerLevels](PowerPoint.RulerLevels.md)** collection. The **RulerLevels** collection contains a **RulerLevel** object for each of the five available outline levels.
 
 
 ## Example

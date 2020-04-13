@@ -16,7 +16,7 @@ If you want to run code in one Microsoft Office application that works with the 
 
 **To run the code**
 
-1. Set a reference to the other application's type library in the  **References** dialog box (**Tools** menu). Then, the objects, properties, and methods will appear in the Object Browser and the syntax will be checked at compile time. You can also get context-sensitive Help on them.
+1. Set a reference to the other application's type library in the **References** dialog box (**Tools** menu). Then, the objects, properties, and methods will appear in the Object Browser and the syntax will be checked at compile time. You can also get context-sensitive Help on them.
     
 2. Declare object variables that will refer to the objects in the other application as specific types. Qualify each type with the name of the application that is supplying the object. For example, the following statement declares a variable that points to a Microsoft Word document and another that refers to a Microsoft Excel workbook.
     
@@ -24,9 +24,9 @@ If you want to run code in one Microsoft Office application that works with the 
       Dim appWD As Word.Application, wbXL As Excel.Workbook
     ```
     
-     **Note**  You must follow the preceding steps if you want your code to be early bound.
+    **Note**  You must follow the preceding steps if you want your code to be early bound.
      
-3. Use the  **CreateObject** function with the [OLE Programmatic Identifiers](../../../api/overview/Excel.md) of the object you want to work with in the other application, as shown in the following example. To see the session of the other application, set the **Visible** property to **True**.
+3. Use the **CreateObject** function with the [OLE Programmatic Identifiers](../../../api/overview/Excel.md) of the object you want to work with in the other application, as shown in the following example. To see the session of the other application, set the **Visible** property to **True**.
         
     ```vb
       Dim appWD As Word.Application 
@@ -44,7 +44,7 @@ If you want to run code in one Microsoft Office application that works with the 
     appWD.Documents.Add
     ```
 
-5. When finished working with the other application, use the  **Quit** method to close it, and then set its object variable to **Nothing** to free any memory it is using, as shown in the following example.
+5. When finished working with the other application, use the **Quit** method to close it, and then set its object variable to **Nothing** to free any memory it is using, as shown in the following example.
     
     ```vb
     appWd.Quit 
@@ -83,8 +83,8 @@ End Sub
 ```
 
 **Sample code provided by:** Dennis Wallentin, [VSTO & .NET & Excel](https://xldennis.wordpress.com/)
-This example takes the cells values from a named range,  **W_Data**, that contains three values and inserts those values into a Word document. The values are inserted at bookmarked locations named  **td1**,  **td2**, and  **td3**.
-For this example to run, you must have a range named  **W_Data** that contains three values on **Sheet1** in the workbook. You must have a Word document named **Test.docx** saved in the same location as the Excel workbook, and the Word document must have three bookmarks named **td1**,  **td2**, and  **td3**.
+This example takes the cells values from a named range, **W_Data**, that contains three values and inserts those values into a Word document. The values are inserted at bookmarked locations named **td1**, **td2**, and **td3**.
+For this example to run, you must have a range named **W_Data** that contains three values on **Sheet1** in the workbook. You must have a Word document named **Test.docx** saved in the same location as the Excel workbook, and the Word document must have three bookmarks named **td1**, **td2**, and **td3**.
 
 ```vb
 ' You must pick Microsoft Word Object Library from Tools>References

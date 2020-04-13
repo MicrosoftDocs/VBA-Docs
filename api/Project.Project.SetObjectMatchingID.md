@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Project.SetObjectMatchingID method (Project)
 
-Sets the matching identification value of an object in the  **Organizer** dialog box, for example to change the view specified by "Gantt Chart".
+Sets the matching identification value of an object in the **Organizer** dialog box, for example to change the view specified by "Gantt Chart".
 
 
 ## Syntax

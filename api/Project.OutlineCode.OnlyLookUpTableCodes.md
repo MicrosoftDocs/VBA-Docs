@@ -32,7 +32,7 @@ The following example adds a custom outline code to store the location of resour
 
 
 > [!NOTE] 
-> The  **OnlyLookUpTableCodes** property can be set only after the lookup table contains entries. If you try to set **OnlyLookUpTableCodes** before creating lookup table entries, the result is run-time error 7, "Out of memory."
+> The **OnlyLookUpTableCodes** property can be set only after the lookup table contains entries. If you try to set **OnlyLookUpTableCodes** before creating lookup table entries, the result is run-time error 7, "Out of memory."
 
 
 ```vb

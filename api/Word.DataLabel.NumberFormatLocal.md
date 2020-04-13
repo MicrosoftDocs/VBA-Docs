@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[DataLabel](Word.DataLabel.md)' objec
 
 ## Remarks
 
-The  **Format** function uses different format code strings than do the **[NumberFormat](Word.DataLabel.NumberFormat.md)** and **NumberFormatLocal** properties.
+The **Format** function uses different format code strings than do the **[NumberFormat](Word.DataLabel.NumberFormat.md)** and **NumberFormatLocal** properties.
 
 
 ## See also

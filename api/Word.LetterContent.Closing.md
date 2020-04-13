@@ -33,7 +33,7 @@ This example displays the closing text from the active document.
 MsgBox ActiveDocument.GetLetterContent.Closing
 ```
 
-This example retrieves letter elements from the active document, changes the closing text by setting the  **Closing** property, and then uses the **[SetLetterContent](Word.Document.SetLetterContent.md)** method to update the document to reflect the changes.
+This example retrieves letter elements from the active document, changes the closing text by setting the **Closing** property, and then uses the **[SetLetterContent](Word.Document.SetLetterContent.md)** method to update the document to reflect the changes.
 
 
 

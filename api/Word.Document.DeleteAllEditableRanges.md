@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-You can also use the  **[DeleteAll](Word.Editor.DeleteAll.md)** method to delete permissions in all ranges for which a specified user or group of users has permission to modify.
+You can also use the **[DeleteAll](Word.Editor.DeleteAll.md)** method to delete permissions in all ranges for which a specified user or group of users has permission to modify.
 
 
 ## Example

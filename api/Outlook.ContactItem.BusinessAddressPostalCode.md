@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.BusinessAddressPostalCode property (Outlook)
 
-Returns or sets a  **String** representing the postal code (ZIP Code) portion of the business address for the contact. Read/write.
+Returns or sets a **String** representing the postal code (ZIP Code) portion of the business address for the contact. Read/write.
 
 
 ## Syntax

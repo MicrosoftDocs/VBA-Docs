@@ -19,7 +19,7 @@ Contains information about the email signatures used by Microsoft Word when you 
 
 ## Remarks
 
-Use the  **EmailSignature** property to return the **EmailSignature** object.
+Use the **EmailSignature** property to return the **EmailSignature** object.
 
 This example changes the signatures Word appends to new outgoing email messages and email message replies.
 

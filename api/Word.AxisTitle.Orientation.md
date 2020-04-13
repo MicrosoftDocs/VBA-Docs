@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[AxisTitle](Word.AxisTitle.md)' obje
 
 ## Remarks
 
-The value of this property can be an integer value from -90 to 90 degrees or one of the  **[XlOrientation](Word.xlorientation.md)** constants.
+The value of this property can be an integer value from -90 to 90 degrees or one of the **[XlOrientation](Word.xlorientation.md)** constants.
 
 
 ## See also

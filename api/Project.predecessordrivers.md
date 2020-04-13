@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # PredecessorDrivers object (Project)
 
-The  **PredecessorDrivers** object is a collection of **[TaskDependency](Project.TaskDependency.md)** objects that affect a task start date.
+The **PredecessorDrivers** object is a collection of **[TaskDependency](Project.TaskDependency.md)** objects that affect a task start date.
  
 
 
@@ -19,7 +19,7 @@ The  **PredecessorDrivers** object is a collection of **[TaskDependency](Project
  
 
  
-Use the  **[Item](Project.PredecessorDrivers.Item.md)** property to get a single task dependency from the **PredecessorDrivers** collection.
+Use the **[Item](Project.PredecessorDrivers.Item.md)** property to get a single task dependency from the **PredecessorDrivers** collection.
  
 
  

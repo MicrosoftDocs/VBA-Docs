@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-This property is ignored if the  **FarEastLineBreakControl** property is set to **False**.
+This property is ignored if the **FarEastLineBreakControl** property is set to **False**.
 
 For more information on using Microsoft Word with East Asian languages, see Word features for East Asian languages .
 

@@ -26,9 +26,9 @@ _expression_ Required. A variable that represents a '[Zoom](Word.Zoom.md)' objec
 
 ## Remarks
 
-The  **wdPageFitFullPage** constant has no effect if the document isn't in print view.
+The **wdPageFitFullPage** constant has no effect if the document isn't in print view.
 
-When the  **PageFit** property is set to **wdPageFitBestFit**, the zoom percentage is automatically recalculated every time the document window size is changed. Setting this property to **wdPageFitNone** keeps the zoom percentage from being recalculated whenever this happens.
+When the **PageFit** property is set to **wdPageFitBestFit**, the zoom percentage is automatically recalculated every time the document window size is changed. Setting this property to **wdPageFitNone** keeps the zoom percentage from being recalculated whenever this happens.
 
 
 ## Example

@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Variable](Word.Variable.md
 
 ## Example
 
-This example adds a document variable to the active document and then returns the position of the specified variable in the  **Variables** collection.
+This example adds a document variable to the active document and then returns the position of the specified variable in the **Variables** collection.
 
 
 ```vb

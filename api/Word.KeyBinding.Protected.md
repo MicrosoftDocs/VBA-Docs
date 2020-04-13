@@ -26,9 +26,9 @@ _expression_. `Protected`
 
 ## Remarks
 
-You can access the  **Customize Keyboard** dialog box from the **Tools** menu; click **Customize**, and then click the  **Keyboard** button.
+You can access the **Customize Keyboard** dialog box from the **Tools** menu; click **Customize**, and then click the **Keyboard** button.
 
-Use the  **[Add](Word.KeyBindings.Add.md)** method of the **[KeyBindings](Word.keybindings.md)** object to add a key binding regardless of the protected status.
+Use the **[Add](Word.KeyBindings.Add.md)** method of the **[KeyBindings](Word.keybindings.md)** object to add a key binding regardless of the protected status.
 
 
 ## Example

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # OutlineCodes.Count property (Project)
 
-Gets the number of items in the  **OutlineCodes** collection. Read-only **Long**.
+Gets the number of items in the **OutlineCodes** collection. Read-only **Long**.
 
 
 ## Syntax

@@ -41,7 +41,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Using the  **ZoomCalendar** method without specifying any arguments displays the **Zoom** dialog box.
+Using the **ZoomCalendar** method without specifying any arguments displays the **Zoom** dialog box.
 
 
 ## Example

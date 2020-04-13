@@ -19,7 +19,7 @@ Represents a specialized action (for example, the voting options response) that 
 
 ## Remarks
 
-The  **Action** object is a member of the **[Actions](Outlook.Actions.md)** collection.
+The **Action** object is a member of the **[Actions](Outlook.Actions.md)** collection.
 
 Use  **[Actions](Outlook.MailItem.Actions.md)** (_index_), where _index_ is the name of an available action, to return a single **Action** object from the **Actions** collection object of an Outlook item, such as **[MailItem](Outlook.MailItem.md)**.
 

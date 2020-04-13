@@ -30,12 +30,12 @@ This property returns  **False** if the document was created or opened programma
 
 
 > [!NOTE] 
-> If Word is visible to the user or if you call the  **UserControl** property from within a Word code module, this property will always return **True**.
+> If Word is visible to the user or if you call the **UserControl** property from within a Word code module, this property will always return **True**.
 
 
 ## Example
 
-This example displays the status of the  **UserControl** property for the active document. This example will only work correctly when run from another Office application with the Word object library loaded.
+This example displays the status of the **UserControl** property for the active document. This example will only work correctly when run from another Office application with the Word object library loaded.
 
 
 ```vb

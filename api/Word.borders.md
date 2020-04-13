@@ -14,7 +14,7 @@ A collection of  **[Border](Word.Border.md)** objects that represent the borders
 
 ## Remarks
 
-Use the  **Borders** property to return the **Borders** collection. The following example applies the default border around the first paragraph in the active document.
+Use the **Borders** property to return the **Borders** collection. The following example applies the default border around the first paragraph in the active document.
 
 
 ```vb
@@ -25,7 +25,7 @@ ActiveDocument.Paragraphs(1).Borders.Enable = True
 
 Use  **Borders** (index), where index identifies the border, to return a single **Border** object. Index can be one of the **[WdBorderType](Word.WdBorderType.md)** constants. Some of the **WdBorderType** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
 
-Use the  **[LineStyle](Word.Border.LineStyle.md)** property to apply a border line to a **Border** object. The following example applies a double-line border below the first paragraph in the active document.
+Use the **[LineStyle](Word.Border.LineStyle.md)** property to apply a border line to a **Border** object. The following example applies a double-line border below the first paragraph in the active document.
 
 
 

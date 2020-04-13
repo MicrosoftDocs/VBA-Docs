@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MeetingItem.DeferredDeliveryTime property (Outlook)
 
-Returns or sets a  **Date** indicating the date and time the mail message is to be delivered. Read/write.
+Returns or sets a **Date** indicating the date and time the mail message is to be delivered. Read/write.
 
 
 ## Syntax

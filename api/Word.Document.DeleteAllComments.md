@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.DeleteAllComments method (Word)
 
-Deletes all comments from the  **[Comments](Word.comments.md)** collection in a document.
+Deletes all comments from the **[Comments](Word.comments.md)** collection in a document.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-Use the  **Add** method for the **[Comments](Word.comments.md)** object to add a comment to a document.
+Use the **Add** method for the **[Comments](Word.comments.md)** object to add a comment to a document.
 
 
 ## Example

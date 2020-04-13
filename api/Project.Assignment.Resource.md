@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Assignment.Resource property (Project)
 
-Gets the  **[Resource](Project.Resource.md)** object associated with the **[Assignment](Project.Assignment.md)**. Read-only **Resource**.
+Gets the **[Resource](Project.Resource.md)** object associated with the **[Assignment](Project.Assignment.md)**. Read-only **Resource**.
 
 
 ## Syntax

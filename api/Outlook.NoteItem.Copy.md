@@ -26,7 +26,7 @@ _expression_.**Copy**
 
 ## Return value
 
-A  **[NoteItem](Outlook.NoteItem.md)** object that represents a copy of the specified note.
+A **[NoteItem](Outlook.NoteItem.md)** object that represents a copy of the specified note.
 
 
 ## Example

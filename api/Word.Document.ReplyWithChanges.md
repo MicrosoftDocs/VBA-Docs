@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-Use the  **SendForReview** method to start a collaborative review of a document. If the **ReplyWithChanges** method is executed on a document that is not part of a collaborative review cycle, Microsoft Word displays an error message.
+Use the **SendForReview** method to start a collaborative review of a document. If the **ReplyWithChanges** method is executed on a document that is not part of a collaborative review cycle, Microsoft Word displays an error message.
 
 
 ## Example

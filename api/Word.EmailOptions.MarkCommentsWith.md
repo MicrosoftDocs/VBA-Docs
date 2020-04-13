@@ -26,7 +26,7 @@ _expression_. `MarkCommentsWith`
 
 ## Remarks
 
-The default value is the value of the  **[UserName](Word.Application.UserName.md)** property.
+The default value is the value of the **[UserName](Word.Application.UserName.md)** property.
 
 
 ## Example

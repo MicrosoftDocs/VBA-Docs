@@ -9,13 +9,13 @@ localization_priority: Normal
 
 # TextBox.LineCount Property (Outlook Forms Script)
 
-Returns a  **Long** that specifies the number of text lines in a **[TextBox](Outlook.textbox.md)**. Read-only.
+Returns a **Long** that specifies the number of text lines in a **[TextBox](Outlook.textbox.md)**. Read-only.
 
 
 ## Syntax
 
 _expression_.**LineCount**
 
-_expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a **TextBox** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

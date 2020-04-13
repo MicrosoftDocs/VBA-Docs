@@ -19,18 +19,18 @@ Represents the font used when formatting text in various portions of a view.
 
 ## Remarks
 
-The  **ViewFont** object is used by the following objects to represent font formatting information applied to the text in various portions of a view:
+The **ViewFont** object is used by the following objects to represent font formatting information applied to the text in various portions of a view:
 
 
-- The  **[HeadingsFont](Outlook.businessCardView.HeadingsFont.md)** property of the **[BusinessCardView](Outlook.businessCardView.md)** object.
+- The **[HeadingsFont](Outlook.businessCardView.HeadingsFont.md)** property of the **[BusinessCardView](Outlook.businessCardView.md)** object.
     
-- The  **[DayWeekFont](overview/Outlook.md)**, **[DayWeekTimeFont](overview/Outlook.md)**, and **[MonthFont](overview/Outlook.md)** properties of the **[CalendarView](Outlook.CalendarView.md)** object.
+- The **[DayWeekFont](overview/Outlook.md)**, **[DayWeekTimeFont](overview/Outlook.md)**, and **[MonthFont](overview/Outlook.md)** properties of the **[CalendarView](Outlook.CalendarView.md)** object.
     
-- The  **[BodyFont](Outlook.CardView.BodyFont.md)** and **[HeadingsFont](Outlook.CardView.HeadingsFont.md)** properties of the **[CardView](Outlook.CardView.md)** object.
+- The **[BodyFont](Outlook.CardView.BodyFont.md)** and **[HeadingsFont](Outlook.CardView.HeadingsFont.md)** properties of the **[CardView](Outlook.CardView.md)** object.
     
-- The  **[AutoPreviewFont](Outlook.TableView.AutoPreviewFont.md)**, **[ColumnFont](Outlook.TableView.ColumnFont.md)**, and **[RowFont](Outlook.TableView.RowFont.md)** properties of the **[TableView](Outlook.TableView.md)** object.
+- The **[AutoPreviewFont](Outlook.TableView.AutoPreviewFont.md)**, **[ColumnFont](Outlook.TableView.ColumnFont.md)**, and **[RowFont](Outlook.TableView.RowFont.md)** properties of the **[TableView](Outlook.TableView.md)** object.
     
-- The  **[ItemFont](Outlook.TimelineView.ItemFont.md)**, **[LowerScaleFont](Outlook.TimelineView.LowerScaleFont.md)**, and **[UpperScaleFont](Outlook.TimelineView.UpperScaleFont.md)** properties of the **[TimelineView](Outlook.TimelineView.md)** object.
+- The **[ItemFont](Outlook.TimelineView.ItemFont.md)**, **[LowerScaleFont](Outlook.TimelineView.LowerScaleFont.md)**, and **[UpperScaleFont](Outlook.TimelineView.UpperScaleFont.md)** properties of the **[TimelineView](Outlook.TimelineView.md)** object.
     
 
 ## Example

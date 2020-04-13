@@ -26,7 +26,7 @@ _expression_. `FormattingShowUserStyleName`
 
 ## Remarks
 
-This property corresponds to the  **Hide built-in name when alternate names exists** check box in the **Styles Gallery Options** dialog box. Setting the **FormattingShowUserStyleName** property to **True** hides built-in styles when alternate user-defined styles exist. For example, if a user creates a heading style, such as Heading 1 or Heading 2, to take advantage of other built-in features of Microsoft Word, such as tables of contents, the user-defined style takes precedence, and the similarly named built-in style is not shown in the list of style names.
+This property corresponds to the **Hide built-in name when alternate names exists** check box in the **Styles Gallery Options** dialog box. Setting the **FormattingShowUserStyleName** property to **True** hides built-in styles when alternate user-defined styles exist. For example, if a user creates a heading style, such as Heading 1 or Heading 2, to take advantage of other built-in features of Microsoft Word, such as tables of contents, the user-defined style takes precedence, and the similarly named built-in style is not shown in the list of style names.
 
 
 ## See also

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MenuItems.AddAt method (Visio)
 
-Creates a new  **MenuItem** object at a specified index in the **MenuItems** collection.
+Creates a new **MenuItem** object at a specified index in the **MenuItems** collection.
 
 
 ## Syntax

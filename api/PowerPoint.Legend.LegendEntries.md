@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Legend](PowerPoint.Legend.md)' objec
 
 ## Return value
 
-A  **[LegendEntries](PowerPoint.LegendEntries.md)** object that represents the legend entries for the legend.
+A **[LegendEntries](PowerPoint.LegendEntries.md)** object that represents the legend entries for the legend.
 
 
 ## Example

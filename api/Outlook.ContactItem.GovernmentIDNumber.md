@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.GovernmentIDNumber property (Outlook)
 
-Returns or sets a  **String** representing the government ID number for the contact. Read/write.
+Returns or sets a **String** representing the government ID number for the contact. Read/write.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.SaveCompletedToServer event (Project)
 
-Occurs when Project Professional successfully puts the  **Project Save** job in the Project Server Queue.
+Occurs when Project Professional successfully puts the **Project Save** job in the Project Server Queue.
 
 
 ## Syntax

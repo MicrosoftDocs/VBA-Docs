@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The  **Is** operator is used to determine if an expression is **Null**. You can use the **Is** operator in an expression only with NULL or NOT NULL.
+The **Is** operator is used to determine if an expression is **Null**. You can use the **Is** operator in an expression only with NULL or NOT NULL.
 
 ## See also
 

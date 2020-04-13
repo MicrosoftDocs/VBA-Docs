@@ -26,7 +26,7 @@ _expression_. `PasteFormatWithinDocument`
 
 ## Remarks
 
-Corresponds to the  **Pasting within the same document** option in the **Advanced** tab of the **Word Options** dialog box.
+Corresponds to the **Pasting within the same document** option in the **Advanced** tab of the **Word Options** dialog box.
 
 
 ## See also

@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Stores](Outlook.Stores.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Store_|Required| **Store**|The  **Store** to be added to the current session.|
+| _Store_|Required| **Store**|The **Store** to be added to the current session.|
 
 ## Remarks
 

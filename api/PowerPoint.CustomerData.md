@@ -40,12 +40,12 @@ You can use customer data in the same way that you used  **[Tags](PowerPoint.Tag
 
 You can associate customer data in PowerPoint with external data by storing the IDs of custom XML parts in a spreadsheet or database along with the external data.
 
-When you copy an object that contains customer data, the customer data is copied to the new object. PowerPoint creates a new  **CustomXMLPart** object to hold the copied data, because two **CustomLayout**, **Master**, **Presentation**, **Shape**, or **Slide** objects can never be associated with the same **CustomXMLPart** object.
+When you copy an object that contains customer data, the customer data is copied to the new object. PowerPoint creates a new **CustomXMLPart** object to hold the copied data, because two **CustomLayout**, **Master**, **Presentation**, **Shape**, or **Slide** objects can never be associated with the same **CustomXMLPart** object.
 
 
 ## Example
 
-The following example shows how to add a  **CustomXMLPart** object to the **CustomerData** collection of the first shape on the first slide of the active presentation, and how to load an XML string into the custom XML part. It prints the ID of the custom XML part and the XML string in the Immediate window.
+The following example shows how to add a **CustomXMLPart** object to the **CustomerData** collection of the first shape on the first slide of the active presentation, and how to load an XML string into the custom XML part. It prints the ID of the custom XML part and the XML string in the Immediate window.
 
 
 ```vb

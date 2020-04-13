@@ -48,7 +48,7 @@ With myRange.Font
 End With
 ```
 
-This example inserts text at the end of the document named "Changes.doc." The  **For Each...Next** statement is used to determine whether the document is open.
+This example inserts text at the end of the document named "Changes.doc." The **For Each...Next** statement is used to determine whether the document is open.
 
 
 

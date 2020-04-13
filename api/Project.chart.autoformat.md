@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _rGallery_|Required|**Long**|One of the constants of the  **Office.XlChartType** enumeration, which specifies the chart type.|
+| _rGallery_|Required|**Long**|One of the constants of the **Office.XlChartType** enumeration, which specifies the chart type.|
 | _varFormat_|Optional|**Variant**|The option number for the built-in autoformats. Can be a number from 1 through 10, depending on the gallery type. If the  _varFormat_ argument is omitted, Project chooses a default value based on the gallery type and data source.|
 | _rGallery_|Required|INT32||
 | _varFormat_|Optional|**Variant**||

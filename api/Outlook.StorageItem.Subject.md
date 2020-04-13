@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # StorageItem.Subject property (Outlook)
 
-Returns or sets a  **String** indicating the subject for the Outlook item. Read/write.
+Returns or sets a **String** indicating the subject for the Outlook item. Read/write.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ A variable that represents a [StorageItem](Outlook.StorageItem.md) 
 
 This property corresponds to the MAPI property,  **PidTagSubject**. The **Subject** property is the default property for Outlook items.
 
-The  **Subject** serves as a unique identifier for **[StorageItem](Outlook.StorageItem.md)** objects. You should set the subject in a way to ensure that the objects are unique and would not be overwritten by other solution writers. The recommended practice is to use a **ProgID** plus other unique text to identify the **StorageItem**.
+The **Subject** serves as a unique identifier for **[StorageItem](Outlook.StorageItem.md)** objects. You should set the subject in a way to ensure that the objects are unique and would not be overwritten by other solution writers. The recommended practice is to use a **ProgID** plus other unique text to identify the **StorageItem**.
 
 
 ## See also

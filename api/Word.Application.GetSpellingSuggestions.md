@@ -36,7 +36,7 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 
 ## Remarks
 
-If the word is spelled correctly, the  **Count** property of the **[SpellingSuggestions](Word.spellingsuggestions.md)** object returns 0 (zero).
+If the word is spelled correctly, the **Count** property of the **[SpellingSuggestions](Word.spellingsuggestions.md)** object returns 0 (zero).
 
 
 ## See also

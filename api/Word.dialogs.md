@@ -14,14 +14,14 @@ A collection of  **[Dialog](Word.Dialog.md)** objects in Word. Each **Dialog** o
 
 ## Remarks
 
-Use the  **[Dialogs](Word.Application.Dialogs.md)** property to return the **Dialogs** collection. The following example displays the number of available built-in dialog boxes.
+Use the **[Dialogs](Word.Application.Dialogs.md)** property to return the **Dialogs** collection. The following example displays the number of available built-in dialog boxes.
 
 
 ```vb
 MsgBox Dialogs.Count
 ```
 
-You cannot create a new built-in dialog box or add one to the  **Dialogs** collection. Use **Dialogs** (Index), where Index is the **[WdWordDialog](Word.WdWordDialog.md)** constant that identifies the dialog box, to return a single **Dialog** object. The following example displays the built-in **Open** dialog box.
+You cannot create a new built-in dialog box or add one to the **Dialogs** collection. Use **Dialogs** (Index), where Index is the **[WdWordDialog](Word.WdWordDialog.md)** constant that identifies the dialog box, to return a single **Dialog** object. The following example displays the built-in **Open** dialog box.
 
 
 

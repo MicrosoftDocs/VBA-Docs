@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.DeferredDeliveryTime property (Outlook)
 
-Returns or sets a  **Date** indicating the date and time the **[SharingItem](Outlook.SharingItem.md)** is to be delivered. Read/write.
+Returns or sets a **Date** indicating the date and time the **[SharingItem](Outlook.SharingItem.md)** is to be delivered. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ListFormat.ListPictureBullet property (Word)
 
-Returns the  **[InlineShape](Word.InlineShape.md)** object that represents the picture used as a bullet in a picture bulleted list.
+Returns the **[InlineShape](Word.InlineShape.md)** object that represents the picture used as a bullet in a picture bulleted list.
 
 
 ## Syntax

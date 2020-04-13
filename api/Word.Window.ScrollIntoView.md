@@ -28,7 +28,7 @@ _expression_ Required. A variable that represents a **[Window](Word.Window.md)**
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Obj_|Required| **Object**|A  **Range** or **Shape** object.|
+| _Obj_|Required| **Object**|A **Range** or **Shape** object.|
 | _Start_|Optional| **Boolean**| **True** if the upper-left corner of the range or shape appears at the upper-left corner of the document window. **False** if the lower-right corner of the range or shape appears at the lower-right corner of the document window. The default value is **True**.|
 
 ## Remarks

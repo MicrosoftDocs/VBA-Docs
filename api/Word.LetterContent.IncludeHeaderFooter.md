@@ -26,7 +26,7 @@ _expression_. `IncludeHeaderFooter`
 
 ## Example
 
-This example creates a new  **LetterContent** object, includes the header and footer from the Contemporary Letter template, and then runs the Letter Wizard by using the **[RunLetterWizard](Word.Document.RunLetterWizard.md)** method.
+This example creates a new **LetterContent** object, includes the header and footer from the Contemporary Letter template, and then runs the Letter Wizard by using the **[RunLetterWizard](Word.Document.RunLetterWizard.md)** method.
 
 
 ```vb

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormDescription.CategorySub property (Outlook)
 
-Returns or sets a  **String** representing the subcategory assigned to the form description. Read/write.
+Returns or sets a **String** representing the subcategory assigned to the form description. Read/write.
 
 
 ## Syntax

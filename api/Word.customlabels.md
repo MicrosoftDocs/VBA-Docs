@@ -14,14 +14,14 @@ A collection of  **CustomLabel** objects available in the **Label Options** dial
 
 ## Remarks
 
-Use the  **CustomLabels** property to return the **CustomLabels** collection. The following example displays the number of available custom labels.
+Use the **CustomLabels** property to return the **CustomLabels** collection. The following example displays the number of available custom labels.
 
 
 ```vb
 MsgBox Application.MailingLabel.CustomLabels.Count
 ```
 
-Use the  **[Add](Word.CustomLabels.Add.md)** method to create a custom label. The following example adds a custom mailing label named "My Label" and sets the page size.
+Use the **[Add](Word.CustomLabels.Add.md)** method to create a custom label. The following example adds a custom mailing label named "My Label" and sets the page size.
 
 
 
@@ -47,7 +47,7 @@ Else
 End If
 ```
 
-The index number represents the position of the custom mailing label in the  **CustomLabels** collection. The following example displays the name of the first custom mailing label.
+The index number represents the position of the custom mailing label in the **CustomLabels** collection. The following example displays the name of the first custom mailing label.
 
 
 

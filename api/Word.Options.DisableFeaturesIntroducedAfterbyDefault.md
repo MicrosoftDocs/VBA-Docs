@@ -26,9 +26,9 @@ _expression_ Required. A variable that represents an **[Options](Word.Options.md
 
 ## Remarks
 
-The  **DisableFeaturesByDefault** property must be set to **True** prior to setting the **DisableFeaturesIntroducedAfterByDefault** property. Otherwise, the setting will not take effect and will remain at its default setting of Word 97 for Windows.
+The **DisableFeaturesByDefault** property must be set to **True** prior to setting the **DisableFeaturesIntroducedAfterByDefault** property. Otherwise, the setting will not take effect and will remain at its default setting of Word 97 for Windows.
 
-The  **DisableFeaturesIntroducedAfterByDefault** property sets a global option for the application and affects all documents. If you want to disable features introduced after a specified version for a document only, use the **DisableFeaturesIntroducedAfter** property.
+The **DisableFeaturesIntroducedAfterByDefault** property sets a global option for the application and affects all documents. If you want to disable features introduced after a specified version for a document only, use the **DisableFeaturesIntroducedAfter** property.
 
 
 ## Example

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.LoadWebPane event (Project)
 
-Occurs when Project loads a Web pane for  **Task Drivers**,  **Deliverables**, or the  **Project/Resource Import Wizard**.
+Occurs when Project loads a Web pane for  **Task Drivers**,  **Deliverables**, or the **Project/Resource Import Wizard**.
 
 
 ## Syntax
@@ -27,8 +27,8 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Window_|Required|**Window**|The window from where the  **LoadWebBrowserControl** method was called.|
-| _TargetPage_|Required|**String**|The same TargetPage parameter that was used to call the  **LoadWebBrowserControl** method.|
+| _Window_|Required|**Window**|The window from where the **LoadWebBrowserControl** method was called.|
+| _TargetPage_|Required|**String**|The same TargetPage parameter that was used to call the **LoadWebBrowserControl** method.|
 
 ## Return value
 

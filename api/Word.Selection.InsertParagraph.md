@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 ## Remarks
 
-After using method, the selection contains the new paragraph. If you don't want to replace the current selection, use the  **Collapse** method before using this method. You can also use the **[InsertParagraphBefore](Word.Selection.InsertParagraphBefore.md)** or **[InsertParagraphAfter](Word.Selection.InsertParagraphAfter.md)** method to insert a new paragraph before or after a selection.
+After using method, the selection contains the new paragraph. If you don't want to replace the current selection, use the **Collapse** method before using this method. You can also use the **[InsertParagraphBefore](Word.Selection.InsertParagraphBefore.md)** or **[InsertParagraphAfter](Word.Selection.InsertParagraphAfter.md)** method to insert a new paragraph before or after a selection.
 
 
 ## Example

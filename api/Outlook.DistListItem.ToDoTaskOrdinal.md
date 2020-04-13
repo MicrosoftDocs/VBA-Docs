@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DistListItem.ToDoTaskOrdinal property (Outlook)
 
-Returns or sets a  **Date** value that represents the ordinal value of the task for the **[DistListItem](Outlook.DistListItem.md)**. Read/write.
+Returns or sets a **Date** value that represents the ordinal value of the task for the **[DistListItem](Outlook.DistListItem.md)**. Read/write.
 
 
 ## Syntax

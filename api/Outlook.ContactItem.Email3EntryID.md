@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.Email3EntryID property (Outlook)
 
-Returns a  **String** representing the entry ID of the third email entry for the contact. Read-only.
+Returns a **String** representing the entry ID of the third email entry for the contact. Read-only.
 
 
 ## Syntax

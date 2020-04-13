@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # Return without GoSub (Error 3)
 
-A  **Return** statement must have a corresponding **GoSub** statement. This error has the following cause and solution:
+A **Return** statement must have a corresponding **GoSub** statement. This error has the following cause and solution:
 
 
 
-- You have a  **Return** statement that can't be matched with a **GoSub** statement. Make sure your **GoSub** statement wasn't inadvertently deleted.
+- You have a **Return** statement that can't be matched with a **GoSub** statement. Make sure your **GoSub** statement wasn't inadvertently deleted.
     
 
-Unlike  **For...Next**, **While...Wend**, and **Sub...End Sub**, which are matched at [compile time](../../Glossary/vbe-glossary.md#compile-time),  **GoSub** and **Return** are matched at [run time](../../Glossary/vbe-glossary.md#run-time).
+Unlike **For...Next**, **While...Wend**, and **Sub...End Sub**, which are matched at [compile time](../../Glossary/vbe-glossary.md#compile-time), **GoSub** and **Return** are matched at [run time](../../Glossary/vbe-glossary.md#run-time).
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

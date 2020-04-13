@@ -41,6 +41,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Using the  **SelectTaskCell** method without specifying any arguments retains the current cell as the active cell. The **SelectTaskCell** method is only available when the Gantt Chart, Task Sheet, or Task Usage view is the active view.
+Using the **SelectTaskCell** method without specifying any arguments retains the current cell as the active cell. The **SelectTaskCell** method is only available when the Gantt Chart, Task Sheet, or Task Usage view is the active view.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

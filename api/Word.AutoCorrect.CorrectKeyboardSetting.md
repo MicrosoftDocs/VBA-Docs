@@ -26,7 +26,7 @@ _expression_. `CorrectKeyboardSetting`
 
 ## Remarks
 
-The  **[CheckLanguage](Word.Application.CheckLanguage.md)** property must be set to **True** to use the **CorrectKeyboardSetting** property.
+The **[CheckLanguage](Word.Application.CheckLanguage.md)** property must be set to **True** to use the **CorrectKeyboardSetting** property.
 
 
 ## Example

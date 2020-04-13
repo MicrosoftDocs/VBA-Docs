@@ -26,9 +26,9 @@ _expression_ Required. A variable that represents a **[Shape](Word.Shape.md)** o
 
 ## Remarks
 
-You can use the array returned by this property as an argument for the  **AddCurve** or **AddPolyLine** method.
+You can use the array returned by this property as an argument for the **AddCurve** or **AddPolyLine** method.
 
-The following table shows how the  **Vertices** property associates values in the array _vertArray()_ with the coordinates of a triangle's vertices.
+The following table shows how the **Vertices** property associates values in the array _vertArray()_ with the coordinates of a triangle's vertices.
 
 
 

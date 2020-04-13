@@ -31,10 +31,10 @@ _expression_. `ResourceComparison`
 
 ## Remarks
 
-Use the  **CompareProjectVersions** method to create a project comparison report, or choose **Compare Projects** on the **PROJECT** ribbon.
+Use the **CompareProjectVersions** method to create a project comparison report, or choose **Compare Projects** on the **PROJECT** ribbon.
 
-The  **ResourceComparison** method is equivalent to the **Resource Comparison** command on the **Compare Projects** tab on the ribbon.
+The **ResourceComparison** method is equivalent to the **Resource Comparison** command on the **Compare Projects** tab on the ribbon.
 
-To compare tasks in a comparison report, use the  **[TaskComparison](Project.Application.TaskComparison.md)** method.
+To compare tasks in a comparison report, use the **[TaskComparison](Project.Application.TaskComparison.md)** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

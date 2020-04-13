@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskRequestUpdateItem.Body property (Outlook)
 
-Returns or sets a  **String** representing the clear-text body of the Outlook item. Read/write.
+Returns or sets a **String** representing the clear-text body of the Outlook item. Read/write.
 
 
 ## Syntax

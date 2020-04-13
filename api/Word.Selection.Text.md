@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Selection](Word.Selection.md)** obj
 
 ## Remarks
 
-The  **Text** property returns the plain, unformatted text of the selection. When you set this property, the text of the range or selection is replaced.
+The **Text** property returns the plain, unformatted text of the selection. When you set this property, the text of the range or selection is replaced.
 
 
 ## Example

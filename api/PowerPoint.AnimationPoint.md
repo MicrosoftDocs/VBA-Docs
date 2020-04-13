@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AnimationPoint object (PowerPoint)
 
-Represents an individual animation point for an animation behavior. The  **AnimationPoint** object is a member of the **[AnimationPoints](PowerPoint.AnimationPoints.md)** collection. The **AnimationPoints** collection contains all the animation points for an animation behavior.
+Represents an individual animation point for an animation behavior. The **AnimationPoint** object is a member of the **[AnimationPoints](PowerPoint.AnimationPoints.md)** collection. The **AnimationPoints** collection contains all the animation points for an animation behavior.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # StorageItem.EntryID property (Outlook)
 
-Returns a  **String** representing the unique Entry ID of the object. Read-only.
+Returns a **String** representing the unique Entry ID of the object. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [StorageItem](Outlook.StorageItem.md) 
 
 ## Remarks
 
-The EntryID is one of the three means to identify a  **[StorageItem](Outlook.StorageItem.md)** object using **[Folder.GetStorage](Outlook.Folder.GetStorage.md)**.
+The EntryID is one of the three means to identify a **[StorageItem](Outlook.StorageItem.md)** object using **[Folder.GetStorage](Outlook.Folder.GetStorage.md)**.
 
 This property corresponds to the MAPI property  **PidTagEntryId**.
 

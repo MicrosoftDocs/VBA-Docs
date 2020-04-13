@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents a **[Shapes](Word.Shapes.md)**
 | _Top_|Required| **Single**|The position, in [points](../language/glossary/vbe-glossary.md#point), of the top edge of the drawing canvas, relative to the anchor.|
 | _Width_|Required| **Single**|The width, in [points](../language/glossary/vbe-glossary.md#point), of the drawing canvas.|
 | _Height_|Required| **Single**|The height, in [points](../language/glossary/vbe-glossary.md#point), of the drawing canvas.|
-| _Anchor_|Optional| **Variant**|A  **[Range](Word.Range.md)** object that represents the text to which the canvas is bound. If Anchor is specified, the anchor is positioned at the beginning of the first paragraph in the anchoring range. If this argument is omitted, the anchoring range is selected automatically and the canvas is positioned relative to the top and left edges of the page.|
+| _Anchor_|Optional| **Variant**|A **[Range](Word.Range.md)** object that represents the text to which the canvas is bound. If Anchor is specified, the anchor is positioned at the beginning of the first paragraph in the anchoring range. If this argument is omitted, the anchoring range is selected automatically and the canvas is positioned relative to the top and left edges of the page.|
 
 ## Return value
 

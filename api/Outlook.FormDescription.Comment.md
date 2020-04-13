@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormDescription.Comment property (Outlook)
 
-Returns or sets a  **String** representing the text of a comment assigned to the form description. Read/write.
+Returns or sets a **String** representing the text of a comment assigned to the form description. Read/write.
 
 
 ## Syntax

@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shapes.AddTextEffect method (Project)
-The  **AddTextEffect** method is not implemented in Project.
+The **AddTextEffect** method is not implemented in Project.
 
 ## Syntax
 
@@ -23,12 +23,12 @@ _expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _PresetTextEffect_|Required|**MsoPresetTextEffect**|A preset text effect. The values of the  **MsoPresetTextEffect** constants correspond to the formats listed in the WordArt Gallery dialog box (numbered from left to right and from top to bottom).|
+| _PresetTextEffect_|Required|**MsoPresetTextEffect**|A preset text effect. The values of the **MsoPresetTextEffect** constants correspond to the formats listed in the WordArt Gallery dialog box (numbered from left to right and from top to bottom).|
 | _Text_|Required|**String**|The text in the WordArt.|
 | _FontName_|Required|**String**|The name of the font used in the WordArt.|
 | _FontSize_|Required|**Single**|The size (in points) of the font used in the WordArt.|
-| _FontBold_|Required|**MsoTriState**|Use the  **msoTrue** constant to bold the font; otherwise, use **msoFalse**.|
-| _FontItalic_|Required|**MsoTriState**|Use the  **msoTrue** constant to italicize the font; otherwise, use **msoFalse**.|
+| _FontBold_|Required|**MsoTriState**|Use the **msoTrue** constant to bold the font; otherwise, use **msoFalse**.|
+| _FontItalic_|Required|**MsoTriState**|Use the **msoTrue** constant to italicize the font; otherwise, use **msoFalse**.|
 | _Left_|Required|**Single**|The position, in [points](../language/glossary/vbe-glossary.md#point), of the left edge of the WordArt shape relative to the left edge of the report.|
 | _Top_|Required|**Single**|The position, in [points](../language/glossary/vbe-glossary.md#point), of the top edge of the WordArt shape relative to the top edge of the report.|
 | _PresetTextEffect_|Required|MSOPRESETTEXTEFFECT||
@@ -50,9 +50,9 @@ _expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object
 
 
 > [!NOTE] 
-> The  **Shapes.AddTextEffect** method in Excel and Word creates a WordArt item, and returns a **Shape** object that represents the new WordArt item. But, Project does not support directly creating a WordArt item.
+> The **Shapes.AddTextEffect** method in Excel and Word creates a WordArt item, and returns a **Shape** object that represents the new WordArt item. But, Project does not support directly creating a WordArt item.
 
-Instead of using the  **AddTextEffect** method to add WordArt, you can use **AddTextbox**, and then format the selected text box with WordArt styles.
+Instead of using the **AddTextEffect** method to add WordArt, you can use **AddTextbox**, and then format the selected text box with WordArt styles.
 
 
 ## See also

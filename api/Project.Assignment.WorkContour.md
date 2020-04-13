@@ -26,6 +26,6 @@ _expression_ A variable that represents an [Assignment](./Project.Assignment.md)
 
 ## Remarks
 
-The  **WorkContour** property can be one of the following **[PjWorkContourType](Project.PjWorkContourType.md)** constants: **pjBackLoaded**, **pjBell**, **pjContour**, **pjDoublePeak**, **pjEarlyPeak**, **pjFlat**, **pjFrontLoaded**, **pjLatePeak**, or **pjTurtle**. The default value is **pjFlat**.
+The **WorkContour** property can be one of the following **[PjWorkContourType](Project.PjWorkContourType.md)** constants: **pjBackLoaded**, **pjBell**, **pjContour**, **pjDoublePeak**, **pjEarlyPeak**, **pjFlat**, **pjFrontLoaded**, **pjLatePeak**, or **pjTurtle**. The default value is **pjFlat**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

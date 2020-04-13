@@ -26,7 +26,7 @@ _expression_. `DoubleQuote`
 
 ## Remarks
 
-To set Word to enclose page numbers in double quotation marks by default, use the  **[AddHebDoubleQuote](Word.Options.AddHebDoubleQuote.md)** property.
+To set Word to enclose page numbers in double quotation marks by default, use the **[AddHebDoubleQuote](Word.Options.AddHebDoubleQuote.md)** property.
 
 
 ## Example

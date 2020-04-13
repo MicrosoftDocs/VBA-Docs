@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # ShapeRange.Fill property (Project)
-Gets a  **FillFormat** object for the shape range, if the shape range contains fill formatting properties. Read-only **[FillFormat](https://msdn.microsoft.com/library/office/ff838198%28v=office.15%29)**.
+Gets a **FillFormat** object for the shape range, if the shape range contains fill formatting properties. Read-only **[FillFormat](https://msdn.microsoft.com/library/office/ff838198%28v=office.15%29)**.
 
 ## Syntax
 

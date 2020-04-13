@@ -26,12 +26,12 @@ _expression_ A variable that represents an **[Application](Word.Application.md)*
 
 ## Remarks
 
-The  **ShowStartupDialog** property is a global option, and the new setting will take effect only after you restart Word. Use the **Visible** property of the **CommandBars** collection show or hide the Task Pane without restarting Word.
+The **ShowStartupDialog** property is a global option, and the new setting will take effect only after you restart Word. Use the **Visible** property of the **CommandBars** collection show or hide the Task Pane without restarting Word.
 
 
 ## Example
 
-This example turns off the  **Task Pane**, so it won't display upon starting Word. This will not take effect until the next time the user starts Word.
+This example turns off the **Task Pane**, so it won't display upon starting Word. This will not take effect until the next time the user starts Word.
 
 
 ```vb

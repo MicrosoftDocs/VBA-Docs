@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|Can be a  **String** value for the name of the shape or a **Long** value for the ordinal index number of the shape.|
+| _Index_|Required|**Variant**|Can be a **String** value for the name of the shape or a **Long** value for the ordinal index number of the shape.|
 
 ## Remarks
 
@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object
 ? ActiveProject.Reports("Table Tests").Shapes.Value(1).Name
 ```
 
-If you leave off the  **Shapes** property, the following statement is effectively the same as the previous statement.
+If you leave off the **Shapes** property, the following statement is effectively the same as the previous statement.
 
 
 

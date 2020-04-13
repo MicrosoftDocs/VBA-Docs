@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Tags.Value method (PowerPoint)
 
-Returns the value of the specified tag as a  **String**.
+Returns the value of the specified tag as a **String**.
 
 
 ## Syntax

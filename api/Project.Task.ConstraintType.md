@@ -26,9 +26,9 @@ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 ## Remarks
 
-The  **ConstraintType** property can be one of the **[PjConstraint](Project.PjConstraint.md)** constants.
+The **ConstraintType** property can be one of the **[PjConstraint](Project.PjConstraint.md)** constants.
 
-If you set the  **ConstraintType** property to **pjFNET**, **pjFNLT**, **pjMFO**, **pjMSO**, **pjSNET**, or **pjSNLT**, Project uses the constraint date for the task. To set the constraint date, use the **[ConstraintDate](Project.Task.ConstraintDate.md)** property.
+If you set the **ConstraintType** property to **pjFNET**, **pjFNLT**, **pjMFO**, **pjMSO**, **pjSNET**, or **pjSNLT**, Project uses the constraint date for the task. To set the constraint date, use the **[ConstraintDate](Project.Task.ConstraintDate.md)** property.
 
 
 ## Example

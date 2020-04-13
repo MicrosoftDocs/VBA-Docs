@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[MappedDataField](Word.Mapp
 
 ## Remarks
 
-Use the  **ActiveRecord** property to set the active record in a mail merge data source.
+Use the **ActiveRecord** property to set the active record in a mail merge data source.
 
 
 ## Example

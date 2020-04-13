@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailModule.Name property (Outlook)
 
-Returns a  **String** value that represents the localized display name for the **[MailModule](Outlook.MailModule.md)** object. Read-only.
+Returns a **String** value that represents the localized display name for the **[MailModule](Outlook.MailModule.md)** object. Read-only.
 
 
 ## Syntax

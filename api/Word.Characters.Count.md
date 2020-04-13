@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Characters.Count property (Word)
 
-Returns the number of characters in the  **Characters** collection. Read-only **Long**.
+Returns the number of characters in the **Characters** collection. Read-only **Long**.
 
 
 ## Syntax

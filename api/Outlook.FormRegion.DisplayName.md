@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormRegion.DisplayName property (Outlook)
 
-Returns a  **String** representing the display name of the form region. Read-only.
+Returns a **String** representing the display name of the form region. Read-only.
 
 
 ## Syntax

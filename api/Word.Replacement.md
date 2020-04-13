@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Replacement object (Word)
 
-Represents the replace criteria for a find-and-replace operation. The properties and methods of the  **Replacement** object correspond to the options in the **Find and Replace** dialog box.
+Represents the replace criteria for a find-and-replace operation. The properties and methods of the **Replacement** object correspond to the options in the **Find and Replace** dialog box.
 
 
 ## Remarks
 
-Use the  **Replacement** property to return a **Replacement** object. The following example replaces the next occurrence of the word "hi" with the word "hello."
+Use the **Replacement** property to return a **Replacement** object. The following example replaces the next occurrence of the word "hi" with the word "hello."
 
 
 ```vb
@@ -32,7 +32,7 @@ With Selection.Find
 End With
 ```
 
-To find and replace formatting, set both the find text and the replace text to empty strings ("") and set the Format argument of the  **Execute** method to **True**. The following example removes all the bold formatting in the active document. The **Bold** property is **True** for the **Find** object and **False** for the **Replacement** object.
+To find and replace formatting, set both the find text and the replace text to empty strings ("") and set the Format argument of the **Execute** method to **True**. The following example removes all the bold formatting in the active document. The **Bold** property is **True** for the **Find** object and **False** for the **Replacement** object.
 
 
 

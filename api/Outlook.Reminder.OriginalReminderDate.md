@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Reminder.OriginalReminderDate property (Outlook)
 
-Returns a  **Date** that specifies the original date and time that the specified reminder is set to occur. Read-only.
+Returns a **Date** that specifies the original date and time that the specified reminder is set to occur. Read-only.
 
 
 ## Syntax

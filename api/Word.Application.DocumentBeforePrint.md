@@ -35,7 +35,7 @@ _expression_ A variable that represents an '[Application](Word.Application.md)' 
 
 ## Remarks
 
-For more information about using events with the  **Application** object, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
+For more information about using events with the **Application** object, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
 
 ## Example

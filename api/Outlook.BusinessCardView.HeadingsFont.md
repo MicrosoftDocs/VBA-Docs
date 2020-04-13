@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BusinessCardView.HeadingsFont property (Outlook)
 
-Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font used to display headings for each Electronic Business Card (EBC) in the view. Read-only.
+Returns a **[ViewFont](Outlook.ViewFont.md)** object that represents the font used to display headings for each Electronic Business Card (EBC) in the view. Read-only.
 
 
 ## Syntax

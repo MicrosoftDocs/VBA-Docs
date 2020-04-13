@@ -15,7 +15,7 @@ Represents a collection of  **[Group](Project.Group.md)** objects.
 
 ## Remarks
 
-For groups where the group hierarchy can be maintained and cell color can be a hexadecimal value, use the  **[Groups2](Project.groups2.md)** collection object.
+For groups where the group hierarchy can be maintained and cell color can be a hexadecimal value, use the **[Groups2](Project.groups2.md)** collection object.
  
 
  

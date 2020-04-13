@@ -19,7 +19,7 @@ Represents a view that displays Outlook items in a table, with each item in a ro
 
 ## Remarks
 
-The  **TableView** object, derived from the **[View](Outlook.View.md)** object, allows you to create customizable views that allow you to display Outlook items in a table.
+The **TableView** object, derived from the **[View](Outlook.View.md)** object, allows you to create customizable views that allow you to display Outlook items in a table.
 
 Outlook provides several built-in  **TableView** objects, and you can also create custom **TableView** objects. Use the **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection to add a new **TableView** to a **[Folder](Outlook.Folder.md)** object. Use the **Standard** property to determine if an existing **TableView** object is built-in or custom.
 

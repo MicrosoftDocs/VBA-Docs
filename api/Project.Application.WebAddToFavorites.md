@@ -41,6 +41,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 The Favorites folder is typically  `C:\Users\UserAlias\Favorites`. For a project file named Basic.mpp that is saved in the  `E:\Project\VBA` folder, **WebAddToFavorites** adds a link named Basic that has the following URL: `file:///E:/Project/VBA/Samples/Basic.mpp`
 
-The  **WebAddToFavorites** method is unavailable if the file has never been saved.
+The **WebAddToFavorites** method is unavailable if the file has never been saved.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

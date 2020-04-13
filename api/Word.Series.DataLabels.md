@@ -39,9 +39,9 @@ An object that represents either a single data label (a  **DataLabel** object) o
 
 ## Remarks
 
-If the series has the  **Show Value** option turned on for the data labels, the returned collection can contain up to one label for each point. Data labels can be turned on or off for individual points in the series.
+If the series has the **Show Value** option turned on for the data labels, the returned collection can contain up to one label for each point. Data labels can be turned on or off for individual points in the series.
 
-If the series is on an area chart and has the  **Show Label** option turned on for the data labels, the returned collection contains only a single label, which is the label for the area series.
+If the series is on an area chart and has the **Show Label** option turned on for the data labels, the returned collection contains only a single label, which is the label for the area series.
 
 
 ## Example

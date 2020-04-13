@@ -43,7 +43,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 ## Remarks
 
-If the document or range contains errors, this method displays the  **Spelling and Grammar** dialog box, with the **Check grammar** check box cleared.
+If the document or range contains errors, this method displays the **Spelling and Grammar** dialog box, with the **Check grammar** check box cleared.
 
 
 ## Example

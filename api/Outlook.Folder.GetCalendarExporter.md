@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folder.GetCalendarExporter method (Outlook)
 
-Creates a  **[CalendarSharing](Outlook.CalendarSharing.md)** object for the specified **[Folder](Outlook.Folder.md)**.
+Creates a **[CalendarSharing](Outlook.CalendarSharing.md)** object for the specified **[Folder](Outlook.Folder.md)**.
 
 
 ## Syntax
@@ -26,16 +26,16 @@ _expression_. `GetCalendarExporter`
 
 ## Return value
 
-A  **CalendarSharing** object for the specified folder.
+A **CalendarSharing** object for the specified folder.
 
 
 ## Remarks
 
-The  **GetCalendarExporter** method automatically sets the defaults for the **CalendarSharing** class to the standard default options used by the **Folder** object. The **GetCalendarExporter** method can only be used on calendar folders. An error occurs if you use the method on **Folder** objects that represent other folder types.
+The **GetCalendarExporter** method automatically sets the defaults for the **CalendarSharing** class to the standard default options used by the **Folder** object. The **GetCalendarExporter** method can only be used on calendar folders. An error occurs if you use the method on **Folder** objects that represent other folder types.
 
 
 > [!NOTE] 
-> The  **CalendarSharing** object only supports exporting the iCalendar (.ics) file format.
+> The **CalendarSharing** object only supports exporting the iCalendar (.ics) file format.
 
 
 ## See also

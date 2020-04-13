@@ -38,7 +38,7 @@ Marking a presentation as final makes the presentation read-only and prevents ch
  Setting the **Final** property to **True** helps you communicate that you are sharing a completed version of a presentation. It also helps prevent reviewers or readers from making inadvertent changes to the presentation.
 
 
-- The  **Final** property is not a security feature. Anyone who receives an electronic copy of a presentation that has been marked as final can edit that presentation by removing **Mark as Final** status from the presentation.
+- The **Final** property is not a security feature. Anyone who receives an electronic copy of a presentation that has been marked as final can edit that presentation by removing **Mark as Final** status from the presentation.
     
 - Presentations that have been marked as final in a Office program will not be read-only if they are opened in earlier versions of Microsoft Office programs.
     

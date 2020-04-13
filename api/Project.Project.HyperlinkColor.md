@@ -26,6 +26,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The  **HyperlinkColor** property is one of the **[PjColor](Project.PjColor.md)** constants. To get a hexadecimal RGB value for the color, use the **[HyperlinkColorEx](Project.Project.HyperlinkColorEx.md)** property.
+The **HyperlinkColor** property is one of the **[PjColor](Project.PjColor.md)** constants. To get a hexadecimal RGB value for the color, use the **[HyperlinkColorEx](Project.Project.HyperlinkColorEx.md)** property.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

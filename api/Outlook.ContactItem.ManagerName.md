@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.ManagerName property (Outlook)
 
-Returns or sets a  **String** representing the manager name for the contact. Read/write.
+Returns or sets a **String** representing the manager name for the contact. Read/write.
 
 
 ## Syntax

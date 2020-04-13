@@ -19,7 +19,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Remarks
 
-The chart elevation is the angle from the horizontal at which you view the chart, in degrees. The default is 15 degrees for most chart types. The value of the  **Elevation** property must be between -90 and 90, except for 3D bar charts, where it must be between 0 and 44. The **Elevation** property fails on 2D charts.
+The chart elevation is the angle from the horizontal at which you view the chart, in degrees. The default is 15 degrees for most chart types. The value of the **Elevation** property must be between -90 and 90, except for 3D bar charts, where it must be between 0 and 44. The **Elevation** property fails on 2D charts.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Options property (PowerPoint)
 
-Returns an  **[Options](PowerPoint.Options.md)** object that represents application options in Microsoft PowerPoint.
+Returns an **[Options](PowerPoint.Options.md)** object that represents application options in Microsoft PowerPoint.
 
 
 ## Syntax

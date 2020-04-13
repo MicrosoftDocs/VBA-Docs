@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Remarks
 
-The  **ItemProperties** collection is a zero-based collection, meaning that the first object in the collection is referenced by the index 0.
+The **ItemProperties** collection is a zero-based collection, meaning that the first object in the collection is referenced by the index 0.
 
 
 ## Example

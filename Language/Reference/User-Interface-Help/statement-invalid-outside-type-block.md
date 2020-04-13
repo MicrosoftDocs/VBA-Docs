@@ -16,7 +16,7 @@ The syntax for declaring [variables](../../Glossary/vbe-glossary.md#variable) ou
 
 
 
-- You tried to declare a variable outside a  **Type...End Type** block or outside a statement. When declaring a variable with an **As** clause outside a **Type...End Type** block, use one of the declaration statements, **Dim**, **ReDim**, **Static**, **Public**, or **Private**. For example, the first declaration of `MyVar` in the following code generates this error; the second and third declarations of `MyVar` are valid:
+- You tried to declare a variable outside a **Type...End Type** block or outside a statement. When declaring a variable with an **As** clause outside a **Type...End Type** block, use one of the declaration statements, **Dim**, **ReDim**, **Static**, **Public**, or **Private**. For example, the first declaration of `MyVar` in the following code generates this error; the second and third declarations of `MyVar` are valid:
     
 ```vb
 MyVar As Double ' Invalid declaration syntax. 

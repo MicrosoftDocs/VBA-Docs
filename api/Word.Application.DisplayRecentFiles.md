@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Word.Application.md)*
 
 ## Example
 
-This example sets Word to display a maximum of six file names on the  **File** menu.
+This example sets Word to display a maximum of six file names on the **File** menu.
 
 
 ```vb
@@ -34,7 +34,7 @@ Application.DisplayRecentFiles = True
 RecentFiles.Maximum = 6
 ```
 
-This example removes the list of recently used files from the  **File** menu.
+This example removes the list of recently used files from the **File** menu.
 
 
 

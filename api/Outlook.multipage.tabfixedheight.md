@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # MultiPage.TabFixedHeight Property (Outlook Forms Script)
 
-Returns or sets a  **Single** that represents the height in points of the tabs on a **[MultiPage](Outlook.multipage.md)**. Read/write.
+Returns or sets a **Single** that represents the height in points of the tabs on a **[MultiPage](Outlook.multipage.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**TabFixedHeight**
 
-_expression_ A variable that represents a  **MultiPage** object.
+_expression_ A variable that represents a **MultiPage** object.
 
 
 ## Remarks

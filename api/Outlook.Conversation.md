@@ -19,11 +19,11 @@ Represents a conversation that includes one or more items stored in one or more 
 
 ## Remarks
 
-The  **Conversation** object is an abstract, aggregated object. Although a conversation can include items of different types, the **Conversation** object does not correspond to a particular underlying MAPI **IMessage** object.
+The **Conversation** object is an abstract, aggregated object. Although a conversation can include items of different types, the **Conversation** object does not correspond to a particular underlying MAPI **IMessage** object.
 
 A conversation represents one or more items in one or more folders and stores. If you move an item in a conversation to the  **Deleted Items** folder and subsequently enumerate the conversation by using the **[GetChildren](Outlook.Conversation.GetChildren.md)**, **[GetRootItems](Outlook.Conversation.GetRootItems.md)**, or **[GetTable](Outlook.Conversation.GetTable.md)** method, the item will not be included in the returned object.
 
-To obtain a  **Conversation** object for an existing conversation, use the **GetConversation** method of the item.
+To obtain a **Conversation** object for an existing conversation, use the **GetConversation** method of the item.
 
 There are actions that you can apply to items in a conversation by calling the  **[SetAlwaysAssignCategories](Outlook.Conversation.SetAlwaysAssignCategories.md)**, **[SetAlwaysDelete](Outlook.Conversation.SetAlwaysDelete.md)**, or **[SetAlwaysMoveToFolder](Outlook.Conversation.SetAlwaysMoveToFolder.md)** method. Each of these actions is applied to all items in the conversation automatically when the method is called; the action is also applied to future items in the conversation as long as the action is still applicable to the conversation. There is no explicit save method on the **Conversation** object.
 

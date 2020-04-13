@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.SenderName property (Outlook)
 
-Returns a  **String** indicating the display name of the sender for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
+Returns a **String** indicating the display name of the sender for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax

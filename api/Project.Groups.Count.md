@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Groups.Count property (Project)
 
-Gets the number of items in the  **Groups** collection. Read-only **Long**. .
+Gets the number of items in the **Groups** collection. Read-only **Long**. .
 
 
 ## Syntax

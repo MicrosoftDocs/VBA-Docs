@@ -26,6 +26,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Project internally sets the  **TimeLeadingZero** property equal to the corresponding value of the **Time format** drop-down list in the **Regional and Language Options** dialog box in the Microsoft Windows Control Panel.
+Project internally sets the **TimeLeadingZero** property equal to the corresponding value of the **Time format** drop-down list in the **Regional and Language Options** dialog box in the Microsoft Windows Control Panel.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

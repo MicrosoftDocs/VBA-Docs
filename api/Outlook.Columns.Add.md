@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Columns](Outlook.Columns.md) object.
 
 ## Return value
 
-A  **Column** object that represents the new column.
+A **Column** object that represents the new column.
 
 
 ## Remarks
@@ -45,16 +45,16 @@ A  **Column** object that represents the new column.
 
 If you are adding a property which is an explicit built-in property in the object model, for example,  **[Contact.FirstName](Outlook.ContactItem.FirstName.md)**, you must specify _Name_ as the explicit built-in property name in English. For certain types of properties, the format used when adding these properties as columns affects how their values are expressed in the **Table**. For more information on property value representation in a **Table**, see [Factors Affecting Property Value Representation in the Table and View Classes](../outlook/How-to/Search-and-Filter/factors-affecting-property-value-representation-in-the-table-and-view-classes.md).
 
-If you are adding a custom property to a  **Table**, referencing the property by the MAPI string namespace, you will have to explicitly append the type of the property to the end of the property reference. For example, to add the custom property `MyCustomProperty`, which has the type Unicode string, you will have to explicitly append the type 001f to the reference, resulting in:  `http://schemas.microsoft.com/mapi/string/{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}/MyCustomProperty/0x0000001f`, where  `{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}` represents the namespace GUID.
+If you are adding a custom property to a **Table**, referencing the property by the MAPI string namespace, you will have to explicitly append the type of the property to the end of the property reference. For example, to add the custom property `MyCustomProperty`, which has the type Unicode string, you will have to explicitly append the type 001f to the reference, resulting in:  `http://schemas.microsoft.com/mapi/string/{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}/MyCustomProperty/0x0000001f`, where  `{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}` represents the namespace GUID.
 
-Certain properties cannot be added to a  **Table** using **Columns.Add**, including binary properties, computed properties, and HTML or RTF body content. For more information, see [Unsupported Properties in a Table Object or Table Filter](../outlook/How-to/Search-and-Filter/unsupported-properties-in-a-table-object-or-table-filter.md).
+Certain properties cannot be added to a **Table** using **Columns.Add**, including binary properties, computed properties, and HTML or RTF body content. For more information, see [Unsupported Properties in a Table Object or Table Filter](../outlook/How-to/Search-and-Filter/unsupported-properties-in-a-table-object-or-table-filter.md).
 
 While  **[Items.SetColumns](Outlook.Items.SetColumns.md)** can be used to facilitate caching certain properties for extremely fast access to those properties of an **[Items](Outlook.Items.md)** collection, some properties are restricted from **SetColumns**. Since these restrictions do not apply to **Columns.Add**, the **Table** object is a less restrictive alternative than **Items**.
 
 
 ## Example
 
-The following code sample illustrates how to obtain a  **Table** object based on the **LastModificationTime** of items in the Inbox. It also shows how to remove the default columns of the **Table**, add specific columns, and print the values of the corresponding properties of these items.
+The following code sample illustrates how to obtain a **Table** object based on the **LastModificationTime** of items in the Inbox. It also shows how to remove the default columns of the **Table**, add specific columns, and print the values of the corresponding properties of these items.
 
 
 ```vb

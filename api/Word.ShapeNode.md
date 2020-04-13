@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeNode object (Word)
 
-Represents the geometry and the geometry-editing properties of the nodes in a user-defined freeform. Nodes include the vertices between the segments of the freeform and the control points for curved segments. The  **ShapeNode** object is a member of the **ShapeNodes** collection. The **[ShapeNodes](Word.shapenodes.md)** collection contains all the nodes in a freeform.
+Represents the geometry and the geometry-editing properties of the nodes in a user-defined freeform. Nodes include the vertices between the segments of the freeform and the control points for curved segments. The **ShapeNode** object is a member of the **ShapeNodes** collection. The **[ShapeNodes](Word.shapenodes.md)** collection contains all the nodes in a freeform.
 
 
 ## Remarks

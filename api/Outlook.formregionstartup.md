@@ -17,7 +17,7 @@ Defines an interface that allows an add-in to specify the storage and the user i
 
 ## Remarks
 
-The  **FormRegionStartup** interface is an abstract class, which means that it cannot be instantiated directly. In Visual Basic, you can use the **Implements** keyword to provide the methods of **FormRegionStartup** in your add-in class as follows:
+The **FormRegionStartup** interface is an abstract class, which means that it cannot be instantiated directly. In Visual Basic, you can use the **Implements** keyword to provide the methods of **FormRegionStartup** in your add-in class as follows:
 
 
 ```vb

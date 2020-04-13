@@ -14,14 +14,14 @@ A collection of  **[RecentFile](Word.RecentFile.md)** objects that represents th
 
 ## Remarks
 
-Use the  **RecentFiles** property to return the **RecentFiles** collection. The following example sets five as the maximum number of files that the **RecentFiles** collection can contain.
+Use the **RecentFiles** property to return the **RecentFiles** collection. The following example sets five as the maximum number of files that the **RecentFiles** collection can contain.
 
 
 ```vb
 RecentFiles.Maximum = 5
 ```
 
-Use the  **Add** method to add a file to the **RecentFiles** collection. The following example adds the active document to the list of recently-used files.
+Use the **Add** method to add a file to the **RecentFiles** collection. The following example adds the active document to the list of recently-used files.
 
 
 
@@ -42,7 +42,7 @@ Use  **RecentFiles** (Index), where Index is the index number, to return a singl
 If RecentFiles.Count >= 1 Then RecentFiles(1).Open
 ```
 
-The  **SaveAs** and **Open** methods include an AddToRecentFiles argument that controls whether or not a file is added to the recently-used-files list when the file is opened or saved.
+The **SaveAs** and **Open** methods include an AddToRecentFiles argument that controls whether or not a file is added to the recently-used-files list when the file is opened or saved.
 
 
 ## See also

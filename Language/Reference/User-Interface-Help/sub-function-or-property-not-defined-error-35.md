@@ -20,7 +20,7 @@ A **Sub**, **Function**, or **Property** procedure must be defined to be called.
     
 - You tried to call a procedure from another [project](../../Glossary/vbe-glossary.md#project) without explicitly adding a reference to that project in the **References** dialog box.
     
-  **To add a reference**
+ **To add a reference**
     
   1. Display the **References** dialog box.
     

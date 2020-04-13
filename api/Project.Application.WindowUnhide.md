@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Name_|Optional|**String**|The name of a hidden window to show. The name of a window is the exact text that appears in the title bar of the window. If Name is omitted, the  **Unhide** dialog box appears, which prompts the user to show a hidden window in the active project.|
+| _Name_|Optional|**String**|The name of a hidden window to show. The name of a window is the exact text that appears in the title bar of the window. If Name is omitted, the **Unhide** dialog box appears, which prompts the user to show a hidden window in the active project.|
 
 ## Return value
 

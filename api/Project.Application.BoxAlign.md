@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Alignment_|Required|**Long**|Specifies which side or portion of a box to use for the alignment. Can be one of the  **[PjAlign](Project.PjAlign.md)** constants.|
+| _Alignment_|Required|**Long**|Specifies which side or portion of a box to use for the alignment. Can be one of the **[PjAlign](Project.PjAlign.md)** constants.|
 
 ## Return value
 
@@ -39,6 +39,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-If only one box is selected, the  **BoxAlign** method has no effect.
+If only one box is selected, the **BoxAlign** method has no effect.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

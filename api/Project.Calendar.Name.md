@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Calendar.Name property (Project)
 
-Gets the name of a  **Calendar** object. Read-only **String**.
+Gets the name of a **Calendar** object. Read-only **String**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_ A variable that represents a [Calendar](./Project.Calendar.md) obje
 
 ## Remarks
 
-For a code example that uses the  **Task** object, see **[Name](Project.Task.Name.md)**.
+For a code example that uses the **Task** object, see **[Name](Project.Task.Name.md)**.
 
 
 ## Example

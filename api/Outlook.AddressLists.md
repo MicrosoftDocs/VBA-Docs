@@ -19,7 +19,7 @@ Contains a set of  **[AddressList](Outlook.AddressList.md)** objects.
 
 ## Remarks
 
-The  **AddressLists** collection provides access to the root of the transport provider's address book hierarchy for the current session.
+The **AddressLists** collection provides access to the root of the transport provider's address book hierarchy for the current session.
 
 
 ## Example

@@ -32,7 +32,7 @@ _expression_ A variable that represents a '[RemoteItem](Outlook.RemoteItem.md)' 
 
 ## Remarks
 
-This event corresponds to when attachments are saved to the messaging store. The  **BeforeAttachmentSave** event occurs just before an attachment is saved when an item is saved. If a user edits an attachment and then saves those changes, the **BeforeAttachmentSave** event will not occur at that time; instead it will occur when the item itself is later saved. It also does not occur when the attachment is saved on the hard disk using the **[SaveAsFile](Outlook.Attachment.SaveAsFile.md)** method.
+This event corresponds to when attachments are saved to the messaging store. The **BeforeAttachmentSave** event occurs just before an attachment is saved when an item is saved. If a user edits an attachment and then saves those changes, the **BeforeAttachmentSave** event will not occur at that time; instead it will occur when the item itself is later saved. It also does not occur when the attachment is saved on the hard disk using the **[SaveAsFile](Outlook.Attachment.SaveAsFile.md)** method.
 
 In VBScript, if you set the return value of this function to  **False**, the save operation is cancelled and the attachment is not changed.
 

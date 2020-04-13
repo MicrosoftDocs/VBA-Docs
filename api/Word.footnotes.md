@@ -14,14 +14,14 @@ A collection of  **Footnote** objects that represent all the footnotes in a sele
 
 ## Remarks
 
-Use the  **Footnotes** property to return the **Footnotes** collection. The following example changes all of the footnotes in the active document to endnotes.
+Use the **Footnotes** property to return the **Footnotes** collection. The following example changes all of the footnotes in the active document to endnotes.
 
 
 ```vb
 ActiveDocument.Footnotes.SwapWithEndnotes
 ```
 
-Use the  **Add** method to add a footnote to the **Footnotes** collection. The following example adds a footnote immediately after the selection.
+Use the **Add** method to add a footnote to the **Footnotes** collection. The following example adds a footnote immediately after the selection.
 
 
 
@@ -45,7 +45,7 @@ End If
 
 
 > [!NOTE] 
-> Footnotes positioned at the end of a document or section are considered endnotes and are included in the  **[Endnotes](Word.endnotes.md)** collection.
+> Footnotes positioned at the end of a document or section are considered endnotes and are included in the **[Endnotes](Word.endnotes.md)** collection.
 
 
 ## Methods

@@ -16,9 +16,9 @@ Represents the chart area of a chart.
 
 ## Remarks
 
-The chart area includes everything, including the plot area. However, the  **[PlotArea](Word.PlotArea.md)** object has its own formatting, so formatting the plot area does not format the chart area.
+The chart area includes everything, including the plot area. However, the **[PlotArea](Word.PlotArea.md)** object has its own formatting, so formatting the plot area does not format the chart area.
 
-Use the  **[ChartArea](Word.Chart.ChartArea.md)** property to return the **ChartArea** object.
+Use the **[ChartArea](Word.Chart.ChartArea.md)** property to return the **ChartArea** object.
 
 
 ## Example

@@ -26,7 +26,7 @@ _expression_. `NextRange`
 
 ## Remarks
 
-You can also use the  **[GoToEditableRange](Word.Range.GoToEditableRange.md)** method of the **Range** object to return the next range for which a user has permission to modify.
+You can also use the **[GoToEditableRange](Word.Range.GoToEditableRange.md)** method of the **Range** object to return the next range for which a user has permission to modify.
 
 
 ## Example

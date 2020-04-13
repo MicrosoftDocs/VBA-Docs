@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Range](Word.Range.md)** object.
 
 ## Remarks
 
-The  **Text** property returns the plain, unformatted text of the range. When you set this property, the existing text in the range is replaced.
+The **Text** property returns the plain, unformatted text of the range. When you set this property, the existing text in the range is replaced.
 
 
 ## Example

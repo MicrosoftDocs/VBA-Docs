@@ -19,7 +19,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Remarks
 
-For auto-scaling to work, the  **[RightAngleAxes](Project.chart.rightangleaxes.md)** property must also be **True**. 
+For auto-scaling to work, the **[RightAngleAxes](Project.chart.rightangleaxes.md)** property must also be **True**. 
 
 
 ## Example

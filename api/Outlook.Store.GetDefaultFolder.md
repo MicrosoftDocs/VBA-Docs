@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Store.GetDefaultFolder method (Outlook)
 
-Returns a  **[Folder](Outlook.Folder.md)** object that represents the default folder in the store and that is of the type specified by the _FolderType_ argument.
+Returns a **[Folder](Outlook.Folder.md)** object that represents the default folder in the store and that is of the type specified by the _FolderType_ argument.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a '[Store](Outlook.Store.md)' object.
 
 ## Return value
 
-A  **Folder** object that represents the default folder of the requested type. If the default folder of the requested type does not exist, **GetDefaultFolder** returns **Null** (**Nothing** in Visual Basic).
+A **Folder** object that represents the default folder of the requested type. If the default folder of the requested type does not exist, **GetDefaultFolder** returns **Null** (**Nothing** in Visual Basic).
 
 
 ## Remarks

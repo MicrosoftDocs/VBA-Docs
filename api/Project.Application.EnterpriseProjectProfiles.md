@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.EnterpriseProjectProfiles method (Project)
 
-Displays the  **Project Server Accounts** dialog box. Available in Project Professional only.
+Displays the **Project Server Accounts** dialog box. Available in Project Professional only.
 
 
 ## Syntax

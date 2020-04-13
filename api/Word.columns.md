@@ -14,7 +14,7 @@ A collection of  **[Column](Word.Column.md)** objects that represent the columns
 
 ## Remarks
 
-Use the  **Columns** property of a **[Range](Word.Range.md)**, **[Selection](Word.Selection.md)**, or **[Table](Word.Table.md)** object to return a **Columns** collection. The following example displays the number of **Column** objects in the **Columns** collection for the first table in the active document.
+Use the **Columns** property of a **[Range](Word.Range.md)**, **[Selection](Word.Selection.md)**, or **[Table](Word.Table.md)** object to return a **Columns** collection. The following example displays the number of **Column** objects in the **Columns** collection for the first table in the active document.
 
 
 ```vb
@@ -35,7 +35,7 @@ For Each col In myTable.Columns
 Next col
 ```
 
-Use the  **[Add](Word.Columns.Add.md)** method to add a column to a table. The following example adds a column to the first table in the active document, and then it makes the column widths equal.
+Use the **[Add](Word.Columns.Add.md)** method to add a column to a table. The following example adds a column to the first table in the active document, and then it makes the column widths equal.
 
 
 

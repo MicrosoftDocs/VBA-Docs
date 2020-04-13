@@ -33,7 +33,7 @@ This example sets Word to display all alerts and message boxes when it is runnin
 Application.DisplayAlerts = wdAlertsAll
 ```
 
-This example returns the current setting of the  **DisplayAlerts** property.
+This example returns the current setting of the **DisplayAlerts** property.
 
 
 

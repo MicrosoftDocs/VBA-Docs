@@ -23,6 +23,6 @@ _expression_ A variable that represents a [Day](./Project.Day.md) object.
 
 ## Remarks
 
-For an example that uses the  **Month** object, see **[Working](Project.Month.Working.md)**.
+For an example that uses the **Month** object, see **[Working](Project.Month.Working.md)**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.CustomerID property (Outlook)
 
-Returns or sets a  **String** representing the customer ID for the contact. Read/write.
+Returns or sets a **String** representing the customer ID for the contact. Read/write.
 
 
 ## Syntax

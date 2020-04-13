@@ -23,9 +23,9 @@ _expression_ A variable that represents a [Resource](./Project.Resource.md) obje
 
 ## Remarks
 
-The percent availability is specified in the  **Units** column of the current row of the **Resource Availability** grid in the **Resource Information** dialog box. The current row is that where the date range between the **Available From** and **Available To** columns includes the current date.
+The percent availability is specified in the **Units** column of the current row of the **Resource Availability** grid in the **Resource Information** dialog box. The current row is that where the date range between the **Available From** and **Available To** columns includes the current date.
 
-The  **MaxUnits** property does not return any meaningful information for material resources. Setting a value returns a trappable error (error code 1101) when applied to material resources.
+The **MaxUnits** property does not return any meaningful information for material resources. Setting a value returns a trappable error (error code 1101) when applied to material resources.
 
 
 ## Example

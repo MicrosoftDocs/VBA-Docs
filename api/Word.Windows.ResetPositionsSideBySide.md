@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Windows.ResetPositionsSideBySide method (Word)
 
-Resets two document windows that are in the  **Compare side by side with** view mode.
+Resets two document windows that are in the **Compare side by side with** view mode.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Windows](Word.windows.md)'
 
 ## Remarks
 
-This method corresponds to the  **Reset Window Position** button on the **Compare Side by Side** toolbar. Use the **ResetPositionsSideBySide** method to reset the display of two documents. For example, if a user minimizes or maximizes one of the two document windows being compared, the **ResetPositionsSideBySide** method resets the display so that the two windows are displayed side by side again.
+This method corresponds to the **Reset Window Position** button on the **Compare Side by Side** toolbar. Use the **ResetPositionsSideBySide** method to reset the display of two documents. For example, if a user minimizes or maximizes one of the two document windows being compared, the **ResetPositionsSideBySide** method resets the display so that the two windows are displayed side by side again.
 
 
 ## Example

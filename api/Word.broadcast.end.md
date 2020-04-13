@@ -29,7 +29,7 @@ _expression_ A variable that represents a **[Broadcast](Word.broadcast.md)** obj
 
 ## Remarks
 
-Calling the  **End** method terminates the broadcast session without displaying a confirmation prompt to the user. It also sets the value of the [Broadcast.AttendeeURL](Word.broadcast.attendeeurl.md) property to an empty string.
+Calling the **End** method terminates the broadcast session without displaying a confirmation prompt to the user. It also sets the value of the [Broadcast.AttendeeURL](Word.broadcast.attendeeurl.md) property to an empty string.
 
 If the document is not being broadcast, the method returns run-time error 4702.
 

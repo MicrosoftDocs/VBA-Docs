@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents a **[ShadowFormat](Word.Shadow
 
 ## Remarks
 
-Use the  **[OffsetY](Word.ShadowFormat.OffsetY.md)** property to set the absolute vertical shadow offset.
+Use the **[OffsetY](Word.ShadowFormat.OffsetY.md)** property to set the absolute vertical shadow offset.
 
 
 ## Example

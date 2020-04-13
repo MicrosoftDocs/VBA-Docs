@@ -26,7 +26,7 @@ _expression_. `PasteFormatBetweenDocuments`
 
 ## Remarks
 
-Corresponds to the  **Pasting between two documents (without styles)** option in the **Advanced** tab of the **Word Options** dialog box.
+Corresponds to the **Pasting between two documents (without styles)** option in the **Advanced** tab of the **Word Options** dialog box.
 
 
 ## See also

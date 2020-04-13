@@ -31,6 +31,6 @@ _expression_. `InsertScheduledTask`
 
 ## Remarks
 
-By comparison, the  **[InsertTask](Project.Application.InsertTask.md)** method creates a task of the default mode and **[InsertManualTask](Project.Application.InsertManualTask.md)** creates a manually scheduled task.
+By comparison, the **[InsertTask](Project.Application.InsertTask.md)** method creates a task of the default mode and **[InsertManualTask](Project.Application.InsertManualTask.md)** creates a manually scheduled task.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

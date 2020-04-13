@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-When you use the  **ManualHyphenation** method, Word prompts he user to accept or decline suggested hyphenations.
+When you use the **ManualHyphenation** method, Word prompts he user to accept or decline suggested hyphenations.
 
 
 ## Example

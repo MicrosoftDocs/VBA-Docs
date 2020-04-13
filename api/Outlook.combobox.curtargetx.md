@@ -12,19 +12,19 @@ localization_priority: Normal
 
 # ComboBox.CurTargetX Property (Outlook Forms Script)
 
-Returns a  **Long** that represents the preferred horizontal position of the insertion point in a multiline **[ComboBox](Outlook.combobox.md)**. Read-only.
+Returns a **Long** that represents the preferred horizontal position of the insertion point in a multiline **[ComboBox](Outlook.combobox.md)**. Read-only.
 
 
 ## Syntax
 
 _expression_.**CurTargetX**
 
-_expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a **ComboBox** object.
 
 
 ## Remarks
 
-The  **CurTargetX** property retrieves the preferred position, measured in himetric units. A himetric is 0.0001 meter.
+The **CurTargetX** property retrieves the preferred position, measured in himetric units. A himetric is 0.0001 meter.
 
 The target position is relative to the left edge of the control. If the length of a line is less than the value of the  **CurTargetX** property, you can place the insertion point at the end of the line. The value of **CurTargetX** changes when the user sets the insertion point or when the **[CurX](Outlook.combobox.curx.md)** property is set. **CurTargetX** is read-only.
 

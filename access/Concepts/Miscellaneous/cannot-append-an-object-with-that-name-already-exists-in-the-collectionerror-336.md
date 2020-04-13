@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You tried to append an object to a collection that already contains an object of the same name. Use the  **Refresh** method on the collection and check to see whether the object you want to append already exists, or try changing the object's **Name** property setting.
+You tried to append an object to a collection that already contains an object of the same name. Use the **Refresh** method on the collection and check to see whether the object you want to append already exists, or try changing the object's **Name** property setting.
 
 ## See also
 

@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Word.Application.md)*
 
 ## Remarks
 
-Corresponds to the value of the  **Save in** box on the **Commands** tab in the **Customize** dialog box (**Tools** menu).
+Corresponds to the value of the **Save in** box on the **Commands** tab in the **Customize** dialog box (**Tools** menu).
 
 
 ## Example

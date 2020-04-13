@@ -16,9 +16,9 @@ localization_priority: Normal
 
 
 
-- The statement  **Option Private Module** appears in an [object module](../../Glossary/vbe-glossary.md#object-module).
+- The statement **Option Private Module** appears in an [object module](../../Glossary/vbe-glossary.md#object-module).
     
-    Remove the  **Option Private Module** statement from the module. Object modules have the characteristic of **Option Private Module** by default. Changing the default can't be done from code. See your[host application's](../../Glossary/vbe-glossary.md#host-application) documentation for information on giving object module members wider visibility.
+    Remove the **Option Private Module** statement from the module. Object modules have the characteristic of **Option Private Module** by default. Changing the default can't be done from code. See your[host application's](../../Glossary/vbe-glossary.md#host-application) documentation for information on giving object module members wider visibility.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

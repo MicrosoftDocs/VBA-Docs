@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.TaskCompletedDate property (Outlook)
 
-Returns or sets a  **Date** value that represents the completion date of the task for this **[ContactItem](Outlook.ContactItem.md)**. Read/write.
+Returns or sets a **Date** value that represents the completion date of the task for this **[ContactItem](Outlook.ContactItem.md)**. Read/write.
 
 
 ## Syntax

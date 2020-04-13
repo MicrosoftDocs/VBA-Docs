@@ -34,7 +34,7 @@ _expression_ A variable that represents an [ItemProperties](Outlook.ItemProperti
 
 ## Return value
 
-An  **ItemProperty** object that represents the specified object.
+An **ItemProperty** object that represents the specified object.
 
 
 ## Example

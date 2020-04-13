@@ -11,13 +11,13 @@ localization_priority: Normal
 
 # ReportTemplate object (Project)
 
-Represents a template for a Visual Report. The  **ReportTemplate** object is a member of the **[ReportTemplates](Project.reporttemplates.md)** collection.
+Represents a template for a Visual Report. The **ReportTemplate** object is a member of the **[ReportTemplates](Project.reporttemplates.md)** collection.
  
 
 
 ## Remarks
 
-Use the  **[Item](Project.ReportTemplates.Item.md)** property of the **ReportTemplates** collection to return a single **ReportTemplate** object.
+Use the **[Item](Project.ReportTemplates.Item.md)** property of the **ReportTemplates** collection to return a single **ReportTemplate** object.
  
 
  

@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-In previous versions of Project, the  **CustomForms** method displays the **Customize Forms** dialog box, which prompts the user to manage custom forms.
+In previous versions of Project, the **CustomForms** method displays the **Customize Forms** dialog box, which prompts the user to manage custom forms.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -15,7 +15,7 @@ Represents a collection of  **[Assignment](Project.Assignment.md)** objects wher
 
 ## Remarks
 
-Use the  **[Item](Project.OverAllocatedAssignments.Item.md)** property to get a single **Assignment** object from the **OverAllocatedAssignments** collection.
+Use the **[Item](Project.OverAllocatedAssignments.Item.md)** property to get a single **Assignment** object from the **OverAllocatedAssignments** collection.
  
 
  

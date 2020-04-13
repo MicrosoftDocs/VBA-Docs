@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.WindowSidepaneTaskChange event (Project)
 
-Occurs when a user selects different items in the  **Next Steps and Related Activities** menu in the Project Guide.
+Occurs when a user selects different items in the **Next Steps and Related Activities** menu in the Project Guide.
 
 
 ## Syntax
@@ -27,8 +27,8 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Window_|Required|**Window**|The window where the  **Project Guide** is being changed.|
-| _ID_|Required|**Long**|The ID of the task in the  **Project Guide** you are trying to display.|
+| _Window_|Required|**Window**|The window where the **Project Guide** is being changed.|
+| _ID_|Required|**Long**|The ID of the task in the **Project Guide** you are trying to display.|
 | _IsGoalArea_|Required|**Boolean**|**True** if trying to change to a different goal area in the **Project Guide**.  **False** if trying to change to a different **Project Guide** task.|
 
 ## Return value

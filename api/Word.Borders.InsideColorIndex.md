@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Borders](Word.borders.md)'
 
 ## Remarks
 
-If the  **InsideLineStyle** property is set to either **wdLineStyleNone** or **False**, setting this property has no effect.
+If the **InsideLineStyle** property is set to either **wdLineStyleNone** or **False**, setting this property has no effect.
 
 
 ## Example

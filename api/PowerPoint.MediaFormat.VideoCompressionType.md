@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MediaFormat.VideoCompressionType property (PowerPoint)
 
-Returns a  **String** that represents the video compression format of the media. Read-only.
+Returns a **String** that represents the video compression format of the media. Read-only.
 
 
 ## Syntax

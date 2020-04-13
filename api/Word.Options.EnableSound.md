@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 
 ## Example
 
-This example sets the  **Provide feedback with sound** option on the **General** tab in the **Options** dialog box, based on user input.
+This example sets the **Provide feedback with sound** option on the **General** tab in the **Options** dialog box, based on user input.
 
 
 ```vb

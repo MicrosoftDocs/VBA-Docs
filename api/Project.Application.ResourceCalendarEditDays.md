@@ -34,7 +34,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _ResourceName_|Required|**String**|The name of the resource to edit.|
 | _StartDate_|Optional|**Variant**|The first date to edit.|
 | _EndDate_|Optional|**Variant**|The last date to edit.|
-| _WeekDay_|Optional|**Long**|The weekday to edit. If StartDate and EndDate are specified, WeekDay is ignored. Can be one of the  **[PjWeekday](Project.PjWeekday.md)** constants.|
+| _WeekDay_|Optional|**Long**|The weekday to edit. If StartDate and EndDate are specified, WeekDay is ignored. Can be one of the **[PjWeekday](Project.PjWeekday.md)** constants.|
 | _Working_|Optional|**Boolean**|**True** if the days are working days. If Default is **True**, Working is ignored.|
 | _Default_|Optional|**Boolean**|**True** if the resource calendar uses the values in the corresponding base calendar as defaults. The default value is **False**.|
 | _From1_|Optional|**Variant**|The start time of the first shift.|
@@ -55,6 +55,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **ResourceCalendarEditDays** method returns a trappable error (error code 1101) when applied to material resources.
+The **ResourceCalendarEditDays** method returns a trappable error (error code 1101) when applied to material resources.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

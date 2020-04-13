@@ -39,6 +39,6 @@ _expression_. `InactivateTaskToggle`( `_MakeActive_` )
 
 ## Remarks
 
-The  **InactivateTaskToggle** method corresponds to the **Inactivate** command in the **Tasks** group of the **Task** tab on the Ribbon.
+The **InactivateTaskToggle** method corresponds to the **Inactivate** command in the **Tasks** group of the **Task** tab on the Ribbon.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

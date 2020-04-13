@@ -36,7 +36,7 @@ Unlike the  **SlideIndex** property, the **SlideID** property of a **Slide** obj
 
 ## Example
 
-This example demonstrates how to retrieve the unique ID number for a  **Slide** object and then use this number to return that **Slide** object from the **Slides** collection.
+This example demonstrates how to retrieve the unique ID number for a **Slide** object and then use this number to return that **Slide** object from the **Slides** collection.
 
 
 ```vb

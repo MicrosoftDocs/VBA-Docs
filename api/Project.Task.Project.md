@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Task.Project property (Project)
 
-Gets the name of the project containing the  **Task**. Read-only **String**.
+Gets the name of the project containing the **Task**. Read-only **String**.
 
 
 ## Syntax

@@ -16,7 +16,7 @@ You must have an [expression](../../Glossary/vbe-glossary.md#expression) selecte
 
 
 
-- You didn't select an expression to watch before choosing  **Instant Watch**. Highlight the [watch expression](../../Glossary/vbe-glossary.md#watch-expression) in the Code window before choosing **Instant Watch**.
+- You didn't select an expression to watch before choosing **Instant Watch**. Highlight the [watch expression](../../Glossary/vbe-glossary.md#watch-expression) in the Code window before choosing **Instant Watch**.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

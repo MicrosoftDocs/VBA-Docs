@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.BusinessAddressPostOfficeBox property (Outlook)
 
-Returns or sets a  **String** representing the post office box number portion of the business address for the contact. Read/write.
+Returns or sets a **String** representing the post office box number portion of the business address for the contact. Read/write.
 
 
 ## Syntax

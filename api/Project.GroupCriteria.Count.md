@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # GroupCriteria.Count property (Project)
 
-Gets the number of items in the  **GroupCriteria** collection. Read-only **Long**.
+Gets the number of items in the **GroupCriteria** collection. Read-only **Long**.
 
 
 ## Syntax

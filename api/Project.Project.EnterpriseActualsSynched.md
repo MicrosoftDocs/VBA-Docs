@@ -26,6 +26,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The  **EnterpriseActualsSynched** property is available only in Project Professional.
+The **EnterpriseActualsSynched** property is available only in Project Professional.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

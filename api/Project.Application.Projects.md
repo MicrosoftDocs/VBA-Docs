@@ -23,12 +23,12 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-To see the  **Project Properties** dialog box, choose the **FILE** tab to show the **Backstage** view. On the **Info** tab, select the **Project Information** drop-down menu, and then choose **Advanced Properties**.
+To see the **Project Properties** dialog box, choose the **FILE** tab to show the **Backstage** view. On the **Info** tab, select the **Project Information** drop-down menu, and then choose **Advanced Properties**.
 
 
 ## Example
 
-The following example adds the date and time to the  **Comments** field in the project **Properties** dialog box, and then saves the project.
+The following example adds the date and time to the **Comments** field in the project **Properties** dialog box, and then saves the project.
 
 
 ```vb

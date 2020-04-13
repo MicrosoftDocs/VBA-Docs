@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactsModule.Visible property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether the **[ContactsModule](Outlook.ContactsModule.md)** object is displayed in the navigation pane. Read/write.
+Returns or sets a **Boolean** value that determines whether the **[ContactsModule](Outlook.ContactsModule.md)** object is displayed in the navigation pane. Read/write.
 
 
 ## Syntax

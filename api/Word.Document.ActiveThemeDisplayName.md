@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Document](Word.Document.md)** objec
 
 ## Remarks
 
-The  **ActiveThemeDisplayName** property returns "none" if the document doesn't have an active theme. A theme's display name is the name that appears in the **Theme** dialog box. This name may not correspond to the string you would use to set a default theme or to apply a theme to a document.
+The **ActiveThemeDisplayName** property returns "none" if the document doesn't have an active theme. A theme's display name is the name that appears in the **Theme** dialog box. This name may not correspond to the string you would use to set a default theme or to apply a theme to a document.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailMessage.Reply method (Word)
 
-Opens a new email message — with the sender's address on the  **To** line — for replying to the active message.
+Opens a new email message — with the sender's address on the **To** line — for replying to the active message.
 
 
 ## Syntax

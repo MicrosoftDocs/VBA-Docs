@@ -25,7 +25,7 @@ _expression_ A variable that represents a **ListBox** object.
 
 When a control is locked and enabled, it can still initiate events and can still receive the focus.
 
-The  **[Enabled](Outlook.listbox.enabled.md)** and **Locked** properties work together to achieve the following effects:
+The **[Enabled](Outlook.listbox.enabled.md)** and **Locked** properties work together to achieve the following effects:
 
 
 - If  **Enabled** and **Locked** are both **True**, the control can receive focus and appears normally (not dimmed) in the form. The user can copy, but not edit, data in the control.

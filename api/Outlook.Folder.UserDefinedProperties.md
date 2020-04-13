@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folder.UserDefinedProperties property (Outlook)
 
-Returns a  **[UserDefinedProperties](Outlook.UserDefinedProperties.md)** object that represents the user-defined custom properties for the **[Folder](Outlook.Folder.md)** object. Read-only.
+Returns a **[UserDefinedProperties](Outlook.UserDefinedProperties.md)** object that represents the user-defined custom properties for the **[Folder](Outlook.Folder.md)** object. Read-only.
 
 
 ## Syntax

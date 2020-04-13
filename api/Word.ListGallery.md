@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ListGallery object (Word)
 
-Represents a single gallery of list formats. The  **ListGallery** object is a member of the **ListGalleries** collection.
+Represents a single gallery of list formats. The **ListGallery** object is a member of the **ListGalleries** collection.
 
 
 ## Remarks
@@ -23,7 +23,7 @@ Each  **ListGallery** object represents one of the three tabs in the **Bullets a
 
 Use  **ListGalleries** (Index), where Index is **wdBulletGallery**, **wdNumberGallery**, or **wdOutlineNumberGallery**, to return a single **ListGallery** object.
 
-The following example returns the third list format (excluding  **None**) on the  **Bulleted** tab in the **Bullets and Numbering** dialog box and then applies it to the selection.
+The following example returns the third list format (excluding  **None**) on the **Bulleted** tab in the **Bullets and Numbering** dialog box and then applies it to the selection.
 
 
 
@@ -33,7 +33,7 @@ Set temp3 = ListGalleries(wdBulletGallery).ListTemplates(3)
 Selection.Range.ListFormat.ApplyListTemplate ListTemplate:= temp3
 ```
 
-To see whether the specified list template contains the formatting built into Word, use the  **Modified** property for the **ListGallery** object. To reset formatting to the original list format, use the **Reset** method for the **ListGallery** object.
+To see whether the specified list template contains the formatting built into Word, use the **Modified** property for the **ListGallery** object. To reset formatting to the original list format, use the **Reset** method for the **ListGallery** object.
 
 
 ## Methods

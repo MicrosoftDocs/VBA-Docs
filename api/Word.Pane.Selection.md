@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Pane.Selection property (Word)
 
-Returns the  **Selection** object that represents a selection or the insertion point within a document pane. Read-only.
+Returns the **Selection** object that represents a selection or the insertion point within a document pane. Read-only.
 
 
 ## Syntax

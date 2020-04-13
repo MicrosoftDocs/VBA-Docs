@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
 ## Remarks
 
-Corresponds to the value of the  **Save in** box on the **Commands** tab in the **Customize** dialog box (**Tools** menu).
+Corresponds to the value of the **Save in** box on the **Commands** tab in the **Customize** dialog box (**Tools** menu).
 
 
 ## Example

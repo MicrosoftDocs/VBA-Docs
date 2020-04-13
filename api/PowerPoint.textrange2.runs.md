@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # TextRange2.Runs property (PowerPoint)
 
-Gets a  **TextRange2** object that represents the specified subset of text runs. A text run consists of a range of characters that share the same font attributes. Read-only.
+Gets a **TextRange2** object that represents the specified subset of text runs. A text run consists of a range of characters that share the same font attributes. Read-only.
 
 
 ## Syntax

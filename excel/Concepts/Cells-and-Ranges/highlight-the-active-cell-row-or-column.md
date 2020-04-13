@@ -9,13 +9,13 @@ localization_priority: Priority
 
 # Highlight the Active Cell, Row, or Column
 
-The following code examples show ways to highlight the active cell or the rows and columns that contain the active cell. These examples use the  **[SelectionChange](../../../api/Excel.Worksheet.SelectionChange.md)** event of the **[Worksheet](../../../api/Excel.Worksheet.md)** object.
+The following code examples show ways to highlight the active cell or the rows and columns that contain the active cell. These examples use the **[SelectionChange](../../../api/Excel.Worksheet.SelectionChange.md)** event of the **[Worksheet](../../../api/Excel.Worksheet.md)** object.
 
  **Sample code provided by:** Tom Urtis, [Atlas Programming Management](https://www.atlaspm.com/)
 
 ## Highlighting the Active Cell
 
-The following code example clears the color in all the cells on the worksheet by setting the  **[ColorIndex](../../../api/Excel.Interior.ColorIndex.md)** property equal to 0, and then highlights the active cell by setting the **ColorIndex** property equal to 8 (Turquoise).
+The following code example clears the color in all the cells on the worksheet by setting the **[ColorIndex](../../../api/Excel.Interior.ColorIndex.md)** property equal to 0, and then highlights the active cell by setting the **ColorIndex** property equal to 8 (Turquoise).
 
 
 ```vb
@@ -32,7 +32,7 @@ End Sub
 
 ## Highlighting the Entire Row and Column that Contain the Active Cell
 
-The following code example clears the color in all the cells on the worksheet by setting the  **[ColorIndex](../../../api/Excel.Interior.ColorIndex.md)** property equal to 0, and then highlights the entire row and column that contain the active cell by using the **[EntireRow](../../../api/Excel.Range.EntireRow.md)** and **[EntireColumn](../../../api/Excel.Range.EntireColumn.md)** properties.
+The following code example clears the color in all the cells on the worksheet by setting the **[ColorIndex](../../../api/Excel.Interior.ColorIndex.md)** property equal to 0, and then highlights the entire row and column that contain the active cell by using the **[EntireRow](../../../api/Excel.Range.EntireRow.md)** and **[EntireColumn](../../../api/Excel.Range.EntireColumn.md)** properties.
 
 
 ```vb
@@ -53,7 +53,7 @@ End Sub
 
 ## Highlighting the Row and Column that Contain the Active Cell, Within the Current Region
 
-The following code example clears the color in all the cells on the worksheet by setting the  **[ColorIndex](../../../api/Excel.Interior.ColorIndex.md)** property equal to 0, and then highlights the row and column that contain the active cell, within the current region by using the **[CurrentRegion](../../../api/Excel.Range.CurrentRegion.md)** property of the **[Range](../../../api/Excel.Range(object).md)** object.
+The following code example clears the color in all the cells on the worksheet by setting the **[ColorIndex](../../../api/Excel.Interior.ColorIndex.md)** property equal to 0, and then highlights the row and column that contain the active cell, within the current region by using the **[CurrentRegion](../../../api/Excel.Range.CurrentRegion.md)** property of the **[Range](../../../api/Excel.Range(object).md)** object.
 
 
 ```vb

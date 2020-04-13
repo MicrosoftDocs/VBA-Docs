@@ -30,8 +30,8 @@ _expression_ A variable that represents an **[Application](Word.Application.md)*
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _KeyCode_|Required| **Long**|A key you specify by using one of the  **WdKey** constants.|
-| _KeyCode2_|Optional| **Variant**|A second key you specify by using one of the  **WdKey** constants.|
+| _KeyCode_|Required| **Long**|A key you specify by using one of the **WdKey** constants.|
+| _KeyCode2_|Optional| **Variant**|A second key you specify by using one of the **WdKey** constants.|
 
 ## Return value
 
@@ -40,7 +40,7 @@ String
 
 ## Remarks
 
-You can use the  **BuildKeyCode** method to create the KeyCode or KeyCode2 argument.
+You can use the **BuildKeyCode** method to create the KeyCode or KeyCode2 argument.
 
 
 ## Example

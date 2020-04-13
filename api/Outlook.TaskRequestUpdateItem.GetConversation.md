@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskRequestUpdateItem.GetConversation method (Outlook)
 
-Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
+Obtains a **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 
 
 ## Syntax

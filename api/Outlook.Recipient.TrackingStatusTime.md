@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Recipient.TrackingStatusTime property (Outlook)
 
-Returns or sets a  **Date** indicating the tracking status date and time for the recipient. Read/write.
+Returns or sets a **Date** indicating the tracking status date and time for the recipient. Read/write.
 
 
 ## Syntax

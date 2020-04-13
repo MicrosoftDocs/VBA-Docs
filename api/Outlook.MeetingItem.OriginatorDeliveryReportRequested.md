@@ -28,7 +28,7 @@ _expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) 
 
 Each transport provider that handles your message sends you a single delivery notification containing the names and addresses of each recipient to whom it was delivered. Delivery does not imply that the message has been read.  **True** if the originator requested a delivery receipt on the message.
 
-The  **OriginatorDeliveryReportRequested** property corresponds to the MAPI property **PidTagOriginatorDeliveryReportRequested**.
+The **OriginatorDeliveryReportRequested** property corresponds to the MAPI property **PidTagOriginatorDeliveryReportRequested**.
 
 
 ## See also

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Day object (Project)
 
-Represents a day in a month. The  **Day** object is a member of the **[Days](Project.days.md)** collection.
+Represents a day in a month. The **Day** object is a member of the **[Days](Project.days.md)** collection.
  
 
 
@@ -49,7 +49,7 @@ Next R
  
 
  
-Use the  **[Days](Project.Month.Days.md)** property to return a **Days** collection. The following example counts the number of working days in the month of September 2008.
+Use the **[Days](Project.Month.Days.md)** property to return a **Days** collection. The following example counts the number of working days in the month of September 2008.
  
 
  

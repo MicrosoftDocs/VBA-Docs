@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[CustomLabel](Word.CustomLa
 
 ## Remarks
 
-Some of the  **WdCustomLabelPageSize** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
+Some of the **WdCustomLabelPageSize** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
 
 
 ## Example

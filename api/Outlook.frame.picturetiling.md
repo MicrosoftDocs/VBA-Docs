@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # Frame.PictureTiling Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether a picture is repeated across the background of the object. Read/write.
+Returns or sets a **Boolean** that specifies whether a picture is repeated across the background of the object. Read/write.
 
 
 ## Syntax
 
 _expression_.**PictureTiling**
 
-_expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a **Frame** object.
 
 
 ## Remarks

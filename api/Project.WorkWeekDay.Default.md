@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WorkWeekDay.Default method (Project)
 
-Resets the  **WorkWeekDay** item of a resource calendar to the value in the corresponding base calendar.
+Resets the **WorkWeekDay** item of a resource calendar to the value in the corresponding base calendar.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_. `Default`
 
 ## Remarks
 
-Applying the  **Default** method to a base calendar resets the properties to their default values.
+Applying the **Default** method to a base calendar resets the properties to their default values.
 
 
 ## See also

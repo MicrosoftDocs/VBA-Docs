@@ -30,8 +30,8 @@ _expression_ A variable that represents an **[Application](Word.Application.md)*
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required| **[WdKey](Word.WdKey.md)**|A key you specify by using one of the  **WdKey** constants.|
-| _Arg2 - Arg4_|Optional| **[WdKey](Word.WdKey.md)**|A key you specify by using one of the  **WdKey** constants.|
+| _Arg1_|Required| **[WdKey](Word.WdKey.md)**|A key you specify by using one of the **WdKey** constants.|
+| _Arg2 - Arg4_|Optional| **[WdKey](Word.WdKey.md)**|A key you specify by using one of the **WdKey** constants.|
 
 ## Example
 

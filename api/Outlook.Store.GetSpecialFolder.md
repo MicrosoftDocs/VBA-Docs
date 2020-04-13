@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Store.GetSpecialFolder method (Outlook)
 
-Returns a  **[Folder](Outlook.Folder.md)** object for a special folder specified by _FolderType_ in a given store.
+Returns a **[Folder](Outlook.Folder.md)** object for a special folder specified by _FolderType_ in a given store.
 
 
 ## Syntax
@@ -34,12 +34,12 @@ _expression_ A variable that represents a [Store](Outlook.Store.md) object.
 
 ## Return value
 
-A  **Folder** object that represents a special folder specified by the _FolderType_.
+A **Folder** object that represents a special folder specified by the _FolderType_.
 
 
 ## Remarks
 
-Not all special folders exist in all stores. If the requested special folder does not exist, a  **Null** value (**Nothing** in VB) will be returned.
+Not all special folders exist in all stores. If the requested special folder does not exist, a **Null** value (**Nothing** in VB) will be returned.
 
 
 ## See also

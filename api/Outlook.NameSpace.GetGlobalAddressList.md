@@ -26,7 +26,7 @@ _expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) obje
 
 ## Return value
 
-An  **AddressList** that represents the Global Address List.
+An **AddressList** that represents the Global Address List.
 
 
 ## Remarks

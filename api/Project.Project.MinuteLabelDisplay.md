@@ -26,8 +26,8 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The  **MinuteLabelDisplay** property corresponds to the **Minutes** list on the **Advanced** tab of the **Project Options** dialog box. For example, setting the **MinuteLabelDisplay** property to 1 sets the **Minutes** list to the second value in the list ("min").
+The **MinuteLabelDisplay** property corresponds to the **Minutes** list on the **Advanced** tab of the **Project Options** dialog box. For example, setting the **MinuteLabelDisplay** property to 1 sets the **Minutes** list to the second value in the list ("min").
 
-Values of the  **MinuteLabelDisplay** property can be 0 to 2.
+Values of the **MinuteLabelDisplay** property can be 0 to 2.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

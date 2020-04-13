@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # TabStrip.TabFixedWidth Property (Outlook Forms Script)
 
-Returns or sets a  **Single** that represents the width in points of the tabs on a **[TabStrip](Outlook.tabstrip.md)**. Read/write.
+Returns or sets a **Single** that represents the width in points of the tabs on a **[TabStrip](Outlook.tabstrip.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**TabFixedWidth**
 
-_expression_ A variable that represents a  **TabStrip** object.
+_expression_ A variable that represents a **TabStrip** object.
 
 
 ## Remarks

@@ -26,7 +26,7 @@ _expression_. `IsSandboxed`
 
 ## Remarks
 
-Use the  **IsSandboxed** property to determine if a document is open within a Protected View window.
+Use the **IsSandboxed** property to determine if a document is open within a Protected View window.
 
 
 ## Example

@@ -27,7 +27,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Example
 
-In the following example, the  **AlignTableCells** macro aligns the text for all tables in the specified report.
+In the following example, the **AlignTableCells** macro aligns the text for all tables in the specified report.
 
 
 ```vb

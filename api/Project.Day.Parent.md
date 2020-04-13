@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Day.Parent property (Project)
 
-Gets the parent of the  **Day** object. Read-only **Month**.
+Gets the parent of the **Day** object. Read-only **Month**.
 
 
 ## Syntax
@@ -23,6 +23,6 @@ _expression_ A variable that represents a [Day](./Project.Day.md) object.
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

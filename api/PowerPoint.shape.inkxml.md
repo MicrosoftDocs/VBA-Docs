@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Shape.InkXML property (PowerPoint)
 
-Returns a  **String** that contains the InkActionML associated with the specified shape. Read-only.
+Returns a **String** that contains the InkActionML associated with the specified shape. Read-only.
 
 If the specified shape does not contain a ink object more than one ink object occurs , an error is returned.
 
@@ -22,7 +22,7 @@ _expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** objec
 
 ## Return value
 
-A  **String** that contains the InkActionML associated with the specified shape.
+A **String** that contains the InkActionML associated with the specified shape.
 
 
 ## See also

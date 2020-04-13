@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ToggleTaskDetails method (Project)
 
-Shows or hides the  **Task Form** in the bottom pane of a split view.
+Shows or hides the **Task Form** in the bottom pane of a split view.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ _expression_. `ToggleTaskDetails`
 
 ## Remarks
 
-The  **ToggleTaskDetails** method corresponds to selecting or clearing the **Details** check box in the **Split View** group on the **View** tab under **Gantt Chart Tools** on the ribbon, where **Task Form** is selected in the **Details** drop-down list.
+The **ToggleTaskDetails** method corresponds to selecting or clearing the **Details** check box in the **Split View** group on the **View** tab under **Gantt Chart Tools** on the ribbon, where **Task Form** is selected in the **Details** drop-down list.
 
 You can use  **ToggleTaskDetails** to add a **Task Form** split view to other views except an empty Timeline view.
 

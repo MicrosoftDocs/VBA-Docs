@@ -34,7 +34,7 @@ _expression_ A variable that represents an [OutlookBarShortcuts](Outlook.Outlook
 
 ## Return value
 
-An  **OutlookBarShortcut** object that represents the specified object.
+An **OutlookBarShortcut** object that represents the specified object.
 
 
 ## See also

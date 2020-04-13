@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormDescription.Locked property (Outlook)
 
-Returns a  **Boolean** value that indicates **True** if the form cannot be modified. Read/write.
+Returns a **Boolean** value that indicates **True** if the form cannot be modified. Read/write.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_. `SizeBi`
 
 ## Remarks
 
-The  **SizeBi** property applies to text in a right-to-left language.
+The **SizeBi** property applies to text in a right-to-left language.
 
 
 ## Example

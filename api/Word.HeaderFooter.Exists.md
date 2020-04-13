@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[HeaderFooter](Word.HeaderFooter.md)'
 
 ## Remarks
 
-The primary header and footer exist in all new documents by default. Use this method to determine whether a first-page or odd-page header or footer exists. You can also use the  **[DifferentFirstPageHeaderFooter](Word.PageSetup.DifferentFirstPageHeaderFooter.md)** or **[OddAndEvenPagesHeaderFooter](Word.PageSetup.OddAndEvenPagesHeaderFooter.md)** property to return or set the number of headers and footers in the specified document or section.
+The primary header and footer exist in all new documents by default. Use this method to determine whether a first-page or odd-page header or footer exists. You can also use the **[DifferentFirstPageHeaderFooter](Word.PageSetup.DifferentFirstPageHeaderFooter.md)** or **[OddAndEvenPagesHeaderFooter](Word.PageSetup.OddAndEvenPagesHeaderFooter.md)** property to return or set the number of headers and footers in the specified document or section.
 
 
 ## Example

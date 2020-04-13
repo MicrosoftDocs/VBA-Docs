@@ -12,20 +12,20 @@ localization_priority: Normal
 
 # ComboBox.ListIndex Property (Outlook Forms Script)
 
-Returns or sets a  **Variant** that represents the currently selected item in a **[ComboBox](Outlook.combobox.md)**. Read/write.
+Returns or sets a **Variant** that represents the currently selected item in a **[ComboBox](Outlook.combobox.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**ListIndex**
 
-_expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a **ComboBox** object.
 
 
 ## Remarks
 
-The  **ListIndex** property contains an index of the selected row in a list. Values of **ListIndex** range from -1 to one less than the total number of rows in a list (that is, **[ListCount](Outlook.combobox.listcount.md)** - 1). When no rows are selected, **ListIndex** returns -1. When the user selects a row in a **ListBox** or **ComboBox**, the system sets the  **ListIndex** value. The **ListIndex** value of the first row in a list is 0, the value of the second row is 1, and so on.
+The **ListIndex** property contains an index of the selected row in a list. Values of **ListIndex** range from -1 to one less than the total number of rows in a list (that is, **[ListCount](Outlook.combobox.listcount.md)** - 1). When no rows are selected, **ListIndex** returns -1. When the user selects a row in a **ListBox** or **ComboBox**, the system sets the  **ListIndex** value. The **ListIndex** value of the first row in a list is 0, the value of the second row is 1, and so on.
 
-The  **ListIndex** value is also available by setting the **[BoundColumn](Outlook.combobox.boundcolumn.md)** property to 0 for a combo box. If **BoundColumn** is 0, the underlying data source to which the combo box is bound contains the same list index value as **ListIndex**.
+The **ListIndex** value is also available by setting the **[BoundColumn](Outlook.combobox.boundcolumn.md)** property to 0 for a combo box. If **BoundColumn** is 0, the underlying data source to which the combo box is bound contains the same list index value as **ListIndex**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # GroupCriterion.Delete method (Project)
 
-Deletes the  **GroupCriterion** object from a **GroupCriteria** collection.
+Deletes the **GroupCriterion** object from a **GroupCriteria** collection.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[FormField](Word.FormField.md)' objec
 
 ## Remarks
 
-If the  **CheckBox** property is applied to a **FormField** object that isn't a check box form field, the property won't fail, but the **Valid** property for the returned object will be **False**.
+If the **CheckBox** property is applied to a **FormField** object that isn't a check box form field, the property won't fail, but the **Valid** property for the returned object will be **False**.
 
 
 ## Example

@@ -35,7 +35,7 @@ _expression_ A variable that represents a [PropertyPage](Outlook.PropertyPage.md
 
 ## Return value
 
-An  **HRESULT** value that represents the result of the method.
+An **HRESULT** value that represents the result of the method.
 
 
 ## Example

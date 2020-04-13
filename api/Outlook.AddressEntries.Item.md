@@ -34,7 +34,7 @@ _expression_ A variable that represents an [AddressEntries](Outlook.AddressEntri
 
 ## Return value
 
-An  **AddressEntry** object that represents the specified object.
+An **AddressEntry** object that represents the specified object.
 
 
 ## See also

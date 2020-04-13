@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folder.GetStorage method (Outlook)
 
-Gets a  **[StorageItem](Outlook.StorageItem.md)** object on the parent **[Folder](Outlook.Folder.md)** to store data for an Outlook solution.
+Gets a **[StorageItem](Outlook.StorageItem.md)** object on the parent **[Folder](Outlook.Folder.md)** to store data for an Outlook solution.
 
 
 ## Syntax
@@ -35,12 +35,12 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 ## Return value
 
-A  **StorageItem** object that is used to store data for a solution.
+A **StorageItem** object that is used to store data for a solution.
 
 
 ## Remarks
 
-The  **GetStorage** method obtains a **StorageItem** on a **Folder** object using the identifier specified by _StorageIdentifier_ and has the identifier type specified by _StorageIdentifierType_. The **StorageItem** is a hidden item in the **Folder**, which roams with the account and is available online and offline.
+The **GetStorage** method obtains a **StorageItem** on a **Folder** object using the identifier specified by _StorageIdentifier_ and has the identifier type specified by _StorageIdentifierType_. The **StorageItem** is a hidden item in the **Folder**, which roams with the account and is available online and offline.
 
 If you specify the  **[EntryID](Outlook.StorageItem.EntryID.md)** for the **StorageItem** by using the **olIdentifyByEntryID** value for _StorageIdentifierType_ , then the **GetStorage** method will return the **StorageItem** with the specified **EntryID**. If no **StorageItem** can be found using that **EntryID** or if the **StorageItem** does not exist, then the **GetStorage** method will raise an error.
 
@@ -61,7 +61,7 @@ If you specify the  **[Subject](Outlook.StorageItem.Subject.md)** of the **Stora
     
 
 
-The  **[Size](Outlook.StorageItem.Size.md)** of a **StorageItem** that is newly created is zero (0) until you make an explicit call on the **[Save](Outlook.StorageItem.Save.md)** method of the item.
+The **[Size](Outlook.StorageItem.Size.md)** of a **StorageItem** that is newly created is zero (0) until you make an explicit call on the **[Save](Outlook.StorageItem.Save.md)** method of the item.
 
 For more information on storing data for a solution, see [Storing Data for Solutions](../outlook/How-to/Solution-Storage/storing-data-for-solutions.md).
 

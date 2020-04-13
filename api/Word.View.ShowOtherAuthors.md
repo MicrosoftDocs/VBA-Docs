@@ -26,7 +26,7 @@ _expression_. `ShowOtherAuthors`
 
 ## Remarks
 
-By default, when Word other authors are editing or have blocked off a section of the document. Use the  **ShowOtherAuthors** property to toggle showing other authors' presence while co authoring.
+By default, when Word other authors are editing or have blocked off a section of the document. Use the **ShowOtherAuthors** property to toggle showing other authors' presence while co authoring.
 
 
 ## See also

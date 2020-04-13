@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Outlook.Application.m
 
 ## Return value
 
-An  **Object** that represents the current Outlook window on the desktop. Returns **Nothing** if no Outlook explorer or inspector is open.
+An **Object** that represents the current Outlook window on the desktop. Returns **Nothing** if no Outlook explorer or inspector is open.
 
 
 ## Example

@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Word.Application.md)*
 
 ## Remarks
 
-Use the  **UndoRecord** object to create and modify custom undo records in the Word undo stack.
+Use the **UndoRecord** object to create and modify custom undo records in the Word undo stack.
 
 
 ## Example

@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Word.Application.md)*
 
 ## Example
 
-This example displays the font names in the  **FontNames** collection.
+This example displays the font names in the **FontNames** collection.
 
 
 ```vb

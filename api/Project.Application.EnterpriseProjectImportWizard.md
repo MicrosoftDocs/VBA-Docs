@@ -39,8 +39,8 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Using the  **EnterpriseProjectImportWizard** method still requires that you click **Finish** rather than **Import More** each time the method is used in a macro.
+Using the **EnterpriseProjectImportWizard** method still requires that you click **Finish** rather than **Import More** each time the method is used in a macro.
 
-Alternatively, you can use the  **[SaveAs](Project.Project.SaveAs.md)** method in conjunction with the **[EnterpriseResourceGet](Project.Application.EnterpriseResourceGet.md)** method to convert team members into enterprise resources. Using the Map argument in the **SaveAs** method also allows you to specify the import/export map to use when exporting the data.
+Alternatively, you can use the **[SaveAs](Project.Project.SaveAs.md)** method in conjunction with the **[EnterpriseResourceGet](Project.Application.EnterpriseResourceGet.md)** method to convert team members into enterprise resources. Using the Map argument in the **SaveAs** method also allows you to specify the import/export map to use when exporting the data.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

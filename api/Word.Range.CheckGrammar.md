@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 ## Remarks
 
-If the range contains errors, this method displays the  **Spelling and Grammar** dialog box, with the **Check grammar** check box selected.
+If the range contains errors, this method displays the **Spelling and Grammar** dialog box, with the **Check grammar** check box selected.
 
 
 ## Example

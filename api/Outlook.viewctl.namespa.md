@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # ViewCtl.Namespace Property (Outlook View Control)
 
-Returns or sets a  **String** that represents the namespace property of the control. Read/write.
+Returns or sets a **String** that represents the namespace property of the control. Read/write.
 
 
 ## Syntax
 
 _expression_.**Namespace**
 
-_expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

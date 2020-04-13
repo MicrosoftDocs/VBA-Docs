@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextRange.InsertSlideNumber method (PowerPoint)
 
-Inserts the slide number of the current slide into the specified text range. Returns a  **TextRange** object that represents the slide number.
+Inserts the slide number of the current slide into the specified text range. Returns a **TextRange** object that represents the slide number.
 
 
 ## Syntax

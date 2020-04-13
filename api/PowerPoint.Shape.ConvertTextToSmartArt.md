@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.ConvertTextToSmartArt method (PowerPoint)
 
-Converts text in a  **Shape** object to a SmartArt diagram.
+Converts text in a **Shape** object to a SmartArt diagram.
 
 
 ## Syntax

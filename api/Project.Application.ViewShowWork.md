@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **ViewShowWork** method has no effect unless the active window contains one of the following views: Resource Graph, Resource Form, Resource Name Form, Task Details Form, or Task Name Form.
+The **ViewShowWork** method has no effect unless the active window contains one of the following views: Resource Graph, Resource Form, Resource Name Form, Task Details Form, or Task Name Form.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

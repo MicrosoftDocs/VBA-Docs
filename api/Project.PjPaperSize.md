@@ -137,6 +137,6 @@ Contains constants that specify the paper size.
 
 ## Remarks
 
-The  **PjPaperSize** enumeration is used by the [Application.FilePageSetupPage](Project.Application.FilePageSetupPage.md) method.
+The **PjPaperSize** enumeration is used by the [Application.FilePageSetupPage](Project.Application.FilePageSetupPage.md) method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

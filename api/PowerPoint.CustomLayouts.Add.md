@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CustomLayouts.Add method (PowerPoint)
 
-Returns a  **CustomLayout** object that represents a new custom layout.
+Returns a **CustomLayout** object that represents a new custom layout.
 
 
 ## Syntax

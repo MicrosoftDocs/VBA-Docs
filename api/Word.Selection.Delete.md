@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **Variant**|The unit by which the collapsed selection is to be deleted. Can be one of the  **WdUnits** constants.|
+| _Unit_|Optional| **Variant**|The unit by which the collapsed selection is to be deleted. Can be one of the **WdUnits** constants.|
 | _Count_|Optional| **Variant**|The number of units to be deleted. To delete units after the selection, collapse the selection and use a positive number. To delete units before the selection, collapse the selection and use a negative number.|
 
 ## Return value

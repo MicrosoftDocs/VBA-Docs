@@ -26,6 +26,6 @@ _expression_ A variable that represents a [Resource](./Project.Resource.md) obje
 
 ## Remarks
 
-The  **WindowsUserAccount** value is in the format of _"Domain name\User name"_, where _Domain name_ is the name of the Windows domain and _User name_ is the logon name of the user.
+The **WindowsUserAccount** value is in the format of _"Domain name\User name"_, where _Domain name_ is the name of the Windows domain and _User name_ is the logon name of the user.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

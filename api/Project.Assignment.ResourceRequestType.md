@@ -23,6 +23,6 @@ _expression_ A variable that represents an [Assignment](./Project.Assignment.md)
 
 ## Remarks
 
-The  **ResourceRequestType** property can be one of the following **[PjResourceRequestType](Project.PjResourceRequestType.md)** constants: **pjResourceRequestTypeDemand**, **pjResourceRequestTypeNone**, or **pjResourceRequestTypeRequest**.
+The **ResourceRequestType** property can be one of the following **[PjResourceRequestType](Project.PjResourceRequestType.md)** constants: **pjResourceRequestTypeDemand**, **pjResourceRequestTypeNone**, or **pjResourceRequestTypeRequest**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

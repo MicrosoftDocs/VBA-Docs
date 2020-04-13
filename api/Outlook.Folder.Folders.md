@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 ## Remarks
 
-The  **[NameSpace](Outlook.NameSpace.md)** object is the root of all the folders for the given name space.
+The **[NameSpace](Outlook.NameSpace.md)** object is the root of all the folders for the given name space.
 
 
 ## Example

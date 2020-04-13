@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailMessage.DisplayProperties method (Word)
 
-Displays the  **Properties** dialog box for the active email message.
+Displays the **Properties** dialog box for the active email message.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ This method is available only if you are using Word as your email editor.
 
 ## Example
 
-This example displays the  **Properties** dialog box for the active email message.
+This example displays the **Properties** dialog box for the active email message.
 
 
 ```vb

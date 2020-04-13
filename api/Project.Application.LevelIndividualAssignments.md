@@ -23,6 +23,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-You can also set the  **LevelIndividualAssignments** property in the **Resource Leveling** dialog box. To access the setting, click **Leveling Options** on the **Resource** tab of the Ribbon, and then click **Leveling can adjust individual assignments on a task**.
+You can also set the **LevelIndividualAssignments** property in the **Resource Leveling** dialog box. To access the setting, click **Leveling Options** on the **Resource** tab of the Ribbon, and then click **Leveling can adjust individual assignments on a task**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

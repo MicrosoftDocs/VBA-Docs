@@ -23,6 +23,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-See the  **[PjDateFormat](Project.PjDateFormat.md)** enumeration.
+See the **[PjDateFormat](Project.PjDateFormat.md)** enumeration.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

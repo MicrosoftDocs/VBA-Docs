@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # Page.Visible Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether a **[Page](Outlook.page.md)** is visible or hidden. Read/write.
+Returns or sets a **Boolean** that specifies whether a **[Page](Outlook.page.md)** is visible or hidden. Read/write.
 
 
 ## Syntax
 
 _expression_.**Visible**
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **Page** object.
 
 
 ## Remarks

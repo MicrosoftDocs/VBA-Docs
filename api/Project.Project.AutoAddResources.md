@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Example
 
-The following example prompts the user to set the  **AutoAddResources**, **AutoCalculate**, **AutoLinkTasks**, **AutoSplitTasks**, and **AutoTrack** properties.
+The following example prompts the user to set the **AutoAddResources**, **AutoCalculate**, **AutoLinkTasks**, **AutoSplitTasks**, and **AutoTrack** properties.
 
 
 ```vb

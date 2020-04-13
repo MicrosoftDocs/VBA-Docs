@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Options.DefaultBorderColor property (Word)
 
-Returns or sets the default 24-bit color to use for new  **[Border](Word.Border.md)** objects. Read/write.
+Returns or sets the default 24-bit color to use for new **[Border](Word.Border.md)** objects. Read/write.
 
 
 ## Syntax

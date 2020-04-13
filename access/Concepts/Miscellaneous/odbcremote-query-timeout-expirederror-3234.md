@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The ODBC server may not be properly installed, or a required network connection is not active. Try increasing the value of the  **QueryTimeout** property.
+The ODBC server may not be properly installed, or a required network connection is not active. Try increasing the value of the **QueryTimeout** property.
 
 ## See also
 

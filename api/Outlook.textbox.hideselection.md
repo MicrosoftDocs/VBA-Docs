@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # TextBox.HideSelection Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether selected text remains highlighted when a control does not have the focus. Read/write.
+Returns or sets a **Boolean** that specifies whether selected text remains highlighted when a control does not have the focus. Read/write.
 
 
 ## Syntax
 
 _expression_.**HideSelection**
 
-_expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a **TextBox** object.
 
 
 ## Remarks

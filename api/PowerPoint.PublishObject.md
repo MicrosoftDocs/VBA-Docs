@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PublishObject object (PowerPoint)
 
-Represents a complete or partial loaded presentation that is available for publishing to HTML. The  **PublishObject** object is a member of the **[PublishObjects](PowerPoint.PublishObjects.md)** collection.
+Represents a complete or partial loaded presentation that is available for publishing to HTML. The **PublishObject** object is a member of the **[PublishObjects](PowerPoint.PublishObjects.md)** collection.
 
 
 ## Remarks

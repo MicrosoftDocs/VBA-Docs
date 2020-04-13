@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # ViewCtl.Restriction Property (Outlook View Control)
 
-Returns or sets a  **String** value that represents a filter to the items that are displayed in the control. As a result, the control displays only those items that match the filter. Read/write.
+Returns or sets a **String** value that represents a filter to the items that are displayed in the control. As a result, the control displays only those items that match the filter. Read/write.
 
 
 ## Syntax
 
 _expression_.**Restriction**
 
-_expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a **ViewCtl** object.
 
 
 ## Remarks
@@ -51,6 +51,6 @@ In this example, the control displays only those items whose Subject field conta
 
 The setting of the  **Restriction** property does not persist if the view or current folder changes.
 
-The  **Restriction** property only works correctly if you use Table or Card views. This is a limitation of the Microsoft Outlook View Control.
+The **Restriction** property only works correctly if you use Table or Card views. This is a limitation of the Microsoft Outlook View Control.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

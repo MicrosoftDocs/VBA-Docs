@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.EnterpriseResSubstitutionWizard method (Project)
 
-Runs the  **Resource Substitution Wizard**. Available in Project Professional only.
+Runs the **Resource Substitution Wizard**. Available in Project Professional only.
 
 
 ## Syntax
@@ -47,8 +47,8 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-No events are fired when using the  **EnterpriseResSubstitutionWizard** method.
+No events are fired when using the **EnterpriseResSubstitutionWizard** method.
 
-The  **EnterpriseResSubstitutionWizard** method does not include a parameter for specifying that resources from the enterprise resource pool should be used.
+The **EnterpriseResSubstitutionWizard** method does not include a parameter for specifying that resources from the enterprise resource pool should be used.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

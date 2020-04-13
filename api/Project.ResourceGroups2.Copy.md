@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # ResourceGroups2.Copy method (Project)
 
-Makes a copy of a group definition for the  **ResourceGroups2** collection and returns a reference to the **[Group2](Project.Group2.md)** object.
+Makes a copy of a group definition for the **ResourceGroups2** collection and returns a reference to the **[Group2](Project.Group2.md)** object.
 
 
 ## Syntax

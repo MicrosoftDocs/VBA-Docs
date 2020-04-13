@@ -26,7 +26,7 @@ _expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) obje
 
 ## Remarks
 
-The  **AddressLists** collection represents the root of the address book hierarchy for the current session. A particular **[AddressList](Outlook.AddressList.md)** object represents one of the available address books. The type of access you obtain depends on the access permissions granted to you by each individual address book provider.
+The **AddressLists** collection represents the root of the address book hierarchy for the current session. A particular **[AddressList](Outlook.AddressList.md)** object represents one of the available address books. The type of access you obtain depends on the access permissions granted to you by each individual address book provider.
 
 
 ## See also

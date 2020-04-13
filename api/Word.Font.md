@@ -19,7 +19,7 @@ Contains font attributes (such as font name, font size and color) for an object.
 
 ## Remarks
 
-Use the  **Font** property to return the **Font** object. The following instruction applies bold formatting to the selection.
+Use the **Font** property to return the **Font** object. The following instruction applies bold formatting to the selection.
 
 
 ```vb
@@ -52,7 +52,7 @@ With ActiveDocument.Styles(wdStyleHeading2).Font
 End With
 ```
 
-You can use the  **New** keyword to create a new, stand-alone **Font** object. The following example creates a **Font** object, sets some formatting properties, and then applies the **Font** object to the first paragraph in the active document.
+You can use the **New** keyword to create a new, stand-alone **Font** object. The following example creates a **Font** object, sets some formatting properties, and then applies the **Font** object to the first paragraph in the active document.
 
 
 

@@ -31,7 +31,7 @@ For information about returning a single member of a collection, see [Returning 
 
 ## Example
 
-This example displays the name of each template in the  **Templates** collection.
+This example displays the name of each template in the **Templates** collection.
 
 
 ```vb

@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The specified table does not contain the specified field. Check the spelling of the field name. You should also check to see if the field name exists in the  **Fields** collection.
+The specified table does not contain the specified field. Check the spelling of the field name. You should also check to see if the field name exists in the **Fields** collection.
 
 ## See also
 

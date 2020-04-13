@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-Project sets the  **CurrencySymbol** property equal to the corresponding value in the **Customize Regional Options** dialog box of the Windows Control Panel.
+Project sets the **CurrencySymbol** property equal to the corresponding value in the **Customize Regional Options** dialog box of the Windows Control Panel.
 
 
 ## Example

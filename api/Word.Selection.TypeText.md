@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 ## Remarks
 
-If the  **ReplaceSelection** property is **True**, the selection is replaced by the specified text. If **ReplaceSelection** is **False**, the specified text is inserted before the selection.
+If the **ReplaceSelection** property is **True**, the selection is replaced by the specified text. If **ReplaceSelection** is **False**, the specified text is inserted before the selection.
 
 
 ## Example

@@ -13,7 +13,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The  **ReplicaFilter** string contains an invalid word. Check the syntax for any misspelled or missing words.
+The **ReplicaFilter** string contains an invalid word. Check the syntax for any misspelled or missing words.
 
 ## See also
 

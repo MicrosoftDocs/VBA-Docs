@@ -26,7 +26,7 @@ _expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.m
 
 ## Remarks
 
-The  **ExchangeUser** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **AddressEntryUserType** property from the **AddressEntry** object. In the case of **ExchangeUser**, **AddressEntryUserType** should always return **olExchangeUserAddressEntry**.
+The **ExchangeUser** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **AddressEntryUserType** property from the **AddressEntry** object. In the case of **ExchangeUser**, **AddressEntryUserType** should always return **olExchangeUserAddressEntry**.
 
 
 ## See also

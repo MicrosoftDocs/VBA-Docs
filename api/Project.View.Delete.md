@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # View.Delete method (Project)
 
-Deletes the  **View** object from a **Views** collection.
+Deletes the **View** object from a **Views** collection.
 
 
 ## Syntax

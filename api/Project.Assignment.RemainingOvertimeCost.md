@@ -23,6 +23,6 @@ _expression_ A variable that represents an [Assignment](./Project.Assignment.md)
 
 ## Remarks
 
-For a code example that uses a  **Task** object, see **[RemainingOvertimeCost](Project.Task.RemainingOvertimeCost.md)**.
+For a code example that uses a **Task** object, see **[RemainingOvertimeCost](Project.Task.RemainingOvertimeCost.md)**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

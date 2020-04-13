@@ -26,7 +26,7 @@ _expression_. `SaveInterval`
 
 ## Remarks
 
-Set the  **SaveInterval** property to 0 (zero) to turn off saving AutoRecover information.
+Set the **SaveInterval** property to 0 (zero) to turn off saving AutoRecover information.
 
 
 ## Example
@@ -47,7 +47,7 @@ This example prevents Word from saving AutoRecover information.
 Options.SaveInterval = 0
 ```
 
-This example returns the current status of the  **Save AutoRecover info every** option on the **Save** tab in the **Options** dialog box (**Tools** menu).
+This example returns the current status of the **Save AutoRecover info every** option on the **Save** tab in the **Options** dialog box (**Tools** menu).
 
 
 

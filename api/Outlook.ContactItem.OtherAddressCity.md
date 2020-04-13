@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.OtherAddressCity property (Outlook)
 
-Returns or sets a  **String** representing the city portion of the other address for the contact. Read/write.
+Returns or sets a **String** representing the city portion of the other address for the contact. Read/write.
 
 
 ## Syntax

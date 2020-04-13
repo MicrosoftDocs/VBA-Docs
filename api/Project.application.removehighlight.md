@@ -29,6 +29,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **RemoveHighlight** method corresponds to the **Remove Highlighting** command in the **Task Path** drop-down list, which is on the **FORMAT** tab under **GANTT CHART TOOLS** on the ribbon.
+The **RemoveHighlight** method corresponds to the **Remove Highlighting** command in the **Task Path** drop-down list, which is on the **FORMAT** tab under **GANTT CHART TOOLS** on the ribbon.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

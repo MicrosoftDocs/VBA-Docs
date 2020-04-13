@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextEffectFormat.Text property (PowerPoint)
 
-Returns or sets a  **String** that represents the text contained in the specified object. Read/write.
+Returns or sets a **String** that represents the text contained in the specified object. Read/write.
 
 
 ## Syntax

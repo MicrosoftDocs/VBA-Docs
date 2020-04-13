@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MeetingItem.ReceivedTime property (Outlook)
 
-Returns or sets a  **Date** indicating the date and time at which the item was received. Read/write.
+Returns or sets a **Date** indicating the date and time at which the item was received. Read/write.
 
 
 ## Syntax

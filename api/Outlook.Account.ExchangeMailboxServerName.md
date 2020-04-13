@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Account.ExchangeMailboxServerName property (Outlook)
 
-Returns a  **String** value that represents the name of the Microsoft Exchange Server that hosts the account mailbox. Read-only.
+Returns a **String** value that represents the name of the Microsoft Exchange Server that hosts the account mailbox. Read-only.
 
 
 ## Syntax

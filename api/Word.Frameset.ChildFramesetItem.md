@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Frameset.ChildFramesetItem property (Word)
 
-Returns the  **Frameset** object that represents the child **Frameset** object specified by the Index argument. Read-only.
+Returns the **Frameset** object that represents the child **Frameset** object specified by the Index argument. Read-only.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[DropCap](Word.DropCap.md)'
 
 ## Example
 
-This example sets the first paragraph in the active document to begin with a dropped capital letter. The position of the  **DropCap** object is set to **wdDropNormal**.
+This example sets the first paragraph in the active document to begin with a dropped capital letter. The position of the **DropCap** object is set to **wdDropNormal**.
 
 
 ```vb

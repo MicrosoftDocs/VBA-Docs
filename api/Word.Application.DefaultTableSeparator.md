@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Word.Application.md)*
 
 ## Remarks
 
-The value of the  **DefaultTableSeparator** property is used if the Separator argument is omitted from the **ConvertToTable** method or the **[Range](Word.Range.md)** or **[Selection](Word.Selection.md)** object.
+The value of the **DefaultTableSeparator** property is used if the Separator argument is omitted from the **ConvertToTable** method or the **[Range](Word.Range.md)** or **[Selection](Word.Selection.md)** object.
 
 
 ## Example

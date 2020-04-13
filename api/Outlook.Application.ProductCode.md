@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ProductCode property (Outlook)
 
-Returns a  **String** specifying the Microsoft Outlook globally unique identifier (GUID). Read-only.
+Returns a **String** specifying the Microsoft Outlook globally unique identifier (GUID). Read-only.
 
 
 ## Syntax

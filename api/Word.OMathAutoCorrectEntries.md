@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathAutoCorrectEntries object (Word)
 
-Represents a collection of math AutoCorrect entries. Use the  **[OMathAutoCorrectEntry](Word.OMathAutoCorrectEntry.md)** object to access individual AutoCorrect entries.
+Represents a collection of math AutoCorrect entries. Use the **[OMathAutoCorrectEntry](Word.OMathAutoCorrectEntry.md)** object to access individual AutoCorrect entries.
 
 
 ## See also

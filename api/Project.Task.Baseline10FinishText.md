@@ -26,6 +26,6 @@ _expression_. `Baseline10FinishText`
 
 ## Remarks
 
-The  **Baseline10FinishText** property is used for manually scheduled tasks. When you convert a manually scheduled task to an auto-scheduled task, if **Baseline10FinishText** has any value, you should convert the value to a date for the **Baseline10Finish** property.
+The **Baseline10FinishText** property is used for manually scheduled tasks. When you convert a manually scheduled task to an auto-scheduled task, if **Baseline10FinishText** has any value, you should convert the value to a date for the **Baseline10Finish** property.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

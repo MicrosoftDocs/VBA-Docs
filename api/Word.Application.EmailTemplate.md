@@ -26,7 +26,7 @@ _expression_. `EmailTemplate`
 
 ## Remarks
 
-Use the  **EmailTemplate** property when Microsoft Word is specified as your email editor, which you must do inside Microsoft Outlook.
+Use the **EmailTemplate** property when Microsoft Word is specified as your email editor, which you must do inside Microsoft Outlook.
 
 
 ## Example

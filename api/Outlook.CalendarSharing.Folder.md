@@ -26,7 +26,7 @@ _expression_. `Folder`
 
 ## Return value
 
-The  **Folder** containing the calendar items to be shared.
+The **Folder** containing the calendar items to be shared.
 
 
 ## See also

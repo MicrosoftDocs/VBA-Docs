@@ -31,8 +31,8 @@ _expression_. `TimelineGotoSelectedTask`
 
 ## Remarks
 
-The  **TimelineGotoSelectedTask** method corresponds to the **Go to Selected Task** command on the option menu in the Timeline view. After you run the **TimelineGotoSelectedTask** method, the Timeline view remains the active view.
+The **TimelineGotoSelectedTask** method corresponds to the **Go to Selected Task** command on the option menu in the Timeline view. After you run the **TimelineGotoSelectedTask** method, the Timeline view remains the active view.
 
-If a single task is not selected in the Timeline view, or if the Timeline view is not active, the  **TimelineGotoSelectedTask** method results in run-time error 1100, "The method is not available in this situation."
+If a single task is not selected in the Timeline view, or if the Timeline view is not active, the **TimelineGotoSelectedTask** method results in run-time error 1100, "The method is not available in this situation."
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

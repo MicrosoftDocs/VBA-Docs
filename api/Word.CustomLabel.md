@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CustomLabel object (Word)
 
-Represents a custom mailing label. The  **CustomLabel** object is a member of the **[CustomLabels](Word.customlabels.md)** collection. The **CustomLabels** collection contains all the custom mailing labels listed in the **Label Options** dialog box.
+Represents a custom mailing label. The **CustomLabel** object is a member of the **[CustomLabels](Word.customlabels.md)** collection. The **CustomLabels** collection contains all the custom mailing labels listed in the **Label Options** dialog box.
 
 
 ## Remarks
@@ -31,7 +31,7 @@ Else
 End If
 ```
 
-The index number represents the position of the custom mailing label in the  **[CustomLabels](Word.customlabels.md)** collection. The following example displays the name of the first custom mailing label.
+The index number represents the position of the custom mailing label in the **[CustomLabels](Word.customlabels.md)** collection. The following example displays the name of the first custom mailing label.
 
 
 
@@ -46,7 +46,7 @@ End If
 > [!NOTE] 
 >  **CustomLabel** objects are sorted alphabetically in the **[CustomLabels](Word.customlabels.md)** collection and their index numbers are dynamically reassigned as the contents of the collection change. For that reason, it is safer to refer to a specific **CustomLabel** object by name rather than by index number.
 
-Use the  **[Add](Word.CustomLabels.Add.md)** method to create a custom label. The following example adds a custom mailing label named "My Label" and sets the page size.
+Use the **[Add](Word.CustomLabels.Add.md)** method to create a custom label. The following example adds a custom mailing label named "My Label" and sets the page size.
 
 
 

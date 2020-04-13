@@ -39,7 +39,7 @@ _expression_. `AutoSaveToGlobal`( `_OnOff_` )
 
 ## Remarks
 
-If  **AutoSaveToGlobal** is off, you can manually save views, groups, and other items to the global template by using the **Organizer** dialog box. Click the **Office Button**, click the  **Info** tab, and then click **Manage Global Template**.
+If  **AutoSaveToGlobal** is off, you can manually save views, groups, and other items to the global template by using the **Organizer** dialog box. Click the **Office Button**, click the **Info** tab, and then click **Manage Global Template**.
 
 
 > [!NOTE] 
@@ -52,14 +52,14 @@ To see the results, run  `AutoSaveToGlobal OnOff:=True` in the **Immediate** pan
     
 2. Assign one of the tasks to R1 and the other two tasks to R2.
     
-3. Click the  **View** tab in the Ribbon. In the **Data** group, click **Using Resource** in the drop-down list for **Filter**. 
+3. Click the **View** tab in the Ribbon. In the **Data** group, click **Using Resource** in the drop-down list for **Filter**. 
     
-4. In the  **Using Resource** dialog box, select R2 for the task filter.
+4. In the **Using Resource** dialog box, select R2 for the task filter.
     
-5. In the  **Resource Views** group, click **Other Views**, and then click  **Save View**. For example, save the view with the name  **R2 View Test**.
+5. In the **Resource Views** group, click **Other Views**, and then click  **Save View**. For example, save the view with the name  **R2 View Test**.
     
-6. Click  **Other Views** again, and then click **More Views**. The  **Views** list contains the view you saved.
+6. Click  **Other Views** again, and then click **More Views**. The **Views** list contains the view you saved.
     
-7. In the  **More Views** dialog box, click **Organizer**. Scroll through the  **Global (+ non-cached Enterprise)** list to see that **R2 View Test** was automatically added to the global template.
+7. In the **More Views** dialog box, click **Organizer**. Scroll through the **Global (+ non-cached Enterprise)** list to see that **R2 View Test** was automatically added to the global template.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

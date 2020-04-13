@@ -36,9 +36,9 @@ Nothing
 
 ## Remarks
 
-The  **PanZoomPanTo** method has no effect on the Calendar view or Network Diagram (PERT chart) view.
+The **PanZoomPanTo** method has no effect on the Calendar view or Network Diagram (PERT chart) view.
 
-To zoom the Gantt chart in or out, which changes the timescale, use the  **[PanZoomZoomTo](Project.Application.PanZoomZoomTo.md)** method. To change the timescale format and labels, use the **[TimescaleEdit](Project.Application.TimescaleEdit.md)** method.
+To zoom the Gantt chart in or out, which changes the timescale, use the **[PanZoomZoomTo](Project.Application.PanZoomZoomTo.md)** method. To change the timescale format and labels, use the **[TimescaleEdit](Project.Application.TimescaleEdit.md)** method.
 
 
 ## Example

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Points object (Word)
 
-A collection of all the  **[Point](Word.Point.md)** objects in the specified series in a chart.
+A collection of all the **[Point](Word.Point.md)** objects in the specified series in a chart.
 
 
 ## Remarks
@@ -21,7 +21,7 @@ Use  **[Points](Word.Series.Points.md)** (_index_), where _index_ is the point i
 
 ## Example
 
-Use the  **Points** method to return the **Points** collection. The following example adds a data label to the last point in series one for the first chart in the active document.
+Use the **Points** method to return the **Points** collection. The following example adds a data label to the last point in series one for the first chart in the active document.
 
 
 ```vb

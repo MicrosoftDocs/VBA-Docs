@@ -31,7 +31,7 @@ Nothing
 
 ## Remarks
 
-To change equations to linear format, use the  **[Linearize](Word.OMaths.Linearize.md)** method.
+To change equations to linear format, use the **[Linearize](Word.OMaths.Linearize.md)** method.
 
 
 ## See also

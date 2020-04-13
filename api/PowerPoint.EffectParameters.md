@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # EffectParameters object (PowerPoint)
 
-Represents various animation parameters for an  **[Effect](PowerPoint.Effect.md)** object, such as colors, fonts, sizes, and directions.
+Represents various animation parameters for an **[Effect](PowerPoint.Effect.md)** object, such as colors, fonts, sizes, and directions.
 
 
 ## Example

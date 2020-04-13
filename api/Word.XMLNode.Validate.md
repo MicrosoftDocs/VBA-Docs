@@ -31,9 +31,9 @@ Nothing
 
 ## Remarks
 
-Use the  **Validate** method with the **[ValidationStatus](Word.XMLNode.ValidationStatus.md)** and **[ValidationErrorText](Word.XMLNode.ValidationErrorText.md)** properties to determine if an XML element is valid against the applied schema and what error text to display to the user. Use the **[SetValidationError](Word.XMLNode.SetValidationError.md)** method to override the schema violations with custom validation errors.
+Use the **Validate** method with the **[ValidationStatus](Word.XMLNode.ValidationStatus.md)** and **[ValidationErrorText](Word.XMLNode.ValidationErrorText.md)** properties to determine if an XML element is valid against the applied schema and what error text to display to the user. Use the **[SetValidationError](Word.XMLNode.SetValidationError.md)** method to override the schema violations with custom validation errors.
 
-When you run the  **Validate** method, Microsoft Word populates the **[XMLSchemaViolations](overview/Word.md)** property of the **[Document](Word.Document.md)** object with a collection of the XML nodes that have validation errors.
+When you run the **Validate** method, Microsoft Word populates the **[XMLSchemaViolations](overview/Word.md)** property of the **[Document](Word.Document.md)** object with a collection of the XML nodes that have validation errors.
 
 
 ## Example

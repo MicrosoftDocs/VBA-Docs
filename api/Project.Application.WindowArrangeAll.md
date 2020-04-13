@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ### Remarks
 
-The  **WindowArrangeAll** method is equivalent to the **Arrange All** command on the **VIEW** ribbon.
+The **WindowArrangeAll** method is equivalent to the **Arrange All** command on the **VIEW** ribbon.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

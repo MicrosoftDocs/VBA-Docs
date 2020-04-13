@@ -23,7 +23,7 @@ _expression_ A variable that represents a [Profile](./Project.Profile.md) object
 
 ## Remarks
 
-The  **Project Server Accounts** dialog box shows the number and order of profiles. Use `Profiles.Count` to programmatically determine the number of account profiles.
+The **Project Server Accounts** dialog box shows the number and order of profiles. Use `Profiles.Count` to programmatically determine the number of account profiles.
 
 
 ## Example

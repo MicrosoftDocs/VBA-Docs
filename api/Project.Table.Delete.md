@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Table.Delete method (Project)
 
-Deletes the  **Table** object from a **Tables** collection.
+Deletes the **Table** object from a **Tables** collection.
 
 
 ## Syntax

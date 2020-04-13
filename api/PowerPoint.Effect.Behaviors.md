@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Effect.Behaviors property (PowerPoint)
 
-Returns a specified slide animation behavior as an  **[AnimationBehaviors](PowerPoint.AnimationBehaviors.md)** collection.
+Returns a specified slide animation behavior as an **[AnimationBehaviors](PowerPoint.AnimationBehaviors.md)** collection.
 
 
 ## Syntax

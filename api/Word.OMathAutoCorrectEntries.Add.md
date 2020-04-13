@@ -30,8 +30,8 @@ _expression_.**Add** (_Name_, _Value_)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required| **String**|The name of the autocorrect entry. Corresponds to the  **[Name](Word.OMathAutoCorrectEntry.Name.md)** property of the **OMathAutoCorrectEntry** object.|
-| _Value_|Required| **String**|The value of the autocorrect entry. Corresponds to the  **[Value](Word.OMathAutoCorrectEntry.Value.md)** property of the **OMathAutoCorrectEntry** object.|
+| _Name_|Required| **String**|The name of the autocorrect entry. Corresponds to the **[Name](Word.OMathAutoCorrectEntry.Name.md)** property of the **OMathAutoCorrectEntry** object.|
+| _Value_|Required| **String**|The value of the autocorrect entry. Corresponds to the **[Value](Word.OMathAutoCorrectEntry.Value.md)** property of the **OMathAutoCorrectEntry** object.|
 
 ## Return value
 

@@ -26,12 +26,12 @@ _expression_ A variable that represents a '[ChartData](Word.ChartData.md)' objec
 
 ## Remarks
 
-Using the  **[BreakLink](Word.ChartData.BreakLink.md)** method to remove the link to an Excel workbook sets this property to **False**.
+Using the **[BreakLink](Word.ChartData.BreakLink.md)** method to remove the link to an Excel workbook sets this property to **False**.
 
 
 ## Example
 
-The following example verifies whether the data for the first chart in the active document is linked to an external Excel workbook. If the data for the chart is linked, the example then uses the  **BreakLink** method to remove the link. If the data for the chart is not linked, the example uses the **[Activate](Word.ChartData.Activate.md)** method to display the embedded data for the chart.
+The following example verifies whether the data for the first chart in the active document is linked to an external Excel workbook. If the data for the chart is linked, the example then uses the **BreakLink** method to remove the link. If the data for the chart is not linked, the example uses the **[Activate](Word.ChartData.Activate.md)** method to display the embedded data for the chart.
 
 
 ```vb

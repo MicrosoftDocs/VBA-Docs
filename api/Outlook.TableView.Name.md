@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableView.Name property (Outlook)
 
-Returns or sets a  **String** value that represents the display name for the object. Read/write.
+Returns or sets a **String** value that represents the display name for the object. Read/write.
 
 
 ## Syntax

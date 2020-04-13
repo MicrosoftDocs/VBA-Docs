@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Browser.Previous method (Word)
 
-Moves the selection to the previous item indicated by the browser target. Use the  **Target** property to change the browser target.
+Moves the selection to the previous item indicated by the browser target. Use the **Target** property to change the browser target.
 
 
 ## Syntax

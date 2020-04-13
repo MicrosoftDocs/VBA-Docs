@@ -113,7 +113,7 @@ Contains constants that specify a resource field for timescaled data in the Proj
 
 ## Remarks
 
-The  **PjResourceTimescaledData** enumeration is used by the [Resource.TimeScaleData](Project.Resource.TimeScaleData.md) method.
+The **PjResourceTimescaledData** enumeration is used by the [Resource.TimeScaleData](Project.Resource.TimeScaleData.md) method.
 
 For more information about working with fields in Project, see the  _Available fields reference_ topic. In Project Help, search for _Available fields_.
 

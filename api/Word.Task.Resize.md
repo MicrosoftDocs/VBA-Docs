@@ -35,7 +35,7 @@ _expression_ Required. A variable that represents a '[Task](Word.Task.md)' objec
 
 ## Remarks
 
-If the window is maximized or minimized, using this method causes an error. Use the  **Width** or **Height** property to set the window width and height independently.
+If the window is maximized or minimized, using this method causes an error. Use the **Width** or **Height** property to set the window width and height independently.
 
 
 ## Example

@@ -107,7 +107,7 @@ End Sub
 
     
     
-3. Run the  **Initialize_App** procedure to start listening to the events.
+3. Run the **Initialize_App** procedure to start listening to the events.
     
 4. Create a task. The event handler shows a message box every time a new task is added.
 

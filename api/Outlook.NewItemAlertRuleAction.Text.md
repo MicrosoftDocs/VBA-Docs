@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NewItemAlertRuleAction.Text property (Outlook)
 
-Returns or sets a  **String** that represents the text displayed in the new item alert dialog box. Read/write.
+Returns or sets a **String** that represents the text displayed in the new item alert dialog box. Read/write.
 
 
 ## Syntax

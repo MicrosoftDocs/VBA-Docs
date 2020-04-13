@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ColorEffect.From property (PowerPoint)
 
-Sets or returns a  **ColorFormat** object that represents the starting RGB color value of an animation behavior.
+Sets or returns a **ColorFormat** object that represents the starting RGB color value of an animation behavior.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Accounts object (Outlook)
 
-The  **Accounts** collection object contains a set of **[Account](Outlook.Account.md)** objects representing the accounts available for the current profile.
+The **Accounts** collection object contains a set of **[Account](Outlook.Account.md)** objects representing the accounts available for the current profile.
 
 
 ## Remarks

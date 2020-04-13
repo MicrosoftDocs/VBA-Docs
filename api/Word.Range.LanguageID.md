@@ -26,7 +26,7 @@ _expression_. `LanguageID`
 
 ## Remarks
 
-Some of the  **WdLanguageID** constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
+Some of the **WdLanguageID** constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
 
 ## Example

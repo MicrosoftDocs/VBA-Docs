@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Guide.Position property (PowerPoint)
 
-Returns or sets a  **Single** that represents the position of the drawing guide along the x- or y-axis. Read/write.
+Returns or sets a **Single** that represents the position of the drawing guide along the x- or y-axis. Read/write.
 
 
 ## Syntax

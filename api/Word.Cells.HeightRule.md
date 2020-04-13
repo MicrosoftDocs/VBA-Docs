@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Cells](Word.cells.md)' col
 
 ## Remarks
 
-Setting the  **HeightRule** property of a **Cells** collection automatically sets the height for the entire row.
+Setting the **HeightRule** property of a **Cells** collection automatically sets the height for the entire row.
 
 
 ## See also

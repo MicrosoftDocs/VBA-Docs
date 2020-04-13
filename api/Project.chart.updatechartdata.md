@@ -27,9 +27,9 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 |:-----|:-----|:-----|:-----|
 | _Task_|Required|**Boolean**|**True** to update the task data; otherwise, **False**.|
 | _Timephased_|Required|**Boolean**|**True** to update the timephased data; otherwise, **False**.|
-| _GroupName_|Optional|**String**|The name of the  **[Group2](Project.Group2.md)** object (a group of tasks or resources) for the update.|
-| _FilterName_|Optional|**String**|The name of the  **[Filter](Project.Filter.md)** object for the update.|
-| _LabelField_|Optional|**PjField**|Specifies the field for the update. Can be one of the  **[PjField](Project.PjField.md)** constants.|
+| _GroupName_|Optional|**String**|The name of the **[Group2](Project.Group2.md)** object (a group of tasks or resources) for the update.|
+| _FilterName_|Optional|**String**|The name of the **[Filter](Project.Filter.md)** object for the update.|
+| _LabelField_|Optional|**PjField**|Specifies the field for the update. Can be one of the **[PjField](Project.PjField.md)** constants.|
 | _OutlineLevel_|Optional|**Integer**|Specifies the task outline level for the update. The default value is -1, which is all outline levels.|
 | _SafeArrayOfPjField_|Optional|**Variant**|Specifies an array of fields for the update, where each item in the array can be a **[PjField](Project.PjField.md)** constant.|
 | _SafeArrayOfPjTimescaledData_|Optional|**Variant**|Specifies an array of timescaled data for the update, where each item in the array can be a **[PjTimescaledData](Project.PjTimescaledData.md)** constant.|

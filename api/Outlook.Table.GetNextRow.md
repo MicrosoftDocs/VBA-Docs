@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Table](Outlook.Table.md) object.
 
 ## Return value
 
-A  **[Row](Outlook.Row.md)** object that represents the next valid row in the **Table** if there are additional rows available. If there are no additional rows available (where **[Table.EndOfTable](Outlook.Table.EndOfTable.md)** is **True**), **GetNextRow** will return **Null** (**Nothing** in Visual Basic).
+A **[Row](Outlook.Row.md)** object that represents the next valid row in the **Table** if there are additional rows available. If there are no additional rows available (where **[Table.EndOfTable](Outlook.Table.EndOfTable.md)** is **True**), **GetNextRow** will return **Null** (**Nothing** in Visual Basic).
 
 
 ## See also

@@ -26,7 +26,7 @@ _expression_. `PercentWidth`
 
 ## Remarks
 
-Setting this property also sets the  **[WidthType](Word.HorizontalLineFormat.WidthType.md)** property to **wdHorizontalLinePercentWidth**.
+Setting this property also sets the **[WidthType](Word.HorizontalLineFormat.WidthType.md)** property to **wdHorizontalLinePercentWidth**.
 
 
 ## Example

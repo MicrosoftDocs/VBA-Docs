@@ -23,6 +23,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The  **AskForCompletedWork** property can be one of the following **[PjTeamStatusCompletedWork](Project.PjTeamStatusCompletedWork.md)** constants: **pjBrokenDownByDay**, **pjBrokenDownByWeek**, or **pjTotalForEntirePeriod**.
+The **AskForCompletedWork** property can be one of the following **[PjTeamStatusCompletedWork](Project.PjTeamStatusCompletedWork.md)** constants: **pjBrokenDownByDay**, **pjBrokenDownByWeek**, or **pjTotalForEntirePeriod**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

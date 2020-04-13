@@ -19,7 +19,7 @@ _expression_ A variable that represents a 'ShapeRange' object.
 
 ## Remarks
 
-For a line, the  **LineFormat** object represents the line itself; for a shape range with a border, the **LineFormat** object represents the border.
+For a line, the **LineFormat** object represents the line itself; for a shape range with a border, the **LineFormat** object represents the border.
 
 
 ## Property value

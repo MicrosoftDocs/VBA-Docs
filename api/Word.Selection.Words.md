@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Selection](Word.Selection.md)** obj
 
 ## Remarks
 
-Punctuation and paragraph marks in a document are included in the  **[Words](Word.words.md)** collection. For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
+Punctuation and paragraph marks in a document are included in the **[Words](Word.words.md)** collection. For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 
 
 ## Example

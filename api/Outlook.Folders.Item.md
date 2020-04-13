@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folders.Item method (Outlook)
 
-Returns a  **[Folder](Outlook.Folder.md)** object from the collection.
+Returns a **[Folder](Outlook.Folder.md)** object from the collection.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Folders](Outlook.Folders.md) object.
 
 ## Return value
 
-A  **Folder** object that represents the specified object.
+A **Folder** object that represents the specified object.
 
 
 ## Example

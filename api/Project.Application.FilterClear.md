@@ -31,6 +31,6 @@ _expression_. `FilterClear`
 
 ## Remarks
 
-The  **FilterClear** method corresponds to the following command on the Ribbon: on the **View** tab, click the **Filter** drop-down listbox in the **Data** section, and then click **Clear Filter**.
+The **FilterClear** method corresponds to the following command on the Ribbon: on the **View** tab, click the **Filter** drop-down listbox in the **Data** section, and then click **Clear Filter**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

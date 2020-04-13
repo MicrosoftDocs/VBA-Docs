@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Border](Word.Border.md)' o
 
 ## Remarks
 
-The  **wdByAuthor** constant is not valid for border and font objects.
+The **wdByAuthor** constant is not valid for border and font objects.
 
 
 ## Example

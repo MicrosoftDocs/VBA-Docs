@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Report.Parent property (Project)
-Gets the parent of the  **Report** object. Read-only **Project**.
+Gets the parent of the **Report** object. Read-only **Project**.
 
 ## Syntax
 
@@ -19,7 +19,7 @@ _expression_ A variable that represents a 'Report' object.
 
 ## Remarks
 
-Use the  **Parent** property to access the properties and methods of the parent project.
+Use the **Parent** property to access the properties and methods of the parent project.
 
 
 ## Property value

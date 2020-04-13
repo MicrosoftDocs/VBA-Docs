@@ -59,7 +59,7 @@ The following example adds a new view of type  **olIconView** in the user's Note
 
 
 > [!NOTE] 
-> The  **Add** method will fail if a view with the same name already exists.
+> The **Add** method will fail if a view with the same name already exists.
 
 
 

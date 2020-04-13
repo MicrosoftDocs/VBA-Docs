@@ -12,11 +12,11 @@ localization_priority: Normal
 
 # Exit Sub not allowed in Function or Property
 
-An  **Exit** statement must match the [procedure](../../Glossary/vbe-glossary.md#procedure) in which it occurs. This error has the following cause and solution:
+An **Exit** statement must match the [procedure](../../Glossary/vbe-glossary.md#procedure) in which it occurs. This error has the following cause and solution:
 
 
 
-- You used  **Exit Sub** in a **Function** or **Property** procedure. Use the proper **Exit** statement for this type of procedure.
+- You used **Exit Sub** in a **Function** or **Property** procedure. Use the proper **Exit** statement for this type of procedure.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

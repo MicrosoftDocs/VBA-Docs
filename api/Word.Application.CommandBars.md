@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Word.Application.md)*
 
 ## Remarks
 
-Use the  **[CustomizationContext](Word.Application.CustomizationContext.md)** property to set the template or document context prior to accessing the **CommandBars** collection.
+Use the **[CustomizationContext](Word.Application.CustomizationContext.md)** property to set the template or document context prior to accessing the **CommandBars** collection.
 
 For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 
@@ -43,7 +43,7 @@ With CommandBars
 End With
 ```
 
-This example displays the  **Drawing** toolbar at the bottom of the application window.
+This example displays the **Drawing** toolbar at the bottom of the application window.
 
 
 
@@ -55,7 +55,7 @@ With CommandBars("Drawing")
 End With
 ```
 
-This example adds the Versions command button to the  **Standard** toolbar.
+This example adds the Versions command button to the **Standard** toolbar.
 
 
 

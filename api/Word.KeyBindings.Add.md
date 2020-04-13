@@ -32,8 +32,8 @@ _expression_ Required. A variable that represents a '[KeyBindings](Word.keybindi
 |:-----|:-----|:-----|:-----|
 | _KeyCategory_|Required| **WdKeyCategory**|The category of the key assignment.|
 | _Command_|Required| **String**|The command that the specified key combination executes.|
-| _KeyCode_|Required| **Long**|A key you specify by using one of the  **WdKey** constants.|
-| _KeyCode2_|Optional| **Variant**|A second key you specify by using one of the  **WdKey** constants.|
+| _KeyCode_|Required| **Long**|A key you specify by using one of the **WdKey** constants.|
+| _KeyCode2_|Optional| **Variant**|A second key you specify by using one of the **WdKey** constants.|
 | _CommandParameter_|Optional| **Variant**|Additional text, if any, required for the command specified by Command. For details, see the Remarks section below.|
 
 ## Return value
@@ -43,9 +43,9 @@ KeyBinding
 
 ## Remarks
 
-You can use the  **BuildKeyCode** method to create the KeyCode or KeyCode2 argument.
+You can use the **BuildKeyCode** method to create the KeyCode or KeyCode2 argument.
 
-In the following table, the left column contains commands that require a command value, and the right column describes what you must do to specify CommandParameter for each of these commands. (The equivalent action in the  **Customize Keyboard** dialog box (**Tools** menu) to specifying CommandParameter is selecting an item in the list box that appears when you select one of the following commands in the **Commands** box.)
+In the following table, the left column contains commands that require a command value, and the right column describes what you must do to specify CommandParameter for each of these commands. (The equivalent action in the **Customize Keyboard** dialog box (**Tools** menu) to specifying CommandParameter is selecting an item in the list box that appears when you select one of the following commands in the **Commands** box.)
 
 
 
@@ -62,7 +62,7 @@ In the following table, the left column contains commands that require a command
 
 ## Example
 
-This example adds the CTRL+ALT+W key combination to the  **FileClose** command. The keyboard customization is saved in the Normal template.
+This example adds the CTRL+ALT+W key combination to the **FileClose** command. The keyboard customization is saved in the Normal template.
 
 
 ```vb
@@ -73,7 +73,7 @@ KeyBindings.Add _
     KeyCode:=BuildKeyCode(wdKeyControl, wdKeyAlt, wdKeyW)
 ```
 
-This example adds the ALT+F4 key combination to the Arial font and then displays the number of items in the  **KeyBindings** collection. The example then clears the ALT+F4 key combination (returned it to its default setting) and redisplays the number of items in the **KeyBindings** collection.
+This example adds the ALT+F4 key combination to the Arial font and then displays the number of items in the **KeyBindings** collection. The example then clears the ALT+F4 key combination (returned it to its default setting) and redisplays the number of items in the **KeyBindings** collection.
 
 
 
@@ -87,7 +87,7 @@ myKey.Clear
 MsgBox KeyBindings.Count & " keys in KeyBindings collection"
 ```
 
-This example adds the CTRL+ALT+S key combination to the  **Font** command with 8 points specified for the font size.
+This example adds the CTRL+ALT+S key combination to the **Font** command with 8 points specified for the font size.
 
 
 

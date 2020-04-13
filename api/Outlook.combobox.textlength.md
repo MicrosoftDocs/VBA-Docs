@@ -12,13 +12,13 @@ localization_priority: Normal
 
 # ComboBox.TextLength Property (Outlook Forms Script)
 
-Returns a  **Long** that represents the length, in number of characters, of text in the edit region of a **[ComboBox](Outlook.combobox.md)**. Read-only.
+Returns a **Long** that represents the length, in number of characters, of text in the edit region of a **[ComboBox](Outlook.combobox.md)**. Read-only.
 
 
 ## Syntax
 
 _expression_.**TextLength**
 
-_expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a **ComboBox** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

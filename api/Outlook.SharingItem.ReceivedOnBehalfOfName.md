@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.ReceivedOnBehalfOfName property (Outlook)
 
-Returns a  **String** representing the display name of the user delegated to represent the recipient for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
+Returns a **String** representing the display name of the user delegated to represent the recipient for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.New event (Word)
 
-Occurs when a new document based on the template is created. A procedure for the  **New** event will run only if it is stored in a template.
+Occurs when a new document based on the template is created. A procedure for the **New** event will run only if it is stored in a template.
 
 
 ## Syntax
@@ -26,12 +26,12 @@ _expression_ A variable that represents a **[Document](Word.Document.md)** objec
 
 ## Remarks
 
-For information about using events with the  **Document** object, see [Using events with the Document object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md).
+For information about using events with the **Document** object, see [Using events with the Document object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md).
 
 
 ## Example
 
-This example asks the user whether to save all other open documents when a new document based on the template is created. (This procedure is stored in the  **ThisDocument** class module of a template, not a document.)
+This example asks the user whether to save all other open documents when a new document based on the template is created. (This procedure is stored in the **ThisDocument** class module of a template, not a document.)
 
 
 ```vb

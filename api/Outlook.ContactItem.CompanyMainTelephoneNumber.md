@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.CompanyMainTelephoneNumber property (Outlook)
 
-Returns or sets a  **String** representing the company main telephone number for the contact. Read/write.
+Returns or sets a **String** representing the company main telephone number for the contact. Read/write.
 
 
 ## Syntax

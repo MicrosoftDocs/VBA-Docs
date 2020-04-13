@@ -11,7 +11,7 @@ localization_priority: Normal
 
 1. Open the form that you want to modify in design mode. 
     
-    **Note** For more information, see [Run in Developer Mode in Outlook](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/run-in-developer-mode-in-outlook.md).
+   **Note** For more information, see [Run in Developer Mode in Outlook](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/run-in-developer-mode-in-outlook.md).
 2. On the **Developer** tab, in the **Tools** group, click **Advanced Properties**. 
     
 3. Click the **BackColor** property, and then type a value in the **Properties** box.

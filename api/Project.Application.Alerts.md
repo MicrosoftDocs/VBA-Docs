@@ -39,6 +39,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **Alerts** method applies only to the macro that contains the method.
+The **Alerts** method applies only to the macro that contains the method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

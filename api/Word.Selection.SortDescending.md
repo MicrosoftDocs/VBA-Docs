@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 ## Remarks
 
-This method offers a simplified form of sorting intended for mail-merge data sources that contain columns of data. For most sorting tasks, use the  **[Sort](Word.Selection.Sort.md)** method.
+This method offers a simplified form of sorting intended for mail-merge data sources that contain columns of data. For most sorting tasks, use the **[Sort](Word.Selection.Sort.md)** method.
 
 
 ## See also

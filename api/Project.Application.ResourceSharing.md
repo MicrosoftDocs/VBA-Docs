@@ -41,7 +41,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Using the  **ResourceSharing** method without specifying any arguments displays the **ShareResources** dialog box.
+Using the **ResourceSharing** method without specifying any arguments displays the **ShareResources** dialog box.
 
 
 > [!NOTE] 

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # SplitPart.Delete method (Project)
 
-Deletes the  **SplitPart** object from a **SplitParts** collection.
+Deletes the **SplitPart** object from a **SplitParts** collection.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_. `DefaultTargetFrame`
 
 ## Remarks
 
-While the  **DefaultTargetFrame** property can use any user-defined string, it has the following predefined strings: "_top", "_blank", "_parent", and "_self".
+While the **DefaultTargetFrame** property can use any user-defined string, it has the following predefined strings: "_top", "_blank", "_parent", and "_self".
 
 
 ## Example

@@ -33,7 +33,7 @@ ShapeRange
 
 This method sisassembles pictures and OLE objects within the specified shapeand returns the ungrouped shapes as a single  **[ShapeRange](Word.shaperange.md)** object.
 
-Because a group of shapes is treated as a single object, grouping and ungrouping shapes changes the number of items in the  **Shapes** collection and changes the index numbers of items that come after the affected items in the collection.
+Because a group of shapes is treated as a single object, grouping and ungrouping shapes changes the number of items in the **Shapes** collection and changes the index numbers of items that come after the affected items in the collection.
 
 
 ## Example

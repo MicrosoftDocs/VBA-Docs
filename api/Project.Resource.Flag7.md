@@ -23,7 +23,7 @@ _expression_ A variable that represents a [Resource](./Project.Resource.md) obje
 
 ## Example
 
-The following example deletes all the tasks that have the  **Flag1** set to **True**.
+The following example deletes all the tasks that have the **Flag1** set to **True**.
 
 
 ```vb

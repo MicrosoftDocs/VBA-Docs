@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.EnterpriseMakeServerURLTrusted method (Project)
 
-When no projects are open, adds the  **Project Server URL** specified in the **Account Properties** dialog box to the **Trusted sites** zone in Microsoft Internet Explorer. Available in Project Professional only.
+When no projects are open, adds the **Project Server URL** specified in the **Account Properties** dialog box to the **Trusted sites** zone in Microsoft Internet Explorer. Available in Project Professional only.
 
 
 ## Syntax

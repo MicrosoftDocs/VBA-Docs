@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Sections.Last property (Word)
 
-Returns the last item in the  **Sections** collection as a **Section** object.
+Returns the last item in the **Sections** collection as a **Section** object.
 
 
 ## Syntax

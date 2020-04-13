@@ -32,7 +32,7 @@ _expression_ Required. A variable that represents a '[Hyperlink](Word.Hyperlink.
 |:-----|:-----|:-----|:-----|
 | _NewWindow_|Optional| **Variant**| **True** to display the target document in a new window. The default value is **False**.|
 | _AddHistory_|Optional| **Variant**|This argument is reserved for future use.|
-| _ExtraInfo_|Optional| **Variant**|A string or byte array that specifies additional information for HTTP to use to resolve the hyperlink. For example, you can use ExtraInfo to specify the coordinates of an image map, the contents of a form, or a FAT file name. The string is either posted or appended, depending on the value of Method. Use the  **ExtraInfoRequired** property to determine whether extra information is required.|
+| _ExtraInfo_|Optional| **Variant**|A string or byte array that specifies additional information for HTTP to use to resolve the hyperlink. For example, you can use ExtraInfo to specify the coordinates of an image map, the contents of a form, or a FAT file name. The string is either posted or appended, depending on the value of Method. Use the **ExtraInfoRequired** property to determine whether extra information is required.|
 | _Method_|Optional| **Variant**|Specifies the way additional information for HTTP is handled. Can be any  **MsoExtraInfoMethod** constant.|
 | _HeaderInfo_|Optional| **Variant**|A string that specifies header information for the HTTP request. The default value is an empty string. You can combine several header lines into a single string by using the following syntax: "string1" & vbCr & "string2". The specified string is automatically converted into ANSI characters. Note that the HeaderInfo argument may overwrite default HTTP header fields.|
 

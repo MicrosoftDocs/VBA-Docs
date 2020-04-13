@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimeZone.DaylightDesignation property (Outlook)
 
-Returns a  **String** that identifies the time zone in daylight time. Read-only.
+Returns a **String** that identifies the time zone in daylight time. Read-only.
 
 
 ## Syntax

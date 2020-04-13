@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # SpinButton.BackColor Property (Outlook Forms Script)
 
-Returns or sets a  **Long** that specifies the background color of the object. Read/write.
+Returns or sets a **Long** that specifies the background color of the object. Read/write.
 
 
 ## Syntax
 
 _expression_.**BackColor**
 
-_expression_ A variable that represents a  **SpinButton** object.
+_expression_ A variable that represents a **SpinButton** object.
 
 
 ## Remarks

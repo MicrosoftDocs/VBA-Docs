@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # OutlineCode.DefaultValue property (Project)
 
-Gets or sets the default value of the  **[OutlineCode](Project.OutlineCode.md)** object. Read/write **String**.
+Gets or sets the default value of the **[OutlineCode](Project.OutlineCode.md)** object. Read/write **String**.
 
 
 ## Syntax

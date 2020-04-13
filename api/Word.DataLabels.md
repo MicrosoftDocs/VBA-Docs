@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # DataLabels object (Word)
 
-A collection of all the  **[DataLabel](Word.DataLabel.md)** objects for the specified series.
+A collection of all the **[DataLabel](Word.DataLabel.md)** objects for the specified series.
 
 
 ## Remarks
@@ -21,7 +21,7 @@ A collection of all the  **[DataLabel](Word.DataLabel.md)** objects for the spec
 
 ## Example
 
-Use the  **[DataLabels](Word.Series.DataLabels.md)** method to return the **DataLabels** collection. The following example sets the number format for data labels on the first series of the first chart in the active document.
+Use the **[DataLabels](Word.Series.DataLabels.md)** method to return the **DataLabels** collection. The following example sets the number format for data labels on the first series of the first chart in the active document.
 
 
 ```vb

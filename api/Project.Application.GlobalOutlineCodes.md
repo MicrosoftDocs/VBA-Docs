@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.GlobalOutlineCodes property (Project)
 
-Gets or sets an  **[OutlineCodes](Project.outlinecodes(object).md)** collection in the Global.mpt file, along with enterprise text custom fields that use a lookup table. Read/write **OutlineCodes**.
+Gets or sets an **[OutlineCodes](Project.outlinecodes(object).md)** collection in the Global.mpt file, along with enterprise text custom fields that use a lookup table. Read/write **OutlineCodes**.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 > [!NOTE] 
 > In Project, an outline code is any enterprise custom field that uses a single- or multi-level text lookup table. Enterprise custom fields can only be created in Project Web App, with Project Server Interface (PSI) methods, or with the client-side object model (CSOM) in Project. The enterprise global template does not store enterprise custom fields.
 
-When Project Professional is not connected with Project Server, the  **GlobalOutlineCodes** property gets only the collection of outline codes in the Global.mpt file on the local computer. When Project Professional is connected with Project Server, the collection of outline codes includes those in the Global.mpt file plus the enterprise text custom fields with a lookup table.
+When Project Professional is not connected with Project Server, the **GlobalOutlineCodes** property gets only the collection of outline codes in the Global.mpt file on the local computer. When Project Professional is connected with Project Server, the collection of outline codes includes those in the Global.mpt file plus the enterprise text custom fields with a lookup table.
 
 
 ## Example

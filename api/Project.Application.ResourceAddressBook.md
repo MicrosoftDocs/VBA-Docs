@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **ResourceAddressBook** method is available only in resource views. If no email profile is available, Project displays a message that explains how to create a profile.
+The **ResourceAddressBook** method is available only in resource views. If no email profile is available, Project displays a message that explains how to create a profile.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

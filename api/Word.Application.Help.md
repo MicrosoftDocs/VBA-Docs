@@ -34,7 +34,7 @@ _expression_ A variable that represents an **[Application](Word.Application.md)*
 
 ## Example
 
-This example displays the  **Help Topics** dialog box.
+This example displays the **Help Topics** dialog box.
 
 
 ```vb

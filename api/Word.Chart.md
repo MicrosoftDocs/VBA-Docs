@@ -24,18 +24,18 @@ The Example section describes the following properties and methods for returning
 
 
 
-- The  **[Chart](Word.InlineShape.Chart.md)** property.
+- The **[Chart](Word.InlineShape.Chart.md)** property.
     
-- The  **[AddChart](overview/Word.md)** method.
+- The **[AddChart](overview/Word.md)** method.
     
 
 
 
 ## Example
 
-The  **[InlineShapes](Word.inlineshapes.md)** collection contains an object for each inline shape, including charts, in a document. Use **InlineShapes** (_index_), where Index is the index number of an inline shape, to return a single **InlineShape** object. Use the **[HasChart](Word.InlineShape.HasChart.md)** property to determine whether the **InlineShape** object represents a chart. If the **HasChart** property is set to **True**, use the **[Chart](Word.InlineShape.Chart.md)** property to return a **Chart** object.
+The **[InlineShapes](Word.inlineshapes.md)** collection contains an object for each inline shape, including charts, in a document. Use **InlineShapes** (_index_), where Index is the index number of an inline shape, to return a single **InlineShape** object. Use the **[HasChart](Word.InlineShape.HasChart.md)** property to determine whether the **InlineShape** object represents a chart. If the **HasChart** property is set to **True**, use the **[Chart](Word.InlineShape.Chart.md)** property to return a **Chart** object.
 
-You can also use the  **[Type](Word.InlineShape.Type.md)** property to determine whether the **InlineShape** object represents a chart. If the **Type** property is set to **WdInlineShapeChart**, the inline shape represents a chart.
+You can also use the **[Type](Word.InlineShape.Type.md)** property to determine whether the **InlineShape** object represents a chart. If the **Type** property is set to **WdInlineShapeChart**, the inline shape represents a chart.
 
 The following example verifies whether the first inline shape in the active document represents a chart. If so, the example changes the fore color of the first series on the chart.
 

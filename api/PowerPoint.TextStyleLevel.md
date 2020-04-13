@@ -19,7 +19,7 @@ Contains character and paragraph formatting information for an outline level.
 
 ## Remarks
 
-The  **TextStyleLevel** object is a member of the **[TextStyleLevels](PowerPoint.TextStyleLevels.md)** collection. The **TextStyleLevels** collection contains one **TextStyleLevel** object for each of the five outline levels.
+The **TextStyleLevel** object is a member of the **[TextStyleLevels](PowerPoint.TextStyleLevels.md)** collection. The **TextStyleLevels** collection contains one **TextStyleLevel** object for each of the five outline levels.
 
 
 ## Example

@@ -26,7 +26,7 @@ _expression_. `HangulAndAlphabetExceptions`
 
 ## Remarks
 
-This list corresponds to the list of Hangul and alphabet AutoCorrect exceptions on the  **Korean** tab in the **AutoCorrect Exceptions** dialog box.
+This list corresponds to the list of Hangul and alphabet AutoCorrect exceptions on the **Korean** tab in the **AutoCorrect Exceptions** dialog box.
 
 For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 

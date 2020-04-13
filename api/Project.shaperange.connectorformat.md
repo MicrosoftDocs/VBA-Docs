@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # ShapeRange.ConnectorFormat property (Project)
-Gets a  **ConnectorFormat** object that contains connector formatting properties. Applies to a **ShapeRange** object that represents one or more connectors. Read-only **[ConnectorFormat](https://msdn.microsoft.com/library/office/ff820940%28v=office.15%29)**.
+Gets a **ConnectorFormat** object that contains connector formatting properties. Applies to a **ShapeRange** object that represents one or more connectors. Read-only **[ConnectorFormat](https://msdn.microsoft.com/library/office/ff820940%28v=office.15%29)**.
 
 ## Syntax
 
@@ -21,9 +21,9 @@ _expression_ A variable that represents a 'ShapeRange' object.
 
 
 > [!NOTE] 
-> In Project, the connect and disconnect methods do not work for a  **ConnectorFormat** object. So, the **RerouteConnections** method and the **BeginConnected**,  **BeginConnectedShape**,  **BeginConnectedSite**,  **EndConnected**,  **EndConnectedShape**, and  **EndConnectedSite** properties have no meaning.
+> In Project, the connect and disconnect methods do not work for a **ConnectorFormat** object. So, the **RerouteConnections** method and the **BeginConnected**,  **BeginConnectedShape**,  **BeginConnectedSite**,  **EndConnected**,  **EndConnectedShape**, and  **EndConnectedSite** properties have no meaning.
 
-For example, in the following code snippet, the  **BeginConnect** method gives a run-time error 13, 'Type mismatch'.
+For example, in the following code snippet, the **BeginConnect** method gives a run-time error 13, 'Type mismatch'.
 
 
 ```vb

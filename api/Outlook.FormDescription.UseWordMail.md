@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormDescription.UseWordMail property (Outlook)
 
-Returns a  **Boolean** that indicates **True** to use Microsoft Office Word as the default editor for the form. Read/write.
+Returns a **Boolean** that indicates **True** to use Microsoft Office Word as the default editor for the form. Read/write.
 
 
 ## Syntax

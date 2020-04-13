@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[ChartBorder](Word.ChartBorder.md)' o
 
 ## Remarks
 
-The  **xlDouble** and **xlSlantDashDot** constants of the **xlLineStyle** enumeration do not apply to charts.
+The **xlDouble** and **xlSlantDashDot** constants of the **xlLineStyle** enumeration do not apply to charts.
 
 
 ## Example

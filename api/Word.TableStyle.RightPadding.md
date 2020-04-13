@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[TableStyle](Word.TableStyl
 
 ## Remarks
 
-The setting of the  **RightPadding** property for a single cell overrides the setting of the **RightPadding** property for the entire table.
+The setting of the **RightPadding** property for a single cell overrides the setting of the **RightPadding** property for the entire table.
 
 
 ## See also

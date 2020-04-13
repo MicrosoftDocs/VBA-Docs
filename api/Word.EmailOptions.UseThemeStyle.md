@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[EmailOptions](Word.EmailOptions.md)'
 
 ## Remarks
 
-If no default email message theme has been specified, the  **UseThemeStyle** property has no effect.
+If no default email message theme has been specified, the **UseThemeStyle** property has no effect.
 
 
 ## Example

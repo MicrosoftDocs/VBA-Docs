@@ -37,6 +37,6 @@ _expression_ An expression that returns an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **Text Lines** drop-down list values range from 1 to 10 in the Team Planner view. However, the _LineMultiple_ argument in the **SelectTPLineHeight** method can range from 1 to 32767.
+The **Text Lines** drop-down list values range from 1 to 10 in the Team Planner view. However, the _LineMultiple_ argument in the **SelectTPLineHeight** method can range from 1 to 32767.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

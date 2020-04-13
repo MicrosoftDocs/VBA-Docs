@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[ParagraphFormat](Word.Para
 
 ## Remarks
 
-You can also use the  **[SpaceBefore](Word.ParagraphFormat.SpaceBefore.md)** property to set the spacing of paragraphs. The following two statements are equivalent:
+You can also use the **[SpaceBefore](Word.ParagraphFormat.SpaceBefore.md)** property to set the spacing of paragraphs. The following two statements are equivalent:
 
 
 ```vb

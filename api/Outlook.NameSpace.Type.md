@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.Type property (Outlook)
 
-Returns a  **String** indicating the type of the specified object. Read-only.
+Returns a **String** indicating the type of the specified object. Read-only.
 
 
 ## Syntax

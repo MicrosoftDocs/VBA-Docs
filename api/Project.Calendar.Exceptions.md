@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Calendar.Exceptions property (Project)
 
-Gets the  **[Exceptions](Project.exceptions.md)** collection object. Read-only **Exceptions**.
+Gets the **[Exceptions](Project.exceptions.md)** collection object. Read-only **Exceptions**.
 
 
 ## Syntax

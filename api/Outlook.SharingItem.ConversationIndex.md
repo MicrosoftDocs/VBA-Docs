@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.ConversationIndex property (Outlook)
 
-Returns a  **String** representing the index of the conversation thread of the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
+Returns a **String** representing the index of the conversation thread of the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax

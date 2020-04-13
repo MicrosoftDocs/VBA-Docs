@@ -19,9 +19,9 @@ _expression_ A variable that represents a 'ShapeRange' object.
 
 ## Remarks
 
-You can use the array returned by the  **Vertices** property as an argument for the [AddCurve](Project.shapes.addcurve.md) method or the [AddPolyLine](Project.shapes.addpolyline.md) method.
+You can use the array returned by the **Vertices** property as an argument for the [AddCurve](Project.shapes.addcurve.md) method or the [AddPolyLine](Project.shapes.addpolyline.md) method.
 
-For an array of vertices named  `vertArray`, the following table shows how the  **Vertices** property associates values in the array with the coordinates of vertices in a triangle.
+For an array of vertices named  `vertArray`, the following table shows how the **Vertices** property associates values in the array with the coordinates of vertices in a triangle.
 
 
 

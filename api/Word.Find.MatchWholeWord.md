@@ -26,7 +26,7 @@ _expression_. `MatchWholeWord`
 
 ## Remarks
 
-Use the  **[Text](Word.Find.Text.md)** property of the **Find** object or the FindText argument with the **[Execute](Word.Find.Execute.md)** method to specify the text to be located in a document.
+Use the **[Text](Word.Find.Text.md)** property of the **Find** object or the FindText argument with the **[Execute](Word.Find.Execute.md)** method to specify the text to be located in a document.
 
 
 ## Example

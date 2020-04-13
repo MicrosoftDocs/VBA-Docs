@@ -27,7 +27,7 @@ _expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Attachment_|Required| **Attachment**|The  **[Attachment](Outlook.Attachment.md)** that was removed from the item.|
+| _Attachment_|Required| **Attachment**|The **[Attachment](Outlook.Attachment.md)** that was removed from the item.|
 
 ## See also
 

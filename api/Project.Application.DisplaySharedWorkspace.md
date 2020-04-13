@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.DisplaySharedWorkspace method (Project)
 
-Displays the  **Shared Workspace** pane. Available only in Project Professional.
+Displays the **Shared Workspace** pane. Available only in Project Professional.
 
 
 ## Syntax

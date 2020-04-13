@@ -23,6 +23,6 @@ _expression_ A variable that represents a [GroupCriterion](./Project.GroupCriter
 
 ## Remarks
 
-The  **Pattern** property can be one of the **[PjBackgroundPattern](Project.PjBackgroundPattern.md)** constants.
+The **Pattern** property can be one of the **[PjBackgroundPattern](Project.PjBackgroundPattern.md)** constants.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

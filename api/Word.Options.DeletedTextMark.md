@@ -33,7 +33,7 @@ This example applies strikethrough formatting to deleted text.
 Options.DeletedTextMark = wdDeletedTextMarkStrikeThrough
 ```
 
-This example returns the current status of the  **Mark** option under **Deleted Text** on the **Track Changes** tab in the **Options** dialog box.
+This example returns the current status of the **Mark** option under **Deleted Text** on the **Track Changes** tab in the **Options** dialog box.
 
 
 

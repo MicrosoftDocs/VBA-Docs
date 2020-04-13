@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Word.Application.md)*
 
 ## Remarks
 
-The  **AddIns** collection includes the global templates and Word add-in libraries (WLLs) listed in the **Templates and Add-ins** dialog box. For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
+The **AddIns** collection includes the global templates and Word add-in libraries (WLLs) listed in the **Templates and Add-ins** dialog box. For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 
 
 ## Example

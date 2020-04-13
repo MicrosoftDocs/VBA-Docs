@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormDescription.Version property (Outlook)
 
-Returns or sets a  **String** indicating the number of the version. Read/write.
+Returns or sets a **String** indicating the number of the version. Read/write.
 
 
 ## Syntax

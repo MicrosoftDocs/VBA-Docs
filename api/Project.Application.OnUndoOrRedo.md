@@ -41,6 +41,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-You can use the  **OnUndoOrRedo** event to manage undo or redo actions that are specified by the global **OpenUndoTransaction** and **CloseUndoTransaction** methods.
+You can use the **OnUndoOrRedo** event to manage undo or redo actions that are specified by the global **OpenUndoTransaction** and **CloseUndoTransaction** methods.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,7 +40,7 @@ _expression_. `GanttBarStyleBaseline`( `_Baseline_`, `_Show_` )
 
 ## Remarks
 
-On the Ribbon, the  **GanttBarStyleBaseline** method corresponds to the **Baseline** drop-down list in the **Bar Styles** group on the **Format** tab for **Gantt Chart Tools**.
+On the Ribbon, the **GanttBarStyleBaseline** method corresponds to the **Baseline** drop-down list in the **Bar Styles** group on the **Format** tab for **Gantt Chart Tools**.
 
 
 ## Example

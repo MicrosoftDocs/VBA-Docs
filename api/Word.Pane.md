@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Pane object (Word)
 
-Represents a window pane. The  **Pane** object is a member of the **Panes** collection. The **[Panes](Word.panes.md)** collection includes all the window panes for a single window.
+Represents a window pane. The **Pane** object is a member of the **Panes** collection. The **[Panes](Word.panes.md)** collection includes all the window panes for a single window.
 
 
 ## Remarks
@@ -27,7 +27,7 @@ If ActiveDocument.ActiveWindow.Panes.Count >= 2 Then _
  ActiveDocument.ActiveWindow.ActivePane.Close
 ```
 
-Use the  **Add** method or the **Split** property to add a window pane. The following example splits the active window at 20 percent of the current window size.
+Use the **Add** method or the **Split** property to add a window pane. The following example splits the active window at 20 percent of the current window size.
 
 
 
@@ -45,7 +45,7 @@ The following example splits the active window in half.
 ActiveDocument.ActiveWindow.Split = True
 ```
 
-You can use the  **SplitSpecial** property to show comments, footnotes, or endnotes in a separate pane.
+You can use the **SplitSpecial** property to show comments, footnotes, or endnotes in a separate pane.
 
 A window has more than one pane if the window is split or the view is not print layout view and information such as footnotes or comments are displayed. The following example displays the comments pane in normal view and then prompts to close the pane.
 

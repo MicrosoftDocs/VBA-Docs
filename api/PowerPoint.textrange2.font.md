@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # TextRange2.Font property (PowerPoint)
 
-Returns a  **Font** object that represents character formatting for the **TextRange2** object. Read-only.
+Returns a **Font** object that represents character formatting for the **TextRange2** object. Read-only.
 
 
 ## Syntax

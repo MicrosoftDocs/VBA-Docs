@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Browser.Target property (Word)
 
-Returns or sets the document item that the  **Previous** and **Next** methods locate. Read/write **WdBrowseTarget**.
+Returns or sets the document item that the **Previous** and **Next** methods locate. Read/write **WdBrowseTarget**.
 
 
 ## Syntax

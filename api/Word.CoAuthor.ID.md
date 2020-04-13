@@ -26,7 +26,7 @@ _expression_.**ID**
 
 ## Remarks
 
-The unique identifier returned by the  **ID** property should not be assumed to have a particular length or format.
+The unique identifier returned by the **ID** property should not be assumed to have a particular length or format.
 
 
 ## Example

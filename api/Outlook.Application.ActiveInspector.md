@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Outlook.Application.m
 
 ## Return value
 
-An  **Inspector** that represents the topmost inspector on the desktop.
+An **Inspector** that represents the topmost inspector on the desktop.
 
 
 ## Remarks

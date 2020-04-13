@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ShapeNode](Word.ShapeNode.md)** obj
 
 ## Remarks
 
-Each coordinate is expressed in points. Use the  **[SetPosition](Word.ShapeNodes.SetPosition.md)** method to set the location of the node.
+Each coordinate is expressed in points. Use the **[SetPosition](Word.ShapeNodes.SetPosition.md)** method to set the location of the node.
 
 
 ## Example

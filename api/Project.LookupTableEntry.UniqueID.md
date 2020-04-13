@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # LookupTableEntry.UniqueID property (Project)
 
-Gets the unique identification number of the  **[LookupTableEntry](Project.LookupTableEntry.md)** object. Read-only **Long**.
+Gets the unique identification number of the **[LookupTableEntry](Project.LookupTableEntry.md)** object. Read-only **Long**.
 
 
 ## Syntax

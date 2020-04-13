@@ -26,7 +26,7 @@ Use  **FormFields** (Index), where Index is either the bookmark name associated 
 ActiveDocument.FormFields("Text1").TextInput.Clear
 ```
 
-The index number represents the position of the form field in the  **FormFields** collection. The following example checks the type of the first form field in the active document. If the form field is a text form field, the example sets "Mission Critical" as the value of the field.
+The index number represents the position of the form field in the **FormFields** collection. The following example checks the type of the first form field in the active document. If the form field is a text form field, the example sets "Mission Critical" as the value of the field.
 
 
 
@@ -51,7 +51,7 @@ Else
 End If
 ```
 
-Use the  **Add** method with the **[FormFields](Word.formfields.md)** object to add a text form field. The following example adds a text form field at the beginning of the active document and then sets the name of the form field to "FirstName."
+Use the **Add** method with the **[FormFields](Word.formfields.md)** object to add a text form field. The following example adds a text form field at the beginning of the active document and then sets the name of the form field to "FirstName."
 
 
 

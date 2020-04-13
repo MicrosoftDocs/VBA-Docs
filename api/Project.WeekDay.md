@@ -14,7 +14,7 @@ localization_priority: Normal
 
  
 
-Represents a weekday in a calendar. The  **Weekday** object is a member of the **[Weekdays](Project.weekdays.md)** collection.
+Represents a weekday in a calendar. The **Weekday** object is a member of the **[Weekdays](Project.weekdays.md)** collection.
  
  **Using the Weekday Object**
  
@@ -24,7 +24,7 @@ A much better way to return the same object is to use the predefined constant fo
  
  **Using the Weekdays Collection**
  
-Use the  **[Weekdays](Project.Calendar.WeekDays.md)** property to return a **Weekdays** collection.
+Use the **[Weekdays](Project.Calendar.WeekDays.md)** property to return a **Weekdays** collection.
  
 
 ## Methods

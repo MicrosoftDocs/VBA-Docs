@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[InlineShape](Word.InlineShape.md)' 
 
 ## Remarks
 
-Use the  **Title** property to provide an alternative text title for an inline shape. This property adds title text to the **Title** text box on the **Alt Text** pane of the **Format Shape** dialog in Word.
+Use the **Title** property to provide an alternative text title for an inline shape. This property adds title text to the **Title** text box on the **Alt Text** pane of the **Format Shape** dialog in Word.
 
 > [!NOTE] 
 > Web browsers display alternative text while tables are loading or if they are missing. Web search engines use the alternative text to help find Web pages. Alternative text is also used to assist disabilities.

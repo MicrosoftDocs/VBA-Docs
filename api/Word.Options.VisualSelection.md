@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents an **[Options](Word.Options.md
 
 ## Remarks
 
-The  **CursorMovement** property must be set to **wdCursorMovementVisual** to use this property.
+The **CursorMovement** property must be set to **wdCursorMovementVisual** to use this property.
 
 
 ## Example

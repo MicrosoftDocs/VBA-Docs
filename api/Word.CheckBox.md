@@ -26,7 +26,7 @@ Use  **FormFields** (Index), where Index is index number or the bookmark name as
 ActiveDocument.FormFields("Check1").CheckBox.Value = True
 ```
 
-The index number represents the position of the form field in the  **[FormFields](Word.formfields.md)** collection. The following example checks the type of the first form field; if it is a check box, the check box is selected.
+The index number represents the position of the form field in the **[FormFields](Word.formfields.md)** collection. The following example checks the type of the first form field; if it is a check box, the check box is selected.
 
 
 
@@ -52,7 +52,7 @@ Else
 End If
 ```
 
-Use the  **Add** method with the **FormFields** object to add a check box form field. The following example adds a check box at the beginning of the active document, sets the name to "Color", and then selects the check box.
+Use the **Add** method with the **FormFields** object to add a check box form field. The following example adds a check box at the beginning of the active document, sets the name to "Color", and then selects the check box.
 
 
 

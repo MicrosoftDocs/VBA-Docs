@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.GoalAreaChange method (Project)
 
-Changes Project Guide goal areas by triggering the  **[WindowGoalAreaChange](Project.Application.WindowGoalAreaChange.md)** event. Deprecated in Project.
+Changes Project Guide goal areas by triggering the **[WindowGoalAreaChange](Project.Application.WindowGoalAreaChange.md)** event. Deprecated in Project.
 
 
 ## Syntax

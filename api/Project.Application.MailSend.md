@@ -49,6 +49,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-If the  **MailSend** method is used without specifying any arguments and there are no existing routing slips, a standard compose mail window appears with the active project as an embedded object. Otherwise, using the **MailSend** method without specifying any arguments prompts whether or not to use the routing slip.
+If the **MailSend** method is used without specifying any arguments and there are no existing routing slips, a standard compose mail window appears with the active project as an embedded object. Otherwise, using the **MailSend** method without specifying any arguments prompts whether or not to use the routing slip.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

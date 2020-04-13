@@ -31,6 +31,6 @@ _expression_. `InsertMilestoneTask`
 
 ## Remarks
 
-The milestone task has a duration of 0 days and is of the default mode (automatically or manually scheduled). The  **InsertMilestoneTask** method corresponds to the **Milestone** command in the **Insert** group of the **Task** tab on the Ribbon.
+The milestone task has a duration of 0 days and is of the default mode (automatically or manually scheduled). The **InsertMilestoneTask** method corresponds to the **Milestone** command in the **Insert** group of the **Task** tab on the Ribbon.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

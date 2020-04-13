@@ -19,7 +19,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Remarks
 
-The  **DepthPercent** property fails on 2D charts.
+The **DepthPercent** property fails on 2D charts.
 
 
 ## Example

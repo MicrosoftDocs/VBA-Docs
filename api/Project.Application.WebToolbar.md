@@ -39,8 +39,8 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Project does not use toolbars; the  **WebToolbar** method has no effect.
+Project does not use toolbars; the **WebToolbar** method has no effect.
 
-You can create a custom group on a tab in the ribbon that includes commands for webpages. For example, open the  **Project Options** dialog box, choose **Customize Ribbon**, and then create a new group in a tab. Add commands such as  **Back**,  **Forward**,  **Stop**,  **Refresh**,  **Start Page**,  **Search the Web**, and  **Open Hyperlink**.
+You can create a custom group on a tab in the ribbon that includes commands for webpages. For example, open the **Project Options** dialog box, choose **Customize Ribbon**, and then create a new group in a tab. Add commands such as  **Back**,  **Forward**,  **Stop**,  **Refresh**,  **Start Page**,  **Search the Web**, and  **Open Hyperlink**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

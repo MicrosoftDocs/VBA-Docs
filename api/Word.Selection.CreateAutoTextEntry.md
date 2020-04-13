@@ -31,7 +31,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The text the user must type to call the new AutoText entry.|
-| _StyleName_|Required| **String**|The category in which the new AutoText entry will be listed on the  **AutoText** menu.|
+| _StyleName_|Required| **String**|The category in which the new AutoText entry will be listed on the **AutoText** menu.|
 
 ## Example
 

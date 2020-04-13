@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeUser.MobileTelephoneNumber property (Outlook)
 
-Returns a  **String** representing the mobile telephone number for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
+Returns a **String** representing the mobile telephone number for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 
 
 ## Syntax

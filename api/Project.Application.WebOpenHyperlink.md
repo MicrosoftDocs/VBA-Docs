@@ -42,7 +42,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **WebOpenHyperlink** method is only available when the selected assignment, resource, or task field contains a hyperlink.
+The **WebOpenHyperlink** method is only available when the selected assignment, resource, or task field contains a hyperlink.
 
 
 ## Example

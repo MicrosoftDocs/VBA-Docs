@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Timeline.BarCount property (Project)
 
-Indicates the number of bars in a  **Timeline** view. Introduced in Office 2016.
+Indicates the number of bars in a **Timeline** view. Introduced in Office 2016.
 
 
 ## Syntax

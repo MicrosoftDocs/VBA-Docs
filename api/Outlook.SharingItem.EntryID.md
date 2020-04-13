@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.EntryID property (Outlook)
 
-Returns a  **String** representing the unique Entry ID of the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
+Returns a **String** representing the unique Entry ID of the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Reminder.Caption property (Outlook)
 
-Returns a  **String** representing the title. Read-only.
+Returns a **String** representing the title. Read-only.
 
 
 ## Syntax

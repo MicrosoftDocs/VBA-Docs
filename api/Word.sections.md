@@ -17,7 +17,7 @@ A collection of  **Section** objects in a selection, range, or document.
 
 ## Remarks
 
-Use the  **Sections** property to return the **Sections** collection. The following example inserts text at the end of the last section in the active document.
+Use the **Sections** property to return the **Sections** collection. The following example inserts text at the end of the last section in the active document.
 
 
 ```vb
@@ -27,7 +27,7 @@ With ActiveDocument.Sections.Last.Range
 End With
 ```
 
-Use the  **Add** method or the **InsertBreak** method to add a new section to a document. The following example adds a new section at the beginning of the active document.
+Use the **Add** method or the **InsertBreak** method to add a new section to a document. The following example adds a new section at the beginning of the active document.
 
 
 

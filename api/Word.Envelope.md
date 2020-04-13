@@ -19,7 +19,7 @@ Represents an envelope attached to a document.
 
 ## Remarks
 
-Use the  **[Envelope](Word.Document.Envelope.md)** property to return the **Envelope** object. The following example adds an envelope to a new document and sets the distance between the top of the envelope and the address to 2.25 inches.
+Use the **[Envelope](Word.Document.Envelope.md)** property to return the **Envelope** object. The following example adds an envelope to a new document and sets the distance between the top of the envelope and the address to 2.25 inches.
 
 
 ```vb
@@ -36,9 +36,9 @@ End With
 
 Remarks
 
-The  **Envelope** object is available regardless of whether an envelope has been added to the specified document. However, an error occurs if you use one of the following properties when an envelope has not been added to the document: **[Address](Word.Envelope.Address.md)**, **[AddressFromLeft](Word.Envelope.AddressFromLeft.md)**, **[AddressFromTop](Word.Envelope.AddressFromTop.md)**, **[FeedSource](Word.Envelope.FeedSource.md)**, **[ReturnAddress](Word.Envelope.ReturnAddress.md)**, **[ReturnAddressFromLeft](Word.Envelope.ReturnAddressFromLeft.md)**, **[ReturnAddressFromTop](Word.Envelope.ReturnAddressFromTop.md)**, and **[UpdateDocument](Word.Envelope.UpdateDocument.md)**.
+The **Envelope** object is available regardless of whether an envelope has been added to the specified document. However, an error occurs if you use one of the following properties when an envelope has not been added to the document: **[Address](Word.Envelope.Address.md)**, **[AddressFromLeft](Word.Envelope.AddressFromLeft.md)**, **[AddressFromTop](Word.Envelope.AddressFromTop.md)**, **[FeedSource](Word.Envelope.FeedSource.md)**, **[ReturnAddress](Word.Envelope.ReturnAddress.md)**, **[ReturnAddressFromLeft](Word.Envelope.ReturnAddressFromLeft.md)**, **[ReturnAddressFromTop](Word.Envelope.ReturnAddressFromTop.md)**, and **[UpdateDocument](Word.Envelope.UpdateDocument.md)**.
 
-The following example demonstrates how to use the  **On Error GoTo** statement to trap the error that occurs if an envelope has not been added to the active document. If, however, an envelope has been added to the document, the recipient address is displayed.
+The following example demonstrates how to use the **On Error GoTo** statement to trap the error that occurs if an envelope has not been added to the active document. If, however, an envelope has been added to the document, the recipient address is displayed.
 
 
 
@@ -51,7 +51,7 @@ If Err = 5852 Then MsgBox _
  "Envelope is not in the specified document"
 ```
 
-Use the  **Insert** method to add an envelope to the specified document. Use the **PrintOut** method to set the properties of an envelope and print it without adding it to the document.
+Use the **Insert** method to add an envelope to the specified document. Use the **PrintOut** method to set the properties of an envelope and print it without adding it to the document.
 
 
 > [!NOTE] 

@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # Frame.Picture Property (Outlook Forms Script)
 
-Returns a  **String** that specifies the full path name of a bitmap to display on a control. Read-only.
+Returns a **String** that specifies the full path name of a bitmap to display on a control. Read-only.
 
 
 ## Syntax
 
 _expression_.**Picture**
 
-_expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a **Frame** object.
 
 
 ## Remarks

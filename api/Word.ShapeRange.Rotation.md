@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ShapeRange](Word.shaperange.md)** o
 
 ## Remarks
 
-A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. To set the rotation of a three-dimensional shape around the x-axis or the y-axis, use the  **[RotationX](Word.ThreeDFormat.RotationX.md)** property or the **[RotationY](Word.ThreeDFormat.RotationY.md)** property of the **[ThreeDFormat](Word.ThreeDFormat.md)** object.
+A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. To set the rotation of a three-dimensional shape around the x-axis or the y-axis, use the **[RotationX](Word.ThreeDFormat.RotationX.md)** property or the **[RotationY](Word.ThreeDFormat.RotationY.md)** property of the **[ThreeDFormat](Word.ThreeDFormat.md)** object.
 
 
 ## See also

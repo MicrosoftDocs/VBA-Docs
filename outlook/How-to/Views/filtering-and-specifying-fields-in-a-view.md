@@ -17,7 +17,7 @@ localization_priority: Normal
 - **TableView](../../../api/Outlook.View.md)**
     
 
- **[BusinessCardView](../../../api/Outlook.View.md)** , **[CalendarView](../../../api/Outlook.View.md)**, **IconView](../../../api/Outlook.View.md)**, and  **imelineView](../../../api/Outlook.View.md)** objects use other methods of determining which Outlook item properties are displayed within the view.The fields displayed for the **BusinessCardView** object, for example, are determined by the Electronic Business Card (EBC) layout associated with each displayed Outlook item.
+ **[BusinessCardView](../../../api/Outlook.View.md)** , **[CalendarView](../../../api/Outlook.View.md)**, **IconView](../../../api/Outlook.View.md)**, and **imelineView](../../../api/Outlook.View.md)** objects use other methods of determining which Outlook item properties are displayed within the view.The fields displayed for the **BusinessCardView** object, for example, are determined by the Electronic Business Card (EBC) layout associated with each displayed Outlook item.
 
 The **iewFields** collection for those views can be retrieved by calling the **ViewFields** property of the appropriate view object. The **[Add](../../../api/Outlook.ViewFields.Add.md)** method of the **ViewFields** collection is used to create a **[ViewField](../../../api/Outlook.ViewField.md)** object that represents the Outlook item property to be displayed in the view.
 A **iewField** object not only identifies an Outlook item property to display within the view, but also describes how the values for that property should be displayed. You can change how properties are displayed in a view.

@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Table](Word.Table.md)' obj
 
 ## Remarks
 
-The setting of the  **LeftPadding** property for a single cell overrides the setting of the **LeftPadding** property for the entire table.
+The setting of the **LeftPadding** property for a single cell overrides the setting of the **LeftPadding** property for the entire table.
 
 
 ## Example

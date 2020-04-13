@@ -12,7 +12,7 @@ Represents a collection of  **[Shape](./Project.shape.md)** objects in a custom 
 
 ## Example
 
-Use the  **[Report.Shapes](./Project.report.shapes.md)** property to get the **Shapes** collection object. In the following example, the report must be the active view to get the **Shapes** collection; otherwise, you get a run-time error 424 (Object required) in the `For Each oShape In oReport.Shapes` statement.
+Use the **[Report.Shapes](./Project.report.shapes.md)** property to get the **Shapes** collection object. In the following example, the report must be the active view to get the **Shapes** collection; otherwise, you get a run-time error 424 (Object required) in the `For Each oShape In oReport.Shapes` statement.
 
 
 ```vb

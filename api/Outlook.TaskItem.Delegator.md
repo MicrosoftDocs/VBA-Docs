@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskItem.Delegator property (Outlook)
 
-Returns a  **String** representing the display name of the delegator for the task. Read-only.
+Returns a **String** representing the display name of the delegator for the task. Read-only.
 
 
 ## Syntax

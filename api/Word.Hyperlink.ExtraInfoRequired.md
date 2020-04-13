@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Hyperlink](Word.Hyperlink.md)' objec
 
 ## Remarks
 
-You can specify extra information by using the ExtraInfo argument with the  **[Follow](Word.Hyperlink.Follow.md)** or **[FollowHyperlink](Word.Document.FollowHyperlink.md)** method. For example, you can use ExtraInfo to specify the coordinates of an image map, the contents of a form, or a FAT file name.
+You can specify extra information by using the ExtraInfo argument with the **[Follow](Word.Hyperlink.Follow.md)** or **[FollowHyperlink](Word.Document.FollowHyperlink.md)** method. For example, you can use ExtraInfo to specify the coordinates of an image map, the contents of a form, or a FAT file name.
 
 
 ## Example

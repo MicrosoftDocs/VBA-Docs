@@ -15,7 +15,7 @@ Contains a collection of  **[Profile](Project.Profile.md)** objects, which are l
 
 ## Remarks
 
-The  **Project Server Accounts** dialog box shows the number and order of profiles. Use `Profiles.Count` to programmatically determine the number of account profiles.
+The **Project Server Accounts** dialog box shows the number and order of profiles. Use `Profiles.Count` to programmatically determine the number of account profiles.
  
 
  

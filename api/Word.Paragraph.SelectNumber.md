@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.
 
 ## Remarks
 
-If the  **SelectNumber** method is called from a paragraph, selection, or range that does not contain a list, an error message is displayed.
+If the **SelectNumber** method is called from a paragraph, selection, or range that does not contain a list, an error message is displayed.
 
 
 ## Example

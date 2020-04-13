@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OrderFields.Add method (Outlook)
 
-Creates a new  **[OrderField](Outlook.OrderField.md)** object and appends it to the **[OrderFields](Outlook.OrderFields.md)** collection.
+Creates a new **[OrderField](Outlook.OrderField.md)** object and appends it to the **[OrderFields](Outlook.OrderFields.md)** collection.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ _expression_ A variable that represents an [OrderFields](Outlook.OrderFields.md)
 
 ## Return value
 
-An  **OrderField** object that represents the new order field.
+An **OrderField** object that represents the new order field.
 
 
 ## See also

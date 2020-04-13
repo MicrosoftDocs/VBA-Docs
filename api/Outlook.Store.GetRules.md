@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Store.GetRules method (Outlook)
 
-Returns a  **[Rules](Outlook.Rules.md)** collection object that contains the **[Rule](Outlook.Rule.md)** objects defined for the current session.
+Returns a **[Rules](Outlook.Rules.md)** collection object that contains the **[Rule](Outlook.Rule.md)** objects defined for the current session.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Store](Outlook.Store.md) object.
 
 ## Return value
 
-A  **Rules** collection object that represents the set of **Rules** defined for the current session.
+A **Rules** collection object that represents the set of **Rules** defined for the current session.
 
 
 ## Remarks

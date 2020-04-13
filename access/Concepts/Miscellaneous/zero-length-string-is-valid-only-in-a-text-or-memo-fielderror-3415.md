@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You are trying to enter a zero-length string in a field that has a data type other than Text or Memo. You may be able to enter a  **Null** value instead.
+You are trying to enter a zero-length string in a field that has a data type other than Text or Memo. You may be able to enter a **Null** value instead.
 
 ## See also
 

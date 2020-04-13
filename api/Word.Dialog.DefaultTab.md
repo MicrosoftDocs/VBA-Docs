@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Dialog](Word.Dialog.md)' o
 
 ## Example
 
-This example displays the  **Page Setup** dialog box with the **Paper Source** tab selected.
+This example displays the **Page Setup** dialog box with the **Paper Source** tab selected.
 
 
 ```vb

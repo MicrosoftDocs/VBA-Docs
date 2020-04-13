@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shape.Table property (Project)
-Gets the  **ReportTable** object in the shape. Read-only[ReportTable](Project.reporttable.md).
+Gets the **ReportTable** object in the shape. Read-only[ReportTable](Project.reporttable.md).
 
 ## Syntax
 

@@ -16,9 +16,9 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-On a Microsoft Access database engine database, you called the  **Update** or **CancelUpdate** method but did not use the **AddNew** or **Edit** method before writing data to a record.
+On a Microsoft Access database engine database, you called the **Update** or **CancelUpdate** method but did not use the **AddNew** or **Edit** method before writing data to a record.
 
-On an ODBCDirect database, this error occurs when you attempt to write data to a record without first calling  **AddNew** or **Edit**.
+On an ODBCDirect database, this error occurs when you attempt to write data to a record without first calling **AddNew** or **Edit**.
 
 ## See also
 

@@ -28,7 +28,7 @@ _expression_ A variable that represents a [StorageItem](Outlook.StorageItem.md) 
 
 If the  **StorageItem** has never been saved before, **Save** saves the item as a hidden item in the **[Folder](Outlook.Folder.md)** on which **[Folder.GetStorage](Outlook.Folder.GetStorage.md)** was called. If the **StorageItem** has been saved previously and the item has since been changed, **Save** saves the changes to the item. If the **StorageItem** has been saved previously and the item has not been changed since then, the **Save** method does nothing.
 
-For more information on saving solution data to a  **StorageItem** object, see [Creating and Saving Data to Solution Storage](../outlook/How-to/Solution-Storage/creating-and-saving-data-to-solution-storage.md).
+For more information on saving solution data to a **StorageItem** object, see [Creating and Saving Data to Solution Storage](../outlook/How-to/Solution-Storage/creating-and-saving-data-to-solution-storage.md).
 
 
 ## Example

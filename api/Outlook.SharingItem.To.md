@@ -26,7 +26,7 @@ _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) 
 
 ## Remarks
 
-This property contains the display names only. The  **To** property corresponds to the MAPI property **PidTagDisplayTo**. The **[Recipients](Outlook.Recipients.md)** collection should be used to modify this property.
+This property contains the display names only. The **To** property corresponds to the MAPI property **PidTagDisplayTo**. The **[Recipients](Outlook.Recipients.md)** collection should be used to modify this property.
 
 
 ## See also

@@ -23,7 +23,7 @@ _expression_ A variable that represents a [Cell](./Project.Cell.md) object.
 
 ## Remarks
 
-The  **CellColor** property can be one of the following **[PjColor](Project.PjColor.md)** constants:
+The **CellColor** property can be one of the following **[PjColor](Project.PjColor.md)** constants:
 
 
 |||
@@ -38,6 +38,6 @@ The  **CellColor** property can be one of the following **[PjColor](Project.PjCo
 |**pjLime**|**pjWhite**|
 |**pjMaroon**||
 
-To use a hexadecimal RGB value for the cell color, see the  **[CellColorEx](Project.Cell.CellColorEx.md)** property.
+To use a hexadecimal RGB value for the cell color, see the **[CellColorEx](Project.Cell.CellColorEx.md)** property.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

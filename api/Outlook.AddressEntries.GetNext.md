@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AddressEntries](Outlook.AddressEntri
 
 ## Return value
 
-An  **[AddressEntry](Outlook.AddressEntry.md)** object that represents the next object contained by the collection.
+An **[AddressEntry](Outlook.AddressEntry.md)** object that represents the next object contained by the collection.
 
 
 ## Remarks

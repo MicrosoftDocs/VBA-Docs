@@ -12,6 +12,6 @@ localization_priority: Normal
 
 # The specified object can't be used as an owner form for Show() (Error 371)
 
-You must use an appropriate object with the  **Show** method.
+You must use an appropriate object with the **Show** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

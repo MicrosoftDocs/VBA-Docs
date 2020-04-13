@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Reminder.NextReminderDate property (Outlook)
 
-Returns a  **Date** that indicates the next time the specified reminder will occur. Read-only.
+Returns a **Date** that indicates the next time the specified reminder will occur. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Reminder](Outlook.Reminder.md) object
 
 ## Remarks
 
-The  **NextReminderDate** property value changes every time the object's **[Snooze](Outlook.Reminder.Snooze.md)** method is executed or when the user clicks the **Snooze** button.
+The **NextReminderDate** property value changes every time the object's **[Snooze](Outlook.Reminder.Snooze.md)** method is executed or when the user clicks the **Snooze** button.
 
 
 ## Example

@@ -19,7 +19,7 @@ A collection of  **Shape** objects that represent all the shapes in a document o
 
 If you want to work with a subset of the shapes on a document — for example, to do something to only the AutoShapes on the document or to only the selected shapes — you must construct a  **[ShapeRange](Word.shaperange.md)** collection that contains the shapes you want to work with.
 
-Use the  **Shapes** property to return the **Shapes** collection. The following example selects all the shapes on the active document.
+Use the **Shapes** property to return the **Shapes** collection. The following example selects all the shapes on the active document.
 
 
 
@@ -30,9 +30,9 @@ ActiveDocument.Shapes.SelectAll
 
 
 > [!NOTE] 
-> If you want to do something (like delete or set a property) to all the shapes on a document at the same time, use the  **Range** method to create a **ShapeRange** object that contains all the shapes in the **Shapes** collection, and then apply the appropriate property or method to the **ShapeRange** object.
+> If you want to do something (like delete or set a property) to all the shapes on a document at the same time, use the **Range** method to create a **ShapeRange** object that contains all the shapes in the **Shapes** collection, and then apply the appropriate property or method to the **ShapeRange** object.
 
-Use one of the following methods of the  **Shapes** collection: **Add3DModel**, **AddCallout**, **AddCurve**, **AddLabel**, **AddLine**, **AddOleControl**, **AddOleObject**, **AddPolyline**, **AddShape**, **AddTextbox**, **AddTextEffect**, or **BuildFreeForm** to add a shape to a document return a **Shape** object that represents the newly created shape. The following example adds a rectangle to the active document.
+Use one of the following methods of the **Shapes** collection: **Add3DModel**, **AddCallout**, **AddCurve**, **AddLabel**, **AddLine**, **AddOleControl**, **AddOleObject**, **AddPolyline**, **AddShape**, **AddTextbox**, **AddTextEffect**, or **BuildFreeForm** to add a shape to a document return a **Shape** object that represents the newly created shape. The following example adds a rectangle to the active document.
 
 
 
@@ -59,11 +59,11 @@ This example horizontally flips the shape named "Rectangle 1" on the active docu
 ActiveDocument.Shapes("Rectangle 1").Flip msoFlipHorizontal
 ```
 
-Each shape is assigned a default name when it is created. For example, if you add three different shapes to a document, they might be named "Rectangle 2," "TextBox 3," and "Oval 4." To give a shape a more meaningful name, set the  **Name** property.
+Each shape is assigned a default name when it is created. For example, if you add three different shapes to a document, they might be named "Rectangle 2," "TextBox 3," and "Oval 4." To give a shape a more meaningful name, set the **Name** property.
 
-The  **Shapes** collection does not include **[InlineShape](Word.InlineShape.md)** objects. **InlineShape** objects are treated like characters and are positioned as characters within a line of text. **Shape** objects are anchored to a range of text but are free-floating and can be positioned anywhere on the page. You can use the **ConvertToInlineShape** method and the **ConvertToShape** method to convert shapes from one type to the other. You can convert only pictures, OLE objects, and ActiveX controls to inline shapes.
+The **Shapes** collection does not include **[InlineShape](Word.InlineShape.md)** objects. **InlineShape** objects are treated like characters and are positioned as characters within a line of text. **Shape** objects are anchored to a range of text but are free-floating and can be positioned anywhere on the page. You can use the **ConvertToInlineShape** method and the **ConvertToShape** method to convert shapes from one type to the other. You can convert only pictures, OLE objects, and ActiveX controls to inline shapes.
 
-The  **Count** property for this collection in a document returns the number of items in the main story only. To count the shapes in all the headers and footers, use the **Shapes** collection with any **HeaderFooter** object.
+The **Count** property for this collection in a document returns the number of items in the main story only. To count the shapes in all the headers and footers, use the **Shapes** collection with any **HeaderFooter** object.
 
 
 ## Methods

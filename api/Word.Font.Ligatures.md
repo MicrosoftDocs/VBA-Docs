@@ -26,7 +26,7 @@ _expression_. `Ligatures`
 
 ## Remarks
 
-Open Type fonts support the use of ligatures. The  **Ligatures** property specifies the Word ligatures setting to apply to an Open Type font.
+Open Type fonts support the use of ligatures. The **Ligatures** property specifies the Word ligatures setting to apply to an Open Type font.
 
 The following table lists the four basic values for ligatures.
 

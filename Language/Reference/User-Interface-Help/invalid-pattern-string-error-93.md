@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Invalid pattern string (Error 93)
 
-The pattern string specified in the  **Like** operation of a search is invalid. This error has the following cause and solution:
+The pattern string specified in the **Like** operation of a search is invalid. This error has the following cause and solution:
 
 
 

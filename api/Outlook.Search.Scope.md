@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Search.Scope property (Outlook)
 
-Returns a  **String** that specifies the scope of the specified search. Read-only.
+Returns a **String** that specifies the scope of the specified search. Read-only.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ The scope of the search is defined when the search is initiated. For more inform
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates a  **Search** object. The user's **Inbox** is specified as the scope of the search. The event subroutine occurs when the search has completed and displays the **[Tag](Outlook.Search.Tag.md)** and **Scope** properties for the new object in addition to the results of the search.
+The following Microsoft Visual Basic for Applications (VBA) example creates a **Search** object. The user's **Inbox** is specified as the scope of the search. The event subroutine occurs when the search has completed and displays the **[Tag](Outlook.Search.Tag.md)** and **Scope** properties for the new object in addition to the results of the search.
 
 
 ```vb

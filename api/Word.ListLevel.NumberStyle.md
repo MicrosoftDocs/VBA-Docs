@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ListLevel.NumberStyle property (Word)
 
-Returns or sets the number style for the  **ListLevel** object. Read/write **WdListNumberStyle**.
+Returns or sets the number style for the **ListLevel** object. Read/write **WdListNumberStyle**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[ListLevel](Word.ListLevel.
 
 ## Remarks
 
-Some of the  **WdListNumberStyle** constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
+Some of the **WdListNumberStyle** constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
 
 ## Example

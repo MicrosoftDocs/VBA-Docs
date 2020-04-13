@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # TaskGroups.Copy method (Project)
 
-Makes a copy of a group definition for the  **TaskGroups** collection and returns a reference to the **[Group](Project.Group.md)** object.
+Makes a copy of a group definition for the **TaskGroups** collection and returns a reference to the **[Group](Project.Group.md)** object.
 
 
 ## Syntax

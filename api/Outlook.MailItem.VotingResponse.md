@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.VotingResponse property (Outlook)
 
-Returns or sets a  **String** specifying the voting response for the mail message. Read/write.
+Returns or sets a **String** specifying the voting response for the mail message. Read/write.
 
 
 ## Syntax

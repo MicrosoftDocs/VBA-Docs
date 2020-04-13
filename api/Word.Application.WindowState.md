@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 
 ## Remarks
 
-The  **wdWindowStateNormal** constant indicates a window that's not maximized or minimized. The state of an inactive window cannot be set. Use the **Activate** method to activate a window prior to setting the window state.
+The **wdWindowStateNormal** constant indicates a window that's not maximized or minimized. The state of an inactive window cannot be set. Use the **Activate** method to activate a window prior to setting the window state.
 
 
 ## See also

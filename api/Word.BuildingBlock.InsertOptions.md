@@ -26,7 +26,7 @@ _expression_. `InsertOptions`
 
 ## Remarks
 
-The value of the  **InsertOptions** property can be any **[WdDocPartInsertOptions](Word.WdDocPartInsertOptions.md)** constant.
+The value of the **InsertOptions** property can be any **[WdDocPartInsertOptions](Word.WdDocPartInsertOptions.md)** constant.
 
 
 ## See also

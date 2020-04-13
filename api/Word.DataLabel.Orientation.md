@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[DataLabel](Word.DataLabel.md)' objec
 
 ## Remarks
 
-The value of this property can be an integer from -90 through 90 degrees or one of the  **[XlOrientation](Word.xlorientation.md)** constants.
+The value of this property can be an integer from -90 through 90 degrees or one of the **[XlOrientation](Word.xlorientation.md)** constants.
 
 
 ## See also

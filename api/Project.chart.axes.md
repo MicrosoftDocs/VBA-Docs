@@ -33,7 +33,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Examples
 
-The  **SetAxisTitle** macro adds an axis label to the category axis in the chart.
+The **SetAxisTitle** macro adds an axis label to the category axis in the chart.
 
 
 ```vb
@@ -52,7 +52,7 @@ Sub SetAxisTitle()
 End Sub
 ```
 
-The  **AddCategoryGridlines** macro adds gridlines to the category axis in the chart.
+The **AddCategoryGridlines** macro adds gridlines to the category axis in the chart.
 
 
 

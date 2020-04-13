@@ -19,7 +19,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Example
 
-The  **Reports** object is the collection of custom reports in a project. It does not include the built-in reports, such as **Project Overview**,  **Critical Tasks**, or  **Milestone Report**. Use the  **Project.Reports** property to get the **Reports** collection object, as in the following example:
+The **Reports** object is the collection of custom reports in a project. It does not include the built-in reports, such as **Project Overview**,  **Critical Tasks**, or  **Milestone Report**. Use the **Project.Reports** property to get the **Reports** collection object, as in the following example:
 
 
 ```vb

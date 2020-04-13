@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[TableOfFigures](Word.Table
 
 ## Remarks
 
-This property corresponds to the starting value used with the \o switch for a Table of Contents (TOC) field. Use the  **[LowerHeadingLevel](Word.TableOfFigures.LowerHeadingLevel.md)** property to set the ending heading level. For example, to set the TOC field syntax {TOC \o "1-3"}, set the **LowerHeadingLevel** property to 3 and the **UpperHeadingLevel** property to 1.
+This property corresponds to the starting value used with the \o switch for a Table of Contents (TOC) field. Use the **[LowerHeadingLevel](Word.TableOfFigures.LowerHeadingLevel.md)** property to set the ending heading level. For example, to set the TOC field syntax {TOC \o "1-3"}, set the **LowerHeadingLevel** property to 3 and the **UpperHeadingLevel** property to 1.
 
 
 ## Example

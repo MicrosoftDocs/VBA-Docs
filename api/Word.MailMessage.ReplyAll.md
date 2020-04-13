@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailMessage.ReplyAll method (Word)
 
-Opens a new email message — with the sender's and all other recipients' addresses on the  **To** and **Cc** lines, as appropriate — for replying to the active message.
+Opens a new email message — with the sender's and all other recipients' addresses on the **To** and **Cc** lines, as appropriate — for replying to the active message.
 
 
 ## Syntax

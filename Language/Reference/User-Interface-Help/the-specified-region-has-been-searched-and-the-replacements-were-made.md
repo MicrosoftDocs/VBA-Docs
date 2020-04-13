@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # The specified region has been searched and the replacements were made
 
-When you click the  **Replace All** button in the **Replace** dialog box, this message specifies the total number of replacements. This condition has the following cause and effect:
+When you click the **Replace All** button in the **Replace** dialog box, this message specifies the total number of replacements. This condition has the following cause and effect:
 
 
 

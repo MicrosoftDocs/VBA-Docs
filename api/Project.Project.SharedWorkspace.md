@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Project.SharedWorkspace property (Project)
 
-Gets a  **SharedWorkspace** object that represents the document workspace for the project. Read-only **SharedWorkspace**.
+Gets a **SharedWorkspace** object that represents the document workspace for the project. Read-only **SharedWorkspace**.
 
 
 ## Syntax

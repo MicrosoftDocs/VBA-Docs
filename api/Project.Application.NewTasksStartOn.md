@@ -30,7 +30,7 @@ _expression_. `NewTasksStartOn`( `_StartOnDate_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _StartOnDate_|Optional|**PjNewTasksStartOnDate**|Specifies whether new tasks start on the project date, the current date, or no date. Can be one of the  **[PjNewTasksStartOnDate](Project.PjNewTasksStartOnDate.md)** constants. The default is **pjProjectDate**.|
+| _StartOnDate_|Optional|**PjNewTasksStartOnDate**|Specifies whether new tasks start on the project date, the current date, or no date. Can be one of the **[PjNewTasksStartOnDate](Project.PjNewTasksStartOnDate.md)** constants. The default is **pjProjectDate**.|
 
 ## Return value
 
@@ -39,6 +39,6 @@ _expression_. `NewTasksStartOn`( `_StartOnDate_` )
 
 ## Remarks
 
-The  **NewTasksStartOn** method corresponds to the **New tasks created** setting on the **Schedule** tab of the **Project Options** dialog box.
+The **NewTasksStartOn** method corresponds to the **New tasks created** setting on the **Schedule** tab of the **Project Options** dialog box.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

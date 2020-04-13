@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.CommitmentsPane method (Project)
 
-Opens the  **Deliverables** pane. Available only in Project Professional.
+Opens the **Deliverables** pane. Available only in Project Professional.
 
 
 ## Syntax
@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Project Professional must be connected with Project Server to manage deliverables. The  **Manage Deliverables** item on the **Deliverable** drop-down menu on the task tab of the Ribbon also opens the **Deliverables** pane.
+Project Professional must be connected with Project Server to manage deliverables. The **Manage Deliverables** item on the **Deliverable** drop-down menu on the task tab of the Ribbon also opens the **Deliverables** pane.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -35,7 +35,7 @@ _expression_ A variable that represents a '[ChartTitle](PowerPoint.ChartTitle.md
 
 ## Remarks
 
-The  **ChartCharacters** object is not a collection.
+The **ChartCharacters** object is not a collection.
 
 
 ## See also

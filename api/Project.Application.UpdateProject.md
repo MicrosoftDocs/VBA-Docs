@@ -41,9 +41,9 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Running the  **UpdateProject** method with no arguments displays the **Update Project** dialog box.
+Running the **UpdateProject** method with no arguments displays the **Update Project** dialog box.
 
-The  **UpdateProject** method corresponds to the **Update Project** command on the **PROJECT** tab of the ribbon.
+The **UpdateProject** method corresponds to the **Update Project** command on the **PROJECT** tab of the ribbon.
 
 
 ## Example

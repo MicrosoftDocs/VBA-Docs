@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.ReceivedOnBehalfOfEntryID property (Outlook)
 
-Returns a  **String** representing the **[EntryID](Outlook.Recipient.EntryID.md)** of the user delegated to represent the recipient for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
+Returns a **String** representing the **[EntryID](Outlook.Recipient.EntryID.md)** of the user delegated to represent the recipient for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax

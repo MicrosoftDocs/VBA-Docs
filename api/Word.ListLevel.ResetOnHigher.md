@@ -26,9 +26,9 @@ _expression_. `ResetOnHigher`
 
 ## Remarks
 
-The  **ResetOnHigher** property returns **False** if the numbering continues sequentially each time the list level appears.
+The **ResetOnHigher** property returns **False** if the numbering continues sequentially each time the list level appears.
 
-This feature allows lists to be interleaved, maintaining numeric sequence. You cannot set the  **ResetOnHigher** property of a list level to a value greater than or equal to its index in the **[ListLevels](Word.listlevels.md)** collection.
+This feature allows lists to be interleaved, maintaining numeric sequence. You cannot set the **ResetOnHigher** property of a list level to a value greater than or equal to its index in the **[ListLevels](Word.listlevels.md)** collection.
 
 
 ## Example

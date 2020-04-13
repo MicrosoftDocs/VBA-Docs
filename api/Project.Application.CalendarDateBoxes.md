@@ -30,14 +30,14 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _TopLeft_|Optional|**Long**|The format for dates in the upper-left corner of each date box. Can be one of the  **[PjCalendarDateLabel](Project.PjCalendarDateLabel.md)** constants.|
-| _TopRight_|Optional|**Long**|The format for dates in the upper-right corner of each date box. Can be one of the  **PjCalendarDateLabel** constants.|
-| _BottomLeft_|Optional|**Long**|The format for dates in the lower-left corner of each date box. Can be one of the  **PjCalendarDateLabel** constants.|
-| _BottomRight_|Optional|**Long**|The format for dates in the lower-right corner of each date box. Can be one of the  **PjCalendarDateLabel** constants.|
-| _TopColor_|Optional|**Long**|The color of the top band in each date box. Can be one of the  **[PjColor](Project.PjColor.md)** constants.|
-| _BottomColor_|Optional|**Long**|The color of the bottom band in each date box. Can be one of the  **PjColor** constants.|
-| _TopPattern_|Optional|**Long**|The pattern of the top band in each date box. Can be one of the  **[PjFillPattern](Project.PjFillPattern.md)** constants.|
-| _BottomPattern_|Optional|**Long**|The pattern of the bottom band in each date box. Can be one of the  **PjFillPattern** constants.|
+| _TopLeft_|Optional|**Long**|The format for dates in the upper-left corner of each date box. Can be one of the **[PjCalendarDateLabel](Project.PjCalendarDateLabel.md)** constants.|
+| _TopRight_|Optional|**Long**|The format for dates in the upper-right corner of each date box. Can be one of the **PjCalendarDateLabel** constants.|
+| _BottomLeft_|Optional|**Long**|The format for dates in the lower-left corner of each date box. Can be one of the **PjCalendarDateLabel** constants.|
+| _BottomRight_|Optional|**Long**|The format for dates in the lower-right corner of each date box. Can be one of the **PjCalendarDateLabel** constants.|
+| _TopColor_|Optional|**Long**|The color of the top band in each date box. Can be one of the **[PjColor](Project.PjColor.md)** constants.|
+| _BottomColor_|Optional|**Long**|The color of the bottom band in each date box. Can be one of the **PjColor** constants.|
+| _TopPattern_|Optional|**Long**|The pattern of the top band in each date box. Can be one of the **[PjFillPattern](Project.PjFillPattern.md)** constants.|
+| _BottomPattern_|Optional|**Long**|The pattern of the bottom band in each date box. Can be one of the **PjFillPattern** constants.|
 
 ## Return value
 
@@ -46,9 +46,9 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Using the  **CalendarDateBoxes** method with no arguments displays the **Timescale** dialog box with the **Date Boxes** tab selected.
+Using the **CalendarDateBoxes** method with no arguments displays the **Timescale** dialog box with the **Date Boxes** tab selected.
 
-To edit calendar date boxes where the colors can be RGB values, use the  **[CalendarDateBoxesEx](Project.Application.CalendarDateBoxesEx.md)** method.
+To edit calendar date boxes where the colors can be RGB values, use the **[CalendarDateBoxesEx](Project.Application.CalendarDateBoxesEx.md)** method.
 
 
 ## Example

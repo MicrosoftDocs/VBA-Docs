@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[ShapeRange](Word.shaperan
 
 ## Remarks
 
-The position of a shape is measured from the upper-left corner of the shape's bounding box to the shape's anchor. The  **RelativeHorizontalPosition** property controls whether the anchor is positioned alongside a character, column, margin, or the edge of the page.
+The position of a shape is measured from the upper-left corner of the shape's bounding box to the shape's anchor. The **RelativeHorizontalPosition** property controls whether the anchor is positioned alongside a character, column, margin, or the edge of the page.
 
 For a  **ShapeRange** object that contains more than one shape, the **Left** property sets the horizontal position of each shape.
 

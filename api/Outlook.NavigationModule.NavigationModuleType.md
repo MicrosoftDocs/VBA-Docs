@@ -26,7 +26,7 @@ _expression_. `NavigationModuleType`
 
 ## Remarks
 
-This property is typically used when casting a  **[NavigationModule](Outlook.NavigationModule.md)** object to one of the following objects in order to access the **NavigationGroups** property:
+This property is typically used when casting a **[NavigationModule](Outlook.NavigationModule.md)** object to one of the following objects in order to access the **NavigationGroups** property:
 
 
 -  **[CalendarModule](Outlook.CalendarModule.md)**

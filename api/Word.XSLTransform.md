@@ -19,7 +19,7 @@ Represents a single registered Extensible Stylesheet Language Transformation (XS
 
 ## Remarks
 
-Use the  **Add** method of the **XSLTransforms** collection to add an individual XSLT to the list of XSLTs available for a schema. The following example adds the simplesample.xslt transformation to the XSLTs for the SimpleSample schema.
+Use the **Add** method of the **XSLTransforms** collection to add an individual XSLT to the list of XSLTs available for a schema. The following example adds the simplesample.xslt transformation to the XSLTs for the SimpleSample schema.
 
 
 ```vb
@@ -34,7 +34,7 @@ Sub AddXSLT()
 End Sub
 ```
 
-Use the  **Item** method of the **XSLTransforms** collection to return a single **XSLTransform** object. The following example deletes the first XSLT in the collection of XSLTs for the SimpleSample schema.
+Use the **Item** method of the **XSLTransforms** collection to return a single **XSLTransform** object. The following example deletes the first XSLT in the collection of XSLTs for the SimpleSample schema.
 
 
 

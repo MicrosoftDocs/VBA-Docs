@@ -16,7 +16,7 @@ A collection of  **[CoAuthLock](Word.CoAuthLock.md)** objects.
 
 ## Remarks
 
-Use the  **[Locks](Word.CoAuthLock.md)** property to return the **CoAuthLocks** collection.
+Use the **[Locks](Word.CoAuthLock.md)** property to return the **CoAuthLocks** collection.
 
 
 ## Example

@@ -26,7 +26,7 @@ _expression_. `ShowSelectionFloaties`
 
 ## Remarks
 
-Corresponds with the  **Show MiniBar on selection** check box in the **Word Options** dialog box.
+Corresponds with the **Show MiniBar on selection** check box in the **Word Options** dialog box.
 
 
 ## See also

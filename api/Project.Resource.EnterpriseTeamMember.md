@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Resource](./Project.Resource.md) obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Project_|Required|**Object**|The  **Project** object against which the expression is checked. For example, **ActiveProject**.|
+| _Project_|Required|**Object**|The **Project** object against which the expression is checked. For example, **ActiveProject**.|
 
 ## Return value
 
@@ -36,8 +36,8 @@ _expression_ A variable that represents a [Resource](./Project.Resource.md) obje
 
 ## Remarks
 
-The  **EnterpriseTeamMember** method returns **False** for summary resource assignments, because the assignment or resource is from another project.
+The **EnterpriseTeamMember** method returns **False** for summary resource assignments, because the assignment or resource is from another project.
 
-The  **EnterpriseTeamMember** method returns a trappable error (error code 1004) if the active view is not a Resource or Assignment view.
+The **EnterpriseTeamMember** method returns a trappable error (error code 1004) if the active view is not a Resource or Assignment view.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

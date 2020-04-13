@@ -26,7 +26,7 @@ _expression_. `Conflicts`
 
 ## Example
 
-The following code example gets the type of each conflict in the active document. The  **[Type](Word.Conflict.Type.md)** property uses the **[WdRevisionType](Word.WdRevisionType.md)** enumeration to specify the conflict type.
+The following code example gets the type of each conflict in the active document. The **[Type](Word.Conflict.Type.md)** property uses the **[WdRevisionType](Word.WdRevisionType.md)** enumeration to specify the conflict type.
 
 
 ```vb

@@ -15,7 +15,7 @@ localization_priority: Normal
 
 ## Remarks
 
-Use the  **[Item](Project.WorkWeekDays.Item.md)** property return a single **WorkWeekDay** object.
+Use the **[Item](Project.WorkWeekDays.Item.md)** property return a single **WorkWeekDay** object.
  
 
  

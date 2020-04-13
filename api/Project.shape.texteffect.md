@@ -19,7 +19,7 @@ _expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 ## Example
 
-The following example sets the foreground color of text in a text frame to red, the foreground color of the text box shape to a yellowish tan, and then uses the  **TextEffect** property to set font properties.
+The following example sets the foreground color of text in a text frame to red, the foreground color of the text box shape to a yellowish tan, and then uses the **TextEffect** property to set font properties.
 
 
 ```vb

@@ -26,7 +26,7 @@ _expression_. `LineBetween`
 
 ## Remarks
 
-The  **LineBetween** property can be **True**, **False**, or **wdUndefined**.
+The **LineBetween** property can be **True**, **False**, or **wdUndefined**.
 
 
 ## Example

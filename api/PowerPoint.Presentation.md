@@ -19,7 +19,7 @@ Represents a Microsoft PowerPoint presentation.
 
 ## Remarks
 
-The  **Presentation** object is a member of the **[Presentations](PowerPoint.Presentations.md)** collection. The **Presentations** collection contains all the **Presentation** objects that represent open presentations in PowerPoint.
+The **Presentation** object is a member of the **[Presentations](PowerPoint.Presentations.md)** collection. The **Presentations** collection contains all the **Presentation** objects that represent open presentations in PowerPoint.
 
 The following examples describe how to:
 

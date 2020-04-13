@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AnimationBehaviors.Add method (PowerPoint)
 
-Returns an  **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** object that represents a new animation behavior.
+Returns an **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** object that represents a new animation behavior.
 
 
 ## Syntax

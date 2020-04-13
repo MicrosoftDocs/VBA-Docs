@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ReportTemplate](./Project.ReportTempl
 
 ## Remarks
 
-Can be one of the  **[PjVisualReportsCubeType](Project.PjVisualReportsCubeType.md)** constants.
+Can be one of the **[PjVisualReportsCubeType](Project.PjVisualReportsCubeType.md)** constants.
 
 
 ## See also

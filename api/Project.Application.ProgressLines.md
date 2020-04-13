@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ProgressLines method (Project)
 
-Displays the  **Progress Lines** dialog box.
+Displays the **Progress Lines** dialog box.
 
 
 ## Syntax
@@ -31,8 +31,8 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **ProgressLines** method has no effect if the active view is not a Gantt view.
+The **ProgressLines** method has no effect if the active view is not a Gantt view.
 
-The  **ProgressLines** method is equivalent to the **Progress Lines** command in the **Gridlines** drop-down list, which is in the **Format** group on the **Gantt Chart Tools** tab of the Ribbon.
+The **ProgressLines** method is equivalent to the **Progress Lines** command in the **Gridlines** drop-down list, which is in the **Format** group on the **Gantt Chart Tools** tab of the Ribbon.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

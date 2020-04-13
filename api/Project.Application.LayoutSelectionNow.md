@@ -31,9 +31,9 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Layout options can be set with the  **BoxLayout** and **BoxLinks** methods.
+Layout options can be set with the **BoxLayout** and **BoxLinks** methods.
 
-The  **LayoutSelectionNow** method is only available when a Network Diagram view is active.
+The **LayoutSelectionNow** method is only available when a Network Diagram view is active.
 
 
 ## Example

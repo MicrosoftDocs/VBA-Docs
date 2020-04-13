@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathMatRow object (Word)
 
-Represents a matrix row. The  **OMathMatRow** is a member of the **OMathMatRows** collection.
+Represents a matrix row. The **OMathMatRow** is a member of the **OMathMatRows** collection.
 
 
 ## See also

@@ -28,12 +28,12 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-When you use Project Professional to perform an operation that uses one of the queue methods in Project Server, such as saving an update, publishing, or checking in a project, the Project Professional cache sends a job request to the Project Server Queue System. The  **GetCacheStatusForProject** property exposes the status of the queue job.
+When you use Project Professional to perform an operation that uses one of the queue methods in Project Server, such as saving an update, publishing, or checking in a project, the Project Professional cache sends a job request to the Project Server Queue System. The **GetCacheStatusForProject** property exposes the status of the queue job.
 
 
 ## Example
 
-The  **TestCacheStatus** macro in the following example saves the active project, calls **WaitForJob** to wait for the queue to finish successfully, and then publishes the project. The **WaitForJob** macro periodically checks the job state by calling **GetCacheStatusForProject** and prints the job status to the Immediate window. If it finds the same status more than ten times in succession, the **WaitForJob** macro assumes there is a problem and exits. The example uses a **Sleep** method that can be run in either a 64-bit Project installation or a 32-bit Project installation.
+The **TestCacheStatus** macro in the following example saves the active project, calls **WaitForJob** to wait for the queue to finish successfully, and then publishes the project. The **WaitForJob** macro periodically checks the job state by calling **GetCacheStatusForProject** and prints the job status to the Immediate window. If it finds the same status more than ten times in succession, the **WaitForJob** macro assumes there is a problem and exits. The example uses a **Sleep** method that can be run in either a 64-bit Project installation or a 32-bit Project installation.
 
 
 ```vb
@@ -117,7 +117,7 @@ Function WaitForJob(job As PjJobType, msWait As Long) As Boolean
 End Function
 ```
 
-Following is the output for a wait time of 500 milliseconds between status messages. If the network latency is greater, set the wait time for a longer interval. To find the meaning of output values, see the [PjCacheJobState](Project.pjcachejobstate.md) enumeration. For example, the value **4** is the **pjCacheJobStateSuccess** constant. If you run **TestCacheStatus** when there are no changes made to the project, the save job state repeats many times as **-1**, which is the value of the  **pjCacheJobStateInvalid** constant.
+Following is the output for a wait time of 500 milliseconds between status messages. If the network latency is greater, set the wait time for a longer interval. To find the meaning of output values, see the [PjCacheJobState](Project.pjcachejobstate.md) enumeration. For example, the value **4** is the **pjCacheJobStateSuccess** constant. If you run **TestCacheStatus** when there are no changes made to the project, the save job state repeats many times as **-1**, which is the value of the **pjCacheJobStateInvalid** constant.
 
 
 

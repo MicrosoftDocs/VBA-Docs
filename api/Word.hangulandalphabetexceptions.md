@@ -14,7 +14,7 @@ A collection of  **HangulAndAlphabetException** objects that represents all Hang
 
 ## Remarks
 
-Use the  **HangulAndAlphabetExceptions** property to return the **HangulAndAlphabetExceptions** collection. The following example displays the items in this collection.
+Use the **HangulAndAlphabetExceptions** property to return the **HangulAndAlphabetExceptions** collection. The following example displays the items in this collection.
 
 
 ```vb
@@ -23,7 +23,7 @@ For Each aHan In AutoCorrect.HangulAndAlphabetExceptions
 Next aHan
 ```
 
-If the value of the  **HangulAndAlphabetAutoAdd** property is **True**, words are automatically added to the list of Hangul and alphabet AutoCorrect exceptions. Use the **Add** method to add an item to the **HangulAndAlphabetExceptions** collection. The following example adds "hello" to the list of alphabet AutoCorrect exceptions.
+If the value of the **HangulAndAlphabetAutoAdd** property is **True**, words are automatically added to the list of Hangul and alphabet AutoCorrect exceptions. Use the **Add** method to add an item to the **HangulAndAlphabetExceptions** collection. The following example adds "hello" to the list of alphabet AutoCorrect exceptions.
 
 
 
@@ -41,7 +41,7 @@ Use  **HangulAndAlphabetExceptions** (Index), where Index is the Hangul or alpha
 AutoCorrect.HangulAndAlphabetExceptions("goodbye").Delete
 ```
 
-The index number represents the position of the hangul or alphabet AutoCorrect exception in the  **HangulAndAlphabetExceptions** collection. The following example displays the name of the first item in the **HangulAndAlphabetExceptions** collection.
+The index number represents the position of the hangul or alphabet AutoCorrect exception in the **HangulAndAlphabetExceptions** collection. The following example displays the name of the first item in the **HangulAndAlphabetExceptions** collection.
 
 
 
@@ -52,7 +52,7 @@ MsgBox AutoCorrect.HangulAndAlphabetExceptions(1).Name
 
 
 > [!NOTE] 
-> The list of Hangul and alphabet AutoCorrect exceptions corresponds to the list of AutoCorrect exceptions on the  **Korean** tab in the **AutoCorrect Exceptions** dialog box.
+> The list of Hangul and alphabet AutoCorrect exceptions corresponds to the list of AutoCorrect exceptions on the **Korean** tab in the **AutoCorrect Exceptions** dialog box.
 
 
 ## See also

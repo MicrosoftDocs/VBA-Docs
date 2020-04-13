@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Stores.Item method (Outlook)
 
-Returns a  **[Store](Outlook.Store.md)** object that is specified by _Index_. Read-only.
+Returns a **[Store](Outlook.Store.md)** object that is specified by _Index_. Read-only.
 
 
 ## Syntax
@@ -34,12 +34,12 @@ _expression_ A variable that represents a [Stores](Outlook.Stores.md) object.
 
 ## Return value
 
-A  **Store** object in the parent **[Stores](Outlook.Stores.md)** collection, as specified by _Index_.
+A **Store** object in the parent **[Stores](Outlook.Stores.md)** collection, as specified by _Index_.
 
 
 ## Remarks
 
-The  **Store.DisplayName** property is the default property of a **Store**.
+The **Store.DisplayName** property is the default property of a **Store**.
 
 If  _Index_ is a string and no item can be found by that name, an error will be returned.
 

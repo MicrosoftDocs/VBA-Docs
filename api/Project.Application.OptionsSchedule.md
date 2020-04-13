@@ -35,12 +35,12 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _AutoLink_|Optional|**Boolean**|**True** if tasks are automatically linked; otherwise, **False**.|
 | _AutoSplit_|Optional|**Boolean**|**True** if tasks in progress are automatically split; otherwise, **False**.|
 | _CriticalSlack_|Optional|**Variant**|The maximum amount of slack allowed for critical tasks.|
-| _TaskType_|Optional|**Long**|The default type for new tasks. Can be one of the  **[PjTaskFixedType](Project.PjTaskFixedType.md)** constants.|
-| _DurationUnits_|Optional|**Long**|The default duration unit for tasks. Can be one of the  **[PjUnit](Project.PjUnit.md)** constants.|
-| _WorkUnits_|Optional|**Long**|The default work unit for resource assignments. Can be one of the  **PjUnit** constants.|
+| _TaskType_|Optional|**Long**|The default type for new tasks. Can be one of the **[PjTaskFixedType](Project.PjTaskFixedType.md)** constants.|
+| _DurationUnits_|Optional|**Long**|The default duration unit for tasks. Can be one of the **[PjUnit](Project.PjUnit.md)** constants.|
+| _WorkUnits_|Optional|**Long**|The default work unit for resource assignments. Can be one of the **PjUnit** constants.|
 | _AutoTrack_|Optional|**Boolean**|**True** if task tracking fields automatically update resource assignments; otherwise, **False**.|
 | _SetDefaults_|Optional|**Boolean**|**True** if the values specified for all arguments except ScheduleMessages and AssignmentUnits become the defaults for new project files; otherwise, **False**.|
-| _AssignmentUnits_|Optional|**Long**|Specifies how assignment units should display. Can be one of the  **[PjAssignmentUnit](Project.PjAssignmentUnits.md)** constants.|
+| _AssignmentUnits_|Optional|**Long**|Specifies how assignment units should display. Can be one of the **[PjAssignmentUnit](Project.PjAssignmentUnits.md)** constants.|
 | _EffortDriven_|Optional|**Boolean**|**True** if new tasks are effort-driven; otherwise, **False**.|
 | _HonorConstraints_|Optional|**Boolean**|**True** if tasks honor their constraint dates; otherwise, **False**.|
 | _ShowEstimated_|Optional|**Boolean**|**True** if task durations in new projects are displayed with the estimated character; otherwise, **False**.|
@@ -53,9 +53,9 @@ Boolean
 
 ## Remarks
 
-If an argument is omitted, its default value is specified by the current setting on the  **Schedule** tab of the **Project Options** dialog box.
+If an argument is omitted, its default value is specified by the current setting on the **Schedule** tab of the **Project Options** dialog box.
 
-Using the  **OptionsSchedule** method without specifying any arguments displays the **Project Options** dialog box.
+Using the **OptionsSchedule** method without specifying any arguments displays the **Project Options** dialog box.
 
 
 ## Example

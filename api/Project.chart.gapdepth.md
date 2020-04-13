@@ -19,7 +19,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Remarks
 
-The value of the  **GapDepth** property must be between 0 and 500. The **GapDepth** property fails on 2D charts.
+The value of the **GapDepth** property must be between 0 and 500. The **GapDepth** property fails on 2D charts.
 
 
 ## Example

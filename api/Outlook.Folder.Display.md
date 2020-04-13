@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folder.Display method (Outlook)
 
-Displays a new  **[Explorer](Outlook.Explorer.md)** object for the folder.
+Displays a new **[Explorer](Outlook.Explorer.md)** object for the folder.
 
 
 ## Syntax

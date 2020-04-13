@@ -36,7 +36,7 @@ Specifies the way the documents are saved. Can be one of the WdOriginalFormat co
 
 ## Remarks
 
-If a document has not been saved before, the  **Save As** dialog box prompts the user for a file name.
+If a document has not been saved before, the **Save As** dialog box prompts the user for a file name.
 
 
 ## Example
@@ -48,7 +48,7 @@ This example saves the active document if it has changed since it was last saved
 If ActiveDocument.Saved = False Then ActiveDocument.Save
 ```
 
-This example saves each document in the  **Documents** collection without first prompting the user.
+This example saves each document in the **Documents** collection without first prompting the user.
 
 
 

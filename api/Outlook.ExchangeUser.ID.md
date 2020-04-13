@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeUser.ID property (Outlook)
 
-Returns a  **String** representing the unique identifier for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read-only.
+Returns a **String** representing the unique identifier for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read-only.
 
 
 ## Syntax

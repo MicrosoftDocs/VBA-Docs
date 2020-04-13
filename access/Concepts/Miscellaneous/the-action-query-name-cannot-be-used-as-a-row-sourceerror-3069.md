@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You cannot use the name of an action query here. Instead, use the name of a select query. To run an action query, use the  **Execute** method instead of the name of an action query as input to the FROM clause.
+You cannot use the name of an action query here. Instead, use the name of a select query. To run an action query, use the **Execute** method instead of the name of an action query as input to the FROM clause.
 
 ## See also
 

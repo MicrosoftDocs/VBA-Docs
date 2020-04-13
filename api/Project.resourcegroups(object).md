@@ -16,7 +16,7 @@ Represents all of the resource-based group definitions.  **ResourceGroups** is a
  
  **Using the ResourceGroups Collection**
  
-Use the  **[ResourceGroups](Project.Project.ResourceGroups.md)** property to return a **ResourceGroups** collection. The following example lists the names of all the resource groups in the active project.
+Use the **[ResourceGroups](Project.Project.ResourceGroups.md)** property to return a **ResourceGroups** collection. The following example lists the names of all the resource groups in the active project.
  
 
 
@@ -32,7 +32,7 @@ Next rg
 MsgBox rGroups
 ```
 
-Use the  **[Add](Project.ResourceGroups.Add.md)** method to add a **Group** object to the **ResourceGroups** collection. The following example creates a new group that groups resources by their standard rate and then modifies the criterion so that the resources are sorted in descending order.
+Use the **[Add](Project.ResourceGroups.Add.md)** method to add a **Group** object to the **ResourceGroups** collection. The following example creates a new group that groups resources by their standard rate and then modifies the criterion so that the resources are sorted in descending order.
  
 
 
@@ -45,7 +45,7 @@ ActiveProject.ResourceGroups("Resources by Rate").GroupCriteria(1).Ascending = F
 
 ## Remarks
 
-For resource groups where the group hierarchy can be maintained and cell color can be a hexadecimal value, use the  **[ResourceGroups2](Project.resourcegroups2(object).md)** collection object.
+For resource groups where the group hierarchy can be maintained and cell color can be a hexadecimal value, use the **[ResourceGroups2](Project.resourcegroups2(object).md)** collection object.
  
 
  

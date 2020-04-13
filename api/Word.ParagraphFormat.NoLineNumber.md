@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[ParagraphFormat](Word.ParagraphForma
 
 ## Remarks
 
-Use the  **[LineNumbering](Word.PageSetup.LineNumbering.md)** property of the **[PageSetup](Word.PageSetup.md)** object to turn on line numbering.
+Use the **[LineNumbering](Word.PageSetup.LineNumbering.md)** property of the **[PageSetup](Word.PageSetup.md)** object to turn on line numbering.
 
 
 ## See also

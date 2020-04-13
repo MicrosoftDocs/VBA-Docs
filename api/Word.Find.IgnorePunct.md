@@ -26,7 +26,7 @@ _expression_. `IgnorePunct`
 
 ## Remarks
 
-This property corresponds to the  **Ignore punctuation characters** check box in the **Find and Replace** dialog box.
+This property corresponds to the **Ignore punctuation characters** check box in the **Find and Replace** dialog box.
 
 
 ## See also

@@ -26,7 +26,7 @@ Use [ProtectedViewWindows](Word.ProtectedViewWindows.md) (_index_), where _index
 
 ## Example
 
-The index number represents the position of the Protected View window in the  **ProtectedViewWindows** collection.. The following code example returns the first Protected View window.
+The index number represents the position of the Protected View window in the **ProtectedViewWindows** collection.. The following code example returns the first Protected View window.
 
 
 ```vb

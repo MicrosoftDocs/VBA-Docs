@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # TextRange2.Words property (PowerPoint)
 
-Gets a  **TextRange2** object that represents the specified subset of text words. Read-only.
+Gets a **TextRange2** object that represents the specified subset of text words. Read-only.
 
 
 ## Syntax

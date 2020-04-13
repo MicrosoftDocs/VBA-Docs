@@ -26,6 +26,6 @@ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 ## Remarks
 
-The  **StatusManagerName** property is available only in Project Professional. **StatusManagerName** is an empty string for tasks in local projects.
+The **StatusManagerName** property is available only in Project Professional. **StatusManagerName** is an empty string for tasks in local projects.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

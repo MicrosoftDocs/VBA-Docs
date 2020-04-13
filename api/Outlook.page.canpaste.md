@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # Page.CanPaste Property (Outlook Forms Script)
 
-Returns a  **Boolean** that specifies whether the Clipboard contains data that the object supports. Read-only.
+Returns a **Boolean** that specifies whether the Clipboard contains data that the object supports. Read-only.
 
 
 ## Syntax
 
 _expression_.**CanPaste**
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **Page** object.
 
 
 ## Remarks

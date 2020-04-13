@@ -26,7 +26,7 @@ _expression_.**Crop**
 
 ## Remarks
 
-Use the  **Crop** property to work with an image cropping.
+Use the **Crop** property to work with an image cropping.
 
 
 ## Example

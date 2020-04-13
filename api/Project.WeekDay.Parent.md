@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WeekDay.Parent property (Project)
 
-Gets the parent of the  **WeekDay** object. Read-only **Calendar**.
+Gets the parent of the **WeekDay** object. Read-only **Calendar**.
 
 
 ## Syntax
@@ -23,6 +23,6 @@ _expression_ A variable that represents a [WeekDay](./Project.WeekDay.md) object
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

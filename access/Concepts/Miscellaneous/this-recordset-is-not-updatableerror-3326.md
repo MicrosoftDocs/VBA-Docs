@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You attempted to edit data in a field that is bound to a snapshot-type  **result set** object. Snapshot fields in a Microsoft Access database engine database cannot be edited.
+You attempted to edit data in a field that is bound to a snapshot-type **result set** object. Snapshot fields in a Microsoft Access database engine database cannot be edited.
 
 ## See also
 

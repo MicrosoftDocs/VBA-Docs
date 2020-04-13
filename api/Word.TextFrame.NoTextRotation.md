@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[TextFrame](Word.TextFrame.md)** obj
 
 ## Remarks
 
-Only the  **MsoTriState** constants **msoFalse** and **msoTrue** can be used to set this property.
+Only the **MsoTriState** constants **msoFalse** and **msoTrue** can be used to set this property.
 
 
 ## See also

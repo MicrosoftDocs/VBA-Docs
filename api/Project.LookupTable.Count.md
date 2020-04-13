@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # LookupTable.Count property (Project)
 
-Gets the number of items in the  **LookupTable** collection. Read-only **Long**.
+Gets the number of items in the **LookupTable** collection. Read-only **Long**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ConversationHeader.GetConversation method (Outlook)
 
-Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this conversation header belongs.
+Obtains a **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this conversation header belongs.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[ConversationHeader](Outlook.Conversa
 
 ## Return value
 
-A  **Conversation** object that represents the conversation to which this conversation header belongs.
+A **Conversation** object that represents the conversation to which this conversation header belongs.
 
 
 ## Remarks

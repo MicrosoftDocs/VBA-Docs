@@ -44,6 +44,6 @@ _expression_. `SetResourceFieldByID`( `_FieldID_`, `_Value_`, `_AllSelectedResou
 
 ## Remarks
 
-To set a resource field by name, use the  **[SetResourceField](Project.Application.SetResourceField.md)** method.
+To set a resource field by name, use the **[SetResourceField](Project.Application.SetResourceField.md)** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

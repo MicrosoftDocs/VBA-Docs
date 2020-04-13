@@ -32,7 +32,7 @@ _expression_. `CalendarBarStylesEditEx`( `_Item_`, `_Bar_`, `_Pattern_`, `_Color
 |:-----|:-----|:-----|:-----|
 | _Item_|Required|**Long**|The type of calendar bar style to edit. Can be one of the following  **[PjBarItem](Project.PjBarItem.md)** constants: **pjBarNonCritical**, **pjBarCritical**, **pjBarSummary**, **pjBarMilestone**, **pjBarMarked**, **pjBarHighlighted**, **pjBarProjectSummary**, or **pjBarExternalTask**.|
 | _Bar_|Optional|**Long**|The bar type. Can be one of the following  **[PjCalendarBarType](Project.PjCalendarBarType.md)** constants: **pjNormalBar**, **pjLineBar**, or **pjNoBar**.|
-| _Pattern_|Optional|**Long**|The bar pattern. Can be one of the  **[PjFillPattern](Project.PjFillPattern.md)** constants.|
+| _Pattern_|Optional|**Long**|The bar pattern. Can be one of the **[PjFillPattern](Project.PjFillPattern.md)** constants.|
 | _Color_|Optional|**Long**|The bar color. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value &HFF0000 is blue and &H00FFFF is yellow.|
 | _Align_|Optional|**Long**|The justification of text in the bar. Can be one of the following  **[PjAlignment](Project.PjAlignment.md)** constants: **pjLeft**, **pjCenter**, or **pjRight**.|
 | _Wrap_|Optional|**Boolean**|**True** if Project wraps text in the bar; otherwise, **False**.|
@@ -78,6 +78,6 @@ End Sub
 
 
 > [!NOTE] 
-> If you use any of the  **PjColor** enumeration constants for the _Color_ parameter, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **CalendarBarStylesEditEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[CalendarBarStylesEdit](Project.Application.CalendarBarStylesEdit.md)** method.
+> If you use any of the **PjColor** enumeration constants for the _Color_ parameter, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **CalendarBarStylesEditEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[CalendarBarStylesEdit](Project.Application.CalendarBarStylesEdit.md)** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,7 +37,7 @@ MsgBox ActiveProject.Resources("Tom").Name & " is available from " & _
  
 
  
-Use the  **[Availabilities](Project.Resource.Availabilities.md)** property to return an **Availabilities** collection. The following example displays the range of dates during which the specified resource is available for work.
+Use the **[Availabilities](Project.Resource.Availabilities.md)** property to return an **Availabilities** collection. The following example displays the range of dates during which the specified resource is available for work.
  
 
  
@@ -52,7 +52,7 @@ For Each Avail In ActiveProject.Resources("Tom").Availabilities
 Next Avail
 ```
 
-Use the  **[Add](Project.Availabilities.Add.md)** method to add an **Availability** object to the **Availabilities** collection. The following example adds a line to the **Resource Availability** grid showing that the specified resource is available only half-time during the month of April.
+Use the **[Add](Project.Availabilities.Add.md)** method to add an **Availability** object to the **Availabilities** collection. The following example adds a line to the **Resource Availability** grid showing that the specified resource is available only half-time during the month of April.
  
 
  

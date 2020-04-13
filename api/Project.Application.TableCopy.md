@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.TableCopy method (Project)
 
-Makes a copy of the active table, adds it to the  **Tables** drop-down menu, and sets the view to use the new table.
+Makes a copy of the active table, adds it to the **Tables** drop-down menu, and sets the view to use the new table.
 
 
 ## Syntax
@@ -39,13 +39,13 @@ _expression_. `TableCopy`( `_Name_` )
 
 ## Remarks
 
-The  **Tables** drop-down menu is on the **View** tab on the ribbon. If you run the **TableCopy** method without specifying the _Name_ argument, Project displays the **Save Table** dialog box.
+The **Tables** drop-down menu is on the **View** tab on the ribbon. If you run the **TableCopy** method without specifying the _Name_ argument, Project displays the **Save Table** dialog box.
 
 
 > [!NOTE] 
-> The  **TableCopy** action is not stored in the **Undo** list.
+> The **TableCopy** action is not stored in the **Undo** list.
 
-For detailed control of table features when making a copy, see the  **[TableEditEx](Project.Application.TableEditEx.md)** method.
+For detailed control of table features when making a copy, see the **[TableEditEx](Project.Application.TableEditEx.md)** method.
 
 
 ## Example

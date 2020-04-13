@@ -12,9 +12,9 @@ localization_priority: Normal
 
 # DoCmd/DOCMD Commands
 
-The following table contains the list of supported commands for use with the DOCMD function (ShapeSheet interface) and the  **DoCmd** method (Automation interface), along with information about the contexts in which they are supported.
+The following table contains the list of supported commands for use with the DOCMD function (ShapeSheet interface) and the **DoCmd** method (Automation interface), along with information about the contexts in which they are supported.
 
-The DOCMD function takes a numeric argument only; the  **DoCmd** method takes either a constant or numeric value.
+The DOCMD function takes a numeric argument only; the **DoCmd** method takes either a constant or numeric value.
 
 
 |**Member of VisUICmds**|**Value**|**Automation**|**ShapeSheet**|

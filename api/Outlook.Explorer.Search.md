@@ -37,7 +37,7 @@ _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** o
 
 The functionality of  **Explorer.Search** is analogous to the **Search** button in Instant Search. It behaves as if the user has typed the query string in the Instant Search user interface and then clicked **Search**. When calling  **Search**, the query is run in the user interface, and there is no programmatic mechanism to obtain the search results. For more information on Instant Search, query for "Instant Search" in the Outlook Help.
 
-The  **Search** method does not provide a callback to enable the developer to determine when the search is complete.
+The **Search** method does not provide a callback to enable the developer to determine when the search is complete.
 
 
 ## See also

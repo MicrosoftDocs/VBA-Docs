@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextRetrievalMode.ViewType property (Word)
 
-Returns or sets the view for the  **TextRetrievalMode** object. Read/write **WdViewType**.
+Returns or sets the view for the **TextRetrievalMode** object. Read/write **WdViewType**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[TextRetrievalMode](Word.Te
 
 ## Remarks
 
-Changing the view for the  **TextRetrievalMode** object doesn't change the display of a document on the screen. Instead, it determines which characters in the document will be included when a range is retrieved.
+Changing the view for the **TextRetrievalMode** object doesn't change the display of a document on the screen. Instead, it determines which characters in the document will be included when a range is retrieved.
 
 
 ## Example

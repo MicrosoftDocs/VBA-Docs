@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Style](Word.Style.md)' object.
 
 ## Remarks
 
-To set the  **BaseStyle** property, specify either the local name of the base style, an integer or a **wdBuiltinStyle** constant, or an object that represents the base style. For a list of the **wdBuiltinStyle** constants, see the **Style** property for the object that you want to set.
+To set the **BaseStyle** property, specify either the local name of the base style, an integer or a **wdBuiltinStyle** constant, or an object that represents the base style. For a list of the **wdBuiltinStyle** constants, see the **Style** property for the object that you want to set.
 
 
 ## Example

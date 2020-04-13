@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SyncObjects.Item method (Outlook)
 
-Returns a  **[SyncObject](Outlook.SyncObject.md)** object from the collection.
+Returns a **[SyncObject](Outlook.SyncObject.md)** object from the collection.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [SyncObjects](Outlook.SyncObjects.md) 
 
 ## Return value
 
-A  **SyncObject** object that represents the specified object.
+A **SyncObject** object that represents the specified object.
 
 
 ## See also

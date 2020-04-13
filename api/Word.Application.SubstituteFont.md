@@ -35,7 +35,7 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 
 ## Remarks
 
-You can find font-mapping options in the  **Font Substitution** dialog box.
+You can find font-mapping options in the **Font Substitution** dialog box.
 
 
 ## Example

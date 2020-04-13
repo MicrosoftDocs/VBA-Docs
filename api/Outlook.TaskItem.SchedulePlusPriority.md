@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskItem.SchedulePlusPriority property (Outlook)
 
-Returns or sets a  **String** representing the Microsoft Schedule+ priority for the task. Read/write.
+Returns or sets a **String** representing the Microsoft Schedule+ priority for the task. Read/write.
 
 
 ## Syntax

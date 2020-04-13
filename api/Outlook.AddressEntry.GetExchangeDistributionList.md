@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AddressEntry](Outlook.AddressEntry.m
 
 ## Return value
 
-An  **ExchangeDistributionList** object that represents the **AddressEntry**. Returns **Null** (**Nothing** in Visual Basic) if the **AddressEntry** object does not correspond to an Exchange distribution list.
+An **ExchangeDistributionList** object that represents the **AddressEntry**. Returns **Null** (**Nothing** in Visual Basic) if the **AddressEntry** object does not correspond to an Exchange distribution list.
 
 
 ## Remarks

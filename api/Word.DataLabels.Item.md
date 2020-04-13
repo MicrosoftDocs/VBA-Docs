@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[DataLabels](Word.DataLabels.md)** o
 
 ## Return value
 
-A  **[DataLabel](Word.DataLabel.md)** object contained by the collection.
+A **[DataLabel](Word.DataLabel.md)** object contained by the collection.
 
 
 ## Example

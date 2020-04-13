@@ -26,7 +26,7 @@ _expression_. `PrefixMappings`
 
 ## Remarks
 
-To set mapping for a content control, use the  **[SetMapping](Word.XMLMapping.SetMapping.md)** method or the **[SetMappingByNode](Word.XMLMapping.SetMappingByNode.md)** method.
+To set mapping for a content control, use the **[SetMapping](Word.XMLMapping.SetMapping.md)** method or the **[SetMappingByNode](Word.XMLMapping.SetMappingByNode.md)** method.
 
 
 ## See also

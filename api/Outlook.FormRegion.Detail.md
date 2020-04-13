@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormRegion.Detail property (Outlook)
 
-Returns or sets a  **String** representing the text displayed at runtime in the header after the display name of an adjoining form region. Read/write.
+Returns or sets a **String** representing the text displayed at runtime in the header after the display name of an adjoining form region. Read/write.
 
 
 ## Syntax
@@ -26,9 +26,9 @@ _expression_ A variable that represents a [FormRegion](Outlook.FormRegion.md) ob
 
 ## Remarks
 
-The  **Detail** property is displayed for adjoining form regions only. It is ignored for separate form regions.
+The **Detail** property is displayed for adjoining form regions only. It is ignored for separate form regions.
 
-The  **Detail** property is optional for an adjoining form region.
+The **Detail** property is optional for an adjoining form region.
 
 
 ## See also

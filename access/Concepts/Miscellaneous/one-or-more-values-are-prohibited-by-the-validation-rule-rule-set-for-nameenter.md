@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # One or more values are prohibited by the validation rule <rule> set for <name>. Enter a value that the expression for this field can accept. (Error 3317)
 
-The  **ValidationRule** property for this field contains an expression that limits the values that can be entered in the field. You must enter a value that is not prohibited by the expression.
+The **ValidationRule** property for this field contains an expression that limits the values that can be entered in the field. You must enter a value that is not prohibited by the expression.
 
 ## See also
 

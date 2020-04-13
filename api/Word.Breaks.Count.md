@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Breaks.Count property (Word)
 
-Returns the number of items in the  **Breaks** collection. Read-only **Long**.
+Returns the number of items in the **Breaks** collection. Read-only **Long**.
 
 
 ## Syntax

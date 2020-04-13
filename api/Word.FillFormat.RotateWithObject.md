@@ -26,7 +26,7 @@ _expression_ An expression that returns a **[FillFormat](Word.FillFormat.md)** o
 
 ## Remarks
 
-The value returned by the  **RotateWithObject** property can be one of the [MsoTriState](Office.MsoTriState.md) constants listed in the following table.
+The value returned by the **RotateWithObject** property can be one of the [MsoTriState](Office.MsoTriState.md) constants listed in the following table.
 
 
 
@@ -35,11 +35,11 @@ The value returned by the  **RotateWithObject** property can be one of the [MsoT
 | **msoFalse**|The fill does not rotate with the shape.|
 | **msoTrue**|The fill rotates with the shape.|
 
-The setting of the  **RotateWithObject** property corresponds to the setting of the **Rotate with shape** box on the **Fill** pane of the **Format Picture** dialog box in the Word user interface (under **Drawing Tools**, on the  **Format** Tab, in the **Shape Styles** group, click **Format Shape**.)
+The setting of the **RotateWithObject** property corresponds to the setting of the **Rotate with shape** box on the **Fill** pane of the **Format Picture** dialog box in the Word user interface (under **Drawing Tools**, on the **Format** Tab, in the **Shape Styles** group, click **Format Shape**.)
 
 
 > [!NOTE] 
-> The  **Rotate with shape** box only appears if you have either the **Gradient fill** or **Picture or texture fill** option buttons selected on the **Fill** pane of the **Format Shape** dialog box.
+> The **Rotate with shape** box only appears if you have either the **Gradient fill** or **Picture or texture fill** option buttons selected on the **Fill** pane of the **Format Shape** dialog box.
 
 
 ## See also

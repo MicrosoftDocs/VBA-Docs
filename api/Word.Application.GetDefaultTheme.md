@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 
 ## Remarks
 
-You can also use the  **ThemeName** property to return and set the default theme for new email messages.
+You can also use the **ThemeName** property to return and set the default theme for new email messages.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Categories.Item method (Outlook)
 
-Returns a  **[Category](Outlook.Category.md)** object from the collection.
+Returns a **[Category](Outlook.Category.md)** object from the collection.
 
 
 ## Syntax
@@ -30,11 +30,11 @@ _expression_ A variable that represents a [Categories](Outlook.Categories.md) ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|Either a  **Long** value representing the index number of the object, or a **String** value representing either the **[Name](Outlook.Category.Name.md)** or **[CategoryID](Outlook.Category.CategoryID.md)** property value of an object in the collection.|
+| _Index_|Required| **Variant**|Either a **Long** value representing the index number of the object, or a **String** value representing either the **[Name](Outlook.Category.Name.md)** or **[CategoryID](Outlook.Category.CategoryID.md)** property value of an object in the collection.|
 
 ## Return value
 
-A  **Category** object that represents the specified object.
+A **Category** object that represents the specified object.
 
 
 ## Remarks

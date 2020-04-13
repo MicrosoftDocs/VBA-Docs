@@ -24,7 +24,7 @@ _expression_ A variable that represents a 'RevisionsFilter' object.
 
 ## Remarks
 
-The  **RevisionsFilter.View** property replaces the **View.RevisionsView** property that was in previous version of Word.
+The **RevisionsFilter.View** property replaces the **View.RevisionsView** property that was in previous version of Word.
 
 
 ## Example

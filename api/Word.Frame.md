@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Frame object (Word)
 
-Represents a frame. The  **Frame** object is a member of the **Frames** collection. The **[Frames](Word.Frames.md)** collection includes all frames in a selection, range, or document.
+Represents a frame. The **Frame** object is a member of the **Frames** collection. The **[Frames](Word.Frames.md)** collection includes all frames in a selection, range, or document.
 
 
 ## Remarks
@@ -26,7 +26,7 @@ Use  **Frames** (Index), where Index is the index number, to return a single **F
 ActiveDocument.Frames(1).TextWrap = True
 ```
 
-Use the  **Add** method to add a frame around a range. The following example adds a frame around the first paragraph in the active document.
+Use the **Add** method to add a frame around a range. The following example adds a frame around the first paragraph in the active document.
 
 
 

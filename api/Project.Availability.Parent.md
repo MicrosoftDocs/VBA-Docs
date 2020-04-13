@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Availability.Parent property (Project)
 
-Gets the parent of the  **Availability** object. Read-only **Resource**.
+Gets the parent of the **Availability** object. Read-only **Resource**.
 
 
 ## Syntax
@@ -23,6 +23,6 @@ _expression_ A variable that represents an [Availability](./Project.Availability
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

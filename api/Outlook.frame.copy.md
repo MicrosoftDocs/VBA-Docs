@@ -16,7 +16,7 @@ Copies the contents of an object to the Clipboard.
 
 _expression_.**Copy**
 
-_expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a **Frame** object.
 
 
 ## Remarks

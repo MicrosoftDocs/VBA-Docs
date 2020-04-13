@@ -31,7 +31,7 @@ Single
 
 ## Remarks
 
-The  **FieldOfView** property controls the amount of perspective that is applied to a scene, between 0 and 180 degrees.
+The **FieldOfView** property controls the amount of perspective that is applied to a scene, between 0 and 180 degrees.
 
 
 ## See also

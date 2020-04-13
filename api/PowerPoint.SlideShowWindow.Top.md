@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SlideShowWindow.Top property (PowerPoint)
 
-Returns or sets a  **Single** that represents the distance in points from the top edge of the document, application, and slide show window to the top edge of the application window's client area. Read/write.
+Returns or sets a **Single** that represents the distance in points from the top edge of the document, application, and slide show window to the top edge of the application window's client area. Read/write.
 
 
 ## Syntax

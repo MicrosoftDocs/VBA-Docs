@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-This method corresponds to the list of items that appears when you click the arrow beside the  **Undo** button on the **Standard** toolbar. Include this method at the end of a macro to keep Visual Basic actions from appearing in the **Undo** box (for example, "VBA-Selection.InsertAfter").
+This method corresponds to the list of items that appears when you click the arrow beside the **Undo** button on the **Standard** toolbar. Include this method at the end of a macro to keep Visual Basic actions from appearing in the **Undo** box (for example, "VBA-Selection.InsertAfter").
 
 
 ## Example

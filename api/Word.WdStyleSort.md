@@ -11,13 +11,13 @@ localization_priority: Normal
 
 # WdStyleSort enumeration (Word)
 
-Indicates how to sort styles in the  **Styles** task pane.
+Indicates how to sort styles in the **Styles** task pane.
 
 
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **wdStyleSortByBasedOn**|3|Sorts styles based on the item indicated in the  **Sort Styles Based On** option.|
+| **wdStyleSortByBasedOn**|3|Sorts styles based on the item indicated in the **Sort Styles Based On** option.|
 | **wdStyleSortByFont**|2|Sorts styles based on the name of the font used.|
 | **wdStyleSortByName**|0|Sorts styles alphabetically based on the name of the style.|
 | **wdStyleSortByType**|4|Sorts styles based on whether the style is a paragraph style or character style.|

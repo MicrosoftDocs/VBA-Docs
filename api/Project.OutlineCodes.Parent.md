@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # OutlineCodes.Parent property (Project)
 
-Gets the parent of the  **OutlineCodes** object. Read-only **Project**.
+Gets the parent of the **OutlineCodes** object. Read-only **Project**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_ A variable that represents an 'OutlineCodes' object.
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 
 ## See also

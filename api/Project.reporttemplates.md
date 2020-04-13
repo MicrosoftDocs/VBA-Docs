@@ -15,7 +15,7 @@ localization_priority: Normal
 
 ## Remarks
 
-Use the  **[Item](Project.ReportTemplates.Item.md)** property to return a single **ReportTemplate** object.
+Use the **[Item](Project.ReportTemplates.Item.md)** property to return a single **ReportTemplate** object.
  
 
  

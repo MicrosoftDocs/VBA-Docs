@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 ## Remarks
 
-The  **ShowItemCount** property does not work with Public Folders.
+The **ShowItemCount** property does not work with Public Folders.
 
 
 ## Example

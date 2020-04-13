@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableFields.Add method (Project)
 
-Adds a  **TableField** object to a **TableFields** collection.
+Adds a **TableField** object to a **TableFields** collection.
 
 
 ## Syntax
@@ -30,11 +30,11 @@ _expression_ A variable that represents a 'TableFields' object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Field_|Required|**Long**|The name of the table field. Can be one of the  **[PjField](Project.PjField.md)** constants.|
-| _AlignData_|Optional|**Long**|The alignment of the table data. Can be one of the  **[PjAlignment](Project.PjAlignment.md)** constants. The default value is **pjRight**.|
+| _Field_|Required|**Long**|The name of the table field. Can be one of the **[PjField](Project.PjField.md)** constants.|
+| _AlignData_|Optional|**Long**|The alignment of the table data. Can be one of the **[PjAlignment](Project.PjAlignment.md)** constants. The default value is **pjRight**.|
 | _Width_|Optional|**Long**|The width of the table field in points. The default value is 10.|
 | _Title_|Optional|**String**|The title of the table field.|
-| _AlignTitle_|Optional|**Long**|The alignment of the title. Can be one of the  **PjAlignment** constants. The default value is **pjCenter**.|
+| _AlignTitle_|Optional|**Long**|The alignment of the title. Can be one of the **PjAlignment** constants. The default value is **pjCenter**.|
 | _Before_|Optional|**Long**|Position of the title. The default value is -1.|
 | _AutoWrap_|Optional|**Boolean**|**True** if the data in the table field automatically wrap. The default value is **True**.|
 

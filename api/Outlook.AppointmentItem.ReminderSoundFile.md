@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.ReminderSoundFile property (Outlook)
 
-Returns or sets a  **String** indicating the path and file name of the sound file to play when the reminder occurs for the Outlook item. Read/write.
+Returns or sets a **String** indicating the path and file name of the sound file to play when the reminder occurs for the Outlook item. Read/write.
 
 
 ## Syntax

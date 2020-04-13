@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-Use the  **ResetFormFields** method to clear fields when a document's fields are not locked. To clear fields when a document's fields are locked, use the **Protect** method.
+Use the **ResetFormFields** method to clear fields when a document's fields are not locked. To clear fields when a document's fields are locked, use the **Protect** method.
 
 
 ## Example

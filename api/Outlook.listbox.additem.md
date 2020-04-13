@@ -16,7 +16,7 @@ For a single-column  **[ListBox](Outlook.listbox.md)**, the  **AddItem** method 
 
 _expression_.**AddItem**(**_pvargItem_**,  **_pvargIndex_**)
 
-_expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a **ListBox** object.
 
 
 ## Parameters
@@ -38,6 +38,6 @@ For a multicolumn  **ListBox**,  **AddItem** inserts an entire row, that is, it 
 
 If the control is bound to data, the  **AddItem** method fails.
 
-You can add more than one row at a time to a  **ListBox** by using **List**.
+You can add more than one row at a time to a **ListBox** by using **List**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

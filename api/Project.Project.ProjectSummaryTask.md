@@ -27,7 +27,7 @@ Local custom fields can be accessed directly from  **ProjectSummaryTask** as tas
 
 
 > [!NOTE] 
-> Enterprise project fields are available when a project is opened from Project Server. To access enterprise custom fields, it is necessary to use the  **SetField** and **GetField** methods along with the **[FieldNameToFieldConstant](Project.Application.FieldNameToFieldConstant.md)** method.
+> Enterprise project fields are available when a project is opened from Project Server. To access enterprise custom fields, it is necessary to use the **SetField** and **GetField** methods along with the **[FieldNameToFieldConstant](Project.Application.FieldNameToFieldConstant.md)** method.
 
 
 ## Example

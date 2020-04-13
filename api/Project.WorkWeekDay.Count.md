@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WorkWeekDay.Count property (Project)
 
-Gets the value 1 for the number of days in the  **WorkWeekDay** object. Read-only **Integer**.
+Gets the value 1 for the number of days in the **WorkWeekDay** object. Read-only **Integer**.
 
 
 ## Syntax

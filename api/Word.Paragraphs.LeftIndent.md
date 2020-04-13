@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Paragraphs](Word.paragraphs.md)' col
 
 ## Example
 
-This example sets the left indent of all paragraphs in the active document to 1 inch. The  **InchesToPoints** method is used to convert inches to points.
+This example sets the left indent of all paragraphs in the active document to 1 inch. The **InchesToPoints** method is used to convert inches to points.
 
 
 ```vb

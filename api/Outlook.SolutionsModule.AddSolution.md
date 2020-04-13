@@ -44,7 +44,7 @@ You cannot add the following folders to the  **Solutions** module as a solution 
     
 - A special folder, as defined by the  **[OlSpecialFolders](Outlook.OlSpecialFolders.md)** enumeration.
     
-- Any folder on a Microsoft Exchange Server public folder store. The  **[ExchangeStoreType](Outlook.Store.ExchangeStoreType.md)** property on the **[Store](Outlook.Folder.Store.md)** object for this folder is **olExchangePublicFolder**.
+- Any folder on a Microsoft Exchange Server public folder store. The **[ExchangeStoreType](Outlook.Store.ExchangeStoreType.md)** property on the **[Store](Outlook.Folder.Store.md)** object for this folder is **olExchangePublicFolder**.
     
 - A hidden folder. A hidden folder is one whose MAPI property,  **PR_ATTR_HIDDEN**, is **True** or one that is not in the IPM Subtree.
     

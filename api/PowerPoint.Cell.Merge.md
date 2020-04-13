@@ -28,7 +28,7 @@ _expression_ A variable that represents a [Cell](PowerPoint.Cell.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _MergeTo_|Required|**Cell**|The  **Cell** object to be merged with.|
+| _MergeTo_|Required|**Cell**|The **Cell** object to be merged with.|
 
 ## Remarks
 

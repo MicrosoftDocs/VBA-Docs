@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Years.Parent property (Project)
 
-Gets the parent of the  **Years** object. Read-only **Calendar**.
+Gets the parent of the **Years** object. Read-only **Calendar**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_ A variable that represents a 'Years' object.
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 
 ## See also

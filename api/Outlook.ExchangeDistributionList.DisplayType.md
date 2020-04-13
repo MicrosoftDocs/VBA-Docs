@@ -28,7 +28,7 @@ _expression_ A variable that represents an [ExchangeDistributionList](Outlook.Ex
 
 This property corresponds to the MAPI property  **PidTagDisplayType**.
 
-The  **ExchangeDistributionList** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **DisplayType** property from the **AddressEntry** object. In the case of **ExchangeDistributionList**, **DisplayType** should always return **olDistList**.
+The **ExchangeDistributionList** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **DisplayType** property from the **AddressEntry** object. In the case of **ExchangeDistributionList**, **DisplayType** should always return **olDistList**.
 
 
 ## See also

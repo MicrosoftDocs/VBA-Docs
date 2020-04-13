@@ -26,7 +26,7 @@ _expression_. `Replacement`
 
 ## Example
 
-This example removes bold formatting from the active document. The  **Bold** property of the **Font** object is **True** for the **Find** object and **False** for the **Replacement** object.
+This example removes bold formatting from the active document. The **Bold** property of the **Font** object is **True** for the **Find** object and **False** for the **Replacement** object.
 
 
 ```vb

@@ -26,9 +26,9 @@ _expression_ Required. A variable that represents a **[WebOptions](Word.WebOptio
 
 ## Remarks
 
-This property is ignored if the  **OptimizeForBrowser** property is set to **False**.
+This property is ignored if the **OptimizeForBrowser** property is set to **False**.
 
-After you set the  **BrowserLevel** property on the **DefaultWebOptions** object, the **BrowserLevel** property of any new Web pages you create in Word will be the same as the global setting.
+After you set the **BrowserLevel** property on the **DefaultWebOptions** object, the **BrowserLevel** property of any new Web pages you create in Word will be the same as the global setting.
 
 
 ## See also

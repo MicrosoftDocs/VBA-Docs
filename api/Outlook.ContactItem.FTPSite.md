@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.FTPSite property (Outlook)
 
-Returns or sets a  **String** representing the FTP site entry for the contact. Read/write.
+Returns or sets a **String** representing the FTP site entry for the contact. Read/write.
 
 
 ## Syntax

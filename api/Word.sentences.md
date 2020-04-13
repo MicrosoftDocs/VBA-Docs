@@ -14,7 +14,7 @@ A collection of  **[Range](Word.Range.md)** objects that represent all the sente
 
 ## Remarks
 
-Use the  **Sentences** property to return the **Sentences** collection. The following example displays the number of sentences selected.
+Use the **Sentences** property to return the **Sentences** collection. The following example displays the number of sentences selected.
 
 
 ```vb
@@ -33,9 +33,9 @@ With ActiveDocument.Sentences(1)
 End With
 ```
 
-The  **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object.
+The **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object.
 
-The  **Add** method isn't available for the **Sentences** collection. Instead, use the **InsertAfter** or **InsertBefore** method to add a sentence to a **Range** object. The following example inserts a sentence after the first sentence in the active document.
+The **Add** method isn't available for the **Sentences** collection. Instead, use the **InsertAfter** or **InsertBefore** method to add a sentence to a **Range** object. The following example inserts a sentence after the first sentence in the active document.
 
 
 

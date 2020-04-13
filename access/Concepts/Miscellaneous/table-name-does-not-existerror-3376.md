@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The table you specified does not exist. Check to see if the name you specified exists in the  **TableDefs** collection.
+The table you specified does not exist. Check to see if the name you specified exists in the **TableDefs** collection.
 
 ## See also
 

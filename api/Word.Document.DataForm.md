@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.DataForm method (Word)
 
-Displays the  **Data Form** dialog box, in which you can add, delete, or modify records.
+Displays the **Data Form** dialog box, in which you can add, delete, or modify records.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # GroupCriterion.Parent property (Project)
 
-Gets the parent of the  **GroupCriterion** object. Read-only **Group**.
+Gets the parent of the **GroupCriterion** object. Read-only **Group**.
 
 
 ## Syntax
@@ -23,6 +23,6 @@ _expression_ A variable that represents a [GroupCriterion](./Project.GroupCriter
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

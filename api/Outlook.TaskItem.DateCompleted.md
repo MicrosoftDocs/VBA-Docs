@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskItem.DateCompleted property (Outlook)
 
-Returns or sets a  **Date** indicating the completion date of the task. Read/write.
+Returns or sets a **Date** indicating the completion date of the task. Read/write.
 
 
 ## Syntax

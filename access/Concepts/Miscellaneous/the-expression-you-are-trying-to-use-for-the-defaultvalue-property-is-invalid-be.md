@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The expression you are trying to use for the  **DefaultValue** property is invalid. Set the property to a valid expression.
+The expression you are trying to use for the **DefaultValue** property is invalid. Set the property to a valid expression.
 
 ## See also
 

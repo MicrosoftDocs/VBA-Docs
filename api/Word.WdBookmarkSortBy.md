@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WdBookmarkSortBy enumeration (Word)
 
-Specifies the sorting option for bookmark names displayed in the  **Bookmark** dialog box.
+Specifies the sorting option for bookmark names displayed in the **Bookmark** dialog box.
 
 
 

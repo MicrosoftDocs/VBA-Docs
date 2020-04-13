@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional|**Long**|The type of item to move. Can be one of the  **[PjOrganizer](Project.PjOrganizer.md)** constants. The default value is **pjViews**.|
+| _Type_|Optional|**Long**|The type of item to move. Can be one of the **[PjOrganizer](Project.PjOrganizer.md)** constants. The default value is **pjViews**.|
 | _FileName_|Required|**String**|The name of the file containing the item to move.|
 | _ToFileName_|Required|**String**|The name of the file where the item should be placed.|
 | _Name_|Optional|**String**|The name of the item to move. The default is to move all items specified with  **Type**.|

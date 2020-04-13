@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CoAuthor object (Word)
 
-Represents a single co author in the document. The  **CoAuthor** object is a member of the **[CoAuthors](Word.CoAuthors.md)** collection. The **CoAuthors** collection contains all the co authors in the document (authors that are actively editing the document).
+Represents a single co author in the document. The **CoAuthor** object is a member of the **[CoAuthors](Word.CoAuthors.md)** collection. The **CoAuthors** collection contains all the co authors in the document (authors that are actively editing the document).
 
 
 > [!IMPORTANT] 

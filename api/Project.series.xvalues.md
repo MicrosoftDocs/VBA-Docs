@@ -19,7 +19,7 @@ _expression_ A variable that represents a 'Series' object.
 
 ## Remarks
 
-For a code example that uses the  **XValues** property, see the **[Series](Project.series.md)** object.
+For a code example that uses the **XValues** property, see the **[Series](Project.series.md)** object.
 
 
 ## See also

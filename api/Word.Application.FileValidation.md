@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[Application](Word.Application.md)*
 
 ## Remarks
 
-Files that do not pass validation will be opened in a [Protected View window](Word.ProtectedViewWindow.md). The  **FileValidation** property is per session only. If you set the **FileValidation** property, that setting will remain in effect for the entire session the application is open.
+Files that do not pass validation will be opened in a [Protected View window](Word.ProtectedViewWindow.md). The **FileValidation** property is per session only. If you set the **FileValidation** property, that setting will remain in effect for the entire session the application is open.
 
 
 ## See also

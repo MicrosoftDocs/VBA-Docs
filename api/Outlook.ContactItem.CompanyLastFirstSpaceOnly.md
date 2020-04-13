@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.CompanyLastFirstSpaceOnly property (Outlook)
 
-Returns a  **String** representing the company name for the contact followed by the concatenated last name, first name, and middle name with spaces between the last, first, and middle names. Read-only.
+Returns a **String** representing the company name for the contact followed by the concatenated last name, first name, and middle name with spaces between the last, first, and middle names. Read-only.
 
 
 ## Syntax

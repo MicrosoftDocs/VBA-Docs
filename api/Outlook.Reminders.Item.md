@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Reminders.Item method (Outlook)
 
-Returns a  **[Reminder](Outlook.Reminder.md)** object from the collection.
+Returns a **[Reminder](Outlook.Reminder.md)** object from the collection.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Reminders](Outlook.Reminders.md) obje
 
 ## Return value
 
-A  **Reminder** object that represents the specified object.
+A **Reminder** object that represents the specified object.
 
 
 ## See also

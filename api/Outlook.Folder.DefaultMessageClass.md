@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folder.DefaultMessageClass property (Outlook)
 
-Returns a  **String** representing the default message class for items in the folder. Read-only.
+Returns a **String** representing the default message class for items in the folder. Read-only.
 
 
 ## Syntax

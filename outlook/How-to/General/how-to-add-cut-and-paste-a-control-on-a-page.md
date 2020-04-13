@@ -18,9 +18,9 @@ This example assumes the user will add, then cut, then paste the new control.
 
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- Three  **[CommandButton](../../../api/Outlook.commandbutton.md)** controls named CommandButton1 through CommandButton3.
+- Three **[CommandButton](../../../api/Outlook.commandbutton.md)** controls named CommandButton1 through CommandButton3.
 
-- A  **MultiPage** named MultiPage1.
+- A **MultiPage** named MultiPage1.
 
 ```vb
 Dim CommandButton1 

@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[InlineShape](Word.InlineShape.md)' 
 
 ## Remarks
 
-For an inline shape with a border, the  **LineFormat** object represents the border.
+For an inline shape with a border, the **LineFormat** object represents the border.
 
 
 ## See also

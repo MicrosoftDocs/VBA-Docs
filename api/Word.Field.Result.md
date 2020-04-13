@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Field](Word.Field.md)' obj
 
 ## Remarks
 
-You can access a field result without changing the view from field codes. Use the  **Text** property to return text from a **Range** object.
+You can access a field result without changing the view from field codes. Use the **Text** property to return text from a **Range** object.
 
 
 ## Example

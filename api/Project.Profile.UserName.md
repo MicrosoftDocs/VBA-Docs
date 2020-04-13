@@ -23,7 +23,7 @@ _expression_ A variable that represents a [Profile](./Project.Profile.md) object
 
 ## Remarks
 
-The  **UserName** property of the **Profile** object shows the logon name. By comparison, the **[UserName](Project.Application.UserName.md)** property of the **Application** object shows the local user name.
+The **UserName** property of the **Profile** object shows the logon name. By comparison, the **[UserName](Project.Application.UserName.md)** property of the **Application** object shows the local user name.
 
 
 ## Example
