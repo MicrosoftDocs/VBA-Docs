@@ -34,9 +34,9 @@ _expression_ A variable that represents an '[Application](Word.Application.md)' 
 
 ## Remarks
 
-Use the  **ShowSendToCustom** property to create a custom button on the sixth step of the Mail Merge Wizard.
+Use the **ShowSendToCustom** property to create a custom button on the sixth step of the Mail Merge Wizard.
 
-For information about using events with the  **Application** object, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
+For information about using events with the **Application** object, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
 
 ## Example

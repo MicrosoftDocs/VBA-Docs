@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CalloutFormat.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **CalloutFormat** object.
+Returns an **Object** that represents the parent object of the specified **CalloutFormat** object.
 
 
 ## Syntax

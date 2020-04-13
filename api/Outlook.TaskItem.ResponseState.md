@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskItem.ResponseState property (Outlook)
 
-Returns an  **[OlTaskResponse](Outlook.OlTaskResponse.md)** constant indicating the overall status of the response to the specified task request. Read-only.
+Returns an **[OlTaskResponse](Outlook.OlTaskResponse.md)** constant indicating the overall status of the response to the specified task request. Read-only.
 
 
 ## Syntax

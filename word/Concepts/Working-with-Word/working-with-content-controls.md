@@ -2,7 +2,7 @@
 title: Working with Content Controls
 ms.prod: word
 ms.assetid: b4092c71-a383-f1db-8d68-de69e8d8a86b
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -153,6 +153,6 @@ Sub SetPlaceholderText()
 End Sub
 ```
 
-These are just a few of the ways that you can use the object model to manipulate content controls in your documents. For more examples, see the  [How To](../Objects-Properties-Methods/how-do-i-word-vba-reference.md) section.
+These are just a few of the ways that you can use the object model to manipulate content controls in your documents. For more examples, see the [How To](../Objects-Properties-Methods/how-do-i-word-vba-reference.md) section.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

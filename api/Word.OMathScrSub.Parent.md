@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathScrSub.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **OMathScrSub** object.
+Returns an **Object** that represents the parent object of the specified **OMathScrSub** object.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.RTFBody property (Outlook)
 
-Returns or sets a  **Byte** array that represents the body of the Microsoft Outlook item in Rich Text Format. Read/write.
+Returns or sets a **Byte** array that represents the body of the Microsoft Outlook item in Rich Text Format. Read/write.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ You can use the  **StrConv** function in Microsoft Visual Basic for Applications
 
 ## Example
 
-The following code samples in Microsoft Visual Basic for Applications (VBA) and C# displays the Rich Text Format body of the appointment in the active inspector. A  **MailItem** must be the active inspector for this code to work.
+The following code samples in Microsoft Visual Basic for Applications (VBA) and C# displays the Rich Text Format body of the appointment in the active inspector. A **MailItem** must be the active inspector for this code to work.
 
 
 ```vb

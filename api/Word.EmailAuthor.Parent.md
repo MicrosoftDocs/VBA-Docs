@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # EmailAuthor.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **EmailAuthor** object.
+Returns an **Object** that represents the parent object of the specified **EmailAuthor** object.
 
 
 ## Syntax

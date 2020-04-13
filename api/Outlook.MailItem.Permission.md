@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.Permission property (Outlook)
 
-Sets or returns an  **[OlPermission](Outlook.OlPermission.md)** constant that determines what permissions to grant to the recipients of the email item. Read/write.
+Sets or returns an **[OlPermission](Outlook.OlPermission.md)** constant that determines what permissions to grant to the recipients of the email item. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[MailItem](Outlook.MailItem.md)' obje
 
 ## Remarks
 
-The  **Permission** property should be synchronized with the **[PermissionTemplateGuid](Outlook.MailItem.PermissionTemplateGuid.md)** property to accurately reflect the permission status of the **MailItem**. Setting the **PermissionTemplateGuid** property to a valid GUID also sets the **Permission** property to **OlPermission.olPermissionTemplate**.
+The **Permission** property should be synchronized with the **[PermissionTemplateGuid](Outlook.MailItem.PermissionTemplateGuid.md)** property to accurately reflect the permission status of the **MailItem**. Setting the **PermissionTemplateGuid** property to a valid GUID also sets the **Permission** property to **OlPermission.olPermissionTemplate**.
 
  When no Information Rights Management (IRM) has been set up, (in which case the **Permission** property is **OlPermission.olUnrestricted**), or the restriction is not to forward the **MailItem**, (in which case the **Permission** property is **OlPermission.olDoNotForward**), the value of the **PermissionTemplateGuid** property should be an empty string.
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.GetNamespace method (Outlook)
 
-Returns a  **[NameSpace](Outlook.NameSpace.md)** object of the specified type.
+Returns a **[NameSpace](Outlook.NameSpace.md)** object of the specified type.
 
 
 ## Syntax
@@ -34,12 +34,12 @@ _expression_ A variable that represents an **[Application](Outlook.Application.m
 
 ## Return value
 
-A  **NameSpace** object that represents the specified namespace.
+A **NameSpace** object that represents the specified namespace.
 
 
 ## Remarks
 
-The only supported name space type is "MAPI". The  **GetNameSpace** method is functionally equivalent to the **Session** property.
+The only supported name space type is "MAPI". The **GetNameSpace** method is functionally equivalent to the **Session** property.
 
 
 ## Example

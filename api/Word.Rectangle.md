@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Rectangle object (Word)
 
-Represents a portion of text or a graphic in a page. Use the  **Rectangle** object and related methods and properties for programmatically defining page layout in a document.
+Represents a portion of text or a graphic in a page. Use the **Rectangle** object and related methods and properties for programmatically defining page layout in a document.
 
 
 ## Remarks
 
-Use the  **Item** method to return a specific **Rectangle** object. The following example accesses the first rectangle in the first page of the active document.
+Use the **Item** method to return a specific **Rectangle** object. The following example accesses the first rectangle in the first page of the active document.
 
 
 ```vb
@@ -29,7 +29,7 @@ Set objRectangle = ActiveDocument.ActiveWindow _
  .Panes(1).Pages(1).Rectangles.Item(1)
 ```
 
-Use the  **RectangleType** property to determine the type of rectangle. The following example creates a **ShapeRange** object if the specified rectangle is a shape.
+Use the **RectangleType** property to determine the type of rectangle. The following example creates a **ShapeRange** object if the specified rectangle is a shape.
 
 
 

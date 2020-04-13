@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextRange.Lines method (PowerPoint)
 
-Returns a  **[TextRange](PowerPoint.TextRange.md)** object that represents the specified subset of text lines. For information about counting or looping through the lines in a text range, see the **[TextRange](PowerPoint.TextRange.md)** object.
+Returns a **[TextRange](PowerPoint.TextRange.md)** object that represents the specified subset of text lines. For information about counting or looping through the lines in a text range, see the **[TextRange](PowerPoint.TextRange.md)** object.
 
 
 ## Syntax

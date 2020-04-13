@@ -17,7 +17,7 @@ A collection of  **[Table](Word.Table.md)** objects that represent the tables in
 
 ## Remarks
 
-Use the  **Tables** property to return the **Tables** collection. The following example applies a border around each of the tables in the active document.
+Use the **Tables** property to return the **Tables** collection. The following example applies a border around each of the tables in the active document.
 
 
 ```vb
@@ -28,7 +28,7 @@ For Each aTable In ActiveDocument.Tables
 Next aTable
 ```
 
-Use the  **Add** method to add a table at the specified range. The following example adds a 3x4 table at the beginning of the active document.
+Use the **Add** method to add a table at the specified range. The following example adds a 3x4 table at the beginning of the active document.
 
 
 
@@ -47,7 +47,7 @@ Use  **Tables** (Index), where Index is the index number, to return a single **T
 ActiveDocument.Tables(1).ConvertToText Separator:=wdSeparateByTabs
 ```
 
-The  **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object.
+The **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object.
 
 
 ## See also

@@ -39,7 +39,7 @@ Shape
 
 ## Remarks
 
-Because it takes a  **Variant**, the **FindByName** method makes it possible to locate a member of the **Placeholders** collection by specifying either the index number (an **Integer** or **Long**) or the name (a **String**) of an individual placeholder. Unlike the corresponding methods of other collections, such as **[Shapes](PowerPoint.Shapes.md)** or **[Slides](PowerPoint.Slides.md)**, the **[Item](PowerPoint.Placeholders.Item.md)** method of the **Placeholders** collection takes only a **Long**.
+Because it takes a **Variant**, the **FindByName** method makes it possible to locate a member of the **Placeholders** collection by specifying either the index number (an **Integer** or **Long**) or the name (a **String**) of an individual placeholder. Unlike the corresponding methods of other collections, such as **[Shapes](PowerPoint.Shapes.md)** or **[Slides](PowerPoint.Slides.md)**, the **[Item](PowerPoint.Placeholders.Item.md)** method of the **Placeholders** collection takes only a **Long**.
 
 
 ## Example

@@ -33,7 +33,7 @@ This example displays the date from the letter that appears in the active docume
 MsgBox ActiveDocument.GetLetterContent.DateFormat
 ```
 
-This example creates a new  **LetterContent** object, sets the date line to the current date, and then runs the Letter Wizard by using the **[RunLetterWizard](Word.Document.RunLetterWizard.md)** method.
+This example creates a new **LetterContent** object, sets the date line to the current date, and then runs the Letter Wizard by using the **[RunLetterWizard](Word.Document.RunLetterWizard.md)** method.
 
 
 

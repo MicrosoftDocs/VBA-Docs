@@ -30,7 +30,7 @@ _expression_ A variable that represents an [OutlookBarGroups](Outlook.OutlookBar
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _NewGroup_|Required| **[OutlookBarGroup](Outlook.OutlookBarGroup.md)**|The  **OutlookBarGroup** that was added.|
+| _NewGroup_|Required| **[OutlookBarGroup](Outlook.OutlookBarGroup.md)**|The **OutlookBarGroup** that was added.|
 
 ## Remarks
 

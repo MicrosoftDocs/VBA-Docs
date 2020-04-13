@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlBusinessCardType enumeration (Outlook)
 
-Identifies the type of Electronic Business Card (EBC) format associated with a  **[ContactItem](Outlook.ContactItem.md)** object.
+Identifies the type of Electronic Business Card (EBC) format associated with a **[ContactItem](Outlook.ContactItem.md)** object.
 
 
 

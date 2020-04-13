@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents a **[Shape](Word.Shape.md)** o
 
 ## Remarks
 
-Use the  **[Rotation](Word.Shape.Rotation.md)** property to set the absolute rotation of the shape. To rotate a three-dimensional shape around the x-axis or the y-axis, use the **[IncrementRotationX](Word.ThreeDFormat.IncrementRotationX.md)** or **[IncrementRotationY](Word.ThreeDFormat.IncrementRotationY.md)** method of the **[ThreeDFormat](Word.ThreeDFormat.md)** object.
+Use the **[Rotation](Word.Shape.Rotation.md)** property to set the absolute rotation of the shape. To rotate a three-dimensional shape around the x-axis or the y-axis, use the **[IncrementRotationX](Word.ThreeDFormat.IncrementRotationX.md)** or **[IncrementRotationY](Word.ThreeDFormat.IncrementRotationY.md)** method of the **[ThreeDFormat](Word.ThreeDFormat.md)** object.
 
 
 ## Example

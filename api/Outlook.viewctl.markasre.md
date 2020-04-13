@@ -16,7 +16,7 @@ Marks as read all selected items in the control.
 
 _expression_.**MarkAsRead**
 
-_expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

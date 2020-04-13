@@ -12,7 +12,7 @@ localization_priority: Normal
 ## In this section
 
 
--  [ToggleButton Object (Outlook Forms Script)](Outlook.togglebutton.md)
+- [ToggleButton Object (Outlook Forms Script)](Outlook.togglebutton.md)
     
 
 

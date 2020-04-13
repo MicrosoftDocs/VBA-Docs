@@ -11,12 +11,12 @@ localization_priority: Normal
 
 # CoAuthors object (Word)
 
-A collection of all the  **[CoAuthor](Word.CoAuthor.md)** objects in the document.
+A collection of all the **[CoAuthor](Word.CoAuthor.md)** objects in the document.
 
 
 ## Remarks
 
-The  **CoAuthors** collection contains all the co authors in the document (authors that are actively editing the document).
+The **CoAuthors** collection contains all the co authors in the document (authors that are actively editing the document).
 
 
 ## Example

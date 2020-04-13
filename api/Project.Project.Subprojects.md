@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Project.Subprojects property (Project)
 
-Gets a  **[Subprojects](Project.Subproject.md)** collection representing subprojects in the master project. Read-only **Subprojects**.
+Gets a **[Subprojects](Project.Subproject.md)** collection representing subprojects in the master project. Read-only **Subprojects**.
 
 
 ## Syntax

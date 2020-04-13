@@ -59,7 +59,7 @@ With Dialogs(wdDialogFileOpen)
 End With
 ```
 
-This example prints the active document, using the settings from the  **Print** dialog box.
+This example prints the active document, using the settings from the **Print** dialog box.
 
 
 

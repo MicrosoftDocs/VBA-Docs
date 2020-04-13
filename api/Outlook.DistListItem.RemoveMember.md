@@ -30,11 +30,11 @@ _expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Recipient_|Required| **[Recipient](Outlook.Recipient.md)**|The  **Recipient** to be removed from the distribution list.|
+| _Recipient_|Required| **[Recipient](Outlook.Recipient.md)**|The **Recipient** to be removed from the distribution list.|
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example removes a member from the distribution list called Group List. The  **RemoveMember** method will fail if the specified recipient is not valid. Before running the example, create or make sure a distribution list called 'Group List' exists in your default Contacts folder.
+The following Microsoft Visual Basic for Applications (VBA) example removes a member from the distribution list called Group List. The **RemoveMember** method will fail if the specified recipient is not valid. Before running the example, create or make sure a distribution list called 'Group List' exists in your default Contacts folder.
 
 
 ```vb

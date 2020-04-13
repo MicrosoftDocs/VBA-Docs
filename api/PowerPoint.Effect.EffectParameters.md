@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Effect.EffectParameters property (PowerPoint)
 
-Returns an  **[EffectParameters](PowerPoint.EffectParameters.md)** object that represents animation effect properties.
+Returns an **[EffectParameters](PowerPoint.EffectParameters.md)** object that represents animation effect properties.
 
 
 ## Syntax

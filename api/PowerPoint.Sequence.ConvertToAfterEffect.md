@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Sequence.ConvertToAfterEffect method (PowerPoint)
 
-Specifies what an effect should do after it is finished. Returns an  **[Effect](PowerPoint.Effect.md)** object that represents an after effect.
+Specifies what an effect should do after it is finished. Returns an **[Effect](PowerPoint.Effect.md)** object that represents an after effect.
 
 
 ## Syntax

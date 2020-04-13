@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Menus.AddAt method (Visio)
 
-Creates a new  **Menu** object at a specified index in the **Menus** collection.
+Creates a new **Menu** object at a specified index in the **Menus** collection.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationModule.Name property (Outlook)
 
-Returns a  **String** value that represents the localized display name for the **[NavigationModule](Outlook.NavigationModule.md)** object. Read-only.
+Returns a **String** value that represents the localized display name for the **[NavigationModule](Outlook.NavigationModule.md)** object. Read-only.
 
 
 ## Syntax

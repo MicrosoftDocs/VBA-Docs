@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.EditInsert method (Project)
 
-If a column is selected, brings up the  **Column Definition** dialog box. Otherwise, inserts a new row above the selected row or the row containing the active cell.
+If a column is selected, brings up the **Column Definition** dialog box. Otherwise, inserts a new row above the selected row or the row containing the active cell.
 
 
 ## Syntax

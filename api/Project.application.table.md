@@ -11,7 +11,7 @@ localization_priority: Normal
 
 
 # Application.Table method (Project)
-Creates a  **ReportTable** object in the active report.
+Creates a **ReportTable** object in the active report.
 
 ## Syntax
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **Table** method corresponds to the **Table** command on the **DESIGN** tab under **REPORT TOOLS** on the ribbon. The table includes the following fields for the project summary task: **Name**,  **Start**,  **Finish**, and  **% Complete**.
+The **Table** method corresponds to the **Table** command on the **DESIGN** tab under **REPORT TOOLS** on the ribbon. The table includes the following fields for the project summary task: **Name**,  **Start**,  **Finish**, and  **% Complete**.
 
 
 ## See also

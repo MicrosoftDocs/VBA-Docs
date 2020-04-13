@@ -23,6 +23,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **Calculation** value can be one of the following **[PjCalculation](Project.PjCalculation.md)** constants: **pjAutomatic** or **pjManual**.
+The **Calculation** value can be one of the following **[PjCalculation](Project.PjCalculation.md)** constants: **pjAutomatic** or **pjManual**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

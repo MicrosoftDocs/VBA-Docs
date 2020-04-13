@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Timeline.Label property (Project)
 
-Returns the timeline for the  **Timeline** object. Introduced in Office 2016.
+Returns the timeline for the **Timeline** object. Introduced in Office 2016.
 
 
 ## Syntax

@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ComboBox.ListStyle Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the visual appearance of the list in a **[ComboBox](Outlook.combobox.md)**. Read/write.
+Returns or sets an **Integer** that specifies the visual appearance of the list in a **[ComboBox](Outlook.combobox.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**ListStyle**
 
-_expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a **ComboBox** object.
 
 
 ## Remarks
@@ -33,6 +33,6 @@ The settings for  **ListStyle** are:
 |0|Looks like a regular combo box, with the background of items highlighted.|
 |1|Shows option buttons, or check boxes for a multi-select list of the combo box (default). When the user selects an item from the group, the option button associated with that item is selected and the option buttons for the other items in the group are deselected.|
 
-The  **ListStyle** property lets you change the visual presentation of a **ComboBox**. By specifying a setting other than 0, you can present the contents of either control as a group of individual items, with each item including a visual cue to indicate whether it is selected.
+The **ListStyle** property lets you change the visual presentation of a **ComboBox**. By specifying a setting other than 0, you can present the contents of either control as a group of individual items, with each item including a visual cue to indicate whether it is selected.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -16,6 +16,6 @@ Opens the item or items that are currently selected in the control.
 
 _expression_.**Open**
 
-_expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a **ViewCtl** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

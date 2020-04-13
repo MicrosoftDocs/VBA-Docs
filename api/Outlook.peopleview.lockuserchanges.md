@@ -11,7 +11,7 @@ localization_priority: Normal
 
 
 # PeopleView.LockUserChanges property (Outlook)
-Returns or sets a  **Boolean** value that indicates whether a user can modify the settings of the view. Read/write.
+Returns or sets a **Boolean** value that indicates whether a user can modify the settings of the view. Read/write.
 
 ## Version information
 

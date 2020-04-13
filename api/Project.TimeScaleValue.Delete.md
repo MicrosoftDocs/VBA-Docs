@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # TimeScaleValue.Delete method (Project)
 
-Deletes the  **TimeScaleValue** object from a **TimeScaleValues** collection.
+Deletes the **TimeScaleValue** object from a **TimeScaleValues** collection.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Master.Shapes property (PowerPoint)
 
-Returns a  **[Shapes](PowerPoint.Shapes.md)** collection that represents all the elements that have been placed or inserted on the specified slide, slide master, or range of slides. Read-only.
+Returns a **[Shapes](PowerPoint.Shapes.md)** collection that represents all the elements that have been placed or inserted on the specified slide, slide master, or range of slides. Read-only.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Shapes
 
 ## Remarks
 
-The  **Shapes** collection returned can contain the drawings, shapes, OLE objects, pictures, text objects, titles, headers, footers, slide numbers, and date and time objects on a slide, or on the slide image on a notes page.
+The **Shapes** collection returned can contain the drawings, shapes, OLE objects, pictures, text objects, titles, headers, footers, slide numbers, and date and time objects on a slide, or on the slide image on a notes page.
 
 
 ## Example

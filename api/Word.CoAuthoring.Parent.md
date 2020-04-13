@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CoAuthoring.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **[CoAuthoring](Word.CoAuthoring.md)** object.
+Returns an **Object** that represents the parent object of the specified **[CoAuthoring](Word.CoAuthoring.md)** object.
 
 
 ## Syntax

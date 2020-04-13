@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkComboBox.EnterFieldBehavior property (Outlook)
 
-Returns or sets an  **[olEnterFieldBehavior](Outlook.OlEnterFieldBehavior.md)** constant that specifies the selection behavior when entering the control. Read/write.
+Returns or sets an **[olEnterFieldBehavior](Outlook.OlEnterFieldBehavior.md)** constant that specifies the selection behavior when entering the control. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md)
 
 ## Remarks
 
-The default value is  **olEnterFieldBehaviorSelectAll**.
+The default value is **olEnterFieldBehaviorSelectAll**.
 
 
 ## See also

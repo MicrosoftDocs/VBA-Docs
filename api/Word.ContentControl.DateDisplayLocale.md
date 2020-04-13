@@ -26,7 +26,7 @@ _expression_. `DateDisplayLocale`
 
 ## Remarks
 
-By default, the  **DateDisplayLocale** property is initially set to the editing language specified in Microsoft Word, if this is different from the location specified in Microsoft Windows.
+By default, the **DateDisplayLocale** property is initially set to the editing language specified in Microsoft Word, if this is different from the location specified in Microsoft Windows.
 
 
 ## See also

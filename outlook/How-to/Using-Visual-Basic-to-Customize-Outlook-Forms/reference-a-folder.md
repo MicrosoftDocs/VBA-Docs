@@ -5,7 +5,7 @@ f1_keywords:
 - olfm10.chm3077416
 ms.prod: outlook
 ms.assetid: 65ccbabd-7ac7-ffd1-d963-e8a029152bd6
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -29,7 +29,7 @@ To reference a folder by a number, use the following code. In this example, the 
 Application.GetNameSpace("MAPI").Folders("Personal Folders").Folders(1)
 ```
 
-To reference any of the default Outlook folders, use the  **GetDefaultFolder** method. Use the appropriate constant value from the ** [OlDefaultFolders Enumeration](../../../api/Outlook.OlDefaultFolders.md)** to specify the folder you want to create.
+To reference any of the default Outlook folders, use the **GetDefaultFolder** method. Use the appropriate constant value from the ** [OlDefaultFolders Enumeration](../../../api/Outlook.OlDefaultFolders.md)** to specify the folder you want to create.
 
 
 

@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Template](Word.Template.md
 
 ## Remarks
 
-This property is ignored if the  **FarEastLineBreakControl** property is set to **False**.
+This property is ignored if the **FarEastLineBreakControl** property is set to **False**.
 
 
 ## Example

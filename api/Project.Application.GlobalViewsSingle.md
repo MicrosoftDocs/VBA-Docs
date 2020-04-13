@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.GlobalViewsSingle property (Project)
 
-Gets or sets a  **[ViewsSingle](Project.ViewSingle.md)** collection representing the single views of the Global.mpt file. Read/write **ViewsSingle**.
+Gets or sets a **[ViewsSingle](Project.ViewSingle.md)** collection representing the single views of the Global.mpt file. Read/write **ViewsSingle**.
 
 
 ## Syntax

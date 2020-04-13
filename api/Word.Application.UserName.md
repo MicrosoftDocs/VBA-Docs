@@ -33,7 +33,7 @@ This example sets the user's name.
 Application.UserName = "Andrew Fuller"
 ```
 
-This example returns the name found in the  **Name** box on the **User Information** tab in the **Options** dialog box (**Tools** menu).
+This example returns the name found in the **Name** box on the **User Information** tab in the **Options** dialog box (**Tools** menu).
 
 
 

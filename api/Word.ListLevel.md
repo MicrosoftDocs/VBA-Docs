@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ListLevel object (Word)
 
-Represents a single list level, either the only level for a bulleted or numbered list or one of the nine levels of an outline numbered list. The  **ListLevel** object is a member of the **ListLevels** collection.
+Represents a single list level, either the only level for a bulleted or numbered list or one of the nine levels of an outline numbered list. The **ListLevel** object is a member of the **ListLevels** collection.
 
 
 ## Remarks
@@ -26,9 +26,9 @@ Use  **ListLevels** (Index), where Index is a number from 1 through 9, to return
 ActiveDocument.ListTemplates(1).ListLevels(1).StartAt = 4
 ```
 
-The  **ListLevel** object gives you access to all the formatting properties for the specified list level, such as the **Alignment**, **Font**, **NumberFormat**, **NumberPosition**, **NumberStyle**, and **TrailingCharacter** properties.
+The **ListLevel** object gives you access to all the formatting properties for the specified list level, such as the **Alignment**, **Font**, **NumberFormat**, **NumberPosition**, **NumberStyle**, and **TrailingCharacter** properties.
 
-To apply a list level, first identify the range or list, and then use the  **ApplyListTemplate** method. Each tab at the beginning of the paragraph is translated into a list level. For example, a paragraph that begins with three tabs will become a level-three list paragraph after the **ApplyListTemplate** method is used.
+To apply a list level, first identify the range or list, and then use the **ApplyListTemplate** method. Each tab at the beginning of the paragraph is translated into a list level. For example, a paragraph that begins with three tabs will become a level-three list paragraph after the **ApplyListTemplate** method is used.
 
 
 ## Methods

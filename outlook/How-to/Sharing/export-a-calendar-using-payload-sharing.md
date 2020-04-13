@@ -2,10 +2,9 @@
 title: Export a Calendar using Payload Sharing
 ms.prod: outlook
 ms.assetid: acd7d29e-12d6-a5ea-c1a6-8b3165b27dc7
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
-
 
 # Export a Calendar using Payload Sharing
 
@@ -14,25 +13,24 @@ Microsoft Outlook includes the ability to share calendar information with other 
 This sample uses the **CalendarSharing** item to share free/busy information for the next seven days with a single recipient:
 
 1. The sample obtains a **[Folder](../../../api/Outlook.Folder.md)** object reference for the **Calendar** default folder for the current user, by using the **[GetDefaultFolder](../../../api/Outlook.NameSpace.GetDefaultFolder.md)** method of the **[NameSpace](../../../api/Outlook.NameSpace.md)** object.
-    
+
 2. It uses the **[GetCalendarExporter](../../../api/Outlook.Folder.GetCalendarExporter.md)** method of the **Folder** object to create a **CalendarSharing** object reference for the folder.
-    
+
 3. It then sets the following properties on the **CalendarSharing** object to restrict the range and level of information exported by the object:
-    
+
    - The **[CalendarDetail](../../../api/Outlook.CalendarSharing.CalendarDetail.md)** property is set to limit the information for each calendar item to free/busy information only.
-    
+
    - The **[StartDate](../../../api/Outlook.CalendarSharing.StartDate.md)** and **[EndDate](../../../api/Outlook.CalendarSharing.EndDate.md)** properties are set to restrict the calendar items included in the file to the next seven days.
-    
+
    - The **[RestrictToWorkingHours](../../../api/Outlook.CalendarSharing.RestrictToWorkingHours.md)** property is set to restrict the calendar items to those that fall within working hours.
-    
+
    - The **[IncludeAttachments](../../../api/Outlook.CalendarSharing.IncludeAttachments.md)** property is set to exclude any attachments for calendar items exported by the object.
-    
+
    - The **[IncludePrivateDetails](../../../api/Outlook.CalendarSharing.IncludePrivateDetails.md)** property is set to exclude the details of any private calendar items exported by the object.
-    
+
 4. It then calles the **[ForwardAsICal](../../../api/Outlook.CalendarSharing.ForwardAsICal.md)** method of the **CalendarSharing** object to export the calendar items to an iCalendar file and create a **MailItem** object with the iCalendar file as an attachment. The **olCalendarMailFormatDailySchedule** constant of the **[olCalendarMailFormat](../../../api/Outlook.OlCalendarMailFormat.md)** enumeration is used with the **ForwardAsICal** method to indicate that the body of the **MailItem** should contain, in HTML format, free/busy information for the next seven days.
-    
+
 5. Finally, the **[Add](../../../api/Outlook.Recipients.Add.md)** method for the **[Recipients](../../../api/Outlook.MailItem.Recipients.md)** collection of the newly created **MailItem** object is called to add the specified recipient and the **[Send](../../../api/Outlook.MailItem.Send(method).md)** method is used to send the **MailItem**.
-    
 
 ```vb
 Public Sub ShareWorkCalendarByPayload() 

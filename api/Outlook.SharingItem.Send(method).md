@@ -26,7 +26,7 @@ _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) 
 
 ## Remarks
 
-The  **Send** method sends an item using the default account specified for the session. In a session where multiple Microsoft Exchange accounts are defined in the profile, the first Exchange account added to the profile is the primary Exchange account, and is also the default account for the session. To specify a different account to send an item, set the **[SendUsingAccount](Outlook.SharingItem.SendUsingAccount.md)** property to the desired **[Account](Outlook.Account.md)** object and then call the **Send** method.
+The **Send** method sends an item using the default account specified for the session. In a session where multiple Microsoft Exchange accounts are defined in the profile, the first Exchange account added to the profile is the primary Exchange account, and is also the default account for the session. To specify a different account to send an item, set the **[SendUsingAccount](Outlook.SharingItem.SendUsingAccount.md)** property to the desired **[Account](Outlook.Account.md)** object and then call the **Send** method.
 
 Certain sharing providers may have restrictions on the type of recipients allowed. When this method is called, some providers will attempt to set access control list (ACL) entries on the folder for each recipient included in the  **SharingItem**. If an error occurs while attempting to set ACLs for any recipient, this method raises an error and the **SharingItem** is not sent to any of the recipients.
 

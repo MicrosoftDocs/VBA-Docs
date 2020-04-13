@@ -2,18 +2,18 @@
 title: Specifying Form Regions in the Windows Registry
 ms.prod: outlook
 ms.assetid: 0de3fcb1-b357-8300-c943-9a5a788d4976
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Specifying Form Regions in the Windows Registry
 
-To run a form that contains a form region on a client computer, you must register the form region in the Windows registry, specifying the message class and other information necessary for Microsoft Outlook to display the form region. This information includes the display name, where the form region appears in a form, any layout file or add-in that implements the form region, any supported user actions, and any localized terms for the user interface. The structure of this information follows a form region XML schema; for more information on the XML schema for form regions, see the Microsoft Outlook 2010 XML Schema Reference in the  [MSDN Library](https://msdn.microsoft.com/library). 
+To run a form that contains a form region on a client computer, you must register the form region in the Windows registry, specifying the message class and other information necessary for Microsoft Outlook to display the form region. This information includes the display name, where the form region appears in a form, any layout file or add-in that implements the form region, any supported user actions, and any localized terms for the user interface. The structure of this information follows a form region XML schema; for more information on the XML schema for form regions, see the Microsoft Outlook 2010 XML Schema Reference in the [MSDN Library](https://msdn.microsoft.com/library). 
 
 There are a few ways to specify this information about the form region in the registry. You can explicitly specify the XML, or a full path to an XML file, that contains this information for the form region and that conforms to the form region XML schema. You can also choose to specify the ProgID of an add-in which will provide Outlook the XML manifest for the form region. When Outlook starts, it reads the list of form regions from the registry and caches the associated data.
 
- **Caution**  Incorrectly editing the Windows registry may severely damage your system. Before making changes to the registry, you should back up any valued data on the computer.
+ **Caution** Incorrectly editing the Windows registry may severely damage your system. Before making changes to the registry, you should back up any valued data on the computer.
 
 
 ## Registering a Form Region
@@ -55,7 +55,7 @@ Outlook allows you to customize the standard form for each of the Outlook messag
 |Task| **IPM.Request**|
 |Task Request| **IPM.Task**|
 
- **Note**  You cannot specify form regions for the root Outlook message class, **IPM**. 
+ **Note** You cannot specify form regions for the root Outlook message class, **IPM**. 
 
 You can add separate form regions as extra pages to a standard form, but you cannot replace any existing pages on the standard form and keep the form for the same Outlook message class. If you need to replace the default page or all pages of a standard form, you will have to derive a new message class for that form, specify a replacement form region to replace the default page or a replace-all form region to replace the entire form, and register that form region for the derived message class.
 
@@ -84,11 +84,7 @@ To register the form region, create the following value in the Windows registry:
 | **Type**|REG_SZ|
 | **Data**|c:\Form Regions\map.xml|
 
-
-The following lists the content of map.xml: 
-
-
-
+The following lists the content of map.xml:
 
 ```xml
 <?xml version="1.0"?> 

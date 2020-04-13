@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Pane.Parent property (Project)
 
-Gets the parent of the  **Pane** object. Read-only **Object**.
+Gets the parent of the **Pane** object. Read-only **Object**.
 
 
 ## Syntax
@@ -23,8 +23,8 @@ _expression_ A variable that represents a [Pane](./Project.Pane.md) object.
 
 ## Remarks
 
-The parent of a  **Pane** object can be a **Window** object in the **Windows** or **Windows2** collection.
+The parent of a **Pane** object can be a **Window** object in the **Windows** or **Windows2** collection.
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

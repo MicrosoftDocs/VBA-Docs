@@ -26,7 +26,7 @@ _expression_.**WindowState**
 
 ## Remarks
 
-The  **wdWindowStateNormal** constant indicates a window that is not maximized or minimized. The state of an inactive window cannot be set. Use the [Activate](Word.ProtectedViewWindow.Activate.md) method to activate a window prior to setting the window state.
+The **wdWindowStateNormal** constant indicates a window that is not maximized or minimized. The state of an inactive window cannot be set. Use the [Activate](Word.ProtectedViewWindow.Activate.md) method to activate a window prior to setting the window state.
 
 
 ## Example

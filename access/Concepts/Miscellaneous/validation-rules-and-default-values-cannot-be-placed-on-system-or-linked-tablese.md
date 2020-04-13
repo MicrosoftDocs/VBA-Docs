@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You are trying to set the  **DefaultValue**, **ValidationRule**, **ValidationText**, or **Required** property on a table, field, or other object that is prohibited by your application. For example, you are setting a property on a system object.
+You are trying to set the **DefaultValue**, **ValidationRule**, **ValidationText**, or **Required** property on a table, field, or other object that is prohibited by your application. For example, you are setting a property on a system object.
 
 ## See also
 

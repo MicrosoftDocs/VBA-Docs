@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Browser.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Browser** object.
+Returns an **Object** that represents the parent object of the specified **Browser** object.
 
 
 ## Syntax

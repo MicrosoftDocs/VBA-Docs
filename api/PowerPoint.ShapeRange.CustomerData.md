@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeRange.CustomerData property (PowerPoint)
 
-Returns a  **[CustomerData](PowerPoint.CustomerData.md)** object.
+Returns a **[CustomerData](PowerPoint.CustomerData.md)** object.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ReportItem.Size property (Outlook)
 
-Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-only.
+Returns a **Long** indicating the size (in bytes) of the Outlook item. Read-only.
 
 
 ## Syntax

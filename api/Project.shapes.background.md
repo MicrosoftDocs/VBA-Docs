@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shapes.Background property (Project)
-The  **Shapes.Background** property is not implemented for Office Art in the Office applications.
+The **Shapes.Background** property is not implemented for Office Art in the Office applications.
 
 ## Syntax
 
@@ -19,7 +19,7 @@ _expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object
 
 ## Remarks
 
-If you try to use the  **Background** property, Project shows a run-time error 445, _Object doesn't support this action_.
+If you try to use the **Background** property, Project shows a run-time error 445, _Object doesn't support this action_.
 
 
 ## Property value

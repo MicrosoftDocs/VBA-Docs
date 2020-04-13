@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AutoFormatRule.Enabled property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether the formatting rule represented by the **[AutoFormatRule](Outlook.AutoFormatRule.md)** object is enabled. Read/write.
+Returns or sets a **Boolean** value that indicates whether the formatting rule represented by the **[AutoFormatRule](Outlook.AutoFormatRule.md)** object is enabled. Read/write.
 
 
 ## Syntax

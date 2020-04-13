@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathLimUpp.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **OMathLimUpp** object.
+Returns an **Object** that represents the parent object of the specified **OMathLimUpp** object.
 
 
 ## Syntax

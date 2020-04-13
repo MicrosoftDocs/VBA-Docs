@@ -30,7 +30,7 @@ _expression_ A variable that represents an [OutlookBarGroups](Outlook.OutlookBar
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Group_|Required| **[OutlookBarGroup](Outlook.OutlookBarGroup.md)**|The  **OutlookBarGroup** that is being removed.|
+| _Group_|Required| **[OutlookBarGroup](Outlook.OutlookBarGroup.md)**|The **OutlookBarGroup** that is being removed.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the group is not removed from the **Shortcuts** pane.|
 
 ## Remarks

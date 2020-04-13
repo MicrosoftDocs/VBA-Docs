@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CalendarView.AutoFormatRules property (Outlook)
 
-Returns an  **[AutoFormatRules](Outlook.AutoFormatRules.md)** object that represents the set of formatting rules applicable to the **[CalendarView](Outlook.CalendarView.md)** object. Read-only.
+Returns an **[AutoFormatRules](Outlook.AutoFormatRules.md)** object that represents the set of formatting rules applicable to the **[CalendarView](Outlook.CalendarView.md)** object. Read-only.
 
 
 ## Syntax

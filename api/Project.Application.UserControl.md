@@ -23,6 +23,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Project sets the  **UserControl** property internally.
+Project sets the **UserControl** property internally.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

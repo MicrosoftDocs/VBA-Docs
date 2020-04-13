@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Conversation.SetAlwaysMoveToFolder method (Outlook)
 
-Sets a  **[Folder](Outlook.Folder.md)** object that indicates the folder to which all existing conversation items and new items that arrive in the conversation are always moved.
+Sets a **[Folder](Outlook.Folder.md)** object that indicates the folder to which all existing conversation items and new items that arrive in the conversation are always moved.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ _expression_ A variable that represents a '[Conversation](Outlook.Conversation.m
 
 ## Remarks
 
-The  **SetAlwaysMoveToFolder** method operates on conversation items in the delivery store specified by the _Store_ parameter. If the _Store_ parameter represents a non-delivery store such as an archive .pst store, the move action will apply to conversation items in the default delivery store.
+The **SetAlwaysMoveToFolder** method operates on conversation items in the delivery store specified by the _Store_ parameter. If the _Store_ parameter represents a non-delivery store such as an archive .pst store, the move action will apply to conversation items in the default delivery store.
 
 If the  _MoveToFolder_ parameter specifies an invalid folder that does not exist, has been moved, or is read-only, Outlook will raise an error.
 
@@ -47,7 +47,7 @@ To stop the always-move-to-folder action for conversations items in a store, cal
 > [!NOTE] 
 > Setting the Deleted Items folder as the  _MoveToFolder_ parameter in **SetAlwaysMoveToFolder** is not equivalent to calling **[SetAlwaysDelete](Outlook.Conversation.SetAlwaysDelete.md)** on the same store and conversation. Setting the _MoveToFolder_ parameter to the Deleted Items folder results in the **[GetAlwaysDelete](Outlook.Conversation.GetAlwaysDelete.md)** method returning the value **olDoNotDelete**.
 
-The  **[BeforeItemMove](Outlook.Folder.BeforeItemMove.md)** event of the **Folder** object occurs when you call **SetAlwaysMoveToFolder**.
+The **[BeforeItemMove](Outlook.Folder.BeforeItemMove.md)** event of the **Folder** object occurs when you call **SetAlwaysMoveToFolder**.
 
 
 ## Example

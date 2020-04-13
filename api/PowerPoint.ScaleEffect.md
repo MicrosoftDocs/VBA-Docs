@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ScaleEffect object (PowerPoint)
 
-Represents a scaling effect for an  **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** object.
+Represents a scaling effect for an **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** object.
 
 
 ## Example

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Assignment.CostVariance property (Project)
 
-Gets the variance between the baseline cost and the cost of an  **Assignment**. Read-only **Variant**.
+Gets the variance between the baseline cost and the cost of an **Assignment**. Read-only **Variant**.
 
 
 ## Syntax

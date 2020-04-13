@@ -16,7 +16,7 @@ Occurs when the user clicks inside the control.
 
 _expression_.**Click**
 
-_expression_ A variable that represents a  **CommandButton** object.
+_expression_ A variable that represents a **CommandButton** object.
 
 
 ## Remarks
@@ -26,7 +26,7 @@ The following are examples of actions that initiate the  **Click** event of the 
 
 - Clicking a blank area of a form or a disabled control (other than a list box) on the form.
     
-- Clicking a  **[CommandButton](Outlook.commandbutton.md)**.
+- Clicking a **[CommandButton](Outlook.commandbutton.md)**.
     
 - Pressing the  **SPACEBAR** when a **CommandButton** has the focus.
     

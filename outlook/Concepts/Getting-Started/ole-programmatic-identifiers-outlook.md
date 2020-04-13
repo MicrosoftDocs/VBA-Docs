@@ -5,14 +5,14 @@ f1_keywords:
 - vbaol11.chm5247509
 ms.prod: outlook
 ms.assetid: 4dc61073-a674-b786-418e-60b46c79d0c6
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # OLE Programmatic Identifiers (Outlook)
 
-You can use an OLE programmatic identifier (sometimes called a ProgID) to create an  **Automation** object. The following tables list OLE programmatic identifiers for ActiveX controls, Microsoft Office applications, and Microsoft Office Web Components.
+You can use an OLE programmatic identifier (sometimes called a ProgID) to create an **Automation** object. The following tables list OLE programmatic identifiers for ActiveX controls, Microsoft Office applications, and Microsoft Office Web Components.
 
  [ActiveX Controls](#OLEActiveXControls)
 

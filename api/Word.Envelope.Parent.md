@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Envelope.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Envelope** object.
+Returns an **Object** that represents the parent object of the specified **Envelope** object.
 
 
 ## Syntax

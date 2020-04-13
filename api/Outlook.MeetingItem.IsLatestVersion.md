@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MeetingItem.IsLatestVersion property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the **[MeetingItem](Outlook.MeetingItem.md)** represents the latest version of the item on the organizer's calendar. Read-only.
+Returns a **Boolean** value that indicates whether the **[MeetingItem](Outlook.MeetingItem.md)** represents the latest version of the item on the organizer's calendar. Read-only.
 
 
 ## Syntax

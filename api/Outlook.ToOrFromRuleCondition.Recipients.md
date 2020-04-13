@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ToOrFromRuleCondition.Recipients property (Outlook)
 
-Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents the recipient list for the evaluation of the rule condition. Read-only.
+Returns a **[Recipients](Outlook.Recipients.md)** collection that represents the recipient list for the evaluation of the rule condition. Read-only.
 
 
 ## Syntax

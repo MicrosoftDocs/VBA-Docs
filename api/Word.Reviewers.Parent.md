@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Reviewers.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Reviewers** object.
+Returns an **Object** that represents the parent object of the specified **Reviewers** object.
 
 
 ## Syntax

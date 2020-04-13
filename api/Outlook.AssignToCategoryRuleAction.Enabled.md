@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AssignToCategoryRuleAction.Enabled property (Outlook)
 
-Returns or sets a  **Boolean** that determines if the rule action is enabled. Read/write.
+Returns or sets a **Boolean** that determines if the rule action is enabled. Read/write.
 
 
 ## Syntax

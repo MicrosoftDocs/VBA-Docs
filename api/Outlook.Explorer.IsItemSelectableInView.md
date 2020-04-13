@@ -34,7 +34,7 @@ _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' obj
 
 ## Return value
 
-A  **Boolean** value that indicates whether the specified item can be selected in the current view.
+A **Boolean** value that indicates whether the specified item can be selected in the current view.
 
 
 ## Remarks
@@ -47,7 +47,7 @@ If in-cell editing is turned on for the current view for the active explorer and
 
 When you specify an item in a recurring appointment or task as argument to the  **IsItemSelectableInView** method, make sure that before you pass the argument, you obtain an instance of the occurrence by first expanding the recurrences, using the **[IncludeRecurrences](Outlook.Items.IncludeRecurrences.md)** property and the **[Items](Outlook.Items.md)** collection. If you do not expand the recurrences and obtain an occurrence in the series, you would be passing an instance variable that represents the appointment or task series, and the **IsItemSelectableInView** method would be operating on the series instead of the occurrence.
 
-The  **IsItemSelectableInView** method raises an error if the current view is a conversation view.
+The **IsItemSelectableInView** method raises an error if the current view is a conversation view.
 
 
 ## See also

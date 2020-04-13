@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AnimationPoints object (PowerPoint)
 
-Represents a collection of animation points for a  **[PropertyEffect](PowerPoint.PropertyEffect.md)** object.
+Represents a collection of animation points for a **[PropertyEffect](PowerPoint.PropertyEffect.md)** object.
 
 
 ## Example

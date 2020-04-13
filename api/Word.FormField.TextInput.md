@@ -26,9 +26,9 @@ _expression_. `TextInput`
 
 ## Remarks
 
-If the  **TextInput** property is applied to a **FormField** object that isn't a drop-down form field, the property won't fail, but the **Valid** property for the returned object will be **False**.
+If the **TextInput** property is applied to a **FormField** object that isn't a drop-down form field, the property won't fail, but the **Valid** property for the returned object will be **False**.
 
-Use the  **Result** property with the **FormField** object to return or set the contents of a **TextInput** object, as follows:
+Use the **Result** property with the **FormField** object to return or set the contents of a **TextInput** object, as follows:
 
 
 ## Example

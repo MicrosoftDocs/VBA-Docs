@@ -2,14 +2,14 @@
 title: Filtering Items Using an Integer Comparison
 ms.prod: outlook
 ms.assetid: c67d95b2-f635-b751-d9c6-c7bdf406a01a
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Filtering Items Using an Integer Comparison
 
-You can compare an integer property with an integer value in a filter string using Microsoft Jet syntax or DAV Searching and Locating (DASL) syntax. You can specify the integer value with or without quotation marks as delimiters. The following three filter strings filter on the condition that the  **Importance** value is high:
+You can compare an integer property with an integer value in a filter string using Microsoft Jet syntax or DAV Searching and Locating (DASL) syntax. You can specify the integer value with or without quotation marks as delimiters. The following three filter strings filter on the condition that the **Importance** value is high:
 
 
 ```vb

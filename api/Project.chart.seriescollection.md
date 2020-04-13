@@ -11,7 +11,7 @@ localization_priority: Normal
 
 
 # Chart.SeriesCollection method (Project)
-Returns an object that represents either one series (a  **[Series](Project.series.md)** object) or a collection of the series (a **[SeriesCollection](Project.seriescollection.md)** object) in the chart or chart group.
+Returns an object that represents either one series (a **[Series](Project.series.md)** object) or a collection of the series (a **[SeriesCollection](Project.seriescollection.md)** object) in the chart or chart group.
 
 ## Syntax
 
@@ -67,7 +67,7 @@ Sub GetSeriesValue()
 End Sub
 ```
 
-For example, running the  **GetSeriesValue** macro on a chart that includes a plot of actual work for tasks, could have the following output: `Value of the Actual Work series, for task T1: 16`
+For example, running the **GetSeriesValue** macro on a chart that includes a plot of actual work for tasks, could have the following output: `Value of the Actual Work series, for task T1: 16`
 
 
 ## See also

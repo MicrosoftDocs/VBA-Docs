@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkSenderPhoto.PreferredHeight property (Outlook)
 
-Returns a  **Long** that specifies the application-preferred height of the sender picture. Read-only.
+Returns a **Long** that specifies the application-preferred height of the sender picture. Read-only.
 
 
 ## Syntax

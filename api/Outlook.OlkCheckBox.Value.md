@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkCheckBox.Value property (Outlook)
 
-Returns or sets a  **Variant** that specifies the state of the control. Read/write.
+Returns or sets a **Variant** that specifies the state of the control. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkCheckBox](Outlook.OlkCheckBox.md)
 
 ## Remarks
 
-For the check box control, this property is  **True** or **False**, or if the **[TripleState](Outlook.OlkCheckBox.TripleState.md)** property is set, the **Value** property can also be **Null** (**Nothing** in Visual Basic). The default value is **False**.
+For the check box control, this property is **True** or **False**, or if the **[TripleState](Outlook.OlkCheckBox.TripleState.md)** property is set, the **Value** property can also be **Null** (**Nothing** in Visual Basic). The default value is **False**.
 
 
 ## See also

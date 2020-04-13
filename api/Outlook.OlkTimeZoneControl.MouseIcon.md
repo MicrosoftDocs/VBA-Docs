@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTimeZoneControl.MouseIcon property (Outlook)
 
-Returns or sets a  **StdPicture** that represents a custom picture to the mouse cursor for this control. Read/write.
+Returns or sets a **StdPicture** that represents a custom picture to the mouse cursor for this control. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkTimeZoneControl](Outlook.OlkTimeZ
 
 ## Remarks
 
-The default value is  **Null** (**Nothing** in Visual Basic).
+The default value is **Null** (**Nothing** in Visual Basic).
 
 
 ## See also

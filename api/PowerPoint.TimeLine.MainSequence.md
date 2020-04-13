@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimeLine.MainSequence property (PowerPoint)
 
-Returns a  **[Sequence](PowerPoint.Sequence.md)** object that represents the collection of **[Effect](PowerPoint.Effect.md)** objects in the main animation sequence of a slide.
+Returns a **[Sequence](PowerPoint.Sequence.md)** object that represents the collection of **[Effect](PowerPoint.Effect.md)** objects in the main animation sequence of a slide.
 
 
 ## Syntax

@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Item_|Required|**Long**|The type of calendar day to change. Can be one of the  **[PjCalendarShading](Project.PjCalendarShading.md)** constants.|
+| _Item_|Required|**Long**|The type of calendar day to change. Can be one of the **[PjCalendarShading](Project.PjCalendarShading.md)** constants.|
 | _Pattern_|Optional|**Long**|The pattern for the type of date box specified by  **Item**. Can be one of the **[PjFillPattern](Project.PjFillPattern.md)** constants.|
 | _Color_|Optional|**Long**|The color for the type of date box specified by  **Item**. Can be one of the **[PjColor](Project.PjColor.md)** constants.|
 
@@ -48,7 +48,7 @@ Besides  _Item_, **CalendarDateShadingEdit** requires either the _Pattern_ or _C
 ? CalendarDateShadingEdit (PjCalendarShading.pjBaseWorking, , &H01dddd)
 ```
 
-To edit calendar date boxes where the colors can be RGB values, use the  **[CalendarDateShadingEditEx](Project.Application.CalendarDateShadingEditEx.md)** method.
+To edit calendar date boxes where the colors can be RGB values, use the **[CalendarDateShadingEditEx](Project.Application.CalendarDateShadingEditEx.md)** method.
 
 
 ## Example

@@ -26,7 +26,7 @@ _expression_.**Type**
 
 ## Remarks
 
-You can use the  **Type** property to change the type of a content control from one type to another. However, the ability to change the type of control depends on the original type and on the content inside the content control at the time of the change. All content controls can be changed to rich text or building block gallery type content controls because these types allow arbitrary content. For other types, if the content is valid for the type that you want to change to, then changing the type is allowed. Otherwise, the change is rejected, resulting in a run-time error.
+You can use the **Type** property to change the type of a content control from one type to another. However, the ability to change the type of control depends on the original type and on the content inside the content control at the time of the change. All content controls can be changed to rich text or building block gallery type content controls because these types allow arbitrary content. For other types, if the content is valid for the type that you want to change to, then changing the type is allowed. Otherwise, the change is rejected, resulting in a run-time error.
 
 
 ## Example

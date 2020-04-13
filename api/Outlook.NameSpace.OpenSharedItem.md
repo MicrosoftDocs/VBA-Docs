@@ -34,7 +34,7 @@ _expression_. `OpenSharedItem`( `_Path_` )
 
 ## Return value
 
-An  **Object** representing the appropriate Outlook item for the shared item.
+An **Object** representing the appropriate Outlook item for the shared item.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimeLine.InteractiveSequences property (PowerPoint)
 
-Returns a  **[Sequences](PowerPoint.Sequences.md)** object that represents animations that are triggered by click a specified shape.
+Returns a **[Sequences](PowerPoint.Sequences.md)** object that represents animations that are triggered by click a specified shape.
 
 
 ## Syntax

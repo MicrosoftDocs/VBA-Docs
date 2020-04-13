@@ -33,7 +33,7 @@ _expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 ## Remarks
 
-Use the  **ZOrderPosition** property to determine the current position of a shape in the z-order.
+Use the **ZOrderPosition** property to determine the current position of a shape in the z-order.
 
 
 ## See also

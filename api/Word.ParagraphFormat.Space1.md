@@ -28,7 +28,7 @@ _expression_ Required. A variable that represents a '[ParagraphFormat](Word.Para
 
 The exact spacing is determined by the font size of the largest characters in each paragraph.
 
-You can also use the  **[LineSpacingRule](Word.ParagraphFormat.LineSpacingRule.md)** property to set the spacing of paragraphs. The following two statements are equivalent:
+You can also use the **[LineSpacingRule](Word.ParagraphFormat.LineSpacingRule.md)** property to set the spacing of paragraphs. The following two statements are equivalent:
 
 
 

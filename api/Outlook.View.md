@@ -19,7 +19,7 @@ Represents a customizable view used to sort, group, and view data.
 
 ## Remarks
 
-The  **View** object allows you to create customizable views that allow you to better sort, group and ultimately view data of all different types. There are a variety of different view types that provide the flexibility needed to create and maintain your important data.
+The **View** object allows you to create customizable views that allow you to better sort, group and ultimately view data of all different types. There are a variety of different view types that provide the flexibility needed to create and maintain your important data.
 
 
 - The table view type (**olTableView**) allows you to view data in a simple field-based table.

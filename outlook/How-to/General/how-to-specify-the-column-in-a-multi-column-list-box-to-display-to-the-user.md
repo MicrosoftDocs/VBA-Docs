@@ -5,23 +5,23 @@ f1_keywords:
 - olfm10.chm3077255
 ms.prod: outlook
 ms.assetid: f56b48b4-8ea7-8b77-99a1-0b522f0c9db3
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Specify the Column in a Multi-Column List Box to Display to the User
 
-The following example uses the  **[TextColumn](../../../api/Outlook.listbox.textcolumn.md)** property to identify the column of data in a **[ListBox](../../../api/Outlook.listbox.md)** that supplies data for its **[Text](../../../api/Outlook.listbox.text.md)** property. This example sets the third column of the **ListBox** as the text column. As you select an entry from the **ListBox**, the value from the  **TextColumn** will be displayed in the **[TextBox](../../../api/Outlook.textbox.md)**.
+The following example uses the **[TextColumn](../../../api/Outlook.listbox.textcolumn.md)** property to identify the column of data in a **[ListBox](../../../api/Outlook.listbox.md)** that supplies data for its **[Text](../../../api/Outlook.listbox.text.md)** property. This example sets the third column of the **ListBox** as the text column. As you select an entry from the **ListBox**, the value from the **TextColumn** will be displayed in the **[TextBox](../../../api/Outlook.textbox.md)**.
 
-This example also demonstrates how to load a multicolumn  **ListBox** using the **[AddItem](../../../api/Outlook.listbox.additem.md)** method and the **[List](../../../api/Outlook.listbox.list.md)** property.
+This example also demonstrates how to load a multicolumn **ListBox** using the **[AddItem](../../../api/Outlook.listbox.additem.md)** method and the **[List](../../../api/Outlook.listbox.list.md)** property.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
 
-- A  **ListBox** named ListBox1.
+- A **ListBox** named ListBox1.
     
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.
     
 
 

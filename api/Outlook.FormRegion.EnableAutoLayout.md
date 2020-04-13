@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormRegion.EnableAutoLayout property (Outlook)
 
-Returns or sets a  **Boolean** that specifies whether to use the automatic layout resizing feature when designing form regions in the forms designer. Read/write
+Returns or sets a **Boolean** that specifies whether to use the automatic layout resizing feature when designing form regions in the forms designer. Read/write
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ A variable that represents a [FormRegion](Outlook.FormRegion.md) ob
 
 The automatic layout resizing feature in the forms designer recalculates the form layout dynamically as the form is resized. This feature is only available to form regions in the forms designer.
 
-When this property is  **True**, the forms designer performs automatic layout resizing. When this property is **False**, the forms designer does not perform automatic layout resizing. The default value is **True**.
+When this property is **True**, the forms designer performs automatic layout resizing. When this property is **False**, the forms designer does not perform automatic layout resizing. The default value is **True**.
 
 
 ## See also

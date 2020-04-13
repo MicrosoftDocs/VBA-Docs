@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # Tabs.Clear Method (Outlook Forms Script)
 
-Removes all tabs from a  **[Tabs](Outlook.tabs.md)** collection.
+Removes all tabs from a **[Tabs](Outlook.tabs.md)** collection.
 
 
 ## Syntax
 
 _expression_.**Clear**
 
-_expression_ A variable that represents a  **Tabs** object.
+_expression_ A variable that represents a **Tabs** object.
 
 
 ## Remarks

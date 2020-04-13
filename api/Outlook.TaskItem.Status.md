@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskItem.Status property (Outlook)
 
-Returns or sets an  **[OlTaskStatus](Outlook.OlTaskStatus.md)** constant specifying the status for the task. Corresponds to the **Status** field of a **[TaskItem](Outlook.TaskItem.md)**. Read/write.
+Returns or sets an **[OlTaskStatus](Outlook.OlTaskStatus.md)** constant specifying the status for the task. Corresponds to the **Status** field of a **[TaskItem](Outlook.TaskItem.md)**. Read/write.
 
 
 ## Syntax

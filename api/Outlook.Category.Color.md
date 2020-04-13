@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Category.Color property (Outlook)
 
-Returns or sets an  **[OlCategoryColor](Outlook.OlCategoryColor.md)** constant that indicates the color used by the **[Category](Outlook.Category.md)** object. Read/write.
+Returns or sets an **[OlCategoryColor](Outlook.OlCategoryColor.md)** constant that indicates the color used by the **[Category](Outlook.Category.md)** object. Read/write.
 
 
 ## Syntax

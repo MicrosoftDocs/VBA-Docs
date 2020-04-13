@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SelectNamesDialog.InitialAddressList property (Outlook)
 
-Returns or sets an  **[AddressList](Outlook.AddressList.md)** object that determines the initial address list to be displayed in the **Select Names** dialog box. Read/write.
+Returns or sets an **[AddressList](Outlook.AddressList.md)** object that determines the initial address list to be displayed in the **Select Names** dialog box. Read/write.
 
 
 ## Syntax

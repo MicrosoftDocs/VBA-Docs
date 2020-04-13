@@ -23,6 +23,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-For example, in a pre-release installation of 32-bit Microsoft Windows 7, the  **OperatingSystem** property is "Windows (32-bit) NT 6.1".
+For example, in a pre-release installation of 32-bit Microsoft Windows 7, the **OperatingSystem** property is "Windows (32-bit) NT 6.1".
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.ReadReceiptRequested property (Outlook)
 
-Returns a  **Boolean** value that indicates **True** if a read receipt has been requested by the sender.
+Returns a **Boolean** value that indicates **True** if a read receipt has been requested by the sender.
 
 
 ## Syntax

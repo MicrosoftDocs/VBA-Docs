@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Presentation.Research property (PowerPoint)
 
-Returns a  **Research** object that provides access to the research service feature of Microsoft PowerPoint. Read-only.
+Returns a **Research** object that provides access to the research service feature of Microsoft PowerPoint. Read-only.
 
 
 ## Syntax

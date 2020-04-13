@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **NewProject** event for the default project is analogous to the **Open** event for existing projects. The **NewProject** event occurs before the **Activate** event for a new project. Project events do not occur when the project is embedded in another document or application. For more information and sample code for creating and testing an event handler, see [Using Events with Application and Project Objects](../project/Concepts/using-events-with-application-and-project-objects.md).
+The **NewProject** event for the default project is analogous to the **Open** event for existing projects. The **NewProject** event occurs before the **Activate** event for a new project. Project events do not occur when the project is embedded in another document or application. For more information and sample code for creating and testing an event handler, see [Using Events with Application and Project Objects](../project/Concepts/using-events-with-application-and-project-objects.md).
 
 
 ## Example

@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Chart.DataTable property (Project)
-Gets an  **Office.IMsoDataTable** object that represents the chart data table. Read-only **IMsoDataTable**.
+Gets an **Office.IMsoDataTable** object that represents the chart data table. Read-only **IMsoDataTable**.
 
 ## Syntax
 
@@ -19,7 +19,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Remarks
 
-To see the  **IMsoDataTable** object, right-click in the Object Browser, and then choose **Show Hidden Members**.
+To see the **IMsoDataTable** object, right-click in the Object Browser, and then choose **Show Hidden Members**.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Project.MakeServerURLTrusted method (Project)
 
-Adds the URL specified in the  **[ServerURL](overview/Project.md)** property to the **Trusted sites** zone in the **Security** tab of the **Internet Options** dialog box in Internet Explorer.
+Adds the URL specified in the **[ServerURL](overview/Project.md)** property to the **Trusted sites** zone in the **Security** tab of the **Internet Options** dialog box in Internet Explorer.
 
 
 ## Syntax

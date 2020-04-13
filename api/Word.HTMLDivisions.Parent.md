@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # HTMLDivisions.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **HTMLDivisions** object.
+Returns an **Object** that represents the parent object of the specified **HTMLDivisions** object.
 
 
 ## Syntax

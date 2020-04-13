@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.Email1Address property (Outlook)
 
-Returns or sets a  **String** representing the email address of the first email entry for the contact. Read/write.
+Returns or sets a **String** representing the email address of the first email entry for the contact. Read/write.
 
 
 ## Syntax

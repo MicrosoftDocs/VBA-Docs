@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimelineView.ItemFont property (Outlook)
 
-Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font used when displaying Outlook items in the **[TimelineView](Outlook.TimelineView.md)** object. Read-only.
+Returns a **[ViewFont](Outlook.ViewFont.md)** object that represents the font used when displaying Outlook items in the **[TimelineView](Outlook.TimelineView.md)** object. Read-only.
 
 
 ## Syntax

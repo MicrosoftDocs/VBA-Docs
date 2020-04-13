@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleConditions.SenderInAddressList property (Outlook)
 
-Returns a  **[SenderInAddressListRuleCondition](Outlook.SenderInAddressListRuleCondition.md)** object with a **[SenderInAddressListRuleCondition.ConditionType](Outlook.SenderInAddressListRuleCondition.ConditionType.md)** of **olConditionAccount**. Read-only.
+Returns a **[SenderInAddressListRuleCondition](Outlook.SenderInAddressListRuleCondition.md)** object with a **[SenderInAddressListRuleCondition.ConditionType](Outlook.SenderInAddressListRuleCondition.ConditionType.md)** of **olConditionAccount**. Read-only.
 
 
 ## Syntax

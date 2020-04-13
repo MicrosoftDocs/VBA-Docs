@@ -5,26 +5,24 @@ f1_keywords:
 - olfm10.chm3077220
 ms.prod: outlook
 ms.assetid: d478d32f-41b0-e64b-143a-3fac6f8b9624
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Allow Multiple Lines, Word Wrapping, and Scrolling in a Text Box
 
-The following example demonstrates the  **[MultiLine](../../../api/Outlook.textbox.multiline.md)**,  **[WordWrap](../../../api/Outlook.textbox.wordwrap.md)**, and  **[ScrollBars](../../../api/Outlook.textbox.scrollbars.md)** properties on a **[TextBox](../../../api/Outlook.textbox.md)**.
+The following example demonstrates the **[MultiLine](../../../api/Outlook.textbox.multiline.md)**, **[WordWrap](../../../api/Outlook.textbox.wordwrap.md)**, and **[ScrollBars](../../../api/Outlook.textbox.scrollbars.md)** properties on a **[TextBox](../../../api/Outlook.textbox.md)**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.
     
-- Four  **[ToggleButton](../../../api/Outlook.togglebutton.md)** controls named ToggleButton1 through ToggleButton4.
+- Four **[ToggleButton](../../../api/Outlook.togglebutton.md)** controls named ToggleButton1 through ToggleButton4.
     
-To see the entire text placed in the  **TextBox**, set  **MultiLine** and **WordWrap** to **True** by clicking the **ToggleButton** controls.
-When  **MultiLine** is **True**, you can enter new lines of text by pressing SHIFT+ENTER.
+To see the entire text placed in the **TextBox**, set **MultiLine** and **WordWrap** to **True** by clicking the **ToggleButton** controls.
+When **MultiLine** is **True**, you can enter new lines of text by pressing SHIFT+ENTER.
  **ScrollBars** appears when you manually change the content of the **TextBox**.
-
-
 
 ```vb
 Dim ToggleButton1 

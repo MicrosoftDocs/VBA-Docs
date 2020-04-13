@@ -26,9 +26,9 @@ _expression_. `StrikeThrough`
 
 ## Remarks
 
-The  **StrikeThrough** property returns **True**, **False** or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True**, **False**, or **wdToggle**.
+The **StrikeThrough** property returns **True**, **False** or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True**, **False**, or **wdToggle**.
 
-To set or return double strikethrough formatting, use the  **[DoubleStrikeThrough](Word.Font.DoubleStrikeThrough.md)** property.
+To set or return double strikethrough formatting, use the **[DoubleStrikeThrough](Word.Font.DoubleStrikeThrough.md)** property.
 
 
 ## Example

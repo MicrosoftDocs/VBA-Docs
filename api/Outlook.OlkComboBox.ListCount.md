@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkComboBox.ListCount property (Outlook)
 
-Returns a  **Long** that specifies the number of elements in the drop-down list of the combo box control. Read-only.
+Returns a **Long** that specifies the number of elements in the drop-down list of the combo box control. Read-only.
 
 
 ## Syntax

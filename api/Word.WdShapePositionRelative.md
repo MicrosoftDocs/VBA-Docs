@@ -11,12 +11,12 @@ localization_priority: Normal
 
 # WdShapePositionRelative enumeration (Word)
 
-Specifies whether the  **LeftRelative** or **TopRelative** property for a **[Shape](Word.Shape.md)** or **[ShapeRange](Word.shaperange.md)** object is valid.
+Specifies whether the **LeftRelative** or **TopRelative** property for a **[Shape](Word.Shape.md)** or **[ShapeRange](Word.shaperange.md)** object is valid.
 
 
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **wdShapePositionRelativeNone**|-999999|Specifies that the  **LeftRelative** or **TopRelative** property is not currently valid, so the shape is positioned according to the value specified in the **Left** or **Top** property, respectively.|
+| **wdShapePositionRelativeNone**|-999999|Specifies that the **LeftRelative** or **TopRelative** property is not currently valid, so the shape is positioned according to the value specified in the **Left** or **Top** property, respectively.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

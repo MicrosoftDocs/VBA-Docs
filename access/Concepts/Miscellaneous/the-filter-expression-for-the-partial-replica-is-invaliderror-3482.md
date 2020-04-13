@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The  **ReplicaFilter** property was set to an invalid string.
+The **ReplicaFilter** property was set to an invalid string.
 
 ## See also
 

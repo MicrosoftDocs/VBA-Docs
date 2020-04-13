@@ -2,22 +2,22 @@
 title: Search the Inbox for Items with Subject Containing "Office"
 ms.prod: outlook
 ms.assetid: 2a2fa978-8652-edd4-ad8f-efeffc8faf65
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Search the Inbox for Items with Subject Containing "Office"
 
-This topic shows two code samples that use DASL queries to search for items in the Inbox that contain "Office" in the subject line. The first code sample uses  **[Folder.GetTable](../../../api/Outlook.Folder.GetTable.md)** and the second uses **[Application.AdvancedSearch](../../../api/Outlook.Application.AdvancedSearch.md)** to apply the DASL query.
+This topic shows two code samples that use DASL queries to search for items in the Inbox that contain "Office" in the subject line. The first code sample uses **[Folder.GetTable](../../../api/Outlook.Folder.GetTable.md)** and the second uses **[Application.AdvancedSearch](../../../api/Outlook.Application.AdvancedSearch.md)** to apply the DASL query.
 
-Each of the code samples uses the content indexer keyword  **ci_phrasematch** in a DASL filter on the property **https://schemas.microsoft.com/mapi/proptag/0x0037001E** (the **Subject** property referenced by the MAPI ID namespace) to search for the word "office" in the subject. It applies the filter to items in the Inbox (by using **Folder.GetTable** or **Application.AdvancedSearch**), and prints the subject line of each item returned from the search.
+Each of the code samples uses the content indexer keyword **ci_phrasematch** in a DASL filter on the property **https://schemas.microsoft.com/mapi/proptag/0x0037001E** (the **Subject** property referenced by the MAPI ID namespace) to search for the word "office" in the subject. It applies the filter to items in the Inbox (by using **Folder.GetTable** or **Application.AdvancedSearch**), and prints the subject line of each item returned from the search.
 
- **Note**  The match is not case-sensitive so any item containing "Office" or "office" in the subject will be returned by  **Folder.GetTable** or **Application.AdvancedSearch**. Notice that each sample prints the subject of each row in the resultant  **[Table](../../../api/Outlook.Table.md)**. It chooses to use the lighter weight  **Table** object instead of the **[Search.Results](../../../api/Outlook.Search.Results.md)** object for better performance. The **Subject** property is included in a **Table** returned by a search on any folder. 
+ **Note** The match is not case-sensitive so any item containing "Office" or "office" in the subject will be returned by **Folder.GetTable** or **Application.AdvancedSearch**. Notice that each sample prints the subject of each row in the resultant **[Table](../../../api/Outlook.Table.md)**. It chooses to use the lighter weight **Table** object instead of the **[Search.Results](../../../api/Outlook.Search.Results.md)** object for better performance. The **Subject** property is included in a **Table** returned by a search on any folder. 
  
- But like any folder in Outlook, the Inbox can contain heterogenous items and is not confined to mail items. If you want to access a property that is specific to a certain item type in the Inbox, use **[Columns.Add](../../../api/Outlook.Columns.Add.md)** to include that property and update the **Table**, and for each row returned in the  **Table**, check the message type of the item before accessing the property.
+ But like any folder in Outlook, the Inbox can contain heterogenous items and is not confined to mail items. If you want to access a property that is specific to a certain item type in the Inbox, use **[Columns.Add](../../../api/Outlook.Columns.Add.md)** to include that property and update the **Table**, and for each row returned in the **Table**, check the message type of the item before accessing the property.
 
-This code sample uses  **Folder.GetTable** to do the search:
+This code sample uses **Folder.GetTable** to do the search:
 
 
 
@@ -43,7 +43,7 @@ Sub RestrictTableForInbox()
 End Sub
 ```
 
-This code sample uses  **Application.AdvancedSearch** to do the search:
+This code sample uses **Application.AdvancedSearch** to do the search:
 
 
 

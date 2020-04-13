@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
 ## Remarks
 
-Active custom dictionaries are marked with a check in the  **Custom Dictionaries** dialog box.
+Active custom dictionaries are marked with a check in the **Custom Dictionaries** dialog box.
 
  For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 

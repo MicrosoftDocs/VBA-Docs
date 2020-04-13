@@ -5,14 +5,11 @@ f1_keywords:
 - jeterr40.chm5003449
 ms.prod: access
 ms.assetid: 477e2ff0-8c5b-69a0-8eb6-507ec1fae2e5
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
-
 # No country code found in the connection string. (Error 3449)
-
-  
 
 **Applies to:** Access 2013 | Access 2016
 

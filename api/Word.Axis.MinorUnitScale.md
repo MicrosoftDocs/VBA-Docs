@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.MinorUnitScale property (Word)
 
-Returns or sets the minor unit scale value for the category axis when the  **[CategoryType](Word.Axis.CategoryType.md)** property is set to **xlTimeScale**. Read/write **[XlTimeUnit](Word.xltimeunit.md)**.
+Returns or sets the minor unit scale value for the category axis when the **[CategoryType](Word.Axis.CategoryType.md)** property is set to **xlTimeScale**. Read/write **[XlTimeUnit](Word.xltimeunit.md)**.
 
 
 ## Syntax

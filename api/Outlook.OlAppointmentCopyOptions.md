@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlAppointmentCopyOptions enumeration (Outlook)
 
-Specifies what actions to take when copying an  **[AppointmentItem](Outlook.AppointmentItem.md)** object to a folder.
+Specifies what actions to take when copying an **[AppointmentItem](Outlook.AppointmentItem.md)** object to a folder.
 
 
 

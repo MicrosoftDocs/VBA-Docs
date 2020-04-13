@@ -26,7 +26,7 @@ _expression_.**OddAndEvenPagesHeaderFooter**
 
 ## Remarks
 
-The  **OddAndEvenPagesHeaderFooter** property can be **True**, **False**, or **wdUndefined**.
+The **OddAndEvenPagesHeaderFooter** property can be **True**, **False**, or **wdUndefined**.
 
 
 ## Example

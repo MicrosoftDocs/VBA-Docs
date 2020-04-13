@@ -5,7 +5,7 @@ f1_keywords:
 - jeterr40.chm5002429
 ms.prod: access
 ms.assetid: 40f2356c-f891-1d90-17be-ace51c989357
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-When coding an SQL statement that includes the  **In** operator, you must surround the list of items to test with parentheses. For example, to see if a value is one of a set of values, you could use the following code in the WHERE clause of an SQL query:
+When coding an SQL statement that includes the **In** operator, you must surround the list of items to test with parentheses. For example, to see if a value is one of a set of values, you could use the following code in the WHERE clause of an SQL query:
 
 
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # UserProperty.Value property (Outlook)
 
-Returns or sets a  **Variant** indicating the value for the specified custom property. Read/write.
+Returns or sets a **Variant** indicating the value for the specified custom property. Read/write.
 
 
 ## Syntax

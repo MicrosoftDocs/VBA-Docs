@@ -19,7 +19,7 @@ _expression_ A variable that represents a 'Report' object.
 
 ## Example
 
-The following example lists the shapes in a custom report. The report must be the active view to get the  **Shapes** collection; otherwise, you get a run-time error 424 (Object required) in the `For Each oShape In oReport.Shapes` statement.
+The following example lists the shapes in a custom report. The report must be the active view to get the **Shapes** collection; otherwise, you get a run-time error 424 (Object required) in the `For Each oShape In oReport.Shapes` statement.
 
 
 ```vb

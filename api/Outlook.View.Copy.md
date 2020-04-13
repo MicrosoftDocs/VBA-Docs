@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # View.Copy method (Outlook)
 
-Creates a new instance of a  **[View](Outlook.View.md)** object.
+Creates a new instance of a **[View](Outlook.View.md)** object.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [View](Outlook.View.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required| **String**|Represents the name of the new  **View** object.|
+| _Name_|Required| **String**|Represents the name of the new **View** object.|
 | _SaveOption_|Optional| **[OlViewSaveOption](Outlook.OlViewSaveOption.md)**|The save option that defines the permissions of the  **View** object.|
 
 ## Example

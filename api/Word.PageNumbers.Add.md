@@ -35,7 +35,7 @@ _expression_ Required. A variable that represents a **[PageNumbers](Word.PageNum
 
 ## Remarks
 
-If the  **LinkToPrevious** property for the **HeaderFooter** object is set to **True**, the page numbers will continue sequentially from one section to next throughout the document.
+If the **LinkToPrevious** property for the **HeaderFooter** object is set to **True**, the page numbers will continue sequentially from one section to next throughout the document.
 
 
 ## Example

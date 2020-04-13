@@ -23,9 +23,9 @@ _expression_ A variable that represents an [Availability](./Project.Availability
 
 ## Remarks
 
-If the  **AvailableUnit** value is 100, the resource is available 100% of the time.
+If the **AvailableUnit** value is 100, the resource is available 100% of the time.
 
-You can set availability information on the  **General** tab of the **Resource Information** dialog box, in the **Resource Availability** grid.
+You can set availability information on the **General** tab of the **Resource Information** dialog box, in the **Resource Availability** grid.
 
 
 ## Example

@@ -2,7 +2,7 @@
 title: Storing values when a macro ends
 ms.prod: word
 ms.assetid: 25d6d0ba-d103-3573-d534-1157cfb603f0
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

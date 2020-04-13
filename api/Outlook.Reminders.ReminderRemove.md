@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Reminders.ReminderRemove event (Outlook)
 
-Occurs when a  **[Reminder](Outlook.Reminder.md)** object has been removed from the collection.
+Occurs when a **[Reminder](Outlook.Reminder.md)** object has been removed from the collection.
 
 
 ## Syntax
@@ -29,9 +29,9 @@ _expression_ A variable that represents a [Reminders](Outlook.Reminders.md) obje
 A reminder can be removed from the  **Reminders** collection by any of the following means:
 
 
-- The  **Reminders** collection's **[Remove](Outlook.Reminders.Remove.md)** method.
+- The **Reminders** collection's **[Remove](Outlook.Reminders.Remove.md)** method.
     
-- The  **Reminder** object's **[Dismiss](Outlook.Reminder.Dismiss.md)** method.
+- The **Reminder** object's **[Dismiss](Outlook.Reminder.Dismiss.md)** method.
     
 - When the user clicks the  **Dismiss** button.
     
@@ -42,7 +42,7 @@ A reminder can be removed from the  **Reminders** collection by any of the follo
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example displays a message to the user when a  **[Reminder](Outlook.Reminder.md)** object is removed from the collection.
+The following Microsoft Visual Basic for Applications (VBA) example displays a message to the user when a **[Reminder](Outlook.Reminder.md)** object is removed from the collection.
 
 
 ```vb

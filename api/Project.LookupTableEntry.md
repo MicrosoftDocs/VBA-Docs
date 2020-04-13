@@ -14,7 +14,7 @@ localization_priority: Normal
 
  
 
-Represents an entry in a lookup table in Project. The  **LookupTableEntry** object is a member of the **[LookupTable](Project.lookuptable.md)** collection.
+Represents an entry in a lookup table in Project. The **LookupTableEntry** object is a member of the **[LookupTable](Project.lookuptable.md)** collection.
  
  **Using the LookupTableEntry Object**
  

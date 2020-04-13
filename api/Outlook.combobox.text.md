@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ComboBox.Text Property (Outlook Forms Script)
 
-Returns or sets a  **String** that specifies text in a **[ComboBox](Outlook.combobox.md)**, changing the selected row in the control. Read/write.
+Returns or sets a **String** that specifies text in a **[ComboBox](Outlook.combobox.md)**, changing the selected row in the control. Read/write.
 
 
 ## Syntax
 
 _expression_.**Text**
 
-_expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a **ComboBox** object.
 
 
 ## Remarks
@@ -32,6 +32,6 @@ When the  **Text** property of a **ComboBox** changes (such as when a user types
 
 You cannot use  **Text** to change the value of an entry in a **ComboBox**; use the  **[Column](Outlook.combobox.column.md)** or **[List](Outlook.combobox.list.md)** property for this purpose.
 
-The  **[ForeColor](Outlook.combobox.forecolor.md)** property determines the color of the text.
+The **[ForeColor](Outlook.combobox.forecolor.md)** property determines the color of the text.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

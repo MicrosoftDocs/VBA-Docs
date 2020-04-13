@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.Actions property (Outlook)
 
-Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the available actions for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
+Returns an **[Actions](Outlook.Actions.md)** collection that represents all the available actions for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax

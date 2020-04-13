@@ -18,7 +18,7 @@ Represents a pane of a window. (There is no collection for  **Pane** objects.) Y
  
  **Using the Pane Object**
  
-Use a property such as the  **[BottomPane](Project.Window.BottomPane.md)** property to return a **Pane** object. The following example checks for the existence of a pane at the bottom of the window and then creates, and applies, a new two-pane view.
+Use a property such as the **[BottomPane](Project.Window.BottomPane.md)** property to return a **Pane** object. The following example checks for the existence of a pane at the bottom of the window and then creates, and applies, a new two-pane view.
  
 
 ## Methods

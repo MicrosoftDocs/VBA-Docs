@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # TextBox.SelectionMargin Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether the user can select a line of text by clicking in the region to the left of the text. Read/write.
+Returns or sets a **Boolean** that specifies whether the user can select a line of text by clicking in the region to the left of the text. Read/write.
 
 
 ## Syntax
 
 _expression_.**SelectionMargin**
 
-_expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a **TextBox** object.
 
 
 ## Remarks

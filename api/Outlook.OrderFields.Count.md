@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OrderFields.Count property (Outlook)
 
-Returns a  **Long** value indicating the count of **[OrderField](Outlook.OrderField.md)** objects in the specified collection. Read-only.
+Returns a **Long** value indicating the count of **[OrderField](Outlook.OrderField.md)** objects in the specified collection. Read-only.
 
 
 ## Syntax

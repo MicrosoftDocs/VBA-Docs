@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Cell.Task property (Project)
 
-Gets a  **[Task](Project.Task.md)** object representing the task in the active cell. Read-only **Task**.
+Gets a **[Task](Project.Task.md)** object representing the task in the active cell. Read-only **Task**.
 
 
 ## Syntax

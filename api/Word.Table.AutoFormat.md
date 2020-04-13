@@ -43,7 +43,7 @@ _expression_ Required. A variable that represents a '[Table](Word.Table.md)' obj
 
 ## Remarks
 
-The arguments for this method correspond to the options in the  **Table AutoFormat** dialog box.
+The arguments for this method correspond to the options in the **Table AutoFormat** dialog box.
 
 
 ## Example

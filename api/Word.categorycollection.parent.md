@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # CategoryCollection.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **CategoryCollection** object.
+Returns an **Object** that represents the parent object of the specified **CategoryCollection** object.
 
 
 ## Syntax

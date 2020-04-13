@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # StorageItem.LastModificationTime property (Outlook)
 
-Returns a  **DateTime** value specifying the date and time that the Outlook item was last modified. Read-only.
+Returns a **DateTime** value specifying the date and time that the Outlook item was last modified. Read-only.
 
 
 ## Syntax

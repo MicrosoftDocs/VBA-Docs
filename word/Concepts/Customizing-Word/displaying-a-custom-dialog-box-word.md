@@ -5,16 +5,16 @@ f1_keywords:
 - vbawd10.chm5210530
 ms.prod: word
 ms.assetid: edda05bb-092c-1352-671a-1349b58d5ba4
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Displaying a Custom Dialog Box (Word)
 
-To test your dialog box in the Visual Basic Editor, click  **Run Sub/UserForm** on the **Run** menu.
+To test your dialog box in the Visual Basic Editor, click **Run Sub/UserForm** on the **Run** menu.
 
-To display a dialog box from Visual Basic, use the  **Show**method. The following example displays the dialog box named UserForm1.
+To display a dialog box from Visual Basic, use the **Show**method. The following example displays the dialog box named UserForm1.
 
 
 
@@ -25,6 +25,6 @@ End Sub
 ```
 
 
- **Note**  Use the  **Unload** method in an event procedure, such as the Click event procedure for a command button, to close a dialog box.
+ **Note** se the **Unload** method in an event procedure, such as the Click event procedure for a command button, to close a dialog box.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Browser.Next method (Word)
 
-Moves the selection to the next item indicated by the browser target. Use the  **Target** property to change the browser target.
+Moves the selection to the next item indicated by the browser target. Use the **Target** property to change the browser target.
 
 
 ## Syntax

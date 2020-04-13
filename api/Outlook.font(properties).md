@@ -12,16 +12,16 @@ localization_priority: Normal
 ## In this section
 
 
--  [Font.Bold Property (Outlook Forms Script)](Outlook.Font.bold.md)
+- [Font.Bold Property (Outlook Forms Script)](Outlook.Font.bold.md)
     
--  [Font.Italic Property (Outlook Forms Script)](Outlook.Font.italic.md)
+- [Font.Italic Property (Outlook Forms Script)](Outlook.Font.italic.md)
     
--  [Font.Size Property (Outlook Forms Script)](Outlook.Font.size.md)
+- [Font.Size Property (Outlook Forms Script)](Outlook.Font.size.md)
     
--  [Font.Strikethrough Property (Outlook Forms Script)](Outlook.Font.strikethrough.md)
+- [Font.Strikethrough Property (Outlook Forms Script)](Outlook.Font.strikethrough.md)
     
--  [Font.Underline Property (Outlook Forms Script)](Outlook.Font.underline.md)
+- [Font.Underline Property (Outlook Forms Script)](Outlook.Font.underline.md)
     
--  [Font.Weight Property (Outlook Forms Script)](Outlook.Font.weight.md)
+- [Font.Weight Property (Outlook Forms Script)](Outlook.Font.weight.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

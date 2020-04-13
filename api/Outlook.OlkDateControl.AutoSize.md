@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkDateControl.AutoSize property (Outlook)
 
-Returns or sets a  **Boolean** that automatically sizes the control to display the entire contents. Read/write.
+Returns or sets a **Boolean** that automatically sizes the control to display the entire contents. Read/write.
 
 
 ## Syntax

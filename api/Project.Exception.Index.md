@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Exception.Index property (Project)
 
-Gets the index of an  **Exception** object in the containing **Exceptions** collection. Read-only **Long**.
+Gets the index of an **Exception** object in the containing **Exceptions** collection. Read-only **Long**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_ A variable that represents an [Exception](./Project.Exception.md) o
 
 ## Remarks
 
-The  **Index** properties of other objects are used in similar ways. For an example, see the **[Index](Project.Project.Index.md)** property of the **Project** object.
+The **Index** properties of other objects are used in similar ways. For an example, see the **[Index](Project.Project.Index.md)** property of the **Project** object.
 
 
 ## See also

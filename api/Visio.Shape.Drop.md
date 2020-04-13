@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Drop method (Visio)
 
-Creates one or more new  **Shape** objects by dropping an object onto a receiving object such as a master, drawing page, shape, or group.
+Creates one or more new **Shape** objects by dropping an object onto a receiving object such as a master, drawing page, shape, or group.
 
 
 ## Syntax

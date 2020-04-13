@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleConditions.FromRssFeed property (Outlook)
 
-Returns a  **[FromRssFeedRuleCondition](Outlook.FromRssFeedRuleCondition.md)** object with a **[FromRssFeedRuleCondition.ConditionType](Outlook.FromRssFeedRuleCondition.ConditionType.md)** of **olConditionFromRssFeed**. Read-only.
+Returns a **[FromRssFeedRuleCondition](Outlook.FromRssFeedRuleCondition.md)** object with a **[FromRssFeedRuleCondition.ConditionType](Outlook.FromRssFeedRuleCondition.ConditionType.md)** of **olConditionFromRssFeed**. Read-only.
 
 
 ## Syntax

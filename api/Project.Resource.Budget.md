@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.Budget property (Project)
 
-Flag indicating whether the  **Resource** object is a budget resource. Read/write **Variant**.
+Flag indicating whether the **Resource** object is a budget resource. Read/write **Variant**.
 
 
 ## Syntax
@@ -23,6 +23,6 @@ _expression_ A variable that represents a [Resource](./Project.Resource.md) obje
 
 ## Remarks
 
-The  **Budget** property can be set when creating a resource, but cannot be changed after the resource is created.
+The **Budget** property can be set when creating a resource, but cannot be changed after the resource is created.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

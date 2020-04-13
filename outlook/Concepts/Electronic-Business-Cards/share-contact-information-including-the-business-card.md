@@ -2,16 +2,16 @@
 title: Share Contact Information Including the Business Card
 ms.prod: outlook
 ms.assetid: 57218e2f-a6fd-bd52-0065-b8ff8b480d3c
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Share Contact Information Including the Business Card
 
-You can use the  **[ForwardAsVcard](../../../api/Outlook.ContactItem.ForwardAsVcard.md)** and **[ForwardAsBusinessCard](../../../api/Outlook.ContactItem.ForwardAsBusinessCard.md)** method of the **[ContactItem](../../../api/Outlook.ContactItem.md)** object to create a new **[MailItem](../../../api/Outlook.MailItem.md)** object that contains the contact information from the specified **ContactItem** attached as a vCard (.vcf) file, or you can use the **[AddBusinessCard](../../../api/Outlook.MailItem.AddBusinessCard.md)** method of the **MailItem** object to attach the contact information for a specified **ContactItem** as a vCard file. If you use the **ForwardAsBusinessCard** or **AddBusinessCard** methods, an image of the business card is also appended to the body of the mail item if the **[BodyFormat](../../../api/Outlook.MailItem.BodyFormat.md)** property of the **MailItem** object is set to **olFormatHTML**.
+You can use the **ForwardAsVcard](../../../api/Outlook.ContactItem.ForwardAsVcard.md)** and **[ForwardAsBusinessCard](../../../api/Outlook.ContactItem.ForwardAsBusinessCard.md)** method of the **[ContactItem](../../../api/Outlook.ContactItem.md)** object to create a new **[MailItem](../../../api/Outlook.MailItem.md)** object that contains the contact information from the specified **ContactItem** attached as a vCard (.vcf) file, or you can use the **[AddBusinessCard](../../../api/Outlook.MailItem.AddBusinessCard.md)** method of the **MailItem** object to attach the contact information for a specified **ContactItem** as a vCard file. If you use the **ForwardAsBusinessCard** or **AddBusinessCard** methods, an image of the business card is also appended to the body of the mail item if the **[BodyFormat](../../../api/Outlook.MailItem.BodyFormat.md)** property of the **MailItem** object is set to **olFormatHTML**.
 
-The following code sample in Microsoft Visual Basic for Applications (VBA) is a function,  `ForwardContactItem`, that accepts a  **ContactItem** object as a parameter and forwards the **ContactItem** object as an attachment to a new mail item. `ForwardContactItem` first checks if the object is a valid object. If the object is valid, `ForwardContactItem` calls the **ForwardAsBusinessCard** method of the **ContactItem** object to create a new **MailItem** object that has the contact information attached as a vCard. `ForwardContactItem` then displays and returns the **MailItem** object.
+The following code sample in Microsoft Visual Basic for Applications (VBA) is a function,  `ForwardContactItem`, that accepts a **ontactItem** object as a parameter and forwards the **ContactItem** object as an attachment to a new mail item. `ForwardContactItem` first checks if the object is a valid object. If the object is valid, `ForwardContactItem` calls the **ForwardAsBusinessCard** method of the **ContactItem** object to create a new **MailItem** object that has the contact information attached as a vCard. `ForwardContactItem` then displays and returns the **MailItem** object.
 
 
 

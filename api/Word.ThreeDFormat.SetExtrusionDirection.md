@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDF
 
 ## Remarks
 
-This method sets the  **PresetExtrusionDirection** property to the direction specified by the PresetExtrusionDirection argument.
+This method sets the **PresetExtrusionDirection** property to the direction specified by the PresetExtrusionDirection argument.
 
 
 ## Example

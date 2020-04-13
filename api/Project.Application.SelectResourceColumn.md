@@ -42,12 +42,12 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **SelectResourceColumn** method is only available when the Resource Sheet or Resource Usage view is the active view.
+The **SelectResourceColumn** method is only available when the Resource Sheet or Resource Usage view is the active view.
 
 
 ## Example
 
-The following example selects the  **Indicators** column and the next two columns.
+The following example selects the **Indicators** column and the next two columns.
 
 
 ```vb

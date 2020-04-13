@@ -19,7 +19,7 @@ Represents a single axis in a chart.
 
 ## Remarks
 
-The  **Axis** object is a member of the **[Axes](Word.Axes.md)** collection.
+The **Axis** object is a member of the **[Axes](Word.Axes.md)** collection.
 
 Use  **Axes** ( _Type_ , _AxisGroup_ ) where _Type_ is the axis type and _AxisGroup_ is the axis group to return a single **Axis** object. _Type_ can be one of the following **[XlAxisType](Word.xlaxistype.md)** constants: **xlCategory**, **xlSeries**, or **xlValue**. _AxisGroup_ can be one of the following **[XlAxisGroup](Word.xlaxisgroup.md)** constants: **xlPrimary** or **xlSecondary**. For more information, see the **[Axes](Word.Chart.Axes.md)** method.
 

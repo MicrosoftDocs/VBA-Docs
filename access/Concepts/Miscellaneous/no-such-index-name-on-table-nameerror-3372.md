@@ -2,7 +2,7 @@
 title: No such index <name> on table <name>. (Error 3372)
 ms.prod: access
 ms.assetid: c0577641-92a2-325c-844c-62178e66d35f
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The specified index does not exist in the specified table. Check your code for a misspelling or other error, or verify the  **Indexes** collection contains the specified index.
+The specified index does not exist in the specified table. Check your code for a misspelling or other error, or verify the **Indexes** collection contains the specified index.
 
 ## See also
 

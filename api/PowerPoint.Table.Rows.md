@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Table.Rows property (PowerPoint)
 
-Returns a  **[Rows](PowerPoint.Rows.md)** collection that represents all the rows in a table. Read-only.
+Returns a **[Rows](PowerPoint.Rows.md)** collection that represents all the rows in a table. Read-only.
 
 
 ## Syntax

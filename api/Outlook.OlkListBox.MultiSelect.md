@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkListBox.MultiSelect property (Outlook)
 
-Returns or sets an  **[OlMultiSelect](Outlook.OlMultiSelect.md)** constant that specifies the range of items that can be selected in the list box control. Read/write.
+Returns or sets an **[OlMultiSelect](Outlook.OlMultiSelect.md)** constant that specifies the range of items that can be selected in the list box control. Read/write.
 
 
 ## Syntax

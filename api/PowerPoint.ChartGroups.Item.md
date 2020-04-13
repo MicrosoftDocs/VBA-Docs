@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[ChartGroups](PowerPoint.ChartGroups.
 
 ## Return value
 
-A  **[ChartGroup](PowerPoint.ChartGroup.md)** object contained by the collection.
+A **[ChartGroup](PowerPoint.ChartGroup.md)** object contained by the collection.
 
 
 ## Example

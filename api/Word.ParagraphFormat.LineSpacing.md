@@ -26,9 +26,9 @@ _expression_. `LineSpacing`
 
 ## Remarks
 
-Use the  **[LinesToPoints](Word.Global.LinesToPoints.md)** method to convert a number of lines to the corresponding value in points. For example, `LinesToPoints(2)` returns the value 24.
+Use the **[LinesToPoints](Word.Global.LinesToPoints.md)** method to convert a number of lines to the corresponding value in points. For example, `LinesToPoints(2)` returns the value 24.
 
-The  **LineSpacing** property can be set after the **[LineSpacingRule](Word.ParagraphFormat.LineSpacingRule.md)** property has been set to:
+The **LineSpacing** property can be set after the **[LineSpacingRule](Word.ParagraphFormat.LineSpacingRule.md)** property has been set to:
 
 
 -  **wdLineSpaceAtLeast** the line spacing can be greater than or equal to, but never less than, the specified **LineSpacing** value.

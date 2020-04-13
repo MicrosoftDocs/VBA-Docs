@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SelectNamesDialog.Recipients property (Outlook)
 
-Returns a  **[Recipients](Outlook.Recipients.md)** collection object that represents the recipients selected in the **Select Names** dialog, or sets a **Recipients** collection object that represents the initial recipients to be displayed in the **Select Names** dialog box. Read/write.
+Returns a **[Recipients](Outlook.Recipients.md)** collection object that represents the recipients selected in the **Select Names** dialog, or sets a **Recipients** collection object that represents the initial recipients to be displayed in the **Select Names** dialog box. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectName
 
 ## Remarks
 
-This property specifies a  **Recipients** collection object that has a **[Recipients.Count](Outlook.Recipients.Count.md)** equal to the total number of recipients in the **To**,  **Cc**, and  **Bcc** edit boxes.
+This property specifies a **Recipients** collection object that has a **[Recipients.Count](Outlook.Recipients.Count.md)** equal to the total number of recipients in the **To**,  **Cc**, and  **Bcc** edit boxes.
 
 If you do not set this property before displaying the  **Select Names** dialog box, then the **Recipients** object represented by **SelectNamesDialog.Recipients** will have a **Recipients.Count** equal to zero.
 

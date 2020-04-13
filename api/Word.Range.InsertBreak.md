@@ -30,11 +30,11 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **Variant**|The type of break to be inserted.Can be one of the  **WdBreakType** constants. If omitted, the default value is **wdPageBreak**.|
+| _Type_|Optional| **Variant**|The type of break to be inserted.Can be one of the **WdBreakType** constants. If omitted, the default value is **wdPageBreak**.|
 
 ## Remarks
 
-When you insert a page or column break, the range is replaced by the break. If you don't want to replace the range, use the  **Collapse** method before using the **InsertBreak** method. When you insert a section break, the break is inserted immediately preceding the **Range**.
+When you insert a page or column break, the range is replaced by the break. If you don't want to replace the range, use the **Collapse** method before using the **InsertBreak** method. When you insert a section break, the break is inserted immediately preceding the **Range**.
 
 Some of the constants listed above may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
 

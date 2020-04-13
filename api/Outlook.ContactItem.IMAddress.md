@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.IMAddress property (Outlook)
 
-Returns or sets a  **String** that represents a contact's Microsoft Instant Messenger address. Read/write.
+Returns or sets a **String** that represents a contact's Microsoft Instant Messenger address. Read/write.
 
 
 ## Syntax

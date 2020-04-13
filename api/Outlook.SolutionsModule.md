@@ -19,7 +19,7 @@ Represents the  **Solutions** navigation module in the navigation pane of an exp
 
 ## Remarks
 
-The  **Solutions** navigation module contains folders that developers of individual add-ins want to expose to users in the navigation pane. Each solution has one root folder under the **Solutions** module, and each root folder can contain subfolders that hold heterogeneous Outlook items.
+The **Solutions** navigation module contains folders that developers of individual add-ins want to expose to users in the navigation pane. Each solution has one root folder under the **Solutions** module, and each root folder can contain subfolders that hold heterogeneous Outlook items.
 
 To add solution folders programmatically to the  **Solutions** module, use the **SolutionsModule** object, which is derived from the **[NavigationModule](Outlook.NavigationModule.md)** object.
 
@@ -27,7 +27,7 @@ To obtain an object for the  **Solutions** module, you must first determine whet
 
 If the call is successful, you can then cast the returned  **NavigationModule** object reference as a **SolutionsModule** object to access the properties and methods for that navigation module.
 
-To add a solution root folder and its subfolders, pass a  **[Folder](Outlook.Folder.md)** object reference to the **[AddSolution](Outlook.SolutionsModule.AddSolution.md)** method of the **SolutionsModule** object. The default position of the **Solutions** module on the navigation pane is '9'.
+To add a solution root folder and its subfolders, pass a **[Folder](Outlook.Folder.md)** object reference to the **[AddSolution](Outlook.SolutionsModule.AddSolution.md)** method of the **SolutionsModule** object. The default position of the **Solutions** module on the navigation pane is '9'.
 
 If no solutions have been added to the  **Solutions** module, it is not visible in the navigation pane, and any attempt to set the **[Position](Outlook.SolutionsModule.Position.md)** or the **[Visible](Outlook.SolutionsModule.Visible.md)** properties of the **SolutionsModule** object raises an error. In addition, any attempt to set the **SolutionsModule** as the **[CurrentModule](Outlook.NavigationPane.CurrentModule.md)** property of the **NavigationPane** object raises an error.
 

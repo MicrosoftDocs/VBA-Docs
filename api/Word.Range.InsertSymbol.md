@@ -33,11 +33,11 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 | _CharacterNumber_|Required| **Long**|The character number for the specified symbol. This value will always be the sum of 31 and the number that corresponds to the position of the symbol in the table of symbols (counting from left to right). For example, to specify a delta character at position 37 in the table of symbols in the Symbol font, set CharacterNumber to 68.|
 | _Font_|Optional| **Variant**|The name of the font that contains the symbol.|
 | _Unicode_|Optional| **Variant**| **True** to insert the unicode character specified by CharacterNumber; **False** to insert the ANSI character specified by CharacterNumber. The default value is **False**.|
-| _Bias_|Optional| **Variant**|Sets the font bias for symbols. This argument is useful for setting the correct font bias for East Asian characters. Can be one of the  **WdFontBias** constants. This argument may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
+| _Bias_|Optional| **Variant**|Sets the font bias for symbols. This argument is useful for setting the correct font bias for East Asian characters. Can be one of the **WdFontBias** constants. This argument may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
 
 ## Remarks
 
-If you don't want to replace the range, use the  **Collapse** method before you use this method.
+If you don't want to replace the range, use the **Collapse** method before you use this method.
 
 
 ## Example

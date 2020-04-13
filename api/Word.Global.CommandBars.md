@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Global](Word.Global.md)' o
 
 ## Remarks
 
-Use the  **CustomizationContext** property to set the template or document context prior to accessing the **CommandBars** collection.
+Use the **CustomizationContext** property to set the template or document context prior to accessing the **CommandBars** collection.
 
 For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 

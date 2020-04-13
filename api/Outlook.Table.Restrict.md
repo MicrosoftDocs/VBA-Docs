@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Table](Outlook.Table.md) object.
 
 ## Return value
 
-A  **Table** object that is returned by applying _Filter_ to the rows in the parent **Table** object.
+A **Table** object that is returned by applying _Filter_ to the rows in the parent **Table** object.
 
 
 ## Remarks
@@ -63,7 +63,7 @@ If  _Filter_ is a blank string, **Restrict** returns a **Table** object that is 
 
 ## Example
 
-The following code sample applies a Jet filter on items in the Inbox to obtain items with a  **LastModificationTime** greater than November 1, 2005. It then prints the values of the default properties for these items in the Inbox: **EntryID**, **Subject**, **CreationTime**, **LastModificationTime**, and **MessageClass**.
+The following code sample applies a Jet filter on items in the Inbox to obtain items with a **LastModificationTime** greater than November 1, 2005. It then prints the values of the default properties for these items in the Inbox: **EntryID**, **Subject**, **CreationTime**, **LastModificationTime**, and **MessageClass**.
 
 
 > [!NOTE] 

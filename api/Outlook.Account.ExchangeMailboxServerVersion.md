@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Account.ExchangeMailboxServerVersion property (Outlook)
 
-Returns a  **String** value that represents the full version number of the Microsoft Exchange Server that hosts the account mailbox. Read-only.
+Returns a **String** value that represents the full version number of the Microsoft Exchange Server that hosts the account mailbox. Read-only.
 
 
 ## Syntax

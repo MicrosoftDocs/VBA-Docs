@@ -2,7 +2,7 @@
 title: Finding Out Which Property or Method to Use
 ms.prod: word
 ms.assetid: 6da49a9c-e28f-dae5-f4bd-3124004052fb
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -27,8 +27,8 @@ End Sub
 ```
 
 
-The  **[Documents](../../../api/Word.Application.Documents.md)** property returns the **[Documents](../../../api/Word.documents.md)** collection and the **[Open](../../../api/Word.Documents.Open.md)** method opens the specified file name. When you are first learning Visual Basic, using the macro recorder can help you learn which properties and methods you need to use to accomplish a task.
+The **[Documents](../../../api/Word.Application.Documents.md)** property returns the **[Documents](../../../api/Word.documents.md)** collection and the **[Open](../../../api/Word.Documents.Open.md)** method opens the specified file name. When you are first learning Visual Basic, using the macro recorder can help you learn which properties and methods you need to use to accomplish a task.
 
-For more information, see  [Revising recorded Visual Basic macros](revising-recorded-visual-basic-macros.md).
+For more information, see [Revising recorded Visual Basic macros](revising-recorded-visual-basic-macros.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

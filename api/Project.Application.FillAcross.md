@@ -39,6 +39,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **FillAcross** method is only available in timephased cells of usage views.
+The **FillAcross** method is only available in timephased cells of usage views.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

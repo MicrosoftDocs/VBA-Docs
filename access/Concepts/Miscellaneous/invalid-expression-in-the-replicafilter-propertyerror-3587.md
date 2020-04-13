@@ -2,7 +2,7 @@
 title: Invalid expression in the ReplicaFilter property. (Error 3587)
 ms.prod: access
 ms.assetid: 741623e5-fc5d-9b79-7887-413ff955b0a1
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The  **ReplicaFilter** string contains an invalid word. Check the syntax for any misspelled or missing words.
+The **ReplicaFilter** string contains an invalid word. Check the syntax for any misspelled or missing words.
 
 ## See also
 

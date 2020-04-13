@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.AcExportXMLEncoding
 ms.assetid: 6d51f729-3f39-6521-d3ff-563bd6c66e50
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

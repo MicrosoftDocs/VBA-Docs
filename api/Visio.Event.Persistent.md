@@ -31,7 +31,7 @@ Integer
 
 ## Remarks
 
-An event is persistable if its action code is  **visActCodeRunAddon** and the event's source object is capable of containing persistent events.
+An event is persistable if its action code is **visActCodeRunAddon** and the event's source object is capable of containing persistent events.
 
 When an event is first created, its  **Persistent** property is set to the same value as its **Persistable** property; if an event can persist, Microsoft Visio assumes it should persist. You can change the initial setting for a persistable event by setting its **Persistent** property to False. However, you cannot change the **Persistent** property of a nonpersistable event—attempting to do so causes an exception.
 

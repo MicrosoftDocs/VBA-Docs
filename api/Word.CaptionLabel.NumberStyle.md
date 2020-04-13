@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CaptionLabel.NumberStyle property (Word)
 
-Returns or sets the number style for the  **CaptionLabel** object. Read/write **WdCaptionNumberStyle**.
+Returns or sets the number style for the **CaptionLabel** object. Read/write **WdCaptionNumberStyle**.
 
 
 ## Syntax

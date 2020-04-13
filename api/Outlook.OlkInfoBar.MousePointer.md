@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkInfoBar.MousePointer property (Outlook)
 
-Returns or sets an  **[OlMousePointer](Outlook.OlMousePointer.md)** constant that specifies the type of pointer displayed when the user positions the mouse over the control. Read/write.
+Returns or sets an **[OlMousePointer](Outlook.OlMousePointer.md)** constant that specifies the type of pointer displayed when the user positions the mouse over the control. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkInfoBar](Outlook.OlkInfoBar.md) o
 
 ## Remarks
 
-The default value is  **olMousePointerDefault**.
+The default value is **olMousePointerDefault**.
 
 
 ## See also

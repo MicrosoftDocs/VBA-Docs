@@ -26,7 +26,7 @@ _expression_.**Copy**
 
 ## Remarks
 
-When you use the  **Copy** method, the original content control remains in the active document, but a copy of the control, including all text and property settings, is moved to the Clipboard. You can then paste the content control into other sections of the active document. Use the **Paste** method of the **[Selection](Word.Selection.md)** object or the **Paste** method of the **[Range](Word.Range.md)** object to insert the copied content control, or use the **Paste** function from within Microsoft Word.
+When you use the **Copy** method, the original content control remains in the active document, but a copy of the control, including all text and property settings, is moved to the Clipboard. You can then paste the content control into other sections of the active document. Use the **Paste** method of the **[Selection](Word.Selection.md)** object or the **Paste** method of the **[Range](Word.Range.md)** object to insert the copied content control, or use the **Paste** function from within Microsoft Word.
 
 
 ## See also

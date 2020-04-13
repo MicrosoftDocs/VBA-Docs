@@ -31,6 +31,6 @@ _expression_. `TaskDependencySync`
 
 ## Remarks
 
-The  **TaskDependencySync** method is equivalent to the **Sync Dependencies** command on the **Deliverable** drop-down menu on the **TASK** ribbon.
+The **TaskDependencySync** method is equivalent to the **Sync Dependencies** command on the **Deliverable** drop-down menu on the **TASK** ribbon.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

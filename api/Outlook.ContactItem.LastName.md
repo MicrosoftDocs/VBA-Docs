@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.LastName property (Outlook)
 
-Returns or sets a  **String** representing the last name for the contact. Read/write.
+Returns or sets a **String** representing the last name for the contact. Read/write.
 
 
 ## Syntax

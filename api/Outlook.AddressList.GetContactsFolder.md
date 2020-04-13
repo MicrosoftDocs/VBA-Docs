@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AddressList.GetContactsFolder method (Outlook)
 
-Obtains a  **[Folder](Outlook.Folder.md)** object that represents the Contacts folder for the **[AddressList](Outlook.AddressList.md)** object.
+Obtains a **[Folder](Outlook.Folder.md)** object that represents the Contacts folder for the **[AddressList](Outlook.AddressList.md)** object.
 
 
 ## Syntax
@@ -26,12 +26,12 @@ _expression_ A variable that represents an [AddressList](Outlook.AddressList.md)
 
 ## Return value
 
-A  **Folder** object that represents the Outlook Contacts folder for the **AddressList**. Returns **Null** (**Nothing** in Visual Basic) if no Outlook contacts folder is found.
+A **Folder** object that represents the Outlook Contacts folder for the **AddressList**. Returns **Null** (**Nothing** in Visual Basic) if no Outlook contacts folder is found.
 
 
 ## Remarks
 
-This method allows you to match an  **AddressList** for the Contacts folder that you would like to set up as the initial address list in the **Select Names** dialog box.
+This method allows you to match an **AddressList** for the Contacts folder that you would like to set up as the initial address list in the **Select Names** dialog box.
 
 
 ## Example

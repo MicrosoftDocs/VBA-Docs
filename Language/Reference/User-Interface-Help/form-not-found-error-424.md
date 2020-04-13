@@ -14,7 +14,7 @@ localization_priority: Normal
 
 The form was not found. This error has the following cause and solution:
 
-You tried to add a form to the  **UserForms** collection using the **Add** method, but there is no form[class](../../Glossary/vbe-glossary.md#class) of that name. For example, `UserForms.Add "MyForm"`, where , where  `MyForm` doesn't exist.
+You tried to add a form to the **UserForms** collection using the **Add** method, but there is no form[class](../../Glossary/vbe-glossary.md#class) of that name. For example, `UserForms.Add "MyForm"`, where , where  `MyForm` doesn't exist.
 
  **Note**  Make sure that the class name is available to your [project](../../Glossary/vbe-glossary.md#project).
 

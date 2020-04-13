@@ -12,7 +12,7 @@ localization_priority: Normal
 ## In this section
 
 
--  [Frame Object (Outlook Forms Script)](Outlook.frame.md)
+- [Frame Object (Outlook Forms Script)](Outlook.frame.md)
     
 
 

@@ -23,7 +23,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **UsableHeight** property equals the total amount of vertical space inside the main window minus the space taken up by the Ribbon, status bars, scroll bars, and the title bar.
+The **UsableHeight** property equals the total amount of vertical space inside the main window minus the space taken up by the Ribbon, status bars, scroll bars, and the title bar.
 
 
 ## Example

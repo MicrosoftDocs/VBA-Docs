@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) 
 
 ## Return value
 
-A  **MeetingItem** object that represents the new meeting item.
+A **MeetingItem** object that represents the new meeting item.
 
 
 ## See also

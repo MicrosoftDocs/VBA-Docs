@@ -2,7 +2,7 @@
 title: Modify a Built-in Action for a Form Region
 ms.prod: outlook
 ms.assetid: c2493139-5c76-6f1c-6cee-7e0907d94c70
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -23,24 +23,23 @@ By default, there are four built-in actions available to a form region: reply, r
 - Disabling the built-in action for the form region.
     
 
-For more information on registering a form region, see  [Specifying Form Regions in the Windows Registry](specifying-form-regions-in-the-windows-registry.md).
+For more information on registering a form region, see [Specifying Form Regions in the Windows Registry](specifying-form-regions-in-the-windows-registry.md).
 
-If customizing a built-in action in the above ways does not suit your needs, then you should consider creating a new custom action. For more information, see  [How to: Create a Custom Action for a Form Region](create-a-custom-action-for-a-form-region.md)
+If customizing a built-in action in the above ways does not suit your needs, then you should consider creating a new custom action. For more information, see [How to: Create a Custom Action for a Form Region](create-a-custom-action-for-a-form-region.md)
 
 ## Identifying Actions for a Form Region
 
-Whether you choose to modify a built-in action or create a custom action, you define the action in the form region manifest XML file. Define these actions under the  **customActions** element, enclosing each action in its own **action** element and identifying it by the mandatory **name** attribute. The value of the **name** attribute is a string that represents the internal name of the action.
+Whether you choose to modify a built-in action or create a custom action, you define the action in the form region manifest XML file. Define these actions under the **customActions** element, enclosing each action in its own **action** element and identifying it by the mandatory **name** attribute. The value of the **name** attribute is a string that represents the internal name of the action.
 
 
 ### To specify the internal name of a built-in action
 
 
-1. In the form region manifest XML file, specify the action as a child  **action** element of the **customActions** element for that form region.
+1. In the form region manifest XML file, specify the action as a child **action** element of the **customActions** element for that form region.
     
-2. Specify the internal name of the built-in action as the value of the  **name** attribute of the **action** element.
+2. Specify the internal name of the built-in action as the value of the **name** attribute of the **action** element.
     
 The following example identifies the two built-in actions,  `reply` and `replyAll`, before modifying them:
-
 
 ```vb
 <customActions>
@@ -65,7 +64,7 @@ Note that by default, there are four built-in actions for each form region. You 
 
 ## Modifying a Built-in Action
 
-After you have identified a built-in action in an  **action** element, you can modify it by specifying optional child elements and attribute for the **action** element.
+After you have identified a built-in action in an **action** element, you can modify it by specifying optional child elements and attribute for the **action** element.
 
  [To specify the message class and the form for the resulting item](specify-the-message-class-and-form-for-an-item-resulting-from-an-action.md)
 
@@ -81,16 +80,13 @@ After you have identified a built-in action in an  **action** element, you can m
 
 
 
-1. In the form region manifest XML file, specify the action as a child  **action** element of the **customActions** element for that form region.
+1. In the form region manifest XML file, specify the action as a child **action** element of the **customActions** element for that form region.
     
-2. Specify the internal name of the action as the value of the  **name** attribute of the **action** element.
+2. Specify the internal name of the action as the value of the **name** attribute of the **action** element.
     
-3. Specify  **True** as the value of the disabled attribute of the **action** element.
+3. Specify **True** as the value of the disabled attribute of the **action** element.
     
 The following example identifies the built-in action,  `replyToFolder`, and disables it:
-
-
-
 
 ```vb
 <customActions>
@@ -100,6 +96,6 @@ The following example identifies the built-in action,  `replyToFolder`, and disa
 ```
 
 > [!NOTE] 
-> You can assign  **disabled** either a string value or an integer value. The default value is **False** or **0**. To disable a built-in action for a form region, assign  **disabled** either **True** or **1**.
+> You can assign **disabled** either a string value or an integer value. The default value is **False** or **0**. To disable a built-in action for a form region, assign **disabled** either **True** or **1**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

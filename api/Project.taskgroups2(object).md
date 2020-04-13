@@ -19,7 +19,7 @@ Represents all the task-based group definitions, where group hierarchy can be ma
  
 
  
-Use the  **[TaskGroups2](Project.Project.TaskGroups2.md)** property to return a **TaskGroups2** collection. The following example lists the names of all the task groups in the active project.
+Use the **[TaskGroups2](Project.Project.TaskGroups2.md)** property to return a **TaskGroups2** collection. The following example lists the names of all the task groups in the active project.
  
 
  
@@ -37,7 +37,7 @@ Next tg2
 MsgBox tGroups2
 ```
 
-Use the  **[Add](Project.TaskGroups2.Add.md)** method to add a **Group2** object to the **TaskGroups2** collection. The following example creates a new group that groups tasks by whether they are overallocated and then modifies the criterion so that overallocated tasks are sorted in descending order.
+Use the **[Add](Project.TaskGroups2.Add.md)** method to add a **Group2** object to the **TaskGroups2** collection. The following example creates a new group that groups tasks by whether they are overallocated and then modifies the criterion so that overallocated tasks are sorted in descending order.
  
 
  

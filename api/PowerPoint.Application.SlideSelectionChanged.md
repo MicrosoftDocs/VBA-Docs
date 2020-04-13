@@ -49,7 +49,7 @@ The following table describes when the event occurs in each of the views.
 
 ## Example
 
-This example displays a message every time a user selects a different slide. This example assumes that an  **Application** object called PPTApp has been declared by using the **WithEvents** keyword.
+This example displays a message every time a user selects a different slide. This example assumes that an **Application** object called PPTApp has been declared by using the **WithEvents** keyword.
 
 
 ```vb

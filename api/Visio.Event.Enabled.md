@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Event.Enabled property (Visio)
 
-Determines whether or not an  **Event** object is currently enabled. Read/write.
+Determines whether or not an **Event** object is currently enabled. Read/write.
 
 
 ## Syntax

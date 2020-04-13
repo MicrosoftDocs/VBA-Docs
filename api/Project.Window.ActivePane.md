@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.ActivePane property (Project)
 
-Gets a  **[Pane](Project.Pane.md)** object that represents the active pane of a window. Read-only **Pane**.
+Gets a **[Pane](Project.Pane.md)** object that represents the active pane of a window. Read-only **Pane**.
 
 
 ## Syntax

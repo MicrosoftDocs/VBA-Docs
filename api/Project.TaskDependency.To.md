@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskDependency.To property (Project)
 
-Gets a  **[Task](Project.Task.md)** object that is the successor in the task dependency. Read-only **Task**.
+Gets a **[Task](Project.Task.md)** object that is the successor in the task dependency. Read-only **Task**.
 
 
 ## Syntax

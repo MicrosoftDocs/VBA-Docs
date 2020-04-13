@@ -2,14 +2,14 @@
 title: Identify a Meeting Item as a Counter-Proposal to a Prior Meeting Request
 ms.prod: outlook
 ms.assetid: 42d53f48-d9de-18d8-d39b-86feceff0eaa
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Identify a Meeting Item as a Counter-Proposal to a Prior Meeting Request
 
-This topic shows how to use the named property,  [PidLidAppointmentCounterProposal](../../../api/overview/Outlook.md), and the Microsoft Outlook object model to identify a  **[MeetingItem](../../../api/Outlook.MeetingItem.md)** object as a counter proposal to a prior meeting request.
+This topic shows how to use the named property, [PidLidAppointmentCounterProposal](../../../api/overview/Outlook.md), and the Microsoft Outlook object model to identify a **[MeetingItem](../../../api/Outlook.MeetingItem.md)** object as a counter proposal to a prior meeting request.
 
 In the Outlook object model, all types of items, such as a mail item and a contact item, correspond to specific message classes. In particular, responses to a meeting request can be identified by the following message classes: 
 
@@ -21,7 +21,7 @@ In the Outlook object model, all types of items, such as a mail item and a conta
     
 
 However, the Outlook object model does not provide a means to identify a response as the fourth possible response to a meeting request, which is a counter-proposal.
-Using the  **[PropertyAccessor](../../../api/Outlook.PropertyAccessor.md)** object and the **PSETID_Appointment** namespace definition of **PidLidAppointmentCounterProposal**, you can program within the object model to distinguish all responses of a meeting request item. The following code sample in C# shows how to get the property value given a meeting item. Note that in the code sample, the named property is expressed as: 
+Using the **[PropertyAccessor](../../../api/Outlook.PropertyAccessor.md)** object and the **PSETID_Appointment** namespace definition of **PidLidAppointmentCounterProposal**, you can program within the object model to distinguish all responses of a meeting request item. The following code sample in C# shows how to get the property value given a meeting item. Note that in the code sample, the named property is expressed as: 
 
 
 

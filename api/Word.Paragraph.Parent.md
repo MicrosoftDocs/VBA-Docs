@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Paragraph.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Paragraph** object.
+Returns an **Object** that represents the parent object of the specified **Paragraph** object.
 
 
 ## Syntax

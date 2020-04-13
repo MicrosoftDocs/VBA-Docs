@@ -12,7 +12,7 @@ localization_priority: Normal
 ## In this section
 
 
--  [MultiPage Object (Outlook Forms Script)](Outlook.multipage.md)
+- [MultiPage Object (Outlook Forms Script)](Outlook.multipage.md)
     
 
 

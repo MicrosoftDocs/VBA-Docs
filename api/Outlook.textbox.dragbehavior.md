@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # TextBox.DragBehavior Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies whether the system enables the drag-and-drop feature for the control. Read/write.
+Returns or sets an **Integer** that specifies whether the system enables the drag-and-drop feature for the control. Read/write.
 
 
 ## Syntax
 
 _expression_.**DragBehavior**
 
-_expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a **TextBox** object.
 
 
 ## Remarks

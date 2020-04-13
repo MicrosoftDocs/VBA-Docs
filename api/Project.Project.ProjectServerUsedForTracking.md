@@ -26,6 +26,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-By default, the  **ProjectServerUsedForTracking** property is set to **True** for all new projects.
+By default, the **ProjectServerUsedForTracking** property is set to **True** for all new projects.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

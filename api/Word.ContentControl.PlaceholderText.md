@@ -26,7 +26,7 @@ _expression_. `PlaceholderText`
 
 ## Remarks
 
-Use the  **[SetPlaceholderText](Word.ContentControl.SetPlaceholderText.md)** method to set the placeholder text for a content control.
+Use the **[SetPlaceholderText](Word.ContentControl.SetPlaceholderText.md)** method to set the placeholder text for a content control.
 
 
 ## See also

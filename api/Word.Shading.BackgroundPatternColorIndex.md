@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shading.BackgroundPatternColorIndex property (Word)
 
-Returns or sets the color that's applied to the background of the  **Shading** object. Read/write **WdColorIndex**.
+Returns or sets the color that's applied to the background of the **Shading** object. Read/write **WdColorIndex**.
 
 
 ## Syntax

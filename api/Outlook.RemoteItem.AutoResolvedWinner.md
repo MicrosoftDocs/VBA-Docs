@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RemoteItem.AutoResolvedWinner property (Outlook)
 
-Returns a  **Boolean** that determines if the item is a winner of an automatic conflict resolution. Read-only.
+Returns a **Boolean** that determines if the item is a winner of an automatic conflict resolution. Read-only.
 
 
 ## Syntax

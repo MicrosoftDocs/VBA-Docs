@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.Windows property (Project)
 
-Gets a  **[Windows](Project.windows(object).md)** collection representing the open windows in the application. Read-only **Object**.
+Gets a **[Windows](Project.windows(object).md)** collection representing the open windows in the application. Read-only **Object**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **Windows** property duplicates the **Windows2** property, except that it returns a **Windows** collection rather than a **Windows2** collection. The **[Windows2](Project.Application.Windows2.md)** property and **[Windows2](Project.windows2(object).md)** collection object are recommended for all new development both in VBA and for external applications developed with the .NET Framework. The **Windows** property and **Windows** collection are maintained for backward compatibility with existing applications.
+The **Windows** property duplicates the **Windows2** property, except that it returns a **Windows** collection rather than a **Windows2** collection. The **[Windows2](Project.Application.Windows2.md)** property and **[Windows2](Project.windows2(object).md)** collection object are recommended for all new development both in VBA and for external applications developed with the .NET Framework. The **Windows** property and **Windows** collection are maintained for backward compatibility with existing applications.
 
 
 ## Example

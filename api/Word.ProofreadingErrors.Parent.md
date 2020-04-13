@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ProofreadingErrors.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **ProofreadingErrors** object.
+Returns an **Object** that represents the parent object of the specified **ProofreadingErrors** object.
 
 
 ## Syntax

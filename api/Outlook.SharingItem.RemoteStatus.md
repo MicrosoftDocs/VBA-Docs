@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.RemoteStatus property (Outlook)
 
-Returns or sets an  **[OlRemoteStatus](Outlook.OlRemoteStatus.md)** constant specifying the remote status of the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
+Returns or sets an **[OlRemoteStatus](Outlook.OlRemoteStatus.md)** constant specifying the remote status of the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

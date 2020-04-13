@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkDateControl.EnterFieldBehavior property (Outlook)
 
-Returns or sets an  **[olEnterFieldBehavior](Outlook.OlEnterFieldBehavior.md)** constant that specifies the selection behavior when entering the control. Read/write.
+Returns or sets an **[olEnterFieldBehavior](Outlook.OlEnterFieldBehavior.md)** constant that specifies the selection behavior when entering the control. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateContr
 
 ## Remarks
 
-The default value is  **olEnterFieldBehaviorSelectAll**.
+The default value is **olEnterFieldBehaviorSelectAll**.
 
 
 ## See also

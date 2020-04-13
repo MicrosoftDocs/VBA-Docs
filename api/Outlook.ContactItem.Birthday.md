@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.Birthday property (Outlook)
 
-Returns or sets a  **Date** indicating the birthday for the contact. Read/write.
+Returns or sets a **Date** indicating the birthday for the contact. Read/write.
 
 
 ## Syntax

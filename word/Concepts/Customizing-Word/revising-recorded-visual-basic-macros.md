@@ -2,7 +2,7 @@
 title: Revising Recorded Visual Basic Macros
 ms.prod: word
 ms.assetid: e17875d2-f11a-825c-1f92-a0ba6cb3309f
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -30,7 +30,7 @@ To enhance your macros, you may want to revise the code recorded into your modul
 
 ## Removing the Selection property
 
-Macros created using the macro recorder depend on the selection. At the beginning of most recorded macro instructions, you see  `Selection`. Recorded macros use the  **[Selection](../../../api/Word.Global.Selection.md)** property to return the **[Selection](../../../api/Word.Selection.md)** object. For example, the following example moves the selection to the Temp bookmark and inserts text after the bookmark.
+Macros created using the macro recorder depend on the selection. At the beginning of most recorded macro instructions, you see  `Selection`. Recorded macros use the **[Selection](../../../api/Word.Global.Selection.md)** property to return the **[Selection](../../../api/Word.Selection.md)** object. For example, the following example moves the selection to the Temp bookmark and inserts text after the bookmark.
 
 
 ```vb
@@ -41,7 +41,7 @@ Sub Macro1()
 End Sub
 ```
 
-This macro accomplishes the task, but there are a couple of drawbacks. First, if the document does not have a bookmark named Temp, the macro posts an error. Second, the macro moves the selection, which may not be appropriate. Both of these issues can be resolved by revising the macro so that it does not use the  **Selection** object. This is the revised macro.
+This macro accomplishes the task, but there are a couple of drawbacks. First, if the document does not have a bookmark named Temp, the macro posts an error. Second, the macro moves the selection, which may not be appropriate. Both of these issues can be resolved by revising the macro so that it does not use the **Selection** object. This is the revised macro.
 
 
 
@@ -56,12 +56,12 @@ Sub MyMacro()
 End Sub
 ```
 
-The  **[Exists](../../../api/Word.Bookmarks.Exists.md)** method is used to check for the existence of the bookmark named Temp. If the bookmark is found, the bookmark's ending character position is returned by using the **[End](../../../api/Word.Bookmark.End.md)** property. Finally, the **[Range](../../../api/Word.Document.Range.md)** method of the **Document** object is used to return a **[Range](../../../api/Word.Range.md)** object that refers to the bookmark's ending position, so that text can be inserted using the **[InsertAfter](../../../api/Word.Range.InsertAfter.md)** method of the **Range** object. For more information about defining **Range** objects, see [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
+The **[Exists](../../../api/Word.Bookmarks.Exists.md)** method is used to check for the existence of the bookmark named Temp. If the bookmark is found, the bookmark's ending character position is returned by using the **[End](../../../api/Word.Bookmark.End.md)** property. Finally, the **[Range](../../../api/Word.Document.Range.md)** method of the **Document** object is used to return a **[Range](../../../api/Word.Range.md)** object that refers to the bookmark's ending position, so that text can be inserted using the **[InsertAfter](../../../api/Word.Range.InsertAfter.md)** method of the **Range** object. For more information about defining **Range** objects, see [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
 
 
 ## Using With…End With
 
-Macro instructions that refer to the same object can be simplified using a  **With…End With** structure. For example, the following macro was recorded when a title was added at the top of a document.
+Macro instructions that refer to the same object can be simplified using a **With…End With** structure. For example, the following macro was recorded when a title was added at the top of a document.
 
 
 ```vb
@@ -72,7 +72,7 @@ Sub Macro1()
 End Sub
 ```
 
-The  **Selection** property is used with each instruction to return a **Selection** object. The macro can be simplified so that the **Selection** property is used only once.
+The **Selection** property is used with each instruction to return a **Selection** object. The macro can be simplified so that the **Selection** property is used only once.
 
 
 
@@ -87,7 +87,7 @@ Sub MyMacro()
 End Sub
 ```
 
-The same task can also be performed without using the  **Selection** object. The following macro uses a **Range** object at the beginning of the active document to accomplish the same task.
+The same task can also be performed without using the **Selection** object. The following macro uses a **Range** object at the beginning of the active document to accomplish the same task.
 
 
 
@@ -104,7 +104,7 @@ End Sub
 
 ## Removing unnecessary properties
 
-If you record a macro that involves selecting an option in a dialog box, the macro recorder records the settings of all the options in the dialog box, even if you only change one or two options. If you do not need to change all of the options, you can remove the unnecessary properties from the recorded macro. The following recorded macro includes a number of options from the  **Paragraph** dialog box (**Format** menu).
+If you record a macro that involves selecting an option in a dialog box, the macro recorder records the settings of all the options in the dialog box, even if you only change one or two options. If you do not need to change all of the options, you can remove the unnecessary properties from the recorded macro. The following recorded macro includes a number of options from the **Paragraph** dialog box (**Format** menu).
 
 
 ```vb
@@ -147,7 +147,7 @@ The simplified macro executes faster because it sets fewer properties. Only the 
 
 ## Removing unnecessary arguments
 
-When the macro recorder records a method, the values of all of the arguments are included. The following macro was recorded when the document named Test.doc was opened. The resulting macro includes all of the arguments for the  **[Open](../../../api/Word.Documents.Open.md)** method.
+When the macro recorder records a method, the values of all of the arguments are included. The following macro was recorded when the document named Test.doc was opened. The resulting macro includes all of the arguments for the **[Open](../../../api/Word.Documents.Open.md)** method.
 
 
 ```vb

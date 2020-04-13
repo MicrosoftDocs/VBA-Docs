@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMath.ParentOMath property (Word)
 
-Returns an  **OMath** object that represents the parent element. Read-only.
+Returns an **OMath** object that represents the parent element. Read-only.
 
 
 ## Syntax

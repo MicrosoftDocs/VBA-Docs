@@ -2,7 +2,7 @@
 title: Object Doesn't Support this Property or Method
 ms.prod: word
 ms.assetid: 2595d458-e84f-2107-e27c-24e5a0131f9a
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -17,7 +17,7 @@ ActiveDocument.Copy
 ```
 
 
-The  **[ActiveDocument](../../../api/Word.Application.ActiveDocument.md)** property returns a **[Document](../../../api/Word.Document.md)** object. There is no **Copy** method or property available for the **Document** object, therefore an error occurs. To determine what properties and methods are available for an object, do any of the following.
+The **[ActiveDocument](../../../api/Word.Application.ActiveDocument.md)** property returns a **[Document](../../../api/Word.Document.md)** object. There is no **Copy** method or property available for the **Document** object, therefore an error occurs. To determine what properties and methods are available for an object, do any of the following.
 
 
 - Use the Object Browser to determine what members (properties and methods) are available for the selected class (object).
@@ -26,7 +26,7 @@ The  **[ActiveDocument](../../../api/Word.Application.ActiveDocument.md)** prope
     
 - Use Word Visual Basic for Applications Help to determine which properties and methods can be used with an object. Each object topic in Help includes a page that lists the properties and methods for the object. Press F1 while in the Object Browser or while in a module to display the appropriate Help topic.
     
-- Use the  **TypeName** function to determine the type of object returned by an expression. The following example displays "Range" because the **[Content](../../../api/Word.Document.Content.md)** property returns a **[Range](../../../api/Word.Range.md)** object.
+- Use the **TypeName** function to determine the type of object returned by an expression. The following example displays "Range" because the **[Content](../../../api/Word.Document.Content.md)** property returns a **[Range](../../../api/Word.Range.md)** object.
     
 ```vb
   MsgBox TypeName(ActiveDocument.Content)

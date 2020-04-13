@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AxisTitle.Width property (PowerPoint)
 
-Returns a  **Double** value that represents the width, in [points](../language/glossary/vbe-glossary.md#point), of the object. Read-only.
+Returns a **Double** value that represents the width, in [points](../language/glossary/vbe-glossary.md#point), of the object. Read-only.
 
 
 ## Syntax

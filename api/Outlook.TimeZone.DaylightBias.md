@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimeZone.DaylightBias property (Outlook)
 
-Returns a  **Long** value that represents the time offset in minutes from the **[Bias](Outlook.TimeZone.Bias.md)** to account for daylight time in this time zone. Read-only.
+Returns a **Long** value that represents the time offset in minutes from the **[Bias](Outlook.TimeZone.Bias.md)** to account for daylight time in this time zone. Read-only.
 
 
 ## Syntax

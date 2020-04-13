@@ -2,10 +2,9 @@
 title: New in Access for developers
 ms.prod: access
 ms.assetid: df778f51-d65e-4c30-b618-65003ceb39b3
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
-
 
 # New in Access for developers
 
@@ -44,7 +43,7 @@ Views are organized by the tables they're bound to in the Tile Pane. By default,
 
 You can rearrange the tables in the Tile Pane. You can change the name displayed on a tile, which doesn't rename its underlying table. However, deleting the tile deletes the table.
 
-You can hide tiles that you don't want to be displayed in the web browser. When you hide a tile, you can still edit the underlying table and views in Access. Although the user can't access the views of hidden tiles directly, you can use the  **ChangeView** or **OpenPopup** macro actions to display a view associated with a hidden tile. The following figure shows that the Related Issues and Issue Comments tiles have been hidden:
+You can hide tiles that you don't want to be displayed in the web browser. When you hide a tile, you can still edit the underlying table and views in Access. Although the user can't access the views of hidden tiles directly, you can use the **ChangeView** or **OpenPopup** macro actions to display a view associated with a hidden tile. The following figure shows that the Related Issues and Issue Comments tiles have been hidden:
 
 ![Hidden tiles in the view designer](../../../images/odc_Access15_WhatsNewInAccessforDevelopers_Figure04.jpg)
 
@@ -61,7 +60,7 @@ There are four kinds of views that you can create in yourAccess 2013 app: List D
 
 List Details is one of the views Access automatically generates when you create a table. The main feature that distinguishes a list view is the list pane that appears on the left side of the view. The list pane is used to filter and navigate the records contained in the view.
 
-The list pane can display up to three items from each record by setting its  **Primary**, **Secondary**, and **Thumbnail** properties. The following figure shows that the list pane in the Employees List view is configured to display the **FullName** and **Job Title** fields.
+The list pane can display up to three items from each record by setting its **Primary**, **Secondary**, and **Thumbnail** properties. The following figure shows that the list pane in the Employees List view is configured to display the **FullName** and **Job Title** fields.
 
 ![List Details view](../../../images/odc_Access15_WhatsNewInAccessforDevelopers_Figure06.jpg)
 
@@ -71,7 +70,7 @@ Datasheet is the other kind of view Access automatically generates when you crea
 
 ![A filtered Datasheet view](../../../images/odc_Access15_WhatsNewInAccessforDevelopers_Figure07.jpg)
 
-Summary views can be used to group records based on a field and optionally calculate a sum or average. The field to group by displays its values in a list view. When a group is selected, the record contained in the group is displayed in a related items control. The related items control can be configured to display up to four fields that have information about the record. A popup view can be specified if you want to drill down on the item. The following figure shows the  **Issues By Status** view, a Summary view that groups the **Issues** table by the **Status** field:
+Summary views can be used to group records based on a field and optionally calculate a sum or average. The field to group by displays its values in a list view. When a group is selected, the record contained in the group is displayed in a related items control. The related items control can be configured to display up to four fields that have information about the record. A popup view can be specified if you want to drill down on the item. The following figure shows the **Issues By Status** view, a Summary view that groups the **Issues** table by the **Status** field:
 
 ![A Summary view](../../../images/odc_Access15_WhatsNewInAccessforDevelopers_Figure08.jpg)
 
@@ -82,7 +81,7 @@ Blank views are, as you might expect, blank when you create them. Blank views ar
 
 The Access 2013 view designer doesn't provide the pixel-perfect approach offered when you design forms in client databases. The view and its controls in Access 2013 apps support a smaller set of controls, properties and events.
 
-The view designer is laid out as a table grid. As you add, move, and resize a control on a view, it snaps to the invisible grid. To configure a control property, select the control. One or more icons are displayed next to the control. Selecting an icon displays a popup that contains a category of properties. Access displays only the properties that are relevant in the current context. The following figure shows the  **Data** properties for the **ProjectComboBox** control.
+The view designer is laid out as a table grid. As you add, move, and resize a control on a view, it snaps to the invisible grid. To configure a control property, select the control. One or more icons are displayed next to the control. Selecting an icon displays a popup that contains a category of properties. Access displays only the properties that are relevant in the current context. The following figure shows the **Data** properties for the **ProjectComboBox** control.
 
 ![Property popup](../../../images/odc_Access15_WhatsNewInAccessforDevelopers_Figure09.jpg)
 
@@ -104,7 +103,7 @@ The Related Items control displays a set of records from tables related to the v
 
 ![Related Items control](../../../images/odc_Access15_WhatsNewInAccessforDevelopers_Figure11.jpg)
 
-To edit the items in a Related Items tab, you must assign a view to its  **Popup view** property. The specified view will open in a popup window when you choose an item.
+To edit the items in a Related Items tab, you must assign a view to its **Popup view** property. The specified view will open in a popup window when you choose an item.
 
 
 ## Programmability in Access apps
@@ -145,7 +144,7 @@ The following table lists the events supported by each control.
 |Text Box|After Update, On Click|
 |View|On Current, On Load|
 
-Reuse standalone UI macros by calling them from other macros, helping you avoid duplicate code. Standalone UI macros are visible in the Navigation Pane, under  **Macros**. However, you can't run them directly from the Navigation Pane. Use the  **RunMacro** action to run a standalone UI macro from an embedded UI macro.
+Reuse standalone UI macros by calling them from other macros, helping you avoid duplicate code. Standalone UI macros are visible in the Navigation Pane, under **Macros**. However, you can't run them directly from the Navigation Pane. Use the **RunMacro** action to run a standalone UI macro from an embedded UI macro.
 
 ### Data macros
 
@@ -163,7 +162,7 @@ The following table lists the events that you can attach a data macro to in a ta
 |On Update|Occurs after an existing record is changed.|
 |On Delete|Occurs after a record is deleted|
 
-The following figure shows a data macro embedded in the  **On Update** event of the Issues table. The data macro verifies that a resolution is selected when an issue is resolved or closed.
+The following figure shows a data macro embedded in the **On Update** event of the Issues table. The data macro verifies that a resolution is selected when an issue is resolved or closed.
 
 ![Data macro embedded in the On Update event](../../../images/odc_Access15_WhatsNewInAccessforDevelopers_Figure12.jpg)
 

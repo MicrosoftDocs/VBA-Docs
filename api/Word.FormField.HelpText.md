@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[FormField](Word.FormField.md)' objec
 
 ## Remarks
 
-If the  **[OwnHelp](Word.FormField.OwnHelp.md)** property is set to **True**, **HelpText** specifies the text string value. If **OwnHelp** is set to **False**, **HelpText** specifies the name of an AutoText entry that contains help text for the form field.
+If the **[OwnHelp](Word.FormField.OwnHelp.md)** property is set to **True**, **HelpText** specifies the text string value. If **OwnHelp** is set to **False**, **HelpText** specifies the name of an AutoText entry that contains help text for the form field.
 
 
 ## Example

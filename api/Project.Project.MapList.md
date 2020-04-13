@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Project.MapList property (Project)
 
-Gets a  **[List](Project.List.md)** object representing the list of data maps in the project. Read-only **List**.
+Gets a **[List](Project.List.md)** object representing the list of data maps in the project. Read-only **List**.
 
 
 ## Syntax

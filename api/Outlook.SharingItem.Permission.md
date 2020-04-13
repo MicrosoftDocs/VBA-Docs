@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.Permission property (Outlook)
 
-Sets or returns an  **[OlPermission](Outlook.OlPermission.md)** constant that determines what permissions to grant the recipients on the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
+Sets or returns an **[OlPermission](Outlook.OlPermission.md)** constant that determines what permissions to grant the recipients on the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) 
 
 ## Remarks
 
-The  **Permission** property should be synchronized with the **[PermissionTemplateGuid](Outlook.SharingItem.PermissionTemplateGuid.md)** property to accurately reflect the permission status of the **SharingItem**. Setting the **PermissionTemplateGuid** property to a valid GUID should also incur setting the **Permission** property to **OlPermission.olPermissionTemplate**.
+The **Permission** property should be synchronized with the **[PermissionTemplateGuid](Outlook.SharingItem.PermissionTemplateGuid.md)** property to accurately reflect the permission status of the **SharingItem**. Setting the **PermissionTemplateGuid** property to a valid GUID should also incur setting the **Permission** property to **OlPermission.olPermissionTemplate**.
 
  When no Information Rights Management (IRM) has been set up (in which case the **Permission** property is **OlPermission.olUnrestricted**), or the restriction is not to forward the **SharingItem** (in which case the **Permission** property is **OlPermission.olDoNotForward**), the value of the **PermissionTemplateGuid** property should be an empty string.
 

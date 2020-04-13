@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **ViewShowSchedule** method has no effect unless the active view contains a resource or task form.
+The **ViewShowSchedule** method has no effect unless the active view contains a resource or task form.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

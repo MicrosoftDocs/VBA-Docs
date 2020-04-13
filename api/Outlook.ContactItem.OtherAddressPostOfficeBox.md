@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.OtherAddressPostOfficeBox property (Outlook)
 
-Returns or sets a  **String** representing the post office box portion of the other address for the contact. Read/write.
+Returns or sets a **String** representing the post office box portion of the other address for the contact. Read/write.
 
 
 ## Syntax

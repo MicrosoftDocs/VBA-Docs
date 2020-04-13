@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Rectangles.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Rectangles** object.
+Returns an **Object** that represents the parent object of the specified **Rectangles** object.
 
 
 ## Syntax

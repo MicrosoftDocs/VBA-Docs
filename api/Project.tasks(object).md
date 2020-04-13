@@ -53,7 +53,7 @@ Next Temp
 MsgBox Results
 ```
 
-Use the  **[Tasks](./Project.Selection.Tasks.md)** property to return a **Tasks** collection. The following example displays the name of every task in the selection.
+Use the **[Tasks](./Project.Selection.Tasks.md)** property to return a **Tasks** collection. The following example displays the name of every task in the selection.
 
 
 
@@ -74,7 +74,7 @@ Next T
 MsgBox Names
 ```
 
-Use the  **[Add](./Project.Tasks.Add.md)** method to add a **Task** object to the **Tasks** collection. The following example adds a new task to the end of the task list.
+Use the **[Add](./Project.Tasks.Add.md)** method to add a **Task** object to the **Tasks** collection. The following example adds a new task to the end of the task list.
 
 
 

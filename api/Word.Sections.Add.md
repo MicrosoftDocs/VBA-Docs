@@ -31,7 +31,7 @@ _expression_ Required. A variable that represents a '[Sections](Word.sections.md
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Optional| **Variant**|The range before which you want to insert the section break. If this argument is omitted, the section break is inserted at the end of the document.|
-| _Start_|Optional| **Variant**|The type of section break you want to add. Can be one of the  **WdSectionStart** constants. If this argument is omitted, a Next Page section break is added.|
+| _Start_|Optional| **Variant**|The type of section break you want to add. Can be one of the **WdSectionStart** constants. If this argument is omitted, a Next Page section break is added.|
 
 ## Example
 

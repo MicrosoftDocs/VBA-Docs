@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Calendar.Years property (Project)
 
-Gets a  **[Years](Project.years.md)** collection representing the years in the calendar. Read-only **Years**.
+Gets a **[Years](Project.years.md)** collection representing the years in the calendar. Read-only **Years**.
 
 
 ## Syntax

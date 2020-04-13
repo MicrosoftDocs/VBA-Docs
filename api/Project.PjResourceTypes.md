@@ -17,8 +17,8 @@ Contains constants that specify the type of resource.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-|**pjResourceTypeCost**|2|Resource type is  **Cost**.|
-|**pjResourceTypeMaterial**|1|Resource type is  **Material**.|
-|**pjResourceTypeWork**|0|Resource type is  **Work**.|
+|**pjResourceTypeCost**|2|Resource type is **Cost**.|
+|**pjResourceTypeMaterial**|1|Resource type is **Material**.|
+|**pjResourceTypeWork**|0|Resource type is **Work**.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

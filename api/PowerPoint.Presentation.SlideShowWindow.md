@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Presentation.SlideShowWindow property (PowerPoint)
 
-Returns a  **[SlideShowWindow](PowerPoint.SlideShowWindow.md)** object that represents the slide show window in which the specified presentation is running. Read-only.
+Returns a **[SlideShowWindow](PowerPoint.SlideShowWindow.md)** object that represents the slide show window in which the specified presentation is running. Read-only.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ You can use this property in conjunction with the  **Me** keyword and the **Pare
 
 ## Example
 
-The following example shows the Click event procedures for buttons named "cmdBack" and "cmdForward". If you add these buttons to the slide master and add these event procedures to them, all slides based on the master (and set to show master background graphics) will have these navigation buttons that will be active during a slide show. The  **Me** keyword returns the **Master** object that represents the slide master that contains the control. If the control were on an individual slide, the **Me** keyword in an event procedure for that control would return a **Slide** object.
+The following example shows the Click event procedures for buttons named "cmdBack" and "cmdForward". If you add these buttons to the slide master and add these event procedures to them, all slides based on the master (and set to show master background graphics) will have these navigation buttons that will be active during a slide show. The **Me** keyword returns the **Master** object that represents the slide master that contains the control. If the control were on an individual slide, the **Me** keyword in an event procedure for that control would return a **Slide** object.
 
 
 ```vb

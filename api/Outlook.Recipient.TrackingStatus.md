@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Recipient.TrackingStatus property (Outlook)
 
-Returns or sets an  **[OlTrackingStatus](Outlook.OlTrackingStatus.md)** constant indicating the tracking status for the recipient. Read/write.
+Returns or sets an **[OlTrackingStatus](Outlook.OlTrackingStatus.md)** constant indicating the tracking status for the recipient. Read/write.
 
 
 ## Syntax

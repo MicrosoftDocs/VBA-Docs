@@ -39,6 +39,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The window order is the order in which windows are opened. The drop-down window list in the  **Window** group of the **View** tab in the Ribbon contains the alphabetically sorted list of open windows.
+The window order is the order in which windows are opened. The drop-down window list in the **Window** group of the **View** tab in the Ribbon contains the alphabetically sorted list of open windows.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

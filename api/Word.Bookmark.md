@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Bookmark object (Word)
 
-Represents a single bookmark in a document, selection, or range. The  **Bookmark** object is a member of the **[Bookmarks](Word.bookmarks.md)** collection. The **Bookmarks** collection includes all the bookmarks listed in the **Bookmark** dialog box (**Insert** menu).
+Represents a single bookmark in a document, selection, or range. The **Bookmark** object is a member of the **[Bookmarks](Word.bookmarks.md)** collection. The **Bookmarks** collection includes all the bookmarks listed in the **Bookmark** dialog box (**Insert** menu).
 
 
 ## Remarks
@@ -30,7 +30,7 @@ Use  **Bookmarks** (_index_), where _index_ is the bookmark name or index number
 ActiveDocument.Bookmarks("temp").Select
 ```
 
-The index number represents the position of the bookmark in the  **[Selection](Word.Selection.md)** or **[Range](Word.Range.md)** object. For the **[Document](Word.Document.md)** object, the index number represents the position of the bookmark in the alphabetical list of bookmarks in the **Bookmarks** dialog box (click **Name** to sort the list of bookmarks alphabetically). The following example displays the name of the second bookmark in the **Bookmarks** collection.
+The index number represents the position of the bookmark in the **[Selection](Word.Selection.md)** or **[Range](Word.Range.md)** object. For the **[Document](Word.Document.md)** object, the index number represents the position of the bookmark in the alphabetical list of bookmarks in the **Bookmarks** dialog box (click **Name** to sort the list of bookmarks alphabetically). The following example displays the name of the second bookmark in the **Bookmarks** collection.
 
 
 
@@ -39,7 +39,7 @@ The index number represents the position of the bookmark in the  **[Selection](W
 MsgBox ActiveDocument.Bookmarks(2).Name
 ```
 
-Use the  **[Add](Word.Bookmarks.Add.md)** method to add a bookmark to a document range. The following example marks the selection by adding a bookmark named "temp."
+Use the **[Add](Word.Bookmarks.Add.md)** method to add a bookmark to a document range. The following example marks the selection by adding a bookmark named "temp."
 
 
 
@@ -50,7 +50,7 @@ ActiveDocument.Bookmarks.Add Name:="temp", Range:=Selection.Range
 
 Remarks
 
-Use the  **BookmarkID** property with a range or selection object to return the index number of a **Bookmark** object in the **Bookmarks** collection. The following example displays the index number of the bookmark named "temp" in the active document.
+Use the **BookmarkID** property with a range or selection object to return the index number of a **Bookmark** object in the **Bookmarks** collection. The following example displays the index number of the bookmark named "temp" in the active document.
 
 
 
@@ -59,7 +59,7 @@ Use the  **BookmarkID** property with a range or selection object to return the 
 MsgBox ActiveDocument.Bookmarks("temp").Range.BookmarkID
 ```
 
-You can use [predefined bookmarks](../word/Concepts/Miscellaneous/predefined-bookmarks.md)with the  **Bookmarks** property. The following example sets the bookmark named "currpara" to the location marked by the predefined bookmark named "\Para".
+You can use [predefined bookmarks](../word/Concepts/Miscellaneous/predefined-bookmarks.md)with the **Bookmarks** property. The following example sets the bookmark named "currpara" to the location marked by the predefined bookmark named "\Para".
 
 
 
@@ -68,7 +68,7 @@ You can use [predefined bookmarks](../word/Concepts/Miscellaneous/predefined-boo
 ActiveDocument.Bookmarks("\Para").Copy "currpara"
 ```
 
-Use the  **[Exists](Word.Bookmarks.Exists.md)** method to determine whether a bookmark already exists in the selection, range, or document. The following example ensures that the bookmark named "temp" exists in the active document before selecting the bookmark.
+Use the **[Exists](Word.Bookmarks.Exists.md)** method to determine whether a bookmark already exists in the selection, range, or document. The following example ensures that the bookmark named "temp" exists in the active document before selecting the bookmark.
 
 
 

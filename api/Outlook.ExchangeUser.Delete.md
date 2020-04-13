@@ -26,7 +26,7 @@ _expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.m
 
 ## Remarks
 
-The  **ExchangeUser** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. An **ExchangeUser** object is an **AddressEntry** object that has **olExchangeUserAddressEntry** as the **[AddressEntry.AddressEntryUserType](Outlook.AddressEntry.AddressEntryUserType.md)**; calling **[AddressEntry.GetExchangeUser](Outlook.AddressEntry.GetExchangeUser.md)** returns the corresponding **ExchangeUser** object.
+The **ExchangeUser** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. An **ExchangeUser** object is an **AddressEntry** object that has **olExchangeUserAddressEntry** as the **[AddressEntry.AddressEntryUserType](Outlook.AddressEntry.AddressEntryUserType.md)**; calling **[AddressEntry.GetExchangeUser](Outlook.AddressEntry.GetExchangeUser.md)** returns the corresponding **ExchangeUser** object.
 
 
 ## See also

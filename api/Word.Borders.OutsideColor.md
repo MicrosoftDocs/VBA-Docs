@@ -28,7 +28,7 @@ _expression_ Required. A variable that represents a '[Borders](Word.borders.md)'
 
 This property can be any valid  **WdColor** constant or a value returned by Visual Basic's **RGB** function.
 
-If the  **OutsideLineStyle** property is set to either **wdLineStyleNone** or **False**, setting this property has no effect.
+If the **OutsideLineStyle** property is set to either **wdLineStyleNone** or **False**, setting this property has no effect.
 
 
 ## Example

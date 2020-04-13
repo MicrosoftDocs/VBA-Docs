@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # View.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **View** object.
+Returns an **Object** that represents the parent object of the specified **View** object.
 
 
 ## Syntax

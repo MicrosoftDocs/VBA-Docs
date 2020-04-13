@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.NewPresentation property (PowerPoint)
 
-Returns a  **NewFile** object that represents a presentation listed on the **New Presentation** task pane. Read-only.
+Returns a **NewFile** object that represents a presentation listed on the **New Presentation** task pane. Read-only.
 
 
 ## Syntax

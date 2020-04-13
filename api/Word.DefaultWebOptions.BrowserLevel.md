@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[DefaultWebOptions](Word.D
 
 ## Remarks
 
-After you set the  **BrowserLevel** property on the **DefaultWebOptions** object, the **BrowserLevel** property of any new Web pages you create in Word will be the same as the global setting.
+After you set the **BrowserLevel** property on the **DefaultWebOptions** object, the **BrowserLevel** property of any new Web pages you create in Word will be the same as the global setting.
 
 
 ## Example

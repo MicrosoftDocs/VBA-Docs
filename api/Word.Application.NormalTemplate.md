@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Word.Application.md)*
 
 ## Example
 
-This example inserts the AutoText entry named "Test" from the Normal template, if this entry is contained in the  **AutoTextEntries** collection.
+This example inserts the AutoText entry named "Test" from the Normal template, if this entry is contained in the **AutoTextEntries** collection.
 
 
 ```vb

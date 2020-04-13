@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTimeControl.AutoWordSelect property (Outlook)
 
-Returns or sets a  **Boolean** that specifies whether a word or a character is the basic unit used to extend a selection. Read/write.
+Returns or sets a **Boolean** that specifies whether a word or a character is the basic unit used to extend a selection. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkTimeControl](Outlook.OlkTimeContr
 
 ## Remarks
 
-The default value is  **True**.
+The default value is **True**.
 
 
 ## See also

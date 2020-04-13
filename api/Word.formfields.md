@@ -14,7 +14,7 @@ A collection of  **FormField** objects that represent all the form fields in a s
 
 ## Remarks
 
-Use the  **FormFields** property to return the **FormFields** collection. The following example counts the number of text box form fields in the active document.
+Use the **FormFields** property to return the **FormFields** collection. The following example counts the number of text box form fields in the active document.
 
 
 ```vb
@@ -24,7 +24,7 @@ Next aField
 MsgBox "There are " & count & " text boxes in this document"
 ```
 
-Use the  **Add** method with the **FormFields** object to add a form field. The following example adds a check box at the beginning of the active document and then selects the check box.
+Use the **Add** method with the **FormFields** object to add a form field. The following example adds a check box at the beginning of the active document and then selects the check box.
 
 
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PropertyAccessor.GetProperty method (Outlook)
 
-Returns an  **Object** that represents the value of the property specified by _SchemaName_.
+Returns an **Object** that represents the value of the property specified by _SchemaName_.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [PropertyAccessor](Outlook.PropertyAcc
 
 ## Return value
 
-A  **Variant** value that represents the value of the requested property as specified by _SchemaName_.
+A **Variant** value that represents the value of the requested property as specified by _SchemaName_.
 
 
 ## Remarks

@@ -5,22 +5,20 @@ f1_keywords:
 - olfm10.chm3077183
 ms.prod: outlook
 ms.assetid: 9edcd472-eeaa-c7ef-7d15-369f50c9fe31
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Display the List Portion of a Combo Box
 
-The following example uses the  **[DropDown](../../../api/Outlook.combobox.dropdown.md)** method to display the list in a **[ComboBox](../../../api/Outlook.combobox.md)**. The user can display the list of a  **ComboBox** by clicking the **[CommandButton](../../../api/Outlook.commandbutton.md)**.
+The following example uses the **[DropDown](../../../api/Outlook.combobox.dropdown.md)** method to display the list in a **[ComboBox](../../../api/Outlook.combobox.md)**. The user can display the list of a **ComboBox** by clicking the **[CommandButton](../../../api/Outlook.commandbutton.md)**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **ComboBox** named ComboBox1.
-    
-- A  **CommandButton** named CommandButton1.
-    
+- A **ComboBox** named ComboBox1.
 
+- A **CommandButton** named CommandButton1.
 
 
 ```vb

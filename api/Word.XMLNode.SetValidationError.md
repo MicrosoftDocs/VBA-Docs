@@ -36,7 +36,7 @@ _expression_ Required. A variable that represents a '[XMLNode](Word.XMLNode.md)'
 
 ## Remarks
 
-To set custom error text, use the  **wdXMLValidationStatusCustom** constant.
+To set custom error text, use the **wdXMLValidationStatusCustom** constant.
 
 
 ## Example

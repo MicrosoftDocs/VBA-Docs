@@ -28,8 +28,8 @@ _expression_ A variable that represents a '[KeyBindings](Word.keybindings.md)' c
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _KeyCode_|Required| **Long**|A key you specify by using one of the  **WdKey** constants.|
-| _KeyCode2_|Optional| **Variant**|A second key you specify by using one of the  **WdKey** constants.|
+| _KeyCode_|Required| **Long**|A key you specify by using one of the **WdKey** constants.|
+| _KeyCode2_|Optional| **Variant**|A second key you specify by using one of the **WdKey** constants.|
 
 ## Return value
 
@@ -40,12 +40,12 @@ KeyBinding
 
 If the key combination doesn't exist, this method returns  **Nothing**.
 
-You can use the  **BuildKeyCode** method to create the KeyCode or KeyCode2 argument.
+You can use the **BuildKeyCode** method to create the KeyCode or KeyCode2 argument.
 
 
 ## Example
 
-This example assigns the ALT+F4 key combination to the Arial font and then displays the number of items in the  **KeyBindings** collection. The example then clears the key combinations (returns it to its default setting) and redisplays the number of items in the **KeyBindings** collection.
+This example assigns the ALT+F4 key combination to the Arial font and then displays the number of items in the **KeyBindings** collection. The example then clears the key combinations (returns it to its default setting) and redisplays the number of items in the **KeyBindings** collection.
 
 
 ```vb
@@ -57,7 +57,7 @@ KeyBindings.Key(KeyCode:=BuildKeyCode(wdKeyAlt, wdKeyF4)).Clear
 MsgBox KeyBindings.Count & " keys in KeyBindings collection"
 ```
 
-This example assigns the CTRL+SHIFT+U key combination to the macro named "Macro1" in the active document. The example uses the  **Key** property to return a **KeyBinding** object so that Word can retrieve and display the command name.
+This example assigns the CTRL+SHIFT+U key combination to the macro named "Macro1" in the active document. The example uses the **Key** property to return a **KeyBinding** object so that Word can retrieve and display the command name.
 
 
 
@@ -71,7 +71,7 @@ MsgBox KeyBindings.Key(BuildKeyCode(wdKeyControl, _
  wdKeyShift, wdKeyU)).Command
 ```
 
-This example determines whether the CTRL+SHIFT+A key combination is part of the  **KeyBindings** collection.
+This example determines whether the CTRL+SHIFT+A key combination is part of the **KeyBindings** collection.
 
 
 

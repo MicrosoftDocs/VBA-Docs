@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ListBox.MultiSelect Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that indicates whether the object permits multiple selections. Read/write.
+Returns or sets an **Integer** that indicates whether the object permits multiple selections. Read/write.
 
 
 ## Syntax
 
 _expression_.**MultiSelect**
 
-_expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a **ListBox** object.
 
 
 ## Remarks
@@ -36,6 +36,6 @@ The settings for  **MultiSelect** are:
 
 When the  **MultiSelect** property is set to 1 or 2, you must use the list box's **[Selected](Outlook.listbox.selected.md)** property to determine the selected items. Also, the **[Value](Outlook.listbox.value.md)** property of the control is always **Null**.
 
-The  **[ListIndex](Outlook.listbox.listindex.md)** property returns the index of the row with the keyboard focus.
+The **[ListIndex](Outlook.listbox.listindex.md)** property returns the index of the row with the keyboard focus.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

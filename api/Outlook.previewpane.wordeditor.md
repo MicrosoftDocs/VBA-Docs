@@ -24,7 +24,7 @@ _expression_ A variable that represents a 'PreviewPane' object.
 
 ## Remarks
 
-The  **WordEditor** property is only valid if[IsWordMail](Outlook.Inspector.IsWordMail.md) returns True and the [EditorType](Outlook.Inspector.EditorType.md) is **olEditorWord**. The returned **WordDocument** object provides access to most of the Word object model, except for the following members:
+The **WordEditor** property is only valid if[IsWordMail](Outlook.Inspector.IsWordMail.md) returns True and the [EditorType](Outlook.Inspector.EditorType.md) is **olEditorWord**. The returned **WordDocument** object provides access to most of the Word object model, except for the following members:
 
 
 - Tables.Add

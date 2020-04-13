@@ -12,7 +12,7 @@ localization_priority: Normal
 ## In this section
 
 
--  [TabStrip Object (Outlook Forms Script)](Outlook.tabstrip.md)
+- [TabStrip Object (Outlook Forms Script)](Outlook.tabstrip.md)
     
 
 

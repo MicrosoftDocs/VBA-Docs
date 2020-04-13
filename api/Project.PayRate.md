@@ -14,7 +14,7 @@ localization_priority: Normal
 
  
 
-Represents a line of rates from the cost rate table of a resource. The  **PayRate** object is a member of the **[PayRates](Project.payrates.md)** collection.
+Represents a line of rates from the cost rate table of a resource. The **PayRate** object is a member of the **[PayRates](Project.payrates.md)** collection.
  
  **Using the PayRate Object**
  
@@ -29,7 +29,7 @@ ActiveProject.Resources("Tamara").CostRateTables("C").PayRates(1).StandardRate
 
  **Using the PayRates Collection**
  
-Use the  **[PayRates](Project.CostRateTable.PayRates.md)** property to return a **PayRates** collection. The following example lists the standard pay rates for all the cost rate tables of the resource in the active cell.
+Use the **[PayRates](Project.CostRateTable.PayRates.md)** property to return a **PayRates** collection. The following example lists the standard pay rates for all the cost rate tables of the resource in the active cell.
  
 
 
@@ -48,7 +48,7 @@ Next CRT
 MsgBox Rates
 ```
 
-Use the  **[Add](Project.PayRates.Add.md)** method to add a **PayRate** object to the **PayRates** collection. The following example adds a line to Tamara's cost rate table "C" with an effective date of September 1, 2012, a standard rate of $40.00 per hour, an overtime rate of $60.00 per hour, and a per-use cost of $0.
+Use the **[Add](Project.PayRates.Add.md)** method to add a **PayRate** object to the **PayRates** collection. The following example adds a line to Tamara's cost rate table "C" with an effective date of September 1, 2012, a standard rate of $40.00 per hour, an overtime rate of $60.00 per hour, and a per-use cost of $0.
  
 
 

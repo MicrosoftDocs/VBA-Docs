@@ -26,7 +26,7 @@ _expression_. `PasteFormatFromExternalSource`
 
 ## Remarks
 
-Corresponds to the  **Pasting from other programs** option in the **Advanced** tab of the **Word Options** dialog box.
+Corresponds to the **Pasting from other programs** option in the **Advanced** tab of the **Word Options** dialog box.
 
 
 ## See also

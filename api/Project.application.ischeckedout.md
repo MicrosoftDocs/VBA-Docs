@@ -27,9 +27,9 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-For a project that is open in Project Professional, the  **IsCheckedOut** property value is **True** if the project is checked out by the current user. If the specified project is not checked out by the current user (that is, the project is open but in a read-only mode), or is checked out by a different user, the **IsCheckedOut** value is **False**.
+For a project that is open in Project Professional, the **IsCheckedOut** property value is **True** if the project is checked out by the current user. If the specified project is not checked out by the current user (that is, the project is open but in a read-only mode), or is checked out by a different user, the **IsCheckedOut** value is **False**.
 
-The  **IsCheckedOut** property returns run-time error 1004, "An unexpected error occurred with the method" in the following cases:
+The **IsCheckedOut** property returns run-time error 1004, "An unexpected error occurred with the method" in the following cases:
 
 
 - The specified project is not open in Project Professional.

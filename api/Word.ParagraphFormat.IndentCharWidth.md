@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents a '[ParagraphFormat](Word.Para
 
 ## Remarks
 
-Using this method is equivalent to clicking the  **Increase Indent** button on the **Formatting** toolbar.
+Using this method is equivalent to clicking the **Increase Indent** button on the **Formatting** toolbar.
 
 
 ## Example

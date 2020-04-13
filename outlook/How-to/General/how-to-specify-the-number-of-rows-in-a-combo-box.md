@@ -5,22 +5,22 @@ f1_keywords:
 - olfm10.chm3077207
 ms.prod: outlook
 ms.assetid: 53486763-8dbf-dddf-7108-fe187f06b593
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Specify the Number of Rows in a Combo Box
 
-The following example uses a  **[SpinButton](../../../api/Outlook.spinbutton.md)** to control the number of rows in the drop-down list of a **[ComboBox](../../../api/Outlook.combobox.md)**. The user changes the value of the  **SpinButton**, then clicks on the drop-down arrow of the  **ComboBox** to display the list.
+The following example uses a **[SpinButton](../../../api/Outlook.spinbutton.md)** to control the number of rows in the drop-down list of a **[ComboBox](../../../api/Outlook.combobox.md)**. The user changes the value of the **SpinButton**, then clicks on the drop-down arrow of the **ComboBox** to display the list.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **ComboBox** named ComboBox1.
+- A **ComboBox** named ComboBox1.
     
-- A  **SpinButton** named SpinButton1 that is bound to a custom number field named SpinButtonValue.
+- A **SpinButton** named SpinButton1 that is bound to a custom number field named SpinButtonValue.
     
-- A  **[Label](../../../api/Outlook.label.md)** named Label1.
+- A **[Label](../../../api/Outlook.label.md)** named Label1.
     
 
 

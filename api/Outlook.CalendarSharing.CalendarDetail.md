@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CalendarSharing.CalendarDetail property (Outlook)
 
-Returns or sets an  **[OlCalendarDetail](Outlook.OlCalendarDetail.md)** value indicating the level of detail for calendar items included in the iCalendar (.ics) file created by the **[ForwardAsICal](Outlook.CalendarSharing.ForwardAsICal.md)** or **[SaveAsICal](Outlook.CalendarSharing.SaveAsICal.md)** methods of the **[CalendarSharing](Outlook.CalendarSharing.md)** object. Read/write.
+Returns or sets an **[OlCalendarDetail](Outlook.OlCalendarDetail.md)** value indicating the level of detail for calendar items included in the iCalendar (.ics) file created by the **[ForwardAsICal](Outlook.CalendarSharing.ForwardAsICal.md)** or **[SaveAsICal](Outlook.CalendarSharing.SaveAsICal.md)** methods of the **[CalendarSharing](Outlook.CalendarSharing.md)** object. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_. `CalendarDetail`
 
 ## Return value
 
-A  **OlCalendarDetail** value that indicates the level of detail for calendar items.
+A **OlCalendarDetail** value that indicates the level of detail for calendar items.
 
 
 ## Remarks

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Group.Delete method (Project)
 
-Deletes the  **Group** object from a **ResourceGroups** or **TaskGroups** collection.
+Deletes the **Group** object from a **ResourceGroups** or **TaskGroups** collection.
 
 
 ## Syntax

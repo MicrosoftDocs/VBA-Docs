@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # Page.ScrollBars Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies whether a page has vertical scroll bars, horizontal scroll bars, or both. Read/write.
+Returns or sets an **Integer** that specifies whether a page has vertical scroll bars, horizontal scroll bars, or both. Read/write.
 
 
 ## Syntax
 
 _expression_.**ScrollBars**
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **Page** object.
 
 
 ## Remarks

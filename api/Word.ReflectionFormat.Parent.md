@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ReflectionFormat.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **ReflectionFormat** object.
+Returns an **Object** that represents the parent object of the specified **ReflectionFormat** object.
 
 
 ## Syntax

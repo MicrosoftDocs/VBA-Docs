@@ -38,7 +38,7 @@ Set objBB = objTemplate.BuildingBlockEntries.Item(1)
 > [!NOTE] 
 > Depending on how you access the collection, the collection returned may change. For example, if you access a collection of building blocks with a type of  **wdTypeAutoText** with a category of "General", the returned collection may be different from the collection returned if you access a collection of building blocks with a type of **wdTypeAutoText** with a category of "Custom". It is also different from the collection returned if you access the collection of building blocks with a type of **wdTypeCustomAutoText** with a category of "General". Therefore, the first item in a collection accessed from the **BuildingBlockEntries** collection may be different from the first item in the collection accessed from the **BuildingBlocks** collection.
 
-To create a new building block, you can use the  **Add** method for either the **BuildingBlockEntries** collection or the **BuildingBlocks** collection. However, the recommended way to create a new building block is by using the **[Add](Word.BuildingBlockEntries.Add.md)** method for the **BuildingBlockEntries** collection. The following example adds the selected text to the watermarks building block gallery of the first template in the **[Templates](Word.templates.md)** collection.
+To create a new building block, you can use the **Add** method for either the **BuildingBlockEntries** collection or the **BuildingBlocks** collection. However, the recommended way to create a new building block is by using the **[Add](Word.BuildingBlockEntries.Add.md)** method for the **BuildingBlockEntries** collection. The following example adds the selected text to the watermarks building block gallery of the first template in the **[Templates](Word.templates.md)** collection.
 
 
 
@@ -56,7 +56,7 @@ Set objBB = objTemplate.BuildingBlockEntries _
  Range:=Selection.Range)
 ```
 
-Use the  **[Insert](Word.BuildingBlock.Insert.md)** method to insert a new building block into a document. The following example inserts the first building block in the first template into the active document at the Insertion Point.
+Use the **[Insert](Word.BuildingBlock.Insert.md)** method to insert a new building block into a document. The following example inserts the first building block in the first template into the active document at the Insertion Point.
 
 
 
@@ -71,7 +71,7 @@ Set objBB = objTemplate.BuildingBlockEntries.Item(1)
 objBB.Insert Selection.Range
 ```
 
-Use the  **[Delete](Word.BuildingBlock.Delete.md)** method to remove a building block from a template. The following example deletes the first building block from the first template in the **Templates** collection.
+Use the **[Delete](Word.BuildingBlock.Delete.md)** method to remove a building block from a template. The following example deletes the first building block from the first template in the **Templates** collection.
 
 
 

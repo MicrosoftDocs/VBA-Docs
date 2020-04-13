@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[TableOfContents](Word.Tabl
 
 ## Remarks
 
-Use the  **UpdatePageNumbers** method to update the page numbers of items in a table of contents.
+Use the **UpdatePageNumbers** method to update the page numbers of items in a table of contents.
 
 
 ## See also

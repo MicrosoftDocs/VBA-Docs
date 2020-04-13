@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Global](Word.Global.md)' o
 
 ## Remarks
 
-Active custom conversion dictionaries are marked with a check in the  **Custom Dictionaries** dialog box (on the **Tools** menu, click **Options**, then click the  **Spelling & Grammar** tab, and then click the **Custom Dictionaries** button).
+Active custom conversion dictionaries are marked with a check in the **Custom Dictionaries** dialog box (on the **Tools** menu, click **Options**, then click the **Spelling & Grammar** tab, and then click the **Custom Dictionaries** button).
 
 For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 

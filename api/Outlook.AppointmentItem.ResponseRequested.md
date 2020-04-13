@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.ResponseRequested property (Outlook)
 
-Returns a  **Boolean** that indicates **True** if the sender would like a response to the meeting request for the appointment. Read/write.
+Returns a **Boolean** that indicates **True** if the sender would like a response to the meeting request for the appointment. Read/write.
 
 
 ## Syntax

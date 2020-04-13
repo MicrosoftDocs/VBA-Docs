@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextFrame object (PowerPoint)
 
-Represents the text frame in a  **Shape** object. Contains the text in the text frame and the properties and methods that control the alignment and anchoring of the text frame.
+Represents the text frame in a **Shape** object. Contains the text in the text frame and the properties and methods that control the alignment and anchoring of the text frame.
 
 
 ## Example

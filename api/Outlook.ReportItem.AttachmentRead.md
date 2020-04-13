@@ -27,7 +27,7 @@ _expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Attachment_|Required| **[Attachment](Outlook.Attachment.md)**|The  **Attachment** that was opened.|
+| _Attachment_|Required| **[Attachment](Outlook.Attachment.md)**|The **Attachment** that was opened.|
 
 ## See also
 

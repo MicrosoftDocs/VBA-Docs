@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Timeline.FinishDate property (Project)
 
-Indicates the finish date for a  **Timeline** bar based on the input argument. Introduced in Office 2016.
+Indicates the finish date for a **Timeline** bar based on the input argument. Introduced in Office 2016.
 
 
 ## Syntax

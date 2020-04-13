@@ -26,7 +26,7 @@ _expression_.**RecordCount**
 
 ## Remarks
 
-If Microsoft Word cannot determine the number of records in a data source, the  **RecordCount** property will return a value of -1.
+If Microsoft Word cannot determine the number of records in a data source, the **RecordCount** property will return a value of -1.
 
 
 ## Example

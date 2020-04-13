@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.ResponseStatus property (Outlook)
 
-Returns an  **[OlResponseStatus](Outlook.OlResponseStatus.md)** constant indicating the overall status of the meeting for the current user for the appointment. Read-only.
+Returns an **[OlResponseStatus](Outlook.OlResponseStatus.md)** constant indicating the overall status of the meeting for the current user for the appointment. Read-only.
 
 
 ## Syntax

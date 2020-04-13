@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.SaveSentMessageFolder property (Outlook)
 
-Returns or sets a  **[Folder](Outlook.Folder.md)** object that represents the folder in which a copy of the **[SharingItem](Outlook.SharingItem.md)** will be saved after being sent. Read/write.
+Returns or sets a **[Folder](Outlook.Folder.md)** object that represents the folder in which a copy of the **[SharingItem](Outlook.SharingItem.md)** will be saved after being sent. Read/write.
 
 
 ## Syntax

@@ -23,7 +23,7 @@ _expression_ A variable that represents a '[LegendKey](PowerPoint.LegendKey.md)'
 
 ## Remarks
 
-Deleting a  **LegendKey** object deletes the entire series.
+Deleting a **LegendKey** object deletes the entire series.
 
 
 ## See also

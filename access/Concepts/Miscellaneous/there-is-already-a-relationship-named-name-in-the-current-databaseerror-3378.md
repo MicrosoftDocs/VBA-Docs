@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You must specify a unique name for each relationship you add to a database by using data-definition queries. Check to see if the name you specified exists in the  **Relations** collection.
+You must specify a unique name for each relationship you add to a database by using data-definition queries. Check to see if the name you specified exists in the **Relations** collection.
 
 ## See also
 

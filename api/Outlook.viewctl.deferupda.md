@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # ViewCtl.DeferUpdate Property (Outlook View Control)
 
-Returns or sets a  **Boolean**value that indicates whether property changes affect the control display. Read/write.
+Returns or sets a **Boolean**value that indicates whether property changes affect the control display. Read/write.
 
 
 ## Syntax
 
 _expression_.**DeferUpdate**
 
-_expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

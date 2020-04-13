@@ -5,14 +5,11 @@ f1_keywords:
 - jeterr40.chm5003245
 ms.prod: access
 ms.assetid: ac70f60f-e43b-30cc-fea4-969c132819df
-ms.date: 06/08/2017
+ms.date: 02/14/2020
 localization_priority: Normal
 ---
 
-
 # Could not parse field names from the first row of the import table. (Error 3245)
-
-  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.CostRateTables property (Project)
 
-Gets a  **[CostRateTables](Project.CostRateTable.md)** collection representing the cost rate tables for the resource. Read-only **CostRateTables**.
+Gets a **[CostRateTables](Project.CostRateTable.md)** collection representing the cost rate tables for the resource. Read-only **CostRateTables**.
 
 
 ## Syntax

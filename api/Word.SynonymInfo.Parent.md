@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SynonymInfo.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **SynonymInfo** object.
+Returns an **Object** that represents the parent object of the specified **SynonymInfo** object.
 
 
 ## Syntax

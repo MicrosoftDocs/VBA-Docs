@@ -22,7 +22,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional|**Variant**|Specifies the axis to return. Can be one of the following  **Office.XlAxisType** constants: **xlValue**,  **xlCategory**, or  **xlSeriesAxis** (**xlSeriesAxis** is valid only for 3D charts).|
-| _AxisGroup_|Optional|**Office.XlAxisGroup**|Specifies the axis group. The default value is  **xlPrimary**; that is, if the  _AxisGroup_ argument is omitted, the primary group is used. 3D charts have only one axis group.|
+| _AxisGroup_|Optional|**Office.XlAxisGroup**|Specifies the axis group. The default value is **xlPrimary**; that is, if the  _AxisGroup_ argument is omitted, the primary group is used. 3D charts have only one axis group.|
 | _Type_|Optional|**Variant**||
 | _AxisGroup_|Optional|XLAXISGROUP||
 
@@ -33,7 +33,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Examples
 
-The  **SetAxisTitle** macro adds an axis label to the category axis in the chart.
+The **SetAxisTitle** macro adds an axis label to the category axis in the chart.
 
 
 ```vb
@@ -52,7 +52,7 @@ Sub SetAxisTitle()
 End Sub
 ```
 
-The  **AddCategoryGridlines** macro adds gridlines to the category axis in the chart.
+The **AddCategoryGridlines** macro adds gridlines to the category axis in the chart.
 
 
 

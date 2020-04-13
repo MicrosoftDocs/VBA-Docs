@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleActions.ClearCategories property (Outlook)
 
-Returns a  **[RuleAction](Outlook.RuleAction.md)** object with a **[RuleAction.ActionType](Outlook.RuleAction.ActionType.md)** of **olRuleActionClearCategories**. Read-only.
+Returns a **[RuleAction](Outlook.RuleAction.md)** object with a **[RuleAction.ActionType](Outlook.RuleAction.ActionType.md)** of **olRuleActionClearCategories**. Read-only.
 
 
 ## Syntax

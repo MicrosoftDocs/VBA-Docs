@@ -60,7 +60,7 @@ Next R
  
 
  
-Use the  **[Months](Project.Year.Months.md)** property to return a **Months** collection. The following example counts the number of months in 2012.
+Use the **[Months](Project.Year.Months.md)** property to return a **Months** collection. The following example counts the number of months in 2012.
  
 
  

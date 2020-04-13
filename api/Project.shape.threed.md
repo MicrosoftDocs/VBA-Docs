@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shape.ThreeD property (Project)
-Gets a  **ThreeDFormat** object that contains three-dimensional formatting properties for the shape range. Read-only **[ThreeDFormat](https://msdn.microsoft.com/library/office/ff836783%28v=office.15%29)**.
+Gets a **ThreeDFormat** object that contains three-dimensional formatting properties for the shape range. Read-only **[ThreeDFormat](https://msdn.microsoft.com/library/office/ff836783%28v=office.15%29)**.
 
 ## Syntax
 
@@ -21,7 +21,7 @@ _expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 
 > [!NOTE] 
-> You cannot apply 3D formatting to some kinds of shapes, such as beveled shapes or multiple disjointed paths. Most of the properties and methods of the  **ThreeDFormat** object fail for such shapes.
+> You cannot apply 3D formatting to some kinds of shapes, such as beveled shapes or multiple disjointed paths. Most of the properties and methods of the **ThreeDFormat** object fail for such shapes.
 
 
 ## Property value

@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 ## Return value
 
-An  **AddressEntry** object that represents the organizer of the **AppointmentItem**.
+An **AddressEntry** object that represents the organizer of the **AppointmentItem**.
 
 
 ## See also

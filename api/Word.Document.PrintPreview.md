@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-In addition to using the  **PrintPreview** method, you can set the **[PrintPreview](Word.Application.PrintPreview.md)** property to **True** or **False** to switch to or from print preview, respectively. You can also change the view by setting the **[Type](Word.Document.Type.md)** property for the **View** object to **wdPrintPreview**.
+In addition to using the **PrintPreview** method, you can set the **[PrintPreview](Word.Application.PrintPreview.md)** property to **True** or **False** to switch to or from print preview, respectively. You can also change the view by setting the **[Type](Word.Document.Type.md)** property for the **View** object to **wdPrintPreview**.
 
 
 ## Example

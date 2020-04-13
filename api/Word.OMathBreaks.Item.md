@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathBreaks.Item method (Word)
 
-Returns an  **OMathBreak** object that represents the specified item in the collection.
+Returns an **OMathBreak** object that represents the specified item in the collection.
 
 
 ## Syntax

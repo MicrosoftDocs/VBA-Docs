@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ConversationHeader.ConversationTopic property (Outlook)
 
-Returns a  **String** value that represents the topic of the conversation thread of the conversation header. Read-only.
+Returns a **String** value that represents the topic of the conversation thread of the conversation header. Read-only.
 
 
 ## Syntax

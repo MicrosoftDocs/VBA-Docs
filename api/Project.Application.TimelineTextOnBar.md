@@ -39,7 +39,7 @@ _expression_. `TimelineTextOnBar`( `_TextOnBar_` )
 
 ## Remarks
 
-The  **TimelineTextOnBar** method is equivalent to the **Display as Bar** and **Display as Callout** commands in the **Current Selection** group on the **Format** tab on the ribbon.
+The **TimelineTextOnBar** method is equivalent to the **Display as Bar** and **Display as Callout** commands in the **Current Selection** group on the **Format** tab on the ribbon.
 
 
 ## Example

@@ -26,9 +26,9 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 ## Remarks
 
-Some of the  **WdTextOrientation** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
+Some of the **WdTextOrientation** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
 
-You can set the orientation for a text frame or for a range that happens to occur inside a text frame. For information about the difference between a text frame and a text box, see the  **TextFrame** object.
+You can set the orientation for a text frame or for a range that happens to occur inside a text frame. For information about the difference between a text frame and a text box, see the **TextFrame** object.
 
 
 ## See also

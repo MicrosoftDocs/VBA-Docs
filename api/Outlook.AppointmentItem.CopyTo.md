@@ -35,7 +35,7 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 ## Return value
 
-Returns an  **AppointmentItem** that represents the object created in the destination folder as a result of the copy operation.
+Returns an **AppointmentItem** that represents the object created in the destination folder as a result of the copy operation.
 
 
 ## Remarks

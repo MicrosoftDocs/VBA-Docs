@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Hyperlink](Word.Hyperlink.md)' objec
 
 ## Remarks
 
-The subject line is appended to the hyperlink's Internet address, or URL. This property is commonly used with email hyperlinks. The value of this property takes precedence over any email subject specified in the  **[Address](Word.Hyperlink.Address.md)** property of the same **Hyperlink** object.
+The subject line is appended to the hyperlink's Internet address, or URL. This property is commonly used with email hyperlinks. The value of this property takes precedence over any email subject specified in the **[Address](Word.Hyperlink.Address.md)** property of the same **Hyperlink** object.
 
 
 ## Example

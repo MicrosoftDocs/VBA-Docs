@@ -5,14 +5,14 @@ f1_keywords:
 - vbawd10.chm5214008
 ms.prod: word
 ms.assetid: 62722982-6725-57e2-099e-c31d0aefadd3
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Using Control Values While Code Is Running (Word)
 
-You can set and return some properties for  [ActiveX controls](../../../api/overview/Word.md) while Visual Basic code is running. The following example sets the  **Text** property of a text box to "Hello."
+You can set and return some properties for [ActiveX controls](../../../api/overview/Word.md) while Visual Basic code is running. The following example sets the **Text** property of a text box to "Hello."
 
 
 ```vb

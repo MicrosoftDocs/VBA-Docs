@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Rows.Add method (PowerPoint)
 
-Returns a  **[Row](PowerPoint.Row.md)** object that represents a row being added to a table.
+Returns a **[Row](PowerPoint.Row.md)** object that represents a row being added to a table.
 
 
 ## Syntax

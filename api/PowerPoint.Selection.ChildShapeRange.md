@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Selection.ChildShapeRange property (PowerPoint)
 
-Returns a  **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents the child shapes of a selection.
+Returns a **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents the child shapes of a selection.
 
 
 ## Syntax

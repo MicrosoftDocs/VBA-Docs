@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.Project property (Project)
 
-Gets the name of the project containing the  **Resource**. Read-only **String**.
+Gets the name of the project containing the **Resource**. Read-only **String**.
 
 
 ## Syntax

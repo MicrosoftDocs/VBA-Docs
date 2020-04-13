@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Break.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Break** object.
+Returns an **Object** that represents the parent object of the specified **Break** object.
 
 
 ## Syntax

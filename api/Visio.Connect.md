@@ -28,19 +28,19 @@ Use the **GlueTo** or **GlueToPos** method of a **[Cell](visio.cell.md)** object
 
 ## Properties
 
--  [Application](Visio.Connect.Application.md)
--  [ContainingMasterID](Visio.Connect.ContainingMasterID.md)
--  [ContainingPageID](Visio.Connect.ContainingPageID.md)
--  [Document](Visio.Connect.Document.md)
--  [FromCell](Visio.Connect.FromCell.md)
--  [FromPart](Visio.Connect.FromPart.md)
--  [FromSheet](Visio.Connect.FromSheet.md)
--  [Index](Visio.Connect.Index.md)
--  [ObjectType](Visio.Connect.ObjectType.md)
--  [Stat](Visio.Connect.Stat.md)
--  [ToCell](Visio.Connect.ToCell.md)
--  [ToPart](Visio.Connect.ToPart.md)
--  [ToSheet](Visio.Connect.ToSheet.md)
+- [Application](Visio.Connect.Application.md)
+- [ContainingMasterID](Visio.Connect.ContainingMasterID.md)
+- [ContainingPageID](Visio.Connect.ContainingPageID.md)
+- [Document](Visio.Connect.Document.md)
+- [FromCell](Visio.Connect.FromCell.md)
+- [FromPart](Visio.Connect.FromPart.md)
+- [FromSheet](Visio.Connect.FromSheet.md)
+- [Index](Visio.Connect.Index.md)
+- [ObjectType](Visio.Connect.ObjectType.md)
+- [Stat](Visio.Connect.Stat.md)
+- [ToCell](Visio.Connect.ToCell.md)
+- [ToPart](Visio.Connect.ToPart.md)
+- [ToSheet](Visio.Connect.ToSheet.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

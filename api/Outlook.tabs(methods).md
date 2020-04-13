@@ -12,12 +12,12 @@ localization_priority: Normal
 ## In this section
 
 
--  [Tabs.Add Method (Outlook Forms Script)](Outlook.tabs.add.md)
+- [Tabs.Add Method (Outlook Forms Script)](Outlook.tabs.add.md)
     
--  [Tabs.Clear Method (Outlook Forms Script)](Outlook.tabs.clear.md)
+- [Tabs.Clear Method (Outlook Forms Script)](Outlook.tabs.clear.md)
     
--  [Tabs.Item Method (Outlook Forms Script)](Outlook.tabs.item.md)
+- [Tabs.Item Method (Outlook Forms Script)](Outlook.tabs.item.md)
     
--  [Tabs.Remove Method (Outlook Forms Script)](Outlook.tabs.remove.md)
+- [Tabs.Remove Method (Outlook Forms Script)](Outlook.tabs.remove.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

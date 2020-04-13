@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Envelope](Word.Envelope.md)' object.
 
 ## Remarks
 
-If you set either the  **DefaultHeight** or **[DefaultWidth](Word.Envelope.DefaultWidth.md)** property, the envelope size is automatically changed to **Custom Size** in the **Envelope Options** dialog box (**Tools** menu). Use the **[DefaultSize](Word.Envelope.DefaultSize.md)** property to set the default size to a predefined size.
+If you set either the **DefaultHeight** or **[DefaultWidth](Word.Envelope.DefaultWidth.md)** property, the envelope size is automatically changed to **Custom Size** in the **Envelope Options** dialog box (**Tools** menu). Use the **[DefaultSize](Word.Envelope.DefaultSize.md)** property to set the default size to a predefined size.
 
 
 ## Example

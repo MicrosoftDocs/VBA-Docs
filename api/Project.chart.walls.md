@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Chart.Walls property (Project)
-Gets an  **Office.IMsoWalls** object that represents the walls of a 3D chart. Read-only **IMsoWalls**.
+Gets an **Office.IMsoWalls** object that represents the walls of a 3D chart. Read-only **IMsoWalls**.
 
 ## Syntax
 

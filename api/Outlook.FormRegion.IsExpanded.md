@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormRegion.IsExpanded property (Outlook)
 
-Returns a  **Boolean** that indicates if the form region is expanded. Read-only.
+Returns a **Boolean** that indicates if the form region is expanded. Read-only.
 
 
 ## Syntax

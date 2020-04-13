@@ -16,9 +16,9 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You attempted to establish referential integrity on a  **Relation** object of a **QueryDef** object, which is not supported.
+You attempted to establish referential integrity on a **Relation** object of a **QueryDef** object, which is not supported.
 
-Change the  **Attributes** property setting of the **Relation** object to **dbRelationDontEnforce**.
+Change the **Attributes** property setting of the **Relation** object to **dbRelationDontEnforce**.
 
 ## See also
 

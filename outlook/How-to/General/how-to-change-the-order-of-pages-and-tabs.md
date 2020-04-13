@@ -5,25 +5,22 @@ f1_keywords:
 - olfm10.chm3077194
 ms.prod: outlook
 ms.assetid: 5180c30b-e5bb-48b9-ece7-02d5b8d41af0
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Change the Order of Pages and Tabs
 
-The following example uses the  **Index** property to change the order of the pages and tabs in a **[MultiPage](../../../api/Outlook.multipage.md)** and **[TabStrip](../../../api/Outlook.tabstrip.md)**. The user chooses CommandButton1 to move the third page and tab to the front of the  **MultiPage** and **TabStrip**. The user chooses CommandButton2 to move the selected page and tab to the back of the  **MultiPage** and **TabStrip**.
+The following example uses the **Index** property to change the order of the pages and tabs in a **[MultiPage](../../../api/Outlook.multipage.md)** and **[TabStrip](../../../api/Outlook.tabstrip.md)**. The user chooses CommandButton1 to move the third page and tab to the front of the **MultiPage** and **TabStrip**. The user chooses CommandButton2 to move the selected page and tab to the back of the **MultiPage** and **TabStrip**.
 
 To use this example, copy this sample code to the Script Editor of a form. Make sure that the form contains:
 
-- Two  **[CommandButton](../../../api/Outlook.commandbutton.md)** controls named CommandButton1 and CommandButton2.
-    
-- A  **MultiPage** named MultiPage1.
-    
-- A  **TabStrip** named TabStrip1.
-    
+- Two **[CommandButton](../../../api/Outlook.commandbutton.md)** controls named CommandButton1 and CommandButton2.
 
+- A **MultiPage** named MultiPage1.
 
+- A **TabStrip** named TabStrip1.
 
 ```vb
 Dim MyPageOrTab 

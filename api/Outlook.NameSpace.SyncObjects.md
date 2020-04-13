@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.SyncObjects property (Outlook)
 
-Returns a  **[SyncObjects](Outlook.SyncObjects.md)** collection containing all Send\Receive groups. Read-only.
+Returns a **[SyncObjects](Outlook.SyncObjects.md)** collection containing all Send\Receive groups. Read-only.
 
 
 ## Syntax

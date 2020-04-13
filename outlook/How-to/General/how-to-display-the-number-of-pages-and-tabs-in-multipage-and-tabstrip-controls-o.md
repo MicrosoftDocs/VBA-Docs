@@ -5,26 +5,23 @@ f1_keywords:
 - olfm10.chm3077169
 ms.prod: outlook
 ms.assetid: 9d49b6b3-7650-d96e-9a47-00b508fc6006
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Display the Number of Pages and Tabs in MultiPage and TabStrip Controls on a Form
 
-The following example displays the  **Count** property of the Microsoft Forms 2.0 **Controls**collection for the form, and the  **Count** property identifying the number of pages and tabs of each **[MultiPage](../../../api/Outlook.multipage.md)** and **[TabStrip](../../../api/Outlook.tabstrip.md)**.
+The following example displays the **Count** property of the Microsoft Forms 2.0 **Controls**collection for the form, and the **Count** property identifying the number of pages and tabs of each **[MultiPage](../../../api/Outlook.multipage.md)** and **[TabStrip](../../../api/Outlook.tabstrip.md)**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. The form can contain any number of controls, with the following restrictions:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. The form can contain any number of controls, with the following restrictions:
 
-- Names of  **MultiPage** controls must start with "MultiPage".
-    
-- Names of  **TabStrip** controls must start with "TabStrip".
-    
+- Names of **MultiPage** controls must start with "MultiPage".
 
- **Note**  You can add pages to a  **MultiPage** or add tabs to a **TabStrip** while in design mode. Double-click on the control, then right click in the tab area of the control and choose **New Page** from the shortcut menu.
+- Names of **TabStrip** controls must start with "TabStrip".
 
 
-
+ **Note** You can add pages to a **MultiPage** or add tabs to a **TabStrip** while in design mode. Double-click on the control, then right click in the tab area of the control and choose **New Page** from the shortcut menu.
 
 ```vb
 Sub Item_Open 

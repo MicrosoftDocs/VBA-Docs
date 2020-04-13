@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleActions.DesktopAlert property (Outlook)
 
-Returns a  **[RuleAction](Outlook.RuleAction.md)** object with **[RuleAction.ActionType](Outlook.RuleAction.ActionType.md)** being **olRuleActionDesktopAlert**. Read-only.
+Returns a **[RuleAction](Outlook.RuleAction.md)** object with **[RuleAction.ActionType](Outlook.RuleAction.ActionType.md)** being **olRuleActionDesktopAlert**. Read-only.
 
 
 ## Syntax

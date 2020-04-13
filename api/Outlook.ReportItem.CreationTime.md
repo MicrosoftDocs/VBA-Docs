@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ReportItem.CreationTime property (Outlook)
 
-Returns a  **Date** indicating the creation time for the Outlook item. Read-only.
+Returns a **Date** indicating the creation time for the Outlook item. Read-only.
 
 
 ## Syntax

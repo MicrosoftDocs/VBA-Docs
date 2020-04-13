@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Attachment.Type property (Outlook)
 
-Returns an  **[OlAttachmentType](Outlook.OlAttachmentType.md)** constant indicating the type of the specified object. Read-only.
+Returns an **[OlAttachmentType](Outlook.OlAttachmentType.md)** constant indicating the type of the specified object. Read-only.
 
 
 ## Syntax

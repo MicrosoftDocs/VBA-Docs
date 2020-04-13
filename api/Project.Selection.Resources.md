@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Selection.Resources property (Project)
 
-Gets a  **[Resources](Project.Resource.md)** collection that contains the resources in the selection. Read-only **Resources**.
+Gets a **[Resources](Project.Resource.md)** collection that contains the resources in the selection. Read-only **Resources**.
 
 
 ## Syntax
@@ -23,6 +23,6 @@ _expression_ A variable that represents a [Selection](./Project.Selection.md) ob
 
 ## Remarks
 
-For a code example that uses the  **Task** object, see the **[Resources](Project.Task.Resources.md)** property.
+For a code example that uses the **Task** object, see the **[Resources](Project.Task.Resources.md)** property.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

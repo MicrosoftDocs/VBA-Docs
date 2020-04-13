@@ -39,7 +39,7 @@ FirstLetterException
 
 ## Remarks
 
-If the  **FirstLetterAutoAdd** property is **True**, abbreviations are automatically added to the list of first-letter exceptions.
+If the **FirstLetterAutoAdd** property is **True**, abbreviations are automatically added to the list of first-letter exceptions.
 
 
 ## Example

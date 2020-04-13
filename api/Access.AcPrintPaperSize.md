@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.AcPrintPaperSize
 ms.assetid: 16730547-b26d-852d-88d2-39a7a66a5463
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

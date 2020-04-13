@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Research.Application property (PowerPoint)
 
-Returns an  **[Application](PowerPoint.Application.md)** object that represents the Microsoft PowerPoint application. Read-only.
+Returns an **[Application](PowerPoint.Application.md)** object that represents the Microsoft PowerPoint application. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Presentation.CreateVideo method (PowerPoint)
 
-Creates a video in a  **Presentation** object.
+Creates a video in a **Presentation** object.
 
 
 ## Syntax

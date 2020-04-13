@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Frameset](Word.Frameset.md)' object.
 
 ## Remarks
 
-Use the  **[WidthType](Word.Frameset.WidthType.md)** property to specify the type of unit in which this value is expressed.
+Use the **[WidthType](Word.Frameset.WidthType.md)** property to specify the type of unit in which this value is expressed.
 
 
 ## Example

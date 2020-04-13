@@ -39,7 +39,7 @@ TwoInitialCapsException
 
 ## Remarks
 
-If the  **TwoInitialCapsAutoAdd** property is **True**, words are automatically added to the list of initial-capital exceptions.
+If the **TwoInitialCapsAutoAdd** property is **True**, words are automatically added to the list of initial-capital exceptions.
 
 
 ## Example

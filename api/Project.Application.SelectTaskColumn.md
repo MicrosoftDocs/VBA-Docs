@@ -42,6 +42,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **SelectTaskColumn** method is only available when the Gantt Chart, Task Sheet, or Task Usage view is the active view.
+The **SelectTaskColumn** method is only available when the Gantt Chart, Task Sheet, or Task Usage view is the active view.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

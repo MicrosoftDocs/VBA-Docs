@@ -21,14 +21,14 @@ Represents the set of toolbars for a Microsoft Visio window context.
 
 ## Methods
 
--  [Delete](Visio.ToolbarSet.Delete.md)
+- [Delete](Visio.ToolbarSet.Delete.md)
 
 ## Properties
 
--  [Caption](Visio.ToolbarSet.Caption.md)
--  [Parent](Visio.ToolbarSet.Parent.md)
--  [SetID](Visio.ToolbarSet.SetID.md)
--  [Toolbars](Visio.ToolbarSet.Toolbars.md)
+- [Caption](Visio.ToolbarSet.Caption.md)
+- [Parent](Visio.ToolbarSet.Parent.md)
+- [SetID](Visio.ToolbarSet.SetID.md)
+- [Toolbars](Visio.ToolbarSet.Toolbars.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,3 +44,4 @@ If you leave  **HostID** set to the default, an empty string (""), your applicat
 > Modifying the Windows registry in any manner, whether in the Registry Editor or programmatically, always carries some degree of risk. Incorrect modification can cause serious problems that may require you to reinstall your operating system. It is a good practice to always back up a computer's registry first before modifying it. 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+                                                                        

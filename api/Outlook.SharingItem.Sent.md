@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.Sent property (Outlook)
 
-Returns a  **Boolean** value that indicates if the **[SharingItem](Outlook.SharingItem.md)** has been sent. Read-only.
+Returns a **Boolean** value that indicates if the **[SharingItem](Outlook.SharingItem.md)** has been sent. Read-only.
 
 
 ## Syntax

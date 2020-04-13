@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTimeControl.ReferenceTime property (Outlook)
 
-Returns or sets a  **Date** that specifies a reference time used for the **olTimeStyleTimeDuration** style setting on the time control. Read/write.
+Returns or sets a **Date** that specifies a reference time used for the **olTimeStyleTimeDuration** style setting on the time control. Read/write.
 
 
 ## Syntax

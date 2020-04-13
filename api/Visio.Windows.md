@@ -30,40 +30,40 @@ If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](htt
 
 ## Events
 
--  [BeforeWindowClosed](Visio.Windows.BeforeWindowClosed.md)
--  [BeforeWindowPageTurn](Visio.Windows.BeforeWindowPageTurn.md)
--  [BeforeWindowSelDelete](Visio.Windows.BeforeWindowSelDelete.md)
--  [KeyDown](Visio.Windows.KeyDown.md)
--  [KeyPress](Visio.Windows.KeyPress.md)
--  [KeyUp](Visio.Windows.KeyUp.md)
--  [MouseDown](Visio.Windows.MouseDown.md)
--  [MouseMove](Visio.Windows.MouseMove.md)
--  [MouseUp](Visio.Windows.MouseUp.md)
--  [OnKeystrokeMessageForAddon](Visio.Windows.OnKeystrokeMessageForAddon.md)
--  [QueryCancelWindowClose](Visio.Windows.QueryCancelWindowClose.md)
--  [SelectionChanged](Visio.Windows.SelectionChanged.md)
--  [ViewChanged](Visio.Windows.ViewChanged.md)
--  [WindowActivated](Visio.Windows.WindowActivated.md)
--  [WindowChanged](Visio.Windows.WindowChanged.md)
--  [WindowCloseCanceled](Visio.Windows.WindowCloseCanceled.md)
--  [WindowOpened](Visio.Windows.WindowOpened.md)
--  [WindowTurnedToPage](Visio.Windows.WindowTurnedToPage.md)
+- [BeforeWindowClosed](Visio.Windows.BeforeWindowClosed.md)
+- [BeforeWindowPageTurn](Visio.Windows.BeforeWindowPageTurn.md)
+- [BeforeWindowSelDelete](Visio.Windows.BeforeWindowSelDelete.md)
+- [KeyDown](Visio.Windows.KeyDown.md)
+- [KeyPress](Visio.Windows.KeyPress.md)
+- [KeyUp](Visio.Windows.KeyUp.md)
+- [MouseDown](Visio.Windows.MouseDown.md)
+- [MouseMove](Visio.Windows.MouseMove.md)
+- [MouseUp](Visio.Windows.MouseUp.md)
+- [OnKeystrokeMessageForAddon](Visio.Windows.OnKeystrokeMessageForAddon.md)
+- [QueryCancelWindowClose](Visio.Windows.QueryCancelWindowClose.md)
+- [SelectionChanged](Visio.Windows.SelectionChanged.md)
+- [ViewChanged](Visio.Windows.ViewChanged.md)
+- [WindowActivated](Visio.Windows.WindowActivated.md)
+- [WindowChanged](Visio.Windows.WindowChanged.md)
+- [WindowCloseCanceled](Visio.Windows.WindowCloseCanceled.md)
+- [WindowOpened](Visio.Windows.WindowOpened.md)
+- [WindowTurnedToPage](Visio.Windows.WindowTurnedToPage.md)
 
 ## Methods
 
--  [Add](Visio.Windows.Add.md)
--  [Arrange](Visio.Windows.Arrange.md)
+- [Add](Visio.Windows.Add.md)
+- [Arrange](Visio.Windows.Arrange.md)
 
 ## Properties
 
--  [Application](Visio.Windows.Application.md)
--  [Count](Visio.Windows.Count.md)
--  [EventList](Visio.Windows.EventList.md)
--  [Item](Visio.Windows.Item.md)
--  [ItemEx](Visio.Windows.ItemEx.md)
--  [ItemFromID](Visio.Windows.ItemFromID.md)
--  [ObjectType](Visio.Windows.ObjectType.md)
--  [PersistsEvents](Visio.Windows.PersistsEvents.md)
+- [Application](Visio.Windows.Application.md)
+- [Count](Visio.Windows.Count.md)
+- [EventList](Visio.Windows.EventList.md)
+- [Item](Visio.Windows.Item.md)
+- [ItemEx](Visio.Windows.ItemEx.md)
+- [ItemFromID](Visio.Windows.ItemFromID.md)
+- [ObjectType](Visio.Windows.ObjectType.md)
+- [PersistsEvents](Visio.Windows.PersistsEvents.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,6 +26,6 @@ _expression_ A variable that represents a [TableField](./Project.TableField.md) 
 
 ## Remarks
 
-The  **Field** property can be one of the **[PjField](Project.PjField.md)** constants.
+The **Field** property can be one of the **[PjField](Project.PjField.md)** constants.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

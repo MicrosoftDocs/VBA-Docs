@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeUser.GetPicture method (Outlook)
 
-Obtains an  **[IPictureDisp](https://docs.microsoft.com/windows/desktop/api/ocidl/nn-ocidl-ipicturedisp)** object that represents the picture of the Microsoft Exchange user that is displayed in Microsoft Outlook.
+Obtains an **[IPictureDisp](https://docs.microsoft.com/windows/desktop/api/ocidl/nn-ocidl-ipicturedisp)** object that represents the picture of the Microsoft Exchange user that is displayed in Microsoft Outlook.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[ExchangeUser](Outlook.ExchangeUser
 
 ## Return value
 
-An  **IPictureDisp** object that represents the picture of the Exchange user that is displayed in Outlook.
+An **IPictureDisp** object that represents the picture of the Exchange user that is displayed in Outlook.
 
 
 ## Remarks

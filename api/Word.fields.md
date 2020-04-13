@@ -14,18 +14,18 @@ A collection of  **Field** objects that represent all the fields in a selection,
 
 ## Remarks
 
-Use the  **Fields** property to return the **Fields** collection. The following example updates all the fields in the selection.
+Use the **Fields** property to return the **Fields** collection. The following example updates all the fields in the selection.
 
 
 > [!NOTE] 
-> Use the  **Fields** property with a **[MailMerge](Word.MailMerge.md)** object to return a **[MailMergeFields](Word.mailmergefields.md)** collection.
+> Use the **Fields** property with a **[MailMerge](Word.MailMerge.md)** object to return a **[MailMergeFields](Word.mailmergefields.md)** collection.
 
 
 ```vb
 Selection.Fields.Update
 ```
 
-Use the  **Add** method to add a field to the **Fields** collection. The following example inserts a DATE field at the beginning of the selection and then displays the result.
+Use the **Add** method to add a field to the **Fields** collection. The following example inserts a DATE field at the beginning of the selection and then displays the result.
 
 
 
@@ -49,7 +49,7 @@ If ActiveDocument.Fields.Count >= 1 Then
 End If
 ```
 
-The  **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object.
+The **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object.
 
 
 ## See also

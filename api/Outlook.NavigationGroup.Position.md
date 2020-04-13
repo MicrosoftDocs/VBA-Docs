@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationGroup.Position property (Outlook)
 
-Returns or sets a  **Long** value that represents the ordinal position of the **[NavigationGroup](Outlook.NavigationGroup.md)** object when displayed in the navigation pane. Read/write.
+Returns or sets a **Long** value that represents the ordinal position of the **[NavigationGroup](Outlook.NavigationGroup.md)** object when displayed in the navigation pane. Read/write.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ A variable that represents a [NavigationGroup](Outlook.NavigationGr
 
 This property can only be set to a value between 1 and the value of the  **[Count](Outlook.NavigationGroups.Count.md)** property for the parent **[NavigationGroups](Outlook.NavigationGroups.md)** object. An error occurs if you attempt to set this property to a value outside that range.
 
-Changing the value of this property for a  **NavigationGroup** object changes the **Position** values of other navigation groups contained by a **NavigationGroups** collection, depending on the relative change between the new value and the original value of the **Position** property for that **NavigationGroup** object:
+Changing the value of this property for a **NavigationGroup** object changes the **Position** values of other navigation groups contained by a **NavigationGroups** collection, depending on the relative change between the new value and the original value of the **Position** property for that **NavigationGroup** object:
 
 
 - If the new value is less than the original value, then the specified  **NavigationGroup** object moves up to the new position and pushes the other navigation groups already at or below that new position down.

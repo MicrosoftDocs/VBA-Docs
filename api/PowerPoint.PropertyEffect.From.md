@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PropertyEffect.From property (PowerPoint)
 
-Sets or returns a  **Variant** that represents the starting value of an object's property. Read/write.
+Sets or returns a **Variant** that represents the starting value of an object's property. Read/write.
 
 
 ## Syntax
@@ -26,11 +26,11 @@ _expression_ A variable that represents a [PropertyEffect](PowerPoint.PropertyEf
 
 ## Remarks
 
-The  **From** property is similar to the **[Points](PowerPoint.PropertyEffect.Points.md)** property, but using the **From** property is easier for simple tasks.
+the **From** property is similar to the **[Points](PowerPoint.PropertyEffect.Points.md)** property, but using the **From** property is easier for simple tasks.
 
-The default value is  **Empty**, in which case the current position of the object is used.
+The default value is **Empty**, in which case the current position of the object is used.
 
-Do not confuse this property with the  **FromX** or **FromY** properties of the **[ScaleEffect](PowerPoint.ScaleEffect.md)** and **[MotionEffect](PowerPoint.MotionEffect.md)** objects, which are only used for scaling or motion effects.
+Do not confuse this property with the **FromX** or **FromY** properties of the **[ScaleEffect](PowerPoint.ScaleEffect.md)** and **[MotionEffect](PowerPoint.MotionEffect.md)** objects, which are only used for scaling or motion effects.
 
 
 ## See also

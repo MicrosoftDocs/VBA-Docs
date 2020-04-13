@@ -27,7 +27,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Remarks
 
-Use the  **ClearToMatchColorSyle** method to reset the formatting of chart colors to automatic. If you use this method on a chart, any color formatting overrides are reset to the default values.
+Use the **ClearToMatchColorSyle** method to reset the formatting of chart colors to automatic. If you use this method on a chart, any color formatting overrides are reset to the default values.
 
 
 ## See also

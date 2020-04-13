@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CodeMaskLevel.Delete method (Project)
 
-Deletes the  **CodeMaskLevel** object from a **CodeMask** collection.
+Deletes the **CodeMaskLevel** object from a **CodeMask** collection.
 
 
 ## Syntax

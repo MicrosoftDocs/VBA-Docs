@@ -27,7 +27,7 @@ _expression_. `OverAllocatedAssignments`( `_fOverPeak_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _overallocationType_|Required|**PjOverallocationType**|Can be one of the  **[PjOverallocationType](Project.PjOverallocationType.md)** constants, which determines the type of overallocation.|
+| _overallocationType_|Required|**PjOverallocationType**|Can be one of the **[PjOverallocationType](Project.PjOverallocationType.md)** constants, which determines the type of overallocation.|
 
 ## Remarks
 

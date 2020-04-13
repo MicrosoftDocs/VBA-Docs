@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.RecurrenceState property (Outlook)
 
-Returns an  **[OlRecurrenceState](Outlook.OlRecurrenceState.md)** constant indicating the recurrence property of the specified object. Read-only.
+Returns an **[OlRecurrenceState](Outlook.OlRecurrenceState.md)** constant indicating the recurrence property of the specified object. Read-only.
 
 
 ## Syntax

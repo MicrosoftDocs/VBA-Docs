@@ -26,7 +26,7 @@ _expression_. `RevisionsBalloonWidth`
 
 ## Remarks
 
-The width of revision balloons includes padding of 0.5 inch between the document margin and the edge of the balloon and an eighth-inch between the edge of the balloon and the edge of the paper. Word adds space along the left or right edge of the paper. This width is extended into the margin and does not change the width of the document or paper size. Use the  **[RevisionsBalloonWidthType](Word.View.RevisionsBalloonWidthType.md)** property to specify the measurement to use when setting the **RevisionsBalloonWidth** property.
+The width of revision balloons includes padding of 0.5 inch between the document margin and the edge of the balloon and an eighth-inch between the edge of the balloon and the edge of the paper. Word adds space along the left or right edge of the paper. This width is extended into the margin and does not change the width of the document or paper size. Use the **[RevisionsBalloonWidthType](Word.View.RevisionsBalloonWidthType.md)** property to specify the measurement to use when setting the **RevisionsBalloonWidth** property.
 
 
 ## Example

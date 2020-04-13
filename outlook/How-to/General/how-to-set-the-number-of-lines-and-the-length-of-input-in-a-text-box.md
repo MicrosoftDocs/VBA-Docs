@@ -5,27 +5,27 @@ f1_keywords:
 - olfm10.chm3077204
 ms.prod: outlook
 ms.assetid: 1b56aff7-ab6f-b595-781d-a60d0dffe7a9
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Set the Number of Lines and the Length of Input in a Text Box
 
-The following example counts the characters and the number of lines of text in a  **[TextBox](../../../api/Outlook.textbox.md)** by using the **[LineCount](../../../api/Outlook.textbox.linecount.md)** and **[TextLength](../../../api/Outlook.textbox.textlength.md)** properties, and the **SetFocus** method. In this example, the user can type into a **TextBox**, and can retrieve current values of the  **LineCount** and **TextLength** properties.
+The following example counts the characters and the number of lines of text in a **TextBox](../../../api/Outlook.textbox.md)** by using the **[LineCount](../../../api/Outlook.textbox.linecount.md)** and **[TextLength](../../../api/Outlook.textbox.textlength.md)** properties, and the **SetFocus** method. In this example, the user can type into a **TextBox**, and can retrieve current values of the **neCount** and **TextLength** properties.
 
 
- **Note**  The  **SetFocus** method is inherited from the Microsoft Forms 2.0 **TextBox** control.
+ **Note** The **etFocus** method is inherited from the Microsoft Forms 2.0 **TextBox** control.
 
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains the following controls:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **pen** event will activate. Make sure that the form contains the following controls:
 
 
-- A  **TextBox** named TextBox1.
+- A **extBox** named TextBox1.
     
-- A  **[CommandButton](../../../api/Outlook.commandbutton.md)** named CommandButton1.
+- A **CommandButton](../../../api/Outlook.commandbutton.md)** named CommandButton1.
     
-- Two  **[Label](../../../api/Outlook.label.md)** controls named Label1 and Label2.
+- Two **Label](../../../api/Outlook.label.md)** controls named Label1 and Label2.
     
 
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Chart property (PowerPoint)
 
-Returns a  **Chart** object of the current **Shape** object. Read-only.
+Returns a **Chart** object of the current **Shape** object. Read-only.
 
 
 ## Syntax

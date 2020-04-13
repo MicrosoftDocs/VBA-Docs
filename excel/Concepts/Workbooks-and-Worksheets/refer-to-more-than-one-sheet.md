@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Refer to More Than One Sheet
 
-Use the  **Array** function to identify a group of sheets. The following example selects three sheets in the active workbook.
+Use the **Array** function to identify a group of sheets. The following example selects three sheets in the active workbook.
 
 
 ```vb

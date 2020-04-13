@@ -5,7 +5,7 @@ f1_keywords:
 - jeterr40.chm5003183
 ms.prod: access
 ms.assetid: ba122b0f-2445-705c-f24d-810ebc9ddeb9
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -22,7 +22,7 @@ For example, you may be trying to create a query that creates temporary files la
 You can increase the amount of available temporary disk space in several ways:
 
 
-- Select fewer records. Dynaset-type, forward-only — type, and snapshot-type  **Recordset** objects record keys and data to the temporary disk.
+- Select fewer records. Dynaset-type, forward-only — type, and snapshot-type **Recordset** objects record keys and data to the temporary disk.
     
 - Select a different drive for your temporary disk.
     

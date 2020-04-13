@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Sequences.Add method (PowerPoint)
 
-Returns a  **[Sequence](PowerPoint.Sequence.md)** object that represents a new sequence.
+Returns a **[Sequence](PowerPoint.Sequence.md)** object that represents a new sequence.
 
 
 ## Syntax

@@ -12,7 +12,7 @@ localization_priority: Normal
 ## In this section
 
 
--  [TextBox Object (Outlook Forms Script)](Outlook.textbox.md)
+- [TextBox Object (Outlook Forms Script)](Outlook.textbox.md)
     
 
 

@@ -2,26 +2,26 @@
 title: Set a Module as the Currently Selected Module in the Navigation Pane
 ms.prod: outlook
 ms.assetid: c7aeafcf-d88d-8d79-8dfd-e336cf00f101
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Set a Module as the Currently Selected Module in the Navigation Pane
 
-You can use the  **[CurrentModule](../../../api/Outlook.NavigationPane.CurrentModule.md)** property of the **[NavigationPane](../../../api/Outlook.NavigationPane.md)** object in Microsoft Outlook to set a **[NavigationModule](../../../api/Outlook.NavigationModule.md)** object as the currently selected navigation module in the Navigation Pane of an **[Explorer](../../../api/Outlook.Explorer.md)** object.
+You can use the **[CurrentModule](../../../api/Outlook.NavigationPane.CurrentModule.md)** property of the **[NavigationPane](../../../api/Outlook.NavigationPane.md)** object in Microsoft Outlook to set a **[NavigationModule](../../../api/Outlook.NavigationModule.md)** object as the currently selected navigation module in the Navigation Pane of an **[Explorer](../../../api/Outlook.Explorer.md)** object.
 
-The following sample sets the  **Calendar** navigation module as the currently selected navigation module if the **Journal** navigation module is selected, either programmatically or by user action, in the Navigation Pane. The sample performs the following actions:
+The following sample sets the **Calendar** navigation module as the currently selected navigation module if the **Journal** navigation module is selected, either programmatically or by user action, in the Navigation Pane. The sample performs the following actions:
 
-1. The sample first obtains a reference to the  **NavigationPane** object for the active explorer when the **[Startup](../../../api/Outlook.Application.Startup.md)** event of the **[Application](../../../api/Outlook.Application.md)** object is raised and assigns it to `objPane`, so the  **[ModuleSwitch](../../../api/Outlook.NavigationPane.ModuleSwitch.md)** event of the **NavigationPane** object can be detected.
+1. The sample first obtains a reference to the **NavigationPane** object for the active explorer when the **[Startup](../../../api/Outlook.Application.Startup.md)** event of the **[Application](../../../api/Outlook.Application.md)** object is raised and assigns it to `objPane`, so the **[ModuleSwitch](../../../api/Outlook.NavigationPane.ModuleSwitch.md)** event of the **NavigationPane** object can be detected.
     
-2. When the  **ModuleSwitch** event of the **NavigationPane** occurs, the sample then checks if the current navigation module has changed by comparing the contents of the _CurrentModule_ parameter of the **ModuleSwitch** event against the **[CurrentModule](../../../api/Outlook.NavigationPane.CurrentModule.md)** property of the **NavigationPane** object.
+2. When the **ModuleSwitch** event of the **NavigationPane** occurs, the sample then checks if the current navigation module has changed by comparing the contents of the _CurrentModule_ parameter of the **ModuleSwitch** event against the **[CurrentModule](../../../api/Outlook.NavigationPane.CurrentModule.md)** property of the **NavigationPane** object.
     
-3. If these object references are different, the sample then checks the  **[NavigationModuleType](../../../api/Outlook.NavigationModule.NavigationModuleType.md)** property of the **NavigationModule** object reference in the _CurrentModule_ parameter of the **ModuleSwitch** event.
+3. If these object references are different, the sample then checks the **[NavigationModuleType](../../../api/Outlook.NavigationModule.NavigationModuleType.md)** property of the **NavigationModule** object reference in the _CurrentModule_ parameter of the **ModuleSwitch** event.
     
-4. If the  **NavigationModuleType** property of the currently selected **Module** object is set to **olModuleJournal**, the sample then displays a dialog box to indicate to the user that the currently selected  **Journal** navigation module is temporarily unavailable, and that instead the **Calendar** navigation module will be selected.
+4. If the **NavigationModuleType** property of the currently selected **Module** object is set to **olModuleJournal**, the sample then displays a dialog box to indicate to the user that the currently selected **Journal** navigation module is temporarily unavailable, and that instead the **Calendar** navigation module will be selected.
     
-5. Finally, the sample uses the  **[GetNavigationModule](../../../api/Outlook.NavigationModules.GetNavigationModule.md)** method of the **Modules** collection for the **NavigationPane** object to attempt to retrieve a **[CalendarModule](../../../api/Outlook.CalendarModule.md)** object. If successful, the **CurrentModule** property of the **NavigationPane** object is set to the retrieved **CalendarModule** object reference.
+5. Finally, the sample uses the **[GetNavigationModule](../../../api/Outlook.NavigationModules.GetNavigationModule.md)** method of the **Modules** collection for the **NavigationPane** object to attempt to retrieve a **[CalendarModule](../../../api/Outlook.CalendarModule.md)** object. If successful, the **CurrentModule** property of the **NavigationPane** object is set to the retrieved **CalendarModule** object reference.
     
 
 

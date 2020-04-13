@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableBackground object (PowerPoint)
 
-Represents the background associated with a  **Table** object.
+Represents the background associated with a **Table** object.
 
 
 ## Remarks
@@ -37,7 +37,7 @@ The properties of the  **TableBackground** object return objects that represent 
 
 ## Example
 
-The following example shows how to get a  **TableBackground** object and set two of its properties.
+The following example shows how to get a **TableBackground** object and set two of its properties.
 
 
 ```vb

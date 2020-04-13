@@ -31,9 +31,9 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Message_|Required|**String**|The message to display in the dialog box.|
-| _Type_|Optional|**Long**|The buttons to include in the message dialog box. Can be one of the  **[PjMessageType](Project.PjMessageType.md)** constants. The default value is **pjOKOnly**.|
-| _YesText_|Optional|**String**|The text to be displayed on the  **Yes** button. The YesText argument is ignored unless Type is **pjYesNo** or **pjYesNoCancel**. The default value is "Yes".|
-| _NoText_|Optional|**String**|The text to be displayed on the  **No** button. The NoText argument is ignored unless Type is **pjYesNo** or **pjYesNoCancel**. The default value is "No".|
+| _Type_|Optional|**Long**|The buttons to include in the message dialog box. Can be one of the **[PjMessageType](Project.PjMessageType.md)** constants. The default value is **pjOKOnly**.|
+| _YesText_|Optional|**String**|The text to be displayed on the **Yes** button. The YesText argument is ignored unless Type is **pjYesNo** or **pjYesNoCancel**. The default value is "Yes".|
+| _NoText_|Optional|**String**|The text to be displayed on the **No** button. The NoText argument is ignored unless Type is **pjYesNo** or **pjYesNoCancel**. The default value is "No".|
 
 ## Return value
 
@@ -42,6 +42,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **Message** method provides compatibility with the macro language used in Microsoft Project version 3. _x_. The **MsgBox** method in the VBA library should be used in new macros.
+The **Message** method provides compatibility with the macro language used in Microsoft Project version 3. _x_. The **MsgBox** method in the VBA library should be used in new macros.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

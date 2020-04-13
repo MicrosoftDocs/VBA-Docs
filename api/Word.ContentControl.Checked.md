@@ -26,7 +26,7 @@ _expression_. `Checked`
 
 ## Remarks
 
-Use the  **Checked** property to get/set the current state for a check box content control. If the control is not a check box, attempts to access the property will fail with the run-time error "This property is only available for check box content controls."
+Use the **Checked** property to get/set the current state for a check box content control. If the control is not a check box, attempts to access the property will fail with the run-time error "This property is only available for check box content controls."
 
 
 ## Example

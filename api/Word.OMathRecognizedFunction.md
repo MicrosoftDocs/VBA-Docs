@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathRecognizedFunction object (Word)
 
-Represents a recognized function. The  **OMathRecognizedFunction** object is a member of the **OMathRecognizedFunctions** collection.
+Represents a recognized function. The **OMathRecognizedFunction** object is a member of the **OMathRecognizedFunctions** collection.
 
 
 ## See also

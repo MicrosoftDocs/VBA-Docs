@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Rules](Outlook.Rules.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|Either a  **long** value representing an index into the **Rules** collection, or a **string** name representing the value of the default property of a rule, **[Rule.Name](Outlook.Rule.Name.md)**.|
+| _Index_|Required| **Variant**|Either a **long** value representing an index into the **Rules** collection, or a **string** name representing the value of the default property of a rule, **[Rule.Name](Outlook.Rule.Name.md)**.|
 
 ## Remarks
 

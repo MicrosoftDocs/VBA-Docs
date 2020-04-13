@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableField.Delete method (Project)
 
-Deletes the  **TableField** object from a **TableFields** collection.
+Deletes the **TableField** object from a **TableFields** collection.
 
 
 ## Syntax

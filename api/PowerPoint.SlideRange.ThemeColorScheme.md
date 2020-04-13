@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SlideRange.ThemeColorScheme property (PowerPoint)
 
-Returns a  **ThemeColorScheme** object that represents the color scheme associated with the specified range of slides. Read-only.
+Returns a **ThemeColorScheme** object that represents the color scheme associated with the specified range of slides. Read-only.
 
 
 ## Syntax

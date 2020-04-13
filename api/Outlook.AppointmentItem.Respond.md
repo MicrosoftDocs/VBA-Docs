@@ -36,7 +36,7 @@ _expression_ A variable that represents an '[AppointmentItem](Outlook.Appointmen
 
 ## Return value
 
-A  **[MeetingItem](Outlook.MeetingItem.md)** object that represents the response to the meeting request.
+A **[MeetingItem](Outlook.MeetingItem.md)** object that represents the response to the meeting request.
 
 
 ## Remarks
@@ -56,7 +56,7 @@ The following table describes the behavior of the  **Respond** method depending 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example finds a  **MeetingItem** in the default **Inbox** folder and adds the associated appointment to the **Calendar** folder. It then responds to the sender by accepting the meeting.
+This Visual Basic for Applications (VBA) example finds a **MeetingItem** in the default **Inbox** folder and adds the associated appointment to the **Calendar** folder. It then responds to the sender by accepting the meeting.
 
 
 ```vb

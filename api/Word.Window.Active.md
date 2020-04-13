@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Window](Word.Window.md)**
 
 ## Example
 
-This example activates the first window in the  **Windows** collection, if the window isn't currently active.
+This example activates the first window in the **Windows** collection, if the window isn't currently active.
 
 
 ```vb

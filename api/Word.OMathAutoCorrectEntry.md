@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathAutoCorrectEntry object (Word)
 
-Represents an individual entry in the  **[OMathAutoCorrectEntry](Word.OMathAutoCorrectEntry.md)** collection.
+Represents an individual entry in the **[OMathAutoCorrectEntry](Word.OMathAutoCorrectEntry.md)** collection.
 
 
 ## See also

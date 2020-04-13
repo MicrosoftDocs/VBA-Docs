@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # CategoryCollection.Count property (PowerPoint)
 
-Returns a  **Long** that represents the number of categories in the collection. Read-only.
+Returns a **Long** that represents the number of categories in the collection. Read-only.
 
 
 ## Syntax

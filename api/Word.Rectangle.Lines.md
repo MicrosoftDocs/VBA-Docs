@@ -26,7 +26,7 @@ _expression_. `Lines`
 
 ## Remarks
 
-Use the  **Lines** collection and related objects and properties to programmatically define page layout in a document.
+Use the **Lines** collection and related objects and properties to programmatically define page layout in a document.
 
 
 ## Example

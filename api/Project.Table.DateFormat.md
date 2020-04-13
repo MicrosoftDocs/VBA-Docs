@@ -26,13 +26,13 @@ _expression_ A variable that represents a [Table](./Project.Table.md) object.
 
 ## Remarks
 
-The  **DateFormat** property can be one of the following **[PjDateFormat](Project.PjDateFormat.md)** constants.
+The **DateFormat** property can be one of the following **[PjDateFormat](Project.PjDateFormat.md)** constants.
 
 
 
 |**Constant**|**Date format applied to 9/30/02 (12:33 PM)**|
 |:-----|:-----|
-|**pjDateDefault**|The default format, as specified on the  **General** tab of the **Project Options** dialog box.|
+|**pjDateDefault**|The default format, as specified on the **General** tab of the **Project Options** dialog box.|
 |**pjDate_mm_dd_yy_hh_mmAM**|9/30/02 12:33 PM|
 |**pjDate_mm_dd_yy**|9/30/02|
 |**pjDate_mm_dd_yyyy**|9/30/2002|

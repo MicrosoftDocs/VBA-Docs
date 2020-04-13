@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Task.Baseline8FixedCost property (Project)
 
-Gets or sets the baseline8 fixed cost of any nonresource expense for a  **Task**. Read/write **Variant**.
+Gets or sets the baseline8 fixed cost of any nonresource expense for a **Task**. Read/write **Variant**.
 
 
 ## Syntax

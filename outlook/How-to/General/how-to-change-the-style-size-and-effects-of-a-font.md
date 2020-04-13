@@ -5,25 +5,22 @@ f1_keywords:
 - olfm10.chm3077158
 ms.prod: outlook
 ms.assetid: 17225340-8da2-69b8-3255-d6c925f16aaf
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Change the Style, Size, and Effects of a Font
 
-The following example demonstrates a  **[Font](../../../api/Outlook.font.md)** object and the **[Bold](../../../api/Outlook.font.bold.md)**,  **[Italic](../../../api/Outlook.font.italic.md)**,  **[Size](../../../api/Outlook.font.size.md)**,  **[Strikethrough](../../../api/Outlook.font.strikethrough.md)**,  **[Underline](../../../api/Outlook.font.underline.md)**, and  **[Weight](../../../api/Outlook.font.weight.md)** properties related to fonts. You can manipulate font properties of an object directly or by using an alias, as this example also shows.
+The following example demonstrates a **[Font](../../../api/Outlook.font.md)** object and the **[Bold](../../../api/Outlook.font.bold.md)**, **[Italic](../../../api/Outlook.font.italic.md)**, **[Size](../../../api/Outlook.font.size.md)**, **[Strikethrough](../../../api/Outlook.font.strikethrough.md)**, **[Underline](../../../api/Outlook.font.underline.md)**, and **[Weight](../../../api/Outlook.font.weight.md)** properties related to fonts. You can manipulate font properties of an object directly or by using an alias, as this example also shows.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **[Label](../../../api/Outlook.label.md)** named Label1.
-    
-- Four  **[ToggleButton](../../../api/Outlook.togglebutton.md)** controls named ToggleButton1 through ToggleButton4.
-    
-- A second  **Label** and a **[TextBox](../../../api/Outlook.textbox.md)** named Label2 and TextBox1.
-    
+- A **[Label](../../../api/Outlook.label.md)** named Label1.
 
+- Four **[ToggleButton](../../../api/Outlook.togglebutton.md)** controls named ToggleButton1 through ToggleButton4.
 
+- A second **Label** and a **[TextBox](../../../api/Outlook.textbox.md)** named Label2 and TextBox1.
 
 ```vb
 Dim MyFont 

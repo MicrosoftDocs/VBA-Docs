@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RotationEffect.To property (PowerPoint)
 
-Sets or returns a  **Single** that represents the ending rotation of an object in degrees, specified relative to the screen (for example, 90 degrees is completely horizontal). Read/write.
+Sets or returns a **Single** that represents the ending rotation of an object in degrees, specified relative to the screen (for example, 90 degrees is completely horizontal). Read/write.
 
 
 ## Syntax
@@ -31,11 +31,11 @@ Single
 
 ## Remarks
 
-Use this property in conjunction with the  **From** property to transition from one rotation angle to another.
+Use this property in conjunction with the **From** property to transition from one rotation angle to another.
 
-The default value is  **Empty** in which case the current position of the object is used.
+The default value is **Empty** in which case the current position of the object is used.
 
-Do not confuse this property with the  **ToX** or **ToY** properties of the **[ScaleEffect](PowerPoint.ScaleEffect.md)** and **[MotionEffect](PowerPoint.MotionEffect.md)** objects, which are only used for scaling or motion effects.
+Do not confuse this property with the **ToX** or **ToY** properties of the **[ScaleEffect](PowerPoint.ScaleEffect.md)** and **[MotionEffect](PowerPoint.MotionEffect.md)** objects, which are only used for scaling or motion effects.
 
 
 ## Example

@@ -30,8 +30,8 @@ _expression_.**Add** (_Text_, _Value_, _Index_)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Text_|Required| **String**|Specifies the display text for the list item. Corresponds to the  **[Text](Word.ContentControlListEntry.Text.md)** property for a **ContentControlListEntry** object.|
-| _Value_|Optional| **String**|Specifies the value of the list item. Corresponds to the  **[Value](Word.ContentControlListEntry.Value.md)** property for a **ContentControlListEntry** object. If omitted, the **Value** property is equal to the **Text** property.|
+| _Text_|Required| **String**|Specifies the display text for the list item. Corresponds to the **[Text](Word.ContentControlListEntry.Text.md)** property for a **ContentControlListEntry** object.|
+| _Value_|Optional| **String**|Specifies the value of the list item. Corresponds to the **[Value](Word.ContentControlListEntry.Value.md)** property for a **ContentControlListEntry** object. If omitted, the **Value** property is equal to the **Text** property.|
 | _Index_|Optional| **Long**|Specifies the ordinal position of the new item in the list. If an item exists at the position specified, the existing item is pushed down in the list. If omitted, the new item is added to the end of the list.|
 
 ## Return value

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Series.DataLabels method (PowerPoint)
 
-Returns an object that represents either a single data label (a  **[DataLabel](PowerPoint.DataLabel.md)** object) or a collection of all the data labels for the series (a **[DataLabels](PowerPoint.DataLabels.md)** collection).
+Returns an object that represents either a single data label (a **[DataLabel](PowerPoint.DataLabel.md)** object) or a collection of all the data labels for the series (a **[DataLabels](PowerPoint.DataLabels.md)** collection).
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' objec
 
 ## Return value
 
-An object that represents either a single data label (a  **DataLabel** object) or a collection of all the data labels for the series (a **DataLabels** collection).
+An object that represents either a single data label (a **DataLabel** object) or a collection of all the data labels for the series (a **DataLabels** collection).
 
 
 ## Remarks

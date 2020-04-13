@@ -30,11 +30,11 @@ _expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _DestFldr_|Required| **[Folder](Outlook.Folder.md)**|An expression that returns a  **Folder** object. The destination folder.|
+| _DestFldr_|Required| **[Folder](Outlook.Folder.md)**|An expression that returns a **Folder** object. The destination folder.|
 
 ## Return value
 
-An  **Object** value that represents the item which has been moved to the designated folder.
+An **Object** value that represents the item which has been moved to the designated folder.
 
 
 ## See also

@@ -30,11 +30,11 @@ _expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **Variant**|The Outlook item type for the new item. Specifies a  **[MessageClass](Outlook.MailItem.MessageClass.md)** to create custom forms. Can be one of the following **OlItemType** constants: **olAppointmentItem**, **olContactItem**, **olJournalItem**, **olMailItem**, **olNoteItem**, **olPostItem**, or **olTaskItem,**, or any valid message class.|
+| _Type_|Optional| **Variant**|The Outlook item type for the new item. Specifies a **[MessageClass](Outlook.MailItem.MessageClass.md)** to create custom forms. Can be one of the following **OlItemType** constants: **olAppointmentItem**, **olContactItem**, **olJournalItem**, **olMailItem**, **olNoteItem**, **olPostItem**, or **olTaskItem,**, or any valid message class.|
 
 ## Return value
 
-An  **Object** value that represents the new Outlook item.
+An **Object** value that represents the new Outlook item.
 
 
 ## Remarks

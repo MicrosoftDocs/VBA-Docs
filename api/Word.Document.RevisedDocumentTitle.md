@@ -26,7 +26,7 @@ _expression_. `RevisedDocumentTitle`
 
 ## Remarks
 
-To perform a legal-blackline document compare, use the  **[CompareDocuments](Word.Application.CompareDocuments.md)** method.
+To perform a legal-blackline document compare, use the **[CompareDocuments](Word.Application.CompareDocuments.md)** method.
 
 
 ## See also

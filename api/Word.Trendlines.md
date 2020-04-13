@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Trendlines object (Word)
 
-Represents a collection of all the  **[Trendline](Word.Trendline.md)** objects for the specified series.
+Represents a collection of all the **[Trendline](Word.Trendline.md)** objects for the specified series.
 
 
 ## Remarks
@@ -24,7 +24,7 @@ Each  **Trendline** object represents a trendline in a chart. A trendline shows 
 
 ## Example
 
-Use the  **[Trendlines](Word.Series.Trendlines.md)** method to return the **Trendlines** collection. The following example displays the number of trendlines for series one of the first chart in the active document.
+Use the **[Trendlines](Word.Series.Trendlines.md)** method to return the **Trendlines** collection. The following example displays the number of trendlines for series one of the first chart in the active document.
 
 
 ```vb
@@ -35,7 +35,7 @@ With ActiveDocument.InlineShapes(1)
 End With
 ```
 
-Use the  **[Add](Word.Trendlines.Add.md)** method to create a new trendline and add it to the series. The following example adds a linear trendline to the first series for the first chart in the active document.
+Use the **[Add](Word.Trendlines.Add.md)** method to create a new trendline and add it to the series. The following example adds a linear trendline to the first series for the first chart in the active document.
 
 
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationModule.NavigationModuleType property (Outlook)
 
-Returns an  **[olNavigationModuleType](Outlook.OlNavigationModuleType.md)** constant that represents the navigation module type for the object. Read-only.
+Returns an **[olNavigationModuleType](Outlook.OlNavigationModuleType.md)** constant that represents the navigation module type for the object. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_. `NavigationModuleType`
 
 ## Remarks
 
-This property is typically used when casting a  **[NavigationModule](Outlook.NavigationModule.md)** object to one of the following objects in order to access the **NavigationGroups** property:
+This property is typically used when casting a **[NavigationModule](Outlook.NavigationModule.md)** object to one of the following objects in order to access the **NavigationGroups** property:
 
 
 -  **[CalendarModule](Outlook.CalendarModule.md)**

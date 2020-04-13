@@ -2,7 +2,7 @@
 title: List the Name and Office Location of Each Manager Belonging to an Exchange Distribution List
 ms.prod: outlook
 ms.assetid: abc26854-62db-be7f-4025-46acbcb42541
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -12,23 +12,19 @@ localization_priority: Normal
 This topic describes how to allow a user to select an Exchange distribution list and display the name and office location of each member who is a manager belonging to that distribution list. The major steps of this procedure are as follows:
 
 
-1. The code sample below displays a  **Select Distribution List** dialog box for the user to select a distribution list.
-    
-    It uses the  **[SelectNamesDialog](../../../api/Outlook.SelectNamesDialog.md)** object to display the dialog box and obtain user selection. The sample then obtains the user selection through the **[SelectNamesDialog.Recipients](../../../api/Outlook.SelectNamesDialog.Recipients.md)** property.
-    
+1. The code sample below displays a **Select Distribution List** dialog box for the user to select a distribution list.
+
+    It uses the **[SelectNamesDialog](../../../api/Outlook.SelectNamesDialog.md)** object to display the dialog box and obtain user selection. The sample then obtains the user selection through the **[SelectNamesDialog.Recipients](../../../api/Outlook.SelectNamesDialog.Recipients.md)** property.
+
 2. For each member in the selected distribution list:
-    
+
       1. If the member is a manager, then the code sample displays the name and office number of the manager. 
-    
-    Each member in the distribution list is an  **[AddressEntry](../../../api/Outlook.AddressEntry.md)** object. By checking if the **[AddressEntry.AddressEntryUserType](../../../api/Outlook.AddressEntry.AddressEntryUserType.md)** is either **olExchangeUserAddressEntry** or **olExchangeRemoteUserAddressEntry**, the sample then assigns the  **AddressEntry** object to an **[ExchangeUser](../../../api/Outlook.ExchangeUser.md)** object, and uses `ExchangeUser.GetDirectReports.Count >0` as a criterion to determine if the user is a manager. It then displays the **[Name](../../../api/Outlook.ExchangeUser.Name.md)** and **[OfficeLocation](../../../api/Outlook.ExchangeUser.OfficeLocation.md)** properties of the **ExchangeUser** object.
-    
-  2. If the member is a distribution list, the code sample calls the subroutine  `EnumerateDLManagers`. For each member in that distribution list, if the member is a manager, the code sample then displays the name and office number of the manager.
-    
 
-Copy the following Visual Basic for Applications code sample to the Visual Basic Editor, and run  `ShowManagersOfGroups`. Note that this code sample only applies to a distribution list that has only Exchange users as members, or that has Exchange distribution lists as members but all members of the latter will have to be Exchange users. Further customization of the code will be necessary if there is more nesting of distribution lists as members. 
+    Each member in the distribution list is an **[AddressEntry](../../../api/Outlook.AddressEntry.md)** object. By checking if the **[AddressEntry.AddressEntryUserType](../../../api/Outlook.AddressEntry.AddressEntryUserType.md)** is either **olExchangeUserAddressEntry** or **olExchangeRemoteUserAddressEntry**, the sample then assigns the **AddressEntry** object to an **[ExchangeUser](../../../api/Outlook.ExchangeUser.md)** object, and uses `ExchangeUser.GetDirectReports.Count >0` as a criterion to determine if the user is a manager. It then displays the **[Name](../../../api/Outlook.ExchangeUser.Name.md)** and **[OfficeLocation](../../../api/Outlook.ExchangeUser.OfficeLocation.md)** properties of the **ExchangeUser** object.
 
+  2. If the member is a distribution list, the code sample calls the subroutine `EnumerateDLManagers`. For each member in that distribution list, if the member is a manager, the code sample then displays the name and office number of the manager.
 
-
+Copy the following Visual Basic for Applications code sample to the Visual Basic Editor, and run `ShowManagersOfGroups`. Note that this code sample only applies to a distribution list that has only Exchange users as members, or that has Exchange distribution lists as members but all members of the latter will have to be Exchange users. Further customization of the code will be necessary if there is more nesting of distribution lists as members. 
 
 ```vb
 Sub ShowManagersOfGroups() 

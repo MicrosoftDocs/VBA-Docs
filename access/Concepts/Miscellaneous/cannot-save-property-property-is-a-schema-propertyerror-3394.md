@@ -5,7 +5,7 @@ f1_keywords:
 - jeterr40.chm5003394
 ms.prod: access
 ms.assetid: 033915cd-81ee-3f1f-3d14-143d6dcd1e8b
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You tried to set or change a schema property. When you create a new schema property, specify  **True** as the fourth argument to the **CreateProperty** method in order to set or delete this property.
+You tried to set or change a schema property. When you create a new schema property, specify **True** as the fourth argument to the **CreateProperty** method in order to set or delete this property.
 
 ## See also
 

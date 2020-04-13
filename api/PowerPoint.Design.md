@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Design object (PowerPoint)
 
-Represents an individual slide design template. The  **Design** object is a member of the **[Designs](PowerPoint.Designs.md)** and **[SlideRange](PowerPoint.SlideRange.md)** collections and the **[Master](PowerPoint.Master.md)** and **[Slide](PowerPoint.Slide.md)** objects.
+Represents an individual slide design template. The **Design** object is a member of the **[Designs](PowerPoint.Designs.md)** and **[SlideRange](PowerPoint.SlideRange.md)** collections and the **[Master](PowerPoint.Master.md)** and **[Slide](PowerPoint.Slide.md)** objects.
 
 
 ## Remarks
@@ -33,7 +33,7 @@ Use the [Add](PowerPoint.Designs.Add.md), [Item](PowerPoint.Designs.Item.md), [C
 
 ## Example
 
-The  **Design** object's[AddTitleMaster](PowerPoint.Presentation.AddTitleMaster.md)method and [HasTitleMaster](PowerPoint.Presentation.HasTitleMaster.md)property can be used to add and / or query the status of a title slide master. For example:
+The **Design** object's[AddTitleMaster](PowerPoint.Presentation.AddTitleMaster.md)method and [HasTitleMaster](PowerPoint.Presentation.HasTitleMaster.md)property can be used to add and / or query the status of a title slide master. For example:
 
 
 ```vb

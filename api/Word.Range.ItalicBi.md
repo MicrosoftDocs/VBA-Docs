@@ -30,7 +30,7 @@ This property returns  **True**, **False** or **wdUndefined** (for a mixture of 
 
 
 > [!NOTE] 
-> The  **ItalicBi** property applies to text in right-to-left languages.
+> The **ItalicBi** property applies to text in right-to-left languages.
 
 
 ## Example

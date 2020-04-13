@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleActions.PlaySound property (Outlook)
 
-Returns a  **[PlaySoundRuleAction](Outlook.PlaySoundRuleAction.md)** object with **[PlaySoundRuleAction.ActionType](Outlook.PlaySoundRuleAction.ActionType.md)** being **olRuleActionNotifyRead**. Read-only.
+Returns a **[PlaySoundRuleAction](Outlook.PlaySoundRuleAction.md)** object with **[PlaySoundRuleAction.ActionType](Outlook.PlaySoundRuleAction.ActionType.md)** being **olRuleActionNotifyRead**. Read-only.
 
 
 ## Syntax

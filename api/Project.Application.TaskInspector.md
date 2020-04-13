@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.TaskInspector method (Project)
 
-Displays the  **Task Inspector** pane.
+Displays the **Task Inspector** pane.
 
 
 ## Syntax
@@ -31,8 +31,8 @@ _expression_. `TaskInspector`
 
 ## Remarks
 
-The  **TaskInspector** method corresponds to the **Inspect Task** drop-down menu item on the **TASK** ribbon. The **TaskInspector** method has the same effect as the **[TaskDrivers](Project.Application.TaskDrivers.md)** method.
+The **TaskInspector** method corresponds to the **Inspect Task** drop-down menu item on the **TASK** ribbon. The **TaskInspector** method has the same effect as the **[TaskDrivers](Project.Application.TaskDrivers.md)** method.
 
-The  **Task Inspector** pane includes factors that affect the task start date and finish date (task drivers such as calendars and predecessor tasks) and can also show warnings, suggestions, and ignored problems.
+The **Task Inspector** pane includes factors that affect the task start date and finish date (task drivers such as calendars and predecessor tasks) and can also show warnings, suggestions, and ignored problems.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

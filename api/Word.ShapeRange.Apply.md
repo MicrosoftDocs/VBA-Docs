@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeRange.Apply method (Word)
 
-Applies to the specified shape formatting that has been copied using the  **PickUp** method.
+Applies to the specified shape formatting that has been copied using the **PickUp** method.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[ShapeRange](Word.shaperan
 
 ## Remarks
 
-If formatting for the  **ShapeRange** object has not previously been copied using the **PickUp** method, using the **Apply** method generates an error.
+If formatting for the **ShapeRange** object has not previously been copied using the **PickUp** method, using the **Apply** method generates an error.
 
 
 ## See also

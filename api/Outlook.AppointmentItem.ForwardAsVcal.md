@@ -26,12 +26,12 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 ## Return value
 
-A  **[MailItem](Outlook.MailItem.md)** object that represents the new mail item to which the calendar information is attached.
+A **[MailItem](Outlook.MailItem.md)** object that represents the new mail item to which the calendar information is attached.
 
 
 ## Remarks
 
-The  **ForwardAsVcal** method returns a **[MailItem](Outlook.MailItem.md)** with the vCal file attached.
+The **ForwardAsVcal** method returns a **[MailItem](Outlook.MailItem.md)** with the vCal file attached.
 
 
 ## See also

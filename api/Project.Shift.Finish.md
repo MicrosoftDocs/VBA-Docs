@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Shift.Finish property (Project)
 
-Gets or sets the finish date of a  **Shift**. Read/write **Variant**.
+Gets or sets the finish date of a **Shift**. Read/write **Variant**.
 
 
 ## Syntax

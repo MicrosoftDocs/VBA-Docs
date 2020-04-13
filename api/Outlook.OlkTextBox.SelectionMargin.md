@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTextBox.SelectionMargin property (Outlook)
 
-Returns or sets a  **Boolean** that specifies whether the user can select a line of text by clicking in the region to the left of the text. Read/write.
+Returns or sets a **Boolean** that specifies whether the user can select a line of text by clicking in the region to the left of the text. Read/write.
 
 
 ## Syntax

@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shapes.Parent property (Project)
-Gets an object that represents the parent of the  **Shapes** object. Read-only **Object**.
+Gets an object that represents the parent of the **Shapes** object. Read-only **Object**.
 
 ## Syntax
 

@@ -5,7 +5,7 @@ f1_keywords:
 - jeterr40.chm5003493
 ms.prod: access
 ms.assetid: 7b2ca701-ac2e-4abf-084f-86c310e9de40
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -23,7 +23,7 @@ You need to reconfigure the Synchronizer on your computer.
 
 1. Start Replication Manager.
     
-2. On the  **Tools** menu, click **Configure Microsoft Replication Manager**.
+2. On the **Tools** menu, click **Configure Microsoft Replication Manager**.
     
 3. Follow the instructions in the wizard.
     

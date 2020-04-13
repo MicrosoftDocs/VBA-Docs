@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Presentation.SlideMaster property (PowerPoint)
 
-Returns a  **[Master](PowerPoint.Master.md)** object that represents the slide master.
+Returns a **[Master](PowerPoint.Master.md)** object that represents the slide master.
 
 
 ## Syntax

@@ -5,7 +5,7 @@ f1_keywords:
 - jeterr40.chm5003246
 ms.prod: access
 ms.assetid: bc69ec6a-0f3c-adaa-3cf6-fb0a5d8e8bdb
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You tried to perform an operation that is not valid within a transaction. A transaction can be one you create using a  **BeginTrans** statements, or an internal transaction created by the Microsoft Access database engine, such as when you delete multiple records in a single operation.
+You tried to perform an operation that is not valid within a transaction. A transaction can be one you create using a **BeginTrans** statements, or an internal transaction created by the Microsoft Access database engine, such as when you delete multiple records in a single operation.
 
 ## See also
 

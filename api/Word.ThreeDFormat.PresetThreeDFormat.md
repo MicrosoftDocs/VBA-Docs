@@ -28,9 +28,9 @@ _expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDF
 
 Each preset extrusion format contains a set of preset values for the various properties of the extrusion. If the extrusion has a custom format rather than a preset format, this property returns  **msoPresetThreeDFormatMixed**.
 
-The values for this property correspond to the options (numbered from left to right, top to bottom) displayed when you click the  **3D** button on the **Drawing** toolbar.
+The values for this property correspond to the options (numbered from left to right, top to bottom) displayed when you click the **3D** button on the **Drawing** toolbar.
 
-Use the  **SetThreeDFormat** method to set the preset extrusion format.
+Use the **SetThreeDFormat** method to set the preset extrusion format.
 
 
 ## Example

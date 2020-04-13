@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathBreak.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **OMathBreak** object.
+Returns an **Object** that represents the parent object of the specified **OMathBreak** object.
 
 
 ## Syntax

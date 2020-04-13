@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # JournalModule.Visible property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether the **[JournalModule](Outlook.JournalModule.md)** object is displayed in the navigation pane. Read/write.
+Returns or sets a **Boolean** value that determines whether the **[JournalModule](Outlook.JournalModule.md)** object is displayed in the navigation pane. Read/write.
 
 
 ## Syntax

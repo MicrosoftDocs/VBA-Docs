@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Project.Parent property (Project)
 
-Gets the parent of the  **Project** object. Read-only **Object**.
+Gets the parent of the **Project** object. Read-only **Object**.
 
 
 ## Syntax
@@ -23,8 +23,8 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The parent of a  **Project** object can be the **Application** or a **Subproject**.
+The parent of a **Project** object can be the **Application** or a **Subproject**.
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

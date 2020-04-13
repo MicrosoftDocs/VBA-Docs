@@ -23,7 +23,7 @@ _expression_. `FontColor`
 
 ## Remarks
 
-The  **FontColor** property can be one of the following **[PjColor](Project.PjColor.md)** constants:
+The **FontColor** property can be one of the following **[PjColor](Project.PjColor.md)** constants:
 
 
 |||
@@ -38,7 +38,7 @@ The  **FontColor** property can be one of the following **[PjColor](Project.PjCo
 |**pjLime**|**pjWhite**|
 |**pjMaroon**||
 
-To use a hexadecimal RGB value, see the  **[FontColorEx](Project.GroupCriterion2.FontColorEx.md)** property.
+To use a hexadecimal RGB value, see the **[FontColorEx](Project.GroupCriterion2.FontColorEx.md)** property.
 
 
 ## See also

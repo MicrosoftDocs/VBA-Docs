@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AnimationBehavior.RotationEffect property (PowerPoint)
 
-Returns a  **[RotationEffect](PowerPoint.RotationEffect.md)** object for an animation behavior. Read-only.
+Returns a **[RotationEffect](PowerPoint.RotationEffect.md)** object for an animation behavior. Read-only.
 
 
 ## Syntax

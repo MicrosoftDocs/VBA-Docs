@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.OutlookInternalVersion property (Outlook)
 
-Returns a  **Long** representing the build number of the Outlook application for a **[SharingItem](Outlook.SharingItem.md)**. Read-only.
+Returns a **Long** representing the build number of the Outlook application for a **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax

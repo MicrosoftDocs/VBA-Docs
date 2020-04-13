@@ -16,7 +16,7 @@ A collection of  **TaskPane** objects that contains commonly performed tasks in 
 
 ## Remarks
 
-Use the  **TaskPanes** property to return the **TaskPanes** collection. Use the **Item** method with a **[WdTaskPanes](Word.WdTaskPanes.md)** constant to refer to a specific task pane. The example below displays the formatting task pane.
+Use the **TaskPanes** property to return the **TaskPanes** collection. Use the **Item** method with a **[WdTaskPanes](Word.WdTaskPanes.md)** constant to refer to a specific task pane. The example below displays the formatting task pane.
 
 
 ```vb

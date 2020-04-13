@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.Suffix property (Outlook)
 
-Returns or sets a  **String** indicating the name suffix (such as Jr., III, or Ph.D.) for the specified contact. Read/write.
+Returns or sets a **String** indicating the name suffix (such as Jr., III, or Ph.D.) for the specified contact. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) 
 
 ## Remarks
 
-The  **[LastName](Outlook.ContactItem.LastName.md)**, **[FirstName](Outlook.ContactItem.FirstName.md)**, **[MiddleName](Outlook.ContactItem.MiddleName.md)**, and **Suffix** properties are parsed from the **[FullName](Outlook.ContactItem.FullName.md)** property.
+The **[LastName](Outlook.ContactItem.LastName.md)**, **[FirstName](Outlook.ContactItem.FirstName.md)**, **[MiddleName](Outlook.ContactItem.MiddleName.md)**, and **Suffix** properties are parsed from the **[FullName](Outlook.ContactItem.FullName.md)** property.
 
 
 ## See also

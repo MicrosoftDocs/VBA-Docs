@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # GroupShapes.Range method (PowerPoint)
 
-Returns a  **ShapeRange** object.
+Returns a **ShapeRange** object.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [GroupShapes](PowerPoint.GroupShapes.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|The individual shapes that are to be included in the range. Can be an  **Integer** that specifies the index number of the shape, a **String** that specifies the name of the shape, or an array that contains either integers or strings. If this argument is omitted, the **Range** method returns all the objects in the specified collection.|
+| _Index_|Required|**Variant**|The individual shapes that are to be included in the range. Can be an **Integer** that specifies the index number of the shape, a **String** that specifies the name of the shape, or an array that contains either integers or strings. If this argument is omitted, the **Range** method returns all the objects in the specified collection.|
 
 ## Return value
 

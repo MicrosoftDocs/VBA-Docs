@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.AlternateRecipientAllowed property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the mail message can be forwarded. Read/write.
+Returns a **Boolean** value that indicates whether the mail message can be forwarded. Read/write.
 
 
 ## Syntax

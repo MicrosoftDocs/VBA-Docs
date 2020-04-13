@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SolutionsModule.Visible property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether the **Solutions** module is displayed in the navigation pane. Read/write.
+Returns or sets a **Boolean** value that indicates whether the **Solutions** module is displayed in the navigation pane. Read/write.
 
 
 ## Syntax

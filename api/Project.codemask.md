@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # CodeMask object (Project)
 
-The  **CodeMask** object is a collection of **[CodeMaskLevel](Project.CodeMaskLevel.md)** objects that define the code mask for an outline code in Project.
+The **CodeMask** object is a collection of **[CodeMaskLevel](Project.CodeMaskLevel.md)** objects that define the code mask for an outline code in Project.
  
 
 

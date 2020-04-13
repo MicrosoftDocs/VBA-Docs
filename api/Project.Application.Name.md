@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.Name property (Project)
 
-Gets the name of the  **Application** object. Read-only **String**.
+Gets the name of the **Application** object. Read-only **String**.
 
 
 ## Syntax

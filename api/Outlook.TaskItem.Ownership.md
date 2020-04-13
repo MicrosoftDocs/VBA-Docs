@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskItem.Ownership property (Outlook)
 
-Returns an  **[OlTaskOwnership](Outlook.OlTaskOwnership.md)** specifying the ownership state of the task. Read-only.
+Returns an **[OlTaskOwnership](Outlook.OlTaskOwnership.md)** specifying the ownership state of the task. Read-only.
 
 
 ## Syntax

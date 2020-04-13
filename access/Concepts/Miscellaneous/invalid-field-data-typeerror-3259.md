@@ -2,7 +2,7 @@
 title: Invalid field data type. (Error 3259)
 ms.prod: access
 ms.assetid: b3700b72-a1f7-8102-9796-c0e703dfecb1
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The data type specified in the  **Field** object's **Type** property is not valid. Choose one of the valid types as shown in the **Type** property Help topic.
+The data type specified in the **Field** object's **Type** property is not valid. Choose one of the valid types as shown in the **Type** property Help topic.
 
 ## See also
 

@@ -26,7 +26,7 @@ _expression_. `EnhMetaFileBits`
 
 ## Remarks
 
-The  **EnhMetaFileBits** property returns an array of bytes, which can be used with the Microsoft Windows 32 Application Programming Interface from within the Microsoft Visual Basic or Microsoft C++ development environment.
+The **EnhMetaFileBits** property returns an array of bytes, which can be used with the Microsoft Windows 32 Application Programming Interface from within the Microsoft Visual Basic or Microsoft C++ development environment.
 
 
 ## See also

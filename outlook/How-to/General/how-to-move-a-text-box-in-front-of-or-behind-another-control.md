@@ -5,20 +5,20 @@ f1_keywords:
 - olfm10.chm3077267
 ms.prod: outlook
 ms.assetid: 43e00491-39e4-5608-dc51-794be11ac721
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Move a Text Box in Front of or Behind Another Control
 
-The following example sets the z-order of a  **[TextBox](../../../api/Outlook.textbox.md)**, so the user can display the entire  **TextBox** (by bringing it to the front of the z-order) or can place the **TextBox** behind other controls (by sending it to the back of the z-order).
+The following example sets the z-order of a **[TextBox](../../../api/Outlook.textbox.md)**, so the user can display the entire **TextBox** (by bringing it to the front of the z-order) or can place the **TextBox** behind other controls (by sending it to the back of the z-order).
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- Three  **TextBox** controls named TextBox1 through TextBox3.
+- Three **TextBox** controls named TextBox1 through TextBox3.
     
-- A  **[ToggleButton](../../../api/Outlook.togglebutton.md)** named ToggleButton1.
+- A **[ToggleButton](../../../api/Outlook.togglebutton.md)** named ToggleButton1.
     
 
 

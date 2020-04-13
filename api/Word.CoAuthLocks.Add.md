@@ -30,8 +30,8 @@ _expression_.**Add** (_Range_, _Type_)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Range_|Optional| **Variant**|Specifies the document range locked by the  **[CoAuthLock](Word.CoAuthLock.md)** object. This parameter may be a **Paragraph**, **Column**, **Cell**, **Row**, **Table**, **Range**, or **Selection** object.|
-| _Type_|Optional| **[WdLockType](Word.WdLockType.md)**|Specifies the type of lock. The  **WdLockType** specified can only be **wdLockEphemeral** or **WdLockReservation**|
+| _Range_|Optional| **Variant**|Specifies the document range locked by the **[CoAuthLock](Word.CoAuthLock.md)** object. This parameter may be a **Paragraph**, **Column**, **Cell**, **Row**, **Table**, **Range**, or **Selection** object.|
+| _Type_|Optional| **[WdLockType](Word.WdLockType.md)**|Specifies the type of lock. The **WdLockType** specified can only be **wdLockEphemeral** or **WdLockReservation**|
 
 ## Return value
 
@@ -44,7 +44,7 @@ The following code example adds a reservation lock to the first paragraph in the
 
 
 > [!NOTE] 
-> By default, if no arguments are given in the call to the  **CoAuthLocks.Add** method, a reservation lock is placed on the paragraph that contains the insertion point.
+> By default, if no arguments are given in the call to the **CoAuthLocks.Add** method, a reservation lock is placed on the paragraph that contains the insertion point.
 
 
 ## Example

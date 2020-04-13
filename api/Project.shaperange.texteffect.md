@@ -19,7 +19,7 @@ _expression_ A variable that represents a 'ShapeRange' object.
 
 ## Example
 
-The following example creates a shape range that contains a text box shape, sets the foreground color of text in the text frame to red, sets the foreground color of the text box shape to a yellowish tan, and then uses the  **TextEffect** property to set font properties.
+The following example creates a shape range that contains a text box shape, sets the foreground color of text in the text frame to red, sets the foreground color of the text box shape to a yellowish tan, and then uses the **TextEffect** property to set font properties.
 
 If there were more than one text box shape in the shape range, the font properties of each text box would be changed accordingly.
 

@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Opening a Workbook
 
-When you open a workbook using the  **[Open](../../../api/Excel.Workbooks.Open.md)** method, it becomes a member of the  **[Workbooks](../../../api/Excel.Workbooks.md)** collection. The following procedure opens a workbook named MyBook.xls located in the folder named MyFolder on drive C.
+When you open a workbook using the **[Open](../../../api/Excel.Workbooks.Open.md)** method, it becomes a member of the **[Workbooks](../../../api/Excel.Workbooks.md)** collection. The following procedure opens a workbook named MyBook.xls located in the folder named MyFolder on drive C.
 
 
 ```vb

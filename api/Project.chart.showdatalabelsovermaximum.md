@@ -19,7 +19,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Remarks
 
-If you change the value axis to be smaller than the size of the data points, you can use this property to set whether to show the data labels. The  **ShowDataLabelsOverMaximum** property applies only to 2D charts.
+If you change the value axis to be smaller than the size of the data points, you can use this property to set whether to show the data labels. The **ShowDataLabelsOverMaximum** property applies only to 2D charts.
 
 
 ## Property value

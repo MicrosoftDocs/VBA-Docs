@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.Cost4 property (Project)
 
-Gets or sets the value of the  **Cost4** custom field for the resource. Read/write **Variant**.
+Gets or sets the value of the **Cost4** custom field for the resource. Read/write **Variant**.
 
 
 ## Syntax

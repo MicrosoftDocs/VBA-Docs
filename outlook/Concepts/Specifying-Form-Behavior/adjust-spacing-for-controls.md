@@ -2,7 +2,7 @@
 title: Adjust Spacing for Controls
 ms.prod: outlook
 ms.assetid: 20ce8e5a-19ce-118d-e9c8-b4b2c822cff3
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -11,7 +11,7 @@ localization_priority: Normal
 
 1. In Forms Designer, select the controls for which you want to adjust the spacing. 
     
-2. On the  **Developer** tab, in the **Arrange** group, click **Align**, point to  **Distribute Horizontally** or **Distribute Vertically**, and then click one of the following.
+2. On the **Developer** tab, in the **Arrange** group, click **Align**, point to **Distribute Horizontally** or **Distribute Vertically**, and then click one of the following.
     
 
 |**Click**|**To**|

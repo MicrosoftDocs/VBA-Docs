@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Rows](Word.Rows.md)** object.
 
 ## Remarks
 
-If the  **HeightRule** property of the specified row is **wdRowHeightAuto**, **Height** returns **wdUndefined**; setting the **Height** property sets **HeightRule** to **wdRowHeightAtLeast**.
+If the **HeightRule** property of the specified row is **wdRowHeightAuto**, **Height** returns **wdUndefined**; setting the **Height** property sets **HeightRule** to **wdRowHeightAtLeast**.
 
 
 ## Example

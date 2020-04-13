@@ -26,7 +26,7 @@ _expression_. `IsObjectValid`( `_Object_` )
 
 ## Remarks
 
-The  **IsObjectValid** property returns **False** if the object referenced by the variable has been deleted.
+The **IsObjectValid** property returns **False** if the object referenced by the variable has been deleted.
 
 
 ## Example

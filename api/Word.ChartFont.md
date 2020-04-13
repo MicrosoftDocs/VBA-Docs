@@ -24,7 +24,7 @@ If you do not want to format all the text in an  **[AxisTitle](Word.AxisTitle.md
 
 ## Example
 
-The following example formats the title of the first chart as bold. Use the  **Font** property to return the **ChartFont** object.
+The following example formats the title of the first chart as bold. Use the **Font** property to return the **ChartFont** object.
 
 
 ```vb

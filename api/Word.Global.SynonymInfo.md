@@ -31,7 +31,7 @@ _expression_ Required. A variable that represents a '[Global](Word.Global.md)' o
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Word_|Required| **String**|The specified word or phrase.|
-| _LanguageID_|Optional| **Variant**|The language used for the thesaurus. Can be one of the  **[WdLanguageID](Word.WdLanguageID.md)** constants (although some of the constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed).|
+| _LanguageID_|Optional| **Variant**|The language used for the thesaurus. Can be one of the **[WdLanguageID](Word.WdLanguageID.md)** constants (although some of the constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed).|
 
 ## Example
 

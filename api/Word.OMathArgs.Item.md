@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # OMathArgs.Item method (Word)
 
-Returns an  **OMath** object that represents the specified item in the collection.
+Returns an **OMath** object that represents the specified item in the collection.
 
 
 ## Syntax

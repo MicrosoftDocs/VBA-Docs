@@ -26,7 +26,7 @@ _expression_. `RelativeHorizontalSize`
 
 ## Remarks
 
-Use this property with the  **[WidthRelative](Word.Shape.WidthRelative.md)** property.
+Use this property with the **[WidthRelative](Word.Shape.WidthRelative.md)** property.
 
 
 ## See also

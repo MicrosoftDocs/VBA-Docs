@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathFrac.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **OMathFrac** object.
+Returns an **Object** that represents the parent object of the specified **OMathFrac** object.
 
 
 ## Syntax

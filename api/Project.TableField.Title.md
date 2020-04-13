@@ -30,12 +30,12 @@ _expression_ A variable that represents a [TableField](./Project.TableField.md) 
 
 
 > [!NOTE] 
-> Many of the fields in a table do not have a default title, so the  **Title** property is an empty string ("").
+> Many of the fields in a table do not have a default title, so the **Title** property is an empty string ("").
 
 
 ## Example
 
-The following statement prints "Task Name" in the  **Immediate** pane.
+The following statement prints "Task Name" in the **Immediate** pane.
 
 
 ```vb

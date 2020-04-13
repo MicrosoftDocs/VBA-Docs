@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Options.InsertedTextMark property (Word)
 
-Returns or sets how Microsoft Word formats inserted text while change tracking is enabled (the  **TrackRevisions** property is **True**). Read/write **WdInsertedTextMark**.
+Returns or sets how Microsoft Word formats inserted text while change tracking is enabled (the **TrackRevisions** property is **True**). Read/write **WdInsertedTextMark**.
 
 
 ## Syntax
@@ -26,9 +26,9 @@ _expression_ Required. A variable that represents an **[Options](Word.Options.md
 
 ## Remarks
 
-If change tracking is not enabled, this property is ignored. Use this property with the  **InsertedTextColor** property to control the appearance of inserted text in a document.
+If change tracking is not enabled, this property is ignored. Use this property with the **InsertedTextColor** property to control the appearance of inserted text in a document.
 
-The  **ShowRevisions** property must be **True** to see the formatting for inserted text during editing. The **PrintRevisions** property must be **True** in order for Word to use the formatting for inserted text when printing a document.
+The **ShowRevisions** property must be **True** to see the formatting for inserted text during editing. The **PrintRevisions** property must be **True** in order for Word to use the formatting for inserted text when printing a document.
 
 
 ## Example

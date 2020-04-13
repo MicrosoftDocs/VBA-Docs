@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DistListItem.IsMarkedAsTask property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the **[DistListItem](Outlook.DistListItem.md)** is marked as a task. Read-only.
+Returns a **Boolean** value that indicates whether the **[DistListItem](Outlook.DistListItem.md)** is marked as a task. Read-only.
 
 
 ## Syntax

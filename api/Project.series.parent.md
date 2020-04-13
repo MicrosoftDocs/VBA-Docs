@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Series.Parent property (Project)
-Gets the parent object of the  **Series** object. Read-only **Object**.
+Gets the parent object of the **Series** object. Read-only **Object**.
 
 ## Syntax
 
@@ -19,7 +19,7 @@ _expression_ A variable that represents a 'Series' object.
 
 ## Remarks
 
-The parent of a  **Series** object is a **SeriesCollection** object.
+The parent of a **Series** object is a **SeriesCollection** object.
 
 
 ## See also

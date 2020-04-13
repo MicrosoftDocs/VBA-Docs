@@ -23,6 +23,6 @@ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 ## Remarks
 
-The  **HyperlinkScreenTip** property is limited to 255 characters.
+The **HyperlinkScreenTip** property is limited to 255 characters.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

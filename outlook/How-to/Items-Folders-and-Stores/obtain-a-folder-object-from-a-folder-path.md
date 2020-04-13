@@ -2,14 +2,14 @@
 title: Obtain a Folder Object from a Folder Path
 ms.prod: outlook
 ms.assetid: c576924a-6bf9-7bae-bcee-7bacd299e144
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Obtain a Folder Object from a Folder Path
 
-This topic shows a function that accepts a folder path and returns a  **[Folder](../../../api/Outlook.Folder.md)** object that corresponds to the specified folder. For example, if you provide the folder path "Mailbox - Dan Wilson\Inbox\Customers", the code in the `TestGetFolder` procedure will display the **Folder** object that corresponds to the Customers folder under Dan Wilson's Inbox, if the Customers folder exists under the Inbox. If the Customers folder does not exist, `GetFolder` will return `Nothing`.
+This topic shows a function that accepts a folder path and returns a **[Folder](../../../api/Outlook.Folder.md)** object that corresponds to the specified folder. For example, if you provide the folder path "Mailbox - Dan Wilson\Inbox\Customers", the code in the `TestGetFolder` procedure will display the **Folder** object that corresponds to the Customers folder under Dan Wilson's Inbox, if the Customers folder exists under the Inbox. If the Customers folder does not exist, `GetFolder` will return `Nothing`.
 
 
 ```vb

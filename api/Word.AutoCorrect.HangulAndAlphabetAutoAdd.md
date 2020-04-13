@@ -26,7 +26,7 @@ _expression_. `HangulAndAlphabetAutoAdd`
 
 ## Remarks
 
-The list of Hangul and alphabet AutoCorrect exceptions is located on the  **Korean** tab in the **AutoCorrect Exceptions** dialog box. Word adds a word to this list if you delete and then retype a word that you didn't want Word to correct.
+The list of Hangul and alphabet AutoCorrect exceptions is located on the **Korean** tab in the **AutoCorrect Exceptions** dialog box. Word adds a word to this list if you delete and then retype a word that you didn't want Word to correct.
 
 
 ## Example

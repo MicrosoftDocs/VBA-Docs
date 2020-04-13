@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Document](Word.Document.md)** objec
 
 ## Remarks
 
-To view spelling errors in a document, you must set the  **[CheckSpellingAsYouType](Word.Options.CheckSpellingAsYouType.md)** property to **True**.
+To view spelling errors in a document, you must set the **[CheckSpellingAsYouType](Word.Options.CheckSpellingAsYouType.md)** property to **True**.
 
 
 ## Example

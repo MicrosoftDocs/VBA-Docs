@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormDescription.Category property (Outlook)
 
-Returns or sets a  **String** representing the category assigned to the form description. Read/write.
+Returns or sets a **String** representing the category assigned to the form description. Read/write.
 
 
 ## Syntax

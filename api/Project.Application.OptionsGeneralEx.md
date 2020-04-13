@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.OptionsGeneralEx method (Project)
 
-Sets some options that are on the  **General**,  **Schedule**, and  **Advanced** tabs of the **Project Options** dialog box.
+Sets some options that are on the **General**,  **Schedule**, and  **Advanced** tabs of the **Project Options** dialog box.
 
 
 ## Syntax
@@ -46,7 +46,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _AutoFilter_|Optional|**Boolean**|**True** if the AutoFilter is active.|
 | _MacroVirusProtection_|Optional||Because of changes in the Project object model, this argument no longer has an effect. It is retained for backward compatibility.|
 | _DisplayRecentFiles_|Optional|**Boolean**|**True** if a list of recently used files appears on the **File** menu.|
-| _RecentFilesMaximum_|Optional|**Integer**|The maximum number of recently used files to display on the  **File** menu. Can be a number from 0 to 9. Setting RecentFilesMaximum to 0 also sets DisplayRecentFiles to **False**.|
+| _RecentFilesMaximum_|Optional|**Integer**|The maximum number of recently used files to display on the **File** menu. Can be a number from 0 to 9. Setting RecentFilesMaximum to 0 also sets DisplayRecentFiles to **False**.|
 | _FontConversion_|Optional|**Boolean**|**True** if the font automatically changes when opening a file that uses a font that cannot display native characters. The FontConversion argument is ignored unless an East Asian version of Project is used.|
 | _ShowStartupWorkpane_|Optional||Because of changes in the Project object model, this argument no longer has an effect. It is retained for backward compatibility.|
 | _MaxUndoRecords_|Optional|**Variant**|The maximum number of records stored in the undo stack.|
@@ -58,8 +58,8 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-If an argument is omitted, the default value is specified by the corresponding settings in the  **Project Options** dialog box.
+If an argument is omitted, the default value is specified by the corresponding settings in the **Project Options** dialog box.
 
-Using the  **OptionsGeneralEx** method without specifying any arguments displays the **Project Options** dialog box with the **General** tab selected.
+Using the **OptionsGeneralEx** method without specifying any arguments displays the **Project Options** dialog box with the **General** tab selected.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Assignment.Task property (Project)
 
-Gets the  **[Task](Project.Task.md)** object associated with the **[Assignment](Project.Assignment.md)**. Read-only **Task**.
+Gets the **[Task](Project.Task.md)** object associated with the **[Assignment](Project.Assignment.md)**. Read-only **Task**.
 
 
 ## Syntax

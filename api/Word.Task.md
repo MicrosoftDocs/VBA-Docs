@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Task object (Word)
 
-Represents a single task running on the system. The  **Task** object is a member of the **[Tasks](Word.tasks.md)** collection. The **Tasks** collection includes all the applications that are currently running on the system.
+Represents a single task running on the system. The **Task** object is a member of the **[Tasks](Word.tasks.md)** collection. The **Tasks** collection includes all the applications that are currently running on the system.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ With Tasks(1)
 End With
 ```
 
-The following example restores the Calculator application window if Calculator is in the  **[Tasks](Word.tasks.md)** collection.
+The following example restores the Calculator application window if Calculator is in the **[Tasks](Word.tasks.md)** collection.
 
 
 

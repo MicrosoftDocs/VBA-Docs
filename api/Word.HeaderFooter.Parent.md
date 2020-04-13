@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # HeaderFooter.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **HeaderFooter** object.
+Returns an **Object** that represents the parent object of the specified **HeaderFooter** object.
 
 
 ## Syntax

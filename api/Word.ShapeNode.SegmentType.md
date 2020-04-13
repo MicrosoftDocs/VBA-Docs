@@ -28,7 +28,7 @@ _expression_ Required. A variable that represents a **[ShapeNode](Word.ShapeNode
 
 If the specified node is a control point for a curved segment, this property returns  **msoSegmentCurve**.
 
-Use the  **SetSegmentType** method to set the value of this property.
+Use the **SetSegmentType** method to set the value of this property.
 
 
 ## Example

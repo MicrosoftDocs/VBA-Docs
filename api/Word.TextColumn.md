@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # TextColumn object (Word)
 
-Represents a single text column. The  **TextColumn** object is a member of the **[TextColumns](Word(textcolumns).md)** collection. The **TextColumns** collection includes all the columns in a document or section of a document.
+Represents a single text column. The **TextColumn** object is a member of the **[TextColumns](Word(textcolumns).md)** collection. The **TextColumns** collection includes all the columns in a document or section of a document.
 
 
 ## Remarks
@@ -28,7 +28,7 @@ ActiveDocument.PageSetup.TextColumns(1).SpaceAfter = _
  InchesToPoints(0.5)
 ```
 
-Use the  **Add** method to add a column to the collection of columns. By default, there is one text column in the **TextColumns** collection. The following example adds a 2.5-inch-widecolumn to the active document.
+Use the **Add** method to add a column to the collection of columns. By default, there is one text column in the **TextColumns** collection. The following example adds a 2.5-inch-widecolumn to the active document.
 
 
 
@@ -39,7 +39,7 @@ ActiveDocument.PageSetup.TextColumns.Add _
  Spacing:=InchesToPoints(0.5), EvenlySpaced:=False
 ```
 
-Use the  **SetCount** method to arrange text into columns. The following example arranges the text in the active document into three columns.
+Use the **SetCount** method to arrange text into columns. The following example arranges the text in the active document into three columns.
 
 
 

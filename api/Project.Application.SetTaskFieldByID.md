@@ -30,7 +30,7 @@ _expression_. `SetTaskFieldByID`( `_FieldID_`, `_Value_`, `_AllSelectedTasks_`, 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _FieldID_|Required|**PjField**|Field identification number. Can be one of the task fields specified by a  **[PjField](Project.PjField.md)** constant or a number returned by the **[FieldNameToFieldConstant](Project.Application.FieldNameToFieldConstant.md)** method.|
+| _FieldID_|Required|**PjField**|Field identification number. Can be one of the task fields specified by a **[PjField](Project.PjField.md)** constant or a number returned by the **[FieldNameToFieldConstant](Project.Application.FieldNameToFieldConstant.md)** method.|
 | _Value_|Required|**String**|The value of the task field.|
 | _AllSelectedTasks_|Optional|**Variant**|**True** if the value of the field is set for all selected tasks. **False** if the value is set for the active task. The default value is **False**.|
 | _Create_|Optional|**Variant**|**True** if Project creates a task when the active cell is on an empty row. The default value is **True**.|
@@ -44,6 +44,6 @@ _expression_. `SetTaskFieldByID`( `_FieldID_`, `_Value_`, `_AllSelectedTasks_`, 
 
 ## Remarks
 
-To set a task field by name, use the  **[SetTaskField](Project.Application.SetTaskField.md)** method.
+To set a task field by name, use the **[SetTaskField](Project.Application.SetTaskField.md)** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

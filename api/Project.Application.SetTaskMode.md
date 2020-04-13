@@ -40,6 +40,6 @@ _expression_. `SetTaskMode`( `_Manual_`, `_IsStickyDates_` )
 
 ## Remarks
 
-The  **SetTaskMode** method corresponds to the **Manually Schedule** command and the **Auto Schedule** command on the **TASK** ribbon.
+The **SetTaskMode** method corresponds to the **Manually Schedule** command and the **Auto Schedule** command on the **TASK** ribbon.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Presentation.Windows property (PowerPoint)
 
-Returns a  **[DocumentWindows](PowerPoint.DocumentWindows.md)** collection that represents all document windows associated with the specified presentation. Read-only.
+Returns a **[DocumentWindows](PowerPoint.DocumentWindows.md)** collection that represents all document windows associated with the specified presentation. Read-only.
 
 
 ## Syntax

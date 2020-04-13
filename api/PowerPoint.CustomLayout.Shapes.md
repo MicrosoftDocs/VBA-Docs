@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CustomLayout.Shapes property (PowerPoint)
 
-Returns a  **[Shapes](PowerPoint.Shapes.md)** collection representing all the layout elements included in the specified custom layout. Read-only.
+Returns a **[Shapes](PowerPoint.Shapes.md)** collection representing all the layout elements included in the specified custom layout. Read-only.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Shapes
 
 ## Remarks
 
-The  **Shapes** collection of layout elements can include drawings, shapes, OLE objects, pictures, text objects, titles, headers, footers, slide numbers, and date and time objects.
+The **Shapes** collection of layout elements can include drawings, shapes, OLE objects, pictures, text objects, titles, headers, footers, slide numbers, and date and time objects.
 
 
 ## See also

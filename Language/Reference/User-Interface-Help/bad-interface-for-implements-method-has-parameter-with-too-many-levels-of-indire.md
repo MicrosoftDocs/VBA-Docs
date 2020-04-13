@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Bad interface for Implements: method has parameter with too many levels of indirection
 
-The  **Implements** statement is used to specify an interface or class that will be implemented in the class module in which it appears. This error has the following cause and solution:
+The **Implements** statement is used to specify an interface or class that will be implemented in the class module in which it appears. This error has the following cause and solution:
 
 
 

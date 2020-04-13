@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # ContactItem.BeforeAttachmentRead event (Outlook)
 
-Occurs before an attachment associated with an instance of the parent object is read from the file system, an attachment stream, or an  **[Attachment](Outlook.Attachment.md)** object.
+Occurs before an attachment associated with an instance of the parent object is read from the file system, an attachment stream, or an **[Attachment](Outlook.Attachment.md)** object.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Attachment_|Required| **Attachment**|The  **Attachment** to be read.|
+| _Attachment_|Required| **Attachment**|The **Attachment** to be read.|
 | _Cancel_|Required| **Boolean**|Set to  **True** to cancel the operation; otherwise, set to **False** to allow the **Attachment** to be read.|
 
 ## See also

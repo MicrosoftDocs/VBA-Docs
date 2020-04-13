@@ -28,7 +28,7 @@ _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraph
 
 The exact spacing is determined by adding 6 points to the font size of the largest character in each paragraph.
 
-You can also use the  **[LineSpacingRule](Word.Paragraphs.LineSpacingRule.md)** property to set paragraph spacing. The following two statements are equivalent:
+You can also use the **[LineSpacingRule](Word.Paragraphs.LineSpacingRule.md)** property to set paragraph spacing. The following two statements are equivalent:
 
 
 

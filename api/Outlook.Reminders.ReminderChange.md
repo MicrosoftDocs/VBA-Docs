@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Reminders](Outlook.Reminders.md) obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ReminderObject_|Required| **[Reminder](Outlook.Reminder.md)**|The  **Reminder** object that has been modified.|
+| _ReminderObject_|Required| **[Reminder](Outlook.Reminder.md)**|The **Reminder** object that has been modified.|
 
 ## Example
 

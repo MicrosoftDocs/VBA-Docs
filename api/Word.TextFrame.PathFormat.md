@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[TextFrame](Word.TextFrame.md)** obj
 
 ## Remarks
 
-The value of the  **PathFormat** property can be one of the following **MsoPathType** constants:
+The value of the **PathFormat** property can be one of the following **MsoPathType** constants:
 
 
 - msoPathType1

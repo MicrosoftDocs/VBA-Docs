@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ConnectorFormat.EndConnectedShape property (PowerPoint)
 
-Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the shape that the end of the specified connector is attached to. Read-only.
+Returns a **[Shape](PowerPoint.Shape.md)** object that represents the shape that the end of the specified connector is attached to. Read-only.
 
 
 ## Syntax

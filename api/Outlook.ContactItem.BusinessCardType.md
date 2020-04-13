@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.BusinessCardType property (Outlook)
 
-Returns an  **[OlBusinessCardType](Outlook.OlBusinessCardType.md)** constant that specifies the type of Electronic Business Card used by this contact. Read-only.
+Returns an **[OlBusinessCardType](Outlook.OlBusinessCardType.md)** constant that specifies the type of Electronic Business Card used by this contact. Read-only.
 
 
 ## Syntax

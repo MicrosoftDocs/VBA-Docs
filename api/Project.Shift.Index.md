@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Shift.Index property (Project)
 
-Gets the index of a  **Shift** object in the containing object. Read-only **Integer**.
+Gets the index of a **Shift** object in the containing object. Read-only **Integer**.
 
 
 ## Syntax
@@ -40,7 +40,7 @@ Following are the objects that can contain  **Shift** objects:
 
  **Shift** objects are accessed using the **Shift1**... **Shift5** properties. Because Project defines five shifts, the **Index** property can have only the values 1 through 5.
 
-The  **Index** properties of different objects are used in similar ways. For an example, see the **[Index](Project.Project.Index.md)** property of the **Project** object.
+The **Index** properties of different objects are used in similar ways. For an example, see the **[Index](Project.Project.Index.md)** property of the **Project** object.
 
 
 ## Example

@@ -30,7 +30,7 @@ _expression_. `DetailStylesFormatEx`( `_Item_`, `_Font_`, `_Size_`, `_Bold_`, `_
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Item_|Optional|**Long**|The timescaled data field to format. If the active view is the Task Usage view, the value can be one of the  **[PjTaskTimescaledData](Project.PjTaskTimescaledData.md)** constants. If the active view is the Resource Usage view, the value can be one of the **[PjResourceTimescaledData](Project.PjResourceTimescaledData.md)** constants.|
+| _Item_|Optional|**Long**|The timescaled data field to format. If the active view is the Task Usage view, the value can be one of the **[PjTaskTimescaledData](Project.PjTaskTimescaledData.md)** constants. If the active view is the Resource Usage view, the value can be one of the **[PjResourceTimescaledData](Project.PjResourceTimescaledData.md)** constants.|
 | _Font_|Optional|**String**|The name of the font.|
 | _Size_|Optional|**Integer**|The size of the font in points.|
 | _Bold_|Optional|**Boolean**|**True** if the font is bold; otherwise, **False**.|
@@ -38,7 +38,7 @@ _expression_. `DetailStylesFormatEx`( `_Item_`, `_Font_`, `_Size_`, `_Bold_`, `_
 | _Underline_|Optional|**Boolean**|**True** if the font is underlined; otherwise, **False**.|
 | _Color_|Optional|**Long**|The color of the font. Can be a hexadecimal value, where red is the last byte. For example, the value &HFF0000 is blue and &H00FFFF is yellow.|
 | _CellColor_|Optional|**Long**|The color of the cell background. Can be a hexadecimal value, where red is the last byte. For example, the value &HFF00 is green.|
-| _Pattern_|Optional|**Long**|The pattern for nonworking times. Can be one of the  **[PjFillPattern](Project.PjFillPattern.md)** constants.|
+| _Pattern_|Optional|**Long**|The pattern for nonworking times. Can be one of the **[PjFillPattern](Project.PjFillPattern.md)** constants.|
 | _ShowInMenu_|Optional|**Boolean**|**True** if the field specified with **Item** appears in the shortcut menu; otherwise, **False**. The default value is **False**.|
 | _Strikethrough_|Optional|**Variant**|**True** if the font is the strikethrough style.|
 
@@ -49,7 +49,7 @@ _expression_. `DetailStylesFormatEx`( `_Item_`, `_Font_`, `_Size_`, `_Bold_`, `_
 
 ## Remarks
 
-Using the  **DetailStylesFormat** method without specifying any arguments displays the **Detail Styles** dialog box with the **Usage Details** tab selected.
+Using the **DetailStylesFormat** method without specifying any arguments displays the **Detail Styles** dialog box with the **Usage Details** tab selected.
 
 
 ## Example
@@ -67,6 +67,6 @@ End Sub
 
 
 > [!NOTE] 
-> If you use any of the  **PjColor** enumeration constants for the _Color_ or _CellColor_ parameters, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **DetailStylesFormatEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[DetailStylesFormat](Project.Application.DetailStylesFormat.md)** method.
+> If you use any of the **PjColor** enumeration constants for the _Color_ or _CellColor_ parameters, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **DetailStylesFormatEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[DetailStylesFormat](Project.Application.DetailStylesFormat.md)** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

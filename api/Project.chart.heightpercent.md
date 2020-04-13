@@ -19,7 +19,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Remarks
 
-The  **HeightPercent** value can be between 5 and 500 percent.
+The **HeightPercent** value can be between 5 and 500 percent.
 
 
 ## Example

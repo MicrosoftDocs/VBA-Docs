@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Columns.Item method (Outlook)
 
-Obtains a  **[Column](Outlook.Column.md)** object specified by _Index_.
+Obtains a **[Column](Outlook.Column.md)** object specified by _Index_.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a '[Columns](Outlook.Columns.md)' object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|A 1-based index value that can be either a  **Long** representing the column index for the **Columns** collection or a **String** representing the **[Name](Outlook.Column.Name.md)** of the **Column**.|
+| _Index_|Required| **Variant**|A 1-based index value that can be either a **Long** representing the column index for the **Columns** collection or a **String** representing the **[Name](Outlook.Column.Name.md)** of the **Column**.|
 
 ## Return value
 

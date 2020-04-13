@@ -31,15 +31,15 @@ A **MenuSet** object is identified in the **MenuSets** collection by its **[SetI
 
 ## Methods
 
--  [Add](Visio.MenuSets.Add.md)
--  [AddAtID](Visio.MenuSets.AddAtID.md)
+- [Add](Visio.MenuSets.Add.md)
+- [AddAtID](Visio.MenuSets.AddAtID.md)
 
 ## Properties
 
--  [Count](Visio.MenuSets.Count.md)
--  [Item](Visio.MenuSets.Item.md)
--  [ItemAtID](Visio.MenuSets.ItemAtID.md)
--  [Parent](Visio.MenuSets.Parent.md)
+- [Count](Visio.MenuSets.Count.md)
+- [Item](Visio.MenuSets.Item.md)
+- [ItemAtID](Visio.MenuSets.ItemAtID.md)
+- [Parent](Visio.MenuSets.Parent.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

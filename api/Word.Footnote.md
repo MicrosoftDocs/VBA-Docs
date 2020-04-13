@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Footnote object (Word)
 
-Represents a footnote positioned at the bottom of the page or beneath text. The  **Footnote** object is a member of the **Footnotes** collection. The **[Footnotes](Word.footnotes.md)** collection represents the footnotes in a selection, range, or document.
+Represents a footnote positioned at the bottom of the page or beneath text. The **Footnote** object is a member of the **Footnotes** collection. The **[Footnotes](Word.footnotes.md)** collection represents the footnotes in a selection, range, or document.
 
 
 ## Remarks
@@ -28,7 +28,7 @@ If Selection.Footnotes.Count >= 1 Then
 End If
 ```
 
-Use the  **Add** method to add a footnote to the **[Footnotes](Word.footnotes.md)** collection. The following example inserts an automatically numbered footnote immediately after the selection.
+Use the **Add** method to add a footnote to the **[Footnotes](Word.footnotes.md)** collection. The following example inserts an automatically numbered footnote immediately after the selection.
 
 
 
@@ -41,7 +41,7 @@ ActiveDocument.Footnotes.Add Range:=Selection.Range , _
 
 
 > [!NOTE] 
-> Footnotes positioned at the end of a document or section are considered endnotes and are included in the  **[Endnotes](Word.endnotes.md)** collection.
+> Footnotes positioned at the end of a document or section are considered endnotes and are included in the **[Endnotes](Word.endnotes.md)** collection.
 
 
 ## Methods

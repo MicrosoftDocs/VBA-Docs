@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimeZones.Class property (Outlook)
 
-Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant that represents the object's class. Read-only.
+Returns an **[OlObjectClass](Outlook.OlObjectClass.md)** constant that represents the object's class. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AccountRuleCondition.Account property (Outlook)
 
-Returns or sets an  **[Account](Outlook.Account.md)** object that represents the account used to evaluate the rule condition. Read/write.
+Returns or sets an **[Account](Outlook.Account.md)** object that represents the account used to evaluate the rule condition. Read/write.
 
 
 ## Syntax

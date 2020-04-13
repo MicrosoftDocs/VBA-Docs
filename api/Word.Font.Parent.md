@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Font.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Font** object.
+Returns an **Object** that represents the parent object of the specified **Font** object.
 
 
 ## Syntax

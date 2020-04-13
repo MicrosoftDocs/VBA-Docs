@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTextBox.HideSelection property (Outlook)
 
-Returns or sets a  **Boolean** that specifies if a selection is displayed or hidden for the control when the control loses focus. Read/write.
+Returns or sets a **Boolean** that specifies if a selection is displayed or hidden for the control when the control loses focus. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) o
 
 ## Remarks
 
-The default value of this property is  **True**.
+The default value of this property is **True**.
 
 
 ## See also

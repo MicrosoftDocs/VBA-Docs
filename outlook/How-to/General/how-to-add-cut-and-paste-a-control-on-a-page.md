@@ -5,26 +5,22 @@ f1_keywords:
 - olfm10.chm3077170
 ms.prod: outlook
 ms.assetid: f20fb2d9-0ee2-2cf5-173c-9fdd6201bdca
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Add, Cut, and Paste a Control on a Page
 
-The following example uses the Microsoft Forms 2.0  **Controls**collection, and the  **Controls.Add**,  **Controls.Cut**, and  **[Page.Paste](../../../api/Outlook.page.paste.md)** methods to add, cut, and paste a control on a **[Page](../../../api/Outlook.page.md)** of a **[MultiPage](../../../api/Outlook.multipage.md)**. The control involved in the cut and paste operations is dynamically added to the form.
+The following example uses the Microsoft Forms 2.0 **Controls**collection, and the **Controls.Add**, **Controls.Cut**, and **[Page.Paste](../../../api/Outlook.page.paste.md)** methods to add, cut, and paste a control on a **[Page](../../../api/Outlook.page.md)** of a **[MultiPage](../../../api/Outlook.multipage.md)**. The control involved in the cut and paste operations is dynamically added to the form.
 
 This example assumes the user will add, then cut, then paste the new control.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
+- Three **[CommandButton](../../../api/Outlook.commandbutton.md)** controls named CommandButton1 through CommandButton3.
 
-- Three  **[CommandButton](../../../api/Outlook.commandbutton.md)** controls named CommandButton1 through CommandButton3.
-    
-- A  **MultiPage** named MultiPage1.
-    
-
-
+- A **MultiPage** named MultiPage1.
 
 ```vb
 Dim CommandButton1 

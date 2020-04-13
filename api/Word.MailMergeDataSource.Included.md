@@ -26,7 +26,7 @@ _expression_. `Included`
 
 ## Remarks
 
-Use the  **[SetAllIncludedFlags](Word.MailMergeDataSource.SetAllIncludedFlags.md)** method to include or exclude all records in a mail merge data source.
+Use the **[SetAllIncludedFlags](Word.MailMergeDataSource.SetAllIncludedFlags.md)** method to include or exclude all records in a mail merge data source.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Cell object (PowerPoint)
 
-Represents a table cell. The  **Cell** object is a member of the **[CellRange](PowerPoint.CellRange.md)** collection. The **CellRange** collection represents all the cells in the specified column or row. To use the **CellRange** collection, use the **Cells** keyword.
+Represents a table cell. The **Cell** object is a member of the **[CellRange](PowerPoint.CellRange.md)** collection. The **CellRange** collection represents all the cells in the specified column or row. To use the **CellRange** collection, use the **Cells** keyword.
 
 
 ## Remarks

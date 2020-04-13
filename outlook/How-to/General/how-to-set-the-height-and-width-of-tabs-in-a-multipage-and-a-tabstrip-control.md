@@ -5,32 +5,32 @@ f1_keywords:
 - olfm10.chm3077249
 ms.prod: outlook
 ms.assetid: 4d351a3d-334e-5356-7a2d-6c7b11655319
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Set the Height and Width of Tabs in a MultiPage and a TabStrip Control
 
-The following example uses the  **TabFixedHeight** and **TabFixedWidth** properties to set the size of the tabs used in **[MultiPage](../../../api/Outlook.multipage.md)** and **[TabStrip](../../../api/Outlook.tabstrip.md)**. The user clicks the  **[SpinButton](../../../api/Outlook.spinbutton.md)** controls to adjust the height and width of the tabs within the **MultiPage** and **TabStrip**.
+The following example uses the **TabFixedHeight** and **TabFixedWidth** properties to set the size of the tabs used in **[MultiPage](../../../api/Outlook.multipage.md)** and **[TabStrip](../../../api/Outlook.tabstrip.md)**. The user clicks the **[SpinButton](../../../api/Outlook.spinbutton.md)** controls to adjust the height and width of the tabs within the **MultiPage** and **TabStrip**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **MultiPage** named MultiPage1.
+- A **MultiPage** named MultiPage1.
     
-- A  **TabStrip** named TabStrip1.
+- A **TabStrip** named TabStrip1.
     
-- A  **[Label](../../../api/Outlook.label.md)** named Label1 for the width control.
+- A **[Label](../../../api/Outlook.label.md)** named Label1 for the width control.
     
-- A  **SpinButton** named SpinButton1 for the width control that is bound to a custom number field named SpinButtonWidth.
+- A **SpinButton** named SpinButton1 for the width control that is bound to a custom number field named SpinButtonWidth.
     
-- A  **[TextBox](../../../api/Outlook.textbox.md)** named TextBox1 for the width control.
+- A **[TextBox](../../../api/Outlook.textbox.md)** named TextBox1 for the width control.
     
-- A  **Label** named Label2 for the height control.
+- A **Label** named Label2 for the height control.
     
-- A  **SpinButton** named SpinButton2 for the height control that is bound to a custom number field named SpinButtonHeight.
+- A **SpinButton** named SpinButton2 for the height control that is bound to a custom number field named SpinButtonHeight.
     
-- A  **TextBox** named TextBox2 for the height control.
+- A **TextBox** named TextBox2 for the height control.
     
 
 

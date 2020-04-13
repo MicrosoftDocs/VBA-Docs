@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.GlobalBaseCalendars property (Project)
 
-Gets or sets a  **[Calendars](Project.Calendar.md)** collection representing the base calendars of the Global.mpt file. Read/write **Calendars**.
+Gets or sets a **[Calendars](Project.Calendar.md)** collection representing the base calendars of the Global.mpt file. Read/write **Calendars**.
 
 
 ## Syntax
@@ -37,7 +37,7 @@ The following example creates a local base calendar and then imports the calenda
 
 
 > [!NOTE] 
-> The  **GlobalBaseCalendars** property is the collection of calendars in the local Global.mpt file, not in the enterprise global template.
+> The **GlobalBaseCalendars** property is the collection of calendars in the local Global.mpt file, not in the enterprise global template.
 
 
 ```vb

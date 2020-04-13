@@ -37,7 +37,7 @@ _expression_ A variable that represents a '[Conversation](Outlook.Conversation.m
 
 If the store specified by the  _Store_ parameter represents a non-delivery store such as an archive .pst store, the method returns a string of categories that are applied to conversation items in the default delivery store.
 
-The  **[ItemChange](Outlook.Items.ItemChange.md)** event of the **[Items](Outlook.Items.md)** object occurs when you call the **SetAlwaysAssignCategories** method on a conversation.
+The **[ItemChange](Outlook.Items.ItemChange.md)** event of the **[Items](Outlook.Items.md)** object occurs when you call the **SetAlwaysAssignCategories** method on a conversation.
 
 To determine existing master categories for the current user, examine the  **[Categories](Outlook.Store.Categories.md)** property of the **[Store](Outlook.Store.md)** object that is specified by the _Store_ parameter. If one or more categories specified by the _Categories_ parameter do not exist in the master categories collection, the categories will be assigned to the conversation but will not be added to the master categories collection.
 

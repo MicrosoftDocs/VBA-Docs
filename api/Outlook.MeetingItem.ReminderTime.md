@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MeetingItem.ReminderTime property (Outlook)
 
-Returns or sets a  **Date** indicating the date and time at which the reminder should occur for the specified item. Read/write.
+Returns or sets a **Date** indicating the date and time at which the reminder should occur for the specified item. Read/write.
 
 
 ## Syntax

@@ -36,13 +36,13 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The Project XML schema is available in the Project SDK, as the file mspdi_pj15.xsd. You can create an XML file by saving a project to XML, and then editing the file. If you programmatically create an XML string, you should validate it against the schema before using it with the  **OpenXML** method.
+The Project XML schema is available in the Project SDK, as the file mspdi_pj15.xsd. You can create an XML file by saving a project to XML, and then editing the file. If you programmatically create an XML string, you should validate it against the schema before using it with the **OpenXML** method.
 
-The  **OpenXML** method returns 0 if it is successful.
+The **OpenXML** method returns 0 if it is successful.
 
 
 > [!NOTE] 
-> You can also use the  **[FileOpenEx](Project.Application.FileOpenEx.md)** method to open a valid Project XML file. The **OpenXML** method is primarily designed to open a project by using an XML string.
+> You can also use the **[FileOpenEx](Project.Application.FileOpenEx.md)** method to open a valid Project XML file. The **OpenXML** method is primarily designed to open a project by using an XML string.
 
 
 ## Example

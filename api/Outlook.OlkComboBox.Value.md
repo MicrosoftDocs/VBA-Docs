@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkComboBox.Value property (Outlook)
 
-Returns or sets a  **Variant** that represents the content selected in the list displayed by the control. Read/write.
+Returns or sets a **Variant** that represents the content selected in the list displayed by the control. Read/write.
 
 
 ## Syntax

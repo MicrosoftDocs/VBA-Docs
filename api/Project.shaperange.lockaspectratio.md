@@ -19,7 +19,7 @@ _expression_ A variable that represents a 'ShapeRange' object.
 
 ## Remarks
 
-The  **LockAspectRatio** value is **msoTrue** if the shape range retains its original proportions when it is resized. If you can change the height and width of the shape range independently, the value is **msoFalse**.
+The **LockAspectRatio** value is **msoTrue** if the shape range retains its original proportions when it is resized. If you can change the height and width of the shape range independently, the value is **msoFalse**.
 
 
 ## Example

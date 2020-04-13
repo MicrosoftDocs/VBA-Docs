@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.ForwardAsVcard method (Outlook)
 
-Creates a  **[MailItem](Outlook.MailItem.md)** and attaches the contact information in vCard format.
+Creates a **[MailItem](Outlook.MailItem.md)** and attaches the contact information in vCard format.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) 
 
 ## Return value
 
-A  **MailItem** object that represents the new mail item to which the contact information is attached.
+A **MailItem** object that represents the new mail item to which the contact information is attached.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.SharingProvider property (Outlook)
 
-Returns an  **[OlSharingProvider](Outlook.OlSharingProvider.md)** constant that indicates the sharing provider used by the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
+Returns an **[OlSharingProvider](Outlook.OlSharingProvider.md)** constant that indicates the sharing provider used by the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax

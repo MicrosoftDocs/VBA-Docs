@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SelectNamesDialog.ShowOnlyInitialAddressList property (Outlook)
 
-Returns or sets a  **Boolean** that determines if the **[AddressList](Outlook.AddressList.md)** represented by **[SelectNamesDialog.InitialAddressList](Outlook.SelectNamesDialog.InitialAddressList.md)** is the only **AddressList** available in the drop-down list for **Address Book** in the **Select Names** dialog box. Read/write.
+Returns or sets a **Boolean** that determines if the **[AddressList](Outlook.AddressList.md)** represented by **[SelectNamesDialog.InitialAddressList](Outlook.SelectNamesDialog.InitialAddressList.md)** is the only **AddressList** available in the drop-down list for **Address Book** in the **Select Names** dialog box. Read/write.
 
 
 ## Syntax
@@ -26,9 +26,9 @@ _expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectName
 
 ## Remarks
 
-The default value of this property is  **False**, meaning that all address lists are displayed. To restrict the drop-down list for **Address Book** to the one indicated by **InitialAddressList**, set **ShowOnlyInitialAddressList** to **True**.
+The default value of this property is **False**, meaning that all address lists are displayed. To restrict the drop-down list for **Address Book** to the one indicated by **InitialAddressList**, set **ShowOnlyInitialAddressList** to **True**.
 
-If you do not set the  **InitialAddressList** property and then set **ShowOnlyInitialAddressList** to **True**, then the **AddressList** with **[AddressList.IsInitialAddressList](Outlook.AddressList.IsInitialAddressList.md)** equal to **True** will be the only address list available in the drop-down list for **Address Book**.
+If you do not set the **InitialAddressList** property and then set **ShowOnlyInitialAddressList** to **True**, then the **AddressList** with **[AddressList.IsInitialAddressList](Outlook.AddressList.IsInitialAddressList.md)** equal to **True** will be the only address list available in the drop-down list for **Address Book**.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextFrame2.Ruler property (PowerPoint)
 
-Returns a  **Ruler2** object that represents the ruler for the specified text. Read-only.
+Returns a **Ruler2** object that represents the ruler for the specified text. Read-only.
 
 
 ## Syntax

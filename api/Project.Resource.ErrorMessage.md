@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.ErrorMessage property (Project)
 
-Gets errors reported by the  **Import Resources Wizard** and by local resource error checks. Read-only **String**.
+Gets errors reported by the **Import Resources Wizard** and by local resource error checks. Read-only **String**.
 
 
 ## Syntax
@@ -23,6 +23,6 @@ _expression_ A variable that represents a [Resource](./Project.Resource.md) obje
 
 ## Remarks
 
-The  **ErrorMessage** property is used by the **Import Resources Wizard** while saving the enterprise resource pool and when **[CheckResourceErrors](Project.Application.CheckResourceErrors.md)** and **[EnterpriseResourcesImport](Project.Application.EnterpriseResourcesImportEx.md)** methods are used.
+The **ErrorMessage** property is used by the **Import Resources Wizard** while saving the enterprise resource pool and when **[CheckResourceErrors](Project.Application.CheckResourceErrors.md)** and **[EnterpriseResourcesImport](Project.Application.EnterpriseResourcesImportEx.md)** methods are used.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

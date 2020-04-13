@@ -5,20 +5,16 @@ f1_keywords:
 - vbapj.chm45320154
 ms.prod: project-server
 ms.assetid: c72f3f22-3628-1379-8c6b-79c7984c728d
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # OLE programmatic identifiers, late binding, and early binding (Project)
 
-Learn how to add an  **Automation** object by using late binding at run time, and how to set a reference for early binding at design time.
+Learn how to add an **Automation** object by using late binding at run time, and how to set a reference for early binding at design time.
 
-
-
-
-You can use an OLE programmatic identifier (sometimes called a ProgID) to create an automation object for run time binding. For example, if both Project and Word are installed on the computer, the following macro in Project creates a Word document named Doc1.docx, and then opens the  **Save As** dialog box in Word.
-
+You can use an OLE programmatic identifier (sometimes called a ProgID) to create an automation object for run time binding. For example, if both Project and Word are installed on the computer, the following macro in Project creates a Word document named Doc1.docx, and then opens the **Save As** dialog box in Word.
 
 ```vb
 Sub CreateWordDoc_Late() 
@@ -29,13 +25,9 @@ Sub CreateWordDoc_Late()
 End Sub
 ```
 
+ **Note** Objects created by using the ProgID have late binding at run time; therefore, you cannot see the object members available when you are writing code in the VBE. Late-bound objects also have poorer performance than objects created with early binding at design time.
 
- **Note**  Objects created by using the ProgID have late binding at run time; therefore, you cannot see the object members available when you are writing code in the VBE. Late-bound objects also have poorer performance than objects created with early binding at design time. 
-
-The following macro performs better and does the same job as the  **CreateWordDoc_Late** macro. The **CreateWordDoc_Early** macro requires that you add a reference to the **Microsoft Word 15.0 Object Library**. In the  **Tools** menu, choose **References** to open the **References - VBA Project** dialog box.
-
-
-
+The following macro performs better and does the same job as the **CreateWordDoc_Late** macro. The **CreateWordDoc_Early** macro requires that you add a reference to the **Microsoft Word 15.0 Object Library**. In the **Tools** menu, choose **References** to open the **References - VBA Project** dialog box.
 
 ```vb
 Sub CreateWordDoc_Early() 
@@ -46,10 +38,7 @@ Sub CreateWordDoc_Early()
 End Sub
 ```
 
-Following is an example of using early binding to create an Excel worksheet. Set a reference to  **Microsoft Excel 15.0 Object Library**.
-
-
-
+Following is an example of using early binding to create an Excel worksheet. Set a reference to **Microsoft Excel 15.0 Object Library**.
 
 ```vb
 Sub CreateExcelWorkbook_Early()
@@ -74,12 +63,11 @@ For information about using Project from another application, late binding, and 
 
 The following tables list OLE programmatic identifiers for ActiveX controls and several Microsoft Office applications.
 
-
- **Note**  Instead of using the ProgId values for late binding, we recommend that you set a reference to the equivalent object library and use early binding.
+ **Note** Instead of using the ProgId values for late binding, we recommend that you set a reference to the equivalent object library and use early binding.
 
  **ActiveX Controls**
 
-To create the ActiveX controls listed in the following table, use the corresponding OLE programmatic identifier. When you insert a user form, Project sets a reference to  **Microsoft Forms 2.0 Object Library** for early binding.
+To create the ActiveX controls listed in the following table, use the corresponding OLE programmatic identifier. When you insert a user form, Project sets a reference to **Microsoft Forms 2.0 Object Library** for early binding.
 
 
 
@@ -102,7 +90,7 @@ To create the ActiveX controls listed in the following table, use the correspond
 
  **Microsoft Access**
 
-To create the Access objects listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Access that is available on the computer where the macro is running. For early binding, set a reference to  **Microsoft Access 15.0 Object Library**.
+To create the Access objects listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Access that is available on the computer where the macro is running. For early binding, set a reference to **Microsoft Access 15.0 Object Library**.
 
 
 
@@ -115,7 +103,7 @@ To create the Access objects listed in the following table, use one of the corre
 
  **Microsoft Excel**
 
-To create the Excel objects listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Excel that is available on the computer where the macro is running. For early binding, set a reference to  **Microsoft Excel 15.0 Object Library**.
+To create the Excel objects listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Excel that is available on the computer where the macro is running. For early binding, set a reference to **Microsoft Excel 15.0 Object Library**.
 
 
 
@@ -128,7 +116,7 @@ To create the Excel objects listed in the following table, use one of the corres
 
  **Graph**
 
-To create the Graph objects listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Graph that is available on the computer where the macro is running. For early binding, set a reference to  **Graph 15.0 Object Library**.
+To create the Graph objects listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Graph that is available on the computer where the macro is running. For early binding, set a reference to **Graph 15.0 Object Library**.
 
 
 
@@ -140,11 +128,11 @@ To create the Graph objects listed in the following table, use one of the corres
  **Microsoft Office Web Components**
 
 
- **Note**  The Microsoft Office Web Component (OWC) is deprecated and is not installed with Project.
+ **Note** The Microsoft Office Web Component (OWC) is deprecated and is not installed with Project.
 
  **Microsoft Outlook**
 
-To create the Microsoft Outlook object given in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Outlook that is available on the computer where the macro is running. For early binding, set a reference to  **Microsoft Outlook 15.0 Object Library**.
+To create the Microsoft Outlook object given in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Outlook that is available on the computer where the macro is running. For early binding, set a reference to **Microsoft Outlook 15.0 Object Library**.
 
 
 
@@ -154,7 +142,7 @@ To create the Microsoft Outlook object given in the following table, use one of 
 
  **Microsoft PowerPoint**
 
-To create the Microsoft PowerPoint object given in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of PowerPoint that is available on the computer where the macro is running. For early binding, set a reference to  **Microsoft PowerPoint 15.0 Object Library**.
+To create the Microsoft PowerPoint object given in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of PowerPoint that is available on the computer where the macro is running. For early binding, set a reference to **Microsoft PowerPoint 15.0 Object Library**.
 
 
 
@@ -164,7 +152,7 @@ To create the Microsoft PowerPoint object given in the following table, use one 
 
  **Microsoft Word**
 
-To create the Microsoft Word objects listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Word that is available on the computer where the macro is running. Word.Document.8 and Word.Document.12 both create a document in the default Open XML format (.docx). For early binding, set a reference to  **Microsoft Word 15.0 Object Library**.
+To create the Microsoft Word objects listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Word that is available on the computer where the macro is running. Word.Document.8 and Word.Document.12 both create a document in the default Open XML format (.docx). For early binding, set a reference to **Microsoft Word 15.0 Object Library**.
 
 
 

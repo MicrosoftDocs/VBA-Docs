@@ -19,7 +19,7 @@ Represents a view that displays data as a series of Electronic Business Card (EB
 
 ## Remarks
 
-The  **BusinessCardView** object, derived from the **[View](Outlook.View.md)** object, allows you to create customizable views that allow you to better sort, group and ultimately view contact items in Outlook as a series of Electronic Business Cards, each of which displays the contact information for an Outlook contact item based on the EBC design associated with the contact item.
+The **BusinessCardView** object, derived from the **[View](Outlook.View.md)** object, allows you to create customizable views that allow you to better sort, group and ultimately view contact items in Outlook as a series of Electronic Business Cards, each of which displays the contact information for an Outlook contact item based on the EBC design associated with the contact item.
 
 Use the  **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection to add a new **BusinessCardView** to a **[Folder](Outlook.Folder.md)** object.
 
@@ -28,7 +28,7 @@ Use the  **[Filter](Outlook.BusinessCardView.Filter.md)** property to determine 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example creates, saves, and applies a new  **BusinessCardView** object.
+The following Visual Basic for Applications (VBA) example creates, saves, and applies a new **BusinessCardView** object.
 
 
 ```vb

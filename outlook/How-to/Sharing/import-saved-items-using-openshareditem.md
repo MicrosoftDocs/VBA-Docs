@@ -2,14 +2,14 @@
 title: Import Saved Items using OpenSharedItem
 ms.prod: outlook
 ms.assetid: e3e770c4-a4fd-6484-dbee-0d5e5141d9f9
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Import Saved Items using OpenSharedItem
 
-Microsoft Outlook provides the  **[OpenSharedItem](../../../api/Outlook.NameSpace.OpenSharedItem.md)** method, for the **[NameSpace](../../../api/Outlook.NameSpace.md)** object, to open iCalendar appointment (.ics) files, vCard (.vcf) files, and Outlook message (.msg) files and return the Outlook item appropriate for the file. The type of object returned by this method depends on the type of shared item opened, as described in the following table.
+Microsoft Outlook provides the **[OpenSharedItem](../../../api/Outlook.NameSpace.OpenSharedItem.md)** method, for the **[NameSpace](../../../api/Outlook.NameSpace.md)** object, to open iCalendar appointment (.ics) files, vCard (.vcf) files, and Outlook message (.msg) files and return the Outlook item appropriate for the file. The type of object returned by this method depends on the type of shared item opened, as described in the following table.
 
 
 | **Shared item type**| **Outlook item**|
@@ -18,17 +18,15 @@ Microsoft Outlook provides the  **[OpenSharedItem](../../../api/Outlook.NameSpac
 |vCard (.vcf) file| **[ContactItem](../../../api/Outlook.ContactItem.md)**|
 |Outlook message (.msg) file|Type corresponds to the type of the item that was saved as the .msg file|
 
-Once the shared item is opened, you can then import the item by using the  **Save** method of the returned object to save it to the default folder appropriate to that Outlook item.
+Once the shared item is opened, you can then import the item by using the **Save** method of the returned object to save it to the default folder appropriate to that Outlook item.
 
-This sample opens and imports a vCard file into the  **Contacts** default folder for the current user.
+This sample opens and imports a vCard file into the **Contacts** default folder for the current user.
 
-1. The sample obtains a reference to a  **NameSpace** object, then calls the **GetSharedItem** method of the **NameSpace** object to load the vCard file and return a **ContactItem** reference.
-    
-2. It then calls the  **Save** method of the **ContactItem** to save it to the **Contacts** default folder.
-    
-3. Finally, it obtains a  **[Folder](../../../api/Outlook.Folder.md)** object reference to the **Contacts** default folder for the current user by using the **[GetDefaultFolder](../../../api/Outlook.NameSpace.GetDefaultFolder.md)** method of the **NameSpace** object, and then displays the folder.
-    
+1. The sample obtains a reference to a **NameSpace** object, then calls the **GetSharedItem** method of the **NameSpace** object to load the vCard file and return a **ContactItem** reference.
 
+2. It then calls the **Save** method of the **ContactItem** to save it to the **Contacts** default folder.
+
+3. Finally, it obtains a **[Folder](../../../api/Outlook.Folder.md)** object reference to the **Contacts** default folder for the current user by using the **[GetDefaultFolder](../../../api/Outlook.NameSpace.GetDefaultFolder.md)** method of the **NameSpace** object, and then displays the folder.
 
 
 ```vb

@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[MailMergeDataField](Word.M
 
 ## Remarks
 
-Use the  **[ActiveRecord](Word.MailMergeDataSource.ActiveRecord.md)** property to set the active record in a mail merge data source.
+Use the **[ActiveRecord](Word.MailMergeDataSource.ActiveRecord.md)** property to set the active record in a mail merge data source.
 
 
 ## Example

@@ -23,6 +23,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The  **DefaultWorkUnits** property can be one of the following **[PjUnit](Project.PjUnit.md)** constants: **pjMinute**, **pjHour**, **pjDay, pjWeek**, or **pjMonthUnit**.
+The **DefaultWorkUnits** property can be one of the following **[PjUnit](Project.PjUnit.md)** constants: **pjMinute**, **pjHour**, **pjDay, pjWeek**, or **pjMonthUnit**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

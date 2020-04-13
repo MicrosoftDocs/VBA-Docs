@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Project.Index property (Project)
 
-Gets the index of a  **Project** object in the containing **Projects** collection. Read-only **Variant**.
+Gets the index of a **Project** object in the containing **Projects** collection. Read-only **Variant**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Example
 
-If you put a Gantt chart in the same index of the  **Windows** collection for every open project, you can display a Gantt chart in one project and then use the **ActivateSameWindowInNextProject** macro to easily switch to the Gantt charts of the other open projects.
+If you put a Gantt chart in the same index of the **Windows** collection for every open project, you can display a Gantt chart in one project and then use the **ActivateSameWindowInNextProject** macro to easily switch to the Gantt charts of the other open projects.
 
 
 ```vb

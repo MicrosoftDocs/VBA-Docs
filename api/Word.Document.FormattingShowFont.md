@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Document](Word.Document.md)** objec
 
 ## Example
 
-This example enables display of font formatting in the  **Styles and Formatting** task pane.
+This example enables display of font formatting in the **Styles and Formatting** task pane.
 
 
 ```vb

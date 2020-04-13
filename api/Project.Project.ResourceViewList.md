@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Project.ResourceViewList property (Project)
 
-Gets a  **[List](Project.List.md)** object representing all resource views in the active project. Read-only **List**.
+Gets a **[List](Project.List.md)** object representing all resource views in the active project. Read-only **List**.
 
 
 ## Syntax

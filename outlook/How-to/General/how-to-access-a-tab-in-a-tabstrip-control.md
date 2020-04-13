@@ -5,27 +5,22 @@ f1_keywords:
 - olfm10.chm3077151
 ms.prod: outlook
 ms.assetid: 29aba68e-7123-2c41-795f-7bdba8d1b89f
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Access a Tab in a TabStrip Control
 
-The following example accesses an individual tab of a  **[TabStrip](../../../api/Outlook.tabstrip.md)** in several ways:
+The following example accesses an individual tab of a **[TabStrip](../../../api/Outlook.tabstrip.md)** in several ways:
 
+- Using the **[Tabs](../../../api/Outlook.tabs.md)** collection with a numeric index.
 
-- Using the  **[Tabs](../../../api/Outlook.tabs.md)** collection with a numeric index.
-    
-- Using the name of the individual  **[Tab](../../../api/Outlook.tab.md)**.
-    
-- Using the  **[SelectedItem](../../../api/Outlook.tabstrip.selecteditem.md)** property.
-    
+- Using the name of the individual **[Tab](../../../api/Outlook.tab.md)**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event of the item will activate. Make sure that the form contains a **TabStrip** named TabStrip1.
+- Using the **[SelectedItem](../../../api/Outlook.tabstrip.selecteditem.md)** property.
 
-
-
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event of the item will activate. Make sure that the form contains a **TabStrip** named TabStrip1.
 
 ```vb
 Sub Item_Open() 

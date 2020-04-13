@@ -12,7 +12,7 @@ localization_priority: Normal
 ## In this section
 
 
--  [Pages Object (Outlook Forms Script)](Outlook.pages(object).md)
+- [Pages Object (Outlook Forms Script)](Outlook.pages(object).md)
     
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

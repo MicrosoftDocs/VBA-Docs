@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkCheckBox.WordWrap property (Outlook)
 
-Returns or sets a  **Boolean** that specifies whether the contents of a control automatically wrap at the end of a line. Read/write.
+Returns or sets a **Boolean** that specifies whether the contents of a control automatically wrap at the end of a line. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkCheckBox](Outlook.OlkCheckBox.md)
 
 ## Remarks
 
-The default value is  **True**.
+The default value is **True**.
 
 
 ## See also

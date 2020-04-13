@@ -26,7 +26,7 @@ _expression_. `BuildingBlockType`
 
 ## Remarks
 
-This property applies only to building block content controls and corresponds with the  **Gallery** option in the **Content Control Properties** dialog box. You can set this property only for the following building block types:
+This property applies only to building block content controls and corresponds with the **Gallery** option in the **Content Control Properties** dialog box. You can set this property only for the following building block types:
 
 
 - Custom 1 through Custom 5

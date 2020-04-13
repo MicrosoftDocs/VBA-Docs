@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Paragraphs](Word.paragraphs.md)' col
 
 ## Remarks
 
-Use the  **[LineNumbering](Word.PageSetup.LineNumbering.md)** property of the **[PageSetup](Word.PageSetup.md)** object to set line numbers.
+Use the **[LineNumbering](Word.PageSetup.LineNumbering.md)** property of the **[PageSetup](Word.PageSetup.md)** object to set line numbers.
 
 
 ## Example

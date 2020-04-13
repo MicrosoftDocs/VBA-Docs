@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTextBox.MultiLine property (Outlook)
 
-Returns or sets a  **Boolean** that specifies whether a control can accept and display multiple lines of text. Read/write.
+Returns or sets a **Boolean** that specifies whether a control can accept and display multiple lines of text. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) o
 
 ## Remarks
 
-The default value is  **False**.
+The default value is **False**.
 
 
 ## See also

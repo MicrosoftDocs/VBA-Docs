@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEFormat.IconIndex property (Word)
 
-Returns or sets the icon that is used when the  **[DisplayAsIcon](Word.OLEFormat.DisplayAsIcon.md)** property is **True**. Read/write **Long**.
+Returns or sets the icon that is used when the **[DisplayAsIcon](Word.OLEFormat.DisplayAsIcon.md)** property is **True**. Read/write **Long**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Designs.Clone method (PowerPoint)
 
-Creates a copy of a  **[Design](PowerPoint.Design.md)** object.
+Creates a copy of a **[Design](PowerPoint.Design.md)** object.
 
 
 ## Syntax

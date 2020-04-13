@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ViewsCombination.Add method (Project)
 
-Adds a  **ViewCombination** object to a **ViewsCombination** collection.
+Adds a **ViewCombination** object to a **ViewsCombination** collection.
 
 
 ## Syntax

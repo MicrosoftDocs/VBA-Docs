@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents an '[Endnotes](Word.endnotes.m
 
 ## Remarks
 
-To convert a range of endnotes to footnotes, use the  **[Convert](Word.Endnotes.Convert.md)** method.
+To convert a range of endnotes to footnotes, use the **[Convert](Word.Endnotes.Convert.md)** method.
 
 
 ## Example

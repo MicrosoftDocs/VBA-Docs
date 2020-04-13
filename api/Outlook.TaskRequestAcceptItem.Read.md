@@ -23,7 +23,7 @@ _expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRe
 
 ## Remarks
 
-The  **Read** event differs from the **[Open](Outlook.TaskRequestAcceptItem.Open.md)** event in that **Read** occurs whenever the user selects the item in a view that supports in-cell editing as well as when the item is being opened in an **[Inspector](Outlook.Inspector.md)**.
+The **Read** event differs from the **[Open](Outlook.TaskRequestAcceptItem.Open.md)** event in that **Read** occurs whenever the user selects the item in a view that supports in-cell editing as well as when the item is being opened in an **[Inspector](Outlook.Inspector.md)**.
 
 
 ## See also

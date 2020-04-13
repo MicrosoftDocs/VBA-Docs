@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # SeriesCollection object (Word)
 
-Represents a collection of all the  **[Series](Word.Series.md)** objects in the specified chart or chart group.
+Represents a collection of all the **[Series](Word.Series.md)** objects in the specified chart or chart group.
 
 
 ## Remarks
 
-Use the  **[SeriesCollection](Word.Chart.SeriesCollection.md)** method to return the **SeriesCollection** collection.
+Use the **[SeriesCollection](Word.Chart.SeriesCollection.md)** method to return the **SeriesCollection** collection.
 
 
 ## Example
@@ -35,7 +35,7 @@ With ActiveDocument.InlineShapes(1)
 End With
 ```
 
-Use the  **[Add](Word.SeriesCollection.Add.md)** method to create a new series and add it to the chart. The following example adds the data from cells D1:D5 in the chart's worksheet as a new series to the chart.
+Use the **[Add](Word.SeriesCollection.Add.md)** method to create a new series and add it to the chart. The following example adds the data from cells D1:D5 in the chart's worksheet as a new series to the chart.
 
 
 

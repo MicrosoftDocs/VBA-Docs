@@ -5,28 +5,28 @@ f1_keywords:
 - olfm10.chm3077246
 ms.prod: outlook
 ms.assetid: abaeceb2-d8fd-92a5-8d54-eab94d9de394
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Set the Style of Tabs for a MultiPage and a TabStrip Control
 
-The following example uses the  **Style** property to specify the appearance of the tabs in **[MultiPage](../../../api/Outlook.multipage.md)** and **[TabStrip](../../../api/Outlook.tabstrip.md)**. This example also demonstrates using a  **[Label](../../../api/Outlook.label.md)**. The user chooses a style by selecting an  **[OptionButton](../../../api/Outlook.optionbutton.md)**.
+The following example uses the **Style** property to specify the appearance of the tabs in **[MultiPage](../../../api/Outlook.multipage.md)** and **[TabStrip](../../../api/Outlook.tabstrip.md)**. This example also demonstrates using a **[Label](../../../api/Outlook.label.md)**. The user chooses a style by selecting an **[OptionButton](../../../api/Outlook.optionbutton.md)**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **Label** named Label1.
+- A **Label** named Label1.
     
-- Three  **OptionButton** controls named OptionButton1 through OptionButton3.
+- Three **OptionButton** controls named OptionButton1 through OptionButton3.
     
-- A  **MultiPage** named MultiPage1.
+- A **MultiPage** named MultiPage1.
     
-- A  **TabStrip** named TabStrip1.
+- A **TabStrip** named TabStrip1.
     
-- Any control inside the  **TabStrip**.
+- Any control inside the **TabStrip**.
     
-- Any control in each page of the  **MultiPage**.
+- Any control in each page of the **MultiPage**.
     
 
 

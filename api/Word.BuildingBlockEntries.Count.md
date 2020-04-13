@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BuildingBlockEntries.Count property (Word)
 
-Returns the number of items in the  **BuildingBlockEntries** collection. Read-only **Long**.
+Returns the number of items in the **BuildingBlockEntries** collection. Read-only **Long**.
 
 
 ## Syntax

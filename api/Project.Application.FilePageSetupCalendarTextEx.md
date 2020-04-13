@@ -31,7 +31,7 @@ _expression_. `FilePageSetupCalendarTextEx`( `_Name_`, `_Item_`, `_Font_`, `_Siz
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the calendar to edit.|
-| _Item_|Optional|**Long**|The text item to format. Can be one of the  **[PjPageSetupCalendarItem](Project.PjPageSetupCalendarItem.md)** constants.|
+| _Item_|Optional|**Long**|The text item to format. Can be one of the **[PjPageSetupCalendarItem](Project.PjPageSetupCalendarItem.md)** constants.|
 | _Font_|Optional|**String**|The name of the font.|
 | _Size_|Optional|**Integer**|The size of the font in points|
 | _Bold_|Optional|**Boolean**|**True** if the font is bold; otherwise, **False**.|
@@ -46,7 +46,7 @@ _expression_. `FilePageSetupCalendarTextEx`( `_Name_`, `_Item_`, `_Font_`, `_Siz
 
 ## Remarks
 
-Using the  **FilePageSetupCalendarTextEx** method without any arguments displays the **Text Styles** dialog box.
+Using the **FilePageSetupCalendarTextEx** method without any arguments displays the **Text Styles** dialog box.
 
 
 > [!NOTE] 

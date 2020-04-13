@@ -16,7 +16,7 @@ An illegal [parameter](../../Glossary/vbe-glossary.md#parameter) was passed to t
 
 
 
-- In the  **WriteProperties** event of your User Control, you tried to do a **PropBag.WriteProperty** X, where X is an [array](../../Glossary/vbe-glossary.md#array). This isn't supported.
+- In the **WriteProperties** event of your User Control, you tried to do a **PropBag.WriteProperty** X, where X is an [array](../../Glossary/vbe-glossary.md#array). This isn't supported.
     
     You must write out each element of the array individually.
 

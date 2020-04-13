@@ -2,7 +2,7 @@
 title: Filtering a Custom Field
 ms.prod: outlook
 ms.assetid: 36c0e15a-775d-5ce3-8e61-2a6bd305a746
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -30,19 +30,19 @@ When you construct a DASL query for a custom property, you must use the namespac
 
  **https://schemas.microsoft.com/mapi/string/{GUID}/PropertyName**
 
-where  **{GUID}** is the following GUID:
+where **{GUID}** is the following GUID:
 
  **{00020329-0000-0000-C000-000000000046}**
 
 
 ## Filtering Custom Properties Referenced by the MAPI String Namespace
 
-If the custom property you are filtering for does not exist in the  **[UserDefinedProperties](../../../api/Outlook.UserDefinedProperties.md)** collection for the folder, and if you are referencing the custom property by the MAPI string namespace, then you must explicitly append a type specifier to the namespace representation of the custom property. Note that you need to specify the type only when applying a DASL filter to search and filter entry points in the **[Items](../../../api/Outlook.Items.md)** collection and the **[Table](../../../api/Outlook.Table.md)** object, and to the **[Application.AdvancedSearch](../../../api/Outlook.Application.AdvancedSearch.md)** method.
+If the custom property you are filtering for does not exist in the **[UserDefinedProperties](../../../api/Outlook.UserDefinedProperties.md)** collection for the folder, and if you are referencing the custom property by the MAPI string namespace, then you must explicitly append a type specifier to the namespace representation of the custom property. Note that you need to specify the type only when applying a DASL filter to search and filter entry points in the **[Items](../../../api/Outlook.Items.md)** collection and the **[Table](../../../api/Outlook.Table.md)** object, and to the **[Application.AdvancedSearch](../../../api/Outlook.Application.AdvancedSearch.md)** method.
 
 
- **Note**  The hexagonal type specifier must be of the form 0000HHHH with only 8 digits as opposed to 9. For more information on the hexagonal type specifiers (HHHH) for various MAPI types, see  [Property Types](../../../api/overview/Outlook.md).
+ **Note** The hexagonal type specifier must be of the form 0000HHHH with only 8 digits as opposed to 9. For more information on the hexagonal type specifiers (HHHH) for various MAPI types, see [Property Types](../../../api/overview/Outlook.md).
 
-For example, if you want to use  **[Items.Restrict](../../../api/Outlook.Items.Restrict.md)** to search for the custom Unicode string property named "MyProperty" and this property does not exist in the **UserDefinedProperties** collection for the folder, you must append the Unicode string type specifier, 0000001f, to the representation of the property in the MAPI string namespace:
+For example, if you want to use **[Items.Restrict](../../../api/Outlook.Items.Restrict.md)** to search for the custom Unicode string property named "MyProperty" and this property does not exist in the **UserDefinedProperties** collection for the folder, you must append the Unicode string type specifier, 0000001f, to the representation of the property in the MAPI string namespace:
 
 
 

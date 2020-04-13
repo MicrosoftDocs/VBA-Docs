@@ -5,7 +5,7 @@ f1_keywords:
 - jeterr40.chm5003028
 ms.prod: access
 ms.assetid: 213c8493-3578-9e2e-e8b7-384132af9d19
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-To ensure referential integrity in databases created by the Microsoft Access database engine, your application must read the database's System.mdw file. Make sure the file is in the location specified in the  **SystemDB** value in the Windows Registry.
+To ensure referential integrity in databases created by the Microsoft Access database engine, your application must read the database's System.mdw file. Make sure the file is in the location specified in the **SystemDB** value in the Windows Registry.
 
 ## See also
 

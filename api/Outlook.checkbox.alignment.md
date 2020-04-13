@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # CheckBox.Alignment Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that indicates the position of a control relative to its caption. Read/write.
+Returns or sets an **Integer** that indicates the position of a control relative to its caption. Read/write.
 
 
 ## Syntax
 
 _expression_.**Alignment**
 
-_expression_ A variable that represents a  **CheckBox** object.
+_expression_ A variable that represents a **CheckBox** object.
 
 
 ## Remarks

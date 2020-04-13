@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Assignment.Baseline7BudgetCost property (Project)
 
-Gets or sets the baseline7 budget cost for an  **Assignment**. Read/write **Variant**.
+Gets or sets the baseline7 budget cost for an **Assignment**. Read/write **Variant**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RecurrencePattern.DayOfWeekMask property (Outlook)
 
-Returns or sets an  **[OlDaysOfWeek](Outlook.OlDaysOfWeek.md)** constant representing the mask for the days of the week on which the recurring appointment or task occurs. Read/write.
+Returns or sets an **[OlDaysOfWeek](Outlook.OlDaysOfWeek.md)** constant representing the mask for the days of the week on which the recurring appointment or task occurs. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [RecurrencePattern](Outlook.Recurrence
 
 ## Remarks
 
-The  **DayOfWeekMask** should be set after the **[RecurrenceType](Outlook.RecurrencePattern.RecurrenceType.md)** property has been set and before the **[PatternEndDate](Outlook.RecurrencePattern.PatternEndDate.md)** and **[PatternStartDate](Outlook.RecurrencePattern.PatternStartDate.md)** properties are set.
+The **DayOfWeekMask** should be set after the **[RecurrenceType](Outlook.RecurrencePattern.RecurrenceType.md)** property has been set and before the **[PatternEndDate](Outlook.RecurrencePattern.PatternEndDate.md)** and **[PatternStartDate](Outlook.RecurrencePattern.PatternStartDate.md)** properties are set.
 
 Monthly and yearly patterns are only valid for a single day. Weekly patterns are only valid as the  **Or** of the **DayOfWeekMask**.
 

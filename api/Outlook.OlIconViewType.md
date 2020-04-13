@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlIconViewType enumeration (Outlook)
 
-Indicates the view mode when using an  **[IconView](Outlook.IconView.md)** object.
+Indicates the view mode when using an **[IconView](Outlook.IconView.md)** object.
 
 
 

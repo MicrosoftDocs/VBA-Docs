@@ -5,14 +5,14 @@ f1_keywords:
 - olfm10.chm3077112
 ms.prod: outlook
 ms.assetid: 3e7e5c7d-d0f8-36f4-c126-9f4ef73057a3
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Creating a New Item
 
-To create a new item, use the  **[CreateItem](../../../api/Outlook.Application.CreateItem.md)** method of the **[Application](../../../api/Outlook.Application.md)** object. This method returns an object that you can then use to work with the item.
+To create a new item, use the **[CreateItem](../../../api/Outlook.Application.CreateItem.md)** method of the **[Application](../../../api/Outlook.Application.md)** object. This method returns an object that you can then use to work with the item.
 
 The following Microsoft Visual Basic for Applications example shows how to create a mail message, add text to its subject and body, and display it. To use this sample, create a command button named Command1 on a form.
 

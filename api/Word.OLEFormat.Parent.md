@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEFormat.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **OLEFormat** object.
+Returns an **Object** that represents the parent object of the specified **OLEFormat** object.
 
 
 ## Syntax

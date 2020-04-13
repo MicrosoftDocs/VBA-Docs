@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableView.MultiLine property (Outlook)
 
-Returns or sets an  **[OlMultiLine](Outlook.OlMultiLine.md)** constant that determines how multiple lines are displayed in the **[TableView](Outlook.TableView.md)** object. Read/write.
+Returns or sets an **[OlMultiLine](Outlook.OlMultiLine.md)** constant that determines how multiple lines are displayed in the **[TableView](Outlook.TableView.md)** object. Read/write.
 
 
 ## Syntax

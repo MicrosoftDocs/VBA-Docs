@@ -23,7 +23,7 @@ _expression_ A variable that represents a '[TextColumn](Word.TextColumn.md)' obj
 
 ## Example
 
-This example formats the section that includes the selection as three columns. The  **For Each** loop is used to display the width of each column in the **TextColumns** collection.
+This example formats the section that includes the selection as three columns. The **For Each** loop is used to display the width of each column in the **TextColumns** collection.
 
 
 ```vb

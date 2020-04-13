@@ -16,7 +16,7 @@ Represents a collection of building block categories.
 
 ## Remarks
 
-Use the  **Item** method to access an existing category. You can then use the **[BuildingBlocks](Word.Category.BuildingBlocks.md)** property to access a collection of **[BuildingBlock](Word.BuildingBlock.md)** objects for the category. The following example prints the type and category names of all the building blocks in the first template to the **Immediate Window**. (This example assumes that the **Immediate Window** is visible.)
+Use the **Item** method to access an existing category. You can then use the **[BuildingBlocks](Word.Category.BuildingBlocks.md)** property to access a collection of **[BuildingBlock](Word.BuildingBlock.md)** objects for the category. The following example prints the type and category names of all the building blocks in the first template to the **Immediate Window**. (This example assumes that the **Immediate Window** is visible.)
 
 
 ```vb
@@ -40,7 +40,7 @@ For intCount = 1 To objTemplate.BuildingBlockTypes.Count
 Next
 ```
 
-Use the  **Item** method to access an existing category; to create a new category, use the **Add** method of the **BuildingBlockEntries** collection. Set the value of the Category parameter.
+Use the **Item** method to access an existing category; to create a new category, use the **Add** method of the **BuildingBlockEntries** collection. Set the value of the Category parameter.
 
 For more information about building blocks, see [Working with Building Blocks](../word/Concepts/Working-with-Word/working-with-building-blocks.md).
 

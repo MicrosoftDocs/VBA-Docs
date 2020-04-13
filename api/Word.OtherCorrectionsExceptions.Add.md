@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OtherCorrectionsExceptions.Add method (Word)
 
-Returns an  **OtherCorrectionsException** object that represents a new exception added to the list of AutoCorrect exceptions.
+Returns an **OtherCorrectionsException** object that represents a new exception added to the list of AutoCorrect exceptions.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ OtherCorrectionsException
 
 ## Remarks
 
-If the  **OtherCorrectionsAutoAdd** property is **True**, words are automatically added to the list of other corrections exceptions.
+If the **OtherCorrectionsAutoAdd** property is **True**, words are automatically added to the list of other corrections exceptions.
 
 
 ## Example

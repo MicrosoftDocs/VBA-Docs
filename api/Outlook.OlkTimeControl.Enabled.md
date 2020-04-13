@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTimeControl.Enabled property (Outlook)
 
-Returns or sets a  **Boolean** that indicates if the control is allowed to function. Read/write.
+Returns or sets a **Boolean** that indicates if the control is allowed to function. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkTimeControl](Outlook.OlkTimeContr
 
 ## Remarks
 
-The default value is  **True**.
+The default value is **True**.
 
 
 ## See also

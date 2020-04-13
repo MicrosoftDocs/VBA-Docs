@@ -7,15 +7,14 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.Slides.AddSlide
 ms.assetid: e8981122-325b-f1c3-c8d5-8e44427961ce
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Slides.AddSlide method (PowerPoint)
 
-Creates a new slide, adds it to the  **[Slides](PowerPoint.Slides.md)** collection, and returns the slide.
-
+Creates a new slide, adds it to the **[Slides](PowerPoint.Slides.md)** collection, and returns the slide.
 
 ## Syntax
 
@@ -23,9 +22,7 @@ _expression_. `AddSlide`( `_Index_`, `_pCustomLayout_` )
 
  _expression_ An expression that returns a [Slides](PowerPoint.Slides.md) object.
 
-
 ## Parameters
-
 
 
 |Name|Required/Optional|Data type|Description|
@@ -37,11 +34,9 @@ _expression_. `AddSlide`( `_Index_`, `_pCustomLayout_` )
 
 Slide
 
-
 ## Example
 
-The following example shows how to use the  **Add** method to add a new slide to the **Slides** collection. It adds a new slide in index position 2 that has the same layout as the first slide in the active presentation.
-
+The following example shows how to use the **Add** method to add a new slide to the **Slides** collection. It adds a new slide in index position 2 that has the same layout as the first slide in the active presentation.
 
 ```vb
 Public Sub Add_Example() 
@@ -58,12 +53,12 @@ End Sub
 
 ## Remarks
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this method maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.PowerPoint** reference, this method maps to the following types:
 
 
--  **Microsoft.Office.Interop.PowerPoint.Slides.Add(int, Microsoft.Office.Interop.PowerPoint.PpSlideLayout)**
+- **Microsoft.Office.Interop.PowerPoint.Slides.Add(int, Microsoft.Office.Interop.PowerPoint.PpSlideLayout)**
     
--  **Microsoft.Office.Interop.PowerPoint.Slides.AddSlide(int, Microsoft.Office.Interop.PowerPoint.CustomLayout)**
+- **Microsoft.Office.Interop.PowerPoint.Slides.AddSlide(int, Microsoft.Office.Interop.PowerPoint.CustomLayout)**
     
 
 ## See also

@@ -30,8 +30,8 @@ _expression_. `InsertAlignmentTab`( `_Alignment_` , `_RelativeTo_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Alignment_|Required| **Long**|Indicates the type of alignment&mdash;left, center, or right&mdash;for the tab stop. Can be one of the  **[WdAlignmentTabAlignment](Word.WdAlignmentTabAlignment.md)** constants.|
-| _RelativeTo_|Optional| **Long**|Indicates whether the tab stop is relative to the margins or to the paragraph indents. Can be one of the  **[WdAlignmentTabRelative](Word.WdAlignmentTabRelative.md)** constants.|
+| _Alignment_|Required| **Long**|Indicates the type of alignment&mdash;left, center, or right&mdash;for the tab stop. Can be one of the **[WdAlignmentTabAlignment](Word.WdAlignmentTabAlignment.md)** constants.|
+| _RelativeTo_|Optional| **Long**|Indicates whether the tab stop is relative to the margins or to the paragraph indents. Can be one of the **[WdAlignmentTabRelative](Word.WdAlignmentTabRelative.md)** constants.|
 
 ## Example
 

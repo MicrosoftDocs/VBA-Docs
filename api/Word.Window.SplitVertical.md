@@ -26,7 +26,7 @@ _expression_.**SplitVertical**
 
 ## Remarks
 
-To remove the split, set this property to zero (0) or set the  **[Split](Word.Window.Split.md)** property to **False**.
+To remove the split, set this property to zero (0) or set the **[Split](Word.Window.Split.md)** property to **False**.
 
 
 ## Example

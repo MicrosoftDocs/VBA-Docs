@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # OptionButton.Alignment Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that indicates the position of a control relative to its caption. Read/write.
+Returns or sets an **Integer** that indicates the position of a control relative to its caption. Read/write.
 
 
 ## Syntax
 
 _expression_.**Alignment**
 
-_expression_ A variable that represents an  **OptionButton** object.
+_expression_ A variable that represents an **OptionButton** object.
 
 
 ## Remarks

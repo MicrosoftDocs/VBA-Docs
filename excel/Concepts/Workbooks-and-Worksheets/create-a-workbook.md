@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Create a Workbook
 
-To create a workbook in Visual Basic, use the  **[Add](../../../api/Excel.Workbooks.Add.md)** method. The following procedure creates a workbook. Microsoft Excel automatically names the workbook Book _N_, where  _N_ is the next available number. The new workbook becomes the active workbook.
+To create a workbook in Visual Basic, use the **[Add](../../../api/Excel.Workbooks.Add.md)** method. The following procedure creates a workbook. Microsoft Excel automatically names the workbook Book _N_, where  _N_ is the next available number. The new workbook becomes the active workbook.
 
 
 ```vb
@@ -22,7 +22,7 @@ End Sub
 ```
 
 
-A better way to create a workbook is to assign it to an object variable. In the following example, the  **[Workbook](../../../api/Excel.Workbook.md)** object returned by the  **Add** method is assigned to an object variable, `newBook`. Next, several properties of  `newBook` are set. You can easily control the new workbook by using the object variable.
+A better way to create a workbook is to assign it to an object variable. In the following example, the **[Workbook](../../../api/Excel.Workbook.md)** object returned by the **Add** method is assigned to an object variable, `newBook`. Next, several properties of  `newBook` are set. You can easily control the new workbook by using the object variable.
 
 
 

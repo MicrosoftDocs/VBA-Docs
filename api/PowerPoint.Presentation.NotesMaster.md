@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Presentation.NotesMaster property (PowerPoint)
 
-Returns a  **[Master](PowerPoint.Master.md)** object that represents the notes master. Read-only.
+Returns a **[Master](PowerPoint.Master.md)** object that represents the notes master. Read-only.
 
 
 ## Syntax

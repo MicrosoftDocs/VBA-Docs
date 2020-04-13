@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Application.GetDpiScaleFactor method (Project)
 
-Indicates the  **DPI Scale Factor**, used for optimizing scale settings. Introduced in Office 2016.
+Indicates the **DPI Scale Factor**, used for optimizing scale settings. Introduced in Office 2016.
 
 
 ## Syntax

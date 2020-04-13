@@ -44,7 +44,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-To set a task field by ID, use the  **[SetTaskFieldByID](Project.Application.SetTaskFieldByID.md)** method.
+To set a task field by ID, use the **[SetTaskFieldByID](Project.Application.SetTaskFieldByID.md)** method.
 
 
 ## Example

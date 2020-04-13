@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimelineView.LowerScaleFont property (Outlook)
 
-Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font used to display the lower portion of the timeline scale for a **[TimelineView](Outlook.TimelineView.md)** object. Read-only.
+Returns a **[ViewFont](Outlook.ViewFont.md)** object that represents the font used to display the lower portion of the timeline scale for a **[TimelineView](Outlook.TimelineView.md)** object. Read-only.
 
 
 ## Syntax

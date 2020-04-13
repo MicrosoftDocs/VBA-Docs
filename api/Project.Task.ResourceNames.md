@@ -26,6 +26,6 @@ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 ## Remarks
 
-For a task with more than one resource, the  **ResourceNames** property returns the names of the resources, separated by the list separator character. For example, the **ResourceNames** property returns "Tamara,Tanya" if the list separator character is the comma (,) and the task has two resources named Tamara and Tanya. Project uses the list separator specified in the **Regional and Language Options** dialog box of the Windows Control Panel.
+For a task with more than one resource, the **ResourceNames** property returns the names of the resources, separated by the list separator character. For example, the **ResourceNames** property returns "Tamara,Tanya" if the list separator character is the comma (,) and the task has two resources named Tamara and Tanya. Project uses the list separator specified in the **Regional and Language Options** dialog box of the Windows Control Panel.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

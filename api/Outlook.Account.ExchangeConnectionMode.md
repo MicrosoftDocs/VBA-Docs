@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Account.ExchangeConnectionMode property (Outlook)
 
-Returns an  **[OlExchangeConnectionMode](Outlook.OlExchangeConnectionMode.md)** constant that indicates the current connection mode for the Microsoft Exchange Server that hosts the account mailbox. Read-only
+Returns an **[OlExchangeConnectionMode](Outlook.OlExchangeConnectionMode.md)** constant that indicates the current connection mode for the Microsoft Exchange Server that hosts the account mailbox. Read-only
 
 
 ## Syntax

@@ -54,8 +54,8 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-If an argument is omitted, its default value is specified by the setting on the  **Schedule** tab of the **Project Options** dialog box.
+If an argument is omitted, its default value is specified by the setting on the **Schedule** tab of the **Project Options** dialog box.
 
-Using the  **OptionsCalculation** method without specifying any arguments displays the **Project Options** dialog box with the **General** tab selected.
+Using the **OptionsCalculation** method without specifying any arguments displays the **Project Options** dialog box with the **General** tab selected.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

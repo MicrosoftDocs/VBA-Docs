@@ -11,7 +11,7 @@ localization_priority: Normal
 
 
 # Chart.Legend property (Project)
-Gets an  **Office.IMsoLegend** object that represents the legend for a chart. Read-only **IMsoLegend**.
+Gets an **Office.IMsoLegend** object that represents the legend for a chart. Read-only **IMsoLegend**.
 
 ## Syntax
 

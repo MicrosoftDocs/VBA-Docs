@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # TextRange2.Find method (PowerPoint)
 
-Searches a  **TextRange2** object for a subset of text.
+Searches a **TextRange2** object for a subset of text.
 
 
 ## Syntax

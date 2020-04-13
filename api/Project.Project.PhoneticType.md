@@ -26,6 +26,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The  **PhoneticType** property can be one of the following **[PjPhoneticType](Project.PjPhoneticType.md)** constants: **pjKatakanaHalf**, **pjKatakana**, or **pjHiragana**. The **PhoneticType** property produces tangible results only if the Japanese version of Project is used.
+The **PhoneticType** property can be one of the following **[PjPhoneticType](Project.PjPhoneticType.md)** constants: **pjKatakanaHalf**, **pjKatakana**, or **pjHiragana**. The **PhoneticType** property produces tangible results only if the Japanese version of Project is used.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -5,7 +5,7 @@ f1_keywords:
 - olfm10.chm3077111
 ms.prod: outlook
 ms.assetid: cfe2d03e-68ff-e16a-5daf-5eb8bdef17e2
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -17,9 +17,6 @@ In some cases you may need to change the form associated with items that are alr
 The Message Class field cannot be directly changed using the Outlook user interface, but you can use VBScript, Visual Basic, or Visual Basic for Applications to change the Message Class field.
 
 The following Automation code can be used as a basis for developing your own solution. This code assumes that the name of the new form is MyForm. It will change all contacts in your default contacts folder so that they will use MyForm.
-
-
-
 
 ```vb
 Sub ChangeMessageClass() 
@@ -37,7 +34,6 @@ Next
 End Sub
 ```
 
-
- **Note**  If you want to use a folder other than a default folder, use the  **[Folders](../../../api/Outlook.Folders.md)** collection object to refer to any folder that is available in your Folder List.
+ **Note** If you want to use a folder other than a default folder, use the **[Folders](../../../api/Outlook.Folders.md)** collection object to refer to any folder that is available in your Folder List.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

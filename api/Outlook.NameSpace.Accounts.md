@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.Accounts property (Outlook)
 
-Returns an  **[Accounts](Outlook.Accounts.md)** collection object that represents all the **[Account](Outlook.Account.md)** objects in the current profile. Read-only.
+Returns an **[Accounts](Outlook.Accounts.md)** collection object that represents all the **[Account](Outlook.Account.md)** objects in the current profile. Read-only.
 
 
 ## Syntax

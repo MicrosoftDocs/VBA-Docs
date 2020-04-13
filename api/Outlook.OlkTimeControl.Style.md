@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTimeControl.Style property (Outlook)
 
-Returns or sets an  **[OlTimeStyle](Outlook.OlTimeStyle.md)** constant that specifies the style of the time control. Read/write.
+Returns or sets an **[OlTimeStyle](Outlook.OlTimeStyle.md)** constant that specifies the style of the time control. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkTimeControl](Outlook.OlkTimeContr
 
 ## Remarks
 
-The default value is  **olTimeStyleTimeOnly**.
+The default value is **olTimeStyleTimeOnly**.
 
 
 ## See also

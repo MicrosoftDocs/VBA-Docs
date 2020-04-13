@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **UsableWidth** property equals the total amount of horizontal space inside the main window minus the space taken up by scroll bars.
+The **UsableWidth** property equals the total amount of horizontal space inside the main window minus the space taken up by scroll bars.
 
 
 ## Example

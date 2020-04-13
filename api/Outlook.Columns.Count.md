@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Columns.Count property (Outlook)
 
-Returns a  **Long** representing the number of **[Column](Outlook.Column.md)** objects in the collection. Read-only.
+Returns a **Long** representing the number of **[Column](Outlook.Column.md)** objects in the collection. Read-only.
 
 
 ## Syntax

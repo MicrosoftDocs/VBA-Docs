@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SelectNamesDialog.ForceResolution property (Outlook)
 
-Returns or sets a  **Boolean** that determines if Outlook must resolve all recipients in the object specified by **[SelectNamesDialog.Recipients](Outlook.SelectNamesDialog.Recipients.md)** before the user can click **OK** to accept the typed or selected recipients in the **Select Names** dialog box. Read/write.
+Returns or sets a **Boolean** that determines if Outlook must resolve all recipients in the object specified by **[SelectNamesDialog.Recipients](Outlook.SelectNamesDialog.Recipients.md)** before the user can click **OK** to accept the typed or selected recipients in the **Select Names** dialog box. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectName
 
 ## Remarks
 
-The default value is  **True**. If a recipient cannot be resolved, Outlook will prompt the user to resolve the ambiguous names. The user must have all recipients in the recipient edit box resolved before being able to click **OK**.
+The default value is **True**. If a recipient cannot be resolved, Outlook will prompt the user to resolve the ambiguous names. The user must have all recipients in the recipient edit box resolved before being able to click **OK**.
 
  **ForceResolution** is ignored if the user clicks **Cancel** or the Close icon.
 

@@ -26,12 +26,12 @@ _expression_ A variable that represents a [Resource](./Project.Resource.md) obje
 
 ## Remarks
 
-The  **AccrueAt** property can be one of the **[PjAccrueAt](Project.PjAccrueAt.md)** constants.
+The **AccrueAt** property can be one of the **[PjAccrueAt](Project.PjAccrueAt.md)** constants.
 
 
 ## Example
 
-The following example sets the  **AccrueAt** property to **pjProrated** for each resource in the active project.
+The following example sets the **AccrueAt** property to **pjProrated** for each resource in the active project.
 
 
 ```vb

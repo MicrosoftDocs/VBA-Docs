@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TabStop object (PowerPoint)
 
-Represents a single tab stop. The  **TabStop** object is a member of the **[TabStops](PowerPoint.TabStops.md)** collection. The **TabStops** collection represents all the tab stops on one ruler.
+Represents a single tab stop. The **TabStop** object is a member of the **[TabStops](PowerPoint.TabStops.md)** collection. The **TabStops** collection represents all the tab stops on one ruler.
 
 
 ## Example

@@ -16,6 +16,6 @@ Returns or sets a **String** value that represents the name of the view in the c
 
 _expression_.**View**
 
-_expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a **ViewCtl** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

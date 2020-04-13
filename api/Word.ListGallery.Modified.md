@@ -26,12 +26,12 @@ _expression_. `Modified` (_Index_)
 
 ## Remarks
 
-Use the  **[Reset](Word.ListGallery.Reset.md)** method to set a list template in a list gallery back to the built-in list template.
+Use the **[Reset](Word.ListGallery.Reset.md)** method to set a list template in a list gallery back to the built-in list template.
 
 
 ## Example
 
-This example checks to see whether the first template on the  **Bulleted** tab in the **Bullets and Numbering** dialog box has been changed. If it has, the list template is reset.
+This example checks to see whether the first template on the **Bulleted** tab in the **Bullets and Numbering** dialog box has been changed. If it has, the list template is reset.
 
 
 ```vb

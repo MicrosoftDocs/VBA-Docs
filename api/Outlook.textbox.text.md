@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # TextBox.Text Property (Outlook Forms Script)
 
-Returns or sets a  **String** that specifies text in the control. Read/write.
+Returns or sets a **String** that specifies text in the control. Read/write.
 
 
 ## Syntax
 
 _expression_.**Text**
 
-_expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a **TextBox** object.
 
 
 ## Remarks
@@ -25,6 +25,6 @@ The default value is a zero-length string ("").
 
 Any value you assign to the  **Text** property is also assigned to the **[Value](Outlook.textbox.value.md)** property.
 
-The  **[ForeColor](Outlook.textbox.forecolor.md)** property determines the color of the text.
+The **[ForeColor](Outlook.textbox.forecolor.md)** property determines the color of the text.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

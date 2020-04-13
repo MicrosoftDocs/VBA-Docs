@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # JournalItem.DocRouted property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the journalized item was routed as part of the journalized session. Read/write.
+Returns a **Boolean** value that indicates whether the journalized item was routed as part of the journalized session. Read/write.
 
 
 ## Syntax

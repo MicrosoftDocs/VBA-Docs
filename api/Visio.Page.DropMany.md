@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Page.DropMany method (Visio)
 
-Creates one or more new  **Shape** objects on a page. It returns an array of the IDs of the **Shape** objects it produces.
+Creates one or more new **Shape** objects on a page. It returns an array of the IDs of the **Shape** objects it produces.
 
 
 ## Syntax
@@ -66,7 +66,7 @@ The  _xyArray()_ argument should be a one-dimensional array of 2 _m_ doubles wit
 
 Note that  _m_ > _n_ is allowed. For _n_ < _i_ <= _m_ , the _i_ 'th thing instanced is the same thing as the _n_ 'th thing instanced. Thus to make _m_ >= 1 instances of the same thing, you can pass an _ObjectsToInstance()_ array with one entry and an _m_ entry _xyArray()_ array.
 
-If the entity being instanced is a master, the pin of the new  **Shape** object is positioned at the given _xy_. Otherwise, the center of the **Shape** objects is positioned at the given _xy_.
+If the entity being instanced is a master, the pin of the new **Shape** object is positioned at the given _xy_. Otherwise, the center of the **Shape** objects is positioned at the given _xy_.
 
 The value returned by the  **DropMany** method is the number of _xy_ entries in _xyArray()_ that the **DropMany** method successfully processed. If all entries were processed successfully, _m_ is returned. If some entries are successfully processed prior to an error occurring, the produced **Shape** objects are not deleted and this raises an exception but still returns a positive value.
 

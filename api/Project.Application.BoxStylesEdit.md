@@ -30,15 +30,15 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Style_|Required|**Long**|The box style to change. Can be one of the  **[PjBoxStyle](Project.PjBoxStyle.md)** constants.|
+| _Style_|Required|**Long**|The box style to change. Can be one of the **[PjBoxStyle](Project.PjBoxStyle.md)** constants.|
 | _DataTemplate_|Optional|**String**|The name of the data template to use for the style.|
 | _HorizontalGridlines_|Optional|**Boolean**|**True** if horizontal gridlines separate each row in the box; otherwise, **False**.|
 | _VerticalGridlines_|Optional|**Boolean**|**True** if vertical gridlines separate each row in the box; otherwise, **False**.|
-| _BorderShape_|Optional|**Long**|The shape of the box border. Can be one of the  **[PjBoxShape](Project.PjBoxShape.md)** constants.|
-| _BorderColor_|Optional|**Long**|The color of the box border. Can be one of the  **[PjColor](Project.PjColor.md)** constants.|
+| _BorderShape_|Optional|**Long**|The shape of the box border. Can be one of the **[PjBoxShape](Project.PjBoxShape.md)** constants.|
+| _BorderColor_|Optional|**Long**|The color of the box border. Can be one of the **[PjColor](Project.PjColor.md)** constants.|
 | _BorderWidth_|Optional|**Long**|A value from 1 through 4 that specifies the width of the box border, in pixels.|
-| _BackgroundColor_|Optional|**Long**|The color of the box background. Can be one of the  **[PjColor](Project.PjColor.md)** constants.|
-| _BackgroundPattern_|Optional|**Long**|The pattern for the background. Can be one of the  **[PjBackgroundPattern](Project.PjBackgroundPattern.md)** constants.|
+| _BackgroundColor_|Optional|**Long**|The color of the box background. Can be one of the **[PjColor](Project.PjColor.md)** constants.|
+| _BackgroundPattern_|Optional|**Long**|The pattern for the background. Can be one of the **[PjBackgroundPattern](Project.PjBackgroundPattern.md)** constants.|
 
 ## Return value
 
@@ -47,14 +47,14 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-To display the  **Box Styles** dialog box, use the **[BarBoxStyles](Project.Application.BarBoxStyles.md)** method.
+To display the **Box Styles** dialog box, use the **[BarBoxStyles](Project.Application.BarBoxStyles.md)** method.
 
-To edit box link lines where the colors can be RGB values, use the  **[BoxStylesEditEx](Project.Application.BoxStylesEditEx.md)** method.
+To edit box link lines where the colors can be RGB values, use the **[BoxStylesEditEx](Project.Application.BoxStylesEditEx.md)** method.
 
 
 ## Example
 
-The following example changes boxes with the  **pjBoxCritical** style to be shown as rounded rectangles, adds vertical gridlines, and sets the border and background colors.
+The following example changes boxes with the **pjBoxCritical** style to be shown as rounded rectangles, adds vertical gridlines, and sets the border and background colors.
 
 
 ```vb

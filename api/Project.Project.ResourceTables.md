@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Project.ResourceTables property (Project)
 
-Gets a  **[Tables](Project.tables.md)** collection that contains the resource tables of the project. Read-only **Tables**.
+Gets a **[Tables](Project.tables.md)** collection that contains the resource tables of the project. Read-only **Tables**.
 
 
 ## Syntax

@@ -26,14 +26,14 @@ _expression_. `OtherCorrectionsExceptions`
 
 ## Remarks
 
-This list that this property returns corresponds to the list of AutoCorrect exceptions on the  **Other Corrections** tab in the **AutoCorrect Exceptions** dialog box.
+This list that this property returns corresponds to the list of AutoCorrect exceptions on the **Other Corrections** tab in the **AutoCorrect Exceptions** dialog box.
 
 For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 
 
 ## Example
 
-This example prompts the user to delete or keep each AutoCorrect exception on the  **Other Corrections** tab in the **AutoCorrect Exceptions** dialog box.
+This example prompts the user to delete or keep each AutoCorrect exception on the **Other Corrections** tab in the **AutoCorrect Exceptions** dialog box.
 
 
 ```vb

@@ -14,7 +14,7 @@ A collection of  **List** objects that represent all the lists in the specified 
 
 ## Remarks
 
-Use the  **Lists** property to return the **Lists** collection. The following example displays the number of items in each list in the active document.
+Use the **Lists** property to return the **Lists** collection. The following example displays the number of items in each list in the active document.
 
 
 ```vb
@@ -23,7 +23,7 @@ For Each li In ActiveDocument.Lists
 Next li
 ```
 
-Use  **Lists** (Index), where Index is the index number, to return a single **[List](Word.List.md)** object. The following example applies the first list format (excluding **None**) on the  **Numbered** tab in the **Bullets and Numbering** dialog box to the second list in the active document.
+Use  **Lists** (Index), where Index is the index number, to return a single **[List](Word.List.md)** object. The following example applies the first list format (excluding **None**) on the **Numbered** tab in the **Bullets and Numbering** dialog box to the second list in the active document.
 
 
 
@@ -44,13 +44,13 @@ For Each li In ActiveDocument.Lists
 Next li
 ```
 
-To add a new list to a document, use the  **ApplyListTemplate** method with the **[ListFormat](Word.ListFormat.md)** object for a specified range.
+To add a new list to a document, use the **ApplyListTemplate** method with the **[ListFormat](Word.ListFormat.md)** object for a specified range.
 
 You can manipulate the individual  **[List](Word.List.md)** objects within a document, but for more precise control you should work with the **ListFormat** object.
 
 
 > [!NOTE] 
-> Picture-bulleted lists are not included in the  **Lists** collection.
+> Picture-bulleted lists are not included in the **Lists** collection.
 
 
 ## Methods

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # StyleSheet.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **StyleSheet** object.
+Returns an **Object** that represents the parent object of the specified **StyleSheet** object.
 
 
 ## Syntax

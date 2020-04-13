@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Group.Name property (Project)
 
-Gets the name of a  **Group** object. Read/write **String**.
+Gets the name of a **Group** object. Read/write **String**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ _expression_ A variable that represents a [Group](./Project.Group.md) object.
 
  **Name** is the default property of the **Group** object.
 
-For a code example that uses the  **Task** object, see **[Name](Project.Task.Name.md)**.
+For a code example that uses the **Task** object, see **[Name](Project.Task.Name.md)**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

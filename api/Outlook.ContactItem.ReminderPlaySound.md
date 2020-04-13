@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.ReminderPlaySound property (Outlook)
 
-Returns or sets a  **Boolean** value that is **True** if the reminder should play a sound when it occurs for this item. Read/write.
+Returns or sets a **Boolean** value that is **True** if the reminder should play a sound when it occurs for this item. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) 
 
 ## Remarks
 
-The  **ReminderPlaySound** property must be set in order to validate the **[ReminderSoundFile](Outlook.ContactItem.ReminderSoundFile.md)** property.
+The **ReminderPlaySound** property must be set in order to validate the **[ReminderSoundFile](Outlook.ContactItem.ReminderSoundFile.md)** property.
 
 
 ## See also

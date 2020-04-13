@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskItem.StartDate property (Outlook)
 
-Returns or sets a  **Date** indicating the start date for the task. Read/write.
+Returns or sets a **Date** indicating the start date for the task. Read/write.
 
 
 ## Syntax

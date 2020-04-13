@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkCheckBox.BackStyle property (Outlook)
 
-Returns or sets an  **[olBackStyle](Outlook.OlBackStyle.md)** constant that changes the background style of the control between transparent and opaque. Read/write.
+Returns or sets an **[olBackStyle](Outlook.OlBackStyle.md)** constant that changes the background style of the control between transparent and opaque. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkCheckBox](Outlook.OlkCheckBox.md)
 
 ## Remarks
 
-The default value is  **olBackStyleOpaque**.
+The default value is **olBackStyleOpaque**.
 
 
 ## See also

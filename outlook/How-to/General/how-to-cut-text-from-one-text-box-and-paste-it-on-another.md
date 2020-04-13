@@ -5,23 +5,20 @@ f1_keywords:
 - olfm10.chm3077171
 ms.prod: outlook
 ms.assetid: 33339831-9567-6910-f596-6a9a398886e8
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Cut Text from One Text Box and Paste it on Another
 
-The following example uses the  **[Cut](../../../api/Outlook.textbox.cut.md)** and **[Paste](../../../api/Outlook.textbox.paste.md)** methods to cut text from one **[TextBox](../../../api/Outlook.textbox.md)** and paste it on another **TextBox**.
+The following example uses the **[Cut](../../../api/Outlook.textbox.cut.md)** and **[Paste](../../../api/Outlook.textbox.paste.md)** methods to cut text from one **[TextBox](../../../api/Outlook.textbox.md)** and paste it on another **TextBox**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- Two  **TextBox** controls named TextBox1 and TextBox2.
-    
-- A  **[CommandButton](../../../api/Outlook.commandbutton.md)** named CommandButton1.
-    
+- Two **TextBox** controls named TextBox1 and TextBox2.
 
-
+- A **[CommandButton](../../../api/Outlook.commandbutton.md)** named CommandButton1.
 
 ```vb
 Dim TextBox1 

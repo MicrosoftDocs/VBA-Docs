@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # KeyBindings.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **KeyBindings** object.
+Returns an **Object** that represents the parent object of the specified **KeyBindings** object.
 
 
 ## Syntax

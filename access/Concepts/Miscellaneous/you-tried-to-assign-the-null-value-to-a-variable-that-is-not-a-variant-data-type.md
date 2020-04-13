@@ -16,7 +16,7 @@ localization_priority: Priority
 
 **Applies to:** Access 2013 | Access 2016
 
-You tried to assign a  **Null** value to a variable that is not a **Variant** data type. Use the **Dim** statement to declare the variable as a **Variant**, and then try the operation again.
+You tried to assign a **Null** value to a variable that is not a **Variant** data type. Use the **Dim** statement to declare the variable as a **Variant**, and then try the operation again.
 
 ## See also
 

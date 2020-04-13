@@ -5,7 +5,7 @@ f1_keywords:
 - jeterr40.chm5003414
 ms.prod: access
 ms.assetid: 238227df-7dd2-6a72-7c3d-8b76a5bc7834
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -18,7 +18,7 @@ localization_priority: Normal
 
 You are trying to save a value to a primary key field that is included in a relationship.
 
-In Microsoft Access, the  **Cascade Update Related Fields** option is selected for the relationship, or in DAO code, the **dbRelationUpdateCascade** option is specified for the **Relation** object's **Attributes** property. Therefore, your application is attempting to update the matching field in the related table.
+In Microsoft Access, the **Cascade Update Related Fields** option is selected for the relationship, or in DAO code, the **dbRelationUpdateCascade** option is specified for the **Relation** object's **Attributes** property. Therefore, your application is attempting to update the matching field in the related table.
 The matching field cannot be updated because you have it open or locked on your computer. To save the record, you must first close the related table.
 
 

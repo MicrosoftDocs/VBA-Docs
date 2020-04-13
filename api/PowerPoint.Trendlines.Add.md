@@ -28,23 +28,23 @@ _expression_ A variable that represents a '[Trendlines](PowerPoint.Trendlines.md
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional|**[XlTrendlineType](PowerPoint.XlTrendlineType.md)**|One of the enumeration values that specifies the trendline type. The default is  **xlLinear**.|
+| _Type_|Optional|**[XlTrendlineType](PowerPoint.XlTrendlineType.md)**|One of the enumeration values that specifies the trendline type. The default is **xlLinear**.|
 | _Order_|Optional|**Variant**|The trendline order. Required ifType is set to  **xlPolynomial**. If specified, the value must be an integer from 2 through 6.|
 | _Period_|Optional|**Variant**|The trendline period. Required ifType is set to  **xlMovingAvg**. If specified, the value must be an integer greater than 1 and less than the number of data points in the series to which you are adding a trendline.|
 | _Forward_|Optional|**Variant**|The number of periods (or units on a scatter chart) that the trendline extends forward.|
 | _Backward_|Optional|**Variant**|The number of periods (or units on a scatter chart) that the trendline extends backward.|
-| _Intercept_|Optional|**Variant**|The trendline intercept. If specified, the value must be a double-precision floating-point number. If omitted, the intercept is automatically set by the regression, and the  **[InterceptIsAuto](PowerPoint.Trendline.InterceptIsAuto.md)** property of the resulting **[Trendline](PowerPoint.Trendline.md)** object is set to **True**.
+| _Intercept_|Optional|**Variant**|The trendline intercept. If specified, the value must be a double-precision floating-point number. If omitted, the intercept is automatically set by the regression, and the **[InterceptIsAuto](PowerPoint.Trendline.InterceptIsAuto.md)** property of the resulting **[Trendline](PowerPoint.Trendline.md)** object is set to **True**.
 > [!NOTE] 
 > This parameter is applicable only ifType is set to  **xlExponential**, **xlLinear**, or **xlPolynomial**.
 
 |
 | _DisplayEquation_|Optional|**Variant**|**True** to display the equation of the trendline on the chart (in the same data label as the R-squared value). The default is **False**.|
 | _DisplayRSquared_|Optional|**Variant**|**True** to display the R-squared value of the trendline on the chart (in the same data label as the equation). The default is **False**.|
-| _Name_|Optional|**Variant**|The name of the trendline. If omitted, Microsoft Word generates a name, and the  **[NameIsAuto](PowerPoint.Trendline.NameIsAuto.md)** property of the resulting **[Trendline](PowerPoint.Trendline.md)** object is set to **True**.|
+| _Name_|Optional|**Variant**|The name of the trendline. If omitted, Microsoft Word generates a name, and the **[NameIsAuto](PowerPoint.Trendline.NameIsAuto.md)** property of the resulting **[Trendline](PowerPoint.Trendline.md)** object is set to **True**.|
 
 ## Return value
 
-A  **[Trendline](PowerPoint.Trendline.md)** object that represents the new trendline.
+A **[Trendline](PowerPoint.Trendline.md)** object that represents the new trendline.
 
 
 ## Example

@@ -34,7 +34,7 @@ _expression_ A variable that represents a [PropertyAccessor](Outlook.PropertyAcc
 
 ## Remarks
 
-The caller must have the permission to delete properties. The  **DeleteProperty** method deletes only custom properties; it does not delete any Outlook built-in property or any MAPI property. It does not delete custom properties of the **[DocumentItem](Outlook.DocumentItem.md)** object.
+The caller must have the permission to delete properties. The **DeleteProperty** method deletes only custom properties; it does not delete any Outlook built-in property or any MAPI property. It does not delete custom properties of the **[DocumentItem](Outlook.DocumentItem.md)** object.
 
 
 ## See also

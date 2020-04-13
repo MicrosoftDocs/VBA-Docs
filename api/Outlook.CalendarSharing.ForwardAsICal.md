@@ -34,15 +34,15 @@ _expression_. `ForwardAsICal`( `_MailFormat_` )
 
 ## Return value
 
-A  **MailItem** object that represents the new mail item to which the calendar information is attached.
+A **MailItem** object that represents the new mail item to which the calendar information is attached.
 
 
 ## Remarks
 
-The  **ForwardAsICal** method provides a single method by which you can use payload sharing to share a calendar with other users. The method:
+The **ForwardAsICal** method provides a single method by which you can use payload sharing to share a calendar with other users. The method:
 
 
-- Creates a  **MailItem** object and provides a presentation of calendar information in the body of the mail item.
+- Creates a **MailItem** object and provides a presentation of calendar information in the body of the mail item.
     
 - Creates an iCalendar (.ics) file containing the calendar information and attaches the file to the  **MailItem**.
     

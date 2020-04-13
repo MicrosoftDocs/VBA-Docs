@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.Baseline8BudgetCost property (Project)
 
-Gets or sets the baseline8 budget cost for a  **Resource**. Read/write **Variant**.
+Gets or sets the baseline8 budget cost for a **Resource**. Read/write **Variant**.
 
 
 ## Syntax

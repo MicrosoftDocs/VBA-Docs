@@ -5,7 +5,7 @@ f1_keywords:
 - jeterr40.chm5003015
 ms.prod: access
 ms.assetid: 2e014141-0136-b54a-5d86-ba2b202c3c5e
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You tried to use a value that is not an index. You can determine the valid index names by looking in the  **Indexes** collection of the **TableDef** object.
+You tried to use a value that is not an index. You can determine the valid index names by looking in the **Indexes** collection of the **TableDef** object.
 
 ## See also
 

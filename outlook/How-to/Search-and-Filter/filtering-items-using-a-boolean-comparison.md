@@ -2,7 +2,7 @@
 title: Filtering Items Using a Boolean Comparison
 ms.prod: outlook
 ms.assetid: bd786159-f4eb-e649-e838-56d520b824cf
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -22,7 +22,7 @@ criteria = "[UnRead] = True"
 ```
 
 
- **Note**  If you convert the boolean value to a comparison string by enclosing it in quotation marks, then a Jet filter using any non-empty comparison string and filtering on a boolean property will return items that have the property True. A Jet filter comparing an empty string with a boolean property will return items that have the property False. 
+ **Note** If you convert the boolean value to a comparison string by enclosing it in quotation marks, then a Jet filter using any non-empty comparison string and filtering on a boolean property will return items that have the property True. A Jet filter comparing an empty string with a boolean property will return items that have the property False. 
 
 
 ## DASL Queries

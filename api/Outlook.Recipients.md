@@ -28,7 +28,7 @@ Use  **Recipients** (_index_), where _index_ is the name or index number, to ret
 
 ## Example
 
-The following example creates a new  **MailItem** object and adds Jon Grande as the recipient using the default type ("To").
+The following example creates a new **MailItem** object and adds Jon Grande as the recipient using the default type ("To").
 
 
 ```vb

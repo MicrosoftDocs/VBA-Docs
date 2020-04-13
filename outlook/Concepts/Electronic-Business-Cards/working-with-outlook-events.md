@@ -5,7 +5,7 @@ f1_keywords:
 - vbaol11.chm5267482
 ms.prod: outlook
 ms.assetid: 514f8f31-8047-2a9f-cbac-d0a23218f49c
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -24,11 +24,9 @@ Item-level events pertain to a particular item, and are typically handled by VBS
 
 Application-level events are typically handled by Visual Basic or Visual Basic for Applications because they pertain to more than the items associated with a particular form. Application-level events can pertain to the application itself, to explorer collections and windows (including the Shortcuts pane), inspector collections and windows, folders and folders collections, items collections, and synchronization objects.
 
-
 ## Responding to Events
 
 To respond to item-level events, add event-handler procedures to the script of the form that displays the item. For example, to run code when an item is opened in the form, add a procedure like the following to the script in the form.
-
 
 ```vb
 Function Item_Open() 
@@ -36,8 +34,7 @@ Function Item_Open()
 End Function
 ```
 
-Responding to application-level events is somewhat more involved because steps must be taken to associate the event handler with the part of Outlook in which the event is occurring. Learn about  [writing an application-level event handler](using-events-with-automation.md).
-
+Responding to application-level events is somewhat more involved because steps must be taken to associate the event handler with the part of Outlook in which the event is occurring. Learn about [writing an application-level event handler](using-events-with-automation.md).
 
 ## Order of Events
 

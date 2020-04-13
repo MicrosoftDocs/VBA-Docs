@@ -26,9 +26,9 @@ _expression_. `MatchWildcards`
 
 ## Remarks
 
-The  **MatchWildcards** property corresponds to the **Use wildcards** check box in the **Find and Replace** dialog box (**Edit** menu).
+The **MatchWildcards** property corresponds to the **Use wildcards** check box in the **Find and Replace** dialog box (**Edit** menu).
 
-Use the  **[Text](Word.Find.Text.md)** property of the **Find** object or use the FindText argument with the **[Execute](Word.Find.Execute.md)** method to specify the text to be located in a document.
+Use the **[Text](Word.Find.Text.md)** property of the **Find** object or use the FindText argument with the **[Execute](Word.Find.Execute.md)** method to specify the text to be located in a document.
 
 
 ## Example

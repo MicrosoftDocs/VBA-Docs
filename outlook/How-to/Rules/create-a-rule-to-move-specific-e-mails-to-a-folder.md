@@ -2,30 +2,30 @@
 title: Create a Rule to Move Specific Emails to a Folder
 ms.prod: outlook
 ms.assetid: e72fa307-8224-c2d2-1318-a18cd8e9f22f
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Create a Rule to Move Specific Emails to a Folder
 
-This topic shows a code sample in Visual Basic for Applications (VBA) that uses the  **Rules** object model to create a rule. The code sample uses the **[RuleAction](../../../api/Outlook.RuleAction.md)** and **[RuleCondition](../../../api/Outlook.RuleCondition.md)** objects to specify a rule that moves messages from a specific sender to a specific folder, unless the message contains certain terms in the subject. Note that the code sample assumes that there already exists a folder named "Dan" under the Inbox.
+This topic shows a code sample in Visual Basic for Applications (VBA) that uses the **Rules** object model to create a rule. The code sample uses the **[RuleAction](../../../api/Outlook.RuleAction.md)** and **[RuleCondition](../../../api/Outlook.RuleCondition.md)** objects to specify a rule that moves messages from a specific sender to a specific folder, unless the message contains certain terms in the subject. Note that the code sample assumes that there already exists a folder named "Dan" under the Inbox.
 
 The following describes the steps used to create the rule:
 
 1. Specify the target folder  `oMoveTarget` to move specific messages as determined by the condition and exception condition. The target folder is a subfolder named "Dan" under the Inbox, and is assumed to already exist.
     
-2. Use  **[Store.GetRules](../../../api/Outlook.Store.GetRules.md)** to obtain a set of all the rules in the current session.
+2. Use **[Store.GetRules](../../../api/Outlook.Store.GetRules.md)** to obtain a set of all the rules in the current session.
     
-3. Using the  **[Rules](../../../api/Outlook.Rules.md)** collection returned from the last step, use **[Rules.Create](../../../api/Outlook.Rules.Create.md)** to add a new rule. The new rule specifies some action upon receiving a message, so it is of type **olRuleReceive**.
+3. Using the **[Rules](../../../api/Outlook.Rules.md)** collection returned from the last step, use **[Rules.Create](../../../api/Outlook.Rules.Create.md)** to add a new rule. The new rule specifies some action upon receiving a message, so it is of type **olRuleReceive**.
     
-4. Using the  **[Rule](../../../api/Outlook.Rule.md)** object returned from the last step, use the **[RuleConditions.From](../../../api/Outlook.RuleConditions.From.md)** property to obtain a **[ToOrFromRuleCondition](../../../api/Outlook.ToOrFromRuleCondition.md)** object, `oFromCondition`.  `oFromCondition` specifies the condition for the rule: when a message is from `Dan Wilson`. 
+4. Using the **[Rule](../../../api/Outlook.Rule.md)** object returned from the last step, use the **[RuleConditions.From](../../../api/Outlook.RuleConditions.From.md)** property to obtain a **[ToOrFromRuleCondition](../../../api/Outlook.ToOrFromRuleCondition.md)** object, `oFromCondition`.  `oFromCondition` specifies the condition for the rule: when a message is from `Dan Wilson`. 
     
-5. Using the same  **Rule** object, use the **[RuleActions.MoveToFolder](../../../api/Outlook.RuleActions.MoveToFolder.md)** property to obtain a **[MoveOrCopyRuleAction](../../../api/Outlook.MoveOrCopyRuleAction.md)** object, `oMoveRuleAction`.  `oMoveRuleAction` specifies the action for the rule: move the message to the target folder "Dan".
+5. Using the same **Rule** object, use the **[RuleActions.MoveToFolder](../../../api/Outlook.RuleActions.MoveToFolder.md)** property to obtain a **[MoveOrCopyRuleAction](../../../api/Outlook.MoveOrCopyRuleAction.md)** object, `oMoveRuleAction`.  `oMoveRuleAction` specifies the action for the rule: move the message to the target folder "Dan".
     
-6. Using the same  **Rule** object, use the **[RuleConditions.Subject](../../../api/Outlook.RuleConditions.Subject.md)** property to obtain a **[TextRuleCondition](../../../api/Outlook.TextRuleCondition.md)** object, `oExceptSubject`.  `oExceptSubject` specifies the exception condition: if the subject contains the terms "fun" or "chat", then do not apply the rule to move the message to the folder "Dan".
+6. Using the same **Rule** object, use the **[RuleConditions.Subject](../../../api/Outlook.RuleConditions.Subject.md)** property to obtain a **[TextRuleCondition](../../../api/Outlook.TextRuleCondition.md)** object, `oExceptSubject`.  `oExceptSubject` specifies the exception condition: if the subject contains the terms "fun" or "chat", then do not apply the rule to move the message to the folder "Dan".
     
-7. Use  **[Rules.Save](../../../api/Outlook.Rules.Save.md)** to save the new rule together with the rest of the rules for the current store.
+7. Use **[Rules.Save](../../../api/Outlook.Rules.Save.md)** to save the new rule together with the rest of the rules for the current store.
     
 
 

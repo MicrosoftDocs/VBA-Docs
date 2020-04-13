@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailModule.NavigationGroups property (Outlook)
 
-Returns a  **[NavigationGroups](Outlook.NavigationGroups.md)** object that contains the set of navigation groups associated with the **[MailModule](Outlook.MailModule.md)** object. Read-only.
+Returns a **[NavigationGroups](Outlook.NavigationGroups.md)** object that contains the set of navigation groups associated with the **[MailModule](Outlook.MailModule.md)** object. Read-only.
 
 
 ## Syntax

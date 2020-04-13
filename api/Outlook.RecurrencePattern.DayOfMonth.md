@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RecurrencePattern.DayOfMonth property (Outlook)
 
-Returns or sets a  **Long** indicating the day of the month on which the recurring appointment or task occurs. Read/write.
+Returns or sets a **Long** indicating the day of the month on which the recurring appointment or task occurs. Read/write.
 
 
 ## Syntax

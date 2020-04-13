@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** objec
 
 ## Remarks
 
-A chart title is represented by a  **[ChartTitle](PowerPoint.ChartTitle.md)** object.
+A chart title is represented by a **[ChartTitle](PowerPoint.ChartTitle.md)** object.
 
 
 ## See also

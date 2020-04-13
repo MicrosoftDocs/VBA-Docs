@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # ListBox.ListStyle Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the visual appearance of the list in a **[ListBox](Outlook.listbox.md)**. Read/write.
+Returns or sets an **Integer** that specifies the visual appearance of the list in a **[ListBox](Outlook.listbox.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**ListStyle**
 
-_expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a **ListBox** object.
 
 
 ## Remarks
@@ -30,7 +30,7 @@ The settings for  **ListStyle** are:
 |0|Looks like a regular list box, with the background of items highlighted.|
 |1|Shows option buttons, or check boxes for a multi-select list (default). When the user selects an item from the group, the option button associated with that item is selected and the option buttons for the other items in the group are deselected.|
 
-The  **ListStyle** property lets you change the visual presentation of a **ListBox**. By specifying a setting other than 0, you can present the contents of either control as a group of individual items, with each item including a visual cue to indicate whether it is selected.
+The **ListStyle** property lets you change the visual presentation of a **ListBox**. By specifying a setting other than 0, you can present the contents of either control as a group of individual items, with each item including a visual cue to indicate whether it is selected.
 
 If the list box supports a single selection (the  **[MultiSelect](Outlook.listbox.multiselect.md)** property is set to 0), the user can press one button in the group. If the control supports multi-select, the user can press two or more buttons in the group.
 

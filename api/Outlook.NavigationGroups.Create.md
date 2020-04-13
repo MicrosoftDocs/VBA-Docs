@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationGroups.Create method (Outlook)
 
-Creates and returns a new  **[NavigationGroup](Outlook.NavigationGroup.md)** object, added to the end of the **[NavigationGroups](Outlook.NavigationGroups.md)** collection.
+Creates and returns a new **[NavigationGroup](Outlook.NavigationGroup.md)** object, added to the end of the **[NavigationGroups](Outlook.NavigationGroups.md)** collection.
 
 
 ## Syntax
@@ -34,14 +34,14 @@ _expression_ A variable that represents a [NavigationGroups](Outlook.NavigationG
 
 ## Return value
 
-A  **NavigationGroup** object that represents the new navigation group.
+A **NavigationGroup** object that represents the new navigation group.
 
 
 ## Remarks
 
-A  **NavigationGroups** collection can contain multiple **NavigationGroup** objects with the same **Name** property values.
+A **NavigationGroups** collection can contain multiple **NavigationGroup** objects with the same **Name** property values.
 
-An error occurs if an add-in attempts to add more than 50 navigation groups to a  **NavigationGroups** collection, or if an add-in attempts to add a **NavigationGroup** object to the **NavigationGroups** collection of a **[MailModule](Outlook.MailModule.md)** object.
+An error occurs if an add-in attempts to add more than 50 navigation groups to a **NavigationGroups** collection, or if an add-in attempts to add a **NavigationGroup** object to the **NavigationGroups** collection of a **[MailModule](Outlook.MailModule.md)** object.
 
 
 ## See also

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleConditions.Item method (Outlook)
 
-Obtains a  **[RuleCondition](Outlook.RuleCondition.md)** object specified by _Index_ which is a numerical index into the **[RuleConditions](Outlook.RuleConditions.md)** collection.
+Obtains a **[RuleCondition](Outlook.RuleCondition.md)** object specified by _Index_ which is a numerical index into the **[RuleConditions](Outlook.RuleConditions.md)** collection.
 
 
 ## Syntax
@@ -34,12 +34,12 @@ _expression_ A variable that represents a [RuleConditions](Outlook.RuleCondition
 
 ## Return value
 
-A  **RuleCondition** object that represents the specified object.
+A **RuleCondition** object that represents the specified object.
 
 
 ## Remarks
 
-The  **RuleConditions** collection object is a fixed collection. It contains **RuleCondition** objects or objects derived from **RuleCondition**. You cannot add or remove items from this collection, but you can index into the collection to enumerate the rule condition items, and set the **[Enabled](Outlook.RuleCondition.Enabled.md)** property of the rule condition. When using **Item** to enumerate the collection, you can enumerate _Index_ from 1 to **[Count](Outlook.RuleConditions.Count.md)**.
+The **RuleConditions** collection object is a fixed collection. It contains **RuleCondition** objects or objects derived from **RuleCondition**. You cannot add or remove items from this collection, but you can index into the collection to enumerate the rule condition items, and set the **[Enabled](Outlook.RuleCondition.Enabled.md)** property of the rule condition. When using **Item** to enumerate the collection, you can enumerate _Index_ from 1 to **[Count](Outlook.RuleConditions.Count.md)**.
 
 
 ## See also

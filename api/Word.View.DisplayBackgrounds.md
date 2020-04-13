@@ -26,7 +26,7 @@ _expression_. `DisplayBackgrounds`
 
 ## Remarks
 
-Corresponds to the  **Background colors and images (Print view only)** option located on the **View** tab of the **Options** dialog box.
+Corresponds to the **Background colors and images (Print view only)** option located on the **View** tab of the **Options** dialog box.
 
 
 ## Example

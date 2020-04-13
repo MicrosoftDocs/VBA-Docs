@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkComboBox.SelStart property (Outlook)
 
-Returns or sets a  **Long** that specifies either the starting point of the selected text or the insertion point if no text has been selected. Read/write.
+Returns or sets a **Long** that specifies either the starting point of the selected text or the insertion point if no text has been selected. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ The current selection is specified by  **[SelText](Outlook.OlkComboBox.SelText.m
 
 The default value is zero, which means no text is selected and the insertion point is at the beginning.
 
-The  **SelStart** property is always valid, even when the control does not have focus. Setting **SelStart** to a value less than zero causes an error. Setting **SelStart** to a value greater than **MaxLength** will reset **SelStart** to **MaxLength**. Changing the value of **SelStart** cancels any existing selection, places the insertion point in the text, and sets the **SelLength** property to zero.
+The **SelStart** property is always valid, even when the control does not have focus. Setting **SelStart** to a value less than zero causes an error. Setting **SelStart** to a value greater than **MaxLength** will reset **SelStart** to **MaxLength**. Changing the value of **SelStart** cancels any existing selection, places the insertion point in the text, and sets the **SelLength** property to zero.
 
 
 ## See also

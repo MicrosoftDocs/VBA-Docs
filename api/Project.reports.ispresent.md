@@ -34,7 +34,7 @@ _expression_ A variable that represents a 'Reports' object.
 
 ## Example
 
-The following example uses the  **IsPresent** method to determine whether a report exists and can be displayed.
+The following example uses the **IsPresent** method to determine whether a report exists and can be displayed.
 
 
 ```vb

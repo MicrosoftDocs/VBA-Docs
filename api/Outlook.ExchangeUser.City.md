@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeUser.City property (Outlook)
 
-Returns a  **String** representing the city for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
+Returns a **String** representing the city for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 
 
 ## Syntax

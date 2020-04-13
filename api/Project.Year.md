@@ -14,13 +14,13 @@ localization_priority: Normal
 
 # Year object (Project)
 
-Represents a year in a project calendar. The  **Year** object is a member of the **[Years](Project.years.md)** collection.
+Represents a year in a project calendar. The **Year** object is a member of the **[Years](Project.years.md)** collection.
  
 
 
 ## Remarks
 
-The  **Years** collection in Project begins in 1984 and ends in 2149. In previous versions of Project, scheduling can run from 1984 to 2049.
+The **Years** collection in Project begins in 1984 and ends in 2149. In previous versions of Project, scheduling can run from 1984 to 2049.
  
 
  
@@ -64,7 +64,7 @@ Next r
  
 
  
-Use the  **[Years](Project.Calendar.Years.md)** property to return a **Years** collection. The following example lists all the years in the calendar of the active project.
+Use the **[Years](Project.Calendar.Years.md)** property to return a **Years** collection. The following example lists all the years in the calendar of the active project.
  
 
  
@@ -85,7 +85,7 @@ Sub CountYears()
 End Sub
 ```
 
-Figure 1 shows the results of the  **CountYears** macro.
+Figure 1 shows the results of the **CountYears** macro.
  
 
  

@@ -23,6 +23,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Project sets the  **DayLeadingZero** property equal to the corresponding value in the **Regional and Language Options** dialog box of the Microsoft Windows Control Panel.
+Project sets the **DayLeadingZero** property equal to the corresponding value in the **Regional and Language Options** dialog box of the Microsoft Windows Control Panel.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

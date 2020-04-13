@@ -5,7 +5,7 @@ f1_keywords:
 - jeterr40.chm5003226
 ms.prod: access
 ms.assetid: 8e74089b-bfc2-1d44-6ad7-900c97eae0aa
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-A  **Field** object was specified as an argument to an **Append** operation when it already is a member of an existing **Fields** collection. Use the **Dim** statement and **CreateField** method to declare a new **Field** object and specify its values, and retry the operation with the new **Field** object.
+A **Field** object was specified as an argument to an **Append** operation when it already is a member of an existing **Fields** collection. Use the **Dim** statement and **CreateField** method to declare a new **Field** object and specify its values, and retry the operation with the new **Field** object.
 
 ## See also
 

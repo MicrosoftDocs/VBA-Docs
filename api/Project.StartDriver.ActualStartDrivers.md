@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # StartDriver.ActualStartDrivers property (Project)
 
-Gets the  **[ActualStartDrivers](Project.actualstartdrivers.md)** collection for the task start driver. Read-only **ActualStartDrivers**.
+Gets the **[ActualStartDrivers](Project.actualstartdrivers.md)** collection for the task start driver. Read-only **ActualStartDrivers**.
 
 
 ## Syntax

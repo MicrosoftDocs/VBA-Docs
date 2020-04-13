@@ -9,21 +9,21 @@ localization_priority: Normal
 
 # Label.BorderStyle Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the type of border of the control. Read/write.
+Returns or sets an **Integer** that specifies the type of border of the control. Read/write.
 
 
 ## Syntax
 
 _expression_.**BorderStyle**
 
-_expression_ A variable that represents a  **Label** object.
+_expression_ A variable that represents a **Label** object.
 
 
 ## Remarks
 
 The possible values of  **BorderStyle** are 0 and 1. 0 represents no visible border line, 1 represents a single-line border (default).
 
-The default value for a  **[Label](Outlook.label.md)** is 0 (None).
+The default value for a **[Label](Outlook.label.md)** is 0 (None).
 
 You can use either  **BorderStyle** or **[SpecialEffect](Outlook.label.specialeffect.md)** to specify the border for a control, but not both. If you specify a nonzero value for one of these properties, the system sets the value of the other property to zero. For example, if you set **BorderStyle** to 1, the system sets **SpecialEffect** to zero (Flat). If you specify a nonzero value for **SpecialEffect**, the system sets  **BorderStyle** to zero.
 

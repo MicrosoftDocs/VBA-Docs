@@ -2,7 +2,7 @@
 title: Invalid DataCodePage option in initialization setting. (Error 3337)
 ms.prod: access
 ms.assetid: 51df967e-82dd-38c3-e413-dfbf728d065d
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -13,14 +13,14 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The  **DataCodePage** setting for the external data source you are attempting to use is not valid. This setting is in the corresponding **HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\14.0\Access Connectivity Engine\Engines** _&lt;external data source ISAM>_ in the Microsoft Windows Registry.
+The **DataCodePage** setting for the external data source you are attempting to use is not valid. This setting is in the corresponding **HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\14.0\Access Connectivity Engine\Engines** _&lt;external data source ISAM>_ in the Microsoft Windows Registry.
 
 Valid settings are:
 
 
--  **OEM** — Data is stored as OEM data; OemToAnsi and AnsiToOem conversions are done.
+- **OEM** — Data is stored as OEM data; OemToAnsi and AnsiToOem conversions are done.
     
--  **ANSI** — Data is stored as ANSI data; OemToAnsi and AnsiToOem conversions are not done.
+- **ANSI** — Data is stored as ANSI data; OemToAnsi and AnsiToOem conversions are not done.
     
 
 ## See also

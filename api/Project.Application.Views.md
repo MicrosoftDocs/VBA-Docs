@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Views method (Project)
 
-Displays the  **More Views** dialog box with the current view selected, which prompts the user to manage views.
+Displays the **More Views** dialog box with the current view selected, which prompts the user to manage views.
 
 
 ## Syntax
@@ -31,8 +31,8 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **Views** method has the same effect as the **More Views** command in the **Other Views** drop-down list on the **View** tab of the Ribbon.
+The **Views** method has the same effect as the **More Views** command in the **Other Views** drop-down list on the **View** tab of the Ribbon.
 
-To specify the pane to select in a split view, use the  **[ViewsEx](Project.Application.ViewsEx.md)** method.
+To specify the pane to select in a split view, use the **[ViewsEx](Project.Application.ViewsEx.md)** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

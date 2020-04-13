@@ -5,20 +5,20 @@ f1_keywords:
 - olfm10.chm3077245
 ms.prod: outlook
 ms.assetid: 3cc10ca8-4c9a-93e5-da88-460198c48c48
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Set the Input Style for a Combo Box
 
-The following example uses the  **[Style](../../../api/Outlook.combobox.style.md)** property to change the style of user input of a **[ComboBox](../../../api/Outlook.combobox.md)**. The user chooses a style by selecting an  **[OptionButton](../../../api/Outlook.optionbutton.md)** control and then types into the **ComboBox** to select an item. When **Style** is _StyleDropDownList_, the user must choose an item from the drop-down list. When  **Style** is _StyleDropDownCombo_, the user can type into the text area to specify an item in the drop-down list.
+The following example uses the **[Style](../../../api/Outlook.combobox.style.md)** property to change the style of user input of a **[ComboBox](../../../api/Outlook.combobox.md)**. The user chooses a style by selecting an **[OptionButton](../../../api/Outlook.optionbutton.md)** control and then types into the **ComboBox** to select an item. When **Style** is _StyleDropDownList_, the user must choose an item from the drop-down list. When **Style** is _StyleDropDownCombo_, the user can type into the text area to specify an item in the drop-down list.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- Two  **OptionButton** controls named OptionButton1 and OptionButton2.
+- Two **OptionButton** controls named OptionButton1 and OptionButton2.
     
-- A  **ComboBox** named ComboBox1.
+- A **ComboBox** named ComboBox1.
     
 
 

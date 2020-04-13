@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SetEffect.To property (PowerPoint)
 
-Sets or returns a  **Variant** that represents the value or ending value of the **SetEffect** object's **Type** property. Read/write.
+Sets or returns a **Variant** that represents the value or ending value of the **SetEffect** object's **Type** property. Read/write.
 
 
 ## Syntax

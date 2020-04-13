@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Lists.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Lists** object.
+Returns an **Object** that represents the parent object of the specified **Lists** object.
 
 
 ## Syntax

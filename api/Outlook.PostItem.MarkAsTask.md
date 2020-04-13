@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PostItem.MarkAsTask method (Outlook)
 
-Marks a  **[PostItem](Outlook.PostItem.md)** object as a task and assigns a task interval for the object.
+Marks a **[PostItem](Outlook.PostItem.md)** object as a task and assigns a task interval for the object.
 
 
 ## Syntax

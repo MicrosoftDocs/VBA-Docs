@@ -2,7 +2,7 @@
 title: Searching Items
 ms.prod: outlook
 ms.assetid: f0c24b9d-160e-3218-6979-2071a3135bfc
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,7 @@ This topic describes the entry points to search items in folders and access to s
 |**Purpose**|Provides programmatic search on items in a specified folder based on a filter.|Performs a programmatic content indexer search that is analogous to a user executing a search from the Outlook user interface.|Provides an efficient way to access items (in a **[Table](../../../api/Outlook.Table.md)**) returned by a prior **Application.AdvancedSearch**. This entry point does not carry out a separate search.|
 |**Scope of search**|Folder specified as a search parameter.|Determined by the parameter _SearchAllItems_. If _SearchAllItems_ is True, the method will search across all folders that have the same folder type as the current folder (specified by the **[DefaultItemType](../../../api/Outlook.Folder.DefaultItemType.md)** property of **[Explorer.CurrentFolder](../../../api/Outlook.Explorer.CurrentFolder.md)**) and all stores that have been selected for search in the Search Options dialog box. <br/><br/>If _SearchAllItems_ is False, the method will search only the folder represented by **Explorer.CurrentFolder**.|Because the **[Search](../../../api/Outlook.Search.md)** object is returned from a prior **Application.AdvancedSearch** operation, the scope of the search associated with **Search.GetTable** is that of the prior **Application.AdvancedSearch**.|
 |**Search filter**|In DAV Searching and Locating (DASL) syntax.|Any valid keywords that are supported by Outlook search in the user interface. Search phrases are delimited by double quotes and can be concatenated to form a single search filter string.|Similar to the scope, the filter of the search associated with **Search.GetTable** is the filter parameter of the prior **Application.AdvancedSearch**.|
-|**Search completion**|Use the **[AdvancedSearchComplete](../../../api/Outlook.Application.AdvancedSearchComplete.md)** event to determine when a given search has completed.|Does not provide a callback to indicate search completion.|Search is completed in the prior  **Application.AdvancedSearch**. **Search.GetTable** only returns the search results.|
+|**Search completion**|Use the **[AdvancedSearchComplete](../../../api/Outlook.Application.AdvancedSearchComplete.md)** event to determine when a given search has completed.|Does not provide a callback to indicate search completion.|Search is completed in the prior **Application.AdvancedSearch**. **Search.GetTable** only returns the search results.|
 
 
 ## Search results

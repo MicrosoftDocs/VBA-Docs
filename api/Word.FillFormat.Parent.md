@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FillFormat.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **FillFormat** object.
+Returns an **Object** that represents the parent object of the specified **FillFormat** object.
 
 
 ## Syntax

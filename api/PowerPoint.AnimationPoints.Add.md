@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AnimationPoints.Add method (PowerPoint)
 
-Returns an  **[AnimationPoint](PowerPoint.AnimationPoint.md)** object that represents a new animation point.
+Returns an **[AnimationPoint](PowerPoint.AnimationPoint.md)** object that represents a new animation point.
 
 
 ## Syntax

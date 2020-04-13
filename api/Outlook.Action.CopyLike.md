@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Action.CopyLike property (Outlook)
 
-Returns or sets an  **[OlActionCopyLike](Outlook.OlActionCopyLike.md)** constant indicating the property inheritance style to use for the action. Read/write.
+Returns or sets an **[OlActionCopyLike](Outlook.OlActionCopyLike.md)** constant indicating the property inheritance style to use for the action. Read/write.
 
 
 ## Syntax

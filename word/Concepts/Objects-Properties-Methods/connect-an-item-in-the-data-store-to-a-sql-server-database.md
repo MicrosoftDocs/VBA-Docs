@@ -2,7 +2,7 @@
 title: Connect an Item in the Data Store to a SQL Server Database
 ms.prod: word
 ms.assetid: 5c3ecc43-492d-0668-18f6-752b03dd2a54
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -29,7 +29,7 @@ The programmatic objects that are used in this sample are as follows:
     
 - **[XMLMapping](../../../api/Word.XMLMapping.md)**
     
-For more information about content controls, see  [Working with Content Controls](../Working-with-Word/working-with-content-controls.md).
+For more information about content controls, see [Working with Content Controls](../Working-with-Word/working-with-content-controls.md).
 
 ## Business Scenario: Create a Customer Document Generator
 
@@ -50,7 +50,7 @@ Use the following general steps to create a Word document generator.
     
 2. Add plain-text content controls to the document to bind to nodes in the data store.
     
-   Content controls are predefined pieces of content. Word offers several kinds of content controls. This includes text blocks, check boxes, drop-down menus, combo boxes, calendar controls, and pictures. You can map these content controls to an element in an XML file. By using  [XPath](https://www.w3.org/TR/xpath) expressions, you can programmatically map content in an XML file to a content control. This enables you to write a simple and short application to manipulate and modify data in a document.
+   Content controls are predefined pieces of content. Word offers several kinds of content controls. This includes text blocks, check boxes, drop-down menus, combo boxes, calendar controls, and pictures. You can map these content controls to an element in an XML file. By using [XPath](https://www.w3.org/TR/xpath) expressions, you can programmatically map content in an XML file to a content control. This enables you to write a simple and short application to manipulate and modify data in a document.
     
    To add a content control, on the **Developer** tab, in the **Controls** group, click **Plain Text Content Control**.
     
@@ -489,7 +489,7 @@ namespace SQLServerSample
 }
 ```
 
-For more information about working with ASP.NET 2.0, see  [https://www.asp.net/get-started/](https://www.asp.net/get-started).
+For more information about working with ASP.NET 2.0, see [https://www.asp.net/get-started/](https://www.asp.net/get-started).
 
 This article explains how to extract data from a SQL Server database and insert it into your template document. You can also extract the data from other data sources, including, for example, Access and Excel. For more information about how to connect to data in those applications programmatically, see the Access and Excel developer documentation.
 

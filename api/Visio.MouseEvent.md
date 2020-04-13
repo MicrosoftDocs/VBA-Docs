@@ -29,16 +29,16 @@ Use the **Application** property of the **MouseEvent** object to determine the M
 
 ## Properties
 
--  [Application](Visio.MouseEvent.Application.md)
--  [Button](Visio.MouseEvent.Button.md)
--  [DragState](Visio.MouseEvent.DragState.md)
--  [KeyButtonState](Visio.MouseEvent.KeyButtonState.md)
--  [ObjectType](Visio.MouseEvent.ObjectType.md)
--  [Stat](Visio.MouseEvent.Stat.md)
--  [ToString](Visio.MouseEvent.ToString.md)
--  [Window](Visio.MouseEvent.Window.md)
--  [x](Visio.MouseEvent.x.md)
--  [y](Visio.MouseEvent.y.md)
+- [Application](Visio.MouseEvent.Application.md)
+- [Button](Visio.MouseEvent.Button.md)
+- [DragState](Visio.MouseEvent.DragState.md)
+- [KeyButtonState](Visio.MouseEvent.KeyButtonState.md)
+- [ObjectType](Visio.MouseEvent.ObjectType.md)
+- [Stat](Visio.MouseEvent.Stat.md)
+- [ToString](Visio.MouseEvent.ToString.md)
+- [Window](Visio.MouseEvent.Window.md)
+- [x](Visio.MouseEvent.x.md)
+- [y](Visio.MouseEvent.y.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

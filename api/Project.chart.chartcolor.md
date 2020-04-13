@@ -19,11 +19,11 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Remarks
 
-The  **ChartColor** property corresponds to a selection in the **Change Colors** drop-down list, which is on the ribbon under **Chart Tools**, on the  **Format** tab, in the **ChartStyles** group.
+The **ChartColor** property corresponds to a selection in the **Change Colors** drop-down list, which is on the ribbon under **Chart Tools**, on the **Format** tab, in the **ChartStyles** group.
 
 
 > [!NOTE] 
-> The  **Colors** drop-down list on the ribbon under **REPORT TOOLS**, on the  **DESIGN** tab, in the **Themes** group, changes the color theme of the entire report, including any charts on the report. The VBA object model in Project does not support the control for report theme colors.
+> The **Colors** drop-down list on the ribbon under **REPORT TOOLS**, on the **DESIGN** tab, in the **Themes** group, changes the color theme of the entire report, including any charts on the report. The VBA object model in Project does not support the control for report theme colors.
 
 
 ## Example

@@ -5,23 +5,20 @@ f1_keywords:
 - olfm10.chm3077185
 ms.prod: outlook
 ms.assetid: bc3329f9-b5f4-bbd9-19f1-8526342f406b
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Control the Text Box' Behavior on Clicking Enter
 
-The following example uses the  **[EnterKeyBehavior](../../../api/Outlook.textbox.enterkeybehavior.md)** property to control the effect of ENTER in a **[TextBox](../../../api/Outlook.textbox.md)**. In this example, the user can specify either a single-line or multiline  **TextBox**.
+The following example uses the **EnterKeyBehavior](../../../api/Outlook.textbox.enterkeybehavior.md)** property to control the effect of ENTER in a **[TextBox](../../../api/Outlook.textbox.md)**. In this example, the user can specify either a single-line or multiline **xtBox**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **pen** event will activate. Make sure that the form contains:
 
-- A  **TextBox** named TextBox1.
-    
-- Two  **[ToggleButton](../../../api/Outlook.togglebutton.md)** controls named ToggleButton1 and ToggleButton2.
-    
+- A **extBox** named TextBox1.
 
-
+- Two **ToggleButton](../../../api/Outlook.togglebutton.md)** controls named ToggleButton1 and ToggleButton2.
 
 ```vb
 Dim TextBox1 

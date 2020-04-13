@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkComboBox.BorderStyle property (Outlook)
 
-Returns or sets an  **[OlBorderStyle](Outlook.OlBorderStyle.md)** constant that defines the style of the border around the control. Read/write.
+Returns or sets an **[OlBorderStyle](Outlook.OlBorderStyle.md)** constant that defines the style of the border around the control. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md)
 
 ## Remarks
 
-The default value is  **olBorderStyleSingle**.
+The default value is **olBorderStyleSingle**.
 
 
 ## See also

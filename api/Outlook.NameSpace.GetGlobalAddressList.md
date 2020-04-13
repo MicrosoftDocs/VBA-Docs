@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.GetGlobalAddressList method (Outlook)
 
-Returns an  **[AddressList](Outlook.AddressList.md)** object that represents the Exchange Global Address List.
+Returns an **[AddressList](Outlook.AddressList.md)** object that represents the Exchange Global Address List.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) obje
 
 ## Return value
 
-An  **AddressList** that represents the Global Address List.
+An **AddressList** that represents the Global Address List.
 
 
 ## Remarks

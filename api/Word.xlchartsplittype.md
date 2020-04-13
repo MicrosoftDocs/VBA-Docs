@@ -16,8 +16,8 @@ Specifies the values displayed in the second chart in a pie chart or a Bar of Pi
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlSplitByCustomSplit**|4|The second chart displays arbitrary slides.|
-| **xlSplitByPercentValue**|3|The second chart displays values less than a percentage of the total value. The percentage is specified by the  **[SplitValue](Word.ChartGroup.SplitValue.md)** property.|
-| **xlSplitByPosition**|1|The second chart displays the smallest values in the data series. The number of values to display is specified by the  **SplitValue** property.|
-| **xlSplitByValue**|2|The second chart displays values less than the value specified by the  **SplitValue** property.|
+| **xlSplitByPercentValue**|3|The second chart displays values less than a percentage of the total value. The percentage is specified by the **[SplitValue](Word.ChartGroup.SplitValue.md)** property.|
+| **xlSplitByPosition**|1|The second chart displays the smallest values in the data series. The number of values to display is specified by the **SplitValue** property.|
+| **xlSplitByValue**|2|The second chart displays values less than the value specified by the **SplitValue** property.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

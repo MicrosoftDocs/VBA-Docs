@@ -12,20 +12,20 @@ localization_priority: Normal
 
 # Page.Index Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the position of a **[Page](Outlook.page.md)** object in a **[Pages](Outlook.pages(object).md)** collection. Read/write.
+Returns or sets an **Integer** that specifies the position of a **[Page](Outlook.page.md)** object in a **[Pages](Outlook.pages(object).md)** collection. Read/write.
 
 
 ## Syntax
 
 _expression_.**Index**
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **Page** object.
 
 
 ## Remarks
 
-The  **Index** property specifies the order in which tabs appear. Changing the value of **Index** visually changes the order of pages in a **[MultiPage](Outlook.multipage.md)**. The index value for the first page is zero, the index value of the second page is one, and so on.
+The **Index** property specifies the order in which tabs appear. Changing the value of **Index** visually changes the order of pages in a **[MultiPage](Outlook.multipage.md)**. The index value for the first page is zero, the index value of the second page is one, and so on.
 
-In a  **MultiPage**,  **Index** refers to a **Page** as well as the page's **[Tab](Outlook.tab.md)**.
+In a **MultiPage**,  **Index** refers to a **Page** as well as the page's **[Tab](Outlook.tab.md)**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

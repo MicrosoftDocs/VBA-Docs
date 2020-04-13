@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathAutoCorrectEntries.Count property (Word)
 
-Returns the number of items in the  **OMathAutoCorrectEntries** collection. Read-only **Long**.
+Returns the number of items in the **OMathAutoCorrectEntries** collection. Read-only **Long**.
 
 
 ## Syntax

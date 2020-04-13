@@ -2,7 +2,7 @@
 title: Enumerate Folders on All Stores
 ms.prod: outlook
 ms.assetid: 9c78ecee-7b9b-bec0-5510-3224cd9aa1fd
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -12,16 +12,16 @@ localization_priority: Normal
 This topic shows a code sample that enumerates all folders on all stores for a session.
 
 
-1. The code sample begins by getting all the stores for the current session using the  **[NameSpace.Stores](../../../api/Outlook.NameSpace.Stores.md)** property of the current session, `Application.Session`.
-    
-2. For each store of this session, it uses  **[Store.GetRootFolder](../../../api/Outlook.Store.GetRootFolder.md)** to obtain the folder at the root of the store.
-    
-3. For the root folder of each store, it iteratively calls the  `EnumerateFolders` procedure until it has visited and displayed the name of each folder in that tree.
-    
+1. The code sample begins by getting all the stores for the current session using the **[NameSpace.Stores](../../../api/Outlook.NameSpace.Stores.md)** property of the current session, `Application.Session`.
+
+2. For each store of this session, it uses **[Store.GetRootFolder](../../../api/Outlook.Store.GetRootFolder.md)** to obtain the folder at the root of the store.
+
+3. For the root folder of each store, it iteratively calls the `EnumerateFolders` procedure until it has visited and displayed the name of each folder in that tree.
+
 
 ## Remarks
 
-To run this code sample, place the code in the built-in  **ThisOutlookSession** module. Run the `EnumerateFoldersInStores` procedure:
+To run this code sample, place the code in the built-in **ThisOutlookSession** module. Run the `EnumerateFoldersInStores` procedure:
 
 
 ```vb

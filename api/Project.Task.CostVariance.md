@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Task.CostVariance property (Project)
 
-Gets the variance between the baseline cost and the cost of a  **Task**. Read-only **Variant**.
+Gets the variance between the baseline cost and the cost of a **Task**. Read-only **Variant**.
 
 
 ## Syntax

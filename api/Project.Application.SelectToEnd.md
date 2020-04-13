@@ -31,6 +31,6 @@ _expression_. `SelectToEnd`
 
 ## Remarks
 
-The  **SelectToEnd** method has the same effect as the **Select to End** command in the right-click menu for an assignment in the Team Planner view.
+The **SelectToEnd** method has the same effect as the **Select to End** command in the right-click menu for an assignment in the Team Planner view.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

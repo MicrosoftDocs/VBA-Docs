@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableView.ShowNewItemRow property (Outlook)
 
-Returns or sets a  **Boolean** value that determines if the new item row is displayed in the **[TableView](Outlook.TableView.md)** object. Read/write
+Returns or sets a **Boolean** value that determines if the new item row is displayed in the **[TableView](Outlook.TableView.md)** object. Read/write
 
 
 ## Syntax

@@ -5,22 +5,22 @@ f1_keywords:
 - olfm10.chm3077160
 ms.prod: outlook
 ms.assetid: 11481d20-6c2c-2dfb-4afe-fdc4a4e1563c
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Specify the Column in a Multi-Column List Box to Store Data for the Control
 
-The following example demonstrates how the  **[BoundColumn](../../../api/Outlook.listbox.boundcolumn.md)** property influences the value of a **[ListBox](../../../api/Outlook.listbox.md)**. The user can choose to set the value of the  **ListBox** to the index value of the specified row, or to a specified column of data in the **ListBox**.
+The following example demonstrates how the **[BoundColumn](../../../api/Outlook.listbox.boundcolumn.md)** property influences the value of a **[ListBox](../../../api/Outlook.listbox.md)**. The user can choose to set the value of the **ListBox** to the index value of the specified row, or to a specified column of data in the **ListBox**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **ListBox** named ListBox1.
+- A **ListBox** named ListBox1.
     
-- A  **[Label](../../../api/Outlook.label.md)** named Label1.
+- A **[Label](../../../api/Outlook.label.md)** named Label1.
     
-- Three  **[OptionButton](../../../api/Outlook.optionbutton.md)** controls named OptionButton1, OptionButton2, and OptionButton3.
+- Three **[OptionButton](../../../api/Outlook.optionbutton.md)** controls named OptionButton1, OptionButton2, and OptionButton3.
     
 
 

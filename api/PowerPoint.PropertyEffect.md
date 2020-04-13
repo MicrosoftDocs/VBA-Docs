@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PropertyEffect object (PowerPoint)
 
-Represents a property effect for an  **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** object.
+Represents a property effect for an **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** object.
 
 
 ## Example

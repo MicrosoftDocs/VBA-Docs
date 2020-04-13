@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.Move method (Outlook)
 
-Moves a  **[SharingItem](Outlook.SharingItem.md)** to a new folder.
+Moves a **[SharingItem](Outlook.SharingItem.md)** to a new folder.
 
 
 ## Syntax
@@ -30,11 +30,11 @@ _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _DestFldr_|Required| **[Folder](Outlook.Folder.md)**|An expression that returns a  **Folder** object. The destination folder.|
+| _DestFldr_|Required| **[Folder](Outlook.Folder.md)**|An expression that returns a **Folder** object. The destination folder.|
 
 ## Return value
 
-An  **Object** value that represents the item that has been moved to the designated folder.
+An **Object** value that represents the item that has been moved to the designated folder.
 
 
 ## See also

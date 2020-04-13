@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AutoTextEntry object (Word)
 
-Represents a single AutoText entry. The  **AutoTextEntry** object is a member of the **AutoTextEntries** collection. The **[AutoTextEntries](Word.autotextentries.md)** collection contains all the AutoText entries in the specified template. The entries are listed on the **AutoText** tab in the **AutoCorrect** dialog box.
+Represents a single AutoText entry. The **AutoTextEntry** object is a member of the **AutoTextEntries** collection. The **[AutoTextEntries](Word.autotextentries.md)** collection contains all the AutoText entries in the specified template. The entries are listed on the **AutoText** tab in the **AutoCorrect** dialog box.
 
 
 ## Remarks
@@ -49,7 +49,7 @@ NormalTemplate.AutoTextEntries("TheWorld").Insert _
  Where:=Selection.Range
 ```
 
-Use the  **[Add](Word.AutoTextEntries.Add.md)** method to add an **AutoTextEntry** object to the **AutoTextEntries** collection. The following example adds an AutoText entry named "Blue" based on the text of the selection.
+Use the **[Add](Word.AutoTextEntries.Add.md)** method to add an **AutoTextEntry** object to the **AutoTextEntries** collection. The following example adds an AutoText entry named "Blue" based on the text of the selection.
 
 ```vb
 NormalTemplate.AutoTextEntries.Add Name:="Blue", _ 

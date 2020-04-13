@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.MessageClass property (Outlook)
 
-Returns or sets a  **String** representing the message class for the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
+Returns or sets a **String** representing the message class for the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

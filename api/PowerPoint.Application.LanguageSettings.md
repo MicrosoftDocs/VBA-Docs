@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.LanguageSettings property (PowerPoint)
 
-Returns a  **LanguageSettings** object that contains information about the language settings in Microsoft PowerPoint. Read-only.
+Returns a **LanguageSettings** object that contains information about the language settings in Microsoft PowerPoint. Read-only.
 
 
 ## Syntax

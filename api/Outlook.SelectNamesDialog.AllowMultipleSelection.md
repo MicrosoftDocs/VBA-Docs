@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SelectNamesDialog.AllowMultipleSelection property (Outlook)
 
-Returns or sets a  **Boolean** that determines whether more than one address entry can be selected at a time in the **Select Names** dialog. Read/write.
+Returns or sets a **Boolean** that determines whether more than one address entry can be selected at a time in the **Select Names** dialog. Read/write.
 
 
 ## Syntax

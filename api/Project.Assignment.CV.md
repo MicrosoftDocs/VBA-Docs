@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Assignment.CV property (Project)
 
-Gets the cost variance for an  **Assignment**. Read-only **Variant**.
+Gets the cost variance for an **Assignment**. Read-only **Variant**.
 
 
 ## Syntax

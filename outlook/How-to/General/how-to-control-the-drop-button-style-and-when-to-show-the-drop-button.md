@@ -5,22 +5,22 @@ f1_keywords:
 - olfm10.chm3077182
 ms.prod: outlook
 ms.assetid: 899b839e-f67e-1533-c0b6-28206e9af74a
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Control the Drop Button Style and When to Show the Drop Button
 
-The following example demonstrates the different symbols that you can specify for a drop-down arrow in a  **[ComboBox](../../../api/Outlook.combobox.md)** or **[TextBox](../../../api/Outlook.textbox.md)**. In this example, the user chooses a drop-down arrow style from a  **ComboBox**. This example also uses the  ** [TextBox.Locked](../../../api/Outlook.OlkTextBox.Locked.md)** property. To use this example, copy this sample code to the Script Editor of a form. Make sure that the form contains:
+The following example demonstrates the different symbols that you can specify for a drop-down arrow in a **[ComboBox](../../../api/Outlook.combobox.md)** or **[TextBox](../../../api/Outlook.textbox.md)**. In this example, the user chooses a drop-down arrow style from a **ComboBox**. This example also uses the ** [TextBox.Locked](../../../api/Outlook.OlkTextBox.Locked.md)** property. To use this example, copy this sample code to the Script Editor of a form. Make sure that the form contains:
 
 
-- A  **ComboBox** named ComboBox1.
-    
-- A  **[Label](../../../api/Outlook.label.md)** named Label1.
-    
-- A  **TextBox** named TextBox1 placed beneath Label1.
-    
+- A **ComboBox** named ComboBox1.
+
+- A **[Label](../../../api/Outlook.label.md)** named Label1.
+
+- A **TextBox** named TextBox1 placed beneath Label1.
+
 
 ```vb
 Dim TextBox1 

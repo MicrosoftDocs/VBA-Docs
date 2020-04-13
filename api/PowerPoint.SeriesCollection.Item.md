@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[SeriesCollection](PowerPoint.SeriesC
 
 ## Return value
 
-A  **[Series](PowerPoint.Series.md)** object contained by the collection.
+A **[Series](PowerPoint.Series.md)** object contained by the collection.
 
 
 ## Example

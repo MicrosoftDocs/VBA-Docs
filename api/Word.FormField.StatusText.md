@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[FormField](Word.FormField.md)' objec
 
 ## Remarks
 
-If the  **[OwnStatus](Word.FormField.OwnStatus.md)** property is set to **True**, the **StatusText** property specifies the status bar text. If the **OwnStatus** property is set to **False**, the **StatusText** property specifies the name of an AutoText entry that contains status bar text for the form field.
+If the **[OwnStatus](Word.FormField.OwnStatus.md)** property is set to **True**, the **StatusText** property specifies the status bar text. If the **OwnStatus** property is set to **False**, the **StatusText** property specifies the name of an AutoText entry that contains status bar text for the form field.
 
 
 ## Example

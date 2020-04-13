@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeNode.Points property (PowerPoint)
 
-Returns a  **Variant** that represents the position of the specified node as a coordinate pair. Read-only.
+Returns a **Variant** that represents the position of the specified node as a coordinate pair. Read-only.
 
 
 ## Syntax

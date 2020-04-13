@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.IsConflict property (Outlook)
 
-Returns a  **Boolean** that determines if the **[SharingItem](Outlook.SharingItem.md)** is in conflict. Read-only.
+Returns a **Boolean** that determines if the **[SharingItem](Outlook.SharingItem.md)** is in conflict. Read-only.
 
 
 ## Syntax

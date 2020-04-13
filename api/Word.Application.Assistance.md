@@ -26,7 +26,7 @@ _expression_.**Assistance**
 
 ## Remarks
 
-The  **Assistance** object allows developers to show custom help and help that is installed with Office in the Office Help Viewer.
+The **Assistance** object allows developers to show custom help and help that is installed with Office in the Office Help Viewer.
 
 
 ## See also

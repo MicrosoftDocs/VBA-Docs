@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailMergeFieldNames.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **MailMergeFieldNames** object.
+Returns an **Object** that represents the parent object of the specified **MailMergeFieldNames** object.
 
 
 ## Syntax

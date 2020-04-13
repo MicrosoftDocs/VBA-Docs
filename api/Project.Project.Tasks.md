@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Project.Tasks property (Project)
 
-Gets a  **[Tasks](Project.Task.md)** collection representing the tasks in the project. Read-only **Tasks**.
+Gets a **[Tasks](Project.Task.md)** collection representing the tasks in the project. Read-only **Tasks**.
 
 
 ## Syntax

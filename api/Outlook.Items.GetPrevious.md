@@ -26,7 +26,7 @@ _expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 ## Return value
 
-An  **Object** value that represents the previous object contained by the collection.
+An **Object** value that represents the previous object contained by the collection.
 
 
 ## Remarks

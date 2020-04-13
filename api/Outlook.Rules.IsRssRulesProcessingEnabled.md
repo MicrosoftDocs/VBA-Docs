@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Rules.IsRssRulesProcessingEnabled property (Outlook)
 
-Returns or sets a  **Boolean** that indicates whether RSS rules processing has been enabled. Read/write.
+Returns or sets a **Boolean** that indicates whether RSS rules processing has been enabled. Read/write.
 
 
 ## Syntax

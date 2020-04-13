@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.DocumentTheme property (Word)
 
-Returns an  **OfficeTheme** object that represents the Microsoft Office theme applied to a document. Read-only.
+Returns an **OfficeTheme** object that represents the Microsoft Office theme applied to a document. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_. `OfficeTheme`
 
 ## Remarks
 
-Use the  **[ApplyDocumentTheme](Word.ApplyDocumentTheme.md)** method to apply an Office theme.
+Use the **[ApplyDocumentTheme](Word.ApplyDocumentTheme.md)** method to apply an Office theme.
 
 
 ## See also

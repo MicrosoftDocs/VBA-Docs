@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # GroupCriterion2 object (Project)
 
-Represents a criterion in a group definition where the group hierarchy can be maintained and cell color can be a hexadecimal value. The  **GroupCriterion2** object is a member of the **[GroupCriteria2](Project.groupcriteria2.md)** collection.
+Represents a criterion in a group definition where the group hierarchy can be maintained and cell color can be a hexadecimal value. The **GroupCriterion2** object is a member of the **[GroupCriteria2](Project.groupcriteria2.md)** collection.
  
 
 
@@ -36,7 +36,7 @@ ActiveProject.ResourceGroups2("Standard Rate").GroupCriteria2(1).CellColor = &HF
  
 
  
-Use the  **[GroupCriteria](Project.Group2.GroupCriteria.md)** property to return a **GroupCriteria2** collection. The following example displays a list of the fields used as criteria in the specified task group and shows whether they are sorted in ascending or descending order.
+Use the **[GroupCriteria](Project.Group2.GroupCriteria.md)** property to return a **GroupCriteria2** collection. The following example displays a list of the fields used as criteria in the specified task group and shows whether they are sorted in ascending or descending order.
  
 
  
@@ -58,7 +58,7 @@ Next GC2
 MsgBox Fields
 ```
 
-Use the  **[AddEx](Project.GroupCriteria2.AddEx.md)** method to add a **GroupCriterion2** object to the **GroupCriteria2** collection, where **CellColor** can be a hexadecimal value. The following example adds another criterion to the specified resource group, grouping resources in ascending order as determined by the percentage of their work (in 25-percent increments) that is complete.
+Use the **[AddEx](Project.GroupCriteria2.AddEx.md)** method to add a **GroupCriterion2** object to the **GroupCriteria2** collection, where **CellColor** can be a hexadecimal value. The following example adds another criterion to the specified resource group, grouping resources in ascending order as determined by the percentage of their work (in 25-percent increments) that is complete.
  
 
  

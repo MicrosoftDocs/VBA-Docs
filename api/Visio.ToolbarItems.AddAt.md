@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ToolbarItems.AddAt method (Visio)
 
-Creates a new  **ToolbarItem** object at a specified index in the **ToolbarItems** collection. .
+Creates a new **ToolbarItem** object at a specified index in the **ToolbarItems** collection. .
 
 
 ## Syntax

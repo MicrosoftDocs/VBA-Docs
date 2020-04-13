@@ -33,7 +33,7 @@ The **New** keyword can only be applied to a creatable object (an instance of a 
     Set MyListBox = New ListBox 
   ```
 
-  **[ListBox](listbox-control.md)** and **Form** are class names, not specific object names. You can use them to specify that a [variable](../../Glossary/vbe-glossary.md#variable) will be a reference to a certain [object type](../../Glossary/vbe-glossary.md#object-type), as with the valid **Dim** statements above. But you can't use them to instantiate the objects themselves in a **Set** statement. You must specify a specific object, rather than the generic class name, in the **Set** statement:
+ **[ListBox](listbox-control.md)** and **Form** are class names, not specific object names. You can use them to specify that a [variable](../../Glossary/vbe-glossary.md#variable) will be a reference to a certain [object type](../../Glossary/vbe-glossary.md#object-type), as with the valid **Dim** statements above. But you can't use them to instantiate the objects themselves in a **Set** statement. You must specify a specific object, rather than the generic class name, in the **Set** statement:
     
   ```vb
       ' Valid syntax to create new instance of a form or list box. 

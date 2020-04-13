@@ -27,17 +27,17 @@ Installed add-ons are those that Microsoft Visio finds in its **Addons** or **St
 
 ## Methods
 
--  [Add](Visio.Addons.Add.md)
--  [GetNames](Visio.Addons.GetNames.md)
--  [GetNamesU](Visio.Addons.GetNamesU.md)
+- [Add](Visio.Addons.Add.md)
+- [GetNames](Visio.Addons.GetNames.md)
+- [GetNamesU](Visio.Addons.GetNamesU.md)
 
 ## Properties
 
--  [Application](Visio.Addons.Application.md)
--  [Count](Visio.Addons.Count.md)
--  [Item](Visio.Addons.Item.md)
--  [ItemU](Visio.Addons.ItemU.md)
--  [ObjectType](Visio.Addons.ObjectType.md)
+- [Application](Visio.Addons.Application.md)
+- [Count](Visio.Addons.Count.md)
+- [Item](Visio.Addons.Item.md)
+- [ItemU](Visio.Addons.ItemU.md)
+- [ObjectType](Visio.Addons.ObjectType.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

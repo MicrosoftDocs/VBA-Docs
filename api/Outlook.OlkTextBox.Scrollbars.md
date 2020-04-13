@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTextBox.Scrollbars property (Outlook)
 
-Returns or sets an  **[olScrollBars](Outlook.OlScrollBars.md)** constant that specifies whether the control has a vertical scroll bar, horizontal scroll bar, or both. Read/write.
+Returns or sets an **[olScrollBars](Outlook.OlScrollBars.md)** constant that specifies whether the control has a vertical scroll bar, horizontal scroll bar, or both. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) o
 
 ## Remarks
 
-The default value is  **olScrollBarsNone**.
+The default value is **olScrollBarsNone**.
 
 
 ## See also

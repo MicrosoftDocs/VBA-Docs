@@ -24,7 +24,7 @@ Use the  **[Item](Outlook.OutlookBarGroups.Item.md)** method to retrieve the **O
 
 ## Example
 
-The following example retrieves an  **OutlookBarGroup** object by name.
+The following example retrieves an **OutlookBarGroup** object by name.
 
 
 ```vb

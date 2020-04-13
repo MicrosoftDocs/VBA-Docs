@@ -2,7 +2,7 @@
 title: Obtain Information for Multiple Accounts
 ms.prod: outlook
 ms.assetid: af587ee2-429a-252f-ecb6-2f058b9a37a8
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -11,27 +11,25 @@ localization_priority: Normal
 
 Microsoft Outlook supports a profile that contains one or more accounts that are connected to a Microsoft Exchange Server. This topic shows how to obtain and display miscellaneous information about each account in the current profile.
 
-The following method,  `EnumerateAccounts`, displays the account name, user name, and Simple Mail Transfer Protocol (SMTP) address for each account that is defined in the current profile. If the account is connected to an Exchange server,  `EnumerateAccounts` displays the Exchange server name and version information. And if the account resides on a delivery store, `EnumerateAccounts` displays the name of the default delivery store for the account.
+The following method, `EnumerateAccounts`, displays the account name, user name, and Simple Mail Transfer Protocol (SMTP) address for each account that is defined in the current profile. If the account is connected to an Exchange server, `EnumerateAccounts` displays the Exchange server name and version information. And if the account resides on a delivery store, `EnumerateAccounts` displays the name of the default delivery store for the account.
 
 `EnumerateAccounts` accesses most of this information from the [Account](../../../api/Outlook.Account.md) object, except when the **Account** object does not contain information about the user name and SMTP address. In that case, `EnumerateAccounts` uses the [AddressEntry](../../../api/Outlook.AddressEntry.md) and [ExchangeUser](../../../api/Outlook.ExchangeUser.md) objects. `EnumerateAccounts` obtains the **AddressEntry** object by using the [AddressEntry](../../../api/Outlook.Recipient.AddressEntry.md) property of the [Recipient](../../../api/Outlook.Recipient.md) object obtained from the **[Account.CurrentUser](../../../api/Outlook.Account.CurrentUser.md)** property. `EnumerateAccounts` obtains the **ExchangeUser** object by using the **[GetExchangeUser](../../../api/Outlook.AddressEntry.GetExchangeUser.md)** method of the **AddressEntry** object. The following is the algorithm to obtain various information by using the **Account**, **AddressEntry**, and **ExchangeUser** objects:
 
-
 - If the **Account** object contains information about the user name and SMTP address, use the **Account** object to display the account name, user name, SMTP address, and Exchange server name and version information if the account is an Exchange account.
-    
+
 - Otherwise, the **Account** object does not contain information about the user name and SMTP address, and proceed as follows:
-    
+
   - If the account is not an Exchange account, use the **AddressEntry** object to display the user name and SMTP address.
-    
+
   - Otherwise, the account is an Exchange account, and proceed as follows:
-    
+
     1. Use the **Account** object to display the account name, Exchange server name, and Exchange version information.
-    
+
     2. Use the **ExchangeUser** object to display the user name and SMTP address.
-    
+
 The following managed code is written in C#. To run a .NET Framework managed code sample that needs to call into a Component Object Model (COM), you must use an interop assembly that defines and maps managed interfaces to the COM objects in the object model type library. For Outlook, you can use Visual Studio and the Outlook Primary Interop Assembly (PIA). Before you run managed code samples for Outlook 2013, ensure that you have installed the Outlook 2013 PIA and have added a reference to the Microsoft Outlook 15.0 Object Library component in Visual Studio. 
 
-You should use the following code in the  `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`. For more information about using the Outlook PIA to develop managed Outlook solutions, see the **Welcome to the Outlook Primary Interop Assembly Reference** on MSDN.
-
+You should use the following code in the `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`. For more information about using the Outlook PIA to develop managed Outlook solutions, see the **Welcome to the Outlook Primary Interop Assembly Reference** on MSDN.
 
 ```cs
 private void EnumerateAccounts() 

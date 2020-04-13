@@ -5,7 +5,7 @@ f1_keywords:
 - jeterr40.chm5003073
 ms.prod: access
 ms.assetid: 4d304da6-ed0a-4819-8d1f-ba55bf9a41e9
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -23,13 +23,13 @@ Possible causes:
 
 - You attempted to run a query that tried to update a field that cannot be updated. For example, you may have created the query in such a way that you tried to update a field on the one side of a one-to-many relationship.
     
-- You tried to use the obsolete  **OpenQueryDef** method on a query that is in a database opened for read-only access.
+- You tried to use the obsolete **OpenQueryDef** method on a query that is in a database opened for read-only access.
     
 
 The database is read-only for one of the following reasons:
 
 
-- You used the  **OpenDatabase** method or the Visual Basic **Data** control, and opened the database for read-only access.
+- You used the **OpenDatabase** method or the Visual Basic **Data** control, and opened the database for read-only access.
     
 - The database file has been defined as read-only in your network operating system.
     

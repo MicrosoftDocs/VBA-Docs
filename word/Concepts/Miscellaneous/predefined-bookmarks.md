@@ -2,16 +2,16 @@
 title: Predefined Bookmarks
 ms.prod: word
 ms.assetid: aa1c6d85-fe70-8f73-5682-ae6ada65be7c
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Predefined Bookmarks
 
-Word sets and automatically updates a number of reserved bookmarks. You can use these predefined bookmarks just as you use bookmarks that you place in documents, except that you do not have to set them and they are not listed on the  **Go To** tab in the **Find and Replace** dialog box.
+Word sets and automatically updates a number of reserved bookmarks. You can use these predefined bookmarks just as you use bookmarks that you place in documents, except that you do not have to set them and they are not listed on the **Go To** tab in the **Find and Replace** dialog box.
 
-You can use predefined bookmarks with the  **[Bookmarks](../../../api/Word.Bookmarks.DefaultSorting.md)** property. The following example sets the bookmark named "currpara" to the location marked by the predefined bookmark named "\Para".
+You can use predefined bookmarks with the **[Bookmarks](../../../api/Word.Bookmarks.DefaultSorting.md)** property. The following example sets the bookmark named "currpara" to the location marked by the predefined bookmark named "\Para".
 
 
 
@@ -25,8 +25,8 @@ The following table describes the predefined bookmarks available in Word.
 |**Bookmark**|**Description**|
 |:-----|:-----|
 |\Sel|Current selection or the insertion point.|
-|\PrevSel1|Most recent selection where editing occurred; going to this bookmark is equivalent to running the  **[GoBack](../../../api/Word.Application.GoBack.md)** method once.|
-|\PrevSel2|Second most recent selection where editing occurred; going to this bookmark is equivalent to running the  **GoBack** method twice.|
+|\PrevSel1|Most recent selection where editing occurred; going to this bookmark is equivalent to running the **[GoBack](../../../api/Word.Application.GoBack.md)** method once.|
+|\PrevSel2|Second most recent selection where editing occurred; going to this bookmark is equivalent to running the **GoBack** method twice.|
 |\StartOfSel|Start of the current selection.|
 |\EndOfSel|End of the current selection.|
 |\Line|Current line or the first line of the current selection. If the insertion point is at the end of a line that is not the last line in the paragraph, the bookmark includes the entire next line.|

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.Hobby property (Outlook)
 
-Returns or sets a  **String** representing the hobby for the contact. Read/write.
+Returns or sets a **String** representing the hobby for the contact. Read/write.
 
 
 ## Syntax

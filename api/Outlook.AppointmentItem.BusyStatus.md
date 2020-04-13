@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.BusyStatus property (Outlook)
 
-Returns or sets an  **[OlBusyStatus](Outlook.OlBusyStatus.md)** constant indicating the busy status of the user for the appointment. Read/write.
+Returns or sets an **[OlBusyStatus](Outlook.OlBusyStatus.md)** constant indicating the busy status of the user for the appointment. Read/write.
 
 
 ## Syntax

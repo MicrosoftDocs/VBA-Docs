@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.BarBoxFormat method (Project)
 
-Displays the  **Format Bar** dialog box (if the Gantt Chart, Resource Graph, or Calendar is the active view) or **Format Box** dialog box (if the Network Diagram is the active view).
+Displays the **Format Bar** dialog box (if the Gantt Chart, Resource Graph, or Calendar is the active view) or **Format Box** dialog box (if the Network Diagram is the active view).
 
 
 ## Syntax
@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **BarBoxFormat** method has the same effect as selecting **Bar** (Gantt Chart, Resource Graph, and Calendar views) or **Box** (Network Diagram) on the **Format** menu.
+The **BarBoxFormat** method has the same effect as selecting **Bar** (Gantt Chart, Resource Graph, and Calendar views) or **Box** (Network Diagram) on the **Format** menu.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

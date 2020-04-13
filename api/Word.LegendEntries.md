@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # LegendEntries object (Word)
 
-A collection of all the  **[LegendEntry](Word.LegendEntry.md)** objects in the specified chart legend.
+A collection of all the **[LegendEntry](Word.LegendEntry.md)** objects in the specified chart legend.
 
 
 ## Remarks
@@ -27,12 +27,12 @@ A collection of all the  **[LegendEntry](Word.LegendEntry.md)** objects in the s
     
 
 
-The formatting properties for the entry marker and its associated series or trendline are contained in the  **[LegendKey](Word.LegendKey.md)** object.
+The formatting properties for the entry marker and its associated series or trendline are contained in the **[LegendKey](Word.LegendKey.md)** object.
 
 
 ## Example
 
-Use the  **[LegendEntries](Word.Legend.LegendEntries.md)** method to return the **LegendEntries** collection. The following example loops through the collection of legend entries for the first chart in the active document and changes their font color.
+Use the **[LegendEntries](Word.Legend.LegendEntries.md)** method to return the **LegendEntries** collection. The following example loops through the collection of legend entries for the first chart in the active document and changes their font color.
 
 
 ```vb

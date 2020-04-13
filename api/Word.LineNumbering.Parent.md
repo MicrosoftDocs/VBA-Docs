@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # LineNumbering.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **LineNumbering** object.
+Returns an **Object** that represents the parent object of the specified **LineNumbering** object.
 
 
 ## Syntax

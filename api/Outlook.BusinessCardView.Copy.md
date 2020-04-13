@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BusinessCardView.Copy method (Outlook)
 
-Creates a new  **[View](Outlook.View.md)** object based on the existing **[BusinessCardView](Outlook.BusinessCardView.md)** object.
+Creates a new **[View](Outlook.View.md)** object based on the existing **[BusinessCardView](Outlook.BusinessCardView.md)** object.
 
 
 ## Syntax
@@ -35,12 +35,12 @@ _expression_.**Copy** (_Name_, _SaveOption_)
 
 ## Return value
 
-A  **View** object that represents the new view.
+A **View** object that represents the new view.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example creates a copy of a  **BusinessCardView** object, named "New Card View", and saves it in the **Contacts** default folder. To run this example, you need to first create a **BusinessCardView** object named "Card View" either programmatically or by using the Microsoft Outlook user interface.
+The following Visual Basic for Applications (VBA) example creates a copy of a **BusinessCardView** object, named "New Card View", and saves it in the **Contacts** default folder. To run this example, you need to first create a **BusinessCardView** object named "Card View" either programmatically or by using the Microsoft Outlook user interface.
 
 
 ```vb

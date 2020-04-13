@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folder.GetExplorer method (Outlook)
 
-Returns an  **[Explorer](Outlook.Explorer.md)** object that represents a new, inactive **Explorer** object initialized with the specified folder as the current folder.
+Returns an **[Explorer](Outlook.Explorer.md)** object that represents a new, inactive **Explorer** object initialized with the specified folder as the current folder.
 
 
 ## Syntax
@@ -34,18 +34,18 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 ## Return value
 
-An  **Explorer** object that represents a new, inactive Explorer initialized with the specified folder as the current folder.
+An **Explorer** object that represents a new, inactive Explorer initialized with the specified folder as the current folder.
 
 
 ## Remarks
 
-This method is useful for returning a new  **Explorer** object in which to display the folder, as opposed to using the **[ActiveExplorer](Outlook.Application.ActiveExplorer.md)** method and setting the **[CurrentFolder](Outlook.Explorer.CurrentFolder.md)** property.
+This method is useful for returning a new **Explorer** object in which to display the folder, as opposed to using the **[ActiveExplorer](Outlook.Application.ActiveExplorer.md)** method and setting the **[CurrentFolder](Outlook.Explorer.CurrentFolder.md)** property.
 
-The  **[Explorer.Display](Outlook.Explorer.Display.md)** method can be used to activate or show the **Explorer**.
+The **[Explorer.Display](Outlook.Explorer.Display.md)** method can be used to activate or show the **Explorer**.
 
-The  **GetExplorer** method takes an optional argument of an **OlFolderDisplayMode** constant.
+The **GetExplorer** method takes an optional argument of an **OlFolderDisplayMode** constant.
 
-By default, the new  **Explorer** will be displayed in the Normal mode (**olFolderDisplayNormal**) with all interface elements displayed: a message panel on the right and the navigation pane on the left. The exception to this rule is when you are calling **GetExplorer** on delegated folders that are in No-Navigation mode (**olFolderDisplayNoNavigation**) by default. You can apply more restrictions to a default mode, but you cannot lessen the restrictions by changing the **OlFolderDisplayMode**.
+By default, the new **Explorer** will be displayed in the Normal mode (**olFolderDisplayNormal**) with all interface elements displayed: a message panel on the right and the navigation pane on the left. The exception to this rule is when you are calling **GetExplorer** on delegated folders that are in No-Navigation mode (**olFolderDisplayNoNavigation**) by default. You can apply more restrictions to a default mode, but you cannot lessen the restrictions by changing the **OlFolderDisplayMode**.
 
 The explorer can also be displayed in Folder-Only mode (**olFolderDisplayFolderOnly**). This mode is essentially the same as the Normal mode (**olFolderDisplayNormal**) in that it too displays the navigation pane on the left.
 

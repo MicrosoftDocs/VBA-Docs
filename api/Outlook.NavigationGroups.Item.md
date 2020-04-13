@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationGroups.Item method (Outlook)
 
-Returns a  **[NavigationGroup](Outlook.NavigationGroup.md)** object from the collection.
+Returns a **[NavigationGroup](Outlook.NavigationGroup.md)** object from the collection.
 
 
 ## Syntax
@@ -34,12 +34,12 @@ _expression_ A variable that represents a [NavigationGroups](Outlook.NavigationG
 
 ## Return value
 
-A  **NavigationGroup** object that represents the specified object.
+A **NavigationGroup** object that represents the specified object.
 
 
 ## Remarks
 
-The index value of a  **NavigationGroup** in the collection represents the ordinal position of the navigation group when displayed in the navigation pane. Changing the position of navigation groups also changes the index values of navigation groups contained within the **[NavigationGroups](Outlook.NavigationGroups.md)** collection.
+The index value of a **NavigationGroup** in the collection represents the ordinal position of the navigation group when displayed in the navigation pane. Changing the position of navigation groups also changes the index values of navigation groups contained within the **[NavigationGroups](Outlook.NavigationGroups.md)** collection.
 
 
 ## See also

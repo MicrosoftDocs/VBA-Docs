@@ -9,7 +9,6 @@ ms.date: 06/08/2017
 localization_priority: Normal
 ---
 
-
 # Tabs.Item Method (Outlook Forms Script)
 
 Returns a member of a collection, either by position or by name.
@@ -19,11 +18,10 @@ Returns a member of a collection, either by position or by name.
 
 _expression_.**Item**(**_varg_**)
 
-_expression_ A variable that represents a  **Tabs** object.
+_expression_ A variable that represents a **Tabs** object.
 
 
 ## Parameters
-
 
 
 |Name|Required/Optional|Data type|Description|
@@ -37,7 +35,8 @@ An Object that corresponds to the specified member in the collection.
 
 ## Remarks
 
-The  _varg_ can be either a **String** or an **Integer**. If it is a  **String**, it must be a valid member name. If it is an  **Integer**, the minimum value is 0 and the maximum value is one less than the number of items in the collection.
+The  _varg_ can be either a **String** or an **Integer**. If it is a **String**, it must be a valid member name. If it is an **Integer**, the minimum value is 0 and the maximum value is one less than the number of items in the collection.
+r
 
 If an invalid index or name is specified, an error occurs.
 

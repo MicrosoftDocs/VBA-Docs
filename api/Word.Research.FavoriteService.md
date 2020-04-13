@@ -26,7 +26,7 @@ _expression_. `FavoriteService`
 
 ## Remarks
 
-The  **String** that is set or returned for this property specifies the GUID of the favorite research service.
+The **String** that is set or returned for this property specifies the GUID of the favorite research service.
 
 Setting this property has the same effect as choosing a favorite research service through the Research Options dialog in Word. 
 

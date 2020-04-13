@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleConditions.CC property (Outlook)
 
-Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCondition.ConditionType](Outlook.RuleCondition.ConditionType.md)** of **olConditionCc**. Read-only.
+Returns a **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCondition.ConditionType](Outlook.RuleCondition.ConditionType.md)** of **olConditionCc**. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Sentences.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Sentences** object.
+Returns an **Object** that represents the parent object of the specified **Sentences** object.
 
 
 ## Syntax

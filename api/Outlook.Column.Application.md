@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Column.Application property (Outlook)
 
-Returns an  **[Application](Outlook.Application.md)** object that represents the parent application (Outlook) for the **[Column](Outlook.Column.md)** object. Read-only.
+Returns an **[Application](Outlook.Application.md)** object that represents the parent application (Outlook) for the **[Column](Outlook.Column.md)** object. Read-only.
 
 
 ## Syntax

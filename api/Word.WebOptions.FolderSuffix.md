@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebOptions.FolderSuffix property (Word)
 
-Returns the folder suffix that Microsoft Word uses when you save a document as a webpage, use long file names, and choose to save supporting files in a separate folder (that is, if the  **UseLongFileNames** and **OrganizeInFolder** properties are set to **True**). Read-only **String**.
+Returns the folder suffix that Microsoft Word uses when you save a document as a webpage, use long file names, and choose to save supporting files in a separate folder (that is, if the **UseLongFileNames** and **OrganizeInFolder** properties are set to **True**). Read-only **String**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[WebOptions](Word.WebOptio
 
 ## Remarks
 
-Newly created documents use the suffix returned by the  **FolderSuffix** property of the **DefaultWebOptions** object. The value of the **FolderSuffix** property of the **WebOptions** object may differ from that of the **DefaultWebOptions** object if the document was previously edited in a different language version of Microsoft Word. You can use the **UseDefaultFolderSuffix** method to change the suffix to the language you are currently using in Microsoft Office.
+Newly created documents use the suffix returned by the **FolderSuffix** property of the **DefaultWebOptions** object. The value of the **FolderSuffix** property of the **WebOptions** object may differ from that of the **DefaultWebOptions** object if the document was previously edited in a different language version of Microsoft Word. You can use the **UseDefaultFolderSuffix** method to change the suffix to the language you are currently using in Microsoft Office.
 
 By default, the name of the supporting folder is the name of the webpage plus an underscore (_), a period (.), or a hyphen (-) and the word "files" (appearing in the language of the version of Word in which the file was saved as a webpage). For example, suppose that you use the Dutch language version of Word to save a file called "Page1" as a webpage. The default name of the supporting folder is Page1_bestanden.
 

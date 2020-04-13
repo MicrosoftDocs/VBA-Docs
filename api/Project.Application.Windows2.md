@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.Windows2 property (Project)
 
-Gets a  **[Windows2](Project.windows2(object).md)** collection representing the open windows in the application. Read-only **Windows2**.
+Gets a **[Windows2](Project.windows2(object).md)** collection representing the open windows in the application. Read-only **Windows2**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **Windows2** property is recommended, in place of the **Windows** property, for all new development in VBA and external applications developed with the .NET Framework.
+The **Windows2** property is recommended, in place of the **Windows** property, for all new development in VBA and external applications developed with the .NET Framework.
 
 
 ## Example

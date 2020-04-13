@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkFrameHeader.ForeColor property (Outlook)
 
-Returns or sets a  **Long** that indicates the foreground color of the control. Read/write.
+Returns or sets a **Long** that indicates the foreground color of the control. Read/write.
 
 
 ## Syntax

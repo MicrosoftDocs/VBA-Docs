@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # HangulAndAlphabetExceptions.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **HangulAndAlphabetExceptions** object.
+Returns an **Object** that represents the parent object of the specified **HangulAndAlphabetExceptions** object.
 
 
 ## Syntax

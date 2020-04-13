@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # Image.BorderColor Property (Outlook Forms Script)
 
-Returns or sets a  **Long** that specifies the border color of an object. Read/write.
+Returns or sets a **Long** that specifies the border color of an object. Read/write.
 
 
 ## Syntax
 
 _expression_.**BorderColor**
 
-_expression_ A variable that represents an  **Image** object.
+_expression_ A variable that represents an **Image** object.
 
 
 ## Remarks

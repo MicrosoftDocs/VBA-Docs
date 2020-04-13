@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Assignment.Created property (Project)
 
-Gets the date an  **Assignment** was created. Read-only **Variant**.
+Gets the date an **Assignment** was created. Read-only **Variant**.
 
 
 ## Syntax
@@ -23,6 +23,6 @@ _expression_ A variable that represents an [Assignment](./Project.Assignment.md)
 
 ## Remarks
 
-To determine the creation date of a project, use the  **CreationDate** property.
+To determine the creation date of a project, use the **CreationDate** property.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

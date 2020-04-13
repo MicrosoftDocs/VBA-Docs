@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # IconView.Copy method (Outlook)
 
-Creates a new  **[View](Outlook.View.md)** object based on the existing **[IconView](Outlook.IconView.md)** object.
+Creates a new **[View](Outlook.View.md)** object based on the existing **[IconView](Outlook.IconView.md)** object.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ _expression_ A variable that represents an [IconView](Outlook.IconView.md) objec
 
 ## Return value
 
-A  **View** object that represents the new view.
+A **View** object that represents the new view.
 
 
 ## See also

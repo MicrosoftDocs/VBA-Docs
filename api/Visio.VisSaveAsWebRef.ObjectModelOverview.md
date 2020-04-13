@@ -11,8 +11,8 @@ localization_priority: Normal
 
 ## In this section
 
--  [VisSaveAsWeb object](Visio.VisSaveAsWeb.md)   
--  [VisWebPageSettings object](Visio.VisWebPageSettings.md)  
--  [VISWEB_DISP_RES enumeration](Visio.VisSaveAsWeb.visweb-disp-res-enumeration.md)
+- [VisSaveAsWeb object](Visio.VisSaveAsWeb.md)   
+- [VisWebPageSettings object](Visio.VisWebPageSettings.md)  
+- [VISWEB_DISP_RES enumeration](Visio.VisSaveAsWeb.visweb-disp-res-enumeration.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -16,7 +16,7 @@ Displays the Microsoft Outlook  **Choose Form** dialog box.
 
 _expression_.**NewForm**
 
-_expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

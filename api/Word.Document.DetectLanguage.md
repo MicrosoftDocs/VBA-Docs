@@ -28,7 +28,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 When applied to a  **Document** object, the **DetectLanguage** method checks all available text in the document (headers, footers, text boxes, and so forth). If the specified text contains a partial sentence, the selection or range is extended to the end of the sentence.
 
-If the  **DetectLanguage** method has already been applied to the specified text, the **[LanguageDetected](Word.Document.LanguageDetected.md)** property is set to **True**. To re-evaluate the language of the specified text, you must first set the **LanguageDetected** property to **False**.
+If the **DetectLanguage** method has already been applied to the specified text, the **[LanguageDetected](Word.Document.LanguageDetected.md)** property is set to **True**. To re-evaluate the language of the specified text, you must first set the **LanguageDetected** property to **False**.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # EffectInformation object (PowerPoint)
 
-Represents various animation options for an  **[Effect](PowerPoint.Effect.md)** object.
+Represents various animation options for an **[Effect](PowerPoint.Effect.md)** object.
 
 
 ## Remarks

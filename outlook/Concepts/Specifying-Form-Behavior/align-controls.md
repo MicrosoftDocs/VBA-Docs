@@ -2,16 +2,16 @@
 title: Align Controls
 ms.prod: outlook
 ms.assetid: ceb1004d-afd8-9f16-dc43-a18e94de57cc
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Align Controls
 
-1. Select the controls that you want to align to part of the dominant control. For more information, see  [Selecting Multiple Controls and the Dominant Control](select-multiple-controls-and-the-dominant-control.md).
+1. Select the controls that you want to align to part of the dominant control. For more information, see [Selecting Multiple Controls and the Dominant Control](select-multiple-controls-and-the-dominant-control.md).
     
-2. On the  **Developer** tab, in the **Arrange** group, click **Align**, and then choose one of the following:
+2. On the **Developer** tab, in the **Arrange** group, click **Align**, and then choose one of the following:
     
 
 |**Click**|**To**|

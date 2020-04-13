@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ComboBox.Column Property (Outlook Forms Script)
 
-Returns or sets a  **Variant** that represents a single value, a column of values, or a two-dimensional array to load into a **[ComboBox](Outlook.combobox.md)**. Read/write.
+Returns or sets a **Variant** that represents a single value, a column of values, or a two-dimensional array to load into a **[ComboBox](Outlook.combobox.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**Column**(**_pvargColumn_**,  **_pvargIndex_**)
 
-_expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a **ComboBox** object.
 
 
 ## Parameters

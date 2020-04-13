@@ -19,7 +19,7 @@ Contains the font attributes (font name, font size, color, and so on) for an obj
 
 ## Remarks
 
-If you do not want to format all the text in an  **[AxisTitle](PowerPoint.AxisTitle.md)**, **[ChartTitle](PowerPoint.ChartTitle.md)**, **[DataLabel](PowerPoint.DataLabel.md)**, or **[DisplayUnitLabel](PowerPoint.DisplayUnitLabel.md)** object the same way, use the **Characters** property of that object to first return a subset of the text as a **[ChartCharacters](PowerPoint.ChartCharacters.md)** object. Then use the **[Font](PowerPoint.ChartCharacters.Font.md)** property of the **ChartCharacters** object to return a **ChartFont** object you can use to format the subset of text, as needed.
+If you do not want to format all the text in an **[AxisTitle](PowerPoint.AxisTitle.md)**, **[ChartTitle](PowerPoint.ChartTitle.md)**, **[DataLabel](PowerPoint.DataLabel.md)**, or **[DisplayUnitLabel](PowerPoint.DisplayUnitLabel.md)** object the same way, use the **Characters** property of that object to first return a subset of the text as a **[ChartCharacters](PowerPoint.ChartCharacters.md)** object. Then use the **[Font](PowerPoint.ChartCharacters.Font.md)** property of the **ChartCharacters** object to return a **ChartFont** object you can use to format the subset of text, as needed.
 
 
 ## Example

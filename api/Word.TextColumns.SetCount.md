@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents a '[TextColumns](Word(textcolu
 
 ## Remarks
 
-You can also use the  **[Add](Word.TextColumns.Add.md)** method to add a single column to the **TextColumns** collection.
+You can also use the **[Add](Word.TextColumns.Add.md)** method to add a single column to the **TextColumns** collection.
 
 
 ## Example

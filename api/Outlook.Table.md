@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Table object (Outlook)
 
-Represents a set of item data from a  **[Folder](Outlook.Folder.md)** or **[Search](Outlook.Search.md)** object, with items as rows of the table and properties as columns of the table.
+Represents a set of item data from a **[Folder](Outlook.Folder.md)** or **[Search](Outlook.Search.md)** object, with items as rows of the table and properties as columns of the table.
 
 
 ## Remarks
 
-The  **Table** represents a read-only dynamic rowset of data in a **Folder** or **Search** object. You can use **[Folder.GetTable](Outlook.Folder.GetTable.md)** or **[Search.GetTable](Outlook.Search.GetTable.md)** to obtain a **Table** object that represents a set of items in a folder or search folder. If the **Table** object is obtained from **Folder.GetTable**, you can further specify a filter (in **[Table.Restrict](Outlook.Table.Restrict.md)**) to obtain a subset of the items in the folder. If you do not specify any filter, you will obtain all the items in the folder.
+The **Table** represents a read-only dynamic rowset of data in a **Folder** or **Search** object. You can use **[Folder.GetTable](Outlook.Folder.GetTable.md)** or **[Search.GetTable](Outlook.Search.GetTable.md)** to obtain a **Table** object that represents a set of items in a folder or search folder. If the **Table** object is obtained from **Folder.GetTable**, you can further specify a filter (in **[Table.Restrict](Outlook.Table.Restrict.md)**) to obtain a subset of the items in the folder. If you do not specify any filter, you will obtain all the items in the folder.
 
 By default, each item in the returned  **Table** contains only a default subset of its properties. You can regard each row of a **Table** as an item in the folder, each column as a property of the item, and the **Table** as an in-memory lightweight rowset that allows fast enumeration and filtering of items in the folder. Although additions and deletions of the underlying folder are reflected by the rows in the **Table**, the **Table** does not support any events for adding, changing, and removing of rows. If you require a writeable object from the **Table** row, obtain the Entry ID for that row from the default EntryID column in the **Table** and then use the **[GetItemFromID](Outlook.NameSpace.GetItemFromID.md)** method of the **[NameSpace](Outlook.NameSpace.md)** object to obtain a full item, such as a **[MailItem](Outlook.MailItem.md)** or **[ContactItem](Outlook.ContactItem.md)**, that supports read-write operations. For more information on default columns in a **Table**, see [Default Properties Displayed in a Table Object](../outlook/How-to/Search-and-Filter/default-properties-displayed-in-a-table-object.md).
 

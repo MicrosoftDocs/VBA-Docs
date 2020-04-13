@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Series](Word.Series.md) object.
 | _Type_|Optional| **[XlDataLabelsType](Word.xldatalabelstype.md)**|The type of data label to apply.|
 | _LegendKey_|Optional| **Variant**| **True** to show the legend key next to the point. The default is **False**.|
 | _AutoText_|Optional| **Variant**| **True** if the object automatically generates appropriate text based on content.|
-| _HasLeaderLines_|Optional| **Variant**|For the  **[Chart](Word.Chart.md)** and **[Series](Word.Series.md)** objects, **True** if the series has leader lines.|
+| _HasLeaderLines_|Optional| **Variant**|For the **[Chart](Word.Chart.md)** and **[Series](Word.Series.md)** objects, **True** if the series has leader lines.|
 | _ShowSeriesName_|Optional| **Variant**| **True** to enable the series name for the data label; otherwise, **False**.|
 | _ShowCategoryName_|Optional| **Variant**| **True** to enable the category name for the data label; otherwise, **False**.|
 | _ShowValue_|Optional| **Variant**| **True** to enable the value for the data label; otherwise, **False**.|

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.RequestedFolder property (Outlook)
 
-Returns an  **[OlDefaultFolders](Outlook.OlDefaultFolders.md)** constant that represents the type of default folder to which access is requested by a sharing request. Read-only.
+Returns an **[OlDefaultFolders](Outlook.OlDefaultFolders.md)** constant that represents the type of default folder to which access is requested by a sharing request. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_. `RequestedFolder`
 
 ## Remarks
 
-A  **[SharingItem](Outlook.SharingItem.md)** object that represents a sharing request can only request access to a default folder.
+A **[SharingItem](Outlook.SharingItem.md)** object that represents a sharing request can only request access to a default folder.
 
 
 ## See also

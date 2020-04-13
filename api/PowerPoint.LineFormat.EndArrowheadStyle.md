@@ -31,7 +31,7 @@ MsoArrowheadStyle
 
 ## Remarks
 
-The  **EndArrowheadStyle** property value can be one of these **MsoArrowheadStyle** constants.
+The **EndArrowheadStyle** property value can be one of these **MsoArrowheadStyle** constants.
 
 
 ||

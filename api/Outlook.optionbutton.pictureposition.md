@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # OptionButton.PicturePosition Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the location of the picture relative to its caption. Read/write.
+Returns or sets an **Integer** that specifies the location of the picture relative to its caption. Read/write.
 
 
 ## Syntax
 
 _expression_.**PicturePosition**
 
-_expression_ A variable that represents an  **OptionButton** object.
+_expression_ A variable that represents an **OptionButton** object.
 
 
 ## Remarks

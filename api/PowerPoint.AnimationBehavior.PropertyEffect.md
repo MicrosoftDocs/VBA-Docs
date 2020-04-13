@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AnimationBehavior.PropertyEffect property (PowerPoint)
 
-Returns a  **[PropertyEffect](PowerPoint.PropertyEffect.md)** object for a given animation behavior. Read-only.
+Returns a **[PropertyEffect](PowerPoint.PropertyEffect.md)** object for a given animation behavior. Read-only.
 
 
 ## Syntax

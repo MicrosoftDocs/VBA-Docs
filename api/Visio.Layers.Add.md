@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Layers.Add method (Visio)
 
-Adds a new  **Layer** object to a **Layers** collection.
+Adds a new **Layer** object to a **Layers** collection.
 
 
 ## Syntax

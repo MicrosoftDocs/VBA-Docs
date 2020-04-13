@@ -5,7 +5,7 @@ f1_keywords:
 - jeterr40.chm5003367
 ms.prod: access
 ms.assetid: b6b98c29-dcf4-e2f9-749b-b51c88b275e5
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You tried to append an object to a collection that already contains an object of the same name. Use the  **Refresh** method on the collection and check to see whether the object you want to append already exists, or try changing the object's **Name** property setting.
+You tried to append an object to a collection that already contains an object of the same name. Use the **Refresh** method on the collection and check to see whether the object you want to append already exists, or try changing the object's **Name** property setting.
 
 ## See also
 

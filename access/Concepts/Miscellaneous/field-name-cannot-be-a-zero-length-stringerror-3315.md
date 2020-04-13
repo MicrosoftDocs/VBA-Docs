@@ -2,7 +2,7 @@
 title: Field <name> cannot be a zero-length string. (Error 3315)
 ms.prod: access
 ms.assetid: 400f58a8-e55b-341f-1961-20b5eb7a27d0
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The  **AllowZeroLength** property for this field is set to **False**, prohibiting the entry of a zero-length string in the field. Enter a different value in the field.
+The **AllowZeroLength** property for this field is set to **False**, prohibiting the entry of a zero-length string in the field. Enter a different value in the field.
 
 ## See also
 

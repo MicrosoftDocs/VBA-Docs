@@ -32,7 +32,7 @@ _expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRe
 
 ## Remarks
 
-Returns the reply as a  **[MailItem](Outlook.MailItem.md)** object.
+Returns the reply as a **[MailItem](Outlook.MailItem.md)** object.
 
 
 ## See also

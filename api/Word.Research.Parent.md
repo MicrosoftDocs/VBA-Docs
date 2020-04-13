@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Research.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Research** object.
+Returns an **Object** that represents the parent object of the specified **Research** object.
 
 
 ## Syntax

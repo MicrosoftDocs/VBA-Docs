@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folder.GetTable method (Outlook)
 
-Obtains a  **[Table](Outlook.Table.md)** object that contains items filtered by _Filter_.
+Obtains a **[Table](Outlook.Table.md)** object that contains items filtered by _Filter_.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ _expression_ A variable that represents a '[Folder](Outlook.Folder.md)' object.
 
 ## Return value
 
-A  **Table** that contains items in the parent **[Folder](Outlook.Folder.md)** that meet the criteria in _Filter_. By default, _TableContents_ is **olUserItems** and the returned **Table** contains only the filtered items that are not hidden.
+A **Table** that contains items in the parent **[Folder](Outlook.Folder.md)** that meet the criteria in _Filter_. By default, _TableContents_ is **olUserItems** and the returned **Table** contains only the filtered items that are not hidden.
 
 
 ## Remarks

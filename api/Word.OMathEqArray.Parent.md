@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathEqArray.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **OMathEqArray** object.
+Returns an **Object** that represents the parent object of the specified **OMathEqArray** object.
 
 
 ## Syntax

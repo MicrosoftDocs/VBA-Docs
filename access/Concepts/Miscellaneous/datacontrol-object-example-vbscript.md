@@ -2,7 +2,7 @@
 title: DataControl object example (VBScript)
 ms.prod: access
 ms.assetid: 8e7b613c-6dfc-5c47-5f96-67b7c18d294f
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeUser.FirstName property (Outlook)
 
-Returns a  **String** representing the first name of the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
+Returns a **String** representing the first name of the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 
 
 ## Syntax

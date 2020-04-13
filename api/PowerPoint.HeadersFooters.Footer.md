@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # HeadersFooters.Footer property (PowerPoint)
 
-Returns a  **[HeaderFooter](PowerPoint.HeaderFooter.md)** object that represents the footer that appears at the bottom of a slide or in the lower-left corner of a notes page, handout, or outline. Read-only.
+Returns a **[HeaderFooter](PowerPoint.HeaderFooter.md)** object that represents the footer that appears at the bottom of a slide or in the lower-left corner of a notes page, handout, or outline. Read-only.
 
 
 ## Syntax

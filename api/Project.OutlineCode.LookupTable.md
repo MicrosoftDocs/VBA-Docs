@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # OutlineCode.LookupTable property (Project)
 
-Gets a  **[LookupTable](Project.lookuptable.md)** collection of lookup table entries for the outline code. Read-only **LookupTable**.
+Gets a **[LookupTable](Project.lookuptable.md)** collection of lookup table entries for the outline code. Read-only **LookupTable**.
 
 
 ## Syntax
@@ -23,6 +23,6 @@ _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.m
 
 ## Remarks
 
-The  **LookupTable** property returns nothing if the code shares a lookup table from another outline code.
+The **LookupTable** property returns nothing if the code shares a lookup table from another outline code.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

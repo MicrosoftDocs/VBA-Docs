@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ListEntry.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **ListEntry** object.
+Returns an **Object** that represents the parent object of the specified **ListEntry** object.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.FilePageSetup method (Project)
 
-Displays the  **Page Setup** dialog box. Equivalent to clicking **Page Setup** on the **File** menu.
+Displays the **Page Setup** dialog box. Equivalent to clicking **Page Setup** on the **File** menu.
 
 
 ## Syntax

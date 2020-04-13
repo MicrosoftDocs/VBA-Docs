@@ -11,20 +11,17 @@ ms.date: 08/14/2019
 localization_priority: Priority
 ---
 
-
 # Range.Copy method (Excel)
 
 Copies the range to the specified range or to the Clipboard.
 
 [!include[Add-ins note](~/includes/addinsnote.md)]
 
-
 ## Syntax
 
 _expression_.**Copy** (_Destination_)
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
-
 
 ## Parameters
 
@@ -35,7 +32,6 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 ## Return value
 
 Variant
-
 
 ## Example
 
@@ -77,8 +73,5 @@ Public Sub CopyRows()
     Next x 
 End Sub
 ```
-
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

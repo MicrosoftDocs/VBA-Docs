@@ -24,23 +24,23 @@ The default property of a **Section** object is **Row**.
 
 ## Events
 
--  [CellChanged](Visio.Section.CellChanged.md)
--  [FormulaChanged](Visio.Section.FormulaChanged.md)
+- [CellChanged](Visio.Section.CellChanged.md)
+- [FormulaChanged](Visio.Section.FormulaChanged.md)
 
 ## Properties
 
--  [Application](Visio.Section.Application.md)
--  [ContainingMasterID](Visio.Section.ContainingMasterID.md)
--  [ContainingPageID](Visio.Section.ContainingPageID.md)
--  [Count](Visio.Section.Count.md)
--  [EventList](Visio.Section.EventList.md)
--  [Index](Visio.Section.Index.md)
--  [ObjectType](Visio.Section.ObjectType.md)
--  [PersistsEvents](Visio.Section.PersistsEvents.md)
--  [Row](Visio.Section.Row.md)
--  [Shape](Visio.Section.Shape.md)
--  [Stat](Visio.Section.Stat.md)
--  [Style](Visio.Section.Style.md)
+- [Application](Visio.Section.Application.md)
+- [ContainingMasterID](Visio.Section.ContainingMasterID.md)
+- [ContainingPageID](Visio.Section.ContainingPageID.md)
+- [Count](Visio.Section.Count.md)
+- [EventList](Visio.Section.EventList.md)
+- [Index](Visio.Section.Index.md)
+- [ObjectType](Visio.Section.ObjectType.md)
+- [PersistsEvents](Visio.Section.PersistsEvents.md)
+- [Row](Visio.Section.Row.md)
+- [Shape](Visio.Section.Shape.md)
+- [Stat](Visio.Section.Stat.md)
+- [Style](Visio.Section.Style.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

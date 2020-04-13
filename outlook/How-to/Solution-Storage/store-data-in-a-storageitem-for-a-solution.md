@@ -2,7 +2,7 @@
 title: Store Data in a StorageItem for a Solution
 ms.prod: outlook
 ms.assetid: 75adfdbe-1c4d-fbd0-22ea-8f8fd5e212a5
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -14,14 +14,14 @@ This topic describes how to store private application data in solution storage p
 
 1. Determine the folder where you would like to store your application data. 
     
-     **Note**  Because solution storage is created as hidden items in a folder, you can only store solution data if the store provider supports hidden items and the client has rights to write to that folder.
-2. Use  **[Folder.GetStorage](../../../api/Outlook.Folder.GetStorage.md)** to obtain either an existing **[StorageItem](../../../api/Outlook.StorageItem.md)** object or a new **StorageItem** object if one does not already exist.
+   **Note** Because solution storage is created as hidden items in a folder, you can only store solution data if the store provider supports hidden items and the client has rights to write to that folder.
+2. Use **[Folder.GetStorage](../../../api/Outlook.Folder.GetStorage.md)** to obtain either an existing **[StorageItem](../../../api/Outlook.StorageItem.md)** object or a new **StorageItem** object if one does not already exist.
     
-3. Use  **[StorageItem.Size](../../../api/Outlook.StorageItem.Size.md)** to determine if the **StorageItem** is new. If it is, then use the **[Add](../../../api/Outlook.UserProperties.Add.md)** method of **[StorageItem.UserProperties](../../../api/Outlook.StorageItem.UserProperties.md)** to create a custom property **Order Number**.
+3. Use **[StorageItem.Size](../../../api/Outlook.StorageItem.Size.md)** to determine if the **StorageItem** is new. If it is, then use the **[Add](../../../api/Outlook.UserProperties.Add.md)** method of **[StorageItem.UserProperties](../../../api/Outlook.StorageItem.UserProperties.md)** to create a custom property **Order Number**.
     
-4. Set the  **Order Number** property. This assumes that an existing **StorageItem** already has the custom property **Order Number** defined.
+4. Set the **Order Number** property. This assumes that an existing **StorageItem** already has the custom property **Order Number** defined.
     
-5. Use  **[StorageItem.Save](../../../api/Outlook.StorageItem.Save.md)** to save the **StorageItem** object as a hidden item in the folder.
+5. Use **[StorageItem.Save](../../../api/Outlook.StorageItem.Save.md)** to save the **StorageItem** object as a hidden item in the folder.
     
 
 ```vb

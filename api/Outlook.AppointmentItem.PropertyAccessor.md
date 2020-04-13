@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.PropertyAccessor property (Outlook)
 
-Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[AppointmentItem](Outlook.AppointmentItem.md)** object. Read-only.
+Returns a **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[AppointmentItem](Outlook.AppointmentItem.md)** object. Read-only.
 
 
 ## Syntax

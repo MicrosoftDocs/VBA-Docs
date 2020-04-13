@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Cell](Word.Cell.md)' object.
 
 ## Remarks
 
-The setting of the  **TopPadding** property for a single cell overrides the setting of the **TopPadding** property for the entire table.
+The setting of the **TopPadding** property for a single cell overrides the setting of the **TopPadding** property for the entire table.
 
 
 ## Example

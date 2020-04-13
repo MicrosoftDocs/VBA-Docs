@@ -44,7 +44,7 @@ To remove protection from the active document, use the  [Permission.RemoveAll](h
 
 ## Managing user access to an IRM-protected document
 
-To give permissions on the active document to a specified user, use the  **Permission.Add** method. The **Permission** property can be one or a combination of **msoPermission** constants from the following table.
+To give permissions on the active document to a specified user, use the **Permission.Add** method. The **Permission** property can be one or a combination of **msoPermission** constants from the following table.
 
 
 ****
@@ -57,14 +57,14 @@ To give permissions on the active document to a specified user, use the  **Permi
 | **msoPermissionEdit**|Edit access|
 | **msoPermission Save**|Save access|
 | **msoPermissionExtract**|Copy access, if the user also has read access|
-| **msoPermissionChange**|Access to view, edit, copy, and save but not to print the document. This is equivalent to  **msoPermissionView** + **msoPermissionEdit** + **msoPermissionSave** + **msoPermissionExtract**.|
+| **msoPermissionChange**|Access to view, edit, copy, and save but not to print the document. This is equivalent to **msoPermissionView** + **msoPermissionEdit** + **msoPermissionSave** + **msoPermissionExtract**.|
 | **msoPermissionPrint**|Print access|
 | **msoPermissionObjModel**|A user can access the document programmatically. All users need this permission to work with a protected document or to check their permissions on the document.|
 | **msoPermissionFullControl**|Full control over the document. All permissions are enabled.|
 
 To check permissions for a user, use the  [UserPermission.Permission](https://msdn.microsoft.com/library/office/ff862094%28v=office.15%29.aspx) property.
 
-To apply permissions by using an administrative policy, use the  [Permission.ApplyPolicy](https://msdn.microsoft.com/library/office/ff864678%28v=office.15%29.aspx) method. Use the **PermissionFromPolicy**,  **PolicyName**, and  **PolicyDescription** properties to return policy information.
+To apply permissions by using an administrative policy, use the  [Permission.ApplyPolicy](https://msdn.microsoft.com/library/office/ff864678%28v=office.15%29.aspx) method. Use the **PermissionFromPolicy**, **PolicyName**, and **PolicyDescription** properties to return policy information.
 
 To remove permissions for a specified user, use the  [UserPermission.Remove](https://msdn.microsoft.com/library/office/ff864865%28v=office.15%29.aspx) method. To remove all restrictions on the active document, use the [Permission.RemoveAll](https://msdn.microsoft.com/library/office/ff861135%28v=office.15%29.aspx) method.
 
@@ -74,11 +74,11 @@ To remove permissions for a specified user, use the  [UserPermission.Remove](htt
 To access a protected document, a user needs the following:
 
 
--  **msoPermissionObjModel**
+- **msoPermissionObjModel**
     
 - The specific IRM permissions for any method or event that is used.
     
-The following tables show the required permissions. Use the corresponding  **msoPermission** constants from the previous section. For almost all APIs, the user needs the Edit (**msoPermissionEdit**) permission. Note that if the user has Full Control (**msoPermissionFullControl**), all APIs are enabled.
+The following tables show the required permissions. Use the corresponding **msoPermission** constants from the previous section. For almost all APIs, the user needs the Edit (**msoPermissionEdit**) permission. Note that if the user has Full Control (**msoPermissionFullControl**), all APIs are enabled.
 
 
 **IRM permissions for Methods**
@@ -195,7 +195,7 @@ Dim irmPermission As Office.Permission
 
 ### Remove a user's permissions example
 
-This example removes the second user's permissions on the active document from the document's  **Permission** collection.
+This example removes the second user's permissions on the active document from the document's **Permission** collection.
 
 
 ```vb

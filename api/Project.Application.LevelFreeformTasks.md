@@ -23,8 +23,8 @@ _expression_. `LevelFreeformTasks`
 
 ## Remarks
 
-The  **LevelFreeformTasks** property corresponds to the **Level manually scheduled tasks** check box in the **Resource Leveling** dialog box. To access the **Resource Leveling** dialog box, on the **Resource** tab of the Ribbon, choose **Leveling Options**.
+The **LevelFreeformTasks** property corresponds to the **Level manually scheduled tasks** check box in the **Resource Leveling** dialog box. To access the **Resource Leveling** dialog box, on the **Resource** tab of the Ribbon, choose **Leveling Options**.
 
-To set other leveling options, see the  **[LevelingOptionsEx](Project.Application.LevelingOptionsEx.md)** method.
+To set other leveling options, see the **[LevelingOptionsEx](Project.Application.LevelingOptionsEx.md)** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,7 +31,7 @@ Nothing
 
 ## Remarks
 
-To change equations to professional format, use the  **[BuildUp](Word.OMaths.BuildUp.md)** method.
+To change equations to professional format, use the **[BuildUp](Word.OMaths.BuildUp.md)** method.
 
 
 ## See also

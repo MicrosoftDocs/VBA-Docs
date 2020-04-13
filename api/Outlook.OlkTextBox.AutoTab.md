@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTextBox.AutoTab property (Outlook)
 
-Returns or sets a  **Boolean** that specifies if a tab is inserted automatically when the control has been filled to the maximum length specified. Read/write.
+Returns or sets a **Boolean** that specifies if a tab is inserted automatically when the control has been filled to the maximum length specified. Read/write.
 
 
 ## Syntax

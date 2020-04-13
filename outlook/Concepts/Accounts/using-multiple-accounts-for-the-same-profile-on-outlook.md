@@ -2,7 +2,7 @@
 title: Using Multiple Accounts for the Same Profile on Outlook
 ms.prod: outlook
 ms.assetid: 9e06e076-d62a-37c8-4502-709da5a0b104
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -11,7 +11,7 @@ localization_priority: Normal
 
 You can sign in to Outlook by using a profile that specifies one or more accounts associated with different delivery stores. For a given session, the **NameSpace** object has members that maintain and access information for the primary Exchange account, and the [Accounts](../../../api/Outlook.NameSpace.Accounts.md) property of the [NameSpace](../../../api/Outlook.NameSpace.md) object holds information for all the accounts defined for the session's profile. 
 
-The **NameSpace.Accounts** property returns an [Accounts](../../../api/Outlook.Accounts.md) collection for the current profile, tracking information for all accounts including Exchange, IMAP, and POP3 accounts, each of which can be associated with a different delivery store. To identify the primary Exchange account in the **Accounts** collection for a session, look for the account that has the [ExchangeStoreType](../../../api/Outlook.Store.ExchangeStoreType.md) property of the store (that is specified by **[Account.DeliveryStore](../../../api/Outlook.Account.DeliveryStore.md)**) equal to  **OlExchangeStoreType.olPrimaryExchangeMailbox**.
+The **NameSpace.Accounts** property returns an [Accounts](../../../api/Outlook.Accounts.md) collection for the current profile, tracking information for all accounts including Exchange, IMAP, and POP3 accounts, each of which can be associated with a different delivery store. To identify the primary Exchange account in the **Accounts** collection for a session, look for the account that has the [ExchangeStoreType](../../../api/Outlook.Store.ExchangeStoreType.md) property of the store (that is specified by **[Account.DeliveryStore](../../../api/Outlook.Account.DeliveryStore.md)**) equal to **OlExchangeStoreType.olPrimaryExchangeMailbox**.
 
 ```vb
 Account.DeliveryStore.ExchangeStoreType = OlExchangeStoreType.olPrimaryExchangeMailbox
@@ -39,12 +39,12 @@ The following table compares members of the **NameSpace** object and members of 
 
 If you are operating with multiple accounts in the current profile, see the following tasks:
 
--  [How to: Obtain Information for Multiple Accounts](obtain-information-for-multiple-accounts.md)
-    
--  [How to: Identify a Folder with an Account](identify-a-folder-with-an-account.md)
-    
--  [How to: Create a Sendable Item for a Specific Account Based on the Current Folder](create-a-sendable-item-for-a-specific-account-based-on-the-current-folder-outloo.md)
-    
--  [How to: Identify a Global Address List or a Set of Address Lists with a Store](../Address-Book/identify-the-global-address-list-or-a-set-of-address-lists-with-a-store.md)
+- [How to: Obtain Information for Multiple Accounts](obtain-information-for-multiple-accounts.md)
+
+- [How to: Identify a Folder with an Account](identify-a-folder-with-an-account.md)
+
+- [How to: Create a Sendable Item for a Specific Account Based on the Current Folder](create-a-sendable-item-for-a-specific-account-based-on-the-current-folder-outloo.md)
+
+- [How to: Identify a Global Address List or a Set of Address Lists with a Store](../Address-Book/identify-the-global-address-list-or-a-set-of-address-lists-with-a-store.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # CostRateTable.PayRates property (Project)
 
-Gets a  **[PayRates](Project.PayRate.md)** collection that represents the various pay rates on the cost rate table for a resource. Read-only **PayRates**.
+Gets a **[PayRates](Project.PayRate.md)** collection that represents the various pay rates on the cost rate table for a resource. Read-only **PayRates**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_ A variable that represents a [CostRateTable](./Project.CostRateTabl
 
 ## Remarks
 
-For the  **Resource** object, the **PayRates** property returns pay rates for cost rate table A, the default table.
+For the **Resource** object, the **PayRates** property returns pay rates for cost rate table A, the default table.
 
 
 ## Example

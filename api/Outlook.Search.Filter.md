@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Search.Filter property (Outlook)
 
-Returns a  **String** value that represents the DASL statement used to restrict the search to a specified subset of data. Read-only
+Returns a **String** value that represents the DASL statement used to restrict the search to a specified subset of data. Read-only
 
 
 ## Syntax
@@ -54,7 +54,7 @@ sFilter = "[CompanyName] = " & Chr(34) & "Microsoft" & Chr(34)
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates a new  **[Search](Outlook.Search.md)** object. The event subroutine fires after the search has finished and displays the **[Tag](Outlook.Search.Tag.md)** and **Filter** properties of the **Search** object in addition to the results of the search.
+The following Microsoft Visual Basic for Applications (VBA) example creates a new **[Search](Outlook.Search.md)** object. The event subroutine fires after the search has finished and displays the **[Tag](Outlook.Search.Tag.md)** and **Filter** properties of the **Search** object in addition to the results of the search.
 
 
 ```vb
@@ -79,7 +79,7 @@ Sub SearchInboxFolder()
 End Sub
 ```
 
-Use an  **[AdvancedSearchComplete](Outlook.Application.AdvancedSearchComplete.md)** event subroutine to ensure the integrity of the data stored in the **Search** object.
+Use an **[AdvancedSearchComplete](Outlook.Application.AdvancedSearchComplete.md)** event subroutine to ensure the integrity of the data stored in the **Search** object.
 
 
 

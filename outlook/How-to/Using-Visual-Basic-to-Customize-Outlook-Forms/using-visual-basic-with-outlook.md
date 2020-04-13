@@ -5,7 +5,7 @@ f1_keywords:
 - olfm10.chm3077137
 ms.prod: outlook
 ms.assetid: ddcdada6-7dc1-1c7d-0165-27f8b353662e
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,7 @@ You can use Visual Basic to customize and extend Outlook. You can control Outloo
 
 Visual Basic is a full-featured programming language you can use to create stand-alone applications or dynamic-link libraries (DLLs) that extend other applications. Visual Basic for Applications is a subset of Visual Basic that is run within an application to extend its capabilities. VBScript is a simplified version of Visual Basic for Applications and is run within an Outlook item. In all cases, these programming languages control Outlook through its object model.
 
-Learn about the  [Outlook object model](about-the-object-environment.md).
+Learn about the [Outlook object model](about-the-object-environment.md).
 
 If you want to create a separate application that accesses data stored by Outlook and uses Outlook to send and receive messages, use Visual Basic to create the application. You can also use other programming languages, such as C++, to control Outlook through its object model. You can create a DLL that can extend Outlook as a COM add-in. One application of COM add-ins is to program form regions and create custom forms. 
 
@@ -26,9 +26,9 @@ While you use an add-in to extend form regions in a custom form, you can extend 
 
 Because VBScript code is associated with a particular item, code that responds to events in specific items (such as when a particular item is opened or a value in a field is changed) is easiest to write using VBScript. If, on the other hand, you want your program to respond to events that occur in the application, in Windows Explorer, in folders, or in all items, then you should write your program using Visual Basic or Visual Basic for Applications.
 
-Code written for Visual Basic or Visual Basic for Applications often does not work in VBScript without modification. For example, you must replace all built-in constants written in Visual Basic for Applications with the literal numeric values of those constants in VBScript. And VBScript uses only the  **Variant** data type.
-Learn about  [constants and variables in VBScript](constants-and-variables-in-vbscript.md).
-In Outlook Visual Basic for Applications and VBScript, you do not need to call  **[CreateObject](../../../api/Outlook.Application.CreateObject.md)** or **GetObject** to obtain an **[Application](../../../api/Outlook.Application.md)** object. For example, the following code displays the Tasks folder:
+Code written for Visual Basic or Visual Basic for Applications often does not work in VBScript without modification. For example, you must replace all built-in constants written in Visual Basic for Applications with the literal numeric values of those constants in VBScript. And VBScript uses only the **Variant** data type.
+Learn about [constants and variables in VBScript](constants-and-variables-in-vbscript.md).
+In Outlook Visual Basic for Applications and VBScript, you do not need to call **[CreateObject](../../../api/Outlook.Application.CreateObject.md)** or **GetObject** to obtain an **[Application](../../../api/Outlook.Application.md)** object. For example, the following code displays the Tasks folder:
 
 
 
@@ -37,7 +37,7 @@ Set olMAPI = Application.GetNameSpace("MAPI")
 olMAPI.GetDefaultFolder(13).Display
 ```
 
-In Visual Basic or Visual Basic for Applications in other applications, you must either explicitly create the  **Application** object, as shown in the following code:
+In Visual Basic or Visual Basic for Applications in other applications, you must either explicitly create the **Application** object, as shown in the following code:
 
 
 
@@ -47,8 +47,8 @@ Set olMAPI = myOlApp.GetNameSpace("MAPI")
 olMAPI.GetDefaultFolder(olFolderTasks).Display
 ```
 
-or use the  **Application** object that is passed to the **OnConnection** event of the add-in.
+or use the **Application** object that is passed to the **OnConnection** event of the add-in.
 
- **Note**  The  **Application** object returned from calling the **[CreateObject](../../../api/Outlook.Application.CreateObject.md)** method and any of its subordinate objects, properties, and methods are not trusted. For more information on using a trusted **Application** object in a COM add-in, see [Security Behavior of the Outlook Object Model](../Security/security-behavior-of-the-outlook-object-model.md).
+ **Note** The **Application** object returned from calling the **[CreateObject](../../../api/Outlook.Application.CreateObject.md)** method and any of its subordinate objects, properties, and methods are not trusted. For more information on using a trusted **Application** object in a COM add-in, see [Security Behavior of the Outlook Object Model](../Security/security-behavior-of-the-outlook-object-model.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

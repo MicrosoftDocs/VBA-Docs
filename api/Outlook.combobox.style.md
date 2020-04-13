@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ComboBox.Style Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies how the user can choose or set the control's value. Read/write.
+Returns or sets an **Integer** that specifies how the user can choose or set the control's value. Read/write.
 
 
 ## Syntax
 
 _expression_.**Style**
 
-_expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a **ComboBox** object.
 
 
 ## Remarks
@@ -30,7 +30,7 @@ The settings of the  **Style** property are:
 
 |Value|Description|
 |:-----|:-----|
-|0|The  **ComboBox** behaves as a drop-down combo box. The user can type a value in the edit region or select a value from the drop-down list (default).|
-|2|The  **ComboBox** behaves as a list box. The user must choose a value from the list.|
+|0|The **ComboBox** behaves as a drop-down combo box. The user can type a value in the edit region or select a value from the drop-down list (default).|
+|2|The **ComboBox** behaves as a list box. The user must choose a value from the list.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

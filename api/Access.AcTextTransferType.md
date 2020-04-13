@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.AcTextTransferType
 ms.assetid: 56aeb63e-e249-9267-3184-9a370f766fd2
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

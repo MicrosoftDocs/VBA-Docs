@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskRequestItem.ConversationID property (Outlook)
 
-Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object that the **[TaskRequestItem](Outlook.TaskRequestItem.md)** object belongs to. Read-only.
+Returns a **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object that the **[TaskRequestItem](Outlook.TaskRequestItem.md)** object belongs to. Read-only.
 
 
 ## Syntax

@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents a **[ShadowFormat](Word.Shadow
 
 ## Remarks
 
-Use the  **[OffsetX](Word.ShadowFormat.OffsetX.md)** property to set the absolute horizontal shadow offset.
+Use the **[OffsetX](Word.ShadowFormat.OffsetX.md)** property to set the absolute horizontal shadow offset.
 
 
 ## Example

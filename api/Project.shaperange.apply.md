@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # ShapeRange.Apply method (Project)
-Applies formatting to a shape range, where the formatting information has been copied by using the  **[PickUp](Project.shape.pickup.md)** method.
+Applies formatting to a shape range, where the formatting information has been copied by using the **[PickUp](Project.shape.pickup.md)** method.
 
 ## Syntax
 

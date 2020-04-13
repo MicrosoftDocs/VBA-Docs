@@ -14,14 +14,14 @@ A collection of  **HeadingStyle** objects that represent the styles used to comp
 
 ## Remarks
 
-Use the  **HeadingStyles** property to return the **HeadingStyles** collection. The following example displays the number of items in the **HeadingStyles** collection for the first table of contents in the active document.
+Use the **HeadingStyles** property to return the **HeadingStyles** collection. The following example displays the number of items in the **HeadingStyles** collection for the first table of contents in the active document.
 
 
 ```vb
 MsgBox ActiveDocument.TablesOfContents(1).HeadingStyles.Count
 ```
 
-Use the  **Add** method to add a style to the **HeadingStyles** collection. The following example adds a table of contents at the beginning of the active document and then adds the Title style to the list of styles used to build a table of contents.
+Use the **Add** method to add a style to the **HeadingStyles** collection. The following example adds a table of contents at the beginning of the active document and then adds the Title style to the list of styles used to build a table of contents.
 
 
 

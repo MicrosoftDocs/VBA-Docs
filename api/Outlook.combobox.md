@@ -5,7 +5,7 @@ f1_keywords:
 - olfm10.chm2000480
 ms.prod: outlook
 ms.assetid: 31e7c1de-ee4e-b3d9-4579-7fc6b215bad3
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -39,7 +39,7 @@ If you want more than a single line of the list to appear at all times, you migh
 
 |Name|Description|
 |:-----|:-----|
-| [AddItem](Outlook.combobox.additem.md)|For a single-column  [ComboBox](Outlook.combobox.md), the **AddItem** method adds an item to the list. For a multicolumn **ComboBox**, this method adds a row to the list.|
+| [AddItem](Outlook.combobox.additem.md)|For a single-column [ComboBox](Outlook.combobox.md), the **AddItem** method adds an item to the list. For a multicolumn **ComboBox**, this method adds a row to the list.|
 | [Clear](Outlook.combobox.clear.md)|Removes all entries in the list in a **ComboBox**.|
 | [Copy](Outlook.combobox.copy.md)|Copies the contents of an object to the Clipboard.|
 | [Cut](Outlook.combobox.cut.md)|Removes selected information from an object and transfers it to the Clipboard.|

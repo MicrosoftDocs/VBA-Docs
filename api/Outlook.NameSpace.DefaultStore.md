@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.DefaultStore property (Outlook)
 
-Returns a  **[Store](Outlook.Store.md)** object representing the default Store for the profile. Read-only.
+Returns a **[Store](Outlook.Store.md)** object representing the default Store for the profile. Read-only.
 
 
 ## Syntax

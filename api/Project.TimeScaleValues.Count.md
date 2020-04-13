@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # TimeScaleValues.Count property (Project)
 
-Gets the number of items in the  **TimeScaleValues** collection. Read-only **Long**.
+Gets the number of items in the **TimeScaleValues** collection. Read-only **Long**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_ A variable that represents a 'TimeScaleValues' object.
 
 ## Remarks
 
-Use of the  **Count** property in most collection objects is similar. For an example, see the **[Assignments.Count](Project.Assignments.Count.md)** property.
+Use of the **Count** property in most collection objects is similar. For an example, see the **[Assignments.Count](Project.Assignments.Count.md)** property.
 
 
 ## See also

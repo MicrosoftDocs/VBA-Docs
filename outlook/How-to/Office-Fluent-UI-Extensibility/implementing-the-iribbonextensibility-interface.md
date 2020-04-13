@@ -2,7 +2,7 @@
 title: Implementing the IRibbonExtensibility Interface
 ms.prod: outlook
 ms.assetid: ad798afe-b3a9-4d03-86b3-b1226d9b55c8
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -12,22 +12,22 @@ localization_priority: Normal
 A Microsoft Outlook add-in that customizes the ribbon, shortcut menus, new-item menus, or Microsoft Office Backstage view must implement the following interfaces:
 
 
--  **IDTExtensibility2**
+- **DTExtensibility2**
     
--  **[IRibbonExtensibility](../../../api/Office.IRibbonExtensibility.md)**
+- **IRibbonExtensibility](../../../api/Office.IRibbonExtensibility.md)**
     
 
 In Visual C# and Visual Basic add-ins, you must implement these interfaces in the same class.
-When you implement  **Office.IRibbonExtensibility**, use the  **IRibbonExtensibility.GetCustomUI** method to return XML markup for your custom user interface to Outlook. The way that Outlook calls **GetCustomUI** and when it calls it is unique among Microsoft Office applications:
+When you implement **ffice.IRibbonExtensibility**, use the **ibbonExtensibility.GetCustomUI** method to return XML markup for your custom user interface to Outlook. The way that Outlook calls **GetCustomUI** and when it calls it is unique among Microsoft Office applications:
 
-- Office calls  **GetCustomUI** during Outlook startup to load ribbon customizations for the explorers.
+- Office calls **etCustomUI** during Outlook startup to load ribbon customizations for the explorers.
     
-- Office calls  **GetCustomUI** to load inspector-specific ribbon customizations when the first instance of a given inspector type, such as an appointment or contact inspector, is displayed.
+- Office calls **etCustomUI** to load inspector-specific ribbon customizations when the first instance of a given inspector type, such as an appointment or contact inspector, is displayed.
     
-- Viewing an item in the Reading Pane does not cause  **GetCustomUI** to be called because the ribbon is not displayed in the Reading Pane.
+- Viewing an item in the Reading Pane does not cause **etCustomUI** to be called because the ribbon is not displayed in the Reading Pane.
     
-The ribbon ID is a string that is passed from Office to  **GetCustomUI** and that specifies the UI customization to load. Add-in developers can use this string to determine the custom XML markup to return to Outlook. You can also use the ribbon ID to determine the type of Outlook item to display.
-In some cases, such as a  **[MailItem](../../../api/Outlook.MailItem.md)** or **[PostItem](../../../api/Outlook.PostItem.md)**, Outlook calls  **GetCustomUI** once when the first compose note is displayed (where `RibbonID = Microsoft.Outlook.Mail.Compose`) and another time when the first read note is displayed (where  `RibbonID = Microsoft.Outlook.Mail.Read`).
+The ribbon ID is a string that is passed from Office to **etCustomUI** and that specifies the UI customization to load. Add-in developers can use this string to determine the custom XML markup to return to Outlook. You can also use the ribbon ID to determine the type of Outlook item to display.
+In some cases, such as a **MailItem](../../../api/Outlook.MailItem.md)** or **[PostItem](../../../api/Outlook.PostItem.md)**, Outlook calls **tCustomUI** once when the first compose note is displayed (where `RibbonID = Microsoft.Outlook.Mail.Compose`) and another time when the first read note is displayed (where  `RibbonID = Microsoft.Outlook.Mail.Read`).
 Outlook uses the following unique ribbon IDs.
 
 
@@ -58,13 +58,13 @@ Outlook uses the following unique ribbon IDs.
 |Microsoft.Outlook.Task|IPM.Task.* and IPM.TaskRequest.*|
 |Microsoft.Outlook.Explorer|Not applicable. This ribbon ID lets you return XML for explorer ribbons, shortcut menus, and Backstage view.|
 
- **Note**  Sticky notes do not implement the ribbon, so IPM.StickyNote is not listed in the table of ribbon IDs and message classes.
+ **Note** Sticky notes do not implement the ribbon, so IPM.StickyNote is not listed in the table of ribbon IDs and message classes.
 
-For all of the ribbon ID values except for Microsoft.Outlook.Explorer, notice that the corresponding message class is listed as **IPM.Type.** in the table. That means that either the first instance of the base message class (for example, IPM.Contact) or of a derived custom message class (IPM.Contact.ShoeStore) that appears in an inspector will cause Outlook to call  **GetCustomUI**. 
+For all of the ribbon ID values except for Microsoft.Outlook.Explorer, notice that the corresponding message class is listed as **IPM.Type.** in the table. That means that either the first instance of the base message class (for example, IPM.Contact) or of a derived custom message class (IPM.Contact.ShoeStore) that appears in an inspector will cause Outlook to call **etCustomUI**. 
 
-Because a base message class shares the same ribbon XML with the custom message classes that are derived from it, and because Outlook calls  **GetCustomUI** only one time per ribbon ID, you cannot specify a ribbon XML markup that is applied exclusively to a derived custom message class, and not to the base message class. However, if you want controls to appear in the ribbon on inspectors for one custom message class and not all other message classes with the same base message class, do the following:
+Because a base message class shares the same ribbon XML with the custom message classes that are derived from it, and because Outlook calls **etCustomUI** only one time per ribbon ID, you cannot specify a ribbon XML markup that is applied exclusively to a derived custom message class, and not to the base message class. However, if you want controls to appear in the ribbon on inspectors for one custom message class and not all other message classes with the same base message class, do the following:
 
-1. In  **GetCustomUI**, return the XML markup for the ribbon ID for the custom message class (for example, IPM.Contact.ShoeStore) to the ribbon. All ribbons that are used by items with the same base message class (for example, IPM.Contact) will contain the added controls.
+1. In **etCustomUI**, return the XML markup for the ribbon ID for the custom message class (for example, IPM.Contact.ShoeStore) to the ribbon. All ribbons that are used by items with the same base message class (for example, IPM.Contact) will contain the added controls.
     
 2.  In the ribbon XML, specify **[IRibbonControl.Context](../../../api/Office.IRibbonControl.Context.md)** callbacks for each tab, group, and control that is specific to the custom message class. These callbacks will be used to display the controls for the custom message class and to hide the controls for the base message class and all other message classes with the same base message class.
     
@@ -76,7 +76,7 @@ To customize the ribbon on all or multiple Outlook message classes, use the foll
     
 - To customize the ribbon on multiple Outlook inspectors, you might have to supply separate ribbon XML for different ribbon IDs depending upon the tab name.
     
-For more information, including examples, about customizing explorer and inspector ribbons, shortcut menus, and Backstage view, see  [Extending the User Interface in Outlook 2010](../../../api/overview/Outlook.md) on the MSDN Web site.
+For more information, including examples, about customizing explorer and inspector ribbons, shortcut menus, and Backstage view, see [Extending the User Interface in Outlook 2010](../../../api/overview/Outlook.md) on the MSDN Web site.
 
 ## See also
 

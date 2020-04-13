@@ -26,7 +26,7 @@ _expression_.**Visible**
 
 ## Remarks
 
-Some methods and properties may be unavailable if the Visible property is  **False**.
+Some methods and properties may be unavailable if the Visible property is **False**.
 
 
 ## See also

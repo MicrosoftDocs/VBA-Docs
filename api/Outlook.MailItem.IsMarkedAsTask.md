@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.IsMarkedAsTask property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the **[MailItem](Outlook.MailItem.md)** is marked as a task. Read-only.
+Returns a **Boolean** value that indicates whether the **[MailItem](Outlook.MailItem.md)** is marked as a task. Read-only.
 
 
 ## Syntax

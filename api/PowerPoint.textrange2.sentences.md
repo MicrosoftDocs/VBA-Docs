@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # TextRange2.Sentences property (PowerPoint)
 
-Returns a  **TextRange2** object that represents the specified subset of text sentences. Read-only.
+Returns a **TextRange2** object that represents the specified subset of text sentences. Read-only.
 
 
 ## Syntax

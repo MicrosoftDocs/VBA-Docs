@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactsModule.Position property (Outlook)
 
-Returns or sets a  **Long** value that represents the ordinal position of the **[ContactsModule](Outlook.ContactsModule.md)** object when it is displayed in the navigation pane. Read/write.
+Returns or sets a **Long** value that represents the ordinal position of the **[ContactsModule](Outlook.ContactsModule.md)** object when it is displayed in the navigation pane. Read/write.
 
 
 ## Syntax

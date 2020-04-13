@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Assignment.Cost8 property (Project)
 
-Gets or sets the value of the  **Cost8** roll-down custom field for the assignment. Read/write **Variant**.
+Gets or sets the value of the **Cost8** roll-down custom field for the assignment. Read/write **Variant**.
 
 
 ## Syntax

@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # TimeLine object (PowerPoint)
 
-Stores animation information for a  **Master**, **Slide**, or **SlideRange** object.
+Stores animation information for a **Master**, **Slide**, or **SlideRange** object.
 
 
 ## Example
 
 Use the [TimeLine](PowerPoint.Master.TimeLine.md)property of the  **[Master](PowerPoint.Master.md)**, **[Slide](PowerPoint.Slide.md)**, or **[SlideRange](PowerPoint.SlideRange.md)** object to return a **TimeLine** object.
 
-The  **TimeLine** object's **[MainSequence](PowerPoint.TimeLine.MainSequence.md)** property gains access to the main animation sequence, while the **[InteractiveSequences](PowerPoint.TimeLine.InteractiveSequences.md)** property gains access to the collection of interactive animation sequences of a slide or slide range.
+The **TimeLine** object's **[MainSequence](PowerPoint.TimeLine.MainSequence.md)** property gains access to the main animation sequence, while the **[InteractiveSequences](PowerPoint.TimeLine.InteractiveSequences.md)** property gains access to the collection of interactive animation sequences of a slide or slide range.
 
 To reference a timeline object, use syntax similar to these code examples:
 

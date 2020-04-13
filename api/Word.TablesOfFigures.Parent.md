@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TablesOfFigures.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **TablesOfFigures** object.
+Returns an **Object** that represents the parent object of the specified **TablesOfFigures** object.
 
 
 ## Syntax

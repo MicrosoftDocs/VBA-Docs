@@ -5,7 +5,7 @@ f1_keywords:
 - olfm10.chm3077359
 ms.prod: outlook
 ms.assetid: 9e0beb04-dc64-ad5d-ae77-8c11c11349b0
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -18,9 +18,9 @@ Perform the following steps to test simple procedures. Replace the code below wi
 
 1. Open the Script Editor. [How](using-the-script-editor.md)?
     
-2. On the  **Script** menu, click **Event Handler**.
+2. On the **Script** menu, click **Event Handler**.
     
-3. In the  **Events** box, double-click **PropertyChange**.
+3. In the **Events** box, double-click **PropertyChange**.
     
 4. Add the following code in the event:
     
@@ -31,10 +31,10 @@ Perform the following steps to test simple procedures. Replace the code below wi
 
     
     
-5. On the  **Form** menu, click **Run This Form**.
+5. On the **Form** menu, click **Run This Form**.
     
-6. Click the  **!** icon on the toolbar. The message box will appear.
+6. Click the **!** icon on the toolbar. The message box will appear.
     
-7. Click  **OK** to close the message box.
+7. Click **OK** to close the message box.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

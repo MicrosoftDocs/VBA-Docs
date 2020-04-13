@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # TaskGroups2.Add method (Project)
 
-Adds a  **[Group2](Project.Group2.md)** object to the **TaskGroups2** collection.
+Adds a **[Group2](Project.Group2.md)** object to the **TaskGroups2** collection.
 
 
 ## Syntax

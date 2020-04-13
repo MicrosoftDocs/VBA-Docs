@@ -2,7 +2,7 @@
 title: Send an email given the SMTP address of an account (Outlook)
 ms.prod: outlook
 ms.assetid: 5e5f707d-8771-bd5f-945b-58537732d99a
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -14,7 +14,7 @@ This topic shows how to create an email and send it from a Microsoft Outlook acc
 |
 ![MVP Logo](../../../images/MVPLogo_Small_ZA10349011.jpg)
 
-|Helmut Obertanner provided the following code samples. Helmut is a  [Microsoft Most Valuable Professional](https://mvp.microsoft.com/) with expertise in Microsoft Office development tools in Microsoft Visual Studio and Microsoft Office Outlook.|
+|Helmut Obertanner provided the following code samples. Helmut is a [Microsoft Most Valuable Professional](https://mvp.microsoft.com/) with expertise in Microsoft Office development tools in Microsoft Visual Studio and Microsoft Office Outlook.|
 
 
 

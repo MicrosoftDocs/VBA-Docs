@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Assistance property (Outlook)
 
-Returns an  **[IAssistance](Office.IAssistance.md)** object used to invoke help. Read-only.
+Returns an **[IAssistance](Office.IAssistance.md)** object used to invoke help. Read-only.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.ActiveWindow property (Project)
 
-Gets a  **[Window](Project.Window.md)** object that represents the active window. Read-only **Window**.
+Gets a **[Window](Project.Window.md)** object that represents the active window. Read-only **Window**.
 
 
 ## Syntax

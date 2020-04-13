@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Store.IsInstantSearchEnabled property (Outlook)
 
-Returns a  **Boolean** that indicates whether Instant Search is enabled and operational on a store. Read-only.
+Returns a **Boolean** that indicates whether Instant Search is enabled and operational on a store. Read-only.
 
 
 ## Syntax

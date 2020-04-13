@@ -48,15 +48,15 @@ You can use the **IVBUndoUnit** interface in Microsoft Visual Basic for Applicat
 
 ## Methods
 
--  [Do](Visio.IVBUndoUnit.Do.md)
--  [OnNextAdd](Visio.IVBUndoUnit.OnNextAdd.md)
+- [Do](Visio.IVBUndoUnit.Do.md)
+- [OnNextAdd](Visio.IVBUndoUnit.OnNextAdd.md)
 
 ## Properties
 
--  [Description](Visio.IVBUndoUnit.Description.md)
--  [UnitSize](Visio.IVBUndoUnit.UnitSize.md)
--  [UnitTypeCLSID](Visio.IVBUndoUnit.UnitTypeCLSID.md)
--  [UnitTypeLong](Visio.IVBUndoUnit.UnitTypeLong.md)
+- [Description](Visio.IVBUndoUnit.Description.md)
+- [UnitSize](Visio.IVBUndoUnit.UnitSize.md)
+- [UnitTypeCLSID](Visio.IVBUndoUnit.UnitTypeCLSID.md)
+- [UnitTypeLong](Visio.IVBUndoUnit.UnitTypeLong.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Selection](Word.Selection.md)** obj
 
 ## Remarks
 
-To set the  **Font** property, specify an expression that returns a **Font** object.
+To set the **Font** property, specify an expression that returns a **Font** object.
 
 
 ## Example

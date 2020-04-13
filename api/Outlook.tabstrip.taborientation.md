@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # TabStrip.TabOrientation Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the location of the tabs on a **[TabStrip](Outlook.tabstrip.md)**. Read/write.
+Returns or sets an **Integer** that specifies the location of the tabs on a **[TabStrip](Outlook.tabstrip.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**TabOrientation**
 
-_expression_ A variable that represents a  **TabStrip** object.
+_expression_ A variable that represents a **TabStrip** object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkFrameHeader.Enabled property (Outlook)
 
-Returns or sets a  **Boolean** that indicates if the control is allowed to function. Read/write.
+Returns or sets a **Boolean** that indicates if the control is allowed to function. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkFrameHeader](Outlook.OlkFrameHead
 
 ## Remarks
 
-The default value is  **False**.
+The default value is **False**.
 
 When the control is disabled, the contents of the control appear dimmed.
 

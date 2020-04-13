@@ -26,7 +26,7 @@ _expression_. `MatchSuffix`
 
 ## Remarks
 
-This property corresponds to the  **Match suffix** check box in the **Find and Replace** dialog box.
+This property corresponds to the **Match suffix** check box in the **Find and Replace** dialog box.
 
 
 ## See also

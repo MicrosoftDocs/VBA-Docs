@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 ## Return value
 
-A  **Folder** object that represents the new copy of the current folder.
+A **Folder** object that represents the new copy of the current folder.
 
 
 ## Remarks

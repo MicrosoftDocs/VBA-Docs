@@ -23,6 +23,6 @@ _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.m
 
 ## Remarks
 
-If there are no values in the lookup table, then the  **RequiredCode** property is **False** and non-writeable.
+If there are no values in the lookup table, then the **RequiredCode** property is **False** and non-writeable.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

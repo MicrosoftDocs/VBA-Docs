@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataLabel.Characters property (PowerPoint)
 
-Returns a  **[ChartCharacters](PowerPoint.ChartCharacters.md)** object that represents a range of characters within the object text. You can use the **ChartCharacters** object to format characters within a text string.
+Returns a **[ChartCharacters](PowerPoint.ChartCharacters.md)** object that represents a range of characters within the object text. You can use the **ChartCharacters** object to format characters within a text string.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ _expression_ A variable that represents a '[DataLabel](PowerPoint.DataLabel.md)'
 
 ## Remarks
 
-The  **ChartCharacters** object is not a collection.
+The **ChartCharacters** object is not a collection.
 
 
 ## See also

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Task.Activate method (Word)
 
-Activates the  **Task** object.
+Activates the **Task** object.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ _expression_ Required. A variable that represents a '[Task](Word.Task.md)' objec
 
 ## Example
 
-This example activates the Notepad application if Notepad is in the  **Tasks** collection.
+This example activates the Notepad application if Notepad is in the **Tasks** collection.
 
 
 ```vb

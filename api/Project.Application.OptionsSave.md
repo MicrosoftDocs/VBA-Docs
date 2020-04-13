@@ -48,9 +48,9 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-If an argument is omitted, the default value is specified by the corresponding setting on the  **Save** tab of the **Project Options** dialog box.
+If an argument is omitted, the default value is specified by the corresponding setting on the **Save** tab of the **Project Options** dialog box.
 
-Using the  **OptionsSave** method without specifying any arguments displays the **Project Options** dialog box with the **General** tab selected.
+Using the **OptionsSave** method without specifying any arguments displays the **Project Options** dialog box with the **General** tab selected.
 
 
 ## Example

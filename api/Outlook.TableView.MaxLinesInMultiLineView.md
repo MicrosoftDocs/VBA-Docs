@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableView.MaxLinesInMultiLineView property (Outlook)
 
-Returns or sets a  **Long** value that determines the maximum number of lines displayed in multiline mode for the **[TableView](Outlook.TableView.md)** object. Read/write.
+Returns or sets a **Long** value that determines the maximum number of lines displayed in multiline mode for the **[TableView](Outlook.TableView.md)** object. Read/write.
 
 
 ## Syntax

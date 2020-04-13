@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _strNamePath_|Optional|**String**|Name and full path of the location to which to save the database file (.mbd).|
-| _PjVisualReportsDataLevel_|Optional|**Long**|Save data level. Can be one of the  **[PjVisualReportsDataLevel](Project.PjVisualReportsDataLevel.md)** constants. Default is **pjLevelAutomatic**.|
+| _PjVisualReportsDataLevel_|Optional|**Long**|Save data level. Can be one of the **[PjVisualReportsDataLevel](Project.PjVisualReportsDataLevel.md)** constants. Default is **pjLevelAutomatic**.|
 
 ## Return value
 
@@ -45,7 +45,7 @@ The PjVisualReportsDataLevel parameter specifies the level to which the timephas
 
 ## Example
 
-Following is an example of using The  **VisualReportsSaveDatabase** method.
+Following is an example of using The **VisualReportsSaveDatabase** method.
 
 
 ```vb

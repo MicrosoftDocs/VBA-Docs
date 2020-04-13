@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Sequence.AddEffect method (PowerPoint)
 
-Returns an  **[Effect](PowerPoint.Effect.md)** object that represents a new animation effect added to a sequence of animation effects.
+Returns an **[Effect](PowerPoint.Effect.md)** object that represents a new animation effect added to a sequence of animation effects.
 
 
 ## Syntax
@@ -32,8 +32,8 @@ _expression_ A variable that represents a [Sequence](PowerPoint.Sequence.md) obj
 |:-----|:-----|:-----|:-----|
 | _Shape_|Required|**[Shape](PowerPoint.Shape.md)**|The shape to which the animation effect is added.|
 | _effectId_|Required|**[MsoAnimEffect](PowerPoint.MsoAnimEffect.md)**|The animation effect to be applied.|
-| _Level_|Optional|**[MsoAnimateByLevel](PowerPoint.MsoAnimateByLevel.md)**|For charts, diagrams, or text, the level to which the animation effect will be applied. The default value is  **msoAnimationLevelNone**.|
-| _trigger_|Optional|**[MsoAnimTriggerType](PowerPoint.MsoAnimateByLevel.md)**|The action that triggers the animation effect. The default value is  **msoAnimTriggerOnPageClick**.|
+| _Level_|Optional|**[MsoAnimateByLevel](PowerPoint.MsoAnimateByLevel.md)**|For charts, diagrams, or text, the level to which the animation effect will be applied. The default value is **msoAnimationLevelNone**.|
+| _trigger_|Optional|**[MsoAnimTriggerType](PowerPoint.MsoAnimateByLevel.md)**|The action that triggers the animation effect. The default value is **msoAnimTriggerOnPageClick**.|
 | _Index_|Optional|**Long**|The position at which the effect will be placed in the collection of animation effects. The default value is -1 (added to the end). |
 
 ## Return value

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SpellingSuggestion object (Word)
 
-Represents a single spelling suggestion for a misspelled word. The  **SpellingSuggestion** object is a member of the **[SpellingSuggestions](Word.spellingsuggestions.md)** collection. The **SpellingSuggestions** collection includes all the suggestions for a specified word or for the first word in the specified range.
+Represents a single spelling suggestion for a misspelled word. The **SpellingSuggestion** object is a member of the **[SpellingSuggestions](Word.spellingsuggestions.md)** collection. The **SpellingSuggestions** collection includes all the suggestions for a specified word or for the first word in the specified range.
 
 
 ## Remarks
@@ -29,7 +29,7 @@ If ActiveDocument.Words(1).GetSpellingSuggestions.Count <> 0 Then
 EndIf
 ```
 
-The  **Count** property for the **SpellingSuggestions** object returns 0 (zero) if the word is spelled correctly or if there are no suggestions.
+The **Count** property for the **SpellingSuggestions** object returns 0 (zero) if the word is spelled correctly or if there are no suggestions.
 
 
 ## See also

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTextBox.TextAlign property (Outlook)
 
-Returns or sets an  **[OlTextAlign](Outlook.OlTextAlign.md)** constant that specifies how text is aligned in the control. Read/write.
+Returns or sets an **[OlTextAlign](Outlook.OlTextAlign.md)** constant that specifies how text is aligned in the control. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) o
 
 ## Remarks
 
-The default value is  **olTextAlignLeft** in left-to-right languages such as English.
+The default value is **olTextAlignLeft** in left-to-right languages such as English.
 
 
 ## See also

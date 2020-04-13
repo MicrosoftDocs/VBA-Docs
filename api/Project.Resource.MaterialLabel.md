@@ -23,7 +23,7 @@ _expression_ A variable that represents a [Resource](./Project.Resource.md) obje
 
 ## Remarks
 
-The  **MaterialLabel** property does not return any meaningful information for non-material resources, such as people or machines. Setting a value returns a trappable error (error code 1101) when applied to non-material resources.
+The **MaterialLabel** property does not return any meaningful information for non-material resources, such as people or machines. Setting a value returns a trappable error (error code 1101) when applied to non-material resources.
 
 
 ## Example

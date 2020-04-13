@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # For Each can only iterate over a collection object or an array
 
-The  **For Each** construct can only be used with [collections](../../Glossary/vbe-glossary.md#collection) and [arrays](../../Glossary/vbe-glossary.md#array). This error has the following cause and solution:
+The **For Each** construct can only be used with [collections](../../Glossary/vbe-glossary.md#collection) and [arrays](../../Glossary/vbe-glossary.md#array). This error has the following cause and solution:
 
 
 

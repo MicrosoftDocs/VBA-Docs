@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableOfContents.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **TableOfContents** object.
+Returns an **Object** that represents the parent object of the specified **TableOfContents** object.
 
 
 ## Syntax

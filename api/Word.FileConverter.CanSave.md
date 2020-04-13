@@ -26,12 +26,12 @@ _expression_ A variable that represents a '[FileConverter](Word.FileConverter.md
 
 ## Remarks
 
-The  **[CanOpen](Word.FileConverter.CanOpen.md)** property returns **True** if the specified file converter can be used to open (import) files.
+The **[CanOpen](Word.FileConverter.CanOpen.md)** property returns **True** if the specified file converter can be used to open (import) files.
 
 
 ## Example
 
-This example determines whether the WordPerfect converter can be used to save files. If the return value is  **True**, the active document is saved in WordPerfect 6.x format.
+This example determines whether the WordPerfect converter can be used to save files. If the return value is **True**, the active document is saved in WordPerfect 6.x format.
 
 
 ```vb

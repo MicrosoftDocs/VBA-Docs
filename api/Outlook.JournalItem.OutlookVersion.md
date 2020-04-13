@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # JournalItem.OutlookVersion property (Outlook)
 
-Returns a  **String** indicating the major and minor version number of the Outlook application for an Outlook item. Read-only.
+Returns a **String** indicating the major and minor version number of the Outlook application for an Outlook item. Read-only.
 
 
 ## Syntax

@@ -27,10 +27,10 @@ _expression_.**Add** (_Name_, _Range_, _Description_, _InsertOptions_)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required| **String**|Specifies the name of the building block entry. Corresponds to the  **[Name](Word.BuildingBlock.Name.md)** property of the **BuildingBlock** object.|
-| _Range_|Required| **Range**|Specifies the value of the buildling block entry. Corresponds to the  **[Value](Word.BuildingBlock.Value.md)** property of the **BuildingBlock** object.|
-| _Description_|Optional| **Variant**|Specifies the description of the buildling block entry. Corresponds to the  **[Description](Word.BuildingBlock.Description.md)** property of the **BuildingBlock** object.|
-| _InsertOptions_|Optional| **[WdDocPartInsertOptions](Word.WdDocPartInsertOptions.md)**|Specifies whether the building block entry is inserted as a page, a paragraph, or inline. If omitted, the default value is  **wdInsertContent**. Corresponds to the **[InsertOptions](Word.BuildingBlock.InsertOptions.md)** property for the **BuildingBlock** object.|
+| _Name_|Required| **String**|Specifies the name of the building block entry. Corresponds to the **[Name](Word.BuildingBlock.Name.md)** property of the **BuildingBlock** object.|
+| _Range_|Required| **Range**|Specifies the value of the buildling block entry. Corresponds to the **[Value](Word.BuildingBlock.Value.md)** property of the **BuildingBlock** object.|
+| _Description_|Optional| **Variant**|Specifies the description of the buildling block entry. Corresponds to the **[Description](Word.BuildingBlock.Description.md)** property of the **BuildingBlock** object.|
+| _InsertOptions_|Optional| **[WdDocPartInsertOptions](Word.WdDocPartInsertOptions.md)**|Specifies whether the building block entry is inserted as a page, a paragraph, or inline. If omitted, the default value is **wdInsertContent**. Corresponds to the **[InsertOptions](Word.BuildingBlock.InsertOptions.md)** property for the **BuildingBlock** object.|
 
 ## Return value
 

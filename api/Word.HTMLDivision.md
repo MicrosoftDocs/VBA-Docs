@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # HTMLDivision object (Word)
 
-Represents a single HTML DIV element within a web document. The  **HTMLDivision** object is a member of the **HTMLDivisions** collection.
+Represents a single HTML DIV element within a web document. The **HTMLDivision** object is a member of the **HTMLDivisions** collection.
 
 
 ## Remarks
@@ -63,7 +63,7 @@ Sub FormatHTMLDivisions()
 End Sub
 ```
 
-HTML divisions can be nested within multiple HTML divisions. Use the  **HTMLDivisionParent** method to access a parent HTML division of the current HTML division. This example formats the borders for two HTML divisions in the active document. This example assumes that the active document is an HTML document with at least two divisions.
+HTML divisions can be nested within multiple HTML divisions. Use the **HTMLDivisionParent** method to access a parent HTML division of the current HTML division. This example formats the borders for two HTML divisions in the active document. This example assumes that the active document is an HTML document with at least two divisions.
 
 
 

@@ -41,7 +41,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-To apply a view where the change can be one of the built-in views and can be applied to a specified pane in a split view, use the  **[ViewApplyEx](Project.Application.ViewApplyEx.md)** method.
+To apply a view where the change can be one of the built-in views and can be applied to a specified pane in a split view, use the **[ViewApplyEx](Project.Application.ViewApplyEx.md)** method.
 
 
 ## Example

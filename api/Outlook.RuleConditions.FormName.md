@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleConditions.FormName property (Outlook)
 
-Returns a  **[FormNameRuleCondition](Outlook.FormNameRuleCondition.md)** object with a **[FormNameRuleCondition.ConditionType](Outlook.FormNameRuleCondition.ConditionType.md)** of **olConditionFormName**. Read-only.
+Returns a **[FormNameRuleCondition](Outlook.FormNameRuleCondition.md)** object with a **[FormNameRuleCondition.ConditionType](Outlook.FormNameRuleCondition.ConditionType.md)** of **olConditionFormName**. Read-only.
 
 
 ## Syntax

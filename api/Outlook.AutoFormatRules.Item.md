@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AutoFormatRules.Item method (Outlook)
 
-Returns an  **[AutoFormatRule](Outlook.AutoFormatRule.md)** object from the collection.
+Returns an **[AutoFormatRule](Outlook.AutoFormatRule.md)** object from the collection.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents an [AutoFormatRules](Outlook.AutoFormatR
 
 ## Return value
 
-An  **AutoFormatRule** object that represents the specified object.
+An **AutoFormatRule** object that represents the specified object.
 
 
 ## See also

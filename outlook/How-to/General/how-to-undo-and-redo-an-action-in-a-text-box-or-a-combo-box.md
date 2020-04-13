@@ -5,22 +5,22 @@ f1_keywords:
 - olfm10.chm3077161
 ms.prod: outlook
 ms.assetid: 5edb515c-d035-e8a3-8c0b-f2ddc74378fd
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Undo and Redo an Action in a Text Box or a Combo Box
 
-The following example demonstrates how to undo or redo text editing within a  **[TextBox](../../../api/Outlook.textbox.md)** or within the text area of a **[ComboBox](../../../api/Outlook.combobox.md)**. This sample checks whether an undo or redo operation can occur and then performs the appropriate action. The sample uses the  **CanUndo** and **CanRedo** properties, and the **UndoAction** and **RedoAction** methods.
+The following example demonstrates how to undo or redo text editing within a **[TextBox](../../../api/Outlook.textbox.md)** or within the text area of a **[ComboBox](../../../api/Outlook.combobox.md)**. This sample checks whether an undo or redo operation can occur and then performs the appropriate action. The sample uses the **CanUndo** and **CanRedo** properties, and the **UndoAction** and **RedoAction** methods.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.
     
-- A  **ComboBox** named ComboBox1.
+- A **ComboBox** named ComboBox1.
     
-- Two  **[CommandButton](../../../api/Outlook.commandbutton.md)** controls named CommandButton1 and CommandButton2.
+- Two **[CommandButton](../../../api/Outlook.commandbutton.md)** controls named CommandButton1 and CommandButton2.
     
 
 

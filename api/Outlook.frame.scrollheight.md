@@ -12,13 +12,13 @@ localization_priority: Normal
 
 # Frame.ScrollHeight Property (Outlook Forms Script)
 
-Returns or sets a  **Single** that specify the height, in [points](../language/glossary/vbe-glossary.md#point), of the total area that can be viewed by moving the scroll bars on the **[Frame](Outlook.frame.md)**. Read/write.
+Returns or sets a **Single** that specify the height, in [points](../language/glossary/vbe-glossary.md#point), of the total area that can be viewed by moving the scroll bars on the **[Frame](Outlook.frame.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**ScrollHeight**
 
-_expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a **Frame** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

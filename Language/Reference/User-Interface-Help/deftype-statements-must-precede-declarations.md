@@ -18,11 +18,11 @@ localization_priority: Normal
 
 - A [variable](../../Glossary/vbe-glossary.md#variable) [declaration](../../Glossary/vbe-glossary.md#declaration) precedes a **Def**_type_ statement at [module level](../../Glossary/vbe-glossary.md#module-level).
     
-    Move the  **Def**_type_ statement to precede all variable declarations.
+    Move the **Def**_type_ statement to precede all variable declarations.
     
-- A  **Def**_type_ statement appears in a [procedure](../../Glossary/vbe-glossary.md#procedure).
+- A **Def**_type_ statement appears in a [procedure](../../Glossary/vbe-glossary.md#procedure).
     
-    Move the  **Def**_type_ statement to module level, preceding all variable declarations.
+    Move the **Def**_type_ statement to module level, preceding all variable declarations.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

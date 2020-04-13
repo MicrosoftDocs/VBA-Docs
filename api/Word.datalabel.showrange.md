@@ -24,7 +24,7 @@ _expression_ A variable that represents a [DataLabel](./Word.DataLabel.md) objec
 
 ## Example
 
-The following example displays the  **Value From Cells** range field for the first data label of the first series on the first chart.
+The following example displays the **Value From Cells** range field for the first data label of the first series on the first chart.
 
 
 ```vb

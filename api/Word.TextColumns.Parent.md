@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextColumns.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **TextColumns** object.
+Returns an **Object** that represents the parent object of the specified **TextColumns** object.
 
 
 ## Syntax

@@ -5,23 +5,20 @@ f1_keywords:
 - olfm10.chm3077153
 ms.prod: outlook
 ms.assetid: 9fd9a559-ece9-26dd-047c-c3c649347257
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Add a Control to a MultiPage Control
 
-The following example uses the  **Add**,  **Clear**, and  **Remove** methods of the Microsoft Forms 2.0 **Controls** collection to add a control to and remove a control from a **[Page](../../../api/Outlook.page.md)** of a **[MultiPage](../../../api/Outlook.multipage.md)** at run time.
+The following example uses the **Add**, **Clear**, and **Remove** methods of the Microsoft Forms 2.0 **Controls** collection to add a control to and remove a control from a **[Page](../../../api/Outlook.page.md)** of a **[MultiPage](../../../api/Outlook.multipage.md)** at run time.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **MultiPage** named MultiPage1.
-    
-- Three  **[CommandButton](../../../api/Outlook.commandbutton.md)** controls named CommandButton1 through CommandButton3.
-    
+- A **MultiPage** named MultiPage1.
 
-
+- Three **[CommandButton](../../../api/Outlook.commandbutton.md)** controls named CommandButton1 through CommandButton3.
 
 ```vb
 Dim MyTextBox 

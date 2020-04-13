@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OutlineCode.CodeMask property (Project)
 
-Gets a  **[CodeMask](Project.codemask.md)** collection representing the code mask for an outline code in Project. Read-only **CodeMask**.
+Gets a **[CodeMask](Project.codemask.md)** collection representing the code mask for an outline code in Project. Read-only **CodeMask**.
 
 
 ## Syntax
@@ -26,6 +26,6 @@ _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.m
 
 ## Remarks
 
-The  **CodeMask** property returns nothing if the code shares a lookup table from another code.
+The **CodeMask** property returns nothing if the code shares a lookup table from another code.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

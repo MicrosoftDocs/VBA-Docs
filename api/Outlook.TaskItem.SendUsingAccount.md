@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskItem.SendUsingAccount property (Outlook)
 
-Returns or sets an  **[Account](Outlook.Account.md)** object that represents the account under which the **[TaskItem](Outlook.TaskItem.md)** object is to be sent. Read/write.
+Returns or sets an **[Account](Outlook.Account.md)** object that represents the account under which the **[TaskItem](Outlook.TaskItem.md)** object is to be sent. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_. `SendUsingAccount`
 
 ## Remarks
 
-The  **SendUsingAccount** property can be used to specify the account that should be used to send the **TaskItem** object when the **[Send](Outlook.TaskItem.Send(method).md)** method is called. This property returns **Null** (**Nothing** in Visual Basic) if the account specified for the **TaskItem** object no longer exists.
+The **SendUsingAccount** property can be used to specify the account that should be used to send the **TaskItem** object when the **[Send](Outlook.TaskItem.Send(method).md)** method is called. This property returns **Null** (**Nothing** in Visual Basic) if the account specified for the **TaskItem** object no longer exists.
 
 
 ## See also

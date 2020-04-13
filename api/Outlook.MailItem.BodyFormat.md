@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.BodyFormat property (Outlook)
 
-Returns or sets an  **[OlBodyFormat](Outlook.OlBodyFormat.md)** constant indicating the format of the body text. Read/write.
+Returns or sets an **[OlBodyFormat](Outlook.OlBodyFormat.md)** constant indicating the format of the body text. Read/write.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ All text formatting will be lost when the  **BodyFormat** property is switched f
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates a new  **[MailItem](Outlook.MailItem.md)** object and sets the **BodyFormat** property to **olFormatHTML**. The body text of the email item will now appear in HTML format.
+The following Microsoft Visual Basic for Applications (VBA) example creates a new **[MailItem](Outlook.MailItem.md)** object and sets the **BodyFormat** property to **olFormatHTML**. The body text of the email item will now appear in HTML format.
 
 
 ```vb

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SlideRange.Background property (PowerPoint)
 
-Returns a  **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents the slide background.
+Returns a **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents the slide background.
 
 
 ## Syntax

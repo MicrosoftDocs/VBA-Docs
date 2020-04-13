@@ -5,7 +5,7 @@ f1_keywords:
 - jeterr40.chm5003428
 ms.prod: access
 ms.assetid: 12d431c6-3610-7e06-6a01-33b1104e90c8
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -20,9 +20,9 @@ To correct the problem:
 
 1. Close the database.
     
-2. Repair the database with the  **RepairDatabase** method.
+2. Repair the database with the **RepairDatabase** method.
     
-3. Compact the database with the  **CompactDatabase** method.
+3. Compact the database with the **CompactDatabase** method.
     
 
 > [!IMPORTANT] 

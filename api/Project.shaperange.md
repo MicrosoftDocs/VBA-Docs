@@ -17,11 +17,11 @@ Project uses the same Office Art infrastructure that other Office applications u
  
 
  
-A shape range can contain a single shape or all the shapes in the report. You can include whichever shapes you want to construct a shape range. For example, you can construct a  **ShapeRange** collection that contains the first three shapes in a report, all the shapes in a report, or only the triangle shapes.
+A shape range can contain a single shape or all the shapes in the report. You can include whichever shapes you want to construct a shape range. For example, you can construct a **ShapeRange** collection that contains the first three shapes in a report, all the shapes in a report, or only the triangle shapes.
  
 
  
-Most operations that you can do with a  **Shape** object, you can also do with a **ShapeRange** object that contains only one shape. Some operations, when performed on a **ShapeRange** object that contains more than one shape, shapes of different types, or a shape that is not fully supported in Project, can cause an error. For example, if a shape range contains a rectangle and a chart, and you try to set the **Fill** property, the statement fails because a chart does not implement the **Fill** property. In other cases, for example if you use the **Rotation** property on a shape range that contains a chart and a rectangle, Project rotates the rectangle but silently ignores the chart.
+Most operations that you can do with a **Shape** object, you can also do with a **ShapeRange** object that contains only one shape. Some operations, when performed on a **ShapeRange** object that contains more than one shape, shapes of different types, or a shape that is not fully supported in Project, can cause an error. For example, if a shape range contains a rectangle and a chart, and you try to set the **Fill** property, the statement fails because a chart does not implement the **Fill** property. In other cases, for example if you use the **Rotation** property on a shape range that contains a chart and a rectangle, Project rotates the rectangle but silently ignores the chart.
  
 
  
@@ -38,7 +38,7 @@ Set myRange1 = theReport.Shapes.Range(Array(1, 2))
 Set myRange2 = theReport.Shapes.Range(Array("Textbox 1", "Textbox 2"))
 ```
 
-To create a  **ShapeRange** object that contains all of the shapes in the report, use a statement such as the following:
+To create a **ShapeRange** object that contains all of the shapes in the report, use a statement such as the following:
  
 
  
@@ -49,7 +49,7 @@ To create a  **ShapeRange** object that contains all of the shapes in the report
 Set allShapes = theReport.Shapes.Range(Array(1, theReport.Shapes.Count))
 ```
 
-To create a  **ShapeRange** object with a single member of the **Shapes** collection, you can use statements such as the following:
+To create a **ShapeRange** object with a single member of the **Shapes** collection, you can use statements such as the following:
  
 
  
@@ -61,7 +61,7 @@ Set myRange3 = theReport.Shapes.Range(2)
 Set myRange4 = theReport.Shapes.Range("Rectangle 2")
 ```
 
-To perform an operation on a single shape in a  **ShapeRange** collection, you can use statements such as the following:
+To perform an operation on a single shape in a **ShapeRange** collection, you can use statements such as the following:
  
 
  
@@ -73,7 +73,7 @@ myRange1(2).Fill.ForeColor.RGB = RGB(120, 120, 80)
 myRange1("Textbox 2").Fill.ForeColor.RGB = RGB(120, 120, 80)
 ```
 
-Alternately, you can perform an operation directly on a  **Shape** object, without using a shape range.
+Alternately, you can perform an operation directly on a **Shape** object, without using a shape range.
  
 
  
@@ -91,28 +91,28 @@ theReport.Shapes("Big rectangle").Fill.ForeColor.RGB = RGB(120, 120, 80)
 
 |**Description**|
 |:-----|
-|The  **Align** method is not implemented in Project.|
-|Applies formatting to a shape range, where the formatting information has been copied by using the  **[PickUp](Project.shape.pickup.md)** method.|
+|The **Align** method is not implemented in Project.|
+|Applies formatting to a shape range, where the formatting information has been copied by using the **[PickUp](Project.shape.pickup.md)** method.|
 |Copies the shape range to the Clipboard.|
 |Cuts the shape range to the Clipboard.|
 |Deletes the shape range.|
-|The  **Distribute** method is not implemented in Project.|
+|The **Distribute** method is not implemented in Project.|
 |Duplicates a shape range and returns a reference to the copy.|
 |Flips each shape in the shape range around its horizontal or vertical axis.|
-|The  **Group** method is not implemented in Project.|
+|The **Group** method is not implemented in Project.|
 |Moves each shape in the shape range horizontally by the specified number of points.|
 |Rotates each shape in the shape range around the z-axis by the specified number of degrees.|
 |Moves each shape in the shape range vertically by the specified number of points.|
 |Gets an individual  **Shape** object in the shape range collection.|
-|The  **MergeShapes** method is not implemented in Project.|
+|The **MergeShapes** method is not implemented in Project.|
 |Copies the formatting of the shape range.|
-|The  **Regroup** method is not implemented in Project.|
-|The  **RerouteConnections** method is not implemented in Project.|
+|The **Regroup** method is not implemented in Project.|
+|The **RerouteConnections** method is not implemented in Project.|
 |Scales the height of the range of shapes by a specified factor.|
 |Scales the width of the range of shapes by a specified factor.|
 |Selects each shape in a shape range.|
 |Applies the formatting of a default shape to each shape in the range.|
-|The  **Ungroup** method is not implemented in Project.|
+|The **Ungroup** method is not implemented in Project.|
 |Moves the shape range in front of or behind other shapes (that is, changes the position in the z-order).|
 
 ## Properties

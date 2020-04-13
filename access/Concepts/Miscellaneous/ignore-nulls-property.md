@@ -5,7 +5,7 @@ f1_keywords:
 - acmain11.chm7025
 ms.prod: access
 ms.assetid: 87d95ca8-ea29-f0ca-366a-56527c500f13
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,9 @@ You can use the IgnoreNulls property to specify that records with Null values in
 |No|**False**|(Default) Records that contain Null values in the indexed fields are included in the index.|
 You can set this property by using the Indexes window of table Design view or Visual Basic.
 
-To access the  **Ignore Nulls** property of an index by using Visual Basic, use the DAO **IgnoreNulls** property.
+To access the **Ignore Nulls** property of an index by using Visual Basic, use the DAO **IgnoreNulls** property.
 
-You can define an index for a field to facilitate faster searches for records indexed on that field. If you allow  **Null** entries in the indexed field and expect to have many of them, set the **Ignore Nulls** property for the index to Yes to reduce the amount of storage space that the index uses.
+You can define an index for a field to facilitate faster searches for records indexed on that field. If you allow **Null** entries in the indexed field and expect to have many of them, set the **Ignore Nulls** property for the index to Yes to reduce the amount of storage space that the index uses.
 
 ## See also
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.LastModificationTime property (Outlook)
 
-Returns a  **Date** specifying the date and time that the Outlook item was last modified. Read-only.
+Returns a **Date** specifying the date and time that the Outlook item was last modified. Read-only.
 
 
 ## Syntax

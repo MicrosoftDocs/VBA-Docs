@@ -28,7 +28,7 @@ _expression_ An expression that returns an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Style_|Required|**PjTeamPlannerStyle**|Can be one of the  **[PjTeamPlannerStyle](Project.PjTeamPlannerStyle.md)** constants.|
+| _Style_|Required|**PjTeamPlannerStyle**|Can be one of the **[PjTeamPlannerStyle](Project.PjTeamPlannerStyle.md)** constants.|
 
 ## Return value
 
@@ -37,7 +37,7 @@ _expression_ An expression that returns an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **PjTeamPlannerStyle** constants are equivalent to the five styles shown in the **Format** tab of the **Team Planner Tools** in the ribbon, as follows:
+The **PjTeamPlannerStyle** constants are equivalent to the five styles shown in the **Format** tab of the **Team Planner Tools** in the ribbon, as follows:
 
 
 |||

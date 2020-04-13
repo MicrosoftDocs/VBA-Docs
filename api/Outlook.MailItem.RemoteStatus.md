@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.RemoteStatus property (Outlook)
 
-Returns or sets an  **[OlRemoteStatus](Outlook.OlRemoteStatus.md)** constant specifying the remote status of the mail message. Read/write.
+Returns or sets an **[OlRemoteStatus](Outlook.OlRemoteStatus.md)** constant specifying the remote status of the mail message. Read/write.
 
 
 ## Syntax

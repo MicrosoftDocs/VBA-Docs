@@ -23,6 +23,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-To determine if the Office task pane is visible, use the  **[IsOfficeTaskPaneVisible](Project.Application.IsOfficeTaskPaneVisible.md)** method.
+To determine if the Office task pane is visible, use the **[IsOfficeTaskPaneVisible](Project.Application.IsOfficeTaskPaneVisible.md)** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

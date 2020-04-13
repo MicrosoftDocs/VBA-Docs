@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OutlookBarGroup.ViewType property (Outlook)
 
-Returns or sets an  **[OlOutlookBarViewType](Outlook.OlOutlookBarViewType.md)** constant representing the view type of an **[OutlookBarGroup](Outlook.OutlookBarGroup.md)** object. Read/write.
+Returns or sets an **[OlOutlookBarViewType](Outlook.OlOutlookBarViewType.md)** constant representing the view type of an **[OutlookBarGroup](Outlook.OutlookBarGroup.md)** object. Read/write.
 
 
 ## Syntax

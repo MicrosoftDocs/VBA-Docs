@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[System](Word.System.md)' o
 
 ## Example
 
-If the  **CountryRegion** property returns **wdUS**, this example converts the top margin value from points to inches.
+If the **CountryRegion** property returns **wdUS**, this example converts the top margin value from points to inches.
 
 
 ```vb

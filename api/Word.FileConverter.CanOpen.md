@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[FileConverter](Word.FileConverter.md
 
 ## Remarks
 
-The  **[CanSave](Word.FileConverter.CanSave.md)** property returns **True** if the specified file converter can be used to save (export) files.
+The **[CanSave](Word.FileConverter.CanSave.md)** property returns **True** if the specified file converter can be used to save (export) files.
 
 
 ## Example

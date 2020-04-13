@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OrderField.IsDescending property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether the contents of the **[OrderField](Outlook.OrderField.md)** object are sorted in descending order. Read/write.
+Returns or sets a **Boolean** value that indicates whether the contents of the **[OrderField](Outlook.OrderField.md)** object are sorted in descending order. Read/write.
 
 
 ## Syntax

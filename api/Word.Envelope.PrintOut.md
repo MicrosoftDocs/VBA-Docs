@@ -29,14 +29,14 @@ _expression_ Required. A variable that represents an '[Envelope](Word.Envelope.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ExtractAddress_|Optional| **Variant**| **True** to use the text marked by the "EnvelopeAddress" bookmark (a user-defined bookmark) as the recipient's address.|
-| _Address_|Optional| **Variant**|A string that specifies the recipient's address (ignored if ExtractAddress is  **True**).|
+| _Address_|Optional| **Variant**|A string that specifies the recipient's address (ignored if ExtractAddress is **True**).|
 | _AutoText_|Optional| **Variant**|The name of the AutoText entry that includes a recipient's address.|
 | _OmitReturnAddress_|Optional| **Variant**| **True** to omit the return address.|
 | _ReturnAddress_|Optional| **Variant**|A string that specifies the return address.|
 | _ReturnAutoText_|Optional| **Variant**|The name of the AutoText entry that includes a return address.|
 | _PrintBarCode_|Optional| **Variant**| **True** to add a POSTNET bar code. For U.S. mail only.|
 | _PrintFIMA_|Optional| **Variant**| **True** to add a Facing Identification Mark (FIM-A) for use in presorting courtesy reply mail. For U.S. mail only.|
-| _Size_|Optional| **Variant**|A string that specifies the envelope size. The string should match one of the sizes listed on the left side of the Envelope size box in the  **Envelope Options** dialog box (for example, "Size 10").|
+| _Size_|Optional| **Variant**|A string that specifies the envelope size. The string should match one of the sizes listed on the left side of the Envelope size box in the **Envelope Options** dialog box (for example, "Size 10").|
 | _Height_|Optional| **Variant**|The height of the envelope (in points) when the Size argument is set to "Custom size".|
 | _Width_|Optional| **Variant**|The width of the envelope (in points) when the Size argument is set to "Custom size".|
 | _FeedSource_|Optional| **Variant**| **True** to use the **FeedSource** property of the **Envelope** object to specify which paper tray to use when printing the envelope.|

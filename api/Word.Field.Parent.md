@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Field.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Field** object.
+Returns an **Object** that represents the parent object of the specified **Field** object.
 
 
 ## Syntax

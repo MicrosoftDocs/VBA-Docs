@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Action.ShowOn property (Outlook)
 
-Returns or sets an  **[OlActionShowOn](Outlook.OlActionShowOn.md)** constant representing the location where the action will be shown. Read/write.
+Returns or sets an **[OlActionShowOn](Outlook.OlActionShowOn.md)** constant representing the location where the action will be shown. Read/write.
 
 
 ## Syntax

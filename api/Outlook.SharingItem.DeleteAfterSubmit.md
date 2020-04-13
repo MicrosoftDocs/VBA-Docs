@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.DeleteAfterSubmit property (Outlook)
 
-Returns or sets a  **Boolean** value that is **True** if a copy of the item is not saved upon being sent, and **False** if a copy is saved. Read/write.
+Returns or sets a **Boolean** value that is **True** if a copy of the item is not saved upon being sent, and **False** if a copy is saved. Read/write.
 
 
 ## Syntax

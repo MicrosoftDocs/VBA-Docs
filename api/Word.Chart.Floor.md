@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 ## Example
 
-The following example sets the floor color of the first chart in the active document to blue. You should run the example on a 3D chart (the  **Floor** property fails on 2D charts).
+The following example sets the floor color of the first chart in the active document to blue. You should run the example on a 3D chart (the **Floor** property fails on 2D charts).
 
 
 ```vb

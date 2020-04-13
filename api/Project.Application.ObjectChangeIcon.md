@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ObjectChangeIcon method (Project)
 
-Displays the  **Change Icon** dialog box to enable changing the icon of an active bitmap or drawing object that is added in a Gantt chart or other view.
+Displays the **Change Icon** dialog box to enable changing the icon of an active bitmap or drawing object that is added in a Gantt chart or other view.
 
 
 ## Syntax
@@ -31,16 +31,16 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The bitmap or drawing object must be displayed as an icon and selected. The  **ObjectChangeIcon** method is equivalent to the **Change Icon** command in the **Convert** dialog box. To open the **Convert** dialog box by using the Project user interface, do the following:
+The bitmap or drawing object must be displayed as an icon and selected. The **ObjectChangeIcon** method is equivalent to the **Change Icon** command in the **Convert** dialog box. To open the **Convert** dialog box by using the Project user interface, do the following:
 
 
-1. Open the  **Project Options** dialog box, choose the **Customize Ribbon** tab, and then choose the list of commands not in the Ribbon.
+1. Open the **Project Options** dialog box, choose the **Customize Ribbon** tab, and then choose the list of commands not in the Ribbon.
     
-2. In the  **Customize the Ribbon** drop-down list, select **Main Tabs**, and then choose  **New Tab**. Rename the tab, for example,  **Old Methods**. 
+2. In the **Customize the Ribbon** drop-down list, select **Main Tabs**, and then choose  **New Tab**. Rename the tab, for example,  **Old Methods**. 
     
 3. Choose  **New Group** to add a group to the **Old Methods** tab. Rename the group, for example, **Objects**.
     
-4. Select the  **Objects** group, add the **Object** and **Convert** commands to the group from the list of commands not in the Ribbon, and then choose **OK**.
+4. Select the **Objects** group, add the **Object** and **Convert** commands to the group from the list of commands not in the Ribbon, and then choose **OK**.
     
 5. On the Gantt chart, choose  **Object** in the **Old Methods** tab. In the **Insert Object** dialog box, choose **Bitmap Image**. You can create a new image or add it from a file. Check  **Display As Icon**.
     

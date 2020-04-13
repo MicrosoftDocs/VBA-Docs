@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Recipient.Resolved property (Outlook)
 
-Returns a  **Boolean** that indicates **True** if the recipient has been validated against the Address Book. Read-only.
+Returns a **Boolean** that indicates **True** if the recipient has been validated against the Address Book. Read-only.
 
 
 ## Syntax

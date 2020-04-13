@@ -31,7 +31,7 @@ Window
 
 ## Remarks
 
-If the  **NewWindow** method is used with the **Application** object, a new window is opened for the active window. The following two instructions are functionally equivalent.
+If the **NewWindow** method is used with the **Application** object, a new window is opened for the active window. The following two instructions are functionally equivalent.
 
 
 ```vb

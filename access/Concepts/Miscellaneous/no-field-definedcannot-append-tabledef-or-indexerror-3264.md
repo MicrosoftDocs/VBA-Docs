@@ -2,7 +2,7 @@
 title: No field defined -- cannot append TableDef or Index. (Error 3264)
 ms.prod: access
 ms.assetid: 18353c1b-c3c7-9f41-eb2a-87d732d2127a
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You cannot append a  **TableDef** until you define one or more fields. Use the **CreateField** method to create fields, append them to the **Fields** collection of your **TableDef** object, and then append the **TableDef** object to the **TableDefs** collection.
+You cannot append a **TableDef** until you define one or more fields. Use the **CreateField** method to create fields, append them to the **Fields** collection of your **TableDef** object, and then append the **TableDef** object to the **TableDefs** collection.
 
 ## See also
 

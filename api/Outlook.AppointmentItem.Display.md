@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.Display method (Outlook)
 
-Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
+Displays a new **[Inspector](Outlook.Inspector.md)** object for the item.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 ## Remarks
 
-The  **Display** method is supported for explorer and inspector windows for the sake of backward compatibility. To activate an explorer or inspector window, use the **[Activate](Outlook.Inspector.Activate(method).md)** method.
+The **Display** method is supported for explorer and inspector windows for the sake of backward compatibility. To activate an explorer or inspector window, use the **[Activate](Outlook.Inspector.Activate(method).md)** method.
 
 If you attempt to open an "unsafe" file system object (or "freedoc" file) by using the Microsoft Outlook object model, you receive the  **E_FAIL** return code in the C or C++ programming languages. In Outlook 2000 and earlier, you could open an "unsafe" file system object by using the **Display** method.
 

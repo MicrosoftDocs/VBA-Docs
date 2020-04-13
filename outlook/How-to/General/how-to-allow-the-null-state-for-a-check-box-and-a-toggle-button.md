@@ -5,25 +5,26 @@ f1_keywords:
 - olfm10.chm3077261
 ms.prod: outlook
 ms.assetid: 75b3374d-6d96-3bcc-3e97-f0089f3fdd99
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Allow the Null State for a Check Box and a Toggle Button
 
-The following example uses the  **TripleState** property to allow Null as a legal value of a **[CheckBox](../../../api/Outlook.checkbox.md)** and a **[ToggleButton](../../../api/Outlook.togglebutton.md)**. The user controls the value of  **TripleState** through ToggleButton2. The user can set the value of a **CheckBox** or **ToggleButton** based on the value of **TripleState**. However, when a control is set to  **Null**, no event is fired.
+The following example uses the **ripleState** property to allow Null as a legal value of a **[CheckBox](../../../api/Outlook.checkbox.md)** and a **[ToggleButton](../../../api/Outlook.togglebutton.md)**. The user controls the value of **ipleState** through ToggleButton2. The user can set the value of a **CheckBox** or **ToggleButton** based on the value of **TripleState**. However, when a control is set to * **l**, no event is fired.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **pen** event will activate. Make sure that the form contains:
 
-- A  **CheckBox** named CheckBox1.
-    
-- A  **ToggleButton** named ToggleButton1.
-    
-- A  **ToggleButton** named ToggleButton2.
-    
+- A **CheckBox** named CheckBox1.
 
+- A **ToggleButton** named ToggleButton1.
 
+- A **ToggleButton** named ToggleButton2.
+
+- A **ToggleButton** named ToggleButton1.
+
+- A **ToggleButton** named ToggleButton2.
 
 ```vb
 Sub Item_Open() 

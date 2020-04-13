@@ -2,27 +2,27 @@
 title: Enumerate Active Folders in the Calendar View
 ms.prod: outlook
 ms.assetid: 379bd7c7-d0bc-856f-4432-17e38342611b
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Enumerate Active Folders in the Calendar View
 
-In Microsoft Outlook, you can traverse the group and folder hierarchy of a module in the Navigation Pane by using the  **[NavigationGroups](../../../api/Outlook.NavigationGroups.md)** and **[NavigationFolders](../../../api/Outlook.NavigationFolders.md)** collections. The **NavigationGroups** collection of the **[NavigationModule](../../../api/Outlook.NavigationModule.md)** object contains each navigation group displayed in a navigation module, while the **NavigationFolders** collection of the **[NavigationGroup](../../../api/Outlook.NavigationGroup.md)** object contains each navigation folder displayed in a navigation group.
+In Microsoft Outlook, you can traverse the group and folder hierarchy of a module in the Navigation Pane by using the **[NavigationGroups](../../../api/Outlook.NavigationGroups.md)** and **[NavigationFolders](../../../api/Outlook.NavigationFolders.md)** collections. The **NavigationGroups** collection of the **[NavigationModule](../../../api/Outlook.NavigationModule.md)** object contains each navigation group displayed in a navigation module, while the **NavigationFolders** collection of the **[NavigationGroup](../../../api/Outlook.NavigationGroup.md)** object contains each navigation folder displayed in a navigation group.
 
 By using these collections in combination, you can enumerate each navigation folder for a navigation module displayed in the Navigation Pane. 
 
-The following sample counts the number of navigation folders selected for display in the  **Calendar** navigation module of the Navigation Pane. The sample performs the following actions:
+The following sample counts the number of navigation folders selected for display in the **Calendar** navigation module of the Navigation Pane. The sample performs the following actions:
 
 
-1. The sample first obtains a reference to the  **[NavigationPane](../../../api/Outlook.NavigationPane.md)** object for the active explorer.
+1. The sample first obtains a reference to the **[NavigationPane](../../../api/Outlook.NavigationPane.md)** object for the active explorer.
     
-2. It then uses the  **[GetNavigationModule](../../../api/Outlook.NavigationModules.GetNavigationModule.md)** method of the **[NavigationModules](../../../api/Outlook.NavigationModules.md)** collection to obtain a reference to the **[CalendarModule](../../../api/Outlook.CalendarModule.md)** object from the **NavigationPane** object.
+2. It then uses the **[GetNavigationModule](../../../api/Outlook.NavigationModules.GetNavigationModule.md)** method of the **[NavigationModules](../../../api/Outlook.NavigationModules.md)** collection to obtain a reference to the **[CalendarModule](../../../api/Outlook.CalendarModule.md)** object from the **NavigationPane** object.
     
-3. The sample then enumerates through the  **[NavigationGroups](../../../api/Outlook.CalendarModule.NavigationGroups.md)** collection of the **CalendarModule** object. For each **NavigationGroup** in the collection, the sample then enumerates the **[NavigationFolders](../../../api/Outlook.NavigationGroup.NavigationFolders.md)** collection.
+3. The sample then enumerates through the **[NavigationGroups](../../../api/Outlook.CalendarModule.NavigationGroups.md)** collection of the **CalendarModule** object. For each **NavigationGroup** in the collection, the sample then enumerates the **[NavigationFolders](../../../api/Outlook.NavigationGroup.NavigationFolders.md)** collection.
     
-4. If the  **[IsSelected](../../../api/Outlook.NavigationFolder.IsSelected.md)** property of a **NavigationFolder** object contained in the **NavigationFolders** collection is set to **True**, the variable  `intCounter` is incremented.
+4. If the **[IsSelected](../../../api/Outlook.NavigationFolder.IsSelected.md)** property of a **NavigationFolder** object contained in the **NavigationFolders** collection is set to **True**, the variable  `intCounter` is incremented.
     
 5. Finally, the sample displays a dialog box containing the value of  `intCounter`.
     

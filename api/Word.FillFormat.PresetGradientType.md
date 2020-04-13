@@ -26,7 +26,7 @@ _expression_.**PresetGradientType**
 
 ## Remarks
 
-Use the  **[PresetGradient](Word.FillFormat.PresetGradient.md)** method to set the preset gradient type for the fill.
+Use the **[PresetGradient](Word.FillFormat.PresetGradient.md)** method to set the preset gradient type for the fill.
 
 
 ## Example

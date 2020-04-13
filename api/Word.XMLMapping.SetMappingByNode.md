@@ -39,7 +39,7 @@ Boolean
 
 ## Remarks
 
-If the XML mapping already exists, then Word replaces the existing XML mapping, and the contents of the new mapped XML node replaces the text of the content control. See also the  **[SetMapping](Word.XMLMapping.SetMapping.md)** method.
+If the XML mapping already exists, then Word replaces the existing XML mapping, and the contents of the new mapped XML node replaces the text of the content control. See also the **[SetMapping](Word.XMLMapping.SetMapping.md)** method.
 
 
 > [!NOTE] 

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.CV property (Project)
 
-Gets the cost variance for a  **Resource**. Read-only **Variant**.
+Gets the cost variance for a **Resource**. Read-only **Variant**.
 
 
 ## Syntax

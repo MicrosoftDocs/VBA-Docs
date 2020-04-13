@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AddressList.ResolutionOrder property (Outlook)
 
-Returns an  **Integer** that represents the order of this **[AddressList](Outlook.AddressList.md)** in the custom scroll list in the **Addressing** dialog box. Read-only.
+Returns an **Integer** that represents the order of this **[AddressList](Outlook.AddressList.md)** in the custom scroll list in the **Addressing** dialog box. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AddressList](Outlook.AddressList.md)
 
 ## Remarks
 
-The  **ResolutionOrder** property corresponds to the position of the **AddressList** in the list box which is labeled **When sending mail, check address lists in this order** in the **Addressing** dialog box and is available by clicking **Tools**, and then  **Options** in the **Address Book** dialog box. Note that this behavior is independent of whether **Custom** is selected in the **Addressing** dialog box. For example, if **Start with Global Address List** is selected and the scroll list displays **Contacts** as the first item, the **ResolutionOrder** property of the **Contacts** address list is still 1, even though when resolving recipients, Outlook uses the Global Address List first.
+The **ResolutionOrder** property corresponds to the position of the **AddressList** in the list box which is labeled **When sending mail, check address lists in this order** in the **Addressing** dialog box and is available by clicking **Tools**, and then  **Options** in the **Address Book** dialog box. Note that this behavior is independent of whether **Custom** is selected in the **Addressing** dialog box. For example, if **Start with Global Address List** is selected and the scroll list displays **Contacts** as the first item, the **ResolutionOrder** property of the **Contacts** address list is still 1, even though when resolving recipients, Outlook uses the Global Address List first.
 
 When  **Custom** is selected in the **Addressing** dialog box, the **ResolutionOrder** property reflects the order that Outlook uses when resolving recipient names. The value of **ResolutionOrder** is one-based. In this case, the first address list to be used for resolving recipient names has a **ResolutionOrder** equal to 1, the second address list 2, and so forth. If an address list is not used to resolve addresses, then its **ResolutionOrder** has a value of -1. Programmatically, when **Custom** is selected in the **Addressing** dialog box, the **ResolutionOrder** property reflects the actual resolution order that **[Recipients.ResolveAll](Outlook.Recipients.ResolveAll.md)** or **[Recipient.Resolve](Outlook.Recipient.Resolve.md)** uses.
 

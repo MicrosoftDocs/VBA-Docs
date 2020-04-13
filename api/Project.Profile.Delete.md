@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Profile.Delete method (Project)
 
-Deletes an account profile from the  **[Profiles](Project.profiles.md)** collection in Project.
+Deletes an account profile from the **[Profiles](Project.profiles.md)** collection in Project.
 
 
 ## Syntax
@@ -23,6 +23,6 @@ _expression_ A variable that represents a [Profile](./Project.Profile.md) object
 
 ## Remarks
 
-The  **Project Server Accounts** dialog box shows the number and order of profiles. Use `Profiles.Count` to programmatically determine the number of account profiles.
+The **Project Server Accounts** dialog box shows the number and order of profiles. Use `Profiles.Count` to programmatically determine the number of account profiles.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

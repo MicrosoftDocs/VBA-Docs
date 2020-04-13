@@ -5,7 +5,7 @@ f1_keywords:
 - jeterr40.chm5003420
 ms.prod: access
 ms.assetid: 5744c5e1-1cf7-52eb-6ac3-a35044f2f6d6
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -29,7 +29,7 @@ Possible causes:
     
 - The object library is not registered in the Microsoft Windows Registry.
     
-- You are trying to reference a method or property of the collection, but you have not assigned it to a variable first. For example, to reference the  **Name** property, use the following:
+- You are trying to reference a method or property of the collection, but you have not assigned it to a variable first. For example, to reference the **Name** property, use the following:
     
 ```vb
   Dim dbsPublish As Database 

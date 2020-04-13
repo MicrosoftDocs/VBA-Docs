@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShadowFormat.ForeColor property (PowerPoint)
 
-Returns or sets a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents the foreground color for the fill, line, or shadow. Read/write.
+Returns or sets a **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents the foreground color for the fill, line, or shadow. Read/write.
 
 
 ## Syntax

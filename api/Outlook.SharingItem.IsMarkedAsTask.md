@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.IsMarkedAsTask property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the **[SharingItem](Outlook.SharingItem.md)** is marked as a task. Read-only.
+Returns a **Boolean** value that indicates whether the **[SharingItem](Outlook.SharingItem.md)** is marked as a task. Read-only.
 
 
 ## Syntax

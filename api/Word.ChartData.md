@@ -19,12 +19,12 @@ Represents access to the linked or embedded data associated with a chart.
 
 ## Remarks
 
-Use the  **[ChartData](Word.Chart.ChartData.md)** property to return the **ChartData** object.
+Use the **[ChartData](Word.Chart.ChartData.md)** property to return the **ChartData** object.
 
 
 ## Example
 
-The following example uses the  **[Activate](Word.ChartData.Activate.md)** method to display the data associated with the first chart in the active document.
+The following example uses the **[Activate](Word.ChartData.Activate.md)** method to display the data associated with the first chart in the active document.
 
 
 ```vb

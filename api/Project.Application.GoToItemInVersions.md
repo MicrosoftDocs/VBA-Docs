@@ -33,6 +33,6 @@ _expression_. `GoToItemInVersions`
 
 When you compare two versions of a project file, Project creates a new project named  **Comparison Report** and shows each of the original versions below the **Comparison Report** window. If an item is selected in the **Comparison Report** window, **GoToItemInVersions** selects the same item in each of the original versions. Focus changes to the second version window.
 
-The  **GoToItemInVersions** method is equivalent to the **Go to Item** command in the **Compare** group of the **Compare Projects** tab on the Ribbon.
+The **GoToItemInVersions** method is equivalent to the **Go to Item** command in the **Compare** group of the **Compare Projects** tab on the Ribbon.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

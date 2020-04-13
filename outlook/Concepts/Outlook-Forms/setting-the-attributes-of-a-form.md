@@ -2,7 +2,7 @@
 title: Setting the Attributes of a Form
 ms.prod: outlook
 ms.assetid: 7c170a7b-fe1e-32be-3841-535e8f29dae4
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -11,7 +11,7 @@ localization_priority: Normal
 
 To set the attributes of a custom form that has form pages, use the **Properties** and **Actions** pages in design mode. The **Properties** page includes information such as Description, Category, and Form Number that helps users to find and identify your form in the **Choose Form** dialog box. The **Actions** page includes all of the various ways that users can reply to a form, including Reply, Reply All, Forward, and so on.
 
-When you customize a form with form regions, you set the attributes for a form region inside the form region manifest file. The values that you specify on the properties and actions pages in the forms designer are not saved with a form region and are not used when a form region is loaded. For more information, see  [How to: Create a Form Region](create-a-form-region.md).
+When you customize a form with form regions, you set the attributes for a form region inside the form region manifest file. The values that you specify on the properties and actions pages in the forms designer are not saved with a form region and are not used when a form region is loaded. For more information, see [How to: Create a Form Region](create-a-form-region.md).
 
 One important attribute of your form to consider is whether to send the form definition with the form. The form definition includes all the fields and the code that you add to the form. As a general rule, publish the form definition to a forms library instead of sending the form definition with the item. If you cannot publish your form to a forms library, you can select the **Send form definition with item** check box on the **Properties** page so that other users can see the form pages when they receive items that are composed by using the form.
 

@@ -26,7 +26,7 @@ _expression_. `WidthRelative`
 
 ## Remarks
 
-Use this property with the  **[RelativeHorizontalSize](Word.ShapeRange.RelativeHorizontalSize.md)** property. When set to **wdShapeSizeRelativeNone** (-999999) (see the **[WdShapeSizeRelative](Word.WdShapeSizeRelative.md)** enumeration), this property should be ignored because the shape does not use percent sizing. The width is solely determined by the **[Width](Word.ShapeRange.Width.md)** property.
+Use this property with the **[RelativeHorizontalSize](Word.ShapeRange.RelativeHorizontalSize.md)** property. When set to **wdShapeSizeRelativeNone** (-999999) (see the **[WdShapeSizeRelative](Word.WdShapeSizeRelative.md)** enumeration), this property should be ignored because the shape does not use percent sizing. The width is solely determined by the **[Width](Word.ShapeRange.Width.md)** property.
 
 
 ## See also

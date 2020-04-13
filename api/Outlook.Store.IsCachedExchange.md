@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Store.IsCachedExchange property (Outlook)
 
-Returns a  **Boolean** that indicates if the **[Store](Outlook.Store.md)** is a cached Exchange store. Read-only.
+Returns a **Boolean** that indicates if the **[Store](Outlook.Store.md)** is a cached Exchange store. Read-only.
 
 
 ## Syntax

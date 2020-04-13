@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents a **[Window](Word.Window.md)**
 | _ScreenPixelsTop_|Required| **Long**|The variable name to which you want Word to return the value for the top edge of the object.|
 | _ScreenPixelsWidth_|Required| **Long**|The variable name to which you want Word to return the value for the width of the object.|
 | _ScreenPixelsHeight_|Required| **Long**|The variable name to which you want Word to return the value for the height of the object.|
-| _obj_|Required| **Object**|A  **Range** or **Shape** object.|
+| _obj_|Required| **Object**|A **Range** or **Shape** object.|
 
 ## Remarks
 

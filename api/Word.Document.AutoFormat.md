@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-Use the  **Kind** property to specify a document type.
+Use the **Kind** property to specify a document type.
 
 
 ## See also

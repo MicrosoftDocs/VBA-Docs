@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RecentFile.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **RecentFile** object.
+Returns an **Object** that represents the parent object of the specified **RecentFile** object.
 
 
 ## Syntax

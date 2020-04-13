@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Group.Index property (Project)
 
-Gets the index of a  **Group** object in the containing collection object. Read-only **Long**.
+Gets the index of a **Group** object in the containing collection object. Read-only **Long**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ _expression_ A variable that represents a [Group](./Project.Group.md) object.
 
 Objects that can contain  **Group** objects are **Groups**, **ResourceGroups**, and **TaskGroups**.
 
-The  **Index** properties of other objects are used in similar ways. For an example, see the **[Index](Project.Project.Index.md)** property of the **Project** object.
+The **Index** properties of other objects are used in similar ways. For an example, see the **[Index](Project.Project.Index.md)** property of the **Project** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

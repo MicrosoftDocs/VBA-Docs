@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # Page.KeepScrollBarsVisible Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies whether scroll bars remain visible when not required. Read/write.
+Returns or sets an **Integer** that specifies whether scroll bars remain visible when not required. Read/write.
 
 
 ## Syntax
 
 _expression_.**KeepScrollBarsVisible**
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **Page** object.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ The settings for  **KeepScrollBarsVisible** are:
 |2|Displays a vertical scroll bar.|
 |3|Displays both a horizontal and a vertical scroll bar (default).|
 
-If the visible region is large enough to display all the controls on an object such as a  **[Page](Outlook.page.md)** object, scroll bars are not required. The **KeepScrollBarsVisible** property determines whether the scroll bars remain visible when they are not required.
+If the visible region is large enough to display all the controls on an object such as a **[Page](Outlook.page.md)** object, scroll bars are not required. The **KeepScrollBarsVisible** property determines whether the scroll bars remain visible when they are not required.
 
 If the scroll bars are visible when they are not required, they appear normal in size, and the scroll box fills the entire width or height of the scroll bar.
 

@@ -37,7 +37,7 @@ MsgBox HoursPerDay
 
  **Using the TimeScaleValues Collection**
 
-Use the  **[TimeScaleData](./Project.Resource.TimeScaleData.md)** method to return a **TimeScaleValues** collection. The following example returns a **TimeScaleValues** collection for the amount of work done by the resource in the active cell between the specified dates, split into week-long portions.
+Use the **[TimeScaleData](./Project.Resource.TimeScaleData.md)** method to return a **TimeScaleValues** collection. The following example returns a **TimeScaleValues** collection for the amount of work done by the resource in the active cell between the specified dates, split into week-long portions.
 
 
 
@@ -46,7 +46,7 @@ Use the  **[TimeScaleData](./Project.Resource.TimeScaleData.md)** method to retu
 ActiveCell.Resource.TimeScaleData("10/1/2012", "10/31/2012")
 ```
 
-Use the  **[Add](./Project.TimeScaleValues.Add.md)** method to add a **TimeScaleValue** object to the **TimeScaleValues** collection. The following example adds 8 hours of work to Tuesday of that week.
+Use the **[Add](./Project.TimeScaleValues.Add.md)** method to add a **TimeScaleValue** object to the **TimeScaleValues** collection. The following example adds 8 hours of work to Tuesday of that week.
 
 
 

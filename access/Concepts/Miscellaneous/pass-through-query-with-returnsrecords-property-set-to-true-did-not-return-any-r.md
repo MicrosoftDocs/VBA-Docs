@@ -5,7 +5,7 @@ f1_keywords:
 - jeterr40.chm5003325
 ms.prod: access
 ms.assetid: ebb7fee6-6bdf-9188-bb1b-1a9a4f0afa28
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-A pass-through query did not return any records even though the  **ReturnsRecords** property is set to **True**. If a pass-through query does not return records, set the **ReturnsRecords** property to **False**.
+A pass-through query did not return any records even though the **ReturnsRecords** property is set to **True**. If a pass-through query does not return records, set the **ReturnsRecords** property to **False**.
 
 ## See also
 

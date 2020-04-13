@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WdBrowseTarget enumeration (Word)
 
-Specifies the document item that the  **[Next](Word.Browser.Next.md)** or **[Previous](Word.Browser.Previous.md)** method locates, and places the insertion point before the next or previous instance of the item.
+Specifies the document item that the **[Next](Word.Browser.Next.md)** or **[Previous](Word.Browser.Previous.md)** method locates, and places the insertion point before the next or previous instance of the item.
 
 
 

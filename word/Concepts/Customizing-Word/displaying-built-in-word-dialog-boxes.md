@@ -5,7 +5,7 @@ f1_keywords:
 - vbawd10.chm5210531
 ms.prod: word
 ms.assetid: abe465f9-09a1-72ea-2e2d-9de14fc02434
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,7 @@ This topic contains information and examples in the following sections.
 
 ## Showing a built-in dialog box
 
-You can display a built-in dialog box to get user input or to control Word by using Visual Basic for Applications (VBA). The  **[Show](../../../api/Word.Dialog.Show.md)** method of the **[Dialog](../../../api/Word.Dialog.md)** object displays and executes any action taken in a built-in Word dialog box. To access a particular built-in Word dialog box, you specify a **[WdWordDialog](../../../api/Word.WdWordDialog.md)** constant with the **[Dialogs](../../../api/Word.Application.Dialogs.md)** property. For example, the following macro instruction displays the **Open** dialog box (**wdDialogFileOpen**).
+You can display a built-in dialog box to get user input or to control Word by using Visual Basic for Applications (VBA). The **[Show](../../../api/Word.Dialog.Show.md)** method of the **[Dialog](../../../api/Word.Dialog.md)** object displays and executes any action taken in a built-in Word dialog box. To access a particular built-in Word dialog box, you specify a **[WdWordDialog](../../../api/Word.WdWordDialog.md)** constant with the **[Dialogs](../../../api/Word.Application.Dialogs.md)** property. For example, the following macro instruction displays the **Open** dialog box (**wdDialogFileOpen**).
 
 
 ```vb
@@ -25,7 +25,7 @@ Sub ShowOpenDialog()
 End Sub
 ```
 
-If a file is selected and  **OK** is clicked, the file is opened (the action is executed). The following example displays the **Print** dialog box (**wdDialogFilePrint**).
+If a file is selected and **OK** is clicked, the file is opened (the action is executed). The following example displays the **Print** dialog box (**wdDialogFilePrint**).
 
 
 ```vb
@@ -34,7 +34,7 @@ Sub ShowPrintDialog()
 End Sub
 ```
 
-Set the  **[DefaultTab](../../../api/Word.Dialog.DefaultTab.md)** property to access a particular tab in a Word dialog box. The following example displays the **Page Border** tab in the **Borders and Shading** dialog box.
+Set the **[DefaultTab](../../../api/Word.Dialog.DefaultTab.md)** property to access a particular tab in a Word dialog box. The following example displays the **Page Border** tab in the **Borders and Shading** dialog box.
 
 
 ```vb
@@ -47,7 +47,7 @@ End Sub
 ```
 
 > [!NOTE] 
-> You can also use the VBA properties in Word to display the user information without displaying the dialog box. The following example uses the  **[UserName](../../../api/Word.Application.UserName.md)** property for the **[Application](../../../api/Word.Application.md)** object to display the user name for the application without displaying the **User Information** dialog box.
+> You can also use the VBA properties in Word to display the user information without displaying the dialog box. The following example uses the **[UserName](../../../api/Word.Application.UserName.md)** property for the **[Application](../../../api/Word.Application.md)** object to display the user name for the application without displaying the **User Information** dialog box.
 
 
 ```vb
@@ -56,7 +56,7 @@ Sub DisplayUserInfo()
 End Sub
 ```
 
-If the user name is changed in the previous example, the change is not set in the dialog box. Use the  **[Execute](../../../api/Word.Dialog.Execute.md)** method to execute the settings in a dialog box without displaying the dialog box. The following example displays the **User Information** dialog box, and if the name is not an empty string, the settings are set in the dialog box by using the **Execute** method.
+If the user name is changed in the previous example, the change is not set in the dialog box. Use the **[Execute](../../../api/Word.Dialog.Execute.md)** method to execute the settings in a dialog box without displaying the dialog box. The following example displays the **User Information** dialog box, and if the name is not an empty string, the settings are set in the dialog box by using the **Execute** method.
 
 
 ```vb
@@ -69,7 +69,7 @@ End Sub
 ```
 
 > [!NOTE] 
-> Use the VBA properties and methods in Word to set the user information without displaying the dialog box. The following code example changes the user name through the  **UserName** property of the **Application** object, and then it displays the **User Information** dialog box to show that the change has been made. Note that displaying the dialog box is not necessary to change the value of a dialog box.
+> Use the VBA properties and methods in Word to set the user information without displaying the dialog box. The following code example changes the user name through the **UserName** property of the **Application** object, and then it displays the **User Information** dialog box to show that the change has been made. Note that displaying the dialog box is not necessary to change the value of a dialog box.
 
 ```vb
 Sub SetUserName() 
@@ -81,9 +81,9 @@ End Sub
 
 ## Returning and changing dialog box settings
 
-It is not very efficient to use a  **Dialog** object to return or change a value for a dialog box when you can return or change it using a property or method. Also, in most, if not all, cases, when VBA code is used in place of accessing the **Dialog** object, code is simpler and shorter. Therefore, the following examples also include examples that use corresponding VBA properties to perform the same tasks.
+It is not very efficient to use a **Dialog** object to return or change a value for a dialog box when you can return or change it using a property or method. Also, in most, if not all, cases, when VBA code is used in place of accessing the **Dialog** object, code is simpler and shorter. Therefore, the following examples also include examples that use corresponding VBA properties to perform the same tasks.
 
-Prior to returning or changing a dialog box setting using the  **[Dialog](../../../api/Word.Dialog.md)** object, you need to identify the individual dialog box. This is done by using the **[Dialogs](../../../api/Word.Dialogs.Count.md)** property with a **[WdWordDialog](../../../api/Word.WdWordDialog.md)** constant. After you have instantiated a **Dialog** object, you can return or set options in the dialog box. The following example displays the right indent from the **Paragraphs** dialog box.
+Prior to returning or changing a dialog box setting using the **[Dialog](../../../api/Word.Dialog.md)** object, you need to identify the individual dialog box. This is done by using the **[Dialogs](../../../api/Word.Dialogs.Count.md)** property with a **[WdWordDialog](../../../api/Word.WdWordDialog.md)** constant. After you have instantiated a **Dialog** object, you can return or set options in the dialog box. The following example displays the right indent from the **Paragraphs** dialog box.
 
 
 ```vb
@@ -95,7 +95,7 @@ End Sub
 ```
 
 > [!NOTE] 
-> You can use the VBA properties and methods of Word to display the right indent setting for the paragraph. The following example uses the  **[RightIndent](../../../api/Word.ParagraphFormat.RightIndent.md)** property of the **[ParagraphFormat](../../../api/Word.ParagraphFormat.md)** object to display the right indent for the paragraph at the insertion point position.
+> You can use the VBA properties and methods of Word to display the right indent setting for the paragraph. The following example uses the **[RightIndent](../../../api/Word.ParagraphFormat.RightIndent.md)** property of the **[ParagraphFormat](../../../api/Word.ParagraphFormat.md)** object to display the right indent for the paragraph at the insertion point position.
 
 
 ```vb
@@ -104,7 +104,7 @@ Sub ShowRightIndexForSelectedParagraph()
 End Sub
 ```
 
-Just as you can return dialog box settings, you can also set dialog box settings. The following example marks the  **Keep with next** check box in the **Paragraph** dialog box.
+Just as you can return dialog box settings, you can also set dialog box settings. The following example marks the **Keep with next** check box in the **Paragraph** dialog box.
 
 ```vb
 Sub SetKeepWithNext() 
@@ -116,7 +116,7 @@ End Sub
 ```
 
 > [!NOTE] 
-> You can also use the VBA properties and methods to change the right indent for the paragraph. The following example uses the  **[KeepWithNext](../../../api/Word.ParagraphFormat.KeepWithNext.md)** property of the **ParagraphFormat** object to keep the selected paragraph with the following paragraph.
+> You can also use the VBA properties and methods to change the right indent for the paragraph. The following example uses the **[KeepWithNext](../../../api/Word.ParagraphFormat.KeepWithNext.md)** property of the **ParagraphFormat** object to keep the selected paragraph with the following paragraph.
 
 ```vb
 Sub SetKeepWithNextForSelectedParagraph() 
@@ -125,12 +125,12 @@ End Sub
 ```
 
 > [!NOTE] 
-> Use the  **[Update](../../../api/Word.Dialog.Update.md)** method to ensure that the dialog box values reflect the current values. It may be necessary to use the **Update** method if you define a dialog box variable early in your macro and later want to return or change the current settings.
+> Use the **[Update](../../../api/Word.Dialog.Update.md)** method to ensure that the dialog box values reflect the current values. It may be necessary to use the **Update** method if you define a dialog box variable early in your macro and later want to return or change the current settings.
 
 
 ## Checking how a dialog box was closed
 
-The value returned by the  **Show** and **Display** methods indicates which button was clicked to close the dialog box. The following example displays the **Break** dialog box, and if **OK** is clicked, a message is displayed on the status bar.
+The value returned by the **Show** and **Display** methods indicates which button was clicked to close the dialog box. The following example displays the **Break** dialog box, and if **OK** is clicked, a message is displayed on the status bar.
 
 
 ```vb
@@ -145,9 +145,9 @@ The following table describes the return values associated with buttons in dialo
 
 |Return value|Description|
 |:-----|:-----|
-|-2|The  **Close** button.|
-|-1|The  **OK** button.|
-|0 (zero)|The  **Cancel** button.|
+|-2|The **Close** button.|
+|-1|The **OK** button.|
+|0 (zero)|The **Cancel** button.|
 |> 0 (zero)|A command button: 1 is the first button, 2 is the second button, and so on.|
 
 

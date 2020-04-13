@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WeekDay.Index property (Project)
 
-Gets the index of a  **WeekDay** object in the **WeekDays** containing object. Read-only **Integer**.
+Gets the index of a **WeekDay** object in the **WeekDays** containing object. Read-only **Integer**.
 
 
 ## Syntax
@@ -23,6 +23,6 @@ _expression_ A variable that represents a [WeekDay](./Project.WeekDay.md) object
 
 ## Remarks
 
-The  **Index** properties of different objects are used in similar ways. For an example, see the **[Index](Project.Project.Index.md)** property of the **Project** object.
+The **Index** properties of different objects are used in similar ways. For an example, see the **[Index](Project.Project.Index.md)** property of the **Project** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

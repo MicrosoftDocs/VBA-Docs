@@ -16,7 +16,7 @@ Reverses the most recent action that supports the  **Undo** command.
 
 _expression_.**UndoAction**
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **Page** object.
 
 
 ## Remarks

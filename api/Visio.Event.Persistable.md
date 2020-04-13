@@ -63,7 +63,7 @@ If these conditions are met, any of the following events are persistable:
     
 
 
-Although an  **Event** object's **Persistable** property indicates whether an event can persist, its **Persistent** property indicates whether that event actually persists. When an **Event** object is first created, its **Persistent** property is set to the same value as its **Persistable** property. That is, a persistable event's **Persistent** property is set to **True**, and a nonpersistable event's **Persistent** property is set to **False**.
+Although an **Event** object's **Persistable** property indicates whether an event can persist, its **Persistent** property indicates whether that event actually persists. When an **Event** object is first created, its **Persistent** property is set to the same value as its **Persistable** property. That is, a persistable event's **Persistent** property is set to **True**, and a nonpersistable event's **Persistent** property is set to **False**.
 
 A nonpersistent event exists as long as a reference is held on the  **Event** object, the **EventList** object that contains the **Event** object, or the source object that has the **EventList** object. When the last reference to any of these objects is released, the nonpersistent event ceases to exist.
 

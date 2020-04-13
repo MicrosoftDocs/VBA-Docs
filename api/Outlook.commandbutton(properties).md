@@ -12,32 +12,32 @@ localization_priority: Normal
 ## In this section
 
 
--  [CommandButton.Accelerator Property (Outlook Forms Script)](Outlook.commandbutton.accelerator.md)
+- [CommandButton.Accelerator Property (Outlook Forms Script)](Outlook.commandbutton.accelerator.md)
     
--  [CommandButton.AutoSize Property (Outlook Forms Script)](Outlook.commandbutton.autosize.md)
+- [CommandButton.AutoSize Property (Outlook Forms Script)](Outlook.commandbutton.autosize.md)
     
--  [CommandButton.BackColor Property (Outlook Forms Script)](Outlook.commandbutton.backcolor.md)
+- [CommandButton.BackColor Property (Outlook Forms Script)](Outlook.commandbutton.backcolor.md)
     
--  [CommandButton.BackStyle Property (Outlook Forms Script)](Outlook.commandbutton.backstyle.md)
+- [CommandButton.BackStyle Property (Outlook Forms Script)](Outlook.commandbutton.backstyle.md)
     
--  [CommandButton.Caption Property (Outlook Forms Script)](Outlook.commandbutton.caption.md)
+- [CommandButton.Caption Property (Outlook Forms Script)](Outlook.commandbutton.caption.md)
     
--  [CommandButton.Enabled Property (Outlook Forms Script)](Outlook.commandbutton.enabled.md)
+- [CommandButton.Enabled Property (Outlook Forms Script)](Outlook.commandbutton.enabled.md)
     
--  [CommandButton.ForeColor Property (Outlook Forms Script)](Outlook.commandbutton.forecolor.md)
+- [CommandButton.ForeColor Property (Outlook Forms Script)](Outlook.commandbutton.forecolor.md)
     
--  [CommandButton.Locked Property (Outlook Forms Script)](Outlook.commandbutton.locked.md)
+- [CommandButton.Locked Property (Outlook Forms Script)](Outlook.commandbutton.locked.md)
     
--  [CommandButton.MouseIcon Property (Outlook Forms Script)](Outlook.commandbutton.mouseicon.md)
+- [CommandButton.MouseIcon Property (Outlook Forms Script)](Outlook.commandbutton.mouseicon.md)
     
--  [CommandButton.MousePointer Property (Outlook Forms Script)](Outlook.commandbutton.mousepointer.md)
+- [CommandButton.MousePointer Property (Outlook Forms Script)](Outlook.commandbutton.mousepointer.md)
     
--  [CommandButton.Picture Property (Outlook Forms Script)](Outlook.commandbutton.picture.md)
+- [CommandButton.Picture Property (Outlook Forms Script)](Outlook.commandbutton.picture.md)
     
--  [CommandButton.PicturePosition Property (Outlook Forms Script)](Outlook.commandbutton.pictureposition.md)
+- [CommandButton.PicturePosition Property (Outlook Forms Script)](Outlook.commandbutton.pictureposition.md)
     
--  [CommandButton.TakeFocusOnClick Property (Outlook Forms Script)](Outlook.commandbutton.takefocusonclick.md)
+- [CommandButton.TakeFocusOnClick Property (Outlook Forms Script)](Outlook.commandbutton.takefocusonclick.md)
     
--  [CommandButton.WordWrap Property (Outlook Forms Script)](Outlook.commandbutton.wordwrap.md)
+- [CommandButton.WordWrap Property (Outlook Forms Script)](Outlook.commandbutton.wordwrap.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

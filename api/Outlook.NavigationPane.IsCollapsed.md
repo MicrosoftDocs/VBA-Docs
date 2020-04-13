@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationPane.IsCollapsed property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether the navigation pane is collapsed. Read/write.
+Returns or sets a **Boolean** value that determines whether the navigation pane is collapsed. Read/write.
 
 
 ## Syntax

@@ -13,11 +13,11 @@ localization_priority: Normal
 
 
 
-Represents a subproject. The  **Subproject** object is a member of the **[Subprojects](Project.subprojects(object).md)** collection.
+Represents a subproject. The **Subproject** object is a member of the **[Subprojects](Project.subprojects(object).md)** collection.
  **Using the Subproject Object**
 Use  **Subprojects** (_index_), where _index_ is the subproject index or project summary task name, to return a single **Subproject** object. The following example prevents changes made to the specified subproject in a master project from being automatically made to the source project.
  **Using the Subprojects Collection**
-Use the  **[Subprojects](./Project.Project.Subprojects.md)** property to return a **Subprojects** collection. The following example cautions the user if any of the subprojects in the active project are not on the hard disk.
+Use the **[Subprojects](./Project.Project.Subprojects.md)** property to return a **Subprojects** collection. The following example cautions the user if any of the subprojects in the active project are not on the hard disk.
 
 ## Properties
 

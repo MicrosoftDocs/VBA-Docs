@@ -16,6 +16,6 @@ Returns or sets a **String** value that represents the view implementation via X
 
 _expression_.**ViewXML**
 
-_expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a **ViewCtl** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

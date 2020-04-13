@@ -41,7 +41,7 @@ SpellingSuggestions
 
 ## Remarks
 
-If the word is spelled correctly, the  **Count** property of the **SpellingSuggestions** object returns 0 (zero).
+If the word is spelled correctly, the **Count** property of the **SpellingSuggestions** object returns 0 (zero).
 
 
 ## Example

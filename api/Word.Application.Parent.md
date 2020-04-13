@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Application** object.
+Returns an **Object** that represents the parent object of the specified **Application** object.
 
 
 ## Syntax

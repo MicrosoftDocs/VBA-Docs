@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.StartInStartTimeZone property (Outlook)
 
-Returns or sets a  **Date** value that represents the start date and time of the appointment expressed in the **[AppointmentItem.StartTimeZone](Outlook.AppointmentItem.StartTimeZone.md)**. Read/write.
+Returns or sets a **Date** value that represents the start date and time of the appointment expressed in the **[AppointmentItem.StartTimeZone](Outlook.AppointmentItem.StartTimeZone.md)**. Read/write.
 
 
 ## Syntax

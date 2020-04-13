@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.LoadWebPage event (Project)
 
-Occurs after the  **LoadWebBrowserControl** method is called. The method loads the web browser control inside Project, and then the event is fired.
+Occurs after the **LoadWebBrowserControl** method is called. The method loads the web browser control inside Project, and then the event is fired.
 
 
 ## Syntax

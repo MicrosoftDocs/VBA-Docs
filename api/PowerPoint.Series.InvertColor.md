@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Series](PowerPoint.Series.md) object.
 
 ## Remarks
 
-The  **InvertColor** property enables you to set the fill color for negative data points as a specific numeric, hexadecimal, octal, or RGB color value. To set the value as an RBG value, use the Visual Basic RGB function. Instead of using the **InvertColor** property, you can use the **InvertColorIndex** property, which uses a simplier set of integer values from the current color palette.
+The **InvertColor** property enables you to set the fill color for negative data points as a specific numeric, hexadecimal, octal, or RGB color value. To set the value as an RBG value, use the Visual Basic RGB function. Instead of using the **InvertColor** property, you can use the **InvertColorIndex** property, which uses a simplier set of integer values from the current color palette.
 
 For the  **InvertColor** property to have an effect, the **InvertIfNegative** property of the **Series** object must also be set to **True**.
 

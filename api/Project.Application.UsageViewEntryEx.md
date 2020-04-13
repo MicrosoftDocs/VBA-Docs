@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.UsageViewEntryEx method (Project)
 
-Adds fields to the  **Details** pane and option menu for the Task Usage or Resource Usage views, and formats the styles to help distinguish detail rows.
+Adds fields to the **Details** pane and option menu for the Task Usage or Resource Usage views, and formats the styles to help distinguish detail rows.
 
 
 ## Syntax
@@ -30,14 +30,14 @@ _expression_. `UsageViewEntryEx`( `_CurIndex_`, `_Order_`, `_FontWord_`, `_CellB
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _CurIndex_|Optional|**Integer**|Current zero-based index of fields in the  **Show these fields** list in the **Detail Styles** dialog box. Values greater than the number of fields currently shown are reduced to the next highest value in the actual list. For example, if there are two fields showing and _CurIndex_ = 8, the value of _CurIndex_ is reduced to 2. The default value is 0.|
+| _CurIndex_|Optional|**Integer**|Current zero-based index of fields in the **Show these fields** list in the **Detail Styles** dialog box. Values greater than the number of fields currently shown are reduced to the next highest value in the actual list. For example, if there are two fields showing and _CurIndex_ = 8, the value of _CurIndex_ is reduced to 2. The default value is 0.|
 | _Order_|Optional|**Integer**|Order of the field in an internal array of fields. For valid values, see the table of field names in the Remarks section.|
 | _FontWord_|Optional|**Long**|Deprecated in Project. In some versions of Project,  _FontWord_ set the font color by using the **PjColor** enumeration.|
 | _CellBackground_|Optional|**Long**|Color of the cells for entry. Can be a hexadecimal RGB value, where red is the last byte. For example, &HFFFF00 is blue-green.|
-| _Pattern_|Optional|**Integer**|Background pattern of the cells for entry. Can be one of the  **[PjBackgroundPattern](Project.PjBackgroundPattern.md)** constants.|
+| _Pattern_|Optional|**Integer**|Background pattern of the cells for entry. Can be one of the **[PjBackgroundPattern](Project.PjBackgroundPattern.md)** constants.|
 | _Shortcut_|Optional|**Boolean**|**True** if the field is shown on the option menu of the **Details** pane; otherwise, **False**. Shortcut is **True** if DisplayField is **True**.|
 | _DisplayField_|Optional|**Boolean**|**True** if the field is displayed in the **Details** pane; otherwise, **False**. The DisplayField parameter has no effect on fields that are already displayed.|
-| _FontColor_|Optional|**Long**|Color of text in the  **Details** column for usage entry. Can be a hexadecimal RGB value, where red is the last byte. For example, &HFF00FF is purple.|
+| _FontColor_|Optional|**Long**|Color of text in the **Details** column for usage entry. Can be a hexadecimal RGB value, where red is the last byte. For example, &HFF00FF is purple.|
 
 ## Return value
 
@@ -46,7 +46,7 @@ _expression_. `UsageViewEntryEx`( `_CurIndex_`, `_Order_`, `_FontWord_`, `_CellB
 
 ## Remarks
 
-In the Task Usage or Resource Usage view, choose the  **FORMAT** tab to see the six default fields in the **Details** group on the ribbon. The **Add Details** command displays the **Detail Styles** dialog box, which shows&mdash;in alphabetical order&mdash;all of the fields available in the current view.
+In the Task Usage or Resource Usage view, choose the **FORMAT** tab to see the six default fields in the **Details** group on the ribbon. The **Add Details** command displays the **Detail Styles** dialog box, which shows&mdash;in alphabetical order&mdash;all of the fields available in the current view.
 
 The following table lists the possible fields for the  _Order_ parameter, and shows values for the Task Usage and Resource Usage views.
 
@@ -135,7 +135,7 @@ In Project 2003 and Office Project 2007, the original **UsageViewEntry** method 
 
 ## Example
 
-In the Resource Usage view, the following statement colors the cells for data entry a light yellow in a diagonal-left pattern and colors the  **Work** text in the **Details** column purple to help show the rows for data entry.
+In the Resource Usage view, the following statement colors the cells for data entry a light yellow in a diagonal-left pattern and colors the **Work** text in the **Details** column purple to help show the rows for data entry.
 
 
 ```vb
@@ -143,7 +143,7 @@ Application.UsageViewEntryEx CellBackground:=&H01ffff, Pattern:=pjBackgroundDiag
  FontColor:=&Hff00ff
 ```
 
-In the Task Usage view, the default field is  **Work**. The following statement adds the  **Actual Cost** field in green, after the **Work** field.
+In the Task Usage view, the default field is **Work**. The following statement adds the **Actual Cost** field in green, after the **Work** field.
 
 
 

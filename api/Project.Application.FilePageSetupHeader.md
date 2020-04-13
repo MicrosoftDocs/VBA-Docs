@@ -71,7 +71,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Using the  **FilePageSetupHeader** method without specifying any arguments displays the **Page Setup** dialog box with the **Header** tab selected.
+Using the **FilePageSetupHeader** method without specifying any arguments displays the **Page Setup** dialog box with the **Header** tab selected.
 
 
 ## Example

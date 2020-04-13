@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # UserProperty.ValidationText property (Outlook)
 
-Returns or sets a  **String** specifying the validation text for the specified user property. Read/write.
+Returns or sets a **String** specifying the validation text for the specified user property. Read/write.
 
 
 ## Syntax

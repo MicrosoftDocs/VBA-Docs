@@ -19,7 +19,7 @@ Represents a view that displays Outlook items as a series of index cards.
 
 ## Remarks
 
-The  **CardView** object, derived from the **[View](Outlook.View.md)** object, allows you to create customizable views that allow you to display Outlook items as index cards.
+The **CardView** object, derived from the **[View](Outlook.View.md)** object, allows you to create customizable views that allow you to display Outlook items as index cards.
 
 Outlook provides several built-in  **CardView** objects, and you can also create custom **CardView** objects. Use the **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection to add a new **CardView** to a **[Folder](Outlook.Folder.md)** object. Use the **[Standard](Outlook.CardView.Standard.md)** property to determine if an existing **CardView** object is built-in or custom.
 

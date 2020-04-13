@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ImportanceRuleCondition.Enabled property (Outlook)
 
-Returns or sets a  **Boolean** that determines if the rule condition is enabled. Read/write.
+Returns or sets a **Boolean** that determines if the rule condition is enabled. Read/write.
 
 
 ## Syntax

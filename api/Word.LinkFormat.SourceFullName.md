@@ -26,7 +26,7 @@ _expression_. `SourceFullName`
 
 ## Remarks
 
-Using this property is equivalent to using in sequence the  **[SourcePath](Word.LinkFormat.SourcePath.md)**, **[PathSeparator](Word.Application.PathSeparator.md)**, and **[SourceName](Word.LinkFormat.SourceName.md)** properties.
+Using this property is equivalent to using in sequence the **[SourcePath](Word.LinkFormat.SourcePath.md)**, **[PathSeparator](Word.Application.PathSeparator.md)**, and **[SourceName](Word.LinkFormat.SourceName.md)** properties.
 
 
 ## Example

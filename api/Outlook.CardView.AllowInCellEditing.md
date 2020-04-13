@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CardView.AllowInCellEditing property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether in-cell editing is allowed in the **[CardView](Outlook.CardView.md)** object. Read/write.
+Returns or sets a **Boolean** value that determines whether in-cell editing is allowed in the **[CardView](Outlook.CardView.md)** object. Read/write.
 
 
 ## Syntax

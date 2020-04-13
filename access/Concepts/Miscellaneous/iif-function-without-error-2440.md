@@ -5,7 +5,7 @@ f1_keywords:
 - jeterr40.chm5002440
 ms.prod: access
 ms.assetid: a23fac4c-d1e2-213a-6e14-b17fb8cd48d7
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The  **IIf** function requires parentheses around its arguments, as shown in the following syntax:
+The **IIf** function requires parentheses around its arguments, as shown in the following syntax:
 
  **IIf** ( _expr_, _truepart_, _falsepart_ )
 

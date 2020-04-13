@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OutlookBarShortcuts.Item method (Outlook)
 
-Returns an  **[OutlookBarShortcut](Outlook.OutlookBarShortcut.md)** object from the collection.
+Returns an **[OutlookBarShortcut](Outlook.OutlookBarShortcut.md)** object from the collection.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents an [OutlookBarShortcuts](Outlook.Outlook
 
 ## Return value
 
-An  **OutlookBarShortcut** object that represents the specified object.
+An **OutlookBarShortcut** object that represents the specified object.
 
 
 ## See also

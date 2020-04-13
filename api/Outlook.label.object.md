@@ -12,7 +12,7 @@ localization_priority: Normal
 ## In this section
 
 
--  [Label Object (Outlook Forms Script)](Outlook.label.md)
+- [Label Object (Outlook Forms Script)](Outlook.label.md)
     
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleActions.AssignToCategory property (Outlook)
 
-Returns an  **[AssignToCategoryRuleAction](Outlook.AssignToCategoryRuleAction.md)** object with **[AssignToCategoryRuleAction.ActionType](Outlook.AssignToCategoryRuleAction.ActionType.md)** being **olRuleAssignToCategory**. Read-only.
+Returns an **[AssignToCategoryRuleAction](Outlook.AssignToCategoryRuleAction.md)** object with **[AssignToCategoryRuleAction.ActionType](Outlook.AssignToCategoryRuleAction.ActionType.md)** being **olRuleAssignToCategory**. Read-only.
 
 
 ## Syntax

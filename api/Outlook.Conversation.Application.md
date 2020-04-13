@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Conversation.Application property (Outlook)
 
-Returns an  **[Application](Outlook.Application.md)** object that represents the parent Microsoft Outlook application for the **[Conversation](Outlook.Conversation.md)** object. Read-only.
+Returns an **[Application](Outlook.Application.md)** object that represents the parent Microsoft Outlook application for the **[Conversation](Outlook.Conversation.md)** object. Read-only.
 
 
 ## Syntax

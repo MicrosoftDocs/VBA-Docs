@@ -26,7 +26,7 @@ _expression_. `LockTheme`
 
 ## Remarks
 
-Use the  **[ApplyDocumentTheme](Word.ApplyDocumentTheme.md)** method to apply a Microsoft Office theme. Use the **[DocumentTheme](Word.Document.DocumentTheme.md)** property to return the Office theme that is applied to a document.
+Use the **[ApplyDocumentTheme](Word.ApplyDocumentTheme.md)** method to apply a Microsoft Office theme. Use the **[DocumentTheme](Word.Document.DocumentTheme.md)** property to return the Office theme that is applied to a document.
 
 
 ## See also

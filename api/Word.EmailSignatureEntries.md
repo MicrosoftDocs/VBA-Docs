@@ -19,7 +19,7 @@ A collection of  **[EmailSignatureEntry](Word.EmailSignatureEntry.md)** objects 
 
 ## Remarks
 
-Use the  **[EmailSignatureEntries](Word.EmailSignature.EmailSignatureEntries.md)** property to return the **EmailSignatureEntries** collection. Use the **[Add](Word.EmailSignatureEntries.Add.md)** method of the **EmailSignatureEntries** object to add an email signature to Word. The following example creates a new email signature entry based on the author's name and a selection in the active document, and then it sets the new signature entry as the default email signature to use for new messages.
+Use the **[EmailSignatureEntries](Word.EmailSignature.EmailSignatureEntries.md)** property to return the **EmailSignatureEntries** collection. Use the **[Add](Word.EmailSignatureEntries.Add.md)** method of the **EmailSignatureEntries** object to add an email signature to Word. The following example creates a new email signature entry based on the author's name and a selection in the active document, and then it sets the new signature entry as the default email signature to use for new messages.
 
 
 ```vb

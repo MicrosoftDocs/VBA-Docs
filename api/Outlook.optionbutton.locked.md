@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # OptionButton.Locked Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether a control can be edited. Read/write.
+Returns or sets a **Boolean** that specifies whether a control can be edited. Read/write.
 
 
 ## Syntax
 
 _expression_.**Locked**
 
-_expression_ A variable that represents an  **OptionButton** object.
+_expression_ A variable that represents an **OptionButton** object.
 
 
 ## Remarks
@@ -25,7 +25,7 @@ _expression_ A variable that represents an  **OptionButton** object.
 
 When a control is locked and enabled, it can still initiate events and can still receive the focus.
 
-The  **[Enabled](Outlook.optionbutton.enabled.md)** and **Locked** properties work together to achieve the following effects:
+The **[Enabled](Outlook.optionbutton.enabled.md)** and **Locked** properties work together to achieve the following effects:
 
 
 - If  **Enabled** and **Locked** are both **True**, the control can receive focus and appears normally (not dimmed) in the form. The user can copy, but not edit, data in the control.

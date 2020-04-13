@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Table](Word.Table.md)' object.
 
 ## Remarks
 
-This property can be one of the  **WdTableFormat** constants. Use the **AutoFormat** method to apply automatic formatting to a table.
+This property can be one of the **WdTableFormat** constants. Use the **AutoFormat** method to apply automatic formatting to a table.
 
 
 ## Example

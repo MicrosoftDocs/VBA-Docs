@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.ReceivedByName property (Outlook)
 
-Returns a  **String** representing the display name of the true recipient for the mail message. Read-only.
+Returns a **String** representing the display name of the true recipient for the mail message. Read-only.
 
 
 ## Syntax

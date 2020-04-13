@@ -25,18 +25,18 @@ A key is any ASCII key code, and is not case-sensitive. The modifiers are Alt, C
 
 ## Methods
 
--  [Delete](Visio.AccelItem.Delete.md)
+- [Delete](Visio.AccelItem.Delete.md)
 
 ## Properties
 
--  [AddOnArgs](Visio.AccelItem.AddOnArgs.md)
--  [AddOnName](Visio.AccelItem.AddOnName.md)
--  [Alt](Visio.AccelItem.Alt.md)
--  [CmdNum](Visio.AccelItem.CmdNum.md)
--  [Control](Visio.AccelItem.Control.md)
--  [Key](Visio.AccelItem.Key.md)
--  [Parent](Visio.AccelItem.Parent.md)
--  [Shift](Visio.AccelItem.Shift.md)
+- [AddOnArgs](Visio.AccelItem.AddOnArgs.md)
+- [AddOnName](Visio.AccelItem.AddOnName.md)
+- [Alt](Visio.AccelItem.Alt.md)
+- [CmdNum](Visio.AccelItem.CmdNum.md)
+- [Control](Visio.AccelItem.Control.md)
+- [Key](Visio.AccelItem.Key.md)
+- [Parent](Visio.AccelItem.Parent.md)
+- [Shift](Visio.AccelItem.Shift.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

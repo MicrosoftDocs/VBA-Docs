@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # EffectParameters.Color2 property (PowerPoint)
 
-Returns a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents the color on which to end a color-cycle animation.
+Returns a **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents the color on which to end a color-cycle animation.
 
 
 ## Syntax

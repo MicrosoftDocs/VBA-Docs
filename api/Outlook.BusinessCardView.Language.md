@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BusinessCardView.Language property (Outlook)
 
-Returns or sets a  **String** value that represents the language setting for the object that defines the language used in the menu. Read/write.
+Returns or sets a **String** value that represents the language setting for the object that defines the language used in the menu. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [BusinessCardView](Outlook.BusinessCar
 
 ## Remarks
 
-The  **Language** property uses a **String** to represent an ISO language tag. For example, the string "EN-US" represents the ISO code for "United States - English."
+The **Language** property uses a **String** to represent an ISO language tag. For example, the string "EN-US" represents the ISO code for "United States - English."
 
 If a valid language code is specified, the object will only be available in the  **View** menu for the specified language type. If no value is specified, the object item is available for all language types. The default value for this property is an empty string.
 

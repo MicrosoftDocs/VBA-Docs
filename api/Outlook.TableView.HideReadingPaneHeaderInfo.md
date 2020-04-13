@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableView.HideReadingPaneHeaderInfo property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether the header for an Outlook item is displayed in the Reading Pane for the **[TableView](Outlook.TableView.md)** object. Read/write.
+Returns or sets a **Boolean** value that determines whether the header for an Outlook item is displayed in the Reading Pane for the **[TableView](Outlook.TableView.md)** object. Read/write.
 
 
 ## Syntax

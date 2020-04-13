@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[CaptionLabel](Word.CaptionLabel.md)'
 
 ## Remarks
 
-The number 1 corresponds to Heading 1, 2 corresponds to Heading 2, and so on. The  **[IncludeChapterNumber](Word.CaptionLabel.IncludeChapterNumber.md)** property must be set to **True** for chapter numbers to be included with caption labels.
+The number 1 corresponds to Heading 1, 2 corresponds to Heading 2, and so on. The **[IncludeChapterNumber](Word.CaptionLabel.IncludeChapterNumber.md)** property must be set to **True** for chapter numbers to be included with caption labels.
 
 
 ## Example

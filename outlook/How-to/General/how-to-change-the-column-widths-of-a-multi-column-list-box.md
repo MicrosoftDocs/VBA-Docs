@@ -5,28 +5,26 @@ f1_keywords:
 - olfm10.chm3077166
 ms.prod: outlook
 ms.assetid: ad79a33e-ec14-0f37-468b-de1b833f1f84
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Change the Column Widths of a Multi-Column List Box
 
-The following example uses the  **[ColumnWidths](../../../api/Outlook.listbox.columnwidths.md)** property to change the column widths of a multicolumn **[ListBox](../../../api/Outlook.listbox.md)**. The example uses three  **[TextBox](../../../api/Outlook.textbox.md)** controls to specify the individual column widths and uses the **[Click](../../../api/Outlook.commandbutton.click.md)** event to specify the units of measure of each **TextBox**.
+The following example uses the **[ColumnWidths](../../../api/Outlook.listbox.columnwidths.md)** property to change the column widths of a multicolumn **[ListBox](../../../api/Outlook.listbox.md)**. The example uses three **[TextBox](../../../api/Outlook.textbox.md)** controls to specify the individual column widths and uses the **[Click](../../../api/Outlook.commandbutton.click.md)** event to specify the units of measure of each **TextBox**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **ListBox** named ListBox1.
-    
+- A **ListBox** named ListBox1.
+
 - Three custom text fields named Text1, Text2, and Text3.
-    
-- Three  **TextBox** controls named TextBox1, TextBox2, and TextBox3 that are bound to the custom text fields above.
-    
-- A  **[CommandButton](../../../api/Outlook.commandbutton.md)** named CommandButton1.
-    
+
+- Three **TextBox** controls named TextBox1, TextBox2, and TextBox3 that are bound to the custom text fields above.
+
+- A **[CommandButton](../../../api/Outlook.commandbutton.md)** named CommandButton1.
+
 Try entering the value 0 to hide a column.
-
-
 
 ```vb
 Dim MyArray(2, 3) 

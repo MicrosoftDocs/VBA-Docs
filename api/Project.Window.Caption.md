@@ -25,7 +25,7 @@ _expression_ A variable that represents a [Window](./Project.Window.md) object.
 
 When the active window is maximized, the title bar displays the caption for both the main and active windows, separating the captions with a hyphen. For example, if the caption for the main window is "Microsoft Project" and the caption for the active window is "Project1.mpp", the title bar displays "Project1.mpp - Microsoft Project" when the active window is maximized.
 
-If you set the  **Caption** property to **Empty**, the title bar displays the default caption. The default caption for the main window is "Microsoft Project".
+If you set the **Caption** property to **Empty**, the title bar displays the default caption. The default caption for the main window is "Microsoft Project".
 
 
 

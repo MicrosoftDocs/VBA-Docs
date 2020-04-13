@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.ConversationID property (Outlook)
 
-Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object that the **[SharingItem](Outlook.SharingItem.md)** object belongs to. Read-only.
+Returns a **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object that the **[SharingItem](Outlook.SharingItem.md)** object belongs to. Read-only.
 
 
 ## Syntax

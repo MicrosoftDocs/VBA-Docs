@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlDayWeekTimeScale enumeration (Outlook)
 
-Specifies the scale of time periods used to display Outlook items in a  **[CalendarView](Outlook.CalendarView.md)** object.
+Specifies the scale of time periods used to display Outlook items in a **[CalendarView](Outlook.CalendarView.md)** object.
 
 
 

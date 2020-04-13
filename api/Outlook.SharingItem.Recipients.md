@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.Recipients property (Outlook)
 
-Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents all the recipients for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
+Returns a **[Recipients](Outlook.Recipients.md)** collection that represents all the recipients for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax

@@ -2,7 +2,7 @@
 title: Outlook Object Model Security Warnings
 ms.prod: outlook
 ms.assetid: 7e0cd805-5104-73af-d74f-b00480db91c4
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -11,12 +11,12 @@ localization_priority: Normal
 
 Subject to how Outlook has been configured to trust applications on a client computer, an application that uses the Outlook object model to access certain data or execute certain actions can invoke security warnings. Depending on the type of information or action that the program was attempting to access or execute, there are three different security prompts that applications can invoke through the Object Model Guard: the address book warning, send message warning, and execute action warning. This topic describes each of these security warnings. 
 
-For more information on the default Outlook security behavior and security configuration options, see  [Security Behavior of the Outlook Object Model](security-behavior-of-the-outlook-object-model.md). For more information on the entry points in the object model that can trigger security warnings, see  [Protected Properties and Methods](protected-properties-and-methods.md).
+For more information on the default Outlook security behavior and security configuration options, see [Security Behavior of the Outlook Object Model](security-behavior-of-the-outlook-object-model.md). For more information on the entry points in the object model that can trigger security warnings, see [Protected Properties and Methods](protected-properties-and-methods.md).
 
 
 ## Address Book Warning
 
-This warning is the most common security warning that is invoked when an untrusted application accesses Outlook data. Entry points that are identified with the "Address Book" prompt type in the topic  [Protected Properties and Methods](protected-properties-and-methods.md) can generate this warning.
+This warning is the most common security warning that is invoked when an untrusted application accesses Outlook data. Entry points that are identified with the "Address Book" prompt type in the topic [Protected Properties and Methods](protected-properties-and-methods.md) can generate this warning.
 
 This warning enables the user to allow or deny the action. The user can also choose to allow access to the address book for a period of time indicated in the drop-down box.
 

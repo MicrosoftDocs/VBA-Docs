@@ -5,7 +5,7 @@ f1_keywords:
 - jeterr40.chm5003377
 ms.prod: access
 ms.assetid: eeeeb07b-9ed8-93cf-1a0b-44c4f2b5e0ad
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The relationship you specified does not exist in this database. Check to see if the name you specified exists in the  **Relations** collection.
+The relationship you specified does not exist in this database. Check to see if the name you specified exists in the **Relations** collection.
 
 ## See also
 

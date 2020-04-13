@@ -29,8 +29,8 @@ _expression_ A variable that represents a [Resource](./Project.Resource.md) obje
 |:-----|:-----|:-----|:-----|
 | _StartDate_|Required|**Variant**|The start date for the timephased data. If the start date falls within an interval, it is "rounded" to the start of the interval. For example, if  _TimeScaleUnit_ is **pjTimescaleWeeks** and _StartDate_ specifies a Wednesday, the start date is rounded to the preceding Monday (assuming that the work week started on a Monday).|
 | _EndDate_|Required|**Variant**|The end date for the timephased data. If the end date falls within an interval, it is "rounded" to the end of the interval.|
-| _Type_|Optional|**Long**|The type of timephased data. Can be one of the  **[PjResourceTimescaledData](Project.PjResourceTimescaledData.md)** constants. The default value is **pjResourceTimescaledWork**.|
-| _TimeScaleUnit_|Optional|**Long**|Can be one of the  **[PjTimescaleUnit](Project.PjTimescaleUnit.md)** constants. The default value is **pjTimescaleWeeks**.|
+| _Type_|Optional|**Long**|The type of timephased data. Can be one of the **[PjResourceTimescaledData](Project.PjResourceTimescaledData.md)** constants. The default value is **pjResourceTimescaledWork**.|
+| _TimeScaleUnit_|Optional|**Long**|Can be one of the **[PjTimescaleUnit](Project.PjTimescaleUnit.md)** constants. The default value is **pjTimescaleWeeks**.|
 | _Count_|Optional|**Long**|The number of timescale units to group together. The default value is 1.|
 
 ## Return value

@@ -2,7 +2,7 @@
 title: Examples of Standard Formats for Data Types
 ms.prod: outlook
 ms.assetid: 89896082-194c-5532-6ebd-afb445390bb2
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -15,10 +15,10 @@ You can format fields that you create with different formats based on the data t
 ## View a complete list of standard formats available for fields
 
 
-- In Outlook, on the  **View** menu, point to **Current View**, and then click  **Format Columns**.
+- In Outlook, on the **View** menu, point to **Current View**, and then click **Format Columns**.
     
 
- **Note**  If you do not find the format you want, you can create a custom format with a  **Formula** data type and the **Format**function.
+ **Note** If you do not find the format you want, you can create a custom format with a **Formula** data type and the **Format**function.
 
 
 
@@ -36,6 +36,6 @@ You can format fields that you create with different formats based on the data t
 | **Text**|Text|
 | **Yes/No**|Yes or NoOn or OffTrue or False|
 
- **Note**  Values entered in a field of a  **Duration** data type with a regular format assume a 24-hour day.
+ **Note** Values entered in a field of a **Duration** data type with a regular format assume a 24-hour day.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

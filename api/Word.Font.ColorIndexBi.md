@@ -26,12 +26,12 @@ _expression_ Required. A variable that represents a **[Font](Word.Font.md)** obj
 
 ## Remarks
 
-The  **wdByAuthor** constant is not valid for **Font** objects.
+The **wdByAuthor** constant is not valid for **Font** objects.
 
 
 ## Example
 
-This example sets the color of the  **Font** object to teal.
+This example sets the color of the **Font** object to teal.
 
 
 ```vb

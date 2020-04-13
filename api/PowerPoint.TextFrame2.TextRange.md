@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextFrame2.TextRange property (PowerPoint)
 
-Returns a  **[TextRange2 object (PowerPoint)](PowerPoint.textrange2.md)** object that represents the text in the specified text frame. Read-only.
+Returns a **[TextRange2 object (PowerPoint)](PowerPoint.textrange2.md)** object that represents the text in the specified text frame. Read-only.
 
 
 ## Syntax

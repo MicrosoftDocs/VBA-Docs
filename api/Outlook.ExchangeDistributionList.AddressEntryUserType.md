@@ -26,7 +26,7 @@ _expression_ A variable that represents an [ExchangeDistributionList](Outlook.Ex
 
 ## Remarks
 
-The  **ExchangeDistributionList** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **AddressEntryUserType** property from the **AddressEntry** object. In the case of **ExchangeDistributionList**, **AddressEntryUserType** should always return **olExchangeDistributionListAddressEntry**.
+The **ExchangeDistributionList** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **AddressEntryUserType** property from the **AddressEntry** object. In the case of **ExchangeDistributionList**, **AddressEntryUserType** should always return **olExchangeDistributionListAddressEntry**.
 
 
 ## See also

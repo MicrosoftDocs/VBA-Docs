@@ -11,7 +11,7 @@ localization_priority: Normal
 
 
 # PeopleView.Filter property (Outlook)
-Returns or sets a  **String** value that represents the filter for a view. Read/write.
+Returns or sets a **String** value that represents the filter for a view. Read/write.
 
 ## Version information
 

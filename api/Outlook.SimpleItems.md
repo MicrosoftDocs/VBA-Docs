@@ -19,7 +19,7 @@ Represents a set of possibly heterogeneous Microsoft Outlook items, with each me
 
 ## Remarks
 
-The  **SimpleItems** collection is used to represent child objects of a **[Conversation](Outlook.Conversation.md)** node object. This collection has only few members and serves the purpose of providing easy access to these items, as opposed to the **[Items](Outlook.Items.md)** and **[Results](Outlook.Results.md)** collections, which have more members.
+The **SimpleItems** collection is used to represent child objects of a **[Conversation](Outlook.Conversation.md)** node object. This collection has only few members and serves the purpose of providing easy access to these items, as opposed to the **[Items](Outlook.Items.md)** and **[Results](Outlook.Results.md)** collections, which have more members.
 
 The order of items in the collection is the same as the ordering of items in the conversation. The collection is ordered by the value of the  **CreationTime** property of each item in ascending order.
 

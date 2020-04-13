@@ -12,6 +12,6 @@ localization_priority: Normal
 
 # Run Visio in Developer Mode
 
-- Click the  **File** tab, click **Options**, click **Advanced**, and then, under  **General**, select  **Run in developer mode**.
+- Click the **File** tab, click **Options**, click **Advanced**, and then, under **General**, select **Run in developer mode**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

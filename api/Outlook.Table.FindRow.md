@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Table](Outlook.Table.md) object.
 
 ## Return value
 
-A  **[Row](Outlook.Row.md)** object that represents the first row in the **Table** that meets the filter criteria. Returns **Null** (**Nothing** in Visual Basic) if no such row can be found, or the **Table** does not contain any rows.
+A **[Row](Outlook.Row.md)** object that represents the first row in the **Table** that meets the filter criteria. Returns **Null** (**Nothing** in Visual Basic) if no such row can be found, or the **Table** does not contain any rows.
 
 
 ## Remarks
@@ -45,7 +45,7 @@ A  **[Row](Outlook.Row.md)** object that represents the first row in the **Table
 
  **FindRow** returns an error if _Filter_ is a blank string or an invalid restriction. In cases where **FindRow** does not find any row, the current row will not be repositioned to where it was before the call to **FindRow**.
 
-To use content indexing search in a  **Table**, use the **[Restrict](Outlook.Table.Restrict.md)** method. **FindRow** returns an error if _Filter_ contains content indexing keywords.
+To use content indexing search in a **Table**, use the **[Restrict](Outlook.Table.Restrict.md)** method. **FindRow** returns an error if _Filter_ contains content indexing keywords.
 
 
 ## See also

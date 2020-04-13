@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableView.MultiLineWidth property (Outlook)
 
-Returns or sets a  **Long** value that represents the text width (in characters) needed to trigger multiline mode in the **[TableView](Outlook.TableView.md)** object . Read/write
+Returns or sets a **Long** value that represents the text width (in characters) needed to trigger multiline mode in the **[TableView](Outlook.TableView.md)** object . Read/write
 
 
 ## Syntax

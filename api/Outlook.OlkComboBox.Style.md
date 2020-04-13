@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkComboBox.Style property (Outlook)
 
-Returns or sets an  **[OlComboBoxStyle](Outlook.OlComboBoxStyle.md)** constant to specify how the user can choose or set the control's value. Read/write.
+Returns or sets an **[OlComboBoxStyle](Outlook.OlComboBoxStyle.md)** constant to specify how the user can choose or set the control's value. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md)
 
 ## Remarks
 
-The default value is  **olComboBoxStyleCombo**.
+The default value is **olComboBoxStyleCombo**.
 
 
 ## See also

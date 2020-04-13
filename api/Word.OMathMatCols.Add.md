@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathMatCols.Add method (Word)
 
-Creates an equation column and adds it to a matrix and returns an  **OMathMatCol** object.
+Creates an equation column and adds it to a matrix and returns an **OMathMatCol** object.
 
 
 ## Syntax

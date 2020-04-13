@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.About method (Project)
 
-Displays the  **About Microsoft Project** dialog box, which lists version, copyright, and license information about Project.
+Displays the **About Microsoft Project** dialog box, which lists version, copyright, and license information about Project.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.CommandBars property (PowerPoint)
 
-Returns a  **CommandBars** collection that represents all the command bars in Microsoft PowerPoint. Read-only.
+Returns a **CommandBars** collection that represents all the command bars in Microsoft PowerPoint. Read-only.
 
 
 ## Syntax

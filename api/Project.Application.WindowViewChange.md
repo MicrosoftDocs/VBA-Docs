@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.WindowViewChange event (Project)
 
-Occurs after the top pane view is changed within a project window. The  **WindowViewChange** event returns a success argument that tells whether the view change action was successful.
+Occurs after the top pane view is changed within a project window. The **WindowViewChange** event returns a success argument that tells whether the view change action was successful.
 
 
 ## Syntax

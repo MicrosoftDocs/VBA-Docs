@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[CalloutFormat](Word.Callou
 
 ## Remarks
 
-Use the  **AutomaticLength** method to set this property to **msoTrue**, and use the **CustomLength** method to set this property to **msoFalse**.
+Use the **AutomaticLength** method to set this property to **msoTrue**, and use the **CustomLength** method to set this property to **msoFalse**.
 
 
 ## Example

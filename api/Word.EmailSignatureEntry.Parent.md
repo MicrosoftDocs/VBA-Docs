@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # EmailSignatureEntry.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **EmailSignatureEntry** object.
+Returns an **Object** that represents the parent object of the specified **EmailSignatureEntry** object.
 
 
 ## Syntax

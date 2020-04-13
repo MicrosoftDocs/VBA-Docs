@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathRad.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **OMathRad** object.
+Returns an **Object** that represents the parent object of the specified **OMathRad** object.
 
 
 ## Syntax

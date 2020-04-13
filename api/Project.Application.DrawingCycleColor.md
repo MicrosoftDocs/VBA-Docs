@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **DrawingCycleColor** method has the same effect as the **Cycle Fill Color** button on the **Drawing** toolbar.
+The **DrawingCycleColor** method has the same effect as the **Cycle Fill Color** button on the **Drawing** toolbar.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

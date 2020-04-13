@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Account.UserName property (Outlook)
 
-Returns a  **String** representing the user name for the **[Account](Outlook.Account.md)**. Read-only.
+Returns a **String** representing the user name for the **[Account](Outlook.Account.md)**. Read-only.
 
 
 ## Syntax

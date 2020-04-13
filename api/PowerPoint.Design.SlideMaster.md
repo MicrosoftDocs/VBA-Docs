@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Design.SlideMaster property (PowerPoint)
 
-Returns a  **[Master](PowerPoint.Master.md)** object that represents the slide master. Read-only.
+Returns a **[Master](PowerPoint.Master.md)** object that represents the slide master. Read-only.
 
 
 ## Syntax

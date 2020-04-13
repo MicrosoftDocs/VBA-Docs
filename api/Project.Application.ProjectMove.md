@@ -40,9 +40,9 @@ _expression_. `ProjectMove`( `_Date_`, `_MoveDeadline_` )
 
 ## Remarks
 
-The  **ProjectMove** method is equivalent to clicking **Move Project** on the **Project** tab of the Ribbon.
+The **ProjectMove** method is equivalent to clicking **Move Project** on the **Project** tab of the Ribbon.
 
-Running the  **ProjectMove** method with no arguments displays the **Move Project** dialog box.
+Running the **ProjectMove** method with no arguments displays the **Move Project** dialog box.
 
 
 ## Example

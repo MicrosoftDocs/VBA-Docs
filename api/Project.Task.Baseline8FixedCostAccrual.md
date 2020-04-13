@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Task.Baseline8FixedCostAccrual property (Project)
 
-Gets or sets when the  **Task** baseline8 accrues fixed costs. Read/write **Long**. Can be one of the **[PjAccrueAt](Project.PjAccrueAt.md)** constants.
+Gets or sets when the **Task** baseline8 accrues fixed costs. Read/write **Long**. Can be one of the **[PjAccrueAt](Project.PjAccrueAt.md)** constants.
 
 
 ## Syntax

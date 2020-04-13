@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **ToggleAssignments** method has the same effect as clicking the box next to a task or resource, to expand or hide assignments.
+The **ToggleAssignments** method has the same effect as clicking the box next to a task or resource, to expand or hide assignments.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Task.SplitParts property (Project)
 
-Gets a  **[SplitParts](Project.SplitPart.md)** collection that represents the portions of a split task. Read-only **SplitParts**.
+Gets a **[SplitParts](Project.SplitPart.md)** collection that represents the portions of a split task. Read-only **SplitParts**.
 
 
 ## Syntax

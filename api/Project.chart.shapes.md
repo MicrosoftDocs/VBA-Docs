@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Chart.Shapes property (Project)
-Gets a  **[Shapes](overview/Project.md)** collection that represents all the shapes on the chart sheet. Read-only **Shapes**.
+Gets a **[Shapes](overview/Project.md)** collection that represents all the shapes on the chart sheet. Read-only **Shapes**.
 
 ## Syntax
 

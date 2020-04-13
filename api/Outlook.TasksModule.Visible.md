@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TasksModule.Visible property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether the **[TasksModule](Outlook.TasksModule.md)** object is displayed in the navigation pane. Read/write.
+Returns or sets a **Boolean** value that determines whether the **[TasksModule](Outlook.TasksModule.md)** object is displayed in the navigation pane. Read/write.
 
 
 ## Syntax

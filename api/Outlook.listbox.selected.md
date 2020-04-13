@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ListBox.Selected Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that indicates the selection state of items in a **[ListBox](Outlook.listbox.md)**. Read/write.
+Returns or sets a **Boolean** that indicates the selection state of items in a **[ListBox](Outlook.listbox.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**Selected**(**_pvargIndex_**)
 
-_expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a **ListBox** object.
 
 
 ## Parameters
@@ -34,7 +34,7 @@ _expression_ A variable that represents a  **ListBox** object.
 
  **True** to indicate that the specified item is selected, **False** if it is not selected.
 
-The  **Selected** property is useful when users can make multiple selections. You can use this property to determine the selected rows in a multi-select list box. You can also use this property to select or deselect rows in a list from code.
+The **Selected** property is useful when users can make multiple selections. You can use this property to determine the selected rows in a multi-select list box. You can also use this property to select or deselect rows in a list from code.
 
 The default value of this property is based on the current selection state of the  **ListBox**.
 

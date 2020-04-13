@@ -25,21 +25,21 @@ The default property of a **MasterShortcuts** collection is **Item**.
 
 ## Methods
 
--  [Drop](Visio.MasterShortcuts.Drop.md)
--  [GetNames](Visio.MasterShortcuts.GetNames.md)
--  [GetNamesU](Visio.MasterShortcuts.GetNamesU.md)
--  [Paste](Visio.MasterShortcuts.Paste.md)
+- [Drop](Visio.MasterShortcuts.Drop.md)
+- [GetNames](Visio.MasterShortcuts.GetNames.md)
+- [GetNamesU](Visio.MasterShortcuts.GetNamesU.md)
+- [Paste](Visio.MasterShortcuts.Paste.md)
 
 ## Properties
 
--  [Application](Visio.MasterShortcuts.Application.md)
--  [Count](Visio.MasterShortcuts.Count.md)
--  [Document](Visio.MasterShortcuts.Document.md)
--  [Item](Visio.MasterShortcuts.Item.md)
--  [ItemFromID](Visio.MasterShortcuts.ItemFromID.md)
--  [ItemU](Visio.MasterShortcuts.ItemU.md)
--  [ObjectType](Visio.MasterShortcuts.ObjectType.md)
--  [Stat](Visio.MasterShortcuts.Stat.md)
+- [Application](Visio.MasterShortcuts.Application.md)
+- [Count](Visio.MasterShortcuts.Count.md)
+- [Document](Visio.MasterShortcuts.Document.md)
+- [Item](Visio.MasterShortcuts.Item.md)
+- [ItemFromID](Visio.MasterShortcuts.ItemFromID.md)
+- [ItemU](Visio.MasterShortcuts.ItemU.md)
+- [ObjectType](Visio.MasterShortcuts.ObjectType.md)
+- [Stat](Visio.MasterShortcuts.Stat.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

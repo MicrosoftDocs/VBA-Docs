@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Rule.IsLocalRule property (Outlook)
 
-Returns a  **Boolean** that indicates if the rule executes as a client-side rule. Read-only.
+Returns a **Boolean** that indicates if the rule executes as a client-side rule. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextRange.Paste method (PowerPoint)
 
-Pastes the text on the Clipboard into the specified text range, and returns a  **TextRange** object that represents the pasted text.
+Pastes the text on the Clipboard into the specified text range, and returns a **TextRange** object that represents the pasted text.
 
 
 ## Syntax

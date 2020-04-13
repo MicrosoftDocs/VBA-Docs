@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # TextBox.SelText Property (Outlook Forms Script)
 
-Returns or sets a  **String** that represents the selected text of a control. Read/write.
+Returns or sets a **String** that represents the selected text of a control. Read/write.
 
 
 ## Syntax
 
 _expression_.**SelText**
 
-_expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a **TextBox** object.
 
 
 ## Remarks

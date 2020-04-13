@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SimpleItems.Count property (Outlook)
 
-Returns a  **Long** that indicates the count of objects in the **[SimpleItems](Outlook.SimpleItems.md)** collection. Read-only.
+Returns a **Long** that indicates the count of objects in the **[SimpleItems](Outlook.SimpleItems.md)** collection. Read-only.
 
 
 ## Syntax

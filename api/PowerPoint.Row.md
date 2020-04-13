@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Row object (PowerPoint)
 
-Represents a row in a table. The  **Row** object is a member of the **[Rows](PowerPoint.Rows.md)** collection. The **Rows** collection includes all the rows in the specified table.
+Represents a row in a table. The **Row** object is a member of the **[Rows](PowerPoint.Rows.md)** collection. The **Rows** collection includes all the rows in the specified table.
 
 
 ## Example
@@ -35,7 +35,7 @@ Use the [Select](PowerPoint.Row.Select.md)method to select a row in a table. Thi
 ActivePresentation.Slides(2).Shapes(5).Table.Rows(1).Select
 ```
 
-Use the [Cells](PowerPoint.Row.Cells.md)property to modify the individual cells in a  **Row** object. This example selects the second row in the table and applies a dashed line style to the bottom border.
+Use the [Cells](PowerPoint.Row.Cells.md)property to modify the individual cells in a **Row** object. This example selects the second row in the table and applies a dashed line style to the bottom border.
 
 
 

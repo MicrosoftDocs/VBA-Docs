@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ComboBox.TopIndex Property (Outlook Forms Script)
 
-Returns or sets a  **Long** that represents the index of the item displayed in the topmost position in the list portion of the **[ComboBox](Outlook.combobox.md)**. Read/write.
+Returns or sets a **Long** that represents the index of the item displayed in the topmost position in the list portion of the **[ComboBox](Outlook.combobox.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**TopIndex**
 
-_expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a **ComboBox** object.
 
 
 ## Remarks

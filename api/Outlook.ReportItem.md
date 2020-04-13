@@ -19,7 +19,7 @@ Represents a mail-delivery report in an Inbox folder.
 
 ## Remarks
 
-The  **ReportItem** object is similar to a **[MailItem](Outlook.MailItem.md)** object, and it contains a report (usually the non-delivery report) or error message from the mail transport system.
+The **ReportItem** object is similar to a **[MailItem](Outlook.MailItem.md)** object, and it contains a report (usually the non-delivery report) or error message from the mail transport system.
 
 Unlike other Microsoft Outlook objects, you cannot create this object. Report items are created automatically when any report or error in general is received from the mail transport system.
 

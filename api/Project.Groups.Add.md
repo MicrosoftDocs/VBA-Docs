@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Groups.Add method (Project)
 
-Adds a  **Group** object to a **Groups** collection.
+Adds a **Group** object to a **Groups** collection.
 
 
 ## Syntax

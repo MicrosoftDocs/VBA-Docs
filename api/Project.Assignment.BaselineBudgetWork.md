@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Assignment.BaselineBudgetWork property (Project)
 
-Gets or sets the baseline budget work (in hours) for an  **Assignment**. Read/write **Variant**.
+Gets or sets the baseline budget work (in hours) for an **Assignment**. Read/write **Variant**.
 
 
 ## Syntax

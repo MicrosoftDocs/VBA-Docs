@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Row.Cells property (PowerPoint)
 
-Returns a  **[CellRange](PowerPoint.CellRange.md)** collection that represents the cells in a table column or row. Read-only.
+Returns a **[CellRange](PowerPoint.CellRange.md)** collection that represents the cells in a table column or row. Read-only.
 
 
 ## Syntax

@@ -28,17 +28,17 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _IconIndex_|Optional| **Variant**|If DisplayAsIcon is  **True**, this argument is a number that corresponds to the icon you want to use in the program file specified by IconFilename. If this argument is omitted, this method uses the first (default) icon.|
+| _IconIndex_|Optional| **Variant**|If DisplayAsIcon is **True**, this argument is a number that corresponds to the icon you want to use in the program file specified by IconFilename. If this argument is omitted, this method uses the first (default) icon.|
 | _Link_|Optional| **Variant**| **True** to create a link to the source file of the Clipboard contents. The default value is **False**.|
-| _Placement_|Optional| **Variant**|Can be either of the  **[WdOLEPlacement](Word.WdOLEPlacement.md)** constants.|
+| _Placement_|Optional| **Variant**|Can be either of the **[WdOLEPlacement](Word.WdOLEPlacement.md)** constants.|
 | _DisplayAsIcon_|Optional| **Variant**| **True** to display the link as an icon. The default value is **False**.|
 | _DataType_|Optional| **Variant**|A format for the Clipboard contents when they are inserted into the document.  **[WdPasteDataType](Word.WdPasteDataType.md)**.|
-| _IconFileName_|Optional| **Variant**|If DisplayAsIcon is  **True**, this argument is the path and file name for the file in which the icon to be displayed is stored.|
-| _IconLabel_|Optional| **Variant**|If DisplayAsIcon is  **True**, this argument is the text that appears below the icon.|
+| _IconFileName_|Optional| **Variant**|If DisplayAsIcon is **True**, this argument is the path and file name for the file in which the icon to be displayed is stored.|
+| _IconLabel_|Optional| **Variant**|If DisplayAsIcon is **True**, this argument is the text that appears below the icon.|
 
 ## Remarks
 
-Unlike with the  **[Paste](Word.Selection.Paste.md)** method, with **PasteSpecial** you can control the format of the pasted information and (optionally) establish a link to the source file (for example, a Microsoft Excel worksheet). If you do not want to replace the contents of the specified selection, use the **[Collapse](Word.Selection.Collapse.md)** method before you use this method. When you use this method, the selection does not expand to include the contents of the Clipboard.
+Unlike with the **[Paste](Word.Selection.Paste.md)** method, with **PasteSpecial** you can control the format of the pasted information and (optionally) establish a link to the source file (for example, a Microsoft Excel worksheet). If you do not want to replace the contents of the specified selection, use the **[Collapse](Word.Selection.Collapse.md)** method before you use this method. When you use this method, the selection does not expand to include the contents of the Clipboard.
 
 
 ## Example

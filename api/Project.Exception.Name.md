@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Exception.Name property (Project)
 
-Gets the name of an  **Exception** object. Read/write **String**.
+Gets the name of an **Exception** object. Read/write **String**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ _expression_ A variable that represents an [Exception](./Project.Exception.md) o
 
  **Name** is the default property of the **Exception** object.
 
-For a code example that uses the  **Task** object, see **[Name](Project.Task.Name.md)**.
+For a code example that uses the **Task** object, see **[Name](Project.Task.Name.md)**.
 
 
 ## See also

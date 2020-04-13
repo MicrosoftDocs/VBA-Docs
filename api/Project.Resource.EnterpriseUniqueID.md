@@ -26,8 +26,8 @@ _expression_ A variable that represents a [Resource](./Project.Resource.md) obje
 
 ## Remarks
 
-The enterprise unique ID is a unique number for the enterprise resource within an instance of Project Web App. For example, the first enterprise resource defined has the unique ID 1, the second enterprise resource is 2, and so forth. The  **Guid** property is the only absolutely unique identification for a resource. For local resources in an enterprise project, the **EnterpriseUniqueID** value is -1.
+The enterprise unique ID is a unique number for the enterprise resource within an instance of Project Web App. For example, the first enterprise resource defined has the unique ID 1, the second enterprise resource is 2, and so forth. The **Guid** property is the only absolutely unique identification for a resource. For local resources in an enterprise project, the **EnterpriseUniqueID** value is -1.
 
-The  **EnterpriseUniqueID** property is available only in Project Professional.
+The **EnterpriseUniqueID** property is available only in Project Professional.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

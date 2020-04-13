@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[PageSetup](Word.PageSetup
 
 ## Remarks
 
-Setting the  **PageHeight** or **PageWidth** property changes the **PaperSize** property to **wdPaperCustom**.
+Setting the **PageHeight** or **PageWidth** property changes the **PaperSize** property to **wdPaperCustom**.
 
 
 ## Example

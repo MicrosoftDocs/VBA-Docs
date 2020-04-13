@@ -19,7 +19,7 @@ _expression_ A variable that represents a 'ShapeRange' object.
 
 ## Remarks
 
-The value of the  **Visible** property can be **msoTrue** or **msoFalse**.
+The value of the **Visible** property can be **msoTrue** or **msoFalse**.
 
 
 ## Property value

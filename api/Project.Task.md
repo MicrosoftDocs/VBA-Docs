@@ -16,12 +16,12 @@ localization_priority: Normal
 
 
 
-Represents a task. The  **Task** object is a member of the **[Tasks](Project.tasks(object).md)** collection.
+Represents a task. The **Task** object is a member of the **[Tasks](Project.tasks(object).md)** collection.
  **Using the Task Object**
 Use  **Tasks** (_index_), where _index_ is the task index number or task name, to return a single **Task** object. The following example prints the name of every resource assigned to every task in the active project.
  **Using the Tasks Collection**
-Use the  **[Tasks](./Project.Selection.Tasks.md)** property to return a **Tasks** collection. The following example displays the name of every task in the selection.
-Use the  **[Add](./Project.Tasks.Add.md)** method to add a **Task** object to the **Tasks** collection. The following example adds a new task to the end of the task list.
+Use the **[Tasks](./Project.Selection.Tasks.md)** property to return a **Tasks** collection. The following example displays the name of every task in the selection.
+Use the **[Add](./Project.Tasks.Add.md)** method to add a **Task** object to the **Tasks** collection. The following example adds a new task to the end of the task list.
 
 ## Methods
 

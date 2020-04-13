@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SlideRange.Layout property (PowerPoint)
 
-Returns or sets a  **PpSlideLayout** constant that represents the slide layout. Read/write.
+Returns or sets a **PpSlideLayout** constant that represents the slide layout. Read/write.
 
 
 ## Syntax

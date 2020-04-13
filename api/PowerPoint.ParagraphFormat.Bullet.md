@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ParagraphFormat.Bullet property (PowerPoint)
 
-Returns a  **[BulletFormat](PowerPoint.BulletFormat.md)** object that represents bullet formatting for the specified paragraph format. Read-only.
+Returns a **[BulletFormat](PowerPoint.BulletFormat.md)** object that represents bullet formatting for the specified paragraph format. Read-only.
 
 
 ## Syntax

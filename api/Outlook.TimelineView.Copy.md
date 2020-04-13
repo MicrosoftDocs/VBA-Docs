@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimelineView.Copy method (Outlook)
 
-Creates a new  **[View](Outlook.View.md)** object based on the existing **[TimelineView](Outlook.TimelineView.md)** object.
+Creates a new **[View](Outlook.View.md)** object based on the existing **[TimelineView](Outlook.TimelineView.md)** object.
 
 
 ## Syntax

@@ -2,7 +2,7 @@
 title: Modifying a Portion of a Document
 ms.prod: word
 ms.assetid: e664871f-4499-421e-deb7-e064cdeba0f0
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Visual Basic includes objects that you can use to modify the following document 
 | **Paragraphs** ( _index_)| **[Paragraph](../../../api/Word.Paragraph.md)**|
 | **Sections** ( _index_)| **[Section](../../../api/Word.Section.md)**|
 
-When these properties are used without an index, a collection object with the same name is returned. For example, the  **Paragraphs** property returns the **[Paragraphs](../../../api/Word.paragraphs.md)** collection object. However, if you identify an item within these collections by index, the object in the second column of the table is returned. For example, `Words(1)` returns a **Range** object. After you have a **Range** object, you can use any of the range properties or methods to modify the **Range** object. For example, the following instruction copies the first word in the selection to the Clipboard.
+When these properties are used without an index, a collection object with the same name is returned. For example, the **Paragraphs** property returns the **[Paragraphs](../../../api/Word.paragraphs.md)** collection object. However, if you identify an item within these collections by index, the object in the second column of the table is returned. For example, `Words(1)` returns a **Range** object. After you have a **Range** object, you can use any of the range properties or methods to modify the **Range** object. For example, the following instruction copies the first word in the selection to the Clipboard.
 
 
 
@@ -33,7 +33,7 @@ End Sub
 ```
 
 
- **Note**  The items in the  **[Paragraphs](../../../api/Word.paragraphs.md)** and **[Sections](../../../api/Word.sections.md)** collections are singular forms of the collection, specifically **Paragraph** objects and **Section** objects, rather than **Range** objects. In fact, most collections in the Word object model have singular form objects with which you can work. However, the **Range** property (which returns a **Range** object) is available from both the **Paragraph** object and the **Section** object, and from most other objects that are children of collections. For example, the following instruction copies the first paragraph in the active document to the Clipboard.
+ **Note** The items in the **[Paragraphs](../../../api/Word.paragraphs.md)** and **[Sections](../../../api/Word.sections.md)** collections are singular forms of the collection, specifically **Paragraph** objects and **Section** objects, rather than **Range** objects. In fact, most collections in the Word object model have singular form objects with which you can work. However, the **Range** property (which returns a **Range** object) is available from both the **Paragraph** object and the **Section** object, and from most other objects that are children of collections. For example, the following instruction copies the first paragraph in the active document to the Clipboard.
 
 
 
@@ -44,7 +44,7 @@ Sub CopyParagraph()
 End Sub
 ```
 
-All of the document element properties in the preceding table are available from the  **Document**,  **Selection**, and  **Range** objects. The following examples demonstrate how you can drill down to these properties from **[Document](../../../api/Word.Document.md)**,  **[Selection](../../../api/Word.Selection.md)**, and  **Range** objects.
+All of the document element properties in the preceding table are available from the **Document**, **Selection**, and **Range** objects. The following examples demonstrate how you can drill down to these properties from **[Document](../../../api/Word.Document.md)**, **[Selection](../../../api/Word.Selection.md)**, and **Range** objects.
 The following example sets the case of the first word in the active document.
 
 
@@ -65,7 +65,7 @@ Sub ChangeSectionMargin()
 End Sub
 ```
 
-The following example double spaces the text in the active document (the  **[Content](../../../api/Word.Document.Content.md)** property returns a **Range** object).
+The following example double spaces the text in the active document (the **[Content](../../../api/Word.Document.Content.md)** property returns a **Range** object).
 
 
 
@@ -78,7 +78,7 @@ End Sub
 
 ## Modifying a group of document elements
 
-To modify a range of text that consists of a group of document elements (characters, words, sentences, paragraphs, or sections), you need to create a  **Range** object. The **Range** method creates a **Range** object given a start and endpoint. For example, the following instruction creates a **Range** object that refers to the first ten characters in the active document.
+To modify a range of text that consists of a group of document elements (characters, words, sentences, paragraphs, or sections), you need to create a **Range** object. The **Range** method creates a **Range** object given a start and endpoint. For example, the following instruction creates a **Range** object that refers to the first ten characters in the active document.
 
 
 ```vb
@@ -88,7 +88,7 @@ Sub SetRangeForFirstTenCharacters()
 End Sub
 ```
 
-Using the  **[Start](../../../api/Word.Range.Start.md)** and **[End](../../../api/Word.Range.End.md)** properties with a **Range** object, you can create a new **Range** object that refers to a group of document elements. For example, the following instruction creates a **Range** object ( `rngThreeWords`) that refers to the first three words in the active document.
+Using the **[Start](../../../api/Word.Range.Start.md)** and **[End](../../../api/Word.Range.End.md)** properties with a **Range** object, you can create a new **Range** object that refers to a group of document elements. For example, the following instruction creates a **Range** object ( `rngThreeWords`) that refers to the first three words in the active document.
 
 
 
@@ -103,7 +103,7 @@ Sub SetRangeForFirstThreeWords()
 End Sub
 ```
 
-The following example creates a  **Range** object ( `rngParagraphs`) beginning at the start of the second paragraph and ending after the third paragraph.
+The following example creates a **Range** object ( `rngParagraphs`) beginning at the start of the second paragraph and ending after the third paragraph.
 
 
 
@@ -118,6 +118,6 @@ Sub SetParagraphRange()
 End Sub
 ```
 
-For more information about defining  **Range** objects, see [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
+For more information about defining **Range** objects, see [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

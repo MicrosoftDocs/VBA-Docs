@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Returning an Object from a Collection (Excel)
 
-The  **Item** property of a collection returns a single object from that collection. The following example sets the `firstBook` variable to a **[Workbook](../../../api/Excel.Workbook.md)** object that represents the first workbook in the  **[Workbooks](../../../api/Excel.Workbooks.md)** collection.
+The **Item** property of a collection returns a single object from that collection. The following example sets the `firstBook` variable to a **[Workbook](../../../api/Excel.Workbook.md)** object that represents the first workbook in the **[Workbooks](../../../api/Excel.Workbooks.md)** collection.
 
 
 ```vb
@@ -20,7 +20,7 @@ Set FirstBook = Workbooks.Item(1)
 ```
 
 
-The  **Item** property is the default property for most collections, so you can write the same statement more concisely by omitting the **Item** keyword.
+The **Item** property is the default property for most collections, so you can write the same statement more concisely by omitting the **Item** keyword.
 
 
 
@@ -29,11 +29,11 @@ The  **Item** property is the default property for most collections, so you can 
 Set FirstBook = Workbooks(1)
 ```
 
-For more information about a specific collection, see the Help topic for that collection or the  **Item** property for the collection.
+For more information about a specific collection, see the Help topic for that collection or the **Item** property for the collection.
 
 ## Named Objects
 
-Although you can usually specify an integer value with the  **Item** property, it may be more convenient to return an object by name. Before you can use a name with the **Item** property, you must name the object. Most often, this is done by setting the object's **Name** property. The following example creates a named worksheet in the active workbook and then refers to the worksheet by name.
+Although you can usually specify an integer value with the **Item** property, it may be more convenient to return an object by name. Before you can use a name with the **Item** property, you must name the object. Most often, this is done by setting the object's **Name** property. The following example creates a named worksheet in the active workbook and then refers to the worksheet by name.
 
 
 ```vb
@@ -46,7 +46,7 @@ End With
 
 ## Predefined Index Values
 
-Some collections have predefined index values you can use to return single objects. Each predefined index value is represented by a constant. For example, you specify an  **xlBordersIndex** constant with the **Item** property of the **Borders** collection to return a single border.
+Some collections have predefined index values you can use to return single objects. Each predefined index value is represented by a constant. For example, you specify an **xlBordersIndex** constant with the **Item** property of the **Borders** collection to return a single border.
 
 The following example sets the bottom border of cells A1:G1 on Sheet1 to a double line.
 

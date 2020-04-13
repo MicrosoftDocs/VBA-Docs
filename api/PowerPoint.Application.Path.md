@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Path property (PowerPoint)
 
-Returns a  **String** that represents the path to the specified **[Application](PowerPoint.Application.md)** object. Read-only.
+Returns a **String** that represents the path to the specified **[Application](PowerPoint.Application.md)** object. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailMergeDataField object (Word)
 
-Represents a single mail merge field in a data source. The  **MailMergeDataField** object is a member of the **[MailMergeDataFields](Word.mailmergedatafields.md)** collection. The **MailMergeDataFields** collection includes all the data fields in a mail merge data source (for example, Name, Address, and City).
+Represents a single mail merge field in a data source. The **MailMergeDataField** object is a member of the **[MailMergeDataFields](Word.mailmergedatafields.md)** collection. The **MailMergeDataFields** collection includes all the data fields in a mail merge data source (for example, Name, Address, and City).
 
 
 ## Remarks
@@ -36,7 +36,7 @@ The following example displays the name of first field in the data source attach
 MsgBox ActiveDocument.MailMerge.DataSource.DataFields(1).Name
 ```
 
-You cannot add fields to the  **MailMergeDataFields** collection. All data fields in a data source are automatically included in the **MailMergeDataFields** collection.
+You cannot add fields to the **MailMergeDataFields** collection. All data fields in a data source are automatically included in the **MailMergeDataFields** collection.
 
 
 ## See also

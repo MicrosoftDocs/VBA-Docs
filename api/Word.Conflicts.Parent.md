@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Conflicts.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Conflicts** object.
+Returns an **Object** that represents the parent object of the specified **Conflicts** object.
 
 
 ## Syntax

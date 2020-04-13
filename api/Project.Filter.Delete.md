@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Filter.Delete method (Project)
 
-Deletes the  **Filter** object from a **Filters** collection.
+Deletes the **Filter** object from a **Filters** collection.
 
 
 ## Syntax

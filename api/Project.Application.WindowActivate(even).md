@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.WindowActivate event (Project)
 
-Occurs when any window within Project is activated. The  **WindowActivate** event does not occur when the application window is activated.
+Occurs when any window within Project is activated. The **WindowActivate** event does not occur when the application window is activated.
 
 
 ## Syntax

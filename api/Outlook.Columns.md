@@ -19,12 +19,12 @@ Represents the collection of  **[Column](Outlook.Column.md)** objects in a **[Ta
 
 ## Remarks
 
-The  **Columns** object supports enumerating **Column** objects in the **[Columns](Outlook.Columns.md)** collection object. It supports the COM interface, **IEnumerable**.
+The **Columns** object supports enumerating **Column** objects in the **[Columns](Outlook.Columns.md)** collection object. It supports the COM interface, **IEnumerable**.
 
 
 ## Example
 
-The following code sample illustrates how to obtain a  **Table** object based on the **LastModificationTime** of items in the Inbox. It also shows how to remove the default columns of the **Table**, add specific columns, and print the values of the corresponding properties of these items.
+The following code sample illustrates how to obtain a **Table** object based on the **LastModificationTime** of items in the Inbox. It also shows how to remove the default columns of the **Table**, add specific columns, and print the values of the corresponding properties of these items.
 
 
 ```vb

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.Baseline5Work property (Project)
 
-Gets or sets the baseline work (in minutes) for a  **Resource**. Read/write **Variant**.
+Gets or sets the baseline work (in minutes) for a **Resource**. Read/write **Variant**.
 
 
 ## Syntax

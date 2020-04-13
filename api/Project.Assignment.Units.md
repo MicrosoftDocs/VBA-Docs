@@ -23,6 +23,6 @@ _expression_ A variable that represents an [Assignment](./Project.Assignment.md)
 
 ## Remarks
 
-If a resource has completed 80% of the assignment, for example, the  **Units** value is 0.8.
+If a resource has completed 80% of the assignment, for example, the **Units** value is 0.8.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

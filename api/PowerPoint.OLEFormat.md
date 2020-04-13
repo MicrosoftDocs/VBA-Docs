@@ -19,7 +19,7 @@ Contains properties and methods that apply to OLE objects.
 
 ## Remarks
 
-The  **[LinkFormat](PowerPoint.LinkFormat.md)** object contains properties and methods that apply to linked OLE objects only. The **[PictureFormat](PowerPoint.PictureFormat.md)** object contains properties and methods that apply to pictures and OLE objects.
+The **[LinkFormat](PowerPoint.LinkFormat.md)** object contains properties and methods that apply to linked OLE objects only. The **[PictureFormat](PowerPoint.PictureFormat.md)** object contains properties and methods that apply to pictures and OLE objects.
 
 
 ## Example

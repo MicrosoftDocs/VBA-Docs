@@ -31,7 +31,7 @@ _expression_ Required. A variable that represents a **[Window](Word.Window.md)**
 | _Background_|Optional| **Variant**|Set to  **True** to have the macro continue while Microsoft Word prints the document.|
 | _Append_|Optional| **Variant**|Set to  **True** to append the specified document to the file name specified by the OutputFileName argument. **False** to overwrite the contents of OutputFileName.|
 | _Range_|Optional| **Variant**|The page range. Can be any  **WdPrintOutRange** constant.|
-| _OutputFileName_|Optional| **Variant**|If PrintToFile is  **True**, this argument specifies the path and file name of the output file.|
+| _OutputFileName_|Optional| **Variant**|If PrintToFile is **True**, this argument specifies the path and file name of the output file.|
 | _From_|Optional| **Variant**|The starting page number when Range is set to  **wdPrintFromTo**.|
 | _To_|Optional| **Variant**|The ending page number when Range is set to  **wdPrintFromTo**.|
 | _Item_|Optional| **Variant**|The item to be printed. Can be any  **WdPrintOutItem** constant.|
@@ -40,7 +40,7 @@ _expression_ Required. A variable that represents a **[Window](Word.Window.md)**
 | _PageType_|Optional| **Variant**|The type of pages to be printed. Can be any  **WdPrintOutPages** constant.|
 | _PrintToFile_|Optional| **Variant**| **True** to send printer instructions to a file. Make sure to specify a file name with OutputFileName.|
 | _Collate_|Optional| **Variant**|When printing multiple copies of a document,  **True** to print all pages of the document before printing the next copy.|
-| _FileName_|Optional| **Variant**|The path and file name of the document to be printed. If this argument is omitted, Word prints the active document. (Available only with the  **Application** object.)|
+| _FileName_|Optional| **Variant**|The path and file name of the document to be printed. If this argument is omitted, Word prints the active document. (Available only with the **Application** object.)|
 | _ActivePrinterMacGX_|Optional| **Variant**|This argument is available only in Microsoft Office Macintosh Edition. For additional information about this argument, consult the language reference Help included with Microsoft Office Macintosh Edition.|
 | _ManualDuplexPrint_|Optional| **Variant**| **True** to print a two-sided document on a printer without a duplex printing kit. If this argument is **True**, the **PrintBackground** and **PrintReverse** properties are ignored. Use the **PrintOddPagesInAscendingOrder** and **PrintEvenPagesInAscendingOrder** properties to control the output during manual duplex printing. This argument may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
 | _PrintZoomColumn_|Optional| **Variant**|The number of pages you want Word to fit horizontally on one page. Can be 1, 2, 3, or 4. Use with the PrintZoomRow argument to print multiple pages on a single sheet.|
@@ -57,7 +57,7 @@ This example prints the current page of the active document.
 ActiveDocument.PrintOut Range:=wdPrintCurrentPage
 ```
 
-This example prints all the documents in the current folder. The  **Dir** function is used to return all file names that have the file name extension ".doc".
+This example prints all the documents in the current folder. The **Dir** function is used to return all file names that have the file name extension ".doc".
 
 
 

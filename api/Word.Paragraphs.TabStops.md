@@ -31,7 +31,7 @@ For information about returning a single member of a collection, see [Returning 
 
 ## Example
 
-This example adds a centered tab stop at 2 inches to all the paragraphs in the active document. The  **InchesToPoints** method is used to convert inches to points.
+This example adds a centered tab stop at 2 inches to all the paragraphs in the active document. The **InchesToPoints** method is used to convert inches to points.
 
 
 ```vb

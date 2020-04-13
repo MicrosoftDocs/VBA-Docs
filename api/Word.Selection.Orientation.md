@@ -26,9 +26,9 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 ## Remarks
 
-Some of the  **WdTextOrientation** constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
+Some of the **WdTextOrientation** constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
-You can set the orientation for a text frame or for a selection that happens to occur inside a text frame. For information about the difference between a text frame and a text box, see the  **[TextFrame](Word.TextFrame.md)** object.
+You can set the orientation for a text frame or for a selection that happens to occur inside a text frame. For information about the difference between a text frame and a text box, see the **[TextFrame](Word.TextFrame.md)** object.
 
 
 ## See also

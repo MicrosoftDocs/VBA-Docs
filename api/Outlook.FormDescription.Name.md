@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormDescription.Name property (Outlook)
 
-Returns or sets a  **String** value that represents the display name for a form. Read/write.
+Returns or sets a **String** value that represents the display name for a form. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [FormDescription](Outlook.FormDescript
 
 ## Remarks
 
-The  **Name** is also the caption for a form. This property must be set before you can use the **[FormDescription.PublishForm](Outlook.FormDescription.PublishForm.md)** method.
+The **Name** is also the caption for a form. This property must be set before you can use the **[FormDescription.PublishForm](Outlook.FormDescription.PublishForm.md)** method.
 
 
 ## See also

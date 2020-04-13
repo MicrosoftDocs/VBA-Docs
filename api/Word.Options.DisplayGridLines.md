@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 
 ## Remarks
 
-This property affects only the document grid. For table gridlines, use the  **[TableGridlines](Word.View.TableGridlines.md)** property.
+This property affects only the document grid. For table gridlines, use the **[TableGridlines](Word.View.TableGridlines.md)** property.
 
 
 ## Example

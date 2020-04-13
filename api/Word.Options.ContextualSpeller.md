@@ -28,7 +28,7 @@ _expression_. `ContextualSpeller`
 
 The contextual speller identifies the structure of words and their location within a sentence to determine if spelling is correct. It can find errors that the standard spelling checker cannot find. For example, a user might type "superb owl" instead of "super bowl". Because both "superb" and "owl" are correctly spelled words, the standard spelling checker would not find an error. Based on the words in context of the sentence and the words around them, the contextual speller determines that the correct words are "super" and "bowl" and makes the change automatically.
 
-This property corresponds to the  **Use contextual spelling** check box in the **Proofing** tab of the **Word Options** dialog box.
+This property corresponds to the **Use contextual spelling** check box in the **Proofing** tab of the **Word Options** dialog box.
 
 
 ## See also

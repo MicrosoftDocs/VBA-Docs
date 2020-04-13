@@ -19,7 +19,7 @@ Represents a row of data in the  **[Table](Outlook.Table.md)** object.
 
 ## Remarks
 
-A  **Table** is composed of rows and columns. It represents a read-only dynamic rowset of data in a **[Folder](Outlook.Folder.md)** or **[Search](Outlook.Search.md)** object. You can regard each row of a **Table** as an item in the folder, and each column as a property of the item. By default, the **Table** contains only a subset of properties for items in the folder. This makes the **Table** an in-memory lightweight rowset that supports fast enumeration and filtering of items in the folder.
+A **Table** is composed of rows and columns. It represents a read-only dynamic rowset of data in a **[Folder](Outlook.Folder.md)** or **[Search](Outlook.Search.md)** object. You can regard each row of a **Table** as an item in the folder, and each column as a property of the item. By default, the **Table** contains only a subset of properties for items in the folder. This makes the **Table** an in-memory lightweight rowset that supports fast enumeration and filtering of items in the folder.
 
  If the **Table** object is obtained from **[Folder.GetTable](Outlook.Folder.GetTable.md)**, you can further specify a filter (in **[Table.Restrict](Outlook.Table.Restrict.md)**) to obtain a more restricted set of rows in the **Table**.
 
@@ -34,7 +34,7 @@ A  **Table** is composed of rows and columns. It represents a read-only dynamic 
 
 ## Example
 
-The following code sample illustrates how to obtain a  **Table** object based on the **LastModificationTime** of items in the Inbox. It also shows how to customize columns in the **Table**, and how to enumerate and print the values of the corresponding properties of these items.
+The following code sample illustrates how to obtain a **Table** object based on the **LastModificationTime** of items in the Inbox. It also shows how to customize columns in the **Table**, and how to enumerate and print the values of the corresponding properties of these items.
 
 
 ```vb

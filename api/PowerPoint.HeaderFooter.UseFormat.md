@@ -31,7 +31,7 @@ MsoTriState
 
 ## Remarks
 
-This property applies only to a  **[HeaderFooter](PowerPoint.HeaderFooter.md)** object that represents a date and time (returned by the **[DateAndTime](PowerPoint.HeadersFooters.DateAndTime.md)** property). Set the **UseFormat** property of a date and time **HeaderFooter** object to **True** when you want to set or return the date and time format by using the **[Format](PowerPoint.HeaderFooter.Format.md)** property. Set the **UseFormat** property to **msoFalse** when you want to set or return the text string for the fixed date and time.
+This property applies only to a **[HeaderFooter](PowerPoint.HeaderFooter.md)** object that represents a date and time (returned by the **[DateAndTime](PowerPoint.HeadersFooters.DateAndTime.md)** property). Set the **UseFormat** property of a date and time **HeaderFooter** object to **True** when you want to set or return the date and time format by using the **[Format](PowerPoint.HeaderFooter.Format.md)** property. Set the **UseFormat** property to **msoFalse** when you want to set or return the text string for the fixed date and time.
 
 The value of the  **UseFormat** property can be one of these **MsoTriState** constants.
 

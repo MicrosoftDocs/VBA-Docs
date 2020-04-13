@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # EventList.AddAdvise method (Visio)
 
-Adds an  **Event** object to the **EventList** collection of the source object whose events you want to receive. When selected events occur, the source object notifies your sink object.
+Adds an **Event** object to the **EventList** collection of the source object whose events you want to receive. When selected events occur, the source object notifies your sink object.
 
 
 ## Syntax

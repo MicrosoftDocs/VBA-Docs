@@ -34,17 +34,17 @@ _expression_ A variable that represents an **[Application](Outlook.Application.m
 
 ## Return value
 
-An  **Object** value that represents the new Outlook item.
+An **Object** value that represents the new Outlook item.
 
 
 ## Remarks
 
-The  **CreateItem** method can only create default Outlook items. To create new items using a custom form, use the **[Add](Outlook.Items.Add.md)** method on the **[Items](Outlook.Items.md)** collection.
+The **CreateItem** method can only create default Outlook items. To create new items using a custom form, use the **[Add](Outlook.Items.Add.md)** method on the **[Items](Outlook.Items.md)** collection.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates a new  **[MailItem](Outlook.MailItem.md)** object and sets the **BodyFormat** property to **olFormatHTML**. The Body text of the email item will now appear in HTML format.
+The following Microsoft Visual Basic for Applications (VBA) example creates a new **[MailItem](Outlook.MailItem.md)** object and sets the **BodyFormat** property to **olFormatHTML**. The Body text of the email item will now appear in HTML format.
 
 
 ```vb

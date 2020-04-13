@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AutoCaptions.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **AutoCaptions** collection.
+Returns an **Object** that represents the parent object of the specified **AutoCaptions** collection.
 
 
 ## Syntax

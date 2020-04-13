@@ -28,7 +28,7 @@ _expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md)
 
 The data is copied to the clipboard in unformatted text format, replacing the existing contents of the clipboard.
 
-If the control style is  **olComboBoxStyleListBox**, then this method will not cut anything.
+If the control style is **olComboBoxStyleListBox**, then this method will not cut anything.
 
 
 ## See also

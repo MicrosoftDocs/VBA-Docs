@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 ## Remarks
 
-This property contains the display names only. The  **[Recipients](Outlook.Recipients.md)** collection should be used to modify the resource recipients. Resources are added as **[BCC](Outlook.MailItem.BCC.md)** recipients to the collection.
+This property contains the display names only. The **[Recipients](Outlook.Recipients.md)** collection should be used to modify the resource recipients. Resources are added as **[BCC](Outlook.MailItem.BCC.md)** recipients to the collection.
 
 
 ## See also

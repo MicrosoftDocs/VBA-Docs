@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # Frame.Zoom Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the percentage to increase or decrease the displayed image. Read/write.
+Returns or sets an **Integer** that specifies the percentage to increase or decrease the displayed image. Read/write.
 
 
 ## Syntax
 
 _expression_.**Zoom**
 
-_expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a **Frame** object.
 
 
 ## Remarks

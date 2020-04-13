@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Recipient.AutoResponse property (Outlook)
 
-Returns or sets a  **String** representing the text of an automatic response for a **[Recipient](Outlook.Recipient.md)**. Read/write.
+Returns or sets a **String** representing the text of an automatic response for a **[Recipient](Outlook.Recipient.md)**. Read/write.
 
 
 ## Syntax

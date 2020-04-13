@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # OptionButton.Enabled Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether a control can receive the focus and respond to user-generated events. Read/write.
+Returns or sets a **Boolean** that specifies whether a control can receive the focus and respond to user-generated events. Read/write.
 
 
 ## Syntax
 
 _expression_.**Enabled**
 
-_expression_ A variable that represents an  **OptionButton** object.
+_expression_ A variable that represents an **OptionButton** object.
 
 
 ## Remarks
@@ -25,7 +25,7 @@ _expression_ A variable that represents an  **OptionButton** object.
 
 Use the  **Enabled** property to enable and disable controls. A disabled control appears dimmed, while an enabled control does not. Also, if a control displays a bitmap, the bitmap is dimmed whenever the control is dimmed.
 
-The  **Enabled** and **[Locked](Outlook.optionbutton.locked.md)** properties work together to achieve the following effects:
+The **Enabled** and **[Locked](Outlook.optionbutton.locked.md)** properties work together to achieve the following effects:
 
 
 - If  **Enabled** and **Locked** are both **True**, the control can receive focus and appears normally (not dimmed) in the form. The user can copy, but not edit, data in the control.

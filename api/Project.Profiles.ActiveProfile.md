@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Profiles.ActiveProfile property (Project)
 
-Gets the  **[Profile](Project.Profile.md)** object of the current account. Read-only **Profile**.
+Gets the **[Profile](Project.Profile.md)** object of the current account. Read-only **Profile**.
 
 
 ## Syntax

@@ -16,7 +16,7 @@ Occurs when the user definitively selects a value for the control that has more 
 
 _expression_.**Click**
 
-_expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a **ComboBox** object.
 
 
 ## Remarks
@@ -34,11 +34,11 @@ The following are examples of actions that initiate the  **Click** event of the 
 
 For some controls, the  **Click** event occurs when the **Value** property changes. However, using the **PropertyChange** or **CustomPropertyChange** event is the preferred technique for detecting a new value for a property. The following are examples of actions that initiate the **Click** event due to assigning a new value to a control: selecting a value for a **[ComboBox](Outlook.combobox.md)** so that it unquestionably matches an item in the control's drop-down list. For example, if a list is not sorted, the first match for characters typed in the edit region may not be the only match in the list, so choosing such a value does not initiate the **Click** event. In a sorted list, you can use entry-matching to ensure that a selected value is a unique match for text the user types.
 
-The  **Click** event is not initiated when **Value** is set to **Null**.
+The **Click** event is not initiated when **Value** is set to **Null**.
 
 Left-clicking changes the value of a control, thus it initiates the  **Click** event. Right-clicking does not change the value of the control, so it does not initiate the **Click** event.
 
-If you bind a  **ComboBox** to a field, then the **Click** event does not fire. You need to use the **PropertyChange** or **CustomPropertyChange** event to detect the change via code, as in the following code sample:
+If you bind a **ComboBox** to a field, then the **Click** event does not fire. You need to use the **PropertyChange** or **CustomPropertyChange** event to detect the change via code, as in the following code sample:
 
 
 

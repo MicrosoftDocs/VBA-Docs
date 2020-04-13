@@ -14,7 +14,7 @@ localization_priority: Normal
 
  
 
-Represents a local outline code in Project. The  **OutlineCode** object is a member of the **[OutlineCodes](Project.outlinecodes(object).md)** collection.
+Represents a local outline code in Project. The **OutlineCode** object is a member of the **[OutlineCodes](Project.outlinecodes(object).md)** collection.
  
  **Using the OutlineCode Object**
  

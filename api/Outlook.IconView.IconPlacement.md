@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # IconView.IconPlacement property (Outlook)
 
-Returns or sets an  **[OlIconViewPlacement](Outlook.OlIconViewPlacement.md)** value that determines how icons are placed within the **[IconView](Outlook.IconView.md)** object. Read/write.
+Returns or sets an **[OlIconViewPlacement](Outlook.OlIconViewPlacement.md)** value that determines how icons are placed within the **[IconView](Outlook.IconView.md)** object. Read/write.
 
 
 ## Syntax

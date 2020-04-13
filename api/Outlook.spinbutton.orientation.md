@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # SpinButton.Orientation Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies whether the control is oriented vertically or horizontally. Read/write.
+Returns or sets an **Integer** that specifies whether the control is oriented vertically or horizontally. Read/write.
 
 
 ## Syntax
 
 _expression_.**Orientation**
 
-_expression_ A variable that represents a  **SpinButton** object.
+_expression_ A variable that represents a **SpinButton** object.
 
 
 ## Remarks

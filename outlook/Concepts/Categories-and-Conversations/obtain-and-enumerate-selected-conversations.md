@@ -2,7 +2,7 @@
 title: Obtain and Enumerate Selected Conversations
 ms.prod: outlook
 ms.assetid: 3bba1e98-b2eb-c53d-354a-bdd899b65a59
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -11,12 +11,9 @@ localization_priority: Normal
 
 By default, Microsoft Outlook displays items in the Inbox by conversation. If a user makes a selection in the Inbox, you can obtain the selection programmatically, including conversation headers and conversation items. The code example in this topic shows how to obtain a selection in the Inbox and enumerate the mail items in each conversation in the selection.
 
-The example contains one method,  `DemoConversationHeadersFromSelection`. The method sets the current view to the Inbox, and then checks to see if the current view is a table view that displays conversations sorted by date. To obtain a selection, including any selected  [ConversationHeader](../../../api/Outlook.ConversationHeader.md) objects, `DemoConversationHeadersFromSelection` uses the [GetSelection](../../../api/Outlook.Selection.GetSelection.md) method of the [Selection](../../../api/Outlook.Selection.md) object, specifying the **OlSelectionContents.olConversationHeaders** constant as an argument. If conversation headers are selected, `DemoConversationHeadersFromSelection` uses the [SimpleItems](../../../api/Outlook.SimpleItems.md) object to enumerate items in each selected conversation, and then displays the subject of those conversation items that are [MailItem](../../../api/Outlook.MailItem.md) objects.
+The example contains one method, `DemoConversationHeadersFromSelection`. The method sets the current view to the Inbox, and then checks to see if the current view is a table view that displays conversations sorted by date. To obtain a selection, including any selected [ConversationHeader](../../../api/Outlook.ConversationHeader.md) objects, `DemoConversationHeadersFromSelection` uses the [GetSelection](../../../api/Outlook.Selection.GetSelection.md) method of the [Selection](../../../api/Outlook.Selection.md) object, specifying the **OlSelectionContents.olConversationHeaders** constant as an argument. If conversation headers are selected, `DemoConversationHeadersFromSelection` uses the [SimpleItems](../../../api/Outlook.SimpleItems.md) object to enumerate items in each selected conversation, and then displays the subject of those conversation items that are [MailItem](../../../api/Outlook.MailItem.md) objects.
 
-The following managed code is written in C#. To run a .NET Framework managed code sample that needs to call into a Component Object Model (COM), you must use an interop assembly that defines and maps managed interfaces to the COM objects in the object model type library. For Outlook, you can use Visual Studio and the Outlook Primary Interop Assembly (PIA). Before you run managed code samples for Outlook 2013, ensure that you have installed the Outlook 2013 PIA and have added a reference to the Microsoft Outlook 15.0 Object Library component in Visual Studio. You should use the following code in the  `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`. For more information about using the Outlook PIA to develop managed Outlook solutions, see the  **Welcome to the Outlook Primary Interop Assembly Reference** on MSDN.
-
-
-
+The following managed code is written in C#. To run a .NET Framework managed code sample that needs to call into a Component Object Model (COM), you must use an interop assembly that defines and maps managed interfaces to the COM objects in the object model type library. For Outlook, you can use Visual Studio and the Outlook Primary Interop Assembly (PIA). Before you run managed code samples for Outlook 2013, ensure that you have installed the Outlook 2013 PIA and have added a reference to the Microsoft Outlook 15.0 Object Library component in Visual Studio. You should use the following code in the `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`. For more information about using the Outlook PIA to develop managed Outlook solutions, see the **Welcome to the Outlook Primary Interop Assembly Reference** on MSDN.
 
 ```cs
 private void DemoConversationHeadersFromSelection() 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimelineView.UpperScaleFont property (Outlook)
 
-Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font used to display the upper portion of the timeline scale for a **[TimelineView](Outlook.TimelineView.md)** object. Read-only.
+Returns a **[ViewFont](Outlook.ViewFont.md)** object that represents the font used to display the upper portion of the timeline scale for a **[TimelineView](Outlook.TimelineView.md)** object. Read-only.
 
 
 ## Syntax

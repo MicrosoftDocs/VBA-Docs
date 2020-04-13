@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # TextBox.TextLength Property (Outlook Forms Script)
 
-Returns a  **Long** that represents the length, in number of characters, of text in the edit region of a **[TextBox](Outlook.textbox.md)**. Read-only.
+Returns a **Long** that represents the length, in number of characters, of text in the edit region of a **[TextBox](Outlook.textbox.md)**. Read-only.
 
 
 ## Syntax
 
 _expression_.**TextLength**
 
-_expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a **TextBox** object.
 
 
 ## Remarks

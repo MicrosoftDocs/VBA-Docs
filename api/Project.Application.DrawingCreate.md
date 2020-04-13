@@ -40,6 +40,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **DrawingCreate** method requires user interaction before additional code can be executed.
+The **DrawingCreate** method requires user interaction before additional code can be executed.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

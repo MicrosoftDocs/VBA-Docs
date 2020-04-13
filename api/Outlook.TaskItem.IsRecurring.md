@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskItem.IsRecurring property (Outlook)
 
-Returns a  **Boolean** value that is **True** if the task is a recurring task. Read-only.
+Returns a **Boolean** value that is **True** if the task is a recurring task. Read-only.
 
 
 ## Syntax

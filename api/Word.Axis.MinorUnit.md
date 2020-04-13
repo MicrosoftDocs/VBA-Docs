@@ -26,9 +26,9 @@ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 ## Remarks
 
-Setting this property sets the  **[MinorUnitIsAuto](Word.Axis.MinorUnitIsAuto.md)** property to **False**.
+Setting this property sets the **[MinorUnitIsAuto](Word.Axis.MinorUnitIsAuto.md)** property to **False**.
 
-Use the  **[TickMarkSpacing](Word.Axis.TickLabelSpacing.md)** property to set tick-mark spacing on the category axis.
+Use the **[TickMarkSpacing](Word.Axis.TickLabelSpacing.md)** property to set tick-mark spacing on the category axis.
 
 
 ## Example

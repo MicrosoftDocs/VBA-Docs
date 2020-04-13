@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FileConverter.Application property (PowerPoint)
 
-Returns an  **[Application](PowerPoint.Application.md)** object that represents the Microsoft PowerPoint application.
+Returns an **[Application](PowerPoint.Application.md)** object that represents the Microsoft PowerPoint application.
 
 
 ## Syntax

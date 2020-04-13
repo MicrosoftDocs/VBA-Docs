@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Subproject.InsertedProjectSummary property (Project)
 
-Gets a  **[Task](Project.Task.md)** object that represents the summary task of the subproject in a master project. Read-only **Task**.
+Gets a **[Task](Project.Task.md)** object that represents the summary task of the subproject in a master project. Read-only **Task**.
 
 
 ## Syntax

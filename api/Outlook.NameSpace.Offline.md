@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.Offline property (Outlook)
 
-Returns a  **Boolean** indicating **True** if Outlook is offline (not connected to an Exchange server), and **False** if online (connected to an Exchange server). Read-only.
+Returns a **Boolean** indicating **True** if Outlook is offline (not connected to an Exchange server), and **False** if online (connected to an Exchange server). Read-only.
 
 
 ## Syntax

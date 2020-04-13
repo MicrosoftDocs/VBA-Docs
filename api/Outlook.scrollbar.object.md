@@ -12,7 +12,7 @@ localization_priority: Normal
 ## In this section
 
 
--  [ScrollBar Object (Outlook Forms Script)](Outlook.scrollbar.md)
+- [ScrollBar Object (Outlook Forms Script)](Outlook.scrollbar.md)
     
 
 

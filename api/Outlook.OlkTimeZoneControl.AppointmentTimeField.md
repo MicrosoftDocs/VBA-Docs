@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTimeZoneControl.AppointmentTimeField property (Outlook)
 
-Returns or sets an  **[OlAppointmentTimeField](Outlook.OlAppointmentTimeField.md)** constant that specifies the time field on the appointment that the control binds against. Read/write.
+Returns or sets an **[OlAppointmentTimeField](Outlook.OlAppointmentTimeField.md)** constant that specifies the time field on the appointment that the control binds against. Read/write.
 
 
 ## Syntax

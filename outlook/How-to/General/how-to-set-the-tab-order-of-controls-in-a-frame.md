@@ -5,30 +5,30 @@ f1_keywords:
 - olfm10.chm3077250
 ms.prod: outlook
 ms.assetid: 6525530b-e9a3-4285-30c5-0b9dd0e289d8
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Set the Tab Order of Controls in a Frame
 
-The following example uses the  **TabIndex** property to display and set the tab order for individual controls. The **TabIndex** property is a Microsoft Forms 2.0 property that applies to every control that can exist in a **[Frame](../../../api/Outlook.frame.md)**. The user can press TAB to reach the next control in the tab order and to display the  **TabIndex** of that control. The user can also click on any control, except a **[TextBox](../../../api/Outlook.textbox.md)** or **[ScrollBar](../../../api/Outlook.scrollbar.md)**, to display its  **TabIndex**. The user can change the  **TabIndex** of a control by specifying a new index value in the **TextBox** and clicking CommandButton3. Changing the **TabIndex** for one control also updates the **TabIndex** for other controls in the **Frame**.
+The following example uses the **TabIndex** property to display and set the tab order for individual controls. The **TabIndex** property is a Microsoft Forms 2.0 property that applies to every control that can exist in a **[Frame](../../../api/Outlook.frame.md)**. The user can press TAB to reach the next control in the tab order and to display the **TabIndex** of that control. The user can also click on any control, except a **[TextBox](../../../api/Outlook.textbox.md)** or **[ScrollBar](../../../api/Outlook.scrollbar.md)**, to display its **TabIndex**. The user can change the **TabIndex** of a control by specifying a new index value in the **TextBox** and clicking CommandButton3. Changing the **TabIndex** for one control also updates the **TabIndex** for other controls in the **Frame**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **[Label](../../../api/Outlook.label.md)** named Label1.
+- A **[Label](../../../api/Outlook.label.md)** named Label1.
     
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.
     
-- A  **Frame** named Frame1.
+- A **Frame** named Frame1.
     
-- A  **TextBox** in the **Frame** named TextBox2.
+- A **TextBox** in the **Frame** named TextBox2.
     
-- Two  **[CommandButton](../../../api/Outlook.commandbutton.md)** controls in the **Frame** named CommandButton1 and CommandButton2.
+- Two **[CommandButton](../../../api/Outlook.commandbutton.md)** controls in the **Frame** named CommandButton1 and CommandButton2.
     
-- A  **ScrollBar** in the **Frame** named ScrollBar1.
+- A **ScrollBar** in the **Frame** named ScrollBar1.
     
-- A  **CommandButton** (not in the **Frame**) named CommandButton3.
+- A **CommandButton** (not in the **Frame**) named CommandButton3.
     
 
 

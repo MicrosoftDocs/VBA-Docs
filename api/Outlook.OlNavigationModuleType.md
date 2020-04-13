@@ -14,21 +14,21 @@ localization_priority: Normal
 
 # OlNavigationModuleType enumeration (Outlook)
 
-Identifies the navigation module type of a  **[NavigationModule](Outlook.NavigationModule.md)** object.
+Identifies the navigation module type of a **[NavigationModule](Outlook.NavigationModule.md)** object.
 
 
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **olModuleCalendar**|1|A  **[CalendarModule](Outlook.CalendarModule.md)** object that represents the **Calendar** navigation module.|
-| **olModuleContacts**|2|A  **[ContactsModule](Outlook.ContactsModule.md)** object that represents the **Contacts** navigation module.|
-| **olModuleFolderList**|6|A  **NavigationModule** object that represents the **Folders List** navigation module.|
-| **olModuleJournal**|4|A  **[JournalModule](Outlook.JournalModule.md)** object that represents the **Journal** navigation module.|
-| **olModuleMail**|0|A  **[MailModule](Outlook.MailModule.md)** object that represents the **Mail** navigation module.|
-| **olModuleNotes**|5|A  **[NotesModule](Outlook.NotesModule.md)** object that represents the **Notes** navigation module.|
-| **olModuleShortcuts**|7|A  **NavigationModule** object that represents the **Shortcuts** navigation module.|
-| **olModuleSolutions**|8|A  **[SolutionsModule](Outlook.SolutionsModule.md)** object that represents the **Solutions** navigation module.|
-| **olModuleTasks**|3|A  **[TasksModule](Outlook.TasksModule.md)** object that represents the **Tasks** navigation module.|
+| **olModuleCalendar**|1|A **[CalendarModule](Outlook.CalendarModule.md)** object that represents the **Calendar** navigation module.|
+| **olModuleContacts**|2|A **[ContactsModule](Outlook.ContactsModule.md)** object that represents the **Contacts** navigation module.|
+| **olModuleFolderList**|6|A **NavigationModule** object that represents the **Folders List** navigation module.|
+| **olModuleJournal**|4|A **[JournalModule](Outlook.JournalModule.md)** object that represents the **Journal** navigation module.|
+| **olModuleMail**|0|A **[MailModule](Outlook.MailModule.md)** object that represents the **Mail** navigation module.|
+| **olModuleNotes**|5|A **[NotesModule](Outlook.NotesModule.md)** object that represents the **Notes** navigation module.|
+| **olModuleShortcuts**|7|A **NavigationModule** object that represents the **Shortcuts** navigation module.|
+| **olModuleSolutions**|8|A **[SolutionsModule](Outlook.SolutionsModule.md)** object that represents the **Solutions** navigation module.|
+| **olModuleTasks**|3|A **[TasksModule](Outlook.TasksModule.md)** object that represents the **Tasks** navigation module.|
 
 ## Remarks
 

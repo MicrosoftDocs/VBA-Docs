@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskItem.ContactNames property (Outlook)
 
-Returns or sets a  **String** representing the contact names associated with the Outlook item. Read/write.
+Returns or sets a **String** representing the contact names associated with the Outlook item. Read/write.
 
 
 ## Syntax

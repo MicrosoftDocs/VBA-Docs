@@ -26,7 +26,7 @@ _expression_. `NextParagraphStyle`
 
 ## Remarks
 
-You can set the  **NextParagraphStyle** property by using the local name of the style, an integer or a **WdBuiltinStyle** constant, or an object that represents the next style. For a list of the **WdBuiltinStyle** constants, see the **Style** property for the object that you want to set.
+You can set the **NextParagraphStyle** property by using the local name of the style, an integer or a **WdBuiltinStyle** constant, or an object that represents the next style. For a list of the **WdBuiltinStyle** constants, see the **Style** property for the object that you want to set.
 
 
 ## Example

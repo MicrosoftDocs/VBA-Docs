@@ -2,7 +2,7 @@
 title: Editing text
 ms.prod: word
 ms.assetid: 55c4d9ee-00f1-fcc6-72b1-2c19f25420a6
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -20,7 +20,7 @@ For information about, and examples of, other editing tasks, see the following t
 
 ## Determining whether text is selected
 
-The  **[Type](../../../api/Word.Selection.Type.md)** property of the  **[Selection](../../../api/Word.Selection.md)** object returns information about the type of selection. The following example displays a message if the selection is an insertion point.
+The **Type](../../../api/Word.Selection.Type.md)** property of the **Selection](../../../api/Word.Selection.md)** object returns information about the type of selection. The following example displays a message if the selection is an insertion point.
 
 
 ```vb
@@ -29,10 +29,9 @@ Sub IsTextSelected()
 End Sub
 ```
 
-
 ## Collapsing a selection or range
 
-Use the  **Collapse**method to collapse a  **Selection** object or a **[Range](../../../api/Word.Range.md)** object to its beginning or ending point. The following example collapses the selection to an insertion point at the beginning of the selection.
+Use the **Collapse**method to collapse a **Selection** object or a **[Range](../../../api/Word.Range.md)** object to its beginning or ending point. The following example collapses the selection to an insertion point at the beginning of the selection.
 
 
 ```vb
@@ -42,9 +41,6 @@ End Sub
 ```
 
 The following example cancels the range to its ending point (after the first word) and adds new text.
-
-
-
 
 ```vb
 Sub CollapseToEnd() 
@@ -58,10 +54,9 @@ Sub CollapseToEnd()
 End Sub
 ```
 
-
 ## Extending a selection or range
 
-The following example uses the  **[MoveEnd](../../../api/Word.Selection.MoveEnd.md)** method of the  **Selection** object to extend the end of the selection to include three additional words. The **[MoveLeft](../../../api/Word.Selection.MoveLeft.md)**,  **[MoveRight](../../../api/Word.Selection.MoveRight.md)**,  **[MoveUp](../../../api/Word.Selection.MoveUp.md)**, and  **[MoveDown](../../../api/Word.Selection.MoveDown.md)** methods can also be used to extend a  **Selection** object.
+The following example uses the **MoveEnd](../../../api/Word.Selection.MoveEnd.md)** method of the **Selection** object to extend the end of the selection to include three additional words. The **[MoveLeft](../../../api/Word.Selection.MoveLeft.md)**, * **MoveRight](../../../api/Word.Selection.MoveRight.md)**, ** **MoveUp](../../../api/Word.Selection.MoveUp.md)**, and **[ **Down](../../../api/Word.Selection.MoveDown.md)** methods can also be used to extend a **Se **ion** object.
 
 
 ```vb
@@ -70,9 +65,7 @@ Sub ExtendSelection()
 End Sub
 ```
 
-The following example uses the  **[MoveEnd](../../../api/Word.Range.MoveEnd.md)** method of the **[Range](../../../api/Word.Range.md)** object to extend the range to include the first three paragraphs in the active document.
-
-
+The following example uses the **MoveEnd](../../../api/Word.Range.MoveEnd.md)** method of the **[Range](../../../api/Word.Range.md)** object to extend the range to include the first three paragraphs in the active document.
 
 
 ```vb
@@ -87,12 +80,12 @@ End Sub
 
 ## Redefining a selection or range
 
-Use the  **SetRange**method to redefine an existing  **Selection** object or **Range** object. For more information, see [Working with the Selection object](../Working-with-Word/working-with-the-selection-object.md) or [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
+Use the **GetRange**method to redefine an existing **Selection** object or **Range** object. For more information, see [Working with the Selection object](../Working-with-Word/working-with-the-selection-object.md) or [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
 
 
 ## Changing text
 
-You can change existing text by changing the contents of a range. The following instruction changes the first word in the active document by setting the  **[Text](../../../api/Word.Range.Text.md)** property of a  **Range** object to "The ".
+You can change existing text by changing the contents of a range. The following instruction changes the first word in the active document by setting the **Text](../../../api/Word.Range.Text.md)** property of a **nge** object to "The ".
 
 
 ```vb
@@ -101,10 +94,7 @@ Sub ChangeText()
 End Sub
 ```
 
-You can also use the  **Delete**method or the  **Selection** object or the **Range** object to delete existing text, and then insert new text using the **InsertAfter**method or the  **InsertBefore**method. The following example deletes the first paragraph in the active document and inserts new text.
-
-
-
+You can also use the **Delete**method or the **Selection** object or the **Range** object to delete existing text, and then insert new text using the **InsertAfter**method or the **InertBefore** method. The following example deletes the first paragraph in the active document and inserts new text.
 
 ```vb
 Sub DeleteText() 
@@ -118,8 +108,5 @@ Sub DeleteText()
  End With 
 End Sub
 ```
-
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

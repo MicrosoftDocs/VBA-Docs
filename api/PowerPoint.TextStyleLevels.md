@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextStyleLevels object (PowerPoint)
 
-A collection of all the outline text levels. This collection always contains five members, each of which is represented by a  **[TextStyleLevel](PowerPoint.TextStyleLevel.md)** object.
+A collection of all the outline text levels. This collection always contains five members, each of which is represented by a **[TextStyleLevel](PowerPoint.TextStyleLevel.md)** object.
 
 
 ## Example

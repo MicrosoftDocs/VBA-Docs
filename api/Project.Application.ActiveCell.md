@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ActiveCell property (Project)
 
-Gets a  **[Cell](Project.Cell.md)** object that represents the active cell. Read-only **Cell**.
+Gets a **[Cell](Project.Cell.md)** object that represents the active cell. Read-only **Cell**.
 
 
 ## Syntax

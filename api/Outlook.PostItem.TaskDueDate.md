@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PostItem.TaskDueDate property (Outlook)
 
-Returns or sets a  **Date** value that represents the due date of the task for this **[PostItem](Outlook.PostItem.md)**. Read/write.
+Returns or sets a **Date** value that represents the due date of the task for this **[PostItem](Outlook.PostItem.md)**. Read/write.
 
 
 ## Syntax

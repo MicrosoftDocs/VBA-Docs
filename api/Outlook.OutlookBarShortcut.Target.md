@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OutlookBarShortcut.Target property (Outlook)
 
-Returns a  **Variant** indicating the target of the specified shortcut in a **Shortcuts** pane group. Read-only.
+Returns a **Variant** indicating the target of the specified shortcut in a **Shortcuts** pane group. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OutlookBarShortcut](Outlook.OutlookB
 
 ## Remarks
 
-The return type depends on the shortcut type. If the shortcut represents an Outlook folder, the return type is  **Folder**. If the shortcut represents a file-system folder, the return type is an **Object**. If the shortcut represents a file-system path or URL, the return type is a **String**.
+The return type depends on the shortcut type. If the shortcut represents an Outlook folder, the return type is **Folder**. If the shortcut represents a file-system folder, the return type is an **Object**. If the shortcut represents a file-system path or URL, the return type is a **String**.
 
 
 ## Example

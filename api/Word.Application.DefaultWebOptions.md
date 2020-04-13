@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.DefaultWebOptions method (Word)
 
-Returns the  **[DefaultWebOptions](Word.DefaultWebOptions.md)** object that contains global application-level attributes used by Microsoft Word whenever you save a document as a webpage or open a webpage.
+Returns the **[DefaultWebOptions](Word.DefaultWebOptions.md)** object that contains global application-level attributes used by Microsoft Word whenever you save a document as a webpage or open a webpage.
 
 
 ## Syntax

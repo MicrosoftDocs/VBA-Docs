@@ -3,7 +3,7 @@ title: ConvertToString method example (VBScript)
 ROBOTS: INDEX
 ms.prod: access
 ms.assetid: e2315ef1-41ff-22b6-2417-6eba1f5f06d7
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 

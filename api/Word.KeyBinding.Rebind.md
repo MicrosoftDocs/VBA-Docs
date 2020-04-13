@@ -32,11 +32,11 @@ _expression_ Required. A variable that represents a '[KeyBinding](Word.KeyBindin
 |:-----|:-----|:-----|:-----|
 | _KeyCategory_|Required| **WdKeyCategory**|The key category of the specified key binding.|
 | _Command_|Required| **String**|The name of the specified command.|
-| _CommandParameter_|Optional| **Variant**|Additional text, if any, required for the command specified by Command. For information about values for this argument, see the  **[Add](Word.KeyBindings.Add.md)** method.|
+| _CommandParameter_|Optional| **Variant**|Additional text, if any, required for the command specified by Command. For information about values for this argument, see the **[Add](Word.KeyBindings.Add.md)** method.|
 
 ## Example
 
-This example reassigns the CTRL+SHIFT+S key binding to the  **FileSaveAs** command.
+This example reassigns the CTRL+SHIFT+S key binding to the **FileSaveAs** command.
 
 
 ```vb

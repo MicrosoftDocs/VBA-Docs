@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Window.BottomPane property (Project)
 
-Gets a  **[Pane](Project.Pane.md)** object representing the bottom pane of a window. Read-only **Pane**.
+Gets a **[Pane](Project.Pane.md)** object representing the bottom pane of a window. Read-only **Pane**.
 
 
 ## Syntax

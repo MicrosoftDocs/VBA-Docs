@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Category.CategoryBorderColor property (Outlook)
 
-Returns an  **OLE_COLOR** value that represents the border color of the color swatch displayed for a **[Category](Outlook.Category.md)** object. Read-only.
+Returns an **OLE_COLOR** value that represents the border color of the color swatch displayed for a **[Category](Outlook.Category.md)** object. Read-only.
 
 
 ## Syntax

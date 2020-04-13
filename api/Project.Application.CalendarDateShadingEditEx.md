@@ -30,7 +30,7 @@ _expression_. `CalendarDateShadingEditEx`( `_Item_`, `_Pattern_`, `_Color_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Item_|Required|**Long**|The type of calendar day to change. Can be one of the  **[PjCalendarShading](Project.PjCalendarShading.md)** constants.|
+| _Item_|Required|**Long**|The type of calendar day to change. Can be one of the **[PjCalendarShading](Project.PjCalendarShading.md)** constants.|
 | _Pattern_|Optional|**Long**|The pattern for the type of date box specified by  **Item**. Can be one of the **[PjFillPattern](Project.PjFillPattern.md)** constants.|
 | _Color_|Optional|**Long**|The color for the type of date box specified by  **Item**. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value &HFF0000 is blue and &H00FFFF is yellow.|
 
@@ -66,6 +66,6 @@ End Sub
 
 
 > [!NOTE] 
-> If you use any of the  **PjColor** enumeration constants for the _Color_ parameter, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **CalendarDateBoxesEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[CalendarDateShadingEdit](Project.Application.CalendarDateShadingEdit.md)** method.
+> If you use any of the **PjColor** enumeration constants for the _Color_ parameter, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **CalendarDateBoxesEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[CalendarDateShadingEdit](Project.Application.CalendarDateShadingEdit.md)** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

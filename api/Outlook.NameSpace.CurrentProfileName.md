@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.CurrentProfileName property (Outlook)
 
-Returns a  **String** representing the name of the current profile. Read-only.
+Returns a **String** representing the name of the current profile. Read-only.
 
 
 ## Syntax

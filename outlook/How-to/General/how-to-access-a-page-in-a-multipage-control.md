@@ -5,27 +5,24 @@ f1_keywords:
 - olfm10.chm3077150
 ms.prod: outlook
 ms.assetid: dd67169f-2f3e-c93d-b5c5-512e8e83bb7a
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Access a Page in a MultiPage Control
 
-The following example accesses an individual page of a  **[MultiPage](../../../api/Outlook.multipage.md)** in several ways:
+The following example accesses an individual page of a **[MultiPage](../../../api/Outlook.multipage.md)** in several ways:
 
 
-- Using the  **[Pages](../../../api/Outlook.pages(object).md)** collection with a numeric index.
+- Using the **[Pages](../../../api/Outlook.pages(object).md)** collection with a numeric index.
     
-- Using the name of the individual page in the  **MultiPage**.
+- Using the name of the individual page in the **MultiPage**.
     
-- Using the  **[SelectedItem](../../../api/Outlook.multipage.selecteditem.md)** property.
+- Using the **[SelectedItem](../../../api/Outlook.multipage.selecteditem.md)** property.
     
 
-To use this example, copy this sample code to the Script Editor of a form. Make sure that the form contains a  **MultiPage** named MultiPage1 and a **[CommandButton](../../../api/Outlook.commandbutton.md)** named CommandButton1.
-
-
-
+To use this example, copy this sample code to the Script Editor of a form. Make sure that the form contains a **MultiPage** named MultiPage1 and a **[CommandButton](../../../api/Outlook.commandbutton.md)** named CommandButton1.
 
 ```vb
 Sub CommandButton1_Click 

@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-Use the  **ConvertVietDoc** method if you want a document to be viewable on another computer or platform.
+Use the **ConvertVietDoc** method if you want a document to be viewable on another computer or platform.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # HeadingStyle.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **HeadingStyle** object.
+Returns an **Object** that represents the parent object of the specified **HeadingStyle** object.
 
 
 ## Syntax

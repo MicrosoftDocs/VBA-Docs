@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.Categories property (Outlook)
 
-Returns or sets a  **[Categories](Outlook.Categories.md)** object that represents the set of **[Category](Outlook.Category.md)** objects that are available to the namespace. Read/write.
+Returns or sets a **[Categories](Outlook.Categories.md)** object that represents the set of **[Category](Outlook.Category.md)** objects that are available to the namespace. Read/write.
 
 
 ## Syntax

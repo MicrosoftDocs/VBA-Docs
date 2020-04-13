@@ -26,9 +26,9 @@ _expression_ Required. A variable that represents a '[CalloutFormat](Word.Callou
 
 ## Remarks
 
-If the callout drop type is  **msoCalloutDropCustom**, the values of the **Drop** and **AutoAttach** properties and the relative positions of the callout text box and callout line origin (the place that the callout points to) are used to determine where the callout line attaches to the text box.
+If the callout drop type is **msoCalloutDropCustom**, the values of the **Drop** and **AutoAttach** properties and the relative positions of the callout text box and callout line origin (the place that the callout points to) are used to determine where the callout line attaches to the text box.
 
-This property is read-only. Use the  **PresetDrop** method to set the value of this property.
+This property is read-only. Use the **PresetDrop** method to set the value of this property.
 
 
 ## Example

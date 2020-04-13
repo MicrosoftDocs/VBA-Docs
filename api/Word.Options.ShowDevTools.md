@@ -26,7 +26,7 @@ _expression_. `ShowDevTools`
 
 ## Remarks
 
-This property corresponds to the  **Show Developer tab in the Ribbon** check box in the **Word Options** dialog box.
+This property corresponds to the **Show Developer tab in the Ribbon** check box in the **Word Options** dialog box.
 
 
 ## See also

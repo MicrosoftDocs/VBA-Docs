@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.Business2TelephoneNumber property (Outlook)
 
-Returns or sets a  **String** representing the second business telephone number for the contact. Read/write.
+Returns or sets a **String** representing the second business telephone number for the contact. Read/write.
 
 
 ## Syntax

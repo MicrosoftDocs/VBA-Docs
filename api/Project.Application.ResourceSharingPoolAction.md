@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _action_|Required|**Long**|The actions to perform on the resource pool. Can be one of the  **[PjPoolAction](Project.PjPoolAction.md)** constants.|
+| _action_|Required|**Long**|The actions to perform on the resource pool. Can be one of the **[PjPoolAction](Project.PjPoolAction.md)** constants.|
 | _FileName_|Optional|**String**|The file name of the resource pool on which to perform the action.|
 | _ReadOnly_|Optional|**Boolean**|**True** if the files specified with **FileName** are opened read-only.|
 

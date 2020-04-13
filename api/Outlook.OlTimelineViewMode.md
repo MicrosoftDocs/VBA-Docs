@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlTimelineViewMode enumeration (Outlook)
 
-Indicates the view mode when using a  **[TimelineView](Outlook.TimelineView.md)** object.
+Indicates the view mode when using a **[TimelineView](Outlook.TimelineView.md)** object.
 
 
 

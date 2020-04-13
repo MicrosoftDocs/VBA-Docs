@@ -26,9 +26,9 @@ _expression_ A variable that represents a '[EmailOptions](Word.EmailOptions.md)'
 
 ## Remarks
 
-For an explanation of the value returned by this property, see the Name argument of the  **[ApplyTheme](Word.Document.ApplyTheme.md)** method. The value returned by this property may not correspond to the theme's display name as it appears in the Theme dialog box. To return a theme's display name, use the **[ActiveThemeDisplayName](Word.Document.ActiveThemeDisplayName.md)** property.
+For an explanation of the value returned by this property, see the Name argument of the **[ApplyTheme](Word.Document.ApplyTheme.md)** method. The value returned by this property may not correspond to the theme's display name as it appears in the Theme dialog box. To return a theme's display name, use the **[ActiveThemeDisplayName](Word.Document.ActiveThemeDisplayName.md)** property.
 
-You can also use the  **[GetDefaultTheme](Word.Application.GetDefaultTheme.md)** and **[SetDefaultTheme](Word.Application.SetDefaultTheme.md)** methods to return and set the default theme for new email messages.
+You can also use the **[GetDefaultTheme](Word.Application.GetDefaultTheme.md)** and **[SetDefaultTheme](Word.Application.SetDefaultTheme.md)** methods to return and set the default theme for new email messages.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ListTemplates.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **ListTemplates** object.
+Returns an **Object** that represents the parent object of the specified **ListTemplates** object.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Template](Word.Template.md
 
 ## Remarks
 
-The path doesn't include a trailing character — for example, "C:\MSOffice" or "https://MyServer". Use the  **[PathSeparator](Word.Application.PathSeparator.md)** property to add the character that separates folders and drive letters. Use the **[Name](Word.Template.Name.md)** property to return the file name without the path and use the **[FullName](Word.Template.FullName.md)** property to return the file name and the path together.
+The path doesn't include a trailing character — for example, "C:\MSOffice" or "https://MyServer". Use the **[PathSeparator](Word.Application.PathSeparator.md)** property to add the character that separates folders and drive letters. Use the **[Name](Word.Template.Name.md)** property to return the file name without the path and use the **[FullName](Word.Template.FullName.md)** property to return the file name and the path together.
 
 
 ## See also

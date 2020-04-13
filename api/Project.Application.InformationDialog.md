@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.InformationDialog method (Project)
 
-Displays the  **Assignment Information**,  **Resource Information**, or  **Task Information** dialog box for the selected assignment, resource, or task.
+Displays the **Assignment Information**,  **Resource Information**, or  **Task Information** dialog box for the selected assignment, resource, or task.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-If multiple items are selected, the  **InformationDialog** method displays the **Multiple Assignment Information**,  **Multiple Resource Information**, or  **Multiple Task Information** dialog box.
+If multiple items are selected, the **InformationDialog** method displays the **Multiple Assignment Information**,  **Multiple Resource Information**, or  **Multiple Task Information** dialog box.
 
 If an assignment is selected, Tab can be one of the following  **PjInformationTab** constants: **pjAssignmentGeneralTab**, **pjAssignmentTrackingTab**, or **pjAssignmentNotesTab**.
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Global.Options property (Word)
 
-Returns an  **Options** object that represents application settings in Microsoft Word.
+Returns an **Options** object that represents application settings in Microsoft Word.
 
 
 ## Syntax

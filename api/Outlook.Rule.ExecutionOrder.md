@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Rule.ExecutionOrder property (Outlook)
 
-Returns or sets a  **Long** that indicates the order of execution of the rule among other rules in the **[Rules](Outlook.Rules.md)** collection. Read/write.
+Returns or sets a **Long** that indicates the order of execution of the rule among other rules in the **[Rules](Outlook.Rules.md)** collection. Read/write.
 
 
 ## Syntax

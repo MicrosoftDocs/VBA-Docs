@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.LastFirstNoSpaceAndSuffix property (Outlook)
 
-Returns a  **String** that contains the last name, first name, and suffix of the user without a space. Read-only
+Returns a **String** that contains the last name, first name, and suffix of the user without a space. Read-only
 
 
 ## Syntax

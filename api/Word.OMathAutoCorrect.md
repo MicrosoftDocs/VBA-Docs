@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathAutoCorrect object (Word)
 
-Represents the math AutoCorrect feature in Microsoft Word. To access the math AutoCorrect entries, use the  **[OMathAutoCorrectEntries](Word.OMathAutoCorrectEntries.md)** collection.
+Represents the math AutoCorrect feature in Microsoft Word. To access the math AutoCorrect entries, use the **[OMathAutoCorrectEntries](Word.OMathAutoCorrectEntries.md)** collection.
 
 
 ## See also

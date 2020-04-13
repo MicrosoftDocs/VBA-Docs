@@ -69,7 +69,7 @@ LetterContent
 
 ## Example
 
-The following example uses the  **CreateLetterContent** method to create a new **LetterContent** object in the active document and then uses this object with the **RunLetterWizard** method.
+The following example uses the **CreateLetterContent** method to create a new **LetterContent** object in the active document and then uses this object with the **RunLetterWizard** method.
 
 
 ```vb

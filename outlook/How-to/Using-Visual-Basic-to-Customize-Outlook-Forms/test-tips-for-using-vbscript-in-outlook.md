@@ -5,7 +5,7 @@ f1_keywords:
 - olfm10.chm3077355
 ms.prod: outlook
 ms.assetid: e71c5e64-534b-d6b3-697a-6f78a1c7508c
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -16,12 +16,12 @@ There are several ways to test code in Outlook. If there is a syntax error in th
 
 For more information, see the following topics:
 
--  [Go to a Line of Code](go-to-a-line-of-code-in-the-script-editor.md)
+- [Go to a Line of Code](go-to-a-line-of-code-in-the-script-editor.md)
     
--  [Use Message Boxes to Return Values](use-message-boxes-to-return-values.md)
+- [Use Message Boxes to Return Values](use-message-boxes-to-return-values.md)
     
--  [Set Global Variables for a Form](set-global-variables-for-a-form.md)
+- [Set Global Variables for a Form](set-global-variables-for-a-form.md)
     
--  [Use the PropertyChange Event to Test Procedures](use-the-propertychange-event-to-test-procedures.md)
+- [Use the PropertyChange Event to Test Procedures](use-the-propertychange-event-to-test-procedures.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

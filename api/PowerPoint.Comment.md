@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Comment object (PowerPoint)
 
-Represents a comment on a given slide or slide range. The  **Comment** object is a member of the **[Comments](PowerPoint.Comments.md)** collection object.
+Represents a comment on a given slide or slide range. The **Comment** object is a member of the **[Comments](PowerPoint.Comments.md)** collection object.
 
 
 ## Remarks

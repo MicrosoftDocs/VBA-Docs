@@ -131,7 +131,7 @@ End Sub
 
 If you combine building blocks with content controls, you can filter which building blocks a user can access. You do this using a content control and an event. When a user enters a content control, the **ContentControlOnEnter** event for the **Document** object fires. This event has a parameter for the active content control. You can determine whether the content control is a building block content control. If it is, you use the **BuildingBlockType** property and the **BuildingBlockCategory** property to identify which type and category to use to filter the list of building blocks that are available for the content control. This specifies which building blocks show up in the drop-down list in the content control header.
 
-The following code example assumes that there is at least one content control in the document. If the content control is a building block content control, the list of building blocks displayed in the building block list in the content control header includes only those added by using the AddCustomBuildingBlock subroutine shown earlier in this topic. For more information about content controls, see  [Working with Content Controls](working-with-content-controls.md).
+The following code example assumes that there is at least one content control in the document. If the content control is a building block content control, the list of building blocks displayed in the building block list in the content control header includes only those added by using the AddCustomBuildingBlock subroutine shown earlier in this topic. For more information about content controls, see [Working with Content Controls](working-with-content-controls.md).
 
 ```vb
 Private Sub Document_ContentControlOnEnter(ByVal ContentControl As ContentControl) 

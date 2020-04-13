@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.ExchangeConnectionMode property (Outlook)
 
-Returns an  **[OlExchangeConnectionMode](Outlook.OlExchangeConnectionMode.md)** constant that indicates the connection mode of the user's primary Exchange account. Read-only.
+Returns an **[OlExchangeConnectionMode](Outlook.OlExchangeConnectionMode.md)** constant that indicates the connection mode of the user's primary Exchange account. Read-only.
 
 
 ## Syntax

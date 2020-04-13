@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Categories.Count property (Outlook)
 
-Returns a  **Long** value indicating the count of **[Category](Outlook.Category.md)** objects in the specified collection. Read-only.
+Returns a **Long** value indicating the count of **[Category](Outlook.Category.md)** objects in the specified collection. Read-only.
 
 
 ## Syntax

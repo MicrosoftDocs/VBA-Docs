@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ShowClipboard method (Word)
 
-Displays the  **Clipboard** task pane.
+Displays the **Clipboard** task pane.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 
 ## Example
 
-The following example shows the  **Clipboard** task pane.
+The following example shows the **Clipboard** task pane.
 
 
 ```vb

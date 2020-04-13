@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MotionEffect.FromY property (PowerPoint)
 
-Returns or sets a  **Single** that represents the vertical position of a **[MotionEffect](PowerPoint.MotionEffect.md)** object, specified as a percentage of the screen width. Read/write.
+Returns or sets a **Single** that represents the vertical position of a **[MotionEffect](PowerPoint.MotionEffect.md)** object, specified as a percentage of the screen width. Read/write.
 
 
 ## Syntax
@@ -31,11 +31,11 @@ Single
 
 ## Remarks
 
-The default value of this property is  **Empty**, in which case the current position of the object is used.
+The default value of this property is **Empty**, in which case the current position of the object is used.
 
-Use this property in conjunction with the  **ToY** property to resize or jump from one position to another.
+Use this property in conjunction with the **ToY** property to resize or jump from one position to another.
 
-Do not confuse this property with the  **From** property of the **[ColorEffect](PowerPoint.ColorEffect.md)**, **[RotationEffect](PowerPoint.RotationEffect.md)**, or **[PropertyEffect](PowerPoint.PropertyEffect.md)** objects, which is used to set or change colors, rotations, or other properties of an animation behavior, respectively.
+Do not confuse this property with the **From** property of the **[ColorEffect](PowerPoint.ColorEffect.md)**, **[RotationEffect](PowerPoint.RotationEffect.md)**, or **[PropertyEffect](PowerPoint.PropertyEffect.md)** objects, which is used to set or change colors, rotations, or other properties of an animation behavior, respectively.
 
 
 ## Example

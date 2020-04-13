@@ -5,7 +5,7 @@ f1_keywords:
 - vbawd10.chm5285976
 ms.prod: word
 ms.assetid: 0245564e-b2df-83cd-1e32-e63079970dc1
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -35,26 +35,26 @@ In HTML, frames pages and the frames they contain are built using a hierarchical
 ```
 
 
- **Note**  To better understand the preceding HTML example, paste the example into a blank text document, rename the document "framespage.htm", and open the document in Word or in a Web browser.
+ **Note** To better understand the preceding HTML example, paste the example into a blank text document, rename the document "framespage.htm", and open the document in Word or in a Web browser.
 
 
 ## The Frameset Object
 
-The  **[Frameset](../../../api/Word.Frameset.md)** object encompasses the functionality of both tags. Each **Frameset** object is either of type **wdFramesetTypeFrameset** or **wdFramesetTypeFrame**, which represent the HTML tags <FRAMESET> and <FRAME> respectively. Properties beginning with "Frameset" apply to  **Frameset** objects of type **wdFramesetTypeFrameset** (**[FramesetBorderColor](../../../api/Word.Frameset.FramesetBorderColor.md)** and **[FramesetBorderWidth](../../../api/Word.Frameset.FramesetBorderWidth.md)** . Properties beginning with "Frame" apply to **Frameset** objects of type **wdFramesetTypeFrame** (**[FrameDefaultURL](../../../api/Word.Frameset.FrameDefaultURL.md)**,  **[FrameDisplayBorders](../../../api/Word.Frameset.FrameDisplayBorders.md)**,  **[FrameLinkToFile](../../../api/Word.Frameset.FrameLinkToFile.md)**,  **[FrameName](../../../api/Word.Frameset.FrameName.md)**,  **[FrameResizable](../../../api/Word.Frameset.FrameResizable.md)**, and  **[FrameScrollBarType](../../../api/Word.Frameset.FrameScrollbarType.md)**).
+The **[Frameset](../../../api/Word.Frameset.md)** object encompasses the functionality of both tags. Each **Frameset** object is either of type **wdFramesetTypeFrameset** or **wdFramesetTypeFrame**, which represent the HTML tags <FRAMESET> and <FRAME> respectively. Properties beginning with "Frameset" apply to **Frameset** objects of type **wdFramesetTypeFrameset** (**[FramesetBorderColor](../../../api/Word.Frameset.FramesetBorderColor.md)** and **[FramesetBorderWidth](../../../api/Word.Frameset.FramesetBorderWidth.md)** . Properties beginning with "Frame" apply to **Frameset** objects of type **wdFramesetTypeFrame** (**[FrameDefaultURL](../../../api/Word.Frameset.FrameDefaultURL.md)**, **[FrameDisplayBorders](../../../api/Word.Frameset.FrameDisplayBorders.md)**, **[FrameLinkToFile](../../../api/Word.Frameset.FrameLinkToFile.md)**, **[FrameName](../../../api/Word.Frameset.FrameName.md)**, **[FrameResizable](../../../api/Word.Frameset.FrameResizable.md)**, and **[FrameScrollBarType](../../../api/Word.Frameset.FrameScrollbarType.md)**).
 
 
 ## Traversing the Frameset Object Hierarchy
 
-Because frames pages are defined as a hierarchical set of HTML tags, the object model for accessing  **Frameset** objects is also hierarchical. Use the **[ChildFramesetItem](../../../api/Word.Frameset.ChildFramesetItem.md)** and **[ParentFrameset](../../../api/Word.Frameset.ParentFrameset.md)** properties to traverse the hierarchy of **Frameset** objects. For example,
+Because frames pages are defined as a hierarchical set of HTML tags, the object model for accessing **Frameset** objects is also hierarchical. Use the **[ChildFramesetItem](../../../api/Word.Frameset.ChildFramesetItem.md)** and **[ParentFrameset](../../../api/Word.Frameset.ParentFrameset.md)** properties to traverse the hierarchy of **Frameset** objects. For example,
 
 
 ```vb
 MyFrameset.ChildFramesetItem(n)
 ```
 
-returns a  **Frameset** object corresponding to the _n_th first-level <FRAMESET> or <FRAME> tag between the <FRAMESET> and </FRAMESET> tags corresponding to  `MyFrameset`.
+returns a **Frameset** object corresponding to the _n_th first-level <FRAMESET> or <FRAME> tag between the <FRAMESET> and </FRAMESET> tags corresponding to  `MyFrameset`.
 
-If  `MyFrameset` is a **Frameset** object corresponding to the outermost <FRAMESET> tags in the preceding HTML example, `MyFrameset.ChildFramesetItem(1)` returns a **Frameset** object of type **wdFramesetTypeFrame** that corresponds to the frame named "top." Similarly, `MyFrameset.ChildFramesetItem(2)` returns a **Frameset** object of type **wdFramesetTypeFrameset**, itself containing two  **Frameset** objects: the first object corresponds to the frame named "left," the second is of type **wdFramesetTypeFrameset**.
+If  `MyFrameset` is a **Frameset** object corresponding to the outermost <FRAMESET> tags in the preceding HTML example, `MyFrameset.ChildFramesetItem(1)` returns a **Frameset** object of type **wdFramesetTypeFrame** that corresponds to the frame named "top." Similarly, `MyFrameset.ChildFramesetItem(2)` returns a **Frameset** object of type **wdFramesetTypeFrameset**, itself containing two **Frameset** objects: the first object corresponds to the frame named "left," the second is of type **wdFramesetTypeFrameset**.
 
  **Frameset** objects of type **wdFramesetTypeFrame** have no child frames, while objects of **wdFramesetTypeFrameset** have at least one.
 
@@ -89,16 +89,16 @@ Debug.Print Name1, Name2, Name3, Name4
 
 ## Individual Frames and the Entire Frames Page
 
-To return the  **Frameset** object associated with a particular frame on a frames page, use the **[Frameset](../../../api/Word.Pane.Frameset.md)** property of a **[Pane](../../../api/Word.Pane.md)** object. For example,
+To return the **Frameset** object associated with a particular frame on a frames page, use the **[Frameset](../../../api/Word.Pane.Frameset.md)** property of a **[Pane](../../../api/Word.Pane.md)** object. For example,
 
 
 ```vb
 ActiveWindow.Panes(1).Frameset
 ```
 
-returns the  **Frameset** object that corresponds to the first frame of the frames page.
+returns the **Frameset** object that corresponds to the first frame of the frames page.
 
-The frames page is itself a document separate from the documents that make up the content of the individual frames. The  **Frameset** object associated with a frames page is accessed from its corresponding **[Document](../../../api/Word.Document.md)** object, which in turn is accessed from the **[Window](../../../api/Word.Window.md)** object in which the frames page appears. For example,
+The frames page is itself a document separate from the documents that make up the content of the individual frames. The **Frameset** object associated with a frames page is accessed from its corresponding **[Document](../../../api/Word.Document.md)** object, which in turn is accessed from the **[Window](../../../api/Word.Window.md)** object in which the frames page appears. For example,
 
 
 
@@ -107,10 +107,10 @@ The frames page is itself a document separate from the documents that make up th
 ActiveWindow.Document.Frameset
 ```
 
-returns the  **Frameset** object for the frames page in the active window.
+returns the **Frameset** object for the frames page in the active window.
 
 
- **Note**  When working with frames pages, the  **[ActiveDocument](../../../api/Word.Application.ActiveDocument.md)** property returns the **Document** object associated with the frame in the active pane, not the entire frames page.
+ **Note** When working with frames pages, the **[ActiveDocument](../../../api/Word.Application.ActiveDocument.md)** property returns the **Document** object associated with the frame in the active pane, not the entire frames page.
 
 
 ## Creating a Frames Page and Its Content from Scratch
@@ -118,7 +118,7 @@ returns the  **Frameset** object for the frames page in the active window.
 This example creates a new frames page with three frames, adds text to each frame, and sets the background color for each frame. It inserts two hyperlinks into the Left frame: the first hyperlink opens a document called One.htm in the Main frame, and the second opens a document called Two.htm in the entire window. For these hyperlinks to work, you must create files called One.htm and Two.htm or change the strings to the names of existing files.
 
 
- **Note**  As each frame is created, Word creates a new document whose content will be loaded into the new frame. The example saves the frames page which automatically saves the documents associated with each of the three frames.
+ **Note** As each frame is created, Word creates a new document whose content will be loaded into the new frame. The example saves the frames page which automatically saves the documents associated with each of the three frames.
 
 
 ```vb

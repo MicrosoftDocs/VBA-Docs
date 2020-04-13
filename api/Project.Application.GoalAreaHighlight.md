@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.GoalAreaHighlight method (Project)
 
-Highlights a goal area on the  **Project Guide** toolbar to indicate it is currently selected. Deprecated in _pjgenericshort_.
+Highlights a goal area on the **Project Guide** toolbar to indicate it is currently selected. Deprecated in _pjgenericshort_.
 
 
 ## Syntax

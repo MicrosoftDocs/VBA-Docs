@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Assignment.Project property (Project)
 
-Gets the name of the project containing the  **Assignment**. Read-only **String**.
+Gets the name of the project containing the **Assignment**. Read-only **String**.
 
 
 ## Syntax

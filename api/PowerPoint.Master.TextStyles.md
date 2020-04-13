@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Master.TextStyles property (PowerPoint)
 
-Returns a  **[TextStyles](PowerPoint.TextStyles.md)** collection that represents three text styles — title text, body text, and default text — for the specified slide master. Read-only.
+Returns a **[TextStyles](PowerPoint.TextStyles.md)** collection that represents three text styles — title text, body text, and default text — for the specified slide master. Read-only.
 
 
 ## Syntax

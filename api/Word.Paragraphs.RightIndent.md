@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraph
 
 ## Example
 
-This example sets the right indent for all paragraphs in the active document to 1 inch from the right margin. The  **InchesToPoints** method is used to convert inches to points.
+This example sets the right indent for all paragraphs in the active document to 1 inch from the right margin. The **InchesToPoints** method is used to convert inches to points.
 
 
 ```vb

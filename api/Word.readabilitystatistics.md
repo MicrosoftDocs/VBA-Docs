@@ -14,7 +14,7 @@ A collection of  **[ReadabilityStatistic](Word.ReadabilityStatistic.md)** object
 
 ## Remarks
 
-Use the  **ReadabilityStatistics** property to return the **ReadabilityStatistics** collection. The following example enumerates the readability statistics for the selection and displays each one in a message box.
+Use the **ReadabilityStatistics** property to return the **ReadabilityStatistics** collection. The following example enumerates the readability statistics for the selection and displays each one in a message box.
 
 
 ```vb

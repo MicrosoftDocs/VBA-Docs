@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **LayoutRelatedNow** method is only available when a Network Diagram view is active.
+The **LayoutRelatedNow** method is only available when a Network Diagram view is active.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

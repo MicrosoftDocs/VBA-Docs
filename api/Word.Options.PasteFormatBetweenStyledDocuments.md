@@ -26,7 +26,7 @@ _expression_. `PasteFormatBetweenStyledDocuments`
 
 ## Remarks
 
-Corresponds to the  **Pasting between two documents (with styles)** option in the **Advanced** tab of the **Word Options** dialog box.
+Corresponds to the **Pasting between two documents (with styles)** option in the **Advanced** tab of the **Word Options** dialog box.
 
 
 ## See also

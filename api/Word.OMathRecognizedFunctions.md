@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # OMathRecognizedFunctions object (Word)
 
-Represents a collection of recognized functions. Use the  **OMathRecognizedFunction** object to access individual members of the collection.
+Represents a collection of recognized functions. Use the **OMathRecognizedFunction** object to access individual members of the collection.
 
 
 ## Remarks
 
-The  **OMathRecognizedFunctions** collection is a collection of the names that are contained in the **Recognized Functions** dialog box.
+The **OMathRecognizedFunctions** collection is a collection of the names that are contained in the **Recognized Functions** dialog box.
 
 
 ## See also

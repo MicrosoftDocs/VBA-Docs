@@ -29,7 +29,7 @@ _expression_ A variable that represents a [View](./Word.View.md) object.
 
 ## Remarks
 
-This method corresponds to the  **Expand All Headings** command on the **Expand/Collapse** submenu of the context menu that appears when you right-click a heading.
+This method corresponds to the **Expand All Headings** command on the **Expand/Collapse** submenu of the context menu that appears when you right-click a heading.
 
 
 ## See also

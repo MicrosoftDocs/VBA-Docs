@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormDescription.Icon property (Outlook)
 
-Returns or sets a  **String** representing the file name of the icon to be displayed for the form. Read/write.
+Returns or sets a **String** representing the file name of the icon to be displayed for the form. Read/write.
 
 
 ## Syntax

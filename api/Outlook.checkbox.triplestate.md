@@ -12,21 +12,21 @@ localization_priority: Normal
 
 # CheckBox.TripleState Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that determines whether a user can specify, from the user interface, the **Null** state for a **[CheckBox](Outlook.checkbox.md)**. Read/write.
+Returns or sets a **Boolean** that determines whether a user can specify, from the user interface, the **Null** state for a **[CheckBox](Outlook.checkbox.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**TripleState**
 
-_expression_ A variable that represents a  **CheckBox** object.
+_expression_ A variable that represents a **CheckBox** object.
 
 
 ## Remarks
 
  **True** if the control clicks through three states, **False** if the control only supports two states, **True** and **False** (default).
 
-When the  **TripleState** property is **True**, a user can choose from the values of  **Null**,  **True**, and  **False**. The  **Null** value is displayed as a shaded button.
+When the  **TripleState** property is **True**, a user can choose from the values of  **Null**,  **True**, and  **False**. The **Null** value is displayed as a shaded button.
 
 When  **TripleState** is **False**, the user can choose either  **True** or **False**.
 

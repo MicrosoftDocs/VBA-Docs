@@ -26,7 +26,7 @@ _expression_. `OMathBreakSub`
 
 ## Remarks
 
-This property is used only when the  **[OMathBreakBin](Word.Document.OMathBreakBin.md)** property is set to **wdOMathBreakBinRepeat**. Subtraction sometimes receives special treatment when a line break falls on a subtraction operator and the document setting is to repeat the subtraction operator on the following line, because two negatives make a positive. Some writers choose to convert one of the minus signs into a plus sign, and some choose to keep the two negatives.
+This property is used only when the **[OMathBreakBin](Word.Document.OMathBreakBin.md)** property is set to **wdOMathBreakBinRepeat**. Subtraction sometimes receives special treatment when a line break falls on a subtraction operator and the document setting is to repeat the subtraction operator on the following line, because two negatives make a positive. Some writers choose to convert one of the minus signs into a plus sign, and some choose to keep the two negatives.
 
 
 ## See also

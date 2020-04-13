@@ -2,7 +2,7 @@
 title: No current record. (Error 3021)
 ms.prod: access
 ms.assetid: cd8a24b4-2b53-4a8f-a60b-156a0f9cb1e8
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-This error occurs after the unsuccessful application of one of the Find methods or the  **Seek** method, when the underlying **Recordset** contains no records or the record has been deleted. Move to or select another record, and try the operation again. If the **Recordset** is empty, you cannot position to a current record. Check the **BOF** and **EOF** properties.
+This error occurs after the unsuccessful application of one of the Find methods or the **Seek** method, when the underlying **Recordset** contains no records or the record has been deleted. Move to or select another record, and try the operation again. If the **Recordset** is empty, you cannot position to a current record. Check the **BOF** and **EOF** properties.
 
 ## See also
 

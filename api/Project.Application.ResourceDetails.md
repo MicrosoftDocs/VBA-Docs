@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Name_|Optional|**String**|The name of a resource to locate in the address book. If the name is found, the  **Properties** dialog box for the individual is displayed. If an exact match is not found, the mail system displays the **Check Names** dialog box to allow the user to choose a valid name from the address book. If Name is omitted, the selected resource is used.|
+| _Name_|Optional|**String**|The name of a resource to locate in the address book. If the name is found, the **Properties** dialog box for the individual is displayed. If an exact match is not found, the mail system displays the **Check Names** dialog box to allow the user to choose a valid name from the address book. If Name is omitted, the selected resource is used.|
 
 ## Return value
 
@@ -39,6 +39,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **ResourceDetails** method is available only in resource views. If no email profile is available, Project displays a message that explains how to create a profile.
+The **ResourceDetails** method is available only in resource views. If no email profile is available, Project displays a message that explains how to create a profile.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

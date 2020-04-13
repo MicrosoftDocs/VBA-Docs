@@ -5,7 +5,7 @@ f1_keywords:
 - jeterr40.chm5003643
 ms.prod: access
 ms.assetid: 0a8a3fa8-1981-a7a4-9e4b-5a675f8bcaa0
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-One or more of the records in the  **Recordset** was deleted after the query was performed. You should refresh the **Recordset** and try the query again.
+One or more of the records in the **Recordset** was deleted after the query was performed. You should refresh the **Recordset** and try the query again.
 
 ## See also
 

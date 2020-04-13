@@ -33,7 +33,7 @@ OLE_COLOR
 
 The  **StencilTextColor** property setting does not persist from one session of Visio to the next.
 
-Valid values for an  **OLE_COLOR** property within Visio can be one of the following:
+Valid values for an **OLE_COLOR** property within Visio can be one of the following:
 
 
 

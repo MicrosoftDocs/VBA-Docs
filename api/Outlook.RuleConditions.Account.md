@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleConditions.Account property (Outlook)
 
-Returns a  **[AccountRuleCondition](Outlook.AccountRuleCondition.md)** object with an **[AccountRuleCondition.ConditionType](Outlook.AccountRuleCondition.ConditionType.md)** of **olConditionAccount**. Read-only.
+Returns a **[AccountRuleCondition](Outlook.AccountRuleCondition.md)** object with an **[AccountRuleCondition.ConditionType](Outlook.AccountRuleCondition.ConditionType.md)** of **olConditionAccount**. Read-only.
 
 
 ## Syntax

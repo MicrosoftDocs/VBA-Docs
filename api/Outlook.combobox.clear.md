@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ComboBox.Clear Method (Outlook Forms Script)
 
-Removes all entries in the list in a  **[ComboBox](Outlook.combobox.md)**.
+Removes all entries in the list in a **[ComboBox](Outlook.combobox.md)**.
 
 
 ## Syntax
 
 _expression_.**Clear**
 
-_expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a **ComboBox** object.
 
 
 ## Remarks

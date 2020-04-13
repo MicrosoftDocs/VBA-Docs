@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Cell.Resource property (Project)
 
-Gets a  **[Resource](Project.Resource.md)** object representing the resource in the active cell. Read-only **Resource**.
+Gets a **[Resource](Project.Resource.md)** object representing the resource in the active cell. Read-only **Resource**.
 
 
 ## Syntax

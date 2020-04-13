@@ -26,9 +26,9 @@ _expression_.**GradientStyle**
 
 ## Remarks
 
-This property is read-only. Use the  **[OneColorGradient](Word.FillFormat.OneColorGradient.md)** or **[TwoColorGradient](Word.FillFormat.TwoColorGradient.md)** method to set the gradient style for the fill.
+This property is read-only. Use the **[OneColorGradient](Word.FillFormat.OneColorGradient.md)** or **[TwoColorGradient](Word.FillFormat.TwoColorGradient.md)** method to set the gradient style for the fill.
 
-Attempting to return this property for a fill that doesn't have a gradient generates an error. Use the  **[Type](Word.FillFormat.Type.md)** property to determine whether the fill has a gradient.
+Attempting to return this property for a fill that doesn't have a gradient generates an error. Use the **[Type](Word.FillFormat.Type.md)** property to determine whether the fill has a gradient.
 
 
 ## Example

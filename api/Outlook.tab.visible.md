@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # Tab.Visible Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether a **[Tab](Outlook.tab.md)** is visible or hidden. Read/write.
+Returns or sets a **Boolean** that specifies whether a **[Tab](Outlook.tab.md)** is visible or hidden. Read/write.
 
 
 ## Syntax
 
 _expression_.**Visible**
 
-_expression_ A variable that represents a  **Tab** object.
+_expression_ A variable that represents a **Tab** object.
 
 
 ## Remarks

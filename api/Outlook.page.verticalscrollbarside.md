@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # Page.VerticalScrollBarSide Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies whether a vertical scroll bar appears on the right or left side of a page. Read/write.
+Returns or sets an **Integer** that specifies whether a vertical scroll bar appears on the right or left side of a page. Read/write.
 
 
 ## Syntax
 
 _expression_.**VerticalScrollBarSide**
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **Page** object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # JournalItem.DocPosted property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the journalized item was posted as part of the journalized session. Read/write.
+Returns a **Boolean** value that indicates whether the journalized item was posted as part of the journalized session. Read/write.
 
 
 ## Syntax

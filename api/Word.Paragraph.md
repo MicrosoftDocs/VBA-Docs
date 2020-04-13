@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Paragraph object (Word)
 
-Represents a single paragraph in a selection, range, or document. The  **Paragraph** object is a member of the **[Paragraphs](Word.paragraphs.md)** collection. The **Paragraphs** collection includes all the paragraphs in a selection, range, or document.
+Represents a single paragraph in a selection, range, or document. The **Paragraph** object is a member of the **[Paragraphs](Word.paragraphs.md)** collection. The **Paragraphs** collection includes all the paragraphs in a selection, range, or document.
 
 
 ## Remarks
@@ -26,7 +26,7 @@ Use  **Paragraphs** (Index), where Index is the index number, to return a single
 ActiveDocument.Paragraphs(1).Alignment = wdAlignParagraphRight
 ```
 
-Use the  **Add**, **InsertParagraph**, **InsertParagraphAfter**, or **InsertParagraphBefore** method to add a new, blank paragraph to a document. The following example adds a paragraph mark before the first paragraph in the selection.
+Use the **Add**, **InsertParagraph**, **InsertParagraphAfter**, or **InsertParagraphBefore** method to add a new, blank paragraph to a document. The following example adds a paragraph mark before the first paragraph in the selection.
 
 
 

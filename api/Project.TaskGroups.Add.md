@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # TaskGroups.Add method (Project)
 
-Adds a  **Group** object to a **TaskGroups** collection.
+Adds a **Group** object to a **TaskGroups** collection.
 
 
 ## Syntax

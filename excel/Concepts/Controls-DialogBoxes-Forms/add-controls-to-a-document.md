@@ -15,6 +15,6 @@ localization_priority: Normal
 To add  [controls](activex-controls.md) to a document, open the **Control Toolbox**, click the control you want to add, and then click on the document. Drag an adjustment handle of the control until the control's outline is the size and shape you want.
 
 
- **Note**  Dragging a control or a number of "grouped" controls from the form back to the  **Control Toolbox** creates a template of the controls, which you can reuse. This is a useful feature for implementing a standard interface for your applications.
+ **Note**  Dragging a control or a number of "grouped" controls from the form back to the **Control Toolbox** creates a template of the controls, which you can reuse. This is a useful feature for implementing a standard interface for your applications.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

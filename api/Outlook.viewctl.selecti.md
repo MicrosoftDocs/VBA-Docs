@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # ViewCtl.Selection Property (Outlook View Control)
 
-Returns a  [Selection](Outlook.Selection.md) object that consists of one or more items that are selected in the current view. Read-only.
+Returns a [Selection](Outlook.Selection.md) object that consists of one or more items that are selected in the current view. Read-only.
 
 
 ## Syntax
 
 _expression_.**Selection**
 
-_expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

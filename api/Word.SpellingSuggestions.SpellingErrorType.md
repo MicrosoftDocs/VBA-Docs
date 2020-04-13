@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[SpellingSuggestions](Word.
 
 ## Remarks
 
-Use the  **GetSpellingSuggestions** method to return a collection of words suggested as spelling replacements. If a word is misspelled, the **CheckSpelling** method returns **True**.
+Use the **GetSpellingSuggestions** method to return a collection of words suggested as spelling replacements. If a word is misspelled, the **CheckSpelling** method returns **True**.
 
 
 ## Example

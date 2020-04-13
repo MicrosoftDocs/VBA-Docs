@@ -5,7 +5,7 @@ f1_keywords:
 - jeterr40.chm5003065
 ms.prod: access
 ms.assetid: 24ef2fec-3c24-bfbc-a31b-cad1fa1c3b01
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You tried to use the  **Execute** method with a select query. The **Execute** method is valid only with action queries. Select queries contain a SELECT statement and can return records; action queries do not.
+You tried to use the **Execute** method with a select query. The **Execute** method is valid only with action queries. Select queries contain a SELECT statement and can return records; action queries do not.
 
 ## See also
 

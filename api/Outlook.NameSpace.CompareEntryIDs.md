@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NameSpace.CompareEntryIDs method (Outlook)
 
-Returns a  **Boolean** value that indicates if two entry ID values refer to the same Outlook item.
+Returns a **Boolean** value that indicates if two entry ID values refer to the same Outlook item.
 
 
 ## Syntax

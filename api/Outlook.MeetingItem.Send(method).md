@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) 
 
 ## Remarks
 
-When you create a meeting request programmatically, you first create an  **[AppointmentItem](Outlook.AppointmentItem.md)** object instead of a **[MeetingItem](Outlook.MeetingItem.md)** object. To indicate the appointment is a meeting, set the **[MeetingStatus](Outlook.AppointmentItem.MeetingStatus.md)** property of the **AppointmentItem** object to **olMeeting**. To send the meeting request, apply the **[Send](Outlook.AppointmentItem.Send(method).md)** method to that **AppointmentItem** object.
+When you create a meeting request programmatically, you first create an **[AppointmentItem](Outlook.AppointmentItem.md)** object instead of a **[MeetingItem](Outlook.MeetingItem.md)** object. To indicate the appointment is a meeting, set the **[MeetingStatus](Outlook.AppointmentItem.MeetingStatus.md)** property of the **AppointmentItem** object to **olMeeting**. To send the meeting request, apply the **[Send](Outlook.AppointmentItem.Send(method).md)** method to that **AppointmentItem** object.
 
 
 ## See also

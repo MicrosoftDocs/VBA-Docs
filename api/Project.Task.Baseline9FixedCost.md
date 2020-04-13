@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Task.Baseline9FixedCost property (Project)
 
-Gets or sets the baseline9 fixed cost of any nonresource expense for a  **Task**. Read/write **Variant**.
+Gets or sets the baseline9 fixed cost of any nonresource expense for a **Task**. Read/write **Variant**.
 
 
 ## Syntax

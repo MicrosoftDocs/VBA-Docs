@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Pages Members (Outlook Forms Script)
 
-Represents all the pages of a  [MultiPage](Outlook.multipage.md).
+Represents all the pages of a [MultiPage](Outlook.multipage.md).
 
 
 ## Methods
@@ -31,6 +31,6 @@ Represents all the pages of a  [MultiPage](Outlook.multipage.md).
 
 |Name|Description|
 |:-----|:-----|
-| [Count](Outlook.Pages.count.md)|Returns a  **Long** that represents the number of objects in a collection. Read-only.|
+| [Count](Outlook.Pages.count.md)|Returns a **Long** that represents the number of objects in a collection. Read-only.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

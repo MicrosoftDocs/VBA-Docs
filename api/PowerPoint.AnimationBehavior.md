@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AnimationBehavior object (PowerPoint)
 
-Represents the behavior of an animation effect, the main animation sequence, or an interactive animation sequence. The  **AnimationBehavior** object is a member of the **[AnimationBehaviors](PowerPoint.AnimationBehaviors.md)** collection.
+Represents the behavior of an animation effect, the main animation sequence, or an interactive animation sequence. The **AnimationBehavior** object is a member of the **[AnimationBehaviors](PowerPoint.AnimationBehaviors.md)** collection.
 
 
 ## Example

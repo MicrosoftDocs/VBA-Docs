@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AttachmentSelection.Item method (Outlook)
 
-Returns an  **[Attachment](Outlook.Attachment.md)** object from the collection.
+Returns an **[Attachment](Outlook.Attachment.md)** object from the collection.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_.**Item** (_Index_)
 
 ## Return value
 
-An  **Attachment** object that represents the specified object.
+An **Attachment** object that represents the specified object.
 
 
 ## See also

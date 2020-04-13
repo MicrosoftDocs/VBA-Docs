@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # Frame.MousePointer Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the type of pointer displayed when the user positions the mouse over a particular object. Read/write.
+Returns or sets an **Integer** that specifies the type of pointer displayed when the user positions the mouse over a particular object. Read/write.
 
 
 ## Syntax
 
 _expression_.**MousePointer**
 
-_expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a **Frame** object.
 
 
 ## Remarks

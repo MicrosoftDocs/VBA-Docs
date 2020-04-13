@@ -5,7 +5,7 @@ f1_keywords:
 - jeterr40.chm5003113
 ms.prod: access
 ms.assetid: a86b3fc0-f78f-d9dc-963d-3fbe710a4be9
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -20,9 +20,9 @@ Possible causes:
 
 
 
-- The specified field is part of a  **TableDef** or dynaset-type **Recordset** object that cannot be updated. For example, this error occurs if you try to update an AutoNumber field.
+- The specified field is part of a **TableDef** or dynaset-type **Recordset** object that cannot be updated. For example, this error occurs if you try to update an AutoNumber field.
     
-- You executed a query that combines updatable and nonupdatable  **TableDef** objects, and you tried to update one of the fields in the query's results (the resulting dynaset-type **Recordset** ).
+- You executed a query that combines updatable and nonupdatable **TableDef** objects, and you tried to update one of the fields in the query's results (the resulting dynaset-type **Recordset** ).
     
 ## See also
 

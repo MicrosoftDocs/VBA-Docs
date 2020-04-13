@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.ExpiryTime property (Outlook)
 
-Returns or sets a  **Date** indicating the date and time at which the **[SharingItem](Outlook.SharingItem.md)** becomes invalid and can be deleted. Read/write.
+Returns or sets a **Date** indicating the date and time at which the **[SharingItem](Outlook.SharingItem.md)** becomes invalid and can be deleted. Read/write.
 
 
 ## Syntax

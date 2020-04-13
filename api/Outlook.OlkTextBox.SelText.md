@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTextBox.SelText property (Outlook)
 
-Returns a  **String** that represents the currently selected portion of the value of the text box. Read-only.
+Returns a **String** that represents the currently selected portion of the value of the text box. Read-only.
 
 
 ## Syntax

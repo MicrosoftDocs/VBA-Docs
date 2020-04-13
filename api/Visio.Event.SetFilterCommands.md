@@ -39,7 +39,7 @@ Nothing
 
 ## Remarks
 
-When an  **Event** object created with the **AddAdvise** method is added to the **EventList** collection of a source object, the default behavior is that all occurrences of that event are passed to the event sink. The **SetFilterCommands** method provides a way of ignoring selected events based on command ID.
+When an **Event** object created with the **AddAdvise** method is added to the **EventList** collection of a source object, the default behavior is that all occurrences of that event are passed to the event sink. The **SetFilterCommands** method provides a way of ignoring selected events based on command ID.
 
 The  _Commands()_ parameter passed to **SetFilterCommands** is an array defined in the following way.
 

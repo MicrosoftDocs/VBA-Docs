@@ -26,9 +26,9 @@ _expression_ A variable that represents a '[TextColumns](Word(textcolumns).md)' 
 
 ## Remarks
 
-The  **EvenlySpaced** property can be **True**, **False**, or **wdUndefined**.
+The **EvenlySpaced** property can be **True**, **False**, or **wdUndefined**.
 
-If you set the  **[Spacing](Word.TextColumns.Spacing.md)** or **[Width](Word.TextColumns.Width.md)** property of the **TextColumns** object, the **EvenlySpaced** property is automatically set to **True**. Also, setting the **EvenlySpaced** property may change the settings for the **Spacing** and **Width** properties of the **TextColumns** object.
+If you set the **[Spacing](Word.TextColumns.Spacing.md)** or **[Width](Word.TextColumns.Width.md)** property of the **TextColumns** object, the **EvenlySpaced** property is automatically set to **True**. Also, setting the **EvenlySpaced** property may change the settings for the **Spacing** and **Width** properties of the **TextColumns** object.
 
 
 ## Example
@@ -46,7 +46,7 @@ If colTextColumns.Count > 1 Then _
 End If
 ```
 
-This example returns the status of the  **Equal column width** option in the **Columns** dialog box (**Format** menu).
+This example returns the status of the **Equal column width** option in the **Columns** dialog box (**Format** menu).
 
 
 

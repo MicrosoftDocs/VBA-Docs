@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.AutoForwarded property (Outlook)
 
-A  **Boolean** value that returns **True** if the item was automatically forwarded. Read/write.
+A **Boolean** value that returns **True** if the item was automatically forwarded. Read/write.
 
 
 ## Syntax

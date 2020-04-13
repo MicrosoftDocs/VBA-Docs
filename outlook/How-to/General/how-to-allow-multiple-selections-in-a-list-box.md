@@ -5,25 +5,22 @@ f1_keywords:
 - olfm10.chm3077221
 ms.prod: outlook
 ms.assetid: da59a685-c118-00b1-8a08-b9d19a15aa77
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
 
 # Allow Multiple Selections in a List Box
 
-The following example uses the  **[MultiSelect](../../../api/Outlook.listbox.multiselect.md)** and **[Selected](../../../api/Outlook.listbox.selected.md)** properties to demonstrate how the user can select one or more items in a **[ListBox](../../../api/Outlook.listbox.md)**. The user specifies a selection method by choosing an option button and then selects an item(s) from the  **ListBox**. The user can display the selected items in a second  **ListBox** by clicking the **[CommandButton](../../../api/Outlook.commandbutton.md)**.
+The following example uses the **[MultiSelect](../../../api/Outlook.listbox.multiselect.md)** and **[Selected](../../../api/Outlook.listbox.selected.md)** properties to demonstrate how the user can select one or more items in a **[ListBox](../../../api/Outlook.listbox.md)**. The user specifies a selection method by choosing an option button and then selects an item(s) from the **ListBox**. The user can display the selected items in a second **ListBox** by clicking the **[CommandButton](../../../api/Outlook.commandbutton.md)**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- Two  **ListBox** controls named ListBox1 and ListBox2.
-    
-- A  **CommandButton** named CommandButton1.
-    
-- Three  **[OptionButton](../../../api/Outlook.optionbutton.md)** controls named OptionButton1 through OptionButton3.
-    
+- Two **ListBox** controls named ListBox1 and ListBox2.
 
+- A **CommandButton** named CommandButton1.
 
+- Three **[OptionButton](../../../api/Outlook.optionbutton.md)** controls named OptionButton1 through OptionButton3.
 
 ```vb
 Sub CommandButton1_Click() 

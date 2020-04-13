@@ -2,7 +2,7 @@
 title: Insert a Content Control into a Building Block
 ms.prod: word
 ms.assetid: f6e917d9-f756-e36e-696f-bc7cf84b92e3
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -13,13 +13,13 @@ Building blocks and content controls are extremely flexible. You can create buil
 
 The objects used in this sample are:
 
--  **[Template](../../../api/Word.Template.md)**
+- **[Template](../../../api/Word.Template.md)**
     
--  **[BuildingBlock](../../../api/Word.BuildingBlock.md)**
+- **[BuildingBlock](../../../api/Word.BuildingBlock.md)**
     
--  **[Range](../../../api/Word.Range.md)**
+- **[Range](../../../api/Word.Range.md)**
     
--  **[ContentControl](../../../api/Word.ContentControl.md)**
+- **[ContentControl](../../../api/Word.ContentControl.md)**
     
 The following code inserts a content control into the active document, and then adds the content control to the collection of building blocks in the template attached to the active document.
 
@@ -49,7 +49,7 @@ End Sub
 
 ## See also
 
--  [Working with Building Blocks](../Working-with-Word/working-with-building-blocks.md)    
--  [Working with Content Controls](../Working-with-Word/working-with-content-controls.md)
+- [Working with Building Blocks](../Working-with-Word/working-with-building-blocks.md)    
+- [Working with Content Controls](../Working-with-Word/working-with-content-controls.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

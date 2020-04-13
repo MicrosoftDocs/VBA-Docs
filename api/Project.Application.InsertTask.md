@@ -31,8 +31,8 @@ _expression_. `InsertTask`
 
 ## Remarks
 
-The  **InsertTask** method corresponds to the **Insert Task** command on the right-click option menu in a list of tasks. The new task is the default mode (manually or automatically scheduled), contains a task ID number, and the **Task Name** cell is selected with **<Type Task Name Here>**. Each task ID below the new row increases by one. 
+The **InsertTask** method corresponds to the **Insert Task** command on the right-click option menu in a list of tasks. The new task is the default mode (manually or automatically scheduled), contains a task ID number, and the **Task Name** cell is selected with **<Type Task Name Here>**. Each task ID below the new row increases by one. 
 
-By comparison, the  **[InsertBlankRow](Project.Application.InsertBlankRow.md)** method creates a blank row, where additional task information can be added programmatically. To create a manually scheduled task where the default mode is automatic, use the **[InsertManualTask](Project.Application.InsertManualTask.md)** method. To create an automatically scheduled task where the default mode is manual, use the **[InsertScheduledTask](Project.Application.InsertScheduledTask.md)** method.
+By comparison, the **[InsertBlankRow](Project.Application.InsertBlankRow.md)** method creates a blank row, where additional task information can be added programmatically. To create a manually scheduled task where the default mode is automatic, use the **[InsertManualTask](Project.Application.InsertManualTask.md)** method. To create an automatically scheduled task where the default mode is manual, use the **[InsertScheduledTask](Project.Application.InsertScheduledTask.md)** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

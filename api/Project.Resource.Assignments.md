@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Resource.Assignments property (Project)
 
-Gets an  **[Assignments](Project.Assignment.md)** collection representing the assignments for the resource. Read-only **Assignments**.
+Gets an **[Assignments](Project.Assignment.md)** collection representing the assignments for the resource. Read-only **Assignments**.
 
 
 ## Syntax

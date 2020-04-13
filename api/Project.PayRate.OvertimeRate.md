@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # PayRate.OvertimeRate property (Project)
 
-Gets or sets the overtime rate for a  **PayRate** object. Read/write **Variant**.
+Gets or sets the overtime rate for a **PayRate** object. Read/write **Variant**.
 
 
 ## Syntax

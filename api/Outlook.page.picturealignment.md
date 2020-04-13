@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # Page.PictureAlignment Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the location of a background picture. Read/write.
+Returns or sets an **Integer** that specifies the location of a background picture. Read/write.
 
 
 ## Syntax
 
 _expression_.**PictureAlignment**
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **Page** object.
 
 
 ## Remarks
@@ -33,7 +33,7 @@ The settings for  **PictureAlignment** are:
 |3|The bottom-left corner.|
 |4|The bottom-right corner.|
 
-The  **PictureAlignment** property identifies which corner of the picture is the same as the corresponding corner of the control or container where the picture is used.
+The **PictureAlignment** property identifies which corner of the picture is the same as the corresponding corner of the control or container where the picture is used.
 
 For example, setting  **PictureAlignment** to 0 means that the top-left corner of the picture coincides with the top-left corner of the control or container. Setting **PictureAlignment** to 2 positions the picture in the middle, relative to the height as well as the width of the control or container.
 

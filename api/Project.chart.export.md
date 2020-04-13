@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 |:-----|:-----|:-----|:-----|
 | _bstr_|Required|**String**|The path and name of the exported file.|
 | _varFilterName_|Optional|**Variant**|The language-independent name of the graphic filter as it appears in the registry ( `HKLM\\SOFTWARE\Wow6432Node\Microsoft\Shared Tools\Graphics Filters`).|
-| _varInteractive_|Optional|**Variant**|**True** to display the dialog box that contains the filter-specific options, if any. If _varInteractive_ is **False**, Project uses the default values for the filter. The default value is  **False**.|
+| _varInteractive_|Optional|**Variant**|**True** to display the dialog box that contains the filter-specific options, if any. If _varInteractive_ is **False**, Project uses the default values for the filter. The default value is **False**.|
 | _bstr_|Required|**String**||
 | _varFilterName_|Optional|**Variant**||
 | _varInteractive_|Optional|**Variant**||
@@ -35,7 +35,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Remarks
 
-The  **Export** method overwrites an existing read/write file of the same name.
+The **Export** method overwrites an existing read/write file of the same name.
 
 
 ## Example

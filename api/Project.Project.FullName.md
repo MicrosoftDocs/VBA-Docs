@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The  **FullName** property returns the project name (as seen in the title bar) for an unsaved project.
+The **FullName** property returns the project name (as seen in the title bar) for an unsaved project.
 
 
 ## Example

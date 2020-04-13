@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleActions.DeletePermanently property (Outlook)
 
-Returns a  **[RuleAction](Outlook.RuleAction.md)** object with **[RuleAction.ActionType](Outlook.RuleAction.ActionType.md)** being **olRuleActionDeletePermanently**. Read-only.
+Returns a **[RuleAction](Outlook.RuleAction.md)** object with **[RuleAction.ActionType](Outlook.RuleAction.ActionType.md)** being **olRuleActionDeletePermanently**. Read-only.
 
 
 ## Syntax

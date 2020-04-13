@@ -23,14 +23,14 @@ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 ## Remarks
 
-The  **ActualCost** property can be set for **Assignment** and **Task** objects (but not for summary tasks) if the **Actual costs are always calculated by Project** check box is cleared on the **Schedule** tab of the **Project Options** dialog box.
+The **ActualCost** property can be set for **Assignment** and **Task** objects (but not for summary tasks) if the **Actual costs are always calculated by Project** check box is cleared on the **Schedule** tab of the **Project Options** dialog box.
 
-Actual costs are also available for resources and assignments. If the  **Actual costs are always calculated by Project** check box is checked, Project calculates the current actual cost for the task from resource cost rate tables and the actual work that resources assigned to the task have completed. For programmatic access to the resource cost rate tables, use the **[CostRateTables](Project.Resource.CostRateTables.md)** collection.
+Actual costs are also available for resources and assignments. If the **Actual costs are always calculated by Project** check box is checked, Project calculates the current actual cost for the task from resource cost rate tables and the actual work that resources assigned to the task have completed. For programmatic access to the resource cost rate tables, use the **[CostRateTables](Project.Resource.CostRateTables.md)** collection.
 
 
 ## Example
 
-The following example prompts the user for actual costs of tasks with no resources in the active project. It assumes that the  **Actual costs are always calculated by Project** check box is cleared.
+The following example prompts the user for actual costs of tasks with no resources in the active project. It assumes that the **Actual costs are always calculated by Project** check box is cleared.
 
 
 ```vb

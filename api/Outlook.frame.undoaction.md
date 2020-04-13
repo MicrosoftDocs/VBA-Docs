@@ -12,24 +12,24 @@ localization_priority: Normal
 
 # Frame.UndoAction Method (Outlook Forms Script)
 
-Reverses the most recent action that supports the  **Undo** command.
+Reverses the most recent action that supports the **Undo** command.
 
 
 ## Syntax
 
 _expression_.**UndoAction**
 
-_expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a **Frame** object.
 
 
 ## Return value
 
-A Boolean that is  **True** if the method succeeds, **False** otherwise.
+A Boolean that is **True** if the method succeeds, **False** otherwise.
 
 
 ## Remarks
 
-Not all user actions can be undone. If an action cannot be undone, the  **Undo** command is unavailable following the action.
+Not all user actions can be undone. If an action cannot be undone, the **Undo** command is unavailable following the action.
 
 You must apply this method before the form or control is updated. You may want to include this method in a form's  **PropertyChange** event.
 

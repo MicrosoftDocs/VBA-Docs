@@ -23,6 +23,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The  **ID** property of a project can change when the project is closed and then opened again after other projects are opened. Use the **UniqueID** property if you want a constant reference to a project.
+The **ID** property of a project can change when the project is closed and then opened again after other projects are opened. Use the **UniqueID** property if you want a constant reference to a project.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

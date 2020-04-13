@@ -15,14 +15,14 @@ Represents a collection of  **[Assignment](Project.Assignment.md)** objects wher
 
 ## Remarks
 
-Use the  **[Item](Project.OverAllocatedAssignments.Item.md)** property to get a single **Assignment** object from the **OverAllocatedAssignments** collection.
+Use the **[Item](Project.OverAllocatedAssignments.Item.md)** property to get a single **Assignment** object from the **OverAllocatedAssignments** collection.
  
 
  
 
 ## Example
 
-The following example finds assignments where the resource is overallocated. When the overPeak argument is  **False**, the overallocation is not greater than the maximum resource time available (100%). If you set overPeak to **True**, the example finds overallocated assignments that exceed maximum resource time available, such as 150%.
+The following example finds assignments where the resource is overallocated. When the overPeak argument is **False**, the overallocation is not greater than the maximum resource time available (100%). If you set overPeak to **True**, the example finds overallocated assignments that exceed maximum resource time available, such as 150%.
  
 
  

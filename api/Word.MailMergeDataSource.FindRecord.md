@@ -40,9 +40,9 @@ Boolean
 
 ## Remarks
 
-This method corresponds to the  **Find Record** button on the **Mail Merge** toolbar.
+This method corresponds to the **Find Record** button on the **Mail Merge** toolbar.
 
-The  **FindRecord** method does a forward search only. Therefore, if the active record is not the first record in the data source and the record for which you are searching is before the active record, the **FindRecord** method will return no results. To ensure that the entire data source is searched, set the **ActiveRecord** property to **wdFirstRecord**.
+The **FindRecord** method does a forward search only. Therefore, if the active record is not the first record in the data source and the record for which you are searching is before the active record, the **FindRecord** method will return no results. To ensure that the entire data source is searched, set the **ActiveRecord** property to **wdFirstRecord**.
 
 
 ## Example

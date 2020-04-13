@@ -26,6 +26,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Due to changes in the Project object model, the  **ShowWelcome** property no longer has an effect. It has been retained for backward compatibility.
+Due to changes in the Project object model, the **ShowWelcome** property no longer has an effect. It has been retained for backward compatibility.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Exception object (Outlook)
 
-Represents information about one instance of an  **[AppointmentItem](Outlook.AppointmentItem.md)** object which is an exception to a recurring series.
+Represents information about one instance of an **[AppointmentItem](Outlook.AppointmentItem.md)** object which is an exception to a recurring series.
 
 
 ## Remarks
@@ -23,7 +23,7 @@ Represents information about one instance of an  **[AppointmentItem](Outlook.App
 
 
 > [!NOTE] 
-> The  **[Exceptions](Outlook.Exceptions.md)** object is on the **[RecurrencePattern](Outlook.RecurrencePattern.md)**, not the **AppointmentItem** object itself.
+> The **[Exceptions](Outlook.Exceptions.md)** object is on the **[RecurrencePattern](Outlook.RecurrencePattern.md)**, not the **AppointmentItem** object itself.
 
 When you work with recurring appointment items, you should release any prior references, obtain new references to the recurring appointment item before you access or modify the item, and release these references as soon as you are finished and have saved the changes. This practice applies to the recurring  **AppointmentItem** object, and any **[Exception](Outlook.Exception.md)** or **RecurrencePattern** object. To release a reference in Visual Basic for Applications (VBA) or Visual Basic, set that existing object to **Nothing**. In C#, explicitly release the memory for that object. For a code example, see the topic for the **AppointmentItem** object.
 

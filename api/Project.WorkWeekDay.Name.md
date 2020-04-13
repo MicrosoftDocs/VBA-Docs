@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WorkWeekDay.Name property (Project)
 
-Gets the name of a  **WorkWeekDay** object representing a day in a work week. Read/write **String**.
+Gets the name of a **WorkWeekDay** object representing a day in a work week. Read/write **String**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ _expression_.**Name**
 
  **Name** is the default property of the **WorkWeekDay** object.
 
-For a code example that uses the  **Task** object, see **[Name](Project.Task.Name.md)**.
+For a code example that uses the **Task** object, see **[Name](Project.Task.Name.md)**.
 
 
 ## See also

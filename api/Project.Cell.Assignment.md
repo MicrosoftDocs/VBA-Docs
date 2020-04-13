@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Cell.Assignment property (Project)
 
-Gets the  **[Assignment](Project.Assignment.md)** associated with the **[Cell](Project.Cell.md)**. Read-only **Assignment**.
+Gets the **[Assignment](Project.Assignment.md)** associated with the **[Cell](Project.Cell.md)**. Read-only **Assignment**.
 
 
 ## Syntax

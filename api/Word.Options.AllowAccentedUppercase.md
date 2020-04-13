@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 
 ## Remarks
 
-This property affects only text that's been marked as standard French. For all other languages, accents are always retained even if the  **AllowAccentedUppercase** property is set to **False**.
+This property affects only text that's been marked as standard French. For all other languages, accents are always retained even if the **AllowAccentedUppercase** property is set to **False**.
 
 If you change a character back to lowercase after an accent mark has been stripped from it, the accent won't reappear.
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shapes.AddPlaceholder method (PowerPoint)
 
-Restores a previously deleted placeholder on a slide. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the restored placeholder.
+Restores a previously deleted placeholder on a slide. Returns a **[Shape](PowerPoint.Shape.md)** object that represents the restored placeholder.
 
 
 ## Syntax

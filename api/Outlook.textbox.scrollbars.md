@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # TextBox.ScrollBars Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies whether a control has vertical scroll bars, horizontal scroll bars, or both. Read/write.
+Returns or sets an **Integer** that specifies whether a control has vertical scroll bars, horizontal scroll bars, or both. Read/write.
 
 
 ## Syntax
 
 _expression_.**ScrollBars**
 
-_expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a **TextBox** object.
 
 
 ## Remarks
@@ -62,6 +62,6 @@ For a multiline  **[TextBox](Outlook.textbox.md)**, you can display scroll bars 
     
   - The control has enough room to include the scroll bar under the edit region.
     
-  - The  **WordWrap** property is set to **False**.
+  - The **WordWrap** property is set to **False**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

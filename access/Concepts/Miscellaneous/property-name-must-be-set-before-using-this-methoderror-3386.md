@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You attempted to append a new  **Property** object to a collection without first setting all of the new object's properties: **Value**, **Type**, and **Name**.
+You attempted to append a new **Property** object to a collection without first setting all of the new object's properties: **Value**, **Type**, and **Name**.
 
 ## See also
 

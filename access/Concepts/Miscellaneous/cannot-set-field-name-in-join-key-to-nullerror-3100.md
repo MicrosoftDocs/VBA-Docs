@@ -5,7 +5,7 @@ f1_keywords:
 - jeterr40.chm5003100
 ms.prod: access
 ms.assetid: 1dcd1cbc-f492-b254-3525-b8a082401e17
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You have a join, and you tried to set a field on either side of the join to a  **Null** value. Either select different fields or enter data in the fields, and then try the operation again.
+You have a join, and you tried to set a field on either side of the join to a **Null** value. Either select different fields or enter data in the fields, and then try the operation again.
 
 ## See also
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.CalendarTimescale method (Project)
 
-Displays the  **Timescale** dialog box, which allows the user to customize the Calendar view.
+Displays the **Timescale** dialog box, which allows the user to customize the Calendar view.
 
 
 ## Syntax
@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **CalendarTimescale** method has the same effect as the **Timescale** command on the **Format** menu.
+The **CalendarTimescale** method has the same effect as the **Timescale** command on the **Format** menu.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

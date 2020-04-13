@@ -2,7 +2,7 @@
 title: Field <name> already exists in table <name>. (Error 3380)
 ms.prod: access
 ms.assetid: fb9cf66a-e93a-dda8-47c7-5b1a0046a14c
-ms.date: 06/08/2017
+ms.date: 06/08/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-You have entered the same field name twice. Rewrite your code, giving each field a unique name. You should also check to see if the field name exists in the  **Fields** collection.
+You have entered the same field name twice. Rewrite your code, giving each field a unique name. You should also check to see if the field name exists in the **Fields** collection.
 
 
 ## See also

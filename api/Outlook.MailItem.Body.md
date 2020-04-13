@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.Body property (Outlook)
 
-Returns or sets a  **String** representing the clear-text body of the Outlook item. Read/write.
+Returns or sets a **String** representing the clear-text body of the Outlook item. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Remarks
 
-The  **[MailItem.BodyFormat](Outlook.MailItem.BodyFormat.md)** property allows you to programmatically change the editor that is used for the body of an item.
+The **[MailItem.BodyFormat](Outlook.MailItem.BodyFormat.md)** property allows you to programmatically change the editor that is used for the body of an item.
 
 
 ## See also

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkComboBox.MaxLength property (Outlook)
 
-Returns or sets a  **Long** that specifies the maximum number of characters for the **[Value](Outlook.OlkComboBox.Value.md)** of this control. Read/write.
+Returns or sets a **Long** that specifies the maximum number of characters for the **[Value](Outlook.OlkComboBox.Value.md)** of this control. Read/write.
 
 
 ## Syntax

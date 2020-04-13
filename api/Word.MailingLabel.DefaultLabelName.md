@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[MailingLabel](Word.MailingLabel.md)'
 
 ## Remarks
 
-To find the string for the specified built-in label, select the label in the  **Label Options** dialog box (**Tools** menu, **Envelopes and Labels** dialog box, **Labels** tab, **Options** button). Then click **Details** and view the **Label** name box, which contains the correct string to use for this property. To set a custom label as the default mailing label, use the label name that appears in the **Details** dialog box, or use the **[Name](Word.CustomLabel.Name.md)** property with a **[CustomLabel](Word.CustomLabel.md)** object.
+To find the string for the specified built-in label, select the label in the **Label Options** dialog box (**Tools** menu, **Envelopes and Labels** dialog box, **Labels** tab, **Options** button). Then click **Details** and view the **Label** name box, which contains the correct string to use for this property. To set a custom label as the default mailing label, use the label name that appears in the **Details** dialog box, or use the **[Name](Word.CustomLabel.Name.md)** property with a **[CustomLabel](Word.CustomLabel.md)** object.
 
 Creating a new label document from a  **CustomLabel** object automatically sets the **DefaultLabelName** property to the name of the **CustomLabel** object.
 

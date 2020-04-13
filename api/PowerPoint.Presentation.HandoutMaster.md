@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Presentation.HandoutMaster property (PowerPoint)
 
-Returns a  **[Master](PowerPoint.Master.md)** object that represents the handout master. Read-only.
+Returns a **[Master](PowerPoint.Master.md)** object that represents the handout master. Read-only.
 
 
 ## Syntax

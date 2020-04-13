@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Category.CategoryGradientTopColor property (Outlook)
 
-Returns an  **OLE_COLOR** value that represents the top gradient color of the color swatch displayed for a **[Category](Outlook.Category.md)** object. Read-only.
+Returns an **OLE_COLOR** value that represents the top gradient color of the color swatch displayed for a **[Category](Outlook.Category.md)** object. Read-only.
 
 
 ## Syntax
