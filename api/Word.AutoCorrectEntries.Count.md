@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AutoCorrectEntries.Count property (Word)
 
-Returns the number of items in the  **AutoCorrectEntries** collection. Read-only **Long**.
+Returns the number of items in the **AutoCorrectEntries** collection. Read-only **Long**.
 
 
 ## Syntax

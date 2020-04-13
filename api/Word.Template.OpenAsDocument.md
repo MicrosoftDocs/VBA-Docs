@@ -31,7 +31,7 @@ Document
 
 ## Remarks
 
-Opening a template as a document allows the user to edit the contents of the template. This may be necessary if a property or method (the  **Styles** property, for example) isn't available from the **Template** object.
+Opening a template as a document allows the user to edit the contents of the template. This may be necessary if a property or method (the **Styles** property, for example) isn't available from the **Template** object.
 
 
 ## Example

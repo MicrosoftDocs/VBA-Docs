@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Template.VBProject property (Word)
 
-Returns the  **VBProject** object for the specified template.
+Returns the **VBProject** object for the specified template.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ Required. A variable that represents a '[Template](Word.Template.md
 
 Use this property to gain access to code modules and user forms.
 
-To view the  **VBProject** object in the object browser, you must select the **Microsoft Visual Basic for Applications Extensibility** check box in the **References** dialog box (**Tools** menu) in the Visual Basic Editor.
+To view the **VBProject** object in the object browser, you must select the **Microsoft Visual Basic for Applications Extensibility** check box in the **References** dialog box (**Tools** menu) in the Visual Basic Editor.
 
 
 ## Example

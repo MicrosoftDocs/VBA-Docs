@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-Use the  **CustomizationContext** property to set the template or document context prior to accessing the **CommandBars** collection.
+Use the **CustomizationContext** property to set the template or document context prior to accessing the **CommandBars** collection.
 
 
 

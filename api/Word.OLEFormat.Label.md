@@ -26,7 +26,7 @@ _expression_. `Label`
 
 ## Remarks
 
-If the source file is a Microsoft Excel workbook, the  **Label** property might return "Workbook1!R3C1:R4C2" if the OLE object contains only a few cells from the worksheet.
+If the source file is a Microsoft Excel workbook, the **Label** property might return "Workbook1!R3C1:R4C2" if the OLE object contains only a few cells from the worksheet.
 
 This property works only for shapes, inline shapes, or fields that are linked OLE objects.
 

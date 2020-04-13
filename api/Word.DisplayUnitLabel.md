@@ -24,7 +24,7 @@ Represents a unit label on an axis in the specified chart.
 
 ## Example
 
-Use the  **[DisplayUnitLabel](Word.Axis.DisplayUnitLabel.md)** property to return the **DisplayUnitLabel** object. The following example sets the display label caption to "Millions" on the value axis of the first chart in the active document, and then the example turns off automatic font scaling.
+Use the **[DisplayUnitLabel](Word.Axis.DisplayUnitLabel.md)** property to return the **DisplayUnitLabel** object. The following example sets the display label caption to "Millions" on the value axis of the first chart in the active document, and then the example turns off automatic font scaling.
 
 
 ```vb

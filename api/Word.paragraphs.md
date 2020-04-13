@@ -14,7 +14,7 @@ A collection of  **[Paragraph](Word.Paragraph.md)** objects in a selection, rang
 
 ## Remarks
 
-Use the  **Paragraphs** property to return the **Paragraphs** collection. The following example formats the selected paragraphs to be double-spaced and right-aligned.
+Use the **Paragraphs** property to return the **Paragraphs** collection. The following example formats the selected paragraphs to be double-spaced and right-aligned.
 
 
 ```vb
@@ -24,7 +24,7 @@ With Selection.Paragraphs
 End With
 ```
 
-Use the  **Add**, **InsertParagraph**, **InsertParagraphAfter**, or **InsertParagraphBefore** method to add a new paragraph to a document. The following example adds a new paragraph before the first paragraph in the selection.
+Use the **Add**, **InsertParagraph**, **InsertParagraphAfter**, or **InsertParagraphBefore** method to add a new paragraph to a document. The following example adds a new paragraph before the first paragraph in the selection.
 
 
 

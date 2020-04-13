@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Global](Word.Global.md)' o
 
 ## Example
 
-This example inserts the AutoText entry named "Test" from the Normal template, if this entry is contained in the  **AutoTextEntries** collection.
+This example inserts the AutoText entry named "Test" from the Normal template, if this entry is contained in the **AutoTextEntries** collection.
 
 
 ```vb

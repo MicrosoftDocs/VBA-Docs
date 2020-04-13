@@ -26,7 +26,7 @@ _expression_. `RestrictLinkedStyles`
 
 ## Remarks
 
-Linked styles are styles that can be applied either as character styles or as paragraph styles. This property corresponds to the  **Disable Linked Styles** check box in the **Styles** dialog box.
+Linked styles are styles that can be applied either as character styles or as paragraph styles. This property corresponds to the **Disable Linked Styles** check box in the **Styles** dialog box.
 
 
 ## See also

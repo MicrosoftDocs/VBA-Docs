@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[ProtectedViewWindow](Word.ProtectedV
 
 ## Remarks
 
-A document displayed in a Protected View window is not a member of the  **[Documents](Word.Application.Documents.md)** collection. Instead, use the **Document** property to access a document that is displayed in a Protected View window.
+A document displayed in a Protected View window is not a member of the **[Documents](Word.Application.Documents.md)** collection. Instead, use the **Document** property to access a document that is displayed in a Protected View window.
 
 
 ## Example

@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[XMLNode](Word.XMLNode.md)'
 
 ## Remarks
 
-Use the  **LastChild** property to access the last child node. Use the **Root** property to access the parent node in a diagram.
+Use the **LastChild** property to access the last child node. Use the **Root** property to access the parent node in a diagram.
 
 
 

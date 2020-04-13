@@ -14,7 +14,7 @@ A collection of  **ListLevel** objects that represents all the list levels of a 
 
 ## Remarks
 
-Use the  **ListLevels** property to return the **ListLevels** collection. The following example sets the variable _mytemp_ to the first list template in the active document and then modifies each level to use lowercase letters for its number style.
+Use the **ListLevels** property to return the **ListLevels** collection. The following example sets the variable _mytemp_ to the first list template in the active document and then modifies each level to use lowercase letters for its number style.
 
 
 ```vb
@@ -37,7 +37,7 @@ ActiveDocument.ListTemplates(1).ListLevels(1).StartAt = 4
 > [!NOTE] 
 > You cannot add new levels to a list template.
 
-To apply a list level, first identify the range or list, and then use the  **ApplyListTemplate** method. Each tab at the beginning of the paragraph is translated into a list level. For example, a paragraph that begins with three tabs will become a level-three list paragraph after the **ApplyListTemplate** method is used.
+To apply a list level, first identify the range or list, and then use the **ApplyListTemplate** method. Each tab at the beginning of the paragraph is translated into a list level. For example, a paragraph that begins with three tabs will become a level-three list paragraph after the **ApplyListTemplate** method is used.
 
 
 ## See also

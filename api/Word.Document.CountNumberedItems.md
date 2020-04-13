@@ -30,7 +30,7 @@ _expression_. `CountNumberedItems`( `_NumberType_` , `_Level_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _NumberType_|Optional| **Variant**|The type of numbers to be counted. Can be one of the  **WdNumberType** constants. The default value is **wdNumberAllNumbers**.|
+| _NumberType_|Optional| **Variant**|The type of numbers to be counted. Can be one of the **WdNumberType** constants. The default value is **wdNumberAllNumbers**.|
 | _Level_|Optional| **Variant**|A number that corresponds to the numbering level you want to count. If this argument is omitted, all levels are counted.|
 
 ## Remarks

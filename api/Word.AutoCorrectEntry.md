@@ -26,7 +26,7 @@ Use  **[Entries](Word.AutoCorrect.Entries.md)** (_index_), where _index_ is the 
 AutoCorrect.Entries("teh").Value = "the"
 ```
 
-Use the  **[Apply](Word.AutoCorrectEntry.Apply.md)** method to insert an AutoCorrect entry at the specified range. The following example adds an AutoCorrect entry and then inserts it in place of the selection.
+Use the **[Apply](Word.AutoCorrectEntry.Apply.md)** method to insert an AutoCorrect entry at the specified range. The following example adds an AutoCorrect entry and then inserts it in place of the selection.
 
 
 
@@ -36,7 +36,7 @@ AutoCorrect.Entries.Add Name:="hellp", Value:="hello"
 AutoCorrect.Entries("hellp").Apply Range:=Selection.Range
 ```
 
-Use either the  **[Add](Word.AutoCorrectEntries.Add.md)** or **[AddRichText](Word.AutoCorrectEntries.AddRichText.md)** method to add an AutoCorrect entry to the list of available entries. The following example adds a plain-text AutoCorrect entry for the misspelling of the word "their.'
+Use either the **[Add](Word.AutoCorrectEntries.Add.md)** or **[AddRichText](Word.AutoCorrectEntries.AddRichText.md)** method to add an AutoCorrect entry to the list of available entries. The following example adds a plain-text AutoCorrect entry for the misspelling of the word "their.'
 
 
 

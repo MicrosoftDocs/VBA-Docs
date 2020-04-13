@@ -63,7 +63,7 @@ Sub FormatHTMLDivisions()
 End Sub
 ```
 
-HTML divisions can be nested within multiple HTML divisions. Use the  **HTMLDivisionParent** method to access a parent HTML division of the current HTML division. This example formats the borders for two HTML divisions in the active document. This example assumes that the active document is an HTML document with at least two divisions.
+HTML divisions can be nested within multiple HTML divisions. Use the **HTMLDivisionParent** method to access a parent HTML division of the current HTML division. This example formats the borders for two HTML divisions in the active document. This example assumes that the active document is an HTML document with at least two divisions.
 
 
 

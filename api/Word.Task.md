@@ -32,7 +32,7 @@ With Tasks(1)
 End With
 ```
 
-The following example restores the Calculator application window if Calculator is in the  **[Tasks](Word.tasks.md)** collection.
+The following example restores the Calculator application window if Calculator is in the **[Tasks](Word.tasks.md)** collection.
 
 
 

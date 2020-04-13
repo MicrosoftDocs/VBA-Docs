@@ -39,7 +39,7 @@ Boolean
 
 ## Remarks
 
-Using this method is the equivalent to using the  **Repeat** command on the **Edit** menu.
+Using this method is the equivalent to using the **Repeat** command on the **Edit** menu.
 
 
 ## Example

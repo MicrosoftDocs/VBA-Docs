@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Style](Word.Style.md)' obj
 
 ## Remarks
 
-A list template includes all the formatting that defines a particular list. Each of the seven formats (excluding  **None**) found on each of the tabs in the  **Bullets and Numbering** dialog box (**Format** menu) corresponds to a list template. Documents and templates can also contain collections of list templates.
+A list template includes all the formatting that defines a particular list. Each of the seven formats (excluding  **None**) found on each of the tabs in the **Bullets and Numbering** dialog box (**Format** menu) corresponds to a list template. Documents and templates can also contain collections of list templates.
 
 
 ## See also

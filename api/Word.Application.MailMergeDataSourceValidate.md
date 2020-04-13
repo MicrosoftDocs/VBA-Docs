@@ -35,13 +35,13 @@ _expression_ A variable that represents an '[Application](Word.Application.md)' 
 
 ## Remarks
 
-If you do not have address verification software installed on your computer, the  **MailMergeDataSourceValidate** event allows you to create simple filtering routines, such as looping through records to check the postal codes and removing any that are non-U.S.
+If you do not have address verification software installed on your computer, the **MailMergeDataSourceValidate** event allows you to create simple filtering routines, such as looping through records to check the postal codes and removing any that are non-U.S.
 
 
 > [!NOTE] 
-> The Handled parameter does not function correctly in this version of the event; use the  **[MailMergeDataSourceValidate2](Word.Application.MailMergeDataSourceValidate2.md)** event. In addition, you cannot raise this event from within a Microsoft Visual Basic for Applications (VBA) project. This event functions correctly only in COM add-ins. For managed add-ins and external applications, use the **MailMergeDataSourceValidate2** event.
+> The Handled parameter does not function correctly in this version of the event; use the **[MailMergeDataSourceValidate2](Word.Application.MailMergeDataSourceValidate2.md)** event. In addition, you cannot raise this event from within a Microsoft Visual Basic for Applications (VBA) project. This event functions correctly only in COM add-ins. For managed add-ins and external applications, use the **MailMergeDataSourceValidate2** event.
 
-For information about using events with the  **Application** object, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
+For information about using events with the **Application** object, see [Using events with the Application object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
 
 ## See also

@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Global](Word.Global.md)' object. Opt
 
 ## Remarks
 
-This method does not close channels opened to Word by client applications. Using this method is the same as using the  **DDETerminate** method for each open channel.
+This method does not close channels opened to Word by client applications. Using this method is the same as using the **DDETerminate** method for each open channel.
 
 If you interrupt a macro that opens a DDE channel, you may inadvertently leave a channel open. Open channels are not closed automatically when a macro ends, and each open channel uses system resources. For this reason, it is a good idea to use this method when you are debugging a macro that opens one or more DDE channels.
 

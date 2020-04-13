@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents an '[InlineShapes](Word.inline
 
 ## Remarks
 
-To add a horizontal line based on an existing image file, use the  **[AddHorizontalLine](Word.InlineShapes.AddHorizontalLine.md)** method.
+To add a horizontal line based on an existing image file, use the **[AddHorizontalLine](Word.InlineShapes.AddHorizontalLine.md)** method.
 
 
 ## Example

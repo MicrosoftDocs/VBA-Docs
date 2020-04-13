@@ -30,7 +30,7 @@ The  **LayoutInCell** property corresponds to the **Layout in table cell** optio
 
 
 > [!NOTE] 
-> Setting the  **LayoutInCell** property will take effect only if the **Type** property of the **WrapFormat** object is set to something other than **wdWrapTypeInline** or **wdWrapTypeNone**.
+> Setting the **LayoutInCell** property will take effect only if the **Type** property of the **WrapFormat** object is set to something other than **wdWrapTypeInline** or **wdWrapTypeNone**.
 
 
 ## See also

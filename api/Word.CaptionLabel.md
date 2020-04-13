@@ -27,7 +27,7 @@ CaptionLabels("Figure").NumberStyle = _
  wdCaptionNumberStyleLowercaseLetter
 ```
 
-The index number represents the position of the caption label in the  **CaptionLabels** collection. The following example displays the first caption label.
+The index number represents the position of the caption label in the **CaptionLabels** collection. The following example displays the first caption label.
 
 
 
@@ -36,7 +36,7 @@ The index number represents the position of the caption label in the  **CaptionL
 MsgBox CaptionLabels(1).Name
 ```
 
-Use the  **[Add](Word.CaptionLabels.Add.md)** method to add a custom caption label. The following example adds a caption label named "Photo."
+Use the **[Add](Word.CaptionLabels.Add.md)** method to add a custom caption label. The following example adds a caption label named "Photo."
 
 
 

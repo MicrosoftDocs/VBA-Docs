@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-Use the  **Run** method to run any macro.
+Use the **Run** method to run any macro.
 
 
 ## Example

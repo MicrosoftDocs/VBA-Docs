@@ -26,7 +26,7 @@ _expression_.**WindowNumber**
 
 ## Remarks
 
-Use the property to return the number of the specified window in the  **[Windows](Word.windows.md)** collection.
+Use the property to return the number of the specified window in the **[Windows](Word.windows.md)** collection.
 
 
 ## Example

@@ -26,9 +26,9 @@ _expression_.**NumberFormat**
 
 ## Remarks
 
-The percent sign (%) followed by any number from 1 through 9 represents the number style from the respective list level. For example, if you wanted the format for the first level to be "Article I," "Article II," and so on, the string for the  **NumberFormat** property would be "Article %1" and the **[NumberStyle](Word.ListLevel.NumberStyle.md)** property would be set to **wdListNumberStyleUpperCaseRoman**.
+The percent sign (%) followed by any number from 1 through 9 represents the number style from the respective list level. For example, if you wanted the format for the first level to be "Article I," "Article II," and so on, the string for the **NumberFormat** property would be "Article %1" and the **[NumberStyle](Word.ListLevel.NumberStyle.md)** property would be set to **wdListNumberStyleUpperCaseRoman**.
 
-If the  **NumberStyle** property is set to **wdListNumberStyleBullet**, the string for the **NumberFormat** property can only contain one character.
+If the **NumberStyle** property is set to **wdListNumberStyleBullet**, the string for the **NumberFormat** property can only contain one character.
 
 
 ## Example

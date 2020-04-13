@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Envelope.Options method (Word)
 
-Displays the  **Envelope Options** dialog box.
+Displays the **Envelope Options** dialog box.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ The  **Options** method works only if the document is the main document of an en
 
 ## Example
 
-This example checks that the active document is an envelope mail merge main document, and if it is, displays the  **Envelope Options** dialog box.
+This example checks that the active document is an envelope mail merge main document, and if it is, displays the **Envelope Options** dialog box.
 
 
 ```vb

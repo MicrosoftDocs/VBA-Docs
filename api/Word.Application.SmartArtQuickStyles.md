@@ -26,7 +26,7 @@ _expression_. `SmartArtQuickStyles`
 
 ## Remarks
 
-The set of styles represented by the  **SmartArtQuickStyles** property correspond to the available styles in the **Styles** group on the **Design tab** on the **SmartArt Tools** contextual tab in Word.
+The set of styles represented by the **SmartArtQuickStyles** property correspond to the available styles in the **Styles** group on the **Design tab** on the **SmartArt Tools** contextual tab in Word.
 
 
 ## Example

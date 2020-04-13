@@ -35,7 +35,7 @@ If ActiveDocument.GetLetterContent.AttentionLine <> "" Then
 End If
 ```
 
-This example retrieves the Letter Wizard elements from the active document, changes the attention line text, and then uses the  **[SetLetterContent](Word.Document.SetLetterContent.md)** method to update the document to reflect the changes.
+This example retrieves the Letter Wizard elements from the active document, changes the attention line text, and then uses the **[SetLetterContent](Word.Document.SetLetterContent.md)** method to update the document to reflect the changes.
 
 
 

@@ -19,7 +19,7 @@ Represents a single task pane available to Microsoft Word, which contains common
 
 ## Remarks
 
-Use the  **TaskPanes** property to return a **TaskPane** object. Use the **Visible** property to display an individual task pane. This example displays the formatting task pane.
+Use the **TaskPanes** property to return a **TaskPane** object. Use the **Visible** property to display an individual task pane. This example displays the formatting task pane.
 
 
 ```vb

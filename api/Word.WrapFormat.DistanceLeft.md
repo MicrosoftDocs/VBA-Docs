@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[WrapFormat](Word.WrapFormat.md)' obj
 
 ## Remarks
 
-The size and shape of the specified shape, together with the values of the  **Type** and **Side** properties of the **WrapFormat** object, determine the size and shape of this text-free area.
+The size and shape of the specified shape, together with the values of the **Type** and **Side** properties of the **WrapFormat** object, determine the size and shape of this text-free area.
 
 
 ## Example

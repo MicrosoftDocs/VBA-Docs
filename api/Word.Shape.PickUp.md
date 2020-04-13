@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Shape](Word.Shape.md)** o
 
 ## Remarks
 
-Use the  **[Apply](Word.Shape.Apply.md)** method to apply the copied formatting to another shape.
+Use the **[Apply](Word.Shape.Apply.md)** method to apply the copied formatting to another shape.
 
 
 ## Example

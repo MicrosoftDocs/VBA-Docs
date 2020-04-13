@@ -33,7 +33,7 @@ Sub ShowItalianNames()
 End Sub
 ```
 
-For each language for which proofing tools are installed, you can use the  **ActiveGrammarDictionary**, **ActiveHyphenationDictionary**, **ActiveSpellingDictionary**, and **ActiveThesaurusDictionary** properties to return the corresponding **Dictionary** object. The following example returns the full path for the active spelling dictionary used in the U.S. English version of Word.
+For each language for which proofing tools are installed, you can use the **ActiveGrammarDictionary**, **ActiveHyphenationDictionary**, **ActiveSpellingDictionary**, and **ActiveThesaurusDictionary** properties to return the corresponding **Dictionary** object. The following example returns the full path for the active spelling dictionary used in the U.S. English version of Word.
 
 
 
@@ -59,7 +59,7 @@ Sub ListWritingStyles()
 End Sub
 ```
 
-Use the  **DefaultWritingStyle** property to set the default writing style you want Word to use.
+Use the **DefaultWritingStyle** property to set the default writing style you want Word to use.
 
 
 
@@ -68,7 +68,7 @@ Use the  **DefaultWritingStyle** property to set the default writing style you w
 Languages(wdEnglishUS).DefaultWritingStyle = "Casual"
 ```
 
-You can override the default writing style with the  **ActiveWritingStyle** property. This property is applied to a specified document for text marked in a specified language. The following example sets the writing style to be used for checking U.S. English, French, and German in the active document.
+You can override the default writing style with the **ActiveWritingStyle** property. This property is applied to a specified document for text marked in a specified language. The following example sets the writing style to be used for checking U.S. English, French, and German in the active document.
 
 
 

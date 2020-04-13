@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[Range](Word.Range.md)** object.
 | _NumRows_|Optional| **Variant**|The number of rows in the table. If this argument is omitted, Microsoft Word sets the number of rows, based on the contents of the range.|
 | _NumColumns_|Optional| **Variant**|The number of columns in the table. If this argument is omitted, Word sets the number of columns, based on the contents of the range.|
 | _InitialColumnWidth_|Optional| **Variant**|The initial width of each column, in points. If this argument is omitted, Word calculates and adjusts the column width so that the table stretches from margin to margin.|
-| _Format_|Optional| **Variant**|Specifies one of the predefined formats listed in the  **Table AutoFormat** dialog box. Can be one of the **WdTableFormat** constants.|
+| _Format_|Optional| **Variant**|Specifies one of the predefined formats listed in the **Table AutoFormat** dialog box. Can be one of the **WdTableFormat** constants.|
 | _ApplyBorders_|Optional| **Variant**| **True** to apply the border properties of the specified format.|
 | _ApplyShading_|Optional| **Variant**| **True** to apply the shading properties of the specified format.|
 | _ApplyFont_|Optional| **Variant**| **True** to apply the font properties of the specified format.|

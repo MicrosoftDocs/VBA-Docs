@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents an **[Options](Word.Options.md
 
 ## Remarks
 
-If the  **DeletedTextColor** property is set to **wdByAuthor**, Word automatically assigns a unique color to each of the first eight authors who revise a document.
+If the **DeletedTextColor** property is set to **wdByAuthor**, Word automatically assigns a unique color to each of the first eight authors who revise a document.
 
 
 ## Example
@@ -38,7 +38,7 @@ This example sets the color of deleted text to bright green.
 Options.DeletedTextColor = wdBrightGreen
 ```
 
-This example returns the current status of the  **Color** option under **Deleted Text** on the **Track Changes** tab in the **Options** dialog box.
+This example returns the current status of the **Color** option under **Deleted Text** on the **Track Changes** tab in the **Options** dialog box.
 
 
 

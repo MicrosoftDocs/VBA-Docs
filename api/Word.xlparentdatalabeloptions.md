@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # XlParentDataLabelOptions enumeration (Word)
 
-Constants passed to and returned by the  **Series.ParentDataLabelOption** property.
+Constants passed to and returned by the **Series.ParentDataLabelOption** property.
 
 
 ## Members

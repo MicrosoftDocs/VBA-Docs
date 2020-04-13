@@ -19,7 +19,7 @@ Represents the AutoCorrect functionality in Word.
 
 ## Remarks
 
-Use the  **[AutoCorrect](Word.Application.AutoCorrect.md)** property to return the **AutoCorrect** object. The following example enables the AutoCorrect options and creates an AutoCorrect entry.
+Use the **[AutoCorrect](Word.Application.AutoCorrect.md)** property to return the **AutoCorrect** object. The following example enables the AutoCorrect options and creates an AutoCorrect entry.
 
 
 ```vb

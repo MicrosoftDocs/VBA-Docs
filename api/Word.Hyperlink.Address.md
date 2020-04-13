@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Hyperlink](Word.Hyperlink.
 
 ## Remarks
 
-If there is no hyperlink associated with an object, setting the  **Address** property returns an error occurs. In this case, use the **[Add](Word.Hyperlinks.Add.md)** method for the **[Hyperlinks](Word.hyperlinks.md)** collection to add a hyperlink. The following example shows how to do this.
+If there is no hyperlink associated with an object, setting the **Address** property returns an error occurs. In this case, use the **[Add](Word.Hyperlinks.Add.md)** method for the **[Hyperlinks](Word.hyperlinks.md)** collection to add a hyperlink. The following example shows how to do this.
 
 
 ```vb

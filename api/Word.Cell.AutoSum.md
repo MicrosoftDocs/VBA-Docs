@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' objec
 
 ## Remarks
 
-For information about how Word determines which values to add, see the  **[Formula](Word.Cell.Formula.md)** method.
+For information about how Word determines which values to add, see the **[Formula](Word.Cell.Formula.md)** method.
 
 
 ## Example

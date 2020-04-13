@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathBreaks.Count property (Word)
 
-Returns the number of items in the  **OMathBreaks** collection. Read-only **Long**.
+Returns the number of items in the **OMathBreaks** collection. Read-only **Long**.
 
 
 ## Syntax

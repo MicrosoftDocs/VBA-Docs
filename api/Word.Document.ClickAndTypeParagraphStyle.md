@@ -26,9 +26,9 @@ _expression_. `ClickAndTypeParagraphStyle`
 
 ## Remarks
 
-To set the  **ClickAndTypeParagraphStyle** property, specify either the local name of the style, an integer, or a **WdBuiltinStyle** constant, or an object that represents the style. For a list of the **WdBuiltinStyle** constants, consult the Microsoft Visual Basic Object Browser.
+To set the **ClickAndTypeParagraphStyle** property, specify either the local name of the style, an integer, or a **WdBuiltinStyle** constant, or an object that represents the style. For a list of the **WdBuiltinStyle** constants, consult the Microsoft Visual Basic Object Browser.
 
-If the  **[InUse](Word.Style.InUse.md)** property for the specified style is set to **False**, an error occurs.
+If the **[InUse](Word.Style.InUse.md)** property for the specified style is set to **False**, an error occurs.
 
 
 ## Example

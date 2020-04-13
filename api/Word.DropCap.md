@@ -19,7 +19,7 @@ Represents a dropped capital letter at the beginning of a paragraph. There is no
 
 ## Remarks
 
-Use the  **DropCap** property to return a **DropCap** object. The following example sets a dropped capital letter for the first letter in the first paragraph in the active document.
+Use the **DropCap** property to return a **DropCap** object. The following example sets a dropped capital letter for the first letter in the first paragraph in the active document.
 
 
 ```vb

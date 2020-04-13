@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CoAuthLock.Owner property (Word)
 
-Returns the  **[CoAuthor](Word.CoAuthor.md)** that owns the specified lock. Read-only.
+Returns the **[CoAuthor](Word.CoAuthor.md)** that owns the specified lock. Read-only.
 
 
 ## Syntax

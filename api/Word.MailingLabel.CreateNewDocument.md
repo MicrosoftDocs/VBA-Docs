@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents a '[MailingLabel](Word.Mailing
 | _Address_|Optional| **Variant**|The text for the mailing label.|
 | _AutoText_|Optional| **Variant**|The name of the AutoText entry that includes the mailing label text.|
 | _ExtractAddress_|Optional| **Variant**| **True** to use the address text marked by the user-defined bookmark named "EnvelopeAddress" instead of using the Address argument.|
-| _LaserTray_|Optional| **Variant**|The laser printer tray. Can be one of the  **[WdPaperTray](Word.WdPaperTray.md)** constants.|
+| _LaserTray_|Optional| **Variant**|The laser printer tray. Can be one of the **[WdPaperTray](Word.WdPaperTray.md)** constants.|
 | _PrintEPostageLabel_|Optional| **Variant**| **True** to print postage using an Internet e-postage vendor.|
 | _Vertical_|Optional| **Variant**| **True** formats text vertically on the label. Used for Asian-language mailing labels.|
 

@@ -26,12 +26,12 @@ _expression_. `KeyCode`
 
 ## Remarks
 
-You create this number by using the  **[BuildKeyCode](Word.Application.BuildKeyCode.md)** method when you are adding key bindings by using the **[Add](Word.KeyBindings.Add.md)** method of the **[KeyBindings](Word.keybindings.md)** object.
+You create this number by using the **[BuildKeyCode](Word.Application.BuildKeyCode.md)** method when you are adding key bindings by using the **[Add](Word.KeyBindings.Add.md)** method of the **[KeyBindings](Word.keybindings.md)** object.
 
 
 ## Example
 
-This example displays a message if the  **KeyBindings** collection includes the ALT+CTRL+W key combination.
+This example displays a message if the **KeyBindings** collection includes the ALT+CTRL+W key combination.
 
 
 ```vb

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # CoAuthors object (Word)
 
-A collection of all the  **[CoAuthor](Word.CoAuthor.md)** objects in the document.
+A collection of all the **[CoAuthor](Word.CoAuthor.md)** objects in the document.
 
 
 ## Remarks

@@ -38,7 +38,7 @@ _expression_ Required. A variable that represents a **[CanvasShapes](Word.Canvas
 
 ## Remarks
 
-To change the type of an AutoShape that you've added, set the  **AutoShapeType** property.
+To change the type of an AutoShape that you've added, set the **AutoShapeType** property.
 
 
 ## Example

@@ -35,7 +35,7 @@ _expression_ A variable that represents an **[Application](Word.Application.md)*
 
 ## Remarks
 
-If it is successful, the  **DDEInitiate** method returns the number of the open channel. All subsequent DDE functions use this number to specify the channel.
+If it is successful, the **DDEInitiate** method returns the number of the open channel. All subsequent DDE functions use this number to specify the channel.
 
 
 ## Example

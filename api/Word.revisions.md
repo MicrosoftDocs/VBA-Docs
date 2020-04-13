@@ -14,7 +14,7 @@ A collection of  **[Revision](Word.Revision.md)** objects that represent the cha
 
 ## Remarks
 
-Use the  **Revisions** property to return the **Revisions** collection. The following code example displays the number of revisions in the main text story.
+Use the **Revisions** property to return the **Revisions** collection. The following code example displays the number of revisions in the main text story.
 
 
 ```vb

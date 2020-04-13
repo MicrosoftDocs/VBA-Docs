@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Frameset.Type property (Word)
 
-Returns the  **Frameset** object type. Read-only **[WdFramesetType](Word.WdFramesetType.md)**.
+Returns the **Frameset** object type. Read-only **[WdFramesetType](Word.WdFramesetType.md)**.
 
 
 ## Syntax

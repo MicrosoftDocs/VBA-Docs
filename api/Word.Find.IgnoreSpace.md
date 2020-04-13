@@ -26,7 +26,7 @@ _expression_. `IgnoreSpace`
 
 ## Remarks
 
-This property corresponds to the  **Ignore white-space characters** check box in the **Find and Replace** dialog box.
+This property corresponds to the **Ignore white-space characters** check box in the **Find and Replace** dialog box.
 
 
 ## See also

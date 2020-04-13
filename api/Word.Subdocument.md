@@ -30,7 +30,7 @@ If ActiveDocument.Subdocuments(1).HasFile = True Then
 End If
 ```
 
-Use the  **AddFromFile** or **AddFromRange** method to add a subdocument to a document. The following example adds a subdocument named "Setup.doc" at the end of the active document.
+Use the **AddFromFile** or **AddFromRange** method to add a subdocument to a document. The following example adds a subdocument named "Setup.doc" at the end of the active document.
 
 
 

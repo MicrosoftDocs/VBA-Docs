@@ -19,7 +19,7 @@ Represents the elements of a letter created by the Letter Wizard.
 
 ## Remarks
 
-Use the  **GetLetterContent** or **CreateLetterContent** method to return a **LetterContent** object. The following example retrieves and displays the letter recipient's name from the active document.
+Use the **GetLetterContent** or **CreateLetterContent** method to return a **LetterContent** object. The following example retrieves and displays the letter recipient's name from the active document.
 
 
 ```vb
@@ -27,7 +27,7 @@ Set myLetterContent = ActiveDocument.GetLetterContent
 MsgBox myLetterContent.RecipientName
 ```
 
-The following example uses the  **CreateLetterContent** method to create a new **LetterContent** object, which is then used with the **RunLetterWizard** method.
+The following example uses the **CreateLetterContent** method to create a new **LetterContent** object, which is then used with the **RunLetterWizard** method.
 
 
 

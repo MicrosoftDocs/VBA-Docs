@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Trendline](Word.Trendline.md)' objec
 
 ## Remarks
 
-Setting this property sets the  **[InterceptIsAuto](Word.Trendline.InterceptIsAuto.md)** property to **False**.
+Setting this property sets the **[InterceptIsAuto](Word.Trendline.InterceptIsAuto.md)** property to **False**.
 
 
 ## Example

@@ -35,7 +35,7 @@ _expression_.**ContentControlAfterAdd'(**_NewContentControl_**, **_InUndoRedo_**
 
 ## Remarks
 
-For information about using events with the  **Document** object, see [Using events with the Document object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md).
+For information about using events with the **Document** object, see [Using events with the Document object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md).
 
 
 ## See also

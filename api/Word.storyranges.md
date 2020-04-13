@@ -17,7 +17,7 @@ A collection of  **Range** objects that represent stories in a document.
 
 ## Remarks
 
-Use the  **StoryRanges** property to return the **StoryRanges** collection. The following example removes manual character formatting from the text in all stories other than the main text story in the active document.
+Use the **StoryRanges** property to return the **StoryRanges** collection. The following example removes manual character formatting from the text in all stories other than the main text story in the active document.
 
 
 ```vb
@@ -63,7 +63,7 @@ errhandler:
 If Err = 5941 Then MsgBox "The footnotes story is not available."
 ```
 
-Use the  **NextStoryRange** property to loop through all stories in a document. The following example searches each story in the active document for the text "Microsoft Word." When the text is found, it is formatted as italic.
+Use the **NextStoryRange** property to loop through all stories in a document. The following example searches each story in the active document for the text "Microsoft Word." When the text is found, it is formatted as italic.
 
 
 

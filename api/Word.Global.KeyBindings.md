@@ -36,7 +36,7 @@ KeyBindings.Add KeyCode:=BuildKeyCode(wdKeyControl, wdKeyAlt, _
  Command:="FileClose"
 ```
 
-This example inserts the command name and key combination string for each item in the  **KeyBindings** collection.
+This example inserts the command name and key combination string for each item in the **KeyBindings** collection.
 
 
 

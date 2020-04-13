@@ -17,7 +17,7 @@ A collection of  **[TwoInitialCapsException](Word.TwoInitialCapsException.md)** 
 
 ## Remarks
 
-Use the  **TwoInitialCapsExceptions** property to return the **TwoInitialCapsExceptions** collection. The following example displays the items in this collection.
+Use the **TwoInitialCapsExceptions** property to return the **TwoInitialCapsExceptions** collection. The following example displays the items in this collection.
 
 
 ```vb
@@ -26,7 +26,7 @@ For Each aCap In AutoCorrect.TwoInitialCapsExceptions
 Next aCap
 ```
 
-If the  **TwoInitialCapsAutoAdd** property is **True**, words are automatically added to the list of initial-capital exceptions. Use the **Add** method to add an item to the **TwoInitialCapsExceptions** collection. The following example adds "Industry" to the list of initial-capital exceptions.
+If the **TwoInitialCapsAutoAdd** property is **True**, words are automatically added to the list of initial-capital exceptions. Use the **Add** method to add an item to the **TwoInitialCapsExceptions** collection. The following example adds "Industry" to the list of initial-capital exceptions.
 
 
 
@@ -44,7 +44,7 @@ Use  **TwoInitialCapsExceptions** (Index), where Index is the initial cap name o
 AutoCorrect.TwoInitialCapsExceptions("KMenu").Delete
 ```
 
-The index number represents the position of the initial-capital exception in the  **TwoInitialCapsExceptions** collection. The following example displays the name of the first item in the **TwoInitialCapsExceptions** collection.
+The index number represents the position of the initial-capital exception in the **TwoInitialCapsExceptions** collection. The following example displays the name of the first item in the **TwoInitialCapsExceptions** collection.
 
 
 

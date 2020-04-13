@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[ShapeRange](Word.shaperan
 
 ## Remarks
 
-Use the  **[Apply](Word.ShapeRange.Apply.md)** method to apply the copied formatting to another shape.
+Use the **[Apply](Word.ShapeRange.Apply.md)** method to apply the copied formatting to another shape.
 
 
 ## Example

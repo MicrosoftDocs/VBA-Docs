@@ -19,7 +19,7 @@ Contains magnification options (for example, the zoom percentage) for a window o
 
 ## Remarks
 
-Use the  **Zoom** property of the **View** object to return a single **Zoom** object. The following example sets the zoom percentage for the active window to 110 percent.
+Use the **Zoom** property of the **View** object to return a single **Zoom** object. The following example sets the zoom percentage for the active window to 110 percent.
 
 
 ```vb

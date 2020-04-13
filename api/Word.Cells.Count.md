@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Cells.Count property (Word)
 
-Returns the number of items in the  **Cells** collection. Read-only **Long**.
+Returns the number of items in the **Cells** collection. Read-only **Long**.
 
 
 ## Syntax

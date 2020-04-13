@@ -26,7 +26,7 @@ The  **[ErrorBar](Word.Series.ErrorBar.md)** method changes the error bar format
 
 ## Example
 
-Use the  **[ErrorBars](Word.Series.ErrorBars.md)** property to return the **ErrorBars** object. The following example enables error bars for series one of the first chart in the active document and then sets the end style for the error bars.
+Use the **[ErrorBars](Word.Series.ErrorBars.md)** property to return the **ErrorBars** object. The following example enables error bars for series one of the first chart in the active document and then sets the end style for the error bars.
 
 
 ```vb

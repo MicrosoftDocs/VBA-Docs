@@ -26,7 +26,7 @@ _expression_. `OpenAttachmentsInFullScreen`
 
 ## Remarks
 
-This property corresponds to the  **Open email attachments in Reading mode** check box in the **Word Options** dialog box.
+This property corresponds to the **Open email attachments in Reading mode** check box in the **Word Options** dialog box.
 
 
 ## See also

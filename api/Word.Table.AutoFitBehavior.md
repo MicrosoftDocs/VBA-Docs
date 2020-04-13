@@ -36,7 +36,7 @@ _expression_ Required. A variable that represents a '[Table](Word.Table.md)' obj
 
 Word can resize the table based on the content of the table cells or the width of the document window. You can also use this method to turn off AutoFit so that the table size is fixed, regardless of cell contents or window width.
 
-Setting the  **AutoFitBehavior** property to **wdAutoFitContent** or **wdAutoFitWindow** sets the **AllowAutoFit** property to **True** if it is currently **False**. Likewise, setting the **AutoFitBehavior** property to **wdAutoFitFixed** sets the **AllowAutoFit** property to **False** if it is currently **True**.
+Setting the **AutoFitBehavior** property to **wdAutoFitContent** or **wdAutoFitWindow** sets the **AllowAutoFit** property to **True** if it is currently **False**. Likewise, setting the **AutoFitBehavior** property to **wdAutoFitFixed** sets the **AllowAutoFit** property to **False** if it is currently **True**.
 
 
 ## Example

@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents a '[MailMergeDataSource](Word.
 
 ## Remarks
 
-You can set individual records in a data source to be included in or excluded from a mail merge using the  **Included** property.
+You can set individual records in a data source to be included in or excluded from a mail merge using the **Included** property.
 
 
 ## Example

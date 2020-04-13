@@ -17,7 +17,7 @@ A collection of  **[KeyBinding](Word.KeyBinding.md)** objects assigned to a comm
 
 ## Remarks
 
-Use the  **[KeysBoundTo](Word.Application.KeysBoundTo.md)** property to return the **KeysBoundTo** collection. The following example displays the key combinations assigned to the **FileNew** command in the Normal template.
+Use the **[KeysBoundTo](Word.Application.KeysBoundTo.md)** property to return the **KeysBoundTo** collection. The following example displays the key combinations assigned to the **FileNew** command in the Normal template.
 
 
 ```vb

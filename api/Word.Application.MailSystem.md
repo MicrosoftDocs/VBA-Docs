@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 
 ## Remarks
 
-Some of the  **WdMailSystem** constants are available only in Microsoft Office Macintosh Edition. For additional information about these constants, consult the language reference Help included with Microsoft Office Macintosh Edition.
+Some of the **WdMailSystem** constants are available only in Microsoft Office Macintosh Edition. For additional information about these constants, consult the language reference Help included with Microsoft Office Macintosh Edition.
 
 
 ## Example

@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-The compatibility options are located on the  **Compatibility** tab in the **Options** dialog box as the default settings for new documents.
+The compatibility options are located on the **Compatibility** tab in the **Options** dialog box as the default settings for new documents.
 
 
 ## Example

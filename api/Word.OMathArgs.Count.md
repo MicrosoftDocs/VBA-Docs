@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathArgs.Count property (Word)
 
-Returns the number of items in the  **OMathArgs** collection. Read-only **Long**.
+Returns the number of items in the **OMathArgs** collection. Read-only **Long**.
 
 
 ## Syntax

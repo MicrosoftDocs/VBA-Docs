@@ -19,7 +19,7 @@ Represents the interior of an object.
 
 ## Example
 
-The following example enables up and down bars, and then sets the interior color of the up bars to green, for the first chart group of the first chart in the active document. Use the  **[UpBars.Interior](overview/Word.md)** property to return the **Interior** object.
+The following example enables up and down bars, and then sets the interior color of the up bars to green, for the first chart group of the first chart in the active document. Use the **[UpBars.Interior](overview/Word.md)** property to return the **Interior** object.
 
 
 ```vb

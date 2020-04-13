@@ -26,12 +26,12 @@ _expression_ A variable that represents a '[ChartData](Word.ChartData.md)' objec
 
 ## Remarks
 
-Calling this method sets the  **[IsLinked](Word.ChartData.IsLinked.md)** property of the **ChartData** object to **False**.
+Calling this method sets the **[IsLinked](Word.ChartData.IsLinked.md)** property of the **ChartData** object to **False**.
 
 
 ## Example
 
-The following example removes the link between the  **ChartData** object for the first chart in the active document and the Excel workbook that provided the data for the chart.
+The following example removes the link between the **ChartData** object for the first chart in the active document and the Excel workbook that provided the data for the chart.
 
 
 ```vb

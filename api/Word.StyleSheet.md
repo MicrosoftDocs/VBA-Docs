@@ -19,7 +19,7 @@ Represents a single cascading style sheet attached to a web document. The  **Sty
 
 ## Remarks
 
-Use the  **Item** method or **StyleSheets** (Index), where Index is the name or number of the style sheet, of the **StyleSheets** collection to return a **StyleSheet** object. The following example removes the second style sheet from the **StyleSheets** collection.
+Use the **Item** method or **StyleSheets** (Index), where Index is the name or number of the style sheet, of the **StyleSheets** collection to return a **StyleSheet** object. The following example removes the second style sheet from the **StyleSheets** collection.
 
 
 ```vb
@@ -28,7 +28,7 @@ Sub WebStyleSheets()
 End Sub
 ```
 
-Use the  **Index** property to determine the precedence of cascading style sheets. The following example creates a table of attached cascading style sheets, ordered and indexed according to which style sheet is most important.
+Use the **Index** property to determine the precedence of cascading style sheets. The following example creates a table of attached cascading style sheets, ordered and indexed according to which style sheet is most important.
 
 
 
@@ -49,7 +49,7 @@ Sub CSSTable()
 End Sub
 ```
 
-Use the  **Move** method to reorder the precedence of attached style sheets. The following example moves the most important style sheet to the least important of all attached cascading style sheets.
+Use the **Move** method to reorder the precedence of attached style sheets. The following example moves the most important style sheet to the least important of all attached cascading style sheets.
 
 
 

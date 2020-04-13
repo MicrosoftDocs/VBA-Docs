@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathMatRows.Count property (Word)
 
-Returns the number of items in the  **OMathMatRows** collection. Read-only **Long**.
+Returns the number of items in the **OMathMatRows** collection. Read-only **Long**.
 
 
 ## Syntax

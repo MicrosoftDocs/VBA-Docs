@@ -11,12 +11,12 @@ localization_priority: Normal
 
 # Axes object (Word)
 
-Represents a collection of all the  **[Axis](Word.Axis.md)** objects in the specified chart.
+Represents a collection of all the **[Axis](Word.Axis.md)** objects in the specified chart.
 
 
 ## Remarks
 
-Use the  **[Axes](Word.Chart.Axes.md)** method to return the **Axes** collection.
+Use the **[Axes](Word.Chart.Axes.md)** method to return the **Axes** collection.
 
 Use  **Axes** ( _Type_ , _AxisGroup_ ), where _Type_ is the axis type and _AxisGroup_ is the axis group, to return an **Axes** collection that contains a single **Axis** object. _Type_ can be one of the following **[XlAxisType](Word.xlaxistype.md)** constants: **xlCategory**, **xlSeries**, or **xlValue**. _AxisGroup_ can be one of the following **[XlAxisGroup](Word.xlaxisgroup.md)** constants: **xlPrimary** or **xlSecondary**.
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Bookmarks.Count property (Word)
 
-Returns the number of items in the  **Bookmarks** collection. Read-only **Long**.
+Returns the number of items in the **Bookmarks** collection. Read-only **Long**.
 
 
 ## Syntax

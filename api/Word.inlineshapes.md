@@ -14,7 +14,7 @@ A collection of  **InlineShape** objects that represent all the inline shapes in
 
 ## Remarks
 
-Use the  **InlineShapes** property to return the **InlineShapes** collection. The following example converts each inline shape in the active document to a **Shape** object.
+Use the **InlineShapes** property to return the **InlineShapes** collection. The following example converts each inline shape in the active document to a **Shape** object.
 
 
 ```vb
@@ -23,7 +23,7 @@ For Each iShape In ActiveDocument.InlineShapes
 Next iShape
 ```
 
-Use the  **New** method to create a new picture as an inline shape. You can use the **AddPicture** and **AddOLEObject** methods to add pictures or OLE objects and link them to a source file. Use the **AddOLEControl** method to add an ActiveX control.
+Use the **New** method to create a new picture as an inline shape. You can use the **AddPicture** and **AddOLEObject** methods to add pictures or OLE objects and link them to a source file. Use the **AddOLEControl** method to add an ActiveX control.
 
  **Shape** objects are anchored to a range of text but are free-floating and can be positioned anywhere on the page. You can use the **ConvertToInlineShape** method and the **ConvertToShape** method to convert shapes from one type to the other. You can convert only pictures, OLE objects, and ActiveX controls to inline shapes.
 

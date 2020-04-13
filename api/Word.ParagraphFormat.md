@@ -19,7 +19,7 @@ Represents all the formatting for a paragraph.
 
 ## Remarks
 
-Use the  **Format** property to return the **ParagraphFormat** object for a paragraph or paragraphs. The **ParagraphFormat** property returns the **ParagraphFormat** object for a selection, range, style, **Find** object, or **Replacement** object. The following example centers the third paragraph in the active document.
+Use the **Format** property to return the **ParagraphFormat** object for a paragraph or paragraphs. The **ParagraphFormat** property returns the **ParagraphFormat** object for a selection, range, style, **Find** object, or **Replacement** object. The following example centers the third paragraph in the active document.
 
 
 ```vb

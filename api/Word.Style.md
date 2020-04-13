@@ -46,7 +46,7 @@ MsgBox "Base style= " _
  & "Style name= " & ActiveDocument.Styles(1).NameLocal
 ```
 
-To apply a style to a range, paragraph, or multiple paragraphs, set the  **Style** property to a user-defined or built-in style name. The following example applies the Normal style to the first four paragraphs in the active document.
+To apply a style to a range, paragraph, or multiple paragraphs, set the **Style** property to a user-defined or built-in style name. The following example applies the Normal style to the first four paragraphs in the active document.
 
 
 
@@ -79,7 +79,7 @@ myStyle.Font.Bold = True
 Selection.Range.Style = "Bolded"
 ```
 
-Use the  **OrganizerCopy** method to copy styles between documents and templates. Use the **UpdateStyles** method to update the styles in the active document to match the style definitions in the attached template. Use the **OpenAsDocument** method to open a template as a document so that you can modify the template styles.
+Use the **OrganizerCopy** method to copy styles between documents and templates. Use the **UpdateStyles** method to update the styles in the active document to match the style definitions in the attached template. Use the **OpenAsDocument** method to open a template as a document so that you can modify the template styles.
 
 
 ## See also

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailingLabel.LabelOptions method (Word)
 
-Displays the  **Label Options** dialog box.
+Displays the **Label Options** dialog box.
 
 
 ## Syntax

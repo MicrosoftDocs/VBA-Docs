@@ -30,7 +30,7 @@ Use  **FirstLetterExceptions** (Index), where Index is the abbreviation or the i
 AutoCorrect.FirstLetterExceptions("appt.").Delete
 ```
 
-The following example displays the name of the first item in the  **[FirstLetterExceptions](Word.firstletterexceptions.md)** collection.
+The following example displays the name of the first item in the **[FirstLetterExceptions](Word.firstletterexceptions.md)** collection.
 
 
 
@@ -39,7 +39,7 @@ The following example displays the name of the first item in the  **[FirstLetter
 MsgBox AutoCorrect.FirstLetterExceptions(1).Name
 ```
 
-Use the  **Add** method to add an abbreviation to the list of first-letter exceptions. The following example adds the abbreviation "addr." to this list.
+Use the **Add** method to add an abbreviation to the list of first-letter exceptions. The following example adds the abbreviation "addr." to this list.
 
 
 

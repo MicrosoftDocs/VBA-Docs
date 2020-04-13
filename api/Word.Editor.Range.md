@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents an '[Editor](Word.Editor.md)' 
 
 ## Remarks
 
-For information about returning a range from a document or returning a shape range from a collection of shapes, see the  **Range** method.
+For information about returning a range from a document or returning a shape range from a collection of shapes, see the **Range** method.
 
 
 ## Example

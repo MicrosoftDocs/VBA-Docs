@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[PageSetup](Word.PageSetup.md)** obj
 
 ## Remarks
 
-If the  **[MirrorMargins](Word.PageSetup.MirrorMargins.md)** property is set to **True**, the **RightMargin** property controls the setting for outside margins and the **[LeftMargin](Word.PageSetup.LeftMargin.md)** property controls the setting for inside margins.
+If the **[MirrorMargins](Word.PageSetup.MirrorMargins.md)** property is set to **True**, the **RightMargin** property controls the setting for outside margins and the **[LeftMargin](Word.PageSetup.LeftMargin.md)** property controls the setting for inside margins.
 
 
 ## Example

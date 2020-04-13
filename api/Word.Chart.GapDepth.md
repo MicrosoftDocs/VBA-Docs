@@ -32,7 +32,7 @@ The value of this property must be between 0 and 500.
 
 ## Example
 
-The following example sets the distance between the data series for the first chart in the active document to 200 percent of the marker width. You should run the example on a 3D chart (the  **GapDepth** property fails on 2D charts).
+The following example sets the distance between the data series for the first chart in the active document to 200 percent of the marker width. You should run the example on a 3D chart (the **GapDepth** property fails on 2D charts).
 
 
 ```vb

@@ -19,7 +19,7 @@ A collection of  **HTMLDivision** objects that represents the HTML DIV elements 
 
 ## Remarks
 
-Use the  **HTMLDivisions** property to return the **HTMLDivisions** collection. Use the **Add** method to add an HTML division to a web document. This example adds a new HTML division to the active document, adds text to the division, and formats the borders around the division.
+Use the **HTMLDivisions** property to return the **HTMLDivisions** collection. Use the **Add** method to add an HTML division to a web document. This example adds a new HTML division to the active document, adds text to the division, and formats the borders around the division.
 
 
 ```vb

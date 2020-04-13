@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[ConditionalStyle](Word.Con
 
 ## Remarks
 
-The setting of the  **BottomPadding** property for a single cell overrides the setting of the **BottomPadding** property for the entire table.
+The setting of the **BottomPadding** property for a single cell overrides the setting of the **BottomPadding** property for the entire table.
 
 
 ## See also

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Conflicts.Count property (Word)
 
-Returns the number of items in the  **Conflicts** collection. Read-only.
+Returns the number of items in the **Conflicts** collection. Read-only.
 
 
 ## Syntax

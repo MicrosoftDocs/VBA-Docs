@@ -26,7 +26,7 @@ _expression_. `BibliographySort`
 
 ## Remarks
 
-Possible values for the  **BibliographySort** property are `Author`,  `Title`,  `Tag`, or  `Year`.
+Possible values for the **BibliographySort** property are `Author`,  `Title`,  `Tag`, or  `Year`.
 
 
 ## See also

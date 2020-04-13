@@ -43,7 +43,7 @@ If a file with the name specified by the FileName parameter doesn't exist, Micro
 
 The  **Dictionaries** collection includes only the active custom spelling dictionaries. **Dictionary** objects that are derived from the **Languages** collection don't have an **Add** method. These include the **Dictionary** objects returned by the **ActiveSpellingDictionary**, **ActiveGrammarDictionary**, **ActiveThesaurusDictionary**, and **ActiveHyphenationDictionary** properties.
 
-Use the  **HangulHanjaDictionaries** property to return the collection of custom conversion dictionaries. The **HangulHanjaConversionDictionaries** collection includes only the active custom conversion dictionaries.
+Use the **HangulHanjaDictionaries** property to return the collection of custom conversion dictionaries. The **HangulHanjaConversionDictionaries** collection includes only the active custom conversion dictionaries.
 
 
 ## Example

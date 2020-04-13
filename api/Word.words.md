@@ -12,12 +12,12 @@ localization_priority: Normal
 
 # Words object (Word)
 
-A collection of words in a selection, range, or document. Each item in the  **Words** collection is a **Range** object that represents one word. There is no Word object.
+A collection of words in a selection, range, or document. Each item in the **Words** collection is a **Range** object that represents one word. There is no Word object.
 
 
 ## Remarks
 
-Use the  **Words** property to return the **Words** object. The following code example displays how many words are currently selected.
+Use the **Words** property to return the **Words** object. The following code example displays how many words are currently selected.
 
 
 ```vb
@@ -36,7 +36,7 @@ With Selection.Words(1)
 End With
 ```
 
-The item in the  **Words** collection includes both the word and the spaces after the word. To remove the trailing spaces, use the Visual Basic **RTrim** function — for example, _RTrim(ActiveDocument.Words(1))_. The following code example selects the first word (and its trailing spaces) in the active document.
+The item in the **Words** collection includes both the word and the spaces after the word. To remove the trailing spaces, use the Visual Basic **RTrim** function — for example, _RTrim(ActiveDocument.Words(1))_. The following code example selects the first word (and its trailing spaces) in the active document.
 
 
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shading.ForegroundPatternColorIndex property (Word)
 
-Returns or sets the color that's applied to the foreground of the  **Shading** object. This color is applied to the dots and lines in the shading pattern. Read/write **WdColorIndex**.
+Returns or sets the color that's applied to the foreground of the **Shading** object. This color is applied to the dots and lines in the shading pattern. Read/write **WdColorIndex**.
 
 
 ## Syntax

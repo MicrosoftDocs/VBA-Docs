@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.DisplayUnitCustom property (Word)
 
-If the value of the  **[DisplayUnit](Word.Axis.DisplayUnit.md)** property is **xlCustom**, returns or sets the value of the displayed units. Read/write **Double**.
+If the value of the **[DisplayUnit](Word.Axis.DisplayUnit.md)** property is **xlCustom**, returns or sets the value of the displayed units. Read/write **Double**.
 
 
 ## Syntax

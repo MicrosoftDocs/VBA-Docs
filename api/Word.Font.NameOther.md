@@ -26,7 +26,7 @@ _expression_. `NameOther`
 
 ## Remarks
 
-In the U.S. English version of Microsoft Word, the default value of this property is Times New Roman. Use the  **[Name](Word.Font.Name.md)** property to change the font that's applied to all text and that appears in the **Font** box on the **Formatting** toolbar.
+In the U.S. English version of Microsoft Word, the default value of this property is Times New Roman. Use the **[Name](Word.Font.Name.md)** property to change the font that's applied to all text and that appears in the **Font** box on the **Formatting** toolbar.
 
 
 ## Example

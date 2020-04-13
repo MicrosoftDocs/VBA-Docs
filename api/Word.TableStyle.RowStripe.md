@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[TableStyle](Word.TableStyle.md)' obj
 
 ## Remarks
 
-Use the  **[Condition](Word.TableStyle.Condition.md)** method to set odd- or even-column banding for a table style.
+Use the **[Condition](Word.TableStyle.Condition.md)** method to set odd- or even-column banding for a table style.
 
 
 ## Example

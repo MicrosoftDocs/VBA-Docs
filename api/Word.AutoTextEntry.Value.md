@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents an '[AutoTextEntry](Word.AutoT
 
 ## Remarks
 
-Setting the  **Value** property only returns the first 255 characters of the object's value.
+Setting the **Value** property only returns the first 255 characters of the object's value.
 
 
 ## See also

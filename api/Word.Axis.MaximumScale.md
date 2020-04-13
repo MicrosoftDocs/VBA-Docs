@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 ## Remarks
 
-Setting this property sets the  **[MaximumScaleIsAuto](Word.Axis.MaximumScaleIsAuto.md)** property to **False**.
+Setting this property sets the **[MaximumScaleIsAuto](Word.Axis.MaximumScaleIsAuto.md)** property to **False**.
 
 
 ## Example

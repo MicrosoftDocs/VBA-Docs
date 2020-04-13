@@ -33,7 +33,7 @@ This example sets the color of changed lines to pink.
 Options.RevisedLinesColor = wdPink
 ```
 
-This example returns the current status of the  **Color** option under **Changed lines** on the **Track Changes** tab in the **Options** dialog box (**Tools** menu).
+This example returns the current status of the **Color** option under **Changed lines** on the **Track Changes** tab in the **Options** dialog box (**Tools** menu).
 
 
 

@@ -26,7 +26,7 @@ _expression_. `ShowStylePreviews`
 
 ## Remarks
 
-This property corresponds to the  **Show Preview** check box in the **Styles** dialog box.
+This property corresponds to the **Show Preview** check box in the **Styles** dialog box.
 
 
 ## See also

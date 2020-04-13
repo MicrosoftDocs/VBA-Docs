@@ -26,7 +26,7 @@ _expression_. `RelativeVerticalSize`
 
 ## Remarks
 
-Use this property with the  **[HeightRelative](Word.Shape.HeightRelative.md)** property.
+Use this property with the **[HeightRelative](Word.Shape.HeightRelative.md)** property.
 
 
 ## See also

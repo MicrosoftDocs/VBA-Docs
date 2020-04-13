@@ -26,7 +26,7 @@ _expression_. `Locks`
 
 ## Remarks
 
-Use the  **Locks** property to return the **[CoAuthLocks](Word.CoAuthLocks.md)** collection.
+Use the **Locks** property to return the **[CoAuthLocks](Word.CoAuthLocks.md)** collection.
 
 
 > [!NOTE] 

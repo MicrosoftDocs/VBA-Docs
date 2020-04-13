@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WdRelativeHorizontalSize enumeration (Word)
 
-Specifies the relative width of a shape using the value specified in the  **WidthRelative** property for a **[Shape](Word.Shape.md)** or **[ShapeRange](Word.shaperange.md)** object.
+Specifies the relative width of a shape using the value specified in the **WidthRelative** property for a **[Shape](Word.Shape.md)** or **[ShapeRange](Word.shaperange.md)** object.
 
 
 

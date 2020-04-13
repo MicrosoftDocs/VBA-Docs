@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[TaskPane](Word.TaskPane.md
 
 ## Remarks
 
-For any object, some methods and properties may be unavailable if the  **Visible** property is **False**.
+For any object, some methods and properties may be unavailable if the **Visible** property is **False**.
 
 
 ## See also

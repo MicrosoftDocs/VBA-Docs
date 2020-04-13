@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[DataLabels](Word.DataLabels.md)** o
 
 ## Remarks
 
-The format code is the same string as the  **Format Codes** option in the **Format Cells** dialog box. The **Format** function uses different format code strings than do the **NumberFormat** and **[NumberFormatLocal](Word.DataLabels.NumberFormatLocal.md)** properties.
+The format code is the same string as the **Format Codes** option in the **Format Cells** dialog box. The **Format** function uses different format code strings than do the **NumberFormat** and **[NumberFormatLocal](Word.DataLabels.NumberFormatLocal.md)** properties.
 
 
 ## See also

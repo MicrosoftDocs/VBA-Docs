@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Document](Word.Document.md)** objec
 
 ## Remarks
 
-To view grammatical errors in your document, you must set the  **[CheckGrammarAsYouType](Word.Options.CheckGrammarAsYouType.md)** property to **True**.
+To view grammatical errors in your document, you must set the **[CheckGrammarAsYouType](Word.Options.CheckGrammarAsYouType.md)** property to **True**.
 
 
 ## Example

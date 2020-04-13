@@ -26,7 +26,7 @@ _expression_. `BuildingBlockCategory`
 
 ## Remarks
 
-This property applies only to building block content controls and corresponds with the  **Category** option in the **Content Control Properties** dialog box. You can set this property to any string; however, if you set it to a string for which there is no corresponding category, the value of the **Category** option is set to "(All Categories)".
+This property applies only to building block content controls and corresponds with the **Category** option in the **Content Control Properties** dialog box. You can set this property to any string; however, if you set it to a string for which there is no corresponding category, the value of the **Category** option is set to "(All Categories)".
 
 
 ## Example

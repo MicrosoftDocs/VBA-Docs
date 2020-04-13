@@ -30,7 +30,7 @@ The default value is **False**. This property corresponds to the **Remove conten
 
 
 > [!NOTE] 
-> You cannot set this property if the  **[LockContentControl](Word.ContentControl.LockContentControl.md)** property is set to **True**.
+> You cannot set this property if the **[LockContentControl](Word.ContentControl.LockContentControl.md)** property is set to **True**.
 
 
 ## See also

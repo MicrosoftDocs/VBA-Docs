@@ -33,7 +33,7 @@ This example sets Word to automatically format any plain-text email messages tha
 Options.AutoFormatPlainTextWordMail = True
 ```
 
-This example returns the status of the  **Plain text WordMail documents** option on the **AutoFormat** tab in the **AutoCorrect** dialog box (**Tools** menu).
+This example returns the status of the **Plain text WordMail documents** option on the **AutoFormat** tab in the **AutoCorrect** dialog box (**Tools** menu).
 
 
 

@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[ShapeNode](Word.ShapeNode
 
 ## Remarks
 
-If the node is a control point for a curved segment, this property returns the editing type of the adjacent vertex. This property is read-only. Use the  **SetEditingType** method to set the value of this property.
+If the node is a control point for a curved segment, this property returns the editing type of the adjacent vertex. This property is read-only. Use the **SetEditingType** method to set the value of this property.
 
 
 ## Example

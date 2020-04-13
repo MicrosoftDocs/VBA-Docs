@@ -30,7 +30,7 @@ Use  **Windows** (Index), where Index is the window name or the index number, to
 Windows("Document1").WindowState = wdWindowStateMaximize
 ```
 
-The index number is the number to the left of the window name on the  **Window** menu. The following example displays the caption of the first window in the **Windows** collection.
+The index number is the number to the left of the window name on the **Window** menu. The following example displays the caption of the first window in the **Windows** collection.
 
 
 
@@ -39,7 +39,7 @@ The index number is the number to the left of the window name on the  **Window**
 MsgBox Windows(1).Caption
 ```
 
-Use the  **Add** method or the **NewWindow** method to add a new window to the **Windows** collection. Each of the following statements creates a new window for the document in the active window.
+Use the **Add** method or the **NewWindow** method to add a new window to the **Windows** collection. Each of the following statements creates a new window for the document in the active window.
 
 
 
@@ -52,7 +52,7 @@ Windows.Add
 
 A colon (:) and a number appear in the window caption when more than one window is open for a document.
 
-When you switch the view to print preview, a new window is created. This window is removed from the  **Windows** collection when you close print preview.
+When you switch the view to print preview, a new window is created. This window is removed from the **Windows** collection when you close print preview.
 
 
 ## Methods

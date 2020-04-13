@@ -26,11 +26,11 @@ Use  **KeyBindings** (Index), where Index is the index number, to return a singl
 MsgBox KeyBindings(1).Command
 ```
 
-You can also use the  **FindKey** property and the **Key** method to return a **KeyBinding** object.
+You can also use the **FindKey** property and the **Key** method to return a **KeyBinding** object.
 
 
 > [!NOTE] 
-> Custom key assignments are made in the  **Customize Keyboard** dialog box.
+> Custom key assignments are made in the **Customize Keyboard** dialog box.
 
 
 ## See also

@@ -31,7 +31,7 @@ ActiveDocument.TablesOfAuthoritiesCategories("Rules").Name = _
  "Other Provisions"
 ```
 
-The index number represents the position of the category in the  **Index and Tables** dialog box (**Insert** menu). The following example displays the name of the first category in the **TablesOfAuthoritiesCategories** collection.
+The index number represents the position of the category in the **Index and Tables** dialog box (**Insert** menu). The following example displays the name of the first category in the **TablesOfAuthoritiesCategories** collection.
 
 
 

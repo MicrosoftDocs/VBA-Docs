@@ -29,7 +29,7 @@ With ActiveDocument.TablesOfAuthorities(1)
 End With
 ```
 
-Use the  **Add** method to add a table of authorities to a document. The following example adds a table of authorities that includes all categories at the beginning of the active document.
+Use the **Add** method to add a table of authorities to a document. The following example adds a table of authorities that includes all categories at the beginning of the active document.
 
 
 
@@ -42,7 +42,7 @@ ActiveDocument.TablesOfAuthorities.Add Range:=myRange, _
 
 
 > [!NOTE] 
-> A table of authorities is built from TA (Table of Authorities Entry) fields in a document. Use the  **MarkCitation** method to mark citations to be included in a table of authorities.
+> A table of authorities is built from TA (Table of Authorities Entry) fields in a document. Use the **MarkCitation** method to mark citations to be included in a table of authorities.
 
 
 ## See also

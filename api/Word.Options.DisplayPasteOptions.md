@@ -26,7 +26,7 @@ _expression_. `DisplayPasteOptions`
 
 ## Example
 
-This example enables the  **Paste Options** button if the option has been disabled.
+This example enables the **Paste Options** button if the option has been disabled.
 
 
 ```vb

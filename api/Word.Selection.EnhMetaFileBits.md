@@ -31,7 +31,7 @@ The  **EnhMetaFileBits** property returns an array of bytes, which can be used w
 
 ## Example
 
-The following example returns the  **EnhMetaFileBits** property.
+The following example returns the **EnhMetaFileBits** property.
 
 
 ```vb

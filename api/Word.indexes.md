@@ -14,14 +14,14 @@ A collection of  **[Index](Word.Index.md)** objects that represents all the inde
 
 ## Remarks
 
-Use the  **Indexes** property to return the **Indexes** collection. The following example formats indexes in the active document with the classic format.
+Use the **Indexes** property to return the **Indexes** collection. The following example formats indexes in the active document with the classic format.
 
 
 ```vb
 ActiveDocument.Indexes.Format = wdIndexClassic
 ```
 
-Use the  **Add** method to create an index and add it to the **Indexes** collection. The following example creates an index at the end of the active document.
+Use the **Add** method to create an index and add it to the **Indexes** collection. The following example creates an index at the end of the active document.
 
 
 

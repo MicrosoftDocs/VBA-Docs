@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 ## Remarks
 
-Setting the  **TwoLinesInOne** property to **wdTwoLinesInOneNoBrackets** sets two lines of text in one without enclosing the text in any characters. Setting the **TwoLinesInOne** property to **wdTwoLinesInOneNone** restores a line of combined text to two separate lines.
+Setting the **TwoLinesInOne** property to **wdTwoLinesInOneNoBrackets** sets two lines of text in one without enclosing the text in any characters. Setting the **TwoLinesInOne** property to **wdTwoLinesInOneNone** restores a line of combined text to two separate lines.
 
 
 ## Example

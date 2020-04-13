@@ -31,7 +31,7 @@ For information about returning a single member of a collection, see [Returning 
 
 ## Example
 
-This example steps through the  **StoryRanges** collection to determine whether **wdPrimaryFooterStory** is part of the **StoryRanges** collection.
+This example steps through the **StoryRanges** collection to determine whether **wdPrimaryFooterStory** is part of the **StoryRanges** collection.
 
 
 ```vb

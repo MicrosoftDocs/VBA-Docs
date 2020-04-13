@@ -28,7 +28,7 @@ _expression_ Required. A variable that represents a '[View](Word.View.md)' objec
 
 The  **Type** property returns **wdMasterView** for all documents where the current view is an outline or a master document. The current view will never return **wdOutlineView** unless explicitly set first in code.
 
-To check whether the current document is an outline, use the  **Type** property and the **Subdocuments** collection's **Count** property. If the **Type** property returns either **wdOutlineView** or **wdMasterView** and the **Count** property returns zero, the document is an outline. For example:
+To check whether the current document is an outline, use the **Type** property and the **Subdocuments** collection's **Count** property. If the **Type** property returns either **wdOutlineView** or **wdMasterView** and the **Count** property returns zero, the document is an outline. For example:
 
 
 

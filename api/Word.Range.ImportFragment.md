@@ -40,7 +40,7 @@ Nothing
 
 ## Remarks
 
-This method replaces the contents of a range. To stop this from occurring, use the  **[Collapse](Word.Range.Collapse.md)** method before using this method.
+This method replaces the contents of a range. To stop this from occurring, use the **[Collapse](Word.Range.Collapse.md)** method before using this method.
 
 
 ## See also

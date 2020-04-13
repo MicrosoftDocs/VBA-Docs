@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailMessage.DisplayMoveDialog method (Word)
 
-Displays the  **Move** dialog box, in which the user can specify a new location for the active email message in an available message store.
+Displays the **Move** dialog box, in which the user can specify a new location for the active email message in an available message store.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ This method is available only if you are using Word as your email editor.
 
 ## Example
 
-This example displays the  **Move** dialog box for the active email message.
+This example displays the **Move** dialog box for the active email message.
 
 
 ```vb

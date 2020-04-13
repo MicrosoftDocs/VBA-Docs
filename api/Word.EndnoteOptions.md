@@ -16,9 +16,9 @@ Represents the properties assigned to a range or selection of endnotes in a docu
 
 ## Remarks
 
-Use the  **EndnoteOptions** property of the **[Range](Word.Range.md)** or **[Selection](Word.Selection.md)** object to return an **EndnoteOptions** object.
+Use the **EndnoteOptions** property of the **[Range](Word.Range.md)** or **[Selection](Word.Selection.md)** object to return an **EndnoteOptions** object.
 
-Using the  **EndnoteOptions** object, you can assign different endnote properties to different areas of a document. For example, you may want endnotes in the introduction of a long document to be displayed as lowercase Roman numerals, while in the rest of your document they are displayed as Arabic numerals. The following example uses the **[NumberingRule](Word.EndnoteOptions.NumberingRule.md)**, **[NumberStyle](Word.EndnoteOptions.NumberStyle.md)**, and **[StartingNumber](Word.EndnoteOptions.StartingNumber.md)** properties to format the endnotes in the first section ofthe active document.
+Using the **EndnoteOptions** object, you can assign different endnote properties to different areas of a document. For example, you may want endnotes in the introduction of a long document to be displayed as lowercase Roman numerals, while in the rest of your document they are displayed as Arabic numerals. The following example uses the **[NumberingRule](Word.EndnoteOptions.NumberingRule.md)**, **[NumberStyle](Word.EndnoteOptions.NumberStyle.md)**, and **[StartingNumber](Word.EndnoteOptions.StartingNumber.md)** properties to format the endnotes in the first section ofthe active document.
 
 
 

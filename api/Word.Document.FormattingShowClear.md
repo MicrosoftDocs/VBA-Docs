@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Document](Word.Document.md)** objec
 
 ## Example
 
-This example disables display of the  **Clear Formatting** button in the list of styles.
+This example disables display of the **Clear Formatting** button in the list of styles.
 
 
 ```vb

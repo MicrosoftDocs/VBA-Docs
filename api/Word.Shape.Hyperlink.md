@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
 
 ## Remarks
 
-If there is no hyperlink associated with the specified shape, an error occurs. In this case, use the  **[Add](Word.Hyperlinks.Add.md)** method for the **[Hyperlinks](Word.hyperlinks.md)** collection to add a hyperlink to the specified shape. The following example shows how to do this.
+If there is no hyperlink associated with the specified shape, an error occurs. In this case, use the **[Add](Word.Hyperlinks.Add.md)** method for the **[Hyperlinks](Word.hyperlinks.md)** collection to add a hyperlink to the specified shape. The following example shows how to do this.
 
 
 ```vb

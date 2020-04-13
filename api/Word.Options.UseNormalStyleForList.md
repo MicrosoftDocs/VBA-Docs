@@ -26,7 +26,7 @@ _expression_. `UseNormalStyleForList`
 
 ## Remarks
 
-Corresponds to the  **Use Normal style for bulleted and numbered lists** check box in the **Advanced** tab of the **Word Options** dialog box.
+Corresponds to the **Use Normal style for bulleted and numbered lists** check box in the **Advanced** tab of the **Word Options** dialog box.
 
 
 ## See also

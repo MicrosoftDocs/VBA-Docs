@@ -26,7 +26,7 @@ _expression_. `PasteOptionKeepBulletsAndNumbers`
 
 ## Remarks
 
-This property corresponds to the  **Keep bullets and numbers when pasting text with the Keep Text Only option** check box in the **Advanced** tab of the **Word Options** dialog box.
+This property corresponds to the **Keep bullets and numbers when pasting text with the Keep Text Only option** check box in the **Advanced** tab of the **Word Options** dialog box.
 
 
 ## See also

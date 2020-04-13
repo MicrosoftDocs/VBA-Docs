@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[MailMerge](Word.MailMerge.md)' objec
 
 ## Remarks
 
-When a user clicks the custom button, the  **[MailMergeWizardSendToCustom](Word.Application.MailMergeWizardSendToCustom.md)** event executes.
+When a user clicks the custom button, the **[MailMergeWizardSendToCustom](Word.Application.MailMergeWizardSendToCustom.md)** event executes.
 
 
 ## Example

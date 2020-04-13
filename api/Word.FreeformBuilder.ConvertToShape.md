@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents a '[FreeformBuilder](Word.Free
 
 ## Remarks
 
-You must apply the  **[AddNodes](Word.FreeformBuilder.AddNodes.md)** method to a **FreeformBuilder** object at least once before you use the **ConvertToShape** method.
+You must apply the **[AddNodes](Word.FreeformBuilder.AddNodes.md)** method to a **FreeformBuilder** object at least once before you use the **ConvertToShape** method.
 
 
 ## See also

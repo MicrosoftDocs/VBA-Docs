@@ -28,7 +28,7 @@ _expression_ A variable that represents a '[OLEFormat](Word.OLEFormat.md)' objec
 
 This property is read-only for linked objects other than DDE links.
 
-You can see a list of the available applications in the  **Object** type box on the **Create New** tab in the **Object** dialog box (**Insert** menu). You can find the **ClassType** string by inserting an object as an inline shape and then viewing the field codes. The class type of the object follows either the word "EMBED" or the word "LINK."
+You can see a list of the available applications in the **Object** type box on the **Create New** tab in the **Object** dialog box (**Insert** menu). You can find the **ClassType** string by inserting an object as an inline shape and then viewing the field codes. The class type of the object follows either the word "EMBED" or the word "LINK."
 
 
 ## Example

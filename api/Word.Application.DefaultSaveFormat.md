@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.DefaultSaveFormat property (Word)
 
-Returns or sets the default format that will appear in the  **Save as type** box in the **Save As** dialog box. Read/write **String**.
+Returns or sets the default format that will appear in the **Save as type** box in the **Save As** dialog box. Read/write **String**.
 
 
 ## Syntax
@@ -41,7 +41,7 @@ The string used with this property is the file converter class name. The class n
 |Rich Text Format|"Rtf"|
 |Unicode Text|"Unicode"|
 
-Use the  **[ClassName](Word.FileConverter.ClassName.md)** property of the **[FileConverter](Word.FileConverter.md)** object to determine the class name of an external file converter.
+Use the **[ClassName](Word.FileConverter.ClassName.md)** property of the **[FileConverter](Word.FileConverter.md)** object to determine the class name of an external file converter.
 
 
 ## Example

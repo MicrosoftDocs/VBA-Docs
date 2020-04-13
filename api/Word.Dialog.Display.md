@@ -52,7 +52,7 @@ The  **Display** method returns the following possible values.
 
 ## Example
 
-This example displays the  **About** dialog box for approximately ten seconds.
+This example displays the **About** dialog box for approximately ten seconds.
 
 
 ```vb
@@ -62,7 +62,7 @@ Set dlgAbout = Dialogs(wdDialogHelpAbout)
 dlgAbout.Display TimeOut:=10000
 ```
 
-This example displays the  **Customize** dialog box.
+This example displays the **Customize** dialog box.
 
 
 

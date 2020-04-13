@@ -14,7 +14,7 @@ A collection of  **[Range](Word.Range.md)** objects that represent all the sente
 
 ## Remarks
 
-Use the  **Sentences** property to return the **Sentences** collection. The following example displays the number of sentences selected.
+Use the **Sentences** property to return the **Sentences** collection. The following example displays the number of sentences selected.
 
 
 ```vb

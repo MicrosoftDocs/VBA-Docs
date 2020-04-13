@@ -30,7 +30,7 @@ The  **Enable** property returns **True** or **wdUndefined** if border formattin
 
 The  **Enable** property applies to all borders for the specified object. **True** sets the line style to the default line style and sets the line width to the default line width. The default line style and line width can be set using the **DefaultBorderLineWidth** and **DefaultBorderLineStyle** properties.
 
-To remove all the borders from an object, set the  **Enable** property to **False**, as shown in the following example.
+To remove all the borders from an object, set the **Enable** property to **False**, as shown in the following example.
 
 
 

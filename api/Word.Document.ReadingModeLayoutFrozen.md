@@ -26,7 +26,7 @@ _expression_. `ReadingModeLayoutFrozen`
 
 ## Remarks
 
-Use the  **[ReadingLayoutSizeX](Word.Document.ReadingLayoutSizeX.md)** and **[ReadingLayoutSizeY](Word.Document.ReadingLayoutSizeY.md)** properties to specify the size of the pages displayed when the reading layout size is frozen for inserting handwritten markup into a document.
+Use the **[ReadingLayoutSizeX](Word.Document.ReadingLayoutSizeX.md)** and **[ReadingLayoutSizeY](Word.Document.ReadingLayoutSizeY.md)** properties to specify the size of the pages displayed when the reading layout size is frozen for inserting handwritten markup into a document.
 
 
 ## Example

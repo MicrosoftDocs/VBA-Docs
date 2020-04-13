@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[FillFormat](word.fillformat.md)** o
 
 A value of 0 (zero) means that black is mixed in with the shape's foreground color to form the gradient; a value of 1 means that white is mixed in; and values between 0 and 1 mean that a darker or lighter shade of the foreground color is mixed in. 
 
-Use the  **[OneColorGradient](Word.FillFormat.OneColorGradient.md)** method to set the gradient degree for the fill.
+Use the **[OneColorGradient](Word.FillFormat.OneColorGradient.md)** method to set the gradient degree for the fill.
 
 
 ## Example

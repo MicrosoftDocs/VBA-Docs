@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WdShowFilter enumeration (Word)
 
-Specifies the styles and formatting to display in the  **Styles and Formatting** task pane.
+Specifies the styles and formatting to display in the **Styles and Formatting** task pane.
 
 
 

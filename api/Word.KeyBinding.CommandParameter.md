@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[KeyBinding](Word.KeyBinding.md)' obj
 
 ## Remarks
 
-For information about commands that take parameters, see the  **[Add](Word.KeyBindings.Add.md)** method. Use the **Command** property to return the command name assigned to the specified shortcut key.
+For information about commands that take parameters, see the **[Add](Word.KeyBindings.Add.md)** method. Use the **Command** property to return the command name assigned to the specified shortcut key.
 
 
 ## Example

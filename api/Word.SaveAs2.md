@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.SaveAs2 method (Word)
 
-Saves the specified document with a new name or format. Some of the arguments for this method correspond to the options in the  **Save As** dialog box (**File** tab).
+Saves the specified document with a new name or format. Some of the arguments for this method correspond to the options in the **Save As** dialog box (**File** tab).
 
 
 ## Syntax

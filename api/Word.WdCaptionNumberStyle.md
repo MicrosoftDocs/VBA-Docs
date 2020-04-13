@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # WdCaptionNumberStyle enumeration (Word)
 
-Specifies the number style to be used with the  **CaptionLabel** object.
+Specifies the number style to be used with the **CaptionLabel** object.
 
 
 

@@ -31,7 +31,7 @@ The  **ShowStartupDialog** property is a global option, and the new setting will
 
 ## Example
 
-This example turns off the  **Task Pane**, so it won't display upon starting Word. This will not take effect until the next time the user starts Word.
+This example turns off the **Task Pane**, so it won't display upon starting Word. This will not take effect until the next time the user starts Word.
 
 
 ```vb

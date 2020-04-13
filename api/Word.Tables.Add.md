@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents a '[Tables](Word.tables.md)' c
 | _NumRows_|Required| **Long**|The number of rows you want to include in the table.|
 | _NumColumns_|Required| **Long**|The number of columns you want to include in the table.|
 | _DefaultTableBehavior_|Optional| **Variant**|Sets a value that specifies whether Microsoft Word automatically resizes cells in tables to fit the cells' contents (AutoFit). Can be either of the following constants:  **wdWord8TableBehavior** (AutoFit disabled) or **wdWord9TableBehavior** (AutoFit enabled). The default constant is **wdWord8TableBehavior**.|
-| _AutoFitBehavior_|Optional| **Variant**|Sets the AutoFit rules for how Word sizes tables. Can be one of the  **WdAutoFitBehavior** constants.|
+| _AutoFitBehavior_|Optional| **Variant**|Sets the AutoFit rules for how Word sizes tables. Can be one of the **WdAutoFitBehavior** constants.|
 
 ## Return value
 

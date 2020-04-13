@@ -28,11 +28,11 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 The path doesn't include a trailing character — for example, "C:\MSOffice" or "https://MyServer" — unless requesting a path of a document stored at a network drive root (e.g. for N:\file.docx "N:\\" is returned provided _N_ is a network drive, compared to "C:" for C:\file.docx where _C_ is a local drive). 
 
-Use the  **PathSeparator** property to add the character that separates folders and drive letters. Use the **Name** property to return the file name without the path and use the **FullName** property to return the file name and the path together.
+Use the **PathSeparator** property to add the character that separates folders and drive letters. Use the **Name** property to return the file name without the path and use the **FullName** property to return the file name and the path together.
 
 
 > [!NOTE] 
-> You can use the  **PathSeparator** property to build web addresses even though they contain forward slashes (/) and the **PathSeparator** property defaults to a backslash (\).
+> You can use the **PathSeparator** property to build web addresses even though they contain forward slashes (/) and the **PathSeparator** property defaults to a backslash (\).
 
 
 ## Example

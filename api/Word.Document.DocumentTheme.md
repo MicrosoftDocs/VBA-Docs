@@ -26,7 +26,7 @@ _expression_. `OfficeTheme`
 
 ## Remarks
 
-Use the  **[ApplyDocumentTheme](Word.ApplyDocumentTheme.md)** method to apply an Office theme.
+Use the **[ApplyDocumentTheme](Word.ApplyDocumentTheme.md)** method to apply an Office theme.
 
 
 ## See also

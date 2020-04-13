@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[ShapeRange](Word.shaperan
 
 ## Remarks
 
-Some methods and properties may be unavailable if the  **Visible** property is **False**.
+Some methods and properties may be unavailable if the **Visible** property is **False**.
 
 
 ## See also

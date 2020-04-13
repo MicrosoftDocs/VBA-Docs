@@ -31,7 +31,7 @@ _expression_ Required. A variable that represents a **[FillFormat](word.fillform
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Style_|Required| **MsoGradientStyle**|The gradient style. Can be any  **MsoGradientStyle** constant except **msoGradientFromTitle** which applies only to Microsoft PowerPoint.|
-| _Variant_|Required| **Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the  **Gradient** tab in the **Fill Effects** dialog box. If Style is **msoGradientFromCenter**, this argument can be either 1 or 2.|
+| _Variant_|Required| **Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the **Gradient** tab in the **Fill Effects** dialog box. If Style is **msoGradientFromCenter**, this argument can be either 1 or 2.|
 | _Degree_|Required| **Single**|The gradient degree. Can be a value from 0.0 (dark) to 1.0 (light).|
 
 ## Example

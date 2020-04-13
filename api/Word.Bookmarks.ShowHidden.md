@@ -31,7 +31,7 @@ The  **ShowHidden** property also controls whether hidden bookmarks are listed i
 
 ## Example
 
-This example displays the  **Bookmark** dialog box with both visible and hidden bookmarks listed.
+This example displays the **Bookmark** dialog box with both visible and hidden bookmarks listed.
 
 
 ```vb

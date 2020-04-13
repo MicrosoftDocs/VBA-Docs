@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Document](Word.Document.md)** objec
 
 ## Remarks
 
-If there are no windows open, using the  **ActiveWindow** property generates an error occurs.
+If there are no windows open, using the **ActiveWindow** property generates an error occurs.
 
 
 ## Example

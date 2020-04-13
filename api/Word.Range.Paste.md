@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 ## Remarks
 
-If you don't want to replace the contents of the range, use the  **Collapse** method before using this method.
+If you don't want to replace the contents of the range, use the **Collapse** method before using this method.
 
 When you use this method with a  **Range** object, the range expands to include the contents of the Clipboard.
 

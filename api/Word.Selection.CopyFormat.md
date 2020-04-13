@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 ## Remarks
 
-If a paragraph mark is selected, Word copies paragraph formatting in addition to character formatting. You can apply the copied formatting to another selection by using the  **[PasteFormat](Word.Selection.PasteFormat.md)** method.
+If a paragraph mark is selected, Word copies paragraph formatting in addition to character formatting. You can apply the copied formatting to another selection by using the **[PasteFormat](Word.Selection.PasteFormat.md)** method.
 
 
 ## Example

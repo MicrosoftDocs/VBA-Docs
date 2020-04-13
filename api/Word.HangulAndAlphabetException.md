@@ -26,7 +26,7 @@ Use  **HangulAndAlphabetExceptions** (Index), where Index is the Hangul or alpha
 AutoCorrect.HangulAndAlphabetExceptions("hello").Delete
 ```
 
-The index number represents the position of the Hangul or alphabet AutoCorrect exception in the  **[HangulAndAlphabetExceptions](Word.hangulandalphabetexceptions.md)** collection. The following example displays the name of the first item in the **[HangulAndAlphabetExceptions](Word.hangulandalphabetexceptions.md)** collection.
+The index number represents the position of the Hangul or alphabet AutoCorrect exception in the **[HangulAndAlphabetExceptions](Word.hangulandalphabetexceptions.md)** collection. The following example displays the name of the first item in the **[HangulAndAlphabetExceptions](Word.hangulandalphabetexceptions.md)** collection.
 
 
 
@@ -35,7 +35,7 @@ The index number represents the position of the Hangul or alphabet AutoCorrect e
 MsgBox AutoCorrect.HangulAndAlphabetExceptions(1).Name
 ```
 
-If the value of the  **HangulAndAlphabetAutoAdd** property is **True**, words are automatically added to the list of Hangul and alphabet AutoCorrect exceptions. Use the **Add** method to add an item to the **[HangulAndAlphabetExceptions](Word.hangulandalphabetexceptions.md)** collection. The following example adds "goodbye" to the list of alphabet AutoCorrect exceptions.
+If the value of the **HangulAndAlphabetAutoAdd** property is **True**, words are automatically added to the list of Hangul and alphabet AutoCorrect exceptions. Use the **Add** method to add an item to the **[HangulAndAlphabetExceptions](Word.hangulandalphabetexceptions.md)** collection. The following example adds "goodbye" to the list of alphabet AutoCorrect exceptions.
 
 
 

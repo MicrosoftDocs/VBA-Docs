@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContentControlListEntries.Count property (Word)
 
-Returns the number of items in the  **ContentControlListEntries** collection. Read-only **Long**.
+Returns the number of items in the **ContentControlListEntries** collection. Read-only **Long**.
 
 
 ## Syntax

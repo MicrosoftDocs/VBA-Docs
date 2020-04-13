@@ -26,7 +26,7 @@ Use  **Comments** (Index), where Index is the index number, to return a single *
 MsgBox ActiveDocument.Comments(1).Author
 ```
 
-Use the  **[Add](Word.Comments.Add.md)** method to add a comment at the specified range. The following example adds a comment immediately after the selection.
+Use the **[Add](Word.Comments.Add.md)** method to add a comment at the specified range. The following example adds a comment immediately after the selection.
 
 
 
@@ -37,7 +37,7 @@ ActiveDocument.Comments.Add Range:=Selection.Range, _
  Text:="review this"
 ```
 
-Use the  **[Reference](Word.Comment.Reference.md)** property to return the reference mark associated with the specified comment. Use the **[Range](Word.Comment.Range.md)** property to return the text associated with the specified comment. The following example displays the text associated with the first comment in the active document.
+Use the **[Reference](Word.Comment.Reference.md)** property to return the reference mark associated with the specified comment. Use the **[Range](Word.Comment.Range.md)** property to return the text associated with the specified comment. The following example displays the text associated with the first comment in the active document.
 
 
 

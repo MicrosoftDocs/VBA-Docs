@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[ConditionalStyle](Word.ConditionalSt
 
 ## Remarks
 
-To set the  **Font** property, specify an expression that returns a **[Font](Word.Font.md)** object.
+To set the **Font** property, specify an expression that returns a **[Font](Word.Font.md)** object.
 
 
 ## See also

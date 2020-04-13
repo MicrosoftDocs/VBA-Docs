@@ -26,7 +26,7 @@ _expression_.**GradientColorType**
 
 ## Remarks
 
-This property is read-only. Use the  **[OneColorGradient](Word.FillFormat.OneColorGradient.md)**, **[PresetGradient](Word.FillFormat.PresetGradient.md)**, or **[TwoColorGradient](Word.FillFormat.TwoColorGradient.md)** method to set the gradient type for the fill.
+This property is read-only. Use the **[OneColorGradient](Word.FillFormat.OneColorGradient.md)**, **[PresetGradient](Word.FillFormat.PresetGradient.md)**, or **[TwoColorGradient](Word.FillFormat.TwoColorGradient.md)** method to set the gradient type for the fill.
 
 
 ## Example

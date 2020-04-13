@@ -17,7 +17,7 @@ A collection of  **Style** objects that represent both the built-in and user-def
 
 ## Remarks
 
-Use the  **Styles** property to return the **Styles** collection. The following example deletes all user-defined styles in the active document.
+Use the **Styles** property to return the **Styles** collection. The following example deletes all user-defined styles in the active document.
 
 
 ```vb
@@ -26,7 +26,7 @@ For Each sty In ActiveDocument.Styles
 Next sty
 ```
 
-Use the  **Add** method to create a new user-defined style and add it to the **Styles** collection. The following example adds a new character style named "Introduction" and makes it 12-point Arial, with bold and italic formatting. The example then applies this new character style to the selection.
+Use the **Add** method to create a new user-defined style and add it to the **Styles** collection. The following example adds a new character style named "Introduction" and makes it 12-point Arial, with bold and italic formatting. The example then applies this new character style to the selection.
 
 
 
@@ -85,7 +85,7 @@ With aDoc
 End With
 ```
 
-Use the  **OrganizerCopy** method to copy styles between documents and templates. Use the **UpdateStyles** method to update the styles in the active document to match the style definitions in the attached template.
+Use the **OrganizerCopy** method to copy styles between documents and templates. Use the **UpdateStyles** method to update the styles in the active document to match the style definitions in the attached template.
 
 
 ## Methods

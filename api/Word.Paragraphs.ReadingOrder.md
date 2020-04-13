@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraph
 
 ## Remarks
 
-Use the  **[LtrPara](Word.Selection.LtrPara.md)**, **[LtrRun](Word.Selection.LtrRun.md)**, **[RtlPara](Word.Selection.RtlPara.md)**, and **[RtlRun](Word.Selection.RtlRun.md)** methods of the **[Selection](Word.Selection.md)** object to change the paragraph alignment along with the reading order.
+Use the **[LtrPara](Word.Selection.LtrPara.md)**, **[LtrRun](Word.Selection.LtrRun.md)**, **[RtlPara](Word.Selection.RtlPara.md)**, and **[RtlRun](Word.Selection.RtlRun.md)** methods of the **[Selection](Word.Selection.md)** object to change the paragraph alignment along with the reading order.
 
 
 ## Example

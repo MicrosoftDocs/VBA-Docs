@@ -14,7 +14,7 @@ A collection of  **Language** objects that represent languages used for proofing
 
 ## Remarks
 
-Use the  **Languages** property to return the **Languages** collection. The following example displays the localized name for each language.
+Use the **Languages** property to return the **Languages** collection. The following example displays the localized name for each language.
 
 
 ```vb

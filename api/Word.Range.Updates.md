@@ -26,7 +26,7 @@ _expression_. `Updates`
 
 ## Remarks
 
-Use the  **Updates** property to return the [CoAuthUpdates](overview/Word.md) collection.
+Use the **Updates** property to return the [CoAuthUpdates](overview/Word.md) collection.
 
 
 > [!NOTE] 

@@ -19,7 +19,7 @@ Represents the page setup description. The  **PageSetup** object contains all th
 
 ## Remarks
 
-Use the  **PageSetup** property to return the **PageSetup** object. The following example sets the first section in the active document to landscape orientation and then prints the document.
+Use the **PageSetup** property to return the **PageSetup** object. The following example sets the first section in the active document to landscape orientation and then prints the document.
 
 
 ```vb

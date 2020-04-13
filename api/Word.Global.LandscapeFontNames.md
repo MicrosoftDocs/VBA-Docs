@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Global](Word.Global.md)' o
 
 ## Example
 
-This example creates a sorted list in a new document of the landscape font names in the  **FontNames** object.
+This example creates a sorted list in a new document of the landscape font names in the **FontNames** object.
 
 
 ```vb

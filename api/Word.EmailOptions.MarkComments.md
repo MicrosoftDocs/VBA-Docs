@@ -26,7 +26,7 @@ _expression_. `MarkComments`
 
 ## Remarks
 
-This property marks comments with the value of the  **[MarkCommentsWith](Word.EmailOptions.MarkCommentsWith.md)** property. The default value of the **MarkCommentsWith** property is the value of the **[UserName](Word.Application.UserName.md)** property.
+This property marks comments with the value of the **[MarkCommentsWith](Word.EmailOptions.MarkCommentsWith.md)** property. The default value of the **MarkCommentsWith** property is the value of the **[UserName](Word.Application.UserName.md)** property.
 
 
 ## Example

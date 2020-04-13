@@ -26,7 +26,7 @@ _expression_.**Range**
 
 ## Remarks
 
-Use the  **Range** property to access the text, the formatting for the text, and other text properties. For more information, see [Working with Range Objects](../word/Concepts/Working-with-Word/working-with-range-objects.md).
+Use the **Range** property to access the text, the formatting for the text, and other text properties. For more information, see [Working with Range Objects](../word/Concepts/Working-with-Word/working-with-range-objects.md).
 
 
 ## Example

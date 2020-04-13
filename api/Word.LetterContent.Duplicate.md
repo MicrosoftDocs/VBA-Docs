@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[LetterContent](Word.Letter
 
 ## Remarks
 
-You can use the  **Duplicate** property to pick up the settings of all the properties of a duplicated **LetterContent** object. You can assign the object returned by the **Duplicate** property to another **LetterContent** object to apply those settings all at once. Before assigning the duplicate object to another object, you can change any of the properties of the duplicate object without affecting the original.
+You can use the **Duplicate** property to pick up the settings of all the properties of a duplicated **LetterContent** object. You can assign the object returned by the **Duplicate** property to another **LetterContent** object to apply those settings all at once. Before assigning the duplicate object to another object, you can change any of the properties of the duplicate object without affecting the original.
 
 
 ## See also

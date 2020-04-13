@@ -31,7 +31,7 @@ Document
 
 ## Example
 
-This example opens each document in the  **RecentFiles** collection.
+This example opens each document in the **RecentFiles** collection.
 
 
 ```vb

@@ -33,7 +33,7 @@ This example sets the user's initials.
 Application.UserInitials = "baa"
 ```
 
-This example returns the letters found in the  **Initials** box on the **User Information** tab in the **Options** dialog box (**Tools** menu).
+This example returns the letters found in the **Initials** box on the **User Information** tab in the **Options** dialog box (**Tools** menu).
 
 
 

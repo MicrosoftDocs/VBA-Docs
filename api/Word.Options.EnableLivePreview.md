@@ -26,7 +26,7 @@ _expression_. `EnableLivePreview`
 
 ## Remarks
 
-This property corresponds to the  **Enable Live Preview** check box in the **Word Options** dialog box.
+This property corresponds to the **Enable Live Preview** check box in the **Word Options** dialog box.
 
 
 ## See also

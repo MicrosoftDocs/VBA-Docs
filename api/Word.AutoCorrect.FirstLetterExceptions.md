@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[AutoCorrect](Word.AutoCorrect.md)' 
 
 ## Remarks
 
-This list corresponds to the list of AutoCorrect exceptions on the  **First Letter** tab in the **AutoCorrect Exceptions** dialog box. For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
+This list corresponds to the list of AutoCorrect exceptions on the **First Letter** tab in the **AutoCorrect Exceptions** dialog box. For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.Redo method (Word)
 
-Redoes the last action that was undone (reverses the  **Undo** method). Returns **True** if the actions were redone successfully.
+Redoes the last action that was undone (reverses the **Undo** method). Returns **True** if the actions were redone successfully.
 
 
 ## Syntax

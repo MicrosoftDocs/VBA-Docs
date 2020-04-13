@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[FileConverter](Word.FileCo
 
 ## Remarks
 
-The path doesn't include a trailing character — for example, "C:\MSOffice" or "https://MyServer". Use the  **[PathSeparator](Word.Application.PathSeparator.md)** property to add the character that separates folders and drive letters. Use the **[Name](Word.FileConverter.Name.md)** property to return the file name without the path. You can create the full name of a file converter by concatenating the **Path**, **PathSeparator**, and **Name** properties.
+The path doesn't include a trailing character — for example, "C:\MSOffice" or "https://MyServer". Use the **[PathSeparator](Word.Application.PathSeparator.md)** property to add the character that separates folders and drive letters. Use the **[Name](Word.FileConverter.Name.md)** property to return the file name without the path. You can create the full name of a file converter by concatenating the **Path**, **PathSeparator**, and **Name** properties.
 
 
 ## See also

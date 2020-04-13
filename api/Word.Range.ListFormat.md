@@ -37,7 +37,7 @@ Set myRange = _
 myRange.ListFormat.ApplyOutlineNumberDefault
 ```
 
-This example applies the second list template on the  **Numbered** tab in the **Bullets and Numbering** dialog box to all the paragraphs in the selection.
+This example applies the second list template on the **Numbered** tab in the **Bullets and Numbering** dialog box to all the paragraphs in the selection.
 
 
 

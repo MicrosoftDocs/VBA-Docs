@@ -30,10 +30,10 @@ _expression_ A variable that represents a '[Global](Word.Global.md)' object. Opt
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required| **[WdKey](Word.WdKey.md)**|A key you specify by using one of the  **WdKey** constants.|
-| _Arg2_|Optional| **[WdKey](Word.WdKey.md)**|A key you specify by using one of the  **WdKey** constants.|
-| _Arg3_|Optional| **[WdKey](Word.WdKey.md)**|A key you specify by using one of the  **WdKey** constants.|
-| _Arg4_|Optional| **[WdKey](Word.WdKey.md)**|A key you specify by using one of the  **WdKey** constants.|
+| _Arg1_|Required| **[WdKey](Word.WdKey.md)**|A key you specify by using one of the **WdKey** constants.|
+| _Arg2_|Optional| **[WdKey](Word.WdKey.md)**|A key you specify by using one of the **WdKey** constants.|
+| _Arg3_|Optional| **[WdKey](Word.WdKey.md)**|A key you specify by using one of the **WdKey** constants.|
+| _Arg4_|Optional| **[WdKey](Word.WdKey.md)**|A key you specify by using one of the **WdKey** constants.|
 
 ## Example
 

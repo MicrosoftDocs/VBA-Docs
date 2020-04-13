@@ -34,7 +34,7 @@ _expression_. `GetCrossReferenceItems`( `_ReferenceType_` )
 
 ## Remarks
 
-The array that this method returns corresponds to the items listed in the  **For which** box in the **Cross-reference** dialog box. The value returned by this method can be used as the value of the ReferenceWhich argument for the **InsertCrossReference** method of the **Range** or **Selection** object.
+The array that this method returns corresponds to the items listed in the **For which** box in the **Cross-reference** dialog box. The value returned by this method can be used as the value of the ReferenceWhich argument for the **InsertCrossReference** method of the **Range** or **Selection** object.
 
 
 ## Example
@@ -50,7 +50,7 @@ If ActiveDocument.Bookmarks.Count >= 1 Then
 End If
 ```
 
-This example uses the  **GetCrossReferenceItems** method to retrieve a list of headings that can be cross-referenced and then inserts a cross-reference to the page that includes the heading "Introduction."
+This example uses the **GetCrossReferenceItems** method to retrieve a list of headings that can be cross-referenced and then inserts a cross-reference to the page that includes the heading "Introduction."
 
 
 

@@ -31,7 +31,7 @@ _expression_ Required. A variable that represents a '[TablesOfAuthorities](Word.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The range where you want the table of authorities to appear. The table of authorities replaces the range, if the range isn't collapsed.|
-| _Category_|Optional| **Variant**|The category of entries you want to include in the table of authorities. Corresponds to the \c switch for a Table of Authorities (TOA) field. Values 0 through 16 correspond to the items listed in the  **Category** box on the **Table of Authorities** tab in the **Index and Tables** dialog box (**Reference** command, **Insert** menu). The default value is 1.|
+| _Category_|Optional| **Variant**|The category of entries you want to include in the table of authorities. Corresponds to the \c switch for a Table of Authorities (TOA) field. Values 0 through 16 correspond to the items listed in the **Category** box on the **Table of Authorities** tab in the **Index and Tables** dialog box (**Reference** command, **Insert** menu). The default value is 1.|
 | _Bookmark_|Optional| **Variant**|The string name of the bookmark from which you want to collect entries for the table of authorities. If Bookmark is specified, the entries are collected only from the portion of the document marked by the bookmark. Corresponds to the \b switch for a Table of Authorities (TOA) field.|
 | _Passim_|Optional| **Variant**| **True** to replace five or more page references to the same authority with Passim in the table of authorities. Corresponds to the \p switch for a Table of Authorities (TOA) field. If this argument is omitted, Passim is assumed to be **False**.|
 | _KeepEntryFormatting_|Optional| **Variant**| **True** to apply formatting from table of authorities entries to the entries in the table of authorities. Corresponds to the \f switch for a Table of Authorities (TOA) field. If this argument is omitted, KeepEntryFormatting is assumed to be **True**.|
@@ -49,7 +49,7 @@ TableOfAuthorities
 
 ## Remarks
 
-A table of authorities is built from Table of Authorities Entry (TA) fields in a document. Use the  **MarkCitation** method to mark citations to be included in the table of authorities.
+A table of authorities is built from Table of Authorities Entry (TA) fields in a document. Use the **MarkCitation** method to mark citations to be included in the table of authorities.
 
 
 ## Example

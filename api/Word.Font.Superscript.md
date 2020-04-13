@@ -28,7 +28,7 @@ _expression_.**Superscript**
 
 Returns  **True**, **False**, or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True**, **False**, or **wdToggle**.
 
-Setting the  **Superscript** property to **True** sets the **[Subscript](Word.Font.Subscript.md)** property to **False**, and vice versa.
+Setting the **Superscript** property to **True** sets the **[Subscript](Word.Font.Subscript.md)** property to **False**, and vice versa.
 
 
 ## Example

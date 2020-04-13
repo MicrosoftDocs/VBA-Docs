@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.MailMergeDataSourceValidate2 event (Word)
 
-Occurs when a user validates mail merge recipients by clicking the  **Validate addresses** link button in the **Mail Merge Recipients** dialog box.
+Occurs when a user validates mail merge recipients by clicking the **Validate addresses** link button in the **Mail Merge Recipients** dialog box.
 
 
 ## Syntax
@@ -35,11 +35,11 @@ _expression_ A variable that represents an '[Application](Word.Application.md)' 
 
 ## Remarks
 
-If you do not have address verification software installed on your computer, the  **MailMergeDataSourceValidate2** event allows you to create simple filtering routines, such as looping through records to check the postal codes and removing any that are non-U.S.
+If you do not have address verification software installed on your computer, the **MailMergeDataSourceValidate2** event allows you to create simple filtering routines, such as looping through records to check the postal codes and removing any that are non-U.S.
 
 
 > [!NOTE] 
-> You cannot raise this event from within a Microsoft Visual Basic for Applications (VBA) project. This event functions correctly only in managed add-ins and external applications. For COM add-ins, use the  **[MailMergeDataSourceValidate](Word.Application.MailMergeDataSourceValidate.md)** event.
+> You cannot raise this event from within a Microsoft Visual Basic for Applications (VBA) project. This event functions correctly only in managed add-ins and external applications. For COM add-ins, use the **[MailMergeDataSourceValidate](Word.Application.MailMergeDataSourceValidate.md)** event.
 
 
 ## See also

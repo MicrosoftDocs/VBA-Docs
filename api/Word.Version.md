@@ -31,7 +31,7 @@ If ActiveDocument.Versions.Count >= 1 Then
 End If
 ```
 
-Use the  **Save** method to add an item to the **Versions** collection. The following example adds a version of the active document with the specified comment.
+Use the **Save** method to add an item to the **Versions** collection. The following example adds a version of the active document with the specified comment.
 
 
 

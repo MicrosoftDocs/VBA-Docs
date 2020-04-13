@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents an '[Editor](Word.Editor.md)' 
 
 ## Example
 
-The following example deletes all editing permissions for the first user in the  **Editors** collection in the active document.
+The following example deletes all editing permissions for the first user in the **Editors** collection in the active document.
 
 
 ```vb

@@ -26,11 +26,11 @@ _expression_ A variable that represents a '[ChartData](Word.ChartData.md)' objec
 
 ## Remarks
 
-If the chart is linked to a Microsoft Excel workbook, this method does not run any Auto_Activate or Auto_Deactivate macros that might be attached to the workbook (use the  **[RunAutoMacros](Excel.Workbook.RunAutoMacros.md)** method to run those macros).
+If the chart is linked to a Microsoft Excel workbook, this method does not run any Auto_Activate or Auto_Deactivate macros that might be attached to the workbook (use the **[RunAutoMacros](Excel.Workbook.RunAutoMacros.md)** method to run those macros).
 
 
 > [!NOTE] 
-> You must call this method before referencing the  **[Workbook](Word.ChartData.Workbook.md)** property.
+> You must call this method before referencing the **[Workbook](Word.ChartData.Workbook.md)** property.
 
 
 ## Example

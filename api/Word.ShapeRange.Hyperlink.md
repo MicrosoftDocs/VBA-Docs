@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ShapeRange](Word.shaperange.md)** o
 
 ## Remarks
 
-If there is no hyperlink associated with the specified range of shapes, an error occurs. In this case, use the  **[Add](Word.Hyperlinks.Add.md)** method for the **[Hyperlinks](Word.hyperlinks.md)** collection to add a hyperlink to the specified range of shapes. The following example shows how to do this.
+If there is no hyperlink associated with the specified range of shapes, an error occurs. In this case, use the **[Add](Word.Hyperlinks.Add.md)** method for the **[Hyperlinks](Word.hyperlinks.md)** collection to add a hyperlink to the specified range of shapes. The following example shows how to do this.
 
 
 ```vb

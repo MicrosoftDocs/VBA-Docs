@@ -28,7 +28,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 If the selection is an insertion point, this method changes the pointer to a cross-hair pointer so that the user can draw a text box.
 
-Using this method is equivalent to clicking the  **Text Box** button on the **Drawing** toolbar. A text box is a rectangle with an associated text frame.
+Using this method is equivalent to clicking the **Text Box** button on the **Drawing** toolbar. A text box is a rectangle with an associated text frame.
 
 
 ## Example

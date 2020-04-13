@@ -26,12 +26,12 @@ _expression_ A variable that represents an **[Application](Word.Application.md)*
 
 ## Remarks
 
-Each template gallery (Bulleted, Numbered, and Outline Numbered) corresponds to a tab in the  **Bullets and Numbering** dialog box (**Format** menu). For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
+Each template gallery (Bulleted, Numbered, and Outline Numbered) corresponds to a tab in the **Bullets and Numbering** dialog box (**Format** menu). For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 
 
 ## Example
 
-This example sets the variable mylsttmp to the second list template on the  **Outline Numbered** tab in the **Bullets and Numbering** dialog box. The example then applies that template to the first list in the active document.
+This example sets the variable mylsttmp to the second list template on the **Outline Numbered** tab in the **Bullets and Numbering** dialog box. The example then applies that template to the first list in the active document.
 
 
 ```vb
@@ -40,7 +40,7 @@ Set mylsttmp = _
 ActiveDocument.Lists(1).ApplyListTemplate ListTemplate:=mylsttmp
 ```
 
-This example cycles through the  **ListGalleries** collection and changes the templates in each list template gallery back to the built-in template.
+This example cycles through the **ListGalleries** collection and changes the templates in each list template gallery back to the built-in template.
 
 
 

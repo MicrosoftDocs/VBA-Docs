@@ -19,20 +19,20 @@ Represents the list formatting attributes that can be applied to the paragraphs 
 
 ## Remarks
 
-Use the  **ListFormat** property to return the **ListFormat** object for a range. The following example applies the default bulleted list format to the selection.
+Use the **ListFormat** property to return the **ListFormat** object for a range. The following example applies the default bulleted list format to the selection.
 
 
 ```vb
 Selection.Range.ListFormat.ApplyBulletDefault
 ```
 
-An easy way to apply list formatting is to use the  **ApplyBulletDefault**, **ApplyNumberDefault**, and **ApplyOutlineNumberDefault** methods, which correspond, respectively, to the first list format (excluding **None**) on each tab in the  **Bullets and Numbering** dialog box.
+An easy way to apply list formatting is to use the **ApplyBulletDefault**, **ApplyNumberDefault**, and **ApplyOutlineNumberDefault** methods, which correspond, respectively, to the first list format (excluding **None**) on each tab in the **Bullets and Numbering** dialog box.
 
-To apply a format other than the default format, use the  **ApplyListTemplate** method, which allows you to specify the list format (list template) you want to apply.
+To apply a format other than the default format, use the **ApplyListTemplate** method, which allows you to specify the list format (list template) you want to apply.
 
-Use the  **List** or **ListTemplate** property to return the list or list template from the first paragraph in the specified range.
+Use the **List** or **ListTemplate** property to return the list or list template from the first paragraph in the specified range.
 
-Use the  **ListFormat** property with a **Range** object to access the list formatting properties and methods available for the specified range. The following example applies the default bulleted list format to the second paragraph in the active document.
+Use the **ListFormat** property with a **Range** object to access the list formatting properties and methods available for the specified range. The following example applies the default bulleted list format to the second paragraph in the active document.
 
 
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # KeyBinding.Clear method (Word)
 
-Removes the specified key binding from the  **KeyBindings** collection and resets a built-in command to its default key assignment.
+Removes the specified key binding from the **KeyBindings** collection and resets a built-in command to its default key assignment.
 
 
 ## Syntax

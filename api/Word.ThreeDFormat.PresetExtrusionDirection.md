@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDF
 
 ## Remarks
 
-This property is read-only. To set the value of this property, use the  **SetExtrusionDirection** method.
+This property is read-only. To set the value of this property, use the **SetExtrusionDirection** method.
 
 
 ## Example

@@ -33,7 +33,7 @@ The  **IsInAutosave** property is designed to be used in an event handler for th
 
 
 > [!NOTE] 
-> In Visual Basic for Applications (VBA), the  **True** keyword has a value of negative one (-1). The **IsInAutosave** property, however, returns positive one (1) for **True**, rather than -1. As a result,  **IsInAutosave** never returns the VBA **True** keyword. To determine if the property is true, use code similar to that shown in the following code sample. If you determine that **IsInAutosave** is true, you can safely avoid doing any of the additional processing you might normally do for a manual save operation.
+> In Visual Basic for Applications (VBA), the **True** keyword has a value of negative one (-1). The **IsInAutosave** property, however, returns positive one (1) for **True**, rather than -1. As a result,  **IsInAutosave** never returns the VBA **True** keyword. To determine if the property is true, use code similar to that shown in the following code sample. If you determine that **IsInAutosave** is true, you can safely avoid doing any of the additional processing you might normally do for a manual save operation.
 
 
 ## Example

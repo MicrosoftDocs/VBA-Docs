@@ -17,14 +17,14 @@ A collection of  **[TableOfAuthorities](Word.TableOfAuthorities.md)** objects (T
 
 ## Remarks
 
-Use the  **TablesOfAuthorities** property to return the **TablesOfAuthorities** collection. The following example applies the Classic built-in format to all the tables of authorities in the active document.
+Use the **TablesOfAuthorities** property to return the **TablesOfAuthorities** collection. The following example applies the Classic built-in format to all the tables of authorities in the active document.
 
 
 ```vb
 ActiveDocument.TablesOfAuthorities.Format = wdTOAClassic
 ```
 
-Use the  **Add** method to add a table of authorities to a document. A table of authorities is built from TA (Table of Authorities Entry) fields in a document. The following example adds a table of authorities that includes all categories at the beginning of the active document.
+Use the **Add** method to add a table of authorities to a document. A table of authorities is built from TA (Table of Authorities Entry) fields in a document. The following example adds a table of authorities that includes all categories at the beginning of the active document.
 
 
 

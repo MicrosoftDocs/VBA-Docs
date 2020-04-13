@@ -26,7 +26,7 @@ _expression_. `CheckLanguage`
 
 ## Remarks
 
-If you haven't set up Word for multilingual editing, the  **CheckLanguage** property always returns **False**.
+If you haven't set up Word for multilingual editing, the **CheckLanguage** property always returns **False**.
 
 
 ## Example

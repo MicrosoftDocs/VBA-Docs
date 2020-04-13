@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Global object (Word)
 
-Contains top-level properties and methods that do not need to be preceded by the  **Application** property.
+Contains top-level properties and methods that do not need to be preceded by the **Application** property.
 
 
 ## Remarks
 
-The following two statements have the same result. One statement uses the  **Application** property to access the **Documents** collection, and one does not. Both statements are equal and achieve the same result.
+The following two statements have the same result. One statement uses the **Application** property to access the **Documents** collection, and one does not. Both statements are equal and achieve the same result.
 
 
 ```vb

@@ -26,7 +26,7 @@ _expression_.**TextureTile**
 
 ## Remarks
 
-The value returned by the  **TextureTile** property can be one of the following[MsoTriState](Office.MsoTriState.md) constants.
+The value returned by the **TextureTile** property can be one of the following[MsoTriState](Office.MsoTriState.md) constants.
 
 
 
@@ -35,7 +35,7 @@ The value returned by the  **TextureTile** property can be one of the following[
 | **msoFalse**|The texture fill is centered.|
 | **msoTrue**|The texture fill is tiled.|
 
-The setting of the  **TextureTile** property corresponds to the setting of the **Tile picture as texture** box under **Tiling Options** on the **Fill** pane of the **Format Picture** dialog box in the Microsoft Word user interface (under **Drawing Tools**, on the  **Format** tab, expand the **Shape Styles** group.)
+The setting of the **TextureTile** property corresponds to the setting of the **Tile picture as texture** box under **Tiling Options** on the **Fill** pane of the **Format Picture** dialog box in the Microsoft Word user interface (under **Drawing Tools**, on the **Format** tab, expand the **Shape Styles** group.)
 
 
 ## See also

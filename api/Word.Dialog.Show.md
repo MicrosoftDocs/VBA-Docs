@@ -39,7 +39,7 @@ Long
 
 ## Remarks
 
-The following table shows the meaning of the values that the  **Show** method returns.
+The following table shows the meaning of the values that the **Show** method returns.
 
 
 
@@ -52,7 +52,7 @@ The following table shows the meaning of the values that the  **Show** method re
 
 ## Example
 
-This example displays the  **Find and Replace** dialog box with the word "Blue" preset in the **Find what** text box.
+This example displays the **Find and Replace** dialog box with the word "Blue" preset in the **Find what** text box.
 
 
 ```vb
@@ -62,7 +62,7 @@ With Dialogs(wdDialogEditFind)
 End With
 ```
 
-This example displays and carries out any action initiated in the  **Open** dialog box. The file name is set to *.* so that all file names are displayed.
+This example displays and carries out any action initiated in the **Open** dialog box. The file name is set to *.* so that all file names are displayed.
 
 
 
@@ -74,7 +74,7 @@ With Dialogs(wdDialogFileOpen)
 End With
 ```
 
-This example displays and carries out any action initiated in the  **Zoom** dialog box. If there are no actions initiated for approximately 9 seconds, the dialog box is closed.
+This example displays and carries out any action initiated in the **Zoom** dialog box. If there are no actions initiated for approximately 9 seconds, the dialog box is closed.
 
 
 

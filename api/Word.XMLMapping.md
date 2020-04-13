@@ -19,7 +19,7 @@ Represents the XML mapping on a  **[ContentControl](Word.ContentControl.md)** ob
 
 ## Remarks
 
-Use the  **[SetMapping](Word.XMLMapping.SetMapping.md)** method to add or change the XML mapping for a content control using an XPath string. The following example sets the built-in document property for the document author, inserts a new content control into the active document, and then sets the XML mapping for the control to the built-in document property.
+Use the **[SetMapping](Word.XMLMapping.SetMapping.md)** method to add or change the XML mapping for a content control using an XPath string. The following example sets the built-in document property for the document author, inserts a new content control into the active document, and then sets the XML mapping for the control to the built-in document property.
 
 
 ```vb
@@ -40,7 +40,7 @@ If blnMap = False Then
 End If
 ```
 
-Use the  **[SetMappingByNode](Word.XMLMapping.SetMappingByNode.md)** method to add or change the XML mapping for a content control using a **CustomXMLNode** object. The following example does the same thing as the previous example, but uses the **SetMappingByNode** method.
+Use the **[SetMappingByNode](Word.XMLMapping.SetMappingByNode.md)** method to add or change the XML mapping for a content control using a **CustomXMLNode** object. The following example does the same thing as the previous example, but uses the **SetMappingByNode** method.
 
 
 
@@ -105,7 +105,7 @@ objCustomControl.XMLMapping.SetMappingByNode objCustomNode
 MsgBox objCustomControl.XMLMapping.IsMapped
 ```
 
-Use the  **[Delete](Word.XMLMapping.Delete.md)** method to remove the XML mapping for a content control. Deleting the XML mapping for a content control deletes only the connection between the content control and the XML data. Both the content control and the XML data remain in the document. The following example deletes the XML mapping for all content controls in the active document that are currently mapped.
+Use the **[Delete](Word.XMLMapping.Delete.md)** method to remove the XML mapping for a content control. Deleting the XML mapping for a content control deletes only the connection between the content control and the XML data. Both the content control and the XML data remain in the document. The following example deletes the XML mapping for all content controls in the active document that are currently mapped.
 
 
 
@@ -120,7 +120,7 @@ For Each objCC In ActiveDocument.ContentControls
 Next
 ```
 
-Use the  **[IsMapped](Word.XMLMapping.IsMapped.md)** property to determine if a content control is mapped to an XML node in the document's data store. The following example deletes the XML mapping for all mapped content controls in the active document.
+Use the **[IsMapped](Word.XMLMapping.IsMapped.md)** property to determine if a content control is mapped to an XML node in the document's data store. The following example deletes the XML mapping for all mapped content controls in the active document.
 
 
 
@@ -135,7 +135,7 @@ For Each objCC In ActiveDocument.ContentControls
 Next
 ```
 
-Use the  **[CustomXMLNode](Word.XMLMapping.CustomXMLNode.md)** property to access the XML node to which a content control maps. Use the **[CustomXMLPart](Word.XMLMapping.CustomXMLPart.md)** property to access the XML part to which a content control maps. For more information about working with **CustomXMLNode** and **CustomXMLPart** objects, see the respective object topics.
+Use the **[CustomXMLNode](Word.XMLMapping.CustomXMLNode.md)** property to access the XML node to which a content control maps. Use the **[CustomXMLPart](Word.XMLMapping.CustomXMLPart.md)** property to access the XML part to which a content control maps. For more information about working with **CustomXMLNode** and **CustomXMLPart** objects, see the respective object topics.
 
 
 ## See also

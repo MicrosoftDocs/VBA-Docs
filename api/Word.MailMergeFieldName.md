@@ -28,7 +28,7 @@ afirst = ActiveDocument.MailMerge.DataSource.FieldNames(alast).Name
 MsgBox afirst
 ```
 
-You cannot add fields to the  **MailMergeFieldNames** collection. Field names in a data source are automatically included in the **MailMergeFieldNames** collection.
+You cannot add fields to the **MailMergeFieldNames** collection. Field names in a data source are automatically included in the **MailMergeFieldNames** collection.
 
 
 ## See also

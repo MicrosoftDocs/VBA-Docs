@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TablesOfAuthorities.MarkAllCitations method (Word)
 
-Inserts a TA (Table of Authorities Entry) field after all instances of the  **ShortCitation** text.
+Inserts a TA (Table of Authorities Entry) field after all instances of the **ShortCitation** text.
 
 
 ## Syntax
@@ -30,10 +30,10 @@ _expression_ Required. A variable that represents a '[TablesOfAuthorities](Word.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ShortCitation_|Required| **String**|The short citation for the entry as it will appear in the  **Mark Citation** dialog box (**Insert** menu, **Index and Tables** command).|
+| _ShortCitation_|Required| **String**|The short citation for the entry as it will appear in the **Mark Citation** dialog box (**Insert** menu, **Index and Tables** command).|
 | _LongCitation_|Optional| **Variant**|The long citation string for the entry as it will appear in the table of authorities.|
 | _LongCitationAutoText_|Optional| **Variant**|The AutoText entry name that contains the text of the long citation as it will appear in the table of authorities.|
-| _Category_|Optional| **Variant**|The category number to be associated with the entry: 1 corresponds to the first category in the  **Category** box in the **Mark Citation** dialog box, 2 corresponds to the second category, and so on.|
+| _Category_|Optional| **Variant**|The category number to be associated with the entry: 1 corresponds to the first category in the **Category** box in the **Mark Citation** dialog box, 2 corresponds to the second category, and so on.|
 
 ## Example
 

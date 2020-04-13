@@ -14,7 +14,7 @@ A collection of  **[Comment](Word.Comment.md)** objects that represent the comme
 
 ## Remarks
 
-Use the  **Comments** property to return the **Comments** collection. The following example displays comments made by Don Funk in the active document.
+Use the **Comments** property to return the **Comments** collection. The following example displays comments made by Don Funk in the active document.
 
 
 ```vb
@@ -22,7 +22,7 @@ ActiveDocument.ActiveWindow.View.SplitSpecial = wdPaneComments
 ActiveDocument.Comments.ShowBy = "Don Funk"
 ```
 
-Use the  **[Add](Word.Comments.Add.md)** method to add a comment at the specified range. The following example adds a comment immediately after the selection.
+Use the **[Add](Word.Comments.Add.md)** method to add a comment at the specified range. The following example adds a comment immediately after the selection.
 
 
 

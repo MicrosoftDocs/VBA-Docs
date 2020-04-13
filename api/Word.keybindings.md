@@ -14,7 +14,7 @@ A collection of  **[KeyBinding](Word.KeyBinding.md)** objects that represent the
 
 ## Remarks
 
-Use the  **[KeyBindings](Word.Application.KeyBindings.md)** property to return the **KeyBindings** collection. The following example inserts after the selection the command name and key combination for each item in the **KeyBindings** collection.
+Use the **[KeyBindings](Word.Application.KeyBindings.md)** property to return the **KeyBindings** collection. The following example inserts after the selection the command name and key combination for each item in the **KeyBindings** collection.
 
 
 ```vb
@@ -26,7 +26,7 @@ For Each aKey In KeyBindings
 Next aKey
 ```
 
-Use the  **Add** method to add a **KeyBinding** object to the **KeyBindings** collection. The following example adds the CTRL+ALT+H key combination to the Heading 1 style in the active document.
+Use the **Add** method to add a **KeyBinding** object to the **KeyBindings** collection. The following example adds the CTRL+ALT+H key combination to the Heading 1 style in the active document.
 
 
 

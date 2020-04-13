@@ -26,7 +26,7 @@ _expression_. `MinimumFontSize`
 
 ## Remarks
 
-This property only affects the text as shown in web layout view. The point sizes that are displayed on the  **Formatting** toolbar and used for printing aren't changed.
+This property only affects the text as shown in web layout view. The point sizes that are displayed on the **Formatting** toolbar and used for printing aren't changed.
 
 
 ## Example
