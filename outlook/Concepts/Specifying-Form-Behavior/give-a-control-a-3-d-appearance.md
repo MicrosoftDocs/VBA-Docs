@@ -11,9 +11,9 @@ localization_priority: Normal
 
 1. In the Forms Designer, right-click the control, and then click **d Properties**. 
     
-2. In the **ies** list, click **SpecialEffect**, and then click the option that you want from the drop-down list box next to the       **
+2. In the **ies** list, click **SpecialEffect**, and then click the option that you want from the drop-down list box next to the      **
     
-   ** The       *** property is not available for all controls.
+  ** The      *** property is not available for all controls.
 3. Click **.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

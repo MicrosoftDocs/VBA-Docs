@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|A number indicating the aggregation function to be used by the method.|
 | _Arg2_|Required| **[Range](Excel.Range(object).md)**|The first **Range** object for which a subtotal is to be calculated.|
-| _Arg3 - Arg30_|Optional| **Variant**|Subsequent  **Range** objects for which a subtotal is to be calculated.|
+| _Arg3 - Arg30_|Optional| **Variant**|Subsequent **Range** objects for which a subtotal is to be calculated.|
 
 ## Return value
 

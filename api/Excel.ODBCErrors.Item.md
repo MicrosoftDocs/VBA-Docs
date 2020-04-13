@@ -34,7 +34,7 @@ _expression_ A variable that represents an **[ODBCErrors](Excel.ODBCErrors.md)**
 
 ## Return value
 
-An  **[ODBCError](Excel.ODBCError.md)** object contained by the collection.
+An **[ODBCError](Excel.ODBCError.md)** object contained by the collection.
 
 
 ## Example

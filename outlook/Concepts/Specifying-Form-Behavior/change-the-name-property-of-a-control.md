@@ -13,6 +13,6 @@ localization_priority: Normal
     
 2. On the **isplay** tab, type a name in the **Name** box.
     
-   **ote** ach control should have a unique name.
+  **ote** ach control should have a unique name.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

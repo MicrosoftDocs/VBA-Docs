@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # XlForecastDataCompletion enumeration (Excel)
 
-Constants passed to various  **WorksheetFunction** and **Workbook** statistical forecasting methods.
+Constants passed to various **WorksheetFunction** and **Workbook** statistical forecasting methods.
 
 
 ## Members

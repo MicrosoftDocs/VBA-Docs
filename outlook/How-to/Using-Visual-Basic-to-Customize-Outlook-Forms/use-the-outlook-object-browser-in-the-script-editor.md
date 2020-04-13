@@ -17,7 +17,7 @@ localization_priority: Normal
 
 1.  On the **Developer** tab, in the **Custom Forms** group, click **Design a Form**.
     
-   **Note** If you do not see the **Developer** tab, see [Run in Developer Mode in Outlook](run-in-developer-mode-in-outlook.md) to activate the **Developer** tab.
+  **Note** If you do not see the **Developer** tab, see [Run in Developer Mode in Outlook](run-in-developer-mode-in-outlook.md) to activate the **Developer** tab.
 2. In the **Design Form** dialog box, select the form that you would like to use the object browser with, and click **Open** to open the form in design mode.
     
 3. On the **Developer** tab, in the **Form** group, click **View Code** to open the selected form in the Script Editor.

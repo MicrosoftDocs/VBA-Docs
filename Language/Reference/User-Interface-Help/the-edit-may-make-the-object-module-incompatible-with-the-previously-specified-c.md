@@ -22,7 +22,7 @@ If a Compatible ActiveX component already exists as a previously distributed [ex
     
     In Visual Basic, the name of the Compatible ActiveX component appears in the dialog box displayed when you choose **Project Options** from the **Tools** menu.
     
-    **Important**  To accept the edit, click **OK** in the error message dialog box. If you want to undo the edit, click the **Cancel** button.
+   **Important**  To accept the edit, click **OK** in the error message dialog box. If you want to undo the edit, click the **Cancel** button.
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

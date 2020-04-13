@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # XlCheckInVersionType enumeration (Excel)
 
-Specifies the type of version for the document checked in when using the  **CheckIn** method. Applies to workbooks stored in a SharePoint library.
+Specifies the type of version for the document checked in when using the **CheckIn** method. Applies to workbooks stored in a SharePoint library.
 
 
 

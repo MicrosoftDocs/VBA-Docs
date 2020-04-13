@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeRange.Apply method (Excel)
 
-Applies to the specified shape formatting that's been copied by using the  **[PickUp](Excel.ShapeRange.PickUp.md)** method.
+Applies to the specified shape formatting that's been copied by using the **[PickUp](Excel.ShapeRange.PickUp.md)** method.
 
 
 ## Syntax

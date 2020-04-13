@@ -22,7 +22,7 @@ This error typically occurs when you attempt to assign a value to something that
     
 - You used a function call or an [expression](../../Glossary/vbe-glossary.md#expression) as an argument to **Input #**, **Let**, **Get**, or **Put**. For example, you may have used an argument that appears to be a valid reference to an [array](../../Glossary/vbe-glossary.md#array) variable, but instead is a call to a function of the same name.
     
-    **Input #**, **Let**, **Get**, and **Put** don't accept function calls as arguments.
+   **Input #**, **Let**, **Get**, and **Put** don't accept function calls as arguments.
     
 - You attempted to assign a value to an [identifier](../../Glossary/vbe-glossary.md#identifier) previously declared as a [constant](../../Glossary/vbe-glossary.md#constant).
     

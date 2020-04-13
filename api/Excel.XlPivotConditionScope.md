@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # XlPivotConditionScope enumeration (Excel)
 
-This enumeration specifies the conditional formatting applied for filtering values from the  **PivotTable** object.
+This enumeration specifies the conditional formatting applied for filtering values from the **PivotTable** object.
 
 
 
