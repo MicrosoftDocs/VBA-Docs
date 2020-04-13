@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.CC property (Outlook)
 
-Returns a  **String** representing the display list of carbon copy (CC) names for a **[MailItem](Outlook.MailItem.md)**. Read/write.
+Returns a **String** representing the display list of carbon copy (CC) names for a **[MailItem](Outlook.MailItem.md)**. Read/write.
 
 
 ## Syntax

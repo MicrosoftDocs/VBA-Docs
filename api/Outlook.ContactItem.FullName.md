@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.FullName property (Outlook)
 
-Returns or sets a  **String** specifying the whole, unparsed full name for the contact. Read/write.
+Returns or sets a **String** specifying the whole, unparsed full name for the contact. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PostItem.TaskStartDate property (Outlook)
 
-Returns or sets a  **Date** value that represents the start date of the task for this **[PostItem](Outlook.PostItem.md)** object. Read/write.
+Returns or sets a **Date** value that represents the start date of the task for this **[PostItem](Outlook.PostItem.md)** object. Read/write.
 
 
 ## Syntax

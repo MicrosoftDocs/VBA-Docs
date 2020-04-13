@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.ToDoTaskOrdinal property (Outlook)
 
-Returns or sets a  **Date** value that represents the ordinal value of the task for the **[ContactItem](Outlook.ContactItem.md)**. Read/write.
+Returns or sets a **Date** value that represents the ordinal value of the task for the **[ContactItem](Outlook.ContactItem.md)**. Read/write.
 
 
 ## Syntax

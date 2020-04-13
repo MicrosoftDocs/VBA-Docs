@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.FileDialog property (PowerPoint)
 
-Returns a  **FileDialog** object that represents a single instance of a file dialog box. Read-only.
+Returns a **FileDialog** object that represents a single instance of a file dialog box. Read-only.
 
 
 ## Syntax

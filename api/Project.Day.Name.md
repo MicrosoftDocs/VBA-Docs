@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Day.Name property (Project)
 
-Gets the name of a  **Day** object. Read-only **String**.
+Gets the name of a **Day** object. Read-only **String**.
 
 
 ## Syntax

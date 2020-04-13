@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
 ## Return value
 
-A  **[Trendlines](Word.Trendlines.md)** object that represents all the treadlines for the series.
+A **[Trendlines](Word.Trendlines.md)** object that represents all the treadlines for the series.
 
 
 ## Example

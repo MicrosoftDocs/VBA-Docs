@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folder.Description property (Outlook)
 
-Returns or sets a  **String** representing the description of the folder. Read/write.
+Returns or sets a **String** representing the description of the folder. Read/write.
 
 
 ## Syntax

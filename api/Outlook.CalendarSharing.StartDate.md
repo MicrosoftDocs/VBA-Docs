@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CalendarSharing.StartDate property (Outlook)
 
-Returns or sets a  **Date** that represents the inclusive start date of the range of calendar items to be shared by the **[CalendarSharing](Outlook.CalendarSharing.md)** object. Read/write.
+Returns or sets a **Date** that represents the inclusive start date of the range of calendar items to be shared by the **[CalendarSharing](Outlook.CalendarSharing.md)** object. Read/write.
 
 
 ## Syntax

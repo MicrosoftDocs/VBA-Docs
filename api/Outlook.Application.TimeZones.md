@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.TimeZones property (Outlook)
 
-Returns a  **[TimeZones](Outlook.TimeZones.md)** collection that represents the set of time zones supported by Outlook. Read-only.
+Returns a **[TimeZones](Outlook.TimeZones.md)** collection that represents the set of time zones supported by Outlook. Read-only.
 
 
 ## Syntax

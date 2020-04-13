@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Presentation.BuiltInDocumentProperties property (PowerPoint)
 
-Returns a  **DocumentProperties** collection that represents all the built-in document properties for the specified presentation. Read-only.
+Returns a **DocumentProperties** collection that represents all the built-in document properties for the specified presentation. Read-only.
 
 
 ## Syntax

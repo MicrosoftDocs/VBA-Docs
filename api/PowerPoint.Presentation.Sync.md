@@ -17,7 +17,7 @@ localization_priority: Normal
 > [!NOTE] 
 > This object or member has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 
-Returns a  **Sync** object that enables you to manage the synchronization of the local and server copies of a shared presentation stored in a Microsoft SharePoint Server shared workspace. Read-only.
+Returns a **Sync** object that enables you to manage the synchronization of the local and server copies of a shared presentation stored in a Microsoft SharePoint Server shared workspace. Read-only.
 
 
 ## Syntax

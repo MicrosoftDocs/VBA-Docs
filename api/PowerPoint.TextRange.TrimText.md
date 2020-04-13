@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextRange.TrimText method (PowerPoint)
 
-Returns a  **TextRange** object that represents the specified text minus any trailing spaces.
+Returns a **TextRange** object that represents the specified text minus any trailing spaces.
 
 
 ## Syntax

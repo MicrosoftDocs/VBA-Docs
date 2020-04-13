@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RecurrencePattern.PatternEndDate property (Outlook)
 
-Returns or sets a  **Date** indicating the end date for the recurrence pattern. Read/write.
+Returns or sets a **Date** indicating the end date for the recurrence pattern. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Store.StoreID property (Outlook)
 
-Returns a  **String** identifying the **[Store](Outlook.Store.md)**. Read-only.
+Returns a **String** identifying the **[Store](Outlook.Store.md)**. Read-only.
 
 
 ## Syntax

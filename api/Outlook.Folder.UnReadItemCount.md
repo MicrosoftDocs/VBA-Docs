@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folder.UnReadItemCount property (Outlook)
 
-Returns a  **Long** indicating the number of unread items in the folder. Read-only.
+Returns a **Long** indicating the number of unread items in the folder. Read-only.
 
 
 ## Syntax

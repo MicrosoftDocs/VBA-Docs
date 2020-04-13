@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Group object (Project)
 
-Represents a group definition. A  **Group** object is a member of the **[ResourceGroups](Project.resourcegroups(object).md)** collection or the **[TaskGroups](Project.taskgroups(object).md)** collection.
+Represents a group definition. A **Group** object is a member of the **[ResourceGroups](Project.resourcegroups(object).md)** collection or the **[TaskGroups](Project.taskgroups(object).md)** collection.
  
 
 

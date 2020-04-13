@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # CostRateTable.Name property (Project)
 
-Gets the name of a  **CostRateTable** object. Read-only **String**.
+Gets the name of a **CostRateTable** object. Read-only **String**.
 
 
 ## Syntax

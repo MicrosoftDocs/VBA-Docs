@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MeetingItem.SentOn property (Outlook)
 
-Returns a  **Date** indicating the date and time on which the Outlook item was sent. Read-only.
+Returns a **Date** indicating the date and time on which the Outlook item was sent. Read-only.
 
 
 ## Syntax

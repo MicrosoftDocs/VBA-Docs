@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.Email3DisplayName property (Outlook)
 
-Returns a  **String** representing the display name of the third email entry for the contact. Read/write.
+Returns a **String** representing the display name of the third email entry for the contact. Read/write.
 
 
 ## Syntax

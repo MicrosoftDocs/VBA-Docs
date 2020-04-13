@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Reminders property (Outlook)
 
-Returns a  **[Reminders](Outlook.Reminders.md)** collection that represents all current reminders. Read-only.
+Returns a **[Reminders](Outlook.Reminders.md)** collection that represents all current reminders. Read-only.
 
 
 ## Syntax

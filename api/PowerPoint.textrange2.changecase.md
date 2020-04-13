@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # TextRange2.ChangeCase method (PowerPoint)
 
-Changes the case of a  **TextRange2** object to one of the values in the **MsoTextChangeCase** enumeration.
+Changes the case of a **TextRange2** object to one of the values in the **MsoTextChangeCase** enumeration.
 
 
 ## Syntax

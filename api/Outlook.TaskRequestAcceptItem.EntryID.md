@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskRequestAcceptItem.EntryID property (Outlook)
 
-Returns a  **String** representing the unique Entry ID of the object. Read-only.
+Returns a **String** representing the unique Entry ID of the object. Read-only.
 
 
 ## Syntax

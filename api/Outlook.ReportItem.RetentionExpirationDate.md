@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ReportItem.RetentionExpirationDate property (Outlook)
 
-Returns a  **Date** that specifies the date when the **[ReportItem](Outlook.ReportItem.md)** object expires, after which the Messaging Records Management (MRM) Assistant will delete the item. Read-only.
+Returns a **Date** that specifies the date when the **[ReportItem](Outlook.ReportItem.md)** object expires, after which the Messaging Records Management (MRM) Assistant will delete the item. Read-only.
 
 
 ## Syntax

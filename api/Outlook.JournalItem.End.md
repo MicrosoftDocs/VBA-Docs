@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # JournalItem.End property (Outlook)
 
-Returns or sets a  **Date** indicating the end date and time of a Journal entry. Read/write.
+Returns or sets a **Date** indicating the end date and time of a Journal entry. Read/write.
 
 
 ## Syntax

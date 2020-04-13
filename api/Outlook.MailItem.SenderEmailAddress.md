@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.SenderEmailAddress property (Outlook)
 
-Returns a  **String** that represents the email address of the sender of the Outlook item. Read-only.
+Returns a **String** that represents the email address of the sender of the Outlook item. Read-only.
 
 
 ## Syntax

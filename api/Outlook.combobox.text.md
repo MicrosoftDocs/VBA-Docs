@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ComboBox.Text Property (Outlook Forms Script)
 
-Returns or sets a  **String** that specifies text in a **[ComboBox](Outlook.combobox.md)**, changing the selected row in the control. Read/write.
+Returns or sets a **String** that specifies text in a **[ComboBox](Outlook.combobox.md)**, changing the selected row in the control. Read/write.
 
 
 ## Syntax
 
 _expression_.**Text**
 
-_expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a **ComboBox** object.
 
 
 ## Remarks

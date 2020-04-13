@@ -16,7 +16,7 @@ Occurs when the user clicks inside the control.
 
 _expression_.**Click**
 
-_expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a **Frame** object.
 
 
 ## Remarks

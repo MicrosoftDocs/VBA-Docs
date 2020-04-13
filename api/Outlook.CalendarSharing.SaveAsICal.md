@@ -50,7 +50,7 @@ You can set the  **[IncludeWholeCalendar](Outlook.CalendarSharing.IncludeWholeCa
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example creates a  **CalendarSharing** object for the Calendar folder, then exports the contents of the entire folder (including attachments and private items) to an iCalendar calendar (.ics) file.
+The following Visual Basic for Applications (VBA) example creates a **CalendarSharing** object for the Calendar folder, then exports the contents of the entire folder (including attachments and private items) to an iCalendar calendar (.ics) file.
 
 
 ```vb

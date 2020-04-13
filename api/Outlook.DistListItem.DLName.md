@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DistListItem.DLName property (Outlook)
 
-Returns or sets a  **String** representing the display name of a distribution list. Read/write.
+Returns or sets a **String** representing the display name of a distribution list. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Sequence.AddTriggerEffect method (PowerPoint)
 
-Adds a trigger effect to the animation in a  **Sequence** object.
+Adds a trigger effect to the animation in a **Sequence** object.
 
 
 ## Syntax

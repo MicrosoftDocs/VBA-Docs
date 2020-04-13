@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.CompanyName property (Outlook)
 
-Returns or sets a  **String** representing the company name for the contact. Read/write.
+Returns or sets a **String** representing the company name for the contact. Read/write.
 
 
 ## Syntax

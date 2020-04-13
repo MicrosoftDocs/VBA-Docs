@@ -19,7 +19,7 @@ For a single-column  **[ComboBox](Outlook.combobox.md)**, the  **AddItem** metho
 
 _expression_.**AddItem**(**_pvargItem_**,  **_pvargIndex_**)
 
-_expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a **ComboBox** object.
 
 
 ## Parameters
@@ -41,6 +41,6 @@ For a multicolumn  **ComboBox**,  **AddItem** inserts an entire row, that is, it
 
 If the control is bound to data, the  **AddItem** method fails.
 
-You can add more than one row at a time to a  **ComboBox** by using **List**.
+You can add more than one row at a time to a **ComboBox** by using **List**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

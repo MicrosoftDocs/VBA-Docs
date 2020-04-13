@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.TaskSubject property (Outlook)
 
-Returns or sets a  **String** value that represents the subject of the task for the **[MailItem](Outlook.MailItem.md)** object. Read/write.
+Returns or sets a **String** value that represents the subject of the task for the **[MailItem](Outlook.MailItem.md)** object. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.IsTrusted property (Outlook)
 
-Returns a  **Boolean** to indicate if an add-in or external caller is considered trusted by Outlook. Read-only
+Returns a **Boolean** to indicate if an add-in or external caller is considered trusted by Outlook. Read-only
 
 
 ## Syntax

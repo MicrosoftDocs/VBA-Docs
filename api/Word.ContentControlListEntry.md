@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContentControlListEntry object (Word)
 
-A  **ContentControlListEntry** object represents a list item in a drop-down list or combo box content control. A **ContentControlListEntry** object is a member of the **[ContentControlListEntries](Word.ContentControlListEntries.md)** collection for a **ContentControl** object.
+A **ContentControlListEntry** object represents a list item in a drop-down list or combo box content control. A **ContentControlListEntry** object is a member of the **[ContentControlListEntries](Word.ContentControlListEntries.md)** collection for a **ContentControl** object.
 
 
 ## Remarks

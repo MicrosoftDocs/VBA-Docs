@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.GlobalAppointmentID property (Outlook)
 
-Returns a  **String** value that represents a unique global identifier for the **[AppointmentItem](Outlook.AppointmentItem.md)** object. Read-only.
+Returns a **String** value that represents a unique global identifier for the **[AppointmentItem](Outlook.AppointmentItem.md)** object. Read-only.
 
 
 ## Syntax

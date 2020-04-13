@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Account.CurrentUser property (Outlook)
 
-Returns a  **[Recipient](Outlook.Recipient.md)** object that represents the current user identity for the account. Read-only.
+Returns a **[Recipient](Outlook.Recipient.md)** object that represents the current user identity for the account. Read-only.
 
 
 ## Syntax

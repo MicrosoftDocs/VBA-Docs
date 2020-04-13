@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.TelexNumber property (Outlook)
 
-Returns or sets a  **String** indicating the telex number for the contact. Read/write.
+Returns or sets a **String** indicating the telex number for the contact. Read/write.
 
 
 ## Syntax

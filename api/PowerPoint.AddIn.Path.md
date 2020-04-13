@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AddIn.Path property (PowerPoint)
 
-Returns a  **String** that represents the path to the specified **[AddIn](PowerPoint.AddIn.md)** object. Read-only.
+Returns a **String** that represents the path to the specified **[AddIn](PowerPoint.AddIn.md)** object. Read-only.
 
 
 ## Syntax

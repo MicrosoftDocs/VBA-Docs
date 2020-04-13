@@ -34,12 +34,12 @@ _expression_ A variable that represents a [NavigationFolders](Outlook.Navigation
 
 ## Return value
 
-A  **NavigationFolder** object that represents the new navigation folder.
+A **NavigationFolder** object that represents the new navigation folder.
 
 
 ## Remarks
 
-A folder can only appear in one navigation group. When adding a  **Folder** object to a new navigation group, any references to that **Folder** are removed from any other navigation group of which it was previously a member.
+A folder can only appear in one navigation group. When adding a **Folder** object to a new navigation group, any references to that **Folder** are removed from any other navigation group of which it was previously a member.
 
 
 ## See also

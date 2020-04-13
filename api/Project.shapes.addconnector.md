@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shapes.AddConnector method (Project)
-Creates a connector and returns a  **Shape** object the represents the new connector.
+Creates a connector and returns a **Shape** object the represents the new connector.
 
 ## Syntax
 

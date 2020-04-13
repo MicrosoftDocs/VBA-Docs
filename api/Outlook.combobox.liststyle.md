@@ -19,7 +19,7 @@ Returns or sets an **Integer** that specifies the visual appearance of the list 
 
 _expression_.**ListStyle**
 
-_expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a **ComboBox** object.
 
 
 ## Remarks

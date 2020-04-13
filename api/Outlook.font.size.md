@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # Font.Size Property (Outlook Forms Script)
 
-Returns or sets a  **Currency** that indicates the height, in [points](../language/glossary/vbe-glossary.md#point), of displayed text. Read/write.
+Returns or sets a **Currency** that indicates the height, in [points](../language/glossary/vbe-glossary.md#point), of displayed text. Read/write.
 
 
 ## Syntax
 
 _expression_.**Size**
 
-_expression_ A variable that represents a  **Font** object.
+_expression_ A variable that represents a **Font** object.
 
 
 ## Remarks

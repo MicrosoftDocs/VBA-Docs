@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Search.Filter property (Outlook)
 
-Returns a  **String** value that represents the DASL statement used to restrict the search to a specified subset of data. Read-only
+Returns a **String** value that represents the DASL statement used to restrict the search to a specified subset of data. Read-only
 
 
 ## Syntax

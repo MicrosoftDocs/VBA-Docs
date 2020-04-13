@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.ReplyTime property (Outlook)
 
-Returns or sets a  **Date** indicating the reply time for the appointment. Read/write.
+Returns or sets a **Date** indicating the reply time for the appointment. Read/write.
 
 
 ## Syntax

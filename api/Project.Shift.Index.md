@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Shift.Index property (Project)
 
-Gets the index of a  **Shift** object in the containing object. Read-only **Integer**.
+Gets the index of a **Shift** object in the containing object. Read-only **Integer**.
 
 
 ## Syntax

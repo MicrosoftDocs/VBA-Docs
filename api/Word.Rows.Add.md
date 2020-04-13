@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a **[Rows](Word.Rows.md)** obj
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _BeforeRow_|Optional| **Variant**|A  **Row** object that represents the row that will appear immediately below the new row.|
+| _BeforeRow_|Optional| **Variant**|A **Row** object that represents the row that will appear immediately below the new row.|
 
 ## Return value
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.ISDNNumber property (Outlook)
 
-Returns or sets a  **String** representing the ISDN number for the contact. Read/write.
+Returns or sets a **String** representing the ISDN number for the contact. Read/write.
 
 
 ## Syntax

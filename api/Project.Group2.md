@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Group2 object (Project)
 
-Represents a group definition where the group hierarchy can be maintained. A  **Group2** object is a member of a **[Groups2](Project.groups2.md)**, **[ResourceGroups2](Project.resourcegroups2(object).md)**, or **[TaskGroups2](Project.taskgroups2(object).md)** collection.
+Represents a group definition where the group hierarchy can be maintained. A **Group2** object is a member of a **[Groups2](Project.groups2.md)**, **[ResourceGroups2](Project.resourcegroups2(object).md)**, or **[TaskGroups2](Project.taskgroups2(object).md)** collection.
  
 
 

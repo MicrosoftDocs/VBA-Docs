@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Left property (PowerPoint)
 
-Returns or sets a  **Single** that represents the distance in points from the left edge of the shape's bounding box to the left edge of the slide. Read/write.
+Returns or sets a **Single** that represents the distance in points from the left edge of the shape's bounding box to the left edge of the slide. Read/write.
 
 
 ## Syntax

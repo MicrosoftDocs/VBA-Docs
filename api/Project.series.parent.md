@@ -19,7 +19,7 @@ _expression_ A variable that represents a 'Series' object.
 
 ## Remarks
 
-The parent of a  **Series** object is a **SeriesCollection** object.
+The parent of a **Series** object is a **SeriesCollection** object.
 
 
 ## See also

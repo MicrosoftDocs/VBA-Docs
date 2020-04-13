@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.LanguageSettings property (Outlook)
 
-Returns a  **[LanguageSettings](Office.LanguageSettings.md)** object for the application that contains the language-specific attributes of Outlook. Read-only.
+Returns a **[LanguageSettings](Office.LanguageSettings.md)** object for the application that contains the language-specific attributes of Outlook. Read-only.
 
 
 ## Syntax

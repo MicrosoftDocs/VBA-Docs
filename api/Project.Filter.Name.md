@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Filter.Name property (Project)
 
-Gets the name of a  **Filter** object. Read/write **String**.
+Gets the name of a **Filter** object. Read/write **String**.
 
 
 ## Syntax

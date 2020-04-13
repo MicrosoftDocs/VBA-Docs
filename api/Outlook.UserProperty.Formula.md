@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # UserProperty.Formula property (Outlook)
 
-Returns or sets a  **String** representing the formula for the user property. Read/write.
+Returns or sets a **String** representing the formula for the user property. Read/write.
 
 
 ## Syntax

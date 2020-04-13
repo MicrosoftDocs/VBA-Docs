@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BusinessCardView.Language property (Outlook)
 
-Returns or sets a  **String** value that represents the language setting for the object that defines the language used in the menu. Read/write.
+Returns or sets a **String** value that represents the language setting for the object that defines the language used in the menu. Read/write.
 
 
 ## Syntax

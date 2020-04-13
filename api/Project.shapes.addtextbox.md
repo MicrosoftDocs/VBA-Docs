@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shapes.AddTextbox method (Project)
-Adds a text box to the report, and returns a  **Shape** object that represents the new text box.
+Adds a text box to the report, and returns a **Shape** object that represents the new text box.
 
 ## Syntax
 

@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # ToggleButton.TripleState Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that determines whether a user can specify, from the user interface, the **Null** state for a **[ToggleButton](Outlook.togglebutton.md)**. Read/write.
+Returns or sets a **Boolean** that determines whether a user can specify, from the user interface, the **Null** state for a **[ToggleButton](Outlook.togglebutton.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**TripleState**
 
-_expression_ A variable that represents a  **ToggleButton** object.
+_expression_ A variable that represents a **ToggleButton** object.
 
 
 ## Remarks

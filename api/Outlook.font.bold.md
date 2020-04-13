@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # Font.Bold Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether text is normal or bold. Read/write.
+Returns or sets a **Boolean** that specifies whether text is normal or bold. Read/write.
 
 
 ## Syntax
 
 _expression_.**Bold**
 
-_expression_ A variable that represents a  **Font** object.
+_expression_ A variable that represents a **Font** object.
 
 
 ## Remarks

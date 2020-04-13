@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.LastModificationTime property (Outlook)
 
-Returns a  **Date** specifying the date and time that the **[SharingItem](Outlook.SharingItem.md)** was last modified. Read-only.
+Returns a **Date** specifying the date and time that the **[SharingItem](Outlook.SharingItem.md)** was last modified. Read-only.
 
 
 ## Syntax

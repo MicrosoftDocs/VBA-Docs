@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Conversation.GetAlwaysMoveToFolder method (Outlook)
 
-Returns a  **[Folder](Outlook.Folder.md)** object that indicates the folder in the specified delivery store to which new items that arrive in the conversation are always moved.
+Returns a **[Folder](Outlook.Folder.md)** object that indicates the folder in the specified delivery store to which new items that arrive in the conversation are always moved.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a '[Conversation](Outlook.Conversation.m
 
 ## Return value
 
-A  **Folder** object in the specified store to which all new items that arrive in the conversation are always moved.
+A **Folder** object in the specified store to which all new items that arrive in the conversation are always moved.
 
 
 ## Remarks

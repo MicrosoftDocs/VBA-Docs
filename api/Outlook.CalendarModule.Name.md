@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CalendarModule.Name property (Outlook)
 
-Returns a  **String** value that represents the localized display name for the **[CalendarModule](Outlook.CalendarModule.md)** object. Read-only.
+Returns a **String** value that represents the localized display name for the **[CalendarModule](Outlook.CalendarModule.md)** object. Read-only.
 
 
 ## Syntax

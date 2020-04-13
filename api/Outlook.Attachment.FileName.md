@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Attachment.FileName property (Outlook)
 
-Returns a  **String** representing the file name of the attachment. Read-only.
+Returns a **String** representing the file name of the attachment. Read-only.
 
 
 ## Syntax

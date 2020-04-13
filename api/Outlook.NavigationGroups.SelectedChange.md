@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationGroups.SelectedChange event (Outlook)
 
-Occurs after the selection state is changed for a navigation folder contained in a  **Calendar** navigation module.
+Occurs after the selection state is changed for a navigation folder contained in a **Calendar** navigation module.
 
 
 ## Syntax

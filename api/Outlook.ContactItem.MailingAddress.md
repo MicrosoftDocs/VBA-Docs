@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.MailingAddress property (Outlook)
 
-Returns or sets a  **String** representing the full, unparsed selected mailing address for the contact. Read/write.
+Returns or sets a **String** representing the full, unparsed selected mailing address for the contact. Read/write.
 
 
 ## Syntax

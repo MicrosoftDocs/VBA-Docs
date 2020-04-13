@@ -26,7 +26,7 @@ Use the  **[Item](Outlook.Conflicts.Item.md)** method to retrieve a particular *
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example retrieves a  **Conflict** object from the **Conflicts** collection object.
+The following Visual Basic for Applications (VBA) example retrieves a **Conflict** object from the **Conflicts** collection object.
 
 
 ```vb

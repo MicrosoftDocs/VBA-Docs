@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.LastNameAndFirstName property (Outlook)
 
-Returns a  **String** representing the concatenated last name and first name for the contact. Read-only.
+Returns a **String** representing the concatenated last name and first name for the contact. Read-only.
 
 
 ## Syntax

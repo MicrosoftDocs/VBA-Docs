@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.MailingAddressPostOfficeBox property (Outlook)
 
-Returns or sets a  **String** representing the post office box number portion of the selected mailing address of the contact. Read/write.
+Returns or sets a **String** representing the post office box number portion of the selected mailing address of the contact. Read/write.
 
 
 ## Syntax

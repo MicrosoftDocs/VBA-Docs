@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shapes.AddCallout method (Project)
-Creates a borderless line callout in a report. Returns a  **Shape** object that represents the new callout.
+Creates a borderless line callout in a report. Returns a **Shape** object that represents the new callout.
 
 ## Syntax
 

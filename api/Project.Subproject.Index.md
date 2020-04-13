@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Subproject.Index property (Project)
 
-Gets the index of a  **Subproject** object in the **Subprojects** containing object. Read-only **Long**.
+Gets the index of a **Subproject** object in the **Subprojects** containing object. Read-only **Long**.
 
 
 ## Syntax

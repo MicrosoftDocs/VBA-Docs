@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CalendarModule.Visible property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether the **[CalendarModule](Outlook.CalendarModule.md)** object is displayed in the navigation pane. Read/write.
+Returns or sets a **Boolean** value that determines whether the **[CalendarModule](Outlook.CalendarModule.md)** object is displayed in the navigation pane. Read/write.
 
 
 ## Syntax

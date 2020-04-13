@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.OfficeLocation property (Outlook)
 
-Returns or sets a  **String** specifying the specific office location (for example, Building 1 Room 1 or Suite 123) for the contact. Read/write.
+Returns or sets a **String** specifying the specific office location (for example, Building 1 Room 1 or Suite 123) for the contact. Read/write.
 
 
 ## Syntax

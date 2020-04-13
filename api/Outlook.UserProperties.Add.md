@@ -48,7 +48,7 @@ To set for the first time a property created by the  **UserProperties.Add** meth
 
 If you want to view a custom property on an item, you must use the  **UserProperties.Add** method to create that property. Custom properties created by the **[PropertyAccessor](Outlook.PropertyAccessor.md)** are not supported in a custom view.
 
-You cannot add custom properties to Office document items such as Word, Excel, or PowerPoint files. You will receive an error when you try to programmatically add a user-defined field to a  **[DocumentItem](Outlook.DocumentItem.md)** object.
+You cannot add custom properties to Office document items such as Word, Excel, or PowerPoint files. You will receive an error when you try to programmatically add a user-defined field to a **[DocumentItem](Outlook.DocumentItem.md)** object.
 
 
 ## Example

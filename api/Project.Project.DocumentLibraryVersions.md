@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Project.DocumentLibraryVersions property (Project)
 
-Gets a  **DocumentLibraryVersions** collection for the specified project. Read-only **DocumentLibraryVersions**.
+Gets a **DocumentLibraryVersions** collection for the specified project. Read-only **DocumentLibraryVersions**.
 
 
 ## Syntax

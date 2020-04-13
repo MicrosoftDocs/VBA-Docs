@@ -35,7 +35,7 @@ _expression_ A variable that represents a [CardView](Outlook.CardView.md) object
 
 ## Return value
 
-A  **View** object that represents the new view.
+A **View** object that represents the new view.
 
 
 ## See also

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableFields.Add method (Project)
 
-Adds a  **TableField** object to a **TableFields** collection.
+Adds a **TableField** object to a **TableFields** collection.
 
 
 ## Syntax

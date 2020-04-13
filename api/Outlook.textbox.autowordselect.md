@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # TextBox.AutoWordSelect Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether the basic unit used to extend a selection is a word or a single character. Read/write.
+Returns or sets a **Boolean** that specifies whether the basic unit used to extend a selection is a word or a single character. Read/write.
 
 
 ## Syntax
 
 _expression_.**AutoWordSelect**
 
-_expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a **TextBox** object.
 
 
 ## Remarks

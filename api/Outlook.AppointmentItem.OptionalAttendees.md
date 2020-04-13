@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.OptionalAttendees property (Outlook)
 
-Returns or sets a  **String** representing the display string of optional attendees names for the appointment. Read/write.
+Returns or sets a **String** representing the display string of optional attendees names for the appointment. Read/write.
 
 
 ## Syntax

@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # TextBox.MultiLine Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether a control can accept and display multiple lines of text. Read/write.
+Returns or sets a **Boolean** that specifies whether a control can accept and display multiple lines of text. Read/write.
 
 
 ## Syntax
 
 _expression_.**MultiLine**
 
-_expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a **TextBox** object.
 
 
 ## Remarks

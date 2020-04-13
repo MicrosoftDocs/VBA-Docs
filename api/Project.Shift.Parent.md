@@ -23,7 +23,7 @@ _expression_ A variable that represents a [Shift](./Project.Shift.md) object.
 
 ## Remarks
 
-The parent of a  **Shift** object can be a **Day**, **Weekday**, **WorkWeekDay**, **Month**, **Year**, **Exception**, or **Period** object.
+The parent of a **Shift** object can be a **Day**, **Weekday**, **WorkWeekDay**, **Month**, **Year**, **Exception**, or **Period** object.
 
 Use the **Parent** property to access the properties or methods of the parent of an object.
 

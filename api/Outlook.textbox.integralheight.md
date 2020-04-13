@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # TextBox.IntegralHeight Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether a **[TextBox](Outlook.textbox.md)** displays full lines of text or partial lines. Read/write.
+Returns or sets a **Boolean** that specifies whether a **[TextBox](Outlook.textbox.md)** displays full lines of text or partial lines. Read/write.
 
 
 ## Syntax
 
 _expression_.**IntegralHeight**
 
-_expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a **TextBox** object.
 
 
 ## Remarks

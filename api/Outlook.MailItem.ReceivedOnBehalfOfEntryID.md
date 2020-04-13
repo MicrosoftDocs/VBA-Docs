@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailItem.ReceivedOnBehalfOfEntryID property (Outlook)
 
-Returns a  **String** representing the **[EntryID](Outlook.Recipient.EntryID.md)** of the user delegated to represent the recipient for the mail message. Read-only.
+Returns a **String** representing the **[EntryID](Outlook.Recipient.EntryID.md)** of the user delegated to represent the recipient for the mail message. Read-only.
 
 
 ## Syntax

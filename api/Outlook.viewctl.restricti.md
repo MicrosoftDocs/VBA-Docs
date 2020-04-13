@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # ViewCtl.Restriction Property (Outlook View Control)
 
-Returns or sets a  **String** value that represents a filter to the items that are displayed in the control. As a result, the control displays only those items that match the filter. Read/write.
+Returns or sets a **String** value that represents a filter to the items that are displayed in the control. As a result, the control displays only those items that match the filter. Read/write.
 
 
 ## Syntax
 
 _expression_.**Restriction**
 
-_expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

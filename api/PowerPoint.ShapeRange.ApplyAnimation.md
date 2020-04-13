@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeRange.ApplyAnimation method (PowerPoint)
 
-Applies animation to a  **ShapeRange** object.
+Applies animation to a **ShapeRange** object.
 
 
 ## Syntax

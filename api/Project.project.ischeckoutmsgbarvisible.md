@@ -19,7 +19,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The checkout message bar is the yellow information bar near the top of the Project window that shows  **READ-ONLY This project was opened in read-only mode**, and contains a  **Check Out** button. The **IsCheckoutMsgBarVisible** property is **True** if the checkout message bar is visible; otherwise, **False**.
+The checkout message bar is the yellow information bar near the top of the Project window that shows  **READ-ONLY This project was opened in read-only mode**, and contains a **Check Out** button. The **IsCheckoutMsgBarVisible** property is **True** if the checkout message bar is visible; otherwise, **False**.
 
 
 ## Example

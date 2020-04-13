@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[DataLabels](PowerPoint.DataLabels.md
 
 ## Return value
 
-A  **[DataLabel](PowerPoint.DataLabel.md)** object contained by the collection.
+A **[DataLabel](PowerPoint.DataLabel.md)** object contained by the collection.
 
 
 ## Example

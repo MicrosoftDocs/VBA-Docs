@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[Attachment](Outlook.Attachment.md)'
 
 ## Return value
 
-Returns a  **String** that represents the full path to the temporary attachment file.
+Returns a **String** that represents the full path to the temporary attachment file.
 
 
 ## Remarks

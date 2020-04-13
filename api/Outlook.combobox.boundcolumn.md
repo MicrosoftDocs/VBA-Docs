@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ComboBox.BoundColumn Property (Outlook Forms Script)
 
-Returns or sets a  **Variant** that identifies the source of data in a multicolumn **[ComboBox](Outlook.combobox.md)**. Read/write.
+Returns or sets a **Variant** that identifies the source of data in a multicolumn **[ComboBox](Outlook.combobox.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**BoundColumn**
 
-_expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a **ComboBox** object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.Email1EntryID property (Outlook)
 
-Returns a  **String** representing the entry ID of the first email address for the contact. Read-only.
+Returns a **String** representing the entry ID of the first email address for the contact. Read-only.
 
 
 ## Syntax

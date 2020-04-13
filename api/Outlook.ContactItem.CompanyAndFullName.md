@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.CompanyAndFullName property (Outlook)
 
-Returns a  **String** representing the concatenated company name and full name for the contact. Read-only.
+Returns a **String** representing the concatenated company name and full name for the contact. Read-only.
 
 
 ## Syntax

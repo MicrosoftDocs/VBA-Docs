@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MeetingItem.ExpiryTime property (Outlook)
 
-Returns or sets a  **Date** indicating the date and time at which the item becomes invalid and can be deleted. Read/write.
+Returns or sets a **Date** indicating the date and time at which the item becomes invalid and can be deleted. Read/write.
 
 
 ## Syntax

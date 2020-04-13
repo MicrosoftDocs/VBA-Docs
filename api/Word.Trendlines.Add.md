@@ -44,7 +44,7 @@ _expression_ A variable that represents a '[Trendlines](Word.Trendlines.md)' obj
 
 ## Return value
 
-A  **[Trendline](Word.Trendline.md)** object that represents the new trendline.
+A **[Trendline](Word.Trendline.md)** object that represents the new trendline.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # JournalItem.Duration property (Outlook)
 
-Returns or sets a  **Long** indicating the duration (in minutes) of the **[JournalItem](Outlook.JournalItem.md)** Read/write.
+Returns or sets a **Long** indicating the duration (in minutes) of the **[JournalItem](Outlook.JournalItem.md)** Read/write.
 
 
 ## Syntax

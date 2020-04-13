@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # TextRange2.PasteSpecial method (PowerPoint)
 
-Replaces the text range with the contents of the Clipboard in the format specified. If the paste succeeds, this method returns a  **TextRange2** object including the text range that was pasted.
+Replaces the text range with the contents of the Clipboard in the format specified. If the paste succeeds, this method returns a **TextRange2** object including the text range that was pasted.
 
 
 ## Syntax

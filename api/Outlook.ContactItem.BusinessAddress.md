@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.BusinessAddress property (Outlook)
 
-Returns or sets a  **String** representing the whole, unparsed business address for the contact. Read/write.
+Returns or sets a **String** representing the whole, unparsed business address for the contact. Read/write.
 
 
 ## Syntax

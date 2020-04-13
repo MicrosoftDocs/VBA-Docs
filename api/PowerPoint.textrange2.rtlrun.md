@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # TextRange2.RtlRun method (PowerPoint)
 
-Returns a  **TextRange2** object that represents the specified subset of right-to-left text runs. A text run consists of a range of characters that share the same font attributes.
+Returns a **TextRange2** object that represents the specified subset of right-to-left text runs. A text run consists of a range of characters that share the same font attributes.
 
 
 ## Syntax

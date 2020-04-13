@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # EffectInformation.SoundEffect property (PowerPoint)
 
-Returns a  **SoundEffect** object that represents the sound to be played during the transition to the specified slide. Read-only.
+Returns a **SoundEffect** object that represents the sound to be played during the transition to the specified slide. Read-only.
 
 
 ## Syntax

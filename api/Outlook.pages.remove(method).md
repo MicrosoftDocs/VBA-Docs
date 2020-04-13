@@ -16,7 +16,7 @@ Removes a member from a collection.
 
 _expression_.**Remove**(**_varg_**)
 
-_expression_ A variable that represents a  **Pages** object.
+_expression_ A variable that represents a **Pages** object.
 
 
 ## Parameters

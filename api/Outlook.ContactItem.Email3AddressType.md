@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.Email3AddressType property (Outlook)
 
-Returns or sets a  **String** representing the address type (such as EX or SMTP) of the third email entry for the contact. Read/write.
+Returns or sets a **String** representing the address type (such as EX or SMTP) of the third email entry for the contact. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CalendarView.SelectedEndTime property (Outlook)
 
-Returns a  **Date** that represents the end time of a selection in the **[CalendarView](Outlook.CalendarView.md)** object. Read-only.
+Returns a **Date** that represents the end time of a selection in the **[CalendarView](Outlook.CalendarView.md)** object. Read-only.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ If the selection in the calendar view is a time range and is not an item,  **Sel
 
 If one or more items are selected in the calendar view,  **SelectedEndTime** returns a **Date** value equal to the end time of the first item in the selection of the explorer that displays the calendar view. That selection is specified by the **[Selection](Outlook.Explorer.Selection.md)** property of the **[Explorer](Outlook.Explorer.md)** object.
 
-To use this property on a  **CalendarView** object, obtain the **CalendarView** object from the **[CurrentView](Outlook.Explorer.CurrentView.md)** property of the active **[Explorer](Outlook.Explorer.md)** object (which can be returned by the **[Application.ActiveExplorer](Outlook.Application.ActiveExplorer.md)** method). There is a known issue with using this property on an **CalendarView** object obtained otherwise - using the **[CurrentView](Outlook.Folder.CurrentView.md)** property of the current **[Folder](Outlook.Folder.md)** object (returned by the **[Application.ActiveExplorer.CurrentFolder](Outlook.Explorer.CurrentFolder.md)** property).
+To use this property on a **CalendarView** object, obtain the **CalendarView** object from the **[CurrentView](Outlook.Explorer.CurrentView.md)** property of the active **[Explorer](Outlook.Explorer.md)** object (which can be returned by the **[Application.ActiveExplorer](Outlook.Application.ActiveExplorer.md)** method). There is a known issue with using this property on an **CalendarView** object obtained otherwise - using the **[CurrentView](Outlook.Folder.CurrentView.md)** property of the current **[Folder](Outlook.Folder.md)** object (returned by the **[Application.ActiveExplorer.CurrentFolder](Outlook.Explorer.CurrentFolder.md)** property).
 
 
 ## Example

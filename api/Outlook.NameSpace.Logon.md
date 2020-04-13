@@ -30,8 +30,8 @@ _expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Profile_|Optional| **Variant**|The MAPI profile name, as a  **String**, to use for the session. Specify an empty string to use the default profile for the current session.|
-| _Password_|Optional| **Variant**|The password (if any), as a  **String**, associated with the profile. This parameter exists only for backwards compatibility and for security reasons, it is not recommended for use. Microsoft Outlook will prompt the user to specify a password in most system configurations. This is your logon password and should not be confused with PST passwords.|
+| _Profile_|Optional| **Variant**|The MAPI profile name, as a **String**, to use for the session. Specify an empty string to use the default profile for the current session.|
+| _Password_|Optional| **Variant**|The password (if any), as a **String**, associated with the profile. This parameter exists only for backwards compatibility and for security reasons, it is not recommended for use. Microsoft Outlook will prompt the user to specify a password in most system configurations. This is your logon password and should not be confused with PST passwords.|
 | _ShowDialog_|Optional| **Variant**| **True** to display the MAPI logon dialog box to allow the user to select a MAPI profile.|
 | _NewSession_|Optional| **Variant**| **True** to create a new Microsoft Outlook session. Since multiple sessions cannot be created in Outlook, this parameter should be specified as True only if a session does not already exist.|
 

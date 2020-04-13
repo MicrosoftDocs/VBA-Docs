@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CardView.ShowEmptyFields property (Outlook)
 
-Returns or sets a  **Boolean** value that determines if empty fields are displayed for cards in the **[CardView](Outlook.CardView.md)** object. Read/write.
+Returns or sets a **Boolean** value that determines if empty fields are displayed for cards in the **[CardView](Outlook.CardView.md)** object. Read/write.
 
 
 ## Syntax

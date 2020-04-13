@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.OtherAddressCountry property (Outlook)
 
-Returns or sets a  **String** representing the country/region portion of the other address for the contact. Read/write.
+Returns or sets a **String** representing the country/region portion of the other address for the contact. Read/write.
 
 
 ## Syntax

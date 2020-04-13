@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CalendarView.DisplayedDates property (Outlook)
 
-Returns a  **Variant** array containing strings that represent the days displayed in a **[CalendarView](Outlook.CalendarView.md)** object. Read-only.
+Returns a **Variant** array containing strings that represent the days displayed in a **[CalendarView](Outlook.CalendarView.md)** object. Read-only.
 
 
 ## Syntax

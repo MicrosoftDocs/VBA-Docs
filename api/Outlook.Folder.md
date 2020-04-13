@@ -19,7 +19,7 @@ Represents an Outlook folder.
 
 ## Remarks
 
-A  **Folder** object can contain other **Folder** objects, as well as Outlook items. Use the **Folders** property of a **[NameSpace](Outlook.NameSpace.md)** object or another **Folder** object to return the set of folders in a **NameSpace** or under a folder. You can navigate nested folders by starting from a top-level folder, say the Inbox, and using a combination of the **[Folder.Folders](Outlook.Folder.Folders.md)** property, which returns the set of folders underneath a **Folder** object in the hierarchy, and the **[Folders.Item](Outlook.Folders.Item.md)** method, which returns a folder within the **[Folders](Outlook.Folders.md)** collection.
+A **Folder** object can contain other **Folder** objects, as well as Outlook items. Use the **Folders** property of a **[NameSpace](Outlook.NameSpace.md)** object or another **Folder** object to return the set of folders in a **NameSpace** or under a folder. You can navigate nested folders by starting from a top-level folder, say the Inbox, and using a combination of the **[Folder.Folders](Outlook.Folder.Folders.md)** property, which returns the set of folders underneath a **Folder** object in the hierarchy, and the **[Folders.Item](Outlook.Folders.Item.md)** method, which returns a folder within the **[Folders](Outlook.Folders.md)** collection.
 
 There is a set of folders within an Outlook data store that supports the default functionality of Outlook. Use  **[NameSpace.GetDefaultFolder](Outlook.NameSpace.GetDefaultFolder.md)**, specifying an _index_ that is one of the constants in the **[OlDefaultFolders](Outlook.OlDefaultFolders.md)** enumeration to return one of the default Outlook folders in the Outlook **NameSpace** object.
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Attachment.Position property (Outlook)
 
-Returns or sets a  **Long** indicating the position of the attachment within the body of the item. Read/write.
+Returns or sets a **Long** indicating the position of the attachment within the body of the item. Read/write.
 
 
 ## Syntax

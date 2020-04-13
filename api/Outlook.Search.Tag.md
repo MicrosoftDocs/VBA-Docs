@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Search.Tag property (Outlook)
 
-Returns a  **String** specifying the name of the current search. The **Tag** property is used to identify a specific search. Read-only.
+Returns a **String** specifying the name of the current search. The **Tag** property is used to identify a specific search. Read-only.
 
 
 ## Syntax

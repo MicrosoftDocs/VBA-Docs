@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ChartGroup](Word.ChartGroup.md)** o
 
 ## Return value
 
-A  **[SeriesCollection](Word.SeriesCollection.md)** object that represents all the series in the chart group.
+A **[SeriesCollection](Word.SeriesCollection.md)** object that represents all the series in the chart group.
 
 
 ## Example

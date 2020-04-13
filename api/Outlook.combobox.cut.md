@@ -19,7 +19,7 @@ Removes selected information from an object and transfers it to the Clipboard.
 
 _expression_.**Cut**
 
-_expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a **ComboBox** object.
 
 
 ## Remarks

@@ -26,7 +26,7 @@ Use the [Ranges](PowerPoint.PrintOptions.Ranges.md)property to return the  **Pri
 ActivePresentation.PrintOptions.Ranges.ClearAll
 ```
 
-Use the [Add](PowerPoint.PrintRanges.Add.md)method to create a  **PrintRange** object and add it to the **PrintRanges** collection. The following example defines three print ranges that represent slide 1, slides 3 through 5, and slides 8 and 9 in the active presentation and then prints the slides in these ranges.
+Use the [Add](PowerPoint.PrintRanges.Add.md)method to create a **PrintRange** object and add it to the **PrintRanges** collection. The following example defines three print ranges that represent slide 1, slides 3 through 5, and slides 8 and 9 in the active presentation and then prints the slides in these ranges.
 
 
 

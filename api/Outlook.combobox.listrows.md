@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ComboBox.ListRows Property (Outlook Forms Script)
 
-Returns or sets a  **Long** that specifies the maximum number of rows to display in the list. Read/write.
+Returns or sets a **Long** that specifies the maximum number of rows to display in the list. Read/write.
 
 
 ## Syntax
 
 _expression_.**ListRows**
 
-_expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a **ComboBox** object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # JournalModule.Name property (Outlook)
 
-Returns a  **String** value that represents the localized display name for the **[JournalModule](Outlook.JournalModule.md)** object. Read-only.
+Returns a **String** value that represents the localized display name for the **[JournalModule](Outlook.JournalModule.md)** object. Read-only.
 
 
 ## Syntax

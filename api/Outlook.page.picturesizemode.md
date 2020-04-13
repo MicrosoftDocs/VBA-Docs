@@ -16,7 +16,7 @@ Returns or sets an **Integer** that specifies how to display the background pict
 
 _expression_.**PictureSizeMode**
 
-_expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a **Page** object.
 
 
 ## Remarks

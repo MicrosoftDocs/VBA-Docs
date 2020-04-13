@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shapes.BuildFreeform method (Project)
-Creates a  **FreeformBuilder** object that represents a new freeform drawing. The freeform drawing can be converted into a **Shape** object.
+Creates a **FreeformBuilder** object that represents a new freeform drawing. The freeform drawing can be converted into a **Shape** object.
 
 ## Syntax
 

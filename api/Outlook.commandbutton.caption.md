@@ -9,14 +9,14 @@ localization_priority: Normal
 
 # CommandButton.Caption Property (Outlook Forms Script)
 
-Returns or sets a  **String** that appears on the button to describe what it does. Read/write.
+Returns or sets a **String** that appears on the button to describe what it does. Read/write.
 
 
 ## Syntax
 
 _expression_.**Caption**
 
-_expression_ A variable that represents a  **CommandButton** object.
+_expression_ A variable that represents a **CommandButton** object.
 
 
 ## Remarks

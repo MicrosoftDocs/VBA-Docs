@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Broadcast.PresenterServiceUrl property (PowerPoint)
 
-If a broadcast is in progress, returns a  **String** that represents the URL of the presenter service hosting the broadcast. Read-only.
+If a broadcast is in progress, returns a **String** that represents the URL of the presenter service hosting the broadcast. Read-only.
 
 
 ## Syntax

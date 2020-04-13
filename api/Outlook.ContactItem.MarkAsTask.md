@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.MarkAsTask method (Outlook)
 
-Marks a  **[ContactItem](Outlook.ContactItem.md)** object as a task and assigns a task interval for the object.
+Marks a **[ContactItem](Outlook.ContactItem.md)** object as a task and assigns a task interval for the object.
 
 
 ## Syntax

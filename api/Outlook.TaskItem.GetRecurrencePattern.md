@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskItem.GetRecurrencePattern method (Outlook)
 
-Returns a  **[RecurrencePattern](Outlook.RecurrencePattern.md)** object that represents the recurrence attributes of a task. If there is no existing recurrence pattern, a new empty **RecurrencePattern** object is returned.
+Returns a **[RecurrencePattern](Outlook.RecurrencePattern.md)** object that represents the recurrence attributes of a task. If there is no existing recurrence pattern, a new empty **RecurrencePattern** object is returned.
 
 
 ## Syntax

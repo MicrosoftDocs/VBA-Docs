@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormDescription.MessageClass property (Outlook)
 
-Returns a  **String** representing the message class for the **[FormDescription](Outlook.FormDescription.md)** object. Read-only.
+Returns a **String** representing the message class for the **[FormDescription](Outlook.FormDescription.md)** object. Read-only.
 
 
 ## Syntax

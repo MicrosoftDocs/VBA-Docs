@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[ChartGroup](PowerPoint.ChartGroup.m
 
 ## Return value
 
-A  **[SeriesCollection](PowerPoint.SeriesCollection.md)** object that represents all the series in the chart group.
+A **[SeriesCollection](PowerPoint.SeriesCollection.md)** object that represents all the series in the chart group.
 
 
 ## Example

@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[Points](PowerPoint.Points.md)' objec
 
 ## Return value
 
-A  **[Point](PowerPoint.Point.md)** object that the collection contains.
+A **[Point](PowerPoint.Point.md)** object that the collection contains.
 
 
 ## Example

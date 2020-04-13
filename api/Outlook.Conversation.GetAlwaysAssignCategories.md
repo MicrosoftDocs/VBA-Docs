@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Conversation.GetAlwaysAssignCategories method (Outlook)
 
-Returns a  **String** that indicates the category or categories that are assigned to all new items that arrive in the conversation.
+Returns a **String** that indicates the category or categories that are assigned to all new items that arrive in the conversation.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a '[Conversation](Outlook.Conversation.m
 
 ## Return value
 
-A  **String** that contains one or more categories that are assigned to items in the conversation.
+A **String** that contains one or more categories that are assigned to items in the conversation.
 
 
 ## Remarks

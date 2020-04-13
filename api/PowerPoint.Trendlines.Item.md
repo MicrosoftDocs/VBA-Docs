@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[Trendlines](PowerPoint.Trendlines.md
 
 ## Return value
 
-A  **[Trendline](PowerPoint.Trendline.md)** object that the collection contains.
+A **[Trendline](PowerPoint.Trendline.md)** object that the collection contains.
 
 
 ## Example

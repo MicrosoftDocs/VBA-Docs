@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # TextBox.CurLine Property (Outlook Forms Script)
 
-Returns or sets a  **Long** that represents the current line of a control. Read/write.
+Returns or sets a **Long** that represents the current line of a control. Read/write.
 
 
 ## Syntax
 
 _expression_.**CurLine**
 
-_expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a **TextBox** object.
 
 
 ## Remarks

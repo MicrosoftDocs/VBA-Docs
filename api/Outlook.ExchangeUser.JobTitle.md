@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeUser.JobTitle property (Outlook)
 
-Returns a  **String** representing the job title of the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
+Returns a **String** representing the job title of the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 
 
 ## Syntax

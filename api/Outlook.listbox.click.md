@@ -16,7 +16,7 @@ Occurs when the user definitively selects a value for the control that has more 
 
 _expression_.**Click**
 
-_expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a **ListBox** object.
 
 
 ## Remarks
@@ -38,7 +38,7 @@ The **Click** event is not initiated when **Value** is set to **Null**.
 
 Left-clicking changes the value of a control, thus it initiates the  **Click** event. Right-clicking does not change the value of the control, so it does not initiate the **Click** event.
 
-If you bind a  **ListBox** to a field, then the **Click** event does not fire. You need to use the **PropertyChange** or **CustomPropertyChange** event to detect the change via code, as in the following code sample:
+If you bind a **ListBox** to a field, then the **Click** event does not fire. You need to use the **PropertyChange** or **CustomPropertyChange** event to detect the change via code, as in the following code sample:
 
 
 

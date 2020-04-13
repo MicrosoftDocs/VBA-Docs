@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Store.GetRootFolder method (Outlook)
 
-Returns a  **[Folder](Outlook.Folder.md)** object representing the root-level folder of the **[Store](Outlook.Store.md)**. Read-only.
+Returns a **[Folder](Outlook.Folder.md)** object representing the root-level folder of the **[Store](Outlook.Store.md)**. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Store](Outlook.Store.md) object.
 
 ## Return value
 
-A  **Folder** object that represents the folder at the root of that **Store**.
+A **Folder** object that represents the folder at the root of that **Store**.
 
 
 ## Remarks

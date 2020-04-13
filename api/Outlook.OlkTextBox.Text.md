@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlkTextBox.Text property (Outlook)
 
-Returns or sets a  **String** that is the text displayed in the control. Read/write.
+Returns or sets a **String** that is the text displayed in the control. Read/write.
 
 
 ## Syntax

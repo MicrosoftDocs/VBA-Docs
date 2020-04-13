@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PropertyEffect.To property (PowerPoint)
 
-Sets or returns a  **Variant** that represents the ending value of an object's property. Read/write.
+Sets or returns a **Variant** that represents the ending value of an object's property. Read/write.
 
 
 ## Syntax

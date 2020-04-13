@@ -16,7 +16,7 @@ Returns or sets an **Integer** that specifies the background style for an object
 
 _expression_.**BackStyle**
 
-_expression_ A variable that represents a  **ToggleButton** object.
+_expression_ A variable that represents a **ToggleButton** object.
 
 
 ## Remarks

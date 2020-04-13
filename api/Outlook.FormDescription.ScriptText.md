@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormDescription.ScriptText property (Outlook)
 
-Returns a  **String** containing all the VBScript code in the form's Script Editor. Read-only.
+Returns a **String** containing all the VBScript code in the form's Script Editor. Read-only.
 
 
 ## Syntax

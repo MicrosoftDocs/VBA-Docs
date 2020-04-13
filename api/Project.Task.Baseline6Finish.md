@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Task.Baseline6Finish property (Project)
 
-Gets or sets the baseline finish date of a  **Task**. Read/write **Variant**.
+Gets or sets the baseline finish date of a **Task**. Read/write **Variant**.
 
 
 ## Syntax

@@ -19,9 +19,9 @@ Combines the features of a [ListBox](Outlook.ListBox.md) and a [TextBox](Outlook
 | [Clear](Outlook.combobox.clear.md)|Removes all entries in the list in a **ComboBox**.|
 | [Copy](Outlook.combobox.copy.md)|Copies the contents of an object to the Clipboard.|
 | [Cut](Outlook.combobox.cut.md)|Removes selected information from an object and transfers it to the Clipboard.|
-| [DropDown](Outlook.combobox.dropdown.md)|Displays the list portion of a  **ComboBox**.|
+| [DropDown](Outlook.combobox.dropdown.md)|Displays the list portion of a **ComboBox**.|
 | [Paste](Outlook.combobox.paste.md)|Transfers the contents of the Clipboard to an object.|
-| [RemoveItem](Outlook.combobox.removeitem.md)|Removes a row from the list in a  **ComboBox**.|
+| [RemoveItem](Outlook.combobox.removeitem.md)|Removes a row from the list in a **ComboBox**.|
 
 ## Properties
 

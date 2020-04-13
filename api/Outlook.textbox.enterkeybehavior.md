@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # TextBox.EnterKeyBehavior Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that defines the effect of pressing **ENTER** in a **[TextBox](Outlook.textbox.md)**. Read/write.
+Returns or sets a **Boolean** that defines the effect of pressing **ENTER** in a **[TextBox](Outlook.textbox.md)**. Read/write.
 
 
 ## Syntax
 
 _expression_.**EnterKeyBehavior**
 
-_expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a **TextBox** object.
 
 
 ## Remarks

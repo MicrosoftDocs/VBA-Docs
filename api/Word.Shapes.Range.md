@@ -39,7 +39,7 @@ ShapeRange
 
 ## Remarks
 
-A  **Shape** object always appears on the same page as the range it is anchored to.
+A **Shape** object always appears on the same page as the range it is anchored to.
 
 
 > [!NOTE] 

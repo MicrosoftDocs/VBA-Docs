@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Table.Index property (Project)
 
-Gets the index of a  **Table** object in the **Tables** containing object. Read-only **Long**.
+Gets the index of a **Table** object in the **Tables** containing object. Read-only **Long**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CardView.ViewFields property (Outlook)
 
-Returns a  **[ViewFields](Outlook.ViewFields.md)** object that represents the set of fields with which Outlook items are displayed in the **[CardView](Outlook.CardView.md)** object. Read-only.
+Returns a **[ViewFields](Outlook.ViewFields.md)** object that represents the set of fields with which Outlook items are displayed in the **[CardView](Outlook.CardView.md)** object. Read-only.
 
 
 ## Syntax

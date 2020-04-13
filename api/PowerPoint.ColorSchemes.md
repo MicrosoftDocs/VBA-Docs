@@ -41,7 +41,7 @@ With ActivePresentation.ColorSchemes.Add
 End With
 ```
 
-Set the [ColorScheme](PowerPoint.Slide.ColorScheme.md)property of a  **Slide**, **SlideRange**, or **Master** object to return the color scheme for one slide, a set of slides, or a master, respectively. The following example sets the color scheme for all the slides in the active presentation to the third color scheme in the presentation.
+Set the [ColorScheme](PowerPoint.Slide.ColorScheme.md)property of a **Slide**, **SlideRange**, or **Master** object to return the color scheme for one slide, a set of slides, or a master, respectively. The following example sets the color scheme for all the slides in the active presentation to the third color scheme in the presentation.
 
 
 

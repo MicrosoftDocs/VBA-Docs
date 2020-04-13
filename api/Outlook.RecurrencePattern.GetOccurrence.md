@@ -30,7 +30,7 @@ _expression_ A variable that represents a [RecurrencePattern](Outlook.Recurrence
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _StartDate_|Required| **Date**|A  **Date** value that represents local time.|
+| _StartDate_|Required| **Date**|A **Date** value that represents local time.|
 
 ## Return value
 

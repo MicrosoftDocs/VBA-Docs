@@ -11,7 +11,7 @@ localization_priority: Normal
 
 
 # PeopleView.Language property (Outlook)
-Returns or sets a  **String** value that represents the language setting for the view. Read/write.
+Returns or sets a **String** value that represents the language setting for the view. Read/write.
 
 ## Version information
 

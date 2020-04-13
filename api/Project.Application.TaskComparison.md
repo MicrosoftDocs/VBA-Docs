@@ -35,7 +35,7 @@ Use the **CompareProjectVersions** method to create a project comparison report,
 
 
 
-After you run a  **Compare Projects** command, Project displays the **COMPARE PROJECTS** ribbon. The **TaskComparison** method is equivalent to the **Task Comparison** command on the **COMPARE PROJECTS** ribbon.
+After you run a **Compare Projects** command, Project displays the **COMPARE PROJECTS** ribbon. The **TaskComparison** method is equivalent to the **Task Comparison** command on the **COMPARE PROJECTS** ribbon.
 
 To compare resources in a comparison report, use the **[ResourceComparison](Project.Application.ResourceComparison.md)** method.
 

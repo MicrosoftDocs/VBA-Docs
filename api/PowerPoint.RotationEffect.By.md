@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RotationEffect.By property (PowerPoint)
 
-Sets or returns a  **Single** that represents the rotation of an object by the specified number of degrees; for example, a value of 180 means to rotate the object by 180 degrees. Read/write.
+Sets or returns a **Single** that represents the rotation of an object by the specified number of degrees; for example, a value of 180 means to rotate the object by 180 degrees. Read/write.
 
 
 ## Syntax

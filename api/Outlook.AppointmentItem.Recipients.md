@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AppointmentItem.Recipients property (Outlook)
 
-Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents all the recipients for the Outlook item. Read-only.
+Returns a **[Recipients](Outlook.Recipients.md)** collection that represents all the recipients for the Outlook item. Read-only.
 
 
 ## Syntax

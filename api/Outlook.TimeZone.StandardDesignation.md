@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimeZone.StandardDesignation property (Outlook)
 
-Returns a  **String** that identifies the time zone in standard time. Read-only.
+Returns a **String** that identifies the time zone in standard time. Read-only.
 
 
 ## Syntax

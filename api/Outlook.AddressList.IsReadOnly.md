@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AddressList.IsReadOnly property (Outlook)
 
-Returns a  **Boolean** value that indicates that the **[AddressList](Outlook.AddressList.md)** object cannot be modified. Read-only.
+Returns a **Boolean** value that indicates that the **[AddressList](Outlook.AddressList.md)** object cannot be modified. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.LastFirstNoSpaceCompany property (Outlook)
 
-Returns a  **String** representing the concatenated last name, first name, and middle name of the contact with no space between the last name and the first name. Read-only.
+Returns a **String** representing the concatenated last name, first name, and middle name of the contact with no space between the last name and the first name. Read-only.
 
 
 ## Syntax

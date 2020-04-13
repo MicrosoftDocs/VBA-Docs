@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MarkAsTaskRuleAction.FlagTo property (Outlook)
 
-Returns or sets a  **String** that represents the label of the flag for the message. Read/write
+Returns or sets a **String** that represents the label of the flag for the message. Read/write
 
 
 ## Syntax

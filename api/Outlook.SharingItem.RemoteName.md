@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharingItem.RemoteName property (Outlook)
 
-Returns a  **String** that represents the name of the sharing context for a **[SharingItem](Outlook.SharingItem.md)** object. Read-only.
+Returns a **String** that represents the name of the sharing context for a **[SharingItem](Outlook.SharingItem.md)** object. Read-only.
 
 
 ## Syntax

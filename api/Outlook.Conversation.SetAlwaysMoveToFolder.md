@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Conversation.SetAlwaysMoveToFolder method (Outlook)
 
-Sets a  **[Folder](Outlook.Folder.md)** object that indicates the folder to which all existing conversation items and new items that arrive in the conversation are always moved.
+Sets a **[Folder](Outlook.Folder.md)** object that indicates the folder to which all existing conversation items and new items that arrive in the conversation are always moved.
 
 
 ## Syntax

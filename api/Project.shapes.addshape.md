@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shapes.AddShape method (Project)
-Adds a shape of the specified AutoShape type to a report, and returns a  **Shape** object that represents the new shape.
+Adds a shape of the specified AutoShape type to a report, and returns a **Shape** object that represents the new shape.
 
 ## Syntax
 

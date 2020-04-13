@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # TaskDependency.Index property (Project)
 
-Gets the index of a  **TaskDependency** object in the **TaskDependencies** containing object. Read-only **Long**.
+Gets the index of a **TaskDependency** object in the **TaskDependencies** containing object. Read-only **Long**.
 
 
 ## Syntax

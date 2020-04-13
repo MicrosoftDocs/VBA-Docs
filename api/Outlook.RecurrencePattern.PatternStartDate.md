@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RecurrencePattern.PatternStartDate property (Outlook)
 
-Returns or sets a  **Date** indicating the start date for the recurrence pattern. Read/write.
+Returns or sets a **Date** indicating the start date for the recurrence pattern. Read/write.
 
 
 ## Syntax

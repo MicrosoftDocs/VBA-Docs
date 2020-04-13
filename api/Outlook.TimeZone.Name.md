@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TimeZone.Name property (Outlook)
 
-Returns a  **String** that represents the identifier of the time zone. Read-only.
+Returns a **String** that represents the identifier of the time zone. Read-only.
 
 
 ## Syntax
