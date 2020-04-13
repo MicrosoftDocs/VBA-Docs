@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.IsFunctionalitySupported event (Project)
 
-Occurs after the  **LoadWebBrowserControl** method is called with the third parameter ( _FunctionalityName_) set.
+Occurs after the **LoadWebBrowserControl** method is called with the third parameter ( _FunctionalityName_) set.
 
 
 ## Syntax

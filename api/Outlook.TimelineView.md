@@ -19,11 +19,11 @@ Represents a view that displays Outlook items in a timeline.
 
 ## Remarks
 
-The  **TimelineView** object, derived from the **[View](Outlook.View.md)** object, allows you to create customizable views that allow you to display Outlook items within a timeline.
+The **TimelineView** object, derived from the **[View](Outlook.View.md)** object, allows you to create customizable views that allow you to display Outlook items within a timeline.
 
 Outlook provides several built-in  **TimelineView** objects, and you can also create custom **TimelineView** objects. Use the **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection to add a new **TimelineView** to a **[Folder](Outlook.Folder.md)** object. Use the **[Standard](Outlook.TimelineView.Standard.md)** property to determine if an existing **TimelineView** object is built-in or custom.
 
-The  **TimelineView** object supports several different view modes, depending on the desired layout and time period in which to display Outlook items. Use the **[TimelineViewMode](Outlook.TimelineView.TimelineViewMode.md)** property to set the view mode, the **[StartField](Outlook.TimelineView.StartField.md)** property to specify the Outlook item property that contains the start date, and the **[EndField](Outlook.TimelineView.EndField.md)** property to specify the Outlook item property that contains the end date for Outlook items to be displayed.
+The **TimelineView** object supports several different view modes, depending on the desired layout and time period in which to display Outlook items. Use the **[TimelineViewMode](Outlook.TimelineView.TimelineViewMode.md)** property to set the view mode, the **[StartField](Outlook.TimelineView.StartField.md)** property to specify the Outlook item property that contains the start date, and the **[EndField](Outlook.TimelineView.EndField.md)** property to specify the Outlook item property that contains the end date for Outlook items to be displayed.
 
 You can configure the appearance of the  **TimelineView**, depending on the view mode. Use the **[ShowWeekNumbers](Outlook.TimelineView.ShowWeekNumbers.md)** property to indicate whether week numbers are displayed in the time scale for the view. Use the **[UpperScaleFont](Outlook.TimelineView.UpperScaleFont.md)** and **[LowerScaleFont](Outlook.TimelineView.LowerScaleFont.md)** properties to specify the font used when displaying, respectively, the upper and lower portions of the time scale for the view.
 

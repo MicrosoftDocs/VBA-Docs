@@ -32,11 +32,11 @@ _expression_ A variable that represents a [TaskRequestItem](Outlook.TaskRequestI
 
 ## Remarks
 
-The  **ReadComplete** event occurs after the [BeforeRead](Outlook.TaskRequestItem.BeforeRead.md) event and before the [Read](Outlook.TaskRequestItem.Read.md) event for the item.
+The **ReadComplete** event occurs after the [BeforeRead](Outlook.TaskRequestItem.BeforeRead.md) event and before the [Read](Outlook.TaskRequestItem.Read.md) event for the item.
 
 To determine when the item is unloaded from memory, use the [Unload](Outlook.TaskRequestItem.Unload.md) event.
 
-The  **ReadComplete** event corresponds to the Exchange Client Extensions (ECE) event **IExchExtMessageEvents::OnReadComplete**.
+The **ReadComplete** event corresponds to the Exchange Client Extensions (ECE) event **IExchExtMessageEvents::OnReadComplete**.
 
 
 ## See also

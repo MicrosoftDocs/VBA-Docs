@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shapes.SelectAll method (Project)
-Selects all shapes in the  **Shapes** collection.
+Selects all shapes in the **Shapes** collection.
 
 ## Syntax
 

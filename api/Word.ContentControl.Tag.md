@@ -26,7 +26,7 @@ _expression_.**Tag**
 
 ## Remarks
 
-The  **Tag** property is different from the **Title** property in that a tag is never displayed while a user edits a document. Instead, developers can use it to store a value for programmatic manipulation while the document is opened.
+The **Tag** property is different from the **Title** property in that a tag is never displayed while a user edits a document. Instead, developers can use it to store a value for programmatic manipulation while the document is opened.
 
 
 ## See also

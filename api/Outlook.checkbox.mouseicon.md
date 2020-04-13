@@ -24,7 +24,7 @@ _expression_ A variable that represents a  **CheckBox** object.
 
 ## Remarks
 
-The  **MouseIcon** property is valid when the **[MousePointer](Outlook.checkbox.mousepointer.md)** property is set to 99. The mouse icon of an object is the image that appears when the user moves the mouse across that object.
+The **MouseIcon** property is valid when the **[MousePointer](Outlook.checkbox.mousepointer.md)** property is set to 99. The mouse icon of an object is the image that appears when the user moves the mouse across that object.
 
 To assign an image for the mouse pointer, you can either assign a picture to the  **MouseIcon** property or load a picture from a file using the **LoadPicture** function in Visual Basic Scripting Edition.
 

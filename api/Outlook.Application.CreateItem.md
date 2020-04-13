@@ -39,7 +39,7 @@ An  **Object** value that represents the new Outlook item.
 
 ## Remarks
 
-The  **CreateItem** method can only create default Outlook items. To create new items using a custom form, use the **[Add](Outlook.Items.Add.md)** method on the **[Items](Outlook.Items.md)** collection.
+The **CreateItem** method can only create default Outlook items. To create new items using a custom form, use the **[Add](Outlook.Items.Add.md)** method on the **[Items](Outlook.Items.md)** collection.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Row object (PowerPoint)
 
-Represents a row in a table. The  **Row** object is a member of the **[Rows](PowerPoint.Rows.md)** collection. The **Rows** collection includes all the rows in the specified table.
+Represents a row in a table. The **Row** object is a member of the **[Rows](PowerPoint.Rows.md)** collection. The **Rows** collection includes all the rows in the specified table.
 
 
 ## Example

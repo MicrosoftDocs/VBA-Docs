@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[TableStyle](Word.TableStyle.md)' obj
 
 ## Example
 
-This example sets the left indent of the first paragraph in the active document to 1 inch. The  **InchesToPoints** method is used to convert inches to points.
+This example sets the left indent of the first paragraph in the active document to 1 inch. The **InchesToPoints** method is used to convert inches to points.
 
 
 ```vb

@@ -23,7 +23,7 @@ _expression_ A variable that represents a  **TextBox** object.
 
  **True** indicates that the text box resizes itself to display only complete items (default). **False** indicates that the text box does not resize itself even if the item is too tall to display completely.
 
-The  **IntegralHeight** property relates to the height of the text box, just as the **[AutoSize](Outlook.textbox.autosize.md)** property relates to the width of the text box.
+The **IntegralHeight** property relates to the height of the text box, just as the **[AutoSize](Outlook.textbox.autosize.md)** property relates to the width of the text box.
 
 If  **IntegralHeight** is **True**, the text box automatically resizes when necessary to show full rows. If  **False**, the text box remains a fixed size; if items are taller than the available space in the text box, the entire item is not shown.
 

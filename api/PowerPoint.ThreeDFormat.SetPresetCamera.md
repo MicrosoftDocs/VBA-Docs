@@ -30,7 +30,7 @@ _expression_ A variable that represents a [ThreeDFormat](PowerPoint.ThreeDFormat
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _PresetCamera_|Required|**[MsoLightRigType](Office.MsoLightRigType.md)**|The  **ThreeDFormat** object's effects camera type and rotation.|
+| _PresetCamera_|Required|**[MsoLightRigType](Office.MsoLightRigType.md)**|The **ThreeDFormat** object's effects camera type and rotation.|
 
 ## See also
 

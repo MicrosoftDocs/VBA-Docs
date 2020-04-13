@@ -20,8 +20,8 @@ Specifies the type of view that is displayed by an **[OutlookBarGroup](Outlook.O
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **olLargeIcon**|0|The  **Outlook Bar** group displays large icons.|
-| **olSmallIcon**|1|The  **Outlook Bar** group displays small icons.|
+| **olLargeIcon**|0|The **Outlook Bar** group displays large icons.|
+| **olSmallIcon**|1|The **Outlook Bar** group displays small icons.|
 
 ## Remarks
 

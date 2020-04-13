@@ -19,7 +19,7 @@ Represents a collection of recognized functions. Use the **OMathRecognizedFuncti
 
 ## Remarks
 
-The  **OMathRecognizedFunctions** collection is a collection of the names that are contained in the **Recognized Functions** dialog box.
+The **OMathRecognizedFunctions** collection is a collection of the names that are contained in the **Recognized Functions** dialog box.
 
 
 ## See also

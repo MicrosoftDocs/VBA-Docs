@@ -25,7 +25,7 @@ _expression_ A variable that represents a  **ToggleButton** object.
 
 Use the  **Enabled** property to enable and disable controls. A disabled control appears dimmed, while an enabled control does not. Also, if a control displays a bitmap, the bitmap is dimmed whenever the control is dimmed.
 
-The  **Enabled** and **[Locked](Outlook.togglebutton.locked.md)** properties work together to achieve the following effects:
+The **Enabled** and **[Locked](Outlook.togglebutton.locked.md)** properties work together to achieve the following effects:
 
 
 - If  **Enabled** and **Locked** are both **True**, the control can receive focus and appears normally (not dimmed) in the form. The user can copy, but not edit, data in the control.

@@ -23,6 +23,6 @@ _expression_ A variable that represents a [CodeMaskLevel](./Project.CodeMaskLeve
 
 ## Remarks
 
-The  **Separator** property can be one of the following characters: ".", "-", "+", or "/".
+The **Separator** property can be one of the following characters: ".", "-", "+", or "/".
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

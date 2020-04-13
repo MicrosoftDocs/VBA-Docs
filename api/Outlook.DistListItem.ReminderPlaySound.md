@@ -26,7 +26,7 @@ _expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md
 
 ## Remarks
 
-The  **ReminderPlaySound** property must be set in order to validate the **[ReminderSoundFile](Outlook.DistListItem.ReminderSoundFile.md)** property.
+The **ReminderPlaySound** property must be set in order to validate the **[ReminderSoundFile](Outlook.DistListItem.ReminderSoundFile.md)** property.
 
 
 ## See also

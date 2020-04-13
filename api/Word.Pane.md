@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Pane object (Word)
 
-Represents a window pane. The  **Pane** object is a member of the **Panes** collection. The **[Panes](Word.panes.md)** collection includes all the window panes for a single window.
+Represents a window pane. The **Pane** object is a member of the **Panes** collection. The **[Panes](Word.panes.md)** collection includes all the window panes for a single window.
 
 
 ## Remarks

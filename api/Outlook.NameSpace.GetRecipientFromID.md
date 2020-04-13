@@ -30,7 +30,7 @@ _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _EntryID_|Required| **String**|The  **[EntryID](Outlook.Recipient.EntryID.md)** of the recipient.|
+| _EntryID_|Required| **String**|The **[EntryID](Outlook.Recipient.EntryID.md)** of the recipient.|
 
 ## Return value
 

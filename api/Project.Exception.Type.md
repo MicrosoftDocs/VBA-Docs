@@ -23,7 +23,7 @@ _expression_ A variable that represents an [Exception](./Project.Exception.md) o
 
 ## Remarks
 
-The  **Type** property can be one of the **[PjExceptionType](Project.PjExceptionType.md)** constants.
+The **Type** property can be one of the **[PjExceptionType](Project.PjExceptionType.md)** constants.
 
 
 ## See also

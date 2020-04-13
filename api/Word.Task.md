@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Task object (Word)
 
-Represents a single task running on the system. The  **Task** object is a member of the **[Tasks](Word.tasks.md)** collection. The **Tasks** collection includes all the applications that are currently running on the system.
+Represents a single task running on the system. The **Task** object is a member of the **[Tasks](Word.tasks.md)** collection. The **Tasks** collection includes all the applications that are currently running on the system.
 
 
 ## Remarks

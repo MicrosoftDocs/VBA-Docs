@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TaskPane object (Word)
 
-Represents a single task pane available to Microsoft Word, which contains common tasks that users perform. The  **TaskPane** object is a member of the **TaskPanes** collection.
+Represents a single task pane available to Microsoft Word, which contains common tasks that users perform. The **TaskPane** object is a member of the **TaskPanes** collection.
 
 
 ## Remarks

@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _FieldID_|Required|**Long**|The custom field. Can be one of the  **[PjCustomField](Project.PjCustomField.md)** constants.|
+| _FieldID_|Required|**Long**|The custom field. Can be one of the **[PjCustomField](Project.PjCustomField.md)** constants.|
 | _Value_|Optional|**String**|The value to add to the list.|
 | _Description_|Optional|**String**|A description of the value.|
 | _Phonetic_|Optional|**String**|The phonetic spelling of  **Value**, used for sorting into syllabary order in Japanese. For languages other than Japanese, **Phonetic** is ignored.|

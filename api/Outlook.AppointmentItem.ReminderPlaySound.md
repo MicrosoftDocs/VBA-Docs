@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 ## Remarks
 
-The  **ReminderPlaySound** property must be set in order to validate the **[ReminderSoundFile](Outlook.AppointmentItem.ReminderSoundFile.md)** property.
+The **ReminderPlaySound** property must be set in order to validate the **[ReminderSoundFile](Outlook.AppointmentItem.ReminderSoundFile.md)** property.
 
 
 ## See also

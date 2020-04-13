@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AutoTextEntry object (Word)
 
-Represents a single AutoText entry. The  **AutoTextEntry** object is a member of the **AutoTextEntries** collection. The **[AutoTextEntries](Word.autotextentries.md)** collection contains all the AutoText entries in the specified template. The entries are listed on the **AutoText** tab in the **AutoCorrect** dialog box.
+Represents a single AutoText entry. The **AutoTextEntry** object is a member of the **AutoTextEntries** collection. The **[AutoTextEntries](Word.autotextentries.md)** collection contains all the AutoText entries in the specified template. The entries are listed on the **AutoText** tab in the **AutoCorrect** dialog box.
 
 
 ## Remarks

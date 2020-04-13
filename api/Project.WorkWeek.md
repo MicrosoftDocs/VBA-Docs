@@ -14,17 +14,17 @@ localization_priority: Normal
 
 # WorkWeek object (Project)
 
-Represents a single calendar work week. The  **WorkWeek** object is a member of the **[WorkWeeks](Project.workweeks.md)** collection.
+Represents a single calendar work week. The **WorkWeek** object is a member of the **[WorkWeeks](Project.workweeks.md)** collection.
  
 
 
 ## Remarks
 
-Use the  **[Item](Project.WorkWeeks.Item.md)** property of the **WorkWeeks** collection to return a single **WorkWeek** object.
+Use the **[Item](Project.WorkWeeks.Item.md)** property of the **WorkWeeks** collection to return a single **WorkWeek** object.
  
 
  
-Use the  **[Add](Project.WorkWeeks.Add.md)** method of the **WorkWeeks** collection to add a **WorkWeek** object to the **WorkWeeks** collection.
+Use the **[Add](Project.WorkWeeks.Add.md)** method of the **WorkWeeks** collection to add a **WorkWeek** object to the **WorkWeeks** collection.
  
 
  

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # ViewSingle object (Project)
 
-Represents a single-pane view in Project. The  **ViewSingle** object is a member of the **[ViewsSingle](./Project.viewssingle(object).md)** collection.
+Represents a single-pane view in Project. The **ViewSingle** object is a member of the **[ViewsSingle](./Project.viewssingle(object).md)** collection.
 
 
 ## Methods

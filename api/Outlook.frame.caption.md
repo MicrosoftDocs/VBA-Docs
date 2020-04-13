@@ -25,6 +25,6 @@ The default caption for a control is a unique name based on the type of control.
 
 If a control's caption is too long, the caption is truncated. If a form's caption is too long for the title bar, the title is displayed with an ellipsis.
 
-The  **[ForeColor](Outlook.frame.forecolor.md)** property of the control determines the color of the text in the caption.
+The **[ForeColor](Outlook.frame.forecolor.md)** property of the control determines the color of the text in the caption.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

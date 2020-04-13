@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AddressEntry](Outlook.AddressEntry.m
 
 ## Remarks
 
-The  **Address** property must be set before calling the **[AddressEntry.Details](Outlook.AddressEntry.Details.md)** method.
+The **Address** property must be set before calling the **[AddressEntry.Details](Outlook.AddressEntry.Details.md)** method.
 
 
 ## See also

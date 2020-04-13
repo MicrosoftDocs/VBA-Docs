@@ -36,6 +36,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The  **DeliverableLinkToProject** method unlinks the deliverable or dependency from a task.
+The **DeliverableLinkToProject** method unlinks the deliverable or dependency from a task.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

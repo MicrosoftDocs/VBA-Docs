@@ -26,6 +26,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The  **AndMoveCompleted** and **AndMoveRemaining** properties can also be set with the **[OptionsCalculation](Project.Application.OptionsCalculation.md)** method.
+The **AndMoveCompleted** and **AndMoveRemaining** properties can also be set with the **[OptionsCalculation](Project.Application.OptionsCalculation.md)** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

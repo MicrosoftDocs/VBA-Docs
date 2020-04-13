@@ -24,7 +24,7 @@ _expression_ A variable that represents a  **Page** object.
 
 ## Remarks
 
-The  **Index** property specifies the order in which tabs appear. Changing the value of **Index** visually changes the order of pages in a **[MultiPage](Outlook.multipage.md)**. The index value for the first page is zero, the index value of the second page is one, and so on.
+The **Index** property specifies the order in which tabs appear. Changing the value of **Index** visually changes the order of pages in a **[MultiPage](Outlook.multipage.md)**. The index value for the first page is zero, the index value of the second page is one, and so on.
 
 In a  **MultiPage**,  **Index** refers to a **Page** as well as the page's **[Tab](Outlook.tab.md)**.
 

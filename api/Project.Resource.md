@@ -13,12 +13,12 @@ localization_priority: Normal
 
 
 
-Represents a resource. The  **Resource** object is a member of the **[Resources](Project.resources(object).md)** collection.
+Represents a resource. The **Resource** object is a member of the **[Resources](Project.resources(object).md)** collection.
  **Using the Resource Object**
 Use  **Resources** (_index_), where _index_ is the resource index number or resource name, to return a single **Resource** object. The following example lists the names of all resources in the active project.
  **Using the Resources Collection**
-Use the  **[Resources](./Project.Project.Resources.md)** property to return a **Resources** collection. The following example generates the same list as the previous example, but does so by setting an object reference to `ActiveProject.Resources`and then by using  `R` where `ActiveProject.Resources` is used.
-Use the  **[Add](./Project.Resources.Add.md)** method to add a **Resource** object to the **Resources** collection. The following example adds a new resource named Matilda to the active project.
+Use the **[Resources](./Project.Project.Resources.md)** property to return a **Resources** collection. The following example generates the same list as the previous example, but does so by setting an object reference to `ActiveProject.Resources`and then by using  `R` where `ActiveProject.Resources` is used.
+Use the **[Add](./Project.Resources.Add.md)** method to add a **Resource** object to the **Resources** collection. The following example adds a new resource named Matilda to the active project.
 
 ## Methods
 

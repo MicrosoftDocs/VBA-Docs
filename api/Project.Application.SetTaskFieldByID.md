@@ -44,6 +44,6 @@ _expression_. `SetTaskFieldByID`( `_FieldID_`, `_Value_`, `_AllSelectedTasks_`, 
 
 ## Remarks
 
-To set a task field by name, use the  **[SetTaskField](Project.Application.SetTaskField.md)** method.
+To set a task field by name, use the **[SetTaskField](Project.Application.SetTaskField.md)** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

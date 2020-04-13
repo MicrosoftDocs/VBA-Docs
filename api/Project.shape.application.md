@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shape.Application property (Project)
-Gets the  **[Application object (Project)](Project.Application.md)** object. Read-only **Application**.
+Gets the **[Application object (Project)](Project.Application.md)** object. Read-only **Application**.
 
 ## Syntax
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Column object (Word)
 
-Represents a single table column. The  **Column** object is a member of the **[Columns](Word.columns.md)** collection. The **Columns** collection includes all the columns in a table, selection, or range.
+Represents a single table column. The **Column** object is a member of the **[Columns](Word.columns.md)** collection. The **Columns** collection includes all the columns in a table, selection, or range.
 
 
 ## Remarks

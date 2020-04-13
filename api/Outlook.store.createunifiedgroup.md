@@ -24,7 +24,7 @@ _expression_ A variable that represents a [Store](Outlook.Store.md) object.
 
 ## Parameters
 
-The  **CreateUnifiedGroup** method takes the following parameters:
+The **CreateUnifiedGroup** method takes the following parameters:
 
 
 

@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[ShapeRange](Word.shaperan
 
 ## Remarks
 
-The  **LayoutInCell** property corresponds to the **Layout in table cell** option in the **Advanced Layout** dialog box for picture formatting. **True** indicates that a specified picture is displayed within the table. **False** indicates that a specified picture is displayed outside the table.
+The **LayoutInCell** property corresponds to the **Layout in table cell** option in the **Advanced Layout** dialog box for picture formatting. **True** indicates that a specified picture is displayed within the table. **False** indicates that a specified picture is displayed outside the table.
 
 
 > [!NOTE] 

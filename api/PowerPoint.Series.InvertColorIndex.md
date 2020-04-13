@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Series](PowerPoint.Series.md) object.
 
 ## Remarks
 
-The  **InvertColorIndex** property enables you to set the fill color for negative data points as a color index value from 0 to 56. Instead of using the **InvertColorIndex** property, you can use the **InvertColor** property, which enables you to set the color as a specific numeric, hexadecimal, octal, or RGB color value.
+The **InvertColorIndex** property enables you to set the fill color for negative data points as a color index value from 0 to 56. Instead of using the **InvertColorIndex** property, you can use the **InvertColor** property, which enables you to set the color as a specific numeric, hexadecimal, octal, or RGB color value.
 
 For the  **InvertColorIndex** property to have an effect, the **InvertIfNegative** property of the **Series** object must also be set to **True**.
 

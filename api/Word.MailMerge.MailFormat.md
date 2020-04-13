@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.
 
 ## Remarks
 
-The  **MailFormat** property is ignored if the **MailAsAttachment** property is set to **True**. Conversely, when **MailFormat** is set, **MailAsAttachment** is automatically set to **False**.
+The **MailFormat** property is ignored if the **MailAsAttachment** property is set to **True**. Conversely, when **MailFormat** is set, **MailAsAttachment** is automatically set to **False**.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CoAuthLock object (Word)
 
-Represents a lock within the document. The  **CoAuthLock** object is a member of the **[CoAuthLocks](Word.CoAuthLocks.md)** collection.
+Represents a lock within the document. The **CoAuthLock** object is a member of the **[CoAuthLocks](Word.CoAuthLocks.md)** collection.
 
 
 ## Remarks

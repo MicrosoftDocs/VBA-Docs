@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Version object (Word)
 
-Represents a single version of a document. The  **Version** object is a member of the **Versions** collection. The **Versions** collection includes all the versions of the specified document.
+Represents a single version of a document. The **Version** object is a member of the **Versions** collection. The **Versions** collection includes all the versions of the specified document.
 
 
 ## Remarks

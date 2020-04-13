@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Display_|Optional|**Long**|Where links will be drawn from the ends of predecessor links. Can be one of the  **[PjGanttBarLink](Project.PjGanttBarLink.md)** constants. The default value is **PjNoGanttBarLinks**.|
+| _Display_|Optional|**Long**|Where links will be drawn from the ends of predecessor links. Can be one of the **[PjGanttBarLink](Project.PjGanttBarLink.md)** constants. The default value is **PjNoGanttBarLinks**.|
 
 ## Return value
 

@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **DrawingReshape** method has the same effect as the **Edit Points** command in the **Drawing** drop-down menu on the **Format** tab in the Ribbon.
+The **DrawingReshape** method has the same effect as the **Edit Points** command in the **Drawing** drop-down menu on the **Format** tab in the Ribbon.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

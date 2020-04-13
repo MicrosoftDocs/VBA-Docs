@@ -33,7 +33,7 @@ To create a group of mutually exclusive  **CheckBox** controls, you can put the 
     
 - You have more design flexibility. If you use a  **Frame** to create the group, all the check boxes must be inside the **Frame**. If you want more than one group, you must have one  **Frame** for each group. However, if you use **GroupName** to create the group, the group can include check boxes anywhere on the form. If you want more than one group, specify a unique name for each group; you can still place the individual controls anywhere on the form.
     
-- You can create check boxes with transparent backgrounds, which can improve the visual appearance of your form. The  **Frame** is not a transparent control.
+- You can create check boxes with transparent backgrounds, which can improve the visual appearance of your form. The **Frame** is not a transparent control.
     
 
 

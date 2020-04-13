@@ -37,6 +37,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **SaveStartingToServer** event cannot be cancelled.
+The **SaveStartingToServer** event cannot be cancelled.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

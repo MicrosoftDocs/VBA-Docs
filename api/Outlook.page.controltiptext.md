@@ -24,7 +24,7 @@ _expression_ A variable that represents a  **Page** object.
 
 ## Remarks
 
-The  **ControlTipText** property lets you give users tips about a control in a running form. The property can be set during design time but only appears by the control during run time.
+The **ControlTipText** property lets you give users tips about a control in a running form. The property can be set during design time but only appears by the control during run time.
 
 The default value of  **ControlTipText** is an empty string. When the value of **ControlTipText** is set to an empty string, no tip is available for that control.
 

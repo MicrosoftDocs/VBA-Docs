@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PageSetup object (Word)
 
-Represents the page setup description. The  **PageSetup** object contains all the page setup attributes of a document (such as left margin, bottom margin, and paper size) as properties.
+Represents the page setup description. The **PageSetup** object contains all the page setup attributes of a document (such as left margin, bottom margin, and paper size) as properties.
 
 
 ## Remarks

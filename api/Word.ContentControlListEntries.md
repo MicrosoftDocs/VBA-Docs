@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContentControlListEntries object (Word)
 
-The  **ContentControlListEntries** collection contains **ContentControlListEntry** objects that represent the items in a drop-down list or combo box content control.
+The **ContentControlListEntries** collection contains **ContentControlListEntry** objects that represent the items in a drop-down list or combo box content control.
 
 
 ## Remarks

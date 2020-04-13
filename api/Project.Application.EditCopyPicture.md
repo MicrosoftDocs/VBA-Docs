@@ -48,7 +48,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Using the  **EditCopyPicture** method with no arguments displays the **Copy Picture** dialog box.
+Using the **EditCopyPicture** method with no arguments displays the **Copy Picture** dialog box.
 
 
 ## Example

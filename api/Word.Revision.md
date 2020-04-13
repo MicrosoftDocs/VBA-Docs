@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Revision object (Word)
 
-Represents a change marked with a revision mark. The  **Revision** object is a member of the **[Revisions](Word.revisions.md)** collection. The **Revisions** collection includes all the revision marks in a range or document.
+Represents a change marked with a revision mark. The **Revision** object is a member of the **[Revisions](Word.revisions.md)** collection. The **Revisions** collection includes all the revision marks in a range or document.
 
 
 ## Remarks
@@ -26,7 +26,7 @@ Use  **Revisions** (Index), where Index is the index number, to return a single 
 MsgBox ActiveDocument.Sections(1).Range.Revisions(1).Author
 ```
 
-The  **Add** method isn't available for the **Revisions** collection. **Revision** objects are added when change tracking is enabled. Set the **TrackRevisions** property to **True** to track revisions made to the document text. The following example enables revision tracking and then inserts "Action " before the selection.
+The **Add** method isn't available for the **Revisions** collection. **Revision** objects are added when change tracking is enabled. Set the **TrackRevisions** property to **True** to track revisions made to the document text. The following example enables revision tracking and then inserts "Action " before the selection.
 
 
 

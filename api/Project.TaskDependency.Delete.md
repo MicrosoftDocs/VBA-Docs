@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # TaskDependency.Delete method (Project)
 
-Deletes the  **TableField** object from a **TableFields** collection.
+Deletes the **TableField** object from a **TableFields** collection.
 
 
 ## Syntax

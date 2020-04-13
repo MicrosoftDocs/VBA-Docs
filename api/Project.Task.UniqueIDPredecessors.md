@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 ## Remarks
 
-If a task has two predecessor tasks with the  **UniqueID** values of 9 and 10, for example, the **UniqueIDPredecessors** value is "9,10".
+If a task has two predecessor tasks with the **UniqueID** values of 9 and 10, for example, the **UniqueIDPredecessors** value is "9,10".
 
 
 > [!NOTE] 

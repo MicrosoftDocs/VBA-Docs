@@ -28,7 +28,7 @@ _expression_ Required. A variable that represents a **[Shape](Word.Shape.md)** o
 
  **True** indicates that a specified picture is displayed inside the table. **False** indicates that a specified picture is displayed outside the table.
 
-The  **LayoutInCell** property corresponds to the **Layout in table cell** option in the **Advanced Layout** dialog box for picture formatting.
+The **LayoutInCell** property corresponds to the **Layout in table cell** option in the **Advanced Layout** dialog box for picture formatting.
 
 
 > [!NOTE] 

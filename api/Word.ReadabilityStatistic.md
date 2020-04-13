@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ReadabilityStatistic object (Word)
 
-Represents one of the readability statistics for a document or range. The  **ReadabilityStatistic** object is a member of the **ReadabilityStatistics** collection.
+Represents one of the readability statistics for a document or range. The **ReadabilityStatistic** object is a member of the **ReadabilityStatistics** collection.
 
 
 ## Remarks

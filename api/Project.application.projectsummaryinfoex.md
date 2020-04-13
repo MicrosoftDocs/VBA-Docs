@@ -52,6 +52,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ### Remarks
 
-Using the  **ProjectSummaryInfoEx** method with no arguments displays the **Project Information** dialog box
+Using the **ProjectSummaryInfoEx** method with no arguments displays the **Project Information** dialog box
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,7 +19,7 @@ Represents the collection of  **[ViewField](Outlook.ViewField.md)** objects in a
 
 ## Remarks
 
-The  **ViewFields** collection represents the Outlook item properties available for display in the view. Use the **[Add](Outlook.ViewFields.Add.md)** method of the **ViewFields** collection to add a view field for the following objects derived from the **[View](Outlook.View.md)** object:
+The **ViewFields** collection represents the Outlook item properties available for display in the view. Use the **[Add](Outlook.ViewFields.Add.md)** method of the **ViewFields** collection to add a view field for the following objects derived from the **[View](Outlook.View.md)** object:
 
 
 -  **[CardView](Outlook.CardView.md)**

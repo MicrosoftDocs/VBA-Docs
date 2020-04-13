@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' obj
 
 ## Remarks
 
-The  **AttachmentSelectionChange** event fires when a different or additional attachment of any item is selected in the active explorer.
+The **AttachmentSelectionChange** event fires when a different or additional attachment of any item is selected in the active explorer.
 
 
 ## See also

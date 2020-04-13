@@ -42,7 +42,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Using the  **EditHyperlink** method without specifying any arguments displays the **Edit Hyperlink** dialog box.
+Using the **EditHyperlink** method without specifying any arguments displays the **Edit Hyperlink** dialog box.
 
 
 ## Example

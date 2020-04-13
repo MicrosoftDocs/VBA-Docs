@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Task.Delete method (Project)
 
-Deletes the  **Task** object from a **Tasks** collection.
+Deletes the **Task** object from a **Tasks** collection.
 
 
 ## Syntax

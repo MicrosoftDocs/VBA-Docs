@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # GroupCriterion2.Application property (Project)
 
-Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
+Gets the **[Application](Project.Application.md)** object. Read-only **Application**.
 
 
 ## Syntax

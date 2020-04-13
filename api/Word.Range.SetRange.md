@@ -37,7 +37,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 Character position values start at the beginning of the story, with the first value being 0 (zero). All characters are counted, including nonprinting characters. Hidden characters are counted even if they're not displayed.
 
-The  **SetRange** method redefines the starting and ending positions of an existing **Range** object. This method differs from the **Range** method, which is used to create a range, given a starting and ending position.
+The **SetRange** method redefines the starting and ending positions of an existing **Range** object. This method differs from the **Range** method, which is used to create a range, given a starting and ending position.
 
 
 ## Example

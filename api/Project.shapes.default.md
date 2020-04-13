@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shapes.Default property (Project)
-The  **Shapes.Default** property is not implemented for Office Art in the Office applications.
+The **Shapes.Default** property is not implemented for Office Art in the Office applications.
 
 ## Syntax
 
@@ -19,7 +19,7 @@ _expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object
 
 ## Remarks
 
-If you try to use the  **Default** property, Project shows a run-time error &H80004005, _Method 'Default' of object 'Shapes' failed_.
+If you try to use the **Default** property, Project shows a run-time error &H80004005, _Method 'Default' of object 'Shapes' failed_.
 
 
 ## Property value

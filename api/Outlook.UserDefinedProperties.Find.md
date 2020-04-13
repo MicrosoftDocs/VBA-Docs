@@ -28,7 +28,7 @@ _expression_ A variable that represents a [UserDefinedProperties](Outlook.UserDe
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required| **String**|The  **[Name](Outlook.UserDefinedProperty.Name.md)** property value of the **UserDefinedProperty** object to find in the collection.|
+| _Name_|Required| **String**|The **[Name](Outlook.UserDefinedProperty.Name.md)** property value of the **UserDefinedProperty** object to find in the collection.|
 
 ## Return value
 

@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Report.Index property (Project)
-Gets the index of a custom report in the  **Reports** collection. Read-only **Long**.
+Gets the index of a custom report in the **Reports** collection. Read-only **Long**.
 
 ## Syntax
 

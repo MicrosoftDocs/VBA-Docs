@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[CalloutFormat](Word.CalloutFormat.md
 
 ## Remarks
 
-The  **Drop** property applies to callouts with an explicitly set drop value. This distance is measured from the top of the text box unless the text box is to the left of the origin of the callout line (the place that the callout points to), in which case the drop distance is measured from the bottom of the text box.
+The **Drop** property applies to callouts with an explicitly set drop value. This distance is measured from the top of the text box unless the text box is to the left of the origin of the callout line (the place that the callout points to), in which case the drop distance is measured from the bottom of the text box.
 
 Use the **[CustomDrop](Word.CalloutFormat.CustomDrop.md)** method to set the value of this property.
 

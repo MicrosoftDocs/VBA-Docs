@@ -23,9 +23,9 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **WindowState** property can be one of the **[PjWindowState](Project.PjWindowState.md)** constants.
+The **WindowState** property can be one of the **[PjWindowState](Project.PjWindowState.md)** constants.
 
-To change the state of a window within the application window, use the  **[WindowState](Project.Window.WindowState.md)** property of the **Window** object.
+To change the state of a window within the application window, use the **[WindowState](Project.Window.WindowState.md)** property of the **Window** object.
 
 
 ## Example

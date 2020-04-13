@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Hyperlink object (Word)
 
-Represents a hyperlink. The  **Hyperlink** object is a member of the **Hyperlinks** collection.
+Represents a hyperlink. The **Hyperlink** object is a member of the **Hyperlinks** collection.
 
 
 ## Remarks

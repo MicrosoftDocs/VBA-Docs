@@ -23,8 +23,8 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **LevelOrder** property can be one of the following **[PjLevelOrder](Project.PjLevelOrder.md)** constants: **pjLevelID**, **pjLevelStandard**, or **pjLevelPriority**.
+The **LevelOrder** property can be one of the following **[PjLevelOrder](Project.PjLevelOrder.md)** constants: **pjLevelID**, **pjLevelStandard**, or **pjLevelPriority**.
 
-You can also set the  **LevelOrder** property in the **Resource Leveling** dialog box. To access the setting, click **Leveling Options** on the **Resource** tab of the Ribbon, and then set the **Leveling order** drop-down list.
+You can also set the **LevelOrder** property in the **Resource Leveling** dialog box. To access the setting, click **Leveling Options** on the **Resource** tab of the Ribbon, and then set the **Leveling order** drop-down list.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Endnote object (Word)
 
-Represents an endnote. The  **Endnote** object is a member of the **Endnotes** collection, which represents the endnotes in a selection, range, or document.
+Represents an endnote. The **Endnote** object is a member of the **Endnotes** collection, which represents the endnotes in a selection, range, or document.
 
 
 ## Remarks

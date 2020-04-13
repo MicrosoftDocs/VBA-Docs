@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 
 ## Remarks
 
-The  **CreateBackup** and **AllowFastSave** properties cannot be set to **True** concurrently.
+The **CreateBackup** and **AllowFastSave** properties cannot be set to **True** concurrently.
 
 
 ## Example

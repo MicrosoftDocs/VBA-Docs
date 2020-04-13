@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Tasks.Parent property (Project)
 
-Gets the parent of the  **Tasks** object. Read-only **Project**.
+Gets the parent of the **Tasks** object. Read-only **Project**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_ A variable that represents a 'Tasks' object.
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 
 ## See also

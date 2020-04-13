@@ -33,7 +33,7 @@ MsoTriState
 
 If the WordArt has horizontal text, setting the  **RotatedChars** property to **msoTrue** rotates the characters 90 degrees counterclockwise. If the WordArt has vertical text, setting the **RotatedChars** property to **msoFalse** rotates the characters 90 degrees clockwise. Use the **ToggleVerticalText** method to switch between horizontal and vertical text flow.
 
-The  **[Flip](PowerPoint.Shape.Flip.md)** method and **[Rotation](PowerPoint.Shape.Rotation.md)** property of the **[Shape](PowerPoint.Shape.md)** object and the **RotatedChars** property and **[ToggleVerticalText](PowerPoint.TextEffectFormat.ToggleVerticalText.md)** method of the **TextEffectFormat** object all affect the character orientation and direction of text flow in a **Shape** object that represents WordArt. You may have to experiment to find out how to combine the effects of these properties and methods to get the result you want.
+The **[Flip](PowerPoint.Shape.Flip.md)** method and **[Rotation](PowerPoint.Shape.Rotation.md)** property of the **[Shape](PowerPoint.Shape.md)** object and the **RotatedChars** property and **[ToggleVerticalText](PowerPoint.TextEffectFormat.ToggleVerticalText.md)** method of the **TextEffectFormat** object all affect the character orientation and direction of text flow in a **Shape** object that represents WordArt. You may have to experiment to find out how to combine the effects of these properties and methods to get the result you want.
 
 The value of the  **RotatedChars** property can be one of these **MsoTriState** constants.
 

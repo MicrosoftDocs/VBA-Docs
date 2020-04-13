@@ -30,7 +30,7 @@ To create a group of mutually exclusive  **OptionButton** controls, you can put 
     
 - You have more design flexibility. If you use a  **Frame** to create the group, all the buttons must be inside the **Frame**. If you want more than one group, you must have one  **Frame** for each group. However, if you use **GroupName** to create the group, the group can include option buttons anywhere on the form. If you want more than one group, specify a unique name for each group; you can still place the individual controls anywhere on the form.
     
-- You can create buttons with transparent backgrounds, which can improve the visual appearance of your form. The  **Frame** is not a transparent control.
+- You can create buttons with transparent backgrounds, which can improve the visual appearance of your form. The **Frame** is not a transparent control.
     
 
 

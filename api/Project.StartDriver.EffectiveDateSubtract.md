@@ -32,11 +32,11 @@ _expression_. `EffectiveDateSubtract`( `_Date_`, `_Duration_` )
 
 ## Remarks
 
-The  **EffectiveDateSubtract** property uses the effective calendar for manually scheduled tasks, which allows tasks to start and finish on non-working times. The property and arguments have no effect on actual task dates.
+The **EffectiveDateSubtract** property uses the effective calendar for manually scheduled tasks, which allows tasks to start and finish on non-working times. The property and arguments have no effect on actual task dates.
 
-You can use the  **EffectiveDateSubtract**, **[EffectiveDateAdd](Project.StartDriver.EffectiveDateAdd.md)**, and **[EffectiveDateDifference](Project.StartDriver.EffectiveDateDifference.md)** properties to calculate start and finish dates for manually scheduled tasks.
+You can use the **EffectiveDateSubtract**, **[EffectiveDateAdd](Project.StartDriver.EffectiveDateAdd.md)**, and **[EffectiveDateDifference](Project.StartDriver.EffectiveDateDifference.md)** properties to calculate start and finish dates for manually scheduled tasks.
 
-To calculate a date for an automatically scheduled task, where you can also specify the calendar, use the  **[DateSubtract](Project.Application.DateSubtract.md)** method.
+To calculate a date for an automatically scheduled task, where you can also specify the calendar, use the **[DateSubtract](Project.Application.DateSubtract.md)** method.
 
 
 ## Example

@@ -26,6 +26,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **SupportsMultipleWindows** property is useful with Automation. For example, suppose you want to open a second window in the application referred to by a variable. If the variable refers to one of several possible applications, you may want to use the **SupportsMultipleWindows** property to confirm that the application currently referenced by the variable can have more than one window open at a time.
+The **SupportsMultipleWindows** property is useful with Automation. For example, suppose you want to open a second window in the application referred to by a variable. If the variable refers to one of several possible applications, you may want to use the **SupportsMultipleWindows** property to confirm that the application currently referenced by the variable can have more than one window open at a time.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

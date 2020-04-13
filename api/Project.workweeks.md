@@ -18,11 +18,11 @@ localization_priority: Normal
 
 ## Remarks
 
-Use the  **[Item](Project.WorkWeeks.Item.md)** property return a single **WorkWeek** object.
+Use the **[Item](Project.WorkWeeks.Item.md)** property return a single **WorkWeek** object.
  
 
  
-Use the  **[Add](Project.WorkWeeks.Add.md)** method of the **WorkWeeks** collection to add a **WorkWeek** object to the **WorkWeeks** collection.
+Use the **[Add](Project.WorkWeeks.Add.md)** method of the **WorkWeeks** collection to add a **WorkWeek** object to the **WorkWeeks** collection.
  
 
  

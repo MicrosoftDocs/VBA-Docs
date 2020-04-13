@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Row object (Word)
 
-Represents a row in a table. The  **Row** object is a member of the **[Rows](Word.rows.md)** collection. The **Rows** collection includes all the rows in the specified selection, range, or table.
+Represents a row in a table. The **Row** object is a member of the **[Rows](Word.rows.md)** collection. The **Rows** collection includes all the rows in the specified selection, range, or table.
 
 
 ## Remarks

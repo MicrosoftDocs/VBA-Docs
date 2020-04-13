@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # PredecessorDrivers.Count property (Project)
 
-Gets the number of items in the  **[PredecessorDrivers](Project.predecessordrivers.md)** collection. Read-only **Long**.
+Gets the number of items in the **[PredecessorDrivers](Project.predecessordrivers.md)** collection. Read-only **Long**.
 
 
 ## Syntax

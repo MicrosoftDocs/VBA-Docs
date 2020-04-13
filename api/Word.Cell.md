@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Cell object (Word)
 
-Represents a single table cell. The  **Cell** object is a member of the **[Cells](Word.cells.md)** collection. The **Cells** collection represents all the cells in the specified object.
+Represents a single table cell. The **Cell** object is a member of the **[Cells](Word.cells.md)** collection. The **Cells** collection represents all the cells in the specified object.
 
 
 ## Remarks

@@ -30,10 +30,10 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _PjVisualReportsTemplateType_|Optional|**Long**|Template type. Can be one of the  **[PjVisualReportsTemplateType](Project.PjVisualReportsTemplateType.md)** constants. Default is **pjExcel**.|
-| _PjVisualReportsCubeType_|Optional|**Long**|Cube type. Can be one of the  **[PjVisualReportsCubeType](Project.PjVisualReportsCubeType.md)** constants. Default is **pjTaskTP**.|
+| _PjVisualReportsTemplateType_|Optional|**Long**|Template type. Can be one of the **[PjVisualReportsTemplateType](Project.PjVisualReportsTemplateType.md)** constants. Default is **pjExcel**.|
+| _PjVisualReportsCubeType_|Optional|**Long**|Cube type. Can be one of the **[PjVisualReportsCubeType](Project.PjVisualReportsCubeType.md)** constants. Default is **pjTaskTP**.|
 | _ReportAlLFields_|Optional|**Boolean**|If  **True**, all noncustom fields are included in the report.|
-| _PjVisualReportsDataLevel_|Optional|**Long**|Data level. Can be one of the  **[PjVisualReportsDataLevel](Project.PjVisualReportsDataLevel.md)** constants. Default is **pjLevelAutomatic**.|
+| _PjVisualReportsDataLevel_|Optional|**Long**|Data level. Can be one of the **[PjVisualReportsDataLevel](Project.PjVisualReportsDataLevel.md)** constants. Default is **pjLevelAutomatic**.|
 
 ## Return value
 

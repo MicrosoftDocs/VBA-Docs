@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ListEntry object (Word)
 
-Represents an item in a drop-down form field. The  **ListEntry** object is a member of the **ListEntries** collection. The **[ListEntries](Word.listentries.md)** collection includes all the items in a drop-down form field.
+Represents an item in a drop-down form field. The **ListEntry** object is a member of the **ListEntries** collection. The **[ListEntries](Word.listentries.md)** collection includes all the items in a drop-down form field.
 
 
 ## Remarks

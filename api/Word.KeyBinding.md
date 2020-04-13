@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # KeyBinding object (Word)
 
-Represents a custom key assignment in the current context. The  **KeyBinding** object is a member of the **KeyBindings** collection.
+Represents a custom key assignment in the current context. The **KeyBinding** object is a member of the **KeyBindings** collection.
 
 
 ## Remarks

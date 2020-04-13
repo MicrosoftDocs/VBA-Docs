@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[FileConverters](Word.fileconverters.
 
 ## Remarks
 
-The  **ConvertMacWordChevrons** property can be any **WdChevronConvertRule** constants.
+The **ConvertMacWordChevrons** property can be any **WdChevronConvertRule** constants.
 
 Word for the Macintosh version 4.0 and 5.x documents use chevron characters to denote mail merge fields.
 

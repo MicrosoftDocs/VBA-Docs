@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[PageNumbers](Word.pagenumbers.md)' o
 
 ## Remarks
 
-The  **HeadingLevelForChapter** property can be a number from 0 (zero) through 8, corresponding to heading levels 1 through 9.
+The **HeadingLevelForChapter** property can be a number from 0 (zero) through 8, corresponding to heading levels 1 through 9.
 
 Before you can create page numbers that include chapter numbers, the document headings must have a numbered outline format applied that uses styles from the **Bullets and Numbering** dialog box. To do this in Visual Basic, use the **ApplyListTemplate** method.
 

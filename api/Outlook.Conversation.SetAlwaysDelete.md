@@ -35,7 +35,7 @@ _expression_ A variable that represents a '[Conversation](Outlook.Conversation.m
 
 ## Remarks
 
-The  **SetAlwaysDelete** method operates on conversation items in the delivery store specified by the _Store_ parameter. If the store specified by the _Store_ parameter represents a non-delivery store such as an archive .pst store, the action is applied to conversation items in the default delivery store.
+The **SetAlwaysDelete** method operates on conversation items in the delivery store specified by the _Store_ parameter. If the store specified by the _Store_ parameter represents a non-delivery store such as an archive .pst store, the action is applied to conversation items in the default delivery store.
 
 If the  _AlwaysDelete_ parameter is **olAlwaysDelete**, conversation items are moved to the Deleted Items folder for the specified store. In this case, the items are not permanently deleted, unless the user has specified a separate option to permanently delete items when Microsoft Outlook shuts down.
 

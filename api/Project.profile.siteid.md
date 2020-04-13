@@ -19,7 +19,7 @@ _expression_ A variable that represents a [Profile](./Project.Profile.md) object
 
 ## Remarks
 
-If the active profile is for the local computer, the  **SiteId** property is an empty string.
+If the active profile is for the local computer, the **SiteId** property is an empty string.
 
 
 ## Example

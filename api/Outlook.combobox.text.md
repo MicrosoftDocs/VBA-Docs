@@ -32,6 +32,6 @@ When the  **Text** property of a **ComboBox** changes (such as when a user types
 
 You cannot use  **Text** to change the value of an entry in a **ComboBox**; use the  **[Column](Outlook.combobox.column.md)** or **[List](Outlook.combobox.list.md)** property for this purpose.
 
-The  **[ForeColor](Outlook.combobox.forecolor.md)** property determines the color of the text.
+The **[ForeColor](Outlook.combobox.forecolor.md)** property determines the color of the text.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

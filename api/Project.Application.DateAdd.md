@@ -38,7 +38,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-To add a duration to a date for a manually scheduled task, which uses an effective calendar that can include non-working time, use the  **[EffectiveDateAdd](Project.StartDriver.EffectiveDateAdd.md)** property.
+To add a duration to a date for a manually scheduled task, which uses an effective calendar that can include non-working time, use the **[EffectiveDateAdd](Project.StartDriver.EffectiveDateAdd.md)** property.
 
 
 ## Example

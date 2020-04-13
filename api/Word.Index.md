@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Index object (Word)
 
-Represents a single index. The  **Index** object is a member of the **Indexes** collection. The **[Indexes](Word.indexes.md)** collection includes all the indexes in the specified document.
+Represents a single index. The **Index** object is a member of the **Indexes** collection. The **[Indexes](Word.indexes.md)** collection includes all the indexes in the specified document.
 
 
 ## Remarks

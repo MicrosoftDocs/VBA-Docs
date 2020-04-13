@@ -26,12 +26,12 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **EnableCancelKey** property can be one of the following **[PjEnableCancelKey](Project.PjEnableCancelKey.md)** constants: **pjDisabled**, **pjErrorHandler**, or **pjInterrupt**.
+The **EnableCancelKey** property can be one of the following **[PjEnableCancelKey](Project.PjEnableCancelKey.md)** constants: **pjDisabled**, **pjErrorHandler**, or **pjInterrupt**.
 
 
 ## Example
 
-The following example shows how you can use the  **EnableCancelKey** property to create a custom cancellation error handler.
+The following example shows how you can use the **EnableCancelKey** property to create a custom cancellation error handler.
 
 
 ```vb

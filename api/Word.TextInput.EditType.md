@@ -37,7 +37,7 @@ _expression_ Required. A variable that represents a '[TextInput](Word.TextInput.
 
 ## Example
 
-This example adds a text form field named "Today" at the beginning of the active document. The  **EditType** method is used to set the type to **wdCurrentDateText** and set the date format to "M/d/yy."
+This example adds a text form field named "Today" at the beginning of the active document. The **EditType** method is used to set the type to **wdCurrentDateText** and set the date format to "M/d/yy."
 
 
 ```vb

@@ -19,7 +19,7 @@ Represents a hyperlink associated with a non-placeholder shape or text.
 
 ## Remarks
 
-You can use a hyperlink to jump to an Internet or intranet site, to another file, or to a slide within the active presentation. The  **Hyperlink** object is a member of the **[Hyperlinks](PowerPoint.Hyperlinks.md)** collection. The **Hyperlinks** collection contains all the hyperlinks on a slide or a master.
+You can use a hyperlink to jump to an Internet or intranet site, to another file, or to a slide within the active presentation. The **Hyperlink** object is a member of the **[Hyperlinks](PowerPoint.Hyperlinks.md)** collection. The **Hyperlinks** collection contains all the hyperlinks on a slide or a master.
 
 
 ## Example

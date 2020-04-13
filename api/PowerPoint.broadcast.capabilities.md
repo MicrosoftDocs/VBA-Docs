@@ -24,7 +24,7 @@ _expression_ A variable that represents a [Broadcast](PowerPoint.Broadcast.md) o
 
 ## Remarks
 
-The  **Capabilities** property can return the following[MSOBroadcastCapabilities](overview/Library-Reference/msobroadcastcapabilities-enumeration-office.md) values:
+The **Capabilities** property can return the following[MSOBroadcastCapabilities](overview/Library-Reference/msobroadcastcapabilities-enumeration-office.md) values:
 
 
 

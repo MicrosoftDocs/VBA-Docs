@@ -23,9 +23,9 @@ _expression_ A variable that represents a [Window](./Project.Window.md) object.
 
 ## Remarks
 
-The  **WindowState** property can be one of the following **[PjWindowState](Project.PjWindowState.md)** constants: **pjMaximized** or **pjNormal**. The **pjMinimized** value has no effect on a window within the Project application.
+The **WindowState** property can be one of the following **[PjWindowState](Project.PjWindowState.md)** constants: **pjMaximized** or **pjNormal**. The **pjMinimized** value has no effect on a window within the Project application.
 
-To change the state of the application window, use the  **[WindowState](Project.Application.WindowState.md)** property of the **Application** object.
+To change the state of the application window, use the **[WindowState](Project.Application.WindowState.md)** property of the **Application** object.
 
 
 ## Example

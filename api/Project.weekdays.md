@@ -55,7 +55,7 @@ With ActiveProject.Calendar.WeekDays(pjFriday)
  
 
  
-Use the  **[Weekdays](Project.Calendar.WeekDays.md)** property to return a **Weekdays** collection.
+Use the **[Weekdays](Project.Calendar.WeekDays.md)** property to return a **Weekdays** collection.
  
 
  

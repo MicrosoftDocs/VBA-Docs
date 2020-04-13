@@ -31,7 +31,7 @@ Setting the **PageWidth** property changes the **[PaperSize](Word.PageSetup.Pape
 
 ## Example
 
-This example returns the page width for Document1. The  **[PointsToInches](Word.Global.PointsToInches.md)** method is used to convert points to inches.
+This example returns the page width for Document1. The **[PointsToInches](Word.Global.PointsToInches.md)** method is used to convert points to inches.
 
 
 ```vb

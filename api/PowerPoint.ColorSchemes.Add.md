@@ -41,7 +41,7 @@ ColorScheme
 
 The new color scheme is based on the colors used on the specified slide or master or on the colors in the specified color scheme from an open presentation.
 
-The  **ColorSchemes** collection can contain up to 16 color schemes. If you need to add another color scheme and the **ColorSchemes** collection is already full, use the **Delete** method to remove an existing color scheme.
+The **ColorSchemes** collection can contain up to 16 color schemes. If you need to add another color scheme and the **ColorSchemes** collection is already full, use the **Delete** method to remove an existing color scheme.
 
 Note that although Microsoft PowerPoint automatically checks whether a color scheme is a duplicate when a user attempts to add it by using the user interface, PowerPoint doesn't check when you attempt to add a color scheme programmatically. Your procedure must do its own checking to avoid adding redundant color schemes.
 

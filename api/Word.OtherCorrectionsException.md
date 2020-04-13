@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # OtherCorrectionsException object (Word)
 
-Represents a single AutoCorrect exception. The  **OtherCorrectionsException** object is a member of the **OtherCorrectionsExceptions** collection.
+Represents a single AutoCorrect exception. The **OtherCorrectionsException** object is a member of the **OtherCorrectionsExceptions** collection.
 
 
 ## Remarks
 
-The  **OtherCorrectionsExceptions** collection includes all words that Microsoft Word won't correct automatically. This list corresponds to the list of AutoCorrect exceptions on the **Other Corrections** tab in the **AutoCorrect Exceptions** dialog box.
+The **OtherCorrectionsExceptions** collection includes all words that Microsoft Word won't correct automatically. This list corresponds to the list of AutoCorrect exceptions on the **Other Corrections** tab in the **AutoCorrect Exceptions** dialog box.
 
 Use  **OtherCorrectionsExceptions** (Index), where Index is the AutoCorrect exception name or the index number, to return a single **OtherCorrectionsException** object. The following example deletes "WTop" from the list of AutoCorrect exceptions.
 

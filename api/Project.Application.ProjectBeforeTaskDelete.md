@@ -37,6 +37,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Project events do not occur when the project is embedded in another document or application. The  **ProjectBeforeTaskDelete** event does not occur when changes have been made using a custom form.
+Project events do not occur when the project is embedded in another document or application. The **ProjectBeforeTaskDelete** event does not occur when changes have been made using a custom form.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

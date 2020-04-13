@@ -24,7 +24,7 @@ _expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 ## Example
 
-The following example uses the report created by the code example in the  **[Shape.Apply](Project.shape.apply.md)** method. The example duplicates a shape, and then rotates, horizontally flips, and selects the new shape. The horizontal offset and vertical offset of the new shape are both 12 points.
+The following example uses the report created by the code example in the **[Shape.Apply](Project.shape.apply.md)** method. The example duplicates a shape, and then rotates, horizontally flips, and selects the new shape. The horizontal offset and vertical offset of the new shape are both 12 points.
 
 
 ```vb

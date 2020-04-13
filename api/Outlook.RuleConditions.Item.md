@@ -39,7 +39,7 @@ A  **RuleCondition** object that represents the specified object.
 
 ## Remarks
 
-The  **RuleConditions** collection object is a fixed collection. It contains **RuleCondition** objects or objects derived from **RuleCondition**. You cannot add or remove items from this collection, but you can index into the collection to enumerate the rule condition items, and set the **[Enabled](Outlook.RuleCondition.Enabled.md)** property of the rule condition. When using **Item** to enumerate the collection, you can enumerate _Index_ from 1 to **[Count](Outlook.RuleConditions.Count.md)**.
+The **RuleConditions** collection object is a fixed collection. It contains **RuleCondition** objects or objects derived from **RuleCondition**. You cannot add or remove items from this collection, but you can index into the collection to enumerate the rule condition items, and set the **[Enabled](Outlook.RuleCondition.Enabled.md)** property of the rule condition. When using **Item** to enumerate the collection, you can enumerate _Index_ from 1 to **[Count](Outlook.RuleConditions.Count.md)**.
 
 
 ## See also

@@ -31,7 +31,7 @@ MsoArrowheadWidth
 
 ## Remarks
 
-The  **EndArrowheadWidth** property value can be one of these **MsoArrowheadWidth** constants.
+The **EndArrowheadWidth** property value can be one of these **MsoArrowheadWidth** constants.
 
 
 ||

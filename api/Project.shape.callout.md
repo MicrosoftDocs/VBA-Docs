@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shape.Callout property (Project)
-Gets callout formatting properties for the shape, when the  **Shape** object represents a callout. Read-only **CalloutFormat**.
+Gets callout formatting properties for the shape, when the **Shape** object represents a callout. Read-only **CalloutFormat**.
 
 ## Syntax
 

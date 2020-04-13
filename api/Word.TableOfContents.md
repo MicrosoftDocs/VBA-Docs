@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # TableOfContents object (Word)
 
-Represents a single table of contents in a document. The  **TableOfContents** object is a member of the **[TablesOfContents](Word.tablesofcontents.md)** collection. The **TablesOfContents** collection includes all the tables of contents in a document.
+Represents a single table of contents in a document. The **TableOfContents** object is a member of the **[TablesOfContents](Word.tablesofcontents.md)** collection. The **TablesOfContents** collection includes all the tables of contents in a document.
 
 
 ## Remarks

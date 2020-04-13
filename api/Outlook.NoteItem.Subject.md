@@ -26,7 +26,7 @@ _expression_ A variable that represents a [NoteItem](Outlook.NoteItem.md) object
 
 ## Remarks
 
-The  **Subject** property is a **String** that is calculated from the body text of the note.
+The **Subject** property is a **String** that is calculated from the body text of the note.
 
 This property corresponds to the MAPI property  **PidTagSubject**. The **Subject** property is the default property for Outlook items.
 

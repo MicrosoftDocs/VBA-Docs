@@ -26,7 +26,7 @@ _expression_ A variable that represents a [FormRegion](Outlook.FormRegion.md) ob
 
 ## Remarks
 
-The  **Reflow** method only applies to adjoining form regions. No action occurs for separate form regions.
+The **Reflow** method only applies to adjoining form regions. No action occurs for separate form regions.
 
 
 ## See also

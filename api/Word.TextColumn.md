@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # TextColumn object (Word)
 
-Represents a single text column. The  **TextColumn** object is a member of the **[TextColumns](Word(textcolumns).md)** collection. The **TextColumns** collection includes all the columns in a document or section of a document.
+Represents a single text column. The **TextColumn** object is a member of the **[TextColumns](Word(textcolumns).md)** collection. The **TextColumns** collection includes all the columns in a document or section of a document.
 
 
 ## Remarks

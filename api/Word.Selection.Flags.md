@@ -26,7 +26,7 @@ _expression_ Required. An expression that returns a **[Selection](Word.Selection
 
 ## Example
 
-This example selects the first word in the active document. The first message box displays "False" because the end of the selection is active. The  **Flags** property makes the beginning of the selection active, and the second message box displays "True."
+This example selects the first word in the active document. The first message box displays "False" because the end of the selection is active. The **Flags** property makes the beginning of the selection active, and the second message box displays "True."
 
 
 ```vb

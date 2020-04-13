@@ -26,12 +26,12 @@ _expression_. `MirrorMargins`
 
 ## Remarks
 
-The  **MirrorMargins** property can be **True**, **False**, or **wdUndefined**. If the **MirrorMargins** property is set to **True**, the **[LeftMargin](Word.PageSetup.LeftMargin.md)** property controls the setting for inside margins and the **[RightMargin](Word.PageSetup.RightMargin.md)** property controls the setting for outside margins.
+The **MirrorMargins** property can be **True**, **False**, or **wdUndefined**. If the **MirrorMargins** property is set to **True**, the **[LeftMargin](Word.PageSetup.LeftMargin.md)** property controls the setting for inside margins and the **[RightMargin](Word.PageSetup.RightMargin.md)** property controls the setting for outside margins.
 
 
 ## Example
 
-This example sets the inside margins of the active document to 1 inch (72 points) and the outside margins to 0.5 inch. The  **[InchesToPoints](Word.Application.InchesToPoints.md)** method is used to convert inches to points.
+This example sets the inside margins of the active document to 1 inch (72 points) and the outside margins to 0.5 inch. The **[InchesToPoints](Word.Application.InchesToPoints.md)** method is used to convert inches to points.
 
 
 ```vb

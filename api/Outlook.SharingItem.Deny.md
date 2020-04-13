@@ -31,7 +31,7 @@ A  **SharingItem** object that represents the sharing response.
 
 ## Remarks
 
-The  **Deny** method can only be called on **SharingItem** objects with a **[Type](Outlook.SharingItem.Type.md)** property value of **olSharingMsgTypeRequest** or **olSharingMsgTypeInviteAndRequest**.
+The **Deny** method can only be called on **SharingItem** objects with a **[Type](Outlook.SharingItem.Type.md)** property value of **olSharingMsgTypeRequest** or **olSharingMsgTypeInviteAndRequest**.
 
 This method generates a new  **SharingItem** object and sets the **Type** property of the new object to **olSharingMsgTypeResponseDeny**. The **SharingItem** is not immediately sent to the sender of the sharing request, however, so you can edit the sharing response as needed.
 

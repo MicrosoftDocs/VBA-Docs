@@ -29,6 +29,6 @@ A Boolean that returns  **True** if the method succeeds; returns **False** other
 
 ## Remarks
 
-The  **Repaint** method is useful if the contents or appearance of an object changes significantly, and you don't want to wait until the system automatically repaints the area.
+The **Repaint** method is useful if the contents or appearance of an object changes significantly, and you don't want to wait until the system automatically repaints the area.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

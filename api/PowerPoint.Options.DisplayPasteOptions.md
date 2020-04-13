@@ -37,7 +37,7 @@ The value of the  **DisplayPasteOptions** property can be one of these **MsoTriS
 
 |Constant|Description|
 |:-----|:-----|
-|**msoFalse**|The  **PasteOptions** button is not displayed.|
+|**msoFalse**|The **PasteOptions** button is not displayed.|
 |**msoTrue**| The **PasteOptions** button is displayed.|
 
 ## Example

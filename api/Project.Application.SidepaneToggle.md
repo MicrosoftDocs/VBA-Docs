@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.SidepaneToggle method (Project)
 
-Triggers the  **[WindowSidepaneDisplayChange](Project.Application.WindowSidepaneDisplayChange.md)** event, which shows or hides the side pane of the **Project Guide**. Deprecated in Project.
+Triggers the **[WindowSidepaneDisplayChange](Project.Application.WindowSidepaneDisplayChange.md)** event, which shows or hides the side pane of the **Project Guide**. Deprecated in Project.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **SidepaneToggle** method is used to change the side pane display state; you cannot use this method to return the current display state of the side pane in the **Project Guide**.
+The **SidepaneToggle** method is used to change the side pane display state; you cannot use this method to return the current display state of the side pane in the **Project Guide**.
 
 
 > [!NOTE] 

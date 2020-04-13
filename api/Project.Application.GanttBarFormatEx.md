@@ -31,14 +31,14 @@ _expression_. `GanttBarFormatEx`( `_TaskID_`, `_GanttStyle_`, `_StartShape_`, `_
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TaskID_|Optional|**Long**|The identification number of the task to be changed on the Gantt chart. The default is to change the Gantt bars of the selected tasks.|
-| _GanttStyle_|Optional|**Integer**|The style applied to the Gantt bar to be formatted. The value for GanttStyle is based on the position of the bar style in the  **Bar Styles** dialog box. For example, the value 3 returns the third bar style in the list.|
-| _StartShape_|Optional|**Integer**|The start shape of the Gantt bar. Can be one of the  **[PjBarEndShape](Project.PjBarEndShape.md)** constants.|
-| _StartType_|Optional|**Integer**|The start type of the Gantt bar. Can be one of the  **[PjBarType](Project.PjBarType.md)** constants.|
+| _GanttStyle_|Optional|**Integer**|The style applied to the Gantt bar to be formatted. The value for GanttStyle is based on the position of the bar style in the **Bar Styles** dialog box. For example, the value 3 returns the third bar style in the list.|
+| _StartShape_|Optional|**Integer**|The start shape of the Gantt bar. Can be one of the **[PjBarEndShape](Project.PjBarEndShape.md)** constants.|
+| _StartType_|Optional|**Integer**|The start type of the Gantt bar. Can be one of the **[PjBarType](Project.PjBarType.md)** constants.|
 | _StartColor_|Optional|**Long**|The color of the start shape of the Gantt bar. Can be a hexadecimal RGB value, where red is the last byte. For example, &H00FFFF is yellow. |
-| _MiddleShape_|Optional|**Integer**|The middle shape of the Gantt bar. Can be one of the  **[PjBarShape](Project.PjBarShape.md)** constants.|
-| _MiddlePattern_|Optional|**Integer**|The middle pattern of the Gantt bar. Can be one of the  **[PjFillPattern](Project.PjFillPattern.md)** constants.|
+| _MiddleShape_|Optional|**Integer**|The middle shape of the Gantt bar. Can be one of the **[PjBarShape](Project.PjBarShape.md)** constants.|
+| _MiddlePattern_|Optional|**Integer**|The middle pattern of the Gantt bar. Can be one of the **[PjFillPattern](Project.PjFillPattern.md)** constants.|
 | _MiddleColor_|Optional|**Long**|The color of the middle section Gantt bar. Can be a hexadecimal RGB value, where red is the last byte. For example, &HFF00FF is purple. |
-| _EndShape_|Optional|**Integer**|The end shape of the Gantt bar. Can be one of the  **PjBarEndShape** constants.|
+| _EndShape_|Optional|**Integer**|The end shape of the Gantt bar. Can be one of the **PjBarEndShape** constants.|
 | _EndType_|Optional|**Integer**|The end type of the Gantt bar. Can be one of the following  **PjBarType** constants: **pjDashed**, **pjFramed**, or **pjSolid**.|
 | _EndColor_|Optional|**Long**|The color of the end shape of the Gantt bar. Can be a hexadecimal RGB value, where red is the last byte. For example, &HFFFF00 is blue-green. |
 | _LeftText_|Optional|**String**|The task field to display to the left of the Gantt bar.|
@@ -56,7 +56,7 @@ _expression_. `GanttBarFormatEx`( `_TaskID_`, `_GanttStyle_`, `_StartShape_`, `_
 
 ## Remarks
 
-Using the  **GanttBarFormatEx** method without specifying any arguments displays the **Format Bar** dialog box.
+Using the **GanttBarFormatEx** method without specifying any arguments displays the **Format Bar** dialog box.
 
  To define the default styles where colors can be hexadecimal RGB values, use the **[GanttBarEditEx](Project.Application.GanttBarEditEx.md)** method.
 

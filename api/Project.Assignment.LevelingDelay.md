@@ -25,6 +25,6 @@ _expression_ A variable that represents an [Assignment](./Project.Assignment.md)
 
 Project recalculates the leveling delay as resources are leveled across the project.
 
-The  **LevelingDelay** property does not return any meaningful information for assignments of material resources. Setting a value returns a trappable error (error code 1101) when applied to assignments of material resources.
+The **LevelingDelay** property does not return any meaningful information for assignments of material resources. Setting a value returns a trappable error (error code 1101) when applied to assignments of material resources.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

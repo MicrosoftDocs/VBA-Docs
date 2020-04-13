@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[MailingLabel](Word.Mailing
 
 ## Remarks
 
-The  **LabelOptions** method works only if the document is the main document of a mailing labels mail merge.
+The **LabelOptions** method works only if the document is the main document of a mailing labels mail merge.
 
 
 ## Example

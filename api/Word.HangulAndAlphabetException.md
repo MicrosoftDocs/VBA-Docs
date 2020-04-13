@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # HangulAndAlphabetException object (Word)
 
-Represents a single Hangul or alphabet AutoCorrect exception. The  **HangulAndAlphabetException** object is a member of the **HangulAndAlphabetExceptions** collection.
+Represents a single Hangul or alphabet AutoCorrect exception. The **HangulAndAlphabetException** object is a member of the **HangulAndAlphabetExceptions** collection.
 
 
 ## Remarks
@@ -46,7 +46,7 @@ AutoCorrect.HangulAndAlphabetExceptions.Add Name:="goodbye"
 
 
 > [!NOTE] 
-> The  **[HangulAndAlphabetExceptions](Word.hangulandalphabetexceptions.md)** collection includes all Hangul and alphabet AutoCorrect exceptions and corresponds to the items listed on the **Korean** tab in the **AutoCorrect Exceptions** dialog box.
+> The **[HangulAndAlphabetExceptions](Word.hangulandalphabetexceptions.md)** collection includes all Hangul and alphabet AutoCorrect exceptions and corresponds to the items listed on the **Korean** tab in the **AutoCorrect Exceptions** dialog box.
 
 
 ## See also

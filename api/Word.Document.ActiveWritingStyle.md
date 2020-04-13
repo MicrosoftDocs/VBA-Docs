@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-The  **WritingStyleList** property returns an array of the names of the available writing styles.
+The **WritingStyleList** property returns an array of the names of the available writing styles.
 
 
 ## Example

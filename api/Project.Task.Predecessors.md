@@ -23,6 +23,6 @@ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 ## Remarks
 
-If the predecessors of the specified task have identification numbers of 2 and 10, and the list separator character is the comma, the  **Predecessors** property returns "2,10".
+If the predecessors of the specified task have identification numbers of 2 and 10, and the list separator character is the comma, the **Predecessors** property returns "2,10".
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

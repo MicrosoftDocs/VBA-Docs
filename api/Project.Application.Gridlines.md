@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Gridlines method (Project)
 
-Displays the  **Gridlines** dialog box. This method is unavailable when the active view is the Network Diagram, Relationship Diagram, or a Form view.
+Displays the **Gridlines** dialog box. This method is unavailable when the active view is the Network Diagram, Relationship Diagram, or a Form view.
 
 
 ## Syntax

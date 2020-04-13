@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AddressList](Outlook.AddressList.md)
 
 ## Remarks
 
-The  **Index** property is only valid during the current session and can change as objects are added to and deleted from the collection. The first object in the collection has an **Index** value of 1.
+The **Index** property is only valid during the current session and can change as objects are added to and deleted from the collection. The first object in the collection has an **Index** value of 1.
 
 
 ## See also

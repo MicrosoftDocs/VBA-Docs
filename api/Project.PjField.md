@@ -1209,9 +1209,9 @@ Contains constants that specify a resource or task field in Project.
 |**pjTaskOverallocated**|188743905|Represents the Overallocated (Task) field.|
 |**pjTaskOvertimeCost**|188743848|Represents the Overtime Cost (Task) field.|
 |**pjTaskOvertimeWork**|188743843|Represents the Overtime Work (Task) field.|
-|**pjTaskPathDrivenSuccessor**|188745063|The driven successor field for a task path. See the  **[Task.PathDrivenSuccessor](Project.task.pathdrivensuccessor.md)** property.|
-|**pjTaskPathDrivingPredecessor**|188745061|The driving predecessor field for a task path. See the  **[Task.PathDrivingPredecessor](Project.task.pathdrivingpredecessor.md)** property.|
-|**pjTaskPathPredecessor**|188745062|The predecessor field for a task path. See the  **[Task.PathPredecessor](Project.task.pathpredecessor.md)** property.|
+|**pjTaskPathDrivenSuccessor**|188745063|The driven successor field for a task path. See the **[Task.PathDrivenSuccessor](Project.task.pathdrivensuccessor.md)** property.|
+|**pjTaskPathDrivingPredecessor**|188745061|The driving predecessor field for a task path. See the **[Task.PathDrivingPredecessor](Project.task.pathdrivingpredecessor.md)** property.|
+|**pjTaskPathPredecessor**|188745062|The predecessor field for a task path. See the **[Task.PathPredecessor](Project.task.pathpredecessor.md)** property.|
 |**pjTaskPathSuccessor**|188745064|The successor field for a task path. See the [Task.PathSuccessor](Project.task.pathsuccessor.md) property.|
 |**pjTaskParentTask**|188743815|Represents the Parent Task (Task) field.|
 |**pjTaskPercentComplete**|188743712|Represents the Percent Complete (Task) field.|
@@ -1358,7 +1358,7 @@ Contains constants that specify a resource or task field in Project.
 
 ## Remarks
 
-Many properties, methods, and events use the  **PjField** enumeration. For example, see the **GetField** method and **SetField** method of the **Resource** object and **Task** object, the [SetResourceFieldByID](Project.Application.SetResourceFieldByID.md) method, and the [SetTaskFieldByID](Project.Application.SetTaskFieldByID.md) method. To convert between a field name and the field constant value, see the [FieldConstantToFieldName](Project.Application.FieldConstantToFieldName.md) method and the [FieldNameToFieldConstant](Project.Application.FieldNameToFieldConstant.md) method.
+Many properties, methods, and events use the **PjField** enumeration. For example, see the **GetField** method and **SetField** method of the **Resource** object and **Task** object, the [SetResourceFieldByID](Project.Application.SetResourceFieldByID.md) method, and the [SetTaskFieldByID](Project.Application.SetTaskFieldByID.md) method. To convert between a field name and the field constant value, see the [FieldConstantToFieldName](Project.Application.FieldConstantToFieldName.md) method and the [FieldNameToFieldConstant](Project.Application.FieldNameToFieldConstant.md) method.
 
 For more information about working with fields in Project, see the  _Available fields reference_ topic. In Project Help, search for _Available fields_.
 

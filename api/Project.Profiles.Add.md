@@ -27,7 +27,7 @@ _expression_ A variable that represents a 'Profiles' object.
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**| The name of the profile.|
 | _Server_|Required|**String**|A string representing the URL of the Project Server.|
-| _LoginType_|Optional|**Long**|The login type for the Project Server. Can be one of the  **[PjLoginType](Project.PjLoginType.md)** constants. The default value is **pjWindowsLogin**.|
+| _LoginType_|Optional|**Long**|The login type for the Project Server. Can be one of the **[PjLoginType](Project.PjLoginType.md)** constants. The default value is **pjWindowsLogin**.|
 | _UserName_|Optional|**String**| A string representing the user name.|
 
 ## Return value

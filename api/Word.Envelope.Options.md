@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents an '[Envelope](Word.Envelope.m
 
 ## Remarks
 
-The  **Options** method works only if the document is the main document of an envelope mail merge.
+The **Options** method works only if the document is the main document of an envelope mail merge.
 
 
 ## Example

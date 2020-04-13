@@ -25,11 +25,11 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
  The **UserName** property of the **Application** object shows the local user name. By comparison, the **[UserName](Project.Profile.UserName.md)** property of the **Profile** object shows the logon name.
 
-Use the  **UserName** property to customize Project options or macros for a particular user. For example, suppose you have written a macro named **PrintReport** that prints the Mine.mpp report when you press CTRL+R, but another user wants to use the same shortcut keys to print the Yours.mpp report. You can edit the **PrintReport** macro so that it checks the **UserName** property and then prints Mine.mpp if you are the current user or prints Yours.mpp if you are not the current user.
+Use the **UserName** property to customize Project options or macros for a particular user. For example, suppose you have written a macro named **PrintReport** that prints the Mine.mpp report when you press CTRL+R, but another user wants to use the same shortcut keys to print the Yours.mpp report. You can edit the **PrintReport** macro so that it checks the **UserName** property and then prints Mine.mpp if you are the current user or prints Yours.mpp if you are not the current user.
 
 
 > [!NOTE] 
-> The  **UserName** property is the local name but can be changed to a different value. The **Author** field in the **Project Properties** dialog box is the logon name of the user by default.
+> The **UserName** property is the local name but can be changed to a different value. The **Author** field in the **Project Properties** dialog box is the logon name of the user by default.
 
 
 ## Example

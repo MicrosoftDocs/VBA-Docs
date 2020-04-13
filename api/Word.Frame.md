@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Frame object (Word)
 
-Represents a frame. The  **Frame** object is a member of the **Frames** collection. The **[Frames](Word.Frames.md)** collection includes all frames in a selection, range, or document.
+Represents a frame. The **Frame** object is a member of the **Frames** collection. The **[Frames](Word.Frames.md)** collection includes all frames in a selection, range, or document.
 
 
 ## Remarks

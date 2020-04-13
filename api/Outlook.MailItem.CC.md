@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Remarks
 
-This property contains the display names only. The  **[Recipients](Outlook.Recipients.md)** collection should be used to modify the CC recipients.
+This property contains the display names only. The **[Recipients](Outlook.Recipients.md)** collection should be used to modify the CC recipients.
 
 
 ## See also

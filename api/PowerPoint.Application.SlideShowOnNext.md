@@ -38,7 +38,7 @@ To access  **Application** object events, declare a variable to represent the **
 
 For more information about using events with the Microsoft PowerPoint **Application** object, see [How to: Use Events with the Application Object](../powerpoint/How-to/use-events-with-the-application-object.md).
 
-The  **SlideShowOnNext** event does not fire when users click **Next** to move to the next slide, but rather only when they click **Next** to move within a given slide, for example to run the next animation on the slide.
+The **SlideShowOnNext** event does not fire when users click **Next** to move to the next slide, but rather only when they click **Next** to move within a given slide, for example to run the next animation on the slide.
 
 
 ## Example

@@ -39,16 +39,16 @@ _expression_. `IsCommandEnabled`( `_CommandName_` )
 
 ## Remarks
 
-Valid commands are VBA method names in the  **MSProject** library. The return value can be one of the **[PjIsCommandEnabled](Project.PjIsCommandEnabled.md)** constants.
+Valid commands are VBA method names in the **MSProject** library. The return value can be one of the **[PjIsCommandEnabled](Project.PjIsCommandEnabled.md)** constants.
 
 
 ## Example
 
-When the Team Planner view is not visible, the  **TestCommandEnabled** macro returns the following results:
+When the Team Planner view is not visible, the **TestCommandEnabled** macro returns the following results:
 
 
 
-The  **FileOpen** method is available in most cases. The **IsCommandEnabled** method is undefined because it is not included in the internal list of methods. The **ResetTPStyle** method is disabled because it is only available when the Team Planner view is open.
+The **FileOpen** method is available in most cases. The **IsCommandEnabled** method is undefined because it is not included in the internal list of methods. The **ResetTPStyle** method is disabled because it is only available when the Team Planner view is open.
 
 
 

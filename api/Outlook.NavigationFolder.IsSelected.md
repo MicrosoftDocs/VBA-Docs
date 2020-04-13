@@ -34,7 +34,7 @@ If the active explorer uses another view, such as the  **All Appointments** view
 
 In either case, an error occurs if the value of this property is set to  **False** for all **NavigationFolder** objects in the parent **[NavigationFolders](Outlook.NavigationFolders.md)** collection, or if the **NavigationFolder** object is contained by a navigation module other than the navigation module currently displayed in the navigation pane.
 
-The  **[SelectedChange](Outlook.NavigationGroups.SelectedChange.md)** event for the parent **NavigationFolders** collection is raised if the value of this property is changed for a **NavigationFolder** object in a **Calendar** navigation module, regardless of the current view.
+The **[SelectedChange](Outlook.NavigationGroups.SelectedChange.md)** event for the parent **NavigationFolders** collection is raised if the value of this property is changed for a **NavigationFolder** object in a **Calendar** navigation module, regardless of the current view.
 
 
 ## See also

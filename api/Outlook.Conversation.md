@@ -19,7 +19,7 @@ Represents a conversation that includes one or more items stored in one or more 
 
 ## Remarks
 
-The  **Conversation** object is an abstract, aggregated object. Although a conversation can include items of different types, the **Conversation** object does not correspond to a particular underlying MAPI **IMessage** object.
+The **Conversation** object is an abstract, aggregated object. Although a conversation can include items of different types, the **Conversation** object does not correspond to a particular underlying MAPI **IMessage** object.
 
 A conversation represents one or more items in one or more folders and stores. If you move an item in a conversation to the  **Deleted Items** folder and subsequently enumerate the conversation by using the **[GetChildren](Outlook.Conversation.GetChildren.md)**, **[GetRootItems](Outlook.Conversation.GetRootItems.md)**, or **[GetTable](Outlook.Conversation.GetTable.md)** method, the item will not be included in the returned object.
 

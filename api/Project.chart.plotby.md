@@ -22,7 +22,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Remarks
 
-For PivotChart reports, The  **PlotBy** property is read-only and always returns **xlColumns**.
+For PivotChart reports, The **PlotBy** property is read-only and always returns **xlColumns**.
 
 
 ## Property value

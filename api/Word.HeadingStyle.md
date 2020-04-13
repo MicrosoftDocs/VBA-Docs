@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # HeadingStyle object (Word)
 
-Represents a style used to build a table of contents or figures. The  **HeadingStyle** object is a member of the **[HeadingStyles](Word.headingstyles.md)** collection.
+Represents a style used to build a table of contents or figures. The **HeadingStyle** object is a member of the **[HeadingStyles](Word.headingstyles.md)** collection.
 
 
 ## Remarks

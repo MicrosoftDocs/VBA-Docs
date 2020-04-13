@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DocumentWindow object (PowerPoint)
 
-Represents a document window. The  **DocumentWindow** object is a member of the **[DocumentWindows](PowerPoint.DocumentWindows.md)** collection. The **DocumentWindows** collection contains all the open document windows.
+Represents a document window. The **DocumentWindow** object is a member of the **[DocumentWindows](PowerPoint.DocumentWindows.md)** collection. The **DocumentWindows** collection contains all the open document windows.
 
 
 ## Remarks

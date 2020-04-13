@@ -23,6 +23,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **DisplayAlerts** property is reset to **True** upon completion of a macro that sets it to **False**.
+The **DisplayAlerts** property is reset to **True** upon completion of a macro that sets it to **False**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

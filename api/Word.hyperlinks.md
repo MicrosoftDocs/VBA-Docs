@@ -47,7 +47,7 @@ If Selection.HyperLinks.Count >= 1 Then
 End If
 ```
 
-The  **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object.
+The **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object.
 
 
 ## Methods

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) 
 
 ## Remarks
 
-The  **Address** box on the **Details** tab can contain the URL location of the user's free-busy information in vCard Free-Busy standard format.
+The **Address** box on the **Details** tab can contain the URL location of the user's free-busy information in vCard Free-Busy standard format.
 
 
 ## See also

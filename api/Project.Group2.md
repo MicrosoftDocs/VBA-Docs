@@ -17,7 +17,7 @@ Represents a group definition where the group hierarchy can be maintained. A  **
 
 ## Remarks
 
-The  **Group2** object includes the **[MaintainHierarchy](Project.Group2.MaintainHierarchy.md)** property.
+The **Group2** object includes the **[MaintainHierarchy](Project.Group2.MaintainHierarchy.md)** property.
  
 
  

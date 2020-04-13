@@ -31,7 +31,7 @@ _expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) obje
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _EntryIDItem_|Required| **String**| The **[EntryID](Outlook.Folder.EntryID.md)** of the item.|
-| _EntryIDStore_|Optional| **Variant**|The  **[StoreID](Outlook.Folder.StoreID.md)** for the folder. _EntryIDStore_ usually must be provided when retrieving an item based on its MAPI IDs.|
+| _EntryIDStore_|Optional| **Variant**|The **[StoreID](Outlook.Folder.StoreID.md)** for the folder. _EntryIDStore_ usually must be provided when retrieving an item based on its MAPI IDs.|
 
 ## Return value
 

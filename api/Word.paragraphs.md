@@ -51,7 +51,7 @@ Use  **Paragraphs** (Index), where Index is the index number, to return a single
 ActiveDocument.Paragraphs(1).Alignment = wdAlignParagraphRight
 ```
 
-The  **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object.
+The **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object.
 
 
 ## See also

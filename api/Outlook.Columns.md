@@ -19,7 +19,7 @@ Represents the collection of  **[Column](Outlook.Column.md)** objects in a **[Ta
 
 ## Remarks
 
-The  **Columns** object supports enumerating **Column** objects in the **[Columns](Outlook.Columns.md)** collection object. It supports the COM interface, **IEnumerable**.
+The **Columns** object supports enumerating **Column** objects in the **[Columns](Outlook.Columns.md)** collection object. It supports the COM interface, **IEnumerable**.
 
 
 ## Example

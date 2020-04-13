@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Find](Word.Find.md)' object.
 
 ## Remarks
 
-The  **Highlight** property can return or be set to **True**, **False**, or **wdUndefined**. The **wdUndefined** value can be used with the **Find** object to ignore the state of highlight formatting in the selection or range that is searched.
+The **Highlight** property can return or be set to **True**, **False**, or **wdUndefined**. The **wdUndefined** value can be used with the **Find** object to ignore the state of highlight formatting in the selection or range that is searched.
 
 
 ## Example

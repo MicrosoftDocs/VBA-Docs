@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # ShapeRange.Callout property (Project)
-Gets callout formatting properties for the shape range, when the  **ShapeRange** object represents a callout. Read-only **CalloutFormat**.
+Gets callout formatting properties for the shape range, when the **ShapeRange** object represents a callout. Read-only **CalloutFormat**.
 
 ## Syntax
 

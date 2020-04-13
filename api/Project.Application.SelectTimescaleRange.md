@@ -42,7 +42,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Example
 
-The following example selects a five-day range of timescale data cells for the specified row. It assumes the timescale has not been changed from the default setting. The  **SelectRow** method is not required for this example, but is included to make the result easier to read.
+The following example selects a five-day range of timescale data cells for the specified row. It assumes the timescale has not been changed from the default setting. The **SelectRow** method is not required for this example, but is included to make the result easier to read.
 
 
 ```vb

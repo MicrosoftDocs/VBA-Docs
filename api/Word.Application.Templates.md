@@ -42,7 +42,7 @@ For Each aTemplate In Templates
 Next aTemplate
 ```
 
-In this example, if template one is a global template, its path is stored in  `thePath`. The  **ChDir** statement is used to make the folder with the path stored in `thePath` the current folder. When this change is made, the **Open** dialog box is displayed.
+In this example, if template one is a global template, its path is stored in  `thePath`. The **ChDir** statement is used to make the folder with the path stored in `thePath` the current folder. When this change is made, the **Open** dialog box is displayed.
 
 
 

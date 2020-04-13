@@ -39,7 +39,7 @@ AutoTextEntry
 
 ## Remarks
 
-The  **AppendToSpike** method is only valid for the **AutoTextEntries** collection in the Normal template.
+The **AppendToSpike** method is only valid for the **AutoTextEntries** collection in the Normal template.
 
 
 ## Example

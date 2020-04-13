@@ -41,7 +41,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **ShowOSFTaskPane** method is not fully implemented in Project. If another task pane app has been loaded, the **ShowOSFTaskPane** method displays an empty Office Add-ins task pane with an **APP ERROR** message. If another task pane app has not previously been loaded, the **ShowOSFTaskPane** method does nothing.
+The **ShowOSFTaskPane** method is not fully implemented in Project. If another task pane app has been loaded, the **ShowOSFTaskPane** method displays an empty Office Add-ins task pane with an **APP ERROR** message. If another task pane app has not previously been loaded, the **ShowOSFTaskPane** method does nothing.
 
 
 ## See also

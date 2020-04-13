@@ -39,7 +39,7 @@ A  **Variant** that represents the value of a property (as specified by _Index_ 
 
 ## Remarks
 
-The  **Item** method is the default method of the **Row** object, meaning that the method can be used implicitly. The following two lines of code both access the value of the **Subject** property at the specified **Row** in a **[Table](Outlook.Table.md)** :
+The **Item** method is the default method of the **Row** object, meaning that the method can be used implicitly. The following two lines of code both access the value of the **Subject** property at the specified **Row** in a **[Table](Outlook.Table.md)** :
 
  `Row.Item("Subject")`
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Table object (Word)
 
-Represents a single table. The  **Table** object is a member of the **[Tables](./Word.tables.md)** collection. The **Tables** collection includes all the tables in the specified selection, range, or document.
+Represents a single table. The **Table** object is a member of the **[Tables](./Word.tables.md)** collection. The **Tables** collection includes all the tables in the specified selection, range, or document.
 
 
 ## Remarks

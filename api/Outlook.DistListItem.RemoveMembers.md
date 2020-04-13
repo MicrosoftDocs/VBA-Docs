@@ -34,7 +34,7 @@ _expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example removes two members from the distribution list called Group List. The  **RemoveMembers** method will fail if the specified recipients are not valid. Before running the example, create or make sure a distribution list called 'Group List' exists in your default Contacts folder.
+The following Microsoft Visual Basic for Applications (VBA) example removes two members from the distribution list called Group List. The **RemoveMembers** method will fail if the specified recipients are not valid. Before running the example, create or make sure a distribution list called 'Group List' exists in your default Contacts folder.
 
 
 ```vb

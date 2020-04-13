@@ -23,7 +23,7 @@ _expression_ A variable that represents a [Resource](./Project.Resource.md) obje
 
 ## Remarks
 
-The  **Overallocated** property does not return any meaningful information for material resources.
+The **Overallocated** property does not return any meaningful information for material resources.
 
 
 ## Example

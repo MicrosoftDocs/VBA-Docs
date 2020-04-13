@@ -26,6 +26,6 @@ _expression_ A variable that represents a [ViewSingle](./Project.ViewSingle.md) 
 
 ## Remarks
 
-For an example using a resource group, see the  **[Group](Project.Resource.Group.md)** property of the **Resource** object.
+For an example using a resource group, see the **[Group](Project.Resource.Group.md)** property of the **Resource** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

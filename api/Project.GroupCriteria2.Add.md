@@ -33,9 +33,9 @@ _expression_.**Add** (_FieldName_, _Ascending_, _FontName_, _FontSize_, _FontBol
 | _FontItalic_|Optional|**Boolean**|**True** if the font in a group definition is italic. The default value is **False**.|
 | _FontUnderLine_|Optional|**Boolean**|**True** if the font in a group definition is underlined. The default value is **False**.|
 | _FontColor_|Optional|**PjColor**| The color of the font in a group definition. Can be one of the **[PjColor](Project.PjColor.md)** constants. The default value is **pjBlack**.|
-| _CellColor_|Optional|**PjColor**|The color of the cell background in a group definition. Can be one of the  **PjColor** constants. The default value is **pjColorAutomatic**.|
-| _Pattern_|Optional|**PjBackgroundPattern**|The pattern for the cells in a group definition. Can be one of the  **[PjBackgroundPattern](Project.PjBackgroundPattern.md)** constants.|
-| _GroupOn_|Optional|**PjGroupOn**|The type of grouping in a group definition. Can be one of the  **[PjGroupOn](Project.PjGroupOn.md)** constants. The default value is **pjGroupOnEachValue**.|
+| _CellColor_|Optional|**PjColor**|The color of the cell background in a group definition. Can be one of the **PjColor** constants. The default value is **pjColorAutomatic**.|
+| _Pattern_|Optional|**PjBackgroundPattern**|The pattern for the cells in a group definition. Can be one of the **[PjBackgroundPattern](Project.PjBackgroundPattern.md)** constants.|
+| _GroupOn_|Optional|**PjGroupOn**|The type of grouping in a group definition. Can be one of the **[PjGroupOn](Project.PjGroupOn.md)** constants. The default value is **pjGroupOnEachValue**.|
 | _StartAt_|Optional|**Variant**|The start of the intervals in a group definition. The default value is 0 for all fields except date fields, where it is the string "Project Start Date".|
 | _GroupInterval_|Optional|**Variant**|The interval in a group definition. The default value is 1.|
 

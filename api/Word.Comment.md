@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Comment object (Word)
 
-Represents a single comment. The  **Comment** object is a member of the **[Comments](Word.comments.md)** collection. The **Comments** collection includes comments in a selection, range or document.
+Represents a single comment. The **Comment** object is a member of the **[Comments](Word.comments.md)** collection. The **Comments** collection includes comments in a selection, range or document.
 
 
 ## Remarks

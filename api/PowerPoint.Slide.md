@@ -13,7 +13,7 @@ localization_priority: Normal
 
 # Slide object (PowerPoint)
 
-Represents a slide. The  **[Slides](PowerPoint.Slides.md)** collection contains all the **Slide** objects in a presentation.
+Represents a slide. The **[Slides](PowerPoint.Slides.md)** collection contains all the **Slide** objects in a presentation.
 
 ## Remarks
 

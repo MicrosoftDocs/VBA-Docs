@@ -21,9 +21,9 @@ _expression_ A variable that represents a  **SpinButton** object.
 
 ## Remarks
 
-The  **SmallChange** property specifies the amount of change to the **[Value](Outlook.spinbutton.value.md)** property.
+The **SmallChange** property specifies the amount of change to the **[Value](Outlook.spinbutton.value.md)** property.
 
-The  **SmallChange** property does not have units.
+The **SmallChange** property does not have units.
 
 Any integer is an acceptable setting for this property. The recommended range of values is from -32,767 to +32,767. The default value is 1.
 

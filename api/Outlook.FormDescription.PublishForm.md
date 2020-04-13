@@ -37,7 +37,7 @@ _expression_ A variable that represents a [FormDescription](Outlook.FormDescript
 
 
 > [!NOTE] 
-> The  **[Name](Outlook.FormDescription.Name.md)** property must be set before you can use the **PublishForm** method.
+> The **[Name](Outlook.FormDescription.Name.md)** property must be set before you can use the **PublishForm** method.
 
 Forms are registered as one of three classes: Folder, Organization, or Personal. The Folder form registry holds a set of forms that are only accessible from that specific folder, whether public or private. The Organization form registry holds forms that are shared across an entire enterprise and are accessible to everyone. The Personal form registry holds forms that are accessible only to the current store user.
 
@@ -48,7 +48,7 @@ This Visual Basic for Applications (VBA) example creates a contact, obtains its 
 
 
 > [!NOTE] 
-> The  **[PublishForm](Outlook.FormDescription.PublishForm.md)** method will return an error if the caption (**[Name](Outlook.FormDescription.Name.md)**) for the form is not set first.
+> The **[PublishForm](Outlook.FormDescription.PublishForm.md)** method will return an error if the caption (**[Name](Outlook.FormDescription.Name.md)**) for the form is not set first.
 
 
 ```vb

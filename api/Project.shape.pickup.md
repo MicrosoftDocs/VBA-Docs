@@ -24,7 +24,7 @@ _expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 ### Remarks
 
-Use the  **[Apply](Project.shape.apply.md)** method to apply copied formatting to another shape.
+Use the **[Apply](Project.shape.apply.md)** method to apply copied formatting to another shape.
 
 
 ## Example

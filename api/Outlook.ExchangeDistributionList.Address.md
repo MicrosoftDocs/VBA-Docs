@@ -28,7 +28,7 @@ _expression_ A variable that represents an [ExchangeDistributionList](Outlook.Ex
 
 This property assumes the X400 address of the distribution list. To determine the primary Internet address, use the  **[ExchangeDistributionList.PrimarySmtpAddress](Outlook.ExchangeDistributionList.PrimarySmtpAddress.md)** property.
 
-The  **Address** property must be set before calling the **[ExchangeDistributionList.Details](Outlook.ExchangeUser.Details.md)** method.
+The **Address** property must be set before calling the **[ExchangeDistributionList.Details](Outlook.ExchangeUser.Details.md)** method.
 
 
 ## See also

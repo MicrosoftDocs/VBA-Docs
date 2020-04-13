@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TabStop object (Word)
 
-Represents a single tab stop. The  **TabStop** object is a member of the **[TabStops](Word.tabstops.md)** collection. The **TabStops** collection represents all the custom and default tab stops in a paragraph or group of paragraphs.
+Represents a single tab stop. The **TabStop** object is a member of the **[TabStops](Word.tabstops.md)** collection. The **TabStops** collection represents all the custom and default tab stops in a paragraph or group of paragraphs.
 
 
 ## Remarks

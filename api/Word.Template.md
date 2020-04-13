@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Template object (Word)
 
-Represents a document template. The  **Template** object is a member of the **[Templates](Word.templates.md)** collection. The **Templates** collection includes all the available **Template** objects.
+Represents a document template. The **Template** object is a member of the **[Templates](Word.templates.md)** collection. The **Templates** collection includes all the available **Template** objects.
 
 
 ## Remarks
@@ -37,7 +37,7 @@ The index number represents the position of the template in the **Templates** co
 Templates(1).OpenAsDocument
 ```
 
-The  **Add** method is not available for the **Templates** collection. Instead, you can add a template to the **Templates** collection by doing any of the following:
+The **Add** method is not available for the **Templates** collection. Instead, you can add a template to the **Templates** collection by doing any of the following:
 
 
 - Using the **Open** method with the **Documents** collection to open a document based on a template or a template

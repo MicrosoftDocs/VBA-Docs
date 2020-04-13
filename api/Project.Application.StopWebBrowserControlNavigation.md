@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.StopWebBrowserControlNavigation method (Project)
 
-Stops a webpage from loading in the active window. The  **StopWebBrowserControlNavigation** method has the same effect as clicking **Stop** on the **Web** toolbar.
+Stops a webpage from loading in the active window. The **StopWebBrowserControlNavigation** method has the same effect as clicking **Stop** on the **Web** toolbar.
 
 
 ## Syntax

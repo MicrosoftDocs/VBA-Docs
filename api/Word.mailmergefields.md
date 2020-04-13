@@ -44,7 +44,7 @@ Use  **Fields** (Index), where Index is the index number, to return a single **M
 MsgBox ActiveDocument.MailMerge.Fields(1).Code
 ```
 
-The  **MailMergeFields** collection has additional methods, such as **AddAsk** and **AddFillIn**, for adding fields related to a mail merge operation.
+The **MailMergeFields** collection has additional methods, such as **AddAsk** and **AddFillIn**, for adding fields related to a mail merge operation.
 
 
 ## Methods

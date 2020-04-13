@@ -31,7 +31,7 @@ A  **Table** whose rows represent items in the current table view.
 
 ## Remarks
 
-The  **GetTable** method of the **TableView** object returns a table of items from one or more folders in the same store or spanning over multiple stores, in an aggregated view. For example, an aggregated view obtained by a search across all mail items by using Instant Search. This behavior differs from the **[GetTable](Outlook.Folder.GetTable.md)** method of the **[Folder](Outlook.Folder.md)** object, which obtains a table object that contains items from the same folder.
+The **GetTable** method of the **TableView** object returns a table of items from one or more folders in the same store or spanning over multiple stores, in an aggregated view. For example, an aggregated view obtained by a search across all mail items by using Instant Search. This behavior differs from the **[GetTable](Outlook.Folder.GetTable.md)** method of the **[Folder](Outlook.Folder.md)** object, which obtains a table object that contains items from the same folder.
 
  The parent **TableView** object must be based on the current folder of the active explorer, as indicated by the **[CurrentFolder](Outlook.Explorer.CurrentFolder.md)** property of the active **[Explorer](Outlook.Explorer.md)** object. If the folder is not a current folder of a visible explorer, or if the view of that folder, which is indicated by the **[Folder.CurrentView](Outlook.Folder.CurrentView.md)** property, is not a table view, Outlook returns an error.
 

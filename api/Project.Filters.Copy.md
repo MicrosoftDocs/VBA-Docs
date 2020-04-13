@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Filters.Copy method (Project)
 
-Makes a copy of a group definition for the  **Filters** collection and returns a reference to the **[Filter](Project.Filter.md)** object.
+Makes a copy of a group definition for the **Filters** collection and returns a reference to the **[Filter](Project.Filter.md)** object.
 
 
 ## Syntax

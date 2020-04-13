@@ -31,7 +31,7 @@ _expression_ A variable that represents a [ChartData](./Word.ChartData.md) objec
 
 If the data grid window is already open, this method has no effect.
 
-The  **ActivateChartDataWindow** method differs from the [ChartData.Activate](Word.ChartData.Activate.md) method in that the former opens the chart in an Excel window within Word, with the Excel ribbon unavailable, whereas the latter opens a full version of Excel, with the ribbon available.
+The **ActivateChartDataWindow** method differs from the [ChartData.Activate](Word.ChartData.Activate.md) method in that the former opens the chart in an Excel window within Word, with the Excel ribbon unavailable, whereas the latter opens a full version of Excel, with the ribbon available.
 
 
 ## Example

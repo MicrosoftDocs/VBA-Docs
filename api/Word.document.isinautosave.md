@@ -29,7 +29,7 @@ _expression_ A variable that represents a [Document](./Word.Document.md) object.
 
 ## Remarks
 
-The  **IsInAutosave** property is designed to be used in an event handler for the **Application.DocumentBeforeSave** event. Using it for other purposes is not recommended.
+The **IsInAutosave** property is designed to be used in an event handler for the **Application.DocumentBeforeSave** event. Using it for other purposes is not recommended.
 
 
 > [!NOTE] 

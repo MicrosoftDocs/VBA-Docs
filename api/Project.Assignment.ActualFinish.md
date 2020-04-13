@@ -23,6 +23,6 @@ _expression_ A variable that represents an [Assignment](./Project.Assignment.md)
 
 ## Remarks
 
-For an example that sets the actual finish date of a task, see the  **[ActualFinish](Project.Task.ActualFinish.md)** property for the **Task** object.
+For an example that sets the actual finish date of a task, see the **[ActualFinish](Project.Task.ActualFinish.md)** property for the **Task** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

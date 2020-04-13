@@ -11,12 +11,12 @@ localization_priority: Normal
 
 # StartDriver object (Project)
 
-Represents the  **StartDriver** of the **Task**.
+Represents the **StartDriver** of the **Task**.
 
 
 ## Remarks
 
-Use the  **[Index](./Project.Task.Index.md)** method of the **[Task](Project.Task.md)** object to access the **StartDriver** object. For example:
+Use the **[Index](./Project.Task.Index.md)** method of the **[Task](Project.Task.md)** object to access the **StartDriver** object. For example:
 
 
 ## Properties

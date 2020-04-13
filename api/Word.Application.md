@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application object (Word)
 
-Represents the Microsoft Word application. The  **Application** object includes properties and methods that return top-level objects. For example, the **[ActiveDocument](./Word.Application.ActiveDocument.md)** property returns a **[Document](Word.Document.md)** object.
+Represents the Microsoft Word application. The **Application** object includes properties and methods that return top-level objects. For example, the **[ActiveDocument](./Word.Application.ActiveDocument.md)** property returns a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

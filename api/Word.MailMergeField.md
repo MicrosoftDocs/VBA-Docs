@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailMergeField object (Word)
 
-Represents a single mail merge field in a document. The  **MailMergeDataField** object is a member of the **[MailMergeDataFields](Word.mailmergedatafields.md)** collection. The **MailMergeDataFields** collection includes all the mail merge related fields in a document.
+Represents a single mail merge field in a document. The **MailMergeDataField** object is a member of the **[MailMergeDataFields](Word.mailmergedatafields.md)** collection. The **MailMergeDataFields** collection includes all the mail merge related fields in a document.
 
 
 ## Remarks
@@ -36,7 +36,7 @@ ActiveDocument.MailMerge.Fields.Add Range:=Selection.Range, _
  Name:="MiddleInitial"
 ```
 
-The  **MailMergeFields** collection has additional methods, such as **AddAsk** and **AddFillIn**, for adding fields related to a mail merge operation.
+The **MailMergeFields** collection has additional methods, such as **AddAsk** and **AddFillIn**, for adding fields related to a mail merge operation.
 
 
 ## See also

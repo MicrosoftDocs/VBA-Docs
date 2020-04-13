@@ -31,7 +31,7 @@ _expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.m
 
 ## Remarks
 
-The  **ExchangeUser** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **GetContact** method from the **AddressEntry** object, and in the case of **ExchangeUser**, this method always returns **Null**.
+The **ExchangeUser** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **GetContact** method from the **AddressEntry** object, and in the case of **ExchangeUser**, this method always returns **Null**.
 
 
 ## See also

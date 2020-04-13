@@ -21,7 +21,7 @@ _expression_ A variable that represents a  **TextBox** object.
 
 ## Remarks
 
-The  **CurX** property applies to a multiline **TextBox**. The return value is valid when the object has the focus.
+The **CurX** property applies to a multiline **TextBox**. The return value is valid when the object has the focus.
 
 You can use  **[CurTargetX](Outlook.textbox.curtargetx.md)** and **CurX** to position the insertion point as the user scrolls through the contents of a multiline **TextBox**. When the user moves the insertion point to another line of text by scrolling the content of the object,  **CurTargetX** specifies the preferred position for the insertion point. **CurX** is set to this value if the line of text is longer than the value of **CurTargetX**. Otherwise,  **CurX** is set to the end of the line of text.
 

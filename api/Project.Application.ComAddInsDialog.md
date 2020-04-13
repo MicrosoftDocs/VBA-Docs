@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ComAddInsDialog method (Project)
 
-Displays the  **COM Add-Ins** dialog box, which lists any COM add-ins available for installation.
+Displays the **COM Add-Ins** dialog box, which lists any COM add-ins available for installation.
 
 
 ## Syntax

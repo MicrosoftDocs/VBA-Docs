@@ -27,6 +27,6 @@ The value of  **Text** must match an existing list entry. Specifying a value tha
 
 You cannot use  **Text** to change the value of an entry in a **ListBox**; use the  **[Column](Outlook.listbox.column.md)** or **[List](Outlook.listbox.list.md)** property for this purpose.
 
-The  **[ForeColor](Outlook.listbox.forecolor.md)** property determines the color of the text.
+The **[ForeColor](Outlook.listbox.forecolor.md)** property determines the color of the text.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

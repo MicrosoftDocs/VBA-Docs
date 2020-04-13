@@ -23,6 +23,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The  **ServerIdentification** property can be one of the following **[PjAuthentication](Project.PjAuthentication.md)** constants: **pjWindowsUserAccount** or **pjUserName**.
+The **ServerIdentification** property can be one of the following **[PjAuthentication](Project.PjAuthentication.md)** constants: **pjWindowsUserAccount** or **pjUserName**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

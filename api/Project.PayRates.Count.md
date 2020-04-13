@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # PayRates.Count property (Project)
 
-Gets the number of items in the  **PayRates** collection. Read-only **Long**.
+Gets the number of items in the **PayRates** collection. Read-only **Long**.
 
 
 ## Syntax

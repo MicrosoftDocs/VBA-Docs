@@ -31,7 +31,7 @@ A  **[Folder](Outlook.Folder.md)** object that represents the folder that the us
 
 ## Remarks
 
-The  **Pick Folder** dialog box is a modal dialog box which means that code execution will not continue until the user either selects a folder or cancels the dialog box.
+The **Pick Folder** dialog box is a modal dialog box which means that code execution will not continue until the user either selects a folder or cancels the dialog box.
 
 
 ## See also

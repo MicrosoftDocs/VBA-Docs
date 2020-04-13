@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.CleanupCache method (Project)
 
-Displays the  **Cleanup Cache** dialog box. Available only in Project Professional.
+Displays the **Cleanup Cache** dialog box. Available only in Project Professional.
 
 
 ## Syntax

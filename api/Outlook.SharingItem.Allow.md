@@ -26,9 +26,9 @@ _expression_. `Allow`
 
 ## Remarks
 
-The  **Allow** method can only be called on **SharingItem** objects with a **[Type](Outlook.SharingItem.Type.md)** property value of **olSharingMsgTypeRequest** or **olSharingMsgTypeInviteAndRequest**.
+The **Allow** method can only be called on **SharingItem** objects with a **[Type](Outlook.SharingItem.Type.md)** property value of **olSharingMsgTypeRequest** or **olSharingMsgTypeInviteAndRequest**.
 
-The  **Type** property of the sharing response sent when this method is called is set to **olSharingMsgTypeResponseAllow**.
+The **Type** property of the sharing response sent when this method is called is set to **olSharingMsgTypeResponseAllow**.
 
 
 > [!NOTE] 

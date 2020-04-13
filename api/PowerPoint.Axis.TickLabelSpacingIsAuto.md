@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 ## Remarks
 
-The  **[TickLabelSpacing](PowerPoint.Axis.TickLabelSpacing.md)** property returns the current tick label spacing, whether or not the setting is automatic.
+The **[TickLabelSpacing](PowerPoint.Axis.TickLabelSpacing.md)** property returns the current tick label spacing, whether or not the setting is automatic.
 
 
 ## See also

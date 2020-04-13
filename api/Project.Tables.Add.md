@@ -28,7 +28,7 @@ _expression_ A variable that represents a 'Tables' object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the table.|
-| _Field_|Required|**Long**|The name of the field. Can be one of the  **[PjField](Project.PjField.md)** constants.|
+| _Field_|Required|**Long**|The name of the field. Can be one of the **[PjField](Project.PjField.md)** constants.|
 | _Task_|Optional|**Boolean**|**True** if the table being added is a task table. The default value is **True**.|
 
 ## Return value

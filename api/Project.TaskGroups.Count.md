@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # TaskGroups.Count property (Project)
 
-Gets the number of items in the  **TaskGroups** collection. Read-only **Long**.
+Gets the number of items in the **TaskGroups** collection. Read-only **Long**.
 
 
 ## Syntax
@@ -23,6 +23,6 @@ _expression_ A variable that represents a 'TaskGroups' object.
 
 ## Remarks
 
-Use of the  **Count** property in most collection objects is similar. For an example, see the **[Assignments.Count](Project.Assignments.Count.md)** property.
+Use of the **Count** property in most collection objects is similar. For an example, see the **[Assignments.Count](Project.Assignments.Count.md)** property.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

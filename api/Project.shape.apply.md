@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shape.Apply method (Project)
-Applies formatting to a shape, where the formatting information has been copied by using the  **[PickUp](Project.shape.pickup.md)** method.
+Applies formatting to a shape, where the formatting information has been copied by using the **[PickUp](Project.shape.pickup.md)** method.
 
 ## Syntax
 

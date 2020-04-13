@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormField object (Word)
 
-Represents a single form field. The  **FormField** object is a member of the **FormFields** collection.
+Represents a single form field. The **FormField** object is a member of the **FormFields** collection.
 
 
 ## Remarks

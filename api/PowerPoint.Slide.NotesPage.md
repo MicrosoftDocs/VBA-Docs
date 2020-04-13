@@ -31,7 +31,7 @@ SlideRange
 
 ## Remarks
 
-The  **NotesPage** property returns the notes page for either a single slide or a range of slides and allows you to make changes only to those notes pages. If you want to make changes that affect all notes pages, use the **[NotesMaster](PowerPoint.Presentation.NotesMaster.md)** property to return the **Slide** object that represents the notes master.
+The **NotesPage** property returns the notes page for either a single slide or a range of slides and allows you to make changes only to those notes pages. If you want to make changes that affect all notes pages, use the **[NotesMaster](PowerPoint.Presentation.NotesMaster.md)** property to return the **Slide** object that represents the notes master.
 
 
 ## Example

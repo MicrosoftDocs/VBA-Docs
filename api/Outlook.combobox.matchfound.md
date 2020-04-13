@@ -26,6 +26,6 @@ _expression_ A variable that represents a  **ComboBox** object.
 
  **True** if the contents of the **[Value](Outlook.combobox.value.md)** property matches one of the records in the list. **False** if the contents of **Value** does not match any of the records in the list (default).
 
-The  **MatchFound** property is read-only. It is not applicable when the **[MatchEntry](Outlook.combobox.matchentry.md)** property is set to 2.
+The **MatchFound** property is read-only. It is not applicable when the **[MatchEntry](Outlook.combobox.matchentry.md)** property is set to 2.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

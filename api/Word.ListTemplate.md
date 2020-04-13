@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ListTemplate object (Word)
 
-Represents a single list template that includes all the formatting that defines a list. The  **ListTemplate** object is a member of the **ListTemplates** collection.
+Represents a single list template that includes all the formatting that defines a list. The **ListTemplate** object is a member of the **ListTemplates** collection.
 
 
 ## Remarks

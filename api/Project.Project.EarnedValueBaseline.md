@@ -26,6 +26,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The  **EarnedValueBaseline** property is one of the **[PjBaseline](Project.PjBaselines.md)** constants, for example, **pjBaseline** or **pjBaseline1** through **pjBaseline10**.
+The **EarnedValueBaseline** property is one of the **[PjBaseline](Project.PjBaselines.md)** constants, for example, **pjBaseline** or **pjBaseline1** through **pjBaseline10**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [FormDescription](Outlook.FormDescript
 
 ## Remarks
 
-The  **Name** is also the caption for a form. This property must be set before you can use the **[FormDescription.PublishForm](Outlook.FormDescription.PublishForm.md)** method.
+The **Name** is also the caption for a form. This property must be set before you can use the **[FormDescription.PublishForm](Outlook.FormDescription.PublishForm.md)** method.
 
 
 ## See also

@@ -27,7 +27,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Window_|Required|**Window**|The window where the  **Project Guide** is being changed.|
+| _Window_|Required|**Window**|The window where the **Project Guide** is being changed.|
 | _goalArea_|Required|**Long**|The ID of the goal area the user just clicked.|
 
 ## Return value

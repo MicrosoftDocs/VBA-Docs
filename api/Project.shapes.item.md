@@ -35,14 +35,14 @@ The shape that is specified by the  _Index_ parameter.
 
 ## Remarks
 
-The  **Item** method acts like the default **[Shapes.Value](Project.shapes.value.md)** property. For example, create a report namedTable Tests that contains a table. The following statement in the Immediate window of the VBE prints the name of the table.
+The **Item** method acts like the default **[Shapes.Value](Project.shapes.value.md)** property. For example, create a report namedTable Tests that contains a table. The following statement in the Immediate window of the VBE prints the name of the table.
 
 
 ```vb
 ? ActiveProject.Reports("Table Tests").Shapes.Item(1).Name
 ```
 
-If you leave off the  **Item** method, the following statement has the same output, but uses the default **Value** property to get the **Shape** object.
+If you leave off the **Item** method, the following statement has the same output, but uses the default **Value** property to get the **Shape** object.
 
 
 

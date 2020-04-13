@@ -28,6 +28,6 @@ _expression_ A variable that represents a [Resource](./Project.Resource.md) obje
 
 To enable a resource to use a local calendar, click  **Allow projects to use local base calendars** on the Additional Server Settings page in Project Web App.
 
-The  **EnterpriseBaseCalendar** property is available only in Project Professional.
+The **EnterpriseBaseCalendar** property is available only in Project Professional.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

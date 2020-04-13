@@ -31,7 +31,7 @@ Integer
 
 ## Remarks
 
-The  **InvertColor** property enables you to set the fill color for negative data points as a specific numeric, hexadecimal, octal, or RGB color value. To set the value as an RBG value, use the Visual Basic[RGB](../language/reference/User-Interface-Help/rgb-function.md) function. Instead of using the **InvertColor** property, you can use the [InvertColorIndex](Word.Series.InvertColorIndex.md) property, which uses a simplier set of integer values from the current color palette. For the **InvertColor** property to have an effect, the [InvertIfNegative](Word.Series.InvertIfNegative.md) property of the **Series** object must also be set to **True**.
+The **InvertColor** property enables you to set the fill color for negative data points as a specific numeric, hexadecimal, octal, or RGB color value. To set the value as an RBG value, use the Visual Basic[RGB](../language/reference/User-Interface-Help/rgb-function.md) function. Instead of using the **InvertColor** property, you can use the [InvertColorIndex](Word.Series.InvertColorIndex.md) property, which uses a simplier set of integer values from the current color palette. For the **InvertColor** property to have an effect, the [InvertIfNegative](Word.Series.InvertIfNegative.md) property of the **Series** object must also be set to **True**.
 
 
 ## See also

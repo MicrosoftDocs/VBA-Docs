@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.MacroSecurity method (Project)
 
-Displays the  **Security** dialog box, which can be used to set the security level for macros. It also lists any macro sources that can be trusted.
+Displays the **Security** dialog box, which can be used to set the security level for macros. It also lists any macro sources that can be trusted.
 
 
 ## Syntax
@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **MacroSecurity** method has the same effect as clicking **Trust Center Settings** in the **Project Options** dialog box, and then clicking **Macro Settings**.
+The **MacroSecurity** method has the same effect as clicking **Trust Center Settings** in the **Project Options** dialog box, and then clicking **Macro Settings**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

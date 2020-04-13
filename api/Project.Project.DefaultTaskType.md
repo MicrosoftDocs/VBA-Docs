@@ -23,6 +23,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The  **DefaultTaskType** property can be one of the following **[PjTaskFixedType](Project.PjTaskFixedType.md)** constants: **pjFixedDuration**, **pjFixedUnits**, or **pjFixedWork**.
+The **DefaultTaskType** property can be one of the following **[PjTaskFixedType](Project.PjTaskFixedType.md)** constants: **pjFixedDuration**, **pjFixedUnits**, or **pjFixedWork**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

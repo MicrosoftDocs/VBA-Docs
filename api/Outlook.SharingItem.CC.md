@@ -26,7 +26,7 @@ _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) 
 
 ## Remarks
 
-This property contains only the display names, delimited by semicolon (;) characters. The  **[Recipients](Outlook.Recipients.md)** collection should be used to modify the CC recipients.
+This property contains only the display names, delimited by semicolon (;) characters. The **[Recipients](Outlook.Recipients.md)** collection should be used to modify the CC recipients.
 
 
 > [!NOTE] 

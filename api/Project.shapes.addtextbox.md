@@ -42,7 +42,7 @@ _expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object
 
 ## Example
 
-The following example adds a text box with a light yellow background and a visible border. The text string is formatted and manipulated by using members of the  **TextFrame2** object.
+The following example adds a text box with a light yellow background and a visible border. The text string is formatted and manipulated by using members of the **TextFrame2** object.
 
 
 ```vb

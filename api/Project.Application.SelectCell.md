@@ -41,7 +41,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Using the  **SelectCell** method without specifying any arguments retains the current cell as the active cell.
+Using the **SelectCell** method without specifying any arguments retains the current cell as the active cell.
 
 
 ## Example

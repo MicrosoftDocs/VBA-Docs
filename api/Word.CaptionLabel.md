@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CaptionLabel object (Word)
 
-Represents a single caption label. The  **CaptionLabel** object is a member of the **[CaptionLabels](Word.captionlabels.md)** collection. The items in the **CaptionLabels** collection are listed in the **Label** box in the **Caption** dialog box.
+Represents a single caption label. The **CaptionLabel** object is a member of the **[CaptionLabels](Word.captionlabels.md)** collection. The items in the **CaptionLabels** collection are listed in the **Label** box in the **Caption** dialog box.
 
 
 ## Remarks

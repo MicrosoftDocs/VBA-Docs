@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _FieldID_|Required|**Long**|For a local custom field, can be one of the  **[PjField](Project.PjField.md)** constants for task custom fields. For an enterprise custom field, use the **[FieldNameToFieldConstant](Project.Application.FieldNameToFieldConstant.md)** method to get the _FieldID_.|
+| _FieldID_|Required|**Long**|For a local custom field, can be one of the **[PjField](Project.PjField.md)** constants for task custom fields. For an enterprise custom field, use the **[FieldNameToFieldConstant](Project.Application.FieldNameToFieldConstant.md)** method to get the _FieldID_.|
 
 ## Return value
 
@@ -38,25 +38,25 @@ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 If the task custom field is an estimated duration, the returned value also includes the character that indicates an estimated value.
 
-You can access project custom fields through the  **ProjectSummaryTask** property.
+You can access project custom fields through the **ProjectSummaryTask** property.
 
 
 ## Example
 
-The following example uses the  **SetField** method and the **GetField** method together with the **FieldNameToFieldConstant** method and the **FieldConstantToFieldName** method:
+The following example uses the **SetField** method and the **GetField** method together with the **FieldNameToFieldConstant** method and the **FieldConstantToFieldName** method:
 
 
 1. To use the example, use Project Web App to create an enterprise project text custom field named  **TestEntProjText**. 
     
 2. Restart Project Professional with a Project Server profile so that it includes the new custom field.
     
-3. Create a project with some value for the  **TestEntProjText** field, by using the **Project Information** dialog box.
+3. Create a project with some value for the **TestEntProjText** field, by using the **Project Information** dialog box.
     
-4. The  **TestEnterpriseProjectCF** macro uses the **FieldNameToFieldConstant** method to find the projectField number, for example, 190873618.
+4. The **TestEnterpriseProjectCF** macro uses the **FieldNameToFieldConstant** method to find the projectField number, for example, 190873618.
     
-5. The macro shows the number and text value in a message box, by using the  **GetField** method.
+5. The macro shows the number and text value in a message box, by using the **GetField** method.
     
-6. The macro gets the field name by using the  **FieldConstantToFieldName** method, sets a new value by using the **SetField** method, and then shows the field name and new value in another message box.
+6. The macro gets the field name by using the **FieldConstantToFieldName** method, sets a new value by using the **SetField** method, and then shows the field name and new value in another message box.
     
 
 

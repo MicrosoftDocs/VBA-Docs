@@ -23,7 +23,7 @@ _expression_. `TotalDetectedCount`
 
 ## Remarks
 
-For an example that uses the  **TotalDetectedCount** property, see the **[Item](Project.OverAllocatedAssignments.Item.md)** property.
+For an example that uses the **TotalDetectedCount** property, see the **[Item](Project.OverAllocatedAssignments.Item.md)** property.
 
 
 ## See also

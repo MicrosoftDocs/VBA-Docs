@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # PageNumber object (Word)
 
-Represents a page number in a header or footer. The  **PageNumber** object is a member of the **[PageNumbers](Word.pagenumbers.md)** collection. The **PageNumbers** collection includes all the page numbers in a single header or footer.
+Represents a page number in a header or footer. The **PageNumber** object is a member of the **[PageNumbers](Word.pagenumbers.md)** collection. The **PageNumbers** collection includes all the page numbers in a single header or footer.
 
 
 ## Remarks

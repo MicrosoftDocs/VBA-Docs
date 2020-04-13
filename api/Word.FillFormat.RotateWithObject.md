@@ -39,7 +39,7 @@ The setting of the **RotateWithObject** property corresponds to the setting of t
 
 
 > [!NOTE] 
-> The  **Rotate with shape** box only appears if you have either the **Gradient fill** or **Picture or texture fill** option buttons selected on the **Fill** pane of the **Format Shape** dialog box.
+> The **Rotate with shape** box only appears if you have either the **Gradient fill** or **Picture or texture fill** option buttons selected on the **Fill** pane of the **Format Shape** dialog box.
 
 
 ## See also

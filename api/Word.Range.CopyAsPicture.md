@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Range.CopyAsPicture method (Word)
 
-The  **CopyAsPicture** method works the same way as the **Copy** method.
+The **CopyAsPicture** method works the same way as the **Copy** method.
 
 
 ## Syntax

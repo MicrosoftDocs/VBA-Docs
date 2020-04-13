@@ -71,7 +71,7 @@ Set myspell = Languages(wdEnglishUS).ActiveSpellingDictionary
 MsgBox mySpell.Path & Application.PathSeparator & mySpell.Name
 ```
 
-The  **[ReadOnly](Word.Dictionary.ReadOnly.md)** property returns **True** for .lex files (built-in proofing dictionaries) and **False** for .dic files (custom spelling dictionaries).
+The **[ReadOnly](Word.Dictionary.ReadOnly.md)** property returns **True** for .lex files (built-in proofing dictionaries) and **False** for .dic files (custom spelling dictionaries).
 
 
 ## See also

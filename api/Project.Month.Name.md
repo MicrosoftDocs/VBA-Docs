@@ -25,6 +25,6 @@ _expression_ A variable that represents a [Month](./Project.Month.md) object.
 
  **Name** is the default property of the **Month** object.
 
-For a code example that uses the  **Task** object, see **[Name](Project.Task.Name.md)**.
+For a code example that uses the **Task** object, see **[Name](Project.Task.Name.md)**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

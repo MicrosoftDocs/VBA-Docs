@@ -28,7 +28,7 @@ _expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.m
 
 This property assumes the X400 address of the user. To determine the primary Internet address, use the  **[ExchangeUser.PrimarySmtpAddress](Outlook.ExchangeUser.PrimarySmtpAddress.md)** property.
 
-The  **Address** property must be set before calling the **[ExchangeUser.Details](Outlook.ExchangeUser.Details.md)** method.
+The **Address** property must be set before calling the **[ExchangeUser.Details](Outlook.ExchangeUser.Details.md)** method.
 
 
 ## See also

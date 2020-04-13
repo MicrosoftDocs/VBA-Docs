@@ -26,7 +26,7 @@ A  **TextFrame2** object contains many of the same properties as a **TextFrame**
 
 The following example creates two text boxes and adds them to a  **ShapeRange** object, sets both text frames to automatically fit the text, sets the foreground color of text in the first text box shape to red, sets the foreground color of the shape range to a yellowish tan, and then uses the **TextEffect** property to set font properties on both text boxes in the shape range.
 
-The  **TextFrame2** property for the individual **Shape** objects are shown in bold font.
+The **TextFrame2** property for the individual **Shape** objects are shown in bold font.
 
 
 

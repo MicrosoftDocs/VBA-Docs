@@ -37,7 +37,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-The  **SendForReview** method starts a collaborative review cycle. Use the **EndReview** method to end a review cycle.
+The **SendForReview** method starts a collaborative review cycle. Use the **EndReview** method to end a review cycle.
 
 
 ## Example

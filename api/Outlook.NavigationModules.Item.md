@@ -39,7 +39,7 @@ A  **NavigationModule** object that represents the specified object.
 
 ## Remarks
 
-The  **[Name](Outlook.NavigationModule.Name.md)** property is the default property of the **NavigationModule** object.
+The **[Name](Outlook.NavigationModule.Name.md)** property is the default property of the **NavigationModule** object.
 
 
 ## See also

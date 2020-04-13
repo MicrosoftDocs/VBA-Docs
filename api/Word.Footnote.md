@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Footnote object (Word)
 
-Represents a footnote positioned at the bottom of the page or beneath text. The  **Footnote** object is a member of the **Footnotes** collection. The **[Footnotes](Word.footnotes.md)** collection represents the footnotes in a selection, range, or document.
+Represents a footnote positioned at the bottom of the page or beneath text. The **Footnote** object is a member of the **Footnotes** collection. The **[Footnotes](Word.footnotes.md)** collection represents the footnotes in a selection, range, or document.
 
 
 ## Remarks

@@ -31,7 +31,7 @@ A  **[MailItem](Outlook.MailItem.md)** object that represents the new mail item 
 
 ## Remarks
 
-The  **ForwardAsVcal** method returns a **[MailItem](Outlook.MailItem.md)** with the vCal file attached.
+The **ForwardAsVcal** method returns a **[MailItem](Outlook.MailItem.md)** with the vCal file attached.
 
 
 ## See also

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ImportOutlookTasks method (Project)
 
-Displays the  **Import Outlook Tasks** dialog box, which allows tasks to be imported from Microsoft Outlook.
+Displays the **Import Outlook Tasks** dialog box, which allows tasks to be imported from Microsoft Outlook.
 
 
 ## Syntax

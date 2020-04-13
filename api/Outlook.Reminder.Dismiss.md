@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Reminder](Outlook.Reminder.md) object
 
 ## Remarks
 
-The  **Dismiss** method will fail if there is no visible reminder.
+The **Dismiss** method will fail if there is no visible reminder.
 
 
 ## Example

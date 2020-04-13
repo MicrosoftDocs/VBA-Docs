@@ -23,7 +23,7 @@ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 ## Remarks
 
-The  **DeliverableType** property can have the following values:
+The **DeliverableType** property can have the following values:
 
 
 

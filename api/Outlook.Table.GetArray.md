@@ -39,7 +39,7 @@ A  **Variant** value that is a two-dimensional array representing a set of row a
 
 ## Remarks
 
-The  **GetArray** method offers a conceptually simple means to get values from a **Table** by copying all or part of the data in the **Table** (based on the current row) to an array and indexing into the array.
+The **GetArray** method offers a conceptually simple means to get values from a **Table** by copying all or part of the data in the **Table** (based on the current row) to an array and indexing into the array.
 
  **GetArray** always starts at the current row of the **Table**. It returns an array with _MaxRows_ number of rows if there are at least _MaxRows_ number of rows in the **Table** starting at the current position. If _MaxRows_ is not larger than the total number of rows in the **Table**, and there are fewer than _MaxRows_ number of elements in the **Table** starting at the current row, it will return an array that contains only the remaining rows in the **Table**. If **GetArray** is called and there are no remaining rows, then **GetArray** returns an empty array with zero elements.
 

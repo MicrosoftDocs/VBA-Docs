@@ -23,6 +23,6 @@ _expression_ A variable that represents an [Assignment](./Project.Assignment.md)
 
 ## Remarks
 
-The  **FixedMaterialAssignment** property returns **True** if the assignment is for a work (non-material) resource.
+The **FixedMaterialAssignment** property returns **True** if the assignment is for a work (non-material) resource.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

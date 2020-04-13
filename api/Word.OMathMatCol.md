@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OMathMatCol object (Word)
 
-Represents a matrix column. The  **OMathMatCol** is a member of the **OMathMatCols** collection.
+Represents a matrix column. The **OMathMatCol** is a member of the **OMathMatCols** collection.
 
 
 ## See also

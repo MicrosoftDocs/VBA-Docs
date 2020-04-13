@@ -19,7 +19,7 @@ Represents a custom slide show, which is a named subset of slides in a presentat
 
 ## Remarks
 
-The  **NamedSlideShow** object is a member of the **[NamedSlideShows](PowerPoint.NamedSlideShows.md)** collection. The **NamedSlideShows** collection contains all the named slide shows in the presentation.
+The **NamedSlideShow** object is a member of the **[NamedSlideShows](PowerPoint.NamedSlideShows.md)** collection. The **NamedSlideShows** collection contains all the named slide shows in the presentation.
 
 
 ## Example

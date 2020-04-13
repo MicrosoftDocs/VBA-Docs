@@ -26,7 +26,7 @@ _expression_ A variable that represents a [View](Outlook.View.md) object.
 
 ## Remarks
 
-The  **SaveOption** property is set when the **[View](Outlook.View.md)** object is created by using the **[Views.Add](Outlook.Views.Add.md)** method.
+The **SaveOption** property is set when the **[View](Outlook.View.md)** object is created by using the **[Views.Add](Outlook.Views.Add.md)** method.
 
 
 ## Example

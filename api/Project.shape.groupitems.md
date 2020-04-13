@@ -19,7 +19,7 @@ _expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
 ## Remarks
 
-Use the  **GroupShapes.Item** method to return a single shape from the group.
+Use the **GroupShapes.Item** method to return a single shape from the group.
 
 
 ## Property value

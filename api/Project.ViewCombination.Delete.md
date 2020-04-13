@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # ViewCombination.Delete method (Project)
 
-Deletes the  **ViewCombination** object from a **ViewsCombination** collection.
+Deletes the **ViewCombination** object from a **ViewsCombination** collection.
 
 
 ## Syntax

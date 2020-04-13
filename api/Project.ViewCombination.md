@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # ViewCombination object (Project)
 
-Represents a combination view in Project. The  **ViewCombination** object is a member of the **[ViewsCombination](Project.viewscombination(object).md)** collection.
+Represents a combination view in Project. The **ViewCombination** object is a member of the **[ViewsCombination](Project.viewscombination(object).md)** collection.
  
 
 

@@ -72,7 +72,7 @@ MsgBox "Base style= " _
  & "Style name= " & ActiveDocument.Styles(1).NameLocal
 ```
 
-The  **Styles** object is not available from the **Template** object. However, you can use the **OpenAsDocument** method to open a template as a document so that you can modify styles in the template. The following example changes the formatting of the Heading 1 style in the template attached to the active document.
+The **Styles** object is not available from the **Template** object. However, you can use the **OpenAsDocument** method to open a template as a document so that you can modify styles in the template. The following example changes the formatting of the Heading 1 style in the template attached to the active document.
 
 
 

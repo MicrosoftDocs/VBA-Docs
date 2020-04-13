@@ -33,7 +33,7 @@ _expression_. `TimescaleNonWorkingEx`( `_Draw_`, `_Calendar_`, `_Color_`, `_Patt
 | _Draw_|Optional|**Integer**|How nonworking times are denoted in relation to Gantt bars. Can be one of the following  **[PjNonWorkingPlacement](Project.PjNonWorkingPlacement.md)** constants: **pjBehind**, **pjInFront**, or **pjDoNotDraw**.|
 | _Calendar_|Optional|**String**|The name of the calendar to format.|
 | _Color_|Optional|**Long**|The color of nonworking times. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value &HFF0000 is blue and &H00FFFF is yellow. |
-| _Pattern_|Optional|**Integer**|The pattern for nonworking times. Can be one of the  **[PjFillPattern](Project.PjFillPattern.md)** constants.|
+| _Pattern_|Optional|**Integer**|The pattern for nonworking times. Can be one of the **[PjFillPattern](Project.PjFillPattern.md)** constants.|
 
 ## Return value
 
@@ -42,7 +42,7 @@ _expression_. `TimescaleNonWorkingEx`( `_Draw_`, `_Calendar_`, `_Color_`, `_Patt
 
 ## Remarks
 
-Using the  **TimescaleNonWorkingEx** method without specifying any arguments displays the **Timescale** dialog box with the **Non-working Time** tab selected.
+Using the **TimescaleNonWorkingEx** method without specifying any arguments displays the **Timescale** dialog box with the **Non-working Time** tab selected.
 
 
 ## Example

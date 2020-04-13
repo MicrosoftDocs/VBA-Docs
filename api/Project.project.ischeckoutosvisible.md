@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Project.IsCheckoutOSVisible property (Project)
-Gets whether the  **Check Out** button is visible in the Backstage view. Read-only **Boolean**.
+Gets whether the **Check Out** button is visible in the Backstage view. Read-only **Boolean**.
 
 ## Syntax
 

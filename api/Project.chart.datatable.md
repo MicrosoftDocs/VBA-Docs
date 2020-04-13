@@ -19,7 +19,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Remarks
 
-To see the  **IMsoDataTable** object, right-click in the Object Browser, and then choose **Show Hidden Members**.
+To see the **IMsoDataTable** object, right-click in the Object Browser, and then choose **Show Hidden Members**.
 
 
 ## Example

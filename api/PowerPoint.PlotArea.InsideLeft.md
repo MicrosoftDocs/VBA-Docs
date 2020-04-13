@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[PlotArea](PowerPoint.PlotArea.md)' o
 
 ## Remarks
 
-The plot area used for this measurement does not include the axis labels. The  **[Left](PowerPoint.PlotArea.Left.md)** property for the plot area uses the bounding rectangle that includes the axis labels.
+The plot area used for this measurement does not include the axis labels. The **[Left](PowerPoint.PlotArea.Left.md)** property for the plot area uses the bounding rectangle that includes the axis labels.
 
 
 ## Example

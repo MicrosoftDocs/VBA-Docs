@@ -30,7 +30,7 @@ _expression_. `TimelineShowHide`( `_Item_`, `_Show_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Item_|Required|**PjTimelineShowHide**|Specifies the feature to show or hide. Can be one of the  **[PjTimelineShowHide](Project.PjTimelineShowHide.md)** constants.|
+| _Item_|Required|**PjTimelineShowHide**|Specifies the feature to show or hide. Can be one of the **[PjTimelineShowHide](Project.PjTimelineShowHide.md)** constants.|
 | _Show_|Optional|**Boolean**|**False** if the feature is hidden; otherwise, **True**. The default value is **True**, which shows the feature.|
 
 ## Return value
@@ -40,7 +40,7 @@ _expression_. `TimelineShowHide`( `_Item_`, `_Show_` )
 
 ## Remarks
 
-The  **TimelineShowHide** method corresponds to several commands in the **Show/Hide** group on the **Format** tab on the ribbon. The **Format** tab displays the **Show/Hide** group when the Timeline view is selected. If the Timeline view is not selected, the **TimelineShowHide** method results in error 1100, "The method is not available in this situation."
+The **TimelineShowHide** method corresponds to several commands in the **Show/Hide** group on the **Format** tab on the ribbon. The **Format** tab displays the **Show/Hide** group when the Timeline view is selected. If the Timeline view is not selected, the **TimelineShowHide** method results in error 1100, "The method is not available in this situation."
 
 
 ## Example

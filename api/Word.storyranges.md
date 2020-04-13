@@ -26,7 +26,7 @@ For Each aStory In ActiveDocument.StoryRanges
 Next aStory
 ```
 
-The  **Add** method is not available for the **StoryRanges** collection. The number of stories in the **StoryRanges** collection is finite.
+The **Add** method is not available for the **StoryRanges** collection. The number of stories in the **StoryRanges** collection is finite.
 
 Use  **StoryRanges** (Index), where Index is a **WdStoryType** constant, to return a single story as a **[Range](Word.Range.md)** object. The following example adds text to the primary header story and then displays the text.
 

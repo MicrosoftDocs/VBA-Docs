@@ -45,7 +45,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Example
 
-The following example selects the  **Name** column and the next two columns of the third and fourth rows.
+The following example selects the **Name** column and the next two columns of the third and fourth rows.
 
 
 ```vb

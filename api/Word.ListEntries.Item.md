@@ -39,7 +39,7 @@ ListEntry
 
 ## Example
 
-This example clears all the items from the drop-down form field named "Colors" and then adds two color names. The  **Item** method is used to display the first color in the drop-down form field.
+This example clears all the items from the drop-down form field named "Colors" and then adds two color names. The **Item** method is used to display the first color in the drop-down form field.
 
 
 ```vb

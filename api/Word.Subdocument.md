@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Subdocument object (Word)
 
-Represents a subdocument within a document or range. The  **Subdocument** object is a member of the **[Subdocuments](Word.subdocuments.md)** collection. The **Subdocuments** collection includes all the subdocuments in the a range or document.
+Represents a subdocument within a document or range. The **Subdocument** object is a member of the **[Subdocuments](Word.subdocuments.md)** collection. The **Subdocuments** collection includes all the subdocuments in the a range or document.
 
 
 ## Remarks

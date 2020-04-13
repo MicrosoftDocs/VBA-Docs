@@ -39,7 +39,7 @@ A  **Store** object in the parent **[Stores](Outlook.Stores.md)** collection, as
 
 ## Remarks
 
-The  **Store.DisplayName** property is the default property of a **Store**.
+The **Store.DisplayName** property is the default property of a **Store**.
 
 If  _Index_ is a string and no item can be found by that name, an error will be returned.
 

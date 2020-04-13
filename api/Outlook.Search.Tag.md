@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Search](Outlook.Search.md) object.
 
 ## Remarks
 
-The  **Tag** property is set by using the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method when the **[Search](Outlook.Search.md)** object is created.
+The **Tag** property is set by using the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method when the **[Search](Outlook.Search.md)** object is created.
 
 
 ## Example

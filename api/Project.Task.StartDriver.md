@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Task.StartDriver property (Project)
 
-Gets the  **[StartDriver](Project.StartDriver.md)** object for the task. Read-only **StartDriver**.
+Gets the **[StartDriver](Project.StartDriver.md)** object for the task. Read-only **StartDriver**.
 
 
 ## Syntax

@@ -23,7 +23,7 @@ _expression_ A variable that represents a [Calendar](./Project.Calendar.md) obje
 
 ## Remarks
 
-For a code example that uses the  **Task** object, see **[Name](Project.Task.Name.md)**.
+For a code example that uses the **Task** object, see **[Name](Project.Task.Name.md)**.
 
 
 ## Example

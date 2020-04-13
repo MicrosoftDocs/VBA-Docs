@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Reports.Parent property (Project)
-Gets the parent of the  **Reports** object. Read-only **Project**.
+Gets the parent of the **Reports** object. Read-only **Project**.
 
 ## Syntax
 

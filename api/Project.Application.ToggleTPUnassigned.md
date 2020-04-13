@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ToggleTPUnassigned method (Project)
 
-Shows or hides the  **Unassigned Tasks** section in the Team Planner view.
+Shows or hides the **Unassigned Tasks** section in the Team Planner view.
 
 
 ## Syntax
@@ -31,6 +31,6 @@ _expression_. `ToggleTPUnassigned`
 
 ## Remarks
 
-The  **ToggleTPUnassigned** method corresponds to the **Unassigned Tasks** check box on the **Format** tab under **Team Planner Tools** on the ribbon.
+The **ToggleTPUnassigned** method corresponds to the **Unassigned Tasks** check box on the **Format** tab under **Team Planner Tools** on the ribbon.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

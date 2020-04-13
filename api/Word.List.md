@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # List object (Word)
 
-Represents a single list format that's been applied to specified paragraphs in a document. The  **List** object is a member of the **Lists** collection.
+Represents a single list format that's been applied to specified paragraphs in a document. The **List** object is a member of the **Lists** collection.
 
 
 ## Remarks

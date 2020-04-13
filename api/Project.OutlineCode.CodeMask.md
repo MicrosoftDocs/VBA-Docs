@@ -26,6 +26,6 @@ _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.m
 
 ## Remarks
 
-The  **CodeMask** property returns nothing if the code shares a lookup table from another code.
+The **CodeMask** property returns nothing if the code shares a lookup table from another code.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

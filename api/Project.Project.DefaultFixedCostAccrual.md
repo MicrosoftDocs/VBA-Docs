@@ -23,6 +23,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The  **DefaultFixedCostAccrual** property can be one of the following **[PjAccrueAt](Project.PjAccrueAt.md)** constants: **pjStart**, **pjEnd**, or **pjProrated**.
+The **DefaultFixedCostAccrual** property can be one of the following **[PjAccrueAt](Project.PjAccrueAt.md)** constants: **pjStart**, **pjEnd**, or **pjProrated**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

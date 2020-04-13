@@ -19,9 +19,9 @@ Represents an address book that contains a set of  **[AddressEntry](Outlook.Addr
 
 ## Remarks
 
-The  **AddressList** object is an address book that contains a set of **[AddressEntry](Outlook.AddressEntry.md)** objects.
+The **AddressList** object is an address book that contains a set of **[AddressEntry](Outlook.AddressEntry.md)** objects.
 
-The  **AddressList** object supplies a list of address entries to which a messaging system can deliver messages. An **AddressList** object represents one address book container available under the transport provider's address book hierarchy for the current session. The entire hierarchy is available through the parent **[AddressLists](Outlook.AddressLists.md)** object.
+The **AddressList** object supplies a list of address entries to which a messaging system can deliver messages. An **AddressList** object represents one address book container available under the transport provider's address book hierarchy for the current session. The entire hierarchy is available through the parent **[AddressLists](Outlook.AddressLists.md)** object.
 
 
 ## Example

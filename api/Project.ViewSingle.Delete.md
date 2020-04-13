@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # ViewSingle.Delete method (Project)
 
-Deletes the  **ViewSingle** object from a **ViewsSingle** collection.
+Deletes the **ViewSingle** object from a **ViewsSingle** collection.
 
 
 ## Syntax

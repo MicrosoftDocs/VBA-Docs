@@ -40,7 +40,7 @@ _expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object
 
 ## Remarks
 
-To format the line, use the  **Shape.Line** property.
+To format the line, use the **Shape.Line** property.
 
 
 ## Example

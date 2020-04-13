@@ -35,7 +35,7 @@ _expression_ A variable that represents an '[AxisTitle](Word.AxisTitle.md)' obje
 
 ## Remarks
 
-The  **ChartCharacters** object is not a collection.
+The **ChartCharacters** object is not a collection.
 
 
 ## See also

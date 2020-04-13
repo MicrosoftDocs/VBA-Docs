@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **ConvertHangulToHanja** method produces tangible results only if an East Asian version of Project is used.
+The **ConvertHangulToHanja** method produces tangible results only if an East Asian version of Project is used.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

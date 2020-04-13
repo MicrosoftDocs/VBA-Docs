@@ -33,7 +33,7 @@ A  **Boolean** value that is **True** if the user has clicked **OK**, and  **Fal
 
 When displaying the  **Select Names** dialog box, **Display** uses the previous location and size (indicated by the top, left, width, and height) of the dialog box.
 
-The  **Select Names** dialog box is modal, meaning that code execution will halt until the user clicks **OK**,  **Cancel**, or the close icon.
+The **Select Names** dialog box is modal, meaning that code execution will halt until the user clicks **OK**,  **Cancel**, or the close icon.
 
 You should detect for error conditions that include insufficient memory or another message or dialog box is open.
 

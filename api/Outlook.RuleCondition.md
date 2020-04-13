@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RuleCondition object (Outlook)
 
-The  **RuleCondition** object represents either a condition that must be met before a rule executes, or an exception condition that must not be met before a rule executes.
+The **RuleCondition** object represents either a condition that must be met before a rule executes, or an exception condition that must not be met before a rule executes.
 
 
 ## Remarks

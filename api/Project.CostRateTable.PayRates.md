@@ -23,7 +23,7 @@ _expression_ A variable that represents a [CostRateTable](./Project.CostRateTabl
 
 ## Remarks
 
-For the  **Resource** object, the **PayRates** property returns pay rates for cost rate table A, the default table.
+For the **Resource** object, the **PayRates** property returns pay rates for cost rate table A, the default table.
 
 
 ## Example

@@ -39,7 +39,7 @@ A  **NameSpace** object that represents the specified namespace.
 
 ## Remarks
 
-The only supported name space type is "MAPI". The  **GetNameSpace** method is functionally equivalent to the **Session** property.
+The only supported name space type is "MAPI". The **GetNameSpace** method is functionally equivalent to the **Session** property.
 
 
 ## Example

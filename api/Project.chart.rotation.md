@@ -19,7 +19,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Remarks
 
-The value of the  **Rotation** property must be from 0 to 360, except for 3D bar charts, where the value must be from 0 to 44. The default value is 20.
+The value of the **Rotation** property must be from 0 to 360, except for 3D bar charts, where the value must be from 0 to 44. The default value is 20.
 
 Rotations are rounded to the nearest integer.
 

@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[FileConverter](Word.FileConverter.md
 
 ## Remarks
 
-The  **[CanOpen](Word.FileConverter.CanOpen.md)** property returns **True** if the specified file converter can be used to open (import) files.
+The **[CanOpen](Word.FileConverter.CanOpen.md)** property returns **True** if the specified file converter can be used to open (import) files.
 
 
 ## Example

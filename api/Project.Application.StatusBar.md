@@ -23,7 +23,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **StatusBar** property returns **False** if the status bar is displaying the default text. Setting **StatusBar** to the Boolean value **False** restores the default text.
+The **StatusBar** property returns **False** if the status bar is displaying the default text. Setting **StatusBar** to the Boolean value **False** restores the default text.
 
 
 ## Example

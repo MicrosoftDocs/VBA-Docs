@@ -26,6 +26,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-For more information, see the  **DocumentLibraryVersions** object in the Office Developer Reference.
+For more information, see the **DocumentLibraryVersions** object in the Office Developer Reference.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

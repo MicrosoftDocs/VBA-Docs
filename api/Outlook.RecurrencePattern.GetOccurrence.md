@@ -39,7 +39,7 @@ An  **AppointmentItem** object that represents the specific appointment on the s
 
 ## Remarks
 
-The  **GetOccurrence** method generates an error if no appointment of that series exists on the specified date.
+The **GetOccurrence** method generates an error if no appointment of that series exists on the specified date.
 
 When you work with recurring appointment items, you should release any prior references, obtain new references to the recurring appointment item before you access or modify the item, and release these references as soon as you are finished and have saved the changes. This practice applies to the recurring  **AppointmentItem** object, and any **[Exception](Outlook.Exception.md)** or **[RecurrencePattern](Outlook.RecurrencePattern.md)** object. To release a reference in Visual Basic for Applications (VBA) or Visual Basic, set that existing object to **Nothing**. In C#, explicitly release the memory for that object. For a code example, see the topic for the **AppointmentItem** object.
 

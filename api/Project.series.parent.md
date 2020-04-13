@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Series.Parent property (Project)
-Gets the parent object of the  **Series** object. Read-only **Object**.
+Gets the parent object of the **Series** object. Read-only **Object**.
 
 ## Syntax
 

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Calendar.Parent property (Project)
 
-Gets the parent of the  **Calendar** object. Read-only **Object**.
+Gets the parent of the **Calendar** object. Read-only **Object**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ _expression_ A variable that represents a [Calendar](./Project.Calendar.md) obje
 
 The parent of a  **Calendar** object can be a **Project**, **Resource**, **Task**, or another **Calendar** object such as a base calendar.
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

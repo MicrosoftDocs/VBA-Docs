@@ -49,7 +49,7 @@ Remarks
 
 You set the custom dictionary to which new words are added by using the **[ActiveCustomDictionary](Word.Dictionaries.ActiveCustomDictionary.md)** property. If you try to set this property to a dictionary that isn't a custom dictionary, an error occurs.
 
-The  **[Maximum](Word.Dictionaries.Maximum.md)** property returns the maximum number of simultaneous custom spelling dictionaries that the application can support. For Word, this maximum is 10.
+The **[Maximum](Word.Dictionaries.Maximum.md)** property returns the maximum number of simultaneous custom spelling dictionaries that the application can support. For Word, this maximum is 10.
 
 
 ## See also

@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Stores](Outlook.Stores.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Store_|Required| **Store**|The  **Store** object to be removed from the current session.|
+| _Store_|Required| **Store**|The **Store** object to be removed from the current session.|
 | _Cancel_|Required| **Boolean**| **True** to cancel the removal of the specified store, **False** otherwise.|
 
 ## Remarks

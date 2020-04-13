@@ -28,7 +28,7 @@ _expression_ Required. A variable that represents a **[Font](Word.Font.md)** obj
 
 This property returns  **True**, **False** or **wdUndefined** (for a mixture of bold and non-bold text). Can be set to **True**, **False**, or **wdToggle**.
 
-The  **BoldBi** property applies to text in a right-to-left language.
+The **BoldBi** property applies to text in a right-to-left language.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TwoInitialCapsException object (Word)
 
-Represents a single initial-capital AutoCorrect exception. The  **TwoInitialCapsException** object is a member of the **[TwoInitialCapsExceptions](Word.twoinitialcapsexceptions.md)** collection. The **TwoInitialCapsExceptions** collection includes all the items listed in the **Don't correct** box on the **INitial CAps** tab in the **AutoCorrect Exceptions** dialog box.
+Represents a single initial-capital AutoCorrect exception. The **TwoInitialCapsException** object is a member of the **[TwoInitialCapsExceptions](Word.twoinitialcapsexceptions.md)** collection. The **TwoInitialCapsExceptions** collection includes all the items listed in the **Don't correct** box on the **INitial CAps** tab in the **AutoCorrect Exceptions** dialog box.
 
 
 ## Remarks

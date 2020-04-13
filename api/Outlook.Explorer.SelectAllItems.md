@@ -30,7 +30,7 @@ If one or more groups are collapsed in the current view, calling  **SelectAllIte
 
 If the current view is a calendar view, calling  **SelectAllItems** selects all appointments and all-day events in the view. Calling **SelectAllItems** on a calendar view does not select items in the Daily Task List.
 
-The  **[SelectionChange](Outlook.Explorer.SelectionChange.md)** event fires only once after the **SelectAllItems** method is called.
+The **[SelectionChange](Outlook.Explorer.SelectionChange.md)** event fires only once after the **SelectAllItems** method is called.
 
 If the current view or current folder does not contain any items, calling  **SelectAllItems** does not result in any change to the selection and does not fire the **SelectionChange** event.
 

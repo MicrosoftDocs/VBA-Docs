@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[AttachmentSelection](Outlook.Attach
 
 ## Remarks
 
-The  **Parent** property of an **AttachmentSelection** object represents the Microsoft Outlook item that contains the selected attachments.
+The **Parent** property of an **AttachmentSelection** object represents the Microsoft Outlook item that contains the selected attachments.
 
 If the item is in an explorer, the value of the  **Parent** property is the same as the first item in the selection that is returned by the **[Explorer.Selection](Outlook.Explorer.Selection.md)** property, which is `Explorer.Selection.Item(1)`. 
 

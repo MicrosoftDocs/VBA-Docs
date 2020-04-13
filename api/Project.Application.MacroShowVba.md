@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **MacroShowVba** method has the same effect as pressing the **Alt** and **F11** keys.
+The **MacroShowVba** method has the same effect as pressing the **Alt** and **F11** keys.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

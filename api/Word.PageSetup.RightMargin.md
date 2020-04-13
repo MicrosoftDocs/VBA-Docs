@@ -31,7 +31,7 @@ If the **[MirrorMargins](Word.PageSetup.MirrorMargins.md)** property is set to *
 
 ## Example
 
-This example displays the right margin setting for the active document. The  **[PointsToInches](Word.Global.PointsToInches.md)** method is used to convert the result to inches.
+This example displays the right margin setting for the active document. The **[PointsToInches](Word.Global.PointsToInches.md)** method is used to convert the result to inches.
 
 
 ```vb
@@ -41,7 +41,7 @@ With ActiveDocument.PageSetup
 End With
 ```
 
-This example sets the right margin for section two in the selection. The  **[InchesToPoints](Word.Application.InchesToPoints.md)** method is used to convert inches to points.
+This example sets the right margin for section two in the selection. The **[InchesToPoints](Word.Application.InchesToPoints.md)** method is used to convert inches to points.
 
 
 

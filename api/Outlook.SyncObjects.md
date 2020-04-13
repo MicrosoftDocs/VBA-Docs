@@ -21,7 +21,7 @@ Contains a set of  **[SyncObject](Outlook.SyncObject.md)** objects representing 
 
 Use the  **[SyncObjects](Outlook.NameSpace.SyncObjects.md)** property to return the **SyncObjects** object from a **[NameSpace](Outlook.NameSpace.md)** object.
 
-The  **SyncObjects** object is read-only. You cannot add an item to the collection. However, note that you can add one **Send/Receive** group using the **AppFolders** property which will create a **Send/Receive** group called Application Folders.
+The **SyncObjects** object is read-only. You cannot add an item to the collection. However, note that you can add one **Send/Receive** group using the **AppFolders** property which will create a **Send/Receive** group called Application Folders.
 
 
 ## Example

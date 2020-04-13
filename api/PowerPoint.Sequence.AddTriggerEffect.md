@@ -30,10 +30,10 @@ _expression_ A variable that represents a [Sequence](PowerPoint.Sequence.md) obj
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _pShape_|Required|**Shape**|The  **Shape** object with animation.|
+| _pShape_|Required|**Shape**|The **Shape** object with animation.|
 | _effectId_|Required|**MsoAnimEffect**|The type of animation.|
 | _trigger_|Required|**MsoAnimTriggerType**|The type of trigger effect to add.|
-| _pTriggerShape_|Required|**Shape**|The  **Shape** object that represents the trigger.|
+| _pTriggerShape_|Required|**Shape**|The **Shape** object that represents the trigger.|
 | _bookmark_|Optional|**String**|The bookmark.|
 | _Level_|Optional|**MsoAnimateByLevel**|The level of animation.|
 

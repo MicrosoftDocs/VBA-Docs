@@ -26,7 +26,7 @@ For Each aTemp In Templates
 Next aTemp
 ```
 
-The  **Add** method isn't available for the **Templates** collection. Instead, you can add a template to the **Templates** collection by doing any of the following:
+The **Add** method isn't available for the **Templates** collection. Instead, you can add a template to the **Templates** collection by doing any of the following:
 
 
 - Using the **Open** method with the **Documents** collection to open a document based on a template or a template

@@ -30,7 +30,7 @@ Long
 
 For example, if a  **TextFrame2** object was created in PowerPoint, this property returns the hexadecimal number 50575054.
 
-The  **Creator** property is designed to be used in Microsoft Office applications for the Macintosh.
+The **Creator** property is designed to be used in Microsoft Office applications for the Macintosh.
 
 
 ## Example

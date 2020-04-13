@@ -28,9 +28,9 @@ _expression_ A variable that represents a [Table](Outlook.Table.md) object.
 
 When you open a  **Table** using **[Folder.GetTable](Outlook.Folder.GetTable.md)**, **[Search.GetTable](Outlook.Search.GetTable.md)**, or **[Table.Restrict](Outlook.Table.Restrict.md)**, the value of **EndOfTable** depends on the number of rows in the **Table**. If there are no rows, **EndOfTable** returns **True**. If there are rows,  **EndOfTable** returns **False** until the cursor moves beyond the last row in the **Table**. 
 
-The  **Table** has two virtual **Null** rows, one before the first row and one after the last row in the **Table**. Each call to **[Table.GetNextRow](Outlook.Table.GetNextRow.md)** moves the current row to the next row in the **Table** and returns a **[Row](Outlook.Row.md)** object that represents the current row.
+The **Table** has two virtual **Null** rows, one before the first row and one after the last row in the **Table**. Each call to **[Table.GetNextRow](Outlook.Table.GetNextRow.md)** moves the current row to the next row in the **Table** and returns a **[Row](Outlook.Row.md)** object that represents the current row.
 
-The  **EndOfTable** property returns **True** if the current row is after the last row and **False** if the current row is on or before the last row.
+The **EndOfTable** property returns **True** if the current row is after the last row and **False** if the current row is on or before the last row.
 
 
 ## Example

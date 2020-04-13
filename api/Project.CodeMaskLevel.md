@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # CodeMaskLevel object (Project)
 
-Represents a level in the code mask of an outline code definition. The  **CodeMaskLevel** object is a member of the **[CodeMask](Project.codemask.md)** collection.
+Represents a level in the code mask of an outline code definition. The **CodeMaskLevel** object is a member of the **[CodeMask](Project.codemask.md)** collection.
  
 
 

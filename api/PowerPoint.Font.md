@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Font object (PowerPoint)
 
-Represents character formatting for text or a bullet. The  **Font** object is a member of the **[Fonts](PowerPoint.Fonts.md)** collection. The **Fonts** collection contains all the fonts used in a presentation.
+Represents character formatting for text or a bullet. The **Font** object is a member of the **[Fonts](PowerPoint.Fonts.md)** collection. The **Fonts** collection contains all the fonts used in a presentation.
 
 
 ## Example

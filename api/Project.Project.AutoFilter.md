@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The  **AutoFilter** setting is in the **Filter** drop-down list on the **View** tab of the Ribbon.
+The **AutoFilter** setting is in the **Filter** drop-down list on the **View** tab of the Ribbon.
 
 
 ## Example

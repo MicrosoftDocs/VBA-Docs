@@ -15,7 +15,7 @@ localization_priority: Normal
 
 Represents the active cell. (There is no collection for  **Cell** objects.) The **Cell** object can be accessed only through the **[ActiveCell](./Project.Application.ActiveCell.md)** property of the **Application** object.
  **Using the Cell Object**
-Use the  **ActiveCell** property to return a **Cell** object.
+Use the **ActiveCell** property to return a **Cell** object.
 
 ## Properties
 

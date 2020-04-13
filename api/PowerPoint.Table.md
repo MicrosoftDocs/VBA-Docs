@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Table object (PowerPoint)
 
-Represents a table shape on a slide. The  **Table** object is a member of the **Shapes** collection. The **Table** object contains the **[Columns](PowerPoint.Columns.md)** collection and the **[Rows](PowerPoint.Rows.md)** collection.
+Represents a table shape on a slide. The **Table** object is a member of the **Shapes** collection. The **Table** object contains the **[Columns](PowerPoint.Columns.md)** collection and the **[Rows](PowerPoint.Rows.md)** collection.
 
 
 ## Example

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Application.Parent property (Project)
 
-Gets the parent of the  **Application** object. Read-only **Application**.
+Gets the parent of the **Application** object. Read-only **Application**.
 
 
 ## Syntax
@@ -23,12 +23,12 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The parent of the  **Application** object is the **Application** object.
+The parent of the **Application** object is the **Application** object.
 
 
 ## Example
 
-For example, executing either of the following statements in the  **Immediate** pane of the VBE shows the text **Microsoft Project**.
+For example, executing either of the following statements in the **Immediate** pane of the VBE shows the text **Microsoft Project**.
 
 
 ```vb

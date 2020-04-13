@@ -34,7 +34,7 @@ _expression_ A variable that represents a '[Columns](Outlook.Columns.md)' object
 
 ## Remarks
 
-The  **Remove** method resets the **Table** by moving the current row to just before the first row of the **Table**. If, however, an invalid _Index_ has been specified, then it will not remove any column or reset the **Table**.
+The **Remove** method resets the **Table** by moving the current row to just before the first row of the **Table**. If, however, an invalid _Index_ has been specified, then it will not remove any column or reset the **Table**.
 
 Returns an error message if an invalid  _Index_ has been specified.
 

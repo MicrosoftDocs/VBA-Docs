@@ -34,7 +34,7 @@ ActiveDocument.Sections(1) _
  .Headers(wdHeaderFooterPrimary).PageNumbers.Add
 ```
 
-The  **LinkToPrevious** property applies to each header or footer individually. For example, the **LinkToPrevious** property could be set to **True** for the even-numbered-page header but **False** for the even-numbered-page footer.
+The **LinkToPrevious** property applies to each header or footer individually. For example, the **LinkToPrevious** property could be set to **True** for the even-numbered-page header but **False** for the even-numbered-page footer.
 
 
 ## Example

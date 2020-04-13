@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CodeMaskLevel.Level property (Project)
 
-Gets the level number of the code mask, as it appears in the left column of the grid in the  **Code Mask Definition** dialog box. Read-only **Long**.
+Gets the level number of the code mask, as it appears in the left column of the grid in the **Code Mask Definition** dialog box. Read-only **Long**.
 
 
 ## Syntax

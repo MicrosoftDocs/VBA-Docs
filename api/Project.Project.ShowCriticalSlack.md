@@ -23,6 +23,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-If the slack time of a task does not exceed the number of days returned by the  **ShowCriticalSlack** property, Project displays the task as critical.
+If the slack time of a task does not exceed the number of days returned by the **ShowCriticalSlack** property, Project displays the task as critical.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

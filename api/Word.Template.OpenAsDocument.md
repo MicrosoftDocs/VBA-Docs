@@ -68,7 +68,7 @@ With docNew
 End With
 ```
 
-This example changes the formatting of the Heading 1 style in the template attached to the active document. The  **UpdateStyles** method updates the styles in the active document.
+This example changes the formatting of the Heading 1 style in the template attached to the active document. The **UpdateStyles** method updates the styles in the active document.
 
 
 

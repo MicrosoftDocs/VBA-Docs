@@ -28,7 +28,7 @@ _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) 
 
 This property complements the IRM properties on a  **SharingItem** object; that is, the **[Permission](Outlook.SharingItem.Permission.md)** property and **[PermissionService](Outlook.SharingItem.PermissionService.md)** properties.
 
-The  **PermissionTemplateGuid** property should be synchronized with the **Permission** property to accurately reflect the permission status of the **SharingItem**. Setting the **PermissionTemplateGuid** property to a valid GUID should also incur setting the **Permission** property to **OlPermission.olPermissionTemplate**.
+The **PermissionTemplateGuid** property should be synchronized with the **Permission** property to accurately reflect the permission status of the **SharingItem**. Setting the **PermissionTemplateGuid** property to a valid GUID should also incur setting the **Permission** property to **OlPermission.olPermissionTemplate**.
 
 An empty string value for the  **PermissionTemplateGuid** property means there is no permission template file specified for the **SharingItem**. This occurs when no IRM has been set up (in which case the **Permission** property is **OlPermission.olUnrestricted**), or the restriction is not to forward the **SharingItem** (in which case the **Permission** property is **OlPermission.olDoNotForward**).
 

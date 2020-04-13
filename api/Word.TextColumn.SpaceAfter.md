@@ -23,7 +23,7 @@ _expression_ Required. A variable that represents a '[TextColumn](Word.TextColum
 
 ## Example
 
-This example sets the active document to three columns with a 0.5-inch space after the first column. The  **InchesToPoints** method is used to convert inches to points.
+This example sets the active document to three columns with a 0.5-inch space after the first column. The **InchesToPoints** method is used to convert inches to points.
 
 
 ```vb

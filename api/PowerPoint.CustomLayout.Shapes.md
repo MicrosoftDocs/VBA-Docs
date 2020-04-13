@@ -31,7 +31,7 @@ Shapes
 
 ## Remarks
 
-The  **Shapes** collection of layout elements can include drawings, shapes, OLE objects, pictures, text objects, titles, headers, footers, slide numbers, and date and time objects.
+The **Shapes** collection of layout elements can include drawings, shapes, OLE objects, pictures, text objects, titles, headers, footers, slide numbers, and date and time objects.
 
 
 ## See also

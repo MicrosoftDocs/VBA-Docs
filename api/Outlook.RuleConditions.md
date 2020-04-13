@@ -19,9 +19,9 @@ Contains a set of  **[RuleCondition](Outlook.RuleCondition.md)** objects or obje
 
 ## Remarks
 
-The  **RuleConditions** object include both rule conditions and rule exceptions. The type of rule condition that can be added to a **RuleConditions** collection depends upon the **[Rule.RuleType](Outlook.Rule.RuleType.md)**.
+The **RuleConditions** object include both rule conditions and rule exceptions. The type of rule condition that can be added to a **RuleConditions** collection depends upon the **[Rule.RuleType](Outlook.Rule.RuleType.md)**.
 
-The  **RuleConditions** object is a fixed collection. A **RuleCondition** object or a type that is derived from the **RuleCondition** object cannot be added or removed from the **RuleConditions** object.
+The **RuleConditions** object is a fixed collection. A **RuleCondition** object or a type that is derived from the **RuleCondition** object cannot be added or removed from the **RuleConditions** object.
 
 The Rules object model provides partial parity with the Rules and Alerts Wizard in the Outlook user interface. It supports the most commonly used rule actions and conditions. Although it does not support creating rules with any rule action or rule condition that the Wizard supports, you can still enumerate and enable these rule actions and conditions in existing rules. 
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Border object (Word)
 
-Represents a border of an object. The  **Border** object is a member of the **[Borders](Word.borders.md)** collection.
+Represents a border of an object. The **Border** object is a member of the **[Borders](Word.borders.md)** collection.
 
 
 ## Remarks

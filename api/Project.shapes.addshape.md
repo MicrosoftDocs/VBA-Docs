@@ -42,7 +42,7 @@ _expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object
 
 ## Remarks
 
-To change the type of an AutoShape, set the  **AutoShapeType** property.
+To change the type of an AutoShape, set the **AutoShapeType** property.
 
 
 ## Example

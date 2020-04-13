@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FileConverter object (Word)
 
-Represents a file converter that's used to open or save files. The  **FileConverter** object is a member of the **FileConverters** collection. The **[FileConverters](Word.fileconverters.md)** collection contains all the installed file converters for opening and saving files.
+Represents a file converter that's used to open or save files. The **FileConverter** object is a member of the **FileConverters** collection. The **[FileConverters](Word.fileconverters.md)** collection contains all the installed file converters for opening and saving files.
 
 
 ## Remarks

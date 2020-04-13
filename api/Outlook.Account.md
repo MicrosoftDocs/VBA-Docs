@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Account object (Outlook)
 
-The  **Account** object represents an account that is defined for the current profile.
+The **Account** object represents an account that is defined for the current profile.
 
 
 ## Remarks

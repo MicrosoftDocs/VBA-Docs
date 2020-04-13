@@ -26,7 +26,7 @@ _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) 
 
 ## Remarks
 
-This property contains only the display names, delimited with semicolon (;) characters. The  **[Recipients](Outlook.Recipients.md)** collection should be used to modify the BCC recipients.
+This property contains only the display names, delimited with semicolon (;) characters. The **[Recipients](Outlook.Recipients.md)** collection should be used to modify the BCC recipients.
 
 
 > [!NOTE] 

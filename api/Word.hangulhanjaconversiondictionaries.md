@@ -47,7 +47,7 @@ End With
 
 You set the custom dictionary to which new words are added by using the **ActiveCustomDictionary** property. If you try to set this property to a dictionary that isn't a custom conversion dictionary, an error occurs.
 
-The  **Maximum** property returns the maximum number of simultaneous custom conversion dictionaries that the application can support. For Word, this maximum is 10.
+The **Maximum** property returns the maximum number of simultaneous custom conversion dictionaries that the application can support. For Word, this maximum is 10.
 
 
 ## See also

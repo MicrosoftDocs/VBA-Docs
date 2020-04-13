@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Variable object (Word)
 
-Represents a variable stored as part of a document. Document variables are used to preserve macro settings in between macro sessions. The  **Variable** object is a member of the **[Variables](Word.variables.md)** collection. The **Variables** collection includes all the document variables in a document or template.
+Represents a variable stored as part of a document. Document variables are used to preserve macro settings in between macro sessions. The **Variable** object is a member of the **[Variables](Word.variables.md)** collection. The **Variables** collection includes all the document variables in a document or template.
 
 
 ## Remarks

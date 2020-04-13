@@ -35,7 +35,7 @@ The following example returns a  **SynonymInfo** object from a range.
 temp = Selection.Range.SynonymInfo.Found
 ```
 
-The  **Found** property, used in the preceding examples, returns **True** if any information is found in the thesaurus for the specified range or for Word. Note, however, that this property returns **True** not only if synonyms are found but also if related words, related expressions, or antonyms are found.
+The **Found** property, used in the preceding examples, returns **True** if any information is found in the thesaurus for the specified range or for Word. Note, however, that this property returns **True** not only if synonyms are found but also if related words, related expressions, or antonyms are found.
 
 Many of the properties of the **SynonymInfo** object return a **Variant** that contains an array of strings. When working with these properties, you can assign the returned array to a variable and then index the variable to see the elements in the array. In the following example, _Slist_ is assigned the synonym list for the first meaning of the selected word or phrase. The **UBound** function finds the upper bound of the array, and then each element is displayed in a message box.
 

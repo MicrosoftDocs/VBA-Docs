@@ -39,15 +39,15 @@ Long
 
 ## Remarks
 
-The  **Display** method returns the following possible values.
+The **Display** method returns the following possible values.
 
 
 
 |**Return value**|**Description**|
 |:-----|:-----|
-|-2|The  **Close** button.|
-|-1|The  **OK** button.|
-|0 (zero)|The  **Cancel** button.|
+|-2|The **Close** button.|
+|-1|The **OK** button.|
+|0 (zero)|The **Cancel** button.|
 |> 0 (zero)|A command button: 1 is the first button, 2 is the second button, and so on.|
 
 ## Example

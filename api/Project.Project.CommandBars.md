@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-For more information, see the  **CommandBars** object in the Office Developer Reference.
+For more information, see the **CommandBars** object in the Office Developer Reference.
 
 
 ## Example

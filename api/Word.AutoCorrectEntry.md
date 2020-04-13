@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AutoCorrectEntry object (Word)
 
-Represents a single AutoCorrect entry. The  **AutoCorrectEntry** object is a member of the **AutoCorrectEntries** collection. The **[AutoCorrectEntries](Word.autocorrectentries.md)** collection includes the entries in the **AutoCorrect** dialog box.
+Represents a single AutoCorrect entry. The **AutoCorrectEntry** object is a member of the **AutoCorrectEntries** collection. The **[AutoCorrectEntries](Word.autocorrectentries.md)** collection includes the entries in the **AutoCorrect** dialog box.
 
 
 ## Remarks

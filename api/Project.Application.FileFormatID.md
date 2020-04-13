@@ -36,7 +36,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The specified file must be a project file in the current directory. The  **FileFormatID** property in Project can be one of the following strings, for the specified file format:
+The specified file must be a project file in the current directory. The **FileFormatID** property in Project can be one of the following strings, for the specified file format:
 
 
 - MSProject.MPP.14, for a standard Project or Project file

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailMergeFieldName object (Word)
 
-Represents a mail merge field name in a data source. The  **MailMergeFieldName** object is a member of the **[MailMergeFieldNames](Word.MailMergeFieldNames.md)** collection. The **MailMergeFieldNames** collection includes all the data field names in a mail merge data source.
+Represents a mail merge field name in a data source. The **MailMergeFieldName** object is a member of the **[MailMergeFieldNames](Word.MailMergeFieldNames.md)** collection. The **MailMergeFieldNames** collection includes all the data field names in a mail merge data source.
 
 
 ## Remarks

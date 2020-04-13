@@ -42,7 +42,7 @@ Use  **RecentFiles** (Index), where Index is the index number, to return a singl
 If RecentFiles.Count >= 1 Then RecentFiles(1).Open
 ```
 
-The  **SaveAs** and **Open** methods include an AddToRecentFiles argument that controls whether or not a file is added to the recently-used-files list when the file is opened or saved.
+The **SaveAs** and **Open** methods include an AddToRecentFiles argument that controls whether or not a file is added to the recently-used-files list when the file is opened or saved.
 
 
 ## See also

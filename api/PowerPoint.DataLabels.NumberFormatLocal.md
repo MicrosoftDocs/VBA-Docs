@@ -23,7 +23,7 @@ _expression_ A variable that represents a '[DataLabels](PowerPoint.DataLabels.md
 
 ## Remarks
 
-The  **Format** function uses different format code strings than do the **[NumberFormat](PowerPoint.DataLabels.NumberFormat.md)** and **NumberFormatLocal** properties.
+The **Format** function uses different format code strings than do the **[NumberFormat](PowerPoint.DataLabels.NumberFormat.md)** and **NumberFormatLocal** properties.
 
 
 ## See also

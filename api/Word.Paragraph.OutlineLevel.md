@@ -38,7 +38,7 @@ This example returns the outline level of the first paragraph in the active docu
 temp = ActiveDocument.Paragraphs(1).OutlineLevel
 ```
 
-This example sets the outline level for each paragraph in the active document. First the Normal style is applied to all paragraphs. The  **Mod** operator is used to determine which outline level (1, 2, or 3) to apply to successive paragraphs in the document, and then the view is changed to outline view.
+This example sets the outline level for each paragraph in the active document. First the Normal style is applied to all paragraphs. The **Mod** operator is used to determine which outline level (1, 2, or 3) to apply to successive paragraphs in the document, and then the view is changed to outline view.
 
 
 

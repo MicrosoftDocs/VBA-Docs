@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Section object (Word)
 
-Represents a single section in a selection, range, or document. The  **Section** object is a member of the **[Sections](Word.sections.md)** collection. The **Sections** collection includes all the sections in a selection, range, or document.
+Represents a single section in a selection, range, or document. The **Section** object is a member of the **[Sections](Word.sections.md)** collection. The **Sections** collection includes all the sections in a selection, range, or document.
 
 
 ## Remarks
@@ -52,7 +52,7 @@ Selection.Paragraphs(1).Range.InsertBreak _
 
 
 > [!NOTE] 
-> The  **Headers** and **Footers** properties of the specified **Section** object return a **HeadersFooters** object.
+> The **Headers** and **Footers** properties of the specified **Section** object return a **HeadersFooters** object.
 
 
 ## Properties

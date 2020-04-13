@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Paragraph object (Word)
 
-Represents a single paragraph in a selection, range, or document. The  **Paragraph** object is a member of the **[Paragraphs](Word.paragraphs.md)** collection. The **Paragraphs** collection includes all the paragraphs in a selection, range, or document.
+Represents a single paragraph in a selection, range, or document. The **Paragraph** object is a member of the **[Paragraphs](Word.paragraphs.md)** collection. The **Paragraphs** collection includes all the paragraphs in a selection, range, or document.
 
 
 ## Remarks

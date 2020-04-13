@@ -39,6 +39,6 @@ _expression_. `GanttBarStyleCritical`( `_Show_` )
 
 ## Remarks
 
-On the Ribbon, the  **GanttBarStyleCritical** method corresponds to the **Critical Tasks** check box in the **Bar Styles** group on the **Format** tab for **Gantt Chart Tools**.
+On the Ribbon, the **GanttBarStyleCritical** method corresponds to the **Critical Tasks** check box in the **Bar Styles** group on the **Format** tab for **Gantt Chart Tools**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

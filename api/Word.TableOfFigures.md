@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableOfFigures object (Word)
 
-Represents a single table of figures in a document. The  **TableOfFigures** object is a member of the **[TablesOfFigures](Word.tablesoffigures.md)** collection. The **TablesOfFigures** collection includes all the tables of figures in a document.
+Represents a single table of figures in a document. The **TableOfFigures** object is a member of the **[TablesOfFigures](Word.tablesoffigures.md)** collection. The **TablesOfFigures** collection includes all the tables of figures in a document.
 
 
 ## Remarks

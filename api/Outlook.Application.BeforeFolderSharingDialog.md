@@ -30,7 +30,7 @@ _expression_. `BeforeFolderSharingDialog`( `_FolderToShare_` , `_Cancel_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _FolderToShare_|Required| **Folder**|The  **Folder** object to be shared.|
+| _FolderToShare_|Required| **Folder**|The **Folder** object to be shared.|
 | _Cancel_|Required| **Boolean**|(Not used in VBScript).  **False** when the event occurs. If the event procedure sets this argument to **True**, the dialog box is not displayed.|
 
 ## Remarks

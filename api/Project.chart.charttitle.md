@@ -19,7 +19,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Remarks
 
-To manually edit the text of a chart title, click in the title area. To change the title format, select the chart, and then, on the ribbon under  **CHART TOOLS**, choose the  **FORMAT** tab.
+To manually edit the text of a chart title, click in the title area. To change the title format, select the chart, and then, on the ribbon under  **CHART TOOLS**, choose the **FORMAT** tab.
 
 
 ## Example

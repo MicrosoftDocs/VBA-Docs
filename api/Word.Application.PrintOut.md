@@ -57,7 +57,7 @@ This example prints the current page of the active document.
 ActiveDocument.PrintOut Range:=wdPrintCurrentPage
 ```
 
-This example prints all the documents in the current folder. The  **Dir** function is used to return all file names that have the file name extension ".doc".
+This example prints all the documents in the current folder. The **Dir** function is used to return all file names that have the file name extension ".doc".
 
 
 

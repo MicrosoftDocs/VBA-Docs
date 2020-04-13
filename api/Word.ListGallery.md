@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ListGallery object (Word)
 
-Represents a single gallery of list formats. The  **ListGallery** object is a member of the **ListGalleries** collection.
+Represents a single gallery of list formats. The **ListGallery** object is a member of the **ListGalleries** collection.
 
 
 ## Remarks

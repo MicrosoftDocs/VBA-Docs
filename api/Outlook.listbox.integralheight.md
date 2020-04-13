@@ -26,7 +26,7 @@ _expression_ A variable that represents a  **ListBox** object.
 
  **True** indicates that the list resizes itself to display only complete items (default). **False** indicates that the list does not resize itself even if the item is too tall to display completely.
 
-The  **IntegralHeight** property relates to the height of the list, just as the **AutoSize** property relates to the width of the list.
+The **IntegralHeight** property relates to the height of the list, just as the **AutoSize** property relates to the width of the list.
 
 If  **IntegralHeight** is **True**, the list box automatically resizes when necessary to show full rows. If  **False**, the list remains a fixed size; if items are taller than the available space in the list, the entire item is not shown.
 

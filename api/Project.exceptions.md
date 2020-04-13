@@ -18,11 +18,11 @@ localization_priority: Normal
 
 ## Remarks
 
-Use the  **[Item](Project.Exceptions.Item.md)** property to return a single **Exception** object.
+Use the **[Item](Project.Exceptions.Item.md)** property to return a single **Exception** object.
  
 
  
-Use the  **[Add](Project.Exceptions.Add.md)** method to add an **Exception** object to the **Exceptions** collection.
+Use the **[Add](Project.Exceptions.Add.md)** method to add an **Exception** object to the **Exceptions** collection.
  
 
  

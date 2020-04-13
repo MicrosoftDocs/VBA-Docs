@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents an '[AutoCorrectEntry](Word.Au
 
 ## Remarks
 
-The  **Value** property only returns the first 255 characters of the object's value.
+The **Value** property only returns the first 255 characters of the object's value.
 
 
 ## Example

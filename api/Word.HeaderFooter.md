@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # HeaderFooter object (Word)
 
-Represents a single header or footer. The  **HeaderFooter** object is a member of the **[HeadersFooters](Word.headersfooters.md)** collection. The **HeadersFooters** collection includes all headers and footers in the specified document section.
+Represents a single header or footer. The **HeaderFooter** object is a member of the **[HeadersFooters](Word.headersfooters.md)** collection. The **HeadersFooters** collection includes all headers and footers in the specified document section.
 
 
 ## Remarks

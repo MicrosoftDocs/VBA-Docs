@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Reviewer object (Word)
 
-Represents a single reviewer of a document in which changes have been tracked. The  **Reviewer** object is a member of the **[Reviewers](Word.Reviewers.md)** collection.
+Represents a single reviewer of a document in which changes have been tracked. The **Reviewer** object is a member of the **[Reviewers](Word.Reviewers.md)** collection.
 
 
 ## Remarks

@@ -29,9 +29,9 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **SetRTLTable** method can be used to change the table columns from left-to-right order for languages such as English, to right-to-left for languages such as Arabic, Farsi, and Hebrew.
+The **SetRTLTable** method can be used to change the table columns from left-to-right order for languages such as English, to right-to-left for languages such as Arabic, Farsi, and Hebrew.
 
-If a report is not active, the  **SetRTLTable** method displays a dialog box with run-time error 1100, "The method is not available in this situation."
+If a report is not active, the **SetRTLTable** method displays a dialog box with run-time error 1100, "The method is not available in this situation."
 
 
 ## See also

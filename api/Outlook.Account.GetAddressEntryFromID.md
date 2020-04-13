@@ -41,7 +41,7 @@ An  **AddressEntry** that has the **[ID](Outlook.AddressEntry.ID.md)** property 
 
 This method is similar to the  **[GetAddressEntryFromID](Outlook.NameSpace.GetAddressEntryFromID.md)** method of the **[NameSpace](Outlook.NameSpace.md)** object, but has some additional contextual information about which account to use for the look-up. If there are multiple Microsoft Exchange accounts in the current profile, use the **GetAddressEntryFromID** method for the corresponding account.
 
-The  **ID** property for an **AddressEntry** is a permanent, unique string identifier that the transport provider assigns when an **AddressEntry** is created. Outlook maintains a hierarchy of address books for a session, and the address entry that is returned must match the given ID and be in one of the address books.
+The **ID** property for an **AddressEntry** is a permanent, unique string identifier that the transport provider assigns when an **AddressEntry** is created. Outlook maintains a hierarchy of address books for a session, and the address entry that is returned must match the given ID and be in one of the address books.
 
  **GetAddressEntryFromID** returns an error if no item with the given ID can be found, if no connection is available, or if the user is set to work offline.
 

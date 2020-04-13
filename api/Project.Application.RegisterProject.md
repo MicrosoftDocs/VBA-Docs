@@ -39,6 +39,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The  **RegisterProject** method is available only in Project Professional.
+The **RegisterProject** method is available only in Project Professional.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

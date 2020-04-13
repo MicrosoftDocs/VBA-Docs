@@ -32,8 +32,8 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |:-----|:-----|:-----|:-----|
 | _Draw_|Optional|**Integer**|How nonworking times are denoted in relation to Gantt bars. Can be one of the following  **[PjNonWorkingPlacement](Project.PjNonWorkingPlacement.md)** constants: **pjBehind**, **pjInFront**, or **pjDoNotDraw**.|
 | _Calendar_|Optional|**String**|The name of the calendar to format.|
-| _Color_|Optional|**Integer**|The color of nonworking times. Can be one of the  **[PjColor](Project.PjColor.md)** constants.|
-| _Pattern_|Optional|**Integer**|The pattern for nonworking times. Can be one of the  **[PjFillPattern](Project.PjFillPattern.md)** constants.|
+| _Color_|Optional|**Integer**|The color of nonworking times. Can be one of the **[PjColor](Project.PjColor.md)** constants.|
+| _Pattern_|Optional|**Integer**|The pattern for nonworking times. Can be one of the **[PjFillPattern](Project.PjFillPattern.md)** constants.|
 
 ## Return value
 
@@ -42,7 +42,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Using the  **TimescaleNonWorking** method without specifying any arguments displays the **Timescale** dialog box with the **Non-working Time** tab selected.
+Using the **TimescaleNonWorking** method without specifying any arguments displays the **Timescale** dialog box with the **Non-working Time** tab selected.
 
 To set nonworking time format by using a hexadecimal RGB value for color, see  **[TimescaleNonWorkingEx](Project.Application.TimescaleNonWorkingEx.md)**.
 

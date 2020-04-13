@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # LookupTableEntry.Delete method (Project)
 
-Deletes the  **LookupTableEntry** object from a **LookupTable** collection.
+Deletes the **LookupTableEntry** object from a **LookupTable** collection.
 
 
 ## Syntax

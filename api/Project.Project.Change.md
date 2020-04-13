@@ -36,7 +36,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The  **Change** event does not occur for actions such as switching views, applying filters, changing formatting, and so on.
+The **Change** event does not occur for actions such as switching views, applying filters, changing formatting, and so on.
 
 Project events do not occur when the project is embedded in another document or application. 
 
@@ -108,7 +108,7 @@ End Sub
 
     
     
-3. Run the  **Initialize_App** procedure to start listening to the events.
+3. Run the **Initialize_App** procedure to start listening to the events.
     
 4. Create a new task. The event handler shows a message box every time a new task is added.
 

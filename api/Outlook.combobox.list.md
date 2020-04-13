@@ -35,7 +35,7 @@ _expression_ A variable that represents a  **ComboBox** object.
 
 Row and column numbering begins with zero. That is, the row number of the first row in the list is zero; the column number of the first column is zero. The number of the second row or column is 1, and so on.
 
-The  **List** property works with the **[ListCount](Outlook.combobox.listcount.md)** and **[ListIndex](Outlook.combobox.listindex.md)** properties. Use **List** to access list items. A list is a variant array; each item in the list has a row number and a column number.
+The **List** property works with the **[ListCount](Outlook.combobox.listcount.md)** and **[ListIndex](Outlook.combobox.listindex.md)** properties. Use **List** to access list items. A list is a variant array; each item in the list has a row number and a column number.
 
 Initially, a  **ComboBox** contains an empty list.
 

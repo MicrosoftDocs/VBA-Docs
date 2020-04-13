@@ -19,7 +19,7 @@ Contains information about individual searches performed against Outlook items.
 
 ## Remarks
 
-The  **Search** object contains properties that define the type of search and the parameters of the search itself.
+The **Search** object contains properties that define the type of search and the parameters of the search itself.
 
 Use the  **[Application](Outlook.Application.md)** object's **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method to return a **Search** object.
 

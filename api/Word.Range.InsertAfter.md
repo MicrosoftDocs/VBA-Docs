@@ -59,7 +59,7 @@ Also, if the range is a bookmark, Word inserts the specified text but does not e
 
 ## Example
 
-This example inserts text at the end of the active document. The  **Content** property returns a **Range** object.
+This example inserts text at the end of the active document. The **Content** property returns a **Range** object.
 
 
 ```vb

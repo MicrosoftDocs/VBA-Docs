@@ -23,7 +23,7 @@ _expression_ A variable that represents a [Resource](./Project.Resource.md) obje
 
 ## Remarks
 
-The  **RemainingOvertimeCost** property does not return any meaningful information for material resources.
+The **RemainingOvertimeCost** property does not return any meaningful information for material resources.
 
 For a code example that uses a  **Task** object, see **[RemainingOvertimeCost](Project.Task.RemainingOvertimeCost.md)**.
 

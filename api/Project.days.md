@@ -60,7 +60,7 @@ Next R
  
 
  
-Use the  **[Days](Project.Month.Days.md)** property to return a **Days** collection. The following example counts the number of days in the month of September 2002.
+Use the **[Days](Project.Month.Days.md)** property to return a **Days** collection. The following example counts the number of days in the month of September 2002.
  
 
  

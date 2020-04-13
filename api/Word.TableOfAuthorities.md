@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TableOfAuthorities object (Word)
 
-Represents a single table of authorities in a document (a TOA field). The  **TableOfAuthorities** object is a member of the **[TablesOfAuthorities](Word.tablesofauthorities.md)** collection. The **TablesOfAuthorities** collection includes all the tables of authorities in a document.
+Represents a single table of authorities in a document (a TOA field). The **TableOfAuthorities** object is a member of the **[TablesOfAuthorities](Word.tablesofauthorities.md)** collection. The **TablesOfAuthorities** collection includes all the tables of authorities in a document.
 
 
 ## Remarks

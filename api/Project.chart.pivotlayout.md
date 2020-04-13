@@ -19,7 +19,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Remarks
 
-If the chart you specify isn't a PivotChart report, the value of the  **PivotLayout** property is **Nothing**.
+If the chart you specify isn't a PivotChart report, the value of the **PivotLayout** property is **Nothing**.
 
 
 ## Property value
