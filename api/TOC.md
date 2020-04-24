@@ -4263,7 +4263,7 @@
 ##### [Change the color of the horizontal axis of a sparkline](../excel/Concepts/Sparklines/change-the-color-of-the-horizontal-axis-of-a-sparkline.md)
 ##### [Find all the sparklines on a sheet](../excel/Concepts/Sparklines/find-all-the-sparklines-on-a-sheet.md)
 #### Excel performance
-##### [Improve calculation performance](../excel/Concepts/Excel-Performance/excel-improving-calcuation-performance.md)
+##### [Improve calculation performance](../excel/Concepts/Excel-Performance/excel-improving-calculation-performance.md)
 ##### [Performance and limit improvements](../excel/Concepts/Excel-Performance/excel-performance-and-limit-improvements.md)
 ##### [Tips for optimizing performance obstructions](../excel/Concepts/Excel-Performance/excel-tips-for-optimizing-performance-obstructions.md)
 ### Object model
