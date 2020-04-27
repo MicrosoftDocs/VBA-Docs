@@ -50,6 +50,6 @@ End Sub
 
 
  <br>
- [Programming With Sparklines In Excel](../../../api/overview/Excel.md)
+ [Programming With Sparklines In Excel](../../../api/overview/excel.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
