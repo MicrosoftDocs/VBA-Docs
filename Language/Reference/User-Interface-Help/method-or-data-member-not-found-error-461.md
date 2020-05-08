@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Method or data member not found (Error 461)
 
-The [collection](../../Glossary/vbe-glossary.md#collection), object, or [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) doesn't contain the referenced[member](../../Glossary/vbe-glossary.md#member). This error has the following causes and solutions:
+The [collection](../../Glossary/vbe-glossary.md#collection), object, or [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) doesn't contain the referenced [member](../../Glossary/vbe-glossary.md#member). This error has the following causes and solutions:
 
 
 
