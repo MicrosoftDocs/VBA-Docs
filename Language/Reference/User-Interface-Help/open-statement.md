@@ -52,7 +52,7 @@ This example illustrates various uses of the **Open** statement to enable input 
 The following code opens the file in sequential-input mode.
 
 ```vb
-Open "TESTFILE" For InputAs#1 
+Open "TESTFILE" For Input As #1 
 ' Close before reopening in another mode. 
 Close #1 
 
