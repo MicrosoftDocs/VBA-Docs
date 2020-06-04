@@ -41,7 +41,7 @@ For Outlook, the registry keys and settings are described in the following table
 |Key|Office 2013:<br />HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\15.0\Outlook\Resiliency\AddinList<br /><br />Office 2016:<br />HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Outlook\Resiliency\AddinList|
 |Description|This policy setting allows you to specify the list of managed add-ins are always enabled, always disabled (blocked), or configurable by the user.<br/><br/>**NOTE**: Here, the term "managed" refers to add-ins that are handled by the group policy, and does not relate to add-ins being developed in managed programming languages.|
 |**String**|ProgID of the add-in|
-|Values|Specify the value as follows:0 = always disabled (blocked)1 = always enabled2 = configurable by the user and not blocked by the **Block all unmanaged add-ins** policy setting when enabled.|
+|Values|Specify the value as follows:<br>0 = always disabled (blocked)<br>1 = always enabled<br>2 = configurable by the user and not blocked by the **Block all unmanaged add-ins** policy setting when enabled.|
 
 > [!NOTE] 
 > - Use the Registry Editor on the client computer where the add-in is installed, in order to obtain the ProgID for an add-in: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\Outlook\Addins or HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Outlook\Addins
