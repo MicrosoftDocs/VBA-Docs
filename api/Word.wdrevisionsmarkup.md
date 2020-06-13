@@ -9,10 +9,7 @@ localization_priority: Normal
 
 # WdRevisionsMarkup enumeration (Word)
 
-Constants that represent the extent of markup visible in the document, returned by and passed to the [RevisionsFilter.Markup](Word.revisionsfilter.markup.md) property.
-
-
-## Members
+Specifies the extent of markup visible in the document, returned by and passed to the [RevisionsFilter.Markup](Word.revisionsfilter.markup.md) property.
 
 
 
