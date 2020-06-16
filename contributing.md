@@ -29,7 +29,7 @@ Use GitHub to contribute to this documentation without having to clone the repo 
 
 1. Find the article you want to contribute to on GitHub.
 2. Once you are on the article in GitHub, sign in to GitHub (get a free account [Join GitHub](https://github.com/join)).
-3. Choose the **pencil icon** (edit the file in your fork of this project) and make your changes in the **<>Edit file** window. 
+3. Choose the **pencil icon** (edit the file in your fork of this project) and make your changes in the **<Edit file>** window. 
 4. Scroll to the bottom and enter a description.
 5. Choose **Propose file change** > **Create pull request**.
 
