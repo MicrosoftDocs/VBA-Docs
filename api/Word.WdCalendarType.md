@@ -14,8 +14,7 @@ localization_priority: Normal
 Specifies a calendar type.
 
 
-
-|** **Name****|** **Value****|** **Description****|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdCalendarArabic**|1|Arabic Hijri calendar.|
 | **wdCalendarHebrew**|2|Hebrew Lunar calendar.|
