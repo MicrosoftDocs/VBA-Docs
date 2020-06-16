@@ -19,7 +19,7 @@ Compares two documents and returns a  **Document** object that represents the do
 
 ## Syntax
 
-_expression_. `CompareDocuments`( `_OriginalDocument_` , `_RevisedDocument_` , `_Destination_` , `_Granularity_` , `_CompareFormatting_` , `_CompareCaseChanges_` , `_CompareWhitespace_` , `_CompareTables_` , `_CompareHeaders_` , `_CompareFootnotes_` , `_CompareTextboxes_` , `_CompareFields_` , `_CompareComments_` , `_RevisedAuthor_` , `_IgnoreAllComparisonWarnings_` )
+_expression_. `CompareDocuments`( `_OriginalDocument_` , `_RevisedDocument_` , `_Destination_` , `_Granularity_` , `_CompareFormatting_` , `_CompareCaseChanges_` , `_CompareWhitespace_` , `_CompareTables_` , `_CompareHeaders_` , `_CompareFootnotes_` , `_CompareTextboxes_` , `_CompareFields_` , `_CompareComments_` , `_CompareMoves_` , `_RevisedAuthor_` , `_IgnoreAllComparisonWarnings_` )
 
  _expression_ An expression that returns an **[Application](Word.Application.md)** object. 
 
@@ -43,6 +43,7 @@ _expression_. `CompareDocuments`( `_OriginalDocument_` , `_RevisedDocument_` , `
 | _CompareTextboxes_|Optional| **Boolean**|Specifies whether to compare differences in the data contained within text boxes between the two documents. Default value is **True**.|
 | _CompareFields_|Optional| **Boolean**|Specifies whether to compare differences in fields between the two documents. Default value is **True**.|
 | _CompareComments_|Optional| **Boolean**|Specifies whether to compare differences in comments between the two documents. Default value is **True**.|
+| _CompareMoves_|Optional| **Boolean**|Specifies whether to compare differences in moves between the two documents. Default value is **True**.|
 | _RevisedAuthor_|Optional| **String**|Specifies the name of the person to whom to attribute changes when comparing the two documents.|
 | _IgnoreAllComparisonWarnings_|Optional| **Boolean**|Specifies whether to ignore warnings when comparing the two documents.|
 
