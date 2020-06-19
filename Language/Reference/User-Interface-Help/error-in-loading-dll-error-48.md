@@ -25,7 +25,8 @@ A [dynamic link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-libra
 - The DLL references another DLL that isn't present. Obtain the referenced DLL and make it available to the other DLL.
     
 - The DLL or one of the referenced DLLs isn't in a directory specified by your path. Move the DLL to a referenced directory or place its current directory on the path.
-    
+
+- The DLL is not the same bit version as the operating enviroment of VBA.
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
