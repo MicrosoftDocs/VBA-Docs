@@ -13,13 +13,7 @@ localization_priority: Normal
 
 Creating a COM add-in involves two major steps:
 
-<<<<<<< HEAD
 1. Implement the **IDTExtensibility2** interface in a class module of a dynamic link library (DLL).
-
-=======
-1. Implement the **IDTExtensibility2** interface in a class module of a dynamic link library (DLL).
-    
->>>>>>> 4e773a8f17332b1fec1a32d69a283faf1464bae6
 2. Register the COM add-in.
 
 ## Implement the IDTExtensibility2 Interface
