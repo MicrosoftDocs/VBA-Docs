@@ -9,10 +9,7 @@ localization_priority: Normal
 
 # WdContentControlLevel enumeration (Word)
 
-Constants that represent the possible levels for a content control, returned by the [ContentControl.Level](Word.contentcontrol.level.md) property.
-
-
-## Members
+Specifies the possible levels for a content control, returned by the [ContentControl.Level](Word.contentcontrol.level.md) property.
 
 
 
