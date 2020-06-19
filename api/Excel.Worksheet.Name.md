@@ -31,14 +31,11 @@ The following code example sets the name of the active worksheet equal to today'
 ```vb
 ' This macro sets today's date as the name for the current sheet 
 Sub NameWorksheetByDate() 
-    Range("D5").Select 
-    Selection.Formula = "=text(now(),""mmm dd yyyy"")" 
-    Selection.Copy 
-    Selection.PasteSpecial Paste:=xlValues 
-    Application.CutCopyMode = False 
-    Selection.Columns.AutoFit 
-    ActiveSheet.Name = Range("D5").Value 
-    Range("D5").Value = "" 
+    'Changing the sheet name to today's date
+    ActiveSheet.Name = Format(Now(), "dd-mm-yyyy")
+
+    'Changing the sheet name to a value from a cell
+    ActiveSheet.Name = ActiveSheet.Range("A1").value
 End Sub
 ```
 
