@@ -9,10 +9,7 @@ localization_priority: Normal
 
 # WdPageColor enumeration (Word)
 
-Constants that represent background page color in reading mode, returned by and passed to [View.PageColor](Word.view.pagecolor.md).
-
-
-## Members
+Specifies the background page color in reading mode, returned by and passed to [View.PageColor](Word.view.pagecolor.md).
 
 
 
