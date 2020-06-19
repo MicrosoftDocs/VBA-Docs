@@ -9,10 +9,7 @@ localization_priority: Normal
 
 # XlSeriesNameLevel enumeration (Word)
 
-Series-name-level constants passed to and returned by the [Chart.SeriesNameLevel](Word.chart.seriesnamelevel.md) property.
-
-
-## Members
+Specifies series-name-level constants passed to and returned by the [Chart.SeriesNameLevel](Word.chart.seriesnamelevel.md) property.
 
 
 
