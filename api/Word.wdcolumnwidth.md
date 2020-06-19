@@ -9,10 +9,7 @@ localization_priority: Normal
 
 # WdColumnWidth enumeration (Word)
 
-Constants that represent column width in reading layout, passed to and returned by the [View.ColumnWidth](Word.view.columnwidth.md) property.
-
-
-## Members
+Specifies the column width in reading layout, passed to and returned by the [View.ColumnWidth](Word.view.columnwidth.md) property.
 
 
 
