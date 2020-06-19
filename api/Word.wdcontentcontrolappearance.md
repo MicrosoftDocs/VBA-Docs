@@ -9,10 +9,7 @@ localization_priority: Normal
 
 # WdContentControlAppearance enumeration (Word)
 
-Constants that represent the visualizations for a content control, passed to and returned by the [ContentControl.Appearance](Word.contentcontrol.appearance.md) property.
-
-
-## Members
+Specifies the visualizations for a content control, passed to and returned by the [ContentControl.Appearance](Word.contentcontrol.appearance.md) property.
 
 
 
