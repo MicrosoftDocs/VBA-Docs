@@ -16,6 +16,8 @@ localization_priority: Normal
 
 Returns or sets a  **WdColorIndex** constant that represents the color of comments in a document. Read/write.
 
+> [!IMPORTANT]
+> This property has changed. The `Options.CommentsColor` property is still available but there will be no visible effect in the Redesigned Comments experience. However, the command will apply the `CommentsColor` property to the Word options so if the current user reverts to the previous commenting experience, the comment thread outline color will change based on the previous setting.
 
 ## Syntax
 
