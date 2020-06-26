@@ -9,10 +9,7 @@ localization_priority: Normal
 
 # XlBinsType enumeration (Word)
 
-Constants passed to and returned by the [ChartGroup.BinsType](Word.chartgroup.binstype.md) property.
-
-
-## Members
+Specifies constants passed to and returned by the [ChartGroup.BinsType](Word.chartgroup.binstype.md) property.
 
 
 

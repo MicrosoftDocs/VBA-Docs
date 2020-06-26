@@ -12,15 +12,15 @@ localization_priority: Normal
 If you can see the **eveloper** tab, you are running in developer mode. Otherwise, follow these steps to run in developer mode:
 
 
-1. Click the **ile** tab.
+1. Click the **File** tab.
     
-2. Click **ptions**.
+2. Click **Options**.
     
-3. Click **ustomize Ribbon**.
+3. Click **Customize Ribbon**.
     
-4. Select the **eveloper** check box.
+4. Select the **Developer** check box.
     
-5. Click **K**.
+5. Click **OK**.
     
 
 You should now be able to see the **eveloper** tab in the Office Fluent ribbon.

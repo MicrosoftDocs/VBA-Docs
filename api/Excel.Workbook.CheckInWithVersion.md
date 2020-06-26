@@ -53,15 +53,11 @@ This example is for a workbook-level customization.
 
 ```vb
 Private Sub WorkbookCheckIn() 
- If ActiveWorkbook.CanCheckIn Then 
- ActiveWorkbook.CheckInWithVersion _ 
- True, _ 
- "My updates.", _ 
- True, _ 
- XlCheckInVersionType.xlCheckInMinorVersion 
- Else 
- MessageBox.Show ("This workbook cannot be checked in") 
- End If 
+  If ThisWorkbook.CanCheckIn Then 
+    ThisWorkbook.CheckInWithVersion True, "Changed sheet 1 and 2 etc...", True, XlCheckInVersionType.xlCheckInMinorVersion 
+  Else 
+    Msgbox "This workbook cannot be checked in"
+  End If 
 End Sub
 ```
 

@@ -11,19 +11,19 @@ localization_priority: Normal
 
 The [Control Toolbox](../Specifying-Form-Behavior/show-or-hide-the-control-toolbox.md) identifies the controls that you can add to a **Frame** or a page of a form.
 
-You can customize the **ontrol Toolbox** in many ways including the following:
+You can customize the **Control Toolbox** in many ways including the following:
 
-- Add pages to the **ontrol Toolbox**. 
+- Add pages to the **Control Toolbox**. 
     
-- Move controls from one page in the **ontrol Toolbox** to another.
+- Move controls from one page in the **Control Toolbox** to another.
     
-- Rename **ontrol Toolbox** pages.
+- Rename **Control Toolbox** pages.
     
-- Add other controls, including ActiveX controls, to the **ontrol Toolbox**. 
+- Add other controls, including ActiveX controls, to the **Control Toolbox**. 
     
-- Copy modified controls from the form to the **ontrol Toolbox**. For example, **** and **Cancel** buttons are special types of [CommandButtons](../../../api/Outlook.commandbutton.md). If you copy * *** and **Cancel** templates to the **Control Toolbox**, you can quickly add them to other forms.
+- Copy modified controls from the form to the **Control Toolbox**. For example, **OK** and **Cancel** buttons are special types of [CommandButtons](../../../api/Outlook.commandbutton.md). If you copy **OK** and **Cancel** templates to the **Control Toolbox**, you can quickly add them to other forms.
     
 
- **Note** hen you add a control to a form by using the **ontrol Toolbox**, the control is not bound to a field.
+ **Note** hen you add a control to a form by using the **Control Toolbox**, the control is not bound to a field.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
