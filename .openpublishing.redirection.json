@@ -2663,8 +2663,10 @@
           {
             "source_path": "visio/Concepts/viswebpagesettings-properties-visio-save-as-web.md",
             "redirect_url": "/office/vba/api/Visio.VisWebPageSettings"
-          }
+          },
+          {
+            "source_path": "office/vba/api/Access.Application.CompactRepair",
+            "redirect_url": "/office/vba/api/access.application"
+          }       
     ]
 }
-
-

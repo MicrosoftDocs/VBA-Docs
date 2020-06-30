@@ -9,10 +9,7 @@ localization_priority: Normal
 
 # XlCategoryLabelLevel enumeration (Word)
 
-Constants that represent chart category-label levels, passed to and returned by the [Chart.CategoryLabelLevel](Word.chart.categorylabellevel.md) property.
-
-
-## Members
+Specifies the chart category-label levels, passed to and returned by the [Chart.CategoryLabelLevel](Word.chart.categorylabellevel.md) property.
 
 
 
