@@ -14,6 +14,9 @@ localization_priority: Normal
 
 Returns a **[Comment](PowerPoint.Comment.md)** object that represents a new comment added to a slide.
 
+> [!Important]
+> This method replaces **[Add()](powerpoint.comments.add.md)** and should be used moving forward. 
+
 
 ## Syntax
 
