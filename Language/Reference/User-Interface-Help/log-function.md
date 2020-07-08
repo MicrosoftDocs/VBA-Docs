@@ -26,7 +26,7 @@ The natural logarithm is the logarithm to the base _e_. The [constant](../../Glo
 
 You can calculate base-_n_ logarithms for any number _x_ by dividing the natural logarithm of _x_ by the natural logarithm of _n_ as follows:
 
-Log_n(x)_ = **Log**(_x_) / **Log**(_n_)
+Log*n(x)* = **Log**(_x_) / **Log**(_n_)
 
 The following example illustrates a custom **Function** that calculates base-10 logarithms:
 

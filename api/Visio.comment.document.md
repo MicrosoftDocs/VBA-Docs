@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Comment.Document property (Visio)
 
-Returns the document that contains the comment. Read-only  ** **[Document](Visio.Document.md)****.
+Returns the document that contains the comment. Read-only **[Document](Visio.Document.md)**.
 
 
 ## Syntax

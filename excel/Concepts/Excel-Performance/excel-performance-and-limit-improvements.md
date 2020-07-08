@@ -13,9 +13,10 @@ localization_priority: Priority
 Excel M365 introduces new features that you can use to improve performance when you are working with large or complex Excel workbooks
 
 ## RealTimeData Function (RTD)
+
 In Excel M365 version 2002 monthly channel or later, Excel's [RealTimeData (RTD) function](https://docs.microsoft.com/office/troubleshoot/excel/set-up-realtimedata-function?WT.mc_id=email) is much faster than Excel 2010 calculating  data in the spreadsheet. The underlying reason is that it is now thread-safe and can be executed on all concurrent threads of [Multithreaded recalculation (MTR)](https://docs.microsoft.com/office/client-developer/excel/multithreaded-recalculation-in-excel) when calculating.
 
-For example calculating 125,000 RTD updates from an in-proc RTD COM server and on a 2 core 2 GHz CPU took 47 seconds using Excel 2010 and only 7 seconds using Excel M365 2002.
+For example simulating 125,000 RTD updates for stock topics like "Last Price", "Ask", "Bid" to calculate values like "Trade Volume", "Market Value", "Trade Gain/Loss" etc. in 500,0000 cells in all, took 47 seconds using Excel 2010 and only 7 seconds using Excel O365 2002, on the same hardware.
 
 ## VLOOKUP, HLOOKUP, MATCH improvements
 
