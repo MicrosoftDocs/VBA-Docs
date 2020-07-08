@@ -17,7 +17,7 @@ localization_priority: Normal
 Returns a **[Comment](PowerPoint.Comment.md)** object that represents a new comment added to a slide.
 
 > [!IMPORTANT]
-> Add() will continue to work for both modern and legacy comments. On modern comments, however, we no longer support assigning a modern comment to another author via Add(). Instead, modern comments will always be attributed to the signed-in user. If users would like to assign modern comments to another user, they can update their add-in to use **[Add2()](PowerPoint.Comments.Add2.md)**, which was designed for modern comments.
+> **Add()** is now hidden and can't be added in new places. However, **Add()** will continue to work for both modern and legacy comments. On modern comments, we no longer support assigning a modern comment to another author via **Add()**. Instead, modern comments will always be attributed to the signed-in user. If users would like to assign modern comments to another user, they can update their add-in to use **[Add2()](PowerPoint.Comments.Add2.md)**, which was designed for modern comments.
 
 ## Syntax
 
