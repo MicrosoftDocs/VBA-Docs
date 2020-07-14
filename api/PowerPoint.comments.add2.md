@@ -12,10 +12,7 @@ localization_priority: Normal
 
 # Comments.Add2 method (PowerPoint)
 
-Returns a **[Comment](PowerPoint.Comment.md)** object that represents a new comment added to a slide.
-
-> [!IMPORTANT]
-> Replaces hidden Add method. Returns a **[Comment](powerpoint.comments.add2.md)** object that represents a new comment added to a slide. For more infomation about modern comments, see [Modern comments in PowerPoint](https://support.microsoft.com/office/modern-comments-in-powerpoint-c0aa37bb-82cb-414c-872d-178946ff60ec).
+Replaces hidden Add method. Returns a **[Comment](powerpoint.comments.add2.md)** object that represents a new comment added to a slide. For more infomation about modern comments, see [Modern comments in PowerPoint](https://support.microsoft.com/office/modern-comments-in-powerpoint-c0aa37bb-82cb-414c-872d-178946ff60ec).
 
 
 ## Syntax
