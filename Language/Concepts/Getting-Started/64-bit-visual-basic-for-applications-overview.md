@@ -12,7 +12,7 @@ localization_priority: Priority
 Microsoft Visual Basic for Applications (VBA) is the version of Visual Basic that ships with Microsoft Office. In Microsoft Office 2010, VBA includes language features that enable VBA code to run correctly in both 32-bit and 64-bit environments.
 
 > [!NOTE] 
-> By default, Office 2010 installs the 32-bit version. You must explicitly choose to install the 64-bit version during setup.
+> By default, Office 2010, 2013 and 2016 install the 32-bit version. You must explicitly choose to install the 64-bit version during setup. Starting with Office 2019 and Microsoft 365, the default is the 64-bit version.
 
 Running VBA code that was written before the Office 2010 release (VBA version 6 and earlier) on a 64-bit platform can result in errors if the code is not modified to run in 64-bit versions of Office. Errors will result because VBA version 6 and earlier implicitly targets 32-bit platforms, and typically contains **[Declare statements](../../reference/user-interface-help/declare-statement.md)** that call into the Windows API by using 32-bit data types for pointers and handles. Because VBA version 6 and earlier does not have a specific data type for pointers or handles, it uses the **Long** data type, which is a 32-bit 4-byte data type, to reference pointers and handles. Pointers and handles in 64-bit environments are 8-byte 64-bit quantities. These 64-bit quantities cannot be held in 32-bit data types.
 

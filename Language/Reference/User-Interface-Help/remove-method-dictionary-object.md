@@ -34,14 +34,42 @@ An error occurs if the specified key/item pair does not exist.
 The following code illustrates use of the **Remove** method.
 
 ```vb
-Dim a, d, i             'Create some variables
-Set d = CreateObject("Scripting.Dictionary")
-d.Add "a", "Athens"     'Add some keys and items
-d.Add "b", "Belgrade"
-d.Add "c", "Cairo"
-...
-a = d. Remove()          'Remove second pair
+Public Sub Start()
 
+    Dim d As Object
+    Set d = CreateObject("Scripting.Dictionary")
+    
+    d.Add "a", "Athens"
+    d.Add "b", "Belgrade"
+    d.Add "c", "Cairo"
+    
+    Debug.Print "Keys, before using Remove."
+    PrintKeys d
+    
+    d.Remove "b"
+    
+    Debug.Print "Keys, after removing key 'b'."
+    PrintKeys d
+
+End Sub
+
+Private Sub PrintKeys(ByVal d As Object)
+    
+    Dim k As Variant
+    For Each k In d.Keys
+        Debug.Print k
+    Next k
+    
+End Sub
+
+' The example displays the following output:
+' Keys, before using Remove.
+' a
+' b
+' c
+' Keys, after removing key 'b'.
+' a
+' c
 ```
 
 ## See also

@@ -14,6 +14,9 @@ localization_priority: Normal
 
 Replaces hidden Add method. Returns a **[Comment](powerpoint.comments.add2.md)** object that represents a new comment added to a slide. For more infomation about modern comments, see [Modern comments in PowerPoint](https://support.microsoft.com/office/modern-comments-in-powerpoint-c0aa37bb-82cb-414c-872d-178946ff60ec).
 
+> [!Important]
+> This method replaces **[Add()](powerpoint.comments.add.md)** and should be used moving forward. 
+
 
 ## Syntax
 

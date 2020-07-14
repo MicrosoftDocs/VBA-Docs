@@ -19,6 +19,7 @@ Returns a **[Comment](PowerPoint.Comment.md)** object that represents a new comm
 > [!IMPORTANT]
 > This method is now hidden. It will continue to work in existing places but cannot be added to new places in code. For modern comments, this method can only attribute comments to the signed-in user, not anyone passed in through the “author” field. To attribute modern comments to other authors, please update your calls to the **[Add2](PowerPoint.Comments.Add2.md)**. Add will continue to work as expected for legacy comments. For more infomation about modern comments, see [Modern comments in PowerPoint](https://support.microsoft.com/office/modern-comments-in-powerpoint-c0aa37bb-82cb-414c-872d-178946ff60ec).
 
+
 ## Syntax
 
 _expression_.**Add** (_Left_, _Top_, _Author_, _AuthorInitials_, _Text_)
