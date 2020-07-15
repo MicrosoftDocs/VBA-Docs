@@ -4,7 +4,7 @@ keywords: vbapp10.chm641005
 f1_keywords:
 - vbapp10.chm641005
 ms.assetid: 4add4727-0193-061b-da71-793a4d6b3aa9
-ms.date: 07/08/2020
+ms.date: 07/14/2020
 ms.prod: powerpoint
 localization_priority: Normal
 ---
@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Comments.Add2 method (PowerPoint)
 
-Returns a **[Comment](PowerPoint.Comment.md)** object that represents a new comment added to a slide.
+Replaces hidden Add method. Returns a **[Comment](powerpoint.comments.add2.md)** object that represents a new comment added to a slide. For more infomation about modern comments, see [Modern comments in PowerPoint](https://support.microsoft.com/office/modern-comments-in-powerpoint-c0aa37bb-82cb-414c-872d-178946ff60ec).
 
 > [!Important]
 > This method replaces **[Add()](powerpoint.comments.add.md)** and should be used moving forward. 
