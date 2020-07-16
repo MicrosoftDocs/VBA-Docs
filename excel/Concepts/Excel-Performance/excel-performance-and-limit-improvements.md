@@ -14,9 +14,13 @@ Excel M365 introduces new features that you can use to improve performance when 
 
 ## RealTimeData Function (RTD)
 
-In Excel M365 version 2002 monthly channel or later, Excel's [RealTimeData (RTD) function](https://docs.microsoft.com/office/troubleshoot/excel/set-up-realtimedata-function?WT.mc_id=email) is much faster than Excel 2010 calculating  data in the spreadsheet. The underlying reason is that it is now thread-safe and can be executed on all concurrent threads of [Multithreaded recalculation (MTR)](https://docs.microsoft.com/office/client-developer/excel/multithreaded-recalculation-in-excel) when calculating.
+In Excel M365 version 2002 monthly channel or later, Excel's [RealTimeData (RTD) function](https://docs.microsoft.com/office/troubleshoot/excel/set-up-realtimedata-function?WT.mc_id=email) is much faster than Excel 2010 calculating  data in the spreadsheet. We removed bottlenecks in its underlying memory and data structures as well as made it thread-safe to allow it to be calculated on all available threads of [Multithreaded recalculation (MTR)](https://docs.microsoft.com/office/client-developer/excel/multithreaded-recalculation-in-excel).
 
 For example simulating 125,000 RTD updates for stock topics like "Last Price", "Ask", "Bid" to calculate values like "Trade Volume", "Market Value", "Trade Gain/Loss" etc. in 500,0000 cells in all, took 47 seconds using Excel 2010 and only 7 seconds using Excel O365 2002, on the same hardware.
+
+Another positive effect of making RTD function thread-safe, is that [Multithreaded recalculation (MTR)](https://docs.microsoft.com/office/client-developer/excel/multithreaded-recalculation-in-excel) doesn't need to be paused to run RTD function anymore. This improves performance noticeably when running RTD along with lots of other calculations.  
+
+For example, we ran a workbook with 10,000 RTD and 10,000 VLOOKUP functions, with each VLOOKUP depending on an RTD function result. Without thread-safe RTD full recalcuation  took 10.20 seconds and with thread-safe RTD it took 5.84 seconds. 
 
 ## VLOOKUP, HLOOKUP, MATCH improvements
 
