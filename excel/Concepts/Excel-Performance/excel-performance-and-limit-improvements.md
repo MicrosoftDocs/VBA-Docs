@@ -12,6 +12,12 @@ localization_priority: Priority
 
 Excel M365 introduces new features that you can use to improve performance when you are working with large or complex Excel workbooks
 
+## SUMIFS, AVERAGEIFS, COUNTIFS, MAXIFS, MINIFS Improvements
+
+In Office 365 version 2005 monthly channel and later, Excel's SUMIFS, AVERAGEIFS, COUNTIFS, MAXIFS, and MINIFS as well as their singular counterparts SUMIF, AVERAGEIF, and COUNTIF are much faster than Excel 2010 aggregating string data in the spreadsheet. These functions now create an internal cached index for the range being searched in each expression. This cached index is reused in any subsequent aggregations that are pulling from the same range. 
+
+The effect is dramatic: For example calculating 1200 SUMIFS, AVERAGEIFS, and COUNTIFS formulas aggregating data from 1 million cells on a 4 core 2 GHz CPU that took 20 seconds to calculate using Excel 2010, now takes 8 seconds only, on Excel M365 2006.
+
 ## RealTimeData Function (RTD)
 
 In Excel M365 version 2002 monthly channel or later, Excel's [RealTimeData (RTD) function](https://docs.microsoft.com/office/troubleshoot/excel/set-up-realtimedata-function?WT.mc_id=email) is much faster than Excel 2010 calculating  data in the spreadsheet. We removed bottlenecks in its underlying memory and data structures as well as made it thread-safe to allow it to be calculated on all available threads of [Multithreaded recalculation (MTR)](https://docs.microsoft.com/office/client-developer/excel/multithreaded-recalculation-in-excel).
