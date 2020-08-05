@@ -30,24 +30,12 @@ An overflow results when you try to make an assignment that exceeds the limitati
   ```
 
   To work around this situation, type the number, like this:
-    
-  ```vb
-    Dim x As Long 
-        x = 2000 * 365   ' Error: Overflow
-  ```
+
 
   ```vb
     Dim x As Long 
         x = CLng(2000) * 365
   ```
-
-  To work around this situation, type the number, like this:
-    
-  ```vb
-    Dim x As Long 
-        x = CLng(2000) * 365
-  ```
-
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
