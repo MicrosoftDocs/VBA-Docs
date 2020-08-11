@@ -51,6 +51,26 @@ tbl.Offset(1, 0).Resize(tbl.Rows.Count - 1, _
 
 ```
 
+<br/>
+
+If _RowOffset_ or _ColumnOffset_ are 0 (zero) they can be omitted.
+
+Select cell D1
+
+```vb
+Range("A1").Offset(, 3).Select
+
+```
+
+Select cell A5
+
+```vb
+Range("A1").Offset(4).Select
+
+```
+
+
+
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
