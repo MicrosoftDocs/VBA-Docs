@@ -77,10 +77,22 @@ You can also specify keys combined with Shift and/or Ctrl and/or Alt. To specify
 
 ## Example
 
-This example uses the **SendKeys** method to quit Microsoft Excel.
+This line creates a new workbook.
 
 ```vb
-Application.SendKeys("%fx")
+Application.SendKeys("^n")
+```
+
+This line displays the Name Manager.
+
+```vb
+Application.SendKeys("%mn")
+```
+
+This line enters the value 1234 into the Active Cell.
+
+```vb
+Application.SendKeys ("1234{Enter}")
 ```
 
 
