@@ -16,6 +16,9 @@ localization_priority: Normal
 
 Returns a **DocumentProperties** collection that represents all the custom document properties for the specified presentation. Read-only.
 
+> [!NOTE] 
+> All custom document properties will be lost when user uses the **Design Ideas** to change the look of a slide in the presentation.
+
 
 ## Syntax
 
