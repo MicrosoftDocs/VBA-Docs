@@ -21,7 +21,7 @@ Sub GetSMTPAddressForRecipients(mail As Outlook.MailItem)
     Dim recip As Outlook.Recipient 
     Dim pa As Outlook.PropertyAccessor 
     Const PR_SMTP_ADDRESS As String = _ 
-        "https://schemas.microsoft.com/mapi/proptag/0x39FE001E" 
+        "http://schemas.microsoft.com/mapi/proptag/0x39FE001E" 
     Set recips = mail.Recipients 
     For Each recip In recips 
         Set pa = recip.PropertyAccessor 
@@ -37,7 +37,7 @@ The following managed code is written in C#. To run a .NET Framework managed cod
 private void GetSMTPAddressForRecipients(Outlook.MailItem mail) 
 { 
     const string PR_SMTP_ADDRESS = 
-        "https://schemas.microsoft.com/mapi/proptag/0x39FE001E"; 
+        "http://schemas.microsoft.com/mapi/proptag/0x39FE001E"; 
     Outlook.Recipients recips = mail.Recipients; 
     foreach (Outlook.Recipient recip in recips) 
     { 
