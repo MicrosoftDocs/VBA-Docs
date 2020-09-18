@@ -63,7 +63,7 @@ For Each c In [A1:C5] If c.Font.Name Like "Cour*" Then c.Font.Name = "Times New 
 
 ## Examples
 
-This example finds all cells in the range A1:A500 on worksheet one that contain the value 2, and changes the entire cell value to 5.  That is, the values 1234 and 99299 both contain 2 and both cell values will become 5.
+This example finds all cells in the range A1:A500 in worksheet one that contain the value 2, and changes the entire cell value to 5. That is, the values 1234 and 99299 both contain 2 and both cell values will become 5.
 
 ```vb
 Sub FindValue()
