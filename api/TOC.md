@@ -17814,6 +17814,7 @@
 ###### [Permission](PowerPoint.Presentation.Permission.md)
 ###### [PrintOptions](PowerPoint.Presentation.PrintOptions.md)
 ###### [ReadOnly](PowerPoint.Presentation.ReadOnly.md)
+###### [ReadOnlyRecommended](PowerPoint.Presentation.ReadOnlyRecommended.md)
 ###### [RemovePersonalInformation](PowerPoint.Presentation.RemovePersonalInformation.md)
 ###### [Research](PowerPoint.Presentation.Research.md)
 ###### [Saved](PowerPoint.Presentation.Saved.md)
