@@ -37,7 +37,7 @@ Sub AddNewSequence()
         (Type:=msoShapeBevel, Left:=400, _
         Top:=200, Width:=150, Height:=100)
 
-    With ActivePresentation.Slides(1).TimLine.InteractiveSequences.Add(1)
+    With ActivePresentation.Slides(1).TimeLine.InteractiveSequences.Add(1)
         Set interEffect = .AddEffect(shp2, msoAnimEffectBlinds, _
             trigger:=msoAnimTriggerOnShapeClick)
         interEffect.Shape = shp1
