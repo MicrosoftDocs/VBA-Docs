@@ -77,7 +77,7 @@ You can also specify keys combined with Shift and/or Ctrl and/or Alt. To specify
 
 ## Example
 
-This line creates a new workbook.
+The following example creates a new workbook.
 
 ```vb
 Application.SendKeys("^n")
