@@ -63,7 +63,7 @@ The three settings in the **Programmatic Access Security** dialog are:
 
 - **Always warn me about suspicious activity** This setting will revert Outlook to behave like Outlook 2003, where cross-process COM callers and untrusted add-ins will invoke security warnings.
 
-- **Never warn me about suspicious activity (not recommended)**This setting will never show security warnings and the Object Model Guard will be disabled. This setting should only be used in controlled environments where the risk of malicious code running on the computer is low.
+- **Never warn me about suspicious activity (not recommended)** This setting will never show security warnings and the Object Model Guard will be disabled. This setting should only be used in controlled environments where the risk of malicious code running on the computer is low.
 
 These settings are only available if the current user is an administrator on the computer. Non-administrator users can see the current setting but will not be able to change it. Programmatic Access settings can also be controlled through Group Policy. For more information on configuring Outlook settings with Group Policy, see the Office Resource Kit Web site.
 
