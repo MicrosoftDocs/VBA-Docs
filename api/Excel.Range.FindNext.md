@@ -42,23 +42,26 @@ When the search reaches the end of the specified search range, it wraps around t
 
 ## Example
 
-This example finds all cells in the range A1:A500 that contain the value 2 and changes their value to 5.
+This example finds all cells in the range A1:A500 on worksheet one that contain the value 2, and changes the entire cell value to 5.  That is, the values 1234 and 99299 both contain 2 and both cell values will become 5.
 
 ```vb
-With Worksheets(1).Range("a1:a500")
-     Set c = .Find(2, lookin:=xlValues)
-     If Not c Is Nothing Then
-        firstAddress = c.Address
-        Do
-            c.Value = 5
-            Set c = .FindNext(c)
-        If c is Nothing Then
-            GoTo DoneFinding
-        End If
-        Loop While c.Address <> firstAddress
-      End If
-      DoneFinding:
-End With
+Sub FindValue()
+    
+    Dim c As Range
+    Dim firstAddress As String
+    
+    With Worksheets(1).Range("A1:A500") 
+        Set c = .Find(2, lookin:=xlValues) 
+        If Not c Is Nothing Then 
+            firstAddress = c.Address 
+            Do 
+                c.Value = 5 
+                Set c = .FindNext(c) 
+            Loop While Not c Is Nothing
+        End If 
+    End With
+    
+End Sub
 ```
 
 <br/>
