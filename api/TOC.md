@@ -17757,6 +17757,7 @@
 ###### [Save](PowerPoint.Presentation.Save.md)
 ###### [SaveAs](PowerPoint.Presentation.SaveAs.md)
 ###### [SaveCopyAs](PowerPoint.Presentation.SaveCopyAs.md)
+###### [SaveCopyAs2](PowerPoint.Presentation.SaveCopyAs2.md)
 ###### [SendFaxOverInternet](PowerPoint.Presentation.SendFaxOverInternet.md)
 ###### [SetPasswordEncryptionOptions](PowerPoint.Presentation.SetPasswordEncryptionOptions.md)
 ###### [UpdateLinks](PowerPoint.Presentation.UpdateLinks.md)
