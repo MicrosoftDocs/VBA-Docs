@@ -89,7 +89,7 @@ The following example displays the Name Manager.
 Application.SendKeys("%mn")
 ```
 
-This line enters the value 1234 into the Active Cell.
+The following example enters the value 1234 into the Active Cell.
 
 ```vb
 Application.SendKeys ("1234{Enter}")
