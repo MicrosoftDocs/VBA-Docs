@@ -44,7 +44,7 @@ For Each bar In CommandBars
     If (bar.BuiltIn = False) And _ 
     (bar.Visible = False) Then 
         bar.Delete 
-        foundFlag =   
+        foundFlag = True
         delBars = delBars + 1 
     End If 
 Next bar 
