@@ -83,7 +83,7 @@ The following example creates a new workbook.
 Application.SendKeys("^n")
 ```
 
-This line displays the Name Manager.
+The following example displays the Name Manager.
 
 ```vb
 Application.SendKeys("%mn")
