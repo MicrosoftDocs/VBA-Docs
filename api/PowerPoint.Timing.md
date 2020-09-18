@@ -28,7 +28,7 @@ Use the following read/write properties of the  **Timing** object to manipulate 
 |[Accelerate](PowerPoint.Timing.Accelerate.md)|Percentage of the duration over which acceleration should take place|
 |[AutoReverse](PowerPoint.Timing.AutoReverse.md)|Whether an effect should play forward and then reverse, thereby doubling the duration|
 |[Decelerate](PowerPoint.Timing.Decelerate.md)|Percentage of the duration over which acceleration should take place|
-|[Duration](PowerPoint.SlideShowTransition.Duration.md)|Length of animation (in seconds)|
+|[Duration](PowerPoint.Timing.Duration.md)|Length of animation (in seconds)|
 |[RepeatCount](PowerPoint.Timing.RepeatCount.md)|Number of times to repeat the animation|
 |[RepeatDuration](PowerPoint.Timing.RepeatDuration.md)|How long should the repeats last (in seconds)|
 |[Restart](PowerPoint.Timing.Restart.md)|Restart behavior of an animation node|

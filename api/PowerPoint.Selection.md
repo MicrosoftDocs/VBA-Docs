@@ -19,14 +19,14 @@ Represents the selection in the specified document window. The **Selection** obj
 
 ## Example
 
-Use the [Selection](PowerPoint.Cell.Selected.md)property to return the  **Selection** object. The following example places a copy of the selection in the active window on the Clipboard.
+Use the [Selection](PowerPoint.Cell.Selected.md) property to return the  **Selection** object. The following example places a copy of the selection in the active window on the Clipboard.
 
 
 ```vb
 ActiveWindow.Selection.Copy
 ```
 
-Use the [ShapeRange](PowerPoint.Selection.ShapeRange.md), [SlideRange](PowerPoint.Selection.SlideRange.md), or [TextRange](PowerPoint.Selection.TextRange.md)property to return a range of shapes, slides, or text from the selection.
+Use the [ShapeRange](PowerPoint.Selection.ShapeRange.md), [SlideRange](PowerPoint.Selection.SlideRange.md), or [TextRange](PowerPoint.Selection.TextRange.md) property to return a range of shapes, slides, or text from the selection.
 
 The following example sets the fill foreground color for the selected shapes in window two, assuming that there's at least one shape selected, and assuming that all selected shapes have a fill whose forecolor can be set.
 
@@ -78,7 +78,7 @@ The following example duplicates all the slides in the selection (if you are in 
 ActiveWindow.Selection.SlideRange.Duplicate
 ```
 
-If you don't have an object of the appropriate type selected when you use one of these properties (for instance, if you use the  **ShapeRange** property when there are no shapes selected), an error occurs. Use the [Type](PowerPoint.Selection.Type.md)property to determine what kind of object or objects are selected. The following example checks to see whether the selection contains slides. If the selection does contain slides, the example sets the background for the first slide in the selection.
+If you don't have an object of the appropriate type selected when you use one of these properties (for instance, if you use the  **ShapeRange** property when there are no shapes selected), an error occurs. Use the [Type](PowerPoint.Selection.Type.md) property to determine what kind of object or objects are selected. The following example checks to see whether the selection contains slides. If the selection does contain slides, the example sets the background for the first slide in the selection.
 
 
 

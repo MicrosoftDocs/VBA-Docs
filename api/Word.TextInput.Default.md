@@ -14,7 +14,8 @@ localization_priority: Normal
 
 # TextInput.Default property (Word)
 
-Returns or sets the text that represents the default text box contents. Read/write  **String**.
+Returns or sets the text that represents the default text box contents. Read/write **String**.
+The string length is limited to 255 characters.
 
 
 ## Syntax

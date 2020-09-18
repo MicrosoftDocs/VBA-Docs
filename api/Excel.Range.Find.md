@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 | _LookIn_|Optional| **Variant**|Can be one of the following **[XlFindLookIn](excel.xlfindlookin.md)** constants: **xlFormulas**, **xlValues**, **xlComments**, or **xlCommentsThreaded**.|
 | _LookAt_|Optional| **Variant**|Can be one of the following **[XlLookAt](excel.xllookat.md)** constants: **xlWhole** or **xlPart**.|
 | _SearchOrder_|Optional| **Variant**|Can be one of the following **[XlSearchOrder](excel.xlsearchorder.md)** constants: **xlByRows** or **xlByColumns**.|
-| _SearchDirection_|Optional| **[XlSearchDirection](Excel.xlSearchDirection.md)** |The search direction.|
+| _SearchDirection_|Optional| **Variant** |Can be one of the following **[XlSearchDirection](Excel.xlSearchDirection.md)** constants: **xlNext** or **xlPrevious**.|
 | _MatchCase_|Optional| **Variant**| **True** to make the search case-sensitive. The default value is **False**.|
 | _MatchByte_|Optional| **Variant**|Used only if you have selected or installed double-byte language support. **True** to have double-byte characters match only double-byte characters. **False** to have double-byte characters match their single-byte equivalents.|
 | _SearchFormat_|Optional| **Variant**|The search format.|
@@ -61,22 +61,52 @@ For Each c In [A1:C5] If c.Font.Name Like "Cour*" Then c.Font.Name = "Times New 
 
 ```
 
-## Example
+## Examples
 
-This example finds all cells in the range A1:A500 on worksheet one that contain the value 2, and changes it to 5.
+This example finds all cells in the range A1:A500 in worksheet one that contain the value 2, and changes the entire cell value to 5. That is, the values 1234 and 99299 both contain 2 and both cell values will become 5.
 
 ```vb
-With Worksheets(1).Range("a1:a500") 
-    Set c = .Find(2, lookin:=xlValues) 
-    If Not c Is Nothing Then 
-        firstAddress = c.Address 
-        Do 
-            c.Value = 5 
-            Set c = .FindNext(c) 
-        Loop While Not c Is Nothing
-    End If 
-End With
+Sub FindValue()
+    
+    Dim c As Range
+    Dim firstAddress As String
+
+    With Worksheets(1).Range("A1:A500") 
+        Set c = .Find(2, lookin:=xlValues) 
+        If Not c Is Nothing Then 
+            firstAddress = c.Address 
+            Do 
+                c.Value = 5 
+                Set c = .FindNext(c) 
+            Loop While Not c Is Nothing
+        End If 
+    End With
+    
+End Sub
 ```
+
+This example finds all cells in the range A1:A500 on worksheet one that contain the substring "abc" and then replaces "abc" with "xyz".
+
+```vb
+Sub FindString()
+
+    Dim c As Range
+    Dim firstAddress As String
+
+    With Worksheets(1).Range("A1:A500")
+        Set c = .Find("abc", LookIn:=xlValues)
+        If Not c Is Nothing Then
+            firstAddress = c.Address
+            Do
+                c.Value = Replace(c.Value, "abc", "xyz")
+                Set c = .FindNext(c)
+            Loop While Not c Is Nothing
+        End If
+    End With
+
+End Sub
+```
+
 
 <!-- ******Removed this sample by request in this Issue: https://github.com/MicrosoftDocs/VBA-Docs/issues/133******
 
