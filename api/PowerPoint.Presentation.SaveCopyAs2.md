@@ -81,7 +81,7 @@ This example saves a copy of the active presentation under the name "New File.pp
 ```vb
 With Application.ActivePresentation
 
-    .SaveCopyAs2 "File Name", ppSaveAsDefault, msoTriStateMixed, msoFalse
+    .SaveCopyAs2 "New File", ppSaveAsDefault, msoTriStateMixed, msoFalse
 
 End With
 ```
