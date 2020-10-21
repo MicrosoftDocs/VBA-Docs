@@ -37,7 +37,7 @@ Using the **Rows** property without an object qualifier is equivalent to using *
 
 ## Example
 
-This example deletes the range B5:Z5 on Sheet1 of the active workbook.
+This example deletes the range B2:Z4 on Sheet1 of the active workbook.
 
 ```vb
 Worksheets("Sheet1").Range("B2:Z44").Rows(3).Delete
