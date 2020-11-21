@@ -41,6 +41,8 @@ Reference
 
 The **[GUID](Access.Reference.Guid.md)** property returns the GUID for a specified **Reference** object. If you stored the value of the **GUID** property, you can use it to re-create a reference that's been broken.
 
+If you add a GUID reference using 0 for both the major and minor version parameters, it will resolve to the latest installed version of an object library.
+
 
 ## Example
 
@@ -48,6 +50,13 @@ The following example re-creates a reference to the **Microsoft Scripting Runtim
 
 ```vb
 References.AddFromGuid "{420B2830-E718-11CF-893D-00A0C9054228}", 1, 0
+
+```
+
+The following example adds a reference to the **Microsoft Excel Object Library**, without knowing which version is currently installed.
+
+```vb
+References.AddFromGuid "{00020813-0000-0000-C000-000000000046}", 0, 0
 
 ```
 
