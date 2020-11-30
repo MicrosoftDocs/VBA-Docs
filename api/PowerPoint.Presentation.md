@@ -1,5 +1,6 @@
 ---
 title: Presentation object (PowerPoint)
+description: Represents a Microsoft PowerPoint presentation. 
 keywords: vbapp10.chm524000
 f1_keywords:
 - vbapp10.chm524000
