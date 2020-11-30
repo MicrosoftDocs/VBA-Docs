@@ -33,16 +33,16 @@ _expression_ An expression that returns a **[Chart](Excel.Chart(object).md)** ob
 
 ## Return value
 
-Chart
+The new Chart at the new location. Note that the Location method deletes the old chart and creates a new one in the new location. As a result, the old chart is invalidated and subsequent operations on it is not well defined.
 
 
 ## Example
 
-This example moves the embedded chart to a new chart sheet named Monthly Sales.
+This example moves the embedded chart to a new chart sheet named Monthly Sales, and assigns the new chart to newChart.
 
 ```vb
-Worksheets(1).ChartObjects(1).Chart _ 
- .Location xlLocationAsNewSheet, "Monthly Sales"
+Set newChart = Worksheets(1).ChartObjects(1).Chart _ 
+ .Location(xlLocationAsNewSheet, "Monthly Sales")
 ```
 
 
