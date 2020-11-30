@@ -261,7 +261,7 @@ Choose **OK** and change the text back to"Wow!".
 
 Runtime errors are harder to catch because the programming syntax looks correct, but the code fails when VBA tries to execute it.
 
-For example, open the Visual Basic Editor and change the **Value** property name toValueX in your Macro, deliberately introducing a runtime error since the **Range** object does not have a property called ValueX. Go back to the Excel document, open the **Macros** dialog box and run Macro1 again. You should see a Visual Basic message box that explains the run-time error with the text, "Object doesn't support this property of method." Although that text is clear, choose **Debug** to find out more.
+For example, open the Visual Basic Editor and change the **Value** property name to ValueX in your Macro, deliberately introducing a runtime error since the **Range** object does not have a property called ValueX. Go back to the Excel document, open the **Macros** dialog box and run Macro1 again. You should see a Visual Basic message box that explains the run-time error with the text, "Object doesn't support this property of method." Although that text is clear, choose **Debug** to find out more.
 
 When you return to the Visual Basic Editor, it is in a special debug mode that uses a yellow highlight to show you the line of code that failed. As expected, the line that includes the ValueX property is highlighted.
 

@@ -1,5 +1,6 @@
 ---
 title: Presentation.SaveCopyAs2 method (PowerPoint)
+description: Saves a copy of the specified presentation to a file without modifying the original.
 keywords: vbapp10.chm583135
 f1_keywords:
 - vbapp10.chm583135

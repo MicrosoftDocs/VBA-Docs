@@ -45,7 +45,7 @@ localization_priority: Normal
 |IPM.Note.Secure.Sign|Digitally signed notes to other people|
 |IPM.Task| Tasks|
 |IPM.TaskRequest.Accept|Responses to accept task requests|
-|IPM.TaskRequest.Decline|Responses to desline task requests|
+|IPM.TaskRequest.Decline|Responses to decline task requests|
 |IPM.TaskRequest|Task requests|
 |IPM.TaskRequest.Update| Updates to requested tasks|
 

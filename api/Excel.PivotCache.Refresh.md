@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotCache.Refresh method (Excel)
 
-Causes the specified chart to be redrawn immediately.
+Causes the specified PivotCache to be redrawn immediately.
 
 
 ## Syntax

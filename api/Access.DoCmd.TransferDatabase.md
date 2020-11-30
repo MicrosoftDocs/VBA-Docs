@@ -29,8 +29,8 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TransferType_|Optional|**[AcDataTransferType](Access.AcDataTransferType.md)**|The type of transfer you want to make.|
-| _DatabaseType_|Optional|**Variant**|A string expression that's the name of one of the types of databases that you can use to import, export, or link data. The _DatabaseType_ parameter is required for exporting and link data actions but not required for importing actions. The types or databases are:<ul><li><p>Microsoft Access (default)  </p></li><li><p>Jet 2.x</p></li><li><p>Jet 3.x</p></li><li><p>dBase III</p></li><li><p>dBase IV</p></li><li><p>dBase 5.0</p></li><li><p>Paradox 3.x</p></li><li><p>Paradox 4.x</p></li><li><p>Paradox 5.x</p></li><li><p>Paradox 7.x</p></li><li><p>ODBC Database</p></li><li><p>WSS</p></li></ul>|
-| _DatabaseName_|Optional|**Variant**|A string expression that's the full name, including the path, of the database that you want to use to import, export, or link data.|
+| _DatabaseType_|Optional|**Variant**|A string expression that's the name of one of the types of databases that you can use to import, export, or link data. The _DatabaseType_ parameter is required for exporting and link data actions but not required for importing actions. The types or databases are:<ul><li><p>Microsoft Access (default)  </p></li><li><p>Jet 2.x</p></li><li><p>Jet 3.x</p></li><li><p>dBase III</p></li><li><p>dBase IV</p></li><li><p>dBase 5.0</p></li><li><p>Paradox 3.x</p></li><li><p>Paradox 4.x</p></li><li><p>Paradox 5.x</p></li><li><p>Paradox 7.x</p></li><li><p>ODBC Database</p></li><li><p>WSS (SharePoint)</p></li></ul>|
+| _DatabaseName_|Optional|**Variant**|A string expression that's the full name, including the path (for WSS, Windows SharePoint Services, the URL), of the database that you want to use to import, export, or link data.|
 | _ObjectType_|Optional|**[AcObjectType](Access.AcObjectType.md)**|The type of object to import or export.|
 | _Source_|Optional|**Variant**|A string expression that's the name of the object whose data you want to import, export, or link.|
 | _Destination_|Optional|**Variant**|A string expression that's the name of the imported, exported, or linked object in the destination database.|
@@ -52,12 +52,12 @@ The administrator of an ODBC database can disable the feature provided by the _S
 
 ## Example
 
-The following example imports the NW Sales for April report from the Access database NWSales.mdb into the Corporate Sales for April report in the current database.
+The following example imports the Monthly Sales Report from the Access database Northwind.accdb into the Corporate Sales Report in the current database.
 
 ```vb
 DoCmd.TransferDatabase acImport, "Microsoft Access", _ 
-    "C:\My Documents\NWSales.mdb", acReport, "NW Sales for April", _ 
-    "Corporate Sales for April"
+    "C:\Users\Public\Northwind.accdb", acReport, "Monthly Sales Report", _ 
+    "Corporate Sales Report"
 ```
 
 <br/>
@@ -66,10 +66,30 @@ The following example links the ODBC database table Authors to the current datab
 
 ```vb
 DoCmd.TransferDatabase acLink, "ODBC Database", _ 
-    "ODBC;DSN=DataSource1;UID=User2;PWD=www;LANGUAGE=us_english;" _ 
-    & "DATABASE=pubs", acTable, "Authors", "dboAuthors"
+    "ODBC;DSN=DataSource1;UID=User2;PWD=www;LANGUAGE=us_english;" & _ 
+    "DATABASE=pubs", acTable, "Authors", "dboAuthors"
 ```
 
+<br/>
+
+The following example imports a list in SharePoint to a table in the current database:
+
+```vb
+DoCmd.TransferDatabase acImport, "WSS", _
+    "WSS;DATABASE=https://company-my.sharepoint.com/personal/username_domain_com/express;" & _
+    "LIST=NameOfListToImport;RetrieveIds=Yes", _
+    acTable, , "NameOfLocalTable", False
+```
+
+<br/>
+
+The following example exports a table in the current database to a list in SharePoint:
+
+```vb
+DoCmd.TransferDatabase acExport, "WSS", _
+    "https://company-my.sharepoint.com/personal/username_domain_com/express", _
+    acTable, "NameOfLocalTable", "NameOfListInSharePoint", False
+```
 
 
 
