@@ -19,7 +19,7 @@ These constants are only available when your project has an explicit reference t
 |Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbTrue**|-1|True|
-|**vbFalse**|;0|False|
+|**vbFalse**|0|False|
 |**vbUseDefault**|-2|Use default setting|
 
 ## See also
