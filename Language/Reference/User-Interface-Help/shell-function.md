@@ -57,7 +57,7 @@ This example uses the **Shell** function to run an application specified by the 
 ' Specifying 1 as the second argument opens the application in 
 ' normal size and gives it the focus.
 Dim RetVal
-RetVal = Shell("C:\WINDOWS\CALC.EXE", 1)    ' Run Calculator.
+RetVal = Shell("C:\WINDOWS\NOTEPAD.EXE", 1)    ' Open Notepad.
 
 ```
 
