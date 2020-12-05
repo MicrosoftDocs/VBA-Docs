@@ -47,7 +47,7 @@ If the **Shell** function successfully executes the named file, it returns the t
 On the Macintosh, **vbNormalFocus**, **vbMinimizedFocus**, and **vbMaximizedFocus** all place the application in the foreground; **vbHide**, **vbNoFocus**, and **vbMinimizeFocus** all place the application in the background.
 
 > [!NOTE] 
-> By default, the **Shell** function runs other programs asynchronously. This means that a program started with **Shell** might not finish executing before the statements following the **Shell** function are executed.
+> By default, the **Shell** function runs other programs asynchronously. This means that a program started with **Shell** might not finish executing before the statements following the **Shell** function are executed. To wait for a program to finish, see [Determine when a shelled process ends](https://docs.microsoft.com/en-us/office/vba/access/concepts/windows-api/determine-when-a-shelled-process-ends).
 
 ## Example
 
