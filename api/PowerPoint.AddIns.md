@@ -30,7 +30,7 @@ For Each ad In AddIns
 Next
 ```
 
-Use the  **[Add](PowerPoint.AddIns.Add.md)** method to add a PowerPoint-specific add-in to the list of those available. The **Add** method adds an add-in to the list but does not load the add-in. To load the add-in, set the [Loaded](PowerPoint.AddIn.Loaded.md)property of the add-in to  **True** after you use the **Add** method. You can perform these two actions in a single step, as shown in the following example (note that you use the name of the add-in, not its title, with the **Add** method).
+Use the  **[Add](PowerPoint.AddIns.Add.md)** method to add a PowerPoint-specific add-in to the list of those available. The **Add** method adds an add-in to the list but does not load the add-in. To load the add-in, set the [Loaded](PowerPoint.AddIn.Loaded.md) property of the add-in to  **True** after you use the **Add** method. You can perform these two actions in a single step, as shown in the following example (note that you use the name of the add-in, not its title, with the **Add** method).
 
 
 
