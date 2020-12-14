@@ -50,7 +50,7 @@ The following example creates a PowerPoint  **Application** object in another ap
 
 
 ```vb
-Set ppt = New Powerpoint.Application
+Set ppt = New PowerPoint.Application
 
 ppt.Visible = True
 
