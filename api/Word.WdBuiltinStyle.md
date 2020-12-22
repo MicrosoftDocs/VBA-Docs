@@ -73,7 +73,7 @@ Specifies a built-in Microsoft Word style.
 | **wdStyleIndex7**|-17|Index 7.|
 | **wdStyleIndex8**|-18|Index 8.|
 | **wdStyleIndex9**|-19|Index 9.|
-| **wdStyleIndexHeading**|-34|Index Heading|
+| **wdStyleIndexHeading**|-34|Index Heading.|
 | **wdStyleIntenseEmphasis**|-262|Intense Emphasis.|
 | **wdStyleIntenseQuote**|-182|Intense Quote.|
 | **wdStyleIntenseReference**|-264|Intense Reference.|
