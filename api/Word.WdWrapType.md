@@ -24,7 +24,7 @@ Specifies how to wrap text around a shape.
 | **wdWrapTight**|1|Wraps text close to the shape.|
 | **wdWrapTopBottom**|4|Places text above and below the shape.|
 | **wdWrapBehind**|5|Places shape behind text.|
-| **wdWrapFront**|6|Places shape in front of text.|
+| **wdWrapFront**|3|Places shape in front of text. See also **wdWrapNone**.|
 
 ## Remarks
 
@@ -32,6 +32,7 @@ Used with the **Type** property of the **WrapFormat** object. You can view what 
 
 
 > [!NOTE] 
->  **wdWrapSquare**, **wdWrapTight**, and **wdWrapThrough** all function in essentially the same way.
+>  **wdWrapSquare**, **wdWrapTight**, and **wdWrapThrough** all function in essentially the same way. \
+>  **wdWrapFront** and **wdWrapNone** have the same effect and have the value 3. The value 6 has the same effect as 3. 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

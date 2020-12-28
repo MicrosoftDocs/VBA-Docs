@@ -25,7 +25,7 @@ Specifies the type of information to remove from a document.
 | **wdRDIDocumentServerProperties**|14|Removes document server properties.|
 | **wdRDIDocumentWorkspace**|10|Removes document workspace information.|
 | **wdRDIEmailHeader**|5|Removes email header information.|
-| **wdRDIInkAnnotTations**|11|Removes ink annotations.|
+| **wdRDIInkAnnotations**|11|Removes ink annotations.|
 | **wdRDIRemovePersonalInformation**|4|Removes personal information.|
 | **wdRDIRevisions**|2|Removes revision marks.|
 | **wdRDIRoutingSlip**|6|Removes routing slip information.|
