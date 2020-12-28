@@ -105,16 +105,18 @@ The syntax of the **CreateProcess** function is complex, so in the example code,
     Loop Until ReturnValue <> 258 
     
     ReturnValue = CloseHandle(proc.hProcess) 
-    End Sub 
-    
-    Sub Testing() 
-    ExecCmd "NOTEPAD.EXE" 
-    MsgBox "Process Finished" 
     End Sub
+    ```
+    
+    <br/>
+    
+3. To test the function, paste the following code in the **Immediate** window and press **Enter**. Notepad starts. After a moment, close Notepad. The message box appears when Notepad closes.
+
+    
+    ```vb
+    ExecCmd "NOTEPAD.EXE": MsgBox "Process Finished" 
     ```
 
     <br/>
-
-3. Type **Testing** in the Immediate window. Notepad starts. After you close Notepad, a message box notifies you that the process has completed.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
