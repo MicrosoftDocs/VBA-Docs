@@ -110,7 +110,8 @@ The syntax of the **CreateProcess** function is complex, so in the example code,
     
     <br/>
     
-3. To test the function, paste the following code in the Immediate window and press Enter. Notepad starts. After a moment, close Notepad. The message box appears only after Notepad closes.
+3. To test the function, paste the following code in the **Immediate** window and press **Enter**. Notepad starts. After a moment, close Notepad. The message box appears when Notepad closes.
+
     
     ```vb
     ExecCmd "NOTEPAD.EXE": MsgBox "Process Finished" 
