@@ -26,7 +26,7 @@ Use  **SlideShowWindows** (_index_), where _index_ is the slide show window inde
 SlideShowWindows(2).Activate
 ```
 
-Use the [Run](PowerPoint.SlideShowSettings.Run.md)method to create a new slide show window and return a reference to this slide show window. The following example runs a slide show of the active presentation and reduces the height of the slide show window just enough so that you can see the taskbar (for monitors with a screen resolution of 800 by 600).
+Use the [Run](PowerPoint.SlideShowSettings.Run.md) method to create a new slide show window and return a reference to this slide show window. The following example runs a slide show of the active presentation and reduces the height of the slide show window just enough so that you can see the taskbar (for monitors with a screen resolution of 800 by 600).
 
 
 
@@ -47,7 +47,7 @@ With ActivePresentation.SlideShowSettings
 End With
 ```
 
-Use the [View](PowerPoint.SlideShowWindow.View.md)property to return the view in the specified slide show window. The following example sets the view in slide show window one to display slide three in the presentation.
+Use the [View](PowerPoint.SlideShowWindow.View.md) property to return the view in the specified slide show window. The following example sets the view in slide show window one to display slide three in the presentation.
 
 
 
@@ -56,7 +56,7 @@ Use the [View](PowerPoint.SlideShowWindow.View.md)property to return the view in
 SlideShowWindows(1).View.GotoSlide 3
 ```
 
-Use the [Presentation](PowerPoint.SlideShowWindow.Presentation.md)property to return the presentation that's currently running in the specified slide show window. The following example displays the name of the presentation that's currently running in slide show window one.
+Use the [Presentation](PowerPoint.SlideShowWindow.Presentation.md) property to return the presentation that's currently running in the specified slide show window. The following example displays the name of the presentation that's currently running in slide show window one.
 
 
 
