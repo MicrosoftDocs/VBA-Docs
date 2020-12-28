@@ -96,4 +96,14 @@ OutOfHere:
 End Function
 ```
 
+<br/>
+
+To test the function, copy some text to the Clipboard. Paste the following code in the Immediate window and press Enter. A message box appears with the text on the Clipboard. 
+
+```vb
+strClip = ClipBoard_GetData: MsgBox strClip
+```
+
+<br/>
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
