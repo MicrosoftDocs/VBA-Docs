@@ -38,7 +38,7 @@ Variant
 
 ## Remarks
 
-If the _Value_ of the variant argument is **Null**, the **Nz** function returns an unassigned **Variant**, the special value **[Empty](../language/glossary/vbe-glossary#empty)**. In VBA, **Empty**evaluates to the number zero or a zero-length string, depending on whether the context indicates that the _Value_ should be a number or a string. For example:
+If the _Value_ of the variant argument is **Null**, the **Nz** function returns an unassigned **Variant**, the special value **[Empty](../language/glossary/vbe-glossary#empty)**. In VBA, **Empty** evaluates to the number zero or a zero-length string, depending on whether the context indicates that the _Value_ should be a number or a string. For example:
 
 ```vb
 Nz(Null) + 2    ' returns 2
@@ -47,7 +47,7 @@ Nz(Null) + "2"  ' returns "2"
 Nz(Null) & "2"  ' returns "2"
 ```
 
-When used in a query expression, however, **Nz** always returns a zero-length string. 
+When used in a query expression, **Nz** will return similar result values. 
 
 If the optional _ValueIfNull_ argument is included, the **Nz** function will return the value specified by that argument if the variant argument is **Null**.
 
