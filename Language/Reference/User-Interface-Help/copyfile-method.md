@@ -62,6 +62,7 @@ Files copied to a new destination path will keep the same file name. To rename t
 
 ```vb
 FileSystemObject.CopyFile "c:\mydocuments\letters\sample.doc", "c:\tempfolder\sample_new.doc"
+```
 
 ## See also
 
