@@ -6,6 +6,7 @@ api_name:
 ms.assetid: b9cd542f-fe2c-4c70-a6a6-4527884760c1
 ms.date: 03/29/2021
 localization_priority: Normal
+description: Presentation.SensitivityLabel property (PowerPoint)
 ---
 
 
