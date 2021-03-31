@@ -25,7 +25,7 @@ _expression_ A variable that represents a **[SensitivityLabelPolicy](Office.Sens
 [SensitivityLabelInitInfo](Office.SensitivityLabelInitInfo.md)
 
 > [!NOTE]
-> Returns an empty SensitivityLabelInitInfo object. The object should be filled by the user.
+> Returns an empty **SensitivityLabelInitInfo** object. The object should be filled by the user.
 
 ## Example
 
