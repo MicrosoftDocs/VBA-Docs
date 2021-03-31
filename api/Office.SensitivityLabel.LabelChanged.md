@@ -21,7 +21,7 @@ _expression_ A variable that represents a **[SensitivityLabel](Office.Sensitivit
 
 ## Remarks
 
-The **LabelChanged** event is raised after the **SetLabel** is called to indicate the success of **LabelInfo** set operation. If the _HResult_ contains value other than _0_, it indicates **LabelInfo** set operation failure. The _context_ if passed during **SetLabel** would be returned here.
+The **LabelChanged** event is raised after the **SetLabel** is called to indicate the success of **LabelInfo** set operation. If the _HResult_ contains value other than _0_, it indicates **LabelInfo** set operation failure. The _context_ if passed during **SetLabel** is returned here.
 
 ## Parameters
 
