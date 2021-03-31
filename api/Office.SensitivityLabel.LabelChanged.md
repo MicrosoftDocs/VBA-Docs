@@ -30,7 +30,7 @@ The **LabelChanged** event is raised after the **SetLabel** is called to indicat
 |_OldLabelInfo_|Required|**LabelInfo**|Previous label information that existed on the document.|
 |_NewLabelInfo_|Required|**LabelInfo**|New label information that was applied on the document. |
 |_HResult_|Required|**Long**|An integer representing the error code.|
-|_Context_|Required|**Object**|The _context_ object that was set with **SetLabe**l call. |
+|_Context_|Required|**Object**|The _context_ object that was set with **SetLabel** call. |
 
 ## Example
 
