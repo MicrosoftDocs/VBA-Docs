@@ -22,7 +22,7 @@ Sensitivity label policy must be initialized before the start of the document ot
 > The organization is identified by using an identity of an Office Account signed into Office.
 
 > [!NOTE]
-> Your organization may need [specific license](https://docs.microsoft.com/en-us/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance) to get access to the sensitivity label policy and related functionality.
+> Your organization may need a [specific license](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance) to get access to the sensitivity label policy and related functionality.
 
 ## Example
 
