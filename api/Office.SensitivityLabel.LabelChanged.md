@@ -6,6 +6,7 @@ api_name:
 ms.assetid: 32c64137-10d0-4a27-941a-4cd87664e5be
 ms.date: 03/29/2021
 localization_priority: Normal
+description: SensitivityLabel.LabelChanged event (Office)
 ---
 
 # SensitivityLabel.LabelChanged event (Office)
