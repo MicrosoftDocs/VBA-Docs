@@ -6,6 +6,7 @@ api_name:
 ms.assetid: 88b8e43d-14ae-4012-84ab-27e978069f79
 ms.date: 03/29/2021
 localization_priority: Normal
+description: Application.SensitivityLabelPolicy property (Excel)
 ---
 
 
