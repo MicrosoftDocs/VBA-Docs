@@ -34,8 +34,8 @@ Documents(1).Activate
 You can use the **[ActiveDocument](Word.Application.ActiveDocument.md)** property to refer to the document with the focus. The following example uses the **[Activate](Word.Document.Activate.md)** method to activate the document named Document 1. The example also sets the page orientation to landscape mode and then prints the document.
 
 ```vb
-Documents("Document1").Activate 
-ActiveDocument.PageSetup.Orientation = wdOrientLandscape 
+Documents("Document1").Activate
+ActiveDocument.PageSetup.Orientation = wdOrientLandscape
 ActiveDocument.PrintOut
 ```
 
@@ -300,6 +300,7 @@ ActiveDocument.PrintOut
 - [SaveSubsetFonts](Word.Document.SaveSubsetFonts.md)
 - [Scripts](Word.Document.Scripts.md)
 - [Sections](Word.Document.Sections.md)
+- [SensitivityLabel](Word.Document.SensitivityLabel.md)
 - [Sentences](Word.Document.Sentences.md)
 - [ServerPolicy](Word.Document.ServerPolicy.md)
 - [Shapes](Word.Document.Shapes.md)
