@@ -14,7 +14,7 @@ description: SensitivityLabelPolicy.CompleteInitialize method (Office)
 Completes the **SensitivityLabelPolicy** initialization sequence.
 
 > [!NOTE]
-> This function should be called after app start but before creating or opening a document.
+> This function should be called after the app starts but before creating or opening a document.
 
 ## Syntax
 
