@@ -24,7 +24,8 @@ The required _number_ [argument](../../Glossary/vbe-glossary.md#argument) is a [
 
 The **Atn** function takes the ratio of two sides of a right triangle (_number_) and returns the corresponding angle in radians. The ratio is the length of the side opposite the angle divided by the length of the side adjacent to the angle.
 
-Note this is the equivalent of the **ATAN()** function in Excel. Oddly, **Excel.WorksheetFunctions.ATAN()** does not exist (as with other Excel formula functions). You can instead use this VBA **Atn()** function.
+> [NOTE!] 
+> This is the equivalent of the **ATAN()** function in Excel. Oddly, **Excel.WorksheetFunctions.ATAN()** does not exist (as with other Excel formula functions). You can instead use this VBA **Atn()** function.
 
 The range of the result is **-**[pi](../../Glossary/vbe-glossary.md#pi)/2 to pi/2 radians. To convert degrees to radians, multiply degrees by pi/180. To convert radians to degrees, multiply radians by 180/pi.
 
