@@ -15,7 +15,7 @@ localization_priority: Normal
 # Form.ChartSpace property (Access)
 
 Returns a **ChartSpace** object. Read-only.
-
+_Obsolete : This property uses obsolete Office Web Components and hence will no longer work.
 
 ## Syntax
 
