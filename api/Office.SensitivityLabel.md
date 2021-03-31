@@ -15,7 +15,7 @@ Represents a wrapper object for accessing sensitivity label on the active docume
 
 ## Remarks
 
-SensitivityLabel applied on a document requires the use of policy defined by organization administrator. The organization is identified by using an identity of an Office Account signed into Office.
+**SensitivityLabel** applied on a document requires the use of policy defined by organization administrator. The organization is identified by using an identity of an Office Account signed into Office.
 
 > [!NOTE]
 > Your organization may need [specific license](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance) to get access to the sensitivity label related functionality.
