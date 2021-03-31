@@ -25,7 +25,7 @@ _expression_ A variable that represents a **[SensitivityLabel](Office.Sensitivit
 [LabelInfo](Office.LabelInfo.md)
 
 > [!NOTE]
-> Returns an empty LabelInfo object. The object should be filled by the user.
+> Returns an empty **LabelInfo** object. The object should be filled by the user.
 
 ## Example
 
