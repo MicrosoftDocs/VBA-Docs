@@ -4,6 +4,7 @@ ms.assetid: 06d5db69-348c-4705-8c87-db4cc65710d0
 ms.date: 03/29/2021
 ms.prod: office
 localization_priority: Normal
+description: MsoAssignmentMethod enumeration (Office)
 ---
 
 
