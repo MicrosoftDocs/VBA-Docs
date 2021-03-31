@@ -6,6 +6,7 @@ api_name:
 ms.assetid: 45009ace-eaad-4366-9a38-af49a026d05f
 ms.date: 03/29/2021
 localization_priority: Normal
+description: SensitivityLabelPolicy.BeginInitialize method (Office)
 ---
 
 # SensitivityLabelPolicy.BeginInitialize method (Office)
