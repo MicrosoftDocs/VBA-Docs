@@ -6,6 +6,7 @@ api_name:
 ms.assetid: 99e55f38-0884-4458-8c9d-a12fadd7a52d
 ms.date: 03/29/2021
 localization_priority: Normal
+description: LabelInfo object (Office)
 ---
 
 # LabelInfo object (Office)
