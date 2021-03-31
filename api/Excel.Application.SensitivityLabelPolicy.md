@@ -12,7 +12,7 @@ description: Application.SensitivityLabelPolicy property (Excel)
 
 # Application.SensitivityLabelPolicy property (Excel)
 
-Returns the SensitivityLabelPolicy for the **Application** object.
+Returns the sensitivity label policy for the **Application** object.
 
 
 ## Syntax
