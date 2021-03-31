@@ -11,7 +11,7 @@ description: SensitivityLabelInitInfo.UserId property (Office)
 
 # SensitivityLabelInitInfo.UserId property (Office)
 
-Use the UserId property to set the string representing the **[UPN](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/plan-connect-userprincipalname#what-is-userprincipalname)** of the identity of an Office Account signed into Office.
+Use the **UserId** property to set the string representing the **[UPN](https://docs.microsoft.com/azure/active-directory/hybrid/plan-connect-userprincipalname#what-is-userprincipalname)** of the identity of an Office Account signed into Office.
 
 ## Syntax
 
