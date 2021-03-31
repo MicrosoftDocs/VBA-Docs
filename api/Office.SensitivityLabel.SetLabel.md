@@ -6,6 +6,7 @@ api_name:
 ms.assetid: 836356a3-e9c4-46c6-a4c3-03f338ac343b
 ms.date: 03/29/2021
 localization_priority: Normal
+description: SensitivityLabel.SetLabel method (Office)
 ---
 
 # SensitivityLabel.SetLabel method (Office)
