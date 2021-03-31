@@ -4,6 +4,7 @@ ms.prod: office
 ms.assetid: fd235001-495f-40cb-859b-53fce06fff9d
 ms.date: 03/29/2021
 localization_priority: Normal
+description: SensitivityLabel members (Office)
 ---
 
 # SensitivityLabel members (Office)
