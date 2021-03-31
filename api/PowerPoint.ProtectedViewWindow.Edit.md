@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ProtectedViewWindow.Edit method (PowerPoint)
 
-Provides the password of the  **ProtectedViewWindow** object to make editing possible.
+Provides the password of the **ProtectedViewWindow** object to make editing possible.
 
 
 ## Syntax
