@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # MsoAssignmentMethod enumeration (Office)
 
-Indicates the AssignmentMethod in a **LabelInfo** object.
+Indicates the assignment method in a **LabelInfo** object.
 
 <br/>
 
