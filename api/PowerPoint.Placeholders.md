@@ -21,7 +21,7 @@ A collection of all the  **Shape** objects that represent placeholders on the sp
 
  Each **Shape** object in the **Placeholders** collection represents a placeholder for text, a chart, a table, an organizational chart, or some other type of object. If the slide has a title, the title is the first placeholder in the collection.
 
-You can delete individual placeholders by using the [Delete](PowerPoint.ShapeNodes.Delete.md)method, and you can restore deleted placeholders by using the [AddPlaceholder](PowerPoint.Shapes.AddPlaceholder.md) method, but you cannot add any more placeholders to a slide than it had when it was created. To change the number of placeholders on a given slide, set the [Layout](PowerPoint.Slide.Layout.md)property.
+You can delete individual placeholders by using the [Delete](PowerPoint.ShapeNodes.Delete.md)method, and you can restore deleted placeholders by using the [AddPlaceholder](PowerPoint.Shapes.AddPlaceholder.md) method, but you cannot add any more placeholders to a slide than it had when it was created. To change the number of placeholders on a given slide, set the [Layout](PowerPoint.Slide.Layout.md) property.
 
 
 ## Example
