@@ -10,7 +10,7 @@ localization_priority: Normal
 
 Represents the label information data object.
 
-Following properties define the LabelInfo object. For more information about the concepts of Label metadata read [Concepts - Label metadata in the MIP SDK | Microsoft Docs](https://docs.microsoft.com/en-us/information-protection/develop/concept-mip-metadata).
+The following properties define the **LabelInfo** object. For more information about the concepts of Label metadata, read Label metadata in the MIP SDK](https://docs.microsoft.com/information-protection/develop/concept-mip-metadata) in the Microsoft Information Protection SDK.
 
 ## Properties
 
