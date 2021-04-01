@@ -9,6 +9,7 @@ api_name:
 ms.assetid: 978c2b99-4271-b953-4283-73b5f3d96f41
 ms.date: 06/08/2017
 localization_priority: Normal
+description: Application object (PowerPoint)
 ---
 
 

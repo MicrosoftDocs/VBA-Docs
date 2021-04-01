@@ -6,6 +6,7 @@ api_name:
 ms.assetid: 73766802-a723-4a47-8a5b-0b7d0ee8e7e8
 ms.date: 03/29/2021
 localization_priority: Normal
+description: SensitivityLabelInitInfo.Creator property (Office)
 ---
 
 

@@ -6,7 +6,7 @@ api_name:
 ms.assetid: 2a802806-4ff5-4818-80e1-d58fff22aa59
 ms.date: 03/29/2021
 localization_priority: Normal
-Application.SensitivityLabelPolicy property (PowerPoint)
+description: Application.SensitivityLabelPolicy property (PowerPoint)
 ---
 
 
