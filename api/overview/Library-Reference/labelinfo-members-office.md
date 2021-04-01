@@ -11,7 +11,7 @@ description: LabelInfo members (Office)
 
 Represents the label information data object.
 
-The following properties define the **LabelInfo** object. For more information about the concepts of Label metadata, read Label metadata in the MIP SDK](https://docs.microsoft.com/information-protection/develop/concept-mip-metadata) in the Microsoft Information Protection SDK.
+The following properties define the **LabelInfo** object. For more information about the concepts of Label metadata, read [Concepts -Label metadata in the MIP SDK](https://docs.microsoft.com/information-protection/develop/concept-mip-metadata) in the Microsoft Information Protection SDK.
 
 ## Properties
 
