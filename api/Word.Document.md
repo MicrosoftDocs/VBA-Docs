@@ -9,6 +9,7 @@ api_name:
 ms.assetid: 8d83487a-2345-a036-a916-971c9db5b7fb
 ms.date: 05/23/2019
 localization_priority: Normal
+description: Document object (Word) 
 ---
 
 

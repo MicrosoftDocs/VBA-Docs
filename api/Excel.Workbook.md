@@ -9,6 +9,7 @@ api_name:
 ms.assetid: 8c00aa60-c974-eed3-0812-3c9625eb0d4c
 ms.date: 05/15/2019
 localization_priority: Normal
+description: Workbook object (Excel)
 ---
 
 
