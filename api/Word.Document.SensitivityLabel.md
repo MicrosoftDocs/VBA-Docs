@@ -24,7 +24,7 @@ _expression_ A variable that represents a **[Document](Word.Document.md)** objec
 
 ## Return value
 
-[SensitivityLabel](office.SensitivityLabel.md)
+[SensitivityLabel](Office.SensitivityLabel.md)
 
 ## See also
 
