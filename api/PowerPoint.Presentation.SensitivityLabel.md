@@ -24,7 +24,7 @@ _expression_.**SensitivityLabel**
 
 ## Return value
 
-[SensitivityLabel](office.SensitivityLabel.md)
+[SensitivityLabel](Office.SensitivityLabel.md)
 
 ## See also
 
