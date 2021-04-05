@@ -7,14 +7,14 @@
 #### ActiveX Data Objects (ADO)
 ##### ADO for Visual C++ syntax index for COM
 ###### [Overview](../access/concepts/miscellaneous/ado-for-visual-c-plus-plus-syntax-index-for-com.md)
-###### [Collections](../access/concepts/miscellaneous/collections-ado-for-visual-c-plus-plus-syntax.md) 
-###### [Command](../access/concepts/miscellaneous/command-ado-for-visual-c-plus-plus-syntax.md) 
-###### [Connection](../access/concepts/miscellaneous/connection-ado-for-visual-c-plus-plus-syntax.md) 
+###### [Collections](../access/concepts/miscellaneous/collections-ado-for-visual-c-plus-plus-syntax.md)
+###### [Command](../access/concepts/miscellaneous/command-ado-for-visual-c-plus-plus-syntax.md)
+###### [Connection](../access/concepts/miscellaneous/connection-ado-for-visual-c-plus-plus-syntax.md)
 ###### [Field](../access/concepts/miscellaneous/field-ado-for-visual-c-plus-plus-syntax.md)
-###### [Error](../access/concepts/miscellaneous/error-ado-for-visual-c-plus-plus-syntax.md) 
-###### [Parameter](../access/concepts/miscellaneous/parameter-ado-for-visual-c-plus-plus-syntax.md) 
-###### [Record](../access/concepts/miscellaneous/record-ado-for-visual-c-plus-plus-syntax.md) 
-###### [Recordset](../access/concepts/miscellaneous/recordset-ado-for-visual-c-plus-plus-syntax.md) 
+###### [Error](../access/concepts/miscellaneous/error-ado-for-visual-c-plus-plus-syntax.md)
+###### [Parameter](../access/concepts/miscellaneous/parameter-ado-for-visual-c-plus-plus-syntax.md)
+###### [Record](../access/concepts/miscellaneous/record-ado-for-visual-c-plus-plus-syntax.md)
+###### [Recordset](../access/concepts/miscellaneous/recordset-ado-for-visual-c-plus-plus-syntax.md)
 ###### [Stream](../access/concepts/miscellaneous/stream-ado-for-visual-c-plus-plus-syntax.md)
 ##### ADO for Visual C++ syntax index with import
 ###### [Overview](../access/concepts/miscellaneous/ado-for-visual-c-plus-plus-syntax-index-with-import.md)
@@ -4627,6 +4627,7 @@
 ###### [RTD](Excel.Application.RTD.md)
 ###### [ScreenUpdating](Excel.Application.ScreenUpdating.md)
 ###### [Selection](Excel.Application.Selection.md)
+###### [SensitivityLabelPolicy](Excel.Application.SensitivityLabelPolicy.md)
 ###### [Sheets](Excel.Application.Sheets.md)
 ###### [SheetsInNewWorkbook](Excel.Application.SheetsInNewWorkbook.md)
 ###### [ShowChartTipNames](Excel.Application.ShowChartTipNames.md)
@@ -9471,6 +9472,7 @@
 ###### [RevisionNumber](Excel.Workbook.RevisionNumber.md)
 ###### [Saved](Excel.Workbook.Saved.md)
 ###### [SaveLinkValues](Excel.Workbook.SaveLinkValues.md)
+###### [SensitivityLabel](Excel.Workbook.SensitivityLabel.md)
 ###### [ServerPolicy](Excel.Workbook.ServerPolicy.md)
 ###### [ServerViewableItems](Excel.Workbook.ServerViewableItems.md)
 ###### [SharedWorkspace](Excel.Workbook.SharedWorkspace.md)
@@ -10778,9 +10780,9 @@
 ### [Request access to multiple files](../Office-Mac/GrantAccessToMultipleFiles.md)
 ### [Run an AppleScript with VB](../Office-Mac/AppleScriptTask.md)
 ### [Differentiate between Office for Mac versions at compile time](../Office-Mac/MacOfficeVersion.md)
-### [idMSOs supported in Excel for Mac](../Office-Mac/idMSOExcelMac.md) 
-### [idMSOs supported in PowerPoint for Mac](../Office-Mac/idMSOPowerPointMac.md) 
-### [idMSOs supported in Word for Mac](../Office-Mac/idMSOWordMac.md) 
+### [idMSOs supported in Excel for Mac](../Office-Mac/idMSOExcelMac.md)
+### [idMSOs supported in PowerPoint for Mac](../Office-Mac/idMSOPowerPointMac.md)
+### [idMSOs supported in Word for Mac](../Office-Mac/idMSOWordMac.md)
 ## Outlook
 ### [Overview](overview/Outlook.md)
 ### Concepts
@@ -16255,6 +16257,7 @@
 ###### [Presentations](PowerPoint.Application.Presentations.md)
 ###### [ProductCode](PowerPoint.Application.ProductCode.md)
 ###### [ProtectedViewWindows](PowerPoint.Application.ProtectedViewWindows.md)
+###### [SensitivityLabelPolicy](PowerPoint.Application.SensitivityLabelPolicy.md)
 ###### [ShowStartupDialog](PowerPoint.Application.ShowStartupDialog.md)
 ###### [ShowWindowsInTaskbar](PowerPoint.Application.ShowWindowsInTaskbar.md)
 ###### [SlideShowWindows](PowerPoint.Application.SlideShowWindows.md)
@@ -17819,6 +17822,7 @@
 ###### [Research](PowerPoint.Presentation.Research.md)
 ###### [Saved](PowerPoint.Presentation.Saved.md)
 ###### [SectionProperties](PowerPoint.Presentation.SectionProperties.md)
+###### [SensitivityLabel](PowerPoint.Presentation.SensitivityLabel.md)
 ###### [ServerPolicy](PowerPoint.Presentation.ServerPolicy.md)
 ###### [SharedWorkspace](PowerPoint.Presentation.SharedWorkspace.md)
 ###### [Signatures](PowerPoint.Presentation.Signatures.md)
@@ -27897,6 +27901,7 @@
 ###### [RestrictLinkedStyles](Word.Application.RestrictLinkedStyles.md)
 ###### [ScreenUpdating](Word.Application.ScreenUpdating.md)
 ###### [Selection](Word.Application.Selection.md)
+###### [SensitivityLabelPolicy](Word.Application.SensitivityLabelPolicy.md)
 ###### [ShowAnimation](Word.application.showanimation.md)
 ###### [ShowStartupDialog](Word.Application.ShowStartupDialog.md)
 ###### [ShowStylePreviews](Word.Application.ShowStylePreviews.md)
@@ -29427,6 +29432,7 @@
 ###### [SaveSubsetFonts](Word.Document.SaveSubsetFonts.md)
 ###### [Scripts](Word.Document.Scripts.md)
 ###### [Sections](Word.Document.Sections.md)
+###### [SensitivityLabel](Word.Document.SensitivityLabel.md)
 ###### [Sentences](Word.Document.Sentences.md)
 ###### [ServerPolicy](Word.Document.ServerPolicy.md)
 ###### [Shapes](Word.Document.Shapes.md)
@@ -34552,7 +34558,7 @@
 ##### [Overview](../Language/Reference/User-Interface-Help/concepts-microsoft-forms.md)
 ##### [Active controls and selected controls](../Language/Concepts/Forms/active-controls-and-selected-controls.md)
 ##### [Add a control to a form](../Language/Concepts/Forms/add-a-control-to-a-form.md)
-##### [Add a control to the Toolbox](../Language/Concepts/Forms/add-a-control-to-the-toolbox.md) 
+##### [Add a control to the Toolbox](../Language/Concepts/Forms/add-a-control-to-the-toolbox.md)
 ##### [Add a customized control to the Toolbox](../Language/Concepts/Forms/add-a-customized-control-to-the-toolbox.md)
 ##### [Add items to a list using the list or column property](../Language/Reference/User-Interface-Help/add-items-to-a-list-using-the-list-or-column-property.md)
 ##### [Adjust horizontal and vertical spacing between controls](../Language/Concepts/Forms/adjust-horizontal-and-vertical-spacing-between-controls.md)
@@ -34569,7 +34575,7 @@
 ##### [Assign an accelerator key](../Language/Concepts/Forms/assign-an-accelerator-key.md)
 ##### [Break up a control group](../Language/Concepts/Forms/break-up-a-control-group.md)
 ##### [ByVal references in Microsoft Forms](../Language/Concepts/Forms/byval-references-in-microsoft-forms.md)
-##### [Center controls in a form](../Language/Concepts/Forms/center-controls-in-a-form.md) 
+##### [Center controls in a form](../Language/Concepts/Forms/center-controls-in-a-form.md)
 ##### [Change the appearance of a control](../Language/Concepts/Forms/ways-to-change-the-appearance-of-a-control.md)
 ##### [Change the location of the form](../Language/Concepts/Forms/change-the-location-of-the-form.md)
 ##### [Change the name of a Toolbox page](../Language/Concepts/Forms/change-the-name-of-a-toolbox-page.md)
@@ -34589,8 +34595,8 @@
 ##### [Customize a Toolbox icon](../Language/Concepts/Forms/customize-a-toolbox-icon.md)
 ##### [Customize a ToolTip in the Toolbox](../Language/Concepts/Forms/customize-a-tooltip-in-the-toolbox.md)
 ##### [Delete a bitmap from a control](../Language/Concepts/Forms/delete-a-bitmap-from-a-control.md)
-##### [Delete a Toolbox page](../Language/Concepts/Forms/delete-a-toolbox-page.md) 
-##### [Delete an item from the Toolbox](../Language/Concepts/Forms/delete-an-item-from-the-toolbox.md) 
+##### [Delete a Toolbox page](../Language/Concepts/Forms/delete-a-toolbox-page.md)
+##### [Delete an item from the Toolbox](../Language/Concepts/Forms/delete-an-item-from-the-toolbox.md)
 ##### [Display a group's shortcut menu](../Language/Concepts/Forms/display-a-group-s-shortcut-menu.md)
 ##### [Display or hide the Toolbox](../Language/Concepts/Forms/display-or-hide-the-toolbox.md)
 ##### [Display the shortcut menu for a MultiPage or Page](../Language/Concepts/Forms/display-the-shortcut-menu-for-a-multipage-or-page.md)
@@ -34600,7 +34606,7 @@
 ##### [Make a control that automatically adjusts to the size of its data](../Language/Concepts/Forms/make-a-control-that-automatically-adjusts-to-the-size-of-its-data.md)
 ##### [Make controls the same size](../Language/Concepts/Forms/make-controls-the-same-size.md)
 ##### [Match entries in a list](../Language/Concepts/Forms/ways-to-match-entries-in-a-list.md)
-##### [Move an item to another Toolbox page](../Language/Concepts/Forms/move-an-item-to-another-toolbox-page.md) 
+##### [Move an item to another Toolbox page](../Language/Concepts/Forms/move-an-item-to-another-toolbox-page.md)
 ##### [Protect sensitive information](../Language/Concepts/Forms/ways-to-protect-sensitive-information.md)
 ##### [Put data in a list box or combo box](../Language/Concepts/Forms/ways-to-put-data-in-a-listbox-or-combobox.md)
 ##### [Select a control within a group](../Language/Concepts/Forms/select-a-control-within-a-group.md)
@@ -34629,7 +34635,7 @@
 ##### [What is a shortcut menu?](../Language/Concepts/Forms/what-is-a-shortcut-menu.md)
 ##### [What is a TabStrip?](../Language/Concepts/Forms/what-is-a-tabstrip.md)
 ##### [What is a ToolTip?](../Language/Concepts/Forms/what-is-a-tooltip.md)
-##### [What is the difference between the DataObject and the Clipboard?](../Language/Concepts/Forms/what-is-the-difference-between-the-dataobject-and-the-clipboard.md) 
+##### [What is the difference between the DataObject and the Clipboard?](../Language/Concepts/Forms/what-is-the-difference-between-the-dataobject-and-the-clipboard.md)
 ##### [What is the Toolbox?](../Language/Concepts/Forms/what-is-the-toolbox.md)
 ### How-to topics
 #### [Overview](../Language/Reference/User-Interface-Help/visual-basic-how-to-topics.md)
@@ -36053,7 +36059,7 @@
 #### [Overview](overview/Library-Reference/reference-object-library-reference-for-office.md)
 #### [BulletFormat2 object](Office.BulletFormat2.md)
 ##### [BulletFormat2 members](overview/Library-Reference/bulletformat2-members-office.md)
-##### Properties 
+##### Properties
 ###### [Application](Office.BulletFormat2.Application.md)
 ###### [Character](Office.BulletFormat2.Character.md)
 ###### [Creator](Office.BulletFormat2.Creator.md)
@@ -36071,7 +36077,7 @@
 ###### [Picture](Office.BulletFormat2.Picture.md)
 #### [COMAddIn object](Office.COMAddIn.md)
 ##### [COMAddIn members](overview/Library-Reference/comaddin-members-office.md)
-##### Properties 
+##### Properties
 ###### [Application](Office.COMAddIn.Application.md)
 ###### [Connect](Office.COMAddIn.Connect.md)
 ###### [Creator](Office.COMAddIn.Creator.md)
@@ -36082,7 +36088,7 @@
 ###### [ProgId](Office.COMAddIn.ProgId.md)
 #### [COMAddIns object](Office.COMAddIns.md)
 ##### [COMAddIns members](overview/Library-Reference/comaddins-members-office.md)
-##### Properties 
+##### Properties
 ###### [Application](Office.COMAddIns.Application.md)
 ###### [Count](Office.COMAddIns.Count.md)
 ###### [Creator](Office.COMAddIns.Creator.md)
@@ -36092,7 +36098,7 @@
 ###### [Update](Office.COMAddIns.Update.md)
 #### [CommandBar object](Office.CommandBar.md)
 ##### [CommandBar members](overview/Library-Reference/commandbar-members-office.md)
-##### Properties 
+##### Properties
 ###### [AdaptiveMenu](Office.CommandBar.AdaptiveMenu.md)
 ###### [Application](Office.CommandBar.Application.md)
 ###### [BuiltIn](Office.CommandBar.BuiltIn.md)
@@ -36120,7 +36126,7 @@
 ###### [ShowPopup](Office.CommandBar.ShowPopup.md)
 #### [CommandBarButton object](Office.CommandBarButton.md)
 ##### [CommandBarButton members](overview/Library-Reference/commandbarbutton-members-office.md)
-##### Properties 
+##### Properties
 ###### [Application](Office.CommandBarButton.Application.md)
 ###### [BeginGroup](Office.CommandBarButton.BeginGroup.md)
 ###### [BuiltIn](Office.CommandBarButton.BuiltIn.md)
@@ -36167,7 +36173,7 @@
 ###### [Click](Office.CommandBarButton.Click.md)
 #### [CommandBarComboBox object](Office.CommandBarComboBox.md)
 ##### [CommandBarComboBox members](overview/Library-Reference/commandbarcombobox-members-office.md)
-##### Properties 
+##### Properties
 ###### [Application](Office.CommandBarComboBox.Application.md)
 ###### [BeginGroup](Office.CommandBarComboBox.BeginGroup.md)
 ###### [BuiltIn](Office.CommandBarComboBox.BuiltIn.md)
@@ -36813,6 +36819,8 @@
 ###### [Invalidate](Office.IRibbonUI.Invalidate.md)
 ###### [InvalidateControl](Office.IRibbonUI.InvalidateControl.md)
 ###### [InvalidateControlMso](Office.IRibbonUI.InvalidateControlMso.md)
+#### [LabelInfo object](Office.LabelInfo.md)
+##### [LabelInfo members](overview/Library-Reference/labelinfo-members-office.md)
 #### [LanguageSettings object](Office.LanguageSettings.md)
 ##### [LanguageSettings members](overview/Library-Reference/Languagesettings-members-office.md)
 ##### Properties
@@ -37146,6 +37154,34 @@
 ###### [Count](Office.SearchScopes.Count.md)
 ###### [Creator](Office.SearchScopes.Creator.md)
 ###### [Item](Office.SearchScopes.Item.md)
+#### [SensitivityLabel object](Office.SensitivityLabel.md)
+##### [SensitivityLabel members](overview/Library-Reference/sensitivitylabel-members-office.md)
+##### Events
+###### [LabelChanged](Office.SensitivityLabel.LabelChanged.md)
+##### Methods
+###### [CreateLabelInfo](Office.SensitivityLabel.CreateLabelInfo.md)
+###### [GetLabel](Office.SensitivityLabel.GetLabel.md)
+###### [SetLabel](Office.SensitivityLabel.SetLabel.md)
+##### Properties
+###### [Application](Office.SensitivityLabel.Application.md)
+###### [Creator](Office.SensitivityLabel.Creator.md)
+###### [Parent](Office.SensitivityLabel.Parent.md)
+#### [SensitivityLabelInitInfo object]Office.SensitivityLabelInitInfo.md)
+##### [SensitivityLabelInitInfo members](overview/Library-Reference/sensitivitylabelinitinfo-members-office.md)
+##### Properties
+###### [Application](Office.SensitivityLabelInitInfo.Application.md)
+###### [Creator](Office.SensitivityLabelInitInfo.Creator.md)
+###### [SensitivityLabelsPolicyXml](Office.SensitivityLabelInitInfo.SensitivityLabelsPolicyXml.md)
+###### [UserId](Office.SensitivityLabelInitInfo.UserId.md)
+#### [SensitivityLabelPolicy object]Office.SensitivityLabelPolicy.md)
+##### [SensitivityLabelPolicy members](overview/Library-Reference/sensitivitylabelpolicy-members-office.md)
+##### Methods
+###### [BeginInitialize](Office.SensitivityLabelPolicy.BeginInitialize.md)
+###### [CompleteInitialize](Office.SensitivityLabelPolicy.CompleteInitialize.md)
+###### [CreateSensitivityLabelInitInfo](Office.SensitivityLabelPolicy.CreateSensitivityLabelInitInfo.md)
+##### Properties
+###### [Application](Office.SensitivityLabelPolicy.Application.md)
+###### [Creator](Office.SensitivityLabelPolicy.Creator.md)
 #### [ServerPolicy object](Office.ServerPolicy.md)
 ##### [ServerPolicy members](overview/Library-Reference/serverpolicy-members-office.md)
 ##### Properties
@@ -37764,6 +37800,7 @@
 ##### [MsoArrowheadLength](Office.MsoArrowheadLength.md)
 ##### [MsoArrowheadStyle](Office.MsoArrowheadStyle.md)
 ##### [MsoArrowheadWidth](Office.MsoArrowheadWidth.md)
+##### [MsoAssignmentMethod](overview/Library-Reference/msoassignmentmethod-enumeration-office.md)
 ##### [MsoAutomationSecurity](Office.MsoAutomationSecurity.md)
 ##### [MsoAutoShapeType](Office.MsoAutoShapeType.md)
 ##### [MsoAutoSize](Office.MsoAutoSize.md)
