@@ -37166,14 +37166,14 @@
 ###### [Application](Office.SensitivityLabel.Application.md)
 ###### [Creator](Office.SensitivityLabel.Creator.md)
 ###### [Parent](Office.SensitivityLabel.Parent.md)
-#### [SensitivityLabelInitInfo object]Office.SensitivityLabelInitInfo.md)
+#### [SensitivityLabelInitInfo object](Office.SensitivityLabelInitInfo.md)
 ##### [SensitivityLabelInitInfo members](overview/Library-Reference/sensitivitylabelinitinfo-members-office.md)
 ##### Properties
 ###### [Application](Office.SensitivityLabelInitInfo.Application.md)
 ###### [Creator](Office.SensitivityLabelInitInfo.Creator.md)
 ###### [SensitivityLabelsPolicyXml](Office.SensitivityLabelInitInfo.SensitivityLabelsPolicyXml.md)
 ###### [UserId](Office.SensitivityLabelInitInfo.UserId.md)
-#### [SensitivityLabelPolicy object]Office.SensitivityLabelPolicy.md)
+#### [SensitivityLabelPolicy object](Office.SensitivityLabelPolicy.md)
 ##### [SensitivityLabelPolicy members](overview/Library-Reference/sensitivitylabelpolicy-members-office.md)
 ##### Methods
 ###### [BeginInitialize](Office.SensitivityLabelPolicy.BeginInitialize.md)
