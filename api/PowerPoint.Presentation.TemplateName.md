@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Presentation.TemplateName property (PowerPoint)
 
-Returns the name of the design template associated with the specified presentation. Read-only.
+Returns the name of the first design/master associated with the specified presentation. Read-only.
 
 
 ## Syntax
@@ -31,19 +31,19 @@ String
 
 ## Remarks
 
-The returned string includes the MS-DOS file name extension (for file types that are registered) but doesn't include the full path.
+For pre-Office XML formats e.g. pot/ppt, the returned string previously returned the name of the template on which the presentation was created from, including the MS-DOS file name extension (for file types that are registered) but didn't include the full path. In the new XML formats e.g. potx/pptx, it now returns the name of the first design/master.
 
 
 ## Example
 
-The following example applies the design template Professional.pot to the presentation Pres1.ppt if it is not already applied to it.
+The following example applies the design template Professional.potx to the presentation Pres1.pptx if it is not already applied to it.
 
 
 ```vb
-With Presentations("Pres1.ppt")
-    If .TemplateName <> "Professional.pot" Then
+With Presentations("Pres1.pptx")
+    If .TemplateName <> "Professional" Then
         .ApplyTemplate "c:\program files\microsoft office" & _
-            "\templates\presentation designs\Professional.pot"
+            "\templates\presentation designs\Professional.potx"
     End If
 End With
 ```
