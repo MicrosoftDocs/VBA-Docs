@@ -9,7 +9,6 @@ api_name:
 ms.assetid: d1cf6f8f-4e88-bf01-93b4-90a83f79cb44
 ms.date: 06/08/2017
 localization_priority: Normal
-description: Application object (Word)
 ---
 
 
@@ -37,9 +36,9 @@ To use Automation (formerly OLE Automation) to control Word from another applica
 
 
 ```vb
-Set wrd = GetObject(, "Word.Application")
-wrd.Visible = True
-wrd.Documents.Open "C:\My Documents\Temp.doc"
+Set wrd = GetObject(, "Word.Application") 
+wrd.Visible = True 
+wrd.Documents.Open "C:\My Documents\Temp.doc" 
 Set wrd = Nothing
 ```
 
@@ -239,7 +238,6 @@ Set wrd = Nothing
 - [RestrictLinkedStyles](Word.Application.RestrictLinkedStyles.md)
 - [ScreenUpdating](Word.Application.ScreenUpdating.md)
 - [Selection](Word.Application.Selection.md)
-- [SensitivityLabelPolicy](Word.Application.SensitivityLabelPolicy.md)
 - [ShowAnimation](Word.application.showanimation.md)
 - [ShowStartupDialog](Word.Application.ShowStartupDialog.md)
 - [ShowStylePreviews](Word.Application.ShowStylePreviews.md)

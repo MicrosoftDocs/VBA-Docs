@@ -53,7 +53,7 @@ Dim strSingleString2 As String
 Dim strSingleString3 As String
 Dim i As Long
 
-strFull = "Dow - Fonseca - Graham - Kopke - Noval - Offley - Sandeman - Taylor - Warre"    ' String that will be used. 
+strFull = "Some - Old - Hags - Can - Always - Hide - Their - Old - Age"    ' String that will be used. 
 
 arrSplitStrings1 = Split(strFull, "-")      ' arrSplitStrings1 will be an array from 0 To 8. 
                                             ' arrSplitStrings1(0) = "Some " and arrSplitStrings1(1) = " Old ". 
