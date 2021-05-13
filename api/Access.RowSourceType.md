@@ -63,32 +63,26 @@ The following user-defined function returns a list of the next four Mondays foll
 
 
 ```vb
-Public Function ListMondays(fld As Control, id As Variant, _
-    row As Variant, col As Variant, code As Variant) _ 
-    As Variant 
-
-    Dim Offset      As Integer
-    Dim WeekdayDate As Date 
- 
-    Select Case code 
-        Case acLBInitialize     ' Initialize. 
-            ListMondays = True 
-        Case acLBOpen           ' Open. 
-            ListMondays = Timer ' Unique ID. 
-        Case acLBGetRowCount    ' Get rows. 
-            ListMondays = 4 
-        Case acLBGetColumnCount ' Get columns. 
-            ListMondays = 1 
-        Case acLBGetColumnWidth ' Get column width. 
-            ListMondays = -1    ' Use default width. 
-        Case acLBGetValue       ' Get the data. 
-            Offset = Abs((9 - Weekday(Date)) Mod 7) 
-            WeekdayDate = DateAdd("d", _
-                Offset + 7 * row, Date) 
-            ListMondays = Format(WeekdayDate, _
-                "mmmm d") 
-    End Select 
-
+Function ListMondays(fld As Control,id As Variant, _ 
+ row As Variant,col As Variant,code As Variant) _ 
+ As Variant 
+ Dim intOffset As Integer 
+ Select Case code 
+ Case acLBInitialize ' Initialize. 
+ ListMondays = True 
+ Case acLBOpen ' Open. 
+ ListMondays = Timer ' Unique ID. 
+ Case acLBGetRowCount ' Get rows. 
+ ListMondays = 4 
+ Case acLBGetColumnCount ' Get columns. 
+ ListMondays = 1 
+ Case acLBGetColumnWidth ' Get column width. 
+ ListMondays = -1 ' Use default width. 
+ Case acLBGetValue ' Get the data. 
+ intOffset = Abs((9 - Weekday(Now))Mod 7) 
+ ListMondays = Format(Now() + _ 
+ intOffset + 7 * row,"mmmm d") 
+ End Select 
 End Function
 ```
 
@@ -97,41 +91,37 @@ End Function
 The next example uses a static array to store the names of the databases in the current directory. To call this function, enter **ListMDBs** as the **RowSourceType** property setting and leave the **RowSource** property setting blank.
 
 ```vb
-Public Function ListMDBs(fld As Control, id As Variant, _ 
-    row As Variant, col As Variant, code As Variant) _
-    As Variant 
-    
-    Static dbs(127) As String
-    Static Entries  As Integer 
-    Dim ReturnVal   As Variant 
-
-    ReturnVal = Null 
-    Select Case code 
-        Case acLBInitialize     ' Initialize. 
-            Entries = 0 
-            dbs(Entries ) = Dir("*.MDB") 
-            Do Until dbs(Entries) = "" Or Entries >= 127 
-                Entries = Entries + 1 
-                dbs(Entries) = Dir 
-            Loop 
-            ReturnVal = Entries 
-        Case acLBOpen           ' Open. 
-            ' Generate unique ID for control. 
-            ReturnVal = Timer 
-        Case acLBGetRowCount    ' Get number of rows. 
-            ReturnVal = Entries 
-        Case acLBGetColumnCount ' Get number of columns. 
-            ReturnVal = 1 
-        Case acLBGetColumnWidth ' Column width. 
-            ' -1 forces use of default width. 
-            ReturnVal = -1 
-        Case acLBGetValue       ' Get data. 
-            ReturnVal = dbs(row) 
-        Case acLBEnd            ' End. 
-            Erase dbs 
-    End Select 
-    ListMDBs = ReturnVal 
-    
+Function ListMDBs(fld As Control, id As Variant, _ 
+ row As Variant, col As Variant, _ 
+ code As Variant) As Variant 
+ Static dbs(127) As String, Entries As Integer 
+ Dim ReturnVal As Variant 
+ ReturnVal = Null 
+ Select Case code 
+ Case acLBInitialize ' Initialize. 
+ Entries = 0 
+ dbs(Entries ) = Dir("*.MDB") 
+ Do Until dbs(Entries) = "" Or Entries >= 127 
+ Entries = Entries+1 
+ dbs(Entries) = Dir 
+ Loop 
+ ReturnVal = Entries 
+ Case acLBOpen ' Open. 
+ ' Generate unique ID for control. 
+ ReturnVal = Timer 
+ Case acLBGetRowCount ' Get number of rows. 
+ ReturnVal = Entries 
+ Case acLBGetColumnCount ' Get number of columns. 
+ ReturnVal = 1 
+ Case acLBGetColumnWidth ' Column width. 
+ ' -1 forces use of default width. 
+ ReturnVal = -1 
+ Case acLBGetValue ' Get data. 
+ ReturnVal = dbs(row) 
+ Case acLBEnd ' End. 
+ Erase dbs 
+ End Select 
+ ListMDBs = ReturnVal 
 End Function
 ```
 

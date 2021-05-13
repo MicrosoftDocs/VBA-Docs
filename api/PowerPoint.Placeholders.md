@@ -21,12 +21,12 @@ A collection of all the  **Shape** objects that represent placeholders on the sp
 
  Each **Shape** object in the **Placeholders** collection represents a placeholder for text, a chart, a table, an organizational chart, or some other type of object. If the slide has a title, the title is the first placeholder in the collection.
 
-You can delete individual placeholders by using the [Delete](PowerPoint.ShapeNodes.Delete.md)method, and you can restore deleted placeholders by using the [AddPlaceholder](PowerPoint.Shapes.AddPlaceholder.md) method, but you cannot add any more placeholders to a slide than it had when it was created. To change the number of placeholders on a given slide, set the [Layout](PowerPoint.Slide.Layout.md) property.
+You can delete individual placeholders by using the [Delete](PowerPoint.ShapeNodes.Delete.md)method, and you can restore deleted placeholders by using the [AddPlaceholder](PowerPoint.Shapes.AddPlaceholder.md)method, but you cannot add any more placeholders to a slide than it had when it was created. To change the number of placeholders on a given slide, set the [Layout](PowerPoint.Slide.Layout.md)property.
 
 
 ## Example
 
-Use the [Placeholders](PowerPoint.Shapes.Placeholders.md) property to return the **Placeholders** collection. Use **Placeholders** (_index_), where _index_ is the placeholder index number, to return a **Shape** object that represents a single placeholder. Note that for any slide that has a title, `Shapes`.Title is equivalent to  `Shapes.Placeholders(1)`. The following example adds a new slide with a bulleted list slide layout to the beginning of the presentation, sets the text for the title, and adds two paragraphs to the text placeholder.
+Use the [Placeholders](PowerPoint.Shapes.Placeholders.md)property to return the  **Placeholders** collection. Use **Placeholders** (_index_), where _index_ is the placeholder index number, to return a **Shape** object that represents a single placeholder. Note that for any slide that has a title, `Shapes`.Title is equivalent to  `Shapes.Placeholders(1)`.The following example adds a new slide with a Bulleted List slide layout to the beginning of the presentation, sets the text for the title, and then adds two paragraphs to the text placeholder.
 
 
 ```vb

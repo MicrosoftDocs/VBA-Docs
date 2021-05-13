@@ -1,6 +1,6 @@
 ---
 title: Presentation object (PowerPoint)
-description: Represents a Microsoft PowerPoint presentation.
+description: Represents a Microsoft PowerPoint presentation. 
 keywords: vbapp10.chm524000
 f1_keywords:
 - vbapp10.chm524000
@@ -15,7 +15,7 @@ localization_priority: Normal
 
 # Presentation object (PowerPoint)
 
-Represents a Microsoft PowerPoint presentation.
+Represents a Microsoft PowerPoint presentation. 
 
 
 ## Remarks
@@ -26,11 +26,11 @@ The following examples describe how to:
 
 
 - Return a presentation that you specify by name or index number
-
+    
 - Return the presentation in the active window
-
+    
 - Return the presentation in any document window or slide show window you specify
-
+    
 
 ## Example
 
@@ -166,7 +166,6 @@ MsgBox SlideShowWindows(1).Presentation.Name
 |[Research](PowerPoint.Presentation.Research.md)|
 |[Saved](PowerPoint.Presentation.Saved.md)|
 |[SectionProperties](PowerPoint.Presentation.SectionProperties.md)|
-|[SensitivityLabel](PowerPoint.Presentation.SensitivityLabel.md)|
 |[ServerPolicy](PowerPoint.Presentation.ServerPolicy.md)|
 |[SharedWorkspace](PowerPoint.Presentation.SharedWorkspace.md)|
 |[Signatures](PowerPoint.Presentation.Signatures.md)|

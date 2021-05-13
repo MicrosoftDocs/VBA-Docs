@@ -28,7 +28,7 @@ _expression_ Required. A variable that represents a **[Styles](Word.styles.md)**
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |_Name_|Required|**String**|The new style name.|
-|_Type_|Optional|**[WdStyleType](word.wdstyletype.md)**|Can be one of the **WdStyleType** constants. The default is paragraph style.|
+|_Type_|Optional|**[WdStyleType](word.wdstyletype.md)**|Can be one of the **WdStyleType** constants.|
 
 ## Return value
 

@@ -126,8 +126,6 @@ Set xlApp = CreateObject("excel.application")
 xlApp.Visible = True
     ' Use xlApp to access Microsoft Excel's 
     ' other objects.
-    ' Closes the application using the Quit method
-xlApp.Quit    
 
 ```
 

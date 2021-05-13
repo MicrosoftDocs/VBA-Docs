@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Support for Custom Property Pages
 
-You can create your own property pages to customize the **Properties** dialog box for all folders.
+You can create your own property pages to customize the **operties** dialog box for all folders.
 
 A custom property page is an ActiveX control stored in a dynamic-link library (DLL) that implements the [PropertyPage](../../../api/Outlook.PropertyPage.md) object and that's installed as a [COM add-in](support-for-com-add-ins.md) . This object provides the interface through which Outlook can query the property page about its status and inform the property page that the user has clicked the **Apply** or **OK** button.
 

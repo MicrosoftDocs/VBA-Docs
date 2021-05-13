@@ -87,18 +87,22 @@ Public Function CreateEmailWithOutlook( _
 
     ' Define app variable and get Outlook using the "New" keyword
     Dim olApp As New Outlook.Application
-    Dim olEmail As Outlook.MailItem  ' An Outlook Mail item
+    Dim olMailItem As Outlook.MailItem  ' An Outlook Mail item
  
     ' Create a new email object
-    Set olEmail = olApp.CreateItem(olMailItem)
+    Set olMailItem = olApp.CreateItem(olMailItem)
 
     ' Add the To/Subject/Body to the message and display the message
-    With olEmail
+    With olMailItem
         .To = MessageTo
         .Subject = Subject
         .Body = MessageBody
         .Display    ' To show the email message to the user
     End With
+
+    ' Release all object variables
+    Set olMailItem = Nothing
+    Set olApp = Nothing
 
 End Function
 ```
@@ -115,18 +119,22 @@ Public Function SendEmailWithOutlook( _
 
     ' Define app variable and get Outlook using the "New" keyword
     Dim olApp As New Outlook.Application
-    Dim olEmail As Outlook.MailItem  ' An Outlook Mail item
+    Dim olMailItem As Outlook.MailItem  ' An Outlook Mail item
  
     ' Create a new email object
-    Set olEmail = olApp.CreateItem(olMailItem)
+    Set olMailItem = olApp.CreateItem(olMailItem)
 
     ' Add the To/Subject/Body to the message and display the message
-    With olEmail
+    With olMailItem
         .To = MessageTo
         .Subject = Subject
         .Body = MessageBody
         .Send       ' Send the message immediately
     End With
+
+    ' Release all object variables
+    Set olMailItem = Nothing
+    Set olApp = Nothing
 
 End Function
 ```
