@@ -1,8 +1,9 @@
 ---
 title: Object model (Project)
+description: Overview Project object model
 ms.prod: project-server
 ms.assetid: d41f2ada-ddda-44bf-9497-6e96c1ca8b07
-ms.date: 10/10/2018
+ms.date: 05/13/2020
 localization_priority: Normal
 ---
 
@@ -19,7 +20,7 @@ Use the table of contents in the left navigation to view the topics in this sect
 ## See also
 
 - [Project enumerations](project(enumerations).md)
-- [Getting started with VBA in Office](https://docs.microsoft.com/office/vba/library-reference/concepts/getting-started-with-vba-in-office): Provides insight into how VBA programming can help to customize Office solutions.
-- [What's new for VBA in Office 2016](https://docs.microsoft.com/office/vba/library-reference/concepts/what-s-new-for-vba-in-office-2016): Lists the new VBA language elements for Office 2016.
+- [Getting started with VBA in Office](./library-reference/concepts/getting-started-with-vba-in-office.md): Provides insight into how VBA programming can help to customize Office solutions.
+- [What's new for VBA in Office 2016](./library-reference/concepts/what-s-new-for-vba-in-office-2016.md): Lists the new VBA language elements for Office 2016.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
