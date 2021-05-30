@@ -35,7 +35,7 @@ End Sub
 |Collection|Description|
 |:---------|:----------|
 |[Files](files-collection.md) |Returns a collection of all the files in a specified folder. |
-|[Folders](folders-collection.md) | Collection of all **Folder** objects contained within a **Folder** object.|
+|[SubFolders](folders-collection.md) | Collection of all **Folder** objects contained within a **Folder** object.|
 
 ## Methods
 
