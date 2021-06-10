@@ -39,12 +39,12 @@ This example uses the **Name** statement to rename a file. For purposes of this 
 
 
 ```vb
-Dim OldName, NewName 
-OldName = "OLDFILE": NewName = "NEWFILE" ' Define file names. 
-Name OldName As NewName ' Rename file. 
+Dim oldName, oldName 
+oldName = "OLDFILE": newName = "NEWFILE" ' Define file names. 
+Name oldName As oldName ' Rename file. 
  
-OldName = "C:\MYDIR\OLDFILE": NewName = "C:\YOURDIR\NEWFILE" 
-Name OldName As NewName ' Move and rename file. 
+oldName = "C:\MYDIR\OLDFILE": newName = "C:\YOURDIR\NEWFILE" 
+Name oldName As newName ' Move and rename file. 
 
 ```
 
