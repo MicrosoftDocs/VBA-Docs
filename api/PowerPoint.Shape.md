@@ -122,95 +122,95 @@ Use the **[Group](PowerPoint.ShapeRange.Group.md)** or **[Regroup](PowerPoint.Sh
 
 ## Methods
 
-- [Apply](PowerPoint.Shape.Apply.md)
-- [ApplyAnimation](PowerPoint.Shape.ApplyAnimation.md)
-- [ConvertTextToSmartArt](PowerPoint.Shape.ConvertTextToSmartArt.md)
-- [Copy](PowerPoint.Shape.Copy.md)
-- [Cut](PowerPoint.Shape.Cut.md)
-- [Delete](PowerPoint.Shape.Delete.md)
-- [Duplicate](PowerPoint.Shape.Duplicate.md)
-- [Flip](PowerPoint.Shape.Flip.md)
-- [IncrementLeft](PowerPoint.Shape.IncrementLeft.md)
-- [IncrementRotation](PowerPoint.Shape.IncrementRotation.md)
-- [IncrementTop](PowerPoint.Shape.IncrementTop.md)
-- [PickUp](PowerPoint.Shape.PickUp.md)
-- [PickupAnimation](PowerPoint.Shape.PickupAnimation.md)
-- [RerouteConnections](PowerPoint.Shape.RerouteConnections.md)
-- [ScaleHeight](PowerPoint.Shape.ScaleHeight.md)
-- [ScaleWidth](PowerPoint.Shape.ScaleWidth.md)
-- [Select](PowerPoint.Shape.Select.md)
-- [SetShapesDefaultProperties](PowerPoint.Shape.SetShapesDefaultProperties.md)
-- [Ungroup](PowerPoint.Shape.Ungroup.md)
-- [UpgradeMedia](PowerPoint.Shape.UpgradeMedia.md)
-- [ZOrder](PowerPoint.Shape.ZOrder.md)
+- [Apply](PowerPoint.Shape.Apply.md). Applies to the specified shape formatting that's been copied by using the **PickUp** method.
+- [ApplyAnimation](PowerPoint.Shape.ApplyAnimation.md). Applies the last picked up animation to the **Shape** object.
+- [ConvertTextToSmartArt](PowerPoint.Shape.ConvertTextToSmartArt.md). Converts text in a Shape object to a SmartArt diagram.
+- [Copy](PowerPoint.Shape.Copy.md). Copies the specified object to the Clipboard.
+- [Cut](PowerPoint.Shape.Cut.md). Deletes the specified object and places it on the Clipboard.
+- [Delete](PowerPoint.Shape.Delete.md). Deletes the specified **Shape** object.
+- [Duplicate](PowerPoint.Shape.Duplicate.md). Creates a duplicate of the specified **Shape** object, adds the new shape to the **Shapes** collection, and then returns a new **ShapeRange** object. The duplicated objects are placed at the end of the **Shapes** collection.
+- [Flip](PowerPoint.Shape.Flip.md). Flips the specified shape around its horizontal or vertical axis.
+- [IncrementLeft](PowerPoint.Shape.IncrementLeft.md). Moves the specified shape horizontally by the specified number of points.
+- [IncrementRotation](PowerPoint.Shape.IncrementRotation.md). Changes the rotation of the specified shape around the z-axis by the specified number of degrees. Use the **Rotation** property to set the absolute rotation of the shape.
+- [IncrementTop](PowerPoint.Shape.IncrementTop.md). Moves the specified shape vertically by the specified number of points.
+- [PickUp](PowerPoint.Shape.PickUp.md). Copies the formatting of the specified shape. Use the **Apply** method to apply the copied formatting to another shape.
+- [PickupAnimation](PowerPoint.Shape.PickupAnimation.md). Picks up all animation from the **Shape** object.
+- [RerouteConnections](PowerPoint.Shape.RerouteConnections.md). Reroutes connectors so that they take the shortest possible path between the shapes they connect.
+- [ScaleHeight](PowerPoint.Shape.ScaleHeight.md). Scales the height of the shape by a specified factor.
+- [ScaleWidth](PowerPoint.Shape.ScaleWidth.md). Scales the width of the shape by a specified factor.
+- [Select](PowerPoint.Shape.Select.md). Selects the specified object.
+- [SetShapesDefaultProperties](PowerPoint.Shape.SetShapesDefaultProperties.md). Applies the formatting for the specified shape to the default shape.
+- [Ungroup](PowerPoint.Shape.Ungroup.md). Ungroups any grouped shapes in the specified shape or range of shapes.
+- [UpgradeMedia](PowerPoint.Shape.UpgradeMedia.md). Converts a legacy media object to an updated media object.
+- [ZOrder](PowerPoint.Shape.ZOrder.md). Moves the specified shape in front of or behind other shapes in the collection (that is, changes the shape's position in the z-order).
 
 ## Properties
 
-- [ActionSettings](PowerPoint.Shape.ActionSettings.md)
-- [Adjustments](PowerPoint.Shape.Adjustments.md)
-- [AlternativeText](PowerPoint.Shape.AlternativeText.md)
-- [AnimationSettings](PowerPoint.Shape.AnimationSettings.md)
-- [Application](PowerPoint.Shape.Application.md)
-- [AutoShapeType](PowerPoint.Shape.AutoShapeType.md)
-- [BackgroundStyle](PowerPoint.Shape.BackgroundStyle.md)
-- [BlackWhiteMode](PowerPoint.Shape.BlackWhiteMode.md)
-- [Callout](PowerPoint.Shape.Callout.md)
-- [Chart](PowerPoint.Shape.Chart.md)
-- [Child](PowerPoint.Shape.Child.md)
-- [ConnectionSiteCount](PowerPoint.Shape.ConnectionSiteCount.md)
-- [Connector](PowerPoint.Shape.Connector.md)
-- [ConnectorFormat](PowerPoint.Shape.ConnectorFormat.md)
-- [Creator](PowerPoint.Shape.Creator.md)
-- [CustomerData](PowerPoint.Shape.CustomerData.md)
-- [Decorative](PowerPoint.Shape.Decorative.md)
-- [Fill](PowerPoint.Shape.Fill.md)
-- [Glow](PowerPoint.Shape.Glow.md)
-- [GraphicStyle](PowerPoint.Shape.GraphicStyle.md)
-- [GroupItems](PowerPoint.Shape.GroupItems.md)
-- [HasChart](PowerPoint.Shape.HasChart.md)
-- [HasInkXML](PowerPoint.shape.hasinkxml.md)
-- [HasSmartArt](PowerPoint.Shape.HasSmartArt.md)
-- [HasTable](PowerPoint.Shape.HasTable.md)
-- [HasTextFrame](PowerPoint.Shape.HasTextFrame.md)
-- [Height](PowerPoint.Shape.Height.md)
-- [HorizontalFlip](PowerPoint.Shape.HorizontalFlip.md)
-- [Id](PowerPoint.Shape.Id.md)
-- [InkXML](PowerPoint.shape.inkxml.md)
-- [IsNarration](PowerPoint.shape.isnarration.md)
-- [Left](PowerPoint.Shape.Left.md)
-- [Line](PowerPoint.Shape.Line.md)
-- [LinkFormat](PowerPoint.Shape.LinkFormat.md)
-- [LockAspectRatio](PowerPoint.Shape.LockAspectRatio.md)
-- [MediaFormat](PowerPoint.Shape.MediaFormat.md)
-- [MediaType](PowerPoint.Shape.MediaType.md)
-- [Model3D](PowerPoint.Shape.Model3D.md)
-- [Name](PowerPoint.Shape.Name.md)
-- [Nodes](PowerPoint.Shape.Nodes.md)
-- [OLEFormat](PowerPoint.Shape.OLEFormat.md)
-- [Parent](PowerPoint.Shape.Parent.md)
-- [ParentGroup](PowerPoint.Shape.ParentGroup.md)
-- [PictureFormat](PowerPoint.Shape.PictureFormat.md)
-- [PlaceholderFormat](PowerPoint.Shape.PlaceholderFormat.md)
-- [Reflection](PowerPoint.Shape.Reflection.md)
-- [Rotation](PowerPoint.Shape.Rotation.md)
-- [Shadow](PowerPoint.Shape.Shadow.md)
-- [ShapeStyle](PowerPoint.Shape.ShapeStyle.md)
-- [SmartArt](PowerPoint.Shape.SmartArt.md)
-- [SoftEdge](PowerPoint.Shape.SoftEdge.md)
-- [Table](PowerPoint.Shape.Table.md)
-- [Tags](PowerPoint.Shape.Tags.md)
-- [TextEffect](PowerPoint.Shape.TextEffect.md)
-- [TextFrame](PowerPoint.Shape.TextFrame.md)
-- [TextFrame2](PowerPoint.Shape.TextFrame2.md)
-- [ThreeD](PowerPoint.Shape.ThreeD.md)
-- [Title](PowerPoint.Shape.Title.md)
-- [Top](PowerPoint.Shape.Top.md)
-- [Type](PowerPoint.Shape.Type.md)
-- [VerticalFlip](PowerPoint.Shape.VerticalFlip.md)
-- [Vertices](PowerPoint.Shape.Vertices.md)
-- [Visible](PowerPoint.Shape.Visible.md)
-- [Width](PowerPoint.Shape.Width.md)
-- [ZOrderPosition](PowerPoint.Shape.ZOrderPosition.md)
+- [ActionSettings](PowerPoint.Shape.ActionSettings.md). Returns an [ActionSettings](PowerPoint.Shape.ActionSettings.md) object that contains information about what action occurs when the user clicks or moves the mouse over the specified shape or text range during a slide show. Read-only.
+- [Adjustments](PowerPoint.Shape.Adjustments.md). Returns an [Adjustments](PowerPoint.Shape.Adjustments.md) object that contains adjustment values for all the adjustments in the specified shape. Applies to any Shape object that represents an AutoShape, WordArt, or a connector. Read-only.
+- [AlternativeText](PowerPoint.Shape.AlternativeText.md). Returns or sets the alternative text associated with a shape in a Web presentation. Read/write.
+- [AnimationSettings](PowerPoint.Shape.AnimationSettings.md). Returns an [AnimationSettings](PowerPoint.Shape.AnimationSettings.md) object that represents all the special effects you can apply to the animation of the specified shape. Read-only.
+- [Application](PowerPoint.Shape.Application.md). Returns an [Application](PowerPoint.Shape.Application.md) object that represents the creator of the specified object.
+- [AutoShapeType](PowerPoint.Shape.AutoShapeType.md). Returns or sets the shape type for the specified **Shape** object, which must represent an AutoShape other than a line, freeform drawing, or connector. Read/write.
+- [BackgroundStyle](PowerPoint.Shape.BackgroundStyle.md). Sets or returns the background style of the specified object. Read/write.
+- [BlackWhiteMode](PowerPoint.Shape.BlackWhiteMode.md). Returns or sets a value that indicates how the specified shape appears when the presentation is viewed in black-and-white mode. Read/write.
+- [Callout](PowerPoint.Shape.Callout.md). Returns a [CalloutFormat](PowerPoint.CalloutFormat.md) object that contains callout formatting properties for the specified shape. Applies to **Shape** or **ShapeRange** objects that represent line callouts. Read-only.
+- [Chart](PowerPoint.Shape.Chart.md). Returns a **Chart** object of the current **Shape** object. Read-only.
+- [Child](PowerPoint.Shape.Child.md). **MsoTrue** if the shape is a child shape or if all shapes in a shape range are child shapes of the same parent. Read-only.
+- [ConnectionSiteCount](PowerPoint.Shape.ConnectionSiteCount.md). Returns the number of connection sites on the specified shape. Read-only.
+- [Connector](PowerPoint.Shape.Connector.md). Determines whether the specified shape is a connector. Read-only.
+- [ConnectorFormat](PowerPoint.Shape.ConnectorFormat.md). Returns a [ConnectorFormat](PowerPoint.ConnectorFormat.md) object that contains connector formatting properties. Applies to **Shape** or **ShapeRange** objects that represent connectors. Read-only.
+- [Creator](PowerPoint.Shape.Creator.md). Returns a **Long** that represents the four-character creator code for the application in which the specified object was created. For example, if the object was created in Microsoft PowerPoint, this property returns the hexadecimal number 50575054. Read-only.
+- [CustomerData](PowerPoint.Shape.CustomerData.md). Returns a **CustomerData** object. Read-only.
+- [Decorative](PowerPoint.Shape.Decorative.md). Sets or returns the decorative flag for the specified object. Read/write.
+- [Fill](PowerPoint.Shape.Fill.md). Returns a [FillFormat](PowerPoint.FillFormat.md) object that contains fill formatting properties for the specified shape. Read-only.
+- [Glow](PowerPoint.Shape.Glow.md). Returns the glow format for the specified shape. Read-only.
+- [GraphicStyle](PowerPoint.Shape.GraphicStyle.md). Returns or sets an [MsoGraphicStyleIndex](Office.MsoGraphicStyleIndex.md) constant that represents the style of an SVG graphic. Read/write.
+- [GroupItems](PowerPoint.Shape.GroupItems.md). Returns a [GroupShapes](PowerPoint.GroupShapes.md) object that represents the individual shapes in the specified group. Use the **Item** method of the **GroupShapes** object to return a single shape from the group. Read-only.
+- [HasChart](PowerPoint.Shape.HasChart.md). Returns whether the shape represented by the specified object contains a chart. Read-only.
+- [HasInkXML](PowerPoint.shape.hasinkxml.md). Returns an [MsoTriState](Office.MsoTriState.md) enumeration value that indicates whether the specified shape contains ink XML that can be retrieved via the [Shape.InkXML](PowerPoint.Shape.InkXml.md) property. Read-only.
+- [HasSmartArt](PowerPoint.Shape.HasSmartArt.md). Returns **True** if the current **Shape** object contains a SmartArt diagram. Read-only.
+- [HasTable](PowerPoint.Shape.HasTable.md). Returns whether the specified shape is a table. Read-only.
+- [HasTextFrame](PowerPoint.Shape.HasTextFrame.md). Returns whether the specified shape has a text frame. Read-only.
+- [Height](PowerPoint.Shape.Height.md). Returns or sets the height of the specified object, in points. Read/write.
+- [HorizontalFlip](PowerPoint.Shape.HorizontalFlip.md). Returns whether the specified shape is flipped around the horizontal axis. Read-only.
+- [Id](PowerPoint.Shape.Id.md). Returns a **Long** that identifies the shape or range of shapes. Read-only.
+- [InkXML](PowerPoint.shape.inkxml.md). Returns a **String** that contains the InkActionML associated with the specified shape. Read-only.
+- [IsNarration](PowerPoint.shape.isnarration.md). Specifies whether the specified shape range contains a narration. Read/write.
+- [Left](PowerPoint.Shape.Left.md). Returns or sets a **Single** that represents the distance in points from the left edge of the shape's bounding box to the left edge of the slide. Read/write.
+- [Line](PowerPoint.Shape.Line.md). Returns a [LineFormat](PowerPoint.LineFormat.md) object that contains line formatting properties for the specified shape. (For a line, the **LineFormat** object represents the line itself; for a shape with a border, the **LineFormat** object represents the border.) Read-only.
+- [LinkFormat](PowerPoint.Shape.LinkFormat.md). Returns a [LinkFormat](PowerPoint.LinkFormat.md) object that contains the properties that are unique to linked OLE objects. Read-only.
+- [LockAspectRatio](PowerPoint.Shape.LockAspectRatio.md). Determines whether the specified shape retains its original proportions when you resize it. Read/write.
+- [MediaFormat](PowerPoint.Shape.MediaFormat.md). Allows access to the new audio or video object. Read-only.
+- [MediaType](PowerPoint.Shape.MediaType.md). Returns the OLE media type. Read-only.
+- [Model3D](PowerPoint.Shape.Model3D.md). Returns a [Model3DFormat](PowerPoint.Model3dFormat.md) object that represents the 3D properties of a 3D model object. Read-only.
+- [Name](PowerPoint.Shape.Name.md). Gets or sets the name of the **Shape**.
+- [Nodes](PowerPoint.Shape.Nodes.md). Returns a [ShapeNodes](PowerPoint.ShapeNodes.md) collection that represents the geometric description of the specified shape. Applies to **Shape** objects that represent freeform drawings.
+- [OLEFormat](PowerPoint.Shape.OLEFormat.md). Returns an [OLEFormat](PowerPoint.OLEFormat.md) object that contains OLE formatting properties for the specified shape. Applies to **Shape** or **ShapeRange** objects that represent OLE objects. Read-only.
+- [Parent](PowerPoint.Shape.Parent.md). Returns the parent object for the specified object.
+- [ParentGroup](PowerPoint.Shape.ParentGroup.md). Returns a **Shape** object that represents the common parent shape of a child shape or a range of child shapes.
+- [PictureFormat](PowerPoint.Shape.PictureFormat.md). Returns a [PictureFormat](PowerPoint.PictureFormat.md) object that contains picture formatting properties for the specified shape. Read-only.
+- [PlaceholderFormat](PowerPoint.Shape.PlaceholderFormat.md). Returns a [PlaceholderFormat](PowerPoint.PlaceholderFormat.md) object that contains the properties that are unique to placeholders. Read-only.
+- [Reflection](PowerPoint.Shape.Reflection.md). Returns the reflection format for the specified shape. Read-only.
+- [Rotation](PowerPoint.Shape.Rotation.md). Returns or sets the number of degrees the specified shape is rotated around the z-axis. Read/write.
+- [Shadow](PowerPoint.Shape.Shadow.md). Returns a [ShadowFormat](PowerPoint.ShadowFormat.md) object that contains shadow formatting properties for the specified shape. Read-only.
+- [ShapeStyle](PowerPoint.Shape.ShapeStyle.md). Sets or returns the shape style index for the specified object. Read/write.
+- [SmartArt](PowerPoint.Shape.SmartArt.md). Returns a Microsoft Office [SmartArt](Office.SmartArt.md) object that represents the SmartArt diagram of the Shape object. Read-only.
+- [SoftEdge](PowerPoint.Shape.SoftEdge.md). Returns the soft edge format for the specified shape. Read-only.
+- [Table](PowerPoint.Shape.Table.md). Returns a [Table](PowerPoint.Table.md) object that represents a table in a shape or in a shape range. Read-only.
+- [Tags](PowerPoint.Shape.Tags.md). Returns a [Tags](PowerPoint.Tags.md) object that represents the tags for the specified object. Read-only.
+- [TextEffect](PowerPoint.Shape.TextEffect.md). Returns a [TextEffectFormat](PowerPoint.TextEffectFormat.md) object that contains text-effect formatting properties for the specified shape. Read-only.
+- [TextFrame](PowerPoint.Shape.TextFrame.md). Returns a [TextFrame](PowerPoint.TextFrame.md) object that contains the alignment and anchoring properties for the specified shape or master text style.
+- [TextFrame2](PowerPoint.Shape.TextFrame2.md). Returns the [TextFrame2](PowerPoint.TextFrame2.md) object associated with the specified **Shape** object that contains the alignment and anchoring properties for the specified shape. Read-only.
+- [ThreeD](PowerPoint.Shape.ThreeD.md). Returns a [ThreeDFormat](PowerPoint.ThreeDFormat.md] object that contains 3D - effect formatting properties for the specified shape. Read-only.
+- [Title](PowerPoint.Shape.Title.md). Returns a **Shape** object that represents the slide title. Read-only.
+- [Top](PowerPoint.Shape.Top.md). Returns or sets a **Single** that represents the distance from the top edge of the shape's bounding box to the top edge of the document. Read/write.
+- [Type](PowerPoint.Shape.Type.md). Represents the type of shape or shapes in a range of shapes. Read-only.
+- [VerticalFlip](PowerPoint.Shape.VerticalFlip.md). Determines whether the specified shape is flipped around the vertical axis. Read-only.
+- [Vertices](PowerPoint.Shape.Vertices.md). Returns the coordinates of the specified freeform drawing's vertices (and control points for Bézier curves) as a series of coordinate pairs. Read-only.
+- [Visible](PowerPoint.Shape.Visible.md). Returns or sets the visibility of the specified object or the formatting applied to the specified object. Read/write.
+- [Width](PowerPoint.Shape.Width.md). Returns or sets the width of the specified object, in points. Read/write.
+- [ZOrderPosition](PowerPoint.Shape.ZOrderPosition.md). Returns the position of the specified shape in the z-order. Read-only.
 
 ## See also
 
