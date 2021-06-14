@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1009023
 ms.prod: office
 ms.assetid: 033bffb0-540f-2c17-2aed-d25d10bedd8c
-ms.date: 12/13/2018
+ms.date: 12/29/2020
 localization_priority: Priority
 ---
 
@@ -47,7 +47,7 @@ If the **Shell** function successfully executes the named file, it returns the t
 On the Macintosh, **vbNormalFocus**, **vbMinimizedFocus**, and **vbMaximizedFocus** all place the application in the foreground; **vbHide**, **vbNoFocus**, and **vbMinimizeFocus** all place the application in the background.
 
 > [!NOTE] 
-> By default, the **Shell** function runs other programs asynchronously. This means that a program started with **Shell** might not finish executing before the statements following the **Shell** function are executed.
+> By default, the **Shell** function runs other programs asynchronously. This means that a program started with **Shell** might not finish executing before the statements following the **Shell** function are executed. To wait for a program to finish, see [Determine when a shelled process ends](https://docs.microsoft.com/office/vba/access/concepts/windows-api/determine-when-a-shelled-process-ends).
 
 ## Example
 
@@ -57,7 +57,7 @@ This example uses the **Shell** function to run an application specified by the 
 ' Specifying 1 as the second argument opens the application in 
 ' normal size and gives it the focus.
 Dim RetVal
-RetVal = Shell("C:\WINDOWS\CALC.EXE", 1)    ' Run Calculator.
+RetVal = Shell("C:\WINDOWS\NOTEPAD.EXE", 1)    ' Open Notepad.
 
 ```
 

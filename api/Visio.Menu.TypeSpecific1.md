@@ -39,7 +39,7 @@ The value of an object's  **TypeSpecific1** property depends on the value of its
 
 
 
-|** CntrlType value**|** TypeSpecific1 value**|
+|**CntrlType value**|**TypeSpecific1 value**|
 |:-----|:-----|
 | **visCtrlTypeBUTTON**|Any constant prefixed with  **visIconIX** that is declared by the Visio type library.|
 | **visCtrlTypeCOMBOBOX**|Zero (0).|

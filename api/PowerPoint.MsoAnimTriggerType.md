@@ -23,5 +23,6 @@ The action that triggers the animation effect. The default value is **msoAnimTri
 |**msoAnimTriggerOnPageClick**|1|When a page is clicked.|
 |**msoAnimTriggerOnShapeClick**|4|When a shape is clicked.|
 |**msoAnimTriggerWithPrevious**|2|When the **Previous** button is clicked.|
+|**msoAnimTriggerOnMediaBookmark**|5||
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

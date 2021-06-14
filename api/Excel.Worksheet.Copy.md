@@ -37,6 +37,7 @@ If you don't specify either _Before_ or _After_, Microsoft Excel creates a new w
 
 An array selection of multiple worksheets can be copied to a new blank **[Workbook](Excel.Workbook.md)** object in a similar manner.
 
+Source and Destination must be in the same Excel.Application instance, otherwise it will raise a runtime error '1004': No such interface supported, if something like `Sheet1.Copy objWb.Sheets(1)` was used, or a runtime error '1004': Copy method of Worksheet class failed, if something like `ThisWorkbook.Worksheets("Sheet1").Copy objWb.Sheets(1)` was used.
 
 ## Example
 

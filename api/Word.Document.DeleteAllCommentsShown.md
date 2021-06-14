@@ -7,7 +7,7 @@ ms.prod: word
 api_name:
 - Word.Document.DeleteAllCommentsShown
 ms.assetid: b0cdbc8e-973c-1921-a646-d2f5ef091ce9
-ms.date: 06/08/2017
+ms.date: 06/20/2017
 localization_priority: Normal
 ---
 
@@ -16,6 +16,8 @@ localization_priority: Normal
 
 Deletes all revisions in a specified document that are displayed on the screen.
 
+> [!IMPORTANT]
+> This method has changed. The `DeleteAllCommentsShown` method no longer deletes the visible subset of comments in the document and behaves like the `DeleteAllComments` method by deleting all comments in the document.
 
 ## Syntax
 

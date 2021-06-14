@@ -16,12 +16,12 @@ localization_priority: Normal
 
 |**Click**|**To**|
 |:-----|:-----|
-| ** Left**|Align controls to the left edge of the dominant control.|
-| ** Center**|Align the center of the controls to the vertical center of the dominant control.|
-| ** Right**|Align controls to the right edge of the dominant control.|
-| ** Top**|Align controls to the top edge of the dominant control.|
-| ** Middle**|Align the center of the controls to the horizontal center of the dominant control.|
-| ** Bottom**|Align controls to the bottom edge of the dominant control.|
+| **Left**|Align controls to the left edge of the dominant control.|
+| **Center**|Align the center of the controls to the vertical center of the dominant control.|
+| **Right**|Align controls to the right edge of the dominant control.|
+| **Top**|Align controls to the top edge of the dominant control.|
+| **Middle**|Align the center of the controls to the horizontal center of the dominant control.|
+| **Bottom**|Align controls to the bottom edge of the dominant control.|
 | **Distributed Horizontally**|Align the center of the controls with the horizontal center of the form. Note that this option is not based on the position of the dominant control.|
 | **Distributed Vertically**|Align the center of the controls with vertical center of the form. Note that this option is not based on the position of the dominant control.|
 | **Snap to Grid**|Align the upper-left corner of the controls with their nearest grid point. Note that this option is not based on the position of the dominant control.|

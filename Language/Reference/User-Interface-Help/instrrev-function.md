@@ -52,11 +52,13 @@ The _compare_ argument can have the following values:
 |_stringmatch_ is **Null**|**Null**|
 |_stringmatch_ is not found|0|
 |_stringmatch_ is found within _stringcheck_|Position at which match is found|
-|_start_ > **Len**(_stringmatch_)|0|
+|_start_ > **Len**(_stringcheck_)|0|
 
 ## Remarks
 
 Note that the syntax for the **InstrRev** function is not the same as the syntax for the **[Instr](instr-function.md)** function.
+
+**InstrRev** will not find an instance of _stringmatch_ unless the position of the end character of _stringmatch_ is less than or equal to _start_. 
 
 ## See also
 

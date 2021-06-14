@@ -17,12 +17,12 @@ Specifies how to plot the sparkline when the data on which it is based is in a s
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **SparklineColumnsSquare**|2|Plot the data by columns.|
-| **SparklineNonSquare**|0|The sparkline is not bound to data in a square-shaped range.|
-| **SparklineRowsSquare**|1|Plot the data by rows.|
+| **xlSparklineColumnsSquare**|2|Plot the data by columns.|
+| **xlSparklineNonSquare**|0|The sparkline is not bound to data in a square-shaped range.|
+| **xlSparklineRowsSquare**|1|Plot the data by rows.|
 
 ## Remarks
 
-The  **xlSparklineRowCol** enumeration is used by the **[PlotBy](overview/Excel.md)** property of the **[SparklineGroup](Excel.SparklineGroup.md)** object to determine how to plot chart in a sparkline when data on which it based is in a square-shaped range, such as A1:B2.
+The  **xlSparklineRowCol** enumeration is used by the **[PlotBy](Excel.sparklinegroup.plotby.md)** property of the **[SparklineGroup](Excel.SparklineGroup.md)** object to determine how to plot chart in a sparkline when data on which it based is in a square-shaped range, such as A1:B2.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

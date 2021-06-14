@@ -1,5 +1,6 @@
 ---
 title: Presentation object (PowerPoint)
+description: Represents a Microsoft PowerPoint presentation. 
 keywords: vbapp10.chm524000
 f1_keywords:
 - vbapp10.chm524000
@@ -98,6 +99,7 @@ MsgBox SlideShowWindows(1).Presentation.Name
 |[Save](PowerPoint.Presentation.Save.md)|
 |[SaveAs](PowerPoint.Presentation.SaveAs.md)|
 |[SaveCopyAs](PowerPoint.Presentation.SaveCopyAs.md)|
+|[SaveCopyAs2](PowerPoint.Presentation.SaveCopyAs2.md)|
 |[SendFaxOverInternet](PowerPoint.Presentation.SendFaxOverInternet.md)|
 |[SetPasswordEncryptionOptions](PowerPoint.Presentation.SetPasswordEncryptionOptions.md)|
 |[UpdateLinks](PowerPoint.Presentation.UpdateLinks.md)|
@@ -159,6 +161,7 @@ MsgBox SlideShowWindows(1).Presentation.Name
 |[Permission](PowerPoint.Presentation.Permission.md)|
 |[PrintOptions](PowerPoint.Presentation.PrintOptions.md)|
 |[ReadOnly](PowerPoint.Presentation.ReadOnly.md)|
+|[ReadOnlyRecommended](PowerPoint.Presentation.ReadOnlyRecommended.md)|
 |[RemovePersonalInformation](PowerPoint.Presentation.RemovePersonalInformation.md)|
 |[Research](PowerPoint.Presentation.Research.md)|
 |[Saved](PowerPoint.Presentation.Saved.md)|

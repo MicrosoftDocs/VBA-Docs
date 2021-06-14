@@ -1,16 +1,32 @@
 ---
 title: Excel performance - Performance and limit improvements
 description: Find out about performance improvements in Excel 2016 and Excel 2010. 
-ms.date: 09/24/2018 
+ms.date: 08/06/2020
 author: FastExcel
 localization_priority: Priority
 ---
 
 # Excel performance: Performance and limit improvements
 
-**Applies to:** Excel | Excel 2016 | Excel 2013 | Excel 2010 | Office 2016 | SharePoint Server 2010 | VBA
+**Applies to:** Excel | Excel M365| Excel 2016 | Excel 2013 | Excel 2010 | Office 2016 | SharePoint Server 2010 | VBA
 
-Excel 2016 introduces new features that you can use to improve performance when you are working with large or complex Excel workbooks
+Excel M365 introduces new features that you can use to improve performance when you are working with large or complex Excel workbooks
+
+## SUMIFS, AVERAGEIFS, COUNTIFS, MAXIFS, MINIFS Improvements
+
+In Office 365 version 2005 monthly channel and later, Excel's SUMIFS, AVERAGEIFS, COUNTIFS, MAXIFS, and MINIFS as well as their singular counterparts SUMIF, AVERAGEIF, and COUNTIF are much faster than Excel 2010 aggregating string data in the spreadsheet. These functions now create an internal cached index for the range being searched in each expression. This cached index is reused in any subsequent aggregations that are pulling from the same range. 
+
+The effect is dramatic: For example calculating 1200 SUMIFS, AVERAGEIFS, and COUNTIFS formulas aggregating data from 1 million cells on a 4 core 2 GHz CPU that took 20 seconds to calculate using Excel 2010, now takes 8 seconds only, on Excel M365 2006.
+
+## RealTimeData Function (RTD)
+
+In Excel M365 version 2002 monthly channel or later, Excel's [RealTimeData (RTD) function](https://docs.microsoft.com/office/troubleshoot/excel/set-up-realtimedata-function?WT.mc_id=email) is much faster than Excel 2010 calculating  data in the spreadsheet. We removed bottlenecks in its underlying memory and data structures as well as made it thread-safe to allow it to be calculated on all available threads of [Multithreaded recalculation (MTR)](https://docs.microsoft.com/office/client-developer/excel/multithreaded-recalculation-in-excel).
+
+For example simulating 125,000 RTD updates for stock topics like "Last Price", "Ask", "Bid" to calculate values like "Trade Volume", "Market Value", "Trade Gain/Loss" etc. in 500,0000 cells in all, took 47 seconds using Excel 2010 and only 7 seconds using Excel M365 Version 2002, on the same hardware.
+
+Another positive effect of making RTD function thread-safe, is that [Multithreaded recalculation (MTR)](https://docs.microsoft.com/office/client-developer/excel/multithreaded-recalculation-in-excel) doesn't need to be paused to run RTD function anymore. This improves performance noticeably when running RTD along with lots of other calculations.  
+
+For example, we ran a workbook with 10,000 RTD and 10,000 VLOOKUP functions, with each VLOOKUP depending on an RTD function result. Without thread-safe RTD full recalcuation  took 10.20 seconds and with thread-safe RTD it took 5.84 seconds. 
 
 ## VLOOKUP, HLOOKUP, MATCH improvements
 

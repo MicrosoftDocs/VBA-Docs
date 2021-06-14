@@ -36,7 +36,7 @@ The sample performs the following actions:
 ```vb
 Private Sub CreateImportantFavoritesFolder() 
     Dim objNamespace As NameSpace 
-    Dim objCalendars As Folder 
+    Dim objInbox As Folder 
     Dim objFolder As Folder 
      
     Dim objPane As NavigationPane 
@@ -48,10 +48,10 @@ Private Sub CreateImportantFavoritesFolder()
      
     ' First, retrieve the default Inbox folder. 
     Set objNamespace = Application.GetNamespace("MAPI") 
-    Set objCalendars = objNamespace.GetDefaultFolder(olFolderInbox) 
+    Set objInbox = objNamespace.GetDefaultFolder(olFolderInbox) 
      
     ' Create a new mail folder named "Important Items". 
-    Set objFolder = objCalendars.Folders.Add("Important Items") 
+    Set objFolder = objInbox.Folders.Add("Important Items") 
          
     ' Get the NavigationPane object for the 
     ' currently displayed Explorer object. 

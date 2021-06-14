@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Assert method
 
-Conditionally suspends execution at the line on which the method appears.
+Conditionally suspends execution when _booleanexpression_ returns **False** at the line on which the method appears.
 
 ## Syntax
 

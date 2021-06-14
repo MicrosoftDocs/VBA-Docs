@@ -69,7 +69,7 @@ Use the  **Add** method to create a new slide and add it to the presentation. Th
 
 ```vb
 ActivePresentation.Slides.Add 1, ppLayoutTitleOnly
-``
+```
 
 ## Methods
 |Name|
