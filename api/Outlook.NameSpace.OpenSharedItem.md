@@ -44,6 +44,7 @@ This method is used to open iCalendar appointment (.ics) files, vCard (.vcf) fil
 
 
 | **Shared item type**| **Outlook item**|
+|:-----|:-----|
 |iCalendar appointment (.ics) file| **[AppointmentItem](Outlook.AppointmentItem.md)**|
 |vCard (.vcf) file| **[ContactItem](Outlook.ContactItem.md)**|
 |Outlook message (.msg) file|Type corresponds to the type of the item that was saved as the .msg file|
