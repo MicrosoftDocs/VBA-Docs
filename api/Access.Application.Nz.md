@@ -1,5 +1,6 @@
 ---
 title: Application.Nz method (Access)
+description: A variable of data type **Variant**.
 keywords: vbaac10.chm12554
 f1_keywords:
 - vbaac10.chm12554
@@ -7,7 +8,7 @@ ms.prod: access
 api_name:
 - Access.Application.Nz
 ms.assetid: 669fe962-3881-83bb-cc40-ec9b23b44116
-ms.date: 02/05/2019
+ms.date: 06/14/2021
 localization_priority: Normal
 ---
 
@@ -35,10 +36,9 @@ _expression_ A variable that represents an **[Application](Access.Application.md
 
 Variant
 
-
 ## Remarks
 
-If the _Value_ of the variant argument is **Null**, the **Nz** function returns an unassigned **Variant**, the special value **[Empty](../language/glossary/vbe-glossary#empty)**. In VBA, **Empty**evaluates to the number zero or a zero-length string, depending on whether the context indicates that the _Value_ should be a number or a string. For example:
+If the _Value_ of the variant argument is **Null**, the **Nz** function returns an unassigned **Variant**, the special value **[Empty](../language/glossary/vbe-glossary#empty)**. In VBA, **Empty** evaluates to the number zero or a zero-length string, depending on whether the context indicates that the _Value_ should be a number or a string. For example:
 
 ```vb
 Nz(Null) + 2    ' returns 2

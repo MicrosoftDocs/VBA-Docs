@@ -17,7 +17,7 @@ localization_priority: Priority
 Represents the current selection in a window or pane. A selection represents either a selected (or highlighted) area in the document, or it represents the insertion point if nothing in the document is selected. There can be only one **Selection** object per document window pane, and only one **Selection** object in the entire application can be active.
 
 > [!IMPORTANT]
-> This property has changed. Using VBA Selection commands like `Selection.BoldRun` command on user selection with Comments no longer applies bold formatting on user-selected text.
+> This method has changed. Using VBA Selection commands like `Selection.BoldRun` on user selection with Comments no longer applies bold formatting on user-selected text or `Selection.TypeTxt` command or on user selection with Comments no longer inserts text.
 
 ## Remarks
 
