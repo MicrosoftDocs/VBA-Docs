@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Run in Developer Mode in Outlook
 
-If you can see the **eveloper** tab, you are running in developer mode. Otherwise, follow these steps to run in developer mode:
+If you can see the **Developer** tab, you are running in developer mode. Otherwise, follow these steps to run in developer mode:
 
 
 1. Click the **File** tab.
@@ -23,6 +23,6 @@ If you can see the **eveloper** tab, you are running in developer mode. Otherwis
 5. Click **OK**.
     
 
-You should now be able to see the **eveloper** tab in the Office Fluent ribbon.
+You should now be able to see the **Developer** tab in the Office Fluent ribbon.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
