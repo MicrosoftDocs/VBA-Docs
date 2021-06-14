@@ -22,7 +22,7 @@ The following code illustrates how to obtain a **Folder** object and how to retu
 
 ```vb
 Sub ShowFolderInfo(folderspec)
-    Dim fs, f, s,
+    Dim fs, f, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set f = fs.GetFolder(folderspec)
     s = f.DateCreated
