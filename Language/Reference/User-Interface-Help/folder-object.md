@@ -22,7 +22,7 @@ The following code illustrates how to obtain a **Folder** object and how to retu
 
 ```vb
 Sub ShowFolderInfo(folderspec)
-    Dim fs, f, s,
+    Dim fs, f, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set f = fs.GetFolder(folderspec)
     s = f.DateCreated
@@ -35,7 +35,7 @@ End Sub
 |Collection|Description|
 |:---------|:----------|
 |[Files](files-collection.md) |Returns a collection of all the files in a specified folder. |
-|[Folders](folders-collection.md) | Collection of all **Folder** objects contained within a **Folder** object.|
+|[SubFolders](folders-collection.md) | Collection of all **Folder** objects contained within a **Folder** object.|
 
 ## Methods
 
