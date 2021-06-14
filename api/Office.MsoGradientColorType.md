@@ -18,6 +18,7 @@ Specifies the type of gradient used in a shape's fill.
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoGradientColorMixed**|-2|Mixed gradient|
+|**msoGradientMultiColor**|4|More than two colors|
 |**msoGradientOneColor**|1|One-color gradient|
 |**msoGradientPresetColors**|3|Gradient colors set according to a built-in gradient of the set defined by the **MsoPresetGradientType** constant.|
 |**msoGradientTwoColors**|2|Two-color gradient|
