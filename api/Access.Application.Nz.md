@@ -1,5 +1,6 @@
 ---
 title: Application.Nz method (Access)
+description: A variable of data type **Variant**.
 keywords: vbaac10.chm12554
 f1_keywords:
 - vbaac10.chm12554
@@ -7,7 +8,7 @@ ms.prod: access
 api_name:
 - Access.Application.Nz
 ms.assetid: 669fe962-3881-83bb-cc40-ec9b23b44116
-ms.date: 05/05/2021
+ms.date: 06/14/2021
 localization_priority: Normal
 ---
 
@@ -34,7 +35,6 @@ _expression_ A variable that represents an **[Application](Access.Application.md
 ## Return value
 
 Variant
-
 
 ## Remarks
 
