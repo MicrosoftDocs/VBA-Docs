@@ -46,7 +46,7 @@ You can combine multiple ranges into one **Range** object by using the **Union**
 
 ```vb
 Sub MultipleRange() 
- Dim r1, r2, myMultipleRange As Range 
+ Dim r1 As Range, r2 As Range, myMultipleRange As Range 
  Set r1 = Sheets("Sheet1").Range("A1:B2") 
  Set r2 = Sheets("Sheet1").Range("C3:D4") 
  Set myMultipleRange = Union(r1, r2) 
