@@ -5,7 +5,7 @@ f1_keywords:
 - vbaof11.chm1001
 ms.prod: office
 ms.assetid: 6872a71a-c339-4c6e-9046-f298df84d921
-ms.date: 06/08/2017
+ms.date: 06/15/2017
 localization_priority: Normal
 ---
 
@@ -14,136 +14,262 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[SmartArtLayouts Object (Office)](https://msdn.microsoft.com/library/25e33439-fb5e-01d7-1b85-01884a42ba68%28Office.15%29.aspx)
+[SmartArtLayouts Object (Office)](https://docs.microsoft.com/office/vba/api/Office.SmartArtLayouts)
 
-[SharedWorkspace.Application Property (Office)](https://msdn.microsoft.com/library/c46726f0-418e-6041-2298-018e3d54e54a%28Office.15%29.aspx)
+[SharedWorkspace.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SharedWorkspace.Application)
 
-[ServerPolicy.Application Property (Office)](https://msdn.microsoft.com/library/0d07cae1-9219-c617-f15d-01bc5ec59132%28Office.15%29.aspx)
-[PictureEffect.Application Property (Office)](https://msdn.microsoft.com/library/90e612f1-71b6-48d7-4c14-0336d0992cc3%28Office.15%29.aspx)
-[CustomXMLParts.Application Property (Office)](https://msdn.microsoft.com/library/716a8209-ac4f-1cd3-353c-03552ea53035%28Office.15%29.aspx)
-[SmartArtColors Object (Office)](https://msdn.microsoft.com/library/a1929517-b1fb-c6fe-b6db-03f7ef1ef894%28Office.15%29.aspx)
-[ReflectionFormat Object (Office)](https://msdn.microsoft.com/library/9684dbb3-5b99-113b-9808-1173fdd719a9%28Office.15%29.aspx)
-[CustomXMLSchemaCollection.Application Property (Office)](https://msdn.microsoft.com/library/8376ce9d-c47d-b418-5b21-11cb43ffb366%28Office.15%29.aspx)
-[ReflectionFormat.Application Property (Office)](https://msdn.microsoft.com/library/5f324e5d-b355-ce3a-2c82-143ef1615c66%28Office.15%29.aspx)
-[Signature.Application Property (Office)](https://msdn.microsoft.com/library/fc445340-37a7-f9df-49a6-1489ac49b5f6%28Office.15%29.aspx)
-[SmartArtColor.Application Property (Office)](https://msdn.microsoft.com/library/21c577b0-7aab-eec8-e532-15909242fcdb%28Office.15%29.aspx)
-[CustomXMLSchema.Application Property (Office)](https://msdn.microsoft.com/library/7f606125-4168-8d4c-1486-15bf2ef8af2a%28Office.15%29.aspx)
-[SharedWorkspaceTask.Application Property (Office)](https://msdn.microsoft.com/library/079e2584-dfc6-4a89-0507-168b12709bc7%28Office.15%29.aspx)
-[CustomXMLPrefixMappings.Application Property (Office)](https://msdn.microsoft.com/library/1bf01d4c-8dfe-a285-3f6a-17292e8eeea9%28Office.15%29.aspx)
-[SmartArtColor Object (Office)](https://msdn.microsoft.com/library/5aca0209-20d3-c16f-fdfd-184f3464e00b%28Office.15%29.aspx)
-[CustomXMLPrefixMapping.Application Property (Office)](https://msdn.microsoft.com/library/faf9ae57-3261-1813-0bc2-193392a47693%28Office.15%29.aspx)
-[OfficeTheme.Application Property (Office)](https://msdn.microsoft.com/library/7e89da9f-7a17-fc0e-c2fa-1972c1d43570%28Office.15%29.aspx)
-[RulerLevel2.Application Property (Office)](https://msdn.microsoft.com/library/f03c2e77-5255-1099-872a-1b24912c5cf4%28Office.15%29.aspx)
-[MetaProperties.Application Property (Office)](https://msdn.microsoft.com/library/40f520da-9408-06f9-f51d-1b4dda0d452b%28Office.15%29.aspx)
-[BulletFormat2.Application Property (Office)](https://msdn.microsoft.com/library/80cfd474-d7b2-bb07-d598-1f7906343dc3%28Office.15%29.aspx)
-[ScopeFolders.Application Property (Office)](https://msdn.microsoft.com/library/7dc9464e-1572-5fdb-cde5-1ffc185917b9%28Office.15%29.aspx)
-[COMAddIn.Application Property (Office)](https://msdn.microsoft.com/library/7566c80d-a63b-2ea0-7a53-21c532039172%28Office.15%29.aspx)
-[WorkflowTemplates.Application Property (Office)](https://msdn.microsoft.com/library/44cb9e88-ea64-66bb-a2fc-24dc0ee3a48a%28Office.15%29.aspx)
-[ThemeColorScheme.Application Property (Office)](https://msdn.microsoft.com/library/6268529b-3f5c-9fb3-6162-38e0d5ffc6db%28Office.15%29.aspx)
-[PickerDialog.Application Property (Office)](https://msdn.microsoft.com/library/7e8cdb9f-0261-5267-058f-39c00d6c9db2%28Office.15%29.aspx)
-[ODSOColumn.Application Property (Office)](https://msdn.microsoft.com/library/226f3e03-1cce-ce5c-6333-3bd0a49eb5fc%28Office.15%29.aspx)
-[ThemeEffectScheme Object (Office)](https://msdn.microsoft.com/library/3fad64c0-94ca-8749-0282-3ed903e2aa84%28Office.15%29.aspx)
-[SmartArtNode Object (Office)](https://msdn.microsoft.com/library/3987d02d-beb1-8ce0-acbb-3fc0a05b2341%28Office.15%29.aspx)
-[CustomXMLValidationError.Application Property (Office)](https://msdn.microsoft.com/library/cc9c39c1-6f6f-3d18-1b2d-4294e388ce48%28Office.15%29.aspx)
-[ODSOFilters.Application Property (Office)](https://msdn.microsoft.com/library/942b52ed-cb45-6ad0-55a0-4313a4aa9d66%28Office.15%29.aspx)
-[COMAddIns.Application Property (Office)](https://msdn.microsoft.com/library/d1ee6b80-0a48-33e8-3fc3-45bc73ad1413%28Office.15%29.aspx)
-[FileDialogFilters.Application Property (Office)](https://msdn.microsoft.com/library/40671be8-c0c6-f030-ed97-4b589be265de%28Office.15%29.aspx)
-[WorkflowTemplate.Application Property (Office)](https://msdn.microsoft.com/library/5c614394-2363-0b9f-2097-4dd1ca7750cd%28Office.15%29.aspx)
-[ThemeColor Object (Office)](https://msdn.microsoft.com/library/357605ea-247d-b151-0286-4e2413658c3f%28Office.15%29.aspx)
-[TextColumn2.Application Property (Office)](https://msdn.microsoft.com/library/7c70142d-65e8-85e7-a601-4f7aaf2eb335%28Office.15%29.aspx)
-[SmartArtQuickStyles.Application Property (Office)](https://msdn.microsoft.com/library/ad51fa1d-3836-3d14-e69b-501032a7f5cb%28Office.15%29.aspx)
-[EffectParameter.Application Property (Office)](https://msdn.microsoft.com/library/bc93ff0c-f592-feb6-8116-55ae6a4c98f6%28Office.15%29.aspx)
-[WorkflowTask.Application Property (Office)](https://msdn.microsoft.com/library/0a7dc052-3948-4f80-cbf4-56bc6e789353%28Office.15%29.aspx)
-[ThemeFontScheme Object (Office)](https://msdn.microsoft.com/library/566b3a6f-16c9-8ba0-6f40-5bc96ec2dcbf%28Office.15%29.aspx)
-[FileDialogSelectedItems.Application Property (Office)](https://msdn.microsoft.com/library/8e4f9905-b0c3-7838-0592-5c39795909b2%28Office.15%29.aspx)
-[SmartArtLayout Object (Office)](https://msdn.microsoft.com/library/f8d9db83-86f7-4830-096d-5d15368ab6b1%28Office.15%29.aspx)
-[PickerResult.Application Property (Office)](https://msdn.microsoft.com/library/6c5cfb43-8c2c-47c5-38a7-60688420c862%28Office.15%29.aspx)
-[GradientStop.Application Property (Office)](https://msdn.microsoft.com/library/93844d38-14c3-21cf-2f86-614cfdee7747%28Office.15%29.aspx)
-[SharedWorkspaceTasks.Application Property (Office)](https://msdn.microsoft.com/library/a1d55488-3abe-4cec-375d-63e6bc08ba21%28Office.15%29.aspx)
-[SoftEdgeFormat.Application Property (Office)](https://msdn.microsoft.com/library/19cdc9cf-b361-a3ec-d151-654963e76f50%28Office.15%29.aspx)
-[ThemeFontScheme.Application Property (Office)](https://msdn.microsoft.com/library/2695084a-fd2b-aae0-bca8-670a92877912%28Office.15%29.aspx)
-[CommandBarPopup.Application Property (Office)](https://msdn.microsoft.com/library/2a247386-f2f3-5901-038a-677a4906cb82%28Office.15%29.aspx)
-[ThemeColor.Application Property (Office)](https://msdn.microsoft.com/library/af9f011b-6a9a-8dce-96b3-683160679ed2%28Office.15%29.aspx)
-[CommandBarControls.Application Property (Office)](https://msdn.microsoft.com/library/822f709a-fe54-cca4-49d1-6a79d2eb15e5%28Office.15%29.aspx)
-[FileDialogFilter.Application Property (Office)](https://msdn.microsoft.com/library/279e26e3-0dbe-1fd2-3014-6dda0f9fb96d%28Office.15%29.aspx)
-[CommandBars.Application Property (Office)](https://msdn.microsoft.com/library/98ce76f8-c2ef-0304-97c6-70e2567700e7%28Office.15%29.aspx)
-[FileDialog.Application Property (Office)](https://msdn.microsoft.com/library/797e82c7-0737-03ae-7df3-7178bc6ff328%28Office.15%29.aspx)
-[SmartDocument.Application Property (Office)](https://msdn.microsoft.com/library/e8685850-ac4b-e1df-2eae-71e8bfcef8ff%28Office.15%29.aspx)
-[NewFile.Application Property (Office)](https://msdn.microsoft.com/library/3ef429d3-12a6-cc81-4e31-72e496bba2c6%28Office.15%29.aspx)
-[ThemeEffectScheme.Application Property (Office)](https://msdn.microsoft.com/library/9308a820-3a62-1b7e-e137-74bf17c102c3%28Office.15%29.aspx)
-[WebPageFonts.Application Property (Office)](https://msdn.microsoft.com/library/2ba24e75-bfe1-59fb-8de4-75a96911388f%28Office.15%29.aspx)
-[Ruler2 Object (Office)](https://msdn.microsoft.com/library/a1632624-cdae-08db-4b5d-78311dbb224a%28Office.15%29.aspx)
-[Sync.Application Property (Office)](https://msdn.microsoft.com/library/f0bc8dd7-c33b-b34f-6ff6-785c92893203%28Office.15%29.aspx)
-[SearchFolders.Application Property (Office)](https://msdn.microsoft.com/library/c499edb2-ca9e-81ec-521c-82527a5fbb54%28Office.15%29.aspx)
-[TextRange2.Application Property (Office)](https://msdn.microsoft.com/library/3883561f-229b-92f9-eaea-83f00ac33f06%28Office.15%29.aspx)
-[SearchScope.Application Property (Office)](https://msdn.microsoft.com/library/a05fa069-e742-8c14-d10a-840469e6b535%28Office.15%29.aspx)
-[SmartArtQuickStyle Object (Office)](https://msdn.microsoft.com/library/e128920b-7adc-71e2-928b-84285f24d574%28Office.15%29.aspx)
-[RulerLevels2 Object (Office)](https://msdn.microsoft.com/library/01bd257c-1c26-a7cd-cf2a-8478c861b78a%28Office.15%29.aspx)
-[SharedWorkspaceFolders.Application Property (Office)](https://msdn.microsoft.com/library/28311d74-394e-885d-fb44-84c81ad5e768%28Office.15%29.aspx)
-[EffectParameter Object (Office)](https://msdn.microsoft.com/library/975669fc-cf50-ac64-e6b5-84ff5397829b%28Office.15%29.aspx)
-[GlowFormat Object (Office)](https://msdn.microsoft.com/library/b89e2245-e3a4-4a8c-cd4f-86396ad71a5b%28Office.15%29.aspx)
-[IMsoContactCard.Application Property (Office)](https://msdn.microsoft.com/library/0e7ea8c2-2dd4-5c5d-a0a4-87196c3a5e85%28Office.15%29.aspx)
-[CommandBarControl.Application Property (Office)](https://msdn.microsoft.com/library/b89baccc-b6c5-6557-625e-896264f5944e%28Office.15%29.aspx)
-[SoftEdgeFormat Object (Office)](https://msdn.microsoft.com/library/9d9b34e1-03b5-9e56-b9ea-89c7ecce0370%28Office.15%29.aspx)
-[GradientStops.Application Property (Office)](https://msdn.microsoft.com/library/f4c9ca0c-9796-8290-438f-8ce0a174cb18%28Office.15%29.aspx)
-[SmartArtNodes.Application Property (Office)](https://msdn.microsoft.com/library/a6e4b4c3-dd85-9934-1385-8da604e7c761%28Office.15%29.aspx)
-[PickerProperty.Application Property (Office)](https://msdn.microsoft.com/library/c520b8b6-ff0d-3bda-31c9-8fa55d6e4471%28Office.15%29.aspx)
-[ODSOFilter.Application Property (Office)](https://msdn.microsoft.com/library/63f533a4-633d-a111-72bf-9001c978045e%28Office.15%29.aspx)
-[WorkflowTasks.Application Property (Office)](https://msdn.microsoft.com/library/65ecee81-f689-a72e-6b77-91142dcbfe18%28Office.15%29.aspx)
-[SharedWorkspaceFile.Application Property (Office)](https://msdn.microsoft.com/library/082b4474-565e-0ba5-bfef-91d67b840b73%28Office.15%29.aspx)
-[SignatureSet.Application Property (Office)](https://msdn.microsoft.com/library/55eb69e8-f7d0-ed4c-ef9f-91e374b4f658%28Office.15%29.aspx)
-[PickerFields.Application Property (Office)](https://msdn.microsoft.com/library/a7020c4b-2b37-d0b7-92a6-927b4d96daa6%28Office.15%29.aspx)
-[DocumentLibraryVersions.Application Property (Office)](https://msdn.microsoft.com/library/fca7fac9-1989-92ac-ead4-969985ba5784%28Office.15%29.aspx)
-[TextFrame2 Object (Office)](https://msdn.microsoft.com/library/d2903007-70d4-0b98-e617-96fb2df26975%28Office.15%29.aspx)
-[SharedWorkspaceMember.Application Property (Office)](https://msdn.microsoft.com/library/d7433e83-bd18-9fcc-43e9-9716c54da43a%28Office.15%29.aspx)
-[ThemeFonts Object (Office)](https://msdn.microsoft.com/library/393865af-f008-d26c-5b82-9ae79766e511%28Office.15%29.aspx)
-[TextFrame2.Application Property (Office)](https://msdn.microsoft.com/library/4c99cb8f-b15b-2ecc-caeb-9c847b70d223%28Office.15%29.aspx)
-[EffectParameters.Application Property (Office)](https://msdn.microsoft.com/library/ed37618a-e40d-6e0a-27c5-9d306725f06a%28Office.15%29.aspx)
-[SmartArt Object (Office)](https://msdn.microsoft.com/library/24332c9b-87c9-7678-9d9f-9e25f2370afc%28Office.15%29.aspx)
-[Crop.Application Property (Office)](https://msdn.microsoft.com/library/88d2269e-24b0-07d9-36e0-a094f97bae2f%28Office.15%29.aspx)
-[GradientStop Object (Office)](https://msdn.microsoft.com/library/b5003bfc-9ac6-fd56-f214-a0d99db0cf07%28Office.15%29.aspx)
-[SmartArtColors.Application Property (Office)](https://msdn.microsoft.com/library/032862b8-213b-6729-7309-a10b07d5c0e1%28Office.15%29.aspx)
-[TextRange2 Object (Office)](https://msdn.microsoft.com/library/a6a59c9b-9b64-c1e2-2e98-a1f99025c877%28Office.15%29.aspx)
-[RulerLevel2 Object (Office)](https://msdn.microsoft.com/library/f1660a26-5990-9524-33f0-a2e3410160f3%28Office.15%29.aspx)
-[Permission.Application Property (Office)](https://msdn.microsoft.com/library/bc09401e-195c-ab94-a109-a49ecebc5f0c%28Office.15%29.aspx)
-[OfficeTheme Object (Office)](https://msdn.microsoft.com/library/0cdffd48-30cb-b0e7-d9f6-a4c882f82c8a%28Office.15%29.aspx)
-[SignatureInfo.Application Property (Office)](https://msdn.microsoft.com/library/98544420-0b08-3fc4-50cd-a787f52450ae%28Office.15%29.aspx)
-[ThemeFont.Application Property (Office)](https://msdn.microsoft.com/library/21ccd5a3-1270-fa47-be46-ae0433aa387d%28Office.15%29.aspx)
-[SmartArtNode.Application Property (Office)](https://msdn.microsoft.com/library/c934623d-49af-93ff-15cd-af1aacff2ef5%28Office.15%29.aspx)
-[Font2 Object (Office)](https://msdn.microsoft.com/library/8e892c52-56d9-72bd-2893-b15a17cd59ae%28Office.15%29.aspx)
-[SmartArtLayouts.Application Property (Office)](https://msdn.microsoft.com/library/884b8508-1860-f21f-a3f7-b236909b9efa%28Office.15%29.aspx)
-[FileTypes.Application Property (Office)](https://msdn.microsoft.com/library/fcb569ba-c8ad-f9df-f943-b2d678f90cda%28Office.15%29.aspx)
-[Font2.Application Property (Office)](https://msdn.microsoft.com/library/9991c892-6fc5-3487-8b4c-b3d9c8b90fba%28Office.15%29.aspx)
-[PickerField.Application Property (Office)](https://msdn.microsoft.com/library/66713504-a4cf-c2f6-0e20-b76071659e37%28Office.15%29.aspx)
-[SharedWorkspaceLinks.Application Property (Office)](https://msdn.microsoft.com/library/b0e7ca4f-2608-a668-a319-b7bd0f1d9fe4%28Office.15%29.aspx)
-[TabStop2.Application Property (Office)](https://msdn.microsoft.com/library/0a08a151-5ebb-a1ad-4fe0-b9a89dfa4ebf%28Office.15%29.aspx)
-[PickerProperties.Application Property (Office)](https://msdn.microsoft.com/library/c03030f7-b4a6-01c5-a46c-ba5a83fd800d%28Office.15%29.aspx)
-[RulerLevels2.Application Property (Office)](https://msdn.microsoft.com/library/174eba7d-38d8-6389-5a83-bb5a2cd2613b%28Office.15%29.aspx)
-[ContactCard.Application Property (Office)](https://msdn.microsoft.com/library/9782d907-41b2-2c38-3fdb-bb8c0385fa41%28Office.15%29.aspx)
-[Crop Object (Office)](https://msdn.microsoft.com/library/21ac150e-0a8f-c77b-717f-bf38fbced5a3%28Office.15%29.aspx)
-[TextColumn2 Object (Office)](https://msdn.microsoft.com/library/631387c1-2b7a-6c98-d05f-c054434c8b9d%28Office.15%29.aspx)
-[TabStops2.Application Property (Office)](https://msdn.microsoft.com/library/5014a025-4502-2efd-1d34-c6fbcf403f40%28Office.15%29.aspx)
-[PictureEffects Object (Office)](https://msdn.microsoft.com/library/bc0e1cfd-7328-360d-872e-c71ae93162ed%28Office.15%29.aspx)
-[CommandBarButton.Application Property (Office)](https://msdn.microsoft.com/library/c15d6f7e-c728-0e8a-9c56-c8b4cd59822a%28Office.15%29.aspx)
-[MetaProperty.Application Property (Office)](https://msdn.microsoft.com/library/470b8214-30e9-acc2-a077-cb9b24608aab%28Office.15%29.aspx)
-[SmartArtQuickStyles Object (Office)](https://msdn.microsoft.com/library/d488ac12-160b-c518-2b56-cc0a3a45c6b7%28Office.15%29.aspx)
-[GlowFormat.Application Property (Office)](https://msdn.microsoft.com/library/561823d4-9b41-b9ca-71f4-ccb2a12e3ce9%28Office.15%29.aspx)
-[CustomXMLValidationErrors.Application Property (Office)](https://msdn.microsoft.com/library/4fa8137e-57c3-2762-8dd9-ce5fd745cd0c%28Office.15%29.aspx)
-[SharedWorkspaceFolder.Application Property (Office)](https://msdn.microsoft.com/library/029b4372-7dbe-cbcf-c13a-cfdf48969a87%28Office.15%29.aspx)
-[TabStop2 Object (Office)](https://msdn.microsoft.com/library/fee461a9-684b-e6c2-a74a-d0aa161d0d9c%28Office.15%29.aspx)
-[ODSOColumns.Application Property (Office)](https://msdn.microsoft.com/library/e10ed845-4f3d-5478-0e70-d0c6bb76522a%28Office.15%29.aspx)
-[PictureEffect Object (Office)](https://msdn.microsoft.com/library/af3f742a-e082-1abd-7df2-d1fb2f57c8a2%28Office.15%29.aspx)
-[SmartArt.Application Property (Office)](https://msdn.microsoft.com/library/43c6690b-1847-48ee-23e7-d20b73ea9969%28Office.15%29.aspx)
-[DocumentInspector.Application Property (Office)](https://msdn.microsoft.com/library/7ad91b98-c139-6700-d8cb-d52581266296%28Office.15%29.aspx)
-[SharedWorkspaceMembers.Application Property (Office)](https://msdn.microsoft.com/library/dc694dd4-b3b9-0d30-729e-d7fdfcdbe2f5%28Office.15%29.aspx)
-[SmartArtLayout.Application Property (Office)](https://msdn.microsoft.com/library/4834cf2d-413e-bfcc-e824-d95b4a33c6c1%28Office.15%29.aspx)
-[DocumentInspectors.Application Property (Office)](https://msdn.microsoft.com/library/ea06ce71-5e18-1af3-2840-f1abeed4fbf1%28Office.15%29.aspx)
-[UserPermission.Application Property (Office)](https://msdn.microsoft.com/library/03d02785-db83-061c-4039-f235ba15b2f1%28Office.15%29.aspx)
-[ParagraphFormat2.Application Property (Office)](https://msdn.microsoft.com/library/2535a031-3fbb-3a86-e8f9-f4a91dd2278c%28Office.15%29.aspx)
-[CommandBar.Application Property (Office)](https://msdn.microsoft.com/library/afe6da31-95af-1a41-4ce7-f5b0c4d65ad7%28Office.15%29.aspx)
-[CustomXMLNode.Application Property (Office)](https://msdn.microsoft.com/library/2cf465cc-fda8-7599-7cd3-f8ff72746fa3%28Office.15%29.aspx)
-[SmartArtQuickStyle.Application Property (Office)](https://msdn.microsoft.com/library/7c41f756-f85e-a876-0a0e-fab0537e9eed%28Office.15%29.aspx)
-[ThemeColorScheme Object (Office)](https://msdn.microsoft.com/library/aa4e888e-cdcd-4682-13e3-fcae1a9e4d46%28Office.15%29.aspx)
-[CustomXMLNodes.Application Property (Office)](https://msdn.microsoft.com/library/e336d63b-b484-b2dc-8308-ff66327d2376%28Office.15%29.aspx)
+[ServerPolicy.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.ServerPolicy.Application)
+
+[PictureEffect.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.PictureEffect.Application)
+
+[CustomXMLParts.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.CustomXMLParts.Application)
+
+[SmartArtColors Object (Office)](https://docs.microsoft.com/office/vba/api/Office.SmartArtColors)
+
+[ReflectionFormat Object (Office)](https://docs.microsoft.com/office/vba/api/Office.ReflectionFormat)
+
+[CustomXMLSchemaCollection.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.CustomXMLSchemaCollection.Application)
+
+[ReflectionFormat.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.ReflectionFormat.Application)
+
+[Signature.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.Signature.Application)
+
+[SmartArtColor.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SmartArtColor.Application)
+
+[CustomXMLSchema.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.CustomXMLSchema.Application)
+
+[SharedWorkspaceTask.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SharedWorkspaceTask.Application)
+
+[CustomXMLPrefixMappings.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.CustomXMLPrefixMappings.Application)
+
+[SmartArtColor Object (Office)](https://docs.microsoft.com/office/vba/api/Office.SmartArtColor)
+
+[CustomXMLPrefixMapping.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.CustomXMLPrefixMapping.Application)
+
+[OfficeTheme.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.OfficeTheme.Application)
+
+[RulerLevel2.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.RulerLevel2.Application)
+
+[MetaProperties.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.MetaProperties.Application)
+
+[BulletFormat2.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.BulletFormat2.Application)
+
+[ScopeFolders.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.ScopeFolders.Application)
+
+[COMAddIn.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.COMAddIn.Application)
+
+[WorkflowTemplates.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.WorkflowTemplates.Application)
+
+[ThemeColorScheme.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.ThemeColorScheme.Application)
+
+[PickerDialog.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.PickerDialog.Application)
+
+[ODSOColumn.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.ODSOColumn.Application)
+
+[ThemeEffectScheme Object (Office)](https://docs.microsoft.com/office/vba/api/Office.ThemeEffectScheme)
+
+[SmartArtNode Object (Office)](https://docs.microsoft.com/office/vba/api/Office.SmartArtNode)
+
+[CustomXMLValidationError.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.CustomXMLValidationError.Application)
+
+[ODSOFilters.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.ODSOFilters.Application)
+
+[COMAddIns.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.COMAddIns.Application)
+
+[FileDialogFilters.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.FileDialogFilters.Application)
+
+[WorkflowTemplate.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.WorkflowTemplate.Application)
+
+[ThemeColor Object (Office)](https://docs.microsoft.com/office/vba/api/Office.ThemeColor)
+
+[TextColumn2.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.TextColumn2.Application)
+
+[SmartArtQuickStyles.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SmartArtQuickStyles.Application)
+
+[EffectParameter.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.EffectParameter.Application)
+
+[WorkflowTask.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.WorkflowTask.Application)
+
+[ThemeFontScheme Object (Office)](https://docs.microsoft.com/office/vba/api/Office.ThemeFontScheme)
+
+[FileDialogSelectedItems.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.FileDialogSelectedItems.Application)
+
+[SmartArtLayout Object (Office)](https://docs.microsoft.com/office/vba/api/Office.SmartArtLayout)
+
+[PickerResult.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.PickerResult.Application)
+
+[GradientStop.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.GradientStop.Application)
+
+[SharedWorkspaceTasks.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SharedWorkspaceTasks.Application)
+
+[SoftEdgeFormat.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SoftEdgeFormat.Application)
+
+[ThemeFontScheme.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.ThemeFontScheme.Application)
+
+[CommandBarPopup.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.CommandBarPopup.Application)
+
+[ThemeColor.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.ThemeColor.Application)
+
+[CommandBarControls.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.CommandBarControls.Application)
+
+[FileDialogFilter.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.FileDialogFilter.Application)
+
+[CommandBars.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.CommandBars.Application)
+
+[FileDialog.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.FileDialog.Applicationx)
+
+[SmartDocument.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SmartDocument.Application)
+
+[NewFile.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.NewFile.Application)
+
+[ThemeEffectScheme.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.ThemeEffectScheme.Application)
+
+[WebPageFonts.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.WebPageFonts.Application)
+
+[Ruler2 Object (Office)](https://docs.microsoft.com/office/vba/api/Office.Ruler2)
+
+[Sync.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.Sync.Application)
+
+[SearchFolders.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SearchFolders.Application)
+
+[TextRange2.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.TextRange2.Application)
+
+[SearchScope.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SearchScope.Application)
+
+[SmartArtQuickStyle Object (Office)](https://docs.microsoft.com/office/vba/api/Office.SmartArtQuickStyle)
+
+[RulerLevels2 Object (Office)](https://docs.microsoft.com/office/vba/api/Office.RulerLevels2)
+
+[SharedWorkspaceFolders.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SharedWorkspaceFolders.Application)
+
+[EffectParameter Object (Office)](https://docs.microsoft.com/office/vba/api/Office.EffectParameter)
+
+[GlowFormat Object (Office)](https://docs.microsoft.com/office/vba/api/Office.GlowFormat)
+
+[IMsoContactCard.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.IMsoContactCard.Application)
+
+[CommandBarControl.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.CommandBarControl.Application)
+
+[SoftEdgeFormat Object (Office)](https://docs.microsoft.com/office/vba/api/Office.SoftEdgeFormat)
+
+[GradientStops.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.GradientStops.Application)
+
+[SmartArtNodes.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SmartArtNodes.Application)
+
+[PickerProperty.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.PickerProperty.Application)
+
+[ODSOFilter.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.ODSOFilter.Application)
+
+[WorkflowTasks.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.WorkflowTasks.Application)
+
+[SharedWorkspaceFile.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SharedWorkspaceFile.Application)
+
+[SignatureSet.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SignatureSet.Application)
+
+[PickerFields.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.PickerFields.Application)
+
+[DocumentLibraryVersions.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.DocumentLibraryVersions.Application)
+
+[TextFrame2 Object (Office)](https://docs.microsoft.com/office/vba/api/Office.TextFrame2)
+
+[SharedWorkspaceMember.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SharedWorkspaceMember.Application)
+
+[ThemeFonts Object (Office)](https://docs.microsoft.com/office/vba/api/Office.ThemeFonts)
+
+[TextFrame2.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.TextFrame2.Application)
+
+[EffectParameters.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.EffectParameters.Application)
+
+[SmartArt Object (Office)](https://docs.microsoft.com/office/vba/api/Office.SmartArt)
+
+[Crop.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.Crop.Application)
+
+[GradientStop Object (Office)](https://docs.microsoft.com/office/vba/api/Office.GradientStop)
+
+[SmartArtColors.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SmartArtColors.Application)
+
+[TextRange2 Object (Office)](https://docs.microsoft.com/office/vba/api/Office.TextRange2)
+
+[RulerLevel2 Object (Office)](https://docs.microsoft.com/office/vba/api/Office.RulerLevel2)
+
+[Permission.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.Permission.Application)
+
+[OfficeTheme Object (Office)](https://docs.microsoft.com/office/vba/api/Office.OfficeTheme)
+
+[SignatureInfo.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SignatureInfo.Application)
+
+[ThemeFont.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.ThemeFont.Application)
+
+[SmartArtNode.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SmartArtNode.Application)
+
+[Font2 Object (Office)](https://docs.microsoft.com/office/vba/api/Office.Font2)
+
+[SmartArtLayouts.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SmartArtLayouts.Application)
+
+[FileTypes.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.FileTypes.Application)
+
+[Font2.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.Font2.Application)
+
+[PickerField.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.PickerField.Application)
+
+[SharedWorkspaceLinks.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SharedWorkspaceLinks.Application)
+
+[TabStop2.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.TabStop2.Application)
+
+[PickerProperties.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.PickerProperties.Application)
+
+[RulerLevels2.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.RulerLevels2.Application)
+
+[ContactCard.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.ContactCard.Application)
+
+[Crop Object (Office)](https://docs.microsoft.com/office/vba/api/Office.Crop)
+
+[TextColumn2 Object (Office)](https://docs.microsoft.com/office/vba/api/Office.TextColumn2)
+
+[TabStops2.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.TabStops2.Application)
+
+[PictureEffects Object (Office)](https://docs.microsoft.com/office/vba/api/Office.PictureEffects)
+
+[CommandBarButton.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.CommandBarButton.Application)
+
+[MetaProperty.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.MetaProperty.Application)
+
+[SmartArtQuickStyles Object (Office)](https://docs.microsoft.com/office/vba/api/Office.SmartArtQuickStyles)
+
+[GlowFormat.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.GlowFormat.Application)
+
+[CustomXMLValidationErrors.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.CustomXMLValidationErrors.Application)
+
+[SharedWorkspaceFolder.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SharedWorkspaceFolder.Application)
+
+[TabStop2 Object (Office)](https://docs.microsoft.com/office/vba/api/Office.TabStop2)
+
+[ODSOColumns.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.ODSOColumns.Application)
+
+[PictureEffect Object (Office)](https://docs.microsoft.com/office/vba/api/Office.PictureEffect)
+
+[SmartArt.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SmartArt.Application)
+
+[DocumentInspector.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.DocumentInspector.Application)
+
+[SharedWorkspaceMembers.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SharedWorkspaceMembers.Application)
+
+[SmartArtLayout.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SmartArtLayout.Application)
+
+[DocumentInspectors.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.DocumentInspectors.Application)
+
+[UserPermission.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.UserPermission.Application)
+
+[ParagraphFormat2.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.ParagraphFormat2.Application)
+
+[CommandBar.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.CommandBar.Application)
+
+[CustomXMLNode.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.CustomXMLNode.Application)
+
+[SmartArtQuickStyle.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SmartArtQuickStyle.Application)
+
+[ThemeColorScheme Object (Office)](https://docs.microsoft.com/office/vba/api/Office.ThemeColorScheme)
+
+[CustomXMLNodes.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.CustomXMLNodes.Application)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
