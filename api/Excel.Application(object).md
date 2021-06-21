@@ -9,6 +9,7 @@ api_name:
 ms.assetid: 19b73597-5cf9-4f56-8227-b5211f657f6f
 ms.date: 03/27/2019
 localization_priority: Priority
+description: Application object (Excel)
 ---
 
 # Application object (Excel)
@@ -29,7 +30,7 @@ Application.Windows("book1.xls").Activate
 The following example creates an Excel workbook object in another application and then opens a workbook in Excel.
 
 ```vb
-Set xl = CreateObject("Excel.Sheet") 
+Set xl = CreateObject("Excel.Sheet")
 xl.Application.Workbooks.Open "newbook.xls"
 ```
 
@@ -41,7 +42,7 @@ Many of the properties and methods that return the most common user-interface ob
 Application.ActiveCell.Font.Bold = True
 ```
 
-You can write: 
+You can write:
 
 ```vb
 ActiveCell.Font.Bold = True
@@ -52,9 +53,9 @@ ActiveCell.Font.Bold = True
 
 The **Application** object contains:
 
-- Application-wide settings and options.   
+- Application-wide settings and options.
 - Methods that return top-level objects, such as **ActiveCell**, **ActiveSheet**, and so on.
-    
+
 ## Events
 
 - [AfterCalculate](Excel.Application.AfterCalculate.md)
@@ -323,6 +324,7 @@ The **Application** object contains:
 - [RTD](Excel.Application.RTD.md)
 - [ScreenUpdating](Excel.Application.ScreenUpdating.md)
 - [Selection](Excel.Application.Selection.md)
+- [SensitivityLabelPolicy](Excel.Application.SensitivityLabelPolicy.md)
 - [Sheets](Excel.Application.Sheets.md)
 - [SheetsInNewWorkbook](Excel.Application.SheetsInNewWorkbook.md)
 - [ShowChartTipNames](Excel.Application.ShowChartTipNames.md)

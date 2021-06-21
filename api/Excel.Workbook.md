@@ -9,6 +9,7 @@ api_name:
 ms.assetid: 8c00aa60-c974-eed3-0812-3c9625eb0d4c
 ms.date: 05/15/2019
 localization_priority: Normal
+description: Workbook object (Excel)
 ---
 
 
@@ -38,7 +39,7 @@ The index number denotes the order in which the workbooks were opened or created
 
 <br/>
 
-The **[Name](Excel.Workbook.Name.md)** property returns the workbook name. You cannot set the name by using this property; if you need to change the name, use the **[SaveAs](Excel.Workbook.SaveAs.md)** method to save the workbook under a different name. 
+The **[Name](Excel.Workbook.Name.md)** property returns the workbook name. You cannot set the name by using this property; if you need to change the name, use the **[SaveAs](Excel.Workbook.SaveAs.md)** method to save the workbook under a different name.
 
 The following example activates Sheet1 in the workbook named Cogs.xls (the workbook must already be open in Microsoft Excel).
 
@@ -64,14 +65,14 @@ Sub SendTab()
    Dim wks As Worksheet
    Application.ScreenUpdating = False
    Set wks = ActiveSheet
-   
+
    'Copy the target worksheet, specified in cell C1, to the clipboard.
    Worksheets(Range("C1").Value).Copy
-   
+
    'Send the content in the clipboard to the email account specified in cell A1,
    'using the subject line specified in cell B1.
    ActiveWorkbook.SendMail wks.Range("A1").Value, wks.Range("B1").Value
-   
+
    'Do not save changes, and turn screen updating back on.
    ActiveWorkbook.Close savechanges:=False
    Application.ScreenUpdating = True
@@ -280,6 +281,7 @@ End Sub
 - [RevisionNumber](Excel.Workbook.RevisionNumber.md)
 - [Saved](Excel.Workbook.Saved.md)
 - [SaveLinkValues](Excel.Workbook.SaveLinkValues.md)
+- [SensitivityLabel](Excel.Workbook.SensitivityLabel.md)
 - [ServerPolicy](Excel.Workbook.ServerPolicy.md)
 - [ServerViewableItems](Excel.Workbook.ServerViewableItems.md)
 - [SharedWorkspace](Excel.Workbook.SharedWorkspace.md)

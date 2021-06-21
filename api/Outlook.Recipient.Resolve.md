@@ -35,13 +35,11 @@ This Visual Basic for Applications (VBA) example uses  **[CreateItem](Outlook.Ap
 
 
 ```vb
-Sub AssignTask() 
+Sub CreateAssignedTask() 
  
  Dim myItem As Outlook.TaskItem 
  
  Dim myDelegate As Outlook.Recipient 
- 
- 
  
  Set MyItem = Application.CreateItem(olTaskItem) 
  
@@ -53,13 +51,9 @@ Sub AssignTask()
  
  If myDelegate.Resolved Then 
  
- myItem.Subject = "Prepare Agenda For Meeting" 
- 
- myItem.DueDate = Now + 30 
+ myItem.Subject = "Test task" 
  
  myItem.Display 
- 
- myItem.Send 
  
  End If 
  
