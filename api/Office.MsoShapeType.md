@@ -44,6 +44,7 @@ Specifies the type of a shape or range of shapes.
 |**msoPlaceholder**|14|Placeholder|
 |**msoScriptAnchor**|18|Script anchor|
 |**msoShapeTypeMixed**|-2|Mixed shape type|
+|**msoSlicer**|25|Slicer|
 |**msoTable**|19|Table|
 |**msoTextBox**|17|Text box|
 |**msoTextEffect**|15|Text effect|

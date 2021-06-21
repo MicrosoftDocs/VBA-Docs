@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ProtectedViewWindow.Edit method (PowerPoint)
 
-Changes the password of the  **ProtectedViewWindow** object.
+Provides the password of the **ProtectedViewWindow** object to make editing possible.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ A variable that represents a [ProtectedViewWindow](PowerPoint.Prote
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ModifyPassword_|Optional|**String**|The new password to change to.|
+| _ModifyPassword_|Optional|**String**|The modification password as set in the file.|
 
 ## Return value
 
