@@ -2,14 +2,14 @@
 title: ADO for Visual C++ syntax index for COM
 ms.prod: access
 ms.assetid: e016746e-07a8-10a1-b8e4-7dbb7f6cdaf2
-ms.date: 05/12/2021
+ms.date: 10/12/2018
 localization_priority: Normal
 ---
 
 
 # ADO for Visual C++ syntax index for COM
 
-**Applies to:** Access 2013 | Access 2016 | Access 2019
+**Applies to:** Access 2013 | Access 2016
 
 This index is a cross-reference to the ADO Language Reference based on Microsoft Visual C++.
 
@@ -31,7 +31,7 @@ Method and property syntax in Visual C++ is listed for the following elements:
     
 ## See also
 
-- [Access for developers forum on Microsoft Q&A](https://docs.microsoft.com/answers/topics/office-access-dev.html)
+- [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
