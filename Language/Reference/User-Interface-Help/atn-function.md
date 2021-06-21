@@ -24,26 +24,13 @@ The required _number_ [argument](../../Glossary/vbe-glossary.md#argument) is a [
 
 The **Atn** function takes the ratio of two sides of a right triangle (_number_) and returns the corresponding angle in radians. The ratio is the length of the side opposite the angle divided by the length of the side adjacent to the angle.
 
+> [NOTE!] 
+> This is the equivalent of the **ATAN()** function in Excel. Oddly, **Excel.WorksheetFunctions.ATAN()** does not exist (as with other Excel formula functions). You can instead use this VBA **Atn()** function.
+
 The range of the result is **-**[pi](../../Glossary/vbe-glossary.md#pi)/2 to pi/2 radians. To convert degrees to radians, multiply degrees by pi/180. To convert radians to degrees, multiply radians by 180/pi.
 
 > [!NOTE] 
 > **Atn** is the inverse trigonometric function of **[Tan](tan-function.md)**, which takes an angle as its argument and returns the ratio of two sides of a right triangle. Do not confuse **Atn** with the cotangent, which is the simple inverse of a tangent (1/tangent).
-
-
-## Example
-
-This example uses the **Atn** function to calculate the value of pi.
-
-
-```vb
-Dim IntVar, StrVar, DateVar, MyCheck
-' Initialize variables.
-IntVar = 459: StrVar = "Hello World": DateVar = #2/12/69# 
-MyCheck = VarType(IntVar)    ' Returns 2.
-MyCheck = VarType(DateVar)    ' Returns 7.
-MyCheck = VarType(StrVar)    ' Returns 8.
-
-```
 
 ## See also
 

@@ -38,7 +38,20 @@ For Each nm In ActiveWorkbook.Names
 Next
 ```
 
+## Known issues
 
+This property has a bug. Assigning a localized formula to this property fails. The property expects the same formula syntax as the RefersTo property: US format and list separators. Example:
+
+```vb
+Sub Example()
+    Dim Nm As Name
+    Set Nm = ThisWorkbook.Names("test")
+    'If Windows is set to use ; as listseparator, this fails:
+    Nm.RefersToLocal = "=SUM(Sheet1!$A$1,Sheet1!$A$3)"
+    'If Windows is set to use ; as listseparator, this works:
+    Nm.RefersToLocal = "=SUM(Sheet1!$A$1;Sheet1!$A$3)"
+End Sub
+```
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
