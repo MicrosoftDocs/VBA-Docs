@@ -5,7 +5,7 @@ f1_keywords:
 - vbapj.chm132449
 ms.prod: office
 ms.assetid: 3b6afb34-f3cd-4ccc-8a87-d49b346ffc92
-ms.date: 06/08/2017
+ms.date: 06/22/2021
 localization_priority: Normal
 ---
 
@@ -14,183 +14,182 @@ localization_priority: Normal
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Pane.Parent Property (Project)](https://msdn.microsoft.com/library/b97fbe36-7232-4b41-07d2-6f0d9eb35647%28Office.15%29.aspx)
+[Pane.Parent Property (Project)](../api/Project.Pane.Parent.md)
 
-[Groups.Parent Property (Project)](https://msdn.microsoft.com/library/a9b29686-d459-3936-a351-f5081f2b3cdf%28Office.15%29.aspx)
+[Groups.Parent Property (Project)](../api/Project.Groups.Parent.md)
 
-[WorkWeekDay.Parent Property (Project)](https://msdn.microsoft.com/library/e66027f6-f666-59f4-b1dc-479645dc9a65%28Office.15%29.aspx)
+[WorkWeekDay.Parent Property (Project)](../api/Project.WorkWeekDay.Parent.md)
 
-[GroupCriterion2.Parent Property (Project)](https://msdn.microsoft.com/library/6b376fd9-a093-789c-37ff-5066e1aebb16%28Office.15%29.aspx)
+[GroupCriterion2.Parent Property (Project)](../api/Project.GroupCriterion2.Parent.md)
 
-[Windows.Parent Property (Project)](https://msdn.microsoft.com/library/8ef76e24-d2eb-2eb5-1897-4c30661b4deb%28Office.15%29.aspx)
+[Windows.Parent Property (Project)](../api/Project.Windows.Parent.md)
 
-[Projects.Parent Property (Project)](https://msdn.microsoft.com/library/0d892acb-413a-0765-1257-3bad4d3c7b67%28Office.15%29.aspx)
+[Projects.Parent Property (Project)](../api/Project.Projects.Parent.md)
 
-[ViewsSingle.Parent Property (Project)](https://msdn.microsoft.com/library/6206bf01-2b02-574f-ed5a-7a93a2629cd3%28Office.15%29.aspx)
+[ViewsSingle.Parent Property (Project)](../api/Project.ViewsSingle.Parent.md)
 
-[Cell.Parent Property (Project)](https://msdn.microsoft.com/library/8e2f9a5d-b914-f9e1-b922-ade8fb7ade01%28Office.15%29.aspx)
+[Cell.Parent Property (Project)](../api/Project.Cell.Parent.md)
 
-[PayRates.Parent Property (Project)](https://msdn.microsoft.com/library/32fd66ee-f4c6-d903-80c4-6ee7e73d8ad6%28Office.15%29.aspx)
+[PayRates.Parent Property (Project)](../api/Project.PayRates.Parent.md)
 
-[ViewCombination.Parent Property (Project)](https://msdn.microsoft.com/library/e98d4c6a-3e2f-62ee-6b11-6c74e0bc69c7%28Office.15%29.aspx)
+[ViewCombination.Parent Property (Project)](../api/Project.ViewCombination.Parent.md)
 
-[PredecessorDrivers.Parent Property (Project)](https://msdn.microsoft.com/library/ef4efae1-c5d7-4fe0-0841-2506a2b1a4db%28Office.15%29.aspx)
+[PredecessorDrivers.Parent Property (Project)](../api/Project.PredecessorDrivers.Parent.md)
 
-[Filter.Parent Property (Project)](https://msdn.microsoft.com/library/454c8c00-f142-12b8-afcd-7848f6e92c41%28Office.15%29.aspx)
+[Filter.Parent Property (Project)](../api/Project.Filter.Parent.md)
 
-[WeekDays.Parent Property (Project)](https://msdn.microsoft.com/library/0282a021-d2a8-84c7-1030-0b7845cf42f3%28Office.15%29.aspx)
+[WeekDays.Parent Property (Project)](../api/Project.WeekDays.Parent.md)
 
-[View.Parent Property (Project)](https://msdn.microsoft.com/library/12356d50-a547-d3ba-8124-70263cfebd96%28Office.15%29.aspx)
+[View.Parent Property (Project)](../api/Project.View.Parent.md)
 
-[ResourceGroups.Parent Property (Project)](https://msdn.microsoft.com/library/baa26178-4e06-2a75-f017-e6fc2e6ca7ee%28Office.15%29.aspx)
+[ResourceGroups.Parent Property (Project)](../api/Project.ResourceGroups.Parent.md)
 
-[WorkWeek.Parent Property (Project)](https://msdn.microsoft.com/library/ae4ce80c-7800-4ade-4d80-6710dfc38a4c%28Office.15%29.aspx)
+[WorkWeek.Parent Property (Project)](../api/Project.WorkWeek.Parent.md)
 
-[WorkWeek.WeekDays Property (Project)](https://msdn.microsoft.com/library/6348f47c-5d15-0bd9-cd50-de70a66c7674%28Office.15%29.aspx)
+[WorkWeek.WeekDays Property (Project)](../api/Project.WorkWeek.WeekDays.md)
 
-[OutlineCodes.Parent Property (Project)](https://msdn.microsoft.com/library/6ec19253-3261-cc81-b01a-9eac71d84925%28Office.15%29.aspx)
+[OutlineCodes.Parent Property (Project)](../api/Project.OutlineCodes.Parent.md)
 
-[GroupCriteria2.Parent Property (Project)](https://msdn.microsoft.com/library/75d6f98f-99ec-a4eb-f7b9-aac39c9e7fc8%28Office.15%29.aspx)
+[GroupCriteria2.Parent Property (Project)](../api/Project.GroupCriteria2.Parent.md)
 
-[ActualStartDrivers.Parent Property (Project)](https://msdn.microsoft.com/library/d824cf8d-2297-d6cb-f6a4-9c3fd36a7521%28Office.15%29.aspx)
+[ActualStartDrivers.Parent Property (Project)](../api/Project.ActualStartDrivers.Parent.md)
 
-[Resources.Parent Property (Project)](https://msdn.microsoft.com/library/138d0de6-c374-6f7d-0e4d-6bb515ce8c4e%28Office.15%29.aspx)
+[Resources.Parent Property (Project)](../api/Project.Resources.Parent.md)
 
-[CostRateTable.Parent Property (Project)](https://msdn.microsoft.com/library/b40fb79c-0f23-b175-28c3-8a52ec70d8eb%28Office.15%29.aspx)
+[CostRateTable.Parent Property (Project)](../api/Project.CostRateTable.Parent.md)
 
-[TaskGroups.Parent Property (Project)](https://msdn.microsoft.com/library/7517efda-4cea-1280-02d2-cc4026a33855%28Office.15%29.aspx)
+[TaskGroups.Parent Property (Project)](../api/Project.TaskGroups.Parent.md)
 
-[Exceptions.Parent Property (Project)](https://msdn.microsoft.com/library/d9e45347-9488-f1f6-c74b-bbf64c008cf3%28Office.15%29.aspx)
+[Exceptions.Parent Property (Project)](../api/Project.Exceptions.Parent.md)
 
-[Windows2.Parent Property (Project)](https://msdn.microsoft.com/library/621fc860-22c8-2c79-ba85-6372f16c7ddb%28Office.15%29.aspx)
+[Windows2.Parent Property (Project)](../api/Project.Windows2.Parent.md)
 
-[Availabilities.Parent Property (Project)](https://msdn.microsoft.com/library/051529bb-669f-9792-cd4f-790a39ac2dec%28Office.15%29.aspx)
+[Availabilities.Parent Property (Project)](../api/Project.Availabilities.Parent.md)
 
-[Availability.Parent Property (Project)](https://msdn.microsoft.com/library/8fc6f0dc-3f8b-1bc6-619f-0dbfa84015b6%28Office.15%29.aspx)
+[Availability.Parent Property (Project)](../api/Project.Availability.Parent.md)
 
-[Views.Parent Property (Project)](https://msdn.microsoft.com/library/d1727d12-375b-dba0-0e39-433b6de0ee00%28Office.15%29.aspx)
+[Views.Parent Property (Project)](../api/Project.Views.Parent.md)
 
-[Filters.Parent Property (Project)](https://msdn.microsoft.com/library/ce71c9c9-9cbf-a9f9-a976-32803852724e%28Office.15%29.aspx)
+[Filters.Parent Property (Project)](../api/Project.Filters.Parent.md)
 
-[GroupCriterion.Parent Property (Project)](https://msdn.microsoft.com/library/3ad873c4-5b3d-bc3f-77e0-1de87c65889a%28Office.15%29.aspx)
+[GroupCriterion.Parent Property (Project)](../api/Project.GroupCriterion.Parent.md)
 
-[TimeScaleValues.Parent Property (Project)](https://msdn.microsoft.com/library/1235dcdf-1cb0-23d3-f943-4e7acf513b40%28Office.15%29.aspx)
+[TimeScaleValues.Parent Property (Project)](../api/Project.TimeScaleValues.Parent.md)
 
-[ResourceGroups2.Parent Property (Project)](https://msdn.microsoft.com/library/37f89ae7-9933-6def-9e83-6ac4d417998f%28Office.15%29.aspx)
+[ResourceGroups2.Parent Property (Project)](../api/Project.ResourceGroups2.Parent.md)
 
-[Assignment.Parent Property (Project)](https://msdn.microsoft.com/library/0bc76866-8710-6c8b-a7eb-e8650a3baed7%28Office.15%29.aspx)
+[Assignment.Parent Property (Project)](../api/Project.Assignment.Parent.md)
 
-[StartDriver.Parent Property (Project)](https://msdn.microsoft.com/library/5960cb0b-7831-882b-5885-44ffc811ff42%28Office.15%29.aspx)
+[StartDriver.Parent Property (Project)](../api/Project.StartDriver.Parent.md)
 
-[Selection.Parent Property (Project)](https://msdn.microsoft.com/library/a0f83fdd-ecdb-171b-d1b4-982292859c98%28Office.15%29.aspx)
+[Selection.Parent Property (Project)](../api/Project.Selection.Parent.md)
 
-[Project.Parent Property (Project)](https://msdn.microsoft.com/library/c09194fc-3735-ed96-ec15-499682ed33e7%28Office.15%29.aspx)
+[Project.Parent Property (Project)](../api/Project.Project.Parent.md)
 
-[Report.Parent Property (Project)](https://msdn.microsoft.com/library/d72508cc-927f-9f2b-207b-9b4d8b6eebfc%28Office.15%29.aspx)
+[Report.Parent Property (Project)](../api/Project.report.parent.md)
 
-[Exception.Parent Property (Project)](https://msdn.microsoft.com/library/9a7d596c-a288-1d68-79b6-3e1272b9a6f1%28Office.15%29.aspx)
+[Exception.Parent Property (Project)](../api/Project.Exception.Parent.md)
 
-[Year.Parent Property (Project)](https://msdn.microsoft.com/library/0705b543-be3e-a6ec-5f0d-83dad6a79ff6%28Office.15%29.aspx)
+[Year.Parent Property (Project)](../api/Project.Year.Parent.md)
 
-[Resource.Parent Property (Project)](https://msdn.microsoft.com/library/190dc33d-40f5-7edd-1bf5-d1e711ea3320%28Office.15%29.aspx)
+[Resource.Parent Property (Project)](../api/Project.Resource.Parent.md)
 
-[CodeMaskLevel.Parent Property (Project)](https://msdn.microsoft.com/library/de0d7817-c13b-d17e-6550-937b9219db65%28Office.15%29.aspx)
+[CodeMaskLevel.Parent Property (Project)](../api/Project.CodeMaskLevel.Parent.md)
 
-[Table.Parent Property (Project)](https://msdn.microsoft.com/library/ba398f84-4602-e650-19e7-f00b6046a249%28Office.15%29.aspx)
+[Table.Parent Property (Project)](../api/Project.Table.Parent.md)
 
-[Assignments.Parent Property (Project)](https://msdn.microsoft.com/library/75727c63-1fd4-007a-8d62-d29491f19d59%28Office.15%29.aspx)
+[Assignments.Parent Property (Project)](../api/Project.Assignments.Parent.md)
 
-[Calendar.Parent Property (Project)](https://msdn.microsoft.com/library/b86fa5e8-f468-862e-f8a9-7ab2cb6b43b3%28Office.15%29.aspx)
+[Calendar.Parent Property (Project)](../api/Project.Calendar.Parent.md)
 
-[OverAllocatedAssignments.Parent Property (Project)](https://msdn.microsoft.com/library/d7a74d73-b5bc-69ea-a6c6-312d91df04d6%28Office.15%29.aspx)
+[OverAllocatedAssignments.Parent Property (Project)](../api/Project.OverAllocatedAssignments.Parent.md)
 
-[TableFields.Parent Property (Project)](https://msdn.microsoft.com/library/e8ae695a-3054-5981-129c-5e05f661bebe%28Office.15%29.aspx)
+[TableFields.Parent Property (Project)](../api/Project.TableFields.Parent.md)
 
-[Group2.Parent Property (Project)](https://msdn.microsoft.com/library/fa781365-fdae-700c-a130-650343c01562%28Office.15%29.aspx)
+[Group2.Parent Property (Project)](../api/Project.Group2.Parent.md)
 
-[Month.Parent Property (Project)](https://msdn.microsoft.com/library/faac3164-4a07-0dfe-75e7-ad2006d350e8%28Office.15%29.aspx)
+[Month.Parent Property (Project)](../api/Project.Month.Parent.md)
 
-[WeekDay.Parent Property (Project)](https://msdn.microsoft.com/library/650b47c2-beb0-ac6d-3cb8-650f1b285bb3%28Office.15%29.aspx)
+[WeekDay.Parent Property (Project)](../api/Project.WeekDay.Parent.md)
 
-[WorkWeekDays.Parent Property (Project)](https://msdn.microsoft.com/library/c20dacec-8d62-75b7-abe6-d0bd475e48a4%28Office.15%29.aspx)
+[WorkWeekDays.Parent Property (Project)](../api/Project.WorkWeekDays.Parent.md)
 
-[ViewSingle.Parent Property (Project)](https://msdn.microsoft.com/library/8d9a7328-ff35-08af-c132-29b500f62aa1%28Office.15%29.aspx)
+[ViewSingle.Parent Property (Project)](../api/Project.ViewSingle.Parent.md)
 
-[ChildDrivers.Parent Property (Project)](https://msdn.microsoft.com/library/f1d873ca-7231-03c9-c33e-51388cbce223%28Office.15%29.aspx)
+[ChildDrivers.Parent Property (Project)](../api/Project.ChildDrivers.Parent.md)
 
-[GroupCriteria.Parent Property (Project)](https://msdn.microsoft.com/library/ffd2aca5-2244-6138-6168-c0d115ab9adf%28Office.15%29.aspx)
+[GroupCriteria.Parent Property (Project)](../api/Project.GroupCriteria.Parent.md)
 
-[PayRate.Parent Property (Project)](https://msdn.microsoft.com/library/ba02dc16-31dc-2842-2438-e24e292d19d1%28Office.15%29.aspx)
+[PayRate.Parent Property (Project)](../api/Project.PayRate.Parent.md)
 
-[CalendarDrivers.Parent Property (Project)](https://msdn.microsoft.com/library/d5d76590-50f3-9289-b8b7-8eafbf166fe7%28Office.15%29.aspx)
+[CalendarDrivers.Parent Property (Project)](../api/Project.CalendarDrivers.Parent.md)
 
-[TimeScaleValue.Parent Property (Project)](https://msdn.microsoft.com/library/69b3a11e-609a-5d10-a76c-5e524e75c453%28Office.15%29.aspx)
+[TimeScaleValue.Parent Property (Project)](../api/Project.TimeScaleValue.Parent.md)
 
-[Subproject.Parent Property (Project)](https://msdn.microsoft.com/library/5676f800-20ce-7607-cdec-ea7596eb1cb5%28Office.15%29.aspx)
+[Subproject.Parent Property (Project)](../api/Project.Subproject.Parent.md)
 
-[OutlineCode.Parent Property (Project)](https://msdn.microsoft.com/library/fd9ff0b9-3f51-65c3-88cc-5a0bb9378c20%28Office.15%29.aspx)
+[OutlineCode.Parent Property (Project)](../api/Project.OutlineCode.Parent.md)
 
-[CostRateTables.Parent Property (Project)](https://msdn.microsoft.com/library/0a9a2729-0b7e-3d8c-acab-7996c9e86e7d%28Office.15%29.aspx)
+[CostRateTables.Parent Property (Project)](../api/Project.CostRateTables.Parent.md)
 
-[Tasks.Parent Property (Project)](https://msdn.microsoft.com/library/a2e8cfce-9c04-6c1f-badc-0fe506df270b%28Office.15%29.aspx)
+[Tasks.Parent Property (Project)](../api/Project.Tasks.Parent.md)
 
-[Window.Parent Property (Project)](https://msdn.microsoft.com/library/a1ce0007-43ee-b1dd-dc43-a9e94f37cf0b%28Office.15%29.aspx)
+[Window.Parent Property (Project)](../api/Project.Window.Parent.md)
 
-[Tables.Parent Property (Project)](https://msdn.microsoft.com/library/a673c887-b328-0759-a259-689f9ccfca87%28Office.15%29.aspx)
+[Tables.Parent Property (Project)](../api/Project.Tables.Parent.md)
 
-[TaskDependencies.Parent Property (Project)](https://msdn.microsoft.com/library/965a8751-4e56-9846-a1b6-d83163f5dfef%28Office.15%29.aspx)
+[TaskDependencies.Parent Property (Project)](../api/Project.TaskDependencies.Parent.md)
 
-[SplitPart.Parent Property (Project)](https://msdn.microsoft.com/library/30e914cb-fa82-86b8-ffea-ff8a980765f2%28Office.15%29.aspx)
+[SplitPart.Parent Property (Project)](../api/Project.SplitPart.Parent.md)
 
-[Period.Parent Property (Project)](https://msdn.microsoft.com/library/79fb5f07-f9d0-534d-32cf-e44e26fa4007%28Office.15%29.aspx)
+[Period.Parent Property (Project)](../api/Project.Period.Parent.md)
 
-[Months.Parent Property (Project)](https://msdn.microsoft.com/library/cc38fc6c-b412-4b49-5fa6-09ac1253d874%28Office.15%29.aspx)
+[Months.Parent Property (Project)](../api/Project.Months.Parent.md)
 
-[TaskGroups2.Parent Property (Project)](https://msdn.microsoft.com/library/309b4145-df2d-9d11-c807-3e8e409ee979%28Office.15%29.aspx)
+[TaskGroups2.Parent Property (Project)](../api/Project.TaskGroups2.Parent.md)
 
-[WorkWeeks.Parent Property (Project)](https://msdn.microsoft.com/library/d296a82d-4ad3-f0b0-1eab-3aed5abf8dab%28Office.15%29.aspx)
+[WorkWeeks.Parent Property (Project)](../api/Project.WorkWeeks.Parent.md)
 
-[ViewsCombination.Parent Property (Project)](https://msdn.microsoft.com/library/adaafd40-7d97-a169-078c-11ef6b22678a%28Office.15%29.aspx)
+[ViewsCombination.Parent Property (Project)](../api/Project.ViewsCombination.Parent.md)
 
-[SplitParts.Parent Property (Project)](https://msdn.microsoft.com/library/3a0be78b-c3f9-a8e5-c19b-9a1fb0fcedaf%28Office.15%29.aspx)
+[SplitParts.Parent Property (Project)](../api/Project.SplitParts.Parent.md)
 
-[Groups2.Parent Property (Project)](https://msdn.microsoft.com/library/96e31bff-927e-7f72-f7b6-da580ee9a027%28Office.15%29.aspx)
+[Groups2.Parent Property (Project)](../api/Project.Groups2.Parent.md)
 
-[LookupTableEntry.Parent Property (Project)](https://msdn.microsoft.com/library/4a7d4cc2-f70a-6787-70d2-a8c45fd3bfe5%28Office.15%29.aspx)
+[LookupTableEntry.Parent Property (Project)](../api/Project.LookupTableEntry.Parent.md)
 
-[Days.Parent Property (Project)](https://msdn.microsoft.com/library/d5e26446-bdba-96b4-6404-85ef921a0dd6%28Office.15%29.aspx)
+[Days.Parent Property (Project)](../api/Project.Days.Parent.md)
 
-[CodeMask.Parent Property (Project)](https://msdn.microsoft.com/library/9a1bae04-ed22-9838-9ea6-7b11dd65a1ee%28Office.15%29.aspx)
+[CodeMask.Parent Property (Project)](../api/Project.CodeMask.Parent.md)
 
-[Task.Parent Property (Project)](https://msdn.microsoft.com/library/809a2efc-6cce-65cb-fbb1-433dedc29841%28Office.15%29.aspx)
+[Task.Parent Property (Project)](../api/Project.Task.Parent.md)
 
-[Reports.Parent Property (Project)](https://msdn.microsoft.com/library/2d200975-cc2f-9933-b9c5-0645a87c83e8%28Office.15%29.aspx)
+[Reports.Parent Property (Project)](../api/Project.reports.parent.md)
 
-[Years.Parent Property (Project)](https://msdn.microsoft.com/library/d62d32c1-b332-45a5-5206-e64d5e699b09%28Office.15%29.aspx)
+[Years.Parent Property (Project)](../api/Project.Years.Parent.md)
 
-[Application.Parent Property (Project)](https://msdn.microsoft.com/library/4942313c-4f03-362f-0fbb-9596050a7231%28Office.15%29.aspx)
+[Application.Parent Property (Project)](../api/Project.Application.Parent.md)
 
-[Calendars.Parent Property (Project)](https://msdn.microsoft.com/library/51bada64-c5db-c3af-5bf0-0979aec8bbc4%28Office.15%29.aspx)
+[Calendars.Parent Property (Project)](../api/Project.Calendars.Parent.md)
 
-[Group.Parent Property (Project)](https://msdn.microsoft.com/library/8e137984-2557-a406-b2d4-392607c12353%28Office.15%29.aspx)
+[Group.Parent Property (Project)](../api/Project.Group.Parent.md)
 
-[Subprojects.Parent Property (Project)](https://msdn.microsoft.com/library/86af8044-cc92-fbf3-d98c-1d3b6ba7ca2a%28Office.15%29.aspx)
+[Subprojects.Parent Property (Project)](../api/Project.Subprojects.Parent.md)
 
-[List.Parent Property (Project)](https://msdn.microsoft.com/library/08d2d7d8-fafc-8f60-be78-c2d462005eaf%28Office.15%29.aspx)
+[List.Parent Property (Project)](../api/Project.List.Parent.md)
 
-[LookupTable.Parent Property (Project)](https://msdn.microsoft.com/library/e49d283d-6c5c-29b4-a5b8-84c770a303ef%28Office.15%29.aspx)
+[LookupTable.Parent Property (Project)](../api/Project.LookupTable.Parent.md)
 
-[TableField.Parent Property (Project)](https://msdn.microsoft.com/library/a16ace58-00e9-9ca3-ffbe-183ade647288%28Office.15%29.aspx)
+[TableField.Parent Property (Project)](../api/Project.TableField.Parent.md)
 
-[Shift.Parent Property (Project)](https://msdn.microsoft.com/library/bb657345-0310-d616-1fd8-e08155cb8ddf%28Office.15%29.aspx)
+[Shift.Parent Property (Project)](../api/Project.Shift.Parent.md)
 
-[Day.Parent Property (Project)](https://msdn.microsoft.com/library/b736b2ef-28ac-5191-450f-b516c350ad6d%28Office.15%29.aspx)
+[Day.Parent Property (Project)](../api/Project.Day.Parent.md)
 
-[TaskDependency.Parent Property (Project)](https://msdn.microsoft.com/library/74ee0cd7-07cd-6be3-1e11-06b0eede5373%28Office.15%29.aspx)
+[TaskDependency.Parent Property (Project)](../api/Project.TaskDependency.Parent.md)
 
-[Resource.OutlineCode2 Property (Project)](https://msdn.microsoft.com/library/94bb10d3-36ff-8117-e6bf-b08a0ef2d0ed%28Office.15%29.aspx)
+[Resource.OutlineCode2 Property (Project)](../api/Project.Resource.OutlineCode2.md)
 
-[Task.OutlineCode2 Property (Project)](https://msdn.microsoft.com/library/0b1e554a-a126-667e-966e-cdb9986422eb%28Office.15%29.aspx)
-
+[Task.OutlineCode2 Property (Project)](../api/Project.Task.OutlineCode2.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
