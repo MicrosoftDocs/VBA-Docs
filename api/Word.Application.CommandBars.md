@@ -17,7 +17,7 @@ localization_priority: Normal
 Returns a  **CommandBars** collection that represents the menu bar and all the toolbars in Microsoft Word.
 
 >[!Important]
->This property has changed. CommandBars("Comments") cannot be used to customize the context menu for comments.
+>This property has changed. **CommandBars**("Comments") cannot be used to customize the context menu for comments.
 
 ## Syntax
 
