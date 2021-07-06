@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Workbook.Connections property (Excel)
 
-Establishes a connection between the workbook and an ODBC or an OLEDB data source and refreshes the data without prompting the user. Read-only.
+Returns a [Connections](Excel.Connections.md) object that is a container for connections between the workbook and data sources such as ODBC, OLEDB, etc., that can refresh the data without prompting the user. Read-only.
 
 
 ## Syntax
