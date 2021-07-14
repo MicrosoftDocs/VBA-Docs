@@ -106,8 +106,7 @@ End With
 |[MarkerStyle](PowerPoint.Series.MarkerStyle.md)|
 |[Name](PowerPoint.Series.Name.md)|
 |[Parent](PowerPoint.Series.Parent.md)|
-|**[ParentDataLabelOption](PowerPoint.series.parentdatalabeloption.md)**|
-|:-----|
+|[ParentDataLabelOption](PowerPoint.series.parentdatalabeloption.md)|
 |[PictureType](PowerPoint.Series.PictureType.md)|
 |[PictureUnit2](PowerPoint.Series.PictureUnit2.md)|
 |[PlotColorIndex](PowerPoint.Series.PlotColorIndex.md)|
