@@ -28,11 +28,11 @@ Declare Sub...
 
 **Syntax 1**
 
-[ **Public** | **Private** ] **Declare** **Sub**_name_**Lib** "_libname_" [ **Alias** "_aliasname_" ] [ ( [ _arglist_ ] ) ]
+[ **Public** | **Private** ] **Declare** **Sub** _name_ **Lib** "_libname_" [ **Alias** "_aliasname_" ] [ ( [ _arglist_ ] ) ]
 
 **Syntax 2**
 
-[ **Public** | **Private** ] **Declare** **Function**_name_**Lib** "_libname_" [ **Alias** "_aliasname_" ] [ ( [ _arglist_ ] ) ] [ **As** _type_ ]
+[ **Public** | **Private** ] **Declare** **Function** _name_ **Lib** "_libname_" [ **Alias** "_aliasname_" ] [ ( [ _arglist_ ] ) ] [ **As** _type_ ]
 
 VBA7 **Declare** statement syntax
 
@@ -41,11 +41,11 @@ VBA7 **Declare** statement syntax
 
 **Syntax 1 (Sub)**
 
-[ **Public** | **Private** ] **Declare** **PtrSafe** **Sub**_name_**Lib** "_libname_" [ **Alias** "_aliasname_" ] [ ( [ _arglist_ ] ) ]
+[ **Public** | **Private** ] **Declare** **PtrSafe** **Sub** _name_ **Lib** "_libname_" [ **Alias** "_aliasname_" ] [ ( [ _arglist_ ] ) ]
 
 **Syntax 2 (Function)**
 
-[ **Public** | **Private** ] **Declare** **PtrSafe** **Function**_name_**Lib** "_libname_" [ **Alias** "_aliasname_" ] [ ( [ _arglist_ ] ) ] [ **As** _type_ ]
+[ **Public** | **Private** ] **Declare** **PtrSafe** **Function** _name_ **Lib** "_libname_" [ **Alias** "_aliasname_" ] [ ( [ _arglist_ ] ) ] [ **As** _type_ ]
 
 
 |Part|Description|
