@@ -4,7 +4,7 @@ ms.prod: excel
 api_name:
 - Excel.XlConsolidationFunction
 ms.assetid: a3d0e4c0-8463-340c-a258-219d49f715d7
-ms.date: 06/08/2017
+ms.date: 07/20/2021
 localization_priority: Normal
 ---
 
@@ -20,7 +20,7 @@ Specifies the subtotal function.
 | **xlAverage**|-4106|Average.|
 | **xlCount**|-4112|Count.|
 | **xlCountNums**|-4113|Count numerical values only.|
-| **xlDistinctCount**|111|Count using Distinct Count analysis.|
+| **xlDistinctCount**|11|Count using Distinct Count analysis.|
 | **xlMax**|-4136|Maximum.|
 | **xlMin**|-4139|Minimum.|
 | **xlProduct**|-4149|Multiply.|
