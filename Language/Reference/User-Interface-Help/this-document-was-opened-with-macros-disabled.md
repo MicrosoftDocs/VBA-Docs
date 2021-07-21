@@ -1,11 +1,12 @@
 ---
 title: This document was opened with macros disabled
+description: Learn how to enable macros
 keywords: vblr6.chm1057123
 f1_keywords:
 - vblr6.chm1057123
 ms.prod: office
 ms.assetid: 1a28f6be-9bb8-641f-b6d8-74c8e3df2d59
-ms.date: 01/18/2019
+ms.date: 07/20/2021
 localization_priority: Priority
 ---
 
