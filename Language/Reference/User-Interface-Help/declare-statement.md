@@ -1,11 +1,12 @@
 ---
 title: Declare statement (VBA)
+description: Learn how to use Declare statement (VBA)
 keywords: vblr6.chm1008781
 f1_keywords:
 - vblr6.chm1008781
 ms.prod: office
 ms.assetid: 82f68f6b-76c6-2efd-72d2-652000b3a083
-ms.date: 12/03/2018
+ms.date: 07/20/2021
 localization_priority: Normal
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Application.CommandBars property (Word)
+description: Learn how to return a CommandBars collection that represents the menu bar (Word)
 keywords: vbawd10.chm158335033
 f1_keywords:
 - vbawd10.chm158335033
@@ -7,7 +8,7 @@ ms.prod: word
 api_name:
 - Word.Application.CommandBars
 ms.assetid: 1082697d-edc8-c619-40d1-466d2ebf3817
-ms.date: 07/04/2021
+ms.date: 07/20/2021
 localization_priority: Normal
 ---
 
@@ -37,7 +38,6 @@ For information about returning a single member of a collection, see [Returning 
 
 This example enlarges all command bar buttons and enables ToolTips.
 
-
 ```vb
 With CommandBars 
  .LargeButtons = True 
@@ -46,9 +46,6 @@ End With
 ```
 
 This example displays the **Drawing** toolbar at the bottom of the application window.
-
-
-
 
 ```vb
 With CommandBars("Drawing") 
@@ -59,18 +56,13 @@ End With
 
 This example adds the Versions command button to the **Standard** toolbar.
 
-
-
-
 ```vb
 CustomizationContext = NormalTemplate 
 CommandBars("Standard").Controls.Add Type:=msoControlButton, _ 
  ID:=2522, Before:=4
 ```
 
-
 ## See also
-
 
 [Application Object](Word.Application.md)
 

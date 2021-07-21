@@ -1,5 +1,6 @@
 ---
 title: Connections.Add method (Excel)
+description: Learn how to add a new connection to a workbook (Excel)
 keywords: vbaxl10.chm776079
 f1_keywords:
 - vbaxl10.chm776079
@@ -7,7 +8,7 @@ ms.prod: excel
 api_name:
 - Excel.Connections.Add
 ms.assetid: 2dff072d-b250-e052-64d7-f75a4746a23f
-ms.date: 04/23/2019
+ms.date: 07/20/2021
 localization_priority: Normal
 ---
 
