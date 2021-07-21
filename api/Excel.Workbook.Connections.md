@@ -1,5 +1,6 @@
 ---
 title: Workbook.Connections property (Excel)
+description: Learn how use Workbook.Connections property to return a Connections object (Excel)
 keywords: vbaxl10.chm199235
 f1_keywords:
 - vbaxl10.chm199235
@@ -7,7 +8,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.Connections
 ms.assetid: 9c4f4ba7-dd4b-0bc2-65b7-16455014097f
-ms.date: 05/29/2019
+ms.date: 07/20/2021
 localization_priority: Normal
 ---
 
