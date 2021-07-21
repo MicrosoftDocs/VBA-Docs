@@ -7,7 +7,7 @@ ms.prod: word
 api_name:
 - Word.Application.CommandBars
 ms.assetid: 1082697d-edc8-c619-40d1-466d2ebf3817
-ms.date: 06/08/2017
+ms.date: 07/04/2021
 localization_priority: Normal
 ---
 
@@ -16,6 +16,8 @@ localization_priority: Normal
 
 Returns a  **CommandBars** collection that represents the menu bar and all the toolbars in Microsoft Word.
 
+>[!Important]
+>This property has changed. **CommandBars**("Comments") cannot be used to customize the context menu for comments.
 
 ## Syntax
 
