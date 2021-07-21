@@ -12,14 +12,16 @@ localization_priority: Normal
 
 # Using For Each...Next statements
 
-**[For Each...Next](../../reference/user-interface-help/for-eachnext-statement.md)** statements repeat a block of [statements](../../Glossary/vbe-glossary.md#statement) for each [object](../../Glossary/vbe-glossary.md#object) in a [collection](../../Glossary/vbe-glossary.md#collection) or each element in an [array](../../Glossary/vbe-glossary.md#array). Visual Basic automatically sets a [variable](../../Glossary/vbe-glossary.md#variable) each time the loop runs. For example, the following [procedure](../../Glossary/vbe-glossary.md#procedure) closes all forms except the form containing the procedure that's running.
+**[For Each...Next](../../reference/user-interface-help/for-eachnext-statement.md)** statements repeat a block of [statements](../../Glossary/vbe-glossary.md#statement) for each [object](../../Glossary/vbe-glossary.md#object) in a [collection](../../Glossary/vbe-glossary.md#collection) or each element in an [array](../../Glossary/vbe-glossary.md#array). Visual Basic automatically sets a [variable](../../Glossary/vbe-glossary.md#variable) each time the loop runs. For example, the following [procedure](../../Glossary/vbe-glossary.md#procedure) adds 10 to the value of every cell in the range A1 to A10.
 
 ```vb
-Sub CloseForms() 
- For Each frm In Application.Forms 
- If frm.Caption <> Screen. ActiveForm.Caption Then frm.Close 
- Next 
+Sub Add10ToAllCellsInRange()
+    Dim rng As Range
+    For Each rng In Range("A1:A10")
+        rng.Value = rng.Value + 10
+    Next
 End Sub
+
 ```
 
 The following code loops through each element in an array and sets the value of each to the value of the index variable I.
@@ -39,8 +41,8 @@ Use a **For Each...Next** loop to loop through the cells in a range. The followi
 
 ```vb
 Sub RoundToZero() 
- For Each myObject in myCollection 
- If Abs(myObject.Value) < 0.01 Then myObject.Value = 0 
+ For Each rng in Range("A1:D10") 
+ If Abs(rng.Value) < 0.01 Then rng.Value = 0 
  Next 
 End Sub
 ```
@@ -53,11 +55,11 @@ The following example tests for the first cell in the range A1:B5 that does not 
 
 ```vb
 Sub TestForNumbers() 
- For Each myObject In MyCollection 
- If IsNumeric(myObject.Value) = False Then 
- MsgBox "Object contains a non-numeric value." 
- Exit For 
- End If 
+ For Each rng In Range("A1:B5") 
+  If IsNumeric(rng.Value) = False Then 
+   MsgBox "Cell " & rng.Address & " contains a non-numeric value." 
+   Exit For 
+  End If 
  Next c 
 End Sub
 ```
