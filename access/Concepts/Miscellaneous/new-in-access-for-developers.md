@@ -2,7 +2,7 @@
 title: New in Access for developers
 ms.prod: access
 ms.assetid: df778f51-d65e-4c30-b618-65003ceb39b3
-ms.date: 06/08/2019
+ms.date: 08/06/2021
 localization_priority: Normal
 ---
 
@@ -18,7 +18,7 @@ Access 2013 features a new application model that is designed for one purpose―
 
 ## New application model
 
-In an on-premise environment, Access 2013 apps are hosted by SharePoint 2013 while the data is stored in SQL Server 2012. SharePoint 2013 provides authentication, authorization, and security for Access 2013 apps. The back-end tables, views, macros, and queries are stored in a SQL Server 2012 database. The following figure provides an overview of Access 2013 architecture: 
+In an on-premise environment, Access 2013 apps are hosted by SharePoint 2013 while the data is stored in SQL Server 2012. SharePoint 2013 provides authentication, authorization, and security for Access 2013 apps. The back-end tables, views, macros, and queries are stored in a SQL Server 2012 database. The following figure provides an overview of Access 2013 architecture.
 
 ![Access 2013 architecture](../../../images/odc_Office15_Access15OverviewDK2_Figure07.jpg)
 
@@ -28,31 +28,29 @@ Using SQL Server 2012 to store data provides manageability and scalability previ
 
 An Access 2013 app is online the moment it's created. You can decide to share the app with other users, deploy to the private corporate catalog, or deploy to the Office Store.
 
-
 ## Views
 
 Views (known as  _"forms"_ in Access desktop databases) provide the means by which users will interact with your Access app. Views in Access 2013 apps contain a common set of user interface elements that enable rapid creation of new apps.
 
-Access 2013 is designed to enable you to create functional views with little intervention. When you create a new table, Access automatically creates two views. The following figure shows a new table with the automatically-created views:
+Access 2013 is designed to enable you to create functional views with little intervention. When you create a new table, Access automatically creates two views. The following figure shows a new table with the automatically-created views.
 
-![New table with two views](../../../images/odc_Access15_WhatsNewInAccessforDevelopers_Figure02.jpg)
+![New table with automatically-created views](../../../images/odc_Access15_WhatsNewInAccessforDevelopers_Figure02.jpg)
 
-Views are organized by the tables they're bound to in the Tile Pane. By default, each table is represented by a tile in the Tile Pane. The following figure shows the Orders table selected in the Tile Pane:
+Views are organized by the tables they're bound to in the Tile Pane. By default, each table is represented by a tile in the Tile Pane. The following figure shows the Orders table selected in the Tile Pane.
 
 ![Tile pane](../../../images/odc_Access15_WhatsNewInAccessforDevelopers_Figure03.jpg)
 
 You can rearrange the tables in the Tile Pane. You can change the name displayed on a tile, which doesn't rename its underlying table. However, deleting the tile deletes the table.
 
-You can hide tiles that you don't want to be displayed in the web browser. When you hide a tile, you can still edit the underlying table and views in Access. Although the user can't access the views of hidden tiles directly, you can use the **ChangeView** or **OpenPopup** macro actions to display a view associated with a hidden tile. The following figure shows that the Related Issues and Issue Comments tiles have been hidden:
+You can hide tiles that you don't want to be displayed in the web browser. When you hide a tile, you can still edit the underlying table and views in Access. Although the user can't access the views of hidden tiles directly, you can use the **ChangeView** or **OpenPopup** macro actions to display a view associated with a hidden tile. The following figure shows that the Related Issues and Issue Comments tiles have been hidden.
 
 ![Hidden tiles in the view designer](../../../images/odc_Access15_WhatsNewInAccessforDevelopers_Figure04.jpg)
 
-Once a tile is selected, the View Selector opens the particular view that you want to work with. The following figure shows that the Orders Datasheet view is selected:
+Once a tile is selected, the View Selector opens the particular view that you want to work with. The following figure shows that the Orders Datasheet view is selected.
 
 ![Orders Datasheet view is active](../../../images/odc_Access15_WhatsNewInAccessforDevelopers_Figure05.jpg)
 
 You can remove the default views and add custom views to any tile.
-
 
 ### View Types
 
@@ -66,16 +64,15 @@ The list pane can display up to three items from each record by setting its **Pr
 
 The search box, located at the top of the list pane, filters the view by searching all values in the view.
 
-Datasheet is the other kind of view Access automatically generates when you create a table. Datasheet views are useful for those who find it easier to enter, sort, and filter data in a spreadsheet-like manner. The following figure shows that the Orders Datasheet view is filtered to display the orders that have not yet shipped:
+Datasheet is the other kind of view Access automatically generates when you create a table. Datasheet views are useful for those who find it easier to enter, sort, and filter data in a spreadsheet-like manner. The following figure shows that the Orders Datasheet view is filtered to display the orders that have not yet shipped.
 
 ![A filtered Datasheet view](../../../images/odc_Access15_WhatsNewInAccessforDevelopers_Figure07.jpg)
 
-Summary views can be used to group records based on a field and optionally calculate a sum or average. The field to group by displays its values in a list view. When a group is selected, the record contained in the group is displayed in a related items control. The related items control can be configured to display up to four fields that have information about the record. A popup view can be specified if you want to drill down on the item. The following figure shows the **Issues By Status** view, a Summary view that groups the **Issues** table by the **Status** field:
+Summary views can be used to group records based on a field and optionally calculate a sum or average. The field to group by displays its values in a list view. When a group is selected, the record contained in the group is displayed in a related items control. The related items control can be configured to display up to four fields that have information about the record. A popup view can be specified if you want to drill down on the item. The following figure shows the **Issues By Status** view, a Summary view that groups the **Issues** table by the **Status** field.
 
 ![A Summary view](../../../images/odc_Access15_WhatsNewInAccessforDevelopers_Figure08.jpg)
 
 Blank views are, as you might expect, blank when you create them. Blank views are useful for creating popup view that will contain a single record when you open it. Alternatively, you could use a Blank view to create a custom switchboard for the user to navigate your app.
-
 
 ### Customizing a view
 
@@ -86,7 +83,6 @@ The view designer is laid out as a table grid. As you add, move, and resize a co
 ![Property popup](../../../images/odc_Access15_WhatsNewInAccessforDevelopers_Figure09.jpg)
 
 When bound to a data source, List Detail, Datasheet, and Blank views contain an Action Bar. The Action Bar is a customizable toolbar that appears at the top of each view. By default, the Action Bar contains buttons to add, edit, save, delete, and cancel edits. You can add buttons that perform custom actions. You can also delete the default buttons, or hide the Action Bar altogether.
-
 
 ### New controls
 
@@ -100,16 +96,13 @@ As you type, the AutoComplete control displays up to eight matching records. The
 
 The Related Items control displays a set of records from tables related to the view's underlying table. The following figure shows a related items control on a view. The control is configured to have two tabs. The first tab displays issues opened by the selected employee. The second tab displays issues assigned to the selected employee.
 
-
 ![Related Items control](../../../images/odc_Access15_WhatsNewInAccessforDevelopers_Figure11.jpg)
 
 To edit the items in a Related Items tab, you must assign a view to its **Popup view** property. The specified view will open in a popup window when you choose an item.
 
-
 ## Programmability in Access apps
 
 Programmability in Access 2013 apps is provided by a custom macro language authored in the Access client. There are two kinds of macros, user interface (UI) macros and data macros. UI macros can perform actions that affect the user interface of your app, whereas data macros can work directly with the records contained in the app.
-
 
 ### User Interface macros
 
@@ -117,7 +110,7 @@ UI macros let you perform actions such as opening another view, applying a filte
 
 The following table lists the events that you can attach a UI macro to in a control or view.
 
-**TEvents supported in UI macros**
+#### TEvents supported in UI macros
 
 |**Event Type**|**When it occurs**|
 |:-----|:-----|
@@ -128,7 +121,7 @@ The following table lists the events that you can attach a UI macro to in a cont
 
 The following table lists the events supported by each control.
 
-**Events supported by each control**
+#### Events supported by each control
 
 |**Control or object type**|**Supported events**|
 |:-----|:-----|
@@ -154,7 +147,7 @@ Data macros provide a method for implementing business rules at the data layer. 
 
 The following table lists the events that you can attach a data macro to in a table.
 
-**Table 3. Events supported in data macros**
+#### Events supported in data macros
 
 |**Event type**|**When it occurs**|
 |:-----|:-----|
@@ -172,23 +165,18 @@ Standalone data macros can be called from UI macros and data macros by using the
 
 ## Publishing your Access app
 
-Access 2013 provides the ability for users to discover solutions directly from a private corporate catalog on SharePoint 2013 or the Office Store hosted on Office.com. The Office Store provides a convenient location for developers to upload new Access web apps aimed at both consumers and businesses. As a developer, when you upload your app to the Office Store, Microsoft runs some validation checks on it. If all tests are passed, the app package is wrapped into a file and signed by Microsoft.
-
+Access 2013 provides the ability for users to discover solutions directly from a private corporate catalog on SharePoint 2013 or AppSource. AppSource provides a convenient location for developers to upload new Access web apps aimed at both consumers and businesses. As a developer, when you upload your app to the AppSource, Microsoft runs some validation checks on it. If all tests are passed, the app package is wrapped into a file and signed by Microsoft.
 
 ## Conclusion
 
 Access 2013 introduces a new application model that enables subject matter experts to quickly create and share applications that can be used to run their business. A new interactive view designer makes it easy for users who have little or no programming experience to build apps. By using SharePoint 2013 to host the app and SQL Server 2012 to store data, Access apps are more manageable and scalable than ever. Compatibility with Office 365 and SQL Azure significantly expand the reach of Access apps.
 
-
 ## See also
 
-- [Create and customize a web app in Access](https://msdn.microsoft.com/library/628745f4-82e9-4838-9726-6f3e506a654f%28Office.15%29.aspx)
-- [What's new for Office 2013 developers](https://msdn.microsoft.com/library/d76ae308-555e-4147-8900-956d3eb8ba23%28Office.15%29.aspx)
-- [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
+- [Create and customize a web app in Access](/office/client-developer/access/how-to-create-and-customize-a-web-app-in-access.md)
+- [What's new for Office 2013 developers](/previous-versions/office/jj229830(v=office.15)?redirectedfrom=MSDN)
+- [Access for developers forum on Microsoft Q&A](/answers/topics/office-access-dev.html)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
-- [Access help on answers.microsoft.com](https://answers.microsoft.com/)
-- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
