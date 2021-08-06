@@ -56,22 +56,22 @@ Dim i As Long
 strFull = "Dow - Fonseca - Graham - Kopke - Noval - Offley - Sandeman - Taylor - Warre"    ' String that will be used. 
 
 arrSplitStrings1 = Split(strFull, "-")      ' arrSplitStrings1 will be an array from 0 To 8. 
-                                            ' arrSplitStrings1(0) = "Some " and arrSplitStrings1(1) = " Old ". 
+                                            ' arrSplitStrings1(0) = "Dow " and arrSplitStrings1(1) = " Fonesca ". 
                                             ' The delimiter did not include spaces, so the spaces in strFull will be included in the returned array values. 
 
 arrSplitStrings2 = Split(strFull, " - ")    ' arrSplitStrings2 will be an array from 0 To 8. 
-                                            ' arrSplitStrings2(0) = "Some" and arrSplitStrings2(1) = "Old". 
+                                            ' arrSplitStrings2(0) = "Dow" and arrSplitStrings2(1) = "Fonesca". 
                                             ' The delimiter includes the spaces, so the spaces will not be included in the returned array values. 
 
-'Multiple examples of how to return the value "Can" (array position 3). 
+'Multiple examples of how to return the value "Kopke" (array position 3). 
 
-strSingleString1 = arrSplitStrings2(3)      ' strSingleString1 = "Can". 
+strSingleString1 = arrSplitStrings2(3)      ' strSingleString1 = "Kopke". 
 
-strSingleString2 = Split(strFull, " - ")(3) ' strSingleString2 = "Can".
+strSingleString2 = Split(strFull, " - ")(3) ' strSingleString2 = "Kopke".
                                             ' This syntax can be used if the entire array is not needed, and the position in the returned array for the desired value is known. 
 
 For i = LBound(arrSplitStrings2, 1) To UBound(arrSplitStrings2, 1)
-    If InStr(1, arrSplitStrings2(i), "Can", vbTextCompare) > 0 Then
+    If InStr(1, arrSplitStrings2(i), "Kopke", vbTextCompare) > 0 Then
         strSingleString3 = arrSplitStrings2(i)
         Exit For
     End If 
