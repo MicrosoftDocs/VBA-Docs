@@ -5,14 +5,14 @@ f1_keywords:
 - vbaof11.chm5251628
 ms.prod: office
 ms.assetid: 5aaffe18-8b58-46bc-6c68-7b4862aa8fba
-ms.date: 01/02/2019
+ms.date: 09/07/2021
 localization_priority: Normal
 ---
 
 
 # Getting Help on Macintosh keywords (Office)
 
-You have requested Help for a Visual Basic keyword that is used only on the Macintosh; for more information, see the language reference Help that is included with Microsoft Office Macintosh Edition.
+You have requested Help for a Visual Basic keyword that is used only on the Macintosh. For more information, see the language reference Help that is included with Microsoft Office Macintosh Edition.
 
 ## See also
 
