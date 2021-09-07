@@ -39,6 +39,7 @@ The value of the  **ShowType** property can be one of these **PpSlideShowType** 
 |**ppShowTypeKiosk**|
 |**ppShowTypeSpeaker**|
 |**ppShowTypeWindow**|
+|**ppShowTypeWindow2**|
 
 ## Example
 
