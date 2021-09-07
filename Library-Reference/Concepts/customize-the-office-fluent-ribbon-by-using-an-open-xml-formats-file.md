@@ -2,10 +2,9 @@
 title: Customize the Office Fluent ribbon by using an Open XML formats file
 ms.prod: office
 ms.assetid: 562d79a2-c1eb-126a-1567-ddd0253f5972
-ms.date: 01/02/2019
+ms.date: 09/07/2021
 localization_priority: Normal
 ---
-
 
 # Customize the Office Fluent ribbon by using an Open XML formats file
 
@@ -40,7 +39,7 @@ The code example in this topic shows how to add custom components to the ribbon 
 
 5. Create a document in Word and save it with the name **RibbonSample.docm**.
     
-6. Open the Visual Basic Editor, add the following procedure to the **ThisDocument** code module, and then close and save the document.
+6. Open the Visual Basic Editor, and add the following procedure to the **ThisDocument** code module. Close and save the document.
     
     ```vb
       Sub InsertCompanyName(ByVal control As IRibbonControl) 
