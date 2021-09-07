@@ -2,14 +2,13 @@
 title: Using the Document Inspector
 ms.prod: office
 ms.assetid: 62180311-ee41-1812-797d-3b5814add284
-ms.date: 01/02/2019
+ms.date: 09/07/2021
 localization_priority: Normal
 ---
 
+# Use the Document Inspector
 
-# Using the Document Inspector
-
-The **Document Inspector** gives users an easy way to examine documents for personal or sensitive information, text phrases, and other document contents. They can use the **Document Inspector** to remove unwanted information; for example, before distributing a document.
+The **Document Inspector** gives users an easy way to examine documents for personal or sensitive information, text phrases, and other document contents. For example, before distributing a document, they can use the **Document Inspector** to remove unwanted information.
 
 > [!NOTE] 
 > Microsoft does not support the automatic removal of hidden information for signed or protected documents, or for documents that use Information Rights Management (IRM). We recommend that you run the **Document Inspector** before you sign a document or invoke IRM on a document.
@@ -65,9 +64,8 @@ The **Document Inspector** has modules that help users inspect and fix specific 
 - Headers, footers, and watermarks   
 - Invisible content  
 - Hidden text
-    
 
-## Opening the Document Inspector
+## Open the Document Inspector
 
 To open the **Document Inspector**:
 
