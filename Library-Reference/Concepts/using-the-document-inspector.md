@@ -1,5 +1,6 @@
 ---
 title: Using the Document Inspector
+description: Learn how the Document Inspector gives users and easy way to examine documents
 ms.prod: office
 ms.assetid: 62180311-ee41-1812-797d-3b5814add284
 ms.date: 09/07/2021

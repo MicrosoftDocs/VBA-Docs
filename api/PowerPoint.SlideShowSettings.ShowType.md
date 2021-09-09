@@ -1,5 +1,6 @@
 ---
 title: SlideShowSettings.ShowType property (PowerPoint)
+description: Returns or sets the show type for the specified slide show
 keywords: vbapp10.chm514010
 f1_keywords:
 - vbapp10.chm514010
@@ -7,7 +8,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowSettings.ShowType
 ms.assetid: 6537dd4c-8029-3e95-7073-7701ba12a627
-ms.date: 06/08/2017
+ms.date: 09/09/2021
 localization_priority: Normal
 ---
 

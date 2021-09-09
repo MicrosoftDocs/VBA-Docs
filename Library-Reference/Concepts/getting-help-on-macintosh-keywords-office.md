@@ -1,5 +1,6 @@
 ---
-title: Getting Help on Macintosh keywords (Office)
+title: Get Help on Macintosh keywords (Office)
+description: How to get Help on Office on Macintosh keywords
 keywords: vbaof11.chm5251628
 f1_keywords:
 - vbaof11.chm5251628
@@ -10,7 +11,7 @@ localization_priority: Normal
 ---
 
 
-# Getting Help on Macintosh keywords (Office)
+# Get Help on Macintosh keywords (Office)
 
 You have requested Help for a Visual Basic keyword that is used only on the Macintosh. For more information, see the language reference Help that is included with Microsoft Office Macintosh Edition.
 
